@@ -46,11 +46,11 @@ EAN
 
 Diagnostic différentiel du tremblement essentiel:
 
-- [Maladie de Parkinson]({{< relref "maladie-parkinson.md" >}})
+- [Maladie de Parkinson]({{% relref "maladie-parkinson.md" %}})
 - Tremblement isolé:
   - des membres: autre mouvement anormal en cas de tremblement supérieur à 12 Hz
   - de la tête: dystonie cervicale
-  - de la voix: [dystonie laryngée]({{< relref "dysphonie.md" >}})
+  - de la voix: [dystonie laryngée]({{% relref "dysphonie.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -59,7 +59,7 @@ Le diagnostic de tremblement essentiel est clinique.
 
 ### Interrogatoire
 
-- Antécédents: [Parkinson]({{< relref "maladie-parkinson.md" >}}) (6% associés), dystonies (7% associées)
+- Antécédents: [Parkinson]({{% relref "maladie-parkinson.md" %}}) (6% associés), dystonies (7% associées)
 - **Antécédents familiaux** de tremblement essentiel (50%)
 - Traitements en cours aggravants  
   Neuroleptiques, sétrons, antidépresseurs sérotoninergiques, sympathomimétiques (salbutamol ...), lévothyroxine, (des)loratadine ...

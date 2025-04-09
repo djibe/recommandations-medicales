@@ -78,7 +78,7 @@ Le tableau diarrhéique aigu apparaît souvent **à l'introduction d'une nouvell
 
 ### Interrogatoire
 
-- Antécédents: hospitalisation récente, immunodépression, [syndrome de l'intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}}) (RR x 4,8), insuffisances d'organes
+- Antécédents: hospitalisation récente, immunodépression, [syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}) (RR x 4,8), insuffisances d'organes
 - Traitements en cours (iatrogénie et à risque: IPP)
 - **Antibiothérapie das les 3 mois**, antibiothérapies répétées
 - Autres facteurs de risque: après 65 ans
@@ -88,7 +88,7 @@ Le tableau diarrhéique aigu apparaît souvent **à l'introduction d'une nouvell
   - Douleurs et crampes abdominales
   - Nausées
   - Anorexie
-- Signes différentiels: voyage récent, aliments à risque de TIAC, signes de [thyrotoxicose]({{< relref "hyperthyroidie.md" >}}), AEG, rectorragies
+- Signes différentiels: voyage récent, aliments à risque de TIAC, signes de [thyrotoxicose]({{% relref "hyperthyroidie.md" %}}), AEG, rectorragies
 
 ### Examen clinique
 
@@ -119,7 +119,7 @@ Le tableau diarrhéique aigu apparaît souvent **à l'introduction d'une nouvell
 
 La prise en charge de l'infection à *Clostridioides difficile* (ICD, ex *Claustridium difficile*) est ambulatoire **en l'absence de signes de gravité** avec une antibiothérapie simple.
 
-Traitement de *Claustridium difficile* non sévère: **vancomycine** 125 mg x 4/j pendant 10 jours (minimum 14 jours si [intestin irritable]({{< relref "syndrome-intestin-irritable.md" >}})) et arrêt de l'antibiotique inducteur.
+Traitement de *Claustridium difficile* non sévère: **vancomycine** 125 mg x 4/j pendant 10 jours (minimum 14 jours si [intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}})) et arrêt de l'antibiotique inducteur.
 {.alert .alert-info}
 
 En cas de récidive (dans les 8 semaines suivant la fin du traitement): demander un **avis infectiologique**.

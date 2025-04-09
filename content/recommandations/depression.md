@@ -236,7 +236,7 @@ Diagnostic différentiel d'un épisode dépressif caractérisé:
   - Trouble bipolaire
   - Trouble dépressif persistant (ex dysthymie) ou récurrent (épisode dépressif saisonnier)
   - Trouble de l'adaptation
-  - Trouble anxieux: [trouble anxieux généralisé]({{< relref "trouble-anxieux-generalise.md" >}}), état de stress post-traumatique
+  - Trouble anxieux: [trouble anxieux généralisé]({{% relref "trouble-anxieux-generalise.md" %}}), état de stress post-traumatique
   - Trouble schizophrénique (trouble schizo-affectif, le trouble schizophréniforme), troubles délirants
   - Trouble somatoforme, trouble de conduite alimentaire
   - Trouble de la personnalité

@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-19T15:57:14+02:00"
 publishdate = "2023-10-30"
-lastmod = "2025-02-28"
+lastmod = "2025-04-09"
 specialites = ["infectiologie", "neurologie"]
 annees = "2023"
 sources = ["GPIP", "SPILF", "MinSanté", "DGS"]
@@ -27,7 +27,7 @@ flowchart = true
 
 - La méningite est une urgence vitale du fait de l'extrême gravité de toute atteinte infectieuse méningée
 - Signes et symptômes de méningite bactérienne: fièvre élevée, raideur de la nuque, céphalées, troubles de conscience, purpura, convulsions
-- Évaluation rapide des paramètres vitaux, recherche d'un purpura chez le patient déshabillé
+- Évaluation rapide des paramètres vitaux et rechercher un purpura chez le patient déshabillé
 - Devant un purpura fulminans: appel immédiat du SAMU et antibiothérapie par ceftriaxone 1g IM (50/mg/kg chez l'enfant, max 1g), port du masque
 - Transport immédiat si délai d'intervention du SAMU supérieur à 20 minutes (prévenir les *Urgences*)
 - En cas de méningocoque: prise en charge des sujets contacts par antibioprophylaxie, déclaration obligatoire et vaccination (sauf sérogroupe B)
@@ -154,17 +154,15 @@ Pas de vaccination anti-pneumococcique autour d'un cas de méningite bactérienn
 
 #### Méningocoque C
 
-Vaccination de la méningite C en prévention primaire de tous les nourrissons: **2 doses obligatoire à 5 et 12 mois** (*Calendrier vaccinal*). Rattrapage jusqu'à 24 ans. Selon la *HAS*, **vaccin ACWY** Nimenrix à 5 mois et Nimenrix ou MenQuadfi à 12 mois.
-
 Pour la vaccination des **sujets contacts** en prévention secondaire, lire *Calendrier vaccinal*.
 
-#### Méningocoque A/W/Y
+#### Méningocoques A/C/W/Y
 
 > Au 1er janvier 2025, vaccination obligatoire des nourrissons contre les méningocoques B et ACWY
 
-Vaccination de la méningite A, W, Y en prévention primaire avec **dose unique**: adolescent de 11 à 14 ans (rattrapage jusqu'à 24 ans), immunodépression ([asplénie]({{% relref "asplenie.md" %}})), laboratoire travaillant sur le méningocoque, voyage (La Mecque).
+Vaccination de la méningite ACWY en prévention primaire de tous les nourrissons: **2 doses obligatoire à 6 et 12 mois** (*Calendrier vaccinal*). Rattrapage chez le nourrisson jusqu'à 35 mois (*HAS 2025*). À l'adolescence (11-14 ans), 1 dose quelque soit le nombre de vaccins antérieurs, avec rattrapage jusqu'à 24 ans.
 
-Pour la HAS, intérêt chez tous les nourrissons à 5 et 12 mois à la place du vaccin Méningo C (voir paragraphe précédent).
+Autres indications: immunodépression ([asplénie]({{% relref "asplenie.md" %}})), laboratoire travaillant sur le méningocoque, voyage (La Mecque).
 
 Spécialités disponibles: [Menquadfi®](https://ec.europa.eu/health/documents/community-register/2022/20220929157200/anx_157200_fr.pdf), Menveo® (fourni sans aiguille) ou [Nimenrix®](https://ec.europa.eu/health/documents/community-register/2023/20230223158551/anx_158551_fr.pdf)
 
@@ -181,9 +179,12 @@ Pour la vaccination des sujets contacts en prévention secondaire d'un sérogrou
 
 > Au 1er janvier 2025, vaccination obligatoire des nourrissons contre les méningocoques B et ACWY.
 
-Vaccination de la méningite B en prévention primaire: recommandée à 3 mois, 5 mois et 12 mois par [Bexsero®](https://ec.europa.eu/health/documents/community-register/2021/20210701152279/anx_152279_fr.pdf). Rattrapage jusqu'à 23 mois.
+Vaccination de la méningite B en prévention primaire: recommandée à 3 mois, 5 mois et 12 mois par [Bexsero®](https://ec.europa.eu/health/documents/community-register/2021/20210701152279/anx_152279_fr.pdf). Rattrapage jusqu'à 4 ans (*HAS 2025*).
 
-En cas de contact d'un sérogroupe B, la vaccination n'est pas recommandée sauf cas groupés de méningite B.
+La vaccination est possible de 15 à 24 ans (2 doses de Bexsero espacées d'au moins 1 mois) si le patient le souhaite (*HAS 2024*).
+
+> [!WARNING]
+> En cas de contact d'un sérogroupe B, la vaccination n'est pas recommandée sauf cas groupés de méningite B.
 
 ### *Haemophilus influenzae* type B
 
@@ -273,7 +274,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Stratégie de vaccination contre les infections invasives à méningocoques. 2025.](https://www.has-sante.fr/jcms/p_3597524/fr/strategie-de-vaccination-contre-les-infections-invasives-a-meningocoques)
 - [DGS-Urgent 2025_06. Augmentation des infections invasives à méningocoques en France. 21/02/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
+- [HAS. Stratégie de vaccination contre les infections invasives à méningocoques : Révision de la stratégie contre les sérogroupes ACWY et B. 2024.](https://www.has-sante.fr/jcms/p_3460601/fr/strategie-de-vaccination-contre-les-infections-invasives-a-meningocoques-revision-de-la-strategie-contre-les-serogroupes-acwy-et-b)
 - [Journal Officiel. Décret n° 2024-694 du 5 juillet 2024 relatif à l'obligation vaccinale contre les méningocoques de type B et ACWY. 21/07/2023.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047867676)
 - [CMIT. Méningites, méningo-encéphalites, abcès cérébral chez l'adulte et l'enfant. Item 151. Pilly Etudiant. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-151-version2024-copyright-1.pdf)
 - {{< references/calendrier-vaccinal >}}

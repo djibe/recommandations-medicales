@@ -47,7 +47,7 @@ Signes et symptômes pour le **diagnostic clinique** du mégalérythème épidé
 
 ### Interrogatoire
 
-Incubation de 6 à 14 jours avec:
+L'incubation du parvovirus B19 dure de 6 à 14 jours.
 
 - Enfant et adolescent (5 à 14 ans)
 - Antécédents: hémolyse chronique (drépanocytose, sphérocytose, thalassémie), immunodépression

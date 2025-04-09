@@ -39,7 +39,7 @@ Maladie de Parkinson idiopathique (MPI)
 : Maladie dégénérative de cause inconnue touchant les systèmes dopaminergiques, cholinergiques, noradrénergiques et sérotoninergiques. Le diagnostic de certitude est histologique (et donc autopsique).
 : Première cause de syndrome parkinsonien et 2^e^ maladie neurodégénérative (derrière [Alzheimer]({{% relref "maladie-alzheimer.md" %}})).
 
-[Tremblement essentiel]({{< relref "tremblement-essentiel.md" >}})
+[Tremblement essentiel]({{% relref "tremblement-essentiel.md" %}})
 : Début à l'adolescence (~15 ans) ou plus tard vers 50 ans, fréquent, souvent bilatéral et symétrique, rapide (4-10 Hz), tremblement d'action postural ou cinétique sans tremblement de repos. Déclenchement immédiat du tremblement postural.
 : Il atteint la tête, le cou ou la voix et les membres sans autres signes neurologiques. Amélioration avec l'alcool et les bêtabloquants, aggravation avec le stress, la caféine ou la privation de sommeil.
 : Le tremblement essentiel peut coexister avec la Maladie de Parkinson idiopathique.
@@ -77,7 +77,7 @@ Hypokinésie
 > La Maladie de Parkinson est la seule cause de tremblement de repos unilatéral (sauf de rares lésions mésencéphaliques).
 
 - Tremblement postural et d'action
-  - **[Tremblement essentiel]({{< relref "tremblement-essentiel.md" >}})**
+  - **[Tremblement essentiel]({{% relref "tremblement-essentiel.md" %}})**
   - Tremblement physiologique exagéré
   - [Hyperthyroïdie]({{% relref "hyperthyroidie.md" %}})
   - Iatrogénie  
@@ -196,7 +196,7 @@ La triade classique est akinésie/bradykinésie, rigidité et tremblement de rep
   - Distal (pouce, index, poignet voire lèvre, menton, mâchoire, jambes)  
     Rarement tête, cou, voix.
   - Diminue au mouvement volontaire  
-    Peut être plus marqué à la posture, il est alors retardé (à la différence du [tremblement essentiel]({{< relref "tremblement-essentiel.md" >}}))
+    Peut être plus marqué à la posture, il est alors retardé (à la différence du [tremblement essentiel]({{% relref "tremblement-essentiel.md" %}}))
   - Non modifié par l'alcool et les bêtabloquants
   - Aggravé par le calcul et l'émotion
 - **Instabilité posturale** précoce

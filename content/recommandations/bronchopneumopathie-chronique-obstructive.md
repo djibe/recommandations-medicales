@@ -203,7 +203,7 @@ Tabagisme, âge +35 ans, dyspnée persistante et progressive, décrite comme né
 - Traitements en cours  
   À risque: gabapentine, prégabaline.
 - **Symptômes persistants de BPCO**  
-  **[Toux chronique]({{< relref "toux-chronique.md" >}})**, expectoration, **dyspnée** (aggravée à l'effort), sifflements, [fatigue](/tags/fatigue/), perte de poids, anorexie.  
+  **[Toux chronique]({{% relref "toux-chronique.md" %}})**, expectoration, **dyspnée** (aggravée à l'effort), sifflements, [fatigue](/tags/fatigue/), perte de poids, anorexie.  
   Évolution pondérale, appétit.
 - Histoire de la maladie  
   Âge de début, dyspnée et symptômes, rhumes traînants, bronchites hivernales fréquentes, consommation d'antibiotiques, renoncement à des activités.

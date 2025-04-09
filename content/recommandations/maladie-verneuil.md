@@ -113,7 +113,7 @@ Les prélèvements bactériologiques sont d'interprétation délicate et réserv
 - Pas d'intérêt de pratiquer un roulement des antibiotiques
 - Pas d'intérêt des antibiotiques topiques ou parentéraux
 - La moitié des patients étant en surpoids/obèses, les posologies doivent être adaptées
-- Prévenir des effets indésirables: diarrhées, vulvo-vaginites et risque rare de colite à *[Claustridium difficile]({{< relref "infections-claustridium-difficile.md" >}})*
+- Prévenir des effets indésirables: diarrhées, vulvo-vaginites et risque rare de colite à *[Claustridium difficile]({{% relref "infections-claustridium-difficile.md" %}})*
 - Germes principaux sont les staphylocoques coagulase négative (SCN) et les anaérobies.
 
 #### Traitement d'entretien

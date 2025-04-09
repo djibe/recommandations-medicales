@@ -77,7 +77,7 @@ Causes de dysphonie:
 - Neurologique
   - Dystonie laryngée (ex. dysphonie spasmodique)
   - Paralysie des cordes vocales
-  - [Tremblement essentiel]({{< relref "tremblement-essentiel.md" >}})
+  - [Tremblement essentiel]({{% relref "tremblement-essentiel.md" %}})
   - [Maladie de Parkinson]({{% relref "maladie-parkinson.md" %}})
 - Cardiologique: [péricardite]({{% relref "pericardite-aigue.md" %}})
 - Endocrinienne

@@ -280,7 +280,7 @@ Après cancer du col de l'utérus, le suivi comporte:
 - Bilans: pas d'examen en l'absence de symptômes  
   Sauf traitement conservateur: IRM pelvienne annuelle pendant 5 ans.
 - Marqueur tumoral SCC: si épidermoïde avec élévation initiale
-- Si stérilisation: [traitement hormonal de la ménopause]({{< relref "menopause.md" >}})
+- Si stérilisation: [traitement hormonal de la ménopause]({{% relref "menopause.md" %}})
 - Dépistage organisé des autres cancers
 
 > Les **récidives** surviennent surtout dans les 2 ans, mais 10% interviennent après 5 ans.

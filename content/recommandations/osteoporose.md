@@ -355,7 +355,7 @@ Tout au long de la vie: activité physique adaptée, {{< modal-btn modal-regime 
   - Prévenir une carence en vitamine D par cible ≥ 75 nmol/L
   - Dose d'entretien: 800-1200 UI/j (ou 80-100.000 UI/2-3 mois)
   - Voir *[Vitamine D]({{% relref "vitamine-d.md" %}})* pour les protocoles de correction et supplémentations
-- [Calcium]({{< relref "apports-calcium.md" >}})
+- [Calcium]({{% relref "apports-calcium.md" %}})
   - Femme ménopausée ≥ 50 ans: {{< modal-btn modal-calcium-cible >}}apports cibles 1 - 1,2 g/j{{< /modal-btn >}}
   - {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}}
   - Associations calcium/vitamine D, à distance des repas

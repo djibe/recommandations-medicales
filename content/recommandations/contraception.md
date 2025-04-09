@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2025-01-26"
+lastmod = "2025-04-06"
 specialites = ["gynécologie-obstétrique", "thérapeutique", "urologie"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
@@ -187,7 +187,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 | Patch       | 20       | Norelgestromine 0,15 | NR: Evra (18-45 ans, < 90 kg) |
 | DIU cuivre  | 0        | 0                | 7Med, CCD, Mona Lisa. et [autre liste (PDF)](http://www.apima.org/img_bronner/Tableau_contraceptifs.pdf) |
 | DIU         | 0        | LNG              | Donasert, Kyleena, Mirena |
-| Préservatif | 0        | 0                | Be Loved, Eden, Eden perlés, Manix Classic, Sortez couverts !, Sure & Smile |
+| Préservatif | 0        | 0                | Be Loved, Eden, Eden perlés, Manix Classic, Manix sensitivity (sans latex), Sortez couverts !, Sure & Smile |
 | Cape cervicale | 0     | 0                | Be Loved free, Ormelle, So sexy & Smile  |
 {{< /table >}}
 
@@ -666,6 +666,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Ovsepyan V, et al. Practical Recommendations for Minimizing Pain and Anxiety with IUD Insertion. J Am Board Fam Med. 2024.](https://www.jabfm.org/content/37/6/1150)
 - [Ciangura C, et al. Clinical Practice Guidelines for Childbearing Female Candidates for Bariatric Surgery, Pregnancy, and Post-partum Management After Bariatric Surgery. OBES SURG. 2019.](https://link.springer.com/article/10.1007/s11695-019-04093-y)
 - [Faculty of Sexual and Reproductive Healthcare (FSRH). FSRH CEU Guidance: Recommended Actions after incorrect Use of Combined Hormonal Contraception (e.g. late or missed pills, ring and patch). 2020.](https://www.fsrh.org/Public/Documents/fsrh-ceu-guidance-recommended-actions-after-incorrect-use.aspx)
 - [Faculty of Sexual and Reproductive Healthcare (FSRH). FSRH Clinical Guideline: Quick Starting Contraception. 2017.](https://www.fsrh.org/Public/Documents/fsrh-clinical-guidance-quick-starting-contraception-april-2017.aspx)

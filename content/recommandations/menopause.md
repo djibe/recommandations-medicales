@@ -306,8 +306,8 @@ Objectifs: amélioration de la santé, des signes climatériques, du risque card
 - Antécédent de cancer du sein  
   Contre-indication aux phytoœstrogènes.
 
+> [!INFO]
 > Prise de poids à la ménopause: << Seuls les excès répétés et/ou un déséquilibre chronique quantitatif et qualitatif de l'alimentation peuvent être en cause >>. -- *CNGOF 2021*
-{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Contre-indications au THM" %}}

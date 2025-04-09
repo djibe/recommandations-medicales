@@ -29,7 +29,7 @@ todo = "flow, revoir posologies"
 - La prise en charge de la thrombose veineuse superficielle dépend du terrain (isolée ou cancer, grossesse), de son extension (taille, localisation par rapport aux jonctions des trajets veineux) et du risque hémorragique: contention élastique voire anticoagulation
 - Chez la femme, une TVS contre-indique les œstrogènes, par parenté à la maladie thromboembolique veineuse (MTEV)
 
-Chapitre lié: [thrombose veineuse profonde (TVP)]({{< relref "thrombose-veineuse-profonde.md" >}})
+Chapitre lié: [thrombose veineuse profonde (TVP)]({{% relref "thrombose-veineuse-profonde.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -74,7 +74,7 @@ La thrombose veineuse superficielle touche principalement les femme âgées, en 
 
 Signes et symptômes de thrombose veineuse superficielle à rechercher:
 
-- Antécédents: [phlébites]({{< relref "thrombose-veineuse-profonde.md" >}}), varices, [maladie rénale chronique]({{< relref "insuffisance-renale-chronique.md" >}})
+- Antécédents: [phlébites]({{% relref "thrombose-veineuse-profonde.md" %}}), varices, [maladie rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})
 - Traitements en cours
 - Caractères de la thrombose veineuse superficielle:
   - Contexte et histoire de la maladie

@@ -53,7 +53,7 @@ Autres diagnostics à rechercher devant un tableau d'algie pelvienne chronique:
 - Syndromes myofasciaux des muscles fessiers profonds  
   Muscles piriforme, muscle obturateur interne, élévateur de l'anus.
 - Dermatoses inflammatoires  
-  [Psoriasis]({{< relref "psoriasis.md" >}}), lichen vulvaire.
+  [Psoriasis]({{% relref "psoriasis.md" %}}), lichen vulvaire.
 - Vestibulodynie  
   Douleur déclenchée uniquement aux rapports sexuels.
 - Uréthralgie chronique, syndrome de douleur vésicale  

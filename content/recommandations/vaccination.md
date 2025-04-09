@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2025-03-19"
+lastmod = "2025-04-09"
 specialites = ["infectiologie", "pédiatrie", "thérapeutique"]
 annees = "2025"
 sources = ["MinSanté", "HCSP"]
@@ -75,6 +75,7 @@ VVA
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
 | 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
 | 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>Nimenrix, MenQuadfi, Menveo (pas d'aiguille)           |
+| 15-24 ans  | Méningo B si souhait de vaccination (HAS 2024)       | Bexsero                                                                   |
 |   25 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
 |   45 ans   | dTcaPolio (dTPolio retiré)                           | BoostrixTetra, Repevax                                                    |
 |  +65 ans   | dTcaPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Pneumo 20 + Zona | BoostrixTetra, Repevax<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>Prevenar20 (NR) + Shingrix M0-M2 |
@@ -320,8 +321,8 @@ Documents pour informer sur la vaccination:
 - [HAS. Élargissement des critères d'éligibilité à la vaccination antipneumococcique chez les adultes - Recommandation vaccinale. 2025.](https://www.has-sante.fr/jcms/p_3586414/fr/elargissement-des-criteres-d-eligibilite-a-la-vaccination-antipneumococcique-chez-les-adultes-recommandation-vaccinale)
 - [DGS-Urgent 2025_03. Fin de la campagne d'immunisation des nouveaux-nés et nourrissons contre le VRS. 28/01/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - {{< references/calendrier-vaccinal >}}
+- [HAS. Stratégie de vaccination contre les infections invasives à méningocoques : Révision de la stratégie contre les sérogroupes ACWY et B. 2024.](https://www.has-sante.fr/jcms/p_3460601/fr/strategie-de-vaccination-contre-les-infections-invasives-a-meningocoques-revision-de-la-strategie-contre-les-serogroupes-acwy-et-b)
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
-- [HAS. Stratégie de vaccination contre les infections invasives à méningocoques - Évaluation de l'interchangeabilité des vaccins méningococciques tétravalents pour l'administration de la dose de rappel à l'âge de 12 mois. 2024.](https://www.has-sante.fr/jcms/p_3528695/fr/strategie-de-vaccination-contre-les-infections-invasives-a-meningocoques-evaluation-de-l-interchangeabilite-des-vaccins-meningococciques-tetravalents-pour-l-administration-de-la-dose-de-rappel-a-l-age-de-12-mois)
 - [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
 - [Journal Officiel. Décret n° 2024-694 du 5 juillet 2024 relatif à l'obligation vaccinale contre les méningocoques de type B et ACWY. 21/07/2023.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047867676)
 - [Service Public. Les pharmaciens peuvent désormais vous prescrire et vous administrer vos vaccins. 30/08/2023.](https://www.service-public.fr/particuliers/actualites/A16732) et [arrêté 2023-736](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047948973)

@@ -88,12 +88,12 @@ Rechercher l'épisode hypomaniaque avec le Mood Disorder Questionnaire (MDQ) (We
 Autres pathologies à rechercher devant un trouble de l'humeur:
 
 - Somatiques
-  - Endocrinopathies: [hypothyroïdie]({{< relref "hypothyroidie.md" >}}), [hyperthyroïdie]({{< relref "hyperthyroidie.md" >}}), maladie de Cushing, hypoglycémie
+  - Endocrinopathies: [hypothyroïdie]({{% relref "hypothyroidie.md" %}}), [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}), maladie de Cushing, hypoglycémie
   - Infectieuse: méningoencéphalite
   - Neurologique: épilepsie, tumeur cérébrale, sclérose en plaques, AVC voire démence
   - Auto-immune: lupus
   - Démence
-- Iatrogénie: [corticoïdes]({{< relref "corticoides.md" >}}), [antidépresseurs]({{< relref "depression.md" >}}), interféron alpha, certains antipaludéens, méthylphénidate
+- Iatrogénie: [corticoïdes]({{% relref "corticoides.md" %}}), [antidépresseurs]({{% relref "depression.md" %}}), interféron alpha, certains antipaludéens, méthylphénidate
 - Substances psychoactives: abus, dépendance, sevrage
 - Psychiatrique
   - Autres troubles de l'humeur (trouble unipolaire, trouble cyclothymique)
@@ -256,6 +256,7 @@ Suivi au moins annuel: symptômes, observance, effets indésirables, dernière c
 {{% /collapse %}}
 {{%sources%}}
 
+- [Santé mentale : vivre avec un trouble bipolaire. Ministère de la Santé. 28/03/2025.](https://sante.gouv.fr/actualites/actualites-du-ministere/article/sante-mentale-vivre-avec-un-trouble-bipolaire-432903)
 - [HAS. ALD 23 - Troubles bipolaires. Actes et prestations Affection de longue durée. 2025.](https://www.has-sante.fr/jcms/c_849818/fr/ald-n-23-troubles-bipolaires)
 - [CBIP. Troubles bipolaires : l'utilisation prolongée d'antidépresseurs est-elle justifiée ?. Folia. 2025.](https://www.cbip.be/fr/articles/4504?folia=4503)
 - [Goes F. Diagnosis and management of bipolar disorders. BMJ. 2023.](https://www.bmj.com/content/381/bmj-2022-073591)

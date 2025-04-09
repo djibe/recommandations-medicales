@@ -179,8 +179,8 @@ Signes et symptômes de pneumonie à rechercher à l'examen.
   **immunodépression** (chimiothérapie, greffe, hémopathie, VIH avec CD4 < 200), comorbidités (insuffisance d'organe, BPCO, [splénectomie]({{% relref "asplenie.md" %}}) ++, maladie inflammatoire).
 - Contexte  
   Grossesse, antibiothérapie dans le mois ou hospitalisation dans les 3 mois.
-- Traitements: [corticoïdes]({{< relref "corticoides.md" >}}), chimiothérapie
-- **[Alcool]({{< relref "sevrage-alcool.md" >}})**, tabac
+- Traitements: [corticoïdes]({{% relref "corticoides.md" %}}), chimiothérapie
+- **[Alcool]({{% relref "sevrage-alcool.md" %}})**, tabac
 - Entourage au domicile
 - Notion de contage
 - Élevage d'oiseaux (*Chlamydia psittaci*) ou d'animaux (*Coxiella burnetii*)

@@ -50,11 +50,11 @@ SFORL
 
 Autres causes de [toux](/tags/toux/) aiguë à évaluer:
 
-- [Asthme]({{< relref "asthme.md" >}})
+- [Asthme]({{% relref "asthme.md" %}})
 - Inhalation de corps étranger
-- [Coqueluche]({{< relref "coqueluche.md" >}})
-- [Grippe]({{< relref "grippe.md" >}}), [Covid 19]({{< relref "covid-19.md" >}})
-- [Pneumonie aiguë communautaire]({{< relref "pneumonie-aigue-communautaire.md" >}})
+- [Coqueluche]({{% relref "coqueluche.md" %}})
+- [Grippe]({{% relref "grippe.md" %}}), [Covid 19]({{% relref "covid-19.md" %}})
+- [Pneumonie aiguë communautaire]({{% relref "pneumonie-aigue-communautaire.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Clinique chez l'enfant" %}}
@@ -86,7 +86,7 @@ Le diagnostic de laryngite aiguë de l'adulte est **clinique**, le plus souvent 
 
 - Virale, banale, hivernale
 - Syndrome pseudo-grippal modéré, toux sèche, résolution sous 8 à 15 jours
-- **[Dysphonie]({{< relref "dysphonie.md" >}})** voire aphonie transitoire, voix rauque
+- **[Dysphonie]({{% relref "dysphonie.md" %}})** voire aphonie transitoire, voix rauque
 - État général conservé
 
 Les autres laryngites de l'adulte sont:
@@ -111,7 +111,7 @@ Les autres laryngites de l'adulte sont:
 - Signes généraux: fièvre, frissons, AEG
 - Symptômes de laryngite:
   - Toux (nocturne ou non), durée
-  - Raucité de la voix, [dysphonie]({{< relref "dysphonie.md" >}}), aphonie
+  - Raucité de la voix, [dysphonie]({{% relref "dysphonie.md" %}}), aphonie
   - Dyspnée, stridor, cornage
   - Dysphagie (sous-glottique)
 
@@ -159,7 +159,7 @@ La prise en charge de la laryngite aiguë non grave associe:
   - Nourrisson < 6 mois ou récidives (≥ 2 épisodes/an): nasofibroscopie, avis pneumopédiatrique avant 3 ans (asthme ++)
   - Adulte: traitement identique (manque d'études)
 
-Récidives de laryngite: rechercher un [reflux gastro-œsophagien]({{< relref "reflux-gastro-oesophagien.md" >}}) (RGO).
+Récidives de laryngite: rechercher un [reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}}) (RGO).
 
 **NB.** Pas d'antibiothérapie pour les laryngites glottiques et sous-glottiques.
 
