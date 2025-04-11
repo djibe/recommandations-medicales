@@ -151,7 +151,7 @@ Lire le *Calendrier vaccinal* page 75.
 4. Poliomyélite
 5. *Haemophilus influenzae* de type b
 6. [Hépatite B]({{% relref "hepatite-b.md" %}})
-7. Rougeole
+7. [Rougeole]({{% relref "rougeole.md" %}})
 8. Oreillons
 9. Rubéole
 10. Né depuis juillet 2023: méningocoque ACWY (depuis 2025, anciennement méningo C)  

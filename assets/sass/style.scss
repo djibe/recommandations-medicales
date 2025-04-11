@@ -307,10 +307,10 @@ mark {
       width: 100%;
       height: 100%;
       object-fit: cover;
-      transition: filter 0.5s;
+      transition: border-radius .3s;
 
       &:hover {
-        filter: grayscale(80%);
+        border-radius: 4px;
       }
     }
 

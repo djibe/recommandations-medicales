@@ -495,7 +495,7 @@ Le **suivi doit être au moins mensuel** et les traitements doivent être arrêt
 - [Naltrexone 50 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67115586&typedoc=R)
   - Bénéfique en cas de fortes consommations, contre-indiquée en cas de morphiniques
   - La naltrexone est débutée après le sevrage
-  - 1/2 cp avec une surveillance d'1 heure. Puis prise de l'autre moitié et 1 cp/j pendant 3 mois (jusqu'à 6 mois si bénéfique et souhaité)
+  - 1 cp/j pendant 3 mois (jusqu'à 6 mois si bénéfique et souhaité)
 {{%/info%}}
 
 ##### Autres médicaments pour le maintien de l'abstinence
@@ -654,15 +654,15 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 - [Cohorte CONSTANCES. La moitié de la population française dépasse les repères de consommation d'alcool à moindre risque. 2024.](https://www.constances.fr/actualites/nos-actualites/la-moitie-de-la-population-francaise-depasse-les-reperes-de-consommation-dalcool-a-moindre-risque/)
 - [McPheeters M, et al. Pharmacotherapy for Adults With Alcohol Use Disorder in Outpatient Settings: Systematic Review. Comparative Effectiveness Review No. 262. AHRQ Publication No. 23(24)-EHC011. Rockville, MD: Agency for Healthcare Research and Quality; November 2023.](https://effectivehealthcare.ahrq.gov/products/alcohol-use-disorders/research#field_report_title_1)
 - [HAS. Agir en premier recours pour diminuer le risque alcool. 2023.](https://www.has-sante.fr/jcms/p_3326877/fr/agir-en-premier-recours-pour-diminuer-le-risque-alcool-reperer-tous-les-usages-et-accompagner-chaque-personne)
-- [Quatremère G et al. Grossesse et alcool : évolution des connaissances et perceptions des Français entre 2004 et 2020. Bull Épidémiol Hebd. 2023.](http://beh.santepubliquefrance.fr/beh/2023/17/2023_17_1.html)
+- [Quatremère G, et al. Grossesse et alcool : évolution des connaissances et perceptions des Français entre 2004 et 2020. Bull Épidémiol Hebd. 2023.](http://beh.santepubliquefrance.fr/beh/2023/17/2023_17_1.html)
 - [SFA, ANPAA, EUFAS. Mésusage de l'alcool : dépistage, diagnostic et traitement. 2023. (PDF)](https://sfalcoologie.fr/wp-content/uploads/RECOS-SFA-Version-2023-2.pdf)
 - Prescrire Redaction. Alcoolodépendance : sevrage et maintien de l'abstinence. Premiers Choix Prescrire. Rev Prescrire. 2023.
-- [Agabio R et al. Baclofen for alcohol use disorder. Cochrane Database of Systematic Reviews. 2023.](https://www.cochrane.org/CD012557/ADDICTN_baclofen-alcohol-use-disorder)
+- [Agabio R, et al. Baclofen for alcohol use disorder. Cochrane Database of Systematic Reviews. 2023.](https://www.cochrane.org/CD012557/ADDICTN_baclofen-alcohol-use-disorder)
 - [SFA. Repères de consommation d'alcool à moindre risque : les abaisser chez les plus jeunes ?. 08/08/2022. (PDF)](https://sfalcoologie.fr/wp-content/uploads/2022-CP_alcool-SFA-2022_08_08.pdf)
 - [Inserm. Réduction des dommages associés à la consommation d'alcool. Synthèses et recommandations. 2021.](https://www.inserm.fr/expertise-collective/reduction-dommages-associes-consommation-alcool/)
-- [Angler R et al. Dépassement des repères de consommation d'alcool à moindre risque en 2020 : résultats du Baromètre santé de Santé publique France. BEH. Novembre 2021.](http://beh.santepubliquefrance.fr/beh/2021/17/2021_17_1.html)
+- [Angler R, et al. Dépassement des repères de consommation d'alcool à moindre risque en 2020 : résultats du Baromètre santé de Santé publique France. BEH. Novembre 2021.](http://beh.santepubliquefrance.fr/beh/2021/17/2021_17_1.html)
 - [ANSM. Alcoolo-dépendance : nouvelles recommandations posologiques pour le baclofène. 18/11/2021.](https://ansm.sante.fr/actualites/alcoolo-dependance-nouvelles-recommandations-posologiques-pour-le-baclofene)
-- [Louvet A et al. Prise en charge de la maladie du foie liée à l'alcool. Recommandations de l'Association française pour l'étude du foie et de la Société française d'alcoologie. Janvier 2021. (PDF)](https://afef.asso.fr/wp-content/uploads/2023/06/Recommandations-AFEF-SFA-sur-Prise-en-charge-de-la-maladie-du-foie-liee-a-lalcool.pdf)
+- [Louvet A, et al. Prise en charge de la maladie du foie liée à l'alcool. Recommandations de l'Association française pour l'étude du foie et de la Société française d'alcoologie. Janvier 2021. (PDF)](https://afef.asso.fr/wp-content/uploads/2023/06/Recommandations-AFEF-SFA-sur-Prise-en-charge-de-la-maladie-du-foie-liee-a-lalcool.pdf)
 - [HAS. Outil d'aide au repérage précoce et intervention brève : alcool, cannabis, tabac chez l'adulte. Janvier 2021.](https://www.has-sante.fr/jcms/c_1795221/fr/outil-d-aide-au-reperage-precoce-et-intervention-breve-alcool-cannabis-tabac-chez-l-adulte)
 - [HAS. Prévention des addictions et réduction des risques et des dommages par les centres de soins, d'accompagnement et de prévention en addictologie (CSAPA). 2019.](https://www.has-sante.fr/jcms/p_3147889/fr/prevention-des-addictions-et-reduction-des-risques-et-des-dommages-par-les-centres-de-soins-d-accompagnement-et-de-prevention-en-addictologie-csapa)
 - [Addictions France. Les repères de consommation des boissons alcooliques. Novembre 2018. (PDF)](https://addictions-france.org/datafolder/uploads/2021/02/Fiche-Reperes-Reperes-alcool.pdf)

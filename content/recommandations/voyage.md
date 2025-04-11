@@ -89,7 +89,7 @@ Ordonnance rédigée en DCI et contenu selon les conditions de voyage. Transport
 
 Les 3 sites internet disponibles ci-dessous permettent d'évaluer le statut vaccinal nécessaire pour un voyage en sécurité. Certains vaccins peuvent être obligatoires pour entrer dans le pays, ils nécessitent alors un **certificat international** de vaccination.
 
-Le schéma vaccinal doit être terminé 10-15 jours avant le départ (sauf rappel). Contrôler en même temps le statut vaccinal complet contre la **rougeole**.
+Le schéma vaccinal doit être terminé 10-15 jours avant le départ (sauf rappel). Contrôler en même temps le statut vaccinal complet contre la **[rougeole]({{% relref "rougeole.md" %}})**.
 
 Se référer à la page dédiée à chaque maladie pour en savoir plus (voir *Résumé des recommandations*).
 

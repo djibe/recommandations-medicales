@@ -156,6 +156,15 @@ Le diagnostic est clinique (voir *Définitions*).
     En traitement agoniste GnRH ou tamoxifène, aucun examen ne peut faire le diagnostic.
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Diagnostics à évoquer devant des sueurs et des cycles irréguliers:
+
+- [Hyperthyroïdie]({{% relref "hyperthyroidie.md" %}})
+- Hyperprolactinémie
+- [Grossesse]({{% relref "grossesse.md" %}})
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 ### Première consultation pour ménopause
@@ -164,10 +173,8 @@ Le diagnostic est clinique (voir *Définitions*).
 
 - Antécédents  
   Cardiovasculaires, fracturaires, chirurgicaux.
-- Facteurs de risque cardiovasculaire
-  - Âge ≥ 60 ans
-  - Ancienneté de la ménopause (dernières règles)
-  - Antécédent de prééclampsie ou diabète gestationnel
+- Facteurs de risque cardiovasculaire  
+  +60 ans, ancienneté de la ménopause (dernières règles), antécédent de prééclampsie ou diabète gestationnel.
 - Poids, taille, IMC, pression artérielle aux 2 bras, pouls périphériques
 - Symptômes cardiovasculaires  
   - [Douleurs thoraciques, angor]({{% relref "syndrome-coronarien-chronique.md" %}})
@@ -184,7 +191,7 @@ Le diagnostic est clinique (voir *Définitions*).
 - Examen gynécologique complet
 - Syndrome climatérique
   - Bouffées vasomotrices (BVM, 80%)  
-  {{%class%}}Durent 5-7 ans voire > 15.{{%/class%}}
+    Elles durent 5 à 7 ans (voire +15 ans).
   - [Sueurs nocturnes](/tags/sueurs-nocturnes/)
   - Troubles du sommeil
   - Troubles de l'humeur
@@ -195,14 +202,6 @@ Le diagnostic est clinique (voir *Définitions*).
 - Information claire des bénéfices-risques à notifier dans le dossier médical
 
 > En début de ménopause, le score clinique *FRAX* a des performances prédictives de fracture médiocres alors que la mesure de la DMO par DXA est prédictive à 10 ans (Se 60%, Spe 70%)
-
-#### Diagnostic différentiel de la ménopause
-
-Diagnostics à évoquer devant des sueurs et des cycles irréguliers:
-
-- [Hyperthyroïdie]({{% relref "hyperthyroidie.md" %}})
-- Hyperprolactinémie
-- [Grossesse]({{% relref "grossesse.md" %}})
 
 ### Bouffées vasomotrices atypiques
 
@@ -230,15 +229,15 @@ Le rythme des mammographies est inchangé lorsque les douleurs sont diffuses.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Aucun examen n'est recommandé pour le diagnostic de ménopause.
+> [!INFO]
+> Aucun examen n'est recommandé pour le diagnostic de ménopause.
 
-### Bilan pré-thérapeutique du traitement hormonal de la ménopause
+### Bilan pré-thérapeutique pour le THM
 
 - Poids, taille, IMC, pression artérielle (2 bras), pouls périphériques
 - Palpation des seins, examen gynécologique complet
-- Mammographies de dépistage à jour  
-  puis dépistage organisé à partir de 50 ans (*HAS 2015 cancer du sein*)
-- Frottis cervico-vaginal
+- Mammographies du dépistage organisé
+- Frottis cervico-vaginal du dépistage organisé
 - Glycémie à jeun
 - Bilan lipidique
 
@@ -246,12 +245,12 @@ Aucun examen n'est recommandé pour le diagnostic de ménopause.
 
 Indications au **remboursement** l'ostéodensitométrie au cours de la ménopause:
 
-- ≥ 1 {{< modal-btn modal-risque-fracture >}}facteur de risque fracturaire{{< /modal-btn >}}
+- Au moins 1 {{< modal-btn modal-risque-fracture >}}facteur de risque fracturaire{{< /modal-btn >}}
 - La connaissance de la DMO peut modifier la balance bénéfices-risques du THM
 - Contrôle à 2 ans de THM pour risque fracturaire
 - Contrôle à l'arrêt du THM si prescrit pour risque fracturaire
 
-### Examens à réaliser pour des bouffées vasomotrices atypiques
+### Bilan des bouffées vasomotrices atypiques
 
 - NFS, VS, CRP
 - [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}})
@@ -263,7 +262,7 @@ Indications au **remboursement** l'ostéodensitométrie au cours de la ménopaus
 
 Le reste du bilan est réalisé par l'endocrinologue.
 
-### Examens à réaliser pour des saignements utérins anormaux
+### Bilan de saignements utérins anormaux
 
 - Échographie pelvienne
   - Épaisseur endométriale normale ≤ 4 mm
@@ -275,36 +274,32 @@ Le reste du bilan est réalisé par l'endocrinologue.
 {{% /collapse %}}
 {{%collapse "Traitements non hormonaux de la ménopause" %}}
 
-Objectifs: amélioration de la santé, des signes climatériques, du risque cardiovasculaire et [prévention de l'ostéoporose]({{% relref "osteoporose.md" %}}).
+**Objectifs:** amélioration de la santé, des signes climatériques, du risque cardiovasculaire et [prévention de l'ostéoporose]({{% relref "osteoporose.md" %}}).
 
-- [Arrêt tabac]({{% relref "arret-tabac.md" %}}) et alcool
-- {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- Correction d'un surpoids  
-  Perte de 5-10% par réduction glucido-lipidique.
-- Lutte contre la sédentarité
-- Activité physique 30 min/j
-  - Intensité faible à modérée
-  - Avec impact (marche, course à pied)
-  - Renforcement musculaire
-- Supplémentation vitamino-calcique  
-  Globalement cible vitamine D > 75 nmol/L (détail au chapitre [Vitamine D]({{% relref "vitamine-d.md" %}}), *Souberbielle 2019*)
+- Contrôle du risque cardiovasculaire
+  - [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) et de l'alcool
+  - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
+  - Correction d'un surpoids  
+    Perte de 5 à 10% par réduction glucido-lipidique.
+  - Lutte contre la sédentarité
+  - Activité physique quotidienne (30 minutes)  
+    Intensité faible à modérée, avec impact (marche, course à pied) et renforcement musculaire.
 - Dépistages organisés des cancers
-- Bouffées vasomotrices
+- Supplémentation vitamino-calcique  
+  Globalement cible de vitamine D > 75 nmol/L (détail au chapitre [Vitamine D]({{% relref "vitamine-d.md" %}}), *Souberbielle 2019*)
+- **Bouffées vasomotrices**
   - Yoga
-  - Hypnose
-  - Acupuncture, homéopathie
+  - Hypnose, acupuncture, homéopathie
   - Limiter les boissons chaudes
   - Vêtements légers et chauffage limité
-  - IRS. Paroxétine, Citalopram, escitalopram (interactions tamoxifène)
-  - IRSNA. Venlafaxine
-  - Gabapentine, prégabaline, clonidine
-- Syndrome génito-urinaire de la ménopause
+  - Antidépresseur IRS (paroxétine, citalopram, escitalopram avec interactions tamoxifène) ou IRSNA (venlafaxine)
+  - Autres traitements: gabapentine, prégabaline, clonidine
+- **Syndrome génito-urinaire** de la ménopause
   - Augmentation de la fréquence des rapports sexuels
   - Hydratants ou lubrifiants locaux (en pharmacie: "hydratant vaginal", "gel calmant/intime/vaginal", "sécheresse intime")
   - Acide hyaluronique local
   - Sténose: dilatateurs de taille croissante
-- Antécédent de cancer du sein  
-  Contre-indication aux phytoœstrogènes.
+- Si antécédent de cancer du sein: contre-indication aux phytoœstrogènes
 
 > [!INFO]
 > Prise de poids à la ménopause: << Seuls les excès répétés et/ou un déséquilibre chronique quantitatif et qualitatif de l'alimentation peuvent être en cause >>. -- *CNGOF 2021*
@@ -315,8 +310,6 @@ Objectifs: amélioration de la santé, des signes climatériques, du risque card
 {{%warning%}}
 
 ### Contre-indications au traitement hormonal de la ménopause
-
-Contre-indications au traitement de la ménopause:
 
 - [Antécédent de cancer du sein]({{% relref "cancer-sein.md" %}})  
   Quel que soit le statut hormonal ou invasif/in situ.
@@ -344,7 +337,7 @@ Contre-indications au traitement de la ménopause:
 
 ### Indications au traitement hormonal de la ménopause (THM)
 
-Le THM peut être proposé en cas de ménopause récente (< 10 ans) selon la balance bénéfices-risques individualisée:
+Le THM peut être proposé en cas de ménopause **récente** (moins de 10 ans) selon la balance bénéfices-risques individualisée:
 
 - {{< modal-btn modal-risque-fracture >}}Risque fracturaire{{< /modal-btn >}} et T-score < -2
   - Bénéfique si durée ≥ 5 ans
@@ -358,8 +351,6 @@ Le THM peut être proposé en cas de ménopause récente (< 10 ans) selon la bal
   - Effet synergique avec lactobacilles
 - [Insuffisance ovarienne prématurée]({{% relref "insuffisance-ovarienne-prematuree.md" %}})  
   Traitement hormonal substitutif poursuivi jusqu'à au moins 51 ans.
-
-Précisions: aucun effet sur l'endomètre si durée < 2 ans.
 
 ### Le traitement hormonal de la ménopause en pratique
 
@@ -501,19 +492,18 @@ const chartOptions1 = {
 
 Adaptation du traitement hormonal selon les signes estrogéniques:
 
-- Signes d'hyper-estrogénie: réduire les doses  
+- Signes d'**hyper-estrogénie**: réduire les doses  
   Mastodynies, gonflement abdominal, prise de poids, nervosité/irritabilité.
-- Signes d'hypo-estrogénie: augmenter les doses  
+- Signes d'**hypo-estrogénie**: augmenter les doses  
   Bouffées vasomotrices, sécheresse vaginale, troubles du sommeil, asthénie, frilosité, douleurs articulaires.
 
 ### Arrêt du traitement hormonal
 
-L'arrêt du traitement hormonal de la ménopause peut être brutal ou progressif avec un effet identique sur la récidive du syndrome climatérique.  
-Il peut être repris en cas de dégradation de la qualité de vie (selon la balance bénéfice-risque).
+L'arrêt du traitement hormonal de la ménopause peut être brutal ou progressif avec un effet identique sur la récidive du syndrome climatérique. Il peut être repris en cas de dégradation de la qualité de vie (selon la balance bénéfice-risque).
 
 Après l'arrêt du traitement hormonal, poursuivre un suivi médical osseux et cardiovasculaire rigoureux.
 
-NB. Le THM est un facteur de risque de [candidose vulvovaginale récurrente]({{% relref "mycoses-dermatophytes-candidoses.md" %}}).
+**NB.** Le THM est un facteur de risque de **[candidose vulvovaginale récurrente]({{% relref "mycoses-dermatophytes-candidoses.md" %}})**.
 
 ### Découverte de masse mammaire sous traitement hormonal
 
@@ -531,8 +521,7 @@ Prise en charge d'un nodule du sein sous traitement hormonal:
 **Débuter:** estradiol transcutané 25-37,5 µg/j ou gel 0,5 mg/j  
 \+ progestérone naturelle orale selon le rythme du schéma.
 
-Efficace sur les bouffées vasomotrices sous 1 mois.  
-Aussi efficace sur: sommeil, fatigue, humeur, sécheresse vaginale.
+Efficace sur les bouffées vasomotrices sous 1 mois. Aussi efficace sur: sommeil, fatigue, humeur, sécheresse vaginale.
 
 Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch tous les 3-4 jours (sur fesses ou abdomen, photosensible)  
 \+ Progesterone orale 200 mg au coucher en continu
@@ -603,7 +592,7 @@ Le THM utilisé en France ne modifie pas la survenue des pathologies suivantes:
   1 cas supplémentaire pour 8000 femmes traitées. Essai avec schéma non français (ECE + MPA) ne retrouvait pas de différence pour durée de moins de 5 ans.
 - Risque de [candidose vaginale récurrente]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
 - Risques avec les schémas non utilisés en France (estradiol oral, acétate de médroxyprogestérone MPA ...)
-  - Estradiol oral: surrisque d'AVC ischémique, de récidive de thromboembolie veineuse
+  - Estradiol oral: sur-risque d'AVC ischémique, de récidive de thromboembolie veineuse
   - Estradiol seul: [cancer de l'endomètre]({{% relref "cancer-endometre.md" %}}) (annulé par la prise de 12 jours minimum de progestatif mensuels)
   - Si estradiol + acétate de nomegestrol ou promegestone
   - [Maladie veineuse thrombo-embolique](/tags/mvte/) (MVTE)  

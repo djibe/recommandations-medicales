@@ -8,7 +8,7 @@ synonyms = ["Bacille de Koch", "Mycobacterium tuberculosis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-06-03T15:14:20+02:00"
 publishdate = "2020-06-03"
-lastmod = "2025-03-27"
+lastmod = "2025-04-10"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2017"
 sources = ["HAS", "MinSanté", "CMIT"]
@@ -32,9 +32,9 @@ todo = "quantiferon positif signe TM ?, KEY: maladie, lutte contre la tuberculos
 {{%collapse "Dépistage de la tuberculose" %}}
 
 > [!INFO]
-> Le dépistage est réalisé par radiographie thoracique chez les sujets à risque asymptomatiques (test IGRA voire intradermoréaction chez l'enfant, complété par radiographie si positif).
+> Le dépistage est réalisé par radiographie thoracique chez les sujets à risque asymptomatiques (test IGRA voire intradermoréaction chez l'enfant, complété par radiographie thoracique si positif).
 
-Le dépistage de la tuberculose est proposé avec les VIH, hépatites C et B.
+Le dépistage de la tuberculose est proposé couplé avec les sérologies VIH, hépatites C et B.
 
 Dépistage systématique de la tuberculose si:
 
@@ -61,13 +61,17 @@ Sauf si radiographie thoracique dans l'année ou suspicion de tuberculose.
 {{% /collapse %}}
 {{%collapse "Vaccination BCG" %}}
 
-Le vaccin BCG (BCG AJVaccines®) est disponible uniquement en centre de vaccination, **PMI** ou centre de lutte antituberculeuse (**CLAT**).
+Le vaccin BCG (Bacille de Calmette et Guérin par le vaccin AJVaccines®) est disponible uniquement en centre de vaccination, **PMI** ou centre de lutte antituberculeuse (**CLAT**). Il protège les jeunes enfants des formes graves de
+tuberculose, méningites et miliaires tuberculeuses.
 
-Le BCG est réalisé à partir d'un mois, idéalement à **2 mois** et rattrapé **jusqu'à 15 ans**.
+Le BCG est réalisé à partir d'un mois, idéalement à ==2 mois== et rattrapé **jusqu'à 15 ans**. Les autres vaccins peuvent être réalisés en même temps sur d'autres sites.
+
+Une **BCGite** survient dans sous 2-3 semaines avec souvent une ulcération de 5 mm (en moyenne), guérissant sous 3 mois ou plus (aucune application locale, pansement sec simple si écoulement). Elle peut laisser une cicatrice de 3 à 7 mm. Une adénopathie axillaire indolore locale est fréquente. ([guide info Ameli](https://www.ameli.fr/assure/sante/themes/tuberculose/vaccination))
+{.alert .alert-info}
 
 ### Indications au BCG en 2025
 
-Le BCG est indiqué en cas de risque élevé de tuberculose parmi:
+Le BCG est indiqué en cas de risque élevé de tuberculose:
 
 - Avant la sortie de la maternité: en Guyane ou à Mayotte ou cas récent (< 5 ans) de tuberculose dans son entourage
 - Enfant né dans un pays de forte endémie (voir plus bas)
@@ -84,7 +88,7 @@ Pour les professionnels de santé: évaluation de l'exposition au cas par cas pa
 
 Le BCG peut être administré en même temps que n'importe quel autre vaccin mais doit être exclusif sur un bras.
 
-### Pays de forte endémie tuberculeuse (2024)
+### Pays de forte endémie tuberculeuse
 
 - France  
   Guyane (18,9/100k), Mayotte (13,2/100k). **NB:** Ile-de-France 11,8/100k dont Seine-Saint-Denis 18,5/100k.
@@ -138,7 +142,7 @@ La réaction d'hypersensibilité à la tuberculine apparaît chez les sujets qui
 
 ### Réaliser l'intradermoréaction à la tuberculine
 
-**NB.** Le test est perturbé en cas de: vaccination rougeole récente, déficit immunitaire ou immunodépression. Il est réservé au patient exempt de signes tuberculeux.
+**NB.** Le test est perturbé en cas de: [vaccination rougeole]({{% relref "rougeole.md" %}}) récente, déficit immunitaire ou immunodépression. Il est réservé au patient exempt de signes tuberculeux.
 
 #### Matériel nécessaire pour une intradermoréaction à la tuberculine (IDR)
 
@@ -209,6 +213,7 @@ L'IDR est en faveur de l'absence de primo-infection si elle est < 5 mm (10 mm en
 - [HAS. Évaluation des stratégies de dépistage et de repérage précoce de la tuberculose pulmonaire. 2025.](https://has-sante.fr/jcms/p_3459735/fr/evaluation-des-strategies-de-depistage-et-de-reperage-precoce-de-la-tuberculose-pulmonaire)
 - {{< references/voyageur >}}
 - {{< references/calendrier-vaccinal >}}
+- [Ministère de la Santé. BCG - Questions/Réponses à destination des professionnels de santé. 2022. (PDF)](https://sante.gouv.fr/IMG/pdf/qr_bcg_ps_mars_2022.pdf)
 - [HAS. Tuberculose maladie. Actes et prestations Affection de longue durée. 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/actualisationlap_tuberculose__web_.pdf)
 
 ### Bibliographie en attente

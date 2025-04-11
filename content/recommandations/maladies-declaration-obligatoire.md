@@ -52,7 +52,7 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme:
 - Peste
 - Poliomyélite
 - Rage
-- Rougeole
+- [Rougeole]({{% relref "rougeole.md" %}})
 - Rubéole
 - [Saturnisme]({{% relref "saturnisme.md" %}}) chez l'enfant mineur
 - Schistosomiase (bilharziose) urogénitale autochtone

@@ -41,4 +41,3 @@
   {{- with .Title }} title="{{ . }}" {{- end -}}
   {{- if $addRelFollow }} target="_blank" rel="external" {{- else if strings.HasPrefix $href "http" }} target="_blank" rel="external nofollow noopener"{{ end -}}
   >{{ .Text }}</a>
-{{- /**/ -}}

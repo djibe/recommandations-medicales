@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
 publishdate = "2022-07-20"
-lastmod = "2024-09-06"
+lastmod = "2025-04-11"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2024"
 sources = ["MinSanté", "HAS", "HCSP"]
@@ -114,17 +114,32 @@ Signes de gravité de la variole du singe:
 > -- *HCSP mai 2022*
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Autres maladies à évoquer devant une éruption cutanée évocatrice de monkeypox:
+
+- [Varicelle]({{% relref "varicelle.md" %}})
+- Syndrome pieds-mains-bouche
+- [Zona]({{% relref "zona.md" %}})
+- [Rougeole]({{% relref "rougeole.md" %}})
+- [Infections cutanées bactériennes]({{% relref "infection-cutanee-bacterienne.md" %}})
+- [Gale]({{% relref "gale.md" %}})
+- [Syphilis]({{% relref "syphilis.md" %}})
+- Allergie
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-[Services d'infectiologie d'aide au diagnostic en Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients).  
-Un cas suspect doit être confirmé par l'infectiologue référent de l'établissement de santé de référence (ESR).
+[Services d'infectiologie d'aide au diagnostic en Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients).
+
+Un **cas suspect** doit être confirmé par l'**infectiologue** référent de l'établissement de santé de référence (ESR).
 
 Examen clinique de tout patient suspect de variole du singe avec tous les moyens de protection (masque FFP2, gants, surblouse ...).
 
 - L'incubation dure de 5 à 21 jours
 - La contagiosité commence dès l'apparition des premiers symptômes
 - Délai médian au diagnostic de Monkeypox de 6 jours
-- Guérison spontanée en 2 à 3 semaines (voire 4)
+- Guérison spontanée en 2 à 3 semaines (voire 1 mois)
 
 > [!WARNING]
 > La variole du singe est plus grave chez l'enfant, les immunodéprimés et les femmes enceintes.
@@ -133,9 +148,9 @@ Examen clinique de tout patient suspect de variole du singe avec tous les moyens
 
 Antécédents dont statut VIH +++, retour de voyage d'un pays à risque (RDC, Rwanda, Burundi, Kenya, Ouganda) et notion d'exposition à un malade.
 
-Signes et symptômes de la variole du singe:
+Signes et symptômes de la variole du singe (mpox):
 
-- Fièvre (76 %) 1-3 jours
+- Fièvre de 1 à 3 jours (76 %)
 - Adénopathies (74 %)
 - Céphalées, courbatures
 - Éruption vésiculeuse avec contenu liquidien
@@ -144,7 +159,6 @@ Signes et symptômes de la variole du singe:
   - Localisation: visage, génito-anale (78 %), paumes et plantes, possibles aussi sur tronc et membres.  
     Muqueuses buccale ou génitale
 - Odynophagie
-- Diagnostic différentiel du Monkeypox: varicelle, syndrome pieds-mains-bouche, zona, rougeole, infections bactériennes cutanées, gale, syphilis, allergies
 - Si personne vivant avec le VIH: taux de CD4+ et avis spécialisé urgent
 
 ### Mpox et risque pour les enfants
@@ -268,7 +282,6 @@ graph TB
 - [Santé Publique France. Cas de Mpox en Europe, définitions et conduite à tenir. 28/08/2024. (PDF)](https://www.santepubliquefrance.fr/content/download/437302/file/def_cas_CAT_mpox_20042023.pdf)
 - {{< references/calendrier-vaccinal >}}
 - [Santé Publique France. Variole du singe (mpox) : point de situation en France au 27 avril 2023. 03/05/2023.](https://www.santepubliquefrance.fr/les-actualites/2023/variole-du-singe-mpox-point-de-situation-en-france-au-27-avril-2023)
-- [Santé publique France, Ministère de la Santé et de la Prévention. Cas de Mpox en Europe, définitions et conduite à tenir. 20/04/2023. (PDF)](https://www.santepubliquefrance.fr/content/download/437302/file/def_cas_CAT_mpox_20042023.pdf)
 - [ANSM. Monkeypox. 16/03/2023.](https://ansm.sante.fr/dossiers-thematiques/monkeypox)
 - [HAS. Monkeypox : la HAS complète ses recommandations sur la vaccination. 11/10/2022.](https://www.has-sante.fr/jcms/p_3376314/fr/monkeypox-la-has-complete-ses-recommandations-sur-la-vaccination)
 - [DGS-Urgent 2022-76, 70, 65, 61, 58. 05/08/2022.](https://sante.gouv.fr/professionnels/article/dgs-urgent)

@@ -178,7 +178,8 @@ Prise en charge de l'alopécie androgénique de la femme (efficacité mineure sa
 
 Manque d'études pour l'association de traitements.
 
-pour les deux sexes, le traitement par plasma riche en plaquettes (PRP) est insuffisamment étudié.
+Chez les deux sexes, le traitement par plasma riche en plaquettes (PRP) est insuffisamment étudié.
+{.alert .alert-info}
 
 #### Minoxidil
 

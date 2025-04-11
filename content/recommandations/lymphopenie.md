@@ -67,7 +67,7 @@ Les lymphopénies peuvent être classées selon leur mécanisme supposé:
   - Lupus systémique (prévalence 75%)
 - Modification de répartition des lymphocytes
   - Hypersplénisme
-  - Certaines infections virales (rougeole, CMV, VRS, [grippe]({{% relref "grippe.md" %}}))
+  - Certaines infections virales ([rougeole]({{% relref "rougeole.md" %}}), CMV, VRS, [grippe]({{% relref "grippe.md" %}}))
   - Choc septique
   - Brûlures étendues
   - Granulomatose (sarcoïdose, Wegener, Crohn)
