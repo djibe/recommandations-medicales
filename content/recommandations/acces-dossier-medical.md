@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-20T12:27:50+02:00"
 publishdate = "2022-10-20"
-lastmod = "2025-01-06"
+lastmod = "2025-04-12"
 specialites = ["certificats"]
 annees = "2025"
 sources = ["Service-Public"]
@@ -67,7 +67,9 @@ Pour un professionnel libéral, contacter le [Conseil Départemental de l'Ordre 
 > [!INFO]
 > La demande d'accès au dossier médical doit être adressée par lettre recommandée avec accusé de réception ainsi que la copie de carte d'identité du demandeur.
 
-<div class="card card-body my-4">
+*Le texte est éditable mais ne sera pas sauvegardé.*
+
+<div class="card card-body my-4" contenteditable="true">
 
 Coordonnées du demandeur
 
@@ -86,12 +88,12 @@ Madame, Monsieur,
 
 Conformément à l'article L. 1111-7 du code de la santé publique,
 
-(1er cas, si vous souhaitez consulter vous-même votre dossier)
+(1^er^ cas, si vous souhaitez consulter vous-même votre dossier)
 je vous prie de bien vouloir :
 (a) me permettre de consulter mon dossier médical.
 (b) me transmettre une copie de mon dossier médical.
 
-(2d cas, si vous souhaitez en prendre connaissance par l'intermédiaire de votre médecin) je vous prie de bien vouloir :
+(2^e^ cas, si vous souhaitez en prendre connaissance par l'intermédiaire de votre médecin) je vous prie de bien vouloir :
 (a) permettre l'accès à mon dossier au médecin que je désigne à cet effet : Docteur (nom et adresse du cabinet).
 (b) transmettre une copie de mon dossier médical au médecin que je désigne à cet effet : Docteur (nom et adresse du cabinet).
 

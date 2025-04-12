@@ -97,17 +97,23 @@ Chaque femme a une réserve ovarienne différente, maximale à la naissance.
 
 Les marqueurs de **réserve ovarienne** sont: âge de la patiente, FSH et E2, AMH et compte des follicules antraux.
 
-{{< figure-chart title="Taux d'accouchement par ponction en FIV hors ICSI en intraconjugal selon l'âge de la femme à la ponction en 2021 (Tableau AMP15). Dr JB Fron d'après [Agence de la Biomédecine](https://rams-archives2022.agence-biomedecine.fr/activite-intraconjugale)" >}}
+{{< figure-chart title="Taux d'accouchement par ponction en FIV (ICSI) en intraconjugal selon l'âge de la femme à la ponction en 2022 (Tableaux AMP15 et AMP23). Dr JB Fron d'après [Agence de la Biomédecine](https://rams.agence-biomedecine.fr/amp-avec-ovocytes-et-spermatozoides-du-couple)" >}}
 
 <script>
 const chartOptions1 = {
   chart: { type: 'bar', height: 256 },
-  series: [{
-    name: 'Taux par ponction',
+  series: [
+  {
+    name: 'Taux par ponction - hors ICSI',
     type: 'column',
-    data: [18.9, 19.0, 15.2, 11.9, 7.6, 1.7]
+    data: [19.5, 18.2, 15.2, 12.4, 6.6, 2.0]
+  },
+  {
+    name: 'Taux par ponction - ICSI',
+    type: 'column',
+    data: [17.7, 17.3, 13.7, 10.1, 6.5, 1.5]
   }],
-  title: { text: 'Taux d’accouchement par ponction en FIV hors ICSI selon l’âge de la femme' },
+  title: { text: 'Taux d’accouchement par ponction en FIV (ICSI et hors ICSI) selon l’âge de la femme' },
   xaxis: { categories: ['< 30', '30-34', '35-37', '38-39', '40-42', '≥ 43'] },
   yaxis: [
     {
@@ -120,7 +126,10 @@ const chartOptions1 = {
     },
   ],
   tooltip: {
-    y: [{ formatter: function(value) { return `${value} %`; }}] },
+    y: [
+      { formatter: function(value) { return `${value} %`; }},
+      { formatter: function(value) { return `${value} %`; }}
+    ] },
   dataLabels: {
     formatter: function(value) { return `${value} %`; }
   }
