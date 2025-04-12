@@ -22,14 +22,14 @@ Compilation d'**actualités** autour de la santé qui concernent notre pratique 
 
 ## Actualités médicales pour le médecin généraliste {.typography-headline-6}
 
-<iframe class="border-0 w-100" height="6150" srcdoc="Chargement en cours ..." onload="this.removeAttribute('srcdoc')" src="https://www.inoreader.com/stream/user/1004969357/tag/M%C3%A9decine/view/html?t=Actualités%20Médicales%20par%20RecoMédicales&l=https%3A%2F%2Frecomedicales.fr%2Ffavicon.svg&lw=64&cs=m&c=0x212121&bc=0xfff&lh=48&n=30&lc=0x4150f5" tabindex="-1" title="Le Journal de la Santé du Dr JB Fron"></iframe>
+<iframe fetchpriority="high" class="border-0 w-100" height="6150" srcdoc="Chargement en cours ..." onload="this.removeAttribute('srcdoc')" src="https://www.inoreader.com/stream/user/1004969357/tag/M%C3%A9decine/view/html?t=Actualités%20Médicales%20par%20RecoMédicales&l=https%3A%2F%2Frecomedicales.fr%2Ffavicon.svg&lw=64&cs=m&c=0x212121&bc=0xfff&lh=48&n=30&lc=0x4150f5" tabindex="-1" title="Le Journal de la Santé du Dr JB Fron"></iframe>
 
 </div>
 <div class="tab-pane fade" id="nav-guidelines" role="tabpanel" aria-labelledby="nav-tab-guidelines">
 
 ## Les dernières publications médicales de référence {.typography-headline-6}
 
-<iframe class="border-0 w-100" height="6500" src="https://www.inoreader.com/stream/user/1004969357/tag/Recommandations/view/html?t=Guides%20de%20pratique%20de%20référence&l=https%3A%2F%2Frecomedicales.fr%2Ffavicon.svg&lw=64&cs=m&c=0x212121&bc=0xfff&lh=48&n=30&lc=0x4150f5" tabindex="-1" title="Guides de pratique clinique de référence"></iframe>
+<iframe loading="lazy" class="border-0 w-100" height="6500" src="https://www.inoreader.com/stream/user/1004969357/tag/Recommandations/view/html?t=Guides%20de%20pratique%20de%20référence&l=https%3A%2F%2Frecomedicales.fr%2Ffavicon.svg&lw=64&cs=m&c=0x212121&bc=0xfff&lh=48&n=30&lc=0x4150f5" tabindex="-1" title="Guides de pratique clinique de référence"></iframe>
 
 > [!INFO]
 > Ce suivi des derniers guides de pratique est proposé par le Dr Alaedine Benani.

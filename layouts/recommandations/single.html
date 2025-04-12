@@ -40,7 +40,6 @@
           <img class="figure-img img-fluid img-reco"
             src="{{ .RelPermalink }}"
             {{ if not (eq .MediaType.SubType "svg") }}width="{{ .Width }}" height="{{ .Height }}"{{ end }}
-            loading="eager"
             decoding="async"
             importance="high"
             fetchpriority="high"

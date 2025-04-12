@@ -2,6 +2,7 @@
 id = "01962531-1165-7767-98a3-9d559dafce9c"
 title = "Pathologies médicales et autorisations pour le permis de conduire"
 titleSeo = "L'Arrêté du 28 mars 2022 du Ministère de l'Intérieur fixe les pathologies limitant la conduite automobile voire le retrait définitif du permis de conduire"
+noSearchContent = true
 prefix = "les "
 description = ""
 synonyms = ["Examen médical pour permis de conduire (Arrêté du 28 mars 2022)"]
