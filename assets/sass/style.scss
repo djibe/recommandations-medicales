@@ -1237,6 +1237,7 @@ legend {
 
 .navdrawer-nav {
   padding: 0 12px;
+  --background-color-nav: rgba(0, 119, 255, 0.12);
 
   > a {
     overflow: hidden;
@@ -1256,7 +1257,6 @@ legend {
     margin: 0; // 0 8px 0 0
     text-transform: capitalize;
     user-select: none;
-    --background-color-nav: rgba(0, 119, 255, 0.12);
     &[aria-expanded="true"] {
       background-color: var(--background-color-nav);
       color: var(--primary);
