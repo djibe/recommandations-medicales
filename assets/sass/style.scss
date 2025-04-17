@@ -1264,6 +1264,7 @@ legend {
     & + .collapse {
       border-bottom: 1px solid #C4C7C5;
       background-color: var(--background-color-nav);
+      border-radius: 0px 0px 20px 20px;
     }
   }
   > div > a {
