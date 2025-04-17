@@ -1248,7 +1248,7 @@ legend {
     height: 2.5rem;
     letter-spacing: 0.1px;
     transition: background-color 15ms;
-    border-radius: 20px; // 0 20px 20px 0
+    border-radius: 20px 20px 0px 0px;
     color: rgba(0, 0, 0, 0.65);
     font-size: 14px;
     line-height: 1rem;
@@ -1256,12 +1256,14 @@ legend {
     margin: 0; // 0 8px 0 0
     text-transform: capitalize;
     user-select: none;
+    --background-color-nav: rgba(0, 119, 255, 0.12);
     &[aria-expanded="true"] {
-      background-color: rgba(0, 119, 255, 0.12);
+      background-color: var(--background-color-nav);
       color: var(--primary);
     }
     & + .collapse {
       border-bottom: 1px solid #C4C7C5;
+      background-color: var(--background-color-nav);
     }
   }
   > div > a {
