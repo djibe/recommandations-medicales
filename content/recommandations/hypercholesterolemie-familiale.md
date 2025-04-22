@@ -167,17 +167,16 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Peretti N et al. Treatment of pediatric heterozygous familial hypercholesterolemia 7 years after the EAS recommendations: Real-world results from a large French cohort. Arch Pediatr. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S0929693X24000204)
+- [Peretti N, et al. Treatment of pediatric heterozygous familial hypercholesterolemia 7 years after the EAS recommendations: Real-world results from a large French cohort. Arch Pediatr. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S0929693X24000204)
 - {{< references/esc-cvd >}}
 - {{< references/esc-dyslipidaemias >}}
-- [Collège National des Enseignants de Cardiologie. Endocardite infectieuse. Item 220 UE8. Cardiologie 2e édition. 2019. (PDF)](https://www.sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch03_dyslipidemie.pdf)
 - {{< references/college-endocrino >}}
 - [Bouhairie VE, Goldberg AC. Familial hypercholesterolemia. Cardiol Clin. 2015.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4472364/)
 - [Nordestgaard BG et al. Familial hypercholesterolaemia is underdiagnosed and undertreated in the general population: guidance for clinicians to prevent coronary heart disease: consensus statement of the European Atherosclerosis Society. Eur Heart J. 2013.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23956253/)
 
 ### Bibliographie en attente
 
-[Durand A et al. Familial hypercholesterolaemia in UK primary care: a Clinical Practice Research Datalink study of an under-recognised condition. British Journal of General Practice. 2024.](https://bjgp.org/content/early/2024/02/06/BJGP.2023.0010%20)
+[Durand A, et al. Familial hypercholesterolaemia in UK primary care: a Clinical Practice Research Datalink study of an under-recognised condition. British Journal of General Practice. 2024.](https://bjgp.org/content/early/2024/02/06/BJGP.2023.0010%20)
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}

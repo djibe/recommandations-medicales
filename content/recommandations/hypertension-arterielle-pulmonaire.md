@@ -211,14 +211,14 @@ graph TB
 {{%sources%}}
 
 - Prescrire Redaction. Hypertensions artérielles pulmonaires médicamenteuses. Rev Prescrire. 2024.
-- [Humbert M et al; ESC/ERS Scientific Document Group. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension: Developed by the task force for the diagnosis and treatment of pulmonary hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS). Endorsed by the International Society for Heart and Lung Transplantation (ISHLT) and the European Reference Network on rare respiratory diseases (ERN-LUNG). European Heart Journal. 2022.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehac237/6673929)
+- [Humbert M, et al; ESC/ERS Scientific Document Group. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension: Developed by the task force for the diagnosis and treatment of pulmonary hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS). Endorsed by the International Society for Heart and Lung Transplantation (ISHLT) and the European Reference Network on rare respiratory diseases (ERN-LUNG). European Heart Journal. 2022.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehac237/6673929)
 - [Centre de référence de l'hypertension artérielle. Hypertension artérielle pulmonaire. PNDS. 2020.](https://www.has-sante.fr/jcms/p_3167172/fr/hypertension-arterielle-pulmonaire)
-- [Collège National des Enseignants de Cardiologie. Hypertension artérielle pulmonaire de l'enfant et de l'adulte. Item 222. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch19_hypertension_pulmonaire.pdf)
+- Collège National des Enseignants de Cardiologie. Hypertension artérielle pulmonaire de l'enfant et de l'adulte. Item 222. Cardiologie 2e édition. 2019.
 - [Orphanet. Hypertension artérielle pulmonaire idiopathique/familiale.](https://www.orpha.net/fr/disease/detail/422)
 
 ### Bibliographie en attente
 
-[Delcroix M et al. ERS statement on chronic thromboembolic pulmonary hypertension. European Respiratory Journal. 2021.](https://erj.ersjournals.com/content/57/6/2002828)
+[Delcroix M, et al. ERS statement on chronic thromboembolic pulmonary hypertension. European Respiratory Journal. 2021.](https://erj.ersjournals.com/content/57/6/2002828)
 
 {{%/sources%}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}

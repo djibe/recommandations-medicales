@@ -201,7 +201,7 @@ Mise à jour du calendrier vaccinal de l'entourage du sujet asplénique (voir [V
 {{% /collapse %}}
 {{%collapse "Éducation thérapeutique" %}}
 
-[Guide information du patient asplénique CHU Montpellier (PDF)](https://www.chu-montpellier.fr/fileadmin/medias/Publications/Patient-asplenique-hyposplenique.pdf)
+[Guide information du patient asplénique CHU Montpellier (PDF)](https://www.chu-montpellier.fr/fileadmin/medias/Publications/Patient-asplenique-hyposplenique.pdf.pdf)
 
 L'asplénie (par splénectomie ou autre) induit un risque infectieux majeur nécessitant une éducation thérapeutique:
 

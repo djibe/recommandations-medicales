@@ -50,7 +50,7 @@ Sur Omnidoc, le groupe *SOS ECG* offre à tous les confrères cette expertise.
 
 {{< card-link-external title="Cursus ECG" url="https://www.cardiocases.com/fr/ecg/cursus-ecg" subtitle="par Cardiocases" >}} {{< card-link-external title="Livre ECG" url="https://book.cardio-fr.com/fr/" subtitle="par le Pr Goy et les Drs Christeler, Schläpfer et Stauffer" >}}
 
-- [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Électrocardiogramme: indications et interprétations. Item 231. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/page/medecine-cardiovasculaire-reussir-son-dfasm)
+- [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Électrocardiogramme: indications et interprétations. Item 231. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
 - [ECGclic](https://ecgclic.fr)
 - [e-cardiogram](https://www.e-cardiogram.com) (Dr Pierre Taboulet)
 - [ECG Learning Center](https://ecg.utah.edu/) (Pr Frank Yanowitz)

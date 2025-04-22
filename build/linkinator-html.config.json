@@ -3,8 +3,12 @@
   "skip": [
     "^(?!http)",
     "annees",
-    "tags",
+    "articles",
+    "cabinet",
     "images",
+    "print",
+    "specialites",
+    "tags",
     "recomedicales.fr",
     "doi.org",
     "github.com",

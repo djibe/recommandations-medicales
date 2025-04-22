@@ -166,7 +166,7 @@ La supplémentation en acide folique (vitamine B9) réduit les effets indésirab
 - [ANSM. Méthotrexate par voie orale. Lettre aux professionnels de santé. 2020. (PDF)](https://ansm.sante.fr/uploads/2021/04/07/20200409-dhpc-methotrexate.pdf)
 - Abitbol V. Méthotrexate dans les MICI : bilan initial et suivi. SNFGE. 2019. (PDF)
 - [Daien C et al. Actualisation des Recommandations de la Société française de rhumatologie pour la prise en charge de la polyarthrite rhumatoïde. Revue du Rhumatisme. 2019.](https://www.sciencedirect.com/science/article/pii/S1169833018301522)
-- [GETAID. Méthotrexate.](https://www.getaid.org/fiches-medicament/le-methotrexate-ledertrexate-methotrexate-metoject-nordimet-novatrex)
+- [GETAID. Méthotrexate.](https://www.getaid.org/fiches-medicament/methotrexate)
 - [CRI. Comment optimiser l'efficacité du méthotrexate ? (PDF)](http://www.cri-net.com/ckfinder/userfiles/files/fiches-pratiques/MTX-Dec2016/MTX_02.pdf)
 - [HAS. Commission de la transparence. 20/11/2013. (PDF)](https://www.has-sante.fr/upload/docs/evamed/CT-12801_NOVATREX_PIS_RI_Avis1_CT12801.pdf)
 

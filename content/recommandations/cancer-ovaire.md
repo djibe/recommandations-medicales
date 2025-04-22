@@ -165,7 +165,7 @@ Comme pour tout cancer:
 - Évaluation nutritionnelle
 - [Guide d'information INCa sur le cancer de l'ovaire](https://www.cancer.fr/personnes-malades/les-cancers/Cancer-de-l-ovaire/Les-points-cles)
 - [Directives anticipées]({{% relref "directives-anticipees.md" %}}), [personne de confiance](https://www.service-public.fr/particuliers/vosdroits/R40462)
-- Associations de patients  
+- Associations de patientes  
   [imagyn](https://www.imagyn.org), [Ligue contre le cancer](https://www.ligue-cancer.net), [roseup](https://www.rose-up.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com).
 
 [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 30 ter](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048206681): exposition à l'amiante ≥ 5 ans.

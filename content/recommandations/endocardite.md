@@ -180,9 +180,9 @@ Pour le traitement des endocardites infectieuses, lire *ESC 2023*.
 - [Le Moing V, et al. Antibiotic therapy and prophylaxis of infective endocarditis - A SPILF-AEPEI position statement on the ESC 2023 guidelines. Infectious Diseases Now. 2025.](https://www.sciencedirect.com/science/article/pii/S2666991924001787)
 - [HAS. Prise en charge bucco-dentaire des patients à haut risque d'endocardite infectieuse. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3301328/fr/prise-en-charge-bucco-dentaire-des-patients-a-haut-risque-d-endocardite-infectieuse)
 - [Delgado V, et al. 2023 ESC Guidelines for the management of endocarditis. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad193/7243107)
+- [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Endocardite infectieuse. Item 152. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
 - [Duval X, Iung B. Prophylaxie de l'endocardite infectieuse. Archives des Maladies du Coeur et des Vaisseaux - Pratique. 2021.](https://doi.org/10.1016/j.amcp.2021.03.003)
-- [CMIT. Endocardite infectieuse. Item 152. ECN.Pilly 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-152-web.pdf)
-- [Collège National des Enseignants de Cardiologie. Endocardite infectieuse. Item 149 - UE6. Cardiologie 2e édition. 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch11_endocardite.pdf)
+- [CMIT. Endocardite infectieuse. Item 152. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-152-web.pdf)
 - [Habib H et al. 2015 ESC Guidelines for the management of infective endocarditis: The Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC) Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). European Heart Journal. 2015.](https://academic.oup.com/eurheartj/article/36/44/3075/2293384)
 
 {{%/sources%}}

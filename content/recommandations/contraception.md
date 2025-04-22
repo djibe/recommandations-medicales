@@ -121,8 +121,8 @@ Les œstroprogestatifs augmentent le risque de [thromboembolie veineuse](/tags/m
 
 ### Contre-indications formelles aux œstrogènes
 
-- Grossesse (*[CRAT](http://www.lecrat.fr/11368/)*)
-- Allaitement: les 6 premières semaines (*[CRAT](http://www.lecrat.fr/11369/)*)
+- Grossesse (*[CRAT](https://www.lecrat.fr/6225/)*)
+- Allaitement: les 6 premières semaines (*[CRAT](https://www.lecrat.fr/6211/)*)
 - Antécédent personnel de thrombose veineuse superficielle selon *SFMV 2019*
 - Antécédent familial au 1^er^ degré
   - [Infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}) ou AVC chez homme -55 ans ou femme -65 ans
@@ -649,7 +649,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Ameli. Contraception : de nouvelles marques de préservatifs prises en charge par l'Assurance Maladie. 04/04/2024.](https://www.ameli.fr/assure/actualites/contraception-de-nouvelles-marques-de-preservatifs-prises-en-charge-par-l-assurance-maladie)
+- [Ameli Médecin. Des préservatifs sans latex pris en charge par l'Assurance Maladie. 27/03/2025.](https://www.ameli.fr/medecin/actualites/des-preservatifs-sans-latex-pris-en-charge-par-l-assurance-maladie)
 - [ANSM. Progestatifs et risque de méningiome : recommandations pour limiter ce risque. 18/12/2023.](https://ansm.sante.fr/actualites/progestatifs-et-risque-de-meningiome-recommandations-pour-limiter-ce-risque)
 - [ANSM. Les stérilets contenant le plus d'hormone présenteraient davantage de risque de troubles dépressifs. 14/02/2023.](https://ansm.sante.fr/actualites/les-sterilets-contenant-le-plus-dhormone-presenteraient-davantage-de-risque-de-troubles-depressifs)
 - [Collège Français des Enseignants en Urologie (CFEU). Contraception. Item 36. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-36-Contraception-.pdf)

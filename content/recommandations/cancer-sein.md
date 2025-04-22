@@ -341,7 +341,7 @@ Après RCP peuvent être proposés pour la prise en charge du cancer du sein: ch
   - Éviter les vêtements synthétiques
   - Limiter l'exposition solaire
   - Hygiène rigoureuse et pommades émollientes
-- Information de la patiente: [INCa](https://www.cancer.fr/personnes-malades/les-cancers/Cancer-du-sein/Les-points-cles)
+- Information de la patiente: [guide INCa](https://www.cancer.fr/catalogue-des-publications/les-traitements-des-cancers-du-sein)
 - Associations de patientes  
   [étincelle](http://www.etincelle.asso.fr), [Europa Donna](http://www.europadonna.fr), [Rose up](https://www.rose-up.fr), [Skin](https://associationskin.org), [Vivre Comme Avant](https://www.vivrecommeavant.fr).
 - Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})

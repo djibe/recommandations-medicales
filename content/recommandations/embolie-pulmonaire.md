@@ -318,12 +318,12 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Thrombose veineuse profonde et embolie pulmonaire. Item 226. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/page/medecine-cardiovasculaire-reussir-son-dfasm) (TODO:)
 - [SFMV, GFHT. La place du dosage des d-dimères en médecine. Communiqué. 2021.](https://www.innovte-thrombosisnetwork.eu/sites/innovte/files/brique/fichier/02-2024/Com_dosage%20des%20d-dimeres%20en%20VF.pdf)
 - [Sanchez O, et al; SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S0761842519300051)
 
 ### Bibliographie en attente
 
+- [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Thrombose veineuse profonde et embolie pulmonaire. Item 226. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
 - [Wang X, et al. Oral direct thrombin inhibitors or oral factor Xa inhibitors versus conventional anticoagulants for the treatment of deep vein thrombosis. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010956.pub3/full)
 - [Collège des Enseignants de Pneumologie (CEP). Embolie pulmonaire et thrombose veineuse profonde. Item 226. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_226_MALADIE_THROMBO-EMBOLIQUE_VEINEUSE_2023.pdf)
 - [Stavros V, et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS). 2019.](https://erj.ersjournals.com/content/54/3/1901647)

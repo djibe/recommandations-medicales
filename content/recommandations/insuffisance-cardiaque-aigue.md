@@ -102,10 +102,11 @@ graph TB
 
 - [McDonagh TA et al. 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad195/7246292)
 - [McDonagh T et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) With the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. 2021.](https://doi.org/10.1093/eurheartj/ehab368)
-- [Collège National des Enseignants de Cardiologie. Insuffisance cardiaque. Item 232 UE8. Cardiologie 2e édition. Octobre 2019.](https://www.sfcardio.fr/page/chapitre-18-item-234-insuffisance-cardiaque-de-ladulte)
+- Collège National des Enseignants de Cardiologie. Insuffisance cardiaque. Item 232 UE8. Cardiologie 2e édition. 2019.
 
 ### Bibliographie en attente
 
-[Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Détresse respiratoire aiguë. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/detresse-respiratoire-aigue)
+- [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Insuffisance cardiaque de l'adulte. Item 234. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
+- [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Détresse respiratoire aiguë. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/detresse-respiratoire-aigue)
 
 {{%/sources%}}

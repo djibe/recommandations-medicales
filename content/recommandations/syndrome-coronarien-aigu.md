@@ -273,7 +273,7 @@ graph TB
 - [Byrne RA, et al; ESC Scientific Document Group. 2023 ESC Guidelines for the management of acute coronary syndromes. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)
 - [2023 ESC Guidelines for the management of acute coronary syndromes - Supplementary Data.](https://academic.oup.com/eurheartj/article/44/38/3720/7243210)
 - [McDonagh STJ, et al. Home‐based versus centre‐based cardiac rehabilitation. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007130.pub5/full/fr)
-- [Collège National des Enseignants de Cardiologie (CNEC). Syndromes coronariens aigus. Item 339. Cardiologie 2e édition. 2019.](https://www.sfcardio.fr/page/chapitre-5-item-339-syndromes-coronariens-aigus)
+- Collège National des Enseignants de Cardiologie (CNEC). Syndromes coronariens aigus. Item 339. Cardiologie 2e édition. 2019.
 - [Santé Publique France. Infarctus du myocarde. 25/06/2019.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/infarctus-du-myocarde)
 - [HAS. Maladie coronarienne stable. 2016.](https://www.has-sante.fr/jcms/c_1761792/fr/guide-parcours-de-soins-maladie-coronarienne-stable)
 - [HAS, SAMU, SFMU, SFC. Prise en charge de l'infarctus du myocarde à la phase aiguë en dehors des services de cardiologie. 2006.](https://www.has-sante.fr/jcms/c_484720/fr/prise-en-charge-de-l-infarctus-du-myocarde-a-la-phase-aigue-en-dehors-des-services-de-cardiologie)
@@ -282,7 +282,8 @@ Mots-clé: cardiopathie ischémique, post infarctus
 
 ### Bibliographie en attente
 
-[Thygesen K, et al; ESC Scientific Document Group. Fourth universal definition of myocardial infarction (2018). Eur Heart J. 2019.](https://academic.oup.com/eurheartj/article/40/3/237/5079081)
+- [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Syndromes coronariens aigus. Item 339. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
+- [Thygesen K, et al; ESC Scientific Document Group. Fourth universal definition of myocardial infarction (2018). Eur Heart J. 2019.](https://academic.oup.com/eurheartj/article/40/3/237/5079081)
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}

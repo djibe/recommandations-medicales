@@ -419,12 +419,13 @@ graph TB
 - {{< references/esc-cvd >}}
 - [Hindricks G. et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Hear Jour. 2021.](https://academic.oup.com/eurheartj/article/42/5/373/5899003)
 - Prescrire Redaction. Fibrillation auriculaire. Premiers Choix Prescrire. Rev Prescrire. 2021.
-- [Collège National des Enseignants de Cardiologie. Fibrillation atriale. Item 230 - UE8. Cardiologie 2e édition. Octobre 2019. (PDF)](https://sfcardio.fr/sites/default/files/2019-11/2015-2e_Ref_Cardio_ch14_fibrillation_atriale.pdf)
+- Collège National des Enseignants de Cardiologie. Fibrillation atriale. Item 230 - UE8. Cardiologie 2e édition. 2019.
 - [HAS. Fibrillation atriale. Guide parcours de soins. Février 2014.](https://www.has-sante.fr/jcms/c_1741768/fr/guide-parcours-de-soins-fibrillation-atriale)
 - [Société Française de Gériatrie et Gérontologie et Société Française de Cardiologie. Prise en charge de la fibrillation atriale du sujet âgé. La Revue de Gériatrie. 2013. (PDF)](http://www.omedit-idf.fr/wp-content/uploads/2015/02/CV-antico-recoFASFGGSFC2013.pdf)
 
 ### Bibliographie en attente
 
+- [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Fibrillation atriale. Item 232. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
 [Van Gelder IC, et al. 2024 ESC Guidelines for the management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS). Eur Heart J. 2024.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae176/7738779)
 
 {{%/sources%}}

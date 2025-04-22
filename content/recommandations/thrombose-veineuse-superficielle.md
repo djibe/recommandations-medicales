@@ -175,7 +175,11 @@ Situations nécessitant une prise en charge différente de la thrombose veineuse
 
 - [Sanchez O, et al; SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S0761842519300051)
 - [Quéré I, et al. Questions non résolues sur la maladie thrombo-embolique veineuse. Consensus de la Société française de médecine vasculaire (SFMV) [Unresolved questions on venous thromboembolic disease. Consensus statement of the French Society for Vascular Medicine (SFMV)]. J Med Vasc. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S2542451318303572) (payant)
-- [Collège National des Enseignants de Cardiologie (CNEC). Thrombose veineuse profonde et embolie pulmonaire. Item 226. Cardiologie 2e édition. 2019.](https://www.sfcardio.fr/page/chapitre-19-item-226-thrombose-veineuse-profonde-et-embolie-pulmonaire)
+- Collège National des Enseignants de Cardiologie (CNEC). Thrombose veineuse profonde et embolie pulmonaire. Item 226. Cardiologie 2e édition. 2019.
+
+### Bibliographie en attente
+
+[Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Thrombose veineuse profonde et embolie pulmonaire. Item 226. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
 
 {{%/sources%}}
 {{% modal title="Score hémorragique RIETE" id="modal-score-riete"%}}

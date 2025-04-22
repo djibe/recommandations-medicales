@@ -105,7 +105,7 @@ Mesures de prévention de la maladie de Lyme:
 - Vaccination contre l'encéphalite à tiques  
   Avant séjour en zone rurale ou boisée en zone d'endémie.
 - Aménagement des jardins  
-  Couper l'herbe courte, éviter les tas de bois, traitement des animaux de compagnie ([guide](https://www.citique.fr/amenager-son-jardin-pour-se-proteger-des-piqures-de-tiques/)).
+  Couper l'herbe courte, éviter les tas de bois, traitement des animaux de compagnie.
 
 Inefficaces: huiles essentielles (lavande, citronnelle), bracelets insecticides.
 
@@ -321,6 +321,8 @@ graph TB
 
 {{% /collapse %}}
 {{%sources%}}
+
+{{< vimeo 314795586 >}}
 
 {{< card-link-external title="Vrai et faux Lyme en 2022, comment faire ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/episode/https%3A%2F%2Ftrack.podcastics.com%2F3584%2F138491.mp3&podcastId=3741301" >}}
 

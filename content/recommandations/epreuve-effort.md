@@ -371,6 +371,10 @@ Un test d'effort doit être envisagé chez un **professionnel** (pompier, milita
 - [SFC. Recommandations de la Société Française de Cardiologie pour les épreuves d'effort. 2018.](https://sfcardio.fr/publication/recommandations-pour-les-epreuves-deffort)
 - [HAS. Maladie coronarienne stable. 2016.](https://www.has-sante.fr/jcms/c_1761792/fr/guide-parcours-de-soins-maladie-coronarienne-stable)
 
+### Bibliographie en attente
+
+[Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Syndromes coronariens aigus. Item 339. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
+
 {{%/sources%}}
 {{% modal title="Diabète et risque coronaire selon SFD 2021" id="modal-coronaire-diabete"%}}
 

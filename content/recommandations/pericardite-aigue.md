@@ -193,7 +193,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Péricardite aiguë. Item 235. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/page/medecine-cardiovasculaire-reussir-son-dfasm)
+- [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Péricardite aiguë. Item 235. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
 - Prescrire Redaction. Péricardite aiguë supposée virale chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Gocko X et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X19306201)
 - [Adler Y, et al. 2015 ESC Guidelines for the diagnosis and management of pericardial diseases: The Task Force for the Diagnosis and Management of Pericardial Diseases of the European Society of Cardiology (ESC) Endorsed by: The European Association for Cardio-Thoracic Surgery (EACTS). Eur Heart J. 2015.](https://academic.oup.com/eurheartj/article/36/42/2921/2293375)

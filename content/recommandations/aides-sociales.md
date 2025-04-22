@@ -80,4 +80,4 @@ Ces aides à la prise en charge médicale et aux soins doivent être communiqué
 
 ## Réfugiés {.mt-5}
 
-[Le guide du réfugié (PDF)](https://leguidedurefugie.com/pdf/guide-du-refugie-version-fr.pdf)
+[Le guide du réfugié 2019 (PDF)](https://www.unistra.fr/fileadmin/upload/unistra/international/MUI/le-guide-du-refugie.pdf)

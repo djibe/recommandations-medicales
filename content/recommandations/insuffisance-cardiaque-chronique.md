@@ -563,7 +563,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 - [McDonagh T, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) With the special contribution of the Heart Failure Association (HFA) of the ESC. European Heart Journal. 2021.](https://doi.org/10.1093/eurheartj/ehab368)
 - Prescrire Redaction. Insuffisances cardiaques médicamenteuses en bref, Patients insuffisants cardiaques chroniques. Rev Prescrire. 2021.
 - [Fervers B, et al; Santé Publique France. Indications d'un programme d'activité physique, en complément au traitement médical. BEH. 2020.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical)
-- [Collège National des Enseignants de Cardiologie. Insuffisance cardiaque. Item 232 UE8. Cardiologie 2e édition. Octobre 2019.](https://www.sfcardio.fr/page/chapitre-18-item-234-insuffisance-cardiaque-de-ladulte)
+- Collège National des Enseignants de Cardiologie. Insuffisance cardiaque. Item 232 UE8. Cardiologie 2e édition. 2019.
 - [Agence de la Biomédecine. Organes - Greffe cardiaque. 29/09/2019.](https://rams.agence-biomedecine.fr/greffe-cardiaque-0)
 - [Santé Publique France. Insuffisance cardiaque. 17/06/2019.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/insuffisance-cardiaque)
 - {{< references/esc-hta >}}
@@ -574,7 +574,8 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
-[Chow SL, et al. Complementary and Alternative Medicines in the Management of Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2023.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001110)
+- [Chow SL, et al. Complementary and Alternative Medicines in the Management of Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2023.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001110)
+- [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Insuffisance cardiaque de l'adulte. Item 234. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
 
 {{%/sources%}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}

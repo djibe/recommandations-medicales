@@ -5,7 +5,7 @@ description = "Liens vers les collèges des enseignants de médecine de deuxièm
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-14T16:20:00+02:00"
 publishdate = "2023-01-16"
-lastmod = "2025-04-03"
+lastmod = "2025-04-22"
 annees = "2025"
 sources = ["Colleges"]
 tags = []
@@ -27,7 +27,7 @@ Le tableau ci-dessous liste tous les référentiels des Collèges de médecine d
 | Addictologie | CUNEA <br><span class="typography-caption">Collège Universitaire National des Enseignants d'Addictologie</span> | 2024 | [lien](https://www.cunea.fr/sites/default/files/ref_psy_add_4ed.pdf) |
 | Anatomopathologie | Copath <br><span class="typography-caption">Collège des Pathologistes</span> | 2022 | [lien](https://www.sfpathol.org/564-manuel-introduction.html) |
 | Anesthésie-réanimation | CNEAR <br><span class="typography-caption">Collège National des Enseignants d'Anesthésie et de Réanimation</span> | 2020 | [lien](https://www.cnear.fr/_files/ugd/16c755_470c9901054f437a86d606b696fa7470.pdf) |
-| Cardiologie | CNEC <br><span class="typography-caption">Collège National des Enseignants de Cardiologie</span> | 2022 | [lien](https://www.sfcardio.fr/page/medecine-cardiovasculaire-reussir-son-dfasm) |
+| Cardiologie | CNEC <br><span class="typography-caption">Collège National des Enseignants de Cardiologie</span> | 2022 | [lien](https://www.sfcardio.fr/formation/dfasm/) |
 | Chirurgie pédiatrique | CNHUCP <br><span class="typography-caption">Collège national Hospitalier et Universitaire de Chirurgie pédiatrique</span> | 2016 | [lien](https://collegechirurgiepediatrique.fr/les-cours/) |
 | Dermatologie | CEDEF <br><span class="typography-caption">Collège des Enseignants de Dermatologie de France</span> | 2023 | [lien](https://cedef.org/enseignement-2eme-cycle-dermatologie/) (identifiants) |
 | Endocrinologie | CEEDMM <br><span class="typography-caption">Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques</span> | 2021 | [lien](https://www.sfendocrino.org/polycopie-des-enseignants-5eme-edition-2021/) |
