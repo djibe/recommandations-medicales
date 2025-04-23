@@ -136,14 +136,15 @@ Indications à la consultation spécialisée en urologie pédiatrique si:
 {{% /collapse %}}
 {{%sources%}}
 
-- [Madhi F et al; GPIP. Antimicrobial treatment of urinary tract infections in children. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001483)
+- [Madhi F, et al; GPIP. Antimicrobial treatment of urinary tract infections in children. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001483)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Infections urinaires. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/infections-urinaires)
 - [Collège Français des Enseignants en Urologie (CFEU). Infections urinaires de l'adulte et de l'enfant. Item 161. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-161-Infections-urinaires.pdf)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
-- [Cohen R et al. Prise en charge des infections urinaires de l'enfant. Recommandations du groupe de pathologie infectieuse pédiatrique de la Société française de pédiatrie et de la Société de pathologie infectieuse de langue française. Archives de Pédiatrie. 2015. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/infections_voies_urinaires_gpip_2015.pdf)
+- [Cohen R, et al. Prise en charge des infections urinaires de l'enfant. Recommandations du groupe de pathologie infectieuse pédiatrique de la Société française de pédiatrie et de la Société de pathologie infectieuse de langue française. Archives de Pédiatrie. 2015. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/infections_voies_urinaires_gpip_2015.pdf)
 
 ### Bibliographie en attente
 
-[Khoury L et al. Improving Management: Novel Guidelines for Diagnosing Urinary Tract Infection in Infants. Pediatr Infect Dis J. 2024.](https://journals.lww.com/pidj/abstract/9900/improving_management__novel_guidelines_for.751.aspx)
+- [Radmayr C, et al. EAU guidelines on paediatric urology. 2022.](https://uroweb.org/guidelines/paediatric-urology)
+- [Khoury L et al. Improving Management: Novel Guidelines for Diagnosing Urinary Tract Infection in Infants. Pediatr Infect Dis J. 2024.](https://journals.lww.com/pidj/abstract/9900/improving_management__novel_guidelines_for.751.aspx)
 
 {{%/sources%}}

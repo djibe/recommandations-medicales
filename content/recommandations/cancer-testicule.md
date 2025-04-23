@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-11-06T16:37:01+01:00"
 publishdate = "2023-11-07"
-lastmod = "2024-04-05"
+lastmod = "2025-04-23"
 specialites = ["urologie"]
-annees = "2024"
+annees = "2025"
 sources = ["EAU", "HAS", "INCa"]
 tags = ["cancer", "depistage", "infertilite"]
 english = ["Testicular cancer (TC)"]
@@ -39,7 +39,7 @@ Cancer du testicule
 ### Épidémiologie du cancer du testicule
 
 - Incidence annuelle: 2200 cas
-- Survie 5 ans: 99% pour une forme localisée et 70% si métastatique
+- Survie à 5 ans: 99% pour une forme localisée et 70% si métastatique
 
 ### Abréviations
 
@@ -165,7 +165,7 @@ Après chimiothérapie, la spermatogenèse récupère normalement sous 1 à 4 an
 {{% /collapse %}}
 {{%collapse "Prise en charge du cancer du testicule" "show" %}}
 
-{{< mermaid title="Prise en charge de la suspicion de cancer du testicule par le médecin généraliste. Dr JB Fron d'après EAU 2024 et HAS/INCa 2011" >}}
+{{< mermaid title="Prise en charge de la suspicion de cancer du testicule par le médecin généraliste. Dr JB Fron d'après EAU 2025 et HAS/INCa 2011" >}}
 graph TB
   suspicion["<b>Suspicion de cancer du testicule</b><br>—<br>Homme jeune avec:<br>- Masse testiculaire,<br>indolore, unilatérale<br>- Douleurs lombaires ou flanc<br>- AEG, dyspnée<br>- Ou masse rétropéritonéale<br>ou viscérale"] --> bilan("<b>Bilan</b><br>—<br>- NFS, créatinine, TP<br>- Échographie testiculaire<br>± IRM si insuffisante") -- Cancer --> marqueurs("<b>Bilan d'extension</b><br>—<br>- Marqueurs tumoraux:<br>AFP, β-hCG, LDH<br>- Scanner TAP injecté") -- Semi-urgent --> urologue("Avis urologique<br>dans un CLCC")
     bilan -- Autre --> différentiel("- Hydrocèle<br>- Tuméfaction épididymaire<br>- Tumeur bénigne de Leydig")
@@ -179,7 +179,7 @@ graph TB
 
 {{< youtube id="teL-GFw-IQs" title="Testicular palpation (OSCE Guide)" >}}
 
-- [Nicole D et al. EAU Guidelines on Testicular Cancer. 2024.](https://uroweb.org/guidelines/testicular-cancer)
+- [Nicole D, et al. EAU Guidelines on Testicular Cancer. 2025.](https://uroweb.org/guidelines/testicular-cancer)
 - [Collège Français des Enseignants en Urologie (CFEU). Tumeur du testicule. Item 313. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-313-Tumeur-testicule.pdf)
 - [HAS, INCa. Cancers du testicule Tumeurs germinales. Guide Affection de longue durée. 2011. (PDF)](https://www.e-cancer.fr/content/download/95925/1021244/file/GUIALDTEST11.pdf)
 - [HAS, INCa. Cancer du testicule Tumeurs germinales. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_1061933/fr/ald-n-30-cancer-du-testicule)

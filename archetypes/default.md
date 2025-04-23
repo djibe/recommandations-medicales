@@ -63,7 +63,7 @@ ACG
 - Minerva
 - Cismef
 - NICE Clinical guidance
-- [ADERIM](https://aderim.radiologie.fr/recherche?field_keywords=)
+- {{< references/aderim >}}
 
 {{%/sources%}}
 

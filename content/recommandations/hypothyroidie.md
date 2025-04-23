@@ -274,12 +274,15 @@ Cible de TSH chez +65 ans: valeurs hautes de l'intervalle et toujours > 1 mUI/L.
 #### Spécialités de lévothyroxine disponibles
 
 - {{%class%}}Euthyrox® (ancienne formulation de Lévothyrox®, arrêt fin 2025){{%/class%}}
-- L-Thyroxin Henning®
-- Lévothyrox®
-- Thyrofix®
-- Tcaps® (capsule molle, non remboursable)
-- **Lévothyroxine buvable**
-- L-Thyroxine Serb® en gouttes pédiatriques
+- **L-Thyroxin Henning®**  
+  Doses: 25, 50, 63, 75, 88, 100, 112, 125, 137, 150, 175 ou 200 µg.
+- **Lévothyrox®**  
+  Doses: 25, 50, 75, 88, 100, 112, 125, 137, 150, 175 ou 200 µg.
+- **Thyrofix®**  
+  Doses: 13, 25, 50, 62, 75, 88, 100, 112, 125, 137, 150, 175 ou 200 µg.
+- **Tcaps®** (capsule molle, non remboursable)  
+  Doses: 13, 25, 37.5, 50, 62.5, 75, 88, 100, 112, 125, 137, 150, 175 ou 200 µg.
+- **L-Thyroxine Serb®** en gouttes pédiatriques (150 µg/mL)
 {.list-group}
 
 > Les médicaments à base de lévothyroxine sont des médicaments à marge thérapeutique étroite permettant de mentionner << Non substituable >>.
@@ -288,10 +291,10 @@ Cible de TSH chez +65 ans: valeurs hautes de l'intervalle et toujours > 1 mUI/L.
 
 - Prise unique le matin à jeun, 20 à 30 minutes avant toute prise orale
 - En cas d'oubli: doubler la dose du lendemain ou prendre la dose du jour 3 heures après le dernier repas de la journée
-- Délai d'au moins 2 heures avant la prise de [calcium]({{% relref "apports-calcium.md" %}}), fer, topiques digestifs
+- Délai d'au moins 2 heures avant la prise de [calcium]({{% relref "apports-calcium.md" %}}), fer ou topiques digestifs
 - Information du patient: [Sante.fr. Petite chronique de l'hypothyroïdie](https://microlearning-sante.fr/fr/levothyrox)
 
-**Dosage de la TSH à 6-8 semaines** et adaptation par **paliers de 6 à 12 semaines** sur critères clinico-TSH.
+**Dosage de la TSH à 6-8 semaines** et adaptation par **paliers de 6 à 12 semaines** sur critères clinico-TSH (dans la norme du laboratoire).
 
 Surveillance au long cours une fois l'euthyroïdie obtenue: contrôle clinique + TSH à 6 mois puis **1 fois par an**.
 {.alert .alert-info}

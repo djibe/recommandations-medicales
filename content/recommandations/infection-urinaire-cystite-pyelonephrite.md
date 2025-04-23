@@ -375,19 +375,19 @@ graph TB
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Cystite aiguë simple, à risque de complication ou récidivante, de la femme. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722827/fr/choix-et-durees-d-antibiotherapies-cystite-aigue-simple-a-risque-de-complication-ou-recidivante-de-la-femme)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Pyélonéphrite aiguë de la femme. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722914/fr/choix-et-durees-d-antibiotherapies-pyelonephrite-aigue-de-la-femme)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Femme enceinte : colonisation urinaire et cystite. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722927/fr/choix-et-durees-d-antibiotherapies-femme-enceinte-colonisation-urinaire-et-cystite)
-- [Williams G et al. Cranberries for preventing urinary tract infections. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001321.pub7/full/fr)
+- [Williams G, et al. Cranberries for preventing urinary tract infections. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001321.pub7/full/fr)
 - [HAS. Antibiogrammes ciblés pour les infections urinaires à Entérobactéries dans la population féminine adulte (à partir de 12 ans). 2023.](https://www.has-sante.fr/jcms/p_3262788/fr/antibiogrammes-cibles-pour-les-infections-urinaires-a-enterobacteries-dans-la-population-feminine-adulte-a-partir-de-12-ans)
 - [Arrêté du 31 mars 2022 portant approbation de la Convention nationale organisant les rapports entres les pharmaciens titulaires d'officine et l'assurance maladie. Journal Officiel. (PDF)](https://www.ameli.fr/sites/default/files/Documents/convention-pharmaciens-titulaires-officine_journal-officiel.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [Collège Français des Enseignants en Urologie (CFEU). Infections urinaires de l'adulte et de l'enfant. Item 161. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-161-Infections-urinaires.pdf)
 - {{< references/spilf-2020 >}}
-- [Caron F et al; SPILF. Recommandations pour la prise en charge des infections urinaires communautaires de l'adulte. Med Mal Inf. 2018.](https://www.sciencedirect.com/science/article/pii/S0399077X17310363)
+- [Caron F, et al; SPILF. Recommandations pour la prise en charge des infections urinaires communautaires de l'adulte. Med Mal Inf. 2018.](https://www.sciencedirect.com/science/article/pii/S0399077X17310363)
 
 ### Bibliographie en attente
 
-- [Plateel T et al. Nitrofurantoin failure in males with an uncomplicated urinary tract infection: a primary care observational cohort study. British Journal of General Practice. 2023.](https://bjgp.org/content/73/728/e204)
+- [Bonkat G, et al. EAU guidelines on urological infections. 2025.](https://uroweb.org/guidelines/urological-infections)
+- [Plateel T, et al. Nitrofurantoin failure in males with an uncomplicated urinary tract infection: a primary care observational cohort study. British Journal of General Practice. 2023.](https://bjgp.org/content/73/728/e204)
 - [NICE. Urinary tract infections in adults. 2023.](https://www.nice.org.uk/guidance/qs90/chapter/Quality-statements) (BU si < 2 sympt pour cystite)
-- [Bonkat G et al. EAU guidelines on urological infections. 2024.](https://uroweb.org/guidelines/urological-infections)
 - [CMIT. Infections urinaires de l'adulte / Connaître les particularités de l'infection urinaire au cours de la grossesse. Item 161. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-161-web.pdf)
 
 {{%/sources%}}

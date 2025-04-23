@@ -30,7 +30,7 @@ flowchart = true
 - Tests de repérage de la démence (cotation annuelle ALQP006 69,12 €): {{< scores/mmse >}}, {{< scores/moca >}} ...
 - Le bilan de la maladie d'Alzheimer comprend un bilan sanguin complet: NFS, bilan rénal et hépatique, TSH, vitamines B12 et folates, sérologies syphilis, VIH et Lyme
 - L'IRM cérébrale est systématique pour le bilan initial d'une démence
-- Adresser au Centre mémoire, neurologue ou gériatre pour le bilan spécialisé et l'annonce diagnostique
+- Adresser au Centre mémoire ([annuaire](https://www.centres-memoire.fr/cartographie-centres-memoire/)), neurologue ou gériatre pour le bilan spécialisé et l'annonce diagnostique
 - Le traitement de la maladie d'Alzheimer associe: activité physique adaptée et contrôle cardiovasculaire, rééducation (orthophonie), interventions non médicamenteuses (art-thérapie, danse, musicothérapie ...), protection juridique et du logement, information du patient et des aidants, aides à domicile
 
 {{%/article-summary%}}
@@ -126,7 +126,7 @@ Demander l'accord pour interroger un accompagnant.
   Déficit, confusion, réflexes, oculo-motricité, troubles sphinctériens, troubles de la marche, dysautonomie.
 
 Si le bilan initial clinico-radiologique est normal malgré la plainte mnésique, répéter le bilan après 6-12 mois.  
-Sinon, le diagnostic et l'annonce de démence est spécialisé: adresser d'emblée au **neurologue**, au **gériatre** ou au **Centre mémoire**.
+Sinon, le diagnostic et l'annonce de démence est spécialisé: adresser d'emblée au **neurologue**, au **gériatre** ou au **[Centre mémoire](https://www.centres-memoire.fr/cartographie-centres-memoire/)**.
 {.alert .alert-info}
 
 ### Aggravation soudaine de l'état de santé ou modification du comportement
@@ -260,6 +260,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Défontaines B, et al; Fédération des Centres Mémoires (FCM). Recommandations pour le diagnostic de la maladie d'Alzheimer. 2025.](https://www.centres-memoire.fr/nouvelles-recommandations-2025-pour-le-diagnostic-de-la-maladie-dalzheimer-a-lire-absolument/)
 - [Dubois B, et al. Alzheimer Disease as a Clinical-Biological Construct -- An International Working Group Recommendation. JAMA Neurol. 2024. (payant)](https://jamanetwork.com/journals/jamaneurology/article-abstract/2825806)
 - [Fondation Médéric Alzheimer. Interventions non médicamenteuses et maladie d'Alzheimer. 2024.](https://www.fondation-mederic-alzheimer.org/news/les-inm-une-priorite-pour-laccompagnement-la-fondation-mederic-alzheimer-enrichit-son-guide-pratique-dedie/)
 - [Reuben DB, et al. Dementia Prevention and Treatment: A Narrative Review. JAMA Intern Med. 2024.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2815813)

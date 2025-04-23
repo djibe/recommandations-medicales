@@ -175,6 +175,10 @@ graph TB
 - Dr Biserte CHRU Lille (Urologie 2008, JPP 2009)
 - Dr Panait HFME Bron
 
+### Bibliographie en attente
+
+[Leeson C, et al. Soins du prépuce. Canadian Family Physician. 2025.](https://www.cfp.ca/content/71/2/105.short)
+
 {{%/sources%}}
 {{% modal title="Dermocorticoïdes disponibles" id="modal-dc" size="lg" %}}
 

@@ -32,7 +32,7 @@ todo = "SEO 'sevrage alcoolique has', simplifier, remarques mail, KEY x3 sevrage
 6. Donner la liste des associations et des consultations (voir *Information du patient*)
 
 - 0 alcool pendant la grossesse et chez les enfants
-- 1 verre standard = 10g d'alcool | seuil de mésusage = 10 verres/semaine  
+- 1 verre standard = 10 g d'alcool | seuil de mésusage = 10 verres/semaine  
   << Pour votre santé, l'alcool c'est maximum 2 verres par jour et pas tous les jours >> et << toute consommation d'alcool comporte un risque pour la santé >> *[Affiche SPF](https://www.santepubliquefrance.fr/determinants-de-sante/alcool/documents/affiche/pour-votre-sante-l-alcool-c-est-maximum-2-verres-par-jour-et-pas-tous-les-jours)*
 - Dépister la Maladie du foie liée à l'alcool (MFLA): ≥ 14 verres/semaine et/ou âge ≥ 40 ans ET score AUDIT-C pathologique (voir *Évaluation d'une consommation*) par test de fibrose hépatique (élastographie hépatique ou biologique Fibrotest® ou Fibromètre Alcool). Arrêt du tabac et lutte surpoids, suivi addictologique
 - Accepter l'objectif de consommation du sujet car toute réduction de consommation est positive. + efficace: auto-évaluation quotidienne de la consommation

@@ -16,7 +16,7 @@ english = ["Measles", "rubeola"]
 sctid = "14189004"
 icd10 = ["B05", "B05.9"]
 image = true
-imageSrc = "Le signe de Koplik: papules jugales blanchâtres en regard de la 1re molaire. Heinz F. Eichenwald, MD / CDC PHIL 24424"
+imageSrc = "Le signe de Koplik: papules jugales blanchâtres en regard de la première molaire. Heinz F. Eichenwald, MD / CDC PHIL 24424"
 todo = "flow"
 +++
 

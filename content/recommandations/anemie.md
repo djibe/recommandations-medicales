@@ -250,6 +250,7 @@ graph TB
 - Rouillon JM. Prise en charge de l'anémie ferriprive. SNFGE. 2018.
 - [OMS. Concentrations en hémoglobine permettant de diagnostiquer l'anémie et d'en évaluer la sévérité. Système d'informations nutritionnelles sur les vitamines et les minéraux. 2011.](https://www.who.int/fr/publications-detail/WHO-NMH-NHD-MNM-11.1)
 - [HAS. Choix des examens du métabolisme du fer en cas de suspicion de carence en fer. 2011.](https://www.has-sante.fr/jcms/c_1051506/fr/choix-des-examens-du-metabolisme-du-fer-en-cas-de-suspicion-de-carence-en-fer-rapport-d-evaluation)
+- {{< references/aderim >}}
 
 ### Bibliographie en attente
 

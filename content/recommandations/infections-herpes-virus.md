@@ -220,16 +220,16 @@ Prise en charge urgente de la primo-infection herpétique oro-faciale:
 
 - Réhydratation, alimentation
 - Antalgie: paracétamol, AINS voire tramadol (+3 ans) ou morphine (*CNPU*)
-- ==Aciclovir 200 mg x 5/j pendant 7 jours== (*Anaes*, *CNPU*)
+- ==[Aciclovir 200 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61683272&typedoc=R) x 5/j pendant 7 jours== (*Anaes*, *CNPU*)
   ou valaciclovir 500 mg x 2/j pendant 7 jours
-- Enfant +2 ans: forme buvable à la même posologie
+- Enfant +2 ans: aciclovir buvable ([Zovirax®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68750987&typedoc=R)) 5 mL x 5/j pendant 7 jours
 - Enfant -2 ans: avis spécialisé
 - Éviter tout contact avec les enfants atopiques
 - Pas d'éviction obligatoire de la collectivité (fréquentation non souhaitée en phase aiguë -- *CNPU*)
 
 **Hospitalisation** si complications, forme buvable impossible, déshydratation, AEG.
 
-> << l'adjonction d’un traitement local n'a pas d'intérêt démontré. >> -- *Anaes 2001*. De même pour les bains de bouche (*CNPU*).
+> << l'adjonction d'un traitement local n'a pas d'intérêt démontré. >> -- *Anaes 2001*. De même pour les bains de bouche (*CNPU*).
 
 ### Récurrence d'herpès labial ou autre
 

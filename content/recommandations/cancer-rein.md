@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-02T12:40:26+01:00"
 publishdate = "2024-01-04"
-lastmod = "2024-04-05"
+lastmod = "2025-04-23"
 specialites = ["urologie"]
-annees = "2024"
+annees = "2025"
 sources = ["EAU", "HAS", "INCa"]
 tags = ["cancer", "tabac"]
 english = ["Renal cancer", "renal cell carcinoma"]
@@ -23,7 +23,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-Ces recommandations concernent uniquement le cancer du rein de l'adulte:
+Ces recommandations concernent le cancer du rein de l'adulte:
 
 - Le cancer du rein est le plus souvent de découverte fortuite chez un homme d'âge moyen
 - Les facteurs de risque de cancer du rein sont la dialyse prolongée, l'obésité et le tabagisme
@@ -45,8 +45,10 @@ Cancer du rein
 - [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
 - {{< modal-btn modal-metabolique >}}Syndrome métabolique{{< /modal-btn >}}
 - [Dialyse]({{% relref "insuffisance-renale-chronique.md" %}}) depuis plus de 3 ans (cancer tubulopapillaire)
-- Génétique: maladie de von Hippel-Lindau (1-2 % des cas)  
-  Hémangiomes cérébelleux et rétiniens, plus de la moitié développe un cancer du rein.
+- Génétique
+  - Hérédité (5-8 % des cas)
+  - Maladie de von Hippel-Lindau (1-2 % des cas)  
+    Hémangiomes cérébelleux et rétiniens, plus de la moitié développe un cancer du rein.
 
 Facteurs suspectés: exposition au cadmium ou à l'amiante.
 
@@ -124,14 +126,15 @@ La prise en charge du cancer du rein est spécialisée après RCP. [Annuaire des
 Mesures associées à la prise en charge des cancers:
 
 - Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
-- Avis oncogénétique avant 47 ans avec ≥ 1 parmi:
+- Avis oncogénétique avant 46 ans avec ≥ 1 parmi:
   - tumeur bilatérale ou multifocale
   - antécédent familial au 1er ou 2e degré
   - proche avec mutation connue
   - histologie évocatrice
-- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
-- [Réduction de l'alcool]({{% relref "sevrage-alcool.md" %}})
-- Activité physique
+- Mesures associées aux cancers:
+  - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
+  - [Réduction de l'alcool]({{% relref "sevrage-alcool.md" %}})
+  - Activité physique
 - Soutien psychologique voire psychothérapie
 - Information du patient: [guide INCa](https://www.cancer.fr/personnes-malades/les-cancers/rein)
 - Association de patients: [Ligue contre le cancer](https://www.ligue-cancer.net), [ARTuR](https://artur-rein.org)
@@ -153,7 +156,7 @@ Le suivi et son rythme après cancer du rein est décidé par l'équipe spécial
 {{% /collapse %}}
 {{%collapse "Prise en charge du cancer du rein" "show" %}}
 
-{{< mermaid title="Prise en charge de la suspicion de cancer du rein par le médecin généraliste. Dr JB Fron d'après EAU 2024 et HAS/INCa" >}}
+{{< mermaid title="Prise en charge de la suspicion de cancer du rein par le médecin généraliste. Dr JB Fron d'après EAU 2025 et HAS/INCa" >}}
 graph TB
   suspicion["<b>Suspicion de cancer du rein</b><br>—<br>- Incidentalome ++<br>- Hématurie totale<br>- Douleur du flanc<br>- Masse lombaire"] --> bilan("<b>Bilan</b><br>—<br>- NFS, créatininémie<br>- Scanner abdominal injecté") --"Aspect de<br>cancer du rein,<br>± scanner thoracique"--> urologue("Urologue du CLCC")
     bilan -- Autre diagnostic --> autre("Prise en charge<br>adaptée")
@@ -163,7 +166,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Ljungberg B, et al. EAU guidelines on renal cancer carcinoma. 2024.](https://uroweb.org/guidelines/renal-cell-carcinoma)
+- [Ljungberg B, et al. EAU guidelines on renal cancer carcinoma. 2025.](https://uroweb.org/guidelines/renal-cell-carcinoma)
 - {{< references/beh-cancers-incidence >}}
 - [HAS, INCa. Cancer du rein de l'adulte. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_985455/fr/ald-n-30-cancer-du-rein-de-l-adulte)
 - [HAS, INCa. Cancer du rein de l'adulte. Guide affection de longue durée. 2010.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-uronephrologiques)

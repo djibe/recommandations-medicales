@@ -193,13 +193,13 @@ Examen neurologique complet.
 
 {{%info%}}
 
-### Bilan devant une algie vasculaire de la face
+### Bilan de la suspicion d'algie vasculaire de la face
 
 IRM cérébrale avec jonction craniocervicale systématique  
 {{%class%}}Au diagnostic, pour éliminer une forme secondaire.{{%/class%}}
 {{%/info%}}
 
-La SFEMC recommandait également une **angio-IRM** en 2014.
+La *SFEMC* recommandait également une **angio-IRM** en 2014.
 
 {{% /collapse %}}
 {{%collapse "Traitement de crise de l'algie vasculaire de la face" %}}
@@ -207,7 +207,7 @@ La SFEMC recommandait également une **angio-IRM** en 2014.
 {{%info%}}
 Sumatriptan 6 mg sous-cutané, 1 injection SC dès le début des douleurs.  
 2^e^ injection possible 1 heure après si besoin.  
-Max 2 inj/24h (sauf avis du neurologue).
+Max 2 injections/24h (sauf avis du neurologue).
 {{%/info%}}
 
 La prise en charge et le traitement de l'algie vasculaire de la face pour les crises repose sur les alternatives suivantes:
@@ -218,11 +218,9 @@ La prise en charge et le traitement de l'algie vasculaire de la face pour les cr
 - Étayer des facteurs déclenchants: alcool, nitroglycérine ou histamine
 - Aucun traitement physiologique ou psychologique ne fonctionne
 
-### Triptans
+### Sumatriptan injectable
 
-Objectif: disparition ou persistance de céphalée légère à 15 ou 30 minutes.
-
-#### Sumatriptan injectable
+**Objectif du traitement:** disparition ou persistance de céphalée légère à 15 ou 30 minutes.
 
 - [Sumatriptan injectable 6 mg SC](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69485328&typedoc=R) (2 et 3 mg possibles)
 - Dès le début de la douleur
@@ -233,15 +231,13 @@ Objectif: disparition ou persistance de céphalée légère à 15 ou 30 minutes.
 
 **Effets indésirables:** douleur thoracique, paresthésies distales.
 
-#### Autre triptan
+#### Autres triptans
 
-[Sumatriptan spray nasal 20 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67876328&typedoc=R) (hors AMM)
-
-- Soulagement retardé à 30 minutes
-- Notamment si crise > 45 minutes ou ne tolérant pas le sumatriptan SC
-- **Effet indésirable:** goût amer
-
-**NB.** Zolmitriptan spray nasal 5 mg non disponible en France (dose efficace = 10 mg).
+- [Sumatriptan spray nasal 20 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67876328&typedoc=R) (hors AMM)
+  - Soulagement retardé à 30 minutes
+  - Notamment si crise > 45 minutes ou ne tolérant pas le sumatriptan SC
+  - **Effet indésirable:** goût amer
+- Non disponible en France: zolmitriptan spray nasal 5 mg (dose efficace de 10 mg).
 
 ### Oxygénothérapie
 
@@ -253,28 +249,30 @@ Oxygénothérapie normobare au masque haute concentration 12-15 L/min pendant 15
 Traiter au moins 3 crises à 12-15 L/min pendant 30 minutes avant de conclure à son inefficacité.  
 *Effet rebond* possible.
 
-> [Journal Officiel](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000030367524) et [forfaits de l'AM OAVF 4.28 et 4.29](http://www.codage.ext.cnamts.fr/cgi/tips/cgi-fiche?p_code_tips=1135392&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
+> [Arrêté du 11 mars 2015](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000030367524) et [forfaits de l'AM OAVF 4.28 et 4.29](http://www.codage.ext.cnamts.fr/cgi/tips/cgi-fiche?p_code_tips=1135392&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
 
 {{% /collapse %}}
 {{%collapse "Traitement de fond de l'algie vasculaire" %}}
 
-Indication à la prise en charge par traitement de fond de l'algie vasculaire de la face: forme épisodique avec période douloureuse plus de 2 semaines ou forme chronique.
+Indication à la prise en charge par traitement de fond de l'algie vasculaire de la face: forme épisodique avec période douloureuse de **plus de 2 semaines ou forme chronique**.
+
+Mesures associées:
 
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
-- Éviction de l'alcool, cannabis et cocaïne
-- Traitement transitionnel si besoin le temps de la titration (voir *Traitement de la crise*)
+- Éviction des toxiques: alcool, cannabis et cocaïne
+- Traitement transitionnel si besoin le temps de la titration (voir plus bas)
 - Association de patients: [AFCAVF](http://www.afcavf.org)
 - Pas d'ALD accordée
 
 ### Vérapamil
 
 - Prescription spécialisée
-- ==Débuter dès le début de la période douloureuse: vérapamil 80 mg x 3-4/j==
-- Augmentation de 80 mg tous les 3-4 jours jusqu'à 480 mg (max 1000 mg)
-- Poursuivre la durée du cycle antérieur et jusqu'à au moins 2 semaines après la dernière crise
-- Puis réduction de 120 mg tous les 15 jours jusqu'à l'arrêt
+- ==Débuter dès le début de la période douloureuse: [vérapamil 80 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62607039&typedoc=R) x 3-4/j==
+- Titration: augmentation de 80 mg tous les 3-4 jours jusqu'à 480 mg (max 1000 mg)
+- Stabilisation: poursuivre la durée du cycle antérieur et jusqu'à au moins 2 semaines après la dernière crise
+- Décroissance: réduction de 120 mg tous les 15 jours jusqu'à l'arrêt
 - En cas de résurgence pendant la décroissance: repasser à la posologie précédente
-- **Surveillance ECG** initiale, puis tous les 6 mois ou chaque augmentation de 160  au-delà de 480 mg/j
+- **Surveillance ECG** initiale, puis tous les 6 mois ou chaque augmentation de 160 au-delà de 480 mg/j
 - Le temps de la titration, la prednisone peut être utilisée (voir plus bas)
 
 Effets indésirables (35%): fatigue, [constipation]({{% relref "constipation.md" %}}), œdèmes des chevilles, hyperplasie gingivale.

@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-04-04T21:20:18+02:00"
 publishdate = "2024-04-07"
-lastmod = "2024-04-07"
+lastmod = "2025-04-23"
 specialites = ["urologie"]
-annees = "2024"
+annees = "2025"
 sources = ["EAU", "HAS", "INCa"]
 tags = ["cancer", "tabac"]
 english = ["Bladder cancer (BC)"]
@@ -141,8 +141,8 @@ Mesures associées à la prise en charge des cancers:
 - Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - Soutien psychologique
-- Information du patient: [guide HAS/INCa (PDF)](https://www.e-cancer.fr/content/download/84979/866709/file/ALD30_GP_Kvessie_VF.pdf)
 - Soutien psychologique voire psychothérapie
+- Information du patient: [guide HAS/INCa (PDF)](https://www.e-cancer.fr/content/download/84979/866709/file/ALD30_GP_Kvessie_VF.pdf)
 - Association de patients: [Ligue contre le cancer](https://www.ligue-cancer.net)
 - Droit à l'oubli: protocole achevé depuis 5 ans en l'absence de rechute
 - Si concerné, déclaration en [Maladie professionnelle]({{% relref "maladie-professionnelle.md" %}}): [16 bis, 15 ter](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&motsCles=&planPatho=TABMALPRO_Pathologie%20r%C3%A9nale%2C%20v%C3%A9sicale%20et%20g%C3%A9nitale%2FPathologie%20des%20voies%20urinaires%2FTumeur%20de%20vessie)
@@ -160,8 +160,8 @@ La cystectomie totale comprend chez l'homme une cystoprostatectomie et chez la f
 {{% /collapse %}}
 {{%sources%}}
 
-- [Gontero P et al. EAU Guidelines on Non-muscle-invasive Bladder Cancer (TaT1 and CIS). 2024.](https://uroweb.org/guidelines/non-muscle-invasive-bladder-cancer)
-- [Witjes JA et al. EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer. 2024.](https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer)
+- [Gontero P, et al. EAU Guidelines on Non-muscle-invasive Bladder Cancer (TaT1 and CIS). 2025.](https://uroweb.org/guidelines/non-muscle-invasive-bladder-cancer)
+- [Witjes JA, et al. EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer. 2025.](https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer)
 - {{< references/beh-cancers-incidence >}}
 - [Collège Français des Enseignants en Urologie (CFEU). Tumeurs vésicales. Item 314. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-314-Tumeurs-de-vessie.pdf)
 - [HAS. Cancer de la vessie. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_969326/fr/ald-n-30-cancer-de-la-vessie)

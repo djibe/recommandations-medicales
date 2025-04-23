@@ -24,7 +24,7 @@ todo = "rankok, IRC"
 {{%article-summary%}}
 
 - Des apports en calcium doivent être maintenus tout au long de la vie
-- Jusqu'à 3 ans, les apports calciques quotidiens peuvent être couverts par du lait de croissance, un yaourt et 10g de fromage à pâte pressée
+- Jusqu'à 3 ans, les apports calciques quotidiens peuvent être couverts par du lait de croissance, un yaourt et 10 g de fromage à pâte pressée
 - Chez l'adulte, les besoins en calcium sont de 1 g/j et de 1,2 g/j après la ménopause ou chez l'homme après 70 ans
 - Le lait et les fromages à pâte cuite sont les aliments les plus riches en calcium
 - Le [questionnaire préconisé par le *GRIO*](#évaluer-les-quotidiens-apports-en-calcium) (*Groupe de Recherche et d'Information sur les Ostéoporoses*) permet de calculer la couverture des apports quotidiens en calcium pour envisager une supplémentation par des comprimés de calcium

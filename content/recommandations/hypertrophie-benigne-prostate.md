@@ -9,9 +9,9 @@ synonyms = ["Hyperplasie bénigne de la prostate", "prostatisme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-04T10:52:08+02:00"
 publishdate = "2023-02-16"
-lastmod = "2024-04-17"
+lastmod = "2025-04-23"
 specialites = ["urologie"]
-annees = "2024"
+annees = "2025"
 sources = ["EAU", "AFU"]
 tags = ["geriatrie", "SAS"]
 english = ["Benign prostatic hyperplasia (BPH)"]
@@ -323,7 +323,7 @@ Avis urologique en cas de d'échec des traitements, de symptômes anormaux (hém
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'HBP" "show" %}}
 
-{{< mermaid title="Prise en charge de l'hypertrophie bénigne de la prostate (HBP). Dr JB Fron d'après EAU 2024 et AFU 2023" >}}
+{{< mermaid title="Prise en charge de l'hypertrophie bénigne de la prostate (HBP). Dr JB Fron d'après EAU 2025 et AFU 2023" >}}
 graph TB
   SBAU[Symptômes du bas<br>appareil urinaire chez le +40 ans] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Symptômes<br>- Phase mictionnelle<br>- Score IPSS<br>- Dysfonction érectile<br>- Examen clinique") --> examens("<b>Examens</b><br>—<br>- ECBU<br>- Résidu post-mictionnel<br>± échographie<br>- ± PSA<br>- ± Créatininémie") --> criteres("≥ 1 parmi:<br>- Toucher rectal non fait<br>- Symptômes atypiques<br>- Anomalie clinico-biologique<br>- PSA augmenté<br>- Complication")
   style SBAU stroke:#4150f5, stroke-width:1px
@@ -336,7 +336,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Cornu JN et al. EAU guidelines on management of non-neurogenic male lower urinary tract symptoms (LUTS). 2024.](https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts)
+- [Cornu JN, et al. EAU guidelines on management of non-neurogenic male lower urinary tract symptoms (LUTS). 2025.](https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts)
 - [AFU. Bilans pré-thérapeutiques des troubles mictionnels de l'homme adulte. Recommander les bonnes pratiques. 2023.](https://www.has-sante.fr/jcms/p_3323646/fr/label-bilans-pre-therapeutiques-des-troubles-mictionnels-de-l-homme-adulte-modalites-et-acteurs)
 - Prescrire Redaction. Hypertrophie bénigne de la prostate. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Franco JVA et al. Serenoa repens for the treatment of lower urinary tract symptoms due to benign prostatic enlargement. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001423.pub4/full/fr)
