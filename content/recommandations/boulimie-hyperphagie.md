@@ -219,7 +219,7 @@ Examens proposés pour évaluer le retentissement de la boulimie:
   - Glycémie à jeun
   - Surpoids: Bilan lipidique
   - Vitamine D
-  - Végétarien: vitamine B12
+  - [Végétarien]({{< relref "regime-vegetarien-vegetalien.md" >}}): vitamine B12
 - Consultation dentaire
 - Consultation gynécologique
 - Consultation diététique pour bilan nutritionnel

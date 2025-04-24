@@ -1,14 +1,14 @@
 +++
 id = "019658d2-046e-7c0e-b7bd-256c72345893"
 title = "Régimes végétarien et végétalien (vegan)"
-titleSeo = "TODO:"
+titleSeo = "Régimes végétarien et végétalien vegan"
 prefix = "la "
-description = "TODO:"
+description = "Recommandations pour la prise en charge nutritionnelle des sujets végétariens et végétaliens (vegan). La supplémentation est nécessaire (vitamines D et B12, zinc)"
 synonyms = ["Régime lacto-ovovégétarien", "véganisme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-04-21T16:47:17+02:00"
-publishdate = "2025-04-21"
-lastmod = "2025-04-21"
+publishdate = "2025-04-24"
+lastmod = "2025-04-24"
 specialites = ["endocrinologie"]
 annees = "2025"
 sources = ["Anses"]
@@ -16,16 +16,16 @@ tags = []
 english = ["Vegetarian diet", "vegan diet"]
 sctid = "765021002"
 icd10 = []
-draft = true
 image = true
 imageSrc = "Les régimes végétariens et végétaliens. jcomp / Freepik"
-todo = "descr > summary > liens > Kanban | Tableau 1p7"
+todo = ""
 +++
 
 {{%article-summary%}}
 
-- Enfants
-TODO: (at the end)
+- Les régimes végétariens et végétaliens (vegan) doivent être optimisés pour limiter les carences nutritionnelles et les excès de contaminations
+- Les carences sont inévitables (vitamine D, omégas 3 EPA et DHA voire vitamine B12 et zinc) et doivent être surveillées et supplémentées
+- Ces régimes ne peuvent être utilisés que chez les adultes en bonne santé, faute de données physiologiques chez les autres populations (enfants, femmes enceintes et allaitantes, athlètes, personnes âgées)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -47,7 +47,7 @@ Anses
 {.dl-inline}
 
 EPA+DHA
-: acide eicosapentaénoïque (EPA) et acide docosahexaénoïque (DHA)
+: acide eicosapentaénoïque (EPA) et acide docosahexaénoïque (DHA), acides gras oméga-3
 
 {{% /collapse %}}
 {{%collapse "Régime végétarien" %}}
@@ -97,7 +97,7 @@ En cas de limitation des apports en produits laitiers: oléagineux 65 g/j (vitam
 
 ### Régime végétarien de l'enfant
 
-L'Anses insiste sur le fait que les données sont insuffisantes pour garantir la santé des enfants végétariens (et autres populations comme les femmes enceintes ou allaitantes, les personnes âgées et physiquement très actives).
+L'*Anses* insiste sur le fait que les données sont insuffisantes pour garantir la santé des enfants végétariens (et autres populations comme les femmes enceintes ou allaitantes, les personnes âgées et physiquement très actives).
 
 > [!WARNING]
 > << Ainsi, s'agissant des enfants et des populations adultes non prises en compte dans l'élaboration de ces repères, des travaux spécifiques devront être menés pour déterminer si l'adoption de régimes d'exclusion est compatible avec la couverture de leurs besoins spécifiques, en identifiant le cas échéant des combinaisons d'aliments leur permettant
@@ -131,6 +131,17 @@ Apports alimentaires quotidiens recommandés chez l'adulte végétalien (en moye
   Vitamines B1, B2, B12, B3, B9 et zinc.
 
 {{% /collapse %}}
+{{%collapse "Bénéfices des régimes végétariens" %}}
+
+Avec un niveau de preuve modéré, les régimes végétariens réduisent le risque de [diabète de type 2]({{< relref "diabete-type-2.md" >}}).
+
+Le niveau de preuve est faible pour la réduction: des cardiopathies ischémiques, des troubles ovulatoires, de certains cancers (prostate, estomac, sang) et certaines maladies ophtalmologiques et gastro-intestinales. À l'opposé, le risque est plus élevé pour les fractures osseuses et l'hypospadias (malformation congénitale de l’urètre).
+
+Les carences sont plus fréquentes en **fer, iode, vitamines B12 et D, phosphocalcique**.
+
+{{< card-link-external title="Connaissez-vous l'empreinte carbone de votre assiette ?" url="https://agirpourlatransition.ademe.fr/particuliers/maison/cuisine/empreinte-carbone-assiette" subtitle="par l'Ademe" >}}
+
+{{% /collapse %}}
 {{%collapse "Synthèse des repères alimentaires pour les régimes végétarien et végétalien" "show" %}}
 
 {{< table title="Synthèse des repères alimentaires quotidiens pour les régimes végétarien et végétalien. Dr JB Fron d'après Anses 2025" class="table-wrap" >}}
@@ -153,11 +164,5 @@ Apports alimentaires quotidiens recommandés chez l'adulte végétalien (en moye
 {{%sources%}}
 
 [Anses. Avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail relatif à l'établissement de repères alimentaires destinés aux personnes suivant un régime d'exclusion de tout ou partie des aliments d'origine animale. 2025.](https://www.anses.fr/fr/content/regimes-vegetariens-effets-sur-la-sante-et-reperes-alimentaires)
-
-### Bibliographie en attente
-
-- Minerva
-- Cismef
-- NICE Clinical guidance
 
 {{%/sources%}}
