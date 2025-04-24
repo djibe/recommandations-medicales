@@ -203,6 +203,8 @@ Pour le médecin généraliste.: Aborder les violences, évaluer, le certificat 
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="W2Z8_FiUq8k" title="Maltraitance intrafamiliale sur personne majeure en situation de vulnérabilité (Haute Autorité de Santé)" >}}
+
 - [Service-Public. Une aide universelle d'urgence est mise en place pour les victimes de violences conjugales. 29/11/2023.](https://www.service-public.fr/particuliers/actualites/A16962)
 - [HAS. Violences conjugales : la HAS appelle les médecins à se saisir pleinement du sujet. 2023.](https://has-sante.fr/jcms/p_3473528/fr/violences-conjugales-la-has-appelle-les-medecins-a-se-saisir-pleinement-du-sujet)
 - [HAS. Repérage des femmes victimes de violences au sein du couple. 2022.](https://www.has-sante.fr/jcms/p_3104867/fr/reperage-des-femmes-victimes-de-violences-au-sein-du-couple)

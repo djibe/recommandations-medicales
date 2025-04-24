@@ -146,7 +146,7 @@ Mesures générales de prise en charge de l'hépatite autoimmune:
 
 ### Pour en savoir plus: les traitements de l'hépatite auto-immune
 
-La prise en charge de l'hépatite auto-immune débute par un traitement immunosuppresseur par **corticothérapie** à la prednisolone (25-50 mg/j), ensuite relayé par **azathioprine** (AZA, 50-200 mg/j, dosage sanguin si inefficace) à vie.
+La prise en charge de l'hépatite auto-immune débute par un traitement immunosuppresseur par **corticothérapie** à la prednisolone (25-50 mg/j), ensuite relayé par **azathioprine** (50-200 mg/j, dosage sanguin si inefficace) à vie.
 
 Autres traitements possibles: mycophénolate mofétil (1-2 g/j) voire troisième ligne par ciclosporine.
 
@@ -155,7 +155,7 @@ Le suivi de l'hépatite auto-immune est spécialisé et dépend de l'activité d
 {{% /collapse %}}
 {{%sources%}}
 
-- [PNDS. Hépatite Auto-immune. 2021.](https://www.has-sante.fr/jcms/p_3291664/fr/hepatite-auto-immunes-hai)
+- [Centre de Référence Constitutif des Maladies Inflammatoires des Voies Biliaires et Hépatites Auto-Immunes; Filfoie. Hépatite Auto-immune. PNDS. 2021.](https://www.has-sante.fr/jcms/p_3291664/fr/hepatite-auto-immunes-hai)
 - [Filfoie. Hépatite auto-immune.](https://www.filfoie.com/glossary/hepatite-auto-immune-2/)
 - [SNFGE. Hépatite auto-immune](https://www.snfge.org/grand-public/maladies-digestives/hepatite-auto-immune)
 

@@ -10,7 +10,7 @@ date = "2020-09-27T19:51:30+02:00"
 publishdate = "2020-09-27"
 lastmod = "2024-11-27"
 specialites = ["urologie"]
-annees = "2024"
+annees = "2025"
 sources = ["EAU", "AFU", "HAS", "USPTF"]
 tags = ["cancer", "depistage"]
 english = ["Prostate cancer (PCa)"]
@@ -43,7 +43,10 @@ Cancer de la prostate (CaP)
 : L'évolution initiale est intra-prostatique (cancer localisé) puis **métastatique ganglionnaire et osseuse** (foie et poumon rares). Moins de 20% des patients ont des métastases à 10 ans.
 
 Cancer de la prostate héréditaire
-: Au moins 2 cas au premier ou second degré de la même branche familiale ou antécédents de cancers du spectre de Lynch ({{< clinique/cancer-spectre-lynch >}}).
+: Au moins 3 cas sur 3 degrés de la même branche familiale ou au moins 2 cas de la même famille avant 55 ans.
+
+Cancer de la prostate familial
+: 2 cas au 1^er^ degré ou au moins 1 apparenté au 1^er^ degré avec au moins 2 apparentés au 2^e^ degré.
 
 ### Facteurs de risque de cancer de la prostate
 
@@ -51,17 +54,17 @@ Cancer de la prostate héréditaire
 > Aucun moyen préventif alimentaire ou pharmacologique du cancer de la prostate n'a été identifié (*EAU 2024*).
 
 - Principal facteur de risque: âge +50 ans
-- Forme héréditaire (voir plus haut)
+- Forme héréditaire (voir *Définitions*)
 - Origine africaine
 - Dans une moindre mesure: hypertension artérielle, obésité abdominale, consommation excessive d'alcool
 
-**NB.** En cas d'hypogonadisme, la supplémentation en testostérone n'augmente pas le risque de cancer de la prostate.
+**NB.** En cas d'[hypogonadisme]({{< relref "andropause-deficit-testosterone.md" >}}), la supplémentation en testostérone n'augmente pas le risque de cancer de la prostate.
 
 ### Facteurs pronostiques
 
 Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de Gleason et ISUP** (évolution du Gleason) au diagnostic.
 
-{{< table title="Risque de cancer de prostate (CaP) selon le taux de PSA d'après la *EAU 2024*. Agressif = ISUP ≥ 2." class="table-sm" >}}
+{{< table title="Risque de cancer de prostate (CaP) selon le taux de PSA d'après la *EAU 2025* (Tableau 5.2). Agressif = ISUP ≥ 2." class="table-sm" >}}
 | PSA (ng/mL) | Risque de CaP (%) | Risque de CaP agressif (%) |
 |------------:|------------------:|---------------------------:|
 | 0 - 0,5     | 6,6               | 0,8                        |
@@ -152,7 +155,7 @@ La plupart des hommes atteints par le cancer de la prostate sont asymptomatiques
 ### Dépistage du cancer de la prostate par mesure du PSA
 
 {{%warning%}}
-**Hommes à risque augmenté de cancer de la prostate:** +50 ans, +45 ans avec antécédent familial de CaP ou d'origine africaine, +40 ans avec BRCA2 (*AFU* et *EAU 2024*).
+**Hommes à risque augmenté de cancer de la prostate:** +50 ans, +45 ans avec antécédent familial de CaP ou d'origine africaine, +40 ans avec BRCA2 (*EAU 2025*, *AFU*).
 
 Risque diminué de cancer de la prostate si PSA < 1 ng/mL à 40 ans et < 2 à 60 ans.
 {{%/warning%}}
@@ -171,7 +174,7 @@ Positions des différents comités sur la détection précoce du cancer de la pr
   Pas de dépistage systématique en population générale ni à haut risque ([INCa 2016. Le dépistage du cancer de la prostate - s'informer avant de décider](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Le-depistage-du-cancer-de-la-prostate-S-informer-avant-de-decider)).
 - Commission européenne 2022  
   PSA jusqu'à 70 ans.
-- EAU 2024  
+- EAU 2025  
   Intérêt d'une détection précoce des *hommes à risque* ayant une [espérance de vie (EV) de +15 ans]({{% relref "esperance-vie-age-france.md" %}}) (71 ans en France)
 - AFU 2022  
   Hommes de 50 (40 à 45 si *à risque*) à 70 ans avec espérance de vie de +10 ans, tous les 2 à 4 ans.
@@ -185,13 +188,14 @@ Patient à risque **asymptomatique** informé demandant une détection précoce,
 
 - Toucher rectal normal
   - PSA < 1 ng/mL à 40 ans ou < 2 à 60 ans: répéter le dosage dans 8 ans
-  - PSA 1^er^ dosage de 3-10 ng/mL: refaire le dosage (min 2 semaines)
+  - PSA 1^er^ dosage de 3-10 ng/mL: refaire le dosage à 4 semaines (fluctuations de 15%)  
+    Si normalisation: contrôle à 1 an.
   - PSA 2^e^ dosage de 2-10 ng/mL: avis urologique pour utilisation d'un score ou IRM prostatique (seuil de 4 ng/mL selon *AFU 2022*)
   - PSA > 10 ng/mL: avis urologique
   - PSA en augmentation > 30%: avis urologique (*AFU*)
 - Toucher rectal anormal: avis urologique
 
-> -- *EAU 2024*
+> -- *EAU 2025*
 
 Le bilan diagnostique est aujourd'hui dominé par des scores permettant de stratifier le recours à l'IRM prostatique avant la biopsie de prostate.
 
@@ -201,11 +205,11 @@ Répéter le dépistage par toucher rectal et dosage du PSA:
 
 - Tous les 2 ans si:
   - PSA > 1 ng/mL à 40 ans
-  - PSA > 2 ng/mL à 60 ans
-- Tous les 8 ans sous ces seuils (**4 ans** pour l'AFU)
+  - PSA > 1-2 ng/mL à 60 ans
+- Tous les 8-10 ans sous ces seuils (**4 ans** pour l'AFU)
 - Arrêt du dépistage: [espérance de vie < 15 ans]({{% relref "esperance-vie-age-france.md" %}}) (10 ans selon *AFU*)
 
-> -- *EAU 2024*
+> -- *EAU 2025 5.1.3*
 
 ### Pour en savoir plus: la biopsie de prostate
 
@@ -217,14 +221,14 @@ Liste des complications de la biopsie prostatique par ordre de fréquence: hémo
 
 Indications à une consultation d'oncogénétique chez un homme ayant un **antécédent personnel ou familial** de:
 
-- Cancer prostatique métastatique
-- Cancer de la prostate à *haut risque* * avec antécédent familial de diagnostic de CaP avant 60 ans  
+- Cancer prostatique métastatique candidat au traitement ciblé
+- Porteur de BRCA
 - Plusieurs antécédents familiaux de cancers prostatiques diagnostiqués avant 60 ans  
-  ou d'un membre familial décédé d'un cancer de prostate
-- Antécédents familiaux génétiques tumoraux ou de cancers multiples d'une branche familiale
+  ou d'un apparenté décédé d'un cancer de la prostate
+- Antécédents familiaux génétiques tumoraux à haut risque ou de cancers multiples d'une branche familiale
 
-> -- *EAU 2024*  
-\* **Haut risque =** PSA > 20 ou Gleason > 7 (ISUP 4/5) ou cT2c ou cT3-4 ou cN+ (*EAU Table 4.2*)
+> -- *EAU 2025*  
+\* **Haut risque =** PSA > 20 ou Gleason > 7 (ISUP 4/5) ou cT2c ou cT3-4 ou cN+ (*EAU Tableau 4.2*)
 
 Indications à une consultation d'oncogénétique selon l'*AFU 2022*:
 
@@ -285,7 +289,7 @@ Complications fréquentes survenant dans les suites d'une prostatectomie (PT) ra
 {{% /collapse %}}
 {{%collapse "Prise en charge par le dépistage du cancer de la prostate" "show" %}}
 
-{{< mermaid title="Dépistage du cancer de la prostate et conduite à tenir devant une augmentation du PSA. Dr JB Fron d'après AFU et EAU 2024" >}}
+{{< mermaid title="Dépistage du cancer de la prostate et conduite à tenir devant une augmentation du PSA. Dr JB Fron d'après EAU 2025 et AFU" >}}
 graph TB
   homme["Homme asymptomatique<br>avec Espérance de vie +15 ans<br>—<br>+50 ans<br>+45 ans avec antécédent familial<br>ou origine Africaine<br>+40 ans avec BRCA2"] -- Information éclairée --> depistage(TR + PSA<br>tous les 2 ans)
   style homme stroke:#4150f5, stroke-width:1px
@@ -307,8 +311,8 @@ graph TB
 
 {{< youtube id="szF2WjhtRE4" title="Cancer de la prostate et pesticides : procédure de reconnaissance (Assurance Maladie)" >}}
 
+- [Cornford P, et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2025.](https://uroweb.org/guidelines/prostate-cancer)
 - [Ploussard G, et al. French AFU Cancer Committee Guidelines - Update 2024-2026: Prostate cancer - Management of metastatic disease and castration resistance. Fr J Urol. 2024.](https://www.sciencedirect.com/science/article/pii/S2950393024001670)
-- [Cornford P, et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2024.](https://uroweb.org/guidelines/prostate-cancer)
 - {{< references/beh-cancers-incidence >}}
 - [Ploussard G, et al. French AFU Cancer Committee Guidelines - Update 2022-2024: prostate cancer - Diagnosis and management of localised disease. Progrès en Urologie. 2022.](https://www.sciencedirect.com/science/article/pii/S116670872200344X)
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
@@ -325,10 +329,8 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Ploussard G, et al. French AFU Cancer Committee Guidelines - Update 2024-2026: Prostate cancer - Diagnosis and management of localised disease. Fr J Urol. 2024.](https://www.sciencedirect.com/science/article/pii/S2950393024001748)
 - [Breyer BN, et al. Updates to Incontinence After Prostate Treatment: AUA/GURS/SUFU Guideline (2024). J Urol. 2024.](https://www.auajournals.org/doi/10.1097/JU.0000000000004088)
 - [Hamdy FC, et al. Fifteen-Year Outcomes after Monitoring, Surgery, or Radiotherapy for Prostate Cancer. N Engl J Med. 2023.](https://www.nejm.org/doi/10.1056/NEJMoa2214122)
-[Ploussard G, et al. French AFU Cancer Committee Guidelines - Update 2022-2024: prostate cancer - Management of metastatic disease and castration resistance. Progrès en Urologie. 2022.](https://www.sciencedirect.com/science/article/pii/S1166708722003438)
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}

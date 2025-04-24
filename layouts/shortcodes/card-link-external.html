@@ -21,7 +21,7 @@
 <div class="card card-body card-primary-action rounded-lg d-inline-flex flex-row mw-248 mb-4 card-link-external {{ with .Get "class" }}{{ . }}{{ end }}">
   <img class="mr-4 card-icon rounded-circle {{ if not (.Get "image") }}svg-primary{{ end }}" src="{{ $imageURL }}" aria-hidden="true" {{with .Get "title" }}alt="Logo de {{.}}"{{else}}alt=""{{end}} loading="lazy" decoding="async">
   <div>
-    <p class="typography-body-2 font-weight-bold"><a href="{{ .Get "url" }}" rel="external nofollow noopener" class="stretched-link text-reset">{{ .Get "title" }}</a></p>
-    {{ with .Get "subtitle" }}<p class="typography-body-2 mb-0">{{ . }}</p>{{ end }}
+    <p class="typography-body-2 font-weight-bold"><a href="{{ .Get "url" }}" rel="external nofollow noopener" class="stretched-link text-reset">{{ .Get "title" | markdownify }}</a></p>
+    {{ with .Get "subtitle" }}<p class="typography-body-2 mb-0">{{ . | markdownify }}</p>{{ end }}
   </div>
 </div>

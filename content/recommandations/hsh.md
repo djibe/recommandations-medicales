@@ -1,8 +1,8 @@
 +++
 id = "0190e8c4-8d9c-7675-b722-8298a885e4e6"
-title = "Hommes ayant des rapports sexuels avec des hommes"
+title = "Hommes ayant des rapports sexuels avec des hommes (HSH)"
 prefix = "les "
-titleSeo = "HSH et santé des Homosexuels masculins"
+titleSeo = "Hommes ayant des rapports sexuels avec des hommes HSH"
 noindex = true
 description = "Mesures de prévention à proposer aux hommes ayant des rapports sexuels avec des hommes (HSH): sérologies des infections sexuelles, vaccins, PrEP"
 synonyms = ["Homosexuel ou bisexuel masculin"]
