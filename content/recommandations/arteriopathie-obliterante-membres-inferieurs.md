@@ -9,7 +9,7 @@ synonyms = ["AOMI", "artériopathie aorto-iliaque et des membres inférieurs", "
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-05-05T18:53:00+02:00"
 publishdate = "2021-05-16"
-lastmod = "2023-12-11"
+lastmod = "2025-04-24"
 specialites = ["cardiologie"]
 annees = "2021"
 sources = ["ESC", "HAS", "SFMV"]
@@ -59,11 +59,11 @@ Blue toe syndrome
 
 ### Épidémiologie de l'artériopathie des membres inférieurs
 
-- **Prévalence:** 3-10%  
+- **Prévalence:** 3 à 10%  
   15-20% après 70 ans.
-- À 5 ans:
-  - 20% des personnes avec une claudication ont eu un AVC ou un IDM
-  - 10-15% sont morts
+- Complications à 5 ans:
+  - 20% des personnes avec une claudication ont eu un AVC ou un infarctus du myocarde
+  - 10 à 15% sont morts
 
 ### Abréviations
 
@@ -153,6 +153,23 @@ Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se
 **Valeurs normales de l'IPS:** 0,91 - 1,40.
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Éliminer les autres types de douleurs à l'effort:
+
+- Syndrome de loges  
+  Sujet sportif, compression ou serrement des mollets après un exercice important, la douleur diminue très lentement, soulagement jambes surélevées.
+- Claudication veineuse  
+  ATCD de TVP. Après la marche, compression/serrement de tout le MI, soulagement rapide jambe surélevée.
+- Sciatalgie/cruralgie
+- [Canal lombaire étroit]({{% relref "canal-lombaire-etroit.md" %}})  
+  Soulagement variable au repos, aggravé debout.
+- Kyste poplité  
+  Antécédents arthrosique. Sensibilité, inconfort, œdème rétro-gonal ou du mollet, au repos et à l'exercice sans effet positionnel.
+- Coxarthrose
+- Métastase osseuse
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 > [!WARNING]
@@ -214,23 +231,6 @@ L'*ESC* encourage la **mesure de l'index de pression systolique** (IPS) par tout
 {{%/info%}}
 
 {{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
-Éliminer les autres types de douleurs à l'effort:
-
-- Syndrome de loges  
-  Sujet sportif, compression ou serrement des mollets après un exercice important, la douleur diminue très lentement, soulagement jambes surélevées.
-- Claudication veineuse  
-  ATCD de TVP. Après la marche, compression/serrement de tout le MI, soulagement rapide jambe surélevée.
-- Sciatalgie/cruralgie
-- [Canal lombaire étroit]({{% relref "canal-lombaire-etroit.md" %}})  
-  Soulagement variable au repos, aggravé debout.
-- Kyste poplité  
-  Antécédents arthrosique. Sensibilité, inconfort, œdème rétro-gonal ou du mollet, au repos et à l'exercice sans effet positionnel.
-- Coxarthrose
-- Métastase osseuse
-
-{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 {{%info%}}
@@ -243,7 +243,7 @@ L'*ESC* encourage la **mesure de l'index de pression systolique** (IPS) par tout
   - Glycémie à jeun
   - Bilan lipidique
   - Créatininémie, {{< modal-btn modal-ckd-epi >}}DFG CKD-EPI{{< /modal-btn >}}, albuminurie sur échantillon
-- Échodoppler artériel des membres inférieurs, aorte et TSA
+- ==Échodoppler artériel== des membres inférieurs, aorte et TSA
 - ECG de repos
 - Consultation de cardiologie
 {{%/info%}}
@@ -252,12 +252,7 @@ L'*ESC* encourage la **mesure de l'index de pression systolique** (IPS) par tout
 
 ### Échodoppler artériel des membres inférieurs, aorte et troncs supra-aortiques
 
-L'échodoppler artériel confirme les lésions d'AOMI et est couplé au [dépistage systématique de l'anévrysme de l'aorte abdominale]({{% relref "anevrysme-aorte-abdominale.md" %}}).  
-Aide à la classification de *Fontaine et Rutherford*.
-
-### Électrocardiogramme de repos voire épreuve d'effort
-
-L'ECG dépiste une coronaropathie ou un trouble du rythme associé.
+L'échodoppler artériel confirme les lésions d'AOMI et est couplé au [dépistage systématique de l'anévrysme de l'aorte abdominale]({{% relref "anevrysme-aorte-abdominale.md" %}}). Il aide à la classification de *Fontaine et Rutherford*.
 
 ### Échodoppler des artère rénales
 
@@ -341,17 +336,18 @@ graph TB
 - {{< references/esc-cvd >}}
 - {{< references/sfd-dt2 >}}
 - [HAS. Artériopathie oblitérante des membres inférieurs. Actes et prestations Affection de longue durée. 2021.](https://www.has-sante.fr/jcms/c_534760/fr/ald-n3-arteriopathie-obliterante-des-membres-inferieurs)
-- [Mahé G. et al, the SFMV/SCVE group. Disparities between international guidelines (AHA/ESC/ESVS/ESVM/SVS) concerning - Lower extremity arterial disease: consensus of the French Society of Vascular Medicine (SFMV) and the French Society for Vascular and Endovascular Surgery (SCVE). Annals of Vascular Surgery. 2021.](https://doi.org/10.1016/j.avsg.2020.11.011)
+- [Mahé G, et al, the SFMV/SCVE group. Disparities between international guidelines (AHA/ESC/ESVS/ESVM/SVS) concerning - Lower extremity arterial disease: consensus of the French Society of Vascular Medicine (SFMV) and the French Society for Vascular and Endovascular Surgery (SCVE). Annals of Vascular Surgery. 2021.](https://doi.org/10.1016/j.avsg.2020.11.011)
 - {{< references/esc-dyslipidaemias >}}
 - Prescrire Redaction. Signes d'artériopathie des membres inférieurs. Rev Prescrire. 2019.
-- [Aboyans A. et al. 2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS): Document covering atherosclerotic disease of extracranial carotid and vertebral, mesenteric, renal, upper and lower extremity arteries. Endorsed by: the European Stroke Organization (ESO) The Task Force for the Diagnosis and Treatment of Peripheral Arterial Diseases of the European Society of Cardiology (ESC) and of the European Society for Vascular Surgery (ESVS). Eur Heart J. 2018.](https://doi.org/10.1093/eurheartj/ehx095)
-- [Mahé G., Jaquinandi V. Artériopathie des membres inférieurs athéromateuse : diagnostic. La Presse Médicale. 2018.](https://doi.org/10.1016/j.lpm.2017.09.021)
-- [Mounier-Vehier C et al. Quand doit-on dépister l'artériopathie oblitérante des membres inférieurs ? Quelle stratégie médicale proposer ? Mal Coeur Vaiss Prat. 2009.](https://www.em-consulte.com/article/237143)
+- [Aboyans A, et al. 2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS): Document covering atherosclerotic disease of extracranial carotid and vertebral, mesenteric, renal, upper and lower extremity arteries. Endorsed by: the European Stroke Organization (ESO) The Task Force for the Diagnosis and Treatment of Peripheral Arterial Diseases of the European Society of Cardiology (ESC) and of the European Society for Vascular Surgery (ESVS). Eur Heart J. 2018.](https://doi.org/10.1093/eurheartj/ehx095)
+- [Mahé G, Jaquinandi V. Artériopathie des membres inférieurs athéromateuse : diagnostic. La Presse Médicale. 2018.](https://doi.org/10.1016/j.lpm.2017.09.021)
+- [Mounier-Vehier C, et al. Quand doit-on dépister l'artériopathie oblitérante des membres inférieurs ? Quelle stratégie médicale proposer ? Mal Coeur Vaiss Prat. 2009.](https://www.em-consulte.com/article/237143)
 - [TASC II. Management of Peripheral Arterial Disease. 2007.](https://www.jvascsurg.org/article/S0741-5214(06)02296-8/pdf)
-- [Bendermacher BL et al. A clinical prediction model for the presence of peripheral arterial disease--the benefit of screening individuals before initiation of measurement of the ankle-brachial index: an observational study. Vasc Med. 2007.](https://journals.sagepub.com/doi/10.1177/1358863X07076827)
+- [Bendermacher BL, et al. A clinical prediction model for the presence of peripheral arterial disease--the benefit of screening individuals before initiation of measurement of the ankle-brachial index: an observational study. Vasc Med. 2007.](https://journals.sagepub.com/doi/10.1177/1358863X07076827)
 - [HAS. Guide ALD Artériopathie oblitérante des membres inférieurs. Mars 2007.](https://www.has-sante.fr/upload/docs/application/pdf/ald3_aomi_guide_cardiovasc_post_corrlemire_revuenp28avril__205.pdf)
 - [HAS. Prise en charge de l'artériopathie chronique oblitérante athéroscléreuse des membres inférieurs. 2006.](https://www.has-sante.fr/jcms/c_272513/fr/prise-en-charge-de-l-arteriopathie-chronique-obliterante-atherosclereuse-des-membres-inferieurs-indications-medicamenteuses-de-revascularisation-et-de-reeducation)
 - [HAS. Prise en charge de l'ulcère de jambe à prédominance veineuse hors pansement. 2006.](https://www.has-sante.fr/jcms/c_459541/fr/prise-en-charge-de-l-ulcere-de-jambe-a-predominance-veineuse-hors-pansement)
+- {{< references/aderim >}}
 
 {{%/sources%}}
 {{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}

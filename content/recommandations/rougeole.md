@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-04-05T19:47:39+02:00"
 publishdate = "2025-04-11"
-lastmod = "2025-04-11"
+lastmod = "2025-04-24"
 specialites = ["infectiologie", "pédiatrie"]
 annees = "2024"
 sources = ["SPF"]
@@ -110,9 +110,11 @@ L'incubation de la rougeole dure de 10 à 12 jours et la contagiosité perdure 5
 > [!INFO]
 > La vaccination est le seul moyen de prévenir la rougeole.
 
-La vaccination trivalente **ROR** (rougeole - oreillons - rubéole) est obligatoire pour tous les nourrissons à **12 mois** avec un rappel de 16 à 18 mois (MMRvaxPro® ou Priorix®).
+La vaccination trivalente **ROR** (rougeole - oreillons - rubéole) est obligatoire pour tous les nourrissons à **12 mois** avec un rappel de 16 à 18 mois ([M-M-RvaxPro®](https://www.ema.europa.eu/fr/documents/product-information/m-m-rvaxpro-epar-product-information_fr.pdf) ou [Priorix®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61896473&typedoc=R#RcpContreindications)).
 
-La vaccination ROR (vaccin vivant) est contre-indiquée pendant la grossesse et une grossesse doit être évitée le mois suivant.
+Lorsque le statut vaccinal n'est pas connu, la vaccination est rattrapée sans contrôle vaccinal.
+
+La vaccination ROR (**vaccin vivant**) est **contre-indiquée pendant la grossesse** et une grossesse doit être évitée le mois suivant. Autres contre-indications: immunodépression (dont corticothérapie forte dose), fièvre élevée, hypersensibilité à la substance.
 
 Pour tous les sujets de plus de 11 mois nés depuis 1980, s'assurer qu'ils ont 2 doses de vaccin ROR administrées à partir de 12 mois. Sinon, rattraper le nombre de doses manquantes, espacées d'au moins 1 mois. (*HAS 2024*)
 {.alert .alert-warning}

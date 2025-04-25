@@ -8,7 +8,7 @@ synonyms = ["Sigmoïdite diverticulaire", "diverticulite colique", "sigmoïdite 
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-09T11:33:00+02:00"
 publishdate = "2021-02-09"
-lastmod = "2024-07-26"
+lastmod = "2025-04-24"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2024"
 sources = ["HAS", "SPILF", "ACP", "ESCP"]
@@ -19,16 +19,16 @@ icd10 = ["K57", "K57.9"]
 image = true
 imageSrc = "Diverticules coliques en coloscopie. Anpol42, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "rankok | seo"
+todo = "rankok"
 +++
 
 {{%article-summary%}}
 
 - La diverticulose colique est asymptomatique dans 80% des cas
 - La diverticulite sigmoïdienne aiguë (*ex* sigmoïdite diverticulaire) est une inflammation infectieuse colique d'origine diverticulaire, survenant surtout entre 50 et 70 ans
-- Bilan systématique lors de la première poussée de diverticulite sigmoïdienne: diagnostic radiologique systématique par scanner abdomino-pelvien
-- Prise en charge de la crise de diverticulite non compliquée sans gravité hors grossesse: pas d'antibiothérapie durant les 48 premières heures de la crise douloureuse
-- Chirurgie colique prophylactique des diverticules en cas de comorbidités:  
+- Un bilan systématique est nécessaire lors de la première poussée: diagnostic par scanner abdomino-pelvien
+- La prise en charge de la crise de diverticulite sigmoïdienne non compliquée sans gravité (hors grossesse) est symptomatique: pas d'antibiothérapie durant les 48 premières heures de la crise douloureuse
+- Une chirurgie colique prophylactique des diverticules est programmée à distance en cas de comorbidités:  
   Immunodépression, [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}), altération de la qualité de vie, fistule, abcès ou sténose symptomatique.
 
 {{%/article-summary%}}
@@ -69,6 +69,20 @@ HAS
 {.dl-inline}
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Autres causes de douleurs abdominales en fosse iliaque:
+
+- Lithiase urinaire
+- Infection urinaire
+- Constipation
+- Syndrome de l'intestin irritable
+- Appendicite ± ectopique
+- Occlusion digestive
+- Cancer colorectal
+- Pathologie gynécologique
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 > [!INFO]
@@ -76,24 +90,26 @@ HAS
 
 ### Interrogatoire
 
-- Antécédents: digestifs, comorbidité, immunodépression
+- Antécédents: digestifs, comorbidités, immunodépression
 - Antécédents familiaux
 - Si femme non ménopausée: grossesse en cours
 - **Facteurs de risque** de complication: aspirine, anti-inflammatoires (AINS), [alcool]({{% relref "sevrage-alcool.md" %}})
 - Traitements en cours
 - Date et heure de début des symptômes
 - Triade des symptômes de diverticulite:
-  - Douleur abdominale en fosse iliaque gauche ± défense (EVA)
-  - Signes généraux: fièvre, frissons
+  - **Douleur abdominale en fosse iliaque gauche** ± défense (EVA)
+  - Signes généraux: **fièvre**, frissons
   - Troubles du transit: nausées, vomissements, constipation
+- Signes de complications: fécalurie, pneumaturie, écoulements vaginaux fétides
 
 ### Examen clinique
 
 - Pression artérielle, fréquence cardiaque
 - Fréquence respiratoire
 - Palpation abdominale
+- ± Bandelette urinaire
 
-### Facteurs prédictif de complication
+### Facteurs prédictifs de complication
 
 - Symptômes persistants +5 jours
 - EVA initiale > 7
@@ -107,7 +123,7 @@ HAS
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Un bilan est systématique pour affirmer le diagnostic de diverticulite sigmoïdienne aiguë.
+Le bilan est systématique pour affirmer le diagnostic de diverticulite sigmoïdienne aiguë.
 
 ### Bilan d'une diverticulite sigmoïdienne
 
@@ -128,9 +144,9 @@ Recours à l'échographie voire l'IRM en cas de contre-indication au scanner.
 
 ### Coloscopie
 
-Indications à la coloscopie: au moins 2 crises de diverticulite (en l'absence de coloscopie dans les 3 ans -- *ESCP 2020*).
+Indications à la **coloscopie**: au moins 2 crises de diverticulite (en l'absence de coloscopie dans les 3 ans -- *ESCP 2020*).
 
-La coloscopie doit être réalisée au moins 6 semaines après l'épisode diverticulaire.
+La coloscopie est au moins 6 semaines après l'épisode diverticulaire.
 
 {{% /collapse %}}
 {{%collapse "Critères d'hospitalisation" %}}
@@ -166,7 +182,8 @@ Une prise en charge ambulatoire de diverticulite aiguë est possible uniquement 
 - Surveillance clinique des symptômes  
   {{%class%}}Après bilan biologique ± scanner.{{%/class%}}
 - Pas de suivi biologique systématique ni de scanner de contrôle en cas d'évolution favorable
-- Coloscopie si ≥ 2 crises (en l'absence de coloscopie dans les 3 ans)(*ESCP 2020*)
+- Arrêt du tabac et activité physique (*ASCRS*)
+- Coloscopie si ≥ 2 crises (en l'absence de coloscopie dans les 3 ans -- *ESCP 2020*)
 
 Traitements à pas utiliser: AINS, corticoïdes et aspirine.
 {.alert .alert-warning}
@@ -223,6 +240,7 @@ graph TB
 - [Qaseem A, et al. Diagnosis and Management of Acute Left-Sided Colonic Diverticulitis: A Clinical Guideline From the American College of Physicians. Ann Intern Med. 2022.](https://www.acpjournals.org/doi/full/10.7326/M21-2710)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [Schultz JK, et al. European Society of Coloproctology: guidelines for the management of diverticular disease of the colon. Colorectal Dis. 2020.](https://doi.org/10.1111/codi.15140)
+- [Hall J, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Treatment of Left-Sided Colonic Diverticulitis. Dis Colon Rectum. 2020.](https://journals.lww.com/dcrjournal/fulltext/2020/06000/the_american_society_of_colon_and_rectal_surgeons.6.aspx)
 - {{< references/spilf-2020 >}}
 - [Rouillon JM. Prise en charge de la diverticulite sigmoïdienne. SNFGE. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/prise_en_charge_de_la_diverticulite.pdf)
 - Prescrire Rédaction. Diverticulite aiguë du côlon. Novembre 2018.
@@ -232,8 +250,7 @@ Mot-clé: sigmoidite
 
 ### Bibliographie en attente
 
-- [Schultz JK, et al. European Society of Coloproctology: guidelines for the management of diverticular disease of the colon. Colorectal Dis. 2022.](https://onlinelibrary.wiley.com/doi/full/10.1111/codi.15140)
-- [Hall J, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Treatment of Left-Sided Colonic Diverticulitis. Dis Colon Rectum. 2020.](https://journals.lww.com/dcrjournal/fulltext/2020/06000/the_american_society_of_colon_and_rectal_surgeons.6.aspx)
+[Schultz JK, et al. European Society of Coloproctology: guidelines for the management of diverticular disease of the colon. Colorectal Dis. 2022.](https://onlinelibrary.wiley.com/doi/full/10.1111/codi.15140)
 
 {{%/sources%}}
 {{% modal title="Score ASA" id="modal-score-asa"%}}

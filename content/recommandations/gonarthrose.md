@@ -165,12 +165,14 @@ Autres diagnostics à étayer devant des douleurs des genoux.
 ### Bilan de la gonarthrose
 
 - NFS, VS, CRP
-- Radiographies des genoux
+- ==Radiographies des genoux==
   - de face en charge et profil
   - Défilé fémoro-patellaire à 30° de flexion
   - Schuss (de face, en charge avec 30-60° de flexion)
 
-Absence de syndrome inflammatoire au cours de la gonarthrose. En imagerie, la douleur est mal corrélée au stade radiographique.
+Absence de syndrome inflammatoire au cours de la gonarthrose. En imagerie, **la douleur est mal corrélée** au stade radiographique.
+
+Des imageries complémentaires sont inutiles en cas d'arthrose typique, sauf évolution atypique ou bilan pré-opératoire.
 
 #### En savoir plus: signes radiologiques de l'arthrose des genoux
 
@@ -309,6 +311,7 @@ graph TB
 - Congrès SFR 2021 (12-14 décembre 2021, Paris) - Recommandations 2021 pour la prise en charge non pharmacologique des malades atteints de gonarthrose
 - [Sellam J, et al. Recommandations de la Société Française de Rhumatologie sur la prise en charge pharmacologique de la gonarthrose. Revue du Rhumatisme. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301769)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Arthrose. Item 129 UE 6. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-8-0.php)
+- {{< references/aderim >}}
 
 ### Bibliographie en attente
 

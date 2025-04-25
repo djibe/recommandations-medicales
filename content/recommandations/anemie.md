@@ -19,7 +19,7 @@ icd10 = ["D50", "D50.8", "D50.9", "E61.1"]
 flowchart = true
 image = true
 imageSrc = "Illustration de l'anémie. macrovector / Freepik"
-todo = "signes différentiels, La voie orale est inefficace dans les MICI (*SOURCE*), red flags NICE 23-24-184, Prescrire, risque K src 11-25-63, indication transfusion sanguine"
+todo = "signes différentiels, La voie orale est inefficace dans les MICI (*SOURCE*), red flags NICE 23-24-184, Prescrire, risque K src 11-25-63, indication transfusion sanguine | valeurs sujet âgé"
 +++
 
 {{%article-summary%}}
@@ -163,19 +163,18 @@ Bilan d'une *carence martiale isolée* chez des sujets sans pertes physiologique
 Examens recommandés pour la prise en charge d'une anémie (réaliser dans l'ordre):
 
 - BU, ECBU
-- Recherche de [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (à tout âge, 3-5%)
-  IgA totales + IgA anti-transglutaminase
-- **Électrophorèse de l'hémoglobine**  
+- ± Recherche de [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (à tout âge, 3-5 %)
+  IgA totales + IgA anti-transglutaminase.
+- Électrophorèse de l'hémoglobine  
   Indication: ferritinémie normale chez sujet originaire d'Asie-Afrique-Méditerranée, avant bilan endoscopique.
-- Femme
-  Examen gynécologique.
+- Femme: examen gynécologique
 - Facteur de risque d'insuffisance rénale: créatininémie
 - Sujet âgé: vitamines B9 et B12
 - Homme (tout âge)
   ou femme +50 ans, ménopausée/sans menstruations, [risque élevé de cancer colorectal]({{% relref "cancer-colorectal.md" %}}), sévérité inexpliquée:
-  - Fibroscopie gastrique et coloscopie rapidement
+  - **Fibroscopie gastrique** et **coloscopie** rapidement
     Uniquement si anémie. Si carence martiale seule, surveillance de la NFS.
-  - Coloscanner si impossible voire coloIRM
+  - **Coloscanner** si impossible (voire coloIRM), scanner abdominopelvien si anticoagulants
   - Si endoscopies normales et absence de réponse à la supplémentation: exploration du grêle et des voies urinaires
 
 **NB.** Un antécédent de chirurgie bariatrique ne dispense pas du bilan étiologique complet selon le profil.

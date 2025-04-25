@@ -2,7 +2,8 @@
 id = "019658d2-046e-7c0e-b7bd-256c72345893"
 title = "Régimes végétarien et végétalien (vegan)"
 titleSeo = "Régimes végétarien et végétalien vegan"
-prefix = "la "
+prefix = "les "
+longHtml = true
 description = "Recommandations pour la prise en charge nutritionnelle des sujets végétariens et végétaliens (vegan). La supplémentation est nécessaire (vitamines D et B12, zinc)"
 synonyms = ["Régime lacto-ovovégétarien", "véganisme"]
 auteurs = ["Jean-Baptiste FRON"]
@@ -12,7 +13,7 @@ lastmod = "2025-04-24"
 specialites = ["endocrinologie"]
 annees = "2025"
 sources = ["Anses"]
-tags = []
+tags = ["B12", "depistage", "vitamine D"]
 english = ["Vegetarian diet", "vegan diet"]
 sctid = "765021002"
 icd10 = []
@@ -53,7 +54,7 @@ EPA+DHA
 {{%collapse "Régime végétarien" %}}
 
 > [!WARNING]
-> Les carences en **vitamine D** et **acides gras EPA+DHA** sont inévitables chez les végétariens malgré un régime optimisé. Le carence en **vitamine B12** a lieu en cas de faible consommation de produits laitiers.
+> Les carences en **[vitamine D]({{% relref "vitamine-d.md" %}})** et **acides gras EPA+DHA** sont inévitables chez les végétariens malgré un régime optimisé. Le carence en **[vitamine B12](/tags/b12/)** a lieu en cas de faible consommation de produits laitiers.
 
 Ces recommandations concernent le ==régime végétarien== (dit lacto-ovovégétarien) de l'adulte en bonne santé (hors femmes enceintes ou allaitantes, athlètes et personnes âgées). Les apports recommandés sont optimisés pour **limiter les carences** et les **excès de contaminations**.
 

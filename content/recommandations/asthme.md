@@ -325,7 +325,7 @@ EFR non concluantes de 5 à 16 ans: test du monoxyde d'azote dans l'air expiré 
 
 ### Radiographie thoracique
 
-Radiographie de thorax systématique au diagnostic.
+Radiographie de thorax systématique au diagnostic (la SFR [n'est pas d'accord](https://aderim.radiologie.fr/pathologies/asthme)).
 
 ### Autres bilans
 
@@ -548,6 +548,7 @@ graph TB
 - [Raherison C, et al. Updated guidelines (2015) for management and monitoring of adult and adolescent asthmatic patients (from 12 years and older) of the Société de pneumologie de langue française (SPLF) (summary). Revue des Maladies Respiratoires. 2016. (PDF)](https://splf.fr/wp-content/uploads/2016/11/reco-asthme-re%CC%81sume%CC%81-2016.pdf)
 - [HAS. Insuffisance respiratoire chronique grave secondaire à un asthme. 2006.](https://www.has-sante.fr/jcms/c_452137/fr/ald-n14-insuffisance-respiratoire-chronique-grave-secondaire-a-un-asthme)
 - [HAS. Recommandations pour le suivi médical des patients asthmatiques adultes et adolescents. Recommandations de bonne pratique. 2004.](https://www.has-sante.fr/jcms/c_272363/fr/recommandations-pour-le-suivi-medical-des-patients-asthmatiques-adultes-et-adolescents)
+- {{< references/aderim >}}
 
 ### Bibliographie en attente
 

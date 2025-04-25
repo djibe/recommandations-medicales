@@ -175,6 +175,26 @@ Dépister par spirométrie toute personne par l'{{< modal-btn modal-depistage-bp
 - **Spirométrie après bronchodilatateur: VEMS/CVF < 70%**
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Autres causes de toux et dyspnée chronique d'origine thoracique:
+
+- [Asthme]({{% relref "asthme.md" %}})
+- [Cancer du poumon]({{% relref "cancer-poumon.md" %}})
+- [Tuberculose]({{% relref "tuberculose.md" %}})
+- Dilatation des bronches et emphysème pulmonaire
+- [Insuffisance cardiaque chronique]({{% relref "insuffisance-cardiaque-chronique.md" %}})
+- Pneumopathie interstitielle
+- Mucoviscidose
+- Idiopathique
+
+### Diagnostic différentiel de l'exacerbation de BPCO
+
+- [Embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})
+- [Pneumonie aiguë communautaire]({{% relref "pneumonie-aigue-communautaire.md" %}})
+- [Œdème pulmonaire cardiogénique]({{% relref "insuffisance-cardiaque-aigue.md" %}})
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 {{%info%}}
@@ -215,32 +235,12 @@ Tabagisme, âge +35 ans, dyspnée persistante et progressive, décrite comme né
 ### Examen clinique
 
 - Pression artérielle, pouls, **SpO~2~**
-- Poids, taille, IMC
+- Poids et variations, taille, IMC
 - Auscultation pulmonaire  
   Sibilants, tirage, cyanose.
-- Calcul du risque cardiovasculaire {{< scores/heartscore >}}
+- Calcul du risque cardiovasculaire: {{< scores/heartscore >}}
 - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 - Rechercher une [mycose buccale]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
-
-{{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
-Autres causes de toux et dyspnée chronique d'origine thoracique:
-
-- [Asthme]({{% relref "asthme.md" %}})
-- [Cancer du poumon]({{% relref "cancer-poumon.md" %}})
-- [Tuberculose]({{% relref "tuberculose.md" %}})
-- Dilatation des bronches et emphysème pulmonaire
-- [Insuffisance cardiaque chronique]({{% relref "insuffisance-cardiaque-chronique.md" %}})
-- Pneumopathie interstitielle
-- Mucoviscidose
-- Idiopathique
-
-### Diagnostic différentiel de l'exacerbation de BPCO
-
-- [Embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})
-- [Pneumonie aiguë communautaire]({{% relref "pneumonie-aigue-communautaire.md" %}})
-- [Œdème pulmonaire cardiogénique]({{% relref "insuffisance-cardiaque-aigue.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -252,7 +252,8 @@ Autres causes de toux et dyspnée chronique d'origine thoracique:
 - NFS (hématocrite, éosinophiles)
 - Glycémie à jeun
 - Bilan lipidique
-- Radiographie de thorax
+- Radiographie de thorax  
+  Répétée lors des exacerbations (SFR).
 - Consultation de cardiologie
 - Consultation de pneumologie
 
@@ -649,6 +650,7 @@ graph TB
 - [Jouneau S et al. Prise en charge des exacerbations de la bronchopneumopathie chronique obstructive (BPCO). Recommandations de la SPLF. 2017. (PDF)](https://splf.fr/wp-content/uploads/2017/06/Jouneau-recos-exac-BPCO-2017-SPLF-court.pdf)
 - [Wedzicha JA, et al. Prevention of COPD exacerbations: a European Respiratory Society/American Thoracic Society guideline. Eur Respir J. 2017.](https://erj.ersjournals.com/content/50/3/1602265)
 - [Zysman M, et al. Propositions de la SPLF pour l'optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. 2016. (PDF)](https://splf.fr/wp-content/uploads/2014/12/reco-bpco-trait-splf-2016-rmr.pdf)
+- {{< references/aderim >}}
 
 ### Bibliographie en attente
 

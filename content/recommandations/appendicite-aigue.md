@@ -163,8 +163,7 @@ En l'absence de signes cliniques (douleur migrant en FID) ET biologiques (NFS et
 
 ### Imagerie de l'appendicite
 
-**Échographie abdominale** par examinateur entraîné ou **scanner abdominal avec injection** (après 75 ans ou obésité).  
-Après une échographie normale, **contrôler** avec un opérateur entraîné ou un scanner.
+==Échographie abdominale== par examinateur entraîné voire **scanner abdomino-pelvien avec injection** (+75 ans, obésité ou appendice non vu en échographie). Après une échographie normale, **contrôler** avec un opérateur entraîné ou un scanner.
 
 Chez la femme enceinte: échographie abdominale ou IRM abdominale sans injection. Après échographie normale ou non concluante et absence d'accès à l'IRM: scanner abdominal avec injection.
 
@@ -218,6 +217,7 @@ graph TB
 - {{< references/spilf-2020 >}}
 - [HAS. Appendicectomie. Évaluation des technologies de santé. 2012.](https://www.has-sante.fr/jcms/c_1218019/fr/appendicectomie-elements-decisionnels-pour-une-indication-pertinente-rapport-d-evaluation)
 - [SNFGE. Appendicite aiguë.](https://www.snfge.org/grand-public/maladies-digestives/appendicite-aigue)
+- {{< references/aderim >}}
 
 ### Bibliographie en attente
 

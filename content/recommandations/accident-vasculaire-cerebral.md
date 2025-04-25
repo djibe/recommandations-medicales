@@ -119,13 +119,13 @@ On compte également 30.000 accidents ischémiques transitoires chaque année.
 
 1. Déficit moteur (> 50%)  
   Faiblesse ou engourdissement soudain, uni ou bilatéral de la face, du bras ou de la jambe.
-1. Trouble visuel (28%)  
+2. Trouble visuel (28%)  
   Diminution ou perte de vision uni ou bilatérale.
-1. Dysarthrie/aphasie (> 42%)  
+3. Dysarthrie/aphasie (> 42%)  
   Difficulté de langage ou de la compréhension.
-1. Céphalées  
+4. Céphalées  
   Mal de tête sévère, soudain ou inhabituel sans cause apparente (saignement intra-crânien).
-1. Troubles de l'équilibre (17%)  
+5. Troubles de l'équilibre (17%)  
   Instabilité à la marche ou chutes inexpliquées.
 
 Et déficit sensitif brutal (35%)
@@ -136,11 +136,11 @@ Et déficit sensitif brutal (35%)
 
 {{%warning%}}
 
-- Appel du {{<phone>}}15{{</phone>}} pour transfert en UNV  
-Prise des constantes en même temps.  
-Si le patient appelle au cabinet, transférer l'appel au SAMU et essayer de rester en ligne.
+- Appel du {{<phone>}}15{{</phone>}} pour transfert en unité neuro-vasculaire avec IRM cérébrale
+  - Prise des constantes en même temps
+  - Si le patient appelle au cabinet, transférer l'appel au SAMU et essayer de rester en ligne
 - Allonger et surveiller le patient
-- Rédiger pour le SAMU
+- Rédiger pour le SAMU:
   - Heure de début des symptômes
   - Âge, identité
   - Antécédents
@@ -388,6 +388,7 @@ graph TB
 - [Steiner T, et al. European Stroke Organisation (ESO) Guidelines for the Management of Spontaneous Intracerebral Hemorrhage. International Journal of Stroke. 2014.](https://journals.sagepub.com/doi/10.1111/ijs.12309)
 - [HAS. Accident vasculaire cérébral : méthodes de rééducation de la fonction motrice chez l'adulte. 2012.](https://www.has-sante.fr/jcms/c_1334330/fr/accident-vasculaire-cerebral-methodes-de-reeducation-de-la-fonction-motrice-chez-l-adulte)
 - [HAS. Accident vasculaire cérébral :  prise en charge précoce. 2009.](https://www.has-sante.fr/jcms/c_830203/fr/accident-vasculaire-cerebral-prise-en-charge-precoce-alerte-phase-prehospitaliere-phase-hospitaliere-initiale-indications-de-la-thrombolyse)
+- {{< references/aderim >}}
 
 ### Bibliographie en attente
 

@@ -18,7 +18,7 @@ sctid = "781382000"
 icd10 = ["C18", "C18.9", "C20", "D01.0", "K62.1", "K63.5", "Z12.1"]
 image = true
 imageSrc = "Illustration du cancer colorectal. Blausen Medical Communications, Inc., CC BY 3.0, via Wikimedia Commons"
-todo = "rankok, dépistage G8 gériatrie"
+todo = "rankok"
 flowchart = true
 +++
 
@@ -30,7 +30,7 @@ flowchart = true
   - élevé: antécédent personnel ou familial de CCR ou d'adénome, MICI, acromégalie
   - très élevé: polypose familiale, syndrome de Lynch
 - Symptômes persistants évocateurs de cancer du côlon ou du rectum: rectorragies/méléna, alternance diarrhée-constipation, douleur ou masse abdominale, syndrome rectal, AEG, anémie ferriprive.  
-  Les symptômes d'alerte imposent une consultation rapide de gastro-entérologie pour une coloscopie diagnostique.
+  Les symptômes d'alerte imposent une consultation rapide de gastro-entérologie pour une [coloscopie]({{% relref "coloscopie.md" %}}) diagnostique.
 - Facteurs de risque de cancer colorectal: alcool, tabac, surpoids, alimentation riche en viande rouge et charcuterie et faible en fibres
 - Test de dépistage fécal (TIF): tous les 2 ans de 50 à 74 ans (à risque modéré asymptomatiques sans coloscopie dans les 5 ans). Commandes de kits: *Ameli Pro*, retrait en pharmacie ou livraison à domicile sur [monkit.depistage-colorectal.fr](https://monkit.depistage-colorectal.fr/#/invitation)
 
@@ -227,12 +227,12 @@ Facteurs de risque de cancer colorectal liés au mode de vie:
 
 ### Dépistage du cancer du côlon par le test immunologique fécal
 
-{{%info%}}Indication au test immunologique fécal: personnes à risque modéré asymptomatiques sans coloscopie dans les 5 ans (ou coloscanner dans les 2 ans), à répéter tous les 2 ans de 50 à 74 ans
+{{%info%}}Indication au test immunologique fécal: personnes à risque modéré asymptomatiques sans coloscopie dans les 5 ans (ou coloscanner dans les 2 ans), à répéter tous les 2 ans de 50 à 74 ans.
 
 Un test de dépistage positif impose une coloscopie dans les 31 jours.
 {{%/info%}}
 
-[La brochure d'info de l'INCa (PDF)](https://www.e-cancer.fr/content/download/320843/4600170/file/D%C3%A9pliant%20-%20D%C3%A9pistage%20du%20cancer%20colorectal%20-%20D%C3%A8s%2050%20ans,%20un%20test%20%C3%A0%20faire%20chez%20soi%20tous%20les%20deux%20ans.%20148x210.pdf) et le [site web d'info patient](https://www.e-cancer.fr/Comprendre-prevenir-depister/Se-faire-depister/Depistage-du-cancer-colorectal)
+[La brochure d'info de l'INCa (PDF)](https://www.cancer.fr/catalogue-des-publications/depliant-d-information-simplifie-sur-le-depistage-du-cancer-colorectal-6-pages-a4) et le [site web d'info patient](https://www.cancer.fr/toute-l-information-sur-les-cancers/se-faire-depister/les-depistages/depistage-du-cancer-colorectal)
 
 #### Commander des kits de dépistage du cancer colorectal
 
@@ -253,7 +253,7 @@ Le test immunologique fécal (TIF) remplace le test *Hemoccult®*. Il est perfor
 **4% des tests sont positifs, nécessitant une coloscopie de confirmation dans les 31 jours** (*SFED 2019*).  
 En cas de TIF positif, la coloscopie découvre un cancer pour 8% et un adénome avancé chez 40% des sujets: << détecté tôt, un cancer colorectal peut se guérir dans 9 cas sur 10 >> -- *INCa 2020*
 
-**Critères d'exclusion** au test de dépistage: risque de CCR élevé ou très élevé (voir *[Niveaux de risque](#niveaux-de-risque-de-cancer-colorectal)*), symptômes évocateurs de CCR (voir *Clinique*), coloscopie totale dans les 5 ans, coloscanner seul ou coloscopie incomplète suivie de coloscanner dans les 2 ans.
+**Critères d'exclusion** au test de dépistage: risque de CCR élevé ou très élevé (voir *[Niveaux de risque](#niveaux-de-risque-de-cancer-colorectal)*), symptômes évocateurs de CCR (voir *Clinique*), [coloscopie]({{% relref "coloscopie.md" %}}) totale dans les 5 ans, coloscanner seul ou coloscopie incomplète suivie de coloscanner dans les 2 ans.
 
 Personne réticente au dépistage par test immunologique:
 
@@ -274,9 +274,9 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 | Patient | Début surveillance | Population | Suivi et rythme |
 |---|---|---|---|
 | Antécédent personnel d'adénome<br>(SFED 2021) | Après résection | <strong>Risque élevé:</strong><br>- ≥ 5 adénomes<br>- 1 adénome ≥ 10 mm ou en DHG<br>- ≥ 1 PF | Coloscopie à 3 ans |
-| | | <strong>Risque faible:</strong><br>1-2 adénome < 10 mm en DBG | Cs de prévention à 5 ans<br>+ coloscopie sous 7-10 ans<br>ou reprise TIF à 5 ans |
+| | | <strong>Risque faible:</strong><br>1-2 adénome < 10 mm en DBG | Consultation de prévention à 5 ans<br>+ coloscopie sous 7-10 ans<br>ou reprise TIF à 5 ans |
 | | | <strong>Risque faible:</strong><br>3-4 adénomes < 10 mm en DBG<br>PF < 10 mm sans dysplasie | Coloscopie à 5 ans |
-| Antécédent personnel de CCR<br>sporadique (SFED 2021) | Après résection |  | Coloscopie à 1 an<br>(sous 6 mois si incomplète)<br>puis intervalle de 3 ans<br>et encore 5 ans (selon polypes) |
+| Antécédent personnel de CCR<br>sporadique (SFED 2021) | Après résection || Coloscopie à 1 an<br>(sous 6 mois si incomplète)<br>puis intervalle de 3 ans<br>et encore 5 ans (selon polypes) |
 | Antécédent familial 1^er^ degré de CCR<br>ou d'adénome avancé > 10 mm | À partir de 45 ans<br>ou 10 ans avant l'âge<br>de diagnostic du<br>cas index |  | Coloscopie tous les 5 ans |
 | MICI | 6-8 ans après le début<br>des symptômes | <strong>Risque élevé:</strong><br>CSP, ATCD de dysplasie, forme étendue<br>sur +50% du côlon, persistance inflammatoire,<br>ATCD familiaux CCR, nb pseudo-polypes,<br>sténose colique | Chromoendoscopie tous les 1-2 ans |
 | | | <strong>Risque intermédiaire:</strong><br>RCH étendue en dessous de l'angle gauche,<br>MC colique étendue sur 30-50% | Tous les 3-4 ans |
@@ -325,30 +325,6 @@ Chirurgie le plus souvent. Parfois chimiothérapie adjuvante et thérapie ciblé
 - Stade IV: au cas par cas
 
 {{% /collapse %}}
-{{%collapse "La coloscopie" %}}
-
-[SFED, SNFGE - informations médicales avant réalisation d'une coloscopie (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/information_patient_coloscopie_sfed-snfge-snfcp_2017.pdf) et [CREGG: Coloscopie : préparation, déroulement & complications de l'examen](https://www.cregg.org/espace-patients/tube-digestif/coloscopie-preparation-deroulement-complications-de-lexamen/)
-
-{{< card-link-external title="Appli MaColo" subtitle="Application d'aide à la préparation de la coloscopie" url="https://macolo.fr">}}
-
-### Préparation colique pour une coloscopie
-
-- [Régime sans résidus]({{% relref "regime-sans-residus.md" %}}) à débuter la veille (*ESGE*)
-  - Interdits: fruits, légumes, lait, yaourts, fromage blanc, pains et céréales complètes, jus de fruits
-  - Autorisés: pommes ou carottes fraîches cuites, viandes, volailles, œufs, poissons, jambon blanc, pâtes, riz et pain blanc, pommes de terre (sans la peau), fromages à pâte cuite (gruyère, emmental, beaufort, comté), biscottes au froment, gâteaux secs simples
-- Le liquide de préparation colique
-  - Fractionnement de la prise de produit à base de 2-4 litres de polyéthilèneglycol (PEG type Colopeg®, Fortrans®, Klean-Prep®) + siméticone orale (ex. Ximipeg®)
-  - Éviter les PEG à bas de phosphate de sodium (Colokit®, Recholan®)
-- Terminer la préparation de H-5 à H-2 puis rester à jeun  
-  Préparation possible le jour J en cas de coloscopie programmée l'après-midi.
-
-> -- *SFED 2019*, *ESGE 2019* et *HAS 2013*
-
-### Complications de la coloscopie
-
-Complications modérées à sévères pour 1 à 4,5/1000, dont hémorragies (1 - 3/1000) et des perforations intestinales (0,5 - 1/1000). Décès 1/10.000 à 1/18.000.
-
-{{% /collapse %}}
 {{%collapse "Aide au dépistage adapté du cancer colorectal" "show" %}}
 
 {{< mermaid title="Choix du dépistage adapté pour le cancer colorectal. Dr JB Fron d'après TNCD 2023 et INCa 2020" >}}
@@ -376,24 +352,18 @@ graph TB
 - {{< references/inca-cancers-mortalite >}}
 - {{< references/college-gastro >}}
 - [Cervantes A, et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04192-8/fulltext)
-- [Robaszkiewicz M, et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml)
-- [INCa. Les cancers colorectaux en 12 points clés. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-cancers-colorectaux-en-12-points-cles)
-- [Hassan C, et al. Bowel preparation for colonoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2019. Endoscopy. 2019.](https://www.thieme-connect.de/products/ejournals/html/10.1055/a-0959-0505)
-- [Bernardini D, et al. Critères de qualité de la coloscopie - Recommandations du CNP-HGE et de la SFED. Hépato-Gastro et Oncologie Digestive. 2019.](https://www.jle.com/fr/revues/hpg/e-docs/criteres_de_qualite_du_compte_rendu_de_coloscopie_recommandations_du_cnp_hge_et_de_la_sfed_313695/article.phtml)
-- [INCa. Cancers colorectaux - Du diagnostic au suivi. 2018.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancers-colorectaux-Du-diagnostic-au-suivi)
+- [Robaszkiewicz M, et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml) ([accès libre (PDF)](https://www.sfed.org/wp-content/uploads/2022/05/modalites_de_surveillance_definitives-5ec.pdf))
+- [INCa. Les cancers colorectaux en 12 points clés. 2020.](https://www.cancer.fr/catalogue-des-publications/les-cancers-colorectaux-en-12-points-cles)
+- [INCa. Cancers colorectaux - Du diagnostic au suivi. 2018.](https://www.cancer.fr/catalogue-des-publications/cancers-colorectaux-du-diagnostic-au-suivi)
 - [HAS. Cancer colorectal : modalités de dépistage et de prévention chez les sujets à risque élevé et très élevé. Mai 2017.](https://www.has-sante.fr/jcms/c_2772744/fr/cancer-colorectal-modalites-de-depistage-et-de-prevention-chez-les-sujets-a-risque-eleve-et-tres-eleve)
-- [HAS. Quand faut-il faire une coloscopie de contrôle après une polypectomie ?. Septembre 2013.](https://www.has-sante.fr/jcms/c_1695396/fr/quand-faut-il-faire-une-coloscopie-de-controle-apres-une-polypectomie)
+- [HAS. Quand faut-il faire une coloscopie de contrôle après une polypectomie ?. 2013.](https://www.has-sante.fr/jcms/c_1695396/fr/quand-faut-il-faire-une-coloscopie-de-controle-apres-une-polypectomie)
 - [HAS. Dépistage et prévention du cancer colorectal. Juin 2013.](https://www.has-sante.fr/jcms/c_1623732/fr/depistage-et-prevention-du-cancer-colorectal)
-- [HAS. ALD n°30 - Cancer colorectal. Janvier 2012.](https://www.has-sante.fr/jcms/c_644453/fr/ald-n-30-cancer-colorectal)
-- [INCa. Indication de la radiothérapie - Rectum. Mai 2009 (PDF)](https://www.e-cancer.fr/content/download/58359/532048/file/Indicat-radioth-RECTUM_final_janv2010.pdf)
+- [HAS. ALD n°30 - Cancer colorectal. 2012.](https://www.has-sante.fr/jcms/c_644453/fr/ald-n-30-cancer-colorectal)
+- [INCa. Indication de la radiothérapie - Rectum. 2009 (PDF)](https://www.e-cancer.fr/content/download/58359/532048/file/Indicat-radioth-RECTUM_final_janv2010.pdf)
 - [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique polypose adénomateuse familiale et polypose liée à MYH. 2009. (PDF)](https://www.e-cancer.fr/content/download/58351/531984/file/chir_prophy_predi_gene_polypose.pdf)
 - [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique SYNDROME HNPCC / lynch. 2009. (PDF)](https://www.e-cancer.fr/content/download/58350/531976/file/chir_prophy_predi_gene_hnpcc-lynch.pdf)
 - [SFCD et ACHBT. Prise en charge des patients atteints de métastases hépatiques synchrones du cancer colorectal (synthèse). (PDF)](https://www.e-cancer.fr/content/download/58365/532096/file/reco-label-mhs-synthese.pdf)
 - [ESMO. Localised Colon Cancer. Interactive Guideline.](http://interactiveguidelines.esmo.org/esmo-web-app/gl_toc/index.php?GL_id=74)
-
-### Bibliographie en attente
-
-[Jacobson BC, et al. Optimizing Bowel Preparation Quality for Colonoscopy: Consensus Recommendations by the US Multi-Society Task Force on Colorectal Cancer. Am J Gastroenterol. 2025.](https://doi.org/10.14309/ajg.0000000000003287)
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
