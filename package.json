@@ -6,6 +6,8 @@
     "recommandations:new": "hugo new recommandations/article.md",
     "css:update-browserslist": "npx update-browserslist-db@latest",
     "css:compile": "node-sass --output-style expanded --precision 6 assets/sass/_material-custom.scss assets/css/material.css",
+    "docker:build": "hugo --environment development --buildDrafts && docker build -t recomed-image:v1 .",
+    "docker:run": "docker run --name recomed -d -p 8080:80 recomed-image:v1",
     "print:compile": "node-sass --output-style expanded --precision 6 assets/sass/_print-material.scss assets/css/print-material.css",
     "css:purge": "hugo && purgecss --css assets/css/material.css --content public/**/*.html --output assets/css/material-purge.css --safelist text-danger pagination page-link is-focused has-value close collapse collapsing modal fade modal-open modal-backdrop modal-scrollbar-measure nav-tabs-material nav-tabs-indicator animate show active tooltip tooltip-inner irs irs--material irs-line irs-min irs-max irs-from irs-to irs-single irs-grid irs-bar irs-bar--single irs-handle single state_hover irs-hidden-input",
     "css:purge-preview": "hugo --buildDrafts && purgecss --css assets/css/material.css --content public/**/*.html --output assets/css/material-purge.css --safelist pagination page-link is-focused has-value close collapse collapsing modal fade modal-open modal-backdrop modal-scrollbar-measure nav-tabs-material nav-tabs-indicator animate show active tooltip tooltip-inner irs irs--material irs-line irs-min irs-max irs-from irs-to irs-single irs-grid irs-bar irs-bar--single irs-handle single state_hover irs-hidden-input",
@@ -47,7 +49,7 @@
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^7.0.2",
     "@oramacloud/client": "^2.1.4",
-    "apexcharts": "^4.5",
+    "apexcharts": "^4.7",
     "cli-real-favicon": "^0.0.9",
     "cross-env": "^7.0.3",
     "hint": "^7.1.13",
