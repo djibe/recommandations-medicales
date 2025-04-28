@@ -7,7 +7,7 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2025-01-24"
+lastmod = "2025-04-28"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2024"
 sources = ["MinSanté", "HAS"]
@@ -25,7 +25,7 @@ flowchart = true
 
 - La grippe est une maladie infectieuse respiratoire fréquente, très contagieuse, interhumaine stricte, due au virus à ARN *Myxovirus influenzae*
 - Prévention des formes graves de la grippe par la vaccination annuelle des personnes à risque (+65 ans, grossesse, ...) à partir de mi-octobre (en métropole)
-- Le vaccin ne donne évidemment pas de syndrome grippal puisqu'il ne contient que quelques protéines de surface virales
+- Le vaccin ne donne pas de syndrome grippal puisqu'il ne contient que quelques protéines de surface virales
 - Le rappel antigrippal est couplé à la vaccination Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*)
 - L'antiviral oseltamivir n'est pas remboursé, faute d'efficacité suffisante
 
@@ -144,14 +144,14 @@ Signes et symptômes de la grippe:
 {{% /collapse %}}
 {{%collapse "Vaccins disponibles pour la campagne de vaccination 2023-2024" %}}
 
-Vaccination annuelle en octobre pour les personnes à risque de grippe grave (Bon de prise en charge à 100% Cerfa n°610e sur *Ameli pro*).
+Vaccination annuelle en octobre pour les personnes à risque de grippe grave (Bon de prise en charge à 100 % Cerfa n°610e sur *Ameli pro*).
 {.alert .alert-info}
 
 Vaccins contre la grippe disponibles en France pour la campagne vaccinale pour les adultes et les enfants:
 
-- FlurarixTetra®
-- InfluvacTetra®
-- VaxigripTetra®
+- FlucelvaxTetra®
+- Influvac Trivalent®
+- Vaxigrip Trivalent®
 
 Le vaccin intranasal Fluenz Tetra® n'est pas disponible en France.
 
@@ -159,7 +159,7 @@ La campagne de vaccination a commencé le ==15 octobre 2024== (*DGS Urgent 2024_
 
 Pas de délai à respecter entre les vaccins anti-grippaux et anti Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
 
-La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance (décret paru mais en attente de la convention par l'Assurance Maladie).
+La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
 
 ### Pour en savoir plus: Bénéfices de la vaccination antigrippale
 

@@ -7,7 +7,7 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2024-11-24"
+lastmod = "2025-04-28"
 specialites = ["infectiologie", "ORL"]
 annees = "2024"
 sources = ["HCSP", "HAS", "SPILF", "GPIP"]
@@ -33,7 +33,7 @@ Ces recommandations visent à protéger les nourrissons non immuns et personnes 
 - et antibioprophylaxie des sujets contacts proches à risque (voir [Antibioprophylaxie](#antibioprophylaxie-des-cas-contacts))
 - Vaccination coqueluche
   - Une coqueluche ne modifie pas le calendrier vaccinal. L'immunité vaccinale ne persiste que 5 à 10 ans
-  - Tous les vaccins de dTPolio sont désormais couplés à la coqueluche (BoostrixTetra ou Repevax)
+  - Tous les vaccins dTPolio sont désormais couplés à la coqueluche (BoostrixTetra ou Repevax)
   - [Vaccination coqueluche]({{% relref "vaccination.md" %}}) à chaque grossesse entre 20 et 36 SA
   - **Cocooning:** actuellement pour tout l'entourage dont le dernier rappel a plus de 5 ans (habituellement uniquement en l'absence de vaccination en fin de grossesse)
   - Professionnels de santé en 2025: rappel coqueluche si +5 ans
@@ -184,7 +184,7 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
 
 > Délai minimal d'un mois entre 2 doses de vaccin coquelucheux
 
-{{< table title="Recommandations vaccinales contre la coqueluche selon *Calendrier vaccinal 2024*" class="table-wrap" >}}
+{{< table title="Recommandations vaccinales contre la coqueluche selon *Calendrier vaccinal 2025*" class="table-wrap" >}}
 | Âge                         | Spécialités                                                    | Commentaire                             |
 |-----------------------------|----------------------------------------------------------------|-----------------------------------------|
 | 2 mois                      | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
@@ -199,7 +199,7 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
 | Médecin généraliste         | BoostrixTetra, Repevax                                         | Coqueluche à chaque dTP                 |
 {{< /table >}}
 
-> **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse (si amené à s'occuper de l'enfant durant les 6 premiers mois) avant 25 ans si dernière dose a +5 ans, si rappel a +10 ans ensuite  
+> **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse (si amené à s'occuper de l'enfant durant les 6 premiers mois) avant 25 ans si dernière dose a +5 ans (pour **tous en 2025**), si rappel a +10 ans ensuite  
 **Professionnels de santé et de la petite enfance:** ajouter la coqueluche à chaque rappel du dTPolio (45 et 65 ans) + 1 dose si dernière dose réalisée avant 18 ans et date de +5 ans.
 
 La vaccination contre la coqueluche peut être réalisée par un pharmacien ou un infirmier sans ordonnance. Elle fait partie des 11 vaccins obligatoires pour les enfants nés à partir du 1er janvier 2018 (voir [vaccination]({{% relref "vaccination.md" %}})).
@@ -284,13 +284,13 @@ Avant HAS/SPILF/GPIP 2024, des guides incomplets: DGS Urgent 2024_08 (aucune inf
 
 {{< youtube id="yhxuKysI33o" title="Vidéo#5 : La coqueluche (CRAtb Pays de la Loire / MedQual)" >}}
 
+- {{< references/calendrier-vaccinal >}}
 - [DGS-Urgent 2024_11. 13/08/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : coqueluche chez le nourrisson, l'enfant et l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3525542/fr/choix-et-durees-d-antibiotherapies-coqueluche-chez-le-nourrisson-l-enfant-et-l-adulte)
 - [Haut Conseil de la Santé Publique. Prévention de la transmission de la coqueluche aux personnes à risque de forme grave. 30/07/2024.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1386)
 - [HAS. Stratégie de vaccination contre la coqueluche dans le contexte épidémique de 2024. Rappel vaccinal des professionnels au contact des personnes à risque de forme grave. 2024.](https://www.has-sante.fr/jcms/p_3531825/fr/recrudescence-de-la-coqueluche-la-has-renforce-les-recommandations-vaccinales-pour-proteger-les-nouveau-nes-et-les-nourrissons)
 - [Infovac France. Bulletin N°7 - FAQ Coqueluche. Juin 2024.](https://www.infovac.fr/actualites/bulletin-n-7-faq-coqueluche-juin-2024)
 - [DGS-Urgent 2024_08. 07/06/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
-- {{< references/calendrier-vaccinal >}}
 - [HCSP. Conduite à tenir autour d'un ou plusieurs cas de coqueluche. 2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1265)
 - [SPILF. Info-antibio N°92. Mai 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2021-05-tt-courts.pdf)
 - [CMIT. Coqueluche. Item 163. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-163-web.pdf)

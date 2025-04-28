@@ -378,14 +378,12 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
   - 1 lecteur remboursé tous les 4 ans
   - **Indications à l'autosurveillance glycémique:** insuline envisagée ou en cours, insulinosécréteur avec suspicion d'hypoglycémie, visée pédagogique en cible non atteinte, déséquilibre aigu (infection, corticoïdes, suspension du traitement), (désir de) grossesse
 - Capteur de glycémie
-  - Indications pour le remboursement chez patient atteint depuis plus de 4 ans si: insulinothérapie intensifiée (pompe ou ≥ 3 injections quotidiennes) et pratiquant une ASG ≥ 3/j
-  - OU insulinothérapie (< 3 injections/jour) avec déséquilibre (HbA1c ≥ 8%) (*[HAS 2022 (PDF)](https://www.has-sante.fr/upload/docs/evamed/CNEDIMTS-6882_FREESTYLE%20LIBRE%202_18%20octobre%202022_(6882)_avis.pdf)*)
-  - Prescription initiale par endocrinologue
-  - 26 capteurs/an remboursés ([Freestyle Libre 2](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043507006)) ou 36 si [Dexcom One](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047911730)
+  - Indications: insulinothérapie intensifiée ou non contrôlée
+  - [Freestyle Libre 2](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043507006)) (26 capteurs/an remboursés) ou Libre 2 plus (24/an), [Dexcom One](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047911730) ou One + (36/an)
 - Stylo à insuline connecté (Novopen 6, Novopen Echo Plus)  
   1 stylo par an.
 
-> -- *[Ameli 2021](https://www.ameli.fr/medecin/exercice-liberal/memos/suivi/auto-surveillance-glycemique-du-patient-diabetique-systeme-freestyle-libre)*
+> -- *[Ameli 2025](https://www.ameli.fr/medecin/exercice-liberal/memos/troubles-endocriniens/diabete/prise-en-charge-et-suivi-du-patient/suivi/auto-surveillance-glycemique-du-patient-diabetique-systeme-freestyle-libre)*
 
 {{% /collapse %}}
 {{%sources%}}
@@ -396,8 +394,8 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 
 {{< youtube id="jeOxsF9n__0" title="Webinaire Diabète de type 2 de l'adulte : quelles stratégies thérapeutiques ? (HAS)" >}}
 
-- [HAS. Stratégie thérapeutique du patient vivant avec un diabète de type 2. 2024.](https://www.has-sante.fr/jcms/p_3191108/fr/strategie-therapeutique-du-diabete-du-type-2-fiche-memo-et-parcours-de-soins-integres-note-de-cadrage)
 - {{< references/calendrier-vaccinal >}}
+- [HAS. Stratégie thérapeutique du patient vivant avec un diabète de type 2. 2024.](https://www.has-sante.fr/jcms/p_3191108/fr/strategie-therapeutique-du-diabete-du-type-2-fiche-memo-et-parcours-de-soins-integres-note-de-cadrage)
 - [HAS, ANRS. Traitement de la Covid-19. 22/12/2023.](https://www.has-sante.fr/jcms/p_3447571/fr/traitement-de-la-covid-19)
 - {{< references/sfd-dt2-2023 >}}
 - [Diévart F et al. Quand et comment utiliser les inhibiteurs de la SGLT2 ou gliflozines en pratique clinique ? Nephrol Ther. 2023.](https://hal.science/hal-04541399)

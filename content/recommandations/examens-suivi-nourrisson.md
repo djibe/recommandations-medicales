@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2020-06-02T11:57:29+02:00"
 publishdate = "2020-06-02"
-lastmod = "2025-04-09"
+lastmod = "2025-04-28"
 specialites = ["pédiatrie"]
 annees = "2025"
 sources = ["MinSanté", "Service-Public"]
@@ -88,7 +88,7 @@ Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de s
 Pour plus d'informations sur les vaccinations, dont les obligations, voir le chapitre [Vaccination]({{% relref "vaccination.md" %}}).
 {.alert .alert-info}
 
-{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention **NR**. Dr JB Fron d'après *Décret n° 2024-694* et *Calendrier Vaccinal 2024*" class="table-wrap" >}}
+{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention **NR**. Dr JB Fron d'après *Décret n° 2024-694* et *Calendrier Vaccinal 2025*" class="table-wrap" >}}
 |          Âge          | Valences                                                                                  | Spécialités équivalentes                                                                                        |
 |:---------------------:|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 |   ~~Né après~~<br>le (suspendu) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
@@ -103,7 +103,7 @@ Pour plus d'informations sur les vaccinations, dont les obligations, voir le cha
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
 | 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
 | 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>Nimenrix, MenQuadfi, Menveo (pas d'aiguille)           |
-| 15-24 ans  | Méningo B si souhait de vaccination (HAS 2024)       | Bexsero                                                                   |
+| 15-24 ans  | Méningo B si souhait de vaccination                  | Bexsero                                                                   |
 {{< /table >}}
 
 **Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours avec pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles. Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)

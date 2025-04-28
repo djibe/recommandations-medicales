@@ -197,7 +197,7 @@ const chartOptions3 = {
 - **Vaccinations**
   - Covid-19 et grippe d'octobre à janvier (possibles quel que soit le terme)
   - Coqueluche entre 20 et 36 SA à chaque grossesse
-  - (**Suspendue**) Anti-VRS par Abrysvo une seule fois si terme de 32 à 36 SA de septembre à janvier  
+  - (**Campagne suspendue**) Anti-VRS par Abrysvo une seule fois si terme de 32 à 36 SA de septembre à janvier  
     ou Beyfortus chez le nouveau-né à défaut.
   - Avant la grossesse: rattrapage rubéole et varicelle
 - **Activité physique**  
@@ -216,7 +216,7 @@ const chartOptions3 = {
 | 9e mois<br>37-42 SA ||||
 {{< /table >}}
 
-> -- *HAS 2016*, *HAS 2009*, *USPTF 2023*, *Calendrier vaccinal 2024*
+> -- *HAS 2016*, *HAS 2009*, *USPTF 2023*, *Calendrier vaccinal 2025*
 
 {{% /collapse %}}
 {{%collapse "Médicaments et vaccins pendant la grossesse" %}}
@@ -351,13 +351,13 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{% rel
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [Anses. Enrichir la farine en acide folique : une solution contre les malformations du tube neural chez les nouveau-nés. 2024.](https://www.anses.fr/fr/content/enrichir-la-farine-en-acide-folique-une-solution-contre-les-malformations-du-tube-neural)
 - [HAS, ANRS, CNS. Prise en charge thérapeutique du patient atteint d'herpès génital. 2024.](https://www.has-sante.fr/jcms/p_3562501/fr/prise-en-charge-therapeutique-du-patient-atteint-d-herpes-genital)
 - [Vigoureux S, et al; CNGOF. Prévention de l'allo-immunisation anti-RH1 au premier trimestre de la grossesse: recommandations pour la pratique clinique du Collège National des Gynécologues-Obstétriciens Français. Gynécologie Obstétrique Fertilité & Sénologie. 2024. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Complications%20de%20la%20grossesse/Allo-immunisation%20-%20Rh%C3%A9sus%20D%202024-Prevention%20de%20l'allo-immunisation%20anti%20RH1.pdf)
 - [US Preventive Services Task Force. Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive Services Task Force Recommendation Statement. JAMA. 2024.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/iron-deficiency-anemia-in-pregnant-women-screening-and-supplementation)
 - [Service Public. Grossesse : examens médicaux. 14/08/2024.](https://www.service-public.fr/particuliers/vosdroits/F963)
 - [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
-- {{< references/calendrier-vaccinal >}}
 - [Ameli Médecin. Maternité : l'examen bucco-dentaire désormais pris en charge jusqu'au 6e mois après l'accouchement. 28/02/2024.](https://www.ameli.fr/medecin/actualites/maternite-l-examen-bucco-dentaire-desormais-pris-en-charge-jusqu-au-6e-mois-apres-l-accouchement)
 - [Insee. Bilan démographique 2023 - Fécondité. 2024.](https://www.insee.fr/fr/statistiques/7746164?sommaire=7746197)
 - [HCSP. Dépistage systématique de l'infection à cytomégalovirus pendant la grossesse. 08/12/2023.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1367)

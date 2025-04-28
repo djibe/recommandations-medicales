@@ -48,11 +48,11 @@ En 2019, sur les 12 mois précédant:
 
 Principalement dans les lieux publics > professionnel et scolaire > familial.
 
-> [Duchesne L et al. Violences homophobes subies par les hommes ayant des relations sexuelles avec des hommes en 2019. Enquête rapport au sexe. Bull Epidémiol Hebd. 2021;(6-7):105-11.](http://beh.santepubliquefrance.fr/beh/2021/6-7/2021_6-7_2.html)
+> [Duchesne L, et al. Violences homophobes subies par les hommes ayant des relations sexuelles avec des hommes en 2019. Enquête rapport au sexe. Bull Epidémiol Hebd. 2021;(6-7):105-11.](http://beh.santepubliquefrance.fr/beh/2021/6-7/2021_6-7_2.html)
 
 Au moins 2 fois plus de [dépressions]({{% relref "depression.md" %}}) (1/4 expliquées par les agressions), tentatives de suicides et suicides que les personnes hétérosexuelles.
 
-> [El Khoury Lesueur F et al. Le groupe Baromètre de Santé publique France 2017. Santé mentale des adultes selon l'orientation sexuelle et violences subies. Résultats du Baromètre de Santé publique France 2017. Bull Epidémiol Hebd. 2021.](http://beh.santepubliquefrance.fr/beh/2021/6-7/2021_6-7_1.html)
+> [El Khoury Lesueur F, et al. Le groupe Baromètre de Santé publique France 2017. Santé mentale des adultes selon l'orientation sexuelle et violences subies. Résultats du Baromètre de Santé publique France 2017. Bull Epidémiol Hebd. 2021.](http://beh.santepubliquefrance.fr/beh/2021/6-7/2021_6-7_1.html)
 
 Parmi les HSH fréquentant les milieux sociaux HSH (bars, backrooms):
 
@@ -91,9 +91,9 @@ Post systématique avec tout partenaire dont le statut sérologique n'est pas co
 
 ### Vaccinations
 
-#### Vaccin Monkeypox
+#### Vaccin Mpox
 
-Voir *[Monkeypox]({{% relref "mpox.md" %}})*
+Vaccination [Monkeypox]({{% relref "mpox.md" %}}) recommandée en cas de partenaires multiples.
 
 #### Vaccin hépatite A
 
@@ -124,8 +124,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS. Avis n° 2024.0058/AC/SESPE du 29 août 2024 du collège de la Haute Autorité de santé relatif à la stratégie de vaccination contre le mpox. 2024.](https://www.has-sante.fr/jcms/p_3538025/fr/avis-n-2024-0058/ac/sespev-du-29-aout-2024-du-college-de-la-haute-autorite-de-sante-relatif-a-la-strategie-de-vaccination-contre-le-mpox)
 - {{< references/calendrier-vaccinal >}}
+- [HAS. Avis n° 2024.0058/AC/SESPE du 29 août 2024 du collège de la Haute Autorité de santé relatif à la stratégie de vaccination contre le mpox. 2024.](https://www.has-sante.fr/jcms/p_3538025/fr/avis-n-2024-0058/ac/sespev-du-29-aout-2024-du-college-de-la-haute-autorite-de-sante-relatif-a-la-strategie-de-vaccination-contre-le-mpox)
 - [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)

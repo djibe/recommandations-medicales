@@ -232,8 +232,7 @@ En cas d'œsophagite, la guérison est souvent obtenue en 8 semaines.
 
 ### Antihistaminique H2 (anti-H2)
 
-Efficaces sur les symptômes en cures courtes mais non indiqués en traitement d'entretien.  
-Traitement pendant 6 à 12 semaines.
+Efficaces sur les symptômes en cures courtes mais non indiqués en traitement d'entretien. Traitement pendant 6 à 12 semaines.
 
 Molécules privilégiées:
 

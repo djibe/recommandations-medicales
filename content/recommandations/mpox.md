@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
 publishdate = "2022-07-20"
-lastmod = "2025-04-11"
+lastmod = "2025-04-28"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2024"
 sources = ["MinSanté", "HAS", "HCSP"]
@@ -197,10 +197,10 @@ En cas de confirmation du diagnostic, le laboratoire doit transmettre le prélè
 
 Toutes les personnes avec risque élevé d'exposition au virus de la variole du singe sont éligibles à la vaccination Mpox préventive:
 
-- [Hommes ayant des relations sexuelles avec des hommes (HSH)]({{% relref "hsh.md" %}})
+- [Hommes ayant des relations sexuelles avec des hommes (HSH)]({{% relref "hsh.md" %}}) avec partenaires multiples
 - Personnes trans multi-partenaires
 - Personnes en situation de prostitution
-- Professionnels des lieux de rencontre sexuelle
+- Professionnels des lieux de consommation sexuelle
 - Les partenaires ou cohabitants des personnes ci-dessus
 - Voyageurs avec rapports sexuels à risque (*HCSP 2024*)
 - Selon le *HCSP 2024*, voyageurs se rendant en zone à risque de Clade I:
@@ -208,7 +208,7 @@ Toutes les personnes avec risque élevé d'exposition au virus de la variole du 
   - Visite familiale
   - Immunodéprimé
 
-> -- *HAS 2024*
+> -- *Calendrier vaccinal*
 
 ### Comment vacciner contre Mpox ?
 
@@ -275,12 +275,12 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [Haut Conseil de la santé publique. Avis relatif aux mesures de prévention actualisées vis-à-vis de l'infection due au virus monkeypox pour les personnes se rendant dans la zone d'épidémie (voyageurs et professionnels de santé dans le cadre de missions humanitaires). 2024.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1387)
 - [DGS-Urgent 2024_14. Mpox : Rappel des conduites à tenir et nouveaux avis de la HAS et du HCSP sur la vaccination. 04/09/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [Ministère de la Santé. Fiche de synthèse sur la stratégie diagnostique de l'infection à Mpox à destination des professionnels de santé. 02/09/2024. (PDF)](https://sante.gouv.fr/IMG/pdf/fiche_de_synthese_diagnostic_mkp_-_02-09-24.pdf)
 - [HAS. Avis n° 2024.0058/AC/SESPE du 29 août 2024 du collège de la Haute Autorité de santé relatif à la stratégie de vaccination contre le mpox. 2024.](https://www.has-sante.fr/jcms/p_3538025/fr/avis-n-2024-0058/ac/sespev-du-29-aout-2024-du-college-de-la-haute-autorite-de-sante-relatif-a-la-strategie-de-vaccination-contre-le-mpox)
 - [Santé Publique France. Cas de Mpox en Europe, définitions et conduite à tenir. 28/08/2024. (PDF)](https://www.santepubliquefrance.fr/content/download/437302/file/def_cas_CAT_mpox_20042023.pdf)
-- {{< references/calendrier-vaccinal >}}
 - [Santé Publique France. Variole du singe (mpox) : point de situation en France au 27 avril 2023. 03/05/2023.](https://www.santepubliquefrance.fr/les-actualites/2023/variole-du-singe-mpox-point-de-situation-en-france-au-27-avril-2023)
 - [ANSM. Monkeypox. 16/03/2023.](https://ansm.sante.fr/dossiers-thematiques/monkeypox)
 - [HAS. Monkeypox : la HAS complète ses recommandations sur la vaccination. 11/10/2022.](https://www.has-sante.fr/jcms/p_3376314/fr/monkeypox-la-has-complete-ses-recommandations-sur-la-vaccination)

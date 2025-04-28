@@ -210,9 +210,9 @@ L'IDR est en faveur de l'absence de primo-infection si elle est < 5 mm (10 mm en
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [HAS. Évaluation des stratégies de dépistage et de repérage précoce de la tuberculose pulmonaire. 2025.](https://has-sante.fr/jcms/p_3459735/fr/evaluation-des-strategies-de-depistage-et-de-reperage-precoce-de-la-tuberculose-pulmonaire)
 - {{< references/voyageur >}}
-- {{< references/calendrier-vaccinal >}}
 - [Ministère de la Santé. BCG - Questions/Réponses à destination des professionnels de santé. 2022. (PDF)](https://sante.gouv.fr/IMG/pdf/qr_bcg_ps_mars_2022.pdf)
 - [HAS. Tuberculose maladie. Actes et prestations Affection de longue durée. 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/actualisationlap_tuberculose__web_.pdf)
 

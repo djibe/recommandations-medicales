@@ -275,7 +275,7 @@ Prévention de crise par colchicine 0,5 à 1 mg/j pendant les 3 à 6 premiers mo
 
 L'*ACR* recommande la recherche d'*HLA-B*5801* pour les **personnes originaires d'Asie du Sud-Est** (**Vietnam**, Chine, Thaïlande, Corée) et **afro-américains** par sur-risque de toxidermie (x3).
 
-La recherche d'HLA n'étant pas remboursée en France (100€), il est prudent de démarrer à 50 mg avec paliers de 50 mg pour ces personnes.
+La recherche d'HLA n'étant pas remboursée en France (100€), il est prudent de démarrer à 50 mg avec paliers de 50 mg pour ces personnes à risque de toxidermie.
 
 #### Traitement de fond privilégié selon la fonction rénale
 

@@ -458,10 +458,10 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [Dinh A, et al. Update of guidelines for management of community acquired pneumonia in adults by the French infectious disease society (SPILF) and the French-speaking society of respiratory diseases (SPLF). Endorsed by the French intensive care society (SRLF), the French microbiology society (SFM), the French radiology society (SFR) and the French emergency society (SFMU). Infect Dis Now. 2025.](https://www.sciencedirect.com/science/article/pii/S2666991925000132)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Pneumonie Aiguë Communautaire de l'adulte en ambulatoire. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3575597/fr/choix-et-durees-d-antibiotherapies-pneumonie-aigue-communautaire-de-l-adulte-en-ambulatoire)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Pneumonie Aiguë Communautaire chez l'enfant. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3575612/fr/choix-et-durees-d-antibiotherapie-pneumonie-aigue-communautaire-chez-l-enfant)
-- {{< references/calendrier-vaccinal >}}
 - [Martin-Loeches I, et al. ERS/ESICM/ESCMID/ALAT guidelines for the management of severe community-acquired pneumonia. Eur Respir J. 2023.](https://erj.ersjournals.com/content/61/4/2200735)
 - [HAS. Réponse rapide sur la prise en charge diagnostique et thérapeutique des pneumonies atypiques à Mycoplasma pneumoniae en ambulatoire chez l'enfant et l'adulte. 22/12/2023.](https://www.has-sante.fr/jcms/p_3482996/fr/reponse-rapide-sur-la-prise-en-charge-diagnostique-et-therapeutique-des-pneumonies-atypiques-a-mycoplasma-pneumoniae-en-ambulatoire-chez-l-enfant-et-l-adulte)
 - [Madhi F, et al. Antimicrobial treatment of lower respiratory tract infections in children. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001446)
