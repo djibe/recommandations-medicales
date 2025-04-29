@@ -101,14 +101,13 @@ En cas de limitation des apports en produits laitiers: oléagineux 65 g/j (vitam
 L'*Anses* insiste sur le fait que les données sont insuffisantes pour garantir la santé des enfants végétariens (et autres populations comme les femmes enceintes ou allaitantes, les personnes âgées et physiquement très actives).
 
 > [!WARNING]
-> << Ainsi, s'agissant des enfants et des populations adultes non prises en compte dans l'élaboration de ces repères, des travaux spécifiques devront être menés pour déterminer si l'adoption de régimes d'exclusion est compatible avec la couverture de leurs besoins spécifiques, en identifiant le cas échéant des combinaisons d'aliments leur permettant
-d'atteindre les repères nutritionnels qui leur sont propres. >> -- *Anses 2025*
+> << Ainsi, s'agissant des enfants et des populations adultes (...), des travaux spécifiques devront être menés pour déterminer si l'adoption de régimes d'exclusion est compatible avec la couverture de leurs besoins spécifiques >> -- *Anses 2025*
 
 {{% /collapse %}}
 {{%collapse "Régime végétalien" %}}
 
 > [!WARNING]
-> Les carences en **vitamine D**, **acides gras EPA+DHA** et **vitamine B12** -- et chez l'homme, le **zinc** -- sont inévitables chez les végétaliens (vegans) malgré un régime optimisé.
+> Les carences en **vitamine D**, **omégas 3 EPA et DHA** et **vitamine B12** -- et chez l'homme, le **zinc** -- sont inévitables chez les végétaliens (vegans) malgré un régime optimisé.
 
 Ces recommandations concernent le ==régime végétalien== de l'adulte en bonne santé (hors femmes enceintes ou allaitantes, athlètes et personnes âgées ). Les apports recommandés sont optimisés pour **limiter les carences** et les **excès de contaminations**.
 

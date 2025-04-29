@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-11-09T18:37:31+01:00"
 publishdate = "2024-05-02"
-lastmod = "2024-05-02"
+lastmod = "2025-04-28"
 specialites = ["orthopédie", "pédiatrie"]
 annees = "2021"
 sources = ["Bibliographie"]
@@ -18,14 +18,14 @@ sctid = "45939007"
 icd10 = ["M21.76"]
 image = false
 imageSrc = ""
-todo = "biblio imagerie, photo, flow"
+todo = "photo, flow"
 +++
 
 {{%article-summary%}}
 
 - L'inégalité de longueur des membres inférieurs (ILMI) est une différence de longueur entre les deux jambes, physiologique jusqu'à 1,5 cm et à différencier d'un simple déséquilibre du bassin
 - L'examen clinique recherche des arguments étiologiques et étudie l'ensemble des membres et articulations
-- Le bilan initial de l'ILMI comporte des radiographies des membres inférieurs en entier avec rotules en positions antérieures
+- Le bilan initial de l'ILMI comporte des radiographies EOS pour mesurer les os des jambes
 - Avis systématique du chirurgien orthopédique pédiatrique en cas d'inégalité supérieure à 1 cm pendant la croissance ou 2 cm chez l'adolescent en fin de croissance
 - De 1 à 2 cm, le traitement de l'inégalité de longueur des membres inférieurs peut être: semelle orthopédique, talonnette, chaussure orthopédique ou abstention en l'absence de symptômes
 - La chirurgie des membres inférieurs est envisagée au-delà de 2 cm. Surveillance de la croissance en-dessous de 1 cm d'inégalité
@@ -96,10 +96,10 @@ L'examen des membres inférieurs doit être réalisé en sous-vêtements.
 ### Radiographies des membres inférieurs
 
 > **Ordonnance**  
-Radiographies des membres inférieurs pour recherche d'inégalité de longueur
+EOS pour recherche d'inégalité de longueur
 {.alert .alert-info}
 
-Le bilan d'une suspicion d'inégalité des membres inférieurs (ILMI) comporte des radiographies des membres inférieurs en entier avec rotules en positions antérieures.
+Le bilan d'une suspicion d'inégalité des membres inférieurs (ILMI) comporte des radiographies EOS pour la mesure exacte des os.
 
 {{% /collapse %}}
 {{%collapse "Traitement des inégalités de longueur des membres inférieurs" %}}
@@ -143,6 +143,7 @@ Une amputation peut être discutée en cas de différence supérieure à **20 cm
 - [Launay F; SFP. Les inégalités de longueur des membres inférieurs. Pas à Pas en Pédiatrie. 2018.](https://pap-pediatrie.fr/les-inegalites-de-longueur-des-membres-inferieurs)
 - [Krieg A. Enfants et adolescents avec une inégalité de longueur des membres inférieurs - diagnostic et options thérapeutiques. Paediatrica. 2017.](https://www.researchgate.net/publication/330999285_Enfants_et_adolescents_avec_une_inegalite_de_longueur_des_membres_inferieurs_-_diagnostic_et_options_therapeutiques)
 - [Caton J, et al. Inégalité de longueur des membres inférieurs : cause, diagnostic, prévision et traitement. EMC Appareil locomoteur. 2008. (payant)](https://www.em-consulte.com/article/194138/inegalite-de-longueur-des-membres-inferieurs-cause)
+- {{< references/aderim >}}
 
 ### Bibliographie en attente
 

@@ -222,6 +222,10 @@ graph TB
 - [HAS, INCa. Cancer primitif du foie. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_1005121/fr/ald-n-30-cancer-primitif-du-foie)
 - [HAS, INCa. Cancer primitif du foie. Guide Affection de longue durée. 2010. (PDF)](https://www.e-cancer.fr/content/download/95938/1021348/file/GUIALDFOIE10.pdf)
 
+### Bibliographie en attente
+
+[Assenat E, et al; AFEF. Prise en charge du carcinome hépatocellulaire & outils pour la pratique. Recommandations de l'Association français pour l'étude du foie. 2025.](https://afef.asso.fr/recommandation/recommandations-afef-sur-la-prise-en-charge-du-carcinome-hepatocellulaire-outils-pour-la-pratique/)
+
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}
 

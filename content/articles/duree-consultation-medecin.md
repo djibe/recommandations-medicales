@@ -5,7 +5,7 @@ longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-04-21T18:38:00+02:00"
 publishdate = "2024-04-21"
-lastmod = "2024-04-21"
+lastmod = "2025-04-27"
 specialites = []
 annees = "2017"
 sources = []
@@ -24,7 +24,7 @@ Chaque pays effectue des choix pour la Santé publique qui impactent jusqu'à la
 
 La durée moyenne de la consultation en soins primaires est extrêmement variable, allant de **1,8 minutes** au Pakistan, 2 minutes en Chine et 2,3 minutes en Inde à 22,5 minutes en Suède, 21,1 minutes aux États-Unis et 20 minutes en Bulgarie.
 
-{{< figure-chart title="Comparaison de la durée moyenne des consultations en médecine générale (ou soins primaires) dans le monde, en minutes. Dr JB Fron d'après Irving et al 2017" >}}
+{{< figure-chart title="Comparaison de la durée moyenne des consultations en médecine générale (ou soins primaires) dans le monde, en minutes. Dr JB Fron d'après *Irving et al 2017*" >}}
 
 La France fait partie des pays ayant la durée de consultation médicale parmi les plus longues (16 minutes, 8e rang sur 67). Une durée identique avait déjà identifiée par la *Drees* en 2006.
 
@@ -40,12 +40,12 @@ La réticence des médecins à enregistrer les consultations afin de mieux mesur
 
 ## Sources
 
-- [Irving G et al. International variations in primary care physician consultation time: a systematic review of 67 countries. BMJ Open. 2017.](https://bmjopen.bmj.com/content/7/10/e017902)
+- [Irving G, et al. International variations in primary care physician consultation time: a systematic review of 67 countries. BMJ Open. 2017.](https://bmjopen.bmj.com/content/7/10/e017902)
 - [Breuil-Genier P. La durée des séances des médecins généralistes. Études et résultats. 2006.](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/la-duree-des-seances-des-medecins-generalistes)
 
 ### Bibliographie en attente
 
-[Chaput H et al. Deux tiers des médecins généralistes libéraux déclarent travailler au moins 50 heures par semaine. Drees. 2019.](https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/publications/etudes-et-resultats/article/deux-tiers-des-medecins-generalistes-liberaux-declarent-travailler-au-moins-50)
+[Chaput H, et al. Deux tiers des médecins généralistes libéraux déclarent travailler au moins 50 heures par semaine. Drees. 2019.](https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/publications/etudes-et-resultats/article/deux-tiers-des-medecins-generalistes-liberaux-declarent-travailler-au-moins-50)
 
 <script>
 const chartOptions1 = {
@@ -75,6 +75,11 @@ const chartOptions1 = {
   //dataLabels: { enabled: false },
   plotOptions: { bar: { horizontal: true } },
   title: { text: 'Durée d’une consultation d’un médecin généraliste dans le monde' },
-  xaxis: { title: { text: 'Minutes' } }
+  xaxis: { title: { text: 'Minutes' } },
+  tooltip: {
+    y: [
+      { formatter: function(value) { return value + ' minutes' }}
+    ]
+  }
 }
 </script>

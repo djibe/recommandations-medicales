@@ -280,7 +280,7 @@ Indications aux gaz du sang: SpO~2~ ≤ 92%, {{< modal-btn modal-score-mmrc >}}m
 - NT-proBNP, D-dimères pour éliminer une part cardiaque
 
 {{% /collapse %}}
-{{%collapse "Exacerbation de BPCO: hospitalisation et suivi à la sortie" %}}
+{{%collapse "Exacerbation de BPCO: hospitalisation" %}}
 
 {{%info%}}
 
@@ -321,6 +321,90 @@ Indications aux gaz du sang: SpO~2~ ≤ 92%, {{< modal-btn modal-score-mmrc >}}m
 - Suivi infirmier à domicile
 - Contrôler le Plan d'Action
 - Poursuivre les traitements de fond
+
+{{% /collapse %}}
+{{%collapse "Exacerbation de BPCO: traitement et Plan d'Action" %}}
+
+### 1. Éliminer un diagnostic différentiel
+
+- [Syndrome coronarien aigu]({{% relref "syndrome-coronarien-aigu.md" %}})
+- [Arythmie cardiaque]({{% relref "fibrillation-atriale.md" %}})
+- Aggravation de l'[insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) (NT-proBNP)
+- [Embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}}) (d-dimères)
+- [Pneumonie aiguë communautaire]({{% relref "pneumonie-aigue-communautaire.md" %}})
+- Pneumothorax et pleurésie
+
+### 2. Rechercher le facteur déclenchant
+
+- Infection virale ou bactérienne  
+  Si Covid-19: [antiviral en urgence]({{% relref "covid-19.md" %}}).
+- Pollution intérieure/extérieure
+- Arrêt du traitement de fond
+
+**Facteurs favorisants les EABPCO:** manque d'activité physique, tabagisme, douleur, anxiété, médicaments dépresseur respiratoire.
+
+### 3. Hospitaliser ?
+
+Voir *Critères d'hospitalisation*.
+
+Joindre le courrier détaillé des traitements en cours, contexte social, derniers bilans, personne de confiance, [directives anticipées]({{% relref "directives-anticipees.md" %}}).
+
+### 4. Examens complémentaires lors d'une exacerbation
+
+- Biologie selon comorbidités et examen  
+  - Urémie, créatininémie, NT-proBNP, d-dimères
+  - Les CRP et PCT ne sont pas fiables pour étayer une surinfection (*GOLD 2025* et *SPLF 2017*)
+- ECG si FC > 100 ou < 60/min (*SPLF 2017*)
+- Radiographie thoracique en cas d'incertitude
+
+### 5. Traitement de l'exacerbation de BPCO
+
+- Bronchodilatateurs
+  - Augmenter la dose et la fréquence des {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}} jusqu'à l'amélioration des symptômes.  
+    Ex: 1-2 bouffées toutes les 2-4 heures
+  - Envisager l'utilisation d'une chambre d'inhalation (3-5 inspirations par dose de BDCA)
+  - Augmenter la dose du traitement de fond
+- Kinésithérapie respiratoire si encombrement
+- ==Antibiothérapie ≤ 5 jours si: aggravation de la dyspnée et augmentation du volume et de la purulence des crachats pendant ≥ 48 heures OU BPCO très sévère== (*HAS 2024*)
+  - Amoxicilline 1g x 3/j pendant maximum 5 jours
+  - Si allergie aux pénicillines: pristinamycine 1g x 3/j pendant 4 jours
+  - Si pénurie: clarithromycine 500 mg x 2/j, roxithromycine 150 mg x 2/j, spiramycine 6-9 MUI/j ou doxycycline 200 mg x 1/j
+  - ECBC en cas d'exacerbations fréquentes (*GOLD*)
+- **Antibiothérapie adaptée** si critères ci-dessus avec facteur de risque d'échec ou de complication  
+  +65 ans, échec de la 1re ligne, ≥ 2 exacerbations par an ou 1 hospitalisation, VEMS < 50%, insuffisance cardiaque ou SCA, désaturation/oxygénothérapie.
+  - Amoxicilline/acide clavulanique 1g x 3/j pendant max 5 jours
+  - Si allergie aux pénicillines: triméthoprime/sulfaméthoxazole 800/160 mg x 2/j ou ceftriaxone 1-2 g x 1/j IV ou SC
+  - Si pénurie: idem absence de facteur de risque
+  - En dernier recours: lévofloxacine 500 mg x 1/j (ne pas utiliser si *Pseudomonas aeruginosa* connu)
+- Corticothérapie orale si exacerbation marquée  
+  ==Prednisone 40 mg x 1/j pendant 5 jours== (*GOLD*)
+- Réévaluation clinique toutes les 24-72 heures
+- Avis pneumologique
+  - Urgent si: suspicion de germe résistant, récidive d'exacerbation, nébulisations
+  - Réévaluation systématique à distance de l'exacerbation
+- Si oxygénothérapie ambulatoire: cible SpO~2~ 88-92% (surveillance des gaz du sang)
+
+Si récupération incomplète: spirométrie à 3 mois.
+
+**NB.** Le risque d'évènement cardiovasculaire est augmenté dans les 3 mois suivant une exacerbation.
+
+### Plan d'action personnalisé en cas d'exacerbation
+
+[Modèle SPLF du Plan d'action BPCO (PDF)](https://splf.fr/wp-content/uploads/2017/09/F-PlanAction_2013-o.pdf)
+
+Toujours remettre au patient le *Plan d'Action*. Son entourage doit aussi le connaître.
+{.alert .alert-info}
+
+- Savoir quand appeler son médecin généraliste ou son pneumologue
+- Ajuster le traitement bronchodilatateur aux symptômes
+- Proposer un traitement antibiotique court et parfois un corticoïde oral pour rester à domicile si:
+  - le patient a eu une exacerbation dans l'année précédente et reste à risque d'exacerbations
+  - il comprend et sait quand et comment prendre les traitements, leurs risques et
+bénéfices
+  - il sait en parler à son médecin pour qu'il les renouvelle
+- Prendre l'antibiotique lorsque les expectorations sont purulentes, augmentées en volume ou très épaissies
+- Savoir consulter ou rapprocher les séances de drainage bronchiques avec le kiné, connaître les méthodes d'auto-drainage et avoir une ordonnance d'avance
+- Connaître les critères justifiant le recours aux urgences: dyspnée de repos, cyanose, œdèmes des membres inférieurs, troubles de la conscience. Connaître les numéros d'urgence.
 
 {{% /collapse %}}
 {{%collapse "Mesures générales de prise en charge de la BPCO" %}}
@@ -460,90 +544,6 @@ Envisager une oxygénothérapie de longue durée si:
 > -- *HAS 2019*
 
 **Saturation cible au repos:** SpO~2~ ≥ 90% (PaO~2~ ≥ 60 mmHg).
-
-{{% /collapse %}}
-{{%collapse "Traitement de l'exacerbation de BPCO et Plan d'Action" %}}
-
-### 1. Éliminer un diagnostic différentiel
-
-- [Syndrome coronarien aigu]({{% relref "syndrome-coronarien-aigu.md" %}})
-- [Arythmie cardiaque]({{% relref "fibrillation-atriale.md" %}})
-- Aggravation de l'[insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) (NT-proBNP)
-- [Embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}}) (d-dimères)
-- [Pneumonie aiguë communautaire]({{% relref "pneumonie-aigue-communautaire.md" %}})
-- Pneumothorax et pleurésie
-
-### 2. Rechercher le facteur déclenchant
-
-- Infection virale ou bactérienne  
-  Si Covid-19: [antiviral en urgence]({{% relref "covid-19.md" %}}).
-- Pollution intérieure/extérieure
-- Arrêt du traitement de fond
-
-**Facteurs favorisants les EABPCO:** manque d'activité physique, tabagisme, douleur, anxiété, médicaments dépresseur respiratoire.
-
-### 3. Hospitaliser ?
-
-Voir *Critères d'hospitalisation*.
-
-Joindre le courrier détaillé des traitements en cours, contexte social, derniers bilans, personne de confiance, [directives anticipées]({{% relref "directives-anticipees.md" %}}).
-
-### 4. Examens complémentaires lors d'une exacerbation
-
-- Biologie selon comorbidités et examen  
-  - Urémie, créatininémie, NT-proBNP, d-dimères
-  - Les CRP et PCT ne sont pas fiables pour étayer une surinfection (*GOLD 2025* et *SPLF 2017*)
-- ECG si FC > 100 ou < 60/min (*SPLF 2017*)
-- Radiographie thoracique en cas d'incertitude
-
-### 5. Traitement de l'exacerbation de BPCO
-
-- Bronchodilatateurs
-  - Augmenter la dose et la fréquence des {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}} jusqu'à l'amélioration des symptômes.  
-    Ex: 1-2 bouffées toutes les 2-4 heures
-  - Envisager l'utilisation d'une chambre d'inhalation (3-5 inspirations par dose de BDCA)
-  - Augmenter la dose du traitement de fond
-- Kinésithérapie respiratoire si encombrement
-- ==Antibiothérapie ≤ 5 jours si: aggravation de la dyspnée et augmentation du volume et de la purulence des crachats pendant ≥ 48 heures OU BPCO très sévère== (*HAS 2024*)
-  - Amoxicilline 1g x 3/j pendant maximum 5 jours
-  - Si allergie aux pénicillines: pristinamycine 1g x 3/j pendant 4 jours
-  - Si pénurie: clarithromycine 500 mg x 2/j, roxithromycine 150 mg x 2/j, spiramycine 6-9 MUI/j ou doxycycline 200 mg x 1/j
-  - ECBC en cas d'exacerbations fréquentes (*GOLD*)
-- **Antibiothérapie adaptée** si critères ci-dessus avec facteur de risque d'échec ou de complication  
-  +65 ans, échec de la 1re ligne, ≥ 2 exacerbations par an ou 1 hospitalisation, VEMS < 50%, insuffisance cardiaque ou SCA, désaturation/oxygénothérapie.
-  - Amoxicilline/acide clavulanique 1g x 3/j pendant max 5 jours
-  - Si allergie aux pénicillines: triméthoprime/sulfaméthoxazole 800/160 mg x 2/j ou ceftriaxone 1-2 g x 1/j IV ou SC
-  - Si pénurie: idem absence de facteur de risque
-  - En dernier recours: lévofloxacine 500 mg x 1/j (ne pas utiliser si *Pseudomonas aeruginosa* connu)
-- Corticothérapie orale si exacerbation marquée  
-  ==Prednisone 40 mg x 1/j pendant 5 jours== (*GOLD*)
-- Réévaluation clinique toutes les 24-72 heures
-- Avis pneumologique
-  - Urgent si: suspicion de germe résistant, récidive d'exacerbation, nébulisations
-  - Réévaluation systématique à distance de l'exacerbation
-- Si oxygénothérapie ambulatoire: cible SpO~2~ 88-92% (surveillance des gaz du sang)
-
-Si récupération incomplète: spirométrie à 3 mois.
-
-**NB.** Le risque d'évènement cardiovasculaire est augmenté dans les 3 mois suivant une exacerbation.
-
-### Plan d'action personnalisé en cas d'exacerbation
-
-[Modèle SPLF du Plan d'action BPCO (PDF)](https://splf.fr/wp-content/uploads/2017/09/F-PlanAction_2013-o.pdf)
-
-Toujours remettre au patient le *Plan d'Action*. Son entourage doit aussi le connaître.
-{.alert .alert-info}
-
-- Savoir quand appeler son médecin généraliste ou son pneumologue
-- Ajuster le traitement bronchodilatateur aux symptômes
-- Proposer un traitement antibiotique court et parfois un corticoïde oral pour rester à domicile si:
-  - le patient a eu une exacerbation dans l'année précédente et reste à risque d'exacerbations
-  - il comprend et sait quand et comment prendre les traitements, leurs risques et
-bénéfices
-  - il sait en parler à son médecin pour qu'il les renouvelle
-- Prendre l'antibiotique lorsque les expectorations sont purulentes, augmentées en volume ou très épaissies
-- Savoir consulter ou rapprocher les séances de drainage bronchiques avec le kiné, connaître les méthodes d'auto-drainage et avoir une ordonnance d'avance
-- Connaître les critères justifiant le recours aux urgences: dyspnée de repos, cyanose, œdèmes des membres inférieurs, troubles de la conscience. Connaître les numéros d'urgence.
 
 {{% /collapse %}}
 {{%collapse "Suivi de la BPCO" %}}
