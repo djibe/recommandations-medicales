@@ -29,7 +29,7 @@ flowchart = true
 - Examen clinique rigoureux pour l'orientation étiologique du tableau d'hyperéosinophilie. Urgence médicale en cas de défaillance viscérale
 - Bilan de l'hyperéosinophilie en l'absence d'orientation: NFS répétées, CRP, frottis sanguin, bilan hépatique et rénal, bilan parasitaire, sérologies (voir *[Examens complémentaires](#examens-complémentaires)*)
 - Orienter vers le spécialiste selon le bilan ou traitement antiparasitaire d'épreuve en l'absence d'orientation
-- Avis du Centre de Référence systématique en cas d'hyperéosinophilie persistante
+- Avis du Centre de Référence systématique en cas d'hyperéosinophilie persistante ([annuaire](https://www.cereo.fr/website/reseau_eosinophile_&710&1732720681092952015.html))
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -214,7 +214,7 @@ En l'absence d'orientation probante, un **traitement d'épreuve antihelminthe** 
 
 > -- *PNDS 2022*
 
-Si l'éosinophilie persiste malgré le traitement d'épreuve, adresser toute éosinophilie persistante dans un Centre de Référence des syndromes hyperéosinophiliques (CEREO, [annuaire](http://www.cereo.fr/website/reseau_eosinophile_&710&1732720681092952015.html)) pour la suite de la prise en charge.
+Si l'éosinophilie persiste malgré le traitement d'épreuve, adresser toute éosinophilie persistante dans un Centre de Référence des syndromes hyperéosinophiliques (CEREO, [annuaire](https://www.cereo.fr/website/reseau_eosinophile_&710&1732720681092952015.html)) pour la suite de la prise en charge.
 {.alert .alert-warning}
 
 ### Pour en savoir plus : traitement des syndromes hyperéosinophiliques

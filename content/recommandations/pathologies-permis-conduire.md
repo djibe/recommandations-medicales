@@ -208,6 +208,12 @@ L'attention est portée sur l'acuité visuelle, le champ visuel, la vision crép
 || **Troubles de la mobilité du globe oculaire** | **Incompatibilité définitive:** après avis médical spécialisé, sauf dans les cas de compatibilité décrits ci-dessous. <br> **Ou compatibilité:** après avis médical spécialisé, si le strabisme ou l'hétérophorie sont non décompensés si les caractéristiques de la vision répondent aux exigences des paragraphes ci-dessus **2.1.1 acuité visuelle** et **2.1.2 champ visuel**. |
 || **Nystagmus** | **Incompatibilité définitive**. |
 
+### Groupe lourd Classe III - Pathologies ORL et pneumologiques {.mt-5}
+
+| Catégorie | Sous-catégorie | Réglementation |
+|-----------|----------------|----------------|
+| 3.1.2 Déficience auditive sévère ou profonde
+
 *Suite à venir.*
 
 {{%sources%}}

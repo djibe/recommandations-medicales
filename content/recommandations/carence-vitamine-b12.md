@@ -30,7 +30,7 @@ TODO: (at the end)
 {{%collapse "Définition" %}}
 
 Vitamine B12 (ou cyanocobalamine)
-: TODO: Vitamine hydrosoluble apportée uniquement par les produits animaliers. Le stockage hépatique est important et l'élimination est rénale.
+: Vitamine hydrosoluble apportée exclusivement par les produits animaliers. Le stockage hépatique est important et l'élimination est rénale.
 : Elle participe au cycle de Krebs et à la synthèse des purines.
 
 ### Facteurs de risque de carence en vitamine B12
@@ -95,7 +95,6 @@ Causes de carence en vitamine B12:
 
 ### Examen clinique
 
-TODO:
 - Pression artérielle, fréquence cardiaque
 - Poids et variations, taille, IMC
 - Signes d'anémie  
@@ -141,14 +140,18 @@ Diagnostic biologique de la carence en vitamine B12:
 
 - < 180 ng/L (133 pmol): diagnostic de carence (< 25 pmol/L si B12 active)
 - 180-350 ng/L: indéterminé, carence possible.  
-  Considérer le dosage de la MMA en cas de signes ou symptômes de carence en B12.
+  Considérer le dosage de la MMA (*NICE*, mais NR, homocystéine à défaut) en cas de signes ou symptômes de carence en B12.
 - \> 350 ng/mL (258 pmol/L): carence peu probable (70 pmol/L si B12 active)  
   Rechercher une autre étiologie. Contrôle à 3-6 mois si persistance des symptômes.
 
 ### Bilan complémentaire au diagnostic
 
-En l'absence de facteur de risque (régime, chirurgie digestive): **anticorps anti-facteur intrinsèque** (ACFI, se 70%) et **avis spécialisé** gastro-entérologique pour endoscopie œsogastroduodénale (EOGD).
+En l'absence de facteur de risque (régime, chirurgie digestive): **anticorps anti-facteur intrinsèque** (ACFI, se 70%) et **avis spécialisé** gastro-entérologique pour endoscopie œsogastroduodénale (EOGD ou gastroscopie).
 Un test négatif n'infirme pas le diagnostic.
+
+Si homocystéine: coupler les folates
+
+± Ferritine et folates
 
 Sérologie cœliaque quand aucune cause retrouvée
 
@@ -183,7 +186,7 @@ grossesse ou allaitement: ≥ 1 mg/j
 
 Défaut d'absorption (Biermer, chir dig): [1000 µg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65647512&typedoc=R) 1 amp/j IM (ou 3/semaine) pour 10 ampoules, puis 1000 µg/mois
 
-Végétaliens: [vitamine B12 cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61247741&typedoc=R) 1 mg/j (4 cp) pendant 15 à 30 jours, puis 1 mg/10 jours
+Végétaliens ou autres carences d'apports: [vitamine B12 cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61247741&typedoc=R) (NR) 1 cp/j pendant 15 à 30 jours, puis 1 cp tous les 10 jours au long cours
 
 ### Auto-supplémentation
 

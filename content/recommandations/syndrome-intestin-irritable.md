@@ -289,7 +289,6 @@ style SII stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
-- [Levine A, et al. Dietary Guidance From the International Organization for the Study of Inflammatory Bowel Diseases. Clin Gastroenterol Hepatol. 2020.](https://www.cghjournal.org/article/S1542-3565(20)30185-3/fulltext)
-- [Mearin F, et al. Bowel Disorders. Gastroenterology. 2016.](https://pubmed.ncbi.nlm.nih.gov/27144627/)
+[Mearin F, et al. Bowel Disorders. Gastroenterology. 2016.](https://pubmed.ncbi.nlm.nih.gov/27144627/)
 
 {{%/sources%}}

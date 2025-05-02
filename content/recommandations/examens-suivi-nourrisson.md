@@ -24,11 +24,14 @@ todo = "SEO 'consultation nourrisson remboursé 100', HAS tabac p.48"
 
 {{%collapse "Définitions" %}}
 
+Prématuré
+: Enfant né avant 37 semaines d'aménorrhée.
+
 Nouveau-né
-: Enfant de 0 à 28 jours
+: Enfant de 0 à 28 jours.
 
 Nourrisson
-: Enfant de 29 jours à 23 mois
+: Enfant de 29 jours à 23 mois.
 
 Enfant
 : Enfant de 2 à 18 ans.

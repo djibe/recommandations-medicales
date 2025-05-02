@@ -232,3 +232,6 @@ ECCO-ESGAR Guideline for Diagnostic Assessment in IBD Part 1: Initial diagnosis,
 https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-initial-suivi-des-mici-et-detection-des-complications-reco-ecco-esgar-2019/
 
 {{< youtube id="mYyl0RZ25UU" title="La calprotectine pour les nuls (TutoGastro SNFGE 2023)" >}}
+
+- [Levine A, et al. Dietary Guidance From the International Organization for the Study of Inflammatory Bowel Diseases. Clin Gastroenterol Hepatol. 2020.](https://www.cghjournal.org/article/S1542-3565(20)30185-3/fulltext)
+- ESPEN
