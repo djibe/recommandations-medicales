@@ -71,14 +71,14 @@ et aussi...
 - Flux RSS  
   Pour se tenir informé des nouveaux chapitres sans naviguer de site en site.
 - Diffusé  
-  Nouveautés partagées par newsletter ou sur X/Twitter, Facebook et LinkedIn.
+  Nouveautés partagées par newsletter ou sur Facebook et LinkedIn.
 
 ## Ce qui manque pour le moment
 
 - **Vous !**
 - L'application mobile
 - Plus de contenu
-- La certification des Sociétés savantes
+- La certification de plus de sociétés savantes
 - Le soutien des autorités (Assurance Maladie ...)
 
 ## 🛠️ Utiliser le projet sur votre PC
@@ -88,13 +88,13 @@ Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans
 <details>
   <summary>Sous Windows</summary>
 
-  1. Sur le PC, aller dans le dossier (au choix) où placer le projet et lancer l'*Invite de commandes* ou le *Terminal* de Windows en mode administrateur (clic droit dans le dossier sous Windows 11)
-  2. Entrer les commandes suivantes:
+  1. Sur le PC, aller dans le dossier (au choix) où placer le projet et lancer l'*Invite de commandes* ou le *Terminal* de Windows en **mode administrateur**
+  2. Entrer les commandes suivantes: (python doit être installé, sinon `winget install --id=Python.Python.3.10  -e`)
   3. `winget install --id=Git.Git -e && winget install --id=CoreyButler.NVMforWindows -e`
   4. Fermer la commande et la relancer
   5. `git clone https://github.com/djibe/recommandations-medicales.git`
   6. puis placer la *Commande* dans le dossier `/recommandations-medicales`: `cd /recommandations-medicales`
-  7. puis `nvm install 18` et `nvm use 18`
+  7. puis `nvm install 20` et `nvm use 20`
   8. puis `npm install`
   9. puis `npm run start:dev`, le site est accessible sur `http://localhost:1313/`
 
@@ -106,9 +106,9 @@ Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans
   Désinstaller Hugo si déjà installé et entrer les commandes dans l'ordre:
 
   1. `sudo apt install wget curl nodejs npm git-all golang-go -y`
-  2. `wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash`
+  2. `wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash`
   3. Fermer le terminal
-  4. Ouvrir le terminal et entrer: `nvm install 18`
+  4. Ouvrir le terminal et entrer: `nvm install 20`
   5. Positionner le terminal sur le dossier souhaité
   6. `git clone https://github.com/djibe/recommandations-medicales.git`
   7. `cd recommandations-medicales`
