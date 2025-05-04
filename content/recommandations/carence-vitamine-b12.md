@@ -3,7 +3,7 @@ id = "01966d0d-bdde-793b-9ceb-6e3a447e6c4f"
 title = "Carence en vitamine B12"
 prefix = "la "
 description = "TODO:"
-synonyms = ["Cyanocobalamine"]
+synonyms = ["Cobalamine", "cyanocobalamine"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-04-25T15:05:25+02:00"
 publishdate = "2025-04-26"
@@ -16,9 +16,10 @@ english = ["Vitamin B12 deficiency", "cobalamin deficiency"]
 sctid = "190634004"
 icd10 = ["E53.8"]
 draft = true
-image = false
-imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow > Kanban | vegan 10 µg/j ou 2000 µg/sem "
+image = true
+imagePNG = true
+imageSrc = "Structure de la vitamine B12 (cobalamine ou cyanocobalamine). NEUROtiker, Public domain, via Wikimedia Commons"
+todo = "descr > summary > liens > flow > Kanban | vegan 10 µg/j ou 2000 µg/sem "
 flowchart = true
 +++
 

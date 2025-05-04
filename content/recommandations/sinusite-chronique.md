@@ -11,7 +11,7 @@ lastmod = "2025-05-02"
 specialites = ["ORL"]
 annees = "2025"
 sources = ["Bibliographie"]
-tags = ["biotherapie", "depression", "fatigue"]
+tags = ["biotherapie", "cephalees", "depression", "fatigue"]
 english = ["Chronic rhinosinusitis"]
 sctid = "897657000"
 icd10 = ["J32", "J32.9", "J31.0"]
@@ -100,6 +100,7 @@ Le diagnostic symptomatique de la sinusite chronique est suffisant en l'absence 
   - Diminution de l'odorat
   - Pression ou douleur faciale
   - Polypes nasaux: voix enrhumée (hyponasalité)
+  - Autres symptômes: halitose (mauvaise haleine), plénitude de l'oreille, [céphalées](/tags/cephalees/), toux, douleurs dentaires
 - Retentissement:
   - Troubles du sommeil
   - [Fatigue](/tags/fatigue/)
@@ -145,7 +146,7 @@ L'oto-rhino-laryngologue (ORL) peut proposer des traitements supplémentaires: [
 
 {{< mermaid title="Prise en charge de la rhinosinusite chronique. Dr JB Fron d'après Bibliographie" >}}
 graph TB
-  suspicion["<b>Symptômes évocateurs de<br>sinusite chronique</b><br>—<br>Pendant ≥ 12 semaines:<br>- Congestion nasale<br>- Rhinorrhée chronique<br>- Diminution de l'odorat<br>- Douleur/pression faciale<br>- Voix enrhumée (polypes)<br>- Retentissement: sommeil,<br>fatigue, dépression<br>- Examen clinique"] --> gravité("<b>Signe de gravité ?</b><br>—<br>- Symptômes unilatéraux<br>ou sévères<br>- Échec du traitement") -- "Oui, urgent" --> ORL(Avis ORL avec<br>scanner des sinus)
+  suspicion["<b>Symptômes évocateurs de<br>sinusite chronique</b><br>—<br>Pendant ≥ 12 semaines:<br>- Congestion nasale<br>- Rhinorrhée chronique<br>- Diminution de l'odorat<br>- Douleur/pression faciale<br>- Voix enrhumée (polypes)<br>- Autres: haleine, céphalées ...<br>- Retentissement: sommeil,<br>fatigue, dépression<br>- Examen clinique"] --> gravité("<b>Signe de gravité ?</b><br>—<br>- Symptômes unilatéraux<br>ou sévères<br>- Échec du traitement") -- "Oui, urgent" --> ORL(Avis ORL avec<br>scanner des sinus)
     gravité -- Non --> traitement("<b>Symptômes légers<br>à modérés:</b><br>- Irrigations nasales<br>- Corticoïdes locaux<br>≥ 8 semaines") -- Échec --> ORL
       traitement -- Efficace --> poursuite(Poursuite du traitement.<br>Rechercher la dose minimale)
     suspicion -- "Diagnostic différentiel" --> différentiel("- Rhinite allergique<br>- Déviation de la cloison<br>- Tumeurs nasosinusiennes")

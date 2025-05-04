@@ -17,14 +17,14 @@ sctid = "73761001"
 icd10 = []
 image = true
 imageSrc = "Coloscope Olympus. Gilo1969, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "liens > flow > Kanban"
+todo = "liens > flow"
 +++
 
 {{%article-summary%}}
 
 - La coloscopie est fréquemment indiquée en cas de symptômes digestifs répétés ou après 50 ans (voir *Indications*). Elle est l'examen de référence en cas de risque élevé de [cancer colorectal]({{% relref "cancer-colorectal.md" %}})
 - La réalisation de l'examen est décidée par le gastro-entérologue
-- La préparation colique pour la visualisation de la muqueuse colique nécessite un [régime sans résidus]({{% relref "regime-sans-residus.md" %}}) les jours précédant et un préparation par PEG (voir [La préparation](#la-préparation-colique))
+- La préparation colique pour la visualisation de la muqueuse colique nécessite un [régime sans résidus]({{% relref "regime-sans-residus.md" %}}) les jours précédents et un préparation par PEG (voir [La préparation](#la-préparation-colique))
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
