@@ -285,7 +285,7 @@ graph TB
 - [Psychiaclic. Trouble anxieux généralisé. 18/12/2024.](https://www.psychiaclic.fr/troubles-psychiatriques/trouble-anxieux-generalise)
 - [Hoge EA, et al. Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders: A Randomized Clinical Trial. JAMA Psychiatry. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9647561/)
 - Prescrire Redaction. Patients anxieux. Rev Prescrire. 2023.
-- [NICE. Generalised anxiety disorder and panic disorder in adults: management. 2020.](https://www.nice.org.uk/guidance/cg113)
+- [NICE. Generalised anxiety disorder and panic disorder in adults: management. Clinical guideline. 2020.](https://www.nice.org.uk/guidance/cg113)
 - [DeMartini J, et al; ACP. Generalized Anxiety Disorder. Ann Intern Med. 2019.](https://pubmed.ncbi.nlm.nih.gov/30934083/)
 - [HAS. Troubles anxieux graves. Actes et prestations affection de longue durée. 2017.](https://www.has-sante.fr/jcms/c_556489/fr/ald-n-23-troubles-anxieux-graves)
 - [Davidson JR, et al; British Association for Psychopharmacology. A psychopharmacological treatment algorithm for generalised anxiety disorder (GAD). J Psychopharmacol. 2010.](https://pubmed.ncbi.nlm.nih.gov/18832431/)

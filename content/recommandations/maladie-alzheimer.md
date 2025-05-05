@@ -250,7 +250,7 @@ graph TB
 - [HAS. Évaluation 2016 des médicaments Alzheimer - Intérêt médical insuffisant. 2019.](https://www.has-sante.fr/jcms/pprd_2974197/fr/evaluation-2016-des-medicaments-alzheimer-interet-medical-insuffisant)
 - [Collège des Enseignants de Neurologie (CEN). Confusion, troubles cognitifs et démence. 2019.](https://www.cen-neurologie.fr/second-cycle/confusion-troubles-cognitifs-et-demence)
 - [HAS. Patients présentant un trouble neurocognitif associé à la maladie d'Alzheimer ou à une maladie apparentée. 2018.](https://www.has-sante.fr/jcms/c_2906096/fr/patients-presentant-un-trouble-neurocognitif-associe-a-la-maladie-d-alzheimer-ou-a-une-maladie-apparentee)
-- [NICE. Dementia: assessment, management and support for people living with dementia and their carers. 2018.](https://www.nice.org.uk/guidance/ng97)
+- [NICE. Dementia: assessment, management and support for people living with dementia and their carers. NICE guideline. 2018.](https://www.nice.org.uk/guidance/ng97)
 - [HAS. Maladie d'Alzheimer et maladies apparentées : diagnostic et prise en charge de l'apathie. 2014.](https://www.has-sante.fr/jcms/c_1660673/fr/maladie-d-alzheimer-et-maladies-apparentees-diagnostic-et-prise-en-charge-de-l-apathie)
 - [HAS. Maladie d'Alzheimer et maladies apparentées : diagnostic et prise en charge. 2011.](https://www.has-sante.fr/jcms/c_1148883/fr/maladie-d-alzheimer-et-maladies-apparentees-diagnostic-et-prise-en-charge)
 - [Hort J et al. EFNS guidelines for the diagnosis and management of Alzheimer's disease. Eur J Neurol. 2010.](https://onlinelibrary.wiley.com/doi/10.1111/j.1468-1331.2010.03040.x)

@@ -83,15 +83,16 @@ Causes de carence en vitamine B12:
 ### Interrogatoire
 
 - Antécédents  
-  Maladie auto-immune, épigastralgies, MICI ou chirurgie digestive, radiothérapie abdominale ou pelvienne.
+  Maladie auto-immune (maladie cœliaque, dysthyroïdie, diabète type 1), **gastrite** (Biermer, atrophique), **MICI** ou chirurgie digestive, radiothérapie abdominale ou pelvienne.
 - Antécédents familiaux  
   Déficit en vitamine B12, maladie auto-immune.
 - Traitements en cours  
-  Colchicine, IPP et antihistaminique H2, **metformine**, phénobarbital, prégabaline, primidone, topiramate.
+  **Metformine**, IPP et antihistaminique H2, colchicine, phénobarbital, prégabaline, primidone, topiramate.
 - Supplémentation et auto-médication en cours
-- Régime alimentaire
+- Régime alimentaire (vegan, diversification)
 - Toxiques: alcool, protoxyde d'azote
 - Signes et symptômes de carence en vitamine B12:
+  - Anémie
   - Troubles psychiatriques: dépression, anxiété voire psychose
 
 ### Examen clinique
@@ -99,7 +100,7 @@ Causes de carence en vitamine B12:
 - Pression artérielle, fréquence cardiaque
 - Poids et variations, taille, IMC
 - Signes d'anémie  
-  {{< clinique/anemie >}}
+  {{< clinique/anemie >}}.
 - Examen neurologique  
   Paresthésies, ataxie, sensibilité profonde, polynévrite, troubles cognitifs.
 - Autres signes: glossite, ulcères, vaginite, ictère
@@ -114,25 +115,19 @@ Autres bilans: NFS (macrocytose)
 
 ### Dosage de la vitamine B12
 
-Doser la vitamine B12 en présence d'au moins un signe ou facteur de risque parmi:
+Doser la vitamine B12 en présence d'**au moins un signe ou symptôme AVEC un facteur de risque** parmi:
 
-- Signe ou symptôme parmi TODO: BOX1
-  - Anémie ou macrocytose (VGM > 100 fl) non expliquée
-  - Troubles de concentration, mémoire à court terme
-  - Délire, démence
-  - Atteinte du nerf optique: vision floue, atrophie du nerf optique, scotome
-  - Glossite
-  - Neuropathie périphérique ou myélopathie
-  - Troubles de l'équilibre par déficit de la proprioception
-  - Troubles de la marche
-  - Paresthésies
-  - [Fatigue](/tags/fatigue/) inexpliquée
-- Facteur de risque TODO: BOX2
-  - Diabète type 1, après 4 ans de metformine
+- Au moins un signe ou symptôme:
+  {{< clinique/carence-vitb12 >}}
+- Avec au moins un facteur de risque: TODO:
+  - xxx
+  - Diabète type 1, après 4 ans de metformine (TODO:)
+
+> -- *NICE 2024*
 
 **NB.** La contraception orale œstroprogestative peut diminuer le résultat.
 
-En cas de grossesse, doser la vitamine B12 active (holotranscobalamine). Pour l'usage de protoxyde d'azote, doser l'homocystéinémie (augmentée) ou l'acide méthylmalonique plasmatique (MMA). Se référer aux normes du laboratoire pour le résultat.
+En cas de grossesse, doser la vitamine B12 active (holotranscobalamine). Pour l'usage de protoxyde d'azote, doser l'homocystéine (augmentée) ou l'acide méthylmalonique plasmatique (MMA). Se référer aux normes du laboratoire pour le résultat.
 {.alert .alert-info}
 
 #### Interprétation du dosage de vitamine B12

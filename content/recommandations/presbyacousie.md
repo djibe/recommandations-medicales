@@ -171,7 +171,7 @@ graph TB
 
 - [Vanhoof E. La perte auditive et le port d'aides auditives sont-elles associées à la démence chez les personnes âgées ?. Minerva. 2024.](https://minerva-ebp.be/FR/Article/2397)
 - Prescrire Redaction. Pertes d'audition médicamenteuses. Rev Prescrire. 2024.
-- [NICE. Hearing loss in adults: assessment and management. 2023.](https://www.nice.org.uk/guidance/ng98)
+- [NICE. Hearing loss in adults: assessment and management. NICE guideline. 2023.](https://www.nice.org.uk/guidance/ng98)
 - [Inserm. Troubles de l'audition - Surdités. 07/11/2023.](https://www.inserm.fr/dossier/troubles-audition-surdites/)
 - Collège Français d'ORL et de Chirurgie Cervico-faciale. Surdité et handicap. 2022.
 - [Thai-Van H, et al; SFORL. Parcours de soins du patient presbyacousique. Recommandation pour la pratique clinique. 2021. (PDF)](https://www.sforl.org/wp-content/uploads/2022/03/Reco-Parcours-de-soins-du-patient-presbyacousique_2022.pdf)

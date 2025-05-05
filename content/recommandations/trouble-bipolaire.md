@@ -272,7 +272,7 @@ Suivi au moins annuel: symptômes, observance, effets indésirables, dernière c
 - Cochrane
 - Minerva
 - Cismef
-- [NICE. Bipolar disorder: assessment and management. 2023.](https://www.nice.org.uk/guidance/cg185/chapter/Recommendations)
+- [NICE. Bipolar disorder: assessment and management. Clinical guideline. 2023.](https://www.nice.org.uk/guidance/cg185/chapter/Recommendations)
 - International Society for Bipolar Disorders (ISBD)
 
 {{%/sources%}}

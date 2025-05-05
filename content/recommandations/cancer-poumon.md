@@ -259,7 +259,7 @@ graph TB
 - [INCa. Les cancers bronchopulmonaires en 10 points clés. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-cancers-bronchopulmonaires-en-10-points-cles)
 - [Kauczor H-U, et al. ESR/ERS statement paper on lung cancer screening. Eur Respir J. 2020.](https://erj.ersjournals.com/content/55/2/1900506)
 - [Delafosse P, et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Poumon. Santé Publique France. 2020.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-poumon)
-- [NICE. Lung cancer: diagnosis and management. 2019.](https://www.nice.org.uk/guidance/NG122)
+- [NICE. Lung cancer: diagnosis and management. NICE guideline. 2019.](https://www.nice.org.uk/guidance/NG122)
 - [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
 - [INCA. Cancers bronchopulmonaires - Du diagnostic au suivi. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancers-bronchopulmonaires-Du-diagnostic-au-suivi)
 - [HAS. ALD n°30 Cancer du poumon et mésothéliome pleural malin. 2014.](https://www.has-sante.fr/jcms/c_820058/fr/ald-n-30-cancer-du-poumon-et-mesotheliome-pleural-malin)

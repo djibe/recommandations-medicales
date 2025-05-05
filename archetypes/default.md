@@ -60,9 +60,9 @@ ACG
 - Collège
 - Prescrire
 - Cochrane
-- Minerva
+- [Minerva](https://minerva-ebp.be/)
 - Cismef
-- NICE Clinical guidance
+- [NICE Clinical guidance](https://www.nice.org.uk/guidance/conditions-and-diseases)
 - {{< references/aderim >}}
 
 {{%/sources%}}

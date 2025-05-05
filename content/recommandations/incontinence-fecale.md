@@ -156,4 +156,8 @@ graph TB
 - [SNFCP. Traitements de l'incontinence fécale. Recommandations. 2012. (PDF)](https://www.snfcp.org/wp-content/uploads/2017/Recommandations/Recommandation-IA-2013.pdf)
 - [Rullier E, et al. Validation of the French version of the Fecal Incontinence Quality-of-Life (FIQL) scale. Gastroenterol Clin Biol. 2004.](https://pubmed.ncbi.nlm.nih.gov/15243389/)
 
+### Bibliographie en attente
+
+[NICE. Faecal incontinence in adults: management. Clinical guideline. 2007.](https://www.nice.org.uk/guidance/cg49)
+
 {{%/sources%}}

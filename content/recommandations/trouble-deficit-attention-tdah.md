@@ -316,6 +316,6 @@ D'autres traitements médicamenteux sont possibles: stimulants (amphétamine) ou
 - [Collège National Universitaire de Psychiatrie (CNUP). Principaux troubles du neurodéveloppement Item 67. Référentiel de Psychiatrie et Addictologie. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_4ed.pdf)
 - [ANSM. Méthylphénidate : données d'utilisation et de sécurité d'emploi en France. 2021.](https://ansm.sante.fr/actualites/methylphenidate-donnees-dutilisation-et-de-securite-demploi-en-france)
 - Prescrire
-- [NICE. Attention deficit hyperactivity disorder: diagnosis and management. 2019.](https://www.nice.org.uk/guidance/ng87)
+- [NICE. Attention deficit hyperactivity disorder: diagnosis and management. NICE guideline. 2019.](https://www.nice.org.uk/guidance/ng87)
 
 {{%/sources%}}
