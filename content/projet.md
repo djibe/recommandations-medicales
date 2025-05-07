@@ -3,6 +3,7 @@ title = "RecoMédicales : le projet des recommandations médicales pour tous les
 noindex = true
 description = "Présentation du projet RecoMédicales développé pour tous les médecins généralistes. Créé pour accéder à l'information nécessaire aux soins primaires"
 layout = "projet"
+type = "page"
 longHtml = true
 breadcrumbTitle = "Projet"
 auteurs = ["Jean-Baptiste FRON"]
@@ -120,7 +121,7 @@ Comme tous les médecins, mes notes au format texte ne m'ont pas permis d'appré
 
 Cette limitation est récurrente sur les sites existants, pourtant d'une grande qualité: [Medg.fr](https://www.medg.fr/), [ebmfrance](https://www.ebmfrance.net), [doctofiche](https://doctofiche.fr), [inanutshell](https://www.inanutshell.ch/fr/), [Medix](http://www.medix.free.fr), [Ordotype](https://www.ordotype.fr), [Wikimedecine](https://www.wikimedecine.fr/Accueil), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil), [WeLinkCare](https://www.welinkcare.com).
 
-**RecoMédicales** n'est pas adapté aux étudiants (voir [ECNi](https://www.ecni.fr), [Freecn](https://www.freecn.io) et [prepECN](https://prepecn.com)).
+**RecoMédicales** n'est pas adapté aux étudiants (voir [EDN](https://www.edn.fr) et [Freecn](https://www.freecn.io).
 
 > L'outil doit être dynamique en cas de forte complexité (scores, escalade thérapeutique ...)
 

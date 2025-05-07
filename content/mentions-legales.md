@@ -3,6 +3,7 @@ title = "Conditions générales d'utilisation"
 noindex = true
 description = "Mentions légales de la plateforme"
 layout = "projet"
+type = "page"
 breadcrumbTitle = "Mentions"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-05-31T10:00:00+02:00"
