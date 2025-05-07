@@ -8,10 +8,10 @@ synonyms = ["Hépatocarcinome", "cancer primitif du foie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-30T19:19:57+01:00"
 publishdate = "2023-10-31"
-lastmod = "2025-01-25"
+lastmod = "2025-05-06"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2025"
-sources = ["EASL", "SNFGE", "AFEF", "HAS", "INCa"]
+sources = ["AFEF", "EASL", "SNFGE", "AFEF", "HAS", "INCa"]
 tags = ["cancer", "ferritine", "hepatite"]
 english = ["Hepatocellular carcinoma (HCC)", "hepatocarcinoma"]
 sctid = "109841003"
@@ -24,18 +24,40 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le carcinome hépatocellulaire (CHC) survient le plus souvent sur foie cirrhotique ([alcool]({{% relref "sevrage-alcool.md" %}}), [hépatite C]({{% relref "hepatite-c.md" %}}) ou [B]({{% relref "hepatite-b.md" %}}), [NASH]({{% relref "steatose-hepatique-et-nash.md" %}}))
-- Bilan en cas de découverte de nodule hépatique: bilan biologique hépatique, sérologies des hépatites, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, échographie et scanner/IRM abdominal avec injection
-- Avis spécialisé du gastro-entérologue rapide systématique avec le bilan
+- Le carcinome hépatocellulaire (CHC) survient le plus souvent sur foie cirrhotique ([alcool]({{% relref "sevrage-alcool.md" %}}) surtout, [hépatite C]({{% relref "hepatite-c.md" %}}) ou [B]({{% relref "hepatite-b.md" %}}), [NASH]({{% relref "steatose-hepatique-et-nash.md" %}}))
+- Bilan devant un nodule hépatique: bilan hépatique, sérologies des hépatites, évaluation du {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, échographie hépatique et scanner/IRM abdominal avec injection
+- Avis spécialisé du gastro-entérologue rapide systématique
 - Le diagnostic peut être radiologique en cas de cirrhose et de lésion typique, sinon le diagnostic de carcinome hépatocellulaire reste anatomopathologique sur la biopsie hépatique
-- Dépistage du carcinome hépatocellulaire (CHC) en cas de cirrhose et traitement envisageable: échographie abdominale tous les 6 mois sans dosage de l'alpha-fœtoprotéine (AFP) selon les français, avec ou sans selon l'*EASL 2025*
+- Dépistage du carcinome hépatocellulaire (CHC) en cas de cirrhose (et traitement envisageable): échographie abdominale tous les 6 mois sans dosage de l'alpha-fœtoprotéine (AFP) selon les français, avec ou sans selon l'*EASL 2025*
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Carcinome hépatocellulaire (CHC)
-: Tumeur primitive du foie la plus fréquente (90% des 11.658 cas en 2023, en augmentation) à prédominance masculine (80%) par dégénérescence hépatocytaire et dont le pronostic est sombre. Le CHC survient le plus souvent sur une **cirrhose** (80%) et plus rarement sur une hépatopathie chronique non cirrhotique ([stéatopathie métabolique NASH]({{% relref "steatose-hepatique-et-nash.md" %}}) ...), exceptionnellement sur foie sain.
+: Tumeur primitive du foie la plus fréquente (+70 %) à prédominance masculine (80%) par dégénérescence hépatocytaire et dont le pronostic est sombre. Le CHC survient le plus souvent sur une **cirrhose** (75%) et plus rarement sur une hépatopathie chronique non cirrhotique ([stéatopathie métabolique NASH]({{% relref "steatose-hepatique-et-nash.md" %}}) ...), exceptionnellement sur foie sain.
 : Les facteurs de risque majeurs de carcinome hépatocellulaire en France sont l'**[alcool]({{% relref "sevrage-alcool.md" %}})** pour moitié, puis les [hépatites C]({{% relref "hepatite-c.md" %}}) et [B]({{% relref "hepatite-c.md" %}}) et enfin la [NASH]({{% relref "steatose-hepatique-et-nash.md" %}}).
+
+### Facteurs de risque de CHC
+
+{{< table title="Facteurs de risque de carcinome hépatocellulaire (CHC). Dr JB Fron d'après AFEF 2025" >}}
+| Facteur de risque | Odd Ratio |
+|----------------|:---------:|
+| Aflatoxine B1 + VHB | 54 |
+| Déficit en alpha 1<br>antitrypsine homozygote | 40 |
+| Hémochromatose | 20 |
+| Hépatite B | 15-20 |
+| Hépatite C | 10-20 |
+| Aflatoxine B1 | 6 |
+| Surinfection hép D vs B TODO: | 3,9 |
+{{< /table >}}
+
+### Épidémiologie du carcinome hépatocellulaire
+
+- **Incidence:** 11.658 cas (2023), en augmentation
+- **Sex-ratio:** 80% d'hommes
+- **Survie à 5 ans:** 18% hommes, 19% femmes
+- 90% surviennent sur une maladie chronique du foie (75% au stade de cirrhose)
+- L'[alcool]({{% relref "sevrage-alcool.md" %}}) est responsable de 50 à 70% des cas de CHC sur foie cirrhotique
 
 ### Abréviations
 
@@ -212,6 +234,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Assenat E, et al; AFEF. Prise en charge du carcinome hépatocellulaire & outils pour la pratique. Recommandations de l'Association français pour l'étude du foie. 2025.](https://afef.asso.fr/recommandation/recommandations-afef-sur-la-prise-en-charge-du-carcinome-hepatocellulaire-outils-pour-la-pratique/)
 - [Sangro B, et al; European Association for the Study of the Liver (EASL). EASL Clinical Practice Guidelines on the management of hepatocellular carcinoma. J Hepatol. 2025.](https://www.journal-of-hepatology.eu/article/S0168-8278(24)02508-X/fulltext)
 - [Blanc JF, et al; AFEF. Carcinome hépatocellulaire (cancer primitif du foie). Thésaurus National de Cancérologie Digestive. 2023.](https://www.snfge.org/tncd/carcinome-hepatocellulaire-cancer-primitif-du-foie)
 - {{< references/beh-cancers-incidence >}}
@@ -221,10 +244,6 @@ graph TB
 - [Trinchet JC; SNFGE, AFEF. Diagnostic du carcinome hépatocellulaire. Conseil de pratique. 2016. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/recommandations/2016_chc_avec_figure_integree_0.pdf)
 - [HAS, INCa. Cancer primitif du foie. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_1005121/fr/ald-n-30-cancer-primitif-du-foie)
 - [HAS, INCa. Cancer primitif du foie. Guide Affection de longue durée. 2010. (PDF)](https://www.e-cancer.fr/content/download/95938/1021348/file/GUIALDFOIE10.pdf)
-
-### Bibliographie en attente
-
-[Assenat E, et al; AFEF. Prise en charge du carcinome hépatocellulaire & outils pour la pratique. Recommandations de l'Association français pour l'étude du foie. 2025.](https://afef.asso.fr/recommandation/recommandations-afef-sur-la-prise-en-charge-du-carcinome-hepatocellulaire-outils-pour-la-pratique/)
 
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}
