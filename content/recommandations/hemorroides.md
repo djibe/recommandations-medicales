@@ -132,9 +132,9 @@ L'objectif de la prise en charge médicale des hémorroïdes est de soulager les
     Spécialités (NR): Deliproct®, Rectoquotane®, Sédorrhoïde crise hémorroïdaire®, Titanoréïne crème®, Titanoréïne lidocaïne 2%®, Tronothane 1%®, Ultraproct®.
   - Carraghénates NR ([Titanoréïne crème®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63802533&typedoc=R), [Titanoréïne lidocaïne 2%®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61165034&typedoc=R))
 - Veinotoniques:
-  - Flavonoïdes ([diosmine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69941714&typedoc=R), rutosides)  
+  - Flavonoïdes ([diosmine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69941714&typedoc=R), rutoside possibles [pendant la grossesse](https://www.lecrat.fr/8530/) et [l'allaitement](https://www.lecrat.fr/8534/))  
     Diminuent la durée et l'intensité des symptômes internes (dont rectorragies). En cure courte ou au long cours.
-  - Ginkgo Biloba, troxerutine cure courte (Rheoflux®, Veinamitol®)
+  - Ginkgo Biloba, troxérutine cure courte (Rheoflux®, Veinamitol®)
 - Lutte contre la [constipation]({{% relref "constipation.md" %}}):
   - Boire 1,5 L/j
   - Alimentation riche en fibre
@@ -143,7 +143,7 @@ L'objectif de la prise en charge médicale des hémorroïdes est de soulager les
   - Laxatifs mucilages ([ispaghul](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67437758&typedoc=R)) au long cours ou en cure courte lors des crises hémorroïdaires.
 - Information du patient: [information SNFCP](https://www.snfcp.org/informations-maladies/hemorroides/les-hemorroides/) et [FAQ Hémorroïdes](https://www.snfcp.org/informations-maladies/hemorroides/faq-hemorroides/)
 
-> **NR =** non remboursé
+**NR =** non remboursé
 
 **NB.** La contre-indication aux épices est mal étayée.
 

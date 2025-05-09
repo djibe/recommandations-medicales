@@ -317,6 +317,7 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Grossesse : les vaccins recommandés. 2025.](https://www.has-sante.fr/jcms/p_3590575/fr/grossesse-les-vaccins-recommandes)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Stratégie de vaccination contre les infections invasives à méningocoques. 2025.](https://www.has-sante.fr/jcms/p_3597524/fr/strategie-de-vaccination-contre-les-infections-invasives-a-meningocoques)
 - [HAS. Élargissement des critères d'éligibilité à la vaccination antipneumococcique chez les adultes - Recommandation vaccinale. 2025.](https://www.has-sante.fr/jcms/p_3586414/fr/elargissement-des-criteres-d-eligibilite-a-la-vaccination-antipneumococcique-chez-les-adultes-recommandation-vaccinale)

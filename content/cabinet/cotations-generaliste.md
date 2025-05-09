@@ -5,7 +5,7 @@ description = "Aide à la cotation des consultations en médecine générale: co
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2025-03-14"
+lastmod = "2025-05-08"
 annees = "2025"
 sources = ["Assurance Maladie"]
 tags = []
@@ -174,7 +174,7 @@ Cotations NGAP disponibles en sus de la consultation ou de la visite médicale.
 
 Actes CCAM importants non cumulables ou cumulables avec une consultation (3 possibles en cumul: ECG, frottis cervico-vaginal et biopsie cutanée).
 
-Les sutures ne sont pas présentées ici mais penser à associer le code CCAM *M* (26,88 €) de soins d'urgences.
+Pour les sutures, voir la [fiche Omniprat](https://omniprat.org/fiches-pratiques/sutures/sutures-fiches/) et penser à associer le code CCAM *M* (26,88 €) de soins d'urgences.
 
 {{< table title="Actes importants pour le médecin généraliste. Majoration M possible si urgence pour les actes mentionnés" class="table-wrap" >}}
 | Code CCAM   | Description | Tarif&nbsp;(€) |
@@ -184,8 +184,8 @@ Les sutures ne sont pas présentées ici mais penser à associer le code CCAM *M
 | ALQP003     | Test standardisé d'évaluation d'une dépression: {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, Beck, MADRS, MMPI et STAI (max 1/an) | 69,12 |
 | ALQP006     | Test standardisé d'évaluation d'un déficit cognitif: [MMSE](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/mmse.pdf), {{< scores/moca >}}, GP-COG, MIS, Codex, 5 mots de Dubois (max 1/an) | 69,12 |
 | JKLD001     | Pose d'un stérilet | 38,40 |
-| JKKD001     | Changement d'un stérilet                                                                                                                                                                                     |          38,40 |
-| QZGA002     | Ablation ou changement d'un implant                                                                                                                                                                          |          41,80 |
+| JKKD001     | Changement d'un stérilet | 38,40 |
+| QZGA002     | Ablation ou changement d'un implant | 41,80 |
 | MJPA010     | Incision ou excision d'un panaris superficiel | 38,29 |
 | EGFA007     | Excision d'une [thrombose hémorroïdaire]({{% relref "hemorroides.md" %}}) | 62,70 |
 | GLQP012     | Spirométrie avec enregistrement | 41,08 |

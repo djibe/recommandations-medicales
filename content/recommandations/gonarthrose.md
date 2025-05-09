@@ -164,7 +164,7 @@ Autres diagnostics à étayer devant des douleurs des genoux.
 
 ### Bilan de la gonarthrose
 
-- NFS, VS, CRP
+- NFS, CRP
 - ==Radiographies des genoux==
   - de face en charge et profil
   - Défilé fémoro-patellaire à 30° de flexion

@@ -26,7 +26,7 @@ flowchart = true
 
 - La maladie de Menière est une maladie de l'oreille interne évoluant par crises brutales
 - Tétrade diagnostique de la Maladie de Menière: vertiges, surdité / hypoacousie unilatérale, acouphènes et sensation de plénitude de l'oreille chez un sujet d'âge moyen
-- Bilan de la suspicion de Maladie de Menière: biologie avec NFS, VS, CRP, glycémie, TSH, sérologie syphilis, IRM cérébrale
+- Bilan de la suspicion de Maladie de Menière: biologie avec NFS, CRP, glycémie, TSH, sérologie syphilis, IRM cérébrale
 - Adresser à l'ORL avec le bilan
 
 {{%/article-summary%}}
@@ -101,7 +101,7 @@ Pathologies donnant des symptômes similaires (hypoacousie ou surdité, vertiges
 
 ### Bilan d'une suspicion de maladie de Menière
 
-- NFS, VS, CRP
+- NFS, CRP
 - Glycémie à jeun
 - [TSH](/tags/tsh/)
 - Sérologie [syphilis]({{% relref "syphilis.md" %}})

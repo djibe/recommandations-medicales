@@ -21,7 +21,7 @@ image = true
 imageWEBP = true
 imageSrc = "Territoires sensitifs (dermatomes) des trois branches du nerf trijumeau (nerf V). BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "rank?, update | palier avant envisager décroissance"
+todo = "rankok | palier avant envisager décroissance"
 +++
 
 {{%article-summary%}}
@@ -222,12 +222,10 @@ L'IRM cérébrale est réalisée avec des séquences d'acquisitions spécifiques
 {{% /collapse %}}
 {{%collapse "Traitement de la névralgie du trijumeau" %}}
 
-La prise en charge de la névralgie du trijumeau repose sur un traitement de fond antiépileptique: **carbamazépine ou oxcarbazépine**.
-
 > [!WARNING]
-> Les antalgiques et anti-inflammatoires AINS ne sont pas efficaces sur la névralgie du trijumeau.
+> Hospitaliser en cas de poussée douloureuse non contrôlée. Les antalgiques et anti-inflammatoires AINS ne sont pas efficaces sur la névralgie du trijumeau.
 
-Hospitaliser en cas de poussée douloureuse non contrôlée.
+La prise en charge de la névralgie du trijumeau repose sur un traitement de fond antiépileptique: **carbamazépine ou oxcarbazépine**.
 
 ### Carbamazépine
 
@@ -235,17 +233,16 @@ Carbamazépine 100 mg matin, midi et LP 100 mg le soir, 30 minutes avant le repa
 Augmenter par paliers de 100 mg matin et 100 mg LP soir tous les 2 à 5 jours.
 {.alert .alert-info}
 
-**Débuter:** [carbamazépine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61009918&typedoc=R) (Tegretol® ou autre, non LP de préférence) 200-400 mg/j en 2-3 prises.  
-Augmenter jusqu'à suppression de la douleur (max 1600 mg/j) puis obtention de la dose minimale efficace.
+**Débuter la [carbamazépine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61009918&typedoc=R) (Tegretol® ou autre, non LP de préférence):** 200 à 400 mg/j en 2-3 prises. Augmenter jusqu'à suppression de la douleur (**max 1600 mg/j**), puis rechercher la dose minimale efficace.
 
 - Forme non LP de préférence sauf au coucher
-- Vérifier systématiquement [les interactions](https://go.drugbank.com/drugs/DB00564)
+- Vérifier systématiquement [les interactions médicamenteuses](https://www.drugs.com/interaction/list/?drug_list=497-0)
 - Bilan pré-thérapeutique  
-  NFS, bilan hépatique, ECG chez personne âgée.
+  NFS, bilan hépatique, ECG chez la personne âgée.
 - Surveillance  
-  NFS, ASAT, ALAT, ionogramme hebdomadaires le 1^er^ mois puis en signes d'appel (iono annuel).
+  NFS, ASAT, ALAT, ionogramme hebdomadaires le 1^er^ mois puis en cas de signes d'appel (ionogramme annuel).
 - **Contre-indications**  
-  BAV, hypersensibilité à la molécule/excipients, antécédent d'hypoplasie médullaire ou de porphyrie hépatique, traitement par télaprévir ou variconazole.
+  BAV, hypersensibilité à la molécule/excipients, antécédent d'hypoplasie médullaire ou de porphyrie hépatique, traitement par télaprévir ou voriconazole.
 - **Effets indésirables principaux**  
   [Hyponatrémie]({{% relref "hyponatremie.md" %}}), induction enzymatique, vertiges, ataxie, somnolence, fatigue, diplopie, troubles de l'accommodation, confusion ou agitation.
 - **Effets indésirables graves:** aplasie, toxidermie grave
@@ -282,9 +279,9 @@ Indications pour une NTC certaine par thermocoagulation, radiochirurgie ou déco
 - Échec de 3 molécules à doses efficaces dont la carbamazépine
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant une névralgie du trijumeau" "show" %}}
+{{%collapse "Prise en charge de la névralgie du trijumeau" "show" %}}
 
-{{< mermaid title="Conduite à tenir devant une suspicion de névralgie trigéminale classique. Dr JB Fron d'après Donnet 2018 et Bendtsen 2019" >}}
+{{< mermaid title="Conduite à tenir devant une suspicion de névralgie trigéminale classique et prise en charge. Dr JB Fron d'après EAN et SFEMC" >}}
 graph TB
   suspNtc["Suspicion de<br>névralgie trigéminale classique"] --> exclusion("<b>Signes d'alerte ?</b><br>—<br>- Âge &lt; 40 ans<br>- Déficitaire<br>- Surdité/otologique<br>- Atteinte cutanée ou buccale<br>- Atteinte V1 isolée<br>- Névrite optique<br>- ATCD familial de SEP<br>- Carbamazépine inefficace")
   style suspNtc stroke:#4150f5, stroke-width:1px

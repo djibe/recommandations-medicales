@@ -163,7 +163,7 @@ En cas de rectorragies ou de modifications du transit: adresser au gastro-entér
 
 ### Bilan de la diarrhée chronique
 
-- NFS, VS, CRP
+- NFS, CRP
 - Ferritinémie
 - TSH
 - Glycémie à jeun

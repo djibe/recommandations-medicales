@@ -8,7 +8,7 @@ synonyms = ["Hépatocarcinome", "cancer primitif du foie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-30T19:19:57+01:00"
 publishdate = "2023-10-31"
-lastmod = "2025-05-06"
+lastmod = "2025-05-09"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2025"
 sources = ["AFEF", "EASL", "SNFGE", "AFEF", "HAS", "INCa"]
@@ -17,18 +17,18 @@ english = ["Hepatocellular carcinoma (HCC)", "hepatocarcinoma"]
 sctid = "109841003"
 icd10 = ["C22.0"]
 image = true
-imageSrc = "Douleurs de l'hypocondre droit et ictère chez un homme de 80 ans. Large masse hépatique du lobe droit et plus petites avec prise de contraste précoce faisant découvrir un carcinome hépatocellulaire (CHC). Cas de Mohammadtaghi Niknejad, Radiopaedia.org, rID: 21793"
-todo = "relecture"
+imageSrc = "Douleurs de l'hypocondre droit et ictère chez un homme de 80 ans faisant découvrir une large masse hépatique du lobe droit et de plus petites avec prise de contraste précoce, affirmant un carcinome hépatocellulaire (CHC). Cas de Mohammadtaghi Niknejad, Radiopaedia.org, rID: 21793"
+todo = "relecture en prévenant NASH/MASLD | séparer cirrhose et nodule"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
 - Le carcinome hépatocellulaire (CHC) survient le plus souvent sur foie cirrhotique ([alcool]({{% relref "sevrage-alcool.md" %}}) surtout, [hépatite C]({{% relref "hepatite-c.md" %}}) ou [B]({{% relref "hepatite-b.md" %}}), [NASH]({{% relref "steatose-hepatique-et-nash.md" %}}))
-- Bilan devant un nodule hépatique: bilan hépatique, sérologies des hépatites, évaluation du {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, échographie hépatique et scanner/IRM abdominal avec injection
-- Avis spécialisé du gastro-entérologue rapide systématique
+- Bilan d'un nodule hépatique: bilan hépatique, sérologies des hépatites, évaluation du {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, IRM hépatique injectée multiphasique avec RCP dans le mois
+- Avis spécialisé de l'hépatologue en (semi) urgence
 - Le diagnostic peut être radiologique en cas de cirrhose et de lésion typique, sinon le diagnostic de carcinome hépatocellulaire reste anatomopathologique sur la biopsie hépatique
-- Dépistage du carcinome hépatocellulaire (CHC) en cas de cirrhose (et traitement envisageable): échographie abdominale tous les 6 mois sans dosage de l'alpha-fœtoprotéine (AFP) selon les français, avec ou sans selon l'*EASL 2025*
+- Dépister le carcinome hépatocellulaire (CHC) en cas de cirrhose (si un traitement est envisageable): échographie-doppler abdominale tous les 6 mois, << probablement associée >> au dosage de l'alpha-fœtoprotéine (AFP)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -48,7 +48,13 @@ Carcinome hépatocellulaire (CHC)
 | Hépatite B | 15-20 |
 | Hépatite C | 10-20 |
 | Aflatoxine B1 | 6 |
-| Surinfection hép D vs B TODO: | 3,9 |
+| Déficit en alpha 1<br>antitrypsine hétérozygote | 6 |
+| MASLD + alcool modéré | 3,8 |
+| Diabète | 2-3 |
+| Obésité | 2-3 |
+| Alcool | 1,5-3 |
+| Syndrome métabolique | 2,3 |
+| Tabac | 1,5 |
 {{< /table >}}
 
 ### Épidémiologie du carcinome hépatocellulaire
@@ -79,9 +85,6 @@ CLCC
 EASL
 : {{%lang%}}European Association for the Study of the Liver{{%/lang%}}
 
-INCa
-: Institut national du cancer
-
 RCP
 : réunion de concertation pluridisciplinaire
 
@@ -92,9 +95,7 @@ SNFGE
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-### Diagnostic différentiel du carcinome hépatocellulaire
-
-Autres tumeurs et lésions hépatiques:
+Autres causes de tumeurs et lésions hépatiques:
 
 - Tumeurs hépatiques
   - [Hémangiome hépatique]({{% relref "hemangiome-hepatique.md" %}})
@@ -111,14 +112,14 @@ Autres tumeurs et lésions hépatiques:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le carcinome hépatocellulaire est classiquement découvert: lors de la surveillance ou de symptômes chez un patient cirrhotique, un bilan d'hépatopathie (cirrhose, [hépatite C chronique]({{% relref "hepatite-c.md" %}})) ou de découverte fortuite sur une imagerie abdominale.
+Le carcinome hépatocellulaire est classiquement découvert lors de la surveillance ou de symptômes chez un patient cirrhotique, un bilan d'hépatopathie ([hépatite C chronique]({{% relref "hepatite-c.md" %}})) ou B ou de découverte fortuite sur une imagerie abdominale.
 
-Le CHC reste longtemps asymptomatique causant souvent un diagnostic tardif.
+Le CHC reste longtemps **asymptomatique**, aboutissant souvent à un diagnostic tardif.
 
 ### Interrogatoire
 
 - Antécédents  
-  Maladie chronique du foie connue, [cancer](/tags/cancer/), insuffisance d'organe, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}} ([hypertension]({{% relref "hypertension-arterielle.md" %}}), [diabète]({{% relref "diabete-type-2.md" %}}), dyslipidémie).
+  Maladie chronique du foie, [cancer](/tags/cancer/), insuffisance d'organe, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}} ([hypertension]({{% relref "hypertension-arterielle.md" %}}), [diabète]({{% relref "diabete-type-2.md" %}}), dyslipidémie).
 - **Facteurs de risque d'hépatopathie**: [hépatite virale](/tags/hepatite/), transfusion, tatouage, drogues IV, [alcool]({{% relref "sevrage-alcool.md" %}}), {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, [diabète](/tags/diabete/)
 - Traitements en cours
 - Tabac
@@ -136,13 +137,14 @@ Le CHC reste longtemps asymptomatique causant souvent un diagnostic tardif.
 - Signes d'insuffisance hépatocellulaire  
   {{< clinique/insuffisance-hepato-cellulaire >}}
 - [Splénomégalie]({{% relref "splenomegalie.md" %}})
-- {{< modal-btn modal-score-child >}}Score de Child-Pugh{{< /modal-btn >}}
+- Score de {{< modal-btn modal-score-child >}}Child-Pugh{{< /modal-btn >}}
+- État général: {{< modal-btn modal-OMS >}}score OMS/ECOG-PS{{< /modal-btn >}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 > [!INFO]
-> Toute lésion focale hépatique chez un patient atteint de cirrhose est un CHC jusqu'à preuve du contraire, quel que soit son aspect en échographie. -- *SNFGE 2016*
+> Toute lésion focale hépatique chez un patient atteint de cirrhose est un CHC jusqu'à preuve du contraire, quel que soit son aspect en échographie (*SNFGE 2016*).
 
 ### Bilan d'un nodule hépatique
 
@@ -156,23 +158,22 @@ Le bilan initial est celui d'une tumeur hépatique:
 - Glycémie à jeun
 - Bilan lipidique
 - Créatininémie
+- En l'absence de cirrhose connue: recherche de fibrose (biologique avec Fibromètre®, Fibrotest® ou échographique par élastographie hépatique)
 - Échographie abdominale
+  - Si lésion évocatrice: IRM hépatique injectée multiphasique avec RCP dans le mois
 
-**NB.** En cas de tumeur hépatique sans cirrhose connue, la valeur de l'élastométrie hépatique (biologique avec Fibromètre®, Fibrotest® ou échographique par élastométrie hépatique) n'est pas connue.
+Avis spécialisé hépatologique semi-urgent avec le bilan.
+{.alert .alert-info}
 
-### Imagerie abdominale avec injection de produit de contraste
+### Bilan complémentaire au diagnostic de CHC
 
-**Scanner abdominal** injecté (ou IRM si accessible), interprétation selon le système LID-RADS.
+Vérifier que le bilan est complet au diagnostic: IRM hépatique multiphasique injectée avec scanner thoracique ou scanner thoraco-abdomino-pelvien injecté; alpha-fœtoprotéine.
+{.alert .alert-info}
 
-#### Imagerie chez le patient cirrhotique
-
-Pour une lésion typique à partir de 1 cm: le diagnostic de carcinome hépatocellulaire est radiographique. Réaliser une IRM (ou vice versa) en cas d'aspect atypique.
-
-Pour les lésions < 1 cm, suivi échographique (ou scanner/IRM) trimestriel pendant 2 ans, puis échographie semestrielle.
-
-#### Imagerie en l'absence de cirrhose
-
-L'imagerie n'est pas suffisante pour déterminer l'étiologie. La **biopsie hépatique** est nécessaire pour le diagnostic de CHC (négative elle n'élimine pas le diagnostic). Après 2 biopsies négatives, suivi par imagerie tous les 3-6 mois.
+- Imagerie chez le patient cirrhotique:
+  - Lésion typique ≥ 1 cm: le diagnostic de carcinome hépatocellulaire est radiographique
+  - Lésion < 1 cm: IRM avec lecture par un expert. Pour une lésion non évocatrice, suivi échographique (ou scanner/IRM) trimestriel pendant 2 ans, puis échographie semestrielle.
+- En l'absence de cirrhose: la **biopsie hépatique** est nécessaire pour le diagnostic de CHC (négative elle n'élimine pas le diagnostic). Après 2 biopsies négatives, suivi par imagerie tous les 3-6 mois.
 
 ### Alpha-fœtoprotéine
 
@@ -180,7 +181,9 @@ L'imagerie n'est pas suffisante pour déterminer l'étiologie. La **biopsie hép
 
 L'alpha-fœtoprotéine relève du bilan d'extension une fois le carcinome hépatocellulaire prouvé.
 
-Par ailleurs l'alpha-fœtoprotéine n'est plus utilisée pour le dépistage semestriel du CHC chez le patient cirrhotique (voir *Dépistage*). Pourtant les généralistes ont prescrit pour 2,48 millions d'euros d'examens en 2020 (*Open Bio*).
+**NB.** Une AFP isolée > 200 ng/mL (sans cause extra-hépatique) a une VPP de 95% pour le carcinome hépatocellulaire. Prescrire une IRM avec injection et lecture par un expert.
+
+Pour le dépistage du CHC chez le patient cirrhotique, voir *Dépistage du CHC*.
 
 {{% /collapse %}}
 {{%collapse "Dépistage du CHC" %}}
@@ -188,43 +191,49 @@ Par ailleurs l'alpha-fœtoprotéine n'est plus utilisée pour le dépistage seme
 ### Dépistage du carcinome hépatocellulaire (CHC)
 
 > [!INFO]
-> Dépistage du carcinome hépatocellulaire chez les patients avec cirrhose {{< modal-btn modal-score-child >}}Child A ou B{{< /modal-btn >}} (ou C en attente de transplantation) par échographie abdominale semestrielle avec ou sans dosage de l'alpha-fœtoprotéine et suivi hépatologique au moins annuel. (*EASL 2025*)
+> Dépistage du carcinome hépatocellulaire chez les patients cirrhotiques {{< modal-btn modal-score-child >}}Child A ou B{{< /modal-btn >}} (ou C en attente de transplantation) par échographie-doppler abdominale semestrielle << probablement associée >> au dosage de l'alpha-fœtoprotéine et suivi hépatologique au moins annuel. (*EASL 2025* et *AFEF*)
 
 Performances pour le dépistage de lésion précoce dans les études prospectives: échographie seule (sensibilité **40%**) ou couplée à l'AFP (sensibilité **60%**, au prix d'une spécificité réduite, mais préférée des patients).
 
-La consommation de café pourrait être recommandée en cas d'hépatopathie (*EASL 2025*).
+Le seuil de l'alpha-fœtoprotéine (AFP) pour le dépistage est de 20 ng/mL.
+
+Encourager la consommation de **café** dans ces populations, en plus des mesures d'hépatoprotection (*AFEF* et *EASL 2025*).
 
 > Un dépistage non invasif de la fibrose hépatique (élastométrie hépatique) est recommandé en cas de facteur de risque de cirrhose: alcool, NASH, diabète type 2, hépatite B ou C chronique.
 
 {{% /collapse %}}
 {{%collapse "Traitement du carcinome hépatocellulaire" %}}
 
-La prise en charge du carcinome hépatocellulaire (CHC) est spécialisée après RCP. [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC).
+La prise en charge du carcinome hépatocellulaire (CHC) est spécialisée après RCP, débutée dans les 6 semaines ([annuaire](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) des Centres de Lutte contre le Cancer -- CLCC).
 
-Mesures associées à la prise en charge des cancers:
+Mesures associées à la prise en charge du carcinome hépatocellulaire:
 
-- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 - Mesures d'hépatoprotection
   - [Sevrage de l'alcool]({{% relref "sevrage-alcool.md" %}})
   - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
+  - Consommation de café
 - Suivi pluridisciplinaire
   - Suivi nutritionnel
   - Soutien psychologique voire psychothérapie
 - Information du patient: [guide HAS sur le CHC (PDF)](https://www.e-cancer.fr/content/download/85014/866989/file/GP_Cancer_Foie.pdf), [guide AFEF](https://afef.asso.fr/cancer-du-foie-chc) et [guide INCa sur les traitements](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-traitements-du-cancer-du-foie)
 - Association de patients: [Ligue contre le cancer](https://www.ligue-cancer.net), [roseup](https://www.rose-up.fr)
-
-Après traitement du cancer, le suivi est trimestriel pendant 2 ans puis semestriel.
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 
 ### Pour en savoir plus: les traitements du carcinome hépatocellulaire
 
-Le traitement du carcinome hépatocellulaire (CHC) peut être: ablation percutanée, chirurgie, transplantation hépatique, chimio-embolisation artérielle, anti-angiogénique, immunothérapie ou abstention thérapeutique.
+Le traitement du carcinome hépatocellulaire (CHC) peut être: ablation tumorale percutanée, chirurgie, transplantation hépatique, chimioembolisation, radiothérapie, anti-angiogénique, immunothérapie ou abstention thérapeutique.
+
+{{% /collapse %}}
+{{%collapse "Suivi" %}}
+
+Le suivi après traitement du cancer est au moins trimestriel pendant 2 ans (IRM hépatique multiphasique, scanner thoracique et alpha-fœtoprotéine) puis semestriel (IRM ou scanner, << possiblement >> échographique), en conservant les mesures d'hépatoprotection.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du carcinome hépatocellulaire" "show" %}}
 
-{{< mermaid title="Prise en charge du carcinome hépatocellulaire (CHC) par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après EASL 2025, SNFGE, AFEF et HAS" >}}
+{{< mermaid title="Prise en charge du carcinome hépatocellulaire (CHC) par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après AFEF et EASL 2025, SNFGE et INCa" >}}
 graph TB
-  cirrhose["Cirrhose Child A/B<br>ou C en attente greffe"] -- Semestriel --> échographie(Échographie abdominale<br>± AFP) -. Anomalie .-> bilan(<b>Bilan de nodule hépatique</b><br>—<br>- Sd métabolique<br>- Biologie standard<br>- Bilan hépatique<br>- TP, albumine<br>- Sérologies des hépatites<br>- Ferritine<br>- Scanner/IRM AP injecté) -- Avis rapide --> gastro(Gastro-entérologue)
+  cirrhose["Cirrhose Child A/B<br>ou C en attente greffe"] -- "Dépistage semestriel<br>± AFP" --> échographie(Échographie abdominale) -. Anomalie .-> bilan(<b>Bilan de nodule hépatique</b><br>—<br>- Sd métabolique<br>- Biologie standard<br>- Bilan hépatique<br>- TP, albumine<br>- Sérologies des hépatites<br>- Ferritine<br>- Cirrhose non connue:<br>bilan non invasif<br>- IRM hépatique injectée) -- Avis rapide --> gastro(Gastro-entérologue)
   autre["Bilan d'alcool,<br>VHC, VHB, NASH"] --> échographie
   autre --> dépistage("Recherche non invasive<br>de fibrose hépatique") -. Pathologique .-> cirrhose
   style cirrhose stroke:#4150f5, stroke-width:1px
@@ -269,5 +278,10 @@ graph TB
 {{% modal title="Dépistage de la fibrose hépatique" id="modal-fib4"%}}
 
 {{< scores/fib4 >}}
+
+{{% /modal %}}
+{{% modal title="État général OMS" id="modal-OMS"%}}
+
+{{< scores/performance-status >}}
 
 {{% /modal %}}

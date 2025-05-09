@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-07T12:03:00+02:00"
 publishdate = "2021-09-07"
-lastmod = "2024-04-26"
+lastmod = "2025-05-08"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2023"
 sources = ["HAS", "AFEF", "SNFGE"]
@@ -297,7 +297,7 @@ Les tests sanguins ({{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}}, F
 
 - Déclarer l'[ALD n°6]({{% relref "affection-longue-duree.md" %}})  
   Indications: AgHBs+ avec > 2000 copies/mL ou cytolyse et nécessité d'un traitement antiviral ou de suivi prolongé, séquelles graves.
-- Adresser au spécialiste pour initier un traitement  
+- Adresser à l'hépatologue pour initier un traitement  
   {{%class%}}Interféron alpha-2a/b, pégylé alpha-2a, lamivudine, adéfovir, entecavir, telbivudine, tenofovir.{{%/class%}}
 - Préservatif obligatoire
 - Vaccination
@@ -305,15 +305,16 @@ Les tests sanguins ({{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}}, F
   - [VHA]({{% relref "hepatite-a.md" %}}) avec sérologie préalable
   - Pneumocoque
   - [Grippe annuelle]({{% relref "grippe.md" %}})
-- [Arrêt de l'alcool]({{% relref "sevrage-alcool.md" %}}) et du [tabac]({{% relref "arret-tabac.md" %}})
-- Correction d'un surpoids
+- Mesures d'hépatoprotection
+  - [Arrêt de l'alcool]({{% relref "sevrage-alcool.md" %}}) et du [tabac]({{% relref "arret-tabac.md" %}})
+  - Correction d'un surpoids
 - Information du patient: [guide AFEF](https://afef.asso.fr/hepatite-b/)
 - Association de patients: [SOS hépatites](https://soshepatites.org)
 - [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 45](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2045)  
   Exposition lors de soins ou au contact de personnes contaminées.
 
 {{% /collapse %}}
-{{%collapse "Surveillance de l'hépatite B traitée ou non" %}}
+{{%collapse "Suivi de l'hépatite B traitée ou non" %}}
 
 ### Surveillance de l'hépatite B active traitée
 
@@ -371,6 +372,7 @@ Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler.
 {{< youtube id="XfEdz-xm9qs" title="Sérologie de l'hépatite B autour de la vaccination (VacciNews)" >}}
 
 - {{< references/calendrier-vaccinal >}}
+- [Assenat E, et al; AFEF. Prise en charge du carcinome hépatocellulaire & outils pour la pratique. Recommandations de l'Association français pour l'étude du foie. 2025.](https://afef.asso.fr/recommandation/recommandations-afef-sur-la-prise-en-charge-du-carcinome-hepatocellulaire-outils-pour-la-pratique/)
 - [Service-Public. Infections sexuellement transmissibles : gratuité du dépistage en laboratoire. 02/09/2024.](https://www.service-public.fr/particuliers/actualites/A17530)
 - [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées chroniquement par le virus de l'hépatite B +/- de l'hépatite delta. 2023.](https://www.has-sante.fr/jcms/p_3324682/fr/prise-en-charge-des-personnes-infectees-par-les-virus-de-l-hepatite-b-c-ou-d)
 - [CMIT. Hépatites virales. Item 167. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-167.pdf)
