@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-20T12:27:50+02:00"
 publishdate = "2022-10-20"
-lastmod = "2025-04-12"
+lastmod = "2025-05-09"
 specialites = ["certificats"]
 annees = "2025"
 sources = ["Service-Public"]
@@ -42,6 +42,8 @@ L'accès au dossier médical d'un tiers n'est pas possible sauf dans les situati
 - Sujet majeur vivant
   - Son tuteur
   - Son médecin si le patient l'a choisi comme intermédiaire
+  - Toute personne mandatée par le patient  
+    Nécessite: mandat du patient et preuve d'identité.
 - Sujet majeur décédé
   - Les ayants droits (époux/concubin/Pacs, enfants) sauf opposition du défunt  
     La demande doit être justifiée parmi 3 raisons: causes de la mort, défendre la mémoire du défunt ou faire valoir un droit.
@@ -80,11 +82,11 @@ Date
 
 **Objet:** Demande de communication de mon dossier médical
 
-Pièce jointe: Une photocopie recto verso de ma pièce d'identité
+**Pièce jointe:** Une photocopie recto verso de ma pièce d'identité
 
 Madame, Monsieur,
 
-(Expliquez brièvement les informations qui vous intéressent : consultations, hospitalisations …).
+(Expliquez brièvement les informations qui vous intéressent : consultations, hospitalisations ...).
 
 Conformément à l'article L. 1111-7 du code de la santé publique,
 
@@ -102,16 +104,17 @@ Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'ex
 Signature
 </div>
 
-> Modèle [INC Conso](https://www.inc-conso.fr/content/vous-demandez-pouvoir-consulter-votre-dossier-medical)
+> -- *Modèle [INC Conso](https://www.inc-conso.fr/content/vous-demandez-pouvoir-consulter-votre-dossier-medical)*
 
-En l'absence de réponse, contacter une association d'aides aux démarches: [Aviam](http://aviamfrance.org/), [ANAMEVA](https://www.anameva.com/). Relancer après 3 mois.
+En l'absence de réponse, contacter une association d'aides aux démarches: [Aviam](http://aviamfrance.org), [ANAMEVA](https://www.anameva.com). Relancer la demande après 3 mois.
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Service-Public. Santé d'une personne sous tutelle ou curatelle : quelles sont les règles ? 02/05/2025.](https://www.service-public.fr/particuliers/vosdroits/F33899)
+- [Service-Public. Dossier médical. 28/02/2025.](https://www.service-public.fr/particuliers/vosdroits/F12210)
+- [CNIL. L'accès au dossier médical. 28/08/2013.](https://www.cnil.fr/fr/lacces-au-dossier-medical)
 - [Commission d'accès aux documents administratifs (Cada). Dossier médical personnel.](https://www.cada.fr/administration/dossier-medical-personnel)
-- [Service-Public. Dossier médical. 27/03/2023.](https://www.service-public.fr/particuliers/vosdroits/F12210)
-- [Service-Public. Santé d'une personne sous tutelle ou curatelle : quelles sont les règles ? 23/03/2022.](https://www.service-public.fr/particuliers/vosdroits/F33899)
 - [Conseil national de l'Ordre des médecins. Accéder à mon dossier médical.](https://www.conseil-national.medecin.fr/patient/droits/acceder-dossier-medical)
 
 {{%/sources%}}
