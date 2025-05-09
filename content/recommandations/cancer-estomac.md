@@ -204,7 +204,7 @@ Le traitement du cancer gastrique décidé en RCP peut être: traitement endosco
   - Scanner TAP /6 mois pendant 3 ans (AE) puis surveillance clinique + échographique abdominale annuelle
   - OU échographie abdominale /6 mois pendant 3 ans puis 1/an et RxT annuelle pendant 3 ans (AE)
 - Gastrectomie totale
-  - Vitamine B12 1 mg IM 1/mois, surveillance folates
+  - [Vitamine B12]({{% relref "carence-vitamine-b12.md" %}}) 1 mg/mois IM, surveillance folates
   - Échoendoscopie si haut risque de récidive
 - Gastrectomie partielle  
   EOGD tous les 2 ans après 10 ans de suivi.

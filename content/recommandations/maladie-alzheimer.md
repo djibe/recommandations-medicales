@@ -154,7 +154,7 @@ Bilan biologique:
 - TSH
 - Albuminémie, calcémie
 - Bilan hépatique, {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}} (*Silvey et al 2024*)
-- Vitamine B12, folates
+- [Vitamine B12]({{% relref "carence-vitamine-b12.md" %}}), folates
 - Sérologies syphilis, VIH, Lyme
 - Homme avec [signes d'andropause]({{% relref "andropause-deficit-testosterone.md" %}}) (troubles sexuels, sarcopénie, gynécomastie, dépilation ...) (*AFU/SFMS 2021*)
 

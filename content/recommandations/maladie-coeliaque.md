@@ -200,7 +200,7 @@ Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 
 ### Autres examens
 
 - NFS, ferritinémie
-- Folates et vitamine B12
+- Folates et [vitamine B12]({{% relref "carence-vitamine-b12.md" %}})
 - TSH
 - ASAT, ALAT, GGT
 - Calcémie, phosphates

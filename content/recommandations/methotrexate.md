@@ -97,8 +97,8 @@ Bilan pré thérapeutique du méthotrexate:
   Systématique avant de débuter le traitement.
 - ßHCG
 - Spirométrie si: tabac, [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), emphysème
-- +50 ans: vitamine B12 (*Prescrire*)  
-  La supplémentation systématique en vitamine B9 masque une carence.
+- +50 ans: [vitamine B12]({{% relref "carence-vitamine-b12.md" %}}) (*Prescrire*)  
+  La supplémentation systématique en folates masque une carence.
 
 ### Suivi biologique sous méthotrexate
 

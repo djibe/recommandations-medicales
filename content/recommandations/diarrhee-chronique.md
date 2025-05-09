@@ -169,7 +169,7 @@ En cas de rectorragies ou de modifications du transit: adresser au gastro-entér
 - Glycémie à jeun
 - Proposer une [sérologie VIH]({{% relref "vih-sida.md" %}})
 - Malabsorption  
-  Créatinine, ionogramme, calcémie, albuminémie, ASAT, ALAT, GGT, PAL, TP, vitamine B12, folates.
+  Créatinine, ionogramme, calcémie, albuminémie, ASAT, ALAT, GGT, PAL, TP, [vitamine B12]({{% relref "carence-vitamine-b12.md" %}}), folates.
 - [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}})  
   IgA anti-transglutaminase et IgA totales.
 - Examen parasitologique des selles 3 jours de suite (se 60-90%)

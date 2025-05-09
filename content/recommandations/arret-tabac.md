@@ -478,7 +478,7 @@ graph TB
 ### Bibliographie en attente
 
 - [Observatoire français des drogues et des tendances addictives (OFDT). Tabagisme et arrêt du tabac en 2023. 2024.](https://www.ofdt.fr/publication/2024/tabagisme-et-arret-du-tabac-en-2023-2093)
-- [Cho ER et al. Smoking Cessation and Short- and Longer-Term Mortality. NEJM Evid. 2024.](https://evidence.nejm.org/doi/abs/10.1056/EVIDoa2300272)
+- [Cho ER, et al. Smoking Cessation and Short- and Longer-Term Mortality. NEJM Evid. 2024.](https://evidence.nejm.org/doi/abs/10.1056/EVIDoa2300272)
 
 {{%/sources%}}
 

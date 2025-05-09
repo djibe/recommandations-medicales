@@ -164,7 +164,7 @@ Trame des éléments à relever pour un dossier médical complet.
 - Bilan lipidique selon les précédents et comorbidités
 - ASAT, ALAT initialement puis personnalisé
 - Ionogramme si IEC/ARA2 ou diurétique
-- TSH, vitamine B12, maladie cœliaque  
+- TSH, [vitamine B12]({{% relref "carence-vitamine-b12.md" %}}), maladie cœliaque  
   Initialement puis personnalisé
 
 ### Objectifs

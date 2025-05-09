@@ -185,7 +185,7 @@ Avis spécialisé (hématologue, interniste) en cas d'hyperéosinophilie persist
 - Examen parasitologique des selles 3 jours de suite
 - ± Scotch-test anal
 - Hyperéosinophilie (HE) persistante (*PNDS*)
-  - Tryptase, vitamine B12
+  - Tryptase, [vitamine B12]({{% relref "carence-vitamine-b12.md" %}})
   - [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}})
   - NT-proBNP, ECG, échodoppler cardiaque
 - Bilans selon certains profils:

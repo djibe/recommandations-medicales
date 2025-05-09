@@ -364,7 +364,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |
 | [Syndrome de Cushing]({{% relref "syndrome-cushing.md" %}}) | Étayer si: syndrome plurimétabolique, diabète déséquilibré sans cause évidente, symptômes | PNDS Cushing 2022 |
 | [Vaccins]({{% relref "vaccination.md" %}}) | [Covid-19]({{% relref "covid-19.md" %}}) et [grippe]({{% relref "grippe.md" %}}) annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
-| Vitamine B12 | Si metformine: dosage après 4 ans de traitement<br>Surveillance régulière et correction          | KDIGO 2022 diabetes<br>ADA/EASD 2022 |
+| [Vitamine B12]({{% relref "carence-vitamine-b12.md" %}}) | Si metformine depuis +4 ans: dosage et surveillance régulière | KDIGO 2022 diabetes<br>ADA/EASD 2022 |
 {{< /table >}}
 
 > **AAA** = anévrysme de l'aorte abdominale ; **MRC** = maladie rénale chronique ; **aspirine:** IPP si risque élevé de saignement digestif ;  

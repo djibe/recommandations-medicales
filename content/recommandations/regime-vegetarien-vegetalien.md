@@ -54,7 +54,7 @@ EPA+DHA
 {{%collapse "Régime végétarien" %}}
 
 > [!WARNING]
-> Les carences en **[vitamine D]({{% relref "vitamine-d.md" %}})** et **acides gras EPA+DHA** sont inévitables chez les végétariens malgré un régime optimisé. Le carence en **[vitamine B12](/tags/b12/)** a lieu en cas de faible consommation de produits laitiers.
+> Les carences en **[vitamine D]({{% relref "vitamine-d.md" %}})** et **acides gras EPA+DHA** sont inévitables chez les végétariens malgré un régime optimisé. Le carence en **[vitamine B12]({{% relref "carence-vitamine-b12.md" %}})** a lieu en cas de faible consommation de produits laitiers.
 
 Ces recommandations concernent le ==régime végétarien== (dit lacto-ovovégétarien) de l'adulte en bonne santé (hors femmes enceintes ou allaitantes, athlètes et personnes âgées). Les apports recommandés sont optimisés pour **limiter les carences** et les **excès de contaminations**.
 

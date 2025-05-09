@@ -206,7 +206,7 @@ La France est un pays de faible incidence d'*Helicobacter pylori*:
 - Autres
   - Toute endoscopie gastrique doit s'accompagner de biopsies
   - [Anémie ferriprive]({{% relref "anemie.md" %}}) sans cause retrouvée ou résistante à la supplémentation
-  - Carence en vitamine B12 sans cause retrouvée
+  - Carence en [vitamine B12]({{% relref "carence-vitamine-b12.md" %}}) sans cause retrouvée
   - Purpura thrombopénique immunologique de l'adulte
   - Souhait du patient
 
