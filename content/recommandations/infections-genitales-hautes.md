@@ -210,6 +210,11 @@ Prise en charge de l'endométrite du post-partum en l'absence de signes de gravi
 - [Vexiau-Robert D, et al; SFD. Leucorrhées. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/leucorrhees-c145eb55e49c2c5c6b7aa0e28b8a77ca.pdf)
 - [Janier M, et al. Gonococcie. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/gonococcie-8e5167e17549b4912a1f1a4b3011eda7.pdf)
 
+### Bibliographie en attente
+
+- [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées par Neisseria gonorrhoeae. 2025.](https://www.has-sante.fr/jcms/p_3604670/fr/recommandations-de-prise-en-charge-des-personnes-infectees-par-neisseria-gonorrhoeae)
+- [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
+
 {{%/sources%}}
 {{% modal title="Facteurs de risque d'infection sexuellement transmissible" id="modal-risque-ist"%}}
 

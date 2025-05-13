@@ -299,6 +299,9 @@ Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques e
 
 ### Bibliographie en attente
 
-[Janier M et al; Société Française de Dermatologie (SFD). Balanite. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/balanites-f5f2cf585640275406ec42b19340d0c8.pdf)
+- [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées par Neisseria gonorrhoeae. 2025.](https://www.has-sante.fr/jcms/p_3604670/fr/recommandations-de-prise-en-charge-des-personnes-infectees-par-neisseria-gonorrhoeae)
+- [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
+- [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Mycoplasma genitalium. 2025.](https://www.has-sante.fr/jcms/p_3604652/fr/traitement-curatif-des-personnes-infectees-par-mycoplasma-genitalium)
+- [Janier M et al; Société Française de Dermatologie (SFD). Balanite. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/balanites-f5f2cf585640275406ec42b19340d0c8.pdf)
 
 {{%/sources%}}

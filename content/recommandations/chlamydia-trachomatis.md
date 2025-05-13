@@ -180,7 +180,8 @@ PCR de contrôle à 6 mois
 
 ### Bibliographie en attente
 
-[Caumes E et al; Société Française de Dermatologie. Lymphogranulome vénérien (Maladie de Nicolas Favre). 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/lymphogranulome-venerien-maladie-de-nicolas-favre-1d34056eed4de0eb0768b25f7b4e3517.pdf)
+- [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
+- [Caumes E et al; Société Française de Dermatologie. Lymphogranulome vénérien (Maladie de Nicolas Favre). 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/lymphogranulome-venerien-maladie-de-nicolas-favre-1d34056eed4de0eb0768b25f7b4e3517.pdf)
 
 {{%/sources%}}
 {{% modele %}}

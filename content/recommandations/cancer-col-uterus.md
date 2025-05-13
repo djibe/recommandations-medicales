@@ -8,7 +8,7 @@ synonyms = ["Papillomavirus humains HPV", "dysplasies et condylomes"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2021-01-18T10:55:00+02:00"
 publishdate = "2022-04-20"
-lastmod = "2025-03-20"
+lastmod = "2025-05-13"
 specialites = ["gynécologie-obstétrique"]
 annees = "2021"
 sources = ["INCa", "HAS", "MinSanté"]
@@ -26,8 +26,7 @@ todo = "SEO | pharynx, source: Les infections a HPV deviennent indétectables au
 
 - Infection papillomavirus (HPV) nécessaire à l'apparition du cancer de l'utérus et des condylomes
 - << Le préservatif peut limiter le risque d'infection mais n'assure pas une protection efficace >> -- *INCa*
-- Vaccination papillomavirus pour tous de 11 à 19 ans (Gardasil 9®), généralisée en classe 5^e^  
-  Étendue à 26 ans pour les [hommes ayant des relations avec des hommes (HSH)]({{% relref "hsh.md" %}}). Pas de vaccination en une seule dose avant changement de l'AMM (*Infovac*)
+- Vaccination papillomavirus pour tous de 11 à 19 ans (Gardasil 9®), avec rattrapage jusqu'à 26 ans (*HAS 2025*). Pas de vaccination en une seule dose avant changement de l'AMM (*Infovac*)
 - Dépistage organisé du cancer du col de l'utérus de 25 à 65 ans (test HPV haut risque tous les 5 ans après 30 ans)
 - Dépistage ciblé du cancer anal
 
@@ -217,11 +216,9 @@ Indications au vaccin anti-HPV ([Gardasil 9®](https://ec.europa.eu/health/docum
   - Intérêt de co-administrer avec le rappel [dTcaPolio]({{% relref "vaccination.md" %}})
   - Vaccination des garçons depuis janvier 2021
   - Vaccination avec accord des parents des collégiens en 5e depuis la rentrée scolaire 2023
-- Rattrapage vaccinal de 15 à 19 ans révolus avec 3 doses  
-  - Schéma en 3 doses de 11 à 19 ans: Gardasil 9® à M0, M2 et M6
-  - Idem pour enfant/adolescent avec VIH de 11-19 ans
-- [HSH]({{% relref "hsh.md" %}})  
-  Jusqu'à 26 ans révolus avec schéma en 3 doses: Gardasil 9® à M0, M2 et M6
+- Rattrapage vaccinal de 15 à 26 ans révolus avec 3 doses  
+  - Schéma en 3 doses: Gardasil 9® à M0, M2 et M6
+  - Idem pour enfant/adolescent avec VIH de 11 ans et plus
 - Enfant/Adolescent transplanté ou en attente de transplantation jusqu'à 19 ans avec 3 doses
   - Possible à partir de 9 ans en prévision de transplantation d'organe solide
   - Schéma: Gardasil 9® à M0, M2 et M6
@@ -301,6 +298,7 @@ En cas de conisation ou trachélectomie simple ou élargie: Test HPV-HR à 6 moi
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Vaccination contre les papillomavirus : élargissement de la cohorte de rattrapage vaccinal chez les hommes et les femmes jusqu'à 26 ans révolus. 2025.](https://www.has-sante.fr/jcms/p_3605114/fr/vaccination-contre-les-papillomavirus-elargissement-de-la-cohorte-de-rattrapage-vaccinal-chez-les-hommes-et-les-femmes-jusqu-a-26-ans-revolus)
 - {{< references/calendrier-vaccinal >}}
 - [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. 20/09/2024.](https://www.e-cancer.fr/Professionnels-de-sante/Facteurs-de-risque-et-de-protection/Agents-infectieux/Prevenir-les-cancers-lies-aux-HPV)
 - [Inserm. Papillomavirus : faut-il généraliser la vaccination ?. 27/03/2023.](https://www.inserm.fr/actualite/papillomavirus-faut-il-generaliser-la-vaccination/)

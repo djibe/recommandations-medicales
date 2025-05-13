@@ -212,7 +212,16 @@ L'attention est portée sur l'acuité visuelle, le champ visuel, la vision crép
 
 | Catégorie | Sous-catégorie | Réglementation |
 |-----------|----------------|----------------|
-| 3.1.2 Déficience auditive sévère ou profonde
+| **3.1 Déficience auditive** isolée sans trouble de l'équilibre (testée sans correction auditive) <br> **Critère audition:** voix chuchotée entendue à 1 mètre et voix haute entendue à 5 mètres | **3.1.1 Déficience auditive modérée ou moyenne** | **Compatibilité:** avec mention restrictive sur le permis de conduire: code 42 (dispositif vision arrière et latérale adaptée).<br> Avis médical spécialisé si nécessaire. |
+|| **3.1.2 Déficience auditive sévère ou profonde** | **Compatibilité avec aménagement, si nécessaire, selon l'évaluation:** qui renvoie à l'évaluation décrite ci-dessous, réalisée dans l'ordre le plus approprié à la situation: <br>- Un avis favorable du médecin agréé après son examen médical. Il détermine notamment si la déficience auditive est isolée ou associée à un autre handicap ou pathologie qui entraînerait des conséquences sur la capacité à conduire;<br>- Une proposition, d'aménagement(s) du véhicule, en complément du <<< code 42 >>> et/ou d'appareillage(s) pour l'usager, si nécessaire, proposés par une équipe pluridisciplinaire qui inclut, au minimum, un médecin de la spécialité d'oto-rhino-laryngologiste (ORL), un ergothérapeute et un professionnel du secteur d'activité économique concerné;<br>- Un avis favorable du délégué ou de l'inspecteur du permis de conduire et de la sécurité routière qui est recueilli lors d'un test pratique lors de l'examen du permis de conduire ou lors d'une régularisation du permis de conduire. L'inspecteur vérifie que la conduite est réalisée en toute sécurité avec les aménagements et/ou appareillages nécessaires, le cas échéant.<br> Avis médical spécialisé si nécessaire. |
+|| **3.2.1 Vertige paroxystique bénin** | **Compatibilité définitive:** un avis médical spécialisé est recommandé dans tous les cas et, indispensable, en cas de récidive ou de troubles de l'équilibre résiduel. |
+| **3.2 Troubles de l'équilibre** | **3.2.2 Maladie de Ménière** | **Incompatibilité:** jusqu'à un avis médical spécialisé;<br>**Puis,**<br>**Compatibilité:** si le traitement est efficace et lui-même compatible avec la conduite;<br> **Ou, incompatibilité:** dans les autres cas. |
+|| **3.2.3.1 Apparentés aux labyrinthites - Phase aiguë** | **Incompatibilité:** jusqu'à un avis médical spécialisé; <br> **Puis, compatibilité:** si le traitement est efficace et lui-même compatible avec la conduite;<br> **Ou incompatibilité:** dans les autres cas. |
+|| **3.2.3.2 Apparentés aux labyrinthites - Uniquement dans les antécédents personnels** | **Compatibilité:** après avis médical spécialisé si nécessaire. |
+|| **3.2.4 Instabilité chronique** | **Incompatibilité définitive:** si l'affection est confirmée, après avis médical spécialisé. |
+| **3.3 Port d'une canule trachéale** || **Compatibilité ou incompatibilité:** après avis médical spécialisé si nécessaire. |
+| **3.4 Insuffisance respiratoire nécessitant une assistance ventilatoire ou un oxygénothérapie continue** || **Incompatibilité définitive** |
+| **3.5 Syndrome des apnées du sommeil** || Cf. paragraphe **4.3 Troubles du sommeil** |
 
 *Suite à venir.*
 

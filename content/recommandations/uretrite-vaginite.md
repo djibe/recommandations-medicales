@@ -156,6 +156,8 @@ La prise en charge d'une urétrite ou d'une cervicite non compliquée associe:
 
 ### Bibliographie en attente
 
+- [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées par Neisseria gonorrhoeae. 2025.](https://www.has-sante.fr/jcms/p_3604670/fr/recommandations-de-prise-en-charge-des-personnes-infectees-par-neisseria-gonorrhoeae)
+- [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
 - [Janier M, et al. MST et grossesse. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016.](https://www.sfdermato.org/upload/recommandations/mst-et-grossesse-8d334c94352709631c8240d4ff4466b7.pdf)
 - EAU
 - Collège gynéco p234

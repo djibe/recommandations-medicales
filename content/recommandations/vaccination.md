@@ -8,10 +8,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2025-04-28"
+lastmod = "2025-05-13"
 specialites = ["infectiologie", "pédiatrie", "thérapeutique"]
 annees = "2025"
-sources = ["MinSanté", "HCSP"]
+sources = ["MinSanté", "HAS", "HCSP"]
 tags = ["BPCO", "diabete", "grossesse", "prevention", "vaccin", "zona"]
 english = ["Immunization", "vaccination"]
 sctid = "33879002"
@@ -317,6 +317,7 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Vaccination contre les papillomavirus : élargissement de la cohorte de rattrapage vaccinal chez les hommes et les femmes jusqu'à 26 ans révolus. 2025.](https://www.has-sante.fr/jcms/p_3605114/fr/vaccination-contre-les-papillomavirus-elargissement-de-la-cohorte-de-rattrapage-vaccinal-chez-les-hommes-et-les-femmes-jusqu-a-26-ans-revolus)
 - [HAS. Grossesse : les vaccins recommandés. 2025.](https://www.has-sante.fr/jcms/p_3590575/fr/grossesse-les-vaccins-recommandes)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Stratégie de vaccination contre les infections invasives à méningocoques. 2025.](https://www.has-sante.fr/jcms/p_3597524/fr/strategie-de-vaccination-contre-les-infections-invasives-a-meningocoques)

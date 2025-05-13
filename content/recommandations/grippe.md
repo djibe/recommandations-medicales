@@ -7,7 +7,7 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2025-04-28"
+lastmod = "2025-05-10"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2024"
 sources = ["MinSanté", "HAS"]
@@ -152,8 +152,9 @@ Vaccins contre la grippe disponibles en France pour la campagne vaccinale pour l
 - FlucelvaxTetra®
 - Influvac Trivalent®
 - Vaxigrip Trivalent®
+- Chez les +65 ans, privilégier: Efluelda et Fluad (*HAS 2025*)
 
-Le vaccin intranasal Fluenz Tetra® n'est pas disponible en France.
+Le vaccin nasal Fluenz Tetra® n'est pas disponible en France.
 
 La campagne de vaccination a commencé le ==15 octobre 2024== (*DGS Urgent 2024_17*), prolongée jusqu'au 28 février 2025.
 
@@ -213,6 +214,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Vaccination contre la grippe saisonnière des personnes de 65 ans et plus. Place des vaccins Efluelda et Fluad. 2025.](https://www.has-sante.fr/jcms/p_3604446/fr/vaccination-contre-la-grippe-saisonniere-des-personnes-de-65-ans-et-plus-place-des-vaccins-efluelda-et-fluad)
 - {{< references/calendrier-vaccinal >}}
 - [Hanula R, et al. Evaluation of Oseltamivir Used to Prevent Hospitalization in Outpatients With Influenza: A Systematic Review and Meta-analysis. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2805976)
 - [CMIT. Grippe. Item 166. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-166.pdf)
