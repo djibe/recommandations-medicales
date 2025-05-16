@@ -111,9 +111,14 @@
                 {{ end }}
 
                 {{- with .Params.sources }}
+                  {{- $data := slice "CNGOF" "ESC" "HAS" "SPLF" }}
                   {{- range . }}
-                  <span class="header-params px-2">{{ . }}</span> &bull;
-                  {{ end }}
+                    {{ if in $data . }}
+                      <span class="header-params px-2 source source-{{ lower . }}" title="{{ . }}" data-toggle="tooltip" aria-label="{{ . }}"></span>
+                    {{ else }}
+                    <span class="header-params px-2">{{ . }}</span> &bull;
+                    {{ end -}}
+                  {{ end -}}
                 {{ end -}}
 
                 {{- if .Lastmod }}

@@ -674,6 +674,32 @@ article {
     background-color: #ff8b3e;
     color: #000;
   }
+
+  .source-cngof::before {
+    background-image: url("/images/logos/cngof.webp");
+  }
+  .source-esc::before {
+    background-image: url("/images/logos/esc.avif");
+  }
+  .source-has::before {
+    background-image: url("/images/logos/has.avif");
+  }
+  .source-splf::before {
+    background-image: url("/images/logos/splf.avif");
+  }
+  .source::before {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    //border-radius: 50%;
+    content: "";
+    display: inline-block;
+    margin-right: .5rem;
+    position: relative;
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+  }
 }
 
 @media (min-width: 1200px) {
