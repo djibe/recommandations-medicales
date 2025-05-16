@@ -18,7 +18,7 @@ sctid = "109841003"
 icd10 = ["C22.0"]
 image = true
 imageSrc = "Douleurs de l'hypocondre droit et ictère chez un homme de 80 ans faisant découvrir une large masse hépatique du lobe droit et de plus petites avec prise de contraste précoce, affirmant un carcinome hépatocellulaire (CHC). Cas de Mohammadtaghi Niknejad, Radiopaedia.org, rID: 21793"
-todo = "relecture en prévenant NASH/MASLD | séparer cirrhose et nodule"
+todo = "relecture AFEF demandée, en prévenant NASH/MASLD | séparer cirrhose et nodule"
 flowchart = true
 +++
 

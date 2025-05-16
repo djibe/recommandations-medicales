@@ -62,7 +62,6 @@ En France, chez les 40-75 ans, l'arthrose du genou atteint de **2 à 10%** des f
 ### Abréviations
 
 AAOS
-: AAOS
 : {{%lang%}}American Academy of Orthopaedic Surgeons{{%/lang%}}
 
 AH
@@ -74,6 +73,46 @@ AASAL
 SFR
 : Société Française de Rhumatologie
 {.dl-inline}
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Autres diagnostics à étayer devant des douleurs des genoux.
+
+### Douleurs aiguës du genou
+
+- Arthrite septique
+- Arthropathie microcristalline  
+  [Chondrocalcinose articulaire]({{% relref "rhumatisme-pyrophosphate-chondrocalcinose.md" %}}), [goutte]({{% relref "goutte.md" %}}).
+- Arthrite inflammatoire  
+  [Polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), [spondyloarthrite]({{% relref "spondylarthrite-ankylosante.md" %}}).
+- Synovite villonodulaire
+
+### Douleurs chroniques du genou
+
+- Coxarthrose (douleurs projetées)
+- Atteinte méniscale  
+  Début brutal, sujet jeune, blocages.
+- Ostéonécrose d'un condyle fémoral
+- Fissure du plateau tibial
+- Tumeur osseuse
+- Algodystrophie
+- Tendinopathie
+  - Tendinite rotulienne  
+    Douleur sous-rotulienne majorée à la montée/descente des escaliers, flexion.
+  - Tendinite quadricipitale  
+    Rare. Douleur sus-rotulienne. Rupture à bas bruit du sujet âgé. Échographie.
+  - Tendinite de la patte d'oie  
+    Douleur réveillée en palpation de face interne du tibia sous l'interligne fémoro-tibial interne. Déclenchée par flexion contrariée.
+- [Hygroma du genou]({{% relref "bursite.md" %}})
+  - Bursite pré-rotulienne, profession à risque. Tuméfaction molle, peu douloureuse, antérieure.
+  - Traitement par anti-inflammatoires AINS topiques, ponctions évacuatrices avec infiltration de corticoïdes.
+- Radiculalgie
+- Gonarthrose secondaire
+  - Arthrite chronique  
+  [Polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), [spondyloarthrite]({{% relref "spondylarthrite-ankylosante.md" %}}), arthrite septique, arthropathie métabolique.
+  - Ostéonécrose
+  - Maladie de Paget
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -118,46 +157,6 @@ L'évaluation clinique pour une gonarthrose recherche le retentissement sur les 
   Douleur augmentée: extension contrariée de jambe, palpation de rotule et pression genou fléchi, rabot, manœuvre de Zohlen (douleur en maintien de rotule lors de contraction du quadriceps).
 
 {{< card-link-external title="Examen vidéo du genou" url="https://www.lecofer.org/semiologie.php" subtitle="par le COFER" >}}
-
-{{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
-Autres diagnostics à étayer devant des douleurs des genoux.
-
-### Douleurs aiguës du genou
-
-- Arthrite septique
-- Arthropathie microcristalline  
-  [Chondrocalcinose articulaire]({{% relref "rhumatisme-pyrophosphate-chondrocalcinose.md" %}}), [goutte]({{% relref "goutte.md" %}}).
-- Arthrite inflammatoire  
-  [Polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), [spondyloarthrite]({{% relref "spondylarthrite-ankylosante.md" %}}).
-- Synovite villonodulaire
-
-### Douleurs chroniques du genou
-
-- Coxarthrose (douleurs projetées)
-- Atteinte méniscale  
-  Début brutal, sujet jeune, blocages.
-- Ostéonécrose d'un condyle fémoral
-- Fissure du plateau tibial
-- Tumeur osseuse
-- Algodystrophie
-- Tendinopathie
-  - Tendinite rotulienne  
-    Douleur sous-rotulienne majorée à la montée/descente des escaliers, flexion.
-  - Tendinite quadricipitale  
-    Rare. Douleur sus-rotulienne. Rupture à bas bruit du sujet âgé. Échographie.
-  - Tendinite de la patte d'oie  
-    Douleur réveillée en palpation de face interne du tibia sous l'interligne fémoro-tibial interne. Déclenchée par flexion contrariée.
-- [Hygroma du genou]({{% relref "bursite.md" %}})
-  - Bursite pré-rotulienne, profession à risque. Tuméfaction molle, peu douloureuse, antérieure.
-  - Traitement par anti-inflammatoires AINS topiques, ponctions évacuatrices avec infiltration de corticoïdes.
-- Radiculalgie
-- Gonarthrose secondaire
-  - Arthrite chronique  
-  [Polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), [spondyloarthrite]({{% relref "spondylarthrite-ankylosante.md" %}}), arthrite septique, arthropathie métabolique.
-  - Ostéonécrose
-  - Maladie de Paget
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

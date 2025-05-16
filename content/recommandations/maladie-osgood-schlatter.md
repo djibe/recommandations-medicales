@@ -77,6 +77,8 @@ Signes et symptômes de la maladie d'Osgood-Schlatter:
 
 Avis orthopédique rapide en cas de douleurs atypiques ou intenses.
 
+{{< youtube id="mKFcytLZiYc" title="Examen physique du genou (Sim Santé Rennes)" >}}
+
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 

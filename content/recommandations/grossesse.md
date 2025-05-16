@@ -351,6 +351,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{% rel
 {{% /collapse %}}
 {{%sources%}}
 
+- [US Preventive Services Task Force. Screening for Syphilis Infection During Pregnancy: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2025.](https://jamanetwork.com/journals/jama/fullarticle/2833883)
 - [HAS. Grossesse : les vaccins recommandés. 2025.](https://www.has-sante.fr/jcms/p_3590575/fr/grossesse-les-vaccins-recommandes)
 - {{< references/calendrier-vaccinal >}}
 - [Anses. Enrichir la farine en acide folique : une solution contre les malformations du tube neural chez les nouveau-nés. 2024.](https://www.anses.fr/fr/content/enrichir-la-farine-en-acide-folique-une-solution-contre-les-malformations-du-tube-neural)

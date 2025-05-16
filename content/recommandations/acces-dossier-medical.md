@@ -18,7 +18,7 @@ sctid = ""
 icd10 = []
 image = true
 imageSrc = "Illustration du dossier médical par vectorjuice / Freepik"
-todo = "Personne de confiance ?"
+todo = "Personne de confiance ?; APHP"
 +++
 
 {{%collapse "Accès au dossier médical, que dit la loi ?" %}}
@@ -67,7 +67,7 @@ Pour un professionnel libéral, contacter le [Conseil Départemental de l'Ordre 
 {{%collapse "Courrier de demande d'accès au dossier médical" %}}
 
 > [!INFO]
-> La demande d'accès au dossier médical doit être adressée par lettre recommandée avec accusé de réception ainsi que la copie de carte d'identité du demandeur.
+> La demande d'accès au dossier médical doit être adressée par **lettre recommandée avec accusé de réception** ainsi que la **copie de carte d'identité** du demandeur. Pour un ayant-droit, fournir également une copie du **livret de famille** (conjoint, enfants) ou un acte de notoriété ou de dévolution successorale.
 
 *Le texte est éditable mais ne sera pas sauvegardé.*
 

@@ -209,6 +209,9 @@ Ne pas réaliser de frottis cervical parmi les femmes suivantes de 25 à 65 ans:
 
 ### Vaccination contre les papillomavirus
 
+> [!INFO]
+> << [La HAS] souligne également que la vaccination est d'autant plus efficace qu'elle est réalisée précocement, et qu'il ne faut donc pas attendre l'âge adulte pour la mettre en œuvre. >> -- *HAS 2025*
+
 Indications au vaccin anti-HPV ([Gardasil 9®](https://ec.europa.eu/health/documents/community-register/2020/20201124149982/anx_149982_fr.pdf), seul recommandé):
 
 - Adolescent de 11 à 14 ans révolus avec 2 doses  

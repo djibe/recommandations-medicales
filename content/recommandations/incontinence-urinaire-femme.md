@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-17T16:53:27+02:00"
 publishdate = "2023-10-20"
-lastmod = "2023-10-20"
+lastmod = "2025-05-14"
 specialites = ["gynécologie-obstétrique", "urologie"]
 annees = "2009"
 sources = ["CNGOF", "Anaes"]
@@ -24,7 +24,7 @@ flowchart = true
 {{%article-summary%}}
 
 - L'incontinence urinaire est un diagnostic d'interrogatoire: << Vous arrive-t-il d'avoir des pertes ou des fuites d'urine ? >>. Il peut s'agir d'une incontinence urinaire d'effort, par impériosité ou mixte
-- Examen clinique rigoureux pour rechercher des facteurs favorisant l'incontinence urinaire, apprécier la sévérité et la qualité de vie. Le catalogue mictionnel sur 3 jours permet d'objectiver l'incontinence
+- Un examen clinique rigoureux est nécessaire pour rechercher des facteurs favorisant l'incontinence urinaire, apprécier la sévérité et la qualité de vie. Le catalogue mictionnel sur 3 jours permet d'objectiver l'incontinence
 - Bilan de l'incontinence urinaire: bandelette urinaire voire ECBU, échographie vésicale sus-pubienne si suspicion de résidu post-mictionnel, femme âgée ou traitement anticholinergique envisagé
 - La prise en charge de l'incontinence urinaire de la femme associe des mesures hygiéno-diététiques (boissons, surpoids, activité physique) et la rééducation périnéale. En cas d'échec le traitement anticholinergique ou la chirurgie sont envisagés
 - Avis urologique en cas de suspicion d'uropathie ou d'échec du traitement de première intention
@@ -96,36 +96,34 @@ Test à la toux
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Les examens complémentaires ne sont pas systématiques pour le bilan de l'incontinence urinaire.
+Les examens complémentaires ne sont pas systématiques pour le bilan de l'incontinence urinaire:
 
 - Si bandelette urinaire positive, non disponible ou hématurie: **ECBU**
-- si suspicion de résidu post-mictionnel (RPM), femme âgée ou anticholinergique envisagé: **échographie vésicale** sus-pubienne avec mesure du RPM
+- Si femme âgée, suspicion de résidu post-mictionnel (RPM) ou traitement anticholinergique envisagé: **échographie vésicale** sus-pubienne avec mesure du RPM
 - **Pad-test** optionnel: peser les protections pour quantifier l'abondance des fuites urinaires
 
-Pas d'examens spécialisés pendant la grossesse ou dans le postpartum immédiat. Le bilan urodynamique est restreint à l'appréciation de l'urologue.
+Pas d'examens spécialisés pendant la grossesse ou dans le post-partum immédiat. Le bilan urodynamique relève de l'urologue.
 {.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'incontinence urinaire" %}}
 
-### Mesures hygiéno-diététiques
-
-Mesures hygiéno-diététiques adaptées à l'incontinence urinaire:
+La prise en charge initiale de l'incontinence urinaire comprend une rééducation périnéale et des mesures hygiéno-diététiques:
 
 - Correction d'un surpoids
 - Adaptation de traitements favorisants
 - Activité physique régulière
-- Adaptation des apports liquidiens: 1,5 L/j en journée (avant 18h)
+- Adaptation des apports liquidiens: 1,5 L/j en journée (avant 18 heures)
 - Régularisation du transit intestinal
 - Femme âgée dépendante: nursing, mictions programmées, mobilisation, régularisation du transit
 
 ### Rééducation périnéale pour incontinence urinaire
 
-La **rééducation périnéale** par renforcement des muscles du plancher pelvien est réalisée par une sage-femme ou un kinésithérapeute (10 à 20 séances). Renouvelables si efficaces.
+La **rééducation périnéale** par renforcement des muscles du plancher pelvien est réalisée par une sage-femme ou un kinésithérapeute (10 à 20 séances), renouvelables si efficaces.
 
-Indications: incontinence urinaire d'effort ou mixte, incontinence urinaire pré et postnatale (persistante à 3 mois).
+**Indications:** incontinence urinaire d'effort ou mixte, incontinence urinaire pré et postnatale (persistante à 3 mois).
 
-La rééducation est possible durant la grossesse.
+La rééducation est possible durant la **grossesse**.
 
 Rééducation comportementale en cas d'urgenturie prédominante.
 
@@ -133,7 +131,7 @@ Rééducation comportementale en cas d'urgenturie prédominante.
 
 ### Traitements médicamenteux de l'incontinence urinaire
 
-Si urgenturie ou pollakiurie et ménopause: estrogènes par voie vaginale
+Si urgenturie ou pollakiurie et ménopause: estrogènes par voie vaginale.
 
 Femme +65 ans avec urgenturie ou incontinence urinaire mixte: anticholinergique **[oxybutynine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61198689&typedoc=R)**, chlorure de trospium avec un risque de **détérioration cognitive**.
 
@@ -160,6 +158,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Fernandes ACNL, et al. Pelvic floor muscle training with feedback or biofeedback for urinary incontinence in women. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009252.pub2/full/fr)
 - [Hay-Smith EJC, et al. Comparisons of approaches to pelvic floor muscle training for urinary incontinence in women. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009508.pub2/full/fr)
 - [Centre Belge d'Information Pharmacothérapeutique (CBIP). Les anticholinergiques font-ils perdre la mémoire ?. Folia. 2024.](https://www.cbip.be/fr/articles/4440?folia=4434)
 - Prescrire Redaction. Patients ayant une incontinence d'urine. Rev Prescrire. 2023.
@@ -171,6 +170,6 @@ graph TB
 ### Bibliographie en attente
 
 - [Okeahialam NA, et al. Pelvic floor muscle training: a practical guide. BMJ. 2022. (payant)](https://www.bmj.com/content/378/bmj-2022-070186)
-- [Harding CK, et al. EAU guidelines on management of non-neurogenic female lower urinary tract symptoms. 2023.](https://uroweb.org/guidelines/non-neurogenic-female-luts)
+- [Harding CK, et al. EAU guidelines on management of non-neurogenic female lower urinary tract symptoms. 2025.](https://uroweb.org/guidelines/non-neurogenic-female-luts)
 
 {{%/sources%}}

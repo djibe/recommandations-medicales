@@ -7,10 +7,10 @@ synonyms = ["Scabiose"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-12-16T16:50:41+01:00
 publishdate = "2020-12-15"
-lastmod = "2023-12-01"
+lastmod = "2025-05-15"
 specialites = ["dermatologie"]
-annees = "2021"
-sources = ["CMIT", "EADV", "CEDEF"]
+annees = "2024"
+sources = ["SFD", "CMIT", "EADV"]
 tags = ["IST", "prurit"]
 english = ["Scabies"]
 sctid = "128869009"
@@ -24,11 +24,13 @@ flowchart = true
 
 - La gale est une parasitose strictement humaine par le sarcopte
 - Évoquer une gale devant tout [prurit](/tags/prurit/)
-- Prise en charge de la gale
-  - Traitement concomitant de tout le foyer présentant un cas de gale par ivermectine orale (adaptée au poids) en 1 prise à renouveler 8 jours après  
+- La prise en charge de la gale associe:
+  - Un traitement concomitant de tout le foyer par ivermectine orale (adaptée au poids) en 1 prise à renouveler 8 jours après  
     ou traitement local par perméthrine crème (Topiscab®) 1 application le soir, renouveler à J8. Alternative: Ascabiol®
+  - Pour le petit enfant, la femme enceinte ou allaitante, voir *Traitement*
   - Désinfection du linge et de la literie
   - Éviction de la collectivité pendant 3 jours
+- Le prurit peut persister pendant un mois et les recontaminations sont possibles
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -164,14 +166,39 @@ Le prurit nocturne doit disparaître sous 2 semaines mais le prurit peut persist
 
 ### Traitement anti-scabieux
 
-En première intention pour le traitement de la gale, on peut utiliser la [perméthrine crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61712553&typedoc=R) ou l'ivermectine orale (préférée par le *CMIT* au-delà de 15 kg).
+En première intention pour le traitement de la gale, on peut utiliser la perméthrine crème ou l'ivermectine orale (préférée par le *CMIT* au-delà de 15 kg).
+
+Traitement de référence selon l'âge (*SFD 2024*):
+
+- **Adulte:** perméthrine ou ivermectine
+- **Enfant +2 ans:** perméthrine 1 application ou ivermectine  
+  Si échec: perméthrine, ivermectine ou benzoate de benzyle 2 applications de 24 heures.
+- **Nourrisson 1-2 ans:** perméthrine 1 application ou benzoate de benzyle 1 application de 12 heures  
+  Si échec: idem ou ivermectine.
+- **Nourrisson 2-11 mois:** perméthrine 1 seule application  
+  Si échec: perméthrine, benzoate de benzyle 1 application de 6 heures ou ivermectine.
+- **Nourrisson < 2 mois:** perméthrine 1 application
+- Enfants en garde collective: traitement collectif à partir de 2 cas, suivi 6 à 12 semaines
+- Femme enceinte:
+  - 1^er^ trimestre: perméthrine 1 application ou benzoate de benzyle 1 application de 24 heures, ivermectine en 2^e^ intention
+  - 2^e^ ou 3^e^ trimestre ou allaitement: tout traitement
+  - Cas contact: intérêt d'un traitement systématique, suggéré si seulement allaitante
+
+> Ivermectine à 200 µg/kg pendant le repas chez l'enfant; perméthrine appliquée 8 à 14 heures.
+
+Formes compliquées:
+
+- ==Hospitalisation== si: immunodéprimé, enfants, femmes enceintes ou allaitantes avec forme profuse et/ou hyperkératosique
+- Impétiginisation: [antibiothérapie]({{% relref "infection-cutanee-bacterienne.md" %}})
+- Persistance de nodules scabieux: [dermocorticoïdes]({{% relref "dermocorticoides" %}})
 
 #### Perméthrine (Topiscab® 5% crème)
 
-Appliquer le tube entier sur toute la peau (sauf visage). Laisser agir **au moins 8 heures**. Puis douche à l'eau et au savon.  
-**Renouveler le traitement à J8**.
+La [perméthrine 5%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61712553&typedoc=R) est le traitement de référence avant 1 an ou au 1er trimestre de grossesse.
 
-**Contre-indications**: allergie au produit, enfant < 2 mois
+Appliquer le tube entier sur toute la peau (sauf visage). Laisser agir **8 heures** à 14 heures. Puis douche à l'eau et au savon. ==**Renouveler le traitement à J8**==.
+
+**Contre-indications**: allergie au produit, enfant < 2 mois.
 
 {{< table title="Posologie de la perméthrine selon l'âge pour le traitement de la gale" class="table-sm" >}}
 | Âge         | Nombre tubes de 30 g |
@@ -188,7 +215,7 @@ Appliquer le tube entier sur toute la peau (sauf visage). Laisser agir **au moin
 
 Traitement oral de la gale par [ivermectine en une prise de 200 µg/kg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67988035&typedoc=R) et **rappel à J8** (*EADV*).
 
-Traitement de première intention de la gale selon le *CMIT*, à prendre au moins 2 heures avant ou après la prise de nourriture (*Prescrire*).
+Traitement de première intention de la gale selon le *CMIT*, à prendre au moins 2 heures avant ou après la prise de nourriture (*Prescrire*) sauf les enfants (*SFD*).
 
 **Contre-indications:** privilégier la perméthrine pendant la grossesse, allaitement, poids < 15 kg, traitement par ivermectine durant le mois.
 
@@ -210,13 +237,7 @@ Traitement de première intention de la gale selon le *CMIT*, à prendre au moin
 
 #### Autres traitements locaux de la gale
 
-~~Spregal® lotion~~, benzoate de benzyle 10-25% (Ascabiol®) à J1-J2-J8.
-
-### Prise en charge des formes particulières
-
-- Impétiginisation: [antibiothérapie]({{% relref "infection-cutanee-bacterienne.md" %}})
-- Persistance de nodules scabieux: dermocorticoïdes
-- Gale norvégienne: hospitalisation en dermatologie pour application de kératolytiques avant le traitement
+~~Spregal® lotion~~, [benzoate de benzyle 10%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69516026&typedoc=R) (Ascabiol®) répété à J8.
 
 ### Prurit résiduel après traitement
 
@@ -314,6 +335,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Morand A, et al. Management of scabies in children under 15 kg and pregnant or breastfeeding women: recommendations supported by the Centre of Evidence of the French Society of Dermatology. Br J Dermatol. 2024.](https://academic.oup.com/bjd/advance-article/doi/10.1093/bjd/ljae288/7717190)
 - [Collège des enseignants de dermatologie de France (CEDEF). Ectoparasitoses cutanées : gale et pédiculose. Item 171. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-171-%E2%80%94-Ectoparasitoses-cutanees-gale-et-pediculose_CompressPdf.pdf)
 - [CMIT, SFMTSI, SPILF, SMV. Gale. ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
 - [CMIT. Gale et pédiculose. Item 171. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-171-web.pdf)
@@ -321,9 +343,5 @@ graph TB
 - [Salavastru C et al; European Academy of Dermatology and Venereology. European guideline for the management of scabies. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14351)
 - [HCSP. Survenue de un ou plusieurs cas de gale. Conduite à tenir. 2012.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=312)
 - [Omedit Centre. Prise en charge et traitement des sujets atteints de gale. Mars 2010. (PDF)](https://www.omedit-centre.fr/medias/PEC-traitement-gale.pdf)
-
-### Bibliographie en attente
-
-[Morand A, et al. Management of scabies in children under 15 kg and pregnant or breastfeeding women: recommendations supported by the Centre of Evidence of the French Society of Dermatology. Br J Dermatol. 2024.](https://academic.oup.com/bjd/advance-article/doi/10.1093/bjd/ljae288/7717190)
 
 {{%/sources%}}

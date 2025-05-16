@@ -274,6 +274,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Jannot X, et al. Prise en charge d'une neutropénie fébrile post-chimiothérapie. La Revue de Médecine Interne. 2025.](https://www.sciencedirect.com/science/article/pii/S0248866325005363)
 - [Paret R, et al. Actualisation sur les stratégies de prise en charge antibiotique de la neutropénie fébrile en hématologie. Médecine et Maladies Infectieuses Formation. 2024. (payant)](https://www.sciencedirect.com/science/article/abs/pii/S2772743224005506)
 - {{< references/spilf-2020 >}}
 - [Bou Mitri F, et al. Neutropénie en dehors d'un contexte de chimiothérapie : bilan et prise en charge-recommandations du centre de référence. Perfectionnement en pédiatrie. 2020. (payant)](https://www.sciencedirect.com/science/article/abs/pii/S2588932X2030053X)

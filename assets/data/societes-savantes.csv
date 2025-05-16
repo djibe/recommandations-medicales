@@ -62,7 +62,7 @@ Société Nationale Française de Colo-Proctologie;SNFCP;hepato-gastro-enterolog
 Society of American Gastrointestinal and Endoscopic Surgeons;SAGES;hepato-gastro-enterologie;societe savante;https://www.sages.org/;https://www.sages.org//feed;https://www.sages.org/publications/guidelines/;No;No
 European Association for Endoscopic Surgery;EAES;hepato-gastro-enterologie;societe savante;https://eaes.eu/;https://eaes.eu//feed;https://eaes.eu/consensus-guideline-projects/;No;https://www.facebook.com/EAES.eu/
 Institut Pasteur;Pasteur;infectiologie;officiel;https://www.pasteur.fr/fr/recherche-actualites;No;https://www.pasteur.fr/fr/dossiers-jdr;No;https://x.com/institutpasteur
-Société de Pathologie Infectieuse de Langue Française;No;infectiologie;societe savante;https://www.infectiologie.com;No;https://www.infectiologie.com/fr/recommandations.html;No;https://x.com/spilf_
+Société de Pathologie Infectieuse de Langue Française;SPILF;infectiologie;societe savante;https://www.infectiologie.com;No;https://www.infectiologie.com/fr/recommandations.html;No;https://x.com/spilf_
 Société Française de Parasitologie;SFP;infectiologie;societe savante;https://sfparasitologie.com;https://sfparasitologie.com//feed;No;No;https://x.com/SFParasitologie
 Société de Médecine des Voyages;SMV;infectiologie;societe savante;https://www.medecine-voyages.fr/;https://www.medecine-voyages.fr/feed/;https://www.medecine-voyages.fr/les-articles-et-fiches-guides/;No;No
 Société Francophone de Médecine Tropicale et Santé Internationale;SFMTSI;infectiologie;societe savante;;No;No;No;No
@@ -87,6 +87,7 @@ Inspection Générale des Affaires Sociales;IGAS;medecine;officiel;https://www.i
 Direction Générale de la Santé;DGS;médecine;officiel;https://sante.gouv.fr/professionnels/article/dgs-urgent;No;No;No;No
 Ministère des Solidarités et de la Santé;Min. Santé;medecine;officiel;https://sante.gouv.fr/?max_articles=48;https://sante.gouv.fr/spip.php?page=backend;https://drees.solidarites-sante.gouv.fr/;No;https://www.facebook.com/Sante.Gouv/
 Haute Autorité de Santé;HAS;medecine;officiel;https://www.has-sante.fr/jcms/fc_2874902/fr/actualites;https://www.has-sante.fr/feed/Rss2.jsp?id=p_3081656;https://www.has-sante.fr/jcms/fc_2875208/fr/rechercher-une-recommandation-un-avis;https://www.has-sante.fr/feed/Rss2.jsp?id=p_3081452;https://x.com/HAS_sante
+National Institute for Health and Care Excellence;NICE;medecine;officiel;https://www.nice.org.uk/news;No;https://www.nice.org.uk/guidance;No;https://en-gb.facebook.com/NationalInstituteforHealthandCareExcellence/
 Haut Conseil de la Santé Publique;HCSP;medecine;officiel;https://www.hcsp.fr/explore.cgi/Accueil;No;https://www.hcsp.fr/Explore.cgi/AvisRapports;No;https://x.com/hcsp_fr
 Institut national de la santé et de la recherche médicale;Inserm;medecine;officiel;https://www.inserm.fr/actualites-et-evenements/actualites;https://www.inserm.fr/rss/feed/actualites-recherche;https://www.inserm.fr/information-en-sante/rapports-thematiques;No;https://x.com/Inserm
 Assistance Publique des Hôpitaux de Paris;APHP;medecine;officiel;https://www.aphp.fr/ressources-presse;No;No;No;https://x.com/APHP
@@ -126,6 +127,7 @@ Association Française d'Urologie;AFU;urologie;societe savante;https://www.urofr
 Société d'Andrologie de Langue Française;SALF;andrologie;societe savante;https://www.salf.fr;https://www.salf.fr/feed/;No;No;https://www.facebook.com/SALFpage/
 Association Française des Urologues en Formation;AFUF;urologie;association;https://afuf.fr;No;No;No;https://x.com/afufuro
 Société Francophone de Néphrologie Dialyse et Transplantation;SFNDT;néphrologie;societe savante;https://www.sfndt.org/actualites;https://www.sfndt.org/actualites/feed;https://www.sfndt.org/professionnels/recommandations;No;https://x.com/com_SFNDT
+Société Francophone de Transplantation;SFT;néphrologie;societe savante;https://sft.meditup.fr/actualites/;https://sft.meditup.fr/actualites/feed/;https://sft.meditup.fr/publications/;No;No
 International Society for Peritoneal Dialysis;ISPD;néphrologie;societe savante;https://ispd.org/category/whats-new/;https://ispd.org/feed/;https://ispd.org/guidelines/;No;https://x.com/pdiconnect
 European Renal Association - European Dialysis and Transplant Association;ERA-EDTA;néphrologie;societe savante;https://www.era-online.org;No;https://www.era-online.org/publications/;No;https://x.com/ERAkidney/
 Kidney Disease Improving Global Outcomes;KDIGO;néphrologie;societe savante;https://kdigo.org/category/news/;https://kdigo.org/category/news//feed;https://kdigo.org/guidelines/;No;https://x.com/gokdigo

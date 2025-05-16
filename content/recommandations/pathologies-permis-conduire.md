@@ -223,6 +223,8 @@ L'attention est portée sur l'acuité visuelle, le champ visuel, la vision crép
 | **3.4 Insuffisance respiratoire nécessitant une assistance ventilatoire ou un oxygénothérapie continue** || **Incompatibilité définitive** |
 | **3.5 Syndrome des apnées du sommeil** || Cf. paragraphe **4.3 Troubles du sommeil** |
 
+## Groupe lourd Classe IV - Pathologies neurologiques, psychiatriques et addictions {.mt-5}
+
 *Suite à venir.*
 
 {{%sources%}}

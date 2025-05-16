@@ -16,7 +16,7 @@ english = ["Hypothyroidism"]
 sctid = "40930008"
 icd10 = ["E03", "E03.9", "E06"]
 image = true
-imageSrc = "Illustration de l'hypothyroïdie par storyset / Freepik"
+imageSrc = "Échographie montrant un lobe droit hétérogène diffus avec une vascularisation légèrement augmentée affirmant une thyroïdite d'Hashimoto chez une femme de 40 ans. Cas d'Ammar Ashraf, Radiopaedia.org, rID: 157591"
 flowchart = true
 todo = "SEO TSH élevée > hypothyroidie traitement, grossesse et hypothyroïdie, infertilité et hypothyroïdie"
 +++

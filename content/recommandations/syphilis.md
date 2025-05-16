@@ -106,7 +106,7 @@ Recommandations pour le dépistage répété des personnes à risque de syphilis
 
 - Demande du patient (arrêt du préservatif, changement de partenaire, comportement à risque, accident de préservatif)
 - Toute consultation pour motif urologique ou gynécologique bénin
-- Grossesse
+- [Grossesse]({{% relref "grossesse.md" %}})
 - Première consultation avec personne jeune, population à risque, antécédent d'IST
 - Vulnérabilité  
   Parcours sentimental ou addictions.
@@ -403,6 +403,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [US Preventive Services Task Force. Screening for Syphilis Infection During Pregnancy: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2025.](https://jamanetwork.com/journals/jama/fullarticle/2833883)
 - [Service-Public. Infections sexuellement transmissibles : gratuité du dépistage en laboratoire. 02/09/2024.](https://www.service-public.fr/particuliers/actualites/A17530)
 - [Haut Conseil de la Santé Publique. Dépistage biologique de la syphilis guérie chez les donneurs de sang. 05/10/2023.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1348)
 - [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-162.pdf)
