@@ -149,6 +149,8 @@ Pour les cas les plus graves, une **colectomie subtotale** peut être envisagée
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="ApVS88rxACo" title="Diarrhées post-antibiotiques : le Clostridioides facile en ville (PRIMO & CRATB PDL)" >}}
+
 - [Rouillon D, et al. Analyse des prescriptions d'anti-infectieux dans la prise en charge des infections à Clostridioides difficiles. Le Pharmacien Clinicien. 2024.](https://www.sciencedirect.com/science/article/pii/S2772953224003058)
 - [Kelly CR, et al. ACG Clinical Guidelines: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections. Am J Gastroenterol. 2021.](https://journals.lww.com/ajg/fulltext/2021/06000/acg_clinical_guidelines__prevention,_diagnosis,.12.aspx)
 - [Poylin V, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Clostridioides difficile Infection. Dis Colon Rectum. 2021.](https://journals.lww.com/dcrjournal/fulltext/2021/06000/the_american_society_of_colon_and_rectal_surgeons.5.aspx)

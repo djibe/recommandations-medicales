@@ -111,7 +111,7 @@
                 {{ end }}
 
                 {{- with .Params.sources }}
-                  {{- $data := slice "CNGOF" "ESC" "HAS" "SPLF" }}
+                  {{- $data := slice "CNGOF" "ESC" "HAS" "SPILF" "SPLF" }}
                   {{- range . }}
                     {{ if in $data . }}
                       <span class="header-params px-2 source source-{{ lower . }}" title="{{ . }}" data-toggle="tooltip" aria-label="{{ . }}"></span>

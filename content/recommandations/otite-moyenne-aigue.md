@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-06T15:58:31+02:00"
 publishdate = "2023-06-08"
-lastmod = "2025-03-19"
+lastmod = "2025-05-17"
 specialites = ["ORL", "pédiatrie"]
-annees = "2024"
+annees = "2025"
 sources = ["HAS", "SPILF", "GPIP"]
 tags = ["enfant", "nourrisson", "vaccin"]
 english = ["Acute suppurative otitis media (ASOM)", "acute purulent otitis media"]
@@ -18,7 +18,7 @@ sctid = "194281003"
 icd10 = ["H66.0", "H66.9", "H72.9"]
 image = true
 imageSrc = "Otite moyenne aiguë purulente gauche non perforée (tympan inflammatoire et bombé). B. Welleschik, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "rank, outil, récidivantes, avion"
+todo = "rankok | outil, récidivantes, avion"
 flowchart = true
 +++
 
@@ -28,7 +28,7 @@ flowchart = true
 - La prise en charge de l'otite moyenne aiguë dépend de l'âge et de l'intensité des symptômes:
   - Nourrisson de moins de 3 mois: avis hospitalier urgent
   - Nourrisson de 3 à 23 mois: antibiothérapie systématique par amoxicilline 80 mg/kg/j (max 3 g/j) en 2 prises pendant 10 jours
-  - À partir de 2 ans et chez l'adulte: antibiotique uniquement si symptômes sévères (fièvre, otalgie) ou persistance des symptômes après 48 heures. L'antibiothérapie dure 5 jours (10 jours chez l'enfant si otorrhée ou récidive +4 jours après la fin des antibiotiques)
+  - À partir de 2 ans et chez l'adulte: antibiotique uniquement si symptômes sévères (fièvre, otalgie) ou persistance des symptômes après 48-72 heures. L'antibiothérapie dure 5 jours (10 jours chez l'enfant si otorrhée ou récidive après 4 jours d'arrêt des antibiotiques)
   - Avis spécialisé en cas d'échec de la première ligne d'antibiotiques de l'adulte
 - La prévention de l'otite moyenne aiguë passe par les désobstructions rhinopharyngées (DRP) et la vaccination anti-pneumococcique
 - Participer à l'[étude ADOMA](https://docs.google.com/forms/d/e/1FAIpQLScbwnGzkxnx_kIhvCsOoPgvq887krPBXgIqul_0a2drnt0gAQ/viewform) en soins primaires pour l'antibiothérapie différée de l'otite
@@ -69,7 +69,7 @@ SPILF
 Signes et symptômes d'otite moyenne aiguë à rechercher à l'examen:
 
 - Antécédents (otites, ORL)
-- Traitements antibiotiques récents
+- Traitements antibiotiques récents, antalgiques et heure de la dernière prise
 - Symptômes
   - Date et heure de début
   - Début brutal
@@ -120,9 +120,9 @@ Recommandations pour la prise en charge de l'otite moyenne aiguë selon l'âge:
 - Si ≥ 8 OMA/an avant 4 ans: adresser au pédiatre pour la recherche d'un déficit immunitaire héréditaire (DIH, *CNUP*)
 - Si ≥ OMA/an après 4 ans: bilan de DIH
 
-> -- *HAS, SPILF, GPIP 2024*
+> -- *HAS, SPILF, GPIP 2025*
 
-Dans tous les cas, DRP, traitement antalgique voire antipyrétique et nouvelle consultation à 48-72 heures en l'absence d'amélioration.
+**Mesures générales:** **DRP**, paracétamol (AINS si insuffisant) et nouvelle consultation à 48-72 heures en l'absence d'amélioration.
 
 > << des affections mineures, comme une rhinopharyngite, une otite, une laryngite, une bronchite ou une diarrhée modérée, ne sont pas des contre-indications à la vaccination. >> -- *[Infovac-France](https://www.infovac.fr/pratique-vaccinale/contre-indications-vaccinales)*
 
@@ -135,36 +135,39 @@ Recommandations pour la prise en charge par antibiotiques de l'otite moyenne aig
 
 #### Otite moyenne aiguë du nourrisson de 3 à 23 mois
 
-Antibiothérapie systématique pendant **10 jours**:
+Antibiothérapie systématique pendant ==**10 jours**==:
 
-- ==[Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66773446&typedoc=R) 80 mg/kg/j (max 3 g/j) en **2 prises**== (80-100 selon *GPIP 2023*)
-- Syndrome otite-conjonctivite: amoxicilline/acide clavulanique 1,5 dose/kg x 2/j (80 mg/kg/j en 2 prises) ou amoxicilline (idem ci-dessus selon *GPIP 2023*)
-- Si allergie documentée aux pénicillines: [céfpodoxime](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67932983&typedoc=R) 8 mg/kg/j (max 400 mg/j) en 2 prises
-- Si allergie aux bêta-lactamines: triméthoprime-sulfaméthoxazole 6/30 mg/kg/j (max 160/800 mg/j) en 2 prises
+- ==[Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66773446&typedoc=R) 80 mg/kg/j en **2 prises**== (max 3 g/j)
+- Syndrome otite-conjonctivite: amoxicilline/acide clavulanique 1,5 dose/kg x 2/j (80 mg/kg/j en 2 prises)
+- Si allergie:
+  - documentée aux pénicillines: [céfpodoxime](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67932983&typedoc=R) 8 mg/kg/j en 2 prises (max 400 mg/j)
+  - aux bêta-lactamines: [triméthoprime-sulfaméthoxazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69464049&typedoc=R) 6/30 mg/kg/j en 2 prises (max 160/800 mg/j)
 
 #### Otite moyenne aiguë de l'enfant de plus de 2 ans
 
-Antibiothérapie si: symptômes mal tolérés, otorrhée ou aggravation après 48 heures de surveillance **pendant 5 jours** (10 jours si **otorrhée** ou **otite récidivante** > 4 jours après l'arrêt des antibiotiques):
+Antibiothérapie si: symptômes mal tolérés, otorrhée ou aggravation après 48-72 heures de surveillance **pendant ==5 jours==** (==10 jours== si **otorrhée** ou **otite récidivante** > 4 jours après l'arrêt des antibiotiques):
 
-- ==Amoxicilline 80 mg/kg/j (max 3 g/j) en 2 prises== (80-100 selon *GPIP 2023*)
-- Syndrome otite-conjonctivite: amoxicilline/acide clavulanique 1,5 dose-kg x 2/j (80 mg/kg/j en 2 prises, max 3 g/j) ou amoxicilline (idem ci-dessus selon *GPIP 2023*)
-- Si allergie: céfpodoxime 8 mg/kg/j (max 400 mg/j) en 2 prises
-- Si allergie aux bêta-lactamines: triméthoprime-sulfaméthoxazole 6/30 mg/kg/j (max 160/800 mg/j) en 2 prises
+- ==Amoxicilline 80 mg/kg/j en 2 prises== (max 3 g/j)
+- Syndrome otite-conjonctivite: amoxicilline/acide clavulanique 1,5 dose-kg x 2/j (80 mg/kg/j en 2 prises, max 3 g/j)
+- Si allergie:
+  - documentée aux pénicillines: céfpodoxime 8 mg/kg/j en 2 prises (max 400 mg/j)
+  - aux bêta-lactamines: triméthoprime-sulfaméthoxazole 6/30 mg/kg/j en 2 prises (max 160/800 mg/j)
 
 #### Otite moyenne aiguë de l'adulte
 
-Si indication, antibiothérapie pendant **5 jours**:
+Si indication, antibiothérapie pendant ==**5 jours**==:
 
 - Amoxicilline 1g x 3/j
-- Si allergie documentée aux pénicillines: céfuroxime 250 mg x 2/j  
-  ou céfpodoxime 200 mg x 2/j
-- Si allergie aux bêta-lactamines: triméthoprime-sulfaméthoxazole 160/800 x 2/j  
+- Si allergie documentée:
+  - aux pénicillines: céfuroxime 250 mg x 2/j  
+    ou céfpodoxime 200 mg x 2/j
+  - aux bêta-lactamines: triméthoprime-sulfaméthoxazole 160/800 x 2/j  
   ou pristinamycine 1g x 2/j
 
-### En cas d'échec de l'antibiothérapie à 48 heures
+### En cas d'échec de l'antibiothérapie à 72 heures
 
 > [!WARNING]
-> Avis spécialisé ORL en cas d'échec à 48-72 heures chez l'adulte (*HAS/SPILF 2024*).
+> Avis spécialisé ORL en cas d'échec à 72 heures chez l'adulte (*HAS/SPILF 2025*).
 
 Échec de l'antibiothérapie de l'otite moyenne aiguë (*GPIP 2023*)
 : - Persistance ou aggravation pendant l'antibiothérapie
@@ -174,7 +177,7 @@ Si indication, antibiothérapie pendant **5 jours**:
 {{%warning%}}
 En cas d'échec de la première ligne **chez l'enfant** (*GPIP 2023*):
 
-- Par amoxicilline: ==amoxicilline/acide clavulanique 80 mg/kg/j (max 3 g/j) en 2 prises pendant 10 jours==  
+- Par amoxicilline: amoxicilline/acide clavulanique 80 mg/kg/j (max 3 g/j) en 2 prises pendant 10 jours  
   voire céfpodoxime 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 10 jours
 - Par céfpodoxime: amoxicilline 150 mg/kg (max 3 g/j) en 3 prises pendant 10 jours
 - Par amoxicilline/acide clavulanique: ceftriaxone 50 mg/kg/j IM/IV pendant 3 jours
@@ -183,12 +186,12 @@ En cas d'échec de la première ligne **chez l'enfant** (*GPIP 2023*):
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'otite moyenne aiguë" "show" %}}
 
-{{< mermaid title="Recommandations pour la prise en charge de l'otite moyenne aiguë. Dr JB Fron d'après HAS/SPILF/GPIP 2024 et GPIP 2023" >}}
+{{< mermaid title="Recommandations pour la prise en charge de l'otite moyenne aiguë. Dr JB Fron d'après HAS/SPILF/GPIP 2025 et GPIP 2023" >}}
 graph TB
 OMAP["Otite moyenne aiguë<br>purulente (OMAP)"] --> 3mois("<b>&lt; 3 mois</b><br>ou suspicion de<br>complication") --> hôpital("Avis hospitalier<br>urgent")
 style OMAP stroke:#4150f5, stroke-width:1px
   OMAP --> 2ans("<b>3-23 mois</b>") --> antibiothérapie("<b>Antibiothérapie 10 jours:</b><br>- Amoxicilline 80 mg/kg/j<br>en 2 prises<br>- Sd otite-conjonctivite:<br>amox-clavulanique 1,5 dose-kg x 2/j<br>- Allergie: céfpodoxime 8 mg/kg/j<br>en 2 prises") -. Échec .-> échec("<b>Après échec de 1re ligne:</b><br>- Si amoxicilline: amox-clavulanique<br>80/mg/kg/j 10j<br>voire céfpodoxime 8 mg/kg/j<br>- Si céfpodoxime: amox 150 mg/kg 10j<br>- Si amox/clavulanique: ceftriaxone 50 mg/kg/j 3j")
-  OMAP --> adulte("<b>≥ 2 ans, adulte</b><br>avec symptômes<br>peu intenses") --> abstention(Abstention) -. "Persistance<br> après 48h" .-> réévaluation("Réévaluation") -.-> atb
+  OMAP --> adulte("<b>≥ 2 ans, adulte</b><br>avec symptômes<br>peu intenses") --> abstention(Abstention) -. "Persistance<br> après 48-72h" .-> réévaluation("Réévaluation") -.-> atb
   adulte -- "Otorrhée,<br>mauvaise tolérance" --> atb(Antibiothérapie 5j:<br>amoxicilline<br>Enfant: 10j si otorrhée) -. "Échec 72h<br>enfant" .-> échec
     atb -. "Échec 72h<br>adulte" .-> spécialiste(Avis spécialisé)
 {{< /mermaid >}}
@@ -198,8 +201,8 @@ style OMAP stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS, SPILF. Choix et durées d'antibiothérapies : Otite moyenne aiguë purulente de l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722670/fr/choix-et-durees-d-antibiotherapies-otite-moyenne-aigue-purulente-de-l-adulte)
-- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Otite moyenne aiguë purulente de l'enfant. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722749/fr/choix-et-durees-d-antibiotherapies-otite-moyenne-aigue-purulente-de-l-enfant)
+- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Otite moyenne aiguë purulente de l'enfant. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/c_2722749/fr/choix-et-durees-d-antibiotherapies-otite-moyenne-aigue-purulente-de-l-enfant)
+- [HAS, SPILF. Choix et durées d'antibiothérapies : Otite moyenne aiguë purulente de l'adulte. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/c_2722670/fr/choix-et-durees-d-antibiotherapies-otite-moyenne-aigue-purulente-de-l-adulte)
 - [Cohen R, et al. Antimicrobial treatment of ENT infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001471)
 - [CMIT. Otites infectieuses de l'adulte et de l'enfant. Item 150. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-150.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Otites infectieuses de l'adulte et de l'enfant. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/otites)

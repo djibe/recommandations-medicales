@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-10T13:36:06+02:00"
 publishdate = "2022-11-07"
-lastmod = "2024-07-25"
+lastmod = "2025-05-18"
 specialites = ["infectiologie", "urologie"]
-annees = "2024"
+annees = "2025"
 sources = ["HAS", "SPILF"]
 tags = ["douleur pelvienne", "fievre", "grossesse"]
 english = ["Urinary tract infections"]
@@ -35,7 +35,7 @@ Recommandations pour le traitement des infections urinaires communautaires de l'
 - **Cystite aiguë à {{< modal-btn modal-fdr-complication >}}risque de complication{{< /modal-btn >}} ou infection urinaire masculine pauci-symptomatique**  
   Privilégier si possible un traitement différé adapté à l'antibiogramme.
 - **Pyélonéphrite aiguë simple**  
-  Vérifier les indications à l'hospitalisation, ECBU en urgence puis ciprofloxacine 500 mg x 2/j et réadaptation avec l'antibiogramme.
+  Vérifier les critères d'hospitalisation, ECBU en urgence puis ciprofloxacine 500 mg x 2/j et réadaptation avec l'antibiogramme.
 - **Pyélonéphrite avec {{< modal-btn modal-fdr-complication >}}facteur de risque de complication{{< /modal-btn >}} sans signe de gravité**  
   Bilan biologique, uroscanner et antibiothérapie probabiliste identique à la PNA simple.
 - **Infection urinaire masculine** (voir section dédiée plus bas)
@@ -45,7 +45,7 @@ Recommandations pour le traitement des infections urinaires communautaires de l'
   - Cystite: ECBU, antibiothérapie probabiliste puis ECBU de contrôle et mensuel
   - Pyélonéphrite: *Urgences*
 
-Chapitres liés: [infections urinaires chez l'enfant]({{% relref "infection-urinaire-enfant.md" %}}), [infections génitales de l'homme]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}})
+Chapitres liés: [infections urinaires chez l'enfant]({{% relref "infection-urinaire-enfant.md" %}}), [infections génitales de l'homme]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}}) et [urétrite de la femme]({{% relref "uretrite-vaginite.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "BU et ECBU" %}}
@@ -54,7 +54,7 @@ Chapitres liés: [infections urinaires chez l'enfant]({{% relref "infection-urin
 
 La bandelette urinaire détecte une leucocyturie (seuil 10^4^ leucocytes/mm³) ou des nitrites signant une entérobactérie.
 
-Devant des signes évocateurs d'infection urinaire (IU) chez l'immunocompétent, une bandelette urinaire normale permet d'éliminer une IU chez la femme (VPN +95%) ou en faveur d'infection urinaire masculine lorsqu'elle est positive (VPP +90%).
+Devant des signes évocateurs d'infection urinaire (IU) chez l'immunocompétent hors pyélonéphrite, une bandelette urinaire normale permet d'éliminer une IU chez la femme (VPN +95%) ou en faveur d'infection urinaire masculine lorsqu'elle est positive (VPP +90%).
 {.alert .alert-info}
 
 **NB.** Une BU peut être réalisée en pharmacie en cas de suspicion de cystite simple. La patiente peut être traitée par un pharmacien formé en cas de positivité.
@@ -204,10 +204,8 @@ Prophylaxie des cystites récidivantes:
 Cette section concerne uniquement la femme non enceinte (la femme enceinte et l'homme ont une section dédiée).
 
 Pyélonéphrite aiguë (PNA)
-: Infection urinaire le plus souvent bactérienne atteignant le rein.
+: Infection urinaire le plus souvent bactérienne atteignant le rein, l'ECBu est systématique.
 : Signes fonctionnels urinaires avec douleurs en fosse lombaire unilatérale (spontanée ou provoquée), signes digestifs, signes généraux (fièvre, frissons).
-
-> BU et si positive **ECBU**.
 
 {{%warning%}}
 
@@ -256,10 +254,10 @@ Antibiothérapie probabiliste de la pyélonéphrite aiguë simple juste **après
 
 En présence d'une pyélonéphrite avec {{< modal-btn modal-fdr-complication >}}facteur de risque de complication{{< /modal-btn >}} sans signe de gravité:
 
-- Bilan biologique: CRP, créatininémie
-- Uroscanner en urgence (max 24h). Échographie rénale si contre-indiqué.
+- Bilan biologique: CRP, créatininémie, ECBU systématique
+- **Uroscanner** en urgence (sous 24h). Échographie rénale si contre-indiqué.
 
-Antibiothérapie **identique à la pyélonéphrite aiguë simple** (chapitre précédent) pendant 10 jours.
+==**Antibiothérapie identique à la pyélonéphrite aiguë simple**== (voir ci-dessus) pendant **10 jours**.
 
 **Réévaluation systématique à 72 heures**. ECBU de contrôle uniquement en cas d'évolution défavorable après 72 heures.
 
@@ -357,13 +355,13 @@ Traitement prolongé 21 jours si uropathie non corrigée ou autre antibiotique.
 {{% /collapse %}}
 {{%collapse "Prise en charge des infections urinaires" "show" %}}
 
-{{< mermaid title="Prise en charge d'une pyélonéphrite en ambulatoire. Dr JB Fron d'après HAS/SPILF 2024" >}}
+{{< mermaid title="Prise en charge d'une pyélonéphrite en ambulatoire. Dr JB Fron d'après HAS/SPILF 2025. L'ECBU est systématique" >}}
 graph TB
-  pna[Pyélonéphrite aiguë] --> gravite("Gravité, grossesse ou obstacle ?<br>- qSOFA ≥ 2<br>- Choc septique")
+  pna["Pyélonéphrite aiguë (PNA)"] --> gravite("Gravité, grossesse ou obstacle ?<br>- qSOFA ≥ 2<br>- Choc septique")
   gravite -- Non --> homme(Homme ?)
-    homme -- Non --> complication("<b>Facteur de risque<br>de complication ?</b><br>—<br>- Uropathie<br>- Acte uro récent<br>- +75 ans<br>- +65 ans avec 3 fragilités<br>- IRC sévère<br>- Immunodépression grave")
-      complication -- Non --> simple(PNA simple)
-      complication -- Oui --> arisque("PNA à risque de complication<br>—<br>- Biologie<br>- Uroscanner urgent")
+    homme -- Non --> complication("<b>Facteur de risque<br>de complication ?</b><br>—<br>- +75 ans<br>- +65 ans avec 3 fragilités<br>- Uropathie<br>- Acte urologique récent<br>- IRC sévère<br>- Immunodépression grave")
+      complication -- Non --> simple(PNA simple) --> antibiotique("ECBU, antibiothérapie<br>probabiliste puis adaptée")
+      complication -- Oui --> arisque("PNA à risque de complication<br>—<br>- CRP, créatinine, ECBU<br>- Uroscanner urgent") --> antibiotique
     homme -- Oui --> masculine(IU masculine)
   gravite -- Oui --> urgences(Urgences)
   style pna stroke:#4150f5, stroke-width:1px
@@ -372,8 +370,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, SPILF. Choix et durées d'antibiothérapies : Pyélonéphrite aiguë de la femme. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/c_2722914/fr/choix-et-durees-d-antibiotherapies-pyelonephrite-aigue-de-la-femme)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Cystite aiguë simple, à risque de complication ou récidivante, de la femme. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722827/fr/choix-et-durees-d-antibiotherapies-cystite-aigue-simple-a-risque-de-complication-ou-recidivante-de-la-femme)
-- [HAS, SPILF. Choix et durées d'antibiothérapies : Pyélonéphrite aiguë de la femme. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722914/fr/choix-et-durees-d-antibiotherapies-pyelonephrite-aigue-de-la-femme)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Femme enceinte : colonisation urinaire et cystite. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722927/fr/choix-et-durees-d-antibiotherapies-femme-enceinte-colonisation-urinaire-et-cystite)
 - [Williams G, et al. Cranberries for preventing urinary tract infections. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001321.pub7/full/fr)
 - [HAS. Antibiogrammes ciblés pour les infections urinaires à Entérobactéries dans la population féminine adulte (à partir de 12 ans). 2023.](https://www.has-sante.fr/jcms/p_3262788/fr/antibiogrammes-cibles-pour-les-infections-urinaires-a-enterobacteries-dans-la-population-feminine-adulte-a-partir-de-12-ans)

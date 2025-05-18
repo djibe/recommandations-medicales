@@ -81,11 +81,11 @@ Dépistage rapproché chez le +50 ans.
 
 1. Normotension  
   Pressions au cabinet et ambulatoires normales. Rythme de surveillance selon le tableau ci-dessus.
-1. Hypertension permanente  
+2. Hypertension permanente  
   Hypertension au cabinet et au domicile. Traitement selon tableau ci-dessus.
-1. Hypertension blouse blanche (15-25 %)  
+3. Hypertension blouse blanche (15-25 %)  
   Hypertension au cabinet et absente au domicile. RHD et dépistage annuel. Envisager un traitement en {{%modal-btn "modal-rcv"%}}risque cardiovasculaire élevé ou très élevé{{%/modal-btn%}}
-1. Hypertension masquée (10-20 %)  
+4. Hypertension masquée (10-20 %)  
   Hypertension absente au cabinet et observée au domicile. Automesures au moindre doute ([Hundemer et al 2025](https://www.sciencedirect.com/science/article/pii/S2589790X25000356)). RHD et traitement selon le grade de l'hypertension.
 
 ### Stades d'hypertension artérielle
@@ -150,7 +150,7 @@ TZD
 ### Épidémiologie de l'hypertension artérielle
 
 - En France
-  - Prévalence: 30% chez l'adulte avec 17 millions de sujets (+60% ont +60 ans, *BEH 2023*)  
+  - Prévalence: 30% chez l'adulte avec 17 millions d'hypertendus (+60% ont +60 ans, *BEH 2023*)  
     Parmi lesquels 6 millions ne le savent pas et 4 millions ne sont pas contrôlés.
 - Dans le monde
   - 1,28 milliard d'hypertendus (150 millions en Europe)

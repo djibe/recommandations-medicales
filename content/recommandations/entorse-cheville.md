@@ -18,7 +18,7 @@ sctid = "44465007"
 icd10 = ["S93.4"]
 image = true
 imageSrc = "Ligaments de la cheville et du pied. Henry Vandyke Carter, Public domain, via Wikimedia Commons"
-todo = "rankok, flow"
+todo = "rankok, flow HAS"
 +++
 
 {{%article-summary%}}
@@ -168,6 +168,7 @@ Prise en charge de l'entorse de la cheville par le protocole << RICE >> ({{%lang
 - Si douleurs marquées ou entorse de moyenne gravité: orthèse de la cheville (dite attelle) 3 semaines
 - Si entorse de moyenne gravité, entorse grave ou récidivante: **rééducation** intensive par kinésithérapeute
 - Si entorse moyenne ou grave: reprise du sport à 6 (12 si grave) semaines avec chevillère souple
+- Information du patient: [guide HAS](https://www.has-sante.fr/jcms/p_3602839/fr/entorse-de-cheville)
 
 La **réévaluation** sous 3 à 5 jours est systématique si l'évaluation initiale est limitée par la douleur.
 
@@ -177,6 +178,7 @@ Lors de la réévaluation à J3-J5, en cas de douleurs marquées:
 - Discuter un plâtre 3 semaines avec appui partiel et béquilles
 
 Le développement d'une **algodystrophie** est possible (⅓ ont des douleurs à 1 an).
+{.alert .alert-info}
 
 {{% /collapse %}}
 {{%sources%}}
@@ -191,5 +193,9 @@ Le développement d'une **algodystrophie** est possible (⅓ ont des douleurs à
 - [Anaes. Rééducation de l'entorse externe de la cheville. Recommandations pour les pratiques de soins. 2000.](https://www.has-sante.fr/jcms/c_272398/fr/reeducation-de-l-entorse-externe-de-la-cheville)
 - [Vermeulen B, et al; Société Francophone d'Urgences Médicales. L'entorse de la cheville au service d'Urgences. 1995.](https://www.sfmu.org/fr/vie-professionnelle/outils-professionnels/consensus//entorse-de-cheville/con_id/174)
 - [Stiell IG, et al. A study to develop clinical decision rules for the use of radiography in acute ankle injuries. Ann Emerg Med. 1992.](https://www.annemergmed.com/article/S0196-0644(05)82656-3/abstract)
+
+### Bibliographie en attente
+
+[HAS. Entorse du ligament collatéral latéral (ligament latéral externe) de cheville : diagnostic, rééducation et reprise de l’activité physique et de la pratique sportive. 2025.](https://www.has-sante.fr/jcms/p_3460983/fr/entorse-du-ligament-collateral-lateral-ligament-lateral-externe-de-cheville-diagnostic-reeducation-et-reprise-de-l-activite-physique-et-de-la-pratique-sportive)
 
 {{%/sources%}}

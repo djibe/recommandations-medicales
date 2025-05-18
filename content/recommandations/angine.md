@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2024-07-23"
+lastmod = "2025-05-18"
 specialites = ["ORL", "pédiatrie"]
-annees = "2024"
+annees = "2025"
 sources = ["HAS", "SPILF", "GPIP"]
 tags = ["enfant", "adolescent"]
 english = ["Tonsillitis"]
@@ -159,11 +159,11 @@ La sensibilité du TDR chez l'enfant est de 85%.
 {{% /collapse %}}
 {{%collapse "Traitement de l'angine" %}}
 
-Prise en charge de l'angine:
+la prise en charge de l'angine associe:
 
 - Angine streptococcique: éviction scolaire les 48 premières heures suivant l'instauration de l'antibiothérapie
 - Antalgique, antipyrétique  
-  Paracétamol voire [tramadol]({{% relref "antalgie-enfant.md" %}}).
+  Paracétamol voire [tramadol]({{% relref "antalgie-enfant.md" %}}) ou ibuprofène pour les douleurs.
 - Pas de corticoïdes
 - La persistance de fièvre, dysphagie après 3 jours doit faire évoquer une infection intercurrente.
 - Scarlatine: traitement et éviction identiques
@@ -249,7 +249,7 @@ Rechercher:
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'angine" "show" %}}
 
-{{< mermaid title="Prise en charge de l'angine selon le tableau clinique. Dr JB Fron d'après GPIP 2023, SPILF/HAS 2016 et HAS 2021" >}}
+{{< mermaid title="Prise en charge de l'angine selon le tableau clinique. Dr JB Fron d'après HAS, SPILF, GPIP 2025" >}}
 graph TB
   angine[Angine érythémateuse<br>ou érythémato-pultacée] --> moins3("&lt; 3 ans") --> viral(Virale)
   style angine stroke:#4150f5, stroke-width:1px
@@ -266,8 +266,8 @@ graph TB
 
 {{< youtube id="NtXLF4DnCYY" title="Infections à Streptocoque du groupe A (CRAtb Pays de la Loire)" >}}
 
+- [HAS, SPILF. Choix et durées d'antibiothérapies : angine aiguë de l'enfant. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/p_3529229/fr/choix-et-durees-d-antibiotherapies-angine-aigue-de-l-enfant)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : angine aiguë de l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3529230/fr/choix-et-durees-d-antibiotherapies-angine-aigue-de-l-adulte)
-- [HAS, SPILF. Choix et durées d'antibiothérapies : angine aiguë de l'enfant. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3529229/fr/choix-et-durees-d-antibiotherapies-angine-aigue-de-l-enfant)
 - [Conseil scientifique du Collège National des Généralistes Enseignants (CNGE). Antibiotiques dans l'angine à streptocoque A : faut-il continuer ? Avis du conseil scientifique. 2024. (PDF)](https://www.cnge.fr/wp-content/uploads/2024/05/240430_CS_CNGE-angine_Vsite.pdf)
 - [Cohen R, et al. Antimicrobial treatment of ENT infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001471)
 - [CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 149. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-149-web.pdf)
@@ -284,13 +284,13 @@ graph TB
 {{%/sources%}}
 {{% modele %}}
 
-**Adulte** avec TDR positif (*HAS/SPILF 2024*)
+**Adulte** avec TDR positif (*HAS/SPILF 2025*)
 
 Amoxicilline 1g 2 fois par jour pendant 6 jours
 
 ---
 
-**Enfant +3 ans** avec TDR positif (*HAS/SPILF/GPIP 2024*)
+**Enfant +3 ans** avec TDR positif (*HAS/SPILF/GPIP 2025*)
 
 - Amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises pendant 6 jours
 - Éviction scolaire les 48 premières heures (*AssurMaladie*)

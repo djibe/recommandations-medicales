@@ -8,9 +8,9 @@ synonyms = ["Rhinosinusites infectieuses aiguës"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-18T09:20:00+02:00"
 publishdate = "2021-01-18"
-lastmod = "2024-07-27"
+lastmod = "2025-05-18"
 specialites = ["ORL"]
-annees = "2024"
+annees = "2025"
 sources = ["HAS", "SPILF", "GPIP"]
 tags = ["toux"]
 english = ["Sinusitis"]
@@ -19,14 +19,15 @@ icd10 = ["J01", "J01.9"]
 image = true
 imageSrc = "Illustration des sinus par NIAID sur Foter.com / CC BY"
 flowchart = true
-todo = "SEO, https://www.sforl.org/wp-content/uploads/2020/02/recoRSIA.pdf, indications scanner, sources prescrire"
+todo = "rankok | amélio clinique, https://www.sforl.org/wp-content/uploads/2020/02/recoRSIA.pdf, indications scanner, sources prescrire"
 +++
 
 {{%article-summary%}}
 
-- Vérifier les critères cliniques de la sinusite aiguë purulente
-- Recherche systématique de complications devant un tableau de sinusite
-- Prise en charge de la sinusite par antibiotique (vérifier les critères en cas de sinusite maxillaire)
+- La sinusite aiguë purulente est une infection bactérienne des sinus de la face évoluant depuis moins de 4 semaines
+- Les symptômes sont une fièvre avec des douleurs sinusiennes pulsatiles, augmentées penché en avant avec écoulements et crachats purulents
+- Rechercher des complications devant un tableau de sinusite: scanner facial urgent pour les localisations frontale, sphénoïdale et ethmoïdale
+- La prise en charge de la sinusite associe paracétamol et antibiothérapie (vérifier les critères en cas de sinusite maxillaire), voire une hospitalisation (ethmoïdite, sinusite compliquée)
 - La prise en charge des sinusites pédiatriques en cas de **pénurie d'antibiotiques** est détaillée dans la section *Traitement*
 
 {{%/article-summary%}}
@@ -35,20 +36,9 @@ todo = "SEO, https://www.sforl.org/wp-content/uploads/2020/02/recoRSIA.pdf, indi
 Sinusite aiguë purulente
 : Infection d'une ou plusieurs cavités sinusiennes de la face par des bactéries évoluant depuis moins de 4 semaines.  
 Les sinusites maxillaires aiguës représentent la grande majorité. Elles surviennent souvent au décours d'une rhinopharyngite aiguë.
-: Germes: Pneumocoque, *H. influenzae*.
-: Note de *Prescrire*: La plupart des sinusites guérissent spontanément en une à deux semaines. Une méta-analyse a montré l'absence d'intérêt de la corticothérapie orale.
+: Germes habituels: pneumocoque et *H. influenzae*.
 
-### Formes de sinusites selon l'âge
-
-Ethmoïdite
-: Limitée aux jeunes enfants
-
-Sinusite sphénoïdale ou maxillaire
-: À partir de 3 ans
-
-Sinusite frontale
-: À partir de 10 ans
-{.dl-inline}
+> Note de *Prescrire*: La plupart des sinusites guérissent spontanément en une à deux semaines. Une méta-analyse a montré l'absence d'intérêt de la corticothérapie orale.
 
 ### Diagnostic différentiel
 
@@ -87,31 +77,40 @@ SPILF
 
 Le diagnostic de **sinusite maxillaire** est clinique et nécessite **au moins 2 critères** parmi:
 
-1. Persistance ou augmentation des douleurs sinusiennes infra-orbitaires sous traitement symptomatique pendant au moins 48h
+1. Persistance ou augmentation des **douleurs sinusiennes** infra-orbitaires sous traitement symptomatique pendant au moins 48 heures
 2. Caractère unilatéral  
   et/ou augmenté tête penchée en avant  
   et/ou pulsatile  
   et/ou maximal en fin d'après-midi ou la nuit
-3. Augmentation d'une rhinorrhée et purulence permanente (unilatérale ++)
+3. Augmentation d'une **rhinorrhée** et **purulence** permanente (unilatérale ++)
 
 Autres arguments en faveur d'une sinusite:
 
-- Fièvre persistante > 3 jours
-- Obstruction nasale, toux, gêne pharyngée persistants > 10 jours
+- **Fièvre** persistante > 3 jours
+- Obstruction nasale, toux, gêne pharyngée persistants plus de 10 jours
+
+### Formes de sinusites selon l'âge
+
+Ethmoïdite
+: Limitée aux jeunes enfants
+
+Sinusite sphénoïdale ou maxillaire
+: À partir de 3 ans
+
+Sinusite frontale
+: À partir de 10 ans
+{.dl-inline}
 
 ### Ethmoïdite aiguë
 
-Chez le petit enfant: Fièvre et œdème palpébral d'apparition brutale débutant au canthus interne.  
-Urgence médicale, hospitalisation pour antibiothérapie intraveineuse.
+Chez le petit enfant, l'ethmoïdite aiguë donne une **fièvre** avec un **œdème palpébral** d'apparition brutale débutant au canthus interne.
+
+C'est une **urgence médicale**, nécessitant une hospitalisation pour antibiothérapie intraveineuse.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Pas d'imagerie ni de prélèvements bactériologiques en première intention.
-
-### Avis odontologique
-
-Indications: sinusite maxillaire aiguë unilatérale sans contexte de rhinite (rhinorrhée fétide ++).
+Pas de bilan d'imagerie ni de prélèvements bactériologiques en première intention.
 
 ### Scanner facial
 
@@ -120,6 +119,10 @@ Le scanner facial est indiqué en cas de suspicion de complication:
 - Sinusite frontale (douleurs frontales)
 - Sinusite sphénoïdale (douleurs rétro-orbitaire/vertex)
 - Sinusite ethmoïdale (œdème péri-orbitaire)
+
+### Avis odontologique
+
+Indications: sinusite maxillaire aiguë unilatérale sans contexte de rhinite (rhinorrhée fétide ++).
 
 ### Prélèvements bactériologiques
 
@@ -241,22 +244,22 @@ Antibiotique de référence pour la prise en charge de la sinusite sphénoïdale
 **Hospitalisation en urgence** (prélèvements bactériologiques, scanner, antibiothérapie intraveineuse urgente).
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant une sinusite" "show" %}}
+{{%collapse "Prise en charge de la sinusite aiguë" "show" %}}
 
-{{< mermaid title="Prise en charge d'une sinusite aiguë purulente. Dr JB Fron d'après SPILF et HAS 2021" >}}
+{{< mermaid title="Prise en charge d'une sinusite aiguë purulente. Dr JB Fron d'après HAS, SPILF et GPIP 2025" >}}
 graph TB
-  sinusite[Sinusite] --> maxillaire("Sinusite maxillaire si<br>—<br>- diagnostic certain<br>- échec ttt sympt 3j<br>- infection dentaire sup homolat<br>- RPA &gt; 10j sans amélioration")
+  sinusite[Diagnostic clinique<br>de sinusite aiguë] --> maxillaire("Sinusite maxillaire si<br>—<br>- diagnostic certain<br>- échec ttt symptomatique 3j<br>- infection dentaire sup homolat<br>- RPA &gt; 10j sans amélioration")
   style sinusite stroke:#4150f5, stroke-width:1px
-    maxillaire --> dentaire(Avis odontologique)
-    maxillaire -.-> atb(Antibiothérapie selon l'âge)
-  sinusite --> frontale(Sinusite frontale) --> atb
-  sinusite --> ethm(Sinusite ethmoïdale<br>ou sphénoïdale) --> atb
+    maxillaire -.-> dentaire(Avis odontologique)
+    maxillaire -.-> atb(Antibiothérapie selon l'âge<br>voire hospitalisation)
+  sinusite --> frontale(Sinusite frontale<br>à partir de 10 ans) -- "± imagerie<br>urgente" --> atb
+  sinusite --> ethm(Sinusite ethmoïdale<br>ou sphénoïdale) -- "± imagerie<br>urgente" --> atb
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
-- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Sinusites de l'enfant. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722824/fr/choix-et-durees-d-antibiotherapies-sinusites-de-l-enfant)
+- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Sinusites de l'enfant. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/c_2722824/fr/choix-et-durees-d-antibiotherapies-sinusites-de-l-enfant)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Sinusites de l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722806/fr/choix-et-durees-d-antibiotherapies-sinusite-de-l-adulte)
 - [Cohen R et al. Antimicrobial treatment of ENT infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001471)
 - [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)

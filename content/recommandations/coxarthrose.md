@@ -17,8 +17,8 @@ english = ["Osteoarthritis of the hip", "hip osteoarthritis", "Coxae malum senil
 sctid = "239872002"
 icd10 = ["M16", "M16.9"]
 draft = true
-image = false
-imageSrc = "Disparition du cartilage, ostéophytes et ostéosclérose sous-chondrale bilatéraux signant une coxarthrose sévère chez une femme de 75 ans. Cas de Leonardo Lustosa, Radiopaedia.org, rID: 190114"
+image = true
+imageSrc = "Disparition du cartilage, ostéophytes et ostéosclérose sous-chondrale bilatéraux confirmant une coxarthrose sévère chez une femme de 75 ans. Cas de Leonardo Lustosa, Radiopaedia.org, rID: 190114"
 todo = "descr > summary > liens > photo > newsletter > flow > Kanban | "
 +++
 
@@ -115,7 +115,7 @@ L'**IRM de hanche** ou l'**arthroscanner** relèvent de la prescription d'un sp�
 
 > << Les infiltrations d'acide hyaluronique ne devraient pas être considérées >>, tout comme les opioïdes oraux -- *AAOS 2023*
 
-
+### Chirurgie 
 
 ### Après chirurgie
 

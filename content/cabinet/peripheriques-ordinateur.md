@@ -6,9 +6,9 @@ description = "Quels périphériques pour le PC du médecin ? Conseils sur les �
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-10T19:15:00+02:00"
 publishdate = "2022-05-15"
-lastmod = "2024-03-07"
+lastmod = "2025-05-17"
 specialites = []
-annees = "2024"
+annees = "2025"
 sources = []
 tags = []
 image = true
@@ -29,32 +29,16 @@ Imprimantes choisies par 01Net et UFC Que Choisir.
 
 Imprimantes laser monochromes Wi-Fi (non multifonction) permettant d'utiliser des **toners compatibles moins chers** (ex: 20€ contre les 80€ officiels grâce aux boutiques *CartoucheMania*, *Tinkco*, *Toner.fr* ...), triées par note *UFC Que Choisir* et mon coup de cœur en premier:
 
-- [Choix: Brother HL-L2400DW (vitesse, petite taille, R/V, coût d'utilisation) - 130€](https://www.idealo.fr/prix/203365753/brother-hl-l2400dw.html)
+- [Choix: Brother HL-L2865DW (vitesse, petite taille, R/V, coût d'utilisation) - 140€](https://www.idealo.fr/prix/204559569/brother-hl-l2865dw.html)
+- [Brother HL-L2400DW (vitesse, petite taille, R/V, coût d'utilisation) - 130€](https://www.idealo.fr/prix/203365753/brother-hl-l2400dw.html)
 - [Brother HL-L2375DW (idem + réseau) - 160€](https://ledenicheur.fr/product.php?p=4533630)
-- [HP Laser 107W - 200€](https://ledenicheur.fr/product.php?p=5184291)
 - Canon i-Sensys LBP113w (pas de toners compatibles ++, réseau)
-- [HP Laserjet Pro M404dw - 400€](https://ledenicheur.fr/product.php?p=5135208)
-- [Canon i-Sensys LBP223dw - 250€ (réseau)](https://ledenicheur.fr/product.php?p=6030116)
+- [Canon i-Sensys LBP223dw - 264€ (réseau)](https://ledenicheur.fr/product.php?p=6030116)
 {.list-group}
 
 ### Imprimante laser noir & blanc multifonctions avec toners compatibles
 
 [Brother MFC-L2750DW - 320€](https://ledenicheur.fr/product.php?p=4549236)
-
-### Autres à étudier
-
-- Top: HP laserjet pro m283fdw (connectivité, rapidité, couleur, chargeur - 400€)
-- Rapport Q/P: Brother hl-3140cw laser couleur, connectivité, prix raisonnable
-- HP Neverstop
-- HP M404dn
-- Brother hl-l5000d
-- Xerox b210
-- Hp laserjet m209dwe
-
-Tout en 1:
-
-- Brother MFC-L2750DW 5 Lesnum
-- HP M227fdw
 
 {{% /collapse %}}
 {{%collapse "Scanners" %}}
@@ -66,9 +50,9 @@ Ils ne sont toutefois adaptés que si vous avez un(e) secrétaire au cabinet.
 
 Certains sont autonomes, stockant en mémoire interne permettant de numériser les documents des patients polypathologiques en visite (à moins que vous n'utilisiez le smartphone).
 
-- [Brother DS-740D - 160€ (autonome, 15 ppm, R/V)](https://ledenicheur.fr/product.php?p=5313874)
+- [Brother DS-740D - 130€ (autonome, 15 ppm, R/V)](https://ledenicheur.fr/product.php?p=5313874)
 - Brother DS-940DW - 200€ (idem + Wi-Fi)
-- [Fujitsu ScanSnap iX100 - 230€](https://ledenicheur.fr/product.php?p=2783702)
+- [Fujitsu ScanSnap iX100 - 240€](https://ledenicheur.fr/product.php?p=2783702)
 - [Epson Workforce ES-50 - 130€](https://ledenicheur.fr/product.php?p=4979048)
 {.list-group}
 

@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-02-06T09:05:23+01:00"
 publishdate = "2025-01-05"
-lastmod = "2025-01-05"
+lastmod = "2025-05-17"
 specialites = ["gynécologie-obstétrique"]
-annees = "2024"
+annees = "2025"
 sources = ["HAS", "SPILF", "SFD"]
 tags = ["IST"]
 english = ["Urethritis", "cervicitis"]
@@ -117,8 +117,7 @@ Métronidazole 500 mg x 2/j pendant 7 jours
 {{%collapse "Traitement des urétrite et cervicite non compliquées" %}}
 
 Ceftriaxone 1g IM dose unique  
-\+ doxycycline 100 mg x 2/j pendant 7 jours  
-ou azithromycine 1g dose unique
+\+ doxycycline 100 mg x 2/j pendant 7 jours
 {.alert .alert-info}
 
 Symptômes classiques des urétrites et cervicites: leucorrhées, dyspareunies, spotting, urétrite, cystalgies.
@@ -131,20 +130,20 @@ La prise en charge d'une urétrite ou d'une cervicite non compliquée associe:
   - Prélèvement des culs-de-sac vaginaux pour frottis coloré au Gram (ou bleu de méthylène), examen à l'état frais (levures, clue-cells, trichomonas), culture pour *Trichomonas vaginalis*
 - **Traitement probabiliste** antigonococcique et anti-Chlamydiae:
   - ceftriaxone 1g IM dose unique
-  - doxycycline 100 mg x 2/j pendant 7 jours
-    ou azithromycine 1g dose unique
+  - doxycycline 100 mg x 2/j pendant 7 jours  
+    2e intention: azithromycine 1g dose unique
   - Si allergie aux bêta-lactamines: attendre l'antibiogramme
 - Consultation à J3 si persistance, **J7** systématique pour lecture des résultats, contrôle clinique et prévention des IST
 - Mesures associées aux [IST](/tags/ist/) (sérologies VIH, VHB, VHC, syphilis), pas de rapports sexuels jusqu'à J7
 - ± Renouveler la sérologie VIH à 6 semaines
   
-> -- *HAS/SPILF 2024* et *SFD 2016*
+> -- *HAS/SPILF 2025* et *SFD 2016*
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, SPILF. Choix et durée de l'antibiothérapie : Urétrites et cervicites non compliquées. 2025.](https://www.has-sante.fr/jcms/c_2038472/fr/choix-et-durees-d-antibiotherapies-uretrites-et-cervicites-non-compliquees)
 - [HAS, ANRS, CNS. Prise en charge du patient atteint d'infection à trichomonas vaginalis. 2024.](https://www.has-sante.fr/jcms/p_3562494/fr/prise-en-charge-du-patient-atteint-d-infection-a-trichomonas-vaginalis)
-- [HAS, SPILF. Choix et durée de l'antibiothérapie : Urétrites et cervicites non compliquées. 2024.](https://www.has-sante.fr/jcms/c_2038472/fr/choix-et-durees-d-antibiotherapies-uretrites-et-cervicites-non-compliquees)
 - [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-162.pdf)
 - {{< references/spilf-2020 >}}
 - Prescrire. Infections vulvovaginales non sexuellement transmises. Rev Prescrire. 2019.
@@ -159,7 +158,6 @@ La prise en charge d'une urétrite ou d'une cervicite non compliquée associe:
 - [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées par Neisseria gonorrhoeae. 2025.](https://www.has-sante.fr/jcms/p_3604670/fr/recommandations-de-prise-en-charge-des-personnes-infectees-par-neisseria-gonorrhoeae)
 - [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
 - [Janier M, et al. MST et grossesse. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016.](https://www.sfdermato.org/upload/recommandations/mst-et-grossesse-8d334c94352709631c8240d4ff4466b7.pdf)
-- EAU
 - Collège gynéco p234
 
 {{%/sources%}}
