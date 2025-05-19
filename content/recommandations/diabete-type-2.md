@@ -394,6 +394,8 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 
 {{< youtube id="jeOxsF9n__0" title="Webinaire Diabète de type 2 de l'adulte : quelles stratégies thérapeutiques ? (HAS)" >}}
 
+{{< video poster="https://www.sfdiabete.org/files/files/Vidéo/2024/20240124_sfd_dt2_2024.png" mp4="https://www.sfdiabete.org/files/files/Vidéo/2024/20240124_sfd_dt2_2024.mp4" description="Prise de position de la SFD sur le traitement du DT2 : quoi de neuf en 2024 ? (Fréquence Médicale)" >}}
+
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Stratégie thérapeutique du patient vivant avec un diabète de type 2. 2024.](https://www.has-sante.fr/jcms/p_3191108/fr/strategie-therapeutique-du-diabete-du-type-2-fiche-memo-et-parcours-de-soins-integres-note-de-cadrage)
 - [HAS, ANRS. Traitement de la Covid-19. 22/12/2023.](https://www.has-sante.fr/jcms/p_3447571/fr/traitement-de-la-covid-19)

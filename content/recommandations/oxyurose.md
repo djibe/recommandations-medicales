@@ -45,6 +45,22 @@ CMIT
 {.dl-inline}
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Autres causes de prurit anal:
+
+- [Hémorroïdes]({{% relref "hemorroides.md" %}})
+- Abcès anal
+- Fistule anale
+- [Dermatite atopique]({{% relref "dermatite-atopique.md" %}}) ou de contact
+- [Psoriasis]({{% relref "psoriasis.md" %}})
+- [Candidose]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
+- [Ténia]({{% relref "tenia.md" %}})
+- Condylomes
+- [Herpès]({{% relref "infections-herpes-virus.md" %}})
+- Atteinte périnéale d'une MICI
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 Tableau clinique, signes et symptômes de l'oxyurose:
@@ -62,22 +78,6 @@ Tableau clinique, signes et symptômes de l'oxyurose:
   - Troubles du sommeil (cauchemars), irritabilité, difficultés de concentration
 
 Le diagnostic d'oxyurose est clinique lorsque des **vers blancs centimétriques** sont vus dans les selles ou sur la marge anale.
-
-{{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
-Autres causes de prurit anal:
-
-- [Hémorroïdes]({{% relref "hemorroides.md" %}})
-- Abcès anal
-- Fistule anale
-- [Dermatite atopique]({{% relref "dermatite-atopique.md" %}}) ou de contact
-- [Psoriasis]({{% relref "psoriasis.md" %}})
-- [Candidose]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
-- [Ténia]({{% relref "tenia.md" %}})
-- Condylomes
-- [Herpès]({{% relref "infections-herpes-virus.md" %}})
-- Atteinte périnéale d'une MICI
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

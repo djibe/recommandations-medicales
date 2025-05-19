@@ -34,6 +34,7 @@ Imprimantes laser monochromes Wi-Fi (non multifonction) permettant d'utiliser de
 - [Brother HL-L2375DW (idem + réseau) - 160€](https://ledenicheur.fr/product.php?p=4533630)
 - Canon i-Sensys LBP113w (pas de toners compatibles ++, réseau)
 - [Canon i-Sensys LBP223dw - 264€ (réseau)](https://ledenicheur.fr/product.php?p=6030116)
+- HP LaserJet M110w - 120 €
 {.list-group}
 
 ### Imprimante laser noir & blanc multifonctions avec toners compatibles

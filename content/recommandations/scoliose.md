@@ -26,10 +26,9 @@ todo = "flowchart"
 - La scoliose est une courbure rachidienne dans le plan frontal supérieure à 10° (dit angle de Cobb)
 - Le dépistage de la scoliose par recherche d'une gibbosité doit être systématique durant les [examens de l'enfant et de l'adolescent]({{% relref "examens-suivi-nourrisson.md" %}}) où le risque évolutif est majeur
 - L'examen clinique recherche des complications et des arguments pour une pathologie (neuro-musculaire, génétique ...)
-- Bilan par radiographies du rachis complet à faible dose EOS (mesure de l'angle de Cobb) en cas de gibbosité  
-  Répéter tous les 6-12 mois à la puberté, puis tous les 5 ans.
-- Avis orthopédique pour une scoliose ≥ 15° (10° avant 10 ans)
-- IRM médullaire pour un angle > 20° avant 10 ans
+- Bilan par radiographies du rachis complet EOS (mesure de l'angle de Cobb) en cas de gibbosité  
+  Répéter tous les 6 à 12 mois à la puberté, puis tous les 5 ans.
+- Avis orthopédique pour une scoliose ≥ 15° (10° avant 10 ans) et IRM médullaire pour un angle dépassant 20° avant 10 ans
 - Surveillance rapprochée de la scoliose pendant la croissance, puis espacée à vie
 - Maintien de la kinésithérapie pour prévenir les complications
 

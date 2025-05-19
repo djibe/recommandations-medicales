@@ -19,6 +19,7 @@ icd10 = ["N34", "N37.0", "A54.0", "A54.1", "A56.0", "N72", "N76.0"]
 image = false
 imageSrc = ""
 todo = "photo > flow"
+modele = true
 +++
 
 {{%article-summary%}}
@@ -52,6 +53,7 @@ Leucorrhées
 
 Vaginose bactérienne
 : Syndrome traduisant un déséquilibre de la flore vaginale avec remplacement des lactobacilles (flore de Döderlein) par des micro-organismes commensaux: anaérobies (*Mobiluncus sp* ...), *Mycoplasma hominis* et *Gardnerella vaginalis* dont la prolifération est responsable des symptômes (leucorrhées malodorantes).
+: Le diagnostic de vaginose est le plus souvent clinique.
 : Facteurs de risque de vaginose: toilette intravaginale, partenaires multiples et homosexualité.
 : ==Pas de traitement du partenaire ou d'une patiente asymptomatique (sauf trichomonose)== (ceci pourrait changer prochainement).
 
@@ -71,24 +73,40 @@ SPILF
 
 TV
 : *Trichomonas vaginalis*
+
+VB
+: vaginose bactérienne
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Vaginose bactérienne et vaginite" %}}
+{{%collapse "Dépistage de la vaginose bactérienne" %}}
+
+Un dépistage est recommandé chez la femme enceinte au premier trimestre en cas d'antécédents de:
+
+- Prématurité
+- Chorioamniotite
+- Fausses couches spontanées
+
+> -- *CNGOF 2007*
+
+{{% /collapse %}}
+{{%collapse "Traitement des vaginose bactérienne et vaginite" %}}
 
 <!-- TODO: Atopobium spp, Sneathia spp-->
 
-### *Gardnerella vaginalis* et vaginite bactérienne
+### *Gardnerella vaginalis* et vaginite bactérienne (VB)
 
-[Métronidazole 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60416081&typedoc=R) x 2/j pendant 7 jours
+Selon *SFD 2016*: [métronidazole 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60416081&typedoc=R) x 2/j pendant 7 jours
 {.alert .alert-info}
 
-> -- *SFD 2016*
+Leucorrhées malodorantes (odeur de poisson pourri) grisâtres fluides.
 
 ### *Trichomonas vaginalis* (TV)
 
 Métronidazole 500 mg x 2/j pendant 7 jours
 {.alert .alert-info}
+
+La prise en charge de la vaginite à *Trichomonas vaginalis* comprend:
 
 - **[IST](/tags/ist/)** à incubation de 4 à 28 jours, asymptomatique 10-50 %
 - **Leucorrhées** (jaunes-vertes 5-40 %, spumeuses 10-33 %, abondantes et nauséabondes << plâtre frais >>)
@@ -158,6 +176,7 @@ La prise en charge d'une urétrite ou d'une cervicite non compliquée associe:
 - [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées par Neisseria gonorrhoeae. 2025.](https://www.has-sante.fr/jcms/p_3604670/fr/recommandations-de-prise-en-charge-des-personnes-infectees-par-neisseria-gonorrhoeae)
 - [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
 - [Janier M, et al. MST et grossesse. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016.](https://www.sfdermato.org/upload/recommandations/mst-et-grossesse-8d334c94352709631c8240d4ff4466b7.pdf)
+- [Bohbot JM; CNGOF. Vaginose bactérienne. Extrait des Mises à jour en Gynécologie Médicale. 2007. (PDF)](http://www.cngof.asso.fr/d_livres/2007_GM_141_bohbot.pdf)
 - Collège gynéco p234
 
 {{%/sources%}}
@@ -166,3 +185,10 @@ La prise en charge d'une urétrite ou d'une cervicite non compliquée associe:
 {{< clinique/fdr-ist >}}
 
 {{% /modal %}}
+{{% modele %}}
+
+### Vaginite
+
+métronidazole 500 mg x 2/j pendant 7 jours
+
+{{% /modele %}}

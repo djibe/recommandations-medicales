@@ -164,8 +164,7 @@ Bilan avant l'instauration de la PrEP, en l'absence de suspicion de primo-infect
 > [!WARNING]
 > Ne pas prescrire la PrEP en cas de suspicion de primo-infection VIH.
 
-La PrEP est très bien tolérée. La prescription initiale est possible avec une **sérologie VIH de moins de 15 jours (et créatinine)** pour une durée initiale d'un mois [check-list ANSM (PDF) pour le médecin prescripteur](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-checklist-pds-version3-2021-juin.pdf).  
-Puis **renouvellement tous les 3 mois**.
+La PrEP est très bien tolérée. La prescription initiale est possible avec une **sérologie VIH de moins de 15 jours (et créatinine)** pour une durée initiale d'un mois [check-list ANSM (PDF) pour le médecin prescripteur](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-checklist-pds-version3-2021-juin.pdf). Puis **renouvellement tous les 2 à 6 mois**.
 
 ### Ordonnance initiale de PrEP
 
@@ -209,7 +208,7 @@ Délai de **7 jours avant le premier rapport sexuel à protéger**.
 
 Pour arrêter la PrEP: après le dernier rapport à risque, prendre 1cp 24h après puis 2^e^ cp 48h après puis arrêter.
 
-Traitement initial pour 30 jours puis renouvellements tous les 3 mois.
+Traitement initial pour 30 jours puis renouvellements tous les 2 à 6 mois.
 
   </div>
 </div>

@@ -54,11 +54,11 @@ Elle est augmentée en cas d'inflammation (carence martiale peu probable si ferr
 {{< table title="Ajustement du taux d'hémoglobine pour les fumeurs. Dr JB Fron d'après *OMS 2024*" class="table-sm" >}}
 | Tabagisme (cig/j) | Ajustement du taux d'Hb (g/dL) |
 |:-----------------:|-------------------------------:|
-| Non               |                  0&nbsp;&nbsp; |
-| Fumeur            |                           -0,3 |
-| < 10              |                           -0,3 |
-| 10-19             |                           -0,5 |
-| ≥ 20              |                           -0,6 |
+|        Non        |                  0&nbsp;&nbsp; |
+|      Fumeur       |                           -0,3 |
+|       < 10        |                           -0,3 |
+|       10-19       |                           -0,5 |
+|       ≥ 20        |                           -0,6 |
 {{< /table >}}
 
 Hypochromie
@@ -194,7 +194,7 @@ Prise en charge de l'anémie par supplémentation et fer puis surveillance de la
 {{< table title="Supplémentations en fers fumarate, gluconate et sulfate disponibles en France en 2025. Dr JB Fron d'après *BDPM*" >}}
 | Spécialité             | Famille  | Fer élément (mg) |
 |------------------------|----------|-----------------:|
-| Fer AP-HP 0,5 gél      | Sulfate  |              0,5 |
+| Fer AP-HP 0,5 mg gél   | Sulfate  |              0,5 |
 | Fumafer 66 mg cp       | Fumarate |               66 |
 | Tardyferon 50 ou 80 mg | Sulfate  |         50 ou 80 |
 | Timoferol cp ou gél    | Sulfate  |               50 |

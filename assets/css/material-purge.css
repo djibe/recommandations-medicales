@@ -4014,6 +4014,10 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   flex-grow: 1 !important;
 }
 
+.justify-content-end {
+  justify-content: flex-end !important;
+}
+
 .justify-content-center {
   justify-content: center !important;
 }
@@ -4293,12 +4297,7 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
   .my-lg-4 {
     margin-bottom: 1.5rem !important;
   }
-  
-  .my-lg-5 {
-    margin-top: 3rem !important;
-  }
-  .mb-lg-5,
-  .my-lg-5 {
+  .mb-lg-5 {
     margin-bottom: 3rem !important;
   }
 }
