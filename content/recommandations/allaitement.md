@@ -91,6 +91,7 @@ Les contre-indications à un allaitement maternel sont:
 - [Hépatite C]({{% relref "hepatite-c.md" %}}) (si la charge virale est détectable)
 - Usage de cocaïne
 - Galactosémie du nourrisson (*Anaes*)
+- Infection par HTLV-1 en l'absence de stérilisation du lait (*[ADLF](https://association-des-lactariums-de-france.fr/virus-htlv-et-allaitement-maternel/)*)
 
 > -- *CNGOF 2015*
 {{%/warning%}}

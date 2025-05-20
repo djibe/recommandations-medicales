@@ -254,7 +254,7 @@ Voie sous-cutanée au-delà de 15 mg/semaine ou si efficacité insuffisante (Ime
 
 Décroissance de dose seulement après rémission persistante et prolongée.
 
-Si traitement inaugural ou contre-indication au méthotrexate: **léflunomide** (Arava®, générique) 20 g/j ou **sulfasalazine** (Salazopyrine®) 3 g/j.
+Si traitement inaugural ou contre-indication au méthotrexate: **léflunomide** (Arava®, générique) 10-20 mg/j ou **sulfasalazine** (Salazopyrine®) 2-3 g/j.
 
 ### Biothérapies pour le traitement de la polyarthrite rhumatoïde
 

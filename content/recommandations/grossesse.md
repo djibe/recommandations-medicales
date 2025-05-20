@@ -246,10 +246,13 @@ Pour toutes les femmes à la 1^re^ grossesse (sauf carte de groupe): double dét
 
 ### Femme Rhésus D négatif
 
+{{%info%}}
+
 - Information sur l'immunisation anti-rhésus D: dépistage, suivi (RAI au 1^er^ trimestre, 6e, 8e et 9e mois), prévention
-- Avant 12 SA avec géniteur rhésus 1 positif ou inconnu: pas d'immunoglobulines anti-D en cas d'IVG, de grossesse arrêtée, de fausse couche ou de métrorragies sur grossesse évolutive
+- Avant 12 SA avec géniteur rhésus 1 (rhésus D) positif ou inconnu: **pas d'immunoglobulines anti-D** en cas d'IVG, de grossesse arrêtée, de fausse couche ou de métrorragies sur grossesse évolutive
 
 > -- *CNGOF 2024*
+{{%/info%}}
 
 - Détermination du RhD chez le conjoint  
   Si le conjoint est rhésus 1 positif ou inconnu: génotypage RhD fœtal sur sang maternel à partir de 11 SA (que la grossesse soit unique ou multiple).
@@ -406,6 +409,8 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{% rel
   ≥ 35 ans, surpoids, antécédent de diabète gestationnel ou macrosomie ou familial de diabète type 2.
 - ± TSH si symptômes aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et facteurs de risque{{< /modal-btn >}}
 - Rattrapage du frottis cervico-vaginal
+- ± Prélèvement vaginal  
+  Si prématurité, chorioamniotite, fausse couche spontanée.
 
 #### Ordonnance de la première consultation
 
