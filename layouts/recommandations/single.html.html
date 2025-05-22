@@ -111,10 +111,10 @@
                 {{ end }}
 
                 {{- with .Params.sources }}
-                  {{- $data := slice "CNGOF" "ESC" "HAS" "SPILF" "SPLF" }}
+                  {{- $data := slice "CNGOF" "ESC" "HAS" "NICE" "SPILF" "SPLF" }}
                   {{- range . }}
                     {{ if in $data . }}
-                      <span class="header-params px-2 source source-{{ lower . }}" title="{{ . }}" data-toggle="tooltip" aria-label="{{ . }}"></span>
+                      <span class="header-params px-2 source source-{{ lower . }}" title="Guide {{ . }}" data-toggle="tooltip" aria-label="Guide {{ . }}"></span>
                     {{ else }}
                     <span class="header-params px-2">{{ . }}</span> &bull;
                     {{ end -}}

@@ -362,7 +362,7 @@ mark {
 a[href^="http"]:not([class]):not([href*="recomedicales.fr"])::after {
   @extend %material-icon-content;
   content: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" height="18" viewBox="0 0 24 24" fill="%234150f5" width="18"%3E%3Cpath d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/%3E%3C/svg%3E');
-  margin-left: 0.25rem;
+  margin-inline-start: 0.25rem;
 }
 
 a[href^="https://base-donnees-publique.medicaments.gouv.fr"]:not([class])::after,
@@ -373,7 +373,7 @@ a[href^="https://ec.europa.eu/health/documents/"]:not([class])::after {
 a[data-toggle="modal"]:not(.no-icon)::after {
   @extend %material-icon-content;
   content: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" height="18" viewBox="0 0 24 24" width="18" fill="%234150f5"%3E%3Cpath d="M0 0h24v24H0V0z" fill="none"/%3E%3Cpath d="M11 7h2v2h-2zm0 4h2v6h-2zm1-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/%3E%3C/svg%3E');
-  margin-left: 0.25rem;
+  margin-inline-start: 0.25rem;
 }
 
 .text-black-primary {
@@ -514,6 +514,13 @@ a[data-toggle="modal"]:not(.no-icon)::after {
     padding: .25rem 1rem;
     color: var(--primary-dark)!important;
   }
+}
+
+.logo-index {
+  margin-inline-start: 1.5rem;
+  height: auto;
+  // max-height: 80px;
+  max-width: 72px;
 }
 
 // SECTIONS
@@ -683,6 +690,9 @@ article {
   }
   .source-has::before {
     background-image: url("/images/logos/has.avif");
+  }
+  .source-nice::before {
+    background-image: url("/images/logos/nice.avif");
   }
   .source-spilf::before {
     background-image: url("/images/logos/spilf.avif");
@@ -924,7 +934,7 @@ article {
 
 .projet {
   .offset-xl-2 {
-    margin-left: auto;
+    margin-inline-start: auto;
   }
 
   &__content {
@@ -1336,7 +1346,7 @@ legend {
 @media (min-width: 992px) {
   .navbar {
     border-bottom: 0;
-    margin-left: 16rem;
+    margin-inline-start: 16rem;
   }
   .navdrawer-permanent-lg {
     border-right: 0;
@@ -1344,7 +1354,7 @@ legend {
   }
   .navdrawer-permanent-lg ~ main,
   .navdrawer-permanent-lg ~ footer {
-    margin-left: 16rem;
+    margin-inline-start: 16rem;
   }
 }
 
@@ -1778,7 +1788,7 @@ input[type="search"]::-webkit-search-results-decoration {
   .apexcharts-tooltip-text-y-value {
     font-size: 14px;
     font-weight: 500;
-    margin-left: 4px;
+    margin-inline-start: 4px;
   }
 }
 
@@ -1865,7 +1875,7 @@ details {
     width: auto;
 
     & > svg {
-      margin-left: -.5rem;
+      margin-inline-start: -.5rem;
       margin-right: .75rem;
     }
   }
