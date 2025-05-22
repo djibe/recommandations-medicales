@@ -682,6 +682,9 @@ article {
     color: #000;
   }
 
+  .source-afef::before {
+    background-image: url("/images/logos/afef.avif");
+  }
   .source-cngof::before {
     background-image: url("/images/logos/cngof.webp");
   }
@@ -693,6 +696,9 @@ article {
   }
   .source-nice::before {
     background-image: url("/images/logos/nice.avif");
+  }
+  .source-sfp::before {
+    background-image: url("/images/logos/sfp.avif");
   }
   .source-spilf::before {
     background-image: url("/images/logos/spilf.avif");
@@ -709,8 +715,8 @@ article {
     display: inline-block;
     margin-right: .5rem;
     position: relative;
-    width: 40px;
-    height: 40px;
+    width: 46px;
+    height: 46px;
     vertical-align: middle;
   }
 }
