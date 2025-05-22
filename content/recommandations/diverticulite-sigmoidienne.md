@@ -125,7 +125,7 @@ Autres causes de douleurs abdominales en fosse iliaque:
 
 Le bilan est systématique pour affirmer le diagnostic de diverticulite sigmoïdienne aiguë.
 
-### Bilan d'une diverticulite sigmoïdienne
+### Bilan de la suspicion de diverticulite sigmoïdienne
 
 - NFS, CRP
 - Créatininémie
@@ -138,13 +138,13 @@ Le bilan est systématique pour affirmer le diagnostic de diverticulite sigmoïd
 
 Le scanner est l'examen de référence pour le diagnostic et la recherche de complications d'une poussée de diverticulite. Il peut être ensuite réalisé uniquement en cas de **récidive d'intensité inhabituelle** ou de **syndrome inflammatoire biologique marqué** chez un patient sans comorbidités (*ESCP 2020*).
 
-Le scanner est réalisé dans les **72 heures** suivant le début des douleurs en ambulatoire (24h si hospitalisation).
+Le scanner est réalisé dans les **72 heures** suivant le début des douleurs en ambulatoire (24 heures si hospitalisation).
 
 Recours à l'échographie voire l'IRM en cas de contre-indication au scanner.
 
 ### Coloscopie
 
-Indications à la **coloscopie**: au moins 2 crises de diverticulite (en l'absence de coloscopie dans les 3 ans -- *ESCP 2020*).
+==Indications à la **coloscopie**==: au moins 2 crises de diverticulite (en l'absence de coloscopie dans les 3 ans -- *ESCP 2020*).
 
 La coloscopie est au moins 6 semaines après l'épisode diverticulaire.
 
@@ -244,7 +244,8 @@ graph TB
 - {{< references/spilf-2020 >}}
 - [Rouillon JM. Prise en charge de la diverticulite sigmoïdienne. SNFGE. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/prise_en_charge_de_la_diverticulite.pdf)
 - Prescrire Rédaction. Diverticulite aiguë du côlon. Novembre 2018.
-- [HAS. Prise en charge médicale et chirurgicale de la diverticulite colique. Novembre 2017.](https://www.has-sante.fr/jcms/c_2806798/fr/prise-en-charge-medicale-et-chirurgicale-de-la-diverticulite-colique)
+- [HAS. Prise en charge médicale et chirurgicale de la diverticulite colique. 2017.](https://www.has-sante.fr/jcms/c_2806798/fr/prise-en-charge-medicale-et-chirurgicale-de-la-diverticulite-colique)
+- {{< references/aderim >}}
 
 Mot-clé: sigmoidite
 

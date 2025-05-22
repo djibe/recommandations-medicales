@@ -74,7 +74,7 @@ Bilan complet aux Urgences:
 - Bilan hépatique: ASAT, ALAT, GGT, PAL, bilirubine totale
 - Amylasémie, lipasémie
 - ECG
-- Échographie abdominale
+- Échographie-doppler abdominale
 
 **NB.** Le scanner abdominal est peu sensible et l'IRM n'est pas supérieure à l'échographie abdominale.
 
@@ -97,5 +97,6 @@ Prise en charge pouvant être proposée en cas de contre-indication à la chirur
 
 - {{< references/college-gastro >}}
 - [Pisano M, et al. 2020 World Society of Emergency Surgery updated guidelines for the diagnosis and treatment of acute calculus cholecystitis. World J Emerg Surg. 2020.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7643471/)
+- {{< references/aderim >}}
 
 {{%/sources%}}

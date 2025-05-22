@@ -214,9 +214,9 @@ Signes évocateurs de cancer du pancréas, surtout après 50 ans (signes en **gr
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan biologique
+### Bilan de la suspicion de cancer du pancréas
 
-Bilan biologique initial en cas de suspicion de cancer du pancréas:
+Bilan initial en cas de suspicion de cancer du pancréas:
 
 - NFS
 - Ionogramme sanguin
@@ -226,10 +226,11 @@ Bilan biologique initial en cas de suspicion de cancer du pancréas:
 - Albuminémie
 - Indications au dosage du marqueur tumoral CA-19:  
   Masse pancréatique évocatrice de cancer, pancréatite chronique avec masse suspecte.
+- Scanner thoraco-abdomino-pelvien avec injection
 
-### Scanner abdomino-pelvien avec injection
+### Scanner thoraco-abdomino-pelvien avec injection
 
-Le scanner abdomino-pelvien est l'examen de référence en semi-urgence en cas de suspicion d'adénocarcinome du pancréas (protocole d'acquisition spécifique). Compléter par un **scanner thoracique** en cas de lésion anormale.
+Le scanner thoraco-abdomino-pelvien est l'examen de référence en semi-urgence en cas de suspicion d'adénocarcinome du pancréas (protocole d'acquisition spécifique).
 
 Si le diagnostic de cancer du pancréas est évoqué sur l'imagerie, la RCP doit avoir lieu **dans les 4 semaines**.
 
@@ -245,7 +246,7 @@ Adresser en semi-urgence à l'équipe hospitalière de gastro-entérologie pour 
 
 La majorité reçoit aussi une chimiothérapie. Le taux de **récidive** est très élevé.
 
-Soins associés:
+Mesures associées de prise en charge du cancer du pancréas:
 
 - Information du patient: [guide INCa Cancer du pancréas](https://www.cancer.fr/catalogue-des-publications/les-traitements-du-cancer-du-pancreas)
 - Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
@@ -278,12 +279,13 @@ graph TB
 - [INCa. Les cancers du pancréas en 12 points clés. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-cancers-du-pancreas-en-12-points-cles)
 - [INCa. Cancer du pancréas - Du diagnostic au suivi. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancers-du-pancreas-Du-diagnostic-au-suivi)
 - [INCa. Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Synthèse. 2019.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Synthese-Conduites-a-tenir-devant-des-patients-atteints-d-adenocarcinomes-du-pancreas)
+- [Ducreux M, et al. Cancer of the pancreas: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology. 2015.](https://www.annalsofoncology.org/article/S0923-7534(19)47178-0/fulltext)
+- {{< references/aderim >}}
 
 ### Bibliographie en attente
 
 - {{< references/college-endocrino >}}
-- [Ducreux M et al. Cancer of the pancreas: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology. 2015.](https://www.annalsofoncology.org/article/S0923-7534(19)47178-0/fulltext)
-- Barthet M et al. Conduite à tenir devant une lésion kystique pancréatique de découverte fortuite. SFED. 2007.
+- Barthet M, al. Conduite à tenir devant une lésion kystique pancréatique de découverte fortuite. SFED. 2007.
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}

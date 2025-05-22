@@ -182,6 +182,7 @@ graph TB
 - CHUCP. Hernie pariétale chez l'enfant. 286. 2014.
 - [Faucheron JL. Hernie inguinale de l'adulte. Item 245. Mars 2005.](https://doczz.fr/doc/2579938/hernie-inguinale-de-l-adulte--245a-)
 - [Sauvat F. Urgences en chirurgie viscérale pédiatrique. (PDF)](https://urgences-serveur.fr/IMG/pdf/Urg_chir_pediatriques.pdf)
+- {{< references/aderim >}}
 
 ### Bibliographie en attente
 

@@ -151,7 +151,7 @@ L'examen recherche:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan exploratoire d'une suspicion de cancer de l'estomac
+### Bilan d'une suspicion de cancer de l'estomac
 
 Le bilan biologique recherche des signes de malignité:
 
@@ -165,7 +165,9 @@ En cas de symptômes évocateurs d'un cancer de l'estomac, adresser directement 
 
 [SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/information_patient_gastroscopie_diagnostique_sfed-snfge.pdf)
 
-Le bilan complémentaire comporte toujours un **scanner** thoraco-abdomino-pelvien avec injection.
+### Bilan au diagnostic
+
+Le bilan d'extension comporte toujours un **scanner** thoraco-abdomino-pelvien avec injection.
 
 > [!INFO]
 > Les marqueurs tumoraux ACE et CA 19-9 ne sont pas utiles au diagnostic initial.
@@ -238,17 +240,18 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Zaanan A et al. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 2024.](https://www.snfge.org/tncd/cancer-lestomac)
+- [Zaanan A, et al. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 2024.](https://www.snfge.org/tncd/cancer-lestomac)
 - {{< references/college-gastro >}}
-- [Chollet R et al; SFED, CREGG. Prévention du cancer de l'estomac. 2021.](https://www.sfed.org/sites/www.sfed.org/files/2021-08/Cancerestomac_prevention.pdf)
-- [Nousbaum JB et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Estomac. BEH. Santé Publique France. 2021.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-estomac)
+- [Chollet R, et al; SFED, CREGG. Prévention du cancer de l'estomac. 2021.](https://www.sfed.org/sites/www.sfed.org/files/2021-08/Cancerestomac_prevention.pdf)
+- [Nousbaum JB, et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Estomac. BEH. Santé Publique France. 2021.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-estomac)
 - [SNFGE. Traitement du RGO. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
-- [HAS et CNPHGE. Diagnostic de l'infection par Helicobacter pylori chez l'adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
-- [SFED et CREGG. Prévention du cancer de l'estomac. Fiche de Recommandation sur la prévention des cancers digestifs par endoscopie. 14/03/2014.](https://www.cregg.org/commissions/prevention-des-cancers-par-endoscopie/fiches-de-recommandations-prevention-des-cancers-par-endoscopie/prevention-du-cancer-de-l-estomac-2/)
+- [HAS, CNPHGE. Diagnostic de l'infection par Helicobacter pylori chez l'adulte. Mai 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2017-06/dir83/helicobacter_fiche_pertinence_diagnostic.pdf)
+- [SFED, CREGG. Prévention du cancer de l'estomac. Fiche de Recommandation sur la prévention des cancers digestifs par endoscopie. 14/03/2014.](https://www.cregg.org/commissions/prevention-des-cancers-par-endoscopie/fiches-de-recommandations-prevention-des-cancers-par-endoscopie/prevention-du-cancer-de-l-estomac-2/)
 - [INCa. Médecins traitants : Acteurs de la prévention du cancer de l'estomac. 2013.](https://www.cancer.fr/catalogue-des-publications/medecins-traitants-acteurs-de-la-prevention-du-cancer-de-l-estomac)
 - [HAS, INCa. Cancer de l'estomac. Guide ALD. 2011.](https://www.has-sante.fr/jcms/c_1105137/fr/ald-n-30-cancer-de-l-estomac)
 - [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique - Cancer gastrique diffus héréditaire. 2009. (PDF)](https://www.e-cancer.fr/content/download/58352/531992/file/chir_prophy_predi_gene_gastrique.pdf)
 - [ESMO. Gastric cancer Interactive guidelines.](http://interactiveguidelines.esmo.org/esmo-web-app/gl_toc/index.php?GL_id=42)
+- {{< references/aderim >}}
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
