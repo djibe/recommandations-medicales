@@ -90,7 +90,7 @@ Autres diagnostics à étayer devant des douleurs des genoux.
 
 ### Douleurs chroniques du genou
 
-- Coxarthrose (douleurs projetées)
+- [Coxarthrose]({{% relref "coxarthrose.md" %}}) (douleurs projetées)
 - Atteinte méniscale  
   Début brutal, sujet jeune, blocages.
 - Ostéonécrose d'un condyle fémoral

@@ -166,7 +166,7 @@ Diagnostic par la mesure d'un **index de pression systolique** (IPS) ≤ 0,9 (Se
   Soulagement variable au repos, aggravé debout.
 - Kyste poplité  
   Antécédents arthrosique. Sensibilité, inconfort, œdème rétro-gonal ou du mollet, au repos et à l'exercice sans effet positionnel.
-- Coxarthrose
+- [Coxarthrose]({{% relref "coxarthrose.md" %}})
 - Métastase osseuse
 
 {{% /collapse %}}
