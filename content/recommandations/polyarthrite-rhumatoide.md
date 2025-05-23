@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr JG LETAROUILLY (SFR)"
 date = "2020-10-23T22:24:41+02:00"
 publishdate = "2020-10-23"
-lastmod = "2025-03-06"
+lastmod = "2025-05-22"
 specialites = ["rhumatologie"]
 annees = "2024"
 sources = ["SFRhumato", "ACR", "EULAR", "HAS"]
@@ -20,18 +20,19 @@ image = true
 imageWEBP = true
 imageSrc = "Illustration de la polyarthrite rhumatoïde par scientificanimations.com, CC BY-SA 4.0"
 flowchart = true
+todo = "rankok | simplifier, bilan pré-MTX"
 modele = true
 +++
 
 {{%article-summary%}}
 
 - La polyarthrite rhumatoïde est le premier rhumatisme inflammatoire de l'adulte, donnant des arthrites évoluant par poussées
-- Évoquer une polyarthrite devant toute arthrite, dérouillage de plus de 30 minutes, douleurs en pression des mains ou pieds (MCP/MTP)
+- Évoquer une polyarthrite devant toute arthrite, dérouillage de plus de 30 minutes, douleurs en pression des mains ou pieds (métacarpophalangiennes, métatarsophalangiennes)
 - Une suspicion de polyarthrite rhumatoïde nécessite un diagnostic par le rhumatologue et un traitement rapide
 - Prescrire le bilan biologique avec les radiographies pour adresser au rhumatologue dans les 6 semaines (voir *Examens complémentaires*)
 - La prise en charge de la polyarthrite rhumatoïde par un traitement spécifique relève exclusivement du rhumatologue
 - Le méthotrexate doit être pris un jour fixe de la semaine avec prise de 10 mg d'acide folique 48 heures après
-- Mesures associées au traitement: dépistage des [cancers](/tags/cancer/), contrôle de risque cardiovasculaire, rappels vaccinaux (dTP tous les 10 ans, pneumocoque)
+- Mesures associées au traitement: dépistage des [cancers](/tags/cancer/), contrôle de risque cardiovasculaire et évaluation au moins tous les 5 ans, rappels vaccinaux (dTP tous les 10 ans, pneumocoque, grippe, covid)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -44,19 +45,10 @@ La destruction articulaire entraîne une altération de la qualité de vie, un h
 : *Rémission* de la polyarthrite rhumatoïde: lorsque le score [DAS28](https://sfr.larhumatologie.fr/sites/sfr.larhumatologie.fr/files/medias/formations-ressources/boite_outils/das28.pdf) est < 2,6.
 
 Pré-polyarthrite rhumatoïde
-: Personnes à risque de polyarthrite rhumatoïde (PR) du fait d'une familiale de PR ou de la présence d'auto-anticorps liés à la PR.
+: Personnes à risque de polyarthrite rhumatoïde (PR) du fait d'une histoire familiale de PR ou de la présence d'auto-anticorps liés à la PR.
 
 Traitements conventionnels de la polyarthrite rhumatoïde
 : Méthotrexate, léflunomide et sulfasalazine.
-
-### Diagnostic différentiel de la polyarthrite rhumatoïde
-
-Autres diagnostics à évoquer devant des polyarthralgies:
-
-- Connectivite  
-  Lupus, Gougerot-Sjögren.
-- [Spondylarthrite]({{% relref "spondylarthrite-ankylosante.md" %}})
-- Arthrose digitale
 
 ### Facteurs de mauvais pronostic de la polyarthrite rhumatoïde
 
@@ -99,13 +91,22 @@ TSA
 {.dl-inline}
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Autres diagnostics à évoquer devant des polyarthralgies:
+
+- Connectivite: lupus, Gougerot-Sjögren
+- [Spondylarthrite]({{% relref "spondylarthrite-ankylosante.md" %}})
+- Arthrose digitale
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 > [!WARNING]
-Arthrite atteignant > 1 articulation: avis rhumatologique sous 6 semaines (à compter de l'apparition des symptômes).
+Arthrite atteignant plus d'une articulation: avis rhumatologique sous 6 semaines (à compter de l'apparition des symptômes).
 
-Évoquer une polyarthrite rhumatoïde devant toute arthrite clinique, raideur matinale > 30 minutes, douleurs à la pression transverse des mains (MCP) ou avant-pieds (MTP), évolution > 6 semaines, antécédent de PR chez un parent au 1^er^ degré, difficultés à fermer le poing.
-{.alert .alert-info}
+> [!INFO]
+> Évoquer une polyarthrite rhumatoïde devant toute arthrite clinique, raideur matinale dépassant 30 minutes, douleurs à la pression transverse des mains (MCP) ou avant-pieds (MTP), évolution de plus de 6 semaines, antécédent de PR chez un parent au 1^er^ degré, difficultés à fermer le poing.
 
 L'examen clinique a une place primordiale dans la détection et le traitement de l'arthrite.
 
@@ -122,7 +123,8 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
 - Ancienneté des symptômes
 - L'**arthrite** associe:
   - Gonflement articulaire (synovite des doigts et des poignets +++)
-  - ET douleurs inflammatoires OU raideur matinale > 30 minutes.
+  - ET douleurs inflammatoires
+  - OU raideur matinale > 30 minutes
   - Ténosynovite (inflammation des gaines tendineuses) peut être associée
 
 ### Examen clinique
@@ -142,6 +144,7 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
     [Phénomène de Raynaud]({{% relref "phenomene-raynaud.md" %}}), myalgie, perte de force, lésions cutanées, photosensibilité.
   - Spondyloarthrites et rhumatisme psoriasique  
     Atteinte des IPD, [psoriasis]({{% relref "psoriasis.md" %}}), diarrhée glairo-sanglante, uvéite, rachialgie, pyalgie.
+- Bandelette urinaire
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -153,12 +156,10 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
 - NFS, VS, CRP
 - ASAT, ALAT
 - Créatininémie, DFG selon {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
-- Bandelette urinaire (protéinurie, [hématurie]({{% relref "hematurie.md" %}}))
+- Bandelette urinaire
 - Facteur rhumatoïde (FR)
-- Anticorps anti-peptide citrulliné (*ACPA*)
+- Anticorps anti-peptide citrulliné (ACPA)
 - Anticorps antinucléaires (AAN)
-- Sérologies [hépatite B]({{% relref "hepatite-c.md" %}}), [hépatite C]({{% relref "hepatite-c.md" %}}) et [VIH]({{% relref "vih-sida.md" %}})
-- Ferritine (voir [hémochromatose]({{% relref "hemochromatose.md" %}}))
 
 avec les radiographies suivantes:
 
@@ -170,9 +171,12 @@ avec les radiographies suivantes:
 
 Selon le contexte:
 
+- Biologie supplémentaire:
+  - Sérologies [hépatite B]({{% relref "hepatite-c.md" %}}), [hépatite C]({{% relref "hepatite-c.md" %}}) et [VIH]({{% relref "vih-sida.md" %}})
+  - Ferritinémie (voir [hémochromatose]({{% relref "hemochromatose.md" %}}))
+  - [Uricémie]({{% relref "goutte.md" %}})
+  - Sérologie de borréliose ([Maladie de Lyme]({{% relref "maladie-lyme.md" %}}))
 - Échographie doppler et mode B des poignets, mains et avant-pieds
-- Sérologie de borréliose ([Maladie de Lyme]({{% relref "maladie-lyme.md" %}}))
-- [Uricémie]({{% relref "goutte.md" %}})
 - Ponction et culture de liquide synovial
 
 Les autres examens relèvent du rhumatologue.
@@ -180,7 +184,7 @@ Les autres examens relèvent du rhumatologue.
 {{% /collapse %}}
 {{%collapse "Traitement de la polyarthrite rhumatoïde" %}}
 
-La décision du traitement dépend du rhumatologue, partagée avec le patient.
+La décision du traitement dépend du rhumatologue, partagée avec le patient. Le suivi rhumatologique a lieu tous les 1 à 3 mois jusqu'au contrôle de la maladie.
 {.alert .alert-info}
 
 ### Mesures générales de prise en charge de la polyarthrite
@@ -191,10 +195,10 @@ La décision du traitement dépend du rhumatologue, partagée avec le patient.
   {{%class%}}Gérer la douleur, handicap, observance, maintien de l'activité professionnelle.{{%/class%}}
 - **Suivi bucco-dentaire rigoureux**
 - Correction des facteurs de risque cardiovasculaire
-  - Risque cardiovasculaire: {{< scores/heartscore >}}  
-    Multiplier le risque par 1,5 (*ESC 2021*).
-  - Hypertension artérielle: privilégier IEC/ARA2 ou anticalcique
   - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
+  - Risque cardiovasculaire: {{< scores/heartscore >}}  
+    Multiplier le risque par 1,5 (*ESC 2021*). Évaluation au moins tous les 5 ans.
+  - Hypertension artérielle: privilégier IEC/ARA2 ou anticalcique
   - Activité physique régulière
   - Correction d'un surpoids
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
@@ -202,11 +206,11 @@ La décision du traitement dépend du rhumatologue, partagée avec le patient.
   - Dépistage annuel de la maladie rénale chronique: créatininémie et rapport albuminurie/créatininurie (*HAS 2023*)
 - Prophylaxies infectieuses
   - Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}})
-  - dTP tous les 10 ans, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}
+  - dTP tous les 10 ans, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, grippe/covid annuels
   - Vaccination varicelle-zona post-exposition
   - Éq. prednisone > 15-30 mg/j pendant > 2-4 semaines: prophylaxie de la pneumocystose (*EULAR 2022*)
 - Mise à jour des **[dépistages des cancers](/tags/depistage/)**
-- Association de patients: [AFPric](https://www.polyarthrite.org/), [ANDAR](http://www.polyarthrite-andar.com/)
+- Association de patients: [AFPric](https://www.polyarthrite.org), [ANDAR](http://www.polyarthrite-andar.com)
 - Soins paramédicaux
   - Proposer un soutien psychologique
   - Accompagnement socioprofessionnel
@@ -217,40 +221,39 @@ La décision du traitement dépend du rhumatologue, partagée avec le patient.
 - Déclarer l'[ALD n°22]({{% relref "affection-longue-duree.md" %}})  
   Critères: Polyarthrite inflammatoire (ou affections apparentées) d'évolution chronique justifiant un traitement de fond ou avec handicap lourd.
 
-Un avis **orthopédique** est possible en cas de déformations majeures ou invalidantes.
+Un avis **orthopédique** est requis en cas de déformations majeures ou invalidantes.
 
-> **NB.** Hormis le {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}} voire une supplémentation en oméga-3 ≥ 2 g/j, aucun régime ou supplémentation n'a fait preuve de son efficacité.
+> **NB.** Hormis le {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}} voire une supplémentation en oméga-3 d'au moins 2 g/j, aucun régime ou supplémentation n'a fait preuve de son efficacité.
 
 {{% /collapse %}}
-{{%collapse "Traitement de fond conventionnel et biothérapies" %}}
+{{%collapse "Pour en savoir plus: traitement de fond" %}}
 
 Chapitre pour en savoir plus sur la prise en charge de la polyarthrite par les traitements de fond spécifiques.  
 Ceux-ci relèvent exclusivement du rhumatologue.
 {.alert .alert-info}
 
-**Objectif de la prise en charge:** rémission clinique (absence de signes ou symptômes inflammatoires significatifs) ou plus faible activité possible.  
+**Objectif de la prise en charge:** rémission clinique (absence de signes ou symptômes inflammatoires significatifs) ou plus faible activité possible.
+
 **Rémission:** absence de signes et symptômes d'activité inflammatoire significative.
 
-- Prévention des complications: cardiovasculaires, respiratoires, infectieuses, lymphomes et fractures [ostéoporotiques]({{% relref "osteoporose.md" %}}).
-- Éducation thérapeutique
+Prévention des complications: cardiovasculaires, respiratoires, infectieuses, lymphomes et fractures [ostéoporotiques]({{% relref "osteoporose.md" %}}).
 
 ### Traitement de fond conventionnel de la polyarthrite rhumatoïde
 
 Le traitement de la polyarthrite rhumatoïde est systématique, **<< en urgence >>** dès le diagnostic, même s'il ne remplit pas encore les critères de rhumatisme défini. Il est modifié en cas d'**inefficacité à 3 mois** (ou objectif thérapeutique non atteint à 6 mois).
 
 {{%info%}}
-[Méthotrexate](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65787731&typedoc=R) (MTX) en première intention, dose optimale (25 mg/semaine) à atteindre en 4-8 semaines.
+[Méthotrexate](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65787731&typedoc=R) (MTX) en première intention, dose optimale (25-30 mg/semaine) à atteindre en 4-8 semaines.
 
-Débuter à 10-15 mg en prise unique (ou scindée en 2 doses, étude SMART) par semaine par voie orale (Novatrex®, Imeth®, génériques).  
-Augmentation de 5 mg/1-4 semaines selon efficacité-tolérance.
+Débuter à **15 mg** en prise unique (ou scindée en 2 doses, étude *SMART*) par semaine par voie orale (Novatrex®, Imeth®, génériques). Augmentation de 5 mg/1-4 semaines selon efficacité-tolérance.
 
 ---
 
-- 10 mg/semaine d'acide folique systématique
-- Corticothérapie initiale associée.
+- 10 mg/semaine d'acide folique systématique (minimum)
+- Corticothérapie initiale associée (maximum 6 mois)
 {{%/info%}}
 
-Voie sous-cutanée au-delà de 15 mg/semaine ou si efficacité insuffisante (Imeth injectable®, Metoject®, Nordimet®, génériques).
+Voie sous-cutanée selon tolérance ou si efficacité insuffisante (Imeth injectable®, Metoject®, Nordimet®, génériques).
 
 Décroissance de dose seulement après rémission persistante et prolongée.
 
@@ -258,7 +261,7 @@ Si traitement inaugural ou contre-indication au méthotrexate: **léflunomide** 
 
 ### Biothérapies pour le traitement de la polyarthrite rhumatoïde
 
-Les biothérapies sont utilisées en 2^e^ intention.
+Les biothérapies sont utilisées en deuxième intention.
 
 #### En présence de facteurs de mauvais pronostic
 
@@ -272,7 +275,7 @@ En association avec le méthotrexate (≥ 10 mg/semaine), selon la tolérance, p
 - Anti-CD20  
   Rituximab (pour cas spécifiques: Mabthera®, Truxima®).
 - Inhibiteurs JAK  
-  Baricitinib (Olumiant), filgotinib (Jyseleca®), tofacitinib (Xeljanz®), upadacitinib (Rinvoq®).
+  Baricitinib (Olumiant®), filgotinib (Jyseleca®), tofacitinib (Xeljanz®), upadacitinib (Rinvoq®).
 - Modulateur de costimulation lymphocytes T  
   Abatacept (Orencia®).
 
@@ -298,7 +301,7 @@ Alternative: méthylprednisolone IV 80-120 mg.
 Infiltrations ciblées des articulations douloureuses.
 
 {{% /collapse %}}
-{{%collapse "Suivi de la polyarthrite" %}}
+{{%collapse "Suivi" %}}
 
 ### Suivi de la polyarthrite rhumatoïde
 
@@ -306,26 +309,25 @@ Infiltrations ciblées des articulations douloureuses.
   - EVA, réveils nocturnes, durée de la raideur
   - Nombre d'articulations douloureuses (NAD) et gonflées (NAG)
   - Consommation d'antalgiques et AINS
+  - Toux chronique, dyspnée, auscultation pulmonaire, hippocratisme digital
 - Biologique  
   VS, CRP, BU.
 - Radiographies  
   Mains et pieds à 6 mois et 1 an, puis ≥ 1/an pendant 3 à 5 ans.
-- Correction des facteurs de risque cardiovasculaire et calcul du {{< scores/heartscore >}}
+- Facteurs de risque et calcul du risque cardiovasculaire {{< scores/heartscore >}} (x 1,5)
+- Suivi dentaire
+- Dépression
 
-### Pour en savoir plus: suivi par le rhumatologue
-
-- Par le rhumatologue tous les 1 à 3 mois tant que la maladie est active
-- [Indice articulaire DAS28 (PDF)](https://sfr.larhumatologie.fr/sites/sfr.larhumatologie.fr/files/medias/formations-ressources/boite_outils/das28.pdf)
-- Évaluation annuelle du retentissement: [échelle HAQ](http://www.rhumato.info/fiches-pratiques2/161-polyarthrite-rhumatoide/1684-haq)
+Le suivi par le rhumatologue doit avoir lieu tous les 1 à 3 mois tant que la maladie est active.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une suspicion de polyarthrite" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le diagnostic de la polyarthrite rhumatoïde. Dr JB Fron d'après SFRhumato 2018" >}}
+{{< mermaid title="Conduite à tenir devant des polyarthralgies inflammatoires. Dr JB Fron d'après SFRhumato 2024" >}}
 graph TB
   suspicion["<b>Suspicion de<br>polyarthrite rhumatoïde</b><br>—<br>- Arthrite<br>- Dérouillage matinal<br>- Douleur en pression MCP/MTP"]
   style suspicion stroke:#4150f5, stroke-width:1px
-    suspicion --> bilan("<b>Examens complémentaires</b><br>—<br>- NFS, VS, CRP<br>- ASAT, ALAT<br>- Créatininémie, DFG<br>- BU<br>- Facteur rhumatoïde (FR)<br>- Anticorps anti-peptide citrulliné (ACPA)<br>- Anticorps antinucléaires (AAN)<br>- Sérologie hépatites B et C<br>- Radiographies")
+    suspicion --> bilan("<b>Examens complémentaires</b><br>—<br>- NFS, VS, CRP<br>- ASAT, ALAT<br>- Créatininémie, DFG<br>- BU<br>- Facteur rhumatoïde (FR)<br>- Anticorps anti-peptide citrulliné (ACPA)<br>- Anticorps antinucléaires (AAN)<br>- Radiographies")
       bilan --> rhumato("Avis rhumatologique<br>sous 6 semaines")
     suspicion -- Diagnostic différentiel --> differentiel("- Spondyloarthrite<br>- Connectivite<br>- Arthrose digitale")
 {{< /mermaid >}}
@@ -378,7 +380,6 @@ graph TB
 - Facteur rhumatoïde (FR)
 - Anticorps anti-peptide citrulliné (*ACPA* ou *anti-CCP*)
 - Anticorps antinucléaires (AAN)
-- Sérologies VIH, hépatite B, hépatite C
 
 #### Radiographies de polyarthralgies
 

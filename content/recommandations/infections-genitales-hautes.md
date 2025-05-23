@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-02-06T09:05:23+01:00"
 publishdate = "2024-12-26"
-lastmod = "2025-01-10"
+lastmod = "2025-05-23"
 specialites = ["gynécologie-obstétrique"]
-annees = "2024"
+annees = "2025"
 sources = ["HAS", "SPILF", "CNGOF"]
 tags = ["douleur pelvienne", "infertilite", "IST"]
 english = ["Upper genital tract infections"]
@@ -165,7 +165,7 @@ Cas particuliers:
   - si risque d'IST ou *Mycoplasma genitalium*: avis infectiologique
 - Si **stérilet**/DIU: retrait non systématique (discuté et mise en culture si forme compliquée ou échec à J3-J5)
 - Si VIH: traitement identique
-- Si **IST**: préservatif durant le traitement
+- Si **IST**: préservatif durant le traitement, dépistage des partenaires des 6 derniers mois
 
 ### Après la guérison
 
@@ -199,6 +199,7 @@ Prise en charge de l'endométrite du post-partum en l'absence de signes de gravi
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées par Neisseria gonorrhoeae. 2025.](https://www.has-sante.fr/jcms/p_3604670/fr/recommandations-de-prise-en-charge-des-personnes-infectees-par-neisseria-gonorrhoeae)
 - [HAS, SPILF. Choix et durées d'antibiothérapie dans les infections génitales hautes non compliquées. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3575605/fr/choix-et-durees-d-antibiotherapie-dans-les-infections-genitales-hautes-non-compliquees)
 - [HAS, ANRS, CNS. Prise en charge du patient atteint d'infection à trichomonas vaginalis. 2024.](https://www.has-sante.fr/jcms/p_3562494/fr/prise-en-charge-du-patient-atteint-d-infection-a-trichomonas-vaginalis)
 - [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-162.pdf)
@@ -212,8 +213,7 @@ Prise en charge de l'endométrite du post-partum en l'absence de signes de gravi
 
 ### Bibliographie en attente
 
-- [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées par Neisseria gonorrhoeae. 2025.](https://www.has-sante.fr/jcms/p_3604670/fr/recommandations-de-prise-en-charge-des-personnes-infectees-par-neisseria-gonorrhoeae)
-- [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
+[HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
 
 {{%/sources%}}
 {{% modal title="Facteurs de risque d'infection sexuellement transmissible" id="modal-risque-ist"%}}

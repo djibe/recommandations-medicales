@@ -10,7 +10,7 @@ synonyms = ["Examen médical pour permis de conduire (Arrêté du 28 mars 2022)"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-04-11T16:09:37+02:00"
 publishdate = "2025-04-12"
-lastmod = "2025-04-12"
+lastmod = "2025-05-22"
 specialites = ["certificats"]
 annees = "2022"
 sources = ["MinIntérieur"]
@@ -167,9 +167,12 @@ Les usagers diabétiques qui n'ont pas de traitement susceptible de générer un
 > [!WARNING]
 > Les conducteurs des catégories de permis poids lourd C1, C1E, C, CE, D1, D1E, D et DE appartiennent à ce groupe.
 
+### Groupe lourd Classe I - Pathologies cardiovasculaires
+
+{{< table title="Maladies cardiovasculaires et autorisations pour le permis de conduire poids lourd selon l'Arrêté du 28 mars 2022" class="table-wrap" >}}
 | Catégorie | Sous-catégorie | Réglementation |
 |-----------|----------------|----------------|
-| **1.1. Coronaropathie / Syndrome coronarien / angor** | **1.1.1 Insuffisance coronarienne instable** | **Incompatibilité:** tant qu'existent des symptômes cliniques ou électrique au repos ou lors d'efforts ou d'émotions usuels de la vie courante;<br>**Puis,**<br>**Compatibilité:** si l'insuffisance coronarienne est stable et maîtrisée, cf. paragraphe **1.1.3 Insuffisance coronarienne stable**.|
+| **1.1. Coronaropathie / Syndrome coronarien / angor** | **1.1.1 Insuffisance coronarienne instable** | **Incompatibilité:** tant qu'existent des symptômes cliniques ou électrique au repos ou lors d'efforts ou d'émotions usuels de la vie courante;<br>**Puis,**<br>**Compatibilité:** si l'insuffisance coronarienne est stable et maîtrisée, cf. paragraphe **1.1.3 Insuffisance coronarienne stable**. |
 || **1.1.2 insuffisance coronarienne avec infarctus du myocarde** (IDM) | **Incompatibilité temporaire:** la reprise de la conduite ne peut pas être autorisée avant un délai minimum de 6 semaines en cas d'atteinte myocardique significative;<br>**Puis,**<br>**Incompatibilité** tant que l'insuffisance coronarienne est instable, cf. paragraphe **1.1.1 Insuffisance coronarienne** instable;<br>**Ou,**<br>**Compatibilité:** si l'insuffisance coronarienne est stable, cf. paragraphe **1.1.3 Insuffisance coronarienne stable.** |
 || **1.1.3 Insuffisance coronarienne stable** | **Compatibilité:** après avis médical spécialisé régulier, si l'état clinique sous traitement est stable, sans symptomatologie clinique ou électrique au repos ou lors d'efforts ou d'émotions usuels de la vie courante. |
 || **1.1.4 Insuffisance coronarienne avec traitement par voie endoluminale ou par pontage chirurgical** | **Incompatibilité temporaire:** en pré interventionnel, dès que l'indication de l'une des interventions citées est posée<br>**Puis,**<br>**Incompatibilité temporaire:** en post interventionnel, la reprise de la conduite ne peut pas être autorisée avant un délai minimum de 6 semaines;<br>**Puis,**<br>**Compatibilité:** si l'insuffisance coronarienne est stable, cf. paragraphe **1.1.3 Insuffisance coronarienne stable**;<br>**Ou incompatibilité** tant que les critères ne sont pas remplis. |
@@ -192,11 +195,13 @@ Les usagers diabétiques qui n'ont pas de traitement susceptible de générer un
 | **1.12 Cardiomyopathies** | **1.12.1 Cardiomyopathie hypertrophique** | **Incompatibilité temporaire:** dans l'attente d'un avis médical spécialisé, qui détermine le risque de manifestations cliniques invalidantes pour la vie courante:<br>**Puis,**<br>**Incompatibilité définitive:** si antécédents de syncope ou lorsqu'au moins deux des conditions ci-après sont réunies: épaisseur de la paroi du ventricule gauche > 3 cm, tachycardie ventriculaire non soutenue, antécédents familiaux de mort subite (parent du premier degré), pas d'élévation de la pression artérielle à l'effort;<br>**Ou compatibilité:** dans les autres cas, selon l'avis médical spécialisé régulier, qui estime que le risque de manifestations cliniques invalidante pour la vie courante est négligeable et, en particulier, le risque de lipothymie ou de syncope. |
 || **1.12.2 Syndrome de Brugada avec syncope ou mort subite cardiaque avortée** | **Incompatibilité définitive** |
 || **1.12.3 Autres cardiomyopathies:** cardiomyopathie ventriculaire droite arythmogène, cardiomyopathie par non-compaction, tachycardie ventriculaire polymorphe catécholaminergique et syndrome du QT court, par exemple, ou cardiomyopathies non connues qui pourraient être découvertes, ou autres pathologies à risque rythmique | **Incompatibilité temporaire:** Dans l'attente d'un avis médical spécialisé qui détermine, en fonction du type de cardiomyopathie, le risque de manifestations cliniques invalidantes pour la vie courante;<br>**Puis,**<br>**Incompatibilité définitive ou compatibilité:** selon l'avis médical spécialisé, qui tient compte des caractéristiques diagnostiques et évolutives de la cardiomyopathie considérée. |
+{{< /table >}}
 
 ### Groupe lourd Classe II - Pathologies ophtalmologiques
 
 L'attention est portée sur l'acuité visuelle, le champ visuel, la vision crépusculaire, la sensibilité à l'éblouissement, la sensibilité aux contrastes de lumière et sur la recherche d'une diplopie.
 
+{{< table title="Maladies ophtalmologiques et autorisations pour le permis de conduire poids lourd selon l'Arrêté du 28 mars 2022" class="table-wrap" >}}
 | Catégorie | Sous-catégorie | Réglementation |
 |-----------|----------------|----------------|
 | **2.1 Fonctions visuelles** | **2.1.1 Altération de l'acuité visuelle en vision de près et de loin testée, s'il y a lieu, avec les corrections optiques du conducteur** | **Incompatibilité:** si l'acuité visuelle du meilleur œil est inférieure à 8/10 ou si l'acuité visuelle de l'œil le moins bon est inférieure à 1/10 ou si l'acuité visuelle est satisfaisante mais obtenue avec des verres correcteurs de lunettes de plus de 8 dioptries (en valeur absolue). Cette limite sur l'importance de la correction n'existe pas lors de la correction par des lentilles de contact cornéennes. <br> **Incompatibilité:** lors de la diminution importante et rapide de la vision d'un œil, même si les critères d'acuité visuelle continuent à être remplis. Cette incompatibilité est maintenue jusqu'à ce que les exigences des paragraphes **2.1.1 relatif à l'acuité visuelle** et **2.1.2 champ visuel** soient remplies et que l'usager se soit adapté aux nouvelles conditions de vue si la récupération n'est pas complète. <br> **Compatibilité dans les autres cas:** si l'acuité du meilleur œil est supérieure ou égale à 8/10 et l'acuité de l'œil le moins bon est supérieure ou égale à 1/10, avec si besoin une correction, qui, si elle est obtenue par des lunettes, est de moins de 8 dioptries (en valeur absolue). Cette condition n'existe pas avec les lentilles de contact. Les corrections doivent être bien tolérées. |
@@ -207,9 +212,11 @@ L'attention est portée sur l'acuité visuelle, le champ visuel, la vision crép
 | **2.2 Autres pathologies oculaires:**<br> **2.2.2 Troubles de la motilité** | **Blépharospasmes acquis** | **Incompatibilité définitive:** après avis médical spécialisé, si confirmation de l'affection. |
 || **Troubles de la mobilité du globe oculaire** | **Incompatibilité définitive:** après avis médical spécialisé, sauf dans les cas de compatibilité décrits ci-dessous. <br> **Ou compatibilité:** après avis médical spécialisé, si le strabisme ou l'hétérophorie sont non décompensés si les caractéristiques de la vision répondent aux exigences des paragraphes ci-dessus **2.1.1 acuité visuelle** et **2.1.2 champ visuel**. |
 || **Nystagmus** | **Incompatibilité définitive**. |
+{{< /table >}}
 
 ### Groupe lourd Classe III - Pathologies ORL et pneumologiques {.mt-5}
 
+{{< table title="Maladies ORL et pneumologiques et autorisations pour le permis de conduire poids lourd selon l'Arrêté du 28 mars 2022" class="table-wrap" >}}
 | Catégorie | Sous-catégorie | Réglementation |
 |-----------|----------------|----------------|
 | **3.1 Déficience auditive** isolée sans trouble de l'équilibre (testée sans correction auditive) <br> **Critère audition:** voix chuchotée entendue à 1 mètre et voix haute entendue à 5 mètres | **3.1.1 Déficience auditive modérée ou moyenne** | **Compatibilité:** avec mention restrictive sur le permis de conduire: code 42 (dispositif vision arrière et latérale adaptée).<br> Avis médical spécialisé si nécessaire. |
@@ -222,13 +229,21 @@ L'attention est portée sur l'acuité visuelle, le champ visuel, la vision crép
 | **3.3 Port d'une canule trachéale** || **Compatibilité ou incompatibilité:** après avis médical spécialisé si nécessaire. |
 | **3.4 Insuffisance respiratoire nécessitant une assistance ventilatoire ou un oxygénothérapie continue** || **Incompatibilité définitive** |
 | **3.5 Syndrome des apnées du sommeil** || Cf. paragraphe **4.3 Troubles du sommeil** |
+{{< /table >}}
 
 ## Groupe lourd Classe IV - Pathologies neurologiques, psychiatriques et addictions {.mt-5}
+
+| Catégorie | Pathologie |Réglementation |
+|-----------|------------|-----------------|
+| **4.1 Pratiques addictives** | **4.1.1 Trouble de l'usage de l'alcool** | **Incompatibilité:** pendant la période de trouble de l'usage de l'alcool;<br> **Puis,**<br> **Compatibilités temporaires de 6 mois, pendant trois ans au moins:** les évaluations pour déterminer la compatibilité sont réalisées en commission médicale. La commission prend en compte les éléments cliniques et biologiques et les facteurs sociaux, ainsi qu'un avis médical spécialisé si nécessaire. La reprise de la conduite peut être conditionnée à un accompagnement adapté en addictologie.<br> Les risques additionnels liés à l'environnement de travail sont envisagés avec attention;<br> **Puis,** <br> **Compatibilité:** à l'issue de cette ou de ces période(s), lorsqu'elles sont menées avec succès et que le risque de récidive est considéré comme non significatif. Avis médical spécialisé si nécessaire. |
+|| 4.1.2 **Consommation de drogues ou autres substances psychoactives (dont le mésusage de médicaments psychoactifs)** | **Incompatibilité:** tant qu'existe un état de dépendance ou un trouble de l'usage de substances psychoactives. Recours possible à des examens de biologie médicale spécifiques;<br> **Puis,** <br> **Compatibilités temporaires de 6 mois, pendant trois ans au moins:** la première évaluation pour déterminer la compatibilité est réalisée en commission médicale. Celle-ci, comme les évaluations successives, prend en compte les éléments cliniques, biologiques et sociaux, ainsi qu'un avis médical spécialisé si nécessaire. La reprise de la conduite peut être conditionnée à un accompagnement adapté en addictologie. Les risques additionnels liés à l'environnement de travail sont envisagés avec la plus grande attention. <br> **Puis,** <br> **Compatibilité:** à l'issue de ces périodes de six mois, lorsqu'elles sont menées avec succès, dès lors que les éléments cliniques et biologiques confirment l'absence de trouble de l'usage de substances psychoactives et que le risque de récidive est considéré comme non significatif. Avis médical spécialisé si nécessaire. |
+| **4.2 Consommation de médicaments psychotropes ou de médicaments ayant des effets secondaires psychoactifs** ||**Incompatibilité:** pendant la durée du traitement et en fonction de la demi-vie du principe actif à l'arrêt du traitement, dès lors qu'un ou des principes actifs du ou des médicament(s), à la dose utilisée, est susceptible d'altérer la vigilance ou le comportement.<br> **Compatibilité:** dans les autres cas. Avis médical spécialisé si nécessaire. |
+| **4.3 Troubles du sommeil** | **4.3.1 Somnolence excessive, d'origine comportementale, organique** (dont le syndrome d'apnée obstructive du sommeil\* modéré ou sévère), **psychiatrique ou iatrogène** <br> *Le syndrome d'apnées obstructives du sommeil modéré correspond à un nombre d'apnées et d'hypopnées par heure (index d'apnées et hypopnées) compris entre 15 et 29. Le syndrome d'apnées obstructives du sommeil sévère correspond à un index d'apnées et hypopnées supérieur ou égal à 30. Les deux syndromes sont toujours associés à une somnolence diurne excessive. | **Incompatibilité:** tant que persiste la somnolence malgré le traitement. L'avis du médecin spécialisé, selon l'étiologie de la somnolence, est requis; <br> **Puis,** <br> **Compatibilité temporaire d'un an maximum, renouvelable:** la reprise de la conduite peut avoir lieu après 4 semaines de traitement avec la confirmation de l'efficacité thérapeutique, après avis du médecin spécialiste, qui réalise un bilan avec un test de maintien de l'éveil qui indique que la vigilance est devenue normale et que le risque de somnolence diurne dans les actes de la vie courante est négligeable. Cet avis médical spécialisé avec bilan est renouvelé annuellement. <br> Les risques additionnels liés aux conditions et aux horaires de travail sont envisagés, systématiquement, avec la plus grande attention. |
 
 *Suite à venir.*
 
 {{%sources%}}
 
-[Ministère de l'Intérieur. Arrêté du 28 mars 2022 fixant la liste des affections médicales incompatibles ou compatibles avec ou sans aménagements ou restrictions pour l’obtention, le renouvellement ou le maintien du permis de conduire ou pouvant donner lieu à la délivrance de permis de conduire de durée de validité limitée (refonte). Journal Officiel. 2025.](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000045464094/2025-04-11/)
+[Ministère de l'Intérieur. Arrêté du 28 mars 2022 fixant la liste des affections médicales incompatibles ou compatibles avec ou sans aménagements ou restrictions pour l'obtention, le renouvellement ou le maintien du permis de conduire ou pouvant donner lieu à la délivrance de permis de conduire de durée de validité limitée (refonte). Journal Officiel. 2025.](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000045464094/2025-04-11/)
 
 {{%/sources%}}
