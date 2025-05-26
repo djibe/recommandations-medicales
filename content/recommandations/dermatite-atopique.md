@@ -19,7 +19,7 @@ icd10 = ["L20", "L20.9"]
 flowchart = true
 image = true
 imageSrc = "Eczéma lichénifié du dos de la main. Care_SMC sur Foter.com / CC BY-ND"
-todo = "phalangette"
+todo = "SEO, réécrire | phalangette"
 +++
 
 {{%article-summary%}}
@@ -128,7 +128,7 @@ Dermatite atopique sévère: [score SCORAD](https://www.mdapp.co/scoring-atopic-
 
 ### Aspect de la dermatite atopique selon l'âge
 
-{{< card-link-external title="Localisation des lésions de dermatite atopique selon l'âge" url="https://dermato-info.fr/fr/les-maladies-de-la-peau/la-dermatite-atopique" subtitle="- dermato-info">}}
+{{< card-link-external title="Localisation des lésions de dermatite atopique selon l'âge" url="https://dermato-info.fr/fr/les-maladies-de-la-peau/la-dermatite-atopique" subtitle="par dermato-info">}}
 
 #### Premières semaines de vie
 

@@ -8,7 +8,7 @@ synonyms = ["Hyperuricémie", "arthropathie uricémique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-08T09:35:00+02:00"
 publishdate = "2021-01-08"
-lastmod = "2024-08-23"
+lastmod = "2025-05-26"
 specialites = ["rhumatologie"]
 annees = "2020"
 sources = ["SFRhumato", "ACR", "EULAR"]
@@ -435,10 +435,10 @@ Intérêt de colchicine prophylactique.
 - [ANSM. Prise en charge par colchicine de la goutte : une nouvelle posologie plus faible et un message d'alerte sur les boites pour réduire le risque de surdosage. 10/10/2023.](https://ansm.sante.fr/informations-de-securite/prise-en-charge-par-colchicine-de-la-goutte-une-nouvelle-posologie-plus-faible-et-un-message-dalerte-sur-les-boites-pour-reduire-le-risque-de-surdosage)
 - {{< references/esh-2023 >}}
 - Prescrire Rédaction. Crise de goutte. Premiers Choix Prescrire. Rev Prescrire. 2021.
-- [Latourte A et al. Recommandations 2020 de la Société française de rhumatologie pour la prise en charge de la goutte : traitement des crises de goutte. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301502)
-- [Pascart T et al. Recommandations de la Société française de rhumatologie pour la prise en charge de la goutte : le traitement hypo-uricémiant. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301514)
-- [FitzGerald JD et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res. 2020.](https://onlinelibrary.wiley.com/doi/full/10.1002/acr.24180)
-- [Richette P et al. 2016 updated EULAR evidence-based recommendations for the management of gout. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/1/29)
+- [Latourte A, et al. Recommandations 2020 de la Société française de rhumatologie pour la prise en charge de la goutte : traitement des crises de goutte. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301502)
+- [Pascart T, et al. Recommandations de la Société française de rhumatologie pour la prise en charge de la goutte : le traitement hypo-uricémiant. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1169833020301514)
+- [FitzGerald JD, et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res. 2020.](https://onlinelibrary.wiley.com/doi/full/10.1002/acr.24180)
+- [Richette P, et al. 2016 updated EULAR evidence-based recommendations for the management of gout. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/1/29)
 - [ANSM. Allopurinol et risque de survenue de toxidermies graves. Lettre aux professionnels de santé. 25 Février 2013. (PDF)](https://archive.ansm.sante.fr/var/ansm_site/storage/original/application/0d726dfed60daadafe7766e02654ddef.pdf)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Arthropathie microcristalline. Item 198 UE 8. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-19-0.php#ch_2_1)
 

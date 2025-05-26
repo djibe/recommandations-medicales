@@ -572,7 +572,7 @@ graph TB
 - [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 10 BIS](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2010%20BIS)
 
 {{%/sources%}}
-{{% modal title="bronchodilatateurs de courte durée d'action" id="modal-ttt-baca"%}}
+{{% modal title="Bêta2-agonistes de courte durée d'action" id="modal-ttt-baca"%}}
 
 {{< traitements/baca >}}
 

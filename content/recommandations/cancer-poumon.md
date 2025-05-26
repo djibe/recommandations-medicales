@@ -8,7 +8,7 @@ synonyms = ["Cancer broncho-pulmonaire", "tumeur pulmonaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-10T17:35:52+02:00"
 publishdate = "2022-05-12"
-lastmod = "2025-03-20"
+lastmod = "2025-05-23"
 specialites = ["pneumologie"]
 annees = "2022"
 sources = ["HAS", "SPLF", "ERS"]
@@ -73,6 +73,8 @@ SPLF
 {{< card-link-external title="Dépenses liées au cancer du poumon" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Cancers&refine.patho_niv2=Cancer%20bronchopulmonaire">}}
 
 #### Études du dépistage du cancer du poumon
+
+Les inclusions pour l'étude française sur les bénéfices du dépistage du cancer du poumon chez les personnes à risque débuteront en fin d'année ([INCa](https://www.cancer.fr/catalogue-des-publications/le-depistage-des-cancers-du-poumon-a4)).
 
 Étude NELSON
 : Réduction de la mortalité par cancer du poumon à 10 ans de 26%/61% (H/F) chez les personnes à haut risque de CBP. La réduction de la mortalité à 10 ans n'est que 3,2% (6,7% dans l'étude NSLT).

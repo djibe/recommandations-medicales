@@ -234,7 +234,7 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{< scores/saos-diabete >}}
 
 {{% /modal %}}
-{{% modal title="bronchodilatateurs de courte durée d'action" id="modal-ttt-baca"%}}
+{{% modal title="Bêta2-agonistes de courte durée d'action" id="modal-ttt-baca"%}}
 
 {{< traitements/baca >}}
 

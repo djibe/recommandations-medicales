@@ -20,15 +20,16 @@ icd10 = ["G51.0"]
 flowchart = true
 image = true
 imageSrc = "Signes à l'examen de la paralysie faciale a frigore. Photo de l'Internet Archive Book Images sur Foter.com"
-todo = "SEO 'paralysie faciale peripherique', soins oculaires"
+todo = "update | SEO 'paralysie faciale peripherique', soins oculaires"
 +++
 
 {{%article-summary%}}
 
-- *Ces recommandations de la paralysie faciale concernent l'adulte*
+*Ces recommandations de la paralysie faciale concernent l'adulte.*
+
 - Le diagnostic de paralysie faciale périphérique idiopathique (*ex* paralysie faciale *a frigore*) est le diagnostic d'élimination d'une paralysie faciale périphérique (PFP)
 - Interrogatoire et examen clinique majeurs
-- Bilan systématique de toute paralysie faciale a frigore: NFS, glycémie, sérologie Lyme et VIH, audiométrie, IRM avec injection, EMG si paralysie faciale grave
+- Bilan systématique de toute paralysie faciale a frigore: NFS, glycémie, sérologie Lyme (SFORL) et VIH, audiométrie, IRM avec injection, EMG si paralysie faciale grave
 - PFP hyperalgique: sérologies VZV et HSV
 - Prise en charge de la paralysie faciale périphérique idiopathique en urgence: prednisolone + valaciclovir
 
@@ -111,6 +112,8 @@ SFORL
 
 - Poids, taille, IMC
 - Pression artérielle
+- Rechercher un érythème migrant  
+  Sa présence signe une neuroborréliose.
 
 #### Hémiparalysie faciale périphérique isolée
 
@@ -194,10 +197,11 @@ Les diagnostics différentiels sont dominés par les **causes tumorales, traumat
 
 {{%info%}}
 
-### Bilan devant une paralysie faciale périphérique d'allure idiopathique
+### Bilan d'une paralysie faciale périphérique d'allure idiopathique
 
 - NFS
-- Sérologie Lyme
+- Sérologie Lyme (*SFORL*)  
+  Seulement si notion de piqûre ou érythème migrans dans les 6 mois selon *HAS*.
 - Glycémie à jeun si facteurs de risque:  
   Antécédents familiaux de diabète, obésité, âge ≥ 40 ans.
 - Sérologie VIH  
@@ -297,6 +301,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques (MVT). 2025.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques-mvt)
 - [SFORL. Prise en charge de la Paralysie Faciale Idiopathique à la phase aiguë chez l'adulte. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/07/Recommandation-SFORL-Prise-en-charge-de-la-Paralysie-Faciale-Idiopathique-%C3%A0-la-phase-aigu%C3%AB-chez-l-adulte-2020.pdf)
 - [Collège des enseignants de neurologie. Paralysie faciale.](https://www.cen-neurologie.fr/second-cycle/paralysie-faciale)
 
