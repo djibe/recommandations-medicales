@@ -114,7 +114,7 @@
                   {{- $data := slice "AFEF" "CNGOF" "ESC" "HAS" "NICE" "SFP" "SPILF" "SPLF" }}
                   {{- range . }}
                     {{ if in $data . }}
-                      <span class="header-params px-2 source source-{{ lower . }}" title="Guide {{ . }}" data-toggle="tooltip" aria-label="Guide {{ . }}"></span>
+                      <span class="header-params px-2 source source-{{ lower . }}" title="Guide {{ . }}" data-toggle="tooltip"></span>
                     {{ else }}
                     <span class="header-params px-2">{{ . }}</span> &bull;
                     {{ end -}}
