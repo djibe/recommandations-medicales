@@ -95,7 +95,7 @@ Les signes et symptômes de la carence en vitamine B12 peuvent être extrêmemen
 
 - Pression artérielle, fréquence cardiaque
 - Poids et variations, taille, IMC
-- Signes d'anémie  
+- Signes d'anémie:  
   {{< clinique/anemie >}}.
 - Examen buccal: glossite
 - Examen neurologique  

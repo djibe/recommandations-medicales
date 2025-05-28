@@ -102,7 +102,7 @@ Signes et symptômes à rechercher lorsqu'une hypotension orthostatique est susp
 - Signes de déshydratation  
   {{< clinique/deshydratation >}}.
 - [Dénutrition]({{% relref "denutrition.md" %}})
-- Signes d'anémie  
+- Signes d'anémie:  
   {{< clinique/anemie >}}.
 
 Envisager une MAPA en cas de doute.

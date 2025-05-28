@@ -142,11 +142,11 @@ Le bilan d'un TCA allongé n'est réalisé qu'**en cas de TP normal** ou de TCA 
 ### Examen clinique
 
 - Pression artérielle, fréquence cardiaque
-- Signes d'anémie  
+- Signes d'anémie:  
   {{< clinique/anemie >}}.
-- Signes de carence martiale  
+- Signes de carence martiale:  
   {{< clinique/carence-martiale >}}.
-- Signes d'insuffisance hépatocellulaire  
+- Signes d'insuffisance hépatocellulaire:  
   {{< clinique/insuffisance-hepato-cellulaire >}}
 - Inspection cutanée et des muqueuses, muscles et articulations
 - Aires ganglionnaires

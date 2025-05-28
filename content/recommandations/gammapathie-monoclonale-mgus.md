@@ -75,7 +75,7 @@ Signes et symptômes à relever lors de la découverte d'un pic monoclonal:
   - Augmentation rapide du pic monoclonal
 - Drapeaux rouges
   - AEG: fatigue/asthénie, amaigrissement, anorexie
-  - Signes d'anémie  
+  - Signes d'anémie:  
     {{< clinique/anemie >}}
   - [Insuffisance rénale]({{% relref "insuffisance-renale-aigue.md" %}})
   - Rechercher une [ostéoporose]({{% relref "osteoporose.md" %}}), des douleurs ou fractures osseuses (vertébrales ++)

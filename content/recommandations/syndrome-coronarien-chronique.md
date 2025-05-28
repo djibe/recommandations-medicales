@@ -159,7 +159,7 @@ Angor peu probable
 - Rechercher des signes:
   - Insuffisance cardiaque  
     [Dyspnée](/tags/dyspnee/), orthopnée, intolérance à l'exercice, [fatigue](/tags/fatigue/), œdèmes des chevilles, {{< clinique/insuffisance-cardiaque-droite >}}
-  - Anémie  
+  - Anémie:  
     {{< clinique/anemie >}}.
   - Hypertension artérielle
   - Valvulopathie

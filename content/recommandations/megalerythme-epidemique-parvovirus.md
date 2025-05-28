@@ -69,7 +69,7 @@ L'incubation du parvovirus B19 dure de 6 à 14 jours.
 - État général, température, temps de recoloration cutanée
 - Auscultation cardio-respiratoire
 - Examen cutanéo-muqueux
-- Signes d'anémie (anémie aiguë érythroblastopénique)  
+- Signes d'anémie (anémie aiguë érythroblastopénique):  
   {{< clinique/anemie >}}.
 - Palpation des aires ganglionnaires
 

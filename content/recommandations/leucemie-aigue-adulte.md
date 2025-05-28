@@ -90,7 +90,7 @@ Aucun signe clinique n'est spécifique de la leucémie aiguë.
 - Hémogrammes antérieurs
 - Symptômes et complications
   - [Fatigue](/tags/fatigue/), AEG
-  - Syndrome anémique mal toléré  
+  - Syndrome anémique mal toléré:  
     {{< clinique/anemie >}}.
   - Syndrome hémorragique: hématomes spontanés, purpura, saignements muqueux
   - Infection bactérienne traînante

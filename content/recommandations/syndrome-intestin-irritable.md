@@ -143,7 +143,7 @@ Le diagnostic de syndrome de l'intestin irritable est clinico-biologique: syndro
 - Poids, taille, IMC, variations
 - Palpation abdominale
 - Si constipation: toucher rectal
-- Signes négatifs: signes d'anémie  
+- Signes négatifs: pas de signes d'anémie  
   {{< clinique/anemie >}}
 
 Avis gastro-entérologique si: doute diagnostique, symptômes sévères ou échec du traitement de première intention, demande du patient, [incontinence fécale]({{% relref "incontinence-fecale.md" %}}).

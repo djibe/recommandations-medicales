@@ -111,9 +111,8 @@ Voir [alopécie]({{% relref "alopecie.md" %}}).
 
 ### Anémie et post-partum
 
-- Contrôler l'hémogramme si: saignement, signes d'anémie  
-  {{< clinique/anemie >}}.
-- Si anémie < 11 g/dL à H48: supplémentation en fer
+- Contrôler l'hémogramme si: saignement, signes d'anémie ({{< clinique/anemie >}})
+- Si anémie < 11 g/dL à 48 heures: supplémentation en fer
 - Supplémentation intra-veineuse si: Hb < 8-9 g/dL ou fatigue importante
 - Discuter une transfusion si: Hb < 7 g/dL selon la tolérance maternelle
 
