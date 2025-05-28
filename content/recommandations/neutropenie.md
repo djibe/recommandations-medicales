@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-24T15:24:36+02:00"
 publishdate = "2023-04-27"
-lastmod = "2025-01-17"
+lastmod = "2025-05-28"
 specialites = ["hématologie"]
 annees = "2024"
 sources = ["PNDS"]
@@ -17,33 +17,32 @@ sctid = "165517008"
 icd10 = ["D70"]
 image = true
 imageSrc = "Polynucléaire neutrophile avec son noyau polylobé. Dr Roshan Nasimudeen, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "relecture demandée, vaccins IM | Figure4p36"
+todo = "vaccins IM | Figure4p36"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- La neutropénie est un compte des polynucléaires neutrophiles inférieur à 1500/mm³ (1,5 G/L). Elle est dite profonde en-dessous de 0,5 G/L (risque infectieux majeur) et sévère en cas de symptômes (infections, aphtes ou parodontopathie)
-- Bilan de la neutropénie chronique (à partir de la puberté): examen clinique et NFS, Dosage pondéral des immunoglobulines, électrophorèse des protéines, immunophénotypage lymphocytaire, anticorps (ADN natifs, nucléaires, facteur rhumatoïde) ...
+- La neutropénie est un compte des polynucléaires neutrophiles inférieur à 1500/mm³ (1,5 G/L). Elle est dite profonde en-dessous de 0,5 G/L et sévère en cas de symptômes (infections, aphtes ou parodontopathie).
+- **L'urgence devant une neutropénie** ne tient pas à la profondeur de la neutropénie (< 0,5 G/L) mais à son association avec une infection bactérienne, une anémie ou une thrombopénie (hémopathie maligne, aplasie médullaire ou atteinte grave de l'hématopoïèse).
 - Principaux tableaux cliniques associés à la découverte d'une neutropénie:
   - Infection sévère (*ex* phlegmon amygdalien, cellulite, [pneumonie]({{% relref "pneumonie-aigue-communautaire.md" %}})) ou autre lignée atteinte (anémie, macrocytose): urgence médicale, avis hématologique urgent
   - Pathologie associée: avis hématologique non urgent
-  - Découverte fortuite ou infection virale: surveillance à 48h puis une semaine. Avis si persistance à 2 mois
-  - Isolée, bien tolérée et résolution spontanée rapide: pas d'examen (cause probable médicamenteuse ou virale)
+  - Découverte fortuite ou contexte d'infection virale: contrôle à distance si bien tolérée (3-4 semaines). Avis et bilan complémentaire si persistance à 2-3 mois
+  - Isolée, bien tolérée et résolution spontanée rapide: pas d'examen complémentaire (cause probable médicamenteuse ou virale)
   - Sujet d'origine Africaine avec neutropénie chronique isolée: pas d'examens au-delà du bilan initial
-- La neutropénie est une contre-indication à la mesure de la température rectale et aux injections intramusculaires
+- Bilan étiologique d'une neutropénie chronique (à partir de la puberté): examen clinique et NFS, dosage pondéral des immunoglobulines, électrophorèse des protéines, immunophénotypage lymphocytaire, recherche d'anticorps (ADN natifs, nucléaires, facteur rhumatoïde) ...
+- La neutropénie est une contre-indication à la mesure de la température rectale et aux injections intramusculaires.
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Neutropénie
-: Polynucléaires neutrophiles inférieurs à 1,5 G/L (1500/mm³) chez l'adulte ou l'enfant de plus de 3 mois. La neutropénie est **profonde en-dessous de 0,5 G/L**, **sévère en cas de symptômes** (infections, aphtes ou parodontopathie) ou **bénigne** en leur absence.  
-La neutropénie est physiologique jusqu'à 1 G/L chez les sujets d'origine Africaine.
-: Le dosage de l'hémogramme est réalisé sur les polynucléaires neutrophiles (PNN) circulants et peut être faussé par le stress, la digestion, l'activité physique, le tabagisme et les corticoïdes.  
-Le nombre fluctue du fait du changement de secteur des PNN (circulant, marginé, médullaire), nécessitant de répéter les hémogrammes.
-: Le risque d'une neutropénie est infectieux: infection bactérienne ou mycosique (cutanéo-muqueuse, ORL et pulmonaire surtout), avec un risque majeur sous 0,2 G/L (200/mm³) et selon l'ancienneté de la neutropénie.  
+: Polynucléaires neutrophiles inférieurs à 1,5 G/L (1500/mm³) chez l'adulte ou l'enfant de plus de 3 mois. La neutropénie est **profonde en-dessous de 0,5 G/L**, **sévère en cas de symptômes** (infections, aphtes ou parodontopathie) ou **bénigne** en leur absence. Elle est dite **chronique** lorsqu'elle persiste plus de 3 mois.
+: La prévalence de la neutropénie est de 1 à 2% en population générale; sa fréquence augmente selon certaines origines géographiques, notamment Africaine.
+: Le dosage de l'hémogramme est réalisé sur les polynucléaires neutrophiles (PNN) circulants et peut être faussé par le stress, la digestion, l'activité physique, le tabagisme et les corticoïdes. Le nombre fluctue du fait du changement de secteur des PNN (circulant, marginé, médullaire), nécessitant de répéter les hémogrammes.
+: Le risque d'une neutropénie est essentiellement infectieux: infection bactérienne ou mycosique (cutanéo-muqueuse, ORL et pulmonaire surtout). Ce risque est avant tout déterminé par l'étiologie de la neutropénie, sa durée et l'altération des barrières muqueuses, bien plus que par le chiffre absolu de PNN.
 : En cas de neutropénie, la réaction inflammatoire est réduite avec l'**absence de pus** et l'évolution est **nécrosante**.
-: La prévalence de la neutropénie est de 1 à 2%.
 
 ### Abréviations
 
@@ -69,8 +68,11 @@ PNN
 {{% /collapse %}}
 {{%collapse "Orientation étiologique devant une neutropénie" %}}
 
-Les neutropénies sont souvent transitoires en contexte post-viral ou médicamenteux.
-{.alert .alert-info}
+> [!INFO]
+> Les neutropénies sont souvent transitoires en contexte post-viral ou médicamenteux.
+
+La très grande majorité des neutropénies est transitoire: le plus souvent secondaires à une infection virale, parfois liées à la prématurité chez les nouveau-nés. Plus rarement, la neutropénie est inaugurale d'une hémopathie maligne.  
+La neutropénie peut aussi être chronique lorsqu'elle est retrouvée au-delà de 3 mois, et peut faire discuter plusieurs étiologies comme la neutropénie dite << ethnique >>, les neutropénies acquises et les neutropénies génétiques.
 
 La présentation du tableau faisant découvrir la neutropénie guide l'enquête diagnostique:
 
@@ -79,8 +81,8 @@ La présentation du tableau faisant découvrir la neutropénie guide l'enquête 
 - Atteinte d'autre lignée hématologique ou d'hépatosplénomégalie  
   Macrocytose ou anémie: avis hématologique urgent.
 - Contexte de pathologie associée: avis hématologique sans urgence
-- Infection virale ou bilan systématique: contrôle à 48 heures puis 1 semaine  
-  Surveillance médicale après 7 jours et NFS répétées. Avis hématologique si persistance à 2 mois.
+- Infection virale ou bilan systématique: contrôle à distance si bien tolérée (3-4 semaines)  
+  Avis et bilan complémentaire si persistance à 2-3 mois.
 - Isolée, bien tolérée et résolution spontanée rapide: pas d'examen  
   Cause médicamenteuse ou virale.
 - Sujet d'origine Africaine avec neutropénie chronique isolée: pas de suivi lorsque les immunoglobulines et les sérologies sont normales
@@ -92,12 +94,17 @@ Critères permettant de ne pas prolonger les examens:
 - Le patient est d'origine africaine
 - Les neutrophiles sont pendant au moins 3 mois dans la fourchette ]0,5 - 1,5[ G/L
 - Sans antécédent d'infection sévère
-- Aphtes buccaux rares (< 3/an)
-- Sans malformation ou dysfonction de système
+- Les aphtes buccaux sont absents ou rares (< 3/an)
+- Absence de malformation ou dysfonction de système
 - Bilan normal: dosage pondéral des immunoglobulines (ou EPS si âgé), sérologies virales
 
-### Principales étiologies des neutropénies chroniques
+Le risque infectieux dans ce cas est nul. Cette entité ne nécessite ni surveillance, ni traitement.
 
+### Principales étiologies des neutropénies
+
+#### A) Aiguës / transitoires
+
+- **Hémopathies malignes**
 - Médicaments (iatrogénie)  
   Anti-épileptiques (valproate, carbamazépine), antipsychotiques (clozapine ...), neuroleptiques, antibiotiques, antithyroïdiens, anti-inflammatoires.
 - Toxique  
@@ -108,15 +115,20 @@ Critères permettant de ne pas prolonger les examens:
   - Paludisme viscéral
   - Septicémies graves
   - [Hépatite virales](/tags/hepatite/)
-- Hypersplénisme
-- Hémopathies malignes
-- Endocrinopathie  
-  [Hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}), [hypothyroïdie]({{% relref "hypothyroidie.md" %}}), insuffisance surrénalienne, panhypopuitiatisme.
-- Autres causes de neutropénie
-  - Carences (vitamine B9, B12, fer), cuivre (nutrition parentérale prolongée, diarrhée chronique)
-  - Troubles de la répartition des PNN
-  - Neutropénie congénitale
-  - Connectivite (lupus, [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}))
+
+#### B) Chroniques
+
+- Acquises
+  - Pathologie auto-immune  
+    Connectivite (lupus, [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), syndrome de Gougerot-Sjögren), Syndrome d'Evans.
+  - Endocrinopathie  
+    [Hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}), [hypothyroïdie]({{% relref "hypothyroidie.md" %}}), insuffisance surrénalienne, panhypopituitarisme.
+  - Neutropénie auto-immune du nourrisson ou idiopathique de l'adulte
+  - Neutropénie à LGL (entité rare de syndrome lymphoprolifératif de l'adulte)
+- Génétiques
+  - Neutropénie congénitale  
+    Entité rare de maladie monogénique (environ 40 gènes décrits) nécessitant un suivi spécialisé devant le risque infectieux, les comorbidités fréquentes et le risque leucémique, variable selon le gène impliqué.
+  - Déficits immunitaires humoraux de l'adulte (en particulier le déficit immunitaire commun variable)
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -133,14 +145,14 @@ L'**avis hématologique** est systématique en l'absence de neutropénie non com
 
 ### Interrogatoire
 
-- Antécédents personnels et familiaux
-- Fréquence d'**épisodes infectieux**
+- Antécédents personnels et familiaux, consanguinité
+- Fréquence d'épisodes **infectieux aigus**, d'aphtes récurrents, gingivite et parodontopathies
 - Expositions sexuelles et au sang
 - **Traitements** pris les derniers mois
 - **Hémogrammes antérieurs** (persistance > 3 mois)  
   Évolution du compte des neutrophiles, anomalies des autres lignées.
 - Circonstances de découverte de la neutropénie
-- Symptômes: syndrome viral, aphtes récurrents, gingivite et parodontopathies
+- Symptômes: syndrome viral
 
 ### Examen clinique
 
@@ -151,15 +163,16 @@ Signes cliniques à rechercher chez le neutropénique:
 - Examen respiratoire
 - Palpation abdominale (hépato-splénomégalie)
 - Examen cutanéo-muqueux  
-  Peau, aphtes, gingivite, amydgalite.
+  Peau, aphtes, gingivite, amygdalite.
 - État bucco-dentaire
 - Aires ganglionnaires
+- Éléments dysmorphiques
 - Signes de gravité: fièvre, dyspnée, infiltration sous-cutanée, hémodynamique
-- Signes de neutropénie centrale profonde
-  - Gingivite érosive, hémorragique et douloureuse avec papules de la langues et des muqueuses jugales
-  - Parfois douleurs abdominales et diarrhées
+- Signes de neutropénie centrale
+  - Gingivite érosive, hémorragique et douloureuse avec papules de la langue et des muqueuses jugales
+  - Douleurs abdominales et diarrhées
   - *Ecthyma gangrenosum*: ulcères infectieux péri-anaux
-- Signes d'anémie  
+- Signes d'anémie:  
   {{< clinique/anemie >}}.
 
 > [!WARNING]
@@ -168,9 +181,9 @@ Signes cliniques à rechercher chez le neutropénique:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan de la neutropénie
+### Bilan de la neutropénie de l'adulte
 
-Initialement, hors signe de gravité, **NFS répétées pendant 3 mois** pour affirmer la persistance de la neutropénie.
+Initialement, hors signe de gravité, **NFS toutes les 3-4 semaines pendant 3 mois** pour affirmer la persistance de la neutropénie.
 {.alert .alert-info}
 
 Bilan d'une neutropénie chronique:
@@ -178,7 +191,7 @@ Bilan d'une neutropénie chronique:
 - NFS
 - Dosage pondéral des immunoglobulines (IgG, IgA et IgM)
 - Électrophorèse des protéines sériques (EPS)
-- Immunophénotypage lymphocytaire
+- Immunophénotypage lymphocytaire et sérologies post-vaccinales
 - Ionogramme
 - Créatininémie, rapport albuminurie/créatininurie
 - Bilan hépatique
@@ -191,12 +204,15 @@ Adresser à l'**hématologue** avec le bilan (sauf neutropénie ethnique éviden
 
 ### Bilan de la neutropénie de l'enfant
 
-Sauf correction rapide de la neutropénie, bilan systématique chez l'enfant:
+Sauf correction rapide de la neutropénie, bilan systématique chez l'enfant avec:
 
 - NFS
 - Dosage pondéral des immunoglobulines IgG, IgA et IgM
-- Immunophénotypage lymphocytaire
+- Immunophénotypage lymphocytaire et sérologies post-vaccinales
 - Anticorps anti-neutrophiles
+- Ionogramme
+- Créatininémie
+- Bilan hépatique
 - ± Sérologie VIH en contexte de risque materno-fœtal
 
 {{% /collapse %}}
@@ -206,25 +222,24 @@ La prise en charge de la neutropénie est principalement étiologique. Les mesur
 
 - Suivi de la neutropénie
   - Suivi dans un service de compétence en hématologie au moins semestriel
-  - NFS, plaquettes et réticulocytes: 2-4/an
-  - Bilan annuel: CRP (semestrielle avant 5 ans), créatinine, ionogramme, urée, rapport albuminurie/créatininurie
-  - Tous les 5 ans: dosage pondéral des immunoglobulines IgG, IgA et IgM, sérologies vaccinales, phénotypage lymphocytaire T, B et NK
   - Tous les 10 ans: ostéodensitométrie
   - Soins dentaires au moins semestriels  
-    Prophylaxie en cas d'acte sanglant: amoxicilline 2g 1h avant (voire clindamycine 600 mg).
+    Prophylaxie en cas d'acte sanglant: amoxicilline 2g 1h avant (voire clindamycine 600 mg) ± G-CSF. Puis 7 jours après les soins.
 - **Contre-indication:** injections IM, température rectale
 - Connaître les numéros à appeler en cas d'urgence
 - Vaccinations de l'immunodéprimé: grippe, Covid, VRS, varicelle
-- En cas de fièvre (> 39°C ou > 48h), frissons: ordonnance à l'avance pour bilan en urgence NFS + CRP
-- Absence de restriction alimentaire
+- En cas de fièvre (> 39°C ou > 48 heures), frissons: ordonnance à l'avance pour bilan en urgence NFS + CRP  
+  Passage aux *Urgences* si mauvaise tolérance.
+- Absence de restriction alimentaire ou d'éviction sociale ou scolaire.
 - Association de patients: [IRIS](https://associationiris.org)
 - Déclarer l'**ALD n°2**, MDPH
 
-Traitements possibles selon l'avis du centre de référence ([annuaire](https://www.neutropenie.fr/expertise-et-soins/les-centres/)):
+Traitements possibles selon l'**évaluation du centre de référence** ([annuaire](https://www.neutropenie.fr/expertise-et-soins/les-centres/)):
 
 - Antibioprophylaxie par sulfaméthoxazole/triméthoprime 800 mg/j (10-30 mg/kg/j de SMX chez l'enfant)
 - Facteur de croissance granulocytaire: **G-CSF** (filgrastim, lenograstim)
   Effets indésirables: céphalées, douleurs osseuses, thrombopénie, plus rarement nausées, glomérulonéphrite, vascularite.
+- Traitement étiologique: possible dans de rares cas de neutropénies congénitales
 
 > [!WARNING]
 > << Il faut rappeler le danger des injections intramusculaires et de la prise de température rectale. >> -- *PNDS 2024*
@@ -237,9 +252,9 @@ Traitements possibles selon l'avis du centre de référence ([annuaire](https://
 
 La prise en charge de la neutropénie fébrile (NF) > 38,5°C sans chimiothérapie dépend de la clinique et éventuellement des examens complémentaires:
 
-- Hémodynamique, ocnscience, état général
+- Hémodynamique, conscience, état général
 - Examen clinique étendu à la recherche de foyer infectieux
-- En l'absence d'infection ou de trouble hémodynamique: NFSP, CRP (ou PCT) en urgence
+- En l'absence d'infection ou de trouble hémodynamique: NFS, CRP (ou PCT) en urgence
 
 > [!WARNING]
 > Une infection cutanée peut être grave en l'absence de pus.
