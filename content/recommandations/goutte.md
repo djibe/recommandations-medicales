@@ -172,9 +172,7 @@ Remplacer si possible par des alternatives **hypouricémiantes**: losartan, amlo
 {{% /collapse %}}
 {{%collapse "Traitement de la crise de goutte" %}}
 
-La prise en charge par traitement de crise doit être la plus précoce possible (inférieure à 12 heures), dès les prodromes (auto-médication adaptée aux comorbidités).
-
-Le traitement est adapté à la tolérance et à l'efficacité passée.
+La prise en charge par traitement de crise doit être la **plus précoce possible** (inférieure à 12 heures), dès les prodromes (auto-médication adaptée aux comorbidités). Le traitement est adapté à la tolérance et à l'efficacité passée.
 
 Mesures générales recommandées pour la prise en charge de la crise de goutte:
 
@@ -190,6 +188,7 @@ Mesures générales recommandées pour la prise en charge de la crise de goutte:
   - {{%info-span%}}ex. Naproxène 750 mg puis 250 mg x 3/j (max 7 jours){{%/info-span%}} (sauf maladie cardiovasculaire, AMM max 1100 mg/j)
   - Pour colchicine et corticoïdes, voir plus bas
 - Envisager un traitement de fond (voir chapitre suivant)
+- Information du patient: [guide Ameli](https://www.ameli.fr/assure/sante/themes/goutte)
 
 ### Colchicine
 

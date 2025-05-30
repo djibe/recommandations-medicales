@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-20T22:32:54+02:00"
 publishdate = "2022-06-21"
-lastmod = "2024-09-10"
+lastmod = "2025-05-30"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2021"
 sources = ["SFCD", "WSES"]
@@ -146,9 +146,9 @@ Appendicite en position sous-hépatique
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Les marqueurs biologiques ne sont pas suffisants pour le diagnostic d'appendicite aiguë.
-
 Aucun score basé sur le syndrome inflammatoire ne s'est révélé suffisant pour affirmer le diagnostic.
+
+Bilan d'une suspicion d'appendicite aiguë:
 
 - Bandelette urinaire
 - NFS (80% d'hyperleucocytose)
@@ -207,6 +207,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [CBIP. Appendicectomie vs antibiotiques en cas d'appendicite aiguë chez l'enfant. Folia. 2025.](https://www.cbip.be/fr/articles/4538?folia=4535)
 - [Doleman B, et al. Appendectomy versus antibiotic treatment for acute appendicitis. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015038.pub2/full/fr)
 - [Ameli. L'appendicite aiguë : symptômes, diagnostic et évolution. 18/06/2024.](https://www.ameli.fr/assure/sante/themes/appendicite-aigue/symptomes-diagnostic-evolution)
 - Prescrire Redaction. Signes d'appendicite chez les adultes. Rev Prescrire. 2022.

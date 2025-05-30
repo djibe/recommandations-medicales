@@ -525,7 +525,8 @@ style fdr stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
-[HAS. Suivi ambulatoire de l'adulte transplanté rénal au-delà de 3 mois après transplantation. Recommandations de bonne pratique. 2007.](https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation)
+- [Astley ME, et al. Age- and sex-specific reference values of estimated glomerular filtration rate for European adults. Kidney Int. 2025.](https://linkinghub.elsevier.com/retrieve/pii/S0085-2538(25)00252-2)
+- [HAS. Suivi ambulatoire de l'adulte transplanté rénal au-delà de 3 mois après transplantation. Recommandations de bonne pratique. 2007.](https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation)
 
 {{%/sources%}}
 {{% modal title="Situations où le DFG est ininterprétable selon KDIGO 2012" id="modal-creatinine"%}}
