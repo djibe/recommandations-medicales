@@ -118,7 +118,7 @@ Prise en charge de la dermatite séborrhéique par un **traitement d'attaque pen
 #### Visage et thorax
 
 Kétoconazole gel moussant ou crème 2% x 2/sem pendant 4 semaines (si +12 ans)  
-OU [ciclopirox olamine crème 1%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63273126&typedoc=R) x 2/j pendant 4 semaines (tout âge)
+OU [ciclopirox olamine crème 1%](https://bdpm.ansm.sante.fr/medicament/63273126/extrait#tab-rcp) x 2/j pendant 4 semaines (tout âge)
 {.alert .alert-info}
 
 Puis application 2 à 4 fois par mois.
@@ -129,8 +129,8 @@ Un [dermocorticoïde modéré]({{% relref "dermocorticoides.md" %}}) peut être 
 
 Shampooing antipelliculaire en alternance avec un shampooing doux.
 
-[Ciclopirox olamine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64330943&typedoc=R) shampooing 1,5% 2-3/sem  
-OU [kétoconazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66227874&typedoc=R) (Ketoderm®, gén) gel moussant 2% 2/sem
+[Ciclopirox olamine](https://bdpm.ansm.sante.fr/medicament/64330943/extrait#tab-rcp) shampooing 1,5% 2-3/sem  
+OU [kétoconazole](https://bdpm.ansm.sante.fr/medicament/66227874/extrait#tab-rcp) (Ketoderm®, gén) gel moussant 2% 2/sem
 {.alert .alert-info}
 
 **Effets indésirables:** prurit, sensation de brûlure, xérose cutanée, interactions médicamenteuses.  

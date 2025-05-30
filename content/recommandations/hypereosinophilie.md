@@ -206,11 +206,11 @@ La prise en charge d'une éosinophilie ou hyperéosinophilie est d'abord dirigé
 En l'absence d'orientation probante, un **traitement d'épreuve antihelminthe** est réalisé, avec suivi des éosinophiles:
 
 - Éosinophilie modérée (500-1500 ciblant oxyure et ascaris):
-  - [Albendazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65565944&typedoc=R) (Eskazole®, Zentel®) 400 mg/j pendant 1-3 jours puis 400 mg à J15
-  - ou [flubendazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60968336&typedoc=R) (Fluvermal®) 100 mg x 3/j pendant 3 jours puis 100 mg à J15
-  - Si anneaux ([taenia]({{% relref "tenia.md" %}}) ou autres): [praziquantel](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60996403&typedoc=R) (Biltricide®) 15 mg/kg
+  - [Albendazole](https://bdpm.ansm.sante.fr/medicament/65565944/extrait#tab-rcp) (Eskazole®, Zentel®) 400 mg/j pendant 1-3 jours puis 400 mg à J15
+  - ou [flubendazole](https://bdpm.ansm.sante.fr/medicament/60968336/extrait#tab-rcp) (Fluvermal®) 100 mg x 3/j pendant 3 jours puis 100 mg à J15
+  - Si anneaux ([taenia]({{% relref "tenia.md" %}}) ou autres): [praziquantel](https://bdpm.ansm.sante.fr/medicament/60996403/extrait#tab-rcp) (Biltricide®) 15 mg/kg
 - Hyperéosinophilie inexpliquée (> 1500/mm³ ciblant toxocarose, trichinellose, ascaridiose, [oxyurose]({{% relref "oxyurose.md" %}})):  
-  [Albendazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65565944&typedoc=R) 10-15 mg/kg/j en 2 prises/j (max 800 mg/j).
+  [Albendazole](https://bdpm.ansm.sante.fr/medicament/65565944/extrait#tab-rcp) 10-15 mg/kg/j en 2 prises/j (max 800 mg/j).
 
 > -- *PNDS 2022*
 

@@ -131,8 +131,8 @@ Symptômes de la cystite de la femme: **brûlures mictionnelles**, pollakiurie, 
 
 Prise en charge de la cystite de la femme par **BU** (leucocytes + voire nitrites +) et antibiothérapie probabiliste:
 
-1. ==[Fosfomycine trométamol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66430643&typedoc=R) 3g dose unique== à distance des repas
-2. [Pivmécillinam](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60670489&typedoc=R) (Selexid®) 400 mg x 2/j pendant 3 jours
+1. ==[Fosfomycine trométamol](https://bdpm.ansm.sante.fr/medicament/66430643/extrait#tab-rcp) 3g dose unique== à distance des repas
+2. [Pivmécillinam](https://bdpm.ansm.sante.fr/medicament/60670489/extrait#tab-rcp) (Selexid®) 400 mg x 2/j pendant 3 jours
 
 ECBU uniquement en l'absence d'amélioration à 72 heures, récidive dans les 2 semaines ou double contre-indication. Le traitement adapté à l'antibiogramme sera celui des cystites à risque de complication.
 
@@ -150,7 +150,7 @@ ECBU en cas de {{< modal-btn modal-fdr-complication >}}facteur de risque de comp
 
 Antibiothérapie probabiliste uniquement en cas de symptômes marqués:
 
-1. [Nitrofurantoïne](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62013296&typedoc=R) (Furadantine®) 100 mg x 3/j pendant le repas pendant 7 jours  
+1. [Nitrofurantoïne](https://bdpm.ansm.sante.fr/medicament/62013296/extrait#tab-rcp) (Furadantine®) 100 mg x 3/j pendant le repas pendant 7 jours  
   Sauf clairance < 45 mL/min.
 2. Fosfomycine trométamol 3g à J1, J3 et J5
 

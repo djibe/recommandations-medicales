@@ -224,7 +224,7 @@ La prise en charge du syndrome de déficit en testostérone (ou andropause) est 
 - **Testostérone naturelle**
   - Prescription initiale spécialisée. Cible: testostéronémie dans les normes
   - Transdermique (non remboursés): gel hydroalcoolique de testostérone (Androgel®, Testavan®)
-  - Intramusculaire: énantate de testostérone (Androtardyl® 250 mg/2-4 semaines), undécanoate de testostérone (Nébido® NR ou testostérone Besins 1000mg/3 mois).
+  - Intramusculaire: énantate de testostérone (Androtardyl® 250 mg/2-4 semaines), undécanoate de testostérone (Nébido® NR ou testostérone Besins 1000 mg/3 mois).
 {{%/info%}}
 
 Contre-indications absolues au THS par testostérone: désir de paternité, [insuffisance cardiaque sévère]({{% relref "insuffisance-cardiaque-chronique.md" %}}) ou maladie cardiovasculaire de moins de 3-6 mois, [cancer de la prostate]({{% relref "cancer-prostate.md" %}}) ou [cancer du sein]({{% relref "cancer-sein.md" %}}) évolutif, [polyglobulie]({{% relref "polyglobulie.md" %}}) ≥ 54%, apnées du sommeil graves non appareillées, [HBP compliquée]({{% relref "hypertrophie-benigne-prostate.md" %}}), délinquance sexuelle.

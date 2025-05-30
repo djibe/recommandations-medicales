@@ -110,7 +110,7 @@ Antibiothérapie de l'adulte si indiquée (voir ci-dessus):
 - Durée du traitement antibiotique
   - **5 jours** en cas de morsure de mammifère sans signe clinique d'infection
   - 5 jours si signes d'infection, prolongée si complication ou évolution défavorable pendant 10 jours (14 si non satisfaisant à J10)
-- ==[Amoxicilline/acide clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60998361&typedoc=R) 1g x 3/j==
+- ==[Amoxicilline/acide clavulanique](https://bdpm.ansm.sante.fr/medicament/60998361/extrait#tab-rcp) 1g x 3/j==
 - Étendue à 10-15 jours si infection patente ou morsure vue tardivement
 - Si allergie: doxycycline 100 mg x 2/j  
   ou pristinamycine 1g x 3/j ou clindamycine 600 mg x 3/j ou cotrimoxazole 800/160 mg x 2/j
@@ -120,7 +120,7 @@ Antibiothérapie de l'adulte si indiquée (voir ci-dessus):
 Antibiothérapie de l'enfant si indiquée (idem ci-dessus + chat ou localisation génitale):
 
 - Traitement de **5 jours** en cas de morsure humaine
-- ==[Amoxicilline/acide clavulanique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64550843&typedoc=R) 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 3 à 7 jours== selon l'évolution
+- ==[Amoxicilline/acide clavulanique](https://bdpm.ansm.sante.fr/medicament/64550843/extrait#tab-rcp) 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 3 à 7 jours== selon l'évolution
 - Allergie: doxycycline 4 mg/kg/j (max 200 mg/j) en 2 prises pendant 3 à 7 jours selon l'évolution
 
 > -- *GPIP 2023*

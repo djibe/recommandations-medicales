@@ -89,7 +89,7 @@ Zone centrale claire cicatricielle avec bourrelet périphérique squameux et vé
 
 #### Prise en charge de l'herpès circiné
 
-[Éconazole 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62098492&typedoc=R) 1 application matin et soir pendant 14 à 21 jours
+[Éconazole 1% crème](https://bdpm.ansm.sante.fr/medicament/62098492/extrait#tab-rcp) 1 application matin et soir pendant 14 à 21 jours
 {{%/info%}}
 
 > [Reconnaissance possible d'un herpès circiné en Maladie professionnelle dans le cadre du Tableau 46](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2046): filière viande, piscine, athlète, bâtiment.
@@ -109,7 +109,7 @@ Le pityriasis versicolor est bénin, **n'est pas contagieux**, causé par la lev
 - Information du patient  
   Les lésions disparaissent lentement après le traitement (quelques mois !) et les récidives sont très fréquentes.
 - Abstention thérapeutique
-- ou [kétoconazole 2% gel récipient unidose](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62701346&typedoc=R) en une seule application (x2/semaine pendant 1 mois selon *CRATB*)  
+- ou [kétoconazole 2% gel récipient unidose](https://bdpm.ansm.sante.fr/medicament/62701346/extrait#tab-rcp) en une seule application (x2/semaine pendant 1 mois selon *CRATB*)  
   Laisser agir au moins 5 minutes.
 - ou terbinafine 1% crème ou ciclopirox olamine 1% crème x 1-2/j pendant 7 à 14 jours
 {{%/info%}}
@@ -151,8 +151,8 @@ Les localisations classiques des intertrigos sont inter-orteils (<< pied d'athl�
 
 #### Prise en charge de l'intertrigo
 
-- [Éconazole 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62098492&typedoc=R) 1 application matin et soir pendant 14 à 28 jours  
-  ou [ciclopirox olamine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63273126&typedoc=R) à la même posologie.
+- [Éconazole 1% crème](https://bdpm.ansm.sante.fr/medicament/62098492/extrait#tab-rcp) 1 application matin et soir pendant 14 à 28 jours  
+  ou [ciclopirox olamine 1% crème](https://bdpm.ansm.sante.fr/medicament/63273126/extrait#tab-rcp) à la même posologie.
 - Lésions très étendues: terbinafine 250 mg 1 cp/j pendant 14 à 28 jours (*Bell-Syer 2012*)
 - Limiter la macération  
   Changement quotidien de sous-vêtements et chaussettes en coton, séchage soigneux, retirer le tapis de salle de bain.
@@ -244,22 +244,22 @@ L'aspect pseudo-membraneux blanc (**muguet**) est le plus fréquent, souvent ass
 - Bains de bouche avec chlorhexidine ou bicarbonate de soude
 - Traitement de l'hyposialie
 - Miconazole gel buccal  
-  [Miconazole 2% gel buccal](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69184289&typedoc=R) (Daktarin®, à partir de 4 mois) 2,5 mL x 4/j pendant 7 à 14 jours.
+  [Miconazole 2% gel buccal](https://bdpm.ansm.sante.fr/medicament/69184289/extrait#tab-rcp) (Daktarin®, à partir de 4 mois) 2,5 mL x 4/j pendant 7 à 14 jours.
 - ou miconazole cp muco-adhésif chez l'immunodéprimé  
-  [Miconazole cp 50 mg (Loramyc®)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69980852&typedoc=R) x 1/j pendant 7 à 14 jours, face bombée placée le matin après le brossage contre la gencive supérieure au-dessus d'une incisive. Interactions +++
+  [Miconazole cp 50 mg (Loramyc®)](https://bdpm.ansm.sante.fr/medicament/69980852/extrait#tab-rcp) x 1/j pendant 7 à 14 jours, face bombée placée le matin après le brossage contre la gencive supérieure au-dessus d'une incisive. Interactions +++
 - ou amphotéricine B buvable  
-  [Amphotéricine B 10% susp buvable (Fungizone®)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64346723&typedoc=R) 5 mL x 3-4/j pendant 10-14 jours (21 si forme chronique; possible [pendant la grossesse](http://www.lecrat.fr/10226/))
+  [Amphotéricine B 10% susp buvable (Fungizone®)](https://bdpm.ansm.sante.fr/medicament/64346723/extrait#tab-rcp) 5 mL x 3-4/j pendant 10-14 jours (21 si forme chronique; possible [pendant la grossesse](http://www.lecrat.fr/10226/))
 - ou nystatine buvable  
-  [Nystatine susp buvable (Mycostatine®)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62250594&typedoc=R) 1 à 6 mL x 4-6/j pendant 10-14 jours (21 si forme chronique)
+  [Nystatine susp buvable (Mycostatine®)](https://bdpm.ansm.sante.fr/medicament/62250594/extrait#tab-rcp) 1 à 6 mL x 4-6/j pendant 10-14 jours (21 si forme chronique)
 - voire fluconazole oral
   - En première intention chez l'**immunodéprimé** associé à un traitement local (*ESCMID 2012*)
-  - [Fluconazole cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68551946&typedoc=R#RcpPosoAdmin) 100 mg x 1/j (doubler la dose à J1) pendant 7 à 21 jours (prolonger chez l'immunodéprimé), doubler la dose en cas d'atteinte œsophagienne associée
+  - [Fluconazole cp](https://bdpm.ansm.sante.fr/medicament/68551946/extrait#tab-rcp#RcpPosoAdmin) 100 mg x 1/j (doubler la dose à J1) pendant 7 à 21 jours (prolonger chez l'immunodéprimé), doubler la dose en cas d'atteinte œsophagienne associée
 - Si échec: avis hospitalier pour itraconazole voie orale
 {{%/info%}}
 
 ##### Prise en charge du muguet du nourrisson {.mt-4}
 
-À partir de 4 mois: [miconazole 2% gel buccal (Daktarin®)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69184289&typedoc=R) 1,25 mL 4 fois par jour après les repas pendant 7 à 14 jours
+À partir de 4 mois: [miconazole 2% gel buccal (Daktarin®)](https://bdpm.ansm.sante.fr/medicament/69184289/extrait#tab-rcp) 1,25 mL 4 fois par jour après les repas pendant 7 à 14 jours
 {.alert .alert-info}
 
 ### Balanite et balano-posthite candidosique
@@ -274,7 +274,7 @@ Diagnostic différentiel: infectieux ([syphilis secondaire]({{% relref "syphilis
 #### Prise en charge de la balanite candidosique
 
 - Prélèvement mycologique
-- [Éconazole 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62098492&typedoc=R) 1 application matin et soir pendant 14 à 21 jours (7 jours selon *CMIT*) + savon alcalin + examen partenaire
+- [Éconazole 1% crème](https://bdpm.ansm.sante.fr/medicament/62098492/extrait#tab-rcp) 1 application matin et soir pendant 14 à 21 jours (7 jours selon *CMIT*) + savon alcalin + examen partenaire
 {{%/info%}}
 
 Rechercher un [diabète]({{% relref "diabete-type-2.md" %}}) en cas de balanite candidosique sévère.
@@ -312,13 +312,13 @@ Signes et symptômes d'une candidose vulvovaginale:
 > Le prélèvement vaginal est dispensable pour un épisode aigu ambulatoire d'évolution favorable.
 
 - Inspection vulvaire
-- ==Fluconazole 150 mg cp dose unique== ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67860651&typedoc=R), [interactions](https://www.drugs.com/interaction/list/?drug_list=1096-0))
+- ==Fluconazole 150 mg cp dose unique== ([RCP](https://bdpm.ansm.sante.fr/medicament/67860651/extrait#tab-rcp), [interactions](https://www.drugs.com/interaction/list/?drug_list=1096-0))
 - ou clotrimazole 500 mg caps vaginale (Mycohydralin® NR) dose unique ([molécule de référence pendant la grossesse](https://www.lecrat.fr/10189/))  
   Pendant la **grossesse**, renouveler le traitement jusqu'à 6 fois si besoin.
 - Alternatives
   - Clotrimazole 200 mg cp vaginal (Mycohydralin® NR) pendant 3 nuits
-  - [Éconazole LP 150 mg ovule](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65261489&typedoc=R) dose unique au coucher ou pendant 3 nuits
-  - [Fenticonazole 600 mg caps vaginale](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69960586&typedoc=R#RcpPremiereAutorisation) (Lomexin®) dose unique au coucher ou 200 mg 3 nuits de suite
+  - [Éconazole LP 150 mg ovule](https://bdpm.ansm.sante.fr/medicament/65261489/extrait#tab-rcp) dose unique au coucher ou pendant 3 nuits
+  - [Fenticonazole 600 mg caps vaginale](https://bdpm.ansm.sante.fr/medicament/69960586/extrait#tab-rcp#RcpPremiereAutorisation) (Lomexin®) dose unique au coucher ou 200 mg 3 nuits de suite
 - **Candidose sévère** (érythème étendu, œdème, excoriation ou fissure)
   - Fluconazole 150 mg 1 cp à J1 et J4
   - voire clotrimazole 500 mg caps vaginale (Mycohydralin® NR) à J1 et J4
@@ -360,8 +360,8 @@ Candidose vulvovaginale récurrente
 
 #### Traitement de la candidose vaginale récurrente
 
-- **Fluconazole 150 mg cp ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67860651&typedoc=R), [interactions](https://www.drugs.com/interaction/list/?drug_list=1096-0)) 1 cp à J1-J4-J7 puis 1/semaine pendant 6 mois**
-- Alternative: [éconazole LP 150 mg ovule](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65261489&typedoc=R) pendant 7 jours (voire 14 selon l'efficacité) puis clotrimazole 500 mg caps vaginale (Mycohydralin® NR) 1/semaine pendant 6 mois
+- **Fluconazole 150 mg cp ([RCP](https://bdpm.ansm.sante.fr/medicament/67860651/extrait#tab-rcp), [interactions](https://www.drugs.com/interaction/list/?drug_list=1096-0)) 1 cp à J1-J4-J7 puis 1/semaine pendant 6 mois**
+- Alternative: [éconazole LP 150 mg ovule](https://bdpm.ansm.sante.fr/medicament/65261489/extrait#tab-rcp) pendant 7 jours (voire 14 selon l'efficacité) puis clotrimazole 500 mg caps vaginale (Mycohydralin® NR) 1/semaine pendant 6 mois
 - Grossesse: traitement identique à l'alternatif avec éconazole ovule 10-14 jours + clotrimazole hebdomadaire
 {{%/info%}}
 
@@ -423,7 +423,7 @@ Traitement des onychomycoses:
   Séchage, ongles courts, limiter les contacts avec le sucre, les acides, les [corticoïdes]({{% relref "corticoides.md" %}}), les soins de manucure, protection en piscine.
 - Matrice épargnée
   1. Pédicure-podologue pour limage ou meulage initial
-  2. Vernis unguéal [amorolfine 5%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68805138&typedoc=R) x 1-2/semaine ou [ciclopirox 8%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66640136&typedoc=R) x 1/j pendant 3 à 6 mois
+  2. Vernis unguéal [amorolfine 5%](https://bdpm.ansm.sante.fr/medicament/68805138/extrait#tab-rcp) x 1-2/semaine ou [ciclopirox 8%](https://bdpm.ansm.sante.fr/medicament/66640136/extrait#tab-rcp) x 1/j pendant 3 à 6 mois
   3. Éconazole des espaces interdigitoplantaires pour éviter une réinfection
   4. Périonyxis important: prélèvement, imidazolé local voire fluconazole
   5. Si échec: avulsion chimique par bifonazole 1% + urée 40% (Amycor Onychoset®) sous pansement occlusif x 1/j pendant 1-3 semaines  
@@ -445,7 +445,7 @@ Traitement des onychomycoses:
 
 *Candida* est commensal du tube digestif. L'**œsophage** est la principale atteinte du *C. albicans*.
 
-[Fluconazole cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68551946&typedoc=R#RcpPosoAdmin) 100-200 mg x 1/j (doubler la dose à J1) pendant 14 à 28 jours (jusqu'à la rémission).
+[Fluconazole cp](https://bdpm.ansm.sante.fr/medicament/68551946/extrait#tab-rcp#RcpPosoAdmin) 100-200 mg x 1/j (doubler la dose à J1) pendant 14 à 28 jours (jusqu'à la rémission).
 
 Rechercher une immunodépression: VIH, hémopathie, iatrogénie.
 
@@ -478,7 +478,7 @@ Différencier d'une atteinte streptococcique, d'une macération ou d'[hémorroï
 Antifongiques azolés (ou imidazolés) autorisés en France, utilisés en **2 applications par jour sauf mention contraire**:
 
 - Bifonazole (Amycor®, + urée Amycor Onychoset® pommade) crème/poudre x 1/j
-- [Éconazole](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62098492&typedoc=R) crème/poudre/émuls/ovule/sol est le mieux évalué selon *Prescrire*
+- [Éconazole](https://bdpm.ansm.sante.fr/medicament/62098492/extrait#tab-rcp) crème/poudre/émuls/ovule/sol est le mieux évalué selon *Prescrire*
 - Fenticonazole crème/caps (+12 ans)
 - Isoconazole crème/émuls
 - Kétoconazole crème/gel x 1-2/j (+18 ans)
@@ -493,13 +493,13 @@ Candidose cutanée: durée de traitement de 14 à 28 jours
 
 #### Pyridones
 
-[Ciclopirox olamine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63273126&typedoc=R) x 2/j pendant 14 à 28 jours.
+[Ciclopirox olamine 1% crème](https://bdpm.ansm.sante.fr/medicament/63273126/extrait#tab-rcp) x 2/j pendant 14 à 28 jours.
 
 Spectre large et absence d'interactions médicamenteuses.
 
 #### Allylamines
 
-[Terbinafine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68446952&typedoc=R) x 1-2/j pendant 1-2 semaines
+[Terbinafine 1% crème](https://bdpm.ansm.sante.fr/medicament/68446952/extrait#tab-rcp) x 1-2/j pendant 1-2 semaines
 
 Moins efficace sur *C. albicans*.
 
@@ -510,7 +510,7 @@ Moins efficace sur *C. albicans*.
 
 #### Azolé Fluconazole
 
-Fluconazole 6 mg/kg x 1/j (gél 50/100/200, sirop, [RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68551946&typedoc=R), [interactions nombreuses](https://www.drugs.com/interaction/list/?drug_list=1096-0)).
+Fluconazole 6 mg/kg x 1/j (gél 50/100/200, sirop, [RCP](https://bdpm.ansm.sante.fr/medicament/68551946/extrait#tab-rcp), [interactions nombreuses](https://www.drugs.com/interaction/list/?drug_list=1096-0)).
 
 Traitement général de première intention.
 
@@ -518,7 +518,7 @@ Traitement général de première intention.
 
 #### Terbinafine
 
-La terbinafine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60108678&typedoc=R), [interactions limitées](https://www.drugs.com/interaction/list/?drug_list=2161-0)) pour un traitement général est disponible en comprimés sécables avec une seule prise quotidienne pendant le repas.
+La terbinafine ([RCP](https://bdpm.ansm.sante.fr/medicament/60108678/extrait#tab-rcp), [interactions limitées](https://www.drugs.com/interaction/list/?drug_list=2161-0)) pour un traitement général est disponible en comprimés sécables avec une seule prise quotidienne pendant le repas.
 
 Éviter la terbinafine chez les professionnels du goût.
 
@@ -534,7 +534,7 @@ La terbinafine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/affichag
 
 #### Polyènes Amphotéricine B
 
-[Amphotéricine B](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64346723&typedoc=R) (Fungizone®)
+[Amphotéricine B](https://bdpm.ansm.sante.fr/medicament/64346723/extrait#tab-rcp) (Fungizone®)
 
 Effet topique digestif non absorbé et donc interactions limitées ([vérifier les interactions](https://www.drugs.com/interaction/list/?drug_list=192-0)).
 

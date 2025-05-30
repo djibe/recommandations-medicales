@@ -167,15 +167,15 @@ Supplémentation systématique de la carence en vitamine B12 en cas de:
 La prise en charge de la carence en vitamine B12 comprend un traitement:
 
 - Oral en cas de carence d'apports:  
-  [vitamine B12 250 µg cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61247741&typedoc=R) (NR) 1 cp/j pendant 15 à 30 jours, puis 1 cp tous les 10 jours au long cours.
+  [vitamine B12 250 µg cp](https://bdpm.ansm.sante.fr/medicament/61247741/extrait#tab-rcp) (NR) 1 cp/j pendant 15 à 30 jours, puis 1 cp tous les 10 jours au long cours.
 - Intramusculaire en cas de défaut d'absorption (Biermer, gastrectomie ou résection iléale complète):
-  - [Vitamine B12 1000 µg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65647512&typedoc=R) 1 ampoule/j IM (ou 3/semaine) pour 10 ampoules, puis 1 ampoule/mois (1 mg/mois).
+  - [Vitamine B12 1000 µg](https://bdpm.ansm.sante.fr/medicament/65647512/extrait#tab-rcp) 1 ampoule/j IM (ou 3/semaine) pour 10 ampoules, puis 1 ampoule/mois (1 mg/mois).
   - En cas de gastrite ou de cause médicamenteuse, en entretien, le traitement peut être oral entre 1 à 2 mg/j
 - **Réévaluation**
   - Dans les 3 mois (1 mois si grossesse/allaitement): signes, symptômes et doses réellement prises. Si aggravation ou nouveau symptômes sous traitement: considérer un dosage de l'homocystéine ou de la MMA si non fait, réévaluer un diagnostic différentiel et/ou augmenter les doses.
   - Occasionnelle pour vérifier l'absence de récidive
 
-Poursuivre la supplémentation ==à vie== sauf si la cause est résolue (ex. carence d'apports).
+==**Poursuivre la supplémentation à vie**== sauf si la cause est résolue (ex. carence d'apports).
 
 En cas de grossesse ou allaitement: maintenir des apports quotidiens ≥ 1 mg.
 

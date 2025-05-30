@@ -196,7 +196,7 @@ Mesures générales recommandées pour la prise en charge de la crise de goutte:
 Indication à la colchicine: traitement symptomatique de première ligne. (*SFR 2020*)  
 En deuxième intention selon *Prescrire®* (à la place des AINS).
 
-[Colchicine 1 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68066715&typedoc=R) per os avec 2^e^ prise de 0,5 mg 1 heure après,  
+[Colchicine 1 mg](https://bdpm.ansm.sante.fr/medicament/68066715/extrait#tab-rcp) per os avec 2^e^ prise de 0,5 mg 1 heure après,  
 puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours).
 {.alert .alert-info}
 
@@ -214,7 +214,7 @@ puis 0,5 mg 2 à 3 fois par jour les jours suivants (généralement 3 à 5 jours
 
 Indications à la [corticothérapie]({{% relref "corticoides.md" %}}): traitement symptomatique de première ligne. (*SFR 2020*). En troisième intention selon *Prescrire®*, en remplacement des AINS et de la colchicine.
 
-[Prednisone 20 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64793934&typedoc=R) 1,5 cp x 1/j pendant 3-5 jours
+[Prednisone 20 mg](https://bdpm.ansm.sante.fr/medicament/64793934/extrait#tab-rcp) 1,5 cp x 1/j pendant 3-5 jours
 {.alert .alert-info}
   
 Ne pas associer AINS et corticoïdes. Ne pas utiliser en cas de diabète ou d'[HTA]({{% relref "hypertension-arterielle.md" %}}) déséquilibrés.
@@ -267,7 +267,7 @@ Informer systématiquement sur la nécessité d'interrompre immédiatement le tr
 L'allopurinol est le traitement de référence mais nécessite une titration pour éviter les **toxidermies**.
 
 {{%info%}}
-[Allopurinol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68320252&typedoc=R) 50-100 mg/j, paliers de 50-100 mg /2-4 semaines jusqu'à l'objectif uricémique (< 50 mg/L, max 900 mg/j) puis au long cours.  
+[Allopurinol](https://bdpm.ansm.sante.fr/medicament/68320252/extrait#tab-rcp) 50-100 mg/j, paliers de 50-100 mg /2-4 semaines jusqu'à l'objectif uricémique (< 50 mg/L, max 900 mg/j) puis au long cours.  
 Peut être débuté pendant la crise de goutte.
 
 Prévention de crise par colchicine 0,5 à 1 mg/j pendant les 3 à 6 premiers mois (alternatives: AINS, prednisone).
@@ -322,7 +322,7 @@ Fébuxostat contre-indiqué en maladie cardiovasculaire sévère:
 - Diabète compliqué
 {{%/warning%}}
 
-Arrêt de l'allopurinol et remplacement par **[fébuxostat](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63862669&typedoc=R)** (Adénuric®) 40 mg/j puis 80 mg en 1 prise par jour au long cours.
+Arrêt de l'allopurinol et remplacement par **[fébuxostat](https://bdpm.ansm.sante.fr/medicament/63862669/extrait#tab-rcp)** (Adénuric®) 40 mg/j puis 80 mg en 1 prise par jour au long cours.
 
 **NB.** Absence d'allergie croisée entre allopurinol et fébuxostat.
 

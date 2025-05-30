@@ -150,7 +150,7 @@ Prévention du Mal Aigu des Montagnes (MAM ou mal des montagnes):
 
 - Ne pas monter trop vite, trop haut
 - Bonne hydratation
-- [Acétazolamide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68693244&typedoc=R) (Diamox, gén), 2 jours avant l'arrivée en haute montagne et poursuivi 2 jours après le point culminant si la descente n'est pas effectuée rapidement  
+- [Acétazolamide](https://bdpm.ansm.sante.fr/medicament/68693244/extrait#tab-rcp) (Diamox, gén), 2 jours avant l'arrivée en haute montagne et poursuivi 2 jours après le point culminant si la descente n'est pas effectuée rapidement  
   125 mg matin et début d'après-midi (+80 kg: 250 mg; enfant: 2,5-5 mg/kg/j en 2 prises et max 125 mg/prise) sauf contre-indication aux sulfamides (alternative: dexaméthasone 4 mg x 2/j).
 - [Fiche info MAM (PDF)](https://www.ffme.fr/wp-content/uploads/2019/06/mal-aigu-montagne.pdf)
 
@@ -331,8 +331,8 @@ Le mal des transports (cinétose ou naupathie) atteint surtout les 2-12 ans. Les
 
 La prise en charge repose principalement sur les antihistaminiques de première génération (sauf pour le conducteur), 2 heures avant le départ:
 
-- Diménhydrinate ([Mercalm®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68461541&typedoc=R) à partir de 6 ans, [Nausicalm®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60173964&typedoc=R) à partir de 15 ans - efficace 6-8 heures)
-- Diphénhydramine ([Nautamine®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62444574&typedoc=R) à partir de 2 ans - efficace 6-8 heures)
+- Diménhydrinate ([Mercalm®](https://bdpm.ansm.sante.fr/medicament/68461541/extrait#tab-rcp) à partir de 6 ans, [Nausicalm®](https://bdpm.ansm.sante.fr/medicament/60173964/extrait#tab-rcp) à partir de 15 ans - efficace 6-8 heures)
+- Diphénhydramine ([Nautamine®](https://bdpm.ansm.sante.fr/medicament/62444574/extrait#tab-rcp) à partir de 2 ans - efficace 6-8 heures)
 - Méclozine (Agyrax® chez l'adulte, efficace 24 heures)
 - Si grossesse: doxylamine (*Prescrire*)
 

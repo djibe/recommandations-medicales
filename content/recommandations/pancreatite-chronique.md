@@ -177,7 +177,7 @@ La prise en charge de la pancréatite chronique comprend le traitement des insuf
 - Antalgie: arrêt de l'alcool, paracétamol voire palier 2  
   Autres traitements: douleurs neuropathiques, avis d'un médecin de la douleur si besoin.
 - Amaigrissement ou stéatorrhée: extraits pancréatiques pendant les repas  
-  [Creon®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61529057&typedoc=R), [Eurobiol®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67071047&typedoc=R): ==débuter à 50.000 UI par repas== (25.000 pour les collations).
+  [Creon®](https://bdpm.ansm.sante.fr/medicament/61529057/extrait#tab-rcp), [Eurobiol®](https://bdpm.ansm.sante.fr/medicament/67071047/extrait#tab-rcp): ==débuter à 50.000 UI par repas== (25.000 pour les collations).
 - Dénutrition: **suivi diététique**
 - Nutriments: vitamines (A, D, K), oligoéléments (calcium, zinc, sélénium)
 - Diabète évolué: insuline, suivi diabétologique

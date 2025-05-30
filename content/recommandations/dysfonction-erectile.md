@@ -28,7 +28,7 @@ todo = "SEO, https://www.sfcardio.fr/publication/chemin-clinique-pour-le-depista
 
 - Dépister systématiquement chez le diabétique, marqueur de maladie endothéliale et des autres complications du diabète
 - Vérifier les contre-indications aux IPDE5
-- [Tadalafil 10 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67515025&typedoc=R) (Cialis®, gén) à la demande (max 1/j)  
+- [Tadalafil 10 mg](https://bdpm.ansm.sante.fr/medicament/67515025/extrait#tab-rcp) (Cialis®, gén) à la demande (max 1/j)  
   Selon l'effet, utiliser max 20 mg/j ou en 5 mg/j (efficace 12 heures)
 
 Grandes lignes:
@@ -340,15 +340,15 @@ Les effets indésirables graves sont rares: allongement QT, IDM, NOIAA (3/100.00
 
 Les IPDE5 sont le traitement de première intention de la dysfonction érectile.
 
-[Tadalafil 10 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67515025&typedoc=R) (Cialis®, gén). Possibilité d'augmenter à **20 mg** (max 1/j, délai 30 min, efficace 12 heures, [contrôler les interactions](https://www.drugs.com/interaction/list/?drug_list=2144-0)).  
+[Tadalafil 10 mg](https://bdpm.ansm.sante.fr/medicament/67515025/extrait#tab-rcp) (Cialis®, gén). Possibilité d'augmenter à **20 mg** (max 1/j, délai 30 min, efficace 12 heures, [contrôler les interactions](https://www.drugs.com/interaction/list/?drug_list=2144-0)).  
 Pas de retard absorptif dus à l'alimentation ou l'alcool.
 {.alert .alert-info}
 
-Ou [Sildénafil 50 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69085330&typedoc=R) (Viagra®, gén) à la demande (max 1/j). Selon l'effet, utiliser de 25 à **100 mg** (délai 25 min, efficace 4-5 heures, [contrôler les interactions](https://www.drugs.com/interaction/list/?drug_list=2061-0)).
+Ou [Sildénafil 50 mg](https://bdpm.ansm.sante.fr/medicament/69085330/extrait#tab-rcp) (Viagra®, gén) à la demande (max 1/j). Selon l'effet, utiliser de 25 à **100 mg** (délai 25 min, efficace 4-5 heures, [contrôler les interactions](https://www.drugs.com/interaction/list/?drug_list=2061-0)).
 
 #### Tadalafil en continu
 
-Débuter à [2,5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63536698&typedoc=R) x 1/j. Max 5 mg en 1 prise quotidienne.  
+Débuter à [2,5 mg](https://bdpm.ansm.sante.fr/medicament/63536698/extrait#tab-rcp) x 1/j. Max 5 mg en 1 prise quotidienne.  
 Proposer le tadalafil en continu si traitement efficace et ≥ 2 utilisations par semaine ou pour le **diabétique**.  
 Il améliore également les troubles du bas appareil urinaire de l'homme (SBAU).
 

@@ -71,7 +71,7 @@ df_filtered = df[
 unwanted_words = [' ACCORD', ' AGEPHA', ' AHCL', ' ALCON', ' ALMUS', ' ALPEX', ' AP-HP', ' ARROW', ' ARROW GENERIQUES', ' BAYER', ' BETAPHARM', ' BGR', ' BIOGARAN', ' BLUEFISH', \
   ' CCD', ' CHAUVIN', ' CHEMINEAU', ' CHIESI', ' CONSEIL', ' Conseil', ' CRINEX', ' CRISTERS', ' CRISTERS PHARMA', ' DIPHARMA', ' EG LABO', ' EG', ' EVANS', ' EVOLUGEN', ' FAURE', ' FRANCE', ' GEN.ORPH', ' GENERIQUES', ' GERDA', ' GIFRER', ' GILBERT', ' HCS', ' HEALTHCARE', ' HIKMA', ' IBSA', ' K.S', ' KRKA D.D.', ' KRKA', \
   ' LA COLINA', ' LABORATOIRES ALTER', ' ALTER', ' MYLAN', ' NEURAXPHARM', ' NOR', ' PANPHARMA', ' PFIZER', ' PHARMA', ' PIERRE FABRE', ' PROVEPHARM', ' QUIVER', ' REF', ' RENAUDIN', ' RICHARD', \
-  ' SANDOZ', ' SANTE', ' SFDB', ' SUBSTIPHARM', ' SUN', ' TEVA', ' TILLOMED', ' UPSA', ' URGO', ' VIATRIS', ' VJ-PHARM', ' WAYMADE', ' WELEDA', ' ZENTIVA', ' ZF', ' ZYDUS', \
+  ' SANDOZ', ' SANTE', ' SFDB', ' SUBSTIPHARM', ' SUN', ' TEVA', ' TILLOMED', ' UPSA', ' URGO', ' VIATRIS', ' VJ-PHARM', ' WAYMADE', ' WELEDA', ' ZENTIVA K.S.',' ZENTIVA', ' ZF', ' ZYDUS', \
   ' (rapport amoxicilline/acide clavulanique : 8/1)', ' (rapport amoxicilline/acide clavulanique: 8/1)', ' (Rapport Amoxicilline/Acide clavulanique : 8/1)', ' en flacon', \
   ' LAB', ' LABO']
 

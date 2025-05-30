@@ -119,11 +119,11 @@ Ciloxadex 4 gouttes matin et soir pendant 7 jours
 
 Recommandations pour la prise en charge de l'otite externe:
 
-- **Antibiothérapie auriculaire:** Antibio synalar®, Auricularum®, [Ciloxadex®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68601502&typedoc=R), Framyxone®, Panotile® ou Polydexa®.
+- **Antibiothérapie auriculaire:** Antibio synalar®, Auricularum®, [Ciloxadex®](https://bdpm.ansm.sante.fr/medicament/68601502/extrait#tab-rcp), Framyxone®, Panotile® ou Polydexa®.
   - Pendant 5 à 10 jours
-  - Si **perforation tympanique** ou grossesse ([CRAT](https://www.lecrat.fr/6625/)): [ofloxacine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66256370&typedoc=R) 10 gouttes matin et soir pendant 7 à 10 jours  
+  - Si **perforation tympanique** ou grossesse ([CRAT](https://www.lecrat.fr/6625/)): [ofloxacine](https://bdpm.ansm.sante.fr/medicament/66256370/extrait#tab-rcp) 10 gouttes matin et soir pendant 7 à 10 jours  
     Traitement de référence selon Prescrire dans tous les cas.
-  - Si **otomycose**: aspiration des sécrétions, nystatine associée [Auricularum](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66592652&typedoc=R) 5-10 gouttes x 2/j pendant 15 jours (21 jours si nécessaire -- *SFORL 2001*)
+  - Si **otomycose**: aspiration des sécrétions, nystatine associée [Auricularum](https://bdpm.ansm.sante.fr/medicament/66592652/extrait#tab-rcp) 5-10 gouttes x 2/j pendant 15 jours (21 jours si nécessaire -- *SFORL 2001*)
 - **Antalgie:** palier 1 voire 2
 - Information du patient:
   - [Guide otite externe Ameli](https://www.ameli.fr/assure/sante/themes/otite-externe)
@@ -161,7 +161,7 @@ En position couchée, l'oreille atteinte en position haute:
 {{%/sources%}}
 {{% modele %}}
 
-- [Ofloxacine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66256370&typedoc=R) auriculaire 1 dose matin et soir pendant 7 jours
+- [Ofloxacine](https://bdpm.ansm.sante.fr/medicament/66256370/extrait#tab-rcp) auriculaire 1 dose matin et soir pendant 7 jours
 - Paracétamol 1g toutes les 6 heures si douleurs
 
 Antalgique de palier 2 si nécessaire.
@@ -171,6 +171,6 @@ Antalgique de palier 2 si nécessaire.
 ### Traitement de l'otomycose
 
 - Aspiration des sécrétions
-- [Auricularum](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66592652&typedoc=R) 5 à 10 gouttes x 2/j pendant 15 jours
+- [Auricularum](https://bdpm.ansm.sante.fr/medicament/66592652/extrait#tab-rcp) 5 à 10 gouttes x 2/j pendant 15 jours
 
 {{% /modele %}}

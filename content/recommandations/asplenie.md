@@ -98,7 +98,7 @@ Stormorken
 Oracilline® 1 MUI, 1 cp x 2/j pendant au moins 2 ans (5 ans ou jusqu'à l'adolescence chez l'enfant) (*SFAR*, *Collège*).
 {.alert .alert-info}
 
-Antibiothérapie par [Oracilline®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67151899&typedoc=R) (pénicilline V, phénoxyméthylpénicilline) à débuter dès le lendemain de la splénectomie.
+Antibiothérapie par [Oracilline®](https://bdpm.ansm.sante.fr/medicament/67151899/extrait#tab-rcp) (pénicilline V, phénoxyméthylpénicilline) à débuter dès le lendemain de la splénectomie.
 
 La pénicilline V existe en sirops ou comprimé à 1 MUI.
 
@@ -108,7 +108,7 @@ La pénicilline V existe en sirops ou comprimé à 1 MUI.
   100.000 UI/kg/j pendant 5 ans.
 - Allergie aux bêtalactamines
   - Selon le *CEREDIH 2013*: cotrimoxazole 25 mg/kg/j (de sulfaméthoxazole)
-  - Selon la *SFAR 2010*: érythromycine ([Ery®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61572941&typedoc=R)) 500 mg x 1/j
+  - Selon la *SFAR 2010*: érythromycine ([Ery®](https://bdpm.ansm.sante.fr/medicament/61572941/extrait#tab-rcp)) 500 mg x 1/j
   - Selon *Lee GM*: céfalexine 250 mg 1 cm x 2/j (en dehors des repas et sans lait) ou azithromycine 250 mg x 1/j
 - En cas de pénurie d'Oracilline® (*Lee GM*):
   - Adulte: amoxicilline 500 mg x 2/j
@@ -185,7 +185,7 @@ Rappel tous les 2-3 ans selon *Lee GM*.
 
 #### *Haemophilus influenzae* type B
 
-Vaccin [ACT-HIB®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61104024&typedoc=R) dose unique (hors AMM après 6 ans).
+Vaccin [ACT-HIB®](https://bdpm.ansm.sante.fr/medicament/61104024/extrait#tab-rcp) dose unique (hors AMM après 6 ans).
 
 #### Grippe saisonnière
 

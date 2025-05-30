@@ -188,7 +188,7 @@ La méta-analyse 2023 publiée dans le *JAMA* n'identifie pas de réduction du r
 L'oseltamivir n'est pas remboursé en dehors d'une hypothétique << pandémie grippale >>.
 
 {{%info%}}
-Indications au traitement antiviral de la grippe par [oseltamivir](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65545895&typedoc=R) (Tamiflu®, gén):
+Indications au traitement antiviral de la grippe par [oseltamivir](https://bdpm.ansm.sante.fr/medicament/65545895/extrait#tab-rcp) (Tamiflu®, gén):
 
 - Personnes à risque de grippe grave (voir section plus haut, dont **femmes enceintes**) symptomatique ou en post-exposition
 - Grippe grave d'emblée

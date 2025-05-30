@@ -28,7 +28,7 @@ flowchart = true
 2. Bilan de l'ostéoporose de l'homme en cas de fracture ou de T-score < -3: testostéronémie libre ou biodisponible, NFS, CRP, créatininémie, bilan hépatique, vitamine D, calcémie, phosphatémie, électrophorèse des protéines sériques ± bilans ciblés
 3. Biphosphonate en 1^er^ traitement anti-ostéoporotique selon T-score: {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} ≤ -1, autres fractures ≤ -2 ou T-score ≤ -3 avec risque {{< modal-btn modal-risque-fracture >}}fracturaire{{< /modal-btn >}}/{{< modal-btn modal-risque-chute >}}de chutes{{< /modal-btn >}}
 4. Avis rhumatologique si: -70 ans, hypogonadisme, T-score proche de l'indication de traiter, contre-indication au traitement, après 2-3 ans de traitement
-5. Prise en charge par biphosphonate: bilan bucco-dentaire, [zolédronate 5 mg/100 mL](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) (tériparatide SC possible pour ≥ 2 fractures vertébrales)  
+5. Prise en charge par biphosphonate: bilan bucco-dentaire, [zolédronate 5 mg/100 mL](https://bdpm.ansm.sante.fr/medicament/66175242/extrait#tab-rcp) IVL à domicile (pas avant J+15 de la fracture) ou [risédronate 35 mg/sem](https://bdpm.ansm.sante.fr/medicament/66887599/extrait#tab-rcp) (tériparatide SC possible pour ≥ 2 fractures vertébrales)  
   Au moins 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)
 1. {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} et souvent supplémenter à distance des repas, supplémenter en vitamine D
 2. Contrôle de l'ostéodensitométrie à 2-3 ans + avis rhumatologique
@@ -242,10 +242,10 @@ Rechercher une autre cause d'ostéopathie fragilisante en cas de T-score > -1.
 #### Choix du traitement anti-ostéoporotique
 
 - Fracture de l'extrémité supérieure du fémur (FESF)  
-  [Acide zolédronique 5 mg/100 mL IVL](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) (15 minutes) annuel ([info Omedit](https://www.omedit-paysdelaloire.fr/bon-usage-des-produits-de-sante/perfusion/perfadom/#DCI24), aussi privilégié en cas de troubles mnésiques, troubles digestifs, polymédication).
+  [Acide zolédronique 5 mg/100 mL IVL](https://bdpm.ansm.sante.fr/medicament/66175242/extrait#tab-rcp) (15 minutes) annuel ([info Omedit](https://www.omedit-paysdelaloire.fr/bon-usage-des-produits-de-sante/perfusion/perfadom/#DCI24), aussi privilégié en cas de troubles mnésiques, troubles digestifs, polymédication).
 - {{< modal-btn modal-fracture-severe >}}Fracture sévère{{< /modal-btn >}} (hors FESF), vertébrale unique, non sévère ou T-score < -3 avec fragilité ou {{< modal-btn modal-risque-chute >}}risque de chutes{{< /modal-btn >}}
   - Acide zolédronique 5 mg IVL annuel
-  - [Risédronate 35 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) en 1 prise par semaine
+  - [Risédronate 35 mg](https://bdpm.ansm.sante.fr/medicament/66887599/extrait#tab-rcp) en 1 prise par semaine
 - Fractures vertébrales
   - Tériparatide SC 20 µg/j pendant 18 mois  
     puis relayé par un biphosphonate.

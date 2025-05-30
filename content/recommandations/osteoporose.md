@@ -34,9 +34,9 @@ Recommandations simplifiées pour une prise en charge réaliste de l'ostéoporos
 2. Bilan de l'ostéoporose: NFS, CRP, créatininémie, ASAT, ALAT, GGT, PAL, vitamine D, calcémie, phosphatémie, électrophorèse des protéines sériques
 3. Biphosphonate en 1^er^ traitement anti-ostéoporotique selon T-score: {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} ≤ -1, autres fractures ≤ -2 ou tout T-score ≤ -3
 4. Avis rhumatologique si T-score proche (1 point) de l'indication de traiter
-5. Biphosphonate: bilan bucco-dentaire, [acide alendronique 70 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69784280&typedoc=R) ou [risédronate 35 mg/sem](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66887599&typedoc=R) ou 75 mg 2 jours de suite 1 fois par mois
+5. Biphosphonate: bilan bucco-dentaire, [acide alendronique 70 mg/sem](https://bdpm.ansm.sante.fr/medicament/69784280/extrait#tab-rcp) ou [risédronate 35 mg/sem](https://bdpm.ansm.sante.fr/medicament/66887599/extrait#tab-rcp) ou 75 mg 2 jours de suite 1 fois par mois
     - Au moins 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)  
-    - [Fracture du col du fémur]({{% relref "fracture-extremite-superieure-femur.md" %}}) (FESF): [zolédronate 5 mg/100 mL](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66175242&typedoc=R) IVL à domicile (pas avant J+15 de la fracture).
+    - [Fracture du col du fémur]({{% relref "fracture-extremite-superieure-femur.md" %}}) (FESF): [zolédronate 5 mg/100 mL](https://bdpm.ansm.sante.fr/medicament/66175242/extrait#tab-rcp) IVL à domicile (pas avant J+15 de la fracture).
 6. {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} et souvent supplémenter à distance des repas, supplémenter en vitamine D
 7. Contrôle de l'ostéodensitométrie à 2-3 ans et avis rhumatologique
 8. Contrôle de la DXA 2 ans après l'arrêt du traitement

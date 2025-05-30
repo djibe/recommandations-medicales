@@ -243,7 +243,7 @@ Recommandations pour la prise en charge de la syphilis.
 
 ### Traitement de la syphilis précoce (primaire ou secondaire)
 
-[Benzathine pénicilline G](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64699367&typedoc=R) (BPG, Extencilline®) 2,4 MUI en dose unique IM
+[Benzathine pénicilline G](https://bdpm.ansm.sante.fr/medicament/64699367/extrait#tab-rcp) (BPG, Extencilline®) 2,4 MUI en dose unique IM
 {.alert .alert-info}
 
 Prise en charge d'une syphilis précoce (syphilis primaire ou secondaire):
@@ -266,7 +266,7 @@ Répéter le suivi sérologique dans les populations à risque (contaminées ou 
 #### Situations particulières pour le traitement de la syphilis
 
 - Allergie aux bêtalactamines  
-  [Doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R) 200 mg en 1-2 prises par jour pendant 14 jours  
+  [Doxycycline](https://bdpm.ansm.sante.fr/medicament/67164569/extrait#tab-rcp) 200 mg en 1-2 prises par jour pendant 14 jours  
   Contre-indications: enfant < 8 ans, femme enceinte, allaitement.
 - Anticoagulants  
   Idem *Allergie aux bêtalactamines*

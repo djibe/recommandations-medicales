@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-07-19T11:38:45+02:00"
 publishdate = "2024-07-19"
-lastmod = "2025-05-06"
+lastmod = "2025-05-30"
 specialites = ["thérapeutique"]
 annees = "2025"
 sources = ["BDPM"]
@@ -53,9 +53,9 @@ const noResults = document.getElementById('no-results');
 data.forEach(item => {
   const a = document.createElement('a');
   if ('procedure' in item) {
-    a.href = `https://base-donnees-publique.medicaments.gouv.fr/extrait.php?specid=${item.cis}`;
+    a.href = `https://bdpm.ansm.sante.fr/medicament/${item.cis}/extrait#tab-rcp-et-notice`;
   } else {
-    a.href = `https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=${item.cis}&typedoc=R`;
+    a.href = `https://bdpm.ansm.sante.fr/medicament/${item.cis}/extrait#tab-rcp`;
   }
   a.textContent = item.libelle;
   a.target = "_blank";

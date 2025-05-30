@@ -274,8 +274,8 @@ Indications à une consultation génétique: cardiomyopathie hypertrophique (CMH
 Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaque:
 
 - Diurétiques de l'anse à visée symptomatique
-  - [Furosémide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68009803&typedoc=R) 20 à 40 mg jusqu'à 1000 mg/j. Fractionner à partir de 40 mg
-  - ou [bumétanide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68232635&typedoc=R) 0,5 à 1 mg jusqu'à 5 mg/j. Fractionner à partir de 1 mg
+  - [Furosémide](https://bdpm.ansm.sante.fr/medicament/68009803/extrait#tab-rcp) 20 à 40 mg jusqu'à 1000 mg/j. Fractionner à partir de 40 mg
+  - ou [bumétanide](https://bdpm.ansm.sante.fr/medicament/68232635/extrait#tab-rcp) 0,5 à 1 mg jusqu'à 5 mg/j. Fractionner à partir de 1 mg
   - Augmenter dès **prise de 2 kg en 3 jours**
 - Hypertension artérielle
   - Seuil diagnostique identique à l'[hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})

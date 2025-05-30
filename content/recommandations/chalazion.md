@@ -55,12 +55,12 @@ Vérifier la monographie car il existe des contre-indications spécifiques pour 
 {{< table title="Collyres antibiotiques disponibles pour le traitement d'un chalazion. Dr JB Fron d'après *BDPM*" >}}
 | Famille      | Spécialité  | Posologie |
 |--------------|-------------|-----------|
-| DXM + framycétine \*,** | [Frakidex collyre](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60814943&typedoc=R)<br>ou [pom opht](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65164218&typedoc=R) | 1 gte x 3-6/j<br>1 appli x 1-3/j |
-| DXM + néomycine * | [Chibro-Cadron collyre](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67756752&typedoc=R) | 1 gte x 3-6/j |
-| DXM + néomycine + polymyxine B \*,** | [Maxidrol collyre](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61605665&typedoc=R)<br>ou [pom opht](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62067340&typedoc=R) | 1 gte x 3-6/j<br>1 appli x 1-2/j |
-| DXM + oxytétracycline \*, *** | [Sterdex pom opht](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69497177&typedoc=R) | 1 appli x 1-3/j |
-| DXM + tobramycine ** | [Tobradex collyre](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66302120&typedoc=R) ([CRAT](https://www.lecrat.fr/7735/))<br>ou [Todexal](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66581684&typedoc=R) | 1 gte x 4-6/j |
-| Triamcinolone acétonide + néomycine * | [Cidermex pom opht](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65539860&typedoc=R) | 1 appli x 1-2/j |
+| DXM + framycétine \*,** | [Frakidex collyre](https://bdpm.ansm.sante.fr/medicament/60814943/extrait#tab-rcp)<br>ou [pom opht](https://bdpm.ansm.sante.fr/medicament/65164218/extrait#tab-rcp) | 1 gte x 3-6/j<br>1 appli x 1-3/j |
+| DXM + néomycine * | [Chibro-Cadron collyre](https://bdpm.ansm.sante.fr/medicament/67756752/extrait#tab-rcp) | 1 gte x 3-6/j |
+| DXM + néomycine + polymyxine B \*,** | [Maxidrol collyre](https://bdpm.ansm.sante.fr/medicament/61605665/extrait#tab-rcp)<br>ou [pom opht](https://bdpm.ansm.sante.fr/medicament/62067340/extrait#tab-rcp) | 1 gte x 3-6/j<br>1 appli x 1-2/j |
+| DXM + oxytétracycline \*, *** | [Sterdex pom opht](https://bdpm.ansm.sante.fr/medicament/69497177/extrait#tab-rcp) | 1 appli x 1-3/j |
+| DXM + tobramycine ** | [Tobradex collyre](https://bdpm.ansm.sante.fr/medicament/66302120/extrait#tab-rcp) ([CRAT](https://www.lecrat.fr/7735/))<br>ou [Todexal](https://bdpm.ansm.sante.fr/medicament/66581684/extrait#tab-rcp) | 1 gte x 4-6/j |
+| Triamcinolone acétonide + néomycine * | [Cidermex pom opht](https://bdpm.ansm.sante.fr/medicament/65539860/extrait#tab-rcp) | 1 appli x 1-2/j |
 {{< /table >}}
 
 > *: contre-indiqué chez femme enceinte ou allaitante  

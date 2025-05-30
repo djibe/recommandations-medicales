@@ -29,7 +29,7 @@ Anticoagulant oral de référence, seule la warfarine (Coumadine®) est détaill
 
 ### La warfarine
 
-Warfarine comprimés sécables de 2 et [5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63245753&typedoc=R) ((Coumadine®)).
+Warfarine comprimés sécables de 2 et [5 mg](https://bdpm.ansm.sante.fr/medicament/63245753/extrait#tab-rcp) ((Coumadine®)).
 
 #### Bilan pré-thérapeutique
 

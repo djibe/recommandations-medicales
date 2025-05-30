@@ -98,7 +98,7 @@ Le stérilet est remboursé sur prescription de sage-femme ou médecin (à 60%).
 À prendre le plus tôt possible (de préférence dans les 12 heures) et jusqu'à 3 jours suivant le rapport.
 
 {{%info%}}
-[Lévonorgestrel 1,5 mg en 1 prise](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66791234&typedoc=R)  
+[Lévonorgestrel 1,5 mg en 1 prise](https://bdpm.ansm.sante.fr/medicament/66791234/extrait#tab-rcp)  
 AR 1 fois si besoin.  
 Ou ulipristal si 72 heures dépassées (voir plus bas)
 
@@ -124,7 +124,7 @@ Aucun risque décrit, aucune contre-indication hormis la grossesse.
 
 À prendre le plus tôt possible et jusqu'à 5 jours (120 heures) suivant le rapport. Préférer le LNG en cas de contraception hormonale au long cours.
 
-[Ulipristal acétate 30 mg en 1 prise](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62621512&typedoc=R) (Ellaone® ou gén).
+[Ulipristal acétate 30 mg en 1 prise](https://bdpm.ansm.sante.fr/medicament/62621512/extrait#tab-rcp) (Ellaone® ou gén).
 
 Mêmes précautions que pour la PCU (préservatif, contraception, si retard de règles, si vomissements).
 

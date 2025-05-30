@@ -212,7 +212,7 @@ Indication à la phytothérapie: symptômes gênants (efficacité modeste).
 La phytothérapie ne peut pas être associée aux autres traitements.
 
 - ~~Pygeum Africanum~~ (Tadenan®, non disponible)
-- [Serenoa Repens](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63398507&typedoc=R) 160 mg x 2/j (Permixon®, Sereprosta®, AMM pour 6 mois de traitement)  
+- [Serenoa Repens](https://bdpm.ansm.sante.fr/medicament/63398507/extrait#tab-rcp) 160 mg x 2/j (Permixon®, Sereprosta®, AMM pour 6 mois de traitement)  
   *Cochrane*: pas de supériorité au placebo.
 
 ### Alpha-bloquants
@@ -229,7 +229,7 @@ Attention aux associations avec antihypertenseurs et aux conducteurs de véhicul
 
 Indication: symptômes gênants.
 
-Alpha-bloquants disponibles: [alfuzosine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64068708&typedoc=R), doxazosine, prazosine, [silodosine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67692214&typedoc=R) (absence d'hypotension selon *EAU 2024*), [tamsulosine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68470152&typedoc=R), térazosine.
+Alpha-bloquants disponibles: [alfuzosine](https://bdpm.ansm.sante.fr/medicament/64068708/extrait#tab-rcp), doxazosine, prazosine, [silodosine](https://bdpm.ansm.sante.fr/medicament/67692214/extrait#tab-rcp) (absence d'hypotension selon *EAU 2024*), [tamsulosine](https://bdpm.ansm.sante.fr/medicament/68470152/extrait#tab-rcp), térazosine.
 
 Efficace en 48 heures. Consultation de contrôle précoce pour évaluer l'efficacité.
 
@@ -248,9 +248,9 @@ avec surveillance de signes psychiatriques.
 Efficace après 6 mois de traitement, réduction du volume prostatique sur plusieurs années.  
 Seule classe à réduire le risque de rétention aiguë d'urines.
 
-Peut être associé à un alpha-bloquant (tamsulosine + dutastéride [Combodart® ou gén](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65913639&typedoc=R)) chez les hommes avec symptômes gênants et prostate +40 mL.
+Peut être associé à un alpha-bloquant (tamsulosine + dutastéride [Combodart® ou gén](https://bdpm.ansm.sante.fr/medicament/65913639/extrait#tab-rcp)) chez les hommes avec symptômes gênants et prostate +40 mL.
 
-- [Dutastéride 0,5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67513654&typedoc=R) (Avodart®, gén)
+- [Dutastéride 0,5 mg](https://bdpm.ansm.sante.fr/medicament/67513654/extrait#tab-rcp) (Avodart®, gén)
 - Finastéride 5 mg (Chibro-Proscar®, gén)  
   Surveillance renforcée de l'[ANSM](https://ansm.sante.fr/actualites/reevaluation-europeenne-de-la-balance-benefice-risque-des-medicaments-contenant-du-finasteride-ou-du-dutasteride) pour troubles sexuels et psychiatriques.
 
@@ -261,7 +261,7 @@ Peut être associé à un alpha-bloquant (tamsulosine + dutastéride [Combodart�
 
 Indication aux IPDE5: symptômes gênants avec ou sans [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}).
 
-[Tadalafil 5 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62472584&typedoc=R) (Cialis® ou gén, seul avec l'AMM mais non remboursé).
+[Tadalafil 5 mg](https://bdpm.ansm.sante.fr/medicament/62472584/extrait#tab-rcp) (Cialis® ou gén, seul avec l'AMM mais non remboursé).
 
 Utilisation possible en bithérapie avec un alpha-bloquant.
 

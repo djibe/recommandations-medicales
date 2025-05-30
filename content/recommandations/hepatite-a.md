@@ -100,9 +100,9 @@ Vaccins après 15 ans:
 
 Vaccins possible de 1 à 15 ans:
 
-- [Avaxim 80®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63777215&typedoc=R)  
+- [Avaxim 80®](https://bdpm.ansm.sante.fr/medicament/63777215/extrait#tab-rcp)  
   1 dose avec rappel à 6-36 mois (max 7 ans).
-- [Havrix 720®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60152436&typedoc=R)  
+- [Havrix 720®](https://bdpm.ansm.sante.fr/medicament/60152436/extrait#tab-rcp)  
   1 dose avec rappel à 6-12 mois (max 5 ans).
 
 ### Vaccination hépatite A et voyage

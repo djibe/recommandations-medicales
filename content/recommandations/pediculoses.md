@@ -142,11 +142,11 @@ Nota bene:
 
 Prise en charge de la phtiriase pubienne et des cils (*HAS 2024*):
 
-- Perméthrine crème 5% ([Topiscab®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61712553&typedoc=R)) sur les zones atteintes. Rincer après 10 minutes. Renouveler à J7-10 (possible pendant la grossesse)
+- Perméthrine crème 5% ([Topiscab®](https://bdpm.ansm.sante.fr/medicament/61712553/extrait#tab-rcp)) sur les zones atteintes. Rincer après 10 minutes. Renouveler à J7-10 (possible pendant la grossesse)
 - ou diméticone lotion 1 application. Rincer après 10-15 minutes. Renouveler à J7-10 (possible pendant la grossesse)
 - En cas d'échec:
   - Essayer l'autre traitement (perméthrine - diméticone), vérifier l'auto-réinfestation ou par le partenaire
-  - 3^e^ ligne ou forme profuse: [ivermectine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67988035&typedoc=R) 200 µg/kg (min 15 kg) dose unique 2h après le repas, renouveler à J7-10
+  - 3^e^ ligne ou forme profuse: [ivermectine](https://bdpm.ansm.sante.fr/medicament/67988035/extrait#tab-rcp) 200 µg/kg (min 15 kg) dose unique 2h après le repas, renouveler à J7-10
 - Atteinte ciliaire:
   - Retrait manuel puis vaseline 1 application x 2/j pendant 10 jours
   - Si échec: ivermectine comme ci-dessus

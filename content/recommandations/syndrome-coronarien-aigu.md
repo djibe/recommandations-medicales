@@ -226,10 +226,10 @@ Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut 
   - Correction d'un surpoids
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Antiagrégants plaquettaires
-  - Bithérapie [aspirine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68881730&typedoc=R) 75-100 mg/j + [prasugrel](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61374393&typedoc=R)/ticagrelor (voire clopidogrel 75) ...
+  - Bithérapie [aspirine](https://bdpm.ansm.sante.fr/medicament/68881730/extrait#tab-rcp) 75-100 mg/j + [prasugrel](https://bdpm.ansm.sante.fr/medicament/61374393/extrait#tab-rcp)/ticagrelor (voire clopidogrel 75) ...
   - pendant **minimum 12 mois**  
     Considérer une monothérapie après 3-6 mois sauf haut risque ischémique; après 1 mois si haut risque de saignement. Une trithérapie est possible.
-  - Puis **[aspirine seule](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68881730&typedoc=R) 75-100 mg/j** (prasugrel/ticagrelor possibles)
+  - Puis **[aspirine seule](https://bdpm.ansm.sante.fr/medicament/68881730/extrait#tab-rcp) 75-100 mg/j** (prasugrel/ticagrelor possibles)
   - IPP si haut risque de saignement (à venir: *ESC DAPT*)
   - Si [fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}): AOD + clopidogrel pendant 12 mois  
     AOD à dose réduite si risque de saignement. Si AVK indiqué: INR cible 2 - 2,5.

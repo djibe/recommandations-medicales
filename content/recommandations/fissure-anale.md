@@ -108,13 +108,13 @@ Le traitement et la prise en charge des fissures anales est hygiéno-diététiqu
 - Bains de siège
 - Lavage à l'eau et au savon après chaque selle puis séchage doux
 - Lutte contre la constipation:
-  - Laxatifs: [ispaghul](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67437758&typedoc=R), lactulose ou macrogol chez l'enfant
+  - Laxatifs: [ispaghul](https://bdpm.ansm.sante.fr/medicament/67437758/extrait#tab-rcp), lactulose ou macrogol chez l'enfant
   - Apports hydriques et en fibres  
     Chez l'enfant, obtenir des selles << compote >> et éviter les suppositoires.
 - Antalgie ± anti-inflammatoires AINS
-- Si besoin: anesthésiques locaux avec lidocaïne ([Anesderm 5%®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63794766&typedoc=R), [Emla 5%®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63396602&typedoc=R), [Titanoréïne lidocaïne®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61165034&typedoc=R) ...) ou autre (Rectoquotane®, Sédorrhoïde crise hémorroïdaire®, Tronothane 1%®)  
+- Si besoin: anesthésiques locaux avec lidocaïne ([Anesderm 5%®](https://bdpm.ansm.sante.fr/medicament/63794766/extrait#tab-rcp), [Emla 5%®](https://bdpm.ansm.sante.fr/medicament/63396602/extrait#tab-rcp), [Titanoréïne lidocaïne®](https://bdpm.ansm.sante.fr/medicament/61165034/extrait#tab-rcp) ...) ou autre (Rectoquotane®, Sédorrhoïde crise hémorroïdaire®, Tronothane 1%®)  
   Avant et après la défécation chez le +12 ans.
-- Voire trinitrine topique [Rectogesic® NR](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65328888&typedoc=R) (céphalées)
+- Voire trinitrine topique [Rectogesic® NR](https://bdpm.ansm.sante.fr/medicament/65328888/extrait#tab-rcp) (céphalées)
 
 ### Pour en savoir plus: traitement des fissures anales chroniques
 

@@ -128,19 +128,19 @@ Indications à l'hystéroscopie:
 
 Le traitement médical est un anti-fibrinolytique:
 
-[Acide tranexamique 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61224073&typedoc=R) (Exacyl®, Spotof® ou gén®) 4 à 8 cp par jour en 2-3 prises
+[Acide tranexamique 500 mg](https://bdpm.ansm.sante.fr/medicament/61224073/extrait#tab-rcp) (Exacyl®, Spotof® ou gén®) 4 à 8 cp par jour en 2-3 prises
 
 *Prescrire* rappelle le risque de [thromboses veineuses]({{% relref "thrombose-veineuse-profonde.md" %}}) parfois graves de l'acide tranexamique.
 
 ### Traitement hormonal des ménorragies
 
-Le traitement hormonal préférentiel est un DIU (stérilet) au lévonorgestrel 52 mg (Donasert®, [Mirena®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66349230&typedoc=R)).  
+Le traitement hormonal préférentiel est un DIU (stérilet) au lévonorgestrel 52 mg (Donasert®, [Mirena®](https://bdpm.ansm.sante.fr/medicament/66349230/extrait#tab-rcp)).  
 Il peut être laissé en place pendant 5 ans.
 
 Autres traitements hormonaux:
 
 - Œstro-progestatifs (COP) et progestatifs
-- Analogues de la GnRH (aGnRH) IM: leuproréline (Enantone®, Zeulide®), triptoréline ([Decapeptyl® LP 3 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67699931&typedoc=R), Gonapeptyl®)  
+- Analogues de la GnRH (aGnRH) IM: leuproréline (Enantone®, Zeulide®), triptoréline ([Decapeptyl® LP 3 mg](https://bdpm.ansm.sante.fr/medicament/67699931/extrait#tab-rcp), Gonapeptyl®)  
   Le rythme d'injection est globalement trimestriel.
 
 ### Traitement chirurgical des ménorragies

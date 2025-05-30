@@ -133,7 +133,7 @@ Rééducation comportementale en cas d'urgenturie prédominante.
 
 Si urgenturie ou pollakiurie et ménopause: estrogènes par voie vaginale.
 
-Femme +65 ans avec urgenturie ou incontinence urinaire mixte: anticholinergique **[oxybutynine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61198689&typedoc=R)**, chlorure de trospium avec un risque de **détérioration cognitive**.
+Femme +65 ans avec urgenturie ou incontinence urinaire mixte: anticholinergique **[oxybutynine](https://bdpm.ansm.sante.fr/medicament/61198689/extrait#tab-rcp)**, chlorure de trospium avec un risque de **détérioration cognitive**.
 
 Efficacité maximale à 5-8 semaines. En l'absence d'amélioration à 2 mois: substituer par un autre traitement pour 2 mois si BUD réalisé, sinon avis urologique.
 

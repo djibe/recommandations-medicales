@@ -167,7 +167,7 @@ Situations nécessitant une prise en charge différente de la thrombose veineuse
   - HBPM à dose **préventive** pendant 6 semaines
   - Discussion au cas par cas de la prolongation au-delà de 6 semaines et pendant le post-partum
 - **Insuffisance rénale sévère** ({{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 30 mL/min):  
-  Surveillance clinico-échographique initiale. Seule la [tinzaparine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62007966&typedoc=R) à dose **préventive** doit être utilisée pour une clairance de 20 à 30 mL/min.
+  Surveillance clinico-échographique initiale. Seule la [tinzaparine](https://bdpm.ansm.sante.fr/medicament/62007966/extrait#tab-rcp) à dose **préventive** doit être utilisée pour une clairance de 20 à 30 mL/min.
 - Extension sous traitement à dose préventive: dose curative et surveillance régulière
 
 {{% /collapse %}}

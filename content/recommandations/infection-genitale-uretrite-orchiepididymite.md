@@ -121,11 +121,11 @@ Antibiothérapie probabiliste de l'urétrite sans attendre l'antibiogramme.
 
 Gonocoque:
 
-- [ceftriaxone 1g IM](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62676989&typedoc=R) dose unique*
+- [ceftriaxone 1g IM](https://bdpm.ansm.sante.fr/medicament/62676989/extrait#tab-rcp) dose unique*
 - préservatif minimum 7 jours
 - traitement des partenaires des 14 jours précédents, dépistage des 6 mois précédents
 
-Chlamydia: [doxycycline 100 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R) x 2/j pendant 7 jours
+Chlamydia: [doxycycline 100 mg](https://bdpm.ansm.sante.fr/medicament/67164569/extrait#tab-rcp) x 2/j pendant 7 jours
 
 \* culture et antibiogramme systématiques; Si contamination Asie-Pacifique: avis infectiologique et voir plus bas *Mesures associées*
 

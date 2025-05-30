@@ -194,7 +194,7 @@ Les traitements peuvent être pris uniquement lors des périodes de poussées sy
 - Information du patient (voir chapitre suivant)
 - Mesures diététiques  
   Respect des sensations alimentaires et manger lentement, réduire les aliments identifiés comme mal supportés, limiter les graisses, éviter l'excès de fibres (son de blé), réintroduire à 4 semaines un aliment exclu en l'absence d'amélioration.
-- [Laxatif ispaghul](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67437758&typedoc=R) (dit aussi psyllium) 3-4 g/j avec titration progressive (20-30 g/j)
+- [Laxatif ispaghul](https://bdpm.ansm.sante.fr/medicament/67437758/extrait#tab-rcp) (dit aussi psyllium) 3-4 g/j avec titration progressive (20-30 g/j)
 - Association de patients: [APSSII](https://apssii.org)
 
 Réévaluation à 2-3 mois. Si insuffisant, proposer:
@@ -203,9 +203,9 @@ Réévaluation à 2-3 mois. Si insuffisant, proposer:
   - Présents dans: édulcorants, plats préparés, lactose, blé-orge-seigle, légumes (asperges, choux, brocolis, poireaux, artichaut), fruits (pomme, poire)
   - Essai strict pendant 4-6 semaines et réintroduction progressive si efficace pour identifier l'agent
 - Essai probiotiques (ex: *Lactobacillus*, *Bifidobacterium infantis 35624*) 12 semaines
-- Si diarrhées: titration de [lopéramide](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61257269&typedoc=R)
-- Si constipation: essai polyéthylène glycol (PEG, **[macrogol](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63229902&typedoc=R)**)
-- Si douleurs abdominales: paracétamol, antispasmodiques ([pinavérium](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61818407&typedoc=R) > citrate d'alvérine, trimébutine, mébévérine, phloroglucinol), [huile essentielle de menthe poivrée](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63070147&typedoc=R) (EI: reflux)
+- Si diarrhées: titration de [lopéramide](https://bdpm.ansm.sante.fr/medicament/61257269/extrait#tab-rcp)
+- Si constipation: essai polyéthylène glycol (PEG, **[macrogol](https://bdpm.ansm.sante.fr/medicament/63229902/extrait#tab-rcp)**)
+- Si douleurs abdominales: paracétamol, antispasmodiques ([pinavérium](https://bdpm.ansm.sante.fr/medicament/61818407/extrait#tab-rcp) > citrate d'alvérine, trimébutine, mébévérine, phloroglucinol), [huile essentielle de menthe poivrée](https://bdpm.ansm.sante.fr/medicament/63070147/extrait#tab-rcp) (EI: reflux)
 
 Réévaluation à 3 mois.
 
@@ -216,7 +216,7 @@ Réévaluation à 3 mois.
   cognitivo-comportementale (TCC), hypnose.
 - Antidépresseurs pour neuromodulation intestin-cerveau
   - **Tricycliques**  
-    Débuter [amitriptyline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65892928&typedoc=R) (Laroxyl®) 10 mg le soir, titration progressive jusqu'à 30-50 mg/j. Prolonger au moins 6 mois si efficace.
+    Débuter [amitriptyline](https://bdpm.ansm.sante.fr/medicament/65892928/extrait#tab-rcp) (Laroxyl®) 10 mg le soir, titration progressive jusqu'à 30-50 mg/j. Prolonger au moins 6 mois si efficace.
   - ou IRS
 - Si diarrhées résistantes au lopéramide:
   - Antagonistes des récepteurs 5HT3 (+ efficace; hors AMM)  

@@ -148,7 +148,7 @@ Abcès du sein
 
 Prise en charge de la suspicion d'abcès du sein en urgence avec une échographie mammaire.
 
-- Si abcès non collectée: antibiothérapie anti-staphylococcique [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j (max 100 mg/kg/j)  
+- Si abcès non collectée: antibiothérapie anti-staphylococcique [pristinamycine](https://bdpm.ansm.sante.fr/medicament/63728481/extrait#tab-rcp) 1g x 3/j (max 100 mg/kg/j)  
   Nouvelle échographie en cas de persistance des symptômes.
 - Si abcès collecté: avis chirurgical urgent pour ponction-aspiration à l'aiguille fine (voire incision et drainage)
 - Poursuite de l'allaitement aux 2 seins  
@@ -231,7 +231,7 @@ Mastite (lymphangite ou galactophorite si infectieuse)
 - **Analyse bactériologique du lait** et antibiogramme (germe > 10^6^/mL)
 - ± Échographie mammaire pour éliminer un abcès
 - Surveillance clinique quotidienne
-- Si infection prouvée, crevasse surinfectée, fièvre élevée et résistante, échec à 24-48 heures: **antibiothérapie** anti-staphylococcique [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R)
+- Si infection prouvée, crevasse surinfectée, fièvre élevée et résistante, échec à 24-48 heures: **antibiothérapie** anti-staphylococcique [pristinamycine](https://bdpm.ansm.sante.fr/medicament/63728481/extrait#tab-rcp)
 
 ### Réflexe d'éjection trop fort
 

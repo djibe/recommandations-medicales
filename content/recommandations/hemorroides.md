@@ -130,9 +130,9 @@ L'objectif de la prise en charge médicale des hémorroïdes est de soulager les
   - Prescrire®: lubrifiant type vaseline
   - Corticoïdes ± anesthésiques  
     Spécialités (NR): Deliproct®, Rectoquotane®, Sédorrhoïde crise hémorroïdaire®, Titanoréïne crème®, Titanoréïne lidocaïne 2%®, Tronothane 1%®, Ultraproct®.
-  - Carraghénates NR ([Titanoréïne crème®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63802533&typedoc=R), [Titanoréïne lidocaïne 2%®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61165034&typedoc=R))
+  - Carraghénates NR ([Titanoréïne crème®](https://bdpm.ansm.sante.fr/medicament/63802533/extrait#tab-rcp), [Titanoréïne lidocaïne 2%®](https://bdpm.ansm.sante.fr/medicament/61165034/extrait#tab-rcp))
 - Veinotoniques:
-  - Flavonoïdes ([diosmine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69941714&typedoc=R), rutoside possibles [pendant la grossesse](https://www.lecrat.fr/8530/) et [l'allaitement](https://www.lecrat.fr/8534/))  
+  - Flavonoïdes ([diosmine](https://bdpm.ansm.sante.fr/medicament/69941714/extrait#tab-rcp), rutoside possibles [pendant la grossesse](https://www.lecrat.fr/8530/) et [l'allaitement](https://www.lecrat.fr/8534/))  
     Diminuent la durée et l'intensité des symptômes internes (dont rectorragies). En cure courte ou au long cours.
   - Ginkgo Biloba, troxérutine cure courte (Rheoflux®, Veinamitol®)
 - Lutte contre la [constipation]({{% relref "constipation.md" %}}):
@@ -140,7 +140,7 @@ L'objectif de la prise en charge médicale des hémorroïdes est de soulager les
   - Alimentation riche en fibre
   - Ne pas se retenir, éviter les efforts de poussée, position adaptée (marchepied), limiter le temps aux toilettes
   - Éviter la station assise prolongée, activité physique régulière
-  - Laxatifs mucilages ([ispaghul](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67437758&typedoc=R)) au long cours ou en cure courte lors des crises hémorroïdaires.
+  - Laxatifs mucilages ([ispaghul](https://bdpm.ansm.sante.fr/medicament/67437758/extrait#tab-rcp)) au long cours ou en cure courte lors des crises hémorroïdaires.
 - Information du patient: [information SNFCP](https://www.snfcp.org/informations-maladies/hemorroides/les-hemorroides/) et [FAQ Hémorroïdes](https://www.snfcp.org/informations-maladies/hemorroides/faq-hemorroides/)
 
 **NR =** non remboursé
@@ -154,7 +154,7 @@ L'objectif de la prise en charge médicale des hémorroïdes est de soulager les
 
 Prise en charge de la thrombose hémorroïdaire externe: AINS, antalgiques, régulateurs du transit et topiques voire veinotoniques. (*SNFCP*)
 
-Traitements le plus efficace à J4 sur la douleur de thrombose hémorroïdaire: hémorroïdectomie > nitroglycérine topique [Rectogesic® NR](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65328888&typedoc=R) > thrombectomie (*Cavcié J 2001*). Pas de différence d'efficacité à 1 mois.
+Traitements le plus efficace à J4 sur la douleur de thrombose hémorroïdaire: hémorroïdectomie > nitroglycérine topique [Rectogesic® NR](https://bdpm.ansm.sante.fr/medicament/65328888/extrait#tab-rcp) > thrombectomie (*Cavcié J 2001*). Pas de différence d'efficacité à 1 mois.
 
 > << L'incision ou l'excision de la thrombose hémorroïdaire externe n'est pas systématique >>. -- *SNFCP*
 

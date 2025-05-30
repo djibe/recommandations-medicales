@@ -110,7 +110,7 @@ L'incubation de la rougeole dure de 10 à 12 jours et la contagiosité perdure 5
 > [!INFO]
 > La vaccination est le seul moyen de prévenir la rougeole.
 
-La vaccination trivalente **ROR** (rougeole - oreillons - rubéole) est obligatoire pour tous les nourrissons à **12 mois** avec un rappel de 16 à 18 mois ([M-M-RvaxPro®](https://www.ema.europa.eu/fr/documents/product-information/m-m-rvaxpro-epar-product-information_fr.pdf) ou [Priorix®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61896473&typedoc=R#RcpContreindications)).
+La vaccination trivalente **ROR** (rougeole - oreillons - rubéole) est obligatoire pour tous les nourrissons à **12 mois** avec un rappel de 16 à 18 mois ([M-M-RvaxPro®](https://www.ema.europa.eu/fr/documents/product-information/m-m-rvaxpro-epar-product-information_fr.pdf) ou [Priorix®](https://bdpm.ansm.sante.fr/medicament/61896473/extrait#tab-rcp#RcpContreindications)).
 
 Lorsque le statut vaccinal n'est pas connu, la vaccination est rattrapée sans contrôle vaccinal.
 

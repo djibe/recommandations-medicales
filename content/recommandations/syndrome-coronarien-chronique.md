@@ -215,7 +215,7 @@ Réévaluation du traitement à chaque consultation:
 - Réduction de l'alcool à moins de 10 verres par semaine
 - Statine systématique
   - {{< modal-btn modal-rcv >}}LDL < 0,7 g/L et réduction ≥ 50%{{< /modal-btn >}} (< **0,55** si stent, sténose à l'imagerie ou événement CV)
-  - [Ézétimibe](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63964962&typedoc=R) ou [évolocumab SC](https://ec.europa.eu/health/documents/community-register/2023/20230130158320/anx_158320_fr.pdf) (Repatha®), [alirocumab SC](https://ec.europa.eu/health/documents/community-register/2022/20221216158063/anx_158063_fr.pdf) (Praluent®) si cible non atteinte
+  - [Ézétimibe](https://bdpm.ansm.sante.fr/medicament/63964962/extrait#tab-rcp) ou [évolocumab SC](https://ec.europa.eu/health/documents/community-register/2023/20230130158320/anx_158320_fr.pdf) (Repatha®), [alirocumab SC](https://ec.europa.eu/health/documents/community-register/2022/20221216158063/anx_158063_fr.pdf) (Praluent®) si cible non atteinte
 - [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) (*ESH 2023*)
   - Seuil d'initiation de 130/80 mmHg (dite normale haute)
   - Cible de la population générale: 120-129 / 70-79 mmHg
@@ -233,14 +233,14 @@ Réévaluation du traitement à chaque consultation:
 Mesures spécifiques pour la prise en charge de la cardiopathie ischémique stable:
 
 - **Réadaptation cardiaque** systématique
-- Symptômes à l'effort: dérivé nitré d'action rapide (Isocard®, [Natispray®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60259242&typedoc=R))
+- Symptômes à l'effort: dérivé nitré d'action rapide (Isocard®, [Natispray®](https://bdpm.ansm.sante.fr/medicament/60259242/extrait#tab-rcp))
 - **Anti-angineux** de première intention: Bêtabloquant (BB) ou {{< modal-btn modal-ica-angor >}}inhibiteur calcique (ICa){{< /modal-btn >}}
   - Considérer d'emblée l'association BB + {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}} (voir le tableau ci-dessous)
   - Fréquence cardiaque cible: 55-60 bpm (*ESC*) et 130 bpm à l'effort (*Collège*)
   - Réévaluation toutes les 2-4 semaines initialement
   - L'arrêt d'un anti-angineux nécessite une décroissance progressive
-  - Si angine persistante, anti-angineux de deuxième intention: nitré d'action longue [patch](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63785468&typedoc=R) ou [oral](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66327091&typedoc=R) (pour lesquels une tolérance s'installe, nécessitant une période libre de 10-14 h/j)  
-  ou [nicorandil](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66925249&typedoc=R), [ivabradine](https://ec.europa.eu/health/documents/community-register/2023/20230223158431/anx_158431_fr.pdf), [trimétazidine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61020245&typedoc=R) (ranolazine non disponible en France), voir tableau plus bas
+  - Si angine persistante, anti-angineux de deuxième intention: nitré d'action longue [patch](https://bdpm.ansm.sante.fr/medicament/63785468/extrait#tab-rcp) ou [oral](https://bdpm.ansm.sante.fr/medicament/66327091/extrait#tab-rcp) (pour lesquels une tolérance s'installe, nécessitant une période libre de 10-14 h/j)  
+  ou [nicorandil](https://bdpm.ansm.sante.fr/medicament/66925249/extrait#tab-rcp), [ivabradine](https://ec.europa.eu/health/documents/community-register/2023/20230223158431/anx_158431_fr.pdf), [trimétazidine](https://bdpm.ansm.sante.fr/medicament/61020245/extrait#tab-rcp) (ranolazine non disponible en France), voir tableau plus bas
 - Aspirine 75-100 mg/j à considérer en l'absence d'IDM ou de revascularisation
   - Clopidogrel 75 mg/j si intolérance (sans IPP), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) ou [AIC/AIT]({{% relref "accident-vasculaire-cerebral.md" %}})
   - Voire bi-antithrombotique si haut risque ischémique (score Precise-DAPT)

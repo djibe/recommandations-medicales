@@ -176,12 +176,12 @@ Mesures hygiéno-diététiques
 
 ---
 
-Antiacides: [alginate de sodium + bicarbonate de sodium](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67008933&typedoc=R), 1 sachet 3-4 fois par jour après le repas et avant le coucher.  
+Antiacides: [alginate de sodium + bicarbonate de sodium](https://bdpm.ansm.sante.fr/medicament/67008933/extrait#tab-rcp), 1 sachet 3-4 fois par jour après le repas et avant le coucher.  
 Attention aux apports en sodium.
 
 ---
 
-[Oméprazole 20 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69606819&typedoc=R) x 1/j 15 minutes avant le repas pendant 4 semaines  
+[Oméprazole 20 mg](https://bdpm.ansm.sante.fr/medicament/69606819/extrait#tab-rcp) x 1/j 15 minutes avant le repas pendant 4 semaines  
 Augmentation possible à 40 mg/j.
 {{%/info%}}
 
@@ -237,7 +237,7 @@ Efficaces sur les symptômes en cures courtes mais non indiqués en traitement d
 Molécules privilégiées:
 
 - ~~Ranitidine 300 mg/j en 1 à 2 prises~~
-- [Famotidine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60005856&typedoc=R) 20 mg x 2/j
+- [Famotidine](https://bdpm.ansm.sante.fr/medicament/60005856/extrait#tab-rcp) 20 mg x 2/j
 
 {{%warning%}}
 Ne pas utiliser:

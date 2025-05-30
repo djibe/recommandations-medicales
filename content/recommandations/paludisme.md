@@ -263,7 +263,7 @@ Deux vaccins contre le paludisme existent (RTS,S et R21/Matrix-M), recommandés 
 
 ### Atovaquone-proguanil
 
-Spécialités: [atovaquone/proguanil 250/100 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66395950&typedoc=R) (ex Malarone) et [cpP atovaquone/proguanil 62,5/25 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68303281&typedoc=R), comprimés uniquement.
+Spécialités: [atovaquone/proguanil 250/100 mg](https://bdpm.ansm.sante.fr/medicament/66395950/extrait#tab-rcp) (ex Malarone) et [cpP atovaquone/proguanil 62,5/25 mg](https://bdpm.ansm.sante.fr/medicament/68303281/extrait#tab-rcp), comprimés uniquement.
 
 Prise quotidienne pendant le repas à heure fixe, avec une boisson ou un produit lacté (sucré si besoin, goût amer).
 
@@ -293,7 +293,7 @@ La prise en continu est limitée à 3 mois consécutifs.
 
 ### Doxycycline (monohydrate ou hyclate)
 
-Possible uniquement à partir de 8 ans (hors grossesse): [doxycycline monohydratée](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63307856&typedoc=R) cp 50/100 mg ou [doxycycline hyclate](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67061569&typedoc=R) cp 50/100 mg.
+Possible uniquement à partir de 8 ans (hors grossesse): [doxycycline monohydratée](https://bdpm.ansm.sante.fr/medicament/63307856/extrait#tab-rcp) cp 50/100 mg ou [doxycycline hyclate](https://bdpm.ansm.sante.fr/medicament/67061569/extrait#tab-rcp) cp 50/100 mg.
 
 - Poids ≥ 40 kg  
   1 cp à 100 mg pendant le dîner
@@ -316,7 +316,7 @@ Contre-indiqué avant 8 ans, pendant la grossesse et en association avec les ré
 
 En dernière intention.
 
-Spécialité: [Lariam®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65999556&typedoc=R) (cp sécable) uniquement, de préférence au cours du repas.
+Spécialité: [Lariam®](https://bdpm.ansm.sante.fr/medicament/65999556/extrait#tab-rcp) (cp sécable) uniquement, de préférence au cours du repas.
 
 - Personne ≥ 46 kg  
   1 cp à 250 mg 1 fois par semaine

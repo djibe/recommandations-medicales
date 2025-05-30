@@ -220,9 +220,9 @@ Prise en charge urgente de la primo-infection herpétique oro-faciale:
 
 - Réhydratation, alimentation
 - Antalgie: paracétamol, AINS voire tramadol (+3 ans) ou morphine (*CNPU*)
-- ==[Aciclovir 200 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61683272&typedoc=R) x 5/j pendant 7 jours== (*Anaes*, *CNPU*)
+- ==[Aciclovir 200 mg](https://bdpm.ansm.sante.fr/medicament/61683272/extrait#tab-rcp) x 5/j pendant 7 jours== (*Anaes*, *CNPU*)
   ou valaciclovir 500 mg x 2/j pendant 7 jours
-- Enfant +2 ans: aciclovir buvable ([Zovirax®](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68750987&typedoc=R)) 5 mL x 5/j pendant 7 jours
+- Enfant +2 ans: aciclovir buvable ([Zovirax®](https://bdpm.ansm.sante.fr/medicament/68750987/extrait#tab-rcp)) 5 mL x 5/j pendant 7 jours
 - Enfant -2 ans: avis spécialisé
 - Éviter tout contact avec les enfants atopiques
 - Pas d'éviction obligatoire de la collectivité (fréquentation non souhaitée en phase aiguë -- *CNPU*)
@@ -233,7 +233,7 @@ Prise en charge urgente de la primo-infection herpétique oro-faciale:
 
 ### Récurrence d'herpès labial ou autre
 
-[Aciclovir 5%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62022480&typedoc=R) crème 1 application x 5/j pendant 5 à 10 jours
+[Aciclovir 5%](https://bdpm.ansm.sante.fr/medicament/62022480/extrait#tab-rcp) crème 1 application x 5/j pendant 5 à 10 jours
 {.alert .alert-info}
 
 L'aciclovir en crème débuté tôt réduit la poussée de 2 jours (*Prescrire*).
@@ -252,10 +252,10 @@ Prévention de l'herpès néonatal: préservatif (surtout au 3^e^ trimestre si H
 
 Prise en charge de l'herpès génital:
 
-- **Primo-infection**: ==[valaciclovir 500 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68070731&typedoc=R) x 2/j pendant 5 jours==
+- **Primo-infection**: ==[valaciclovir 500 mg](https://bdpm.ansm.sante.fr/medicament/68070731/extrait#tab-rcp) x 2/j pendant 5 jours==
   - Traitement identique et immédiat pendant la **grossesse** ou PVVIH
   - Immunodéprimé ou PVVIH CD4 < 200/mm³: valaciclovir 1g x 2/j pendant 10 jours
-  - 2^e^ intention: [aciclovir 200 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61683272&typedoc=R) x 5/j pendant 5 jours  
+  - 2^e^ intention: [aciclovir 200 mg](https://bdpm.ansm.sante.fr/medicament/61683272/extrait#tab-rcp) x 5/j pendant 5 jours  
   400 mg x 5/j 10 jours si immunodéprimé ou PVVIH CD4 < 200/mm³.
 - **Récurrence** (dès l'apparition des prodromes): ==valaciclovir 2000 mg x 2/j pendant 1 jour==
   - Pendant la **grossesse**: valaciclovir 500 mg x 2/j pendant 3 jours ou aciclovir 200 mg x 5/j pendant 5 jours
@@ -322,7 +322,7 @@ L'[allaitement]({{% relref "allaitement.md" %}}) est contre-indiqué en cas de l
 La kérato-conjonctivite herpétique (herpès oculaire) est une **urgence médicale**:
 
 - [Avis ophtalmologique en urgence]({{% relref "urgences-ophtalmologiques.md" %}})
-- [Aciclovir pommade ophtalmique](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68401067&typedoc=R) 30 mg/g x 5/j pendant 5-10 jours
+- [Aciclovir pommade ophtalmique](https://bdpm.ansm.sante.fr/medicament/68401067/extrait#tab-rcp) 30 mg/g x 5/j pendant 5-10 jours
 - Contre-indication aux corticoïdes et anesthésiques locaux
 
 Pour en savoir plus, les critères d'hospitalisation de la kératite herpétique sont: kératite profonde, uvéite ou nécrose rétinienne.

@@ -159,14 +159,14 @@ Pour les mesures d'hygiène, voir la section *Traitement de l'acné*.
 {{%info%}}
 Exemple de prescription
 
-[Adapalène 0,1% crème](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67245747&typedoc=R) (ou gel) (Differine® ou gén).  
+[Adapalène 0,1% crème](https://bdpm.ansm.sante.fr/medicament/67245747/extrait#tab-rcp) (ou gel) (Differine® ou gén).  
 1 application le soir sur peau propre pendant 3 mois.  
 Appliquer l'équivalent d'un pois de crème.  
 Efficacité visible en 1 à 2 mois. Tolérance démontrée pendant 6 mois.
 
 OU
 
-[Trétinoïne Effederm® 0,05%](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67020138&typedoc=R) (ou Ketrel®, Locacid®) crème ou lotion.  
+[Trétinoïne Effederm® 0,05%](https://bdpm.ansm.sante.fr/medicament/67020138/extrait#tab-rcp) (ou Ketrel®, Locacid®) crème ou lotion.  
 1 application le soir pendant 7 jours, puis 2 applications par jour pendant 14 semaines.  
 Puis entretien par 2 à 3 applications par semaine.
 

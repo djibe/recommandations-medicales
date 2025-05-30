@@ -131,7 +131,7 @@ La prise en charge de la sinusite chronique associe:
   Sérum physiologique, préparations pour eau distillée, [formule québécoise](https://www.inspq.qc.ca/mieux-vivre/sante/bebe-en-sante/hygiene-nasale). Plus efficaces que les vaporisateurs.
 - **Corticoïdes locaux** (ou corticostéroïdes, après l'irrigation, très bien tolérés au long cours)
   - 2 pulvérisations dans chaque narine 1 fois par jour pendant au moins 8 semaines
-  - [Mométasone 50 µg/dose](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67751851&typedoc=R) ou fluticasone 50 µg/dose ([Flixonase](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61748649&typedoc=R))
+  - [Mométasone 50 µg/dose](https://bdpm.ansm.sante.fr/medicament/67751851/extrait#tab-rcp) ou fluticasone 50 µg/dose ([Flixonase](https://bdpm.ansm.sante.fr/medicament/61748649/extrait#tab-rcp))
 
 **Avis spécialisé ORL** urgent en cas de **signes d'alarme** ou d'**échec du traitement médical**.
 

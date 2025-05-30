@@ -49,7 +49,7 @@ En cas de grossesse sous méthotrexate, adresser au diagnostic anténatal en sem
 - Insuffisance respiratoire chronique
 - Allergie connue au méthotrexate
 
-Lire les [RCP](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61495968&typedoc=R) complètes et contrôler les [interactions médicamenteuses](https://www.drugs.com/interaction/list/?drug_list=1590-0).
+Lire les [RCP](https://bdpm.ansm.sante.fr/medicament/61495968/extrait#tab-rcp) complètes et contrôler les [interactions médicamenteuses](https://www.drugs.com/interaction/list/?drug_list=1590-0).
 
 ### Associations contre-indiquées avec le méthotrexate
 
@@ -116,7 +116,7 @@ Bilan pré thérapeutique du méthotrexate:
 
 - Imenor (cp)
 - Imeth (cp, cp séc, SC)
-- Méthotrexate ([cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60390455&typedoc=R), [SC](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65917662&typedoc=R))
+- Méthotrexate ([cp](https://bdpm.ansm.sante.fr/medicament/60390455/extrait#tab-rcp), [SC](https://bdpm.ansm.sante.fr/medicament/65917662/extrait#tab-rcp))
 - Metoject (SC)
 - Nordimet (SC)
 - Novatrex (cp)

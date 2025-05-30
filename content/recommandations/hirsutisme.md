@@ -195,7 +195,7 @@ Traitement d'hirsutisme modéré et/ou d'acné de la femme non ménopausée (*SF
 - Si risque vasculaire (sans contre-indication): estradiol réduit à 20 µg et progestatif à bas risque [thrombo-embolique](/tags/mvte/) (lévonorgestrel, norgestimate)
 - Si DIU (stérilet) ou implant: utiliser les anti-androgènes
 
-En cas d'échec, ajouter un anti-androgène: [spironolactone 100 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61938189&typedoc=R) x **1**-2/j (sauf insuffisance rénale ou risque de grossesse)
+En cas d'échec, ajouter un anti-androgène: [spironolactone 100 mg](https://bdpm.ansm.sante.fr/medicament/61938189/extrait#tab-rcp) x **1**-2/j (sauf insuffisance rénale ou risque de grossesse)
 
 > [!INFO]
 > Chaque essai de traitement anti-androgène devrait durer au moins 6 mois.
@@ -204,7 +204,7 @@ En cas d'échec, ajouter un anti-androgène: [spironolactone 100 mg](https://bas
 
 En cas d'hirsutisme sévère, adresser à l'endocrinologue pour associer:
 
-- [Acétate de cyprotérone (Androcur®, gén) 50 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67552319&typedoc=R) x 1-2/j (max 300 mg/j) des jours 5 à 15 (TODO:)  
+- [Acétate de cyprotérone (Androcur®, gén) 50 mg/j](https://bdpm.ansm.sante.fr/medicament/67552319/extrait#tab-rcp) x 1-2/j (max 300 mg/j) des jours 5 à 15 (TODO:)  
   Prescription restreinte, réévaluation annuelle et mesures de dépistage des méningiomes (dose cumulée).
 - Avec de l'éthinyl-estradiol 20-35 mg de J5 à J25 (TODO:)
 

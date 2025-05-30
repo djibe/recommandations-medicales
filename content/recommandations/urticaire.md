@@ -276,7 +276,7 @@ Si échec, adresser au dermatologue.
 
 Molécules peu ou pas sédatives de première intention (selon *Prescrire*): **Cétirizine** ou **loratadine**.
 
-Chez le -12 ans, en cas de fortes doses la SFD préconise la [desloratadine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62676761&typedoc=R) ou la rupatadine (comprimés uniquement).
+Chez le -12 ans, en cas de fortes doses la SFD préconise la [desloratadine](https://bdpm.ansm.sante.fr/medicament/62676761/extrait#tab-rcp) ou la rupatadine (comprimés uniquement).
 
 **Autres molécules étudiées chez l'adulte:** Bilastine, desloratadine, fexofénadine, lévocétirizine, rupatadine.  
 **Autres molécules étudiées chez l'enfant:** Desloratadine, fexofénadine, lévocétirizine.

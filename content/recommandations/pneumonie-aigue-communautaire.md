@@ -53,17 +53,17 @@ flowchart = true
 - L'antibiothérapie a une durée variable: notée ~5 jours (3, 5 voire 7 jours selon l'évolution)
 - Traitement idem post-grippal si antibiothérapie dans le mois (sauf fosfomycine, pivmécillinam, furane) ou hospitalisation dans les 6 mois
 
-[Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60151544&typedoc=R) 1g x 3/j pendant ~5 jours
+[Amoxicilline](https://bdpm.ansm.sante.fr/medicament/60151544/extrait#tab-rcp) 1g x 3/j pendant ~5 jours
 
 ---
 
-Si allergie (rare): [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j pendant ~5 jours
+Si allergie (rare): [pristinamycine](https://bdpm.ansm.sante.fr/medicament/63728481/extrait#tab-rcp) 1g x 3/j pendant ~5 jours
 
 ---
 
-Bactérie atypique: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62913185&typedoc=R) 500 mg x 2/j pendant ~5 jours
+Bactérie atypique: [clarithromycine](https://bdpm.ansm.sante.fr/medicament/62913185/extrait#tab-rcp) 500 mg x 2/j pendant ~5 jours
 
-ou [spiramycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66951450&typedoc=R) 1,5-3 MUI x 3/j pendant ~5 jours
+ou [spiramycine](https://bdpm.ansm.sante.fr/medicament/66951450/extrait#tab-rcp) 1,5-3 MUI x 3/j pendant ~5 jours
 
 ---
 
@@ -80,7 +80,7 @@ Amoxicilline 80-100 mg/kg/j en 2 prises (max 3 g/j) pendant **5 jours**
 
 Bactérie atypique ou échec à 48-72 h:
 
-[clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose/kg x 2/j (max 1 g/j) pendant **5 jours**
+[clarithromycine](https://bdpm.ansm.sante.fr/medicament/65040811/extrait#tab-rcp) 1 dose/kg x 2/j (max 1 g/j) pendant **5 jours**
 
 Si pénurie: voir *Traitement*.
 
@@ -93,7 +93,7 @@ Pneumopathie d'inhalation de l'enfant: amoxicilline/acide clavulanique 1 dose/kg
 
 En l'absence de critères d'hospitalisation:
 
-[Amoxicilline/acide clavulanique 1g](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60685523&typedoc=R) x 3/j pendant ~5 jours
+[Amoxicilline/acide clavulanique 1g](https://bdpm.ansm.sante.fr/medicament/60685523/extrait#tab-rcp) x 3/j pendant ~5 jours
 
 ---
 
@@ -106,7 +106,7 @@ Si allergie documentée: ceftriaxone SC/IM 1g ou céfotaxime IM 1g x 3/j
   </div>
   <div class="tab-pane fade" id="nav-pna-grippale" role="tabpanel" aria-labelledby="nav-tab-grippale">
 
-[Amoxicilline/acide clavulanique 1g](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60685523&typedoc=R) x 3/j pendant 7 jours
+[Amoxicilline/acide clavulanique 1g](https://bdpm.ansm.sante.fr/medicament/60685523/extrait#tab-rcp) x 3/j pendant 7 jours
 
 ---
 
@@ -369,9 +369,9 @@ Le choix de l'antibiothérapie dépend du tableau clinique.
 
 Traitement antibiotique probabiliste **pendant 5 jours** avec réévaluation systématique à 72 heures (adulte: minimum 3 et maximum 7 jours selon l'évolution clinique, 14 jours pour la légionelle selon *SPILF 2020*):
 
-- [Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60151544&typedoc=R) 1g x 3/j
+- [Amoxicilline](https://bdpm.ansm.sante.fr/medicament/60151544/extrait#tab-rcp) 1g x 3/j
 - Enfant: 80-100 mg/kg/j en 2 prises (max 3 g/j) pendant 5 jours
-- Si allergie: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j (Pyostacine® à partir de 6 ans, double sensibilité pneumocoque + intracellulaires)
+- Si allergie: [pristinamycine](https://bdpm.ansm.sante.fr/medicament/63728481/extrait#tab-rcp) 1g x 3/j (Pyostacine® à partir de 6 ans, double sensibilité pneumocoque + intracellulaires)
   - Seule alternative de l'enfant: ceftriaxone 50 mg/kg/j (max 2 g/j) IM pendant 5 jours
 - Si échec à 72 heures (enfant 48-72 h): substituer par l'autre classe (macrolide ou amoxicilline) et réévaluer à 48-72h; discuter l'hospitalisation en cas d'aggravation dans les 72 premières heures
 - Si 2^e^ échec ou aggravation rapide: hospitalisation
@@ -385,16 +385,16 @@ En cas de **pneumonies récidivantes**, réaliser une électrophorèse des prot�
 > [!INFO]
 > La fièvre peut être prolongée (5 jours) en cas de pneumopathie infectieuse à germe atypique.
 
-- ==Macrolide [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62913185&typedoc=R) 500 mg x 2/j pendant ~5 jours==
-- ou [spiramycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=66951450&typedoc=R) 1,5-3 MUI x 3/j pendant ~5 jours
-- voire [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68133135&typedoc=R) 500 mg à J1 puis 250 mg/j pendant ~5 jours (éviter car impact sur les résistances)
+- ==Macrolide [clarithromycine](https://bdpm.ansm.sante.fr/medicament/62913185/extrait#tab-rcp) 500 mg x 2/j pendant ~5 jours==
+- ou [spiramycine](https://bdpm.ansm.sante.fr/medicament/66951450/extrait#tab-rcp) 1,5-3 MUI x 3/j pendant ~5 jours
+- voire [azithromycine](https://bdpm.ansm.sante.fr/medicament/68133135/extrait#tab-rcp) 500 mg à J1 puis 250 mg/j pendant ~5 jours (éviter car impact sur les résistances)
 
 Autres antibiotiques des pneumonies atypiques:
 
-- Si pénurie: [roxithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65250560&typedoc=R) 150 mg matin et soir pendant 10 jours
+- Si pénurie: [roxithromycine](https://bdpm.ansm.sante.fr/medicament/65250560/extrait#tab-rcp) 150 mg matin et soir pendant 10 jours
 - Si allergie ou contre-indication aux macrolides:
-  - [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63728481&typedoc=R) 1g x 3/j pendant ~5 jours
-  - [doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R): 200 mg en 1 prise par jour pendant ~5 jours  
+  - [pristinamycine](https://bdpm.ansm.sante.fr/medicament/63728481/extrait#tab-rcp) 1g x 3/j pendant ~5 jours
+  - [doxycycline](https://bdpm.ansm.sante.fr/medicament/67164569/extrait#tab-rcp): 200 mg en 1 prise par jour pendant ~5 jours  
     < 60 kg: 200 mg à J1 puis 100 mg/j pendant 6 jours.
   - Dernier recours: lévofloxacine 500 mg en 1 prise par jour pendant ~5 jours
 
@@ -404,26 +404,26 @@ En cas d'échec à 72 heures de macrolide: amoxicilline (ou amoxicilline/clavula
 
 Antibiothérapie chez l'enfant (pas d'intracellulaire avant 3 ans) selon *HAS/SPILF 2024*, *HAS 2023* et *GPIP 2023*:
 
-[Clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65040811&typedoc=R) 1 dose/kg x 2/j (max 1 g/j) pendant **5 jours**
+[Clarithromycine](https://bdpm.ansm.sante.fr/medicament/65040811/extrait#tab-rcp) 1 dose/kg x 2/j (max 1 g/j) pendant **5 jours**
 {.alert .alert-info}
 
 En cas de pénurie ou d'allergie:
 
-- [Azithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67287098&typedoc=R) 1 dose/kg en 1 prise par jour (soit 20 mg/kg avant 25 kg, max 500 mg/j), 500 mg/j au-delà, pendant **3 jours** (uniquement si pneumocoque exclu)
-- Si pénurie: [roxithromycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68658161&typedoc=R) pendant **10 jours**
+- [Azithromycine](https://bdpm.ansm.sante.fr/medicament/67287098/extrait#tab-rcp) 1 dose/kg en 1 prise par jour (soit 20 mg/kg avant 25 kg, max 500 mg/j), 500 mg/j au-delà, pendant **3 jours** (uniquement si pneumocoque exclu)
+- Si pénurie: [roxithromycine](https://bdpm.ansm.sante.fr/medicament/68658161/extrait#tab-rcp) pendant **10 jours**
   - 6-11 kg: 25 mg matin et soir
   - 12-23 kg: 50 mg matin et soir
   - 24-40 kg: 100 mg matin et soir
 - Si allergie ou contre-indication aux macrolides:
-  - +6 ans, aussi pour doute sur pneumocoque: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69494932&typedoc=R) 50 mg/kg/j en 2-3 prises pendant 7 jours (cp uniquement)
-  - +12 ans: [doxycycline](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67164569&typedoc=R) 200 mg à J1 puis 100 mg en 1 prise par jour pendant 6 jours  
+  - +6 ans, aussi pour doute sur pneumocoque: [pristinamycine](https://bdpm.ansm.sante.fr/medicament/69494932/extrait#tab-rcp) 50 mg/kg/j en 2-3 prises pendant 7 jours (cp uniquement)
+  - +12 ans: [doxycycline](https://bdpm.ansm.sante.fr/medicament/67164569/extrait#tab-rcp) 200 mg à J1 puis 100 mg en 1 prise par jour pendant 6 jours  
     Selon GPIP: 4 mg/kg en 2 prises (max 200 mg/j) à J1 puis 2 mg/kg x 1/j pendant 4 jours
 
 #### PAC avec comorbidité, alcool ou sujet âgé ambulatoire
 
 En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-pneumonie), chez le **sujet âgé**, en cas de **comorbidité sévère** (rénale, cardiaque, hépatique, BPCO, cancer, immunodépression, troubles de déglutition), d'alcoolisme, d'antibiothérapie dans le mois (sauf fosfomycine, pivmécillinam, furanes) ou d'hospitalisation dans les 3 mois:
 
-- ==[Amoxicilline/acide clavulanique 1g](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60685523&typedoc=R)== x 3/j
+- ==[Amoxicilline/acide clavulanique 1g](https://bdpm.ansm.sante.fr/medicament/60685523/extrait#tab-rcp)== x 3/j
 - Si allergie documentée à la pénicilline:
   - ceftriaxone SC/IM 1g x 1/j
   - céfotaxime IM 1g x 3/j
@@ -434,7 +434,7 @@ En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-p
 
 #### Pneumonie post-grippale
 
-- [Amoxicilline/acide clavulanique 1g](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60685523&typedoc=R) x 3/j pendant 7 jours
+- [Amoxicilline/acide clavulanique 1g](https://bdpm.ansm.sante.fr/medicament/60685523/extrait#tab-rcp) x 3/j pendant 7 jours
 - Si allergie: pristinamycine 1g x 3/j pendant 7 jours
 - Si échec à 72 heures: hospitalisation
 

@@ -248,7 +248,7 @@ Le choix du traitement de première ligne dépend de la **localisation** et de l
 
 ### Douleur neuropathique périphérique focale
 
-- [Emplâtres de lidocaïne 700 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65538840&typedoc=R) (Versatis®) 1 à 3 selon la superficie de la zone, 12 h/j.  
+- [Emplâtres de lidocaïne 700 mg](https://bdpm.ansm.sante.fr/medicament/65538840/extrait#tab-rcp) (Versatis®) 1 à 3 selon la superficie de la zone, 12 h/j.  
   Effets indésirables: irritation cutanée, allergie.
 - TENS  
   Prescription restreinte au centre de la douleur chronique.
@@ -280,15 +280,15 @@ Clomipramine 10 mg le soir. Paliers de 10 mg tous les 7 jours. Avis spécialisé
 **Traitements de référence des douleurs neuropathiques:**
 
 - IRSNA
-  - **[Duloxétine 60-120 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=64381382&typedoc=R)** (Cymbalta®, gén) en 1-2 prise/j
-  - [Venlafaxine LP 150-225 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=65018658&typedoc=R) en 2-3 prises/j (débuté 37,5 mg/j, paliers +75 mg/sem, ECG et pression artérielle)
+  - **[Duloxétine 60-120 mg/j](https://bdpm.ansm.sante.fr/medicament/64381382/extrait#tab-rcp)** (Cymbalta®, gén) en 1-2 prise/j
+  - [Venlafaxine LP 150-225 mg/j](https://bdpm.ansm.sante.fr/medicament/65018658/extrait#tab-rcp) en 2-3 prises/j (débuté 37,5 mg/j, paliers +75 mg/sem, ECG et pression artérielle)
   - Contre-indications: IHC, IRC sévère, glaucome, ciprofloxacine
   - Effets indésirables: somnolence, nausées, vertiges, constipation, xérostomie, impuissance, anorexie. Levée d'inhibition avec risque suicidaire.
-- [Gabapentine 1200-3600 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=62611895&typedoc=R) (Neurontin®, gén) en 3 prises/j
+- [Gabapentine 1200-3600 mg/j](https://bdpm.ansm.sante.fr/medicament/62611895/extrait#tab-rcp) (Neurontin®, gén) en 3 prises/j
   - Arrêt progressif | peu d'interactions
   - Effets indésirables: somnolence, vertiges, prise de poids et œdèmes périphériques
 - Antidépresseurs tricycliques
-  - Amitriptyline (moins bien tolérée), [clomipramine](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=68990612&typedoc=R) (Anafranil®, gén), imipramine (Tofranil®)
+  - Amitriptyline (moins bien tolérée), [clomipramine](https://bdpm.ansm.sante.fr/medicament/68990612/extrait#tab-rcp) (Anafranil®, gén), imipramine (Tofranil®)
   - Préférer 10-50 mg/j. Avis spécialisé à +50 mg/j. Surveillance cardiaque quand +75 mg/j
   - Contre-indications: glaucome, HPB, infarctus récent ou troubles du rythme
   - Effets indésirables: somnolence et prise de poids, anticholinergiques. Levée d'inhibition avec risque suicidaire
@@ -300,7 +300,7 @@ Clomipramine 10 mg le soir. Paliers de 10 mg tous les 7 jours. Avis spécialisé
   - Ordonnance sécurisée d'une durée maximale de 6 mois | peu d'interactions
   - 75 mg x 2/j, paliers de 150 mg tous les 3-7 jours
   - Effets indésirables: somnolence, asthénie, vertiges, troubles digestifs, xérostomie, céphalées, prise de poids et œdèmes périphériques
-- [Tramadol LP 100-400 mg/j](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69934919&typedoc=R) en 1-2 prises  
+- [Tramadol LP 100-400 mg/j](https://bdpm.ansm.sante.fr/medicament/69934919/extrait#tab-rcp) en 1-2 prises  
   Peut être associé avec des antiépileptiques mais pas les tricycliques (épilepsie). Utilisation avec prudence en association à des antidépresseurs à forte posologie (syndrome sérotoninergique).
 - Association tricyclique 25-75 mg/j ou duloxétine 60 mg/j  
   \+ gabapentine 1200-1800 mg/j ou prégabaline 150-300 mg/j

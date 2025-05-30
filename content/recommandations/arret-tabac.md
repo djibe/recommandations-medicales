@@ -176,7 +176,7 @@ Autres maladies avec sur-représentation de fumeurs: [Algies vasculaires de la f
 
 Le dépistage doit être systématique pour tous: **<< Fumez-vous ? >>**
 
-Si oui: **<< Avez-vous déjà essayé de fumer ? >>**  
+Si oui: **<< Avez-vous déjà envisagé d'arrêter de fumer ? >>**  
 Prolonger l'interrogatoire avec l'arbre décisionnel en bas de la page.
 
 Demander l'accord du patient pour parler de sa consommation.

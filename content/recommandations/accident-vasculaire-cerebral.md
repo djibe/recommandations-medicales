@@ -180,7 +180,7 @@ Liste des contre-indications à la thrombolyse par risque hémorragique:
 
 ### Contre-indications à la thrombolyse en cas d'accident vasculaire cérébral aigu
 
-Liste des contre-indications à la thrombolyse par balancé bénéfice-risque défavorable:
+Liste des contre-indications à la thrombolyse par balance bénéfice-risque défavorable:
 
 - Symptômes d'AIC apparus plus de 4h30 avant l'initiation du traitement ou dont l'heure d'apparition est inconnue et pourrait potentiellement être supérieure à 4h30.
 - Déficit neurologique mineur ou symptômes s'améliorant rapidement avant l'initiation du traitement.
@@ -195,7 +195,7 @@ Liste des contre-indications à la thrombolyse par balancé bénéfice-risque d�
 - PAS > 185 mmHg ou PAD > 110 mmHg, ou traitement d'attaque IV nécessaire pour réduire la pression artérielle à ces valeurs seuils
 - Glycémie inférieure à 50 mg/dL ou supérieure à 400 mg/dL (< 2,8 mmol/l ou > 22,2 mmol/l)
 
-> --  *[BDPM](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67177673&typedoc=R#RcpContreindications)*
+> -- *[BDPM](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67177673&typedoc=R)*
 
 {{% /collapse %}}
 {{%collapse "Traitement post AVC" %}}

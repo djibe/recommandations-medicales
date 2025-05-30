@@ -251,10 +251,10 @@ Les contacts des **sujets contacts** ne sont pas à risque.
 Antibioprophylaxie et vaccination urgente des << sujets contacts >>:
 
 - Sous 48h, au plus tard 10 jours après le dernier contact
-- Par [rifampicine 600 mg gél](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=67876901&typedoc=R) x 2/j pendant 2 jours
+- Par [rifampicine 600 mg gél](https://bdpm.ansm.sante.fr/medicament/67876901/extrait#tab-rcp) x 2/j pendant 2 jours
   - Enfant: 10 mg/kg (max 600 mg) x 2/j
   - Possible pendant la grossesse, coloration des urines et larmes, interactions médicamenteuses
-- En cas de contre-indication: [ceftriaxone IM 250 mg](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=69211366&typedoc=R) dose unique (enfant 125 mg) ou [ciprofloxacine 500 mg cp](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=63431715&typedoc=R) dose unique (enfant à 20 mg/kg max 500 mg)
+- En cas de contre-indication: [ceftriaxone IM 250 mg](https://bdpm.ansm.sante.fr/medicament/69211366/extrait#tab-rcp) dose unique (enfant 125 mg) ou [ciprofloxacine 500 mg cp](https://bdpm.ansm.sante.fr/medicament/63431715/extrait#tab-rcp) dose unique (enfant à 20 mg/kg max 500 mg)
 - Si méningocoque disposant d'une vaccination (C, A, Y, W sauf B): vaccination urgente (voir *Prévention*)
 - Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}})
 
