@@ -7,8 +7,8 @@ description = "Recommandations pour le diagnostic et la prise en charge du glauc
 synonyms = ["Glaucome chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-05-23T11:26:02+02:00"
-publishdate = "2025-05-30"
-lastmod = "2025-05-30"
+publishdate = "2025-05-31"
+lastmod = "2025-05-31"
 specialites = ["ophtalmologie"]
 annees = "2022"
 sources = ["HAS"]
@@ -16,15 +16,18 @@ tags = ["depistage"]
 english = ["Primary Open-Angle Glaucoma (POAG)"]
 sctid = "77075001"
 icd10 = ["H40.1", "H40.3", "H40.4", "H40.5", "H40.6", "H40.8", "H40.9"]
-draft = true
 image = true
 imageSrc = "Anomalies du champ visuel au cours du glaucome. Broadway DC, CC BY 2.0, via Wikimedia Commons"
-todo = "summary > liens > flow > Kanban"
+todo = "liens > flow"
 +++
 
 {{%article-summary%}}
 
-TODO: (at the end)
+- Le glaucome est une neuropathie optique chronique grave par risque de cécité, diagnostiqué sur une hypertonie oculaire avec altérations du champ visuel
+- Les symptômes du glaucome sont tardifs et d'installation insidieuse: scotomes périphériques puis tardivement baisse d'acuité visuelle
+- Ainsi le dépistage du glaucome par examen ophtalmologique régulier est primordial dès 40 ans ou en cas d'autre facteur de risque (myopie forte, origines d'Afrique subsaharienne, antécédent familial, pathologie ou hypertonie oculaire, corticothérapie ...)
+- Le bilan est spécialisé avec champ visuel et tomographie par cohérence optique (OCT)
+- La prise en charge du glaucome est poursuivie à vie avec: suivi ophtalmologique, collyre hypotonisant bêtabloquant ou prostaglandine en première intention, voire laser ou chirurgie sur décision de l'ophtalmologue
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -110,8 +113,8 @@ L'**évolution lente et insidieuse** (œil blanc et indolore, baisse d'acuité v
 - Antécédents familiaux: glaucome
 - Dernier bilan ophtalmologique avec mesure de la pression intraoculaire
 - Traitements en cours
-- Traitements reçus au long cours: corticoïdes
-- Signes et symptômes de glaucome  
+- Traitements reçus au long cours: corticoïdes (dont inhalés), ISRS
+- Signes et symptômes de glaucome:  
   Les signes sont insidieux sur un œil blanc et indolore.
   - Atteinte bilatérale et asymétrique
   - Anomalie du champ visuel: **scotomes périphériques** (arciforme de Bjerrum, ressaut nasal, paracentral)
@@ -144,8 +147,8 @@ Le bilan du glaucome est **spécialisé** par l'ophtalmologue:
 La prise en charge du glaucome repose sur la **réduction de la pression intraoculaire** (PIO) **à vie** pour stopper son évolution:
 
 - **Collyres** oculaires antihypertenseurs:
-  - 1^re^ intention: **prostaglandines** (bimatoprost, latanoprost, travoprost) 1 goutte le soir
-  - ou **bêta-bloquant** (bétaxolol, cartéolol, lévobunolol, timolol) 1 goutte 1 à 2 fois par jour selon la spécialité
+  - 1^re^ intention: **prostaglandines** (bimatoprost, **latanoprost**, **travoprost**) 1 goutte le soir
+  - ou **bêta-bloquant** (bétaxolol, cartéolol, lévobunolol, **timolol**) 1 goutte 1 à 2 fois par jour selon la spécialité
   - Autres traitements: agoniste alpha-2-adrénergique (apraclonidine, brimonidine), inhibiteurs de l'anhydrase carbonique (brinzolamide, dorzolamide)
   - Les associations sont possibles sans dépasser une trithérapie
   - Privilégier des collyres sans conservateur en cas de polythérapie ou de chirurgie envisagée (voir tableau plus bas)
@@ -162,10 +165,10 @@ La prise en charge du glaucome repose sur la **réduction de la pression intraoc
 | Prostaglandines | Rougeur/irritation oculaire, iris sombre, pousse de cils | 1 | multidose (Bimatoprost Idifarma, Latazed, Sinetrav, Vizilatan, Vizitrav), unidose (Monoprost, Xiop) |
 | Bêta-bloquants | CI des BB | 1-2 | multidose Timabak, unidoses (Betagan, Gaoptol, Geltim LP) |
 | Alpha-2-adrénergiques || 2 | unidoses Brimazed, Brimonidine Omnivision |
-| Inh. anhydrase carbonique || 2 |  |
+| Inh. anhydrase carbonique || 2 | |
 {{< /table >}}
 
-**Collyres combinés** (sans conservateurs): BB + prostaglandine (Filiop, Fixapost, Ganfort, Kilatim, Kivizidiale, Vizimaco), BB + inh. anhydrase carbonique (Cosidime, Costec, Dualkopt).
+**Collyres combinés** (sans conservateurs): BB + prostaglandine x 1/j (Filiop, Fixapost, Ganfort, Kilatim, Kivizidiale, Vizimaco), BB + inh. anhydrase carbonique x 2/j (Cosidime, Costec, Dualkopt).
 
 ### Autres traitements du glaucome
 
@@ -194,13 +197,9 @@ Le suivi spécialisé ophtalmologique du glaucome est régulier à vie:
 
 {{< card-link-external title="Webinaire Le glaucome étape par étape" url="https://www.youtube.com/playlist?list=PLL8DRH-myQsZQ3hgHJaHKGU-k6ycLElg4" subtitle="par la SFG" >}}
 
+- Prescrire Redaction. Patients ayant un glaucome à angle ouvert. Rev Prescrire. 2025.
 - [Centre Belge d'Information Pharmacothérapeutique (CBIP). Glaucome : quels médicaments éviter ?. Folia. 2024.](https://www.cbip.be/fr/articles/4354?folia=4353&matches=glaucome#)
 - [HAS. Diagnostic et prise en charge de l'hypertonie oculaire et du glaucome primitif à angle ouvert. 2022.](https://www.has-sante.fr/jcms/p_3321655/fr/diagnostic-et-prise-en-charge-de-l-hypertonie-oculaire-et-du-glaucome-primitif-a-angle-ouvert)
 - [Collège des Ophtalmologistes Universitaires de France (COUF). Glaucomes. Chapitre 14. 2021.](https://couf.fr/espace-etudiants/2eme-cycle-dfasm/)
-
-### Bibliographie en attente
-
-- Prescrire
-- Cochrane
 
 {{%/sources%}}

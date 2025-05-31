@@ -103,7 +103,7 @@ Une cataracte chez le **sujet jeune** peut faire rechercher une cause métaboliq
 
 L'évaluation et la prise en charge de la cataracte sont purement ophtalmologiques et l'indication chirurgicale est la présence d'une **altération de la qualité de vie**
 
-Autres indications à la chirurgie de la cataracte: obstruction du fond d'œil, complications d'une cataracte avancée (glaucome, uvéite).
+Autres indications à la chirurgie de la cataracte: obstruction du fond d'œil, complications d'une cataracte avancée ([glaucome]({{% relref "glaucome.md" %}}), uvéite).
 
 - Le traitement de la cataracte est **uniquement chirurgical** (ultrasons, laser) avec mise en place d'un implant intraoculaire  
   Chirurgie le plus souvent ambulatoire avec collyres antibiotique et anti-inflammatoire pendant 1 mois.
