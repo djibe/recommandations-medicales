@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-16T13:47:19+01:00"
 publishdate = "2021-11-18"
-lastmod = "2023-12-21"
+lastmod = "2025-06-01"
 specialites = ["psychiatrie", "thérapeutique"]
 annees = "2015"
 sources = ["HAS"]
@@ -26,7 +26,7 @@ flowchart = true
 {{%article-summary%}}
 
 - Ces recommandations concernent le sevrage des benzodiazépines (BZD) après une prise supérieure à 30 jours
-- Respecter les durées de traitement par benzodiazépines de l'AMM
+- Respecter les durées de traitement par benzodiazépines de l'AMM, jamais plus de 12 semaines pour l'anxiété et 3 semaines pour les troubles du sommeil
 - Intervention brève sur les risques des benzodiazépines à chaque prescription (réduit fortement la demande de renouvellement)
 - La décroissance des benzodiazépines ([calendrier de suivi](https://www.has-sante.fr/upload/docs/application/pdf/2015-06/fm_has_-_calendrier_de_suivi.pdf)) est toujours progressive après prise prolongée pour prévenir le syndrome de sevrage ({{< modal-btn modal-score-ecab >}}évaluation ECAB{{< /modal-btn >}} de la dépendance)
 - << il n'y a pas lieu d'associer deux benzodiazépines, y compris pour des indications différentes >> -- *CNUP*
@@ -117,18 +117,21 @@ Diviser les doses d'initiation par 2 après 65 ans.
 | Molécule                 | Spécialité        | Demi-vie (h) | AMM                                |
 |--------------------------|-------------------|-------------:|------------------------------------|
 | Alprazolam               | Xanax, gén        |        10-20 | Anxiété, sevrage alcool            |
-| Bromazépam               | Lexomil, gén      |           20 | Anxiete, sevrage alcool            |
+| Bromazépam               | Lexomil, gén      |           20 | Anxiété, sevrage alcool            |
 | Clobazam                 | Likozam, Urbanyl  |           36 | Anxiété, épilepsie, sevrage alcool |
 | Clonazépam               | Rivotril          |           35 | Épilepsie                          |
 | Clorazépate dipotassique | Tranxene          |       30-150 | Anxiété, sevrage alcool            |
 | Clotiazépam              | Veratran          |            4 | Anxiété, sevrage alcool            |
 | ==**Diazépam**==         | Valium, gén       |        32-47 | Anxiété, sevrage alcool            |
+| Estazolam                | Nuctalon          |           17 | Insomnie occasionnelle/transitoire |
 | Loflazépate d'éthyle     | Victan            |           77 | Anxiété, sevrage alcool            |
+| Loplazolam               | Havlane           |            8 | Insomnie occasionnelle/transitoire |
 | Lorazépam                | Temesta, gén      |        10-20 | Anxiété, sevrage alcool            |
 | Lormétazépam             | Ex-noctamide, gén |         13,5 | Insomnie occasionnelle/transitoire |
+| Nitrazépam               | Mogadon           |        16-48 | Insomnie occasionnelle/transitoire |
 | ==**Oxazépam**==         | Seresta           |            8 | Anxiété, sevrage alcool            |
 | Prazépam                 | Lysanxia, gén     |           65 | Anxiété, sevrage alcool            |
-| Zolpidem ²               | Stilnox, gén      |          2,5 | Insomnie occasionnelle/transitoire |
+| Zolpidem ²               | Stilnox, gén      |          2,4 | Insomnie occasionnelle/transitoire |
 | Zopiclone                | Imovane, gén      |            5 | Insomnie occasionnelle/transitoire |
 {{< /table >}}
 
@@ -239,6 +242,7 @@ graph TB
 
 {{< youtube id="Pl628stUti4" title="Déprescrire les sédatifs-hypnotiques (Réseau canadien pour la déprescription)" >}}
 
+- [ANSM, CMG. Anxiété ou insomnie : 5 infos à connaitre sur les benzodiazépines. 2025.](https://www.cmg.fr/anxiete-ou-insomnie-5-infos-a-connaitre-sur-les-benzodiazepines/)
 - Prescrire Redaction. Benzodiazépines ou apparentés. Rev Prescrire. 2024.
 - [AddictoVigilance. Mésusage et abus des benzodiazépines et apparentés : où en est-on ?. 2023. (PDF)](https://addictovigilance.fr/wp-content/uploads/2023/06/Bulletin-benzodiazepines-n%C2%B020-juin-2023-VF-1-1.pdf)
 - [Collège National Universitaire de Psychiatrie (CNUP). Prescription et surveillance des psychotropes. Item 74. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_4ed.pdf)
