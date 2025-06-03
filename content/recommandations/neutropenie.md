@@ -5,9 +5,10 @@ prefix = "la "
 description = "Recommandations pour la prise en charge d'une neutropénie. Orientation diagnostique, bilan de première intention d'une neutropénie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Dr M. DELAFOY (Inserm)"
 date = "2023-04-24T15:24:36+02:00"
 publishdate = "2023-04-27"
-lastmod = "2025-05-28"
+lastmod = "2025-06-03"
 specialites = ["hématologie"]
 annees = "2024"
 sources = ["PNDS"]
@@ -233,7 +234,7 @@ La prise en charge de la neutropénie est principalement étiologique. Les mesur
   Passage aux *Urgences* si mauvaise tolérance.
 - Absence de restriction alimentaire ou d'éviction sociale ou scolaire.
 - Association de patients: [IRIS](https://associationiris.org)
-- Déclarer l'**ALD n°2**, MDPH
+- Déclarer l'**[ALD n°2]({{% relref "affection-longue-duree.md" %}})**, MDPH
 
 Traitements possibles selon l'**évaluation du centre de référence** ([annuaire](https://www.neutropenie.fr/expertise-et-soins/les-centres/)):
 

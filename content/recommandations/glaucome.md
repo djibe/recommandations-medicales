@@ -159,7 +159,7 @@ La prise en charge du glaucome repose sur la **réduction de la pression intraoc
 - Pas d'ALD  
   [ALD 31]({{% relref "affection-longue-duree.md" %}}) en cas de traitement lourd et coûteux.
 
-{{< table title="Spécialités de collyres anti-glaucomateux sans conservateurs par classe. Dr JB Fron d'après *BDPM*" class="table-wrap">}}
+{{< table title="Spécialités de collyres anti-glaucomateux sans conservateurs par classe. Dr JB Fron grâce à la recherche avancée de *Thériaque*" class="table-wrap">}}
 | Famille | Effets indésirables | Fréquence (/j) | Spécialités |
 |---------|---------------------|----------------|-------------|
 | Prostaglandines | Rougeur/irritation oculaire, iris sombre, pousse de cils | 1 | multidose (Bimatoprost Idifarma, Latazed, Sinetrav, Vizilatan, Vizitrav), unidose (Monoprost, Xiop) |

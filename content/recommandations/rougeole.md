@@ -157,7 +157,7 @@ La prise en charge des contacts doit être rapide pour une **vaccination post-ex
 {{% /collapse %}}
 {{%collapse "Photos de rougeole" %}}
 
-Galerie de photos de rougeole.
+Galerie de photos de cas de rougeole.
 
 {{< gallery >}}
 {{< gallery-item image="/images/photos/rougeole1.avif" title="Exanthème maculo-papuleux de la joue de l'enfant" author="par Tatiana Lanzieri, CDC / PHIL 28830">}}

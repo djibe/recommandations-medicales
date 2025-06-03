@@ -304,6 +304,7 @@ graph TB
 
 {{< card-link-external title="Quand adresser un patient gonarthrosique au chirurgien ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/174175700" >}}
 
+- [Whittle SL, et al. Stem cell injections for osteoarthritis of the knee. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013342.pub2/full/fr)
 - [Moseng T, et al. EULAR recommendations for the non-pharmacological core management of hip and knee osteoarthritis: 2023 update. Ann Rheum Dis. 2024.](https://ard.bmj.com/content/early/2024/01/11/ard-2023-225041.long)
 - [CNGE. Eviter la visco-supplémentation dans la gonarthrose. 05/09/2022. (PDF)](https://www.cnge.fr/wp-content/uploads/2023/09/220905_Avis_CS_CNGE_Supplementation_gonarthrose_vsite.pdf)
 - [American Academy of Orthopaedic Surgeons Management of Osteoarthritis of the Knee (Non-Arthroplasty) Evidence-Based Clinical Practice Guideline. 2021. (PDF)](https://www.aaos.org/oak3cpg)
