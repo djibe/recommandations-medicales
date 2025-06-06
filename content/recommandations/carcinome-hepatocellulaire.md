@@ -25,7 +25,7 @@ flowchart = true
 {{%article-summary%}}
 
 - Le carcinome hépatocellulaire (CHC) survient le plus souvent sur foie cirrhotique ([alcool]({{% relref "sevrage-alcool.md" %}}) surtout, [hépatite C]({{% relref "hepatite-c.md" %}}) ou [B]({{% relref "hepatite-b.md" %}}), [NASH]({{% relref "steatose-hepatique-et-nash.md" %}}))
-- Bilan d'un nodule hépatique: bilan hépatique, sérologies des hépatites, évaluation de la consommation d'alcool et du {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, IRM hépatique injectée (ou scanner injecté) multiphasique avec RCP dans le mois
+- Bilan d'un nodule hépatique: bilan hépatique, sérologies des hépatites, évaluer la consommation d'alcool et le {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, IRM hépatique ou TDM injectée multiphasique avec RCP dans le mois
 - Avis spécialisé de l'hépatologue en (semi) urgence
 - Le diagnostic de CHC peut être radiologique en cas de lésion typique sur foie cirrhotique, dans tous les autres cas le diagnostic de carcinome hépatocellulaire est histologique sur la biopsie hépatique
 - Dépister le carcinome hépatocellulaire (CHC) en cas de cirrhose (si un traitement est envisageable): échographie-doppler abdominale tous les 6 mois, << probablement associée >> au dosage de l'alpha-fœtoprotéine (AFP)

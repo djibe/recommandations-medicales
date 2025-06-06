@@ -313,7 +313,7 @@ Les mammographies sont remboursées à 100% (les examens supplémentaires ne le 
 {{% /collapse %}}
 {{%collapse "Prise en charge rapide d'anomalies du sein" %}}
 
-[Annuaire des établissements de France pour le cancer du sein](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie)
+[Annuaire des établissements de France pour le cancer du sein](https://www.unicancer.fr/fr/espace-patients/trouver-les-coordonnees-du-centre-le-plus-proche-2/?filter_area=-1&filter_cancer=45&filter_treatment=-1)
 
 ### En Île-de-France
 

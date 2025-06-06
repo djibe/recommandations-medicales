@@ -244,7 +244,7 @@ Une détection précoce peut être proposée à partir de 40 ans voire 10 ans av
 {{% /collapse %}}
 {{%collapse "Traitement du cancer de la prostate" %}}
 
-La prise en charge du cancer de la prostate est spécialisée après RCP. [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC).
+La prise en charge du cancer de la prostate est spécialisée après RCP. [Annuaire des Centres de Lutte contre le Cancer](https://www.unicancer.fr/fr/espace-patients/trouver-les-coordonnees-du-centre-le-plus-proche-2/?filter_area=-1&filter_cancer=135) (CLCC).
 
 Plusieurs stratégies thérapeutiques sont disponibles pour la prise en charge du cancer de la prostate: **prostatectomie totale, radiothérapie, hormonothérapie, surveillance active** (détaillée plus bas) voire une ***Abstention-surveillance*** (patient asymptomatique avec cancer localisé et espérance de vie < 10 ans).
 

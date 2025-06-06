@@ -221,7 +221,7 @@ L'*ACS* recommande le dépistage chez les sujets éligibles de 50 à 80 ans avec
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-Adresser en semi-urgence à l'équipe hospitalière d'oncologie ou pneumologie pour la suite de la prise en charge du cancer du poumon. [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC).
+Adresser en semi-urgence à l'équipe hospitalière d'oncologie ou pneumologie pour la suite de la prise en charge du cancer du poumon. [Annuaire des Centres de Lutte contre le Cancer](https://www.unicancer.fr/fr/espace-patients/trouver-les-coordonnees-du-centre-le-plus-proche-2/?filter_area=-1&filter_cancer=90&filter_treatment=-1) (CLCC).
 
 Le traitement curatif du cancer bronchopulmonaire dépend de la RCP (chirurgie, radiothérapie, chimiothérapie, immunothérapie ± associées). Il doit être démarré dans les 6 semaines qui suivent la réalisation du bilan d'extension.
 

@@ -140,7 +140,8 @@ La prise en charge dépend de la plainte et de la sévérité de la maladie de M
 - {{< modal-btn modal-score-stopbang >}}Dépister un syndrome d'apnées du sommeil{{< /modal-btn >}}
 - Éviter la consommation de café, alcool et d'excitants
 - Régime hyposodé (< 2,3 g/j)
-- Réduire les apports en glutamate
+- Réduire les apports en glutamate  
+  Raisins, tomates et leur jus, champignons, fromages (parmesan, roquefort).
 - Suivi de l'efficacité par la qualité de vie et l'*Échelle de niveau fonctionnel*
 - Soutien psychologique  
   {{%class%}}Efficacité prouvée sur la réhabilitation vestibulaire et le niveau d'anxiété.{{%/class%}}

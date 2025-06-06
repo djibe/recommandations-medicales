@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2025-04-11"
+lastmod = "2025-06-05"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2025"
 sources = ["MinSanté", "HAS", "HCSP"]
@@ -27,9 +27,6 @@ flowchart = true
 
 Page servant uniquement à stocker quelques mémos.
 
-- Recours large à l'antiviral Paxlovid +++ (+65 ans, diabète, obésité, comorbidité ...), voir *Antiviraux*
-- Maladie à déclaration obligatoire par le biologiste
-- [HAS. Prise en charge ambulatoire 18/1](https://www.has-sante.fr/jcms/p_3310186/fr/covid-19-point-sur-la-prise-en-charge-des-patients-en-ambulatoire)
 - Vaccination de toutes les femmes enceintes quel que soit le terme (*DGS*, *CNGOF*), et de toute personne souhaitant se faire vacciner
 - Rappel annuel à l'automne des +65 ans et personnes à risque
   2e rappel au printemps des +80 ans, immunodéprimé, EHPAD/USLD, très haut risque de forme grave (chimio, dialyse, voir *Personnes à risque*) si intervalle de 3 mois d'un vaccin/Covid

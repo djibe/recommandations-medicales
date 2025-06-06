@@ -151,7 +151,7 @@ Indications au dosage de la calcitonine:
 {{% /collapse %}}
 {{%collapse "Traitement du cancer de la thyroïde" %}}
 
-La prise en charge du cancer de la thyroïde est spécialisée après RCP. [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC).
+La prise en charge du cancer de la thyroïde est spécialisée après RCP. [Annuaire des Centres de Lutte contre le Cancer](https://www.unicancer.fr/fr/espace-patients/trouver-les-coordonnees-du-centre-le-plus-proche-2/?filter_area=-1&filter_cancer=117&filter_treatment=-1) (CLCC).
 
 Mesures associées à la prise en charge des cancers:
 
@@ -161,9 +161,10 @@ Mesures associées à la prise en charge des cancers:
   - Elle peut être substitutive ++
   - Freinatrice: cible de TSH 0,1 - 0,5 mUI/L
   - Très freinatrice: cible de TSH < 0,1 mUI/L selon le risque de récidive (décision spécialisée).
-- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
-- [Réduction de l'alcool]({{% relref "sevrage-alcool.md" %}})
-- Activité physique
+- Mesures hygiéno-diététiques
+  - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
+  - [Réduction de l'alcool]({{% relref "sevrage-alcool.md" %}})
+  - Activité physique
 - Si dysphonie: orthophonie
 - Soutien psychologique voire psychothérapie
 - Information du patient: [guide INCa](https://www.cancer.fr/personnes-malades/les-cancers/thyroide)
