@@ -1,75 +1,39 @@
 +++
-id = "https://www.uuidgenerator.net/version7"
-title = "Médicaments écrasables"
-titleSeo = "In case of long title or delete whole line (max 70 ch ... or more)"
-prefix = "la "
-description = "Title 2-22 words and description 160 characters max"
+id = "019744e9-34ed-73fc-ab86-a26b655e2770"
+title = "Médicaments écrasables: ouvrir et écraser des comprimés et gélules"
+titleSeo = "Médicaments pouvant être écrasés"
+prefix = "les "
+description = "Liste SFPC et Omédit des médicaments, comprimés et gélules pouvant être ouverts et écrasés, leurs conditions d'administration et informations complémentaires"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-06-05T22:27:15+02:00"
-publishdate = "2025-06-05"
-lastmod = "2025-06-05"
+publishdate = "2025-06-06"
+lastmod = "2025-06-06"
 specialites = ["thérapeutique"]
-annees = "2020"
+annees = "2025"
 sources = ["SFPT"]
-tags = ["tag 1", "tag 2"]
-english = ["English word", "you can add one or delete this one"]
-sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = ["https://mapping.ihtsdotools.org"]
-draft = true
-image = false
-imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow > Kanban"
+tags = ["geriatrie"]
+english = []
+sctid = ""
+icd10 = []
+image = true
+imageSrc = "Les médicaments pouvant être ouverts ou écrasés. Illustration de Freepik"
+todo = "update"
 datatable = true
 +++
 
 {{%article-summary%}}
 
-TODO: (at the end)
+- Au cours de lourdes pathologies, l'administration de médicaments essentiels peut être compliquée, le patient ne pouvant déglutir
+- Des précisions sur les médicaments pouvant être écrasés ou ouverts est ici précisée, en spécifiant également ceux qui ne doivent jamais être altérés
+- La liste contient actuellement 620 médicaments écrasables ou non, publiée par la Société Française de Pharmacie Clinique (SFPC) et l'OMéDIT Normandie
 
 {{%/article-summary%}}
 
-{{< csv-to-table file="/data/medicaments-ecrasables.csv" title="TODO:. Dr JB Fron d'après ANSM du 14/03/2021" >}}
+{{< csv-to-table file="/data/medicaments-ecrasables.csv" title="Liste des médicaments pouvant être écrasés ou non, avec leurs conditions de prise et de manipulation. Dr JB Fron d'après SFPC et Omedit Normandie juin 2025" >}}
 
-{{%collapse "Définition" %}}
-
-### Abréviations
-
-ACG
-: {{%lang%}}American College of Gastroenterology{{%/lang%}}
-{.dl-inline}
-
-{{% /collapse %}}
-{{%collapse "Clinique" %}}
-
-### Interrogatoire
-
-### Examen clinique
-
-{{% /collapse %}}
-{{%collapse "Examens complémentaires" %}}
-
-
-{{% /collapse %}}
-{{%collapse "Traitement" %}}
-
-
-{{% /collapse %}}
 {{%sources%}}
 
-- [Source 1](URL)
-
-### Bibliographie en attente
-
-- Collège
-- Prescrire
-- Cochrane
-- [Minerva](https://minerva-ebp.be/)
-- Cismef
-- [NICE Clinical guidance](https://www.nice.org.uk/guidance/conditions-and-diseases)
-- {{< references/aderim >}}
+[Société Française de Pharmacie Clinique (SFPC), OMéDIT Normandie. Liste nationale des médicaments concernant l'écrasement des comprimés et l'ouverture des gélules. 2025.](https://www.omedit-normandie.fr/boite-a-outils/bon-usage/liste-des-medicaments-ecrasables/liste-des-medicaments-ecrasables,3184,3511.html)
 
 {{%/sources%}}
-
-’≤≥±®æœŒÈ⅓¼½¾¹²³^4^ÂSpO~2~ -- ‰
-[External link](https://discourse.gohugo.io/ "{rel='nofollow'}")
