@@ -1,0 +1,75 @@
++++
+id = "https://www.uuidgenerator.net/version7"
+title = "Médicaments écrasables"
+titleSeo = "In case of long title or delete whole line (max 70 ch ... or more)"
+prefix = "la "
+description = "Title 2-22 words and description 160 characters max"
+synonyms = []
+auteurs = ["Jean-Baptiste FRON"]
+date = "2025-06-05T22:27:15+02:00"
+publishdate = "2025-06-05"
+lastmod = "2025-06-05"
+specialites = ["thérapeutique"]
+annees = "2020"
+sources = ["SFPT"]
+tags = ["tag 1", "tag 2"]
+english = ["English word", "you can add one or delete this one"]
+sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
+icd10 = ["https://mapping.ihtsdotools.org"]
+draft = true
+image = false
+imageSrc = ""
+todo = "descr > summary > liens > photo > newsletter > flow > Kanban"
+datatable = true
++++
+
+{{%article-summary%}}
+
+TODO: (at the end)
+
+{{%/article-summary%}}
+
+{{< csv-to-table file="/data/medicaments-ecrasables.csv" title="TODO:. Dr JB Fron d'après ANSM du 14/03/2021" >}}
+
+{{%collapse "Définition" %}}
+
+### Abréviations
+
+ACG
+: {{%lang%}}American College of Gastroenterology{{%/lang%}}
+{.dl-inline}
+
+{{% /collapse %}}
+{{%collapse "Clinique" %}}
+
+### Interrogatoire
+
+### Examen clinique
+
+{{% /collapse %}}
+{{%collapse "Examens complémentaires" %}}
+
+
+{{% /collapse %}}
+{{%collapse "Traitement" %}}
+
+
+{{% /collapse %}}
+{{%sources%}}
+
+- [Source 1](URL)
+
+### Bibliographie en attente
+
+- Collège
+- Prescrire
+- Cochrane
+- [Minerva](https://minerva-ebp.be/)
+- Cismef
+- [NICE Clinical guidance](https://www.nice.org.uk/guidance/conditions-and-diseases)
+- {{< references/aderim >}}
+
+{{%/sources%}}
+
+’≤≥±®æœŒÈ⅓¼½¾¹²³^4^ÂSpO~2~ -- ‰
+[External link](https://discourse.gohugo.io/ "{rel='nofollow'}")

@@ -35,7 +35,7 @@
 <th scope="row">{{ . }}</th>
 {{ end }}
 {{ range after 1 . }}
-<td>{{ . }}</td>
+<td>{{ .  | safeHTML }}</td>
 {{ end }}
 </tr>
 {{ end }}
