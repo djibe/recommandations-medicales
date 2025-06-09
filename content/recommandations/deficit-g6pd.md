@@ -2,8 +2,8 @@
 id = "0190e8bf-7fdb-7744-90de-a6ba7239e02a"
 title = "Déficit en G6PD"
 prefix = "le "
-longHtml = true
 description = "Recommandations pour la prise en charge du déficit en G6PD. Médicaments et traitements contre-indiqués au cours du favisme, supplémentation en acide folique ..."
+longHtml = true
 synonyms = ["Favisme", "déficit en Glucose-6-déshydrogénase"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-08T22:38:00+02:00"

@@ -4,6 +4,7 @@ title = "Durée indicative des arrêts de travail et arrêts maladie"
 titleSeo = "Durée indicative des arrêts de travail"
 prefix = "la "
 description = "Durées d'arrêt de travail (arrêts maladie) établies par l'Assurance Maladie pour un certain nombre de situations cliniques: arrêt pour chirurgie, maladie ..."
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-08-29T19:32:58+02:00"
