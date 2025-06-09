@@ -145,10 +145,10 @@ table.dataTable thead th.sorting:hover::after {
   width: 24px;
 }
 .dt-buttons .btn-icon:hover .dataTables-svg {
-  color: rgba-to-rgb(rgba(0, 0, 0, 0.87));
+  color: rgba(0, 0, 0, 0.87);
 }
 .dt-buttons .dataTables-svg {
-  color: rgba-to-rgb(rgba(0, 0, 0, 0.6));
+  color: rgba(0, 0, 0, 0.6);
 }
 .dt-buttons > .btn-icon > span {
   display: flex;

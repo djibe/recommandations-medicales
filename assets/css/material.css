@@ -269,7 +269,7 @@ caption {
   text-align: start;
   border-top: 1px solid #e1e1e1;
   caption-side: bottom;
-  color: rgba(0, 0, 0, 0.54);
+  color: rgba(0, 0, 0, 0.6);
   font-size: 0.875rem;
   letter-spacing: 0.1px;
   line-height: normal;
@@ -1772,7 +1772,7 @@ li > ul > li {
   text-transform: none;
   white-space: nowrap;
   word-wrap: normal;
-  color: rgba(0, 0, 0, 0.54);
+  color: rgba(0, 0, 0, 0.6);
   content: "chevron_right";
   display: inline-block;
   margin-right: 0;
@@ -3606,7 +3606,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 }
 
 .chip > [class*='material-icons'] {
-  color: rgba(0, 0, 0, 0.54);
+  color: rgba(0, 0, 0, 0.6);
   font-size: 1.125rem;
   line-height: 1;
 }
@@ -3711,7 +3711,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 }
 
 [type='checkbox'] + .chip-filter:not(.chip-outline) {
-  color: rgba(0, 0, 0, 0.54);
+  color: rgba(0, 0, 0, 0.6);
 }
 
 [type='checkbox']:checked + .chip-filter {
@@ -3823,7 +3823,7 @@ input:disabled + .chip {
 }
 
 .table tfoot {
-  color: rgba(0, 0, 0, 0.54);
+  color: rgba(0, 0, 0, 0.6);
 }
 
 .table tfoot td,
@@ -4437,7 +4437,7 @@ input:disabled + .chip {
 }
 
 .list-group-item .list-group-item-icon {
-  color: rgba(0, 0, 0, 0.54);
+  color: rgba(0, 0, 0, 0.6);
   display: inline-block;
   fill: currentColor;
   flex: 0 0 1.5rem;
@@ -4556,7 +4556,7 @@ input:disabled + .chip {
   font-weight: 400;
   letter-spacing: 0.017857em;
   line-height: 1.25rem;
-  color: rgba(0, 0, 0, 0.54);
+  color: rgba(0, 0, 0, 0.6);
   display: block;
   line-height: normal;
   margin-top: 0;
@@ -5731,7 +5731,7 @@ input:disabled + .chip {
 }
 
 .navdrawer-nav-icon {
-  color: rgba(0, 0, 0, 0.54);
+  color: rgba(0, 0, 0, 0.6);
   width: 3.5rem;
 }
 
@@ -6254,7 +6254,7 @@ input:disabled + .chip {
   transition: background-color, opacity, transform 100ms cubic-bezier(0.4, 0, 0.2, 1);
   background-color: currentColor;
   border-radius: 50%;
-  color: rgba(0, 0, 0, 0.54);
+  color: rgba(0, 0, 0, 0.6);
   content: '';
   height: 3rem;
   margin-top: -0.75rem;
@@ -6268,7 +6268,7 @@ input:disabled + .chip {
 }
 
 .custom-control-label::after {
-  color: rgba(0, 0, 0, 0.54);
+  color: rgba(0, 0, 0, 0.6);
   position: absolute;
   top: 0rem;
   left: 0;
@@ -6479,7 +6479,7 @@ input:disabled + .chip {
   align-items: center;
   background-color: transparent;
   border: none;
-  color: rgba(0, 0, 0, 0.54);
+  color: rgba(0, 0, 0, 0.6);
   display: flex;
   flex: 1 0 auto;
   font-size: 0.875rem;
@@ -6678,7 +6678,7 @@ legend {
 }
 
 .form-control::placeholder, .custom-select::placeholder, .form-control-file::placeholder {
-  color: rgba(0, 0, 0, 0.54);
+  color: rgba(0, 0, 0, 0.6);
   opacity: 1;
   /* needed for Firefox */
 }
@@ -7329,7 +7329,7 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  color: rgba(0, 0, 0, 0.54);
+  color: rgba(0, 0, 0, 0.6);
   font-size: 1rem;
   letter-spacing: 0.15px;
   line-height: 1.15;
@@ -8809,7 +8809,7 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 }
 
 .border-black-secondary {
-  border-color: rgba(0, 0, 0, 0.54) !important;
+  border-color: rgba(0, 0, 0, 0.6) !important;
 }
 
 .border-black-hint {
@@ -11912,7 +11912,7 @@ a.bg-light:hover, a.bg-light:focus, a.bg-light:active {
 }
 
 .text-black-secondary {
-  color: rgba(0, 0, 0, 0.54) !important;
+  color: rgba(0, 0, 0, 0.6) !important;
 }
 
 .text-black-hint {
@@ -12141,7 +12141,7 @@ body * {
 ::-webkit-clear-button {
   -webkit-appearance: none;
   background-image: url('data:image/svg+xml;charset=utf8,%3csvg fill="%23000000" fill-opacity="0.54" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"%3e%3cpath d="M12,2C17.53,2 22,6.47 22,12C22,17.53 17.53,22 12,22C6.47,22 2,17.53 2,12C2,6.47 6.47,2 12,2M15.59,7L12,10.59L8.41,7L7,8.41L10.59,12L7,15.59L8.41,17L12,13.41L15.59,17L17,15.59L13.41,12L17,8.41L15.59,7Z"/%3e%3cpath d="M0 0h24v24H0z" fill="none"/%3e%3c/svg%3e');
-  color: rgba(0, 0, 0, 0.54);
+  color: rgba(0, 0, 0, 0.6);
   cursor: pointer;
   height: 1.2em;
   margin: 0 0 0 1.5rem;
