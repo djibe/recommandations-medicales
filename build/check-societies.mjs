@@ -1,8 +1,10 @@
+// Open command in build directory then run: node check-societies.mjs
+// npm link global-package-name
+
 import fs from 'fs';
 import csv from 'csv-parser';
-// import fetch from 'node-fetch';
 
-const csvFilePath = '../assets/data/societes-savantes.csv';
+const csvFilePath = './assets/data/societes-savantes.csv';
 
 // Fonction pour vérifier si un texte est un lien
 const isValidUrl = (text) => {
