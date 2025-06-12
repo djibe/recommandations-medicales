@@ -8,10 +8,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-17T11:25:20+01:00"
 publishdate = "2023-01-19"
-lastmod = "2025-05-23"
+lastmod = "2025-06-12"
 specialites = ["urologie"]
 annees = "2025"
-sources = ["HAS", "EAU", "SFD"]
+sources = ["HAS", "SPILF", "EAU"]
 tags = ["HSH", "IST"]
 english = ["Urethritis", "epididymitis"]
 sctid = "128478005"
@@ -55,9 +55,6 @@ IST
 
 PNN
 : polynucléaire neutrophile (globule blanc)
-
-SFD
-: Société Française de Dermatologie
 
 UNG
 : urétrite non gonococcique
@@ -126,6 +123,13 @@ Gonocoque:
 - traitement des partenaires des 14 jours précédents, dépistage des 6 mois précédents
 
 Chlamydia: [doxycycline 100 mg](https://bdpm.ansm.sante.fr/medicament/67164569/extrait#tab-rcp) x 2/j pendant 7 jours
+
+*Mycoplasma genitalium* (Mg symptomatique sans co-infection):
+
+- Si possible, attente de **test de résistance aux macrolides**:
+  - absence de résistance: azithromycine 1 g à J1 puis 500 mg/j pendant 2 jours
+  - résistance aux macrolides: [moxifloxacine 400 mg](https://bdpm.ansm.sante.fr/medicament/65521531/extrait#4.2._Posologie_et_mode_d_administration) x 1/j pendant 7 jours
+- Sinon: test de résistance aux macrolides de Mg, traitement d'emblée identique au Chlamydia et relais selon le schéma adapté aux résultats du test de résistance (cf ci-dessus)
 
 \* culture et antibiogramme systématiques; Si contamination Asie-Pacifique: avis infectiologique et voir plus bas *Mesures associées*
 
@@ -225,14 +229,15 @@ Orchiépididymite
 
 L'étiologie de l'orchi-épididymite dépend de l'âge:
 
-- Homme jeune: [IST](/tags/ist/) par *[Chlamydia trachomatis]({{% relref "chlamydia-trachomatis.md" %}})* le plus souvent, ou le gonocoque (*N. gonorrhoeae*) et les entérobactéries (surtout *E. coli*, par infection urinaire ou sexe anal)
+- Homme jeune: [IST](/tags/ist/) par *[Chlamydia trachomatis]({{% relref "chlamydia-trachomatis.md" %}})* le plus souvent, gonocoque (*N. gonorrhoeae*) ou *Mycoplasma genitalium* et les entérobactéries (surtout *E. coli*, par infection urinaire ou sexe anal)
 - Homme +35 ans: entérobactéries (surtout *E. coli*) par [infection urinaire]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}) ou geste urologique
 
 ### Examens complémentaires de l'orchiépididymite
 
 Prélèvements au laboratoire:
 
-- PCR urine premier jet *Chlamydia* et gonocoque
+- PCR urine premier jet *Chlamydia* et gonocoque  
+  Compléter avec *Mycoplasma genitalium* si négative.
 - ou frottis endo-urétral à la recherche de gonocoque
 - Prélèvement d'un écoulement urétral
 - ECBU sur urine de milieu de jet
@@ -266,6 +271,8 @@ Gonocoque:
 - dépistage des partenaires des 6 derniers mois
 
 Chlamydia: doxycycline 100 mg x 2/j pendant 7 jours
+
+*Mycoplasma genitalium* isolé: moxifloxacine 400 mg x 1/j pendant 10 à 14 jours
 
 Consultation à J3 si persistance des symptômes et **J7 systématique** (guérison, bilan des IST, prévention).
 

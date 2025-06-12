@@ -221,7 +221,7 @@ Réévaluation à 3 mois.
 - Si diarrhées résistantes au lopéramide:
   - Antagonistes des récepteurs 5HT3 (+ efficace; hors AMM)  
     Titration de l'ondansetron de 4 mg/j à max 8 mg x 3/j.
-  - Antibiothérapie non-absorbable rifaximine (Tixtar® hors AMM)
+  - Antibiothérapie non-absorbable rifaximine (Tixtar® hors AMM, prescription interniste ou gastro-entérologue)
 
 Suivi spécialisé pluri-disciplinaire en cas de symptômes sévères ou résistants.
 

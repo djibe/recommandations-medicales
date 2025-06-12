@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-02-06T09:05:23+01:00"
 publishdate = "2025-01-05"
-lastmod = "2025-05-23"
+lastmod = "2025-06-13"
 specialites = ["gynécologie-obstétrique"]
 annees = "2025"
 sources = ["HAS", "SPILF", "SFD"]
@@ -18,7 +18,7 @@ sctid = "37610005"
 icd10 = ["N34", "N37.0", "A54.0", "A54.1", "A56.0", "N72", "N76.0"]
 image = false
 imageSrc = ""
-todo = "photo > flow"
+todo = "seo | photo > flow"
 modele = true
 +++
 
@@ -135,7 +135,7 @@ La prise en charge de la vaginite à *Trichomonas vaginalis* comprend:
 {{%collapse "Traitement des urétrite et cervicite non compliquées" %}}
 
 Ceftriaxone 1g IM dose unique  
-\+ doxycycline 100 mg x 2/j pendant 7 jours
+et doxycycline 100 mg x 2/j pendant 7 jours
 {.alert .alert-info}
 
 Symptômes classiques des urétrites et cervicites: leucorrhées, dyspareunies, spotting, urétrite, cystalgies.
@@ -149,7 +149,7 @@ La prise en charge d'une urétrite ou d'une cervicite non compliquée associe:
   - Prélèvement des culs-de-sac vaginaux pour frottis coloré au Gram (ou bleu de méthylène), examen à l'état frais (levures, clue-cells, trichomonas), culture pour *Trichomonas vaginalis*
 - **Traitement probabiliste** antigonococcique et anti-Chlamydiae:
   - ceftriaxone 1g IM dose unique
-  - doxycycline 100 mg x 2/j pendant 7 jours
+  - et doxycycline 100 mg x 2/j pendant 7 jours
   - Si allergie aux bêta-lactamines: gentamicine 240 mg IM dose unique
 - Consultation à J3 si persistance, **J7** systématique pour lecture des résultats, contrôle clinique et prévention des IST
 - Mesures associées aux [IST](/tags/ist/) (sérologies VIH, VHB, VHC, syphilis), pas de rapports sexuels jusqu'à J7, dépistage des partenaires des 6 derniers mois
@@ -159,9 +159,17 @@ La prise en charge d'une urétrite ou d'une cervicite non compliquée associe:
 
 Traitement identique d'une atteinte rectale.
 
+En cas d'urétrite ou cervicite à *Mycoplasma genitalium* (Mg symptomatique sans co-infection):
+
+- Si possible, attente de **test de résistance aux macrolides**:
+  - absence de résistance: azithromycine 1 g à J1 puis 500 mg/j pendant 2 jours
+  - résistance aux macrolides: [moxifloxacine 400 mg](https://bdpm.ansm.sante.fr/medicament/65521531/extrait#4.2._Posologie_et_mode_d_administration) x 1/j pendant 7 jours
+- Sinon: test de résistance aux macrolides de Mg, traitement d'emblée identique au Chlamydia et relais selon le schéma adapté aux résultats du test de résistance (cf ci-dessus)
+
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Mycoplasma genitalium. 2025.](https://www.has-sante.fr/jcms/p_3604652/fr/traitement-curatif-des-personnes-infectees-par-mycoplasma-genitalium)
 - [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées par Neisseria gonorrhoeae. 2025.](https://www.has-sante.fr/jcms/p_3604670/fr/recommandations-de-prise-en-charge-des-personnes-infectees-par-neisseria-gonorrhoeae)
 - [HAS, SPILF. Choix et durée de l'antibiothérapie : Urétrites et cervicites non compliquées. 2025.](https://www.has-sante.fr/jcms/c_2038472/fr/choix-et-durees-d-antibiotherapies-uretrites-et-cervicites-non-compliquees)
 - [HAS, ANRS, CNS. Prise en charge du patient atteint d'infection à trichomonas vaginalis. 2024.](https://www.has-sante.fr/jcms/p_3562494/fr/prise-en-charge-du-patient-atteint-d-infection-a-trichomonas-vaginalis)

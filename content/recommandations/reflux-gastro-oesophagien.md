@@ -21,7 +21,7 @@ icd10 = ["K21", "K21.9", "R12"]
 image = true
 imageSrc = "Illustration du reflux gastro-œsophagien par BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "rankok, rythme suivi RGO par EOGD, Reflux Disease Questionnaire (RDQ)"
+todo = "rankok | interrogatoire, rythme suivi RGO par EOGD, Reflux Disease Questionnaire (RDQ)"
 +++
 
 {{%article-summary%}}
@@ -35,26 +35,10 @@ todo = "rankok, rythme suivi RGO par EOGD, Reflux Disease Questionnaire (RDQ)"
 Les recommandations HAS 2024 pour le RGO du nourrisson ne sont pas encore intégrées.
 
 {{%/article-summary%}}
-{{%collapse "Signes d'alarme" %}}
-
-{{%danger%}}
-
-### Signes de gravité devant un reflux gastro-œsophagien justifiant un bilan
-
-- Amaigrissement
-- Anémie
-- Dysphagie
-- Hémorragie digestive
-- Vomissements répétés
-- Échec du traitement
-{{%/danger%}}
-
-{{% /collapse %}}
 {{%collapse "Définitions" %}}
 
 Reflux gastro-œsophagien (RGO)
-: Ensemble des manifestations liées à la remontée d'acidités gastriques vers l'œsophage. Affection le plus souvent bénigne.  
-Le reflux gastrique est physiologique lorsqu'il est bref et occasionnel.
+: Ensemble des manifestations liées à la remontée d'acidités gastriques vers l'œsophage. Affection le plus souvent bénigne. Le reflux gastrique est physiologique lorsqu'il est bref et occasionnel.
 : Le RGO atteint 10% de la population (*SNFGE*).
 
 Pyrosis
@@ -87,29 +71,19 @@ SNFGE
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Clinique" %}}
+{{%collapse "Signes d'alarme" %}}
 
-Le reflux gastro-œsophagien est un diagnostic d'interrogatoire devant des signes typiques et en l'absence de signes d'alarme.
+{{%danger%}}
 
-### Interrogatoire
+### Signes de gravité devant un reflux gastro-œsophagien
 
-#### Signes typiques de reflux gastrique
-
-Signes typiques de reflux gastro-œsophagien:
-
-- **Pyrosis**  
-  {{%class%}}Spécificité de 90% pour le RGO.{{%/class%}}
-- **Régurgitations acides** (liquides ou alimentaires)
-- **Syndrome postural**  
-  Aggravation allongé, penché en avant et en post-prandial.
-
-#### Symptômes atypiques de reflux
-
-- Brûlures épigastriques
-- Douleurs thoraciques rétro-sternales ou pharyngées
-- [Toux chronique inexpliquée]({{% relref "toux-chronique.md" %}}) (prédominance nocturne), asthme difficile à contrôler
-- Enrouement, laryngite chronique
-- Érosions dentaires
+- Amaigrissement
+- Anémie
+- Dysphagie
+- Hémorragie digestive
+- Vomissements répétés
+- Échec du traitement
+{{%/danger%}}
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -124,32 +98,47 @@ Pathologies à étayer devant un tableau de reflux gastro-œsophagien:
 - [Angor]({{% relref "syndrome-coronarien-chronique.md" %}})
 
 {{% /collapse %}}
+{{%collapse "Clinique" %}}
+
+Le reflux gastro-œsophagien est un diagnostic d'interrogatoire devant des signes typiques et en l'absence de signes d'alarme.
+
+### Interrogatoire
+
+- Antécédents: chirurgie digestive, obésité (RR 2-3)
+- Traitements en cours
+- Habitudes alimentaires  
+  Durée des repas, variété, délai avec de s'allonger.
+- Signes typiques de reflux gastro-œsophagien:
+  - **Pyrosis**  
+    {{%class%}}Spécificité de 90% pour le RGO.{{%/class%}}
+  - **Régurgitations acides** (liquides ou alimentaires)
+  - **Syndrome postural**: aggravation des symptômes allongé, penché en avant et en post-prandial
+- Symptômes atypiques de reflux
+  - Brûlures épigastriques
+  - Douleurs thoraciques rétro-sternales ou pharyngées
+  - [Toux chronique inexpliquée]({{% relref "toux-chronique.md" %}}) (prédominance nocturne), asthme difficile à contrôler
+  - Enrouement, laryngite chronique
+  - Érosions dentaires
+
+{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Aucun examen complémentaire devant des signes typiques de reflux gastrique et l'absence de signe d'alarme.
+Aucun examen complémentaire pour un reflux gastrique typique et l'absence de signe d'alarme.
 {.alert .alert-info}
-
-### Indications au bilan exploratoire du reflux gastrique
-
-- Signes d'alarme
-- Signes atypiques
-- Absence de réponse ou réponse incomplète aux IPP
-- Bilan préopératoire de fundoplicature en l'absence d'œsophagite
 
 ### Endoscopie œso-gastro-duodénale (EOGD) ou fibroscopie
 
-{{%class%}}Apport diagnostique limité par les IPP en amont qui cicatrisent l'œsophagite.{{%/class%}}
-
-#### Indications à la fibroscopie pour un reflux
+Apport diagnostique limité par les IPP en amont qui cicatrisent l'œsophagite.
 
 [SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/information_patient_gastroscopie_diagnostique_sfed-snfge.pdf)
 
-Prise en charge diagnostique du reflux gastrique par endoscopie si:
+Indications à l'endoscopie œso-gastro-duodénale pour reflux:
 
 - Symptômes atypiques isolés
 - Signes d'alarme (perte de poids, anémie, dysphagie, hémorragie digestive)
 - Âge +50 ans
-- Résistance au traitement initial ou rechute précoce à l'arrêt du traitement
+- Résistance au traitement médical par IPP ou rechute précoce à l'arrêt du traitement
+- Bilan préopératoire de fundoplicature en l'absence d'œsophagite
 
 Le reflux n'est pas démontré en cas d'EOGD normale ou avec œsophagite de bas grade. Il faut compléter avec une **pH-métrie** réalisée 7 jours après l'arrêt des IPP.
 
@@ -166,7 +155,7 @@ Indication: EOGD documentée avec résistance au traitement optimisé.
 Réalisé sous IPP double dose.
 
 {{% /collapse %}}
-{{%collapse "Traitement du RGO" %}}
+{{%collapse "Traitement du reflux RGO" %}}
 
 **Objectifs de la prise en charge du reflux gastro-œsophagien:** soulager les symptômes, cicatrisation des lésions et prévention des récidives.
 
@@ -181,27 +170,27 @@ Attention aux apports en sodium.
 
 ---
 
-[Oméprazole 20 mg](https://bdpm.ansm.sante.fr/medicament/69606819/extrait#tab-rcp) x 1/j 15 minutes avant le repas pendant 4 semaines  
+[Oméprazole 20 mg](https://bdpm.ansm.sante.fr/medicament/69606819/extrait#tab-rcp) x 1/j, 15 minutes avant le repas pendant 4 semaines  
 Augmentation possible à 40 mg/j.
 {{%/info%}}
 
-### Mesures hygiéno-diététiques
+### Mesures hygiéno-diététiques du RGO
 
 Mesures générales de prise en charge du reflux gastro-œsophagien:
 
 - Postures
-  - Surélévation de la tête du lit de 45° (10-15 cm)
+  - **Surélévation de la tête du lit** de 45° (10 à 15 cm)
   - Éviter les vêtements serrés et de s'allonger ou jardiner après les repas
   - Éviter les postures à risque
 - Lutte contre la [constipation]({{% relref "constipation.md" %}})
-- Correction d'un surpoids ou obésité abdominale
+- Correction d'un surpoids/obésité abdominale
 - Augmenter l'activité physique
 - Mastiquer suffisamment et manger lentement  
   Repas > 20-30 min en position assise et détendue.
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - Adaptation de l'alimentation
-  - RGO nocturne: dîner léger et intervalle dîner-coucher de 3 heures
-  - Cuissons sans matières grasses et limiter les graisses et l'alcool
+  - RGO nocturne: dîner léger et **intervalle dîner-coucher de 3 heures**
+  - Cuissons sans matières grasses et **limiter les graisses** et l'alcool
   - Limiter les soupes/bouillons à 400 mL
 - Aucune liste d'aliments à éviter ne peut être recommandée
 - Évoquer des [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) devant un reflux nocturne

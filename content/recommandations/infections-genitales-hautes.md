@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-02-06T09:05:23+01:00"
 publishdate = "2024-12-26"
-lastmod = "2025-05-23"
+lastmod = "2025-06-12"
 specialites = ["gynécologie-obstétrique"]
 annees = "2025"
 sources = ["HAS", "SPILF", "CNGOF"]
@@ -41,7 +41,7 @@ Chapitres liés: [IST](/tags/ist/), [infections à Chlamydia trachomatis]({{% re
 
 Infection génitale haute (IGH) non compliquée
 : Le terme comprend l'endométrite et la salpingite symptomatiques (la majorité sont asymptomatiques). Elle est dite **compliquée** en cas d'abcès tubo-ovarien (ATO), de pelvipéritonite ou plus rarement de péri-hépatite ou sepsis. Elle atteint les femmes en âge de procréer.
-: Elle est secondaire à à l'ascension de germes du vagin à travers le col de l'utérus.
+: Elle est secondaire à à l'ascension de germes du vagin à travers le col de l'utérus: IST (*C. trachomatis*, *N. gonorrhoeae*, *M. genitalium* 10-25 %) ou commensaux (streptocoques, staphylocoques, entérobactéries).
 : Les récidives sont fréquentes (15 à 21%, 1/3 par réinfection) augmentant le risque d'[infertilité]({{% relref "infertilite-couple.md" %}}) et de douleurs pelviennes chroniques.
 
 Leucorrhées
@@ -114,7 +114,7 @@ Les signes associés (fièvre, leucorrhées, métrorragie) renforcent le diagnos
 
 Examen clinique pelvien recommandé pour le diagnostic clinique: douleur annexielle provoquée ou **douleur à la mobilisation utérine**.
 
-**Trois prélèvements** de l'endocol (ou vaginaux à défaut si pose de spéculum impossible) pour examen direct, culture-antibiogramme et PCR gonocoque/Chlamydia et mycoplasme.
+**Trois prélèvements** de l'endocol (ou vaginaux à défaut si pose de spéculum impossible) pour examen direct, culture-antibiogramme et PCR gonocoque/Chlamydia et *Mycoplasma genitalium*.
 
 Bandelette urinaire pour éliminer une pyélonéphrite.
 
@@ -147,11 +147,11 @@ En cas d'[IST](/tags/ist/) découverte au décours, contrôle PCR sur auto-prél
 Prise en charge semi-urgente des infections génitales hautes par **antibiothérapie** dès que le diagnostic est probable, après l'examen gynécologique et les prélèvements microbiologiques.
 
 {{%info%}}
-Traitement ambulatoire de l'IGH simple **pendant 10 jours** (*HAS/SPILF 2024*):
+Traitement ambulatoire de l'IGH simple **pendant 10 jours** (*HAS/SPILF 2025*):
 
-- Ceftriaxone 1g IM dose unique
-- \+ doxycycline 100 mg x 2/j
-- \+ métronidazole 500 mg x 2/j
+- [Ceftriaxone 1g](https://bdpm.ansm.sante.fr/medicament/62676989/extrait#tab-rcp) IM dose unique
+- \+ [doxycycline 100 mg](https://bdpm.ansm.sante.fr/medicament/67164569/extrait#tab-rcp) x 2/j
+- \+ [métronidazole 500 mg](https://bdpm.ansm.sante.fr/medicament/60416081/extrait#tab-rcp) x 2/j
 - Réévaluation systématique à 3-5 jours  
   Évolution (~15 % d'échecs), tolérance, observance et résultats microbiologiques et des IST (± bilan IST).
 - Si {{< modal-btn modal-risque-ist >}}facteur de risque d'IST{{< /modal-btn >}}: préservatif
@@ -161,11 +161,17 @@ Cas particuliers:
 
 - Si allergie documentée aux céphalosporines sans {{< modal-btn modal-risque-ist >}}facteur de risque d'IST{{< /modal-btn >}}, 10 jours de:
   - ofloxacine 200 mg x 2/j + métronidazole identique
-  - ou lévofloxacine 500 mg x 1/j métronidazole identique
-  - si risque d'IST ou *Mycoplasma genitalium*: avis infectiologique
+  - ou lévofloxacine 500 mg x 1/j + métronidazole identique
+  - si risque d'IST: avis infectiologique
 - Si **stérilet**/DIU: retrait non systématique (discuté et mise en culture si forme compliquée ou échec à J3-J5)
 - Si VIH: traitement identique
 - Si **IST**: préservatif durant le traitement, dépistage des partenaires des 6 derniers mois
+
+Selon le germe:
+
+- Mycoplasma genitalium: traiter uniquement si symptomatique en l'absence de co-infection
+  - [Moxifloxacine 400 mg](https://bdpm.ansm.sante.fr/medicament/65521531/extrait#tab-rcp) x 1/j pendant 14 jours
+  - Pas de contrôle de la guérison
 
 ### Après la guérison
 
@@ -199,6 +205,7 @@ Prise en charge de l'endométrite du post-partum en l'absence de signes de gravi
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Mycoplasma genitalium. 2025.](https://www.has-sante.fr/jcms/p_3604652/fr/traitement-curatif-des-personnes-infectees-par-mycoplasma-genitalium)
 - [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées par Neisseria gonorrhoeae. 2025.](https://www.has-sante.fr/jcms/p_3604670/fr/recommandations-de-prise-en-charge-des-personnes-infectees-par-neisseria-gonorrhoeae)
 - [HAS, SPILF. Choix et durées d'antibiothérapie dans les infections génitales hautes non compliquées. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3575605/fr/choix-et-durees-d-antibiotherapie-dans-les-infections-genitales-hautes-non-compliquees)
 - [HAS, ANRS, CNS. Prise en charge du patient atteint d'infection à trichomonas vaginalis. 2024.](https://www.has-sante.fr/jcms/p_3562494/fr/prise-en-charge-du-patient-atteint-d-infection-a-trichomonas-vaginalis)

@@ -560,7 +560,7 @@ graph TB
 - [McEvoy J, et al, ESC Scientific Document Group. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension: Developed by the task force on the management of elevated blood pressure and hypertension of the European Society of Cardiology (ESC) and endorsed by the European Society of Endocrinology (ESE) and the European Stroke Organisation (ESO). European Heart Journal. 2024.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae178/7741010)
 - [Charchar FJ et al. Lifestyle management of hypertension: International Society of Hypertension position paper endorsed by the World Hypertension League and European Society of Hypertension. J Hypertens. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37712135/)
 - [Duly-Bouhanick B et al; SFHTA. HTA de l'enfant et de l'adolescent. Consensus d'experts. 2022. (PDF)](https://sfhta.eu/wp-content/uploads/2022/06/2020-11-27_recos-seules-HTA-enfants-et-ado-V2-du-02.06.2022.pdf)
-- [Xi B et al. Establishing International Blood Pressure References Among Nonoverweight Children and Adolescents Aged 6 to 17 Years. Circulation. 2016.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729639/#SD1)
+- [Xi B, et al. Establishing International Blood Pressure References Among Nonoverweight Children and Adolescents Aged 6 to 17 Years. Circulation. 2016.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729639/#SD1)
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}

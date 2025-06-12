@@ -61,7 +61,7 @@ ACG
 - Prescrire
 - Cochrane
 - [Minerva](https://minerva-ebp.be/)
-- Cismef
+- [Cismef](https://www.cismef.org/cismef/)
 - [NICE Clinical guidance](https://www.nice.org.uk/guidance/conditions-and-diseases)
 - {{< references/aderim >}}
 
