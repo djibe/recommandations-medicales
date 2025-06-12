@@ -29,7 +29,7 @@ todo = "rankok | PLAN D'ACTION - TargetCOPD, action plan <https://www.livingwell
 
 - {{< modal-btn modal-depistage-bpco >}}Dépistage systématique des facteurs de risque de BPCO{{< /modal-btn >}} (tabagisme +20 PA, infections respiratoires récidivantes) et prévention par sevrage tabagique pour tout le monde
 - Le diagnostic de bronchopneumopathie chronique obstructive est spirométrique: trouble ventilatoire obstructif non réversible. Le VEMS est le facteur pronostique majeur de la {{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}}
-- Le suivi de la BPCO nécessite un bilan par EFR/spirométrie de suivi annuelle
+- Le suivi de la BPCO nécessite un suivi annuel par EFR/spirométrie
 - La prise en charge de la BPCO associe: arrêt du tabac (facteur principal du déclin du VEMS), réhabilitation respiratoire, vaccinations (covid-19, grippe, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, VRS si +65 ans (NR)), activité physique et prévention cardiovasculaire
 - Suivi des symptômes et exacerbations de BPCO: {{< modal-btn modal-score-cat >}}questionnaire CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}mMRC{{< /modal-btn >}} pour déterminer la sévérité
 - Bronchodilatateurs de longue durée d'action: {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} puis {{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}} si nécessaire avec {{< modal-btn modal-ttt-bdca >}}bronchodilatateurs de courte durée{{< /modal-btn >}} en cas de gêne respiratoire. Augmenter les doses si besoin voire avis pneumologique pour {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + corticoïdes inhalés CSI{{< /modal-btn >}}

@@ -239,6 +239,8 @@ graph TB
 
 {{< youtube id="ZF47AKyOtgk" title="Fibrose avancée dans la stéatopathie du diabétique : l'algorithme pratique (CREGG)" >}}
 
+{{< youtube id="TlLRIzLQLko" title="MASH ou NASH : c'est toujours du foie gras ! (TutoGastro SNFGE 2025) " >}}
+
 {{< youtube id="YdGoM7KWe6s" title="Le Fib4 : un intérêt pronostique chez les diabétiques et/ou obèses ? (CREGG)" >}}
 
 - [Académie Nationale de Médecine. Stéatose hépatique non alcoolique : maladie fréquente, diagnostic devenu facile, prévention indispensable. 16/12/2022.](https://www.academie-medecine.fr/steatose-hepatique-non-alcoolique-maladie-frequente-diagnostic-devenu-facile-prevention-indispensable/)

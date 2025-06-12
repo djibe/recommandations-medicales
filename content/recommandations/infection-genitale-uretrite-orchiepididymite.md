@@ -67,7 +67,7 @@ UNG
 {{%collapse "Urétrite" %}}
 
 Urétrite
-: Inflammation de l'urètre le plus souvent par une [infection sexuellement transmissible (IST)](/tags/ist/): *Neisseria gonorrhoeae* (gonorrhée, gonococcie, blennorragie ou << chaude-pisse >> avec incubation 2-5 jours), *Chlamydia trachomatis* et *Mycoplasma genitalium* (20%), poly-infection dans 10 à 50% des cas avec un risque d'épididymite. *Trichomonas vaginalis* (IST) et *Ureaplasma urealyticum* sont plus rares et aucun germe n'est retrouvé dans 35% des cas.
+: Inflammation de l'urètre le plus souvent par une [infection sexuellement transmissible (IST)](/tags/ist/): *Neisseria gonorrhoeae* (gonorrhée, gonococcie, blennorragie ou << chaude-pisse >> avec incubation 2-5 jours), *Chlamydia trachomatis* et *Mycoplasma genitalium* (10-35 %), poly-infection dans 10 à 50% des cas avec un risque d'épididymite. *Trichomonas vaginalis* (IST) et *Ureaplasma urealyticum* sont plus rares et aucun germe n'est retrouvé dans 35% des cas.
 : Sur-représentation des [HSH]({{% relref "hsh.md" %}}) et [séropositifs VIH]({{% relref "vih-sida.md" %}}).
 : Critères diagnostiques cytologiques chez un homme sans miction depuis au moins 2 heures: ≥ 5 PNN au frottis (grossissement 100), ≥ 10 PNN sur premier jet centrifugé (grossissement 400).
 : Urétrite non-gonococcique **persistante**: absence d'amélioration à 4 semaines du traitement.
@@ -318,6 +318,7 @@ Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques e
 {{%sources%}}
 
 - [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées par Neisseria gonorrhoeae. 2025.](https://www.has-sante.fr/jcms/p_3604670/fr/recommandations-de-prise-en-charge-des-personnes-infectees-par-neisseria-gonorrhoeae)
+- [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Mycoplasma genitalium. 2025.](https://www.has-sante.fr/jcms/p_3604652/fr/traitement-curatif-des-personnes-infectees-par-mycoplasma-genitalium)
 - [HAS, ANRS, CNS. Prise en charge du patient atteint d'infection à trichomonas vaginalis. 2024.](https://www.has-sante.fr/jcms/p_3562494/fr/prise-en-charge-du-patient-atteint-d-infection-a-trichomonas-vaginalis)
 - [Bonkat G, et al. EAU guidelines on urological infections. 2024.](https://uroweb.org/guidelines/urological-infections)
 - [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-162.pdf)
@@ -332,7 +333,6 @@ Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques e
 ### Bibliographie en attente
 
 - [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
-- [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Mycoplasma genitalium. 2025.](https://www.has-sante.fr/jcms/p_3604652/fr/traitement-curatif-des-personnes-infectees-par-mycoplasma-genitalium)
 - [Janier M et al; Société Française de Dermatologie (SFD). Balanite. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/balanites-f5f2cf585640275406ec42b19340d0c8.pdf)
 
 {{%/sources%}}

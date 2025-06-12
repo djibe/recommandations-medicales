@@ -18,12 +18,12 @@ icd10 = []
 atc = "R03BA"
 image = true
 imageSrc = "Les corticoïdes inhalés. Freepik"
-todo = "rankok, flow"
+todo = "rankok, flow | [Centre Belge d'Information Pharmacothérapeutique (CBIP). Les anticholinergiques font-ils perdre la mémoire ?. Folia. 2024.](https://www.cbip.be/fr/articles/4440?folia=4434)"
 +++
 
 {{%article-summary%}}
 
-- Dans l'[asthme]({{% relref "asthme.md" %}}): les corticoïdes inhalés (ou corticostéroïdes CSI) sont le traitement de fond de référence de l'enfant en monothérapie, associés au formotérol à partir de 12 ans
+- Dans l'[asthme]({{% relref "asthme.md" %}}): les corticoïdes inhalés (ou corticostéroïdes inhalés CSI) sont le traitement de fond de référence de l'enfant en monothérapie, associés au formotérol à partir de 12 ans
 - Dans la [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}): les corticoïdes arrivent en 3e ligne en cas de symptômes résistants à la bithérapie LABA + LAMA
 - Les effets indésirables des corticoïdes inhalés sont surtout: [candidose oropharyngée]({{% relref "mycoses-dermatophytes-candidoses.md" %}}) et dysphonie. En cas de traitement prolongé, peuvent survenir: [pneumonies]({{% relref "pneumonie-aigue-communautaire.md" %}}), [ostéoporose]({{% relref "osteoporose.md" %}}), [cataracte]({{% relref "cataracte.md" %}}) et [glaucome]({{% relref "glaucome.md" %}})
 - La technique d'inhalation nécessite une excellente éducation thérapeutique. Le traitement administré par une chambre d'inhalation est parfois plus simple sauf excellente maîtrise de la technique d'inhalation

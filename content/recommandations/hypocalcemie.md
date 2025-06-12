@@ -30,7 +30,7 @@ flowchart = true
 - Le bilan initial de l'hypocalcémie vraie comporte: PTH, phosphorémie et fonction rénale, 25 OH vitamine D, calciurie des 24 heures et ECG
 - Un avis spécialisé (endocrinologie ou néphrologie) est souvent nécessaire
 
-Chapitre lié: [vitamine D]({{% relref "vitamine-d.md" %}})
+Chapitre lié: [hypercalcémie]({{% relref "hypercalcemie.md" %}}), [vitamine D]({{% relref "vitamine-d.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

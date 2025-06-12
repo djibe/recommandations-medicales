@@ -187,7 +187,7 @@ graph TB
 
 - [Hawkins AT, et al; Clinical Practice Guidelines Committee of the American Society of Colon and Rectal Surgeons. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Hemorrhoids. Dis Colon Rectum. 2024.](https://journals.lww.com/dcrjournal/citation/9900/the_american_society_of_colon_and_rectal_surgeons.541.aspx)
 - {{< references/college-gastro >}}
-- [Van Tol R, et al. European Society of ColoProctology: guideline for haemorrhoidal disease. Colorectal Dis. 2020. (payant)](https://onlinelibrary.wiley.com/doi/abs/10.1111/codi.14975)
+- [Van Tol R, et al. European Society of ColoProctology: guideline for haemorrhoidal disease. Colorectal Dis. 2020.](https://onlinelibrary.wiley.com/doi/abs/10.1111/codi.14975) (payant)
 - [Siproudhis L, Higuero T. Traitements de la maladie hémorroïdaire. Conseil de pratique. SNFGE, SNFCP. 2020. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp018-_hemorroides_2020_0.pdf)
 - Prescrire Redaction. Hémorroïdes. Premiers Choix Prescrire. Rev Prescrire. 2020.
 - [Davis BR, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Hemorrhoids. Dis Colon Rectum. 2018.](https://journals.lww.com/dcrjournal/Fulltext/2018/03000/The_American_Society_of_Colon_and_Rectal_Surgeons.7.aspx)

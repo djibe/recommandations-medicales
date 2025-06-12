@@ -77,7 +77,7 @@ SPLF
 Les inclusions pour l'étude française sur les bénéfices du dépistage du cancer du poumon chez les personnes à risque débuteront en fin d'année ([INCa](https://www.cancer.fr/catalogue-des-publications/le-depistage-des-cancers-du-poumon-a4)).
 
 Étude NELSON
-: Réduction de la mortalité par cancer du poumon à 10 ans de 26%/61% (H/F) chez les personnes à haut risque de CBP. La réduction de la mortalité à 10 ans n'est que 3,2% (6,7% dans l'étude NSLT).
+: Réduction de la mortalité par cancer du poumon à 10 ans de 26%/61% (H/F) chez les personnes à haut risque de CBP. La réduction de la mortalité à 10 ans n'est que 3,2 % (6,7 % dans l'étude NSLT).
 
 La Commission européenne recommande ce dépistage depuis son [communiqué de septembre 2022](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562).
 
@@ -208,8 +208,10 @@ Comme dans les dépistages de toutes formes de cancer, il arrive qu'une anomalie
 
 ##### Quel est l'intérêt de ce dépistage ?
 
-Alors qu'un cancer, découvert par des symptômes, est souvent à un stade avancé, le dépistage permet de découvrir précocement un cancer, de traiter et de guérir huit malades sur dix, et donc de réduire considérablement le nombre de décès par cancer du poumon.  
-La mise en œuvre de ce dépistage, si elle est accompagnée d'un arrêt du tabac, contribue à une diminution encore plus conséquente de la mortalité. C'est un moment privilégié pour arrêter de fumer si vous fumez encore. Votre médecin peut vous accompagner dans cette démarche. Vous pouvez également consulter les centres anti-tabac dont vous trouverez le numéro d'appel au 39 89 ou sur le site : <https://www.tabac-info-service.fr>.  
+Alors qu'un cancer, découvert par des symptômes, est souvent à un stade avancé, le dépistage permet de découvrir précocement un cancer, de traiter et de guérir huit malades sur dix, et donc de réduire considérablement le nombre de décès par cancer du poumon.
+
+La mise en œuvre de ce dépistage, si elle est accompagnée d'un arrêt du tabac, contribue à une diminution encore plus conséquente de la mortalité. C'est un moment privilégié pour arrêter de fumer si vous fumez encore. Votre médecin peut vous accompagner dans cette démarche. Vous pouvez également consulter les centres anti-tabac dont vous trouverez le numéro d'appel au 39 89 ou sur le site : <https://www.tabac-info-service.fr>.
+
 Votre médecin est à votre disposition pour discuter de tous ces éléments.
 
 > -- *SPLF 2021*

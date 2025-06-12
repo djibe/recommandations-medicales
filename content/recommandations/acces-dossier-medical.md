@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-20T12:27:50+02:00"
 publishdate = "2022-10-20"
-lastmod = "2025-05-09"
+lastmod = "2025-06-12"
 specialites = ["certificats"]
 annees = "2025"
 sources = ["Service-Public"]
@@ -64,7 +64,7 @@ Après plusieurs mois de relance, il est intéressant dans un premier temps de [
 Pour un professionnel libéral, contacter le [Conseil Départemental de l'Ordre des Médecins (CDOM, menu Contacter mon conseil)](https://www.conseil-national.medecin.fr/lordre-medecins/conseils-regionaux-departementaux/conseils-departementaux-lordre).
 
 {{% /collapse %}}
-{{%collapse "Courrier de demande d'accès au dossier médical" %}}
+{{%collapse "Modèle de courrier de demande d'accès au dossier médical" %}}
 
 > [!INFO]
 > La demande d'accès au dossier médical doit être adressée par **lettre recommandée avec accusé de réception** ainsi que la **copie de carte d'identité** du demandeur. Pour un ayant-droit, fournir également une copie du **livret de famille** (conjoint, enfants) ou un acte de notoriété ou de dévolution successorale.
@@ -73,7 +73,7 @@ Pour un professionnel libéral, contacter le [Conseil Départemental de l'Ordre 
 
 <div class="card card-body my-4" contenteditable="true">
 
-Coordonnées du demandeur
+Nom, prénom et coordonnées du demandeur
 
 Nom et adresse de l'établissement ou du cabinet médical
 {.text-right}
@@ -102,11 +102,119 @@ je vous prie de bien vouloir :
 Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
 
 Signature
+
 </div>
 
 > -- *Modèle [INC Conso](https://www.inc-conso.fr/content/vous-demandez-pouvoir-consulter-votre-dossier-medical)*
 
 En l'absence de réponse, contacter une association d'aides aux démarches: [Aviam](http://aviamfrance.org), [ANAMEVA](https://www.anameva.com). Relancer la demande après 3 mois.
+
+{{% /collapse %}}
+{{%collapse "Modèle d'accès pour les ayant-droits pour un patient décédé" %}}
+
+<div class="card card-body my-4" contenteditable="true">
+
+Date
+
+Je soussigné(e) M., Mme, (rayer la mention inutile)
+
+Nom
+
+Prénom
+
+Téléphone
+
+Courriel
+
+Lien avec le patient
+
+---
+
+==AYANT DROIT, PARTENAIRE LIÉ PAR UN PACS OU CONCUBIN DE:==
+
+☐ M. ☐ Mme
+
+Nom en majuscules, prénom, nom de naissance
+
+Date de naissance
+
+Décédé-e le
+
+Lieu de décès:
+
+Suivi-e à l'hôpital (nom de l'hôpital):
+
+Dans le service:
+
+---
+
+==DEMANDE LA TRANSMISSION DE DOCUMENTS MÉDICAUX ÉTABLIS À SON NOM, POUR LE MOTIF SUIVANT:==
+
+☐ connaître les causes du décès
+
+☐ faire valoir un droit*
+
+
+
+☐ défendre la mémoire du défunt *
+
+\* précisez obligatoirement quel(s) droit(s) vous entendez faire valoir ou en quoi la mémoire du défunt doit être défendue.
+
+> Attention: les médecins ne pourront communiquer que les éléments du dossier répondant strictement à l'objectif poursuivi, précisé ci-dessus.
+
+Fait à  
+Le
+
+Signature
+
+---
+
+Justificatifs à produire dans tous les cas: copie d'une pièce d'identité à votre nom à laquelle il convient d'ajouter:
+
+- Pour le conjoint survivant et enfant(s): copie du livret de famille
+- Pour les autres demandeurs:
+  - Acte de notoriété ou acte de dévolution successorale établis par un notaire attestant de leur qualité d'ayant droit ou certificat d'hérédité (pour les communes qui les délivrent),
+  - Copie de l'acte de décès, si le patient n'est pas décédé dans l'établissement
+  - Pour le partenaire d'un PACS: copie de l'acte de naissance portant mention du PACS ou preuve de l'inscription du contrat PACS sur le registre tenu au greffe du tribunal judiciaire de Paris.
+  - Pour le concubin: éléments prouvant la situation.
+
+Les frais de copie et d'envoi sont facturables.
+
+</div>
+
+{{% /collapse %}}
+{{%collapse "Modèle de mandat d'accès au dossier médical" %}}
+
+<div class="card card-body my-4" contenteditable="true">
+
+Date
+
+Je soussigné(e) M., Mme, (rayer la mention inutile)
+
+Nom
+
+Prénom
+
+Joindre pièce justificative d'identité (mandant/patient)
+
+Autorise M., Mme (rayer la mention inutile)
+
+Nom
+
+Prénom
+
+Adresse
+
+Joindre pièce justificative d'identité (mandataire)
+
+**À être destinataire d'une copie de mon dossier patient.**
+
+Fait à  
+Le
+
+Signature (mandant/patient)
+
+</div>
 
 {{% /collapse %}}
 {{%sources%}}

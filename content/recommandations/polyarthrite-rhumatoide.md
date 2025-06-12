@@ -345,7 +345,7 @@ graph TB
 - Arrêt du tabac, contrôle cardiovasculaire, régime méditerranéen, vaccins, cancers, ostéoporose
 - Suivi clinico-bio-radiologique
 - Associations de malades
-- Prise en charge à 100% en ALD n°22
+- Prise en charge à 100% avec l'ALD n°22
 
 **NB.** Régimes sans gluten et lactose n'ont pas fait preuve d'efficacité.
 
@@ -364,7 +364,7 @@ graph TB
 - [HAS. ALD n° 22 - Polyarthrite rhumatoïde évolutive grave. 2008 et 2015.](https://www.has-sante.fr/jcms/c_664454/fr/ald-n-22-polyarthrite-rhumatoide-evolutive-grave)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Polyarthrite rhumatoïde. Item 196 UE 8. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-17-0.php)
 
-### Bibliographie en attente
+### Bibliographie pour en savoir plus
 
 [Johnson SR, et al. 2023 American College of Rheumatology (ACR)/American College of Chest Physicians (CHEST) Guideline for the Screening and Monitoring of Interstitial Lung Disease in People with Systemic Autoimmune Rheumatic Diseases. Arthritis Care Res (Hoboken). 2024.](https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/acr.25347)
 

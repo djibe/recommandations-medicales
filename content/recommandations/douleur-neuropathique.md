@@ -312,7 +312,7 @@ Clomipramine 10 mg le soir. Paliers de 10 mg tous les 7 jours. Avis spécialisé
 Prise en charge, prescription et réalisation uniquement en **centre de la douleur chronique**.
 
 - rTMS et stimulation médullaire
-- Morphine et oxycodone LP (max 150 mg/j éq. morphine
+- Morphine et oxycodone LP (max 150 mg/j éq. morphine)
 - Combinaison opioïde + antidépresseur ou gabapentinoïde
 
 > "Effets indésirables": sous-entendu, effets indésirables principaux.

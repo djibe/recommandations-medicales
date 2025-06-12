@@ -30,6 +30,8 @@ flowchart = true
 - Le bilan initial de l'hypercalcémie vraie comporte: PTH, phosphorémie et fonction rénale
 - Un avis spécialisé (néphrologie ou en endocrinologie) est souvent nécessaire
 
+Articles liés: [hypocalcémie]({{% relref "hypocalcemie.md" %}})
+
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
@@ -84,7 +86,7 @@ Les principales étiologies de l'hypercalcémie comprennent:
     Diminution de la mobilité entraînant une libération accrue de calcium des os.
 5. Iatrogénie  
   Vitamine A, vitamine D, diurétiques thiazidiques, lithium, digitaliques.
-1. Post-rhabdomyolyse
+6. Post-rhabdomyolyse
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

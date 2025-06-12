@@ -1,7 +1,7 @@
 +++
 id = "0196fc82-5d38-78e1-ad81-0d27444c809c"
 title = "Glaucome primitif à angle ouvert (GPAO)"
-titleSeo = "Glaucome primitif à angle ouvert GPAO"
+titleSeo = "Glaucome primitif à angle ouvert"
 prefix = "le "
 description = "Recommandations pour le diagnostic et la prise en charge du glaucome. Examen ophtalmologique, champ visuel, OCT et collyre anti-glaucomateux bêtabloquant ou prostaglandine"
 synonyms = ["Glaucome chronique"]
@@ -144,17 +144,17 @@ Le bilan du glaucome est **spécialisé** par l'ophtalmologue:
 {{% /collapse %}}
 {{%collapse "Traitement du glaucome" %}}
 
-La prise en charge du glaucome repose sur la **réduction de la pression intraoculaire** (PIO) **à vie** pour stopper son évolution:
+La prise en charge du glaucome repose sur la ==réduction de la pression intraoculaire== (PIO) **à vie** pour stopper son évolution:
 
 - **Collyres** oculaires antihypertenseurs:
-  - 1^re^ intention: **prostaglandines** (bimatoprost, **latanoprost**, **travoprost**) 1 goutte le soir
+  - 1^re^ intention: **prostaglandine** (bimatoprost, **latanoprost**, **travoprost**) 1 goutte le soir
   - ou **bêta-bloquant** (bétaxolol, cartéolol, lévobunolol, **timolol**) 1 goutte 1 à 2 fois par jour selon la spécialité
   - Autres traitements: agoniste alpha-2-adrénergique (apraclonidine, brimonidine), inhibiteurs de l'anhydrase carbonique (brinzolamide, dorzolamide)
   - Les associations sont possibles sans dépasser une trithérapie
   - Privilégier des collyres sans conservateur en cas de polythérapie ou de chirurgie envisagée (voir tableau plus bas)
 - Éviter les traitements aggravants: corticoïdes
-- Glaucome avancé: soutien psychologique, orthoptie, ergothérapie, MDPH
-- Information du patient: [guides Ameli](hhttps://www.ameli.fr/assure/sante/themes/glaucome) et [SFG](https://sfglaucome.fr/patient/faq/), nécessité du traitement, effets secondaires du collyre
+- Si glaucome avancé: soutien psychologique, orthoptie, ergothérapie, MDPH
+- **Information du patient:** [guides Ameli](hhttps://www.ameli.fr/assure/sante/themes/glaucome) et [SFG](https://sfglaucome.fr/patient/faq/), nécessité du traitement, effets secondaires du collyre
 - Association de patients: [Association France Glaucome](https://www.associationfranceglaucome.fr)
 - Pas d'ALD  
   [ALD 31]({{% relref "affection-longue-duree.md" %}}) en cas de traitement lourd et coûteux.
@@ -162,13 +162,13 @@ La prise en charge du glaucome repose sur la **réduction de la pression intraoc
 {{< table title="Spécialités de collyres anti-glaucomateux sans conservateurs par classe. Dr JB Fron grâce à la recherche avancée de *Thériaque*" class="table-wrap">}}
 | Famille | Effets indésirables | Fréquence (/j) | Spécialités |
 |---------|---------------------|----------------|-------------|
-| Prostaglandines | Rougeur/irritation oculaire, iris sombre, pousse de cils | 1 | multidose (Bimatoprost Idifarma, Latazed, Sinetrav, Vizilatan, Vizitrav), unidose (Monoprost, Xiop) |
-| Bêta-bloquants | CI des BB | 1-2 | multidose Timabak, unidoses (Betagan, Gaoptol, Geltim LP) |
+| **Prostaglandines** | Rougeur/irritation oculaire, iris sombre, pousse de cils | 1 | multidose (Bimatoprost Idifarma, Latazed, Sinetrav, Vizilatan, Vizitrav), unidose (Monoprost, Xiop) |
+| **Bêta-bloquants** | CI des BB | 1-2 | multidose Timabak, unidoses (Betagan, Gaoptol, Geltim LP) |
 | Alpha-2-adrénergiques || 2 | unidoses Brimazed, Brimonidine Omnivision |
 | Inh. anhydrase carbonique || 2 | |
 {{< /table >}}
 
-**Collyres combinés** (sans conservateurs): BB + prostaglandine x 1/j (Filiop, Fixapost, Ganfort, Kilatim, Kivizidiale, Vizimaco), BB + inh. anhydrase carbonique x 2/j (Cosidime, Costec, Dualkopt).
+==**Collyres combinés**== (sans conservateurs): BB + prostaglandine x 1/j (Filiop, Fixapost, Ganfort, Kilatim, Kivizidiale, Vizimaco), BB + inh. anhydrase carbonique x 2/j (Cosidime, Costec, Dualkopt).
 
 ### Autres traitements du glaucome
 
@@ -181,7 +181,7 @@ La chirurgie est réalisée précocement chez le **sujet jeune** ou en cas de **
 {{% /collapse %}}
 {{%collapse "Suivi" %}}
 
-Le suivi spécialisé ophtalmologique du glaucome est régulier à vie:
+Le suivi spécialisé ophtalmologique du glaucome est **régulier à vie**:
 
 - Symptômes, handicap
 - Autonomie
@@ -189,8 +189,8 @@ Le suivi spécialisé ophtalmologique du glaucome est régulier à vie:
 - Évaluation de la maladie:
   - Mesure de la pression intraoculaire
   - Fond d'œil
-  - Champ visuel habituellement tous les 6 mois
-  - OCT
+  - Champ visuel (habituellement tous les 6 mois)
+  - Tomographie par cohérence optique
 
 {{% /collapse %}}
 {{%sources%}}
@@ -201,5 +201,10 @@ Le suivi spécialisé ophtalmologique du glaucome est régulier à vie:
 - [Centre Belge d'Information Pharmacothérapeutique (CBIP). Glaucome : quels médicaments éviter ?. Folia. 2024.](https://www.cbip.be/fr/articles/4354?folia=4353&matches=glaucome#)
 - [HAS. Diagnostic et prise en charge de l'hypertonie oculaire et du glaucome primitif à angle ouvert. 2022.](https://www.has-sante.fr/jcms/p_3321655/fr/diagnostic-et-prise-en-charge-de-l-hypertonie-oculaire-et-du-glaucome-primitif-a-angle-ouvert)
 - [Collège des Ophtalmologistes Universitaires de France (COUF). Glaucomes. Chapitre 14. 2021.](https://couf.fr/espace-etudiants/2eme-cycle-dfasm/)
+
+### Bibliographie en attente
+
+- [Aptel F. Le dossier - Prise en charge du glaucome. L'escalade du traitement médical. réalités Ophtalmologiques. 2025. (PDF)](https://www.realites-cardiologiques.com/wp-content/uploads/sites/4/2025/03/07_APTEL_DO.pdf)
+- [European Glaucoma Society. Terminology and guidelines for glaucoma. 5^th^ edition. 2020.](https://www.eugs.org/educational_materials/6)
 
 {{%/sources%}}

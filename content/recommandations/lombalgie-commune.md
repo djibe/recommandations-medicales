@@ -255,6 +255,11 @@ graph TB
 - [Collège Français des Enseignants en Rhumatologie (COFER). Rachialgies. Item 94 UE 5. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-3-0.php)
 - [HAS. Prise en charge du patient présentant une lombalgie commune. 2019.](https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient-presentant-une-lombalgie-commune)
 
+### Bibliographie en attente
+
+- [Foltz V, et al. Prise en charge thérapeutique de la lombalgie chronique : focus sur les antalgiques et l'activité physique Therapeutic management of chronic low back pain: Focus on analgesics and physical activity. Revue du Rhumatisme. 2025.](https://www.sciencedirect.com/science/article/pii/S1169833024001637)
+- [Demoulin C, et al. Croyances délétères du patient souffrant de lombalgie chronique : pourquoi s'y intéresser ? Maladaptive beliefs of patients suffering from chronic low back pain: Why should we care?. Revue du Rhumatisme. 2025.](https://www.sciencedirect.com/science/article/abs/pii/S1169833024000668)
+
 {{%/sources%}}
 {{% modal title="Questionnaire DN4" id="modal-score-dn4"%}}
 

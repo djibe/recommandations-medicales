@@ -274,7 +274,7 @@ Les contre-indications au don de lait sont celles du don du sang.
 
 ### Bibliographie en attente
 
-- [Valverde-Merino MI, et al. The importance of COVID-19 vaccination during lactation. Infect Dis Now. 2024.](https://linkinghub.elsevier.com/retrieve/pii/S2666-9919(23)00193-8) (payant)
+- [Valverde-Merino MI, et al. The importance of COVID-19 vaccination during lactation. Infect Dis Now. 2024.](https://www.sciencedirect.com/science/article/pii/S2666991923001938) (payant)
 - OMS
 - Interagency Group for Action on Breastfeeding
 

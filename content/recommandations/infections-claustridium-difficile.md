@@ -119,7 +119,7 @@ Le tableau diarrhéique aigu apparaît souvent **à l'introduction d'une nouvell
 
 La prise en charge de l'infection à *Clostridioides difficile* (ICD, ex *Claustridium difficile*) est ambulatoire **en l'absence de signes de gravité** avec une antibiothérapie simple.
 
-Traitement de *Claustridium difficile* non sévère: **vancomycine** 125 mg x 4/j pendant 10 jours (minimum 14 jours si [intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}})) et arrêt de l'antibiotique inducteur.
+Traitement de *Claustridium difficile* non sévère: **vancomycine** orale 125 mg x 4/j pendant 10 jours (minimum 14 jours si [intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}})) et arrêt de l'antibiotique inducteur.
 {.alert .alert-info}
 
 En cas de récidive (dans les 8 semaines suivant la fin du traitement): demander un **avis infectiologique**.
@@ -127,18 +127,18 @@ En cas de récidive (dans les 8 semaines suivant la fin du traitement): demander
 Précisions sur l'antibiothérapie du *Claustridium*:
 
 - Le traitement est possible pendant la grossesse et l'allaitement ([CRAT](https://www.lecrat.fr/13364/))
-- La fidaxomicine (Dificlir), traitement de 1^re^ intention en théorie, est très cher
+- La **[fidaxomicine 200 mg](https://www.ema.europa.eu/fr/documents/product-information/dificlir-epar-product-information_fr.pdf)** x 2/j (Dificlir®), traitement de 1^re^ intention en théorie, est très cher
 - Les rechutes sont fréquentes sous 2 mois
 - Si MICI: suspension des traitements anti-inflammatoires
 
-Le traitement anti-sécrétoire peut être poursuivi.
+Le traitement **anti-sécrétoire** peut être poursuivi.
 
 Ne pas utiliser de probiotiques (en prévention primaire pour une antibiothérapie ou durant une récurrence.
 {.alert .alert-warning}
 
 ### Pour en savoir plus: traitements spécialisés de l'infection à *Clostridioides difficile*
 
-Autres antibiothérapies possibles pour le traitement des infections à *Clostridioides difficile* (ICD): métronidazole 500 mg x 3/j pendant 10 jours, rifaximine, tigécycline, ~~nitazoxanide~~.
+Autres antibiothérapies possibles pour le traitement des infections à *Clostridioides difficile* (ICD): **[métronidazole 500 mg](https://bdpm.ansm.sante.fr/medicament/60416081/extrait#tab-rcp)** x 3/j pendant 10 jours, rifaximine (Tixtar® hors AMM, prescription interniste, gastro-entérologue), tigécycline IV, ~~nitazoxanide~~.
 
 À partir de la 2^e^ récidive, une **transplantation de microbiote fécal** (TMF) par coloscopie ou capsules (voire suppositoires) est envisagée. Elle est envisagée dès la 1^re^ récidive en cas de syndrome de l'intestin irritable (SII).
 

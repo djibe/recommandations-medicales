@@ -200,6 +200,6 @@ Informations sur la scoliose:
 ### Bibliographie en attente
 
 - [International Society on Scoliosis Orthopaedic and Rehabilitation Treatment (SOSORT)](https://www.sosort.org)
-- [Blevins K, et al. Management of Scoliosis. Adv Pediatr. 2018. (payant)](https://www.advancesinpediatrics.com/article/S0065-3101(18)30014-8/fulltext)
+- [Blevins K, et al. Management of Scoliosis. Adv Pediatr. 2018.](https://www.advancesinpediatrics.com/article/S0065-3101(18)30014-8/fulltext) (payant)
 
 {{%/sources%}}

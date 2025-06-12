@@ -41,6 +41,7 @@ flowchart = true
   - Traitements de fond de l'asthme: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous. Pour un asthme parfaitement contrôlé sans traitement: {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} en cas de symptômes
   - Décroissance: par paliers de 25-50% si parfaitement contrôlé 2-3 mois jusqu'à {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} en cas de symptômes
   - Si ALD: {{< modal-btn modal-vaccin-pneumocoque >}}vaccins pneumocoque{{< /modal-btn >}} et grippe
+- [Vidéos des techniques d'inhalation](https://splf.fr/videos-zephir/)
 
 Pour la pratique: [modèle de PAI de l'asthme](https://eduscol.education.fr/document/7751/download) (PDF) et [annuaire des Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/).
 
