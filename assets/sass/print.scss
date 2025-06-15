@@ -94,3 +94,13 @@ nav,
   box-sizing: border-box;
   page-break-after: always;
 }
+span.source {
+  // content: attr(data-original-title);
+}
+span.source::before {
+  display: none !important;
+}
+span.source::after {
+  content: attr(data-original-title);
+  display: inline-flex;
+}
