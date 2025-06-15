@@ -31,7 +31,8 @@ TODO: (at the end)
 {{%collapse "Définition" %}}
 
 Épistaxis
-: Saignement originaire de la narine, de la cavité nasale ou du nasopharynx.
+: Saignement originaire de la narine, de la cavité nasale ou du nasopharynx, le plus souvent du septum nasal (tâche vasculaire).
+: Sévère en cas de 
 
 ### Abréviations
 
@@ -42,41 +43,68 @@ AAO-HNS
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+En cas d'épistaxis: sévère ou résistant à la compression, de coagulopathie, tumeur du nasopharynx, malformation vasculaire cervico-faciale, traumatisme facial récent ou chirurgie naso-sinusienne dans le mois, le traitement est d'emblée spécialisé.
+
+Saignement mineur sans trouble hémodynamique ou atteinte respiratoire; doute sur risque de récidive importante: urgences, sinon SAMU.
+
+Identifier les patients avec épistaxis nécessitant un traitement invasif.
+
+Les enfants en bonne santé nécessitent rarement une consultation pour épistaxis.
+
 ### Interrogatoire
 
-- Antécédents: hémorragiques
-- Antécédents familiaux hémorragiques
-- Traitements en cours: anticoagulants, corticoïdes locaux
+- Antécédents: hémorragiques, cardiovasculaires, comorbidités
+- Antécédents familiaux hémorragiques ou d'épistaxis récidivants
+- Traitements en cours: anticoagulants, antiagrégants plaquettaires, corticoïdes ou autres traitements locaux
 - Épistaxis
-- Technique de compression
-
-Sévère, persistant, récidivant, altérant la qualité de vie.
+  - Ancienneté, fréquence, volume
+  - Technique de compression
 
 ### Examen clinique
+
+- Pression artérielle, fréquence cardiaque
+- Détresse respiratoire
+- Signes d'anémie  
+  {{< clinique/anemie >}}
+- Épistaxis  
+  Volume, technique de compression.
+
+Adresser en consultation d'ORL en cas d'épistaxis non actif récidivant ou altérant la qualité de vie.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'épistaxis" %}}
 
+La prise en charge de l'épistaxis est urgente en cas de saignement majeur (d'autant plus si comorbidités, anticoagulants) ou signes de déglobulisation.
+
+- Compression nasale bidigitale
+  - Mouchage puis compression ferme bilatérale du tiers inférieur des ailes du nez pendant au moins 5 minutes
+- Vasoconstricteurs
+- Méchage nasal
+  - En cas de résistance à la compression
+  - Si coagulopathie, anticoagulation ou antiagrégants plaquettaires: mèches résorbables
+- Cautérisation nasale
+- Information du patient: mesures de prévention, compression bidigitale et critères d'urgence
+
+Ligature artérielle endoscopique
 
 {{% /collapse %}}
 {{%sources%}}
 
-- [Source 1](URL)
+[Tunkel DE, et al. Clinical Practice Guideline: Nosebleed (Epistaxis). Otolaryngol Head Neck Surg. 2020.](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599819890327)
 
 ### Bibliographie en attente
 
 - Collège ORL
 - Prescrire
-- Cochrane
-- Cismef
-- [NICE Clinical guidance](https://www.nice.org.uk/guidance/conditions-and-diseases)
-- {{< references/aderim >}}
+- <https://www.cfp.ca/content/67/6/430>
+- <https://www.sforl.org/wp-content/uploads/2020/03/COVID-19-Epistaxis-Management.pdf>
+- <https://www.cochrane.org/fr/CD004328/acide-tranexamique-pour-aider-traiter-les-saignements-de-nez-epistaxis>
+- [SFORL. Prise en charge des épistaxis de l'adulte. Recommandation pour la pratique clinique. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/02/Prise-en-charge-des-epistaxis-adulte.pdf)
 
 {{%/sources%}}
 
 ’≤≥±®æœŒÈ⅓¼½¾¹²³^4^ÂSpO~2~ -- ‰
-[External link](https://discourse.gohugo.io/ "{rel='nofollow'}")

@@ -18,13 +18,13 @@ sctid = "400130008"
 icd10 = ["M31.6"]
 image = true
 imageSrc = "Cellules géantes sur une biopsie de l'artère temporale (BAT) signant une artérite à cellules géantes (ou maladie de Horton). Nephron, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "rankok, flow PNDSp13/50, relecture"
+todo = "rankok | flow PNDSp13/50, relecture demandée"
 +++
 
 {{%article-summary%}}
 
-- L'artérite à cellules géantes ou maladie de Horton est rare et atteint surtout les femmes après 70 ans originaires d'Europe du Nord
-- Les symptômes sont dominés par des [céphalées](/tags/cephalees/) inhabituelles (récentes, nocturnes ou matinales), une claudication de la mâchoire, une hyperesthésie du scalp ou des symptômes visuels (signe de gravité: baisse d'acuité visuelle, amaurose, diplopie)
+- L'artérite à cellules géantes ou maladie de Horton est rare et atteint surtout les femmes originaires d'Europe du Nord après 70 ans
+- Les symptômes de l'artérite à cellules géantes sont dominés par des [céphalées](/tags/cephalees/) inhabituelles (récentes, nocturnes ou matinales), une claudication de la mâchoire, une hyperesthésie du scalp ou des symptômes visuels (signe de gravité: baisse d'acuité visuelle, amaurose, diplopie)
 - Une pseudo-polyarthrite rhizomélique (PPR) est fréquemment associée avec des arthralgies et des myalgies des épaules et du bassin
 - Le bilan affirme un syndrome inflammatoire quasi constant: NFS, CRP supérieure à 10 mg/L, fibrinogène élevés
 - Adresser en semi-urgence toute suspicion de maladie de Horton au spécialiste (rhumatologue, interniste) du centre de compétence ([annuaire](https://www.fai2r.org/les-centres-fai2r/centres-competence/)) pour affirmer le diagnostic par biopsie de l'artère temporale (BAT)

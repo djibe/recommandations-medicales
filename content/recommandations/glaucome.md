@@ -8,7 +8,7 @@ synonyms = ["Glaucome chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-05-23T11:26:02+02:00"
 publishdate = "2025-05-31"
-lastmod = "2025-05-31"
+lastmod = "2025-06-14"
 specialites = ["ophtalmologie"]
 annees = "2022"
 sources = ["HAS"]
@@ -149,7 +149,7 @@ La prise en charge du glaucome repose sur la ==réduction de la pression intraoc
 - **Collyres** oculaires antihypertenseurs:
   - 1^re^ intention: **prostaglandine** (bimatoprost, **latanoprost**, **travoprost**) 1 goutte le soir
   - ou **bêta-bloquant** (bétaxolol, cartéolol, lévobunolol, **timolol**) 1 goutte 1 à 2 fois par jour selon la spécialité
-  - Autres traitements: agoniste alpha-2-adrénergique (apraclonidine, brimonidine), inhibiteurs de l'anhydrase carbonique (brinzolamide, dorzolamide)
+  - Autres traitements: agoniste alpha-2-adrénergique (apraclonidine, brimonidine), inhibiteurs de l'anhydrase carbonique (brinzolamide, dorzolamide), inhibiteur de la Rho-kinase (nétarsudil)
   - Les associations sont possibles sans dépasser une trithérapie
   - Privilégier des collyres sans conservateur en cas de polythérapie ou de chirurgie envisagée (voir tableau plus bas)
 - Éviter les traitements aggravants: corticoïdes
@@ -165,7 +165,8 @@ La prise en charge du glaucome repose sur la ==réduction de la pression intraoc
 | **Prostaglandines** | Rougeur/irritation oculaire, iris sombre, pousse de cils | 1 | multidose (Bimatoprost Idifarma, Latazed, Sinetrav, Vizilatan, Vizitrav), unidose (Monoprost, Xiop) |
 | **Bêta-bloquants** | CI des BB | 1-2 | multidose Timabak, unidoses (Betagan, Gaoptol, Geltim LP) |
 | Alpha-2-adrénergiques || 2 | unidoses Brimazed, Brimonidine Omnivision |
-| Inh. anhydrase carbonique || 2 | |
+| Inh. anhydrase carbonique || 2 | Aucun |
+| Inh. Rho-kinase  || 1 | Aucun |
 {{< /table >}}
 
 ==**Collyres combinés**== (sans conservateurs): BB + prostaglandine x 1/j (Filiop, Fixapost, Ganfort, Kilatim, Kivizidiale, Vizimaco), BB + inh. anhydrase carbonique x 2/j (Cosidime, Costec, Dualkopt).

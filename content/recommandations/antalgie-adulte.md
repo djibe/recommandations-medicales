@@ -204,6 +204,11 @@ La **somnolence** est le premier signe de surdosage. Elle doit être différenci
 > HAS 2022
 
 {{% /collapse %}}
+{{%collapse "Autres antalgiques" %}}
+
+Néfopam cp
+
+{{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
 Information du patient et de son entourage lors d'un traitement par morphiniques:

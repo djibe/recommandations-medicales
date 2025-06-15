@@ -370,7 +370,8 @@ Dans l'attente de la MAPA: observance, automesures avec appareil validé, revér
 
 Mesures hygiéno-diétetiques au long cours pour la prise en charge de l'hypertension artérielle:
 
-- Restriction sodée < 5 g/j (ou substituer par KCl)
+- Restriction sodée < 5 g/j  
+  Ou substituer par KCl sauf insuffisance rénale ou nécessité de régime pauvre ne potassium.
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) et réduction de la [consommation d'alcool]({{% relref "sevrage-alcool.md" %}})  
   < 2 verres/j/homme, < 1/j si femme.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}} ou DASH
@@ -536,6 +537,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Anses. Les substituts au sel de table : un risque pour la santé. 2025.](https://www.anses.fr/fr/content/les-substituts-au-sel-de-table-un-risque-pour-la-sante)
 - [Kreutz R, et al. 2024 European Society of Hypertension clinical practice guidelines for the management of arterial hypertension. Eur J Intern Med. 2024.](https://www.ejinme.com/article/S0953-6205(24)00238-3/fulltext)
 - [SFHTA. Disponibilité des trithérapies fixes d'antihypertenseurs pour contribuer à un meilleur contrôle tensionnel des hypertendus : prise de position de la Société Française d'Hypertension Artérielle (SFHTA). 2024. (PDF)](https://www.sfhta.eu/wp-content/uploads/2024/02/Disponibilite-des-tritherapies-fixes-dantihypertenseurs-prise-de-position-de-la-SFHTA.pdf)
 - [US Preventive Services Task Force. Screening for Hypertensive Disorders of Pregnancy: US Preventive Services Task Force Final Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2809680)
