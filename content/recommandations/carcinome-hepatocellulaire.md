@@ -6,6 +6,7 @@ prefix = "le "
 description = "Recommandations pour le diagnostic et la prise en charge du carcinome hépatocellulaire (CHC). Cirrhose, bilan, échographie abdominale et alpha-fœtoprotéine"
 synonyms = ["Hépatocarcinome", "cancer primitif du foie"]
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Pr C. COSTENTIN (AFEF)"
 date = "2023-10-30T19:19:57+01:00"
 publishdate = "2023-10-31"
 lastmod = "2025-06-05"

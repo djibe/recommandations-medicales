@@ -202,6 +202,7 @@ graph TB
     clinique --> gravité("- Tabagisme<br>- Stridor, dysphagie ...<br>- Anomalie clinique<br>- Profession exposée") -- Semi-urgence --> ORL
     interrogatoire --> autre(Autre symptôme)
   style enrouement stroke:#4150f5, stroke-width:1px
+  style dysphonie stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{% /collapse %}}

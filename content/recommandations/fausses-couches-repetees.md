@@ -90,15 +90,14 @@ Bilan complémentaire à considérer:
 
 - Anticorps anti β2 glycoprotéine (anti-β2GPI)
 - Anticorps anti-nucléaires (AAN)
-- Fragmentation de l'ADN spermatique
-- Rechercher une Maladie de Wilson (*PNDS 2022*)
+- Rechercher une [Maladie de Wilson]({{% relref "maladie-wilson.md" %}}) (*PNDS 2022*)  
+  Céruloplasmine, cuprémie totale, cuprurie des 24h.
+- Chez l'homme: fragmentation de l'ADN spermatique
 
 Bilans **non recommandés**: typage HLA, dépistage de [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}), glycémie à jeun, androgènes, évaluation de la réserve ovarienne, d'une insuffisance lutéale, thrombophilie (non suggéré sauf facteurs de risque).
 {.alert .alert-warning}
 
 Une analyse génétique du fœtus pourrait être réalisée à visée étiologique avec conseil génétique du couple en cas d'anomalie.
-
-La **maladie de Wilson** peut causer des fausses couches répétées.
 
 {{% /collapse %}}
 {{%collapse "Traitement des fausses couches répétées" %}}

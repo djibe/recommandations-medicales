@@ -270,7 +270,7 @@ Spécialités avec calcium + vitamine D3 associés (prendre [à distance des rep
 
 ### Spécialité de vitamine D2
 
-Stérogyl® 400 UI/gte (non recommandée).
+Stérogyl® 400 UI/gte.
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour la supplémentation en vitamine D" "show" %}}
