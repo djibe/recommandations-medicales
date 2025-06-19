@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-17T11:25:20+01:00"
 publishdate = "2023-01-19"
-lastmod = "2025-06-12"
+lastmod = "2025-06-19"
 specialites = ["urologie"]
 annees = "2025"
 sources = ["HAS", "SPILF", "EAU"]
@@ -232,6 +232,8 @@ L'étiologie de l'orchi-épididymite dépend de l'âge:
 - Homme jeune: [IST](/tags/ist/) par *[Chlamydia trachomatis]({{% relref "chlamydia-trachomatis.md" %}})* le plus souvent, gonocoque (*N. gonorrhoeae*) ou *Mycoplasma genitalium* et les entérobactéries (surtout *E. coli*, par infection urinaire ou sexe anal)
 - Homme +35 ans: entérobactéries (surtout *E. coli*) par [infection urinaire]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}) ou geste urologique
 
+Traiter un tableau de prostatite à l'identique.
+
 ### Examens complémentaires de l'orchiépididymite
 
 Prélèvements au laboratoire:
@@ -270,7 +272,7 @@ Gonocoque:
 - préservatif minimum 7 jours
 - dépistage des partenaires des 6 derniers mois
 
-Chlamydia: doxycycline 100 mg x 2/j pendant 7 jours
+*Chlamydia*: doxycycline 100 mg x 2/j pendant 10 jours
 
 *Mycoplasma genitalium* isolé: moxifloxacine 400 mg x 1/j pendant 10 à 14 jours
 
@@ -311,6 +313,10 @@ Mesures associées au traitement de l'orchiépididymite:
   - Au retour d'Asie-Pacifique: culture, ceftriaxone 1g IM + azithromycine 1g avec 2e prise 6 heures après
   - Si allergie confirmée aux bêta-lactamines: gentamicine 5 mg/kg IV dose unique
   - Si troubles de coagulation: ceftriaxone 1g IV
+- Chlamydia:
+  - Antibiothérapie de 2^e^ intention: azithromycine 1 g à J1 et J7
+  - En 3^e^ intention: ofloxacine 200 mg x 2/j pendant 7 jours  
+    ou lévofloxacine 500 mg x 1/j pendant 7 jours.
 - Si persistance des symptômes après 72 heures: consultation de contrôle avec les résultats
 - Si VIH: traitement identique
 - Avis infectiologique si: gonocoque au retour d'Asie-Pacifique, CMI gonocoque > 0,125 mg/L, enfant
@@ -324,6 +330,7 @@ Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques e
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
 - [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées par Neisseria gonorrhoeae. 2025.](https://www.has-sante.fr/jcms/p_3604670/fr/recommandations-de-prise-en-charge-des-personnes-infectees-par-neisseria-gonorrhoeae)
 - [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Mycoplasma genitalium. 2025.](https://www.has-sante.fr/jcms/p_3604652/fr/traitement-curatif-des-personnes-infectees-par-mycoplasma-genitalium)
 - [HAS, ANRS, CNS. Prise en charge du patient atteint d'infection à trichomonas vaginalis. 2024.](https://www.has-sante.fr/jcms/p_3562494/fr/prise-en-charge-du-patient-atteint-d-infection-a-trichomonas-vaginalis)
@@ -339,7 +346,6 @@ Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques e
 
 ### Bibliographie en attente
 
-- [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
-- [Janier M et al; Société Française de Dermatologie (SFD). Balanite. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/balanites-f5f2cf585640275406ec42b19340d0c8.pdf)
+[Janier M et al; Société Française de Dermatologie (SFD). Balanite. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/balanites-f5f2cf585640275406ec42b19340d0c8.pdf)
 
 {{%/sources%}}

@@ -87,6 +87,7 @@ Complications des infections par les papillomavirus et incidence imputée entre 
 - 80% des hommes et des femmes sexuellement actifs seront infectés par les papillomavirus durant leur vie
 - Portage masculin: 20% des hommes sont porteurs d'HPV haut risque (*[Bruni 2023](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00305-4/fulltext#%20)*)
 - **Couverture vaccinale:** 41% des jeunes filles et 8% des garçons de 16 ans étaient vaccinés en 2022 en France métropolitaine contre 84% au Royaume-Uni (*Ameli*, *Inserm*)
+- Sur-dépistage du cancer du col: 16,6 % des femmes ([SPF](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-col-de-l-uterus/documents/bulletin-national/participation-au-programme-de-depistage-organise-du-cancer-du-col-de-l-uterus.-annee-2023-et-evolution-depuis-2017))
 
 > -- *BEH*
 

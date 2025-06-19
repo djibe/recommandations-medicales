@@ -6,10 +6,10 @@ description = "Taux de participation des Français au dépistage organisé des c
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-08-15T19:54:00+02:00"
 publishdate = "2021-08-18"
-lastmod = "2024-05-02"
+lastmod = "2025-06-19"
 specialites = []
-annees = "2024"
-sources = ["SPF"]
+annees = "2025"
+sources = ["Santé Publique France"]
 tags = ["cancer"]
 chart = true
 image = true
@@ -22,7 +22,7 @@ Trois cancers bénéficient en France d'un **dépistage organisé** par l'*Assur
 
 Pourtant, plus le cancer tue, moins les Français participent à sa prévention par le dépistage. Ainsi, le cancer colorectal, responsable de 17.100 décès annuels (2018, 2^e^ en mortalité) n'est recherché que par **34 %** des Français.
 
-Le taux maximal de participation au dépistage, qui atteint 59 %, concerne le cancer du col de l'utérus, responsable pour sa part de 1100 décès annuels (métropole 2018).
+Le taux maximal de participation au dépistage, qui atteint 55,8 %, concerne le cancer du col de l'utérus, responsable pour sa part de 1100 décès annuels (2023).
 
 Pour tous les dépistages, les taux de participation restent très en-dessous des attentes de santé publique.
 
@@ -32,10 +32,11 @@ Pour tous les dépistages, les taux de participation restent très en-dessous de
 
 Représentation des taux de participation aux dépistages organisés des cancers et mortalité associée à ces cancers.
 
-{{< figure-chart title="Participation au dépistage organisé des cancers par les Français (dépistages: col 2018-2020 - sein 2022-2023 - colorectal 2021-2022 et mortalité 2017). Dr JB Fron d'après dernières données Santé Publique France" >}}
+{{< figure-chart title="Participation au dépistage organisé des cancers par les Français (dépistages: col 2023 - sein 2022-2023 - colorectal 2021-2022 et mortalité 2017). Dr JB Fron d'après dernières données Santé Publique France" >}}
 
 ## Sources
 
+- [Santé Publique France. Participation au programme de dépistage organisé du cancer du col de l’utérus. Année 2023 et évolution depuis 2017. 2025.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-col-de-l-uterus/documents/bulletin-national/participation-au-programme-de-depistage-organise-du-cancer-du-col-de-l-uterus.-annee-2023-et-evolution-depuis-2017)
 - [Taux de participation au programme de dépistage organisé du cancer du sein 2022-2023 et évolution depuis 2005. Santé Publique France. 2024.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-sein/articles/taux-de-participation-au-programme-de-depistage-organise-du-cancer-du-sein-2022-2023-et-evolution-depuis-2005)
 - {{< references/beh-cancers-incidence >}}
 - [Santé Publique France. Cancer colorectal : un taux de participation aux tests de dépistage stable en 2021-2022. 23/03/2023.](https://www.santepubliquefrance.fr/les-actualites/2023/cancer-colorectal-un-taux-de-participation-aux-tests-de-depistage-stable-en-2021-2022)
@@ -51,7 +52,7 @@ const chartOptions1 = {
   series: [{
     name: 'Participation',
     type: 'column',
-    data: [59, 46.5, 34.3]
+    data: [55.8, 46.5, 34.3]
   }, {
     name: 'Mortalité',
     type: 'column',

@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-02-06T09:05:23+01:00"
 publishdate = "2024-12-26"
-lastmod = "2025-06-12"
+lastmod = "2025-06-19"
 specialites = ["gynécologie-obstétrique"]
 annees = "2025"
 sources = ["HAS", "SPILF", "CNGOF"]
@@ -136,7 +136,7 @@ Bandelette urinaire pour éliminer une pyélonéphrite.
 
 Un syndrome inflammatoire élevé doit faire rechercher une **forme compliquée** ou une **appendicite aiguë** aux *Urgences*. **Scanner** abdomino-pelvien injecté en cas de doute diagnostique.
 
-En cas d'[IST](/tags/ist/) découverte au décours, contrôle PCR sur auto-prélèvement vaginal (et suivi prolongé).
+En cas d'[IST](/tags/ist/) découverte au décours, contrôle PCR sur (auto)-prélèvement vaginal (et suivi prolongé).
 
 {{% /collapse %}}
 {{%collapse "Traitement des endométrites et salpingites" %}}
@@ -169,7 +169,8 @@ Cas particuliers:
 
 Selon le germe:
 
-- Mycoplasma genitalium: traiter uniquement si symptomatique en l'absence de co-infection
+- *Chlamydia trachomatis*: doxycycline 100 mg x 2/j pendant 10 jours (14 si hospitalisation)
+- *Mycoplasma genitalium*: traiter uniquement si symptomatique en l'absence de co-infection
   - [Moxifloxacine 400 mg](https://bdpm.ansm.sante.fr/medicament/65521531/extrait#tab-rcp) x 1/j pendant 14 jours
   - Pas de contrôle de la guérison
 
@@ -205,6 +206,7 @@ Prise en charge de l'endométrite du post-partum en l'absence de signes de gravi
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
 - [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Mycoplasma genitalium. 2025.](https://www.has-sante.fr/jcms/p_3604652/fr/traitement-curatif-des-personnes-infectees-par-mycoplasma-genitalium)
 - [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées par Neisseria gonorrhoeae. 2025.](https://www.has-sante.fr/jcms/p_3604670/fr/recommandations-de-prise-en-charge-des-personnes-infectees-par-neisseria-gonorrhoeae)
 - [HAS, SPILF. Choix et durées d'antibiothérapie dans les infections génitales hautes non compliquées. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3575605/fr/choix-et-durees-d-antibiotherapie-dans-les-infections-genitales-hautes-non-compliquees)
@@ -217,10 +219,6 @@ Prise en charge de l'endométrite du post-partum en l'absence de signes de gravi
 - [Alcaraz I, et al; SFD. Trichomonose. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/trichomonose-c45b526c66838139b708515093a8be44.pdf)
 - [Vexiau-Robert D, et al; SFD. Leucorrhées. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/leucorrhees-c145eb55e49c2c5c6b7aa0e28b8a77ca.pdf)
 - [Janier M, et al. Gonococcie. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/gonococcie-8e5167e17549b4912a1f1a4b3011eda7.pdf)
-
-### Bibliographie en attente
-
-[HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
 
 {{%/sources%}}
 {{% modal title="Facteurs de risque d'infection sexuellement transmissible" id="modal-risque-ist"%}}

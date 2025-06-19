@@ -9,7 +9,7 @@ synonyms = ["Homosexuel ou bisexuel masculin"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-22T17:43:41+02:00"
 publishdate = "2020-07-22"
-lastmod = "2024-09-06"
+lastmod = "2025-06-19"
 specialites = ["infectiologie"]
 annees = "2024"
 sources = ["HAS", "MinSanté"]
@@ -78,12 +78,13 @@ Bilans à proposer en cas de conduites sexuelles à risque, sérologies:
 
 ### Dépistage des IST
 
-- Dépistage tous les 3 mois du [VIH]({{% relref "vih-sida.md" %}})
-- Dépistage tous les 3 à 6 mois de *[Chlamydia trachomatis]({{% relref "chlamydia-trachomatis.md" %}})*
+Dépistage **tous les 3 mois** des [VIH]({{% relref "vih-sida.md" %}}) et *[Chlamydia trachomatis]({{% relref "chlamydia-trachomatis.md" %}})* si multi-partenaires.
 
 ### La PrEP
 
 Aborder la prophylaxie de pré-exposition VIH avec toutes les personnes ayant des rapports non protégés avec des personnes de statut virologique inconnu (voir [la PrEP]({{% relref "prophylaxie-preexposition-prep.md" %}})).
+
+> << Traitement post-exposition par doxycycline en prévention des IST bactériennes envisageable dans le cadre d'une discussion partagée chez les usagers de la prophylaxie préexposition (PrEP) du VIH à risque élevé (≥ 2 IST dans les 12 derniers mois). >> -- *HAS 2025*
 
 ### Préservatif
 
@@ -124,6 +125,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Avis n° 2024.0058/AC/SESPE du 29 août 2024 du collège de la Haute Autorité de santé relatif à la stratégie de vaccination contre le mpox. 2024.](https://www.has-sante.fr/jcms/p_3538025/fr/avis-n-2024-0058/ac/sespev-du-29-aout-2024-du-college-de-la-haute-autorite-de-sante-relatif-a-la-strategie-de-vaccination-contre-le-mpox)
 - [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)

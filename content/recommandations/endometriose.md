@@ -333,7 +333,8 @@ graph TB
 
 ### Bibliographie en attente
 
-[ESHRE Guideline Endometriosis. 2022.](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Endometriosis-guideline)
+- [Fritel X, et al. Douleurs pelviennes associées à l'Endométriose, conseils pour la pratique clinique. Un consensus formalisé d'experts par le CNGOF & Convergences PP. Gynécologie Obstétrique Fertilité & Sénologie. 2025.](https://www.sciencedirect.com/science/article/abs/pii/S2468718925001527)
+- [ESHRE Guideline Endometriosis. 2022.](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Endometriosis-guideline)
 
 {{%/sources%}}
 {{% modal title="Échelle EHP-5" id="modal-score-ehp5"%}}

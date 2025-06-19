@@ -26,7 +26,7 @@ flowchart = true
 
 - La cholangite biliaire primitive (CBP ou cirrhose biliaire primitive) est une hépatopathie auto-immune causant une cholestase chronique. Elle atteint principalement les femmes après 40 ans
 - Les symptômes de la cholangite biliaire primitive sont peu spécifiques: souvent asymptomatique voire prurit ou fatigue
-- Le bilan retrouve une cholestase (PAL > 1,5 N) et des anticorps anti-mitochondries très spécifiques, l'échographie abdominale est normale
+- Le bilan retrouve une cholestase et des anticorps anti-mitochondries très spécifiques, l'échographie abdominale est normale
 - La prise en charge de la cholangite biliaire primitive (CBP) est spécialisée par le gastro-entérologue. Le traitement de référence est l'acide ursodesoxycholique (AUDC) et pour le prurit la cholestyramine, la rifampicine et le bézafibrate
 - Des comorbidités sont systématiquement recherchées: sclérodermie, Gougerot, maladie cœliaque, hypothyroïdie, ostéoporose
 - [Annuaire des centres de compétence](https://www.filfoie.com/ou-consulter/carte-interactive/?fwp_type_de_public=adulte&fwp_rseau_centre=mivb-h) de la cirrhose biliaire primitive

@@ -18,7 +18,8 @@ icd10 = ["R04.0"]
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow > Kanban"
+todo = "descr > summary > liens > photo > newsletter > Kanban"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -32,7 +33,8 @@ TODO: (at the end)
 
 Épistaxis
 : Saignement originaire de la narine, de la cavité nasale ou du nasopharynx, le plus souvent du septum nasal (tâche vasculaire).
-: Sévère en cas de 
+: Elle est dite sévère en cas de d'obstruction des voies aériennes, de retentissement hémodynamique ou de durée dépassant 30 minutes (par 24h).
+: La prévalence dépasse 50% chez l'enfant de moins de 10 ans, et 9% sont récidivantes.
 
 ### Abréviations
 
@@ -43,7 +45,11 @@ AAO-HNS
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-En cas d'épistaxis: sévère ou résistant à la compression, de coagulopathie, tumeur du nasopharynx, malformation vasculaire cervico-faciale, traumatisme facial récent ou chirurgie naso-sinusienne dans le mois, le traitement est d'emblée spécialisé.
+En cas d'atteinte hémodynamique ou d'obstruction des voies aériennes: appel du SAMU. Évaluation urgente en cas de TODO:
+
+TODO: p10
+
+En cas d'épistaxis: sévère ou résistante à la compression, trouble de la coagulation, tumeur du nasopharynx, malformation vasculaire cervico-faciale, traumatisme facial récent ou chirurgie naso-sinusienne dans le mois, le traitement est d'emblée spécialisé.
 
 Saignement mineur sans trouble hémodynamique ou atteinte respiratoire; doute sur risque de récidive importante: urgences, sinon SAMU.
 
@@ -58,6 +64,7 @@ Les enfants en bonne santé nécessitent rarement une consultation pour épistax
 - Traitements en cours: anticoagulants, antiagrégants plaquettaires, corticoïdes ou autres traitements locaux
 - Épistaxis
   - Ancienneté, fréquence, volume
+  - Durée de l'épisode
   - Technique de compression
 
 ### Examen clinique
@@ -91,6 +98,18 @@ La prise en charge de l'épistaxis est urgente en cas de saignement majeur (d'au
 
 Ligature artérielle endoscopique
 
+Chez l'enfant avec épistaxis récidivantes, l'humidification des 
+
+{{% /collapse %}}
+{{%collapse "Prise en charge de l'appendice aiguë" "show" %}}
+
+{{< mermaid title="Prise en charge de la suspicion d'appendice aiguë par le médecin généraliste. Dr JB Fron d'après SFCD 2021 et WSES 2020" >}}
+graph TB
+  épistaxis["<b>Épistaxis</b>"] --> gravité("Signe de gravité ?<br>—<br>≥ 1 parmi:<br>- Saignement majeur<br>- Retent. hémodynamique<br>- Obstruction des<br>voies respiratoires<br>- Durée > 30 min") -- Non --> étiologie("Risque de gravité ?<br>—<br>- Tumeur du nasopharynx<br>- Trouble de la coagulation<br> - Malformation vasculaire<br>cervico-faciale<br>- Traumatisme facial<br>récent<br>- Chirurgie naso-sinusienne<br>dans le mois")
+    épistaxis -- Oui --> urgences("SAMU ou Urgences")
+  style épistaxis stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
+
 {{% /collapse %}}
 {{%sources%}}
 
@@ -100,7 +119,7 @@ Ligature artérielle endoscopique
 
 - Collège ORL
 - Prescrire
-- <https://www.cfp.ca/content/67/6/430>
+- [Yan T, Goldman RD. Épistaxis récurrente chez l'enfant. Can Fam Physician. 2021.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8202752/)
 - <https://www.sforl.org/wp-content/uploads/2020/03/COVID-19-Epistaxis-Management.pdf>
 - <https://www.cochrane.org/fr/CD004328/acide-tranexamique-pour-aider-traiter-les-saignements-de-nez-epistaxis>
 - [SFORL. Prise en charge des épistaxis de l'adulte. Recommandation pour la pratique clinique. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/02/Prise-en-charge-des-epistaxis-adulte.pdf)
