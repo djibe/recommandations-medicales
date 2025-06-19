@@ -142,11 +142,11 @@ Les tatouages éphémères noirs exposent au risque de dermite de contact.
 
 ### Haute altitude
 
-La haute altitude est déconseillée chez le nourrisson (mort subite augmentée après 1600 m -- [fiche bébé en altitude](https://www.ffme.fr/wp-content/uploads/2019/06/bebe-altitude.pdf)). Au-delà 3500 m, vitesse d'ascension recommandée de 400 mètres par jour.
+La haute altitude est déconseillée chez le nourrisson (mort subite augmentée après 1600 m -- [fiche bébé en altitude](https://www.ffme.fr/wp-content/uploads/2019/06/bebe-altitude.pdf)). Chez l'adulte, au-delà 3500 mètres, la vitesse d'ascension maximale est de 400 mètres par jour.
 
-Symptômes du mal aigu des montagnes, après 4 à 8 heures d'intervalle libre, en général au-dessus de 3500 mètres: **céphalées** (96%), insomnie (70%), anorexie (38%), nausées (35%), œdèmes. Les symptômes régressent dès le retour à une altitude inférieure.
+Symptômes du mal aigu des montagnes (après 4 à 8 heures d'intervalle libre, en général au-dessus de 3500 mètres): **céphalées** (96%), insomnie (70%), anorexie (38%), nausées (35%), œdèmes. Les symptômes régressent dès le retour à une altitude inférieure.
 
-Prévention du Mal Aigu des Montagnes (MAM ou mal des montagnes):
+#### Prévention du Mal Aigu des Montagnes (MAM ou mal des montagnes)
 
 - Ne pas monter trop vite, trop haut
 - Bonne hydratation

@@ -266,13 +266,13 @@ graph TB
 - {{< references/afef-foie-non-invasif >}}
 - [Collège Français des Enseignants en Rhumatologie (COFER). Pathologie du fer chez l'adulte et l'enfant. Item 219 UE 8. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-24-0.php)
 - [Brissot P. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. SNFGE et AFEF. 2019. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/brissot_2019_0_0.pdf)
-- [Pilling LC et al. Common conditions associated with hereditary haemochromatosis genetic variants: cohort study in UK Biobank. BMJ. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334179/)
-- [Brissot P et al. Haemochromatosis. Nat Rev Dis Primers. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7775623/)
+- [Pilling LC, et al. Common conditions associated with hereditary haemochromatosis genetic variants: cohort study in UK Biobank. BMJ. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334179/)
+- [Brissot P, et al. Haemochromatosis. Nat Rev Dis Primers. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7775623/)
 - [HAS. Hémochromatose liée au gène HFE (type 1). Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_592230/fr/ald-n-17-hemochromatose)
 - [HAS. Prise en charge de l'hémochromatose liée au gène HFE (hémochromatose de type 1). 2005.](https://www.has-sante.fr/jcms/c_432802/fr/prise-en-charge-de-l-hemochromatose-liee-au-gene-hfe-hemochromatose-de-type-1)
 
 ### Bibliographie en attente
 
-- [Adams P et al. Therapeutic recommendations in HFE hemochromatosis for p.Cys282Tyr (C282Y/C282Y) homozygous genotype. Hepatol Int. 2018.](https://link.springer.com/article/10.1007/s12072-018-9855-0) ([VF (PDF)](https://www.hemochromatose.org/wp-content/uploads/2018/05/Recommandations-th%C3%A9rapeutiques-2018.pdf))
+- [Adams P, et al. Therapeutic recommendations in HFE hemochromatosis for p.Cys282Tyr (C282Y/C282Y) homozygous genotype. Hepatol Int. 2018.](https://link.springer.com/article/10.1007/s12072-018-9855-0) ([VF (PDF)](https://www.hemochromatose.org/wp-content/uploads/2018/05/Recommandations-th%C3%A9rapeutiques-2018.pdf))
 
 {{%/sources%}}

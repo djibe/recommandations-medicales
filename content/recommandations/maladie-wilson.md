@@ -229,6 +229,6 @@ Le rythme de suivi des consultations spécialisées est adapté à la phase de t
 
 ### Bibliographie en attente
 
-[European Association for Study of Liver. EASL Clinical Practice Guidelines: Wilson's disease. J Hepatol. 2012.](https://www.journal-of-hepatology.eu/article/S0168-8278(11)00812-9/fulltext)
+[European Association for Study of Liver. EASL Clinical Practice Guidelines: Wilson's disease. J Hepatol. 2025.](https://www.journal-of-hepatology.eu/article/S0168-8278(24)02706-5/fulltext)
 
 {{%/sources%}}

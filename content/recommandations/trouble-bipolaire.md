@@ -175,7 +175,7 @@ L'interrogatoire de l'entourage est important, une fois l'accord du patient obte
 - Liste des **épisodes de rupture avec le fonctionnement psychique antérieur**
   - Début souvent brutal, durée de 2 semaines (4 jours pour l'hypomanie) à 4-5 mois
   - Caractère saisonnier ou non (≥ 2 épisodes saisonniers en 2 ans)
-  - Rechercher une hypomanie chez l'adulte: questionnaire *Trouble de l'humeur* (Mood Disorder Questionnaire), questionnaire hypomania check list (HCL) TODO: Goes62
+  - Rechercher une hypomanie chez l'adulte: questionnaire *Trouble de l'humeur* ([Mood Disorder Questionnaire](https://www.psychiaclic.fr/media/pages/ressources/mdq-mood-disorder-questionnaire/b892acac89-1633341130/mdq-auto-questionnaire.pdf)), questionnaire [hypomania check list](https://www.ifemdr.fr/echelles-cliniques-avec-les-patients-bipolaires/) (HCL-32)
   - Rechercher des **symptômes psychotiques**  
     Ils sont congruents à l'humeur (ruine dans la dépression, mégalomanie dans l'épisode maniaque).
   - Sévérité des troubles du sommeil

@@ -161,6 +161,6 @@ Le suivi de l'hépatite auto-immune est spécialisé et dépend de l'activité d
 
 ### Bibliographie en attente
 
-[European Association for the Study of the Liver. EASL Clinical Practice Guidelines: Autoimmune hepatitis. J Hepatol. 2015.](https://www.journal-of-hepatology.eu/article/S0168-8278(15)00458-4/fulltext)
+[European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of autoimmune hepatitis. J Hepatol. 2025.](https://www.journal-of-hepatology.eu/article/S0168-8278(25)00173-4/fulltext)
 
 {{%/sources%}}

@@ -385,7 +385,7 @@ Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler.
 ### Bibliographie en attente
 
 - [HAS, ANRS, CNS. Prise en charge des personnes infectées par les virus de l'hépatite B, C ou D. 2024.](https://www.has-sante.fr/jcms/p_3324682/fr/prise-en-charge-des-personnes-infectees-par-les-virus-de-l-hepatite-b-c-ou-d)
-- [European Association for the Study of the Liver. EASL 2017 Clinical Practice Guidelines on the management of hepatitis B virus infection. J Hepatol. 2017.](https://www.journal-of-hepatology.eu/article/S0168-8278(17)30185-X/fulltext)
+- [European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of hepatitis B virus infection. J Hepatol. 2025.](https://www.journal-of-hepatology.eu/article/S0168-8278(25)00174-6/fulltext)
 
 {{%/sources%}}
 {{% modal title="Score PAGE-B du risque de CHC" id="modal-pageb"%}}
