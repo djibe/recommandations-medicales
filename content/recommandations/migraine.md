@@ -402,13 +402,14 @@ Efficacité prouvée: Neuromodulation électrique. Sur prescription spécialisé
 > -- *Ducros 2021 Table 6*
 {{%/info%}}
 
-**Objectif:** réduire le nombre de jours de céphalées au moins de moitié si *migraineux épisodique* (< 15 j/m) ou au moins 30% si *migraineux chronique* (≥ 15 j/m). Réévaluation au 3^e^ mois.  
-Bénéfices recherchés: réduire la consommation d'antalgiques, l'intensité et la durée des crises (et de l'aura) et améliorer la qualité de vie. Les objectifs doivent être expliqués au patient, ainsi que l'importance de l'**observance**.
+**Objectif du traitement de fond antimigraineux:** réduire le nombre de jours de céphalées au moins de moitié pour la *migraine épisodique* (< 15 jours par mois) ou d'au moins 30% si *migraine chronique* (≥ 15 j/m). Réévaluation au **3^e^ mois**.
+
+Bénéfices recherchés: réduire la consommation d'antalgiques, l'intensité et la durée des crises (et de l'aura) et améliorer la qualité de vie. Les objectifs doivent être **expliqués au patient**, ainsi que l'importance de l'==observance==.
 
 Prise en charge par une traitement de fond même si le traitement de crise est efficace (prévient la surconsommation).  
 Il ne supprime pas les crises mais réduit leur fréquence et leur intensité. **[Agenda migraineux](https://www.sfetd-douleur.org/wp-content/uploads/2019/08/agenda_cephalees_chu2015.pdf)** afin d'évaluer son efficacité.
 
-Autres thérapies avec efficacité prouvée: relaxation, rétro-contrôle (biofeedback) et les thérapies cognitives et comportementales (TCC) de gestion du stress.
+**Autres thérapies** avec efficacité prouvée: relaxation, rétro-contrôle (biofeedback) et les thérapies cognitives et comportementales (TCC) de gestion du stress.
 
 **NB.** Ne pas recommander homéopathie ou manipulations cervicales dans la prévention de la migraine.
 
@@ -423,7 +424,7 @@ Prise en charge par traitement de fond au moins 3 mois avant de conclure à une 
   Débuter à 40 mg x 2-3/j avec paliers de 40 mg/semaine (*Prescrire*). Pas d'arrêt brutal.
   Effets indésirables: asthénie, mauvaise tolérance à l'effort; Contre-indications des BB.
   - [Métoprolol](https://bdpm.ansm.sante.fr/medicament/62837759/extrait#tab-rcp) LP 50-200 mg le matin
-  - Alternatives aux bêtabloquants: amitriptyline, candésartan ou topiramate
+  - Alternatives aux bêtabloquants: amitriptyline 25-150 mg/j, candésartan ou topiramate
 - Migraine chronique {{%class%}}(≥ 15 j/mois){{%/class%}}
   - Topiramate 50-200 mg en 1-2 prises  
     Prescription annuelle réservée au neurologue/pédiatre/algologue chez la fille et femme en âge de procréer (*ANSM 2024*)
@@ -465,7 +466,7 @@ Autres traitements de fond (dose min-max en mg) et niveau de recommandation *SFE
 
 Autres traitements de fond antimigraineux pouvant être proposés en migraine épisodique (< 15 j/mois):
 
-- Acupuncture, électroacupuncture
+- Acupuncture, électro-acupuncture
 - Coenzyme Q10 300 mg/j (sans ordonnance)
 - Mélatonine libération immédiate 3 mg
 - TENS supra-orbitaire
@@ -582,6 +583,7 @@ graph TB
 - [Donnet A, et al. Severe migraine and its control: A proposal for definitions and consequences for care. Revue neurologique. 2021.](https://doi.org/10.1016/j.neurol.2020.11.012)
 - {{< references/esc-cvd >}}
 - Prescrire Redaction. Migraine : prévention des crises chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2021.
+- [Ha H, Gonzalez A. Migraine Headache Prophylaxis. Am Fam Physician. 2019.](https://www.aafp.org/pubs/afp/issues/2019/0101/p17.html)
 - [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face. 2019.](https://www.cen-neurologie.fr/second-cycle/migraine-nevralgie-du-trijumeau-algies-face)
 - [Lanteri-Minet M, et al. Prise en charge diagnostique et thérapeutique de la migraine chez l'adulte et chez l'enfant. Revue Neurologique. 2013. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20sur%20la%20prise%20en%20charge%20diagnostique%20et%20th%C3%A9rapeutique%20de%20la%20migraine%20chez%20l%2527adulte%20et%20chez%20l%2527enfant%20(1).pdf)
 - [Mukamal KJ, et al. Weather and air pollution as triggers of severe headaches. Neurology. 2009.](https://pubmed.ncbi.nlm.nih.gov/19273827/)

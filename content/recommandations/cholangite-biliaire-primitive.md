@@ -6,6 +6,7 @@ prefix = "la "
 description = "Recommandations pour le diagnostic et la prise en charge de la cholangite biliaire primitive CBP ou cirrhose. Cholestase, acide ursodesoxycholique, suivi gastro"
 synonyms = ["Cirrhose biliaire primitive"]
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Dr C. CORPECHOT (Filfoie)"
 date = "2024-01-30T10:45:25+01:00"
 publishdate = "2024-01-30"
 lastmod = "2025-06-19"
@@ -222,6 +223,8 @@ graph TB
 
 {{% /collapse %}}
 {{%sources%}}
+
+{{< youtube id="g4HlzSXStO0" title="Maladies cholestatiques de l'adulte CBP et CSP (Christophe Corpechot) (Filière de Santé Maladies Rares du Foie - FILFOIE)" >}}
 
 - Prescrire Redaction. Bilan 2024 des médicaments à écarter : gastro-entérologie. Rev Prescrire. 2023.
 - [Lindor KD, et al. Primary Biliary Cholangitis: 2021 Practice Guidance update from the American Association for the Study of Liver Diseases. Hepatology. 2022.](https://journals.lww.com/hep/fulltext/2022/04000/primary_biliary_cholangitis__2021_practice.24.aspx)
