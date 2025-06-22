@@ -209,11 +209,19 @@
 <meta name="apple-touch-fullscreen" content="yes">
 <script>
   // Register the service worker
+  {{ if not (eq .Permalink (print .Site.BaseURL "clear/")) }}
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
       navigator.serviceWorker
         .register('/sw.js')
-        .catch(error => console.log(`Service worker registration failed: ${error}`))
+        .catch(error => console.error(`Service worker registration failed: ${error}`))
     });
   }
+  {{ else }}
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker
+      .register('/sw-clear.js')
+      .catch(err => console.error(`Service worker registration failed: ${error}`))
+  }
+  {{ end }}
 </script>
