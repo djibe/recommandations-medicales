@@ -88,9 +88,7 @@ Sur la feuille de soin papier écrire: CCX pour CSO ou CSE; CCE pour MPH. Entrer
   </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
   <div aria-labelledby="enfant-tab" class="tab-pane fade" id="enfant-panel" role="tabpanel">
 
-Cotations pour le petit enfant.
-
-### Cotations des consultations de l'enfant {.typography-headline-5}
+### Cotations des consultations du petit enfant {.typography-headline-5}
 
 Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de vie sont sur l'assurance *Maternité* avec pour date de Maternité la date de naissance de l'enfant, tous les autres sont en *Maladie*.
 
@@ -100,7 +98,7 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
 | G + MEG                                             | Consultation avant 6 ans                                                                                                               |             35 |
 | VG + MEG + MD                                       | Visite avant 6 ans                                                                                                                     |             45 |
 | [COD]({{% relref "examens-suivi-nourrisson.md" %}}) | Examens à 13-14j, M1, M2, M3, M4, M5,<br>M11, M12, M16-18 puis à 2, 3, 4 et 5 ans (à 100%)                                             |             35 |
-| COE                                                 | Examen obligatoire 8 jours, 9-10 mois<br> ou 24-25 mois (à 100%, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |             54 |
+| COE                                                 | Examen obligatoire 8 jours, 8 mois<br> ou 23-24 mois (à 100%, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |             54 |
 | CSO*                                                | Suivi 3-12 ans en obésité (max 2/an, à 100%)                                                                                           |           47,5 |
 | CSE*                                                | Suivi enfant autiste (1/an)                                                                                                            |           47,5 |
 | MPH*                                                | Remplissage du dossier MDPH                                                                                                            |             60 |
