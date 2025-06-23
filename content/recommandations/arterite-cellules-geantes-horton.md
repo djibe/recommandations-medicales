@@ -8,7 +8,7 @@ synonyms = ["Artérite gigantocellulaire", "artérite temporale"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-03-03T11:23:03+01:00"
 publishdate = "2024-03-08"
-lastmod = "2025-01-16"
+lastmod = "2025-06-23"
 specialites = ["rhumatologie"]
 annees = "2024"
 sources = ["PNDS"]
@@ -18,16 +18,16 @@ sctid = "400130008"
 icd10 = ["M31.6"]
 image = true
 imageSrc = "Cellules géantes sur une biopsie de l'artère temporale (BAT) signant une artérite à cellules géantes (ou maladie de Horton). Nephron, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "rankok | flow PNDSp13/50, relecture demandée"
+todo = "rankok | flow PNDSp13/50, relecture faite"
 +++
 
 {{%article-summary%}}
 
-- L'artérite à cellules géantes ou maladie de Horton est rare et atteint surtout les femmes originaires d'Europe du Nord après 70 ans
+- L'artérite à cellules géantes ou maladie de Horton est rare et atteint 3 femmes pour 1 homme, toujours après 50 ans (age moyen de 70 ans)
 - Les symptômes de l'artérite à cellules géantes sont dominés par des [céphalées](/tags/cephalees/) inhabituelles (récentes, nocturnes ou matinales), une claudication de la mâchoire, une hyperesthésie du scalp ou des symptômes visuels (signe de gravité: baisse d'acuité visuelle, amaurose, diplopie)
 - Une pseudo-polyarthrite rhizomélique (PPR) est fréquemment associée avec des arthralgies et des myalgies des épaules et du bassin
 - Le bilan affirme un syndrome inflammatoire quasi constant: NFS, CRP supérieure à 10 mg/L, fibrinogène élevés
-- Adresser en semi-urgence toute suspicion de maladie de Horton au spécialiste (rhumatologue, interniste) du centre de compétence ([annuaire](https://www.fai2r.org/les-centres-fai2r/centres-competence/)) pour affirmer le diagnostic par biopsie de l'artère temporale (BAT)
+- Adresser en semi-urgence toute suspicion de maladie de Horton au spécialiste (rhumatologue, interniste) du centre de compétence ([annuaire](https://www.fai2r.org/les-centres-fai2r/centres-competence/)) pour affirmer le diagnostic (échographie ou biopsie de l'artère temporale BAT, imagerie des gros vaisseaux ...)
 - La [corticothérapie à forte dose]({{% relref "corticoides.md" %}}) est immédiate en cas de symptômes visuels (intra-veineuse) ou en cas de signes céphaliques avec CRP > 10 mg/L (prednisone 0,7-1 mg/kg/j, max 80 mg/j)
 - Mesures associées aux corticoïdes: activité physique, [traitement anti-ostéoporotique]({{% relref "osteoporose.md" %}}) systématique, supplémentation en [vitamine D]({{% relref "vitamine-d.md" %}}), évaluer les [apports en calcium]({{% relref "apports-calcium.md" %}}), [vaccinations]({{% relref "vaccination.md" %}}) (grippe, covid, pneumocoque -- vaccins vivants contre-indiqués)
 - Prise en charge du [risque cardiovasculaire](/tags/risque-cardiovasculaire/) à long terme (tabac, activité physique, dyslipidémie)

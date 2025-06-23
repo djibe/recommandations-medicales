@@ -93,7 +93,7 @@ Causes d'hypocalcémie chronique, évaluées selon le niveau de PTH:
 
 - Hypoparathyroïdie aiguë post-parathyroïdectomie (PTH basse)
 - Autres hypocalcémies aiguës (PTH élevée)
-  - Précipitation du calcium intravasculaire: rhabdomyolyse, lyse tumorale, iatrogène (citrate, foscarnet, phosphate)
+  - Précipitation du calcium intravasculaire: rhabdomyolyse, lyse tumorale, iatrogène (citrate, foscarnet, phosphore)
   - Précipitation du calcium tissulaire: rhabdomyolyse, pancréatite aiguë
   - Transfert du calcium: Syndrome de l'os affamé (après parathyroïdectomie ou reprise d'activité après immobilisation prolongée), alcalose respiratoire aiguë (ex. au cours de la << spasmophilie >>, hypocalcémie ionisée aiguë)
 
@@ -182,7 +182,7 @@ La prise en charge de l'hypocalcémie est principalement étiologique.
 graph TB
   hypocalcémie["<b>Hypocalcémie</b><br>—<br>Calcémie &lt; 2,2 mmol/L"] -- Albumine couplée --> corrigée("- Calcul de la <br>calcémie corrigée<br>- Clinique") -- "CaCorr 1,8 - 2,2,<br>chronique et<br>asymptomatique" --> ambulatoire("<b>Bilan ambulatoire</b><br>—<br>- Antécédents<br>- Clinique<br>- ECG") --> bilan("- Créatinine<br>- PTH<br>- Phosphatémie<br>- Calciurie 24h<br>- 25 OH vitD") -- "PTH ↓ ou N" --> hypoparathyroïdie(Hypoparathyroïdie) --> endocrinologue(Endocrinologue)
   bilan -- PTH ↑ --> phosphatémie("Phosphatémie ?")
-    bilan -- "Créatinine ↑↑<br>et phosphates ↑" --> insuffisance("Insuffisance rénale<br>sévère")
+    bilan -- "Créatinine ↑↑<br>et phosphore ↑" --> insuffisance("Insuffisance rénale<br>sévère")
     hypocalcémie -- "Calcémie ionisée couplée<br>&lt; 1,1" --> ionisée("Hypercalcémie vraie:<br>- Antécédents<br>- Clinique") -- "&lt; 1,<br>aiguë ou<br>symptomatique" --> urgences("Urgences voire SAMU")
       corrigée -- "CaCorr &lt; 1,8,<br>aiguë ou<br>symptomatique" --> urgences
     hypocalcémie -- "Sans albumine<br>ou Ca ionisée" --> urgences

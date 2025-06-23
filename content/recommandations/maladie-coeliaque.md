@@ -203,7 +203,7 @@ Au diagnostic, 30% ont aspect endoscopique normal. Les biopsies dudénales (≥ 
 - Folates et [vitamine B12]({{% relref "carence-vitamine-b12.md" %}})
 - TSH
 - ASAT, ALAT, GGT
-- Calcémie, phosphates
+- Calcémie, phosphore
 - Vitamine D
 - Sérologie VHB
 - Adulte: **ostéodensitométrie** au diagnostic puis tous les 2-5 ans selon la densité osseuse (*ESsCD 2019*)
@@ -243,7 +243,7 @@ Suivi de la maladie cœliaque par les **gastro-entérologue** et **diététicien
 {{< table title="Suivi de la maladie cœliaque" >}}
 | Période          | Bilan associé |
 |------------------|---------------|
-| **Au diagnostic**<br>Médecin et diététicien | - Examen physique, y compris l'IMC<br>- Éducation sur la MC<br>- Conseils diététiques par un diététicien qualifié<br>- Recommander un dépistage familial (DQ2/D8 et sérologie cœliaque)<br>- Recommander l'adhésion à une association de patients<br>- Sérologie cœliaque (si elle n'a pas déjà été réalisée) et VHB<br>- Analyses de routine (NFS, ferritine, vitamines D, B9, B12, [TSH](/tags/tsh/),<br>enzymes hépatiques, calcium, phosphate)<br>- Ostéodensitométrie au moment du diagnostic avant 35 ans |
+| **Au diagnostic**<br>Médecin et diététicien | - Examen physique, y compris l'IMC<br>- Éducation sur la MC<br>- Conseils diététiques par un diététicien qualifié<br>- Recommander un dépistage familial (DQ2/D8 et sérologie cœliaque)<br>- Recommander l'adhésion à une association de patients<br>- Sérologie cœliaque (si elle n'a pas déjà été réalisée) et VHB<br>- Analyses de routine (NFS, ferritine, vitamines D, B9, B12, [TSH](/tags/tsh/),<br>enzymes hépatiques, calcium, phosphore)<br>- Ostéodensitométrie au moment du diagnostic avant 35 ans |
 | **3-4 mois**<br>Médecin et diététicien | - Évaluer les symptômes et les modifications du mode de vie<br>Évaluation diététique<br>Sérologie cœliaque (transglutaminase IgA-TG2)|
 | **6 mois**<br>Médecin (à distance) | - Évaluer les symptômes<br>- Évaluation diététique<br>- Sérologie cœliaque<br>- Recontrôler les autres anomalies du bilan initial |
 | **12 mois**<br>Médecin et diététicien | - Évaluer les symptômes<br>- Examen physique<br>- Enfant: croissance<br>- Évaluation diététique<br>- Sérologie cœliaque<br>- Recontrôler le bilan initial<br> ± biopsies du grêle si persistance des symptômes |

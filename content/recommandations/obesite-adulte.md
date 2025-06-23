@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-19T13:21:51+02:00"
 publishdate = "2023-07-27"
-lastmod = "2024-01-29"
+lastmod = "2025-06-23"
 specialites = ["endocrinologie"]
 annees = "2023"
 sources = ["HAS", "FFN"]
@@ -35,7 +35,7 @@ flowchart = true
 - Indications à la chirurgie bariatrique: IMC ≥ 40 ou ≥ 35 avec comorbidité pouvant s'améliorer (HTA, SAHOS, DT2, NASH) avec échec des prises en charges antérieures (voir [Niveau adapté](#niveau-adapté-de-prise-en-charge-et-chirurgie-bariatrique))
 - Dépister les complications de l'obésité (voir *Dépistage*)
 - Les mesures de prise en charge de l'obésité de l'adulte sont: activité physique 150 à 300 minutes d'intensité modérée par semaine, perte de poids de 5 à 15%, évaluation nutritionnelle et sensations alimentaires, éducation thérapeutique, rappeler l'absence d'interdits alimentaires, soutien psychologique, association de patients *CNAO*
-- Les prescriptions (dont GLP-1) sont réservées au nutritionniste
+- Les prescriptions de GLP-1 ou GLP-1/GIP ne sont pas remboursables en l'absence de diabète
 - [Adaptation des antibiotiques](https://abxbmi.com) chez le sujet en situation d'obésité
 
 {{%/article-summary%}}
@@ -152,6 +152,12 @@ FFN
 
 FRCV
 : facteur de risque cardiovasculaire
+
+GIP
+: agoniste du récepteur du peptide insulinotrope dépendant du glucose ({{%lang%}}glucose-dependent insulinotropic polypeptide{{%/lang%}})
+
+GLP-1
+: {{lang}}glucagon-like peptide-1{{/lang}} (ou aGLP-1 ou arGLP-1)
 
 HAS
 : Haute Autorité de Santé
@@ -324,12 +330,12 @@ Les indications à une chirurgie bariatrique avec conditions sont:
 
 1. IMC ≥ 40 kg/m²  
   ou IMC ≥ 35 avec au moins une comorbidité pouvant s'améliorer après la chirurgie (ex: HTA, SAHOS et autres troubles respiratoires sévères, diabète de type 2, maladies ostéoarticulaires invalidantes, stéato-hépatite non alcoolique)
-1. IMC 30-35 avec [diabète type 2]({{% relref "diabete-type-2.md" %}}) non contrôlé malgré suivi pluridisciplinaire pendant 12 mois (*HAS 2022*). Au cas par cas selon *SFD 2023*.
-2. Échec d'un traitement médical, nutritionnel, diététique et psychothérapeutique bien conduit pendant 6 à 12 mois, en l'absence de perte de poids suffisante ou en l'absence de maintien de la perte de poids
-3. Patient bien informé
-4. Évaluation et prise en charge préopératoires pluridisciplinaires pendant plusieurs mois
-5. Patients ayant compris et accepté la nécessité d'un suivi médical et chirurgical à long terme
-6. Risque opératoire acceptable
+2. IMC 30-35 avec [diabète type 2]({{% relref "diabete-type-2.md" %}}) non contrôlé malgré suivi pluridisciplinaire pendant 12 mois (*HAS 2022*). Au cas par cas selon *SFD 2023*.
+3. Échec d'un traitement médical, nutritionnel, diététique et psychothérapeutique bien conduit pendant 6 à 12 mois, en l'absence de perte de poids suffisante ou en l'absence de maintien de la perte de poids
+4. Patient bien informé
+5. Évaluation et prise en charge préopératoires pluridisciplinaires pendant plusieurs mois
+6. Patients ayant compris et accepté la nécessité d'un suivi médical et chirurgical à long terme
+7. Risque opératoire acceptable
 
 > -- Indications à la chirurgie bariatrique selon *HAS 2009*
 
@@ -369,6 +375,8 @@ La prise en charge de l'obésité associe:
   - Composante émotionnelle: psychothérapie TCC, pleine conscience
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Vaccination: valence coqueluche à chaque rappel du dTPolio (*HCSP 2024*)
+- Médicaments injectables aGLP-1 (liraglutide Saxenda®, sémaglutide Wegovy®) et GLP-1/GIP (tirzépatide Mounjaro®)  
+  Aucun n'est remboursé en l'absence de diabète.
 - Conséquences
   - Estime de soi, confiance en soi, culpabilité, isolement, perte de motivation
   - Hypertension artérielle: privilégier IEC/ARA2 et anticalciques avant les bêtabloquants et thiazidiques
@@ -441,6 +449,7 @@ graph TB
 
 {{< youtube id="Uyel7_curVU" title="Que faire face à un patient en situation d'obésité ? (HAS)" >}}
 
+- [ANSM. Analogues du GLP-1 indiqués dans le traitement de l'obésité : l'ANSM fait évoluer leurs conditions de prescription et de délivrance. 20/06/2025.](https://ansm.sante.fr/actualites/analogues-du-glp-1-indiques-dans-le-traitement-de-lobesite-lansm-fait-evoluer-leurs-conditions-de-prescription-et-de-delivrance)
 - [HAS, ANRS. Traitement de la Covid-19. 22/12/2023.](https://www.has-sante.fr/jcms/p_3447571/fr/traitement-de-la-covid-19)
 - [HAS. Guide du parcours de soins : surpoids et obésité de l'adulte. Guide parcours de soins. 2023.](https://www.has-sante.fr/jcms/p_3408871/fr/guide-du-parcours-de-soins-surpoids-et-obesite-de-l-adulte)
 - [HAS. Chirurgie métabolique : traitement chirurgical du diabète de type 2 - Rapport d'évaluation. 10/10/2022.](https://www.has-sante.fr/jcms/p_3303025/fr/chirurgie-metabolique-traitement-chirurgical-du-diabete-de-type-2-rapport-d-evaluation)
@@ -493,5 +502,10 @@ graph TB
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}
 
 {{< traitements/regime-mediterraneen >}}
+
+{{% /modal %}}
+{{% modal title="Agonistes du récepteur GLP-1" id="modal-glp1"%}}
+
+{{< traitements/glp1 >}}
 
 {{% /modal %}}

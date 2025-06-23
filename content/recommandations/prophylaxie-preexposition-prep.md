@@ -272,7 +272,7 @@ Le suivi du patient avec PrEP est nécessaire tous les 2 à 6 mois. Le suivi est
 |:-------:|-------------|------------|
 | 1 mois  | - Sérologie VIH<br>- Créatininémie, CKD-EPI | ßHCG non systématique |
 | 4 mois  | - Idem + IST<br>- ALAT  | Clairance ≥ 90: bilan annuel<br>70-90 ou âge ≥ 55: 6 mois<br>< 70: 3 mois |
-| Trimestriel | - Sérologie VIH, syphilis<br>- IST, ALAT, phosphates, ßHCG | Rythme de la créatinine selon la clairance |
+| Trimestriel | - Sérologie VIH, syphilis<br>- IST, ALAT, phosphore, ßHCG | Rythme de la créatinine selon la clairance |
 | Annuel  | - Sérologie VHC*<br>- Protéinurie/créatininurie sur échantillon | |
 {{< /table >}}
 

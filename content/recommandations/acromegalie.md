@@ -103,27 +103,26 @@ L'**IRM hypophysaire** retrouve souvent une tumeur.
 {{% /collapse %}}
 {{%collapse "Traitement de l'acromégalie" %}}
 
-La prise en charge de l'acromégalie dépend du centre spécialisé et le suivi doit être annuel
+La prise en charge de l'acromégalie dépend du centre spécialisé et le suivi doit être annuel.
 {.alert .alert-info}
 
-- Déclarer une [ALD 31]({{% relref "affection-longue-duree.md" %}})
-- Dossier MDPH
 - Prise en charge spécialisée des complications
 - Soutien psychologique
 - Lutte contre le [risque cardiovasculaire](/tags/risque-cardiovasculaire/)
-- Programmes d'éducation thérapeutique au sein des centres de référence
+- Selon l'atteinte: dossier MDPH
+- Information du patient:
+  - [Guide Orphanet (PDF)](https://www.orpha.net/pdfs/data/patho/Pub/fr/Acromegalie-FRfrPub408v01.pdf)
+  - Programmes d'éducation thérapeutique au sein des centres de référence
 - Association de patients: [Acromégales Pas Seulement](https://www.acromegalie-asso.org)
+- Déclarer une [ALD 31]({{% relref "affection-longue-duree.md" %}}) acromégalie
 
 ### Pour en savoir plus: traitement hormonal de l'acromégalie
 
-Le traitement de première intention est chirurgical avec exérèse de la tumeur hypophysaire somatotrope.
+Le traitement de première intention est **chirurgical** avec exérèse de la tumeur hypophysaire somatotrope.
 
-Un traitement médical peut être adjoint lorsque la chirurgie est insuffisante: analogues de la somatostatine (octréotide, lanréotide, pasiréotide), agonistes dopaminergiques (cabergoline per os), antagonistes de la GH (pegvisomant SC) ± associés.  
-Le traitement est arrêté en cas de grossesse.
+Un traitement médical peut être adjoint lorsque la chirurgie est insuffisante: **analogues de la somatostatine** (octréotide, lanréotide, pasiréotide), **agonistes dopaminergiques** (cabergoline per os), **antagonistes de la GH** (pegvisomant SC) ± associés, suspendu en cas de grossesse. La radiothérapie de la tumeur hypophysaire est exceptionnelle.
 
-La radiothérapie de la tumeur hypophysaire est exceptionnelle.
-
-Attendre un an de traitement avant toute prise en charge maxillo-faciale.
+Attendre un an de traitement avant toute prise en charge **maxillo-faciale**.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une acromégalie" "show" %}}
