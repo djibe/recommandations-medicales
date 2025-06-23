@@ -8,7 +8,7 @@ synonyms = ["Favisme", "déficit en Glucose-6-déshydrogénase"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-08T22:38:00+02:00"
 publishdate = "2021-07-09"
-lastmod = "2024-07-16"
+lastmod = "2025-06-23"
 specialites = ["hématologie"]
 annees = "2021"
 sources = ["ANSM", "PNDS"]
@@ -18,7 +18,7 @@ sctid = "62403005"
 icd10 = ["D55.0"]
 image = true
 imageSrc = "Illustration du déficit en G6PD par macrovector / Freepik"
-todo = "rankok"
+todo = "rankok | relecture demandée"
 datatable = true
 flowchart = true
 +++
@@ -102,8 +102,7 @@ Examens **en urgence** en hémolyse aiguë chez un sujet atteint d'un déficit e
 {{% /collapse %}}
 {{%collapse "Médicaments et aliments à risque en cas de déficit en G6PD" %}}
 
-Les enfants peuvent manger à la cantine à l'exclusion seule des fèves qui sont le seul élément à mentionner sur le **[PAI (PDF)](https://eduscol.education.fr/document/7820/download)**.  
-L'enfant doit aussi porter la carte spécifique sur lui.
+Les enfants peuvent manger à la cantine à l'exclusion seule des fèves qui sont le seul élément à mentionner sur le **[PAI (PDF)](https://eduscol.education.fr/document/7820/download)**. L'enfant doit aussi porter la carte spécifique sur lui.
 {.alert .alert-info}
 
 ### Aliments et produits à proscrire
@@ -149,8 +148,8 @@ Doit être demandée par le médecin.
 - Vaccination [hépatite A]({{% relref "hepatite-a.md" %}}) en séjour hors pays de l'ouest
 - Suivi hématologique en déficit de classe 1
 - Don du sang interdit
-- Association de patients  
-  [Vigifavisme](https://www.vigifavisme.com/)
+- Information du patient: [guide CNR favisme (PDF)](https://filiere-mcgre.fr/wp-content/uploads/2024/03/Fiches-dinformations-deficit-en-G6PD.pdf)
+- Association de patients: [Vigifavisme](https://www.vigifavisme.com)
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du déficit en G6PD" "show" %}}
@@ -169,6 +168,7 @@ style déficit stroke:#4150f5, stroke-width:1px
 - [ANSM. Médicament et déficit en G6PD : l'ANSM actualise le référentiel. 14/03/2021.](https://ansm.sante.fr/actualites/medicament-et-deficit-en-g6pd-lansm-actualise-le-referentiel)
 - [Filière de santé maladies rares MCGRE. Déficit en G6PD ou favisme. PNDS. 2017.](https://www.has-sante.fr/jcms/c_2800207/fr/deficit-en-g6pd-glucose-6-phosphate-deshydrogenase-ou-favisme)
 - [Anses. Favisme. 11/12/2012.](https://www.anses.fr/fr/content/favisme)
+- [Déficit en glucose-6-phosphate déshydrogénase classe I. Orphanet.](https://www.orpha.net/fr/disease/detail/466026)
 
 ### Bibliographie en attente
 
