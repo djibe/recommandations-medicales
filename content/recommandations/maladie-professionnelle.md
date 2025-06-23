@@ -57,8 +57,8 @@ Des pathologies peuvent être prises en charge sans être inscrites aux Tableaux
 7. La CPAM dispose de 120 jours pour instruire le dossier et se prononcer sur la reconnaissance de la maladie professionnelle (MP)
 8. En cas d'accord, le patient présente la feuille (S 6201c) à chaque soin en rapport avec sa MP (comme pour l'accident de travail).  
   En cas de refus, les recours sont précisés sur l'attestation de refus.
-1. Les consultations sont facturées en tiers payant total (**cocher les 2 cases AMO et AMC**) comme pour les accidents du travail. Préciser le numéro de la MP ou date de la MP.
-2.  Les aggravations et guérisons de la pathologie nécessitent les mêmes compléments que les accidents du travail.
+9. Les consultations sont facturées en tiers payant total (**cocher les 2 cases AMO et AMC**) comme pour les accidents du travail. Préciser le numéro de la MP ou date de la MP.
+10. Les aggravations et guérisons de la pathologie nécessitent les mêmes compléments que les accidents du travail.
 
 {{< youtube id="R3hUzhyx0f4" title="Focus sur la déclaration en maladie professionnelle (Assurance Maladie)" >}}
 

@@ -7,9 +7,9 @@ synonyms = ["Amylose primitive"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-08-02T15:18:50+02:00"
 publishdate = "2024-08-23"
-lastmod = "2024-08-23"
+lastmod = "2025-06-23"
 specialites = ["hématologie"]
-annees = "2022"
+annees = "2023"
 sources = ["PNDS"]
 tags = ["dyspnee", "fatigue", "nephropathie", "neuropathie"]
 english = ["light chain (AL) amyloidosis"]
@@ -17,7 +17,7 @@ sctid = "23132008"
 icd10 = ["E85.8"]
 image = true
 imageSrc = "Dépôts amyloïdes colorés au rouge Congo signant une amylose cardiaque. Nephron, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "SEO, flow"
+todo = "SEO | flow, relecture demandée"
 +++
 
 {{%article-summary%}}
@@ -58,13 +58,13 @@ Les signes et symptômes de l'amylose AL sont aspécifiques.
 - **Symptômes rénaux et/ou cardiaques**  
   [Dyspnée](/tags/dyspnee/), prise de poids, œdèmes des membres inférieurs, troubles du rythme cardiaque.
 - Symptômes hépatiques  
-  Hépatomégalie, splénomégalie, cholestase anictérique.
+  Hépatomégalie, [splénomégalie]({{% relref "splenomegalie.md" %}}), cholestase anictérique.
 - Symptômes digestifs  
   Épisodes de diarrhées, amaigrissement, anorexie, saignements digestifs.
 - Neuropathie périphérique  
   Douleurs et paresthésies des extrémités.
 - Symptômes végétatifs  
-  Diarrhée, sueurs, [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}), [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}).
+  Diarrhées, sueurs, [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}), [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}).
 - Autres signes d'infiltration organique  
   [Syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}}), goitre, infiltration musculaire et tendineuse (signe de l'épaulette), hématomes (déficit en facteur X).
 - Signes évocateurs (plus rares): **macroglossie**, **ecchymoses périorbitaires**.
@@ -102,9 +102,10 @@ Adresser au spécialiste (interniste, hématologue) pour affirmer le diagnostic 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-La prise en charge de l'amylose AL est spécialisée et **pluridisciplinaire** (interniste, hématologue, cardiologue, néphrologue, neurologue) après RCP. Le centre de référence de l'amylose est l'hôpital Tenon (Henri-Mondor pour l'amylose cardiaque).
+La prise en charge de l'amylose AL est spécialisée et **pluridisciplinaire** (interniste, hématologue, cardiologue, néphrologue, neurologue) après RCP ([annuaire](https://www.unilim.fr/cr-amylose-al/centre_reference_amylose/presentation_cmr_amylose/) des centres de référence).
 
-Association de patients: [Association française contre l'amylose](https://amylose.asso.fr).
+- Information du patient: [guide CNR amylose AL](https://www.unilim.fr/cr-amylose-al/patients/generalites_amylose/)
+- Association de patients: [Association française contre l'amylose](https://amylose.asso.fr)
 
 Le suivi est rapproché (souvent trimestriel) avec surveillance des chaînes légères libres sériques. Les rechutes sont possibles.
 
@@ -119,6 +120,7 @@ Aucun traitement n'existe pour la résorption des plaques amyloïdes constituée
 {{% /collapse %}}
 {{%sources%}}
 
-[Centre national de référence amylose AL & autres maladies par dépôts d'immunoglobulines monoclonales. Amylose AL - Synthèse à destination du médecin traitant. PNDS. 2020.](https://www.has-sante.fr/jcms/p_3385053/fr/amylose-al)
+- [Centre national de référence amylose AL & autres maladies par dépôts d'immunoglobulines monoclonales. Amylose AL - Synthèse à destination du médecin traitant. PNDS. 2023.](https://www.has-sante.fr/jcms/p_3385053/fr/amylose-al)
+- [Centre national de référence amylose AL & autres maladies par dépôts d'immunoglobulines monoclonales.](https://www.unilim.fr/cr-amylose-al/)
 
 {{%/sources%}}

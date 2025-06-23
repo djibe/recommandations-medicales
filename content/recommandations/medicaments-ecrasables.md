@@ -3,6 +3,7 @@ id = "019744e9-34ed-73fc-ab86-a26b655e2770"
 title = "Médicaments écrasables: ouvrir et écraser des comprimés et gélules"
 titleSeo = "Médicaments pouvant être écrasés"
 prefix = "les "
+noSearchContent = true
 description = "Liste SFPC et Omédit des médicaments, comprimés et gélules pouvant être ouverts et écrasés, leurs conditions d'administration et informations complémentaires"
 longHtml = true
 synonyms = []

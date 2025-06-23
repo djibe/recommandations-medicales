@@ -202,9 +202,10 @@ L'ECBU peut également identifier des **cylindres hématiques** ou des hématies
 {{% /collapse %}}
 {{%collapse "Traitement de l'hématurie" %}}
 
-La prise en charge de l'hématurie est principalement étiologique avec avis spécialisé (urologue ou néphrologue) en l'absence de cause évidente (infection urinaire, colique néphrétique).
+> [!WARNING]
+> L'hospitalisation devant une hématurie est urgente en cas de caillots nombreux, surinfectés (pyélonéphrite) ou compliqués de rétention urinaire.
 
-L'**hospitalisation** devant une hématurie est urgente en cas de caillots nombreux, surinfectés (pyélonéphrite) ou compliqués de rétention urinaire.
+La prise en charge de l'hématurie est principalement étiologique avec avis spécialisé (urologue ou néphrologue) en l'absence de cause évidente (infection urinaire, colique néphrétique).
 
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une hématurie" "show" %}}

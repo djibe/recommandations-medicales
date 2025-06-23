@@ -34,7 +34,7 @@ Nourrisson
 : Enfant de 29 jours à 23 mois.
 
 Enfant
-: Enfant de 2 à 18 ans.
+: Période de 2 à 18 ans.
 {.dl-inline}
 
 > -- {{< references/calendrier-vaccinal >}}
@@ -62,7 +62,7 @@ Examens médicaux de la naissance à 16 ans avec la cotation associée, facturé
 |  9 |            11 mois            |                                    COD (35€)                                    |
 | 10 |            12 mois            |                                    COD (35€)                                    |
 | 11 |         16 à 18 mois          |                                    COD (35€)                                    |
-| 12 |       23 ou 24 mois           | ==COE== (54€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12598.do)) |
+| 12 |            23 mois            | ==COE== (54€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12598.do)) |
 | 13 |             2 ans             |                                    COD (35€)                                    |
 | 14 |             3 ans             |                                    COD (35€)                                    |
 | 15 |             4 ans             |                                    COD (35€)                                    |

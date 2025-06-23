@@ -167,7 +167,7 @@ style déficit stroke:#4150f5, stroke-width:1px
 {{%sources%}}
 
 - [ANSM. Médicament et déficit en G6PD : l'ANSM actualise le référentiel. 14/03/2021.](https://ansm.sante.fr/actualites/medicament-et-deficit-en-g6pd-lansm-actualise-le-referentiel)
-- [Centre de référence des thalassémies. Déficit en G6PD ou favisme. PNDS. 2017.](https://www.has-sante.fr/jcms/c_2800207/fr/deficit-en-g6pd-glucose-6-phosphate-deshydrogenase-ou-favisme)
+- [Filière de santé maladies rares MCGRE. Déficit en G6PD ou favisme. PNDS. 2017.](https://www.has-sante.fr/jcms/c_2800207/fr/deficit-en-g6pd-glucose-6-phosphate-deshydrogenase-ou-favisme)
 - [Anses. Favisme. 11/12/2012.](https://www.anses.fr/fr/content/favisme)
 
 ### Bibliographie en attente

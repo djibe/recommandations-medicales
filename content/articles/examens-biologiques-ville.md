@@ -1,6 +1,7 @@
 +++
 title = "Bilans biologiques les plus prescrits par les généralistes en ville"
 description = "Examens biologiques prescrits par les médecins généralistes et réalisés en ville avec le nombre de demandes et les montants remboursés."
+noSearchContent = true
 longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-12-26T14:29:00+02:00"
