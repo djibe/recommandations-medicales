@@ -624,7 +624,7 @@ article {
     border-radius: 1.25rem;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: safe center;
     padding: 32px;
 
     @media (min-width: 992px) {
@@ -1487,7 +1487,7 @@ footer.footer {
   margin: 0.5rem 1rem 0.5rem 0;
   width: 2.5rem;
   display: flex;
-  justify-content: center;
+  justify-content: safe center;
   place-items: center;
   font-weight: 500;
   color: #fff;
