@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-13T19:55:16+01:00"
 publishdate = "2024-01-15"
-lastmod = "2024-01-18"
+lastmod = "2025-06-24"
 specialites = ["certificats"]
-annees = "2024"
+annees = "2025"
 sources = ["Ameli"]
 tags = []
 english = ["Occupational disorder", "occupational diseases"]
@@ -50,7 +50,7 @@ Des pathologies peuvent être prises en charge sans être inscrites aux Tableaux
 2. Rechercher les critères de prise en charge de la pathologie au [Tableau](https://www.inrs.fr/publications/bdd/mp.html) (voir *Tableaux des maladies*)
 3. Affirmer la pathologie par les critères habituels: biologie, imagerie, avis spécialisé
 4. Vérifier si les examens nécessaires à la reconnaissance en maladie professionnelle ont été réalisés (voir *Examens pour la reconnaissance*)
-5. Établir le **certificat médical initial** (CMI) sur *Ameli Pro* (ou formulaire *S6909*)
+5. Établir le ==**certificat médical initial**== (CMI) sur *Ameli Pro* (ou formulaire cerfa S6909)
     - La date correspond à la première constatation médicale de symptômes liés à la pathologie professionnelle (même si le diagnostic est ultérieur)
     - Pour le diagnostic, utiliser les termes du tableau des maladies professionnelles (voir *Tableaux des maladies*)
 6. Le patient complète le formulaire [cerfa 50562#03](https://www.ameli.fr/sites/default/files/formulaires/133/s6100.pdf) de **déclaration de maladie professionnelle** et joint le certificat médical initial pour les renvoyer à sa Caisse
@@ -65,7 +65,7 @@ Des pathologies peuvent être prises en charge sans être inscrites aux Tableaux
 {{% /collapse %}}
 {{%collapse "Examens nécessaires pour la reconnaissance des maladies professionnelles" "show" %}}
 
-Des examens sont requis pour la reconnaissance de certaines maladies professionnelles. Le tableau suivant liste tous les examens nécessaires pour le bilan de ces maladies professionnelles.
+Des examens sont requis pour la reconnaissance de certaines maladies professionnelles. Le tableau suivant liste tous les examens nécessaires pour le bilan des maladies professionnelles inscrites au *Tableau*.
 
 <script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "Examens nécessaires pour la reconnaissance de certaines maladies professionnelles. Dr JB Fron d'après Ameli."}</script>
 <table id="table-mp" class="table">
@@ -99,8 +99,9 @@ window.addEventListener('load', () => {
 {{% /collapse %}}
 {{%sources%}}
 
-- [Ameli Médecin. Maladie professionnelle. 13/09/2023.](https://www.ameli.fr/val-de-marne/medecin/exercice-liberal/prise-charge-situation-type-soin/situation-patient-mp/maladies-professionnelles)
-- [Service-Public. Maladie professionnelle : démarches à effectuer. 12/04/2023.](https://www.service-public.fr/particuliers/vosdroits/F176)
+- [Ameli Médecin. Maladies professionnelles : l'essentiel sur le certificat médical initial. 13/06/2025.](https://www.ameli.fr/medecin/actualites/maladies-professionnelles-l-essentiel-sur-le-certificat-medical-initial)
+- [Ameli Médecin. Maladie professionnelle. 26/02/2025.](https://www.ameli.fr/val-de-marne/medecin/exercice-liberal/prise-charge-situation-type-soin/situation-patient-mp/maladies-professionnelles)
+- [Service-Public. Maladie professionnelle : démarches à effectuer. 17/10/2023.](https://www.service-public.fr/particuliers/vosdroits/F176)
 - [IRNS. Tableaux des maladies professionnelles.](https://www.inrs.fr/publications/bdd/mp.html)
 
 {{%/sources%}}

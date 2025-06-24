@@ -9,10 +9,10 @@ synonyms = ["Coronaropathie", "angor", "angine de poitrine"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-28T16:29:03+02:00"
 publishdate = "2023-04-04"
-lastmod = "2023-12-29"
+lastmod = "2025-06-24"
 specialites = ["cardiologie"]
-annees = "2023"
-sources = ["ESH", "HAS", "ESC"]
+annees = "2024"
+sources = ["ESC", "HAS"]
 tags = ["antiplaquettaire", "douleur", "dyspnee", "epreuve effort", "fatigue", "risque cardiovasculaire", "SAS", "tabac"]
 english = ["Chronic coronary syndrome (CCS)", "chronic coronary insufficiency", "chronic myocardial ischemia", "coronary artery disease (CAD)"]
 sctid = "413844008"
@@ -25,9 +25,10 @@ flowchart = true
 
 {{%article-summary%}}
 
+- Le syndrome coronarien chronique regroupe l'ensemble des manifestations de la coronaropathie en état stable
 - L'angor détermine un {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé à très élevé{{< /modal-btn >}} (si sténose objectivée). Évoquer devant une douleur épigastrique, mandibulaire, entre les épaules ou le bras/poignet/main
 - Bilan initial du syndrome coronarien chronique: biologie, ECG 12 dérivations, échocardiographie et avis cardiologique
-- Mesures hygiéno-diétetiques: arrêt tabac et alcool, pression artérielle cible inférieure à 130/80 mmHg, sel 5-6 g/j, activité physique adaptée (APA), correction d'un surpoids
+- Mesures hygiéno-diétetiques avec réduction des facteurs de risque cardiovasculaires: arrêt tabac et alcool, pression artérielle cible inférieure à 130/80 mmHg, sel limité à 5-6 g/j, activité physique adaptée (APA), correction d'un surpoids
 - Prise en charge de la cardiopathie ischémique:
   - Réadaptation cardiaque
   - Si symptômes à l'effort: dérivés nitrés d'action rapide
@@ -42,7 +43,7 @@ Chapitres liés: [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chr
 
 Syndrome coronarien chronique (SCC)
 : *ex* maladie coronarienne stable
-: Manifestation clinique au long cours d'une cardiopathie ischémique.
+: Ensemble de manifestations déclenchées en état stable par une altération fonctionnelle ou structurelle des artères coronariennes ou de la microcirculation.
 : Les 2 complications principales sont la mort subite et l'[insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}). Lorsque la coronaropathie est traitée selon les recommandations internationales, le taux de mortalité est identique à celui de la population générale (étude CORONOR).
 : Comorbidités souvent associées chez le coronarien: maladie cardioneurovasculaire (38%), [diabète]({{% relref "diabete-type-2.md" %}}) (29%), prise de psychotropes (23%).
 
@@ -110,41 +111,20 @@ SCC
 
 ### Interrogatoire
 
-Angor
-:  
-    1. Douleur thoracique rétrosternale* déclenchée par: l'effort, la digestion ou le stress
-    2. Douleur qui dure plusieurs minutes (< 20 minutes)
-    3. Douleur soulagée par le repos ou la nitroglycérine (< 5 minutes)
-: Une dyspnée d'effort peut être considérée comme un équivalent d'angor en l'absence d'autre cause.
-: La **<abbr title="Stratification de la probabilité de coronaropathie avant le test d'effort">probabilité pré-test</abbr>** est calculée selon l'âge, le sexe, l'angor.
-
-\* Douleur ressentie: thoracique rétrosternale, épigastrique, mandibulaire, entre les épaules, ou le bras/poignet/main.  
-Décrite comme une pression, une oppression ou une lourdeur, parfois comme un étranglement, une constriction ou une brûlure.
-
----
-
-Angor typique (ou angine de poitrine stable)
-: Les 3 critères sont remplis.
-
-Angor atypique (probable)
-: 2 critères remplis.
-
-Angor peu probable
-: 1 seul critère rempli.
-{.dl-inline .mb-5}
-
 - Facteurs de risque cardiovasculaires  
-  Tabac, dyslipidémie, diabète (x2), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [obésité]({{% relref "obesite-adulte.md" %}}), hérédité cardiovasculaire (événement cardiovasculaire ou maladie cardiovasculaire au premier degré avant 55/65 ans chez un H/F).
+  Tabac, dyslipidémie, diabète (RR 2), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [obésité]({{% relref "obesite-adulte.md" %}}), hérédité cardiovasculaire (événement cardiovasculaire ou maladie cardiovasculaire au premier degré avant 55/65 ans chez un H/F).
 - Antécédents  
   Cardiovasculaires (IDM, [FA]({{% relref "fibrillation-atriale.md" %}}), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}})), rénaux, pulmonaire, [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}}).
+- Antécédents familiaux cardiovasculaires
 - Autres toxiques
 - Traitements en cours
 - Profession
-  - Horaires atypiques, intensité physique, exposition  froid ou chaleur ou pollution, sédentarité, stress
-  - Risque mortel: pilote de ligne, chauffeur routier, athlète nécessite un dépistage coronarien
+  - Horaires atypiques, intensité physique, expositions (froid, chaleur, pollution), sédentarité, stress
+  - Risque mortel: pilote de ligne, chauffeur routier, athlète
 - Symptômes angineux et cardiovasculaires
-  - Caractéristiques de la douleur
-  - Angor, dyspnée, limitations à l'effort
+  - **Angor** (10-25 %), douleurs thoraciques (aux émotions), **dyspnée d'effort** (10-15 %), limitations ou malaise à l'effort, [fatigue](/tags/fatigue/)
+  - La douleur peut être thoracique rétrosternale, épigastrique, mandibulaire, entre les épaules, ou le bras/poignet/main. Décrite comme une pression, une oppression ou une lourdeur, parfois comme un étranglement, une constriction ou une brûlure. Durée brève (5-10 minutes) lors du déclenchement par l'exercice ou l'émotion
+  - Caractères des symptômes: circonstances, installation, type, localisation, facteur déclenchant et soulageant, moment de la journée
 - Retentissement sur la vie quotidienne
 - [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}})  
   Aggravée par thiazidique et BB (sauf nébivolol). IPDE5 possibles sauf si traitement par dérivés nitrés.
@@ -153,7 +133,7 @@ Angor peu probable
 ### Examen clinique
 
 - Poids, taille, IMC, périmètre abdominal
-- Pression artérielle, fréquence cardiaque
+- Pression artérielle aux 2 bras, fréquence cardiaque
 - Pouls périphériques et [mesure de l'IPS]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}})
 - Souffle vasculaire (carotidien, aortique, fémoral)
 - Rechercher des signes:
@@ -176,16 +156,16 @@ Chez le +40 ans asymptomatique sans sténose à l'imagerie: calcul du {{< scores
 Bilan d'un angor ou de douleurs thoraciques évocatrices de cardiopathie ischémique:
 
 - NFS
-- Glycémie à jeun (< 1 an), HbA~1c~
+- Glycémie à jeun (< 1 an) ou HbA~1c~
 - Bilan lipidique (< 1 an)
 - Ionogramme sanguin
 - Créatininémie, DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
-- Uricémie
-- Selon le tableau: TSH, (NT-pro)BNP
+- TSH, (NT-pro)BNP
+- ± CRPus
 - ECG de repos
 - Holter-ECG si: suspicion de troubles du rythme, vasospastique
-- Échocardiographie transthoracique
-- Tableau atypique, signes d'insuffisance cardiaque ou suspicion de maladie respiratoire: radiographie thoracique
+- Échocardiographie transthoracique (ETT)
+- Tableau atypique, signes d'insuffisance cardiaque ou suspicion de maladie respiratoire: radiographie thoracique, EFR
 - Si hypertension résistante ou insuffisance rénale: doppler des artères rénales
 
 Selon l'évaluation cardiovasculaire: [épreuve d'effort]({{% relref "epreuve-effort.md" %}}) voire coroscanner.
@@ -212,41 +192,42 @@ Réévaluation du traitement à chaque consultation:
 ### Correction des facteurs de risque cardiovasculaire
 
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) (réduit la mortalité de 36%)
-- Réduction de l'alcool à moins de 10 verres par semaine
-- Statine systématique
-  - {{< modal-btn modal-rcv >}}LDL < 0,7 g/L et réduction ≥ 50%{{< /modal-btn >}} (< **0,55** si stent, sténose à l'imagerie ou événement CV)
-  - [Ézétimibe](https://bdpm.ansm.sante.fr/medicament/63964962/extrait#tab-rcp) ou [évolocumab SC](https://ec.europa.eu/health/documents/community-register/2023/20230130158320/anx_158320_fr.pdf) (Repatha®), [alirocumab SC](https://ec.europa.eu/health/documents/community-register/2022/20221216158063/anx_158063_fr.pdf) (Praluent®) si cible non atteinte
+- Réduction de l'alcool (< 10 verres par semaine)
+- Statine systématique ± ézétimibe
+  - Cible: {{< modal-btn modal-rcv >}}LDL < 0,55 g/L et réduction ≥ 50 %{{< /modal-btn >}}
+  - Si insuffisants: anti-PCSK9 ([évolocumab SC](https://ec.europa.eu/health/documents/community-register/2023/20230130158320/anx_158320_fr.pdf) Repatha®, [alirocumab SC](https://ec.europa.eu/health/documents/community-register/2022/20221216158063/anx_158063_fr.pdf) Praluent®)
+  - Si récidive sous dose maximale: considérer une cible < 0,4 g/L
 - [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) (*ESH 2023*)
   - Seuil d'initiation de 130/80 mmHg (dite normale haute)
-  - Cible de la population générale: 120-129 / 70-79 mmHg
+  - Cible de la population générale: 120-129 / 70-79 mmHg (*ESC 2024*)
+  - Si prévention secondaire: privilégier les {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} voire ARA2
+  - Limiter les apports en sel à 5 g/j
 - Correction d'un surpoids et d'une obésité abdominale
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
-- Limiter les apports en sel à 5 g/j
 - Activité physique adaptée (APA) régulière  
   - Programme d'APA; min 150 min/sem endurance, renforcement musculaire 2-3/sem avec 10-15 répétitions
   - Sédentarité < 7h/j, bouger 1 minute/h
   - [Guide patient HAS SCC](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_maladie_coronaire.pdf) (PDF)
 - Si diabète de type 2: {{< modal-btn modal-hba1c >}}HbA1c cible ~ 7%{{< /modal-btn >}}, suivi diabétologique, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} ou {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}} selon le profil
 
-### Mesures de prise en charge du syndrome coronarien chronique
+### Autres mesures de prise en charge du syndrome coronarien chronique
 
 Mesures spécifiques pour la prise en charge de la cardiopathie ischémique stable:
 
-- **Réadaptation cardiaque** systématique
-- Symptômes à l'effort: dérivé nitré d'action rapide (Isocard®, [Natispray®](https://bdpm.ansm.sante.fr/medicament/60259242/extrait#tab-rcp))
-- **Anti-angineux** de première intention: Bêtabloquant (BB) ou {{< modal-btn modal-ica-angor >}}inhibiteur calcique (ICa){{< /modal-btn >}}
-  - Considérer d'emblée l'association BB + {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}} (voir le tableau ci-dessous)
+- ==**Réadaptation cardiaque**== systématique
+- Calcul du risque cardiovasculaire secondaire: [SMART2 risk score](https://u-prevent.com)
+- Si symptômes à l'effort: dérivé nitré d'action rapide (Isocard®, [Natispray®](https://bdpm.ansm.sante.fr/medicament/60259242/extrait#tab-rcp))
+- ==**Anti-angineux**==: bêtabloquant (BB) et/ou {{< modal-btn modal-ica-angor >}}inhibiteur calcique (ICa){{< /modal-btn >}} ({{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}} si associés)
   - Fréquence cardiaque cible: 55-60 bpm (*ESC*) et 130 bpm à l'effort (*Collège*)
-  - Réévaluation toutes les 2-4 semaines initialement
-  - L'arrêt d'un anti-angineux nécessite une décroissance progressive
-  - Si angine persistante, anti-angineux de deuxième intention: nitré d'action longue [patch](https://bdpm.ansm.sante.fr/medicament/63785468/extrait#tab-rcp) ou [oral](https://bdpm.ansm.sante.fr/medicament/66327091/extrait#tab-rcp) (pour lesquels une tolérance s'installe, nécessitant une période libre de 10-14 h/j)  
-  ou [nicorandil](https://bdpm.ansm.sante.fr/medicament/66925249/extrait#tab-rcp), [ivabradine](https://ec.europa.eu/health/documents/community-register/2023/20230223158431/anx_158431_fr.pdf), [trimétazidine](https://bdpm.ansm.sante.fr/medicament/61020245/extrait#tab-rcp) (ranolazine non disponible en France), voir tableau plus bas
-- Aspirine 75-100 mg/j à considérer en l'absence d'IDM ou de revascularisation
-  - Clopidogrel 75 mg/j si intolérance (sans IPP), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) ou [AIC/AIT]({{% relref "accident-vasculaire-cerebral.md" %}})
-  - Voire bi-antithrombotique si haut risque ischémique (score Precise-DAPT)
-  - IPP si haut risque de saignement (à venir: *ESC DAPT*)
-- [Vaccination grippe]({{% relref "grippe.md" %}})
-- Prise en charge psychologique  
+  - Réévaluation toutes les 2-4 semaines initialement; jamais d'arrêt brutal
+  - Si symptômes persistants: nitré d'action longue [patch](https://bdpm.ansm.sante.fr/medicament/63785468/extrait#tab-rcp) ou [oral](https://bdpm.ansm.sante.fr/medicament/66327091/extrait#tab-rcp) (pour lesquels une tolérance s'installe, nécessitant une période libre de 10-14 h/j)  
+  ou [ivabradine](https://ec.europa.eu/health/documents/community-register/2023/20230223158431/anx_158431_fr.pdf) (FEVG < 40%), [nicorandil](https://bdpm.ansm.sante.fr/medicament/66925249/extrait#tab-rcp), [trimétazidine](https://bdpm.ansm.sante.fr/medicament/61020245/extrait#tab-rcp) (ranolazine non disponible en France), voir tableau plus bas
+- **Prévention secondaire** (ou obstruction significative): aspirine 75-100 mg/j ou clopidogrel 75 mg/j (choix si [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) ou [AIC/AIT]({{% relref "accident-vasculaire-cerebral.md" %}})) voire ticagrelor
+  - Si haut risque ischémique sans risque élevé de saignement: aspirine 100 mg/j avec ticagrelor 60 mg x 2/j ou rivaroxaban 2,5 mg x 2/j
+  - IPP si haut risque de saignement: score PRECISE-DAPT, ARC-HBR
+  - Considérer: colchicine 0,5 mg/j
+- **Vaccinations:** grippe/Covid, pneumocoque
+- Psychothérapie  
   Dont thérapie cognitive et comportementale (TCC) pour accompagner le changement de mode de vie.
 - Socio-professionnel: adaptation du poste de travail
 - Éducation thérapeutique
@@ -297,6 +278,7 @@ Ensemble de connaissances à acquérir au cours des consultations d'éducation t
 - Repérer les facteurs déclenchants et les signes précurseurs de l'angor
 - Utiliser le traitement de la crise à bon escient et savoir quand appeler le SAMU
 - Connaître le traitement de fond, les effets bénéfiques et indésirables, et les modalités de prises
+  - Pouls cible 55-60 bpm, pas d'arrêt brutal des bêtabloquants ou anti-angineux (*Société européenne de cardiologie*)
 - Participer régulièrement au suivi (renouvellements, médecine du travail en cas de besoin)
 - Repérer et corriger les erreurs alimentaires
 - Découvrir et mettre en place de nouvelles habitudes culinaires riches en plaisir gustatif
@@ -307,7 +289,6 @@ Ensemble de connaissances à acquérir au cours des consultations d'éducation t
 - S'engager dans le sevrage avec l'accompagnement nécessaire
 
 > -- *HAS*
-> + FC cible 55-60/min, pas d'arrêt brutal des BB ou anti-angineux
 
 Connaissance des indications:
 
@@ -355,6 +336,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Vrints C, et al. 2024 ESC Guidelines for the management of chronic coronary syndromes. Eur Heart J. 2024.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae177/7743115)
 - [Grave C, et al. Épidémiologie des cardiopathies ischémiques en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_2.html)
 - {{< references/esh-2023 >}}
 - [HAS. Syndrome coronarien chronique Prescription d'activité physique. 2022.](https://www.has-sante.fr/jcms/c_2876862/fr/consultation-et-prescription-medicale-d-activite-physique-a-des-fins-de-sante#toc_1_2)
@@ -365,10 +347,6 @@ graph TB
 - Collège National des Enseignants de Cardiologie (CNEC). Syndromes coronariens aigus. Item 339. Cardiologie 2e édition. 2019.
 
 Mots-clé: cardiopathie ischémique, angor
-
-### Bibliographie en attente
-
-[Vrints C, et al. 2024 ESC Guidelines for the management of chronic coronary syndromes. Eur Heart J. 2024.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae177/7743115)
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
@@ -394,6 +372,11 @@ Mots-clé: cardiopathie ischémique, angor
 {{% modal title="Statines et réduction du LDL" id="modal-statine-intensite"%}}
 
 {{< traitements/statine-intensite >}}
+
+{{% /modal %}}
+{{% modal title="IEC" id="modal-iec" %}}
+
+{{< traitements/iec >}}
 
 {{% /modal %}}
 {{% modal title="Inhibiteurs du cotransporteur SGLT2" id="modal-isglt2"%}}

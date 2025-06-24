@@ -6,6 +6,7 @@ prefix = "l'"
 description = "Recommandations pour le diagnostic et la prise en charge de l'artérite à cellules géantes (ACG ou maladie de Horton). Biopsie de l'artère temporale BAT, corticoïdes"
 synonyms = ["Artérite gigantocellulaire", "artérite temporale"]
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Pr H. DE BOYSSON (GEFA)"
 date = "2024-03-03T11:23:03+01:00"
 publishdate = "2024-03-08"
 lastmod = "2025-06-23"
@@ -51,6 +52,9 @@ AEG
 
 BAT
 : biopsie de l'artère temporale
+
+GEFA
+: Groupe d'Étude Français des Artérites des gros vaisseaux
 
 NOIAA
 : neuropathie optique ischémique antérieure aiguë
