@@ -152,6 +152,8 @@ TZD
 - En France
   - Prévalence: 30% chez l'adulte avec 17 millions d'hypertendus (+60% ont +60 ans, *BEH 2023*)  
     Parmi lesquels 6 millions ne le savent pas et 4 millions ne sont pas contrôlés.
+  - L'HTA est responsable de 36,2 % des hospitalisations pour maladies cardio-neuro-vasculaires ou rénales (*BEH 2025*)
+  - Décès: 55.000 en 2021 (8,5 %)
 - Dans le monde
   - 1,28 milliard d'hypertendus (150 millions en Europe)
   - Prévalence: ⅓ des adultes
@@ -537,6 +539,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Tock R. Impact d'un modèle de soins infirmiers assisté par Internet, dirigé par des infirmières spécialisées dans un cadre de collaboration multidisciplinaire sur la gestion de l'hypertension artérielle. Minerva. 2025.](https://minerva-ebp.be/FR/Analysis/913)
+- [Grave C, et al. Le fardeau de l'hypertension artérielle en France en 2021. Bull Epidemiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/12/2025_12_1.html)
 - [Anses. Les substituts au sel de table : un risque pour la santé. 2025.](https://www.anses.fr/fr/content/les-substituts-au-sel-de-table-un-risque-pour-la-sante)
 - [Kreutz R, et al. 2024 European Society of Hypertension clinical practice guidelines for the management of arterial hypertension. Eur J Intern Med. 2024.](https://www.ejinme.com/article/S0953-6205(24)00238-3/fulltext)
 - [SFHTA. Disponibilité des trithérapies fixes d'antihypertenseurs pour contribuer à un meilleur contrôle tensionnel des hypertendus : prise de position de la Société Française d'Hypertension Artérielle (SFHTA). 2024. (PDF)](https://www.sfhta.eu/wp-content/uploads/2024/02/Disponibilite-des-tritherapies-fixes-dantihypertenseurs-prise-de-position-de-la-SFHTA.pdf)

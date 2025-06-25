@@ -23,6 +23,7 @@ imageSrc = "Illustration de l'ostéoporose par BruceBlaus, CC BY-SA 4.0 via Wiki
 flowchart = true
 slider = true
 todo = "rankok, https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, HAS 2005 chutes, prescription renforcement musculaire, https://www.endocrine.org/clinical-practice-guidelines/bone-health-and-osteoporosis"
+modele = true
 +++
 
 {{%article-summary%}}
@@ -640,6 +641,13 @@ Vidéos de formation sur l'ostéoporose.
 - [Kanis J, et al; on behalf of the Scientific Advisory Board of the European Society for Clinical and Economic Aspects of Osteoporosis (ESCEO) and the Committees of Scientific Advisors and National Societies of the International Osteoporosis Foundation (IOF). European guidance for the diagnosis & management of osteoporosis in postmenopausal women. Osteoporos Int. 2018.](https://link.springer.com/article/10.1007%2Fs00198-018-4704-5)
 
 {{%/sources%}}
+{{% modele %}}
+
+### Bilan au diagnostic
+
+NFS, CRP, créatininémie, ASAT, ALAT, GGT, PAL, vitamine D, calcémie, phosphatémie, électrophorèse des protéines sériques
+
+{{% /modele %}}
 {{% modal title="Fractures ostéoporotiques dites sévères" id="modal-fracture-severe"%}}
 
 Fracture ayant atteint: {{< clinique/osteoporose-fracture-severe >}}

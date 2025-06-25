@@ -176,7 +176,7 @@ Le suivi de la coxarthrose est réalisé à la demande du patient, avec pour ré
 - Prescrire Redaction. Douleurs liées à une arthrose du genou ou de la hanche. Premiers Choix Prescrire. Rev Prescrire. 2024.
 - [American Academy of Orthopaedic Surgeons. Management of Osteoarthritis of the Hip Evidence-Based Clinical Practice Guideline. 2023. (PDF)](http://www.aaos.org/oahcpg2)
 - [NICE. Osteoarthritis in over 16s: diagnosis and management. NICE guideline. 2022.](https://www.nice.org.uk/guidance/ng226)
-- [Rombouts JJ et al. Une méta-analyse consacrée au traitement analgésique de la gonarthrose et de la coxarthrose : les opioïdes doivent-ils être proscrits ?. Minerva. 2022.](https://minerva-ebp.be/FR/Article/2252)
+- [Rombouts JJ, et al. Une méta-analyse consacrée au traitement analgésique de la gonarthrose et de la coxarthrose : les opioïdes doivent-ils être proscrits ?. Minerva. 2022.](https://minerva-ebp.be/FR/Article/2252)
 - Prescrire Redaction. Amplitude normale des mouvements de hanche. Rev Prescrire. 2021.
 - [Collège Français des Enseignants en Rhumatologie (COFER). Arthrose. Item 129 UE 6. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-8-0.php)
 - {{< references/aderim >}}

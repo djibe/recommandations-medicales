@@ -206,7 +206,7 @@ La **somnolence** est le premier signe de surdosage. Elle doit être différenci
 {{% /collapse %}}
 {{%collapse "Autres antalgiques" %}}
 
-Néfopam cp
+Néfopam cp (remb 30%)
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

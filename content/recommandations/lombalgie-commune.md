@@ -213,7 +213,7 @@ Recommandations pour le traitement et la prise en charge de la << poussée aigu�
   Indication: douleurs intenses le justifiant, courte durée 5 jours puis réévaluation ([Ameli 2017 (PDF)](https://www.ameli.fr/sites/default/files/Documents/347659/document/2017398_fiche_repere_at_lombalgie_v2_bd_0.pdf))
 
 > [!WARNING]
-> Ne pas utiliser pour une lombalgie: néfopam (Acupan®), corticoïdes, myorelaxants.
+> Ne pas utiliser pour une lombalgie: néfopam (Acupan® ou autre), corticoïdes, myorelaxants.
 
 L'acupuncture n'a pas d'efficacité sur l'évolution de la lombalgie.
 

@@ -33,7 +33,7 @@ flowchart = true
 - Informer systématiquement sur les *[10 règles d'or](#information-des-sportifs)* de la pratique sportive et l'intérêt de l'apprentissage du massage cardiaque
 - La consultation n'est pas prise en charge par l'*Assurance Maladie*
 - La mort subite atteint (quasi) exclusivement les hommes d'âge moyen et il est bien plus efficace d'apprendre à réaliser le massage cardiaque, de signaler les symptômes à l'effort et de corriger les facteurs de risque cardiovasculaire avant les accidents
-- Certificats des fédérations: [basketball](/print/ffbasket.pdf), [football](/print/fffoot.pdf), [tir](/print/fftir.pdf), [volleyball](/print/ffvolley.pdf)
+- Certificats des fédérations: [basketball](/print/ffbasket.pdf), [football](/print/fffoot.pdf), [plongée](/print/ffplongee.pdf), [tir](/print/fftir.pdf), [volleyball](/print/ffvolley.pdf)
 
 Chapitres liés: [certificats médicaux de l'adulte]({{% relref "certificats-medicaux-majeurs.md" %}}), [test d'effort]({{% relref "epreuve-effort.md" %}})
 
