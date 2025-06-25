@@ -45,7 +45,7 @@ Gonarthrose destructrice rapide
 Rechercher les éléments inducteurs de gonarthrose:
 
 - Fémoro-tibiale: troubles de la statique des membres inférieurs  
-  Genu varum (surcharge fémoro-tibiale interne) et genu valgum (surcharge externe).
+  [Genu varum]({{% relref "genu-varum-valgum.md" %}}) (surcharge fémoro-tibiale interne) et genu valgum (surcharge externe).
 - Fémoro-patellaire
   - Dysplasie fémoro-patellaire (subluxation externe de la rotule)
   - Chondromalacie rotulienne (fragilité localisée du cartilage rotulien)
