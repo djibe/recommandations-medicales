@@ -29,7 +29,7 @@ todo = "update | SEO 'paralysie faciale peripherique', soins oculaires"
 
 - Le diagnostic de paralysie faciale périphérique idiopathique (*ex* paralysie faciale *a frigore*) est le diagnostic d'élimination d'une paralysie faciale périphérique (PFP)
 - Interrogatoire et examen clinique majeurs
-- Bilan systématique de toute paralysie faciale a frigore: NFS, glycémie, sérologie Lyme (SFORL) et VIH, audiométrie, IRM avec injection, EMG si paralysie faciale grave
+- Bilan systématique de toute paralysie faciale a frigore: NFS, glycémie, sérologie VIH, audiométrie, IRM avec injection, EMG si paralysie faciale grave, sérologie Lyme si notion de piqûre sans érythème migrant
 - PFP hyperalgique: sérologies VZV et HSV
 - Prise en charge de la paralysie faciale périphérique idiopathique en urgence: prednisolone + valaciclovir
 
@@ -72,6 +72,37 @@ SFORL
 - [Diabète]({{% relref "diabete-type-2.md" %}})  
   Présent chez 10% des patients développant une PFP.
 - 8 à 12% des PFP d'allure idiopathique sont tumorales (malignes à 30%)
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+La paralysie faciale a frigore étant un diagnostic d'élimination, il faut s'assurer qu'il ne s'agisse pas d'une **paralysie faciale centrale** et éliminer les autres causes de **paralysie faciale périphérique**.
+
+Les diagnostics différentiels sont dominés par les **causes tumorales, traumatiques ou zostériennes**.
+
+- Tumorale surtout  
+  - Sur le trajet du nerf facial: tronc cérébral, angle ponto-cérébelleux, conduit auditif interne, rocher.  
+    Tumeur bénigne: neurinome du nerf facial, méningiome voire neurinome de l'acoustique, cholestéatome, paragangliome tympano-jugulaire.  
+    Tumeur maligne: métastase, hémopathie.
+  - Tumeur maligne parotidienne
+- Traumatique  
+  Fracture du rocher ou péri-parotidienne.
+- Cause infectieuse
+  - [Zona]({{% relref "zona.md" %}})
+  - [Maladie de Lyme]({{% relref "maladie-lyme.md" %}}) {{%class%}}(*Borrelia burgdorferi*){{%/class%}}
+  - [Tuberculose]({{% relref "tuberculose.md" %}})
+  - [VIH]({{% relref "vih-sida.md" %}})
+- [Diabète]({{% relref "diabete-type-2.md" %}})
+- Iatrogène
+- Maladie de système
+  - Vascularite
+  - Sarcoïdose
+  - Granulomatose à polyangéite (Wegener)
+- AVC du tronc cérébral (noyau du VII)
+- Syndrome de Melkerson-Rosenthal  
+  PFP à bascule ou récidivante.
+- Néonatale  
+{{%class%}}Malformation ou traumatique (forceps).{{%/class%}}
 
 {{% /collapse %}}
 {{%collapse "Clinique de la paralysie faciale périphérique idiopathique" %}}
@@ -162,37 +193,6 @@ Remettre en cause le diagnostic en présence de ces signes d'alerte:
 {{%/warning%}}
 
 {{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
-La paralysie faciale a frigore étant un diagnostic d'élimination, il faut s'assurer qu'il ne s'agisse pas d'une **paralysie faciale centrale** et éliminer les autres causes de **paralysie faciale périphérique**.
-
-Les diagnostics différentiels sont dominés par les **causes tumorales, traumatiques ou zostériennes**.
-
-- Tumorale surtout  
-  - Sur le trajet du nerf facial: tronc cérébral, angle ponto-cérébelleux, conduit auditif interne, rocher.  
-    Tumeur bénigne: neurinome du nerf facial, méningiome voire neurinome de l'acoustique, cholestéatome, paragangliome tympano-jugulaire.  
-    Tumeur maligne: métastase, hémopathie.
-  - Tumeur maligne parotidienne
-- Traumatique  
-  Fracture du rocher ou péri-parotidienne.
-- Cause infectieuse
-  - [Zona]({{% relref "zona.md" %}})
-  - [Maladie de Lyme]({{% relref "maladie-lyme.md" %}}) {{%class%}}(*Borrelia burgdorferi*){{%/class%}}
-  - [Tuberculose]({{% relref "tuberculose.md" %}})
-  - [VIH]({{% relref "vih-sida.md" %}})
-- [Diabète]({{% relref "diabete-type-2.md" %}})
-- Iatrogène
-- Maladie de système
-  - Vascularite
-  - Sarcoïdose
-  - Granulomatose à polyangéite (Wegener)
-- AVC du tronc cérébral (noyau du VII)
-- Syndrome de Melkerson-Rosenthal  
-  PFP à bascule ou récidivante.
-- Néonatale  
-{{%class%}}Malformation ou traumatique (forceps).{{%/class%}}
-
-{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 {{%info%}}
@@ -200,17 +200,16 @@ Les diagnostics différentiels sont dominés par les **causes tumorales, traumat
 ### Bilan d'une paralysie faciale périphérique d'allure idiopathique
 
 - NFS
-- Sérologie Lyme (*SFORL*)  
-  Seulement si notion de piqûre ou érythème migrans dans les 6 mois selon *HAS*.
 - Glycémie à jeun si facteurs de risque:  
   Antécédents familiaux de diabète, obésité, âge ≥ 40 ans.
-- Sérologie VIH  
-  {{%class%}}Proposer à tout patient.{{%/class%}}
+- Sérologie VIH
 - PFP hyperalgique: sérologie VZV et HSV
+- Sérologie Lyme  
+  Seulement si notion de piqûre ou érythème migrant dans les 6 mois (*HAS*).
 
 ---
 
-Audiométrie avec test du réflexe stapédien (aboli)
+Audiométrie avec test du réflexe stapédien (qui est aboli)
 
 ---
 

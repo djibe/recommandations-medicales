@@ -7,7 +7,7 @@ synonyms = ["Borréliose de Lyme (BL)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-30T18:17:39+02:00"
 publishdate = "2021-10-02"
-lastmod = "2025-05-26"
+lastmod = "2025-06-29"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2025"
 sources = ["HAS", "GPIP", "DGS"]
@@ -24,11 +24,12 @@ modele = true
 
 {{%article-summary%}}
 
-- La maladie de Lyme est une infection par piqûre de tique infectée par la bactérie *Borrelia burgdorferi*, qui évolue en plusieurs stades en l'absence de traitement
+- La maladie de Lyme est une infection par la bactérie *Borrelia burgdorferi*, transmise par une piqûre de tique, qui évolue en plusieurs stades en l'absence de traitement
 - Zones à risque de tiques infectées: métropole entière (surtout Alsace, Lorraine, Limousin)
-- Mesures de prévention des piqûres de tique en forêt puis inspection au retour (voir *Prévention*)
-- Prise en charge d'une piqûre de tique: pince ou tire-tique, auto-surveillance pendant 30 jours, [signaler la piqûre](https://tiquotheque.fr/signalement/public/)
+- Appliquer les mesures de prévention des piqûres de tique lors des balades en forêt, suivies d'une inspection au retour (voir *Prévention*)
+- La prise en charge d'une piqûre de tique nécessite: pince ou tire-tique, auto-surveillance locale pendant 30 jours et [signalement de la piqûre](https://tiquotheque.fr/signalement/public/)
 - Recommandations pour la prise en charge d'un érythème migrant: survenue dans les 30 jours de la piqûre, diagnostic clinique, antibiothérapie par doxycycline 200 mg/j pendant 10 jours, auto-surveillance de la disparition dans le mois, noter dans le dossier
+- La recherche d'une maladie de Lyme nécessite la notion de piqûre de tique (ou à défaut d'exposition aux tiques), des signes cliniques compatibles et d'une sérologie Lyme
 - Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose (complication neurologique de la maladie de Lyme)
 
 {{%/article-summary%}}
@@ -197,6 +198,9 @@ Diagnostic de maladie de Lyme certain si 3 critères - possible si 2 - exclu si 
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
+
+> [!INFO]
+> Toute recherche de maladie de Lyme nécessite la notion de piqûre de tique ou à défaut, d'exposition aux tiques.
 
 ### Sérologie de Lyme
 
