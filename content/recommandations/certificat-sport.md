@@ -64,7 +64,7 @@ La survie sans séquelles dépend énormément de la formation de la population 
 
 > -- *Marijon 2021*
 
-{{< figure-chart title="Incidence moyenne annuelle de la mort subite du sportif par million de sportifs de 15 à 75 ans selon l'âge et le sexe. Se référer à l'article pour l'intervalle de confiance. Dr JB Fron d'après Marijon 2013" >}}
+{{< figure-chart title="Incidence moyenne annuelle de la mort subite du sportif par million de sportifs de 15 à 75 ans selon l'âge et le sexe. Dr JB Fron d'après Marijon 2013" >}}
 
 <script>
 const chartOptions1 = {
@@ -190,13 +190,13 @@ Informer sur les 10 règles d'or pour le sportif:
 2. Signaler toute palpitation cardiaque survenant à l'effort ou juste après
 3. Signaler tout malaise survenant à l'effort ou juste après
 4. Respecter un échauffement et une récupération de 10 minutes lors des activités sportives
-5. Boire 3-4 gorgées d'eau toutes les 30 minutes (exercice et compétition)
-6. Éviter les activités intenses en températures extrêmes (< 5°C ou > 30°C) ou pics de pollution
-7. Ne pas fumer et jamais dans les 2h qui suivent le sport
+5. Boire 3 à 4 gorgées d'eau toutes les 30 minutes (exercice et compétition)
+6. Éviter les activités intenses en cas de température extrême (< 5°C ou > 30°C) ou de pic de pollution
+7. Ne pas fumer et jamais dans les 2 heures qui suivent le sport
 8. Jamais de dope et éviter l'automédication
-9. Pas de sport intense si fièvre ou dans les 8 jours suivant un épisode grippal  
+9. Pas de sport intense en cas de fièvre ou dans les 8 jours suivant un épisode grippal  
   Informer: les microbes ne sont pas éliminés par la sueur.
-10. Bilan médical avant de reprendre une activité sportive à partir de 35 ans si homme, 45 ans si femme
+10. Bilan médical avant de reprendre une activité sportive à partir de 35 ans chez l'homme, 45 ans chez la femme
 
 > -- *[ClubCardioSport. Les 10 règles d'or. Argumentaire. (PDF)](https://www.clubcardiosport.com/sites/www.clubcardiosport.com/files/inline-files/argu_scientifique.pdf)*
 
@@ -225,7 +225,7 @@ graph TB
 - [Journal Officiel. Décret n° 2023-853 du 31 août 2023 relatif à la liste des disciplines sportives à contraintes particulières. Legifrance.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050038179)
 - [CCS, GERS-P. Position commune du Club des Cardiologues du Sport (CCS) et du Groupe Sport (GERS-P) de la Société Française de Cardiologie sur le bilan cardio-vasculaire recommandé pour la pratique sportive. 2022.](https://www.sfcardio.fr/publication/recommandations-sur-le-bilan-cardiovasculaire-recommande-pour-la-pratique-sportive)
 - [Karam N, et al. Evolution of Incidence, Management, and Outcomes Over Time in Sports-Related Sudden Cardiac Arrest. J Am Coll Cardiol. 2022.](https://www.sciencedirect.com/science/article/abs/pii/S0735109721081572)
-- [Marijon E et al. Prévention de la mort subite du sportif : état des lieux. Archives des Maladies du Coeur et des Vaisseaux - Pratique. 2021.](https://doi.org/10.1016/J.AMCP.2021.04.003)
+- [Marijon E, et al. Prévention de la mort subite du sportif : état des lieux. Archives des Maladies du Coeur et des Vaisseaux - Pratique. 2021.](https://doi.org/10.1016/J.AMCP.2021.04.003)
 - [Anys S, et al. Faut-il un screening cardiaque du sportif : pour ou contre ?. La Revue du Praticien. 2021.](https://www.larevuedupraticien.fr/article/faut-il-un-screening-cardiaque-du-sportif-pour-ou-contre-2)
 - [Journal Officiel. Décret 2021-564. 07/05/2021.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486809)
 - [CNOM. Certificats de non contre-indication à la pratique du sport. Médecins n°69. sept-oct 2020](https://www.conseil-national.medecin.fr/sites/default/files/external-package/bulletin/m05mhm/medecins_69.pdf)

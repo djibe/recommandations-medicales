@@ -116,8 +116,8 @@ En cas d'atteinte sévère ou locale, une chirurgie orthopédique peut être pro
 {{< mermaid title="Prise en charge de la déformation des membres inférieurs (genu varum et valgum). Dr JB Fron d'après SOFOP et CFCOT" >}}
 graph TB
   clinique[Déformation des membres inférieurs] --> examen(Examen clinique) -- En O --> varum(Genu varum) -.-> suspect("- Unilatéral<br>- Douloureux<br>- Sévère (&gt; 20°)") -- Goniométrie --> avis(Avis orthopédique)
-      varum -- Avant 2,5 ans --> abstention(Abstention)
-      varum -- "Après 2,5 ans:<br> calcémie, vit D, PTH" --> avis
+      varum -- Avant 30 mois --> abstention(Abstention)
+      varum -- "Après 30 mois ans:<br> calcémie, vit D, PTH" --> avis
     examen -- En X --> valgum(Genu valgum)
       valgum -.-> suspect
       valgum -- Avant la puberté --> abstention
