@@ -57,6 +57,10 @@ ACG
 
 ### Bibliographie en attente
 
+- [](https://www.ssmg.be/wp-content/uploads/RMG/415/RMG415_11-14.pdf)
+- [](https://www.inserm.fr/dossier/acouphenes/)
+- [](https://www.cfp.ca/content/64/7/e293)
+- [](https://www.france-acouphenes.fr/pathologies.html)
 - Collège
 - Prescrire
 - Cochrane
@@ -68,4 +72,3 @@ ACG
 {{%/sources%}}
 
 ’≤≥±®æœŒÈ⅓¼½¾¹²³^4^ÂSpO~2~ -- ‰
-[External link](https://discourse.gohugo.io/ "{rel='nofollow'}")

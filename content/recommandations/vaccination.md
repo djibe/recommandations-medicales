@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2025-05-13"
+lastmod = "2025-06-30"
 specialites = ["infectiologie", "pédiatrie", "thérapeutique"]
 annees = "2025"
 sources = ["MinSanté", "HAS", "HCSP"]
@@ -60,10 +60,10 @@ VVA
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal 2025" "show" %}}
 
-{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention *NR*. Dr JB Fron d'après *Décret n° 2024-694*, *Calendrier vaccinal 2025*, *HAS 2024* et *2025*." class="table-wrap" >}}
+{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention *NR*. Dr JB Fron d'après *Décret n° 2024-694*, *Calendrier vaccinal 2025*, *HAS 2024* et *2025*, DGS Urgent 2025-15." class="table-wrap" >}}
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
-|   ~~Né après~~<br>le (suspendu) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
+| Né après<br>le 1er février,<br>(à partir de septembre) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance (15)<br>RotaTeq 1/3, Rotarix 1/2 |
 |   3 mois   | Méningo B<br>Rotavirus<br>(Prématuré: + Pneumo 13/15 +<br>DTCaP-Hib-HB GPIP) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance (15)) |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance (15) (15)<br>RotaTeq 3/3 |
@@ -317,6 +317,7 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%sources%}}
 
+- [DGS-Urgent 2025_15. Modalités de mise en œuvre de la campagne d'immunisation des nourrissons et nouveau-nés contre les infections à virus respiratoire syncitial (VRS). 28/01/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Vaccination contre les papillomavirus : élargissement de la cohorte de rattrapage vaccinal chez les hommes et les femmes jusqu'à 26 ans révolus. 2025.](https://www.has-sante.fr/jcms/p_3605114/fr/vaccination-contre-les-papillomavirus-elargissement-de-la-cohorte-de-rattrapage-vaccinal-chez-les-hommes-et-les-femmes-jusqu-a-26-ans-revolus)
 - [HAS. Grossesse : les vaccins recommandés. 2025.](https://www.has-sante.fr/jcms/p_3590575/fr/grossesse-les-vaccins-recommandes)
 - {{< references/calendrier-vaccinal >}}

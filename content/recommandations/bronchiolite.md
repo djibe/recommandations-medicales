@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-16T08:08:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2025-02-02"
+lastmod = "2025-06-30"
 specialites = ["pédiatrie"]
 annees = "2023"
 sources = ["HAS", "SFP"]
@@ -269,8 +269,9 @@ Hors grossesse, le vaccin anti-VRS est recommandé à partir de **75 ans** ou ch
 
 Indications à la prévention de la bronchiolite par une immunisation passive avec l'anticorps monoclonal nirsévimab:
 
-- Pour 2024-2025: **campagne suspendue** fin janvier 2025  
+- Pour 2025-2026: la **campagne** débute en septembre 2025  
   Au mieux avant la sortie de maternité (rattrapage en ville sinon).
+- Pour tous les nourrissons nés depuis février 2025
 - Une seule injection IM de nirsévimab (Beyfortus®)
 - ==De 0,5 mL (50 mg) pour les moins de 5 kg de poids puis 1 mL (100 mg) au-delà==
 - Dans la face antéro-latérale de cuisse
@@ -443,10 +444,8 @@ Les autres traitements exposent à des effets indésirables parfois graves.
 {{% /collapse %}}
 {{%sources%}}
 
-- [DGS-Urgent 2025_03. Fin de la campagne d'immunisation des nouveaux-nés et nourrissons contre le VRS. 28/01/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
+- [DGS-Urgent 2025_15. Modalités de mise en œuvre de la campagne d'immunisation des nourrissons et nouveau-nés contre les infections à virus respiratoire syncitial (VRS). 28/01/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
-- [DGS-Urgent 2024_13. Thérapeutiques disponibles pour la prochaine campagne d'immunisation des nouveaux-nés et nourrissons contre les infections à VRS. 27/08/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
-- [DGS-Urgent 2024_10. Campagne d'immunisation des nouveaux-nés et nourrissons contre les infections à VRS pour la saison 2024-2025. 03/07/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
 - Prescrire Redaction. Bronchiolite et kinésithérapie respiratoire. Rev Prescrire. 2024.
 - [Vartiainen P, Jukarainen S, Rhedin SA, et al. Risk factors for severe respiratory syncytial virus infection during the first year of life: development and validation of a clinical prediction model. Lancet Digit Health. 2023.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00175-9/fulltext)

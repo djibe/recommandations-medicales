@@ -93,10 +93,10 @@ Pour plus d'informations sur les vaccinations, dont les obligations, voir le cha
 
 > Temporairement, rattrapage méningite ACWY jusqu'à 35 mois (si Neisvac seul) et méningite B jusqu'à 4 ans (*HAS 2025*).
 
-{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention **NR**. Dr JB Fron d'après *Décret n° 2024-694* et *Calendrier Vaccinal 2025*" class="table-wrap" >}}
+{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention **NR**. Dr JB Fron d'après *Décret n° 2024-694*, *Calendrier Vaccinal 2025*, DGS Urgent 2025-15" class="table-wrap" >}}
 |          Âge          | Valences                                                                                  | Spécialités équivalentes                                                                                        |
 |:---------------------:|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-|   ~~Né après~~<br>le (suspendu) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
+| Né après<br>le 1er février<br>(à partir de septembre) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance (15)<br>RotaTeq 1/3, Rotarix 1/2 |
 |   3 mois   | Méningo B<br>Rotavirus<br>(Prématuré: + Pneumo 13/15 +<br>DTCaP-Hib-HB GPIP) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance (15)) |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance (15) (15)<br>RotaTeq 3/3 |

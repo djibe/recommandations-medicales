@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. COSTENTIN (AFEF)"
 date = "2023-10-30T19:19:57+01:00"
 publishdate = "2023-10-31"
-lastmod = "2025-06-05"
+lastmod = "2025-06-30"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2025"
 sources = ["AFEF", "EASL", "SNFGE", "HAS", "INCa"]
@@ -166,7 +166,7 @@ Le bilan initial est celui d'une tumeur hépatique:
 - En l'absence de cirrhose connue: recherche de fibrose (biologique avec Fibromètre®, Fibrotest® ou échographique par élastographie hépatique)
 - IRM hépatique ou scanner injecté(e) multiphasique avec RCP dans le mois
 
-Avis spécialisé hépatologique semi-urgent avec le bilan.
+Avis spécialisé hépatologique semi-urgent avec le bilan et/ou présentation en RCP dans le mois suivant l'imagerie (voir *AFEF 2025 Annexe 1* pour la fiche RCP modèle).
 {.alert .alert-info}
 
 ### Bilan complémentaire au diagnostic de CHC
@@ -195,7 +195,7 @@ Pour le dépistage du CHC chez le patient cirrhotique, voir *Dépistage du CHC*.
 ### Dépistage du carcinome hépatocellulaire (CHC)
 
 > [!INFO]
-> Dépistage du carcinome hépatocellulaire chez les patients cirrhotiques {{< modal-btn modal-score-child >}}Child A ou B{{< /modal-btn >}} (ou C en attente de transplantation) par échographie-doppler abdominale semestrielle << probablement associée >> au dosage de l'alpha-fœtoprotéine et suivi hépatologique au moins annuel. (*AFEF 2025*, *INCa*)
+> Dépistage du carcinome hépatocellulaire chez les patients cirrhotiques {{< modal-btn modal-score-child >}}Child A ou B{{< /modal-btn >}} (ou C en attente de transplantation) par échographie-doppler abdominale semestrielle << probablement associée >> au dosage de l'alpha-fœtoprotéine et suivi hépatologique au moins annuel. (*AFEF 2025*, *EASL*, *INCa*)
 
 Performances pour le dépistage de lésion précoce dans les études prospectives: échographie seule (sensibilité **40%**) ou couplée à l'AFP (sensibilité **60%**, au prix d'une spécificité réduite, mais préférée des patients).
 

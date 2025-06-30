@@ -166,6 +166,8 @@ Le bilan comporte une PCR (ou TAAN) gonocoque/*Chlamydia* avec prélèvement ada
 - Infection oculaire: écouvillonnage conjonctival
 - Infection oropharyngée: écouvillonnage pharyngé
 
+Les jeunes femmes de 18 à 25 ans peuvent commander un kit gratuit de dépistage des IST à domicile sur leur compte Ameli.
+
 > [!INFO]
 > La sérologie *Chlamydia trachomatis* est toujours inutile (sauf infection génitale haute sans prélèvement pelvien ou suspicion de pneumopathie du nourrisson).
 

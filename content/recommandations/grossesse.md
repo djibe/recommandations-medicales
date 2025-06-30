@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2025-06-19"
+lastmod = "2025-06-30"
 specialites = ["gynécologie-obstétrique"]
 annees = "2022"
 sources = ["CNGOF", "HAS"]
@@ -197,7 +197,7 @@ const chartOptions3 = {
 - **Vaccinations**
   - Covid-19 et grippe d'octobre à janvier (possibles quel que soit le terme)
   - Coqueluche entre 20 et 36 SA à chaque grossesse
-  - (**Campagne suspendue**) Anti-VRS par Abrysvo une seule fois si terme de 32 à 36 SA de septembre à janvier  
+  - Anti-VRS par Abrysvo une seule fois si terme de 32 à 36 SA de septembre à janvier  
     ou Beyfortus chez le nouveau-né à défaut.
   - Avant la grossesse: rattrapage rubéole et varicelle
 - **Activité physique**  
@@ -212,7 +212,7 @@ const chartOptions3 = {
 | 5e mois<br>20-24 SA || {{%tooltip "22 SA (20-25)"%}}Écho T2{{%/tooltip%}} | Vaccin coqueluche |
 | 6e mois<br>24-28 SA || {{%tooltip "L'USPTF trouve le dépistage inutile si asymptomatique"%}}NFS{{%/tooltip%}}, AgHBs, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}} | ± Rattrapage coqueluche |
 | 7e mois<br>28-32 SA || {{%tooltip "32 SA (30-35)"%}}Écho T3{{%/tooltip%}} | {{%tooltip "28 SA: si mère RH-1- et fœtus RH-1+"%}}± Rhophylac® 300{{%/tooltip%}} ± Rattrapage coqueluche |
-| 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, {{%tooltip "Entre 35 et 38 SA"%}}prélèvement vaginal (strepto B){{%/tooltip%}} | VitD 100.000 UI, {{%tooltip "Suspendu - De septembre à janvier"%}}Abrysvo{{%/tooltip%}}, ± rattrapage coqueluche, ± {{%tooltip "Herpès génital pdt la gs"%}}valaciclovir{{%/tooltip%}} |
+| 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, {{%tooltip "Entre 35 et 38 SA"%}}prélèvement vaginal (strepto B){{%/tooltip%}} | VitD 100.000 UI, {{%tooltip "De septembre à janvier"%}}Abrysvo{{%/tooltip%}}, ± rattrapage coqueluche, ± {{%tooltip "Herpès génital pdt la gs"%}}valaciclovir{{%/tooltip%}} |
 | 9e mois<br>37-42 SA ||||
 {{< /table >}}
 
@@ -230,7 +230,7 @@ Vaccins à réaliser pendant la grossesse ([chapitre dédié Vaccination]({{% re
 - Covid-19 ARNm et grippe quel que soit le terme (RR de réanimation sans vaccination: 18)
 - dTcaPolio à chaque grossesse entre 20 et 36 SA (BoostrixTetra, Repevax)  
   Délai minimal entre 2 doses de 4 semaines.
-- Anti-VRS (Abrysvo) de septembre à janvier entre 32 et 36 SA
+- Anti-VRS (Abrysvo) de septembre à janvier entre 32 et 36 SA (DGS Urgent 2025-15)
 
 > -- {{< references/calendrier-vaccinal >}} et *Vaccination Info Service*
 
@@ -354,6 +354,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{% rel
 {{% /collapse %}}
 {{%sources%}}
 
+- [DGS-Urgent 2025_15. Modalités de mise en œuvre de la campagne d'immunisation des nourrissons et nouveau-nés contre les infections à virus respiratoire syncitial (VRS). 28/01/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
 - [Service-Public. Infections sexuellement transmissibles : gratuité du dépistage 
 - [US Preventive Services Task Force. Screening for Syphilis Infection During Pregnancy: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2025.](https://jamanetwork.com/journals/jama/fullarticle/2833883)
