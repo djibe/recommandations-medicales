@@ -8,7 +8,7 @@ synonyms = ["Jambes arquées et genoux cagneux"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-06-24T13:48:19+02:00"
 publishdate = "2025-06-25"
-lastmod = "2025-06-25"
+lastmod = "2025-07-02"
 specialites = ["orthopédie", "pédiatrie"]
 annees = "2020"
 sources = ["SOFOP", "CFCOT"]
@@ -27,7 +27,7 @@ flowchart = true
 - Le genu varum correspond à une déformation de la jambe avec des jambes arquées (dites en O). Il est physiologique chez le nourrisson (maximal à 2 ans) et doit disparaître avant 2 ans et demi
 - Le genu valgum correspond à une déformation de la jambe donnant un aspect des jambes en X, ou genoux cagneux. Il est physiologique chez l'enfant (maximal à 4 ans) et disparaît progressivement
 - Les 2 atteintes des jambes doivent bénéficier d'emblée d'un avis orthopédique en cas d'atteinte unilatérale, de douleurs ou d'atteinte sévère (angle fémoro-tibial > 20°)
-- L'avis orthopédique est requis pour un genu varum persistant après l'âge de 30 mois. Le genu valgum est exploré par l'orthopédiste lorsqu'il persiste au début de la puberté
+- L'avis orthopédique est requis pour un genu varum persistant après l'âge de 30 mois. Le genu valgum est exploré par l'orthopédiste lorsqu'il persiste au début de la puberté. Demander un EOS corps entier avant la consultation spécialisée
 - Rechercher un rachitisme en cas de genu varum persistant: calcémie, vitamine D, PTH
 
 Articles liés: [gonarthrose]({{% relref "gonarthrose.md" %}}), [inégalité de longueur des membres inférieurs]({{% relref "inegalite-longueur-membres-inferieurs.md" %}})
@@ -57,6 +57,9 @@ EICI
 
 PTH
 : parathormone
+
+SIMS
+: Société d'Imagerie Musculo-Squelettique
 
 SOFOP
 : Société Française d'Orthopédie Pédiatrique
@@ -95,7 +98,9 @@ Différencier d'une inégalité de longueur des membres inférieurs.
 
 ### Bilan de genu varum
 
-Un genu varum (jambes en O) persistant après 2 ans et demi doit faire rechercher un rachitisme: dosage des [vitamine d]({{% relref "vitamine-d.md" %}}), PTH et calcémie.
+Un genu varum (jambes en O) persistant après 2 ans et demi (30 mois) doit faire rechercher un ==rachitisme==: dosage des [vitamine d]({{% relref "vitamine-d.md" %}}), PTH et calcémie.
+
+En cas de genu varum après 30 mois ou de genu valgum persistant au début de la puberté, demander un ==EOS corps entier== (*SIMS*).
 
 {{% /collapse %}}
 {{%collapse "Traitement des genu varum et genu valgum" %}}
@@ -115,7 +120,7 @@ En cas d'atteinte sévère ou locale, une chirurgie orthopédique peut être pro
 
 {{< mermaid title="Prise en charge de la déformation des membres inférieurs (genu varum et valgum). Dr JB Fron d'après SOFOP et CFCOT" >}}
 graph TB
-  clinique[Déformation des membres inférieurs] --> examen(Examen clinique) -- En O --> varum(Genu varum) -.-> suspect("- Unilatéral<br>- Douloureux<br>- Sévère (&gt; 20°)") -- Goniométrie --> avis(Avis orthopédique)
+  clinique[Déformation des membres inférieurs] --> examen(Examen clinique) -- En O --> varum(Genu varum) -.-> suspect("- Unilatéral<br>- Douloureux<br>- Sévère (&gt; 20°)") --> avis("Avis orthopédique<br>avec EOS corps entier")
       varum -- Avant 30 mois --> abstention(Abstention)
       varum -- "Après 30 mois ans:<br> calcémie, vit D, PTH" --> avis
     examen -- En X --> valgum(Genu valgum)
