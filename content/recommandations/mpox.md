@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
 publishdate = "2022-07-20"
-lastmod = "2025-04-28"
+lastmod = "2025-07-03"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2024"
 sources = ["MinSanté", "HAS", "HCSP"]
@@ -203,7 +203,7 @@ Toutes les personnes avec risque élevé d'exposition au virus de la variole du 
 - Professionnels des lieux de consommation sexuelle
 - Les partenaires ou cohabitants des personnes ci-dessus
 - Voyageurs avec rapports sexuels à risque (*HCSP 2024*)
-- Selon le *HCSP 2024*, voyageurs se rendant en zone à risque de Clade I:
+- Selon le *HCSP 2025*, voyageurs se rendant en [zone à risque de Clade I](https://worldhealthorg.shinyapps.io/mpx_global/):
   - Professionnels de santé ou humanitaires
   - Visite familiale
   - Immunodéprimé
@@ -212,9 +212,9 @@ Toutes les personnes avec risque élevé d'exposition au virus de la variole du 
 
 ### Comment vacciner contre Mpox ?
 
-Accès libre à la vaccination sur auto-déclaration de statut de personne cible (*sante.fr*).
+Accès libre à la vaccination en [centre de vaccination](ttps://www.sante.fr/mpox/) sur auto-déclaration du statut de personne cible (*sante.fr*).
 
-Utilisation le plus souvent de 2 doses de vaccin Mpox (vaccin **MVA-BN** de 3e génération) sauf immunodépression (2 à 3 doses chez PVVIH) ou travailleur du sexe (tableau ci-dessous).
+Utilisation le plus souvent de 2 doses de vaccin Mpox (vaccin **MVA-BN** de 3^e^ génération) sauf immunodépression (2 à 3 doses chez PVVIH) ou travailleur du sexe (tableau ci-dessous).
 
 {{< table title="Schéma de vaccin Mpox à effectuer en prévention primaire selon la *HAS 2024*. **Légende:** **Idep =** immunodéprimé; **MVA-BN =** vaccin de 3e génération" >}}
 | Sujet éligible                       | Vacciné < 1980 | Non vacciné | Idep vacciné < 1980 | Idep non vacciné |

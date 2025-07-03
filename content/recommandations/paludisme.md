@@ -8,7 +8,7 @@ synonyms = ["Malaria"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-17T12:42:00+02:00"
 publishdate = "2021-02-17"
-lastmod = "2024-06-20"
+lastmod = "2025-07-03"
 specialites = ["infectiologie"]
 annees = "2018"
 sources = ["SPILF", "HCSP"]
@@ -82,9 +82,9 @@ Un accès palustre doit être éliminé avant d'étayer les autres causes de fi�
 
 ### Épidémiologie du paludisme en France
 
-- Incidence: 6100 cas estimés en 2023 (7 présumés autochtones, *CNR*)  
+- Incidence: 6160 cas estimés en 2024 (*CNR*)  
   85 % contractés en **Afrique subsaharienne** et 88 % par *Plasmodium falciparum*, sans diminution.
-- 85 % des patients sont des voyageurs retournant au pays
+- 87 % des patients sont des voyageurs retournant au pays
 - Formes graves: 17,7 %, par *P falciparum* +++
 - Décès en France: 19 (2023)
 
@@ -199,12 +199,12 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 
 ### Indication à la chimioprophylaxie antipaludique selon le type de voyage
 
-{{< table title="Indication de la chimioprophylaxie du paludisme (CPAP) et des autres moyens de prévention en zone d'endémie de paludisme selon le continent et les conditions de séjour selon le *HCSP 2024*" >}}
+{{< table title="Indication de la chimioprophylaxie du paludisme (CPAP) et des autres moyens de prévention en zone d'endémie de paludisme selon le continent et les conditions de séjour selon le *HCSP*" >}}
 | Type de séjour | Amérique tropicale,<br>Haïti et Rép Dom. | Afrique sub-<br>saharienne<br>et Yémen | Asie du Sud<br>et Sud-Est | Papouasie<br>Nvle Guinée<br>et Îles Salomon |
 |----------------|------------------------------------------|----------------------------------------|---------------------------|---------------------------------------------|
 | Pour tous | PPAV + CS si F | idem | idem | idem |
-| Séjour conventionnel | Non | CPAP¹ | Non | CPAP¹ |
-| Séjour non conventionnel<br>< 1m avec<br>nuitées en zone<br>rurale/forestière | Non³<br>TTR si isolé | CPAP¹ | Non³<br>TTR si isolé | CPAP¹ |
+| Séjour conventionnel | Pas de CPAP | CPAP¹ | Pas de CPAP | CPAP¹ |
+| Séjour non conventionnel<br>< 1m avec<br>nuitées en zone<br>rurale/forestière | Pas de CPAP³<br>TTR si isolé | CPAP¹ | Pas de CPAP³<br>TTR si isolé | CPAP¹ |
 | Séjour non conventionnel<br>+1m avec<br>nuitées en zone<br>rurale/forestière | Avis spé | CPAP¹ | Avis spé | CPAP¹ |
 | Expatriation prolongée | Avis spé | - Sahel: CPAP<br>en saison pluies²<br>- Forestière:<br>toute l'année | Avis spé | CPAP |
 {{< /table >}}
@@ -263,7 +263,7 @@ Deux vaccins contre le paludisme existent (RTS,S et R21/Matrix-M), recommandés 
 
 ### Atovaquone-proguanil
 
-Spécialités: [atovaquone/proguanil 250/100 mg](https://bdpm.ansm.sante.fr/medicament/66395950/extrait#tab-rcp) (ex Malarone) et [cpP atovaquone/proguanil 62,5/25 mg](https://bdpm.ansm.sante.fr/medicament/68303281/extrait#tab-rcp), comprimés uniquement.
+Spécialités: [atovaquone/proguanil 250/100 mg](https://bdpm.ansm.sante.fr/medicament/66395950/extrait#tab-rcp) (ex Malarone®) et [cpP atovaquone/proguanil 62,5/25 mg](https://bdpm.ansm.sante.fr/medicament/68303281/extrait#tab-rcp), comprimés uniquement.
 
 Prise quotidienne pendant le repas à heure fixe, avec une boisson ou un produit lacté (sucré si besoin, goût amer).
 
@@ -376,11 +376,11 @@ Les traitements d'intention moindre sont l'atovaquone-proguanil voire la quinine
 {{%sources%}}
 
 - {{< references/voyageur >}}
-- [Pasteur. Paludisme : la prise en charge des malades du paludisme à Plasmodium falciuparum mise en périle dans la Corne de l'Afrique. 28/09/2023.](https://www.pasteur.fr/fr/espace-presse/documents-presse/paludisme-prise-charge-malades-du-paludisme-plasmodium-falciparum-mise-peril-corne-afrique)
+- [Pasteur. Paludisme : la prise en charge des malades du paludisme à Plasmodium falciparum mise en péril dans la Corne de l'Afrique. 28/09/2023.](https://www.pasteur.fr/fr/espace-presse/documents-presse/paludisme-prise-charge-malades-du-paludisme-plasmodium-falciparum-mise-peril-corne-afrique)
 - Anofel. Paludisme. Parasitoses et mycoses des régions tempérées et tropicales. 2022.
 - [CMIT. Paludisme. Item 170. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-170-web.pdf)
-- [Bouchaud O et al. Prise en charge et prévention du paludisme d'importation - Mise à jour 2018 des RPC 2007. Médecine et Maladies Infectieuses. 2020.](https://www.sciencedirect.com/science/article/pii/S0399077X19310613)
-- [Egmann G et al; SFMU. Accès palustres : diagnostic et traitement. 2014. (PDF)](https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/028.pdf)
+- [Bouchaud O, et al. Prise en charge et prévention du paludisme d'importation - Mise à jour 2018 des RPC 2007. Médecine et Maladies Infectieuses. 2020.](https://www.sciencedirect.com/science/article/pii/S0399077X19310613)
+- [Egmann G, et al; SFMU. Accès palustres : diagnostic et traitement. 2014. (PDF)](https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/028.pdf)
 - [Centre National de Référence du Paludisme](https://cnr-paludisme.fr)
 - [Institut Pasteur. Recommandations générales - Prévention du paludisme.](https://www.pasteur.fr/fr/centre-medical/vaccination/recommandations-generales#prvention-du-paludisme)
 

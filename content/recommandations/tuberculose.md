@@ -8,7 +8,7 @@ synonyms = ["Bacille de Koch", "Mycobacterium tuberculosis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-06-03T15:14:20+02:00"
 publishdate = "2020-06-03"
-lastmod = "2025-04-10"
+lastmod = "2025-07-03"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2017"
 sources = ["HAS", "MinSanté", "CMIT"]
@@ -23,7 +23,7 @@ todo = "quantiferon positif signe TM ?, KEY: maladie, lutte contre la tuberculos
 
 {{%article-summary%}}
 
-*Ébauche*
+*Ébauche, disponibles: BCG, dépistage, IDR*
 
 - Indications au BCG +++
 - [Maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}})
@@ -90,14 +90,16 @@ Le BCG peut être administré en même temps que n'importe quel autre vaccin mai
 
 ### Pays de forte endémie tuberculeuse
 
+Pays ayant une forte endémie tuberculeuse (taux d'incidence > 40 cas de tuberculose maladie/100.000 habitants):
+
 - France  
   Guyane (18,9/100k), Mayotte (13,2/100k). **NB:** Ile-de-France 11,8/100k dont Seine-Saint-Denis 18,5/100k.
 - Afrique  
-  Sauf Cap Vert, Togo, Tunisie.
+  Sauf Togo, Tunisie.
 - Amérique centrale et du Sud  
   Bolivie, Brésil, Colombie, Équateur, Guyana, Haïti, Nicaragua, République Dominicaine, Panama, Paraguay, Pérou, Salvador, Venezuela.
 - Asie sauf Japon et Corée du Sud
-- Océanie : Papouasie-Nouvelle-Guinée, Iles Salomon
+- Océanie: Papouasie-Nouvelle-Guinée, Iles Salomon
 - Proche Orient  
   Sauf Arabie Saoudite, Chypre, Émirats Arabes Unis, Iran, Irak, Israël, Koweït, Jordanie, Oman, Syrie, Turquie.
 - Europe centrale  
@@ -210,11 +212,12 @@ L'IDR est en faveur de l'absence de primo-infection si elle est < 5 mm (10 mm en
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/voyageur >}}
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Évaluation des stratégies de dépistage et de repérage précoce de la tuberculose pulmonaire. 2025.](https://has-sante.fr/jcms/p_3459735/fr/evaluation-des-strategies-de-depistage-et-de-reperage-precoce-de-la-tuberculose-pulmonaire)
-- {{< references/voyageur >}}
 - [Ministère de la Santé. BCG - Questions/Réponses à destination des professionnels de santé. 2022. (PDF)](https://sante.gouv.fr/IMG/pdf/qr_bcg_ps_mars_2022.pdf)
 - [HAS. Tuberculose maladie. Actes et prestations Affection de longue durée. 2017. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/actualisationlap_tuberculose__web_.pdf)
+- [WHO. Global Programme on Tuberculosis & Lung Health](https://www.who.int/teams/global-tuberculosis-programme/data)
 
 ### Bibliographie en attente
 

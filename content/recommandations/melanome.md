@@ -351,9 +351,9 @@ risque["<b>Sujet à risque de mélanome</b><br>—<br>- Phototype clair<br>- Ép
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/voyageur >}}
 - [INCa. Mélanomes cutanés - Du diagnostic au suivi. 2024.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Melanomes-cutanes-Du-diagnostic-au-suivi)
 - [INCa. Les mélanomes cutanés en 10 points clés. 2024.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-melanomes-cutanes-en-10-points-cles)
-- {{< references/voyageur >}}
 - {{< references/inca-cancers-mortalite >}}
 - [Garbe C et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00152-6/fulltext)
 - [Garbe C et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 2: Treatment - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00228-3/fulltext)
