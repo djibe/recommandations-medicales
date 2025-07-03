@@ -9,10 +9,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-25T14:37:17+01:00"
 publishdate = "2022-01-25"
-lastmod = "2022-01-25"
+lastmod = "2025-07-02"
 specialites = ["pédiatrie"]
-annees = "2019"
-sources = ["Acad Médecine"]
+annees = "2025"
+sources = ["MinSanté", "Acad Médecine"]
 tags = ["adolescent", "enfant"]
 english = []
 sctid = ""
@@ -24,7 +24,8 @@ todo = "https://www.santepubliquefrance.fr/docs/temps-d-ecran-de-2-a-5-ans-et-de
 
 {{%article-summary%}}
 
-- Pas d'écrans avant 3 ans, sauf accompagné occasionnel
+- Jamais d'écrans avant 3 ans
+- Très occasionnel de 3 à 6 ans, accompagné par un adulte
 - [Fiche information pour les parents (PDF)](https://www.cmg.fr/wp-content/uploads/2024/03/Kit-ecran-2023.pdf) (*CMG*)
 
 {{%/article-summary%}}
@@ -32,24 +33,25 @@ todo = "https://www.santepubliquefrance.fr/docs/temps-d-ecran-de-2-a-5-ans-et-de
 
 ### Avant 3 ans
 
-<< Ne pas mettre à la disposition des enfants laissés seuls les écrans sous toutes leurs formes et surtout ceux dont les enfants peuvent eux-mêmes contrôler l'usage (tablettes, portables).  
-Une exception peut être faite en faveur d'un usage accompagné, récréatif, que l'on peut encourager avec modération et prudence : dans tous les cas, la participation parentale à l'interactivité est absolument indispensable.  
-Les règles d'usage peuvent être explicitées en mots et établies en commun. >>
+Interdiction des écrans dans les lieux d'accueil des enfants avant 3 ans ([arrêté](Les écrans sont interdits dans les lieux d'accueil des enfants de moins de 3 ans ([arrêté](https://solidarites.gouv.fr/protection-de-la-petite-enfance-publication-de-larrete-interdisant-lexposition-des-enfants-de-moins-de-3-ans-aux-ecrans-dans-les-lieux-daccueil-du-jeune-enfant)).)).
 
-### De 3 à 10 ans
+> [!INFO]
+> << Avant 3 ans : aucun écran – même allumé en fond sonore. >> -- *Ministère de la Santé*
 
-<< Il est important de fixer un temps ritualisé dédié aux écrans afin d'apprendre à l'enfant à attendre (ce qui constitue le premier moment de l'apprentissage de l'autorégulation), de préférer les écrans partagés et accompagnés aux écrans solitaires, de parler avec l'enfant de ce qu'il voit et fait avec les écrans, et d'éviter d'acheter aux plus jeunes des objets numériques personnels (comme une tablette) dont il s'avère bien difficile ensuite de réguler l'usage.  
-L'achat d'outils numériques familiaux devrait être la règle.  
-Une attention particulière doit être portée à l'utilisation des écrans le soir avant le coucher, tant en raison du temps consommé au détriment d'autres activités que pour la difficulté d'endormissement ainsi créée. >>
+### De 3 à 6 ans
 
-### Après 10 ans
+> [!INFO]
+> << Entre 3 et 6 ans : très occasionnellement, avec un adulte, et pour des contenus adaptés. >> -- *Ministère de la Santé*
 
-<< Il importe que les parents maintiennent un dialogue positif sur l'utilisation des écrans et restent attentifs aux symptômes de fatigue liés aux troubles du sommeil, aux signes d'isolement pouvant conduire à un repli sur soi et à un fléchissement des résultats scolaires.  
-Insistons à ce propos sur la fausse bonne idée d'une récupération du sommeil le week-end, qui, en réalité, ne fait que conforter la désynchronisation de l'enfant. >>
+### A tout âge
 
-### Tous les âges
+> [!INFO]
+> << À tout âge : jamais d'écran pendant les repas, avant de dormir ou pour calmer un enfant.
+Donner l'exemple : en présence de votre enfant, réduisez aussi votre propre temps d'écran. >> -- *Ministère de la Santé*
 
-<< Il faut que les parents s'emploient à un usage raisonné de leurs propres outils numériques, notamment quand ils interagissent avec un jeune enfant, et, quand l'enfant grandit, que le dialogue soit maintenu sur ces questions. >>
+### Adultes
+
+<< Il faut que les parents s'emploient à un usage raisonné de leurs propres outils numériques, notamment quand ils interagissent avec un jeune enfant, et, quand l'enfant grandit, que le dialogue soit maintenu sur ces questions. >> -- Académie de médecine
 
 {{% /collapse %}}
 {{%collapse "Corps enseignant et pouvoirs publics" %}}
@@ -67,7 +69,8 @@ Les normes de sécurité oculaire devraient prendre en compte la photosensibilit
 {{% /collapse %}}
 {{%sources%}}
 
-[Académie de médecine. L'enfant, l'adolescent, la famille et les écrans - Appel à une vigilance raisonnée sur les technologies numériques. Avril 2019.](https://www.academie-sciences.fr/fr/Rapports-ouvrages-avis-et-recommandations-de-l-Academie/enfant-ecrans-technologies-numeriques.html)
+- [Ministère de la Santé. Protection de la petite enfance : publication de l'arrêté interdisant l'exposition des enfants de moins de 3 ans aux écrans dans les lieux d'accueil du jeune enfant. 2025.](https://solidarites.gouv.fr/protection-de-la-petite-enfance-publication-de-larrete-interdisant-lexposition-des-enfants-de-moins-de-3-ans-aux-ecrans-dans-les-lieux-daccueil-du-jeune-enfant)
+- [Académie de médecine. L'enfant, l'adolescent, la famille et les écrans - Appel à une vigilance raisonnée sur les technologies numériques. Avril 2019.](https://www.academie-sciences.fr/fr/Rapports-ouvrages-avis-et-recommandations-de-l-Academie/enfant-ecrans-technologies-numeriques.html)
 
 ### Bibliographie en attente
 
