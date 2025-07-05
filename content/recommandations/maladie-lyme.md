@@ -17,7 +17,7 @@ sctid = "23502006"
 icd10 = ["A69.2"]
 image = true
 imageSrc = "Érythème migrant après piqûre de tique. monkeypuzzle / Foter"
-todo = "algo HAS Annexe 2 et 3, vaccin encéphalite à tiques"
+todo = "update"
 flowchart = true
 chart = true
 modele = true
@@ -79,18 +79,18 @@ MVT
 
 ### Épidémiologie de la maladie de Lyme en France
 
-Incidence de la maladie de Lyme 53 cas/100.000 habitants en 2024 ([Sentinelles](https://www.sentiweb.fr/france/fr/?page=table&maladie=18)).
+L'incidence de la maladie de Lyme atteignait 53 cas/100.000 habitants en 2024 (*[Sentinelles](https://www.sentiweb.fr/france/fr/?page=table&maladie=18)*).
 
-{{< figure-chart title="Incidence de la maladie de Lyme en France sur la période 2009-2024. Nombre de cas pour 100.000 habitants ([Sentinelles](https://www.sentiweb.fr/france/fr/?page=maladies&mal=18))" >}}
+{{< figure-chart title="Incidence de la maladie de Lyme en France sur la période 2009-2024. Nombre de cas pour 100.000 habitants. ([Réseau Sentinelles](https://www.sentiweb.fr/france/fr/?page=maladies&mal=18))" >}}
 
 <script defer>
   const chartOptions1 = {
       series: [{
         name: "Incidence",
-        data: []
+        data: [42,42,41,44,55,41,51,84,69,104,76,91,71,51,59,53]
       }],
       xaxis: {
-        categories: []
+        categories: [2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024]
       },
       chart: {
         height: 192,
@@ -98,25 +98,8 @@ Incidence de la maladie de Lyme 53 cas/100.000 habitants en 2024 ([Sentinelles](
       },
       stroke: { colors: ['#4150f5'], curve: 'smooth', width: 4 },
       title: { text: 'Incidence de la maladie de Lyme en France' },
-      yaxis: { min: 0 }
+      yaxis: { min: 0, max: 120 }
     }
-async function fetchSentiwebData() {
-  try {
-    const response = await fetch("https://www.sentiweb.fr/api/v1/datasets/rest/dataset?id=inc-18-PAY");
-    if (!response.ok) {
-      throw new Error("Erreur HTTP : " + response.status);
-    }
-    const json = await response.json();
-    const data = json.data.map((item) => item.inc100).reverse();
-    const year = json.data.map((item) => item.year).reverse();
-
-    chartOptions1.series[0].data = data;
-    chartOptions1.xaxis.categories = year;
-  } catch (error) {
-    console.error("Erreur lors de la récupération des données:", error);
-  }
-}
-fetchSentiwebData();
 </script>
 
 {{% /collapse %}}
@@ -420,8 +403,12 @@ graph TB
 {{%/sources%}}
 {{% modele %}}
 
-**Piqûre de tique:** extraction, [signaler la piqûre](https://tiquotheque.fr/signalement/public/), auto-surveillance 1 mois.
+### Piqûre de tique
 
-**Érythème migrant:** doxycycline 100 mg x 2/j pendant 10 jours
+Extraction, [signaler la piqûre](https://tiquotheque.fr/signalement/public/), auto-surveillance 1 mois.
+
+**Érythème migrant**
+
+doxycycline 100 mg x 2/j pendant 10 jours
 
 {{% /modele %}}
