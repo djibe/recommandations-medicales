@@ -22,45 +22,232 @@ todo = "descr > summary > liens > photo > newsletter > flow"
 datatable = false
 +++
 
-<div>
-  <div id="orama-ui">
-    <orama-search-button onClick="open = !open" colorScheme="system" size="small" label="Rechercher ...">Rechercher ...</orama-search-button>
-    <orama-search-box placeholder="Rechercher ..."></orama-search-box>
+<!-- Formulaire de saisie -->
+<form id="score-form">
+  <div class="form-row">
+    <!-- Sexe -->
+    <div class="form-group col-md-6">
+        <label class="font-weight-bold text-secondary">Sexe</label>
+        <div class="btn-group btn-group-toggle d-flex" data-toggle="buttons">
+            <label class="btn btn-outline-primary active w-100">
+                <input type="radio" name="gender" value="female" autocomplete="off" checked> Femme
+            </label>
+            <label class="btn btn-outline-primary w-100">
+                <input type="radio" name="gender" value="male" autocomplete="off"> Homme
+            </label>
+        </div>
+    </div>
+    <!-- Fumeur -->
+    <div class="form-group col-md-6">
+        <label class="font-weight-bold text-secondary">Statut Tabagique</label>
+        <div class="btn-group btn-group-toggle d-flex" data-toggle="buttons">
+            <label class="btn btn-outline-primary active w-100">
+                <input type="radio" name="smoker" value="0" autocomplete="off" checked> Non-fumeur
+            </label>
+            <label class="btn btn-outline-primary w-100">
+                <input type="radio" name="smoker" value="1" autocomplete="off"> Fumeur
+            </label>
+        </div>
+    </div>
   </div>
-</div>
+    <!-- Âge -->
+    <div class="form-group">
+        <label for="age" class="font-weight-bold text-secondary">Âge (40-69 ans)</label>
+        <input type="number" class="form-control form-control-lg" id="age" name="age" min="40" max="69" required oninvalid="setCustomValidity('Âge de 40 à 69 ans')" onchange="this.setCustomValidity('')">
+    </div>
+    <div class="form-row">
+        <!-- Pression Artérielle Systolique -->
+        <div class="form-group col-md-6">
+            <label for="sbp" class="font-weight-bold text-secondary">Pression Artérielle Systolique (mmHg)</label>
+            <input type="number" class="form-control form-control-lg" id="sbp" name="sbp" min="70" max="260" oninvalid="setCustomValidity('PAS en mmHg')" onchange="this.setCustomValidity('')">
+        </div>
+        <!-- Cholestérol non-HDL -->
+        <!--<div class="form-group col-md-6">
+            <label for="non-hdl" class="font-weight-bold text-secondary">Cholestérol non-HDL (mg/dL)</label>
+            <input type="number" class="form-control form-control-lg" id="non-hdl" name="non-hdl" placeholder="Ex: 150">
+        </div>-->
+        <div class="form-group col-md-6">
+            <label for="cht" class="font-weight-bold text-secondary">Cholestérol total (mmol/L)</label>
+            <input type="number" class="form-control form-control-lg" id="cht" name="cht" min="0" step="0.1">
+        </div>
+        <div class="form-group col-md-6">
+            <label for="hdl" class="font-weight-bold text-secondary">Cholestérol HDL (mmol/L)</label>
+            <input type="number" class="form-control form-control-lg" id="hdl" name="hdl" min="0" step="0.1">
+        </div>
+    </div>
+    <!-- Bouton de calcul -->
+    <button type="button" id="calculate-btn" class="btn btn-primary btn-lg btn-block mt-4">
+        Calculer le Risque à 10 ans
+    </button>
+</form>
+                <!-- Section des résultats -->
+                <div id="result-section" class="mt-4 text-center d-none">
+                    <h2 class="h4 font-weight-bold text-dark mb-3">Votre Résultat</h2>
+                    <div id="result-display" class="alert" role="alert">
+                        <p class="h1 font-weight-bold mb-1" id="risk-score"></p>
+                        <p class="h5 font-weight-bold" id="risk-category"></p>
+                        <hr>
+                        <p class="mb-0 small" id="risk-description"></p>
+                    </div>
+                     <!-- Disclaimer -->
+                    <p class="text-muted small mt-3">
+                        <strong>Avertissement :</strong> Ce calculateur est un outil d'information et ne remplace pas un avis médical. Les résultats sont une estimation et doivent être interprétés par un professionnel de santé.
+                    </p>
+                </div>
+                <!-- Section d'erreur -->
+                <div id="error-section" class="mt-4 d-none">
+                     <div class="alert alert-danger" role="alert">
+                        <strong class="font-weight-bold">Erreur :</strong>
+                        <span id="error-message"></span>
+                    </div>
+                </div>
+
+> SCORE2 working group and ESC Cardiovascular risk collaboration, SCORE2 risk prediction algorithms: new models to estimate 10-year risk of cardiovascular disease in Europe, European Heart Journal, Volume 42, Issue 25, 1 July 2021, Pages 2439–2454, https://doi.org/10.1093/eurheartj/ehab309.
+> And supplementary data > SCORE2 Updated Supplementary Material.docx > Supplementary methods Table 4: Illustration of risk estimation for a non-diabetic man or woman with given risk factor values
+
+SCORE2-OP
+
+> SCORE2-OP working group and ESC Cardiovascular risk collaboration, SCORE2-OP risk prediction algorithms: estimating incident cardiovascular event risk in older persons in four geographical risk regions, European Heart Journal, Volume 42, Issue 25, 1 July 2021, Pages 2455–2467, https://doi.org/10.1093/eurheartj/ehab312 
+> And supplementary data > Supplementary material_20210604_v2.docx > Supplementary Methods Table 3: Example calculations for the estimated CVD event risk for an individual patient using SCORE2-OP
 
 <script>
-  let open = false;
-  const searchBoxConfig = {
-    "resultsMap": {
-      "path": "uri",
-      "title": "title",
-      "section": "section",
-      "description": "description"
-    },
-    "colorScheme": "system",
-    "disableChat": "true",
-    "chatPlaceholder": "Rechercher ...",
-    "searchPlaceholder": "Rechercher ...",
-    "themeConfig": {}
-};
+        // Ce script implémente le calcul du risque cardiovasculaire selon l'algorithme SCORE2
+        // pour les régions à faible risque.
+        // Source: SCORE2 risk prediction algorithms, ESC European Heart Journal, 2021.
 
-  Object.assign(document.querySelector("orama-search-box"), {
-    ...searchBoxConfig,
-    open: open,
-    index: {
-      endpoint: "https://cloud.orama.run/v1/indexes/recomed-dl104p",
-      api_key: "XGaqNFc9rhGEZmKlricWN2TOvOkIguPR",
-    },
-  });
-</script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const calculateBtn = document.getElementById('calculate-btn');
+            const form = document.getElementById('score-form');
+            const resultSection = document.getElementById('result-section');
+            const resultDisplay = document.getElementById('result-display');
+            const riskScoreEl = document.getElementById('risk-score');
+            const riskCategoryEl = document.getElementById('risk-category');
+            const riskDescriptionEl = document.getElementById('risk-description');
+            const errorSection = document.getElementById('error-section');
+            const errorMessageEl = document.getElementById('error-message');
 
----
+            // Coefficients SCORE2 pour les pays à faible risque (ex: France)
+            let coeffs = {
+                female: { age: 0.4648, smoker: 0.7744, sbp: 0.3131, tchol: 0.1002, hdl: -0.2606, smoker_age: -0.1088, sbp_age: -0.0277, tchol_age: -0.0226, hdl_age: 0.0613, basesurv: 0.9776, scale1: -0.7380, scale2: 0.7019 },
+                male: { age: 0.3742, smoker: 0.6012, sbp: 0.2777, tchol: 0.1458, hdl: -0.2698, smoker_age: -0.0755, sbp_age: -0.0255, tchol_age: -0.0281, hdl_age: 0.0426, basesurv: 0.9605, scale1: -0.5699, scale2: 0.7476 }
+            };
 
-<button class="btn-text" popovertarget="mypopover">Toggle the popover</button>
-<div id="mypopover" popover>Popover content</div>
+            calculateBtn.addEventListener('click', calculateScore);
 
-## Plan action asthme
+            function calculateScore() {
+                // Masquer les anciens résultats et erreurs
+                resultSection.classList.add('d-none');
+                errorSection.classList.add('d-none');
+
+                // Récupérer les valeurs du formulaire
+                const gender = form.elements['gender'].value;
+                const age = parseFloat(form.elements['age'].value);
+                const isSmoker = parseInt(form.elements['smoker'].value);
+                const sbp = parseInt(form.elements['sbp'].value);
+                const tchol = parseFloat(form.elements['cht'].value);
+                const hdl = parseFloat(form.elements['hdl'].value);
+
+                // SCORE2-OP
+                if (age >= 70) {
+                  coeffs = {
+                    female: { age: 0.0789, smoker: 0.4921, sbp: 0.0102, tchol: 0.0605, hdl: -0.3040, smoker_age: -0.0255, sbp_age: -0.0004, tchol_age: -0.0009, hdl_age: 0.0154, basesurv: 0.9776, scale1: -0.7380, scale2: 0.7019 },
+                    male: { age: 0.0634, smoker: 0.3524, sbp: 0.0094, tchol: 0.0850, hdl: -0.3564, smoker_age: -0.0247, sbp_age: -0.0005, tchol_age: -0.0073, hdl_age: 0.0091, basesurv: 0.9605, scale1: -0.5699, scale2: 0.7476 }
+                  };
+                }
+
+                const c = coeffs[gender];
+
+                // Calcul du prédicteur linéaire (LP)
+                const cage = (age - 60) / 5;
+                const csbp = (sbp - 120) / 20;
+                const ctchol = (tchol - 6).toPrecision(1);
+                const cthdl = ((hdl - 1.3) / 0.5).toPrecision(1);
+                console.log('cage: ' + cage)
+                console.log('cage calc: ' + cage * c.age)
+                console.log('csbp: ' + csbp)
+                console.log('csbp calc: ' + csbp * c.sbp)
+                console.log('ctchol: ' + ctchol)
+                console.log('ctchol calc: ' + ctchol * c.tchol)
+                console.log('cthdl: ' + cthdl)
+                console.log('cthdl calc: ' + cthdl * c.hdl)
+                console.log('smoker_age calc: ' + (-2 * c.smoker_age))
+                console.log('sbp_age calc: ' + (-2 * c.sbp_age))
+                console.log('tchol_age calc: ' + (-2 * 0.3 * c.tchol_age))
+                console.log('hdl_age calc: ' + (-2 * 0.2 * c.hdl_age))
+                const linearPredictor = 
+                (cage * c.age) 
+                + (isSmoker * c.smoker)
+                + (csbp * c.sbp) 
+                + (ctchol * c.tchol) 
+                + (cthdl * c.hdl) 
+                + (-2 * c.smoker_age) 
+                + (-2 * c.sbp_age) 
+                + (-2 * 0.3 * c.tchol_age) 
+                + (-2 * 0.2 * c.hdl_age);
+                console.log('linearPredictor: ' + linearPredictor);
+                // Calcul du risque à 10 ans non calibré
+                const uncalibrated_risk = 1 - c.basesurv ** Math.exp(linearPredictor);
+                console.log('uncalibrated: ' + uncalibrated_risk);
+
+                // Calibration pays à bas risque
+                const calibrated_10y_risk = 1 - Math.exp(
+                  -Math.exp(
+                    c.scale1 + c.scale2 * Math.log(
+                      -Math.log(1 - uncalibrated_risk)
+                    )
+                  )
+                );
+                console.log('calibrated: ' + calibrated_10y_risk);
+
+                // Conversion en pourcentage
+                const riskPercent = ( calibrated_10y_risk * 100).toFixed(1);
+
+                displayResult(riskPercent, age);
+            }
+
+            function displayResult(risk, age) {
+                let category = '';
+                let alertClass = '';
+
+                // Les seuils de risque varient avec l'âge selon les recommandations de l'ESC
+                let thresholds;
+                if (age < 50) {
+                    thresholds = { low: 2.5, moderate: 7.5 };
+                } else if (age >= 50 && age <= 69) {
+                    thresholds = { low: 5, moderate: 10 };
+                } else {
+                    thresholds = { low: 7.5, moderate: 15 };
+                }
+
+                if (risk < thresholds.low) {
+                    category = 'Faible à modéré';
+                    alertClass = 'alert-success';
+                } else if (risk < thresholds.moderate) {
+                    category = 'Élevé';
+                    alertClass = 'alert-warning';
+                } else {
+                    category = 'Très élevé';
+                    alertClass = 'alert-danger';
+                }
+
+                riskScoreEl.textContent = `${risk}%`;
+                riskCategoryEl.textContent = category;
+                riskDescriptionEl.textContent = `Risque de développer une maladie cardiovasculaire fatale ou non fatale dans les 10 prochaines années.`;
+                // Mise à jour des classes de l'alerte
+                resultDisplay.className = 'alert'; // Réinitialiser les classes
+                resultDisplay.classList.add(alertClass);
+
+                resultSection.classList.remove('d-none');
+            }
+
+            function showError(message) {
+                errorMessageEl.textContent = message;
+                errorSection.classList.remove('d-none');
+            }
+        });
+    </script>
+
+## Plan action asthme {.mt-5}
 
 <!--<div class="card card-body bg-primary-light shadow-none my-2 flex-row justify-content-between">
   <div>
