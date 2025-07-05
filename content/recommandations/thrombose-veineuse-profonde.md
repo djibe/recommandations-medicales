@@ -35,6 +35,7 @@ Recommandations pour la prise en charge d'une suspicion de thrombose veineuse pr
 - Contrôler les critères d'hospitalisation d'une phlébite (voir *Critères d'hospitalisation*)
 - Mener l'enquête étiologique de la survenue de cet épisode
 - Prise en charge de la TVP par anticoagulants
+- En cas d'antécédent de TVP et de voyage en avion: [lire Voyage]({{% relref "voyage.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

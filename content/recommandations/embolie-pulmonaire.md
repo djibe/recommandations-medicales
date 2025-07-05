@@ -30,6 +30,7 @@ todo = "Figure 11, def des signes, p.21, flowchart duree, def cancer actif"
 - La suspicion clinique d'embolie pulmonaire chez un patient stable est évaluée avec le score de Genève ou de Wells
 - Une suspicion faible d'embolie pulmonaire peut être infirmée par la règle PERC (sauf âge ≥ 50 ans, grossesse ou post-partum)
 - Adresser aux urgences toute suspicion d'embolie pulmonaire non infirmée par la règle PERC
+- En cas d'antécédent d'embolie pulmonaire et de voyage en avion: [lire Voyage]({{% relref "voyage.md" %}})
 
 Chapitre lié: [thrombose veineuse profonde (TVP)]({{% relref "thrombose-veineuse-profonde.md" %}})
 
