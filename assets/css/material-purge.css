@@ -443,7 +443,8 @@ dfn {
   font-style: italic;
 }
 
-::selection {
+::selection,
+::target-text {
   background-color: rgba(65, 80, 245, 0.08);
 }
 
@@ -1030,7 +1031,7 @@ a.close.disabled {
   display: flex;
   font-size: 1rem;
   font-weight: 400;
-  justify-content: center;
+  justify-content: safe center;
   line-height: 2.25;
   margin-left: 0.5em;
   min-width: 2.25rem;
@@ -1172,7 +1173,7 @@ tr.collapse.show {
   font-size: 0.875rem;
   font-weight: 500;
   height: 2.25rem;
-  justify-content: center;
+  justify-content: safe center;
   letter-spacing: 0.0892857143em;
   line-height: inherit;
   margin: 0;
@@ -1410,6 +1411,31 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   line-height: 2.5rem;
   width: 2.5rem;
 }
+
+/* .btn-group-fluid {
+  background-color: transparent;
+  box-shadow: none;
+} */
+[data-toggle='buttons'] > .btn {
+  margin-bottom: 0;
+}
+
+[data-toggle='buttons'] > .btn [type='checkbox'],
+[data-toggle='buttons'] > .btn [type='radio'] {
+  clip: rect(0, 0, 0, 0);
+  pointer-events: none;
+  position: absolute;
+}
+
+/* .btn-sm + .dropdown-toggle-split {
+  padding-right: $btn-padding-x-sm * .75;
+  padding-left: $btn-padding-x-sm * .75;
+}
+
+.btn-lg + .dropdown-toggle-split {
+  padding-right: $btn-padding-x-lg * .75;
+  padding-left: $btn-padding-x-lg * .75;
+} */
 
 .card {
   background-color: #ffffff;
@@ -1712,9 +1738,8 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover {
   font-size: 0.875rem;
   font-weight: 500;
   height: 2rem;
-  justify-content: center;
+  justify-content: safe center;
   letter-spacing: 0.017857em;
-  line-height: 1.25rem;
   margin: 0.25rem;
   overflow: hidden;
   padding: 0 1rem;
@@ -2062,7 +2087,7 @@ input:disabled + .chip {
 .modal-dialog-centered.modal-dialog-scrollable {
   flex-direction: column;
   height: 100%;
-  justify-content: center;
+  justify-content: safe center;
 }
 
 .modal-dialog-centered.modal-dialog-scrollable::before {
@@ -2864,7 +2889,7 @@ input:disabled + .chip {
   font-size: 0.875rem;
   font-weight: 500;
   height: 3rem;
-  justify-content: center;
+  justify-content: safe center;
   letter-spacing: 0.089286em;
   line-height: 2.25rem;
   max-width: 22.5rem;

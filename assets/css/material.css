@@ -466,7 +466,8 @@ dfn {
   font-style: italic;
 }
 
-::selection {
+::selection,
+::target-text {
   background-color: rgba(65, 80, 245, 0.08);
 }
 
@@ -1901,7 +1902,7 @@ a.close.disabled {
   .form-inline label, .form-inline legend {
     align-items: center;
     display: flex;
-    justify-content: center;
+    justify-content: safe center;
     margin-bottom: 0;
   }
   .form-inline .form-group {
@@ -1929,7 +1930,7 @@ a.close.disabled {
   .form-inline .form-check {
     align-items: center;
     display: flex;
-    justify-content: center;
+    justify-content: safe center;
     padding-left: 0;
     width: auto;
   }
@@ -1942,7 +1943,7 @@ a.close.disabled {
   }
   .form-inline .custom-control {
     align-items: center;
-    justify-content: center;
+    justify-content: safe center;
   }
   .form-inline .custom-control-label {
     margin-bottom: 0;
@@ -2156,7 +2157,7 @@ a.close.disabled {
   display: flex;
   font-size: 1rem;
   font-weight: 400;
-  justify-content: center;
+  justify-content: safe center;
   line-height: 2.25;
   margin-left: 0.5em;
   min-width: 2.25rem;
@@ -2340,7 +2341,7 @@ tr.collapse.show {
   font-size: 0.875rem;
   font-weight: 500;
   height: 2.25rem;
-  justify-content: center;
+  justify-content: safe center;
   letter-spacing: 0.0892857143em;
   line-height: inherit;
   margin: 0;
@@ -2577,6 +2578,8 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 }
 
 .btn-lg,
+.btn-group-lg > .btn,
+.btn-group-lg > .card-link,
 .input-group-lg > .input-group-append > .btn,
 .input-group-lg > .input-group-append > .card-link,
 .input-group-lg > .input-group-prepend > .btn,
@@ -2586,6 +2589,8 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 }
 
 .btn-sm,
+.btn-group-sm > .btn,
+.btn-group-sm > .card-link,
 .input-group-sm > .input-group-append > .btn,
 .input-group-sm > .input-group-append > .card-link,
 .input-group-sm > .input-group-prepend > .btn,
@@ -3032,6 +3037,256 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 
 .fab-actions > .btn, .fab-actions > .card-link {
   margin-top: 1.25rem;
+}
+
+.btn-group,
+.btn-group-vertical {
+  border-radius: 12px;
+  background-color: white;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+  display: inline-flex;
+  position: relative;
+}
+
+.btn-group > .btn-primary.disabled, .btn-group > .btn-primary:disabled,
+.btn-group-vertical > .btn-primary.disabled,
+.btn-group-vertical > .btn-primary:disabled {
+  background-color: #ecedfe;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.btn-group > .btn-secondary.disabled, .btn-group > .btn-secondary:disabled,
+.btn-group-vertical > .btn-secondary.disabled,
+.btn-group-vertical > .btn-secondary:disabled {
+  background-color: #ffca7f;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.btn-group > .btn-danger.disabled, .btn-group > .btn-danger:disabled,
+.btn-group-vertical > .btn-danger.disabled,
+.btn-group-vertical > .btn-danger:disabled {
+  background-color: #f194a6;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.btn-group > .btn-info.disabled, .btn-group > .btn-info:disabled,
+.btn-group-vertical > .btn-info.disabled,
+.btn-group-vertical > .btn-info:disabled {
+  background-color: #91cdf9;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.btn-group > .btn-success.disabled, .btn-group > .btn-success:disabled,
+.btn-group-vertical > .btn-success.disabled,
+.btn-group-vertical > .btn-success:disabled {
+  background-color: #6bfbce;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.btn-group > .btn-warning.disabled, .btn-group > .btn-warning:disabled,
+.btn-group-vertical > .btn-warning.disabled,
+.btn-group-vertical > .btn-warning:disabled {
+  background-color: #ffc77d;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.btn-group > .btn-dark.disabled, .btn-group > .btn-dark:disabled,
+.btn-group-vertical > .btn-dark.disabled,
+.btn-group-vertical > .btn-dark:disabled {
+  background-color: #757575;
+  color: white;
+}
+
+.btn-group > .btn-light.disabled, .btn-group > .btn-light:disabled,
+.btn-group-vertical > .btn-light.disabled,
+.btn-group-vertical > .btn-light:disabled {
+  background-color: #fafafa;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.btn-group > .btn, .btn-group > .card-link,
+.btn-group-vertical > .btn,
+.btn-group-vertical > .card-link {
+  box-shadow: none;
+  flex: 1 1 auto;
+  min-width: 0;
+  padding-right: 0.75rem;
+  padding-left: 0.75rem;
+  position: relative;
+}
+
+.btn-group > .btn:hover, .btn-group > .card-link:hover, .btn-group > .btn:focus, .btn-group > .card-link:focus, .btn-group > .btn:active, .btn-group > .card-link:active, .btn-group > .btn.active, .btn-group > .active.card-link,
+.btn-group-vertical > .btn:hover,
+.btn-group-vertical > .card-link:hover,
+.btn-group-vertical > .btn:focus,
+.btn-group-vertical > .card-link:focus,
+.btn-group-vertical > .btn:active,
+.btn-group-vertical > .card-link:active,
+.btn-group-vertical > .btn.active,
+.btn-group-vertical > .active.card-link {
+  z-index: 1;
+}
+
+.btn-group > .btn:active, .btn-group > .card-link:active, .btn-group > .btn.active, .btn-group > .active.card-link,
+.btn-group-vertical > .btn:active,
+.btn-group-vertical > .card-link:active,
+.btn-group-vertical > .btn.active,
+.btn-group-vertical > .active.card-link {
+  background-color: rgba(0, 0, 0, 0.12);
+}
+
+.btn-group > .btn:disabled, .btn-group > .card-link:disabled, .btn-group > .btn.disabled, .btn-group > .disabled.card-link,
+.btn-group-vertical > .btn:disabled,
+.btn-group-vertical > .card-link:disabled,
+.btn-group-vertical > .btn.disabled,
+.btn-group-vertical > .disabled.card-link {
+  opacity: 0.7;
+}
+
+.btn-group > .btn[class*='btn-outline'], .btn-group > .card-link[class*='btn-outline'],
+.btn-group-vertical > .btn[class*='btn-outline'],
+.btn-group-vertical > .card-link[class*='btn-outline'] {
+  border: 0;
+}
+
+.btn-group > .btn[class*='btn-outline'].active, .btn-group > .card-link[class*='btn-outline'].active, .btn-group > .btn[class*='btn-outline']:active, .btn-group > .card-link[class*='btn-outline']:active,
+.btn-group-vertical > .btn[class*='btn-outline'].active,
+.btn-group-vertical > .card-link[class*='btn-outline'].active,
+.btn-group-vertical > .btn[class*='btn-outline']:active,
+.btn-group-vertical > .card-link[class*='btn-outline']:active {
+  background-color: rgba(0, 0, 0, 0.12);
+}
+
+.btn-group > .btn-group,
+.btn-group > .btn-group-vertical,
+.btn-group-vertical > .btn-group,
+.btn-group-vertical > .btn-group-vertical {
+  border-radius: 0;
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.btn-group.show > .dropdown-toggle {
+  box-shadow: none;
+}
+
+.btn-group > .btn, .btn-group > .card-link,
+.btn-group > .btn-group {
+  margin-left: -1px;
+}
+
+.btn-group > .btn:first-child, .btn-group > .card-link:first-child,
+.btn-group > .btn-group:first-child {
+  margin-left: 0;
+}
+
+.btn-group > .btn:not(:first-child), .btn-group > .card-link:not(:first-child),
+.btn-group > .btn-group:not(:first-child) > .btn,
+.btn-group > .btn-group:not(:first-child) > .card-link {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.btn-group > .btn:not(:last-child):not(.dropdown-toggle), .btn-group > .card-link:not(:last-child):not(.dropdown-toggle),
+.btn-group > .btn-group:not(:last-child) > .btn,
+.btn-group > .btn-group:not(:last-child) > .card-link,
+.btn-group > .dropdown-toggle:not(:last-of-type) {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.btn-group-vertical {
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: safe center;
+}
+
+
+.btn-group-vertical > .btn,
+.btn-group-vertical > .card-link,
+.btn-group-vertical > .btn-group {
+  margin-top: -1px;
+  margin-left: 0;
+  width: 100%;
+}
+
+.btn-group-vertical > .btn:first-child, .btn-group-vertical > .card-link:first-child,
+.btn-group-vertical > .btn-group:first-child {
+  margin-top: 0;
+}
+
+.btn-group-vertical > .btn:not(:first-child), .btn-group-vertical > .card-link:not(:first-child),
+.btn-group-vertical > .btn-group:not(:first-child) > .btn,
+.btn-group-vertical > .btn-group:not(:first-child) > .card-link {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.btn-group-vertical > .btn:not(:last-child):not(.dropdown-toggle), .btn-group-vertical > .card-link:not(:last-child):not(.dropdown-toggle),
+.btn-group-vertical > .btn-group:not(:last-child) > .btn,
+.btn-group-vertical > .btn-group:not(:last-child) > .card-link,
+.btn-group-vertical > .dropdown-toggle:not(:last-of-type) {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+/* .btn-group-fluid {
+  background-color: transparent;
+  box-shadow: none;
+} */
+[data-toggle='buttons'] > .btn, [data-toggle='buttons'] > .card-link,
+[data-toggle='buttons'] > .btn-group > .btn,
+[data-toggle='buttons'] > .btn-group > .card-link {
+  margin-bottom: 0;
+}
+
+[data-toggle='buttons'] > .btn [type='checkbox'], [data-toggle='buttons'] > .card-link [type='checkbox'],
+[data-toggle='buttons'] > .btn [type='radio'],
+[data-toggle='buttons'] > .card-link [type='radio'],
+[data-toggle='buttons'] > .btn-group > .btn [type='checkbox'],
+[data-toggle='buttons'] > .btn-group > .card-link [type='checkbox'],
+[data-toggle='buttons'] > .btn-group > .btn [type='radio'],
+[data-toggle='buttons'] > .btn-group > .card-link [type='radio'] {
+  clip: rect(0, 0, 0, 0);
+  pointer-events: none;
+  position: absolute;
+}
+
+/* .btn-sm + .dropdown-toggle-split {
+  padding-right: $btn-padding-x-sm * .75;
+  padding-left: $btn-padding-x-sm * .75;
+}
+
+.btn-lg + .dropdown-toggle-split {
+  padding-right: $btn-padding-x-lg * .75;
+  padding-left: $btn-padding-x-lg * .75;
+} */
+.btn-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.btn-toolbar .input-group {
+  width: auto;
+}
+
+.btn-group-toggle > .btn, .btn-group-toggle > .card-link,
+.btn-group-toggle > .btn-group > .btn,
+.btn-group-toggle > .btn-group > .card-link {
+  margin-bottom: 0;
+}
+
+.btn-group-toggle > .btn [type='radio'], .btn-group-toggle > .card-link [type='radio'],
+.btn-group-toggle > .btn [type='checkbox'],
+.btn-group-toggle > .card-link [type='checkbox'],
+.btn-group-toggle > .btn-group > .btn [type='radio'],
+.btn-group-toggle > .btn-group > .card-link [type='radio'],
+.btn-group-toggle > .btn-group > .btn [type='checkbox'],
+.btn-group-toggle > .btn-group > .card-link [type='checkbox'] {
+  clip: rect(0, 0, 0, 0);
+  pointer-events: none;
+  position: absolute;
 }
 
 .card {
@@ -3580,9 +3835,8 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
   font-size: 0.875rem;
   font-weight: 500;
   height: 2rem;
-  justify-content: center;
+  justify-content: safe center;
   letter-spacing: 0.017857em;
-  line-height: 1.25rem;
   margin: 0.25rem;
   overflow: hidden;
   padding: 0 1rem;
@@ -3761,7 +4015,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
   font-size: 1rem;
   font-style: normal;
   font-weight: 500;
-  justify-content: center;
+  justify-content: safe center;
 }
 
 .chip-sm {
@@ -4232,7 +4486,7 @@ input:disabled + .chip {
 .modal-dialog-centered.modal-dialog-scrollable {
   flex-direction: column;
   height: 100%;
-  justify-content: center;
+  justify-content: safe center;
 }
 
 .modal-dialog-centered.modal-dialog-scrollable::before {
@@ -6485,7 +6739,7 @@ input:disabled + .chip {
   font-size: 0.875rem;
   font-weight: 500;
   height: 3rem;
-  justify-content: center;
+  justify-content: safe center;
   letter-spacing: 0.089286em;
   line-height: 2.25rem;
   max-width: 22.5rem;
@@ -7613,7 +7867,7 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
 .input-group-prepend {
   align-items: center;
   display: flex;
-  justify-content: center;
+  justify-content: safe center;
 }
 
 .input-group-append .btn, .input-group-append .card-link,
@@ -8350,7 +8604,7 @@ select.is-invalid.form-control:hover[multiple], select.is-invalid.form-control:h
   display: inline-flex;
   flex-shrink: 0;
   height: 2.25rem;
-  justify-content: center;
+  justify-content: safe center;
   line-height: 1;
   padding: 0;
   position: relative;
