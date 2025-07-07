@@ -4,13 +4,13 @@ title = "Médicaments écrasables: ouvrir et écraser des comprimés et gélules
 titleSeo = "Médicaments pouvant être écrasés"
 prefix = "les "
 noSearchContent = true
-description = "Liste SFPC et Omédit des médicaments, comprimés et gélules pouvant être ouverts et écrasés, leurs conditions d'administration et informations complémentaires"
+description = "Liste SFPC et Omédit Normandie des médicaments, comprimés et gélules pouvant être ouverts et écrasés, leurs conditions d'administration et informations complémentaires"
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-06-05T22:27:15+02:00"
 publishdate = "2025-06-06"
-lastmod = "2025-07-01"
+lastmod = "2025-07-07"
 specialites = ["thérapeutique"]
 annees = "2025"
 sources = ["SFPC"]
@@ -28,11 +28,11 @@ datatable = true
 
 - Au cours de lourdes pathologies, l'administration de médicaments essentiels peut être compliquée, le patient ne pouvant déglutir
 - Des précisions sur les médicaments pouvant être écrasés ou ouverts est ici précisée, en spécifiant également ceux qui ne doivent jamais être altérés
-- La liste contient actuellement 620 médicaments écrasables ou non, publiée par la Société Française de Pharmacie Clinique (SFPC) et l'OMéDIT Normandie
+- La liste contient actuellement 623 médicaments écrasables ou non, publiée par la Société Française de Pharmacie Clinique (SFPC) et l'OMéDIT Normandie
 
 {{%/article-summary%}}
 
-{{< csv-to-table file="/data/medicaments-ecrasables.csv" title="Liste des médicaments pouvant être écrasés ou non, avec leurs conditions de prise et de manipulation. Dr JB Fron d'après SFPC et Omedit Normandie juin 2025" >}}
+{{< csv-to-table file="/data/medicaments-ecrasables.csv" title="Liste des médicaments pouvant être écrasés ou non, avec leurs conditions de prise et de manipulation. Dr JB Fron d'après Omedit Normandie et SFPC juillet 2025" >}}
 
 {{%sources%}}
 
