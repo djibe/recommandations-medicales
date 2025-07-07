@@ -315,6 +315,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Pers YM, et al. Recommendations from the French Societies of Rheumatology and Physical Medicine and Rehabilitation on the non-pharmacological management of knee osteoarthritis. Ann Phys Rehabil Med. 2024.](https://www.sciencedirect.com/science/article/pii/S1877065724000678)
 - [Duong V, et al. Evaluation and Treatment of Knee Pain: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811009)
 - [Hannon CP, et al. 2023 American College of Rheumatology and American Association of Hip and Knee Surgeons Clinical Practice Guideline for the Optimal Timing of Elective Hip or Knee Arthroplasty for Patients With Symptomatic Moderate-to-Severe Osteoarthritis or Advanced Symptomatic Osteonecrosis With Secondary Arthritis for Whom Nonoperative Therapy Is Ineffective. Arthritis Care Res (Hoboken). 2023.](https://rheumatology.org/indications-for-total-hip-and-knee-arthroplasty-guideline)
 
