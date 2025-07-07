@@ -1,10 +1,10 @@
 +++
-title = "Forfait structure 2024 pour le généraliste"
-description = "Explication et détail des indicateurs du Forfait structure pour le généraliste en 2024 détaillés dans l'Avenant 9. Valeur du point et montants des primes"
+title = "Forfait structure 2025 pour le généraliste"
+description = "Explication et détail des indicateurs du Forfait structure pour le généraliste en 2025 définis dans l'Avenant 9. Valeur du point et montants des primes"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-16T09:20:00+02:00"
 publishdate = "2022-05-16"
-lastmod = "2025-02-13"
+lastmod = "2025-07-07"
 specialites = []
 annees = "2025"
 sources = ["CNAM"]
@@ -14,19 +14,20 @@ imageSrc = "vectorjuice / Freepik"
 todo = "écriture SEO"
 +++
 
-Le **Forfait structure** correspond à une prime annuelle versée par l'*Assurance Maladie* pour favoriser l'engagement des médecins dans le respect des protocoles numériques du système de santé (logiciels, aide à la prescription, feuilles de soins électroniques, messagerie sécurisée ...) et des modes d'exercices coordonnés.
+Le **Forfait structure** correspond à une prime annuelle versée par l'*Assurance Maladie* pour favoriser l'engagement des médecins dans le respect des protocoles numériques du système de santé (logiciels, aide à la prescription, feuilles de soins électroniques, messagerie sécurisée ...) et des modes d'exercices coordonnés.  
+Il disparaîtra en 2026, remplacé par la Dotation Numérique -- **Donum**.
 {.lead}
 
-Les montants versés couvrent potentiellement intégralement les [dépenses d'équipement]({{% relref "peripheriques-ordinateur.md" %}}) (webcam ou autre) et de services informatiques (téléconsultation, dossier patient) avec 1960 € versés pour le *Volet 1* (uniquement si tous les critères sont remplis) et 6181 € pour le *Volet 2* (sous réserve de remplir le Volet 1, puis selon chaque indicateur rempli). En 2024, la valeur du point restait fixée à 7€.
+Les montants versés couvrent potentiellement intégralement les [dépenses d'équipement]({{% relref "peripheriques-ordinateur.md" %}}) (webcam ou autre) et de services informatiques (téléconsultation, dossier patient) avec 1960 € versés pour le *Volet 1* (uniquement si tous les critères sont remplis) et 6181 € pour le *Volet 2* (sous réserve de remplir le Volet 1, puis selon chaque indicateur rempli). En 2025, la valeur du point reste fixée à 7 €.
 {.lead}
 
 Le Forfait structure est segmenté en 2 parties: équipement du cabinet et service aux patients, avec un certain montant accordé pour chaque indicateur. Au total, la prime maximale 2022 atteignait 9695 € (1385 points pour 7€ le point). En 2023, le forfait moyen reçu par praticien a été de **4214 €**.
 
 La déclaration des objectifs est complétée depuis *AmeliPro* (section *Déclarer mes indicateurs*).
 
-## Forfait structure Volet 1 : Équipement du cabinet 2024
+## Forfait structure Volet 1 : Équipement du cabinet 2025
 
-**280 points, soit 1960 €** seront accordés pour l'application des éléments suivants durant l'année 2024:
+**280 points, soit 1960 €** seront accordés pour l'application des éléments suivants durant l'année 2025:
 
 - Utiliser un [DPI référencé *Ségur*](https://industriels.esante.gouv.fr/segur-du-numerique-en-sante/solutions-referencees-segur) avec logiciel d'aide à la prescription (LAP) certifié HAS
 - Utiliser le chiffrement Sesam-Vitale 1.4 addendum 8* intégrant l'app Carte Vitale
@@ -37,7 +38,7 @@ La déclaration des objectifs est complétée depuis *AmeliPro* (section *Décla
 > \* Pour utiliser le dernier chiffrement Sesam-Vitale des FSE, il faut disposer d'un DPI à jour et de [lecteurs de carte à puce]({{% relref "peripheriques-ordinateur.md" %}}) pour la carte vitale et la carte CPS  
 DPI = dossier patient informatisé (ou logiciel médical)
 
-## Forfait structure Volet 2 : Service aux patients 2024
+## Forfait structure Volet 2 : Service aux patients 2025
 
 Les primes du volet 2 ne sont accessibles que lorsque l'ensemble des points du Volet 1 sont respectés, et versées à la carte selon les critères remplis (883 points soit 6181 €):
 
@@ -63,13 +64,13 @@ Les primes du volet 2 ne sont accessibles que lorsque l'ensemble des points du V
 > AAT = arrêt de travail en ligne ; AT/MP = certificat médical d'accident de travail ou de maladie professionnelle ; DMT = déclaration médecin traitant ; PSE = protocole de soins électronique ; SPE = prescription électronique de transport. Il ne prend en compte que les affiliés au Régime Général.  
 **MSS** = messagerie sécurisée de santé (MSSanté ou Apicrypt v2)
 
-## Forfait structure : ce qui va changer en 2024
+## Forfait structure : ce qui va changer en 2026
 
-Une plus forte utilisation aux outils *Ameli Pro* est demandée.
+Le Forfait Structure disparaîtra au 1er janvier et sera remplacé par la **Donum** (Dotation Numérique).
 
-## Le volet de synthèse médicale (VSM), forfait supplémentaire
+## Le volet de synthèse médicale (VSM), forfait supplémentaire temporaire
 
-Le volet de synthèse médicale vient en complément du *Forfait structure* pour soutenir le temps passé à alimenter le Dossier Médical Partagé (DMP) des patients.
+Le volet de synthèse médicale est venu en complément du *Forfait structure* pour soutenir le temps passé à alimenter le Dossier Médical Partagé (DMP) des patients. Il n'est plus disponible en 2025.
 
 Le **volet de synthèse médicale (VSM)** est un bref récapitulatif présentant le patient, ses antécédents, allergies, traitements en cours ou autres particularités. Il vise à sécuriser le parcours de soins afin que tous les soignants disposent des informations essentielles pour la prise en charge du patient.
 
@@ -109,6 +110,7 @@ SAS
 
 ## Sources
 
+- [Ameli Médecin. Une nouvelle dotation numérique recentrée sur les usages numériques. 26/02/2025.](https://www.ameli.fr/medecin/textes-reference/convention-medicale-2024-2029/grands-axes-convention-detail/mesures-attractivite-exercice-liberal/nouvelle-dotation-numerique)
 - [Assurance Maladie. Guide méthodologique Forfait structure 2024. (PDF)](https://www.ameli.fr/sites/default/files/Documents/guide-methodologique-forfait-Structure%202024_assurance-maladie.pdf)
 - [Ameli Médecin. Modernisation du cabinet médical avec le forfait structure. 04/03/2024.](https://www.ameli.fr/paris/medecin/exercice-liberal/vie-cabinet/aides-financieres/modernisation-cabinet)
 - [Assurance Maladie. Note méthodologique de la rémunération valorisant l'élaboration et l'alimentation du Volet de Synthèse Médicale (VSM) par les médecins traitants pour les patients en ALD. 2023. (PDF)](https://www.ameli.fr/sites/default/files/Documents/20231213_%20Note%20methodologique%20r%C3%A9mun%C3%A9ration%20VSM%20ALD_MT.pdf)
