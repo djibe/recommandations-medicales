@@ -24,65 +24,55 @@ datatable = false
 
 <!-- Formulaire de saisie -->
 <form id="score-form">
-  <div class="form-row">
-    <!-- Sexe -->
-    <div class="form-group col-md-6">
-        <label class="font-weight-bold text-secondary">Sexe</label>
-        <div class="btn-group btn-group-toggle d-flex" data-toggle="buttons">
-            <label class="btn btn-outline-primary active w-100">
-                <input type="radio" name="gender" value="female" autocomplete="off" checked> Femme
-            </label>
-            <label class="btn btn-outline-primary w-100">
-                <input type="radio" name="gender" value="male" autocomplete="off"> Homme
-            </label>
-        </div>
-    </div>
-    <!-- Fumeur -->
-    <div class="form-group col-md-6">
-        <label class="font-weight-bold text-secondary">Statut Tabagique</label>
-        <div class="btn-group btn-group-toggle d-flex" data-toggle="buttons">
-            <label class="btn btn-outline-primary active w-100">
-                <input type="radio" name="smoker" value="0" autocomplete="off" checked> Non-fumeur
-            </label>
-            <label class="btn btn-outline-primary w-100">
-                <input type="radio" name="smoker" value="1" autocomplete="off"> Fumeur
-            </label>
-        </div>
+  <!-- Sexe -->
+  <div class="form-group">
+    <label class="font-weight-bold text-secondary">Sexe</label>
+    <div class="btn-group btn-group-toggle shadow-none" data-toggle="buttons">
+      <label class="btn btn-outline-primary active">
+        <input type="radio" name="gender" value="female" checked>Femme
+      </label>
+      <label class="btn btn-outline-primary">
+        <input type="radio" name="gender" value="male">Homme
+      </label>
     </div>
   </div>
-    <!-- Âge -->
+    <!-- Fumeur -->
     <div class="form-group">
-        <label for="age" class="font-weight-bold text-secondary">Âge (40-69 ans)</label>
-        <input type="number" class="form-control form-control-lg" id="age" name="age" min="40" max="69" required oninvalid="setCustomValidity('Âge de 40 à 69 ans')" onchange="this.setCustomValidity('')">
-    </div>
-    <div class="form-row">
-        <!-- Pression Artérielle Systolique -->
-        <div class="form-group col-md-6">
-            <label for="sbp" class="font-weight-bold text-secondary">Pression Artérielle Systolique (mmHg)</label>
-            <input type="number" class="form-control form-control-lg" id="sbp" name="sbp" min="70" max="260" oninvalid="setCustomValidity('PAS en mmHg')" onchange="this.setCustomValidity('')">
-        </div>
-        <!-- Cholestérol non-HDL -->
-        <!--<div class="form-group col-md-6">
-            <label for="non-hdl" class="font-weight-bold text-secondary">Cholestérol non-HDL (mg/dL)</label>
-            <input type="number" class="form-control form-control-lg" id="non-hdl" name="non-hdl" placeholder="Ex: 150">
-        </div>-->
-        <div class="form-group col-md-6">
-            <label for="cht" class="font-weight-bold text-secondary">Cholestérol total (mmol/L)</label>
-            <input type="number" class="form-control form-control-lg" id="cht" name="cht" min="0" step="0.1">
-        </div>
-        <div class="form-group col-md-6">
-            <label for="hdl" class="font-weight-bold text-secondary">Cholestérol HDL (mmol/L)</label>
-            <input type="number" class="form-control form-control-lg" id="hdl" name="hdl" min="0" step="0.1">
+      <label class="font-weight-bold text-secondary">Tabagisme</label>
+      <div class="btn-group btn-group-toggle" data-toggle="buttons">
+        <label class="btn btn-outline-primary active">
+          <input type="radio" name="smoker" value="0" autocomplete="off" checked>Non-fumeur
+        </label>
+        <label class="btn btn-outline-primary">
+          <input type="radio" name="smoker" value="1" autocomplete="off">Fumeur
+        </label>
         </div>
     </div>
-    <!-- Bouton de calcul -->
-    <button type="button" id="calculate-btn" class="btn btn-primary btn-lg btn-block mt-4">
-        Calculer le Risque à 10 ans
-    </button>
+  <!-- Âge -->
+  <div class="form-group floating-label textfield-box form-ripple">
+    <label for="age">Âge (40+ ans)</label>
+    <input type="number" class="form-control" id="age" name="age" min="40" max="69" required oninvalid="setCustomValidity('Âge de 40 à 69 ans')" onchange="this.setCustomValidity('')">
+  </div>
+  <!-- Pression Artérielle Systolique -->
+  <div class="form-group floating-label textfield-box form-ripple">
+    <label for="sbp">Pression artérielle systolique (mmHg)</label>
+    <input type="number" class="form-control" id="sbp" name="sbp" min="70" max="260" required oninvalid="setCustomValidity('PAS en mmHg')" onchange="this.setCustomValidity('')">
+  </div>
+  <div class="form-group floating-label textfield-box form-ripple">
+    <label for="cht">Cholestérol total (mmol/L)</label>
+    <input type="number" class="form-control" id="cht" name="cht" min="0" step="0.1" required oninvalid="setCustomValidity('Cholestérol total en mmol/L')" onchange="this.setCustomValidity('')">
+  </div>
+  <div class="form-group floating-label textfield-box form-ripple">
+    <label for="hdl">Cholestérol HDL (mmol/L)</label>
+    <input type="number" class="form-control" id="hdl" name="hdl" min="0" step="0.1">
+  </div>
+  <!-- Bouton de calcul -->
+  <button type="button" id="calculate-btn" class="btn btn-primary btn-lg btn-block my-4">
+    Calculer le Risque à 10 ans
+  </button>
 </form>
                 <!-- Section des résultats -->
-                <div id="result-section" class="mt-4 text-center d-none">
-                    <h2 class="h4 font-weight-bold text-dark mb-3">Votre Résultat</h2>
+                <div id="result-section" class="mt-4 text-center alert border rounded-xl d-none">
                     <div id="result-display" class="alert" role="alert">
                         <p class="h1 font-weight-bold mb-1" id="risk-score"></p>
                         <p class="h5 font-weight-bold" id="risk-category"></p>
@@ -102,21 +92,21 @@ datatable = false
                     </div>
                 </div>
 
-> SCORE2 working group and ESC Cardiovascular risk collaboration, SCORE2 risk prediction algorithms: new models to estimate 10-year risk of cardiovascular disease in Europe, European Heart Journal, Volume 42, Issue 25, 1 July 2021, Pages 2439–2454, https://doi.org/10.1093/eurheartj/ehab309.
-> And supplementary data > SCORE2 Updated Supplementary Material.docx > Supplementary methods Table 4: Illustration of risk estimation for a non-diabetic man or woman with given risk factor values
+> -- <small>[SCORE2 working group and ESC Cardiovascular risk collaboration, SCORE2 risk prediction algorithms: new models to estimate 10-year risk of cardiovascular disease in Europe, European Heart Journal, Volume 42, Issue 25, 1 July 2021, Pages 2439–2454.](https://doi.org/10.1093/eurheartj/ehab309)</small>
+> Et <small>supplementary data > SCORE2 Updated Supplementary Material.docx > Supplementary methods Table 4: Illustration of risk estimation for a non-diabetic man or woman with given risk factor values</small>.
 
 SCORE2-OP
 
-> SCORE2-OP working group and ESC Cardiovascular risk collaboration, SCORE2-OP risk prediction algorithms: estimating incident cardiovascular event risk in older persons in four geographical risk regions, European Heart Journal, Volume 42, Issue 25, 1 July 2021, Pages 2455–2467, https://doi.org/10.1093/eurheartj/ehab312 
+> -- SCORE2-OP working group and ESC Cardiovascular risk collaboration, SCORE2-OP risk prediction algorithms: estimating incident cardiovascular event risk in older persons in four geographical risk regions, European Heart Journal, Volume 42, Issue 25, 1 July 2021, Pages 2455–2467, https://doi.org/10.1093/eurheartj/ehab312 
 > And supplementary data > Supplementary material_20210604_v2.docx > Supplementary Methods Table 3: Example calculations for the estimated CVD event risk for an individual patient using SCORE2-OP
 
 <script>
-        // Ce script implémente le calcul du risque cardiovasculaire selon l'algorithme SCORE2
-        // pour les régions à faible risque.
-        // Source: SCORE2 risk prediction algorithms, ESC European Heart Journal, 2021.
+  // Ce script implémente le calcul du risque cardiovasculaire selon l'algorithme SCORE2
+  // pour les régions à faible risque.
+  // Source: SCORE2 risk prediction algorithms, ESC European Heart Journal, 2021.
 
-        document.addEventListener('DOMContentLoaded', function() {
-            const calculateBtn = document.getElementById('calculate-btn');
+document.addEventListener('DOMContentLoaded', function() {
+  const calculateBtn = document.getElementById('calculate-btn');
             const form = document.getElementById('score-form');
             const resultSection = document.getElementById('result-section');
             const resultDisplay = document.getElementById('result-display');
@@ -220,18 +210,18 @@ SCORE2-OP
                 }
 
                 if (risk < thresholds.low) {
-                    category = 'Faible à modéré';
+                    category = 'Risque faible à modéré <br> LDL cible &lt; 1 g/L';
                     alertClass = 'alert-success';
                 } else if (risk < thresholds.moderate) {
-                    category = 'Élevé';
+                    category = 'Risque élevé <p> Obtenir une réduction du LDL ≥ 50% et une cible &lt; 0,7 g/L </p>';
                     alertClass = 'alert-warning';
                 } else {
-                    category = 'Très élevé';
+                    category = 'Risque très élevé <br> Obtenir une réduction du LDL ≥ 50% et une cible &lt; 0,55 g/L quel que soit l’âge';
                     alertClass = 'alert-danger';
                 }
 
-                riskScoreEl.textContent = `${risk}%`;
-                riskCategoryEl.textContent = category;
+                riskScoreEl.textContent = `${Intl.NumberFormat("fr-FR").format(risk)} %`;
+                riskCategoryEl.innerHTML = category;
                 riskDescriptionEl.textContent = `Risque de développer une maladie cardiovasculaire fatale ou non fatale dans les 10 prochaines années.`;
                 // Mise à jour des classes de l'alerte
                 resultDisplay.className = 'alert'; // Réinitialiser les classes
