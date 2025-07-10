@@ -60,7 +60,7 @@ Cancer de la prostate familial
 
 **NB.** En cas d'[hypogonadisme]({{< relref "andropause-deficit-testosterone.md" >}}), la supplémentation en testostérone n'augmente pas le risque de cancer de la prostate.
 
-### Facteurs pronostiques
+### Facteurs  du cancer de la prostate
 
 Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de Gleason et ISUP** (évolution du Gleason) au diagnostic.
 
@@ -79,11 +79,11 @@ Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de G
 ### Épidémiologie du cancer de la prostate
 
 - **Incidence du cancer de la prostate:** 59.885 nouveaux cas (métropole 2018, 1^er^ cancer de l'homme)
-- **Décès:** 8100 (métropole 2018, 3^e^ cause de décès par cancer de l'homme)
+- **Décès:** 9228 (métropole 2022, 2^e^ cause de décès par cancer de l'homme)
+- Survie à 5 ans: 92 % (80% à 10 ans)
 - Âge médian au diagnostic: 69 ans
 - Prévalence du cancer de la prostate à l'autopsie: 5% avant 30 ans et 59% chez les +79 ans  
   Enjeu de ne traiter que les cancers agressifs.
-- Survie nette standardisée à 5 ans: 93 % (80% à 10 ans)
 
 {{< card-link-external title="Dépenses liées au cancer de la prostate" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Cancers&refine.patho_niv2=Cancer%20de%20la%20prostate">}}
 
@@ -311,6 +311,7 @@ graph TB
 
 {{< youtube id="szF2WjhtRE4" title="Cancer de la prostate et pesticides : procédure de reconnaissance (Assurance Maladie)" >}}
 
+- [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [Cornford P, et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2025.](https://uroweb.org/guidelines/prostate-cancer)
 - [Ploussard G, et al. French AFU Cancer Committee Guidelines - Update 2024-2026: Prostate cancer - Management of metastatic disease and castration resistance. Fr J Urol. 2024.](https://www.sciencedirect.com/science/article/pii/S2950393024001670)
 - {{< references/beh-cancers-incidence >}}

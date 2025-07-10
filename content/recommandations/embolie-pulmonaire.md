@@ -26,7 +26,7 @@ todo = "Figure 11, def des signes, p.21, flowchart duree, def cancer actif"
 *En voie de finalisation. La durée de traitement est manquante*
 
 - Évoquer une embolie pulmonaire (EP) devant: dyspnée, douleur thoracique ou malaise non expliqué par un autre diagnostic
-- Signes de gravité de l'embolie pulmonaire: hypotension artérielle, état de choc, détresse respiratoire. Appel du 15
+- Signes de gravité de l'embolie pulmonaire: hypotension artérielle, état de choc, détresse respiratoire. Appel du SAMU
 - La suspicion clinique d'embolie pulmonaire chez un patient stable est évaluée avec le score de Genève ou de Wells
 - Une suspicion faible d'embolie pulmonaire peut être infirmée par la règle PERC (sauf âge ≥ 50 ans, grossesse ou post-partum)
 - Adresser aux urgences toute suspicion d'embolie pulmonaire non infirmée par la règle PERC

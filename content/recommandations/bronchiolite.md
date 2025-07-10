@@ -132,7 +132,7 @@ VRS
 
 ### Critères d'hospitalisation de la bronchiolite (premier épisode)
 
-L'hospitalisation est la règle en présence de signe de gravité (*forme grave* ou *modérée* avec certains paramètres) avec appel du 15:
+L'hospitalisation est la règle en présence de signe de gravité (*forme grave* ou *modérée* avec certains paramètres) avec appel du SAMU:
 
 - Altération de l'état général  
   Modification du comportement, hypotonie, mauvaise impression clinique.
@@ -373,7 +373,7 @@ graph TB
                   fragilite -- Modérée + fragilité --> consultation(Consultation quotidienne)
             impression --> moderee("<b>Forme modérée</b>")
               moderee --> education
-          gravite -- Oui --> hospitalisation(Appel du 15 et<br>hospitalisation)
+          gravite -- Oui --> hospitalisation(Appel du SAMU et<br>hospitalisation)
       moins12 --> 2(2<sup>e</sup> épisode) --> atopie(Atopie personnelle<br>ou familiale ?)
         atopie -- Non --> bronchiolite
         atopie -- Oui --> asthme

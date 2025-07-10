@@ -200,6 +200,7 @@ Informations sur la scoliose:
 
 ### Bibliographie en attente
 
+- [Société Française d'Orthopédie Pédiatrique. Le devenir des pathologies pédiatriques à l'âge adulte. 2025. ISBN 9782956835394. (PDF)](https://www.sofop.org/medias/files/textes_scientifiques/monographies/2025/Monographie-SOFOP-2025.pdf)
 - [International Society on Scoliosis Orthopaedic and Rehabilitation Treatment (SOSORT)](https://www.sosort.org)
 - [Blevins K, et al. Management of Scoliosis. Adv Pediatr. 2018.](https://www.advancesinpediatrics.com/article/S0065-3101(18)30014-8/fulltext) (payant)
 

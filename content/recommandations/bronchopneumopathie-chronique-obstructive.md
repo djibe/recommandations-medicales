@@ -10,7 +10,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr B. HOUSSET (SPLF) et Dr S. LAUNOIS (SFRMS/SPLF)"
 date = "2021-03-28T23:07:00+02:00"
 publishdate = "2021-04-14"
-lastmod = "2025-03-06"
+lastmod = "2025-07-08"
 specialites = ["pneumologie"]
 annees = "2025"
 sources = ["GOLD", "ERS", "HAS", "SPLF"]
@@ -38,6 +38,14 @@ todo = "rankok | PLAN D'ACTION - TargetCOPD, action plan <https://www.livingwell
 - **NB.** La BPCO n'est pas une contre-indication aux bêtabloquants (*ESC 2016 IC*)
 
 {{%/article-summary%}}
+
+<div class="alert">
+{{< traitements/gold-groupe >}}
+
+<small>Aide au choix du traitement bronchodilatateur de la BPCO (*GOLD 2025*).</small>
+
+</div>
+
 {{%collapse "Définitions" %}}
 
 Bronchopneumopathie chronique obstructive (BPCO)
@@ -253,7 +261,7 @@ Tabagisme, âge +35 ans, dyspnée persistante et progressive, décrite comme né
 - Glycémie à jeun
 - Bilan lipidique
 - Radiographie de thorax  
-  Répétée lors des exacerbations (SFR).
+  Répétée lors des exacerbations (*SFR*).
 - Consultation de cardiologie
 - Consultation de pneumologie
 
@@ -261,13 +269,13 @@ Tabagisme, âge +35 ans, dyspnée persistante et progressive, décrite comme né
 
 ### Spirométrie
 
-La spirométrie est l'examen diagnostique et de suivi de référence: trouble ventilatoire obstructif non réversible (VEMS/CV post-bronchodilatateur < 0,7) et {{< modal-btn modal-severite-bpco >}}sévérité de l'obstruction bronchique (VEMS){{< /modal-btn >}}.
+La ==spirométrie== est l'examen diagnostique et de suivi de référence: **trouble ventilatoire obstructif non réversible** (VEMS/CV post-bronchodilatateur < 0,7) et {{< modal-btn modal-severite-bpco >}}sévérité de l'obstruction bronchique (VEMS){{< /modal-btn >}}.
 
-Cotation CCAM d'une spirométrie: GLQP012 soit 41,08 €.
+Cotation CCAM d'une spirométrie: GLQP012 (41,08 €).
 
 ### Gaz du sang
 
-Indications aux gaz du sang: SpO~2~ ≤ 92%, {{< modal-btn modal-score-mmrc >}}mMRC ≥ 3{{< /modal-btn >}}, {{< modal-btn modal-severite-bpco >}}stade obstructif ≥ 3{{< /modal-btn >}}, suspicion d'[embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}}) ou d'hypercapnie.
+Indications aux **gaz du sang**: SpO~2~ ≤ 92%, {{< modal-btn modal-score-mmrc >}}mMRC ≥ 3{{< /modal-btn >}}, {{< modal-btn modal-severite-bpco >}}stade obstructif ≥ 3{{< /modal-btn >}}, suspicion d'[embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}}) ou d'hypercapnie.
 
 ### Autres examens
 
@@ -312,15 +320,14 @@ Indications aux gaz du sang: SpO~2~ ≤ 92%, {{< modal-btn modal-score-mmrc >}}m
 - L'hôpital inclut dans le [programme Prado BPCO](https://www.ameli.fr/medecin/exercice-liberal/services-patients/prado#text_19402)
 - Consultation du médecin traitant dans la semaine  
   Puis suivi à 1 mois, 3 mois, 6 mois et 1 an.
-- Contrôle de la [technique d'inhalation](https://splf.fr/videos-zephir/) et du traitement par BDLA ({{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-lama >}}association LABA + LAMA{{< /modal-btn >}})
-- Consultation du pneumologue dans les 2 mois  
+- Contrôle de la [technique d'inhalation](https://splf.fr/videos-zephir/) de la {{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}})
+- Consultation du **pneumologue** dans les 2 mois  
   {{%class%}}Avec EFR et gaz du sang.{{%/class%}}
-- Réhabilitation respiratoire dans les 2 à 4 semaines  
+- **Réhabilitation respiratoire** dans les 2 à 4 semaines  
   {{%class%}}Diminue la mortalité (50% à 5 ans) et les ré-hospitalisations.{{%/class%}}
 - Encourager à l'arrêt du tabac (voir *Traitement de fond*)
 - Suivi infirmier à domicile
 - Contrôler le Plan d'Action
-- Poursuivre les traitements de fond
 
 {{% /collapse %}}
 {{%collapse "Exacerbation de BPCO: traitement et Plan d'Action" %}}
@@ -359,20 +366,18 @@ Joindre le courrier détaillé des traitements en cours, contexte social, dernie
 
 ### 5. Traitement de l'exacerbation de BPCO
 
-- Bronchodilatateurs
-  - Augmenter la dose et la fréquence des {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}} jusqu'à l'amélioration des symptômes.  
-    Ex: 1-2 bouffées toutes les 2-4 heures
+- **Bronchodilatateurs**
+  - Augmenter la dose et la fréquence des {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}} jusqu'à l'amélioration des symptômes (ex: 1-2 bouffées toutes les 2-4 heures) et du traitement de fond
   - Envisager l'utilisation d'une chambre d'inhalation (3-5 inspirations par dose de BDCA)
-  - Augmenter la dose du traitement de fond
-- Kinésithérapie respiratoire si encombrement
+- Si encombrement: kinésithérapie respiratoire
 - ==Antibiothérapie ≤ 5 jours si: aggravation de la dyspnée et augmentation du volume et de la purulence des crachats pendant ≥ 48 heures OU BPCO très sévère== (*HAS 2024*)
   - Amoxicilline 1g x 3/j pendant maximum 5 jours
   - Si allergie aux pénicillines: pristinamycine 1g x 3/j pendant 4 jours
   - Si pénurie: clarithromycine 500 mg x 2/j, roxithromycine 150 mg x 2/j, spiramycine 6-9 MUI/j ou doxycycline 200 mg x 1/j
   - ECBC en cas d'exacerbations fréquentes (*GOLD*)
-- **Antibiothérapie adaptée** si critères ci-dessus avec facteur de risque d'échec ou de complication  
+- **Antibiothérapie adaptée** si critères ci-dessus avec facteur de risque d'échec ou de complication:  
   +65 ans, échec de la 1re ligne, ≥ 2 exacerbations par an ou 1 hospitalisation, VEMS < 50%, insuffisance cardiaque ou SCA, désaturation/oxygénothérapie.
-  - Amoxicilline/acide clavulanique 1g x 3/j pendant max 5 jours
+  - Amoxicilline/acide clavulanique 1g x 3/j pendant maximum 5 jours
   - Si allergie aux pénicillines: triméthoprime/sulfaméthoxazole 800/160 mg x 2/j ou ceftriaxone 1-2 g x 1/j IV ou SC
   - Si pénurie: idem absence de facteur de risque
   - En dernier recours: lévofloxacine 500 mg x 1/j (ne pas utiliser si *Pseudomonas aeruginosa* connu)
@@ -411,17 +416,17 @@ bénéfices
 
 Mesures générales de prise en charge de la BPCO:
 
-- **[Arrêt du tabac]({{% relref "arret-tabac.md" %}})**
+- ==**[Arrêt du tabac]({{% relref "arret-tabac.md" %}})**==
   - Principal facteur pronostique
   - Prise en charge optimale (conseil minimal, [substituts]({{% relref "substituts-nicotiniques.md" %}}), [tabac-info-service](https://www.tabac-info-service.fr/), tabacologue, psychothérapie, varénicline)
   - Autres expositions aux toxiques et gaz domestiques et professionnels  
     Aérosols, combustion de bois ou biomasse, moisissures.
-- **Vaccinations**
+- ==**Vaccinations**==
   - Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}}) avec la coqueluche
   - Covid-19 et grippe annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}
   - +65 ans: VRS 1 fois (NR -- *HAS 2024*)
   - +50 ans: [zona]({{% relref "zona.md" %}}) (*GOLD 2025*, 65 ans dans le Calendrier vaccinal)
-- **Réhabilitation respiratoire**
+- ==**Réhabilitation respiratoire**==
   - Essentielle pour quasi tous (GOLD B et E) pour réduire la dyspnée, le stress et améliorer la qualité de vie
   - Dès 1 mois post-hospitalisation, durée 6-8 semaines, répétée si besoin
   - [Liste des centres de réhabilitation respiratoire (RR)](https://umap.openstreetmap.fr/fr/map/carte-de-la-readaptation-respiratoire-alveole_465719)

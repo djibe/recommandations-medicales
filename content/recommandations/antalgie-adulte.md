@@ -197,7 +197,7 @@ La **somnolence** est le premier signe de surdosage. Elle doit être différenci
 - FR < **10/min** = **seuil d'alerte**. Réduire ou arrêter l'antalgique, envisager la naloxone
 - FR < 8/min avec trouble de la vigilance (Richmond 4 TODO: annexe 5)
   - Conscience, respiration, PLS
-  - Appel du 15
+  - Appel du SAMU
   - Naloxone systématique
   - Répéter à 2-3 minutes
 

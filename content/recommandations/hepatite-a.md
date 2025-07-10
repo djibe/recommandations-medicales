@@ -81,7 +81,7 @@ Indications à la vaccination hépatite A:
 {{%collapse "Voyage - Faut-il vacciner contre l'hépatite A ?" %}}
 
 > [!INFO]
-> La vaccination est recommandée à partir de l'âge de 1 an pour tous les voyageurs devant séjourner dans un pays où le niveau d'hygiène est faible, quelles que soient les conditions du séjour. (*HCSP 2023*)
+> La vaccination est recommandée à partir de l'âge de 1 an pour tous les voyageurs devant séjourner dans un pays où le niveau d'hygiène est faible, quelles que soient les conditions du séjour. (*HCSP 2023*). Les vaccins pour les voyages (hépatite A, typhoïde ...) ne sont pas injectables en pharmacie.
 
 {{< card-link-external title="Vaccins recommandés par l'Institut Pasteur pour un voyage" url="https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage" subtitle="Institut Pasteur" image="pasteur" >}}
 

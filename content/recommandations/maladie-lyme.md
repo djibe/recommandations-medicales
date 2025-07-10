@@ -83,7 +83,7 @@ L'incidence de la maladie de Lyme atteignait 53 cas/100.000 habitants en 2024 (*
 
 {{< figure-chart title="Incidence de la maladie de Lyme en France sur la période 2009-2024. Nombre de cas pour 100.000 habitants. ([Réseau Sentinelles](https://www.sentiweb.fr/france/fr/?page=maladies&mal=18))" >}}
 
-<script defer>
+<script>
   const chartOptions1 = {
       series: [{
         name: "Incidence",

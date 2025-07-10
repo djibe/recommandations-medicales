@@ -210,7 +210,7 @@ VEMS
 
 ### Signes de défaillance = asthme aigu grave
 
-Appel du 15 en présence chez l'adulte d'au moins un signe parmi:
+Appel du SAMU en présence chez l'adulte d'au moins un signe parmi:
 
 - Fréquence cardiaque > 110/min
 - Fréquence respiratoire ≥ 25/min ou pauses respiratoires

@@ -79,9 +79,9 @@ Complications des infections par les papillomavirus et incidence imputée entre 
 
 ### Épidémiologie des atteintes liées aux papillomavirus
 
-- **Incidence:** 3159 cancers annuels (métropole 2023) et 35.000 dysplasies  
+- **Incidence du cancer du col de l'utérus:** 3159 nouveaux cas annuels (métropole 2023) et 35.000 dysplasies  
   90 % des cancers du col peuvent être évités grâce au dépistage.
-- **Mortalité:** 1100 décès/an (métropole 2018)
+- **Mortalité:** 836 décès (métropole 2022)
 - Âge médian au diagnostic: 55 ans
 - Survie à 5 ans: 63 %
 - 80% des hommes et des femmes sexuellement actifs seront infectés par les papillomavirus durant leur vie
@@ -302,6 +302,7 @@ En cas de conisation ou trachélectomie simple ou élargie: Test HPV-HR à 6 moi
 {{% /collapse %}}
 {{%sources%}}
 
+- [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [HAS. Vaccination contre les papillomavirus : élargissement de la cohorte de rattrapage vaccinal chez les hommes et les femmes jusqu'à 26 ans révolus. 2025.](https://www.has-sante.fr/jcms/p_3605114/fr/vaccination-contre-les-papillomavirus-elargissement-de-la-cohorte-de-rattrapage-vaccinal-chez-les-hommes-et-les-femmes-jusqu-a-26-ans-revolus)
 - {{< references/calendrier-vaccinal >}}
 - [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. 20/09/2024.](https://www.e-cancer.fr/Professionnels-de-sante/Facteurs-de-risque-et-de-protection/Agents-infectieux/Prevenir-les-cancers-lies-aux-HPV)

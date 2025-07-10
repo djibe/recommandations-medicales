@@ -110,7 +110,7 @@ Hospitalisation en urgence devant une hémorragie grave ou potentiellement grave
 
 - INR cible < 1,5 le plus vite possible (minutes)
 - Vitamine K 10 mg 1 ampoule per os systématique quel que soit l'INR
-- Appel du 15
+- Appel du SAMU
 - Correction hémodynamique si possible
 
 ### Hémorragie grave en AVK et localisation du saignement

@@ -6,7 +6,7 @@ description = "Taux de participation des Français au dépistage organisé des c
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-08-15T19:54:00+02:00"
 publishdate = "2021-08-18"
-lastmod = "2025-06-19"
+lastmod = "2025-07-09"
 specialites = []
 annees = "2025"
 sources = ["Santé Publique France"]
@@ -20,9 +20,9 @@ todo = "update, https://www.cancer.fr/personnes-malades/les-cancers - ### Le dé
 Trois cancers bénéficient en France d'un **dépistage organisé** par l'*Assurance Maladie* et sont remboursés à 100 % par l'*Assurance Maladie*. Il s'agit de cancers fréquents et graves, dont deux concernent exclusivement les femmes: les [cancers du sein]({{% relref "cancer-sein.md" %}}) et du [col de l'utérus]({{% relref "cancer-col-uterus.md" %}}), ainsi que le [cancer colorectal]({{% relref "cancer-colorectal.md" %}}) pour tous de 50 à 74 ans.
 {.lead}
 
-Pourtant, plus le cancer tue, moins les Français participent à sa prévention par le dépistage. Ainsi, le cancer colorectal, responsable de 17.100 décès annuels (2018, 2^e^ en mortalité) n'est recherché que par **34 %** des Français.
+Pourtant, plus le cancer tue, moins les Français participent à sa prévention par le dépistage. Ainsi, le cancer colorectal, responsable de 16.975 décès annuels (2022, 2^e^ en mortalité) n'est recherché que par **29,6 %** des Français.
 
-Le taux maximal de participation au dépistage, qui atteint 55,8 %, concerne le cancer du col de l'utérus, responsable pour sa part de 1100 décès annuels (2023).
+Le taux maximal de participation au dépistage, qui atteint 59,5 %, concerne le cancer du col de l'utérus, responsable pour sa part de 836 décès annuels (en 2022).
 
 Pour tous les dépistages, les taux de participation restent très en-dessous des attentes de santé publique.
 
@@ -32,16 +32,17 @@ Pour tous les dépistages, les taux de participation restent très en-dessous de
 
 Représentation des taux de participation aux dépistages organisés des cancers et mortalité associée à ces cancers.
 
-{{< figure-chart title="Participation au dépistage organisé des cancers par les Français (dépistages: col 2023 - sein 2022-2023 - colorectal 2021-2022 et mortalité 2017). Dr JB Fron d'après dernières données Santé Publique France" >}}
+{{< figure-chart title="Participation au dépistage organisé des cancers par les Français (dépistages: col 2020-2022 - sein 2023-2024 - colorectal 2023-2024). Dr JB Fron d'après dernières données Santé Publique France" >}}
 
 ## Sources
 
+- [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [Santé Publique France. Participation au programme de dépistage organisé du cancer du col de l’utérus. Année 2023 et évolution depuis 2017. 2025.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-col-de-l-uterus/documents/bulletin-national/participation-au-programme-de-depistage-organise-du-cancer-du-col-de-l-uterus.-annee-2023-et-evolution-depuis-2017)
 - [Taux de participation au programme de dépistage organisé du cancer du sein 2022-2023 et évolution depuis 2005. Santé Publique France. 2024.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-sein/articles/taux-de-participation-au-programme-de-depistage-organise-du-cancer-du-sein-2022-2023-et-evolution-depuis-2005)
 - {{< references/beh-cancers-incidence >}}
 - [Santé Publique France. Cancer colorectal : un taux de participation aux tests de dépistage stable en 2021-2022. 23/03/2023.](https://www.santepubliquefrance.fr/les-actualites/2023/cancer-colorectal-un-taux-de-participation-aux-tests-de-depistage-stable-en-2021-2022)
 - [Santé Publique France. Cancer du côlon rectum : données. Mars 2022.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-colon-rectum/donnees)
-- [Jéhannin-Ligier K et al. Projection de l'incidence et de la mortalité par cancer en France métropolitaine en 2017. Rapport technique. Santé publique France. 2017.](https://www.santepubliquefrance.fr/docs/projection-de-l-incidence-et-de-la-mortalite-par-cancer-en-france-metropolitaine-en-2017)
+- [Jéhannin-Ligier K, et al. Projection de l'incidence et de la mortalité par cancer en France métropolitaine en 2017. Rapport technique. Santé publique France. 2017.](https://www.santepubliquefrance.fr/docs/projection-de-l-incidence-et-de-la-mortalite-par-cancer-en-france-metropolitaine-en-2017)
 - [Santé Publique France. Cancer du col de l'utérus : la couverture du dépistage et de la vaccination doivent progresser pour une meilleure prévention. Janvier 2022.](https://www.santepubliquefrance.fr/presse/2022/cancer-du-col-de-l-uterus-la-couverture-du-depistage-et-de-la-vaccination-doivent-progresser-pour-une-meilleure-prevention)
 
 <script>
@@ -52,13 +53,13 @@ const chartOptions1 = {
   series: [{
     name: 'Participation',
     type: 'column',
-    data: [55.8, 46.5, 34.3]
+    data: [59.5, 46.3, 29.6]
   }, {
     name: 'Mortalité',
     type: 'column',
-    data: [1084, 12146, 17117]
+    data: [836, 12757, 16975]
   }],
-  title: { text: 'Taux de participation au dépistage des cancers en 2023' },
+  title: { text: 'Taux de participation au dépistage des cancers en 2025' },
   xaxis: { categories: ['Col de l’utérus', 'Sein', 'Côlon-rectum'] },
   yaxis: [
     {

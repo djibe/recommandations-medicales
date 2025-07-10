@@ -74,7 +74,7 @@ L'ECBU est réalisé avant l'antibiothérapie.
 2. Signes généraux ?  
   Si non, cystite aiguë.
 3. Signes de gravité ?  
-  Si oui, appel du 15 ou adresser aux Urgences selon l'évaluation clinique.
+  Si oui, appel du SAMU ou adresser aux Urgences selon l'évaluation clinique.
 4. {{< modal-btn modal-fdr-complication >}}Facteur de risque de complication{{< /modal-btn >}} ?  
   Si oui, traitement de la forme à risque de complication.
 

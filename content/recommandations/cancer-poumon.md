@@ -65,9 +65,9 @@ SPLF
 ### Épidémiologie du cancer du poumon en France
 
 - Incidence: 52.777 nouveaux cas annuels (2e de l'homme, 3e de la femme)
-- Décès: 33.000/an (2018. 1^re^ cause de mortalité par cancer)
+- Décès: 30.896/an (2022 -- 1^re^ cause de mortalité par cancer chez l'homme)
 - Âge médian au diagnostic: 66 ans pour les femmes, 68 pour les hommes
-- Survie à 5 ans (tous stades): 20 % (+11 points en 25 ans)
+- Survie à 5 ans (tous stades): 22 % (+11 points en 25 ans)
 - Le tabagisme passif causerait 1/4 des cancers broncho-pulmonaires des non fumeurs (*Collège*)
 
 {{< card-link-external title="Dépenses liées au cancer du poumon" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Cancers&refine.patho_niv2=Cancer%20bronchopulmonaire">}}
@@ -253,6 +253,7 @@ graph TB
 
 {{< video mp4="https://docs.splf.fr/videos/ATS/mission-ats-2022/ATS-Dr-Marjolaine-Georges.mp4" description="Le tabac c'est tabou! sous toutes ses formes! et à tous les stades de cancer! (SPLF)" >}}
 
+- [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [INCa, SPLF. Traitements de 1^re^ ligne du CBNPC métastatique sans addiction oncogénique. 2024.](https://www.cancer.fr/catalogue-des-publications/traitements-de-1re-ligne-du-cbnpc-metastatique-sans-addiction-oncogenique-synthese)
 - [Wolf AMD, et al. Screening for lung cancer: 2023 guideline update from the American Cancer Society. CA Cancer J Clin. 2023.](https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21811)
 - [Collège des Enseignants de Pneumologie (CEP). Tumeurs du Poumon, primitives et secondaires. Item 309. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_309_CANCER_2023.pdf)

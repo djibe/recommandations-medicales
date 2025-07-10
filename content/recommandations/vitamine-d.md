@@ -259,7 +259,7 @@ La vitamine D est [prise pendant le repas]({{% relref "medicaments-prise-repas.m
 - **Ampoule**  
   Cholécalciférol [50](https://bdpm.ansm.sante.fr/medicament/66236866/extrait#tab-rcp), 80, [100.000 UI](https://bdpm.ansm.sante.fr/medicament/61172819/extrait#tab-rcp) (200.000 UI à éviter).
 - **Capsule molle**  
-  Kipos® 100.000 UI, Uvecaps® 1000 UI/j ou 20.000 UI, Uvedose® 50.000 UI.
+  Kipos® 100.000 UI, Uvecaps® 1000 UI/j (NR) ou 20.000 UI, Uvedose® 50.000 UI.
 - **Goutte**  
   [Adrigyl®](https://bdpm.ansm.sante.fr/medicament/66269026/extrait#tab-rcp) 333 UI/goutte, [ZymaD®](https://bdpm.ansm.sante.fr/medicament/63902334/extrait#tab-rcp) 300 UI/goutte.
 {.list-group}
@@ -308,7 +308,8 @@ Ne pas utiliser d'autres formes de supplémentations.
 
 ### Bibliographie en attente
 
-[HCSP. Avis relatif à la couverture des besoins de la population générale en vitamine D et en fer. 21/06/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1251)
+- [Pickering Ma, et al. Supplémentation quotidienne ou intermittente en vitamine D chez les personnes avec ou à risque d'ostéoporose: Position du GRIO. Revue du Rhumatisme. 2025.](https://www.sciencedirect.com/science/article/pii/S1169833025001735)
+- [HCSP. Avis relatif à la couverture des besoins de la population générale en vitamine D et en fer. 21/06/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1251)
 
 {{%/sources%}}
 {{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}

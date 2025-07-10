@@ -25,7 +25,7 @@ flowchart = true
 {{%article-summary%}}
 
 - Suspecter un cancer du pancréas devant les symptômes suivants: ictère, douleurs abdominales, AEG
-- Bilan avec scanner abdomino-pelvien avec injection en semi-urgence
+- Bilan avec scanner abdomino-pelvien injecté en semi-urgence
 - La prise en charge du cancer du pancréas est une semi-urgence
 - Traquer un cancer du pancréas en cas de [pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}}) idiopathique après 40 ans
 - Consultation d'oncogénétique et dépistage du cancer du pancréas si au moins 2 apparentés atteints d'adénocarcinome du pancréas dont au moins 1 au premier degré  
@@ -57,13 +57,12 @@ OU ≥ 3 cas de la même branche (quel que soit le degré de parenté et l'âge 
 
 ### Épidémiologie des cancers du pancréas
 
-Incidence en forte hausse des cancers du pancréas: x2 hommes et x3 femmes sur la période 1982 - 2012 (*Bouvier 2017*)
+Incidence en forte hausse des cancers du pancréas: doublement chez les hommes et triplement chez les femmes sur la période 1982 - 2012 (*Bouvier 2017*).
 
-- Incidence: 15.991 nouveaux cas (métropole 2023)  
-  5 à 10 % seraient génétiques.
-- Mortalité: 11.500 décès annuels (métropole 2018)
+- **Incidence:** 15.991 nouveaux cas (métropole 2023), 5 à 10 % seraient génétiques
+- **Mortalité:** 12.931 décès annuels (métropole 2022)
 - Âge médian au diagnostic: 74 ans chez les femmes et 71 chez les hommes
-- Survie à 5 ans: 11 %
+- Survie à 5 ans: 11 % (2015)
 
 ### Abréviations
 
@@ -270,6 +269,7 @@ graph TB
 
 {{< youtube id="BInhR4vlfH0" title="Cancer du pancréas : pourquoi ça augmente ? (TutoGastro SNFGE)" >}}
 
+- [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [Hammel P, et al. Cancer du pancréas. Thésaurus National de Cancérologie Digestive (TNCD). 2024.](https://www.snfge.org/tncd/cancer-du-pancreas)
 - {{< references/beh-cancers-incidence >}}
 - {{< references/inca-cancers-mortalite >}}

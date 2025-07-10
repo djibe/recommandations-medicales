@@ -217,7 +217,7 @@ Traitements inutiles : acétylleucine (Tanganil®), bétahistine, piracétam, m�
 {{< mermaid title="Prise en charge des vertiges paroxystiques positionnels bénins (VPPB) par le médecin généraliste. Drs JB Fron et Alaedine Benani d'après SFORL" >}}
 graph TB
   vertiges["<b>Vertiges</b><br>—<br>Illusion de mouvement"] --> gravité("<b>Signe de gravité ?</b><br>—<br>- Traumatisme crânien ou cervical<br>- Céphalée violente et brusque<br>- Cervicalgies récentes<br>- Déficit neurologique<br>- Nystagmus atypique<br>vers le menton, spontané ou<br>persistant au regard fixe<br>- Marche impossible sans chute<br>- Surdité brusque, acouphènes<br>- Otalgie<br>- Enfant<br>- VPPB &gt; 1 mois") -- Non --> clinique("<b>Clinique</b><br>—<br>- Antécédents ORL,<br>cardiovasculaires<br>- Traitements<br>- Caractères des vertiges:<br>brefs, répétés, reproductibles ...<br>- Examen neurologique<br>- Examen ORL") -- Critères remplis --> VPPB(VPPB) -- "Premier épisode<br>ou &gt; 1 mois" --> ORL("Consultation ORL")
-  gravité -- Oui --> samu(Appel du 15)
+  gravité -- Oui --> samu(Appel du SAMU)
     clinique -- Doute --> samu
       VPPB --> traitement("<b>Traitement</b><br>—<br>- Information<br>- Pas de traitement<br>- Ordonnance anticipée<br>pour les manœuvres") -. "Persistance &gt; 1 mois" .-> ORL
         traitement -- "Vertiges<br>mal tolérés" --> manoeuvre("Manœuvres par<br>kiné ou ORL")

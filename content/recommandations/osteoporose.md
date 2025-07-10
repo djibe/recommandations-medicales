@@ -32,7 +32,7 @@ Recommandations simplifiées pour une prise en charge réaliste de l'ostéoporos
 
 1. Ostéodensitométrie (DXA) pour toutes les femmes ménopausées après 60 ans (65 selon *USPTF* et avant si {{< modal-btn modal-dxa-remboursement >}}facteur de risque{{< /modal-btn >}} ) ou après une fracture ({{< modal-btn modal-dxa-remboursement >}}critères de remboursement{{< /modal-btn >}})  
   En l'absence de fracture, le calcul du FRAX est disponible plus bas (voir [Calcul du FRAX](#calcul-du-frax-et-du-risque-de-fracture-osseuse)).
-2. Bilan de l'ostéoporose: NFS, CRP, créatininémie, ASAT, ALAT, GGT, PAL, vitamine D, calcémie, phosphatémie, électrophorèse des protéines sériques
+2. Bilan de l'ostéoporose: NFS, CRP, créatinine, bilan hépatique, vitamine D, calcémie, phosphore, électrophorèse des protéines sériques
 3. Biphosphonate en 1^er^ traitement anti-ostéoporotique selon T-score: {{< modal-btn modal-fracture-severe >}}fracture sévère{{< /modal-btn >}} ≤ -1, autres fractures ≤ -2 ou tout T-score ≤ -3
 4. Avis rhumatologique si T-score proche (1 point) de l'indication de traiter
 5. Biphosphonate: bilan bucco-dentaire, [acide alendronique 70 mg/sem](https://bdpm.ansm.sante.fr/medicament/69784280/extrait#tab-rcp) ou [risédronate 35 mg/sem](https://bdpm.ansm.sante.fr/medicament/66887599/extrait#tab-rcp) ou 75 mg 2 jours de suite 1 fois par mois

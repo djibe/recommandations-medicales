@@ -98,7 +98,7 @@ L'Afrique subsaharienne comptabilise 90% des cas mondiaux de paludisme.
 Les accès palustres graves sont quasi exclusivement liés à *Plasmodium falciparum* (99% des diagnostics en France) voire *Plasmodium knowlesi*.
 
 {{%warning%}}
-Appel du 15 en cas de suspicion d'accès palustre grave:
+Appel du SAMU en cas de suspicion d'accès palustre grave:
 
 - Troubles neurologiques  
   Obnubilation, confusion, somnolence, prostration, coma, convulsion.

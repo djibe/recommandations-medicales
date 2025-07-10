@@ -75,11 +75,11 @@ RCP
 
 ### Épidémiologie du cancer de l'ovaire
 
-- Incidence: 5348 cas (métropole 2023) soit le 8^e^ rang chez la femme
-- Mortalité: 3500 décès (métropole 2018) soit le 5^e^ rang chez la femme
+- **Incidence:** 5348 cas (métropole 2023), 8^e^ de la femme
+- **Mortalité:** 3476 décès (métropole 2022), 5^e^ de la femme
+- Survie à 5 ans: 43 %
 - Âge médian au diagnostic: 70 ans
 - Cancer de mauvais pronostic avec 3/4 des patientes diagnostiquées à un stade avancé
-- Survie à 5 ans: 43 %
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -212,9 +212,8 @@ style symptômes stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
+- [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [Ledermann JA, et al. ESGO-ESMO-ESP consensus conference recommendations on ovarian cancer: pathology and molecular biology and early, advanced and recurrent disease. Ann Oncol. 2024.](https://www.annalsofoncology.org/article/S0923-7534(23)05103-7/fulltext)
-- {{< references/beh-cancers-incidence >}}
-- {{< references/inca-cancers-mortalite >}}
 - [Sessa C, et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04193-X/fulltext)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Item 306 Diagnostiquer une tumeur de l'ovaire. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [INCa. Les cancers de l'ovaire en 10 points clés. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-cancers-de-l-ovaire-en-10-points-cles)

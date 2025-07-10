@@ -51,10 +51,12 @@ Adénome
 
 Le diagnostic de cancer du côlon ou du rectum est le plus souvent réalisé à un stade avancé et la France est un pays Européen avec les plus **hautes incidences** de cancer colorectal.
 
-- Incidence: 2^e^ cancer de la femme (21.370 en 2023), 3^e^ cancer de l'homme (26.212)
-- Décès: **2^e^ par mortalité** (17.100 en 2018)
+- Incidence: 47.582 nouveaux cas (métropole 2023)  
+  2^e^ cancer de la femme (21.370) et 3^e^ cancer de l'homme (26.212).
+- Décès: 16.975 (métropole 2022)  
+  3^e^ cancer de la femme (7998 en 2022) et de l'homme (8977 en 2022).
 - Âge médian au diagnostic: 72 ans pour les femmes et 71 pour les hommes
-- Taux de participation au dépistage: **34,6 %** (2020 - 2021)
+- Taux de participation au dépistage: **29,6 %** (2023 - 2024)
 - 95 % des cancers colorectaux surviennent après 50 ans
 - Survie à 5 ans: 63 % (stade I 90 % - stade IV 13 %)
 
@@ -345,11 +347,10 @@ graph TB
 
 {{< youtube id="DV0PVuj4Ljw" title="Quelle surveillance endoscopique pour un cancer du côlon ? (TutoGastro SNFGE)" >}}
 
+- [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [Phelip JM, et al. Cancer colorectal métastatique. Thésaurus National de Cancérologie Digestive. 2024.](https://www.snfge.org/tncd/cancer-colorectal-metastatique)
 - [Cotte E, et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive. 2023.](https://www.snfge.org/tncd/cancer-du-rectum)
 - [Lecomte T, et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive. 2023.](https://www.snfge.org/tncd/cancer-du-colon-non-metastatique)
-- {{< references/beh-cancers-incidence >}}
-- {{< references/inca-cancers-mortalite >}}
 - {{< references/college-gastro >}}
 - [Cervantes A, et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04192-8/fulltext)
 - [Robaszkiewicz M, et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml) ([accès libre (PDF)](https://www.sfed.org/wp-content/uploads/2022/05/modalites_de_surveillance_definitives-5ec.pdf))

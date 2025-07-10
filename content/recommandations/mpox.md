@@ -163,7 +163,7 @@ Signes et symptômes de la variole du singe (mpox):
 
 ### Mpox et risque pour les enfants
 
-Appel du 15 pour avis infectiologique en cas d'éruption douteuse.
+Appel du SAMU pour avis infectiologique en cas d'éruption douteuse.
 
 > << Risque très faible d'avoir la maladie et de la transmettre, forte probabilité de diagnostic différentiel bénin devant une éruption vésiculeuse. Les pédiatres restent en même temps vigilants car de nombreuses inconnues persistent. >>. -- *Infovac 20/07/2022*
 
@@ -266,7 +266,7 @@ Antiviral disponible en gélules indiqué chez les personnes à **risque de form
 
 {{< mermaid title="Prise en charge du Monkeypox (variole du singe) par le médecin généraliste. Dr JB Fron d'après HAS et MinSanté 2024" >}}
 graph TB
-  suspicion["<b>Suspicion de variole du singe</b><br>Monkeypox ou mpox<br>—<br>- ± Zone d'endémie (RDC ++)<br>± Contact à risque<br>- Éruption évocatrice<br>- Douleurs associées<br>- Prurit peu marqué"] -- "Masques et gants" --> clinique("<b>Clinique</b><br>—<br>Étayer un diagnostic différentiel:<br>- Varicelle<br>- Rougeole<br>- Variole<br>- Infection bactérienne<br>- Syphilis secondaire<br>- Dermatite bulleuse<br>- Gale<br>- Allergie") -- "Doute persistant<br>ou contact à risque" --> test("- RT-PCR Mpox ou Orthopoxvirus<br>en urgence sauf contact avec<br>clade connu<br>- Sujet à risque de forme grave:<br>appel du 15") -- Isolement --> résultat(Résultat) -- Positif --> mesures(<b>Traitement</b><br>—<br>- Déclaration obligatoire<br>- Isolement jusqu'à cicatrisation<br>- Document d'information<br>- Vaccination des contacts<br>- Préservatif pendant 8 sem<br>après la guérison)
+  suspicion["<b>Suspicion de variole du singe</b><br>Monkeypox ou mpox<br>—<br>- ± Zone d'endémie (RDC ++)<br>± Contact à risque<br>- Éruption évocatrice<br>- Douleurs associées<br>- Prurit peu marqué"] -- "Masques et gants" --> clinique("<b>Clinique</b><br>—<br>Étayer un diagnostic différentiel:<br>- Varicelle<br>- Rougeole<br>- Variole<br>- Infection bactérienne<br>- Syphilis secondaire<br>- Dermatite bulleuse<br>- Gale<br>- Allergie") -- "Doute persistant<br>ou contact à risque" --> test("- RT-PCR Mpox ou Orthopoxvirus<br>en urgence sauf contact avec<br>clade connu<br>- Sujet à risque de forme grave:<br>appel du SAMU") -- Isolement --> résultat(Résultat) -- Positif --> mesures(<b>Traitement</b><br>—<br>- Déclaration obligatoire<br>- Isolement jusqu'à cicatrisation<br>- Document d'information<br>- Vaccination des contacts<br>- Préservatif pendant 8 sem<br>après la guérison)
     résultat -- Négatif --> autre
     clinique --> autre(Autre diagnostic)
   style suspicion stroke:#4150f5, stroke-width:1px

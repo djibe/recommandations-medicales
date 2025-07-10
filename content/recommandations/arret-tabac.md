@@ -74,9 +74,9 @@ Bénéfices importants sur la morbi-mortalité (cardiovasculaire et cancer du po
 
 - **Décès annuels:** 75.000 (2019 soit 205 morts/j)  
   Répartition: 47.000 cancers, 20.000 cardiovasculaires et 11.000 par maladies respiratoires.
-- 20% des cancers attribuables au tabac (90% des cancers bronchopulmonaires) et 80% des BPCO
+- 20% des cancers attribuables au tabac soit 68.000 cas annuels (90% des cancers bronchopulmonaires, 17 localisations cancéreuses) et 80% des BPCO
 - Première cause de mortalité cardiovasculaire évitable
-- **Fumeurs quotidiens:** 25% (4^e^ rang de l'OCDE)
+- **Fumeurs quotidiens:** 23% de la population (2023, 4^e^ rang de l'OCDE)
 - Prévalence du tabagisme pendant la grossesse: 30% (la moitié arrête)  
   Dont 20% affirment n'avoir reçu aucune information.
 - 1 fumeur sur 2 meurt prématurément de son tabagisme
@@ -456,12 +456,12 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [Lindson N, et al. Electronic cigarettes for smoking cessation. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010216.pub9/full/fr)
 - [Theodoulou A, et al. Different doses, durations and modes of delivery of nicotine replacement therapy for smoking cessation. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013308.pub2/full/fr)
 - [Collège des Enseignants de Pneumologie (CEP). Addiction au tabac. Item 75. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_75_TABAC_2023.pdf)
 - Prescrire Redaction. Consommation et arrêt du tabac. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Santé Publique France. Tabac.](https://www.santepubliquefrance.fr/determinants-de-sante/tabac)
-- [INCa. Panorama des cancers en France - édition 2023.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-edition-2023)
 - [Haut Conseil de la santé publique (HCSP). Avis relatif aux bénéfices-risques de la cigarette électronique. 2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1138)
 - {{< references/esc-cvd >}}
 - [CNGOF, SFT. Prise en charge du tabagisme en cours de grossesse (texte court). 2020. (PDF)](https://www.sciencedirect.com/science/article/abs/pii/S2468718920301586)

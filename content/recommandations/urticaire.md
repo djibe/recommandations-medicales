@@ -415,7 +415,7 @@ graph TB
     gravite -- Non --> tttUA(Anti-H1 2G 2 semaines)
       tttUA -- Efficace --> Guérison
       tttUA -- Persistance --> prolongation("Anti-H1 dose x 2 à 4 pendant<br>6 semaines") -- Persistance --> UC(Urticaire chronique)
-    gravite -- Oui --> urgence("Appel du 15<br>Traitement du choc<br>anaphylactique/Quincke")
+    gravite -- Oui --> urgence("Appel du SAMU<br>Traitement du choc<br>anaphylactique/Quincke")
 {{< /mermaid >}}
 
 {{< mermaid title="Conduite à tenir et prise en charge d'une urticaire chronique. Dr JB Fron d'après ANAES 2003" >}}

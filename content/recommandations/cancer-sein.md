@@ -85,11 +85,11 @@ Autres diagnostics à étayer devant une lésion du sein:
 
 Chiffres du cancer du sein en France:
 
-- Incidence: 61.214 (métropole 2023), 1^er^ rang chez la femme
-- Mortalité: 12.146 (métropole 2018), 1^er^ rang chez la femme
+- Incidence: 61.214 (métropole 2023), 1^er^ rang de la femme
+- Mortalité: 12.757 (métropole 2022), 2^e^ rang de la femme
 - Âge médian au diagnostic: 64 ans
-- Survie: 88 % à 5 ans (métropole, diagnostic en 2010-2015)
-- Participation au dépistage organisé: 46,5 % (2022-2023)
+- Survie à 5 ans: 89 % (métropole 2015)
+- Participation au dépistage organisé: 46,3 % (2022-2023)
 - 22 % ont moins de 50 ans au diagnostic (35 % au stade régional)
 - Attribution de l'augmentation des cas: facteurs de risque (51%: hormones, alcool, surpoids, sédentarité), population (30%), vieillissement (23%)
 - Année d'introduction du dépistage généralisé: 2004
@@ -439,6 +439,7 @@ graph TB
 
 {{< card-link-external title="Vidéo de la palpation des seins" url="https://www.youtube.com/watch?v=QXlT9651svA" subtitle="par le Dr Jean-Philippe Harlicot" >}}
 
+- [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [Taux de participation au programme de dépistage organisé du cancer du sein 2022-2023 et évolution depuis 2005. Santé Publique France. 2024.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-sein/articles/taux-de-participation-au-programme-de-depistage-organise-du-cancer-du-sein-2022-2023-et-evolution-depuis-2005)
 - [Lavoué V, et al. Recommandations pour la pratique clinique du CNGOF. Place de l'auto-examen des seins dans les stratégies de dépistage [Place of breast self-examination in screening strategies. French College of Gynecologists and Obstetricians (CNGOF) recommendations for clinical practice]. Gynecol Obstet Fertil Senol. 2023. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Gyn%C3%A9cologie/Oncologie/Auto-examen%20des%20seins%202023-RPC-%20strat%C3%A9gies%20de%20d%C3%A9pistage.pdf?x60010)
 - {{< references/beh-cancers-incidence >}}

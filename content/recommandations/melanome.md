@@ -74,9 +74,9 @@ Plusieurs facteurs sont utilisés: indice de Breslow, de Clark, ulcération, ind
 - 13^e^ cancer de la femme, 7^e^ de l'homme
 - **Incidence:** 17.922 nouveaux cas (métropole 2023)  
   {{%class%}}49% de femmes. Incidence en augmentation de 3,4 %/an (période 2010 - 2018). x50 sur période 1990 - 2018{{%/class%}}
+- **Mortalité**: 1922 décès (métropole 2022)  
+  {{%class%}}58% d'hommes - 1,2 % des décès par cancer - 90 % de la mortalité par cancer cutané{{%/class%}}
 - Âge médian au diagnostic: 62 ans pour les femmes et 68 ans pour les hommes.
-- **Mortalité**: 1980 (métropole 2018)  
-  {{%class%}}58% d'hommes - 1,2% des décès par cancer - 90 % de la mortalité par cancer cutané{{%/class%}}
 - **Survie à 5 ans:** 93 % (88 % en stade localisé versus 18 % si métastatique)
 - 80 % surviennent de novo sur peau saine et 20% sur nævus pré-existant.
 - 10 % des mélanomes sont familiaux (≥ 2 personnes atteintes dans une famille)  
@@ -351,16 +351,17 @@ risque["<b>Sujet à risque de mélanome</b><br>—<br>- Phototype clair<br>- Ép
 {{% /collapse %}}
 {{%sources%}}
 
+- [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - {{< references/voyageur >}}
 - [INCa. Mélanomes cutanés - Du diagnostic au suivi. 2024.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Melanomes-cutanes-Du-diagnostic-au-suivi)
 - [INCa. Les mélanomes cutanés en 10 points clés. 2024.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-melanomes-cutanes-en-10-points-cles)
 - {{< references/inca-cancers-mortalite >}}
-- [Garbe C et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00152-6/fulltext)
-- [Garbe C et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 2: Treatment - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00228-3/fulltext)
+- [Garbe C, et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00152-6/fulltext)
+- [Garbe C, et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 2: Treatment - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00228-3/fulltext)
 - [INCa. << L'ombre, c'est l'endroit le plus cool de l'été ! >>: la nouvelle campagne d'information de l'Institut national du cancer sur la prévention des risques solaires. 04/07/2022.](https://www.e-cancer.fr/Actualites-et-evenements/Actualites/L-ombre-c-est-l-endroit-le-plus-cool-de-l-ete-!-la-nouvelle-campagne-d-information-de-l-Institut-national-du-cancer-sur-la-prevention-des-risques-solaires)
 - [Desmoulins E. Téléexpertise dermatologique à partir de photographies prises avec un smartphone par des médecins généralistes en cas de suspicion de mélanome : évaluation de la concordance de prise en charge. Thèse d'exercice en médecine. 2022.](https://dune.univ-angers.fr/documents/dune14712)
-- [Michielin O et al. ESMO consensus conference recommendations on the management of locoregional melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39940-3/fulltext)
-- [Keilholz U et al. ESMO consensus conference recommendations on the management of metastatic melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39939-7/fulltext)
+- [Michielin O, et al. ESMO consensus conference recommendations on the management of locoregional melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39940-3/fulltext)
+- [Keilholz U, et al. ESMO consensus conference recommendations on the management of metastatic melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39939-7/fulltext)
 - [HAS. Mélanome cutané : la détection précoce est essentielle. 11/02/2020.](https://www.has-sante.fr/jcms/pprd_2974838/fr/melanome-cutane-la-detection-precoce-est-essentielle?fbclid=IwAR0lsNr1vfC7AvM-SeKrLZlYNiRb0q4bgx4_mgwkQRRjHLJNMPPIlmxWC_U)
 - [Oncologik. Mélanomes vulvaires et vaginaux. 24/01/2020.](http://oncologik.fr/referentiels/rrc/melanomes-vulvaires-et-vaginaux)
 - [Oncologik. Mélanome cutané. 22/03/2019.](http://oncologik.fr/referentiels/oncolor/melanome-cutane)
