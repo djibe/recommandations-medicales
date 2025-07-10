@@ -8,7 +8,7 @@ synonyms = ["Bacille de Koch", "Mycobacterium tuberculosis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-06-03T15:14:20+02:00"
 publishdate = "2020-06-03"
-lastmod = "2025-07-03"
+lastmod = "2025-07-10"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2017"
 sources = ["HAS", "MinSanté", "CMIT"]
@@ -19,6 +19,7 @@ icd10 = []
 image = true
 imageSrc = "Caverne médiane gauche chez une jeune femme de 20 ans avec toux chronique et perte de poids. Cas clinique par Dr Hani Makky Al Salam, Radiopaedia.org, rID: 12437"
 todo = "quantiferon positif signe TM ?, KEY: maladie, lutte contre la tuberculose, infection tuberculeuse, organisation mondiale, traitement de la tuberculose, tuberculose pulmonaire, infection tuberculeuse latente, mycobacterium tuberculosis, https://www.cpias-auvergnerhonealpes.fr/Doc_Reco/FicheRepere/Tuberculose_Juillet2023.pdf | A16, A16.9, A15, A18, A19, Z01.5"
+datatable = true
 +++
 
 {{%article-summary%}}
@@ -64,7 +65,7 @@ Sauf si radiographie thoracique dans l'année ou suspicion de tuberculose.
 Le vaccin BCG (Bacille de Calmette et Guérin par le vaccin AJVaccines®) est disponible uniquement en centre de vaccination, **PMI** ou centre de lutte antituberculeuse (**CLAT**). Il protège les jeunes enfants des formes graves de
 tuberculose, méningites et miliaires tuberculeuses.
 
-Le BCG est réalisé à partir d'un mois, idéalement à ==2 mois== et rattrapé **jusqu'à 15 ans**. Les autres vaccins peuvent être réalisés en même temps sur d'autres sites.
+Le BCG est réalisé à partir d'un mois, idéalement à ==**2 mois**== et rattrapé **jusqu'à 15 ans**. Les autres vaccins peuvent être réalisés en même temps sur d'autres sites.
 
 Une **BCGite** survient dans sous 2-3 semaines avec souvent une ulcération de 5 mm (en moyenne), guérissant sous 3 mois ou plus (aucune application locale, pansement sec simple si écoulement). Elle peut laisser une cicatrice de 3 à 7 mm. Une adénopathie axillaire indolore locale est fréquente. ([guide info Ameli](https://www.ameli.fr/assure/sante/themes/tuberculose/vaccination))
 {.alert .alert-info}
@@ -88,6 +89,11 @@ Pour les professionnels de santé: évaluation de l'exposition au cas par cas pa
 
 Le BCG peut être administré en même temps que n'importe quel autre vaccin mais doit être exclusif sur un bras.
 
+{{% /collapse %}}
+{{%collapse "Pays à forte incidence de tuberculose" %}}
+
+Le dépistage et la vaccination contre la tuberculose repose sur la connaissance des pays de forte endémie, où l'incidence dépasse 40 cas de tuberculose maladie/100.000 habitants.
+
 ### Pays de forte endémie tuberculeuse
 
 Pays ayant une forte endémie tuberculeuse (taux d'incidence > 40 cas de tuberculose maladie/100.000 habitants):
@@ -107,6 +113,8 @@ Pays ayant une forte endémie tuberculeuse (taux d'incidence > 40 cas de tubercu
 - Groenland
 
 > -- *Recommandations sanitaires aux voyageurs*
+
+{{< csv-to-table file="/data/tuberculosis-incidence.csv" title="Incidence de la tuberculose pour 100.000 habitants par pays en 2023. Dr JB Fron d'après OMS et Nations Unies" >}}
 
 {{% /collapse %}}
 {{%collapse "Suivi thérapeutique de la tuberculose" %}}
