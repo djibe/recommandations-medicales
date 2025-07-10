@@ -212,7 +212,7 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 Recherche de signes étiologiques et du retentissement de la maladie rénale:
 
 - Poids, taille, IMC, tour de taille
-- Pression artérielle standardisée ± automesure tensionnelle (MAPA si greffe rénale)
+- Pression artérielle ± [automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}}) (MAPA si greffe rénale)
 - Auscultation cardiaque, souffle carotidien/rénal, pouls périphériques
 - Œdèmes, hydratation, reins palpables, signes de maladie de système
 - Signes urologiques  
@@ -305,7 +305,7 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
   - Puis trithérapie ci-dessus si nécessaire
   - Si greffe rénale: MAPA, cible < 130/80 mmHg (*ESH 2023* et *KDIGO 2021*)  
    par anticalcique dihydropyridine ou thiazidique.
-  - Automesure tensionnelle
+  - [Automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}})
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} ± ézétimibe
   - Indications: +50 ans, maladie cardiovasculaire, diabète type 2, RCV élevé
   - {{< modal-btn modal-rcv >}}RCV très élevé{{< /modal-btn >}}: LDL cible < 0,55 g/L et réduction de +50%  

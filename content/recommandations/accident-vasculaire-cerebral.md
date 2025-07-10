@@ -210,7 +210,7 @@ La prise en charge est identique après un accident ischémique transitoire (AIT
   - +80 ans: 130-139 / 70-79 mmHg
   - Cible non connue pour l'AVC hémorragique
   - Molécules: thiazidiques, {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}
-  - Automesure tensionnelle
+  - [Automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}})
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,7 g/L (*ESO 2022*, *AHA 2021* voire {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} pour l'*ESC 2021*)
 - Mesures hygiéno-diététiques associées
   - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})

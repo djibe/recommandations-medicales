@@ -228,7 +228,7 @@ Envisager un ECG de dépistage systématique à partir de 75 ans (ou avec dispos
 
 ### Autres examens
 
-- Automesure tensionnelle ou MAPA
+- [Automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}}) ou MAPA
 - Radiographie thoracique (non systématique selon l'ESC)
 - [Polygraphie ventilatoire]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) si FA symptomatique
 

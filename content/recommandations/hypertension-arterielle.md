@@ -27,19 +27,20 @@ flowchart = true
 
 - Dépister l'hypertension artérielle dès 3 ans, au moins tous les 3 ans après 40 ans (annuellement selon la *USPTF*, ⅓ des adultes sont hypertendus et les 3/4 ne sont pas contrôlés)
 - Mesurer la pression artérielle de façon standardisée avec un tensiomètre validé (voir *Mesure au cabinet* et [tensiomètres validés]({{% relref "tensiometres-electroniques-valides.md" %}}))
-- Confirmer le diagnostic par mesures et automesures / MAPA répétées, conserver le grade et le stade d'hypertension au diagnostic
+- Confirmer le diagnostic par mesures et automesures ou MAPA répétées, conserver le grade et le stade d'hypertension au diagnostic
 - Rechercher des complications et calculer le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} {{< scores/heartscore >}} en prévention primaire pour déterminer le LDL cible
 - Traitement selon le grade d'hypertension (voir *Définitions*) et mesures hygiéno-diététiques systématiques
 - Les cibles tensionnelles dépendent du profil (120-129 / 70-79 mmHg avant 80 ans) et ne sont valables que pour les mesures de tension au cabinet
 - Objectif d'un seul comprimé antihypertenseur combiné et informer sur les conséquences d'une hypertension non traitée ([accidents cardiovasculaires](/tags/risque-cardiovasculaire/), démence)
 - Bithérapies antihypertensives de référence: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
-- [Le carnet d'automesure tensionnelle 2021 (PDF)](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf)
+
+Chapitres liés: [automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}}), [le carnet d'automesure tensionnelle à imprimer](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Hypertension artérielle
-: Maladie chronique la plus fréquente définie une pression artérielle systolique (PAS) ≥ **140 mmHg** et/ou diastolique ≥ **90 mmHg** au cabinet (135/85 mmHg en automesure et 130/80 mmHg en MAPA, *ESH 2024*) à partir de 16 ans. Avant 16 ans: pression artérielle ≥ 95e percentile.
+: Maladie chronique la plus fréquente définie une pression artérielle systolique (PAS) ≥ **140 mmHg** et/ou diastolique ≥ **90 mmHg** au cabinet (135/85 mmHg en automesure et 130/80 mmHg en MAPA, *ESH 2024*) à partir de 16 ans. Avant 16 ans: pression artérielle ≥ 95^e^ percentile.
 : Le seuil de traitement est 14/9 **de 18 à 79 ans** et de 160 mmHg après 80 ans mais un seuil plus bas est à considérer. Chez le **sujet fragile**, les seuils sont individualisés.
 : Premier facteur de morbi-mortalité modifiable dans le monde.  
 La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance cardiaque, coronaropathie, AVC, fibrillation atriale, dégradation cognitive et démence.
@@ -217,45 +218,6 @@ En cas de discordance mesures au cabinet et automesure/MAPA, répéter les mesur
 Voir les [tensiomètres validés]({{% relref "tensiometres-electroniques-valides.md" %}}) pour la mesure automatisée de la pression artérielle.
 
 Le brassard est spécifique de chaque appareil.
-
-{{% /collapse %}}
-{{%collapse "Automesure tensionnelle" %}}
-
-[Le carnet d'automesure tensionnelle en PDF (international 2021)](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf) et les [appareils validés pour l'automesure tensionnelle]({{% relref "tensiometres-electroniques-valides.md" %}}).
-
-L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hypertension en vie quotidienne et démasquer une hypertension masquée:
-
-- Conditions de mesure
-  - Pièce calme avec température confortable
-  - Pas de tabac, café, alimentation ou exercice physique dans les 30 minutes qui précèdent
-  - Assis et détendu depuis 3-5 minutes
-  - En silence pendant les mesures
-- Posture
-  - Assis et adossé
-  - Jambes décroisées avec pieds à plat
-  - Avant-bras posé sur une table, bras à hauteur du cœur
-- Brassard
-  - Taille adaptée au bras
-  - Utilisation selon la notice (bras gauche ++)
-  - Éviter les appareils au poignet
-- Mesures au diagnostic et avant la consultation
-  - Avec un appareil validé
-  - 2 mesures à 1 minute d'intervalle
-  - Matin et soir
-  - Pendant 7 jours (au moins 3)
-  - Avant la prise des traitements et des repas
-  - Moyenne des valeurs des 6 derniers jours (ignorer le J1)
-  - Diagnostic d'hypertension si moyenne ≥ 135/85 mmHg
-- Mesures avec antihypertenseurs
-  - 2 mesures consécutives
-  - 1-2/semaine et minimum 1/mois
-  - Répétée avant chaque consultation
-  - La cible tensionnelle (le + souvent < 13/8) est appliquée telle quelle (sans ajustement de 5 mmHg)
-
-Ajouter sur l'ordonnance le tensiomètre électronique, certaines mutuelles pouvant le prendre en charge.
-
-Chez l'enfant ou pendant la grossesse, un appareil validé spécifique est nécessaire (cf section précédente).
-{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Objectifs tensionnels" "show" %}}

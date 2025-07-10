@@ -512,7 +512,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
   - Reconnaître les effets indésirables courants de chaque médicament prescrit
 - Modification des facteurs de risque
   - Importance de l'arrêt du tabac (et cigarette électronique)
-  - Automesure tensionnelle, fréquence cardiaque
+  - [Automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}}), fréquence cardiaque
   - Obtenir un bon contrôle de la glycémie en cas de diabète
   - Contrôle d'une obésité
 - Recommandations diététiques
