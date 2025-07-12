@@ -9,15 +9,15 @@ date = "2025-06-25T20:00:30+02:00"
 publishdate = "2025-07-04"
 lastmod = "2025-07-04"
 specialites = ["ORL"]
-annees = "2024"
-sources = ["Bibliographie"]
+annees = "2020"
+sources = ["NICE"]
 tags = []
 english = ["Tinnitus", "pulsatile tinnitus (PT)"]
 sctid = "60862001"
 icd10 = ["H93.1"]
 draft = true
 image = false
-imageSrc = ""
+imageSrc = "Les acouphènes. Freepik"
 todo = "descr > summary > liens > photo > newsletter > flow > Kanban"
 +++
 
@@ -29,8 +29,9 @@ TODO: (at the end)
 {{%collapse "Définition" %}}
 
 Acouphènes
-: Sifflements, grésillements ou bourdonnements d'oreille qui ne proviennent pas du monde extérieur. On parle de chronicité après 3 mois. Ils sont le plus souvent liés à une perte auditive.
-: Prévalence est estimée à 10% chez l'adulte.
+: Sifflements, grésillements ou bourdonnements d'oreille qui ne proviennent pas du monde extérieur. Ils sont le plus souvent liés à une perte auditive liée à l'âge et à l'exposition au bruit.
+: L'évolution de l'acouphène est variable à 5 ans, avec parfois une amélioration (18%), sa disparition (16%) ou une aggravation (14%).
+: Les acouphènes sont fréquents, avec une prévalence estimée à 10% chez l'adulte.
 
 Acouphène pulsatile
 : Perception auditive d'un bruit rythmique et synchrone du rythme cardiaque. L'étiologie est identifiée dans 40 à 70% des cas, d'origine vasculaire (principalement des veines et sinus veineux cérébraux) ou non.
@@ -69,7 +70,46 @@ Causes d'acouphène pulsatile:
   - Déhiscence osseuse du canal semi-circulaire supérieur
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Diagnostic différentiel des symptômes de l'**acouphène pulsatile**:
+
+- **synchrone du pouls:** cause vasculaire
+  - Hypertension intracrânienne idiopathique
+  - Hypertension artérielle
+  - Bruits artériels ou veineux
+  - Malformation artérioveineuse
+  - Tumeur vasculaire
+- **Asynchrone du pouls:** cause musculaire
+  - Myoclonie du muscle de l'oreille moyenne
+  - Contraction du muscle palatin
+  - Contraction de la trompe d'Eustache
+
+Diagnostic différentiel des symptômes de l'**acouphène non pulsatile**:
+
+- **Hypoacousie unilatérale:**
+  - Signes neurologiques: infarctus du tronc cérébral, tumeur de l'angle ponto-cérébelleux ou sclérose en plaques
+  - Aucun signe neurologique: exposition chronique au bruit, traumatisme acoustique, [maladie de Menière]({{% relref "maladie-meniere.md" %}}), déhiscence des canaux semi-circulaires
+  - Otoscopie anormale: [bouchon de cérumen]({{% relref "bouchon-cerumen.md" %}}), otite moyenne chronique, perforation du tympan, cholestéatome
+- **Hypoacousie bilatérale avec otoscopie normale**
+  - ==**Presbyacousie**==
+  - **Exposition chronique au bruit**
+  - Traumatisme acoustique
+  - Traumatisme crânien
+  - Otosclérose
+  - Médicament ototoxique (iatrogénie)
+- Autres causes:
+  - [Fibromyalgie]({{% relref "fibromyalgie.md" %}})
+  - [Méningite]({{% relref "meningite.md" %}})
+  - [Maladie de Lyme]({{% relref "maladie-lyme.md" %}})
+  - [Neurosyphilis]({{% relref "syphilis.md" %}})
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
+
+> [!WARNING]
+> Appeler le SAMU en cas d'acouphène avec: déficit neurologique brutal, symptôme vestibulaire aigu intense (ex. vertige) ou suspicion d'AVC.
+> Consultation urgente sous 24 heures en cas de: 
 
 ### Interrogatoire
 
@@ -77,7 +117,9 @@ Causes d'acouphène pulsatile:
 - Facteurs de risque d'acouphènes:
   - Âge avancé (presbyacousie)
   - Exposition au bruit: musique, chantiers (bois, métal, minéraux), concassage, transports, festivals
-  - Traitements ototoxiques
+  - Traitements ototoxiques  
+    Aspirine forte dose, AINS, aminosides, diurétiques de l'anse, cisplatine.
+- Facteurs aggravants: manque de sommeil, consommation excessive de café ou d'alcool
 - Caractères de l'acouphène:
   - Ancienneté
   - Installation brutale ou non
@@ -93,6 +135,7 @@ Causes d'acouphène pulsatile:
 
 - Pression artérielle, fréquence cardiaque
 - Otoscopie
+- Examen neurologique des paires crâniennes
 - Si caractère pulsatile:
   - auscultation vasculaire: carotides, temporale, derrière et sous l'oreille
   - modification ou non par la compression douce de la veine jugulaire interne ou par la rotation de la tête (sensibilité > 90% pour une lésion veineuse)
@@ -102,39 +145,42 @@ Un acouphène pulsatile nécessite un avis spécialisé ORL et neuroradiologique
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+- Audiométrie
 - IRM de l'oreille interne et du méat acoustique interne
-- Si acouphènes pulsatiles: échodoppler des TSA suivi d'angio-IRM cérébrale 3D T1 avec 3D TOF non injectée (ou angioscanner)
+- Si acouphènes pulsatiles: échodoppler des TSA (*ADERIM*)
+  - Si échodoppler normal: angio-IRM cérébrale 3D T1 avec 3D TOF non injectée (ou angioscanner)
   - Selon le tableau: TSH, NFS, b-hCG
 - Si anomalie otoscopique: IRM ou scanner des roches en haute résolution avec injection
 
-Acouphènes pulsatiles, dans un second temps:
+TODO: Consultation ORL
 
-artériographie des troncs supra aortiques et du polygone artériel) peut être discutée.
+Acouphènes pulsatiles, dans un second temps: artériographie des troncs supra aortiques et du polygone artériel) peut être discutée.
 
 Si imageries normales et forte suspicion de cause veineuse ou de fistule artérioveineuse durale: demander un avis de neuroradiologie interventionnelle.
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'acouphène" %}}
 
 - Gestion du stress, relaxation
-- Thérapie sonore: prothèse avec bruit blanc
-- Psychothérapie: thérapie cognitivo-comportementale (TCC)
+- Troubles de l'endormissement: dissimulation par ventilateur ou musique, mélatonine
+- Thérapie sonore: prothèse auditive avec bruit blanc
+- Psychothérapie: thérapie cognitivo-comportementale (TCC)  
+  Si dépression: antidépresseur IRS ou tricyclique.
 - Si acouphène pulsatile avec malformation vasculaire à l'imagerie: adresser au neuroradiologue interventionnel  
   Traitement peut être: contrôle des facteurs de risque cardiovasculaire, chirurgie ou stent.
 - Information du patient: [guide Inserm](https://www.inserm.fr/dossier/acouphenes/)
 - Association de patients: [France Acouphènes](https://www.france-acouphenes.fr/pathologies.html)
 
+Les autres traitements relèvent du spécialiste (ORL voire neuroradiologue).
+
 {{% /collapse %}}
 {{%sources%}}
 
 - [Guenego A. Acouphène pulsatile : quel bilan demander, pour quelle prise en charge ?. La Revue de la Médecine Générale n°415. 2024. (PDF)](https://www.ssmg.be/wp-content/uploads/RMG/415/RMG415_11-14.pdf)
+- [NICE. Tinnitus: assessment and management. NICE guideline. 2020.](https://www.nice.org.uk/guidance/ng155)
 - [Wu V, et al. Prise en charge de l'acouphène. Canadian Family Physician. 2018.](https://www.cfp.ca/content/64/7/e293)
 - [Inserm. Acouphènes.](https://www.inserm.fr/dossier/acouphenes/)
 - {{< references/aderim >}}
-
-### Bibliographie en attente
-
-[NICE. Tinnitus: assessment and management. NICE guideline. 2020.](https://www.nice.org.uk/guidance/ng155)
 
 {{%/sources%}}
 {{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}

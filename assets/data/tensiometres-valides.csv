@@ -3,14 +3,18 @@
 "A&D";"UM-211";"adulte";"cabinet; hôpital";"StrideBP"
 "A&D";"UM-212BLE";"adulte; enfant";"cabinet";"StrideBP"
 "Accoson&D";"Greenlight 300";"adulte";"cabinet; hôpital";"StrideBP"
-"Andon";"KD-391";"adulte";"cabinet";"BIH"
-"Andon";"KD-5965";"adulte";"cabinet; AMT";"StrideBP"
 "Andon";"iHealth BP3";"adulte";"cabinet; AMT";"StrideBP"
-"Andon";"KD-5920";"adulte";"cabinet; AMT";"StrideBP"
 "Andon";"iHealth Track KN-550BT";"adulte";"cabinet; AMT";"StrideBP"
-"Andon";"KD-5923";"adulte";"cabinet; AMT";"StrideBP"
 "Andon";"iHealth Clear BPM1";"adulte";"cabinet; AMT";"StrideBP"
+"Andon";"KD-391";"adulte";"cabinet";"BIH"
+Andon;KD-5031;adulte;AMT;StrideBP
 "Andon";"KD-558BR";"adulte";"cabinet; AMT";"StrideBP"
+Andon;KD-5915;adulte;AMT;StrideBP
+"Andon";"KD-5917";"adulte";"AMT";"StrideBP"
+"Andon";"KD-5920";"adulte";"cabinet; AMT";"StrideBP"
+Andon;KD-5923;adulte;"cabinet; AMT";StrideBP
+"Andon";"KD-595";"adulte";"AMT";"StrideBP"
+Andon;KD-5965;adulte;"cabinet; AMT";StrideBP
 "Andon";"iHealth Ease BP3L";"adulte";"cabinet; AMT";"StrideBP"
 "Andon";"iHealth Neo BP5s";"adulte";"cabinet; AMT";"StrideBP"
 "Artsana";"CS 410";"adulte";"cabinet";"BIH"
@@ -31,6 +35,8 @@
 "Hingmed";"DBP-01P";"adulte";"cabinet";"StrideBP"
 "Hipermax-BF";"A7101";"adulte";"cabinet; AMT";"StrideBP"
 "HoMedics";"WGNBPA-540";"adulte";"cabinet";"BIH"
+Huawei;Watch;adulte;AMT;StrideBP
+Huawei;Watch D;adulte;AMT;StrideBP
 "InBody";"BPBIO210";"adulte";"cabinet";"StrideBP"
 "InBody";"BPBIO220";"adulte";"cabinet";"Validate BP"
 "InBody";"BPBIO250";"adulte";"cabinet";"StrideBP"

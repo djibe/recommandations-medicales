@@ -282,15 +282,16 @@ graph TB
 - [HAS. Bon usage des médicaments opioïdes : antalgie, prévention et prise en charge du trouble de l'usage et des surdoses. 2022.](https://www.has-sante.fr/jcms/p_3215131/fr/bon-usage-des-medicaments-opioides-antalgie-prevention-et-prise-en-charge-du-trouble-de-l-usage-et-des-surdoses)
 - Collège National des Enseignants de Médecine Interne (CEMI). Troubles à symptomatologie somatique et apparentés à tous les âges. Item 72. Référentiel Collège de Médecine interne R2C. 2021.
 - [Inserm. Fibromyalgie. Collection Expertise collective. Montrouge : EDP Sciences. 2020.](https://www.inserm.fr/expertise-collective/fibromyalgie/)
-- [Macfarlane GJ et al. EULAR revised recommendations for the management of fibromyalgia. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/2/318)
-- [Moore RA et al. Amitriptyline for fibromyalgia in adults. Cochrane Database of Systematic Reviews. 2015.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011824/full/fr)
+- [Macfarlane GJ, et al. EULAR revised recommendations for the management of fibromyalgia. Annals of the Rheumatic Diseases. 2017.](https://ard.bmj.com/content/76/2/318)
+- [Moore RA, et al. Amitriptyline for fibromyalgia in adults. Cochrane Database of Systematic Reviews. 2015.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011824/full/fr)
 - [Clauw DJ. Fibromyalgia: a clinical review. JAMA. 2014. (payant)](https://jamanetwork.com/journals/jama/article-abstract/1860480)
 - Cochrane Library
 - [Ameli. Fibromyalgie.](https://www.ameli.fr/assure/sante/themes/fibromyalgie)
 
 ### Bibliographie en attente
 
-- [Wolfe F et al. 2016 Revisions to the 2010/2011 fibromyalgia diagnostic criteria. Semin Arthritis Rheum. 2016.](https://www.sciencedirect.com/science/article/abs/pii/S0049017216302086)
+- [HAS. Fibromyalgie de l'adulte : Conduite diagnostique et stratégie thérapeutique. 2025.](https://www.has-sante.fr/jcms/p_3634512/fr/fibromyalgie-de-l-adulte-conduite-diagnostique-et-strategie-therapeutique)
+- [Wolfe F, et al. 2016 Revisions to the 2010/2011 fibromyalgia diagnostic criteria. Semin Arthritis Rheum. 2016.](https://www.sciencedirect.com/science/article/abs/pii/S0049017216302086)
 - [HAS, SFETD. Douleur chronique : reconnaître le syndrome douloureux chronique, l'évaluer et orienter le patient. 2008.](https://www.has-sante.fr/jcms/c_732257/fr/douleur-chronique-reconnaitre-le-syndrome-douloureux-chronique-l-evaluer-et-orienter-le-patient)
 
 {{%/sources%}}
