@@ -1,6 +1,7 @@
 +++
 title = "Nettoyage du cache"
 description = "Correction des problèmes de cache"
+aliases = ["/clear"]
 noindex = true
 layout = "clear"
 type = "page"
