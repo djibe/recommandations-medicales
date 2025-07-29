@@ -85,21 +85,22 @@ L'incidence de la maladie de Lyme atteignait 53 cas/100.000 habitants en 2024 (*
 
 <script>
   const chartOptions1 = {
-      series: [{
-        name: "Incidence",
-        data: [42,42,41,44,55,41,51,84,69,104,76,91,71,51,59,53]
-      }],
-      xaxis: {
-        categories: [2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024]
-      },
-      chart: {
-        height: 192,
-        type: 'line',
-      },
-      stroke: { colors: ['#4150f5'], curve: 'smooth', width: 4 },
-      title: { text: 'Incidence de la maladie de Lyme en France' },
-      yaxis: { min: 0, max: 120 }
-    }
+    series: [{
+      name: "Incidence",
+      data: [42,42,41,44,55,41,51,84,69,104,76,91,71,51,59,53]
+    }],
+    xaxis: {
+      categories: [2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024],
+      tickAmount: 5
+    },
+    chart: {
+      height: 192,
+      type: 'line',
+    },
+    stroke: { colors: ['#4150f5'], curve: 'smooth', width: 4 },
+    title: { text: 'Incidence de la maladie de Lyme en France' },
+    yaxis: { min: 0, max: 120 }
+  }
 </script>
 
 {{% /collapse %}}
@@ -254,6 +255,8 @@ Les anticorps ne protègent pas contre une nouvelle infection à *Borrelia burgd
 
 [Ministère de la Santé: Maladie de Lyme et prévention des piqûres de tiques (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/maladie_de_lyme_depliant_gp.pdf) et [Santé Publique France. Prévention de la borréliose de Lyme (PDF)](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-transmission-vectorielle/borreliose-de-lyme/documents/depliant-flyer/maladie-de-lyme-et-prevention-des-piqures-de-tiques)
 
+Les tiques sont cachées dans les hautes herbes, buissons et branches basses à toutes les altitudes et aussi dans les jardins (25% des piqûres).
+
 Mesures de prévention de la maladie de Lyme:
 
 - En forêt, marcher sur les chemins
@@ -388,6 +391,7 @@ graph TB
 - Prescrire Redaction. Érythème migrant après piqûre de tique. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [HAS. Guide du parcours de soins de patients présentant une suspicion de borréliose de Lyme. 2022.](https://www.has-sante.fr/jcms/p_3323862/fr/guide-du-parcours-de-soins-de-patients-presentant-une-suspicion-de-borreliose-de-lyme)
 - Prescrire Redaction. Borréliose de Lyme. Reconnaître des signes de dissémination. Rev Prescrire. 2022.
+- [Anses. En forêt ou dans le jardin, attention aux tiques. 2022.](https://www.anses.fr/fr/content/en-for%C3%AAt-ou-dans-le-jardin-attention-aux-tiques)
 - [Gocko X, et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X19306201)
 - [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques. Recommandations de bonne pratique. 2018.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques)
 - [Quinet B; SFP. Conduite à tenir devant une piqûre de tique chez l'enfant. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/immuno-infectio-parasito/conduite-tenir-devant-une-piqure-de-tique-chez-lenfant)

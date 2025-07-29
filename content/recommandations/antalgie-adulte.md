@@ -110,7 +110,7 @@ Ne pas utiliser pour: douleurs pelviennes chroniques, douleurs musculo-squeletti
 
 Balance défavorable en première intention pour: douleurs dentaires, lombalgie aiguë, traumatismes simples rachidiens, blessures mineures des membres, colique néphrétique ...
 
-- Fentanyl (cancer uniquement, voie orale impossible ++)
+- Fentanyl (douleur cancéreuse uniquement, voie orale impossible ++)
 - Hydromorphone (troisième intention)
 - **Morphine**
 - Oxycodone
