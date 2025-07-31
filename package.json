@@ -10,7 +10,7 @@
     "docker:run": "docker run --name recomed -d -p 8080:80 recomed-image:v1",
     "print:compile": "node-sass --output-style expanded --precision 6 assets/sass/_print-material.scss assets/css/print-material.css",
     "css:purge": "hugo && purgecss --css assets/css/material.css --content public/**/*.html --output assets/css/material-purge.css --safelist text-danger pagination page-link is-focused has-value close collapse collapsing modal fade modal-open modal-backdrop modal-scrollbar-measure nav-tabs-material nav-tabs-indicator animate show active tooltip tooltip-inner irs irs--material irs-line irs-min irs-max irs-from irs-to irs-single irs-grid irs-bar irs-bar--single irs-handle single state_hover irs-hidden-input",
-    "css:purge-preview": "hugo --buildDrafts && purgecss --css assets/css/material.css --content public/**/*.html --output assets/css/material-purge.css --safelist pagination page-link is-focused has-value close collapse collapsing modal fade modal-open modal-backdrop modal-scrollbar-measure nav-tabs-material nav-tabs-indicator animate show active tooltip tooltip-inner irs irs--material irs-line irs-min irs-max irs-from irs-to irs-single irs-grid irs-bar irs-bar--single irs-handle single state_hover irs-hidden-input",
+    "css:purge-preview": "hugo --buildDrafts && purgecss --css assets/css/material.css --content public/**/*.html --output assets/css/material-purge.css --safelist pagination page-link is-focused has-value close collapse collapsing modal fade modal-open modal-backdrop modal-scrollable-measure nav-tabs-material nav-tabs-indicator animate show active tooltip tooltip-inner irs irs--material irs-line irs-min irs-max irs-from irs-to irs-single irs-grid irs-bar irs-bar--single irs-handle single state_hover irs-hidden-input",
     "favicon": "real-favicon generate \"./build/faviconDescription.json\" \"./build/favicons/\"",
     "html:lint-vnu": "hugo && node build/vnu-jar.mjs",
     "html:lint-validate": "hugo && npm exec html-validate \"public/**/*.html\"",
@@ -20,6 +20,8 @@
     "links-societies:check": "npx linkinator https://recomedicales.fr/articles/societes-savantes-medecine/ --verbosity ERROR --skip recomedicales.fr",
     "start": "hugo --environment production --cleanDestinationDir --gc --minify",
     "start:dev": "hugo server --environment development --buildDrafts --watch --destination dev --logLevel warn --cleanDestinationDir -p 1313",
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
     "webhint": "hint http://localhost:1313"
   },
   "keywords": [
@@ -50,6 +52,7 @@
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^7.0.2",
     "@oramacloud/client": "^2.1.4",
+    "@playwright/test": "^1.48.0",
     "apexcharts": "^5.1",
     "cli-real-favicon": "^0.0.9",
     "cross-env": "^7.0.3",
