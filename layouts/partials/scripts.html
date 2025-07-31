@@ -191,6 +191,72 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 <script crossorigin>
   document.addEventListener( 'DOMContentLoaded', event => {
+    // Handle section anchor clicks
+    document.querySelectorAll('.section-anchor').forEach(anchor => {
+      anchor.addEventListener('click', (e) => {
+        e.preventDefault();
+        
+        const targetId = anchor.getAttribute('data-target');
+        const collapseTarget = document.querySelector(targetId);
+        const href = anchor.getAttribute('href');
+        
+        try {
+          // Open the section
+          if (collapseTarget && !collapseTarget.classList.contains('show')) {
+            $(collapseTarget).collapse('show');
+          }
+          
+          // Update URL
+          window.history.pushState(null, null, href);
+        } catch (error) {
+          console.error('Error handling section anchor click:', error);
+        }
+      });
+    });
+
+    // Handle URL anchors - open section if hash matches
+    function handleUrlAnchor() {
+      const hash = window.location.hash;
+      if (hash) {
+        try {
+          // Decode the URL hash to handle special characters
+          const sectionId = decodeURIComponent(hash.substring(1));
+          
+          // Handle special case for "sources" section
+          let collapseTarget;
+          if (sectionId === 'sources') {
+            collapseTarget = document.getElementById('sources-block');
+          } else {
+            collapseTarget = document.getElementById(sectionId + '-b');
+          }
+          
+          if (collapseTarget && !collapseTarget.classList.contains('show')) {
+            $(collapseTarget).collapse('show');
+            
+            // Scroll to section after opening
+            setTimeout(() => {
+              const targetElement = document.getElementById(sectionId);
+              if (targetElement) {
+                targetElement.scrollIntoView({ 
+                  behavior: 'smooth', 
+                  block: 'start' 
+                });
+              }
+            }, 300);
+          } else if (!collapseTarget) {
+            // Section not found - fallback to staying on the page
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+          }
+        } catch (error) {
+          console.error('Error handling URL anchor:', error);
+        }
+      }
+    }
+
+    // Initialize on page load and handle navigation
+    handleUrlAnchor();
+    window.addEventListener('popstate', handleUrlAnchor);
+
     // Register Orama search
     {{ $searchModule := resources.Get "/js/orama.mjs" | minify | fingerprint "sha384" }}
     document.getElementById('btn-search-modal').addEventListener('click', () => import('{{ $searchModule.Permalink }}'))
