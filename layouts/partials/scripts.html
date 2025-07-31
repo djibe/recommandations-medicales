@@ -191,14 +191,20 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 <script crossorigin>
   document.addEventListener( 'DOMContentLoaded', event => {
+    
+    // Modern clipboard utility - no legacy support
+    async function copyToClipboard(text) {
+      await navigator.clipboard.writeText(text);
+    }
     // Handle section anchor clicks
     document.querySelectorAll('.section-anchor').forEach(anchor => {
-      anchor.addEventListener('click', (e) => {
+      anchor.addEventListener('click', async (e) => {
         e.preventDefault();
         
         const targetId = anchor.getAttribute('data-target');
         const collapseTarget = document.querySelector(targetId);
         const href = anchor.getAttribute('href');
+        const fullUrl = window.location.origin + window.location.pathname + href;
         
         try {
           // Open the section
@@ -208,6 +214,9 @@ document.addEventListener( 'DOMContentLoaded', event => {
           
           // Update URL
           window.history.pushState(null, null, href);
+          
+          // Copy to clipboard (modern browsers only)
+          await copyToClipboard(fullUrl);
         } catch (error) {
           console.error('Error handling section anchor click:', error);
         }

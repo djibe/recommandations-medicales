@@ -97,4 +97,35 @@ test.describe("Section Anchors", () => {
       );
     }
   });
+
+  test("should copy section URL to clipboard on anchor click", async ({
+    page,
+  }) => {
+    await page.goto("/recommandations/cancer-sein/");
+
+    // Grant clipboard permissions
+    await page
+      .context()
+      .grantPermissions(["clipboard-read", "clipboard-write"]);
+
+    // Click on a section anchor
+    const definitionsSection = page.locator('h2:has-text("Définitions")');
+    await definitionsSection.hover();
+    const anchor = definitionsSection.locator(".section-anchor");
+    await anchor.click();
+
+    // Wait for clipboard operation to complete
+    await page.waitForTimeout(500);
+
+    // Verify the clipboard contains the section URL
+    const clipboardText = await page.evaluate(() =>
+      navigator.clipboard.readText()
+    );
+    expect(clipboardText).toContain(
+      "/recommandations/cancer-sein/#d%c3%a9finitions"
+    );
+
+    // No visual feedback - clipboard operation is silent
+    // Just verify the URL was copied successfully
+  });
 });
