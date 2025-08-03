@@ -11,11 +11,11 @@ sources = ["CNAM"]
 tags = []
 image = true
 imageSrc = "vectorjuice / Freepik"
-todo = "écriture SEO"
+todo = "écriture SEO, update"
 +++
 
 Le **Forfait structure** correspond à une prime annuelle versée par l'*Assurance Maladie* pour favoriser l'engagement des médecins dans le respect des protocoles numériques du système de santé (logiciels, aide à la prescription, feuilles de soins électroniques, messagerie sécurisée ...) et des modes d'exercices coordonnés.  
-Il disparaîtra en 2026, remplacé par la Dotation Numérique -- **Donum**.
+Il disparaîtra en 2026, remplacé par la [Dotation Numérique]({{% relref "donum-dotation-numerique.md" %}}) -- **DONUM**.
 {.lead}
 
 Les montants versés couvrent potentiellement intégralement les [dépenses d'équipement]({{% relref "peripheriques-ordinateur.md" %}}) (webcam ou autre) et de services informatiques (téléconsultation, dossier patient) avec 1960 € versés pour le *Volet 1* (uniquement si tous les critères sont remplis) et 6181 € pour le *Volet 2* (sous réserve de remplir le Volet 1, puis selon chaque indicateur rempli). En 2025, la valeur du point reste fixée à 7 €.
@@ -70,7 +70,7 @@ Le Forfait Structure disparaîtra au 1er janvier et sera remplacé par la **Donu
 
 ## Le volet de synthèse médicale (VSM), forfait supplémentaire temporaire
 
-Le volet de synthèse médicale est venu en complément du *Forfait structure* pour soutenir le temps passé à alimenter le Dossier Médical Partagé (DMP) des patients. Il n'est plus disponible en 2025.
+Le volet de synthèse médicale est venu en complément du *Forfait structure* pour soutenir le temps passé à alimenter le Dossier Médical Partagé (DMP) des patients. ==Il n'est plus disponible en 2025==.
 
 Le **volet de synthèse médicale (VSM)** est un bref récapitulatif présentant le patient, ses antécédents, allergies, traitements en cours ou autres particularités. Il vise à sécuriser le parcours de soins afin que tous les soignants disposent des informations essentielles pour la prise en charge du patient.
 
