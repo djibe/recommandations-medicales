@@ -129,7 +129,7 @@ Diviser les doses d'initiation par 2 après 65 ans.
 | Lorazépam                | Temesta, gén      |        10-20 | Anxiété, sevrage alcool            |
 | Lormétazépam             | Ex-noctamide, gén |         13,5 | Insomnie occasionnelle/transitoire |
 | Nitrazépam               | Mogadon           |        16-48 | Insomnie occasionnelle/transitoire |
-| ==**Oxazépam**==         | Seresta           |            8 | Anxiété, sevrage alcool            |
+| ==**Oxazépam**==         | Seresta, gén      |            8 | Anxiété, sevrage alcool            |
 | Prazépam                 | Lysanxia, gén     |           65 | Anxiété, sevrage alcool            |
 | Zolpidem ²               | Stilnox, gén      |          2,4 | Insomnie occasionnelle/transitoire |
 | Zopiclone                | Imovane, gén      |            5 | Insomnie occasionnelle/transitoire |

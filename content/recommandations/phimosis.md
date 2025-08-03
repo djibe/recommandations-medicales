@@ -23,7 +23,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le phimosis correspond à un étroitesse du prépuce prédominant sur<br>l'anneau distal, empêchant plus<br>ou moins sa rétractation
+- Le phimosis correspond à un étroitesse du prépuce prédominant sur l'anneau distal, empêchant plus ou moins sa rétractation
 - Le phimosis du nouveau-né est physiologique et ne doit pas être manipulé
 - Absence de prise en charge du phimosis avant 7-8 ans
 - Le traitement d'un phimosis après 8 ans peut être débuté par application de [dermocorticoïde fort]({{% relref "dermocorticoides.md" %}}) 1 à 2 fois par jour accompagnée de manœuvres douces pendant 6 à 8 semaines
@@ -125,7 +125,7 @@ Le traitement chirurgical s'adresse aux échecs du traitement médical et du phi
 En première intention dans le phimosis congénital avec application de {{< modal-btn modal-dc >}}dermocorticoïdes forts{{< /modal-btn >}} pendant 4 semaines couplés à des **manœuvres douces de rétraction du prépuce** (études discordantes).
 {.alert .alert-info}
 
-Les manipulations du prépuce sont débutées entre J1 et J14 après le début d'application des dermocorticoïdes (efficacité 79-96%). **Répéter un deuxième cycle** de traitement identique en cas d'échec.
+Les manipulations du prépuce sont débutées entre J1 et J14 après le début d'application des dermocorticoïdes (efficacité 79 à 96%). **Répéter un deuxième cycle** de traitement identique en cas d'échec.
 
 **NB.** Absence d'effets secondaires. Le facteur déterminant est l'observance du traitement. Risque de récidive faible.
 
@@ -170,7 +170,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Moreno G et al. Topical corticosteroids for treating phimosis in boys. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008973.pub3/full/fr)
+- [Moreno G, et al. Topical corticosteroids for treating phimosis in boys. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008973.pub3/full/fr)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pathologies courantes de la région inguino-scrotale et du pénis. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/pathologies)
 - Dr Biserte CHRU Lille (Urologie 2008, JPP 2009)
 - Dr Panait HFME Bron
