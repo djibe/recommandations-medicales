@@ -30,7 +30,7 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme:
 - Botulisme
 - Brucellose
 - Maladie du charbon
-- Chikungunya
+- [Chikungunya]({{% relref "chikungunya.md" %}})
 - Choléra
 - [Covid-19]({{% relref "covid-19.md" %}}) (par le biologiste)
 - Dengue
