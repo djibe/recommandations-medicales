@@ -93,6 +93,11 @@ HUGO_ENABLEGITINFO = "false"
   to = "https://recomedicales.fr/recommandations/mpox/"
   status = 301
 
+[[redirects]]
+  from = "https://recomedicales.fr/clear"
+  to = "https://recomedicales.fr/clear/"
+  status = 301
+
 # [[plugins]]
 #   package = "netlify-plugin-inline-critical-css"
 #     [plugins.inputs]
