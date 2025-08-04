@@ -69,6 +69,7 @@ HUGO_ENABLEGITINFO = "false"
     Cache-Control = "public, max-age=2419200, must-revalidate, stale-while-revalidate=86400"
 
 # [[edge_functions]]
+# https://www.jeremiak.com/blog/block-bots-netlify-edge-functions/
 # function = "block-bots"
 # path = "/*"
 
