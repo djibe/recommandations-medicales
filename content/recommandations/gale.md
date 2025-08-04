@@ -288,7 +288,7 @@ Afin d'éviter tout risque d'épidémie, nous vous demandons de bien vouloir con
 
 1. Dans la journée, le matin:  
   Retirez tout le linge de maison contaminé et faites un tas.  
-  Pulvérisez du scabicides spray  pendant la journée sur toute la literie et oreillers puis quittez la pièce pendant 12 heures. Laissez la pièce avec les fenêtres ouvertes.
+  Pulvérisez du scabicides spray pendant la journée sur toute la literie et oreillers puis quittez la pièce pendant 12 heures. Laissez la pièce avec les fenêtres ouvertes.
 2. Coupez vous les ongles courts et brossez-les.
 3. Lancez une machine à 60°C avec le linge de maison. Mettre des gants jetables pour étendre le linge propre.  
 4. Le soir: enfilez vos gants jetables pour mettre des draps propres et préparer des vêtements non fragiles pour la nuit.

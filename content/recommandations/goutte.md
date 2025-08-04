@@ -245,7 +245,7 @@ Canakinumab (Ilaris®) 150 mg SC dose unique. Intervalle de 12 semaines entre 2 
 
 Recommandations pour la prise en charge par traitement de fond selon la *SFRhumato*: à débuter dès que le diagnostic de goutte symptomatique est posé avec cible d'uricémie < 50 mg/L car la goutte est un facteur de risque indépendant de mortalité prématurée.
 
-Pour l'*ACR*: prise en charge par hypouricémiant fortement recommandé si: ≥ 1 tophus, lésions radiologiques  liées à la goutte, ≥ 2 crises/an (dites fréquentes)  
+Pour l'*ACR*: prise en charge par hypouricémiant fortement recommandé si: ≥ 1 tophus, lésions radiologiques liées à la goutte, ≥ 2 crises/an (dites fréquentes)  
 ou recommandé pour certains patients ayant déjà eu ≥ 1 crise mais non fréquentes  
 ou recommandé si DFG < 60, uricémie ≥ 90 mg/L ou lithiase urique.
 

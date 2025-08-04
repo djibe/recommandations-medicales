@@ -56,7 +56,7 @@ Maladies faisant l'objet d'une déclaration obligatoire anonyme:
 - Rubéole
 - [Saturnisme]({{% relref "saturnisme.md" %}}) chez l'enfant mineur
 - Schistosomiase (bilharziose) urogénitale autochtone
-- Suspicion de maladie de Creutzfeldt-Jakob et autres encéphalopathies subaiguës spongiformes transmissibles  humaines
+- Suspicion de maladie de Creutzfeldt-Jakob et autres encéphalopathies subaiguës spongiformes transmissibles humaines
 - Tétanos
 - TIAC
 - [Tuberculose]({{% relref "tuberculose.md" %}})

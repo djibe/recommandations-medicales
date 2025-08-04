@@ -466,7 +466,7 @@ Migraines cataméniales sous COP, proposer au choix:
 
 - Schéma continu
 - Œstrogènes percutanés  
-  1,5 mg  gel/j ou patch 100 µg/24h pendant les 7 jours libres.
+  1,5 mg gel/j ou patch 100 µg/24h pendant les 7 jours libres.
 
 ### Troubles de l'humeur
 

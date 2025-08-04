@@ -246,7 +246,7 @@ graph TB
     grossesse -- Non --> choix("- &lt; 42 ans: DIU-LNG<br>- ≥ 42 ans: chirurgie conservatrice<br>- Hystérectomie si<br>souhaitée")
 {{< /mermaid >}}
 
-La figure suivante ne concerne pas directement notre pratique  mais sert à guider notre patiente lors de la présence de fibromes.
+La figure suivante ne concerne pas directement notre pratique mais sert à guider notre patiente lors de la présence de fibromes.
 
 {{< mermaid title="Prise en charge des ménorragies en présence de myomes type 3 et plus selon CNGOF 2022" >}}
 graph TB

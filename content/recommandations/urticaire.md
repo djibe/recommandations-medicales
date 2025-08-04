@@ -244,7 +244,7 @@ En cas de syndrome inflammatoire biologique, d'anomalie de la NFS ou de signes c
 - Angio-œdèmes chroniques ou récidivants isolés sans lésion superficielle  
   Déficit en inhibiteur de la C1 estérase.
 - Angio-œdème chronique localisé de la face inexpliqué  
-  Absence de  prise d'IEC/sartans, AINS/aspirine: Panoramique dentaire, scanner des sinus.
+  Absence de prise d'IEC/sartans, AINS/aspirine: Panoramique dentaire, scanner des sinus.
 - Urticaire atypique (fixe, peu prurigineuse) ou signes cutanés (livedo, nodules, purpura ...)  
   Biopsie cutanée.
 

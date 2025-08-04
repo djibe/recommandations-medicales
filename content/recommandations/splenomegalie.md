@@ -83,7 +83,7 @@ La splénomégalie n'est qu'un symptôme:
   [Leucémie lymphoïde chronique]({{% relref "leucemie-lymphoide-chronique.md" %}}), maladie de Waldenström, leucémie à tricholeucocytes
 - [Lymphomes malins]({{% relref "lymphomes-non-hodgkiniens.md" %}})
 - Anémies hémolytiques chroniques  
-  Minkowski-Chauffard, déficit en pyruvate-kinase érythrocytaire, thalassémie  majeure, drépanocytose, hémolyse par auto-anticorps anti-GR.
+  Minkowski-Chauffard, déficit en pyruvate-kinase érythrocytaire, thalassémie majeure, drépanocytose, hémolyse par auto-anticorps anti-GR.
 
 ### Hypertension portale
 

@@ -60,7 +60,7 @@ Cancer de la prostate familial
 
 **NB.** En cas d'[hypogonadisme]({{< relref "andropause-deficit-testosterone.md" >}}), la supplémentation en testostérone n'augmente pas le risque de cancer de la prostate.
 
-### Facteurs  du cancer de la prostate
+### Pronostic du cancer de la prostate selon le PSA
 
 Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de Gleason et ISUP** (évolution du Gleason) au diagnostic.
 
