@@ -1,3 +1,4 @@
+User-agent: AddSearchBot
 User-agent: AI2Bot
 User-agent: Ai2Bot-Dolma
 User-agent: aiHitBot
@@ -37,19 +38,26 @@ User-agent: FacebookBot
 User-agent: Factset_spyderbot
 User-agent: FirecrawlAgent
 User-agent: FriendlyCrawler
+User-agent: Gemini-Deep-Research
+User-agent: Google-CloudVertexBot
 User-agent: Google-Extended
 User-agent: GoogleAgent-Mariner
+User-agent: GoogleOther
 User-agent: GPTBot
+User-agent: ia_archiver
 User-agent: iaskspider/2.0
 User-agent: ICC-Crawler
 User-agent: ImagesiftBot
 User-agent: img2dataset
 User-agent: ISSCyberRiskCrawler
 User-agent: Kangaroo Bot
+User-agent: LinerBot
 User-agent: magpie-crawler
 User-agent: meta-externalagent
+User-agent: mirrorweb
 User-agent: MyCentralAIScraperBot
 User-agent: netEstate Imprint Crawler
+User-agent: Nicecrawler
 User-agent: NovaAct
 User-agent: OAI-SearchBot
 User-agent: Omgili
@@ -59,6 +67,8 @@ User-agent: PanguBot
 User-agent: Panscient
 User-agent: panscient.com
 User-agent: peer39_crawler
+User-agent: Perplexity-User
+User-agent: PerplexityBot
 User-agent: PetalBot
 User-agent: PhindBot
 User-agent: Poseidon Research Crawler
