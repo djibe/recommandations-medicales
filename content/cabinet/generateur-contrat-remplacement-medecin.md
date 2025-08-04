@@ -20,7 +20,7 @@ todo = "Store data > Copier > Télécharger .doc"
 
 ## Générer et éditer un contrat de remplacement pour le médecin généraliste
 
-Créer un contrat de remplacement pour le médecin libéral depuis le navigateur web. Il vous faut ensuite l'envoyer à votre Conseil départemental ([annuaire](https://www.conseil-national.medecin.fr/lordre-medecins/conseils-regionaux-departementaux/conseils-departementaux-lordre), bandeau de droite: "Contacter mon conseil").
+Créer un contrat de remplacement pour le médecin libéral depuis le navigateur web. Le médecin remplacé l'envoie ensuite à son Conseil départemental de l'Ordre ([annuaire](https://www.conseil-national.medecin.fr/lordre-medecins/conseils-regionaux-departementaux/conseils-departementaux-lordre), bandeau de droite: **Contacter mon conseil**).
 
 > Aucune donnée n'est transmise (comme partout ailleurs sur **RecoMédicales**)
 

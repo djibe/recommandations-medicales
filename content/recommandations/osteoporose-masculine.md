@@ -15,7 +15,7 @@ sources = ["HAS", "SFRhumato", "GRIO"]
 tags = ["chute", "depistage", "EPS", "prevention", "vitamine d"]
 english = ["Osteoporosis"]
 sctid = "64859006"
-icd10 = ["M81.9", "M81.8"]
+icd10 = ["M81", "M81.9", "M80", "M80.9"]
 image = true
 imageSrc = "Illustration de l'ostéoporose de l'homme. BruceBlaus, CC BY-SA 4.0 via Wikimedia Commons"
 todo = "seo | relecture bebouvard@chu-angers.fr"
@@ -68,7 +68,7 @@ FRAX®
 - Une homme de +50 ans a 1 chance sur 5 d'avoir une fracture ostéoporotique
 - +55 ans avec fracture de l'extrémité supérieure du fémur (FESF): ⅓ morts dans l'année (dont 20% dans les 3 mois en 2008) (*[Drees 2016](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/quel-risque-de-deces-un-apres-une-fracture-du-col-du-femur)*)
 - 90% des FESF surviennent après une chute
-- Après hospitalisation pour fracture, seuls 5% des hommes de +50  ont eu une ostéodensitométrie dans l'année et 5% un traitement anti-ostéoporotique (2012). Toutefois 50% reçoivent du calcium et/ou de la [vitamine D]({{% relref "vitamine-d.md" %}}).
+- Après hospitalisation pour fracture, seuls 5% des hommes de +50 ont eu une ostéodensitométrie dans l'année et 5% un traitement anti-ostéoporotique (2012). Toutefois 50% reçoivent du calcium et/ou de la [vitamine D]({{% relref "vitamine-d.md" %}}).
 
 ### Abréviations
 

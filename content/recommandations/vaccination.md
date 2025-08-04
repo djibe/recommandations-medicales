@@ -269,7 +269,7 @@ Ne pas injecter dans un site si celui-ci présente:
   - Vaccins viraux vivants/tués comme ROR, fièvre jaune
 - Intramusculaire
   - Angle de 90°
-  - Hépatites, grippe, rage, vaccins adsorbés (DTCP, typhoïde), pneumo/méningo, rage, HPV
+  - Hépatites, grippe, rage, vaccins adsorbés (DTCP, typhoïde), pneumocoque/méningocoque, rage, HPV
 - Intradermique
   - Réservée au BCG
 
@@ -304,15 +304,11 @@ Documents pour informer sur la vaccination:
 
 {{< card-link-external title="e-learning vaccination" url="https://www.formationvaccinationpaca.fr" subtitle="Par la Région PACA">}} {{< card-link-external title="Quiz rattrapage vaccinal" url="https://medqual.fr/index.php?option=com_vquiz&view=quizmanager&layout=description&id=7" subtitle="Par Medqual">}}
 
+{{< youtube id="AQGZRhcvX8A" title="Actualités vaccinales 2025 (VacciNews)" >}}
+
 {{< youtube id="TYvSEo_rjMU" title="Le rattrapage vaccinal en pratique (VacciNews)" >}}
 
 {{< youtube id="u31xRtiITzk" title="Administration du vaccin Rotarix (CDC)" >}}
-
-{{< youtube id="8o4LbIdF_RY" title="Nouveau vaccin contre le pneumocoque (VaccinNews)" >}}
-
-{{< youtube id="FPI_1SQtZ5U" title="Webinaire Les Mardis de la Vaccination sur Vaccins et sexualités (HPV, Hépatite A)" >}}
-
-{{< youtube id="yxPdBkQO7ms" title="Vaccination contre le rotavirus (VacciNews)" >}}
 
 {{% /collapse %}}
 {{%sources%}}
