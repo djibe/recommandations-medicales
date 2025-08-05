@@ -64,6 +64,11 @@ HUGO_ENABLEGITINFO = "false"
     Cache-Control = "public, max-age=2419200, must-revalidate, stale-while-revalidate=86400"
 
 [[headers]]
+  for = "*.avif"
+  [headers.values]
+    Cache-Control = "public, max-age=2419200, must-revalidate, stale-while-revalidate=86400"
+
+[[headers]]
   for = "*.svg"
   [headers.values]
     Cache-Control = "public, max-age=2419200, must-revalidate, stale-while-revalidate=86400"
