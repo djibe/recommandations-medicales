@@ -35,6 +35,31 @@ body,
   scroll-margin-top: 3.5rem;
 }
 
+// Section anchor link - scoped to collapse sections only
+section h2,
+footer h2 {
+  position: relative;
+  
+  .section-anchor {
+    position: absolute;
+    left: -1.5rem;
+    color: #ccc;
+    text-decoration: none;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+    font-weight: normal;
+    
+    &:hover {
+      color: #666;
+      text-decoration: none;
+    }
+  }
+  
+  &:hover .section-anchor {
+    opacity: 1;
+  }
+}
+
 a {
   color: var(--primary);
 }
