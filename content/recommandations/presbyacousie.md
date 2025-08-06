@@ -178,6 +178,10 @@ graph TB
 - [Arrêté du 14 novembre 2018 portant modification des modalités de prise en charge des aides auditives et prestations associées au chapitre 3 du titre II de la liste des produits et prestations prévue à l'article L. 165-1 du code de la sécurité sociale.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037615111)
 - [Bureau international d'audiophonologie (biap). Recommandation biap 02/1 bis - Classification audiométrique des déficiences auditives. 1997. (PDF)](https://www.biap.org/fr/recommandations/recommandations/ct-02-classification-des-deficiences-auditives/149-rec-02-01-fr-classification-audiometrique-des-deficiences-auditives/file)
 
+### Bibliographie en attente
+
+[Tsai Do BS, et al. Clinical Practice Guideline: Age-Related Hearing Loss. Otolaryngol Head Neck Surg. 2024.](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1002/ohn.750)
+
 {{%/sources%}}
 {{% modal title="Échelle de dépression gériatrique" id="modal-gds15"%}}
 

@@ -8,9 +8,9 @@ synonyms = ["Cancer du côlon", "cancer du rectum"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T18:55:37+02:00"
 publishdate = "2022-09-22"
-lastmod = "2024-04-05"
+lastmod = "2025-08-05"
 specialites = ["hépato-gastro-entérologie"]
-annees = "2023"
+annees = "2025"
 sources = ["SNFGE", "INCa", "HAS", "SFED"]
 tags = ["cancer", "depistage", "fatigue", "obesite", "prevention", "tabac"]
 english = ["Colorectal cancer"]
@@ -347,9 +347,9 @@ graph TB
 
 {{< youtube id="DV0PVuj4Ljw" title="Quelle surveillance endoscopique pour un cancer du côlon ? (TutoGastro SNFGE)" >}}
 
+- [Phelip JM, et al. Cancer colorectal métastatique. Thésaurus National de Cancérologie Digestive. 2025.](https://www.snfge.org/tncd/cancer-colorectal-metastatique)
+- [Cotte E, et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive. 2025.](https://www.snfge.org/tncd/cancer-du-rectum)
 - [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
-- [Phelip JM, et al. Cancer colorectal métastatique. Thésaurus National de Cancérologie Digestive. 2024.](https://www.snfge.org/tncd/cancer-colorectal-metastatique)
-- [Cotte E, et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive. 2023.](https://www.snfge.org/tncd/cancer-du-rectum)
 - [Lecomte T, et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive. 2023.](https://www.snfge.org/tncd/cancer-du-colon-non-metastatique)
 - {{< references/college-gastro >}}
 - [Cervantes A, et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04192-8/fulltext)

@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-16T20:52:00+02:00"
 publishdate = "2021-02-16"
-lastmod = "2024-04-05"
+lastmod = "2025-08-05"
 specialites = ["hépato-gastro-entérologie"]
-annees = "2024"
+annees = "2025"
 sources = ["SNFGE", "HAS"]
 tags = ["cancer", "EOGD", "ferritine", "gastrite"]
 english = ["Gastric cancer"]
@@ -240,7 +240,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Zaanan A, et al. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 2024.](https://www.snfge.org/tncd/cancer-lestomac)
+- [Zaanan A, et al. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 2025.](https://www.snfge.org/tncd/cancer-lestomac)
 - {{< references/college-gastro >}}
 - [Chollet R, et al; SFED, CREGG. Prévention du cancer de l'estomac. 2021.](https://www.sfed.org/sites/www.sfed.org/files/2021-08/Cancerestomac_prevention.pdf)
 - [Nousbaum JB, et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Estomac. BEH. Santé Publique France. 2021.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-estomac)

@@ -200,6 +200,10 @@ Avis spécialisé **rhumatologique** en cas de symptômes persistants plusieurs 
 - [SPILF, SFR, SOFMER, CNGE, InVS. Recommandations nationales sur la prise en charge du chikungunya (Formes aiguës, formes persistantes). 2014. (PDF)](https://sante.gouv.fr/IMG/pdf/2014-Chikungunya-recommandations_SPILF_2014.pdf)
 - [ARS La Réunion. Chikungunya à La Réunion](https://www.lareunion.ars.sante.fr/epidemie-de-chikungunya-la-reunion)
 
+### Bibliographie en attente
+
+[WHO guidelines for clinical management of arboviral diseases: dengue, chikungunya, Zika and yellow fever. Geneva: World Health Organization; 2025. Licence: CC BY-NC-SA 3.0 IGO.](https://www.who.int/publications/i/item/9789240111110)
+
 {{%/sources%}}
 {{% modal title="Répulsifs pour la PPAV" id="modal-repulsifs" size="lg" %}}
 
