@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-03-21T15:18:28+01:00"
 publishdate = "2024-12-26"
-lastmod = "2024-12-26"
+lastmod = "2025-08-05"
 specialites = ["endocrinologie"]
 annees = "2020"
 sources = ["Society1", "Society2"]
@@ -237,6 +237,24 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     </script>
 
+## Dicom viewer {.mt-5}
+
+<github.com/ivmartel/dwv> and <https://ivmartel.github.io/dwv/demo/stable/viewer.html>
+
+<script type="importmap">
+  {
+    "imports": {
+      "dwv": "https://cdn.jsdelivr.net/npm/dwv@0.35.1/dist/dwv.min.js",
+      "konva": "https://cdn.jsdelivr.net/npm/konva@9.3/konva.min.js",
+      "jszip": "https://cdn.jsdelivr.net/npm/jszip@3.10/dist/jszip.min.js",
+      "magic-wand-tool": "https://cdn.jsdelivr.net/npm/magic-wand-tool@1.1.7/dist/magic-wand.min.js"
+    }
+  }
+</script>
+<script type="module" src="https://cdn.jsdelivr.net/npm/dwv-simplistic@0.10.0/dist/dwvsimplistic.min.js"></script>
+
+<dwv-simple showlegend loadfromwindowlocation></dwv-simple>
+
 ## Plan action asthme {.mt-5}
 
 <!--<div class="card card-body bg-primary-light shadow-none my-2 flex-row justify-content-between">
@@ -301,4 +319,4 @@ document.addEventListener('DOMContentLoaded', function() {
         }
       })
     }
-</script>-->
+</>-->
