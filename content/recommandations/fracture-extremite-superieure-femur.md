@@ -186,7 +186,7 @@ Suivi médical après fracture de hanche:
 - +65 ans: évaluation gériatrique standardisée
 - Ostéoporose
   - Ostéodensitométrie systématique  
-    Traitement par biphosphonate **zolédronate 5 mg IVL** annuel si T-score ≤ -1 (voir [ostéoporose]({{% relref "osteoporose.md" %}})), avis rhumatologique si T-score compris de 0 à -1 (*GRIO*).
+    Traitement par biphosphonate **[zolédronate 5 mg IVL]({{% relref "perfusions-domicile.md" %}})** annuel si T-score ≤ -1 (voir [ostéoporose]({{% relref "osteoporose.md" %}})), avis rhumatologique si T-score compris de 0 à -1 (*GRIO*).
   - Dosage de la vitamine D (cible > 75 nmol/L)
   - {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} (cible > 1 g/j) et souvent supplémenter à distance des repas
 
