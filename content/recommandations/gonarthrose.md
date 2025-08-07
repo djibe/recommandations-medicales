@@ -7,7 +7,7 @@ synonyms = ["Arthrose du genou"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-15T19:21:00+02:00"
 publishdate = "2021-01-17"
-lastmod = "2024-12-20"
+lastmod = "2025-08-06"
 specialites = ["rhumatologie"]
 annees = "2021"
 sources = ["SFRhumato", "AASM"]
@@ -34,8 +34,7 @@ flowchart = true
 
 Gonarthrose
 : Atteinte la plus fréquente de l'arthrose. Les 2 compartiments du genou peuvent être atteints: **fémoro-tibiale** (interne surtout, 1/2) et **fémoro-patellaire** (⅓).
-: L'évolution de la maladie se fait par poussées de gonalgie et est très variable.  
-Une synovite chronique est un facteur de mauvais pronostic.
+: L'évolution de la maladie se fait par poussées de gonalgie et demeure très variable. Une synovite chronique est un facteur de mauvais pronostic.
 
 Gonarthrose destructrice rapide
 : Destruction rapide du cartilage avec aggravation du pincement de 50% en un an. Rechercher une *[chondrocalcinose]({{% relref "rhumatisme-pyrophosphate-chondrocalcinose.md" %}})* associée.
@@ -44,20 +43,21 @@ Gonarthrose destructrice rapide
 
 Rechercher les éléments inducteurs de gonarthrose:
 
+- [Obésité]({{% relref "obesite-adulte.md" %}})  
+  Facteur de risque principal.
 - Fémoro-tibiale: troubles de la statique des membres inférieurs  
   [Genu varum]({{% relref "genu-varum-valgum.md" %}}) (surcharge fémoro-tibiale interne) et genu valgum (surcharge externe).
 - Fémoro-patellaire
   - Dysplasie fémoro-patellaire (subluxation externe de la rotule)
   - Chondromalacie rotulienne (fragilité localisée du cartilage rotulien)
   - Luxations de rotule
-- [Obésité]({{% relref "obesite-adulte.md" %}})
 - Maladies métaboliques
 - Vieillissement
 - Traumatismes articulaires répétés
 
 ### Épidémiologie de la gonarthrose
 
-En France, chez les 40-75 ans, l'arthrose du genou atteint de **2 à 10%** des femmes et 1,5 à 15% des hommes.
+En France, chez les 40-75 ans, l'arthrose du genou atteint 23% de la population. La coûts liés à la gonarthrose sont estimés à 3,5 milliards d'euros chaque année.
 
 ### Abréviations
 
@@ -190,11 +190,7 @@ Des imageries complémentaires sont inutiles en cas d'arthrose typique, sauf év
 > [!INFO]
 > Aucun traitement ne ralentit la perte du cartilage (chondroprotecteur). (*SFRhumato 2020*)
 
-### Traitements de la gonarthrose fémoro-tibiale
-
-Recommandations pour la prise en charge des douleurs de gonarthrose.
-
-Mesures générales de prise en charge de l'arthrose du genou:
+Recommandations pour la prise en charge des douleurs de gonarthrose et mesures générales de prise en charge de l'arthrose du genou:
 
 - **Antalgie**
   - Paracétamol 1 g x 3/j (sans efficacité au-delà)
@@ -207,10 +203,10 @@ Mesures générales de prise en charge de l'arthrose du genou:
     << L'efficacité paraît comparable à celle des AINS per os >>, << Rapport bénéfice-risque intéressant dans la population de patients avec une gonarthrose >>.
 - **Traitement fonctionnel**
   - Repos, canne
+  - Chaussures souples avec semelles amortissantes
   - **Activité physique régulière** des membres inférieurs (aquatique ou non). Renforcement musculaire, étirements et travail aérobie  
     Tai Chi, yoga, cyclisme, renforcement musculaire.
   - Kinésithérapie: rRenforcement du quadriceps, équilibre, agilité, coordination, auto-exercices
-  - Chaussures souples avec semelles amortissantes
   - Arthrose fémoro-tibiale: orthèse (genouillère) articulée de décharge unicompartimentale à visée antalgique
   - Adaptation du poste avec le Médecin du travail ou à défaut un Centre Régional de Pathologies Professionnelles et Environnementales
 - Correction d'un **surpoids**
@@ -305,6 +301,7 @@ graph TB
 {{< card-link-external title="Quand adresser un patient gonarthrosique au chirurgien ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/174175700" >}}
 
 - [Whittle SL, et al. Stem cell injections for osteoarthritis of the knee. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013342.pub2/full/fr)
+- [Pers YM, et al. Recommendations from the French Societies of Rheumatology and Physical Medicine and Rehabilitation on the non-pharmacological management of knee osteoarthritis. Ann Phys Rehabil Med. 2024.](https://www.sciencedirect.com/science/article/pii/S1877065724000678)
 - [Moseng T, et al. EULAR recommendations for the non-pharmacological core management of hip and knee osteoarthritis: 2023 update. Ann Rheum Dis. 2024.](https://ard.bmj.com/content/early/2024/01/11/ard-2023-225041.long)
 - [CNGE. Eviter la visco-supplémentation dans la gonarthrose. 05/09/2022. (PDF)](https://www.cnge.fr/wp-content/uploads/2023/09/220905_Avis_CS_CNGE_Supplementation_gonarthrose_vsite.pdf)
 - [American Academy of Orthopaedic Surgeons Management of Osteoarthritis of the Knee (Non-Arthroplasty) Evidence-Based Clinical Practice Guideline. 2021. (PDF)](https://www.aaos.org/oak3cpg)
@@ -315,7 +312,6 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Pers YM, et al. Recommendations from the French Societies of Rheumatology and Physical Medicine and Rehabilitation on the non-pharmacological management of knee osteoarthritis. Ann Phys Rehabil Med. 2024.](https://www.sciencedirect.com/science/article/pii/S1877065724000678)
 - [Duong V, et al. Evaluation and Treatment of Knee Pain: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811009)
 - [Hannon CP, et al. 2023 American College of Rheumatology and American Association of Hip and Knee Surgeons Clinical Practice Guideline for the Optimal Timing of Elective Hip or Knee Arthroplasty for Patients With Symptomatic Moderate-to-Severe Osteoarthritis or Advanced Symptomatic Osteonecrosis With Secondary Arthritis for Whom Nonoperative Therapy Is Ineffective. Arthritis Care Res (Hoboken). 2023.](https://rheumatology.org/indications-for-total-hip-and-knee-arthroplasty-guideline)
 
