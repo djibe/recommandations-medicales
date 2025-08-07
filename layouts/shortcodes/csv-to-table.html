@@ -1,8 +1,8 @@
 <!-- CSV to Table djibe Hugo shortcode
-  CSV must use ; separator to preserve sentences where , can occur
+  CSV must use semi-colon (;) separator to preserve sentences where commas (,) can occur.
   Support arguments: id, class, title.
-  If no id provided: datatable-csv class is added for automatic initialization
-  Tech: table caption, table headers (th with scope attribute), schema.org
+  If no id provided: datatable-csv class is added for automatic initialization.
+  Compatibility: CSV newlines, table caption, table headers (th with scope attribute), schema.org.
 -->
 {{ $id := "" }}
 {{ $title := .Get "title" }}
@@ -24,7 +24,7 @@
 <thead>
 <tr>
 {{ range index . 0 }}
-<th scope="col">{{ . }}</th>
+<th scope="col">{{ replace . "\n" "<br>" | safeHTML }}</th>
 {{ end }}
 </tr>
 </thead>
@@ -32,10 +32,10 @@
 {{ range after 1 . }}
 <tr>
 {{ range first 1 . }}
-<th scope="row">{{ . }}</th>
+<th scope="row">{{ replace . "\n" "<br>" | safeHTML }}</th>
 {{ end }}
 {{ range after 1 . }}
-<td>{{ .  | safeHTML }}</td>
+<td>{{ replace . "\n" "<br>" | safeHTML }}</td>
 {{ end }}
 </tr>
 {{ end }}
