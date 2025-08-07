@@ -298,6 +298,7 @@ Patient avec valve mécanique, anticoagulé par AVK ou enfant traité par AVK ay
 
 ### Bibliographie en attente
 
-[Rahman AA, et al. Concomitant Use of Selective Serotonin Reuptake Inhibitors With Oral Anticoagulants and Risk of Major Bleeding. JAMA Netw Open. 2024.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2816687)
+- [Rahman AA, et al. Concomitant Use of Selective Serotonin Reuptake Inhibitors With Oral Anticoagulants and Risk of Major Bleeding. JAMA Netw Open. 2024.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2816687)
+- [Omedit Normandie. Guide de bon usage des anticoagulants. 2022. (PDF)](https://www.omedit-normandie.fr/media-files/34151/guide-anticoagulant-regional-20220926.pdf)
 
 {{%/sources%}}

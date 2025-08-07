@@ -318,6 +318,10 @@ graph TB
 - [Assurance Maladie. Plaies chroniques. Prise en charge en ville. (PDF)](https://www.ameli.fr/sites/default/files/Documents/5122/document/plaies-chroniques-prise-en-charge_assurance-maladie.pdf)
 - [Euro-pharmat. Fiches de bon usage Pansements.](https://www.euro-pharmat.com/pansements)
 
+### Bibliographie en attente
+
+[Nou Howaldt M, et al; Wound and Healing Group of the French Society of Vascular Medicine. Diagnostic assessment for venous leg ulcers: Recommendations from the Wounds and Healing working group of the French Society of Vascular Medicine. Vasc Dis (Paris). 2025.](https://www.sciencedirect.com/science/article/pii/S305065812500189X)
+
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
 

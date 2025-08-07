@@ -187,16 +187,16 @@ graph TB
 
 - [ACOG. Management of Endometrial Intraepithelial Neoplasia or Atypical Endometrial Hyperplasia. 2023.](https://www.acog.org/clinical/clinical-guidance/clinical-consensus/articles/2023/09/management-of-endometrial-intraepithelial-neoplasia-or-atypical-endometrial-hyperplasia)
 - {{< references/beh-cancers-incidence >}}
-- [Colombo N et al. ESMO-ESGO-ESTRO Consensus Conference on Endometrial Cancer: diagnosis, treatment and follow-up. Annals of Oncology. 2016.](https://www.annalsofoncology.org/article/S0923-7534(19)35337-2/fulltext)
+- [Colombo N, et al. ESMO-ESGO-ESTRO Consensus Conference on Endometrial Cancer: diagnosis, treatment and follow-up. Annals of Oncology. 2016.](https://www.annalsofoncology.org/article/S0923-7534(19)35337-2/fulltext)
 - [ACOG. Tamoxifen and Uterine Cancer. 2014. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/06/tamoxifen-and-uterine-cancer)
 - [ACOG. The Role of Transvaginal Ultrasonography in Evaluating the Endometrium of Women With Postmenopausal Bleeding. 2018. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/05/the-role-of-transvaginal-ultrasonography-in-evaluating-the-endometrium-of-women-with-postmenopausal-bleeding)
-- [Jéhannin-Ligier K et al. Projection de l'incidence et de la mortalité par cancer en France métropolitaine en 2017. Rapport technique. Santé publique France. 2017.](https://www.santepubliquefrance.fr/docs/projection-de-l-incidence-et-de-la-mortalite-par-cancer-en-france-metropolitaine-en-2017)
+- [Jéhannin-Ligier K, et al. Projection de l'incidence et de la mortalité par cancer en France métropolitaine en 2017. Rapport technique. Santé publique France. 2017.](https://www.santepubliquefrance.fr/docs/projection-de-l-incidence-et-de-la-mortalite-par-cancer-en-france-metropolitaine-en-2017)
 - [HAS. Cancer de l'endomètre. Actes et prestations Affection de longue durée. 2016.](https://www.has-sante.fr/jcms/c_1021574/fr/ald-n-30-cancer-de-l-endometre)
 - [HAS, INCa. Cancer de l'endomètre. Guide affection longue durée. 2010.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-gynecologiques)
 
 ### Bibliographie en attente
 
-- [ACOG. Endometrial Cancer. 2015. (payant)](https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2015/04/endometrial-cancer)
+- [Concin N, et al. ESGO-ESTRO-ESP guidelines for the management of patients with endometrial carcinoma: update 2025. Lancet Oncol. 2025.](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00167-6/abstract) (payant)
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}

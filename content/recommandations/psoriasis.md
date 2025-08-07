@@ -220,7 +220,7 @@ Irritation locale possible (visage et plis surtout).
 
 L'acide salicylique est utile en courte durée pour son action kératolytique. Ne pas dépasser une concentration de 10% (20% si médecin spécialisé) pour décaper la couche squameuse.
 
-Spécialités: Coricide le diable® 11g/100g, préparation magistrale (ex: acide salicylique 10 g + huile de cade 10 g + Cold cream sqp 200 g).
+**Spécialités:** Coricide le diable® 11g/100g, préparation magistrale (ex: acide salicylique 10 g + huile de cade 10 g + Cold cream sqp 200 g).
 
 Association dermocorticoïde fort + acide salicylique: [Diprosalic® pommade](https://bdpm.ansm.sante.fr/medicament/66707065/extrait#tab-rcp) (ou lotion).
 

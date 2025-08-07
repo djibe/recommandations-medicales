@@ -123,7 +123,7 @@ Les signes cliniques sont modérés chez les caucasiennes.
   - Surpoids ou obésité
   - Prédiabète et [diabète type 2]({{% relref "diabete-type-2.md" %}})
   - Rechercher des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}
-  - Evaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ± {{< scores/heartscore >}}
+  - Évaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ± {{< scores/heartscore >}}
 - Retentissement psychologique
   - Image du corps
   - Dépister anxiété et dépression: {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
