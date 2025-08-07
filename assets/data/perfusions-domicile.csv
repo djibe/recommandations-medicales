@@ -1,0 +1,472 @@
+"DCI";"Prescription et
+délivrance";"Reconstitution";"Posologie";"Voie";"Dilution";"Mode préconisé";"Alternative";"Orientation vers SAE";"Commentaire";"Autres voies d'admin.";"Sources"
+"Amikacine";"Prescription Hospitalière
+Disponible en ville";"EPPI
+1g dans 5mL
+500 mg dans 4mL
+250 mg dans 2mL
+Ou prêt à l'emploi";"25 à 30 mg/kg en perfusion de 30 min en dose unique journalière";"IV";"NaCl 0,9%
+Cmax 10 mg/mL";"Gravité 30 min";;"non";"Index thérapeutique étroit
+Efficacité concentration dépendante
+Surveillance : Dosage pic plasmatique si besoin et concentrations résiduelles si durée > 5 jours ou IR";"Voie IM possible
+La voie intramusculaire est à éviter dans la mesure du possible, mais peut être pratiquée à titre exceptionnel en tenant compte que cette voie n'offre pas les mêmes garanties que la voie intraveineuse.";"RCP
+DISPO
+POSO
+AN1"
+"Amoxicilline";"Disponible en ville";"EPPI
+1g dans 20 mL
+2g dans 40 mL";"Posologie standard :
+50 à 100 mg/kg/j toutes les 6 à 8 h
+
+Forte posologie :
+Administration discontinue :
+100 à 200 mg/kg/j toutes les 4h en perfusion de 30 min
+
+Administration continue :
+100 à 200 mg/kg/j après une dose de charge de 2g sur 1 heure
+
+NE PAS DEPASSER 12 g/j";"IV";"Gravité : NaCl 0,9% 100 mL (Cmax 20 mg/mL)
+Diffuseur : NaCl 0,9%, volume à adapter (Cmax 12,5 mg/mL)";"Administration discontinue : Gravité 30 min
+Perfusion continue : Diffuseur sur 12h (respecter la Cmax)";;;"Hyperhydratation si > 2 g par perfusion pour diminuer le risque de cristallurie";"Voies IM et IVD lente ";"RCP
+DISPO
+POSO
+AMX1
+AMX2"
+"Amoxicilline / acide clavulanique";"Disponible en ville";"EPPI
+1g dans 20 mL
+2g dans 20 mL";"Posologie standard :
+1g/0,2g toutes les 8 à 6h en perfusion de 30 min
+
+Forte posologie :
+2g/0,2g toutes les 8h en perfusion de 30 min";"IV";"NaCl 0,9% 100 mL
+Cmax 20 mg/mL";"Gravité 30 min";;"non";"Stabilité altérée avec le G5%
+Durée max de perfusion : 60 min
+Ne pas dépasser 1200 mg/j d'acide clavulanique/j (attention : présentation à 1 g/200 mg et 2 g/200 mg)";"Voie IVD lente ";"RCP
+DISPO
+POSO
+IDNow"
+"Amphotéricine B (Fungizone)";"Prescription Hospitalière
+Rétrocédable ";"EPPI
+50 mg dans 10 mL";"Dose-test initiale de 1 mg puis 0,3 mg/kg 1 fois par jour
+La dose peut éventuellement être augmentée en fonction de la situation clinique du patient.";"IV";"Glucose 5%
+INCOMPATIBLE NaCl
+Dose test : 1 mg dans 20 mL de G5%
+Perfusion : Cmax 0,1mg/mL";"Dose test : IV lente (20-30 minutes)
+Pompe administration en 2 à 6h";"Gravité 2 à 6 heures
+si envisageable";"instabilité en diffuseur";"Ce médicament ne doit pas être administré par une ligne intraveineuse ayant contenu du chlorure de sodium à 0,9 % sauf si cette ligne a d'abord été rincée avec une solution injectable de glucose
+Compte-tenu des risques allergiques, une dose-test initiale (1 mg dans 20 mL de soluté glucose à 5 %) peut être administrée par voie intraveineuse pendant 20 à 30 minutes. La température, le pouls, la respiration et la pression artérielle seront enregistrés toutes les 30 minutes pendant 2 à 3 heures.
+Une filtration membranaire ""in-line"" peut être utilisée pour la perfusion; cependant, le diamètre moyen du pore de la membrane filtrante ne devra pas être inférieur à 1 ém afin de permettre le passage de la dispersion colloédale";;"RCP
+DISPO
+AMB1
+AMB2
+AMB3"
+"Amphotéricine B liposomale (Ambisome)";"Prescription Hospitalière
+Rétrocédable ";"EPPI
+50 mg dans 12mL
+Agiter vigoureusement le flacon pendant au moins 30 secondes jusqu'à dispersion complète";"3 mg/kg 1 fois par jour
+La dose peut éventuellement être augmentée en fonction de la situation clinique du patient.";"IV";"Glucose 5%
+INCOMPATIBLE NaCl
+Concentration comprise entre 0,20 mg/mL à 2 mg/mL d'amphotéricine
+Utiliser le filtre de 5 microns fourni pour injecter la suspension d'Ambisome reconstituée dans la poche de G5%";"Gravité 30-60 min (prolonger la durée si perfusion mal tolérée)";"Pompe (si perfusion de 2 à 4 heures en cas de posologie supérieure à 3mg/kg/j)";"instabilité en diffuseur";"Ce médicament ne doit pas être administré par une ligne intraveineuse ayant contenu du chlorure de sodium à 0,9 % sauf si cette ligne a d'abord été rincée avec une solution injectable de glucose
+Une membrane filtrante sur le trajet du cathéter peut être utilisée lors de la perfusion intraveineuse de ce médicament. Cependant, le diamètre moyen des pores du filtre ne devra pas être inférieur à 1,0 micron.
+Absence de données de stabilité en diffuseur";;"RCP
+DISPO
+Stabilis
+AMB1"
+"Aztréonam";"Prescription Hospitalière
+Disponible en ville";"EPPI
+1g dans 3 mL si perfusion
+1g dans 10 mL si IVD";"Posologie standard :
+Administration discontinue
+1g toutes les 8h en perfusion de 30 min
+
+Administration continue
+2g par jour après dose de charge de 2g en perfusion de 30 min
+
+Forte posologie :
+Administration discontinue
+2g toutes les 6h en perfusion de 30 min
+
+Administration continue :
+≥ 6g/j après une dose de charge de 2g en perfusion de 30 min";"IV";"Gravité : NaCl 0,9% 100mL (Cmax 125mg/mL)
+Diffuseur : NaCl 0,9% (Cmax 50 mg/mL)";"Perfusion continue : Diffuseur sur 24h (respecter Cmax)
+Administration discontinue : Gravité 30 min";;"non";"Ne doit pas être mélangé avec d'autres médicaments ou antibiotiques";"Voies IM et IVD lente ";"RCP
+DISPO
+POSO
+STAB"
+"Caspofungine";"Prescription Hospitalière
+Rétrocédable ";"EPPI
+50 mg dans 10,5 mL
+70 mg dans 10,5 mL";"J1 : 70 mg 1/j
+A partir de J2 : 50 mg 1/j (sauf si poids >80kg : 70 mg 1/j)";"IV";"50 mg : NaCl 0.9% 100 mL
+70 mg : NaCl 0.9% 250 mL
+(Ne pas utiliser des solutions contenant du glucose)
+Cmax 0,5 mg/mL";"Gravité 60 min";"En cas de mobilité du patient :
+50 mg : Diffuseur vol mini 100 mL 60 min
+70 mg : Diffuseur vol mini 250 mL 60 min";"non";"Solution concentrée reconstituée : peut être conservé jusqu'à 24 heures à une température ne dépassant pas 25°C.
+Ne doit pas être mélangé avec d'autres médicaments.
+A partir de J2 : 70 mg 1/j si association avec un inducteur enzymatique";;"RCP
+DISPO
+Stabilis"
+"Céfépime (hors infection à Pseudomonas spp)";"Prescription Hospitalière
+Disponible en ville";"EPPI
+1g dans 10 mL
+2g dans 10 mL";"Posologie standard:
+1g toutes les 8h en perfusion de 30 min
+
+Forte posologie :
+Administration discontinue :
+2g toutes les 8h en perfusion de 30 min
+
+Administration continue :
+≥ 4g/j après dose de charge de 2g en perfusion de 30 min";"IV";"Gravité : NaCl 0,9% 100 mL (Cmax 125mg/mL)
+Diffuseur : NaCl 0,9% (Cmax 12,5 mg/mL)";"Perfusion continue : Diffuseur sur 12h (respecter la Cmax)
+Administration discontinue : Gravité 30 min";;;"Peut prendre une coloration jaune ambrée sans perte d'activité.
+Ne doit pas être mélangé avec d'autres médicaments";"Possibilité d'administration du 1g en IM profonde
+Voie IVD lente";"RCP
+DISPO
+POSO
+IDNow"
+"Céfépime (infection à Pseudomonas spp)";"Prescription Hospitalière
+Disponible en ville";"EPPI
+1g dans 10 mL
+2g dans 10 mL";"Forte posologie :
+Administration discontinue :
+2g toutes les 6h en perfusion de 30 min
+
+Administration continue :
+≥ 6g/j après dose de charge de 2g en perfusion de 30 min";"IV";"Gravité : NaCl 0,9% 100 mL (Cmax 125mg/mL)
+Diffuseur : NaCl 0,9% (Cmax 12,5 mg/mL)";"Perfusion continue : Diffuseur sur 12h (respecter la Cmax)
+Administration discontinue : Gravité 30 min";;;"Peut prendre une coloration jaune ambrée sans perte d'activité. Ne doit pas être mélangé avec d'autres médicaments";"Possibilité d'administration du 1g en IM profonde
+Voie IVD lente";"RCP
+DISPO
+POSO
+IDNow"
+"Céfoxitine";"Prescription Hospitalière
+Rétrocédable ";"EPPI
+1g dans 10 mL
+2g dans 10 mL";"Administration continue :
+≥ 8 g/jour après dose de charge de 2 g sur 30 min";"IV";"NaCl 0,9%
+Cmax 12,5 mg/mL";"Perfusion continue : Diffuseur sur 12h (respecter la Cmax)";;;;"Voie IVD lente";"RCP
+DISPO
+POSO
+FOX1"
+"Ceftazidime";"Prescription Hospitalière
+Disponible en ville";"EPPI
+1g dans 10mL
+2g dans 10mL
+(Facteur de déplacement
+Dégagement gazeux)";"Posologie standard :
+Administration discontinue :
+1g toutes les 8h en perfusion de 30 min
+
+Administration continue :
+2g par jour après dose de charge de 2g en perfusion de 30 min
+
+Forte posologie :
+Administration discontinue :
+2g toutes les 8h en perfusion de 30 min
+
+Administration continue :
+≥ 4g/j après dose de charge de 2g en perfusion de 30 min";"IV";"Gravité : NaCl 0,9% 100 mL (Cmax 125 mg/mL)
+Diffuseur : NaCl 0,9%, volume à adapter (Cmax 25 mg/mL)";"Perfusion continue : Diffuseur sur 12h (respecter Cmax)
+Administration discontinue : Gravité 30 min";;"non";;"Voie IVD lente
+L'administration intramusculaire doit uniquement être envisagée lorsque la voie intraveineuse n'est pas possible ou est moins appropriée pour le patient.";"RCP
+DISPO
+POSO
+IDNow"
+"Ceftriaxone";"Disponible en ville";"EPPI
+1g dans 10 mL
+2g dans 20 mL ";"Posologie standard :
+1 à 2g toutes les 24h
+
+Forte posologie :
+2g toutes les 12h";"IV";"NaCl 0,9% 100 mL
+Cmax 40 mg/mL";"Gravité 30 min";;"non";"Il est recommandé de perfuser la Ceftriaxone à distance et sur une voie séparée du calcium";"Voies IM et IVD lente possibles en l'absence d'autres alternatives
+Voie SC non conforme (ANSM 23/10/2019)
+Néanmoins dans certaines situations, le clinicien peut juger indispensable l'administration de la ceftriaxone par voie sous-cutanée au regard du rapport bénéfice/risque pour son patient et sous réserve d'en informer ce dernier ou sa famille. (ANSM Novembre 2019)";"RCP
+DISPO
+POSO
+CTX1
+ANSM (courrier 23/10/2019)"
+"Ertapénéme";"Prescription Hospitalière
+Rétrocédable ";"EPPI
+1g dans 10 mL";"1g toutes les 24h en perfusion de 30 min
+(Pour les souches dont la CMI est égale à 0,5 mg/L, une posologie journalière de 1 g à 2 peut se discuter)";"IV";"NaCl 0.9% 100 mL
+Cmax 20 mg/mL";"Gravité 30 min";;"non";;;"RCP
+DISPO
+POSO
+IDNow"
+"Gentamicine";"Disponible en ville";"Ampoule prête à l'emploi";"6 à 7 mg/kg/jour en perfusion de 30 min en dose unique journalière";"IV";"NaCl 0.9%
+Cmax 10 mg/mL";"Gravité 30 min";;"non";"Ne doit pas être mélangé avec d'autres médicaments.
+Surveillance : Dosage pic plasmatique si besoin et concentrations résiduelles si durée > 5 jours ou IR ";"Voie IM ";"RCP
+DISPO
+POSO
+AN1"
+"Imipénéme + cilastine";"Prescription Hospitalière
+Disponible en ville";"NaCl 0,9%
+Modalités : Ajouter environ 10 mL de la solution pour perfusion appropriée dans le flacon. Répéter la procédure avec 10 mL supplémentaires et transférer dans la solution pour perfusion. Agiter.";"Posologie standard :
+0,5g toutes les 6h
+1g toutes les 8h
+
+Forte posologie :
+1g toutes les 6h";"IV";"NaCl 0,9% 100 mL
+Cmax 5 mg/mL";"Dose ≤ 500 mg : Gravité 20-30 min
+Dose > 500 mg : Gravité 40-60 min";;"non";"La solution reconstituée ne doit pas être utilisée directement pour la perfusion
+La perfusion continue n'est pas recommandée (problème de stabilité)
+La vitesse de perfusion peut être ralentie en cas de nausées pendant la perfusion ou de posologies élevées";;"RCP
+DISPO
+POSO
+IDNow"
+"Méropénéme";"Prescription Hospitalière
+Disponible en ville";"EPPI
+Volume de solvant selon la dose :
+- 500 mg : 10 mL
+- 1 g : 20 mL
+- 2 g : 40 mL";"Posologie standard :
+1g toutes les 8h en perfusion de 30 min
+
+Forte posologie :
+2g toutes les 8h en perfusion de 3h à 8h";"IV";"Gravité : NaCl 0,9%
+- 1 g : 100 mL
+- 2 g : 250 mL
+Cmax 20 mg/mL
+
+PSE : NaCl 0,9% (Cmax 41,7 mg/mL soit 2 g dans 48 mL)";"1g x 3/j : Gravité 30 min
+2g x 3/j : PSE sur 3h à 8h";;"objectifs d'efficacité PK/PD";"La posologie de 2 g toutes les 8 h en perfusions de 30 min ne permet pas d'atteindre les objectifs d'efficacité PK/PD pour les souches catégorisées à SFP é";"Voie IVD lente";"RCP
+DISPO
+Stabilis
+POSO
+IDNow"
+"Oxacilline";"Disponible en ville";"EPPI :
+1 g : 5 mL";"Administration discontinue :
+100 à 200 mg/kg/jour toutes les 4h en perfusion de 30 à 60 min
+
+Administration continue :
+100 à 200 mg/kg/jour après dose de charge de 2 g sur 60 min";"IV";"Gravité : NaCl 0,9% 100mL (Cmax 100 mg/mL)
+Diffuseur : NaCl 0,9% (Cmax 50 mg/mL)";"Perfusion continue : Diffuseur sur 8h (respecter la Cmax)";"Administration discontinue :
+Gravité 30 à 60 min";"non";;"Voie IVD lente";"RCP
+DISPO
+POSO
+OXA"
+"Pipéracilline-tazobactam";"Prescription Hospitalière
+Disponible en ville";"EPPI
+2g: 10 mL
+4g: 20 mL";"Posologie standard :
+Administration discontinue :
+4g/0,5g toutes les 6h en perfusion de 30 min
+
+Administration continue :
+8 g/jour après dose de charge de [4 g pipéracilline + 0,5 g tazobactam] en perfusion de 30 min
+
+Forte posologie :
+Administration continue :
+≥ 12 g/jour après dose de charge de [4 g pipéracilline + 0,5 g tazobactam] en perfusion de 30 min";"IV";"Gravité NaCl 0,9% 100 mL (Cmax 125mg/mL)
+Diffuseur : G5% (Cmax 66,7 mg/mL)";"Administration discontinue : Gravité 30 min
+Perfusion continue : Diffuseur sur 24h (respecter la Cmax)";;"non";;;"RCP
+DISPO
+POSO
+STAB"
+"Teicoplanine ";"Prescription Hospitalière
+Rétrocédable ";"EPPI
+100 mg dans 1,7 mL
+200 et 400 mg dans 3,14 mL";"Dose de charge : 12mg/kg toutes les 12h en 3 à 5 injections
+Dose d'entretien : 12mg/kg/j, toutes les 24h";"IV";"NaCl 0,9% 100mL (Cmax 40 mg/mL)";"Gravité 30 min";;"non";"Stable 24h à 25°C
+Agiter doucement pour éviter la formation de mousse.
+Si apparition de mousse lors de la reconstitution, laisser reposer jusqu'é disparition
+Surveillance : dosage des taux résiduels, plaquettes en cas de thrombopénie préexistante ou de traitement prolongé";"Voies IM et IVD lente ";"RCP
+DISPO
+POSO
+HUG
+IDNow"
+"Témocilline";"Prescription Hospitalière
+Rétrocédable";"EPPI
+1g dans 10 mL
+2 g dans 20 mL";"Administration discontinue :
+2g toutes les 8h en perfusion de 30 min
+
+Administration continue :
+≥ 6 g/jour après dose de charge de 2 g en perfusion de 30 min";"IV";"Gravité : NaCl 0,9% 100 mL (Cmax 125mg/mL)
+Diffuseur : NaCl 0,9% (Cmax 25 mg/mL)";"Perfusion continue : Diffuseur sur 24 h (respecter Cmax)
+Administration discontinue : Gravité 30 min";;"non";"Le produit doit toujours être utilisé immédiatement après la reconstitution et la dilution.
+La posologie de 2 g toutes les 12 h en perfusions de 30 min a été utilisée avec succès dans des études rétrospectives portant sur des infections urinaires.";"Voies IM et IVD lente ";"RCP
+DISPO
+POSO
+STAB"
+"Tobramycine";"Disponible en ville";"Ampoule prête à l'emploi";"6 à 7 mg/kg/j en perfusion de 30 min en dose unique journalière";"IV";"NaCl 0.9% 100mL";"Gravité 30 min";;"non";"Ne doit pas être mélangé avec d'autres médicaments
+utilisation immédiate après reconstitution
+Surveillance : Dosage pic plasmatique si besoin et concentrations résiduelles si durée > 5 jours ou IR ";;"RCP
+DISPO
+POSO
+AN1"
+"Vancomycine";"Prescription Hospitalière
+Rétrocédable ";"EPPI
+500 mg dans 10 mL
+1g dans 20 mL";"Administration discontinue :
+Dose de charge : 20 à 30 mg/kg en 1h à 2h
+Dose d'entretien : 20 à 40 mg/kg/j en perfusion de 1h, toutes les 12h à 6h
+
+Administration continue
+Dose de charge : 20 à 30 mg/kg en 1h à 2h
+Dose d'entretien : 20 à 40 mg/kg/j";"IV";"NE PAS ADMINISTRER SANS DILUTION
+NaCl 0,9%
+VVP avec gravité : Cmax 5 mg/mL jusqu'é 10 mg/mL si restriction hydrique
+VVC avec diffuseur : Cmax 37,5 mg/mL pour une stabilité jusqu'é 37°C sur 24h";"Perfusion continue sur voie veineuse centrale : Diffuseur sur 24h (respecter Cmax)";"Administration discontinue sur voie veineuse périphérique : Gravité 60 min";"non";"Pas de perfusion continue sur voie veineuse périphérique à domicile
+Ne pas mélanger avec d'autres médicaments.
+Ne pas administrer sans dilution.
+Surveillance : dosage des taux résiduels, dosage de la créatinine sérique, NFS
+Pas d'IVD, pas d'IM";;"RCP
+DISPO
+POSO
+STAB
+IDNow"
+"Immunoglobulines Polyvalentes IV ";"Prescription Hospitalière
+Rétrocédable ";"EPPI ou prêtes à l'emploi
+--> Consulter les fiches dédiées ";" --> Consulter les fiches dédiées (Gammagard, Tegeline, Privigen, Octagam, ...)";"IV";"Si besoin diluer dans solution de Glucose 5% si concentration souhaitée à 50 mg/mL (5 %)";"Pompe";;"nécessité précision du débit ? 95% sécurisée";"Lors de la première injection le débit doit être lent. Il pourra être augmenté par la suite selon la tolérance du patient et les RCP des différentes immunoglobulines
+ --> Consulter les fiches dédiées
+La solution doit être contrôlée et sans particule
+Le produit doit être amené à température ambiante (25°C) avant l'utilisation";;"RCP
+IgIV1
+IgIV2
+IgIV3"
+"Immunoglobulines Polyvalentes SC";"Prescription Hospitalière
+Rétrocédable ";" prêtes à l'emploi";" --> Consulter les fiches dédiées (Gammanorm, Hizentra, ...)";"SC";;"Pompe ou PSE";;"nécessité précision du débit ? 95% sécurisée";"Lors de la première injection le débit doit être lent. Il pourra être augmenté par la suite selon la tolérance du patient et les RCP des différentes immunoglobulines
+ --> Consulter les fiches dédiées
+Le médicament doit être amené à température ambiante ou du corps avant utilisation.
+";"Pour GAMMANORM : IM possible";"RCP
+IgSC1
+IgSC2"
+"Apomorphine";"Disponible en ville";"Ampoule prête à l'emploi";"Perfusion initiale à 1mg/h puis
+Perfusion d'entretien selon la réponse individuelle de 1 mg/h à 7 mg/h (4mg/h avec DOPACEPTIN)
+Augmentation par paliers de 0,5 mg/heure maxi avec des intervalles d'au moins 4 heures
+Recommandation : ne pas dépasser une dose totale d'apomorphine de 100 mg/j";"Perfusion continue SC à bolus intermittents";"Pas de modalités de dilution";"Pompe ou PSE";;"nécessité précision du débit ? 95% sécurisée";"Perfusion continue durant les périodes d'éveil,
+Respecter une période nocturne sans traitement d'au moins 4 heures
+24h/24h déconseillé (sauf cas particuliers)
+
+Changer de site de perfusion toutes les 12 heures
+Ne pas utiliser la voie IV";;"RCP"
+"Midazolam";"Assimilé stupéfiant : ordonnance sécurisée, de 28 jours maximum avec délivrance fractionnée de 7j sauf mention expresse du prescripteur à délivrance en une seule fois é
+Disponible en ville dans les 2 indications de sédation ";"Ampoule prête à l'emploi";"Sédation vigile
+Sédation en soins palliatifs chez l'adulte (proportionnée ou profonde et continue)";"IV";;"Administration en bolus :
+IVD lente
+Administration en continu :
+PSE";;"nécessité précision du débit ? 95% sécurisée";;"Administrations IM, SC et rectale possibles";"RCP
+MI1"
+"Morphine";"Disponible en ville
+Stupéfiant ";"Utiliser des ampoules de méme concentration.
+prêt à l'emploi, concentrations disponibles : 1 ; 10 ; 20 ; 100 mg/mL";"Selon protocole (bolus + perfusion continue)
+Bolus IV : 1 à 3 mg espacés de 4 à 6 heures.
+Relais en perfusion SC continue (0,5 mg/kg/jour) ou IV continue (0,3 mg/kg/jour)
+Pas de dose maxi tant que les effets secondaires sont contrôlés";"Perfusion continue (PCA) IV ou SC";"Ne pas diluer si possible, sinon NaCl 0,9%
+Concentration qui doit être compatible avec le débit minimal ou la dose minimale du bolus demandé";"Pompe PCA ";;"nécessité précision du débit ? 95% sécurisée";"Le raccordement de la tubulure PCA doit être placé au plus prés possible du point d'injection.
+Toute connexion supplémentaire doit être montée en amont d'une valve anti-retour et placée en Y de la ligne de perfusion PCA
+Le débit continu en mg/j (débit de perfusion) doit être arrondi, XY mg/24h en nombre entier multiple de 12 en fonction de la durée de la prescription (pour éviter les calculs)
+L'utilisation d'un pousse seringue électrique (PSE) à la place d'une pompe PCA n'est pas recommandée à domicile (système non sécurisé)";;"RCP
+MO1
+MO2
+MO3
+MO4"
+"Néfopam";"Prescription non renouvelable
+Disponible en ville";"Ampoule prête à l'emploi";"20 mg toutes les 4h (max 120 mg/j)";"IV";"Gravité : NaCl 0,9% 100 mL
+Diffuseur : NaCl 0,9% (Cmax 3,33 mg/mL)";"Gravité 15 à 30 min";"Diffuseur sur 24h (respecter Cmax)";"non";;"Autres voies : IM profonde toutes les 6h, voie orale (comprimé), voie sublinguale (hors AMM)";"RCP
+Theriaque
+Stabilis
+NEF1"
+"Oxycodone";"Rétrocédable uniquement dans le cadre des douleurs chroniques et soins palliatifs ";"Utiliser des ampoules de méme concentration.
+
+prêt à l'emploi, concentrations disponibles : 1 ; 10 ; 50 mg/mL";"Selon protocole (bolus + perfusion continue)
+Bolus :
+- IV de 1 à 10 mg
+- SC 5mg
+Perfusion, dosage initial :
+IV et SC : 0,125mg/kg/jour
+Doses patient dépendant";"IV
+SC";"Ne pas diluer si possible, sinon NaCl 0,9%
+Concentration qui doit être compatible avec le débit minimal ou la dose minimale du bolus demandé";"Pompe PCA";;"nécessité précision du débit ? 95% sécurisée";"Le raccordement de la tubulure PCA doit être placé au plus prés possible du point d'injection.
+Toute connexion supplémentaire doit être montée en amont d'une valve anti-retour et placée en Y de la ligne de perfusion PCA
+Poches prêtes à l'emploi 100 mL avec 2 concentrations différentes (1mg/mL et 10 mg/mL)
+L'utilisation d'un pousse seringue électrique (PSE) à la place d'une pompe PCA n'est pas recommandée à domicile (système non sécurisé)
+
+Concentration préférentielle pour perfusion :
+1mg/ml pour IV,
+10 mg/mL pour SC";;"RCP
+OXY1
+MO4"
+"Ropivacaïne";"Prescription Hospitalière
+Rétrocédable";"Poche prête à l'emploi concentration 2mg/mL";"10-20 mg/h en continu";"Périnerveux";"Pas de dilution";"Pompe PCA ou Diffuseur";;"nécessité précision du débit ? 95% sécurisée";"Bloc périphérique nerveux (analgésie post-opératoire)
+L'analgésie post-opératoire par cathéter péri-nerveux en ambulatoire nécessite une surveillance à domicile pendant la période du cathéterisme périnerveux (48 à 72 heures) : surveillance infirmière quotidienne et présence d'un proche au domicile en fin de journée ou à défaut surveillance biquotidienne de l'infirmier(e).";"Dans le cadre des soins palliatifs à domicile (hors AMM) la Ropivacaéne peut être injectée par voie périmédullaire";"RCP
+ROP1
+ROP2"
+"5 FU";"Prescription Hospitalière
+Rétrocédable";"La préparation doit être réalisée en PUI, se référer aux protocoles locaux";"Selon protocole de l'établissement autorisé en cancérologie";"IV";"La préparation doit être réalisée en PUI, se référer aux protocoles locaux";"Diffuseur
+";;;"Ne doit pas être mélangé avec d'autres médicaments.
+Incompatibilité avec le levofolinate de calcium et les solutions de morphine";;"RCP
+Stabilis
+BPPH
+5FU1
+5FU2"
+"Chlorure de sodium";"Disponible en ville";"prêt à l'emploi";"La posologie usuelle doit être adaptée aux besoins du patient en fonction de l'état clinique, du poids et des résultats des examens ioniques sanguins et urinaires";"IV
+SC (à privilégier en gériatrie, en soins palliatifs et pour les patients au capital veineux altéré)";;"IV : Gravité
+SC : Gravité
+1500mL à 2000mL /24h/site injection
+ou
+1000mL/8h la nuit
+ou
+500mL/2h";;"non";"La posologie, le débit et la durée d'administration doivent être déterminés en fonction de plusieurs facteurs comprenant l'âge, le poids, l'état clinique, les pathologies cardiaques, le traitement concomitant et en particulier l'état d'hydratation du patient, des besoins en ions sodium et chlorure, la réponse clinique et biologique au traitement";"Voie IM ";"RCP
+NaCl1
+NaCl2 "
+"Héparine sodique";"Disponible en ville";"Ampoule et flacon prêts à emploi";"En traitement curatif en prévention des accidents thromboemboliques en cas de cardiopathie emboligène:
+- Hors coagulopathie :
+1/ bolus : 50UI/kg
+2/ dose initiale 20UI/kg/heure puis à adapter
+- Coagulopathie : dose inférieure (risque hémorragique)";"IV";"En fonction des protocoles
+
+La dose journalière doit être répartie dans au moins 2 seringues par jour";"Administration en bolus :
+IVD lente
+Posologie initiale et entretien :
+PSE";;"non";"Ne doit pas être mélangé avec d'autres médicaments
+Conservation à température ambiante,
+après ouverture le produit doit être utilisé immédiatement
+Surveillance biologique quotidienne ( TCA ou activité anti-Xa), plaquettes
+Relais par anticoagulants oraux chaque fois que cela est possible
+Ne pas injecter par voie IM";;"RCP"
+"Hydrate de carbone (soluté glucosé) polyionique prêts à l'emploi";"Disponible en ville";"Glucose 2,5% ou 5 % AVEC CHLORURE DE SODIUM";"La posologie usuelle doit être adaptée aux besoins du patient en fonction de l'état clinique, du poids et des résultats des examens ioniques sanguins et urinaires";"IV
+SC (à privilégier en gériatrie, en soins palliatifs et pour les patients au capital veineux altéré)";;"IV : Gravité
+SC : Gravité
+1500mL à 2000mL /24h/site injection
+ou
+1000mL/8h la nuit
+ou
+500mL/2h";;"non";"L'équilibre hydrique, la glycémie, la natrémie et d'autres électrolytes pourront faire l'objet d'une surveillance avant ou pendant l'administration";;"RCP
+NaCl1
+NaCl2"
+"Hydrate de carbone (soluté glucosé) polyionique prêts à l'emploi";"Disponible en ville";"Utiliser des solutés isotoniques polyioniques prêts à l'emploi
+BIONOLYTE G5
+POLYIONIQUE 1A G5 BXT VFO";"La posologie usuelle doit être adaptée aux besoins du patient en fonction de l'état clinique, du poids et des résultats des examens ioniques sanguins et urinaires";"IV";;"IV : Gravité
+1500mL à 2000mL /24h/site injection
+ou
+1000mL/8h la nuit
+ou
+500mL/2h";;"non";"L'équilibre hydrique, la glycémie, la natrémie et d'autres électrolytes pourront faire l'objet d'une surveillance avant ou pendant l'administration
+L'administration de potassium en SC est à éviter à cause du risque de nécrose cutanée";;"RCP
+NaCl1
+NaCl2"
+"Acide Zolédronique";"Disponible en ville";"EPPI 5 mL ou prêt à l'emploi (en fonction des présentations et des génériques) ";"En fonction de l'indication et de la présentation ";"IV";"4 ou 5 mg / 100 mL : pas de dilution
+4 ou 5 mg / 5 mL : 100 mL NaCl 0,9%
+
+Dilution pour les insuffisants rénaux (cf commentaires)";"Gravité 15-30 min";;"non";"Dose si IR: 3,5, 3,3 mg ou 3 mg.
+Dilution de l'acide zolédronique 4 mg/100 mL :
+ - 3,5 mg : Retirer 12 mL et remplacer par 12 mL de NaCl 0,9%
+ - 3,3 mg : Retirer 18 mL et remplacer par 18 mL de NaCl 0,9%
+ - 3 mg : Retirer 25 mL et remplacer par 25 mL de NaCl 0,9%
+
+Ne doit pas être mélangé avec des solutions contenant du calcium";;"RCP"
+"Bétaméthasone 4mg/1mL";"Disponible en ville";"prêt à l'emploi";"1 à 5 ampoules/administration à adapter en fonction de l'indication (la dose peut éventuellement être augmentée en fonction de la situation clinique du patient)";"IV";"NaCl 0,9% 100 mL";"Gravité 15-30 min";;"non";;"Voie IVD
+Voie IM";"RCP
+BE1
+"
+"Méthylprednisolone";"Disponible en ville";"EPPI
+20 mg /40 mg /120 mg dans 2 mL
+1g dans 15,6 mL";"Selon indication";"IV";"si perfusion dans NaCl 0.9 %";"Gravité 20-30 min";;"non";"incompatibilités: allopurinol sodium, chlorhydrate de doxapram, tigécycline, chlorhydrate de diltiazem, gluconate de calcium, bromure de rocuronium, bésilate de cisatracurium, glycopyrrolate, propofol";"IM profonde possible pour dosage à 20 mg
+IVD lente minimum 20-30 min";"RCP
+Stabilis"
