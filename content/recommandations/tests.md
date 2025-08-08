@@ -20,6 +20,7 @@ image = false
 imageSrc = ""
 todo = "descr > summary > liens > photo > newsletter > flow"
 datatable = false
+chart = true
 +++
 
 <!-- Formulaire de saisie -->

@@ -26,7 +26,7 @@ todo = "liens > photo > Kanban"
 - Le cordon ombilical nécessite des soins quotidiens jusqu'à sa chute et la cicatrisation complète
 - Les soins sont réalisés avec du savon doux liquide, de l'eau tiède et des compresses non tissées, suivis d'un séchage méticuleux
 - Le cordon doit rester en dehors de la couche, sans compresse
-- En cas de signes d'omphalite (infection avec écoulement séreux, inflammation péri-ombilicale), antisepsie locale et avis pédiatrique dans la journée
+- En cas de signes d'omphalite (infection avec écoulement séreux, inflammation péri-ombilicale), antisepsie locale voire  avis pédiatrique dans la journée selon l'aspect local et l'état clinique
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

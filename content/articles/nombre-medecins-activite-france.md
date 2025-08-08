@@ -127,7 +127,8 @@ const chartOptions2 = {
   },
   tooltip: {
     shared: true,
-    // TODO: xaxis formatter: https://apexcharts.com/javascript-chart-demos/bar-charts/custom-datalabels/
+    // TODO: xaxisformatter: https://apexcharts.com/javascript-chart-demos/bar-charts/custom-datalabels/
+    // formatter: function (value, { w }) {return `Semaine ${w.globals.categoryLabels[value - 1]}`;}
     y: {
       formatter: function (val) { return Math.abs(val) }
     }

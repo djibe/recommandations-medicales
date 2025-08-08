@@ -66,10 +66,10 @@ Chapitre lié: [zona]({{% relref "zona.md" %}})
         colors: ['#4150f5']
       },
       fill: { opacity: 0.3 },
-      title: { text: 'Incidence des Sentinelles' },
-      subtitle: { text: 'Cas hebdomadaires (n° de semaine)' },
+      title: { text: 'Varicelle' },
+      subtitle: { text: 'Cas hebdomadaires (Sentinelles)' },
       yaxis: { min: 0 },
-      // Should be invoked after JSON fetched: tooltip: { x: { formatter: function (value, { w }) { return `Semaine ${w.globals.categoryLabels[value - 1]}`; }}}
+      tooltip: { x: { formatter: function (value, { w }) { return `Semaine ${w.globals.categoryLabels[value - 1]}`; }}}
     }
 async function fetchSentiwebData() {
   try {
@@ -90,6 +90,7 @@ async function fetchSentiwebData() {
   }
 }
 fetchSentiwebData();
+chart.render();
 </script>
 
 {{%collapse "Définition" %}}

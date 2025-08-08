@@ -162,7 +162,7 @@ Lire le *Calendrier vaccinal* page 75.
 
 Depuis le 1^er^ janvier **2025**, vaccination obligatoire des nourrissons contre les méningocoques B et ACWY.
 
-> [!INFO]
+> [!WARNING]
 > Si l'infraction vaccinale vient du médecin de l'enfant, il peut être poursuivi par le *CDOM*, l'*ARS* voire la [miviludes](https://www.miviludes.interieur.gouv.fr).
 
 {{% /collapse %}}
