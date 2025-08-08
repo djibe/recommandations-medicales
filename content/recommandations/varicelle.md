@@ -18,6 +18,7 @@ icd10 = ["B01", "B01.9"]
 image = true
 imageSrc = "Lésion vésiculeuse typique de varicelle peu après son apparition. Devient trouble en 1 à 2 jours. Par F malan, CC BY-SA 3.0, via Wikimedia Commons"
 flowchart = true
+chart = true
 todo = "rankok, vérif co-vaccination ROR, https://pap-pediatrie.fr/sites/pap-pediatrie.fr/files/01_contage_varicelleux_chez_lenfant_fig1.gif"
 +++
 
@@ -38,6 +39,59 @@ todo = "rankok, vérif co-vaccination ROR, https://pap-pediatrie.fr/sites/pap-pe
 Chapitre lié: [zona]({{% relref "zona.md" %}})
 
 {{%/article-summary%}}
+
+<div class="card card-util mw-280 my-4" style="overflow:hidden;" id="chart-1"></div>
+<script defer>
+  const chartOptions1 = {
+      series: [{
+        name: "Cas",
+        data: []
+      }],
+      xaxis: {
+        categories: []
+      },
+      chart: {
+        //height: 200,
+        //width: 220,
+        type: 'area',
+        sparkline: {
+          enabled: true
+        },
+      },
+      markers: { size: 0 },
+      stroke: {
+        colors: ['#4150f5'],
+        curve: 'straight',
+        width: 3,
+        colors: ['#4150f5']
+      },
+      fill: { opacity: 0.3 },
+      title: { text: 'Incidence des Sentinelles' },
+      subtitle: { text: 'Cas hebdomadaires (n° de semaine)' },
+      yaxis: { min: 0 },
+      // Should be invoked after JSON fetched: tooltip: { x: { formatter: function (value, { w }) { return `Semaine ${w.globals.categoryLabels[value - 1]}`; }}}
+    }
+async function fetchSentiwebData() {
+  try {
+    const response = await fetch("https://www.sentiweb.fr/api/v1/datasets/rest/dataset?id=inc-7-PAY&span=short");
+    if (!response.ok) {
+      throw new Error(`Erreur HTTP : ${response.status}`);
+    }
+    const json = await response.json();
+    const data = json.data.map(item => item.inc).reverse();
+    const week = json.data.map(item => {
+      const str = String(item.week);
+      return str.slice(-2);
+    }).reverse();
+    chartOptions1.series[0].data = data;
+    chartOptions1.xaxis.categories = week;
+  } catch (error) {
+    console.error("Erreur lors de la récupération des données:", error);
+  }
+}
+fetchSentiwebData();
+</script>
+
 {{%collapse "Définition" %}}
 
 Varicelle
@@ -309,6 +363,7 @@ style grossesse stroke:#4150f5, stroke-width:1px
 - [SPILF. Prise en charge des infections à VZV. Méd Mal Infect. 1998.](https://www.infectiologie.com/UserFiles/File/medias/Recos/vzv98.pdf)
 - [Santé Publique France. Varicelle.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-prevention-vaccinale/varicelle)
 - [Ameli. Varicelle](https://www.ameli.fr/assure/sante/themes/varicelle)
+- [Sentinelles. Varicelle.](https://www.sentiweb.fr/france/fr/?page=table&maladie=7)
 
 ### Bibliographie en attente
 

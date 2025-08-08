@@ -19,11 +19,11 @@ async function fetchSentiwebData() {
   try {
     const response = await fetch("https://www.sentiweb.fr/api/v1/datasets/rest/dataset?id=inc-18-PAY");
     if (!response.ok) {
-      throw new Error("Erreur HTTP : " + response.status);
+      throw new Error(`Erreur HTTP : ${response.status}`);
     }
     const json = await response.json();
-    const data = json.data.map((item) => item.inc100).reverse();
-    const year = json.data.map((item) => item.year).reverse();
+    const data = json.data.map(item => item.inc100).reverse();
+    const year = json.data.map(item => item.year).reverse();
 
     chartOptions1.series[0].data = data;
     chartOptions1.xaxis.categories = year;
