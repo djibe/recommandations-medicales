@@ -14,7 +14,7 @@
 
 {{ with .Params.chart }}
 <script type="module" crossorigin>
-import ApexCharts from 'https://esm.run/apexcharts@5.1/dist/apexcharts.esm.js'
+import ApexCharts from 'https://esm.run/apexcharts@5.3/dist/apexcharts.esm.js'
 document.addEventListener( 'DOMContentLoaded', event => {
   Apex = {
     colors: ['#4150f5', '#ffa600', '#af34dc', '#e800ba', '#ff0094', '#ff2b6e', '#ff5c4b', '#ff8329'],
@@ -191,7 +191,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 <script crossorigin>
   document.addEventListener( 'DOMContentLoaded', event => {
-    
+
     // Modern clipboard utility - no legacy support
     async function copyToClipboard(text) {
       await navigator.clipboard.writeText(text);
@@ -200,21 +200,21 @@ document.addEventListener( 'DOMContentLoaded', event => {
     document.querySelectorAll('.section-anchor').forEach(anchor => {
       anchor.addEventListener('click', async (e) => {
         e.preventDefault();
-        
+
         const targetId = anchor.getAttribute('data-target');
         const collapseTarget = document.querySelector(targetId);
         const href = anchor.getAttribute('href');
         const fullUrl = window.location.origin + window.location.pathname + href;
-        
+
         try {
           // Open the section
           if (collapseTarget && !collapseTarget.classList.contains('show')) {
             $(collapseTarget).collapse('show');
           }
-          
+
           // Update URL
           window.history.pushState(null, null, href);
-          
+
           // Copy to clipboard (modern browsers only)
           await copyToClipboard(fullUrl);
         } catch (error) {
@@ -230,7 +230,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
         try {
           // Decode the URL hash to handle special characters
           const sectionId = decodeURIComponent(hash.substring(1));
-          
+
           // Handle special case for "sources" section
           let collapseTarget;
           if (sectionId === 'sources') {
@@ -238,17 +238,17 @@ document.addEventListener( 'DOMContentLoaded', event => {
           } else {
             collapseTarget = document.getElementById(sectionId + '-b');
           }
-          
+
           if (collapseTarget && !collapseTarget.classList.contains('show')) {
             $(collapseTarget).collapse('show');
-            
+
             // Scroll to section after opening
             setTimeout(() => {
               const targetElement = document.getElementById(sectionId);
               if (targetElement) {
-                targetElement.scrollIntoView({ 
-                  behavior: 'smooth', 
-                  block: 'start' 
+                targetElement.scrollIntoView({
+                  behavior: 'smooth',
+                  block: 'start'
                 });
               }
             }, 300);
