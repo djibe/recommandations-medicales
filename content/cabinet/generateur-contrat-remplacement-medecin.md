@@ -38,20 +38,20 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 </div>
 <div class="form-group floating-label textfield-box form-ripple">
   <label for="contract-name">Prénom et NOM du médecin installé</label>
-  <input class="form-control" id="contract-name" type="text" autocomplete="name" required oninvalid="setCustomValidity('Nom manquant')" onchange="this.setCustomValidity('')">
+  <input class="form-control" id="contract-name" name="contract-name" type="text" autocomplete="on" required oninvalid="setCustomValidity('Nom manquant')" onchange="this.setCustomValidity('')">
 </div>
 <div class="form-group floating-label textfield-box form-ripple">
   <label for="contract-address">Adresse du médecin installé</label>
-  <input class="form-control" id="contract-address" type="text" required>
+  <input class="form-control" id="contract-address" name="contract-address" type="text" required>
   <small class="form-text">Adresse complète sur 1 ligne</small>
 </div>
 <div class="form-group floating-label textfield-box form-ripple">
   <label for="contract-spe">Spécialité</label>
-  <input class="form-control" id="contract-spe" type="text" value="Médecin généraliste" autocomplete="off" required>
+  <input class="form-control" id="contract-spe" name="contract-spe" type="text" value="Médecin généraliste" autocomplete="on" required>
 </div>
 <div class="form-group floating-label textfield-box form-ripple w-50">
   <label for="contract-inscription">RPPS</label>
-  <input class="form-control" id="contract-inscription" type="text" inputmode="numeric" pattern="[0-9]{11}" aria-label="RPPS à 11 chiffres" maxlength="11" required oninvalid="setCustomValidity('RPPS non valide')" onchange="this.setCustomValidity('')">
+  <input class="form-control" id="contract-inscription" name="contract-inscription" type="text" inputmode="numeric" pattern="[0-9]{11}" aria-label="RPPS à 11 chiffres" maxlength="11" required oninvalid="setCustomValidity('RPPS non valide')" onchange="this.setCustomValidity('')">
   <small class="form-text">Le RPPS a 11 chiffres</small>
 </div>
 </fieldset>
@@ -65,21 +65,21 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 </div>
 <div class="form-group floating-label textfield-box form-ripple">
   <label for="contract-name-substitute">Prénom et NOM du remplaçant</label>
-  <input class="form-control" id="contract-name-substitute" type="text" autocomplete="off" required oninvalid="setCustomValidity('Nom manquant')" onchange="this.setCustomValidity('')">
+  <input class="form-control" id="contract-name-substitute" name="contract-name-substitute" type="text" autocomplete="on" required oninvalid="setCustomValidity('Nom manquant')" onchange="this.setCustomValidity('')">
 </div>
 <div class="form-group floating-label textfield-box form-ripple">
   <label for="contract-address-substitute">Adresse du remplaçant</label>
-  <input class="form-control" id="contract-address-substitute" type="text" autocomplete="off" required oninvalid="setCustomValidity('Adresse manquante')" onchange="this.setCustomValidity('')">
+  <input class="form-control" id="contract-address-substitute" name="contract-address-substitute" type="text" autocomplete="on" required oninvalid="setCustomValidity('Adresse manquante')" onchange="this.setCustomValidity('')">
   <small class="form-text">Adresse complète sur 1 ligne</small>
 </div>
 <div class="d-flex">
 <div class="form-group floating-label textfield-box form-ripple w-50 mr-3">
   <label for="contract-inscription-substitute">RPPS ou licence</label>
-  <input class="form-control" id="contract-inscription-substitute" type="text" required oninvalid="setCustomValidity('RPPS non valide')" onchange="this.setCustomValidity('')">
+  <input class="form-control" id="contract-inscription-substitute" name="contract-inscription-substitute" type="text" required oninvalid="setCustomValidity('RPPS non valide')" onchange="this.setCustomValidity('')">
 </div>
 <div class="form-group floating-label textfield-box form-ripple w-50">
   <label class="mb-2" for="contract-urssaf">Siret</label>
-  <input class="form-control" id="contract-urssaf" type="text" inputmode="numeric" pattern="[0-9]{14}" maxlength="14">
+  <input class="form-control" id="contract-urssaf" name="contract-urssaf" type="text" inputmode="numeric" pattern="[0-9]{14}" maxlength="14">
   <small class="form-text">Le numéro URSSAF a 14 chiffres</small>
 </div>
 </div>
@@ -96,12 +96,12 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 </div>
 <div class="form-group floating-label textfield-box form-ripple w-50">
   <label for="contract-retrocession">Rétrocession (%)</label>
-  <input class="form-control" id="contract-retrocession" type="number" inputmode="numeric" min="20" max="100" required oninvalid="setCustomValidity('Rétrocession manquante')" onchange="this.setCustomValidity('')">
+  <input class="form-control" id="contract-retrocession" name="contract-retrocession" type="number" inputmode="numeric" min="20" max="100" required oninvalid="setCustomValidity('Rétrocession manquante')" onchange="this.setCustomValidity('')">
 </div>
 </div>
 <div class="form-group floating-label textfield-box">
   <label for="contract-duration">Période (texte libre)</label>
-  <textarea class="form-control" id="contract-duration" placeholder="ex: les mercredis du 01/01/2023 au 31/12/2023 | les 4, 5 et 6 mars 2023 ..." rows="3"></textarea>
+  <textarea class="form-control" id="contract-duration" name="contract-duration" placeholder="ex: les mercredis du 01/01/2023 au 31/12/2023 | les 4, 5 et 6 mars 2023 ..." rows="3"></textarea>
 </div>
 <small>En cas de remplacement régulier de courte durée, préciser le/les jour(s) ou la/les demi-journée(s) de remplacement.</small>
 <div class="form-group mt-4 ml-4 custom-control custom-switch">
@@ -121,6 +121,8 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
 <script>
   // Contract generator by djibe
   window.addEventListener( 'load', () => {
+    const form = document.getElementById('contract-generator')
+    const inputs = form.querySelectorAll('input, textarea')
     const sexMan = document.getElementById('contract-sex-m')
     const sexSubstituteMan = document.getElementById('contract-sex-substitute-m')
     const titleFull = document.getElementsByClassName('contract-title-full')
@@ -154,21 +156,32 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
     const retrocession = document.getElementById('contract-retrocession')
     const retrocessionElem = document.getElementById('contract-retrocession-text')
     const competition = document.getElementById('contract-competition')
-    isInscriptionStored();
-    isUrssafStored();
-    isDurationStored();
-    function isInscriptionStored() {
-      const valueStored = localStorage.getItem('contract-inscription');
-      if (valueStored){ inscription.value = valueStored };
-    };
-    function isUrssafStored() {
-      const valueStored = localStorage.getItem('contract-urssaf');
-      if (valueStored){ urssaf.value = valueStored };
-    }
-    function isDurationStored() {
-      const valueStored = localStorage.getItem('contract-duration');
-      if (valueStored){ duration.value = valueStored };
-    }
+    // Load data from localStorage
+    const savedData = localStorage.getItem('formData');
+      if (savedData) {
+        const data = JSON.parse(savedData);
+        for (const key in data) {
+          const input = form.querySelector(`[name="${key}"]`);
+          if (input) {
+            if (input.type === 'checkbox' || input.type === 'radio') {
+              input.checked = input.value === data[key];
+            } else {
+              input.value = data[key];
+            }
+          }$('input, textarea').floatinglabel();
+        }
+      }
+    // Save data to localStorage
+    inputs.forEach(input => {
+      input.addEventListener('input', () => {
+        const formData = new FormData(form);
+          const data = {};
+          formData.forEach((value, key) => {
+            data[key] = value;
+          });
+          localStorage.setItem('formData', JSON.stringify(data));
+      });
+    });
     [...document.querySelectorAll('#contract-generator input')].forEach((elem) => { elem.addEventListener('change', () => editContract() ) });
     [...document.querySelectorAll('#contract-generator textarea')].forEach((elem) => { elem.addEventListener('change', () => editContract() ) });
     const editContract = () => {
@@ -184,13 +197,10 @@ Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
       [...addressSubstituteElems].forEach((elem) => { elem.textContent = addressSubstitute.value });
       [...speElems].forEach((elem) => { elem.textContent = spe.value });
       [...inscriptionElems].forEach((elem) => { elem.textContent = inscription.value });
-      window.localStorage.setItem('contract-inscription', inscription.value);
       [...nameSubstituteElems].forEach((elem) => { elem.textContent = nameSubstitute.value });
       [...urssafElems].forEach((elem) => { elem.textContent = urssaf.value });
-      window.localStorage.setItem('contract-urssaf', urssaf.value);
       [...inscriptionSubstituteElems].forEach((elem) => { elem.textContent = inscriptionSubstitute.value });
       [...durationElems].forEach((elem) => { elem.textContent = duration.value });
-      window.localStorage.setItem('contract-duration', duration.value);
       [...dateElems].forEach((elem) => { elem.textContent = setContractDate(date.value) });
       retrocessionElem.textContent = retrocession.value;
     }
