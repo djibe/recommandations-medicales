@@ -454,7 +454,7 @@ Particularités de l'hypertension artérielle pendant la grossesse:
   - Échodoppler des artères utérines (après 22 SA)
   - Recherche des signes de phéochromocytome
 
-Traitements de préférence: [méthyldopa](https://bdpm.ansm.sante.fr/medicament/60578560/extrait#tab-rcp) (Aldomet®, [CRAT](http://www.lecrat.fr/7193/)), [labétalol](https://bdpm.ansm.sante.fr/medicament/65193337/extrait#tab-rcp) (Trandate®, [CRAT](http://www.lecrat.fr/7158/)) voire nifédipine LP ([CRAT](http://www.lecrat.fr/7173/)).
+Traitements de préférence: [méthyldopa](https://bdpm.ansm.sante.fr/medicament/60578560/extrait#tab-rcp) (nombreux comprimés - Aldomet® - [CRAT](http://www.lecrat.fr/7193/)), [labétalol](https://bdpm.ansm.sante.fr/medicament/65193337/extrait#tab-rcp) (Trandate® 2/j, [CRAT](http://www.lecrat.fr/7158/)) voire anticalcique ([nifédipine LP](https://bdpm.ansm.sante.fr/medicament/66932763/extrait#tab-rcp) 1/j - [CRAT](http://www.lecrat.fr/7173/) > nicardipine).
 
 > [!WARNING]
 > Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine pendant la grossesse.
