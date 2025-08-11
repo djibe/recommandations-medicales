@@ -6,7 +6,7 @@
 
   <link rel="preconnect" href="https://cdn.jsdelivr.net/" crossorigin>
 
-  {{- partial "font" . -}}
+  {{- partialCached "font" . -}}
 
   {{- with .Params.chart }}
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/apexcharts@5.3/dist/apexcharts.min.css" media="print" onload="this.media='all'" crossorigin>

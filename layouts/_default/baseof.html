@@ -2,12 +2,12 @@
 <html prefix="og: http://ogp.me/ns#" lang="{{ .Language }}">
   {{ partial "header.html" . -}}
   <body>
-    {{- partial "nav.html" . -}}
-    {{- partial "navdrawer.html" . }}
+    {{- partialCached "nav.html" . -}}
+    {{- partialCached "navdrawer.html" . }}
     <main id="main">
       {{- block "main" . -}}{{- end }}
       <!-- Search-->
-      {{- partial "search.html" . }}
+      {{- partialCached "search.html" . }}
       <!-- Contact -->
       <div class="modal fade" id="modal-contact" tabindex="-1" role="dialog" aria-labelledby="modal-contact-title">
         <div class="modal-dialog modal-dialog-centered" role="document">
@@ -83,7 +83,7 @@
         </div>
       </div>
     </main>
-    {{- partial "footer.html" . -}}
-    {{- partial "scripts.html" . -}}
+    {{- partialCached "footer.html" . -}}
+    {{- partialCached "scripts.html" . -}}
   </body>
 </html>

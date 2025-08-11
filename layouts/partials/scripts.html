@@ -158,7 +158,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 
 {{- with .Params.datatable }}
-  {{ partial "datatable" . }}
+  {{ partialCached "datatable" . }}
 {{- end -}}
 
 {{- with .Params.tableFilter }}
