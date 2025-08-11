@@ -8,7 +8,7 @@ Dernières recommandations médicales pour la pratique en consultation du médec
 
 🙏 <a href="https://lydia-app.com/pots?id=34400-recomedicales" target="_blank" rel="external nofollow noopener">Faire un don via Lydia</a> (Visa/Lydia) ou <a href="https://ko-fi.com/djibe" target="_blank" rel="external nofollow noopener">Ko-Fi</a>.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"></a><br>Cette œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d"Utilisation Commerciale 4.0 International</a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"></a><br>Cette œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale 4.0 International</a>
 
 [RecoMédicales](https://recomedicales.fr) est développé par 2 généralistes pour tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder rapidement à tout ce dont ils ont besoin en consultation.
 
@@ -35,6 +35,8 @@ Seul un outil numérique peut nous aider.
 - Gratuit
 - Validé  
   Faire valider chaque fiche par un expert ou la Société savante de référence (certaines fiches pour le moment).
+- Connecté  
+  Branché au réseau Sentinelles.
 - \+ Simple  
   Segmentation des chapitres pour accéder rapidement à l'info recherchée: 1 question = 1 réponse.
 - \+ Visuel  
@@ -76,14 +78,13 @@ et aussi...
 ## Ce qui manque pour le moment
 
 - **Vous !**
-- L'application mobile
 - Plus de contenu
 - La certification de plus de sociétés savantes
 - Le soutien des autorités (Assurance Maladie ...)
 
 ## 🛠️ Utiliser le projet sur votre PC
 
-Le plus simple est de communiquer par mail. Si vous voulez mettre les mains dans le projet, suivez le guide.
+Le plus simple est de communiquer par le formulaire de contact du site. Si vous voulez mettre les mains dans le projet, suivez le guide.
 
 <details>
   <summary>Sous Windows</summary>

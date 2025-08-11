@@ -1,6 +1,6 @@
 {
   "name": "univ-medicale",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Dernières recommandations médicales adaptées à la pratique de la médecine générale",
   "scripts": {
     "recommandations:new": "hugo new recommandations/article.md",
