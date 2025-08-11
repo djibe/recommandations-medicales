@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-02-05T23:15:16+01:00"
 publishdate = "2023-02-06"
-lastmod = "2023-02-06"
+lastmod = "2025-08-11"
 specialites = ["gynécologie-obstétrique"]
 annees = "2022"
 sources = ["CNGOF", "CRAT"]
@@ -100,23 +100,31 @@ Pas d'isolement, supplémentation systématique en vitamine B1 (thiamine) voire 
 Les posologies ne sont pas encore disponibles faute d'accès aux articles.
 {.alert .alert-warning}
 
+Mesures hygiéno-diététiques (*CBIP*):
+
+- Fractionner les repas
+- Éviter les aliments gras, épicés ou odorants
+- Privilégier les protéines et sucres
+- Préférer les aliments et boissons froids
+- Éviter de s'allonger juste après un repas
+- Adapter le mode de vie selon les préférences personnelles (*CNGOF*)
+- Arrêter les vitamines et la [supplémentation en fer]({{% relref "anemie.md" %}}), sauf la vitamine B9 (*CNGOF*)
+
 Prise en charge et traitements recommandés pour les nausées et vomissements pendant la grossesse:
 
 - Dépister un trouble des conduites alimentaires ({{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}) (*HAS/FFAB 2019*)
-- Arrêter les vitamines et la [supplémentation en fer]({{% relref "anemie.md" %}}), sauf la vitamine B9
-- Adapter le mode de vie selon les préférences personnelles
 - ==Traitements des nausées de première intention==
   - Consultation de contrôle à 72 heures nécessaire
   - Symptômes légers ({{< modal-btn modal-puqe >}}Score PUQE < 6{{< /modal-btn >}})  
-    Gingembre, ~~vitamine B6 (pyridoxine)~~ (non disponible seule), acupression, acupuncture, électrostimulation même si leur efficacité n'est pas prouvée.
-  - Doxylamine 15 mg ([RCP](https://bdpm.ansm.sante.fr/medicament/64741955/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3405/))
-  - Doxylamine + pyridoxine 10/10 mg ([RCP](https://bdpm.ansm.sante.fr/medicament/61447165/extrait#tab-rcp), Cariban®, Xonvea®)
-  - Dimenhydrinate 50 mg ([RCP](https://bdpm.ansm.sante.fr/medicament/60173964/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3460/), Nausicaalm® voire Mercalm®)
-- Traitement de 2^e^ intention: métoclopramide 10 mg ([RCP](https://bdpm.ansm.sante.fr/medicament/63177843/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3419/))
+    Gingembre, [vitamine B6](https://base-donnees-publique.medicaments.gouv.fr/medicament/61091986/extrait#tab-rcp) (pyridoxine), acupression, acupuncture, électrostimulation même si leur efficacité n'est pas prouvée.
+  - [Doxylamine 15 mg](https://bdpm.ansm.sante.fr/medicament/64741955/extrait#tab-rcp) ([CRAT](https://www.lecrat.fr/3405/))
+  - Doxylamine + pyridoxine 10/10 mg (vitamine B6 -- [Cariban®](https://bdpm.ansm.sante.fr/medicament/61447165/extrait#tab-rcp), Xonvea®)
+  - Dimenhydrinate 50 mg ([CRAT](https://www.lecrat.fr/3460/), [Nausicaalm®](https://bdpm.ansm.sante.fr/medicament/60173964/extrait#tab-rcp) ou [Mercalm®](https://bdpm.ansm.sante.fr/medicament/68461541/extrait#tab-rcp) avec caféine)
+- Traitement de 2^e^ intention: [métoclopramide 10 mg](https://bdpm.ansm.sante.fr/medicament/63177843/extrait#tab-rcp) ([CRAT](https://www.lecrat.fr/3419/))
 - Traitements de 3^e^ intention
-  - Chlorpromazine ([RCP](https://bdpm.ansm.sante.fr/medicament/65676987/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3580/), Largactil®)
-  - Prométhazine 25 mg ([RCP](https://bdpm.ansm.sante.fr/medicament/69764032/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3528/), Phénargan®)
-  - Métopimazine ([RCP](https://bdpm.ansm.sante.fr/medicament/69503737/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/11549/), Vogalène®)
+  - Chlorpromazine ([Largactil®](https://bdpm.ansm.sante.fr/medicament/65676987/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3580/))
+  - Prométhazine 25 mg ([Phénargan®](https://bdpm.ansm.sante.fr/medicament/69764032/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3528/))
+  - Métopimazine ([Vogalène®](https://bdpm.ansm.sante.fr/medicament/69503737/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/11549/))
 - Soutien psychologique
 - Ne pas utiliser: aromathérapie
 
@@ -134,7 +142,7 @@ Prise en charge de l'hyperémèse gravidique:
 - Soutien psychologique
 - Association de patientes: [Association de lutte contre l'hyperémèse gravidique](https://www.associationhg.fr) et [9 mois avec ma bassine](https://www.facebook.com/9moisavecmabassine/)
 
-Sur prescription spécialisée uniquement pour l'hyperémèse gravidique: ondansétron 8 mg après 10 SA (ordonnance d'exception, [RCP](https://bdpm.ansm.sante.fr/medicament/64961378/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3394/)), corticoïdes IV en dernier recours.
+Sur prescription spécialisée uniquement pour l'hyperémèse gravidique: [ondansétron 8 mg](https://bdpm.ansm.sante.fr/medicament/64961378/extrait#tab-rcp) après 10 SA (ordonnance d'exception, [CRAT](https://www.lecrat.fr/3394/)), corticoïdes IV en dernier recours.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge des nausées et vomissements de grossesse" "show" %}}
@@ -154,8 +162,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Deruelle P et al. Consensus formalisé d'experts du Collège national des gynécologues et obstétriciens français : prise en charge des nausées et vomissements gravidiques et de l'hyperémèse gravidique. Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Complications%20de%20la%20grossesse/Nausees-et-vomissements-gravidiques%202022-CFE.pdf?x60010)
-- [Centre de Référence sur les Agents Tératogènes. Antiémétiques - Grossesse. 02/11/2021.](https://www.lecrat.fr/3593/)
+- [CBIP. Quelles sont les options sûres dans la prise en charge des nausées et vomissements pendant la grossesse ?. Folia. 2025.](https://www.cbip.be/fr/articles/4586?folia=4585)
+- [Centre de Référence sur les Agents Tératogènes. Antiémétiques - Grossesse. 17/12/2024.](https://www.lecrat.fr/3593/)
+- [Deruelle P, et al. Consensus formalisé d'experts du Collège national des gynécologues et obstétriciens français : prise en charge des nausées et vomissements gravidiques et de l'hyperémèse gravidique. Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Complications%20de%20la%20grossesse/Nausees-et-vomissements-gravidiques%202022-CFE.pdf?x60010)
 
 {{%/sources%}}
 {{% modal title="Score PUQE des vomissements gravidiques" id="modal-puqe"%}}

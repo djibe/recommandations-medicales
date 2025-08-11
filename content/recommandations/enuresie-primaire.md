@@ -157,7 +157,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Harris J, et al. L'évaluation et la prise en charge de l'énurésie en pédiatrie générale. Paediatr Child Health. 2023.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10517247/)
 - [NICE. Bedwetting in under 19s. Clinical guideline. 2018.](https://www.nice.org.uk/guidance/cg111)
-- [La prise en charge de l'énurésie nocturne primaire. Paediatr Child Health. 2005.](https://pmc.ncbi.nlm.nih.gov/articles/PMC2722621/)
 
 {{%/sources%}}

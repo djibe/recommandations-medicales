@@ -6,8 +6,8 @@ description = "Recommandations pour le diagnostic et la prise en charge des trou
 synonyms = ["Épisodes maniaco-dépressifs"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-03-07T17:48:57+01:00"
-publishdate = "2025-06-13"
-lastmod = "2025-06-13"
+publishdate = "2025-08-06"
+lastmod = "2025-08-06"
 specialites = ["psychiatrie"]
 annees = "2015"
 sources = ["HAS", "CNUP"]
@@ -18,19 +18,23 @@ icd10 = ["F31", "F31.9"]
 draft = true
 image = false
 imageSrc = ""
-todo = "summary > liens > photo > newsletter > flow > Kanban | HASp1 | hospi sous contrainte"
+todo = "summary > liens > photo > newsletter > flow > Kanban | HASp1 | hospi sous contrainte | Coder MDQ"
 +++
 
 {{%article-summary%}}
 
+- Le trouble bipolaire est un trouble fréquent et très grave de l'humeur débutant précocement, entre 15 et 25 ans, avec alternance d'épisodes maniaques ou hypomaniaques et d'épisodes dépressifs caractérisés avec intervalles libres
+- Toujours rechercher des symptômes maniaques en cas de dépression atypique: avant 25 ans ou dans le post-partum, épisodes multiples (3 ou plus), réponse atypique au traitement antidépresseur, absence de facteur déclenchant, hypersomnie, agitation
+- Devant une suspicion de trouble bipolaire, l'avis psychiatrique
+ 
 TODO: (at the end)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Trouble bipolaire
-: Trouble de l'humeur chronique, avec alternance d'épisode(s) maniaque(s) ou hypomaniaque(s) et surtout des épisodes dépressifs avec intervalles libres. Pathologie psychiatrique parmi les plus sévères atteignant 1 à 4% de la population. Elle débute à l'adolescence ou chez l'adulte jeune, avec un handicap et une mortalité majeurs en l'absence de traitement.
-: Les complications sont celles des troubles de l'humeur, avec risque suicidaire très élevé (50 % de tentatives, mortalité x 2,6) et de lourdes conséquences psychosociales. Le traitement est démarré en moyenne après 10 ans d'évolution. Les cohortes mesurent 0,44 épisode bipolaire par an. 20 à 30 % des patients sont difficiles à équilibrer.
+: Trouble de l'humeur chronique, débutant entre 15 et 25 ans, avec alternance d'épisode(s) maniaque(s) ou hypomaniaque(s) et surtout des épisodes dépressifs similaires avec intervalles libres. Pathologie psychiatrique parmi les plus sévères, il atteint 1 à 4% de la population.
+: Les complications sont celles des troubles de l'humeur, avec risque suicidaire très élevé (50 % de tentatives, mortalité x 2,6) et de lourdes conséquences psychosociales. Le traitement est démarré en moyenne après 10 ans d'évolution. Les cohortes mesurent 0,44 épisode bipolaire par an.
 : Les comorbidités sont fréquentes: psychiatriques (troubles anxieux, addictions) et cardiométaboliques (obésité, hyperlipidémie, coronaropathie, BPCO, dysthyroïdie).
 
 Épisode mixte
@@ -142,7 +146,7 @@ Autres pathologies à rechercher devant un trouble de l'humeur:
   - Troubles de la personnalité (borderline ++)
   - Troubles schizophréniques
   - [Trouble de déficit de l'attention avec ou sans hyperactivité (TDAH)]({{% relref "trouble-deficit-attention-tdah.md" %}})  
-    Le TDAH n'a pas: caractère épisodique, rupture avec le fonctionnement antérieur, présence nette d'épisodes d'humeur exaltée, idées de grandeur, âge de survenue.
+    Signes négatifs du TDAH: caractère épisodique, rupture avec le fonctionnement antérieur, présence nette d'épisodes d'humeur exaltée, idées de grandeur, âge de survenue.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -160,13 +164,13 @@ L'interrogatoire de l'entourage est important, une fois l'accord du patient obte
 
 - Le trouble bipolaire début surtout de **15 à 19 ans**
 - Antécédents:
-  - **Dépression:** avant 25 ans, multiples, du post-partum (dans le mois), réponse atypique au traitement antidépresseur
-  - Dépression atypique: hyperphagie ou hypersomnie, absence de facteur déclenchant, agitation, hyperréactivité émotionnelle, irritabilité, débuts et fins abrupts
-  - Manie ou hypomanie (sous antidépresseur ou non), caractéristiques psychotiques congruentes avec l'humeur
+  - ==**Dépression:**== avant 25 ans, épisodes multiples (3 ou plus), du post-partum (dans le mois), réponse atypique au traitement antidépresseur
+  - Dépression atypique: début brutal hyperphagie ou hypersomnie, absence de facteur déclenchant, agitation, hyperréactivité émotionnelle, irritabilité
+  - ==**Manie ou hypomanie**== (sous antidépresseur ou non), caractéristiques psychotiques congruentes avec l'humeur
   - Rechercher des caractères hypomaniaques pour chaque épisode de trouble de l'humeur
   - Tentative de suicide ou intention exprimée
   - Événements de vie et traumatismes (deuil, maltraitance)
-- Antécédents familiaux: bipolarité, dépression  
+- **Antécédents familiaux:** bipolarité, dépression  
   Surveillance accrue en cas d'antécédents familiaux.
 - Traitements en cours
 - **Alcool, toxiques, addictions** (dont écrans)
@@ -182,8 +186,6 @@ L'interrogatoire de l'entourage est important, une fois l'accord du patient obte
   - Autres signes: confusion, catatonie (immobilité motrice)
 - Rechercher des comorbidités: **trouble anxieux**
 - Évaluer le **risque suicidaire**
-
-TODO: HASp31
 
 ### Sévérité des troubles
 
@@ -201,7 +203,7 @@ En plus des critères de sévérité communs aux 2 formes (en gras ci-dessus), r
 
 ### Sémiologie des syndromes dépressifs et maniaques
 
-{{< youtube id="_vohZ4j3iko" title="Aspects sémiologiques des syndromes dépressifs et maniaques  (AESP)" >}}
+{{< youtube id="_vohZ4j3iko" title="Aspects sémiologiques des syndromes dépressifs et maniaques (AESP)" >}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -230,9 +232,9 @@ Le bilan élimine un trouble somatique:
 > [!WARNING]
 > << Un épisode maniaque est une urgence médicale et requiert dans la majorité des situations une hospitalisation en urgence, en psychiatrie, si nécessaire en hospitalisation sans consentement. >> -- *CNUP*
 
-Hospitalisation systématique en cas d'épisode maniaque ou mixte (co-existence de symptômes maniaques et dépressifs).
+Hospitalisation systématique en cas ==d'épisode maniaque ou mixte== (co-existence de symptômes maniaques et dépressifs).
 
-Envisager une hospitalisation en cas de:
+**Envisager une hospitalisation en cas de:**
 
 - {{< modal-btn modal-urgence-suicide >}}Risque suicidaire élevé{{< /modal-btn >}}
 - Agitation violente, troubles du comportement majeurs
@@ -246,44 +248,59 @@ Chez le **mineur**, l'hospitalisation nécessite une décision parentale (ou du 
 {{% /collapse %}}
 {{%collapse "Traitement du trouble bipolaire" %}}
 
-> << L'utilisation d'antidépresseurs chez les patients atteints de troubles bipolaires est controversée. >> -- Centre Belge d'Information Pharmacothérapeutique (CBIP)
+> [!INFO]
+> << L'utilisation d'antidépresseurs chez les patients atteints de troubles bipolaires est controversée. >> -- *Centre Belge d'Information Pharmacothérapeutique* (*CBIP*)
 
-Crise: hospitalisation
+La prise en charge thérapeutique du trouble bipolaire est uniquement spécialisée et relève du ==**psychiatre**== pour l'équilibration du **traitement thymorégulateur**.
 
-Suspicion: psychiatre
+Mesures générales de prise en charge du trouble bipolaire:
 
-Sauvegarde de justice
-
-Autres: ==psychothérapie== (de soutien, TCC, interpersonnelles), éducation thérapeutique, neuropsychologue
-
-ALD
-
-Suivi: surveillance et prévention du suicide, traitement au long cours, repérer et traiter les comorbidités
-
-Mono ou polythérapie de l'épisode maniaque: médicament thymorégulateur (lithium ou antiépileptique divalproate de sodium ou carbamazépine) et/ou un antipsychotique de 2^e^ génération (olanzapine, rispéridone, aripiprazole, quétiapine; autres possibles chlorpromazine voire *halopéridol*).
-
-Traitement de la dépression du trouble bipolaire: thymorégulateur (lithium ou lamotrigine) et antipsychotique de 2^e^ génération (quétiapine; parfois olanzapine-fluoxétine). Pas d'effet de: paroxétine, bupropion, agomélatine.
-
-Ne pas utiliser les antidépresseurs, ou après traitements plus efficaces. Risque suicidaire très élevé en cas d'antidépresseur sans thymorégulateur. Possible chez BP 2 sans cycles rapides.
-
-Prophylactique au long cours
-Lithium, fond 300 mg x 2/j, cible lithémie 0,6 - 0,8 mEq/L. (prise de poids, polyurie, tremblement, hypothyroïdie 20%, hyperparathyroïdie, MRC).
-
-Autres traitements de fond: quétiapine > aripiprazole (manie) ou lamotrigine (dépression), ziprasidone, arsénapine. TODO: Goes2022table1
-
-Dépression bipolaire: quétiapine, lurasidone, cariprazine. Symptômes modérés: lamotrigine ou lithium.
-
-Traitements de centres experts: stimulation transcrânienne, électroconvulsivothérapie (ECT).
-
-- ALD n°23
-- Psychothérapie  
-  psychoeducation, cognitive behavioral therapy, and interpersonal and social rhythm therapy
+- Contraception
+- **Psychothérapie**  
+  De soutien, thérapie cognitive et comportementale (TCC), thérapie interpersonnelle éducation thérapeutique, neuropsychologue. Voir [MonSoutienPsy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}).
+- Information du patient: [guide Ameli](https://www.ameli.fr/assure/sante/themes/trouble-bipolaire), [guide CHU Montpellier](https://www.chu-montpellier.fr/fileadmin/medias/Publications/Le-trouble-Bipolaire.pdf)
 - Association de patients: [ARGOS 2001](https://argos2001.net), [Bipolarité France](https://bipolaritefrance.com), [UNAFAM](https://www.unafam.org), [Bipolaire si tu savais](https://bipolairesitusavais.com), [Bicycle](https://www.bicycle-asso.org), [France dépression](https://francedepression.fr), [Le funambule](https://www.bipolarite.org)
-- MDPH
+- Déclarer l'[ALD n°23]({{% relref "affection-longue-duree.md" %}})
+- ± MDPH
+- ± Sauvegarde de justice
+- Évaluations cardiovasculaires intensifiées
 
-20-30 % sont difficiles à équilibrer.
+Le suivi du trouble bipolaire est au moins annuel après équilibration.
 
-Suivi au moins annuel: symptômes, observance, effets indésirables, dernière consultation du psychiatre, contraception
+### Pour en savoir plus: traitements du trouble bipolaire
+
+Le trouble bipolaire nécessite un traitement prophylactique au long cours, le plus souvent le **lithium** ([Téralithe®](https://bdpm.ansm.sante.fr/medicament/62124478/extrait#tab-rcp)):
+
+- Posologie initiale: 250 mg x 2-3/j
+- Lithémie cible: 0,6 - 0,8 mEq/L
+- Effets indésirables principaux: prise de poids, polyurie, tremblement, hypothyroïdie 20%, hyperparathyroïdie, maladie rénale chronique
+
+Autres thymorégulateurs: antiépileptique divalproate de sodium (Dépakote®, Divalcote®) ou carbamazépine.
+
+20 à 30% des patients sont difficiles à équilibrer. Dans les **centres experts**, sont également possibles: stimulation transcrânienne et électroconvulsivothérapie (ECT lors des formes graves).
+
+#### Traitement médicamenteux de l'épisode maniaque
+
+L'épisode maniaque a pour traitement (en mono ou polythérapie): médicament thymorégulateur et/ou un antipsychotique de 2^e^ génération (olanzapine, rispéridone, aripiprazole, quétiapine; autres possibles chlorpromazine voire *halopéridol*).
+
+Arrêt d'un traitement antidépresseur (virage maniaque possible).
+
+#### Traitement médicamenteux de l'épisode dépressif caractérisé du trouble bipolaire
+
+Traitement de la dépression du trouble bipolaire: thymorégulateur (lithium ou lamotrigine) ou antipsychotique de 2^e^ génération (quétiapine; parfois olanzapine-fluoxétine). Pas d'effet de: paroxétine, bupropion, agomélatine.
+
+Ne pas utiliser les antidépresseurs au cours du trouble bipolaire (ou sur prescription spécialisée uniquement). Le risque suicidaire est très élevé en cas d'**antidépresseur sans thymorégulateur**. Le traitement antidépresseur est toutefois possible chez le bipolaire de type 2 sans cycles rapides.
+
+{{% /collapse %}}
+{{%collapse "Suivi" %}}
+
+Le suivi du trouble bipolaire est au moins annuel après équilibration:
+
+- Symptômes
+  - Surveillance et prévention du suicide, traitement au long cours, repérer et traiter les comorbidités
+- Observance, effets indésirables
+- Dernière consultation du psychiatre et modifications thérapeutiques
+- Contraception
 
 {{% /collapse %}}
 {{%sources%}}
@@ -298,14 +315,11 @@ Suivi au moins annuel: symptômes, observance, effets indésirables, dernière c
 
 ### Bibliographie en attente
 
-- [Nierenberg AA, et al. Diagnosis and Treatment of Bipolar Disorder: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2810502)
+- [Nierenberg AA, et al. Diagnosis and Treatment of Bipolar Disorder: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2810502) (payant)
 - [Zaidi S, et al. Monitoring drug interventions in people with bipolar disorder. BMJ. 2023.](https://www.bmj.com/content/380/bmj-2022-070678) (payant)
 - Prescrire
-- Cochrane
-- Minerva
-- Cismef
 - [NICE. Bipolar disorder: assessment and management. Clinical guideline. 2023.](https://www.nice.org.uk/guidance/cg185/chapter/Recommendations)
-- International Society for Bipolar Disorders (ISBD)
+- [International Society for Bipolar Disorders (ISBD)](https://www.isbd.org)
 
 {{%/sources%}}
 {{% modal title="Degrés d'urgence de la crise suicidaire" id="modal-urgence-suicide" %}}

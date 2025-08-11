@@ -563,6 +563,7 @@ graph TB
 - [Drummond D, et al. Recommandations de la SP2A (Société pédiatrique de pneumologie et d'allergologie) pour la prise en charge de l'asthme de l’enfant de 6 à 12 ans - Prise en charge thérapeutique et adaptation du traitement de fond. Rev Mal Respir. 2024.](https://www.sciencedirect.com/science/article/pii/S0761842524002444)
 - [GINA. Global strategy for the asthma management and prevention. 2024.](https://ginasthma.org/reports/)
 - [Papi A, et al. European Respiratory Society Short Guidelines for the use of as-needed ICS/formoterol in mild Asthma. European Respiratory Journal. 2023.](https://erj.ersjournals.com/content/early/2023/08/31/13993003.00047-2023)
+- [Société canadienne de pédiatrie. La prise en charge de l'asthme léger et très léger chez les enfants d'âge préscolaire, les enfants et les adolescents. Point de pratique. 2023.](https://cps.ca/fr/documents/position/asthme-leger)
 - [Louis R, et al. European Respiratory Society Guidelines for the Diagnosis of Asthma in Adults. European Respiratory Journal. 2022.](https://erj.ersjournals.com/content/early/2022/02/03/13993003.01585-2021)
 - [Collège de la Médecine Générale (CMG). Asthme de l'adulte et de l'enfant de plus de 12 ans : prévenir les exacerbations. 2021. (PDF)](https://cmg.fr/wp-content/uploads/2021/05/Asthme-de-ladulte-et-de-lenfant-2021.pdf)
 - [Inserm. Asthme : Portraits-robots des personnes à risque. 10/10/2022.](https://www.inserm.fr/actualite/asthme-portraits-robots-des-personnes-a-risque/)

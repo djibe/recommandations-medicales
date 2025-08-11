@@ -248,6 +248,8 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Société canadienne de pédiatrie. La gestion de la douleur chez les nouveau-nés : une approche multidimensionnelle. Document de principes. 2024.](https://cps.ca/fr/documents/position/la-gestion-de-la-douleur-chez-les-nouveau-nes-une-approche-multidimensionnelle)
+- [Société canadienne de pédiatrie. Les pratiques exemplaires pour l'évaluation et le traitement de la douleur chez les enfants. Document de principes. 2022.](https://cps.ca/fr/documents/position/levaluation-et-le-traitement-de-la-douleur)
 - [Hadland SE, et al. Opioid Prescribing for Acute Pain Management in Children and Adolescents in Outpatient Settings: Clinical Practice Guideline. Pediatrics. 2024.](https://pubmed.ncbi.nlm.nih.gov/39344439/)
 - Appli Livret Douleur APHP
 - [Anaes. Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l'enfant de 1 mois à 15 ans. 2000. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/doulenf4.pdf)

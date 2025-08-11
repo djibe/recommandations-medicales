@@ -30,7 +30,7 @@ todo = "SEO | pharynx, source: Les infections a HPV deviennent indétectables au
 - Dépistage organisé du cancer du col de l'utérus de 25 à 65 ans (test HPV haut risque tous les 5 ans après 30 ans)
 - Dépistage ciblé du cancer anal
 
-Documents patient: [INCa: dépistage du cancer du col (PDF)](https://www.e-cancer.fr/content/download/336635/4809888/file/Depliant%20Uterus%202022_148x210_3%20volets%20DEPCCU21_BD.pdf) et [INCa: vaccination HPV (PDF)](https://www.e-cancer.fr/content/download/336636/4809898/file/Depliant%20Papillomavirus%20148x210%20HPV%20DEPVACHPV21%202022%20BD.pdf)
+Documents patient: [INCa: dépistage du cancer du col (PDF)](https://www.cancer.fr/content/download/7426/file/DEPLIANT_UTERUS_148x210%20_DEPCCU23_BD-Octobre2023.pdf?version=7) et [SPF: vaccination HPV](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/depliant-flyer/infections-a-papillomavirus-humains-les-5-bonnes-raisons-de-se-faire-vacciner)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -234,7 +234,7 @@ La vaccination HPV peut être réalisée par un pharmacien ou un infirmier sans 
 La vaccination conte les papillomavirus prévient des lésions précancéreuses de tous les sites atteints (voir *Complications*).
 
 [INCa. Les arguments clés sur la vaccination contre les cancers liés aux papillomavirus humains (HPV)](https://www.cancer.fr/catalogue-des-publications/arguments-cles-sur-la-vaccination-contre-les-cancers-hpv)  
-[INCa. Dépliant sur la vaccination contre les cancers HPV (PDF)](https://www.e-cancer.fr/content/download/301756/4303586/file/IN793%20Depliant%20Papillomavirus%20148x210%20HPV_BD.pdf)
+[SPF. Dépliant sur la vaccination contre les cancers HPV](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/depliant-flyer/infections-a-papillomavirus-humains-les-5-bonnes-raisons-de-se-faire-vacciner)
 
 > En Australie, où la recommandation de vacciner les filles date de 2007 et celle des garçons de 2013, la couverture vaccinale d'au moins 80% a permis:  
 Une réduction de plus de 77% des génotypes responsables de 75% des cancers du col de l'utérus;  
@@ -250,7 +250,7 @@ Dans ce pays, le succès de la campagne de vaccination, associée au dépistage,
 {{< figure image="/images/photos/cancer-col-uterus-30.jpg" title="Conduite à tenir devant un frottis avec analyse cytologique anormale de 25 à 29 ans. INCa 2020" loading="lazy">}}
 {{< figure image="/images/photos/cancer-col-uterus-30+.jpg" title="Conduite à tenir devant un frottis avec test HPV haut risque anormal de 30 à 65 ans. INCa 2020" loading="lazy">}}
 
-{{< card-link-external title="Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale" url="https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Conduite-a-tenir-devant-une-femme-ayant-une-cytologie-cervico-uterine-anormale" subtitle="INCa 2017">}}
+{{< card-link-external title="Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale" url="https://www.cancer.fr/catalogue-des-publications/conduite-a-tenir-devant-une-femme-ayant-une-cytologie-cervico-uterine-anormale" subtitle="INCa 2017">}}
 
 {{% /collapse %}}
 {{%collapse "Traitement du cancer du col de l'utérus" %}}

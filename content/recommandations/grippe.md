@@ -32,7 +32,7 @@ chart = true
 
 {{%/article-summary%}}
 
-<div class="card card-util mw-280 my-4" style="overflow:hidden;" id="chart-1"></div>
+<div class="card card-util mw-280 my-4" style="overflow:hidden;width: 280px;" id="chart-1"></div>
 <script defer>
   const chartOptions1 = {
       series: [{
