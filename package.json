@@ -19,7 +19,7 @@
     "links-external:check": "hugo && linkinator public/recommandations/**/*.html --config ./build/linkinator-html.config.json --format CSV",
     "links-societies:check": "npx linkinator https://recomedicales.fr/articles/societes-savantes-medecine/ --verbosity ERROR --skip recomedicales.fr",
     "start": "hugo --environment production --cleanDestinationDir --gc --minify",
-    "start:dev": "hugo server --environment development --buildDrafts --watch --destination dev --logLevel warn --cleanDestinationDir -p 1313",
+    "start:dev": "hugo server --environment development --buildDrafts --renderToMemory --logLevel warn -p 1313",
     "test": "playwright test",
     "test:headed": "playwright test --headed",
     "webhint": "hint http://localhost:1313"
