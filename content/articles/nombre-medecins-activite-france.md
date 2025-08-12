@@ -13,7 +13,7 @@ sources = ["CNOM"]
 tags = []
 image = true
 imageSrc = "Undraw"
-todo = "rankok | update, 11680200 ALD 2021 par https://assurance-maladie.ameli.fr/etudes-et-donnees/prevalence-beneficiaires-ald"
+todo = "rankok | update 2026, 11680200 ALD 2021 par https://assurance-maladie.ameli.fr/etudes-et-donnees/prevalence-beneficiaires-ald"
 chart = true
 datatable = true
 +++

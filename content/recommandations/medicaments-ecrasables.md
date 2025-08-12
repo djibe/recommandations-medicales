@@ -20,7 +20,7 @@ sctid = ""
 icd10 = []
 image = true
 imageSrc = "Les médicaments pouvant être ouverts ou écrasés. Illustration de Freepik"
-todo = "update"
+todo = "update 2026"
 datatable = true
 +++
 

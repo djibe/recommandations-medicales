@@ -14,7 +14,7 @@ tags = ["cancer"]
 chart = true
 image = true
 imageSrc = "du dépistage des cancers par starline / Freepik"
-todo = "update, https://www.cancer.fr/personnes-malades/les-cancers - ### Le dépistage organisé des cancers | KEY x10: dépistage du cancer | x3: cancer du sein, mammographie de dépistage, dépistage organisé, participation au dépistage, assurance maladie, décès par cancer, dépistage individuel, données, facteurs de risque, programme de dépistage | x1: ATCD personnel de cancer, avance de frais, consultation d'oncogénétique, courrier d'invitation, prise en charge thérapeutique, tranches d'âge"
+todo = "update 2026, https://www.cancer.fr/personnes-malades/les-cancers - ### Le dépistage organisé des cancers | KEY x10: dépistage du cancer | x3: cancer du sein, mammographie de dépistage, dépistage organisé, participation au dépistage, assurance maladie, décès par cancer, dépistage individuel, données, facteurs de risque, programme de dépistage | x1: ATCD personnel de cancer, avance de frais, consultation d'oncogénétique, courrier d'invitation, prise en charge thérapeutique, tranches d'âge"
 +++
 
 Trois cancers bénéficient en France d'un **dépistage organisé** par l'*Assurance Maladie* et sont remboursés à 100 % par l'*Assurance Maladie*. Il s'agit de cancers fréquents et graves, dont deux concernent exclusivement les femmes: les [cancers du sein]({{% relref "cancer-sein.md" %}}) et du [col de l'utérus]({{% relref "cancer-col-uterus.md" %}}), ainsi que le [cancer colorectal]({{% relref "cancer-colorectal.md" %}}) pour tous de 50 à 74 ans.

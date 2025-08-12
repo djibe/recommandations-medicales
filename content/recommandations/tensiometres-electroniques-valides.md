@@ -20,7 +20,7 @@ sctid = "135840009"
 icd10 = []
 image = true
 imageSrc = "Tensiomètre électronique. Freepik"
-todo = "update"
+todo = "update 2026"
 datatable = true
 +++
 

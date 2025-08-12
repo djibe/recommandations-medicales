@@ -3,6 +3,8 @@ id = "019884c4-5696-79a8-9952-794bb4fd4133"
 title = "Perfusions à domicile (dispositif PERFADOM): prescriptions de référence"
 titleSeo = "Perfusions à domicile PERFADOM"
 prefix = "les "
+noSearchContent = true
+longHtml = true
 description = "Des perfusions peuvent être réalisées par les infirmiers à domicile. Consignes pour les perfusions les plus fréquentes: ceftriaxone, acide zolédronique, amoxicilline, midazolam ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
@@ -18,14 +20,14 @@ sctid = "47281000175104"
 icd10 = []
 image = true
 imageSrc = "Les perfusions à domicile / Freepik"
-todo = "update 2025"
+todo = "update 2026"
 datatable = true
 +++
 
 {{%article-summary%}}
 
 - Le dispositif PERFADOM permet la prescription, la dispensation et le remboursement de perfusions réalisées à domicile (hors HAD) par des infirmiers
-- Le guide des bonnes pratiques Resomedit précise aux médecins les doses et conditions habituelles de perfusion ambulatoire de 38 médicaments classiques (acide zolédronique, ceftriaxone, midazolam ...) couramment réalisées en ville
+- Le guide des bonnes pratiques *Resomedit* précise aux médecins les doses et conditions habituelles de perfusion ambulatoire de 38 médicaments classiques (acide zolédronique, ceftriaxone, midazolam ...) couramment réalisées en ville
 
 {{%/article-summary%}}
 

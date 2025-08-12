@@ -14,7 +14,7 @@ tags = []
 chart = true
 image = true
 imageSrc = "vectorjuice / Freepik"
-todo = "update, écriture SEO dont 'cotisation ordre des médecins', valeur C"
+todo = "update 2026, écriture SEO dont 'cotisation ordre des médecins', valeur C"
 +++
 
 ## Évolution du montant de la cotisation à l'Ordre des médecins

@@ -302,24 +302,24 @@ En cas de conisation ou trachélectomie simple ou élargie: Test HPV-HR à 6 moi
 {{% /collapse %}}
 {{%sources%}}
 
+- [Service-Public. Une nouvelle vaccination proposée aux élèves de 5e. 04/08/2025.](https://www.service-public.fr/particuliers/actualites/A16438)
+- [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. 30/04/2025.](https://www.cancer.fr/professionnels-de-sante/prevention-et-depistages/prevention/agents-infectieux/prevenir-les-cancers-lies-aux-hpv)
 - [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [HAS. Vaccination contre les papillomavirus : élargissement de la cohorte de rattrapage vaccinal chez les hommes et les femmes jusqu'à 26 ans révolus. 2025.](https://www.has-sante.fr/jcms/p_3605114/fr/vaccination-contre-les-papillomavirus-elargissement-de-la-cohorte-de-rattrapage-vaccinal-chez-les-hommes-et-les-femmes-jusqu-a-26-ans-revolus)
 - {{< references/calendrier-vaccinal >}}
-- [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. 20/09/2024.](https://www.e-cancer.fr/Professionnels-de-sante/Facteurs-de-risque-et-de-protection/Agents-infectieux/Prevenir-les-cancers-lies-aux-HPV)
 - [Inserm. Papillomavirus : faut-il généraliser la vaccination ?. 27/03/2023.](https://www.inserm.fr/actualite/papillomavirus-faut-il-generaliser-la-vaccination/)
-- [Service-Public. Papillomavirus : vaccination généralisée à la rentrée 2023 pour les élèves de 5e. 07/03/2023.](https://www.service-public.fr/particuliers/actualites/A16438)
+- [INCa. Le dépistage du cancer du col de l'utérus en pratique. Collection Outils pour la pratique. 2023. (PDF)](https://www.cancer.fr/catalogue-des-publications/depliant-depistage-du-cancer-du-col-de-l-uterus-guide-pratique)
 - {{< references/beh-cancers-incidence >}}
 - {{< references/inca-cancers-mortalite >}}
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 - [Hanguehard R, et al. Couverture vaccinale contre les infections à papillomavirus humain des filles âgées de 15 à 18 ans et déterminants de vaccination, France, 2021. BEH. 2022.](http://beh.santepubliquefrance.fr/beh/2022/24-25/2022_24-25_3.html)
 - [INCa. Cancers invasifs du col utérin - Du diagnostic au suivi. 2021.](https://www.cancer.fr/professionnels-de-sante/recommandations-et-aide-a-la-pratique/outils-pour-la-pratique-des-medecins-generalistes/outils-par-localisation-de-cancer/cancers-invasifs-du-col-uterin)
 - [INCa. Les cancers invasifs du col utérin en 10 points clés. 2021.](https://www.cancer.fr/professionnels-de-sante/recommandations-et-aide-a-la-pratique/outils-pour-la-pratique-des-medecins-generalistes/outils-par-localisation-de-cancer/cancers-invasifs-du-col-uterin)
-- [INCa. Le dépistage du cancer du col de l'utérus en pratique. Collection Outils pour la pratique. 2020. (PDF)](https://www.e-cancer.fr/content/download/307096/4383798/file/Outil-Pratique-Uterus-2021-@%20DEF%2012032021.pdf)
-- [INCa. Dépistage et prévention de cancer du col de l'utérus - Rôle du médecin et de la sage-femme. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Depistage-et-prevention-de-cancer-du-col-de-l-uterus-Role-du-medecin-et-de-la-sage-femme)
+- [INCa. Dépistage et prévention de cancer du col de l'utérus - Rôle du médecin et de la sage-femme. 2020.](https://www.cancer.fr/catalogue-des-publications/depistage-et-prevention-du-cancer-du-col-de-l-uterus-role-du-medecin-et-de-la-sage-femme)
 - [HAS. Évaluation de la recherche des papillomavirus humains (HPV) en dépistage primaire des lésions précancéreuses et cancéreuses du col de l'utérus et de la place du double immuno-marquage p16/Ki67. 2019.](https://www.has-sante.fr/jcms/c_2806160/fr/evaluation-de-la-recherche-des-papillomavirus-humains-hpv-en-depistage-primaire-des-lesions-precancereuses-et-cancereuses-du-col-de-l-uterus-et-de-la-place-du-double-immuno-marquage-p16/ki67)
 - [Marth C, et al. Cervical cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology. 2017.](https://www.annalsofoncology.org/article/S0923-7534(19)42148-0/fulltext)
 - [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
-- [INCa. Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale. 2017.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Conduite-a-tenir-devant-une-femme-ayant-une-cytologie-cervico-uterine-anormale)
+- [INCa. Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale. 2017.](https://www.cancer.fr/catalogue-des-publications/conduite-a-tenir-devant-une-femme-ayant-une-cytologie-cervico-uterine-anormale-version-interactive-a-telecharger)
 - [HAS. Cancer invasif du col utérin. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_lap_col_uterin_web.pdf)
 - [HAS. Cancer invasif du col utérin. Janvier 2010. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_gm_col_uterin_web_2010-02-12_09-57-34_599.pdf)
 - [Vaccination Info Service. Les infections à papillomavirus humains (HPV).](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Les-Infections-a-Papillomavirus-humains-HPV)

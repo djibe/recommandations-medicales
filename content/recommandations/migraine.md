@@ -575,7 +575,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [ANSM. Topiramate (Epitomax et génériques) : évolution des conditions de prescription et de délivrance pour améliorer l’accès aux soins des femmes souffrant de migraine. 13/12/2024.](https://ansm.sante.fr/actualites/topiramate-epitomax-et-generiques-evolution-des-conditions-de-prescription-et-de-delivrance-pour-ameliorer-lacces-aux-soins-des-femmes-souffrant-de-migraine)
+- [RFCRPV. Point sur les anti-CGRP (calcitonine gene-related peptide) utilisés dans la migraine](https://www.rfcrpv.fr/point-sur-les-anti-cgrp-calcitonine-gene-related-peptide-utilises-dans-la-migraine/)
+- [ANSM. Topiramate (Epitomax et génériques) : évolution des conditions de prescription et de délivrance pour améliorer l'accès aux soins des femmes souffrant de migraine. 13/12/2024.](https://ansm.sante.fr/actualites/topiramate-epitomax-et-generiques-evolution-des-conditions-de-prescription-et-de-delivrance-pour-ameliorer-lacces-aux-soins-des-femmes-souffrant-de-migraine)
 - [Demarquay G, et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 1: Diagnosis and assessment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.001) ([VF](https://www.sciencedirect.com/science/article/pii/S2666479822002208))
 - [Ducros A, et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 2: Pharmacological treatment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.006) ([VF](https://www.sciencedirect.com/science/article/pii/S2666479822002191))
 - [Demarquay G, et al. Revised guidelines of the French headache society for the diagnosis and management of migraine in adults. Part 3: Non-pharmacological treatment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.009)

@@ -11,7 +11,7 @@ sources = ["CNAM"]
 tags = []
 image = true
 imageSrc = "vectorjuice / Freepik"
-todo = "écriture SEO, update"
+todo = "écriture SEO, update 2026"
 +++
 
 Le **Forfait structure** correspond à une prime annuelle versée par l'*Assurance Maladie* pour favoriser l'engagement des médecins dans le respect des protocoles numériques du système de santé (logiciels, aide à la prescription, feuilles de soins électroniques, messagerie sécurisée ...) et des modes d'exercices coordonnés.  
