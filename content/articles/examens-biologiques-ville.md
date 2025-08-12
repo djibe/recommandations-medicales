@@ -13,7 +13,7 @@ sources = []
 tags = []
 image = true
 imageSrc = "par Freepik"
-todo = "update https://www.data.gouv.fr/fr/datasets/open-bio-base-complete-sur-les-depenses-de-biologie-medicale-interregimes/"
+todo = "update 2025"
 datatable = true
 +++
 
@@ -61,13 +61,13 @@ Ensemble des examens biologiques remboursés en ville sur prescription d'un méd
 
 ## Source
 
-[Assurance Maladie. Open Bio : bases complémentaires sur les dépenses de biologie médicale - 2014 à 2023. 19/03/2024.](https://www.assurance-maladie.ameli.fr/etudes-et-donnees/open-bio-depenses-beneficiaires-biologie-medicale)
+[Assurance Maladie. Open Bio : base complète sur les dépenses de biologie médicale interrégimes. data.gouv.fr. 2025.](https://www.data.gouv.fr/fr/datasets/open-bio-base-complete-sur-les-depenses-de-biologie-medicale-interregimes/)
 
 <script type="module">
 window.addEventListener('load', () => {
   $(function () {
     $('#open-bio').DataTable({
-      ajax: '/data/open-bio.json',
+      ajax: '/data/open-bio-2023.json',
       columns: [
         { data: 'L_ACTE' },
         { data: 'DNB' },
