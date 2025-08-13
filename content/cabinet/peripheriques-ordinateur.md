@@ -30,7 +30,7 @@ Imprimantes choisies par 01Net et UFC Que Choisir.
 Imprimantes laser monochromes Wi-Fi (non multifonction) permettant d'utiliser des **toners compatibles moins chers** (ex: 20€ contre les 80€ officiels grâce aux boutiques *CartoucheMania*, *Tinkco*, *Toner.fr* ...), triées par note *UFC Que Choisir* et mon coup de cœur en premier:
 
 - [Choix: Brother HL-L2865DW (vitesse, petite taille, R/V, coût d'utilisation) - 140€](https://www.idealo.fr/prix/204559569/brother-hl-l2865dw.html)
-- [Brother HL-L2400DW (vitesse, petite taille, R/V, coût d'utilisation) - 130€](https://www.idealo.fr/prix/203365753/brother-hl-l2400dw.html)
+- [Brother HL-L2400DW ou HL-L2400DWE (vitesse, petite taille, R/V, coût d'utilisation) - 130€](https://www.idealo.fr/prix/203365753/brother-hl-l2400dw.html)
 - [Brother HL-L2375DW (idem + réseau) - 160€](https://ledenicheur.fr/product.php?p=4533630)
 - Canon i-Sensys LBP113w (pas de toners compatibles ++, réseau)
 - [Canon i-Sensys LBP223dw - 264€ (réseau)](https://ledenicheur.fr/product.php?p=6030116)

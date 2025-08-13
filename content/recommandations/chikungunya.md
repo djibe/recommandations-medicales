@@ -22,13 +22,13 @@ todo = "rankok | flow"
 
 {{%article-summary%}}
 
-- Le chikungunya est une arbovirose transmise par le moustique tigre (*Aedes albopictus*) et son cousin *Aedes aegypti*, avec pour complications des arthralgies prolongées et des formes graves chez les immunodéprimés et les +65 ans
+- Le chikungunya est une arbovirose transmise par le moustique tigre (*Aedes albopictus*) et son cousin *Aedes aegypti* qui agissent comme vecteurs inter-humains. Les complications sont des arthralgies prolongées et des formes graves chez les immunodéprimés et les +65 ans
 - Une épidémie sévit à La Réunion
 - Les symptômes typiques du chikungunya sont un syndrome pseudo-grippal brutal avec fièvre élevée, arthralgies des extrémités et exanthème maculopapuleux. Les arthralgies persistent plus d'un mois dans la moitié des cas
 - Le bilan d'une suspicion de chikungunya comprend selon l'ancienneté des symptômes: un PCR jusqu'à J5, PCR et sérologie de J5 à J7 puis la sérologie avec IgG et IgM au-delà. Le bilan est couplé à la recherche de la dengue ± zika
 - La prévention du chikungunya comprend la vaccination des adultes avec comorbidité de 18 à 64 ans et la protection anti-vectorielle (contre les piqûres de moustiques)
 - Les critères d'hospitalisation sont les formes graves, hyperalgiques et les comorbidités sévères
-- La prise en charge du chikungunya est symptomatique avec: antalgie/antipyrexie, hydratation et protection contre les piqûres de moustiques pour limiter les diffusion de la maladie
+- La prise en charge du chikungunya est symptomatique avec: antalgie/antipyrexie, hydratation et protection contre les piqûres de moustiques pour limiter la diffusion de la maladie
 - Le chikungunya est une maladie à déclaration obligatoire à l'ARS
 
 Chapitre lié: [fièvre jaune]({{% relref "fievre-jaune.md" %}})
@@ -38,7 +38,7 @@ Chapitre lié: [fièvre jaune]({{% relref "fievre-jaune.md" %}})
 
 Chikungunya
 : << qui marche courbé en avant >> en Makondée (peuple d'Afrique australe).
-: Arbovirose ARN (*Alphavirus chikungunya*) transmise par les moustiques *Aedes albopictus* (moustique tigre) et *Aedes aegypti* principalement en Amérique du Sud, sans traitement curatif disponible et à déclaration obligatoire.
+: Arbovirose ARN (*Alphavirus chikungunya*) transmise par les moustiques *Aedes albopictus* (moustique tigre) et *Aedes aegypti* principalement en Amérique du Sud, sans traitement curatif disponible et à déclaration obligatoire. Le moustique pique un sujet infecté et va contaminer une autre personne.
 : Les complications sont des symptômes prolongés (douleurs, incapacité) et des formes graves neurologiques chez les immunodéprimés et les sujets âgés (+65 ans, surtout ceux ayant des comorbidités). Le taux de décès est comparable à la grippe saisonnière (0,01 - 0,1 %).
 : Les moustiques du genre *Aedes* (rayé noir et blanc) piquent en journée (principalement tôt le matin et avant le coucher du soleil) et transmettent également la dengue, la fièvre jaune et le virus Zika. Ils pondent dans les réservoirs anthropiques d'eau (vases, gouttières, pneus ...)
 
@@ -105,7 +105,7 @@ Le mode d'action du virus est mal connu, l'**incubation dure de 4 à 7 jours** (
   - ==**Arthralgies intenses**== des extrémités  
     Poignets, doigts, chevilles, pieds, genoux (plus rarement hanches ou épaules), persistantes plus d'un mois dans la moitié des cas.
   - Signes généraux: ==**fièvre élevée**== brutale, syndrome pseudo-grippal (**céphalées**, myalgies)
-  - [Exanthème maculopapuleux](/tags/eruption febrile/) du tronc et des membres
+  - [Exanthème maculopapuleux](/tags/eruption-febrile/) du tronc et des membres
   - Conjonctivite
   - Adénopathies cervicales
   - Plus rarement: épistaxis et gingivorragies bénignes (surtout chez les enfants)

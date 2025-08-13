@@ -179,7 +179,7 @@ Nouveaux examens de suivi (scanner et IRM) à 3, 6 et 12 mois:
 
 - [Tenner S, et al. American College of Gastroenterology Guidelines: Management of Acute Pancreatitis. Am J Gastroenterol. 2024.](https://journals.lww.com/ajg/fulltext/2024/03000/american_college_of_gastroenterology_guidelines_.14.aspx)
 - {{< references/college-gastro >}}
-- [INCa. Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Synthèse. 2019.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Synthese-Conduites-a-tenir-devant-des-patients-atteints-d-adenocarcinomes-du-pancreas)
+- [INCa. Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Synthèse. 2019.](https://www.cancer.fr/catalogue-des-publications/synthese-conduites-a-tenir-devant-des-patients-atteints-d-adenocarcinomes-du-pancreas)
 - [Greenberg JA, et al. Clinical practice guideline: management of acute pancreatitis. Can J Surg. 2016.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27007094/)
 - [Banks PA, et al. Classification of acute pancreatitis--2012: revision of the Atlanta classification and definitions by international consensus. Gut. 2013.](https://gut.bmj.com/content/62/1/102.long)
 

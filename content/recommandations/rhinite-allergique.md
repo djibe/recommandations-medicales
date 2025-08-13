@@ -30,7 +30,7 @@ flowchart = true
 - Bilan de la rhinite allergique: tests cutanés allergiques (prick-tests) sauf cas de rhinite saisonnière
 - Avis pneumologique en cas de suspicion d'un asthme associé
 - Traitement symptomatique selon la sévérité: éviction de l'allergène toujours, DRP, antihistaminique oral ou corticoïdes locaux d'emblée
-- [Carte des pollens](https://www.pollens.fr)
+- [Carte des pollens](https://www.atmo-france.org)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -143,7 +143,7 @@ TCA
 > [!INFO]
 > << La sévérité des symptômes est généralement sous-estimée par les médecins >>. -- *SFORL*
 
-{{< card-link-external title="Carte du Risque d'Allergie aux Pollens" url="https://www.pollens.fr" subtitle="pollens.fr">}}
+{{< card-link-external title="Carte de l'indice pollen" url="https://www.atmo-france.org" subtitle="Atmo France">}}
 
 ### Examen clinique
 

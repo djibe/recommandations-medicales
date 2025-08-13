@@ -20,7 +20,7 @@ sctid = "47281000175104"
 icd10 = []
 image = true
 imageSrc = "Les perfusions à domicile / Freepik"
-todo = "update 2026"
+todo = "update 2026, modeles"
 datatable = true
 +++
 

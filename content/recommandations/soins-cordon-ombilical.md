@@ -18,7 +18,7 @@ sctid = "225233005"
 icd10 = []
 image = false
 imageSrc = ""
-todo = "liens > photo > Kanban"
+todo = "photo | relecture"
 +++
 
 {{%article-summary%}}
@@ -36,7 +36,7 @@ Chute du cordon ombilical
 : Le cordon peut être une source d'infection: l'**omphalite**.
 
 Omphalite
-: Infection rare du nouveau-né (0,6 - 1,34 %) à partir de son cordon ombilical, avec un des signes inflammatoires locaux ou un écoulement séreux au niveau du cordon ou des tissus péri-ombilicaux.
+: Infection rare du nouveau-né (0,6 - 1,34 %) à partir de son cordon ombilical, avec des signes inflammatoires locaux ou un écoulement séreux au niveau du cordon ou des tissus péri-ombilicaux.
 : Elle peut évoluer vers un sepsis en l'absence de traitement (parmi les premières causes de morbi-mortalité dans les pays en développement).
 
 ### Abréviations

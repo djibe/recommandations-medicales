@@ -86,7 +86,7 @@ Acariens présents dans les aliments: récipients hermétiques au congélateur.
 
 ### Allergies aux pollens
 
-- Alerte pollinique: [pollens.fr](https://www.pollens.fr)
+- Alerte pollinique: [Atmo France](https://www.atmo-france.org)
 - Éviter les promenades en prairies et chemins en cas d'alerte pollinique forte
 - Fermer les fenêtres en milieu de matinée et début d'après-midi
 - Fermer les fenêtres en voiture

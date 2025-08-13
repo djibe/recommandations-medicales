@@ -278,7 +278,7 @@ graph TB
 - [Rebours V. Les chiffres du cancer du pancréas dans le monde : l'effroyable raz-de-marée. GastroScoop. 17/11/2021.
 - [INCa. Les cancers du pancréas en 12 points clés. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-cancers-du-pancreas-en-12-points-cles)
 - [INCa. Cancer du pancréas - Du diagnostic au suivi. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancers-du-pancreas-Du-diagnostic-au-suivi)
-- [INCa. Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Synthèse. 2019.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Synthese-Conduites-a-tenir-devant-des-patients-atteints-d-adenocarcinomes-du-pancreas)
+- [INCa. Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Synthèse. 2019.](https://www.cancer.fr/catalogue-des-publications/synthese-conduites-a-tenir-devant-des-patients-atteints-d-adenocarcinomes-du-pancreas)
 - [Ducreux M, et al. Cancer of the pancreas: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Annals of Oncology. 2015.](https://www.annalsofoncology.org/article/S0923-7534(19)47178-0/fulltext)
 - {{< references/aderim >}}
 

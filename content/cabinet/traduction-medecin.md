@@ -7,8 +7,8 @@ longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-23T14:40:00+02:00"
 publishdate = "2023-06-23"
-lastmod = "2024-06-13"
-annees = "2023"
+lastmod = "2025-08-12"
+annees = "2025"
 sources = []
 tags = []
 image = true
@@ -35,6 +35,12 @@ L'application *DeepL* n'a pas été retenue, l'arabe et le vietnamien n'étant p
 
 - Mediglotte ([Android](https://play.google.com/store/search?q=mediglotte&c=apps), [iPhone](https://apps.apple.com/fr/app/mediglotte/id1530674172))
 - TraducMed ([Web](http://www.traducmed.fr/), [Android](https://play.google.com/store/apps/details?id=fr.bilog.traducmed&hl=fr), [iPhone](https://apps.apple.com/us/app/traducmed/id1072676163))
+
+## Traduction en langue des signes
+
+Pour les patients sourds muets.
+
+{{< card-link-external title="LeDicoElix" url="https://dico.elix-lsf.fr/index-alphabetique" subtitle="Traduction en langue des signes">}}
 
 ## Site d'aide à la traduction
 

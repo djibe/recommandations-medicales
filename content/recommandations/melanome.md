@@ -353,8 +353,8 @@ risque["<b>Sujet à risque de mélanome</b><br>—<br>- Phototype clair<br>- Ép
 
 - [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - {{< references/voyageur >}}
-- [INCa. Mélanomes cutanés - Du diagnostic au suivi. 2024.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Melanomes-cutanes-Du-diagnostic-au-suivi)
-- [INCa. Les mélanomes cutanés en 10 points clés. 2024.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-melanomes-cutanes-en-10-points-cles)
+- [INCa. Mélanomes cutanés - Du diagnostic au suivi. 2024.](https://www.cancer.fr/catalogue-des-publications/melanomes-cutanes-du-diagnostic-au-suivi)
+- [INCa. Les mélanomes cutanés en 10 points clés. 2024.](https://www.cancer.fr/catalogue-des-publications/les-melanomes-cutanes-en-10-points-cles)
 - {{< references/inca-cancers-mortalite >}}
 - [Garbe C, et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00152-6/fulltext)
 - [Garbe C, et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 2: Treatment - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00228-3/fulltext)
@@ -365,10 +365,10 @@ risque["<b>Sujet à risque de mélanome</b><br>—<br>- Phototype clair<br>- Ép
 - [HAS. Mélanome cutané : la détection précoce est essentielle. 11/02/2020.](https://www.has-sante.fr/jcms/pprd_2974838/fr/melanome-cutane-la-detection-precoce-est-essentielle?fbclid=IwAR0lsNr1vfC7AvM-SeKrLZlYNiRb0q4bgx4_mgwkQRRjHLJNMPPIlmxWC_U)
 - [Oncologik. Mélanomes vulvaires et vaginaux. 24/01/2020.](http://oncologik.fr/referentiels/rrc/melanomes-vulvaires-et-vaginaux)
 - [Oncologik. Mélanome cutané. 22/03/2019.](http://oncologik.fr/referentiels/oncolor/melanome-cutane)
-- [INCa. Traitements du mélanome avancé. Novembre 2017.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Traitements-du-melanome-avance)
+- [INCa. Traitements du mélanome avancé. 2017.](https://www.cancer.fr/catalogue-des-publications/traitements-du-melanome-avance)
 - Collège des enseignants de dermatologie de France (CEDEF). Tumeurs cutanées épithéliales et mélaniques. Item 299 UE 9. 2017.
-- [INCa. Détection précoce des cancers de la peau - Médecins généralistes. Octobre 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Detection-precoce-des-cancers-de-la-peau-Medecins-generalistes)
-- [HAS. Mélanome cutané. Janvier 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-03/ald_30_guide_melanome_web.pdf)
+- [INCa. Détection précoce des cancers de la peau - Médecins généralistes. 2016.](https://www.cancer.fr/catalogue-des-publications/detection-precoce-des-cancers-de-la-peau-medecins-generalistes)
+- [HAS. Mélanome cutané. 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-03/ald_30_guide_melanome_web.pdf)
 - [Société Française de Dermatologie. Recommandations pour la Pratique Clinique : Standards, Options et Recommandations 2005 pour la prise en charge des patients adultes atteints d'un mélanome cutané MO. 2005. (PDF)](https://www.oncoderm.fr/upload/recommandations/9738-Prise-en-charge-des-meAlanome.pdf)
 
 ### Bibliographie en attente
