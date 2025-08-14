@@ -9,9 +9,9 @@ synonyms = ["Bilan de prévention"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-08-23T13:56:41+02:00"
 publishdate = "2024-08-29"
-lastmod = "2025-01-04"
+lastmod = "2025-08-14"
 specialites = ["certificats"]
-annees = "2024"
+annees = "2025"
 sources = ["MinSanté"]
 tags = ["prevention"]
 english = []
@@ -88,7 +88,10 @@ todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
 
 - Troubles anxieux et [dépressifs]({{% relref "depression.md" %}}): ({{< modal-btn modal-adrs >}}questionnaire ADRS{{< /modal-btn >}} jusqu'à 20 ans puis {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}})
 - Troubles du comportement alimentaire ({{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}})
-- Femme: [ménorragies]({{% relref "menorragies.md" %}}), [dysménorrhées]({{% relref "endometriose.md" %}})
+- Dépistage des IST si rapports non protégés, éducation
+- Chez la femme:
+  - Sexuellement active de 15 à 25 ans: prélèvement vaginal pour PCR des IST
+  - [Ménorragies]({{% relref "menorragies.md" %}}), [dysménorrhées]({{% relref "endometriose.md" %}})
 
 </div>
 <div aria-labelledby="tab-45" class="tab-pane fade" id="div-45" role="tabpanel">

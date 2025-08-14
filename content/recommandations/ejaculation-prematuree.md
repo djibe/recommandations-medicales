@@ -133,7 +133,7 @@ Interrogatoire proposé par l'AIUS pour l'évaluation d'une plainte d'éjaculati
 Aucun bilan complémentaire de l'éjaculation précoce n'est systématique.
 
 - Si suspicion d'hyperthyroïdie: TSH
-- Bilan prostatique en cas de douleurs pelviennes chroniques (surtout si EP acquise).
+- Bilan prostatique en cas de douleurs pelviennes chroniques (surtout si EP acquise)
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'éjaculation prématurée" %}}

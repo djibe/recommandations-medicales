@@ -19,7 +19,7 @@ icd10 = ["Q89.0"]
 image = true
 imageWEBP = true
 imageSrc = "Illustration de la rate par scientificanimations.com, CC BY-SA 4.0"
-todo = "rankok, Fièvre du splénectomisé"
+todo = "rankok | Fièvre du splénectomisé"
 flowchart = true
 +++
 
@@ -74,8 +74,7 @@ Causes d'asplénie et d'hyposplénie:
 - Asplénisme thérapeutique (radiothérapie)
 - Causes congénitales
   - **Drépanocytose homozygote**
-  - Syndromiques: syndrome d'Ivemark, polysplénie polyendocrinopathie auto-immune de type I (syndrome APECED), syndrome de
-Stormorken
+  - Syndromiques: syndrome d'Ivemark, polysplénie polyendocrinopathie auto-immune de type I (syndrome APECED), syndrome de Stormorken
   - Asplénie isolée congénitale sporadique ou familiale
   - Autres hémoglobinopathies: thalassémie majeure, sphérocytose
 - Transplantation médullaire
@@ -88,9 +87,10 @@ Stormorken
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+Bilan de l'asplénie:
+
+- Frottis sanguin (corps de Jolly)
 - Échographie de la rate
-- Frottis sanguin  
-  Présence de corps de Jolly.
 
 {{% /collapse %}}
 {{%collapse "Antibioprophylaxie de l'asplénie" %}}

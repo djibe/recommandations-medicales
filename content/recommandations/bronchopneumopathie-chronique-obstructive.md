@@ -255,7 +255,7 @@ Tabagisme, âge +35 ans, dyspnée persistante et progressive, décrite comme né
 
 {{%info%}}
 
-### Bilan de le bronchopneumopathie chronique obstructive (BPCO)
+### Bilan de la bronchopneumopathie chronique obstructive (BPCO)
 
 - NFS (hématocrite, éosinophiles)
 - Glycémie à jeun

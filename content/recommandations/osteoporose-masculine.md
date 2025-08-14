@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-11T16:28:37+02:00"
 publishdate = "2023-05-15"
-lastmod = "2023-05-15"
+lastmod = "2025-08-14"
 specialites = ["rhumatologie"]
 annees = "2023"
 sources = ["HAS", "SFRhumato", "GRIO"]
@@ -30,9 +30,9 @@ flowchart = true
 4. Avis rhumatologique si: -70 ans, hypogonadisme, T-score proche de l'indication de traiter, contre-indication au traitement, après 2-3 ans de traitement
 5. Prise en charge par biphosphonate: bilan bucco-dentaire, [zolédronate 5 mg/100 mL](https://bdpm.ansm.sante.fr/medicament/66175242/extrait#tab-rcp) IVL à domicile (pas avant J+15 de la fracture) ou [risédronate 35 mg/sem](https://bdpm.ansm.sante.fr/medicament/66887599/extrait#tab-rcp) (tériparatide SC possible pour ≥ 2 fractures vertébrales)  
   Au moins 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)
-1. {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} et souvent supplémenter à distance des repas, supplémenter en vitamine D
-2. Contrôle de l'ostéodensitométrie à 2-3 ans + avis rhumatologique
-3. Nouveau contrôle de la DXA 2 ans après l'arrêt du traitement
+6. {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} et souvent supplémenter à distance des repas, supplémentation quotidienne avec 800-1000 UI/j de vitamine D
+7. Contrôle de l'ostéodensitométrie à 2-3 ans + avis rhumatologique
+8. Nouveau contrôle de la DXA 2 ans après l'arrêt du traitement
 
 ### Prévention pour tous {.typography-overline .mb-2}
 
@@ -293,13 +293,14 @@ graph TB
 
 {{< card-link-external title="FMC GRIO - Ostéoporose Masculine" url="https://www.grio.org/membres/video-webcast.php" subtitle="Le point sur les recommandations françaises de la prise en charge de l'ostéoporose masculine">}}
 
+- [Pickering ME, et al. Supplémentation quotidienne ou intermittente en vitamine D chez les personnes avec ou à risque d'ostéoporose: Position du GRIO. Revue du Rhumatisme. 2025.](https://www.sciencedirect.com/science/article/pii/S1169833025001735)
 - [HAS. Les médicaments de l'ostéoporose. Bon usage du médicament. 2023.](https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-l-osteoporose)
 - [Biver E et al. Dietary recommendations in the prevention and treatment of osteoporosis. Joint Bone Spine. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X22001816)
 - [Bouvard P et al; GRIO. Recommandations françaises de la prise en charge et du traitement de l'ostéoporose masculine. Revue du Rhumatisme. 2021. (PDF)](https://www.grio.org/documents/page246/reco-op-masculine.pdf)
 
-### Bibliographie en attente
+### Bibliographie pour en savoir plus
 
-[Fuggle NR et al. Evidence-Based Guideline for the management of osteoporosis in men. Nat Rev Rheumatol. 2024.](https://www.nature.com/articles/s41584-024-01094-9)
+[Fuggle NR, et al. Evidence-Based Guideline for the management of osteoporosis in men. Nat Rev Rheumatol. 2024.](https://www.nature.com/articles/s41584-024-01094-9)
 
 {{%/sources%}}
 {{% modal title="Fractures ostéoporotiques dites sévères" id="modal-fracture-severe"%}}

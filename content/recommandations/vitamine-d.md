@@ -8,10 +8,10 @@ synonyms = ["Cholécalciferol vitamine D3", "ergocalciférol vitamine D2"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-15T00:28:29+02:00"
 publishdate = "2020-04-15"
-lastmod = "2025-02-04"
+lastmod = "2025-08-14"
 specialites = ["endocrinologie", "pédiatrie", "thérapeutique"]
-annees = "2022"
-sources = ["SFP", "HAS", "SFR"]
+annees = "2025"
+sources = ["GRIO", "SFP", "HAS", "SFR"]
 tags = ["depistage", "vitamine d", "chute", "nourrisson", "enfant", "adolescent"]
 english = ["Vitamin D"]
 sctid = "30178006"
@@ -113,7 +113,7 @@ Convertir dans les 2 sens les unités de mesure de la vitamine D: nmol/L (unité
 - Anorexie mentale
 - Sujets âgés à {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}}
 
-**NB.** À partir de 65 ans (sauf exposition solaire et bonne santé), le risque d'hypovitaminose est marqué. Correction de 300.000 UI sur 3 mois et protocole d'entretien sans dosage.
+**NB.** À partir de 65 ans (sauf exposition solaire et bonne santé), le risque d'hypovitaminose est marqué. Correction de 300.000 UI (doses ≤ 50.000 UI) sur 3 mois et protocole d'entretien sans dosage.
 
 ### Trois objectifs pour les personnes à risque de carence
 
@@ -214,6 +214,9 @@ Nouveau dosage 1 semaine après la fin du traitement.
 
 #### Dosage et adaptation du protocole d'entretien
 
+Chez le sujets ostéoporotique, privilégier un apport quotidien de 800 à 1000 UI/j.
+{.alert .alert-info}
+
 Dose réajustée selon le nouveau résultat du dosage de vitamine D après 3 à 6 mois d'entretien et **poursuivi à vie**:
 
 - Dosage < 75 nmol/L (30 ng/mL)  
@@ -251,6 +254,9 @@ Aliments naturellement riches en vitamine D:
 
 {{% /collapse %}}
 {{%collapse "Spécialités de vitamine D disponibles" %}}
+
+Chez le sujets ostéoporotique, privilégier un apport quotidien de 800 à 1000 UI/j.
+{.alert .alert-info}
 
 La vitamine D est [prise pendant le repas]({{% relref "medicaments-prise-repas.md" %}}).
 
@@ -292,6 +298,7 @@ Ne pas utiliser d'autres formes de supplémentations.
 {{% /collapse %}}
 {{%sources%}}
 
+- [Pickering ME, et al. Supplémentation quotidienne ou intermittente en vitamine D chez les personnes avec ou à risque d'ostéoporose: Position du GRIO. Revue du Rhumatisme. 2025.](https://www.sciencedirect.com/science/article/pii/S1169833025001735)
 - [Ameli. Dosage de la vitamine D. 26/02/2025.](https://www.ameli.fr/paris/laboratoire-danalyses-medicales/exercice-liberal/memos/dosage-vitamine)
 - [Bacchetta J, et al; CRMR Maladies Rares du Calcium et du Phosphate, Société Française de pédiatrie, Société Française de Pharmacie Clinique, Conseil National de l'Ordre des Sages-Femmes, Collège National des Sages-femmes de France. Lettre du 23 janvier 2025. 2025. (PDF)](https://sfpc.eu/wp-content/uploads/2025/01/Vitamine-D-Courrier-Conjoint.pdf)
 - [Bacchetta J et al; SFP, SFneonatalogie, AFPA et al. Vitamin D and calcium intakes in general pediatric populations: A French expert consensus paper. Archives de pédiatrie. 2022. (PDF)](https://afpa.org/content/uploads/2022/03/Vitamin-D-and-calcium-intakes-in-general-pediatric-populations-A-French-expert-consensus-paper-20-02-2022.pdf)
@@ -308,7 +315,6 @@ Ne pas utiliser d'autres formes de supplémentations.
 
 ### Bibliographie en attente
 
-- [Pickering Ma, et al. Supplémentation quotidienne ou intermittente en vitamine D chez les personnes avec ou à risque d'ostéoporose: Position du GRIO. Revue du Rhumatisme. 2025.](https://www.sciencedirect.com/science/article/pii/S1169833025001735)
 - [HCSP. Avis relatif à la couverture des besoins de la population générale en vitamine D et en fer. 21/06/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1251)
 
 {{%/sources%}}

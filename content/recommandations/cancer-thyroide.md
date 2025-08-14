@@ -112,7 +112,7 @@ Signes et symptômes devant faire rechercher un cancer de la thyroïde:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan de la suspicion de cancer de la thyroïde
+### Bilan d'une suspicion de cancer thyroïdien
 
 NFS, TSH et échographie cervicale
 {.alert .alert-info}

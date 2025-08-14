@@ -140,7 +140,7 @@ La grille d'évaluation Clinical Dehydration Scale (CDS) est couplée à l'impre
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Aucun examen complémentaire n'est utile pour une diarrhée traitée en ville, sauf indications à une coproculture en l'absence de critères d'hospitalisation:
+Aucun bilan n'est utile pour une diarrhée traitée en ville sauf indication à une coproculture (en l'absence de critères d'hospitalisation):
 
 - Diarrhée entéro-invasive (syndrome dysentérique)
 - Diarrhée et sepsis

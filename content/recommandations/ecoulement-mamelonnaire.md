@@ -109,7 +109,7 @@ L'écoulement mamelonnaire (EM) bénin est typiquement lactescent, bilatéral, p
 
 {{%info%}}
 
-### Bilan devant un écoulement mamelonnaire unilatéral
+### Bilan d'un écoulement mamelonnaire unilatéral
 
 - Mammographies  
   {{%class%}}Faible sensibilité pour le diagnostic de cancer en EM.{{%/class%}}
@@ -121,8 +121,7 @@ Adresser au spécialiste avec les résultats.
 
 {{%/info%}}
 
-Un écoulement bilatéral ne nécessite pas d'imagerie sauf dépistage adapté ou aspect sanglant.  
-Biopsie de toute lésion radiologique.
+Un **écoulement bilatéral** ne nécessite pas d'imagerie sauf dépistage adapté ou aspect sanglant. Biopsie de toute lésion radiologique.
 
 ### IRM mammaire
 

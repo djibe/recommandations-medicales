@@ -10,7 +10,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr B. CORTET et T. FUNCK-BRENTANO (SFR, GRIO)"
 date = "2020-09-04T17:43:41+02:00"
 publishdate = "2021-12-06"
-lastmod = "2025-01-16"
+lastmod = "2025-08-14"
 specialites = ["rhumatologie"]
 annees = "2023"
 sources = ["HAS", "SFRhumato", "GRIO", "IOF"]
@@ -22,7 +22,7 @@ image = true
 imageSrc = "Illustration de l'ostéoporose par BruceBlaus, CC BY-SA 4.0 via Wikimedia Commons"
 flowchart = true
 slider = true
-todo = "rankok, https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, HAS 2005 chutes, prescription renforcement musculaire, https://www.endocrine.org/clinical-practice-guidelines/bone-health-and-osteoporosis"
+todo = "rankok | https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, HAS 2005 chutes, prescription renforcement musculaire, https://www.endocrine.org/clinical-practice-guidelines/bone-health-and-osteoporosis"
 modele = true
 +++
 
@@ -38,7 +38,7 @@ Recommandations simplifiées pour une prise en charge réaliste de l'ostéoporos
 5. Biphosphonate: bilan bucco-dentaire, [acide alendronique 70 mg/sem](https://bdpm.ansm.sante.fr/medicament/69784280/extrait#tab-rcp) ou [risédronate 35 mg/sem](https://bdpm.ansm.sante.fr/medicament/66887599/extrait#tab-rcp) ou 75 mg 2 jours de suite 1 fois par mois
     - Au moins 30 minutes avant le repas, debout ou assis (sans se recoucher ensuite) avec un grand verre d'eau du robinet (ou peu minéralisée)  
     - [Fracture du col du fémur]({{% relref "fracture-extremite-superieure-femur.md" %}}) (FESF): [zolédronate 5 mg/100 mL](https://bdpm.ansm.sante.fr/medicament/66175242/extrait#tab-rcp) IVL à domicile (pas avant J+15 de la fracture).
-6. {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} et souvent supplémenter à distance des repas, supplémenter en vitamine D
+6. {{< modal-btn modal-apports-calcium >}}Évaluer les apports calciques{{< /modal-btn >}} et souvent supplémenter à distance des repas, supplémentation quotidienne en vitamine D de 800 à 1000 UI/j
 7. Contrôle de l'ostéodensitométrie à 2-3 ans et avis rhumatologique
 8. Contrôle de la DXA 2 ans après l'arrêt du traitement
 
@@ -538,7 +538,7 @@ Réévaluation de la prise en charge de l'ostéoporose:
   - Taille, poids, IMC annuels
   - {{< modal-btn modal-risque-fracture >}}Risque de fracture{{< /modal-btn >}}
   - {{< modal-btn modal-risque-chute >}}Risque de chute{{< /modal-btn >}}
-- Observance du traitement
+- Observance du traitement: anti-ostéoporotique et calcium + vitamine D
 - Ostéodensitométrie tous les (2-)3 ans et à chaque modification du traitement
   - Contrôle de l'absence de perte osseuse (perte > 0,03 g/cm² de DMO)
   - Poursuivre si T-score hanche < -2,5:  
@@ -613,6 +613,7 @@ Vidéos de formation sur l'ostéoporose.
 
 {{< card-link-external title="Pourquoi la prescription médicamenteuse est-elle si faible dans l'ostéoporose ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/174775590" >}}
 
+- [Pickering ME, et al. Supplémentation quotidienne ou intermittente en vitamine D chez les personnes avec ou à risque d'ostéoporose: Position du GRIO. Revue du Rhumatisme. 2025.](https://www.sciencedirect.com/science/article/pii/S1169833025001735)
 - [US Preventive Services Task Force. Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement. JAMA. 2025.](https://jamanetwork.com/journals/jama/fullarticle/2829238)
 - [Biver E, et al. Dietary recommendations in the prevention and treatment of osteoporosis. Joint Bone Spine. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X22001816)
 - [HAS. Les médicaments de l'ostéoporose. Bon usage du médicament. 2023.](https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-l-osteoporose)

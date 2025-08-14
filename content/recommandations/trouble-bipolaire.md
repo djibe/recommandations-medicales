@@ -7,10 +7,10 @@ synonyms = ["Épisodes maniaco-dépressifs"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-03-07T17:48:57+01:00"
 publishdate = "2025-08-06"
-lastmod = "2025-08-06"
+lastmod = "2025-08-14"
 specialites = ["psychiatrie"]
-annees = "2015"
-sources = ["HAS", "CNUP"]
+annees = "2023"
+sources = ["NICE", "HAS"]
 tags = []
 english = ["Bipolar disorder"]
 sctid = "13746004"
@@ -309,6 +309,7 @@ Le suivi du trouble bipolaire est au moins annuel après équilibration:
 - [HAS. ALD 23 - Troubles bipolaires. Actes et prestations Affection de longue durée. 2025.](https://www.has-sante.fr/jcms/c_849818/fr/ald-n-23-troubles-bipolaires)
 - [CBIP. Troubles bipolaires : l'utilisation prolongée d'antidépresseurs est-elle justifiée ?. Folia. 2025.](https://www.cbip.be/fr/articles/4504?folia=4503)
 - [Collège National Universitaire de Psychiatrie (CNUP). Troubles de l'humeur - Troubles bipolaires de l'adolescent et de l'adulte. Référentiel de Psychiatrie et Addictologie. 2024. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_4ed.pdf)
+- [NICE. Bipolar disorder: assessment and management. Clinical guideline. 2023.](https://www.nice.org.uk/guidance/cg185/chapter/Recommendations)
 - [Goes F. Diagnosis and management of bipolar disorders. BMJ. 2023.](https://www.bmj.com/content/381/bmj-2022-073591)
 - [Goodwin GM, et al. Evidence-based guidelines for treating bipolar disorder: Revised third edition recommendations from the British Association for Psychopharmacology. J Psychopharmacol. 2016.](https://pmc.ncbi.nlm.nih.gov/articles/PMC4922419/)
 - [HAS. Patient avec un trouble bipolaire : repérage et prise en charge initiale en premier recours. 2015.](https://www.has-sante.fr/jcms/c_1747465/fr/patient-avec-un-trouble-bipolaire-reperage-et-prise-en-charge-initiale-en-premier-recours)
@@ -318,7 +319,6 @@ Le suivi du trouble bipolaire est au moins annuel après équilibration:
 - [Nierenberg AA, et al. Diagnosis and Treatment of Bipolar Disorder: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2810502) (payant)
 - [Zaidi S, et al. Monitoring drug interventions in people with bipolar disorder. BMJ. 2023.](https://www.bmj.com/content/380/bmj-2022-070678) (payant)
 - Prescrire
-- [NICE. Bipolar disorder: assessment and management. Clinical guideline. 2023.](https://www.nice.org.uk/guidance/cg185/chapter/Recommendations)
 - [International Society for Bipolar Disorders (ISBD)](https://www.isbd.org)
 
 {{%/sources%}}

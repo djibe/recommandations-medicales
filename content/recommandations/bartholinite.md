@@ -82,7 +82,7 @@ Signes et symptômes de bartholinite aiguë:
 
 Le diagnostic de bartholinite est **clinique** et la **prise en charge est chirurgicale**.
 
-Aucun examen n'est réalisé de façon systématique.
+Aucun bilan n'est réalisé de façon systématique.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la bartholinite" %}}

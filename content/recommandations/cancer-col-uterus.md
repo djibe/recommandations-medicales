@@ -147,7 +147,7 @@ Les symptômes du cancer du col de l'utérus sont tardifs et témoignent d'une m
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Tout suspicion de cancer du col de l'utérus nécessite une **colposcopie** en semi-urgence par le gynécologue.
+Toute suspicion de cancer du col de l'utérus nécessite une **colposcopie** en semi-urgence par le gynécologue.
 
 Selon l'accès aux soins et la suspicion diagnostique, l'**IRM pelvienne** pourrait être réalisée en parallèle.
 
