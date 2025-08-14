@@ -428,21 +428,22 @@ Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
 | III-IV | 4-12       | 2-3         |
 {{< /table >}}
 
-Éléments à reprendre pour le suivi de l'insuffisant cardiaque:
+Éléments de suivi de l'insuffisant cardiaque:
 
-- {{< modal-btn modal-observance >}}Observance du traitement{{< /modal-btn >}}
+- {{< modal-btn modal-observance >}}Observance du traitement{{< /modal-btn >}} et posologies en cours
 - Auto-surveillance du poids et adaptation du furosémide
-- Consulter en aggravation des symptômes ou l'absence d'amélioration sous traitement
+- Consulter en cas d'aggravation des symptômes ou l'absence d'amélioration sous traitement
 - Intensité des symptômes
 - Activités de la vie quotidienne
 - [Pression artérielle - fréquence cardiaque - poids](https://www.heartfailurematters.org/wp-content/uploads/2021/02/Surveiller-vos-signes-vitaux.pdf)
-- Sel, alcool, tabac
-- Activité physique
-- Posologies en cours
-- Suivi iono-créatinine, NFS (min 2/an), ferritinémie (≥ 100 ng/mL)
-- Vaccinations
-- ECG annuel
-- ETT si symptômes (NYHA II 1-2 ans, + si aggravation)
+- Mesures générales:
+  - Sel, alcool, tabac
+  - Activité physique
+  - Vaccinations
+- Suivi paraclinique
+  - Suivi ionogramme et créatinine, NFS (min. 2/an), ferritinémie (≥ 100 ng/mL)
+  - ECG annuel
+  - ETT si symptômes (NYHA II 1-2 ans, + si aggravation)
 - Dépister annuellement anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 {{% /collapse %}}

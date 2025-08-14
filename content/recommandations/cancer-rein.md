@@ -48,7 +48,7 @@ Cancer du rein
   - Hérédité (5-8 % des cas)
   - Maladie de von Hippel-Lindau (1-2 % des cas)  
     Hémangiomes cérébelleux et rétiniens, plus de la moitié développe un cancer du rein. IRM abdominale tous les 2 ans à partir de 15 ans.
-- [Maladie professionnelle]({{% relref "maladie-professionnelle.md.md" %}}): exposition au trichloroéthylène ([tableau 101](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%20101))
+- [Maladie professionnelle]({{% relref "maladie-professionnelle.md" %}}): exposition au trichloroéthylène ([tableau 101](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%20101))
 
 Facteurs suspectés: exposition au cadmium ou à l'amiante.
 
@@ -121,7 +121,7 @@ Compléter avec un **scanner thoracique** injecté en cas d'images typiques de c
 La prévention repose sur la correction des facteurs de risque modifiables:
 
 - Arrêt du tabac
-- En cas d'[obésité]({{% relref "obesite-adulte.md.md" %}}): activité physique et perte de poids
+- En cas d'[obésité]({{% relref "obesite-adulte.md" %}}): activité physique et perte de poids
 
 {{% /collapse %}}
 {{%collapse "Traitement du cancer du rein" %}}
