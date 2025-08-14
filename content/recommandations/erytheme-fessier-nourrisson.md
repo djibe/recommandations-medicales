@@ -18,7 +18,7 @@ sctid = "91487003"
 icd10 = []
 image = false
 imageSrc = ""
-todo = "fiche > photo > newsletter > flow > Kanban"
+todo = "fiche > photo > newsletter > flow > Kanban | Prescrire"
 +++
 
 {{%article-summary%}}

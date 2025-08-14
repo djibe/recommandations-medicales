@@ -2,7 +2,7 @@
 id = "0190e8ca-4ef2-7c2c-a280-e25cbe1494f8"
 title = "Polyglobulie"
 prefix = "la "
-description = "Recommandations pour la prise en charge de la polyglobulie. Bilan diagnostique avec frottis sanguin et EPO, avis hématologique spécialisé"
+description = "Recommandations pour le diagnostic et la prise en charge de la polyglobulie. Bilan diagnostique avec frottis sanguin et EPO, avis hématologique spécialisé"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-15T11:01:51+02:00"
@@ -17,7 +17,7 @@ sctid = "128841001"
 icd10 = ["D45", "R71"]
 image = true
 imageSrc = "Frottis sanguin d'une femme suivie pour polyglobulie essentielle. Trois précurseurs de globules rouges présents et une anisopoïkilocytose légère à modérée (coloration de Wright-Giemsa). The Armed Forces Institute of Pathology (AFIP), Public domain, via Wikimedia Commons"
-todo = "rankok, classification OMS 2016 Vaquez"
+todo = "rankok"
 flowchart = true
 +++
 
@@ -127,7 +127,7 @@ Ne pas réaliser d'examens complémentaires en cas de polyglobulie secondaire bi
 
 La prise en charge de la polyglobulie est avant tout étiologique (hématologique, respiratoire, néphrologique ...).
 
-Au cours de la maladie de Vaquez, une hématocrite < 45% est ciblée. Le traitement est spécialisé et associe:
+Au cours de la **maladie de Vaquez**, une hématocrite < 45% est ciblée. Le traitement est spécialisé et associe:
 
 - Saignées de 200-500 mL
 - Aspirine 75-100 mg/j
@@ -146,6 +146,6 @@ graph TB
 {{%sources%}}
 
 - Société française d'hématologie (sfh). Item 317 - Syndromes myéloprolifératifs. Hématologie Réussir son DFASM. 2021.
-- [McMullin MF et al. A guideline for the diagnosis and management of polycythaemia vera. A British Society for Haematology Guideline.Br J Haematol. 2018.](https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.15648)
+- [McMullin MF, et al. A guideline for the diagnosis and management of polycythaemia vera. A British Society for Haematology Guideline. Br J Haematol. 2018.](https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.15648)
 
 {{%/sources%}}

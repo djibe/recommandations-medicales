@@ -161,7 +161,7 @@ Une **croissance tumorale** extrêmement rapide (lymphome de Burkitt, lymphome l
 
 La prise en charge d'atteintes organiques (lymphomes gastro-intestinaux, lymphomes cutanés) relève d'équipes spécialisées.
 
-- Information du patient: [Guide INCa LNH (PDF)](https://www.e-cancer.fr/content/download/58357/532032/file/ALD30_GP_Lymphomes_web.pdf)
+- Information du patient: [Guide INCa LNH](hhttps://www.cancer.fr/personnes-malades/les-cancers/lymphome-non-hodgkinien)
 - Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 
 Le traitement des lymphomes non hodgkiniens repose principalement sur la **chimiothérapie** couplée à l'**immunothérapie** (anti-CD20 ou autre). Une **surveillance active** est possible pour un LNH indolent.
@@ -189,7 +189,7 @@ Tout élément inhabituel doit faire suspecter une rechute du lymphome:
 - [Ruskoné-Fourmestraux A, et al. Lymphomes gastro-intestinaux. Thésaurus National de Cancérologie Digestive (TNCD). 2022.](https://www.snfge.org/tncd/lymphomes-gastro-intestinaux)
 - Société française d'hématologie (sfh). Lymphomes malins. Hématologie Réussir son DFASM. 2021.
 - [HAS. Lymphomes non hodgkiniens de l'adulte. Actes et prestations Affection de longue durée. 2015.](https://www.has-sante.fr/jcms/c_881776/fr/ald-n-30-lymphomes-non-hodgkiniens-de-l-adulte)
-- [HAS, INCa. Lymphomes non hodgkiniens de l'adulte. Guide Affection de longue durée. 2012.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-hematologiques)
+- [HAS, INCa. Lymphomes non hodgkiniens de l'adulte. Guide Affection de longue durée. 2012.](https://www.cancer.fr/professionnels-de-sante/recommandations-et-aide-a-la-pratique/outils-pour-la-pratique-des-medecins-generalistes/outils-par-localisation-de-cancer/guides-affection-de-longue-duree/cancers-hematologiques)
 - [Beylot-Barry M, et al. Prise en charge des lymphomes T cutanés : recommandations du Groupe français d'étude des lymphomes cutanés. Ann Dermatol Venereol. 2010.](https://www.sfdermato.org/media/pdf/recommandation/lct-19aaf12ba48b07a3a2e5b59d14325b62.pdf)
 - [Grange F, et al. Prise en charge des lymphomes B cutanés : recommandations du Groupe français d'étude des lymphomes cutanés. Ann Dermatol Venereol. 2010.](https://www.sfdermato.org/media/pdf/recommandation/lymphcutb-55e59a42d307fd03d63f467c019fcd73.pdf)
 

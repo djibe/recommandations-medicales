@@ -18,7 +18,7 @@ sctid = "128478005"
 icd10 = ["N49", "N49.9", "N34", "N45", "N45.9", "R36", "A54.0", "A54.0", "N51.1"]
 image = true
 imageSrc = "Infiltration des polynucléaires neutrophiles par les gonocoques. Vue au microscope avec coloration de Gram signant une urétrite gonococcique. CDC / Joe Millar, Public domain, via Wikimedia Commons"
-todo = "SEO, Balanite et balano-posthite, dépistages Ct homme | neisseria meningitidis + entérococcus faecalis"
+todo = "SEO, Balanite et balano-posthite, dépistages Ct homme | neisseria meningitidis + entérococcus faecalis; avec abcès N45.0"
 +++
 
 {{%article-summary%}}

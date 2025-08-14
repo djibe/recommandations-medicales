@@ -22,7 +22,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Messages de prévention du mélanome: << L'ombre, c'est l'endroit le plus cool de l'été ! >> (*[INCa 2022](https://www.e-cancer.fr/Actualites-et-evenements/Actualites/L-ombre-c-est-l-endroit-le-plus-cool-de-l-ete-!-la-nouvelle-campagne-d-information-de-l-Institut-national-du-cancer-sur-la-prevention-des-risques-solaires)*)
+- Messages de prévention du mélanome:
   - Aucune exposition aux UV avant 3 ans
   - Ne pas s'exposer de 12 à 16 heures (10 à 14h en Outre-mer)
   - Se couvrir: habits longs et amples, un chapeau à bords larges et des lunettes de soleil avec filtre anti-UV
@@ -358,7 +358,6 @@ risque["<b>Sujet à risque de mélanome</b><br>—<br>- Phototype clair<br>- Ép
 - {{< references/inca-cancers-mortalite >}}
 - [Garbe C, et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00152-6/fulltext)
 - [Garbe C, et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 2: Treatment - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00228-3/fulltext)
-- [INCa. << L'ombre, c'est l'endroit le plus cool de l'été ! >>: la nouvelle campagne d'information de l'Institut national du cancer sur la prévention des risques solaires. 04/07/2022.](https://www.e-cancer.fr/Actualites-et-evenements/Actualites/L-ombre-c-est-l-endroit-le-plus-cool-de-l-ete-!-la-nouvelle-campagne-d-information-de-l-Institut-national-du-cancer-sur-la-prevention-des-risques-solaires)
 - [Desmoulins E. Téléexpertise dermatologique à partir de photographies prises avec un smartphone par des médecins généralistes en cas de suspicion de mélanome : évaluation de la concordance de prise en charge. Thèse d'exercice en médecine. 2022.](https://dune.univ-angers.fr/documents/dune14712)
 - [Michielin O, et al. ESMO consensus conference recommendations on the management of locoregional melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39940-3/fulltext)
 - [Keilholz U, et al. ESMO consensus conference recommendations on the management of metastatic melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39939-7/fulltext)
