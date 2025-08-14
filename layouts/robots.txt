@@ -13,6 +13,7 @@ User-agent: AwarioRssBot
 User-agent: AwarioSmartBot
 User-agent: Bytespider
 User-agent: bedrockbot
+User-agent: bigsur.ai
 User-agent: Brightbot 1.0
 User-agent: Bytespider
 User-agent: CCBot
@@ -23,6 +24,7 @@ User-agent: Claude-SearchBot
 User-agent: Claude-User
 User-agent: Claude-Web
 User-agent: ClaudeBot
+User-agent: CloudVertexBot
 User-agent: cohere-ai
 User-agent: cohere-training-data-crawler
 User-agent: Cotoyogi
@@ -43,6 +45,8 @@ User-agent: Google-CloudVertexBot
 User-agent: Google-Extended
 User-agent: GoogleAgent-Mariner
 User-agent: GoogleOther
+User-agent: GoogleOther-Image
+User-agent: GoogleOther-Video
 User-agent: GPTBot
 User-agent: ia_archiver
 User-agent: iaskspider/2.0
@@ -53,7 +57,9 @@ User-agent: ISSCyberRiskCrawler
 User-agent: Kangaroo Bot
 User-agent: LinerBot
 User-agent: magpie-crawler
-User-agent: meta-externalagent
+User-agent: Meta-ExternalAgent
+User-agent: meta-externalfetcher
+User-agent: Meta-ExternalFetcher
 User-agent: mirrorweb
 User-agent: MyCentralAIScraperBot
 User-agent: netEstate Imprint Crawler
@@ -62,6 +68,7 @@ User-agent: NovaAct
 User-agent: OAI-SearchBot
 User-agent: Omgili
 User-agent: Omgilibot
+User-agent: OpenAI
 User-agent: Operator
 User-agent: PanguBot
 User-agent: Panscient
@@ -89,6 +96,7 @@ User-agent: VelenPublicWebCrawler
 User-agent: WARDBot
 User-agent: Webzio-Extended
 User-agent: wpbot
+User-agent: YaK
 User-agent: YandexAdditional
 User-agent: YandexAdditionalBot
 User-agent: YouBot
