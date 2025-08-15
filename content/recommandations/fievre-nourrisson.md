@@ -8,10 +8,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-08-10T11:50:33+02:00"
 publishdate = "2025-08-10"
-lastmod = "2025-08-10"
+lastmod = "2025-08-15"
 specialites = ["infectiologie", "pédiatrie"]
-annees = "2025"
-sources = ["Sainte-Justine", "SCP"]
+annees = "2024"
+sources = ["SCP", "AAP"]
 tags = ["fievre", "nourrisson"]
 english = ["Febrile infants"]
 sctid = ""
@@ -36,6 +36,9 @@ Fièvre du nourrisson de moins de 3 mois
 : 2% des nourrissons nés à terme développent une fièvre, le plus souvent virale et bénigne de résolution spontanée, mais 10 à 13% sont des infections bactériennes graves (infections urinaires, la bactériémie et la méningite bactérienne).
 
 ### Abréviations
+
+AAP
+: {{%lang%}}American Academy of Pediatrics{{%/lang%}}
 
 SCP
 : Société Canadienne de Pédiatrie
@@ -63,9 +66,9 @@ Causes de fièvre avant 3 mois de vie (liste non exhaustive):
 {{%collapse "Clinique" %}}
 
 > [!INFO]
-> Le bilan d'une fièvre chez le nourrisson de moins de 3 mois est réalisée aux Urgences.
+> Le bilan d'une fièvre chez le nourrisson de moins de 3 mois est réalisé aux Urgences.
 
-Une fièvre ≥ 38 °C est un marqueur inflammatoire anormal chez le nouveau-né et le nourrisson de moins de 3 mois. Une hypothermie avec une température < 36°C requiert la même prise en charge.
+Une fièvre **≥ 38°C** est un marqueur inflammatoire anormal chez le nouveau-né et le nourrisson de moins de 3 mois. Une hypothermie avec une température **< 36°C** requiert la même prise en charge.
 
 ### Interrogatoire
 
@@ -87,7 +90,11 @@ Une fièvre ≥ 38 °C est un marqueur inflammatoire anormal chez le nouveau-né
 
 - Fréquence cardiaque (à 1 mois: 110 à 180 bpm), fréquence respiratoire (à 1 mois: 25 à 60/min)
 - Température
-- Temps de recoloration cutanée, tirage, marbrures
+- TRC, pouls filants, hépatomégalie, souffle cardiaque
+- Signes de lutte  
+  Balancement thoraco-abdominal, tirage, battement des ailes du nez, entonnoir xiphoïdien, geignement expiratoire.
+- Signes de déshydratation  
+  {{< clinique/deshydratation >}}
 - Examen cardiorespiratoire
 - Tonus, fontanelles
 - Otoscopie
@@ -107,8 +114,6 @@ Le bilan d'une fièvre chez le nourrisson de moins de 3 mois est réalisé aux U
 Le prise en charge d'une fièvre chez le nourrisson de moins de 3 mois est ==**urgente**== et le bilan doit être réalisé aux **Urgences pédiatriques**.
 
 Chez le nourrisson de 29 jours et plus, en cas de bon état général avec bilan initial normal, le suivi peut être ambulatoire avec consultation de **contrôle sous 24 à 48 heures**.
-
-Traitement de la fièvre par [paracétamol adaptée au poids]({{% relref "antalgie-enfant.md" %}}).
 
 {{% /collapse %}}
 {{%sources%}}

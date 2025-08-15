@@ -25,4 +25,8 @@ La liste ci-dessous compile l'ensemble des adresses des caisses départementales
 
 {{< pdf "cpam.pdf" "Liste des adresses des Caisses Primaires d'Assurance Maladie (CPAM) départementales du Régime Général pour l'envoi de documents" >}}
 
+[Annuaire de l'UCANSS](https://annuorg.ucanss.fr/public/main.do)
+
+[Annuaire de Resopharma](https://www.resopharma.fr/organismesconventionnes.php?g=7b)
+
 *Utilisez le bouton contact en bas à droite si des adresses sont erronées puis consultez la [liste du GIE Sesam-vitale](https://www.sesam-vitale.fr/web/sesam-vitale/adresses-des-centres-payeurs-es#/).*
