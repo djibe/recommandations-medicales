@@ -352,6 +352,7 @@ Bilan étiologique par le neurologue en cause non évidente.
 ### Bibliographie en attente
 
 - [Sayed D, et al. A Systematic Guideline by the ASPN Workgroup on the Evidence, Education, and Treatment Algorithm for Painful Diabetic Neuropathy: SWEET. J Pain Res. 2024.](https://www.dovepress.com/a-systematic-guideline-by-the-aspn-workgroup-on-the-evidence-education-peer-reviewed-fulltext-article-JPR)
+- [Price R, and al. Oral and Topical Treatment of Painful Diabetic Polyneuropathy: Practice Guideline Update Summary. Report of the AAN Guideline Subcommittee. Neurology. 2022.](https://www.neurology.org/doi/full/10.1212/WNL.0000000000013038)
 - [Truini A, et al. Joint European Academy of Neurology-European Pain Federation-Neuropathic Pain Special Interest Group of the International Association for the Study of Pain guidelines on neuropathic pain assessment. Eur J Neurol. 2023. (NeuPSIG)](https://onlinelibrary.wiley.com/doi/10.1111/ene.15831)
 - [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf)
 - [Recodiab.ch. Neuropathie diabétique](https://www.recodiab.ch/RPC20_neuropathie.pdf)

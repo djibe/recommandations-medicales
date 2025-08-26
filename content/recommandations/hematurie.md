@@ -227,6 +227,10 @@ graph TB
 - [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hématurie. Item 260. Manuel de néphrologie 10ème édition. 2023.](http://manuel3.cuen.fr/spip.php?article31)
 - [Collège Français des Enseignants en Urologie (CFEU). Hématurie. Item 260. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-260-Hematurie.pdf)
 
+### Bibliographie en attente
+
+[ACOG. Asymptomatic Microscopic Hematuria in Women. 2025.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/06/asymptomatic-microscopic-hematuria-in-women)
+
 {{%/sources%}}
 {{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
 

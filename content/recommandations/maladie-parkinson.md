@@ -504,8 +504,9 @@ graph TB
 
 ### Bibliographie pour en savoir plus
 
-- [Horstink M, et al. Early (Uncomplicated) Parkinson's Disease. European Handbook of Neurological Management. 2006. (payant)](https://onlinelibrary.wiley.com/doi/10.1002/9780470753279.ch17)
+- [Pringsheim T, et al. Dopaminergic Therapy for Motor Symptoms in Early Parkinson Disease Practice Guideline Summary. A Report of the AAN Guideline Subcommittee. Neurology. 2021.](https://www.neurology.org/doi/10.1212/wnl.0000000000012868)
 - [Oertel WH, et al. Late (Complicated) Parkinson's Disease. European Handbook of Neurological Management. 2010. (payant)](https://onlinelibrary.wiley.com/doi/10.1002/9781444328394.ch15)
+- [Horstink M, et al. Early (Uncomplicated) Parkinson's Disease. European Handbook of Neurological Management. 2006. (payant)](https://onlinelibrary.wiley.com/doi/10.1002/9780470753279.ch17)
 
 {{%/sources%}}
 {{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}

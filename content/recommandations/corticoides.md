@@ -246,6 +246,14 @@ graph TB
 - {{< references/college-endocrino >}}
 - Collège National des Enseignants de Médecine Interne (CEMI). Prescription et surveillance des classes de médicaments les plus courantes chez l'adulte et chez l'enfant : anti-inflammatoires non stéroïdiens et corticoïdes. Référentiel Collège de Médecine interne R2C. 2021.
 
+### Bibliographie en attente
+
+- [WHO. WHO guideline on preventive chemotherapy for public health control of strongyloidiasis. 2024.](https://www.who.int/publications/i/item/9789240094024)
+- [WHO. A parasitic infection that can turn fatal with administration of corticosteroids. 2020.](https://www.who.int/news/item/17-12-2020-a-parasitic-infection-that-can-turn-fatal-with-administration-of-corticosteroids)
+- [World Gastroenterology Organisation. Prise en charge de la strongyloïdose. 2018.](https://www.worldgastroenterology.org/guidelines/management-of-strongyloidiasis/management-of-strongyloidiasis-french)
+- [HAS. Actualisation des actes de biologie médicale relatifs au diagnostic de la strongyloïdose (anguillulose). 2017.](https://www.has-sante.fr/jcms/c_2729708/fr/actualisation-des-actes-de-biologie-medicale-relatifs-au-diagnostic-de-la-strongyloidose-anguillulose)
+- [CDC. Clinical Care of Strongyloides. 2024.](https://www.cdc.gov/strongyloides/hcp/clinical-care/index.html)
+
 ### Bibliographie pour en savoir plus
 
 [Garrahy A, et al. Glucocorticoid induced adrenal insufficiency. BMJ. 2022.](https://www.bmj.com/content/379/bmj-2021-065137)

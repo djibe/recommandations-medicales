@@ -158,6 +158,8 @@ graph TB
 
 ### Bibliographie en attente
 
-[NICE. Faecal incontinence in adults: management. Clinical guideline. 2007.](https://www.nice.org.uk/guidance/cg49)
+- [ACOG Practice Bulletin No. 210: Fecal Incontinence. Obstet Gynecol. 2019.](https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2019/04/fecal-incontinence
+)
+- [NICE. Faecal incontinence in adults: management. Clinical guideline. 2007.](https://www.nice.org.uk/guidance/cg49)
 
 {{%/sources%}}

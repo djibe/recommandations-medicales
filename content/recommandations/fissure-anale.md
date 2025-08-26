@@ -39,7 +39,7 @@ Fissure anale
 ### Facteurs de risque de fissure anale
 
 - **Traumatisme ou irritation du canal anal**  
-  Accouchement, [constipation]({{% relref "constipation.md" %}}), [diarrhée]({{% relref "diarrhee-chronique.md" %}}), sodomie.
+  Accouchement, [constipation]({{% relref "constipation.md" %}}), [diarrhée]({{% relref "diarrhee-chronique.md" %}}), sexualité anale.
 - [Infections sexuellement transmissibles](/tags/ist/): [syphilis locale]({{% relref "syphilis.md" %}}), [VIH]({{% relref "vih-sida.md" %}})
 - Maladie de Crohn
 - [Tuberculose]({{% relref "tuberculose.md" %}})
@@ -77,7 +77,7 @@ Autres diagnostics à étayer devant des douleurs anales:
 ### Interrogatoire
 
 - Antécédents  
-  Accouchement récent, digestifs (troubles du transit, MICI), infectieux, rapports à risque ([IST](/tags/ist/), sodomie).
+  Accouchement récent, digestifs (troubles du transit, MICI), infectieux, rapports à risque ([IST](/tags/ist/), sexualité anale).
 - Traitements  
   Isotrétinoïne (iatrogénie) et traitements essayés.
 - Date de début des symptômes
