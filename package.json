@@ -52,7 +52,7 @@
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^7.0.2",
     "@oramacloud/client": "^2.1.4",
-    "@playwright/test": "^1.48.0",
+    "@playwright/test": "^1.55.0",
     "apexcharts": "^5.3",
     "cli-real-favicon": "^0.0.9",
     "cross-env": "^10.0.0",
