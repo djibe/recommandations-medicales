@@ -235,9 +235,8 @@ Bilan initial devant une suspicion d'insuffisance cardiaque:
 - NFS
 - Ferritinémie, CRP
 - Ionogramme, créatininémie, DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
-- Urée, albumine (*HAS 2015*)
 - ASAT, ALAT, GGT, bilirubine
-- Glycémie à jeun ou HbA1c
+- Glycémie à jeun (ou HbA1c)
 - Bilan lipidique
 - TSH
 - NT-proBNP
@@ -552,6 +551,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 
 {{< youtube id="60VQUo3xqAw" title="Insuffisance cardiaque, encore un effort! (Fréquence Médicale)" >}}
 
+- [HAS. ALD 5 - Insuffisance cardiaque. Actes et prestations Affection de longue durée. 2025.](https://www.has-sante.fr/jcms/c_534673/fr/ald-n-5-insuffisance-cardiaque-grave)
 - [Gabet A, et al. Épidémiologie de l’insuffisance cardiaque en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_4.html)
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
 - [Mullens W, et al. Dietary sodium and fluid intake in heart failure. A clinical consensus statement of the Heart Failure Association of the ESC. Eur J Heart Fail. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/ejhf.3244)
@@ -570,7 +570,6 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 - [Santé Publique France. Insuffisance cardiaque. 17/06/2019.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/insuffisance-cardiaque)
 - {{< references/esc-hta >}}
 - [SFC. Recommandations de la Société Française de Cardiologie pour les épreuves d'effort. 2018.](https://sfcardio.fr/publication/recommandations-pour-les-epreuves-deffort)
-- [HAS. Insuffisance cardiaque systolique. Actes et prestations Affection de longue durée. 2015.](https://www.has-sante.fr/jcms/c_534689/fr/ald-n-5-insuffisance-cardiaque-systolique)
 - [HAS. Insuffisance cardiaque. Guide du parcours de soins. 2014.](https://www.has-sante.fr/jcms/c_1242988/fr/guide-parcours-de-soins-insuffisance-cardiaque)
 - [Lainscak M et al. Self-care management of heart failure: practical recommendations from the Patient Care Committee of the Heart Failure Association of the European Society of Cardiology. European Journal of Heart Failure. 2014.](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)
 

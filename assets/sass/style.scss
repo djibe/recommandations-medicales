@@ -39,7 +39,7 @@ body,
 section h2,
 footer h2 {
   position: relative;
-  
+
   .section-anchor {
     position: absolute;
     left: -1.5rem;
@@ -48,13 +48,13 @@ footer h2 {
     opacity: 0;
     transition: opacity 0.2s ease;
     font-weight: normal;
-    
+
     &:hover {
       color: #666;
       text-decoration: none;
     }
   }
-  
+
   &:hover .section-anchor {
     opacity: 1;
   }
