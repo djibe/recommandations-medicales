@@ -5,7 +5,7 @@ description = "Liens vers les collèges des enseignants de médecine de deuxièm
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-14T16:20:00+02:00"
 publishdate = "2023-01-16"
-lastmod = "2025-04-22"
+lastmod = "2025-08-28"
 annees = "2025"
 sources = ["Colleges"]
 tags = []
@@ -29,7 +29,6 @@ Le tableau ci-dessous liste tous les référentiels des Collèges de médecine d
 | Anesthésie-réanimation | CNEAR <br><span class="typography-caption">Collège National des Enseignants d'Anesthésie et de Réanimation</span> | 2020 | [lien](https://www.cnear.fr/_files/ugd/16c755_470c9901054f437a86d606b696fa7470.pdf) |
 | Cardiologie | CNEC <br><span class="typography-caption">Collège National des Enseignants de Cardiologie</span> | 2022 | [lien](https://www.sfcardio.fr/formation/dfasm/) |
 | Chirurgie pédiatrique | CNHUCP <br><span class="typography-caption">Collège national Hospitalier et Universitaire de Chirurgie pédiatrique</span> | 2016 | [lien](https://collegechirurgiepediatrique.fr/les-cours/) |
-| Dermatologie | CEDEF <br><span class="typography-caption">Collège des Enseignants de Dermatologie de France</span> | 2023 | [lien](https://cedef.org/enseignement-2eme-cycle-dermatologie/) (identifiants) |
 | Endocrinologie | CEEDMM <br><span class="typography-caption">Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques</span> | 2021 | [lien](https://www.sfendocrino.org/polycopie-des-enseignants-5eme-edition-2021/) |
 | Gastro-entérologie | CDU-HGE <br><span class="typography-caption">Collège Des Universitaires d'Hépato-GastroEntérologie</span> | 2022 | [lien](https://www.snfge.org/sites/default/files/SNFGE/Formation/dsn_cdu-hge_2022-decembre.pdf) |
 | Gériatrie | CNEG <br><span class="typography-caption">Collège National des Enseignants en Gériatrie</span> | 2014 | [lien](https://www.seformeralageriatrie.org/livregeriatriecneg) |
@@ -53,10 +52,11 @@ Le tableau ci-dessous liste tous les référentiels des Collèges de médecine d
 Les dernières versions des Collèges de dermatologie et médecine vasculaire sont payants, le collège d'ORL passe par une connexion à la *plateforme UNESS*.
 {.alert .alert-info}
 
-Malheureusement, les livres des autres spécialités des Collèges d'enseignants ne sont disponibles qu'à la vente.
+Malheureusement, les livres des autres spécialités des Collèges d'enseignants ne sont disponibles qu'à la vente ou via les identifiants universitaires.
 
 Pour ne pas les citer:
 
+- Collège des Enseignants de Dermatologie de France (CEDEF)
 - Collège national des gynécologues et obstétriciens français (CNGOF)
 - Collège des Enseignants en Allergologie (CEA)
 - Collégiale de Bactériologie-Virologie-Hygiène (Azay)
