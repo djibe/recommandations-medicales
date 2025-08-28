@@ -7,7 +7,7 @@ synonyms = ["Amylose primitive"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-08-02T15:18:50+02:00"
 publishdate = "2024-08-23"
-lastmod = "2025-06-23"
+lastmod = "2025-08-28"
 specialites = ["hématologie"]
 annees = "2023"
 sources = ["PNDS"]
@@ -22,19 +22,19 @@ todo = "SEO | flow, relecture demandée"
 
 {{%article-summary%}}
 
-- L'amylose AL est une maladie tissulaire grave causée par le dépôt extracellulaire de fibrilles insolubles constituées de chaînes légères d'immunoglobulines monoclonales atteignant principalement le rein et le cœur (jamais le cerveau). Elle survient surtout après 60 ans
-- Les signes de l'amylose ne sont pas spécifiques: fatigue, AEG, cardio-rénaux (dyspnée, œdèmes des membres inférieurs, troubles du rythme), hépato-splénomégalie, digestifs (diarrhées), dysautonomiques
-- Le bilan de l'amylose AL comporte: bilan biologique, électrophorèse et immunofixation des protéines sériques et urinaires, NT-proBNP, ECG et échocardiographie, échographie abdominale ...
-- Adresser au spécialiste (hématologue, interniste) avec le bilan pour le diagnostic et la prise en charge pluridisciplinaire de l'amylose
+- L'amylose AL est une maladie tissulaire grave causée par le dépôt extracellulaire de fibrilles insolubles constituées de chaînes légères d'immunoglobulines monoclonales atteignant principalement le rein et le cœur (jamais le cerveau). Elle survient surtout après 60 ans mais peut toucher des sujets plus jeunes
+- Les signes de l'amylose ne sont pas spécifiques: fatigue, AEG, signes cardio-rénaux (dyspnée, œdèmes des membres inférieurs, troubles du rythme ou de la conduction), hépato-splénomégalie, digestifs (diarrhées, saignements), dysautonomie
+- Le bilan de l'amylose AL comporte: bilan biologique, électrophorèse et immunofixation des protéines sériques et urinaires et dosage des chaînes légères libres, NT-proBNP, ECG et échocardiographie, échographie abdominale ...
+- Adresser au spécialiste (hématologue, interniste, néphrologue) avec le bilan pour le diagnostic et la prise en charge pluridisciplinaire de l'amylose qui permet le plus souvent une bonne réponse hématologique et clinique
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Amylose AL
 : *A* pour *Amylose* et *L* pour *chaîne légère d'immunoglobuline*.
-: Maladie tissulaire grave causée par le dépôt extracellulaire de fibrilles insolubles constituées de chaînes légères d'immunoglobulines monoclonales atteignant principalement le rein et le cœur (jamais le cerveau). Elle survient surtout après 60 ans et atteinte une majorité d'hommes.
-: L'évocation diagnostique est difficile du fait du polymorphisme des atteintes. Le diagnostic est histologique avec une chaîne légère lambda pour 2/3, de production plasmocytaire lente (ne partageant pas la prolifération du myélome).
-: L'amylose AL représente 70% des amyloses avec 700 cas par an.
+: Maladie tissulaire grave causée par le dépôt extracellulaire de fibrilles insolubles constituées de chaînes légères d'immunoglobulines monoclonales atteignant principalement le rein et le cœur (jamais le cerveau). Elle survient surtout après 60 ans et atteint un peu plus les hommes.
+: L'évocation diagnostique est difficile du fait du polymorphisme des atteintes avec des présentations très variées. Le diagnostic est histologique, on réalise en général des biopsies non-invasives (glandes salivaires accessoires, graisse SC) et le diagnostic est portée sur la positivité de la coloration au Rouge Congo. L'isotype est lambda pour 2/3 des cas, avec le plus souvent un clone plasmocytaire médullaire peu important et évolutif (ne partageant pas le caractère prolifératif du myélome).
+: L'amylose AL représente 70% des amyloses systémiques (si l'on exclut les amyloses par dépôt de transthyrétine non mutée, amylose sénile) avec avec 700 nouveaux cas par an.
 
 ### Abréviations
 
@@ -91,13 +91,14 @@ Le diagnostic d'amylose AL est histologique: dépôts amyloïdes colorés par le
 - Créatinine, DFG
 - Bilan hépatique
 - Électrophorèse et immunofixation des protéines sériques et urinaires
-- Dosage des chaînes légères libres sériques
+- Dosage des chaînes légères libres sériques  
+  Indispensable pour le suivi mais non remboursé, à faire au centre de prélèvement des hôpitaux publics.
 - NT-proBNP, troponine
-- ECG
+- ECG et holter-ECG
 - Échographie abdominale
-- Électromyogramme
+- ± Électromyogramme
 
-Adresser au spécialiste (interniste, hématologue) pour affirmer le diagnostic (biopsie des glandes salivaires accessoires -- BGSA) et myélogramme.
+Adresser au spécialiste (interniste, hématologue, néphrologue) pour affirmer le diagnostic (biopsie des glandes salivaires accessoires -- BGSA) et myélogramme avec cytogénétique des plasmocytes médullaires.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
@@ -111,9 +112,9 @@ Le suivi est rapproché (souvent trimestriel) avec surveillance des chaînes lé
 
 ### Pour en savoir plus: traitement de l'amylose AL
 
-Le traitement de l'amylose AL contre la prolifération plasmocytaire (ou lympho-plasmocytaire) permet l'amélioration des symptômes lorsqu'une réponse hématologique profonde est obtenue (baisse voire normalisation de la chaîne légère monoclonale plasmatique).
+Le traitement de l'amylose AL contre la prolifération plasmocytaire (ou lympho-plasmocytaire dans le cas d'une IgM monoclonale) permet l'amélioration des symptômes lorsqu'une réponse hématologique profonde est obtenue (baisse voire normalisation de la chaîne légère monoclonale plasmatique). La survie des patients est excellente sauf pour ceux diagnostiqués avec une maladie cardiaque très sévère.
 
-Les traitements proposés peuvent être: chimiothérapie (Melphalan-dexaméthasone, cyclophosphamide), immunothérapie (bortezomib).
+Les traitements sont le plus souvent (pour les formes plasmocytaires): une association d'immuno-chimiothérapie associant anticorps plasmocytaire, bortezomib en SC, cyclophosphamide orale et dexaméthasone orale avec 90% de réponses hématologiques. Plusieurs traitements sont disponibles pour les patients réfractaires ou en rechute (IMIDs, anticorps bi-spécifiques) avec d'excellents résultats.
 
 Aucun traitement n'existe pour la résorption des plaques amyloïdes constituées.
 
