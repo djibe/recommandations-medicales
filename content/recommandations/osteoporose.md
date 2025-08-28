@@ -240,9 +240,9 @@ Dans tous les cas, demander un avis rhumatologique en cas d'identification de ri
 
 Le calcul du FRAX est validé en France uniquement en cas de [ménopause]({{% relref "menopause.md" %}}).
 
-{{< iframe url="https://frax.shef.ac.uk/FRAX/tool.aspx?lang=fr" title="Calcul du FRAX® en France sur le site officiel">}}
+Dans l'outil ci-dessous, à l'item **12 DMO du col du fémur**, sélectionner **score T** et entrer le T-score du col du fémur.
 
-> Calcul du FRAX® sur le [site officiel du FRAX](https://frax.shef.ac.uk/FRAX/tool.aspx?lang=fr) pour les Françaises.
+{{< card-link-external title="Calcul FRAX" url="https://www.fraxplus.org/fr/calculation-tool" subtitle="Site officiel FraxPlus" >}}
 
 ### Décision de traitement anti-ostéoporotique selon le calcul du FRAX
 
