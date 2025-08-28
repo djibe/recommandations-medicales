@@ -15,7 +15,6 @@ tags = []
 english = ["Dysphagia"]
 sctid = "40739000"
 icd10 = ["R13"]
-draft = true
 image = false
 imageSrc = ""
 todo = "photo > flow"
