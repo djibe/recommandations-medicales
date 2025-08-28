@@ -6,8 +6,8 @@ description = "Recommandations pour le diagnostic et la prise en charge des trou
 synonyms = ["Épisodes maniaco-dépressifs"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-03-07T17:48:57+01:00"
-publishdate = "2025-08-06"
-lastmod = "2025-08-14"
+publishdate = "2025-08-28"
+lastmod = "2025-08-28"
 specialites = ["psychiatrie"]
 annees = "2023"
 sources = ["NICE", "HAS"]
@@ -15,19 +15,21 @@ tags = []
 english = ["Bipolar disorder"]
 sctid = "13746004"
 icd10 = ["F31", "F31.9"]
-draft = true
 image = false
 imageSrc = ""
-todo = "summary > liens > photo > newsletter > flow > Kanban | HASp1 | hospi sous contrainte | Coder MDQ"
+todo = "photo > flow | HASp1 | hospi sous contrainte | Coder MDQ"
 +++
 
 {{%article-summary%}}
 
-- Le trouble bipolaire est un trouble fréquent et très grave de l'humeur débutant précocement, entre 15 et 25 ans, avec alternance d'épisodes maniaques ou hypomaniaques et d'épisodes dépressifs caractérisés avec intervalles libres
-- Toujours rechercher des symptômes maniaques en cas de dépression atypique: avant 25 ans ou dans le post-partum, épisodes multiples (3 ou plus), réponse atypique au traitement antidépresseur, absence de facteur déclenchant, hypersomnie, agitation
-- Devant une suspicion de trouble bipolaire, l'avis psychiatrique
- 
-TODO: (at the end)
+- Le trouble bipolaire est un trouble fréquent et très grave de l'humeur débutant tôt, entre 15 et 25 ans. Des épisodes des 2 extrêmes de spectre des troubles de l'humeur alternent: épisodes maniaques ou hypomaniaques et épisodes dépressifs caractérisés, entrecoupés d'intervalles libres
+- L'épisode maniaque ou mixte sont des urgences psychiatriques
+- Toujours rechercher des symptômes maniaques en cas de dépression atypique: avant 25 ans ou dans le post-partum, dépressions multiples (3 ou plus), réponse atypique au traitement antidépresseur, absence de facteur déclenchant, hypersomnie, agitation
+- Devant une suspicion de trouble bipolaire, l'avis psychiatrique est impératif pour porter le diagnostic et démarrer un traitement adapté
+- La prise en charge du trouble bipolaire associe:
+  - Traitement médicamenteux prophylactique thymorégulateur: lithium surtout avec surveillance biologique rigoureuse (voire divalproate de sodium ou carbamazépine)
+  - Ne pas utiliser les antidépresseurs au cours du trouble bipolaire (ou sur prescription spécialisée uniquement)
+  - Psychothérapie: de soutien, TCC, thérapie interpersonnelle
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -160,7 +162,7 @@ Le trouble bipolaire **débute entre 15 et 25 ans** (très rare chez l'enfant), 
 
 ### Interrogatoire
 
-L'interrogatoire de l'entourage est important, une fois l'accord du patient obtenu.
+L'interrogatoire de l'**entourage** est important, une fois l'accord du patient obtenu.
 
 - Le trouble bipolaire début surtout de **15 à 19 ans**
 - Antécédents:
@@ -197,6 +199,8 @@ En plus des critères de sévérité communs aux 2 formes (en gras ci-dessus), r
 
 ### Examen clinique
 
+- Poids, taille et IMC
+- Pression artérielle, fréquence cardiaque
 - Examen: voir *Critères diagnostiques*
 - Signes infectieux, endocriniens ou dermatologiques
 - **Retentissement somatique**: dénutrition, déshydratation, incurie
@@ -255,15 +259,15 @@ La prise en charge thérapeutique du trouble bipolaire est uniquement spécialis
 
 Mesures générales de prise en charge du trouble bipolaire:
 
-- Contraception
 - **Psychothérapie**  
-  De soutien, thérapie cognitive et comportementale (TCC), thérapie interpersonnelle éducation thérapeutique, neuropsychologue. Voir [MonSoutienPsy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}).
+  De soutien, thérapie cognitive et comportementale (TCC), thérapie interpersonnelle, neuropsychologue. Voir [MonSoutienPsy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}).
+- Contraception
+- Évaluations cardiovasculaires intensifiées
 - Information du patient: [guide Ameli](https://www.ameli.fr/assure/sante/themes/trouble-bipolaire), [guide CHU Montpellier](https://www.chu-montpellier.fr/fileadmin/medias/Publications/Le-trouble-Bipolaire.pdf)
 - Association de patients: [ARGOS 2001](https://argos2001.net), [Bipolarité France](https://bipolaritefrance.com), [UNAFAM](https://www.unafam.org), [Bipolaire si tu savais](https://bipolairesitusavais.com), [Bicycle](https://www.bicycle-asso.org), [France dépression](https://francedepression.fr), [Le funambule](https://www.bipolarite.org)
 - Déclarer l'[ALD n°23]({{% relref "affection-longue-duree.md" %}})
 - ± MDPH
 - ± Sauvegarde de justice
-- Évaluations cardiovasculaires intensifiées
 
 Le suivi du trouble bipolaire est au moins annuel après équilibration.
 
@@ -272,7 +276,8 @@ Le suivi du trouble bipolaire est au moins annuel après équilibration.
 Le trouble bipolaire nécessite un traitement prophylactique au long cours, le plus souvent le **lithium** ([Téralithe®](https://bdpm.ansm.sante.fr/medicament/62124478/extrait#tab-rcp)):
 
 - Posologie initiale: 250 mg x 2-3/j
-- Lithémie cible: 0,6 - 0,8 mEq/L
+- Lithémie cible: 0,6 - 0,8 mEq/L (voire 0,8-1 si résistance)  
+  1 semaine après chaque changement de dose jusqu'à la cible.
 - Effets indésirables principaux: prise de poids, polyurie, tremblement, hypothyroïdie 20%, hyperparathyroïdie, maladie rénale chronique
 
 Autres thymorégulateurs: antiépileptique divalproate de sodium (Dépakote®, Divalcote®) ou carbamazépine.
@@ -296,11 +301,23 @@ Ne pas utiliser les antidépresseurs au cours du trouble bipolaire (ou sur presc
 
 Le suivi du trouble bipolaire est au moins annuel après équilibration:
 
+- Toxiques
+- Métabolique
+  - Poids, IMC
+  - Alimentation
+  - Activité physique
+  - Glycémie à jeun, bilan lipidique
+- Cardiovasculaire
+  - Pression artérielle, fréquence cardiaque
+  - Risque cardiovasculaire
+- Bilan hépatique
 - Symptômes
+  - Maniaques, dépressifs
   - Surveillance et prévention du suicide, traitement au long cours, repérer et traiter les comorbidités
 - Observance, effets indésirables
 - Dernière consultation du psychiatre et modifications thérapeutiques
 - Contraception
+- Si lithium: lithémie tous les 6 mois (trimestrielle la 1^re année ou fragilité, interactions, observance) avec créatinine, TSH et calcémie
 
 {{% /collapse %}}
 {{%sources%}}
@@ -311,13 +328,13 @@ Le suivi du trouble bipolaire est au moins annuel après équilibration:
 - [Collège National Universitaire de Psychiatrie (CNUP). Troubles de l'humeur - Troubles bipolaires de l'adolescent et de l'adulte. Référentiel de Psychiatrie et Addictologie. 2024. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_4ed.pdf)
 - [NICE. Bipolar disorder: assessment and management. Clinical guideline. 2023.](https://www.nice.org.uk/guidance/cg185/chapter/Recommendations)
 - [Goes F. Diagnosis and management of bipolar disorders. BMJ. 2023.](https://www.bmj.com/content/381/bmj-2022-073591)
-- [Goodwin GM, et al. Evidence-based guidelines for treating bipolar disorder: Revised third edition recommendations from the British Association for Psychopharmacology. J Psychopharmacol. 2016.](https://pmc.ncbi.nlm.nih.gov/articles/PMC4922419/)
 - [HAS. Patient avec un trouble bipolaire : repérage et prise en charge initiale en premier recours. 2015.](https://www.has-sante.fr/jcms/c_1747465/fr/patient-avec-un-trouble-bipolaire-reperage-et-prise-en-charge-initiale-en-premier-recours)
 
 ### Bibliographie en attente
 
 - [Nierenberg AA, et al. Diagnosis and Treatment of Bipolar Disorder: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2810502) (payant)
 - [Zaidi S, et al. Monitoring drug interventions in people with bipolar disorder. BMJ. 2023.](https://www.bmj.com/content/380/bmj-2022-070678) (payant)
+- [Goodwin GM, et al. Evidence-based guidelines for treating bipolar disorder: Revised third edition recommendations from the British Association for Psychopharmacology. J Psychopharmacol. 2016.](https://pmc.ncbi.nlm.nih.gov/articles/PMC4922419/)
 - Prescrire
 - [International Society for Bipolar Disorders (ISBD)](https://www.isbd.org)
 

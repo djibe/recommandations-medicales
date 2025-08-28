@@ -282,7 +282,7 @@ Rechercher les complications d'un mésusage de l'alcool et proposer un suivi sp�
 - Complications psychiatriques
   - Anxiété, [dépression]({{% relref "depression.md" %}})
   - Troubles du sommeil
-  - Troubles de la personnalité (anti-sociale, borderline) ou bipolaire  
+  - Troubles de la personnalité (anti-sociale, borderline) ou [bipolaire]({{% relref "trouble-bipolaire.md" %}})  
     Évaluation nécessite consommation à faible risque pendant 15 jours.
   - Psychose
   - Évaluation du risque suicidaire

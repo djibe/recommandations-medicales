@@ -116,7 +116,7 @@ Un repérage ciblé de la boulimie est recommandé chez les groupes à risque:
 - Manifestations psychologiques
   - Tentative de suicide, automutilations
   - Addictions
-  - Troubles anxieux ou bipolaire
+  - Troubles anxieux ou [bipolaire]({{% relref "trouble-bipolaire.md" %}})
   - Troubles de la personnalité (personnalité limite)
   - Troubles de déficit de l'attention avec hyperactivité
   - Abus sexuel, maltraitance

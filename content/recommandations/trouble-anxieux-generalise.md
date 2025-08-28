@@ -177,7 +177,7 @@ Adresser au psychiatre si: adolescent ou jeune adulte, diagnostic incertain, com
 - Troubles psychiatriques
   - Troubles anxieux: stress post-traumatique, trouble de l'adaptation, trouble panique, trouble obsessionnel compulsif
   - Hypocondrie
-  - Épisode dépressif caractérisé, trouble bipolaire
+  - [Épisode dépressif caractérisé]({{% relref "depression.md" %}}), [trouble bipolaire]({{% relref "trouble-bipolaire.md" %}})
   - Enfant: phobie sociale (humiliations)
 
 {{% /collapse %}}

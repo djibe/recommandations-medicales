@@ -233,7 +233,7 @@ L'évaluation de la sévérité repose sur le nombre de critères, la sévérit�
 Diagnostic différentiel d'un épisode dépressif caractérisé:
 
 - Autres troubles psychiatriques
-  - Trouble bipolaire
+  - [Trouble bipolaire]({{% relref "trouble-bipolaire.md" %}})
   - Trouble dépressif persistant (ex dysthymie) ou récurrent (épisode dépressif saisonnier)
   - Trouble de l'adaptation
   - Trouble anxieux: [trouble anxieux généralisé]({{% relref "trouble-anxieux-generalise.md" %}}), état de stress post-traumatique

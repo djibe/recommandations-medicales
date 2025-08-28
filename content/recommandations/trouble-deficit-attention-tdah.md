@@ -97,7 +97,7 @@ L'ordre d'apparition des troubles est important pour déterminer un diagnostic d
 | Troubles obsessionnels compulsifs | TOC | Obsessions, compulsions, rituels |
 | Troubles de l'humeur | [Épisode dépressif caractérisé]({{% relref "depression.md" %}}) | Modification nette et récente de l'humeur, plus fréquent chez l'adolescent. Tristesse, idées suicidaires non exprimées spontanément, observées par des colères et irritabilité |
 || Trouble disruptif avec dysrégulation émotionnelle | Comportement explosif (rage, accès de colère d'intensité et fréquence supérieures à l'âge développemental) |
-|| Troubles bipolaires | Antécédents familiaux, humeur labile, irritabilité épisodique, troubles du sommeil. Rares avant l'adolescence |
+|| [Troubles bipolaires]({{% relref "trouble-bipolaire.md" %}}) | Antécédents familiaux, humeur labile, irritabilité épisodique, troubles du sommeil. Rares avant l'adolescence |
 | Psycho-traumatisme | Trouble de l'adaptation | Lié au stress, surtout transitoire, rechercher une rigidité cognitive |
 || État de stress post-traumatique (ESPT) | Modifications du comportement après 1/+ évènements traumatiques. Évitement, hypervigilance, reviviscence, troubles du sommeil. |
 || Trouble réactionnel de l'attachement ||
