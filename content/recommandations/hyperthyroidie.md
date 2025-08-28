@@ -128,7 +128,7 @@ L'examen clinique recherche les éléments du syndrome de thyrotoxicose.
   - Hyperactivité avec retentissement scolaire
 - Complications de l'hyperthyroïdie
   - Signes de compression cervicale  
-    Dyspnée laryngée, dysphagie, [dysphonie]({{% relref "dysphonie.md" %}}), troubles de la déglutition.
+    Dyspnée laryngée, [dysphagie]({{% relref "dysphagie.md" %}}), [dysphonie]({{% relref "dysphonie.md" %}}), troubles de la déglutition.
   - [Fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}) (10%)
   - Orbitopathie basedowienne  
     Rétraction palpébrale avec œdème, asynergie oculo-palpébrale, hyperhémie conjonctivale avec larmoiement, chémosis (œdème de la conjonctive), photophobie, exophtalmie, diplopie.

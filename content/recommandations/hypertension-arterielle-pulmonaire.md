@@ -140,7 +140,7 @@ Les signes cliniques de l'HTAP sont peu spécifiques et doivent être évoqués 
   {{< clinique/insuffisance-cardiaque-droite >}}
 - Signes d'hypertension portale
 - Signes de sclérodermie  
-  [Phénomène de Raynaud]({{% relref "phenomene-raynaud.md" %}}), sclérodactylie, télangiectasies, calcifications sous-cutanées, ulcérations digitales, dysphagie, [dyspepsie]({{% relref "dyspepsie.md" %}}) ...
+  [Phénomène de Raynaud]({{% relref "phenomene-raynaud.md" %}}), sclérodactylie, télangiectasies, calcifications sous-cutanées, ulcérations digitales, [dysphagie]({{% relref "dysphagie.md" %}}), [dyspepsie]({{% relref "dyspepsie.md" %}}) ...
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

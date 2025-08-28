@@ -26,11 +26,11 @@ todo = "rankok | interrogatoire, rythme suivi RGO par EOGD, Reflux Disease Quest
 
 {{%article-summary%}}
 
+- Le reflux gastro-œsophagien correspond à l'ensemble des manifestations liées à la remontée d'acidités gastriques vers l'œsophage
 - Le diagnostic de reflux gastro-œsophagien (RGO) est clinique: signes typiques en l'absence de signes d'alarme
 - Signes d'alarme d'un reflux gastrique: amaigrissement, anémie, dysphagie, hémorragie digestive, vomissements répétés, échec du traitement
 - Indications à la fibroscopie pour le bilan d'un reflux: symptômes atypiques isolés, signe d'alarme, âge +50 ans, résistance aux IPP ou rechute précoce à l'arrêt
-- Prise en charge du reflux gastro-œsophagien: RHD > antiacides > oméprazole demi-dose
-- Rappel: on prononce "ésophage"
+- Prise en charge du reflux gastro-œsophagien: mesures hygiéno-diététiques en 1^re^ intention, pouvant être accompagnées d'antiacides voire d'oméprazole demi-dose (cure courte ou prolongée après EOGD)
 
 Les recommandations HAS 2024 pour le RGO du nourrisson ne sont pas encore intégrées.
 
@@ -43,6 +43,9 @@ Reflux gastro-œsophagien (RGO)
 
 Pyrosis
 : Sensation de brûlure rétro-sternale ascendante.
+
+> [!INFO]
+> Rappel: on prononce << ésophage >>.
 
 ### Complications du RGO
 
@@ -79,7 +82,7 @@ SNFGE
 
 - Amaigrissement
 - Anémie
-- Dysphagie
+- [Dysphagie]({{% relref "dysphagie.md" %}})
 - Hémorragie digestive
 - Vomissements répétés
 - Échec du traitement
@@ -316,7 +319,7 @@ Favorisée par l'obésité et une hernie hiatale.
 {{% /collapse %}}
 {{%sources%}}
 
-- [Tighe MP et al. Pharmacological treatment of gastro‐oesophageal reflux in children. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008550.pub3/full/fr)
+- [Tighe MP, et al. Pharmacological treatment of gastro‐oesophageal reflux in children. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008550.pub3/full/fr)
 - [HAS. Bon usage des inhibiteurs de la pompe à protons (IPP). Septembre 2022.](https://www.has-sante.fr/upload/docs/application/pdf/2022-09/fiche_bum_-_bon_usage_des_inhibiteurs_de_la_pompe_a_protons_ipp.pdf)
 - Zerbib F. Traitement endoscopique du reflux gastro-œsophagien : la quête du graal continue. GastroScoop. 27/04/2022.
 - Prescrire Redaction. Reflux gastro-œsophagien chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2022.
@@ -324,7 +327,7 @@ Favorisée par l'obésité et une hernie hiatale.
 - Jouet P. Faut-il diminuer les FODMAPs en cas de RGO ? GastroScoop. 28/07/2021.
 - [Rouillon JM. Traitement du RGO. SNFGE. (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Bibliotheque_scientifique/traitement_du_rgo.pdf)
 - [SNFGE. Reflux gastro-œsophagien (RGO)](https://www.snfge.org/grand-public/maladies-digestives/reflux-gastro-oesophagien-rgo)
-- [Gyawali CP et al. Modern diagnosis of GERD: the Lyon Consensus. Gut. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6031267/)
+- [Gyawali CP, et al. Modern diagnosis of GERD: the Lyon Consensus. Gut. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6031267/)
 
 ### Bibliographie en attente
 

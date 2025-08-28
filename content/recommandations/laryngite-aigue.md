@@ -113,7 +113,7 @@ Les autres laryngites de l'adulte sont:
   - Toux (nocturne ou non), durée
   - Raucité de la voix, [dysphonie]({{% relref "dysphonie.md" %}}), aphonie
   - Dyspnée, stridor, cornage
-  - Dysphagie (sous-glottique)
+  - [Dysphagie]({{% relref "dysphagie.md" %}}) (sous-glottique)
 
 ### Examen clinique
 

@@ -80,7 +80,7 @@ Signes de gravité devant un syndrome dyspeptique nécessitant la réalisation d
 - Âge +50 ans
 - Amaigrissement
 - Anémie
-- Dysphagie
+- [Dysphagie]({{% relref "dysphagie.md" %}})
 - Odynophagie
 {{%/danger%}}
 

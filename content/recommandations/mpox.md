@@ -104,7 +104,7 @@ Signes de gravité de la variole du singe:
 
 - Fièvre supérieure à 38,3°C pendant 7 jours
 - Plus de 100 lésions cutanées
-- Douleurs buccales avec odynophagie et dysphagie
+- Douleurs buccales avec odynophagie et [dysphagie]({{% relref "dysphagie.md" %}})
 - Adénopathies cervicales volumineuses avec risque de compression des voies aériennes
 - Troubles digestifs  
   Nausées, vomissements.

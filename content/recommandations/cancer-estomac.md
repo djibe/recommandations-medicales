@@ -119,7 +119,7 @@ Un cancer de l'estomac doit être évoqué et exploré devant:
 - [Reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}}) après 50 ans ou reflux atypique
 - Signes digestifs chroniques  
   - Épigastralgies, nausées/vomissements
-  - Dysphagie progressive
+  - [Dysphagie]({{% relref "dysphagie.md" %}}) progressive
   - Hématémèse, méléna
   - Avec amaigrissement
 - Complications digestives

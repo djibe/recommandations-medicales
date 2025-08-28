@@ -125,7 +125,7 @@ PVVIH
 
 Tableau de la **gingivostomatite herpétique** lors de la primo-infection symptomatique:
 
-- Prodromes: **fièvre** élevée, dysphagie
+- Prodromes: **fièvre** élevée, [dysphagie]({{% relref "dysphagie.md" %}})
 - **Éruption ulcéreuse** et douloureuse buccogingivale diffuse  
   Risque de déshydratation.
 - Autres signes: adénopathies sous-maxillaires, hypersialorrhée, haleine fétide

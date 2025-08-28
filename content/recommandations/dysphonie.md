@@ -135,7 +135,7 @@ Le diagnostic de dysphonie est clinique:
 - **Symptômes associés** à la dysphonie:
   - Toux, hémoptysie
   - Odynophagie, otalgie
-  - Dyspnée, dysphagie, fausses routes
+  - Dyspnée, [dysphagie]({{% relref "dysphagie.md" %}}), fausses routes
   - Dysarthrie
   - Rhinorrhée
   - Pyrosis, régurgitations, reflux

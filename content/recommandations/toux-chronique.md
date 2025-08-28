@@ -70,7 +70,7 @@ VADS
 - Hémoptysie
 - Apparition/modification de la toux chez un fumeur
 - [Dysphonie]({{% relref "dysphonie.md" %}})
-- Dysphagie
+- [Dysphagie]({{% relref "dysphagie.md" %}})
 - Fausses routes
 - Adénopathie(s) cervicale(s) suspecte(s)
 - Anomalies majeures de l'examen clinique cardiopulmonaire
@@ -98,7 +98,7 @@ Autres causes de toux à éliminer (par ordre anatomique):
 - Cause ORL
   - Rhinite, sinusite, rhinorrhée postérieure
   - Carrefour aéro-digestif  
-    Dysphonie, fausse-route, dysphagie, régurgitations, paresthésies pharyngées. Avis ORL.  
+    Dysphonie, fausse-route, [dysphagie]({{% relref "dysphagie.md" %}}), régurgitations, paresthésies pharyngées. Avis ORL.  
     Toux suivie d'asphyxie aiguë sans perte de connaissance (spasmes laryngés).  
     Examen: adénopathies cervicales, goitre, hypertrophie amygdalienne, luette longue. Avis ORL.  
     Affections du conduit auditif externe exceptionnels.

@@ -117,7 +117,7 @@ Les lymphomes non hodgkiniens sont le plus souvent révélés par des poly-adén
   - Signes généraux (dits "symptômes B"): amaigrissement (AEG), fièvre > 38 °C (+8 jours), [sueurs nocturnes](/tags/sueurs-nocturnes/) profuses
   - Prurit
   - Autres symptômes par envahissement organique  
-    Digestif (syndrome occlusif), ophtalmique (conjonctive, exophtalmie, trouble oculomoteur), cutané (nodules, plaques, érythrodermie), ORL ([dysphonie]({{% relref "dysphonie.md" %}}), dysphagie, otalgie), masse testiculaire, neurologique.
+    Digestif (syndrome occlusif), ophtalmique (conjonctive, exophtalmie, trouble oculomoteur), cutané (nodules, plaques, érythrodermie), ORL ([dysphonie]({{% relref "dysphonie.md" %}}), [dysphagie]({{% relref "dysphagie.md" %}}), otalgie), masse testiculaire, neurologique.
   - Signes de compression  
     Syndrome cave supérieur, œdèmes des membres inférieurs, phlébite, compression médullaire.
 
