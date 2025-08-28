@@ -6,8 +6,8 @@ description = "Recommendations pour le diagnostic et la prise en charge d'une dy
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-08-15T11:22:09+02:00"
-publishdate = "2025-08-29"
-lastmod = "2025-08-29"
+publishdate = "2025-08-28"
+lastmod = "2025-08-28"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2025"
 sources = ["UEG"]
@@ -18,6 +18,7 @@ icd10 = ["R13"]
 image = false
 imageSrc = ""
 todo = "photo > flow"
+flowchart = true
 +++
 
 {{%article-summary%}}
