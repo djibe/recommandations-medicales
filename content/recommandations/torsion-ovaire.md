@@ -1,21 +1,21 @@
 +++
-id = "https://www.uuidgenerator.net/version7"
-title = "{{ replace .Name '-' ' ' | title }}"
-titleSeo = "In case of long title or delete whole line (max 70 ch ... or more)"
+id = "0198f240-dac5-7e84-87b0-df667e0b49fa"
+title = "Torsion de l'ovaire"
+titleSeo = "Torsion de l'ovaire"
 prefix = "la "
-description = "Title 2-22 words and description 160 characters max"
-synonyms = []
+description = "TODO:"
+synonyms = ["Torsion ovarienne", "torsion d'annexe"]
 auteurs = ["Jean-Baptiste FRON"]
-date = "{{ .Date }}"
-publishdate = "{{ now.Format "2006-01-02" }}"
-lastmod = "{{ now.Format "2006-01-02" }}"
-specialites = ["endocrinologie"]
-annees = "2020"
-sources = ["Society1", "Society2"]
-tags = ["tag 1", "tag 2"]
-english = ["English word", "you can add one or delete this one"]
-sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = ["sctid > Concept Details > Refsets"]
+date = "2025-08-28T21:56:22+02:00"
+publishdate = "2025-08-28"
+lastmod = "2025-08-28"
+specialites = ["gynécologie-obstétrique"]
+annees = "2019"
+sources = ["ACOG"]
+tags = []
+english = ["Adnexal Torsion"]
+sctid = "13595002"
+icd10 = ["N83.5"]
 draft = true
 image = false
 imageSrc = ""
@@ -31,8 +31,8 @@ TODO: (at the end)
 
 ### Abréviations
 
-ACG
-: {{%lang%}}American College of Gastroenterology{{%/lang%}}
+ACOG
+: {{%lang%}}The American College of Obstetricians and Gynecologists{{%/lang%}}
 {.dl-inline}
 
 {{% /collapse %}}
