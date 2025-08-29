@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-24T09:13:24+02:00"
 publishdate = "2023-04-24"
-lastmod = "2023-11-30"
+lastmod = "2025-08-29"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2022"
 sources = ["ASCRS", "SNFCP"]
@@ -24,9 +24,9 @@ flowchart = true
 {{%article-summary%}}
 
 - La fissure anale est une plaie cutanée et/ou muqueuse linéaire superficielle de la partie basse du canal anal
-- Le diagnostic de fissure anale est clinique: douleur anale intense rythmée par la défécation et constation d'une fissure à l'inspection minutieuse
+- Le diagnostic de fissure anale est clinique: douleur anale intense rythmée par la défécation et constatation d'une fissure à l'inspection minutieuse
 - Avis spécialisé proctologique en cas de fissures anales latérales ou multiples pour éliminer une cause grave (Crohn, infection sexuelle ano-rectale ...)
-- La prise en charge de la fissure anale est hygiéno-diététique et prolongée en première intention: bains de siège, laxatif ispaghul, antalgie ± anti-inflammatoires (AINS), anesthésique local avec lidocaïne (50% de guérison à 6 semaines)
+- La prise en charge de la fissure anale est hygiéno-diététique et prolongée en première intention: bains de siège, laxatif ispaghul, antalgie ± anti-inflammatoires AINS, anesthésique local avec lidocaïne (50% de guérison à 6 semaines)
 - Le traitement d'une fissure anale chronique est spécialisé par le proctologue (toxine botulique voire chirurgie)
 
 {{%/article-summary%}}
@@ -34,7 +34,7 @@ flowchart = true
 
 Fissure anale
 : Déchirure linéaire superficielle de la partie basse du canal anal qui s'étend le plus souvent de la ligne pectinée vers le bord anal (médiane postérieure pour 3/4). Elle est dite *chronique* à partir de 6 semaines d'évolution.
-: La fissure anale guérit en moins de 6 semaines pour 50% des patients mais les récidives sont fréquentes.
+: La fissure anale guérit en moins de 6 semaines chez la moitié des patients mais les récidives sont fréquentes.
 
 ### Facteurs de risque de fissure anale
 
@@ -62,7 +62,7 @@ SNFCP
 
 Autres diagnostics à étayer devant des douleurs anales:
 
-- Abcès périanal (douleur permanente pulsatile)
+- Abcès péri-anal (douleur permanente pulsatile)
 - Fistule anorectale (écoulement purulent)
 - [Thrombose hémorroïdaire externe]({{% relref "hemorroides.md" %}}) (douleur permanente)
 - Dermatose: [psoriasis]({{% relref "psoriasis.md" %}}), [eczéma]({{% relref "dermatite-atopique.md" %}})
@@ -108,11 +108,11 @@ Le traitement et la prise en charge des fissures anales est hygiéno-diététiqu
 - Bains de siège
 - Lavage à l'eau et au savon après chaque selle puis séchage doux
 - Lutte contre la constipation:
-  - Laxatifs: [ispaghul](https://bdpm.ansm.sante.fr/medicament/67437758/extrait#tab-rcp), lactulose ou macrogol chez l'enfant
+  - Laxatifs: [ispaghul](https://bdpm.ansm.sante.fr/medicament/67437758/extrait#tab-rcp) (ou psyllium), lactulose ou macrogol chez l'enfant
   - Apports hydriques et en fibres  
     Chez l'enfant, obtenir des selles << compote >> et éviter les suppositoires.
-- Antalgie ± anti-inflammatoires AINS
-- Si besoin: anesthésiques locaux avec lidocaïne ([Anesderm 5%®](https://bdpm.ansm.sante.fr/medicament/63794766/extrait#tab-rcp), [Emla 5%®](https://bdpm.ansm.sante.fr/medicament/63396602/extrait#tab-rcp), [Titanoréïne lidocaïne®](https://bdpm.ansm.sante.fr/medicament/61165034/extrait#tab-rcp) ...) ou autre (Rectoquotane®, Sédorrhoïde crise hémorroïdaire®, Tronothane 1%®)  
+- Antalgie au paracétamol ± anti-inflammatoires AINS
+- Si besoin: anesthésiques locaux avec **lidocaïne** ([Anesderm 5%®](https://bdpm.ansm.sante.fr/medicament/63794766/extrait#tab-rcp), [Emla 5%®](https://bdpm.ansm.sante.fr/medicament/63396602/extrait#tab-rcp), [Titanoréïne lidocaïne®](https://bdpm.ansm.sante.fr/medicament/61165034/extrait#tab-rcp) ...) ou autre (Rectoquotane®, Sédorrhoïde crise hémorroïdaire®, Tronothane 1%®)  
   Avant et après la défécation chez le +12 ans.
 - Voire trinitrine topique [Rectogesic® NR](https://bdpm.ansm.sante.fr/medicament/65328888/extrait#tab-rcp) (céphalées)
 
@@ -121,7 +121,7 @@ Le traitement et la prise en charge des fissures anales est hygiéno-diététiqu
 > [!INFO]
 > Le traitement des fissures anales chroniques relève d'une prise en charge proctologique.
 
-La prise en charge chronique peut être: trinitrine topique (voir ci-dessus, peut réduire de moitié le recours à la chirurgie), inhibiteur calcique topique (diltiazem ou nifédipine Nifexine®), toxine botulique type A.
+La prise en charge chronique peut être: trinitrine topique (voir plus haut, peut réduire de moitié le recours à la chirurgie), inhibiteur calcique topique (diltiazem ou nifédipine [Nifexine®](https://bdpm.ansm.sante.fr/medicament/63967022/extrait#tab-rcp)), toxine botulique type A.
 
 Une chirurgie par sphinctérotomie latérale interne peut être envisagée. La cicatrisation est longue (de 6 à 16 semaines).
 
