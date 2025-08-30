@@ -105,7 +105,7 @@ Bilan pré thérapeutique du méthotrexate:
 - Bilan: NFS, créatininémie, ASAT, ALAT, GGT
 - 1/semaine le 1^er^ mois
 - Puis mensuel pendant 2 mois
-- Puis trimestriel (1-2 jours avant l'injection)
+- Puis trimestriel (1 à 2 jours avant l'injection)
 
 > -- Schéma de surveillance du *GETAID*
 

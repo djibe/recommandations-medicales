@@ -198,4 +198,8 @@ graph TB
 - [Gocko X et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X19306201)
 - [Adler Y, et al. 2015 ESC Guidelines for the diagnosis and management of pericardial diseases: The Task Force for the Diagnosis and Management of Pericardial Diseases of the European Society of Cardiology (ESC) Endorsed by: The European Association for Cardio-Thoracic Surgery (EACTS). Eur Heart J. 2015.](https://academic.oup.com/eurheartj/article/36/42/2921/2293375)
 
+### Bibliographie en attente
+
+[Schulz-Menger J, et al. 2025 ESC Guidelines for the management of myocarditis and pericarditis. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaf192/8234483)
+
 {{%/sources%}}

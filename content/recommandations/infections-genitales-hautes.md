@@ -82,7 +82,7 @@ Autres diagnostics à évoquer devant un tableau d'infection génitale haute:
 - [Appendicite aiguë]({{% relref "appendicite-aigue.md" %}}) pelvienne
 - [Infection urinaire]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}})
 - Grossesse extra-utérine
-- Autres algies pelviennes: torsion d'annexe, [endométriose]({{% relref "endometriose.md" %}}), pathologie ovarienne, algie périovulatoire et périmenstruelle
+- Autres algies pelviennes: [torsion d'annexe]({{% relref "torsion-ovaire.md" %}}), [endométriose]({{% relref "endometriose.md" %}}), pathologie ovarienne, algie périovulatoire et périmenstruelle
 - [Diverticulite sigmoïdienne]({{% relref "diverticulite-sigmoidienne.md" %}})
 
 {{% /collapse %}}
