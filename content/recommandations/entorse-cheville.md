@@ -297,7 +297,7 @@ graph TB
 - [Collège Français des Chirurgiens Orthopédistes et Traumatologues (COFCOT). Lésions péri-articulaires et ligamentaires de la cheville (lésions ligamentaires). Orthopédie Traumatologie. 3e édition. 2020. (PDF)](https://www.sofcot.fr/sites/www.sofcot.fr/files/medias/documents/CollegeOrthop%C3%A9dieTraumatologieELLIPSES%203%C3%A8me%20%C3%A9dition.pdf)
 - [Derry S, et al. Topical NSAIDs for acute musculoskeletal pain in adults. Cochrane Database of Systematic Reviews. 2015.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007402.pub3/full/fr?highlightAbstract=entors%7Centorse%7Ccheville%7Cchevill)
 - [Bachmann LM, et al. Accuracy of Ottawa ankle rules to exclude fractures of the ankle and mid-foot: systematic review. BMJ. 2003.](https://www.bmj.com/content/326/7386/417)
-- [Anaes. Rééducation de l'entorse externe de la cheville. Recommandations pour les pratiques de soins. 2000.](https://www.has-sante.fr/jcms/c_272398/fr/reeducation-de-l-entorse-externe-de-la-cheville)
+- [ANAES. Rééducation de l'entorse externe de la cheville. Recommandations pour les pratiques de soins. 2000.](https://www.has-sante.fr/jcms/c_272398/fr/reeducation-de-l-entorse-externe-de-la-cheville)
 - [Vermeulen B, et al; Société Francophone d'Urgences Médicales. L'entorse de la cheville au service d'Urgences. 1995.](https://www.sfmu.org/fr/vie-professionnelle/outils-professionnels/consensus//entorse-de-cheville/con_id/174)
 - [Stiell IG, et al. A study to develop clinical decision rules for the use of radiography in acute ankle injuries. Ann Emerg Med. 1992.](https://www.annemergmed.com/article/S0196-0644(05)82656-3/abstract)
 - {{< references/aderim >}}

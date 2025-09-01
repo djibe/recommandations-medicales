@@ -10,7 +10,7 @@ publishdate = "2024-03-01"
 lastmod = "2024-09-24"
 specialites = ["gynécologie-obstétrique"]
 annees = "2015"
-sources = ["CNGOF", "Anaes"]
+sources = ["CNGOF", "ANAES"]
 tags = ["atopie", "cancer", "contraception", "grossesse", "nourrisson", "obesite", "tabac", "VIH"]
 english = ["Breastfeeding"]
 sctid = "1297276008"
@@ -55,7 +55,7 @@ CNGOF
 {{%collapse "Allaitement maternel" %}}
 
 > [!INFO]
-> << L'allaitement maternel exclusif permet un développement optimal du nourrisson jusqu'à 6 mois. >> -- *Anaes*. L'allaitement n'est pas compromis si le bébé ne tète pas immédiatement à la naissance.
+> << L'allaitement maternel exclusif permet un développement optimal du nourrisson jusqu'à 6 mois. >> -- *ANAES*. L'allaitement n'est pas compromis si le bébé ne tète pas immédiatement à la naissance.
 
 Un allaitement maternel à la demande exclusif et prolongé 4 à 6 mois est recommandé. La proximité de la mère et de l'enfant 24 heures sur 24 favorise l'allaitement à la demande.
 
@@ -79,7 +79,7 @@ Informations sur l'allaitement maternel:
 - Antalgie: paracétamol, ibuprofène (périnée, tranchées) voire néfopam ou tramadol
 - Imageries: aucun examen d'imagerie ne justifie d'interrompre l'allaitement
 
-> << L'incapacité anatomique ou physiologique à produire suffisamment de lait est très rare. >> -- *Anaes*
+> << L'incapacité anatomique ou physiologique à produire suffisamment de lait est très rare. >> -- *ANAES*
 
 {{% /collapse %}}
 {{%collapse "Contre-indications à l'allaitement maternel" %}}
@@ -90,7 +90,7 @@ Les contre-indications à un allaitement maternel sont:
 - Infection par le [VIH/SIDA]({{% relref "vih-sida.md" %}})
 - [Hépatite C]({{% relref "hepatite-c.md" %}}) (si la charge virale est détectable)
 - Usage de cocaïne
-- Galactosémie du nourrisson (*Anaes*)
+- Galactosémie du nourrisson (*ANAES*)
 - Infection par HTLV-1 en l'absence de stérilisation du lait (*[ADLF](https://association-des-lactariums-de-france.fr/virus-htlv-et-allaitement-maternel/)*)
 
 > -- *CNGOF 2015*
@@ -269,7 +269,7 @@ Les contre-indications au don de lait sont celles du don du sang.
 - [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Post%20partum/Postpartum%202015-RPC.pdf?x60010)
 - [Chantry AA, et al; CNGOF. Allaitement maternel (partie 1) : fréquence, bénéfices et inconvénients, durée optimale et facteurs influençant son initiation et sa prolongation. Recommandations pour la pratique clinique. 2015.](https://www.sciencedirect.com/science/article/abs/pii/S0368231515002665)
 - [Marcellin L, et al; CNGOF. Allaitement maternel (partie 2) : méthodes d'inhibition de la lactation. Recommandations pour la pratique clinique. 2015.](https://www.sciencedirect.com/science/article/abs/pii/S0368231515002689)
-- [Anaes. Allaitement maternel - Mise en œuvre et poursuite dans les 6 premiers mois de vie de l'enfant. 2002.](https://www.has-sante.fr/jcms/c_272220/fr/allaitement-maternel-mise-en-oeuvre-et-poursuite-dans-les-6-premiers-mois-de-vie-de-l-enfant)
+- [ANAES. Allaitement maternel - Mise en œuvre et poursuite dans les 6 premiers mois de vie de l'enfant. 2002.](https://www.has-sante.fr/jcms/c_272220/fr/allaitement-maternel-mise-en-oeuvre-et-poursuite-dans-les-6-premiers-mois-de-vie-de-l-enfant)
 - [Lactaclic](https://lactaclic.fr)
 
 ### Bibliographie en attente

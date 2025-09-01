@@ -352,7 +352,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 | Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |
 | [Fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}) | Tout âge: dépistage opportuniste par pouls/ECG. +75 ans: ECG systématique à considérer | ESC 2023 diabetes |
 | [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) | Dépistage avec brassard adapté tous les 1 à 3 ans | ESH 2023      |
-| [Incontinence urinaire]({{% relref "incontinence-urinaire-femme.md" %}}) | Dépistage à l'interrogatoire         | Anaes 2003               |
+| [Incontinence urinaire]({{% relref "incontinence-urinaire-femme.md" %}}) | Dépistage à l'interrogatoire         | ANAES 2003               |
 | [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) | Dépistage systématique des symptômes et signes et (NT-pro)BNP si suspicion<br>(NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ESC 2023 diabetes<br>ADA 2022 |
 | [Stéatopathie métabolique]({{% relref "steatose-hepatique-et-nash.md" %}}) | Dépistage par échographie abdominale | AFEF 2020              |
 | [Stéatohépatite]({{% relref "steatose-hepatique-et-nash.md" %}}) (NASH) | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}} tous les 2 ans | AFEF 2020 |

@@ -197,7 +197,7 @@ La rééducation périnéale ne permet pas de traiter un [prolapsus]({{% relref 
 - [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Post%20partum/Postpartum%202015-RPC.pdf?x60010)
 - [HAS. Situations pathologiques pouvant relever de l'hospitalisation à domicile au cours de l'ante et du post-partum. 2011.](https://www.has-sante.fr/jcms/c_1066375/fr/situations-pathologiques-pouvant-relever-de-l-hospitalisation-a-domicile-au-cours-de-l-ante-et-du-post-partum)
 - [Dedecker F. Grossesses rapprochées : facteurs de risque et conséquences périnatales. Journal de gynécologie obstétrique et biologie de la reproduction. 2006.](https://www.em-consulte.com/article/115440)
-- [Anaes. Rééducation dans le cadre du post-partum. 2002.](https://www.has-sante.fr/jcms/c_272241/fr/reeducation-dans-le-cadre-du-post-partum)
+- [ANAES. Rééducation dans le cadre du post-partum. 2002.](https://www.has-sante.fr/jcms/c_272241/fr/reeducation-dans-le-cadre-du-post-partum)
 
 ### Bibliographie en attente
 

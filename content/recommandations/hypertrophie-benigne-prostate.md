@@ -347,7 +347,7 @@ graph TB
 - [Descazeaud A et al. Guide de prise en charge en médecine générale des symptômes du bas appareil urinaire de l'homme liés à une hyperplasie bénigne de la prostate. Prog Urol. 2015.](https://www.sciencedirect.com/science/article/pii/S1166708715000810)
 - [Descazeaud A et al. Bilan initial, suivi et traitement des troubles mictionnels en rapport avec hyperplasie bénigne de prostate : recommandations du CTMH de l'AFU. 2012.](https://www.urofrance.org/recommandation/bilan-initial-suivi-et-traitement-des-troubles-mictionnels-en-rapport-avec-hyperplasie-benigne-de-prostate-recommandations-du-ctmh-de-lafu/)
 - [McConnell JD et al. The long-term effect of doxazosin, finasteride, and combination therapy on the clinical progression of benign prostatic hyperplasia. N Engl J Med. 2003.](https://www.nejm.org/doi/10.1056/NEJMoa030656)
-- [Anaes. Prise en charge diagnostique et thérapeutique de l'hypertrophie bénigne de la prostate. 2003.](https://www.has-sante.fr/jcms/c_272237/fr/prise-en-charge-diagnostique-et-therapeutique-de-l-hypertrophie-benigne-de-la-prostate)
+- [ANAES. Prise en charge diagnostique et thérapeutique de l'hypertrophie bénigne de la prostate. 2003.](https://www.has-sante.fr/jcms/c_272237/fr/prise-en-charge-diagnostique-et-therapeutique-de-l-hypertrophie-benigne-de-la-prostate)
 
 ### Bibliographie en attente
 

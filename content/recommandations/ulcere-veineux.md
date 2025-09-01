@@ -8,12 +8,12 @@ synonyms = []
 auteurs = ["Mustapha DAHLAB", "Jean-Baptiste FRON"]
 date = "2023-11-20T12:00:20+01:00"
 publishdate = "2023-12-11"
-lastmod = "2023-12-11"
+lastmod = "2025-08-31"
 specialites = ["dermatologie"]
-annees = "2023"
-sources = ["CEDEF", "HAS"]
+annees = "2025"
+sources = ["SFMV", "HAS"]
 tags = []
-english = ["Venous ulcer of lower limb", "stasis ulcer of lower extremity"]
+english = ["Venous leg ulcers (VLU)"]
 sctid = "1237116009"
 icd10 = ["I83"]
 image = true
@@ -34,7 +34,8 @@ flowchart = true
 
 Ulcère veineux
 : Plaie de jambe ne cicatrisant pas depuis plus d'un mois (sauf récidive) dont la physiopathologie est uniquement liée à surpression veineuse (reflux dans les veines superficielles, obstruction des veines profondes et/ou déficience musculaire du mollet) sans artériopathie. Il atteint préférentiellement les femmes.
-: Enjeu de santé publique avec 650.000 patients soignés chaque année pour 1 milliards d'euros.
+: Les complications sont liées à la chronicité (< 40 % de cicatrisation à 3 mois), aux récidives (30 %) et l'altération de la qualité de vie.
+: L'ulcère veineux représente 70 à 80% des ulcères de jambe. C'est un enjeu de santé publique avec 272 millions d'euros de soins annuels.
 
 Ulcère mixte à prédominance veineuse
 : Ulcère préférentiellement veineux mais associé à une [artériopathie oblitérante des membres inférieurs]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) (AOMI) modérée. **La prise en charge est celle de l'AOMI**.
@@ -71,9 +72,6 @@ Réévaluation régulière en cas de: AOMI avec IPS de 0,6 à 0,9, neuropathie p
 AOMI
 : artériopathie oblitérante des membres inférieurs
 
-CEDEF
-: Collège des enseignants de dermatologie de France
-
 HAS
 : Haute Autorité de Santé
 
@@ -82,6 +80,9 @@ IPS
 
 MVTE (ou MTEV ou ETEV)
 : maladie veineuse thrombo-embolique
+
+SFMV
+: Société Française de Médecine Vasculaire
 
 TVP
 : thrombose veineuse profonde
@@ -124,12 +125,13 @@ Interrogatoire devant un ulcère de jambe:
 - Facteurs de risque cardiovasculaire
 - Tabagisme
 - Périmètre de marche
-- Symptômes
+- Symptômes d'insuffisance veineuse:
   - Lourdeurs de jambes, douleurs des jambes
   - Impatiences, prurit
   - Œdèmes vespéraux
   - Crampes au repos
 - Dépister une [dénutrition]({{% relref "denutrition.md" %}}) ({{< modal-btn modal-mna >}}score MNA{{< /modal-btn >}})
+- Qualité de vie
 
 ### Examen clinique
 

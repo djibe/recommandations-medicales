@@ -9,7 +9,7 @@ publishdate = "2020-07-27"
 lastmod = "2023-10-24"
 specialites = ["dermatologie"]
 annees = "2015"
-sources = ["SFD", "HAS", "EDF"]
+sources = ["SFD", "EDF"]
 tags = ["contraception", "grossesse"]
 english = ["Acne"]
 sctid = "11381005"
@@ -17,7 +17,7 @@ icd10 = ["L70", "L70.9"]
 image = true
 imageSrc = "Acné inflammatoire du visage. profeticsbeta sur Foter.com / CC BY-NC-SA"
 flowchart = true
-todo = "rankok, gluconate de zinc, outil"
+todo = "rankok | réécriture, gluconate de zinc, outil"
 +++
 
 {{%article-summary%}}
@@ -51,18 +51,6 @@ Acné fulminante
 : Acné nodulaire aiguë, fébrile et ulcéreuse. Exceptionnelle.
 : Début brutal avec AEG, fièvre élevée, arthralgies, hyperleucocytose et très nombreux nodules inflammatoires.
 
-### Diagnostic différentiel d'une acné
-
-- [Rosacée papulo-pustuleuse]({{% relref "rosacee.md" %}})  
-  Flushs du visage, conjonctivite, télangiectasies, symétrie des lésions et absence de comédons.
-- Dermatite péri-orale ou folliculite infectieuse  
-  Absence de comédons.
-- Folliculite médicamenteuse  
-  Début brutal, papulo-pustules sans comédons et régression à l'arrêt du traitement (androgènes, progestatifs, corticoïdes, antiépileptiques ...).
-- [Syphilis]({{% relref "syphilis.md" %}})  
-  Évoquer en âge atypique, notion de chancre.
-- Sarcoïdose
-
 ### Formes particulières d'acné
 
 Acné néonatale
@@ -73,6 +61,21 @@ Acnés exogènes
 
 Acné de la femme adulte
 : Femme après 25 ans avec acné juvénile. Papules et nodules de la mandibule et rétentionnelles sur le haut du visage.
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Autres diagnostics à évoquer devant des nodules, papules et pustules inflammatoires:
+
+- [Rosacée papulo-pustuleuse]({{% relref "rosacee.md" %}})  
+  Flushs du visage, conjonctivite, télangiectasies, symétrie des lésions et absence de comédons.
+- Dermatite péri-orale ou folliculite infectieuse  
+  Absence de comédons.
+- Folliculite médicamenteuse  
+  Début brutal, papulo-pustules sans comédons et régression à l'arrêt du traitement (androgènes, progestatifs, corticoïdes, antiépileptiques ...).
+- [Syphilis]({{% relref "syphilis.md" %}})  
+  Évoquer en âge atypique, notion de chancre.
+- Sarcoïdose
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -336,12 +339,16 @@ Selon la *SFD*, informer le patient:
 {{< card-link-external title="L'Acné par Dermatoclic" url="https://www.dermatoclic.com/acne">}}
 
 - [Collège des enseignants de dermatologie de France (CEDEF). Dermatoses faciales : acné, rosacée, dermatite séborrhéique. Item 111. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-111-%E2%80%94-Dermatoses-faciales-acne-rosacee-dermatite-seborrheique_CompressPdf.pdf)
-- [ANSM. Traitement de l'acné sévère : premières recommandations pour améliorer la sécurité d'utilisation de l'isotrétinoïne. 06/12/2021.](https://ansm.sante.fr/S-informer/Points-d-information-Points-d-information/Traitement-contre-l-acne-regles-de-bon-usage-de-l-isotretinoine-pour-limiter-les-risques-Point-d-Information)
 - [ANSM. Traitement contre l'acné : règles de bon usage de l'isotrétinoïne pour limiter les risques. 30/03/2021.](https://ansm.sante.fr/actualites/traitement-contre-lacne-regles-de-bon-usage-de-lisotretinoine-pour-limiter-les-risques)
 - Prescrire Redaction. Acné. Premiers Choix Prescrire. Rev Prescrire. 2021.
-- [Aghasi M et al. Dairy intake and acne development: A meta-analysis of observational studies. Clinical Nutrition. 2019.](https://www.clinicalnutritionjournal.com/article/S0261-5614(18)30166-3/fulltext)
-- [Nast A et al; EDF. European evidence-based (S3) guideline for the treatment of acne - update 2016 (short version). 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13776)
-- [Société Française de Dermatologie. Prise en charge de l'acné. 2015. (PDF)](https://www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)
+- [Aghasi M, et al. Dairy intake and acne development: A meta-analysis of observational studies. Clinical Nutrition. 2019.](https://www.clinicalnutritionjournal.com/article/S0261-5614(18)30166-3/fulltext)
+- [Nast A, et al; EDF. European evidence-based (S3) guideline for the treatment of acne - update 2016 (short version). 2016.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jdv.13776)
+- [Société Française de Dermatologie. Prise en charge de l'acné - Traitement de l'acné par voie locale et générale (Label HAS). 2015. (PDF)](https://www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf)
+- [Société Française de Dermatologie. Acné. Centre de preuves en dermatologie.](https://centredepreuves.sfdermato.org/recommandation-cdp/44-acne)
+
+### Bibliographie en attente
+
+- [Le Cleach L, et al; for the French Acne Guidelines Working Group and Centre of Evidence of Dermatology. Guidelines for the management of acne: recommendations from a French multidisciplinary group. British Journal of Dermatology. 2017.](https://academic.oup.com/bjd/article/177/4/908/6674084)
 
 Mots-clé: acné, acnée, comédons
 

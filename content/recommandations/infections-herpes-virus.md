@@ -11,7 +11,7 @@ publishdate = "2024-10-25"
 lastmod = "2024-12-13"
 specialites = ["dermatologie", "gynécologie-obstétrique", "infectiologie", "urologie"]
 annees = "2024"
-sources = ["HAS", "CMIT", "SFD", "Anaes"]
+sources = ["HAS", "CMIT", "SFD", "ANAES"]
 tags = ["douleur pelvienne", "eruption febrile", "grossesse", "HSH", "IST", "VIH"]
 english = ["Herpesvirus infection", "Herpes labialis", "genital herpes"]
 sctid = "23513009"
@@ -183,7 +183,7 @@ Surinfection herpétique des lésions de [dermatite atopique]({{% relref "dermat
 
 Les indications au bilan pour diagnostic de certitude de l'herpès sont limitées:
 
-- Herpès oro-facial (*Anaes 2001*)
+- Herpès oro-facial (*ANAES 2001*)
   - Lésions atypiques
   - Immunodépression
   - Complications
@@ -220,7 +220,7 @@ Prise en charge urgente de la primo-infection herpétique oro-faciale:
 
 - Réhydratation, alimentation
 - Antalgie: paracétamol, AINS voire tramadol (+3 ans) ou morphine (*CNPU*)
-- ==[Aciclovir 200 mg](https://bdpm.ansm.sante.fr/medicament/61683272/extrait#tab-rcp) x 5/j pendant 7 jours== (*Anaes*, *CNPU*)
+- ==[Aciclovir 200 mg](https://bdpm.ansm.sante.fr/medicament/61683272/extrait#tab-rcp) x 5/j pendant 7 jours== (*ANAES*, *CNPU*)
   ou valaciclovir 500 mg x 2/j pendant 7 jours
 - Enfant +2 ans: aciclovir buvable ([Zovirax®](https://bdpm.ansm.sante.fr/medicament/68750987/extrait#tab-rcp)) 5 mL x 5/j pendant 7 jours
 - Enfant -2 ans: avis spécialisé
@@ -229,7 +229,7 @@ Prise en charge urgente de la primo-infection herpétique oro-faciale:
 
 **Hospitalisation** si complications, forme buvable impossible, déshydratation, AEG.
 
-> << l'adjonction d'un traitement local n'a pas d'intérêt démontré. >> -- *Anaes 2001*. De même pour les bains de bouche (*CNPU*).
+> << l'adjonction d'un traitement local n'a pas d'intérêt démontré. >> -- *ANAES 2001*. De même pour les bains de bouche (*CNPU*).
 
 ### Récurrence d'herpès labial ou autre
 
@@ -339,7 +339,7 @@ Pour en savoir plus, les critères d'hospitalisation de la kératite herpétique
 - [Milpied B, et al; SFD. Herpès génital. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/herpes-genital-3ff33588a8c22f5d64a5a5a9855b3f2b.pdf)
 - [Heslop R, et al. Interventions for men and women with their first episode of genital herpes. Cochrane Database of Systematic Reviews. 2016.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010684.pub2/full/fr)
 - [Wilhelmus KR. Antiviral treatment and other therapeutic interventions for herpes simplex virus epithelial keratitis. Cochrane Database of Systematic Reviews. 2015.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002898.pub5/full/fr)
-- [Anaes, SFD. Prise en charge de l'herpès cutanéo-muqueux chez le sujet immunocompétent (manifestations oculaires exclues). Conférence de consensus. 2001.](https://www.has-sante.fr/jcms/c_272087/fr/prise-en-charge-de-l-herpes-cutaneo-muqueux-chez-le-sujet-immunocompetent-manifestations-oculaires-exclues)
+- [ANAES, SFD. Prise en charge de l'herpès cutanéo-muqueux chez le sujet immunocompétent (manifestations oculaires exclues). Conférence de consensus. 2001.](https://www.has-sante.fr/jcms/c_272087/fr/prise-en-charge-de-l-herpes-cutaneo-muqueux-chez-le-sujet-immunocompetent-manifestations-oculaires-exclues)
 
 ### Bibliographie en attente
 

@@ -259,6 +259,9 @@ graph TB
 
 - [Foltz V, et al. Prise en charge thérapeutique de la lombalgie chronique : focus sur les antalgiques et l'activité physique Therapeutic management of chronic low back pain: Focus on analgesics and physical activity. Revue du Rhumatisme. 2025.](https://www.sciencedirect.com/science/article/pii/S1169833024001637)
 - [Demoulin C, et al. Croyances délétères du patient souffrant de lombalgie chronique : pourquoi s'y intéresser ? Maladaptive beliefs of patients suffering from chronic low back pain: Why should we care?. Revue du Rhumatisme. 2025.](https://www.sciencedirect.com/science/article/abs/pii/S1169833024000668)
+- [NICE. Low back pain and sciatica in over 16s: assessment and management. NICE guideline. 2020.](https://www.nice.org.uk/guidance/ng59)
+- [HAS. Lombalgie chronique de l'adulte et chirurgie. 2016.](https://www.has-sante.fr/jcms/c_2615316/fr/lombalgie-chronique-de-l-adulte-et-chirurgie)
+- [ANAES. Diagnostic, prise en charge et suivi des malades atteints de lombalgie chronique. 2000.](https://www.has-sante.fr/jcms/c_271859/fr/diagnostic-prise-en-charge-et-suivi-des-malades-atteints-de-lombalgie-chronique)
 
 {{%/sources%}}
 {{% modal title="Questionnaire DN4" id="modal-score-dn4"%}}

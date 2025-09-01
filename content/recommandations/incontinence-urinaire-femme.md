@@ -11,7 +11,7 @@ publishdate = "2023-10-20"
 lastmod = "2025-05-14"
 specialites = ["gynécologie-obstétrique", "urologie"]
 annees = "2009"
-sources = ["CNGOF", "Anaes"]
+sources = ["CNGOF", "ANAES"]
 tags = ["BPCO", "contraception", "demence", "diabete", "geriatrie", "grossesse", "neuropathie", "obesite"]
 english = ["Urinary incontinence"]
 sctid = "165232002"
@@ -57,7 +57,7 @@ IUE
 ### Interrogatoire
 
 > [!INFO]
-> L'incontinence urinaire est un diagnostic d'interrogatoire: << Vous arrive-t-il d'avoir des pertes ou des fuites d'urine ? >>. -- *Anaes 2003*
+> L'incontinence urinaire est un diagnostic d'interrogatoire: << Vous arrive-t-il d'avoir des pertes ou des fuites d'urine ? >>. -- *ANAES 2003*
 
 - Antécédents  
   Gynéco-obstétricaux (gestité, parité, manœuvres, macrosomie, rééducation), traumatiques, neurologiques, diabète, insuffisance cardiaque, BPCO et toux chronique.
@@ -147,7 +147,7 @@ Principales complications: rétention vésicale, infection urinaire, urgenturie,
 {{% /collapse %}}
 {{% collapse "Prise en charge de l'incontinence urinaire de la femme" "show" %}}
 
-{{< mermaid title="Prise en charge de l'incontinence urinaire de la femme. Dr JB Fron d'après CNGOF 2009 et Anaes">}}
+{{< mermaid title="Prise en charge de l'incontinence urinaire de la femme. Dr JB Fron d'après CNGOF 2009 et ANAES">}}
 graph TB
   incontinence["<b>Incontinence urinaire:</b><br>Perte involontaire d'urines<br>par l'urètre"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Interrogatoire:<br>antécédents, traitement,<br>boissons, sport<br>- Sévérité<br>- Qualité de vie<br>- Bandelette urinaire ++") --> bilan("<b>Bilan</b><br>—<br>- Bandelette urinaire voire ECBU<br>- Si âgée, suspicion de RPM,<br>anticholinergique:<br>échographie vésicale et RPM") --> traitement("<b>Traitement</b><br>—<br>- Mesures hygiéno-diététiques<br>- Rééducation périnale<br>- Urgenturie/pollakiurie et<br>ménopause: estrogènes") -. Échec .-> urologue("Avis urologique:<br>chirurgie bandelettes,<br>sphincter artificiel,<br>anticholinergique (risque démence)")
   style incontinence stroke:#4150f5, stroke-width:1px
@@ -165,7 +165,7 @@ graph TB
 - [Collège Français des Enseignants en Urologie (CFEU). Incontinence urinaire de l'adulte et du sujet âgé. Référentiel du collège d'urologie 5ème édition. 2021.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/chapitre-07-incontinence-urinaire-de-ladulte-et-du-sujet-age/)
 - [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Post%20partum/Postpartum%202015-RPC.pdf?x60010)
 - [CNGOF. Diagnostic et prise en charge de l'incontinence urinaire de la femme adulte. Recommandations pour la pratique clinique. 2009.](https://cngof.fr/app/uploads/2023/06/RPC-INCONTINENCE_2009.pdf?x72671)
-- [Anaes. Prise en charge de l'incontinence urinaire de la femme en médecine générale. 2003.](https://www.has-sante.fr/jcms/c_272291/fr/prise-en-charge-de-l-incontinence-urinaire-de-la-femme-en-medecine-generale-actualisation-2003)
+- [ANAES. Prise en charge de l'incontinence urinaire de la femme en médecine générale. 2003.](https://www.has-sante.fr/jcms/c_272291/fr/prise-en-charge-de-l-incontinence-urinaire-de-la-femme-en-medecine-generale-actualisation-2003)
 
 ### Bibliographie en attente
 

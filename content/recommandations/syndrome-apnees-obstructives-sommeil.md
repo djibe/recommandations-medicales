@@ -2,7 +2,7 @@
 id = "0190e8cc-7d49-7fb0-8fe0-6add0d1d0bd0"
 title = "Syndrome d'apnées obstructives du sommeil (SAOS ou SAHOS)"
 prefix = "le "
-titleSeo = "Syndrome d'apnées du sommeil"
+titleSeo = "Syndrome d'apnées du sommeil SAOS"
 description = "Recommandations pour le dépistage et la prise en charge des apnées du sommeil. STOP-BANG et diagnostic par polygraphie ventilatoire ou polysomnographie, PPC"
 longHtml = true
 synonyms = ["Apnées du sommeil"]

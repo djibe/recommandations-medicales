@@ -110,11 +110,11 @@ Envisager une MAPA en cas de doute.
 {{% /collapse %}}
 {{%collapse "Traitement de l'hypotension orthostatique" %}}
 
-Prise en charge et traitement de l'hypotension orthostatique:
+La prise en charge et le traitement de l'hypotension orthostatique associent:
 
-- Substituer un traitements à risque: alpha1-bloquant, tricyclique, diurétiques, vasodilatateurs
-- Contention veineuse: chaussettes ou bas de contention classe 2
-- Mesures hygiéno-diététiques
+- Substitution des traitements à risque: alpha1-bloquant, tricyclique, diurétiques, vasodilatateurs
+- **Contention veineuse:** chaussettes ou bas de contention classe 2
+- **Mesures hygiéno-diététiques**
   - Hydratation adaptée
   - Limiter la consommation d'alcool
   - Augmentation des apports sodés
@@ -131,7 +131,7 @@ Prise en charge et traitement de l'hypotension orthostatique:
 
 > -- *ESH 2023, ESC 2018 et SFHTA 2014*
 
-En cas d'hypotension orthostatique résistante, avis cardiologique pour envisager un traitement spécifique (midodrine, fludrocortisone).
+En cas d'hypotension orthostatique résistante, avis cardiologique pour envisager un traitement spécifique (==**midodrine**==, **fludrocortisone**).
 
 ### Éducation du patient ayant une hypotension orthostatique
 
