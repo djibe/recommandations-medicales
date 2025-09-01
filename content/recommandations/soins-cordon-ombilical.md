@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-08-07T21:25:21+02:00"
 publishdate = "2025-08-08"
-lastmod = "2025-08-08"
+lastmod = "2025-08-01"
 specialites = ["gynécologie-obstétrique", "pédiatrie"]
 annees = "2023"
 sources = ["SF2H", "SFN"]
@@ -59,7 +59,6 @@ SFN
 - Date d'accouchement
 - Antécédents
 - Déroulement de la grossesse et de l'accouchement
-- **Accouchement à domicile** (risque multiplié par 6)
 - Soins de cordon actuels
 - Signes et symptômes d'omphalite (infection du cordon ombilical):
   - ==**Écoulement séreux**== voire purulent
@@ -68,7 +67,10 @@ SFN
 
 ### Examen clinique
 
-- Fréquence cardiaque, fréquence respiratoire, poids et variation, température
+- Fréquence cardiaque (limite à 160-180 bpm si pleurs), fréquence respiratoire
+- Température
+- Prise de poids et variation  
+  Reprise du poids de naissance vers J10 et ensuite +20 à 30 g/j si allaité.
 - Tonus, conscience
 - État cutané
 - Auscultation cardiopulmonaire
