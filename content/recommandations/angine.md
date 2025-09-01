@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2025-05-18"
+lastmod = "2025-09-01"
 specialites = ["ORL", "pédiatrie"]
 annees = "2025"
 sources = ["HAS", "SPILF", "GPIP"]
@@ -159,11 +159,11 @@ La sensibilité du TDR chez l'enfant est de 85%.
 {{% /collapse %}}
 {{%collapse "Traitement de l'angine" %}}
 
-la prise en charge de l'angine associe:
+La prise en charge de l'angine associe:
 
 - Angine streptococcique: éviction scolaire les 48 premières heures suivant l'instauration de l'antibiothérapie
 - Antalgique, antipyrétique  
-  Paracétamol voire [tramadol]({{% relref "antalgie-enfant.md" %}}) ou ibuprofène pour les douleurs.
+  Paracétamol voire [tramadol]({{% relref "antalgie-enfant.md" %}}), ibuprofène possible si insuffisant avec angine bactérienne non sévère et non compliquée (*HAS 2025*, *SFORL 2019*).
 - Pas de corticoïdes
 - La persistance de fièvre, dysphagie après 3 jours doit faire évoquer une infection intercurrente.
 - Scarlatine: traitement et éviction identiques
@@ -278,6 +278,7 @@ graph TB
 - {{< references/spilf-2020 >}}
 - [Lescanne E, et al. Amygdalectomie de l'enfant Actualisation 2020 de la recommandation SFORL & CFC. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2021/11/Recommandation-SFORL-Amygdalectomie_2021.pdf)
 - [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf)
+- [Truffert E, et al. Recommandations de la Société française d'otorhinolaryngologie (SFORL) : anti-inflammatoires non stéroïdiens (AINS) et infections ORL pédiatriques. Version courte. Annales françaises d'Oto-rhino-laryngologie et de Pathologie Cervico-faciale. 2019.](https://www.sciencedirect.com/science/article/pii/S1879726119300786)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - Collège Français d'ORL et de Chirurgie Cervico-faciale. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 146 UE6.
 
@@ -286,7 +287,7 @@ graph TB
 
 **Adulte** avec TDR positif (*HAS/SPILF 2025*)
 
-Amoxicilline 1g 2 fois par jour pendant 6 jours
+Amoxicilline 1 g 2 fois par jour pendant 6 jours
 
 ---
 
