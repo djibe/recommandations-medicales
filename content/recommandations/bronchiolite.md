@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-16T08:08:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2025-06-30"
+lastmod = "2025-09-02"
 specialites = ["pédiatrie"]
 annees = "2023"
 sources = ["HAS", "SFP"]
@@ -20,52 +20,33 @@ icd10 = ["J21", "J21.0", "J21.9"]
 image = true
 imageSrc = "Virus respiratoire syncytial (VRS) de la bronchiolite au microscope. CDC 1981 du United States Department of Health and Human Services, Public domain, via Wikimedia Commons"
 flowchart = true
-todo = "rankok, SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
+todo = "rankok | SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
 +++
 
 {{%article-summary%}}
 
-- La bronchiolite concerne uniquement les enfants de moins de 12 mois (*asthme du nourrisson* au-delà ou à partir de 2-3 épisodes)
-- Éliminer une [insuffisance cardiaque aiguë]({{% relref "insuffisance-cardiaque-aigue.md" %}}) et une [pneumonie]({{% relref "pneumonie-aigue-communautaire.md" %}})
+- La bronchiolite concerne uniquement les enfants de moins de 12 mois (*asthme du nourrisson* au-delà ou à partir de 2 à 3 épisodes)
+- Éliminer les diagnostics différentiels graves: [insuffisance cardiaque aiguë]({{% relref "insuffisance-cardiaque-aigue.md" %}}) et [pneumonie]({{% relref "pneumonie-aigue-communautaire.md" %}})
 - Critères d'hospitalisation de la bronchiolite: voir *Signes de gravité et hospitalisation*
-- Durée de la dyspnée de 3 à 10 jours (voire 6 semaines)
-- Recommandations de prise en charge de la bronchiolite: éviction en phase aiguë - DRP - fractionner - surveillance - 0 tabac
-- Prévention de la bronchiolite: mesures barrières, vaccin anti-VRS en fin de grossesse voire injection IM d'anticorps **nirsévimab** Beyfortus® avant la sortie de maternité. Rattrapage pour ceux nés après le 1^er^ janvier avec 1 seule injection selon le poids (voir [Prévention](#prévention-de-la-bronchiolite)) en l'absence de test VRS positif
-- [Bronchiolite: Fiche conseils aux parents HAS (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
+- La dyspnée dure de 3 à 10 jours (voire 6 semaines)
+- Recommandations de prise en charge de la bronchiolite: éviction en phase aiguë - DRP - fractionner les repas - surveillance - aucune exposition au tabac
+- Prévention de la bronchiolite: mesures barrières, vaccin anti-VRS en fin de grossesse voire injection IM d'anticorps **nirsévimab** Beyfortus® avant la sortie de maternité. Rattrapage pour ceux nés après le 1^er^ février avec 1 seule injection selon le poids (voir [Prévention](#prévention-de-la-bronchiolite)) en l'absence de test VRS positif
+- [Bronchiolite: conseils aux parents HAS (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Bronchiolite aiguë (BA)
-: Infection virale respiratoire épidémique du nourrisson (VRS 50-80% des cas, co-infection 10%) d'évolution favorable dans la très grande majorité des cas.
+: Infection virale respiratoire épidémique du nourrisson (VRS pour 50 à 80 % des cas, co-infection 10 %) d'évolution favorable dans la très grande majorité des cas.
 : Premier épisode aigu de gêne respiratoire (rhinite suivie de signes respiratoires: toux, sibilants, crépitants ± polypnée ± signes de lutte) du nourrisson de moins de 12 mois à tout moment de l'année.
-: Persistance des signes d'obstruction respiratoire pendant 8-10 jours et une toux résiduelle peut persister 15 jours.  
-Guérison spontanée le plus souvent en 3-4 semaines.  
-Taux de récidive élevé: 23 à 60 % avant 2 ans.
-: Tabagisme passif: facteur de risque majeur de bronchiolite et augmente le risque d'hospitalisation. Le tabagisme pendant la grossesse augmente le risque de BA et la gravité chez le prématuré.
+: Persistance des signes d'obstruction respiratoire pendant 8 à 10 jours et une toux résiduelle peut persister 15 jours.  
+Guérison spontanée le plus souvent en 3-4 semaines. Le taux de récidive est élevé: 23 à 60 % avant 2 ans.
+: Tabagisme passif: facteur de risque majeur de bronchiolite et augmente le risque d'hospitalisation. Le tabagisme pendant la grossesse augmente le risque de bronchiolite et sa gravité chez le prématuré.
 
 Asthme du nourrisson
 : Au-moins 3 épisodes de bronchiolite chez un nourrisson de moins de 12 mois  
 OU 2 épisodes de bronchiolite chez un nourrisson de moins de 12 mois avec atopie familiale ou personnelle  
 OU dyspnée sifflante après 12 mois (sans autre cause).
-
-{{< clinique/frequence-respiratoire-enfant >}}
-
-### Diagnostic différentiel de la bronchiolite
-
-Diagnostics à étayer devant un épisode de dyspnée du nourrisson:
-
-- **Insuffisance cardiaque congestive**
-- Exacerbation d'asthme
-- [Pneumopathie]({{% relref "pneumonie-aigue-communautaire.md" %}})
-- Laryngotrachéomalacie
-- Inhalation de corps étranger
-- Reflux gastro-œsophagien
-- Anneau vasculaire
-- Réaction allergique
-- Fibrose kystique
-- Masse médiastinale
-- Fistule œso-trachéale
 
 ### Complications de la bronchiolite
 
@@ -109,6 +90,23 @@ SCM
 VRS
 : virus respiratoire syncytial
 {.dl-inline}
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Diagnostics à étayer devant un épisode de dyspnée du nourrisson:
+
+- **Insuffisance cardiaque congestive**
+- Exacerbation d'asthme
+- [Pneumopathie]({{% relref "pneumonie-aigue-communautaire.md" %}})
+- Laryngotrachéomalacie
+- Inhalation de corps étranger
+- Reflux gastro-œsophagien
+- Anneau vasculaire
+- Réaction allergique
+- Fibrose kystique
+- Masse médiastinale
+- Fistule œso-trachéale
 
 {{% /collapse %}}
 {{%collapse "Formes cliniques de bronchiolite" "show" %}}
@@ -215,6 +213,8 @@ Toujours rechercher une hépatomégalie, seul signe permettant d'éliminer une i
 
 **NB.** L'auscultation peut être silencieuse en cas de forme grave à thorax distendu.
 
+{{< clinique/frequence-respiratoire-enfant >}}
+
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
@@ -223,7 +223,7 @@ Pas d'examen complémentaire en cas de forme typique de bronchiolite aiguë.
 
 ### Radiographie pulmonaire
 
-Indications à la radiographie de thorax devant un épisode évocateur de bronchiolite:
+Indications à la radiographie thoracique devant un épisode évocateur de bronchiolite:
 
 - Diagnostic incertain
 - Guérison trop lente
@@ -234,7 +234,7 @@ Indications à la radiographie de thorax devant un épisode évocateur de bronch
 
 Recommandations pour la prévention de la bronchiolite:
 
-- Vaccination anti-VRS pendant la grossesse (voir plus bas)  
+- Vaccination anti-VRS pendant la grossesse (voir section plus bas)  
   ou immunoglobulines anti-VRS Beyfortus® à défaut (voir plus bas)
 - [Allaitement maternel]({{% relref "allaitement.md" %}})
 - Retarder la mise en collectivité
@@ -263,13 +263,13 @@ Si l'accouchement survient dans les 14 jours après l'injection ou en l'absence 
 
 Hors grossesse, le vaccin anti-VRS est recommandé à partir de **75 ans** ou chez le +65 ans avec comorbidité grave (cardiaque, BPCO).
 
-### Les anticorps monoclonaux anti-VRS
+### Anticorps monoclonaux anti-VRS
 
 #### Nirsévimab (Beyfortus®)
 
 Indications à la prévention de la bronchiolite par une immunisation passive avec l'anticorps monoclonal nirsévimab:
 
-- Pour 2025-2026: la **campagne** débute en septembre 2025  
+- Pour 2025-2026: la **campagne** débute le 1^er^ septembre 2025  
   Au mieux avant la sortie de maternité (rattrapage en ville sinon).
 - Pour tous les nourrissons nés depuis février 2025
 - Une seule injection IM de nirsévimab (Beyfortus®)
@@ -400,6 +400,7 @@ graph TB
 - [Santé Publique France. Votre enfant a la bronchiolite](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bronchiolite/documents/depliant-flyer/votre-enfant-et-la-bronchiolite)
 - [Ameli. Bronchiolite](https://www.ameli.fr/yvelines/assure/sante/themes/bronchiolite)
 - [MPedia. Mon enfant a une bronchiolite, que faire ? (PDF)](https://afpa.org/content/uploads/2021/11/mpedia-Infographie-bronchiolite-octobre21.pdf)
+- [Fiche info vaccination VRS HAS (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2025-08/bronchiolite_comment_proteger_votre_futur_bebe_dune_forme_grave_-_actualisation_aout_2025.pdf)
 
 Revenir consulter rapidement si:
 
@@ -448,17 +449,17 @@ Les autres traitements exposent à des effets indésirables parfois graves.
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
 - [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
 - Prescrire Redaction. Bronchiolite et kinésithérapie respiratoire. Rev Prescrire. 2024.
-- [Vartiainen P, Jukarainen S, Rhedin SA, et al. Risk factors for severe respiratory syncytial virus infection during the first year of life: development and validation of a clinical prediction model. Lancet Digit Health. 2023.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00175-9/fulltext)
+- [Vartiainen P, et al. Risk factors for severe respiratory syncytial virus infection during the first year of life: development and validation of a clinical prediction model. Lancet Digit Health. 2023.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00175-9/fulltext)
 - [HAS. Réponses Rapides : Nirsévimab (Beyfortus®) dans la prévention des bronchiolites à virus respiratoire syncytial (VRS) chez les nouveau-nés et les nourrissons. 15/09/2023. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2023-09/reponse_rapide__nirsevimab_beyfortus.pdf)
 - [Infovac-France. Bulletin n°8 Août - Spécial Nirsevimab et Beyfortus. 28/08/2023.](https://www.infovac.fr/actualites/bulletin-n-8-aout-special-nirsevimab-et-beyfortus)
 - [CNP de Pédiatrie. Stratégie de prévention des bronchiolites à VRS des nourrissons. 2023. (PDF)](https://afpa.org/content/uploads/2023/08/Reco-CNP-Pe%CC%81diatrie-21-08-2023.pdf)
 - [HAS. nirsévimab Beyfortus. Avis sur les médicaments. 2023. (PDF)](https://www.has-sante.fr/upload/docs/evamed/CT-20356_BEYFORTUS_PIC_INS_AvisDef_CT20356.pdf)
-- [Roqué-Figuls M et al. Chest physiotherapy for acute bronchiolitis in paediatric patients between 0 and 24 months old. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004873.pub6/full/fr#pico)
+- [Roqué-Figuls M, et al. Chest physiotherapy for acute bronchiolitis in paediatric patients between 0 and 24 months old. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004873.pub6/full/fr#pico)
 - Prescrire Rédaction. Bronchiolite chez un nourrisson. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - [Santé Publique France. Bronchiolite. 20/04/2022.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bronchiolite)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Bronchiolite aiguë du nourrisson. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/bronchiolite-aigue-du-nourrisson)
 - [Société Canadienne de Pédiatrie. Recommandations pour le diagnostic, la surveillance et les prise en charge des enfants de un à 24 mois. 30/11/2021.](https://www.cps.ca/fr/documents/position/bronchiolitis1)
-- [HAS et Collège National Professionnel de Pédiatrie (CNPP). Prise en charge du premier épisode de bronchiolite aiguë chez le nourrisson de moins de 12 mois. 2019.](https://www.has-sante.fr/jcms/p_3118113/fr/prise-en-charge-du-1er-episode-de-bronchiolite-aigue-chez-le-nourrisson-de-moins-de-12-mois)
+- [HAS, Collège National Professionnel de Pédiatrie (CNPP). Prise en charge du premier épisode de bronchiolite aiguë chez le nourrisson de moins de 12 mois. 2019.](https://www.has-sante.fr/jcms/p_3118113/fr/prise-en-charge-du-1er-episode-de-bronchiolite-aigue-chez-le-nourrisson-de-moins-de-12-mois)
 - [HAS. Synagis. Commission de la transparence. 05/04/2017.](https://www.has-sante.fr/jcms/c_2756580/fr/synagis-palivizumab)
 
 {{%/sources%}}
