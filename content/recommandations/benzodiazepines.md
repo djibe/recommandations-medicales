@@ -197,9 +197,13 @@ Arrêt progressif en 1 à 3 mois (voire 1 an).
 
 [Modèle d'intervention Omedit (PDF)](https://www.omedit-centre.fr/medias/Flyer_Arreter-benzodiazepine.pdf)
 
+*Le document est directement éditable avant impression*.
+
+<div contenteditable="true">
+
 Madame, Monsieur,
 
-Parmi vos médicaments, vous recevez ..*nom de la BZD*.. à la dose de ... *cp/j*. Ce médicament fait partie du groupe des benzodiazépines et médicaments apparentés.
+Parmi vos médicaments, vous recevez ... *nom de la BZD* ... à la dose de ... *cp/j*. Ce médicament fait partie du groupe des benzodiazépines et médicaments apparentés.
 
 L'analyse de votre dossier médical montre que désormais ce médicament pourrait vous être arrêté sans altérer votre santé ni votre bien-être. En effet, il est connu aujourd'hui que l'efficacité des benzodiazépines prescrites dans votre cas diminue fortement au fur et à mesure de leur utilisation (dès 2 semaines d'utilisation).
 
@@ -213,6 +217,8 @@ Bien entendu je me tiens à votre disposition pour répondre à toutes vos quest
 Dr ...
 
 > -- *HAS 2015*
+
+</div>
 
 L'essai EMPOWER a démontré l'effet de l'intervention brève sur l'arrêt à 6 mois: 77% de sevrage versus 5% dans le groupe contrôle.
 {.alert .alert-info}

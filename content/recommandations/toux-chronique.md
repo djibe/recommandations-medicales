@@ -18,7 +18,7 @@ icd10 = ["R05"]
 image = true
 imageSrc = "Illustration de la toux chronique par stories / Freepik"
 flowchart = true
-todo = "revoir flowchart et Tests multi-allergéniques"
+todo = "update, revoir flowchart et Tests multi-allergéniques"
 +++
 
 {{%article-summary%}}

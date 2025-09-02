@@ -251,7 +251,7 @@ Recommandations pour la prévention de la bronchiolite:
 
 ### Vaccination anti-VRS
 
-[Fiche info vaccination VRS HAS (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2024-10/bronchiolite_comment_proteger_votre_futur_bebe_dune_forme_grave_-_fiche_usagers_actualisation.pdf)
+[Fiche info vaccination VRS HAS (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2025-08/bronchiolite_comment_proteger_votre_futur_bebe_dune_forme_grave_-_actualisation_aout_2025.pdf)
 
 Le vaccin **anti-VRS Abrysvo** est recommandé en fin de grossesse entre 32 et 36 SA de septembre à janvier. Aucune dose ultérieure lors des grossesses suivantes.
 

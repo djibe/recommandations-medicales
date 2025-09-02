@@ -4,11 +4,11 @@ title = "Lombalgie commune et lumbago"
 prefix = "la "
 titleSeo = "Lombalgie commune et lumbago"
 description = "Recommandations pour la prise en charge de la lombalgie aiguë et chronique. Drapeaux rouges, bilan, imagerie. Traitement: activité physique, antalgique palier 1"
-synonyms = ["Poussée aiguë de lombalgie"]
+synonyms = ["Poussée aiguë de lombalgie", "lombalgie chronique (LC)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-26T09:21:22+02:00"
 publishdate = "2021-10-26"
-lastmod = "2023-12-19"
+lastmod = "2025-09-02"
 specialites = ["rhumatologie"]
 annees = "2019"
 sources = ["HAS"]
@@ -24,14 +24,17 @@ flowchart = true
 
 {{%article-summary%}}
 
+- La lombalgie est une douleur de la région lombaire, dite chronique après 3 mois
 - Ces recommandations concernent la lombalgie dégénérative (non traumatique, tumorale, infectieuse ou inflammatoire)
 - Toujours rechercher des [signes d'alerte](#signes-dalerte) devant une lombalgie (drapeaux rouges ++): âges extrêmes, traumatisme, fièvre, AEG ...
-- Pas de bilan dans les 6 premières semaines sauf anomalie: drapeau rouge, ménopause, corticothérapie ...
-- << Le bon traitement, c'est le mouvement >> (*[Affiches pour la salle d'attente](https://www.ameli.fr/medecin/sante-prevention/pathologies/lombalgies/outils-prise-charge-lombalgie-commune)*): l'activité physique est le traitement principal des douleurs lombaires
-- On prononce lom-bago
+- Pas de bilan dans les 6 premières semaines de lombalgie sauf anomalie: drapeau rouge, ménopause, corticothérapie ...
+- << Le bon traitement, c'est le mouvement >> (*[Affiches pour la salle d'attente](https://www.ameli.fr/medecin/sante-prevention/pathologies/lombalgies/outils-prise-charge-lombalgie-commune)*): l'activité physique est le traitement principal des douleurs lombaires, avec des antalgiques simple et l'application de chaleur localement
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
+
+> [!INFO]
+> Lumbago: on prononce lom-bago.
 
 Poussée aiguë de lombalgie
 : Remplace le terme de lombalgie aiguë.
@@ -49,11 +52,20 @@ Lombalgie récidivante
 ### Épidémiologie de la lombalgie
 
 - La lombalgie touche principalement les 40-60 ans sans prédominance de sexe
-- Évolution vers la chronicité: 6-8%
+- Évolution vers la chronicité: 6 à 8 %
 - Impact économique: +900 millions d'euros annuels
-- La lombalgie représente 30% des **arrêts de travail de +6 mois** et 20% des accidents du travail
+- La lombalgie représente 30 % des **arrêts de travail de +6 mois** et 20 % des accidents du travail
 - 3^e^ motif d'admission en invalidité
 - 2014-2017: 481.300 entrées aux Urgences, 10 % hospitalisées
+
+### Abréviations
+
+HAS
+: Haute Autorité de Santé
+
+LC
+: lombalgie chronique
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Signes d'alerte" %}}
@@ -103,7 +115,7 @@ Arrêt > 4 semaines: rechercher drapeaux bleus et noirs et expertise avec le *m�
 
 ### Interrogatoire
 
-Signes et symptômes à rechercher devant un épisode de lombalgie:
+Signes et symptômes à rechercher devant une plainte de lombalgie:
 
 - Âge  
   Risque de fracture après 70 ans.
@@ -130,7 +142,7 @@ Signes et symptômes à rechercher devant un épisode de lombalgie:
   Explications sur la solidité de la colonne vertébrale. L'atteinte est musculaire ou ligamentaire.
 - Évaluation du risque de chronicité  
   [STarT Back screening tool](http://sectionrachis.fr/index.php/recommandation-lombalgie/questionnaires/) et [questionnaire Örebro version courte (PDF)](https://kce.fgov.be/sites/default/files/atoms/files/OrebroFr.pdf).
-- Signes négatifs
+- Signes négatifs:
   - Traumatisme
   - Douleurs résistantes
   - Immunosuppression
@@ -155,10 +167,10 @@ Signes et symptômes à rechercher devant un épisode de lombalgie:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Aucun bilan n'est recommandé durant les 6 premières semaines d'évolution de la lombalgie (sauf *Drapeau rouge*). Expliquer au patient pourquoi l'imagerie n'est pas nécessaire.
+Aucun bilan n'est recommandé durant les 6 premières semaines d'évolution de la lombalgie aiguë (sauf *Drapeau rouge*). Expliquer au patient pourquoi l'imagerie n'est pas nécessaire.
 {.alert .alert-info}
 
-**Ne pas renouveler l'imagerie** sauf modification des symptômes. **Expliquer** les termes du compte-rendu au patient.
+**Ne pas renouveler l'imagerie** sauf modification des symptômes et **expliquer** les termes du compte-rendu au patient.
 
 ### Radiographies rachidiennes
 
@@ -193,14 +205,14 @@ Recommandations pour le traitement et la prise en charge de la << poussée aigu�
 
 - Éducation du patient
   - Expliquer les termes et le pronostic favorable
-  - [Informations Ameli sur la lombalgie](https://www.ameli.fr/assure/sante/themes/lombalgie-aigue)
+  - [Guide Ameli sur la lombalgie](https://www.ameli.fr/assure/sante/themes/lombalgie-aigue)
 - Maintien d'une activité normale
 - Antalgiques pour la lombalgie aiguë
   - Le paracétamol ne fait pas mieux que le placebo (*Cochrane*)
   - Les opioïdes ne font pas mieux que le placebo (*CNGE*)
-  - Les anti-inflammatoires AINS ont une faible efficacité (*Cochrane*)
+  - Les anti-inflammatoires AINS ont une efficacité faible (*Cochrane*), à utiliser en cure courte
 - Application de chaleur (*Prescrire*)
-- Réévaluer sous 2-4 semaines
+- Réévaluer sous 2 à 4 semaines
 - Exercice physique dès que possible
   - {{%class%}}Améliore l'évolution et limite le risque de récidive{{%/class%}}
   - Accompagnement initial par kinésithérapeute possible
@@ -213,19 +225,32 @@ Recommandations pour le traitement et la prise en charge de la << poussée aigu�
   Indication: douleurs intenses le justifiant, courte durée 5 jours puis réévaluation ([Ameli 2017 (PDF)](https://www.ameli.fr/sites/default/files/Documents/347659/document/2017398_fiche_repere_at_lombalgie_v2_bd_0.pdf))
 
 > [!WARNING]
-> Ne pas utiliser pour une lombalgie: néfopam (Acupan® ou autre), corticoïdes, myorelaxants.
+> Ne pas utiliser pour une lombalgie: néfopam (Acupan® ou autre), corticoïdes, myorelaxants, anti-épileptiques, antidépresseurs.
 
 L'acupuncture n'a pas d'efficacité sur l'évolution de la lombalgie.
 
-### Lombalgie à risque de chronicité ou chronique
+{{% /collapse %}}
+{{%collapse "Traitement de la lombalgie chronique" %}}
 
-- Impliquer: kinésithérapeute, rhumatologue, spécialiste de médecine physique et de réadaptation, médecin du travail voire spécialiste de la douleur ou chirurgien du rachis
+La lombalgie chronique est associée à un déconditionnement généralisé (musculaire, cardiovasculaire, fonctionnel, psychologique).
+
+La prise en charge de la lombalgie chronique ou à risque de chronicité associe:
+
+- Antalgie:
+  - Identique à la lombalgie aiguë (palier 1, chaleur)
+  - Prise en charge spécifique de [douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}})
+- ==**Rééducation**==:
+  - Activité physique: marche, vélo, course, exercices aquatiques, tai-chi, yoga, pilates.
+  - **Activité physique adaptée** (APA -- [aide à la prescription](https://monbilansportsante.fr/prescription)): endurance, renforcement musculaire et gainage
+  - **Kinésithérapie** et auto-exercices
+  - Programme de rééducation MPR  
+    Indications: facteurs psychosociaux faisant obstacle à leur rétablissement, échec de prise en charge active.
+- **Avis pluridisciplinaires:** rhumatologue, spécialiste de médecine physique et de réadaptation voire médecin de la douleur ou chirurgien du rachis
 - Éducation à la [neurophysiologie de la douleur](http://sectionrachis.fr/index.php/recommandation-lombalgie/neurophysiologie-douleur/)
-- Programme de rééducation MPR  
-Indications: facteurs psychosociaux faisant obstacle à leur rétablissement, échec de prise en charge active.
-- Prise en charge spécifique des [douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}})
+- Évaluation par la médecine du travail
 
-Ne pas utiliser: ultrasons, tractions lombaires.
+> [!WARNING]
+> Ne pas utiliser pour une lombalgie chronique: ultrasons, tractions lombaires.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la lombalgie aiguë" "show" %}}
@@ -247,6 +272,7 @@ graph TB
 
 {{< card-link-external title="Réentrainement à l'effort dans les lombalgies : Quand ? Pour qui ? Comment ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/episode/https%3A%2F%2Ftrack.podcastics.com%2F3584%2F207615.mp3&podcastId=3741301" >}}
 
+- [Foltz V, et al. Prise en charge thérapeutique de la lombalgie chronique : focus sur les antalgiques et l'activité physique Therapeutic management of chronic low back pain: Focus on analgesics and physical activity. Revue du Rhumatisme. 2025.](https://www.sciencedirect.com/science/article/pii/S1169833024001637)
 - [Han CS, et al. Red flags to screen for vertebral fracture in people presenting with low back pain. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014461.pub2/full/fr)
 - [CNGE. Les antalgiques opioïdes dans la lombalgie aiguë : ce n'est pas automatique ! 19/10/2023.](https://www.cnge.fr/conseil_scientifique/productions_du_conseil_scientifique/les_antalgiques_opioides_dans_la_lombalgie_aigue_c/)
 - [Cashin AG, et al. Pharmacological treatments for low back pain in adults: an overview of Cochrane Reviews. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013815.pub2/full/fr#pico)
@@ -254,14 +280,13 @@ graph TB
 - Prescrire Redaction. Signes de fracture vertébrale en cas de lombalgie récente. Rev Prescrire. Juin 2020.
 - [Collège Français des Enseignants en Rhumatologie (COFER). Rachialgies. Item 94 UE 5. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-3-0.php)
 - [HAS. Prise en charge du patient présentant une lombalgie commune. 2019.](https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient-presentant-une-lombalgie-commune)
+- [HAS. Lombalgie chronique de l'adulte et chirurgie. 2015.](https://www.has-sante.fr/jcms/c_2615316/fr/lombalgie-chronique-de-l-adulte-et-chirurgie)
+- [ANAES. Diagnostic, prise en charge et suivi des malades atteints de lombalgie chronique. 2000.](https://www.has-sante.fr/jcms/c_271859/fr/diagnostic-prise-en-charge-et-suivi-des-malades-atteints-de-lombalgie-chronique)
 
 ### Bibliographie en attente
 
-- [Foltz V, et al. Prise en charge thérapeutique de la lombalgie chronique : focus sur les antalgiques et l'activité physique Therapeutic management of chronic low back pain: Focus on analgesics and physical activity. Revue du Rhumatisme. 2025.](https://www.sciencedirect.com/science/article/pii/S1169833024001637)
 - [Demoulin C, et al. Croyances délétères du patient souffrant de lombalgie chronique : pourquoi s'y intéresser ? Maladaptive beliefs of patients suffering from chronic low back pain: Why should we care?. Revue du Rhumatisme. 2025.](https://www.sciencedirect.com/science/article/abs/pii/S1169833024000668)
 - [NICE. Low back pain and sciatica in over 16s: assessment and management. NICE guideline. 2020.](https://www.nice.org.uk/guidance/ng59)
-- [HAS. Lombalgie chronique de l'adulte et chirurgie. 2016.](https://www.has-sante.fr/jcms/c_2615316/fr/lombalgie-chronique-de-l-adulte-et-chirurgie)
-- [ANAES. Diagnostic, prise en charge et suivi des malades atteints de lombalgie chronique. 2000.](https://www.has-sante.fr/jcms/c_271859/fr/diagnostic-prise-en-charge-et-suivi-des-malades-atteints-de-lombalgie-chronique)
 
 {{%/sources%}}
 {{% modal title="Questionnaire DN4" id="modal-score-dn4"%}}
