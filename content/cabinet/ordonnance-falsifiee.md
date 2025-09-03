@@ -12,7 +12,6 @@ sources = []
 tags = []
 image = true
 imageSrc = "de la falsification d'ordonnances / Undraw"
-draft = true
 +++
 
 La falsification d'ordonnances médicales est fréquente et plusieurs déclarations et signalements sont nécessaires afin de limiter les risques de procédure allant à l'encontre du médecin titulaire.  
