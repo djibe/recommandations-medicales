@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Mustapha DAHLAB", "Jean-Baptiste FRON"]
 date = "2023-11-20T12:00:20+01:00"
 publishdate = "2023-12-11"
-lastmod = "2025-08-31"
+lastmod = "2025-09-04"
 specialites = ["dermatologie"]
 annees = "2025"
 sources = ["SFMV", "HAS"]
@@ -24,17 +24,18 @@ flowchart = true
 
 {{%article-summary%}}
 
-- L'ulcère veineux de jambe est une plaie ne cicatrisant pas depuis plus d'un mois, sans artériopathie
-- L'examen clinique est rigoureux pour identifier l'origine et rechercher une part artérielle ou autre (maladie inflammatoire ...), une surinfection, une {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}} et photos pour suivre l'évolution
-- Le bilan de l'ulcère veineux comporte toujours: NFS, glycémie, bilan lipidique, mesure de l'index de pression systolique (IPS) et échodoppler veineux
-- La prise en charge et le traitement de l'ulcère veineux est long: compression veineuse (30 à 40 mmHg) 24h/24, {{< modal-btn modal-pansements >}}pansement adapté{{< /modal-btn >}}, suivi toutes les 2-4 semaines, antalgie, correction des facteurs de risque (sédentarité, surpoids, diabète), vaccination dTP, éducation thérapeutique
+- L'ulcère veineux de jambe est une plaie ne cicatrisant pas depuis plus d'un mois, et ce malgré l'absence d'artériopathie
+- L'examen clinique est rigoureux pour identifier l'étiologie et rechercher une part artérielle ou autre (insuffisance d'organe, maladie inflammatoire ...), une surinfection, une dénutrition et comprend des photos pour suivre son évolution
+- Le bilan de l'ulcère veineux comporte toujours: NFS, glycémie, bilan lipidique, créatinine, ± albumine, ± NTpro-BNP, échodoppler veineux et le plus souvent la mesure de l'index de pression systolique au gros orteil (IPSGO)
+- La prise en charge et le traitement de l'ulcère veineux sont longs: compression veineuse (30 à 40 mmHg) 24h/24, {{< modal-btn modal-pansements >}}pansement adapté{{< /modal-btn >}}, suivi toutes les 2 à 4 semaines, antalgie, correction des facteurs de risque (sédentarité, surpoids, diabète), vaccination dTP, éducation thérapeutique
+- En cas d'échec à 6 mois: mesure de l'IPSGO si non fait, adresser pour biopsie cutanée et évaluation spécialisée
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Ulcère veineux
-: Plaie de jambe ne cicatrisant pas depuis plus d'un mois (sauf récidive) dont la physiopathologie est uniquement liée à surpression veineuse (reflux dans les veines superficielles, obstruction des veines profondes et/ou déficience musculaire du mollet) sans artériopathie. Il atteint préférentiellement les femmes.
-: Les complications sont liées à la chronicité (< 40 % de cicatrisation à 3 mois), aux récidives (30 %) et l'altération de la qualité de vie.
+: Plaie de jambe ne cicatrisant pas depuis plus d'un mois (sauf récidive) dont la physiopathologie est liée à une surpression veineuse (reflux dans les veines superficielles, obstruction des veines profondes et/ou déficience musculaire du mollet) sans artériopathie. Il atteint préférentiellement les femmes.
+: Les complications sont liées à la chronicité (< 40 % cicatrisent sous 3 mois), aux récidives (30 %) et à l'altération de la qualité de vie.
 : L'ulcère veineux représente 70 à 80% des ulcères de jambe. C'est un enjeu de santé publique avec 272 millions d'euros de soins annuels.
 
 Ulcère mixte à prédominance veineuse
@@ -78,8 +79,11 @@ HAS
 IPS
 : index de pression systolique
 
-MVTE (ou MTEV ou ETEV)
-: maladie veineuse thrombo-embolique
+IPSGO
+: index de pression systolique au gros orteil (ou IPGO ou IPSO)
+
+MVTE
+: maladie veineuse thrombo-embolique (ou MTEV ou ETEV)
 
 SFMV
 : Société Française de Médecine Vasculaire
@@ -93,16 +97,16 @@ TVP
 
 ### Étiologie de l'ulcère de jambe
 
-- Ulcère veineux ou mixte à prédominance veineuse
+- **Ulcère veineux** ou mixte à prédominance veineuse (70-80 %)
 - Ulcère artériel par [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}})
 - Angiodermite nécrotique
-- Vasculite rare: [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), péri-artérite noueuse, lupus, embolies de cholestérol, cryoglobulinémie ...
+- Vasculite (rare): [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), péri-artérite noueuse, lupus, embolies de cholestérol, cryoglobulinémie ...
 - Ulcère non vasculaire
   - *Pyoderma gangrenosum*
   - Mycobactérie, parasitose
   - Carcinome
   - Syndrome myéloprolifératif, dysglobulinémie
-  - Iatrogénie  
+  - Iatrogénie médicamenteuse  
     Hydroxyurée, nicorandil, anti-VEGF, anti-EGFR, immunosuppresseurs (tacrolimus, [méthotrexate]({{% relref "methotrexate.md" %}})), [corticoïdes]({{% relref "corticoides.md" %}}), AINS, adalimumab, certolizumab.
   - Pathomimie (diagnostic d'élimination)
 
@@ -115,30 +119,38 @@ TVP
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
+> [!INFO]
+> L'ulcère veineux est typiquement péri-malléolaire sur le tiers distal de la jambe, indolore, progressif, étendu, superficiel avec des bords irréguliers, un exsudat et une dermatite péri-lésionnelle, en présence de signes d'insuffisance veineuse.
+
 ### Interrogatoire
 
 Interrogatoire devant un ulcère de jambe:
 
-- Antécédents personnels ou familiaux  
-  Phlébologiques (varices), maladie veineuse thrombo-embolique (MVTE ou MTEV: [thrombose veineuse profonde TVP]({{% relref "thrombose-veineuse-profonde.md" %}}), superficielle TVS ou [embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})).
-- Antécédents: ulcère veineux, traumatisme ou chirurgie des membres inférieurs
+- Antécédents personnels  
+  Phlébologiques (varices), [maladie veineuse thrombo-embolique](/tags/mvte/) (MVTE ou MTEV: [thrombose veineuse profonde TVP]({{% relref "thrombose-veineuse-profonde.md" %}}), superficielle TVS ou [embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})), traumatisme ou chirurgie des membres inférieurs
+- Antécédents familiaux: varices, MVTE
 - Facteurs de risque cardiovasculaire
 - Tabagisme
+- Activité: piétinement, niveau d'activité physique
 - Périmètre de marche
 - Symptômes d'insuffisance veineuse:
   - Lourdeurs de jambes, douleurs des jambes
   - Impatiences, prurit
   - Œdèmes vespéraux
   - Crampes au repos
+- Histoire de l'ulcère: **ancienneté** (défavorable quand +1 an), apparition, évolution, soins, douleurs
 - Dépister une [dénutrition]({{% relref "denutrition.md" %}}) ({{< modal-btn modal-mna >}}score MNA{{< /modal-btn >}})
+- {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 - Qualité de vie
 
 ### Examen clinique
 
 - Pression artérielle, fréquence cardiaque
+- Poids et variations, taille, IMC
+- Examen des jambes
 - Caractères de l'ulcère
   - Nombre
-  - Taille
+  - **Surface** (défavorable > 10 cm²)
   - Profondeur
   - Exsudat
   - Odeur
@@ -153,16 +165,16 @@ Interrogatoire devant un ulcère de jambe:
   - Photos
 - Amplitudes articulaires de la cheville
 - Déformation des pieds
-- Signes d'[artériopathie des membres inférieurs]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}})
+- Signes d'[artériopathie des membres inférieurs]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}):
   - Palpation des pouls périphériques
   - Auscultation des trajets artériels
   - Dépilation, peau sèche, blanche, froide (RV+ 6)
   - Temps de recoloration cutanée (> 2 s)
-- Index de pression systolique (IPS)
+- Index de pression systolique au gros orteil (IPSGO)
 - Handicap moteur
 - Sujet âgé: évaluation gériatrique
 
-> << Les données de l'examen clinique ont une sensibilité et une spécificité insuffisantes pour porter un diagnostic étiologique >> -- *HAS 2006*
+> << Les données de l'examen clinique ont une sensibilité et une spécificité insuffisantes pour porter un diagnostic étiologique. >> -- *HAS 2006*
 {.alert .alert-info}
 
 {{% /collapse %}}
@@ -172,32 +184,33 @@ Interrogatoire devant un ulcère de jambe:
 
 ### Bilan de l'ulcère de jambe
 
-Mise à jour du dépistage des facteurs de risque cardiovasculaires et bilan veineux:
-
 - NFS
+- Créatininémie, DFG selon CKD-EPI
+- ± Albuminémie
+- ± NTpro-BNP
 - Glycémie à jeun
 - Bilan lipidique
-- Index de pression systolique (IPS)
 - Échodoppler veineux
+- Index de pression au gros orteil (IPSGO) voire Index de pression systolique (IPS)
 {{%/info%}}
 
-### Index de pression systolique (IPS)
+### Index de pression systolique au gros orteil (IPSGO)
 
-**Mesure systématique de l'index de pression systolique** (IPS) devant un ulcère de jambe (*HAS 2006*).
+**Mesure systématique** de l'index de pression systolique au gros orteil devant un ulcère de jambe, ou à défaut IPS (*SFMV 2025*).
 
-L'ulcère est dit << veineux pur >> pour un IPS de 0,9 à 1,3 et << mixte à prédominance veineuse >> de 0,7 à 1,9.
+L'ulcère est dit << veineux pur >> pour un IPSGO ≤ 0,7 (IPS de 0,91 à 1,4 et << mixte à prédominance veineuse >> de 0,7 à 1,9).
 
 ### Échodoppler veineux
 
-**Écho-doppler veineux systématique** devant un ulcère de jambe (*HAS 2006*).
+**L'Écho-doppler veineux** est recommandé devant tout ulcère de jambe (*SFMV 2025*).
 
 ### Échodoppler artériel
 
-Indications à l'échodoppler artériel pour ulcère de jambe (*HAS 2006*):
+Indications à l'échodoppler artériel pour ulcère de jambe:
 
 - Abolition des pouls périphériques
 - Symptômes ou signes cliniques d'AOMI
-- IPS pathologique (< 0,9 ou > 1,3)
+- IPSGO ≤ 0,7 ou IPS pathologique (< 0,91 ou > 1,4)
 
 ### Consultation vasculaire
 
@@ -221,33 +234,35 @@ La cicatrisation de l'ulcère variqueux est longue (3 à 6 mois) et les récidiv
 
 Prise en charge de l'ulcère veineux et prévention des récidives:
 
-- Traitement étiologique surtout
-- **Compression veineuse** (30-40 mmHg soit classe 3-4) 24h/24  
-  À poursuivre à vie, minimum 20 mmHg.
-- Autre jambe, si varices: compression veineuse > 20 mmHg (classe 2+)
-- {{< modal-btn modal-pansements >}}Pansement adapté{{< /modal-btn >}}  
-- Suivi de la plaie toutes les 2-4 semaines avec mesures et photos  
-  Cible: réduction de 20-30 % de surface à 1 mois.
+- Soins de l'ulcère:
+  - **Compression veineuse** (30-40 mmHg soit classe 3-4) en permanence  
+    À poursuivre à vie, minimum 20 mmHg.
+  - Autre jambe, si varices: compression veineuse > 20 mmHg (classe 2+)
+  - {{< modal-btn modal-pansements >}}Pansement adapté{{< /modal-btn >}}  
+  - Suivi de la plaie toutes les 2-4 semaines avec mesures et photos  
+    Cible: réduction de 20-30 % de surface à 1 mois.
 - Antalgie: générale, locale
-- Rééducation à la marche, mobilisation de l'articulation tibio-tarsienne
-- Activité physique
+- Prise en charge fonctionnelle:
+  - **Rééducation** à la marche, mobilisation de l'articulation tibio-tarsienne
+  - Activité physique quotidienne
+  - Si déformation: avis podologique
 - [Mise à jour des vaccins]({{% relref "vaccination.md" %}})
 - Correction des facteurs de [risque cardiovasculaire](/tags/risque-cardiovasculaire/): tabac, hypertension, diabète
 - Correction d'un surpoids
-- Si déformation: avis podologique
 - Éducation thérapeutique  
   Observance de la compression, traumatismes, plaies, hygiène, exercice, mobilité de la cheville, éviter jambes pendantes ou croisées, piétinement
 - Déclarer une [ALD 31]({{% relref "affection-longue-duree.md" %}}) en cas d'ulcère récidivant ou chronique avec retentissement sévère
 
-Principaux allergènes pouvant développer un eczéma de contact péri-ulcéreux: baume du Pérou, antiseptiques, fragrances, lanoline, conservateurs, certains pansements.
+> [!WARNING]
+> Principaux allergènes pouvant développer un eczéma de contact péri-ulcéreux: baume du Pérou, antiseptiques, fragrances, lanoline, conservateurs, certains pansements.
 
 {{< card-link-external title="Aide à la prescription des pansements" url="https://www.omedit-normandie.fr/boite-a-outils/dispositifs-medicaux/pansements/pansements,5364,12407.html" subtitle="par l'omedit Normandie" >}}
 
 ### Compression veineuse
 
-**Compression veineuse de haut niveau (30-40 mmHg - classe III-IV) 24h/24** par bandes (pansement ou œdème initial ++, en multicouches à étirement court) ou bas (chaussettes, bas-cuisse, collants) pour tout ulcère veineux (IPS de 0,8 à 1,3). Elle doit être posée allongé.
+**Compression veineuse de haut niveau (30-40 mmHg - classe III-IV) 24h/24** par bandes (pansement ou œdème initial ++, en multicouches à étirement court) ou bas (chaussettes, bas-cuisse, collants) pour tout ulcère veineux (IPS de 0,91 à 1,4). Elle doit être posée allongé.
 
-Pour l'ulcère mixte à prédominance veineuse (IPS < 0,8 ou > 1,3), prendre en charge de l'[AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) et adapter la compression: pression < 30 mmHg par bande à étirement court, surveillance spécialisée, informer sur le retrait en cas d'aggravation des douleurs.
+Pour l'ulcère mixte à prédominance veineuse, prendre en charge de l'[AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) et adapter la compression: pression < 30 mmHg par bande à étirement court, surveillance spécialisée, informer sur le retrait en cas d'aggravation des douleurs.
 
 #### Pour en savoir plus : les types de compression veineuse
 
@@ -297,10 +312,12 @@ Rappel sur les soins locaux de l'ulcère veineux:
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'ulcère veineux" "show" %}}
 
-{{< mermaid title="Prise en charge de l'ulcère veineux par le médecin généraliste. Dr JB Fron d'après HAS, Assurance Maladie et Collèges" >}}
+{{< mermaid title="Prise en charge de l'ulcère veineux par le médecin généraliste. Dr JB Fron d'après SFMV 2025 et HAS" >}}
 graph TB
-  ulcère["<b>Ulcère de jambe</b><br>—<br>Plaie sans cicatrisation<br>à 1 mois"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Facteurs cardiovasculaires<br>- Périmètre de marche<br>- Symptômes<br>- Dépister une dénutrition<br>- Examen de l'ulcère<br>- Signes d'AOMI<br>- Mesure de l'IPS<br>- Évaluation gériatrique") --> biologie("<b>Bilan biologique</b><br>—<br>- NFS<br>- Glycémie<br>- Bilan lipidique") -- Angiologue --> angiologue("<b>Bilan systématique</b><br>—<br>- Mesure de l'IPS<br>- Échodoppler veineux") --> ips(IPS ?) -- "Veineux:<br>0,91-1,4" --> veineux("<b>Traitement de l'ulcère</b><br>—<br>- Traitement étiologique ++<br>- Compression veineuse 30-40 mmHg<br>- Soins de plaie<br>- Pansement adapté<br>- Suivi toutes les 2-4 sem<br>- Antalgie<br>- Activité physique, rééducation<br>- Vaccins<br>- Correction du risque cardiovasculaire<br>- Éducation thérapeutique<br>- ALD 31 si long/récidivant<br>avec retentissement<br>± Chirurgie veineuse") -. Échec .-> centre("Avis spécialisé:<br>dermatologue, endocrinologue,<br>centre de cicatrisation")
-    ips -- "Artériel ou mixte:<br>≤ 0,9 ou &gt; 1,4" --> AOMI("Prise en charge<br>spécialisée de l'AOMI")
+  ulcère["<b>Ulcère de jambe</b><br>—<br>Plaie sans cicatrisation<br>à 1 mois"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Facteurs cardiovasculaires<br>- Périmètre de marche<br>- Symptômes<br>- Dépister une dénutrition<br>- Examen de l'ulcère<br>- Signes d'AOMI<br>- Mesure IPS(GO)<br>- Évaluation gériatrique") --> biologie("<b>Bilan biologique</b><br>—<br>- NFS<br>- Créatinine<br>- ± Albuminémie, NTpro-BNP<br>- Glycémie<br>- Bilan lipidique")
+    biologie -- "Insuffisance veineuse<br>typique isolée" --> doppler(Doppler veineux) --> veineux
+    biologie -- "Suspicion vasculaire" --> angiologue("<b>Angiologue</b><br>—<br>- Mesure de l'IPS(GO)<br>- Échodoppler veineux") --> ips(IPS ?) -- "Veineux:<br>0,91-1,4" --> veineux("<b>Traitement de l'ulcère</b><br>—<br>- Traitement étiologique ++<br>- Compression veineuse 30-40 mmHg<br>- Soins de plaie<br>- Pansement adapté<br>- Suivi toutes les 2-4 sem<br>- Antalgie<br>- Activité physique, rééducation<br>- Vaccins<br>- Correction du risque cardiovasculaire<br>- Éducation thérapeutique<br>- ALD 31 si long/récidivant<br>avec retentissement<br>± Chirurgie veineuse") -. "Échec 6 mois" .-> centre("- IPS(GO) si non fait<br>- Biopsie cutanée<br>- Avis spécialisé:<br>dermatologue, endocrinologue,<br>centre de cicatrisation")
+    ips -- "Artériel ou mixte:<br>&lt; 0,91 ou &gt; 1,4" --> AOMI("Prise en charge<br>spécialisée de l'AOMI")
   style ulcère stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
@@ -309,7 +326,8 @@ graph TB
 
 {{< youtube id="YqY_zHXRgxQ" title="La mesure de l'index de pression systolique (Dr Richard Belley)" >}}
 
-- [de Moraes Silva MA et al. Compression for preventing recurrence of venous ulcers. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002303.pub4/full/fr)
+- [Nou Howaldt M, et al; Wound and Healing Group of the French Society of Vascular Medicine. Diagnostic assessment for venous leg ulcers: Recommendations from the Wounds and Healing working group of the French Society of Vascular Medicine. Vasc Dis. 2025.](https://www.sciencedirect.com/science/article/pii/S305065812500189X)
+- [de Moraes Silva MA, et al. Compression for preventing recurrence of venous ulcers. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002303.pub4/full/fr)
 - Prescrire Redaction. Ulcère veineux de jambe. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Collège des enseignants de dermatologie de France (CEDEF). Ulcère de jambe. Item 228. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-228-%E2%80%94-Ulcere-de-jambe_CompressPdf.pdf)
 - Omedit Centre Val de Loire. Plaies chroniques et retard de cicatrisation liés aux traitements. 2023.
@@ -320,10 +338,6 @@ graph TB
 - [Assurance Maladie. Plaies chroniques. Prise en charge en ville. (PDF)](https://www.ameli.fr/sites/default/files/Documents/5122/document/plaies-chroniques-prise-en-charge_assurance-maladie.pdf)
 - [Euro-pharmat. Fiches de bon usage Pansements.](https://www.euro-pharmat.com/pansements)
 
-### Bibliographie en attente
-
-[Nou Howaldt M, et al; Wound and Healing Group of the French Society of Vascular Medicine. Diagnostic assessment for venous leg ulcers: Recommendations from the Wounds and Healing working group of the French Society of Vascular Medicine. Vasc Dis (Paris). 2025.](https://www.sciencedirect.com/science/article/pii/S305065812500189X)
-
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
 
@@ -333,5 +347,10 @@ graph TB
 {{% modal title="Pansements recommandés" id="modal-pansements"%}}
 
 {{< traitements/pansements >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
+
+{{< scores/stop-bang >}}
 
 {{% /modal %}}
