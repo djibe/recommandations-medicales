@@ -15,6 +15,7 @@ tags = ["nourrisson"]
 english = ["Diaper dermatitis", "diaper rash", "napkin dermatitis"]
 sctid = "91487003"
 icd10 = []
+draft = true
 image = false
 imageSrc = ""
 todo = "fiche > photo > newsletter > flow > Kanban | Prescrire"
