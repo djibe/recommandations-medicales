@@ -3,6 +3,7 @@ title = "Sécurité des compléments alimentaires à base de plantes"
 titleSeo = "Sécurité compléments alimentaires de plantes"
 description = "L'agence de sécurité sanitaire (Anses) a publié les précautions concernant 118 plantes utilisées pour la composition de compléments alimentaires"
 longHtml = true
+noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-12T21:25:00+02:00"
 publishdate = "2023-06-13"

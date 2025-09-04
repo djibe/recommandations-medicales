@@ -2,6 +2,7 @@
 title = "Le médecin généraliste peut-il accueillir un stagiaire en fin de 3e ?"
 titleSeo = "Médecin généraliste et accueil de stagiaire en 3e"
 noindex = true
+noSearchContent = true
 description = "L'accueil de collégien pour un stage de 3e est interdit au cabinet du médecin généraliste"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-06-20T16:42:00+02:00"

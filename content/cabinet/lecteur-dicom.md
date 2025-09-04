@@ -2,6 +2,8 @@
 title = "Lecteur d'images médicales DICOM"
 titleSeo = "Lecteur d'images médicales DICOM"
 description = "Ouvrir et lire des imageries médicales au format DICOM (Digital imaging and communications in medicine): radiographies, scanner ... (lecteur DICOM, DICOM viewer)"
+longHtml = true
+noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-08-24T19:04:00+02:00"
 publishdate = "2025-08-24"

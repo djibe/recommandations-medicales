@@ -1,6 +1,8 @@
 +++
 title = "Savoir si un patient est décédé"
 noindex = true
+longHtml = true
+noSearchContent = true
 titleSeo = "Savoir si un patient est décédé"
 description = "Outil officiel matchID pour retrouver la trace ou savoir si une personne est décédée"
 auteurs = ["Jean-Baptiste FRON"]

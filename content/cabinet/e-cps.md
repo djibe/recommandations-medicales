@@ -2,6 +2,7 @@
 title = "e-CPS et authentification mobile du médecin"
 titleSeo = "e-CPS et authentification"
 noindex = true
+noSearchContent = true
 description = "Apprendre à créer sa carte e CPS afin de bénéficier de connexions facilitées en mobilité ou sans sa carte CPS"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-20T09:00:00+02:00"

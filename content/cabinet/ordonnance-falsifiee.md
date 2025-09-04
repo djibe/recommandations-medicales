@@ -1,7 +1,7 @@
 +++
 title = "Ordonnance falsifiée: procédures à réaliser par le médecin devant de fausses ordonnances"
 titleSeo = "Ordonnance falsifiée et procédures"
-noindex = true
+noSearchContent = true
 description = "Ordonnances falsifiées du médecin: procédures à réaliser. Porter plainte contre X à la police, au conseil de l'ordre et à l'ARS."
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-09-02T19:20:00+02:00"

@@ -1,6 +1,7 @@
 +++
 title = "Participation des Français au dépistage organisé des cancers (colorectal, sein et col de l'utérus)"
 noindex = true
+noSearchContent = true
 titleSeo = "Participation des Français au dépistage des cancers"
 description = "Taux de participation des Français au dépistage organisé des cancers du sein (mammographie), du cancer colorectal (test fécal) et du cancer du col de l'utérus"
 auteurs = ["Jean-Baptiste FRON"]

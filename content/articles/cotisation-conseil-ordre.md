@@ -3,6 +3,7 @@ title = "Évolution de la cotisation ordinale des médecins de 2001 à 2025"
 titleSeo = "Évolution de la cotisation ordinale des médecins"
 description = "Évolution du montant de la cotisation annuelle au Conseil de l'Ordre des Médecins de 2001 à 2025, corrigée de l'inflation"
 longHtml = true
+noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-09T08:59:00+02:00"
 publishdate = "2022-01-18"
@@ -19,7 +20,7 @@ todo = "update 2026, écriture SEO dont 'cotisation ordre des médecins', valeur
 
 ## Évolution du montant de la cotisation à l'Ordre des médecins
 
-La cotisation au Conseil National de l'Ordre des Médecins (CNOM) est **quasi stable sur les 10 dernières années** (période 2014-2024), à -3,4 %, avec un montant (corrigé de l'inflation) de 365,6 € en 2011 contre 353 € en 2024.
+La cotisation au Conseil National de l'Ordre des Médecins (CNOM) est **quasiment stable sur les 10 dernières années** (période 2014-2024), à -3,4 %, avec un montant (corrigé de l'inflation) de 365,6 € en 2011 contre 353 € en 2024.
 
 Sur 20 ans (période 2004-2024), l'augmentation de la cotisation ordinale atteint **8 %** (en euros constants).
 

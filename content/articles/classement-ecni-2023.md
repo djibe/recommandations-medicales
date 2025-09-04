@@ -2,6 +2,7 @@
 title = "Classement aux ECNi 2023"
 description = "Intégralité du classement au concours de sixième année de médecine, les épreuves classantes nationales ECNi 2023 avec recherche par nom ou par classement"
 longHtml = true
+noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-07-06T10:21:00+02:00"
 publishdate = "2023-07-06"

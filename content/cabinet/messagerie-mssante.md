@@ -2,6 +2,7 @@
 title = "Messagerie sécurisée de santé (MSSanté)"
 description = "Tout savoir sur la Messagerie sécurisée de santé MSSanté. Créer une adresse MSSanté, envoyer un message à un confrère ou à un patient"
 noindex = true
+noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-04-29T19:00:00+02:00"
 publishdate = "2022-04-29"

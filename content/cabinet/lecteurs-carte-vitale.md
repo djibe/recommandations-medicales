@@ -2,6 +2,8 @@
 title = "Lecteurs de carte vitale et carte CPS"
 description = "Lecteurs de carte vitale et de carte CPS homologués pour la facturation Sesam-Vitale par les médecins généralistes (lecteurs dits PC/SC ou Smart card)"
 noindex = true
+longHtml = true
+noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-22T19:15:00+02:00"
 publishdate = "2022-07-23"

@@ -3,6 +3,7 @@ title = "Nombre de médecins généralistes en activité en France en 2025"
 titleSeo = "Nombre de médecins généralistes en France"
 description = "Nombre de médecins généralistes en activité en France et évolution sur la période 2012 - 2025 (81870 médecins). Evolution par département et pyramide des âges"
 longHtml = true
+noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-09T20:06:00+02:00"
 publishdate = "2023-04-28"

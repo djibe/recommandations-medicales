@@ -3,6 +3,7 @@ title = "Générateur et modèle de contrat de remplacement du médecin généra
 titleSeo = "Éditer un contrat de remplacement de médecin"
 description = "Générateur et modèle de contrat de remplacement de médecin généraliste libéral d'après le modèle du CNOM"
 longHtml = true
+noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-05T12:18:00+02:00"
 publishdate = "2022-12-08"

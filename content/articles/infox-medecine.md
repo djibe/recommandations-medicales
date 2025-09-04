@@ -2,6 +2,7 @@
 title = "Les infox en médecine"
 description = "Les fausses informations, fake-news ou Infox sont légions en médecine, offrant à de nombreux charlatans des revenus considérables."
 noindex = true
+longHtml = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-09-24T19:40:00+02:00"
 publishdate = "2024-09-24"

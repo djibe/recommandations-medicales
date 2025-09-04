@@ -2,6 +2,7 @@
 title = "Les sociétés savantes de médecine"
 description = "Tableau et liste des sociétés savantes de médecine: ESC, ESH, CMG, SFD, HAS, HCSP ... Accéder à leurs actualités, suivre leurs flux RSS et réseaux sociaux"
 longHtml = true
+noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-22T15:57:00+02:00"
 publishdate = "2023-09-28"

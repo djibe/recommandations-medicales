@@ -2,6 +2,7 @@
 title = "Liste des adresses des Caisses Primaires d'Assurance Maladie (CPAM)"
 titleSeo = "Adresses des Caisses d'Assurance Maladie (CPAM)"
 noindex = true
+noSearchContent = true
 description = "Liste des adresses des Caisses Primaires d'Assurance Maladie (CPAM) départementales pour renvoyer les feuilles de soins à la bonne caisse"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-27T19:57:00+02:00"

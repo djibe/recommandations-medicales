@@ -2,6 +2,7 @@
 title = "Les coordonnées des Agences Régionales de Santé (ARS)"
 titleSeo = "coordonnées des ARS"
 noindex = true
+noSearchContent = true
 description = "Les coordonnées de toutes les Agences Régionales de Santé (ARS) de France"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-11-28T11:00:00+02:00"

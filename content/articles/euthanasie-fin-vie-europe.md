@@ -3,6 +3,7 @@ title = "Carte de l'euthanasie en France et en Europe en 2024"
 titleSeo = "Carte de l'euthanasie en Europe 2024"
 description = "Carte d'Europe des pays légalisant l'aide au suicide, l'euthanasie ou interdisant leur usage. L'euthanasie est légale dans quatre pays européens: Belgique ..."
 longHtml = true
+noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-16T12:20:00+02:00"
 publishdate = "2023-01-26"

@@ -3,6 +3,7 @@ title = "Évolution du tarif des consultations des médecins généralistes"
 titleSeo = "Évolution du tarif de la consultation du généraliste"
 description = "Évolution du prix d'une consultation d'un médecin généraliste sur 40 ans (honoraires en secteur 1), de 1980 à 2025, corrigée de l'inflation"
 longHtml = true
+noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-23T14:00:00+02:00"
 publishdate = "2022-01-27"

@@ -3,6 +3,7 @@ title = "Espérance de vie selon l'âge en 2023 en France métropolitaine"
 titleSeo = "Espérance de vie selon l'âge en 2023"
 description = "Données sur l'espérance de vie selon l'âge et le sexe en 2023 en France métropolitaine. À 65 ans, l'espérance de vie est de 23,6 ans et de 19,77 ans pour un homme"
 longHtml = true
+noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-03-01T15:23:00+02:00"
 publishdate = "2024-03-01"

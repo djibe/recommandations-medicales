@@ -2,6 +2,7 @@
 title = "La sécurité informatique pour le médecin généraliste"
 titleSeo = "Sécurité informatique du médecin"
 noindex = true
+longHtml = true
 description = "Outils et consignes de sécurité pour la protection des données de santé: mots de passe, longueur et gestionnaire, antivirus, téléchargements"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-08T21:30:00+02:00"

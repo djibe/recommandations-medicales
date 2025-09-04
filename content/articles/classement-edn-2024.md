@@ -2,6 +2,7 @@
 title = "Résultats aux EDN 2024: classement et affectations"
 description = "Intégralité des résultats au concours de sixième année de médecine, les EDN 2024 avec recherche par nom, rang et spécialité"
 longHtml = true
+noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-10-25T12:37:00+02:00"
 publishdate = "2024-10-25"
