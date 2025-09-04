@@ -350,7 +350,7 @@ Antibiothérapie de l'érythème migrant (par niveau d'intention):
 
 {{%/info%}}
 
-Antibiothérapie de l'EM de l'enfant:
+Antibiothérapie de l'érythème migrant de l'enfant:
 
 1. Enfant ≥ 20 kg: [doxycycline 4 mg/kg/j](https://bdpm.ansm.sante.fr/medicament/63836158/extrait#tab-rcp) (max 100 mg/prise et 200 mg/j) en 2 prises pendant 10 jours (14 si EM multiples)
 2. Amoxicilline 50 mg/kg/j (max 4 g/j) toutes les 8 heures pendant 14 jours
