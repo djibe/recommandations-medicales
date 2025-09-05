@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-09-01T16:41:14+02:00"
 publishdate = "2024-09-10"
-lastmod = "2024-09-10"
+lastmod = "2025-09-05"
 specialites = ["cardiologie"]
-annees = "2015"
+annees = "2025"
 sources = ["ESC"]
 tags = []
 english = ["Acute pericarditis"]
@@ -22,20 +22,20 @@ flowchart = true
 
 {{%article-summary%}}
 
-- La péricardite aiguë est une inflammation du péricarde le plus souvent d'origine virale atteignant principalement les hommes
-- Les symptômes typiques sont un contexte pseudogrippal avec des douleurs thoraciques antérieures de repos, résistantes à la trinitrine et augmentées au décubitus ou à l'inspiration profonde et améliorées par l'antéflexion
-- La prise en charge de la péricardite aiguë nécessite un bilan en urgence pour éliminer un syndrome coronarien aigu, une embolie pulmonaire ou des complications
-- Le traitement de la péricardite aiguë associe: repos, arrêt de l'activité physique, aspirine à forte dose 1g 3 fois par jour pendant 1 à 2 semaines et de la colchicine pendant 3 mois
-- La surveillance est clinique à J7 avec contrôle de la CRP, suivie d'une consultation de cardiologie à 1 mois (CRP, ECG, échocardiographie)
-- En l'absence de contexte viral, les sociétés savantes françaises (SFD, SFR ...) préconisent de contrôler la sérologie borréliose
+- La péricardite aiguë est une inflammation du péricarde, le plus souvent d'origine virale
+- Les symptômes typiques de péricardite sont un contexte pseudo-grippal avec des douleurs thoraciques antérieures de repos, résistantes à la trinitrine et augmentées au décubitus ou à l'inspiration profonde et améliorées par l'antéflexion. La clinique ne permet souvent pas d'exclure une atteinte myocardique: on parle désormais de syndrome myo-péricardique inflammatoire (SMPI)
+- La prise en charge de la péricardite aiguë (ou plutôt de syndrome myo-péricardique inflammatoire) nécessite un bilan en urgence pour éliminer une myocardite, un syndrome coronarien aigu, une embolie pulmonaire ou des complications
+- Le traitement de la péricardite aiguë associe: repos minimal d'un mois, arrêt de l'activité physique, aspirine 1g x 3/j pendant 1 à 2 semaines et de la colchicine pendant 3 à 6 mois
+- Le suivi comprend une consultation de contrôle à J7 avec contrôle de la CRP ainsi qu'une consultation de cardiologie à 1 mois (CRP, ECG, échocardiographie)
+- En l'absence de contexte viral, les sociétés savantes françaises (SFD, SFR ...) préconisent une sérologie borréliose
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Péricardite aiguë
-: Inflammation aiguë du péricarde d'origine inconnue ou virale (90% dite idiopathique, voire bactérienne ou tuberculose chez l'immunodéprimé) avec ou sans épanchement, atteignant principalement les hommes de 16 à 65 ans. L'évolution de la péricardite aiguë idiopathique est le plus souvent bénigne.
+: Inflammation aiguë du péricarde d'origine inconnue ou virale (90% dites idiopathiques, voire bactérienne ou tuberculose chez l'immunodéprimé), avec ou sans épanchement, évoluant depuis moins de 4 semaines, souvent associée à une myocardite (myopéricardite). L'évolution de la péricardite aiguë idiopathique est le plus souvent bénigne. Elle atteint 2 fois plus les hommes (18-65 ans).
 : Les enjeux sont liés à la gravité des diagnostics différentiels ([SCA]({{% relref "syndrome-coronarien-aigu.md" %}}), [EP]({{% relref "embolie-pulmonaire.md" %}}), dissection aortique), aux risque de tamponnade et de formes chroniques.
-: Les récidives de péricardite aiguë sont fréquentes (30% à 18 mois). À distance d'une péricardite aiguë idiopathique, la colchicine réduirait les récidives de moitié.
+: Les récidives de péricardite aiguë sont fréquentes (20 à 30 % à 18 mois). À distance d'une péricardite aiguë idiopathique, la colchicine réduirait les récidives de moitié.
 
 Péricardite chronique
 : Péricardite durant plus de 3 mois.
@@ -56,6 +56,9 @@ ETT
 
 SCA
 : syndrome coronarien aigu
+
+SMPI
+: syndrome myo-péricardique inflammatoire SMPI ({{%lang%}}inflammatory myo-pericardial syndrome - IMPS{{%/lang%}})
 {.dl-inline}
 
 {{% /collapse %}}
@@ -87,20 +90,23 @@ L'examen clinique d'une suspicion de péricardite recherche une orientation deva
 ## Interrogatoire
 
 - Antécédents: péricardite, cardiopathie, immunodépression, thrombo-embolie
+- Antécédents familiaux cardiovasculaires
 - Facteurs de risque cardiovasculaire
-- Traitements en cours dont anticoagulants, allergies
+- Traitements en cours (dont anticoagulants)
+- Allergies médicamenteuses
 - Alcool
-- Contexte: infectieux, différentiel (chirurgie, alitement prolongé)
+- Contexte: infectieux, drogues, différentiel (chirurgie, alitement prolongé)
 - Risque de tuberculose
 - ECG antérieurs
-- Signes et symptômes de péricardite aiguë
-  - Douleurs thoraciques aiguës (> 85%)  
-    Rétrosternales ou précordiales gauches de repos, prolongées, résistantes à la trinitrine, augmentées au décubitus, à l'inspiration profonde et à la toux, améliorées penché en avant (antéflexion)
+- Signes et symptômes de péricardite aiguë:
+  - ==**Douleurs thoraciques aiguës**== (> 85%)  
+    Rétrosternales ou précordiales gauches de repos, prolongées, résistantes à la trinitrine, augmentées au décubitus, à l'inspiration profonde et à la toux, améliorées en **antéflexion**; parfois de trapèze gauche
   - Dyspnée soulagée par l'antéflexion
   - Autres signes de péricardite: toux sèche, [dysphonie]({{% relref "dysphonie.md" %}}), hoquet
   - Signes généraux du syndrome pseudo-grippal: fièvre, fatigue, myalgies
 - Facteurs de mauvais pronostic
   - Fièvre > 38°C
+  - Palpitations
   - Tableau subaigu
   - Épanchement péricardique volumineux, tamponnade
   - Résistance aux anti-inflammatoires
@@ -108,10 +114,12 @@ L'examen clinique d'une suspicion de péricardite recherche une orientation deva
 ### Examen clinique
 
 - Pression artérielle, fréquence cardiaque, SpO~2~
+- **Température**
 - Auscultation cardio-respiratoire
   - Tachycardie
-  - Frottement péricardique (< ⅓, pathognomonique)  
+  - **Frottement péricardique** (< 1/3, pathognomonique)  
     Systolodiastolique, variable, mieux perçu au bord supérieur du sternum gauche.
+  - Épanchement péricardique
   - Épanchement pleural
 - Recherche des signes de tamponnade
   - Douleur thoracique, polypnée puis orthopnée et toux
@@ -130,15 +138,17 @@ Le bilan de la péricardite aiguë est réalisé aux *Urgences*.
 
 ## Bilan de la suspicion de péricardite aiguë
 
-- NFS, CRP
+- NFS, **CRP**
 - Troponine, CPK
-- Ionogramme sanguin, urée, créatinine
-- ± TSH
+- Ionogramme, créatinine
+- ASAT, ALAT, GGT, PAL
+- NT-proBNP
+- TSH
 - En l'absence de syndrome pseudogrippal: sérologie borréliose (*Gocko X et al 2019*)
 - Si fièvre: hémocultures
+- Radiographie thoracique
 - Électrocardiogramme (ECG) systématique
 - Échocardiographie transthoracique (ETT)
-- Radiographie thoracique
 
 > Le diagnostic étiologique n'est pas nécessaire pour tous les patients (faible prévalence de la tuberculose en France).
 
@@ -146,14 +156,14 @@ Le bilan de la péricardite aiguë est réalisé aux *Urgences*.
 
 L'ECG peut montrer des anomalies (< 2/3 des cas) diffuses non systématisées **sans image en miroir**, évoluant en 4 stades:
 
-1. Stade I: sus-décalage du segment ST concave vers le haut (sauf aVR et V1 avec sous-décalage), ondes T positives le 1^er^ jour
+1. Stade I: **sus-décalage diffus du segment ST** concave vers le haut (sauf aVR et V1 avec sous-décalage), ondes T positives le 1^er^ jour
 2. Stade II: ondes T plates entre la 24^e^ et la 48^e^ heure
 3. Stade III: ondes T négatives la 1^re^ semaine
 4. Stade IV: normalisation au cours du 1^er^ mois
 
 > En cas d'élévation du segment ST, le diagnostic différentiel principal est un syndrome coronarien aigu (SCA).
 
-Autres signes électrocardiographiques possibles au décours d'une péricardite aiguë: sous-décalage de PQ présent à la phase initiale, tachycardie sinusale, extrasystole atriale, fibrillation atriale, flutter atrial, microvoltage en cas d'épanchement abondant (amplitude QRS < 5 mm et < 10 mm respectivement dans les dérivations périphériques et précordiales).
+Autres signes électrocardiographiques possibles au décours d'une péricardite aiguë: **sous-décalage de PR** présent à la phase initiale, tachycardie sinusale, extrasystole atriale, fibrillation atriale, flutter atrial, microvoltage en cas d'épanchement abondant (amplitude QRS < 5 mm et < 10 mm respectivement dans les dérivations périphériques et précordiales).
 
 {{% /collapse %}}
 {{%collapse "Traitement de la péricardite aiguë" %}}
@@ -162,44 +172,43 @@ La prise en charge initiale de la péricardite aiguë est une **urgence médical
 
 Après sortie des *Urgences* ou d'hospitalisation, le traitement de la péricardite aiguë associe:
 
-- **Repos**  
-  Selon les symptômes, souvent 1 mois.
+- ==**Repos**==  
+  Selon les symptômes, au moins 1 mois.
 - Activité physique: **arrêt** jusqu'à disparition des symptômes et normalisation des bilans (CRP, ECG et ETT -- correspondant à la consultation de cardiologie à 1 mois).  
   Pour les athlètes: au moins 3 mois et jusqu'à normalisation des bilans.
 - **Anti-inflammatoires**
-  - **Aspirine** 750-1000 mg toutes les 8 heures pendant 1-2 semaines  
-    Décroissance: 250-500 mg toutes les 1-2 semaines
-  - ou AINS ibuprofène 600 mg toutes les 8 heures pendant 1-2 semaines  
-    Décroissance: 200-400 mg toutes les 1-2 semaines.
-  - \+ **Colchicine** pour réduire les récidives: 0,5 mg x 2/j (1/j sous 70 kg) pendant 3 mois
-    Décroissance à considérer: réduction à 1/j (1j/2 sous 70 kg) les dernières semaines.
-- Protection gastrique: IPP associé
+  - ==**Aspirine**== 750-1000 mg toutes les 8 heures pendant 1-2 semaines  
+    Décroissance: 250 mg toutes les 1-2 semaines.
+  - ou AINS: ibuprofène 600-800 mg toutes les 8 heures pendant 1-2 semaines  
+    Décroissance: 200 mg toutes les 1-2 semaines.
+  - Corticoïdes à défaut: prednisone 0,2 - 0,5 mg/kg/j pendant 2-4 semaines, avec décroissance
+  - Avec protection gastrique par IPP
+  - \+ ==**Colchicine**== pour réduire les récidives: 0,5 mg x 2/j (1/j sous 70 kg) pendant 3-6 mois (sans décroissance)
 - Réévaluation clinique avec CRP à J7, puis 3 et 6 mois (plus souvent si besoin)
-- Suivi cardiologique à 1 mois puis selon l'évolution
+- Suivi cardiologique à 1 mois, 3-6 mois, 1 an puis selon l'évolution
 
 **NB.** En cas d'intolérance à l'aspirine et à l'ibuprofène, utiliser un corticoïde à 0,2-0,5 mg/kg/j. Envisager la décroissance dès la normalisation de la CRP.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la péricardite aiguë" "show" %}}
 
-{{< mermaid title="Prise en charge de la péricardite aiguë. Dr JB Fron d'après ESC. FRCV = facteurs de risque cardiovasculaire; * = 1/j sous 70 kg" >}}
+{{< mermaid title="Prise en charge de la suspicion de péricardite aiguë. Dr JB Fron d'après ESC 2025" >}}
 graph TB
-  suspicion["<b>Suspicion de péricardite<br>aiguë au cabinet</b><br>—<br>- Syndrome pseudogrippal<br>- Douleurs thoraciques:<br>réduites en antéflexion,<br>résistantes à la trinitrine<br>- Dyspnée<br>- Toux sèche, hoquet"] --> clinique("<b>Examen clinique</b><br>—<br>- Antécédents, FRCV<br>- Traitements<br>- Contexte<br>- Hémodynamique<br>- ECG si disponible") --> regulation("Appel du SAMU<br>pour régulation") --> bilan(Bilan aux Urgences) --> traitement("<b>Traitement de péricardite</b><br>—<br>- Repos<br>- Arrêt des activités physiques<br>- Aspirine 750-1000 mg x 3/j<br>1-2 semaines avec décroissance<br>- Colchicine 0,5 mg x 2/j* 3 mois<br>avec décroissance") --> suivi("<b>Suivi</b><br>—<br>- Cs à J7 avec CRP<br>- Cs de cardiologie à 1 mois:<br>CRP, ECG, ETT et<br>réévaluation des efforts")
-    bilan --> autre("Autre diagnostic:<br>- SCA<br>- Embolie pulmonaire<br>- Dissection aortique<br>- Autres")
-      traitement -. Intolérance .-> ains("Intolérance à l'aspirine:<br>- Ibuprofène<br>- Corticoïdes si double intolérance") --> suivi
+  suspicion["<b>Suspicion de péricardite<br>aiguë au cabinet</b><br>—<br>- Syndrome pseudogrippal<br>- Douleurs thoraciques:<br>augmentées à l'inspiration,<br>réduites en antéflexion,<br>résistantes à la trinitrine<br>- Dyspnée<br>- Toux sèche, hoquet"] --> clinique("<b>Examen clinique</b><br>—<br>- Antécédents, FRCV<br>- Traitements<br>- Contexte<br>- Hémodynamique<br>- ECG si disponible") --> regulation("Appel du SAMU<br>pour régulation") --> bilan(Bilan aux Urgences) --> traitement("<b>Traitement de la péricardite</b><br>—<br>- Repos ≥ 1 mois<br>- Arrêt des activités physiques<br>- Aspirine 750-1000 mg x 3/j<br>1-2 semaines avec décroissance<br>- Colchicine 0,5 mg x 2/j* 3-6 mois<br>sans décroissance") --> suivi("<b>Suivi</b><br>—<br>- Consultation à J7 avec CRP<br>- Cardiologue à 1 mois:<br>CRP, ECG, ETT et<br>réévaluation des efforts")
+    bilan --> autre("Autre diagnostic:<br>- Myocardite<br>- SCA<br>- Embolie pulmonaire<br>- Dissection aortique<br>- Autres")
+      traitement -. "Intolérance<br>aspirine" .-> ains("- Ibuprofène<br>- Prednisone si<br>double intolérance") --> suivi
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
+
+> **FRCV =** facteurs de risque cardiovasculaire; **\* =** 1/j sous 70 kg
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Schulz-Menger J, et al. 2025 ESC Guidelines for the management of myocarditis and pericarditis. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaf192/8234483)
 - [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Péricardite aiguë. Item 235. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
 - Prescrire Redaction. Péricardite aiguë supposée virale chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2021.
-- [Gocko X et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X19306201)
+- [Gocko X, et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X19306201)
 - [Adler Y, et al. 2015 ESC Guidelines for the diagnosis and management of pericardial diseases: The Task Force for the Diagnosis and Management of Pericardial Diseases of the European Society of Cardiology (ESC) Endorsed by: The European Association for Cardio-Thoracic Surgery (EACTS). Eur Heart J. 2015.](https://academic.oup.com/eurheartj/article/36/42/2921/2293375)
-
-### Bibliographie en attente
-
-[Schulz-Menger J, et al. 2025 ESC Guidelines for the management of myocarditis and pericarditis. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaf192/8234483)
 
 {{%/sources%}}

@@ -432,11 +432,11 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 - [ANRS, CNS. Dépistage et prise en charge des cancers chez les personnes vivant avec le VIH. 2024. (PDF)](https://cns.sante.fr/wp-content/uploads/2024/06/VIH-Cancer_Recommandation_Rapport-dexperts_-20240521.pdf)
 - [CMIT. Infection à VIH. Item 169. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-169.pdf)
 - [Santé Publique France. Bulletin de santé publique VIH-IST. 2023.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/vih-sida/documents/bulletin-national/bulletin-de-sante-publique-vih-ist.-novembre-2023)
+- [Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. 2023.](https://cedef.org/wp-content/uploads/2023/09/Item-169-%E2%80%94-Infection-a-VIH-manifestations-cutaneo-muqueuses-de-la-primo-infection-a-VIH_CompressPdf.pdf)
 - [Cazein F. et al. Activité de dépistage du VIH et circonstances de découverte de l'infection à VIH, France 2018. Bull Epidémiol Hebd. 2019.](http://beh.santepubliquefrance.fr/beh/2019/31-32/2019_31-32_1.html)
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
 - [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)
-- [Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 165 UE 6. 2017.](https://cedef.org/enseignement-2eme-cycle-dermatologie/)
 
 ### Bibliographie en attente
 

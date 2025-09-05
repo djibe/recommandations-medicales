@@ -271,10 +271,10 @@ Indications à la prévention de la bronchiolite par une immunisation passive av
 
 - Pour 2025-2026: la **campagne** débute le 1^er^ septembre 2025  
   Au mieux avant la sortie de maternité (rattrapage en ville sinon).
-- Pour tous les nourrissons nés depuis février 2025
+- Pour tous les nourrissons nés depuis février 2025 sauf vaccination maternelle anti-VRS
 - Une seule injection IM de nirsévimab (Beyfortus®)
 - ==De 0,5 mL (50 mg) pour les moins de 5 kg de poids puis 1 mL (100 mg) au-delà==
-- Dans la face antéro-latérale de cuisse
+- Dans la face antéro-latérale de **cuisse**
 - Le même jour que des vaccins ou anticorps si besoin (mais administrés sur d'autres sites)
 - **Contre-indiquée** uniquement en cas d'infection **documentée** à VRS ou d'hypersensibilité connue à un des composants du produit
 - Repousser si épisode infectieux modéré à sévère en cours
@@ -329,11 +329,18 @@ Recommandations de prise en charge d'un épisode de bronchiolite:
 > [!WARNING]
 > Traitements à ne pas utiliser: bronchodilatateurs (salbutamol Ventoline ou autre), corticoïdes, antibiotiques, anti-reflux, antitussifs et fluidifiants.
 
-### Traitement médical d'une bronchiolite aiguë
+### Kinésithérapie respiratoire et bronchiolite
 
-Réservé à l'hospitalisation.
+Globalement la kinésithérapie respiratoire n'est pas indiquée devant un épisode de bronchiolite. Elle peut se discuter en cas de comorbidités pour une **surveillance ambulatoire**.
 
-#### Pour en savoir plus: Rappels sur les autres traitements (oxygène, antibiothérapie)
+La kinésithérapie comprend la DRP, l'expiration lente prolongée/augmentation du flux expiratoire (AFE, non recommandée en hospitalisation), toux provoquée (TP).
+
+Sont contre-indiqués: drainage postural, vibration, clapping, désencombrement bronchique (en ambulatoire).
+
+Selon la Revue Prescrire: peu de place pour la kinésithérapie respiratoire sauf mauvaise compréhension des parents (pour assurer une surveillance).
+{.alert .alert-info}
+
+### Pour en savoir plus: Rappels sur les autres traitements (oxygène, antibiothérapie)
 
 Indications spécifiques au cours d'un épisode de bronchiolite:
 
@@ -343,17 +350,6 @@ Indications spécifiques au cours d'un épisode de bronchiolite:
   - Cardiopathie: cible habituelle ou > 92% par défaut
 - Discuter une antibiothérapie si:
   fièvre ≥ 38,5°C pendant +48 heures, [otite associée]({{% relref "otite-moyenne-aigue.md" %}}), pathologie pulmonaire ou cardiaque sous-jacente, foyer pulmonaire radiologiquement documenté, élévation de la CRP ou hyperleucocytose.
-
-### Kinésithérapie respiratoire et bronchiolite
-
-Globalement la kinésithérapie respiratoire n'est pas indiquée devant un épisode de bronchiolite. Elle peut se discuter en cas de comorbidités pour une **surveillance ambulatoire**.
-
-La kinésithérapie comprend la DRP, l'expiration lente prolongée/augmentation du flux expiratoire (AFE, non recommandée en hospitalisation), toux provoquée (TP).
-
-Sont contre-indiquées: drainage postural, vibration, clapping, désencombrement bronchique (en ambulatoire).
-
-Selon la Revue Prescrire: peu de place pour la kinésithérapie respiratoire sauf mauvaise compréhension des parents (pour assurer une surveillance).
-{.alert .alert-info}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une dyspnée sifflante" "show" %}}

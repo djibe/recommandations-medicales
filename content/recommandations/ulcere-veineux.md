@@ -18,7 +18,7 @@ sctid = "1237116009"
 icd10 = ["I83"]
 image = true
 imageSrc = "Ulcère veineux creusant avec fibrine et bourgeonnement. Raimundo Pastor, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "flow, Ameli plaie chronique p3"
+todo = "relecture demandée, Ameli plaie chronique p3"
 flowchart = true
 +++
 
