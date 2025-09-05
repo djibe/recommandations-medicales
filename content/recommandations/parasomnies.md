@@ -3,6 +3,7 @@ id = "0195b588-34e7-754d-95b2-d3857625bd85"
 title = "Parasomnies"
 prefix = "les "
 noindex = true
+noSearchContent = true
 description = "Recommandations pour le diagnostic et la prise en charge des parasomnies"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

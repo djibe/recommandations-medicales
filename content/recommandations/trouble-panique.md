@@ -3,6 +3,7 @@ id = "0195b58f-6376-7666-b583-c67188f39b1c"
 title = "Trouble panique"
 prefix = "le "
 noindex = true
+noSearchContent = true
 description = "Recommandations pour le diagnostic et la prise en charge du trouble panique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

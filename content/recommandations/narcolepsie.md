@@ -3,6 +3,7 @@ id = "0195b58f-3cf7-7b08-8a5b-3e2955813ccf"
 title = "Narcolepsie"
 prefix = "la "
 noindex = true
+noSearchContent = true
 description = "Recommandations pour le diagnostic et la prise en charge de la narcolepsie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

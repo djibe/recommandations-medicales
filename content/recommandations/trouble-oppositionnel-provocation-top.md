@@ -3,6 +3,7 @@ id = "0195b591-2fa6-7c02-be90-b9749d637ea4"
 title = "Trouble oppositionnel avec provocation (TOP)"
 prefix = "le "
 noindex = true
+noSearchContent = true
 description = "Recommandations pour le diagnostic et la prise en charge du trouble oppositionnel avec provocation (TOP)"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
