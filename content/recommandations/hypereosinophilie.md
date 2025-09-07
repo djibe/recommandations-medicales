@@ -214,6 +214,8 @@ En l'absence d'orientation probante, un **traitement d'épreuve antihelminthe** 
 
 > -- *PNDS 2022*
 
+**NB.** La strongyloïdose (ou anguillulose -- helminthe) n'est que très peu sensible à l'albendazole, seule l'ivermectine est efficace.
+
 Si l'éosinophilie persiste malgré le traitement d'épreuve, adresser toute éosinophilie persistante dans un Centre de Référence des syndromes hyperéosinophiliques (CEREO, [annuaire](https://www.cereo.fr/website/reseau_eosinophile_&710&1732720681092952015.html)) pour la suite de la prise en charge.
 {.alert .alert-warning}
 
@@ -255,6 +257,7 @@ graph TB
 - [CMIT. Éosinophilie. Item 218. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-218-web.pdf)
 - Société française d'hématologie (sfh). Item 218 - Éosinophilie. Hématologie Réussir son DFASM. 2021.
 - Collège National des Enseignants de Médecine Interne (CEMI). Eosinophilie. Item 23. Référentiel Collège de Médecine interne R2C. 2021.
+- [World Gastroenterology Organisation. Prise en charge de la strongyloïdose. 2018.](https://www.worldgastroenterology.org/guidelines/management-of-strongyloidiasis/management-of-strongyloidiasis-french)
 
 ### Bibliographie en attente
 
