@@ -294,18 +294,20 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 {{% /collapse %}}
 {{%collapse "Traitement du cancer colorectal" %}}
 
+Adresser en semi-urgence à l'équipe hospitalière de gastro-entérologie pour la suite de la prise en charge du cancer colorectal. [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC).
+
 Le traitement dépend de la décision de la réunion de concertation pluridisciplinaire.
 
-- [HAS Guide patient: La prise en charge du cancer colorectal (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-05/ald_30_gp_cancer_colorectal_web.pdf)
-- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 - Mesures systématiques associées au cancer
   - Arrêt tabac et alcool
   - Activité physique quotidienne ([guide patient](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_cancer.pdf))
   - Augmenter les apports en fibres
 - {{< modal-btn modal-mna >}}Dépister la dénutrition{{< /modal-btn >}} (39%) et accompagnement diététique spécialisé
 - Stomie: soins par infirmier stomathérapeute
+- Information du patient: [guide HAS (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-05/ald_30_gp_cancer_colorectal_web.pdf)
 - Association de patients  
   [France Côlon](https://www.france-colon.fr), [Mon réseau cancer colorectal](https://www.monreseau-cancercolorectal.com), [Crohn-RCH France](https://www.afa.asso.fr), [Ligue nationale contre le cancer](https://www.ligue-cancer.net), [Polyposes Familiales](https://www.polyposes-familiales.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com), [Ligue Cancer info](https://www.ligue-cancer.net) (ou {{<phone>}}0 805 123 124{{</phone>}})
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 
 ### Suivi après cancer du côlon ou rectum
 
@@ -317,7 +319,7 @@ Après 5 ans: suivi du risque élevé avec coloscopie tous les 5 ans.
 
 ### Pour en savoir: traitement du cancer du côlon et du haut rectum
 
-Chirurgie le plus souvent. Parfois chimiothérapie adjuvante et thérapie ciblée.
+Le traitement principal du cancer colorectal est la chirurgie. Selon le stade, une chimiothérapie adjuvante, thérapie ciblée, radiothérapie (cancer du rectum) ou des soins palliatifs sont décidés.
 
 ### Pour en savoir: traitement des cancers du moyen et bas rectum
 
@@ -347,10 +349,10 @@ graph TB
 
 {{< youtube id="DV0PVuj4Ljw" title="Quelle surveillance endoscopique pour un cancer du côlon ? (TutoGastro SNFGE)" >}}
 
+- [Lecomte T, et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive. 2025.](https://www.snfge.org/tncd/cancer-du-colon-non-metastatique)
 - [Phelip JM, et al. Cancer colorectal métastatique. Thésaurus National de Cancérologie Digestive. 2025.](https://www.snfge.org/tncd/cancer-colorectal-metastatique)
 - [Cotte E, et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive. 2025.](https://www.snfge.org/tncd/cancer-du-rectum)
 - [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
-- [Lecomte T, et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive. 2023.](https://www.snfge.org/tncd/cancer-du-colon-non-metastatique)
 - {{< references/college-gastro >}}
 - [Cervantes A, et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04192-8/fulltext)
 - [Robaszkiewicz M, et al; SFED. Modalités de surveillance après polypectomie colique. Hépato-Gastro & Oncologie Digestive. 2021.](https://www.jle.com/fr/revues/hpg/e-docs/modalites_de_surveillance_apres_polypectomie_colique_320939/article.phtml) ([accès libre (PDF)](https://www.sfed.org/wp-content/uploads/2022/05/modalites_de_surveillance_definitives-5ec.pdf))

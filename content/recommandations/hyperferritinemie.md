@@ -243,6 +243,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="qQJUYIxmn1Q" title="Hyperferritinémie : quand rechercher la mutation HFE ? (TutoGastro SNFGE)" >}}
+
 {{< youtube id="N4mWcUyGAf8" title="Nouvelle classification des surcharges en fer - E. BARDOU-JACQUET 2019 (AFEF Medical Education)" >}}
 
 - [European Association for the Study of the Liver. EASL Clinical Practice Guidelines on haemochromatosis. J Hepatol. 2022.](https://www.journal-of-hepatology.eu/article/S0168-8278(22)00211-2/fulltext)

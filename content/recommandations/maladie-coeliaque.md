@@ -323,6 +323,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="k7-velaYt2k" title="Maladie cœliaque : peut-on se passer de l'endoscopie ? (TutoGastro SNFGE)" >}}
+
 {{< youtube id="l3CGdp4T7Fw" title="Le régime sans gluten pour qui et pourquoi (TutoGastro SNFGE)" >}}
 
 - Prescrire Redaction. Intolérance au gluten. Premiers Choix Prescrire. Rev Prescrire. 2020.

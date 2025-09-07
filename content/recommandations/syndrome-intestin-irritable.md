@@ -278,6 +278,8 @@ style SII stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="SxJocyeSZ6g" title="Syndrome de l'intestin irritable : une affaire de cuisine ? (TutoGastro SNFGE)" >}}
+
 - [Nybacka S, et al. A low FODMAP diet plus traditional dietary advice versus a low-carbohydrate diet versus pharmacological treatment in irritable bowel syndrome (CARBIS): a single-centre, single-blind, randomised controlled trial. Lancet Gastroenterol Hepatol. 2024.](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(24)00045-1/abstract)
 - Prescrire Redaction. Troubles intestinaux bénins récurrents. Rev Prescrire. 2023.
 - {{< references/college-gastro >}}
