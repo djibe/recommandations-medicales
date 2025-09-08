@@ -75,7 +75,6 @@ Considérer un syndrome de Cushing iatrogène comme insuffisant surrénalien.
 - Antécédents  
   Cardiovasculaires, tuberculose.
 - Dépistage: frottis cervico-vaginal
-- Voyage en zone endémique d'anguillulose
 - Suivis spécialisés et rythme des consultations de la maladie responsable du traitement
 - Éducation sur la décroissance des corticoïdes
 - Rythme de décroissance et symptômes de la maladie et de sevrage
@@ -112,6 +111,7 @@ Les corticoïdes par voie générale ne doivent pas être utilisés en cas de: a
 - Ionogramme (répété sous 2 semaines)
 - Glycémie à jeun (répétée sous quelques jours)
 - Mise à jour du dépistage du frottis cervico-vaginal
+- Dépistage de l'anguillulose: (*HAS 2017*)
 - ± Bilan lipidique, électrophorèse des protéines (gammaglobulines)
 
 > -- *CEMI*

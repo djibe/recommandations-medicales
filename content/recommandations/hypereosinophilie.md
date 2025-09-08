@@ -118,7 +118,7 @@ SHE
 
 - DRESS
 - Syndrome hyperéosinophilique
-- Anguillulose maligne (immunodéprimé)
+- [Anguillulose maligne]({{% relref "strongyloidose-anguillulose.md" %}}) (immunodéprimé)
 - Syndrome d'invasion larvaire
 - Hémopathies malignes
 {{%/warning%}}

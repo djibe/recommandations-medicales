@@ -386,7 +386,7 @@ Radiographie de thorax systématique au diagnostic (la SFR [n'est pas d'accord](
 ### Autres bilans
 
 - NFS  
-  Vérifier les [éosinophiles]({{% relref "hypereosinophilie.md" %}}) en cas d'asthme difficilement contrôlé (recherche anguillulose quand ≥ 300/μL).
+  Vérifier les [éosinophiles]({{% relref "hypereosinophilie.md" %}}) en cas d'asthme difficilement contrôlé (recherche [anguillulose]({{% relref "strongyloidose-anguillulose.md" %}}) quand ≥ 300/μL).
 - Gaz du sang si: adulte avec VEMS < 50%, discordance symptômes - VEMS
 
 ### Consultations spécialisées
