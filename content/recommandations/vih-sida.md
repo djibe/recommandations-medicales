@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CAZANAVE (CMIT)"
 date = "2021-01-16T22:06:00+02:00"
 publishdate = "2021-01-16"
-lastmod = "2024-10-16"
+lastmod = "2025-09-08"
 specialites = ["infectiologie"]
 annees = "2021"
 sources = ["CNS", "HAS", "MinSanté"]
@@ -312,37 +312,51 @@ Palpation des aires ganglionnaires au moins annuelle.
 {{% /collapse %}}
 {{%collapse "Vaccinations spécifiques au cours du VIH" %}}
 
+Recommandations vaccinales chez les adultes VVIH (*ANRS/CNS 2025*):
+
 - [Mise à jour du calendrier vaccinal]({{% relref "vaccination.md" %}})
-  - Rappel dTPolio tous les 10 ans
+  - Rappel dTPolio (dTcaPolio à défaut) tous les 10 ans
   - ± [Vaccins HSH]({{% relref "hsh.md" %}})
+- Covid-19: indications de la population générale + CD4 < 200/mm³
 - Grippe annuelle
 - {{< modal-btn modal-vaccin-hepatite-a >}}Hépatite A{{< /modal-btn >}}
   - Indications: co-infection VHB ou VHC, hépatopathie chronique, alcool, voyage zone endémique
   - Contrôle sérologique préalable
   - Contrôle IgG post-vaccinal 2 mois après la 2^e^ injection
 - Hépatite B  
-  - Contrôle sérologique préalable
-  - Schéma: Engerix B20® double dose 4 fois à M0, M1, M2, M6
-  - Contrôle taux d'anticorps post-vaccinal puis annuel
-  - Rappel si anticorps anti-HBs < 10 UI/mL
+  - Contrôle sérologique préalable, rappel si anticorps anti-HBs < 10 UI/mL
+  - Schéma: Engerix B20® double dose 4 fois à M0, M1, M2, M6 (schéma classique si bon contrôle > 1 an)
+  - Contrôle des anti-HBs après +4 semaines puis tous les 2-4 ans (dispensé si taux > 100 UI/L)
+- Méningocoques B et ACWY
 - Papillomavirus
-  - Enfants de 11 à 19 ans vivant avec le VIH par le schéma d'injection en 3 doses: Gardasil 9® à M0, M2 et M6.
-  - Selon le CNS: rattrapage jusqu'à 26 ans pour tous
+  - Enfants de 11 à 19 ans: schéma d'injection en 3 doses (Gardasil 9® à M0, M2 et M6)
+  - Adultes: rattrapage jusqu'à 26 ans pour tous
 - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}}
+- Mpox: indications de la population générale
+- VRS: indications de la population générale
+- Zona: indications de la population générale
+- Vaccins vivants: voir paragraphe suivant
 
 ### Vaccins vivants et VIH
 
 > [!WARNING]
 > Contre-indication à la vaccination BCG quel que soit le taux de lymphocytes CD4.
 
-Les vaccins vivants sont possibles lorsque les lymphocytes CD4 sont supérieurs à 200/mm³.
+Les vaccins vivants sont contre-indiqués si (*ANRS/CNS 2025*):
 
-- ROR  
+- Nourrisson < 12 mois: CD4 < 25%
+- Enfant 12-35 mois: CD4 < 20%
+- Enfant 36-59 mois: CD4 < 15%
+- Sujet à partir de 5 ans: CD4 < 200/mm³
+
+Remarques spécifiques sur les vaccins vivants:
+
+- **ROR**  
   Contrôle sérologique préalable ± ßHCG. 2 injections à M0-M2.
-- [Varicelle]{{% relref "varicelle.md" %}}  
+- **[Varicelle]({{% relref "varicelle.md" %}})**  
   Contrôle sérologique préalable. 2 injections à M0-M2.
-- [Fièvre jaune]({{% relref "fievre-jaune.md" %}})  
-  Séjour en Guyane.
+- **[Fièvre jaune]({{% relref "fievre-jaune.md" %}})**  
+  Mêmes indications.
 
 > -- *Calendrier vaccinal* et *HAS 2018*
 
@@ -433,13 +447,14 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 - [CMIT. Infection à VIH. Item 169. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-169.pdf)
 - [Santé Publique France. Bulletin de santé publique VIH-IST. 2023.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/vih-sida/documents/bulletin-national/bulletin-de-sante-publique-vih-ist.-novembre-2023)
 - [Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. 2023.](https://cedef.org/wp-content/uploads/2023/09/Item-169-%E2%80%94-Infection-a-VIH-manifestations-cutaneo-muqueuses-de-la-primo-infection-a-VIH_CompressPdf.pdf)
-- [Cazein F. et al. Activité de dépistage du VIH et circonstances de découverte de l'infection à VIH, France 2018. Bull Epidémiol Hebd. 2019.](http://beh.santepubliquefrance.fr/beh/2019/31-32/2019_31-32_1.html)
+- [Cazein F, et al. Activité de dépistage du VIH et circonstances de découverte de l'infection à VIH, France 2018. Bull Epidémiol Hebd. 2019.](http://beh.santepubliquefrance.fr/beh/2019/31-32/2019_31-32_1.html)
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
 - [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)
 
 ### Bibliographie en attente
 
+- [ANRS, CNS. Vaccination des personnes vivant avec le VIH (label HAS). 2025.](https://www.has-sante.fr/jcms/p_3635651/fr/vaccination-des-personnes-vivant-avec-le-vih)
 - [HAS, ANRS, CNS. Prise en charge des complications infectieuses associées à l'infection par le VIH. 2024.](https://www.has-sante.fr/jcms/p_3529162/fr/prise-en-charge-des-complications-infectieuses-associees-a-l-infection-par-le-vih)
 - [HAS. Infection par le VIH](https://www.has-sante.fr/jcms/p_3058431/fr/infection-a-vih)
 
