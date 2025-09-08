@@ -16,10 +16,9 @@ tags = []
 english = ["Strongyloidiasis", "Strongyloides stercoralis"]
 sctid = "17425008"
 icd10 = ["B78", "B78.9"]
-draft = true
 image = true
 imageSrc = "Larve de Strongyloides stercoralis (à l'origine de l'anguillulose ou strongyloïdose). US Federal Government public domain image / CDC"
-todo = "flow > Kanban | cortico"
+todo = "flow"
 +++
 
 {{%article-summary%}}
