@@ -78,7 +78,7 @@ WGO
 
 Le dépistage de la strongyloïdose (ou anguillulose) est recommandé en cas de (*HAS 2017*):
 
-{{< clinique/anguillulose/depistage >}}
+{{< clinique/anguillulose-depistage >}}
 
 En cas de dépistage positif, le traitement est **identique au traitement curatif** avec ivermectine dose unique. Si les tests diagnostiques ne sont pas réalisables, faire un traitement d'épreuve.
 
@@ -88,7 +88,7 @@ En cas de dépistage positif, le traitement est **identique au traitement curati
 Autres parasitoses, infections et pathologies digestives:
 
 - Infections intestinales  
-  Amibiases, colite bactérienne, Shigella, Campylobacter, Yersinia, [Clostridium difficile]({{% relref ".md" %}}) ...
+  Amibiases, colite bactérienne, Shigella, Campylobacter, Yersinia, [Clostridium difficile]({{% relref "infections-claustridium-difficile.md" %}}) ...
 - Infections à ankylostomes non humains avec production de **larva migrans** cutanées  
   Larva currens est différent avec: absence de desquamation, migration rapide, atteinte périnéale et larges bandes urticariennes.
 - MICI
@@ -120,7 +120,7 @@ Une [éosinophilie]({{% relref "hypereosinophilie.md" %}}) est donc souvent un p
   - Larva currens
   - Amaigrissement, malabsorption
   - Signes digestifs: épigastralgies, gêne abdominale, alternance diarrhées - constipation, nausées, vomissements
-  - [Urticaire chronique]({{% relref "urticaire-chronique.md" %}})
+  - [Urticaire chronique]({{% relref "urticaire.md" %}})
 
 #### Signes d'anguillulose disséminée
 
