@@ -8,7 +8,7 @@ synonyms = ["Corticostéroïdes", "glucocorticoïdes", "anti-inflammatoires sté
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-06-21T11:17:09+02:00"
 publishdate = "2024-06-28"
-lastmod = "2024-06-28"
+lastmod = "2025-09-08"
 specialites = ["thérapeutique"]
 annees = "2024"
 sources = ["ESE", "ES"]
@@ -17,9 +17,9 @@ english = ["Glucocorticoid (GC)"]
 sctid = "419933005"
 icd10 = ["E27.3"]
 atc = "H02AB"
-image = false
-imageSrc = ""
-todo = "rankok, photo | PNDS Horton 2020, **biphospho <https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-losteoporose>**, inhibiteurs CYP3A4 https://pharmacomedicale.org/pharmacologie/les-sources-de-variabilite-de-la-reponse-au-medicament/45-variabilites-pharmacocinetiques/101-inhibitions-enzymatiques"
+image = true
+imageSrc = "Structure chimique de la prednisone. Bryan Derksen, Public domain, via Wikimedia Commons"
+todo = "rankok | PNDS Horton 2020, **biphospho <https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-losteoporose>**, inhibiteurs CYP3A4 https://pharmacomedicale.org/pharmacologie/les-sources-de-variabilite-de-la-reponse-au-medicament/45-variabilites-pharmacocinetiques/101-inhibitions-enzymatiques"
 flowchart = true
 +++
 
@@ -27,7 +27,7 @@ flowchart = true
 Recommandations pour une corticothérapie chez l'adulte (≥ 18 ans):
 
 - Un traitement prolongé correspond à une corticothérapie supérieure à 3 ou 4 semaines
-- Bilan initial avant corticoïde: NFS, ionogramme, glycémie, ostéodensitométrie souvent indiquée
+- Bilan initial avant corticoïde: NFS, ionogramme, glycémie, ostéodensitométrie souvent indiquée, recherche d'anguillulose selon les origines
 - Le traitement prolongé par corticoïde nécessite une éducation sur: les mesures associées (activité physique, adaptations nutritionnelles, supplémentation vitamino-calcique), l'immunodépression (consulter en cas de fièvre, toux), précautions (consulter en cas de douleurs abdominales)
 - La prednisone est le glucocorticoïde de référence avec une prise unique matinale (voir [Équivalence des corticoïdes](#équivalence-des-corticoïdes))
 - La décroissance progressive des corticoïdes est nécessaire pour un traitement prolongé: paliers de 1 à 4 semaines selon l'étape (voir [Décroissance des corticoïdes](#décroissance-des-corticoïdes))
@@ -67,7 +67,7 @@ ESE
 
 ---
 
-Considérer un syndrome de Cushing iatrogène comme insuffisant surrénalien.
+Considérer une personne avec syndrome de Cushing iatrogène comme insuffisante surrénalienne.
 {{%/warning%}}
 
 ### Interrogatoire
@@ -111,7 +111,7 @@ Les corticoïdes par voie générale ne doivent pas être utilisés en cas de: a
 - Ionogramme (répété sous 2 semaines)
 - Glycémie à jeun (répétée sous quelques jours)
 - Mise à jour du dépistage du frottis cervico-vaginal
-- Dépistage de l'anguillulose: (*HAS 2017*)
+- Si originaire des tropiques: dépistage de l'[anguillulose]({{% relref "strongyloidose-anguillulose.md" %}} avec sérologie et examens parasitologiques des selles ({{< modal-btn modal-depistage-anguillulose >}}indications au dépistage{{< /modal-btn >}} -- *HAS 2017*)
 - ± Bilan lipidique, électrophorèse des protéines (gammaglobulines)
 
 > -- *CEMI*
@@ -245,14 +245,7 @@ graph TB
 - [Beuschlein F, et al. European Society of Endocrinology and Endocrine Society Joint Clinical Guideline: Diagnosis and therapy of glucocorticoid-induced adrenal insufficiency. Eur J Endocrinol. 2024.](https://academic.oup.com/ejendo/article/190/5/G25/7663654)
 - {{< references/college-endocrino >}}
 - Collège National des Enseignants de Médecine Interne (CEMI). Prescription et surveillance des classes de médicaments les plus courantes chez l'adulte et chez l'enfant : anti-inflammatoires non stéroïdiens et corticoïdes. Référentiel Collège de Médecine interne R2C. 2021.
-
-### Bibliographie en attente
-
-- [WHO. WHO guideline on preventive chemotherapy for public health control of strongyloidiasis. 2024.](https://www.who.int/publications/i/item/9789240094024)
-- [WHO. A parasitic infection that can turn fatal with administration of corticosteroids. 2020.](https://www.who.int/news/item/17-12-2020-a-parasitic-infection-that-can-turn-fatal-with-administration-of-corticosteroids)
-- [World Gastroenterology Organisation. Prise en charge de la strongyloïdose. 2018.](https://www.worldgastroenterology.org/guidelines/management-of-strongyloidiasis/management-of-strongyloidiasis-french)
 - [HAS. Actualisation des actes de biologie médicale relatifs au diagnostic de la strongyloïdose (anguillulose). 2017.](https://www.has-sante.fr/jcms/c_2729708/fr/actualisation-des-actes-de-biologie-medicale-relatifs-au-diagnostic-de-la-strongyloidose-anguillulose)
-- [CDC. Clinical Care of Strongyloides. 2024.](https://www.cdc.gov/strongyloides/hcp/clinical-care/index.html)
 
 ### Bibliographie pour en savoir plus
 
@@ -262,5 +255,10 @@ graph TB
 {{% modal title="Évaluation des apports en calcium" id="modal-apports-calcium"%}}
 
 {{< scores/questionnaire-grio >}}
+
+{{% /modal %}}
+{{% modal title="Indications au dépistage de l'anguillulose" id="modal-depistage-anguillulose"%}}
+
+{{< clinique/anguillulose-depistage >}}
 
 {{% /modal %}}
