@@ -2,7 +2,6 @@
 id = "0190e8cb-91a8-7b3f-9fe0-17f3ea26e37b"
 title = "Scores et outils cliniques"
 noindex = true
-url = "/scores"
 titleSeo = "Scores pour la clinique"
 description = "Scores médicaux utiles au quotidien pour la pratique du médecin généraliste"
 prefix = ""
@@ -22,6 +21,7 @@ icd10 = []
 image = true
 imageSrc = "Scores cliniques par slidesgo / Freepik"
 todo = "texte"
+draft = true
 +++
 
 Sélection de grilles et scores essentiels en pratique quotidienne de médecine générale, classés par appareil.
@@ -344,4 +344,3 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{< scores/ckd-epi >}}
 
 {{% /modal %}}
-

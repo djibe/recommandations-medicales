@@ -1,3 +1,4 @@
+<p class="mt-4"><span class="font-weight-bold">NB.</span> Un homme a d’emblée un risque non faible de récidive <span class="text-muted">(7-8% de risque annuel)</span>.</p>
 <div class="pt-3">
   <div class="form-group" id="score-herdoo2">
     <div class="custom-control custom-checkbox">
@@ -17,7 +18,6 @@
       <input type="checkbox" id="herdoo2-4" class="custom-control-input" value="1">
       <label class="custom-control-label" for="herdoo2-4">Âge ≥ 65 ans</label>
     </div>
-    <p class="mt-4"><span class="font-weight-bold">NB.</span> Un homme a d’emblée un risque non faible de récidive <span class="text-muted">(7-8% de risque annuel)</span>.</p>
   </div>
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
@@ -26,6 +26,12 @@
     </div>
     <p id="herdoo2Text" class="lead m-auto">Risque de récidive <strong>faible</strong></p>
   </div>
+  <blockquote class="blockquote">
+    <p lang="en">
+      <a href="https://pmc.ncbi.nlm.nih.gov/articles/pmid/18725614/" rel="external nofollow noopener">Rodger MA, Kahn SR, Wells PS, et al. Identifying unprovoked thromboembolism patients at low risk for recurrence who can discontinue anticoagulant therapy. CMAJ. 2008;179(5):417-426. doi:10.1503/cmaj.080493</a>
+      et <a href="https://pmc.ncbi.nlm.nih.gov/articles/pmid/28314711/" rel="external nofollow noopener">Rodger MA, Le Gal G, Anderson DR, et al. Validating the HERDOO2 rule to guide treatment duration for women with unprovoked venous thrombosis: multinational prospective cohort management study. BMJ. 2017;356:j1065. Published 2017 Mar 17. doi:10.1136/bmj.j1065</a>
+    </p>
+  </blockquote>
 </div>
 {{ $script := `
   // Score HERDOO2 by djibe
