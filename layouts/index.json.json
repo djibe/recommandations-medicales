@@ -1,5 +1,5 @@
 {{ if hugo.IsProduction }}[ {{- $i := 0 -}}
-  {{- range where .Site.RegularPages "Section" "not in" (slice "scores" "journal" "") -}}
+  {{- range where .Site.RegularPages "Section" "not in" (slice "journal" "") -}}
      {{- if not .Params.noSearch -}}
         {{- if gt $i 0 }},{{ end -}}
         {"date":"{{ .Date.Format "2006-01-02" }}", "uri":"{{ .RelPermalink }}", "title":{{ .Title | jsonify  }}, "synonyms": "{{ with .Params.Synonyms }}{{ delimit . ", " }}{{ end }}", {{- if not .Params.noSearchContent -}}"content":{{ .Plain | htmlUnescape | jsonify }},{{ end -}} "tags": "{{ delimit .Params.tags ", " }}", "section": {{ .Section | jsonify -}}, "annees": "{{ .Params.annees }}", "sources": "{{ delimit .Params.sources ", " }}" }
