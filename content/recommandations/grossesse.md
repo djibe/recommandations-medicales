@@ -356,7 +356,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{% rel
 
 - [DGS-Urgent 2025_15. Modalités de mise en œuvre de la campagne d'immunisation des nourrissons et nouveau-nés contre les infections à virus respiratoire syncitial (VRS). 28/01/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
-- [Service-Public. Infections sexuellement transmissibles : gratuité du dépistage 
+- [Service-Public. Infections sexuellement transmissibles : gratuité du dépistage en laboratoire. 2024.](https://www.service-public.fr/particuliers/actualites/A17530)
 - [US Preventive Services Task Force. Screening for Syphilis Infection During Pregnancy: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2025.](https://jamanetwork.com/journals/jama/fullarticle/2833883)
 - [HAS. Grossesse : les vaccins recommandés. 2025.](https://www.has-sante.fr/jcms/p_3590575/fr/grossesse-les-vaccins-recommandes)
 - {{< references/calendrier-vaccinal >}}
@@ -385,6 +385,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{% rel
 
 ### Bibliographie en attente
 
+- [HAS. Évaluation de la pertinence d'un dépistage systématique de l'infection à cytomégalovirus (CMV) au cours de la grossesse. 2025.](https://www.has-sante.fr/jcms/p_3587389/fr/evaluation-de-la-pertinence-d-un-depistage-systematique-de-l-infection-a-cytomegalovirus-cmv-au-cours-de-la-grossesse)
 - [Cour des Comptes. La politique de périnatalité. 2024.](https://www.ccomptes.fr/fr/publications/la-politique-de-perinatalite)
 - [HAS. Accompagnement médico-psycho-social des femmes, des parents et de leur enfant, en situation de vulnérabilité, pendant la grossesse et en postnatal. 2024.](https://www.has-sante.fr/jcms/p_3271226/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal)
 - [HAS. Situations pathologiques pouvant relever de l'hospitalisation à domicile au cours de l'ante et du post-partum. 2011.](https://www.has-sante.fr/jcms/c_1066375/fr/situations-pathologiques-pouvant-relever-de-l-hospitalisation-a-domicile-au-cours-de-l-ante-et-du-post-partum)
