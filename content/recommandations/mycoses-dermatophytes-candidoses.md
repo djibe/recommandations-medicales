@@ -1,6 +1,6 @@
 +++
 id = "0190e8c9-0e4b-7f98-860f-78b252756ed9"
-title = "Mycoses: candidoses et dermatophytoses (intertrigo, teigne, vaginite)"
+title = "Mycoses: candidoses et dermatophytoses (intertrigo, vaginite hors teigne du cuir chevelu)"
 titleSeo = "Mycoses: Dermatophytes candidoses"
 prefix = "les "
 description = "Recommandations pour la prise en charge des mycoses: intertrigo, teigne, candidose vaginale, buccale, herpès circiné, balanite. Antifongiques azolés topiques"
@@ -16,10 +16,9 @@ sources = ["Anofel", "SFD", "BASSH"]
 tags = ["adolescent", "biotherapie", "cancer", "diabete", "grossesse", "enfant", "obesite", "prurit"]
 english = ["Mycosis", "dermatophytosis", "candidiasis", "vulvovaginal candidiasis", "thrush"]
 sctid = "276206000"
-icd10 = ["B36", "B36.9", "B35", "B35.9", "B37.2", "B37.3", "L30.4", "N76.0", "N76.2", "N77.1"]
+icd10 = ["B36", "B36.9", "B35.1", "B35.2", "B35.3", "B35.4", "B35.5", "B35.6", "B35.8", "B35.9", "B37.2", "B37.3", "L30.4", "N76.0", "N76.2", "N77.1"]
 image = true
 imageSrc = "Candidose linguale pseudo-membraneuse (muguet) de l'enfant déclenchée par des antibiotiques. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
-flowchart = true
 todo = "périonyxis fluconazole, ttt sycosis, Pytiriasis capitis"
 +++
 
@@ -31,7 +30,7 @@ todo = "périonyxis fluconazole, ttt sycosis, Pytiriasis capitis"
   - À distance de toute thérapeutique (cutanée 15 jours, ongle topique 2 mois) pour examen direct et culture
 - Traitement local sauf pour les teignes, candidoses buccales et vaginales, onyxis à dermatophytes avec atteinte matricielle et onyxis candidosiques
 - Prise en charge des mycoses courantes en première intention:
-  - Certaines atteintes être reconnues en maladie professionnelle (abattoir, laiterie, maître nageur, athlète ...)
+  - Certaines atteintes peuvent être reconnues en maladie professionnelle (abattoir, laiterie, maître nageur, athlète ...)
   - Candidose buccale: miconazole 2% gel 2,5 mL x 4/j 7-14 jours, mesures associées
   - Candidose vaginale aiguë: fluconazole 150 mg dose unique (ou éconazole LP ovule 1-3 jours) ± éconazole vulvaire 14-28 jours
   - Intertrigo: éconazole 1% ou ciclopirox 1% crème x 2/j 14-28 jours, mesures associées
@@ -39,7 +38,7 @@ todo = "périonyxis fluconazole, ttt sycosis, Pytiriasis capitis"
   - Muguet du nourrisson (à partir de 4 mois): miconazole 2% gel 1,25 mL x 4/j après les repas 7-14 jours
   - Onycomycose: prélèvement, pédicurie, traitement adapté amorolfine 5% x 1-2/semaine ou ciclopirox 8% 1/j pendant 3-6 mois, éconazole interdigital
   - Pityriasis versicolor: kétoconazole 2% gel unidose, récidives ++
-  - Teigne: prélèvement, terbinafine 250 mg x 1/j + éconazole/ciclopirox 1% crème x 2/j pendant 28 jours puis contrôle clinique avec résultat de la culture à J28, mesures associées
+  - Mycose du cuir chevelu: voir [Teigne]({{% relref "teigne.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -161,62 +160,6 @@ Les localisations classiques des intertrigos sont inter-orteils (<< pied d'athl�
 {{%/info%}}
 
 **Diagnostic différentiel** d'un intertrigo: [dermatite atopique]({{% relref "dermatite-atopique.md" %}}), [psoriasis inversé]({{% relref "psoriasis.md" %}}), [dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}}), pityriasis rosé de Gibert, érythrasma (bactérie *Corynebacterium minutissimum* sensible aux antifongiques azolés).
-
-{{% /collapse %}}
-{{%collapse "Teignes ou dermatophytoses du cuir chevelu" %}}
-
-> [!INFO]
-> << Tout état squameux, croûteux ou pustuleux du cuir chevelu est une teigne jusqu'à preuve du contraire >>. -- *Pilly 2020*
-
-- Les teignes (dites aussi tinea capitis) sont le plus souvent **tondantes** ou inflammatoires (rarement faviques)
-- Notion de contact avec des animaux ou une personne atteinte
-- Rechercher un contexte d'immunodépression
-- Aggravation par les dermocorticoïdes
-- [Reconnaissance possible d'une teigne en Maladie professionnelle dans le cadre du Tableau 46](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2046): filière viande, piscine, athlète, bâtiment.
-- **Diagnostic différentiel** des teignes: [psoriasis]({{% relref "psoriasis.md" %}}), [eczéma]({{% relref "dermatite-atopique.md" %}}), [dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}}), [pelade]({{% relref "alopecie.md" %}}), folliculite bactérienne ou abcès
-
-### Teignes tondantes
-
-Les teignes tondantes sont les principales teignes, en deux types:
-
-1. Teignes tondantes microsporiques (*Microsporum canis* ou *M. audouinii*)  
-  [Alopécie]({{% relref "alopecie.md" %}}) en **grandes plaques** bien limitées squameuses, peu ou pas inflammatoires. Cheveux cassés courts. Plutôt chez l'**enfant**.
-2. Teignes tondantes trichophytiques (*Trichophyton violaceum*, *T. soudanense* ou *T. tonsurans*)  
-  Alopécie en **petites plaques** squameuses confluant parfois en grandes plaques mal délimitées. Cheveux cassés ras. Prédominance féminine et **contagieuses**.
-
-### Teignes suppurées
-
-Alopécie en **larges placards suppurants** (plusieurs cm²) surélevés circulaires **très inflammatoires** (dit **kérion**) par contamination animale (*Trichophyton mentagrophytes* ou *T. verrucosum*) ou tellurique (*Nannizia gypsea*), principalement chez l'**enfant ou la femme**.
-
-### Teignes faviques ou favus
-
-Les teignes faviques sont exceptionnelles en Europe par *Trichophyton schoenleinii*, contagieuse.  
-**Alopécie définitive** par des croûtes jaune soufre et une odeur de souris.
-
-### Prise en charge de la teigne
-
-La prise en charge d'un enfant de moins de 10 kg est hospitalière du fait de l'indisponibilité de la griséofulvine.
-{.alert .alert-warning}
-
-- Prélèvement au laboratoire
-- Raser les cheveux autour
-- Surinfection: povidone iodée moussante (Bétadine Scrub® 4%) en shampooing au début
-- Traitement probabiliste  
-  - ==Terbinafine 250 mg x 1/j pendant 28 jours (voir la section *Traitements* pour les doses)==
-  - Pour les enfants et -40 kg, voir les posologies dans la section plus bas [Traitements des mycoses](#traitements-des-mycoses)
-  - Prolonger 2 semaines si amélioration partielle à 4 semaines avec une culture à *Microsporum*
-  - [Fiche SFD info patient terbinafine et itraconazole (SFD)](https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Bordereau-3_Prise-des-medicaments.pdf)
-- ==\+ éconazole ou ciclopirox olamine 1% crème x 2/j en même temps (28 jours)==
-- Examiner l'entourage  
-  Jusqu'à 50% de porteurs et traitement oral si atteints.
-- Contrôle clinique à 4 semaines avec résultats mycologiques  
-  Avis spécialisé en l'absence d'amélioration.
-- Éviction scolaire en l'absence de traitement débuté (sauf teigne zoophile ou tellurique)
-  - Si teigne zoophile: examen vétérinaire des animaux de compagnie  
-    Teignes zoophiles: *M. canis* (chien, chat), *T. mentagrophytes* (chien, chat, lapin, souris ...), *T. verrucosum* (bovins), *T. erinacei* (hérisson), *T. gallinae* (volailles), *T. equinum* (cheval), *T. benhamiae* (cochons d'Inde), *N. persicolor* (rongeurs sauvages), *N. praecox* (cheval)
-  - Teignes telluriques: *Nannizzia gypsea*, *N. persicolor*
-
-Avis spécialisé si: *Microsporum* à l'examen direct ou après 6 semaines de terbinafine, échec à 4 semaines.
 
 {{% /collapse %}}
 {{%collapse "Candidoses buccales" %}}
@@ -553,30 +496,13 @@ Effet topique digestif non absorbé et donc interactions limitées ([vérifier l
 {{< /table >}}
 
 {{% /collapse %}}
-{{%collapse "Prise en charge d'une teigne" "show" %}}
-
-{{< mermaid title="Conduite à tenir et prise en charge d'une teigne. Dr JB Fron d'après SFD, GPIP, SFDP, SPILF, SFMM 2021. TBF = terbinafine" >}}
-graph TB
-  suspicion[Suspicion de teigne] -- "-10 kg" --> specialiste(Avis spécialisé)
-  style suspicion stroke:#4150f5, stroke-width:1px
-    suspicion == "≥ 10 kg" ==> bilan("Prélèvement mycologique au laboratoire<br>et traitement 4 semaines:<br>Terbinafine orale<br>+ éconazole x 2/j<br>+ mesures associées")
-      bilan --> reevaluation(Microsporum à<br>l'examen direct ?)
-        reevaluation -- Non --> controle(Contrôle clinique à 4 semaines<br>avec résultat de culture)
-          controle --> guerison(Amélioration<br>ou guérison ?) -- Oui --> adaptation("- Trichophyton: arrêt TBF<br>- Microsporum: poursuite TBF<br>2 semaines<br>ou avis spécialisé")
-            guerison -- Non --> specialiste
-        reevaluation -- Oui --> specialiste
-{{< /mermaid >}}
-
-{{% /collapse %}}
 {{%sources%}}
 
 - [Collège des enseignants de dermatologie de France (CEDEF). Infections cutanéo-muqueuses bactériennes et mycosiques. Item 155. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-155-%E2%80%94-Infections-cutaneo-muqueuses-bacteriennes-et-mycosiques_CompressPdf.pdf)
 - Prescrire Redaction. Patients atteints de mycose superficielle. Rev Prescrire. 2023.
 - Prescrire Redaction. Patientes ayant une infection vulvovaginale ou du col utérin. Rev Prescrire. 2023.
 - Anofel. Parasitoses et mycoses des régions tempérées et tropicales. 2022.
-- Prescrire Redaction. Teignes du cuir chevelu. Rev Prescrire. 2022.
 - [CMIT, SFMTSI, SPILF, SMV. Infections de la peau, des tissus mous et des muscles. ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
-- [ANSM. Traitement de la teigne de l'enfant et indisponibilité de la griséofulvine : l'ANSM précise la conduite à tenir. 19/07/2021.](https://ansm.sante.fr/actualites/traitement-de-la-teigne-de-lenfant-et-indisponibilite-de-la-griseofulvine-lansm-precise-la-conduite-a-tenir)
 - [Société Française de Dermatologie, GPIP, SFDP, SPILF, SFMM. Algorithme. Centre de preuves en dermatologie. 2021.](https://centredepreuves.sfdermato.org/#hot-topics)
 - Prescrire Redaction. Intertrigo des grands plis. Rev Prescrire. 2021.
 - Prescrire Redaction. Candidose vulvovaginale. Rev Prescrire. 2021.

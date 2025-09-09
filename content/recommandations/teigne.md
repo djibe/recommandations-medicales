@@ -2,7 +2,7 @@
 id = "0199298c-e40e-7c29-a1d4-3d1b6df6d4d2"
 title = "Teigne du cuir chevelu"
 prefix = "la "
-description = "TODO:"
+description = "Recommandations pour le diagnostic et le dépistage de la teigne du cuir chevelu (tinea capitis). Prélèvement mycologique, traitement par terbinafine et éconazole"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-09-08T15:35:50+02:00"
@@ -15,17 +15,19 @@ tags = ["enfant"]
 english = ["Tinea capitis"]
 sctid = "5441008"
 icd10 = ["B35.0"]
-draft = true
 image = true
 imageSrc = "Teigne tondante du jeune garçon. Gzzz, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "descr > summary > liens > newsletter > flow > Kanban"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- prélèvement, terbinafine 250 mg x 1/j + éconazole/ciclopirox 1% crème x 2/j pendant 28 jours puis contrôle clinique avec résultat de la culture à J28, mesures associées
-TODO: (at the end)
+- La teigne du cuir chevelu est une mycose du scalp causée par des dermatophytes, le plus souvent tondantes ou inflammatoires et sont fréquentes chez l'enfant
+- L'examen clinique du crâne recherche des signes de teigne: aspect squameux, croûteux ou pustuleux avec l'apparition d'une alopécie centrifuge et recherche un diagnostic différentiel (psoriasis, eczéma, dermatite séborrhéique ...)
+- Le bilan comporte toujours un prélèvement mycologique au laboratoire pour identifier le dermatophyte
+- La prise en charge de la teigne du cuir chevelu comprend un traitement probabiliste: terbinafine 250 mg/j et éconazole ou ciclopirox 1% crème x 2/j pendant 28 jours, examen de l'entourage
+- Une consultation de suivi est réalisée à la fin du traitement avec les résultats de la culture
+- En cas de poids inadapté au traitement, demander une téléexpertise spécialisée (dermatologie, infectiologie) avec les photos et les résultats
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -135,14 +137,14 @@ Recommandations pour la prise en charge et le traitement de la teigne:
 
 {{< mermaid title="Conduite à tenir et prise en charge d'une teigne. Dr JB Fron d'après SFD, GPIP, SFDP, SPILF, SFMM 2021. TBF = terbinafine" >}}
 graph TB
-  suspicion[Suspicion de teigne] --> prélèvement(Prélèvement mycologique) -- "-10 kg" --> specialiste(Avis spécialisé)
+  suspicion[Suspicion de teigne] --> prélèvement(Prélèvement mycologique) -- "-10 kg" --> spécialiste(Avis spécialisé)
   style suspicion stroke:#4150f5, stroke-width:1px
     prélèvement == "≥ 10 kg" ==> bilan("Traitement probabiliste 4 semaines:<br>- Terbinafine orale<br>+ Éconazole x 2/j<br>+ Mesures associées")
       bilan --> reevaluation(Culture disponible:<br>Microsporum à<br>l'examen direct ?)
-        reevaluation -- Non --> controle(Contrôle clinique à 4 semaines<br>avec résultat de culture)
-          controle --> guerison(Amélioration<br>ou guérison ?) -- Oui --> adaptation("- Trichophyton: arrêt TBF<br>- Microsporum: poursuite TBF<br>2 semaines<br>ou avis spécialisé")
-            guerison -- Non --> specialiste
-        reevaluation -- Oui --> specialiste
+        reevaluation -- Non --> contrôle(Contrôle clinique à 4 semaines<br>avec résultat de culture)
+          contrôle --> guérison(Amélioration<br>ou guérison ?) -- Oui --> adaptation("- Trichophyton: arrêt TBF<br>- Microsporum: poursuite TBF<br>2 semaines<br>ou avis spécialisé")
+            guérison -- Non --> spécialiste
+        reevaluation -- Oui --> spécialiste
 {{< /mermaid >}}
 
 {{% /collapse %}}

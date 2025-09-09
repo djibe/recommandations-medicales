@@ -83,7 +83,7 @@ Principales étiologies d'une alopécie:
   - Alopécie en plaques ovalaires sur cuir chevelu sain et sujet en bon état général
   - Évolution imprévisible et récidives fréquentes
 - Alopécies avec atteintes du cuir chevelu
-  - [Teigne]({{% relref "mycoses-dermatophytes-candidoses.md" %}}): enfant surtout, contact à risque, plaques tondantes
+  - [Teigne]({{% relref "teigne.md" %}}): enfant surtout, contact à risque, plaques tondantes
   - Autres lésions du cuir chevelu (érythémato-squameuses, inflammatoires, papulo-pustuleuses): avis dermatologique ± biopsie cutanée.  
     Lupus, lichen plan pilaire, sarcoïdose, sclérodermie en plaques, métastases.
 
