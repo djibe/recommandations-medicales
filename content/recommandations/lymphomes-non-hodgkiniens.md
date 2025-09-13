@@ -201,6 +201,6 @@ Tout élément inhabituel doit faire suspecter une rechute du lymphome:
 {{% /modal %}}
 {{% modal title="État général OMS" id="modal-OMS"%}}
 
-{{< scores/performance-status >}}
+{{< scores/oms-ecogps >}}
 
 {{% /modal %}}

@@ -282,6 +282,6 @@ graph TB
 {{% /modal %}}
 {{% modal title="État général OMS" id="modal-OMS"%}}
 
-{{< scores/performance-status >}}
+{{< scores/oms-ecogps >}}
 
 {{% /modal %}}

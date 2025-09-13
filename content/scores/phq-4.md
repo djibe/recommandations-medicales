@@ -1,6 +1,6 @@
 +++
 title = "Questionnaire PHQ-4 (Patient Health Questionnaire-4)"
-description = "Auto-questionnaire PHQ-4 (Patient Health Questionnaire 4) pour l'évaluation d'un adulte présentant des symptômes dépressifs et anxieux."
+description = "L’auto-questionnaire PHQ-4 (Patient Health Questionnaire 4) est validé pour l'évaluation d'un adulte présentant des symptômes dépressifs et anxieux."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

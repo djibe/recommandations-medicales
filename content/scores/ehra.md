@@ -1,5 +1,5 @@
 +++
-title = "Échelle EHRA"
+title = "Échelle EHRA (European Heart Rythm Association)"
 description = "L'échelle EHRA (European Heart Rythm Association) permet de grader le retentissement de la fibrillation atriale (FA) sur le patient."
 longHtml = true
 noSearchContent = true

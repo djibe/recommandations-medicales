@@ -9,8 +9,8 @@ publishdate = "2025-09-09"
 lastmod = "2025-09-09"
 specialites = []
 tags = []
-sctid = ""
-todo = ""
+sctid = "273600007"
+todo = "G indexing requested"
 +++
 
 {{< scores/mmrc >}}

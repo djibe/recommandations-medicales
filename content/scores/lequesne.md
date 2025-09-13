@@ -10,7 +10,7 @@ lastmod = "2025-09-09"
 specialites = []
 tags = []
 sctid = "273565006"
-todo = "source; et genou ?"
+todo = "G indexing requested | source; et genou ?"
 +++
 
 {{< scores/lequesne >}}

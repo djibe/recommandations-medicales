@@ -10,6 +10,7 @@ lastmod = "2025-09-09"
 specialites = []
 tags = []
 sctid = "273481004"
+todo = "G indexing requested"
 +++
 
 {{< scores/gds15 >}}
