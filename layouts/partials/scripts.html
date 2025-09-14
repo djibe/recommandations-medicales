@@ -189,6 +189,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
   }
 </script>
 {{- end -}}
+<!--<script src="https://app.mailjet.com/pas-nc-embedded-v1.js"></script>-->
 <script crossorigin>
   document.addEventListener( 'DOMContentLoaded', event => {
 
@@ -269,36 +270,10 @@ document.addEventListener( 'DOMContentLoaded', event => {
     // Register Orama search
     {{ $searchModule := resources.Get "/js/orama.mjs" | minify | fingerprint "sha384" }}
     document.getElementById('btn-search-modal').addEventListener('click', () => import('{{ $searchModule.Permalink }}'))
-    // Newsletter: Mailchimp
-    const btnNewsletter = document.getElementById('btn-newsletter');
-    btnNewsletter.addEventListener( 'click', () => {
-      const script = document.createElement('script');
-      script.src = 'https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js';
-      document.head.appendChild(script);
-      (function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);
-    });
 
-  document.getElementById('btn-print')?.addEventListener('click', () => {
-    const iframe = document.createElement('iframe');
-    const divElements = document.getElementById('divPrint').innerHTML;
-    iframe.width = document.width;
-    iframe.height = document.height;
-    iframe.style.display = "none";
-    document.body.appendChild(iframe);
-    const doc = iframe.contentWindow.document;
-    const styles = [...document.querySelectorAll('link[rel="stylesheet"], style')]
-    .map(node => node.outerHTML)
-    .join('');
-    doc.open();
-    doc.write(`<html><head><title>Print</title>${styles}</head><body>${divElements}</body></html>`);
-    doc.close();
+    // Newsletter: Mailjet
 
-    // Print the iframe content
-    iframe.contentWindow.focus();
-    iframe.contentWindow.print();
 
-    iframe.onload = () => { document.body.removeChild(iframe) };
-  });
 
 
   {{ with .Site.RegularPages }}
