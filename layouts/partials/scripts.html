@@ -189,7 +189,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
   }
 </script>
 {{- end -}}
-<!--<script src="https://app.mailjet.com/pas-nc-embedded-v1.js"></script>-->
+<!--<script src="https://app.mailjet.com/pas-nc-embedded-v1.js" async crossorigin></script>-->
 <script crossorigin>
   document.addEventListener( 'DOMContentLoaded', event => {
 
@@ -272,9 +272,47 @@ document.addEventListener( 'DOMContentLoaded', event => {
     document.getElementById('btn-search-modal').addEventListener('click', () => import('{{ $searchModule.Permalink }}'))
 
     // Newsletter: Mailjet
+    const btnNewsletter = document.getElementById('btn-newsletter');
+    btnNewsletter.addEventListener( 'click', () => {
+      const script = document.createElement('script');
+      script.src = 'https://app.mailjet.com/pas-nc-embedded-v1.js';
+      document.head.appendChild(script);
+      // Construct iframe
+      const container = document.getElementById('modal-newsletter-content');
+      const iframe = document.createElement('iframe');
+      iframe.src = 'https://1w31x.mjt.lu/wgt/1w31x/02w7/form?c=e4ed4583';
+      iframe.width = '100%';
+      iframe.scrolling = 'no';
+      iframe.frameBorder = '0';
+      iframe.marginHeight = '0';
+      iframe.marginWidth = '0';
+      iframe.setAttribute('data-w-type', 'embedded');
+      iframe.style.height = '600px';
+      container.appendChild(iframe);
+    });
+    $('#modal-newsletter').on('hidden.bs.modal', () => document.getElementById('modal-newsletter-content').innerHTML = '')
 
+    document.getElementById('btn-print')?.addEventListener('click', () => {
+      const iframe = document.createElement('iframe');
+      const divElements = document.getElementById('divPrint').innerHTML;
+      iframe.width = document.width;
+      iframe.height = document.height;
+      iframe.style.display = "none";
+      document.body.appendChild(iframe);
+      const doc = iframe.contentWindow.document;
+      const styles = [...document.querySelectorAll('link[rel="stylesheet"], style')]
+      .map(node => node.outerHTML)
+      .join('');
+      doc.open();
+      doc.write(`<html><head><title>Print</title>${styles}</head><body>${divElements}</body></html>`);
+      doc.close();
 
+      // Print the iframe content
+      iframe.contentWindow.focus();
+      iframe.contentWindow.print();
 
+      iframe.onload = () => { document.body.removeChild(iframe) };
+    });
 
   {{ with .Site.RegularPages }}
     // Open external sources in new window
