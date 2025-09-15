@@ -249,10 +249,10 @@ mark {
   > [id*="chart"] {
     width: 100% !important;
   }
+}
 
-  > figcaption {
-    @extend .figure-caption
-  }
+figcaption {
+  @extend .figure-caption;
 }
 
 .figure-img-nav {

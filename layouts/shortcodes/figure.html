@@ -1,7 +1,7 @@
-<figure class="figure border alert">
+<figure class="figure border alert {{ with .Get "class" }}{{ . }}{{ end -}}">
   {{- if .Get "image" }}<a href="{{ .Get "image" }}" target="_blank">
     <img class="figure-img img-fluid" src="{{ .Get "image" }}" {{ with .Get "height" }}height="{{ . }}px"{{ end -}}{{ with .Get "width" }}width="{{ . }}px"{{ end -}}
-    {{- with .Get "title" }} alt="{{.}}"{{ else }}alt="Logo de RecoMédicales.fr"{{ end -}}
+    {{- with .Get "title" }} alt="{{ . | markdownify }}"{{ else }}alt="Logo de RecoMédicales.fr"{{ end -}}
     {{- with .Get "loading" }}loading="{{ . }}"{{ else }}loading="lazy"{{ end -}}></a>{{ end }}
   {{- with .Get "title" }}<figcaption><b>Figure.</b> {{ . | markdownify }}.</figcaption>{{ end }}
 </figure>
