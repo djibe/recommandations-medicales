@@ -71,7 +71,6 @@ User-agent: Omgilibot
 User-agent: OpenAI
 User-agent: Operator
 User-agent: PanguBot
-User-agent: Panscient
 User-agent: panscient.com
 User-agent: peer39_crawler
 User-agent: Perplexity-User
