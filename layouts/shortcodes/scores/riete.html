@@ -1,6 +1,8 @@
-<div class="card-body">
+<div class="form-group" id="score-riete">
   <h3 class="card-title text-reset mb-lg-4">Score hémorragique RIETE</h3>
-  <div class="form-group" id="score-riete">
+  <p>Le score hémorragique RIETE (du nom de la cohorte étudiée) est validé pour pour
+    identifier les patients à risque élevé de saignement en cas d’anticoagulation pour
+    embolie pulmonaire (EP) ou thrombose veineuse profonde (TVP).</p>
     <div class="custom-control custom-checkbox">
       <input type="checkbox" id="riete1" class="custom-control-input" value="1">
       <label class="custom-control-label" for="riete1">Âge &gt; 75 ans</label>
@@ -23,7 +25,7 @@
     </div>
     <div class="custom-control custom-checkbox">
       <input type="checkbox" id="riete6" class="custom-control-input" value="1">
-      <label class="custom-control-label" for="riete6">IRC sévère</label>
+      <label class="custom-control-label" for="riete6">Insuffisance rénale sévère</label>
       <p class="typography-caption text-black-secondary">Clairance selon Cockroft &lt; 30 mL/min.</p>
     </div>
     <div class="custom-control custom-checkbox">
@@ -47,7 +49,14 @@
     </div>
     <p id="rieteText" class="lead m-auto">Risque hémorragique <strong>faible</strong></p>
   </div>
-</div>
+<blockquote class="mt-4">
+  <p lang="en">
+    <a
+      href="https://www.thieme-connect.com/products/ejournals/abstract/10.1160/TH08-03-0193"
+      rel="external nofollow noopener"
+      >Ruíz-Giménez N, Suárez C, González R, et al. Predictive variables for major bleeding events in patients presenting with documented acute venous thromboembolism. Findings from the RIETE Registry. Thromb Haemost. 2008;100(1):26-31. doi:10.1160/TH08-03-0193</a>
+  </p>
+</blockquote>
 {{ $script := `
   // Score RIETE by djibe
   window.addEventListener( 'load', event => {
