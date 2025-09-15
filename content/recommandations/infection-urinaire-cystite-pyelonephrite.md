@@ -38,6 +38,7 @@ Recommandations pour le traitement des infections urinaires communautaires de l'
   Vérifier les critères d'hospitalisation, ECBU en urgence puis ciprofloxacine 500 mg x 2/j et réadaptation avec l'antibiogramme.
 - **Pyélonéphrite avec {{< modal-btn modal-fdr-complication >}}facteur de risque de complication{{< /modal-btn >}} sans signe de gravité**  
   Bilan biologique, uroscanner et antibiothérapie probabiliste identique à la PNA simple.
+- **Infection urinaire masculine** (voir section dédiée plus bas)
 - **Infection urinaire pendant la grossesse**
   - BU mensuelle à partir du 4^e^ mois pour toutes (ou ECBU mensuel en cas d'antécédent d'IU pendant la grossesse, uropathie, diabète, antécédent de cystites récidivantes)
   - Colonisation urinaire: antibiothérapie d'emblée adaptée et ECBU de contrôle J8-J10
@@ -311,7 +312,14 @@ Ensuite **ECBU mensuel** jusqu'à l'accouchement.
 {{% /collapse %}}
 {{%collapse "Infections urinaires de l'homme" %}}
 
-
+Infection urinaires masculine (IU masculine)
+: *ex prostatite*, trop réductrice (forme pauci-symptomatique, prostatite, pyélonéphrite aiguë). Symptômes évocateurs: [douleurs pelviennes](/tags/douleur-pelvienne/), périnéales, urétrales ou rectales intenses indépendantes de la miction, dysurie, rétention d'urines, douleurs lombaires, signes généraux.
+: **Bandelette urinaire conseillée et ECBU systématique**. Positive, la BU conforte la suspicion diagnostique (une BU négative ne permet pas d'éliminer le diagnostic).
+: Premier épisode, rechercher une uropathie: pollakiurie, miction impérieuse, diminution de la force du jet, nycturie, dysurie ou anomalie au toucher rectal.
+: Les critères d'hospitalisation sont ceux de la pyélonéphrite.
+: Hémocultures si fièvre. Le PSA peut être perturbé jusqu'à 6 mois après l'infection.
+: Échographie des voies urinaires sous 24h si sepsis grave, suspicion de rétention ou de lithiase.  
+Sinon avec mesure du résidu post-mictionnel, dès le 2^e^ épisode ou en cas de suspicion d'anomalie des voies urinaires (+50 ans).
 
 ### Infection urinaire de l'homme pauci-symptomatique
 
