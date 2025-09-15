@@ -1,6 +1,6 @@
 +++
 id = "0190e8cb-2927-79de-b03b-4fc9a8b68815"
-title = "Prescrire des séances chez un psychologue (Mon soutien psy)"
+title = "Prescrire des séances chez un psychologue remboursé (Mon soutien psy)"
 titleSeo = "Psychologue remboursé avec Mon soutien psy"
 prefix = "pour "
 description = "Informations pour prescrire des séances de psychologue remboursées (Mon soutien psy). Ordonnance modèle pour le remboursement de la psychothérapie"
@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-23T13:48:59+02:00"
 publishdate = "2022-05-23"
 lastmod = "2025-05-23"
-specialites = ["pédiatrie", "psychiatrie", "thérapeutique"]
+specialites = ["pédiatrie", "oncologie", "psychiatrie", "thérapeutique"]
 annees = "2025"
 sources = ["Ameli"]
 tags = ["adolescent", "depression", "enfant"]

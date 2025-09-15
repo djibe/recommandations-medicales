@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T18:55:37+02:00"
 publishdate = "2022-09-22"
 lastmod = "2025-08-05"
-specialites = ["hépato-gastro-entérologie"]
+specialites = ["hépato-gastro-entérologie", "oncologie"]
 annees = "2025"
 sources = ["SNFGE", "INCa", "HAS", "SFED"]
 tags = ["cancer", "depistage", "fatigue", "obesite", "prevention", "tabac"]
@@ -289,7 +289,7 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 
 ### Rythme de dépistage chez les personnes à très haut risque de cancer colorectal
 
-{{< figure image="/images/photos/cancer-colorectal-thr.jpg" title="Indications au dépistage du cancer colorectal pour les personnes à très haut risque selon HAS 2017" loading="lazy">}}
+{{< figure image="/images/photos/cancer-colorectal-thr.jpg" width="1029" height="779" title="Indications au dépistage du cancer colorectal pour les personnes à très haut risque selon *HAS 2017*" >}}
 
 {{% /collapse %}}
 {{%collapse "Traitement du cancer colorectal" %}}
