@@ -59,7 +59,6 @@ User-agent: Kangaroo Bot
 User-agent: LinerBot
 User-agent: magpie-crawler
 User-agent: Meta-ExternalAgent
-User-agent: meta-externalfetcher
 User-agent: Meta-ExternalFetcher
 User-agent: mirrorweb
 User-agent: MyCentralAIScraperBot
