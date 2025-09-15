@@ -106,7 +106,7 @@ Signes et symptômes du zona de l'adulte et de l'enfant:
 
 ### Les dermatomes
 
-{{< figure image="/images/photos/dermatomes.svg" title="Les dermatomes. Goran_tek-en, CC BY-SA 4.0, via Wikimedia Commons" loading="lazy">}}
+{{< figure image="/images/photos/dermatomes.svg" title="Les dermatomes. Goran_tek-en, CC BY-SA 4.0, via Wikimedia Commons" >}}
 
 {{%warning%}}
 

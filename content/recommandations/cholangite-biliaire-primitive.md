@@ -19,7 +19,6 @@ sctid = "31712002"
 icd10 = ["K74.3"]
 image = true
 imageSrc = "Lésions anatomopathologiques de la cholangite biliaire primitive (ou cirrhose biliaire primitive CBP): inflammation du canal biliaire avec lymphocytes, éosinophiles, granulomatose. Nephron, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "relecture faite"
 flowchart = true
 +++
 

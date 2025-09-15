@@ -161,7 +161,11 @@ En l'absence de ces signes, la prise en charge préconisée de la TVP est ambula
 
 Un score hémorragique de RIETE élevé impose une hospitalisation.
 
+<div class="card">
+
 {{< scores/riete >}}
+
+</div>
 
 {{% /collapse %}}
 {{%collapse "Bilan étiologique de la thrombose veineuse" %}}

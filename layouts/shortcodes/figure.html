@@ -1,4 +1,7 @@
 <figure class="figure border alert">
-  {{ if .Get "image" }}<a href="{{ .Get "image" }}" target="_blank"><img class="figure-img img-fluid" src="{{ .Get "image" }}" {{ with .Get "height" }}style="height:{{.}}px"{{end}}{{ with .Get "title" }} alt="{{.}}"{{else}}alt="Logo de RecoMédicales.fr"{{end}} {{ with .Get "loading" }}loading="{{ . }}"{{end}}></a>{{end}}
-  {{ with .Get "title" }}<figcaption><b>Figure.</b> {{ . }}.</figcaption>{{end}}
+  {{- if .Get "image" }}<a href="{{ .Get "image" }}" target="_blank">
+    <img class="figure-img img-fluid" src="{{ .Get "image" }}" {{ with .Get "height" }}height="{{ . }}px"{{ end -}}{{ with .Get "width" }}width="{{ . }}px"{{ end -}}
+    {{- with .Get "title" }} alt="{{.}}"{{ else }}alt="Logo de RecoMédicales.fr"{{ end -}}
+    {{- with .Get "loading" }}loading="{{ . }}"{{ else }}loading="lazy"{{ end -}}></a>{{ end }}
+  {{- with .Get "title" }}<figcaption><b>Figure.</b> {{ . | markdownify }}.</figcaption>{{ end }}
 </figure>

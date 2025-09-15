@@ -1,12 +1,12 @@
 <div class="my-4" id="score-qsofa">
-  <p class="mb-3">Score prédictif de mortalité par sepsis <dfn><abbr title="Quick SOFA">qSOFA</abbr></dfn> (hors Urgences)<br>
-  PAS = Pression artérielle systolique</p>
+  <p class="mb-3">Le score <dfn><abbr title="quick Sequential Organ Failure Assessment">qSOFA</abbr></dfn> (<span lang="en">quick Sequential [Sepsis-related] Organ Failure Assessment</span>)
+    est un score validé prédictif de mortalité par sepsis (hors des services d’urgences).</p>
   <input type="checkbox" id="mental" class="d-input-none" value="1">
   <label for="mental" class="chip chip-action chip-filter">Glasgow &lt; 15</label>
   <input type="checkbox" id="pulmonary" class="d-input-none" value="1">
-  <label for="pulmonary" class="chip chip-action chip-filter">Polypnée ≥ 22</label>
+  <label for="pulmonary" class="chip chip-action chip-filter">Polypnée ≥ 22/min</label>
   <input type="checkbox" id="pressure" class="d-input-none" value="1">
-  <label for="pressure" class="chip chip-action chip-filter">PAS ≤ 100 mmHg</label>
+  <label for="pressure" class="chip chip-action chip-filter">Systolique ≤ 100 mmHg</label>
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score</p>
