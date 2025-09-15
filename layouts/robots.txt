@@ -29,6 +29,7 @@ User-agent: cohere-ai
 User-agent: cohere-training-data-crawler
 User-agent: Cotoyogi
 User-agent: Crawlspace
+User-agent: Dark Visitor
 User-agent: DataForSeoBot
 User-agent: Datenbank Crawler
 User-agent: Devin
