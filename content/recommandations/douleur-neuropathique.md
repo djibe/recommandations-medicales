@@ -248,7 +248,7 @@ Le choix du traitement de première ligne dépend de la **localisation** et de l
 
 ### Douleur neuropathique périphérique focale
 
-- [Emplâtres de lidocaïne 700 mg](https://bdpm.ansm.sante.fr/medicament/65538840/extrait#tab-rcp) (Versatis®) 1 à 3 selon la superficie de la zone, 12 h/j.  
+- [Emplâtres de lidocaïne 700 mg](https://bdpm.ansm.sante.fr/medicament/65538840/extrait#tab-rcp) (Versatis®) 1 à 3 selon la superficie de la zone, 12 h/j, avec la mention << Prescription au titre d'un accès compassionnel en dehors du cadre d'une autorisation de mise sur le marché >> (douleurs post-zostériennes uniquement).  
   Effets indésirables: irritation cutanée, allergie.
 - TENS  
   Prescription restreinte au centre de la douleur chronique.
