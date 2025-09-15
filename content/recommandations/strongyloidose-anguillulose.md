@@ -8,7 +8,7 @@ synonyms = ["Infection à *Strongyloides stercoralis* (*S. stercoralis*)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-09-05T15:49:11+02:00"
 publishdate = "2025-09-08"
-lastmod = "2025-09-08"
+lastmod = "2025-09-15"
 specialites = ["infectiologie"]
 annees = "2024"
 sources = ["CDC", "HCSP", "WGO", "HAS"]
@@ -51,6 +51,8 @@ Larva currens
 
 - +600 millions de personnes infectées dans le monde, principalement dans les régions tropicales et subtropicales mais aussi dans les climats tempérés (Europe de l'Est -- *OMS*)
 - L'OMS a renouvelé un plan de contrôle de la maladie en 2024 pour les pays les plus exposés
+
+{{< figure image="/images/photos/anguillulose-endemie.avif" width="1304" height="546" title="Prévalence de Strongyloides stercoralis, estimée avec le modèle de niche écologique, selon [Fleitas et al](https://pmc.ncbi.nlm.nih.gov/articles/PMC9178904/). Les zones en noir correspondent à une prévalence nulle, celles en jaune à une prévalence comprise entre 0 et 20 % et celles en rouge à une probabilité supérieure ou égale à 20 %. (*HCSP*)" >}}
 
 ### Abréviations
 
