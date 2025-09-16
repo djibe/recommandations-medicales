@@ -261,6 +261,7 @@ graph TB
 
 ### Bibliographie en attente
 
-[International Eosinophil Society](http://www.eosinophil-society.org)
+- [Les clés du diagnostic](https://drive.google.com/file/d/1rkh-EsV23tOhh0KxV1tuj65qG8SEk6gv/view)
+- [International Eosinophil Society](http://www.eosinophil-society.org)
 
 {{%/sources%}}

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-26T12:44:02+01:00"
 publishdate = "2024-01-30"
-lastmod = "2024-02-16"
+lastmod = "2025-09-16"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2023"
 sources = ["GPIP", "CMIT"]
@@ -23,10 +23,11 @@ todo = "flow"
 {{%article-summary%}}
 
 - Toute morsure par un animal est à risque et doit être évaluée par un médecin
-- La prise en charge initiale de la morsure (chien, chat, autre) associe lavage abondant à l'eau et au savon, antisepsie
-- L'examen clinique recherche une immunodépression et l'état de la plaie (délabrement, profondeur) et le risque infectieux (bactérien, tétanos, rage)
-- Antibiothérapie par amoxicilline/acide clavulanique pendant 7 jours si: comorbidités (immunodépression, asplénie, diabète, alcool), érysipèle, plaie profonde ou délabrée, atteinte articulaire, près de tendon ou osseuse, main, face, suture
-- Adresser une plaie par morsure aux Urgences si: geste chirurgical ou suture envisagés, plaie grave (localisation, délabrement, animal suspect), immunothérapie antitétanique nécessaire, anti-venin
+- L'examen clinique recherche une immunodépression et évalue la plaie (délabrement, profondeur) et le risque infectieux (bactérien, tétanos, rage)
+- La prise en charge de la morsure (chien, chat, autre) associe:
+  - Lavage initial abondant à l'eau et au savon et antisepsie
+  - Antibiothérapie par amoxicilline/acide clavulanique pendant 7 jours si: comorbidités (immunodépression, asplénie, diabète, alcool), érysipèle, plaie profonde ou délabrée, atteinte articulaire, proche de tendon ou os, main, atteinte de la face ou suture nécessaire
+- Adresser une plaie par morsure aux Urgences si: geste chirurgical ou suture envisagés, plaie grave (localisation, délabrement, animal suspect), immunothérapie antitétanique ou anti-venin nécessaire
 - Tout animal mordeur doit être signalé en mairie ([annuaire](https://www.service-public.fr/particuliers/vosdroits/F24028)) par le propriétaire ou le médecin et placé sous surveillance vétérinaire pendant 15 jours
 - [Annuaire des Centres antirabiques (PDF)](https://www.pasteur.fr/fr/file/54964/download)
 
@@ -104,24 +105,23 @@ Avis chirurgical et/ou infectiologique urgent en cas de plaie grave (localisatio
 Indications à l'antibiothérapie pour morsure: suture, comorbidités (immunodépression, asplénie, diabète, alcool), [érysipèle]({{% relref "erysipele.md" %}}), plaie profonde ou délabrée, atteinte articulaire, près de tendon ou osseuse, main, face. -- *CMIT 2022*
 {.alert .alert-warning}
 
-Antibiothérapie de l'adulte si indiquée (voir ci-dessus):
+Antibiothérapie de l'adulte **si indiquée** (voir ci-dessus):
 
 - Prélèvements de la porte d'entrée
-- Durée du traitement antibiotique
-  - **5 jours** en cas de morsure de mammifère sans signe clinique d'infection
-  - 5 jours si signes d'infection, prolongée si complication ou évolution défavorable pendant 10 jours (14 si non satisfaisant à J10)
-- ==[Amoxicilline/acide clavulanique](https://bdpm.ansm.sante.fr/medicament/60998361/extrait#tab-rcp) 1g x 3/j==
-- Étendue à 10-15 jours si infection patente ou morsure vue tardivement
-- Si allergie: doxycycline 100 mg x 2/j  
+- ==[Amoxicilline/acide clavulanique](https://bdpm.ansm.sante.fr/medicament/60998361/extrait#tab-rcp) 1g x 3/j pendant 5 jours==:
+  - 7 jours si signes d'infection, pouvant être prolongée à 10 jours si vue tardivement, complication ou évolution défavorable (14 si non satisfaisant à J10)
+  - Si érysipèle: complément d'amoxicilline pour arriver à 50 mg/kg/j (max 6g/j)
+- Si allergie à la pénicilline: doxycycline 100 mg x 2/j  
   ou pristinamycine 1g x 3/j ou clindamycine 600 mg x 3/j ou cotrimoxazole 800/160 mg x 2/j
+- Réévaluation systématique à 48 heures
 
 > -- *SFMU/SPILF 2017*
 
 Antibiothérapie de l'enfant si indiquée (idem ci-dessus + chat ou localisation génitale):
 
-- Traitement de **5 jours** en cas de morsure humaine
-- ==[Amoxicilline/acide clavulanique](https://bdpm.ansm.sante.fr/medicament/64550843/extrait#tab-rcp) 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 3 à 7 jours== selon l'évolution
-- Allergie: doxycycline 4 mg/kg/j (max 200 mg/j) en 2 prises pendant 3 à 7 jours selon l'évolution
+- ==[Amoxicilline/acide clavulanique](https://bdpm.ansm.sante.fr/medicament/64550843/extrait#tab-rcp) 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 3 à 7 jours== selon l'évolution (5 jours en cas de morsure humaine)
+- Si allergie à la pénicilline: doxycycline 4 mg/kg/j (max 200 mg/j) en 2 prises pendant 3 à 7 jours selon l'évolution
+- Réévaluation systématique à 48 heures (*SFMU/SPILF 2017*)
 
 > -- *GPIP 2023*
 
@@ -135,13 +135,13 @@ Avis urgent du **Centre antirabique** ([annuaire](https://www.pasteur.fr/fr/file
 
 ### Traitement de la morsure humaine
 
-Selon le contexte: statut vaccinal voire prophylaxie [hépatite B]({{% relref "hepatite-b.md" %}}).
+Selon le contexte: statut vaccinal voire prophylaxie [hépatite B]({{% relref "hepatite-b.md" %}}), VIH (TPE) et dépistage VHC.
 
 ### Traitement de la morsure de vipère
 
 Adresser aux Urgences pour immunothérapie (Viperfav®) si vipère venimeuse.
 
-Si vipère venimeuse: amoxicilline/ acide clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 7 jours
+Si vipère venimeuse: amoxicilline/ acide clavulanique 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 7 jours.
 
 {{% /collapse %}}
 {{%collapse "Surveillance du chien après morsure" %}}
@@ -165,21 +165,22 @@ En cas d'animal mordeur mort ou abattu, le cadavre doit être adressé au [CNR d
 {{% /collapse %}}
 {{%sources%}}
 
-- [Gillet Y et al; GPIP. Antimicrobial treatment of skin and soft tissue infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001495)
+- [Service-Public. Que faire en cas de morsure par un chien ? 05/07/2024.](https://www.service-public.fr/particuliers/vosdroits/F24028)
+- [HAS, SPILF. Choix et durées d'antibiothérapies : Prise en charge des dermohypodermites bactériennes non nécrosantes (DHBNN) chez l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282443/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-dermohypodermites-bacteriennes-non-necrosantes-dhbnn-chez-l-adulte)
+- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Prise en charge des dermohypodermites bactériennes non nécrosantes (DHBNN) chez l'enfant. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282445/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-dermohypodermites-bacteriennes-non-necrosantes-dhbnn-chez-l-enfant)
+- [Gillet Y, et al; GPIP. Antimicrobial treatment of skin and soft tissue infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001495)
 - [CMIT. Tétanos. Item 160. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-160.pdf)
-- [Service-Public. Que faire en cas de morsure par un chien ? 17/03/2023.](https://www.service-public.fr/particuliers/vosdroits/F24028)
 - [Ameli. Morsure de chien ou de chat. 29/11/2023.](https://www.ameli.fr/assure/sante/urgence/morsures-griffures-piqures/morsure-chien-chat)
 - [CMIT, SFMTSI, SPILF, SMV. Infections par inoculation, morsures (hors rage et envenimations). ePILLY Trop. 2022.](https://www.infectiologie.com/fr/pillytrop.html)
 - [CMIT, SFMTSI, SPILF, SMV. Envenimations. ePILLY Trop. 2022.](https://www.infectiologie.com/fr/pillytrop.html)
 - [Anses. Risque de morsure de chien. 2020. (PDF)](https://www.anses.fr/fr/system/files/SABA2015SA0158Ra.pdf)
 - Prescrire Redaction. Morsure ou griffure de chien : quelles obligations de surveillance de l'animal. Rev Prescrire. 2020.
-- [HAS, SPILF. Prise en charge des infections cutanées bactériennes courantes. 2019.](https://www.has-sante.fr/jcms/c_2911550/fr/prise-en-charge-des-infections-cutanees-bacteriennes-courantes)
 - [SPILF. Info-antibio N°80. Mars 2018. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2018-03-plaies.pdf)
 - [SFMU, SFFPC. Plaies aiguës en structure d'urgence. 2017.](https://www.sfmu.org/upload/consensus/rbp_plaies2017_v2.pdf)
 - [zoopsy, InVS. Facteurs de gravité des morsures de chien aux urgences. 2010. (PDF)](/print/invs-morsure-chien.pdf)
 
 ### Bibliographie en attente
 
-[Colmers-Gray I et al. Management of mammalian bites. BMJ. 2023.](https://www.bmj.com/content/380/bmj-2022-071921)
+[Colmers-Gray I, et al. Management of mammalian bites. BMJ. 2023.](https://www.bmj.com/content/380/bmj-2022-071921)
 
 {{%/sources%}}
