@@ -435,7 +435,7 @@ graph TB
 - [Janier M et al; SFD. Syphilis précoce. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](http://www.sfdermato.org/media/pdf/recommandation/syphilis-precoce-b61913fb8de5bca222326904654c6b30.pdf)
 - [Janier M et al; SFD. Syphilis tardive. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/syphilis-tardive-5fcc5313bd62f1e2e1693dbe700baf9c.pdf)
 - [Organisation Mondiale de la Santé. La résistance aux antibiotiques oblige à actualiser les recommandations sur le traitement des infections sexuellement transmissibles. Août 2016.](http://www.who.int/mediacentre/news/releases/2016/antibiotics-sexual-infections/fr/)
-- [HAS. Modification de la Nomenclature des actes de biologie médicale pour les actes de recherche du Treponema pallidum. Mai 2015. (PDF)](https://www.has-sante.fr/portail/upload/docs/application/pdf/2015-05/argumentaire_syphilis_vd.pdf)
+- [HAS. Modification de la Nomenclature des actes de biologie médicale pour les actes de recherche du Treponema pallidum. 2015.](https://www.has-sante.fr/jcms/c_2021758/fr/modification-de-la-nomenclature-des-actes-de-biologie-medicale-pour-les-actes-de-recherche-du-treponema-pallidum-bacterie-responsable-de-la-syphilis)
 - [Société de Pathologie Infectieuse de Langue Français (SPILF). Alternatives pour le traitement des syphilis non neurologiques dans un contexte de rupture de stock de benzathine pénicilline ± doxycycline. Février 2014. (PDF)](http://www.infectiologie.com/UserFiles/File/spilf/recos/2014-traitement-syphilis.pdf)
 
 ### Bibliographie pour en savoir plus

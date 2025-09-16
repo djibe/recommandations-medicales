@@ -424,7 +424,7 @@ graph TB
 - {{< references/college-endocrino >}}
 - [Goichot B, et al; Société Française d'Endocrinologie (SFE). Management of thyroid dysfunctions in the elderly. French Endocrine Society consensus 2019. Short version. Ann Endocrinol. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S0003426620300883)
 - [Mooijaart SP, et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 2019.](https://jamanetwork.com/journals/jama/fullarticle/2753909)
-- [HAS. Hypothyroïdie - pertinence des soins. Mars 2019.](https://www.has-sante.fr/portail/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)
+- [HAS. Hypothyroïdie - pertinence des soins. Mars 2019.](https://www.has-sante.fr/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)
 - [Al-Toma A, et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. UEG Journal. 2019.](https://doi.org/10.1177%2F2050640619844125)
 - Laboureau-Soares S. et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8.
 

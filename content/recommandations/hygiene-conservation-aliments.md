@@ -123,9 +123,9 @@ Mesures d'hygiène associées à la conservation et au stockage des aliments et 
 {{% /collapse %}}
 {{%sources%}}
 
-- [Anses. La température des réfrigérateurs des Européens étudiée pour mieux protéger les consommateurs. 2025.](https://www.anses.fr/fr/content/temperature-des-refrigerateurs-des-europeens-proteger-les-consommateurs)
+- [Anses. La température des réfrigérateurs des Européens étudiée pour mieux protéger les consommateurs. 2025.](www.anses.fr/fr/content/la-temperature-des-refrigerateurs-des-europeens-etudiee-pour-mieux-proteger-les)
 - [Société de Pathologie Infectieuse de Langue Française (SPILF). Toxi-infections alimentaires : des pathogènes dans l'assiette. Gazette de l'infectiologie. 2024.](https://www.infectiologie.com/fr/actualites/gazette-de-l-infectiologie-toxi-infections-alimentaires-des-pathogenes-dans-l-assiette_-n.html)
-- [Anses. AVIS de l'Anses relatif à la prévention des risques microbiologiques des aliments par le consommateur à son domicile : principales mesures retenues. 2013.](https://www.anses.fr/fr/content/avis-de-l%E2%80%99anses-relatif-%C3%A0-la-pr%C3%A9vention-des-risques-microbiologiques-des-aliments-par-le)
+- [Anses. AVIS de l'Anses relatif à la prévention des risques microbiologiques des aliments par le consommateur à son domicile : principales mesures retenues. 2013.](https://www.anses.fr/fr/content/avis-de-lanses-relatif-la-prevention-des-risques-microbiologiques-des-aliments-par-le)
 - [MangerBouger. À tout âge et à chaque étape de la vie.](https://www.mangerbouger.fr/bouger-plus/a-tout-age-et-a-chaque-etape-de-la-vie)
 
 {{%/sources%}}

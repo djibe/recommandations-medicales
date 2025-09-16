@@ -214,10 +214,10 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [INCa. Cancers de la thyroïde / Du diagnostic au suivi. Outils pour la pratique. 2023.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-de-la-tete-et-du-cou)
-- [INCa. Les cancers de la thyroïde en 10 points clés. 2023.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-de-la-tete-et-du-cou)
+- [INCa. Cancers de la thyroïde / Du diagnostic au suivi. Outils pour la pratique. 2023.](https://www.cancer.fr/professionnels-de-sante/recommandations-et-aide-a-la-pratique/outils-pour-la-pratique-des-medecins-generalistes/outils-par-localisation-de-cancer/du-diagnostic-au-suivi/cancers-de-la-thyroide)
+- [INCa. Les cancers de la thyroïde en 10 points clés. 2023.](https://www.cancer.fr/professionnels-de-sante/recommandations-et-aide-a-la-pratique/outils-pour-la-pratique-des-medecins-generalistes/outils-par-localisation-de-cancer/du-diagnostic-au-suivi/cancers-de-la-thyroide)
 - {{< references/beh-cancers-incidence >}}
-- [Menegaux F et al. SFE-AFCE-SFMN 2022 consensus on the management of thyroid nodules: Surgical treatment. Ann Endocrinol. 2022.](https://www.sciencedirect.com/science/article/abs/pii/S0003426622008563)
+- [Menegaux F, et al. SFE-AFCE-SFMN 2022 consensus on the management of thyroid nodules: Surgical treatment. Ann Endocrinol. 2022.](https://www.sciencedirect.com/science/article/abs/pii/S0003426622008563)
 - Collège Français d'ORL et de Chirurgie Cervico-faciale. Goitres, nodules thyroïdiens et cancers thyroïdiens. Item 241. 2022.
 - {{< references/college-endocrino >}}
 - [HAS. Cancer de la thyroïde. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_969305/fr/ald-n-30-cancer-de-la-thyroide)

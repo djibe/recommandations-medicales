@@ -373,7 +373,7 @@ Recommandations générales pour la prise en charge du syndrome d'apnées du som
 
 #### Conditions de remboursement des traitements des apnées du sommeil en France
 
-Le patient doit remplir les [conditions du Journal Officiel 07/2017 (PDF)](http://www.sfrms-sommeil.org/wp-content/uploads/2017/09/Avis-de-projet_juillet-2017_joe_20170711_0161_0100.pdf) pour bénéficier d'une prise en charge de la PPC par l'Assurance Maladie:
+Le patient doit remplir les [conditions du Journal Officiel 2017 (PDF)](https://www.sfrms-sommeil.org/wp-content/uploads/2025/04/Condition-de-prise-en-charge-du-traitemetn-par-PPC-arrete-de-decembre-2017.pdf) pour bénéficier d'une prise en charge de la PPC par l'Assurance Maladie:
 
 - ≥ 3 symptômes parmi: somnolence diurne, ronflements sévères et quotidiens, sensation d'étouffement ou de suffocation pendant le sommeil, fatigue diurne, nycturie, céphalées matinales
 - SAOS sévère (IAH ≥ 30)
@@ -409,7 +409,7 @@ si peut consulter observance des 12 derniers mois (≥ 112 heures sur 10 mois et
 - Remboursable à 65%
 - Nécessite une demande d'entente préalable par le spécialiste avec renouvellement annuel si respect des conditions ci-dessus
 
-> -- *[HAS 2014](https://www.has-sante.fr/portail/jcms/c_1761160/fr/apnees-du-sommeil-de-nouvelles-recommandations-de-prise-en-charge-des-patients)*
+> -- *HAS 2014*
 
 {{% /collapse %}}
 {{%collapse "Surveillance du traitement" %}}
@@ -530,23 +530,23 @@ graph TB
 {{%sources%}}
 
 - [US Preventive Services Task Force. Screening for Obstructive Sleep Apnea in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2798399)
-- [Bonsignore MR et al. European Respiratory Society statement on sleep apnoea, sleepiness and driving risk. Eur Respir J 2021.](https://doi.org/10.1183/13993003.01272-2020)
+- [Bonsignore MR, et al. European Respiratory Society statement on sleep apnoea, sleepiness and driving risk. Eur Respir J 2021.](https://doi.org/10.1183/13993003.01272-2020)
 - [Gottlieb DJ, Punjabi NM. Diagnosis and Management of Obstructive Sleep Apnea: A Review. JAMA. 2020.](https://jamanetwork.com/journals/jama/article-abstract/2764461?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jama.2020.3514)
-- [SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. MMM. 2018. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
-- [Ramar K et al, AASM. Clinical Practice Guideline for the Treatment of Obstructive Sleep Apnea and Snoring with Oral Appliance Therapy: An Update for 2015. J Clin Sleep Med. 2015.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481062/)
+- [SFD, SFRMS, SPLF. Prise en charge du syndrome d'apnées obstructives du sommeil chez la personne vivant avec un diabète : contexte, dépistage, indications et modalités de traitement. Médecine des Maladies Métaboliques. 2018. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_sfd_splf_sfrms_saos_et_diab_mmm_2018.pdf)
+- [Chiu H-Y, et al. Diagnostic accuracy of the Berlin questionnaire, STOP-BANG, STOP, and Epworth sleepiness scale in detecting obstructive sleep apnea: A bivariate meta-analysis. Sleep Med Rev. 2017.](https://pubmed.ncbi.nlm.nih.gov/27919588/)
+- [Ramar K, et al, AASM. Clinical Practice Guideline for the Treatment of Obstructive Sleep Apnea and Snoring with Oral Appliance Therapy: An Update for 2015. J Clin Sleep Med. 2015.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481062/)
 - [HAS. Apnées du sommeil : de nouvelles recommandations de prise en charge des patients. 10/09/2014.](https://www.has-sante.fr/jcms/c_1761160/fr/apnees-du-sommeil-de-nouvelles-recommandations-de-prise-en-charge-des-patients)
 - [SPLF, SFAR, SFC, SFMT, SFORL, SFRMS. Recommandations pour la Pratique Clinique - Syndrome d'apnées hypopnées obstructives du sommeil de l'adulte. 2010. (PDF)](https://splf.fr/wp-content/uploads/2014/07/HS3_reco_sas2010.pdf)
+- [Ruehland WR, et al. The new AASM criteria for scoring hypopneas: impact on the apnea hypopnea index. Sleep. 2009.](https://pubmed.ncbi.nlm.nih.gov/19238801/)
 - [AASM. Obstructive Sleep Apnea. 2008. (PDF)](https://aasm.org/resources/factsheets/sleepapnea.pdf)
-- [Ruehland WR et al. The new AASM criteria for scoring hypopneas: impact on the apnea hypopnea index. Sleep. 2009.](https://pubmed.ncbi.nlm.nih.gov/19238801/)
-- [Chiu H-Y et al. Diagnostic accuracy of the Berlin questionnaire, STOP-BANG, STOP, and Epworth sleepiness scale in detecting obstructive sleep apnea: A bivariate meta-analysis. Sleep Med Rev. 2017.](https://pubmed.ncbi.nlm.nih.gov/27919588/)
-- [Morgenthaler TI et al. Practice parameters for the medical therapy of obstructive sleep apnea. Sleep. 2006.](https://pubmed.ncbi.nlm.nih.gov/16944671/)
+- [Morgenthaler TI, et al. Practice parameters for the medical therapy of obstructive sleep apnea. Sleep. 2006.](https://pubmed.ncbi.nlm.nih.gov/16944671/)
 
 ### Bibliographie en attente
 
-- [Barateau L et al. Guidelines for the assessment and management of residual sleepiness in obstructive apnea-hypopnea syndrome: Endorsed by the French Sleep Research and Medicine Society (SFRMS) and the French Speaking Society of Respiratory Diseases (SPLF). Respir Med Res. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2590041224000217)
+- [Barateau L, et al. Guidelines for the assessment and management of residual sleepiness in obstructive apnea-hypopnea syndrome: Endorsed by the French Sleep Research and Medicine Society (SFRMS) and the French Speaking Society of Respiratory Diseases (SPLF). Respir Med Res. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2590041224000217)
 - [Collège des Enseignants de Pneumologie (CEP). Troubles du sommeil. Item 110. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_110_TROUBLES-DU-SOMMEIL_2023.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Troubles du sommeil - SAOS. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/troubles-du-sommeil-saos)
-- [Kapur VK et al. Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea: An American Academy of Sleep Medicine Clinical Practice Guideline. J Clin Sleep Med. 2017.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/)
+- [Kapur VK, et al. Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea: An American Academy of Sleep Medicine Clinical Practice Guideline. J Clin Sleep Med. 2017.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/)
 
 {{%/sources%}}
 {{% modal title="Échelle de somnolence d'Epworth" id="modal-score-epworth"%}}

@@ -264,7 +264,7 @@ graph TB
 - [INCa. Les cancers bronchopulmonaires en 10 points clés. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-cancers-bronchopulmonaires-en-10-points-cles)
 - [Delafosse P, et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Poumon. Santé Publique France. 2020.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-poumon)
 - [NICE. Lung cancer: diagnosis and management. NICE guideline. 2019.](https://www.nice.org.uk/guidance/NG122)
-- [Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017. (PDF)](https://cns.sante.fr/wp-content/uploads/2017/10/experts-vih_cancers.pdf)
+- Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017.
 - [INCA. Cancers bronchopulmonaires - Du diagnostic au suivi. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancers-bronchopulmonaires-Du-diagnostic-au-suivi)
 - [HAS. ALD n°30 Cancer du poumon et mésothéliome pleural malin. 2014.](https://www.has-sante.fr/jcms/c_820058/fr/ald-n-30-cancer-du-poumon-et-mesotheliome-pleural-malin)
 - [HAS. Guides du parcours de soins des cancers broncho-pulmonaires et mésothéliome pleural malin. 2013.](https://www.has-sante.fr/jcms/c_1650525/fr/guides-du-parcours-de-soins-des-cancers-broncho-pulmonaires-et-mesotheliome-pleural-malin)
@@ -274,7 +274,7 @@ graph TB
 
 - [Revel MP, et al. ESR Essentials: lung cancer screening with low-dose CT-practice recommendations by the European Society of Thoracic Imaging. Eur Radiol. 2025.](https://link.springer.com/article/10.1007/s00330-025-11910-9)
 - [Nierengarten MB. Updated American Cancer Society lung cancer screening guidelines: The new guidelines offer expanded criteria recommended for lung cancer screening based on age, smoking status, and smoking history. Cancer. 2024.](https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.35223)
-- [ESMO Clinical Practice Guidelines](https://www.esmo.org/guidelines/guidelines-by-topic/lung-and-chest-tumours)
+- [ESMO Clinical Practice Guidelines](https://www.esmo.org/guidelines/esmo-clinical-practice-guidelines-lung-and-chest-tumours)
 - [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 10 TER](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2010%20TER), 20 BIS, 20 TER, 61 BIS
 
 {{%/sources%}}

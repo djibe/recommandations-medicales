@@ -228,7 +228,7 @@ Traitement et suivi du SOPK:
 - Information sur les signes endométriaux post-ménopausiques: saignements anormaux
 - Qualité de vie
 - Information de la patiente: [guide Ameli SOPK](https://www.ameli.fr/hauts-de-seine/assure/sante/themes/syndrome-ovaires-polykystiques)
-- Associations de patientes: [Asso'SOPK](https://www.asso-sopk.com), [SOPK Europe](https://www.sopkeurope.org)
+- Associations de patientes: [Asso'SOPK](https://www.asso-sopk.com)
 
 > << Rassurer les femmes atteintes de SOPK sur le fait qu'une grossesse peut souvent être obtenue naturellement ou avec assistance médicale >> -- *ESHRE 2023*
 

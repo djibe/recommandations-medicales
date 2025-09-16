@@ -143,7 +143,7 @@ Vaccins à réaliser avant voire après une splénectomie.
 | Grippe          | 1 dose                       | Annuel           |
 | *H. influenzae* | ACT-HIB® dose unique (hors AMM) |               |
 | Méningocoque ACWY | Menquadfi®, Menveo® (sans aiguille) ou Nimenrix® à M0-M6 | Tous les 5 ans |
-| Méningocoque B  | Bexsero® (ou Trumenba®) à M0 et M2 | Tous les 5 ans |
+| Méningocoque B  | Bexsero®, Trumenba® à M0 et M2 | Tous les 5 ans |
 | {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}} | Ancien schéma Prevenar13® et Pneumovax® | Prevenar20® à 5 ans |
 {{< /table >}}
 

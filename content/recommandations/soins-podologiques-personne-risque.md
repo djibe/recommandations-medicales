@@ -151,7 +151,7 @@ IPS
 {{% /collapse %}}
 {{%collapse "Prévention des atteintes podologiques" %}}
 
-La consultation d'un pédicure-podologue n'est pas prise en charge par l'Assurance Maladie sauf chez les diabétiques grade podologique ≥ 2 sur prescription (à 100%) ou dans certains réseaux de soins.  
+La consultation d'un pédicure-podologue n'est pas prise en charge par l'Assurance Maladie sauf chez les diabétiques grade podologique ≥ 2 sur prescription (à 100 %) ou dans certains réseaux de soins.  
 Tarifs observés pour: Bilan podologique 30-80 € | Soins de pédicurie 32-60 €.
 {.alert .alert-info}
 

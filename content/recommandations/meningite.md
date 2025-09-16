@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-10-19T15:57:14+02:00"
 publishdate = "2023-10-30"
-lastmod = "2025-04-09"
+lastmod = "2025-09-16"
 specialites = ["infectiologie", "neurologie"]
 annees = "2023"
 sources = ["GPIP", "SPILF", "MinSanté", "DGS"]
@@ -181,7 +181,7 @@ Pour la vaccination des sujets contacts en prévention secondaire d'un sérogrou
 
 Vaccination de la méningite B en prévention primaire: recommandée à 3 mois, 5 mois et 12 mois par [Bexsero®](https://ec.europa.eu/health/documents/community-register/2021/20210701152279/anx_152279_fr.pdf). Rattrapage jusqu'à 4 ans (*HAS 2025*).
 
-La vaccination est possible de 15 à 24 ans (2 doses de Bexsero espacées d'au moins 1 mois) si le patient le souhaite.
+La vaccination est possible de 15 à 24 ans (2 doses de Bexsero ou Trumenba) si le patient le souhaite.
 
 > [!WARNING]
 > Pour un cas contact de sérogroupe B, la vaccination n'est pas recommandée (sauf cas groupés de méningite B).

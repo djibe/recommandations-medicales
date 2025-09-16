@@ -119,7 +119,7 @@ graph TB
 
 - [HAS. Prise en charge des hypothyroïdies. 2022.](https://www.has-sante.fr/jcms/p_3216305/fr/prise-en-charge-des-dysthyroidies-chez-l-adulte)
 - [Mooijaart SP et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 2019.](https://doi.org/10.1001/jama.2019.17274)
-- [HAS. Hypothyroïdie. Pertinence des soins. 2019.](https://www.has-sante.fr/portail/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)
+- [HAS. Hypothyroïdie. Pertinence des soins. 2019.](https://www.has-sante.fr/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)
 - [Laboureau-Soares S et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8](https://www.em-consulte.com/article/224074/hypothyroidie-acquise-de-l-adulte)
 
 ### Bibliographie en attente

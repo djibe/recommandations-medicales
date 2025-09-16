@@ -86,7 +86,7 @@ L'ordre d'apparition des troubles est important pour déterminer un diagnostic d
 || Tb développemental de la coordination | Maladresse anormale, difficultés de coordination, lenteur ou imprécision |
 || Tics | Fréquemment associés |
 || Syndrome de Gilles de la Tourette | Tics verbaux et moteurs répétés involontairement. TDAH souvent associé |
-|| Trouble du spectre de l'autisme | Peut ressembler à des troubles attentionnels, interactions sociales également perturbées. Association possible au TDAH. De 0 à 12 ans, [adresser vers une PCO](https://maisondelautisme.gouv.fr/fiches-pratiques/plateforme-coordination-et-d-orientation/) |
+|| Trouble du spectre de l'autisme | Peut ressembler à des troubles attentionnels, interactions sociales également perturbées. Association possible au TDAH. De 0 à 12 ans, [annuaire](https://annuaire.autismeinfoservice.fr/recherche/rubrique/rubrique:14/) |
 || Trouble du développement intellectuel | Peut être associé, voire aggravé par un TDA |
 | Troubles externalisés | Trouble d'opposition provocation (TOP) | Comportement hostile, provocateur, colérique. L'opposition n'est pas un symptôme de TDAH |
 || Troubles des conduites | Comportements délictuels à l'encontre des règles sociales |

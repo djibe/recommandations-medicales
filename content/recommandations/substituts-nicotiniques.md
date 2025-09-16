@@ -190,7 +190,7 @@ Débuter avec ces dosages le premier mois.
   <footer class="blockquote-footer">
     <cite title="Ameli"><a
         href="https://www.ameli.fr/content/liste-des-substituts-nicotiniques-pris-en-charge-par-l-assurance-maladie"
-        rel="external nofollow noopener">L'Assurance Maladie</a></cite>
+        rel="external">L'Assurance Maladie</a></cite>
   </footer>
 </blockquote>
 

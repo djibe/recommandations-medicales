@@ -366,7 +366,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{% rel
 - [US Preventive Services Task Force. Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy: US Preventive Services Task Force Recommendation Statement. JAMA. 2024.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/iron-deficiency-anemia-in-pregnant-women-screening-and-supplementation)
 - [Service Public. Grossesse : examens médicaux. 14/08/2024.](https://www.service-public.fr/particuliers/vosdroits/F963)
 - [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
-- [Ameli Médecin. Maternité : l'examen bucco-dentaire désormais pris en charge jusqu'au 6e mois après l'accouchement. 28/02/2024.](https://www.ameli.fr/medecin/actualites/maternite-l-examen-bucco-dentaire-desormais-pris-en-charge-jusqu-au-6e-mois-apres-l-accouchement)
+- Ameli Médecin. Maternité : l'examen bucco-dentaire désormais pris en charge jusqu'au 6e mois après l'accouchement. 28/02/2024.
 - [Insee. Bilan démographique 2023 - Fécondité. 2024.](https://www.insee.fr/fr/statistiques/7746164?sommaire=7746197)
 - [HCSP. Dépistage systématique de l'infection à cytomégalovirus pendant la grossesse. 08/12/2023.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1367)
 - [Ministère de la Santé. Vaccination contre le Covid-19 et maternité. 2023. (PDF)](https://sante.gouv.fr/IMG/pdf/fiche_-_vaccination_contre_le_covid-19_et_maternite.pdf)

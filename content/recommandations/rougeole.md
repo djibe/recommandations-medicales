@@ -173,7 +173,6 @@ Galerie de photos de cas de rougeole.
 - {{< references/calendrier-vaccinal >}}
 - [Santé Publique France. Rougeole : appel à la vigilance renforcée face à la recrudescence des cas en France et en Europe. 20/03/2025.](https://www.santepubliquefrance.fr/les-actualites/2025/rougeole-appel-a-la-vigilance-renforcee-face-a-la-recrudescence-des-cas-en-france-et-en-europe)
 - [Santé Publique France. Rougeole. 16/07/2025.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-prevention-vaccinale/rougeole/)
-- [Ameli Médecin. Hausse des cas de rougeole : le point sur les recommandations pour les médecins. 31/05/2024.](https://www.ameli.fr/medecin/actualites/hausse-des-cas-de-rougeole-le-point-sur-les-recommandations-pour-les-medecins)
 - [HAS. Avis n°2024.0038/AC/SESPEV du 23 mai 2024 du collège de la Haute Autorité de santé relatif à la vaccination des personnes nées depuis 1980 ayant reçu une dose de vaccin contre la rougeole avant l'âge de 12 mois. 2024. (PDF)](https://www.ameli.fr/sites/default/files/Documents/avis_2024.0038.ac_.sespev_du_23_mai_2024_du_college_de_la_has_relatif_a_la_vaccination_des_personnes_nees_depuis_1980_ayant_r.pdf)
 - Prescrire Redaction. Signe de Koplik et rougeole. Rev Prescrire. 2023.
 - Prescrire Redaction. La rougeole, en bref. Rev Prescrire. 2022.

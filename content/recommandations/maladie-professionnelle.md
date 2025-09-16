@@ -69,7 +69,7 @@ Des examens sont requis pour la reconnaissance de certaines maladies professionn
 
 <script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "Examens nécessaires pour la reconnaissance de certaines maladies professionnelles. Dr JB Fron d'après Ameli."}</script>
 <table id="table-mp" class="table">
-<caption><span class="font-weight-bold">Tableau.</span> Examens nécessaires pour la reconnaissance de certaines maladies professionnelles. Dr JB Fron d'après <a href="https://www.ameli.fr/val-de-marne/content/liste-des-examens-medicaux-effectuer-en-cas-de-maladie-professionnelle" rel="external nofollow noopener">Ameli</a>.</caption>
+<caption><span class="font-weight-bold">Tableau.</span> Examens nécessaires pour la reconnaissance de certaines maladies professionnelles. Dr JB Fron d'après <a href="https://www.ameli.fr/val-de-marne/content/liste-des-examens-medicaux-effectuer-en-cas-de-maladie-professionnelle" rel="external">Ameli</a>.</caption>
 <thead>
   <tr>
     <th scope="col">Tableau</th>
