@@ -41,7 +41,7 @@ Chapitre lié: [zona]({{% relref "zona.md" %}})
 {{%/article-summary%}}
 
 <div class="card card-util mw-280 my-4" style="overflow:hidden;width: 280px;" id="chart-1"></div>
-<script defer>
+<script>
   const chartOptions1 = {
       series: [{
         name: "Cas",

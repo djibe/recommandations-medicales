@@ -39,6 +39,8 @@ execFile('java', ['-version'], (error, stdout, stderr) => {
     'Attribute “fetchpriority” not allowed on element “img” at this point.*',
     'Attribute “fetchpriority” not allowed on element “iframe” at this point.*',
     'Attribute “fetchpriority” not allowed on element “link” at this point.*',
+    'Attribute “webkitallowfullscreen” not allowed on element “iframe” at this point.*',
+    'Attribute “mozallowfullscreen” not allowed on element “iframe” at this point.*',
     'The “inputmode” attribute is not supported in all browsers. Please be sure to test, and consider using a polyfill.*'
   ].join('|')
 
