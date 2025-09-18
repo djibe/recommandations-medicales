@@ -1,6 +1,6 @@
 +++
 title = "Échelle ADRS (Adolescent Depression Rating Scale)"
-description = "Échelle ADRS (Adolescent Depression Rating Scale) pour le repérage de troubles anxieux et dépressifs de 13 à 20 ans"
+description = "L’échelle ADRS (Adolescent Depression Rating Scale) est une échelle validée de référence pour le repérage de troubles anxieux et dépressifs chez les adolescents de 13 à 20 ans."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

@@ -1,7 +1,9 @@
-<div class="card card-body border shadow-none my-4">
-  <h3 class="card-title">Questionnaire <abbr lang="en" title="Woman Abuse Screening Tool">WAST</abbr> pour le dépistage de violences faites aux femmes</h3>
-  <p>Ces questions portent sur les 12 derniers mois</p>
-  <p class="card-text mb-lg-5">Pour un score ≥ 5, la sensibilité et la spécificité sont supérieures à 95%.</p>
+<div class="my-4">
+  <p>Le questionnaire <dfn><abbr lang="en" title="Woman Abuse Screening Tool">WAST</abbr></dfn> (Woman Abuse Screening Tool)
+    est validé pour le repérage des des violences faites aux femmes.<br>
+    Pour un score ≥ 5, la sensibilité et la spécificité sont
+    supérieures à 95 %.</p>
+  <p class="mb-4">Ces questions portent sur les 12 derniers mois.</p>
   <fieldset>
     <legend>1. En général, comment décririez-vous votre relation avec votre conjoint ?</legend>
     <input type="radio" id="radio11" name="radio1" class="d-input-none" value="2" required>
@@ -81,7 +83,19 @@
     </div>
     <p id="wastText" class="lead m-auto">Veuillez répondre aux 8 questions.</p>
   </div>
-  </div>
+</div>
+<blockquote class="mt-4">
+  <p>
+    <a
+      href="https://pubmed.ncbi.nlm.nih.gov/8791071/"
+      rel="external nofollow noopener"
+      >Brown JB, Lent B, Brett PJ, Sas G, Pederson LL. Development of the Woman Abuse Screening Tool for use in family practice. Fam Med. 1996;28(6):422-428.</a>
+      et <a
+      href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2018499/"
+      rel="external nofollow noopener"
+      >Brown JB, Schmidt G, Lent B, Sas G, Lemelin J. Dépistage de la violence faite aux femmes. Epreuves de validation et de fiabilité d'un instrument de mesure français [Screening for violence against women. Validation and feasibility studies of a French screening tool]. Can Fam Physician. 2001 May;47:988-95. PMID: 11398732; PMCID: PMC2018499.</a>
+  </p>
+</blockquote>
 {{ $script := `
   // Score WAST by djibe
   window.addEventListener( 'load', event => {

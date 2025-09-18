@@ -10,7 +10,7 @@ lastmod = "2025-09-09"
 specialites = []
 tags = []
 sctid = ""
-todo = "source"
+todo = "seo, source"
 +++
 
 {{< scores/iadl-simplifiee >}}
