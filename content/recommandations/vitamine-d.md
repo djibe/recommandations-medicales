@@ -8,7 +8,7 @@ synonyms = ["Cholécalciferol vitamine D3", "ergocalciférol vitamine D2"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-15T00:28:29+02:00"
 publishdate = "2020-04-15"
-lastmod = "2025-08-14"
+lastmod = "2025-09-17"
 specialites = ["endocrinologie", "pédiatrie", "thérapeutique"]
 annees = "2025"
 sources = ["GRIO", "SFP", "HAS", "SFR"]
@@ -277,6 +277,15 @@ Spécialités avec calcium + vitamine D3 associés (prendre [à distance des rep
 ### Spécialité de vitamine D2
 
 Stérogyl® 400 UI/gte.
+
+### Spécialité de 1α-vitamine D (alfacalcidol)
+
+La 1α-vitamine D (alfacalcidol) est utilisée en cas d'hypoparathyroïdie.
+
+- Capsule  
+  Alfacalcidol Théramex® (0,25 µg, 1 µg), Un alfa® (0,25 ou 1 µg), Un-alfa® (0,5 µg).
+- Gouttes  
+  Un-alpha® (0,1 µg).
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour la supplémentation en vitamine D" "show" %}}

@@ -7,12 +7,12 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-01-19T10:59:17+01:00"
 publishdate = "2025-01-21"
-lastmod = "2025-01-22"
+lastmod = "2025-09-17"
 specialites = ["ORL"]
 annees = "2009"
 sources = ["SFORL"]
 tags = ["diabete"]
-english = ["Otitis externa"]
+english = ["Otitis externa", "acute otitis externa (AOE)"]
 sctid = "3135009"
 icd10 = ["H60", "H60.9", "H62"]
 image = true
@@ -47,6 +47,9 @@ Otite externe maligne
 
 ### Abréviations
 
+AAO-HNS
+: {{%lang%}}American Academy of Otolaryngology - Head and Neck Surgery{{%/lang%}}
+
 CAE
 : conduit auditif externe
 
@@ -77,18 +80,19 @@ Autres causes d'otalgie:
 
 Signes et symptômes de l'otite externe, qui peut être uni ou bilatérale.
 
-- Antécédents: otites, dermatoses, radiothérapie cervico-faciale
+- Antécédents: [diabète](/tags/diabete/), otites, dermatoses, radiothérapie cervico-faciale
 - Facteurs favorisants: traumatisme local (coton-tige ...), humidité (natation, bain, tropiques), chaleur, conduit auditif étroit, audioprothèse
-- Facteurs de gravité: âge +70 ans, immunodépression, [diabète](/tags/diabete/)
+- **Facteurs de gravité:** diabète, âge +70 ans, immunodépression
 - Traitements locaux
 - Allergies aux antibiotiques auriculaires (rares)  
   Traitements favorisants les dermites de contact: néomycine (15%), framycétine.
 - Symptômes de l'otite externe:
   - **Otalgie**  
     Douleurs violentes, pulsatiles, parfois insomniantes, augmentées à la mastication, la pression du tragus et la mobilisation du pavillon.
-  - Otorrhées purulente
-  - Prurit
-  - Écoulement
+  - Otorrhée purulente
+  - **Prurit**
+  - Sensation de plénitude
+  - Hypoacousie
   - Desquamation
   - Érythème
   - Œdème
@@ -119,17 +123,17 @@ Ciloxadex 4 gouttes matin et soir pendant 7 jours
 
 Recommandations pour la prise en charge de l'otite externe:
 
-- **Antibiothérapie auriculaire:** Antibio synalar®, Auricularum®, [Ciloxadex®](https://bdpm.ansm.sante.fr/medicament/68601502/extrait#tab-rcp), Framyxone®, Panotile® ou Polydexa®.
+- **Antibiothérapie auriculaire:** Antibio synalar®, Auricularum®, [Ciloxadex®](https://bdpm.ansm.sante.fr/medicament/68601502/extrait#tab-rcp), Framyxone®, [ofloxacine instillations](https://bdpm.ansm.sante.fr/medicament/66256370/extrait#tab-rcp) (traitement de référence selon Prescrire®), Panotile® ou Polydexa®.
   - Pendant 5 à 10 jours
-  - Si **perforation tympanique** ou grossesse ([CRAT](https://www.lecrat.fr/6625/)): [ofloxacine](https://bdpm.ansm.sante.fr/medicament/66256370/extrait#tab-rcp) 10 gouttes matin et soir pendant 7 à 10 jours  
-    Traitement de référence selon Prescrire dans tous les cas.
+  - Si **perforation tympanique**, tympan non vu ou grossesse ([CRAT](https://www.lecrat.fr/6625/)): ofloxacine (Ciloxadex®, générique) uniquement
   - Si **otomycose**: aspiration des sécrétions, nystatine associée [Auricularum](https://bdpm.ansm.sante.fr/medicament/66592652/extrait#tab-rcp) 5-10 gouttes x 2/j pendant 15 jours (21 jours si nécessaire -- *SFORL 2001*)
-- **Antalgie:** palier 1 voire 2
+- **Antalgie:** palier 1 voire 2, voire AINS (*AAO-HNS*)
+- Ablation de tout dépôt du conduit auditif: débris inflammatoire, cérumen, corps étranger
 - Information du patient:
   - [Guide otite externe Ameli](https://www.ameli.fr/assure/sante/themes/otite-externe)
   - Facteurs de risque pour prévenir les récidives
   - Technique d'instillation des gouttes antibiotiques (voir plus bas)
-- Consultation de contrôle en cas de persistance à 2-3 semaines  
+- Consultation de contrôle en cas d'absence d'amélioration à 48-72 heures ou de persistance à 2-3 semaines  
   Évoquer: otomycose résistante, tumeur du CAE, perforation tympanique, atteinte de l'oreille moyenne.
 
 > << il n'y a pas lieu d'administrer un antibiotique par voie générale dans l'OEBNC >>. -- *SFORL 2009*
@@ -137,13 +141,15 @@ Recommandations pour la prise en charge de l'otite externe:
 > [!WARNING]
 > En cas de perforation tympanique, contre-indication aux: aminosides, corticoïdes, anesthésiques locaux et instillations contenant de l'alcool.
 
-### Technique d'instillation des gouttes antibiotiques
+### Technique d'instillation des gouttes antibiotiques auriculaires
 
-En position couchée, l'oreille atteinte en position haute:
+En position couchée, l'oreille atteinte doit être en position haute:
 
 - Instiller la dose prescrite
-- Attendre allongé pendant 5 à 10 minutes
+- Attendre allongé pendant 3 à 5 minutes
 - Ne pas occlure l'oreille
+
+> -- *AAO-HNS*
 
 {{% /collapse %}}
 {{%sources%}}
@@ -151,18 +157,15 @@ En position couchée, l'oreille atteinte en position haute:
 - Prescrire Redaction. Otite externe aiguë bactérienne. Premiers Choix Prescrire. Rev Prescrire. 2024.
 - [CMIT. Otites infectieuses de l'adulte et de l'enfant. Item 150. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-150.pdf)
 - [CBIP. Prise en charge de l'otite externe: bon usage des gouttes auriculaires. Folia. 2017.](https://www.cbip.be/fr/articles/query?number=F44F09B)
+- [Rosenfeld RM, et al; AAO-HNS. Clinical practice guideline: acute otitis externa. Otolaryngol Head Neck Surg. 2014.](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599813517083)
 - [Martin C; SFORL. Traitement des otites externes bactériennes non compliquées (OEBNC) par les gouttes auriculaires. 2009. (PDF)](https://www.orlfrance.org/wp-content/uploads/2017/06/ref_otite_externe.pdf)
 - [Bebear C, et al; SFORL. Utilisation des gouttes et poudres à usage auriculaire. 2001. (PDF)](https://www.sforl.org/wp-content/uploads/2020/02/RPC2_gouttes_auric_court.pdf)
-
-### Bibliographie en attente
-
-[Rosenfeld RM, et al; AAO-HNS. Clinical practice guideline: acute otitis externa. Otolaryngol Head Neck Surg. 2014.](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599813517083)
 
 {{%/sources%}}
 {{% modele %}}
 
-- [Ofloxacine](https://bdpm.ansm.sante.fr/medicament/66256370/extrait#tab-rcp) auriculaire 1 dose matin et soir pendant 7 jours
-- Paracétamol 1g toutes les 6 heures si douleurs
+- [Ciloxadex®](https://bdpm.ansm.sante.fr/medicament/68601502/extrait#tab-rcp) 1 dose matin et soir pendant 7 jours
+- Paracétamol 1g toutes les 6 heures si douleurs (+50 kg)
 
 Antalgique de palier 2 si nécessaire.
 

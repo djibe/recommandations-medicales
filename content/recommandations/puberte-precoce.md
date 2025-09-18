@@ -78,7 +78,7 @@ SFP
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Étiologie des pubertés précoces" %}}
+{{%collapse "Étiologie" %}}
 
 2 grands groupes de pathologies à l'origine d'une puberté précoce: centrale ou périphérique.
 

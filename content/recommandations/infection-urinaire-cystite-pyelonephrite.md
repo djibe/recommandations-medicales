@@ -63,7 +63,7 @@ Devant des signes évocateurs d'infection urinaire (IU) chez l'immunocompétent 
 
 **Indications à l'ECBU:** toute suspicion clinique d'infection urinaire sauf cystite simple ou colonisation urinaire nécessitant un traitement (grossesse ou geste urologique programmé).
 
-L'ECBU est réalisé avant l'antibiothérapie.
+L'ECBU est réalisé avant l'antibiothérapie, sur milieu de jet (décalottage chez l'homme, toilette et écartement des lèvres chez la femme).
 
 **NB.** Conservation possible des urines 12 heures à 4°C. -- *Collège*
 
@@ -79,6 +79,8 @@ L'ECBU est réalisé avant l'antibiothérapie.
   Si oui, traitement de la forme à risque de complication.
 
 Un ECBU de contrôle est réalisé uniquement en cas d'évolution défavorable.
+
+Bactéries contaminantes: *Lactobacillus*, *Gardnerella vaginalis*, Streptocoques alpha hémolytiques, bacilles corynéformes.
 
 #### Seuils de positivité de l'ECBU
 
@@ -375,6 +377,7 @@ graph TB
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Femme enceinte : colonisation urinaire et cystite. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722927/fr/choix-et-durees-d-antibiotherapies-femme-enceinte-colonisation-urinaire-et-cystite)
 - [Williams G, et al. Cranberries for preventing urinary tract infections. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001321.pub7/full/fr)
 - [HAS. Antibiogrammes ciblés pour les infections urinaires à Entérobactéries dans la population féminine adulte (à partir de 12 ans). 2023.](https://www.has-sante.fr/jcms/p_3262788/fr/antibiogrammes-cibles-pour-les-infections-urinaires-a-enterobacteries-dans-la-population-feminine-adulte-a-partir-de-12-ans)
+- [CMIT, SFMTSI, SPILF, SMV. Technique, résultats et interprétation des prélèvements. ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
 - [Arrêté du 31 mars 2022 portant approbation de la Convention nationale organisant les rapports entres les pharmaciens titulaires d'officine et l'assurance maladie. Journal Officiel. (PDF)](https://www.ameli.fr/sites/default/files/Documents/convention-pharmaciens-titulaires-officine_journal-officiel.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapie préconisées dans les infections bactériennes courantes. Recommander les bonnes pratiques. 2021.](https://www.has-sante.fr/jcms/p_3278764/fr/choix-et-durees-d-antibiotherapie-preconisees-dans-les-infections-bacteriennes-courantes)
 - [Collège Français des Enseignants en Urologie (CFEU). Infections urinaires de l'adulte et de l'enfant. Item 161. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-161-Infections-urinaires.pdf)

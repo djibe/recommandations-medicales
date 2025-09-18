@@ -17,7 +17,7 @@ sctid = "3404009"
 icd10 = ["W54", "W55", "W59", "T01.9", "T14.1"]
 image = true
 imageSrc = "Morsure de chien superficielle. Nicor, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "flow"
+todo = "flow, relire, validation"
 +++
 
 {{%article-summary%}}

@@ -292,6 +292,10 @@ graph TB
 - [Hédon B, et al; CNGOF. La prise en charge du couple infertile. Recommandations pour la pratique clinique. 2010. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Contraception%20et%20Sant%C3%A9%20Reproductive/Infertilit%C3%A9%202010-RPC.pdf?x60010)
 - [Agence de la Biomédecine. Assistance médicale à la procréation - Principaux chiffres de l'activité.](https://rams.agence-biomedecine.fr/principaux-chiffres-de-lactivite)
 
+### Bibliographie en attente
+
+[Jones CA, et al. Initial assessment of infertility in primary care. BMJ. 2025.](https://www.bmj.com/content/390/bmj-2024-079609) (payant)
+
 {{%/sources%}}
 {{% modal title="Signes de baisse de la réserve ovarienne" id="modal-reserve-ovarienne"%}}
 
