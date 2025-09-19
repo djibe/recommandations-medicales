@@ -108,7 +108,7 @@ Le mode d'action du virus est mal connu, l'**incubation dure de 4 à 7 jours** (
   - [Exanthème maculopapuleux](/tags/eruption-febrile/) du tronc et des membres
   - Conjonctivite
   - Adénopathies cervicales
-  - Plus rarement: épistaxis et gingivorragies bénignes (surtout chez les enfants)
+  - Plus rarement: [épistaxis]({{% relref "epistaxis.md" %}}) et gingivorragies bénignes (surtout chez les enfants)
 - **Signes de gravité:** forme hyperalgique, forme neurologique (méningo-encéphalite, névrite optique, confusion) ou autre (rhabdomyolyse, dermatose bulleuse, hépatite fulminante, myocardite)
 
 Le tableau clinique est très proche de la dengue et de zika.

@@ -133,7 +133,7 @@ TCA
 - **Signes négatifs**
   - Absence d'éternuements
   - Anosmie ou trouble olfactif sévère
-  - Croûtes nasales ou épistaxis répétées
+  - Croûtes nasales ou [épistaxis répétées]({{% relref "epistaxis.md" %}})
   - Écoulements purulents récidivants
   - Rhinorrhée intermittente déclenchée ou majorée par l'antéflexion ou une rhinorrhée permanente unilatérale
   - Survenue uniquement en cas de luminosité intense

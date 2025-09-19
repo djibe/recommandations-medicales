@@ -253,7 +253,7 @@ Aucun aliment n'est interdit mais le régime alimentaire contenant de la vitamin
 - Prévention des blessures, éviter les objets tranchants
 - Signes d'alerte et savoir réagir
 - Tout saignement, même mineur, est à considérer comme surdosage: contact médical en urgence  
-  - Banal: gingivorragies, épistaxis, hémorragies conjonctivales, règles exceptionnellement abondantes, hématomes
+  - Banal: gingivorragies, [épistaxis]({{% relref "epistaxis.md" %}}), hémorragies conjonctivales, règles exceptionnellement abondantes, hématomes
   - Plus inquiétant: [hématurie]({{% relref "hematurie.md" %}}), rectorragies ou méléna, hématémèse, hémoptysie, saignement persistant
   - Trompeurs: fatigue, dyspnée, pâleur, céphalées ne cédant pas au traitement antalgique habituel, malaise
 inexpliqué
