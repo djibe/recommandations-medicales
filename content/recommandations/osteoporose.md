@@ -632,6 +632,7 @@ Vidéos de formation sur l'ostéoporose.
 
 ### Bibliographie en attente
 
+- [Gregson CL, et al. The 2024 UK clinical guideline for the prevention and treatment of osteoporosis. Arch Osteoporos. 2025.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12417299/)
 - [Lafage-Proust MH. Prise en charge de l'ostéoporose au cours de la maladie rénale chronique Management of osteoporosis in chronic kidney disease. Revue du Rhumatisme. 2025.](https://www.sciencedirect.com/science/article/pii/S1169833024000577)
 - [Humphrey MB, et al. 2022 American College of Rheumatology Guideline for the Prevention and Treatment of Glucocorticoid-Induced Osteoporosis. Arthritis Rheumatol. 2023.](https://rheumatology.org/glucocorticoid-induced-osteoporosis-guideline)
 - [Waterhouse M, et al. The effect of monthly vitamin D supplementation on fractures: a tertiary outcome from the population-based, double-blind, randomised, placebo-controlled D-Health trial. The Lancet Diabetes & Endocrinology. 2023.](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(23)00063-3/fulltext)

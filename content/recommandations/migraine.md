@@ -575,6 +575,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Charles AC, et al. State of the art in the management of migraine-A response to the American College of Physicians migraine preventive treatment guideline. Headache. 2025.](https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.15051)
 - [CBIP. Les triptans sont-ils sûrs chez les patients migraineux ayant un risque cardio-vasculaire élevé ?. Folia. 2025.](https://www.cbip.be/fr/les-triptans-sont-ils-surs-chez-les-patients-migraineux-ayant-un-risque-cardio-vasculaire-eleve/)
 - [RFCRPV. Point sur les anti-CGRP (calcitonine gene-related peptide) utilisés dans la migraine. 2025.](https://www.rfcrpv.fr/point-sur-les-anti-cgrp-calcitonine-gene-related-peptide-utilises-dans-la-migraine/)
 - [ANSM. Topiramate (Epitomax et génériques) : évolution des conditions de prescription et de délivrance pour améliorer l'accès aux soins des femmes souffrant de migraine. 13/12/2024.](https://ansm.sante.fr/actualites/topiramate-epitomax-et-generiques-evolution-des-conditions-de-prescription-et-de-delivrance-pour-ameliorer-lacces-aux-soins-des-femmes-souffrant-de-migraine)

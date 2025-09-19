@@ -27,11 +27,11 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Suspecter des apnées du sommeil en cas de: sommeil non réparateur, somnolence, [fatigue](/tags/fatigue/), [hypertension non contrôlée]({{% relref "hypertension-arterielle.md" %}}), [reflux nocturne]({{% relref "reflux-gastro-oesophagien.md" %}})
+- Suspecter des apnées du sommeil devant les symptômes suivants: sommeil non réparateur, somnolence, [fatigue](/tags/fatigue/), [hypertension non contrôlée]({{% relref "hypertension-arterielle.md" %}}), [reflux nocturne]({{% relref "reflux-gastro-oesophagien.md" %}})
 - Dépister systématiquement des apnées si [obésité grade 3]({{% relref "obesite-adulte.md" %}}), [diabète]({{% relref "diabete-type-2.md" %}}), [fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}), [maladie cardiovasculaire](/tags/risque-cardiovasculaire/) ...
 - Dépister des apnées par le questionnaire STOP-BANG ou les *8 questions* chez le diabétique (voir *[Dépister les apnées](#dépister-les-apnées-du-sommeil)* )
-- Probabilité forte de syndrome d'apnées du sommeil avec somnolence inexpliquée malgré une polygraphie normale: réaliser une polysomnographie
-- La ventilation par PPC doit être utilisée au moins 4 heures par nuit et renouvelée au bout de 3 ans par le médecin traitant
+- En cas de probabilité forte de syndrome d'apnées du sommeil avec somnolence inexpliquée malgré une polygraphie normale, réaliser une polysomnographie
+- La ventilation par PPC doit être utilisée au moins 4 heures par nuit et renouvelée au bout de 3 ans par le médecin généraliste
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -403,16 +403,15 @@ Une surveillance dentaire régulière est nécessaire avec l'orthèse d'avancée
   - Utilisation de la machine ≥ 3 heures/24h
   - Efficacité de la PPC constatée
 - Prescription initiale par un diplômé du DIU Sommeil ou pneumologue, valable 4 mois
-- Renouvellement au bout de 4 mois pour une durée de 1 an
-- Renouvellement possible au bout de 3 ans par le médecin traitant (*[JO 2017](https://www.sp2a.fr/wp-content/uploads/2018/07/De%CC%81cret-PPC-2017.pdf)*), sur *Ameli Pro*, rubrique *Services patients*  
-si peut consulter observance des 12 derniers mois (≥ 112 heures sur 10 mois et ≥ 56h sur les 2 autres)
-- Remboursable à 65%
-- Nécessite une demande d'entente préalable par le spécialiste avec renouvellement annuel si respect des conditions ci-dessus
+- Renouvellement au bout de 4 mois pour une durée de 1 an sur *amelipro*, rubrique *Services patients*
+- Renouvellement possible au bout de 3 ans par le médecin traitant (*[JO 2017](https://www.sp2a.fr/wp-content/uploads/2018/07/De%CC%81cret-PPC-2017.pdf)*) sur une simple ordonnance ou sur *amelipro*  
+Si l'on peut consulter l'observance des 12 derniers mois (≥ 112 heures sur 10 mois et ≥ 56h sur les 2 autres).
+- Remboursable à 65 %
 
 > -- *HAS 2014*
 
 {{% /collapse %}}
-{{%collapse "Surveillance du traitement" %}}
+{{%collapse "Suivi" %}}
 
 ### Améliorer l'observance de la PPC
 

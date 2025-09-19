@@ -9,10 +9,10 @@ synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-06-21T10:56:00+02:00"
 publishdate = "2021-06-29"
-lastmod = "2023-11-27"
+lastmod = "2025-09-17"
 specialites = ["allergologie", "pneumologie"]
-annees = "2022"
-sources = ["GINA", "ERS", "SPLF", "HAS"]
+annees = "2024"
+sources = ["SP2A", "GINA", "ERS", "SPLF"]
 tags = ["AINS", "allergie", "asthme", "atopie", "dyspnee", "tabac", "toux", "vaccin"]
 english = ["Asthma"]
 sctid = "195967001"
@@ -51,6 +51,7 @@ Chapitres liés: [corticoïdes inhalés]({{% relref "corticoides-inhales.md" %}}
 
 <div class="card card-hover card-tab my-3 my-xl-5">
 <ul class="nav nav-tabs nav-justified mb-4" role="tablist">
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link active" id="nav-tab-suivi" data-toggle="tab" data-target="#nav-asthme-suivi" role="tab" aria-controls="nav-asthme-suivi">Contrôle</button></li>
   <li class="nav-item" role="presentation"><button type="button" class="nav-link active" id="nav-tab-stade1" data-toggle="tab" data-target="#nav-asthme-stade1" role="tab" aria-controls="nav-asthme-stade1" aria-selected="true">Stade 1</button></li>
   <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade2" data-toggle="tab" data-target="#nav-asthme-stade2" role="tab" aria-controls="nav-asthme-stade2" aria-selected="false">Stade 2</button></li>
   <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade3" data-toggle="tab" data-target="#nav-asthme-stade3" role="tab" aria-controls="nav-asthme-stade3" aria-selected="false">Stade 3</button></li>
@@ -58,6 +59,13 @@ Chapitres liés: [corticoïdes inhalés]({{% relref "corticoides-inhales.md" %}}
   <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade5" data-toggle="tab" data-target="#nav-asthme-stade5" role="tab" aria-controls="nav-asthme-stade5" aria-selected="false">Stade 5</button></li>
 </ul>
 <div class="card-body tab-content">
+<div class="tab-pane fade" id="nav-asthme-suivi" role="tabpanel" aria-labelledby="nav-tab-suivi">
+
+- Traitements en cours
+- {{< modal-btn modal-score-act >}}Asthma Control Test™ (ACT){{< /modal-btn >}}
+- Observance, [technique d'inhalation](https://splf.fr/videos-zephir/) et effets indésirables
+
+</div>
 <div class="tab-pane fade show active" id="nav-asthme-stade1" role="tabpanel" aria-labelledby="nav-tab-stade1">
 
 - 6-11 ans: {{< modal-btn modal-ttt-baca >}}bronchodilatateur de courte durée{{< /modal-btn >}} en cas de besoin avec {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} faible dose concomitant
@@ -262,11 +270,11 @@ Suivi par le service **Sophia** de l'Assurance Maladie: {{<phone>}}0 809 400 040
 Revoir la *maîtrise de l'asthme* à chaque consultation:
 
 1. Maîtrise des symptômes de l'asthme
-    - Traitement en cours
+    - Traitements en cours
     - {{< modal-btn modal-score-act >}}Asthma Control Test™ (ACT){{< /modal-btn >}}
     - Autosurveillance des symptômes et du DEP
 2. Contrôle des facteurs de risques modifiables
-    - Faire le point au moins tous les 2 ans
+    - Réévaluation au moins tous les 2 ans
     - {{< modal-btn modal-observance >}}Observance{{< /modal-btn >}} et [technique de prise des traitements](https://splf.fr/videos-zephir/)
     - Consommation de corticoïdes oraux
     - Plan d'action écrit contre l'asthme
@@ -375,23 +383,23 @@ Mesure du DEP pour les personnes percevant mal leurs symptômes.
 
 ### Spirométrie avec test de réversibilité
 
-Répéter la spirométrie 1 à 3 fois/an (*SPLF 2015*). Répéter au diagnostic pour obtenir un diagnostic fiable.
+Les épreuves fonctionnelles respiratoires (EFR) sont systématiques au diagnostic. Répéter la spirométrie 1 à 3 fois/an (*SPLF 2015*).
 
-EFR non concluantes de 5 à 16 ans: test du monoxyde d'azote dans l'air expiré (FeNo).
+En cas d'EFR non concluantes de 5 à 16 ans: test du monoxyde d'azote dans l'air expiré (FeNo).
 
 ### Radiographie thoracique
 
-Radiographie de thorax systématique au diagnostic (la SFR [n'est pas d'accord](https://aderim.radiologie.fr/pathologies/asthme)).
+==**Radiographie de thorax**== systématique au diagnostic (selon la SP2A, la SFR [n'est pas d'accord](https://aderim.radiologie.fr/pathologies/asthme)).
 
 ### Autres bilans
 
 - NFS  
   Vérifier les [éosinophiles]({{% relref "hypereosinophilie.md" %}}) en cas d'asthme difficilement contrôlé (recherche [anguillulose]({{% relref "strongyloidose-anguillulose.md" %}}) quand ≥ 300/μL).
-- Gaz du sang si: adulte avec VEMS < 50%, discordance symptômes - VEMS
+- Gaz du sang si: adulte avec VEMS < 50 %, discordance symptômes - VEMS
 
 ### Consultations spécialisées
 
-- Enfant: bilan allergologique systématique (*HAS 2006*)
+- Enfant: ==**bilan allergologique** systématique== (*SP2A 2024*)
 - Consultation ORL
 
 {{% /collapse %}}
@@ -447,9 +455,9 @@ Voir en tête de chapitre.
 - Suivi médical
   - tous les 3 à 12 mois
   - Par pneumologue quand asthme non contrôlé, exacerbations répétées (> 2/an) ou patient fumeur
-  - En *centre spécialisé de l'asthme* quand asthme sévère non contrôlé
+  - En *centre spécialisé de l'asthme* pour l'asthme sévère non contrôlé
 - **Maîtrise de l'asthme**
-  - Sevrage tabagique total
+  - Sevrage tabagique
   - Toutes les mesures du *Contrôle de l'asthme* (voir partie dédiée plus haut)
   - **{{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous** (même si BPCO associée, voir *Stratégie de traitement de l'asthme selon GINA*)
   - Toujours disposer de {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} de secours
@@ -546,9 +554,10 @@ graph TB
 
 {{< video poster="https://splf.fr/wp-content/uploads/2021/11/Webinaire-2021-12-06-1300-500.jpg" mp4="https://dts.podtrac.com/redirect.mp4/docs.splf.fr/videos/Webinaires/2021/Webinaire-asthme-2021-12-09.mp4" description="Mise à jour des recommandations 2021 pour la prise en charge des patients asthmatiques adultes (SPLF)" >}}
 
+- [Drummond D, et al. Recommandations de la SP2A (Société pédiatrique de pneumologie et d'allergologie) pour la prise en charge de l'asthme de l’enfant de 6 à 12 ans - Prise en charge thérapeutique et adaptation du traitement de fond. Rev Mal Respir. 2024.](https://www.sciencedirect.com/science/article/pii/S0761842524002444)
 - [Collège des Enseignants de Pneumologie (CEP). Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_188_ASTHME_RHINITE_2023.pdf)
 - Prescrire Redaction. Asthme. Premiers Choix Prescrire. Rev Prescrire. 2023.
-- [GINA. Global strategy for the asthma management and prevention. 2022.](https://ginasthma.org/reports/)
+- [GINA. Global strategy for the asthma management and prevention. 2022.](https://ginasthma.org/archived-reports/)
 - [Gaillard EA, et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5-16 years. Eur Respir J. 2021.](https://erj.ersjournals.com/content/58/5/2004173)
 - [Raherison-Semjen C, et al. Asthme. Revue des Maladies Respiratoires Actualités. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1877120320300598)
 - [Santé Publique France. Asthme. 05/10/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/asthme)
@@ -560,8 +569,7 @@ graph TB
 ### Bibliographie en attente
 
 - [SPLF. Plans d'action de l'asthme](https://splf.fr/plans-daction-dans-lasthme/)
-- [Drummond D, et al. Recommandations de la SP2A (Société pédiatrique de pneumologie et d'allergologie) pour la prise en charge de l'asthme de l’enfant de 6 à 12 ans - Prise en charge thérapeutique et adaptation du traitement de fond. Rev Mal Respir. 2024.](https://www.sciencedirect.com/science/article/pii/S0761842524002444)
-- [GINA. Global strategy for the asthma management and prevention. 2024.](https://ginasthma.org/reports/)
+- [GINA. Global strategy for the asthma management and prevention. 2024.](https://ginasthma.org/archived-reports/)
 - [Papi A, et al. European Respiratory Society Short Guidelines for the use of as-needed ICS/formoterol in mild Asthma. European Respiratory Journal. 2023.](https://erj.ersjournals.com/content/early/2023/08/31/13993003.00047-2023)
 - [Société canadienne de pédiatrie. La prise en charge de l'asthme léger et très léger chez les enfants d'âge préscolaire, les enfants et les adolescents. Point de pratique. 2023.](https://cps.ca/fr/documents/position/asthme-leger)
 - [Louis R, et al. European Respiratory Society Guidelines for the Diagnosis of Asthma in Adults. European Respiratory Journal. 2022.](https://erj.ersjournals.com/content/early/2022/02/03/13993003.01585-2021)

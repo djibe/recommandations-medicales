@@ -143,7 +143,7 @@ Traitement des complications pouvant survenir au décours de l'allaitement (clas
 
 ### Abcès du sein
 
-Abcès du sein
+Abcès mammaire
 : Douleur lancinante avec souvent fatigue et fièvre, masse limitée fluctuante (parfois non palpée).
 
 Prise en charge de la suspicion d'abcès du sein en urgence avec une échographie mammaire.

@@ -18,6 +18,7 @@ sctid = "8619003"
 icd10 = ["N97", "N97.9", "N46"]
 image = true
 imageSrc = "L'infertilité du couple. vectorjuice / Freepik"
+todo = "relecture demandée"
 chart = true
 flowchart = true
 +++

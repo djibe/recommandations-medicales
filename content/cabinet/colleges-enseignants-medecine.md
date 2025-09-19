@@ -5,7 +5,7 @@ description = "Liens vers les collèges des enseignants de médecine de deuxièm
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-14T16:20:00+02:00"
 publishdate = "2023-01-16"
-lastmod = "2025-09-02"
+lastmod = "2025-09-18"
 annees = "2025"
 sources = ["Colleges"]
 tags = []
@@ -35,7 +35,7 @@ Le tableau ci-dessous liste tous les référentiels des Collèges de médecine d
 | Infectiologie | CMIT <br><span class="typography-caption">Collège des universitaires de Maladies Infectieuses et Tropicales</span> | 2023 | [Pilly](https://www.infectiologie.com/fr/pilly-etudiant-2023-disponible-a-la-vente-et-en-ligne.html) |
 | Médecine physique | COFEMER <br><span class="typography-caption">Collège Français des Enseignants universitaires de Médecine physique et de Réadaptation</span> | 2018 | [lien](https://www.cofemer.fr/cofemer/gestionPagesWebStandard.do?dispatchMethod=affiche&pageId=55) |
 | Néphrologie | CUEN <br><span class="typography-caption">Collège Universitaire des Enseignants de Néphrologie</span> | 2025 | [lien](https://manuel4.cuen.fr) |
-| Neurologie | CEN <br><span class="typography-caption">Collège des Enseignants de Neurologie</span> | 2019 | [lien](https://www.cen-neurologie.fr/deuxieme-cycle) |
+| Neurologie | CEN <br><span class="typography-caption">Collège des Enseignants de Neurologie</span> | 2019 | [lien](https://www.cen-neurologie.fr/second-cycle) |
 | Ophtalmologie | COUF <br><span class="typography-caption">Collège des Ophtalmologistes Universitaires de France</span> | 2021 | [lien](https://couf.fr/espace-etudiants/2eme-cycle-dfasm/) |
 | Orthopédie | CFCOT <br><span class="typography-caption">Collège Français des Chirurgiens Orthopédistes et Traumatologues</span> | 2020 | [lien](https://www.sofcot.fr/sites/www.sofcot.fr/files/medias/documents/CollegeOrthop%C3%A9dieTraumatologieELLIPSES%203%C3%A8me%20%C3%A9dition.pdf) |
 | Pédiatrie | CNPU <br><span class="typography-caption">Collège National des Pédiatres Universitaires</span> | 2021 | [lien](https://www.pedia-univ.fr/deuxieme-cycle/referentiel) |

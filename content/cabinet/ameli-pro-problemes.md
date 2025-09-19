@@ -6,8 +6,8 @@ description = "Outils pour identifier et résoudre les problèmes de connexion a
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-11T13:08:00+02:00"
 publishdate = "2023-04-11"
-lastmod = "2024-11-11"
-annees = "2024"
+lastmod = "2025-09-18"
+annees = "2025"
 sources = []
 tags = []
 image = true
@@ -26,14 +26,14 @@ Ameli Pro et tous les services en ligne proposant une connexion avec la carte CP
 - Des lecteurs de carte à puces ou un lecteur Sesam-vitale
 - Les services de carte à puce activés sous Windows ou MacOS  
   Sous Windows: taper `services.msc` dans le menu démarrer, vérifier que le service "Carte à puce" a bien pour "Type de démarrage": `Automatique`
-- Installer **ATSAM** 4.65.00 ([Windows](https://e.pcloud.link/publink/show?code=XZSG9CZdtj4sK11baJLxtkdq0xEJfug4csy) ou [Mac](https://e.pcloud.link/publink/show?code=XZjG9CZYa8ykmijt78orzNt2lNVv76Tp4h7))
+- Installer **ATSAM** 4.66.01 ([Windows](https://e.pcloud.link/publink/show?code=XZNGoOZzuciC5kcrb7vLN2G2IikpVvHtLlX) ou [Mac](https://e.pcloud.link/publink/show?code=XZOGoOZRvlIdrchK2hWOB3fg0RIIpO3uMey))
 - Pour lire la **carte vitale** depuis le navigateur internet, l'extension officielle "Lecture Carte Vitale" est nécessaire ([navigateur Chrome/Edge](https://chrome.google.com/webstore/detail/lecture-carte-vitale/kpjpglcbcgnblkigbedgaoegjbifejka?hl=fr) ou [Firefox](https://addons.mozilla.org/fr/firefox/addon/lecture-carte-vitale/))
 
 {{< table title="Logiciels nécessaires pour faire le fonctionnement de la carte CPS sur l'ordinateur du médecin." >}}
 | Logiciel                | Version | Téléchargement                                                                      |
 |-------------------------|--------:|-------------------------------------------------------------------------------------|
-| ATSAM (Windows)         | 4.65.00 | [Lien](https://e.pcloud.link/publink/show?code=XZSG9CZdtj4sK11baJLxtkdq0xEJfug4csy) |
-| ATSAM (MacOS)           | 4.65.00 | [Lien](https://e.pcloud.link/publink/show?code=XZjG9CZYa8ykmijt78orzNt2lNVv76Tp4h7) |
+| ATSAM (Windows)         | 4.66.01 | [Lien](https://e.pcloud.link/publink/show?code=XZNGoOZzuciC5kcrb7vLN2G2IikpVvHtLlX) |
+| ATSAM (MacOS)           | 4.66.01 | [Lien](https://e.pcloud.link/publink/show?code=XZOGoOZRvlIdrchK2hWOB3fg0RIIpO3uMey) |
 | Cryptolib CPS (Windows) |   5.2.2 | [Lien](https://e.pcloud.link/publink/show?code=XZMRbxZvYgl3uQffJ89WXhW8VC1qyEnPqGk) |
 {{< /table >}}
 
