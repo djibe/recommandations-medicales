@@ -91,7 +91,7 @@ EADV
 
 Le diagnostic de gale est clinique. Cependant un prurit isolé non évocateur ne doit pas faire réaliser un traitement d'épreuve.
 
-Incubation silencieuse pendant 1 mois (5 jours à 6 semaines). En cas de réinfestation, les symptômes surviennent en 1 à 3 jours.
+Incubation silencieuse pendant 1 mois (de 5 jours à 6 semaines). En cas de réinfestation, les symptômes surviennent en 1 à 3 jours.
 
 ### Interrogatoire
 
@@ -335,6 +335,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Omedit Centre. Prise en charge et traitement des sujets atteints de gale. Janvier 2025. (PDF)](https://www.omedit-centre.fr/medias/PEC-traitement-gale.pdf)
 - [Morand A, et al. Management of scabies in children under 15 kg and pregnant or breastfeeding women: recommendations supported by the Centre of Evidence of the French Society of Dermatology. Br J Dermatol. 2024.](https://academic.oup.com/bjd/advance-article/doi/10.1093/bjd/ljae288/7717190)
 - [Collège des enseignants de dermatologie de France (CEDEF). Ectoparasitoses cutanées : gale et pédiculose. Item 171. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-171-%E2%80%94-Ectoparasitoses-cutanees-gale-et-pediculose_CompressPdf.pdf)
 - [CMIT, SFMTSI, SPILF, SMV. Gale. ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
@@ -342,6 +343,5 @@ graph TB
 - Prescrire Redaction. Gale. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Salavastru C et al; European Academy of Dermatology and Venereology. European guideline for the management of scabies. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14351)
 - [HCSP. Survenue de un ou plusieurs cas de gale. Conduite à tenir. 2012.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=312)
-- [Omedit Centre. Prise en charge et traitement des sujets atteints de gale. Mars 2010. (PDF)](https://www.omedit-centre.fr/medias/PEC-traitement-gale.pdf)
 
 {{%/sources%}}

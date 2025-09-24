@@ -35,8 +35,8 @@ todo = "SEO dont 'aplv recommandations', poulet ?, https://www.sciencedirect.com
 
 Allergies quasi constantes:
 
-- Lait de chèvre et brebis (92% selon *Sicherer 2001*)
-- Viande de bœuf (88% selon *Mamikoglu B 2005*)
+- Lait de chèvre et brebis (92 % selon *Sicherer 2001*)
+- Viande de bœuf (88 % selon *Mamikoglu B 2005*)
 - Dérivés du soja
 
 Allergies croisées à étayer une par une:
@@ -71,6 +71,7 @@ Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de 
 - Nutramigen LGG 1, 2 et 3
 - Nutriben APLV 1 et 2
 - Pregestimil 1 à 3
+- Pepti-Junior hydrolysat de caséine
 
 ### Hydrolysat de lactosérum
 

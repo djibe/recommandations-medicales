@@ -45,6 +45,9 @@ Otite moyenne aiguë purulente (OMAP)
 
 ### Abréviations
 
+DIH
+: déficit immunitaire héréditaire
+
 DRP
 : désobstruction rhinopharyngée
 
@@ -117,7 +120,7 @@ Recommandations pour la prise en charge de l'otite moyenne aiguë selon l'âge:
 - 3 mois à 2 ans: antibiothérapie d'emblée
 - À partir de 2 ans (adulte compris): traitement symptomatique uniquement  
   Antibiothérapie d'emblée si **symptômes mal tolérés, otorrhée ou aggravation après 48 heures de surveillance**.
-- Si ≥ 8 OMA/an avant 4 ans: adresser au pédiatre pour la recherche d'un déficit immunitaire héréditaire (DIH, *CNUP*)
+- Si ≥ 8 OMA/an avant 4 ans: adresser au pédiatre pour la recherche d'un déficit immunitaire héréditaire (**DIH**, *CNUP*)
 - Si ≥ OMA/an après 4 ans: bilan de DIH
 
 > -- *HAS, SPILF, GPIP 2025*
