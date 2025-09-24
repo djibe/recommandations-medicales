@@ -5,7 +5,7 @@ description = "Liens vers les collèges des enseignants de médecine de deuxièm
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-14T16:20:00+02:00"
 publishdate = "2023-01-16"
-lastmod = "2025-09-18"
+lastmod = "2025-09-22"
 annees = "2025"
 sources = ["Colleges"]
 tags = []
@@ -42,8 +42,8 @@ Le tableau ci-dessous liste tous les référentiels des Collèges de médecine d
 | Pharmacologie médicale | CNPM <br><span class="typography-caption">Collège National de Pharmacologie Médicale</span> | 2024 | [lien](https://pharmacomedicale.org/medicaments/par-specialites) |
 | Pneumologie | CEP <br><span class="typography-caption">Collège des Enseignants de Pneumologie</span> | 2023 | [lien](http://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/) |
 | Psychiatrie | CNUP <br><span class="typography-caption">Collège National Universitaire de Psychiatrie </span> | 2024 | [lien](https://www.cunea.fr/sites/default/files/ref_psy_add_4ed.pdf) |
-| Radiologie | CERF <br><span class="typography-caption">Collège des Enseignants de Radiologie de France</span> | 2022 | [lien](https://livrerougecerf-86lzwiq8ut.live-website.com/) |
-| Réanimation, médecine intensive | CE-MIR <br><span class="typography-caption">Collège des Enseignants de Médecine Intensive Réanimation</span> | 2021 | [lien](https://www.ce-mir.fr/enseignements/dfasm-edn/livre-referenciel-deuxieme-cycle-r2c) |
+| Radiologie | CERF <br><span class="typography-caption">Collège des Enseignants de Radiologie de France</span> | 2022 | [lien](https://cerf-edu-site.com/) |
+| Réanimation, médecine intensive | CE-MIR <br><span class="typography-caption">Collège des Enseignants de Médecine Intensive Réanimation</span> | 2021 | [lien](https://www.ce-mir.fr/livre-referentiel-deuxieme-cycle-r2c-8eme-edition) |
 | Rhumatologie | COFER <br><span class="typography-caption">Collège Français des Enseignants en Rhumatologie</span> | 2020 | [lien](http://www.lecofer.org/liste-des-items-ecn.php) |
 | Urologie | CFEU <br><span class="typography-caption">Collège Français des Enseignants en Urologie</span> | 2021 | [lien](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/) |
 {{< /table >}}

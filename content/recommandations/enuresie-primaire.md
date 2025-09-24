@@ -150,6 +150,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Hahn D, et al. Desmopressin for nocturnal enuresis in children. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002112.pub2/full/fr)
 - Prescrire Redaction. Patients ayant une énurésie nocturne. Rev Prescrire. 2021.
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Troubles mictionnels. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/nephrologie-chirurgie-urologique/troubles-mictionnels)
 - Prescrire Redaction. Énurésie isolée des enfants. Rev Prescrire. 2019.

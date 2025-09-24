@@ -210,5 +210,6 @@ L'[albendazole](https://bdpm.ansm.sante.fr/medicament/65565944/extrait#tab-rcp) 
 - [WHO. A parasitic infection that can turn fatal with administration of corticosteroids. 2020.](https://www.who.int/news/item/17-12-2020-a-parasitic-infection-that-can-turn-fatal-with-administration-of-corticosteroids)
 - [World Gastroenterology Organisation. Prise en charge de la strongyloïdose. 2018.](https://www.worldgastroenterology.org/guidelines/management-of-strongyloidiasis/management-of-strongyloidiasis-french)
 - [HAS. Actualisation des actes de biologie médicale relatifs au diagnostic de la strongyloïdose (anguillulose). 2017.](https://www.has-sante.fr/jcms/c_2729708/fr/actualisation-des-actes-de-biologie-medicale-relatifs-au-diagnostic-de-la-strongyloidose-anguillulose)
+- [Anaes. Prévention du risque aspergillaire chez les patients immunodéprimés (Hématologie, Transplantation. 2000.](https://www.has-sante.fr/jcms/c_272072/fr/prevention-du-risque-aspergillaire-chez-les-patients-immunodeprimes-hematologie-transplantation)
 
 {{%/sources%}}

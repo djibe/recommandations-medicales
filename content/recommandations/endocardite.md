@@ -183,6 +183,10 @@ Pour le traitement des endocardites infectieuses, lire *ESC 2023*.
 - [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Endocardite infectieuse. Item 152. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
 - [Duval X, Iung B. Prophylaxie de l'endocardite infectieuse. Archives des Maladies du Coeur et des Vaisseaux - Pratique. 2021.](https://doi.org/10.1016/j.amcp.2021.03.003)
 - [CMIT. Endocardite infectieuse. Item 152. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-152-web.pdf)
-- [Habib H et al. 2015 ESC Guidelines for the management of infective endocarditis: The Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC) Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). European Heart Journal. 2015.](https://academic.oup.com/eurheartj/article/36/44/3075/2293384)
+- [Habib H, et al. 2015 ESC Guidelines for the management of infective endocarditis: The Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC) Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). European Heart Journal. 2015.](https://academic.oup.com/eurheartj/article/36/44/3075/2293384)
+
+### Bibliographie pour en savoir plus
+
+[SPILF. Info-antibio N°106. 2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2025-09-ei.pdf)
 
 {{%/sources%}}

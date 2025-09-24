@@ -1,6 +1,6 @@
 +++
 id = "0190e8ba-1f3c-719a-ba74-c57eaaf89c31"
-title = "Allaitement"
+title = "Allaitement maternel"
 prefix = "l'"
 description = "Recommandations pour la promotion de l'allaitement maternel: techniques, inhibition, tire-lait, technique MAMA, complications avec crevasses, mastite, abcès"
 synonyms = []

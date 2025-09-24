@@ -30,7 +30,7 @@ todo = "flow"
 {{%collapse "Définition" %}}
 
 Cholécystite aiguë
-: Infection aiguë de la vésicule biliaire. Elle est dite lithiasique lorsqu'elle est causée par une lithiase biliaire (composée de cholestérol pour 80% ou pigmentaire).
+: Infection aiguë de la vésicule biliaire. Elle est dite lithiasique lorsqu'elle est causée par une lithiase biliaire (cholélithiase composée de cholestérol pour 80% ou pigmentaire).
 : Prévalence des lithiases des voies biliaires: 10 à 15%, le plus souvent asymptomatiques (90%). 20 à 40% se compliquent, le plus souvent sous forme de cholécystite aiguë.
 
 ### Abréviations
@@ -73,7 +73,7 @@ Bilan complet aux Urgences:
 - NFS, CRP
 - Bilan hépatique: ASAT, ALAT, GGT, PAL, bilirubine totale
 - Amylasémie, lipasémie
-- ECG
+- Troponine, ECG
 - Échographie-doppler abdominale
 
 **NB.** Le scanner abdominal est peu sensible et l'IRM n'est pas supérieure à l'échographie abdominale.
@@ -84,7 +84,7 @@ Bilan complet aux Urgences:
 {{% /collapse %}}
 {{%collapse "Traitement de la cholécystite aiguë" %}}
 
-La prise en charge de la suspicion de cholécystite aiguë est une **urgence médico-chirurgicale** pour éliminer un diagnostic différentiel grave (SCA, pancréatite aiguë) et réaliser la **chirurgie** en urgence.
+La prise en charge de la suspicion de cholécystite aiguë est une **urgence médico-chirurgicale** pour éliminer un diagnostic différentiel grave (SCA, pancréatite aiguë).
 
 Le traitement hospitalier associe antalgie et une chirurgie de cholécystectomie par cœlioscopie en urgence relative (durant les 7 premiers jours d'hospitalisation et sous 10 jours de l'apparition des symptômes, voire repoussée après 6 semaines).
 

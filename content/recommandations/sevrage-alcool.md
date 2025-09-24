@@ -651,6 +651,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 {{< youtube id="OPs09amiMC0" title="Prise en charge de la maladie du foie liée à l'alcool (AFEF Medical Education)" >}}
 
+- [Richelle L. Réticence des médecins à intervenir dans le traitement des addictions. Minerva. 2025.](https://minerva-ebp.be/FR/Analysis/919)
 - [Cohorte CONSTANCES. La moitié de la population française dépasse les repères de consommation d'alcool à moindre risque. 2024.](https://www.constances.fr/actualites/nos-actualites/la-moitie-de-la-population-francaise-depasse-les-reperes-de-consommation-dalcool-a-moindre-risque/)
 - [McPheeters M, et al. Pharmacotherapy for Adults With Alcohol Use Disorder in Outpatient Settings: Systematic Review. Comparative Effectiveness Review No. 262. AHRQ Publication No. 23(24)-EHC011. Rockville, MD: Agency for Healthcare Research and Quality; November 2023.](https://effectivehealthcare.ahrq.gov/products/alcohol-use-disorders/research#field_report_title_1)
 - [HAS. Agir en premier recours pour diminuer le risque alcool. 2023.](https://www.has-sante.fr/jcms/p_3326877/fr/agir-en-premier-recours-pour-diminuer-le-risque-alcool-reperer-tous-les-usages-et-accompagner-chaque-personne)

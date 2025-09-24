@@ -149,6 +149,7 @@ graph TB
 
 {{< youtube id="gniC0GCA4rY" title="Incontinence anale : que retenir ? (TutoGastro SNFGE 2023)" >}}
 
+- [Graham T, et al. Skin cleansers and leave‐on product interventions for preventing incontinence‐associated dermatitis in adults. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011627.pub3/full/fr)
 - [Bordeianou L, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Fecal Incontinence. Diseases of the Colon & Rectum. 2023.](https://journals.lww.com/dcrjournal/Fulltext/2023/05000/The_American_Society_of_Colon_and_Rectal_Surgeons.6.aspx)
 - [Assmann S, et al. Guideline for the diagnosis and treatment of Faecal Incontinence - A UEG/ESCP/ESNM/ESPCG collaboration. United European Gastroenterol J. 2022.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.12213)
 - [Paquette I, et al. The American Society of Colon and Rectal Surgeons' Clinical Practice Guideline for the Treatment of Fecal Incontinence. Diseases of the Colon & Rectum. 2015.](https://journals.lww.com/dcrjournal/Fulltext/2015/07000/The_American_Society_of_Colon_and_Rectal_Surgeons_.2.aspx)
