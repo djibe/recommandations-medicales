@@ -31,7 +31,7 @@ modele = true
 - Une suspicion de polyarthrite rhumatoïde nécessite un diagnostic par le rhumatologue et un traitement rapide
 - Prescrire le bilan biologique avec les radiographies pour adresser au rhumatologue dans les 6 semaines (voir *Examens complémentaires*)
 - La prise en charge de la polyarthrite rhumatoïde par un traitement spécifique relève exclusivement du rhumatologue
-- Le méthotrexate doit être pris un jour fixe de la semaine avec prise de 10 mg d'acide folique 48 heures après
+- Le méthotrexate doit être pris un jour fixe de la semaine avec prise de 10 mg d'acide folinique 48 heures après
 - Mesures associées au traitement: dépistage des [cancers](/tags/cancer/), contrôle de risque cardiovasculaire et évaluation au moins tous les 5 ans, rappels vaccinaux (dTP tous les 10 ans, pneumocoque, grippe, covid)
 
 {{%/article-summary%}}
@@ -249,7 +249,7 @@ Débuter à **15 mg** en prise unique (ou scindée en 2 doses, étude *SMART*) p
 
 ---
 
-- 10 mg/semaine d'acide folique systématique (minimum)
+- Au moins 10 mg/semaine d'acide folinique systématique ([Folinoral 5 mg](https://bdpm.ansm.sante.fr/medicament/67479020/extrait#tab-rcp), [Lederfoldine 15 mg](https://bdpm.ansm.sante.fr/medicament/66335946/extrait#tab-rcp))
 - Corticothérapie initiale associée (maximum 6 mois)
 {{%/info%}}
 
