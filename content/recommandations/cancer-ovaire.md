@@ -168,7 +168,7 @@ Comme pour tout cancer:
 - Associations de patientes  
   [imagyn](https://www.imagyn.org), [Ligue contre le cancer](https://www.ligue-cancer.net), [roseup](https://www.rose-up.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com).
 
-[Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 30 ter](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048206681): exposition à l'amiante ≥ 5 ans.
+[Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 30 ter](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048206681): [exposition à l'amiante]({{% relref "exposition-amiante.md" %}}) ≥ 5 ans.
 {.alert .alert-info}
 
 ### Pour en savoir plus sur le cancer de l'ovaire

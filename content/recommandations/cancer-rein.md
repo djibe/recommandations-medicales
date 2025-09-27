@@ -50,7 +50,7 @@ Cancer du rein
     Hémangiomes cérébelleux et rétiniens, plus de la moitié développe un cancer du rein. IRM abdominale tous les 2 ans à partir de 15 ans.
 - [Maladie professionnelle]({{% relref "maladie-professionnelle.md" %}}): exposition au trichloroéthylène ([tableau 101](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%20101))
 
-Facteurs suspectés: exposition au cadmium ou à l'amiante.
+Facteurs suspectés: exposition au cadmium ou à l'[amiante]({{% relref "exposition-amiante.md" %}}).
 
 ### Abréviations
 

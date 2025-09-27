@@ -228,7 +228,7 @@ Adresser en semi-urgence à l'équipe hospitalière d'oncologie ou pneumologie p
 Le traitement curatif du cancer bronchopulmonaire dépend de la RCP (chirurgie, radiothérapie, chimiothérapie, immunothérapie ± associées). Il doit être démarré dans les 6 semaines qui suivent la réalisation du bilan d'extension.
 
 - Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
-- Rechercher une exposition professionnelle (amiante ...)
+- Rechercher une exposition professionnelle ([amiante]({{% relref "exposition-amiante.md" %}}) ...)
   - [Tableaux des maladies professionnelles](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&motsCles=&planPatho=TABMALPRO_Cancers%2FCancer%20broncho-pulmonaire%20et%20pleural%2FCancer%20broncho-pulmonaire%2FCancer%20primitif)
   - Rédiger un certificat médical initial établissant le lien possible. C'est le patient qui l'adresse à sa CPAM pour la reconnaissance en Maladie Professionnelle.
 - [Guide patient: la prise en charge du cancer du poumon (PDF)](https://www.has-sante.fr/jcms/c_985214/fr/ald-n-30-guide-patient-la-prise-en-charge-du-cancer-du-poumon)
