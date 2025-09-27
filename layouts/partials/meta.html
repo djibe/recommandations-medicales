@@ -34,9 +34,9 @@
   {{ $metaTitle = ( printf "%s %s" (.Title | safeHTML) "| RecoMédicales" ) }}
 {{ end }}
 
-<title itemprop="name">{{ $metaTitle }}</title>
-<meta property="og:title" content="{{ .Title }}">
-<meta property="og:site_name" content="{{ $.Site.Title }}">
+<title itemprop="name">{{ $metaTitle | markdownify }}</title>
+<meta property="og:title" content="{{ .Title | markdownify }}">
+<meta property="og:site_name" content="{{ $.Site.Title | markdownify }}">
 <meta name="twitter:card" content="summary">
 <meta property="fb:page_id" content="102181682323638">
 
@@ -49,9 +49,9 @@
 {{ else }}
   {{ $metaDescription = $.Site.Params.description }}
 {{ end }}
-<meta name="description" content="{{ $metaDescription }}">
-<meta property="og:description" content="{{ $metaDescription }}">
-<meta name="twitter:description" content="{{ $metaDescription }}">
+<meta name="description" content="{{ $metaDescription | markdownify }}">
+<meta property="og:description" content="{{ $metaDescription | markdownify }}">
+<meta name="twitter:description" content="{{ $metaDescription | markdownify }}">
 
 {{- with .Params.Meta }}
 {{ printf "%s" . | safeHTML }}
