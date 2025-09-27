@@ -46,14 +46,13 @@ Chapitres liés: [contraception]({{% relref "contraception.md" %}}) et [contrace
 
 ### Épidémiologie de l'interruption volontaire de grossesse
 
-- En 2021: 208.200 IVG en métropole
-- Taux de recours de 14,9 IVG pour 1000 femmes de 15 à 49 ans en métropole (29,5 dans les DROM)  
-  Pic chez les **20-29 ans** avec 24,8 IVG/1000 femmes.
-- ⅓ des IVG est réalisé en ville
-- 76% des IVG sont médicamenteuses
-- Depuis l'autorisation de 2004: 1 IVG médicamenteuse sur 6 a lieu en libéral (soit 18.273 en 2007, 3/4 par gynécologue, 1/4 par médecin généraliste)
+- En 2024: 225.270 IVG en France (+7000 par rapport à 2023)
+- Taux de recours de 17,3 IVG pour 1000 femmes de 15 à 49 ans  
+  Pic chez les **20-29 ans** avec 29,8 IVG ‰ (29,4 ‰ en 2023).
+- 45 % des IVG est réalisées en ville
+- 80 % des IVG sont médicamenteuses
 
-{{< figure-chart title="Évolution du nombre d'interruptions de grossesse annuelles (comptant les reprises) et du ratio d'avortement France entière de 1990 à 2023. (*Drees 2024*)<br>Le ratio d'avortement correspond au rapport entre le nombre d'IVG et le nombre de naissances vivantes. Ex: en 2023, 35 IVG pour 100 naissances vivantes (*Drees 2024*)" >}}
+{{< figure-chart title="Évolution du nombre d'interruptions de grossesse annuelles (comptant les reprises) et du ratio d'avortement France entière de 1990 à 2024. (*Drees 2025*)<br>Le ratio d'avortement correspond au rapport entre le nombre d'IVG et le nombre de naissances vivantes. Ex: en 2023, 35 IVG pour 100 naissances vivantes" >}}
 
 <script>
 const chartOptions1 = {
@@ -62,21 +61,21 @@ const chartOptions1 = {
     data: [208325, 211533, 204105, 203679, 202426, 193763, 202567, 204157, 211075, 210735,
     205099, 215611, 220070, 216436, 221587, 219421, 228678, 226812, 222188, 222277,
     225836, 221970, 219148, 228984, 227055, 220319, 216189, 217416, 225162, 232999,
-    222469, 223763, 242040, 251169]
+    222469, 223763, 242040, 251169, 251270]
   },
   {
     name: 'Ratio d’avortement',
     data: [0.26, 0.27, 0.26, 0.27, 0.27, 0.26, 0.27, 0.27, 0.27, 0.27,
     0.25, 0.27, 0.28, 0.27, 0.28, 0.27, 0.28, 0.28, 0.27, 0.27,
     0.27, 0.27, 0.27, 0.28, 0.28, 0.28, 0.28, 0.28, 0.30, 0.31,
-    0.29, 0.29, 0.32, 0.35]
+    0.29, 0.29, 0.32, 0.36, 0.38]
   }],
   chart: { type: 'line', height: 320 },
   markers: { size: 0 },
   stroke: { colors: ['#4150f5', '#ffa600'], curve: 'smooth', width: 4 },
-  title: { text: 'Évolution de l’activité d’IVG en France de 1990 à 2023' },
+  title: { text: 'Évolution de l’activité d’IVG en France de 1990 à 2024' },
   xaxis: {
-    categories: [1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+    categories: [1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
     tickAmount: 7
   },
   yaxis: [
@@ -238,12 +237,12 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Vilain A, Fresson J. En 2024, 251 270 IVG ont eu lieu en France, dont 80 % sont médicamenteuses. Drees. 2025.](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/250925-ER-ivg-en-france-en-2024)
 - [Atrio JM, et al. Surgical versus medical methods for second‐trimester induced abortion. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006714.pub3/full/fr)
 - [Drees. La hausse des IVG réalisées hors établissement de santé se poursuit en 2023. Études et résultats. 2024.](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/240924_ER_Nombre_IVG)
 - [Service-Public. Interruption volontaire de grossesse (IVG). 25/04/2024.](https://www.service-public.fr/particuliers/vosdroits/F1551)
 - [HAS. Interruption volontaire de grossesse par méthode médicamenteuse - Mise à jour. 12/04/2021.](https://www.has-sante.fr/jcms/p_3223429/fr/interruption-volontaire-de-grossesse-par-methode-medicamenteuse-mise-a-jour)
 - [HAS. La HAS valide l'extension de l'IVG médicamenteuse à domicile jusqu'à 9 semaines. 10/04/2020.](https://www.has-sante.fr/jcms/p_3179352/fr/la-has-valide-l-extension-de-l-ivg-medicamenteuse-a-domicile-jusqu-a-9-semaines)
-- [Drees. 224300 interruptions volontaires de grossesse en 2018. Septembre 2019.](https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/publications/etudes-et-resultats/article/224-300-interruptions-volontaires-de-grossesse-en-2018)
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
 - [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018. (PDF)](https://cngof.fr/rpc/?x72671)
 - [HAS. Réévaluation de la stratégie de dépistage de l'infection à VIH en France. Mars 2017.](https://www.has-sante.fr/jcms/c_2024411/fr/reevaluation-de-la-strategie-de-depistage-de-l-infection-a-vih-en-france)

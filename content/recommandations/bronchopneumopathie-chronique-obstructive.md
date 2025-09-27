@@ -486,7 +486,7 @@ Avis pneumologique si exacerbations répétées ou hospitalisation avec éosinop
 Sur-risque de pneumopathie avec les corticoïdes inhalés.
 {.alert .alert-warning}
 
-### 4) Prescription spécialisée
+### 4) Prescription initiale spécialisée
 
 Triple association si GOLD groupe E avec éosinophilie: {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}.
 

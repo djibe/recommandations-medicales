@@ -32,7 +32,7 @@ Mesures d'hygiène bucco-dentaire pour la prévention des caries:
   - Réaliser/superviser le brossage des dents jusqu'à 8 ans
   - Dentifrice: teneur en fluor adaptée à l'âge (-6 ans: ≥ 1000 ppmF, 1450 ensuite), dose sur la brosse adaptée à l'âge (-3 ans: trace, petit pois jusqu'à 6 ans puis ⅓ longueur de brosse)
   - Recracher le dentifrice sans rincer la bouche
-- Suivi M'T Dents: consultation dentaire annuelle gratuite de 3 à 24 ans
+- Suivi M'T Dents tous les ans: consultation dentaire annuelle gratuite de 3 à 24 ans
 - Apports en fluor: selon avis du dentiste
 
 Fiches patient: [soins dentaires au quotidien (PDF)](https://www.ufsbd.fr/wp-content/uploads/2022/12/2022-UFSBD-fiche-conseils-patient-RECOMMANDATIONS.pdf), [le fluor (PDF)](http://www.ufsbd.fr/wp-content/uploads/2020/12/Fluor_CB_260820.pdf) et [soins dentaires du jeune enfant (PDF)](http://www.ufsbd.fr/wp-content/uploads/2018/03/JEUNE-ENFANT_Fiche-profil-PDS2018_GP_vsOK.pdf)
@@ -119,13 +119,13 @@ Gommes à mâcher contenant du xylitol après un repas quand le brossage n'est p
 
 {{%info%}}
 
-### Suivi dentaire M'T dents
+### Suivi dentaire M'T dents tous les ans
 
 Examen dentaire gratuit annuel de 3 à 24 ans et pendant la grossesse.
 
 Le bon de prise en charge est envoyé par courrier (valable 1 an) ou disponible depuis le compte Ameli (Mon espace prévention > La santé de votre enfant).
 
-> -- *[Ameli M'T dents](https://www.ameli.fr/sites/default/files/Documents/memo-facturation-chirurgien-dentiste-mt-dents-tous-les-ans.pdf)*
+> -- *[Ameli M'T dents tous les ans](https://www.ameli.fr/paris/medecin/actualites/le-programme-m-t-dents-devient-m-t-dents-tous-les-ans)*
 
 {{%/info%}}
 

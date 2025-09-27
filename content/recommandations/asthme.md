@@ -62,7 +62,7 @@ Chapitres liés: [corticoïdes inhalés]({{% relref "corticoides-inhales.md" %}}
 <div class="tab-pane fade" id="nav-asthme-suivi" role="tabpanel" aria-labelledby="nav-tab-suivi">
 
 - Traitements en cours
-- {{< modal-btn modal-score-act >}}Asthma Control Test™ (ACT){{< /modal-btn >}}
+- À partir de 12 ans: {{< modal-btn modal-score-act >}}Asthma Control Test™ (ACT){{< /modal-btn >}}
 - Observance, [technique d'inhalation](https://splf.fr/videos-zephir/) et effets indésirables
 
 </div>

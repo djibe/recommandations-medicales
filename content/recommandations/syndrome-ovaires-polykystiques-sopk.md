@@ -5,7 +5,7 @@ titleSeo = "Syndrome ovaires polykystiques SOPK"
 prefix = "le "
 description = "Recommandations pour le diagnostic et la prise en charge du syndrome des ovaires polykystiques (SOPK). Echographie pelvienne, bilan hormonal, metformine"
 longHtml = true
-synonyms = []
+synonyms = ["Syndrome des ovaires micropolykystiques"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-11T21:36:45+01:00"
 publishdate = "2023-11-16"
@@ -77,7 +77,7 @@ HGPO
 : hyperglycémie provoquée par voie orale
 
 SOPK
-: syndrome des ovaires polykystiques
+: syndrome des ovaires polykystiques (ou micropolykystiques)
 {.dl-inline}
 
 {{% /collapse %}}

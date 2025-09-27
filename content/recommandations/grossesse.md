@@ -357,6 +357,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{% rel
 - [Vaccination Info Service. Femmes enceintes. 04/06/2025.](https://professionnels.vaccination-info-service.fr/Recommandations-vaccinales-specifiques/Personnes-exposees-a-des-risques-specifiques/Femmes-enceintes)
 - [DGS-Urgent 2025_15. Modalités de mise en œuvre de la campagne d'immunisation des nourrissons et nouveau-nés contre les infections à virus respiratoire syncitial (VRS). 28/01/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
+- [Anses. (2024). Avis de l'Anses relatif à l'actualisation de l'état des connaissances sur la prévention des anomalies de fermeture du tube neural par l'acide folique (saisine 2023-SA0019). Maisons-Alfort : Anses, 29 p. (PDF)](https://www.anses.fr/system/files/NUT2023SA0019RA.pdf)
 - [Service-Public. Infections sexuellement transmissibles : gratuité du dépistage en laboratoire. 2024.](https://www.service-public.fr/particuliers/actualites/A17530)
 - [US Preventive Services Task Force. Screening for Syphilis Infection During Pregnancy: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2025.](https://jamanetwork.com/journals/jama/fullarticle/2833883)
 - [HAS. Grossesse : les vaccins recommandés. 2025.](https://www.has-sante.fr/jcms/p_3590575/fr/grossesse-les-vaccins-recommandes)

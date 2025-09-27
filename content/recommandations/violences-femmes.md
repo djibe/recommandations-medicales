@@ -212,6 +212,7 @@ Pour le médecin généraliste.: Aborder les violences, évaluer, le certificat 
 
 ### Bibliographie en attente
 
+- [van Zyl-Bonk E, et al. What deters GPs from talking about sexual assault? a qualitative interview study. British Journal of General Practice. 2025.](https://bjgp.org/content/early/2025/09/22/BJGP.2024.0761)
 - [Gouvernement. Violences au sein du couple. Document d'aide au signalement pour les professionnels de santé. Novembre 2023. (PDF)](https://sante.gouv.fr/IMG/pdf/2023_07_18_doc_d_aide_au_signalement_des_ps_vf.pdf)
 - [HAS. Repérage des femmes victimes de violences au sein du couple. Recommandation de bonne pratique. 2020.](https://www.has-sante.fr/jcms/p_3104867/fr/reperage-des-femmes-victimes-de-violences-au-sein-du-couple)
 - [HAS. Violences : repérer, protéger, accompagner.](https://www.has-sante.fr/jcms/p_3116900/fr/violences-reperer-proteger-accompagner)
