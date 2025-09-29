@@ -12,7 +12,7 @@ lastmod = "2025-08-03"
 specialites = ["infectiologie", "urologie"]
 annees = "2020"
 sources = ["HAS", "SPILF"]
-tags = ["douleur pelvienne", "fievre"]
+tags = ["douleur pelvienne", "fièvre"]
 english = ["English word", "you can add one or delete this one"]
 sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
 icd10 = ["https://mapping.ihtsdotools.org"]

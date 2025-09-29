@@ -2,7 +2,7 @@
 id = "0198ad09-ba05-7d34-95b3-a3fc6c4805bd"
 title = "Dysphagie"
 prefix = "la "
-description = "Recommendations pour le diagnostic et la prise en charge d'une dysphagie. Interrogatoire et examen clinique puis endoscopie œso-gastro-duodénale EOGD systématique"
+description = "Recommandations pour le diagnostic et la prise en charge d'une dysphagie. Interrogatoire et examen clinique puis endoscopie œso-gastro-duodénale EOGD systématique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-08-15T11:22:09+02:00"
@@ -11,7 +11,7 @@ lastmod = "2025-08-28"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2025"
 sources = ["UEG"]
-tags = ["cancer", "demence", "EOGD"]
+tags = ["cancer", "démence", "EOGD"]
 english = ["Dysphagia"]
 sctid = "40739000"
 icd10 = ["R13"]
