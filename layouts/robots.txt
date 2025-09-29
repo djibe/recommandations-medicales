@@ -32,6 +32,7 @@ User-agent: Crawlspace
 User-agent: Dark Visitor
 User-agent: DataForSeoBot
 User-agent: Datenbank Crawler
+User-agent: DeepSeekBot
 User-agent: Devin
 User-agent: Diffbot
 User-agent: DuckAssistBot
@@ -59,16 +60,19 @@ User-agent: ISSCyberRiskCrawler
 User-agent: Kangaroo Bot
 User-agent: LinerBot
 User-agent: magpie-crawler
+User-agent: meta-externalagent
 User-agent: Meta-ExternalAgent
+User-agent: meta-externalfetcher
 User-agent: Meta-ExternalFetcher
+User-agent: meta-webindexer
 User-agent: mirrorweb
 User-agent: MyCentralAIScraperBot
 User-agent: netEstate Imprint Crawler
 User-agent: Nicecrawler
 User-agent: NovaAct
 User-agent: OAI-SearchBot
-User-agent: Omgili
-User-agent: Omgilibot
+User-agent: omgili
+User-agent: omgilibot
 User-agent: OpenAI
 User-agent: Operator
 User-agent: PanguBot
@@ -89,6 +93,7 @@ User-agent: SemrushBot-SWA
 User-agent: ShapBot
 User-agent: Sidetrade indexer bot
 User-agent: SummalyBot
+User-agent: TerraCotta
 User-agent: The Knowledge AI
 User-agent: Thinkbot
 User-agent: TikTokSpider
