@@ -91,12 +91,12 @@ Le diagnostic de laryngite aiguë de l'adulte est **clinique**, le plus souvent 
 
 Les autres laryngites de l'adulte sont:
 
-- Laryngite sous-glottique (laryngo-trachéo-bronchite ou << croup >> vrai): exceptionnelle
+- **Laryngite sous-glottique** (laryngo-trachéo-bronchite ou << croup >> vrai): exceptionnelle
   - Installation progressive après infection virale nasopharyngée
   - Toux aboyante, voix rauque, dysphonie
   - Surinfection fréquente à pneumocoque ou *Haemophilus* aggravant la dyspnée aux 2 temps respiratoires
   - Gravité selon la **dyspnée** et la **dysphagie** associées
-- Épiglottite: déglutition douloureuse voire impossible, dysphonie, fièvre voire signes de détresse respiratoire. Urgence médicale
+- **Épiglottite**: déglutition douloureuse voire impossible, dysphonie, fièvre voire signes de détresse respiratoire. Urgence médicale
 
 {{% /collapse %}}
 {{%collapse "Examen du patient" %}}
@@ -150,10 +150,10 @@ La prise en charge de la laryngite aiguë non grave associe:
 - Arrêt du tabac
 - Antalgie simple: paracétamol
 - Humidification de l'air
-- Laryngite glottique:
+- **Laryngite glottique:**
   - Enfant: {{< modal-btn modal-ttt-csi >}}corticoïdes inhalés{{< /modal-btn >}} pendant 2-3 jours
   - Adulte: aérosols de corticoïdes possibles, avis ORL en l'absence d'amélioration sous 2 semaines
-- Laryngite sous-glottique (signes laryngés intenses):
+- **Laryngite sous-glottique** (signes laryngés intenses):
   - Enfant: corticothérapie [prednisolone](https://bdpm.ansm.sante.fr/medicament/69200035/extrait#tab-rcp) 1 mg/kg/j pendant 1 à 3 jours (ou ~~dexaméthasone~~ 0,6 mg/kg/j, ou [bétaméthasone](https://bdpm.ansm.sante.fr/medicament/63094301/extrait#tab-rcp) 0,25 mg/kg/j soit 20 gtes/kg/j -- *Duodecim*)  
     avec corticoïde inhalé budésonide (max 2 mg) pendant 3 à 5 jours
   - Nourrisson < 6 mois ou récidives (≥ 2 épisodes/an): nasofibroscopie, avis pneumopédiatrique avant 3 ans (asthme ++)
@@ -177,9 +177,6 @@ Récidives de laryngite: rechercher un [reflux gastro-œsophagien]({{% relref "r
 ### Bibliographie en attente
 
 - [Gupta G, Mahajan K. Acute Laryngitis. StatPearls. 2022.(https://www.ncbi.nlm.nih.gov/books/NBK534871/)
-- [Allard-Bain L. État des lieux de la prise en charge des laryngites aiguës sous-glottiques aux urgences pédiatriques dans les
-centres hospitalo-universitaires de France. Sciences du Vivant. 2017.](https://dumas.ccsd.cnrs.fr/dumas-01561623v1/document)
-- [Schultz P, et al. Laryngites aiguës de l'adulte. EMC. 2001.](https://www.em-consulte.com/article/1313/laryngites-aigues-de-l-adulte)
 
 Mot-clé: trachéite
 

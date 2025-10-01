@@ -273,7 +273,7 @@ Cible de TSH chez +65 ans: valeurs hautes de l'intervalle et toujours > 1 mUI/L.
 
 #### Spécialités de lévothyroxine disponibles
 
-- {{%class%}}Euthyrox® (ancienne formulation de Lévothyrox®, arrêt fin 2025){{%/class%}}
+- Euthyrox® (ancienne formulation de Lévothyrox®, arrêt fin 2028)
 - **L-Thyroxin Henning®**  
   Doses: 25, 50, 63, 75, 88, 100, 112, 125, 137, 150, 175 ou 200 µg.
 - **Lévothyrox®**  

@@ -108,7 +108,7 @@ Pour plus d'informations sur les vaccinations, dont les obligations, voir le cha
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
 | 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
 | 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>Nimenrix, MenQuadfi, Menveo (pas d'aiguille)           |
-| 15-24 ans  | Méningo B si souhait de vaccination                  | Bexsero, Trumenba                                                         |
+| 15-24 ans  | Méningo B si souhait de vaccination<br>Rattrapage méningo ACWY | Bexsero, Trumenba <br> Nimenrix, MenQuadfi, Menveo (pas d'aiguille) |
 {{< /table >}}
 
 **Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours avec pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles. Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)

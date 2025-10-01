@@ -17,7 +17,7 @@ english = ["Button battery ingestion (BBI)"]
 sctid = ""
 icd10 = ["W80", "W80.9"]
 image = true
-imageSrc = "Fille de 20 moins amenée par son père aux Urgences pour ingestion de pile bouton. Cas d'Ashmitha Kumar, Radiopaedia.org, rID: 164310"
+imageSrc = "Radiographie thoracique révélant une pile bouton enclavée dans l'œsophage d'une fille de 20 moins amenée par son père aux Urgences pour ingestion de pile plate. Cas d'Ashmitha Kumar, Radiopaedia.org, rID: 164310"
 todo = "flow"
 +++
 
@@ -146,7 +146,10 @@ En cas de lésions œsophagiennes sévères, surveiller à distance les signes d
 {{%sources%}}
 
 - [Société de toxicologie clinique. Diagnostic et prise en charge des enfants ayant ingéré une pile bouton ou une pile plate. Label HAS. 2022.](https://www.has-sante.fr/jcms/p_3165810/fr/label-diagnostic-et-prise-en-charge-des-enfants-ayant-ingere-une-pile-bouton-ou-une-pile-plate)
-- [European Society for Paediatric Gastroenterology Hepatology and Nutrition (ESPGHAN). Button Battery Ingestion in Childhood. (PDF)](https://espghan.info/files/EM011875_ESPGHAN_Button_Battery_Advice_Guide_211126_v3_NMA.pdf)
 - {{< references/aderim >}}
+
+### Bibliographie en attente
+
+[Mubarak A, et al. Diagnosis, Management, and Prevention of Button Battery Ingestion in Childhood: A European Society for Paediatric Gastroenterology Hepatology and Nutrition Position Paper. J Pediatr Gastroenterol Nutr. 2021.](https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003048)
 
 {{%/sources%}}

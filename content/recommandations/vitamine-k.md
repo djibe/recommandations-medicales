@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-17T20:27:29+02:00"
 publishdate = "2020-07-17"
-lastmod = "2022-11-08"
+lastmod = "2025-09-29"
 specialites = ["pédiatrie", "thérapeutique"]
 annees = "2015"
 sources = ["SFNeonat"]
@@ -18,23 +18,31 @@ icd10 = ["E56.1", "P61.6"]
 atc = "B02BA"
 image = false
 imageSrc = ""
-todo = "rankok, SEO 'vitamine k1 nourrisson'"
+todo = "rankok"
 +++
 
 {{%article-summary%}}
 
-Supplémentation systématique en Vitamine K (K1) 2 mg/0,2 mL, 1 ampoule par voie orale à 4 heures, 4 jours et 4 semaines
+Supplémentation systématique du nouveau-né en Vitamine K (K1) 2 mg/0,2 mL, 1 ampoule par voie orale à 4 heures, 4 jours et 4 semaines
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Vitamine K1
-: La vitamine K prévient la **maladie hémorragique du nouveau-né (MHN)**, qui est maximale après la première semaine de vie et entraîne des hémorragies digestives ou des hématomes aux points de ponction.
+: La vitamine K1 prévient la **maladie hémorragique du nouveau-né (MHN)**, qui est maximale après la première semaine de vie et entraîne des hémorragies digestives ou des hématomes aux points de ponction.
+
+### Abréviations
+
+MHN
+: maladie hémorragique du nouveau-né
+
+VK
+: vitamine K
 
 {{% /collapse %}}
 {{%collapse "Facteurs de risque de la maladie hémorragique du nouveau-né" %}}
 
-Liste des facteurs de risque de maladie hémorragique:
+Facteurs de risque de maladie hémorragique du nouveau-né:
 
 - Prématurité
 - Asphyxie périnatale
@@ -43,20 +51,20 @@ Liste des facteurs de risque de maladie hémorragique:
 - Médicament chez la mère perturbant la vitamine K
 
 {{% /collapse %}}
-{{%collapse "Prévention par la vitamine K" %}}
+{{%collapse "Prévention de la MHN par la vitamine K" %}}
 
-Administration de vitamine K à 4 heures - 4 jours - 4 semaines
+Administration de vitamine K1 à 4 heures - 4 jours - 4 semaines
 {.alert .alert-info}
 
-**Prescrire**: 1 ampoule de vitamine K1 2 mg/0,2 mL nourrissons buvable à 4 heures, 4 jours et 4 semaines.
+**Prescrire**: 1 ampoule de [vitamine K1 2 mg/0,2 mL nourrissons](https://bdpm.ansm.sante.fr/medicament/64337140/extrait#tab-rcp) buvable à 4 heures, 4 jours et 4 semaines.
 
-### Supplémentation en vitamine K de l'enfant né à terme
+### Supplémentation en vitamine K1 du nourrisson né à terme
 
-En cas de sortie précoce de maternité (48 heures), la deuxième ampoule peut être administrée avant la sortie.
+En cas de **sortie précoce** de la maternité (sous 48 heures), la deuxième ampoule peut être administrée avant la sortie de l'établissement.
 
-En cas d'allaitement artificiel, la troisième ampoule n'est pas obligatoire.
+En cas d'**allaitement artificiel**, la troisième ampoule n'est pas obligatoire.
 
-### Autres situations pour la supplémentation en vitamine K
+### Autres situations pour la supplémentation en vitamine K du nourrisson
 
 La première ampoule doit être administrée durant la 1^re^ heure de vie (cf. tableau ci-dessous).
 
