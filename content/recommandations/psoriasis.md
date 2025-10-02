@@ -23,18 +23,18 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le psoriasis est le plus souvent un psoriasis en plaques: plaques érythémato-squameuses bien limitées avec couche squameuse et lésions multiples quasi symétriques
+- Le psoriasis est une dermatose inflammatoire évoluant le plus souvent << en plaques >>: plaques érythémato-squameuses bien limitées avec couche squameuse et lésions multiples quasi symétriques
 - Les localisations préférentielles du psoriasis sont celles de frottement: coudes, genoux, jambes, lombo-sacrée et fesses, cuir chevelu, ongles, paumes et plantes
 - La prise en charge du psoriasis comporte des mesures d'hygiène et générales: arrêt tabac et alcool, correction d'un surpoids et du risque cardiovasculaire, émollients, soutien psychologique
 - Le traitement du psoriasis comprend: {{< modal-btn modal-dc >}}dermocorticoïdes{{< /modal-btn >}} et analogues de la vitamine D combinés si nécessaire
-- Un traitement par voie générale (méthotrexate, ciclosporine, biothérapie) doit être proposé si: psoriasis > 10% de la surface corporelle (1% = 1 paume de main), score PASI ou {{< modal-btn modal-score-dlqi >}}DLQI{{< /modal-btn >}} > 10, retentissement marqué sur la qualité de vie. Le traitement relève uniquement du dermatologue
+- Un traitement par voie générale (méthotrexate, ciclosporine, biothérapie) doit être proposé si: psoriasis > 10 % de la surface corporelle (1 % = 1 paume de main), score PASI ou {{< modal-btn modal-score-dlqi >}}DLQI{{< /modal-btn >}} > 10, retentissement marqué sur la qualité de vie. Le traitement relève uniquement du dermatologue
 - En cas de doute diagnostique ou de psoriasis résistant: avis du dermatologue et sérologies syphilis et VIH
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Psoriasis
-: Dermatose chronique inflammatoire érythémato-squameuse d'origine inconnue avec prédisposition génétique. Elle débute le plus souvent à l'adolescence ou chez l'adulte jeune et atteint 2% des Français.
+: Dermatose chronique inflammatoire érythémato-squameuse d'origine inconnue avec prédisposition génétique. Elle débute le plus souvent à l'adolescence ou chez l'adulte jeune et atteint 2 % des Français.
 : Les complications du psoriasis sont psychologiques, infectieuses par surinfection (mycosique ++) et eczématisation.
 
 La lésion élémentaire du psoriasis est:
@@ -238,7 +238,7 @@ Il est recommandé de proposer un traitement systémique pour un psoriasis modé
 
 Les biothérapies doivent être débutées après l'échec de 2 traitements systémiques (méthotrexate, ciclosporine, photothérapie).
 
-Les traitements systémiques relèvent uniquement du dermatologue:
+Les traitements systémiques du psoriasis relèvent uniquement du dermatologue:
 
 - **Photothérapie**: PUVAthérapie, **photothérapie UVB à spectre étroit**, rePUVA, acitrétine et UVB, photothérapie localisée
 - Rétinoïde (acitrétine)
@@ -246,7 +246,7 @@ Les traitements systémiques relèvent uniquement du dermatologue:
 - Biothérapie
   - Anti-TNFα: étanercept, infliximab, **adalimumab** ({{< traitements/adalimumab >}}), certolizumab
   - IL-12 et IL-23: **ustékinumab** (Stelara®, Uzpruvo®)
-  - IL-17: sécukinumab, ixékizumab, brodalumab, bimékizumab
+  - **IL-17**: sécukinumab, ixékizumab, brodalumab, bimékizumab
   - IL-23: guselkumab, rizankizumab, tildrakizumab
 
 Les traitements privilégiés sont en **gras**. La réévaluation du traitement général par le dermatologue doit être au moins semestrielle.
@@ -266,6 +266,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Sbidian E, et al. Systemic pharmacological treatments for chronic plaque psoriasis: a network meta‐analysis. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011535.pub7/full/fr)
 - [Collège des enseignants de dermatologie de France (CEDEF). Psoriasis. Item 117. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-117-%E2%80%94-Psoriasis_CompressPdf.pdf)
 - Prescrire Redaction. Psoriasis médicamenteux. Rev Prescrire. 2023.
 - Prescrire Redaction. Patients atteints de psoriasis. Rev Prescrire. 2023.
