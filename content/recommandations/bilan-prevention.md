@@ -87,7 +87,7 @@ todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
 <div aria-labelledby="tab-18" class="tab-pane fade show active" id="div-18" role="tabpanel">
 
 - Troubles anxieux et [dépressifs]({{% relref "depression.md" %}}): ({{< modal-btn modal-adrs >}}questionnaire ADRS{{< /modal-btn >}} jusqu'à 20 ans puis {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}})
-- Troubles du comportement alimentaire ({{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}})
+- Troubles des conduites alimentaires (TCA avec le {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}})
 - Dépistage des IST si rapports non protégés, éducation
 - Chez la femme:
   - Sexuellement active de 15 à 25 ans: prélèvement vaginal pour PCR des IST

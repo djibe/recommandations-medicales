@@ -202,7 +202,7 @@ La prise en charge de la maladie de Horton relève du spécialiste de centre de 
   - Hypertension artérielle: cible < 130/80 mmHg  
     Si tolérée chez le +65 ans, sinon 140/80 voire plus laxe après 80 ans.
 - Vaccins: [grippe]({{% relref "grippe.md" %}}), [Covid-19]({{% relref "covid-19.md" %}}), {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}}
-- Information du patient: [document France vascularites (PDF)](https://www.association-vascularites.org/images/fiches_individuelles_vascularites/fiche_ACG_v05_10_2020.pdf), [site de la fai2r](https://www.fai2r.org/les-pathologies-rares/maladie-de-horton-pseudo-polyarthrite-rhizomelique/)
+- Information du patient: [document France vascularites (PDF)](https://www.association-vascularites.org/images/fiches_individuelles_vascularites/fiche_ACG_v05_10_2020.pdf), [site de la FAI2R](https://www.fai2r.org/les-pathologies-rares/maladie-de-horton-pseudo-polyarthrite-rhizomelique/)
 - Association de patients: [France Vascularites](http://www.association-vascularites.org)
 
 ### Pour en savoir plus: Corticothérapie de la maladie de Horton
@@ -250,7 +250,7 @@ Des **rechutes** tardives (10 ans) de la maladie de Horton sont possibles.
 - [de Boysson H, et al; Filière des maladies auto-immunes et auto-inflammatoires rares, Groupe d'Étude Français des Artérites des gros vaisseaux (GEFA). Artérite à Cellules Géantes (Horton). PNDS. 2024.](https://www.has-sante.fr/jcms/c_2789359/fr/arterite-a-cellules-geantes-horton)
 - Collège National des Enseignants de Médecine Interne (CEMI). Artérite à cellules géantes. Référentiel Collège de Médecine interne R2C. 2021.
 - [Collège Français des Enseignants en Rhumatologie (COFER). Artérite à cellules géantes. Item 195 UE 8. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-16-0.php)
-- [fai2r](https://www.fai2r.org/les-pathologies-rares/maladie-de-horton-pseudo-polyarthrite-rhizomelique/)
+- [FAI2R. Artérite à cellules géantes (Horton) et Pseudo-Polyarthrite Rhizomélique.](https://www.fai2r.org/les-pathologies-rares/maladie-de-horton-pseudo-polyarthrite-rhizomelique/)
 
 Mot-clé: artérite giganto-cellulaire
 

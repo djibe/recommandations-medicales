@@ -381,7 +381,7 @@ La prise en charge de l'obésité associe:
   - Estime de soi, confiance en soi, culpabilité, isolement, perte de motivation
   - Hypertension artérielle: privilégier IEC/ARA2 et anticalciques avant les bêtabloquants et thiazidiques
 - Programmes d'**éducation thérapeutique** locaux
-- Troubles du comportement alimentaire: psychologue, psychiatre, diététicien
+- Troubles des conduites alimentaires: psychologue, psychiatre, diététicien
 - Handicap: ergothérapeute
 - Autres intervenants: psychologue, psychiatre, médecin du travail, travailleur social
 - Associations de patients: [Collectif National des Associations d'Obèses (CNAO)](https://cnao.fr)

@@ -19,7 +19,7 @@ sctid = "26929004"
 icd10 = ["G30", "G30.9", "F00", "F03"]
 image = true
 imageSrc = "Lésions cérébrales de la maladie d'Alzheimer. derivative work: Garrondo: ADEAR: Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging, Public domain, via Wikimedia Commons"
-todo = "biblio IADL simplifiée"
+todo = "biblio IADL simplifiée | symptômes dont brouillard"
 flowchart = true
 +++
 
@@ -101,9 +101,10 @@ Demander l'accord pour interroger un accompagnant.
 - Niveau d'études et professions exercées
 - Mode de vie: domestique, sociale, familiale, aidants
 - Symptômes, installation (rapidité, brutalité)
-- Chutes et {{< modal-btn modal-risque-chute >}}facteurs de risque de chute{{< /modal-btn >}}
-- {{< modal-btn modal-mna >}}Dépister une dénutrition{{< /modal-btn >}}
-- {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
+- Recherche de fragilités
+  - Chutes et {{< modal-btn modal-risque-chute >}}facteurs de risque de chute{{< /modal-btn >}}
+  - {{< modal-btn modal-mna >}}Dépister une dénutrition{{< /modal-btn >}}
+  - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 - Comportement pendant l'examen et dans la vie quotidienne  
   Troubles du sommeil, apathie, syndrome dépressif, hyperémotivité, irritabilité, agressivité, hallucinations, idées délirantes.
 - Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}, {{< modal-btn modal-gds15 >}}échelle Geriatric Depression Scale GDS-15{{< /modal-btn >}}
