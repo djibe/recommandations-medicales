@@ -139,7 +139,7 @@ Signes et symptômes cliniques d'une anémie:
   Transfusions, dons de sang, [chirurgie de l'obésité]({{% relref "obesite-adulte.md" %}}) ou gastrique, traumatismes, insuffisance cardiaque ou rénale.
 - Traitements en cours  
   AINS, anticoagulants ou IPP au long cours.
-- Régime alimentaire, {{< modal-btn modal-scoff >}}troubles du comportement alimentaire{{< /modal-btn >}}
+- Régime alimentaire, {{< modal-btn modal-scoff >}}troubles des conduites alimentaires{{< /modal-btn >}} (TCA)
 - Consommation de thé
 - Pertes sanguines
   - Gynécologiques: grossesse, [contraception]({{% relref "contraception.md" %}}), méno-métrorragies
@@ -163,7 +163,7 @@ Bilan d'une *carence martiale isolée* chez des sujets sans pertes physiologique
 Examens recommandés pour la prise en charge d'une anémie (réaliser dans l'ordre):
 
 - BU, ECBU
-- ± Recherche de [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (à tout âge, 3-5 %)
+- Si carence martiale chronique, anémie inexpliquée: recherche de [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}})  
   IgA totales + IgA anti-transglutaminase.
 - Électrophorèse de l'hémoglobine  
   Indication: ferritinémie normale chez sujet originaire d'Asie-Afrique-Méditerranée, avant bilan endoscopique.
@@ -242,9 +242,11 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [Guideline on haemoglobin cutoffs to define anaemia in individuals and populations. Geneva: World Health Organization; 2024. (PDF)](https://iris.who.int/bitstream/handle/10665/376196/9789240088542-eng.pdf?sequence=1)
 - [HCSP. Avis relatif à la couverture des besoins de la population générale en vitamine D et en fer. 21/06/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1251)
 - [Snook J, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut. 2021.](https://gut.bmj.com/content/70/11/2030)
+- [Husby S, et al. European Society Paediatric Gastroenterology, Hepatology and Nutrition Guidelines for Diagnosing Coeliac Disease 2020. J Pediatr Gastroenterol Nutr. 2020.](https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000002497)
 - [Santé Publique France. Étude de santé sur l'environnement, la biosurveillance, l'activité physique et la nutrition (Esteban) 2014-2016. Volet Nutrition. Chapitre Dosages biologiques : vitamines et minéraux. 2019.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/rapport-synthese/etude-de-sante-sur-l-environnement-la-biosurveillance-l-activite-physique-et-la-nutrition-esteban-2014-2016-.-volet-nutrition.-chapitre-dosages)
 - Rouillon JM. Prise en charge de l'anémie ferriprive. SNFGE. 2018.
 - [OMS. Concentrations en hémoglobine permettant de diagnostiquer l'anémie et d'en évaluer la sévérité. Système d'informations nutritionnelles sur les vitamines et les minéraux. 2011.](https://www.who.int/fr/publications-detail/WHO-NMH-NHD-MNM-11.1)

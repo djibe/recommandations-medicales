@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-30T17:16:57+01:00"
 publishdate = "2024-02-01"
-lastmod = "2024-02-01"
+lastmod = "2025-10-03"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2021"
 sources = ["PNDS"]
@@ -25,7 +25,7 @@ todo = "flow"
 - L'hépatite auto-immune (HAI) est rare, possible à tout âge et principalement chez les femmes
 - Elle doit être recherchée devant toute cytolyse chronique non virale
 - Elle est pauci-symptomatique: fatigue, inconfort abdominal, arthralgies ...
-- Le bilan diagnostique initial de l'hépatite auto-immune comprend: bilan hépatique et du cuivre, TP, sérologies des hépatites, électrophorèse des protéines et dosage des IgG, anticorps anti-nucléaires et anti-muscle lisse, échographie abdominale
+- Le bilan diagnostique initial de l'hépatite auto-immune comprend: bilan hépatique et du cuivre, TP, sérologies des hépatites, électrophorèse des protéines et dosage des IgG, anticorps anti-nucléaires et anti-muscle lisse, sérologie cœliaque, échographie abdominale
 - Adresser avec le bilan au gastro-entérologue d'un centre de compétence de prise en charge de l'hépatite auto-immune ([annuaire des centres de compétence](https://www.filfoie.com/ou-consulter/carte-interactive/?fwp_type_de_public=adulte&fwp_rseau_centre=mivb-h)). La ponction-biopsie hépatique est systématique
 - Le traitement initial de l'hépatite autoimmune est une corticothérapie relayée par l'azathioprine à vie
 
@@ -119,6 +119,7 @@ Signes et symptômes à rechercher en cas de suspicion d'hépatite auto-immune (
 - Dosage des IgG (IgG augmentées pour 90 %)
 - Anticorps anti-nucléaires (AAN) par IFI
 - Anticorps anti-muscle lisse (AML, 40%) ≥ 1/40
+- Sérologie cœliaque: IgA anti-transglutaminase, IgA totales (*ESsCD*)
 - Échographie abdominale
 - Si doute: [TSH](/tags/tsh/), anticorps anti-TPO
 
@@ -138,11 +139,11 @@ L'objectif du traitement de l'hépatite auto-immune est d'obtenir une rémission
 
 Mesures générales de prise en charge de l'hépatite autoimmune:
 
-- Déclarer l'[ALD n°6]({{% relref "affection-longue-duree.md" %}}) en cas de cirrhose ou syndrome de chevauchement ou une **ALD 31** à défaut
 - Suivi spécialisé régulier (minimum semestriel)
 - Vaccins: Covid-19, grippe, pneumocoque, VHA, VHB et rappel dTPolio tous les 10 ans
 - Information du patient: [guide AFEF](https://afef.asso.fr/hepatite-auto-immune/)
 - Association de patients: [albi France](https://albi-france.org) et [association maladies foie enfants (AMFE)](https://www.amfe.fr)
+- Déclarer l'[ALD n°6]({{% relref "affection-longue-duree.md" %}}) en cas de cirrhose ou syndrome de chevauchement ou une **ALD 31** à défaut
 
 ### Pour en savoir plus: les traitements de l'hépatite auto-immune
 
@@ -155,6 +156,7 @@ Le suivi de l'hépatite auto-immune est spécialisé et dépend de l'activité d
 {{% /collapse %}}
 {{%sources%}}
 
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [Centre de Référence Constitutif des Maladies Inflammatoires des Voies Biliaires et Hépatites Auto-Immunes; Filfoie. Hépatite Auto-immune. PNDS. 2021.](https://www.has-sante.fr/jcms/p_3291664/fr/hepatite-auto-immunes-hai)
 - [Filfoie. Hépatite auto-immune.](https://www.filfoie.com/glossary/hepatite-auto-immune-2/)
 - [SNFGE. Hépatite auto-immune](https://www.snfge.org/grand-public/maladies-digestives/hepatite-auto-immune)

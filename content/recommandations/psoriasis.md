@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2023-10-05T11:12:30+02:00"
 publishdate = "2023-10-10"
-lastmod = "2023-12-08"
+lastmod = "2025-10-03"
 specialites = ["dermatologie"]
 annees = "2018"
 sources = ["SFD"]
@@ -161,7 +161,7 @@ Il est périphérique ou axial avec atteinte fréquente de: enthèses, interphal
 
 Le diagnostic de psoriasis est **clinique**. En cas de doute diagnostique, adresser au dermatologue pour envisager une **biopsie cutanée**.
 
-### Bilan devant un psoriasis
+### Bilan d'un psoriasis
 
 - Bilan lipidique et glycémie à jeun
 - [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (*ESsCD*)
@@ -267,6 +267,7 @@ graph TB
 {{%sources%}}
 
 - [Sbidian E, et al. Systemic pharmacological treatments for chronic plaque psoriasis: a network meta‐analysis. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011535.pub7/full/fr)
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [Collège des enseignants de dermatologie de France (CEDEF). Psoriasis. Item 117. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-117-%E2%80%94-Psoriasis_CompressPdf.pdf)
 - Prescrire Redaction. Psoriasis médicamenteux. Rev Prescrire. 2023.
 - Prescrire Redaction. Patients atteints de psoriasis. Rev Prescrire. 2023.

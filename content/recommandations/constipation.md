@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-08-28T10:44:20+02:00"
 publishdate = "2023-09-15"
-lastmod = "2023-11-23"
+lastmod = "2025-10-03"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2018"
 sources = ["SNFGE", "SNFCP"]
@@ -25,10 +25,10 @@ flowchart = true
 
 - La constipation est définie par les critères de Rome IV avec au moins 2 des symptômes suivants depuis au moins 6 mois: selles peu fréquentes (moins de 3 par semaine), selles dures, efforts de poussée, sensation d'évacuation incomplète, sensation de blocage ano-rectal, manœuvres digitales ou autres pour faciliter l'exonération
 - L'examen clinique chez le constipé recherche des signes de constipation organique et des signes d'alarme (AEG, rectorragies après 50 ans)
-- Le bilan élimine une cause métabolique et une anémie: NFS, CRP, glycémie à jeun voire d'autres examens
-- Coloscopie si apparition ou modification récente des symptômes après 50 ans, AEG, rectorragies ou anémie, risque élevé de cancer colorectal
+- Le bilan d'une constipation chronique élimine une cause métabolique, une anémie et une maladie cœliaque: NFS, CRP, glycémie à jeun, sérologie cœliaque ± TSH ...
+- Compléter avec une coloscopie si apparition ou modification récente des symptômes après 50 ans, AEG, rectorragies ou anémie, risque élevé de cancer colorectal
 - La prise en charge de la constipation associe des mesures hygiéno-diététiques (apports en fibres 25 g/j, adaptation des traitements) et des traitements laxatifs osmotiques (macrogol) et/ou de lest (ispaghul) en première intention
-- Suppositoires et lavements en cas de constipation terminale (dyschésie)
+- Recours aux suppositoires et lavements en cas de constipation terminale (dyschésie)
 
 Chapitre lié: [syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}})
 
@@ -63,6 +63,8 @@ SNFGE
 
 ### Interrogatoire
 
+Éléments à rechercher à l'interrogatoire pour une constipation:
+
 - Antécédents
   - [Syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}), [hypothyroïdie]({{% relref "hypothyroidie.md" %}}), neurologique ([Parkinson]({{% relref "maladie-parkinson.md" %}}), SEP, [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}) ...), [prolapsus génital]({{% relref "prolapsus-genital-femme.md" %}}) ...
   - Enfant: retard d'émission du méconium (> 48 heures), [énurésie primaire]({{% relref "enuresie-primaire.md" %}})
@@ -71,7 +73,7 @@ SNFGE
   Fer, antalgiques, antidiarrhéiques, anticholinergiques, antidépresseur, furosémide ...
 - Régime alimentaire, apports hydriques
 - Dépistages des cancers recommandés
-- Transit
+- Transit intestinal:
   - Ancienneté des troubles
   - Rythme hebdomadaire (calendrier des selles)
   - Consistance [type 1 ou 2 selon l'échelle de Bristol](https://fr.wikipedia.org/wiki/%C3%89chelle_de_Bristol)
@@ -84,7 +86,7 @@ SNFGE
   - Douleurs abdominales
   - [Fissure anale]({{% relref "fissure-anale.md" %}}), [incontinence fécale]({{% relref "incontinence-fecale.md" %}}) ou [hémorroïdaires]({{% relref "hemorroides.md" %}})
   - Incontinence urinaire ([chapitre de l'IU de la femme]({{% relref "incontinence-urinaire-femme.md" %}}))
-- **Signes d'alarmes** (drapeaux rouges)  
+- ==**Signes d'alarmes**== (drapeaux rouges)  
   AEG, rectorragies, méléna, constipation sévère persistante et résistante sans cause évidente, syndrome rectal (épreinte, ténesme, faux besoins), masse abdominale ou rectale.
 
 ### Examen clinique
@@ -101,7 +103,7 @@ SNFGE
 
 ### Bilan d'une constipation
 
-Le bilan vise à éliminer une cause métabolique et une [anémie]({{% relref "anemie.md" %}}) chez l'adulte:
+Le bilan d'une constipation chronique vise à éliminer une cause métabolique, une [anémie]({{% relref "anemie.md" %}}) et une [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (adulte et enfant):
 
 - NFS, CRP
 - Glycémie à jeun
@@ -109,8 +111,7 @@ Le bilan vise à éliminer une cause métabolique et une [anémie]({{% relref "a
 - ± Créatininémie, ionogramme sanguin
 - ± Calcémie
 - ± Ferritine (NDLR)
-
-Recherche de [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) selon le tableau clinique.
+- IgA anti-transglutaminase, IgA totales (*ESsCD*, *ESPGHAN*)
 
 ### Coloscopie
 
@@ -175,8 +176,10 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - {{< references/college-gastro >}}
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Constipation. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/constipation)
+- [Husby S, et al. European Society Paediatric Gastroenterology, Hepatology and Nutrition Guidelines for Diagnosing Coeliac Disease 2020. J Pediatr Gastroenterol Nutr. 2020.](https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000002497)
 - [Mion F. Constipation. Conseil de pratique. SNFGE et GFNG. 2018. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp035-constipation_2018.pdf)
 - [SNFCP. Prise en charge de la CONSTIPATION - version courte. Recommandations pour la pratique clinique. 2017. (PDF)](https://www.snfcp.org/wp-content/uploads/2017/Recommandations/Constipation-RPC-TC-2017.pdf)
 

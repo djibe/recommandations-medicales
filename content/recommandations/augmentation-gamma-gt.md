@@ -124,6 +124,8 @@ En cas de cholestase (PAL et gammagt augmentées), compléter le bilan avec:
 - Anticorps anti-mitochondries
 - Anticorps anti-nucléaires (AAN)
 
+Lorsque le bilan n'est pas contributif, compléter avec une [sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}): IgA anti-transglutaminase et IgA totales.
+
 Adresser au gastro-entérologue pour évaluation.
 
 {{% /collapse %}}
@@ -138,7 +140,7 @@ En cas de bilan étiologique négatif, contrôle semestriel du bilan hépatique 
 
 {{< mermaid title="Prise en charge d'une augmentation de la Gamma-GT par le médecin généraliste. Dr JB Fron d'après SNFGE et BSG" >}}
 graph TB
-  augmentation["<b>Augmentation des Gamma GT</b>"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents: hépatiques,<br>métaboliques et familiaux<br>- Traitements<br>- Alcool et toxiques<br>- Expositions aux hépatites<br>et professionnelles<br>- Résultats antérieurs<br>- Symptômes<br>- Examen clinique") --> bilan("<b>Bilan</b><br>—<br>- NFS<br>- Bilan hépatique<br>- Ferritinémie<br>- Ag HBs, sérologie VHC<br>- Glycémie à jeun<br>- Bilan lipidique<br>- Échographie abdominale") --> gastro(Gastro-entérologue)
+  augmentation["<b>Augmentation des Gamma GT</b>"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents: hépatiques,<br>métaboliques et familiaux<br>- Traitements<br>- Alcool et toxiques<br>- Expositions aux hépatites<br>et professionnelles<br>- Résultats antérieurs<br>- Symptômes<br>- Examen clinique") --> bilan("<b>Bilan</b><br>—<br>- NFS<br>- Bilan hépatique<br>- Ferritinémie<br>- Ag HBs, sérologie VHC<br>- Glycémie à jeun<br>- Bilan lipidique<br>- Échographie abdominale<br>- Sérologie cœliaque") --> gastro(Gastro-entérologue)
   bilan -- "Cholestase:<br>PAL + GGT élevées" --> anticorps("Compléter avec anticorps:<br>muscle lisse, mitochondries<br>et anti-nucléaires") --> gastro
   style augmentation stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
@@ -146,8 +148,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [Rouillon JM. Élévation isolée de la γ-GT. SNFGE. 2018. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/recommandations/elevation_isolee_0.pdf)
-- [Newsome PN et al; BSG. Guidelines on the management of abnormal liver blood tests. Gut. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5754852/)
+- [Newsome PN, et al; BSG. Guidelines on the management of abnormal liver blood tests. Gut. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5754852/)
 
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}

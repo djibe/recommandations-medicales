@@ -212,7 +212,7 @@ Causes extra-thyroïdiennes de TSH basse isolée:
 
 Seule la thyroglobuline sérique peut être utile en cas de suspicion d'hyperthyroïdie factice (prise d'hormones thyroïdiennes).
 
-Réaliser une [sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}) en cas de maladie de Basedow (*ESsCD*).
+Réaliser une **[sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}})** en cas de maladie de Basedow (*ESsCD*).
 
 {{%warning%}}
 
@@ -536,6 +536,7 @@ style haute stroke:#4150f5, stroke-width:1px
 
 {{< youtube id="r6H9DsSt1Fc" title="La thyroïde dans tous ses états (CMGF 2023)" >}}
 
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [HAS. Prise en charge des hyperthyroïdies en population générale. Recommander les bonnes pratiques. 2022.](https://www.has-sante.fr/jcms/p_3216305/fr/prise-en-charge-des-dysthyroidies-chez-l-adulte)
 - [HAS. Exploration des pathologies thyroïdiennes chez l'adulte : pertinence et critères de qualité de l'échographie, pertinence de la cytoponction échoguidée. 2021.](https://www.has-sante.fr/jcms/p_3288393/fr/exploration-des-pathologies-thyroidiennes-chez-l-adulte-pertinence-et-criteres-de-qualite-de-l-echographie-pertinence-de-la-cytoponction-echoguidee)
 - Prescrire Redaction. Maladie de Basedow chez un adulte - Premiers Choix Prescrire. Rev Prescrire. 2021.

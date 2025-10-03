@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-14T23:30:41+02:00"
 publishdate = "2020-04-14"
-lastmod = "2024-03-05"
+lastmod = "2025-10-03"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["HAS", "SFE"]
@@ -18,7 +18,7 @@ icd10 = ["E03", "E03.9", "E06"]
 image = true
 imageSrc = "Échographie montrant un lobe droit hétérogène diffus avec une vascularisation légèrement augmentée affirmant une thyroïdite d'Hashimoto chez une femme de 40 ans. Cas d'Ammar Ashraf, Radiopaedia.org, rID: 157591"
 flowchart = true
-todo = "SEO TSH élevée > hypothyroidie traitement, grossesse et hypothyroïdie, infertilité et hypothyroïdie"
+todo = "SEO réécrire + TSH élevée > hypothyroidie traitement, grossesse et hypothyroïdie, infertilité et hypothyroïdie"
 +++
 
 {{%article-summary%}}
@@ -214,7 +214,7 @@ Ne pas réaliser d'autres examens complémentaires chez la personne âgée.
 
 ### Rechercher une maladie cœliaque
 
-En cas de maladie de Hashimoto (anti-TPO positifs), rechercher une [maladie cœliaque associée]({{% relref "maladie-coeliaque.md" %}}). (*ESsCD 2019*)
+En cas de maladie de Hashimoto (anti-TPO positifs), rechercher une [maladie cœliaque associée]({{% relref "maladie-coeliaque.md" %}}). (*ESsCD*)
 
 {{%info%}}
 
@@ -418,6 +418,7 @@ graph TB
 
 {{< youtube id="Gu8imkANZL4" title="La minute RECO HAS | Hypothyroïdies : les points clés de la prise en charge (Pr Philippe Cornet)" >}}
 
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [HAS. Prise en charge des hypothyroïdies chez l'adulte. Recommander les bonnes pratiques. 2022.](https://www.has-sante.fr/jcms/p_3216305/fr/prise-en-charge-des-dysthyroidies-chez-l-adulte)
 - [ANSM. Les médicaments à base de lévothyroxine disponibles en France. 17/01/2023.](https://ansm.sante.fr/dossiers-thematiques/les-medicaments-a-base-de-levothyroxine-disponibles-en-france-1/les-medicaments-a-base-de-levothyroxine-disponibles-en-france)
 - [HAS. Exploration des pathologies thyroïdiennes chez l'adulte : pertinence et critères de qualité de l'échographie, pertinence de la cytoponction échoguidée. 2021.](https://www.has-sante.fr/jcms/p_3288393/fr/exploration-des-pathologies-thyroidiennes-chez-l-adulte-pertinence-et-criteres-de-qualite-de-l-echographie-pertinence-de-la-cytoponction-echoguidee)
@@ -425,7 +426,6 @@ graph TB
 - [Goichot B, et al; Société Française d'Endocrinologie (SFE). Management of thyroid dysfunctions in the elderly. French Endocrine Society consensus 2019. Short version. Ann Endocrinol. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S0003426620300883)
 - [Mooijaart SP, et al. Association Between Levothyroxine Treatment and Thyroid-Related Symptoms Among Adults Aged 80 Years and Older With Subclinical Hypothyroidism. JAMA. 2019.](https://jamanetwork.com/journals/jama/fullarticle/2753909)
 - [HAS. Hypothyroïdie - pertinence des soins. Mars 2019.](https://www.has-sante.fr/jcms/c_2910740/fr/pertinence-des-soins-hypothyroidie)
-- [Al-Toma A, et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. UEG Journal. 2019.](https://doi.org/10.1177%2F2050640619844125)
 - Laboureau-Soares S. et al. Hypothyroïdies acquises de l'adulte. EMC. Doi 10.1016/S1155-1941(09)50473-8.
 
 ### Bibliographie en attente

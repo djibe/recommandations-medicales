@@ -18,7 +18,7 @@ sctid = "236071009"
 icd10 = ["K52", "K52.9"]
 image = true
 imageSrc = "Illustration des diarrhées chroniques par brgfx / Freepik"
-todo = "CDU-HGE p144, SEO, SeHCAT"
+todo = "rankok | CDU-HGE p144, SEO, SeHCAT"
 flowchart = true
 +++
 
@@ -249,6 +249,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
+- [Husby S, et al. European Society Paediatric Gastroenterology, Hepatology and Nutrition Guidelines for Diagnosing Coeliac Disease 2020. J Pediatr Gastroenterol Nutr. 2020.](https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000002497)
 - [Arasaradnam RP et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut. 2018.](https://gut.bmj.com/node/219278.full)
 - [Tarrerias AL et al. Régime alimentaire en cas de diarrhées. CREGG. 2010. (PDF)](https://www.cregg.org/wordpress/wp-content/uploads/2012/06/documents-tinymce-00004-fiche-diarrhe.pdf)
 - [SNFGE. Diarrhée chronique.](https://www.snfge.org/grand-public/maladies-digestives/diarrhee-chronique)

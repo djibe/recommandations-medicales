@@ -9,10 +9,10 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr C. CORPECHOT (Filfoie)"
 date = "2024-01-30T10:45:25+01:00"
 publishdate = "2024-01-30"
-lastmod = "2025-06-19"
+lastmod = "2025-10-03"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2021"
-sources = ["AASLD", "SNFGE", "AFEF", "EASL"]
+sources = ["AASLD", "SNFGE", "AFEF"]
 tags = ["EPS", "fatigue", "prurit", "vitamine d"]
 english = ["Primary biliary cholangitis (PBC)", "primary biliary cirrhosis"]
 sctid = "31712002"
@@ -152,6 +152,7 @@ Signes et symptômes à rechercher en cas de suspicion de cholangite biliaire pr
 - Si sérologies virales négatives et échographie normale:
   - Anticorps anti-mitochondries (AAM) > 1/40 (90%)
   - Si AAM négatifs: anticorps anti-nucléaires spécifiques: anti-sp100 et anti-gp210 (30%, *EASL 2017*)
+  - Sérologie cœliaque: IgA anti-transglutaminase, IgA totales (*ESsCD*)
 {{%/info%}}
 
 Si les anticorps sont négatifs et que l'accès au spécialiste est très long, une **IRM des voies biliaires** par un radiologue spécialisé est possible (pour éliminer une [cholangite sclérosante primitive]({{% relref "cholangite-sclerosante-primitive.md" %}})).
@@ -225,6 +226,7 @@ graph TB
 
 {{< youtube id="g4HlzSXStO0" title="Maladies cholestatiques de l'adulte CBP et CSP (Christophe Corpechot) (Filière de Santé Maladies Rares du Foie - FILFOIE)" >}}
 
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - Prescrire Redaction. Bilan 2024 des médicaments à écarter : gastro-entérologie. Rev Prescrire. 2023.
 - [Lindor KD, et al. Primary Biliary Cholangitis: 2021 Practice Guidance update from the American Association for the Study of Liver Diseases. Hepatology. 2022.](https://journals.lww.com/hep/fulltext/2022/04000/primary_biliary_cholangitis__2021_practice.24.aspx)
 - [Corpechot C; SNFGE, AFEF. Prise en charge de la cirrhose biliaire primitive (CBP). Conseil de pratique. 2019. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/cp007_snfge_2019_-_cbp_-_corpechot-zoulim_revcorpechot_1_0.pdf)

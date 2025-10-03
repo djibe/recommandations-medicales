@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T23:51:41+02:00"
 publishdate = "2020-09-29"
-lastmod = "2025-01-05"
+lastmod = "2025-10-03"
 specialites = ["hématologie", "infectiologie"]
-annees = "2024"
+annees = "2025"
 sources = ["MinSanté", "BSH", "HCSP"]
 tags = ["vaccin", "voyage"]
 english = ["Asplenia"]
@@ -90,6 +90,7 @@ Causes d'asplénie et d'hyposplénie:
 Bilan de l'asplénie:
 
 - Frottis sanguin (corps de Jolly)
+- Si asplénie fonctionnelle: sérologie cœliaque avec IgA anti-transglutaminase, IgA totales
 - Échographie de la rate
 
 {{% /collapse %}}
@@ -227,6 +228,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - {{< references/calendrier-vaccinal >}}
 - [Vaccination Info Service. Patient asplénique ou hyposplénique. 11/12/2024.](https://professionnels.vaccination-info-service.fr/Recommandations-vaccinales-specifiques/Patient-immunodeprime/Patient-asplenique-ou-hyposplenique)
 - [Ladhani SN, et al. Prevention and treatment of infection in patients with absent or hypofunctional spleen: A British Society for Haematology guideline. Br J Haematol. 2024.](https://onlinelibrary.wiley.com/doi/10.1111/bjh.19361)
@@ -237,7 +239,7 @@ graph TB
 - [HCSP. Vaccination des personnes immunodéprimées ou aspléniques. Recommandations actualisées. 2014.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
 - [Aguilar C, et al. Recommandation sur les prophylaxies anti-infectieuses au cours des déficits immunitaires héréditaires. CEREDIH. 2013.](https://www.ceredih.fr/uploads/Reco_ProphylDIP_CEREDIH_2_Long.pdf)
 - [Dahyot-Fizelier C et Mimoz O. Gestion du patient splénectomisé. SFAR. 2010.](https://sfar.org/gestion-du-patient-splenectomise/)
-- [Asplénie. ePopi.](https://epopi.fr/?page=fiche&id=856&cat_id=1363)
+- CMIT. Asplénie. ePopi.
 
 {{%/sources%}}
 {{% modal title="Vaccin pneumocoque" id="modal-pneumocoque"%}}

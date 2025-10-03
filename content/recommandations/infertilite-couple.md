@@ -203,7 +203,8 @@ L'*OMS* préconise le bilan **à partir du stade d'infertilité** (12 mois de ra
 - Échographie pelvienne endo-vaginale 3D à J2-J3
 - Si {{< modal-btn modal-reserve-ovarienne >}}signe de baisse de la réserve ovarienne{{< /modal-btn >}}: bilan hormonal (de J2 à J4): **FSH**, LH, œstradiol, AMH
 - Si AMP: bilan hormonal AMH de J2 à J4
-- Considérer: [sérologie *Chlamydia*]({{% relref "chlamydia-trachomatis.md" %}}), [sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (systématique selon *ESsCD* par IgA totales, IgA anti-transglutaminase)
+- [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}): IgA totales, IgA anti-transglutaminase (*ESsCD*)
+- Considérer: [sérologie *Chlamydia*]({{% relref "chlamydia-trachomatis.md" %}})
 - Suspicion de pathologie tubo-pelvienne (GEU, appendicite compliquée, chirurgie pelvienne, maladie inflammatoire pelvienne, endométriose, *Chlamydia* ou hydrosalpynx):
   - Hystérosalpingographie (HSG) ou hystérosonographie en première partie de cycle  
     En première intention selon *CNGOF 2010*.
@@ -278,6 +279,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [Sonigo C, et al. Prise en charge de première intention du couple infertile: Mise à jour des RPC 2010 du CNGOF [First line management of infertile couple. Guidelines for Clinical Practice of the French College of Obstetricians and Gynecologists 2022.]. Gynecol Obstet Fertil Senol. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2468718924000370)
 - [Gibbons T, et al. Timed intercourse for couples trying to conceive. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011345.pub3/full/fr)
 - [Romualdi D, et al; ESHRE Guideline Group on Unexplained Infertility. Evidence-based guideline: unexplained infertility. Hum Reprod. 2023.](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/dead150/7246182)

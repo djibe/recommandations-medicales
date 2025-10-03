@@ -4,7 +4,7 @@ title = "Syndrome de l'intestin irritable (SII)"
 titleSeo = "Syndrome intestin irritable (SII)"
 prefix = "le "
 description = "Recommandations pour le diagnostic et la prise en charge du syndrome de l'intestin irritable (SII). Bilan biologique, mesures diététiques, diarrhées, ispaghul"
-synonyms = ["Colopathie fonctionnelle", "côlon irritable"]
+synonyms = ["Colopathie fonctionnelle", "syndrome du côlon irritable"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-03-27T15:53:48+02:00"
 publishdate = "2023-04-07"
@@ -26,7 +26,7 @@ flowchart = true
 
 - Le syndrome de l'intestin irritable (SII) est fréquent, avec prépondérance féminine et associe: douleurs abdominales chroniques (+6 mois), ballonnements et troubles du transit. Le diagnostic est clinique en l'absence de test diagnostique
 - Rechercher des signes d'alarme: +50 ans, AEG, rectorragies ou anémie, symptômes nocturnes, apparition ou modification récente des symptômes
-- Le bilan d'une suspicion de syndrome d'intestin irritable comporte: NFS, CRP, sérologie cœliaque avec si diarrhées TSH (examen parasitologique si début brutal), échographie pelvienne après 50 ans
+- Le bilan d'une suspicion de syndrome d'intestin irritable comporte: NFS, CRP, sérologie cœliaque et TSH en cas de diarrhées, examen parasitologique pour un début brutal et une échographie pelvienne après 50 ans
 - Le traitement et la prise en charge de l'intestin irritable comporte:
     1. Information, activité physique et réévaluations à 2-3 mois
     2. Puis mesures diététiques et titration d'ispaghul
@@ -40,7 +40,7 @@ Chapitre lié: [diarrhée chronique]({{% relref "diarrhee-chronique.md" %}})
 {{%collapse "Définition" %}}
 
 Syndrome de l'intestin irritable (SII)
-: *ex* *colopathie fonctionnelle* ou *côlon irritable*
+: *ex* *colopathie fonctionnelle* ou *syndrome du côlon irritable*
 : Maladie digestive bénigne, fréquente (5%), maximale vers 18-39 ans avec prédominance féminine (80%), nécessitant une prise en charge rigoureuse et l'écoute du patient. Il n'existe pas de test diagnostique et l'évolution n'est pas prévisible.
 : Définition *NICE*: Douleur ou gêne abdominale associée à des troubles du transit depuis au moins 6 mois, en l'absence de signes d'alarme. Pathologie liée à une dyscommunication intestin-cerveau modulée par les dimensions bio-psy-sociales.
 : Définition Rome IV (2016): douleur abdominale récurrente (≥ 6 mois) survenant en moyenne au moins 1 jour par semaine dans les 3 derniers mois avec ≥ 2 critères parmi: douleurs à la défécation, modification de la fréquence ou de la consistance des selles.
@@ -126,7 +126,7 @@ Le diagnostic de syndrome de l'intestin irritable est clinico-biologique: syndro
   - Autres: satiété précoce, épigastralgies, nausées
   - Sévérité: score IBS-SSS
 - [Dyspepsie]({{% relref "dyspepsie.md" %}}) associée: douleur ou inconfort centré sur l'épigastre
-- Signes négatifs
+- ==**Signes de gravité**==
   - AEG
   - Rectorragies
   - Symptômes nocturnes
@@ -280,6 +280,7 @@ style SII stroke:#4150f5, stroke-width:1px
 
 {{< youtube id="SxJocyeSZ6g" title="Syndrome de l'intestin irritable : une affaire de cuisine ? (TutoGastro SNFGE)" >}}
 
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [Nybacka S, et al. A low FODMAP diet plus traditional dietary advice versus a low-carbohydrate diet versus pharmacological treatment in irritable bowel syndrome (CARBIS): a single-centre, single-blind, randomised controlled trial. Lancet Gastroenterol Hepatol. 2024.](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(24)00045-1/abstract)
 - Prescrire Redaction. Troubles intestinaux bénins récurrents. Rev Prescrire. 2023.
 - {{< references/college-gastro >}}

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-11-29T16:07:09+01:00"
 publishdate = "2024-12-06"
-lastmod = "2024-12-06"
+lastmod = "2025-10-03"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2020"
 sources = ["ACG", "BSG"]
@@ -25,8 +25,8 @@ flowchart = true
 
 - La pancréatite chronique est une altération du pancréas irréversible, le plus souvent liée à l'alcool chez l'homme d'âge moyen
 - Elle entraîne une insuffisance pancréatique exocrine (stéatorrhée, amaigrissement, malabsorption) et endocrine (diabète)
-- Rechercher une pancréatite chronique en cas de: douleurs épigastriques transfixiantes, stéatorrhée, malabsorption ou amaigrissement avec usage nocif d'alcool ou d'antécédents de pancréatites aiguës
-- Le bilan de la pancréatite chronique comprend: bilan hépatique et de malabsorption, scanner abdominal et avis gastro-entérologique
+- Rechercher une pancréatite chronique en cas de: douleurs épigastriques transfixiantes, stéatorrhée, malabsorption ou amaigrissement avec usage nocif d'alcool ou antécédents de pancréatites aiguës
+- Le bilan de la pancréatite chronique comprend: bilan hépatique et de malabsorption, scanner abdominal et avis gastro-entérologique ainsi qu'une recherche de maladie cœliaque pour les cas idiopathiques
 - La prise en charge de la pancréatite chronique nécessite le sevrage de l'alcool et du tabac, un suivi spécialisé par les gastro-entérologue, diététicien (et endocrinologue en cas de diabète), un traitement par enzymes pancréatiques
 - Le suivi est au moins annuel: surveillance des douleurs et du poids, cardiovasculaire, biologique, spécialisé ainsi que tomodensitométrique en cas de modification des symptômes pour rechercher un cancer du pancréas
 
@@ -49,10 +49,10 @@ Stéatorrhée
 
 La pancréatite chronique est sous-diagnostiquée:
 
-- Prévalence: 50/100.000 avec 80% d'hommes
-- Étiologie: 80% liées à l'alcool
-- 90% développeront un diabète
-- 5% des gros buveurs développent une pancréatite chronique
+- Prévalence: 50/100.000 avec 80 % d'hommes
+- Étiologie: 80 % liées à l'alcool
+- 90 % développeront un diabète
+- 5 % des gros buveurs développent une pancréatite chronique
 
 ### Abréviations
 
@@ -75,7 +75,7 @@ PC
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Autres causes de douleurs épigastriques:
+Autres causes de douleurs épigastriques à étayer devant un tableau de pancréatite chronique:
 
 - [Cholécystite aiguë]({{% relref "cholecystite-aigue.md" %}})
 - Colique hépatique
@@ -101,8 +101,8 @@ Signes et symptômes de pancréatite chronique à rechercher à l'examen. La dif
 - Antécédents: [pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}}) (date et étiologie), [intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}), [maladie rénale]({{% relref "insuffisance-renale-chronique.md" %}}), hypertriglycéridémie, maladie respiratoire, [infertilité]({{% relref "infertilite-couple.md" %}})
 - Antécédents familiaux: [cancer du pancréas]({{% relref "cancer-pancreas.md" %}}) et pancréatites
 - Facteurs de risque de pancréatite chronique
-  - Usage nocif d'**[alcool]({{% relref "sevrage-alcool.md" %}})**: {{< modal-btn modal-auditc >}}questionnaire AUDIT-C{{< /modal-btn >}} (80% des cas, souvent +100 g/j pendant +10 ans)
-  - [Tabac]({{% relref "arret-tabac.md" %}}) (OR 7,8)
+  - Usage nocif d'**[alcool]({{% relref "sevrage-alcool.md" %}})**: {{< modal-btn modal-auditc >}}questionnaire AUDIT-C{{< /modal-btn >}} (80 % des cas, souvent +100 g/j pendant +10 ans)
+  - [Tabac]({{% relref "arret-tabac.md" %}}) (RR 7,8)
   - Autres causes de pancréatite aiguë: lithiase biliaire, tumeur pancréatique (TIPMP, tumeur neuroendocrine), pancréatite auto-immune et génétique (hypercalcémie et hypertriglycéridémie sont exceptionnelles)
 - Traitements: ciclosporine
 - Ancienneté des symptômes
@@ -152,7 +152,7 @@ Bilan d'une suspicion de pancréatite chronique:
 
 En cas de **tableau évocateur** d'atteinte pancréatique: adresser **rapidement au gastro-entérologue** et compléter le bilan avec une **ostéodensitométrie**.
 
-En cas de **bilan négatif:** adresser au spécialiste en complétant avec une **IRM bilio-pancréatique** (séquences centrées sur le pancréas, les voies biliaires et le canal de Wirsung).
+En cas de **bilan négatif:** bilan avec [sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}) et adresser au gastro-entérologue en complétant avec une **IRM bilio-pancréatique** (séquences centrées sur le pancréas, les voies biliaires et le canal de Wirsung).
 
 > [!INFO]
 > La lipasémie est réservée aux suspicions de pancréatite aiguë. -- *CDU-HGE*
@@ -216,6 +216,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [Hines OJ, Pandol SJ. Management of chronic pancreatitis. BMJ. 2024.](https://www.bmj.com/content/384/bmj-2023-070920.long)
 - {{< references/college-gastro >}}
 - [Gardner T, et al. ACG Clinical Guideline: Chronic Pancreatitis. The American Journal of Gastroenterology. 2020.](https://journals.lww.com/ajg/fulltext/2020/03000/acg_clinical_guideline__chronic_pancreatitis.9.aspx)

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-07-05T11:55:10+02:00"
 publishdate = "2024-07-18"
-lastmod = "2024-07-27"
+lastmod = "2025-10-03"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2024"
 sources = ["ACG", "INCa"]
@@ -26,7 +26,7 @@ todo = "flow"
 - Le diagnostic de pancréatite aiguë est évoqué devant des symptômes typique: douleurs abdominales transfixiantes intenses et permanentes d'installation rapide
 - Le diagnostic est confirmé en présence de douleurs typiques avec une lipasémie supérieure à 3 fois la normale au bilan. L'échographie abdominale sous 48 heures est systématique pour rechercher des lithiases biliaires
 - La prise en charge de la pancréatite aiguë comprend initialement une hospitalisation pour surveillance, l'évolution étant imprévisible et les complications fréquentes
-- En cas de pancréatite aiguë idiopathique après 40 ans, dépister un [cancer du pancréas]({{% relref "cancer-pancreas.md" %}}) par scanner abdominal et cholangiopancréatographie par IRM (*INCa*)
+- En cas de pancréatite aiguë idiopathique, rechercher une maladie cœliaque et après 40 ans, dépister également un [cancer du pancréas]({{% relref "cancer-pancreas.md" %}}) par scanner abdominal et cholangiopancréatographie par IRM (*INCa*)
 
 Chapitres liés: [pancréatite chronique]({{% relref "pancreatite-chronique.md" %}}), [hypercalcémie]({{% relref "hypercalcemie.md" %}}), [mésusage de l'alcool]({{% relref "sevrage-alcool.md" %}})
 
@@ -165,7 +165,7 @@ La chirurgie est quasi systématique en cas de pancréatite biliaire pour rédui
 
 ### Suivi après pancréatite aiguë idiopathique
 
-Après 40 ans, dépistage d'un [cancer du pancréas]({{% relref "cancer-pancreas.md" %}}) par scanner et cholangiopancréatographie par IRM (CPIRM). Compléter avec une échoendoscopie si les imageries sont négatives.
+Rechercher une [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) et après 40 ans, dépister un [cancer du pancréas]({{% relref "cancer-pancreas.md" %}}) par scanner et cholangiopancréatographie par IRM (CPIRM). Compléter avec une échoendoscopie si les imageries sont négatives.
 
 Nouveaux examens de suivi (scanner et IRM) à 3, 6 et 12 mois:
 
@@ -177,6 +177,7 @@ Nouveaux examens de suivi (scanner et IRM) à 3, 6 et 12 mois:
 
 {{< youtube id="eYVZSNIgZt8" title="Pancréatite aiguë ça fait mal (TutoGastro SNFGE)" >}}
 
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [Tenner S, et al. American College of Gastroenterology Guidelines: Management of Acute Pancreatitis. Am J Gastroenterol. 2024.](https://journals.lww.com/ajg/fulltext/2024/03000/american_college_of_gastroenterology_guidelines_.14.aspx)
 - {{< references/college-gastro >}}
 - [INCa. Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Synthèse. 2019.](https://www.cancer.fr/catalogue-des-publications/synthese-conduites-a-tenir-devant-des-patients-atteints-d-adenocarcinomes-du-pancreas)
