@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-25T16:39:18+02:00"
 publishdate = "2022-10-28"
-lastmod = "2023-09-01"
+lastmod = "2025-10-04"
 specialites = ["néphrologie"]
 annees = "2012"
 sources = ["KDIGO"]
@@ -24,7 +24,7 @@ flowchart = true
 {{%article-summary%}}
 
 - L'insuffisance rénale aiguë (IRA) est une urgence médicale définie comme: {{< clinique/insuffisance-renale-aigue >}}
-- Évaluer la gravité clinique, rechercher un globe vésical, arrêter les IEC/ARA2/néphrotoxiques et adresser pour prise en charge aux Urgences (échographique-biologie-ECG)  
+- Évaluer la gravité clinique, rechercher un globe vésical, arrêter les IEC/ARA2/néphrotoxiques et adresser pour prise en charge aux Urgences (échographie pour recherche d'obstacle, biologie, ECG)  
   Fournir les antécédents et bilans rénaux pour aider à la recherche étiologique
 - Pour les informations sur les injections de produits de contraste iodé, voir *Rein et produits de contraste*
 - Les recommandations 2023 du KDIGO se font toujours attendre
@@ -32,6 +32,20 @@ flowchart = true
 Chapitre lié: [insuffisance rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})
 
 {{%/article-summary%}}
+{{%collapse "Étiologie" %}}
+
+Causes d'insuffisance rénale aiguë:
+
+- Cause prérénale fonctionnelle (insuffisance rénale aiguë fonctionnelle - IRA F)  
+  Déshydratation extracellulaire (déshydratation, brûlure, diarrhées, diurétique, diabète décompensé, insuffisance surrénale aiguë), iatrogène (IEC, ARA2, AINS, inh. calcineurine) ou hypovolémie efficace (choc, insuffisance cardiaque, syndrome néphrotique, décompensation œdémato-ascitique).
+- Cause parenchymateuse  
+  Nécrose tubulaire aiguë (ischémique ou toxique), néphropathie interstitielle ou glomérulopathie.
+- Cause post-rénale (10%)  
+  Obstacle intratubulaire ou sur la voie excrétrice (lithiase, tumeur, HBP, sténose ou rétention aiguë d'urines).
+
+Toujours rechercher un obstacle devant une IRA.
+
+{{% /collapse %}}
 {{%collapse "Définition" %}}
 
 Insuffisance rénale aiguë (IRA)
@@ -50,19 +64,6 @@ Valeurs normales de créatininémie: 60-107 µmol/L chez la femme et 80-115 chez
 {{< /table >}}
 
 > \* par rapport à sa valeur de base | 26,5 µmol/L de créatininémie = 0,3 mg/dL | 353,6 µmol/L = 4 mg/dL
-
-### Étiologie de l'insuffisance rénale aiguë
-
-Causes possibles d'une insuffisance rénale aiguë:
-
-- Cause prérénale fonctionnelle (insuffisance rénale aiguë fonctionnelle - IRA F)  
-  Déshydratation extracellulaire (déshydratation, brûlure, diarrhées, diurétique, diabète décompensé, insuffisance surrénale aiguë), iatrogène (IEC, ARA2, AINS, inh. calcineurine) ou hypovolémie efficace (choc, insuffisance cardiaque, syndrome néphrotique, décompensation œdémato-ascitique).
-- Cause parenchymateuse  
-  Nécrose tubulaire aiguë (ischémique ou toxique), néphropathie interstitielle ou glomérulopathie.
-- Cause post-rénale (10%)  
-  Obstacle intratubulaire ou sur la voie excrétrice (lithiase, tumeur, HBP, sténose ou rétention aiguë d'urines).
-
-Toujours rechercher un obstacle devant une IRA.
 
 ### Abréviations
 
@@ -123,7 +124,7 @@ Les symptômes et signes associés à la survenue d'une insuffisance rénale aig
 {{% /collapse %}}
 {{%collapse "Traitement de l'insuffisance rénale aiguë" %}}
 
-Rechercher un globe vésical et adresser aux Urgences pour la prise en charge de l'insuffisance rénale aiguë (biologie, ECG, échographie rénovésicale).
+Rechercher un globe vésical et adresser aux Urgences pour la prise en charge de l'insuffisance rénale aiguë (biologie, ECG, échographie rénovésicale pour recherche d'obstacle).
 
 Préciser les antécédents ([insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}), [HBP]({{% relref "hypertrophie-benigne-prostate.md" %}}) ...), les valeurs antérieures de créatinine et le niveau de diurèse.
 
@@ -188,14 +189,14 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale aiguë - Anurie. Item 348. Manuel de néphrologie 10ème édition. 2023.](http://manuel3.cuen.fr/spip.php?article62)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale aiguë - Anurie. Item 348. Manuel de néphrologie 11ème édition. 2025.](https://manuel4.cuen.fr/spip.php?article65)
 - [Collège Français des Enseignants en Urologie (CFEU). Insuffisance rénale aiguë - Anurie. Item 348. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/item-348-Insuffisance-renale-aigue.pdf)
 - [SFR, CIRTACI, SFNDT. Rein et produits de contraste. 2020. (PDF)](https://www.sfndt.org/sites/www.sfndt.org/files/medias/documents/Fiche%20de%20recommandation%20pour%20la%20pratique%20clinique_rein%20et%20produit%20de%20contraste.pdf)
-- [KDIGO. Clinical practice guideline for acute kidney injury. Kidney Inter. 2012. (PDF)](https://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf)
+- [KDIGO. Clinical practice guideline for acute kidney injury. Kidney Inter. 2012.](https://kdigo.org/guidelines/acute-kidney-injury/)
 
 ### Bibliographie en attente
 
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Élévation de la créatininémie. Manuel de néphrologie 10ème édition. 2023.](http://manuel3.cuen.fr/spip.php?rubrique3)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Élévation de la créatininémie. Manuel de néphrologie 11ème édition. 2025.](https://manuel4.cuen.fr/spip.php?rubrique16)
 - [ESUR](http://www.esur.org/fileadmin/content/2019/ESUR_Guidelines_10.0_Final_Version.pdf)
 - [EMA](https://www.ema.europa.eu/en/documents/referral/gadolinium-article-31-referral-prac-confirms-restrictions-use-linear-gadolinium-agents_en.pdf)
 

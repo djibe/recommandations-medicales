@@ -13,6 +13,7 @@
   --surface-6: #24242A;
   --text: #424242;
   --text-black-primary: rgba(0,0,0,.87);
+  --text-black-secondary: rgba(0,0,0,.6);
   --text-half: rgba(0,0,0, 0.54);
   interpolate-size: allow-keywords;
 }
@@ -235,7 +236,7 @@ mark {
 }
 
 .figure-caption {
-  color: var(--text-half) !important;
+  color: var(--text-black-secondary) !important;
   font-size: 0.875rem;
 }
 

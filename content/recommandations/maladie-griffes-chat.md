@@ -8,10 +8,10 @@ synonyms = ["Bartonellose à Bartonella henselae", "lymphogranulomatose bénigne
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-28T19:47:00+02:00"
 publishdate = "2021-03-28"
-lastmod = "2024-01-29"
+lastmod = "2025-10-04"
 specialites = ["infectiologie"]
-annees = "2022"
-sources = ["CDC", "CMIT", "MinAgri"]
+annees = "2023"
+sources = ["GPIP", "CDC", "CMIT"]
 tags = []
 english = ["Cat scratch disease"]
 sctid = "79974007"
@@ -43,6 +43,9 @@ Maladie des griffes du chat (MGC)
 
 CMIT
 : Collège des Universitaires des Maladies Infectieuses et Tropicales
+
+GPIP
+: Groupe de Pathologie Infectieuse Pédiatrique (de la Société Française de Pédiatrie)
 
 MGC
 : Maladie des griffes du chat
@@ -93,7 +96,7 @@ La prise en charge par un traitement antibiotique (macrolide) de la maladie des 
 - Enfant ou poids ≤ 45,5 kg: azithromycine 10 mg/kg à J1 puis 5 mg/kg/j de J2 à J5
 - Allergie ou contre-indication aux macrolides: doxycycline 200 mg x 1/j pendant 14 jours.
 
-> Remarque du *CMIT 2020*: << Chez l'immunocompétent, l'intérêt d'une antibiothérapie est discuté, car l'évolution est spontanément favorable >>.
+> << La majorité des adénopathies dues à *B. henselae* guérissent spontanément en quelques semaines et ne nécessitent pas de traitement. [] Cependant, la doxycycline ou l'azithromycine sont indiquées pour les patients immunodéprimés et dans les cas de neurorétinite.>> -- *GPIP 2023*
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
@@ -122,6 +125,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Cohen R, et al; GPIP. Antimicrobial treatment of infrequent bacterial species. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001574)
 - [CMIT. Zoonoses. Item 173. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-173.pdf)
 - [CMIT, SFMTSI, SPILF, SMV. Bartonelloses. ePILLY Trop 2022.](https://www.infectiologie.com/fr/pillytrop.html)
 - [Centers for Disease Control and Prevention (CDC). Bartonella henselae infection or cat scratch disease (CSD). 2022.](https://www.cdc.gov/bartonella/about/about-bartonella-henselae.html)

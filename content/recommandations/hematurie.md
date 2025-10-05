@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-02-16T13:00:47+01:00"
 publishdate = "2024-02-18"
-lastmod = "2024-04-07"
+lastmod = "2025-10-04"
 specialites = ["néphrologie", "urologie"]
-annees = "2023"
+annees = "2025"
 sources = ["CUEN"]
 tags = ["dépistage", "néphropathie"]
 english = ["Hematuria", "haematuria"]
@@ -42,18 +42,6 @@ Hématurie
 : Elle peut être visible à l'œil nu (**hématurie macroscopique**) ou non (**hématurie microscopique**). Elle est d'origine urologique ou néphrologique. L'**hématurie d'effort** est un diagnostic d'élimination.
 : Il n'existe pas de corrélation entre le type d'hématurie et la gravité de la maladie causale.
 
-### Diagnostic différentiel d'une hématurie
-
-Autres diagnostics à étayer devant une hématurie:
-
-- Urétrorragie  
-  Saignement urétral en dehors de la miction.
-- Saignement génital: méno-métrorragie, hémospermie
-- Coloration  
-  Coloration par un médicament (rifampicine, métronidazole), pigments (hémoglobinurie, myoglobinurie, porphyrie), aliments (betterave).
-
-Ces situations peuvent donner des faux positifs à la bandelette urinaire (BU).
-
 ### Abréviations
 
 CUEN
@@ -76,7 +64,7 @@ SFU
 
 Une origine rénale est suspectée en cas d'antécédents personnels ou familiaux de néphropathie ou en cas de signes d'orientation ([hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), œdèmes des membres inférieurs, protéinurie, [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}})).
 
-- Hématuries néphrologiques microscopiques
+- **Hématuries néphrologiques microscopiques**
   - Glomérulonéphrite à dépôts d'IgA primitive (maladie de Berger)
   - Glomérulonéphrite à dépôts d'IgA secondaire: purpura rhumatoïde, cirrhose
   - Glomérulonéphrite rapidement progressive
@@ -86,7 +74,7 @@ Une origine rénale est suspectée en cas d'antécédents personnels ou familiau
     Antécédents familiaux, surdité, atteinte ophtalmologique.
   - Autres: néphropathies interstitielles aiguës (médicamenteuse ++), syndrome hémolytique et urémique (SHU)
   - **Enfant:** surtout syndrome d'Alport et glomérulonéphrite aiguë post-infectieuse
-- Hématuries néphrologiques macroscopiques
+- **Hématuries néphrologiques macroscopiques**
   - Elles sont à rechercher **après le bilan urologique**
   - Néphropathie à IgA
   - Glomérulonéphrite rapidement progressive  
@@ -102,7 +90,7 @@ Une origine rénale est suspectée en cas d'antécédents personnels ou familiau
 
 Causes urologiques à éliminer en priorité: tumeur des voies urinaires, infection et lithiase.
 
-- Causes fréquentes d'hématurie urologique
+- **Causes fréquentes d'hématurie urologique**
   - [Infections urinaires]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}})
   - [Carcinome urothélial]({{% relref "cancer-vessie.md" %}})
   - [Cancer du rein]({{% relref "cancer-rein.md" %}})
@@ -120,6 +108,21 @@ Causes urologiques à éliminer en priorité: tumeur des voies urinaires, infect
 
 > [!INFO]
 > Chez l'enfant, les principales étiologies urinaires d'une hématurie sont: [infection urinaire]({{% relref "infection-urinaire-enfant.md" %}}), lithiase, traumatisme et tumeurs.
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+### Diagnostic différentiel d'une hématurie
+
+Autres diagnostics à étayer devant une hématurie:
+
+- Urétrorragie  
+  Saignement urétral en dehors de la miction.
+- Saignement génital: méno-métrorragie, hémospermie
+- Coloration  
+  Coloration par un médicament (rifampicine, métronidazole), pigments (hémoglobinurie, myoglobinurie, porphyrie), aliments (betterave).
+
+Ces situations peuvent donner des faux positifs à la bandelette urinaire (BU).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -157,7 +160,7 @@ Caractères sémiologiques de l'hématurie macroscopique:
 - Pression artérielle, fréquence cardiaque
 - Palpation abdominale
 - Recherche d'œdèmes des membres inférieurs
-- Bandelette urinaire (Se 90%, risque de faux positifs)
+- Bandelette urinaire (sensibilité de 90 %, risque de faux positifs)
 
 ### Situations où réaliser une bandelette urinaire
 
@@ -178,14 +181,14 @@ Caractères sémiologiques de l'hématurie macroscopique:
 - ECBU matinal (après toilette, en dehors des menstruations)
 {{%/info%}}
 
-Bilan complémentaire lorsque l'hématurie est confirmée par l'ECBU:
+#### Bilan complémentaire lorsque l'hématurie est confirmée par l'ECBU
 
-- Si orientation urologique (isolée ou avec douleurs, caillots):
+- **Orientation urologique** (hématurie isolée ou avec douleurs, caillots):
   - cytologie urinaire
   - échographie des voies urinaires
   - uroscanner
   - adresser à l'urologue en l'absence d'infection urinaire
-- Si orientation néphrologique (totale, indolore, SFU absents):
+- **Orientation néphrologique** (hématurie totale, indolore, pas de signes fonctionnels urinaires):
   - cytologie quantitative des urines
   - protéinurie des 24 heures  
     voire rapport protéinurie/créatininurie en dehors des épisodes d'hématurie macroscopique
@@ -212,11 +215,11 @@ La prise en charge de l'hématurie est principalement étiologique avec avis sp�
 
 {{< mermaid title="Prise en charge d'une hématurie par le médecin généraliste. Dr JB Fron d'après Collèges" >}}
 graph TB
-  macroscopique["<b>Suspicion d'hématurie<br>macroscopique</b><br>—<br>Urines rosées à brunes"] --> ECBU("<b>Clinique:</b><br>- Antécédents<br>- Traitements<br>- Tabac<br>- Betteraves<br>- Expositions sexuelles<br>- Caractères de l'hématurie<br>- Signes urologique:<br>douleurs,<br>caillots, SFU<br>- Examen clinique<br>—<br>- <b>ECBU matinal</b><br>- NFS, TP, TCA<br>- Créatinine, DFG") -- Urologique --> urologique("- Cytologie urinaire<br>- Échographie<br>des voies urinaires<br>- Uroscanner") --> urologue(Urologue)
-    ECBU -- Néphrologique --> néphrologique("- Cytologie quantitative<br>des urines<br>- Protéinurie des 24 heures
+  macroscopique["<b>Suspicion d'hématurie<br>macroscopique</b><br>—<br>Urines rosées à brunes"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements<br>- Tabac<br>- Betteraves<br>- Expositions sexuelles<br>- Caractères de l'hématurie<br>- Signes urologique:<br>douleurs,<br>caillots, SFU<br>- Examen clinique") --> bilan("<b>Bilan</b><br>—<br>ECBU matinal<br>- NFS, TP, TCA<br>- Créatinine, DFG") -- "Hématurie<br>urologique" --> urologique("- Cytologie urinaire<br>- Échographie<br>des voies urinaires<br>- Uroscanner") --> urologue(Urologue)
+    bilan -- "Hématurie<br>néphrologique" --> néphrologique("- Cytologie quantitative<br>des urines<br>- Protéinurie des 24 heures
 ") --> néphrologue(Néphrologue)
-  microscopique["<b>Suspicion d'hématurie<br>microscopique</b><br>—<br>Sang détecté à la BU"] --> ECBU
-    ECBU -- Diagnostic différentiel --> différentiel("- Infection urinaire<br>- Urétrorragie<br>- Saignement génital<br>- Coloration: pigment,<br>médicament, aliment")
+  microscopique["<b>Suspicion d'hématurie<br>microscopique</b><br>—<br>Sang détecté à la BU"] --> clinique
+    bilan -- Diagnostic différentiel --> différentiel("- Infection urinaire<br>- Urétrorragie<br>- Saignement génital<br>- Coloration: pigment,<br>médicament, aliment")
   style macroscopique stroke:#4150f5, stroke-width:1px
   style microscopique stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
@@ -224,7 +227,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hématurie. Item 260. Manuel de néphrologie 10ème édition. 2023.](http://manuel3.cuen.fr/spip.php?article31)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hématurie. Item 260. Manuel de néphrologie 11ème édition. 2025.](https://manuel4.cuen.fr/spip.php?article30)
 - [Collège Français des Enseignants en Urologie (CFEU). Hématurie. Item 260. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-260-Hematurie.pdf)
 
 ### Bibliographie en attente

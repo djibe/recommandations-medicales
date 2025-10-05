@@ -25,10 +25,10 @@ todo = "flow"
 
 Recommandations pour la prise en charge des infections urinaires (IU) de la fille non pubère et du garçon avant 16 ans:
 
-- Bandelette urinaire (BU) systématique à partir de l'âge de 1 mois. Négative elle élimine une infection urinaire
-- ECBU systématique si BU positive (ou < 1 mois, uropathie, neutropénie, SFU, fièvre inexpliquée > 48 heures, [échelle de Pittsburgh](https://uticalc.pitt.edu) prédictive d'IU) avant antibiothérapie
-- Pas d'ECBU de contrôle
 - Examen clinique rigoureux pour relever l'état clinique et les antécédents (uropathie, infections urinaires, immunodépression ++)
+- Bandelette urinaire (BU) systématique à partir de l'âge de 1 mois. Négative elle élimine une infection urinaire
+- ECBU systématique si BU positive (ou < 1 mois, uropathie, neutropénie, SFU, fièvre inexpliquée > 48 heures, [échelle de Pittsburgh](https://uticalc.pitt.edu) prédictive d'IU) avant l'antibiothérapie
+- Pas d'ECBU de contrôle
 - Prise en charge de la cystite aiguë de l'enfant (infection urinaire non fébrile): ECBU puis amoxicilline/acide clavulanique 1,5 dose-kg (80 mg/kg/j, max 3 g/j) en 2 prises pendant 5 jours
 - Prise en charge de la pyélonéphrite aiguë (PNA) de l'enfant:
   - Hospitalisation si: < 3 mois, uropathie, immunodépression, lithiase urinaire, AEG, suspicion de sepsis, mauvaise compréhension familiale, cocci Gram+
@@ -46,9 +46,9 @@ Toutes les infections urinaires doivent être documentées chez l'enfant avant a
 
 - Bandelette urinaire (BU) systématique à partir de l'âge de 1 mois
 - Examen cytobactériologique des urines (ECBU) si: BU avec leucocytes et/ou nitrites positifs, nouveau-né (< 1 mois), uropathie, neutropénie fébrile, signes fonctionnels urinaires, fièvre inexpliquée > 48 heures, [échelle de Pittsburgh](https://uticalc.pitt.edu)  
-  Surtout: prélèvement au jet, cathéterisme urétral, ponction sus-pubienne.
+  Prélèvement: prélèvement au jet, cathéterisme urétral, ponction sus-pubienne.
 
-Une BU négative a une VPN > 90% (sauf nouveau-né, neutropénie ou sepsis). Les leucocytes ont une VPP très faible.
+Une BU négative a une VPN > 90 % (sauf nouveau-né, neutropénie ou sepsis). Les leucocytes ont une VPP très faible.
 {.alert .alert-info}
 
 {{% /collapse %}}
@@ -85,12 +85,16 @@ L'examen clinique est complet: température, pression artérielle, peau, gorge, 
 
 La cystite est une infection urinaire **sans fièvre** et sans anomalie biologique (si réalisée). Elle survient le plus souvent chez les filles après 3 ans.
 
-Prise en charge ambulatoire de la cystite aiguë (infection urinaire basse):
+Prise en charge ambulatoire de la cystite aiguë (infection urinaire basse) immédiatement après ECBU:
 
 - Fille pubère: traitement minute par fosfomycine sauf uropathie (voir [IU de l'adulte]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}))
 - ==[Amoxicilline/acide clavulanique](https://bdpm.ansm.sante.fr/medicament/64550843/extrait#tab-rcp) 1,5 dose-kg (80 mg/kg/j, max 3 g/j) en 2 prises pendant 5 jours==
+  - Adaptation à l'antibiogramme uniquement en cas d'évolution défavorable avec cotrimoxazole préféré au céfixime
+- Mesures d'hygiène générales
 - Si allergie: [cotrimoxazole](https://bdpm.ansm.sante.fr/medicament/69464049/extrait#tab-rcp) 30 mg/kg/j (max 1,6 g/j) de SMX en 2 prises pendant 5 jours  
   ou [céfixime](https://bdpm.ansm.sante.fr/medicament/67547553/extrait#tab-rcp) 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 5 jours
+
+Avis spécialisé en cas de: Pseudomonas sp, bactérie multi-résistante, bactérie productrice de carbapénémase, ou entérocoque résistant aux glycopeptides.
 
 {{% /collapse %}}
 {{%collapse "Pyélonéphrite aiguë de l'enfant" %}}
@@ -145,6 +149,6 @@ Indications à la consultation spécialisée en urologie pédiatrique si:
 ### Bibliographie en attente
 
 - [Radmayr C, et al. EAU guidelines on paediatric urology. 2022.](https://uroweb.org/guidelines/paediatric-urology)
-- [Khoury L et al. Improving Management: Novel Guidelines for Diagnosing Urinary Tract Infection in Infants. Pediatr Infect Dis J. 2024.](https://journals.lww.com/pidj/abstract/9900/improving_management__novel_guidelines_for.751.aspx)
+- [Khoury L, et al. Improving Management: Novel Guidelines for Diagnosing Urinary Tract Infection in Infants. Pediatr Infect Dis J. 2024.](https://journals.lww.com/pidj/abstract/9900/improving_management__novel_guidelines_for.751.aspx)
 
 {{%/sources%}}

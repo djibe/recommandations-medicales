@@ -387,6 +387,7 @@ graph TB
 - [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques (MVT). 2025.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques-mvt)
 - [SPILF. Info-antibio N°103. Février 2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2025-02-lyme.pdf)
 - [Gillet Y, et al; GPIP. Antimicrobial treatment of skin and soft tissue infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001495)
+- [Cohen R, et al; GPIP. Antimicrobial treatment of infrequent bacterial species. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001574)
 - [CMIT. Zoonoses. Item 173. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-173.pdf)
 - Prescrire Redaction. Érythème migrant après piqûre de tique. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [HAS. Guide du parcours de soins de patients présentant une suspicion de borréliose de Lyme. 2022.](https://www.has-sante.fr/jcms/p_3323862/fr/guide-du-parcours-de-soins-de-patients-presentant-une-suspicion-de-borreliose-de-lyme)
