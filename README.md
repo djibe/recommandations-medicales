@@ -2,23 +2,23 @@
 
 Dernières recommandations médicales pour la pratique en consultation du médecin généraliste.
 
-> RecoMédicales is Open Source Medical information for the general practitioner
+> RecoMédicales is Open Source Medical information and guidelines for the general practitioner
 
-**Projet Open Source, gratuit et indépendant visant à partager l'État de l'Art de la pratique en médecine de premier recours.**
+**Projet Open Source, gratuit et indépendant visant à partager l'État de l'Art de la pratique en médecine de premier recours.** Il ne peut pas être utilisé dans les outils d'intelligence artificielle sans consentement de l'Association.
 
 🙏 <a href="https://lydia-app.com/pots?id=34400-recomedicales" target="_blank" rel="external nofollow noopener">Faire un don via Lydia</a> (Visa/Lydia) ou <a href="https://ko-fi.com/djibe" target="_blank" rel="external nofollow noopener">Ko-Fi</a>.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"></a><br>Cette œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale 4.0 International</a>
 
-[RecoMédicales](https://recomedicales.fr) est développé par 2 généralistes pour tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder rapidement à tout ce dont ils ont besoin en consultation.
+[RecoMédicales](https://recomedicales.fr) est une Association et un site développé par 2 généralistes pour tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder rapidement à tout ce dont ils ont besoin en consultation.
 
 ## Pourquoi RecoMédicales ?
 
 Le projet est né suite à plusieurs constats:
 
 - Le médecin généraliste est exposé à toutes les situations
-- Or nous ne retenons que 10% de ce que nous lisons
-- Donc même en apprenant TOUT, nous n'en saurions pas plus de 10%, ce qui est insuffisant
+- Or nous ne retenons que 10 % de ce que nous lisons
+- Donc même en apprenant TOUT, nous n'en saurions pas plus de 10 %, ce qui est insuffisant
 - Nous sommes donc dans la nécessité d'avoir un accès permanent à de l'information fiable pour guider nos consultations
 - De plus, les enjeux de Santé publique ([hypertension artérielle](https://recomedicales.fr/recommandations/hypertension-arterielle/), [diabète type 2](https://recomedicales.fr/recommandations/diabete-type-2/), [BPCO](https://recomedicales.fr/recommandations/bronchopneumopathie-chronique-obstructive/), [ostéoporose](https://recomedicales.fr/recommandations/osteoporose/)) sont d'une complexité croissante, hors de portée de simples fiches textes et de nos petits cerveaux.
 
@@ -36,7 +36,9 @@ Seul un outil numérique peut nous aider.
 - Validé  
   Faire valider chaque fiche par un expert ou la Société savante de référence (certaines fiches pour le moment).
 - Connecté  
-  Branché au réseau Sentinelles.
+  Branché au réseau Sentinelles et à la BDPM.
+- Écologique  
+  Pas de serveur.
 - \+ Simple  
   Segmentation des chapitres pour accéder rapidement à l'info recherchée: 1 question = 1 réponse.
 - \+ Visuel  
@@ -65,7 +67,7 @@ et aussi...
 - Low tech  
   Seulement à base de fichiers textes modifiables par tout le monde.
 - Connectable  
-  Via les codes CIM-10 et SNOMED-CT, le site peut être branché à d'autres systèmes.
+  Via les codes CIM-10 et SNOMED-CT, le site pourrait être branché à d'autres systèmes.
 - Résistant  
   Pas de bases de données, facile à sauvegarder et déménager.
 - Sans frais  
