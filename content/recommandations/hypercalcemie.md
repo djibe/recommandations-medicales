@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Alaedine BENANI", "Jean-Baptiste FRON"]
 date = "2024-02-04T22:00:04+01:00"
 publishdate = "2024-02-09"
-lastmod = "2024-02-09"
+lastmod = "2025-10-06"
 specialites = ["biologie", "endocrinologie", "oncologie"]
-annees = "2023"
-sources = ["Bibliographie"]
+annees = "2025"
+sources = ["CUEN"]
 tags = ["cancer", "chute", "EPS", "fatigue", "HTA"]
 english = ["Hypercalcemia", "hypercalcaemia"]
 sctid = "66931009"
@@ -25,7 +25,7 @@ flowchart = true
 
 - L'hypercalcémie est une calcémie vraie supérieure à 2,6 mmol/L (ou 10,4 mg/dL) ou une calcémie ionisée supérieure à 1,30 mmol/L (5,2 mg/dL)
 - Le dosage de la calcémie doit toujours être accompagné du dosage de l'albuminémie pour le calcul de la calcémie corrigée (voir section dédiée), et/ou doser la calcémie ionisée (non remboursée en ville)
-- Devant une hypercalcémie, la présence de symptômes, une suspicion de malignité ou l'absence d'électrocardiogramme au cabinet impose la réalisation du bilan initial en urgence (ECG ++) voire appel du SAMU
+- Devant une hypercalcémie, la présence de symptômes, une suspicion de malignité ou l'absence d'électrocardiogramme au cabinet impose la réalisation du bilan initial en urgence (ECG ++) voire l'appel du SAMU
 - La prise en charge de l'hypercalcémie est urgente si elle est sévère (> 3 mmol/L ou symptomatique) et le traitement est à la fois symptomatique (hyperhydratation, biphosphonates IV) et étiologique
 - Le bilan initial de l'hypercalcémie vraie comporte: PTH, phosphorémie et fonction rénale
 - Un avis spécialisé (néphrologie ou en endocrinologie) est souvent nécessaire
@@ -52,9 +52,9 @@ PTH
 {{%collapse "Calcul de la calcémie corrigée" %}}
 
 > [!WARNING]
-> << Une calcémie ionisée supérieure à 1,3 mmol/L est toujours pathologique (hypercalcémie vraie). >> -- *CUEN 2023*
+> << ... une calcémie ionisée supérieure à 1,3 mmol/L est toujours pathologique (hypercalcémie vraie). >> -- *CUEN 2025*
 
-Le calcul de la **calcémie corrigée** (valeur de la calcémie totale si l'albuminémie était normale) est systématique pour corriger une fausse hypercalcémie liée à une hypoalbuminémie. Le calcul est inutile lorsque l'on dispose de la **calcémie ionisée** (non remboursée en ville).
+Le calcul de la **calcémie corrigée** (valeur de la calcémie totale si l'albuminémie était normale) est systématique pour corriger une fausse hypocalcémie liée à une hypoalbuminémie. Le calcul est inutile lorsque l'on dispose de la **calcémie ionisée** (non remboursée en ville -- 29 €).
 
 {{< outils/calcemie-corrigee >}}
 
@@ -62,9 +62,9 @@ Le calcul de la **calcémie corrigée** (valeur de la calcémie totale si l'albu
 {{%collapse "Étiologies de l'hypercalcémie" %}}
 
 > [!INFO]
-> 90% des hypercalcémies sont malignes ou liées à une hyperparathyroïdie primaire.
+> 90 % des hypercalcémies sont **malignes** ou liées à une **hyperparathyroïdie primaire**.
 
-Les principales étiologies de l'hypercalcémie comprennent:
+Principales étiologies d'hypercalcémie:
 
 1. **Hyperparathyroïdie primaire**: une augmentation de la production de la parathormone (PTH) du fait d'un adénome ou d'une hyperplasie induit une augmentation du calcium
     - Adénome parathyroïdien
@@ -83,28 +83,28 @@ Les principales étiologies de l'hypercalcémie comprennent:
     - Sarcoïdose
     - [Thyrotoxicose]({{% relref "hyperthyroidie.md" %}})
     - Immobilisation prolongée  
-    Diminution de la mobilité entraînant une libération accrue de calcium des os.
+      Diminution de la mobilité entraînant une libération accrue de calcium des os.
 5. Iatrogénie  
-  Vitamine A, vitamine D, diurétiques thiazidiques, lithium, digitaliques.
+  Vitamine A, [vitamine D]({{% relref "vitamine-d.md" %}}), diurétiques thiazidiques, lithium, digitaliques.
 6. Post-rhabdomyolyse
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 > [!WARNING]
-> << L'hypercalcémie sévère symptomatique est une urgence thérapeutique. >> -- *CUEN 2023*
+> << L'hypercalcémie sévère symptomatique est une urgence thérapeutique. >> -- *CUEN 2025*
 
-L'hypercalcémie est le plus souvent asymptomatique lorsqu'elle est modérée.
+L'hypercalcémie est le plus souvent **asymptomatique** lorsqu'elle est modérée.
 
-Signes et symptômes de l'hypercalcémie aiguë (le plus souvent > 3 mmol/L):
+Signes et symptômes de l'**hypercalcémie aiguë** (le plus souvent > 3 mmol/L):
 
-- AEG: [fatigue](/tags/fatigue/), amaigrissement
+- AEG: [fatigue](/tags/fatigue/), anorexie, amaigrissement
 - Troubles digestifs
   - Anorexie
   - Nausées et vomissements
   - Douleurs abdominales
   - [Constipation]({{% relref "constipation.md" %}})
-  - Pancréatite aiguë
+  - [Pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}})
 - Troubles neuropsychiques
   - Troubles cognitifs ou de l'humeur
   - Confusion voir hallucinations et coma
@@ -112,31 +112,32 @@ Signes et symptômes de l'hypercalcémie aiguë (le plus souvent > 3 mmol/L):
   - Déficit sensitif ou moteur
 - Troubles cardiaques
   - [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
-  - Troubles du rythme cardiaque (raccourcissement du QT, QTc)
+  - Troubles du rythme cardiaque (raccourcissement du QT)
 - Déshydratation
   - Polyuro-polydipsie rénale
   - Déshydratation extracellulaire
   - [Insuffisance rénale aiguë]({{% relref "insuffisance-renale-aigue.md" %}})
 
-Signes et symptômes et symptômes de l'hypercalcémie chronique:
+Signes et symptômes et symptômes de l'**hypercalcémie chronique**:
 
 - Lithiases rénales
 - [Insuffisance rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})
-- Troubles cardiovasculaires (dépôts coronaires, valves, myocardiques)
+- Troubles cardiovasculaires (dépôts calciques sur les coronaires, valves et fibres myocardiques)
 
 Autres éléments à rechercher à l'interrogatoire:
 
 - Antécédents: décubitus prolongé, cancer, lithiases urinaires
 - Antécédents familiaux
-- Traitements en cours: vitamines A et D, diurétiques thiazidiques, lithium, digitaliques
+- Traitements en cours et automédication: vitamines A et D, diurétiques thiazidiques, lithium, digitaliques
 - Toxiques
 - Calcémies antérieures
+- Symptômes
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 > [!INFO]
-> << Le bilan d'une hypercalcémie doit donc toujours comporter soit un dosage du calcium ionisé soit un dosage de l'albuminémie permettant de calculer la calcémie corrigée >> -- *CUEN 2023* (voir *Calcul de la calcémie corrigée*)
+> << Le bilan d'une hypocalcémie doit donc toujours comporter un dosage du calcium ionisé et un dosage d'albuminémie. >> -- *CUEN 2025* (voir *Calcul de la calcémie corrigée*)
 
 {{%warning%}}
 
@@ -155,12 +156,12 @@ Le bilan de l'hypercalcémie est **urgent**:
 
 ### Bilan étiologique
 
-PTH sérique (N 15-65 pg/mL) et phosphatémie.
+PTH sérique (normale: 15-65 pg/mL) et phosphatémie (phosphore sérique).
 
 - Si PTH haute ou normale: calciurie des 24 heures
 - Si PTH basse
   - 25 OH vitamine D, 1,25 OH vitamine D
-  - TSH
+  - [TSH](/tags/tsh/)
   - [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}})
   - Protéinurie et électrophorèse des protéines urinaires
   - NFS
@@ -169,6 +170,20 @@ PTH sérique (N 15-65 pg/mL) et phosphatémie.
 - ± Dosage des digitaliques
 
 Des examens supplémentaires d'imagerie (scintigraphie osseuse ou IRM), peuvent être nécessaires.
+
+### Anomalies ECG de l"hypercalcémie
+
+Anomalies observables à l'électrocardiogramme lors d'une hypercalcémie:
+
+- **TA**chycardie sinusale
+- **Raccourcissement** de l'espace QT
+- Onde **T plate**
+- Allongement de l'espace **PR**
+- Troubles du **rythme**
+
+> Moyen mnémotechnique bien connu: << Ta raquette plate perd son rythme >> (en gras ci-dessus).
+
+[L'ECG de l'hypercalcémie - e-cardiogram](https://www.e-cardiogram.com/hypercalcemie/)
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
@@ -198,10 +213,10 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hypercalcémie - hypocalcémie. Manuel de néphrologie 10ème édition. 2023.](http://manuel3.cuen.fr/spip.php?article28)
-- [Fuleihan G et al. Treatment of Hypercalcemia of Malignancy in Adults: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2022.](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgac621/6916871)
-- [Bilezikian JP et al; International Workshop on Primary Hyperparathyroidism. Evaluation and Management of Primary Hyperparathyroidism: Summary Statement and Guidelines from the Fifth International Workshop. J Bone Miner Res. 2022.](https://asbmr.onlinelibrary.wiley.com/doi/10.1002/jbmr.4677)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hypercalcémie - hypocalcémie. Manuel de néphrologie 11ème édition. 2025.](https://manuel4.cuen.fr/spip.php?article25)
+- [Fuleihan G, et al. Treatment of Hypercalcemia of Malignancy in Adults: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2022.](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgac621/6916871)
+- [Bilezikian JP, et al; International Workshop on Primary Hyperparathyroidism. Evaluation and Management of Primary Hyperparathyroidism: Summary Statement and Guidelines from the Fifth International Workshop. J Bone Miner Res. 2022.](https://asbmr.onlinelibrary.wiley.com/doi/10.1002/jbmr.4677)
 - Collège National des Enseignants de Médecine Interne (CEMI). Hypercalcémie. Référentiel Collège de Médecine interne R2C. 2021.
-- [Minisola S et al. Diagnosis and management of hypercalcemia. BMJ. 2015. (payant)](https://www.bmj.com/content/350/bmj.h2723.long)
+- [Minisola S, et al. Diagnosis and management of hypercalcemia. BMJ. 2015.](https://www.bmj.com/content/350/bmj.h2723.long) (payant)
 
 {{%/sources%}}
