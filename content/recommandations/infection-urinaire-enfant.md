@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-02-01T16:00:54+01:00"
 publishdate = "2024-02-02"
-lastmod = "2024-02-02"
+lastmod = "2025-10-07"
 specialites = ["pédiatrie", "urologie"]
 annees = "2023"
 sources = ["GPIP"]
@@ -91,8 +91,10 @@ Prise en charge ambulatoire de la cystite aiguë (infection urinaire basse) imm�
 - ==[Amoxicilline/acide clavulanique](https://bdpm.ansm.sante.fr/medicament/64550843/extrait#tab-rcp) 1,5 dose-kg (80 mg/kg/j, max 3 g/j) en 2 prises pendant 5 jours==
   - Adaptation à l'antibiogramme uniquement en cas d'évolution défavorable avec cotrimoxazole préféré au céfixime
 - Mesures d'hygiène générales
-- Si allergie: [cotrimoxazole](https://bdpm.ansm.sante.fr/medicament/69464049/extrait#tab-rcp) 30 mg/kg/j (max 1,6 g/j) de SMX en 2 prises pendant 5 jours  
-  ou [céfixime](https://bdpm.ansm.sante.fr/medicament/67547553/extrait#tab-rcp) 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 5 jours
+- Si allergie:
+  - Préférer le [cotrimoxazole](https://bdpm.ansm.sante.fr/medicament/69464049/extrait#tab-rcp) 30 mg/kg/j (max 1,6 g/j) de SMX en 2 prises pendant 5 jours
+  - Puis le [céfixime](https://bdpm.ansm.sante.fr/medicament/67547553/extrait#tab-rcp) 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 5 jours  
+    ou à défaut céfpodoxime-proxétil 8 mg/kg/j en 2 prises sans dépasser la dose adulte (*GPIP 2025*)
 
 Avis spécialisé en cas de: Pseudomonas sp, bactérie multi-résistante, bactérie productrice de carbapénémase, ou entérocoque résistant aux glycopeptides.
 
@@ -111,21 +113,23 @@ Prise en charge de la suspicion de pyélonéphrite aiguë (PNA):
 - Information des parents: [mpedia](https://www.mpedia.fr/art-pyelonephrite/?sr=895)
 - [Paracétamol]({{% relref "antalgie-enfant.md" %}})
 - Antibiothérapie ambulatoire probabiliste pendant 2-4 jours le temps d'obtenir l'ECBU (sans critère d'hospitalisation)
-  - Ceftriaxone 50 mg/kg/j (max 2 g/j) **IM**
-  - Ou céfixime 8 mg/kg/j (max 400 mg/j) en 2 prises
+  - ceftriaxone 50 mg/kg/j (max 2 g/j) **IM**
+  - ou céfixime 8 mg/kg/j (max 400 mg/j) en 2 prises  
+    ou à défaut céfpodoxime-proxétil 8 mg/kg/j en 2 prises sans dépasser la dose adulte (*GPIP 2025*)
 - Réévaluation systématique à 48 heures puis avec les résultats de l'ECBU
 
 Adaptation à l'antibiogramme dès le rendu des résultats pour une totale (probabiliste + adaptée) de traitement de **10 jours**:
 
-1. [Cotrimoxazole](https://bdpm.ansm.sante.fr/medicament/69464049/extrait#tab-rcp) (si âge > 1 mois) 30 mg/kg/j de SMX (max 1,6 g/j) en 2 prises
-2. [Céfixime](https://bdpm.ansm.sante.fr/medicament/67547553/extrait#tab-rcp) 8 mg/kg/j (max 400 mg/j) en 2 prises
-3. Si Enterococcus ou *Proteus sp.* sensibles: amoxicilline
+1. Si entérocoque ou *Proteus* sensibles à l'ampicilline: amoxicilline
+2. [Cotrimoxazole](https://bdpm.ansm.sante.fr/medicament/69464049/extrait#tab-rcp) (si âge > 1 mois) 30 mg/kg/j de SMX (max 1,6 g/j) en 2 prises
+3. [Céfixime](https://bdpm.ansm.sante.fr/medicament/67547553/extrait#tab-rcp) 8 mg/kg/j (max 400 mg/j) en 2 prises  
+   ou à défaut céfpodoxime-proxétil 8 mg/kg/j en 2 prises sans dépasser la dose adulte (*GPIP 2025*)
 4. Céfixime + amoxicilline/acide clavulanique
 
 L'antibiothérapie pour pyélonéphrite aiguë de l'enfant a une durée totale (antibiothérapie probabiliste + adaptée) de **10 jours**, sans contrôle de l'ECBU.
 
 > [!WARNING]
-> Pas d'amoxicilline (± clavulanique) pour la pyélonéphrite de l'enfant.
+> Pas d'amoxicilline (± clavulanique) pour la pyélonéphrite de l'enfant (le plus souvent).
 
 {{% /collapse %}}
 {{%collapse "Recours à l'urologue" %}}
@@ -140,6 +144,7 @@ Indications à la consultation spécialisée en urologie pédiatrique si:
 {{% /collapse %}}
 {{%sources%}}
 
+- [GPIP. Pénurie de Céfixime : Recommandations GPIP/SFP sur la stratégie thérapeutique du traitement des infections urinaires en pédiatrie. 2025.](https://www.gpip.fr/document/penurie-de-cefixime-recommandations-gpip-sfp-sur-la-strategie-therapeutique-du-traitement-des-infections-urinaires-en-pediatrie/)
 - [Madhi F, et al; GPIP. Antimicrobial treatment of urinary tract infections in children. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001483)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Infections urinaires. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/infections-urinaires)
 - [Collège Français des Enseignants en Urologie (CFEU). Infections urinaires de l'adulte et de l'enfant. Item 161. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-161-Infections-urinaires.pdf)
