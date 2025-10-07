@@ -163,7 +163,7 @@ Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}}).
 
 #### Pneumocoque
 
-- Prevenar 20® 1 dose
+- Prevenar 20® ou Capvaxive® (bientôt disponible) 1 dose
 - Enfant 2 à 5 ans non vaccinés: Prevenar 13® M0-M2 et Pneumovax® M4
 - Enfant < 2 ans: schéma nourrisson et rappel Pneumovax® après ses 2 ans
 

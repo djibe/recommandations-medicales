@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2025-09-16"
+lastmod = "2025-10-07"
 specialites = ["infectiologie", "pédiatrie", "thérapeutique"]
 annees = "2025"
 sources = ["MinSanté", "HAS", "HCSP"]
@@ -64,7 +64,7 @@ VVA
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
 | Né après<br>le 1er février,<br>(à partir de septembre) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
-|   2 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance (15)<br>RotaTeq 1/3, Rotarix 1/2 |
+|   2 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus<br>± {{< modal-btn modal-bcg-indications >}}Tuberculose{{< /modal-btn >}} | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance (15)<br>RotaTeq 1/3, Rotarix 1/2<br>± BCG en PMI |
 |   3 mois   | Méningo B<br>Rotavirus<br>(Prématuré: + Pneumo 13/15 +<br>DTCaP-Hib-HB GPIP) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance (15)) |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance (15) (15)<br>RotaTeq 3/3 |
 |   5 mois   | Méningo B                                            | Bexsero                                                                   |
@@ -78,7 +78,7 @@ VVA
 | 15-24 ans  | Méningo B si souhait de vaccination                  | Bexsero, Trumenba                                                         |
 |   25 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
 |   45 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
-|  +65 ans   | dTcaPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Pneumo 20 + Zona | BoostrixTetra, Repevax<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>Prevenar 20 (NR) + Shingrix M0-M2 |
+|  +65 ans   | dTcaPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Pneumo 20 + Zona | BoostrixTetra, Repevax<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>Prevenar 20 (NR), Capvaxive (bientôt) + Shingrix M0-M2 |
 |  +75 ans   | + VRS annuel (NR)                                    | Arexvy, Abrysvo, mRESVIA                                                  |
 | [Grossesse]({{% relref "grossesse.md" %}}) | Coqueluche, Covid, grippe, VRS | BoostrixTetra, Repevax, Abrysvo ...                             |
 | Médecin généraliste | Covid-19, grippe, ROR,<br>varicelle, VHB    |                                                                           |
@@ -338,3 +338,8 @@ Documents pour informer sur la vaccination:
 - [Vaccination Info Service](https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Administration-des-vaccins)
 
 {{%/sources%}}
+{{% modal title="Indications au vaccin BCG" id="modal-bcg-indications"%}}
+
+{{< clinique/bcg-indications >}}
+
+{{% /modal %}}

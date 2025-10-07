@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2020-06-02T11:57:29+02:00"
 publishdate = "2020-06-02"
-lastmod = "2025-09-16"
+lastmod = "2025-10-07"
 specialites = ["pédiatrie"]
 annees = "2025"
 sources = ["MinSanté", "Service-Public"]
@@ -97,7 +97,7 @@ Pour plus d'informations sur les vaccinations, dont les obligations, voir le cha
 |          Âge          | Valences                                                                                  | Spécialités équivalentes                                                                                        |
 |:---------------------:|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | Né après<br>le 1er février<br>(à partir de septembre) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
-|   2 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance (15)<br>RotaTeq 1/3, Rotarix 1/2 |
+|   2 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus<br>± {{< modal-btn modal-bcg-indications >}}Tuberculose{{< /modal-btn >}} | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance (15)<br>RotaTeq 1/3, Rotarix 1/2<br>± BCG en PMI |
 |   3 mois   | Méningo B<br>Rotavirus<br>(Prématuré: + Pneumo 13/15 +<br>DTCaP-Hib-HB GPIP) | Bexsero<br>RotaTeq 2/3, Rotarix 2/2<br>(Prevenar 13, Vaxneuvance (15)) |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance (15) (15)<br>RotaTeq 3/3 |
 |   5 mois   | Méningo B                                            | Bexsero                                                                   |
@@ -162,3 +162,9 @@ Sources citées en regard des sections.
 {{< card-link-external title="MOOC Dépistage néonatal 2025" url="https://pns-mooc.com/fr/mooc/34/presentation" subtitle="par la FPDPHE" >}}
 
 {{< card-link-external title="MOOC Repérer et prendre en charge les mineurs en danger" url="https://www.maformationmedicale.fr/landing/enfants-et-adolescents-en-danger-reperage-et-prise-en-charge-par-les-professionnels-en-sante" >}}
+
+{{% modal title="Indications au vaccin BCG" id="modal-bcg-indications"%}}
+
+{{< clinique/bcg-indications >}}
+
+{{% /modal %}}
