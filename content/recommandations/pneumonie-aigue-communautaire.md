@@ -369,11 +369,12 @@ Le choix de l'antibiothérapie dépend du tableau clinique.
 
 Traitement antibiotique probabiliste **pendant 5 jours** avec réévaluation systématique à 72 heures (adulte: minimum 3 et maximum 7 jours selon l'évolution clinique, 14 jours pour la légionelle selon *SPILF 2020*):
 
-- [Amoxicilline](https://bdpm.ansm.sante.fr/medicament/60151544/extrait#tab-rcp) 1g x 3/j
-- Enfant: 80-100 mg/kg/j en 2 prises (max 3 g/j) pendant 5 jours
-- Si allergie: [pristinamycine](https://bdpm.ansm.sante.fr/medicament/63728481/extrait#tab-rcp) 1g x 3/j (Pyostacine® à partir de 6 ans, double sensibilité pneumocoque + intracellulaires)
+- Adulte: [amoxicilline](https://bdpm.ansm.sante.fr/medicament/60151544/extrait#tab-rcp) 1g x 3/j  
+  Possible pendant la grossesse et l'allaitement ([CRAT](https://www.lecrat.fr/6654/)).
+- Enfant: [amoxicilline](https://bdpm.ansm.sante.fr/medicament/66773446/extrait#tab-rcp) 80-100 mg/kg/j en 2 prises (max 3 g/j) pendant 5 jours
+- Si allergie à la pénicilline: [pristinamycine](https://bdpm.ansm.sante.fr/medicament/63728481/extrait#tab-rcp) 1g x 3/j (Pyostacine® à partir de 6 ans, possible pendant [la grossesse](https://www.lecrat.fr/13417/), double sensibilité pneumocoque + intracellulaires)
   - Seule alternative de l'enfant: ceftriaxone 50 mg/kg/j (max 2 g/j) IM pendant 5 jours
-- Si échec à 72 heures (enfant 48-72 h): substituer par l'autre classe (macrolide ou amoxicilline) et réévaluer à 48-72h; discuter l'hospitalisation en cas d'aggravation dans les 72 premières heures
+- Si échec à 72 heures (enfant 48-72 h): substituer par l'autre classe (macrolide ou amoxicilline) et réévaluer à 48-72 heures; discuter l'hospitalisation en cas d'aggravation dans les 72 premières heures
 - Si 2^e^ échec ou aggravation rapide: hospitalisation
 - Si antibiothérapie dans le mois ou hospitalisation dans les 3 mois: voir *PAC avec comorbidité*
 {{%/info%}}
