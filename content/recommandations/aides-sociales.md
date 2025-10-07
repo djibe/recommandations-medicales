@@ -80,4 +80,6 @@ Ces aides à la prise en charge médicale et aux soins doivent être communiqué
 
 ## Réfugiés {.mt-5}
 
+{{< card-link-external title="L'information pour les réfugiés de France" url="https://refugies.info" subtitle="Réfugiés.info" image="ministere">}}
+
 [Le guide du réfugié 2019 (PDF)](https://www.unistra.fr/fileadmin/upload/unistra/international/MUI/le-guide-du-refugie.pdf)

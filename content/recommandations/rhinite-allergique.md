@@ -266,6 +266,7 @@ style suspicion stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
+- [Blauwblomme M. En cas de rhinite allergique, est-il préférable d'administrer un traitement pharmacologique par voie intranasale ou orale ?. Minerva. 2025.](https://minerva-ebp.be/FR/Article/2454)
 - [Collège des Enseignants de Pneumologie (CEP). Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_188_ASTHME_RHINITE_2023.pdf)
 - Prescrire Redaction. Rhinite allergique saisonnière. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Anses. Note relative à la surveillance phénologique du pollen dans l'air ambiant et à l'indicateur de risque d'allergie lié à l'exposition au pollen (RAEP). 2022. (PDF)](https://www.anses.fr/fr/system/files/AIR2020AST0168.pdf)

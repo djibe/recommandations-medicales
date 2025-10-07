@@ -166,7 +166,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Polykystose rénale. Item 266. Manuel de néphrologie 10ème édition. 2023.](http://manuel3.cuen.fr/spip.php?article74)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Polykystose rénale. Item 266. Manuel de néphrologie 11ème édition. 2025.](http://manuel3.cuen.fr/spip.php?article74)
 - Prescrire Redaction. Tolvaptan : à écarter dans la polykystose rénale. Rev Prescrire. 2022.
 
 ### Bibliographie en attente
