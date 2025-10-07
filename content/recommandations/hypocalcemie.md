@@ -2,14 +2,14 @@
 id = "0190e8c5-73e4-793e-bae1-2433deb5d9ec"
 title = "Hypocalcémie"
 prefix = "l'"
-description = "Recommandations pour le diagnostic et la prise en charge de l'hypocalcémie. "
+description = "Recommandations pour le diagnostic et la prise en charge de l'hypocalcémie. Bilan avec ECG, PTH, phosphore, vitamine D, avis endocrinologique"
 synonyms = ["Diminution du calcium sérique", "calcémie basse"]
 auteurs = ["Alaedine BENANI", "Jean-Baptiste FRON"]
 date = "2024-03-08T15:43:33+01:00"
 publishdate = "2024-03-22"
-lastmod = "2024-03-23"
+lastmod = "2025-10-06"
 specialites = ["biologie", "endocrinologie", "néphrologie"]
-annees = "2024"
+annees = "2025"
 sources = ["Bibliographie"]
 tags = ["fatigue"]
 english = ["Hypocalcemia"]
@@ -24,7 +24,7 @@ flowchart = true
 {{%article-summary%}}
 
 - L'hypocalcémie est une calcémie vraie inférieure à 2,2 mmol/L (ou 88 mg/L) ou une calcémie ionisée inférieure à 1,1 mmol/L
-- Le dosage de la calcémie doit toujours être accompagné du dosage de l'albuminémie pour le calcul de la calcémie corrigée (voir section dédiée), et/ou doser la calcémie ionisée
+- Le dosage de la calcémie doit toujours être accompagné du dosage de l'albuminémie pour le calcul de la calcémie corrigée (voir section dédiée), et/ou doser la calcémie ionisée (non remboursée en ville)
 - Devant une hypocalcémie, la présence de symptômes, une survenue aiguë ou l'absence d'électrocardiogramme au cabinet impose la réalisation du bilan initial en urgence (ECG ++) voire l'appel du SAMU
 - La prise en charge de l'hypocalcémie est urgente si elle est aiguë ou sévère (< 1,8 mmol/L ou symptomatique) et le traitement est à la fois symptomatique (supplémentation en calcium ± magnésium) et étiologique
 - Le bilan initial de l'hypocalcémie vraie comporte: PTH, phosphorémie et fonction rénale, 25 OH vitamine D, calciurie des 24 heures et ECG
@@ -61,7 +61,7 @@ PTH
 {{%collapse "Calcul de la calcémie corrigée" %}}
 
 > [!WARNING]
-> << Une calcémie ionisée supérieure à 1,3 mmol/L est toujours pathologique (hypercalcémie vraie). >> -- *CUEN 2023*
+> << ... une calcémie ionisée supérieure à 1,3 mmol/L est toujours pathologique (hypercalcémie vraie). >> -- *CUEN 2025*
 
 Le calcul de la **calcémie corrigée** (valeur de la calcémie totale si l'albuminémie était normale) est systématique pour corriger une fausse hypercalcémie liée à une hypoalbuminémie. Le calcul est inutile lorsque l'on dispose de la **calcémie ionisée**.
 
@@ -119,7 +119,7 @@ Les symptômes d'une hypocalcémie sont très corrélés à la profondeur de l'h
   - Tétanie  
     << main d'accoucheur >>, bouche en << museau de carpe >>, hyperextension des jambes et des pîeds.
   - Convulsions
-- Troubles neuro-psychologiques  
+- **Troubles neuro-psychologiques**  
   Troubles de l'attention, anxiété, irritabilité, dépression, démence, troubles de la personnalité, syndrome extrapyramidal.
 - Symptômes cardiaques  
   Élargissement de l'intervalle QT: malaises, tachycardie ventriculaire, fibrillation ventriculaire, insuffisance cardiaque.
@@ -157,15 +157,28 @@ Les symptômes d'une hypocalcémie sont très corrélés à la profondeur de l'h
 - PTH plasmatique (N 15-65 pg/mL)
 - Électrocardiogramme +++ (allongement du QT)
 
+### Anomalies ECG de l"hypocalcémie
+
+Anomalies observables à l'électrocardiogramme lors d'une hypocalcémie:
+
+- **Allongement de l'intervalle QT** sans modification de l'onde T
+- Rarement: ondes T pointues, aplaties ou inversées
+- Blocs auriculo-ventriculaires (BAV)
+- Torsades de pointes
+
+[Signes ECG de l'hypocalcémie](https://www.e-cardiogram.com/hypocalcemie/)
+
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
 > [!WARNING]
-> << Le traitement de l'hypocalcémie symptomatique est une urgence >>, idem si aiguë . -- *CEEDMM*
+> << Le traitement de l'hypocalcémie symptomatique est une urgence >>, idem pour une hypocalcémie aiguë . -- *CEEDMM*
 
-La prise en charge de l'hypocalcémie est principalement étiologique.
+La prise en charge de l'hypocalcémie est principalement **étiologique**.
 
 ### Traitement symptomatique d'une hypocalcémie chronique
+
+Traitements visant à la restauration rapide de la calcémie:
 
 - Supplémentation en calcium: 500 à 2000 mg/j en 3-4 prises en dehors des repas  
   Max 500 mg/j si insuffisance rénale.
@@ -196,11 +209,11 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hypercalcémie - hypocalcémie. Manuel de néphrologie 10ème édition. 2023.](http://manuel3.cuen.fr/spip.php?article28)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hypercalcémie - hypocalcémie. Manuel de néphrologie 11ème édition. 2025.](https://manuel4.cuen.fr/spip.php?article25)
 - {{< references/college-endocrino >}}
 - [Kamenický P. Hypocalcémie de l'adulte. MCED. 2016. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/JNDES/2016/16_jndes_hypocalcemie_adulte_p_kamenicky.pdf)
 - [Fong J, Khan A. Hypocalcémie: Mises à jour dans le diagnostic et la prise en charge en soins primaires. Can Fam Physician. 2012.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3279287/)
 - [Orphanet. Hypoparathyroïdie isolée familiale. 2005.](https://www.orpha.net/fr/disease/detail/2238?name=Hypoparathyroidie&mode=name)
-- [Guitton C et al; Société de Réanimation de Langue Française. Dyscalcémie aux urgences. 2002. (PDF)](https://www.srlf.org/wp-content/uploads/2015/11/0211-Reanimation-Vol11-N7-p493_501.pdf)
+- [Guitton C, et al; Société de Réanimation de Langue Française. Dyscalcémie aux urgences. 2002. (PDF)](https://www.srlf.org/wp-content/uploads/2015/11/0211-Reanimation-Vol11-N7-p493_501.pdf)
 
 {{%/sources%}}

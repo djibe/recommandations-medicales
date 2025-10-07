@@ -7,9 +7,9 @@ synonyms = ["Hyperhydratation intracellulaire"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-30T16:52:08+02:00"
 publishdate = "2023-06-05"
-lastmod = "2023-06-05"
+lastmod = "2025-10-07"
 specialites = ["biologie", "néphrologie"]
-annees = "2023"
+annees = "2025"
 sources = ["CUEN", "ERBP"]
 tags = ["chute"]
 english = ["Hyponatraemia", "hyponatremia"]
@@ -24,9 +24,9 @@ flowchart = true
 
 Ces recommandations concernent la prise en charge d'une hyponatrémie de l'adulte.
 
-- L'hyponatrémie est une natrémie inférieure à 135 mmol/L. C'est un trouble du bilan de l'eau
-- Rechercher des signes de gravité: Na < 125 mmol/L, installation en -48h, vomissements, défaillance hémodynamique, somnolence, convulsions
-- Les causes les plus fréquentes d'hyponatrémie sont: iatrogène surtout (diurétique **thiazidique**, antidépresseurs dont IRS, antipsychotiques, anti-épileptiques), insuffisance surrénale ou cancer
+- L'hyponatrémie est une natrémie inférieure à 135 mmol/L; c'est un trouble du bilan de l'eau
+- Les causes les plus fréquentes d'hyponatrémie sont: iatrogène surtout (diurétique thiazidique, antidépresseurs dont IRS, antipsychotiques, anti-épileptiques), insuffisance surrénale ou cancer
+- Rechercher des signes de gravité: natrémie < 125 mmol/L, installation en moins de 48h, vomissements, défaillance hémodynamique, somnolence, convulsions
 - Rechercher une hyponatrémie en cas de: nausées, céphalées, chutes, troubles cognitifs, somnolence, potomanie
 - Évaluer l'état d'hydratation et bilan de l'hyponatrémie: ionogramme, créatininémie, glycémie pour le calcul de la natrémie corrigée et de l'osmolalité plasmatique (voir *Examens complémentaires*)
 - La prise en charge de l'hyponatrémie est surtout étiologique. Elle est urgente en cas de signes de gravité et spécialisée sauf si asymptomatique répondant au traitement (arrêt du traitement causal principalement)
@@ -116,7 +116,7 @@ Les signes et symptômes de l'hyponatrémie sont aspécifiques:
   - Fluctuations et traitements essayés
   - Apports hydriques (potomanie, bière, thé)
   - Apport alimentaires (dont liquides)
-- **Symptômes sévères**
+- ==**Symptômes sévères**==
   - Vomissements
   - Défaillance cardiorespiratoire
   - Somnolence excessive
@@ -126,7 +126,7 @@ Les signes et symptômes de l'hyponatrémie sont aspécifiques:
   - Nausées sans vomissements
   - Confusion
   - Céphalées
-- Autres symptômes
+- **Autres symptômes**
   - [Chutes](/tags/chute/), fractures, dépister les autres facteurs de risque d'[ostéoporose]({{% relref "osteoporose.md" %}})
   - Suspicion de malignité: AEG
 
@@ -204,7 +204,7 @@ La prise en charge est spécialisée (endocrinologique, néphrologique), étiolo
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une hyponatrémie" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour la prise en charge d'une hyponatrémie. Dr JB Fron d'après CUEN 2023, Jacob 2019 et ERBP 2014" >}}
+{{< mermaid title="Conduite à tenir pour la prise en charge d'une hyponatrémie. Dr JB Fron d'après CUEN 2025, Jacob et al et ERBP" >}}
 graph TB
 hyponatrémie["<b>Hyponatrémie</b><br>Na &lt; 135 mmol/L"] --> gravité("<b>Signes de gravité ?</b><br>—<br>- Na &lt; 125<br>- Installation &lt; 48h<br>- Vomissements<br>- Défaillance viscérale<br>- Somnolence, conscience<br>- Convulsions")
 style hyponatrémie stroke:#4150f5, stroke-width:1px
@@ -227,10 +227,10 @@ En l'absence d'orientation étiologique ou d'efficacité d'un traitement étiolo
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hyponatrémie - Hypernatrémie. Item 267. Manuel de néphrologie 10ème édition. 2023.](http://manuel3.cuen.fr/spip.php?article11)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hyponatrémie - Hypernatrémie. Item 267. Manuel de néphrologie 11ème édition. 2025.](https://manuel4.cuen.fr/spip.php?article7)
 - Prescrire Redaction. Hyponatrémies médicamenteuses. Interactions médicamenteuses. Rev Prescrire. 2023.
-- [Jacob P et al. Hyponatraemia in primary care. BMJ. 2019.](https://www.bmj.com/content/365/bmj.l1774)
-- [Spasovski G et al; ERBP. Clinical practice guideline on diagnosis and treatment of hyponatraemia. Nephrol Dial Transplant. 2014.](https://academic.oup.com/ndt/article/29/suppl_2/i1/1904943)
+- [Jacob P, et al. Hyponatraemia in primary care. BMJ. 2019.](https://www.bmj.com/content/365/bmj.l1774)
+- [Spasovski G, et al; ERBP. Clinical practice guideline on diagnosis and treatment of hyponatraemia. Nephrol Dial Transplant. 2014.](https://academic.oup.com/ndt/article/29/suppl_2/i1/1904943)
 - [Ichai C. Conduite à tenir devant une hyponatrémie. SFAR. 2009.](https://sfar.org/conduite-a-tenir-devant-une-hyponatremie/)
 
 ### Bibliographie en attente
