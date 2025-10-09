@@ -249,7 +249,7 @@ Débuter à **15 mg** en prise unique (ou scindée en 2 doses, étude *SMART*) p
 
 ---
 
-- Au moins 10 mg/semaine d'acide folinique systématique ([Folinoral 5 mg](https://bdpm.ansm.sante.fr/medicament/67479020/extrait#tab-rcp), [Lederfoldine 15 mg](https://bdpm.ansm.sante.fr/medicament/66335946/extrait#tab-rcp))
+- Au moins 10 mg/semaine d'acide folinique systématique ([Folinoral 5 mg](https://bdpm.ansm.sante.fr/medicament/67479020/extrait#tab-rcp), [Lederfoline 15 mg](https://bdpm.ansm.sante.fr/medicament/66335946/extrait#tab-rcp))
 - Corticothérapie initiale associée (maximum 6 mois)
 {{%/info%}}
 

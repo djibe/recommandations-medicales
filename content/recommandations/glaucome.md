@@ -162,7 +162,7 @@ La prise en charge du glaucome repose sur la ==réduction de la pression intraoc
 {{< table title="Spécialités de collyres anti-glaucomateux sans conservateurs par classe. Dr JB Fron grâce à la recherche avancée de *Thériaque*" class="table-wrap">}}
 | Famille | Effets indésirables | Fréquence (/j) | Spécialités |
 |---------|---------------------|----------------|-------------|
-| **Prostaglandines** | Rougeur/irritation oculaire, iris sombre, pousse de cils | 1 | multidose (Bimatoprost Idifarma, Latazed, Sinetrav, Vizilatan, Vizitrav), unidose (Monoprost, Xiop) |
+| **Prostaglandines** | Rougeur/irritation oculaire, iris sombre, pousse de cils | 1 | multidose (Bimatoprost Idifarma, Latazed, Sinetrav, Vizilatan, Vizitrav), unidose (Catiolanze, Monoprost, Xiop) |
 | **Bêta-bloquants** | CI des BB | 1-2 | multidose Timabak, unidoses (Betagan, Gaoptol, Geltim LP) |
 | Alpha-2-adrénergiques || 2 | unidoses Brimazed, Brimonidine Omnivision |
 | Inh. anhydrase carbonique || 2 | Aucun |

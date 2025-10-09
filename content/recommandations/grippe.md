@@ -7,9 +7,9 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2025-05-10"
+lastmod = "2025-10-07"
 specialites = ["infectiologie", "pneumologie"]
-annees = "2024"
+annees = "2025"
 sources = ["MinSanté", "HAS"]
 tags = ["BPCO", "obésité", "prévention", "vaccin"]
 english = ["influenza", "flu"]
@@ -204,9 +204,11 @@ Vaccination annuelle en octobre pour les personnes à risque de grippe grave (Bo
 
 Vaccins contre la grippe disponibles en France pour la campagne vaccinale pour les adultes et les enfants:
 
-- FlucelvaxTetra®
-- Influvac Trivalent®
-- Vaxigrip Trivalent®
+- Efluelda (à partir de et préféré chez le +65 ans)
+- Fluad (à partir de et préféré chez le +65 ans)
+- FlucelvaxTetra® (à partir de 2 ans)
+- Influvac Trivalent® (à partir de 6 mois)
+- Vaxigrip Trivalent® (à partir de 6 mois)
 - Chez les +65 ans, privilégier: Efluelda et Fluad (*HAS 2025*)
 
 Le vaccin nasal Fluenz Tetra® n'est pas disponible en France.

@@ -410,14 +410,14 @@ graph TB
 
 {{< youtube id="3HeRh1Q25kQ" title="Parcours de soin chez un patient avec Fibrillation Atriale (Fréquence Médicale)" >}}
 
-- [Kreutz R et al. 2024 European Society of Hypertension clinical practice guidelines for the management of arterial hypertension. Eur J Intern Med. 2024.](https://www.ejinme.com/article/S0953-6205(24)00238-3/fulltext)
-- [Ray WA et al. Serious Bleeding in Patients With Atrial Fibrillation Using Diltiazem With Apixaban or Rivaroxaban. JAMA. 2024.](https://jamanetwork.com/journals/jama/article-abstract/2817546)
+- [CBIP. Fibrillation auriculaire chez les personnes âgées : quelle prise en charge ?. Folia. 2025.](https://www.cbip.be/fr/articles/4606?folia=4601)
+- [Kreutz R, et al. 2024 European Society of Hypertension clinical practice guidelines for the management of arterial hypertension. Eur J Intern Med. 2024.](https://www.ejinme.com/article/S0953-6205(24)00238-3/fulltext)
+- [Ray WA, et al. Serious Bleeding in Patients With Atrial Fibrillation Using Diltiazem With Apixaban or Rivaroxaban. JAMA. 2024.](https://jamanetwork.com/journals/jama/article-abstract/2817546)
 - [ANSM. Esters éthyliques d'acides Oméga-3 : Risque accru et dose-dépendant de fibrillation auriculaire (ou atriale) chez des patients atteints de maladies cardiovasculaires ou présentant des facteurs de risque cardiovasculaires. 17/11/2023.](https://ansm.sante.fr/informations-de-securite/esters-ethyliques-dacides-omega-3-risque-accru-et-dose-dependant-de-fibrillation-auriculaire-ou-atriale-chez-des-patients-atteints-de-maladies-cardiovasculaires-ou-presentant-des-facteurs-de-risque-cardiovasculaires)
 - [HAS. Fibrillation auriculaire. Actes et prestations Affection de longue durée. 2023.](https://www.has-sante.fr/jcms/c_568395/fr/ald-n-5-fibrillation-auriculaire)
 - {{< references/esh-2023 >}}
 - [US Preventive Services Task Force. Screening for Atrial Fibrillation: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2021.23732)
 - {{< references/esc-cvd >}}
-- [Hindricks G. et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Hear Jour. 2021.](https://academic.oup.com/eurheartj/article/42/5/373/5899003)
 - Prescrire Redaction. Fibrillation auriculaire. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - Collège National des Enseignants de Cardiologie. Fibrillation atriale. Item 230 - UE8. Cardiologie 2e édition. 2019.
 - [HAS. Fibrillation atriale. Guide parcours de soins. Février 2014.](https://www.has-sante.fr/jcms/c_1741768/fr/guide-parcours-de-soins-fibrillation-atriale)

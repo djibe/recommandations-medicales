@@ -130,7 +130,7 @@ Bilan pré thérapeutique du méthotrexate:
 {{% /collapse %}}
 {{%collapse "Co-prescription d'acide folinique" %}}
 
-Acide folinique ([Folinoral 5 mg](https://bdpm.ansm.sante.fr/medicament/67479020/extrait#tab-rcp), [Lederfoldine 15 mg](https://bdpm.ansm.sante.fr/medicament/66335946/extrait#tab-rcp)) au moins 10 mg 48 heures après la prise du méthotrexate (*SFR 2018*).
+Acide folinique ([Folinoral 5 mg](https://bdpm.ansm.sante.fr/medicament/67479020/extrait#tab-rcp), [Lederfoline 15 mg](https://bdpm.ansm.sante.fr/medicament/66335946/extrait#tab-rcp)) au moins 10 mg 48 heures après la prise du méthotrexate (*SFR 2018*).
 {.alert .alert-info}
 
 La supplémentation en acide folinique (vitamine B9) réduit les effets indésirables du méthotrexate:

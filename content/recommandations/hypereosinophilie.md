@@ -138,6 +138,7 @@ SHE
 - Antécédent de séjour en zone tropicale, baignade en eau douce
 - Contacts avec des animaux
 - Expositions professionnelles
+- Expositions sexuelles ([syphilis]({{% relref "syphilis.md" %}}))
 - Traitements et introduction concomitante de l'hyperéosinophilie
   - Introductions des 6 derniers mois, automédication
   - Classiques: AINS, anti-épileptiques, antibiotiques, allopurinol, sulfamides, antirétroviraux, minocycline.

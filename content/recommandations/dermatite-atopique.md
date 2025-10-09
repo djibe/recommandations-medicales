@@ -298,6 +298,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [NICE. Atopic eczema in under 12s: diagnosis and management. NICE guideline. 2025.](https://www.nice.org.uk/guidance/cg57)
 - [Wheeler KE, et al. Updated Guidelines for Atopic Dermatitis-AAAAI/ACAAI Joint Task Force. JAMA Pediatr. 2024.](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2820957)
 - [Xu AZ, Alexander JT. Topical Therapies for Atopic Dermatitis. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811421)
 
