@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-02T08:27:41+02:00"
 publishdate = "2020-09-02"
-lastmod = "2025-06-12"
+lastmod = "2025-10-09"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2025"
 sources = ["HAS", "SPILF", "EADV"]
@@ -23,34 +23,29 @@ todo = "revoir flow, demander relecture, améliorer dépistage contacts"
 
 {{%article-summary%}}
 
-TODO:
-
-- La syphilis est une infection bactérienne grave (atteinte organique, co-infection VIH élevée, risque materno-fœtal) transmise surtout par voie sexuelle, très fréquente chez les [HSH]({{% relref "hsh.md" %}})
+- La syphilis est une infection bactérienne grave (invasive, co-infection VIH fréquente, risque fœtal) transmise surtout par voie sexuelle et très fréquente chez les [HSH]({{% relref "hsh.md" %}})
 - Évoquer un chancre syphilitique devant toute ulcération génitale
 - Bilan pour le dépistage et le diagnostic d'une syphilis: sérologie syphilitique (test tréponémique unique et non plus TPHA-VDRL)
 - La prise en charge de la syphilis dépend du stade de la maladie:
-  - Syphilis précoce (date de contamination connue de moins d'un an): Benzathine pénicilline G 2,4 MUI IM dose unique
-  - Syphilis tardive (autres cas): Benzathine pénicilline G 2,4 MUI 1 injection IM par semaine pendant 3 semaines
+  - Syphilis précoce (date de contamination connue de moins d'un an): benzathine pénicilline G (BPG) 2,4 MUI IM dose unique avec paracétamol systématique et surveillance pendant 30 minutes
+  - Syphilis tardive (tous les autres cas): BPG 2,4 MUI 1 injection IM par semaine pendant 3 semaines
 - Dépistage des autres [infections sexuellement transmissibles (IST)](/tags/ist/) et dépistage voire traitement d'emblée des partenaires (des 3 derniers mois si chancre, sinon des 2 dernières années)
-- Hospitalisation discutée en cas de grossesse; urgente en cas de signes neurologiques, ophtalmologiques ou auditifs (neurosyphilis) ou cardiaques, syphilis congénitale
-
-**NB.** Renseigner sur la [PrEP]({{% relref "prophylaxie-preexposition-prep.md" %}}) toute personne exposée au VIH.
+- Hospitalisation discutée en cas de grossesse; urgente en cas de signes neurologiques, ophtalmologiques ou auditifs (neurosyphilis), cardiaques ou de syphilis congénitale
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Syphilis
 : Maladie infectieuse à transmission directe, principalement sexuelle par contact avec une lésion génitale (fellation comprise) de la bactérie *Treponema pallidum* (*T. pallidum* ou tréponème pâle, bactérie spirochète, trépanomatose), ou materno-fœtale transplacentaire.
 : La contamination lors de la grossesse entraîne des complications graves chez le fœtus.
-: La majorité des cas de syphilis survient chez les [hommes ayant des rapports sexuels avec des hommes (HSH)]({{% relref "hsh.md" %}}) (85% des cas en 2020) entre 20 et 29 ans. La [co-infection VIH]({{% relref "vih-sida.md" %}}) est très élevée (25%).
+: La grande majorité des cas de syphilis surviennent chez les [hommes ayant des rapports sexuels avec des hommes (HSH)]({{% relref "hsh.md" %}}) (85 % des cas en 2020) entre 20 et 29 ans. La [co-infection VIH]({{% relref "vih-sida.md" %}}) est très élevée (25 %).
 
 ### Les stades de la syphilis
 
-La syphilis est classée selon l'**ancienneté de la contamination** (précoce ou tardive), anciennement selon ses symptômes (primaire, secondaire et tertiaire).
+La syphilis est classée selon l'**ancienneté de la contamination** (précoce ou tardive), précédemment selon ses symptômes (primaire, secondaire et tertiaire).
 
 Syphilis précoce
-: Évolution datant ==de moins d'un an== (J1 étant le 1^er^ jour du chancre). Période de contagiosité maximale.  
-Elle comprend:
+: ==Évolution datant de moins d'un an== (J1 étant le 1^er^ jour du chancre), période de contagiosité maximale. Elle comprend:
     - la **syphilis primaire**
     - la **syphilis sérologique**
     - la **syphilis secondaire**
@@ -78,13 +73,13 @@ Syphilis tertiaire
 ---
 
 Réaction d'Herxeimer
-: Effet secondaire de la pénicilline quasi constante pour la syphilis précoce, le plus souvent sans gravité (aggravation clinique, fièvre, céphalées, éruption) durant les 24 premières heures.
+: Effet secondaire de la pénicilline quasi constant lors du traitement de la syphilis précoce, le plus souvent sans gravité (aggravation clinique, fièvre, céphalées, éruption) et survenant durant les 24 premières heures.
 : Elle disparaît spontanément en 24 heures. Elle ne doit pas être confondue avec une allergie aux bêtalactamines.
 
 ### Abréviations
 
 BPG
-: Benzathine pénicilline G (ou benzathine benzylpénicilline)
+: benzathine pénicilline G (ou benzathine benzylpénicilline)
 
 EADV
 : {{%lang%}}European Academy of Dermatology and Venereology{{%/lang%}}
@@ -131,7 +126,7 @@ Recommandations pour le dépistage répété des personnes à risque de syphilis
 - **[Contexte d'IST récente](/tags/ist/)**
 - Viol
 - Personne vivant avec le [VIH]({{% relref "vih-sida.md" %}}) tous les 3 à 6 mois (*HAS 2018*)
-- [Prophylaxie pré-exposition]({{% relref "prophylaxie-preexposition-prep.md" %}}) (PrEP) tous les 3 mois (*EADV*)
+- [Prophylaxie pré-exposition]({{% relref "prophylaxie-preexposition-prep.md" %}}) (PrEP) tous les 3 mois
 
 > [!INFO]
 > Le dépistage de la syphilis est gratuit avant 26 ans.
@@ -169,7 +164,7 @@ La syphilis était anciennement classée selon ses symptômes (primaire, seconda
 > [!WARNING]
 > Évoquer un chancre devant toute ulcération génitale.
 
-Le chancre syphilitique est ==constant== (dans les 10 à 90 jours) mais non vu en cas d'atteinte profonde (cervico-vaginale, rectale, pharyngée).
+Le chancre syphilitique est ==constant== (dans les 10 à 90 jours) mais passe inaperçu en cas d'atteinte profonde (cervico-vaginale, rectale, pharyngée).
 
 Le chancre est une **lésion muqueuse unique**, superficielle, indurée, indolore, propre et très contagieuse mais qui peut prendre tout autre aspect. La cicatrisation est complète sans cicatrice. Il est souvent accompagné d'**adénopathie(s) régionale(s)** (inguinale ++).
 
@@ -177,7 +172,7 @@ Le chancre est une **lésion muqueuse unique**, superficielle, indurée, indolor
 
 ### Syphilis secondaire
 
-Phase inconstante (1/3 des patients), elle survient en cas de syphilis primaire non traitée, dans les 6 semaines après le chancre (**roséole**) à 1 an (**syphilides papuleuses**).
+Phase inconstante (1/3 des patients), la syphilis secondaire survient lorsque la syphilis primaire n'est pas traitée, dans les 6 semaines après le chancre (**roséole**) à 1 an (**syphilides papuleuses**).
 
 Les atteintes cutanées préférentielles sont le tronc et et le visage avec:
 
@@ -227,7 +222,7 @@ Les sérologies syphilitiques se positivent quelques jours après le début du c
 
 ### Examen au microscope
 
-Examen au microscope à fond noir d'un prélèvement lésionnel. Permet un diagnostic de syphilis immédiat mais le prélèvement nécessite un microscope et une expertise.
+L'examen au microscope à fond noir d'un prélèvement lésionnel permet un diagnostic de syphilis immédiat mais le prélèvement nécessite un microscope et une expertise.
 
 ### Sérologies et prélèvements des autres infections sexuellement transmissibles
 
@@ -236,7 +231,7 @@ Selon les expositions, dépister et traiter [les autres infections sexuellement 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-Seul le port du **préservatif** permet de prévenir une contamination syphilitique en cas de rapport avec une personne de statut inconnu (absence de bilan d'IST récent des deux partenaires).
+Seul le port du **préservatif** permet de prévenir une contamination syphilitique en cas de rapport avec une personne de statut inconnu (absence de dépistage d'IST récent des deux partenaires).
 
 {{% /collapse %}}
 {{%collapse "Traitement de la syphilis" %}}
@@ -244,7 +239,9 @@ Seul le port du **préservatif** permet de prévenir une contamination syphiliti
 > [!WARNING]
 > Hospitalisation urgente en cas de signes neurologiques, ophtalmologiques ou auditifs (neurosyphilis) ou cardiaques, syphilis congénitale.
 
-### Mesures générales
+[Syphilis précoce](#traitement-de-la-syphilis-précoce) -- [Syphilis tardive](#traitement-de-la-syphilis-tardive-ancienneté-inconnue-ou-de-plus-dun-an) -- [Dépistage des partenaires](#notification-des-partenaires-et-traitement)
+
+### A) Mesures générales
 
 Recommandations pour la prise en charge de la syphilis:
 
@@ -252,10 +249,10 @@ Recommandations pour la prise en charge de la syphilis:
 - Protection de tous les rapports sexuels pendant 1 semaine après le début du traitement  
   En cas de chancre: jusqu'à la cicatrisation complète.
 - Dépistage des IST: sérologies VIH, VHB, VHC, prélèvements pour gonocoque/*Chlamydia*
-- Dépistage des contacts
+- [Dépistage des contacts](#notification-des-partenaires-et-traitement)
 - Information du patient: [guide Ameli](https://www.ameli.fr/assure/sante/themes/syphilis)
 
-### Traitement de la syphilis précoce
+### B) Traitement de la syphilis précoce
 
 [Benzathine pénicilline G](https://bdpm.ansm.sante.fr/medicament/64699367/extrait#tab-rcp) (BPG, Extencilline®) 2,4 MUI IM ou 2 injections de BPG 1,2 MUI
 {.alert .alert-info}
@@ -268,27 +265,24 @@ Prise en charge d'une syphilis précoce (**ancienneté certaine de moins d'un an
   - ==Benzathine pénicilline G 2,4 MUI== intramusculaire en **dose unique** dans la fesse ou la face latérale de cuisse (ou 2 injections IM de 1,2 MUI)
   - Garder le patient sous surveillance pendant 30 minutes en présence de matériel d'urgence
   - **Contre-indications:** allergie aux bêtalactamines, anticoagulants
-  - Si **allergie** vraie: [doxycycline](https://bdpm.ansm.sante.fr/medicament/67164569/extrait#tab-rcp) 200 mg/j (en 1 ou 2 prises) pendant 14 jours
-  - Si anticoagulants: doxycycline (cf ci-dessus) voire ceftriaxone IV 1 g/j pendant 10 jours
-- ==Dépistage des partenaires==
-  - Même si rapports protégés
-  - Syphilis primaire: contacts des **3 derniers mois** + durée des symptômes (40 à 60% sont contaminés)
-  - Syphilis secondaire: dépistage des partenaires des **2 dernières années**
+  - Si **allergie** vraie aux bêtalactamines: [doxycycline](https://bdpm.ansm.sante.fr/medicament/67164569/extrait#tab-rcp) 200 mg/j (en 1 ou 2 prises) pendant 14 jours
+  - Si anticoagulants: doxycycline (idem ci-dessus) voire ceftriaxone IV 1 g/j pendant 10 jours
+- ==Dépistage des partenaires== systématique  
+  Voir la méthode de dépistage [plus bas](#notification-des-partenaires-et-traitement).
 
-Affirmer la guérison est impossible: nécessité de surveiller les patients pendant plusieurs années.  
+La guérison de la syphilis ne peut être affirmée: nécessité de surveiller les patients pendant plusieurs années.  
 Répéter le suivi sérologique dans les populations à risque (contaminées ou non).
 {.alert .alert-info}
 
 #### Situations particulières pour le traitement de la syphilis
 
-- Patient VIH
-  Schéma BPG
-- Grossesse
+- Patient VIH: schéma BPG
+- Grossesse  
   Envisager l'hospitalisation (pour la réaction de Jarisch-Herxheimer), schéma BPG immédiat et paracétamol  
   ± prednisone 20-60 mg/j la veille et les 2 jours suivant l'injection
 - Avis infectiologue si cas problématique ou échec du traitement
 
-### Traitement de la syphilis tardive (ancienneté inconnue ou de plus d'un an)
+### C) Traitement de la syphilis tardive (ancienneté inconnue ou de plus d'un an)
 
 Prise en charge et traitement d'une syphilis tardive (ancienneté inconnue ou de plus d'un an en l'absence de signe neurologique, ophtalmologique ou auditif):
 
@@ -300,35 +294,35 @@ Une injection de BPG (Extencilline®) 2,4 MUI IM par semaine pendant 3 semaines
 - Femme enceinte: pas d'alternative à la pénicilline G ([CRAT](https://www.lecrat.fr/13304/))  
   Désensibilisation si nécessaire.
 
-### Notification des partenaires et traitement
+### D) Notification des partenaires et traitement
 
 Syphilis certaine chez patient source, notification des partenaires et test selon l'ancienneté du contact:
 
-- Syphilis primaire:  
-  Tous les contacts des 3 derniers mois + la durée des symptômes, même si rapports protégés.
-- Syphilis secondaire:  
+- **Syphilis primaire:**  
+  Tous les contacts des 3 derniers mois + la durée des symptômes, même si rapports protégés (40 à 60 % sont contaminés).
+- **Syphilis secondaire:**  
   Tous les contacts des 6 mois à 2 ans (même si protégés, *EADV*).
-- Syphilis latente précoce:  
+- **Syphilis latente précoce:**  
   Tous les contacts des 1 à 2 ans.
 
 #### Méthode du dépistage de la syphilis chez les contacts
 
-La prise en charge dépend de l'ancienneté du rapport sexuel à risque:
+Le dépistage des contacts dépend de l'ancienneté du rapport sexuel à risque:
 
 - Si contact < 3 mois:
   - Traitement par BPG (Extencilline®) 2,4 MUI IM par semaine pendant 3 semaines
   - voire surveillance clinique et biologique à J0, S6, M3 ± M6
 - Si contact > 3 mois avant le traitement de la syphilis chez le cas index:  
   surveillance clinique et sérologique à J0, M3 et M6.
-- Syphilis douteuse chez patient source: examiner le contact et sérologie  
-  Si positive: traiter, sinon refaire à 6 semaines puis 3-6 mois.
+- Syphilis douteuse chez le patient source: examiner le contact et prescrire une sérologie  
+  Si positive: traiter, sinon recontrôler à 6 semaines puis 3-6 mois.
 
-Femme enceinte cas contact: traitement systématique.
+**Femme enceinte** cas contact = traitement systématique.
 
 {{% /collapse %}}
 {{%collapse "Suivi" %}}
 
-L'efficacité du traitement doit être contrôlée cliniquement et par sérologie du VDRL.
+L'efficacité du traitement doit être contrôlée **cliniquement** et par sérologie du **VDRL**.
 
 ### Surveillance clinique de la guérison
 
@@ -336,15 +330,15 @@ Disparition du chancre ou de l'éruption en 3 à 15 jours.
 
 ### Surveillance sérologique par suivi du test non tréponémique
 
-Test non tréponémique à 3 mois, 6 mois et 12 mois
+Test non tréponémique à 3 mois, 6 mois et 12 mois.
 {.alert .alert-info}
 
 Évolution du test non tréponémique (TNT):
 
-- 6-12 mois: taux divisé par 4
+- À 6-12 mois: **taux divisé par 4**
   - En cas d'échec: avis infectiologique pour envisager 3 nouvelles injections de BPG
-  - Si TNT ≥ 8: avis infectiologique pour discuter une ponction lombaire
-- 12 mois: négatif pour une syphilis primaire
+  - Si TNT ≥ 8: avis infectiologique pour discuter la réalisation d'une ponction lombaire
+- À 12 mois: TNT négatif pour une syphilis primaire
 - Si VIH ou haut risque de récidive: TNT supplémentaire à 24 mois
 - Si neurosyphilis: tests neurocognitifs, ponction lombaire de contrôle discutée uniquement en cas d'évolution insuffisante entre 6 semaines et 6 mois
 
@@ -357,21 +351,20 @@ Le TPHA ne se négative que rarement sauf chez le patient *VIH+*. Il n'est pas u
 
 ### Échec du traitement et recontamination par la syphilis
 
-Évoquer lorsque le VDRL n'est pas divisé par 4 à 6 mois.  
-On parle de **recontamination** lorsque le VDRL est multiplié d'un facteur ≥ 4.
+Évoquer un échec ou une recontamination lorsque le VDRL n'est pas divisé par 4 à 6 mois. On parle de **recontamination** lorsque le VDRL est multiplié d'un facteur ≥ 4.
 
 Dans ce cas:
 
-- Recommencer le traitement d'une syphilis tardive  
-  1 injection de Benzathine pénicilline G (BPG) 2,4 MUI IM par semaine pendant 3 semaines
+- Recommencer le traitement d'une syphilis tardive:  
+  1 injection de Benzathine pénicilline G (BPG) 2,4 MUI IM par semaine pendant 3 semaines.
 - Sérologie VIH
 - Adresser en dermatologie pour ponction lombaire  
-{{%class%}}Recherche d'une neurosyphilis.{{%/class%}}
+  {{%class%}}Recherche d'une neurosyphilis.{{%/class%}}
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-[Guide patient sur la syphilis de l'IUSTI (PDF)](https://iusti.org/wp-content/uploads/2019/11/Syphilis_French-translation.pdf).
+[Guide patient sur la syphilis de l'IUSTI (PDF)](https://iusti.org/wp-content/uploads/2019/11/Syphilis_French-translation.pdf) et [guide Ameli](https://www.ameli.fr/assure/sante/themes/syphilis).
 
 Informations à donner sur la syphilis:
 
@@ -405,7 +398,7 @@ graph TB
     ttt --> surv("- Clinique<br>- TNT à M3, M6, M12")
       surv -. Échec .-> infectiologue(Infectiologue)
   clinique["Lésions suspectes de syphilis<br>ou dépistage des IST"] -- "Sérologie syphilitique +" --> anciennete("Date de contamination<br>connue ?")
-    anciennete -- Oui --> adapte("- Schéma BPG adapté<br>(unique ou 1/sem 3 sem)<br>- Dépistage contacts adapté") --> surv
+    anciennete -- Oui --> adapte("- Schéma BPG adapté:<br>- &lt; 1 an: IM unique<br>- Autres: IM 1/sem 3 sem)<br>- Dépistage contacts adapté") --> surv
     anciennete -- Non --> tardive("<b>Syphilis tardive</b>") --> examen("Examen rigoureux<br>Neuro, ophtalmo,<br>auditif") -- Normal --> traitement("- BPG 2,4 MUI IM 1/sem x3<br>- Dépistage contacts<br>&lt; 2 ans") --> surv
       examen -- Anormal --> infectiologue
   style chancre stroke:#4150f5, stroke-width:1px
