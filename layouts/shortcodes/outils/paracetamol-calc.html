@@ -53,9 +53,11 @@
         str = '1 g toutes les 6 heures';
       }
       Paracetamol.html(str);
-      // Ibuprofene
-      if ( weight < 20) {
-        str2 = '1 dose-kg toutes les 8 heures';
+      // Ibuprofen
+      if ( weight < 8) {
+        str2 = 'Uniquement si +3 mois:<br> 1 dose-kg toutes les 8 heures<br><br><span class="text-black-secondary text-small">graduation 1 kg = 0,5 mL</span>';
+      } else if ( weight >= 8 && weight < 20) {
+        str2 = '1 dose-kg toutes les 8 heures<br><br><span class="text-black-secondary text-small">graduation 1 kg = 0,5 mL</span>';
       } else if ( weight >= 20 && weight < 40 ) {
         str2 = '200 mg toutes les 8 heures';
       } else if ( weight >= 40 ) {

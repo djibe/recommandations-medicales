@@ -51,7 +51,7 @@ Traitement de première intention pour les douleurs faibles (EVA/EN 1-3) à mod�
 
 ### AINS - Ibuprofène
 
-**Posologie chez le +3 mois:** 10 mg/kg/8h ou 7,5 mg/kg/6h par voie orale (max 30 mg/kg/j avec max 400 mg/prise) sur une période courte (3j si fièvre, 5j si douleurs).
+Chez le plus de 3 mois uniquement, **posologie:** 10 mg/kg/8h ou 7,5 mg/kg/6h par voie orale (max 30 mg/kg/j avec max 400 mg/prise) sur une période courte (3 jours si fièvre, 5 jours si douleurs -- *ANSM*).
 
 Formes: sirop, capsule, comprimé.
 
@@ -63,10 +63,15 @@ Traitement sûr (*[Lesko 1995](https://pubmed.ncbi.nlm.nih.gov/7884951/)*). Clas
 
 #### Situations où éviter les AINS
 
-- [Varicelle]({{% relref "varicelle.md" %}}) (même si aucun lien prouvé)
+- Jamais si [varicelle]({{% relref "varicelle.md" %}}) (*Pediadol*, même si aucun lien prouvé)
 - Infection pulmonaire ou ORL **sévère**, cutanées ou des tissus mous
-- Risque hémorragique ou trouble de la coagulation
-- Risque de déshydratation ([diarrhées]({{% relref "diarrhee-aigue-nourrisson.md" %}}), canicule ...)
+- Prudence si risque hémorragique ou trouble de la coagulation
+- Prudence si risque de déshydratation ([diarrhées]({{% relref "diarrhee-aigue-nourrisson.md" %}}), canicule ...)
+- Contre-indications des RCP:
+  - Insuffisances cardiaque, hépatique ou rénale sévère
+  - Ulcère gastrique ou antécédent de saignement gastrique avec AINS
+  - Hypersensibilité ou intolérance à la molécule (antécédent de réaction allergique, de crise d'asthme déclenchée par la prise ...); lupus
+  - Ne jamais associer deux AINS entre eux
 
 {{% /collapse %}}
 {{%collapse "Antalgie palier 2" %}}
