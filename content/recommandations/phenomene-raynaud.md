@@ -256,7 +256,7 @@ style susp stroke:#4150f5, stroke-width:1px
 - [Collège des enseignants de dermatologie de France (CEDEF). Acrosyndromes. Phénomène de Raynaud, érythermalgie, acrocyanose, engelures, ischémie digitale. Item 239. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-239-%E2%80%94-Acrosyndromes-phenomene-de-Raynaud-%C2%B4erythermalgie-acrocyanose-engelures-ischemie-digitale_CompressPdf.pdf)
 - Collège National des Enseignants de Médecine Interne (CEMI). Acrosyndromes. Item 239. Référentiel Collège de Médecine interne R2C. 2021.
 - Collège des Enseignants de Médecine Vasculaire, Collège Français de Chirurgie Vasculaire. Acrosyndromes Vasculaires. Référentiel ECNi. 2015.
-- [Pistorius MA, Carpentier PH, le groupe de travail « Microcirculation » de la Société française de médecine vasculaire. Bilan étiologique minimal du phénomène de Raynaud : un consensus d'experts. Annales de Dermatologie et de Vénéréologie. 2013.](https://www.sciencedirect.com/science/article/abs/pii/S0151963813005358)
+- [Pistorius MA, Carpentier PH, le groupe de travail « Microcirculation » de la Société française de médecine vasculaire. Bilan étiologique minimal du phénomène de Raynaud : un consensus d'experts. Annales de Dermatologie et de Vénéréologie. 2013.](https://www.sciencedirect.com/science/article/abs/pii/S0151963813005358)
 - Collège Français des Enseignants en Rhumatologie (COFER). Phénomène de Raynaud. Item 327. 2011.
 
 {{%/sources%}}

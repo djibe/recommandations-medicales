@@ -10,7 +10,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-06-05T22:27:15+02:00"
 publishdate = "2025-06-06"
-lastmod = "2025-07-07"
+lastmod = "2025-10-10"
 specialites = ["thérapeutique"]
 annees = "2025"
 sources = ["SFPC"]
@@ -32,7 +32,7 @@ datatable = true
 
 {{%/article-summary%}}
 
-{{< csv-to-table file="/data/medicaments-ecrasables.csv" title="Liste des médicaments pouvant être écrasés ou non, avec leurs conditions de prise et de manipulation. Dr JB Fron d'après Omedit Normandie et SFPC juillet 2025" >}}
+{{< csv-to-table file="/data/medicaments-ecrasables.csv" title="Liste des médicaments pouvant être écrasés ou non, avec leurs conditions de prise et de manipulation. Dr JB Fron d'après Omedit Normandie et SFPC septembre 2025" >}}
 
 {{%sources%}}
 

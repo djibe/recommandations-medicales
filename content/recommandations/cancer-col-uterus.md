@@ -336,7 +336,7 @@ En cas de conisation ou trachélectomie simple ou élargie: Test HPV-HR à 6 moi
 - {{< references/beh-cancers-incidence >}}
 - {{< references/inca-cancers-mortalite >}}
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
-- [Hanguehard R, et al. Couverture vaccinale contre les infections à papillomavirus humain des filles âgées de 15 à 18 ans et déterminants de vaccination, France, 2021. BEH. 2022.](http://beh.santepubliquefrance.fr/beh/2022/24-25/2022_24-25_3.html)
+- [Hanguehard R, et al. Couverture vaccinale contre les infections à papillomavirus humain des filles âgées de 15 à 18 ans et déterminants de vaccination, France, 2021. BEH. 2022.](http://beh.santepubliquefrance.fr/beh/2022/24-25/2022_24-25_3.html)
 - [INCa. Cancers invasifs du col utérin - Du diagnostic au suivi. 2021.](https://www.cancer.fr/professionnels-de-sante/recommandations-et-aide-a-la-pratique/outils-pour-la-pratique-des-medecins-generalistes/outils-par-localisation-de-cancer/cancers-invasifs-du-col-uterin)
 - [INCa. Les cancers invasifs du col utérin en 10 points clés. 2021.](https://www.cancer.fr/professionnels-de-sante/recommandations-et-aide-a-la-pratique/outils-pour-la-pratique-des-medecins-generalistes/outils-par-localisation-de-cancer/cancers-invasifs-du-col-uterin)
 - [INCa. Dépistage et prévention de cancer du col de l'utérus - Rôle du médecin et de la sage-femme. 2020.](https://www.cancer.fr/catalogue-des-publications/depistage-et-prevention-du-cancer-du-col-de-l-uterus-role-du-medecin-et-de-la-sage-femme)
@@ -347,6 +347,10 @@ En cas de conisation ou trachélectomie simple ou élargie: Test HPV-HR à 6 moi
 - [HAS. Cancer invasif du col utérin. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_lap_col_uterin_web.pdf)
 - [HAS. Cancer invasif du col utérin. Janvier 2010. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_gm_col_uterin_web_2010-02-12_09-57-34_599.pdf)
 - [Vaccination Info Service. Les infections à papillomavirus humains (HPV).](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Les-Infections-a-Papillomavirus-humains-HPV)
+
+### Bibliographie en attente
+
+[HAS. Dépistage du cancer du col de l'utérus chez les personnes immunodéprimées (hors PVVIH). 2025.](https://www.has-sante.fr/jcms/p_3585926/fr/depistage-du-cancer-du-col-de-l-uterus-chez-les-personnes-immunodeprimees-hors-pvvih)
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}

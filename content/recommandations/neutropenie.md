@@ -125,8 +125,8 @@ Le risque infectieux dans ce cas est nul. Cette entité ne nécessite ni surveil
     Connectivite (lupus, [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), syndrome de Gougerot-Sjögren), Syndrome d'Evans.
   - Endocrinopathie  
     [Hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}), [hypothyroïdie]({{% relref "hypothyroidie.md" %}}), insuffisance surrénalienne, panhypopituitarisme.
-  - Neutropénie auto-immune du nourrisson ou idiopathique de l'adulte
-  - Neutropénie à LGL (entité rare de syndrome lymphoprolifératif de l'adulte)
+  - Neutropénie auto-immune du nourrisson ou idiopathique de l'adulte
+  - Neutropénie à LGL (entité rare de syndrome lymphoprolifératif de l'adulte)
 - Génétiques
   - Neutropénie congénitale  
     Entité rare de maladie monogénique (environ 40 gènes décrits) nécessitant un suivi spécialisé devant le risque infectieux, les comorbidités fréquentes et le risque leucémique, variable selon le gène impliqué.

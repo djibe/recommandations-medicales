@@ -22,7 +22,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "Composants toxiques de la cigarette par La Ligue contre le cancer"
-todo = "rankok, bénéfices de l'arrêt, aider à gérer la rechute: HAS p.33+35+36; Arret avant 30ans : élimine 100 % du risque de décès par coro. Avant 40 ans : élimine 90% du risque (Pirie Ket al. Lancet 2013 ; 381:133-41)"
+todo = "rankok, bénéfices de l'arrêt, aider à gérer la rechute: HAS p.33+35+36; Arret avant 30ans : élimine 100 % du risque de décès par coro. Avant 40 ans : élimine 90% du risque (Pirie Ket al. Lancet 2013 ; 381:133-41)"
 +++
 
 {{%article-summary%}}
@@ -137,7 +137,7 @@ TNS
 : traitement nicotinique de substitution ({{%lang%}}nicotine replacement therapy - NRT{{%/lang%}}) ou traitements de substitution nicotinique (TSN) ou thérapies de substitution nicotinique (TSN)
 
 SFT
-: Société Francophone de Tabacologie
+: Société Francophone de Tabacologie
 {.dl-inline}
 
 ### Complications du tabac

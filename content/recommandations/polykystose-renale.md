@@ -37,12 +37,12 @@ Chapitres liés: [insuffisance rénale chronique]({{% relref "insuffisance-renal
 {{%collapse "Définition" %}}
 
 Polykystose rénale autosomique dominante
-: Maladie génétique à transmission autosomique dominante fréquente (prévalence de 0,1 %) entraînant la compression et la fibrose du parenchyme rénal par de multiples kystes. Elle est à l'origine de 8 à 10% des insuffisances rénales terminales (survient entre 50 et 70 ans).
-: Les gènes PKD~1~ (85%) et PKD~2~ (15%, moins sévère) sont les porteurs des mutations qui sont spécifiques à chaque famille. L'évolution diverge donc d'une famille à l'autre. 5% des cas surviennent *de novo*.
+: Maladie génétique à transmission autosomique dominante fréquente (prévalence de 0,1 %) entraînant la compression et la fibrose du parenchyme rénal par de multiples kystes. Elle est à l'origine de 8 à 10 % des insuffisances rénales terminales (survient entre 50 et 70 ans).
+: Les gènes PKD~1~ (85 %) et PKD~2~ (15 %, moins sévère) sont les porteurs des mutations qui sont spécifiques à chaque famille. L'évolution diverge donc d'une famille à l'autre. 5 % des cas surviennent *de novo*.
 
 ### Critères diagnostiques de la polykystose rénale chez les apparentés
 
-De 30 à 39 ans, l'absence de kyste a une VPN de 99%. Après 40 ans, moins de 2 kystes infirme le diagnostic.
+De 30 à 39 ans, l'absence de kyste a une VPN de 99 %. Après 40 ans, moins de 2 kystes infirme le diagnostic.
 
 {{< table title="Critères diagnostiques de la polykystose rénale autosomique dominante à l'échographie rénale chez les apparentés. PKRAD 1 ou 2 affirmée si seuil atteint selon l'âge." >}}
 |   Âge |           Kystes rénaux |
@@ -67,7 +67,7 @@ PKRAD
 La polykystose rénale est le plus souvent découverte chez l'adulte jeune sur les signes ou symptômes suivants:
 
 - Antécédents familiaux: maladie rénale kystique (arbre généalogique)
-- Antécédents: lithiases urinaires, hématurie, [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) précoce
+- Antécédents: lithiases urinaires, hématurie, **[hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})** précoce (avant 40 ans)
 - Traitements en cours, contraception
 - Tabagisme, alcool, cannabis et autres toxiques
 - Activité physique
@@ -78,7 +78,7 @@ La polykystose rénale est le plus souvent découverte chez l'adulte jeune sur l
   - Colique néphrétique
   - Infection d'un kyste
   - [Insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}})
-- Complications neurologiques: anévrysmes des artères cérébrales (8%, 16% si antécédents familiaux)
+- Complications neurologiques: anévrysmes des artères cérébrales (8 %, 16 % si antécédents familiaux)
 - Incidentalome: reins polykystiques en échographie ou kystes hépatiques
 
 ### Examen clinique
@@ -149,7 +149,7 @@ Les mesures de prise en charge de la polykystose rénale autosomique dominante (
 - Suivi annuel: pression artérielle dès l'adolescence, créatininémie, rapport albuminurie/créatininurie
 - En cas de douleurs lombaires ou de fièvre non étiquetée: NFS, CRP, ECBU, scanner abdominal
 
-Le tolvaptan (Jinarc) est le seul traitement spécifique envisageable par le néphrologue (efficacité faible). La greffe rénale est le traitement de référence de l'insuffisance rénale terminale.
+Le tolvaptan (Jinarc®) est le seul traitement spécifique envisageable par le néphrologue (efficacité faible). La greffe rénale est le traitement de référence de l'insuffisance rénale terminale.
 
 **NB.** Les mutations génétiques ne sont pas recherchées. Les enfants d'un sujet indemne ne sont pas à risque.
 
@@ -166,12 +166,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Polykystose rénale. Item 266. Manuel de néphrologie 11ème édition. 2025.](http://manuel3.cuen.fr/spip.php?article74)
+- [Kidney Disease: Improving Global Outcomes (KDIGO) ADPKD Work Group. KDIGO 2025 Clinical Practice Guideline for the Evaluation, Management, and Treatment of Autosomal Dominant Polycystic Kidney Disease (ADPKD). Kidney Int. 2025.](https://kdigo.org/guidelines/autosomal-dominant-polycystic-kidney-disease-adpkd/)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Polykystose rénale. Item 266. Manuel de néphrologie 11ème édition. 2025.](https://manuel4.cuen.fr/spip.php?article78)
 - Prescrire Redaction. Tolvaptan : à écarter dans la polykystose rénale. Rev Prescrire. 2022.
-
-### Bibliographie en attente
-
-[Kidney Disease: Improving Global Outcomes (KDIGO) ADPKD Work Group. KDIGO 2025 Clinical Practice Guideline for the Evaluation, Management, and Treatment of Autosomal Dominant Polycystic Kidney Disease (ADPKD). Kidney Int. 2025.](https://kdigo.org/guidelines/autosomal-dominant-polycystic-kidney-disease-adpkd/)
 
 {{%/sources%}}
 {{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}

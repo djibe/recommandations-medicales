@@ -164,7 +164,7 @@ graph TB
 
 - [CBIP. Quelles sont les options sûres dans la prise en charge des nausées et vomissements pendant la grossesse ?. Folia. 2025.](https://www.cbip.be/fr/articles/4586?folia=4585)
 - [Centre de Référence sur les Agents Tératogènes. Antiémétiques - Grossesse. 17/12/2024.](https://www.lecrat.fr/3593/)
-- [Deruelle P, et al. Consensus formalisé d'experts du Collège national des gynécologues et obstétriciens français : prise en charge des nausées et vomissements gravidiques et de l'hyperémèse gravidique. Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Complications%20de%20la%20grossesse/Nausees-et-vomissements-gravidiques%202022-CFE.pdf?x60010)
+- [Deruelle P, et al. Consensus formalisé d'experts du Collège national des gynécologues et obstétriciens français : prise en charge des nausées et vomissements gravidiques et de l'hyperémèse gravidique. Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Complications%20de%20la%20grossesse/Nausees-et-vomissements-gravidiques%202022-CFE.pdf?x60010)
 
 {{%/sources%}}
 {{% modal title="Score PUQE des vomissements gravidiques" id="modal-puqe"%}}

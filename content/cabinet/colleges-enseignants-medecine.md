@@ -73,7 +73,7 @@ Pour ne pas les citer:
 - Collège National des Enseignants de Médecine Légale (CNEML), Collège des Enseignants Hospitalo-Universitaires de Médecine et Santé au Travail (CEHUMT), Société Française de Médecine Légale (SFML)
 - Collège national des Enseignants de Médecine Interne (CEMI)
 - Collège des Enseignants de Médecine de la Douleur (CEMD), Collège National des Enseignants pour la Formation Universitaire en Soins Palliatifs (CNEFUSP), Société Française d'Anesthésie et de Réanimation (SFAR)
-- Collège des Enseignants de Nutrition des Facultés de Médecine (CEN)
+- Collège des Enseignants de Nutrition des Facultés de Médecine (CEN)
 - Association Française des Enseignants de Parasitologie-Mycologie (ANOFEL)
 - Collège des Enseignants de Radiologie Française (CERF)
 

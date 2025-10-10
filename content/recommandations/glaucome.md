@@ -205,7 +205,7 @@ Le suivi spécialisé ophtalmologique du glaucome est **régulier à vie**:
 
 ### Bibliographie en attente
 
+- [European Glaucoma Society. Terminology and guidelines for glaucoma. 6^th^ edition. 2020.](https://bjo.bmj.com/content/109/Suppl_1/1.long)
 - [Aptel F. Le dossier - Prise en charge du glaucome. L'escalade du traitement médical. réalités Ophtalmologiques. 2025. (PDF)](https://www.realites-cardiologiques.com/wp-content/uploads/sites/4/2025/03/07_APTEL_DO.pdf)
-- [European Glaucoma Society. Terminology and guidelines for glaucoma. 5^th^ edition. 2020.](https://www.eugs.org/educational_materials/6)
 
 {{%/sources%}}

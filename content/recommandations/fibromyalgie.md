@@ -275,6 +275,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="Qd8HegHdCko" title=" Fibromyalgie : améliorer la stratégie diagnostique et thérapeutique (HAS)" >}}
+
 {{< card-link-external title="Journée Inserm sur la présentation de la synthèse fibromyalgie en vidéo" url="https://www.inserm.fr/expertise-collective/fibromyalgie/" subtitle="Inserm">}}
 
 {{< video mp4="https://media.frequencemedicale.com/JDF/EM238/20230314_JDF_FIBRO_NEURO.mp4" poster="https://www.frequencemedicale.com/media/fmtype/images/jdf238-1678872447.png" description="Douleur chronique diffuse : fibromyalgie ou neuropathie des petites fibres ? (Dr Florian Bailly par FréquenceMédicale)" >}}
