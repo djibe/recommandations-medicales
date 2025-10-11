@@ -30,7 +30,7 @@ Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'
 Recommandations pour la prise en charge d'une suspicion de thrombose veineuse profonde (TVP) en l'absence de signe d'[embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}}) (dyspnée, malaise, tachycardie et douleur thoracique):
 
 - Score clinique systématique (score de Wells ou Constans, voir *Probabilité clinique*) avec dosage des D-dimères ou écho-doppler veineux d'emblée selon le résultat du score
-- Le seuil de D-dimères est adapté à l'âge à partir de 50 ans (ex: 700 après 70 ans)
+- Pour les suspicions faibles de TVP, le seuil de D-dimères dépend du laboratoire (souvent 500 µg/L)
 - Le bilan par échodoppler veineux est nécessaire dans les cas suivants: probabilité faible/intermédiaire et d-dimères non réalisables, d-dimères anormaux
 - Contrôler les critères d'hospitalisation d'une phlébite (voir *Critères d'hospitalisation*)
 - Mener l'enquête étiologique de la survenue de cet épisode
@@ -107,15 +107,15 @@ Recours d'emblée à l'écho-doppler veineux si les D-dimères ne sont pas réal
 
 #### Interpréter les résultats de D-dimères
 
-Après 50 ans, la borne des D-dimères est à 10x l'âge (ex. 700 à 70 ans, < 500 ng/mL avant 50 ans).
-{.alert .alert-info}
+Le seuil de positivité des D-Dimères est souvent > 500 µg/L (ou norme du laboratoire).
+
+Prise en charge selon le résultat:
 
 - D-dimères normaux
   - Ne pas réaliser d'écho-doppler
   - Ne pas poursuivre les investigations
 - D-dimères anormaux: écho-doppler veineux
 
-Autres situations où les d-dimères sont augmentés (*SFMV 2021*): état inflammatoire (traumatisme, hématome, post-opératoire, maladie inflammatoire, sepsis), [cancer](/tags/cancer/), malformation vasculaire, CIVD, âge, [grossesse]({{% relref "grossesse.md" %}}) et [post-partum]({{% relref "post-partum.md" %}}).
 Autres situations où les d-dimères sont augmentés (*SFMV 2021*): état inflammatoire (traumatisme, hématome, post-opératoire, maladie inflammatoire, sepsis), [cancer](/tags/cancer/), malformation vasculaire, CIVD, âge, [grossesse]({{% relref "grossesse.md" %}}) et [post-partum]({{% relref "post-partum.md" %}}).
 
 ### Écho-doppler veineux
@@ -288,8 +288,7 @@ Avec éducation thérapeutique et carnet de suivi.
 - **Chaussettes de contention classe III** ≥ 6 mois
 - Si TVP stable: mobilisation précoce
 - Expliquer la cause de survenue de la thrombose
-- Consultation de suivi  
-TODO:
+- Consultation de suivi
 - À distance: rechercher une dyspnée d'effort (({{< modal-btn score-nyha >}}score NYHA{{< /modal-btn >}} ou {{< modal-btn score-mmrc >}}mMRC{{< /modal-btn >}}) )
 
 ### Filtre cave
@@ -328,15 +327,15 @@ graph TB
 {{%sources%}}
 
 - [SFMV, GFHT. La place du dosage des d-dimères en médecine. Communiqué. 2021.](https://www.innovte-thrombosisnetwork.eu/sites/innovte/files/brique/fichier/02-2024/Com_dosage%20des%20d-dimeres%20en%20VF.pdf)
-- [Sanchez O et al; SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://www.sciencedirect.com/science/article/pii/S0761842519300051)
+- [Sanchez O, et al; SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://www.sciencedirect.com/science/article/pii/S0761842519300051)
 
 ### Bibliographie en attente
 
-- [Guntupalli SR et al. Prevention of venous thromboembolism in patients with cancer. BMJ. 2023.](https://www.bmj.com/content/381/bmj-2022-072715)
+- [Guntupalli SR, et al. Prevention of venous thromboembolism in patients with cancer. BMJ. 2023.](https://www.bmj.com/content/381/bmj-2022-072715)
 - [Collège des Enseignants de Pneumologie (CEP). Embolie pulmonaire et thrombose veineuse profonde. Item 226. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_226_MALADIE_THROMBO-EMBOLIQUE_VEINEUSE_2023.pdf)
-- [Mahé I et al; SPLF. Traitement de la maladie veineuse thromboembolique au cours du cancer. Mise à jour mars 2021. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/traitment-maladie-veineuse-maj2021.pdf)
-- [Albaladejo et al. Commentaires et propositions du Groupe d'Intérêt en Hémostase Périopératoire (GIHP) sur les recommandations de la Société Européenne d'Anesthésie : European Guidelines on perioperative venous thromboembolism prophylaxis. 2019. (PDF)](https://www.portailvasculaire.fr/sites/default/files/docs/2019_gihp_commentaires_2018_esa_vte_guidelines_mtev_prevention_peri-op.pdf)
-- [Afshari A et al; ESA VTE Guidelines Task Force. European Guidelines on perioperative venous thromboembolism prophylaxis. Eur Jour ANAES. 2018.](https://journals.lww.com/ejanaesthesiology/fulltext/2018/02000/european_guidelines_on_perioperative_venous.2.aspx)
+- [Mahé I, et al; SPLF. Traitement de la maladie veineuse thromboembolique au cours du cancer. Mise à jour mars 2021. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/traitment-maladie-veineuse-maj2021.pdf)
+- [Albaladejo, et al. Commentaires et propositions du Groupe d'Intérêt en Hémostase Périopératoire (GIHP) sur les recommandations de la Société Européenne d'Anesthésie : European Guidelines on perioperative venous thromboembolism prophylaxis. 2019. (PDF)](https://www.portailvasculaire.fr/sites/default/files/docs/2019_gihp_commentaires_2018_esa_vte_guidelines_mtev_prevention_peri-op.pdf)
+- [Afshari A, et al; ESA VTE Guidelines Task Force. European Guidelines on perioperative venous thromboembolism prophylaxis. Eur Jour ANAES. 2018.](https://journals.lww.com/ejanaesthesiology/fulltext/2018/02000/european_guidelines_on_perioperative_venous.2.aspx)
 
 {{%/sources%}}
 {{% modal title="Clairance de la créatinine selon Cockroft" id="modal-score-cockroft"%}}
