@@ -96,6 +96,15 @@ Premier degré
 : parents, fratrie, enfants
 {.dl-inline}
 
+### Pour en savoir plus: l'intolérance au gluten auto-déclarée avec tests négatifs
+
+Une petite étude en double aveugle devra être confirmée, mais elle retrouvait les éléments suivants chez des volontaires se déclarant intolérants au gluten avec un diagnostic infirmé:
+
+- Les douleurs sont significativement plus élevées lorsque l'on informe sur la consommation de gluten (et maximales mais sans différence significative lorsque le pain en contient réellement)
+- Que le pain soit avec ou sans gluten, les douleurs ne sont pas différentes lorsque l'on n'informe pas les sujets
+
+> -- *[de Graaf MCG, et al. 2024.](https://pubmed.ncbi.nlm.nih.gov/38040019/)*
+
 {{% /collapse %}}
 {{%collapse "Quels adultes dépister ?" %}}
 

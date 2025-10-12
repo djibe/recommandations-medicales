@@ -191,6 +191,8 @@ Traitement par germe selon *EAU 2024*:
   - Si résistance aux 5-nitroimidazolés: métronidazole 1 g x 2/j pendant 7 jours
 - Non identifié: doxycycline 100 mg x 2/j pendant 7 jours
 
+Pour les germes des infections urinaires (*E. coli* ...), voir [infection urinaire]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}).
+
 </div>
 </div>
 </div>

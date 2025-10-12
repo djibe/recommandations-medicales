@@ -5,7 +5,7 @@ description = "Liens vers les collèges des enseignants de médecine de deuxièm
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-14T16:20:00+02:00"
 publishdate = "2023-01-16"
-lastmod = "2025-09-22"
+lastmod = "2025-10-11"
 annees = "2025"
 sources = ["Colleges"]
 tags = []
@@ -34,6 +34,7 @@ Le tableau ci-dessous liste tous les référentiels des Collèges de médecine d
 | Gériatrie | CNEG <br><span class="typography-caption">Collège National des Enseignants en Gériatrie</span> | 2014 | [lien](https://www.seformeralageriatrie.org/livregeriatriecneg) |
 | Infectiologie | CMIT <br><span class="typography-caption">Collège des universitaires de Maladies Infectieuses et Tropicales</span> | 2023 | [Pilly](https://www.infectiologie.com/fr/pilly-etudiant-2023-disponible-a-la-vente-et-en-ligne.html) |
 | Médecine physique | COFEMER <br><span class="typography-caption">Collège Français des Enseignants universitaires de Médecine physique et de Réadaptation</span> | 2018 | [lien](https://www.cofemer.fr/cofemer/gestionPagesWebStandard.do?dispatchMethod=affiche&pageId=55) |
+| Médecine vasculaire | CEMV <br><span class="typography-caption">Collège des Enseignants de Médecine Vasculaire</span> | 2022 | [lien](https://pufr-editions.fr/wp-content/uploads/2022/06/PUFR-ECN-VASCU-interieur-BD.pdf) |
 | Néphrologie | CUEN <br><span class="typography-caption">Collège Universitaire des Enseignants de Néphrologie</span> | 2025 | [lien](https://manuel4.cuen.fr) |
 | Neurologie | CEN <br><span class="typography-caption">Collège des Enseignants de Neurologie</span> | 2019 | [lien](https://www.cen-neurologie.fr/second-cycle) |
 | Ophtalmologie | COUF <br><span class="typography-caption">Collège des Ophtalmologistes Universitaires de France</span> | 2021 | [lien](https://couf.fr/espace-etudiants/2eme-cycle-dfasm/) |
@@ -57,7 +58,6 @@ Pour ne pas les citer:
 - Collège national des gynécologues et obstétriciens français (CNGOF)
 - Collège des Enseignants en Allergologie (CEA)
 - Collégiale de Bactériologie-Virologie-Hygiène (Azay)
-- Collège des Enseignants de Médecine Vasculaire (CEMV)
 - Collège national de biochimie et biologie moléculaire médicale (CNBBMM)
 - Collège des Enseignants de Radiologie de France (CERF), Collège National des Enseignants de Biophysique et de Médecine Nucléaire (CNEBMN)
 - Chirurgie Maxillo-faciale et Stomatologie (CNECMF)
