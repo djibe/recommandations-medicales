@@ -9,7 +9,7 @@ synonyms = ["Exacerbation d'asthme", "crise d'asthme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-06-21T10:56:00+02:00"
 publishdate = "2021-06-29"
-lastmod = "2025-09-17"
+lastmod = "2025-10-12"
 specialites = ["allergologie", "pneumologie"]
 annees = "2024"
 sources = ["SP2A", "GINA", "ERS", "SPLF"]
@@ -26,32 +26,32 @@ flowchart = true
 {{%article-summary%}}
 
 - Bannir le terme de << bronchite asthmatiforme >>, l'asthme est une maladie chronique
-- Éviction du tabac et de la cigarette électronique
-- Diagnostic de certitude de l'asthme par symptômes évocateurs répétés et EFR concluantes
+- Éviction du tabac et de la cigarette électronique, enquête sur les allergènes et contrôle de l'atopie (rhinite allergique, eczéma)
+- Diagnostic de certitude de l'asthme par symptômes évocateurs répétés et spirométries/EFR concluantes
 - Exacerbation asthmatique
-  - Le débit expiratoire de pointe (DEP) est toujours répété 3 fois de suite
+  - Adulte: le débit expiratoire de pointe (DEP) est toujours répété 3 fois de suite
   - Le plan d'action de l'asthme doit être écrit
-  - 80% ne savent pas utiliser l'inhalateur (*GINA 2022*): chambre d'inhalation préconisée
-  - Traitement de crise de l'asthme: bronchodilatateur de courte durée d'action {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} (béclométasone ou budésonide)  
-    avec prednisone 40-50 mg/j pendant 5 à 7 jours
+  - 80 % ne savent pas utiliser l'inhalateur (*GINA 2022*): une chambre d'inhalation est préconisée
+  - Traitement de la crise d'asthme: bronchodilatateur de courte durée d'action {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} (béclométasone ou budésonide)
+  - Salbutamol chez l'enfant: 1 bouffée/2 kg (de 4 à 15) toutes les 20 minutes pendant 1 heure, avis médical urgent si persistance  
+  avec prednisone 40-50 mg/j pendant 5 à 7 jours (enfant: 1-2 mg/kg -- max 40 mg/j -- pendant 3-5 jours)
 - Asthme en état stable
-  - Maîtrise de l'asthme: {{< modal-btn modal-score-act >}}questionnaire *ACT™*{{< /modal-btn >}} à chaque consultation
+  - Maîtrise de l'asthme: {{< modal-btn modal-score-act >}}questionnaire *ACT™*{{< /modal-btn >}} après 12 ans à chaque consultation, ou symptômes (diurnes, nocturnes, effort, exacerbations, consommation)
   - Épreuves fonctionnelles respiratoires (EFR) 1-3 fois par an
-  - Jamais de {{< modal-btn modal-ttt-baca >}}bronchodilatateur de courte durée{{< /modal-btn >}} seul
-  - Traitements de fond de l'asthme: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous. Pour un asthme parfaitement contrôlé sans traitement: {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} en cas de symptômes
-  - Décroissance: par paliers de 25-50% si parfaitement contrôlé 2-3 mois jusqu'à {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} en cas de symptômes
-  - Si ALD: {{< modal-btn modal-vaccin-pneumocoque >}}vaccins pneumocoque{{< /modal-btn >}} et grippe
-- [Vidéos des techniques d'inhalation](https://splf.fr/videos-zephir/)
+  - Traitements de fond de l'asthme: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous. Pour un asthme parfaitement contrôlé sans traitement: {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} en cas de symptômes après 12 ans
+  - Décroissance: par paliers de 25-50 % si parfaitement contrôlé pendant 3 mois jusqu'à {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} voire {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI{{< /modal-btn >}} en cas de symptômes
+  - Vaccination grippe annuelle; {{< modal-btn modal-vaccin-pneumocoque >}}vaccin pneumocoque polysaccharidique{{< /modal-btn >}} chez l'adulte et l'enfant avec ALD asthme
+- [Vidéos des techniques d'inhalation](https://splf.fr/videos-zephir/) des bronchodilatateurs
 
-Pour la pratique: [modèle de PAI de l'asthme](https://eduscol.education.fr/document/7751/download) (PDF) et [annuaire des Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/).
+Pour la pratique: [modèle de PAI de l'asthme](/print/pai-asthme.pdf) (PDF) et [annuaire des Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/).
 
-Chapitres liés: [corticoïdes inhalés]({{% relref "corticoides-inhales.md" %}}), [rhinite allergique]({{% relref "rhinite-allergique.md" %}}), [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}})
+Chapitres liés: [corticoïdes inhalés]({{% relref "corticoides-inhales.md" %}}) (CSI), [rhinite allergique]({{% relref "rhinite-allergique.md" %}}), [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}})
 
 {{%/article-summary%}}
 
 <div class="card card-hover card-tab my-3 my-xl-5">
 <ul class="nav nav-tabs nav-justified mb-4" role="tablist">
-  <li class="nav-item" role="presentation"><button type="button" class="nav-link active" id="nav-tab-suivi" data-toggle="tab" data-target="#nav-asthme-suivi" role="tab" aria-controls="nav-asthme-suivi">Contrôle</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-suivi" data-toggle="tab" data-target="#nav-asthme-suivi" role="tab" aria-controls="nav-asthme-suivi">Suivi</button></li>
   <li class="nav-item" role="presentation"><button type="button" class="nav-link active" id="nav-tab-stade1" data-toggle="tab" data-target="#nav-asthme-stade1" role="tab" aria-controls="nav-asthme-stade1" aria-selected="true">Stade 1</button></li>
   <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade2" data-toggle="tab" data-target="#nav-asthme-stade2" role="tab" aria-controls="nav-asthme-stade2" aria-selected="false">Stade 2</button></li>
   <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-stade3" data-toggle="tab" data-target="#nav-asthme-stade3" role="tab" aria-controls="nav-asthme-stade3" aria-selected="false">Stade 3</button></li>
@@ -61,28 +61,43 @@ Chapitres liés: [corticoïdes inhalés]({{% relref "corticoides-inhales.md" %}}
 <div class="card-body tab-content">
 <div class="tab-pane fade" id="nav-asthme-suivi" role="tabpanel" aria-labelledby="nav-tab-suivi">
 
-- Traitements en cours
-- À partir de 12 ans: {{< modal-btn modal-score-act >}}Asthma Control Test™ (ACT){{< /modal-btn >}}
+- Tabagisme, allergènes, moisissures
+- Traitements en cours, consommation
+- Contrôle de l'asthme, symptômes:
+  - À partir de 12 ans: {{< modal-btn modal-score-act >}}Asthma Control Test™ (ACT){{< /modal-btn >}}
+  - 4-11 ans: {{< modal-btn modal-score-cact >}}Childhood ACT (C-ACT){{< /modal-btn >}} ou l'ACQ
+  - Ou à l'interrogatoire: symptômes diurnes, nocturnes, sommeil, activités scolaires, sportives
+- Reconnaissance des symptômes (oppression, dyspnée, toux, sifflements); mesure du DEP 3 fois de suite (adulte)
 - Observance, [technique d'inhalation](https://splf.fr/videos-zephir/) et effets indésirables
+- Date des dernières EFR
+- Enfant:
+  - Bilan allergologique fait
+  - Privilégier aérosol-doseur avec chambre d'inhalation sans masque
+  - [PAI de l'asthme](/print/pai-asthme.pdf)
+- Plan d'action connu et remis
+- Activité physique quotidienne
 
 </div>
 <div class="tab-pane fade show active" id="nav-asthme-stade1" role="tabpanel" aria-labelledby="nav-tab-stade1">
 
-- 6-11 ans: {{< modal-btn modal-ttt-baca >}}bronchodilatateur de courte durée{{< /modal-btn >}} en cas de besoin avec {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} faible dose concomitant
+- {{< modal-btn modal-asthme-intermittent-enfant >}}Asthme intermittent{{< /modal-btn >}} à 6-11 ans: {{< modal-btn modal-ttt-baca >}}Bronchodilatateur de courte durée{{< /modal-btn >}} (BACA) en cas de besoin  
+  \+ selon *GINA*: {{< modal-btn modal-ttt-csi >}}corticoïde inhalé{{< /modal-btn >}} (CSI) faible dose concomitant.
 - 12-17 ans: {{< modal-btn modal-ttt-laba-csi >}}Formotérol + budésonide{{< /modal-btn >}} moyenne dose 1 inhalation si besoin (max 12/j)
 - Adulte: {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}} (béclométasone/budésonide) moyenne dose 1 inhalation si besoin
 
 </div>
 <div class="tab-pane fade" id="nav-asthme-stade2" role="tabpanel" aria-labelledby="nav-tab-stade2">
 
-- 6-11 ans: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} matin et soir, {{< modal-btn modal-ttt-baca >}}BACA si besoin{{< /modal-btn >}}
+- 6-11 ans: {{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} matin et soir, {{< modal-btn modal-ttt-baca >}}BACA si besoin{{< /modal-btn >}}  
+  Dès symptômes diurnes > 1 j/mois.
 - 12-17 ans: {{< modal-btn modal-ttt-laba-csi >}}Formotérol + budésonide{{< /modal-btn >}} moyenne dose 1 inhalation si besoin (max 12/j)
 - Adulte: {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}} (béclométasone/budésonide) moyenne dose 1 inhalation si besoin
 
 </div>
 <div class="tab-pane fade" id="nav-asthme-stade3" role="tabpanel" aria-labelledby="nav-tab-stade3">
 
-- 6-11 ans: {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}} faible dose OU {{< modal-btn modal-ttt-csi >}}CSI dose moyenne{{< /modal-btn >}}, {{< modal-btn modal-ttt-baca >}}BACA si besoin{{< /modal-btn >}}
+- 6-11 ans: {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}} faible dose OU {{< modal-btn modal-ttt-csi >}}CSI dose moyenne{{< /modal-btn >}}, {{< modal-btn modal-ttt-baca >}}BACA si besoin{{< /modal-btn >}}  
+  \+ Suivi semestriel et avis pneumopédiatrique (*SP2A*)
 - 12-17 ans: {{< modal-btn modal-ttt-laba-csi >}}Formotérol + budésonide{{< /modal-btn >}} faible dose matin et soir et 1 inhalation si besoin (max 12/j)
 - Adulte: {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}} (béclométasone/budésonide) faible dose x 1-2/j et 1 inhalation si besoin
 
@@ -106,7 +121,7 @@ Stade 5 = suivi en ==centre de référence== de l'asthme uniquement
 
 </div>
 
-### Stratégie de traitement de l'asthme à partir de 6 ans selon GINA 2024. {.typography-body-2 .text-black-secondary .mt-3}
+### Stratégie de traitement de l'asthme à partir de 6 ans selon GINA et SP2A 2024. {.typography-body-2 .text-black-secondary .mt-3}
 
 </div>
 </div>
@@ -137,25 +152,6 @@ Tout asthmatique peut avoir une exacerbation sévère (*GINA 2019*).
 
 Bannir le terme de << bronchite asthmatiforme >>: l'asthme est une maladie chronique et les antibiotiques sont inappropriés (*SPLF 2015*).
 {{%/warning%}}
-
-### Diagnostic différentiel de l'asthme
-
-Diagnostic différentiel à étayer selon le terrain:
-
-- [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}})
-- [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}})
-- Bronchite
-- [Bronchiolite]({{% relref "bronchiolite.md" %}})
-- Rhinite
-- Dilatation des bronches
-- Mucoviscidose
-- [Embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})
-- Pneumopathie interstitielle
-- Syndrome d'hyperventilation
-- [Reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}})
-- [Obésité]({{% relref "obesite-adulte.md" %}})
-- Pathologie ostéoarticulaire ou musculaire
-- Dysfonction des cordes vocales
 
 ### Abréviations
 
@@ -192,6 +188,9 @@ FeNO
 GINA
 : {{%lang%}}Global Initiative for Asthma{{%/lang%}}
 
+ITA
+: immunothérapie allergénique
+
 ITSL
 : immunothérapie par voie sublinguale
 
@@ -204,12 +203,36 @@ SC
 SPLF
 : Société de Pneumologie de Langue Française
 
+SPO2
+: oxymétrie de pouls
+
 TVO
 : trouble ventilatoire obstructif
 
 VEMS
 : volume expiratoire maximal en une seconde
 {.dl-inline}
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Diagnostic différentiel à étayer selon le terrain:
+
+- [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}})
+- [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}})
+- Bronchite
+- [Bronchiolite]({{% relref "bronchiolite.md" %}})
+- [Coqueluche]({{% relref "coqueluche.md" %}})
+- Rhinite
+- Dilatation des bronches
+- Mucoviscidose
+- [Embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})
+- Pneumopathie interstitielle
+- Syndrome d'hyperventilation
+- [Reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}})
+- [Obésité]({{% relref "obesite-adulte.md" %}})
+- Pathologie ostéoarticulaire ou musculaire
+- Dysfonction des cordes vocales
 
 {{% /collapse %}}
 {{%collapse "Signes de gravité" %}}
@@ -270,11 +293,11 @@ Suivi par le service **Sophia** de l'Assurance Maladie: {{<phone>}}0 809 400 040
 Revoir la *maîtrise de l'asthme* à chaque consultation:
 
 1. Maîtrise des symptômes de l'asthme
-    - Traitements en cours
-    - {{< modal-btn modal-score-act >}}Asthma Control Test™ (ACT){{< /modal-btn >}}
-    - Autosurveillance des symptômes et du DEP
+    - Traitements en cours, consommation de bronchodilatateurs de courte durée (BACA) et corticoïdes oraux
+    - +12 ans: {{< modal-btn modal-score-act >}}Asthma Control Test™ (ACT){{< /modal-btn >}}
+    - Autosurveillance des symptômes (jour, nuit, réveils, effort) et du DEP
 2. Contrôle des facteurs de risques modifiables
-    - Réévaluation au moins tous les 2 ans
+    - Réévaluation au moins tous les 2 ans (annuelle chez l'enfant)
     - {{< modal-btn modal-observance >}}Observance{{< /modal-btn >}} et [technique de prise des traitements](https://splf.fr/videos-zephir/)
     - Consommation de corticoïdes oraux
     - Plan d'action écrit contre l'asthme
@@ -293,6 +316,9 @@ Revoir la *maîtrise de l'asthme* à chaque consultation:
 
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques" %}}
+
+> [!WARNING]
+> Ne pas utiliser un traitement d'épreuve pour affirmer le diagnostic.
 
 Très haut sur et sous-diagnostic de la maladie asthmatique.
 
@@ -314,8 +340,7 @@ Très haut sur et sous-diagnostic de la maladie asthmatique.
 
 > -- *GINA 2019*
 
-Pour le diagnostic de 5 à 16 ans, l'*ERS 2021* recommande d'obtenir 2 examens objectifs concluants pour affirmer le diagnostic.  
-**Ne pas utiliser de traitement d'épreuve pour affirmer le diagnostic.**
+Pour le diagnostic de 5 à 16 ans, l'*ERS 2021* recommande d'obtenir 2 examens objectifs concluants pour affirmer le diagnostic.
 
 Documenter et consigner dans le dossier les données démontrant le diagnostic d'asthme.  
 Réévaluer l'efficacité du traitement initial à 2-3 mois.
@@ -370,11 +395,12 @@ Mesure du DEP pour les personnes percevant mal leurs symptômes.
 
 #### Examen lors d'une exacerbation (crise d'asthme)
 
-Évaluation de la gravité en parallèle de l'administration de BACA avec chambre d'inhalation (4-10 bouffées/20 min pendant 1h), l'oxygénothérapie et CSO.
+Évaluation de la gravité en parallèle de l'administration de BACA avec chambre d'inhalation (4 à 10 bouffées/20 minutes pendant 1 heure), l'oxygénothérapie et la corticothérapie orale.
 
 - Fréquence cardiaque
 - Fréquence respiratoire
-- ==SpO~2~ cible 93-95% (6-12 ans: 94-98%)==
+- ==SpO~2~ cible 93-95 % (6-12 ans: 94-98 %)==  
+  Surestimation possible chez le sujet à peau noire.
 - Écarter une anaphylaxie
 - Étayer un diagnostic différentiel: insuffisance cardiaque, corps étranger, [embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})
 
@@ -389,7 +415,7 @@ En cas d'EFR non concluantes de 5 à 16 ans: test du monoxyde d'azote dans l'air
 
 ### Radiographie thoracique
 
-==**Radiographie de thorax**== systématique au diagnostic (selon la SP2A, la SFR [n'est pas d'accord](https://aderim.radiologie.fr/pathologies/asthme)).
+==**Radiographie de thorax**== de face en inspiration systématique au diagnostic chez l'enfant (selon la *SP2A*, la *SFR* [n'est pas d'accord](https://aderim.radiologie.fr/pathologies/asthme)).
 
 ### Autres bilans
 
@@ -399,7 +425,8 @@ En cas d'EFR non concluantes de 5 à 16 ans: test du monoxyde d'azote dans l'air
 
 ### Consultations spécialisées
 
-- Enfant: ==**bilan allergologique** systématique== (*SP2A 2024*)
+- Enfant: ==**bilan allergologique** systématique== (*SP2A 2024*)  
+  Acariens, graminées, chat ... avec immunothérapie allergénique (ITA) possible dès 5 ans (sauf asthme non contrôlé).
 - Consultation ORL
 
 {{% /collapse %}}
@@ -413,19 +440,21 @@ Le *Plan d'action* doit préciser:
 
 - Les traitements de l'asthme habituels
 - Quand et comment augmenter la dose de médicaments
-- Quand commencer le traitement par CSO
+- Quand commencer le traitement par corticoïdes oraux
 - Quand et comment consulter
 
 Il peut reposer sur les symptômes ou sur le DEP (adulte uniquement):
 
-- Augmenter le médicament de secours: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI faible dose{{< /modal-btn >}}  
-Utiliser une chambre d'inhalation si adaptable sur le dispositif.
-- Augmenter le traitement de contrôle en cours:
+- Augmenter le médicament de secours: {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-csi >}}formotérol + CSI faible dose{{< /modal-btn >}}
+  - Salbutamol chez l'enfant: 1 bouffée/2 kg (de 4 à 15) toutes les 20 minutes pendant 1 heure (*GRAPP*)  
+    Si persistance à 1 heure: corticostéroïde oral (1-2 mg/kg -- max 40 mg) et avis médical urgent
+  - Utiliser une chambre d'inhalation si adaptable sur le dispositif.
+- Après 12 ans, augmenter le traitement de contrôle en cours:
   - {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}}: quadrupler la dose
-  - {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}}: quadrupler la dose (max 72 µg/g)  
-    Si utilisé aussi comme traitement de secours: conserver la dose de fond, augmenter la dose en secours (max 72 µg/g)  
+  - {{< modal-btn modal-ttt-laba-csi >}}Formotérol + CSI{{< /modal-btn >}}: quadrupler la dose (max 72 µg/j)  
+    Si utilisé aussi comme traitement de secours: conserver la dose de fond, augmenter la dose en secours (max 72 µg/j)  
   - {{< modal-btn modal-ttt-laba-csi >}}Autre LABA + CSI{{< /modal-btn >}}: passer à la dose supérieure ou ajouter un {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} seul pour quadrupler la dose
-- Corticostéroïdes oraux (CSO)  
+- Corticoïdes oraux  
   - ==Adulte: prednisone 40-50 mg/j pendant 5-7 jours==
   - Enfant: prednisone 1-2 mg/kg/j (max 40 mg/j) pendant 3-5 jours
 
@@ -443,7 +472,7 @@ Demander à être suivi par le service **Sophia** de l'Assurance Maladie: {{<pho
 Les corticoïdes inhalés (CSI) réduisent de façon marquée la fréquence et la gravité des symptômes de l'asthme ainsi que les risques d'exacerbation ou de décès causé par l'asthme (*GINA 2019*)
 {{%/info%}}
 
-Confirmer le diagnostic avant de démarrer un traitement, puis instaurer rapidement un traitement par CSI.
+Confirmer le diagnostic avant de démarrer un traitement, puis instaurer rapidement un traitement par corticoïde inhalé.
 
 ### Stratégie de traitement de l'asthme à partir de 6 ans selon GINA 2024
 
@@ -451,7 +480,9 @@ Voir en tête de chapitre.
 
 ### Mesures générales de prise en charge de l'asthme
 
-- Enfant: Projet d'accueil individualisé pour l'asthme ([PAI en PDF](https://eduscol.education.fr/document/7751/download))
+- Enfant:
+  - Privilégier aérosol doseur avec chambre d'inhalation (sans masque si possible, 1 bouffée = 3 inspirations calmes -- *SP2A*)
+  - Projet d'accueil individualisé pour l'asthme ([PAI en PDF](/print/pai-asthme.pdf))
 - Suivi médical
   - tous les 3 à 12 mois
   - Par pneumologue quand asthme non contrôlé, exacerbations répétées (> 2/an) ou patient fumeur
@@ -461,9 +492,9 @@ Voir en tête de chapitre.
   - Toutes les mesures du *Contrôle de l'asthme* (voir partie dédiée plus haut)
   - **{{< modal-btn modal-ttt-csi >}}CSI faible dose{{< /modal-btn >}} pour tous** (même si BPCO associée, voir *Stratégie de traitement de l'asthme selon GINA*)
   - Toujours disposer de {{< modal-btn modal-ttt-baca >}}BACA{{< /modal-btn >}} de secours
-  - {{< modal-btn modal-vaccin-pneumocoque >}}Vaccin pneumocoque{{< /modal-btn >}} et coqueluche ++
+  - Rappel du vaccin coqueluche
   - [Carte du patient asthmatique](https://asthme-allergies.org/carte-asthme-agir/)
-  - [Guide patient HAS: vivre avec un asthme (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-07/mieux_vivre_avec_son_asthme_2008-07-15_15-59-23_222.pdf), [Ameli: Comprendre ma maladie & bien utiliser mon dispositif d'inhalation (PDF)](https://www.ameli.fr/sites/default/files/Documents/5358/document/asthme-bien-utiliser-dispositif-inhalation_assurance-maladie.pdf)
+  - Information du patient: [guide HAS: vivre avec un asthme (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-07/mieux_vivre_avec_son_asthme_2008-07-15_15-59-23_222.pdf) et [Ameli: Comprendre ma maladie & bien utiliser mon dispositif d'inhalation (PDF)](https://www.ameli.fr/sites/default/files/Documents/5358/document/asthme-bien-utiliser-dispositif-inhalation_assurance-maladie.pdf)
   - [Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/)
 - Mesures hygiéno-diététiques
   - Correction d'un surpoids
@@ -506,8 +537,7 @@ Prise en charge de l'asthme non contrôlé:
 
 ### Asthme parfaitement contrôlé
 
-Asthme parfaitement contrôlé sur les 2-3 derniers mois: discuter la décroissance vers la *dose minimale efficace*.  
-Paliers de 2-3 mois avec réévaluation par l'{{< modal-btn modal-score-act >}}Asthma Control Test™ (ACT){{< /modal-btn >}} à chaque consultation.
+**Asthme parfaitement contrôlé sur les 3 derniers mois** (sans crise grave dans les 6 mois, EFR normales): discuter la décroissance vers la *dose minimale efficace* (sauf à l'**automne**). Paliers de 2-3 mois avec réévaluation par l'{{< modal-btn modal-score-act >}}Asthma Control Test™ (ACT){{< /modal-btn >}} à chaque consultation.
 
 La décroissance du {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} peut se faire par paliers de 25-50% jusqu'à une {{< modal-btn modal-ttt-csi >}}faible dose{{< /modal-btn >}} maintenue au long cours.
 
@@ -516,7 +546,7 @@ La décroissance du {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} peut se
 
 #### Pour en savoir plus: Autres traitements de l'asthme
 
-La prescription dépend uniquement du pneumologue:
+La prescription des biothérapies pour asthme sévère dépendent exclusivement du pneumologue:
 
 - Modificateurs de leucotriènes  
   {{%class%}}Montélukast (EI: tics), pranlukast, zafirlukast, zileuton.{{%/class%}}
@@ -557,8 +587,9 @@ graph TB
 - [Drummond D, et al. Recommandations de la SP2A (Société pédiatrique de pneumologie et d'allergologie) pour la prise en charge de l'asthme de l’enfant de 6 à 12 ans - Prise en charge thérapeutique et adaptation du traitement de fond. Rev Mal Respir. 2024.](https://www.sciencedirect.com/science/article/pii/S0761842524002444)
 - [Collège des Enseignants de Pneumologie (CEP). Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_188_ASTHME_RHINITE_2023.pdf)
 - Prescrire Redaction. Asthme. Premiers Choix Prescrire. Rev Prescrire. 2023.
-- [GINA. Global strategy for the asthma management and prevention. 2022.](https://ginasthma.org/archived-reports/)
+- [GINA. Global strategy for the asthma management and prevention. 2023.](https://ginasthma.org/archived-reports/)
 - [Gaillard EA, et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5-16 years. Eur Respir J. 2021.](https://erj.ersjournals.com/content/58/5/2004173)
+- [Collège de la Médecine Générale (CMG). Asthme de l'adulte et de l'enfant de plus de 12 ans : prévenir les exacerbations. 2021. (PDF)](https://cmg.fr/wp-content/uploads/2021/05/Asthme-de-ladulte-et-de-lenfant-2021.pdf)
 - [Raherison-Semjen C, et al. Asthme. Revue des Maladies Respiratoires Actualités. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1877120320300598)
 - [Santé Publique France. Asthme. 05/10/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/asthme)
 - [Raherison C, et al. Updated guidelines (2015) for management and monitoring of adult and adolescent asthmatic patients (from 12 years and older) of the Société de pneumologie de langue française (SPLF) (summary). Revue des Maladies Respiratoires. 2016. (PDF)](https://splf.fr/wp-content/uploads/2016/11/reco-asthme-re%CC%81sume%CC%81-2016.pdf)
@@ -573,7 +604,6 @@ graph TB
 - [Papi A, et al. European Respiratory Society Short Guidelines for the use of as-needed ICS/formoterol in mild Asthma. European Respiratory Journal. 2023.](https://erj.ersjournals.com/content/early/2023/08/31/13993003.00047-2023)
 - [Société canadienne de pédiatrie. La prise en charge de l'asthme léger et très léger chez les enfants d'âge préscolaire, les enfants et les adolescents. Point de pratique. 2023.](https://cps.ca/fr/documents/position/asthme-leger)
 - [Louis R, et al. European Respiratory Society Guidelines for the Diagnosis of Asthma in Adults. European Respiratory Journal. 2022.](https://erj.ersjournals.com/content/early/2022/02/03/13993003.01585-2021)
-- [Collège de la Médecine Générale (CMG). Asthme de l'adulte et de l'enfant de plus de 12 ans : prévenir les exacerbations. 2021. (PDF)](https://cmg.fr/wp-content/uploads/2021/05/Asthme-de-ladulte-et-de-lenfant-2021.pdf)
 - [Inserm. Asthme : Portraits-robots des personnes à risque. 10/10/2022.](https://www.inserm.fr/actualite/asthme-portraits-robots-des-personnes-a-risque/)
 - [Raherison-Semjen C, et al. Mise à jour des recommandations (2021) pour la prise en charge et le suivi des patients asthmatiques adultes sous l'égide de la Société de pneumologie de langue française (SPLF) et de la Société pédiatrique de pneumologie et allergologie (SP2A). Version longue. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/recos-asthme-adultes-2021-version-longue.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Asthme. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/asthme)
@@ -582,6 +612,11 @@ graph TB
 - [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 10 BIS](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2010%20BIS)
 
 {{%/sources%}}
+{{% modal title="Asthme intermittent de l'enfant" id="modal-asthme-intermittent-enfant"%}}
+
+{{< clinique/asthme-intermittent-enfant >}}
+
+{{% /modal %}}
 {{% modal title="Bêta2-agonistes de courte durée d'action" id="modal-ttt-baca"%}}
 
 {{< traitements/baca >}}
@@ -605,6 +640,11 @@ graph TB
 {{% modal title="Asthma Control Test" id="modal-score-act"%}}
 
 {{< scores/asthma-control-test >}}
+
+{{% /modal %}}
+{{% modal title="Childhood Asthma Control Test" id="modal-score-cact"%}}
+
+{{< scores/childhood-asthma-control-test >}}
 
 {{% /modal %}}
 {{% modal title="Observance des traitements" id="modal-observance"%}}
