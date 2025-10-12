@@ -9,7 +9,7 @@ synonyms = ["Bilan de prévention"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-08-23T13:56:41+02:00"
 publishdate = "2024-08-29"
-lastmod = "2025-08-14"
+lastmod = "2025-10-11"
 specialites = ["certificats"]
 annees = "2025"
 sources = ["MinSanté"]
@@ -120,7 +120,7 @@ todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
   - [Dépistage du cancer du sein]({{% relref "cancer-sein.md" %}}) et du [cancer du col de l'utérus]({{% relref "cancer-col-uterus.md" %}})
   - Symptômes de [ménopause]({{% relref "menopause.md" %}})
 - 65 ans:
-  - Vaccins: dTcaPolio, grippe et Covid annuels, zona
+  - Vaccins: dTcaPolio, grippe et Covid annuels, {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}}, zona
   - [Dépistage de l'ACFA]({{% relref "fibrillation-atriale.md" %}}) et de la [MRC]({{% relref "insuffisance-renale-chronique.md" %}}) (*Académie de pharmacie*)
   - et fumeur: dépistage de l'[AAA]({{% relref "anevrysme-aorte-abdominale.md" %}}) de l'homme, à considérer chez la femme (*AHA 2022*)
 - [Ostéoporose]({{% relref "osteoporose.md" %}}): {{< modal-btn modal-apports-calcium >}}apports en calcium{{< /modal-btn >}}, ostéodensitométrie en cas de {{< modal-btn modal-dxa-remboursement >}}facteur de risque{{< /modal-btn >}} (ou à 60 ans chez les femmes pour le *GRIO*)
@@ -129,7 +129,7 @@ todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
 </div>
 <div aria-labelledby="tab-70" class="tab-pane fade" id="div-70" role="tabpanel">
 
-- Vaccins: grippe, Covid et VRS (NR) annuels, ± rattrapage dTcaPolio et zona
+- Vaccins: grippe, Covid et VRS (NR) annuels, ± rattrapage dTcaPolio, {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}} et zona
 - {{< modal-btn modal-mna >}}Dépister la dénutrition{{< /modal-btn >}}
 - Bilan ophtalmologique
   - [DMLA]({{% relref "degenerescence-maculaire-age-dmla.md" %}}): [grille d'Amsler](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/grille_damsler.pdf)
@@ -275,5 +275,10 @@ Un médecin peut apparaître dans l'annuaire de *Sante.fr* s'il souhaite réalis
 {{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}
 
 {{< scores/scoff >}}
+
+{{% /modal %}}
+{{% modal title="Vaccin pneumocoque" id="modal-pneumocoque"%}}
+
+{{< traitements/vaccin-pneumocoque >}}
 
 {{% /modal %}}
