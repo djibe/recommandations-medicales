@@ -24,7 +24,7 @@ flowchart = true
 
 Ces recommandations concernent la prise en charge d'une hyponatrémie de l'adulte.
 
-- L'hyponatrémie est une natrémie inférieure à 135 mmol/L; c'est un trouble du bilan de l'eau
+- L'hyponatrémie est une natrémie inférieure à 135 mmol/L, c'est un trouble du bilan de l'eau (hyperhydratation intracellulaire)
 - Les causes les plus fréquentes d'hyponatrémie sont: iatrogène surtout (diurétique thiazidique, antidépresseurs dont IRS, antipsychotiques, anti-épileptiques), insuffisance surrénale ou cancer
 - Rechercher des signes de gravité: natrémie < 125 mmol/L, installation en moins de 48h, vomissements, défaillance hémodynamique, somnolence, convulsions
 - Rechercher une hyponatrémie en cas de: nausées, céphalées, chutes, troubles cognitifs, somnolence, potomanie

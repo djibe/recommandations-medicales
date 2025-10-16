@@ -9,7 +9,7 @@ synonyms = ["Pneumopathies infectieuses communautaires"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-15T17:05:04+02:00"
 publishdate = "2023-05-17"
-lastmod = "2025-04-03"
+lastmod = "2025-10-14"
 specialites = ["pneumologie"]
 annees = "2025"
 sources = ["SPILF", "SPLF", "HAS", "GPIP"]
@@ -50,8 +50,8 @@ flowchart = true
 
 2 points essentiels chez l'adulte:
 
-- L'antibiothérapie a une durée variable: notée ~5 jours (3, 5 voire 7 jours selon l'évolution)
-- Traitement idem post-grippal si antibiothérapie dans le mois (sauf fosfomycine, pivmécillinam, furane) ou hospitalisation dans les 6 mois
+- L'antibiothérapie a une durée variable: notée ~5 jours (3, 5 voire 7 jours selon l'évolution),
+- Si antibiothérapie dans le mois (ou hospitalisation dans les 6 mois): voir *post-grippale* (sauf fosfomycine, pivmécillinam, furane).
 
 [Amoxicilline](https://bdpm.ansm.sante.fr/medicament/60151544/extrait#tab-rcp) 1g x 3/j pendant ~5 jours
 
@@ -67,7 +67,7 @@ ou [spiramycine](https://bdpm.ansm.sante.fr/medicament/66951450/extrait#tab-rcp)
 
 ---
 
-- Échec à 72 heures: substituer par l'autre classe (macrolide ou amoxicilline) avec nouvelle réévaluation à 72h
+- Échec à 72 heures: substituer par l'autre classe (macrolide ou amoxicilline) avec nouvelle réévaluation à 72 h
 - Si 2^e^ échec ou aggravation rapide: avis infectiologique ou discuter l'hospitalisation
 - Arrêt possible chez l'adulte à partir de J3 si: ≤ 37,8 °C, PAS ≥ 90 mmHg, FC ≤ 100 bpm et FR ≤ 24/min et SpO~2~ ≥ 90%.
 
@@ -80,13 +80,13 @@ Amoxicilline 80-100 mg/kg/j en 2 prises (max 3 g/j) pendant **5 jours**
 
 Bactérie atypique ou échec à 48-72 h:
 
-[clarithromycine](https://bdpm.ansm.sante.fr/medicament/65040811/extrait#tab-rcp) 1 dose/kg x 2/j (max 1 g/j) pendant **5 jours**
+[clarithromycine](https://bdpm.ansm.sante.fr/medicament/65040811/extrait#tab-rcp) 1 dose-poids x 2/j (max 1 g/j) pendant **5 jours**
 
-Si pénurie: voir *Traitement*.
+Si pénurie: voir *[Traitement](#traitement-ambulatoire-de-la-pneumonie-aiguë-communautaire)*.
 
 ---
 
-Pneumopathie d'inhalation de l'enfant: amoxicilline/acide clavulanique 1 dose/kg x 3/j pendant 7 jours
+Pneumopathie d'inhalation de l'enfant: amoxicilline/acide clavulanique 1 dose-poids x 3/j pendant 7 jours
 
   </div>
   <div class="tab-pane fade" id="nav-pna-comorbide" role="tabpanel" aria-labelledby="nav-tab-comorbide">
@@ -212,6 +212,8 @@ Signes et symptômes de pneumonie à rechercher à l'examen.
   - Virose sur insuffisance cardiaque, pneumopathie d'inhalation, embolie pulmonaire, exacerbation d'asthme ou de BPCO, grippe, bronchite aiguë
   - Chez l'enfant: [bronchiolite]({{% relref "bronchiolite.md" %}}), bronchite
 
+{{< clinique/frequence-respiratoire-enfant >}}
+
 ### Tableau de pneumonie franche lobaire aiguë (PFLA)
 
 Présentation de pneumonie aiguë communautaire bactérienne **la plus fréquente**.
@@ -325,6 +327,7 @@ Examens inutiles en ville pour une suspicion de pneumopathie à bactérie atypiq
 Indications à la vaccination anti-pneumococcique:
 
 - [Tous les nourrissons]({{% relref "examens-suivi-nourrisson.md" %}}) (rattrapage jusqu'à 23 mois)
+- Tous les +65 ans (*HAS*)
 - Immunodépression
   - [Asplénie ou hyposplénie]({{% relref "asplenie.md" %}}) (dont drépanocytaire majeur)
   - Déficit immunitaire héréditaire
@@ -444,11 +447,11 @@ En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-p
 
 {{< mermaid title="Prise en charge de la pneumonie aiguë communautaire (PAC). Dr JB Fron d'après SPILF/SPLF 2025 et HAS/SPILF 2024" >}}
 graph TB
-  suspicion["Suspicion de pneumonie<br> aiguë communautaire (PAC)"] --> gravité("<b>Gravité ?</b><br>—<br>- CRB65<br>- Constantes, tirage<br>- Cancer actif<br>- Pneumonie d'inhalation<br>- Épanchement pleural<br>- Socio-éco, isolement") -- Non --> risque("<b>Risque de mortalité</b><br>—<br>≥ 2 ou ≥ 1 chez le +65 ans:<br>- Comorbidités<br>- Immunodépression<br>- ATCD pneumonie<br>- Hospitalisation dans l'année<br>- Institution") -- Non --> tableau("Tableau clinique<br>Antibiothérapie et<br>radiographie sous 72h")
+  suspicion["Suspicion de pneumonie<br> aiguë communautaire (PAC)"] --> gravité("<b>Gravité ?</b><br>—<br>- CRB65<br>- Constantes, tirage<br>- Cancer actif<br>- Pneumonie d'inhalation<br>- Épanchement pleural<br>- Socio-éco, isolement") -- Non --> risque("<b>Risque de mortalité</b><br>—<br>≥ 2 ou ≥ 1 chez le +65 ans:<br>- Comorbidités<br>- Immunodépression<br>- ATCD pneumonie<br>- Hospitalisation dans l'année<br>- Institution") -- Non --> tableau("Tableau clinique<br>Antibiothérapie et<br>radiographie sous 72 h")
     gravité -- Oui --> hospitalisation(Hospitalisation)
       risque -- Oui --> hospitalisation
-      tableau --> âgé("<b>Âgé, comorbidité,<br>post-grippal</b><br>—<br>Amox/clavulanique") -- 72h --> âgé3(Réévaluation) -. Échec .-> hospitalisationAgé(Hospitalisation)
-      tableau --> pneumocoque("<b>Pneumocoque</b><br>—<br>Amoxicilline") -- 72h --> pneumo2(Réévaluation) -. Échec .-> pneumo3("Substituer<br>par macrolide")
+      tableau --> âgé("<b>Âgé, comorbidité,<br>post-grippal</b><br>—<br>Amox/clavulanique") -- 72 h --> âgé3(Réévaluation) -. Échec .-> hospitalisationAgé(Hospitalisation)
+      tableau --> pneumocoque("<b>Pneumocoque</b><br>—<br>Amoxicilline") -- 72 h --> pneumo2(Réévaluation) -. Échec .-> pneumo3("Substituer<br>par macrolide")
         pneumo2 -. Aggravation .-> hospitalisationAgé
       tableau --> intracellulaire("<b>Atypique</b><br>—<br>Macrolide") -- 72 h --> intra2(Réévaluation) -. Échec .-> intra3("Substituer<br>par amoxicilline")
   style suspicion stroke:#4150f5, stroke-width:1px
@@ -459,10 +462,10 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Pneumonie Aiguë Communautaire chez l'enfant. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/p_3575612/fr/choix-et-durees-d-antibiotherapie-pneumonie-aigue-communautaire-chez-l-enfant)
 - {{< references/calendrier-vaccinal >}}
 - [Dinh A, et al. Update of guidelines for management of community acquired pneumonia in adults by the French infectious disease society (SPILF) and the French-speaking society of respiratory diseases (SPLF). Endorsed by the French intensive care society (SRLF), the French microbiology society (SFM), the French radiology society (SFR) and the French emergency society (SFMU). Infect Dis Now. 2025.](https://www.sciencedirect.com/science/article/pii/S2666991925000132)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Pneumonie Aiguë Communautaire de l'adulte en ambulatoire. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3575597/fr/choix-et-durees-d-antibiotherapies-pneumonie-aigue-communautaire-de-l-adulte-en-ambulatoire)
-- [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Pneumonie Aiguë Communautaire chez l'enfant. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3575612/fr/choix-et-durees-d-antibiotherapie-pneumonie-aigue-communautaire-chez-l-enfant)
 - [Martin-Loeches I, et al. ERS/ESICM/ESCMID/ALAT guidelines for the management of severe community-acquired pneumonia. Eur Respir J. 2023.](https://erj.ersjournals.com/content/61/4/2200735)
 - [HAS. Réponse rapide sur la prise en charge diagnostique et thérapeutique des pneumonies atypiques à Mycoplasma pneumoniae en ambulatoire chez l'enfant et l'adulte. 22/12/2023.](https://www.has-sante.fr/jcms/p_3482996/fr/reponse-rapide-sur-la-prise-en-charge-diagnostique-et-therapeutique-des-pneumonies-atypiques-a-mycoplasma-pneumoniae-en-ambulatoire-chez-l-enfant-et-l-adulte)
 - [Madhi F, et al. Antimicrobial treatment of lower respiratory tract infections in children. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001446)

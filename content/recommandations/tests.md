@@ -6,8 +6,8 @@ description = "Title 2-22 words and description 160 characters max"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-03-21T15:18:28+01:00"
-publishdate = "2024-12-26"
-lastmod = "2025-08-16"
+publishdate = "2025-10-13"
+lastmod = "2025-10-13"
 specialites = ["endocrinologie"]
 annees = "2020"
 sources = ["Society1", "Society2"]
@@ -200,7 +200,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 let category = '';
                 let alertClass = '';
 
-                // Les seuils de risque varient avec l'âge selon les recommandations de l'ESC
+                // Les seuils de risque varient avec l’âge selon les recommandations de l'ESC
                 let thresholds;
                 if (age < 50) {
                     thresholds = { low: 2.5, moderate: 7.5 };
@@ -239,6 +239,112 @@ document.addEventListener('DOMContentLoaded', function() {
     </script>
 
 ## Plan action asthme {.mt-5}
+
+<div class="form-group text-center my-4">
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" name="ageSelection" id="moins12" value="moins12">
+                        <label class="form-check-label" for="moins12">Moins de 12 ans</label>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" name="ageSelection" id="plus12" value="plus12">
+                        <label class="form-check-label" for="plus12">12 ans et plus</label>
+                    </div>
+                </div>
+<!-- Section pour -12 ans (initialement cachée) -->
+                <div id="sectionMoins12" class="mt-4" style="display: none;">
+                    <h4 class="text-info">Plan d'action de la crise d'asthme de l'enfant (avant 12 ans)</h4>
+                    <!-- Form -->
+                    <div class="card card-body border shadow-none flex-row mt-3" style="">
+                      <div class="form-group floating-label textfield-box form-ripple" style="flex: 1">
+                      <label for="poidsInput"><strong>Poids (kg)</strong></label>
+                      <input type="number" class="form-control" id="poidsInput" min="2" max="80" required>
+                      </div>
+                    <div class="">
+                        <strong>Dose:</strong>
+                        <p id="resultatDose" class="mt-2 p-3 bg-light rounded">Poids manquant...</p>
+                        <small class="form-text text-muted">
+                            Le calcul est basé sur 1 bouffée par 2 kg de poids (minimum 4 et maximum 15 bouffées).
+                        </small>
+                    </div>
+                    </div>
+                </div>
+<!-- Section pour 12 ans et + (initialement cachée) -->
+                <div id="sectionPlus12" class="mt-4" style="display: none;">
+                    <h4 class="text-info">Plan d'action de l'asthme chez l'adulte (à partir de 12 ans)</h4>
+                    <div class="alert alert-success">
+                      <strong>Dose recommandée en cas de crise :</strong>
+                      <p class="mb-0">Prendre entre 4 et 15 bouffées du médicament de secours, selon la prescription de votre médecin.</p>
+                    </div>
+                </div>
+                <div class="alert alert-warning mt-5">
+                <p>À tout moment de la crise, si aggravation rapide ou si gêne respiratoire importante: CONTACTER LE SAMU = 15.</p>
+                <p>Les signes graves sont une respiration irrégulière chez un enfant fatigué, une difficulté à parler, un pourtour des lèvres bleu, des signes de malaise.</p>
+                </div>
+                <p>En cas de gêne respiratoire, de toux ou de sifflements, donner dès le début des symptômes:</p>
+                <blockquote><p><strong>Ventoline spray</strong> avec la chambre d'inhalation: <mark><strong><span class="text-dose">X</span> bouffées</strong> toutes les 20 minutes</mark>.</blockquote>
+                <p>(Chaque bouffée est suivie de 5 respirations avec la chambre d'inhalation.)</p>
+                <div class="alert alert-warning my-4">
+                <p><strong>En l'absence d'amélioration à 1 heure:</strong></p>
+                <ul>
+                <li>Donner la prednisolone: <mark><strong><span class="text-predni-dose">X</span> mg</strong></mark> à diluer dans un peu d'eau</li>
+                <li>Consultation médicale en urgence</li>
+                <li>Poursuivre la Ventoline à la même dose toutes les 20 minutes en attendant la consultation</li>
+                </ul>
+                </div>
+                <p><span class="text-underline">Si l’état respiratoire se normalise</span>: donner un traitement d’entretien par:<br> 
+                VENTOLINE spray avec chambre d’inhalation: <strong>4 bouffées</strong> matin, midi, goûter et soir pendant 7 jours</p>
+<script>
+        // Récupération des éléments du DOM
+        const radioMoins12 = document.getElementById('moins12');
+        const radioPlus12 = document.getElementById('plus12');
+        const sectionMoins12 = document.getElementById('sectionMoins12');
+        const sectionPlus12 = document.getElementById('sectionPlus12');
+        const poidsInput = document.getElementById('poidsInput');
+        const resultatDose = document.getElementById('resultatDose');
+        const textsDose = document.querySelectorAll('.text-dose');
+        const textsPredniDose = document.querySelectorAll('.text-predni-dose');
+        // Ajout des écouteurs d'événements sur les boutons radio
+        radioMoins12.addEventListener('change', function() {
+            if (this.checked) {
+                sectionMoins12.style.display = 'block';
+                sectionPlus12.style.display = 'none';
+                poidsInput.value = ''; // Réinitialiser le champ poids
+                resultatDose.textContent = 'En attente du poids...';
+            }
+        });
+        radioPlus12.addEventListener('change', function() {
+            if (this.checked) {
+                sectionMoins12.style.display = 'none';
+                sectionPlus12.style.display = 'block';
+            }
+        });
+        // Ajout d'un écouteur d'événement sur le champ de saisie du poids
+        poidsInput.addEventListener('input', function() {
+            const poids = parseFloat(this.value);
+            if (poids > 0) {
+                // Calcul de la dose : 1 bouffée / 2kg
+                let doseInhalateur = Math.round(poids / 2);
+                // Application du minimum de 4 bouffées
+                doseInhalateur = Math.max(4, doseInhalateur);
+                // Application du maximum de 15 bouffées
+                doseInhalateur = Math.min(15, doseInhalateur);
+                resultatDose.textContent = `${doseInhalateur} bouffées.`;
+                textsDose.forEach(span => { span.textContent = doseInhalateur });
+                // Appliquer le maximum de 40 mg
+                let doseMinPrednisolone = Math.round((poids * 1) / 5) * 5;
+                let doseMaxPrednisolone = Math.round((poids * 2) / 5) * 5;
+                doseMaxPrednisolone = Math.min(40, doseMaxPrednisolone);
+                // Assurer que la dose min n'est pas supérieure à la dose max
+                doseMinPrednisolone = Math.min(doseMinPrednisolone, doseMaxPrednisolone);
+                //resultatPrednisolone.textContent = `${doseMinPrednisolone} mg et ${doseMaxPrednisolone} mg.`;
+                textsPredniDose.forEach(span => { span.textContent = doseMaxPrednisolone });
+            } else {
+                resultatDose.textContent = 'Veuillez entrer un poids valide.';
+            }
+        });
+    </script>
+
+> -- [Marguet C; Groupe de Recherche Sur Les Avancées En PneumoPédiatrie. Prise en charge de la crise d'asthme de l'enfant (nourrisson inclus). Recommandations pour la pratique clinique [Management of acute asthma in infants and children: recommendations from the French Pediatric Society of Pneumology and Allergy]. Rev Mal Respir. 2007;24(4 Pt 1):427-439. doi:10.1016/s0761-8425(07)91567-3](https://www.sciencedirect.com/science/article/abs/pii/S0761842507915673) (payant); [Plan d'action enfant Necker (PDF)](https://cdn2.splf.fr/wp-content/uploads/2022/12/PA-Enfant-Necker.pdf)
 
 <!--<div class="card card-body bg-primary-light shadow-none my-2 flex-row justify-content-between">
   <div>

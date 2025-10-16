@@ -210,8 +210,6 @@ En cas de positivité, rechercher les ==critères Bernois== pour réduire les fa
 2. Test direct de provocation de la malléole interne (appui du pouce)
 3. Test de provocation par compression du médio-pied vers l'arrière-pied
 
-TODO: Bernois et diapason 128 Hz
-
 Les critères d'Ottawa ne sont pas valables en cas de **neuropathie** ou de maladie neurologique où la radiographie est habituellement indiquée.
 
 [Photos de l'examen de la cheville](https://www.has-sante.fr/upload/docs/application/pdf/2025-05/_reco475_entorse_cheville_boiteaoutils.pdf).

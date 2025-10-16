@@ -630,6 +630,7 @@ Le traitement hormonal de la ménopause (THM):
 
 ### Bibliographie en attente
 
+- [Lumsden MA, et al. European society of endocrinology clinical practice guideline for evaluation and management of menopause and the perimenopause. Eur J Endocrinol. 2025.](https://academic.oup.com/ejendo/article-abstract/193/4/G49/8281862)
 - [Huang AJ, et al. Nonhormonal Treatment of Menopausal Vasomotor Symptoms. JAMA Intern Med. 2025.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2833235) (payant)
 - [NICE. Menopause: identification and management. NICE guideline. 2024.](https://www.nice.org.uk/guidance/ng23/chapter/Recommendations)
 - [Crandall CJ, et al. Management of Menopausal Symptoms: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2801054)
