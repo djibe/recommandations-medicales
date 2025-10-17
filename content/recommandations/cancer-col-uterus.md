@@ -8,10 +8,10 @@ synonyms = ["Papillomavirus humains HPV", "dysplasies et condylomes"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2021-01-18T10:55:00+02:00"
 publishdate = "2022-04-20"
-lastmod = "2025-09-15"
+lastmod = "2025-10-17"
 specialites = ["gynécologie-obstétrique", "oncologie"]
 annees = "2025"
-sources = ["CNGOF", "INCa", "HAS"]
+sources = ["HAS", "CNGOF", "INCa"]
 tags = ["cancer", "dépistage", "douleur pelvienne", "IST", "HSH", "vaccin"]
 english = ["Cervical cancer"]
 sctid = "363354003"
@@ -40,13 +40,13 @@ Documents patient: [INCa: dépistage du cancer du col (PDF)](https://www.cancer.
 {{%collapse "Définitions" %}}
 
 Papillomavirus humains (HPV)
-: Famille de virus à ADN double brin cancérigènes transmis par contacts sexuels responsables de 6300 cancers ano-génitaux et ORL annuels. Le délai avant apparition d'une tumeur est de 10-15 ans et plus de 60 % des dysplasie légères régressent spontanément.
+: Famille de virus à ADN double brin cancérigènes transmis par contacts sexuels responsables de 6300 cancers ano-génitaux et ORL annuels. Le délai avant apparition d'une tumeur est de 5 à 20 ans, 90-95 % des infections sont de courte durée et plus de 60 % des dysplasie légères régressent spontanément. Cependant, 3 % évoluent en cancer.
 : La mortalité est de 20 à 40 % pour les cancers induits avec des séquelles majeures, alors que la vaccination prévient 90 % des infections causant ces cancers.
-: Il s'agit de la première *[infection sexuellement transmissible (IST)](/tags/ist/)* mondiale avec plus de 150 génotypes.  
+: Il s'agit de la première *[infection sexuellement transmissible (IST)](/tags/ist/)* mondiale avec plus de 150 génotypes.
 : En coloscopie, des HPV sont retrouvés chez 43 % des femmes et 24 % des hommes (*Vuitton 2018*).
 
-Cancer du col de l'utérus
-: Cancers non hormonodépendants du col de l'utérus, avec un pic d'incidence à 40 ans.
+Cancer du col de l'utérus (CCU)
+: Cancers non hormonodépendants du col de l'utérus, avec un pic d'incidence à 40 ans, attribuable en quasi-totalité à une infection longue (5 à 20 ans) par l'HPV (16 et 18 pour 70 % des cas).
 : 80 à 90 % sont des carcinomes épidermoïdes de l'exocol (la quasi-totalité par infection HPV), 10 à 20 % sont des adénocarcinomes du canal endocervical ou de l'endocol (majoritairement par HPV).
 
 ### Facteurs de risque de cancer du col de l'utérus
@@ -85,7 +85,7 @@ Complications des infections par les papillomavirus et incidence imputée entre 
   90 % des cancers du col peuvent être évités grâce au dépistage.
 - **Mortalité:** 836 décès (métropole 2022)
 - Âge médian au diagnostic: 55 ans
-- Survie à 5 ans: 63 %
+- Survie à 5 ans: 63 % (période 2010-2015)
 - 80% des hommes et des femmes sexuellement actifs seront infectés par les papillomavirus durant leur vie
 - Portage masculin: 20% des hommes sont porteurs d'HPV haut risque (*[Bruni 2023](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00305-4/fulltext#%20)*)
 - **Couverture vaccinale:** 41% des jeunes filles et 8% des garçons de 16 ans étaient vaccinés en 2022 en France métropolitaine contre 84% au Royaume-Uni (*Ameli*, *Inserm*)
@@ -96,6 +96,9 @@ Complications des infections par les papillomavirus et incidence imputée entre 
 {{< card-link title="Les Français et leur participation au dépistage des cancers" subtitle="Article RecoMédicales" url="/articles/participation-depistage-cancers/">}}
 
 ### Abréviations
+
+CCU
+: cancer du col de l'utérus
 
 CNGOF
 : Collège National des Gynécologues et Obstétriciens Français
@@ -177,7 +180,7 @@ Dès que le diagnostic anatomopathologique de cancer du col de l'utérus est pos
 
 [Information de la patiente - Santé BD: Le frottis](https://santebd.org/les-fiches-santebd/cancer/gyneco-le-depistage-cancer-du-col-de-luterus)
 
-Le dépistage organisé du cancer du col de l'utérus est recommandé pour toutes les femmes de **25 à 65 ans** par frottis cervico-vaginal remboursé à 100 % (vaccinées HPV ou non, généralisé depuis 2018).
+Le dépistage organisé du cancer du col de l'utérus est recommandé pour toutes les femmes de **25 à 65 ans** ayant eu des rapports sexuels, par frottis cervico-vaginal remboursé à 100 % (vaccinées HPV ou non).
 
 - Frottis cervico-vaginal à 25 ans, 26 ans et 29 ans avec analyse cytologique
 - À partir de 30 ans: frottis cervico-vaginal tous les 5 ans avec test HPV-HR (haut risque)  
@@ -191,15 +194,25 @@ En cas de refus, un auto-prélèvement vaginal (APV) peut être réalisé par la
 
 > Si la patiente ne reçoit pas ses invitations du dépistage sur son compte *Ameli*, elle contacte sa caisse d'Assurance Maladie.
 
+#### Surveillance renforcée du frottis
+
+- Immunodépression (immunosuppresseur ≥ 1 an, greffe (dont CSH), immunodépression constitutionnelle, lupus):
+  - Débuter le dépistage dans l'année qui suit la greffe
+  - 25-29 ans: cytologie annuelle
+  - 30-65 ans: test HPV-HR à 30 ans puis tous les 3 ans
+  - +65 ans: discussion au cas par cas
+- PVVIH de 25-29 ans avec CD4 < 350/mL ou nadir < 200/µL: cytologie annuelle
+
 #### Exemptions pour le dépistage par frottis
 
 Ne pas réaliser de frottis cervical parmi les femmes suivantes de 25 à 65 ans:
 
 - Grossesse au 2^e^ et 3^e^ trimestre
+- Femmes asymptomatiques avant 25 ans et de plus de 65 ans
 - Jamais eu de rapports sexuels
 - Suspicion de cancer du col de l'utérus
-- Traitement conservateur pour lésion pré-cancéreuse ou cancéreuse du col: sSuivi spécifique
-- Femme sans col de l'utérus
+- Traitement conservateur pour lésion pré-cancéreuse ou cancéreuse du col: suivi spécifique
+- Femme sans col de l'utérus (hystérectomie totale, congénital)
 
 À l'inverse, femmes nécessitant un rythme intensifié: **immunodéprimées** (VIH, greffe ...) ou exposée au **diéthylstilbestrol**.
 
@@ -324,6 +337,7 @@ En cas de conisation ou trachélectomie simple ou élargie: Test HPV-HR à 6 moi
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Dépistage du cancer du col de l'utérus chez les personnes immunodéprimées (hors PVVIH). 2025.](https://www.has-sante.fr/jcms/p_3585926/fr/depistage-du-cancer-du-col-de-l-uterus-chez-les-personnes-immunodeprimees-hors-pvvih)
 - [Brun JL, et al. Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale : actualisation des recommandations INCa après la mise en place du dépistage par le test HPV [Management of women with abnormal cervical cytology: Update of INCa recommendations after the implementation of HPV screening]. Gynecol Obstet Fertil Senol. 2025. (PDF)](https://www.sciencedirect.com/science/article/pii/S2468718924003532)
 - [Service-Public. Une nouvelle vaccination proposée aux élèves de 5e. 04/08/2025.](https://www.service-public.fr/particuliers/actualites/A16438)
 - [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. 30/04/2025.](https://www.cancer.fr/professionnels-de-sante/prevention-et-depistages/prevention/agents-infectieux/prevenir-les-cancers-lies-aux-hpv)
@@ -347,10 +361,6 @@ En cas de conisation ou trachélectomie simple ou élargie: Test HPV-HR à 6 moi
 - [HAS. Cancer invasif du col utérin. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_lap_col_uterin_web.pdf)
 - [HAS. Cancer invasif du col utérin. Janvier 2010. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_gm_col_uterin_web_2010-02-12_09-57-34_599.pdf)
 - [Vaccination Info Service. Les infections à papillomavirus humains (HPV).](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Les-Infections-a-Papillomavirus-humains-HPV)
-
-### Bibliographie en attente
-
-[HAS. Dépistage du cancer du col de l'utérus chez les personnes immunodéprimées (hors PVVIH). 2025.](https://www.has-sante.fr/jcms/p_3585926/fr/depistage-du-cancer-du-col-de-l-uterus-chez-les-personnes-immunodeprimees-hors-pvvih)
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}
