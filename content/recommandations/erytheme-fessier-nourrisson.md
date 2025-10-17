@@ -15,8 +15,8 @@ tags = ["nourrisson"]
 english = ["Diaper dermatitis", "diaper rash", "napkin dermatitis"]
 sctid = "91487003"
 icd10 = []
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Erythème fessier de la petite fille. DermNet"
 todo = "flow"
 +++
 

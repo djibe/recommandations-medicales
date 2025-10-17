@@ -11,13 +11,13 @@ publishdate = "2022-01-28"
 lastmod = "2022-01-28"
 specialites = ["dermatologie"]
 annees = "2014"
-sources = ["Revuz J"]
+sources = ["Bibliographie"]
 tags = []
 english = ["Hidradenitis suppurativa"]
 sctid = "59393003"
 icd10 = ["L73.2"]
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Maladie de Verneuil axillaire droite (Hidradénite suppurée). DermNet"
 todo = "recommandations"
 +++
 

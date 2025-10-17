@@ -16,8 +16,8 @@ tags = ["nourrisson"]
 english = ["Warts", "verruca"]
 sctid = "30285000"
 icd10 = []
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Verrues digitales. DermNet"
 todo = "fiche > photo > newsletter > flow > Kanban"
 +++
 
