@@ -27,7 +27,7 @@ todo = "liens > newsletter > flow > Kanban | don't index text"
 
 Les maladies et déficiences limitant la conduite automobile sont définies par L'Arrêté du 28 mars 2022 du Ministère de l'Intérieur. L'intégralité de l'Arrêté est disponible pour déterminer la poursuite ou non de la conduite automobile.
 
-Adresser tout patient dans cet Arrêté au **médecin agréé pour l'évaluation du permis de conduire** (annuaires disponibles sur les sites des Agences Régionales de Santé -- ARS).
+Adresser tout patient cité dans cet Arrêté au **médecin agréé pour l'évaluation du permis de conduire** (annuaires disponibles sur les [sites des Agences Régionales de Santé]({{< relref "agences-regionales-sante-ars.md" >}}) -- ARS).
 
 {{%/article-summary%}}
 

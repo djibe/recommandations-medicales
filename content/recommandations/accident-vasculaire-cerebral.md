@@ -387,7 +387,7 @@ graph TB
 - [Lecoffre C, et al, Santé Publique France. L'accident vasculaire cérébral en France : patients hospitalisés pour AVC en 2014 et évolutions 2008-2014. BEH. 2017.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/accident-vasculaire-cerebral/documents/article/l-accident-vasculaire-cerebral-en-france-patients-hospitalises-pour-avc-en-2014-et-evolutions-2008-2014)
 - [Steiner T, et al. European Stroke Organisation (ESO) Guidelines for the Management of Spontaneous Intracerebral Hemorrhage. International Journal of Stroke. 2014.](https://journals.sagepub.com/doi/10.1111/ijs.12309)
 - [HAS. Accident vasculaire cérébral : méthodes de rééducation de la fonction motrice chez l'adulte. 2012.](https://www.has-sante.fr/jcms/c_1334330/fr/accident-vasculaire-cerebral-methodes-de-reeducation-de-la-fonction-motrice-chez-l-adulte)
-- [HAS. Accident vasculaire cérébral :  prise en charge précoce. 2009.](https://www.has-sante.fr/jcms/c_830203/fr/accident-vasculaire-cerebral-prise-en-charge-precoce-alerte-phase-prehospitaliere-phase-hospitaliere-initiale-indications-de-la-thrombolyse)
+- [HAS. Accident vasculaire cérébral : prise en charge précoce. 2009.](https://www.has-sante.fr/jcms/c_830203/fr/accident-vasculaire-cerebral-prise-en-charge-precoce-alerte-phase-prehospitaliere-phase-hospitaliere-initiale-indications-de-la-thrombolyse)
 - {{< references/aderim >}}
 
 ### Bibliographie en attente

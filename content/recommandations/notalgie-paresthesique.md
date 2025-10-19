@@ -38,7 +38,7 @@ Notalgie paresthésique
 ### Abréviations
 
 TENS
-: Transcutaneous Electrical Nerve Stimulation
+: {{%lang%}}Transcutaneous Electrical Nerve Stimulation{{%/lang%}}
 {.dl-inline}
 
 {{% /collapse %}}
@@ -103,7 +103,7 @@ Aucun traitement n'a l'AMM pour la notalgie paresthésique et leur efficacité a
 La prise en charge de la notalgie paresthésique n'est pas codifiée, les traitements préférentiels sont:
 
 - Patch de capsaïcine 8% sur prescription hospitalière: [Qutenza](https://www.ema.europa.eu/fr/documents/product-information/qutenza-epar-product-information_fr.pdf)
-- Préparation de capsaïcine: << prescription à but thérapeutique en l'absence de spécialités équivalentes disponibles >>  
+- Préparation de capsaïcine: << prescription à but thérapeutique en l'absence de spécialités équivalentes disponibles >> (source: Kézako du dermato):  
   - Capsicum Olérésine Inresa 8,6 % - 0,11 g
   - Codexial Obase - 50 g
   - Appliquer 2 à 4 fois par jour pendant 1 mois

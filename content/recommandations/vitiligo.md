@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-29T20:48:41+02:00"
 publishdate = "2022-11-22"
-lastmod = "2024-02-08"
+lastmod = "2025-10-18"
 specialites = ["dermatologie"]
 annees = "2021"
 sources = ["BAD", "Inserm"]
@@ -23,19 +23,19 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le diagnostic de vitiligo relève du dermatologue
-- Dépistage systématique d'une [dysthyroïdie](/tags/tsh/) par TSH + anticorps anti-TPO
-- Prise en charge du vitiligo par le généraliste: information, photoprotection des plaques, évaluation psychologique ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}})
-- Traitement de première intention du vitiligo: {{< modal-btn modal-dc >}}dermocorticoïdes{{< /modal-btn >}} ou tacrolimus et photothérapie UVB
-- Suivi spécialisé par le dermatologue tous les 3 à 6 mois tant que le vitiligo est actif
+- Le vitiligo est une dermatose chronique autoimmune à l'origine d'une dépigmentation cutanée progressive dont le diagnostic relève du dermatologue
+- Le bilan du vitiligo recherche une [dysthyroïdie](/tags/tsh/) par TSH + anticorps anti-TPO
+- La prise en charge du vitiligo associe: information, photoprotection des zones dépigmentées, évaluation psychologique ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}) et suivi dermatologique
+- Les traitements de première intention du vitiligo sont les {{< modal-btn modal-dc >}}dermocorticoïdes{{< /modal-btn >}}, le tacrolimus et la photothérapie UVB
+- Un suivi spécialisé par le dermatologue est recommandé tous les 3 à 6 mois tant que le vitiligo est actif
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Vitiligo
-: Dermatose chronique bénigne autoimmune à l'origine d'une dépigmentation cutanée progressive par destruction des mélanocytes **sans facteur prédictif évolutif**. Il débute le plus souvent avant 30 ans (70%) avec une **atteinte préférentielle du visage et des extrémités** (mains et pieds).  
-Une atteinte exclusive des muqueuses est possible et rare.  
-Il atteint 0,5 à 1% de la population de façon homogène avec un sur-risque en cas d'**antécédents familiaux et de stress**.
+: Dermatose chronique bénigne autoimmune à l'origine d'une dépigmentation cutanée progressive par destruction des mélanocytes **sans facteur prédictif évolutif**. Il débute le plus souvent avant 30 ans (70 %) avec une **atteinte préférentielle du visage et des extrémités** (mains et pieds).  
+Une atteinte exclusive des muqueuses est possible et rare.
+: Le vitiligo atteint 0,5 à 1 % de la population de façon homogène avec un sur-risque en cas d'**antécédents familiaux et de stress**.
 : Le vitiligo est dit **stable** en l'absence de nouvelle lésions sur 12 mois avec une stabilité des lésions pré-existantes.
 : Le pronostic du vitiligo est **psychologique** sans augmentation des **cancers de la peau**.  
 Les comorbidités auto-immunes sont fréquentes: [Hashimoto]({{% relref "hypothyroidie.md" %}}), [Basedow]({{% relref "hyperthyroidie.md" %}}), [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), [diabète de type 1]({{% relref "diabete-type-1.md" %}}), MICI.
@@ -56,7 +56,13 @@ Leucotrichie
 Phénomène de Koebner (ou Köbner)
 : Apparition de nouvelles lésions sur le trajet de cicatrices récentes, de zones lésées ou de zones soumises à des frottements réguliers.
 
-### Diagnostic différentiel du vitiligo
+### Abréviations
+
+BAD
+: British Association of Dermatologists
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
 
 Étayer les autres causes possibles d'hypopigmentation cutanée:
 
@@ -64,16 +70,11 @@ Phénomène de Koebner (ou Köbner)
 - [Psoriasis]({{% relref "psoriasis.md" %}})
 - [Eczéma]({{% relref "dermatite-atopique.md" %}})
 
-### Abréviations
-
-BAD
-: British Association of Dermatologists
-
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Adresser toute suspicion de vitiligo au dermatologue pour le diagnostic clinique de certitude à la lampe de Wood et la prise en charge.
-{.alert .alert-info}
+> [!INFO]
+> Adresser toute suspicion de vitiligo au dermatologue pour le diagnostic clinique de certitude à la lampe de Wood et la prise en charge.
 
 Le diagnostic de vitiligo est clinique avec à la lampe de Wood une dépigmentation totale des zones achromiques:
 
@@ -118,7 +119,7 @@ Ensemble des traitements possibles pour la prise en charge spécialisée d'un vi
 
 - **Traitements locaux**
   - {{< modal-btn modal-dc >}}Dermocorticoïde fort ou très fort{{< /modal-btn >}} ou tacrolimus 0,1% x 2/j (hors AMM). Sauf péri-oculaire.
-  - Ruxolitinib (Opzelura®) 1,5% crème (délivrance hospitalière, remb. à 100%)
+  - Ruxolitinib (Opzelura®) 1,5% crème (délivrance hospitalière, remboursement à 100 %)
 - **Photothérapie UVB** + bétaméthasone 0,1 mg/kg x 2/sem voire PUVA thérapie en deuxième intention.
 - Laser (± 5-fluorouracil)  
   Dépigmentation de zones restantes.
@@ -172,13 +173,13 @@ graph TB
 {{%sources%}}
 
 - [Inserm. Vitiligo. 2023.](https://www.inserm.fr/information-en-sante/dossiers-information/vitiligo)
-- [Eleftheriadou V et al. British Association of Dermatologists guidelines for the management of people with vitiligo 2021.](https://onlinelibrary.wiley.com/doi/10.1111/bjd.20596)
+- [Eleftheriadou V, et al. British Association of Dermatologists guidelines for the management of people with vitiligo 2021.](https://onlinelibrary.wiley.com/doi/10.1111/bjd.20596)
 - [Ly S. Le vitiligo. Dermato-Info. 2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/vitiligo-quand-la-peau-perd-son-pigment)
-- [Whitton ME et al. Interventions for vitiligo. Cochrane Database of Systematic Reviews. 2015.](https://www.cochrane.org/CD003263/SKIN_treatments-vitiligo)
+- [Whitton ME, et al. Interventions for vitiligo. Cochrane Database of Systematic Reviews. 2015.](https://www.cochrane.org/CD003263/SKIN_treatments-vitiligo)
 
 ### Bibliographie en attente
 
-[Taieb A et al. Guidelines for the management of vitiligo: the European Dermatology Forum consensus. Br J Dermatol. 2013. (PDF)](https://www.guidelines.edf.one//uploads/attachments/cl264136200relajnvlx061j4-vitiligo-2011-gl.pdf)
+[Taieb A, et al. Guidelines for the management of vitiligo: the European Dermatology Forum consensus. Br J Dermatol. 2013. (PDF)](https://www.guidelines.edf.one//uploads/attachments/cl264136200relajnvlx061j4-vitiligo-2011-gl.pdf)
 
 {{%/sources%}}
 {{% modal title="Phototype selon Fitzpatrick" id="modal-phototype" size="lg" %}}

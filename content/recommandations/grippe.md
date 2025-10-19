@@ -271,6 +271,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [CBIP. Nouvelles données sur le vaccin antigrippal à haute dose. Folia. 2025.](https://www.cbip.be/fr/articles/4625?folia=4621)
 - [HAS. Vaccination contre la grippe saisonnière des personnes de 65 ans et plus. Place des vaccins Efluelda et Fluad. 2025.](https://www.has-sante.fr/jcms/p_3604446/fr/vaccination-contre-la-grippe-saisonniere-des-personnes-de-65-ans-et-plus-place-des-vaccins-efluelda-et-fluad)
 - {{< references/calendrier-vaccinal >}}
 - [Hanula R, et al. Evaluation of Oseltamivir Used to Prevent Hospitalization in Outpatients With Influenza: A Systematic Review and Meta-analysis. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2805976)

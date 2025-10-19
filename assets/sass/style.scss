@@ -446,6 +446,10 @@ a[data-toggle="modal"]:not(.no-icon)::after {
   background-color: var(--surface);
   word-wrap: break-word;
   word-break: break-word;
+
+  > iframe {
+    border-radius: inherit;
+  }
 }
 
 .card-img-top,

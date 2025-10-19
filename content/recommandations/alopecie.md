@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-18T09:04:34+02:00"
 publishdate = "2023-09-21"
-lastmod = "2023-11-06"
+lastmod = "2025-10-17"
 specialites = ["dermatologie"]
 annees = "2017"
 sources = ["EDF"]
@@ -26,7 +26,7 @@ flowchart = true
 - L'alopécie est la raréfaction ou la disparition des cheveux. Les principales causes sont l'alopécie androgénétique, la pelade et l'effluvium télogène ([post-partum]({{% relref "post-partum.md" %}}), chirurgie, stress aigu)
 - Connaître la physiologie de la pousse des cheveux pour l'expliquer au patient
 - L'examen clinique bien conduit est essentiel pour déterminer la cause de l'alopécie
-- Les examens complémentaires sont ciblés lors de situations spécifiques
+- Le bilan est ciblé lors de situations spécifiques
 - La prise en charge et le traitement de l'alopécie est surtout étiologique
 - Pour l'alopécie androgénétique: minoxidil 5% (2% chez la femme) avec conditions d'utilisation bien expliquées
 - L'avis dermatologique est systématique en cas de doute diagnostique ou d'absence de réponse à un traitement
@@ -47,11 +47,11 @@ De 1 à 1,5 millions de follicules sont répartis sur le cuir chevelu. 30 à 150
 
 Le cycle pilaire enchaîne 3 phases:
 
-1. Anagène  
+1. Phase anagène  
   Croissance longue de 0,3 mm/j pendant 3-6 ans. Elle détermine la longueur du cheveu.
-2. Catagène  
+2. Phase catagène  
   Involution pendant 3 semaines.
-3. Télogène  
+3. Phase télogène  
   Phase de repos de 2-6 mois avec préparation d'un nouveau cheveu.
 
 Les follicules pileux nécessitent: fer, protéines, zinc et vitamines pour une croissance satisfaisante.
@@ -124,7 +124,7 @@ Signes et symptômes pouvant orienter vers la cause de l'alopécie.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Les examens dépendent de l'étiologie suspectée:
+Le bilan d'une alopécie dépend de l'étiologie suspectée:
 
 - Si ménorragies, [dénutrition]({{% relref "denutrition.md" %}}), régime: [ferritine](/tags/ferritine/), bilan carentiel
 - Effluvium télogène persistant à 3-6 mois: [TSH](/tags/tsh/), ferritine
@@ -154,7 +154,7 @@ Les traitements de l'alopécie androgénétique ne sont possibles qu'à partir d
 
 Prise en charge de l'alopécie androgénétique de l'homme (par efficacité décroissante):
 
-- Finastéride 1 mg/j + [info patient ANSM (PDF)](https://ansm.sante.fr/uploads/2022/11/14/20221114-finasteride-fichepatient-v13102022.pdf)  
+- Rapport bénéfice/risque défavorable: Finastéride 1 mg/j + [info patient ANSM (PDF)](https://ansm.sante.fr/uploads/2022/11/14/20221114-finasteride-fichepatient-v13102022.pdf)  
   Possible de 18 à 41 ans avec **risques psychiatriques**, sexuels, gynécomastie à surveiller et baisse du PSA.
 - Si échec finastéride à 12 mois: dutastéride 0,5 mg x 1/j (mêmes précautions que finastéride), sinon au long cours
 - [Minoxidil 5%](https://bdpm.ansm.sante.fr/medicament/62182563/extrait#tab-rcp) 1 mL ou 1/2 bouchon x 2/j
@@ -209,7 +209,7 @@ Un traitement par minoxidil et/ou finastéride pourrait limiter la progression d
 {{< mermaid title="Prise en charge d'une alopécie. Dr JB Fron d'après EDF 2017" >}}
 graph TB
   Alopécie --> cuir(Cuir chevelu sain ?) -- Oui --> clinique("Progressive,<br>zones androgénétiques ?") -- Non --> sain("Étayer:<br>- Effluvium télogène<br>- Pelade")
-    clinique -- Oui --> AAG(Alopécie androgénique) -- Homme --> Homme("- Minoxidil<br>- Finastéride<br>(Information risques)") --> réévaluation(Réévaluation à M6) -- Efficace --> poursuite(Poursuite)
+    clinique -- Oui --> AAG(Alopécie androgénique) -- Homme --> Homme(Minoxidil) --> réévaluation(Réévaluation à M6) -- Efficace --> poursuite(Poursuite)
       AAG -- Femme --> Femme(Minoxidil 2%) --> réévaluation
         réévaluation -- Échec --> dermatologue(Dermatologue)
     cuir -- Non --> différentiel("- Teigne<br>- Lupus<br>- Lichen plan<br>- Sarcoïdose<br>- Sclérodermie<br>- Métastase") --> dermatologue
@@ -219,8 +219,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [ANSM. Finastéride et risque d'idées suicidaires : nouvelles mesures. 26/09/2025.](https://ansm.sante.fr/actualites/finasteride-et-risque-didees-suicidaires-nouvelles-mesures)
 - [Collège des enseignants de dermatologie de France (CEDEF). Troubles des phanères. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Troubles-des-phaneres_CompressPdf.pdf)
 - [Jegou-Penouil MH. L'alopécie. Dermato-Info. 02/12/2019.](https://dermato-info.fr/fr/les-phan%C3%A8res_cheveux-et-poils/l%E2%80%99alop%C3%A9cie)
-- [Kanti V et al; EDF. Evidence-based (S3) guideline for the treatment of androgenetic alopecia in women and in men - short version. J Eur Acad Dermatol Venereol. 2018.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.14624)
+- [Kanti V, et al; EDF. Evidence-based (S3) guideline for the treatment of androgenetic alopecia in women and in men - short version. J Eur Acad Dermatol Venereol. 2018.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.14624)
 
 {{%/sources%}}

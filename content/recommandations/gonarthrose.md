@@ -193,13 +193,14 @@ Des imageries complémentaires sont inutiles en cas d'arthrose typique, sauf év
 Recommandations pour la prise en charge des douleurs de gonarthrose et mesures générales de prise en charge de l'arthrose du genou:
 
 - **Antalgie**
+  - Application de chaleur ou glaçage
   - Paracétamol 1 g x 3/j (sans efficacité au-delà)
     - << Son profil d'efficacité/tolérance n'incite pas à le prescrire comme un traitement de fond antalgique au long cours >> (*SFR 2020*)
     - Les opioïdes n'apportent pas de bénéfice (*AAOS 2021*, surmortalité significative avec le tramadol)
   - **AINS oraux: naproxène** 550 mg x 2/j
     - Durée la plus courte courte et dose faible recherchées.
     - << Les autres voies d'administration (IM, IV) des AINS n'ont pas lieu d'être dans la gonarthrose >>  
-  - **AINS topiques: kétoprofène** 2,5% gel x 2/j (ou diclofénac)  
+  - **AINS topiques: kétoprofène** 2,5 % gel x 2/j (ou diclofénac)  
     << L'efficacité paraît comparable à celle des AINS per os >>, << Rapport bénéfice-risque intéressant dans la population de patients avec une gonarthrose >>.
 - **Traitement fonctionnel**
   - Repos, canne
@@ -211,6 +212,7 @@ Recommandations pour la prise en charge des douleurs de gonarthrose et mesures g
   - Adaptation du poste avec le Médecin du travail ou à défaut un Centre Régional de Pathologies Professionnelles et Environnementales
 - Correction d'un **surpoids**
 - Pourraient être proposés: acupuncture, TENS, cure thermale
+- Information du patient: [guide Ameli](https://www.ameli.fr/assure/sante/themes/arthrose-genou/)
 
 Traitements à ne pas utiliser: bandes adhésives de contention ou orthèses souples, électrothérapie, thermothérapie, ondes de choc, laser, thérapies électromagnétiques.
 {.alert .alert-warning}
@@ -301,6 +303,7 @@ graph TB
 {{< card-link-external title="Quand adresser un patient gonarthrosique au chirurgien ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/174175700" >}}
 
 - [Whittle SL, et al. Stem cell injections for osteoarthritis of the knee. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013342.pub2/full/fr)
+- Prescrire Redaction. Douleurs liées à une arthrose du genou ou de la hanche. Premiers Choix Prescrire. Rev Prescrire. 2024.
 - [Pers YM, et al. Recommendations from the French Societies of Rheumatology and Physical Medicine and Rehabilitation on the non-pharmacological management of knee osteoarthritis. Ann Phys Rehabil Med. 2024.](https://www.sciencedirect.com/science/article/pii/S1877065724000678)
 - [Moseng T, et al. EULAR recommendations for the non-pharmacological core management of hip and knee osteoarthritis: 2023 update. Ann Rheum Dis. 2024.](https://ard.bmj.com/content/early/2024/01/11/ard-2023-225041.long)
 - [CNGE. Eviter la visco-supplémentation dans la gonarthrose. 05/09/2022. (PDF)](https://www.cnge.fr/wp-content/uploads/2023/09/220905_Avis_CS_CNGE_Supplementation_gonarthrose_vsite.pdf)

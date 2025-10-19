@@ -135,6 +135,7 @@ La prise en charge de la coxarthrose (arthrose de la hanche) associe:
 - **Kinésithérapie**: en cas de symptômes légers à modérés
 - Infiltrations de corticoïdes: pourraient être considérées en cas de symptômes  
   Soulage de 2 à 10 semaines.
+- Information du patient: [guide Ameli](https://www.ameli.fr/assure/sante/themes/arthrose-hanche)
 
 > [!INFO]
 > << Les infiltrations d'acide hyaluronique ne devraient pas être considérées >>. -- *AAOS 2023* et *NICE 2022*.
