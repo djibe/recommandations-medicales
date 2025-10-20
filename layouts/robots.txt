@@ -11,7 +11,9 @@ User-agent: Awario
 User-agent: AwarioBot
 User-agent: AwarioRssBot
 User-agent: AwarioSmartBot
-User-agent: Bytespider
+User-agent: Baiduspider
+User-agent: Barkrowler
+User-agent: BLEXBot
 User-agent: bedrockbot
 User-agent: bigsur.ai
 User-agent: Brightbot 1.0
@@ -66,11 +68,13 @@ User-agent: meta-externalfetcher
 User-agent: Meta-ExternalFetcher
 User-agent: meta-webindexer
 User-agent: mirrorweb
+User-agent: MJ12bot
 User-agent: MyCentralAIScraperBot
 User-agent: netEstate Imprint Crawler
 User-agent: Nicecrawler
 User-agent: NovaAct
 User-agent: OAI-SearchBot
+User-agent: offline
 User-agent: omgili
 User-agent: omgilibot
 User-agent: OpenAI
@@ -88,11 +92,17 @@ User-agent: QuillBot
 User-agent: quillbot.com
 User-agent: SBIntuitionsBot
 User-agent: Scrapy
+User-agent: Seekport Crawler
 User-agent: SemrushBot-OCOB
 User-agent: SemrushBot-SWA
+User-agent: SEOkicks-Robot
 User-agent: ShapBot
 User-agent: Sidetrade indexer bot
+User-agent: sitesnagger
+User-agent: sogou spider
 User-agent: SummalyBot
+User-agent: teleport
+User-agent: teleportpro
 User-agent: TerraCotta
 User-agent: The Knowledge AI
 User-agent: Thinkbot
@@ -100,9 +110,16 @@ User-agent: TikTokSpider
 User-agent: Timpibot
 User-agent: VelenPublicWebCrawler
 User-agent: WARDBot
+User-agent: webbandit
+User-agent: webcopier
+User-agent: website
+User-agent: webstripper
 User-agent: Webzio-Extended
+User-agent: webzip
+User-agent: wget
 User-agent: wpbot
 User-agent: YaK
+User-agent: Yandex
 User-agent: YandexAdditional
 User-agent: YandexAdditionalBot
 User-agent: YouBot
