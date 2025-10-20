@@ -176,7 +176,7 @@ Récidives de laryngite: rechercher un [reflux gastro-œsophagien]({{% relref "r
 
 ### Bibliographie en attente
 
-- [Gupta G, Mahajan K. Acute Laryngitis. StatPearls. 2022.(https://www.ncbi.nlm.nih.gov/books/NBK534871/)
+- [Gupta G, Mahajan K. Acute Laryngitis. StatPearls. 2022.](https://www.ncbi.nlm.nih.gov/books/NBK534871/)
 
 Mot-clé: trachéite
 

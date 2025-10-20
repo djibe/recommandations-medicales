@@ -8,10 +8,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-30T19:57:00+02:00"
 publishdate = "2021-05-01"
-lastmod = "2025-05-19"
+lastmod = "2025-10-19"
 specialites = ["endocrinologie", "gynécologie-obstétrique"]
-annees = "2021"
-sources = ["SFD", "CNGOF"]
+annees = "2025"
+sources = ["HAS", "SFD", "CNGOF"]
 tags = ["diabète", "grossesse", "insuline"]
 english = ["Gestational diabetes mellitus (GDM)"]
 sctid = "11687002"
@@ -68,6 +68,9 @@ DG
 GAJ
 : glycémie à jeun
 
+HAS
+: Haute Autorité de Santé
+
 HGPO
 : hyperglycémie provoquée par voie orale
 
@@ -102,7 +105,7 @@ Indication au dépistage du diabète gestationnel en présence d'au moins un fac
 6. [Syndrome des ovaires polykystiques]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (SOPK, *ESHRE 2023*)  
   Dès le désir de grossesse ou rattrapage à 24-28 SA.
 
-> -- *CNGOF, SFD 2010*
+> -- *HAS 2025* reprenant *CNGOF, SFD 2010*
 {{%/info%}}
 
 ### Critères diagnostiques du diabète gestationnel
@@ -187,7 +190,7 @@ Le suivi après un diabète gestationnel comprend:
   - En cas de nouvelle grossesse: dépistage du diabète gestationnel
   - Glycémie à jeun à la consultation post-natale
   - avant nouvelle grossesse
-  - et **tous les 1 à 3 ans à vie**
+  - et **tous les 1 à 3 ans à vie** (au moins 25 ans)
 - Mesures hygiéno-diététiques
   - Activité physique régulière 30 à 60 minutes 5 jours par semaine
   - Alimentation équilibrée
@@ -205,7 +208,7 @@ Le développement d'un diabète gestationnel ne modifie pas les consignes valabl
 {{% /collapse %}}
 {{%collapse "Prise en charge du diabète gestationnel" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le dépistage et la prise en charge du diabète gestationnel. Dr JB Fron d'après SFD/CNGOF 2010" >}}
+{{< mermaid title="Conduite à tenir pour le dépistage et la prise en charge du diabète gestationnel. Dr JB Fron d'après HAS 2025, SFD/CNGOF 2010" >}}
 graph TB
 fdr["<b>Facteurs de risque de<br>diabète gestationnel</b><br>—<br>1. Âge ≥ 35 ans<br>2. IMC ≥ 25 kg/m²<br>3. ATCD familial 1<sup>er</sup> degré de DT2<br>4. ATCD de DG<br>5. ATCD de macrosomie<br>6. SOPK (HGPO)"]
 style fdr stroke:#4150f5, stroke-width:1px
@@ -227,6 +230,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 
 {{< card-link-external title="e-learning EASD" url="https://easd-elearning.eu/courses/gestational-diabetes-mellitus/">}}
 
+- [HAS. Parcours de soins du patient adulte vivant avec un diabète de type 2. 2025.](https://www.has-sante.fr/jcms/p_3634754/fr/parcours-de-soins-du-patient-adulte-vivant-avec-un-diabete-de-type-2)
 - [ESHRE. International evidence-based guideline for the assessment and management of polycystic ovary syndrome - Summary. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)
 - {{< references/ada-soc >}}
 - {{< references/sfd-dt2 >}}

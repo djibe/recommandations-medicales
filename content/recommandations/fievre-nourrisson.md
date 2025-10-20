@@ -122,6 +122,8 @@ Chez le nourrisson de 29 jours et plus, en cas de bon état général avec bilan
 - [Burstein B, et al. Management of well-appearing febrile young infants aged ≤ 90 days. Paediatr Child Health. 2024.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10848123/) ([version francophone](https://cps.ca/fr/documents/position/la-prise-en-charge-des-nourrissons-de-90-jours-ou-moins-fievreux-mais-dans-un-bon-etat-general))
 - [Pantell RH, et al. Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old. Pediatrics. 2021.](https://publications.aap.org/pediatrics/article/148/2/e2021052228/179783/Evaluation-and-Management-of-Well-Appearing)
 - [Gras-Le Guen C, et al; SFP. Fièvre avant 3 mois. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/immuno-infectio-parasito/fievre-avant-3-mois)
+- [Société Française de Néonatalogie, Société Française de Pédiatrie. Prise en charge du nouveau-né à risque d'infection néonatale bactérienne précoce (≥ 34 SA) (Label HAS). 2017.](https://www.sfpediatrie.com/ressources/recommandationsmises-au-point#collapse-accordion-167-7)
+- [ANAES. Diagnostic et traitement curatif de l'infection bactérienne précoce du nouveau-né. 2002.](https://www.has-sante.fr/jcms/c_272226/fr/diagnostic-et-traitement-curatif-de-l-infection-bacterienne-precoce-du-nouveau-ne)
 
 ### Bibliographie en attente
 

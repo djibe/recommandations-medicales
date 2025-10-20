@@ -176,7 +176,7 @@ Complications de la chirurgie:
 Suivi médical après fracture de hanche:
 
 - Douleur et cicatrisation
-- Prévention des phlébites: [fondaparinux](https://www.ema.europa.eu/fr/documents/product-information/arixtra-epar-product-information_fr.pdf) SC 2,5 mg x 1/j pendant 4 semaines (sans surveillance des plaquettes -- *Afssaps 2009*)
+- Prévention des phlébites: [fondaparinux](https://www.ema.europa.eu/fr/documents/product-information/arixtra-epar-product-information_fr.pdf) SC 2,5 mg x 1/j pendant 4 semaines (*SFAR 2024*, sans surveillance des plaquettes *Afssaps 2009*)
 - Autonomie
   - Évaluation de l'autonomie
   - {{< modal-btn modal-risque-chute >}}Facteurs de risque de chutes{{< /modal-btn >}}

@@ -8,7 +8,7 @@ synonyms = ["Dermite séborrhéique", "eczéma séborrhéique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-01T22:39:41+02:00
 publishdate = "2020-09-01"
-lastmod = "2023-12-05"
+lastmod = "2025-10-20"
 specialites = ["dermatologie"]
 annees = "2023"
 sources = ["CEDEF", "CMIT"]
@@ -23,13 +23,15 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le diagnostic de dermatite séborrhéique est clinique
-- Prise en charge de la dermatite séborrhéique par ciclopirox olamine 2% crème x 2/j ou kétoconazole 2% gel moussant/crème x 2/semaine
+- La dermatite séborrhéique est une dermatose visage fréquente, chronique, atteignant les zones séborrhéiques du visage (sillons nasogéniens, sourcils, gabelle, lisière antérieure du cuir chevelu) liée à la prolifération d'une levure lipophile: *Malassezia furfur*
+- Le diagnostic de dermatite séborrhéique est clinique: plaques érythémateuses recouvertes de petites squames grasses des zones séborrhéiques, surtout chez l'homme
+- Aucun bilan n'est systématique
+- La prise en charge de la dermatite séborrhéique associe: ciclopirox olamine 2% crème x 2/j ou kétoconazole 2% gel moussant/crème x 2/semaine
   - Mesures d'hygiène: éviction des facteurs déclenchants, toilette quotidienne au savon doux
   - Traitement d'attaque pendant 2 à 4 semaines
   - Traitement d'entretien 2 à 4 fois par mois au long cours
   - Cuir chevelu: kétoconazole ou ciclopirox 1,5 % shampooing x 2-3/semaine
-- Si dermatite séborrhéique récente, extensive ou résistante: dépister le [VIH]({{% relref "vih-sida.md" %}})
+- Si dermatite séborrhéique récente, extensive ou résistante: dépister le [VIH]({{% relref "vih-sida.md" %}}) et avis spécialisé dermatologique
 
 Chapitres liés: [acné]({{% relref "acne.md" %}}), [eczéma]({{% relref "dermatite-atopique.md" %}}), [mycoses]({{% relref "mycoses-dermatophytes-candidoses.md" %}}), [rosacée]({{% relref "rosacee.md" %}})
 
@@ -37,7 +39,7 @@ Chapitres liés: [acné]({{% relref "acne.md" %}}), [eczéma]({{% relref "dermat
 {{% collapse "Définition" %}}
 
 Dermatite séborrhéique (DS ou dermite séborrhéique)
-: Dermatose chronique du visage fréquente (prévalence 1 à 3%), évoluant par **poussées**, localisée aux **zones séborrhéiques du visage** par prolifération d'une levure lipophile: *Malassezia furfur* (ou *Malassezia spp.*).
+: Dermatose chronique du visage fréquente (prévalence 1 à 3 %), évoluant par **poussées**, localisée aux **zones séborrhéiques du visage** par prolifération d'une levure lipophile: *Malassezia furfur* (ou *Malassezia spp.*).
 : La dermatite séborrhéique atteint préférentiellement l'homme à la puberté, mais parfois après 50 ans. Elle peut toucher les nourrissons (croûtes de lait).
 
 ### Sujets à risque de forme sévère de dermatite séborrhéique
@@ -82,8 +84,6 @@ Forme extensive: érythrodermie de Leiner-Moussous.
 {{% /collapse %}}
 {{% collapse "Diagnostic différentiel" %}}
 
-### Diagnostics différentiels de la dermatite séborrhéique
-
 Autres diagnostics à étayer devant une dermatose du visage:
 
 - **[Psoriasis]({{% relref "psoriasis.md" %}})**  
@@ -98,26 +98,27 @@ Autres diagnostics à étayer devant une dermatose du visage:
 {{% /collapse %}}
 {{% collapse "Examens complémentaires" %}}
 
-Aucun examen complémentaire en l'absence d'arguments pour une autre cause.
+Aucun bilan en l'absence d'arguments pour une autre cause.
 
 {{% /collapse %}}
 {{% collapse "Traitement de la dermatite séborrhéique" %}}
 
 Le traitement de la dermatite séborrhéique est suspensif et doit donc être répété.
 
-Prise en charge de la dermatite séborrhéique par un **traitement d'attaque pendant 2 à 4 semaines** puis **traitement d'entretien 2 à 4 fois par mois** au long cours.
+La prise en charge de la dermatite séborrhéique débute par un **traitement d'attaque pendant 2 à 4 semaines**, suivi d'un **traitement d'entretien 2 à 4 fois par mois** au long cours:
 
-### Mesures hygiéno-diététiques
-
-- Éviction des facteurs déclenchants identifiés (stress)
-- Toilette quotidienne avec savon doux
-- Respecter les conditions d'application des produits
+- Mesures hygiéno-diététiques
+  - Éviction des facteurs déclenchants identifiés (stress)
+  - Toilette quotidienne avec savon doux
+  - Respecter les conditions d'application des produits
+- Traitements topiques: ciclopirox olamine ou kétoconazole (voir ci-dessous)
+- Information du patient: [guide Ameli dermatite séborrhéique](https://www.ameli.fr/assure/sante/themes/dermatite-seborrheique)
 
 ### Traitements pharmacologiques de la dermatite séborrhéique
 
 #### Visage et thorax
 
-Kétoconazole gel moussant ou crème 2% x 2/sem pendant 4 semaines (si +12 ans)  
+Kétoconazole gel moussant ou crème 2% 2 fois par semaine pendant 4 semaines (si +12 ans)  
 OU [ciclopirox olamine crème 1%](https://bdpm.ansm.sante.fr/medicament/63273126/extrait#tab-rcp) x 2/j pendant 4 semaines (tout âge)
 {.alert .alert-info}
 
@@ -129,8 +130,8 @@ Un [dermocorticoïde modéré]({{% relref "dermocorticoides.md" %}}) peut être 
 
 Shampooing antipelliculaire en alternance avec un shampooing doux.
 
-[Ciclopirox olamine](https://bdpm.ansm.sante.fr/medicament/64330943/extrait#tab-rcp) shampooing 1,5% 2-3/sem  
-OU [kétoconazole](https://bdpm.ansm.sante.fr/medicament/66227874/extrait#tab-rcp) (Ketoderm®, gén) gel moussant 2% 2/sem
+[Ciclopirox olamine](https://bdpm.ansm.sante.fr/medicament/64330943/extrait#tab-rcp) shampooing 1,5 % 2 à 3 fois par semaine  
+OU [kétoconazole](https://bdpm.ansm.sante.fr/medicament/66227874/extrait#tab-rcp) (Ketoderm®, gén) gel moussant 2% 2 fois par semaine
 {.alert .alert-info}
 
 **Effets indésirables:** prurit, sensation de brûlure, xérose cutanée, interactions médicamenteuses.  
@@ -150,14 +151,12 @@ Autres produits: gluconate de lithium 8% (Lithioderm®), climbazole shampooing, 
 
 {{< mermaid title="Prise en charge de la dermatite séborrhéique par le médecin généraliste. Dr JB Fron d'après CEDEF 2023 et CMIT" >}}
 graph TB
-  suspicion[Suspicion de dermatite séborrhéique] --> diagnostic(Diagnostic clinique<br>de DS)
+  suspicion["<b>Suspicion de<br>dermatite séborrhéique</b>"] --> diagnostic("Diagnostic clinique de<br>dermatite séborrhéique")
   style suspicion stroke:#4150f5, stroke-width:1px
   suspicion -- Diagnostic différentiel --> differentiel(Psoriasis<br>Rosacée<br>Dermatite atopique<br>Syphilis)
-  diagnostic --> scalp("Cuir chevelu<br>—<br>Ciclopirox shampooing 1%<br>OU kétoconazole gel 2%")
-  diagnostic --> face("Face et tronc<br>—<br>Kétoconazole gel/crème 2% x 2/sem<br>OU ciclopirox crème 1% x 2/j")
-  diagnostic --> grossesse("Grossesse<br>—<br>Kétoconazole<br>gel/crème<br>2% x 2/sem")
-    scalp --> attaque("<b>Phase d'attaque</b><br>Traitement 2 à 4 sem")
-    face --> attaque
+  diagnostic --> scalp("Cuir chevelu<br>—<br>Ciclopirox shampooing 1%<br>OU kétoconazole gel 2%") --> attaque("<b>Phase d'attaque</b><br>Applications pluriquotidiennes<br>pendant 2 à 4 semaines")
+  diagnostic --> face("Face et tronc<br>—<br>Kétoconazole gel/crème 2% x 2/sem<br>OU ciclopirox crème 1% x 2/j") --> attaque
+  diagnostic --> grossesse("Grossesse<br>—<br>Kétoconazole<br>gel/crème<br>2% x 2/sem") --> attaque
       attaque --> entretien("<b>Phase d'entretien</b><br>2 à 4 applications par mois")
         entretien -.-> severe("Sévère et résistant<br>—<br>Sérologie VIH<br>Avis dermatologique")
 {{< /mermaid >}}

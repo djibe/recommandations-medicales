@@ -22,7 +22,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- La gale est une parasitose strictement humaine par le sarcopte
+- La gale est une parasitose strictement humaine transmise par le sarcopte
 - Évoquer une gale devant tout [prurit](/tags/prurit/)
 - La prise en charge de la gale associe:
   - Un traitement concomitant de tout le foyer par ivermectine orale (adaptée au poids) en 1 prise à renouveler 8 jours après  
@@ -186,7 +186,7 @@ Traitement de référence selon l'âge (*SFD 2024*):
 
 > Ivermectine à 200 µg/kg pendant le repas chez l'enfant; perméthrine appliquée 8 à 14 heures.
 
-Formes compliquées:
+**Formes compliquées:**
 
 - ==Hospitalisation== si: immunodéprimé, enfants, femmes enceintes ou allaitantes avec forme profuse et/ou hyperkératosique
 - Impétiginisation: [antibiothérapie]({{% relref "infection-cutanee-bacterienne.md" %}})

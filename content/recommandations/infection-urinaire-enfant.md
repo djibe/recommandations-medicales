@@ -29,7 +29,7 @@ Recommandations pour la prise en charge des infections urinaires (IU) de la fill
 - Bandelette urinaire (BU) systématique à partir de l'âge de 1 mois. Négative elle élimine une infection urinaire
 - ECBU systématique si BU positive (ou < 1 mois, uropathie, neutropénie, SFU, fièvre inexpliquée > 48 heures, [échelle de Pittsburgh](https://uticalc.pitt.edu) prédictive d'IU) avant l'antibiothérapie
 - Pas d'ECBU de contrôle
-- Prise en charge de la cystite aiguë de l'enfant (infection urinaire non fébrile): ECBU puis amoxicilline/acide clavulanique 1,5 dose-kg (80 mg/kg/j, max 3 g/j) en 2 prises pendant 5 jours
+- Prise en charge de la cystite aiguë de l'enfant (infection urinaire non fébrile): ECBU puis amoxicilline/acide clavulanique 1,5 dose-kg (80 mg/kg/j, max 3 g/j) 2 fois par jour pendant 5 jours
 - Prise en charge de la pyélonéphrite aiguë (PNA) de l'enfant:
   - Hospitalisation si: < 3 mois, uropathie, immunodépression, lithiase urinaire, AEG, suspicion de sepsis, mauvaise compréhension familiale, cocci Gram+
   - Échographie des voies urinaires lors du premier épisode
@@ -88,8 +88,8 @@ La cystite est une infection urinaire **sans fièvre** et sans anomalie biologiq
 Prise en charge ambulatoire de la cystite aiguë (infection urinaire basse) immédiatement après ECBU:
 
 - Fille pubère: traitement minute par fosfomycine sauf uropathie (voir [IU de l'adulte]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}))
-- ==[Amoxicilline/acide clavulanique](https://bdpm.ansm.sante.fr/medicament/64550843/extrait#tab-rcp) 1,5 dose-kg (80 mg/kg/j, max 3 g/j) en 2 prises pendant 5 jours==
-  - Adaptation à l'antibiogramme uniquement en cas d'évolution défavorable avec cotrimoxazole préféré au céfixime
+- ==[Amoxicilline/acide clavulanique](https://bdpm.ansm.sante.fr/medicament/64550843/extrait#tab-rcp) 1,5 dose-kg 2 fois par jour pendant 5 jours== (80 mg/kg/j, max 3 g/j)
+  - Pas d'adaptation à l'antibiogramme sauf évolution défavorable: cotrimoxazole préféré au céfixime
 - Mesures d'hygiène générales
 - Si allergie:
   - Préférer le [cotrimoxazole](https://bdpm.ansm.sante.fr/medicament/69464049/extrait#tab-rcp) 30 mg/kg/j (max 1,6 g/j) de SMX en 2 prises pendant 5 jours

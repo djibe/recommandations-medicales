@@ -9,27 +9,30 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2024-06-21"
+lastmod = "2025-10-20"
 specialites = ["endocrinologie"]
-annees = "2024"
+annees = "2025"
 sources = ["HAS", "SFD", "ESC", "ESH", "ADA", "EASD", "KDIGO"]
-tags = ["B12", "diabete", "epreuve effort", "HTA", "insuline", "retinopathie", "nephropathie", "risque cardiovasculaire", "neuropathie", "obesite", "SAS", "vaccin"]
+tags = ["B12", "diabète", "épreuve effort", "HTA", "insuline", "rétinopathie", "néphropathie", "risque cardiovasculaire", "neuropathie", "obésité", "SAS", "vaccin"]
 english = ["Diabetes mellitus type 2"]
 sctid = "44054006"
 icd10 = ["E11", "E11.9", "E14", "O24.1"]
 image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
-todo = "maisons sport-santé, socrisktest, WATCH-DM ESC2023 src480; EASD 2021 Table 2.3 et 2.4, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit, indications fructosamine, https://www.ameli.fr/sites/default/files/Documents/Memo-diabete-complication-podologue.PDF | https://diabetesjournals.org/care/issue/47/Supplement_1"
+todo = "hypoglycémies HAS25p58; urgences hypergly HAS25p60; fragilité HAS25p65; alimentation HAS25p26; dysautonomie HAS25p44; pied HAS25p47 | maisons sport-santé, WATCH-DM ESC2023 src480; EASD 2021 Table 2.3 et 2.4, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit, indications fructosamine, https://www.ameli.fr/sites/default/files/Documents/Memo-diabete-complication-podologue.PDF | https://diabetesjournals.org/care/issue/47/Supplement_1"
 +++
 
 {{%article-summary%}}
 
-Ce chapitre intègre les dernières recommandations HAS 2024, SFD, ADA, ESC et ESH 2023 et ADA/EASD 2022 pour la prise en charge du diabète de type 2.
+Ce chapitre intègre les dernières recommandations HAS, SFD, ADA, ESC et ADA/EASD 2022 pour la prise en charge du diabète de type 2.
 
-- Dépister régulièrement un diabète si: +35 ans, prédiabète (annuel), diabète gestationnel (min tous les 3 ans), [score FINDRISC](https://www.diabeclic.com/findrisc) élevé, VIH, surpoids avec autre facteur de risque (antécédent familial, maladie cardiovasculaire, origines africaines/asiatiques/pacifiques, PA > 130/80 mmHg ou traitée, HDL < 0,35 g/L, TG > 2,5 g/L, inactivité physique, [stéatose hépatique]({{% relref "steatose-hepatique-et-nash.md" %}}), acanthosis nigricans), Socrisktest ≥ 5 (*ADA 2023*)
+- Dépister tous 3 ans un diabète en cas de facteurs de risque (1 à 2 en cas de facteurs multiples):
+  - facteur de risque cardiovasculaire
+  - +45 ans avec: surpoids/obésité, origines non caucasiennes, antécédent personnel de diabète gestationnel ou de macrosomie, antécédent familial de diabète au 1^er^ degré, traitement à risque (antipsychotique, corticoïde, VIH ...), hypertension artérielle, HDL bas ≤ 0,35 g/L ou triglycérides ≥ 2 g/L, précarité sociale
+  - Prédiabète (annuel), acanthosis nigricans
 - Pour chaque personne vivant avec un diabète: changement du mode de vie, définir le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}, sevrage tabagique obligatoire et prise en charge des points vitaux obligatoires (voir plus bas)
 - {{< modal-btn modal-hba1c >}}Cible personnalisée d'hémoglobine glyquée{{< /modal-btn >}} (globalement 7%) et {{< modal-btn modal-hba1c-faussee >}}situations où l'HbA1c n'est pas fiable{{< /modal-btn >}}
-- Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}} rarement
+- Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}aGLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}} rarement
 - [Dépistage des complications du diabète](#dépistage-des-complications-du-diabète) et des comorbidités
 - Éducation thérapeutique du patient diabétique
 
@@ -39,10 +42,10 @@ Articles liés: [diabète type 1]({{% relref "diabete-type-1.md" %}}), [diabète
 {{%collapse "Définitions"%}}
 
 Diabète
-: Hyperglycémie chronique dont le diagnostic est biologique (définitions *ADA 2023*):
-    - 2 glycémies à jeun ≥ 1,26 g/L (jeûne de 8 heures)
-    - ou HbA1c ≥ 6,5 % (48 mmol/mol, non reconnue en France)
+: Hyperglycémie chronique dont le diagnostic est biologique:
+    - 2 glycémies à jeun ≥ 1,26 g/L (jeûne nocturne de 10-12 heures, dans le mois)
     - ou HGPO-75g H2 ≥ 2 g/L
+    - ou HbA1c ≥ 6,5 % (48 mmol/mol, non reconnue et non remboursée en France)
     - Glycémie ≥ 2 g/L (11,1 mmol/L) et symptômes (polyurie, polydipsie, amaigrissement)
 : Au cours du diabète, l'atteinte coronaire est plus étendue, sévère et diffuse. 6 à 35% ont une **[ischémie myocardique sans angor]({{% relref "syndrome-coronarien-chronique.md" %}})** et 50% des [infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}) sont **silencieux** (*SFD 2021 CAD*). Le responsable majeur est le **LDL cholestérol**. Le risque d'[insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) est multiplié par 2 à 4.  
 Les femmes avec DT2 sont à risque élevé d'[AVC]({{% relref "accident-vasculaire-cerebral.md" %}}).
@@ -51,7 +54,7 @@ Les femmes avec DT2 sont à risque élevé d'[AVC]({{% relref "accident-vasculai
 Hyperglycémie modérée à jeun (HGMAJ)
 : Ou *prédiabète*, correspond au stade précurseur du diabète.
 : La définition *ADA 2021* du prédiabète est biologique: HbA~1c~ 5,7 - 6,4 % (*OMS* est 6 - 6,4) ou glycémie à jeun 1 - 1,25 g/L (*OMS* est 1,1 - 1,25) ou HGPO-75g H2 1,4 - 1,99 g/L. En cas de valeur limite haute, répéter le dépistage à 3-6 mois.
-: Le prédiabète doit faire contrôler chaque année la glycémie (tous les 1-3 ans si < 1,1 g/L).
+: Le prédiabète doit faire contrôler la glycémie tous les ans.
 : La perte d'un kg réduit de 43% le risque de DT2 (*ESC 2019 diabetes*).
 
 Rémission du diabète
@@ -61,9 +64,6 @@ Rémission du diabète
     - HbA~1c~ < 6,5% à au moins 6 mois du changement de mode de vie et au moins 3 mois de l'arrêt de tout traitement
 : Lorsque la {{< modal-btn modal-hba1c-faussee >}}mesure de l'HbA1c n'est pas fiable{{< /modal-btn >}}, recours à la glycémie à jeun < 1,26 g/L ou estimation par automesure (la glycémie moyenne doit être < 6,5% d'équivalent HbA1c).
 : Le *dépistage des complications* du diabète doit être poursuivi, avec la surveillance de l'HbA~1c~ tous les 3 à 12 mois.
-
-Jeûne
-: Restriction calorique pendant au moins 8 heures (*ESC Diabetes 2023*).
 
 ### Conversion des unités du diabète
 
@@ -111,8 +111,9 @@ SFD
 > [!WARNING]
 > Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} (rarement bas ou modéré) {{%class%}}(risque CV x2-4){{%/class%}}.
 
+- Suivi tous les 3-6 mois
 - HbA~1c~ cible: {{< modal-btn modal-hba1c >}}globalement **7%**{{< /modal-btn >}} (SFD, ESC 2023)
-- [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) (passif et électronique également) et alcool à moindre risque
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) (dont passif et électronique) et alcool (à moindre risque)
 - [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
   - Seuil diagnostique ≥ 140/90 mmHg (160 après 80 ans - *ESH 2023* et 130/80 selon *ADA 2023*)
   - Cible générale: 120-129 / 70-79 mmHg (*ESH 2023*)
@@ -122,22 +123,32 @@ SFD
 - Afin de déterminer le LDL cible (souvent < 0,7 g/L) par {{< modal-btn modal-statine-intensite >}}statine de haute intensité{{< /modal-btn >}}
 - Activité physique adaptée
   - Lutte contre la sédentarité: bouger 1-5 minutes par heure
-  - **Prescrire** une AP adaptée d'endurance et de renforcement musculaire pendant 3 mois, renouvelable, à raison de 2 à 3 séances par semaine
+  - **Prescrire** une activité physique adaptée d'endurance et de renforcement musculaire pendant 3 mois, renouvelable, à raison de 2 à 3 séances par semaine ([ONAPS](https://onaps.fr/boite-a-outils/sensibiliser/))
   - **Au moins 150 minutes** (2h30) d'activité physique modérée par semaine (75 si intense). Renforcement musculaire 3 j/sem.  
     Commencer par 10 min de marche/j ou autre objectif *SMART*. [Guide patient HAS APA](https://www.has-sante.fr/jcms/p_3391317/fr/l-activite-physique-pour-votre-sante-diabete-de-type-2)
   - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette 3 j/sem
   - Avec l'âge, favoriser la souplesse 2 à 3 jours par semaine (yoga, Thai-chi)
 - Surpoids  
-  Perte de poids (5-15 %), {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}} (sémaglutide) voire [chirurgie bariatrique]({{% relref "obesite-adulte.mdn" %}}).
+  Suivi poids et  trimestriel, perte de poids (5-15 %), {{< modal-btn modal-glp1 >}}aGLP-1{{< /modal-btn >}} (sémaglutide) voire [chirurgie bariatrique]({{% relref "obesite-adulte.mdn" %}}).
 - Alimentation équilibrée et {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}
 - Dépistages recommandés
-  - {{< modal-btn modal-saos-diabete >}}Apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85%){{%/class%}}
-  - [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}) {{%class%}}(50%){{%/class%}}
-  - Participation au dépistage organisé des [cancers](/tags/cancer/)
+  - Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+  - {{< modal-btn modal-saos-diabete >}}Apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85 %){{%/class%}}
+  - [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}) (50 %) ou de la femme (IFSF)
+  - Dépistage organisé des [cancers](/tags/cancer/)
+- Symptômes  
+  Hypoglycémies, polyuro-polydipsie, angor, claudication, dyspnée, AIT, troubles visuels ou sensitifs, digestifs.
+- Indications au suivi endocrinologique:
+  - Grossesse ou projet de grossesse
+  - HbA1c initiale > 9 %
+  - Diabète avec complication micro ou macrovasculaire
+  - Survenue avant 40 ans, avant 30 ans sur 3 générations
+  - IMC normal, AEG, amaigrissement, hyperglycémie inaugurale majeure, obésité grade 3
+  - Échec des premières lignes de traitement, insulinothérapie poly-injections, hypoglycémies, souhait du praticien
 - Si maladie rénale chronique: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} systématique  
   {{%class%}}et finérénone (non disponible en France){{%/class%}}
 - Soutien psychologique
-- Association de patients: [programme d'accueil de la Fédération Française des Diabétiques](https://www.federationdesdiabetiques.org/je-m-inscris-a-la-newsletter-kitb)
+- Association de patients: [programme d'accueil de la Fédération Française des Diabétiques](https://www.federationdesdiabetiques.org/je-m-inscris-a-la-newsletter-kitb), [Union sport et diabète](https://www.unionsportsetdiabete.com/) ...
 - Déclarer l'[ALD n°8]({{% relref "affection-longue-duree.md" %}}) et proposer le [service de suivi Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
 
 > [!INFO]
@@ -146,7 +157,7 @@ SFD
 {{% /collapse %}}
 {{%collapse "Escalade thérapeutique du diabète" %}}
 
-### Aide au choix du traitement antidiabétique d'après SFD 2023
+### Aide au choix du traitement antidiabétique d'après SFD 2023 et HAS 2024
 
 Les recommandations *HAS 2024* reprennent les mêmes éléments de décision thérapeutique.
 {.alert .alert-info}
@@ -183,7 +194,7 @@ Les recommandations *HAS 2024* reprennent les mêmes éléments de décision th�
 <p class="font-weight-bold choix-age">Évaluation gériatrique et éviter un régime restrictif</p>
 <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-metformine">Metformine</button>
 <button class="chip chip-action choix-mrc choix-ic choix-mcv" type="button" data-toggle="modal" data-target="#modal-isglt2">+ iSGLT2</button>
-<button class="chip chip-action choix-mcv" type="button" data-toggle="modal" data-target="#modal-glp1">ou GLP-1</button>
+<button class="chip chip-action choix-mcv" type="button" data-toggle="modal" data-target="#modal-glp1">ou aGLP-1</button>
 <p class="my-2 choix-ic">Suspendre la metformine en cas de décompensation</p>
 <p class="font-weight-bold my-2">La metformine doit être maintenue au long cours <span class="font-weight-normal choix-mrc">(suspendue sous 30 mL/min).</span></p>
 <!-- 2e intention -->
@@ -191,20 +202,20 @@ Les recommandations *HAS 2024* reprennent les mêmes éléments de décision th�
 <p class="mt-4 text-black-secondary">Possibilité de proposer d'emblée une bithérapie si déséquilibre initial important (HbA<sub>1c</sub> &gt; 10 % ou glycémies &gt; 3 g/L)</p>
 <div class="mb-2 choix-standard">
   <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
-  <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1">GLP-1</button>
+  <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1">aGLP-1</button>
   <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-idpp4">iDPP4</button>
   <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-su">SU</button>
 </div>
 <div class="mb-2 choix-obese">
-  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1">GLP-1</button>
+  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1">aGLP-1</button>
   <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
   <p class="text-primary typography-overline mt-3">Troisième ligne</p>
-  <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-glp1">GLP-1</button> + <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
+  <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-glp1">aGLP-1</button> + <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
   <p class="mt-2">Si insuffisants: avis endocrinologique et informer sur la chirurgie bariatrique.</p>
 </div>
 <div class="mb-2 choix-mrc choix-mcv choix-ic">
   <p class="text-primary typography-overline mt-3">Deuxième ligne</p>
-  <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button> + <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-glp1">GLP-1</button>
+  <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button> + <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-glp1">aGLP-1</button>
   <p class="mt-2">Suivi spécialisé</p>
 </div>
 <div class="mb-2 choix-age">
@@ -225,7 +236,7 @@ Les recommandations *HAS 2024* reprennent les mêmes éléments de décision th�
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div>
         <ul class="list-group list-group-flush">
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Ajouter ou substituer par un GLP-1</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Ajouter ou substituer par un aGLP-1</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-idpp4">Ajouter un iDPP4</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-insuline">Substituer par une insuline basale</li>
@@ -240,7 +251,7 @@ Les recommandations *HAS 2024* reprennent les mêmes éléments de décision th�
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div>
         <ul class="list-group list-group-flush">
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Substituer par un GLP-1</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Substituer par un aGLP-1</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-insuline">Substituer par une insuline basale</li>
@@ -250,7 +261,7 @@ Les recommandations *HAS 2024* reprennent les mêmes éléments de décision th�
   </div>
   <div class="card">
     <div class="card-header" id="headingFour" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" role="button">
-      <h4 class="card-title">Après GLP-1</h4>
+      <h4 class="card-title">Après aGLP-1</h4>
     </div>
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
       <div>
@@ -269,10 +280,10 @@ Les recommandations *HAS 2024* reprennent les mêmes éléments de décision th�
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
       <div>
          <ul class="list-group list-group-flush">
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Substituer par un GLP-1</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Substituer par un aGLP-1</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-idpp4">Ajouter un iDPP4</li>
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Réduire et ajouter par un GLP-1</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Réduire et ajouter par un aGLP-1</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-insuline">Substituer par une insuline basale</li>
         </ul>
       </div>
@@ -283,8 +294,8 @@ Les recommandations *HAS 2024* reprennent les mêmes éléments de décision th�
 <p class="text-primary typography-overline mt-3">4e intention</p>
 <ul>
   <li>Avis endocrinologique de préférence</li>
-  <li>Metformine + <a role="button" data-toggle="modal" href="#modal-glp1">GLP-1</a></li>
-  <li>Voire metformine + <a role="button" data-toggle="modal" href="#modal-glp1">GLP-1</a> + <a role="button" data-toggle="modal" href="#modal-isglt2">iSGLT2</a> (plutôt que <a role="button" data-toggle="modal" href="#modal-su">SU</a>)</li>
+  <li>Metformine + <a role="button" data-toggle="modal" href="#modal-glp1">aGLP-1</a></li>
+  <li>Voire metformine + <a role="button" data-toggle="modal" href="#modal-glp1">aGLP-1</a> + <a role="button" data-toggle="modal" href="#modal-isglt2">iSGLT2</a> (plutôt que <a role="button" data-toggle="modal" href="#modal-su">SU</a>)</li>
   <li>ou metformine + <a role="button" data-toggle="modal" href="#modal-insuline">insuline basale</a></li>
 </ul>
 </div>
@@ -317,48 +328,53 @@ window.addEventListener('load', () => {
 
 - HbA~1c~ (tous les 3-6 mois)
 - Bilan lipidique (LDL, HDL, CT, TG) à jeun
-- NFS, ferritinémie
-- ASAT, ALAT, GGT, {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}}
+- ASAT, ALAT, GGT, PAL, TP, plaquettes {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}}
 - Créatininémie et DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
-- Rapport albuminurie/créatininurie sur échantillon
+- Ratio albuminurie/créatininurie (RAC) sur échantillon
 - Si HTA: ionogramme sanguin
 - Si obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme ou bas socio-éco: (NT-pro)BNP
 {{%/info%}}
 
 Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contrôlé).
 
-### Les complications du diabète à dépister
+### Les complications et comorbidités du diabète à dépister
 
-{{< table title="Rythme de dépistage des complications du diabète. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap">}}
+{{< table title="Rythme de dépistage des complications et comorbidités du diabète. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap">}}
 | Appareil     | Soins                                                                                            | Source                   |
 |--------------|--------------------------------------------------------------------------------------------------|--------------------------|
 | [AAA]({{% relref "anevrysme-aorte-abdominale.md" %}}) | Échographie si homme 65-75 ans et tabac ou ATCD familial AAA 1^er^ degré, AOMI | ACC/AHA 2022 |
 | AINS         | Éviter toute prise                                                                               | Communiqué ESC 2022      |
+| [Apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) | {{< modal-btn modal-saos-diabete >}}Dépistage annuel{{< /modal-btn >}} | HAS 2025 |
 | AOD (rivaroxaban) | Aspirine + AOD à considérer si coronaropathie stable ou AOMI/artériopathie et risque hémorragique faible | ADA 2023    |
-| [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) | Symptômes + pouls + cutané et/ou IPS réguliers. IPS si ulcération | ESC 2023 diabetes |
+| [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) | Symptômes + pouls + cutané et IPS annuels. IPS si ulcération | HAS 2025 |
 | Aspirine prev primaire | 75-100 mg/j pourrait être considéré (sauf CI)<br>75-160 mg/j envisageable si {{< modal-btn modal-rcv-diabete >}}(très) haut risque CV{{< /modal-btn >}} ou {{< modal-btn modal-coronaire-diabete >}}coronaire{{< /modal-btn >}} sans risque de saignement | ESC 2023<br>ADA 2023, ESC 2021 |
 | Aspirine prev secondaire | 75-100 mg/j si coronarien ou revascularisation<br>75-160 mg/j ± associé selon la pathologie, prolonger bi-antiagrégants si bien toléré (max 3 ans) | ESC 2023 diabetes<br>ADA 2023, ESC 2019 diabetes |
+| [Automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}}) | Trimestrielle, au mieux mensuelle si HTA | HAS 2025, ESC 2024 HTA |
 | [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}) | Femmes à haut risque: éducation, correction des FRCV  | ESC 2023 diabetes        |
 | Boulimie et TCA | {{< modal-btn modal-scoff >}}Questionnaire SCOFF{{< /modal-btn >}} pour le dépistage          | HAS 2019                 |
 | [Cancer du pancréas]({{% relref "cancer-pancreas.md" %}}) | Scanner AP injecté si:<br>- Diabète < 12 mois: ≥ 50 ans sans ATCD familial ni surpoids OU amaigrissement > 10%<br>- Pancréatite chronique + apparition ou décompensation de diabète | INCa 2019 |
-| Cardiologue  | Suivi annuel                                                                                     | HAS 2014                 |
+| Cardiologue  | Si ECG anormal, symptômes, risque cardiovasculaire élevé/très élevé: suivi annuel                | HAS 2025                 |
 | Chirurgie bariatrique | < 65 ans avec IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, apnées du sommeil ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH OU IMC ≥ 30 en dernier recours | HAS 2022 et 2009 obésité |
 | [Covid-19]({{% relref "covid-19.md" %}}) | Antiviral en urgence si infection Covid-19                           | HAS 2023                 |
-| Dentaire     | Suivi annuel                                                                                     | HAS 2014, IDF 2009       |
+| Dentaire     | Suivi annuel                                                                                     | HAS 2025                 |
 | [Douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}}) | Chapitre dédié                           | SFETD 2021               |
+| Dysautonomie | Dépistage annuel: hypotension orthostatique, tachycardie de repos, xérose cutanée, digestion. Aggravation par tricycliques | HAS 2025 |
 | [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}) | Interrogatoire systématique. Si présente: dépistage annuel hypotension orthostatique, dysfonction vésicale | AIUS 2018 |
-| ECG          | Annuel (VPN très faible)                                                                         | SFD 2021 CAD             |
+| ECG          | Annuel (VPN très faible)                                                                         | HAS 2025                 |
 | [Épreuve d'effort]({{% relref "epreuve-effort.md" %}}) | [Angor]({{% relref "syndrome-coronarien-chronique.md" %}}), dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans). Reprise effort intense | HAS 2024, ESC 2023, ADA 2023, SFD 2021 CAD |
 | Fibrate      | Envisager si {{< modal-btn modal-coronaire-diabete >}}(très) haut risque coronaire{{< /modal-btn >}} avec LDL cible mais TG > 2 g/L et HDL bas | SFD 2021 CAD |
 | [Fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}) | Tout âge: dépistage opportuniste par pouls/ECG. +75 ans: ECG systématique à considérer | ESC 2023 diabetes |
-| [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) | Dépistage avec brassard adapté tous les 1 à 3 ans | ESH 2023      |
+| Gynécologie  | Suivi annuel                                                                                     | HAS 2025                 |
+| [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) | Dépistage avec brassard adapté tous les 1 à 3 ans | ESH 2024      |
 | [Incontinence urinaire]({{% relref "incontinence-urinaire-femme.md" %}}) | Dépistage à l'interrogatoire         | ANAES 2003               |
 | [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) | Dépistage systématique des symptômes et signes et (NT-pro)BNP si suspicion<br>(NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ESC 2023 diabetes<br>ADA 2022 |
 | [Stéatopathie métabolique]({{% relref "steatose-hepatique-et-nash.md" %}}) | Dépistage par échographie abdominale | AFEF 2020              |
-| [Stéatohépatite]({{% relref "steatose-hepatique-et-nash.md" %}}) (NASH) | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}} tous les 2 ans | AFEF 2020 |
-| [Néphropathie]({{% relref "insuffisance-renale-chronique.md" %}}) | Créatininémie et rapport albuminurie/créatininurie annuels | HAS 2024, ADA 2023 |
-| Neuropathie  | Dépistage annuel: {{< modal-btn modal-monofilament >}}monofilament{{< /modal-btn >}} et {{< modal-btn modal-grade-podologique >}}grade podologique{{< /modal-btn >}}, pic-touche, diapason, [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}), sécheresse cutanée | HAS 2024, ADA 2023 et ESC 2019 diabetes |
-| Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux | HAS 2024, ADA 2023, SFD 2016 |
+| [Stéatohépatite]({{% relref "steatose-hepatique-et-nash.md" %}}) (NASH) | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}} annuel | HAS 2025 |
+| [Néphropathie]({{% relref "insuffisance-renale-chronique.md" %}}) | Créatininémie et ratio albuminurie/créatininurie (RAC) annuels | HAS 2025 |
+| Neuropathie  | Dépistage annuel: ROT, diapason, podologue: {{< modal-btn modal-monofilament >}}monofilament{{< /modal-btn >}} et {{< modal-btn modal-grade-podologique >}}grade podologique{{< /modal-btn >}}, pic-touche, diapason, [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}), sécheresse cutanée | HAS 2025, ADA 2023 et ESC 2019 diabetes |
+| Permis de conduire | Voir [permis de conduire]({{% relref "pathologies-permis-conduire.md" %}})                 | HAS 2025                 |
+| Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux. Grossesse: avant, trimestrielle puis post-partum. Post-cataracte: intensifiée durant 12 mois | HAS 2025 |
+| {{< modal-btn modal-rcv-diabete >}}Risque cardiovasculaire{{< /modal-btn >}} | {{< scores/score2-diabetes >}} annuel en prévention primaire chez le 40-69 ans | HAS 2025 |
 | Score calcique | Pas d'argument pour l'utiliser pour la classification du RCV<br>{{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} ± test d'effort | ESC 2023 diabetes<br>SFD 2021 CAD |
 | [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) | Envisager le dépistage chez la femme          | ESHRE 2023               |
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |
@@ -377,11 +393,16 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 - Lecteur de glycémie  
   - 1 lecteur remboursé tous les 4 ans
   - **Indications à l'autosurveillance glycémique:** insuline envisagée ou en cours, insulinosécréteur avec suspicion d'hypoglycémie, visée pédagogique en cible non atteinte, déséquilibre aigu (infection, corticoïdes, suspension du traitement), (désir de) grossesse
+  - Sous insuline: 2 à 4 contrôles quotidiens (insuline basale seule), 4 à 6 dans les autres cas. Globalement cible avant le repas 0,7 - 1,2 g/L, post-prandiale (H2) < 1,8 g/L
+  - Insuline envisagée: 2-4/j
+  - Insulinosécréteur: 2/semaine à 2/j
 - Capteur de glycémie
   - Indications: insulinothérapie intensifiée ou non contrôlée
   - [Freestyle Libre 2](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043507006)) (26 capteurs/an remboursés) ou Libre 2 plus (24/an), [Dexcom One](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047911730) ou One + (36/an)
 - Stylo à insuline connecté (Novopen 6, Novopen Echo Plus)  
   1 stylo par an.
+- Lecteur de cétonémie
+  - Indication: multi-injections d'insuline avec iSGLT2 (10 électrodes/an -- HAS 2025, [Arrêté du 26 mars 2021](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043294838))
 
 > -- *[Ameli 2025](https://www.ameli.fr/medecin/exercice-liberal/memos/troubles-endocriniens/diabete/prise-en-charge-et-suivi-du-patient/suivi/auto-surveillance-glycemique-du-patient-diabetique-systeme-freestyle-libre)*
 
@@ -392,10 +413,11 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 
 {{< card-link-external title="Ameli Data Pathologies. Dépenses des soins liés au diabète" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Diab%C3%A8te">}}
 
-{{< youtube id="jeOxsF9n__0" title="Webinaire Diabète de type 2 de l'adulte : quelles stratégies thérapeutiques ? (HAS)" >}}
+{{< youtube id="jeOxsF9n__0" title="Webinaire Diabète de type 2 de l'adulte : quelles stratégies thérapeutiques ? (HAS)" >}}
 
 {{< video poster="https://www.sfdiabete.org/files/files/Vidéo/2024/20240124_sfd_dt2_2024.png" mp4="https://www.sfdiabete.org/files/files/Vidéo/2024/20240124_sfd_dt2_2024.mp4" description="Prise de position de la SFD sur le traitement du DT2 : quoi de neuf en 2024 ? (Fréquence Médicale)" >}}
 
+- [HAS. Parcours de soins du patient adulte vivant avec un diabète de type 2. 2025.](https://www.has-sante.fr/jcms/p_3634754/fr/parcours-de-soins-du-patient-adulte-vivant-avec-un-diabete-de-type-2)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Stratégie thérapeutique du patient vivant avec un diabète de type 2. 2024.](https://www.has-sante.fr/jcms/p_3191108/fr/strategie-therapeutique-du-diabete-du-type-2-fiche-memo-et-parcours-de-soins-integres-note-de-cadrage)
 - [HAS, ANRS. Traitement de la Covid-19. 22/12/2023.](https://www.has-sante.fr/jcms/p_3447571/fr/traitement-de-la-covid-19)
@@ -434,7 +456,6 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 
 ### Bibliographie en attente
 
-- [HAS. Parcours de soins du patient adulte vivant avec un diabète de type 2. 2025.](https://www.has-sante.fr/jcms/p_3634754/fr/parcours-de-soins-du-patient-adulte-vivant-avec-un-diabete-de-type-2)
 - [Sultan A, et al. Référentiel pied diabétique SFD 2024. Med Mal Metab. 2024. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel_sfd_2024.pdf)
 - [The Diabetes and Nutrition Study Group (DNSG) of the European Association for the Study of Diabetes (EASD). Evidence-based European recommendations for the dietary management of diabetes. Diabetologia 66. 2023.](https://link.springer.com/article/10.1007/s00125-023-05894-8)
 - [Thivolet C, et al. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab. 2021. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete.pdf)
@@ -545,5 +566,10 @@ Mots-clé: diabte
 {{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
 
 {{< scores/ckd-epi >}}
+
+{{% /modal %}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
+
+{{< scores/phq4 >}}
 
 {{% /modal %}}

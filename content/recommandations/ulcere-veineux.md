@@ -28,7 +28,7 @@ flowchart = true
 - L'examen clinique est rigoureux pour identifier l'étiologie et rechercher une part artérielle ou autre (insuffisance d'organe, maladie inflammatoire ...), une surinfection, une dénutrition et comprend des photos pour suivre son évolution
 - Le bilan de l'ulcère veineux comporte toujours: NFS, glycémie, bilan lipidique, créatinine, ± albumine, ± NTpro-BNP, échodoppler veineux et le plus souvent la mesure de l'index de pression systolique au gros orteil (IPSGO)
 - La prise en charge et le traitement de l'ulcère veineux sont longs: compression veineuse (30 à 40 mmHg) 24h/24, {{< modal-btn modal-pansements >}}pansement adapté{{< /modal-btn >}}, suivi toutes les 2 à 4 semaines, antalgie, correction des facteurs de risque (sédentarité, surpoids, diabète), vaccination dTP, éducation thérapeutique
-- En cas d'échec à 6 mois: mesure de l'IPSGO si non fait, adresser pour biopsie cutanée et évaluation spécialisée
+- En cas d'échec à 6 mois: mesure de l'IPSGO si non fait, adresser pour biopsie cutanée et évaluation spécialisée ([annuaire des centres de cicatrisation](https://www.google.fr/maps/d/viewer?mid=1FmUFLwFbjajLfDN5qxxbhc1Qb7Qs2Ap_&ll=46.501349684503%2C4.2535053308609605&z=6))
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -232,7 +232,7 @@ Critères diagnostique de surinfection: > 10^5^ germes/mL (ou gramme de tissu) a
 
 La cicatrisation de l'ulcère variqueux est longue (3 à 6 mois) et les récidives sont fréquentes.
 
-Prise en charge de l'ulcère veineux et prévention des récidives:
+Recommandations pour la prise en charge de l'ulcère veineux et la prévention des récidives:
 
 - Soins de l'ulcère:
   - **Compression veineuse** (30-40 mmHg soit classe 3-4) en permanence  
@@ -252,6 +252,7 @@ Prise en charge de l'ulcère veineux et prévention des récidives:
 - Éducation thérapeutique  
   Observance de la compression, traumatismes, plaies, hygiène, exercice, mobilité de la cheville, éviter jambes pendantes ou croisées, piétinement
 - Déclarer une [ALD 31]({{% relref "affection-longue-duree.md" %}}) en cas d'ulcère récidivant ou chronique avec retentissement sévère
+- [Annuaire des centres de cicatrisation](https://www.google.fr/maps/d/viewer?mid=1FmUFLwFbjajLfDN5qxxbhc1Qb7Qs2Ap_&ll=46.501349684503%2C4.2535053308609605&z=6)
 
 > [!WARNING]
 > Principaux allergènes pouvant développer un eczéma de contact péri-ulcéreux: baume du Pérou, antiseptiques, fragrances, lanoline, conservateurs, certains pansements.
