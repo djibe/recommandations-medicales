@@ -24,7 +24,7 @@ todo = "HAS EMLA, Vaccins cancer, texte SEO, choc anaphylactique, Rattrapage vac
 {{%article-summary%}}
 
 - Rappel vaccinal de [la coqueluche]({{% relref "coqueluche.md" %}}) à chaque grossesse (entre 20 et 36 SA), stratégie de cocooning sinon, anti-VRS dose unique de 32 à 36 SA (suspendu depuis fin janvier)
-- Les pharmaciens formés peuvent prescrire et administrer à partir de 11 ans tous les vaccins du calendrier vaccinal, y compris le ROR (sauf immunodépression)
+- Les pharmaciens et infirmiers formés peuvent prescrire et administrer à partir de 11 ans tous les vaccins du calendrier vaccinal, y compris le ROR (sauf immunodépression)
 - Vaccination des +16 ans par les infirmiers sans ordonnance pour: [grippe]({{% relref "grippe.md" %}}), dTcaPolio, [papillomavirus]({{% relref "cancer-col-uterus.md" %}}), pneumocoque, [hépatite A]({{% relref "hepatite-a.md" %}}) et [B]({{% relref "hepatite-b.md" %}}), méningocoques B et ACWY et la rage
 - Poser une question pour un cas vaccinal particulier: [Infovac App](https://app.infovac.fr) (nécessite de créer un compte)
 - [Commander des carnets de vaccination](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/brochure/carnet-de-vaccination.-adolescents-et-adultes)
@@ -230,7 +230,7 @@ Contre-indications temporaires à la vaccination fièvre jaune:
 
 Disposer du matériel nécessaire à un choc anaphylactique.
 
-Depuis le 7 novembre 2022, les infirmiers et pharmaciens peuvent administrer sans ordonnance à partir de 16 ans: grippe, dTcaPolio, HPV, pneumocoque, hépatite A et B, méningocoque B et ACWY et la rage.
+Depuis 2022, les infirmiers et pharmaciens formés peuvent administrer sans ordonnance les vaccins du Calendrier vaccinal.
 {.alert .alert-info}
 
 ### Sites d'injection

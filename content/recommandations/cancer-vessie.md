@@ -167,4 +167,9 @@ La cystectomie totale comprend chez l'homme une cystoprostatectomie et chez la f
 - [HAS. Cancer de la vessie. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_969326/fr/ald-n-30-cancer-de-la-vessie)
 - [HAS, INCa. Cancer de la vessie. Guide Affection longue durée. 2010.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-uronephrologiques)
 
+### Bibliographie en attente
+
+- [Roumiguié M, et al. Recommandations françaises du Comité de cancérologie de l'AFU - actualisation 2024-2026 : tumeurs de la vessie n'infiltrant pas le muscle (TVNIM). Progrès en Urologie - FMC. 2024.](https://www.urofrance.org/recommandation/recommandations-du-comite-de-cancerologie-de-lassociation-francaise-durologie-actualisation-2022-2024-tumeurs-de-la-vessie-infiltrant-le-muscle-tvim-2/)
+- [Roumiguié M, et al. Recommandations françaises du Comité de cancérologie de l'AFU - Actualisation 2024-2026 : tumeurs de la vessie infiltrant le muscle (TVIM). Progrès en Urologie - FMC. 2024.](https://www.urofrance.org/recommandation/recommandations-du-comite-de-cancerologie-de-lassociation-francaise-durologie-actualisation-2022-2024-tumeurs-de-la-vessie-infiltrant-le-muscle-tvim/?date=&themes=&search=)
+
 {{%/sources%}}

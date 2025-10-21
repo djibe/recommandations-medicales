@@ -105,6 +105,8 @@ Les corticoïdes oraux (prednisolone 10 mg) à faible dose peuvent être envisag
 {{% /collapse %}}
 {{%sources%}}
 
+{{< card-link-external title="Recommandations SFR-SOFMER sur l'arthrose des mains" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/198969481" >}}
+
 - [SFR, SOFMER. Traitements de l'arthrose des mains. 2024.](https://rhumatos.fr/traitements-de-larthrose-des-mains-les-recommandations-de-la-sfr/#:~:text=Les%20anti%2Dinflammatoires%20non%20st%C3%A9ro%C3%AFdiens%20(AINS)%20topiques%20sont%20recommand%C3%A9s,%C3%A0%208%20semaines%20(10))
 - [NICE. Osteoarthritis in over 16s: diagnosis and management. NICE guideline. 2022.](https://www.nice.org.uk/guidance/ng226)
 - [Richette P, Latourte A. L'arthrose digitale [Hand Osteoarthritis]. Rev Prat. 2021.](https://www.larevuedupraticien.fr/article/larthrose-digitale) (payant)

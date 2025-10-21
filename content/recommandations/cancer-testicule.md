@@ -184,4 +184,8 @@ graph TB
 - [HAS, INCa. Cancers du testicule Tumeurs germinales. Guide Affection de longue durée. 2011. (PDF)](https://www.e-cancer.fr/content/download/95925/1021244/file/GUIALDTEST11.pdf)
 - [HAS, INCa. Cancer du testicule Tumeurs germinales. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_1061933/fr/ald-n-30-cancer-du-testicule)
 
+### Bibliographie en attente
+
+[Murez T, et al. Recommandations françaises du comité de cancérologie de l'AFU - Actualisation 2024-2026 : tumeurs germinales du testicule. Progrès en Urologie - FMC. 2024.](https://www.urofrance.org/recommandation/recommandations-du-comite-de-cancerologie-de-lassociation-francaise-durologie-actualisation-2022-2024-tumeurs-germinales-du-testicule/?date=&themes=&search=)
+
 {{%/sources%}}

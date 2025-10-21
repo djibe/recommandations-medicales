@@ -7,12 +7,12 @@ description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-10-08T21:30:57+02:00"
-publishdate = "2025-10-08"
-lastmod = "2025-10-08"
+publishdate = "2025-10-19"
+lastmod = "2025-10-19"
 specialites = ["endocrinologie"]
 annees = "2025"
 sources = ["ES"]
-tags = []
+tags = ["HTA", "risque cardiovasculaire"]
 english = ["Primary aldosteronism (PA)"]
 sctid = "190507007"
 icd10 = []
@@ -31,10 +31,13 @@ TODO: (at the end)
 {{%collapse "Définition" %}}
 
 Hyperaldostéronisme primaire
-: Dysfonctionnement surrénalien primaire uni ou bilatéral à l'origine d'une production excessive d'aldostérone, cause fréquente d'hypertension artérielle, de maladies cardiovasculaires précoces (AVC, coronaropathie, fibrillation atriale, insuffisance cardiaque), de maladie rénale (protéinurie) et de troubles psychologiques.
+: Dysfonctionnement surrénalien primaire uni ou bilatéral à l'origine d'une production excessive d'aldostérone, cause fréquente d'hypertension artérielle (5-14 %), de maladies cardiovasculaires précoces (AVC, coronaropathie, fibrillation atriale, insuffisance cardiaque), de maladie rénale (protéinurie) et de troubles psychologiques.
 : La surproduction d'aldostérone entraîne une rétention sodée avec hypervolémie, hypertension artérielle (HTA) et dans les formes sévères, une hypokaliémie.
 
 ### Abréviations
+
+ARM
+: antagoniste des récepteurs aux minéralocorticoïdes (diurétiques anti-aldostérone et apparentés)
 
 ES
 : {{%lang%}}Endocrine Society{{%/lang%}}
@@ -48,7 +51,7 @@ HTA
 
 > << Nous suggérons de dépister l'hyperaldostéronisme primaire chez tous les hypertendus par le dosage rénine - aldostérone et le ratio aldostérone / rénine >>, tout comme l'*ESC 2024*. -- **ES 2025**
 
-L'hyperaldostéronisme primaire est largement sous-diagnostiqué et sous-traité.
+L'hyperaldostéronisme primaire est largement sous-diagnostiqué et sous-traité (5 à 14 % des hypertendus en soins primaires, 42 % en cas de fibrillation atriale et 28 % en cas d'hypokaliémie).
 
 ### Interrogatoire
 
@@ -131,14 +134,25 @@ Considérer une consultation de génétique lorsque le patient remplit les crit�
 {{% /collapse %}}
 {{%collapse "Traitement de l'hyperaldostéronisme primaire" %}}
 
+L'objectif principal du traitement est de contrôler la pression artérielle. L'objectif secondaire est de normaliser la kaliémie.
+
 Traitement le plus fréquent en l'absence d'indication chirurgicale, **titration** d'un antagoniste des récepteurs aux minéralocorticoïdes:
 
-- **Spironolactone**  
-  Voire éplérénone si contre-indication.
-- Arrêter la supplémentation en potassium sous 2 à 4 jours
-- Régime pauvre en sel
+- **Spironolactone** 12,5 à 25 mg x 1/j
+  - Double dose si HTA sévère ou hypokaliémie profonde
+  - Voire éplérénone 25 x 1-2/j si contre-indication
+  - Titration par paliers de 25-50 mg tous les 2-3 mois, guidée par le bilan biologique
+  - Cible souvent 50-100 mg/j
+- Arrêter la supplémentation en potassium sous 2 à 4 jours, sous contrôle biologique
+- **Régime pauvre en sel** (< 5 g/j)
 - Pression artérielle
 - Avec surveillance **biologique** à 2-3 mois (ou avant si besoin): kaliémie, créatinine, rénine
+
+Essayer de réduire les autres anti-hypertenseurs. Mais lorsque la rénine est normalisée, introduire une autre classe d'anti-hypertenseur.
+
+La réduction du DFG est attendue et est un signe d'efficacité du traitement. Avis néphrologique en cas de réduction persistante.
+
+La gynécomastie apparaît surtout après 6 mois de traitement. Chez les hommes jeunes, réduire la spironolactone ≤ 50 mg/j. Si échec: éplérénone. Ces mesures permettent le plus souvent une disparition de la gynécomastie.
 
 ### Indications à la chirurgie pour hyperaldostéronisme primaire
 
@@ -149,14 +163,21 @@ Traitement le plus fréquent en l'absence d'indication chirurgicale, **titration
 
 {{< mermaid title="Dépistage de l'hyperaldostéronisme primaire chez le patient hypertendu. Dr JB Fron d'après ES 2025">}}
 graph TB
-  HTA[Hypertension artérielle] --> clinique(Clinique) --> biologie("<b>Biologie</b><br>—<br>En parallèle du<br>bilan d'HTA<br>- Rénine<br>- Aldostérone<br>- Rapport aldo/rénine<br>- Kaliémie") --> critères("<b>Critères</b><br>—<br>")
+  HTA[Hypertension artérielle] --> clinique(Clinique) --> biologie("<b>Biologie</b><br>—<br>En parallèle du<br>bilan d'HTA:<br>- Rénine<br>- Aldostérone<br>- Rapport aldostérone/rénine<br>- Kaliémie") --> critères("<b>Critères</b><br>—<br>")
   critères -- Positif --> positif("<b>Faux positif ?</b><br>—<br>Bêtabloquant,<br>antihypertenseur central") -- Oui --> retrait("Retrait du ttt<br>2 semaines") --> biologie
-    positif -- Non --> diagnostic("<b>Hyperaldostéronisme<br>primaire</b>")
-  critères -- Négatifs --> négatif("<b>Faux négatif ?</b><br>—<br>- Hypokaliémie<br>- spironolactone, éplérone,<br>diurétique<br>- Faible: IEC/ARA2") -- Non --> classique("HP peu probable:<br>ttt anti-HTA classique")
+    positif -- Non --> diagnostic("<b>Hyperaldostéronisme<br>primaire</b>") --> traitement("Traitement:<br>voir Figure suivante")
+  critères -- Négatifs --> négatif("<b>Faux négatif ?</b><br>—<br>- Hypokaliémie<br>- Médicament: spironolactone,<br>éplérénone, diurétique<br>- Autres: IEC/ARA2") -- Non --> classique("HP peu probable:<br>traitement<br>antihypertenseur<br>classique")
+    négatif -- Oui --> négatif2("- Corriger hypoK<br>- Arrêt ARM, éplérénone,<br>diurétiques<br>4 semaines<br>- Envisager si<br>autre ttt 2 semaines") --> biologie
 style HTA stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-> **HP =** hyperaldostéronisme primaire; **HTA =** hypertension artérielle
+> **ARM =** antagoniste des récepteurs aux minéralocorticoïdes;**HP =** hyperaldostéronisme primaire; **HTA =** hypertension artérielle
+
+{{< mermaid title="Prise en charge de l'hyperaldostéronisme primaire par le médecin généraliste. Dr JB Fron d'après ES 2025">}}
+graph TB
+  HP["Diagnostic d'<br>hyperaldostéronisme primaire"] --> traitement("- ARM: titration spironolactone")
+  style HP stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
