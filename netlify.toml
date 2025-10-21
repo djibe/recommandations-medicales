@@ -15,12 +15,12 @@ HUGO_ENABLEGITINFO = "false"
 [[headers]]
   for = "/*"
   [headers.values]
-    Cache-Control = "public, max-age=3600" # 1h for analytics
+    Cache-Control = "public, max-age=1800" # 30min for analytics
 
 [[headers]]
   for = "*.html"
   [headers.values]
-    Cache-Control = "public, max-age=3600" # 1h for analytics
+    Cache-Control = "public, max-age=1800" # 30min for analytics
 
 [[headers]]
   for = "/clear/"
@@ -41,7 +41,7 @@ HUGO_ENABLEGITINFO = "false"
 [[headers]]
   for = "*.js*"
   [headers.values]
-    Cache-Control = "public, max-age=1209600" # 2w
+    Cache-Control = "public, max-age=1209600" # 2w TODO:
 
 [[headers]]
   for = "favicon.ico"
