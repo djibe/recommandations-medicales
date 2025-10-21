@@ -85,18 +85,8 @@ HUGO_ENABLEGITINFO = "false"
   force = true
 
 [[redirects]]
-  from = "https://recomedicales.fr/recommandations/violences-conjugales/"
-  to = "https://recomedicales.fr/recommandations/violences-femmes/"
-  status = 301
-
-[[redirects]]
-  from = "https://recomedicales.fr/recommandations/remboursement-psychologue-monparcourspsy/"
-  to = "https://recomedicales.fr/recommandations/remboursement-psychologue-monsoutienpsy/"
-  status = 301
-
-[[redirects]]
-  from = "https://recomedicales.fr/recommandations/monkeypox/"
-  to = "https://recomedicales.fr/recommandations/mpox/"
+  from = "https://recomedicales.fr/scores"
+  to = "https://recomedicales.fr/scores/"
   status = 301
 
 [[redirects]]
