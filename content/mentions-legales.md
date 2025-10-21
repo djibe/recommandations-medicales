@@ -13,6 +13,8 @@ lastmod = "2024-05-31"
 
 <img class="d-block mw-280 mb-5" style="margin-inline: auto" src="/images/icons/contract.svg" alt="Mentions légales" aria-hidden="true">
 
+> L'ensemble du contenu du site ne peut pas être utilisé dans les outils d'intelligence artificielle sans consentement de l'Association RecoMédicales.
+
 Les présentes conditions générales d'utilisation (dites << CGU >>) ont pour objet l'encadrement juridique des modalités de mise à disposition du site recomedicales.fr, et la définition des conditions d'accès et d'utilisation des services par << l'Utilisateur >>.
 
 Les présentes CGU sont accessibles sur le site à la rubrique << Mentions légales >>.

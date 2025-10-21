@@ -4,9 +4,9 @@ Dernières recommandations médicales pour la pratique en consultation du médec
 
 > RecoMédicales is Open Source Medical information and guidelines for the general practitioner
 
-**Projet Open Source, gratuit et indépendant visant à partager l'État de l'Art de la pratique en médecine de premier recours.** Il ne peut pas être utilisé dans les outils d'intelligence artificielle sans consentement de l'Association.
+**Projet Open Source, gratuit et indépendant visant à partager l'État de l'Art de la pratique en médecine de premier recours.** Il ne peut pas être utilisé dans les outils d'intelligence artificielle sans consentement de l'Association RecoMédicales.
 
-🙏 <a href="https://lydia-app.com/pots?id=89969-recomedicales" target="_blank" rel="external nofollow noopener">Faire un don via Lydia</a> (Visa/Lydia) ou <a href="https://ko-fi.com/djibe" target="_blank" rel="external nofollow noopener">Ko-Fi</a>.
+🙏 [Faire un don via Lydia](https://lydia-app.com/pots?id=89969-recomedicales) (Visa/Lydia) ou [Ko-Fi](https://ko-fi.com/djibe).
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"></a><br>Cette œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale 4.0 International</a>
 
