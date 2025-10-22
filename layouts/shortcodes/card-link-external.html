@@ -4,10 +4,12 @@
 {{ if (.Get "image") }}
   {{ if eq (.Get "image") "ministere" }}
     {{ $image = "ministere.webp" }}
-  {{ else if eq (.Get "image") "pasteur"}}
+  {{ else if eq (.Get "image") "pasteur" }}
     {{ $image = "pasteur.webp" }}
-    {{ else if eq (.Get "image") "ameli"}}
+  {{ else if eq (.Get "image") "ameli" }}
     {{ $image = "ameli.webp" }}
+  {{ else if eq (.Get "image") "podcast" }}
+    {{ $image = "podcast.svg" }}
   {{ else }}
     {{ $image = .Get "image" }}
     {{ $external = true }}

@@ -381,7 +381,7 @@ graph TB
 
 {{< vimeo 314795586 >}}
 
-{{< card-link-external title="Vrai et faux Lyme en 2022, comment faire ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/episode/https%3A%2F%2Ftrack.podcastics.com%2F3584%2F138491.mp3&podcastId=3741301" >}}
+{{< card-link-external title="Vrai et faux Lyme en 2022, comment faire ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/episode/https%3A%2F%2Ftrack.podcastics.com%2F3584%2F138491.mp3&podcastId=3741301" image="podcast" >}}
 
 - {{< references/voyageur >}}
 - [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques (MVT). 2025.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques-mvt)

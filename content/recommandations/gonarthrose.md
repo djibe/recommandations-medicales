@@ -298,9 +298,9 @@ graph TB
 
 {{< card-link-external title="Sémiologie du genou en vidéo" url="https://www.lecofer.org/semiologie.php" subtitle="COFER" >}}
 
-{{< card-link-external title="Orthèses dans la gonarthrose : Pour qui ? Quand ? Comment ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/164334604" >}}
+{{< card-link-external title="Orthèses dans la gonarthrose : Pour qui ? Quand ? Comment ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/164334604" image="podcast" >}}
 
-{{< card-link-external title="Quand adresser un patient gonarthrosique au chirurgien ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/174175700" >}}
+{{< card-link-external title="Quand adresser un patient gonarthrosique au chirurgien ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/174175700" image="podcast" >}}
 
 - [Whittle SL, et al. Stem cell injections for osteoarthritis of the knee. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013342.pub2/full/fr)
 - Prescrire Redaction. Douleurs liées à une arthrose du genou ou de la hanche. Premiers Choix Prescrire. Rev Prescrire. 2024.

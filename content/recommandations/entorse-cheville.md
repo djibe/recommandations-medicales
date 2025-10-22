@@ -287,7 +287,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link-external title="Entorses de cheville : les recommandations de la HAS" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/187012536" >}}
+{{< card-link-external title="Entorses de cheville : les recommandations de la HAS" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/187012536" image="podcast" >}}
 
 - [HAS. Entorse du ligament collatéral latéral (ligament latéral externe) de cheville : diagnostic, rééducation et reprise de l’activité physique et de la pratique sportive. 2025.](https://www.has-sante.fr/jcms/p_3460983/fr/entorse-du-ligament-collateral-lateral-ligament-lateral-externe-de-cheville-diagnostic-reeducation-et-reprise-de-l-activite-physique-et-de-la-pratique-sportive)
 - Prescrire Redaction. Entorse de cheville chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2023.

@@ -392,7 +392,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link-external title="La persistance des rachialgies dans la spondyloarthrite" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/202846658" >}}
+{{< card-link-external title="La persistance des rachialgies dans la spondyloarthrite" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/202846658" image="podcast" >}}
 
 - [Wendling D, et al. Actualisation 2022 des recommandations de la Société française de rhumatologie (SFR) pour la prise en charge en pratique courante des malades atteints de spondyloarthrite, incluant le rhumatisme psoriasique. Revue du Rhumatisme. 2022.](https://www.sciencedirect.com/science/article/pii/S1169833022000023)
 - [Wendling D, et al. Actualisation 2018 des recommandations de la Société française de rhumatologie (SFR) pour la prise en charge en pratique courante des malades atteints de spondyloarthrite. Revue du Rhumatisme. 2018.](https://www.sciencedirect.com/science/article/abs/pii/S116983301830005X)

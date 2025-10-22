@@ -270,7 +270,7 @@ graph TB
 
 {{< youtube id="YpejbojhWrY" title="La minute RECO HAS | Lombalgie commune (Dr Florent Bailly)" >}}
 
-{{< card-link-external title="Réentrainement à l'effort dans les lombalgies : Quand ? Pour qui ? Comment ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/episode/https%3A%2F%2Ftrack.podcastics.com%2F3584%2F207615.mp3&podcastId=3741301" >}}
+{{< card-link-external title="Réentrainement à l'effort dans les lombalgies : Quand ? Pour qui ? Comment ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/episode/https%3A%2F%2Ftrack.podcastics.com%2F3584%2F207615.mp3&podcastId=3741301" image="podcast" >}}
 
 - [Foltz V, et al. Prise en charge thérapeutique de la lombalgie chronique : focus sur les antalgiques et l'activité physique Therapeutic management of chronic low back pain: Focus on analgesics and physical activity. Revue du Rhumatisme. 2025.](https://www.sciencedirect.com/science/article/pii/S1169833024001637)
 - [Han CS, et al. Red flags to screen for vertebral fracture in people presenting with low back pain. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014461.pub2/full/fr)

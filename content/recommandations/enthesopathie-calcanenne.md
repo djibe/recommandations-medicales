@@ -18,6 +18,7 @@ sctid= "202882003"
 icd10 = ["M72.27"]
 image = true
 imageSrc = "Illustration de l'épine calcanéenne par Injurymap, CC BY 4.0, via Wikimedia Commons"
+todo = "TODO: aponévrosite plantaire"
 flowchart = true
 +++
 
@@ -143,7 +144,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link-external title="Comment je traite une aponévrosite plantaire ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/164432167" >}}
+{{< card-link-external title="Comment je traite une aponévrosite plantaire ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/164432167" image="podcast" >}}
 
 - [Guimarães JS, et al. Effects of therapeutic interventions on pain due to plantar fasciitis: A systematic review and meta-analysis. Clin Rehabil. 2023.](https://www.minerva-ebp.be/FR/Analysis/830)
 - Prescrire Redaction. Douleur sous le talon par fasciite plantaire et orthèses. Rev Prescrire. 2021.

@@ -101,7 +101,7 @@ Autres traitements non disponibles en France pour la maladie de Dupuytren: injec
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link-external title="Comment prendre en charge une maladie de Dupuytren ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/164334609" >}}
+{{< card-link-external title="Comment prendre en charge une maladie de Dupuytren ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/164334609" image="podcast" >}}
 
 - Prescrire Redaction. Maladies de Dupuytren médicamenteuses. Rev Prescrire. 2024.
 - [Lambi A, et al. Pharmacotherapies in Dupuytren Disease: Current and Novel Strategies. The Journal of Hand Surgery. 2023.](https://www.sciencedirect.com/science/article/pii/S0363502323000709)

@@ -216,7 +216,7 @@ graph TB
 
 {{< youtube id="lqPQbjeOyog" title="Symptômes prolongés de la Covid-19 chez l'adulte - 15 avril 2021 (HAS)" >}}
 
-{{< card-link-external title="COVID long en rhumatologie" subtitle="La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/195140357" >}}
+{{< card-link-external title="COVID long en rhumatologie" subtitle="La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/195140357" image="podcast" >}}
 
 ### Haut Conseil de la Santé Publique
 

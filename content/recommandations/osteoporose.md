@@ -611,7 +611,7 @@ Vidéos de formation sur l'ostéoporose.
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link-external title="Pourquoi la prescription médicamenteuse est-elle si faible dans l'ostéoporose ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/174775590" >}}
+{{< card-link-external title="Pourquoi la prescription médicamenteuse est-elle si faible dans l'ostéoporose ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/174775590" image="podcast" >}}
 
 - [Pickering ME, et al. Supplémentation quotidienne ou intermittente en vitamine D chez les personnes avec ou à risque d'ostéoporose: Position du GRIO. Revue du Rhumatisme. 2025.](https://www.sciencedirect.com/science/article/pii/S1169833025001735)
 - [US Preventive Services Task Force. Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement. JAMA. 2025.](https://jamanetwork.com/journals/jama/fullarticle/2829238)
