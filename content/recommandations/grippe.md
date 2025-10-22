@@ -213,11 +213,11 @@ Vaccins contre la grippe disponibles en France pour la campagne vaccinale pour l
 
 Le vaccin nasal Fluenz Tetra® n'est pas disponible en France.
 
-La campagne de vaccination commencera le ==14 octobre 2025== (*DGS Urgent 2025-24*).
+La campagne de vaccination commencera le ==14 octobre 2025== (*DGS Urgent 2025-24*) et terminera le 31 janvier 2026.
 
 Pas de délai à respecter entre les vaccins anti-grippaux et anti Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
 
-La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance.
+La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance. En dehors des sujets à risque de forme grave, la vaccination est disponible sans ordonnance mais n'est pas remboursée.
 
 ### Pour en savoir plus: Bénéfices de la vaccination antigrippale
 
