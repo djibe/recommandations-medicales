@@ -111,37 +111,37 @@ Une petite étude en double aveugle devra être confirmée, mais elle retrouvait
 Indications au dépistage de la maladie cœliaque chez un adulte (*ESsCD 2025*):
 
 - **Symptômes évocateurs:**
-  - Constipation, diarrhée chronique non sanglante ou stéatorrhée
+  - [Constipation]({{% relref "constipation.md" %}}), [diarrhée chronique]({{% relref "diarrhee-chronique.md" %}}) non sanglante ou stéatorrhée
   - Perte de poids inexpliquée
-  - Carence chronique en fer et anémie inexpliquée
-  - Ballonnements postprandiaux, dyspepsie
+  - [Carence chronique en fer et anémie inexpliquée]({{% relref "anemie.md" %}})
+  - Ballonnements postprandiaux, [dyspepsie]({{% relref "dyspepsie.md" %}})
   - Douleurs abdominales récurrentes
   - Iléostomie ou colostomie avec débit élevé inexpliqué
 - **Pathologies digestives:**
   - Gastrite atrophique auto-immune
-  - Syndrome de l'intestin irritable, colite microscopique
-  - Pancréatite aiguë ou chronique inexpliquée
+  - [Syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}), colite microscopique
+  - [Pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}}) ou [chronique]({{% relref "pancreatite-chronique.md" %}}) inexpliquée
   - Perturbations du bilan hépatique
-  - Hépatite auto-immune, cholangite biliaire primitive
-  - Hyposplénisme ou asplénie fonctionnelle
+  - [Hépatite auto-immune]({{% relref "hepatite-autoimmune.md" %}}), [cholangite biliaire primitive]({{% relref "cholangite-biliaire-primitive.md" %}})
+  - [Hyposplénisme ou asplénie fonctionnelle]({{% relref "asplenie.md" %}})
 - **Pathologies neurologiques:**
   - Ataxie inexpliquée, neuropathie périphérique
   - Épilepsie inexpliquée
 - **Troubles dermatologiques et bucco-dentaires:**
-  - Dermatite herpétiforme, psoriasis réfractaire
+  - Dermatite herpétiforme, [psoriasis réfractaire]({{% relref "psoriasis.md" %}})
   - Aphtes récurrents
   - Anomalies de l'émail dentaire, hypominéralisation molaire
 - **Pathologies endocriniennes et auto-immunes:**
-  - Diabète type 1, thyroïdite de Hashimoto, maladie de Basedow, syndrome de Sjögren
+  - [Diabète type 1]({{% relref "diabete-type-1.md" %}}), [thyroïdite de Hashimoto]({{% relref "hypothyroidie.md" %}}), [maladie de Basedow]({{% relref "hyperthyroidie.md" %}}), syndrome de Sjögren
 - **Troubles gynécologiques:**
-  - Ménarche tardive, insuffisance ovarienne prématurée, infertilité inexpliquée avec fausses couches à répétition
+  - Ménarche tardive, [insuffisance ovarienne prématurée]({{% relref "insuffisance-ovarienne-prematuree.md" %}}), [infertilité inexpliquée]({{% relref "infertilite-couple.md" %}}) avec fausses couches à répétition
 - **Autres indications:**
   - Suspicion de maladie cœliaque associée à un inhibiteur de point de contrôle immunitaire
   - Syndrome de fatigue chronique
   - Déficit sélectif en IgA
   - Hémosidérose pulmonaire
   - Atrophie villositaire
-  - Ostéoporose précoce
+  - [Ostéoporose précoce]({{% relref "osteoporose.md" %}})
   - Néphropathie à IgA (si autre élément évocateur ou précoce, réfractaire, comorbidité auto-immune)
 - **Personnes à haut risque** mais asymptomatiques ou présentant des symptômes légers
   - Maladies génétiques: trisomie 21, syndrome de Turner, syndrome de Williams
@@ -153,17 +153,17 @@ Indications au dépistage de la maladie cœliaque chez un adulte (*ESsCD 2025*):
 Considérer un dépistage de la maladie cœliaque chez un enfant (*ESPGHAN 2020*):
 
 - **Symptômes digestifs:**
-  - Diarrhée chronique ou intermittente
-  - Constipation chronique résistante
+  - [Diarrhée chronique]({{% relref "diarrhee-chronique.md" %}}) ou intermittente
+  - [Constipation chronique résistante]({{% relref "constipation.md" %}})
   - Distension abdominale
   - Nausées, vomissements récurrents
 - **Symptômes extra-digestifs:**
   - Perte de poids, retard de croissance
   - Retard pubertaire, aménorrhée
-  - Irritabilité, fatigue chronique
+  - Irritabilité, [fatigue chronique](/tags/fatigue/)
   - Neuropathie
   - Arthrite/arthralgie
-  - Anémie ferriprive chronique
+  - [Anémie ferriprive chronique]({{% relref "anemie.md" %}})
   - Ostéopénie/ostéoporose, fractures répétitives
   - Aphtes récurrents
   - Dermatite herpétiforme

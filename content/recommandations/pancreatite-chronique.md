@@ -157,6 +157,12 @@ En cas de **bilan négatif:** bilan avec [sérologie cœliaque]({{% relref "mala
 > [!INFO]
 > La lipasémie est réservée aux suspicions de pancréatite aiguë. -- *CDU-HGE*
 
+### Sérologie cœliaque
+
+La recherche de [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) est recommandée en cas de pancréatite chronique inexpliquée (*ESsCD*):
+
+IgA totales, IgA anti-transglutaminase.
+
 ### Consultation génétique
 
 Indications à la consultation génétique:

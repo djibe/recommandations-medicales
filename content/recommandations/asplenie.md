@@ -90,7 +90,7 @@ Causes d'asplénie et d'hyposplénie:
 Bilan de l'asplénie:
 
 - Frottis sanguin (corps de Jolly)
-- Si asplénie fonctionnelle: sérologie cœliaque avec IgA anti-transglutaminase, IgA totales
+- Si asplénie fonctionnelle: sérologie cœliaque avec IgA anti-transglutaminase, IgA totales (*ESsCD*)
 - Échographie de la rate
 
 {{% /collapse %}}

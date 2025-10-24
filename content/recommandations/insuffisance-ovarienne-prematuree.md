@@ -179,9 +179,9 @@ Prise en charge dans un ***Centre de Référence de maladies rares*** prenant en
 
 - AMH (évaluation de la réserve ovarienne)
 - [Anticorps anti-TPO]({{% relref "hypothyroidie.md" %}})
-- [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}): IgA totales + IgA anti-transglutaminase
+- [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}): IgA totales, IgA anti-transglutaminase (et *ESsCD*)
 - Absence de cause iatrogène: anticorps anti-surrénaliens, anticorps anti 21-hydroxylase
-- Bilan cardiovasculaire: bilian lipidique, glycémie à jeun (*ESHRE 2024*)
+- Bilan cardiovasculaire: bilan lipidique, glycémie à jeun (*ESHRE 2024*)
 
 > -- *PNDS 2021*
 
@@ -278,6 +278,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [Panay N, et al. Evidence-based guideline: premature ovarian insufficiency. Hum Reprod Open. 2024.](https://academic.oup.com/hropen/article/2024/4/hoae065/7918369)
 - [Bushnell C, et al. 2024 Guideline for the Primary Prevention of Stroke: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2024.](https://www.ahajournals.org/doi/abs/10.1161/STR.0000000000000475)
 - [Centre de Référence des Maladies Endocriniennes Rares de la croissance et du développement (CRMERCD). Insuffisance ovarienne prématurée / primitive (en dehors du syndrome de Turner). PNDS. 2021.](https://www.has-sante.fr/jcms/p_3264990/fr/insuffisance-ovarienne-prematuree-iop)
