@@ -101,7 +101,7 @@ SFEMC
 
 Autres causes de céphalées:
 
-- Céphalées par abus médicamenteux  
+- [Céphalées par abus médicamenteux ]({{% relref "cephalee-abus-medicamenteux.md" %}})  
   Céphalées ≥ 15 jours/mois, lors de prise d'antalgiques > 10 j/mois > 3 mois. Souvent associée.
 - Céphalée de tension  
   Durée en heures ou jours, diffuse, non pulsatile, non aggravée à l'effort, moins intense, sans signes digestifs associés, parfois phono OU photophobie. Souvent associée chez le migraineux.
