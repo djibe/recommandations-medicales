@@ -27,7 +27,7 @@ todo = "signes différentiels, La voie orale est inefficace dans les MICI (*SOUR
 - Définition de l'anémie: hémoglobine inférieure à 12 g/dL chez la femme et 13 g/dL chez l'homme
   - Corriger les valeurs d'hémoglobine selon le statut tabagique et l'altitude
   - L'anémie par carence martiale est microcytaire (VGM < 80 fl) et le plus souvent hypochrome (CCMH < 32 g/dL)
-- Carence martiale: [ferritinémie](/tags/ferritine/) inférieure à 45 ng/mL (*BSG*)
+- Carence martiale: [ferritinémie](/tags/ferritine/) inférieure à 45 ng/mL (*BSG*; 30 pendant la grossesse -- *BSH*)
 - Bilan étiologique d'une anémie: examen gynécologique, BU/ECBU, sérologie cœliaque
 - [Fibroscopie](/tags/eogd/) et coloscopie si homme ou femme +50 ans, ménopausée/aménorrhée, [risque élevé de cancer colorectal]({{% relref "cancer-colorectal.md" %}}) ou anémie sévère inexpliquée
 - Prise en charge de l'anémie par supplémentation en fer: 50-100 mg par jour de fer élément à jeun pendant 3 mois
@@ -163,7 +163,7 @@ Bilan d'une *carence martiale isolée* chez des sujets sans pertes physiologique
 Examens recommandés pour la prise en charge d'une anémie (réaliser dans l'ordre):
 
 - BU, ECBU
-- Si carence martiale chronique, anémie inexpliquée: recherche de [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}})  
+- Si carence martiale chronique, anémie inexpliquée: [sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (*ESsCD*)  
   IgA totales + IgA anti-transglutaminase.
 - Électrophorèse de l'hémoglobine  
   Indication: ferritinémie normale chez sujet originaire d'Asie-Afrique-Méditerranée, avant bilan endoscopique.
@@ -186,7 +186,7 @@ Une anémie par carence martiale pendant la **grossesse** dispense du bilan éti
 
 ### Supplémentation en fer
 
-1 cp/j de 50-100 mg de fer élément (fer sulphate, fumarate ou gluconate) à distance des repas jusqu'à 3 mois après la normalisation de l'hémoglobine
+1 cp/j de 50-100 mg de fer élément (fer sulphate, fumarate ou gluconate) à distance des repas jusqu'à 3 mois après la normalisation de l'hémoglobine.
 {.alert .alert-info}
 
 Prise en charge de l'anémie par supplémentation et fer puis surveillance de la remontée de l'hémoglobine à 1 mois, mensuelle jusqu'à correction de l'anémie, trimestrielle pendant 1 an puis semestrielle pendant 2-3 ans.
@@ -247,6 +247,7 @@ graph TB
 - [HCSP. Avis relatif à la couverture des besoins de la population générale en vitamine D et en fer. 21/06/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1251)
 - [Snook J, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut. 2021.](https://gut.bmj.com/content/70/11/2030)
 - [Husby S, et al. European Society Paediatric Gastroenterology, Hepatology and Nutrition Guidelines for Diagnosing Coeliac Disease 2020. J Pediatr Gastroenterol Nutr. 2020.](https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000002497)
+- [Pavord S, et al. UK guidelines on the management of iron deficiency in pregnancy. British Journal of Haematology. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/bjh.16221)
 - [Santé Publique France. Étude de santé sur l'environnement, la biosurveillance, l'activité physique et la nutrition (Esteban) 2014-2016. Volet Nutrition. Chapitre Dosages biologiques : vitamines et minéraux. 2019.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/rapport-synthese/etude-de-sante-sur-l-environnement-la-biosurveillance-l-activite-physique-et-la-nutrition-esteban-2014-2016-.-volet-nutrition.-chapitre-dosages)
 - Rouillon JM. Prise en charge de l'anémie ferriprive. SNFGE. 2018.
 - [OMS. Concentrations en hémoglobine permettant de diagnostiquer l'anémie et d'en évaluer la sévérité. Système d'informations nutritionnelles sur les vitamines et les minéraux. 2011.](https://www.who.int/fr/publications-detail/WHO-NMH-NHD-MNM-11.1)

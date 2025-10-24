@@ -170,9 +170,9 @@ En cas de rectorragies ou de modifications du transit: adresser au gastro-entér
 - Proposer une [sérologie VIH]({{% relref "vih-sida.md" %}})
 - Malabsorption  
   Créatinine, ionogramme, calcémie, albuminémie, ASAT, ALAT, GGT, PAL, TP, [vitamine B12]({{% relref "carence-vitamine-b12.md" %}}), folates.
-- [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}})  
+- [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (*ESsCD*)  
   IgA anti-transglutaminase et IgA totales.
-- Examen parasitologique des selles 3 jours de suite (se 60-90%)
+- Examen parasitologique des selles 3 jours de suite (se 60-90 %)
 - [Test immunologique fécal]({{% relref "cancer-colorectal.md" %}}) (TIF *ex* Hemoccult®)
 {{%/info%}}
 

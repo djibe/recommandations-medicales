@@ -12,7 +12,7 @@ lastmod = "2024-02-12"
 specialites = ["neurologie", "oncologie"]
 annees = "2022"
 sources = ["HAS"]
-tags = []
+tags = ["cancer"]
 english = ["English word", "you can add one or delete this one"]
 sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
 icd10 = ["R52"]
@@ -82,7 +82,8 @@ TUO
 
 Opioïdes dits faibles pour les douleurs modérées à sévères:
 
-- Codéine
+- Codéine  
+  Éviter si insuffisance rénale.
 - Dihydrocodéine
 - Nalbuphine
 - Opium
@@ -110,19 +111,26 @@ Ne pas utiliser pour: douleurs pelviennes chroniques, douleurs musculo-squeletti
 
 Balance défavorable en première intention pour: douleurs dentaires, lombalgie aiguë, traumatismes simples rachidiens, blessures mineures des membres, colique néphrétique ...
 
-- Fentanyl (douleur cancéreuse uniquement, voie orale impossible ++)
+- Fentanyl (douleur cancéreuse uniquement, voie orale impossible ++)  
+  Effet immunosuppresseur.
 - Hydromorphone (troisième intention)
-- **Morphine**
+- **Morphine**  
+  Effet immunosuppresseur.
 - Oxycodone
+- Douleur cancéreuse:
+  - Méthadone  
+    Efficacité nociceptive et neuropathique et possible chez l'insuffisant rénal. Effet immunosuppresseur.
 - Autre capacité: médicaments de substitution aux opioïdes (MSO)
   - Buprénorphine
   - Méthadone
+
+Insuffisance rénale avancée: privilégier méthadone et fentanyl.
 
 > << Dans la majorité des cas, l'association de médicaments antalgiques opioïdes n'est pas recommandée, sauf particularités chez les patients atteints de cancer >> -- *HAS 2022*
 
 ### Manipuler la morphine
 
-- Évaluer les effets indésirables: nausées, vomissements, constipation, rétention urinaire, prurit, tremblements, clonies, confusion (remplacer le traitement), troubles de vigilance, convulsions, dépression respiratoire
+- Évaluer les **effets indésirables**: nausées, vomissements, constipation, rétention urinaire, prurit, tremblements, clonies, confusion (remplacer le traitement), troubles de vigilance, convulsions, dépression respiratoire
 - Femme enceinte: morphine uniquement
 - Rechercher: trouble anxieux, dépressif et cognitif
 
@@ -169,6 +177,54 @@ Objectifs pour le traitement du cancer:
 #### Conversion des opioïdes pour la douleur chronique
 
 {{< outils/conversion-opioides >}}
+
+{{% /collapse %}}
+{{%collapse "Douleur cancéreuse" %}}
+
+### Méthadone
+
+Demi-vie 6-8 heures
+
+Titration:
+
+- ECG: de base (et calcul du QTc) et suivi à 2-4 semaines
+- Patient naïf: 2,5 mg x 3/j (6-8 heures). Paliers de 5 mg tous les 5-7 jours
+- Patient tolérant: conversion et initiation à 75-90 % de l'opioïde  
+  Dose max initiale de 30 mg/j, paliers max de 10 mg tous les 5-7 jours.
+
+Effets indésirables: somnolence, nausées, constipation, xérostomie.
+Interaction: IPP (augmente l'absorption)
+Contre-indication: QTc > 500 ms.
+
+### Kétamine
+
+Indications au cas par cas: douleurs réfractaires (hypersensibilité centrale et neuropathiques), osseuses, mucites.
+
+administration: orale (biodisponibilité 10-20 %), nasale, IM, IV.
+
+Précautions: risque cardiovasculaire.
+
+Effets indésirables: dysphorie, hallucinations, nystagmus, troubles de la perception. Autres: cytolyse hépatique, hématurie, dysurie, hypertension et tachycardie.
+
+Ces effets peuvent être réduits par la baisse de la dose, ou des benzodiazépines ou des alpha2-agonistes.
+
+### Douleurs osseuses
+
+- Biphosphonates
+- Dénosumab
+- Kétamine
+- Radiothérapie
+
+### Douleurs segmentaires
+
+- Bloc sympathique
+- Neurolyse
+
+### Autres
+
+- Inthratécal
+- Stimulation spinale
+- chirurgie
 
 {{% /collapse %}}
 {{%collapse "Surveillance des opioïdes" %}}
@@ -225,11 +281,13 @@ Information du patient et de son entourage lors d'un traitement par morphiniques
 
 {{< youtube id="1N3l-FnLuPY" title="La minute RECO | Traitement antalgique opioïde : prendre en charge les douleurs aiguës (HAS)" >}}
 
-- [HAS. Bon usage des médicaments opioïdes : antalgie, prévention et prise en charge du trouble de l'usage et des surdoses. 2022.](https://www.has-sante.fr/jcms/p_3215131/fr/bon-usage-des-medicaments-opioides-antalgie-prevention-et-prise-en-charge-du-trouble-de-l-usage-et-des-surdoses)
-- [Martinez V et al; SFETD. Utilisation des opioïdes forts dans la douleur chronique non cancéreuse chez l'adulte. 2016. (PDF)](https://www.sfetd-douleur.org/wp-content/uploads/2019/06/recos_opioides_forts_sfetd_version_longue.compressed.pdf)
+WIP [Aman MM, et al. The American Society of Pain and Neuroscience (ASPN) Best Practices and Guidelines for the Interventional Management of Cancer-Associated Pain. J Pain Res. 2021.]()
+
+- [Martinez V, et al; SFETD. Utilisation des opioïdes forts dans la douleur chronique non cancéreuse chez l'adulte. 2016. (PDF)](https://www.sfetd-douleur.org/wp-content/uploads/2019/06/recos_opioides_forts_sfetd_version_longue.compressed.pdf)
 
 ### Bibliographie en attente
 
+- [HAS. Bon usage des médicaments opioïdes : antalgie, prévention et prise en charge du trouble de l'usage et des surdoses. 2022.](https://www.has-sante.fr/jcms/p_3215131/fr/bon-usage-des-medicaments-opioides-antalgie-prevention-et-prise-en-charge-du-trouble-de-l-usage-et-des-surdoses)
 - [Onco Paca-Corse. Soins palliatifs précoces et prise en charge de la douleur pour un cancer de mauvais pronostic. 2023. (PDF)](https://www.oncopacacorse.org/sites/default/files/guide-bonnes-pratiques-soins_palliatifs_precoces-juin2023.pdf)
 - [HAS. Antalgie des douleurs rebelles et pratiques sédatives chez l'adulte : prise en charge médicamenteuse en situations palliatives jusqu'en fin de vie. 2020.](https://www.has-sante.fr/jcms/p_3150631/fr/antalgie-des-douleurs-rebelles-et-pratiques-sedatives-chez-l-adulte-prise-en-charge-medicamenteuse-en-situations-palliatives-jusqu-en-fin-de-vie)
 - [HAS. Évaluation et prise en charge thérapeutique de la douleur chez les personnes âgées ayant des troubles de la communication verbale. 2006.](https://www.has-sante.fr/jcms/c_272123/fr/evaluation-et-prise-en-charge-therapeutique-de-la-douleur-chez-les-personnes-agees-ayant-des-troubles-de-la-communication-verbale)

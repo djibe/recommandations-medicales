@@ -217,6 +217,7 @@ La prise en charge et le traitement de l'algie vasculaire de la face pour les cr
 - Comptabiliser le nombre de prises de traitements
 - Étayer des facteurs déclenchants: alcool, nitroglycérine ou histamine
 - Aucun traitement physiologique ou psychologique ne fonctionne
+- Information du patient: [guide SFEMC](https://sfemc.fr/wp-content/uploads/2022/03/fiche_info_patient_algie_vasculaire_de_la_face-1.pdf) (PDF)
 
 ### Sumatriptan injectable
 

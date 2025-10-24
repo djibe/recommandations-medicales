@@ -226,7 +226,7 @@ graph TB
 - [CCS, GERS-P. Position commune du Club des Cardiologues du Sport (CCS) et du Groupe Sport (GERS-P) de la Société Française de Cardiologie sur le bilan cardio-vasculaire recommandé pour la pratique sportive. 2022.](https://www.sfcardio.fr/publication/recommandations-sur-le-bilan-cardiovasculaire-recommande-pour-la-pratique-sportive)
 - [Karam N, et al. Evolution of Incidence, Management, and Outcomes Over Time in Sports-Related Sudden Cardiac Arrest. J Am Coll Cardiol. 2022.](https://www.sciencedirect.com/science/article/abs/pii/S0735109721081572)
 - [Marijon E, et al. Prévention de la mort subite du sportif : état des lieux. Archives des Maladies du Coeur et des Vaisseaux - Pratique. 2021.](https://doi.org/10.1016/J.AMCP.2021.04.003)
-- [Anys S, et al. Faut-il un screening cardiaque du sportif : pour ou contre ?. La Revue du Praticien. 2021.](https://www.larevuedupraticien.fr/article/faut-il-un-screening-cardiaque-du-sportif-pour-ou-contre-2)
+- [Anys S, et al. Faut-il un screening cardiaque du sportif : pour ou contre ?. La Revue du Praticien. 2021.](https://www.larevuedupraticien.fr/article/faut-il-un-screening-cardiaque-du-sportif-pour-ou-contre-2)
 - [Journal Officiel. Décret 2021-564. 07/05/2021.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486809)
 - [CNOM. Certificats de non contre-indication à la pratique du sport. Médecins n°69. sept-oct 2020](https://www.conseil-national.medecin.fr/sites/default/files/external-package/bulletin/m05mhm/medecins_69.pdf)
 - [Marijon E, et al. Characteristics and Outcomes of Sudden Cardiac Arrest During Sports in Women. Circ Arrhythm Electrophysiol. 2013.](https://doi.org/10.1161/circep.113.000651)

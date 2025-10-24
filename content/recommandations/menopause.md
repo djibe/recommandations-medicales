@@ -630,6 +630,7 @@ Le traitement hormonal de la ménopause (THM):
 
 ### Bibliographie en attente
 
+- [HAS. Réévaluation des spécialités indiquées dans le traitement hormonal de la ménopause (estradiol, estriol, tibolone, acétate de cyprotérone, dydrogestérone, lévonorgestrel, médrogestone, médroxyprogestérone, acétate de noréthistérone, progestérone). 2025.](https://www.has-sante.fr/jcms/p_3689712/fr/reevaluation-des-specialites-indiquees-dans-le-traitement-hormonal-de-la-menopause-estradiol-estriol-tibolone-acetate-de-cyproterone-dydrogesterone-levonorgestrel-medrogestone-medroxyprogesterone-acetate-de-norethisterone-progesterone)
 - [Lumsden MA, et al. European society of endocrinology clinical practice guideline for evaluation and management of menopause and the perimenopause. Eur J Endocrinol. 2025.](https://academic.oup.com/ejendo/article-abstract/193/4/G49/8281862)
 - [Huang AJ, et al. Nonhormonal Treatment of Menopausal Vasomotor Symptoms. JAMA Intern Med. 2025.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2833235) (payant)
 - [NICE. Menopause: identification and management. NICE guideline. 2024.](https://www.nice.org.uk/guidance/ng23/chapter/Recommendations)

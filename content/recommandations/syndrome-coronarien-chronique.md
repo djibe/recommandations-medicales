@@ -337,7 +337,7 @@ graph TB
 {{%sources%}}
 
 - [Vrints C, et al. 2024 ESC Guidelines for the management of chronic coronary syndromes. Eur Heart J. 2024.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae177/7743115)
-- [Grave C, et al. Épidémiologie des cardiopathies ischémiques en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_2.html)
+- [Grave C, et al. Épidémiologie des cardiopathies ischémiques en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_2.html)
 - {{< references/esh-2023 >}}
 - [HAS. Syndrome coronarien chronique Prescription d'activité physique. 2022.](https://www.has-sante.fr/jcms/c_2876862/fr/consultation-et-prescription-medicale-d-activite-physique-a-des-fins-de-sante#toc_1_2)
 - [HAS. Guide du parcours de soins - Syndrome coronarien chronique. 2021.](https://www.has-sante.fr/jcms/p_3279083/fr/guide-du-parcours-de-soins-syndrome-coronarien-chronique)

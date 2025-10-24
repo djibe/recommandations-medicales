@@ -77,7 +77,7 @@ Hx
 : délai de x heures
 
 ICHD-3
-: {{%lang%}}International Classification of Headache Disorders{{%/lang%}}
+: {{%lang%}}International Classification of Headache Disorders 3rd edition{{%/lang%}}
 
 MSA
 : migraine sans aura
@@ -251,28 +251,12 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
 
 Indications à l'IRM cérébrale en cas de migraines:
 
-- Apparition après 50 ans
-- Aura atypique  
-  Début brutal, prolongé > 1 heure, latéralité fixe, absence de symptômes visuels.
-- Migraine chronique (≥ 15 j/mois) depuis < 1 an
-- Examen clinique anormal
-- En urgence
-  - Céphalée d'apparition brutale (en "coup de tonnerre", s'installant en < 1 min)
-  - Céphalée de caractères inhabituels chez un migraineux (délai à apprécier en fonction du contexte)
-  - Céphalée avec fièvre inexpliquée
-  - Signes neurologiques aigus
-  - Contexte d'intoxication (CO)
-  - Immunodépression
-  - Si scanner sans injection normal: IRM cérébrale avec angioIRM artérielle et veineuse
+{{< clinique/migraine-irm >}}
 
 ### Bilan orthoptique
 
-Proposer si [signes évocateurs]({{% relref "bilan-orthoptique.md" %}}): diplopie, vision floue, fatigue, troubles de concentration, difficultés d'adaptation aux lunettes...  
+Proposer si [signes évocateurs]({{% relref "bilan-orthoptique.md" %}}): diplopie, vision floue, fatigue, troubles de concentration, difficultés d'adaptation aux lunettes ...  
 Recherche une part non migraineuse associée.
-
-### Sérologie cœliaque
-
-Selon *ESsCD 2019*: IgA anti-transglutaminase et IgA totales devant migraine ou céphalées (voir *[maladie cœliaque]({{% relref "maladie-coeliaque.md" %}})*)
 
 {{% /collapse %}}
 {{%collapse "Traitement de la crise migraineuse et mesures générales" %}}
@@ -298,6 +282,7 @@ Ne pas culpabiliser l'abus médicamenteux en migraine chronique (effet délétè
 - Nausées invalidantes ou vomissements: anti-émétiques recommandés
 - Stress, anxiété, retentissement  
   Relaxation, biofeedback, TCC, thérapie de pleine conscience.
+- Information du patient: [guide SFEMC](https://sfemc.fr/wp-content/uploads/2022/03/fiche_info_patient_migraine-1.pdf) (PDF)
 - Associations de patients: [Association française des céphalées](https://associationfrancaisedescephalees.fr), [La voix des migraineux](https://www.lavoixdesmigraineux.fr/)
 
 > [!WARNING]
