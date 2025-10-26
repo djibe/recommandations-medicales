@@ -4,34 +4,38 @@ title = "Hyperaldostéronisme primaire"
 titleSeo = "Hyperaldostéronisme primaire"
 prefix = "l'"
 description = "Recommandations pour le diagnostic et la prise en charge de l'hyperaldostéronisme primaire. Bilan de rénine, aldostérone et rapport rénine/aldostérone. Test de freinage, scanner et spironolactone"
-synonyms = []
+synonyms = ["Syndrome de Conn"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-10-08T21:30:57+02:00"
-publishdate = "2025-10-23"
-lastmod = "2025-10-23"
-specialites = ["endocrinologie"]
+publishdate = "2025-10-26"
+lastmod = "2025-10-26"
+specialites = ["cardiologie", "endocrinologie"]
 annees = "2025"
 sources = ["ES", "ESC"]
 tags = ["HTA", "risque cardiovasculaire"]
 english = ["Primary aldosteronism (PA)"]
 sctid = "190507007"
 icd10 = ["E26.0"]
-draft = true
 image = false
 imageSrc = ""
-todo = "summary > photo"
+todo = "photo"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-TODO: (at the end)
+- L'hyperaldostéronisme primaire est un dysfonctionnement surrénalien (adénome ou les 2/3 par hyperplasie bilatérale des surrénales) causant une rétention hydrosodée, elle-même à l'origine d'une fraction importante des hypertensions artérielles (5 à 14 %)
+- Les signes évocateurs d'hyperaldostéronisme sont l'hypertension artérielle ou l'hypokaliémie spontanée ou déclenchée par les diurétiques
+- Du fait de sa prévalence chez l'hypertendu, le bilan d'une hypertension artérielle comprend toujours le dosage des rénine, aldostérone et le calcul du rapport aldostérone / rénine (en l'absence de traitement perturbateur)
+- Le diagnostic d'hyperaldostéronisme primaire est biologique: rénine basse, aldostérone élevée et un rapport aldostérone (pmol/L) / rénine (mU/L) très élevé
+- Un bilan complémentaire peut être réalisé selon les valeurs du bilan initial: test de freinage minute à la dexaméthasone ou scanner surrénalien d'emblée (voir [Examens complémentaires](#examens-complémentaires))
+- La prise en charge de l'hyperaldostéronisme primaire peut être une chirurgie (en cas de sécrétion unilatérale) ou un traitement médical: anti-aldostérone avec titration de spironolactone, surveillance clinique (pression artérielle) et biologique (kaliémie, créatinine, rénine)
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Hyperaldostéronisme primaire
-: Dysfonctionnement surrénalien primaire uni ou bilatéral à l'origine d'une production excessive d'aldostérone, cause fréquente d'hypertension artérielle secondaire (5-14 %), de maladies cardiovasculaires précoces (AVC x 2,6, coronaropathie x 1,8, fibrillation atriale x3,5, insuffisance cardiaque x2), de maladie rénale (protéinurie) et de troubles psychologiques.
+Hyperaldostéronisme primaire (ou syndrome de Conn)
+: Dysfonctionnement surrénalien primaire uni (adénome surrénalien 30 %, corticosurrénalome malin rare) ou bilatéral (hyperplasie bilatérale des surrénales 70 %) à l'origine d'une production excessive d'aldostérone, cause fréquente d'hypertension artérielle secondaire (5-14 %), de maladies cardiovasculaires précoces (AVC x 2,6, coronaropathie x 1,8, fibrillation atriale x3,5, insuffisance cardiaque x2), de maladie rénale (protéinurie) et de troubles psychologiques.
 : La surproduction d'aldostérone entraîne une rétention sodée avec hypervolémie, hypertension artérielle (HTA) et dans les formes sévères, une hypokaliémie.
 
 ### Abréviations
@@ -48,8 +52,14 @@ ES
 ESC
 : {{%lang%}}European Society of Cardiology{{%/lang%}}
 
+HAP
+: hyperaldostéronisme primaire
+
 HTA
 : hypertension artérielle
+
+KTVS
+: cathétérisme veineux surrénal
 {.dl-inline}
 
 {{% /collapse %}}
@@ -62,8 +72,10 @@ L'hyperaldostéronisme primaire est largement sous-diagnostiqué et sous-traité
 
 ### Interrogatoire
 
+- Âge
 - Antécédents  
   cardiovasculaires ([hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [coronaropathie]({{% relref "syndrome-coronarien-aigu.md" %}}), [fibrillation atriale]({{% relref "fibrillation-atriale.md" %}})).
+- Antécédents familiaux surrénaliens
 - Traitements en cours
 - Traitements perturbateurs:
   - Réduisent la rénine: bêta-bloquants, antihypertenseurs centraux (clonidine, méthyldopa), AINS, hormonothérapie œstroprogestative
@@ -73,7 +85,7 @@ L'hyperaldostéronisme primaire est largement sous-diagnostiqué et sous-traité
 - Bilans biologiques antérieurs
 - Signes et symptômes d'hyperaldostéronisme primaire:
   - Hypertension artérielle
-  - Hypokaliémie (< 1/3) spontanée ou induite par les diurétiques
+  - Hypokaliémie (< 1/3) spontanée ou induite par les diurétiques: faiblesse musculaire, tétanie
 
 **NB.** Les inhibiteurs calciques et alpha-bloquants (prazosine, urapidil ...) ne perturbent pas les dosages de rénine/aldostérone.
 
@@ -81,8 +93,9 @@ L'hyperaldostéronisme primaire est largement sous-diagnostiqué et sous-traité
 
 - Pression artérielle, fréquence cardiaque
 - Poids, taille, IMC
-- Auscultation cardio-respiratoire
+- Auscultation cardio-respiratoire et des axes vasculaires
 - Palpation abdominale et des fosses lombaires
+- Examen neurologique
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -184,6 +197,8 @@ Hors chirurgie, la prise en charge de l'hyperaldostéronisme primaire consiste e
   - Si contre-indication: [éplérénone 25 mg](https://bdpm.ansm.sante.fr/medicament/61124589/extrait#tab-rcp) x 1-2/j (max 200 mg/j)
 - Potassium: arrêter la supplémentation sous 2 à 4 jours, sous contrôle biologique
 - **Régime pauvre en sel** (< 5 g/j)
+- Information du patient: [guide Assoc. surrénales](https://www.surrenales.com/hyperaldosteronisme-syndrome-de-conn/)
+- Association de patients: [Association surrénales](https://www.surrenales.com)
 - Suivi:
   - De la pression artérielle
   - Bilan **biologique** à 2-3 mois (ou avant si besoin): kaliémie, créatinine, rénine
@@ -204,7 +219,7 @@ Une chirurgie est indiquée chez le **patient opérable** avec hyperaldostéroni
 
 {{< mermaid title="Dépistage de l'hyperaldostéronisme primaire chez le patient hypertendu. Dr JB Fron d'après ES 2025">}}
 graph TB
-  HTA[Hypertension artérielle] --> clinique(Clinique) --> biologie("<b>Biologie</b><br>—<br>En parallèle du<br>bilan d'HTA:<br>- Rénine<br>- Aldostérone<br>- Rapport aldostérone/rénine<br>- Kaliémie") --> critères("<b>Critères diagnostiques</b><br>—<br>- <b>Rénine basse</b><br>≤ 8.2 mU/L<br>- <b>Aldostérone élevée</b><br>≥ 10 ng/dL - 277 pmol/L<br>Chromatographie: ≥ 7,5 ng/dL<br>≥ 208 pmol/L<br>- <b>Rapport aldostérone/rénine<br>élevé</b> (pmol/L / mU/L)<br>> 70<br> 52 en chromatographie<br>ou normes du labo")
+  HTA[Hypertension artérielle] --> clinique(Clinique) --> biologie("<b>Biologie</b><br>—<br>En parallèle du<br>bilan d'HTA:<br>- Rénine<br>- Aldostérone<br>- Rapport aldostérone/rénine<br>- Kaliémie") --> critères("<b>Critères diagnostiques</b><br>—<br>- <b>Rénine basse</b><br>≤ 8.2 mU/L<br>- <b>Aldostérone élevée</b><br>≥ 10 ng/dL - 277 pmol/L<br>Chromatographie: ≥ 7,5 ng/dL<br>≥ 208 pmol/L<br>- <b>Rapport aldostérone (pmol/L)<br>/rénine (mU/L)<br>élevé</b> &gt; 70<br> 52 en chromatographie<br>ou normes du labo")
   critères -- Positif --> positif("<b>Faux positif ?</b><br>—<br>Bêtabloquant,<br>antihypertenseur central") -- Oui --> retrait("Retrait du ttt<br>2 semaines") --> biologie
     positif -- Non --> diagnostic("<b>Hyperaldostéronisme<br>primaire</b>") --> traitement("± Test de freinage,<br> scanner des surrénales<br> ou médicament d'emblée:<br>voir Figure suivante")
   critères -- Négatifs --> négatif("<b>Faux négatif ?</b><br>—<br>- Hypokaliémie<br>- Médicament: spironolactone,<br>éplérénone, diurétique<br>- Autres: IEC/ARA2") -- Non --> classique("HP peu probable:<br>traitement<br>antihypertenseur<br>classique")
@@ -220,7 +235,7 @@ graph TB
     probabilité -- Intermédiaire --> intermédiaire("Au choix du patient:<br>essai ARM ou<br>test de freinage<br>de l'aldostérone") -- "ARM" --> essai
       intermédiaire -- "Test de<br>freinage" --> freinage("Dexaméthasone 1mg") -- Négatif --> essai
         freinage -- Positif --> scanner(Scanner surrénalien)
-    probabilité -- Haute --> haute("- Hypokaliémie<br>- Rénine effondrée < 2 mUI/L<br>et aldostérone ≥ 20 ng/dL<br>(15 en chromatographie)") --> scanner --> cathétérisme("Cathétérisme veineux<br>surrénalien") -- "Production<br>bilatérale" --> ARM("Anti-minéralocorticoïde<br>(ARM)")
+    probabilité -- Haute --> haute("- Hypokaliémie<br>- Rénine effondrée < 2 mUI/L<br>et aldostérone ≥ 20 ng/dL<br>(15 en chromatographie)") --> scanner --> cathétérisme("Cathétérisme veineux<br>surrénal") -- "Production<br>bilatérale" --> ARM("Anti-minéralocorticoïde<br>(ARM)")
        scanner -.-> jeune("Patient &lt; 35 ans,<br>HAT sévère et<br>masse unilat. &gt; 1 cm") --> chirurgie
       cathétérisme -- "Production<br>unilatérale" --> chirurgie("Surrénalectomie<br>élective")
   éligible -- Non --> traitement("Traitement ARM<br>voir Figure suivante")
@@ -242,11 +257,6 @@ graph TB
 
 - [Adler GK, et al. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2025.](https://academic.oup.com/jcem/article/110/9/2453/8196671)
 - [McEvoy J, et al, ESC Scientific Document Group. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension: Developed by the task force on the management of elevated blood pressure and hypertension of the European Society of Cardiology (ESC) and endorsed by the European Society of Endocrinology (ESE) and the European Stroke Organisation (ESO). European Heart Journal. 2024.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae178/7741010)
-
-### Bibliographie en attente
-
-- Collège
-- Prescrire
-- [Cismef](https://www.cismef.org/cismef/)
+- [Collège National des Enseignants de Cardiologie (CNEC). Hypertension artérielle de l'adulte et de l'enfant. Item 224. Cardiologie 2e édition. 2022.](https://www.sfcardio.fr/publication/chapitre-04-item-224-hypertension-arterielle-de-ladulte-et-de-lenfant/)
 
 {{%/sources%}}

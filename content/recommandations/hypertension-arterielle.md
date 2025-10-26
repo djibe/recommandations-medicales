@@ -283,14 +283,14 @@ Signes devant faire évoquer une hypertension secondaire et nécessitant une év
 - Drogues, corticoïdes, sprays nasaux, automédication, contraception, chimiothérapie, yohimbine, réglisse
 - Phéochromocytome  
   Épisodes répétés de sueurs - céphalées - palpitations.
-- Hyperaldostéronisme primaire  
+- [Hyperaldostéronisme primaire]({{% relref "hyperaldosteronisme-primaire.md" %}})  
   *Hypokaliémies* spontanées ou sous diurétiques, fatigue musculaire, tétanie.
 - [Syndrome de Cushing]({{% relref "syndrome-cushing.md" %}})  
   Faciès lunaire et rouge, obésité tronculaire et bosse de bison, fonte musculaire et fatigue, atrophie cutanée et ecchymoses faciles, vergetures pourpres, retard de cicatrisation, doigts très minces, hirsutisme, troubles de l'humeur, dysménorrhées, corticoïdes chroniques.
 - [Dysthyroïdie](/tags/tsh/)
 - Grossesse en cours ou contraception œstroprogestative (5% développent une HTA)
 
-Principales causes d'hypertension secondaire: **hyperaldostéronisme primaire** (ratio aldostérone/rénine plasmatiques), **néphropathie** et **sténose des artères rénales** (échodoppler). Syndrome de Cushing, phéochromocytome et coarctation de l'aorte sont plus rares.
+Principales causes d'hypertension secondaire: **[hyperaldostéronisme primaire]({{% relref "hyperaldosteronisme-primaire.md" %}})** (ratio aldostérone/rénine plasmatiques), **néphropathie** et **sténose des artères rénales** (échodoppler). Syndrome de Cushing, phéochromocytome et coarctation de l'aorte sont plus rares.
 
 Dans l'attente de la MAPA: observance, automesures avec appareil validé, revérifier des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}, mesures hygiéno-diététiques, bilan des complications, traitements à risque (AINS, spray nasal, toxiques, automédication).
 
@@ -321,6 +321,7 @@ Dans l'attente de la MAPA: observance, automesures avec appareil validé, revér
 - NFS
 - Glycémie à jeun
 - Bilan lipidique: Cholestérol LDL, HDL, CT, TG
+- Rénine, aldostérone, rapport aldostérone / rénine (le matin, prélevé assis et sans restriction sodée)
 - Acide urique (marqueur de RCV)
 - Calcémie, albuminémie
 - Dépistage des complications
@@ -528,6 +529,7 @@ graph TB
 - [McEvoy J, et al, ESC Scientific Document Group. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension: Developed by the task force on the management of elevated blood pressure and hypertension of the European Society of Cardiology (ESC) and endorsed by the European Society of Endocrinology (ESE) and the European Stroke Organisation (ESO). European Heart Journal. 2024.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae178/7741010)
 - [Charchar FJ et al. Lifestyle management of hypertension: International Society of Hypertension position paper endorsed by the World Hypertension League and European Society of Hypertension. J Hypertens. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/37712135/)
 - [Duly-Bouhanick B et al; SFHTA. HTA de l'enfant et de l'adolescent. Consensus d'experts. 2022. (PDF)](https://sfhta.eu/wp-content/uploads/2022/06/2020-11-27_recos-seules-HTA-enfants-et-ado-V2-du-02.06.2022.pdf)
+- [Collège National des Enseignants de Cardiologie (CNEC). Hypertension artérielle de l'adulte et de l'enfant. Item 224. Cardiologie 2e édition. 2022.](https://www.sfcardio.fr/publication/chapitre-04-item-224-hypertension-arterielle-de-ladulte-et-de-lenfant/)
 - [Xi B, et al. Establishing International Blood Pressure References Among Nonoverweight Children and Adolescents Aged 6 to 17 Years. Circulation. 2016.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729639/#SD1)
 
 {{%/sources%}}
