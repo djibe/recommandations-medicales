@@ -18,7 +18,8 @@
             </div>
             <div class="modal-body">
               Une suggestion, une remarque ou une critique ? Dites-le.
-              <form id="contact-form" name="contact" method="POST" data-netlify="true">
+              <form id="contact-form" name="contact" method="POST" data-netlify="true" netlify-honeypot="username">
+                <input name="username" class="d-username" type="text">
                 <div class="form-group mt-4">
                   <div class="input-group">
                     <input class="form-control" id="form-email" placeholder="Adresse e-mail" type="email" name="email" aria-label="Votre e-mail" autocomplete="email" required oninvalid="setCustomValidity('Merci de renseigner votre e-mail')" onchange="this.setCustomValidity('')">
