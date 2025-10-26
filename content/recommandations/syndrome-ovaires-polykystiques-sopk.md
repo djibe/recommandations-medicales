@@ -27,7 +27,7 @@ flowchart = true
 
 - Le syndrome des ovaires polykystiques (SOPK) consiste en la présence de kystes ovariens multiples à l'origine d'une sécrétion d'androgènes donnant une hyperandrogénie clinique (acné, hirsutisme, alopécie) et se compliquant de troubles cardio-métaboliques (diabète, obésité, risque cardiovasculaire), psychologiques et d'une [infertilité]({{% relref "infertilite-couple.md" %}})
 - 70% des patientes ne sont pas diagnostiquées
-- Le diagnostic du syndrome des ovaires polykystiques (SOPK) est défini par les critères d'Amsterdam: oligo-anovulation, hyperandrogénie clinique et/ou biologique et ovaires polykystiques en échographie
+- Le diagnostic du syndrome des ovaires polykystiques (SOPK) est défini par les critères de Rotterdam révisés: oligo-anovulation, hyperandrogénie clinique et/ou biologique et ovaires polykystiques en échographie
 - Rechercher un SOPK en cas de: cycles menstruels irréguliers, acné sévère ou hirsutisme
 - Bilan du syndrome des ovaires polykystiques: échographie pelvienne endovaginale et testostérone libre et totale ± hormone antimüllérienne, bilan supplémentaire si aménorrhée, HGPO 75g
 - La prise en charge du syndrome des ovaires polykystiques (SOPK) est cardio-métabolique (correction du risque cardiovasculaire, activité physique, correction d'un surpoids) et selon le profil clinique:
@@ -307,18 +307,18 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Teede H et al. International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome 2023. Monash University. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)
+- [Teede H, et al. International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome 2023. Monash University. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)
 - [Inserm. Syndrome des ovaires polykystiques : un problème de sensibilité à l'œstradiol. 18/01/2024.](https://www.inserm.fr/actualite/syndrome-des-ovaires-polykystiques-un-probleme-de-sensibilite-a-loestradiol/)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Item 42 Aménorrhée Item 35 Anomalies du cycle menstruel Métrorragies. Gynécologie obstétrique Réussir son DFASM. 2021.
-- [Barry JA et al. Risk of endometrial, ovarian and breast cancer in women with polycystic ovary syndrome: a systematic review and meta-analysis. Hum Reprod Update. 2014.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24688118/)
-- [Legro RS et al. Letrozole versus clomiphene for infertility in the polycystic ovary syndrome. N Engl J Med. 2014.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4175743/)
+- [Barry JA, et al. Risk of endometrial, ovarian and breast cancer in women with polycystic ovary syndrome: a systematic review and meta-analysis. Hum Reprod Update. 2014.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24688118/)
+- [Legro RS, et al. Letrozole versus clomiphene for infertility in the polycystic ovary syndrome. N Engl J Med. 2014.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4175743/)
 - [Amsterdam ESHRE/ASRM-Sponsored 3rd PCOS Consensus Workshop Group. Consensus on women's health aspects of polycystic ovary syndrome (PCOS). Hum Reprod. 2012.](https://academic.oup.com/humrep/article-lookup/doi/10.1093/humrep/der396)
 
 ### Bibliographie en attente
 
 [Goodman NF et al. AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS, AMERICAN COLLEGE OF ENDOCRINOLOGY, AND ANDROGEN EXCESS AND PCOS SOCIETY DISEASE STATE CLINICAL REVIEW: GUIDE TO THE BEST PRACTICES IN THE EVALUATION AND TREATMENT OF POLYCYSTIC OVARY SYNDROME--PART 1. Endocr Pract. 2015.](https://linkinghub.elsevier.com/retrieve/pii/S1530-891X(20)35322-2)
 
-<!-- score de roterdam avec l’AMH, le CFA à > 20 FA dans un des ovaires ou le volume >10 ml. -->
+<!-- score de Rotterdam avec l’AMH, le CFA à > 20 FA dans un des ovaires ou le volume >10 ml. -->
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
