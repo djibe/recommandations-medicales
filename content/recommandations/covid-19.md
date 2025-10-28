@@ -161,7 +161,7 @@ Délai de 6 mois avec le dernier Covid ou vaccin (3 mois si +80 ans, immunodépr
         - Personnes ayant présenté un syndrome thrombotique et thrombocytopénique (STT) à suite d'une vaccination par le vaccin Vaxzevria (AstraZeneca) ou le vaccin JCovden (Janssen)
 2. Une recommandation médicale de ne pas initier une vaccination (première dose):  
   Myocardites ou myo-péricardites associées à une infection par SARS-CoV2.
-3. Une recommandation établie après concertation médicale pluridisciplinaire de ne pas effectuer une dose supplémentaire de vaccin (deuxième dose ou dose de rappel) suite à la survenue d'un effet indésirable d'intensité sévère ou grave attribué à une précédente injection de vaccin signalé au système de pharmacovigilance (par exemple : la survenue de myocardite, de syndrome de Guillain-Barré, de syndrome inflammatoire multisystémique pédiatrique (PIMS)…).
+3. Une recommandation établie après concertation médicale pluridisciplinaire de ne pas effectuer une dose supplémentaire de vaccin (deuxième dose ou dose de rappel) suite à la survenue d'un effet indésirable d'intensité sévère ou grave attribué à une précédente injection de vaccin signalé au système de pharmacovigilance (par exemple : la survenue de myocardite, de [syndrome de Guillain-Barré]({{% relref "syndrome-guillain-barre.md" %}}), de syndrome inflammatoire multisystémique pédiatrique (PIMS)…).
 4. Une recommandation établie par un centre de référence maladies rares (CRMR) ou un centre de compétence maladies rares (CCMR) après concertation médicale pluridisciplinaire (avis collégial documenté) de ne pas initier la vaccination contre la covid-19.
 
 ### Contre-indication médicale temporaire faisant obstacle à la vaccination contre la covid-19 mentionnés à l'article 2-4

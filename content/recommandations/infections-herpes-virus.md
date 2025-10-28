@@ -164,7 +164,7 @@ Le tableau peut être fruste: érosions discrètes, fissures, œdème localisé 
 
 Les autres localisations fréquentes de l'herpès sont l'**herpès digital** (dit panaris herpétique) ou cutané, la **kérato-conjonctivite herpétique**, l'**angine herpétique**.
 
-Des **atteintes organiques** sont exceptionnelles chez l'immunocompétent: œsophagite, hépatite fulminante, radiculopathies sacrées, méningite, encéphalite, myélite et syndrome de Guillain-Barré.
+Des **atteintes organiques** sont exceptionnelles chez l'immunocompétent: œsophagite, hépatite fulminante, radiculopathies sacrées, méningite, encéphalite, myélite et [syndrome de Guillain-Barré]({{% relref "syndrome-guillain-barre.md" %}}).
 
 #### Syndrome de Kaposi-Juliusberg
 
