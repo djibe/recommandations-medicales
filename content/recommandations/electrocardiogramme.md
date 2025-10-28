@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-06-04T20:33:37+02:00"
 publishdate = "2024-06-06"
-lastmod = "2024-06-07"
+lastmod = "2025-10-27"
 specialites = ["cardiologie"]
-annees = "2024"
+annees = "2025"
 sources = []
 tags = ["HTA"]
 english = ["Electrocardiogram (ECG or EKG)"]
@@ -65,5 +65,7 @@ Particularités de l'[ECG pédiatrique](https://fr.my-ekg.com/ecg-pediatrique/ec
 - [ECG Quiz](https://www.ecg-quiz.com/ecg-quiz/)
 - [EKG.Academy](https://ekg.academy/fr/exercices-entrainement-ecg)
 - [Dr Smith's ECG Blog](http://hqmeded-ecg.blogspot.com/)
+- [ECG Library](https://ecglibrary.com/ecghome.php)
+- Skillstat: [ECG Sim](https://www.skillstat.com/ecg-sim/) et [6 Second ECG](https://www.skillstat.com/tools/ecg-simulator/#/-home)
 
 {{% /collapse %}}
