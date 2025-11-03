@@ -35,7 +35,7 @@ flowchart = true
 {{%collapse "Définition" %}}
 
 Hyperaldostéronisme primaire (ou syndrome de Conn)
-: Dysfonctionnement surrénalien primaire uni (adénome surrénalien 30 %, corticosurrénalome malin rare) ou bilatéral (hyperplasie bilatérale des surrénales 70 %) à l'origine d'une production excessive d'aldostérone, cause fréquente d'hypertension artérielle secondaire (5-14 %), de maladies cardiovasculaires précoces (AVC x 2,6, coronaropathie x 1,8, fibrillation atriale x3,5, insuffisance cardiaque x2), de maladie rénale (protéinurie) et de troubles psychologiques.
+: Hyperminéralocorticisme primaire uni (adénome surrénalien 30 % ou rare corticosurrénalome malin) ou bilatéral (hyperplasie bilatérale des surrénales pour 70 %) à l'origine d'une production excessive d'aldostérone, cause fréquente d'hypertension artérielle secondaire (5-14 %), de maladies cardiovasculaires précoces (AVC x 2,6, coronaropathie x 1,8, fibrillation atriale x3,5, insuffisance cardiaque x2), de maladie rénale (protéinurie) et de troubles psychologiques.
 : La surproduction d'aldostérone entraîne une rétention sodée avec hypervolémie, hypertension artérielle (HTA) et dans les formes sévères, une hypokaliémie.
 
 ### Abréviations
@@ -85,7 +85,7 @@ L'hyperaldostéronisme primaire est largement sous-diagnostiqué et sous-traité
 - Bilans biologiques antérieurs
 - Signes et symptômes d'hyperaldostéronisme primaire:
   - Hypertension artérielle
-  - Hypokaliémie (< 1/3) spontanée ou induite par les diurétiques: faiblesse musculaire, tétanie
+  - Hypokaliémie (< 3,7 mmol/L ++, < 1/3 des sujets) spontanée ou induite par les diurétiques: faiblesse musculaire, tétanie
 
 **NB.** Les inhibiteurs calciques et alpha-bloquants (prazosine, urapidil ...) ne perturbent pas les dosages de rénine/aldostérone.
 

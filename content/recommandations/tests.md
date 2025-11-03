@@ -23,6 +23,21 @@ datatable = false
 chart = true
 +++
 
+| Plateforme | Commentaire |
+|------------|-------------|
+| [BrownSkinMatters](https://www.instagram.com/brownskinmatters/) | Instagram |
+| [Danderm](https://www.danderm-pdv.is.kkh.dk/atlas/index.html) ||
+| [Dermatologie Atlas](https://atlasdermatologico.com.br/browse.jsf) ||
+| [BAD Dermatology Handbook](https://cdn.bad.org.uk/uploads/2024/04/15113327/Derm_Handbook_3rd-Edition-_Nov_2020.pdf) | PDF |
+| [DermIS](https://www.dermis.net/dermisroot/fr/home/index.htm) ||
+| [DermNet NZ](https://dermnetnz.org/topics) ||
+| [NHS England]() | VPN anglais nécessaire |
+| [Skin Deep](https://dftbskindeep.com/quiz/) ||
+| Payants ||
+| [AccessDermatologyDxRx](https://dermatology.mhmedical.com/) | Payant |
+| [British College of Dermatology](https://learning.bcd.org.uk/my/?categoryid=24) | Payant |
+| [VisualDX](https://www.visualdx.com/visualdx/) | Payant |
+
 Bronchiolite
 
 <div class="card" style="width: 400px;height: 300px">

@@ -55,6 +55,9 @@ ECT
 
 HAS
 : Haute Autorité de Santé
+
+NICE
+: {{%lang%}}National Institute for Health and Care Excellence{{%/lang%}}
 {.dl-inline}
 
 {{% /collapse %}}

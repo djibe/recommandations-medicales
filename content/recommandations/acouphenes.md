@@ -39,6 +39,9 @@ Acouphène pulsatile
 
 ### Abréviations
 
+NICE
+: {{%lang%}}National Institute for Health and Care Excellence{{%/lang%}}
+
 TSA
 : troncs supra-aortiques
 {.dl-inline}

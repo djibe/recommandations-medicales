@@ -3,6 +3,7 @@ id = "0190e8d6-ab77-7e2e-a983-c3ecd79afa7d"
 title = "Urticaire aiguë et chronique"
 prefix = "l'"
 titleSeo = "Urticaire"
+noindex = true
 description = "Recommandations pour la prise en charge de l'urticaire aiguë ou chronique. Bilan selon la durée d'évolution, traitement de l'urticaire par antihistaminiques"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
@@ -439,6 +440,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Centre de preuves en dermatologie. Urticaire au froid.](https://centredepreuves.sfdermato.org/recommandation-cdp/52-urticaire-au-froid)
 - [Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéo-muqueuses chez l'enfant et l'adulte. Item 187. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-187-%E2%80%94-Hypersensibilites-et-allergies-cutaneo-muqueuses-chez-lenfant-et-ladulte.-Urticaire-dermatites-atopique-et-de-contact_CompressPdf.pdf)
 - [Zuberbier T et al. The international EAACI/GA²LEN/EuroGuiDerm/APAAACI guideline for the definition, classification, diagnosis, and management of urticaria. Allergy. 2022.](https://pubmed.ncbi.nlm.nih.gov/34536239/)
 - [SFD. Traitement de l'urticaire chronique spontanée. 2019. (PDF)](https://document.sfdermato.org/reco/urticaire-chronique-spontan%C3%A9e/SFD_urticaire-chronique-spontan%C3%A9e_synth%C3%A8se_2019-11.pdf)

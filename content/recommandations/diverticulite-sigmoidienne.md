@@ -24,7 +24,7 @@ todo = "rankok"
 
 {{%article-summary%}}
 
-- La diverticulose colique est asymptomatique dans 80% des cas
+- La diverticulose colique, fragilité colique, augmente avec l'âge et est asymptomatique dans 80 % des cas
 - La diverticulite sigmoïdienne aiguë (*ex* sigmoïdite diverticulaire) est une inflammation infectieuse colique d'origine diverticulaire, survenant surtout entre 50 et 70 ans
 - Un bilan systématique est nécessaire lors de la première poussée: diagnostic par scanner abdomino-pelvien
 - La prise en charge de la crise de diverticulite sigmoïdienne non compliquée sans gravité (hors grossesse) est symptomatique: pas d'antibiothérapie durant les 48 premières heures de la crise douloureuse
@@ -41,7 +41,7 @@ Diverticulite sigmoïdienne aiguë
 30% de récidives à 5 ans. 16 à 35 % se compliquent d'abcès.
 
 Diverticulose du côlon
-: Anomalie anatomique du côlon acquise caractérisée par la présence de diverticules.  
+: Anomalie anatomique du côlon acquise caractérisée par la présence de diverticules (saillies de la muqueuse dans la musculeuse).  
 Elle est asymptomatique dans 80 % des cas.
 
 ### Complications d'une poussée de diverticulite

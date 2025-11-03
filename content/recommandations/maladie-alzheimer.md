@@ -239,6 +239,7 @@ graph TB
 
 {{< youtube id="UFkHk0wRr_I" title="La minute RECO HAS | Maladies neuroévolutives : accompagner à domicile" >}}
 
+- [Collège national des généralistes enseignants. Maladie d'Alzheimer : de nouveaux médicaments avec un bénéfice clinique aussi limité que les anciens. Avis du conseil scientifique du Collège national des généralistes enseignants. 2025. (PDF)](https://www.cnge.fr/wp-content/uploads/2025/10/251023_Avis-troubles-cognitif_AM_Vbdd.pdf)
 - [Lim AW, et al. Galantamine for dementia due to Alzheimer's disease and mild cognitive impairment. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001747.pub4/full/fr)
 - [Centre Belge d'Information Pharmacothérapeutique (CBIP). Folia. 2024.](https://www.cbip.be/fr/articles/4440?folia=4434)
 - [Livingston G, et al. Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. Lancet. 2024.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01296-0/abstract)
@@ -262,7 +263,7 @@ graph TB
 ### Bibliographie en attente
 
 - [Défontaines B, et al; Fédération des Centres Mémoires (FCM). Recommandations pour le diagnostic de la maladie d'Alzheimer. 2025.](https://www.centres-memoire.fr/nouvelles-recommandations-2025-pour-le-diagnostic-de-la-maladie-dalzheimer-a-lire-absolument/)
-- [Dubois B, et al. Alzheimer Disease as a Clinical-Biological Construct -- An International Working Group Recommendation. JAMA Neurol. 2024. (payant)](https://jamanetwork.com/journals/jamaneurology/article-abstract/2825806)
+- [Dubois B, et al. Alzheimer Disease as a Clinical-Biological Construct -- An International Working Group Recommendation. JAMA Neurol. 2024.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12010406/)
 - [Fondation Médéric Alzheimer. Interventions non médicamenteuses et maladie d'Alzheimer. 2024.](https://www.fondation-mederic-alzheimer.org/news/les-inm-une-priorite-pour-laccompagnement-la-fondation-mederic-alzheimer-enrichit-son-guide-pratique-dedie/)
 - [Reuben DB, et al. Dementia Prevention and Treatment: A Narrative Review. JAMA Intern Med. 2024.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2815813)
 - [HAS. Maladie d'Alzheimer et maladies apparentées : prise en charge des troubles du comportement perturbateurs. 2009.](https://www.has-sante.fr/jcms/c_819667/fr/maladie-d-alzheimer-et-maladies-apparentees-prise-en-charge-des-troubles-du-comportement-perturbateurs)

@@ -186,6 +186,8 @@ Le dépistage organisé du cancer du col de l'utérus est recommandé pour toute
 - À partir de 30 ans: frottis cervico-vaginal tous les 5 ans avec test HPV-HR (haut risque)  
   3 ans après le dernier test cytologique, donc en théorie 32 ans.
 
+> Les invitations aux dépistages organisés du col et du sein peuvent être réédités sur Amelipro (Patientèle médecin traitant > onglet Prévention).
+
 **Cotation du frottis:** G + JKHD001 (12,73 €)
 
 Rappel des conditions pour le frottis: délai d'au moins 48 heures après un rapport sexuel, hors menstruations, sans gel ou traitement local.

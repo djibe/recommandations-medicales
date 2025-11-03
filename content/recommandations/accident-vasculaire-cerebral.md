@@ -392,6 +392,8 @@ graph TB
 
 ### Bibliographie en attente
 
+- [HAS. Accident vasculaire cérébral : prise en charge précoce. 2025.](https://www.has-sante.fr/jcms/c_830203/fr/accident-vasculaire-cerebral-prise-en-charge-precoce-alerte-phase-prehospitaliere-phase-hospitaliere-initiale-indications-de-la-thrombolyse-intraveineuse-et-de-la-thrombectomie-mecanique)
+- [HAS. Parcours de santé -- Accident vasculaire cérébral de l'adulte. 2025.](https://www.has-sante.fr/jcms/p_3445524/fr/parcours-de-sante-accident-vasculaire-cerebral-de-l-adulte)
 - [Bushnell C, et al. 2024 Guideline for the Primary Prevention of Stroke: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2024.](https://www.ahajournals.org/doi/10.1161/STR.0000000000000475)
 - [Dziewas R, et al. European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia. European Stroke Journal. 2021.](https://journals.sagepub.com/doi/10.1177/23969873211039721)
 - [Quinn TJ, et al. European Stroke Organisation and European Academy of Neurology joint guidelines on post-stroke cognitive impairment. European Stroke Journal. 2021.](https://journals.sagepub.com/doi/full/10.1177/23969873211042192)

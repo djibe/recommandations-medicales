@@ -17,7 +17,7 @@ sctid = "449826002"
 icd10 = ["N47"]
 image = false
 imageSrc = ""
-todo = "sources"
+todo = "seo, sources"
 flowchart = true
 +++
 
@@ -106,6 +106,8 @@ Signes et symptômes du phimosis chez l'adulte et chez l'enfant.
 
 Interrogatoire sur les [infections sexuelles](/tags/ist/) et [urinaires]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}), les traitements déjà réalisés.
 
+Traitements à risque: iSGLT2.
+
 Définir si le phimosis est physiologique persistant ou secondaire.
 
 {{% /collapse %}}
@@ -170,6 +172,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ljungberg C, et al. Risk of Phimosis Associated With SGLT2i Versus GLP-1RA: A Danish Cohort Study. Diabetes Care. 2025.](https://diabetesjournals.org/care/article/48/10/1774/163054/Risk-of-Phimosis-Associated-With-SGLT2i-Versus-GLP)
 - [Moreno G, et al. Topical corticosteroids for treating phimosis in boys. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008973.pub3/full/fr)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pathologies courantes de la région inguino-scrotale et du pénis. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/pathologies)
 - Dr Biserte CHRU Lille (Urologie 2008, JPP 2009)

@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr F. MENEGAUX (AFCE)"
 date = "2023-02-23T15:48:55+01:00"
 publishdate = "2023-03-06"
-lastmod = "2023-07-04"
+lastmod = "2025-11-03"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["SFE", "AFCE", "SFMN"]
@@ -24,10 +24,10 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Les nodules thyroïdiens sont le plus souvent bénins et évoluent peu (11 à 29% ont grossi à 5 ans)
+- Les nodules thyroïdiens sont le plus souvent bénins et évoluent peu (11 à 29 % ont grossi à 5 ans)
 - Rechercher des antécédents thyroïdiens familiaux et personnels (irradiation cervicale, génétiques NEM2, PAF ...) et des complications (douleurs, dysphonie, dysphagie, dyspnée)
-- Le bilan initial d'un nodule thyroïdien comporte une TSH seule
-- Indications à l'échographie de la thyroïde: nodule palpable, gênant ou compressif, incidentalome en imagerie. Elle donne le score EU-TIRADS
+- Le bilan initial d'un nodule thyroïdien comprend une TSH seule
+- Indications à l'échographie de la thyroïde pour nodule: nodule palpable, gênant ou compressif, incidentalome en imagerie. Elle donne le score EU-TIRADS
 - Recommandations pour le recours à la cytoponction: adénopathie cervicale suspecte, EU-TIRADS 5 > 10 mm, EU-TIRADS 4 > 15 mm, EU-TIRADS 3 > 20 mm. Elle donne le score de Bethesda
 - Surveillance des nodules thyroïdiens EU-TIRADS 2-3-4 ou Bethesda II: échographie à 1-2 ans puis 2-4 ans plus tard puis tous les 4-5 ans
 - La prise en charge du nodule thyroïdien chez l'enfant et pendant la grossesse relève du spécialiste (TSH et échographie systématiques)
