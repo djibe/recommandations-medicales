@@ -2,30 +2,30 @@
 id = "0190e8b9-5bf3-7c42-9348-81c338eddf72"
 title = "Acromégalie"
 prefix = "l'"
-description = "Recommandations pour le diagnostic et la prise en charge de l'acromégalie. IRM hypophysaire, IGF-1, syndrome dysmorphique, adresser en centre de compétence HYPO"
+description = "Recommandations pour le diagnostic et la prise en charge de l'acromégalie. Syndrome dysmorphique, dosage de l'IGF-1 et avis du centre de compétence HYPO"
 synonyms = ["Tumeur hypophysaire somatotrope"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-16T11:43:00+02:00"
 publishdate = "2022-05-16"
-lastmod = "2023-08-31"
+lastmod = "2025-11-04"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["Pituitary", "PNDS"]
-tags = ["céphalées", "risque cardiovasculaire", "sueurs nocturnes"]
+tags = ["céphalées", "diabète", "risque cardiovasculaire", "sueurs nocturnes"]
 english = ["Acromegaly"]
 sctid = "74107003"
 icd10 = ["E22.0"]
 image = true
 imageSrc = "Acromégale avec nez élargi et épaissi, pommettes saillantes, front bombé, lèvres épaisses et accentuations des lignes du visage. Photo de Philippe Chanson et Sylvie Salenave, CC BY 2.0, via Wikimedia Commons"
-todo = "rankok | relecture HYPO demandée"
+todo = "rankok | relecture HYPO en cours"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
 - L'acromégalie correspond aux manifestations induites par une sécrétion endogène excessive d'hormone de croissance (GH)
-- Suspecter une acromégalie en cas de: changement de taille de bague, de pointure de chaussures, de syndrome dysmorphique ... ou de complications: [syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}}), [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
-- Adresser les cas suspects d'acromégalie au centre de compétence ou de référence HYPO ([annuaire des centres](https://www.firendo.fr/annuaire-des-membres-de-la-filiere))
+- Suspecter une acromégalie en cas de: changement de taille de bague, de pointure de chaussures, de syndrome dysmorphique (prognathisme, nez épaissi, macroglossie) ... ou de complications: [syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}}), [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [diabète](/tags/diabete/)
+- Le bilan de l'acromégalie débute par le dosage de l'IGF-1 en ville. En cas de valeur élevée, adresser au centre de compétence ou de référence HYPO ([annuaire des centres](https://www.firendo.fr/annuaire-des-membres-de-la-filiere))
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -37,11 +37,14 @@ Acromégalie
 
 ### Abréviations
 
+GH
+: hormone de croissance ({{%lang%}}Growth Hormone{{%/lang%}})
+
 HYPO
 : Centre de référence des maladies rares de l'hypophyse
 
 IGF-1
-: {{%lang%}}insulin-like growth factor-1{{%/lang%}} ou somatomédine C
+: {{%lang%}}insulin-like growth factor-1{{%/lang%}}, facteur de croissance 1 ressemblant à l’insuline ou somatomédine C
 
 PNDS
 : protocole national de diagnostic et de soins
@@ -50,11 +53,10 @@ PNDS
 {{% /collapse %}}
 {{%collapse "Clinique de l'acromégalie" %}}
 
-Le diagnostic d'acromégalie est souvent retardé (environ 5 ans) du fait de l'apparition progressive des signes et symptômes.
+Le diagnostic d'acromégalie est souvent retardé (environ 5 ans) du fait de l'**apparition progressive des signes et symptômes**.
 
 Adresser au [centre de compétence ou de référence HYPO](https://www.firendo.fr/annuaire-des-membres-de-la-filiere) en cas de suspicion d'acromégalie:
 
-- Antécédents familiaux d'acromégalie
 - **Syndrome dysmorphique**
   - Augmentation de taille des mains et pieds (bagues, chaussures)
   - Faciès caractéristique  
@@ -72,25 +74,27 @@ Adresser au [centre de compétence ou de référence HYPO](https://www.firendo.f
   - Arthralgies
 - Complications de la maladie
   - Ostéo-articulaires: arthropathies, fractures vertébrales
-  - Cardiovasculaires: [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) (30%), [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}})
-  - Pneumologique: [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) (47-87%)
+  - Cardiovasculaires: [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) (30 %), [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}})
+  - Pneumologique: ronflements, [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) (47-87 %)
   - Dentaires avec déchaussements
-  - Métaboliques avec prédiabète ou [diabète]({{% relref "diabete-type-2.md" %}}) (20-35%)
-  - Endocriniens: [hypothyroïdie]({{% relref "hypothyroidie.md" %}}), [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}), spanioménorrhée
-  - Autres: [nodules thyroïdiens]({{% relref "nodule-thyroidien.md" %}}) et cancers, polypes coliques (27-55%) et [cancer colorectal]({{% relref "cancer-colorectal.md" %}}) (risque élevé, x 2-3)
+  - Métaboliques avec prédiabète ou [diabète]({{% relref "diabete-type-2.md" %}}) (20-35 %)
+  - Endocriniens: [hypothyroïdie]({{% relref "hypothyroidie.md" %}}), [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}), troubles du cycle ou [infertilité]({{% relref "infertilite-couple.md" %}}), aménorrhée
+  - Autres: [nodules thyroïdiens]({{% relref "nodule-thyroidien.md" %}}) et cancers, polypes coliques (27-55 %) et [cancer colorectal]({{% relref "cancer-colorectal.md" %}}) (risque élevé, x 2-3)
 - Risque cardiovasculaire: calcul du {{< scores/heartscore >}}
+- Antécédents familiaux d'acromégalie (rares)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Le bilan complémentaire d'une découverte d'acromégalie relève du centre spécialisé des maladies rares de l'hypophyse
-{.alert .alert-info}
+Bilan initial de la suspicion d'acromégalie: ==**dosage de l'IGF-1**== (sans jeûne, à tout moment de la journée).
+
+Si l'IGF-1 est élevée (normes du laboratoire), adresser au centre de référence ou de compétence HYPO ([annuaire](https://fr.ap-hm.fr/site/defhy)).
 
 ### Pour en savoir plus: le diagnostic biologique d'acromégalie
 
-Le diagnostic d'acromégalie est biologique: IGF-1 élevée et GH non freinée lors de l'hyperglycémie provoquée par voie orale. Les autres axes hypophysaires sont également étudiés afin de détecter une autre anomalie.
+Le diagnostic d'acromégalie est biologique: **IGF-1 élevée** et **GH** non freinée lors de l'hyperglycémie provoquée par voie orale. Les autres axes hypophysaires sont également étudiés afin de détecter une autre anomalie.
 
-L'**IRM hypophysaire** retrouve souvent une tumeur.
+L'**IRM hypophysaire** retrouve souvent la tumeur sécrétrice.
 
 Étude du **champ visuel** lors d'un macroadénome.
 
@@ -103,7 +107,7 @@ L'**IRM hypophysaire** retrouve souvent une tumeur.
 {{% /collapse %}}
 {{%collapse "Traitement de l'acromégalie" %}}
 
-La prise en charge de l'acromégalie dépend du centre de référence ou de compétence HYPO et le suivi doit être annuel ([annuaire des centres](https://www.firendo.fr/annuaire-des-membres-de-la-filiere)).
+La prise en charge de l'acromégalie dépend du centre de référence ou de compétence HYPO et le suivi doit être annuel ([annuaire des centres](https://fr.ap-hm.fr/site/defhy)).
 {.alert .alert-info}
 
 Recommandations générales pour la prise en charge de l'acromégalie:
@@ -113,7 +117,7 @@ Recommandations générales pour la prise en charge de l'acromégalie:
 - Lutte contre le [risque cardiovasculaire](/tags/risque-cardiovasculaire/)
 - Selon l'atteinte: dossier MDPH
 - Information du patient:
-  - [Guide Orphanet (PDF)](https://www.orpha.net/pdfs/data/patho/Pub/fr/Acromegalie-FRfrPub408v01.pdf)
+  - [Guide HYPO](https://fr.ap-hm.fr/site/defhy/espace-patient) et [guide Orphanet (PDF)](https://www.orpha.net/pdfs/data/patho/Pub/fr/Acromegalie-FRfrPub408v01.pdf)
   - Programmes d'éducation thérapeutique au sein des centres de référence
 - Association de patients: [Acromégales Pas Seulement](https://www.acromegalie-asso.org)
 - Déclarer une [ALD 31]({{% relref "affection-longue-duree.md" %}}) acromégalie
@@ -129,9 +133,10 @@ Attendre un an de traitement avant toute prise en charge **maxillo-faciale**.
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une acromégalie" "show" %}}
 
-{{< mermaid title="Prise en charge d'une suspicion d'acromégalie. Dr JB Fron d'après HYPO 2021" >}}
+{{< mermaid title="Prise en charge d'une suspicion d'acromégalie. Dr JB Fron d'après PNDS" >}}
 graph TB
-  suspicion["Quand suspecter<br>une acromégalie ?"] --> clinique("<b>Clinique</b><br>—<br>- Antécédent familial<br>- Changement de bague, pointure<br>- Faciès caractéristique<br>- Enfant: accélération de la<br>vitesse de croissance<br>- Autres: sueurs, fatigue,<br>canal carpien, arthralgies<br>- Complications: céphalées,<br>troubles visuels, HTA,<br>apnées du sommeil") --> centre("Adresser au centre<br>de compétence HYPO")
+  suspicion["Quand suspecter<br>une acromégalie ?"] --> clinique("<b>Clinique</b><br>—<br>- Changement de bague, de pointure<br>- Faciès caractéristique<br>(prognathe, nez épaissi,<br>épaississement des rides,<br>macroglossie)<br>- Enfant: accélération de la<br>vitesse de croissance<br>- Autres: sueurs, fatigue,<br>canal carpien, arthralgies<br>- Complications: céphalées,<br>troubles visuels, HTA, diabète,<br>ronflements, apnées du sommeil<br>- Aménorrhée,<br>dysfonction érectile") --> biologie(Dosage IGF-1) -- "Élevé" --> centre("Adresser au centre<br>de compétence HYPO")
+    biologie -- Normal --> autre("- Autre diagnostic<br>- Avis endocrinologique<br>si besoin")
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
