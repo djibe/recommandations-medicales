@@ -17,9 +17,9 @@ english = ["Premature ovarian insufficiency (POI)"]
 sctid = "237788002"
 icd10 = ["E28.3"]
 image = true
-imageSrc = "Illustration de la ménopause précoce (insuffisance ovarienne prématurée) par vectorjuice / Freepik"
+imageSrc = "Illustration de la ménopause précoce (insuffisance ovarienne prématurée). vectorjuice / Freepik"
 flowchart = true
-todo = "rankok, NICE TODO:, tabac, Anticorps anti-surrénaliens | ESHRE2024Fig2p5"
+todo = "rankok | ESHRE2024Fig2p5, relecture en attente de joindre"
 +++
 
 {{%article-summary%}}
@@ -78,7 +78,7 @@ IOP
 : insuffisance ovarienne prématurée (ex ménopause précoce)
 
 PNDS
-: Protocole National de Diagnostic et de Soins
+: protocole national de diagnostic et de soins
 
 THS
 : traitement hormonal substitutif
@@ -112,11 +112,11 @@ Liste des causes pouvant être à l'origine de la ménopause précoce:
 {{%collapse "Clinique" %}}
 
 > [!INFO]
-> Le diagnostic de l'insuffisance ovarienne prématurée doit être réalisé sans tarder pour introduire le traitement hormonal substitutif (THS) et prévenir les complications, notamment **cardiovasculaires**.
+> Le diagnostic d'insuffisance ovarienne prématurée doit être réalisé sans tarder pour introduire le traitement hormonal substitutif (THS) et prévenir les complications, notamment **cardiovasculaires**.
 
 Le critère diagnostique clinique d'insuffisance ovarienne prématurée (IOP) est un **trouble des cycles** (aménorrhée ou cycles irréguliers) persistant au moins 4 mois avant 40 ans.
 
-Le diagnostic est clinique en cas d'ovariectomie bilatérale avant 40 ans.
+Le diagnostic est clinique en cas d'**ovariectomie bilatérale** avant 40 ans.
 
 ### Interrogatoire
 
@@ -144,12 +144,12 @@ Signes et symptômes de ménopause précoce à rechercher avant 40 ans:
 - Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 L'aménorrhée peut être révélée après l'arrêt d'une [contraception œstroprogestative]({{% relref "contraception.md" %}}).  
-L'*infertilité* est le plus souvent définitive mais pas toujours (4 à 10% de grossesses spontanées).
+L'**infertilité** est le plus souvent définitive mais pas toujours (4 à 10 % de grossesses spontanées).
 
 ### Examen clinique
 
 - Pression artérielle, fréquence cardiaque
-- Rechercher des signes de maladies auto-immunes
+- Rechercher des signes de maladies auto-immunes: palpation cervicale, examen cutané et articulaire
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -158,14 +158,13 @@ Le critère diagnostique biologique d'insuffisance ovarienne prématurée est un
 
 ### Bilan de la ménopause précoce
 
-En première intention, bêta-HCG seule avec bilan complémentaire si négative.
+En première intention, bêta-HCG avec bilan complémentaire si négative.
 {.alert .alert-info}
 
-En cas de β-hCG négatifs:
+**Bilan en cas de β-hCG négatifs:**
 
-FSH, TSH  
-\+ ferritine (voir [hémochromatose]({{% relref "hemochromatose.md" %}}))
-{.alert .alert-info}
+- FSH, TSH  
+- Ferritine (voir [hémochromatose]({{% relref "hemochromatose.md" %}}))
 
 Précisions sur le bilan hormonal:
 
@@ -201,9 +200,9 @@ Ostéodensitométrie au diagnostic puis tous les 5 ans pour évaluer la perte os
 {{%collapse "Traitement de la ménopause précoce" %}}
 
 > [!INFO]
-> Le traitement hormonal substitutif (THS) utilisé pour la ménopause précoce (spontanée, non iatrogène) n'augmente pas le risque de [cancer du sein]({{% relref "cancer-sein.md" %}}). (56 à 79% des patientes le croient -- *PNDS 2021*)
+> Le traitement hormonal substitutif (THS) utilisé pour la ménopause précoce (spontanée, non iatrogène) n'augmente pas le risque de [cancer du sein]({{% relref "cancer-sein.md" %}}). (56 à 79 % des patientes le croient -- *PNDS 2021*)
 
-Prise en charge de l'insuffisance ovarienne prématurée (IOP ou ménopause précoce) dans un [Centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/):
+Recommandations pour la prise en charge de l'insuffisance ovarienne prématurée (IOP ou ménopause précoce) dans un [Centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/):
 
 - Traitement hormonal substitutif (THS) jusqu'à au moins 51 ans
   - Par [contraceptif estroprogestatif]({{% relref "contraception.md" %}}) en continu
@@ -216,16 +215,16 @@ Prise en charge de l'insuffisance ovarienne prématurée (IOP ou ménopause pré
 - Aborder la [contraception]({{% relref "contraception.md" %}}) (risque 4-6%)
 - Projet parental: suivi en AMP sans délai
 - **Mesures hygiéno-diététiques**
-  - Arrêt du tabac
+  - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
   - Activité physique régulière
   - Régime méditerranéen
   - Correction d'un surpoids
 - Soutien psychologique
 - Si origine génétique suspectée: avis génétique voire RCP pour génotype complet (Plan France Médecine Génomique), dépistage de l'entourage si confirmé
-- Si IOP non iatrogène: dépistage du cancer du sein à partir de 50 ans, informer l'entourage du risque d'IOP (évaluation de la réserve ovarienne voire cryoconcervation)
+- Si IOP non iatrogène: dépistage du cancer du sein à partir de 50 ans, informer l'entourage du risque d'IOP (évaluation de la réserve ovarienne voire cryoconservation)
 - Surveillance annuelle (voir *Suivi*)
 - Information de la patiente:
-  - étiologie (70% idiopathique ou cause retrouvée)
+  - étiologie (cause identifiée, 70 % idiopathique)
   - soutenir les projets de grossesse et rappeler le caractère anodin du THS en respectant les *Cas particuliers (ci-dessous)
   - surrisque ostéoporotique et cardiovasculaire, contrecarré par le THS
 
@@ -235,28 +234,28 @@ L'œstradiol administré par voie transdermique n'augmente pas le risque thrombo
 
 Recommandations de prise en charge spécifiques pour les femmes suivantes:
 
-- Cancer du sein ou de l'ovaire épithélial  
+- Cancer du sein ou de l'ovaire épithélial:  
   Avis spécialisé.
-- [Migraine]({{% relref "migraine.md" %}})  
-  N'est pas une contre-indication au THS au cours de l'IOP. Modifier dose, voie d'administration ou le schéma thérapeutique en cas d'aggravation.
-- [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})  
+- [Migraine]({{% relref "migraine.md" %}}):  
+  N'est pas une contre-indication au THS au cours de l'IOP. Modifier la dose, la voie d'administration ou le schéma thérapeutique en cas d'aggravation.
+- [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}):  
   N'est pas une contre-indication au THS au cours de l'IOP. Œstradiol transdermique de préférence.
 - [Maladie veineuse thromboembolique](/tags/mvte/)  
   Avis hématologique avant THS en cas d'antécédent. Si autorisé, œstradiol transdermique.
-- [Obésité]({{% relref "obesite-adulte.md" %}})  
+- [Obésité]({{% relref "obesite-adulte.md" %}}):  
   Œstradiol transdermique recommandé.
-- Fibromes  
+- Fibromes:  
   Ne sont pas une contre-indication au THS.
 
 {{% /collapse %}}
-{{%collapse "Suivi de l'insuffisance ovarienne prématurée" %}}
+{{%collapse "Suivi" %}}
 
 Suivi à vie de la femme atteinte d'insuffisance ovarienne prématurée du fait de complications multiples:
 
 - Consultation annuelle pour le THS  
   Seins, gynécologique, syndrome climatérique, tabac, poids, pression artérielle, signes d'insuffisance surrénale.
 - Psychologique
-- Avec accord de la patiente: syndrome génito-urinaire (œstrogène vaginal), activité sexelle (testostérone transdermique possible)
+- Avec accord de la patiente: syndrome génito-urinaire (œstrogène vaginal), activité sexuelle (testostérone transdermique possible)
 - Calcul du risque cardiovasculaire {{< scores/heartscore >}} voire suivi cardiologique
 - Biologie: TSH tous les 5 ans
 - Ostéodensitométrie tous les 5 ans (1-3 si valeurs limites)
@@ -264,15 +263,15 @@ Suivi à vie de la femme atteinte d'insuffisance ovarienne prématurée du fait 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la ménopause précoce" "show" %}}
 
-{{< mermaid title="Prise en charge de l'insuffisance ovarienne prématurée (ex ménopause précoce): diagnostic et traitement. Dr JB Fron d'après ESHRE 2024 et PNDS 2021" >}}
+{{< mermaid title="Prise en charge de l'insuffisance ovarienne prématurée (ex ménopause précoce): diagnostic et traitement. Dr JB Fron d'après ESHRE 2024 et PNDS" >}}
 graph TB
-  amenorrhee["Troubles des cycles ≥ 4 mois<br>(irréguliers, aménorrhée)<br>avant 40 ans"] --> hcg("Test de grossesse<br>hCG<br>—<br>ou diagnostic d'emblée si<br>ovariectomie bilatérale") -- Positif --> grossesse(Grossesse)
-  style amenorrhee stroke:#4150f5, stroke-width:1px
+  aménorrhée["Troubles des cycles ≥ 4 mois<br>(irréguliers, aménorrhée)<br>avant 40 ans"] --> hcg("Test de grossesse<br>hCG<br>—<br>ou diagnostic d'emblée si<br>ovariectomie bilatérale") -- Positif --> grossesse(Grossesse)
+  style aménorrhée stroke:#4150f5, stroke-width:1px
     hcg -- Négatif --> dosage(FSH, TSH)
       dosage --> FSHbas("FSH &lt; 25") -.-> renouveler("FSH à 6-4 semaines<br>si limite")
-      dosage --> FSHhaut("FSH &gt; 25 UI/L") --> diagnostic[Insuffisance ovarienne<br>prematurée]
+      dosage --> FSHhaut("FSH &gt; 25 UI/L") --> diagnostic[Insuffisance ovarienne<br>prématurée]
       style diagnostic stroke:#4150f5, stroke-width:1px
-      diagnostic --> complementaire("<b>Bilan complémentaire</b><br>—<br>- AMH<br>- Anti-TPO<br>- Sérologie cœliaque<br>- Anticorps anti-surrénaliens<br>- Écographie pelvienne<br>- Glycémie, bilan lipidique<br>- Ostéodensitométrie") --> spe(Centre de Référence FIRENDO) --> traitement("<b>Traitement</b><br>—<br>- THS jusqu'à ≥ 51 ans<br>et syndrome climatérique<br>- Règles hygiéno-diététiques<br>- Soutien psychologique<br>- AMP ou contraception") --> suivi("- Suivi annuel<br>- Ostéodensitométrie/5 ans")
+      diagnostic --> complémentaire("<b>Bilan complémentaire</b><br>—<br>- AMH<br>- Anti-TPO<br>- Sérologie cœliaque<br>- Anticorps anti-surrénaliens<br>- Échographie pelvienne<br>- Glycémie, bilan lipidique<br>- Ostéodensitométrie") --> spe(Centre de Référence FIRENDO) --> traitement("<b>Traitement</b><br>—<br>- THS jusqu'à ≥ 51 ans<br>et syndrome climatérique<br>- Règles hygiéno-diététiques<br>- Soutien psychologique<br>- AMP ou contraception") --> suivi("- Suivi annuel<br>- Ostéodensitométrie/5 ans")
 {{< /mermaid >}}
 
 {{% /collapse %}}

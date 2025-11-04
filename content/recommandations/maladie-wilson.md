@@ -17,7 +17,7 @@ sctid = "88518009"
 icd10 = ["E83.0"]
 image = true
 imageSrc = "Maladie de Wilson chez une femme de 25 ans de poids normal: foie d'aspect normal hyperéchogène diffus. Cas d'Henry Knipe, Radiopaedia.org, rID: 88694"
-todo = "flow"
+todo = "flow | relecture demandée crmrwilson.com"
 +++
 
 {{%article-summary%}}
@@ -218,7 +218,7 @@ Le traitement est poursuivi **à vie** et doit être débuté le plus précoceme
 La prise en charge de la maladie de Wilson relève de l'hépatologue du centre de compétence des maladies héréditaires du cuivre: [annuaire des centres de compétence](https://www.crmrwilson.com/centres-de-competences/) de la filière des maladies rares *G2M* (Groupement des Maladies Héréditaires du Métabolisme).
 {.alert .alert-info}
 
-La prise en charge de la maladie de Wilson est pluridisciplinaire (hépatologue, neurologue):
+Recommandations pour la prise en charge pluridisciplinaire (hépatologue, neurologue) de la maladie de Wilson:
 
 - Régime pauvre en cuivre les premières années  
   Éviter: fruits de mer, noix, chocolat, champignons et abats.
@@ -227,6 +227,7 @@ La prise en charge de la maladie de Wilson est pluridisciplinaire (hépatologue,
   - Fratrie, parents puis oncles/tantes et cousins germains, enfants dès 4 ans (3 ans dans *PNDS*)
   - Pas de dépistage du conjoint sauf consanguinité
 - Guide d'information du patient: [la maladie de Wilson en 60 questions (PDF)](https://www.crmrwilson.com/wp-content/uploads/2023/03/La-maladie-de-Wilson-en-60-questions_som_inter_02-FR.pdf) et [Orphanet (PDF)](http://www.orpha.net/data/patho/Pub/fr/Wilson-FRfrPub134v01.pdf)
+- Information du patient: [guide du CRMR](https://www.crmrwilson.com/maladie-wilson/)
 - Association de patients: [ABPWilson](https://www.abpmaladiewilson.fr)
 - Déclarer l'[ALD n°17]({{% relref "affection-longue-duree.md" %}})
 - Participer à la recherche: [registre Français de la maladie de Wilson](https://www.crmrwilson.com/registres/)

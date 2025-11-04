@@ -37,7 +37,7 @@ todo = "SEO, KEY urticaire aiguë, enfant, choc anaphyla, Quincke"
 {{%collapse "Définitions" %}}
 
 Urticaire
-: Dermatose inflammatoire caractérisée par les lésions papuleuses, œdémateuses prurigineuses bien limitées en petits éléments ou confluants en **larges plaques fugaces, migratrices et prurigineuses**.
+: Dermatose inflammatoire caractérisée par les lésions papuleuses, œdémateuses prurigineuses bien limitées en petits éléments ou confluents en **larges plaques fugaces, migratrices et prurigineuses**.
 : Réaction inflammatoire générée par la libération d'histamine par activation des mastocytes lors de leur rencontre avec un antigène.  
 Le plus souvent l'activation est non spécifique et donc non allergique. Rarement par IgE dirigées contre un antigène = urticaire immunologique pouvant déclencher une anaphylaxie.
 : Le plus souvent épisode unique et résolutif sans cicatrice ni lésion de grattage.

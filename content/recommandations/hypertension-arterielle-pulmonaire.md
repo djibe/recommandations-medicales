@@ -18,7 +18,7 @@ sctid = "11399002"
 icd10 = ["I27.0", "I27.2"]
 image = false
 imageSrc = ""
-todo = "WHO-FC, surveillance (aggrav signes + IRC), psycho, social, fam"
+todo = "relecture, WHO-FC, surveillance (aggrav signes + IRC), psycho, social, fam"
 flowchart = true
 +++
 
@@ -183,7 +183,6 @@ C'est le **cathétérisme cardiaque** droit qui affirme le diagnostic. Il est r�
 
 La prise en charge de l'hypertension artérielle pulmonaire (HTAP) relève uniquement du **centre de référence**. Le suivi est au moins annuel.
 
-- [ALD n°5]({{% relref "affection-longue-duree.md" %}})
 - Observance et tolérance des traitements  
   Selon le type d'HTAP: anticalciques à forte dose, anticoagulation, diurétiques, IPDE5 (sildénafil, tadalafil) ...
 - Réhabilitation cardio-respiratoire
@@ -193,8 +192,9 @@ La prise en charge de l'hypertension artérielle pulmonaire (HTAP) relève uniqu
 - Dépister des [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}})
 - Soutien psychologique
 - Vaccination: Covid, grippe, pneumocoque
-- [RespiFil - Le site de référence d'informations sur l'HTAP](https://respifil.fr/maladies/hypertension-pulmonaire/)
+- Information du patient: [guide RespiFil](https://respifil.fr/maladies/hypertension-pulmonaire/)
 - Associations de patients: [HTapFrance](http://www.htapfrance.com/new.asp), [France Assos Sante](https://www.france-assos-sante.org/)
+- Déclarer l'[ALD n°5]({{% relref "affection-longue-duree.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'hypertension artérielle pulmonaire" "show" %}}

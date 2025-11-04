@@ -8,8 +8,8 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-03-20T16:29:04+01:00"
 publishdate = "2023-03-27"
-lastmod = "2024-10-11"
-specialites = ["rhumatologie"]
+lastmod = "2025-10-04"
+specialites = ["orthopédie", "pédiatrie"]
 annees = "2022"
 sources = ["PNDS", "AAFP", "HAS"]
 tags = ["adolescent", "dépistage", "enfant"]
@@ -29,7 +29,7 @@ todo = "flowchart"
 - Bilan par radiographies du rachis complet EOS (mesure de l'angle de Cobb) en cas de gibbosité  
   Répéter tous les 6 à 12 mois à la puberté, puis tous les 5 ans.
 - Avis orthopédique pour une scoliose ≥ 15° (10° avant 10 ans) et IRM médullaire pour un angle dépassant 20° avant 10 ans
-- Surveillance rapprochée de la scoliose pendant la croissance, puis espacée à vie
+- Surveillance rapprochée de la scoliose pendant la croissance, puis espacée, à vie
 - Maintien de la kinésithérapie pour prévenir les complications
 
 {{%/article-summary%}}
@@ -185,6 +185,7 @@ Informations sur la scoliose:
 {{% /collapse %}}
 {{%sources%}}
 
+- [Société Française d'Orthopédie Pédiatrique. Le devenir des pathologies pédiatriques à l'âge adulte. 2025. ISBN 9782956835394. (PDF)](https://www.sofop.org/medias/files/textes_scientifiques/monographies/2025/Monographie-SOFOP-2025.pdf)
 - [Centre de référence des malformations vertébrales et médullaires. Déformations précoces du rachis. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3374137/fr/deformations-precoces-du-rachis)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Dépistages chez l'enfant. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/depistages-lenfant)
 - [Kuznia AL, et al. Adolescent Idiopathic Scoliosis: Common Questions and Answers. Am Fam Physician. 2020.](https://www.aafp.org/pubs/afp/issues/2020/0101/p19.html)
@@ -192,6 +193,7 @@ Informations sur la scoliose:
 - [Collège Français des Chirurgiens Orthopédistes et Traumatologues. Suivi d'un nourrisson, d'un enfant, et d'un adolescent normal. Dépistage des anomalies orthopédiques. Orthopédie Traumatologie. 3e édition. 2020. (PDF)](https://www.sofcot.fr/sites/www.sofcot.fr/files/medias/documents/CollegeOrthop%C3%A9dieTraumatologieELLIPSES%203%C3%A8me%20%C3%A9dition.pdf)
 - [HAS. Scoliose idiopathique structurale évolutive. Actes et prestations Affection de longue durée. 2018.](https://www.has-sante.fr/jcms/c_646714/fr/ald-n-26-scoliose-idiopathique-structurale-evolutive)
 - [US Preventive Services Task Force. Screening for Adolescent Idiopathic Scoliosis: US Preventive Services Task Force Recommendation Statement. JAMA. 2018.](https://jamanetwork.com/journals/jama/fullarticle/2668355)
+- [Blevins K, et al. Management of Scoliosis. Adv Pediatr. 2018.](https://www.advancesinpediatrics.com/article/S0065-3101(18)30014-8/fulltext) (payant)
 - [Negrini S, et al. Braces for idiopathic scoliosis in adolescents. Cochrane Database of Systematic Reviews. 2015.](https://www.cochrane.org/CD006850/BACK_braces-for-idiopathic-scoliosis-in-adolescents)
 - Courtois I, Ebermeyer E. Scoliose de l'enfant et de l'adolescent. La Lettre du Rhumatologue. 2010.
 - HAS. Scoliose structurale évolutive (dont l'angle est égal ou supérieur à 25°) jusqu'à maturation rachidienne. Guide Affection de longue durée. 2008.
@@ -200,8 +202,6 @@ Informations sur la scoliose:
 
 ### Bibliographie en attente
 
-- [Société Française d'Orthopédie Pédiatrique. Le devenir des pathologies pédiatriques à l'âge adulte. 2025. ISBN 9782956835394. (PDF)](https://www.sofop.org/medias/files/textes_scientifiques/monographies/2025/Monographie-SOFOP-2025.pdf)
-- [International Society on Scoliosis Orthopaedic and Rehabilitation Treatment (SOSORT)](https://www.sosort.org)
-- [Blevins K, et al. Management of Scoliosis. Adv Pediatr. 2018.](https://www.advancesinpediatrics.com/article/S0065-3101(18)30014-8/fulltext) (payant)
+[International Society on Scoliosis Orthopaedic and Rehabilitation Treatment (SOSORT)](https://www.sosort.org)
 
 {{%/sources%}}
