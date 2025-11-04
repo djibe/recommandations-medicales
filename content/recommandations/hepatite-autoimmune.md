@@ -17,14 +17,14 @@ sctid = "408335007"
 icd10 = ["K75.4"]
 image = true
 imageSrc = "Hépatite auto-immune affirmée suite à la biopsie hépatique révélant une hépatite d'interface lymphoplasmocytaire. Nephron, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "flow"
+todo = "flow | relecture demandée cmr.mivbh"
 +++
 
 {{%article-summary%}}
 
-- L'hépatite auto-immune (HAI) est rare, possible à tout âge et principalement chez les femmes
+- L'hépatite auto-immune (HAI) est rare, possible à tout âge et touche particulièrement les femmes
 - Elle doit être recherchée devant toute cytolyse chronique non virale
-- Elle est pauci-symptomatique: fatigue, inconfort abdominal, arthralgies ...
+- Elle est pauci-symptomatique: fatigue, inconfort abdominal, arthralgies, prurit, ictère
 - Le bilan diagnostique initial de l'hépatite auto-immune comprend: bilan hépatique et du cuivre, TP, sérologies des hépatites, électrophorèse des protéines et dosage des IgG, anticorps anti-nucléaires et anti-muscle lisse, sérologie cœliaque, échographie abdominale
 - Adresser avec le bilan au gastro-entérologue d'un centre de compétence de prise en charge de l'hépatite auto-immune ([annuaire des centres de compétence](https://www.filfoie.com/ou-consulter/carte-interactive/?fwp_type_de_public=adulte&fwp_rseau_centre=mivb-h)). La ponction-biopsie hépatique est systématique
 - Le traitement initial de l'hépatite autoimmune est une corticothérapie relayée par l'azathioprine à vie
@@ -137,12 +137,12 @@ La prise en charge de l'hépatite auto-immune relève de l'hépatologue du centr
 
 L'objectif du traitement de l'hépatite auto-immune est d'obtenir une rémission biochimique (normalisation des ALAT et IgG) et histologique complète.
 
-Mesures générales de prise en charge de l'hépatite autoimmune:
+Recommandations générales pour la prise en charge de l'hépatite autoimmune:
 
 - Suivi spécialisé régulier (minimum semestriel)
 - Vaccins: Covid-19, grippe, pneumocoque, VHA, VHB et rappel dTPolio tous les 10 ans
 - Information du patient: [guide AFEF](https://afef.asso.fr/hepatite-auto-immune/)
-- Association de patients: [albi France](https://albi-france.org) et [association maladies foie enfants (AMFE)](https://www.amfe.fr)
+- Association de patients: [albi France](https://albi-france.org), [association maladies foie enfants (AMFE)](https://www.amfe.fr)
 - Déclarer l'[ALD n°6]({{% relref "affection-longue-duree.md" %}}) en cas de cirrhose ou syndrome de chevauchement ou une **ALD 31** à défaut
 
 ### Pour en savoir plus: les traitements de l'hépatite auto-immune

@@ -17,7 +17,7 @@ sctid = "74107003"
 icd10 = ["E22.0"]
 image = true
 imageSrc = "Acromégale avec nez élargi et épaissi, pommettes saillantes, front bombé, lèvres épaisses et accentuations des lignes du visage. Photo de Philippe Chanson et Sylvie Salenave, CC BY 2.0, via Wikimedia Commons"
-todo = "rankok | relecture demandée"
+todo = "rankok | relecture HYPO demandée"
 flowchart = true
 +++
 
@@ -25,7 +25,7 @@ flowchart = true
 
 - L'acromégalie correspond aux manifestations induites par une sécrétion endogène excessive d'hormone de croissance (GH)
 - Suspecter une acromégalie en cas de: changement de taille de bague, de pointure de chaussures, de syndrome dysmorphique ... ou de complications: [syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}}), [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
-- Adresser les cas suspects d'acromégalie au centre de compétence ou de référence HYPO ([annuaire des centres](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/carte/document/))
+- Adresser les cas suspects d'acromégalie au centre de compétence ou de référence HYPO ([annuaire des centres](https://www.firendo.fr/annuaire-des-membres-de-la-filiere))
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -52,7 +52,7 @@ PNDS
 
 Le diagnostic d'acromégalie est souvent retardé (environ 5 ans) du fait de l'apparition progressive des signes et symptômes.
 
-Adresser au [centre de compétence ou de référence HYPO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/carte/document/) en cas de suspicion d'acromégalie:
+Adresser au [centre de compétence ou de référence HYPO](https://www.firendo.fr/annuaire-des-membres-de-la-filiere) en cas de suspicion d'acromégalie:
 
 - Antécédents familiaux d'acromégalie
 - **Syndrome dysmorphique**
@@ -103,8 +103,10 @@ L'**IRM hypophysaire** retrouve souvent une tumeur.
 {{% /collapse %}}
 {{%collapse "Traitement de l'acromégalie" %}}
 
-La prise en charge de l'acromégalie dépend du centre spécialisé et le suivi doit être annuel.
+La prise en charge de l'acromégalie dépend du centre de référence ou de compétence HYPO et le suivi doit être annuel ([annuaire des centres](https://www.firendo.fr/annuaire-des-membres-de-la-filiere)).
 {.alert .alert-info}
+
+Recommandations générales pour la prise en charge de l'acromégalie:
 
 - Prise en charge spécialisée des complications
 - Soutien psychologique

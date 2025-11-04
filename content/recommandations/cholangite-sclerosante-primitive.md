@@ -18,7 +18,7 @@ sctid = "197441003"
 icd10 = ["K83.0"]
 image = true
 imageSrc = "Diagnostic de cholangite sclérosante primitive (CSP) sur des images typiques de cholangio-IRM 3D. Cas de Mohammad A. ElBeialy, Radiopaedia.org, rID: 46719"
-todo = "rankok | relecture"
+todo = "rankok | relecture MIVB-H demandée"
 flowchart = true
 +++
 
@@ -178,10 +178,9 @@ La **coloscopie** est systématique car 2/3 des patients présentent une maladie
 La prise en charge de la cholangite sclérosante primitive est spécialisée par le gastro-entérologue: [annuaire des centres de compétence](https://www.filfoie.com/ou-consulter/carte-interactive/?fwp_type_de_public=adulte&fwp_rseau_centre=mivb-h) de la filière des maladies rares *Filfoie*.
 {.alert .alert-info}
 
-Mesures générales de prise en charge de la cholangite sclérosante primitive (CSP):
+Recommandations générales de prise en charge de la cholangite sclérosante primitive (CSP):
 
-- Déclarer l'[ALD n°6]({{% relref "affection-longue-duree.md" %}})
-- Hépatoprotection
+- **Hépatoprotection**
   - Arrêt du tabac et de l'alcool
   - Correction d'un surpoids
   - Contrôle des médicaments hépatotoxiques
@@ -192,9 +191,11 @@ Mesures générales de prise en charge de la cholangite sclérosante primitive (
   - Dépistage hypothyroïdie, dépression, anémie, maladie auto-immune
   - Activité physique, éviter l'isolement social
 - Grossesse: elle n'est pas contre-indiquée en l'absence de cirrhose avec HTP, préparée avec les spécialistes
+- Information du patient: [guide SNFGE](https://www.snfge.org/grand-public/maladies-digestives/cholangite-sclerosante-primitive), [guide albi](https://albi-france.org/csp/cholangite-sclerosante-primitive-csp/)
 - Association de patients: [albi France](https://albi-france.org)
 - {{< references/compare >}}
 - Si syndrome de chevauchement: corticothérapie
+- Déclarer l'[ALD n°6]({{% relref "affection-longue-duree.md" %}})
 
 Autres traitements possibles: endoscopies biliaires, études (bézafibrate, acide nor-ursodésoxycholique).
 
@@ -207,7 +208,7 @@ La transplantation hépatique est le seul traitement efficace mais ses indicatio
 - Cholestase majeure avec ictère chronique: hyperbilirubinémie ≥ 80 µmol/L
 - Angiocholites à répétition
 
-La survie est bonne (91% à 1 an et 85% à 5 ans) mais les récidives sont fréquentes (20-30 %).
+La survie est bonne (91 % à 1 an et 85 % à 5 ans) mais les récidives sont fréquentes (20-30 %).
 
 {{% /collapse %}}
 {{%collapse "Suivi" %}}

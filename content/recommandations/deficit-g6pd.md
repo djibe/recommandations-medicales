@@ -18,7 +18,7 @@ sctid = "62403005"
 icd10 = ["D55.0"]
 image = true
 imageSrc = "Illustration du déficit en G6PD par macrovector / Freepik"
-todo = "rankok | relecture demandée"
+todo = "rankok | relecture demandée GALACTEROS F"
 datatable = true
 flowchart = true
 +++
@@ -129,6 +129,8 @@ Toutes les chimioprophylaxies antipaludiques disponibles en France sont possible
 
 {{% /collapse %}}
 {{%collapse "Traitement du déficit en G6PD" %}}
+
+Recommandations pour la prise en charge du déficit en G6PD:
 
 - Signaler le déficit à tout médecin
 - [Carte de déficit en G6PD](https://docs.google.com/forms/d/e/1FAIpQLSc6cF8E4i2j1jxGUqUwRaqu4E_gzP-qnX3spfBwfNq9tgAPEw/viewform?c=0&w=1)  

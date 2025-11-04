@@ -18,7 +18,7 @@ sctid = "40956001"
 icd10 = ["G61.0"]
 image = false
 imageSrc = ""
-todo = "photo > flow | relecture Filnemus"
+todo = "photo > flow | rankok | relecture Filnemus demandée"
 +++
 
 {{%article-summary%}}
@@ -54,6 +54,9 @@ EMG
 
 ENMG
 : électroneuromyogramme (ou EMG)
+
+Filnemus
+: Filière de santé maladies rares : maladies neuromusculaires
 
 IgIV
 : immunoglobulines polyvalentes intraveineuses
@@ -252,9 +255,11 @@ IRM ou échographie nerveuse pour les cas atypiques.
 > [!WARNING]
 > La prise en charge de toute suspicion de syndrome de Guillain-Barré est urgente, avec appel du SAMU en cas de signe de gravité à l'examen (trouble de déglutition, défaillance respiratoire ...). De préférence dans un centre des maladies neuromusculaires rares ([annuaire](https://www.filnemus.fr/la-filiere-de-sante-filnemus/acteurs/nos-centres)).
 
-### Pour en savoir plus: les traitements de la polyradiculonévrite aiguë inflammatoire
+### Pour en savoir plus: les traitements du syndrome de Guillain-Barré
 
 #### Mesures générales
+
+Recommandations sur les mesures générales de prise en charge du syndrome de Guillain-Barré:
 
 - Monitoring des fonctions vitales durant la phase d'extension (respiratoire +++)
 - Douleurs: nociceptives et/ou neuropathiques selon les recommandations (gabapentinoïdes, antidépresseurs tricycliques voire carbamazépine en 2e intention)
@@ -272,7 +277,7 @@ IRM ou échographie nerveuse pour les cas atypiques.
 
 Le traitement doit être débuté le plus rapidement possible (2 premières semaines de la phase d'extension).
 
-Pas de préférence pour les **échanges plasmatiques** ou les **immunoglobulines polyvalentes intraveineuses** (IgIV), mais sont exclusifs.
+Pas de préférence pour les **échanges plasmatiques** ou les **immunoglobulines polyvalentes intraveineuses** (IgIV), mais ils sont exclusifs.
 
 - Immunoglobulines polyvalentes intraveineuses (IgIV) 0,4 g/kg pendant 5 jours
 - Échange plasmatique total de 12-15 litres en 4-5 échanges sur 1-2 semaines

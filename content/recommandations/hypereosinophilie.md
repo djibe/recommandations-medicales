@@ -18,7 +18,7 @@ sctid = "386789004"
 icd10 = ["D72.1"]
 image = true
 imageSrc = "Frottis sanguin avec un éosinophile. Echinaceapallida, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "flow CMIT ?"
+todo = "flow CMIT ? | relecture CEREO demandée"
 flowchart = true
 +++
 
@@ -26,9 +26,9 @@ flowchart = true
 
 - L'éosinophilie est un compte de polynucléaires éosinophiles de 500 à 1500/mm³ (confirmer l'hémogramme); on parle d'hyperéosinophilie au-delà
 - Les causes principales d'éosinophilie sont atopiques et parasitaires (helminthes ++)
-- Examen clinique rigoureux pour l'orientation étiologique du tableau d'hyperéosinophilie. Urgence médicale en cas de défaillance viscérale
-- Bilan de l'hyperéosinophilie en l'absence d'orientation: NFS répétées, CRP, frottis sanguin, bilan hépatique et rénal, bilan parasitaire, sérologies (voir *[Examens complémentaires](#examens-complémentaires)*)
-- Orienter vers le spécialiste selon le bilan ou traitement antiparasitaire d'épreuve en l'absence d'orientation
+- L'examen clinique est rigoureux pour l'orientation étiologique du tableau d'hyperéosinophilie. Urgence médicale en cas de défaillance viscérale
+- Le bilan est omis en cas d'éosinophilie avec atopie franche (asthme, dermatite atopique) sans autre point d'appel. Dans les autres cas, il est réalisé après traitement parasitaire d'épreuve et comprend: NFS répétées, CRP, frottis sanguin, bilan hépatique et rénal, bilan parasitaire, sérologies (voir *[Examens complémentaires](#examens-complémentaires)*)
+- En cas de persistance d'une éosinophilie non expliquée, adresser au spécialiste (hématologue, interniste)
 - Avis du Centre de Référence systématique en cas d'hyperéosinophilie persistante ([annuaire](https://www.cereo.fr/website/reseau_eosinophile_&710&1732720681092952015.html))
 
 {{%/article-summary%}}
@@ -81,12 +81,14 @@ SHE
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Orientation étiologique devant une hyperéosinophilie" %}}
+{{%collapse "Étiologie" %}}
 
 > [!INFO]
-> Principales étiologies à évoquer devant une éosinophilie: parasitose, atopie, syndrome d'hypersensibilité médicamenteuse (iatrogénie) et cancer.
+> Principales étiologies à évoquer devant une éosinophilie: **parasitose**, **atopie**, syndrome d'hypersensibilité médicamenteuse (iatrogénie) et cancer.
 
 ### Étiologie des éosinophilies et hyperéosinophilies
+
+Orientation étiologique devant une hyperéosinophilie:
 
 - Nouveau-né de 6-8 semaines: hyperéosinophilie physiologique transitoire
 - **Parasitoses**
@@ -162,14 +164,14 @@ SHE
 - Œdèmes
 - Aires ganglionnaires
 
-AEG, fièvre et manifestations viscérales sont très évocatrices d'une infection parasitaire.
+AEG, fièvre et manifestations viscérales sont très évocatrices d'une **infection parasitaire**.
 
-Avis spécialisés en cas d'atteinte d'organe spécifique (pneumologue, dermatologue ...).
+Avis spécialisés en cas d'**atteinte d'organe** spécifique (pneumologue, dermatologue ...).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Avis spécialisé (hématologue, interniste) en cas d'hyperéosinophilie persistante sans orientation médicamenteuse ou parasitaire.
+Avis spécialisé (hématologue, interniste) en cas d'hyperéosinophilie persistante sans orientation atopique, médicamenteuse ou parasitaire.
 {.alert .alert-info}
 
 ### Bilan d'une hyperéosinophilie et d'une éosinophilie
@@ -191,7 +193,7 @@ Avis spécialisé (hématologue, interniste) en cas d'hyperéosinophilie persist
   - NT-proBNP, ECG, échodoppler cardiaque
 - Bilans selon certains profils:
   - Séjour en Afrique sub-saharienne: examen parasitologique des urines
-  - Séjour tropical: IgE totales, sérologies filariose, bilharziose, strongyloïdose
+  - Séjour tropical: IgE totales et sérologies filariose, bilharziose, [strongyloïdose]({{% relref "strongyloidose-anguillulose.md" %}})
   - Séjour ou originaire Japon, Caraïbes, Afrique sub-saharienne: sérologie HTLV1 (*PNDS*)
   - Tableau atopique ou HE: bilan allergologique
   - Selon le tableau: ANCA
@@ -215,7 +217,7 @@ En l'absence d'orientation probante, un **traitement d'épreuve antihelminthe** 
 
 > -- *PNDS 2022*
 
-**NB.** La strongyloïdose (ou anguillulose -- helminthe) n'est que très peu sensible à l'albendazole, seule l'ivermectine est efficace.
+**NB.** La strongyloïdose (ou [anguillulose]({{% relref "strongyloidose-anguillulose.md" %}})) n'est que très peu sensible à l'albendazole, seule l'ivermectine est efficace.
 
 Si l'éosinophilie persiste malgré le traitement d'épreuve, adresser toute éosinophilie persistante dans un Centre de Référence des syndromes hyperéosinophiliques (CEREO, [annuaire](https://www.cereo.fr/website/reseau_eosinophile_&710&1732720681092952015.html)) pour la suite de la prise en charge.
 {.alert .alert-warning}
@@ -231,6 +233,7 @@ Le généraliste peut s'assurer du suivi minimal d'une hyperéosinophilie qui co
 - Environ 2 consultations spécialisées par an
 - Surveillance biologique avec hémogramme trimestriel
 - Autres examens ciblés
+- Information du patient: [guide CEREO](https://www.cereo.fr/website/questions_reponses_&400&3.html)
 
 Traitements spécifiques des syndromes hyperéosinophiliques:
 
@@ -240,11 +243,11 @@ Traitements spécifiques des syndromes hyperéosinophiliques:
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une hyperéosinophilie" "show" %}}
 
-{{< mermaid title="Conduite à tenir et prise en charge devant la découverte d'une éosinophilie ou d'une hyperéosinophilie. Dr JB Fron d'après PNDS 2022 et CEMI" >}}
+{{< mermaid title="Conduite à tenir et prise en charge devant la découverte d'une éosinophilie ou d'une hyperéosinophilie. Dr JB Fron d'après PNDS et CEMI" >}}
 graph TB
-  éosinophilie["<b>Éosinophilie</b><br>—<br>= PNE 500-1500<br>Hyperéosinophilie si &gt; 1500"] --> clinique(Examen clinique) --> orientation(Orientation ?)
+  éosinophilie["<b>Éosinophilie</b><br>—<br>= PNE 500-1500<br>Hyperéosinophilie si &gt; 1500"] --> clinique(Examen clinique) --> orientation("Orientation ?<br>- Atopie<br>- Médicament")
   style éosinophilie stroke:#4150f5, stroke-width:1px
-    orientation -- Non --> bilan("<b>Bilan</b><br>—<br>- NFS multiples<br>- Frottis, CRP<br>- Iono, créatinine<br>- BH, TP, TCA<br>- CPK, LDH<br>- Sérologies VIH, toxocarose,<br>distomatose<br>- Parasitaire des selles<br>- ± Bilan orientés<br>sérologies, allergo, ANCA")
+    orientation -- "Non ou<br>&gt; 1500" --> bilan("<b>Bilan</b><br>—<br>- NFS multiples<br>- Frottis, CRP<br>- Iono, créatinine<br>- BH, TP, TCA<br>- CPK, LDH<br>- Sérologies VIH, toxocarose,<br>distomatose<br>- Parasitaire des selles<br>- ± Bilan orientés<br>sérologies, allergo, ANCA")
       bilan -- Normal --> antiparasitaire("Antiparasitaire d'épreuve:<br>- Albendazole ou flubendazole<br>- Si anneaux: praziquantel<br>- Si HE: albendazole 10-15 mg/kg/j") -- "PNE &lt; 500" --> résolution(Guérison)
         antiparasitaire -- Persistance --> centre("Centre de Référence<br>CEREO")
       bilan -- Évocateur --> spécialiste
@@ -259,10 +262,10 @@ graph TB
 - Société française d'hématologie (sfh). Item 218 - Éosinophilie. Hématologie Réussir son DFASM. 2021.
 - Collège National des Enseignants de Médecine Interne (CEMI). Eosinophilie. Item 23. Référentiel Collège de Médecine interne R2C. 2021.
 - [World Gastroenterology Organisation. Prise en charge de la strongyloïdose. 2018.](https://www.worldgastroenterology.org/guidelines/management-of-strongyloidiasis/management-of-strongyloidiasis-french)
+- [Filières de santé maladies rares. Les clés du diagnostic](https://drive.google.com/file/d/1rkh-EsV23tOhh0KxV1tuj65qG8SEk6gv/view)
 
 ### Bibliographie en attente
 
-- [Les clés du diagnostic](https://drive.google.com/file/d/1rkh-EsV23tOhh0KxV1tuj65qG8SEk6gv/view)
 - [International Eosinophil Society](http://www.eosinophil-society.org)
 
 {{%/sources%}}

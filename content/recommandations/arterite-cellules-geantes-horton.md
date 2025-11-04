@@ -19,7 +19,7 @@ sctid = "400130008"
 icd10 = ["M31.6"]
 image = true
 imageSrc = "Cellules géantes sur une biopsie de l'artère temporale (BAT) signant une artérite à cellules géantes (ou maladie de Horton). Nephron, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "rankok | flow PNDSp13/50, relecture faite"
+todo = "rankok | flow PNDSp13/50"
 +++
 
 {{%article-summary%}}
@@ -164,7 +164,7 @@ Adresser au spécialiste (rhumatologue, interniste) en urgence pour confirmation
 
 ### Biopsie de l'artère temporale (BAT)
 
-La **biopsie de l'artère temporale** est l'examen de référence pour affirmer le diagnostic d'artérite à cellules géantes (maladie de Horton). La sensibilité est toutefois limitée (60-80 %).
+La **biopsie de l'artère temporale** est l'examen de référence pour affirmer le diagnostic d'artérite à cellules géantes (ACG ou maladie de Horton). La sensibilité est toutefois limitée (60-80 %).
 
 La biopsie de l'artère temporale (BAT) est réalisée sous anesthésie locale en ambulatoire par le spécialiste. Elle reste interprétable au moins 2 semaines après l'initiation de la corticothérapie.
 
@@ -190,6 +190,8 @@ La prise en charge de la maladie de Horton relève du spécialiste de centre de 
 
 ### Prise en charge de la maladie de Horton
 
+Recommandations pour la prise en charge de la maladie de Horton (artérite à cellules géantes):
+
 - **Corticothérapie** forte dose urgente  
   - Immédiate en cas de signes visuels, débutée en cas de signes céphaliques avec CRP > 10 mg/L, arrêtée sous 12 mois
   - Prednisone 40-80 mg/j (0,7-1 mg/kg, max 80 mg/j)
@@ -202,7 +204,7 @@ La prise en charge de la maladie de Horton relève du spécialiste de centre de 
   - Hypertension artérielle: cible < 130/80 mmHg  
     Si tolérée chez le +65 ans, sinon 140/80 voire plus laxe après 80 ans.
 - Vaccins: [grippe]({{% relref "grippe.md" %}}), [Covid-19]({{% relref "covid-19.md" %}}), {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}}
-- Information du patient: [document France vascularites (PDF)](https://www.association-vascularites.org/images/fiches_individuelles_vascularites/fiche_ACG_v05_10_2020.pdf), [site de la FAI2R](https://www.fai2r.org/les-pathologies-rares/maladie-de-horton-pseudo-polyarthrite-rhizomelique/)
+- Information du patient: [document France vascularites (PDF)](https://www.association-vascularites.org/images/fiches_individuelles_vascularites/fiche_ACG_v05_10_2020.pdf), [guide FAI2R](https://www.fai2r.org/les-pathologies-rares/maladie-de-horton-pseudo-polyarthrite-rhizomelique/)
 - Association de patients: [France Vascularites](http://www.association-vascularites.org)
 
 ### Pour en savoir plus: Corticothérapie de la maladie de Horton

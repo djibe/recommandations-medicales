@@ -43,7 +43,7 @@ La *classification de Rome IV* distingue 2 grands syndromes dyspeptiques:
 
 1. Syndrome de douleur épigastrique (EPS)  
 {{%class%}}Indépendant des repas ou soulagé par le repas.{{%/class%}}
-1. Syndrome de détresse post-prandial (PDS)  
+2. Syndrome de détresse post-prandial (PDS)  
 {{%class%}}Symptômes déclenchés par les repas.{{%/class%}}
 
 ### Étiologie de la dyspepsie
@@ -72,10 +72,10 @@ TCA
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Signes d'alarme" %}}
+{{%collapse "Signes de gravité" %}}
 
 {{%danger%}}
-Signes de gravité en cas de dyspepsie:
+Signes d'alarme en cas de dyspepsie:
 
 - Âge +50 ans
 - Amaigrissement
@@ -87,7 +87,14 @@ Signes de gravité en cas de dyspepsie:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Le bilan d'une dyspepsie est ciblé selon le terrain et les symptômes.
+Le bilan d'une dyspepsie est ciblé selon le terrain et les symptômes:
+
+- Signe d'alarme (AEG, anémie, dysphagie, odynophagie): endoscopie œso-gastro-duodénale (EOGD)
+- Avant 50 ans (sauf indication à la fibroscopie): sérologie *Helicobacter pylori* ou test respiratoire
+- Après 50 ans: EOGD
+- Antécédent familial ou personnel de cancer digestif: EOGD
+- Sérologie cœliaque: IgA anti-transglutaminase et IgA totales (*ESsCD*, *ESPGHAN*)  
+  À tout âge sauf sauf indication à la fibroscopie.
 
 ### Endoscopie œso-gastro-duodénale (EOGD)
 
@@ -98,26 +105,14 @@ Indications à la fibroscopie gastrique:
 - Avant 50 ans en cas de résistance au traitement médical
 - Antécédent familial ou personnel de cancer digestif
 
-### Recherche d'*Helicobacter pylori*
-
-Avant 50 ans en première intention (sauf indication à la fibroscopie): sérologie *Helicobacter pylori* ou test respiratoire.
-
-Alternative: inhibiteur de la pompe à protons (IPP) simple dose pendant 4 à 8 semaines.
-
-### Sérologie cœliaque
-
-La recherche de maladie cœliaque est indiquée à tout âge (*ESsCD*, *ESPGHAN*):
-
-IgA anti-transglutaminase et IgA totales
-
 ### Imagerie abdominale
 
-L'imagerie est réalisée lorsque les symptômes sont résistants au traitement médical: échographie abdominale voire scanner ou IRM thoraco-abdominal.
+L'imagerie est réalisée lorsque les symptômes sont résistants au traitement médical: **échographie abdominale** voire scanner ou IRM thoraco-abdominal.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la dyspepsie" %}}
 
-La prise en charge de la dyspepsie comprend:
+Recommandations pour la prise en charge de la dyspepsie:
 
 - À partir de 50 ans: traitement guidé par les résultats de la fibroscopie gastrique
 - Avant 50 ans:
@@ -128,9 +123,9 @@ La prise en charge de la dyspepsie comprend:
   - Éviter les aliments gras (ralentissement de la vidange gastrique)
   - Éviction des aliments identifiés comme gênants
   - Test d'éviction séquentiel des aliments acides (duodénum), épicés (intestins), hypercaloriques ou riches en fibres
-- Éradication d'*[Helicobacter pylori]({{% relref "helicobacter-pylori.md" %}})* si positif
+- Si test *[Helicobacter pylori]({{% relref "helicobacter-pylori.md" %}})* positif: éradication
 
-### Pour en savoir plus - Autres traitements possibles de la dyspepsie
+### Pour en savoir plus - Autres traitements de la dyspepsie
 
 Autres traitements de la dyspepsie, sur avis spécialisé uniquement:
 
@@ -147,9 +142,9 @@ Autres traitements de la dyspepsie, sur avis spécialisé uniquement:
 {{% /collapse %}}
 {{%collapse "Prise en charge de la dyspepsie" "show" %}}
 
-{{< mermaid title="Conduite à tenir et prise en charge d'une dyspepsie. Dr JB Fron d'après SNFGE 2019" >}}
+{{< mermaid title="Conduite à tenir et prise en charge d'une dyspepsie. Dr JB Fron d'après SNFGE" >}}
 graph TB
-  Dyspepsie --> gravité("- Signes d'alarme ?<br>- Âge ≥ 50 ans ?")
+  Dyspepsie --> gravité("- Signes d'alarme ?<br>- Âge ≥ 50 ans ?<br>- Antécédent familial ou personnel<br>de cancer digestif ?")
       gravité -- Non --> bilan("- Glycémie à jeun<br>- Troubles des conduites alimentaires<br>- Recherche Helicobacter<br>et maladie cœliaque")
         bilan --> traitement("- Éviter les aliments gras<br>- IPP simple dose 4-8 semaines")
           traitement -. Échec .-> EOGD
