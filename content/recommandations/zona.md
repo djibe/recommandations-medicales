@@ -67,6 +67,14 @@ VZV
 : virus varicelle-zona
 {.dl-inline}
 
+### Épidémiologie du zona
+
+- Incidence annuelle: 5 à 10 cas pour 1000 personnes de +60 ans (Vaccination Info Service)
+- Efficacité du vaccin: 87,7 à 89,8 %
+- Nombre de personnes à vacciner pour éviter 1 cas de zona: 34 (*CNGE*)
+- Nombre de personnes à vacciner pour éviter une névralgie post-zostérienne: 293 (*CNGE*)
+- Soit 110.385 € pour éviter une névralgie post-zostérienne
+
 {{% /collapse %}}
 {{%collapse "Complications du zona" %}}
 
@@ -138,11 +146,13 @@ Ulcérations pseudo-membraneuses et vésicules de l'hémilangue.
 > Shingrix 2 injections IM espacées de 2 mois.
 {.alert .alert-info}
 
-La vaccination zona est recommandée chez les **+65** immunocompétents (y compris en cas d'antécédents de zona, de Zostavax > 1 an) avec 2 injections à M0-M2.
+La vaccination zona est recommandée chez les **+18 ans avec déficit immunitaire** et **+65** immunocompétents (y compris en cas d'antécédents de zona, de Zostavax > 1 an) avec 2 injections à M0-M2.
 
 Le *GOLD 2022* propose aussi de vacciner en cas de [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}).
 
 **Contre-indication:** hypersensibilité.
+
+En cas de zona, décaler l'injection: << La vaccination doit être différée en cas de maladie aiguë avec fièvre. >> (*Vaccination Info Service*)
 
 ### Vaccination post-exposition du zona
 
@@ -258,6 +268,7 @@ Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{% rel
 {{%sources%}}
 
 - [CNGE. Le vaccin Zona Shingrix® chez la personne âgée immunocompétente ≥ 70 ans. 2025. (PDF)](https://www.cnge.fr/wp-content/uploads/2025/06/250609-Vaccin_Zona.pdf)
+- [Vaccination Info Service. Zona. 29/04/2025.](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Zona)
 - {{< references/calendrier-vaccinal >}}
 - [de Oliveira Gomes J, et al. Vaccines for preventing herpes zoster in older adults. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008858.pub5/full/fr)
 - [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-168.pdf)
