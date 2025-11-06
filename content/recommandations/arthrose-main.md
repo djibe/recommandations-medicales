@@ -7,17 +7,17 @@ synonyms = ["Arthrose digitale"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-10-17T19:06:41+02:00"
 publishdate = "2025-10-19"
-lastmod = "2025-10-19"
+lastmod = "2025-11-06"
 specialites = ["rhumatologie"]
-annees = "2018"
-sources = ["EULAR"]
+annees = "2025"
+sources = ["SFR", "EULAR"]
 tags = []
 english = ["Hand osteoarthritis"]
 sctid = "22193007"
 icd10 = ["M19.94", "M19", "M19.9"]
 image = true
 imageSrc = "Arthrose des mains principalement interphalangienne chez une femme de 80 ans: pincement des interlignes et ostéophytose. Cas de Frank Gaillard, Radiopaedia.org, rID: 7546"
-todo = "flow | relecture Latourte A"
+todo = "flow | relecture à demander alice.courties"
 +++
 
 {{%article-summary%}}
@@ -38,6 +38,9 @@ Arthrose des mains
 
 EULAR
 : {{%lang%}}European League Against Rhumatism{{%/lang%}}
+
+SFR
+: Société Française de Rhumatologie
 {.dl-inline}
 
 {{% /collapse %}}
@@ -83,31 +86,32 @@ L'objectif du traitement est de contrôler les **symptômes** (douleur, raideur)
 Recommandations pour la prise en charge de l'arthrose des mains:
 
 - Antalgie des poussées douloureuses:
-  - Application de chaleur ou glaçage
-  - Essayer le paracétamol (efficacité moindre)
-  - Anti-inflammatoires ==**AINS topiques**==: [diclofénac 1% gel](https://base-donnees-publique.medicaments.gouv.fr/medicament/66284708/extrait#tab-rcp) x 4/j pendant 3 à 8 semaines
-  - AINS oraux en cure courte: ibuprofène (dose et durée minimales recherchées)
+  - Application de chaleur
+  - Essayer le paracétamol  
+    Durée limitée, efficacité moindre.
+  - Anti-inflammatoires ==**AINS topiques**==: [diclofénac 1% gel](https://base-donnees-publique.medicaments.gouv.fr/medicament/66284708/extrait#tab-rcp) x 4/j pendant 3 à 8 semaines (0,5 % dans les études)
+  - AINS oraux en cure courte: ibuprofène
 - Pourrait être utilisée: [chondroïtine sulfate 800 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/67370850/extrait#tab-rcp) x 1/j
 - Si rhizarthrose (arthrose du pouce): **orthèse rigide sur mesure** de repos au long cours (au moins 3 mois)
 - Si arthrose digitale: proposer des orthèses de repos
 - Kinésithérapie, conseils d'ergonomie, exercices et assouplissements des doigts
 - Ergothérapeute
 - Soutien psychologique
-- ± APA, MDPH
+- ± Mesures sociales: APA, MDPH
 - Information du patient: [guide SFR arthrose](https://public.larhumatologie.fr/grandes-maladies/arthrose/)
 - Association de patients: [AFLAR](https://www.aflar.org)
 
-Les corticoïdes oraux (prednisolone 10 mg) à faible dose peuvent être envisagées pour les poussées inflammatoires polyarticulaires. Les **injections de corticoïdes** pourraient être considérées en cas de poussée d'arthrose interphalangienne (arthrose digitale).
+Les **corticoïdes** oraux (prednisolone 10 mg) à faible dose peuvent être envisagées pour les poussées inflammatoires polyarticulaires. Les **injections de corticoïdes** pourraient être considérées en cas de poussée d'arthrose interphalangienne (arthrose digitale).
 
 > [!WARNING]
-> Ne pas utiliser: médicaments anti-rhumatismaux (méthotrexate, biothérapie, colchicine, hydroxychloroquine ...), ondes électromagnétiques, laser, acupuncture, bandes adhésives de contention.
+> Ne pas utiliser: opioïdes, médicaments anti-rhumatismaux (méthotrexate, biothérapie, colchicine, hydroxychloroquine ...), ondes électromagnétiques, laser, acupuncture (bénéfices annexes possibles), bandes de kinésiologie.
 
 {{% /collapse %}}
 {{%sources%}}
 
 {{< card-link-external title="Recommandations SFR-SOFMER sur l'arthrose des mains" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/198969481" image="podcast" >}}
 
-- [SFR, SOFMER. Traitements de l'arthrose des mains. 2024.](https://rhumatos.fr/traitements-de-larthrose-des-mains-les-recommandations-de-la-sfr/#:~:text=Les%20anti%2Dinflammatoires%20non%20st%C3%A9ro%C3%AFdiens%20(AINS)%20topiques%20sont%20recommand%C3%A9s,%C3%A0%208%20semaines%20(10))
+- [Courties A, et al. French Societies of Rheumatology and of Physical and Rehabilitation Medicine recommendations for the Management of people living with Hand Osteoarthritis. Joint Bone Spine. 2025.](https://www.sciencedirect.com/science/article/pii/S1297319X25001629)
 - [NICE. Osteoarthritis in over 16s: diagnosis and management. NICE guideline. 2022.](https://www.nice.org.uk/guidance/ng226)
 - [Richette P, Latourte A. L'arthrose digitale [Hand Osteoarthritis]. Rev Prat. 2021.](https://www.larevuedupraticien.fr/article/larthrose-digitale) (payant)
 - [Kloppenburg M, et al. 2018 update of the EULAR recommendations for the management of hand osteoarthritis. Ann Rheum Dis. 2019.](https://ard.eular.org/article/S0003-4967(24)00820-3/abstract)
