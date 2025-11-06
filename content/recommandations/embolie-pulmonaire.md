@@ -2,6 +2,7 @@
 id = "0190e8c1-fdc3-7ab2-9bc0-3b94d1e910ae"
 title = "Embolie pulmonaire (EP)"
 prefix = "l'"
+noindex = true
 description = "Recommandations pour la prise en charge d'une suspicion d'embolie pulmonaire au cabinet. Score de Wells ou Genève, règle PERC, durée des anticoagulants AOD ..."
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-18T20:16:00+02:00"
@@ -13,7 +14,7 @@ sources = ["SFC", "SPLF"]
 tags = ["anticoagulant", "dyspnée", "MVTE"]
 english = ["Pulmonary embolism"]
 sctid = "59282003"
-icd10 = ["I26", "I26.9"]
+icd10 = []
 image = true
 imageWEBP = true
 imageSrc = "Embolie segmentaire par scientificanimations.com, CC BY-SA 4.0"
@@ -23,7 +24,7 @@ todo = "Figure 11, def des signes, p.21, flowchart duree, def cancer actif"
 
 {{%article-summary%}}
 
-*En voie de finalisation. La durée de traitement est manquante*
+***Fiche de qualité insuffisante***
 
 - Évoquer une embolie pulmonaire (EP) devant: dyspnée, douleur thoracique ou malaise non expliqué par un autre diagnostic
 - Signes de gravité de l'embolie pulmonaire: hypotension artérielle, état de choc, détresse respiratoire. Appel du SAMU
