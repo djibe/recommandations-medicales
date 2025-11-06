@@ -183,7 +183,7 @@ Examen en urgence dans un centre expert en cas de symptômes compressifs ou d'é
 
 #### Cytoponction guidée par échographie d'un nodule thyroïdien
 
-Indications à la cytoponction échoguidée:
+Indications à la cytoponction échoguidée (radiologue):
 
 1. Adénopathie cervicale suspecte  
   Ponction du nodule et du ganglion et dosage de la thyroglobuline ou calcitonine sur le liquide de rinçage.

@@ -17,7 +17,7 @@ sctid = "22193007"
 icd10 = ["M19.94", "M19", "M19.9"]
 image = true
 imageSrc = "Arthrose des mains principalement interphalangienne chez une femme de 80 ans: pincement des interlignes et ostéophytose. Cas de Frank Gaillard, Radiopaedia.org, rID: 7546"
-todo = "flow | relecture à demander alice.courties"
+todo = "flow | relecture demandée alice.courties"
 +++
 
 {{%article-summary%}}
