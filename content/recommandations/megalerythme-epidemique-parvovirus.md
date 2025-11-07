@@ -11,13 +11,13 @@ lastmod = "2025-04-23"
 specialites = ["infectiologie", "pédiatrie"]
 annees = "2021"
 sources = ["CNPU"]
-tags = ["adolescent", "enfant", "eruption febrile"]
+tags = ["adolescent", "enfant", "éruption fébrile"]
 english = ["Erythema infectiosum", "parvovirus B19 infection", "Fifth disease"]
 sctid = "34730008"
 icd10 = ["B08.3"]
 image = true
 imageSrc = "Aspect souffleté des joues chez l'enfant en phase éruptive d'un mégalérythème épidémique ou cinquième maladie (infection à parvovirus B19). Gzzz, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "rankok | flow | https://www.cdc.gov/parvovirus-b19/about/parvovirus-b19-in-pregnancy.html"
+todo = "rankok | flow, relecture Chavigny JM demandée | https://www.cdc.gov/parvovirus-b19/about/parvovirus-b19-in-pregnancy.html"
 +++
 
 {{%article-summary%}}
@@ -31,7 +31,7 @@ todo = "rankok | flow | https://www.cdc.gov/parvovirus-b19/about/parvovirus-b19-
 {{%collapse "Définition" %}}
 
 Mégalérythème épidémique (ou cinquième maladie)
-: Infection à parvovirus B19, survenant à l'âge scolaire (5 à 14 ans) par épidémies familiales ou scolaires. La transmission est respiratoire directe et l'immunité est durable. Le réservoir est strictement humain.
+: Infection à parvovirus B19, survenant à l'âge scolaire (5 à 14 ans) par épidémies familiales ou scolaires. La transmission est respiratoire directe et l'immunité est durable (ou sanguine par transfusion). Le réservoir est strictement humain.
 : Les complications surviennent chez les femmes enceintes non immunisées et chez les enfants atteints d'hémolyse chronique (drépanocytose, sphérocytose, thalassémie) avec une anémie aiguë érythroblastopénique.
 
 ### Abréviation
@@ -43,25 +43,26 @@ CNPU
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Signes et symptômes pour le **diagnostic clinique** du mégalérythème épidémique (ou infection à parvovirus B19).
+L'infection à parvovirus B19 est souvent peu symptomatique ou asymptomatique.
 
 ### Interrogatoire
 
-L'incubation du parvovirus B19 dure de 6 à 14 jours.
+L'incubation dure de **4 à 21 jours**. Le diagnostic de mégalérythème épidémique (ou infection à parvovirus B19) est **clinique**:
 
 - Enfant et adolescent (5 à 14 ans)
 - Antécédents: hémolyse chronique (drépanocytose, sphérocytose, thalassémie), immunodépression
 - Traitements
 - Notion d'épidémie scolaire ou familiale
 - Femme enceinte dans l'entourage
-- Phase d'invasion (2 jours):
-  - **Fièvre** modérée, état général conservé
-  - Céphalées, myalgies
-- Phase éruptive érythémateuse: 2 semaines après le contage
+- Symptômes à la phase d'invasion (2 jours):
+  - **Syndrome pseudo-grippal**: fièvre modérée, céphalées, myalgies
+  - État général conservé
+  - Risque d'anémie chez les sujets atteints de pathologie de l'hémoglobine ou immunodéprimés
+- Symptômes à la phase éruptive érythémateuse: 2 semaines après le contage
   - Fièvre modérée
-  - **Exanthème maculopapuleux** puis macules légèrement œdémateuses << en guirlande >>, débutant aux **joues** (aspect << souffleté >> en << paire de gifles >>), s'atténuant en quelques jours
+  - **Exanthème maculopapuleux** puis macules légèrement œdémateuses << en guirlande >>, débutant aux **joues** (aspect << souffleté >> en **<< paire de gifles >>**), s'atténuant en quelques jours
   - Avec une extension au tronc et aux extrémités (aspect réticulé en << carte de géographie >>) avec fluctuations sur 1 à 3 semaines
-  - Autres éruptions possibles: érythème polymorphe, éruption en << gants et chaussettes >>
+  - Autres éruptions possibles: érythème polymorphe, purpura symétrique en << gants et chaussettes >>
   - Signes associés: arthralgies, arthrites (rares)
 
 ### Examen clinique
@@ -86,6 +87,7 @@ Indications à la **PCR sanguine** avec **sérologie parvovirus B19 IgM et IgG u
 
 - Contact avec une femme enceinte
 - Enfant avec anémie hémolytique chronique
+- Immunodépression
 
 ### Conduite à tenir pendant la grossesse selon les résultats de la sérologie
 
@@ -93,7 +95,7 @@ Indications à la **PCR sanguine** avec **sérologie parvovirus B19 IgM et IgG u
 - Si IgG+ et IgM-: immunité ancienne, rassurer
 - Si séroconversion (IgM+) ou en l'absence de sérologies post-contage fiables: échographie fœtale tous les 15 jours pendant 12 semaines
 
-> -- *CFEF 2024* et *SOGC 2014*
+> -- *CFEF 2024* et *SOGC*
 
 {{% /collapse %}}
 {{%collapse "Traitement du mégalérythème épidémique (parvovirus B19)" %}}
@@ -101,9 +103,9 @@ Indications à la **PCR sanguine** avec **sérologie parvovirus B19 IgM et IgG u
 La prise en charge du mégalérythème épidémique (infection à parvovirus B19) est **symptomatique**:
 
 - **Antipyrexie**: paracétamol
-- **Éviction du contact des personnes à risque**: femmes enceintes non immunisées et enfants avec anémie hémolytique
+- **Éviction du contact des personnes à risque**: femmes enceintes non immunisées et enfants avec anémie hémolytique ou immunodépression
 - Pas d'éviction scolaire obligatoire
-- Information des parents: [guide CRATB](https://medqual.fr/images/GP/POP_PARTICULIERES/NOURRISSONS_ENFANTS/2022-MEGALERYTHEME-EPIDEMIQUE-ENFANT.pdf) (PDF)
+- Information des parents: [guide Dermato-Info](https://dermato-info.fr/tout-savoir-sur-le-parvovirus-b19)
 
 Chez l'enfant avec hémolyse chronique déclarant une **anémie mal tolérée**, la transfusion sanguine est une urgence médicale.
 {.alert .alert-warning}
@@ -112,10 +114,12 @@ Chez l'enfant avec hémolyse chronique déclarant une **anémie mal tolérée**,
 {{%sources%}}
 
 - [Collège Français d'Échographie Fœtale (CFEF). Épidémie parvovirus B19 2024. 2024. (PDF)](https://www.cfef.org/EPIDEMIE_PARVOVIRUS_B19_CFEF_LJSdocx.pdf)
+- [CRATB. Le mégalérythème épidémique chez l'enfant. 2022. (PDF)](https://medqual.fr/images/GP/POP_PARTICULIERES/NOURRISSONS_ENFANTS/2022-MEGALERYTHEME-EPIDEMIQUE-ENFANT.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Éruptions fébriles. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/eruptions-febriles)
 - [Barbarot S, et al; SFP. Éruptions fébriles. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/dermatologie/eruptions-febriles)
 - Collège des enseignants de dermatologie de France (CEDEF). Exanthème et érythrodermie de l'enfant et l'adulte. 2017.
 - [Crane J, et al. Infection à parvovirus B19 pendant la grossesse. Directive clinique de la SOGC. 2014. (PDF)](https://www.jogc.com/article/S1701-2163(16)39687-6/pdf)
+- [Chavigny JM, Ronjat L. Tout savoir sur le Parvovirus B19. Dermato-Info. 05/07/2025.](https://dermato-info.fr/les-maladies-de-la-peau/parvovirus-b19)
 
 Mot-clé: 5^e^ maladie
 
