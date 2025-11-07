@@ -19,7 +19,7 @@ icd10 = ["A53", "A53.9", "A51", "A51.9", "A52", "A52.9"]
 image = true
 imageSrc = "Chancre syphilitique de la langue signant une syphilis primaire. cdc.gov / PHIL"
 flowchart = true
-todo = "relecture demandée P. Delobel, améliorer dépistage contacts"
+todo = "rankok | améliorer dépistage contacts"
 +++
 
 {{%article-summary%}}
@@ -440,6 +440,7 @@ graph TB
 
 - [HAS, ANRS, CNS. Recommandations de prise en charge des personnes ayant une syphilis. 2025.](https://www.has-sante.fr/jcms/p_3604647/fr/recommandations-de-prise-en-charge-des-personnes-ayant-une-syphilis)
 - [US Preventive Services Task Force. Screening for Syphilis Infection During Pregnancy: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2025.](https://jamanetwork.com/journals/jama/fullarticle/2833883)
+- Prescrire Redaction. Syphilis précoce. Premiers Choix Prescrire. Rev Prescrire. 2025.
 - [Santé Publique France. VIH et IST bactériennes en France. Bilan 2023. 2024.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/vih-sida/documents/bulletin-national/vih-et-ist-bacteriennes-en-france.-bilan-2023)
 - [Service-Public. Infections sexuellement transmissibles : gratuité du dépistage en laboratoire. 02/09/2024.](https://www.service-public.fr/particuliers/actualites/A17530)
 - [Haut Conseil de la Santé Publique. Dépistage biologique de la syphilis guérie chez les donneurs de sang. 05/10/2023.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1348)
@@ -450,7 +451,7 @@ graph TB
 - [Janier M, et al. 2020 European guideline on the management of syphilis. J Eur Acad Dermatol Venereol. 2021.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16946)
 - {{< references/spilf-2020 >}}
 - Prescrire Rédaction. Syphilis Précoce. Octobre 2020.
-- [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
+- [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)
 - [SNFCP. Syphilis ano-rectale. Fiches diagnostiques. 2018.](https://www.snfcp.org/fiches-diagnostiques-2/pathologies-proctologiques-de-ladulte/fiche-diag_syphilis-ano-rectale/)
 - [Académie Nationale de Médecine. La Syphilis en France en 2016 : une situation préoccupante. 17/03/2017. (PDF)](http://www.academie-medecine.fr/wp-content/uploads/2017/03/17.3.7-JANIER-site.pdf)
 - [Janier M, et al; SFD. Syphilis précoce. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](http://www.sfdermato.org/media/pdf/recommandation/syphilis-precoce-b61913fb8de5bca222326904654c6b30.pdf)

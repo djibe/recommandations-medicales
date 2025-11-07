@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-02-03T11:27:33+01:00"
 publishdate = "2023-02-06"
-lastmod = "2023-02-06"
+lastmod = "2025-11-07"
 specialites = ["dermatologie"]
-annees = "2016"
-sources = ["SFD"]
+annees = "2024"
+sources = ["Bibliographie"]
 tags = ["adolescent", "enfant", "IST"]
 english = ["Molluscum contagiosum"]
 sctid = "40070004"
@@ -23,10 +23,10 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Les molluscums contagiosums sont bénins mais contagieux
+- Les molluscums contagiosums sont des lésions virales bénignes contagieuses
 - Ils surviennent le plus souvent chez l'enfant et régressent spontanément en 8 mois (rarement plus d'un an)
-- Prise en charge du molluscum contagiosum: mesures d'hygiène pour limiter la dissémination et le plus souvent abstention
-- Sinon avis dermatologique pour traitement des molluscums par curetage ou cryothérapie à l'azote liquide (anesthésie fréquente)
+- La prise en charge des molluscum contagiosum comprend des mesures d'hygiène pour limiter la dissémination et le plus souvent une abstention thérapeutique
+- En cas d'atteinte du visage, des lésions nombreuses ou persistantes, avis dermatologique pour le traitement des molluscums par curetage ou cryothérapie à l'azote liquide (anesthésie fréquente)
 - Une atteinte pelvienne est considérée comme une [infection sexuellement transmissible (IST)](/tags/ist/) mineure, à différencier de condylomes
 
 {{%/article-summary%}}
@@ -70,17 +70,18 @@ L'ensemble des lésions disparaît en 8 mois et dure rarement plus d'un an.
 {{% /collapse %}}
 {{%collapse "Traitement des molluscums contagiosums" %}}
 
-La prise en charge des molluscums contagiosums est essentiellement attentiste:
+Recommandations pour la prise en charge des molluscums contagiosums, essentiellement attentiste:
 
 - Éviter l'auto/hétéro-contamination  
   - Ongles courts, pas de bain partagé, vêtements et pansements couvrants
   - Linge de bain personnel, terminer par la zone contaminée et lavage quotidien
 - Abstention thérapeutique
-- Prise en charge par le dermatologue en cas de lésions étendues ou gênantes
+- Avis dermatologique en cas d'atteinte du visage, de lésions étendues ou gênantes:
   - Curetage  
     Douloureux, parfois renouvelé.
   - ou cryothérapie par azote liquide  
     Douloureuse, applications répétées, efficacité 90% à 6 semaines.
+- Information du patient: [guide Dermato-Info](https://dermato-info.fr/les-maladies-de-la-peau/molluscum-contagiosum)
 
 Une anesthésie locale est possible (crème de lidocaïne).
 
@@ -93,7 +94,7 @@ Une anesthésie locale est possible (crème de lidocaïne).
 {{% /collapse %}}
 {{% collapse "Prise en charge des molluscum contagiosum" "show" %}}
 
-{{< mermaid title="Prise en charge des molluscum contagiosum. Dr JB Fron d'après SFD 2016 et Cochrane">}}
+{{< mermaid title="Prise en charge des molluscum contagiosum. Dr JB Fron d'après SFD et Cochrane">}}
 graph TB
   molluscum["<b>Molluscum contagiosum</b><br>—<br>Papule(s) perlée rose/translucide,<br>1-5 mm, ombiliquée,<br>paumes/plantes épargnées"] --> traitement("<b>Traitement</b><br>—<br>- Abstention thérapeutique<br>guérison 2-8 mois<br>- Prévention contamination<br>- Adulte: bilan IST") -. Persistance ou extension .-> dermatologue(Curetage dermatologique)
   style molluscum stroke:#4150f5, stroke-width:1px
@@ -101,15 +102,12 @@ graph TB
 {{< /mermaid >}}
 
 {{% /collapse %}}
-{{%collapse "Information du patient" %}}
+{{%sources%}}
 
 {{< youtube id="j4pmVvJmpWM" title="Comment soigner les molluscum contagiosum ? (WhyDoc)" >}}
 
-{{% /collapse %}}
-{{%sources%}}
-
-- Prescrire Redaction. Molluscum contagiosum. Premiers Choix Prescrire. Rev Prescrire. 2019.
-- [Van der Wouden JC et al. Interventions for cutaneous molluscum contagiosum. Cochrane Database of Systematic Reviews.2017.](https://www.cochrane.org/fr/CD004767/SKIN_les-traitements-contre-le-molluscum-contagiosum-une-infection-virale-de-la-peau-courante-chez-les)
-- [Chartier C et al; Société Française de Dermatologie (SFD). M.S.T. MINEURES. Ectoparasitoses externes Molluscums contagiosums. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/mst-mineures-ectoparasitoses-externes-molluscums-contagiosums-67dc5f3c424280fc386fcc38f4bf22a0.pdf)
+- Prescrire Redaction. Molluscum contagiosum. Premiers Choix Prescrire. Rev Prescrire. 2024.
+- [Van der Wouden JC, et al. Interventions for cutaneous molluscum contagiosum. Cochrane Database of Systematic Reviews.2017.](https://www.cochrane.org/fr/CD004767/SKIN_les-traitements-contre-le-molluscum-contagiosum-une-infection-virale-de-la-peau-courante-chez-les)
+- [Chartier C, et al; Société Française de Dermatologie (SFD). M.S.T. MINEURES. Ectoparasitoses externes Molluscums contagiosums. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/mst-mineures-ectoparasitoses-externes-molluscums-contagiosums-67dc5f3c424280fc386fcc38f4bf22a0.pdf)
 
 {{%/sources%}}

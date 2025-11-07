@@ -5,7 +5,7 @@ description = "Aide à la cotation des consultations en médecine générale: co
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2025-05-08"
+lastmod = "2025-11-07"
 annees = "2025"
 sources = ["Assurance Maladie"]
 tags = []
@@ -20,13 +20,13 @@ Liste des codes pour les actes et les consultations des adultes et des enfants e
 
 ## Les nouvelles cotations en 2025
 
-- Les certificats obligatoires du nourrisson (COE) passeront à 60 € le 1er juillet
+- Les certificats obligatoires du nourrisson (COE) ne sont finalement pas passés à 60 € le 1^er^ juillet
 
 ## Les cotations de 2024 à ne pas oublier
 
 - Majoration MOP de 5 € pour les +80 ans qui ne font pas partie de la patientèle (valable en (télé)consultation ou visite)
 - La cotation RDV (30 €) est à 100 % pour le [rendez-vous de prévention]({{% relref "bilan-prevention.md" %}}) à réaliser à 18-25, 45-50, 60-65 et 70-75 ans (1 fois par tranche d'âge)
-- Le G passé à 30 € le 22 décembre (GS disparu; 23 € en Secteur 2), le COE à 54 € (60 € le 1er juillet 2025)
+- Le G passé à 30 € le 22 décembre (GS disparu; 23 € en Secteur 2), le COE à 54 €
 
 ## Les outils d'aide à la cotation du généraliste
 
@@ -200,7 +200,7 @@ L'extraction de cérumen (CAGD001) à 19,63 € n'a pas d'intérêt.
 
 ## Sources
 
-- [Ameli. Tarifs conventionnels des médecins généralistes et spécialistes. 11/03/2025.](https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/consultations-actes/tarifs/tarifs-conventionnels-medecins-generalistes-specialistes)
+- [Ameli. Tarifs conventionnels des médecins généralistes et spécialistes. 30/06/2025.](https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/consultations-actes/tarifs/tarifs-conventionnels-medecins-generalistes-specialistes)
 - [Ameli. La revalorisation des consultations et des actes.](https://www.ameli.fr/medecin/textes-reference/convention-medicale-2024-2029/grands-axes-convention-detail/mesures-attractivite-exercice-liberal/revalorisation-consultations-actes)
 - [Ameli. Tarifs des consultations : ce qui change au 1er novembre. 30/10/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/tarifs-des-consultations-ce-qui-change-au-1er-novembre)
 - [Ameli. Convention médicale 2016 et règlement arbitral 2023.](https://www.ameli.fr/hauts-de-seine/medecin/textes-reference/convention-medicale-2016)
