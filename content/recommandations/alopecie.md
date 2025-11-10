@@ -17,7 +17,7 @@ sctid = "56317004"
 icd10 = ["L65", "L65.9", "L64", "L64.9", "L63"]
 image = true
 imageSrc = "Pelade de l'homme d'âge moyen: aspect ovalaire sur cuir chevelu sain. Thirunavukkarasye-Raveendran, CC BY 4.0, via Wikimedia Commons"
-todo = "rankok"
+todo = "rankok | relecture | dermato-info"
 flowchart = true
 +++
 
@@ -145,6 +145,8 @@ Proposer un **soutien psychologique** et expliquer la physiologie de la repousse
 Des traitements locaux peuvent être essayés: [dermocorticoïdes]({{% relref "dermocorticoides.md" %}}), minoxidil 5%.
 
 Pour les formes étendues, avis dermatologique (photothérapie, PUVA ou UVB, immunosuppresseurs).
+
+Information du patient: [guide Dermato-Info](https://dermato-info.fr/les-maladies-de-la-peau/pelade).
 
 ### Traitement de l'alopécie androgénétique
 

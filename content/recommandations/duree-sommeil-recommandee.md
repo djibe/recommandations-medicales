@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-04-14T15:36:00+02:00
 publishdate = "2021-04-14"
-lastmod = "2025-03-24"
+lastmod = "2025-11-08"
 specialites = ["médecine du sommeil", "pédiatrie"]
 annees = "2016"
 sources = ["AASM"]
@@ -51,14 +51,15 @@ Un temps de sommeil souvent inférieur aux durées recommandées provoque une au
 {{% /collapse %}}
 {{%collapse "Durée recommandée de sommeil chez l'enfant" %}}
 
-{{< table title="Temps recommandés de sommeil quotidien selon l'âge de l'enfant selon *AASM 2016*" >}}
+{{< table title="Temps recommandés de sommeil quotidien selon l'âge de l'enfant selon *NSF*" >}}
 | Âge         | Temps de sommeil (/24h) |
 |:-----------:|------------------------:|
-| 4 à 12 mois | 12-16 |
-| 1 à 2 ans   | 11-14 |
-| 3 à 5 ans   | 10-13 |
-| 6 à 12 ans  | 9-12  |
-| 13 à 18 ans | 8-10  |
+| 0 à 3 mois | 11-19 |
+| 4 à 11 mois | 10-18 |
+| 1 à 2 ans   | 9-16 |
+| 3 à 5 ans   | 8-14 |
+| 6 à 13 ans  | 7-12  |
+| 14 à 18 ans | 7-11  |
 {{< /table >}}
 
 ### Bénéfices pour l'enfant d'une durée de sommeil respecté
@@ -95,5 +96,6 @@ Chez l'adolescent: risque augmenté d'automutilation, pensées suicidaires et te
 
 - [Paruthi S, et al. Consensus statement of the American Academy of Sleep Medicine on the recommended amount of sleep for healthy children: methodology and discussion. J Clin Sleep Med. 2016.](http://dx.doi.org/10.5664/jcsm.6288)
 - [Watson NF, et al. Joint consensus statement of the American Academy of Sleep Medicine and Sleep Research Society on the recommended amount of sleep for a healthy adult: methodology and discussion. J Clin Sleep Med. 2015.](http://dx.doi.org/10.5664/jcsm.4950)
+- [Hirshkowitz M, et al. National Sleep Foundation's updated sleep duration recommendations: final report. Sleep Health. 2015.](https://www.sleephealthjournal.org/article/S2352-7218(15)00160-6/abstract)
 
 {{%/sources%}}

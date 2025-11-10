@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-11-06T15:09:23+01:00"
 publishdate = "2025-11-06"
-lastmod = "2025-11-06"
+lastmod = "2025-11-10"
 specialites = ["dermatologie"]
 annees = "2025"
 sources = []
@@ -38,8 +38,11 @@ todo = "flow > Kanban"
 | [BAD Dermatology Handbook](https://cdn.bad.org.uk/uploads/2024/04/15113327/Derm_Handbook_3rd-Edition-_Nov_2020.pdf) | Fichier PDF |
 | [DermIS](https://www.dermis.net/dermisroot/fr/home/index.htm) ||
 | [DermNet NZ](https://dermnetnz.org/topics) ||
+| [Kézako du Dermato](https://www.facebook.com/groups/1096886047689333) | Facebook |
+| [L'Oréal DermAcademy](https://www.facebook.com/groups/Dermacademy/) | Facebook, internes en dermato uniquement |
 | [NHS England](https://www.e-lfh.org.uk/programmes/dermatology/) | VPN anglais nécessaire |
 | [Skin Deep](https://dftbskindeep.com/quiz/) ||
+| [Université Numérique de la Dermatologie Francophone](https://undf.net/troisieme-cycle/) ||
 | **Sites payants** ||
 | [AccessDermatologyDxRx](https://dermatology.mhmedical.com/) | Payant |
 | [British College of Dermatology](https://learning.bcd.org.uk/my/?categoryid=24) | Payant |

@@ -66,7 +66,7 @@ SNFGE
 - Riz, pâtes, semoule, tapioca
 - Pain blanc grillé, biscottes
 - Assaisonnements  
-  Vinaigre, jus de citron sans pulpe ni pépin, sel, aromates sans feuille.
+  Jus de citron sans pulpe ni pépin, sel, aromates sans feuille.
 - Bouillon en cubes ou bouillons clairs (eau de cuisson seule)
 - Fromages à pâte dure  
   Gruyère, Cantal, hollande, Tomme de Savoie ou Pyrénées.

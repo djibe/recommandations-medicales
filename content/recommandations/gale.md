@@ -159,6 +159,7 @@ Traitement antiparasitaire anti-scabieux concomitant de toute la famille et l'en
 - Brossage des ongles, ongles courts, séchage des mains avec serviettes papier jetable
 - Désinfection du linge et vêtements (voir *Information du patient*)
 - Bilan d'[IST](/tags/ist/) avec accord du patient, tracer les partenaires des 2 derniers mois
+- Information du patient: [guide Dermato-Info](https://dermato-info.fr/les-maladies-de-la-peau/gale)
 
 Le prurit nocturne doit disparaître sous 2 semaines mais le prurit peut persister 1 mois.
 

@@ -270,7 +270,7 @@ Recommandations pour la prise en charge de la varicelle:
   - Hydroxyzine ≥ 3 ans: sirop 1 mg/kg/j
 - Compléter le **Carnet de santé**  
   Notifier la varicelle à la page *Statut clinique ou immunitaire pour les maladies à prévention vaccinale*.
-- Information des parents: [mpedia](https://www.mpedia.fr/art-varicelle/?sr=895)
+- Information des parents: [mpedia](https://www.mpedia.fr/art-varicelle/?sr=895), [guide Dermato-Info](https://dermato-info.fr/les-maladies-de-la-peau/varicelle)
 
 **NB.** Aucun autre produit (talc, pommade, gel) ne doit être appliqué
 

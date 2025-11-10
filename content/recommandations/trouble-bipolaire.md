@@ -320,6 +320,7 @@ Le suivi du trouble bipolaire est au moins annuel après équilibration:
 - Observance, effets indésirables
 - Dernière consultation du psychiatre et modifications thérapeutiques
 - Contraception
+- Appli de suivi: [Bipolarité Mood Tracker](https://play.google.com/store/apps/details?id=com.bipolar_flutter_fr)
 - Si lithium: lithémie tous les 6 mois (trimestrielle la 1^re année ou fragilité, interactions, observance) avec créatinine, TSH et calcémie
 
 {{% /collapse %}}

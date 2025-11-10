@@ -96,17 +96,13 @@ Diagnostic différentiel d'un prurit de la tête:
 {{% /collapse %}}
 {{%collapse "Traitement des poux" %}}
 
-[Information du patient - Santé BD: Les poux](https://santebd.org/les-fiches-santebd/docteur-generaliste/je-me-protege-contre-les-poux)
-
 {{%info%}}
 
 - Diméticone lotion 2 applications (durée d'application selon le produit) à J1 et J7
 - Rinçage avec shampooing doux
 - Puis peignage anti-poux pendant 30 minutes
-
-Examen de tous les membres du foyer.
-
-Décontamination des linge/literie/accessoires.
+- Examen de tous les membres du foyer
+- Décontamination des linge/literie/accessoires
 {{%/info%}}
 
 La prise en charge des poux doit être systématique.
@@ -128,6 +124,7 @@ La prise en charge des poux doit être systématique.
 - << Une éviction scolaire n'est pas obligatoire pour un enfant infesté par des poux. >> (*Ameli*), sous réserve de traitement et l'absence d'[impétigo]({{% relref "infection-cutanee-bacterienne.md" %}})
 - Contrôle clinique à J12  
   Retraiter si persistance.
+- Information du patient: [guide Santé BD](https://santebd.org/les-fiches-santebd/docteur-generaliste/je-me-protege-contre-les-poux) et [guide Dermato-Info](https://dermato-info.fr/les-maladies-de-la-peau/poux)
 
 Nota bene:
 

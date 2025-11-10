@@ -207,6 +207,7 @@ Prise en charge symptomatique d'un prurit:
   Cérat de Galien, Cold Cream.
 - Antihistaminique de première génération  
   Hydroxyzine ou doxépine le soir.
+- Information du patient: [Dermato-Info](https://dermato-info.fr/les-maladies-de-la-peau/prurit-et-prurigo)
 
 Avis dermatologique pour photothérapie UVB.
 

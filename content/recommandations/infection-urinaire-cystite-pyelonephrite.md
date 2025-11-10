@@ -197,7 +197,7 @@ Prophylaxie des cystites récidivantes:
 - Mictions non retenues
 - Régularisation du transit intestinal
 - Arrêt des spermicides
-- *E. coli*: canneberge avec cible d'apports de 36 mg/j de proanthocyanidine
+- *E. coli*: canneberge avec 36 mg/j de proanthocyanidines
 - [Ménopause]({{% relref "menopause.md" %}}): œstrogènes en application locale (après avis spécialisé)
 
 {{% /collapse %}}
@@ -372,6 +372,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Laekeman G. La poudre de canneberge pour prévenir les infections urinaires récurrentes ?. Minerva. 2025.](https://minerva-ebp.be/FR/Analysis/928)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Pyélonéphrite aiguë de la femme. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/c_2722914/fr/choix-et-durees-d-antibiotherapies-pyelonephrite-aigue-de-la-femme)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Cystite aiguë simple, à risque de complication ou récidivante, de la femme. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722827/fr/choix-et-durees-d-antibiotherapies-cystite-aigue-simple-a-risque-de-complication-ou-recidivante-de-la-femme)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Femme enceinte : colonisation urinaire et cystite. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722927/fr/choix-et-durees-d-antibiotherapies-femme-enceinte-colonisation-urinaire-et-cystite)

@@ -268,6 +268,7 @@ Recommandations pour la prise en charge et le traitement de l'urticaire aiguë:
 - Remettre la liste des aliments histamino-libérateurs.
 - Anti-histaminique anti-H1 (2G = seconde génération) pendant 2 semaines.  
 En cas d'échec à 2 semaines, augmenter la posologie jusqu'à 4 fois (*EAACI/GA2LEN/EDF/WAO 2013*).
+- Information du patient: [guide Dermato-Info](https://dermato-info.fr/les-maladies-de-la-peau/urticaire)
 
 Si échec, adresser au dermatologue.
 

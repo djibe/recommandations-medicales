@@ -5,7 +5,7 @@ prefix = "l'"
 description = "Recommandations pour le diagnostic et la prise en charge de l'acromégalie. Syndrome dysmorphique, dosage de l'IGF-1 et avis du centre de compétence HYPO"
 synonyms = ["Tumeur hypophysaire somatotrope"]
 auteurs = ["Jean-Baptiste FRON"]
-relecteur = "Pr Thierry BRUE (HYPO)"
+relecteur = "Centre de référence HYPO"
 date = "2022-05-16T11:43:00+02:00"
 publishdate = "2022-05-16"
 lastmod = "2025-11-04"
@@ -18,7 +18,7 @@ sctid = "74107003"
 icd10 = ["E22.0"]
 image = true
 imageSrc = "Acromégale avec nez élargi et épaissi, pommettes saillantes, front bombé, lèvres épaisses et accentuations des lignes du visage. Photo de Philippe Chanson et Sylvie Salenave, CC BY 2.0, via Wikimedia Commons"
-todo = "rankok"
+todo = "rankok | validation faite Thierry BRUE"
 flowchart = true
 +++
 
