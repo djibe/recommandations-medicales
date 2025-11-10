@@ -109,7 +109,7 @@ Les déficits combinés en cofacteurs sont surtout génétiques.
 Le bilan d'un TCA allongé n'est réalisé qu'**en cas de TP normal** ou de TCA nettement allongé alors que le TP est légèrement diminué.
 
 - Anticoagulant circulant de type lupique
-  - Peut s'intégrer à un syndrome des anticorps anti-phospholipides (**SAPL**) primitif ou associé au lupus. Autres situations post-infectieuses (syphilis, EBV, CMV, parvovirus B12, lèpre, SARS-CoV-2).
+  - Peut s'intégrer à un syndrome des anticorps anti-phospholipides (**SAPL**) primitif ou associé au lupus. Autres situations post-infectieuses (syphilis, EBV, CMV, parvovirus B19, lèpre, SARS-CoV-2).
   - Les **ACC bénins** sont fréquemment retrouvés, sans conséquence thrombotique ou hémorragique
 - Déficit en Facteur VIII, IX, XI ou XII
   - Un TCA normal n'infirme pas un déficit en Facteur VIII ou IX. Une histoire hémorragique avec TCA allongé doit les faire doser.
