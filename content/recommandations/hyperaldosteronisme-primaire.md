@@ -8,7 +8,7 @@ synonyms = ["Syndrome de Conn"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-10-08T21:30:57+02:00"
 publishdate = "2025-10-26"
-lastmod = "2025-10-26"
+lastmod = "2025-11-09"
 specialites = ["cardiologie", "endocrinologie"]
 annees = "2025"
 sources = ["ES", "ESC"]
@@ -18,16 +18,17 @@ sctid = "190507007"
 icd10 = ["E26.0"]
 image = false
 imageSrc = ""
-todo = "photo"
+todo = "photo | relecture"
 flowchart = true
+modele = true
 +++
 
 {{%article-summary%}}
 
 - L'hyperaldostéronisme primaire est un dysfonctionnement surrénalien (adénome ou les 2/3 par hyperplasie bilatérale des surrénales) causant une rétention hydrosodée, elle-même à l'origine d'une fraction importante des hypertensions artérielles (5 à 14 %)
 - Les signes évocateurs d'hyperaldostéronisme sont l'hypertension artérielle ou l'hypokaliémie spontanée ou déclenchée par les diurétiques
-- Du fait de sa prévalence chez l'hypertendu, le bilan d'une hypertension artérielle comprend toujours le dosage des rénine, aldostérone et le calcul du rapport aldostérone / rénine (en l'absence de traitement perturbateur)
-- Le diagnostic d'hyperaldostéronisme primaire est biologique: rénine basse, aldostérone élevée et un rapport aldostérone (pmol/L) / rénine (mU/L) très élevé
+- Du fait de sa prévalence chez l'hypertendu, le bilan d'une hypertension artérielle comprend toujours le dosage des rénine, aldostérone et le calcul du rapport aldostérone / rénine
+- Le diagnostic d'hyperaldostéronisme primaire est biologique: rénine basse, aldostérone élevée et un rapport aldostérone (pmol/L) / rénine (mU/L) très élevé (avec confirmation en cas de traitement perturbateur)
 - Un bilan complémentaire peut être réalisé selon les valeurs du bilan initial: test de freinage minute à la dexaméthasone ou scanner surrénalien d'emblée (voir [Examens complémentaires](#examens-complémentaires))
 - La prise en charge de l'hyperaldostéronisme primaire peut être une chirurgie (en cas de sécrétion unilatérale) ou un traitement médical: anti-aldostérone avec titration de spironolactone, surveillance clinique (pression artérielle) et biologique (kaliémie, créatinine, rénine)
 
@@ -35,7 +36,7 @@ flowchart = true
 {{%collapse "Définition" %}}
 
 Hyperaldostéronisme primaire (ou syndrome de Conn)
-: Hyperminéralocorticisme primaire uni (adénome surrénalien 30 % ou rare corticosurrénalome malin) ou bilatéral (hyperplasie bilatérale des surrénales pour 70 %) à l'origine d'une production excessive d'aldostérone, cause fréquente d'hypertension artérielle secondaire (5-14 %), de maladies cardiovasculaires précoces (AVC x 2,6, coronaropathie x 1,8, fibrillation atriale x3,5, insuffisance cardiaque x2), de maladie rénale (protéinurie) et de troubles psychologiques.
+: Hyperminéralocorticisme primaire uni (adénome surrénalien 30 % ou rare corticosurrénalome malin) ou bilatéral (hyperplasie bilatérale des surrénales pour 70 %) à l'origine d'une production excessive d'aldostérone, cause fréquente d'hypertension artérielle secondaire (5-14 %), de maladies cardiovasculaires précoces (AVC x 2,6, coronaropathie x 1,8, fibrillation atriale x 3,5, insuffisance cardiaque x 2), de maladie rénale (protéinurie) et de troubles psychologiques.
 : La surproduction d'aldostérone entraîne une rétention sodée avec hypervolémie, hypertension artérielle (HTA) et dans les formes sévères, une hypokaliémie.
 
 ### Abréviations
@@ -78,16 +79,17 @@ L'hyperaldostéronisme primaire est largement sous-diagnostiqué et sous-traité
 - Antécédents familiaux surrénaliens
 - Traitements en cours
 - Traitements perturbateurs:
-  - Réduisent la rénine: bêta-bloquants, antihypertenseurs centraux (clonidine, méthyldopa), AINS, hormonothérapie œstroprogestative
+  - Réduisent la rénine: bêta-bloquants, antihypertenseurs centraux α2-agonistes (clonidine, méthyldopa), AINS, hormonothérapie œstroprogestative
   - Majorent la rénine: anti-aldostérone, diurétiques (dont amiloride), IEC/ARA2, iSGLT2, hormonothérapie œstroprogestative, drospirénone
-  - Réduisent l'aldostérone: IEC/ARA2, bêta-bloquants, antihypertenseurs centraux
+  - Réduisent l'aldostérone: IEC/ARA2, bêta-bloquants, antihypertenseurs centraux α2-agonistes (clonidine, méthyldopa)
   - Majorent l'aldostérone: diurétiques, anti-aldostérone, hormonothérapie œstroprogestative, drospirénone
 - Bilans biologiques antérieurs
 - Signes et symptômes d'hyperaldostéronisme primaire:
   - Hypertension artérielle
   - Hypokaliémie (< 3,7 mmol/L ++, < 1/3 des sujets) spontanée ou induite par les diurétiques: faiblesse musculaire, tétanie
 
-**NB.** Les inhibiteurs calciques et alpha-bloquants (prazosine, urapidil ...) ne perturbent pas les dosages de rénine/aldostérone.
+> [!INFO]
+> Les alpha-bloquants ([doxazosine](https://bdpm.ansm.sante.fr/medicament/65525280/extrait#tab-rcp), prazosine, [urapidil](https://bdpm.ansm.sante.fr/medicament/66933317/extrait#tab-rcp) ...), les inhibiteurs calciques non-dihydropyridine (diltiazem, vérapamil), la [moxonidine](https://bdpm.ansm.sante.fr/medicament/68782718/extrait#tab-rcp) et l'~~hydralazine~~ ne perturbent pas les dosages de rénine/aldostérone.
 
 ### Examen clinique
 
@@ -99,6 +101,9 @@ L'hyperaldostéronisme primaire est largement sous-diagnostiqué et sous-traité
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
+
+> [!INFO]
+> Les alpha-bloquants ([doxazosine](https://bdpm.ansm.sante.fr/medicament/65525280/extrait#tab-rcp), prazosine, [urapidil](https://bdpm.ansm.sante.fr/medicament/66933317/extrait#tab-rcp) ...), les inhibiteurs calciques non-dihydropyridine (diltiazem, vérapamil), la [moxonidine](https://bdpm.ansm.sante.fr/medicament/68782718/extrait#tab-rcp) et l'~~hydralazine~~ ne perturbent pas les dosages de rénine/aldostérone.
 
 ### Bilan d'une suspicion d'hyperaldostéronisme primaire
 
@@ -114,16 +119,17 @@ Bilan de dépistage de l'hyperaldostéronisme primaire chez l'hypertendu (le mat
 {{%info%}}
 Le bilan affirme le diagnostic d'hyperaldostéronisme primaire avec les valeurs suivantes:
 
-- Rénine basse (≤ 8.2 mU/L)
+- Rénine basse (≤ 8,2 mU/L)
 - Aldostérone élevée (test immunologique: ≥ 10 ng/dL soit 277 pmol/L | chromatographie: ≥ 7,5 ng/dL soit ≥ 208 pmol/L)  
   Ou normes du laboratoire.
-- Rapport aldostérone (pmol/L) / rénine (mU/L) élevé (> 70 ou > 52 en cas de chromatographie)
+- Rapport aldostérone (pmol/L) / rénine (mU/L) élevé (> 70 ou > 52 si chromatographie)
 {{%/info%}}
 
 En cas de **résultat positif:**
 
 - Diagnostic d'hyperaldostéronisme primaire
-- Si traitement perturbateur (bêta-bloquant, voir *Clinique* ...) et valeurs douteuses (aldostérone < 15 ng/dL - 415 pmol/L ou < 10 ng/dL par chromatographie): suspendre le traitement 2 semaines puis redoser
+- Si traitement à risque de faux positif (bêta-bloquant ou antihypertenseur central) **et valeurs douteuses** (aldostérone < 15 ng/dL - 415 pmol/L ou < 10 ng/dL par chromatographie): suspendre le traitement 2 semaines puis redoser  
+  Pas besoin de redoser si l'aldostéronémie est élevée.
 
 En cas de **résultat négatif:**
 
@@ -132,7 +138,7 @@ En cas de **résultat négatif:**
 - Rénine basse et aldostérone intermédiaire (5-10 ng/dL soit 138-277 pmol/L): redoser
 - Si hypokaliémie: supplémenter en potassium puis redoser
 - Si traitement anti-minéralocorticoïde (spironolactone, éplérénone), amiloride ou diurétique: suspendre le traitement 4 semaines puis redoser
-- Si traitement IEC/ARA2, anticalcique dihydropyridine (amlodipine ou autre): considérer une suspension du traitement 2 semaines puis redoser
+- Si traitement IEC/ARA2, inhibiteur calcique dihydropyridine (amlodipine ou autre): considérer une suspension du traitement 2 semaines puis redoser
 
 Recontrôler à l'avenir si le patient hypertendu développe: hypertension résistante ou d'aggravation inexpliquée, hypokaliémie spontanée ou aux diurétiques, fibrillation atriale inexpliquée (cœur sein et sans hyperthyroïdie).
 {.alert .alert-info}
@@ -219,15 +225,15 @@ Une chirurgie est indiquée chez le **patient opérable** avec hyperaldostéroni
 
 {{< mermaid title="Dépistage de l'hyperaldostéronisme primaire chez le patient hypertendu. Dr JB Fron d'après ES 2025">}}
 graph TB
-  HTA[Hypertension artérielle] --> clinique(Clinique) --> biologie("<b>Biologie</b><br>—<br>En parallèle du<br>bilan d'HTA:<br>- Rénine<br>- Aldostérone<br>- Rapport aldostérone/rénine<br>- Kaliémie") --> critères("<b>Critères diagnostiques</b><br>—<br>- <b>Rénine basse</b><br>≤ 8.2 mU/L<br>- <b>Aldostérone élevée</b><br>≥ 10 ng/dL - 277 pmol/L<br>Chromatographie: ≥ 7,5 ng/dL<br>≥ 208 pmol/L<br>- <b>Rapport aldostérone (pmol/L)<br>/rénine (mU/L)<br>élevé</b> &gt; 70<br> 52 en chromatographie<br>ou normes du labo")
-  critères -- Positif --> positif("<b>Faux positif ?</b><br>—<br>Bêtabloquant,<br>antihypertenseur central") -- Oui --> retrait("Retrait du ttt<br>2 semaines") --> biologie
+  HTA[Hypertension artérielle] --> clinique(Clinique) --> biologie("<b>Biologie</b><br>—<br>En parallèle du<br>bilan d'HTA:<br>- Rénine<br>- Aldostérone<br>- Rapport aldostérone/rénine<br>- Kaliémie") --> critères("<b>Critères diagnostiques</b><br>—<br>- <b>Rénine basse</b><br>≤ 8,2 mU/L<br>- <b>Aldostérone élevée</b><br>≥ 10 ng/dL - 277 pmol/L<br>Chromatographie: ≥ 7,5 ng/dL<br>≥ 208 pmol/L<br>- <b>Rapport aldostérone (pmol/L)<br>/rénine (mU/L)<br>élevé</b> &gt; 70<br> 52 en chromatographie<br>ou normes du labo")
+  critères -- Positif --> positif("<b>Risque faux positif ?</b><br>—<br>Bêtabloquant,<br>antihypertenseur central") -- Oui --> retrait("Retrait du ttt<br>2 semaines") --> biologie
     positif -- Non --> diagnostic("<b>Hyperaldostéronisme<br>primaire</b>") --> traitement("± Test de freinage,<br> scanner des surrénales<br> ou médicament d'emblée:<br>voir Figure suivante")
-  critères -- Négatifs --> négatif("<b>Faux négatif ?</b><br>—<br>- Hypokaliémie<br>- Médicament: spironolactone,<br>éplérénone, diurétique<br>- Autres: IEC/ARA2") -- Non --> classique("HP peu probable:<br>traitement<br>antihypertenseur<br>classique")
+  critères -- Négatifs --> négatif("<b>Risque faux négatif ?</b><br>—<br>- Hypokaliémie<br>- Médicament: spironolactone,<br>éplérénone, diurétique<br>- Autres: IEC/ARA2, <br>ICa") -- Non --> classique("HP peu probable:<br>traitement<br>antihypertenseur<br>classique")
     négatif -- Oui --> négatif2("- Corriger hypoK<br>- Arrêt ARM, éplérénone,<br>diurétiques<br>4 semaines<br>- Envisager si<br>autre ttt 2 semaines") --> biologie
 style HTA stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
-> **ARM =** antagoniste des récepteurs aux minéralocorticoïdes; **HP =** hyperaldostéronisme primaire; **HTA =** hypertension artérielle
+> **ARM =** antagoniste des récepteurs aux minéralocorticoïdes; **HP =** hyperaldostéronisme primaire; **HTA =** hypertension artérielle; **ICa =** inhibiteur calcique
 
 {{< mermaid title="Bilan complémentaire ou traitement d'emblée au diagnostic d'hyperaldostéronisme primaire. Dr JB Fron d'après ES 2025">}}
 graph TB
@@ -260,3 +266,13 @@ graph TB
 - [Collège National des Enseignants de Cardiologie (CNEC). Hypertension artérielle de l'adulte et de l'enfant. Item 224. Cardiologie 2e édition. 2022.](https://www.sfcardio.fr/publication/chapitre-04-item-224-hypertension-arterielle-de-ladulte-et-de-lenfant/)
 
 {{%/sources%}}
+{{%modele%}}
+
+Bilan au laboratoire, le matin, prélevé assis et sans restriction sodée:
+
+- Kaliémie
+- Rénine
+- Aldostérone
+- Rapport aldostérone / rénine
+
+{{%/modele%}}
