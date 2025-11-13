@@ -29,6 +29,7 @@ Le tableau ci-dessous liste tous les référentiels des Collèges de médecine d
 | Anesthésie-réanimation | CNEAR <br><span class="typography-caption">Collège National des Enseignants d'Anesthésie et de Réanimation</span> | 2020 | [lien](https://www.cnear.fr/_files/ugd/16c755_470c9901054f437a86d606b696fa7470.pdf) |
 | Cardiologie | CNEC <br><span class="typography-caption">Collège National des Enseignants de Cardiologie</span> | 2022 | [lien](https://www.sfcardio.fr/formation/dfasm/) |
 | Chirurgie pédiatrique | CNHUCP <br><span class="typography-caption">Collège national Hospitalier et Universitaire de Chirurgie pédiatrique</span> | 2016 | [lien](https://collegechirurgiepediatrique.fr/les-cours/) |
+| Dermatologie | CEDEF <br><span class="typography-caption">Collège des Enseignants de Dermatologie de France</span> | 2023 | [fiches LiSA](https://undf.net/deuxieme-cycle/) |
 | Endocrinologie | CEEDMM <br><span class="typography-caption">Collège des Enseignants d'Endocrinologie, Diabète et Maladies Métaboliques</span> | 2021 | [lien](https://www.sfendocrino.org/polycopie-des-enseignants-5eme-edition-2021/) |
 | Gastro-entérologie | CDU-HGE <br><span class="typography-caption">Collège Des Universitaires d'Hépato-GastroEntérologie</span> | 2022 | [lien](https://www.snfge.org/sites/default/files/SNFGE/Formation/dsn_cdu-hge_2022-decembre.pdf) |
 | Gériatrie | CNEG <br><span class="typography-caption">Collège National des Enseignants en Gériatrie</span> | 2014 | [lien](https://www.seformeralageriatrie.org/livregeriatriecneg) |

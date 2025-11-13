@@ -49,7 +49,7 @@ Stéatohépatite non-alcoolique (NASH)
 : ou stéatose hépatique non alcoolique ou stéatohépatite métabolique, aussi << maladie du foie gras >>.
 : en anglais {{%lang%}}Non-alcoholic steatohepatitis{{%/lang%}} (NASH)
 : Stéatose hépatique avec **inflammation lobulaire** avec une consommation d'[alcool]({{% relref "sevrage-alcool.md" %}}) inférieure 20 g/j femme et 30 g/j chez l'homme.
-: Les complications viennent du risque d'évolution vers la **cirrhose** (degré de fibrose coté de 0 à 4) et le **carcinome hépatocellulaire** (survient sur foie non cirrhotique dans ⅓ des cas). Les [troubles du sommeil](/tags/sas/) aggravent la NASH.
+: Les complications viennent du risque d'évolution vers la **cirrhose** (degré de fibrose coté de 0 à 4) et le **carcinome hépatocellulaire** (survient sur foie non cirrhotique dans 1/3 des cas). Les [troubles du sommeil](/tags/sas/) aggravent la NASH.
 
 ### Facteurs de risque de NASH
 
@@ -61,7 +61,7 @@ Les responsables de l'inflammation hépatique sont principalement les éléments
   {{%class%}}PBH si stéatose échographique car 1/4 a une fibrose significative.{{%/class%}}
 - Cytolyse chronique inexpliquée (33% ont une NASH): PBH systématique
 - [Infection VIH]({{% relref "vih-sida.md" %}}) (20-56 % de NASH)  
-  {{%class%}}PBH si ALAT > N, fibrose significative dans 1/6 à ⅓ des cas.{{%/class%}}
+  {{%class%}}PBH si ALAT > N, fibrose significative dans 1/6 à 1/3 des cas.{{%/class%}}
 
 ### Épidémiologie de la stéatopathie métabolique en France
 

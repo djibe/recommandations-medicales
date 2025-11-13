@@ -42,7 +42,7 @@ La dépression de l'enfant et la dépression récurrente seront traitées ultér
 Épisode dépressif caractérisé (terme du DSM-5)
 : Dépression, ex << épisode dépressif majeur >>
 : Maladie psychiatrique fréquente (10% des 18-75 ans sur un an) à prédominance féminine (RR 2), pourvoyeuse de handicap avec lourd retentissement médico-économique et humain (**risque suicidaire**).
-: La définition est clinique: diminution persistante pathologique de l'humeur (tristesse pathologique) et de l'énergie avec perturbations psychomotrices, physiologiques et psychoaffectives. **⅓** des épisodes sont d'intensité **sévère**.
+: La définition est clinique: diminution persistante pathologique de l'humeur (tristesse pathologique) et de l'énergie avec perturbations psychomotrices, physiologiques et psychoaffectives. **1/3** des épisodes sont d'intensité **sévère**.
 : Il peut s'inscrire dans différentes pathologies psychiatriques (dépression isolée, trouble dépressif récurrent, trouble bipolaire) ou être accompagné d'un autre trouble psychiatrique (**anxiété** pour 75%, addiction, schizophrénie).
 
 Trouble dépressif récurrent

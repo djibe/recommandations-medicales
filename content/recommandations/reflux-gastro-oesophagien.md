@@ -210,7 +210,7 @@ Les traitements soulagent les symptômes, mais ne permettent pas la cicatrisatio
 
 ### Inhibiteurs de la pompe à protons (IPP)
 
-- Cure courte à ½ dose (ésoméprazole, lansoprazole, pantoprazole et rabéprazole) ou pleine dose pour l'oméprazole si insuffisamment soulagé par RHD et anti-acides
+- Cure courte à demi dose (ésoméprazole, lansoprazole, pantoprazole et rabéprazole) ou pleine dose pour l'oméprazole si insuffisamment soulagé par RHD et anti-acides
 - D'emblée en œsophagite
 - Prise intermittente ou à la demande en RGO modéré sans œsophagite
 

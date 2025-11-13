@@ -40,7 +40,7 @@ Chapitres liés: [anémie par carence martiale]({{% relref "anemie.md" %}}), [co
 Ménorragies
 : Hémorragies génitales hautes survenant pendant les règles (femmes en âge de procréer et non enceintes) d'un volume supérieur à 80 mL ou d'une durée supérieure à 6 jours.
 : Les ménorragies peuvent entraîner une **altération de la qualité de vie** et une [anémie ferriprive]({{% relref "anemie.md" %}}) pouvant être profonde.
-: Première cause de consultation des femmes de 30 à 50 ans en gynécologie (⅓ des consultations) et 50% des causes d'hystérectomie.
+: Première cause de consultation des femmes de 30 à 50 ans en gynécologie (1/3 des consultations) et 50% des causes d'hystérectomie.
 
 ### Abréviations
 

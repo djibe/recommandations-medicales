@@ -266,7 +266,7 @@ graph TB
 - [Collège National des Enseignants de Cardiologie (CNEC). Hypertension artérielle de l'adulte et de l'enfant. Item 224. Cardiologie 2e édition. 2022.](https://www.sfcardio.fr/publication/chapitre-04-item-224-hypertension-arterielle-de-ladulte-et-de-lenfant/)
 
 {{%/sources%}}
-{{%modele%}}
+{{% modele %}}
 
 Bilan au laboratoire, le matin, prélevé assis et sans restriction sodée:
 
@@ -275,4 +275,4 @@ Bilan au laboratoire, le matin, prélevé assis et sans restriction sodée:
 - Aldostérone
 - Rapport aldostérone / rénine
 
-{{%/modele%}}
+{{% /modele %}}

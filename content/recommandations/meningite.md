@@ -41,7 +41,7 @@ Ces recommandations n'abordent pas la méningite du nouveau-né.
 
 Méningite bactérienne
 : Inflammation méningée causée par une infection bactérienne. La méningite est une urgence vitale.
-: Les bactéries en causes diffèrent selon l'âge: nouveau-né **streptocoque du groupe B** (57%), 2-12 mois avec le **pneumocoque** (44%) puis le **méningocoque** (1/2, sérogroupe B pour moitié) et le pneumocoque (⅓) ensuite chez l'enfant (données GPIP/ACTIV 2010-2014).  
+: Les bactéries en causes diffèrent selon l'âge: nouveau-né **streptocoque du groupe B** (57%), 2-12 mois avec le **pneumocoque** (44%) puis le **méningocoque** (1/2, sérogroupe B pour moitié) et le pneumocoque (1/3) ensuite chez l'enfant (données GPIP/ACTIV 2010-2014).  
 Chez l'adulte, 1400 cas annuels de méningites bactériennes avec surtout le **pneumocoque** (méningocoque avant 30 ans) puis *Listeria monocytogenes* (sujet âgé ++). 20% de mortalité et 30% de séquelles.
 : Un tableau subaigu ou chronique est rare ([syphilis]({{% relref "syphilis.md" %}}), [maladie de Lyme]({{% relref "maladie-lyme.md" %}}), [tuberculose]({{% relref "tuberculose.md" %}})).
 

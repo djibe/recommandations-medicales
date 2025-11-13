@@ -179,7 +179,7 @@ Mesures associées à la prise en charge des cancers:
 
 Le traitement du cancer de la thyroïde est décidé en réunion de concertation pluridisciplinaire (**RCP**) spécialisée et peut être, selon le type histologique et l'extension: chirurgie (lobo-isthmectomie ou thyroïdectomie totale avec ou sans curage ganglionnaire), surveillance active, thérapie ciblée.
 
-Une irathérapie est indiquée en cas de risque de élevé de récidive après thyroïdectomie totale (discutée si risque intermédiaire, rarement indiquée si risque faible).
+Une irathérapie est indiquée en cas de risque élevé de récidive après thyroïdectomie totale (discutée si risque intermédiaire, rarement indiquée si risque faible).
 
 En cas de cancer médullaire de la thyroïde: chirurgie et avis oncogénétique pour recherche de mutation du gène RET (dépistage familial si présent).
 

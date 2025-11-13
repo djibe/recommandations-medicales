@@ -40,7 +40,7 @@ Névralgie trigéminale classique (NTC)
 : *Ex* **névralgie du trijumeau**.  
 Neuropathie crânienne douloureuse rare atteignant le nerf trijumeau qui évolue par poussées douloureuses chez des sujets d'âge moyen (60 ans), atteignant principalement les femmes (2/3). Les douleurs sont à l'origine d'une dégradation de la qualité de vie.
 : Un conflit vasculo-nerveux est le facteur causal majeur de la NTC, situé au niveau de la citerne pré-pontique entre une méga-dolicho-artère (artère cérébelleuse antéro-supérieure ++) et la portion centrale de la racine à l'origine de démyélinisation.
-: Les poussées durent 49 jours (médiane). ⅓ des patients n'a pas de récidive et des périodes de rémissions variables sont fréquentes.
+: Les poussées durent 49 jours (médiane). 1/3 des patients n'a pas de récidive et des périodes de rémissions variables sont fréquentes.
 
 Nerf trijumeau
 : Le nerf crânien mixte trijumeau est responsable de la sensibilité somatique de la partie antérieure céphalique et motrice des muscles masticateurs.
@@ -51,7 +51,7 @@ Nerf trijumeau
 - Maladie rare avec prévalence estimée à 10,7-20/100.000
 - Elle atteint le sujet d'âge moyen: +60 ans
 - Atteint préférentiellement les femmes: 2/3
-- ⅓ des patients n'ont pas de récidives
+- 1/3 des patients n'ont pas de récidives
 
 La névralgie trigéminale classique est souvent associée à une [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}).
 

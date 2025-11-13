@@ -25,7 +25,7 @@ flowchart = true
 
 - La bursite ou hygroma est une inflammation d'une bourse séreuse superficielle (olécranienne, pré-patellaire) ou profonde (sous-acromiale) atteignant principalement les hommes
 - La clinique recherche des arguments en faveur d'une origine microtraumatique (profession à risque: carreleur, sportif ...), traumatique/hémorragique, inflammatoire (polyarthrite, goutte ...) ou septique
-- La bursite septique doit être traquée (fièvre, inflammation locale et douleurs, plaie, immunodépression) et ponctionnée systématiquement en urgence en cas d'atteinte du coude ou du genou (⅓ d'atteintes septiques). La prise en charge est urgente avec ponction échoguidée, analyse cyto-bactériologique et antibiothérapie
+- La bursite septique doit être traquée (fièvre, inflammation locale et douleurs, plaie, immunodépression) et ponctionnée systématiquement en urgence en cas d'atteinte du coude ou du genou (1/3 d'atteintes septiques). La prise en charge est urgente avec ponction échoguidée, analyse cyto-bactériologique et antibiothérapie
 - Un bilan biologique, échographique voire radiologique est demandé en cas de suspicion septique, traumatique ou d'aspect atypique
 - La prise en charge de la bursite microtraumatique est symptomatique: glaçage, antalgie, mise au repos de l'articulation
 - En cas de maladie inflammatoire, le traitement est étiologique rhumatologique avec parfois des infiltrations de corticoïdes
@@ -34,7 +34,7 @@ flowchart = true
 {{%collapse "Définition" %}}
 
 Bursite (ou hygroma)
-: Inflammation d'une bourse séreuse survenant le plus souvent en regard de l'olécrane ou de la rotule suite à la répétition de microtraumatismes (mais ⅓ sont septiques) ou atteinte plus profonde (bourse sous-acromiale).
+: Inflammation d'une bourse séreuse survenant le plus souvent en regard de l'olécrane ou de la rotule suite à la répétition de microtraumatismes (mais 1/3 sont septiques) ou atteinte plus profonde (bourse sous-acromiale).
 : Les autres causes d'hygroma sont hémorragique suite à un traumatisme aigu (ou lors de troubles de l'hémostase ou d'anticoagulants), inflammatoire (dite *chronique aseptique* lors de la goutte ou de la polyarthrite rhumatoïde), infectieuse (bursite septique olécranienne et pré-rotulienne à *Staphylococcus aureus* à 80% > *Streptococcus pyogenes*) et au cours de l'hémodialyse.
 
 {{% /collapse %}}
@@ -76,7 +76,7 @@ La bursite microtraumatique est classiquement indolore et sans signes inflammato
   - Impotence fonctionnelle
 
 > [!WARNING]
-> La forte prévalence septique au coude ou au genou (⅓) doit faire éliminer une bursite septique par ponction, la clinique n'étant pas discriminante (*Baumbach et al 2014*).
+> La forte prévalence septique au coude ou au genou (1/3) doit faire éliminer une bursite septique par ponction, la clinique n'étant pas discriminante (*Baumbach et al 2014*).
 
 ### Examen clinique
 

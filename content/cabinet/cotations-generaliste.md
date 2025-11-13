@@ -114,7 +114,7 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
 | Code CCAM           | Description                                                                                   | Tarif&nbsp;(€) |
 |---------------------|-----------------------------------------------------------------------------------------------|---------------:|
 | CDRP002             | Dépistage de la surdité avant 3 ans<br>avec test validé (SensoryBabyTest)                     |          49,46 |
-| CDRP002 + ½ BLQP010 | Dépistage de la surdité avant 3 ans<br>couplé au test de la vision binoculaire (test de Lang) |          62,30 |
+| CDRP002 + 1/2 BLQP010 | Dépistage de la surdité avant 3 ans<br>couplé au test de la vision binoculaire (test de Lang) |          62,30 |
 {{< /table >}}
 
   </div>

@@ -139,7 +139,7 @@ Reprendre l'AVK selon risque de récidive et indication initiale de l' AVK.
 
 ### Gestes invasifs déconseillés
 
-- Association de traitement: anti-inflammatoires AINS, antibiotique, interactions du CYP450
+- Association de traitement: anti-inflammatoires AINS (naproxène > diclofénac > ibuprofène), antibiotique, interactions du CYP450
 - Injections intra-musculaires
 
 {{% /collapse %}}
@@ -291,6 +291,7 @@ Patient avec valve mécanique, anticoagulé par AVK ou enfant traité par AVK ay
 
 {{< card-link-external title="AVKClic" url="https://www.mgform.org/sites-utiles/avkclic" subtitle="Aide à l'adaptation des posologies d'AVK" >}}
 
+- [CBIP. AINS + anticoagulants oraux : une association à haut risque ?. Folia. 2025.](https://www.cbip.be/fr/articles/4633?folia=4621)
 - [HAS. Surveillance biologique des anticoagulants (héparines et antivitamines K). Flash sécurité patient. 12/10/2023.](https://www.has-sante.fr/jcms/p_3466363/fr/flash-securite-patient-surveillance-biologique-des-anticoagulants-heparines-et-antivitamines-k-une-prise-de-sang-pour-eviter-une-perte-de-sang)
 - [ANSM. Les Questions/réponses des Anti-vitamine K (AVK). 17/03/2021.](https://ansm.sante.fr/dossiers-thematiques/les-questions-reponses-des-anti-vitamine-k-avk)
 - [Afssaps. Les médicaments antivitamine K (AVK) : Conseils pratiques pour le personnel soignant. Avril 2009.](http://www.omedit-centre.fr/NEVEREVENTAVK_web_gen_web/res/avkConseilsPersonnelSoignant__1_.pdf)

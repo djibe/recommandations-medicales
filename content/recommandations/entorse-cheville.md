@@ -247,7 +247,7 @@ Prise en charge de l'entorse de la cheville par la rééducation précoce, attel
 - Glaçage  
   15-20 minutes toutes les 2 à 3 heures initialement.
 - Antalgie, AINS oral, AINS topique  
-  Douleur habituellement résolutive sous 2 semaines (⅓ persistent à 1 an).
+  Douleur habituellement résolutive sous 2 semaines (1/3 persistent à 1 an).
 - Bandage, strapping de la cheville
 - Surélévation de la jambe
 - Orthèse et entorse de la cheville:
@@ -267,7 +267,7 @@ Lors de la réévaluation à J5-J7, en cas de douleurs marquées:
 - Traquer une entorse grave (palpation, radiographies)
 - Discuter un plâtre 3 semaines avec appui partiel et béquilles
 
-Le développement d'une **algodystrophie** est possible (⅓ ont des douleurs à 1 an).
+Le développement d'une **algodystrophie** est possible (1/3 ont des douleurs à 1 an).
 {.alert .alert-info}
 
 La ==reprise du sport== (à environ 6 à 12 si grave) chez l'adulte est possible lorsque les critères sont remplis: absence de douleur (marche et sport), désir de reprise et score Ankle-GO > 11.

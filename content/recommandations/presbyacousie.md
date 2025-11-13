@@ -35,7 +35,7 @@ flowchart = true
 
 Presbyacousie (ou surdité liée à l'âge)
 : Diminution physiologique de l'audition due à l'âge. L'hypoacousie est bilatérale, symétrique, progressive, irréversible et atteint initialement les aigus.
-: La surdité atteint 65 % des +65 ans en étant un facteur de risque modifiable majeur de [démence]({{% relref "maladie-alzheimer.md" %}}) (OR 2). En 2050, ⅓ de la population sera presbyacousique.
+: La surdité atteint 65 % des +65 ans en étant un facteur de risque modifiable majeur de [démence]({{% relref "maladie-alzheimer.md" %}}) (OR 2). En 2050, 1/3 de la population sera presbyacousique.
 
 ### Degré de surdité
 

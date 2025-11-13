@@ -43,8 +43,8 @@ Hyperferritinémie (HF)
 ### Épidémiologie de l'hyperferritinémie
 
 - Une hyperferritinémie est associée à la survenue d'un {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}} et d'un [diabète de type 2]({{% relref "diabete-type-2.md" %}})  
-  ⅓ des diabétiques et 1/4 des pré-diabétiques ont une hyperferritinémie.
-- 20% des [NASH]({{% relref "steatose-hepatique-et-nash.md" %}}) ont une hyperferritinémie et ⅓ a une **hépatosidérose métabolique** (association d'un syndrome métabolique et d'une surcharge en fer).
+  1/3 des diabétiques et 1/4 des pré-diabétiques ont une hyperferritinémie.
+- 20% des [NASH]({{% relref "steatose-hepatique-et-nash.md" %}}) ont une hyperferritinémie et 1/3 a une **hépatosidérose métabolique** (association d'un syndrome métabolique et d'une surcharge en fer).
 
 ### Abréviations
 
