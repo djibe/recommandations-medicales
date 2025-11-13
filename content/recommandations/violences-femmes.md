@@ -27,7 +27,7 @@ todo = "liste centre hébergement urgence, commissariat + proche, lien vers chaq
 
 - Rechercher systématiquement l'exposition des femmes à des violences à l'interrogatoire (comme pour les antécédents et le tabac)
 - **3 patientes sur 10 de nos salles d'attente !**
-- [Modèle de certificat initial (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/certificat_en_cas_de_violences_sur_personne_majeure.pdf)
+- [Modèle de certificat initial (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/cnom_modele_certificat_en_cas_de_violence_sur_personne_majeure.pdf)
 - En cas de suspicion de violences faites aux femmes, conseiller:
   - de déposer plainte
   - de naviguer sur internet en mode *Incognito*
@@ -137,7 +137,7 @@ Informer toute victime de violence sur:
 
 Le certificat médical peut être utilisé pour faire valoir les droits de la victime et obtenir une mesure de protection.
 
-[Modèle de certificat initial (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/certificat_en_cas_de_violences_sur_personne_majeure.pdf)
+[Modèle de certificat initial (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/cnom_modele_certificat_en_cas_de_violence_sur_personne_majeure.pdf)
 
 La consultation et l'examen clinique de la patiente sont un préalable indispensable à la rédaction du certificat.
 {.alert .alert-warning}
@@ -192,7 +192,7 @@ Pour le médecin généraliste.: Aborder les violences, évaluer, le certificat 
 
 #### CNOM - Secret médical et violences au sein du couple
 
-[Document du CNOM sur les violences conjugales (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/external-package/rapport/1xufjc2/vademecum_secret_violences_conjugales.pdf)
+[Document du CNOM sur les violences conjugales (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/vademecum_secret_violences_conjugales.pdf)
 
 #### memo-de-vie.org
 

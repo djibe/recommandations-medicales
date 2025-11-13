@@ -251,7 +251,7 @@ Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut 
 - Déclarer l'[ALD n°5]({{% relref "affection-longue-duree.md" %}})  
   Indications: toute ischémie myocardique objectivement documentée (ECG, épreuve d'effort, scintigraphie myocardique de perfusion, échographie de stress, échographie d'effort, holter ECG, coronarographie).
 
-Ne pas utiliser en post-infarctus à visée de prévention secondaire: colchicine ([SFPT](Colchicine)).
+Ne pas utiliser en post-infarctus à visée de prévention secondaire: colchicine ([SFPT](https://sfpt-fr.org/pharmacofact-blog/2099-f022-pas-d%E2%80%99indication-de-la-colchicine-dans-la-pr%C3%A9vention-secondaire-post-syndrome-coronaire-aigu)).
 {.alert .alert-warning}
 
 {{% /collapse %}}

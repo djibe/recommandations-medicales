@@ -126,7 +126,7 @@ Les autres mesures de prise en charge de la LLC sont:
   - Suivi biologique: NFS, réticulocytes, hémolyse (haptoglobine, bilirubine libre, LDH, Coombs direct)
   - Si complications infectieuses: électrophorèse des protéines sériques
 - Soins: psychologue, diététicien ...
-- Information du patient: [guide patient INCa](https://www.cancer.fr/catalogue-des-publications/guide-cancer-info-interactif-la-leucemie-lymphoide-chronique) (PDF) et [HAS](https://www.cancer.fr/catalogue-des-publications/la-prise-en-charge-des-leucemies-lymphoides-chroniques)
+- Information du patient: [guide patient INCa](https://www.cancer.fr/catalogue-des-publications/guide-cancer-info-interactif-la-leucemie-lymphoide-chronique) (PDF)
 - Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 
 Suivi spécialisé et des aires ganglionnaires.

@@ -30,7 +30,7 @@ Articles liés: [directives anticipées]({{% relref "directives-anticipees.md" %
 
 {{%/article-summary%}}
 
-{{< card-link-external title="Guide de gestion des effets indésirables par médicament" url="https://www.e-cancer.fr/content/download/466013/7058203/file/Portfolio%20fiches%20m%C3%A9dicaments.pdf" subtitle="par l'INCa'" >}}
+{{< card-link-external title="Guide de gestion des effets indésirables par médicament" url="https://www.cancer.fr/professionnels-de-sante/recommandations-et-aide-a-la-pratique/medicaments-anticancereux/prevention-suivi-et-gestion-des-effets-indesirables/referentiels-medicament-anticancereux" subtitle="par l'INCa'" >}}
 
 {{%collapse "Prise en charge des complications de la chimiothérapie" "show" %}}
 
@@ -71,12 +71,12 @@ Ne pas utiliser:
 {{% /collapse %}}
 {{%sources%}}
 
-- [INCa. Prévention et gestion des effets indésirables des anticancéreux - Hormonothérapies dans le traitement adjuvant des cancers du sein. 2023.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Prevention-et-gestion-des-effets-indesirables-des-anticancereux-Hormonotherapies-dans-le-traitement-adjuvant-des-cancers-du-sein)
-- [Fuleihan G. et al. Treatment of Hypercalcemia of Malignancy in Adults: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2022.](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgac621/6916871)
+- [INCa. Prévention et gestion des effets indésirables des anticancéreux - Hormonothérapies dans le traitement adjuvant des cancers du sein. 2023.](https://www.cancer.fr/catalogue-des-publications/prevention-et-gestion-des-effets-indesirables-des-anticancereux-hormonotherapies-dans-le-traitement-adjuvant-des-cancers-du-sein)
+- [Fuleihan G, et al. Treatment of Hypercalcemia of Malignancy in Adults: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2022.](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgac621/6916871)
 
 ### Bibliographie en attente
 
-- [INCa](https://www.e-cancer.fr/Professionnels-de-sante/Medicaments/Prevention-suivi-et-gestion-des-effets-indesirables)
+- [INCa](https://www.cancer.fr/professionnels-de-sante/recommandations-et-aide-a-la-pratique/medicaments-anticancereux/prevention-suivi-et-gestion-des-effets-indesirables/referentiels-medicament-anticancereux)
 - [Onco Paca-Corse. Soins palliatifs précoces et prise en charge de la douleur pour un cancer de mauvais pronostic. 2023. (PDF)](https://www.oncopacacorse.org/sites/default/files/guide-bonnes-pratiques-soins_palliatifs_precoces-juin2023.pdf)
 
 {{%/sources%}}

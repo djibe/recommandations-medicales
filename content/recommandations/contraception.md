@@ -668,9 +668,9 @@ graph TB
 
 - [Ovsepyan V, et al. Practical Recommendations for Minimizing Pain and Anxiety with IUD Insertion. J Am Board Fam Med. 2024.](https://www.jabfm.org/content/37/6/1150)
 - [Ciangura C, et al. Clinical Practice Guidelines for Childbearing Female Candidates for Bariatric Surgery, Pregnancy, and Post-partum Management After Bariatric Surgery. OBES SURG. 2019.](https://link.springer.com/article/10.1007/s11695-019-04093-y)
-- [Faculty of Sexual and Reproductive Healthcare (FSRH). FSRH CEU Guidance: Recommended Actions after incorrect Use of Combined Hormonal Contraception (e.g. late or missed pills, ring and patch). 2020.](https://www.fsrh.org/Public/Documents/fsrh-ceu-guidance-recommended-actions-after-incorrect-use.aspx)
-- [Faculty of Sexual and Reproductive Healthcare (FSRH). FSRH Clinical Guideline: Quick Starting Contraception. 2017.](https://www.fsrh.org/Public/Documents/fsrh-clinical-guidance-quick-starting-contraception-april-2017.aspx)
-- [Faculty of Sexual and Reproductive Healthcare (FSRH). FSRH Guidelines & Statements.](https://www.fsrh.org/Public/Public/Standards-and-Guidance/fsrh-guidelines-and-statements.aspx)
+- [The College of Sexual & Reproductive Healthcare (CoSRH). CoSRH CEU Guidance: Recommended Actions after incorrect Use of Combined Hormonal Contraception (e.g. late or missed pills, ring and patch). 2020.](https://www.cosrh.org/Public/Documents/fsrh-ceu-guidance-recommended-actions-after-incorrect-use.aspx)
+- [The College of Sexual & Reproductive Healthcare (CoSRH). CoSRH Clinical Guideline: Quick Starting Contraception. 2017.](https://www.cosrh.org/Public/Public/Standards-and-Guidance/Quick-Starting-Contraception.aspx)
+- [The College of Sexual & Reproductive Healthcare (CoSRH). CoSRH Guidelines & Statements.](https://www.cosrh.org/Public/Standards-and-Guidance/cosrh-guidelines-and-statements.aspx)
 - [HAS. Contraception chez la femme adulte et de l'adolescente en âge de procréer (hors post-partum et post-IVG). 2019.](https://www.has-sante.fr/jcms/c_1752542/fr/contraception-chez-la-femme-adulte-et-de-l-adolescente-en-age-de-procreer-hors-post-partum-et-post-ivg)
 - [HAS. Contraception chez la femme après une interruption volontaire de grossesse (IVG). 2019.](https://www.has-sante.fr/jcms/c_1753312/fr/contraception-chez-la-femme-apres-une-interruption-volontaire-de-grossesse-ivg)
 - [HAS. Contraception chez les patientes transplantées (rein, foie, coeur, poumon). 2019.](https://www.has-sante.fr/jcms/c_2870343/fr/contraception-chez-les-patientes-transplantees-rein-foie-coeur-poumon)

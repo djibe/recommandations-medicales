@@ -228,7 +228,7 @@ graph TB
 - [Marijon E, et al. Prévention de la mort subite du sportif : état des lieux. Archives des Maladies du Coeur et des Vaisseaux - Pratique. 2021.](https://doi.org/10.1016/J.AMCP.2021.04.003)
 - [Anys S, et al. Faut-il un screening cardiaque du sportif : pour ou contre ?. La Revue du Praticien. 2021.](https://www.larevuedupraticien.fr/article/faut-il-un-screening-cardiaque-du-sportif-pour-ou-contre-2)
 - [Journal Officiel. Décret 2021-564. 07/05/2021.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486809)
-- [CNOM. Certificats de non contre-indication à la pratique du sport. Médecins n°69. sept-oct 2020](https://www.conseil-national.medecin.fr/sites/default/files/external-package/bulletin/m05mhm/medecins_69.pdf)
+- [CNOM. Certificats de non contre-indication à la pratique du sport. Médecins n°69. sept-oct 2020](https://www.conseil-national.medecin.fr/sites/default/files/2025-07/medecins_69.pdf)
 - [Marijon E, et al. Characteristics and Outcomes of Sudden Cardiac Arrest During Sports in Women. Circ Arrhythm Electrophysiol. 2013.](https://doi.org/10.1161/circep.113.000651)
 - [Marijon E, et al. Incidence of Sports-Related Sudden Death in France by Specific Sports and Sex. JAMA. 2013;310(6):642-643.](https://jamanetwork.com/journals/jama/fullarticle/1728703)
 - [Marijon E, et al. Sports-Related Sudden Death in the General Population. Circulation. 2011.](https://doi.org/10.1161/CIRCULATIONAHA.110.008979)

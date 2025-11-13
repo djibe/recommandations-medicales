@@ -269,7 +269,7 @@ Les indications à l'IRM mammaire sont limitées:
 
 Réduction de la consommation d'[alcool]({{% relref "sevrage-alcool.md" %}}) (15% attribuables, *CIRC et SPF*), tabac (4,4 %), lutte contre surpoids/[obésité]({{% relref "obesite-adulte.md" %}}) (11%) et l'inactivité physique.
 
-**NB.** L'aluminium des déodorants n'est [évidemment pas cancérigène](https://leseclairages.e-cancer.fr/les-sels-daluminium-dans-les-deodorants-favorisent-ils-les-cancers-du-sein/).
+**NB.** L'aluminium des déodorants n'est [évidemment pas cancérigène](https://leseclairages.cancer.fr/les-sels-daluminium-dans-les-deodorants-favorisent-ils-les-cancers-du-sein/).
 
 ### Palpation mammaire annuelle
 
@@ -285,7 +285,7 @@ Dépistage par mammographies avec double lecture tous les 2 ans chez les femmes 
 
 > Les invitations aux dépistages organisés du col et du sein peuvent être réédités sur Amelipro (Patientèle médecin traitant > onglet Prévention).
 
-[Guide patiente INCa : le dépistage des cancers du sein (PDF)](https://www.e-cancer.fr/content/download/336634/4809878/file/Depliant%20DOCS%202022_148x210%20DEPSEIN21%20BD.pdf)
+[Guide patiente INCa : le dépistage des cancers du sein](https://www.cancer.fr/toute-l-information-sur-les-cancers/se-faire-depister/les-depistages/depistage-du-cancer-du-sein)
 
 Dépistage identique en cas de prothèses mammaires (*INCa 2019*).
 
@@ -446,17 +446,17 @@ graph TB
 - [Lavoué V, et al. Recommandations pour la pratique clinique du CNGOF. Place de l'auto-examen des seins dans les stratégies de dépistage [Place of breast self-examination in screening strategies. French College of Gynecologists and Obstetricians (CNGOF) recommendations for clinical practice]. Gynecol Obstet Fertil Senol. 2023. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Gyn%C3%A9cologie/Oncologie/Auto-examen%20des%20seins%202023-RPC-%20strat%C3%A9gies%20de%20d%C3%A9pistage.pdf?x60010)
 - {{< references/beh-cancers-incidence >}}
 - {{< references/inca-cancers-mortalite >}}
-- [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. 2022.](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce/Depistage-du-cancer-du-sein/Orienter-vos-patientes)
-- [INCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. 2022.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-du-sein#toc-recommandations-de-prise-en-charge-sp-cialis-e)
+- [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. 2022.](https://www.cancer.fr/professionnels-de-sante/prevention-et-depistages/depistage-et-detection-precoce/depistage-du-cancer-du-sein/orienter-vos-patientes)
+- [INCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. 2022.](https://www.cancer.fr/catalogue-des-publications/traitements-locoregionaux-des-cancers-du-sein-infiltrants-non-metastatiques-synthese2)
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 - [Santé Publique France. Dépistage du cancer du sein : quelle participation des femmes en 2021 ? 2022.](https://www.santepubliquefrance.fr/les-actualites/2022/depistage-du-cancer-du-sein-quelle-participation-des-femmes-en-2021)
-- [INCa. Les cancers du sein en 10 points clés. 2020.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-cancers-du-sein-en-10-points-cles)
+- [INCa. Les cancers du sein en 10 points clés. 2020.](https://www.cancer.fr/catalogue-des-publications/les-cancers-du-sein-en-10-points-cles)
 - [ACOG. Tamoxifen and Uterine Cancer. 2014. Reaffirmed 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/06/tamoxifen-and-uterine-cancer)
 - [HAS. Cancer du sein : modalités spécifiques de dépistage pour les femmes à haut risque. 2019.](https://www.has-sante.fr/jcms/pprd_2974673/fr/cancer-du-sein-modalites-specifiques-de-depistage-pour-les-femmes-a-haut-risque)
-- [INCa. Remboursement des prothèses et appareillages. 2019.](https://www.e-cancer.fr/Patients-et-proches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages)
-- [INCa. Prothèses mammaires et risque de cancer. 2019.](https://www.e-cancer.fr/Comprendre-prevenir-depister/Reduire-les-risques-de-cancer/Protheses-mammaires)
+- [INCa. Remboursement des prothèses et appareillages. 2019.](https://www.cancer.fr/personnes-malades/vivre-avec-un-cancer/droits-et-demarches/demarches-administratives-et-sociales/prise-en-charge-financiere/protheses-et-appareillages)
+- [INCa. Prothèses mammaires et risque de cancer. 2019.](https://www.cancer.fr/toute-l-information-sur-les-cancers/prevenir-les-risques-de-cancers/protheses-mammaires)
 - [CNGOF. Cancers du sein : les patientes dans la tourmente. 2017. (PDF)](https://cngof.fr/app/uploads/2023/06/K-SEIN-2017_compressed_1pdf.io_.pdf?x53169)
-- [INCa. Cancer du sein : du diagnostic au suivi. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancers-du-sein-Du-diagnostic-au-suivi)
+- [INCa. Cancer du sein : du diagnostic au suivi. 2016.](https://www.cancer.fr/catalogue-des-publications/cancers-du-sein-du-diagnostic-au-suivi)
 - [HAS. Dépistage et prévention du cancer du sein. 2015.](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein)
 
 ### Bibliographie en attente

@@ -438,7 +438,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 - {{< references/sfd-dt2 >}}
 - [Riddle MC, et al. Consensus report: definition and interpretation of remission in type 2 diabetes. Diabetologia. 2021.](https://link.springer.com/article/10.1007/s00125-021-05542-z)
 - [Monnier L, et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
-- [Valensi P, et al. Risk stratification and screening for coronary artery disease in asymptomatic patients with diabetes mellitus: Position paper of the French Society of Cardiology and the French-speaking Society of Diabetology. Diabetes & Metabolism. 2021.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_paper_sfc_sfd_march_2021.pdf)
+- [Valensi P, et al. Risk stratification and screening for coronary artery disease in asymptomatic patients with diabetes mellitus: Position paper of the French Society of Cardiology and the French-speaking Society of Diabetology. Diabetes & Metabolism. 2021.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_paper_sfc_sfd_march_2021_0.pdf)
 - [HAS. Affection podologique & diabète : un suivi pluriprofessionnel. 2020.](https://www.has-sante.fr/jcms/p_3218144/fr/affection-podologique-diabete-un-suivi-pluriprofessionnel)
 - {{< references/afef-foie-non-invasif >}}
 - [INCa. Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Synthèse. 2019.](https://www.cancer.fr/catalogue-des-publications/synthese-conduites-a-tenir-devant-des-patients-atteints-d-adenocarcinomes-du-pancreas)
@@ -456,9 +456,9 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 
 ### Bibliographie en attente
 
-- [Sultan A, et al. Référentiel pied diabétique SFD 2024. Med Mal Metab. 2024. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel_sfd_2024.pdf)
+- [Sultan A, et al. Référentiel pied diabétique SFD 2024. Med Mal Metab. 2024. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel_sfd_2024_0.pdf)
 - [The Diabetes and Nutrition Study Group (DNSG) of the European Association for the Study of Diabetes (EASD). Evidence-based European recommendations for the dietary management of diabetes. Diabetologia 66. 2023.](https://link.springer.com/article/10.1007/s00125-023-05894-8)
-- [Thivolet C, et al. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab. 2021. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete.pdf)
+- [Thivolet C, et al. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab. 2021. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete_0.pdf)
 
 Mots-clé: diabte
 

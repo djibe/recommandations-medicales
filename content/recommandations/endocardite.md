@@ -3,31 +3,34 @@ id = "0192fd7a-b5ee-7fd4-87d5-f24a12facfd3"
 title = "Endocardite infectieuse"
 prefix = "l'"
 titleSeo = "Endocardite infectieuse"
-description = "Dernières recommandations ESC pour la prévention de l'endocardite infectieuse. Haut risque (valve, prothèse, cardiopathie congénitale) et antibioprophylaxie"
+description = "Recommandations pour le diagnostic, la prise en charge et la prévention de l'endocardite infectieuse. Haut risque (valve, prothèse, cardiopathie congénitale) et antibioprophylaxie"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-08-18T11:07:22+02:00"
 publishdate = "2021-09-07"
-lastmod = "2025-03-03"
+lastmod = "2025-11-13"
 specialites = ["cardiologie"]
-annees = "2023"
-sources = ["ESC"]
+annees = "2025"
+sources = ["SPILF", "HAS", "ESC"]
 tags = ["fièvre"]
 english = ["Infective endocarditis (IE)"]
 sctid = "56819008"
 icd10 = ["I38", "I33", "I33.0", "I33.9", "B37.6"]
 image = true
-imageSrc = "Végétation sur la tricuspide. Daisuke Koya, Kazuyuki Shibuya, Ryuichi Kikkawa et Masakazu Haneda: Materialscientist, via Wikimedia Commons"
+imageSrc = "Végétation sur la valve tricuspide signant une endocardite infectieuse. Daisuke Koya, Kazuyuki Shibuya, Ryuichi Kikkawa et Masakazu Haneda: Materialscientist, via Wikimedia Commons"
 flowchart = true
-todo = "SEO 'recommandations endocardite', Brossettes ?, https://pubmed.ncbi.nlm.nih.gov/38916201/"
+todo = "Brossettes ?, https://pubmed.ncbi.nlm.nih.gov/38916201/"
 +++
 
 {{%article-summary%}}
 
+- L'endocardite infectieuse (EI) est une infection rare et grave d'une ou plusieurs valves cardiaques par une bactérie (plus rarement des levures)
+- Les symptômes évocateurs d'endocardite sont la fièvre chez un sujet à risque ou associée à un souffle cardiaque, un accident ischémique, un purpura ou une lombalgie
 - Les mesures de prévention de l'endocardite infectieuse concernent tous les patients à risque élevé ou intermédiaire:  
   hygiène buccale et cutanée, carte de patient à risque, pas d'automédication, antibiothérapie des infections bactériennes.
-- La prévention de l'endocardite par antibioprophylaxie ne concerne que les soins dentaires chez les sujets à haut risque d'endocardite:  
-  Amoxicilline per os 2 g 30 à 60 minutes avant le geste à risque (50 mg/kg chez l'enfant). Azithromycine 500 mg en cas d'allergie.
+- La prévention de l'endocardite par antibioprophylaxie ne concerne que les soins dentaires chez les sujets à haut risque d'endocardite:
+  - Amoxicilline per os 2 g, 30 à 60 minutes avant le geste à risque (50 mg/kg chez l'enfant)
+  - En cas d'allergie à la pénicilline: azithromycine 500 mg
 - Adresser aux *Urgences* toute suspicion d'endocardite infectieuse
 
 {{%/article-summary%}}
@@ -35,19 +38,34 @@ todo = "SEO 'recommandations endocardite', Brossettes ?, https://pubmed.ncbi.nlm
 
 Endocardite infectieuse (EI)
 : Infection d'une ou plusieurs valves cardiaques par une bactérie, plus rarement par des germes intracellulaires ou des levures. L'atteinte de l'endocarde pariétale est plus rare. L'endocardite infectieuse est rare mais grave.
-: La porte d'entrée infectieuse est cutanée (40%), nosocomiale, toxicomanie intraveineuse, bucco-dentaire (⅓), gastro-intestinale (23%), urogénitale (4%) et autres.
-: Les germes sont les staphylocoques (30-50%, mauvais pronostic, *Staphylococcus aureus* ++), *Streptocoques gallolyticus* et entérocoques.
+: La porte d'entrée infectieuse est cutanée (40 %), nosocomiale, toxicomanie intraveineuse, bucco-dentaire (1/3), gastro-intestinale (23 %), urogénitale (4%) et autres.
+: Les germes des endocardites sont les staphylocoques (30-50 %, mauvais pronostic, *Staphylococcus aureus* ++), *Streptocoques gallolyticus* et entérocoques.
 : La prophylaxie repose sur les mesures d'hygiène et pour les patients à haut risque d'endocardite: l'antibioprophylaxie en cas de geste invasif.
 
 > [!INFO]
-> ⅓ des personnes à haut risque ne bénéficient pas d'antibioprophylaxie lors des soins invasifs.
+> 1/3 des personnes à haut risque ne bénéficient pas d'antibioprophylaxie lors des soins invasifs.
+
+### Abréviations
+
+EI
+: endocardite infectieuse (ou E.I. pour la *HAS*)
+
+ESC
+: {{%lang%}}European Society of Cardiology{{%/lang%}}
+
+HAS
+: Haute Autorité de Santé
+
+SPILF
+: Société de pathologie infectieuse de langue française
+{.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Patients à risque d'endocardite infectieuse" %}}
+{{%collapse "Sujets à risque d'endocardite infectieuse" %}}
 
 {{%info%}}
 
-### Patients à haut risque d'endocardite infectieuse
+### Sujets à haut risque d'endocardite infectieuse
 
 1. Antécédent d'endocardite infectieuse
 2. Valve ou matériel prothétique (mécanique, homogreffe ou bioprothèse, TAVI, clip valvulaire)
@@ -59,7 +77,7 @@ Endocardite infectieuse (EI)
 > -- *HAS 2024* et *ESC 2023*
 {{%/info%}}
 
-### Patients à risque intermédiaire d'endocardite infectieuse
+### Sujets à risque intermédiaire d'endocardite infectieuse
 
 1. Cardiopathie rhumatismale
 2. Autres valvulopathies dégénératives
@@ -91,7 +109,7 @@ Les manifestations de l'endocardite infectieuse sont variées avec des présenta
 
 **Tableau typique d'endocardite:** apparition ou majoration d'un **souffle cardiaque en contexte fébrile**.
 
-Évoquer une endocardite en cas de: [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), purpura, lombalgies fébriles.
+Évoquer une endocardite en cas de: [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), purpura ou lombalgies fébriles.
 
 {{%warning%}}
 Évoquer une endocardite devant tout insuffisance cardiaque ou signe neurologique fébrile
@@ -103,25 +121,29 @@ Réaliser des hémocultures avant la prescription d'antibiotiques
 
 Signes et symptômes de l'endocardite infectieuse:
 
-- Fièvre +++
-- Signes cutanés (5-15%)
-  - Purpura pétéchial
-  - Nodosités d'Osler ("faux panaris d'Osler") pathognomoniques
+- Signes généraux: ==**fièvre**==, AEG
+- Signes cardiologiques:
+  - **Souffle cardiaque** (inaugural ++)
+  - **Insuffisance cardiaque**
+  - Syncopes, lipothymie
+- Signes vasculaires:  
+  Ischémie (sub)-aiguë de membre, syndrome coronarien aigu, embolie pulmonaire.
+- **Signes neurologiques:**  
+  **AVC**, convulsions fébriles, troubles de la conscience, syndrome méningé, abcès cérébral.
+- Signes cutanés (5-15 %):
+  - **Purpura** pétéchial
+  - Nodosités d'Osler pathognomoniques (<< faux panaris d'Osler >>)
   - Placard érythémateux palmoplantaire (de Janeway)
-- Signes respiratoires
+- Signes respiratoires:
   - Toux
   - Dyspnée ± fébrile
-- Signes ophtalmologiques
+- Signes rhumatologiques: arthralgies, **lombalgie**, myalgie
+- Signes ophtalmologiques:
   - Purpura conjonctival
   - Tâches de Roth (fond d'œil)
-- Signes rhumatologiques  
-  Arthralgies, lombalgie, myalgie.
-- Signes neurologiques  
-  AVC, convulsions fébriles, troubles de la conscience, syndrome méningé, abcès cérébral.
-- Signes rénaux  
-  Protéinurie/[hématurie]({{% relref "hematurie.md" %}}) isolée, insuffisance rénale.
-- Signes vasculaires  
-  Ischémie (sub)-aiguë de membre, syndrome coronarien aigu, embolie pulmonaire.
+- Signes rénaux:  
+  Protéinurie, [hématurie]({{% relref "hematurie.md" %}}) isolée, insuffisance rénale.
+- Splénomégalie (20-30 %)
 
 {{% /collapse %}}
 {{%collapse "Prévention de l'endocardite infectieuse" %}}
@@ -161,9 +183,16 @@ Amoxicilline 2 g (50 mg/kg chez l'enfant)
 **Si allergie:** azithromycine 500 mg (20 mg/kg chez l'enfant -- *HAS 2024*) ou pristinamycine 1g (25 mg/kg chez l'enfant).
 
 {{% /collapse %}}
+{{%collapse "Traitement" %}}
+
+Adresser aux ***Urgences*** toute suspicion d'endocardite infectieuse. Appel du SAMU en cas de trouble hémodynamique ou de complication neurologique (AVC ...).
+
+La prise en charge de l'endocardite infectieuse est urgente, spécialisée cardiologique avec hémocultures et échocardiographie transthoracique (ETT).
+
+{{% /collapse %}}
 {{%collapse "Conduite à tenir pour les personnes à risque d'endocardite" "show" %}}
 
-{{< mermaid title="Recommandations pour la prise en charge des personnes à haut risque d'endocardite infectieuse. Dr JB Fron d'après ESC 2015" >}}
+{{< mermaid title="Recommandations pour la prise en charge des personnes à haut risque d'endocardite infectieuse. Dr JB Fron d'après SPILF 2025, HAS et ESC" >}}
 graph TB
   fdr[Sujet à haut risque<br>d'endocardite infectieuse ?]
   style fdr stroke:#4150f5, stroke-width:1px
@@ -175,18 +204,13 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-Pour le traitement des endocardites infectieuses, lire *ESC 2023*.
-
 - [Le Moing V, et al. Antibiotic therapy and prophylaxis of infective endocarditis - A SPILF-AEPEI position statement on the ESC 2023 guidelines. Infectious Diseases Now. 2025.](https://www.sciencedirect.com/science/article/pii/S2666991924001787)
+- [SPILF. Info-antibio N°106. 2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2025-09-ei.pdf)
 - [HAS. Prise en charge bucco-dentaire des patients à haut risque d'endocardite infectieuse. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3301328/fr/prise-en-charge-bucco-dentaire-des-patients-a-haut-risque-d-endocardite-infectieuse)
 - [Delgado V, et al. 2023 ESC Guidelines for the management of endocarditis. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad193/7243107)
 - [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Endocardite infectieuse. Item 152. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
 - [Duval X, Iung B. Prophylaxie de l'endocardite infectieuse. Archives des Maladies du Coeur et des Vaisseaux - Pratique. 2021.](https://doi.org/10.1016/j.amcp.2021.03.003)
 - [CMIT. Endocardite infectieuse. Item 152. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-152-web.pdf)
 - [Habib H, et al. 2015 ESC Guidelines for the management of infective endocarditis: The Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC) Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). European Heart Journal. 2015.](https://academic.oup.com/eurheartj/article/36/44/3075/2293384)
-
-### Bibliographie pour en savoir plus
-
-[SPILF. Info-antibio N°106. 2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2025-09-ei.pdf)
 
 {{%/sources%}}

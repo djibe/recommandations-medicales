@@ -308,7 +308,6 @@ graph TB
 - Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017.
 - [HAS. ALD n°30 Cancer du poumon et mésothéliome pleural malin. 2014.](https://www.has-sante.fr/jcms/c_820058/fr/ald-n-30-cancer-du-poumon-et-mesotheliome-pleural-malin)
 - [HAS. Guides du parcours de soins des cancers broncho-pulmonaires et mésothéliome pleural malin. 2013.](https://www.has-sante.fr/jcms/c_1650525/fr/guides-du-parcours-de-soins-des-cancers-broncho-pulmonaires-et-mesotheliome-pleural-malin)
-- [INCa. Cancer du poumon - Bilan initial. 2011.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Cancer-du-poumon-Bilan-initial-recommandation-argumentees)
 
 ### Bibliographie en attente
 

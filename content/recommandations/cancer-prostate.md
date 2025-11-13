@@ -33,7 +33,7 @@ flowchart = true
 - Définitions de récidive biologique après traitement (voir *Traitement*)
 - Après traitement, le suivi spécialisé est long (10 ans)
 
-Chapitres liés: [document d'information éclairée INCa](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Le-depistage-du-cancer-de-la-prostate-S-informer-avant-de-decider), [hypertrophie bénigne de la prostate]({{% relref "hypertrophie-benigne-prostate.md" %}})
+Chapitres liés: [document d'information éclairée INCa](https://www.cancer.fr/catalogue-des-publications/le-depistage-du-cancer-de-la-prostate-s-informer-avant-de-decider), [hypertrophie bénigne de la prostate]({{% relref "hypertrophie-benigne-prostate.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -171,7 +171,7 @@ Risque diminué de cancer de la prostate si PSA < 1 ng/mL à 40 ans et < 2 à 60
 Positions des différents comités sur la détection précoce du cancer de la prostate, après information éclairée:
 
 - HAS 2013 et INCa 2016  
-  Pas de dépistage systématique en population générale ni à haut risque ([INCa 2016. Le dépistage du cancer de la prostate - s'informer avant de décider](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Le-depistage-du-cancer-de-la-prostate-S-informer-avant-de-decider)).
+  Pas de dépistage systématique en population générale ni à haut risque ([INCa 2016. Le dépistage du cancer de la prostate - s'informer avant de décider](https://www.cancer.fr/catalogue-des-publications/le-depistage-du-cancer-de-la-prostate-s-informer-avant-de-decider)).
 - Commission européenne 2022  
   PSA jusqu'à 70 ans.
 - EAU 2025  
@@ -321,8 +321,8 @@ graph TB
 - [Rozet F, et al. Recommandations françaises du Comité de cancérologie de l'AFU - actualisation 2020-2022 : cancer de la prostate. Progrès en Urologie. 2020.](https://www.urofrance.org/recommandation/recommandations-francaises-du-comite-de-cancerologie-de-lafu-actualisation-2020-2022-cancer-de-la-prostate/?date=&themes=&search=%22)
 - [Gandaglia G, et al. Structured Population-based Prostate-specific Antigen Screening for Prostate Cancer: The European Association of Urology Position in 2019. Eur Urol. 2019.](https://www.europeanurology.com/article/S0302-2838(19)30347-1/fulltext)
 - [US Preventive Services Task Force. Screening for Prostate Cancer: US Preventive Services Task Force Recommendation Statement. JAMA. 2018.](https://jamanetwork.com/journals/jama/fullarticle/2680553)
-- [INCa. Synthèse sur les bénéfices et les risques d'un dépistage du cancer de la prostate par dosage du PSA. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Synthese-sur-les-benefices-et-les-risques-d-un-depistage-du-cancer-de-la-prostate-par-dosage-du-PSA)
-- [INCa. La première prescription du PSA chez l'homme asymptomatique. 2016.](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/La-premiere-prescription-du-PSA-chez-l-homme-asymptomatique)
+- [INCa. Synthèse sur les bénéfices et les risques d'un dépistage du cancer de la prostate par dosage du PSA. 2016.](https://www.cancer.fr/catalogue-des-publications/synthese-sur-les-benefices-et-les-risques-d-un-depistage-du-cancer-de-la-prostate-par-dosage-du-psa)
+- [INCa. La première prescription du PSA chez l'homme asymptomatique. 2016.](https://www.cancer.fr/catalogue-des-publications/la-premiere-prescription-du-psa-chez-l-homme-asymptomatique)
 - [HAS. Détection précoce du cancer de la prostate. Mai 2013.](https://www.has-sante.fr/jcms/c_1623737/fr/detection-precoce-du-cancer-de-la-prostate)
 - [HAS. ALD n°30 - Cancer de la prostate. Guide maladie chronique. 2012.](https://www.has-sante.fr/jcms/c_725257/fr/ald-n-30-cancer-de-la-prostate)
 - [Horwich A, et al. Prostate cancer: ESMO Consensus Conference Guidelines 2012. Annals of Oncology. 2012.](https://www.annalsofoncology.org/article/S0923-7534(19)37245-X/fulltext)

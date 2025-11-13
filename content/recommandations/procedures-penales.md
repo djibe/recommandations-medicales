@@ -25,4 +25,4 @@ todo = "photo"
 Accès au guide du Conseil National de l'Ordre des Médecins (CNOM) sur les procédures pénales: réquisitions judiciaires, saisies de dossiers médicaux, convocation pour audition, témoignage en justice
 {.lead .mb-5}
 
-{{< card-link-external title="Procédures pénales pour les médecins" url="https://www.conseil-national.medecin.fr/sites/default/files/external-package/rapport/ec5f0r/cnom_medecins_et_procedure_penale.pdf" subtitle="par le CNOM" >}}
+{{< card-link-external title="Procédures pénales pour les médecins" url="https://www.conseil-national.medecin.fr/sites/default/files/2025-05/cnom_medecins_et_procedure_penale.pdf" subtitle="par le CNOM" >}}

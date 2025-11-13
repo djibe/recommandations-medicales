@@ -294,10 +294,11 @@ graph TB
 - [Ridd MJ, et al. Effectiveness and safety of lotion, cream, gel, and ointment emollients for childhood eczema: a pragmatic, randomised, phase 4, superiority trial. Lancet Child Adolesc Health. 2022.](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(22)00146-8/fulltext)
 - [Staumont D. La dermatite atopique. Dermato-Info. 29/05/2021.](https://dermato-info.fr/fr/les-maladies-de-la-peau/la-dermatite-atopique)
 - [Wollenberg A, et al; European Task Force on Atopic Dermatitis/EADV Eczema Task Force. ETFAD/EADV Eczema task force 2020 position paper on diagnosis and treatment of atopic dermatitis in adults and children. J Eur Acad Dermatol Venereol. 2020.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16892)
-- [Société Française de Dermatologie. Prise en charge de la dermatite atopique de l'enfant (texte court). Ann Dermatol Venereol. 2005. (PDF)](https://www.sfdermato.org/upload/recommandations/da-court-21929906693b437d6f4315bef48d1518.pdf)
+- [Société Française de Dermatologie. Prise en charge de la dermatite atopique de l'enfant (texte court). Ann Dermatol Venereol. 2005. (PDF)](https://www.sciencedirect.com/science/article/abs/pii/S0151963805792073)
 
 ### Bibliographie en attente
 
+- [Centre de Preuves en Dermatologie, great, Société Française de Dermatologie. Recommandations françaises pour la prise en charge de la dermatite atopique. 2025. (PDF)](https://www.sfdermato.org/upload/recommandations/4_texte-long.pdf)
 - [NICE. Atopic eczema in under 12s: diagnosis and management. NICE guideline. 2025.](https://www.nice.org.uk/guidance/cg57)
 - [Wheeler KE, et al. Updated Guidelines for Atopic Dermatitis-AAAAI/ACAAI Joint Task Force. JAMA Pediatr. 2024.](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2820957)
 - [Xu AZ, Alexander JT. Topical Therapies for Atopic Dermatitis. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811421)

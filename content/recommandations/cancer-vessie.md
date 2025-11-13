@@ -142,7 +142,7 @@ Mesures associées à la prise en charge des cancers:
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - Soutien psychologique
 - Soutien psychologique voire psychothérapie
-- Information du patient: [guide HAS/INCa (PDF)](https://www.e-cancer.fr/content/download/84979/866709/file/ALD30_GP_Kvessie_VF.pdf)
+- Information du patient: [guide INCa](https://www.cancer.fr/personnes-malades/les-cancers/vessie)
 - Association de patients: [Ligue contre le cancer](https://www.ligue-cancer.net)
 - Droit à l'oubli: protocole achevé depuis 5 ans en l'absence de rechute
 - Si concerné, déclaration en [Maladie professionnelle]({{% relref "maladie-professionnelle.md" %}}): [16 bis, 15 ter](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&motsCles=&planPatho=TABMALPRO_Pathologie%20r%C3%A9nale%2C%20v%C3%A9sicale%20et%20g%C3%A9nitale%2FPathologie%20des%20voies%20urinaires%2FTumeur%20de%20vessie)
@@ -165,7 +165,7 @@ La cystectomie totale comprend chez l'homme une cystoprostatectomie et chez la f
 - {{< references/beh-cancers-incidence >}}
 - [Collège Français des Enseignants en Urologie (CFEU). Tumeurs vésicales. Item 314. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-314-Tumeurs-de-vessie.pdf)
 - [HAS. Cancer de la vessie. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_969326/fr/ald-n-30-cancer-de-la-vessie)
-- [HAS, INCa. Cancer de la vessie. Guide Affection longue durée. 2010.](https://www.e-cancer.fr/Professionnels-de-sante/Recommandations-et-outils-d-aide-a-la-pratique/Cancers-uronephrologiques)
+- [HAS, INCa. Cancer de la vessie. Guide Affection longue durée. 2010.](https://www.cancer.fr/catalogue-des-publications/guide-ald-cancer-de-la-vessie)
 
 ### Bibliographie en attente
 

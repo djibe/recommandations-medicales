@@ -453,13 +453,13 @@ graph TB
 - [HAS, ANRS. Traitement de la Covid-19. 22/12/2023.](https://www.has-sante.fr/jcms/p_3447571/fr/traitement-de-la-covid-19)
 - [HAS. Guide du parcours de soins : surpoids et obésité de l'adulte. Guide parcours de soins. 2023.](https://www.has-sante.fr/jcms/p_3408871/fr/guide-du-parcours-de-soins-surpoids-et-obesite-de-l-adulte)
 - [HAS. Chirurgie métabolique : traitement chirurgical du diabète de type 2 - Rapport d'évaluation. 10/10/2022.](https://www.has-sante.fr/jcms/p_3303025/fr/chirurgie-metabolique-traitement-chirurgical-du-diabete-de-type-2-rapport-d-evaluation)
-- [Fontbonne A et al. Prevalence of Overweight and Obesity in France: The 2020 Obepi-Roche Study by the "Ligue Contre l'Obésité". J Clin Med. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9918095/)
+- [Fontbonne A, et al. Prevalence of Overweight and Obesity in France: The 2020 Obepi-Roche Study by the "Ligue Contre l'Obésité". J Clin Med. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9918095/)
 - [HAS, FFN. Obésité de l'adulte : prise en charge de 2e et 3e niveaux - Partie I : prise en charge médicale. Recommandation de bonne pratique. 2022.](https://www.has-sante.fr/jcms/p_3346001/fr/obesite-de-l-adulte-prise-en-charge-de-2e-et-3e-niveaux-partie-i-prise-en-charge-medicale)
 - [Inserm. Objectif summer body : tous égaux face à la perte de poids, vraiment ?. Salle de presse. 07/07/2022.](https://presse.inserm.fr/canal-detox/objectif-summer-body-tous-egaux-face-a-la-perte-de-poids-vraiment/)
 - {{< references/college-endocrino >}}
 - [HAS. Obésité : prise en charge chirurgicale chez l'adulte. 2009.](https://www.has-sante.fr/jcms/c_765529/fr/obesite-prise-en-charge-chirurgicale-chez-l-adulte)
 - [Rapport d'une consultation de l'OMS. Obésité : prévention et prise en charge de l'épidémie mondiale. Série de rapports techniques 894. Genève. 2003. (1998)](https://apps.who.int/iris/handle/10665/42734)
-- [Organisation Mondiale de la Santé. Obésité.](https://www.who.int/fr/health-topics/obesity)
+- [Organisation Mondiale de la Santé. Obésité.](https://www.who.int/health-topics/obesity)
 
 ### Bibliographie en attente
 

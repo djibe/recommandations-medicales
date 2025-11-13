@@ -362,10 +362,9 @@ graph TB
 - [HAS. Quand faut-il faire une coloscopie de contrôle après une polypectomie ?. 2013.](https://www.has-sante.fr/jcms/c_1695396/fr/quand-faut-il-faire-une-coloscopie-de-controle-apres-une-polypectomie)
 - [HAS. Dépistage et prévention du cancer colorectal. Juin 2013.](https://www.has-sante.fr/jcms/c_1623732/fr/depistage-et-prevention-du-cancer-colorectal)
 - [HAS. ALD n°30 - Cancer colorectal. 2012.](https://www.has-sante.fr/jcms/c_644453/fr/ald-n-30-cancer-colorectal)
-- [INCa. Indication de la radiothérapie - Rectum. 2009 (PDF)](https://www.e-cancer.fr/content/download/58359/532048/file/Indicat-radioth-RECTUM_final_janv2010.pdf)
-- [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique polypose adénomateuse familiale et polypose liée à MYH. 2009. (PDF)](https://www.e-cancer.fr/content/download/58351/531984/file/chir_prophy_predi_gene_polypose.pdf)
-- [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique SYNDROME HNPCC / lynch. 2009. (PDF)](https://www.e-cancer.fr/content/download/58350/531976/file/chir_prophy_predi_gene_hnpcc-lynch.pdf)
-- [SFCD et ACHBT. Prise en charge des patients atteints de métastases hépatiques synchrones du cancer colorectal (synthèse). (PDF)](https://www.e-cancer.fr/content/download/58365/532096/file/reco-label-mhs-synthese.pdf)
+- INCa. Indication de la radiothérapie - Rectum. 2009 (PDF)
+- [INCa. Chirurgie prophylactique des cancers avec prédisposition génétique. 2009.](https://www.cancer.fr/catalogue-des-publications/chirurgie-prophylactique-des-cancers-avec-predisposition-genetique)
+- SFCD et ACHBT. Prise en charge des patients atteints de métastases hépatiques synchrones du cancer colorectal (synthèse). (PDF)]
 - [ESMO. Localised Colon Cancer. Interactive Guideline.](http://interactiveguidelines.esmo.org/esmo-web-app/gl_toc/index.php?GL_id=74)
 
 {{%/sources%}}

@@ -30,7 +30,7 @@ modele = true
 - 1/3 des tests de grossesse sont non conformes (*[DGCCRF](https://www.economie.gouv.fr/dgccrf/les-autotests-de-fertilite-au-banc-dessai)*)
 - Vaccins Covid-19 et grippe (à l'automne) et coqueluche à chaque grossesse, anti-VRS Abrysvo si 32-36 SA de septembre à janvier (une seule dose)
 - Appli officielle du suivi de grossesse: [Nata](https://play.google.com/store/search?q=NATA&c=apps) (multilingue)
-- Besoins en [calcium]({{% relref "apports-calcium.md" %}}): 1 g/j (*IOF*), [alimentation pendant la grossesse (MangerBouger)](https://www.mangerbouger.fr/manger-mieux/a-tout-age-et-a-chaque-etape-de-la-vie/les-recommandations-et-conseils-avant-pendant-et-apres-la-grossesse/manger-equilibre-avant-pendant-et-apres-la-grossesse) et guide [activité physique](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_grossesse.pdf) (PDF)
+- Besoins en [calcium]({{% relref "apports-calcium.md" %}}): 1 g/j (*IOF*), [alimentation pendant la grossesse (MangerBouger)](https://www.mangerbouger.fr/manger-mieux/a-tout-age-et-a-chaque-etape-de-la-vie/les-recommandations-et-conseils-avant-pendant-et-apres-la-grossesse) et guide [activité physique](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_grossesse.pdf) (PDF)
 
 Chapitres dédiés:
 
@@ -340,7 +340,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{% rel
 | Obésité      |                        ≥ 30 |                                                    5 - 9 |
 {{< /table >}}
 
-> -- *[Louvet et al; Société Francophone du Diabète (SFD). Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022_v2.pdf)*
+> -- *[Louvet et al; Société Francophone du Diabète (SFD). Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022_v2_0.pdf)*
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}

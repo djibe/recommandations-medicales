@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-06-04T20:33:37+02:00"
 publishdate = "2024-06-06"
-lastmod = "2025-10-27"
+lastmod = "2025-11-13"
 specialites = ["cardiologie"]
 annees = "2025"
 sources = []
@@ -53,14 +53,15 @@ Sur Omnidoc, le groupe *SOS ECG* offre à tous les confrères cette expertise.
 - [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Électrocardiogramme: indications et interprétations. Item 231. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
 - [ECGclic](https://ecgclic.fr)
 - [e-cardiogram](https://www.e-cardiogram.com) (Dr Pierre Taboulet)
-- [ECG Learning Center](https://ecg.utah.edu/) (Pr Frank Yanowitz)
+- [ECG Learning Center](https://ecg.utah.edu) (Pr Frank Yanowitz)
+- [CardioLearn](https://www.cardio-learn.com)
 
 Particularités de l'[ECG pédiatrique](https://fr.my-ekg.com/ecg-pediatrique/ecg-pediatrique.html).
 {.alert .alert-info}
 
 ### Entraînements à la lecture d'ECG
 
-- [Cardio Learn](https://cardiolearn.univ-catholille.fr/exercice-ecg/) (La Catho - Lille)
+- [Uness cardiologie](https://www.uness.fr/projets/formation/uness-cardiologie)
 - [Cardiocases](https://www.cardiocases.com/fr/ecg/cursus-ecg)
 - [ECG Quiz](https://www.ecg-quiz.com/ecg-quiz/)
 - [EKG.Academy](https://ekg.academy/fr/exercices-entrainement-ecg)

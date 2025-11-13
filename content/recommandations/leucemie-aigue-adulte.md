@@ -131,9 +131,9 @@ Le traitement de la leucémie aiguë est urgent et décidé en réunion de conce
 Mesures générales associées à la prise en charge de la leucémie aiguë:
 
 - Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
-- [Guide HAS/INCa d'information sur la leucémie aiguë](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/La-prise-en-charge-des-leucemies-aiguees-de-l-adulte) et [sfh myéloïde (PDF)](https://sfh.hematologie.net/sites/sfh.hematologie.net/files/medias/documents/leucemieaigue_myeloide.pdf)
 - Soutien psychologique voire psychothérapie
 - Évaluation nutritionnelle
+- Information du patient: [guide INCa LAM](https://www.cancer.fr/toute-l-information-sur-les-cancers/comprendre-les-cancers/epidemiologie-et-donnees-en-cancerologie/les-donnees-sur-les-cancers/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine/hemopathies-malignes/leucemies-aigues-myeloides-lam) et [sfh myéloïde (PDF)](https://sfh.hematologie.net/sites/sfh.hematologie.net/files/medias/documents/leucemieaigue_myeloide.pdf)
 - Association de patients: [Fédération Leucémie Espoir](https://www.leucemie-espoir.org)
 - [Tableaux des maladies professionnelles](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&field_activites_nuisances=&field_maladies=leuc%C3%A9mie&field_numeroCAS=&mot_cles_tableau=&motsCles=&valid_RECHERCHE_MOTSCLES=Rechercher&introspection=)
 
@@ -188,6 +188,6 @@ style fortuite stroke:#4150f5, stroke-width:1px
 
 - Société française d'hématologie (sfh). Leucémies aiguës. Hématologie Réussir son DFASM. 2021.
 - [HAS, INCa. Leucémies aiguës de l'adulte. Actes et prestations affection de longue durée. 2015.](https://www.has-sante.fr/jcms/c_1216166/fr/ald-n-30-leucemie-aigue-de-l-adulte)
-- [HAS, INCa. Leucémies aiguës de l'adulte. Guide affection de longue durée. 2011. (PDF)](https://www.e-cancer.fr/content/download/95951/1021452/file/GUIALDLEUAIGMD12.pdf)
+- [HAS, INCa. Leucémies aiguës de l'adulte. Guide affection de longue durée. 2011.](https://www.cancer.fr/catalogue-des-publications/guide-ald-leucemies-aiguees-de-l-adulte)
 
 {{%/sources%}}

@@ -213,7 +213,7 @@ Mesures associées à la prise en charge du carcinome hépatocellulaire:
 - Suivi pluridisciplinaire
   - Suivi nutritionnel
   - Soutien psychologique voire psychothérapie
-- Information du patient: [guide HAS sur le CHC (PDF)](https://www.e-cancer.fr/content/download/85014/866989/file/GP_Cancer_Foie.pdf), [guide AFEF](https://afef.asso.fr/cancer-du-foie-chc) et [guide INCa sur les traitements](https://www.e-cancer.fr/Expertises-et-publications/Catalogue-des-publications/Les-traitements-du-cancer-du-foie)
+- Information du patient: [guide INCA](https://www.cancer.fr/personnes-malades/les-cancers/foie), [guide AFEF](https://afef.asso.fr/cancer-du-foie-chc)
 - Association de patients: [Ligue contre le cancer](https://www.ligue-cancer.net), [roseup](https://www.rose-up.fr)
 - Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 
@@ -252,7 +252,7 @@ graph TB
 - [European Association for the Study of the Liver. EASL Clinical Practice Guidelines: Management of hepatocellular carcinoma. J Hepatol. 2018.](https://www.journal-of-hepatology.eu/article/S0168-8278(18)30215-0/fulltext)
 - [Trinchet JC; SNFGE, AFEF. Diagnostic du carcinome hépatocellulaire. Conseil de pratique. 2016. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/recommandations/2016_chc_avec_figure_integree_0.pdf)
 - [HAS, INCa. Cancer primitif du foie. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_1005121/fr/ald-n-30-cancer-primitif-du-foie)
-- [HAS, INCa. Cancer primitif du foie. Guide Affection de longue durée. 2010. (PDF)](https://www.e-cancer.fr/content/download/95938/1021348/file/GUIALDFOIE10.pdf)
+- [HAS, INCa. Cancer primitif du foie. Guide Affection de longue durée. 2010.](https://www.cancer.fr/catalogue-des-publications/guide-ald-cancer-primitif-du-foie)
 
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}

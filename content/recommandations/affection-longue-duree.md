@@ -154,7 +154,7 @@ Le médecin doit ajouter la mention **<< suivi post-ALD >>** sur les ordonnances
 {{% /collapse %}}
 {{%sources%}}
 
-- [Ameli Médecin. Simplification administrative : durée d'exonération du ticket modérateur allongée pour 4 ALD. 19/07/2024.](https://www.ameli.fr/medecin/actualites/simplification-administrative-duree-d-exoneration-du-ticket-moderateur-allongee-pour-4-ald-0)
+- Ameli Médecin. Simplification administrative : durée d'exonération du ticket modérateur allongée pour 4 ALD. 19/07/2024.
 - [Ameli Médecins. Qu'est-ce qu'une affection de longue durée ?. 07/06/2024](https://www.ameli.fr/medecin/exercice-liberal/prise-charge-situation-type-soin/situation-patient-ald-affection-longue-duree/definition-ald)
 - [Ameli Médecin. Le suivi post-ALD. 2023.](https://www.ameli.fr/medecin/exercice-liberal/prise-charge-situation-type-soin/situation-patient-ald-affection-longue-duree/suivi-post-ald)
 - [Ameli. Qu'est-ce que le dispositif appelé Affection Longue Durée (ALD) ?. 23/11/2023.](https://www.ameli.fr/assure/droits-demarches/maladie-accident-hospitalisation/affection-longue-duree-ald/affection-longue-duree-maladie-chronique)

@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-06-07T11:39:34+02:00"
 publishdate = "2024-06-09"
-lastmod = "2025-01-06"
+lastmod = "2025-11-13"
 specialites = ["certificats"]
 annees = "2025"
 sources = ["CNOM"]
@@ -18,7 +18,7 @@ sctid = "772786005"
 icd10 = []
 image = true
 imageSrc = "Le certificat médical. unDraw"
-todo = "liens"
+todo = "liens, comment savoir ce qui change dans publi CNOM ?"
 tableFilter = true
 +++
 
@@ -58,6 +58,7 @@ Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{%
 | Hôpital | Demande de prolongation d'activité des Praticiens Hospitaliers (PH) | Oui | R.6152-24 et R.152-25 du Code de la santé publique |
 | Assistante-maternelle | Certificat d'aptitude à l'exercice de la profession | Non | Article L.423-23-1 du Code de l'action sociale et des familles : il ne peut être établi que par la médecine du travail |
 | Assistante-maternelle | Agrément | Oui | Article R.421-3 du Code de l'action sociale et des familles et arrêté ministériel du 28 octobre 1992 fixant les conditions de l'examen médical obligatoire.<br>Pour obtenir l'agrément d'assistant maternel ou d'assistant familial, le candidat doit passer un examen médical qui a pour objet de vérifier que son état de santé lui permet d'accueillir habituellement des mineurs et dont le contenu est fixé par arrêté des ministres chargés de la santé et de la famille |
+| Agents des voies navigables | Certificat d'aptitude pour les agents de voies navigables de France | Oui | Article A. 4231-4-1 du Code des transports<br>Le texte ne précise pas la spécialité du médecin devant établir le certificat, mais le Conseil national estime que le médecin du travail est plus à même de procéder à cet examen d’aptitude |
 | Sport avec fédération | Première demande de licence | Par fédération | Le site service public a mis en place un simulateur pour savoir si un certificat est nécessaire.<br>Ce sont les fédérations sportives qui décident si la présentation d'un certificat médical d'absence de contre-indication (CACI) est nécessaire pour la délivrance d'une licence ou la participation à une compétition sportive, selon une fréquence qu'elles déterminent. Cette décision est prise après avis de la commission médicale de chaque fédération qui doit également fixer la nature, la périodicité et le contenu des examens médicaux liés à l'obtention de ce certificat, en fonction des types de participants et de pratique. L'inscription à une compétition sportive autorisée par une fédération délégataire ou organisée par une fédération agréée est subordonnée à la présentation d'une licence de la fédération pour la discipline concernée par la compétition ou d'un CACI pour les personnes non licenciées, si la fédération en question l'exige. Par ailleurs, chaque fédération peut dresser la liste des licences délivrées par d'autres fédérations agréées ou délégataires permettant de participer aux compétitions sportives qu'elle organise ou autorise.<br>[Annuaire des fédérations](https://www.sports.gouv.fr/annuaire-des-federations) |
 | Sport avec fédération | Renouvellement de license | Par fédération | Voir *Première demande de licence* |
 | Sport avec fédération | Participation à une compétition | Par fédération | Voir *Première demande de licence* |
@@ -67,7 +68,7 @@ Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{%
 | Acquisition et détention d'arme à feu | Convoyeur de fonds | Oui | L'article R.4624-10 du Code du travail prévoit le certificat sans indiquer s'il doit être établi par le médecin traitant ou le médecin du travail |
 | Acquisition et détention d'arme à feu | Tir sportif | Oui | Article L.231-1 et L.231-2-3 du Code du sport |
 | Acquisition et détention d'arme à feu | Acquisition et détention d'une arme à feu | Oui | Article L.312-6 du Code de la sécurité intérieure |
-| Permis de chasse | Permis de chasse | Oui | Cerfa n°13945*06<br>Article 423-6 du Code de l'environnement<br>Article L.423-15 et R.423-25 du Code de l'environnement, en cas de doute le préfet peut demander un certificat établi par un médecin assermenté |
+| Permis de chasse | Aptitude à la pratique de la chasse | Oui | Cerfa n°13945*06<br>Article 423-6 du Code de l'environnement<br>Article L.423-15 et R.423-25 du Code de l'environnement, en cas de doute le préfet peut demander un certificat établi par un médecin assermenté |
 | Permis bateau | Aptitude physique | Oui | Cerfa n°14673*01<br>Décret n°2007-1167 du 2 août 2007 et arrêté du 28 septembre 2007 |
 | Conduite | Aptitude ou inaptitude à la conduite | Non | L'examen médical relève des médecins agréés par les préfectures pour le contrôle de l'aptitude médicale à la conduite. Le médecin traitant doit néanmoins informer son patient d'une éventuelle inaptitude médicale (définitive ou temporaire) à la conduite, en rapport avec une pathologie ou une prescription médicamenteuse. Arrêté du 28 mars 2022 fixant la liste des affections médicales incompatibles ou compatibles avec ou sans aménagements ou restrictions pour l'obtention, le renouvellement ou le maintien du permis de conduire ou pouvant donner lieu à la délivrance de permis de conduire de durée de validité limitée |
 | Conduite | Dispense du port de la ceinture de sécurité dans un véhicule | Non | L'examen médical prévu pour la dispense du port de la ceinture de sécurité est réalisé par un médecin agréé par la préfecture du département. L'établissement d'un certificat de dispense par le médecin traitant n'a aucune valeur légale. Arrêté du 8 février 1999 modifié relatif aux conditions d'établissement, de délivrance et de validité du permis de conduire |
@@ -99,11 +100,11 @@ Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{%
 | Valproate de sodium et dérivés | Demande d'indemnisation | Oui | Dépakine: Article R1142-63-24 du Code de la santé publique |
 | Victime ou ayant droit de victime des essais nucléaires | Demande d'indemnisation | Oui | Décret n° 2014-1049 du 15 septembre 2014 relatif à la reconnaissance et à l'indemnisation des victimes des essais nucléaires français |
 | Mesures de placement et de maintien en isolement | Certificat venant à l'appui de la décision du préfet | Oui | Article L.3131-13 du Code de la santé publique |
-| Assurances | Certificat médical établi par le médecin traitant à la demande de l'assureur  | Non | [Précisions du CNOM (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/external-package/rapport/l346l7/cnom_questionnaires_de_sante_certificats_et_assurances.pdf) |
+| Assurances | Certificat médical établi par le médecin traitant à la demande de l'assureur  | Non | [Précisions du CNOM (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/2025-10/CNOM_%20ASSURANCES_%20QUESTIONNAIRES_%20DE_%20SANTE_%20ET_%20CERTIFICAT.pdf) |
 | Décès | Déclaration à l'état civil | Oui | Article R.1112-72 du Code de la santé publique<br>Articles L.2223-42 et R.2213-1-1 du Code général des collectivités territoriales |
 {{< /table >}}
 
 ## Sources {.mt-5}
 
-- [Conseil National de l'Ordre des Médecins (CNOM). Les certificats médicaux pour majeurs. Février 2024. (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/external-package/fiche_pratique/1wefaca/cnom_tableau_certificats_medicaux_majeurs.pdf)
+- [Conseil National de l'Ordre des Médecins (CNOM). Les certificats médicaux pour majeurs. Avril 2025. (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/2025-06/cnom_tableau_certificats_medicaux_majeurs.pdf)
 - [Certificats Absurdes](https://www.certificats-absurdes.fr)

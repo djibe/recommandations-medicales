@@ -181,7 +181,7 @@ graph TB
 
 - [Nicole D, et al. EAU Guidelines on Testicular Cancer. 2025.](https://uroweb.org/guidelines/testicular-cancer)
 - [Collège Français des Enseignants en Urologie (CFEU). Tumeur du testicule. Item 313. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-313-Tumeur-testicule.pdf)
-- [HAS, INCa. Cancers du testicule Tumeurs germinales. Guide Affection de longue durée. 2011. (PDF)](https://www.e-cancer.fr/content/download/95925/1021244/file/GUIALDTEST11.pdf)
+- [HAS, INCa. Cancers du testicule Tumeurs germinales. Guide Affection de longue durée. 2011. (PDF)](https://www.cancer.fr/Media/files/ald-n-30-guide-medecin-mai-2011)
 - [HAS, INCa. Cancer du testicule Tumeurs germinales. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_1061933/fr/ald-n-30-cancer-du-testicule)
 
 ### Bibliographie en attente
