@@ -27,7 +27,7 @@ flowchart = true
 - Ils surviennent le plus souvent chez l'enfant et régressent spontanément en 8 mois (rarement plus d'un an)
 - La prise en charge des molluscum contagiosum comprend des mesures d'hygiène pour limiter la dissémination et le plus souvent une abstention thérapeutique
 - En cas d'atteinte du visage, des lésions nombreuses ou persistantes, avis dermatologique pour le traitement des molluscums par curetage ou cryothérapie à l'azote liquide (anesthésie fréquente)
-- Une atteinte pelvienne est considérée comme une [infection sexuellement transmissible (IST)](/tags/ist/) mineure, à différencier de condylomes
+- Une atteinte pelvienne est considérée comme une [infection sexuellement transmissible (IST)](/tags/ist/) mineure, à différencier de [condylomes]({{% relref "condylomes-ano-genitaux.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

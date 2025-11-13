@@ -158,7 +158,7 @@ Signes cliniques mineurs:
   - [Candidose buccale ou génitale récidivante]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
   - Maladie de Kaposi
   - Autres  
-  Porphyrie cutanée tardive, folliculite, condylomes, [molluscum contagiosum]({{% relref "molluscum-contagiosum.md" %}}), leucoplasie chevelue de la langue.
+  Porphyrie cutanée tardive, folliculite, [condylomes]({{% relref "condylomes-ano-genitaux.md" %}}), [molluscum contagiosum]({{% relref "molluscum-contagiosum.md" %}}), leucoplasie chevelue de la langue.
 - AEG, fébricule
 - [Sueurs nocturnes](/tags/sueurs-nocturnes/)
 
