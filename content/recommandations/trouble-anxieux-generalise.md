@@ -85,7 +85,7 @@ Trouble anxieux généralisé selon le DSM-5 si tous les critères sont remplis:
 4. L'anxiété, les soucis ou les symptômes physiques entraînent une détresse ou une altération cliniquement significatives du fonctionnement social, professionnel ou dans d'autres domaines importants.
 5. La perturbation n'est pas imputable aux effets physiologiques d'une substance (ex. substance donnant lieu à abus, médicament) ou d'une autre affection médicale (ex. [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}})).
 6. La perturbation n'est pas mieux expliquée par un autre trouble mental (stress post-traumatique, TOC, délire).
-{.liste-lettres}
+{.list-letters}
 
 Prendre en compte la variabilité des symptômes liée à la culture pour apprécier les critères diagnostiques (ex: vertiges, troubles digestifs).
 

@@ -181,7 +181,7 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{%
 3. Les symptômes ne sont pas attribuables à l'effet physiologique d'une substance ou d'une autre affection médicale.
 4. L'occurrence de l'EDC n'est pas mieux expliquée par un trouble schizo-affectif, une schizophrénie, un trouble schizophréniforme, un trouble délirant, ou un autre trouble psychotique.
 5. Il n'y a jamais eu d'épisode maniaque ou hypomaniaque.
-{.liste-lettres}
+{.list-letters}
 
 L'évaluation de la sévérité repose sur le nombre de critères, la sévérité des symptômes et le degré de l'altération du fonctionnement:
 
@@ -217,7 +217,7 @@ L'évaluation de la sévérité repose sur le nombre de critères, la sévérit�
     5. modification de l'activité psychomotrice, caractérisée par une agitation ou un ralentissement (signalés ou observés)
     6. perturbation du sommeil de n'importe quel type
     7. modification de l'appétit (diminution ou augmentation) avec variation pondérale correspondante
-{.liste-lettres}
+{.list-letters}
 
 Éléments importants:
 

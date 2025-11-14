@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-11-06T15:09:23+01:00"
 publishdate = "2025-11-06"
-lastmod = "2025-11-10"
+lastmod = "2025-11-14"
 specialites = ["dermatologie"]
 annees = "2025"
 sources = []
@@ -43,6 +43,7 @@ todo = "flow > Kanban"
 | [NHS England](https://www.e-lfh.org.uk/programmes/dermatology/) | VPN anglais nécessaire |
 | [Skin Deep](https://dftbskindeep.com/quiz/) ||
 | [Université Numérique de la Dermatologie Francophone](https://undf.net/troisieme-cycle/) ||
+| YouDermoscopy | [Android](https://play.google.com/store/search?q=youdermoscopy&c=apps), [iOS](https://apps.apple.com/fr/app/youdermoscopy/id840064705) |
 | **Sites payants** ||
 | [AccessDermatologyDxRx](https://dermatology.mhmedical.com/) | Payant |
 | [British College of Dermatology](https://learning.bcd.org.uk/my/?categoryid=24) | Payant |

@@ -4,7 +4,7 @@ title = "Incontinence fécale (ou anale)"
 titleSeo = "Incontinence fécale ou anale"
 prefix = "l'"
 description = "Recommandations pour la prise en charge de l'incontinence fécale ou anale. Mesures diététiques, régularisation du transit fibres, rééducation biofeedback ..."
-synonyms = []
+synonyms = ["Incontinence anale"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-11T16:50:35+02:00"
 publishdate = "2023-04-12"
@@ -24,10 +24,10 @@ flowchart = true
 
 {{%article-summary%}}
 
-- L'incontinence fécale est le passage incontrôlé de selles ou de gaz pendant au moins 3 mois chez un sujet de plus de 4 ans ayant acquis la propreté
+- L'incontinence anale ou fécale est le passage incontrôlé de selles ou de gaz pendant au moins 3 mois chez un sujet de plus de 4 ans ayant acquis la propreté
 - L'examen clinique recherche la cause et le retentissement: antécédents, examens diététique, neurologique et pelvien
 - La prise en charge de première intention de l'incontinence fécale associe: mesures hygiéno-diététiques avec agenda du transit et adaptations diététiques une par une, régularisation du transit, rééducation pelvienne avec biofeedback, médicaments adaptés selon le transit
-- En cas de doute sur le diagnostic, d'anomalie à l'examen ou de résistance au traitement, le suivi doit être spécialisé par le proctologue
+- En cas de doute sur le diagnostic, d'anomalie à l'examen ou de résistance au traitement, le suivi de l'incontinence anale doit être spécialisé par le proctologue
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -159,8 +159,8 @@ graph TB
 
 ### Bibliographie en attente
 
-- [ACOG Practice Bulletin No. 210: Fecal Incontinence. Obstet Gynecol. 2019.](https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2019/04/fecal-incontinence
-)
+- [Billecocq S, Roumeguere P. Recommandations 2025 de la Société nationale française de colo-proctologie pour la prise en charge de l'incontinence anale du postpartum. Gynécologie Obstétrique Fertilité & Sénologie. 2025.](https://www.sciencedirect.com/science/article/abs/pii/S2468718925002909)
+- [ACOG Practice Bulletin No. 210: Fecal Incontinence. Obstet Gynecol. 2019.](https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2019/04/fecal-incontinence)
 - [NICE. Faecal incontinence in adults: management. Clinical guideline. 2007.](https://www.nice.org.uk/guidance/cg49)
 
 {{%/sources%}}

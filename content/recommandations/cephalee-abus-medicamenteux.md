@@ -8,7 +8,7 @@ synonyms = ["Céphalée médicamenteuse", "céphalée par mésusage médicamente
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-10-23T23:38:11+02:00"
 publishdate = "2025-10-24"
-lastmod = "2025-10-24"
+lastmod = "2025-11-14"
 specialites = ["neurologie"]
 annees = "2021"
 sources = ["SFEMC", "EAN"]
@@ -28,6 +28,8 @@ todo = "photo > flow | AMM ? | relecture demandée Pr MOISSET"
 - L'examen identifie la céphalée primaire, un terrain anxieux et des comorbidités favorisant le mésusage des antalgiques
 - Une IRM cérébrale n'est indiquée qu'en cas de signes d'alarme chez le migraineux
 - La prise en charge de la céphalée par abus médicamenteux débute par l'information du patient avec le relevé d'un agenda des céphalées et des prises médicamenteuses. En l'absence d'amélioration rapide, elle est pluridisciplinaire avec neurologue ou algologue, psychothérapie et traitement prophylactique (topiramate en première intention)
+
+Chapitre lié: [migraine]({{% relref "migraine.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -51,9 +53,10 @@ SFEMC
 
 La céphalée par abus médicamenteux est un **diagnostic clinique** d'après les critères ICHD-3:
 
-A. Céphalée survenant ≥ 15 jours/mois chez un patient ayant une céphalée préexistante
-B. Surconsommation régulière depuis plus de 3 mois d'un ou plusieurs médicaments utilisés comme traitement de crise et/ou traitement symptomatique des céphalées
-C. N'est pas mieux expliquée par un autre diagnostic de l'ICHD-3
+1. Céphalée survenant ≥ 15 jours/mois chez un patient ayant une céphalée préexistante
+2. Surconsommation régulière depuis plus de 3 mois d'un ou plusieurs médicaments utilisés comme traitement de crise et/ou traitement symptomatique des céphalées
+3. N'est pas mieux expliquée par un autre diagnostic de l'ICHD-3
+{.list-letters}
 
 Le patient doit consommer des antalgiques (ergotamine, triptan, opioïdes ...) fréquemment (triptans ≥ 10 jours/mois, AINS ≥ 15 jours/mois ...).
 

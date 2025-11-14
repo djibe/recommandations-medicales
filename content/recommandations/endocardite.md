@@ -31,7 +31,7 @@ todo = "Brossettes ?, https://pubmed.ncbi.nlm.nih.gov/38916201/"
 - La prévention de l'endocardite par antibioprophylaxie ne concerne que les soins dentaires chez les sujets à haut risque d'endocardite:
   - Amoxicilline per os 2 g, 30 à 60 minutes avant le geste à risque (50 mg/kg chez l'enfant)
   - En cas d'allergie à la pénicilline: azithromycine 500 mg
-- Adresser aux *Urgences* toute suspicion d'endocardite infectieuse
+- La prise en charge de toute suspicion d'endocardite infectieuse est une urgence médicale
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -98,7 +98,7 @@ Actes dentaires contre-indiqués:
 
 Actes bucco-dentaires invasifs **nécessitant une antibioprophylaxie**: voir HAS 2024 page 9.
 
-Actes ne nécessitant pas d'antibioprophylaxie: anesthésie locale en site non inflammatoire, radiographie intrabuccale, préparation prothétique, pose d'une digue dans un contexte de gencive non inflammatoire, soins restaurateurs sans atteinte pulpaire, prise d'empreinte, mise en place et dépose de dispositifs orthodontiques collés ou scellés supra-gingivaux, dépose des fils de suture.
+Actes ne nécessitant pas d'antibioprophylaxie: anesthésie locale en site non inflammatoire, radiographie intra-buccale, préparation prothétique, pose d'une digue dans un contexte de gencive non inflammatoire, soins restaurateurs sans atteinte pulpaire, prise d'empreinte, mise en place et dépose de dispositifs orthodontiques collés ou scellés supra-gingivaux, dépose des fils de suture.
 
 Lors des autres gestes invasifs ([coloscopie]({{% relref "cancer-colorectal.md" %}}), endoscopie bronchique, urétéroscopie ...), l'antibioprophylaxie pourrait être considérée.
 

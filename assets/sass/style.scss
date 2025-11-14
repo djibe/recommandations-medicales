@@ -861,7 +861,7 @@ article {
   }
 
   ol:not([class]),
-  ol.liste-lettres,
+  ol.list-letters,
   ul:not([class]) {
     @extend .typography-body-1;
     li {
@@ -1715,7 +1715,7 @@ div.mermaidTooltip {
   letter-spacing: normal !important;
 }
 
-.liste-lettres {
+.list-letters {
   list-style-type: upper-alpha;
   > li > ol {
     list-style-type: decimal;

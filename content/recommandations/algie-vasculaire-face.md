@@ -92,7 +92,7 @@ SFEMC
     2. Sensation d'impatience ou agitation motrice
 4. La fréquence des crises varie de 1 crise, un jour sur deux, à 8 crises par jour pendant plus de la moitié des périodes actives de la maladie
 5. Ne correspondant pas mieux à un autre diagnostic de l'ICHD-3
-{.liste-lettres}
+{.list-letters}
 
 Le diagnostic d'AVF relève du neurologue.
 
@@ -100,13 +100,13 @@ AVF épisodique
 :  
     1. Crises répondant aux critères 3.1 de l'AVF et survenant par périodes
     1. Au moins deux périodes durant de 7 jours à 1 an (sans traitement) et séparées par une rémission durant ≥ 1 mois
-    {.liste-lettres}
+    {.list-letters}
 
 AVF chronique
 :  
     1. Crises répondant aux critères 3.1 de l'AVF
     1. Survenant sans rémission ou avec des rémissions durant moins d'un mois pendant au moins 1 an
-    {.liste-lettres}
+    {.list-letters}
 
 ### Diagnostic différentiel de l'AVF
 

@@ -145,7 +145,7 @@ Critères A à E remplis:
     - Nausées/vomissements
     - Photophobie et phonophobie
 5. N'est pas mieux expliquée par un autre diagnostic de l'ICHD-3
-{.liste-lettres}
+{.list-letters}
 
 L'**osmophobie** (dégoût des odeurs) est très spécifique de la crise migraineuse.  
 La douleur typique est frontale, orbitale, temporale et occipitale. Fréquemment cervicale et attribuée à tort à une névralgie d'Arnold.
@@ -184,7 +184,7 @@ Chez le moins de 18 ans, la crise migraineuse peut avoir certaines particularit�
     - ≥ 1 symptôme d'aura est positif
     - L'aura est accompagnée, ou suivie dans les 60 minutes, d'une céphalée
 1. N'est pas mieux expliquée par un autre diagnostic de l'ICHD-3
-{.liste-lettres}
+{.list-letters}
 
 Si les critères A, B et C sont présents: **migraine avec aura typique**. L'aura peut survenir durant la céphalée.
 
@@ -252,6 +252,8 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
 Indications à l'IRM cérébrale en cas de migraines:
 
 {{< clinique/migraine-irm >}}
+
+IRM dans le mois pour des céphalées occipitales récurrentes déclenchées par l'effort et soulagées à son arrêt (malformation de Chiari de type I).
 
 ### Bilan orthoptique
 
@@ -409,7 +411,7 @@ Prise en charge par traitement de fond au moins 3 mois avant de conclure à une 
   Débuter à 40 mg x 2-3/j avec paliers de 40 mg/semaine (*Prescrire*). Pas d'arrêt brutal.
   Effets indésirables: asthénie, mauvaise tolérance à l'effort; Contre-indications des BB.
   - [Métoprolol](https://bdpm.ansm.sante.fr/medicament/62837759/extrait#tab-rcp) LP 50-200 mg le matin
-  - Alternatives aux bêtabloquants: amitriptyline 25-150 mg/j, candésartan ou topiramate
+  - Alternatives aux bêtabloquants: amitriptyline 25-150 mg/j, candésartan 16 mg/j ou topiramate
 - Migraine chronique {{%class%}}(≥ 15 j/mois){{%/class%}}
   - Topiramate 50-200 mg en 1-2 prises  
     Prescription annuelle réservée au neurologue/pédiatre/algologue chez la fille et femme en âge de procréer (*ANSM 2024*)
@@ -540,12 +542,12 @@ Privilégier un traitement transdermique en continu à la plus faible dose possi
 {.alert .alert-info}
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant des céphalées migraineuses" "show" %}}
+{{%collapse "Prise en charge de la migraine" "show" %}}
 
-{{< mermaid title="Arbre décisionnel pour la prise en charge de la migraine. Dr JB Fron d'après SFEMC 2021" >}}
+{{< mermaid title="Prise en charge de la migraine par le médecin généraliste. Dr JB Fron d'après SFEMC" >}}
 graph TB
-  cephalees[Céphalées récidivantes] --> ichd3(Critères ICHD3)
-  style cephalees stroke:#4150f5, stroke-width:1px
+  céphalées[Céphalées récidivantes] --> ichd3(Critères ICHD3)
+  style céphalées stroke:#4150f5, stroke-width:1px
     ichd3 == "Migraine sans aura (MSA)" ==> generales("<strong>Mesures générales</strong><br>—<br>- Agenda migraineux<br>- Retentissement HIT-6, HAD<br>- Arrêt du tabac<br>- Facteur déclenchants identifiés")
       generales --> crise("<strong>Traitement de la crise</strong><br>—<br>- Légère: AINS ± triptan H1<br>- Modérée à sévère<br>triptan ± AINS H1")
       crise -- Réévaluation --> reevaluation("Après 3 crises:<br>M-TOQ et<br>adaptation du traitement") --> crise
@@ -560,10 +562,12 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Øie LR, et al. Candesartan versus placebo for migraine prevention in patients with episodic migraine: a randomised, triple-blind, placebo-controlled, phase 2 trial. Lancet Neurol. 2025.](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(25)00269-8/abstract)
 - [Charles AC, et al. State of the art in the management of migraine-A response to the American College of Physicians migraine preventive treatment guideline. Headache. 2025.](https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.15051)
 - [CBIP. Les triptans sont-ils sûrs chez les patients migraineux ayant un risque cardio-vasculaire élevé ?. Folia. 2025.](https://www.cbip.be/fr/les-triptans-sont-ils-surs-chez-les-patients-migraineux-ayant-un-risque-cardio-vasculaire-eleve/)
 - [RFCRPV. Point sur les anti-CGRP (calcitonine gene-related peptide) utilisés dans la migraine. 2025.](https://www.rfcrpv.fr/point-sur-les-anti-cgrp-calcitonine-gene-related-peptide-utilises-dans-la-migraine/)
 - [ANSM. Topiramate (Epitomax et génériques) : évolution des conditions de prescription et de délivrance pour améliorer l'accès aux soins des femmes souffrant de migraine. 13/12/2024.](https://ansm.sante.fr/actualites/topiramate-epitomax-et-generiques-evolution-des-conditions-de-prescription-et-de-delivrance-pour-ameliorer-lacces-aux-soins-des-femmes-souffrant-de-migraine)
+- [HAS. Céphalées de l'enfant et l'adolescent : pertinence de l'imagerie. 2024.](https://www.has-sante.fr/jcms/p_3383435/fr/cephalees-de-l-enfant-et-l-adolescent-pertinence-de-l-imagerie)
 - [Demarquay G, et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 1: Diagnosis and assessment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.001) ([VF](https://www.sciencedirect.com/science/article/pii/S2666479822002208))
 - [Ducros A, et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 2: Pharmacological treatment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.006) ([VF](https://www.sciencedirect.com/science/article/pii/S2666479822002191))
 - [Demarquay G, et al. Revised guidelines of the French headache society for the diagnosis and management of migraine in adults. Part 3: Non-pharmacological treatment. Revue Neurologique. 2021.](https://doi.org/10.1016/j.neurol.2021.07.009)
@@ -581,7 +585,6 @@ graph TB
 ### Bibliographie en attente
 
 - [Puledda F, et al. International Headache Society global practice recommendations for the acute pharmacological treatment of migraine. Cephalalgia. 2024.](https://journals.sagepub.com/doi/10.1177/03331024241252666)
-- [HAS. Céphalées de l'enfant et l'adolescent : pertinence de l'imagerie. 2024.](https://www.has-sante.fr/jcms/p_3383435/fr/cephalees-de-l-enfant-et-l-adolescent-pertinence-de-l-imagerie)
 - [Ducros A, et al. Recommandations pour le diagnostic et la prise en charge de la migraine chez l'adulte : situations spécifiques chez les femmes migraineuses. La Presse Médicale Formation. 2022.](https://www.sciencedirect.com/science/article/pii/S2666479822002154)
 - [Oskoui M, et al. Practice guideline update summary: Acute treatment of migraine in children and adolescents: Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology and the American Headache Society. Neurology. 2019.](https://www.neurology.org/doi/10.1212/WNL.0000000000008095?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 - [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf) (p.29)
