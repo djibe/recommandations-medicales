@@ -52,8 +52,6 @@ Indications à la réalisation de l'électrophorèse des protéines sériques (E
 - Purpura vasculaire
 - Anomalies de l'hémogramme sans cause évidente  
   {{%class%}}[Anémie]({{% relref "anemie.md" %}}), [lymphopénie]({{% relref "lymphopenie.md" %}}) isolée ou hyperlymphocytose, [hyperéosinophilie persistante]({{% relref "hypereosinophilie.md" %}}) (*PNDS HE*).{{%/class%}}
-- VS élevée avec CRP normale  
-  {{%class%}}En dehors de la grossesse et en tenant compte de l'âge.{{%/class%}}
 - [Hypercalcémie]({{% relref "hypercalcemie.md" %}})  
   {{%class%}}Ionisée ou corrigée en fonction de l'albuminémie/protidémie.{{%/class%}}
 - [Insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}) récente non obstructive

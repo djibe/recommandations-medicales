@@ -45,7 +45,6 @@ Spondyloarthrite (SpA)
 - Oligo-arthrite
 - Coxite
 - Raideur lombaire
-- VS > 30
 - Résistance aux AINS
 
 ### Complications
@@ -217,8 +216,8 @@ Sensibilité 87%, spécificité 96%
 Recherche d'un syndrome inflammatoire biologique:
 
 - NFS
-- VS, CRP  
-  {{%class%}}Syndrome inflammatoire modeste (60% des cas).{{%/class%}}
+- CRP  
+  {{%class%}}Syndrome inflammatoire modeste (60 % des cas).{{%/class%}}
 - Bilan cardiovasculaire  
   Glycémie à jeun, bilan lipidique pour calcul du {{< scores/heartscore >}}.
 
@@ -371,8 +370,7 @@ Une amélioration doit être obtenue à 3 mois pour poursuivre une stratégie, a
 
 ### Autres
 
-- Biologique  
-  VS, CRP.
+- Biologique: CRP
 - Radio thoracique, EFR  
   {{%class%}}Documente l'atteinte restrictive et la fibrose pulmonaire.{{%/class%}}
 - ECG  

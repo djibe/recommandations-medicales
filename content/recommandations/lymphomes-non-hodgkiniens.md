@@ -25,7 +25,7 @@ todo = "flow | épidémiologie, classification oms 2016"
 
 - Les lymphomes non hodgkiniens (LNH) sont un groupe hétérogène d'hémopathies malignes survenant surtout après 60 ans mais possibles à tout âge. Le pronostic est très variable selon le type de lymphome et les récidives sont fréquentes
 - Le diagnostic de lymphome est évoqué devant certains symptômes: adénopathies multiples persistantes, AEG, fièvre prolongée et/ou sueurs nocturnes et des signes de compression
-- Le bilan d'une suspicion de lymphome comporte: bilan biologique (NFS, VS, CRP, LDH, ionogramme, bilan rénal), frottis sanguin en cas d'hyperlymphocytose, radiographie pulmonaire et scanner cervico-thoraco-abdomino-pelvien
+- Le bilan d'une suspicion de lymphome comporte: bilan biologique (NFS, CRP, LDH, ionogramme, bilan rénal), frottis sanguin en cas d'hyperlymphocytose, radiographie pulmonaire et scanner cervico-thoraco-abdomino-pelvien
 - La prise en charge initiale des lymphomes non hodgkiniens (LNH) est réalisée en semi-urgence par l'équipe hospitalière d'hématologie ou d'oncologie après une biopsie ganglionnaire diagnostique
 - Des signes de compression ou une extension rapide des tumeurs nécessite une prise en charge urgente
 - Le suivi est régulier à vie pour détecter une récidive précoce du lymphome
@@ -136,7 +136,7 @@ Les lymphomes non hodgkiniens sont le plus souvent révélés par des poly-adén
 
 ### Bilan devant une suspicion de lymphome non hodgkinien
 
-- NFS, VS, CRP
+- NFS, CRP
 - Si hyperlymphocytose: frottis sanguin et immunophénotypage si anormal
 - LDH
 - Ionogramme sanguin

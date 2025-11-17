@@ -169,7 +169,7 @@ Sur prescription spécialisée, le bilan d'imagerie du syndrome de Cushing compr
 
 ### Bilan biologique non spécifique
 
-- NFS, VS, CRP
+- NFS CRP
 - Ionogramme sanguin, créatininémie
 - Bilan hépatique
 - TP, TCA

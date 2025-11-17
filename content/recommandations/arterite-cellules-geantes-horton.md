@@ -156,11 +156,11 @@ Information du patient dès que le diagnostic de maladie de Horton est suspecté
 - ± selon le tableau: ANCA, facteur rhumatoïde, anticorps anti-peptides citrullinés (CCP)
 {{%/info%}}
 
-Le **syndrome inflammatoire biologique** est quasi constant (CRP > 10 mg/L et souvent > 25; VS ≥ 50 mm) et son absence rend le diagnostic peu probable.
+Le **syndrome inflammatoire biologique** est quasi constant (CRP > 10 mg/L et souvent > 25) et son absence rend le diagnostic peu probable.
 
 Adresser au spécialiste (rhumatologue, interniste) en urgence pour confirmation du diagnostic et traitement.
 
-> **NB.** La VS n'est plus utilisée.
+> **NB.** La VS ne doit plus être utilisée (*HAS 2025*).
 
 ### Biopsie de l'artère temporale (BAT)
 

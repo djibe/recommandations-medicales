@@ -23,9 +23,9 @@ flowchart = true
 todo = "SEO traitement anticoagulant x3; plaq en HBPM préventif, proba forte et doppler neg?, reperfusion, risque récidive, differentiel, interrogatoire, http://www.thrombose-cancer.com/international-guidelines-2019/"
 +++
 
-Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'état.
-
 {{%article-summary%}}
+
+Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'état.
 
 Recommandations pour la prise en charge d'une suspicion de thrombose veineuse profonde (TVP) en l'absence de signe d'[embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}}) (dyspnée, malaise, tachycardie et douleur thoracique):
 

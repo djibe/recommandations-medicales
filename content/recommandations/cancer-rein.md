@@ -101,7 +101,6 @@ La découverte du cancer du rein est le plus souvent fortuite.
 ### Bilan d'une tumeur rénale
 
 - NFS
-- VS
 - Créatininémie, DFG selon {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - ASAT, ALAT, GGT, PAL
 - TP

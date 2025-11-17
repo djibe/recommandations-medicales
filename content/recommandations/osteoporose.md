@@ -162,7 +162,7 @@ Examens pour éliminer une ostéoporose secondaire.
 
 ### Bilan biologique pour la prise en charge de l'ostéoporose
 
-- NFS, VS, CRP
+- NFS, CRP
 - Ionogramme, créatininémie, DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - ASAT, ALAT, GGT, PAL
 - TSH

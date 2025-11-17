@@ -252,7 +252,7 @@ Indications au **remboursement** l'ostéodensitométrie au cours de la ménopaus
 
 ### Bilan des bouffées vasomotrices atypiques
 
-- NFS, VS, CRP
+- NFS, CRP
 - [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}})
 - [TSH](/tags/tsh/), thyrocalcitonine
 - PTH, calcémie, albuminémie
