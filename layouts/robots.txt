@@ -4,7 +4,8 @@ User-agent: Ai2Bot-DeepResearchEval
 User-agent: Ai2Bot-Dolma
 User-agent: aiHitBot
 User-agent: Amazonbot
-User-agent: amazon-kendra-
+User-agent: AmazonBuyForMe
+User-agent: amazon-kendra
 User-agent: Andibot
 User-agent: Anomura
 User-agent: anthropic-ai
@@ -12,6 +13,7 @@ User-agent: Applebot
 User-agent: Applebot-Extended
 User-agent: archive.org_bot
 User-agent: Arquivo-web-crawler
+User-agent: atlassian-bot
 User-agent: Authory
 User-agent: Awario
 User-agent: AwarioBot
@@ -24,6 +26,7 @@ User-agent: bedrockbot
 User-agent: bigsur.ai
 User-agent: Bravebot
 User-agent: Brightbot 1.0
+User-agent: BuddyBot
 User-agent: Bytespider
 User-agent: CCBot
 User-agent: ChatGLM-Spider
@@ -68,13 +71,16 @@ User-agent: ia_archiver
 User-agent: ia_archiver-web.archive.org
 User-agent: iaskspider/2.0
 User-agent: IABot
+User-agent: IbouBot
 User-agent: ICC-Crawler
 User-agent: ImagesiftBot
 User-agent: img2dataset
 User-agent: Internet Archive
 User-agent: ISSCyberRiskCrawler
 User-agent: Kangaroo Bot
+User-agent: KlaviyoAIBot
 User-agent: LinerBot
+User-agent: Linguee Bot
 User-agent: magpie-crawler
 User-agent: meta-externalagent
 User-agent: Meta-ExternalAgent
@@ -87,6 +93,7 @@ User-agent: MyCentralAIScraperBot
 User-agent: netarkivindsamling
 User-agent: netEstate Imprint Crawler
 User-agent: Nicecrawler
+User-agent: NotebookLM
 User-agent: NovaAct
 User-agent: OAI-SearchBot
 User-agent: offline
@@ -95,6 +102,7 @@ User-agent: omgilibot
 User-agent: OpenAI
 User-agent: Operator
 User-agent: PanguBot
+User-agent: Panscient
 User-agent: panscient.com
 User-agent: peer39_crawler
 User-agent: Perplexity-User
