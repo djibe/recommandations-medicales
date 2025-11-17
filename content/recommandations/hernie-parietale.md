@@ -141,7 +141,7 @@ La hernie crurale atteinte surtout les femmes:
 
 La hernie ombilicale de l'enfant:
 
-- Très fréquente (15-20%, prématuré +++) par hernie au travers de l'orifice ombilical
+- Très fréquente (15-20 %, prématuré +++) par hernie au travers de l'orifice ombilical
 - Apparaît souvent les premières semaines de vie et augmente en volume durant 6 mois
 - Guérison spontanée sous 3 ans le plus souvent (7 ans chez l'enfant à peau noire)
 - Le diagnostic est clinique avec tuméfaction aux caractères herniaires centrée sur l'ombilic

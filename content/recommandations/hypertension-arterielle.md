@@ -394,9 +394,9 @@ La baisse de pression artérielle intervient en 1 à 2 semaines après l'introdu
 
 ### Traitement de niveau 2
 
-{{< modal-btn modal-triple >}}IEC/ARA2 + TZD + ICa{{< /modal-btn >}} en 1 seul comprimé (non remboursés).
+Trithérapie {{< modal-btn modal-triple >}}IEC/ARA2 + TZD + ICa{{< /modal-btn >}} en 1 seul comprimé (non remboursé).
 
-Pour être remboursé: associer <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-iec">IEC + ICa</button> ou <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + ICa</button> et hydrochlorothiazide
+Pour être remboursé: utiliser la trithérapie Triplixam (amlodipine + indapamide + périndopril) ou associer <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-iec">IEC + ICa</button> ou <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + ICa</button> et hydrochlorothiazide.
 
 ### Traitement de niveau 3
 
@@ -563,7 +563,7 @@ graph TB
 {{< traitements/ara2 >}}
 
 {{% /modal %}}
-{{% modal title="Trithérapie dans l'hypertension" id="modal-triple"%}}
+{{% modal title="Trithérapies dans l'hypertension" id="modal-triple"%}}
 
 {{< traitements/hta-tritherapie >}}
 

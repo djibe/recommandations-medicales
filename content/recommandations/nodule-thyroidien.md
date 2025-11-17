@@ -39,9 +39,9 @@ Chapitres liés: [cancer de la thyroïde]({{% relref "cancer-thyroide.md" %}}), 
 
 Nodule thyroïdien
 : Toute hypertrophie localisée de la glande thyroïde. Il survient principalement chez les femmes (~75%).
-: Les nodules peuvent être de souches histologiques très différentes: adénomes, kystes, cancers (papillaire, vésiculaire, oxyphiles, médullaire, anaplasique), lymphomes et métastases. Le bilan initial sert à typer ce nodule pour connaître son risque évolutif. Seuls 11 à 29% des nodules thyroïdiens augmentent de taille sur 5 ans.
+: Les nodules peuvent être de souches histologiques très différentes: adénomes, kystes, cancers (papillaire, vésiculaire, oxyphiles, médullaire, anaplasique), lymphomes et métastases. Le bilan initial sert à typer ce nodule pour connaître son risque évolutif. Seuls 11 à 29 % des nodules thyroïdiens augmentent de taille sur 5 ans.
 : Le risque de cancer est plus faible en cas de nodules multiples.  
-Il est nettement plus élevé chez l'enfant (20% vs 5%) avec principalement des carcinomes papillaires de la thyroïde. Risque métastatique de 25% au diagnostic. Le pronostic reste excellent.
+Il est nettement plus élevé chez l'enfant (20 % versus 5%) avec principalement des carcinomes papillaires de la thyroïde. Risque métastatique de 25 % au diagnostic. Le pronostic reste excellent.
 
 ### Risque de malignité selon la classification échographique EU-TIRADS chez l'adulte
 

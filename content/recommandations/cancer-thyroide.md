@@ -43,7 +43,7 @@ Cancer de la thyroïde
 
 - Rayonnements ionisants répétés (enfance ++)
   - Radiographies dentaires
-  - Radiothérapie externe cranio-cervico-thoracique.
+  - Radiothérapie externe crânio-cervico-thoracique.
   - Essais nucléaires
 - Génétiques
   - Cancer médullaire de la thyroïde (CMT): néoplasie endocrinienne multiple de type 2 (NEM-2)
@@ -155,12 +155,6 @@ La prise en charge du cancer de la thyroïde est spécialisée après RCP. [Annu
 
 Mesures associées à la prise en charge des cancers:
 
-- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
-- Surveillance de la [TSH](/tags/tsh/)
-- [Hormonothérapie]({{% relref "hypothyroidie.md" %}}) si thyroïdectomie totale (parfois lobo-isthmectomie)
-  - Elle peut être substitutive ++
-  - Freinatrice: cible de TSH 0,1 - 0,5 mUI/L
-  - Très freinatrice: cible de TSH < 0,1 mUI/L selon le risque de récidive (décision spécialisée).
 - Mesures hygiéno-diététiques
   - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
   - [Réduction de l'alcool]({{% relref "sevrage-alcool.md" %}})
@@ -171,17 +165,24 @@ Mesures associées à la prise en charge des cancers:
 - Association de patients: [Ligue contre le cancer](https://www.ligue-cancer.net), [Association française des malades de la thyroïde](https://www.afmthyroide.fr)
 - Personne de confiance
 - Droit à l'oubli: protocole achevé depuis 5 ans en l'absence de rechute
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 
 ### Pour en savoir plus: les traitements du cancer de la thyroïde
 
 > [!WARNING]
 > << Les cancers anaplasiques de la thyroïde représentent une urgence thérapeutique. >> -- *INCa 2023*
 
-Le traitement du cancer de la thyroïde est décidé en réunion de concertation pluridisciplinaire (**RCP**) spécialisée et peut être, selon le type histologique et l'extension: chirurgie (lobo-isthmectomie ou thyroïdectomie totale avec ou sans curage ganglionnaire), surveillance active, thérapie ciblée.
+Le traitement du cancer de la thyroïde est décidé en réunion de concertation pluridisciplinaire (**RCP**) spécialisée et peut être, selon le type histologique et l'extension: **chirurgie** (lobo-isthmectomie ou thyroïdectomie totale avec ou sans curage ganglionnaire), surveillance active, thérapie ciblée.
+
+L'**hormonothérapie** par lévothyroxine a 2 indications:
+
+- Substitutive après thyroïdectomie totale (parfois nécessaire après une lobo-isthmectomie)
+- ou freinatrice (risque élevé de récidive, risque de tumeur résiduelle): cible de TSH 0,1 - 0,5 mUI/L
+- voire très freinatrice: cible de TSH < 0,1 mUI/L selon le risque de récidive (décision spécialisée)
 
 Une irathérapie est indiquée en cas de risque élevé de récidive après thyroïdectomie totale (discutée si risque intermédiaire, rarement indiquée si risque faible).
 
-En cas de cancer médullaire de la thyroïde: chirurgie et avis oncogénétique pour recherche de mutation du gène RET (dépistage familial si présent).
+En cas de **cancer médullaire de la thyroïde** (CMT): chirurgie et avis oncogénétique pour recherche de mutation du gène RET (dépistage familial si présent).
 
 Le suivi est spécialisé à 6-12 mois du traitement: clinique, thyroglobuline et anticorps anti-thyroglobuline, échographie cervicale.
 
@@ -194,9 +195,9 @@ Suivi du cancer de la thyroïde par le médecin généraliste d'un cancer de la 
 - Consultation annuelle  
   Palpation cervicale, aires ganglionnaires, opothérapie.
 - Biologique
-  - TSH 1-2 / an selon l'équilibre, objectif décidé par le spécialiste
+  - **TSH** 1-2 / an selon l'équilibre, objectif décidé par le spécialiste
   - Si thyroïdectomie totale: thyroglobuline et anticorps ant-thyroglobuline annuels (au moins 10 ans)
-- Échographie cervicale  
+- **Échographie cervicale**  
   Après la chirurgie: M6-12, 3 ans, 5 ans puis tous les 5 ans. Si thyroïdectomie totale: rythme défini par le spécialiste.
 
 {{% /collapse %}}

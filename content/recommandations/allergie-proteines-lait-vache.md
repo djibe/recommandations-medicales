@@ -98,6 +98,7 @@ Nécessaire chez < 2% des enfants.
 {{% /collapse %}}
 {{%sources%}}
 
+- [Anses. Avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail relatif aux risques liés à l'utilisation de boissons autres que le lait maternel et les substituts du lait maternel dans l'alimentation des nourrissons de la naissance à 1 an. 05/02/2013. (PDF)](https://www.anses.fr/system/files/NUT2011sa0261.pdf)
 - [CIRIHA. Le lait - Les allergies croisées.](http://ciriha.org/index.php/allergies-et-intolerances-2/le-lait/les-allergies-croisees-et-associees)
 - [EBMFrance. Allergie au lait de vache.](https://www.ebmfrance.net/fr/Pages/ebm/ebm00645.aspx)
 

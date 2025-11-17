@@ -317,7 +317,7 @@ Indications à une consultation par l'endocrinologue pour hypothyroïdie:
     Coronaropathie, maladie auto-immune ...
   - Nodule ou goitre
   - Grossesse ou désir de grossesse
-  - \+65 ans avec TSH entre 10 et 20 mUI/L
+  - +65 ans avec TSH entre 10 et 20 mUI/L
 - Pendant le suivi
   - Doute concernant les cibles clinico-biologiques
   - Absence d'amélioration ou survenue de symptômes
@@ -328,11 +328,11 @@ Indications à une consultation par l'endocrinologue pour hypothyroïdie:
 - La lévothyroxine perturbe l'INR chez les sujets traités par **[AVK]({{% relref "avk.md" %}})**
 - Sujet **coronarien** ou **âgé**: débuter à posologie basse, augmentation prudente et surveillance symptômes + clinique + ECG  
   **NB.** On ne recherche pas toujours une normalisation de la TSH.
-- **Grossesse**  
-  - Augmentation des besoins en L-thyroxine de 30 à 50% durant la grossesse.
-  - Urgence thérapeutique: augmenter la dose 20 à 30% (ou doubler la dose lundi et jeudi) dans l'attente du suivi spécialisé
-  - Suivi rapproché et endocrinologique.
-  - Revenir aux doses habituelles dès l'accouchement sauf allaitement.  
+- **Grossesse:**
+  - Augmentation des besoins en L-thyroxine de 30 à 50 % durant la grossesse
+  - ==Urgence thérapeutique==: augmenter la dose 20 à 30 % (ou doubler la dose lundi et jeudi) dans l'attente du suivi spécialisé
+  - Suivi rapproché et endocrinologique
+  - Revenir aux doses habituelles dès l'accouchement sauf allaitement
 - **Coma myxœdémateux**  
   **Urgence thérapeutique** avec pronostic engagé (20-30% de décès).  
   Appeler le {{<phone>}}15{{</phone>}} pour transfert médicalisé en réanimation.
@@ -369,14 +369,14 @@ Particularités de la prise en charge de l'hypothyroïdie en rapport avec une [g
 
 La prise en charge de l'hypothyroïdie pendant la grossesse est spécialisée:
 
-- Avis si TSH entre 2,5 et 4 mUI/L et anti-TPO positifs  
+- ==TSH cible: entre la borne inférieure et **2,5 mUI/L**==
+- Avis si TSH entre **2,5 et 4 mUI/L** et anti-TPO positifs  
   En l'absence de traitement: surveillance identique à la patiente traitée (ci-dessous)
 - Traitement uniquement par lévothyroxine (LT4)
 - Initier le traitement en l'absence de surpoids:
   - TSH entre 2,5 et 10 mUI/L: 25-50 µg/j
   - TSH entre 10 et 20 mUI/L: 50-75 µg/j
   - TSH > 20 mUI/L: 75-100 µg/j
-- TSH cible: entre la borne inférieure et 2,5 mUI/L
 - **Surveillance**: TSH toutes les 4-6 semaines jusqu'à 22 SA puis une fois entre 30 et 34 SA
 
 ### Suivi de l'hypothyroïdie en post-partum

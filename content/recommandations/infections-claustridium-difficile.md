@@ -137,7 +137,7 @@ Précisions sur l'antibiothérapie du *Clostridioides difficile*:
 
 Le traitement **anti-sécrétoire** peut être poursuivi.
 
-Ne pas utiliser de probiotiques (en prévention primaire pour une antibiothérapie ou durant une récurrence.
+Ne pas utiliser de probiotiques (en prévention primaire pour une antibiothérapie ou durant une récurrence).
 {.alert .alert-warning}
 
 ### Pour en savoir plus: traitements spécialisés de l'infection à *Clostridioides difficile*

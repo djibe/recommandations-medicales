@@ -49,7 +49,7 @@ Chapitres liés: [corticoïdes inhalés]({{% relref "corticoides-inhales.md" %}}
 
 {{%/article-summary%}}
 
-<div class="card card-hover card-tab my-3 my-xl-5">
+<div class="card card-hover card-tab my-3 my-xl-5" id="card-asthme-util">
 <ul class="nav nav-tabs nav-justified mb-4" role="tablist">
   <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-suivi" data-toggle="tab" data-target="#nav-asthme-suivi" role="tab" aria-controls="nav-asthme-suivi">Suivi</button></li>
   <li class="nav-item" role="presentation"><button type="button" class="nav-link active" id="nav-tab-stade1" data-toggle="tab" data-target="#nav-asthme-stade1" role="tab" aria-controls="nav-asthme-stade1" aria-selected="true">Stade 1</button></li>
@@ -104,7 +104,7 @@ Chapitres liés: [corticoïdes inhalés]({{% relref "corticoides-inhales.md" %}}
 </div>
 <div class="tab-pane fade" id="nav-asthme-stade4" role="tabpanel" aria-labelledby="nav-tab-stade4">
 
-Suivi pneumologique et:
+**Suivi pneumologique** et:
 
 - 6-11 ans: {{< modal-btn modal-ttt-laba-csi >}}LABA + CSI{{< /modal-btn >}} moyenne dose, {{< modal-btn modal-ttt-baca >}}BACA si besoin{{< /modal-btn >}}
 - 12-17 ans: {{< modal-btn modal-ttt-laba-csi >}}Formotérol + budésonide{{< /modal-btn >}} moyenne dose 2 inhalations matin et soir et 1 inhalation si besoin (max 12/j)
@@ -474,9 +474,9 @@ Les corticoïdes inhalés (CSI) réduisent de façon marquée la fréquence et l
 
 Confirmer le diagnostic avant de démarrer un traitement, puis instaurer rapidement un traitement par corticoïde inhalé.
 
-### Stratégie de traitement de l'asthme à partir de 6 ans selon GINA 2024
+### Stratégie de traitement de l'asthme à partir de 6 ans selon GINA et SPLF 2024
 
-Voir en tête de chapitre.
+Voir l'outil *[Stratégie de traitement de l'asthme](#card-asthme-util)* en début de page.
 
 ### Mesures générales de prise en charge de l'asthme
 
@@ -560,9 +560,11 @@ La prescription des biothérapies pour asthme sévère dépendent exclusivement 
 {{% /collapse %}}
 {{%collapse "Techniques d'inhalation des bronchodilatateurs" %}}
 
-[Asthma education videos](https://ginasthma.org/asthma-education-videos/) et [Ameli: Comprendre ma maladie & bien utiliser mon dispositif d'inhalation (PDF)](https://www.ameli.fr/sites/default/files/Documents/5358/document/asthme-bien-utiliser-dispositif-inhalation_assurance-maladie.pdf).
+{{< card-link-external title="Comprendre ma maladie & bien utiliser mon dispositif d'inhalation (PDF)" url="https://www.ameli.fr/sites/default/files/Documents/5358/document/asthme-bien-utiliser-dispositif-inhalation_assurance-maladie.pdf" subtitle="par Ameli" >}}
 
 {{< card-link-external title="Vidéos pour la maîtrise des inhalateurs" url="https://splf.fr/videos-zephir/" subtitle="par la SPLF" >}}
+
+{{< card-link-external title="Asthma education videos" url="https://ginasthma.org/asthma-education-videos/" subtitle="par le GINA" >}}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'asthme" "show" %}}
