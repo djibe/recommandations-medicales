@@ -116,6 +116,8 @@ La prise en charge de l'épistaxis peut être ambulatoire sans délai en cas de 
 
 La prise en charge recommandée d'une épistaxis débute par une ==**compression nasale bidigitale**==. **Mouchage** puis compression ferme bilatérale du tiers inférieur des ailes du nez pendant **10 à 15 minutes**, tête légèrement penchée vers le bas.
 
+> Facturation au cabinet du tamponnement nasal antérieur: GABD002 + M (55,14 €).
+
 Lorsqu'ils sont disponibles, les traitements complémentaires sont réalisés dans l'ordre suivant en cas d'échec chez un patient stable:
 
 - Vasoconstricteurs: oxymétazoline spray nasal ([Aturgyl®](https://bdpm.ansm.sante.fr/medicament/63581266/extrait#tab-rcp), Pernazène®), phényléphrine (voire adrénaline), acide tranexamique possible

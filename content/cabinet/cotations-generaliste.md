@@ -5,7 +5,7 @@ description = "Aide à la cotation des consultations en médecine générale: co
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2025-11-07"
+lastmod = "2025-11-19"
 annees = "2025"
 sources = ["Assurance Maladie"]
 tags = []
@@ -17,6 +17,10 @@ todo = "F, MN et MM | MCU, GL, CTE, FS exemple frottis, jour férié, routexl, M
 
 Liste des codes pour les actes et les consultations des adultes et des enfants en médecine générale.
 {.lead}
+
+## Les nouvelles cotations en 2025
+
+- La spirométrie (GLQP012 41,08 €) pourra être couplée à la consultation (G)
 
 ## Les nouvelles cotations en 2025
 
@@ -114,7 +118,7 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
 | Code CCAM           | Description                                                                                   | Tarif&nbsp;(€) |
 |---------------------|-----------------------------------------------------------------------------------------------|---------------:|
 | CDRP002             | Dépistage de la surdité avant 3 ans<br>avec test validé (SensoryBabyTest)                     |          49,46 |
-| CDRP002 + 1/2 BLQP010 | Dépistage de la surdité avant 3 ans<br>couplé au test de la vision binoculaire (test de Lang) |          62,30 |
+| CDRP002 + 1/2 BLQP010 | Dépistage de la surdité avant 3 ans<br>couplé au test de la vision binoculaire (test de Lang) |        62,30 |
 {{< /table >}}
 
   </div>
@@ -177,17 +181,17 @@ Pour les sutures, voir la [fiche Omniprat](https://omniprat.org/fiches-pratiques
 {{< table title="Actes importants pour le médecin généraliste. Majoration M possible si urgence pour les actes mentionnés" class="table-wrap" >}}
 | Code CCAM   | Description | Tarif&nbsp;(€) |
 |-------------|-------------|---------------:|
-| + DEQP003   | ECG 12 dérivations | 14,52 |
-| + JKHD001   | Frottis cervico-vaginal |  12,73 |
+| + DEQP003   | ECG 12 dérivations | 14,52   |
+| + JKHD001   | Frottis cervico-vaginal | 12,73 |
 | ALQP003     | Test standardisé d'évaluation d'une dépression: {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, Beck, MADRS, MMPI et STAI (max 1/an) | 69,12 |
 | ALQP006     | Test standardisé d'évaluation d'un déficit cognitif: [MMSE](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/mmse.pdf), {{< scores/moca >}}, GP-COG, MIS, Codex, 5 mots de Dubois (max 1/an) | 69,12 |
 | JKLD001     | Pose d'un stérilet | 38,40 |
 | JKKD001     | Changement d'un stérilet | 38,40 |
 | QZGA002     | Ablation ou changement d'un implant | 41,80 |
-| MJPA010     | Incision ou excision d'un panaris superficiel | 38,29 |
+| MJPA010     | Incision ou excision d'un panaris superficiel | 39,10 |
 | EGFA007     | Excision d'une [thrombose hémorroïdaire]({{% relref "hemorroides.md" %}}) | 62,70 |
 | GLQP012     | Spirométrie avec enregistrement | 41,08 |
-| GABD002 + M | Tamponnement nasal antérieur | 54,60 |
+| GABD002 + M | Tamponnement nasal antérieur | 55,14 |
 {{< /table >}}
 
 **NB.** Le premier acte est facturé à 100%, le 2e à 50% et les suivants sont offerts.

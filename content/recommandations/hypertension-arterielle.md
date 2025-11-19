@@ -394,6 +394,9 @@ La baisse de pression artérielle intervient en 1 à 2 semaines après l'introdu
 
 ### Traitement de niveau 2
 
+> [!INFO]
+> L'hydrochlorothiazide nécessite un examen cutané et la recherche d'antécédent de carcinome cutané à l'instauration. Puis suivi cutané annuel (semestriel en cas d'antécédent -- *Académie de médecine 2025*).
+
 Trithérapie {{< modal-btn modal-triple >}}IEC/ARA2 + TZD + ICa{{< /modal-btn >}} en 1 seul comprimé (non remboursé).
 
 Pour être remboursé: utiliser la trithérapie Triplixam (amlodipine + indapamide + périndopril) ou associer <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-iec">IEC + ICa</button> ou <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + ICa</button> et hydrochlorothiazide.
@@ -502,6 +505,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Académie de médecine. Hydrochlorothiazide et cancers cutanés : prévenir avant tout ! 13/11/2025.](https://www.academie-medecine.fr/hydrochlorothiazide-et-cancers-cutanes-prevenir-avant-tout/)
 - [Tock R. Impact d'un modèle de soins infirmiers assisté par Internet, dirigé par des infirmières spécialisées dans un cadre de collaboration multidisciplinaire sur la gestion de l'hypertension artérielle. Minerva. 2025.](https://minerva-ebp.be/FR/Analysis/913)
 - [Grave C, et al. Le fardeau de l'hypertension artérielle en France en 2021. Bull Epidemiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/12/2025_12_1.html)
 - [Anses. Les substituts au sel de table : un risque pour la santé. 2025.](https://www.anses.fr/fr/content/les-substituts-au-sel-de-table-un-risque-pour-la-sante)

@@ -69,11 +69,12 @@ Chapitres liés: [corticoïdes inhalés]({{% relref "corticoides-inhales.md" %}}
   - Ou à l'interrogatoire: symptômes diurnes, nocturnes, sommeil, activités scolaires, sportives
 - Reconnaissance des symptômes (oppression, dyspnée, toux, sifflements); mesure du DEP 3 fois de suite (adulte)
 - Observance, [technique d'inhalation](https://splf.fr/videos-zephir/) et effets indésirables
-- Date des dernières EFR
+- Asthme persistant: EFR au moins annuelles
 - Enfant:
   - Bilan allergologique fait
   - Privilégier aérosol-doseur avec chambre d'inhalation sans masque
   - [PAI de l'asthme avant 12 ans](/print/pai-asthme.pdf) (*GRAPP 2007*) et [+12 ans](/print/pai-asthme+12.pdf)
+  - Vaccination antigrippale annuelle
 - Plan d'action connu et remis
 - Activité physique quotidienne
 
@@ -498,8 +499,9 @@ Voir l'outil *[Stratégie de traitement de l'asthme](#card-asthme-util)* en déb
   - [Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/)
 - Mesures hygiéno-diététiques
   - Correction d'un surpoids
-  - Activité physique quotidienne  
-    Traitement adapté si bronchoconstriction d'effort. [Guide info patient HAS](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_asthme.pdf).
+  - Activité physique quotidienne:
+    - Traitement adapté si bronchoconstriction d'effort (BACA 5-20 minutes vaant le sport)
+    - [Guide HAS (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_asthme.pdf)
   - Déconditionnement à l'exercice: réhabilitation respiratoire en SSR
 - Traitements à éviter  
   Bêtabloquants de façon relative, aspirine et AINS si hypersensibilité.
@@ -587,9 +589,9 @@ graph TB
 {{< video poster="https://splf.fr/wp-content/uploads/2021/11/Webinaire-2021-12-06-1300-500.jpg" mp4="https://dts.podtrac.com/redirect.mp4/docs.splf.fr/videos/Webinaires/2021/Webinaire-asthme-2021-12-09.mp4" description="Mise à jour des recommandations 2021 pour la prise en charge des patients asthmatiques adultes (SPLF)" >}}
 
 - [Drummond D, et al. Recommandations de la SP2A (Société pédiatrique de pneumologie et d'allergologie) pour la prise en charge de l'asthme de l’enfant de 6 à 12 ans - Prise en charge thérapeutique et adaptation du traitement de fond. Rev Mal Respir. 2024.](https://www.sciencedirect.com/science/article/pii/S0761842524002444)
+- [GINA. Global strategy for the asthma management and prevention. 2024.](https://ginasthma.org/archived-reports/)
 - [Collège des Enseignants de Pneumologie (CEP). Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_188_ASTHME_RHINITE_2023.pdf)
 - Prescrire Redaction. Asthme. Premiers Choix Prescrire. Rev Prescrire. 2023.
-- [GINA. Global strategy for the asthma management and prevention. 2023.](https://ginasthma.org/archived-reports/)
 - [Gaillard EA, et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5-16 years. Eur Respir J. 2021.](https://erj.ersjournals.com/content/58/5/2004173)
 - [Collège de la Médecine Générale (CMG). Asthme de l'adulte et de l'enfant de plus de 12 ans : prévenir les exacerbations. 2021. (PDF)](https://cmg.fr/wp-content/uploads/2021/05/Asthme-de-ladulte-et-de-lenfant-2021.pdf)
 - [Raherison-Semjen C, et al. Asthme. Revue des Maladies Respiratoires Actualités. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1877120320300598)
@@ -597,12 +599,11 @@ graph TB
 - [Raherison C, et al. Updated guidelines (2015) for management and monitoring of adult and adolescent asthmatic patients (from 12 years and older) of the Société de pneumologie de langue française (SPLF) (summary). Revue des Maladies Respiratoires. 2016. (PDF)](https://splf.fr/wp-content/uploads/2016/11/reco-asthme-re%CC%81sume%CC%81-2016.pdf)
 - [HAS. Insuffisance respiratoire chronique grave secondaire à un asthme. 2006.](https://www.has-sante.fr/jcms/c_452137/fr/ald-n14-insuffisance-respiratoire-chronique-grave-secondaire-a-un-asthme)
 - [HAS. Recommandations pour le suivi médical des patients asthmatiques adultes et adolescents. Recommandations de bonne pratique. 2004.](https://www.has-sante.fr/jcms/c_272363/fr/recommandations-pour-le-suivi-medical-des-patients-asthmatiques-adultes-et-adolescents)
+- [SPLF. Plans d'action de l'asthme](https://splf.fr/plans-daction-dans-lasthme/)
 - {{< references/aderim >}}
 
 ### Bibliographie en attente
 
-- [SPLF. Plans d'action de l'asthme](https://splf.fr/plans-daction-dans-lasthme/)
-- [GINA. Global strategy for the asthma management and prevention. 2024.](https://ginasthma.org/archived-reports/)
 - [Papi A, et al. European Respiratory Society Short Guidelines for the use of as-needed ICS/formoterol in mild Asthma. European Respiratory Journal. 2023.](https://erj.ersjournals.com/content/early/2023/08/31/13993003.00047-2023)
 - [Société canadienne de pédiatrie. La prise en charge de l'asthme léger et très léger chez les enfants d'âge préscolaire, les enfants et les adolescents. Point de pratique. 2023.](https://cps.ca/fr/documents/position/asthme-leger)
 - [Louis R, et al. European Respiratory Society Guidelines for the Diagnosis of Asthma in Adults. European Respiratory Journal. 2022.](https://erj.ersjournals.com/content/early/2022/02/03/13993003.01585-2021)

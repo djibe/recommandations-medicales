@@ -503,9 +503,10 @@ window.addEventListener('load', function() {
 })
 </script>
 
-**NB.** Chez l'homme, ont l'AMM les traitements suivants: alendronate, risédronate, zolédronate et le tériparatide.
-
 ### Remarques sur les médicaments de l'ostéoporose
+
+> [!INFO]
+> Les données françaises (SNDS) comptabilisent que sur 882 cas d'ostéonécrose de mâchoire, seuls 5,6 % étaient exposés à un bisphosphonate (*[Gougeon 2025](https://theses.fr/2025LYO10159)*).
 
 - Dosage des CTX sériques possible entre 3 et 12 mois (marqueurs de la résorption osseuse)
   - Le matin à jeun à ≥ 6 mois d'une fracture

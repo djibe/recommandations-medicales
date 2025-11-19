@@ -60,7 +60,7 @@ VVA
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal 2025" "show" %}}
 
-{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention *NR*. Dr JB Fron d'après *Décret n° 2024-694*, *Calendrier vaccinal 2025*, *HAS 2024* et *2025*, DGS Urgent 2025-15." class="table-wrap" >}}
+{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention *NR*. Dr JB Fron d'après *Calendrier vaccinal 2025*, *HAS 2025.0040/AC/SESPEV*, *HAS 2025* et *2024*, DGS Urgent 2025-15." class="table-wrap" >}}
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
 | Né après<br>le 1er février,<br>(à partir de septembre) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
@@ -75,7 +75,7 @@ VVA
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
 | 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
 | 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>Nimenrix, MenQuadfi, Menveo (pas d'aiguille)           |
-| 15-24 ans  | Méningo B si souhait de vaccination                  | Bexsero, Trumenba                                                         |
+| 15-24 ans  | Méningo B (proposé)                                  | Bexsero, Trumenba                                                         |
 |   25 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
 |   45 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
 |  +65 ans   | dTcaPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Pneumo 20 + Zona | BoostrixTetra, Repevax<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>Prevenar 20, Capvaxive (bientôt) + Shingrix M0-M2 |
@@ -314,6 +314,7 @@ Documents pour informer sur la vaccination:
 {{%sources%}}
 
 - [HAS. Stratégie de vaccination contre les infections invasives à pneumocoques : Place du vaccin CAPVAXIVE chez l'adulte. 2025.](https://www.has-sante.fr/jcms/p_3634637/fr/strategie-de-vaccination-contre-les-infections-invasives-a-pneumocoques-place-du-vaccin-capvaxive-chez-l-adulte)
+- [HAS. Avis n° 2025.0040/AC/SESPEV du 17 juillet 2025 du collège de la Haute Autorité de santé relatif à l'ajout des vaccins contre les maladies méningococciques invasives des sérogroupes A, C, W, Y, et B à l'arrêté fixant la liste des vaccins mentionnée à l'article L. 5122-6 du code de la santé publique. 17/07/2025. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2025-07/avis_n2025.0040_ac_sespev_17_juillet_2025_college_has_a_lajout_des_vaccins_contre_les_maladies_meningococciques_a_c_w_y_b_la.pdf)
 - [DGS-Urgent 2025_15. Modalités de mise en œuvre de la campagne d'immunisation des nourrissons et nouveau-nés contre les infections à virus respiratoire syncitial (VRS). 28/01/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Vaccination contre les papillomavirus : élargissement de la cohorte de rattrapage vaccinal chez les hommes et les femmes jusqu'à 26 ans révolus. 2025.](https://www.has-sante.fr/jcms/p_3605114/fr/vaccination-contre-les-papillomavirus-elargissement-de-la-cohorte-de-rattrapage-vaccinal-chez-les-hommes-et-les-femmes-jusqu-a-26-ans-revolus)
 - [HAS. Grossesse : les vaccins recommandés. 2025.](https://www.has-sante.fr/jcms/p_3590575/fr/grossesse-les-vaccins-recommandes)

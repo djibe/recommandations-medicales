@@ -134,7 +134,7 @@ Indications au dépistage de la maladie cœliaque chez un adulte (*ESsCD 2025*):
 - **Pathologies endocriniennes et auto-immunes:**
   - [Diabète type 1]({{% relref "diabete-type-1.md" %}}), [thyroïdite de Hashimoto]({{% relref "hypothyroidie.md" %}}), [maladie de Basedow]({{% relref "hyperthyroidie.md" %}}), syndrome de Sjögren
 - **Troubles gynécologiques:**
-  - Ménarche tardive, [insuffisance ovarienne prématurée]({{% relref "insuffisance-ovarienne-prematuree.md" %}}), [infertilité inexpliquée]({{% relref "infertilite-couple.md" %}}) avec fausses couches à répétition
+  - Ménarche tardive, [insuffisance ovarienne prématurée]({{% relref "insuffisance-ovarienne-prematuree.md" %}}), [infertilité inexpliquée]({{% relref "infertilite-couple.md" %}}) avec [fausses couches à répétition]({{% relref "fausses-couches-repetees.md" %}})
 - **Autres indications:**
   - Suspicion de maladie cœliaque associée à un inhibiteur de point de contrôle immunitaire
   - Syndrome de fatigue chronique

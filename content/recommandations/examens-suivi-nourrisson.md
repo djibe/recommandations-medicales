@@ -91,9 +91,9 @@ Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de s
 Pour plus d'informations sur les vaccinations, dont les obligations, voir le chapitre [Vaccination]({{% relref "vaccination.md" %}}).
 {.alert .alert-info}
 
-> Temporairement, ==rattrapage méningite ACWY jusqu'à 35 mois== (même si 2 doses de Neisvac) et méningite B jusqu'à 4 ans (*HAS 2025*).
+> Temporairement, ==rattrapage des méningites B et ACWY jusqu'à 4 ans révolus== (même si 2 doses de Neisvac -- *HAS 7/2025*).
 
-{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention **NR**. Dr JB Fron d'après *Décret n° 2024-694*, *Calendrier Vaccinal 2025*, DGS Urgent 2025-15" class="table-wrap" >}}
+{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention **NR**. Dr JB Fron d'après *Calendrier Vaccinal 2025* et HAS" class="table-wrap" >}}
 |          Âge          | Valences                                                                                  | Spécialités équivalentes                                                                                        |
 |:---------------------:|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | Né après<br>le 1er février<br>(à partir de septembre) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
@@ -108,7 +108,7 @@ Pour plus d'informations sur les vaccinations, dont les obligations, voir le cha
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
 | 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
 | 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>Nimenrix, MenQuadfi, Menveo (pas d'aiguille)           |
-| 15-24 ans  | Méningo B si souhait de vaccination<br>Rattrapage méningo ACWY | Bexsero, Trumenba <br> Nimenrix, MenQuadfi, Menveo (pas d'aiguille) |
+| 15-24 ans  | Méningo B (proposé)<br>Rattrapage méningo ACWY       | Bexsero, Trumenba <br> Nimenrix, MenQuadfi, Menveo (pas d'aiguille) |
 {{< /table >}}
 
 **Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours avec pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles. Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
@@ -147,6 +147,8 @@ Pour plus d'informations sur les vaccinations, dont les obligations, voir le cha
 {{%sources%}}
 
 Sources citées en regard des sections.
+
+- [HAS. Avis n° 2025.0040/AC/SESPEV du 17 juillet 2025 du collège de la Haute Autorité de santé relatif à l'ajout des vaccins contre les maladies méningococciques invasives des sérogroupes A, C, W, Y, et B à l'arrêté fixant la liste des vaccins mentionnée à l'article L. 5122-6 du code de la santé publique. 17/07/2025. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2025-07/avis_n2025.0040_ac_sespev_17_juillet_2025_college_has_a_lajout_des_vaccins_contre_les_maladies_meningococciques_a_c_w_y_b_la.pdf)
 
 ### Bibliographie en attente
 

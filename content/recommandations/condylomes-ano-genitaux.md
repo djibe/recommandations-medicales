@@ -23,11 +23,11 @@ modele = true
 
 {{%article-summary%}}
 
-- Les condylomes sont des verrues génitales externes bénignes causées par les papillomavirus humains (HPV) sans risque de malignité; ils peuvent s'étendre ou régresser spontanément. Il s'agit de l'infections sexuellement transmissibles (IST) la plus fréquente
+- Les condylomes sont des verrues génitales externes bénignes causées par les papillomavirus humains (HPV) sans risque de malignité; ils peuvent s'étendre ou régresser spontanément. Il s'agit de l'infection sexuellement transmissibles (IST) la plus fréquente
 - Les complications sont liées à la co-infection par les HPV oncogènes (HPV 16 et 18 surtout) et le retentissement psychologique
 - Le diagnostic est clinique avec des lésions périnéales, principalement ano-génitales asymptomatiques: typiquement bourgeonnantes en << crêtes de coq >>, rosées ou grisâtres, plus ou moins pédiculées, localisées ou disséminées. Elles peuvent être planes ou papuleuses
 - Le bilan comprend les sérologies et PCR des autres IST, et surtout un examen proctologique et/ou gynécologique selon la localisation
-- La prévention des condylomes repose sur la vaccination anti-papillomavirus des adolescents, le préservatif est un complet, quoiqu'imparfait
+- La prévention des condylomes repose sur la vaccination anti-papillomavirus des adolescents, le préservatif est la barrière efficace contre les IST (quoiqu'imparfaite contre les HPV)
 - Le traitement des condylomes de première intention peut être: abstention, podophyllotoxine 0,5 % solution, imiquimod 5% crème ou la cryothérapie, plus ou moins combinés
 - Un examen de contrôle à l'issue du traitement est systématique; les récidives sont fréquentes
 

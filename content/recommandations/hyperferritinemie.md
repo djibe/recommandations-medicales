@@ -7,7 +7,7 @@ synonyms = ["Conduite à tenir devant une hyperferritinémie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-27T20:02:41+02:00"
 publishdate = "2020-08-27"
-lastmod = "2024-02-15"
+lastmod = "2025-11-17"
 specialites = ["biologie", "hépato-gastro-entérologie"]
 annees = "2022"
 sources = ["EASL", "CDU-HGE", "AFEF", "SNFGE"]
@@ -16,35 +16,36 @@ english = ["Hyperferritinemia"]
 sctid = "390943009"
 icd10 = ["R79.8"]
 image = true
-imageSrc = "Foie hyperdense par surcharge en fer suite à des transfusions répétées chez un patient de 40 ans. Cas de Gerstenmaier J sur Radiopaedia.org rID-31291"
+imageSrc = "Foie hyperdense par surcharge en fer suite à des transfusions répétées chez un patient de 40 ans. Cas de Gerstenmaier J sur Radiopaedia.org, rID-31291"
 flowchart = true
 todo = "hémochromatose (obj ferritine < 50 µg/L en conservant Hb +11)"
 +++
 
 {{%article-summary%}}
 
-- L'hyperferritinémie est une ferritinémie supérieure à 200 µg/L chez la femme et 300 µg/L chez l'homme
-- Découverte d'une hyperferritinémie: interrogatoire et examen clinique pour établir le profil du patient
-- Bilan d'une hyperferritinémie: dosage matinal à 2 reprises du coefficient de saturation de la transferrine (CST)
-- 5 causes principales d'hyperferritinémie: {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, [alcool]({{% relref "sevrage-alcool.md" %}}), syndrome inflammatoire, transfusions multiples et [hémochromatose génétique liée à HFE]({{% relref "hemochromatose.md" %}})
+- L'hyperferritinémie est définie par une ferritinémie supérieure à 200 µg/L chez la femme et 300 µg/L chez l'homme
+- Elle est due majoritairement à 5 grandes causes: {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, [alcool]({{% relref "sevrage-alcool.md" %}}), syndrome inflammatoire, transfusions multiples et [hémochromatose génétique liée à HFE]({{% relref "hemochromatose.md" %}})
+- Consultation lors de la découverte d'une hyperferritinémie: interrogatoire et examen clinique pour établir le profil du patient
+- Le bilan d'une hyperferritinémie commence par éliminer les causes les plus fréquentes (ci-dessus): NFS, CRP, bilan hépatique et lipidique, glycémie, CPK, réticulocytes et haptoglobine
+- Lorsque le bilan initial est négatif: compléter avec le dosage matinal du coefficient de saturation de la transferrine (CST)
 - La prise en charge de l'hyperferritinémie dépend de l'orientation diagnostique
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-Ferritine
-: Protéine intracellulaire du stockage du fer. La ferritinémie est donc un reflet indirect de ce stock.  
-De nombreuses maladies influent sur la ferritinémie, en dehors de l'[hémochromatose HFE C282Y]({{% relref "hemochromatose.md" %}}) dont la prise en charge est codifiée.
-
 Hyperferritinémie (HF)
 : Ferritinémie supérieure à **200 µg/L chez la femme** et **300 µg/L chez l'homme**.
 : L'hyperferritinémie est *modérée* jusqu'à 500 µg/L, *nette* de 500 à 1000 µg/L et *majeure* au-delà de 1000 µg/L.
+
+Ferritine
+: Protéine intracellulaire du stockage du fer. La ferritinémie est donc un reflet indirect de ce stock.  
+De nombreuses maladies influent sur la ferritinémie, en dehors de l'[hémochromatose HFE C282Y]({{% relref "hemochromatose.md" %}}) dont la prise en charge est codifiée.
 
 ### Épidémiologie de l'hyperferritinémie
 
 - Une hyperferritinémie est associée à la survenue d'un {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}} et d'un [diabète de type 2]({{% relref "diabete-type-2.md" %}})  
   1/3 des diabétiques et 1/4 des pré-diabétiques ont une hyperferritinémie.
-- 20% des [NASH]({{% relref "steatose-hepatique-et-nash.md" %}}) ont une hyperferritinémie et 1/3 a une **hépatosidérose métabolique** (association d'un syndrome métabolique et d'une surcharge en fer).
+- 20 % des [NASH]({{% relref "steatose-hepatique-et-nash.md" %}}) ont une hyperferritinémie et 1/3 a une **hépatosidérose métabolique** (association d'un syndrome métabolique et d'une surcharge en fer)
 
 ### Abréviations
 
@@ -74,7 +75,7 @@ SNFGE
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Étiologie de l'hyperferritinémie" %}}
+{{%collapse "Étiologie" %}}
 
 Orientation diagnostique et étiologie d'une hyperferritinémie.
 
@@ -90,7 +91,7 @@ Orientation diagnostique et étiologie d'une hyperferritinémie.
 ### Causes fréquentes d'hyperferritinémie
 
 - **{{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}. 1^re^ cause**  
-  HF souvent < 1000, peut précéder le syndrome, CST normal, surcharge en fer absente/modérée.  
+  Hyperferritinémie (HF) souvent < 1000, peut précéder le syndrome, CST normal, surcharge en fer absente/modérée.  
   On parle d'hépatosidérose métabolique même si le syndrome métabolique est incomplet.
 - **Syndrome inflammatoire** (aigu ou chronique)  
   HF < 500, CST normal, pas surcharge en fer, CRP élevée.
@@ -132,19 +133,21 @@ Orientation diagnostique et étiologie d'une hyperferritinémie.
 
 ### Interrogatoire
 
-Enquête devant la découverte d'une hyperferritinémie:
+Éléments à rechercher à l'interrogatoire lors de la découverte d'une hyperferritinémie:
 
 - Antécédents personnels  
   (Pré)-[diabète](/tags/diabete/) et facteurs de risque cardiovasculaires, hépatite, [cancer](/tags/cancer/), vascularite, hémoglobinopathie.
 - Antécédents familiaux  
   Hépatopathie, surcharge en fer, hémoglobinopathie, diabète, [cataracte précoce]({{% relref "cataracte.md" %}}).
 - Traitements en cours, automédication, apports en fer, transfusions
-- Consommation d'alcool (({{< modal-btn modal-auditc >}}questionnaire AUDIT-C{{< /modal-btn >}}, {{< modal-btn modal-deta >}}questionnaire CAGE/DETA{{< /modal-btn >}}))
-- Symptômes
+- Consommation d'alcool ({{< modal-btn modal-auditc >}}questionnaire AUDIT-C{{< /modal-btn >}}, {{< modal-btn modal-deta >}}questionnaire CAGE/DETA{{< /modal-btn >}})
+- Signes et symptômes d'hépatopathie et d'orientation:
   - Fatigue
   - Douleurs abdominales
-  - Myalgies
+  - Polyarthralgies inflammatoires, myalgies
   - Thyrotoxicose
+  - Signes tardifs: hypogonadisme, diabète, insuffisance surrénalienne
+  - Exceptionnellement: mélanodermie
 - Examens déjà réalisés
 
 ### Examen clinique
@@ -152,7 +155,7 @@ Enquête devant la découverte d'une hyperferritinémie:
 L'examen rechercher des signes de {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}} et d'hépatopathie:
 
 - Poids, taille, IMC, tour de taille
-- Pression artérielle
+- Pression artérielle, fréquence cardiaque
 - Examen cardiovasculaire
 - Palpation abdominale
 - Signes d'hypertension portale  
@@ -168,76 +171,81 @@ L'examen rechercher des signes de {{< modal-btn modal-metabolique >}}syndrome m�
 
 {{%info%}}
 
-### Bilan de première intention devant une hyperferritinémie
+### Bilan d'une hyperferritinémie
 
 Bilan de l'hyperferritinémie (*CDU-HGE 2022*):
 
 - NFS, CRP
 - ASAT, ALAT, GGT, PAL, bilirubine totale
-- CPK, réticulocytes, haptoglobine
+- CPK
+- Réticulocytes, haptoglobine
 - Ferritinémie
 - Glycémie à jeun
 - Bilan lipidique
 
 {{%/info%}}
 
-Le coefficient de saturation de la transferrine (CST) élevé doit être confirmé par un 2^e^ dosage le matin à distance (jeûne inutile selon *EASL 2022*).
+En cas de bilan initial normal, compléter avec le **coefficient de saturation de la transferrine** (CST)
+
+Un CST élevé doit être confirmé par un 2^e^ dosage le matin à distance (jeûne inutile selon l'*EASL 2022*). Des faux positifs sont possibles en cas d'insuffisance hépatique / cirrhose.
 
 ### IRM hépatique
 
-La prescription d'une IRM-fer hépatique est réservée au gastro-entérologue dans le cas où aucun facteur n'explique l'hyperferritinémie. Elle permet une **évaluation non invasive de la surcharge en fer** (ferritine ≥ 2N).
+La prescription d'une IRM-fer hépatique est réservée à l'hépatologue dans le cas où aucun facteur n'explique l'hyperferritinémie. Elle permet une **évaluation non invasive de la surcharge en fer** (ferritine ≥ 2N).
 
-### Bilan complémentaire devant une surcharge en fer importante
+### Bilan complémentaire d'une surcharge en fer importante
 
-Dépister des atteintes d'organes en cas de ferritine > 1000 µg/L ou une concentration hépatique en fer > 150 µmol/g (à l'IRM):
+Un dépistage des atteintes organique est recommandé en cas de ferritine **supérieure à 1000 µg/L** ou de concentration hépatique en fer > 150 µmol/g (à l'IRM):
 
-- Échocardiographie
+- Échocardiographie transthoracique (ETT)
 - Ostéodensitométrie
-- Glycémie à jeun
 - ± Mesure non invasive de la fibrose hépatique: élastographie hépatique
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'hyperferritinémie" %}}
 
-Prise en charge d'une hyperferritinémie:
+La prise en charge de l'hyperferritinémie associe:
 
-- Hémopathie, transfusion itératives: surveillance annuelle de la ferritine
-- Correction d'un surpoids
-- [Sevrage alcoolique]({{% relref "sevrage-alcool.md" %}})
-- Arrêt de toute automédication
 - Traitement spécialisé de la maladie causale
-- Cirrhose: dépistage du carcinome hépatocellulaire
+- Mesures d'hépatoprotection:
+  - Correction d'un surpoids
+  - [Sevrage alcoolique]({{% relref "sevrage-alcool.md" %}})
+  - Arrêt de toute automédication
+- En cas de cirrhose: dépistage du carcinome hépatocellulaire
+- En cas de d'hémopathie, transfusion itératives: surveillance annuelle de la ferritine
 
 Pas de surveillance de la ferritine pour les pathologies ne pouvant pas donner de surcharge en fer significative (ex. cause métabolique).
 {.alert .alert-warning}
 
-### Traitement spécifique de l'hyperferritinémie
+### Traitement spécifique d'une surcharge en fer
 
-La prise en charge relève uniquement du gastro-entérologue:
+La prise en charge thérapeutique d'une surcharge en fer relève exclusivement de l'hépatologue:
 
 - Surcharge en fer sans anémie: saignées
 - Surcharge en fer avec anémie: chélation orale
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant une hyperferritinémie" "show" %}}
+{{%collapse "Prise en charge de l'hyperferritinémie" "show" %}}
 
-{{< mermaid title="Prise en charge diagnostique d'une hyperferritinémie. Dr JB Fron d'après EASL 2022 et SNFGE 2019" >}}
+{{< mermaid title="Prise en charge diagnostique d'une hyperferritinémie par le médecin généraliste. Dr JB Fron d'après EASL, CDU-HGE et SNFGE" >}}
 graph TB
-  HF["<b>Hyperferritinémie (HF)</b><br>—<br>Femme &gt; 200 µg/L<br>Homme &gt; 300 µg/L"] --> CST(CST matinal)
+  HF["<b>Hyperferritinémie (HF)</b><br>—<br>Femme &gt; 200 µg/L<br>Homme &gt; 300 µg/L"] --> Examen(Examen clinique) --> bilan("<b>Bilan</b><br>—<br>- NFS, CRP<br>- BH, CPK<br>- Rétic., hapto.<br>- Glycémie, EAL") -- Normal --> CST(CST matinal)
+    bilan -- Anormal --> explorations(Explorations adaptées)
   style HF stroke:#4150f5, stroke-width:1px
-  CST -- "&lt; 45%" --> CRP(CRP ?)
-      CRP -- Augmentée --> inflam(Inflammation<br>HF majeure ?)
-        inflam --> gastro(Gastro-entérologue)
+  CST -- "Normal:<br>&lt; 45 % femme,<br>50 % homme" --> CRP(CRP ?)
+      CRP -- Augmentée --> inflammation(Inflammation<br>HF majeure ?)
+        inflammation --> gastro(Hépatologue)
       CRP -- Normale --> surcharge(Recherche d'une<br>surcharge en fer)
         surcharge --> gastro
-  CST -- "≥ 45% femme<br>50% homme" --> CST2("2<sup>e</sup> CST matinal<br>à distance") -- "≥ 45% femme<br>50% homme" --> transa(Transaminases ?)
-      transa -- Augmentées --> hepatite("Hépatite<br>—<br>Sérologies")
-        hepatite --> gastro
-      transa -- Normales --> Hb(Hémoglobine ?)
+  CST -- "Augmenté:<br>≥ 45 % femme,<br>50 % homme" --> CST2("2<sup>e</sup> CST matinal<br>à distance") -- "Augmenté:<br>≥ 45 % F | 50 % H" --> transaminases(Transaminases ?)
+    CST2 --> CRP
+      transaminases -- Augmentées --> hépatite("Hépatite<br>—<br>Sérologies")
+        hépatite --> gastro
+      transaminases -- Normales --> Hb(Hémoglobine ?)
         Hb -- Normale --> HFE(Suspicion<br>d'hémochromatose)
           HFE --> gastro
-        Hb -- Diminuée --> anemie("Transfusions ?<br>Injections de fer ?<br>Dysérythropoïèse ?<br>—<br>- Haptoglobine<br>- Réticulocytes")
-          anemie --> hemato(Hématologue)
+        Hb -- Diminuée --> anémie("Transfusions ?<br>Injections de fer ?<br>Dysérythropoïèse ?<br>—<br>- Haptoglobine<br>- Réticulocytes")
+          anémie --> hématologue(Hématologue)
 {{< /mermaid >}}
 
 {{% /collapse %}}
@@ -250,17 +258,17 @@ graph TB
 - [European Association for the Study of the Liver. EASL Clinical Practice Guidelines on haemochromatosis. J Hepatol. 2022.](https://www.journal-of-hepatology.eu/article/S0168-8278(22)00211-2/fulltext)
 - {{< references/college-gastro >}}
 - {{< references/afef-foie-non-invasif >}}
+- {{< references/college-endocrino >}}
 - [Brissot P. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. SNFGE et AFEF. 2019. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/brissot_2019_0_0.pdf)
-- [Brissot P et al. Pathophysiology and classification of iron overload diseases; update 2018. Transfusion Clinique et Biologique. 2018.](https://doi.org/10.1016/j.tracli.2018.08.006)
-- [Lorcerie B et al. Démarche diagnostique devant une hyperferritinémie. La Revue de Médecine Interne. 2015.](https://www.sciencedirect.com/science/article/pii/S0248866314011114)
+- [Brissot P, et al. Pathophysiology and classification of iron overload diseases; update 2018. Transfusion Clinique et Biologique. 2018.](https://doi.org/10.1016/j.tracli.2018.08.006)
+- [Lorcerie B, et al. Démarche diagnostique devant une hyperferritinémie. La Revue de Médecine Interne. 2015.](https://www.sciencedirect.com/science/article/pii/S0248866314011114)
 - [Brissot P. Diagnostic d'une hyperferritinémie. 2012. (PDF)](https://www.hemochromatose.org/wp-content/uploads/2012/12/hyperferritinemie.pdf)
 - [Centre de référence des hémochromatoses.](https://centre-reference-fer-rennes.org)
 
 ### Bibliographie en attente
 
-- [Ruivard M, Lobbes H. Diagnostic et traitement d'une surcharge en fer. La Revue de Médecine Interne. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S024886632300680X)
-- [Cullis JO et al; British Society for Haematology. Investigation and management of a raised serum ferritin. Br J Haematol. 2018.](https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.15166)
-- {{< references/college-endocrino >}}
+- [Ruivard M, Lobbes H. Diagnostic et traitement d'une surcharge en fer. La Revue de Médecine Interne. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S024886632300680X) (payant)
+- [Cullis JO, et al; British Society for Haematology. Investigation and management of a raised serum ferritin. Br J Haematol. 2018.](https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.15166)
 
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}

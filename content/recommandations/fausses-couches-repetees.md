@@ -45,6 +45,9 @@ ESHRE
 FCS
 : fausse couche spontanée
 
+IMC
+: indice de masse corporelle
+
 SAPL
 : syndrome des anticorps anti-phospholipides
 {.dl-inline}
@@ -81,23 +84,22 @@ Les facteurs majeurs de fausses couches répétées sont l'**âge de la femme** 
 
 - [TSH](/tags/tsh/), anticorps anti-TPO
 - Anticoagulant circulant de type lupique (ACC) et IgG et IgM anti-cardiolipine
-- [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}): IgA totales et IgA anti-transglutaminase (*ESsCD 2019*)
-- Si (oligo) aménorrhée: prolactinémie
-- Échographie pelvienne (transvaginale 3D)
+- [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}): IgA totales et IgA anti-transglutaminase (*ESsCD*)
+- Céruloplasmine, cuprémie totale, cuprurie des 24 heures (*PNDS 2022 [Maladie de Wilson]({{% relref "maladie-wilson.md" %}})*)
+- Si (oligo-) aménorrhée: prolactinémie
+- Échographie pelvienne transvaginale 3D
 {{%/info%}}
 
 Bilan complémentaire à considérer:
 
 - Anticorps anti β2 glycoprotéine (anti-β2GPI)
 - Anticorps anti-nucléaires (AAN)
-- Rechercher une [Maladie de Wilson]({{% relref "maladie-wilson.md" %}}) (*PNDS 2022*)  
-  Céruloplasmine, cuprémie totale, cuprurie des 24h.
 - Chez l'homme: fragmentation de l'ADN spermatique
 
-Bilans **non recommandés**: typage HLA, dépistage de [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}), glycémie à jeun, androgènes, évaluation de la réserve ovarienne, d'une insuffisance lutéale, thrombophilie (non suggéré sauf facteurs de risque).
-{.alert .alert-warning}
+Une **analyse génétique du fœtus** pourrait être réalisée à visée étiologique avec conseil génétique du couple en cas d'anomalie.
 
-Une analyse génétique du fœtus pourrait être réalisée à visée étiologique avec conseil génétique du couple en cas d'anomalie.
+> [!WARNING]
+> Bilans **non recommandés** pour les fausses couches répétées: typage HLA, dépistage de [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}), glycémie à jeun, androgènes, évaluation de la réserve ovarienne, d'une insuffisance lutéale, thrombophilie (non suggéré sauf facteurs de risque).
 
 {{% /collapse %}}
 {{%collapse "Traitement des fausses couches répétées" %}}
