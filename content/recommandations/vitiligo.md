@@ -3,7 +3,7 @@ id = "0190e8d7-2cb6-748b-b1b2-c19ef13f52d2"
 title = "Vitiligo"
 prefix = "le "
 description = "Recommandations pour le traitement et la prise en charge du vitiligo. Suivi dermatologique et traitement par dermocorticoïdes et photothérapie UVB"
-synonyms = []
+synonyms = ["Leucodermie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-29T20:48:41+02:00"
 publishdate = "2022-11-22"
@@ -17,15 +17,15 @@ sctid = "56727007"
 icd10 = ["L80"]
 image = true
 imageSrc = "Vitiligo des mains. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "rankok, BAD Figure 1"
+todo = "rankok | BAD Figure 1, demander relecture julien.seneschal@chu-bordeaux"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Le vitiligo est une dermatose chronique autoimmune à l'origine d'une dépigmentation cutanée progressive dont le diagnostic relève du dermatologue
+- Le vitiligo est une dermatose chronique autoimmune à l'origine d'une dépigmentation cutanée progressive avec des tâches blanc-ivoire. Le diagnostic relève du dermatologue
 - Le bilan du vitiligo recherche une [dysthyroïdie](/tags/tsh/) par TSH + anticorps anti-TPO
-- La prise en charge du vitiligo associe: information, photoprotection des zones dépigmentées, évaluation psychologique ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}) et suivi dermatologique
+- La prise en charge du vitiligo associe: information, photoprotection des zones dépigmentées, possible traitement médicamenteux, évaluation psychologique et suivi dermatologique
 - Les traitements de première intention du vitiligo sont les {{< modal-btn modal-dc >}}dermocorticoïdes{{< /modal-btn >}}, le tacrolimus et la photothérapie UVB
 - Un suivi spécialisé par le dermatologue est recommandé tous les 3 à 6 mois tant que le vitiligo est actif
 
@@ -74,7 +74,7 @@ BAD
 {{%collapse "Clinique" %}}
 
 > [!INFO]
-> Adresser toute suspicion de vitiligo au dermatologue pour le diagnostic clinique de certitude à la lampe de Wood et la prise en charge.
+> Adresser toute suspicion de vitiligo au dermatologue pour un diagnostic clinique de certitude à la lampe de Wood et l'instauration de la prise en charge.
 
 Le diagnostic de vitiligo est clinique avec à la lampe de Wood une dépigmentation totale des zones achromiques:
 
@@ -84,6 +84,7 @@ Le diagnostic de vitiligo est clinique avec à la lampe de Wood une dépigmentat
 - Caractères du vitiligo
   - Date d'apparition et contexte
   - Évolution
+  - Aspect: plaques cutanées dépigmentées (couleur blanc-ivoire) de taille variable
   - Type: vitiligo segmentaire ou non
   - Localisation et surface corporelle
   - Traitements essayés
@@ -94,9 +95,13 @@ Le diagnostic de vitiligo est clinique avec à la lampe de Wood une dépigmentat
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Dépister une [hypothyroïdie]({{% relref "hypothyroidie.md" %}}) ou une prédisposition: [TSH](/tags/tsh/) et anticorps anti-TPO.
+### Bilan du vitiligo
 
-[Contrôle de la vitamine D]({{% relref "vitamine-d.md" %}}) en cas d'éviction solaire totale.
+- [TSH](/tags/tsh/), anticorps anti-TPO
+
+Le bilan de première intention recherche une [hypothyroïdie]({{% relref "hypothyroidie.md" %}}) ou une prédisposition auto-immune (anticorps anti-TPO).
+
+Contrôle de la [vitamine D]({{% relref "vitamine-d.md" %}}) en cas d'éviction solaire totale.
 
 {{% /collapse %}}
 {{%collapse "Traitement de vitiligo" %}}
@@ -104,8 +109,9 @@ Dépister une [hypothyroïdie]({{% relref "hypothyroidie.md" %}}) ou une prédis
 La prise en charge du vitiligo est spécialisée par le dermatologue. Adresser en semi-urgence en cas d'évolution rapide.
 {.alert .alert-info}
 
-Mesures générales de prise en charge du vitiligo:
+Recommandations concernant les mesures générales de prise en charge du vitiligo:
 
+- Surveillance dermatologique spécialisée (et photos) tous les **3-6 mois**
 - Limiter les frottements
 - Crème solaire IP50 sur les zones atteintes
 - Soutien psychologique: [parcours Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}) ou autre
@@ -115,7 +121,7 @@ Mesures générales de prise en charge du vitiligo:
 
 ### Pour en savoir plus: traitements spécialisés du vitiligo
 
-Ensemble des traitements possibles pour la prise en charge spécialisée d'un vitiligo:
+Traitements disponibles pour la prise en charge dermatologique du vitiligo:
 
 - **Traitements locaux**
   - {{< modal-btn modal-dc >}}Dermocorticoïde fort ou très fort{{< /modal-btn >}} ou tacrolimus 0,1% x 2/j (hors AMM). Sauf péri-oculaire.
@@ -127,12 +133,11 @@ Ensemble des traitements possibles pour la prise en charge spécialisée d'un vi
 - Camouflage
   - Autobronzant
   - Maquillage médical par le dermatologue
-- La chirurgie est exceptionnelle
+- La chirurgie du vitiligo est exceptionnelle
 
-Surveillance clinique spécialisée (et photos) tous les 3-6 mois.
+La repigmentation est longue sur 6 à 24 mois avec une meilleure réponse au visage que sur les extrémités.
 
-La repigmentation est longue sur 6 à 24 mois avec une meilleure réponse au visage que sur les extrémités.  
-Les récidives peuvent être nombreuses mais l'évolution est imprévisible.
+Les récidives peuvent être nombreuses mais l'**évolution est imprévisible**.
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
@@ -142,7 +147,8 @@ Informations à donner sur le vitiligo:
 - Maladie de peau relativement fréquente atteignant les 2 sexes à tous les âges
 - Il a une origine auto-immune et n'est ni contagieux, ni un problème psychosomatique
 - Le système immunitaire attaque les mélanocytes qui teintent la peau
-- Évolution non prévisible sans sur-risque de cancer cutané
+- Évolution non prévisible
+- Il ne favorise pas les cancers de la peau
 - Phénomène de Koebner: les frottements répétés favorisent de nouvelle lésions
 - La prise en charge relève du dermatologue
 - Le traitement de référence comprend l'application de dermocorticoïdes et une photothérapie par UVB
@@ -172,9 +178,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Le vitiligo. Dermato-Info. 2025.](https://dermato-info.fr/les-maladies-de-la-peau/vitiligo)
 - [Inserm. Vitiligo. 2023.](https://www.inserm.fr/information-en-sante/dossiers-information/vitiligo)
 - [Eleftheriadou V, et al. British Association of Dermatologists guidelines for the management of people with vitiligo 2021.](https://onlinelibrary.wiley.com/doi/10.1111/bjd.20596)
-- [Ly S. Le vitiligo. Dermato-Info. 2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/vitiligo-quand-la-peau-perd-son-pigment)
 - [Whitton ME, et al. Interventions for vitiligo. Cochrane Database of Systematic Reviews. 2015.](https://www.cochrane.org/CD003263/SKIN_treatments-vitiligo)
 
 ### Bibliographie en attente
