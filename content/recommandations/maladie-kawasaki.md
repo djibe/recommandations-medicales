@@ -5,6 +5,7 @@ prefix = "la "
 description = "Recommandations pour le diagnostic et la prise en charge de la maladie de Kawasaki. Urgence médicale, cardiopédiatre avec aspirine et immunoglobulines IV"
 synonyms = ["Syndrome adéno-cutanéo-muqueux fébrile"]
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Pr ML. FREMOND (CRMR RAISE, hôpital Necker enfants malades) et Pr I. KONÉ-PAUT (CRMR, CEREMAIA hôpital Bicêtre) pour la filière FAI2R"
 date = "2023-07-11T17:44:22+02:00"
 publishdate = "2023-07-17"
 lastmod = "2025-11-11"
@@ -17,7 +18,7 @@ sctid = "75053002"
 icd10 = ["M30.3"]
 image = true
 imageSrc = "Signes de la maladie de Kawasaki. A. Hyperhémie conjonctivale aiguë bilatérale non purulente. B. Chéilite et langue framboisée. C. Rash érythémateux. D et E. Érythème des extrémités avec œdèmes douloureux. F. Desquamation des doigts. G. Érythème du site vaccinal au BCG. H. Érythème et desquamation périanale. Dong Soo Kim, CC BY-SA 4.0 via Wikimedia Commons"
-todo = "Prs I. KONÉ-PAUT (CEREMAIA, FAI2R) et ML. FRÉMOND (FAI2R)"
+todo = ""
 flowchart = true
 +++
 
