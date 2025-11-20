@@ -60,10 +60,6 @@
         <p class="typography-overline">Rédacteur</p>
         <p>{{ delimit . ", " }}</p>{{ end -}}
 
-        {{ with .Params.Relecteur }}
-        <p class="typography-overline">Relecteur</p>
-        <p>{{ . }}</p>{{ end }}
-
         {{ with .Params.sources }}
         <p class="typography-overline">Sources</p>
         <p class="font-weight-bold">{{ range . }}<abbr class="mr-2">{{ . }}</abbr>{{ end }}</p>{{ end }}
