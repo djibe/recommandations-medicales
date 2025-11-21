@@ -374,7 +374,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 | Neuropathie  | Dépistage annuel: ROT, diapason, podologue: {{< modal-btn modal-monofilament >}}monofilament{{< /modal-btn >}} et {{< modal-btn modal-grade-podologique >}}grade podologique{{< /modal-btn >}}, pic-touche, diapason, [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}), sécheresse cutanée | HAS 2025, ADA 2023 et ESC 2019 diabetes |
 | Permis de conduire | Voir [permis de conduire]({{% relref "pathologies-permis-conduire.md" %}})                 | HAS 2025                 |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux. Grossesse: avant, trimestrielle puis post-partum. Post-cataracte: intensifiée durant 12 mois | HAS 2025 |
-| {{< modal-btn modal-rcv-diabete >}}Risque cardiovasculaire{{< /modal-btn >}} | {{< scores/score2-diabetes >}} annuel en prévention primaire chez le 40-69 ans | HAS 2025 |
+| {{< modal-btn modal-rcv-diabete >}}Risque cardiovasculaire{{< /modal-btn >}} | SCORE2-Diabetes annuel en prévention primaire chez le 40-69 ans | HAS 2025 |
 | Score calcique | Pas d'argument pour l'utiliser pour la classification du RCV<br>{{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} ± test d'effort | ESC 2023 diabetes<br>SFD 2021 CAD |
 | [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) | Envisager le dépistage chez la femme          | ESHRE 2023               |
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |
