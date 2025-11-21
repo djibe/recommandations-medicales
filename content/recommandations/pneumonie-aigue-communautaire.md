@@ -214,7 +214,7 @@ Signes et symptômes de pneumonie à rechercher à l'examen.
   - Hypercapnie: {{< clinique/hypercapnie >}}
 - Complications: signes de pleurésie, empyème
 - Étayer le diagnostic différentiel
-  - Virose sur insuffisance cardiaque, pneumopathie d'inhalation, embolie pulmonaire, exacerbation d'asthme ou de BPCO, grippe, bronchite aiguë
+  - Virose sur insuffisance cardiaque, [pneumopathie d'inhalation]({{% relref "pneumonie-inhalation.md" %}}), embolie pulmonaire, exacerbation d'asthme ou de BPCO, grippe, bronchite aiguë
   - Chez l'enfant: [bronchiolite]({{% relref "bronchiolite.md" %}}), bronchite
 
 {{< clinique/frequence-respiratoire-enfant >}}
