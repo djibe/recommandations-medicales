@@ -20,7 +20,7 @@
   {{ with resources.Get $file }}
     {{ with . | transform.Unmarshal (dict "delimiter" ";") }}
 <table class="table {{ if $initializeClass }}{{ printf "%s" $initializeClass }}{{ end }} {{ if $extraClass }}{{ printf "%s" $extraClass }}{{ end }}" id="{{ if $id }}{{ printf "%s" $id }}{{ end }}" itemscope itemtype="https://schema.org/Table">
-{{ if $title }}<caption id="{{ printf "table-caption-%s" $id }}" itemprop="about"><b>Tableau.</b> {{ printf "%s" $title }}</caption>{{ end }}
+{{ if $title }}<caption id="{{ printf "table-caption-%s" $id }}" itemprop="about"><b>Tableau.</b> {{ printf "%s" $title | markdownify }}</caption>{{ end }}
 <thead>
 <tr>
 {{ range index . 0 }}
