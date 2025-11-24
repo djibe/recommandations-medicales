@@ -6,6 +6,7 @@ description = "Recommandations pour la prise en charge du déficit en G6PD. Méd
 longHtml = true
 synonyms = ["Favisme", "déficit en Glucose-6-déshydrogénase"]
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Pr F. GALACTEROS (MCGRE)"
 date = "2021-07-08T22:38:00+02:00"
 publishdate = "2021-07-09"
 lastmod = "2025-11-24"
@@ -18,7 +19,7 @@ sctid = "62403005"
 icd10 = ["D55.0"]
 image = true
 imageSrc = "Illustration du déficit en G6PD par macrovector / Freepik"
-todo = "rankok | relecture demandée GALACTEROS F"
+todo = "rankok"
 datatable = true
 flowchart = true
 +++
