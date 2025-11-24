@@ -18,7 +18,7 @@ sctid = "418290006"
 icd10 = ["L29", "L29.9"]
 image = true
 imageSrc = "Illustration du prurit. wayhomestudio / Freepik"
-todo = "ranok"
+todo = "rankok"
 flowchart = true
 +++
 
@@ -177,20 +177,20 @@ Aux jambes, différencier de paresthésies ou impatiences (évocatrices de [jamb
 
 ### Bilan devant un prurit sans orientation
 
-- NFS, ferritinémie
-- Bilan hépatique  
-  ASAT, ALAT, GGT, PAL, bilirubine totale.
-- Créatininémie
+Bilan du prurit sine materia:
+
+- NFS
+- GGT, PAL
+- Créatine
 - TSH
+- Ferritine
 - [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}})
 - Sérologies [VIH]({{% relref "vih-sida.md" %}}), [VHB]({{% relref "hepatite-b.md" %}}), [VHC]({{% relref "hepatite-c.md" %}})
 - Radiographie thoracique
 - Sujet âgé: biopsie cutanée
 {{%/info%}}
 
-> -- *CEDEF 2021*
-
-Voire échographie abdominale.
+> -- *CEDEF 2021 LiSA 116*
 
 {{% /collapse %}}
 {{%collapse "Traitement du prurit" %}}

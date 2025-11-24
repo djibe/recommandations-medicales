@@ -169,6 +169,8 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Peyronnet B, et al. Guide pour la pratique clinique sur la prise en charge diagnostique de l'incontinence urinaire d'effort chez la femme par le comité d'urologie et pelviperinéologie de la femme (CUROPF) de l'Association française d'urologie (AFU) -- Practice bulletin on the diagnosis of female stress urinary incontinence in France from the committee of female urology (CUROPF) of the French Association of Urology (AFU). Progrès en Urologie - FMC. 2025.](https://www.sciencedirect.com/science/article/abs/pii/S1761676X25003621)
+- [Peyronnet B, et al. Guide pour la pratique clinique sur la prise en charge thérapeutique de l'incontinence urinaire d'effort chez la femme par le Comité d'urologie et pelviperinéologie de la femme (CUROPF) de l'Association française d'urologie (AFU) -- Practice bulletin on the management of female stress urinary incontinence in France from the Committee of Female Urology (CUROPF) of the French Association of Urology (AFU). Progrès en Urologie - FMC. 2025.](https://www.sciencedirect.com/science/article/abs/pii/S1761676X2500361X)
 - [Okeahialam NA, et al. Pelvic floor muscle training: a practical guide. BMJ. 2022. (payant)](https://www.bmj.com/content/378/bmj-2022-070186)
 - [Harding CK, et al. EAU guidelines on management of non-neurogenic female lower urinary tract symptoms. 2025.](https://uroweb.org/guidelines/non-neurogenic-female-luts)
 

@@ -54,7 +54,7 @@ L'[évaluation chez la personne avec un diabète]({{% relref "diabete-type-2.md"
 
 ### Statine en prévention primaire
 
-Selon la *ESC 2021*, la cible de LDL est définie selon le {{< scores/heartscore >}} à partir de 40 ans ...  
+Selon la *ESC 2021*, la cible de LDL est définie selon le {{< scores/heartscore >}} à partir de 40 ans ({{< scores/score2-diabetes >}} en cas de diabète) ...  
 en l'absence de maladie cardiovasculaire, de comorbidité ([diabète](/tags/diabete/), hypercholestérolémie familiale, [maladie rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})) ou de [grossesse]({{% relref "grossesse.md" %}}).
 
 Toutefois la ESC appelle à un **LDL inférieur à 1 g/L** pour tous à tous les âges.
@@ -63,7 +63,7 @@ Selon l'avis indépendant de la *USPTF 2022*, une statine est recommandée pour 
 
 - Adulte de 40 à 75 ans
 - Risque cardiovasculaire à 10 ans ≥ 10% (calcul du {{< scores/heartscore >}})  
-  Pour certains patients si risque compris de 7,5 à 9,9%.
+  Pour certains patients si risque compris de 7,5 à 9,9 %.
 - Avec ≥ 1 autre facteur de risque cardiovasculaire: dyslipidémie, [diabète](/tags/diabete/), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [tabagisme]({{% relref "arret-tabac.md" %}})
 
 La USPTF ajoute qu'il n'y a pas de bénéfice à initier une statine en prévention primaire à partir de 76 ans.

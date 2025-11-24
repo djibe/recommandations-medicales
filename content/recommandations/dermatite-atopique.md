@@ -298,7 +298,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Centre de Preuves en Dermatologie, great, Société Française de Dermatologie. Recommandations françaises pour la prise en charge de la dermatite atopique. 2025. (PDF)](https://www.sfdermato.org/upload/recommandations/4_texte-long.pdf)
+- [Centre de Preuves en Dermatologie, great, Société Française de Dermatologie. Recommandations françaises pour la prise en charge de la dermatite atopique. 2025. (PDF)](https://www.sfdermato.org/upload/recommandations/4_texte-long.pdf); Sigg N, et al. Recommandations françaises pour la prise en charge de la dermatite atopique -- French guidelines for the management of atopic dermatitis. Annales de Dermatologie et de Vénéréologie - FMC. 2025.
 - [NICE. Atopic eczema in under 12s: diagnosis and management. NICE guideline. 2025.](https://www.nice.org.uk/guidance/cg57)
 - [Wheeler KE, et al. Updated Guidelines for Atopic Dermatitis-AAAAI/ACAAI Joint Task Force. JAMA Pediatr. 2024.](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2820957)
 - [Xu AZ, Alexander JT. Topical Therapies for Atopic Dermatitis. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811421)

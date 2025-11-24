@@ -211,7 +211,7 @@ Recommandations pour le traitement médical de l'énurésie:
 
 {{< mermaid title="Prise en charge de l'énurésie primaire par le médecin généraliste. Dr JB Fron d'après AFU et SFP 2010" >}}
 graph TB
-  énurésie["<b>Énurésie primaire isolée (EnPI)</b><br>—<br>Incontinence urinaire intermittente<br>pendant le sommeil<br>après l’âge de 5 ans"] --> clinique("<b>Clinique</b><br>—<br>- Calendrier mictionnel<br>- Intensité<br>- Tolérance, vécu<br>- Retentissement<br>- Examen clinique<br>- Bandelette urinaire") --> RHD("<b>Règles hygiéno-diététiques</b><br>—<br>- Distribution des<br>apports hydriques 7-18h<br>- Mictions régulières<br>et complètes<br>- Faciliter l'accès<br>aux toilettes<br>- Déculpabiliser<br>- Lutte constipation") -. Échec .-> urologue(Urologue)
+  énurésie["<b>Énurésie primaire isolée (EnPI)</b><br>—<br>Incontinence urinaire intermittente<br>pendant le sommeil<br>après l'âge de 5 ans"] --> clinique("<b>Clinique</b><br>—<br>- Calendrier mictionnel<br>- Intensité<br>- Tolérance, vécu<br>- Retentissement<br>- Examen clinique<br>- Bandelette urinaire") --> RHD("<b>Règles hygiéno-diététiques</b><br>—<br>- Distribution des<br>apports hydriques 7-18h<br>- Mictions régulières<br>et complètes<br>- Faciliter l'accès<br>aux toilettes<br>- Déculpabiliser<br>- Lutte constipation") -. Échec .-> urologue(Urologue)
     clinique -- Diagnostic différentiel --> différentiel("- Infection urinaire<br>- Apnées du sommeil<br>- Diabète<br>- Constipation massive")
   style énurésie stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
@@ -228,6 +228,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Hild O, et al. Prise en charge de l'énurésie de l'enfant et de l'adolescent -- Nocturnal enuresis management in infant and adolescent. Progrès en Urologie - FMC. 2025.](https://www.sciencedirect.com/science/article/abs/pii/S1761676X25003724)
 - [Harris J, et al. L'évaluation et la prise en charge de l'énurésie en pédiatrie générale. Paediatr Child Health. 2023.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10517247/)
 
 {{%/sources%}}
