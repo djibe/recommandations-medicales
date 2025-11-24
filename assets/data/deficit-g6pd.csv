@@ -1,6 +1,6 @@
 Substance;Utilisation
-Acide acétylsalicylique (aspirine);Possible
-Acide ascorbique (Vitamine C);Possible
+Acide acétylsalicylique (aspirine);"Possible &lt; 3 g/j"
+Acide ascorbique (Vitamine C);"Possible &lt; 1 g/j"
 Acide nalidixique;Contre-indiquée
 Acide pipémidique;Déconseillée
 Antipyrine;Déconseillée
@@ -25,7 +25,7 @@ Nitrofurantoïne;Contre-indiquée
 Noramidopyrine (Métamizole sodique);Contre-indiquée
 Norfloxacine (orale);Déconseillée
 Ofloxacine (orale et injectable);Déconseillée
-Paracétamol;Possible
+Paracétamol;"Possible &lt; 3-4 g/j"
 Phytoménadione;Déconseillée
 Phénazone (cutanée et nasale);Déconseillée
 Prilocaïne;Déconseillée
