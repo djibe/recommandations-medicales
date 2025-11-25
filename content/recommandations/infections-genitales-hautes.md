@@ -1,5 +1,5 @@
 +++
-id = "0192fd7b-d356-759d-af2d-9e86c90061b0"
+id = "ef5591da-244d-426d-b2a2-1ed711e782d8"
 title = "Infections génitales hautes: endométrite et salpingite"
 titleSeo = "Infections génitales hautes endométrite et salpingite"
 prefix = ""
