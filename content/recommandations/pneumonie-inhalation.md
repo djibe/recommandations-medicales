@@ -26,9 +26,9 @@ todo = "flow > Kanban | maj autres fiches, relecture sylvain.diamantis@ghsif"
 - La pneumonie d'inhalation correspond à un diagnostic de pneumonie accompagnée d'une présomption d'inhalation avec une période d'incubation entre les 2 événements. Les germes anaérobies sont peu représentés
 - Les symptômes sont ceux de la pneumonie avec syndrome infectieux, signes respiratoires (toux, expectorations purulentes, dyspnée, douleurs thoraciques). L'examen recherche un trouble de la déglutition et du réflexe tussif
 - Le bilan de la pneumonie d'inhalation consiste en un scanner thoracique en urgence
-- Les critères d'hospitalisation sont ceux de la pneumonie et du risque d'infection à pyocyanique: colonisation ou infection récente à *Pseudomonas aeruginosa*, antibiothérapie parentérale dans les 3 mois, BPCO sévère ou dilatation des bronches, trachéotomie
+- Les critères d'hospitalisation sont ceux de la pneumonie (hémodynamique, CRB65 ...) et du risque d'infection à pyocyanique (colonisation ou infection récente à *Pseudomonas aeruginosa*, antibiothérapie parentérale dans les 3 mois, BPCO sévère ou dilatation des bronches, trachéotomie)
 - En l'absence de critères d'hospitalisation, la prise en charge de la pneumonie d'inhalation peut être ambulatoire avec antibiothérapie par amoxicilline/acide clavulanique 1g, 3 fois par jour pendant 5 jours avec réévaluation systématique à 72 heures
-- L'hospitalisation est ensuite indiquée si les critères de guérison (voir *Traitement*) ne sont pas obtenus à 72 heures
+- L'hospitalisation est indiquée si les critères de guérison (voir *Traitement*) ne sont pas obtenus à 72 heures
 - Après l'épisode infectieux, une évaluation de l'autonomie, cognitive, nutritionnelle et des fausses routes est nécessaire
 
 Chapitre lié: [pneumonie aiguë communautaire]({{% relref "pneumonie-aigue-communautaire.md" %}})
@@ -40,8 +40,8 @@ Chapitre lié: [pneumonie aiguë communautaire]({{% relref "pneumonie-aigue-comm
 > Ne sont pas concernées: les pneumopathies post-AVC ou post-opératoires précoces et celles acquises sous ventilation mécanique.
 
 Pneumonie d'inhalation (PI)
-: Diagnostic de pneumonie (infection respiratoire basse avec nouvel infiltrat radiologique) accompagnée de diagnostic étiologique présomptif d'inhalation, marquée par une période d'incubation.
-: Elle est causée par une inoculation importante de bactéries aérobies, anaérobies (< 5 %) ou mixtes provenant des fluides oropharyngés ou gastriques (germes principaux: *S. pneumoniae*, *H. influenzae*, *S. aureus*, entérobactéries, *P. aeruginosa*).
+: Diagnostic de pneumonie (infection respiratoire basse avec nouvel infiltrat radiologique) accompagnée du diagnostic étiologique présomptif d'inhalation, marquée par une période d'incubation.
+: Elle est causée par une inoculation importante de bactéries aérobies, anaérobies (< 5 %) ou mixtes provenant des fluides oropharyngés ou gastriques. Principaux germes: *S. pneumoniae*, *H. influenzae*, *S. aureus*, entérobactéries, *P. aeruginosa*.
 : Elle représenterait 5 à 15 % des pneumonies communautaires.
 
 Pneumonie chimique
@@ -67,7 +67,7 @@ Critères diagnostiques de la pneumonie d'inhalation:
 
 **ou**
 
-- atteinte clinico-radiologique déclive
+- atteinte évocatrice clinico-radiologique déclive
 - en présence de **facteur de risque d'inhalation**: troubles de la vigilance et de la déglutition, anomalie des réflexes nauséeux et de toux, atteinte des voies aérodigestives supérieures ou altération de l'hygiène bucco-dentaire
 
 {{% /collapse %}}
@@ -111,7 +111,7 @@ Le diagnostic de pneumonie d'inhalation est le plus souvent **présomptif**, les
 
 Le scanner montre une **atteinte déclive**, des lobes inférieurs basaux (surtout le **droit**). À défaut de scanner: échographie pulmonaire, radiographie thoracique de face (faible sensibilité).
 
-Si le sujet est alité: atteinte préférentielle des segments postérieurs du lobe supérieur droit et du segment apical du lobe inférieur droit.
+Si le sujet est **alité**: atteinte préférentielle des segments postérieurs du lobe supérieur droit et du segment apical du lobe inférieur droit.
 
 Un examen cytobactériologique des crachats (**ECBC**) peut être réalisé avant l'initiation d'une antibiothérapie à activité anti-*Pseudomonas aeruginosa* (pyocyanique).
 
@@ -235,6 +235,8 @@ La pneumonie d'inhalation doit faire réaliser une évaluation rigoureuse à dis
 - Soins et hygiène bucco-dentaire
 - Mesures de prévention (voir *[Prévention](#prévention)*)
 - Évaluations spécialisées si nécessaire: orthophonie, gériatrie, diététique
+- Sevrage tabagique
+- Vaccinations: [grippe]({{% relref "grippe.md" %}}) et [Covid-19]({{% relref "covid-19.md" %}}) annuels, {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}} si +65 ans ou comorbidité, VRS si +75 ans (non remboursé)
 
 En cas de fragilité, vérifier la consignation de la personne de confiance et des directives anticipées (également intégrées à *Mon Espace Santé*).
 
@@ -251,5 +253,10 @@ L'étiologie d'une pneumonie d'inhalation peut être recherchée avec la [checkl
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
 
 {{< scores/mna >}}
+
+{{% /modal %}}
+{{% modal title="Vaccin pneumocoque" id="modal-pneumocoque"%}}
+
+{{< traitements/vaccin-pneumocoque >}}
 
 {{% /modal %}}
