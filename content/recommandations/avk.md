@@ -291,6 +291,8 @@ Patient avec valve mécanique, anticoagulé par AVK ou enfant traité par AVK ay
 
 {{< card-link-external title="AVKClic" url="https://www.mgform.org/sites-utiles/avkclic" subtitle="Aide à l'adaptation des posologies d'AVK" >}}
 
+{{< youtube id="ayf-I8Vy9-w" title="Référentiels - Gestion de l'anticoagulation dans un contexte d'urgence - eSFAR 2024 (SFAR)" >}}
+
 - [CBIP. AINS + anticoagulants oraux : une association à haut risque ?. Folia. 2025.](https://www.cbip.be/fr/articles/4633?folia=4621)
 - [HAS. Surveillance biologique des anticoagulants (héparines et antivitamines K). Flash sécurité patient. 12/10/2023.](https://www.has-sante.fr/jcms/p_3466363/fr/flash-securite-patient-surveillance-biologique-des-anticoagulants-heparines-et-antivitamines-k-une-prise-de-sang-pour-eviter-une-perte-de-sang)
 - [ANSM. Les Questions/réponses des Anti-vitamine K (AVK). 17/03/2021.](https://ansm.sante.fr/dossiers-thematiques/les-questions-reponses-des-anti-vitamine-k-avk)
@@ -299,6 +301,7 @@ Patient avec valve mécanique, anticoagulé par AVK ou enfant traité par AVK ay
 
 ### Bibliographie en attente
 
+- [SFAR. Gestion de l'anticoagulation dans un contexte d'urgence. 2024.](https://sfar.org/gestion-de-lanticoagulation-dans-un-contexte-durgence/)
 - [Rahman AA, et al. Concomitant Use of Selective Serotonin Reuptake Inhibitors With Oral Anticoagulants and Risk of Major Bleeding. JAMA Netw Open. 2024.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2816687)
 - [Omedit Normandie. Guide de bon usage des anticoagulants. 2022. (PDF)](https://www.omedit-normandie.fr/media-files/34151/guide-anticoagulant-regional-20220926.pdf)
 

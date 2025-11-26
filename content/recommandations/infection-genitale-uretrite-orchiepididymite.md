@@ -332,6 +332,7 @@ Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques e
 {{% /collapse %}}
 {{%sources%}}
 
+- [Sauvage C, et al. Prévalence de l'infection à Chlamydia trachomatis, Neisseria gonorrhoeae et Mycoplasma genitalium chez les femmes et les hommes de 18-59 ans, en France hexagonale, enquête PrévIST. Bull Epidemiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/19-20/2025_19-20_5.html)
 - [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
 - [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées par Neisseria gonorrhoeae. 2025.](https://www.has-sante.fr/jcms/p_3604670/fr/recommandations-de-prise-en-charge-des-personnes-infectees-par-neisseria-gonorrhoeae)
 - [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Mycoplasma genitalium. 2025.](https://www.has-sante.fr/jcms/p_3604652/fr/traitement-curatif-des-personnes-infectees-par-mycoplasma-genitalium)
