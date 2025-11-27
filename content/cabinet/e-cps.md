@@ -73,7 +73,7 @@ Cette étape va passer par l'adresse de courriel associée à votre compte ordin
 
 ### Aide en cas d'échec d'installation
 
-[FAQ e-CPS](https://esante.gouv.fr/securite/faq-e-cps) ou {{<phone>}}0 809 40 00 82{{</phone>}} (gratuit)
+[FAQ e-CPS](https://esante.gouv.fr/produits-services/e-cps) ou {{<phone>}}0 806 800 213{{</phone>}}
 
 {{% /collapse %}}
 {{%collapse "Fraude à la e-CPS" %}}
@@ -83,7 +83,7 @@ La vaccination anti-covid a amené le lot de margoulins qui veulent accéder à 
 Si vous recevez une notification de l'application e-CPS, refusez-là ! Puis signalez-le afin d'être exemptés de poursuites:
 
 - L'Assurance Maladie: {{<phone>}}3608{{</phone>}}
-- L'Agence du Numérique en Santé ([ANS](https://esante.gouv.fr/actualites/professionnels-de-sante-comment-reagir-en-cas-de-doute-la-fraude-au-pass-sanitaire)): {{<phone>}}0825 85 2000{{</phone>}} (0,06 €/min)
+- L'Agence du Numérique en Santé ([ANS](https://esante.gouv.fr/)): {{<phone>}}0 806 800 213{{</phone>}}
 - Le CDOM
 - La [police](https://www.pre-plainte-en-ligne.gouv.fr)
 

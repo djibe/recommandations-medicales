@@ -30,7 +30,7 @@ La vaccination contre la fièvre jaune est:
 
 - Obligatoire pour tout séjour en Guyane, dès 1 an (possible dès 9 mois) et certains pays ([Pasteur](https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage))
 - Indispensable pour tous les pays endémiques ou épidémiques
-- Réalisée en centre de vaccination homologué ([annuaire](https://solidarites-sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination-fievre-jaune))
+- Réalisée en centre de vaccination homologué ([annuaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination-fievre-jaune))
 - Au moins 10 jours avant le départ
 - Par 1 dose unique
 - Associée à la prévention contre les piqûres de moustiques (PPAV)
@@ -103,7 +103,7 @@ La **vaccination anti-amarile** est réalisée dans un centre homologué avec re
 
 1 dose au moins 10 jours avant le départ sans rappel (possible dès l'âge de 9 mois) dans un centre agréé.
 
-{{< card-link-external title="Liste des centres de vaccination fièvre jaune (anti-amarile) par département" url="https://solidarites-sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination-fievre-jaune" subtitle="Ministère de la Santé" image="ministere" >}}
+{{< card-link-external title="Liste des centres de vaccination fièvre jaune (anti-amarile) par département" url="https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination-fievre-jaune" subtitle="Ministère de la Santé" image="ministere" >}}
 
 {{% /collapse %}}
 {{%collapse "Mesures de prévention" %}}
@@ -128,7 +128,7 @@ graph TB
 - {{< references/voyageur >}}
 - {{< references/calendrier-vaccinal >}}
 - [Ministère de la Santé. Fièvre jaune. 2024.](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/la-fievre-jaune)
-- [Ministère de la Santé. Liste des centres de vaccination habilités à effectuer la vaccination contre la fièvre jaune (anti-amarile). Janvier 2024.](https://solidarites-sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination-fievre-jaune)
+- [Ministère de la Santé. Liste des centres de vaccination habilités à effectuer la vaccination contre la fièvre jaune (anti-amarile). Janvier 2024.](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination-fievre-jaune)
 - [OMS. Fièvre jaune. 31/05/2023.](https://www.who.int/fr/news-room/fact-sheets/detail/yellow-fever)
 - [Institut Pasteur. Fièvre jaune : mieux comprendre les rares effets secondaires des vaccins. 26/04/2021.](https://www.pasteur.fr/fr/journal-recherche/actualites/fievre-jaune-mieux-comprendre-rares-effets-secondaires-vaccins)
 - [OMS. Mise à jour sur la fièvre jaune dans le monde, 2020. iris. 2021.](https://iris.who.int/handle/10665/344323)

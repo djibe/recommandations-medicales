@@ -126,7 +126,7 @@ graph TB
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
-- [Ministère de la Santé. L'hépatite A. 26/03/2024.](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/article/l-hepatite-a)
+- [Ministère de la Santé. L'hépatite A. 26/03/2024.](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/article/l-hepatite-a)
 - [Vaccination Info Service Professionnels. Hépatite A. 21/09/2023.](https://professionnels.vaccination-info-service.fr/Maladies-et-leurs-vaccins/Hepatite-A)
 - [Organisation Mondiale de la Santé. Hépatite A. 20/07/2023.](https://www.who.int/fr/news-room/fact-sheets/detail/hepatitis-a)
 

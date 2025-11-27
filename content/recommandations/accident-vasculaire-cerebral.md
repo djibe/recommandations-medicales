@@ -31,7 +31,7 @@ flowchart = true
 - Un antécédent d'AIT ou d'AVC détermine un {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}
 - Prise en charge post-AVC: aspirine 75-150 mg/j si ischémique non cardioembolique, {{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} < 0,7 g/L, si hypertension: {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}, thiazidique pour cible < 130/80 mmHg
 - Bilan spécialisé cardiologique et neurovasculaire
-- [Éducation de toute la population à reconnaître un AVC](https://solidarites-sante.gouv.fr/IMG/png/infographieavcsignes.png)
+- [Éducation de toute la population à reconnaître un AVC](https://sante.gouv.fr/IMG/png/infographieavcsignes.png)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

@@ -249,7 +249,7 @@ Voir conjonctivite (à venir, lire HAS p. 17).
 - [Santé Publique France. Chlamydiae. 01/12/2020.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/chlamydiae)
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)
 - [Dupin N, et al; Société Française de Dermatologie (SFD). Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement Transmissibles Infection à Chlamydia trachomatis. 2016. (PDF)](https://www.cnr-ist.fr/ressources/editeur/Guidelines%20IST%20SFDermato%202016.pdf)
-- [Ministère de la Santé. Infections sexuellement transmissibles (IST). 05/01/2016.](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/article/infections-sexuellement-transmissibles-ist)
+- [Ministère de la Santé. Infections sexuellement transmissibles (IST). 05/01/2016.](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/article/infections-sexuellement-transmissibles-ist)
 - [ANAES. Évaluation du dépistage des infections uro-génitales basses à Chlamydia trachomatis en France. 2003.](https://www.has-sante.fr/jcms/c_464119/fr/evaluation-du-depistage-des-infections-uro-genitales-basses-a-chlamydia-trachomatis-en-france-2003)
 
 ### Bibliographie en attente

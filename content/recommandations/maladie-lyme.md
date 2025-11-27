@@ -253,7 +253,7 @@ Les anticorps ne protègent pas contre une nouvelle infection à *Borrelia burgd
 {{% /collapse %}}
 {{%collapse "Prévention de la maladie de Lyme" %}}
 
-[Ministère de la Santé: Maladie de Lyme et prévention des piqûres de tiques (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/maladie_de_lyme_depliant_gp.pdf) et [Santé Publique France. Prévention de la borréliose de Lyme (PDF)](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-transmission-vectorielle/borreliose-de-lyme/documents/depliant-flyer/maladie-de-lyme-et-prevention-des-piqures-de-tiques)
+[Ministère de la Santé: Maladie de Lyme et prévention des piqûres de tiques (PDF)](https://sante.gouv.fr/IMG/pdf/maladie_de_lyme_depliant_gp.pdf) et [Santé Publique France. Prévention de la borréliose de Lyme (PDF)](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-transmission-vectorielle/borreliose-de-lyme/documents/depliant-flyer/maladie-de-lyme-et-prevention-des-piqures-de-tiques)
 
 Les tiques sont cachées dans les hautes herbes, buissons et branches basses à toutes les altitudes et aussi dans les jardins (25% des piqûres).
 

@@ -92,7 +92,7 @@ VVA
 
 Informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours (pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles).
 
-Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf).
+Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf).
 
 {{% /collapse %}}
 {{%collapse "Rattrapage vaccinal" %}}
@@ -297,7 +297,7 @@ Documents pour informer sur la vaccination:
 
 - [Information du patient - Santé BD: La vaccination](https://santebd.org/les-fiches-santebd/docteur-generaliste/la-vaccination-mieux-comprendre-la-vaccination)
 - [CRES PACA. Des outils de promotion de la vaccination](http://www.cres-paca.org/a/157/des-outils-de-promotion-de-la-vaccination/?utm_source=phplist785&utm_medium=email&utm_content=HTML&utm_campaign=Vaccination+%3A+des+outils+pour+les+professionnels+de+sant%C3%A9+)
-- [Guide info parent rotavirus (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
+- [Guide info parent rotavirus (PDF)](https://sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites sur la vaccination" %}}

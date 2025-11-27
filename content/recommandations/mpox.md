@@ -30,7 +30,7 @@ flowchart = true
 - Bilan en cas de suspicion de Monkeypox:
   - Mesures barrières
   - En l'absence de contact à risque ou si le clade (I ou II) du cas primaire n'est pas connu: RT-PCR MPXV en urgence sur 1 ou 2 lésions muqueuses
-- Diagnostic de Mpox: isolement strict avec prévention des surinfections des lésions, déclaration obligatoire et remise de [la conduite à tenir (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/flyer_cas_confirmes_mkp_120822_vdef.pdf)
+- Diagnostic de Mpox: isolement strict avec prévention des surinfections des lésions, déclaration obligatoire et remise de [la conduite à tenir (PDF)](https://sante.gouv.fr/IMG/pdf/flyer_cas_confirmes_mkp_120822_vdef.pdf)
 - Vaccination des personnes à risque de Monkeypox: [où se faire vacciner contre Monkeypox ?](https://www.sante.fr/mpox) ou [vaccination MKPX en Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients) sur auto-déclaration du statut de personne cible (voir *Prévention*)
 - Site d'information [Sexosafe](https://www.sexosafe.fr/Variole-du-singe) pour les HSH et [Flyer d'info Variole du singe](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-transmissibles-de-l-animal-a-l-homme/mpox/documents/depliant-flyer/info-mpox-flyer-a5) (*SPF*)
 - Monkeypox Info Service Grand public: {{<phone>}}0 801 90 80 69{{</phone>}} (8-23h)
@@ -244,7 +244,7 @@ Prise en charge du patient atteint de Mpox (cas probable ou confirmé):
   - Jusqu'à disparition des dernières croûtes
   - Préservatif pendant 8 semaines à partir de la guérison complète
 - Prévenir la ré-inoculation: éviter le grattage des lésions, couvrir les lésions
-- Remettre la [fiche d'information Mpox (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/flyer_cas_confirmes_mkp_120822_vdef.pdf)
+- Remettre la [fiche d'information Mpox (PDF)](https://sante.gouv.fr/IMG/pdf/flyer_cas_confirmes_mkp_120822_vdef.pdf)
 - Autres mesures: éloigner les animaux de compagnie
 - [Traitement des surinfections et lésions douloureuses (*SFD*)](https://www.sfdermato.org/upload/news/groupemonkeypeauxfinal-1.pdf)
 - Contact tracing avec auto-surveillance jusqu'à 3 semaines post-contact
@@ -287,7 +287,7 @@ graph TB
 - [DGS-Urgent 2022-76, 70, 65, 61, 58. 05/08/2022.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Réponses Rapides : Infection par le virus Monkeypox -- Prise en charge en médecine de 1er recours. 05/09/2022.](https://www.has-sante.fr/jcms/p_3361191/fr/reponses-rapides-infection-par-le-virus-monkeypox-prise-en-charge-en-medecine-de-1er-recours)
 - Ameli. Virus Monkeypox : les recommandations sur la prise en charge et la vaccination. 16/08/2022.
-- [Ministère de la Santé. Fiche de synthèse << variole du singe >> à destination des professionnels de santé. 05/08/2022. (PDF)](https://solidarites-sante.gouv.fr/IMG/pdf/fiche_de_synthese_a_destination_des_professionnels_de_sante_040822.pdf)
+- [Ministère de la Santé. Fiche de synthèse << variole du singe >> à destination des professionnels de santé. 05/08/2022. (PDF)](https://sante.gouv.fr/IMG/pdf/fiche_de_synthese_a_destination_des_professionnels_de_sante_040822.pdf)
 - [Vaccination Info Service. Variole du singe (Monkeypox). 22/07/2022.](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Variole-du-singe-Monkeypox)
 - [HCSP. Mesures de prévention vis-à-vis de l'infection à Monkeypox virus. 08/07/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1230)
 - [Infovac. Epidémie de variole dite << du singe >> ou monkey pox : place des enfants et préconisations actuelles du GPIP et de la SFP. 20/07/2022.](https://www.infovac.fr/actualites/epidemie-de-variole-dite-du-singe-ou-monkey-pox-place-des-enfants-et-preconisations-actuelles-du-gpip-et-de-la-sfp)
