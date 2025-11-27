@@ -1,0 +1,14 @@
+{{/* Select all regular pages that actually have an 'id' param set */}}
+{{ $pagesWithId := where site.RegularPages "Params.id" "ne" nil }}
+
+{{/* Group these pages by their 'id' parameter */}}
+{{ $groups := $pagesWithId.GroupByParam "id" }}
+
+{{/* Iterate through the groups */}}
+{{ range $groups }}
+  {{/* If a group has more than 1 page, we have a duplicate */}}
+  {{ if gt (len .Pages) 1 }}
+    {{/* Halt the build with an error message listing the file paths */}}
+    {{ errorf "Duplicate ID found: '%s'. Used in: %s" .Key .Pages }}
+  {{ end }}
+{{ end }}

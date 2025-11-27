@@ -14,6 +14,8 @@
 {{ end }}
 {{ $imageRsc := resources.Get $imageUrl }}
 
+{{ partial "functions/validate-unique-ids.html" . }}
+
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
