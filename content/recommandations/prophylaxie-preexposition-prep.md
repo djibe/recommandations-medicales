@@ -336,6 +336,7 @@ gitGraph
 {{% /collapse %}}
 {{%sources%}}
 
+- [Améli Médecin. Utilisation de la PrEP : des initiations stabilisées mais une diffusion encore incomplète. 27/11/2025.](https://www.ameli.fr/medecin/actualites/utilisation-de-la-prep-des-initiations-stabilisees-mais-une-diffusion-encore-incomplete)
 - [HAS, ANRS, CNS. Traitement préventif pré-exposition de l'infection par le VIH. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3536524/fr/traitement-preventif-pre-exposition-de-l-infection-par-le-vih)
 - [Chou R et al. Preexposure Prophylaxis for the Prevention of HIV: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2023.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prevention-of-human-immunodeficiency-virus-hiv-infection-pre-exposure-prophylaxis)
 - Ameli Médecin. Forte augmentation de la prescription de la PrEP en ville par des médecins généralistes. 29/11/2022.

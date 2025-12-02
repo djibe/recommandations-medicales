@@ -100,13 +100,13 @@ Liste des causes pouvant être à l'origine de la ménopause précoce:
   - Origines plus exposées  
     Afro-américaines, hispaniques > caucasienne > asiatiques.
   - Syndrome de Turner
-  - Prémutation du gène FMR1 ou autres
+  - Prémutation du gène FMR1 (syndrome de l'X fragile) ou autres
 - Auto-immune
 - Iatrogène
   - Ovariectomie ou kystectomie bilatérale
   - Chimiothérapie (alkylants ++)
   - Radiothérapie pelvienne
-- Idiopathique (70%)
+- Idiopathique (70 %)
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -161,7 +161,7 @@ Le critère diagnostique biologique d'insuffisance ovarienne prématurée est un
 En première intention, bêta-HCG avec bilan complémentaire si négative.
 {.alert .alert-info}
 
-**Bilan en cas de β-hCG négatifs:**
+**Bilan en cas de β-hCG négative:**
 
 - FSH, TSH  
 - Ferritine (voir [hémochromatose]({{% relref "hemochromatose.md" %}}))
@@ -179,28 +179,26 @@ Prise en charge dans un ***Centre de Référence de maladies rares*** prenant en
 - AMH (évaluation de la réserve ovarienne)
 - [Anticorps anti-TPO]({{% relref "hypothyroidie.md" %}})
 - [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}): IgA totales, IgA anti-transglutaminase (et *ESsCD*)
-- Absence de cause iatrogène: anticorps anti-surrénaliens, anticorps anti 21-hydroxylase
+- Absence de cause iatrogène: anticorps anti-surrénaliens, anticorps anti-21-hydroxylase, **caryotype** (bilan spécialisé), gène FMR1 (*CEEDMM*)
 - Bilan cardiovasculaire: bilan lipidique, glycémie à jeun (*ESHRE 2024*)
 
 > -- *PNDS 2021*
 
-**Caryotype** en cas d'IOP non iatrogène (bilan spécialisé).
-
-Avis endocrinologique en cas d'anticorps anti 21-hydroxylase positifs.
+Avis endocrinologique systématique de toute insuffisance ovarienne.
 
 #### Échographie pelvienne endovaginale
 
-L'échographie pelvienne n'est pas réalisée à visée diagnostique (l'observation de follicules peut être faussement rassurante) mais pour le bilan étiologique par voie endovaginale.
+L'échographie pelvienne endovaginale n'est pas réalisée à visée diagnostique (l'observation de follicules peut être faussement rassurante) mais pour le bilan étiologique.
 
 #### Ostéodensitométrie
 
-Ostéodensitométrie au diagnostic puis tous les 5 ans pour évaluer la perte osseuse. Voir les [indications au traitement selon T-score et/ou le FRAX]({{% relref "osteoporose.md" %}}).
+Une ostéodensitométrie est nécessaire au diagnostic, puis tous les 5 ans pour évaluer la perte osseuse. Voir les [indications au traitement selon T-score et/ou le FRAX]({{% relref "osteoporose.md" %}}).
 
 {{% /collapse %}}
-{{%collapse "Traitement de la ménopause précoce" %}}
+{{%collapse "Traitement de l'insuffisance ovarienne prématurée" %}}
 
 > [!INFO]
-> Le traitement hormonal substitutif (THS) utilisé pour la ménopause précoce (spontanée, non iatrogène) n'augmente pas le risque de [cancer du sein]({{% relref "cancer-sein.md" %}}). (56 à 79 % des patientes le croient -- *PNDS 2021*)
+> Le traitement hormonal substitutif (THS) utilisé pour le traitement de la ménopause précoce (spontanée, non iatrogène) n'augmente pas le risque de [cancer du sein]({{% relref "cancer-sein.md" %}}) (56 à 79 % des patientes le croient -- *PNDS 2021*).
 
 Recommandations pour la prise en charge de l'insuffisance ovarienne prématurée (IOP ou ménopause précoce) dans un [Centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/):
 

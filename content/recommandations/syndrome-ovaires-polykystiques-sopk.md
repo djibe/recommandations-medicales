@@ -142,7 +142,9 @@ Le diagnostic post-ménopausique de SOPK peut être considéré si: diagnostic a
 - Pression artérielle, fréquence cardiaque
 - **Signes d'hyperandrogénie**  
   {{< clinique/hyperandrogenie >}}.
-- Examen cutané et du scalp (hirsutisme, acné, alopécie) en prenant en compte les traitements cosmétiques effectués
+- Examen cutané et du scalp en prenant en compte les traitements cosmétiques effectués
+  - Hirsutisme, acné, alopécie
+  - Acanthosis nigricans (insulinorésistance)
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}

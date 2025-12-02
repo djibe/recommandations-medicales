@@ -518,7 +518,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 - Recommandations diététiques
   - Restriction sodée < 5 g/j  
     {{%class%}}Limiter charcuterie, fromage, pain, conserves.{{%/class%}}
-  - Apport hydrique 1,5-2,5 L/j, augmenter en forte chaleur chaleur
+  - Apport hydrique 1,5-2,5 L/j, augmenter lors des fortes chaleurs
   - Arrêter voire réduire l'alcool
   - Évaluation diététique pour surveiller et prévenir la malnutrition
 - Activité physique
@@ -551,6 +551,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 
 {{< youtube id="60VQUo3xqAw" title="Insuffisance cardiaque, encore un effort! (Fréquence Médicale)" >}}
 
+- [Sculier JP. Pas d'argument pour la restriction hydrique chez l'insuffisant cardiaque chronique. Minerva. 2025.](https://minerva-ebp.be/FR/Analysis/933)
 - [HAS. ALD 5 - Insuffisance cardiaque. Actes et prestations Affection de longue durée. 2025.](https://www.has-sante.fr/jcms/c_534673/fr/ald-n-5-insuffisance-cardiaque-grave)
 - [Gabet A, et al. Épidémiologie de l’insuffisance cardiaque en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_4.html)
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
@@ -571,7 +572,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 - {{< references/esc-hta >}}
 - [SFC. Recommandations de la Société Française de Cardiologie pour les épreuves d'effort. 2018.](https://sfcardio.fr/publication/recommandations-pour-les-epreuves-deffort)
 - [HAS. Insuffisance cardiaque. Guide du parcours de soins. 2014.](https://www.has-sante.fr/jcms/c_1242988/fr/guide-parcours-de-soins-insuffisance-cardiaque)
-- [Lainscak M et al. Self-care management of heart failure: practical recommendations from the Patient Care Committee of the Heart Failure Association of the European Society of Cardiology. European Journal of Heart Failure. 2014.](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)
+- [Lainscak M, et al. Self-care management of heart failure: practical recommendations from the Patient Care Committee of the Heart Failure Association of the European Society of Cardiology. European Journal of Heart Failure. 2014.](https://onlinelibrary.wiley.com/doi/full/10.1093/eurjhf/hfq219)
 
 ### Bibliographie en attente
 

@@ -75,7 +75,7 @@
         <div class="d-flex flex-wrap">{{ partial "widgets/tags-render.html" . }}</div>{{ end }}
 
         {{- if or (.Params.Sctid) (.Params.Icd10) (.Params.atc) }}<p class="typography-overline mt-3">Terminologies</p>{{ end -}}
-        {{ with .Params.Sctid }}<p data-toggle="tooltip" title="SNOMED-CT: terminologie de référence" class="d-flex flex-wrap align-items-center mb-1">SCT-ID<a class="chip chip-action chip-xs" href="https://browser.ihtsdotools.org/?perspective=full&conceptId1={{.}}&edition=MAIN/SNOMEDCT-FR/2024-06-21&release=&languages=fr,en" rel="external nofollow noopener"> {{ . }}</a></p>{{ end }}
+        {{ with .Params.Sctid }}<p data-toggle="tooltip" title="SNOMED-CT: terminologie de référence" class="d-flex flex-wrap align-items-center mb-1">SCT-ID<a class="chip chip-action chip-xs" href="https://browser.ihtsdotools.org/?perspective=full&conceptId1={{ . }}&edition=MAIN/SNOMEDCT-FR/2025-06-21&release=&languages=fr,en" rel="external nofollow noopener"> {{ . }}</a></p>{{ end }}
         {{ with .Params.Icd10 }}<p data-toggle="tooltip" title="Classification Internationale des Maladies" class="text-break d-flex flex-wrap align-items-center">CIM-10 {{ range .}}<a class="chip chip-action chip-xs" href="https://icd.who.int/browse10/2016/en#/{{.}}" rel="external nofollow noopener">{{ . }}</a>{{ end }}</p>{{ end }}
         {{ with .Params.atc }}<p data-toggle="tooltip" title="Classification ATC des médicaments" class="d-flex flex-wrap align-items-center">ATC <span class="chip chip-xs">{{ . }}</span></p>{{ end }}
 

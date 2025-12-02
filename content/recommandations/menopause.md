@@ -75,7 +75,7 @@ En revanche, un test *négatif* (absence de saignements) n'affirme pas une méno
 |-------------------------|--------------------------------|
 | &gt; 55 ans             | Ménopause tardive              |
 | 45-55 ans               | Ménopause naturelle            |
-| 40-45 ans               | Ménopause anticipée            |
+| 40-44 ans               | Ménopause anticipée            |
 | < 40 ans                | [Insuffisance ovarienne prématurée]({{% relref "insuffisance-ovarienne-prematuree.md" %}}) |
 | Radio/chimio-induite    | Ménopause iatrogène            |
 | Ovariectomie bilatérale | Ménopause chirurgicale         |
@@ -138,7 +138,7 @@ Chez une femme ≥ 45 ans, avec ou sans contraception hormonale, aucun examen ou
 En cas de contraception: interrompre la contraception et suivre l'aménorrhée (contraception barrière).
 {{%/info%}}
 
-Le diagnostic est clinique (voir *Définitions*).
+Le diagnostic de ménopause est clinique (voir *[Définitions](#définitions)*).
 
 #### Cas spécifiques
 
