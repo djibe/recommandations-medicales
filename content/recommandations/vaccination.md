@@ -78,7 +78,7 @@ VVA
 | 15-24 ans  | Méningo B (proposé)                                  | Bexsero, Trumenba                                                         |
 |   25 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
 |   45 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
-|  +65 ans   | dTcaPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Pneumo 20 + Zona | BoostrixTetra, Repevax<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>Prevenar 20, Capvaxive (bientôt) + Shingrix M0-M2 |
+|  +65 ans   | dTcaPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Pneumo 20 + Zona | BoostrixTetra, Repevax<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>Prevenar 20, Capvaxive + Shingrix M0-M2 |
 |  +75 ans   | + VRS annuel (NR)                                    | Arexvy, Abrysvo, mRESVIA                                                  |
 | [Grossesse]({{% relref "grossesse.md" %}}) | Coqueluche, Covid, grippe, VRS | BoostrixTetra, Repevax, Abrysvo ...                             |
 | Médecin généraliste | Covid-19, grippe, ROR,<br>varicelle, VHB    |                                                                           |

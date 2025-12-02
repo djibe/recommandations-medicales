@@ -528,15 +528,15 @@ Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch tous les 3-4 jours (s
 {{%/info%}}
 
 {{< table title="Traitements hormonaux de la ménopause (THM) recommandés par le CNGOF disponibles seuls ou en association en France en 2025. Dr JB Fron d'après *BDPM*" class="table-wrap">}}
-| Classe              | Molécule                   | Spécialités                                                                   | Dosages (cp en mg, patch en µg/24h) |
+| Classe              | Molécule                   | Spécialités                                                                   |                             Dosages |
 |---------------------|----------------------------|-------------------------------------------------------------------------------|------------------------------------:|
-| Estradiol patch     | Estradiol                  | Dermestril (-Septem), Estrapatch, Femsept, Oesclim, Thais (-sept), Vivelledot |       25, 37,5, 40, 50, 60, 75, 100 |
-| Estradiol gel       | Estradiol                  | Delidose, Estreva, Oestrodose                                                 |                        0,5, 0,75, 1 |
-| Progestatif         | Dydrogestérone             | Duphaston                                                                     |                                  10 |
-|                     | Médrogestone à éviter      | Colprone                                                                      |                                   5 |
-|                     | Progestérone               | Progesterone, Utrogestan                                                      |                            100, 200 |
-| Progestatif oral/vaginal | Progestérone          | Utrogestan                                                                    |                            100, 200 |
-| Association         | Estradiol + lévonorgestrel | Femseptcombi, Femseptevo                                                      |                         50/7, 50/10 |
+| Estradiol patch     | Estradiol                  | Dermestril (-Septem), Estrapatch, Femsept, Oesclim, Thais (-sept), Vivelledot |25, 37,5, 40, 50, 60, 75, 100 µg/24h |
+| Estradiol gel       | Estradiol                  | Estreva, Oestrodose                                                           |                        0,1 %, 0,6 % |
+| Progestatif         | Dydrogestérone             | Duphaston                                                                     |                               10 mg |
+|                     | Médrogestone (à éviter)    | Colprone                                                                      |                                5 mg |
+|                     | Progestérone               | Progesterone, Utrogestan                                                      |                         100, 200 mg |
+| Progestatif oral/vaginal | Progestérone          | Utrogestan                                                                    |                         100, 200 mg |
+| Association         | Estradiol + lévonorgestrel | Femseptevo                                                                    |                         50/7 µg/24h |
 {{< /table >}}
 
 Pour l'insuffisance ovarienne prématurée, viser au moins 100 µg d'estradiol transdermique (*ESHRE 2024*).
