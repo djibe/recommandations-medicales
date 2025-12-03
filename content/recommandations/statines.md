@@ -132,7 +132,7 @@ En cas de complications attribuables à une statine:
     Si normalisation, réintroduction douce.
 - **Essayer diverses méthodes**: poursuite à faible dose puis titration progressive, prise 1 jour/2, substitution par une autre statine, suspension durant 3 mois
 
-Lorsqu'une statine doit être arrêtée pour mauvaise tolérance, envisager la substitution par l'[ézétimibe](https://bdpm.ansm.sante.fr/medicament/63964962/extrait#tab-rcp) voire l'ajout de [cholestyramine](https://bdpm.ansm.sante.fr/medicament/65691327/extrait#tab-rcp) et/ou d'un anti-PCSK9 selon le risque cardiovasculaire (*ESC 2021*)
+Lorsqu'une statine doit être arrêtée pour mauvaise tolérance, envisager la substitution par l'[ézétimibe](https://base-donnees-publique.medicaments.gouv.fr/medicament/63964962/extrait#tab-rcp) voire l'ajout de [cholestyramine](https://base-donnees-publique.medicaments.gouv.fr/medicament/65691327/extrait#tab-rcp) et/ou d'un anti-PCSK9 selon le risque cardiovasculaire (*ESC 2021*)
 {.alert .alert-info}
 
 > -- *ESC* et *Bouhairie et al*
@@ -146,13 +146,13 @@ Lorsqu'une statine doit être arrêtée pour mauvaise tolérance, envisager la s
   - Prévoir l'arrêt de la statine pendant la grossesse, sinon contacter le CRAT (cas d'[hypercholestérolémie familiale]({{% relref "hypercholesterolemie-familiale.md" %}}) ou hypertriglycéridémies sévères)
 - Selon *ESC CVD 2021* (grade C):  
   << Le traitement par statines n'est pas recommandé chez les femmes non ménopausées qui envisagent une grossesse ou qui n'utilisent pas une contraception efficace. >>
-- Selon les [RCP de la pravastatine](https://bdpm.ansm.sante.fr/medicament/61650728/extrait#tab-rcp#RcpFertGrossAllait):  
+- Selon les [RCP de la pravastatine](https://base-donnees-publique.medicaments.gouv.fr/medicament/61650728/extrait#tab-rcp#RcpFertGrossAllait):  
   << La pravastatine est contre-indiquée pendant la grossesse et doit être administrée aux femmes en âge de procréer uniquement si une conception est improbable et si ces patientes ont été informées du risque potentiel. >>
 
 ### Statines et allaitement
 
 - Selon le *CRAT* pour [atorvastatine](https://www.lecrat.fr/8616/), [rosuvastatine](https://www.lecrat.fr/8644/), [simvastatine](https://www.lecrat.fr/8654/):  
-  Recours à la [pravastatine](https://www.lecrat.fr/8626/) si traitement indispensable (les [RCP](https://bdpm.ansm.sante.fr/medicament/61650728/extrait#tab-rcp#RcpFertGrossAllait) le réfutent).
+  Recours à la [pravastatine](https://www.lecrat.fr/8626/) si traitement indispensable (les [RCP](https://base-donnees-publique.medicaments.gouv.fr/medicament/61650728/extrait#tab-rcp#RcpFertGrossAllait) le réfutent).
 
 {{% /collapse %}}
 {{%collapse "Effets de l'arrêt d'une statine" %}}

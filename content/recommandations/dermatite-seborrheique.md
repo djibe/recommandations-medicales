@@ -119,7 +119,7 @@ La prise en charge de la dermatite séborrhéique débute par un **traitement d'
 #### Visage et thorax
 
 Kétoconazole gel moussant ou crème 2% 2 fois par semaine pendant 4 semaines (si +12 ans)  
-OU [ciclopirox olamine crème 1%](https://bdpm.ansm.sante.fr/medicament/63273126/extrait#tab-rcp) x 2/j pendant 4 semaines (tout âge)
+OU [ciclopirox olamine crème 1%](https://base-donnees-publique.medicaments.gouv.fr/medicament/63273126/extrait#tab-rcp) x 2/j pendant 4 semaines (tout âge)
 {.alert .alert-info}
 
 Puis application 2 à 4 fois par mois.
@@ -130,8 +130,8 @@ Un [dermocorticoïde modéré]({{% relref "dermocorticoides.md" %}}) peut être 
 
 Shampooing antipelliculaire en alternance avec un shampooing doux.
 
-[Ciclopirox olamine](https://bdpm.ansm.sante.fr/medicament/64330943/extrait#tab-rcp) shampooing 1,5 % 2 à 3 fois par semaine  
-OU [kétoconazole](https://bdpm.ansm.sante.fr/medicament/66227874/extrait#tab-rcp) (Ketoderm®, gén) gel moussant 2% 2 fois par semaine
+[Ciclopirox olamine](https://base-donnees-publique.medicaments.gouv.fr/medicament/64330943/extrait#tab-rcp) shampooing 1,5 % 2 à 3 fois par semaine  
+OU [kétoconazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/66227874/extrait#tab-rcp) (Ketoderm®, gén) gel moussant 2% 2 fois par semaine
 {.alert .alert-info}
 
 **Effets indésirables:** prurit, sensation de brûlure, xérose cutanée, interactions médicamenteuses.  

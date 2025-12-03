@@ -193,7 +193,7 @@ Rechercher un **syndrome des anticorps anti-phospholipides** (SAPL) en cas de pr
 
 Toute suspicion de pré-éclampsie doit être prise en charge dans des **urgences obstétricales**.
 
-Si un traitement antihypertenseur intraveineux est impossible dans l'heure, voir avec la régulation pour l'administrer par voie orale: bêtabloquant [labétalol 200 mg](https://bdpm.ansm.sante.fr/medicament/65193337/extrait#tab-rcp) (Trandate®) en première intention.
+Si un traitement antihypertenseur intraveineux est impossible dans l'heure, voir avec la régulation pour l'administrer par voie orale: bêtabloquant [labétalol 200 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/65193337/extrait#tab-rcp) (Trandate®) en première intention.
 
 Nifédipine ou nicardipine si le bêtabloquant seul est insuffisant ou contre-indiqué.
 

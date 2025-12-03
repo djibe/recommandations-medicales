@@ -216,12 +216,12 @@ Mesures spécifiques pour la prise en charge de la cardiopathie ischémique stab
 
 - ==**Réadaptation cardiaque**== systématique
 - Calcul du risque cardiovasculaire secondaire: [SMART2 risk score](https://u-prevent.com)
-- Si symptômes à l'effort: dérivé nitré d'action rapide (Isocard®, [Natispray®](https://bdpm.ansm.sante.fr/medicament/60259242/extrait#tab-rcp))
+- Si symptômes à l'effort: dérivé nitré d'action rapide (Isocard®, [Natispray®](https://base-donnees-publique.medicaments.gouv.fr/medicament/60259242/extrait#tab-rcp))
 - ==**Anti-angineux**==: bêtabloquant (BB) et/ou {{< modal-btn modal-ica-angor >}}inhibiteur calcique (ICa){{< /modal-btn >}} ({{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}} si associés)
   - Fréquence cardiaque cible: 55-60 bpm (*ESC*) et 130 bpm à l'effort (*Collège*)
   - Réévaluation toutes les 2-4 semaines initialement; jamais d'arrêt brutal
-  - Si symptômes persistants: nitré d'action longue [patch](https://bdpm.ansm.sante.fr/medicament/63785468/extrait#tab-rcp) ou [oral](https://bdpm.ansm.sante.fr/medicament/66327091/extrait#tab-rcp) (pour lesquels une tolérance s'installe, nécessitant une période libre de 10-14 h/j)  
-  ou [ivabradine](https://ec.europa.eu/health/documents/community-register/2023/20230223158431/anx_158431_fr.pdf) (FEVG < 40%), [nicorandil](https://bdpm.ansm.sante.fr/medicament/66925249/extrait#tab-rcp), [trimétazidine](https://bdpm.ansm.sante.fr/medicament/61020245/extrait#tab-rcp) (ranolazine non disponible en France), voir tableau plus bas
+  - Si symptômes persistants: nitré d'action longue [patch](https://base-donnees-publique.medicaments.gouv.fr/medicament/63785468/extrait#tab-rcp) ou [oral](https://base-donnees-publique.medicaments.gouv.fr/medicament/66327091/extrait#tab-rcp) (pour lesquels une tolérance s'installe, nécessitant une période libre de 10-14 h/j)  
+  ou [ivabradine](https://ec.europa.eu/health/documents/community-register/2023/20230223158431/anx_158431_fr.pdf) (FEVG < 40%), [nicorandil](https://base-donnees-publique.medicaments.gouv.fr/medicament/66925249/extrait#tab-rcp), [trimétazidine](https://base-donnees-publique.medicaments.gouv.fr/medicament/61020245/extrait#tab-rcp) (ranolazine non disponible en France), voir tableau plus bas
 - **Prévention secondaire** (ou obstruction significative): aspirine 75-100 mg/j ou clopidogrel 75 mg/j (choix si [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) ou [AIC/AIT]({{% relref "accident-vasculaire-cerebral.md" %}})) voire ticagrelor
   - Si haut risque ischémique sans risque élevé de saignement: aspirine 100 mg/j avec ticagrelor 60 mg x 2/j ou rivaroxaban 2,5 mg x 2/j
   - IPP si haut risque de saignement: score PRECISE-DAPT, ARC-HBR

@@ -117,16 +117,16 @@ Les premières mesures visent à obtenir une régularisation du transit et de la
 - **Rééducation** périnéale et abdominale  
   Par kinésithérapeute ou sage-femme (sauf défaut sphinctérien). Exercices et **biofeedback**. 10-20 séances initiales.
 - Régularisation du transit intestinal
-  - Si **[constipation]({{% relref "constipation.md" %}})**: augmenter les fibres, laxatifs ([macrogol](https://bdpm.ansm.sante.fr/medicament/63229902/extrait#tab-rcp)) voire suppositoires ([glycérine](https://bdpm.ansm.sante.fr/medicament/66177695/extrait#tab-rcp)) ou lavements (Microlax®, Norgalax® ou Normacol®)
-  - Si **diarrhées**: augmenter les fibres ± laxatifs mucilage ([ispaghul](https://bdpm.ansm.sante.fr/medicament/68520477/extrait#tab-rcp) ou autre)
+  - Si **[constipation]({{% relref "constipation.md" %}})**: augmenter les fibres, laxatifs ([macrogol](https://base-donnees-publique.medicaments.gouv.fr/medicament/63229902/extrait#tab-rcp)) voire suppositoires ([glycérine](https://base-donnees-publique.medicaments.gouv.fr/medicament/66177695/extrait#tab-rcp)) ou lavements (Microlax®, Norgalax® ou Normacol®)
+  - Si **diarrhées**: augmenter les fibres ± laxatifs mucilage ([ispaghul](https://base-donnees-publique.medicaments.gouv.fr/medicament/68520477/extrait#tab-rcp) ou autre)
 - Information du patient: [site SNFCP](https://www.snfcp.org/informations-maladies/constipation-et-incontinence/incontinence-fecale/)
 - L'acupuncture peut être considérée (*ESCP*)
 - Prise en charge des comorbidités: fistule, [prolapsus hémorroïdaire]({{% relref "hemorroides.md" %}})
 
 ### Traitements médicamenteux de l'incontinence fécale
 
-- Diarrhées, selles molles, liquides ou impérieuses: [lopéramide](https://bdpm.ansm.sante.fr/medicament/61257269/extrait#tab-rcp)
-- Cholécystectomie ou résection iléo-colique avec diarrhées: [cholestyramine](https://bdpm.ansm.sante.fr/medicament/65691327/extrait#tab-rcp) (Questran®)
+- Diarrhées, selles molles, liquides ou impérieuses: [lopéramide](https://base-donnees-publique.medicaments.gouv.fr/medicament/61257269/extrait#tab-rcp)
+- Cholécystectomie ou résection iléo-colique avec diarrhées: [cholestyramine](https://base-donnees-publique.medicaments.gouv.fr/medicament/65691327/extrait#tab-rcp) (Questran®)
 
 Autres traitements possibles sur prescription spécialisée: antidépresseur tricyclique, clonidine voire recours aux opioïdes.
 

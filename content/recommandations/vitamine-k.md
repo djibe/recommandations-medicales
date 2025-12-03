@@ -56,7 +56,7 @@ Facteurs de risque de maladie hémorragique du nouveau-né:
 Administration de vitamine K1 à 4 heures - 4 jours - 4 semaines
 {.alert .alert-info}
 
-**Prescrire**: 1 ampoule de [vitamine K1 2 mg/0,2 mL nourrissons](https://bdpm.ansm.sante.fr/medicament/64337140/extrait#tab-rcp) buvable à 4 heures, 4 jours et 4 semaines.
+**Prescrire**: 1 ampoule de [vitamine K1 2 mg/0,2 mL nourrissons](https://base-donnees-publique.medicaments.gouv.fr/medicament/64337140/extrait#tab-rcp) buvable à 4 heures, 4 jours et 4 semaines.
 
 ### Supplémentation en vitamine K1 du nourrisson né à terme
 

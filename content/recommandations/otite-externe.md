@@ -123,10 +123,10 @@ Ciloxadex 4 gouttes matin et soir pendant 7 jours
 
 Recommandations pour la prise en charge de l'otite externe:
 
-- **Antibiothérapie auriculaire:** Antibio synalar®, Auricularum®, [Ciloxadex®](https://bdpm.ansm.sante.fr/medicament/68601502/extrait#tab-rcp), Framyxone®, [ofloxacine instillations](https://bdpm.ansm.sante.fr/medicament/66256370/extrait#tab-rcp) (traitement de référence selon Prescrire®), Panotile® ou Polydexa®.
+- **Antibiothérapie auriculaire:** Antibio synalar®, Auricularum®, [Ciloxadex®](https://base-donnees-publique.medicaments.gouv.fr/medicament/68601502/extrait#tab-rcp), Framyxone®, [ofloxacine instillations](https://base-donnees-publique.medicaments.gouv.fr/medicament/66256370/extrait#tab-rcp) (traitement de référence selon Prescrire®), Panotile® ou Polydexa®.
   - Pendant 5 à 10 jours
   - Si **perforation tympanique**, tympan non vu ou grossesse ([CRAT](https://www.lecrat.fr/6625/)): ofloxacine (Ciloxadex®, générique) uniquement
-  - Si **otomycose**: aspiration des sécrétions, nystatine associée [Auricularum](https://bdpm.ansm.sante.fr/medicament/66592652/extrait#tab-rcp) 5-10 gouttes x 2/j pendant 15 jours (21 jours si nécessaire -- *SFORL 2001*)
+  - Si **otomycose**: aspiration des sécrétions, nystatine associée [Auricularum](https://base-donnees-publique.medicaments.gouv.fr/medicament/66592652/extrait#tab-rcp) 5-10 gouttes x 2/j pendant 15 jours (21 jours si nécessaire -- *SFORL 2001*)
 - **Antalgie:** palier 1 voire 2, voire AINS (*AAO-HNS*)
 - Ablation de tout dépôt du conduit auditif: débris inflammatoire, cérumen, corps étranger
 - Information du patient:
@@ -164,7 +164,7 @@ En position couchée, l'oreille atteinte doit être en position haute:
 {{%/sources%}}
 {{% modele %}}
 
-- [Ciloxadex®](https://bdpm.ansm.sante.fr/medicament/68601502/extrait#tab-rcp) 1 dose matin et soir pendant 7 jours
+- [Ciloxadex®](https://base-donnees-publique.medicaments.gouv.fr/medicament/68601502/extrait#tab-rcp) 1 dose matin et soir pendant 7 jours
 - Paracétamol 1g toutes les 6 heures si douleurs (+50 kg)
 
 Antalgique de palier 2 si nécessaire.
@@ -174,6 +174,6 @@ Antalgique de palier 2 si nécessaire.
 ### Traitement de l'otomycose
 
 - Aspiration des sécrétions
-- [Auricularum](https://bdpm.ansm.sante.fr/medicament/66592652/extrait#tab-rcp) 5 à 10 gouttes x 2/j pendant 15 jours
+- [Auricularum](https://base-donnees-publique.medicaments.gouv.fr/medicament/66592652/extrait#tab-rcp) 5 à 10 gouttes x 2/j pendant 15 jours
 
 {{% /modele %}}

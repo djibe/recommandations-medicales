@@ -278,7 +278,7 @@ Recommandations pour la prise en charge de la syphilis:
 
 ### B) Traitement de la syphilis précoce
 
-[Benzathine pénicilline G](https://bdpm.ansm.sante.fr/medicament/64699367/extrait#tab-rcp) (BPG, Extencilline®) 2,4 MUI IM ou 2 injections de BPG 1,2 MUI
+[Benzathine pénicilline G](https://base-donnees-publique.medicaments.gouv.fr/medicament/64699367/extrait#tab-rcp) (BPG, Extencilline®) 2,4 MUI IM ou 2 injections de BPG 1,2 MUI
 {.alert .alert-info}
 
 Prise en charge d'une syphilis précoce (**ancienneté certaine de moins d'un an**):
@@ -287,10 +287,10 @@ Prise en charge d'une syphilis précoce (**ancienneté certaine de moins d'un an
   Informer sur la réaction d'Herxeimer.
 - Antibiothérapie:
   - ==Benzathine pénicilline G 2,4 MUI== intramusculaire en **dose unique** dans la fesse ou la face latérale de cuisse (ou 2 injections IM de 1,2 MUI pour réduire les douleurs)
-  - Diluer l'antibiotique intégralement avec de la [lidocaïne 1%](https://bdpm.ansm.sante.fr/medicament/68001023/extrait#tab-rcp) sans adrénaline (réduction des douleurs)
+  - Diluer l'antibiotique intégralement avec de la [lidocaïne 1%](https://base-donnees-publique.medicaments.gouv.fr/medicament/68001023/extrait#tab-rcp) sans adrénaline (réduction des douleurs)
   - Garder le patient sous surveillance pendant 30 minutes en présence de matériel d'urgence
   - **Contre-indications:** allergie aux bêtalactamines, anticoagulants
-  - Si **allergie** vraie aux bêtalactamines: [doxycycline](https://bdpm.ansm.sante.fr/medicament/67164569/extrait#tab-rcp) 200 mg/j (en 1 ou 2 prises) pendant 14 jours
+  - Si **allergie** vraie aux bêtalactamines: [doxycycline](https://base-donnees-publique.medicaments.gouv.fr/medicament/67164569/extrait#tab-rcp) 200 mg/j (en 1 ou 2 prises) pendant 14 jours
   - Si anticoagulants: doxycycline (idem ci-dessus) voire ceftriaxone IV 1 g/j pendant 10 jours
 - ==Dépistage des partenaires== systématique  
   Voir la méthode de dépistage [plus bas](#notification-des-partenaires-et-traitement).
@@ -315,7 +315,7 @@ Une injection de BPG (Extencilline®) 2,4 MUI IM par semaine pendant 3 semaines
 {.alert .alert-info}
 
 - ==Benzathine pénicilline G 2,4 MUI== intramusculaire x 1/semaine pendant 3 semaines, dans la fesse ou la face latérale de cuisse (ou 2 injections IM de 1,2 MUI pour réduire les douleurs)
-  - Diluer l'antibiotique intégralement avec de la [lidocaïne 1%](https://bdpm.ansm.sante.fr/medicament/68001023/extrait#tab-rcp) (réduction des douleurs)
+  - Diluer l'antibiotique intégralement avec de la [lidocaïne 1%](https://base-donnees-publique.medicaments.gouv.fr/medicament/68001023/extrait#tab-rcp) (réduction des douleurs)
   - Garder le patient sous surveillance pendant 30 minutes en présence de matériel d'urgence
 - Si allergie aux bêtalactamines:  
   Doxycycline 200 mg/j en 1 ou 2 prises pendant 28 jours

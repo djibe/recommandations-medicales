@@ -276,7 +276,7 @@ Le suivi du trouble bipolaire est au moins annuel après équilibration.
 
 ### Pour en savoir plus: traitements du trouble bipolaire
 
-Le trouble bipolaire nécessite un traitement prophylactique au long cours, le plus souvent le **lithium** ([Téralithe®](https://bdpm.ansm.sante.fr/medicament/62124478/extrait#tab-rcp)):
+Le trouble bipolaire nécessite un traitement prophylactique au long cours, le plus souvent le **lithium** ([Téralithe®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62124478/extrait#tab-rcp)):
 
 - Posologie initiale: 250 mg x 2-3/j
 - Lithémie cible: 0,6 - 0,8 mEq/L (voire 0,8-1 si résistance)  

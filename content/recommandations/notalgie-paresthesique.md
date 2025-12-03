@@ -108,8 +108,8 @@ La prise en charge de la notalgie paresthésique n'est pas codifiée, les traite
   - Codexial Obase - 50 g
   - Appliquer 2 à 4 fois par jour pendant 1 mois
   - Bien se laver et ne pas se frotter les yeux après l'application.
-- [Gabapentine](https://bdpm.ansm.sante.fr/medicament/65889939/extrait#tab-rcp) 300-600 mg/j
-- [Oxcarbazépine](https://bdpm.ansm.sante.fr/medicament/64327694/extrait#tab-rcp) 300-900 mg x 2/j
+- [Gabapentine](https://base-donnees-publique.medicaments.gouv.fr/medicament/65889939/extrait#tab-rcp) 300-600 mg/j
+- [Oxcarbazépine](https://base-donnees-publique.medicaments.gouv.fr/medicament/64327694/extrait#tab-rcp) 300-900 mg x 2/j
 - Si trouble rachidien: kinésithérapie
 
 Avis neurologique ou d'un médecin de la douleur si doute diagnostique ou échec thérapeutique initial. Le TENS relève également d'une prescription spécialisée.

@@ -108,20 +108,20 @@ Le traitement et la prise en charge des fissures anales est hygiéno-diététiqu
 - Bains de siège
 - Lavage à l'eau et au savon après chaque selle puis séchage doux
 - Lutte contre la constipation:
-  - Laxatifs: [ispaghul](https://bdpm.ansm.sante.fr/medicament/67437758/extrait#tab-rcp) (ou psyllium), lactulose ou macrogol chez l'enfant
+  - Laxatifs: [ispaghul](https://base-donnees-publique.medicaments.gouv.fr/medicament/67437758/extrait#tab-rcp) (ou psyllium), lactulose ou macrogol chez l'enfant
   - Apports hydriques et en fibres  
     Chez l'enfant, obtenir des selles << compote >> et éviter les suppositoires.
 - Antalgie au paracétamol ± anti-inflammatoires AINS
-- Si besoin: anesthésiques locaux avec **lidocaïne** ([Anesderm 5%®](https://bdpm.ansm.sante.fr/medicament/63794766/extrait#tab-rcp), [Emla 5%®](https://bdpm.ansm.sante.fr/medicament/63396602/extrait#tab-rcp), [Titanoréïne lidocaïne®](https://bdpm.ansm.sante.fr/medicament/61165034/extrait#tab-rcp) ...) ou autre (Rectoquotane®, Sédorrhoïde crise hémorroïdaire®, Tronothane 1%®)  
+- Si besoin: anesthésiques locaux avec **lidocaïne** ([Anesderm 5%®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63794766/extrait#tab-rcp), [Emla 5%®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63396602/extrait#tab-rcp), [Titanoréïne lidocaïne®](https://base-donnees-publique.medicaments.gouv.fr/medicament/61165034/extrait#tab-rcp) ...) ou autre (Rectoquotane®, Sédorrhoïde crise hémorroïdaire®, Tronothane 1%®)  
   Avant et après la défécation chez le +12 ans.
-- Voire trinitrine topique [Rectogesic® NR](https://bdpm.ansm.sante.fr/medicament/65328888/extrait#tab-rcp) (céphalées)
+- Voire trinitrine topique [Rectogesic® NR](https://base-donnees-publique.medicaments.gouv.fr/medicament/65328888/extrait#tab-rcp) (céphalées)
 
 ### Pour en savoir plus: traitement des fissures anales chroniques
 
 > [!INFO]
 > Le traitement des fissures anales chroniques relève d'une prise en charge proctologique.
 
-La prise en charge de la fissure anale chronique peut être: trinitrine topique (voir plus haut, peut réduire de moitié le recours à la chirurgie), inhibiteur calcique topique (diltiazem ou nifédipine [Nifexine®](https://bdpm.ansm.sante.fr/medicament/63967022/extrait#tab-rcp)), toxine botulique type A.
+La prise en charge de la fissure anale chronique peut être: trinitrine topique (voir plus haut, peut réduire de moitié le recours à la chirurgie), inhibiteur calcique topique (diltiazem ou nifédipine [Nifexine®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63967022/extrait#tab-rcp)), toxine botulique type A.
 
 Une **chirurgie** par sphinctérotomie latérale interne peut être envisagée. La cicatrisation est longue (de 6 à 16 semaines).
 

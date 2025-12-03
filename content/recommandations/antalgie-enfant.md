@@ -86,14 +86,14 @@ Ne jamais associer 2 antalgiques de palier 2. Ne pas utiliser pour les céphalé
 
 #### AMM du tramadol pédiatrique
 
-- Buvable à partir 3 ans (Contramal®, [Topalgic®](https://bdpm.ansm.sante.fr/medicament/66125684/extrait#tab-rcp))
-- Comprimés associés au paracétamol à partir de 12 ans ([Ixprim®](https://bdpm.ansm.sante.fr/medicament/60365078/extrait#tab-rcp), gén)
-- Comprimés LP à partir de 12 ans ([Topalgic®](https://bdpm.ansm.sante.fr/medicament/68303979/extrait#tab-rcp), gén)
+- Buvable à partir 3 ans (Contramal®, [Topalgic®](https://base-donnees-publique.medicaments.gouv.fr/medicament/66125684/extrait#tab-rcp))
+- Comprimés associés au paracétamol à partir de 12 ans ([Ixprim®](https://base-donnees-publique.medicaments.gouv.fr/medicament/60365078/extrait#tab-rcp), gén)
+- Comprimés LP à partir de 12 ans ([Topalgic®](https://base-donnees-publique.medicaments.gouv.fr/medicament/68303979/extrait#tab-rcp), gén)
 - Comprimés à libération immédiate à partir de 15 ans
 
 ### Codéine chez l'enfant
 
-Chez le +12 ans: [paracétamol codéiné 400/20 mg](https://bdpm.ansm.sante.fr/medicament/64406362/extrait#tab-rcp), 400/25 ou [500/30 mg](https://bdpm.ansm.sante.fr/medicament/62351650/extrait#tab-rcp) selon le poids (cp ou effervescent).
+Chez le +12 ans: [paracétamol codéiné 400/20 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/64406362/extrait#tab-rcp), 400/25 ou [500/30 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/62351650/extrait#tab-rcp) selon le poids (cp ou effervescent).
 
 {{%warning%}}
 
@@ -157,7 +157,7 @@ Hydromorphone, oxycodone.
 - Fréquence respiratoire (seuil d'alerte): < 20/min avant 1 an | < 15/min de 1-4 ans | < 10/min à partir de 5 ans
 - Contrôle de la saturation
 
-Toujours disposer de naloxone intra-veineuse ([Narcan®](https://bdpm.ansm.sante.fr/medicament/64117646/extrait#tab-rcp), gén).  
+Toujours disposer de naloxone intra-veineuse ([Narcan®](https://base-donnees-publique.medicaments.gouv.fr/medicament/64117646/extrait#tab-rcp), gén).  
 [Nyxoid® nasal (PDF)](https://ec.europa.eu/health/documents/community-register/2022/20220915156779/anx_156779_fr.pdf) possible à partir de 14 ans: 1,8 mg nasal toutes les 2-3 minutes si besoin.
 
 {{% /collapse %}}

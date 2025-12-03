@@ -216,10 +216,10 @@ InfoVac-France conseille la vaccination varicelle pour tous à partir de 12 mois
 
 2 vaccins vivants atténués monovalents en 2 doses Varilrix® (GSK) ou Varivax® (Sanofi) dont l'efficacité dépasse 95% (100 % pour les formes graves) et en partie contre le zona.
 
-- [Varilrix®](https://bdpm.ansm.sante.fr/medicament/62521070/extrait#tab-rcp)  
+- [Varilrix®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62521070/extrait#tab-rcp)  
   - 9-11 mois: 2 doses espacées ≥ 3 mois
   - ≥ 12 mois: 2 doses espacées 6-10 semaines
-- [Varivax®](https://bdpm.ansm.sante.fr/medicament/69201849/extrait#tab-rcp)
+- [Varivax®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69201849/extrait#tab-rcp)
   - 9-11 mois: 2 doses espacées ≥ 3 mois
   - 12 mois-12 ans: 2 doses espacées ≥ 1 mois
   - ≥ 13 ans: 2 doses espacées de 4-8 semaines

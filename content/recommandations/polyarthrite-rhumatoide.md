@@ -243,13 +243,13 @@ Prévention des complications: cardiovasculaires, respiratoires, infectieuses, l
 Le traitement de la polyarthrite rhumatoïde est systématique, **<< en urgence >>** dès le diagnostic, même s'il ne remplit pas encore les critères de rhumatisme défini. Il est modifié en cas d'**inefficacité à 3 mois** (ou objectif thérapeutique non atteint à 6 mois).
 
 {{%info%}}
-[Méthotrexate](https://bdpm.ansm.sante.fr/medicament/65787731/extrait#tab-rcp) (MTX) en première intention, dose optimale (25-30 mg/semaine) à atteindre en 4-8 semaines.
+[Méthotrexate](https://base-donnees-publique.medicaments.gouv.fr/medicament/65787731/extrait#tab-rcp) (MTX) en première intention, dose optimale (25-30 mg/semaine) à atteindre en 4-8 semaines.
 
 Débuter à **15 mg** en prise unique (ou scindée en 2 doses, étude *SMART*) par semaine par voie orale (Novatrex®, Imeth®, génériques). Augmentation de 5 mg/1-4 semaines selon efficacité-tolérance.
 
 ---
 
-- Au moins 10 mg/semaine d'acide folinique systématique ([Folinoral 5 mg](https://bdpm.ansm.sante.fr/medicament/67479020/extrait#tab-rcp), [Lederfoline 15 mg](https://bdpm.ansm.sante.fr/medicament/66335946/extrait#tab-rcp))
+- Au moins 10 mg/semaine d'acide folinique systématique ([Folinoral 5 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/67479020/extrait#tab-rcp), [Lederfoline 15 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/66335946/extrait#tab-rcp))
 - Corticothérapie initiale associée (maximum 6 mois)
 {{%/info%}}
 

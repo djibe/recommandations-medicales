@@ -192,14 +192,14 @@ La prévention de l'anguillulose repose sur l'absence de contact avec de la terr
 
 Recommandations pour la prise en charge et le traitement de l'anguillulose:
 
-- [Ivermectine 200 µg/kg](https://bdpm.ansm.sante.fr/medicament/67988035/extrait#tab-rcp) x 1/j pendant 1 à 2 jours  
+- [Ivermectine 200 µg/kg](https://base-donnees-publique.medicaments.gouv.fr/medicament/67988035/extrait#tab-rcp) x 1/j pendant 1 à 2 jours  
   Si patient originaire d'Afrique centrale ou de l'Ouest: après frottis sanguin uniquement (recherche filarémie).
 - Contrôle de l'examen parasitologique des selles après 2 à 4 semaines (3 prélèvements sur plusieurs jours)
 - Si immunodépression ou HTLV-1: avis infectiologique et ivermectine au minimum 200 µg/kg pendant 1 à 2 jours avec nouvelle prise à J14
 - Chez l'enfant de +2 ans ou +15 kg: utiliser le traitement adulte. Demander un avis infectiologique dans les autres cas
 - Si échec, répéter le traitement avec ivermectine pendant 2 jours
 
-L'[albendazole](https://bdpm.ansm.sante.fr/medicament/65565944/extrait#tab-rcp) est nettement moins efficace (WGO 2018) et donc un traitement de 2^e^ intention (*HCSP*). La dose est de 400 mg x 2/j pendant 7 jours (*CDC*).
+L'[albendazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/65565944/extrait#tab-rcp) est nettement moins efficace (WGO 2018) et donc un traitement de 2^e^ intention (*HCSP*). La dose est de 400 mg x 2/j pendant 7 jours (*CDC*).
 
 {{% /collapse %}}
 {{%sources%}}

@@ -489,10 +489,10 @@ Le **suivi doit être au moins mensuel** et les traitements doivent être arrêt
 
 {{%info%}}
 
-- [Acamprosate 333 mg](https://bdpm.ansm.sante.fr/medicament/69724187/extrait#tab-rcp)
+- [Acamprosate 333 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/69724187/extrait#tab-rcp)
   - L'acamprosate est introduit dès que possible après le sevrage. Supériorité pour le maintien de l'abstinence et meilleur niveau de preuve
   - 2 cp x 3/j (2-1-1 si < 60 kg) pendant 1 an. Peut être poursuivi si bénéfique et souhaité par le patient
-- [Naltrexone 50 mg](https://bdpm.ansm.sante.fr/medicament/67115586/extrait#tab-rcp)
+- [Naltrexone 50 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/67115586/extrait#tab-rcp)
   - Bénéfique en cas de fortes consommations, contre-indiquée en cas de morphiniques
   - La naltrexone est débutée après le sevrage
   - 1 cp/j pendant 3 mois (jusqu'à 6 mois si bénéfique et souhaité)
@@ -500,7 +500,7 @@ Le **suivi doit être au moins mensuel** et les traitements doivent être arrêt
 
 ##### Autres médicaments pour le maintien de l'abstinence
 
-[Disulfirame 500 mg](https://bdpm.ansm.sante.fr/medicament/61500746/extrait#tab-rcp) (Espéral®):
+[Disulfirame 500 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/61500746/extrait#tab-rcp) (Espéral®):
 
 - Le disulfirame déclenche un effet antabuse avec toute source d'alcool (boisson, nourriture, parfum). Risque de neuropathie périphérique et hépatotoxicité
 - Indication: patient motivé souhaitant l'abstinence avec ce médicament. Nombreuses interactions et contre-indications

@@ -118,17 +118,17 @@ Antibiothérapie probabiliste de l'urétrite sans attendre l'antibiogramme.
 
 Gonocoque:
 
-- [ceftriaxone 1g IM](https://bdpm.ansm.sante.fr/medicament/62676989/extrait#tab-rcp) dose unique*
+- [ceftriaxone 1g IM](https://base-donnees-publique.medicaments.gouv.fr/medicament/62676989/extrait#tab-rcp) dose unique*
 - préservatif minimum 7 jours
 - traitement des partenaires des 14 jours précédents, dépistage des 6 mois précédents
 
-Chlamydia: [doxycycline 100 mg](https://bdpm.ansm.sante.fr/medicament/67164569/extrait#tab-rcp) x 2/j pendant 7 jours
+Chlamydia: [doxycycline 100 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/67164569/extrait#tab-rcp) x 2/j pendant 7 jours
 
 *Mycoplasma genitalium* (Mg symptomatique sans co-infection):
 
 - Si possible, attente de **test de résistance aux macrolides**:
   - absence de résistance: azithromycine 1 g à J1 puis 500 mg/j pendant 2 jours
-  - résistance aux macrolides: [moxifloxacine 400 mg](https://bdpm.ansm.sante.fr/medicament/65521531/extrait#4.2._Posologie_et_mode_d_administration) x 1/j pendant 7 jours
+  - résistance aux macrolides: [moxifloxacine 400 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/65521531/extrait#4.2._Posologie_et_mode_d_administration) x 1/j pendant 7 jours
 - Sinon: test de résistance aux macrolides de Mg, traitement d'emblée identique au Chlamydia et relais selon le schéma adapté aux résultats du test de résistance (cf ci-dessus)
 
 \* culture et antibiogramme systématiques; Si contamination Asie-Pacifique: avis infectiologique et voir plus bas *Mesures associées*

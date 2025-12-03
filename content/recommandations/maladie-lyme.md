@@ -343,7 +343,7 @@ Recommandations pour la prise en charge de l'érythème migrans après piqûre d
 
 Antibiothérapie de l'érythème migrant (par niveau d'intention):
 
-1. ==**[Doxycycline](https://bdpm.ansm.sante.fr/medicament/67164569/extrait#tab-rcp) 100 mg x 2/j pendant 10 jours**== (14 si EM multiples)  
+1. ==**[Doxycycline](https://base-donnees-publique.medicaments.gouv.fr/medicament/67164569/extrait#tab-rcp) 100 mg x 2/j pendant 10 jours**== (14 si EM multiples)  
   Même pendant la grossesse ou l'allaitement ([CRAT](https://www.lecrat.fr/6396/)).
 2. Amoxicilline 50 mg/kg/j (max 4 g/j) toutes les 8 heures pendant 14 jours
 3. Azithromycine 1g à J1 puis 500 mg x 1/j de J2 à J5 pendant 5 jours
@@ -352,7 +352,7 @@ Antibiothérapie de l'érythème migrant (par niveau d'intention):
 
 Antibiothérapie de l'érythème migrant de l'enfant:
 
-1. Enfant ≥ 20 kg: [doxycycline 4 mg/kg/j](https://bdpm.ansm.sante.fr/medicament/63836158/extrait#tab-rcp) (max 100 mg/prise et 200 mg/j) en 2 prises pendant 10 jours (14 si EM multiples)
+1. Enfant ≥ 20 kg: [doxycycline 4 mg/kg/j](https://base-donnees-publique.medicaments.gouv.fr/medicament/63836158/extrait#tab-rcp) (max 100 mg/prise et 200 mg/j) en 2 prises pendant 10 jours (14 si EM multiples)
 2. Amoxicilline 50 mg/kg/j (max 4 g/j) toutes les 8 heures pendant 14 jours
 3. Azithromycine 20 mg/kg x 1/j (max 500 mg/j) pendant 5 jours
 

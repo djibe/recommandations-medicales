@@ -263,11 +263,11 @@ La vitamine D est [prise pendant le repas]({{% relref "medicaments-prise-repas.m
 ### Spécialités de vitamine D3 (cholécalciférol) par galénique
 
 - **Ampoule**  
-  Cholécalciférol [50](https://bdpm.ansm.sante.fr/medicament/66236866/extrait#tab-rcp), 80, [100.000 UI](https://bdpm.ansm.sante.fr/medicament/61172819/extrait#tab-rcp) (200.000 UI à éviter).
+  Cholécalciférol [50](https://base-donnees-publique.medicaments.gouv.fr/medicament/66236866/extrait#tab-rcp), 80, [100.000 UI](https://base-donnees-publique.medicaments.gouv.fr/medicament/61172819/extrait#tab-rcp) (200.000 UI à éviter).
 - **Capsule molle**  
   Kipos® 100.000 UI, Uvecaps® 1000 UI/j (NR) ou 20.000 UI, Uvedose® 50.000 UI.
 - **Goutte**  
-  [Adrigyl®](https://bdpm.ansm.sante.fr/medicament/66269026/extrait#tab-rcp) 333 UI/goutte, [ZymaD®](https://bdpm.ansm.sante.fr/medicament/63902334/extrait#tab-rcp) 300 UI/goutte.
+  [Adrigyl®](https://base-donnees-publique.medicaments.gouv.fr/medicament/66269026/extrait#tab-rcp) 333 UI/goutte, [ZymaD®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63902334/extrait#tab-rcp) 300 UI/goutte.
 {.list-group}
 
 Spécialités avec calcium + vitamine D3 associés (prendre [à distance des repas]({{% relref "medicaments-prise-repas.md" %}})):

@@ -251,10 +251,10 @@ Les contacts des **sujets contacts** ne sont pas à risque.
 Antibioprophylaxie et vaccination urgente des << sujets contacts >>:
 
 - Sous 48h, au plus tard 10 jours après le dernier contact
-- Par [rifampicine 600 mg gél](https://bdpm.ansm.sante.fr/medicament/67876901/extrait#tab-rcp) x 2/j pendant 2 jours
+- Par [rifampicine 600 mg gél](https://base-donnees-publique.medicaments.gouv.fr/medicament/67876901/extrait#tab-rcp) x 2/j pendant 2 jours
   - Enfant: 10 mg/kg (max 600 mg) x 2/j
   - Possible pendant la grossesse, coloration des urines et larmes, interactions médicamenteuses
-- En cas de contre-indication: [ceftriaxone IM 250 mg](https://bdpm.ansm.sante.fr/medicament/69211366/extrait#tab-rcp) dose unique (enfant 125 mg) ou [ciprofloxacine 500 mg cp](https://bdpm.ansm.sante.fr/medicament/63431715/extrait#tab-rcp) dose unique (enfant à 20 mg/kg max 500 mg)
+- En cas de contre-indication: [ceftriaxone IM 250 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/69211366/extrait#tab-rcp) dose unique (enfant 125 mg) ou [ciprofloxacine 500 mg cp](https://base-donnees-publique.medicaments.gouv.fr/medicament/63431715/extrait#tab-rcp) dose unique (enfant à 20 mg/kg max 500 mg)
 - Si méningocoque disposant d'une vaccination (C, A, Y, W sauf B): vaccination urgente (voir *Prévention*)
 - Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}})
 
@@ -278,7 +278,7 @@ graph TB
 - [HAS. Stratégie de vaccination contre les infections invasives à méningocoques. 2025.](https://www.has-sante.fr/jcms/p_3597524/fr/strategie-de-vaccination-contre-les-infections-invasives-a-meningocoques)
 - [DGS-Urgent 2025_06. Augmentation des infections invasives à méningocoques en France. 21/02/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Stratégie de vaccination contre les infections invasives à méningocoques : Révision de la stratégie contre les sérogroupes ACWY et B. 2024.](https://www.has-sante.fr/jcms/p_3460601/fr/strategie-de-vaccination-contre-les-infections-invasives-a-meningocoques-revision-de-la-strategie-contre-les-serogroupes-acwy-et-b)
-- [Journal Officiel. Décret n° 2024-694 du 5 juillet 2024 relatif à l'obligation vaccinale contre les méningocoques de type B et ACWY. 21/07/2023.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047867676)
+- [Journal Officiel. Décret n° 2024-694 du 5 juillet 2024 relatif à l'obligation vaccinale contre les méningocoques de type B et ACWY. 21/07/2023.](https://www.legifrance.gouv.fr/download/file/hhS68ECmVhDgElkqhy2ETAVq-2Yhrqjdh8OV3--WPN0=/JOE_TEXTE)
 - [CMIT. Méningites, méningo-encéphalites, abcès cérébral chez l'adulte et l'enfant. Item 151. Pilly Etudiant. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-151-version2024-copyright-1.pdf)
 - [HAS. Infections invasives à méningocoques : des recommandations vaccinales actualisées. 27/03/2024.](https://has-sante.fr/jcms/p_3502914/fr/infections-invasives-a-meningocoques-des-recommandations-vaccinales-actualisees)
 - [Gillet Y et al. Antibiotic treatment of neuro-meningeal infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001501)

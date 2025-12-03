@@ -113,13 +113,13 @@ Recommandations pour la prise en charge et le traitement de la teigne:
 
 - Raser les cheveux autour
 - Traitement probabiliste par ==**terbinafine x 1/j pendant 28 jours**==
-  - \> 40 kg: [250 mg](https://bdpm.ansm.sante.fr/medicament/64309326/extrait#tab-rcp)
+  - \> 40 kg: [250 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/64309326/extrait#tab-rcp)
   - 21-40 kg: 125 mg (1/2 cp de 250 mg)
   - 10-20 kg: 62,5 mg (1/4 cp)
   - < 10 kg: avis dermatologique hospitalier
   - [Fiche info terbinafine (SFD)](https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Bordereau-3_Prise-des-medicaments.pdf)
-- ==\+ [éconazole](https://bdpm.ansm.sante.fr/medicament/62098492/extrait#tab-rcp) ou [ciclopirox olamine 1% crème](https://bdpm.ansm.sante.fr/medicament/63273126/extrait#tab-rcp) x 2/j pendant 28 jours==
-- Si surinfection: povidone iodée moussante ([Bétadine Scrub® 4%](https://bdpm.ansm.sante.fr/medicament/61548837/extrait#tab-rcp)) en shampooing au début
+- ==\+ [éconazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/62098492/extrait#tab-rcp) ou [ciclopirox olamine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/63273126/extrait#tab-rcp) x 2/j pendant 28 jours==
+- Si surinfection: povidone iodée moussante ([Bétadine Scrub® 4%](https://base-donnees-publique.medicaments.gouv.fr/medicament/61548837/extrait#tab-rcp)) en shampooing au début
 - Examiner l'entourage
 - **Réévaluation clinique à 4 semaines** avec résultats mycologiques (voir ci-dessous)
 - Éviction scolaire en l'absence de traitement débuté (sauf teigne zoophile ou tellurique)

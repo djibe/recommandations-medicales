@@ -97,6 +97,10 @@ L'examen clinique à la recherche d'une scoliose est réalisé debout, torse dé
   - Tâches café au lait, pectus excavatum, fossette sacro-coxygienne, hyperlaxité articulaire généralisée
   - Douleurs: spondylodiscite, tumeur osseuse ou intracanalaire
 
+{{< clinique/tanner-sein >}}
+
+{{< clinique/tanner-pilosite >}}
+
 {{% /collapse %}}
 {{%collapse "Examens complémentaires de la scoliose" %}}
 

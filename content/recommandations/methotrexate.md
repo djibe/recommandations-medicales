@@ -49,7 +49,7 @@ En cas de grossesse sous méthotrexate, adresser au diagnostic anténatal en sem
 - Insuffisance respiratoire chronique
 - Allergie connue au méthotrexate
 
-Lire les [RCP](https://bdpm.ansm.sante.fr/medicament/61495968/extrait#tab-rcp) complètes et contrôler les [interactions médicamenteuses](https://www.drugs.com/interaction/list/?drug_list=1590-0).
+Lire les [RCP](https://base-donnees-publique.medicaments.gouv.fr/medicament/61495968/extrait#tab-rcp) complètes et contrôler les [interactions médicamenteuses](https://www.drugs.com/interaction/list/?drug_list=1590-0).
 
 ### Associations contre-indiquées avec le méthotrexate
 
@@ -116,7 +116,7 @@ Bilan pré thérapeutique du méthotrexate:
 
 - Imenor (cp)
 - Imeth (cp, cp séc, SC)
-- Méthotrexate ([cp](https://bdpm.ansm.sante.fr/medicament/60390455/extrait#tab-rcp), [SC](https://bdpm.ansm.sante.fr/medicament/65917662/extrait#tab-rcp))
+- Méthotrexate ([cp](https://base-donnees-publique.medicaments.gouv.fr/medicament/60390455/extrait#tab-rcp), [SC](https://base-donnees-publique.medicaments.gouv.fr/medicament/65917662/extrait#tab-rcp))
 - Metoject (SC)
 - Nordimet (SC)
 - Novatrex (cp)
@@ -130,7 +130,7 @@ Bilan pré thérapeutique du méthotrexate:
 {{% /collapse %}}
 {{%collapse "Co-prescription d'acide folinique" %}}
 
-Acide folinique ([Folinoral 5 mg](https://bdpm.ansm.sante.fr/medicament/67479020/extrait#tab-rcp), [Lederfoline 15 mg](https://bdpm.ansm.sante.fr/medicament/66335946/extrait#tab-rcp)) au moins 10 mg 48 heures après la prise du méthotrexate (*SFR 2018*).
+Acide folinique ([Folinoral 5 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/67479020/extrait#tab-rcp), [Lederfoline 15 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/66335946/extrait#tab-rcp)) au moins 10 mg 48 heures après la prise du méthotrexate (*SFR 2018*).
 {.alert .alert-info}
 
 La supplémentation en acide folinique (vitamine B9) réduit les effets indésirables du méthotrexate:

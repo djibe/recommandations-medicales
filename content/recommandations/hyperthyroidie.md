@@ -311,7 +311,7 @@ La prise en charge de l'hyperthyroïdie relève de l'endocrinologue. Néanmoins,
 
 - Repos ± arrêt de travail
 - Bêtabloquant non-cardiosélectif  
-  [Propranolol](https://bdpm.ansm.sante.fr/medicament/63003440/extrait#tab-rcp) 20-40 mg x 4/j (ou aténolol 25-50 mg/j, bisoprolol, métoprolol, nadolol).
+  [Propranolol](https://base-donnees-publique.medicaments.gouv.fr/medicament/63003440/extrait#tab-rcp) 20-40 mg x 4/j (ou aténolol 25-50 mg/j, bisoprolol, métoprolol, nadolol).
 - Sédatifs temporaires
 - Femme jeune: contraception efficace pendant la prise en charge pour éviter des complications fœtales (voir *Définitions*)
 - Orbitopathie basedowienne: prise en charge pluridisciplinaire
@@ -339,9 +339,9 @@ Après la première ligne de traitement par ATS, en cas de récidive, le traitem
 
 Un délai de 10-15 jours est nécessaire avant l'amélioration des symptômes (élimination du stock d'hormones thyroïdiennes):
 
-- [Carbimazole](https://bdpm.ansm.sante.fr/medicament/61451683/extrait#tab-rcp) 20-40 mg/j (Néo-mercazole®)  
+- [Carbimazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/61451683/extrait#tab-rcp) 20-40 mg/j (Néo-mercazole®)  
   Sujet âgé fragile: 2,5 - 5 mg/j (*ETA*)
-- [Thiamazole](https://bdpm.ansm.sante.fr/medicament/69969425/extrait#tab-rcp) 15-30 mg/j (Thyrozol®)
+- [Thiamazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/69969425/extrait#tab-rcp) 15-30 mg/j (Thyrozol®)
 - En l'absence de grossesse avec contraception efficace
 
 Puis paliers décroissants toutes les 3-6 semaines jusqu'à normalisation de la T4L (méthode de titration) ou supplémentation en lévothyroxine (méthode << block and replace >>, contre-indiquée pendant la grossesse), équivalentes.

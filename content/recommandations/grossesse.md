@@ -257,7 +257,7 @@ Pour toutes les femmes à la 1^re^ grossesse (sauf carte de groupe): double dét
 - Détermination du RhD chez le conjoint  
   Si le conjoint est rhésus 1 positif ou inconnu: génotypage RhD fœtal sur sang maternel à partir de 11 SA (que la grossesse soit unique ou multiple).
 - Si génotypage RhD fœtal:
-  - Fœtus RhD positif: injection d'immunoglobuline humaine anti-D (IgRh, [Rhophylac® 300](https://bdpm.ansm.sante.fr/medicament/68484547/extrait#tab-rcp)) à 28 SA (avant si évènement à risque)
+  - Fœtus RhD positif: injection d'immunoglobuline humaine anti-D (IgRh, [Rhophylac® 300](https://base-donnees-publique.medicaments.gouv.fr/medicament/68484547/extrait#tab-rcp)) à 28 SA (avant si évènement à risque)
   - Fœtus RhD négatif: 2^e^ génotypage après 15 SA à au moins 2 semaines du premier. Si RhD négatif confirmé, pas de prévention d'allo-immunisation nécessaire.
   - Si le Rhésus D fœtal ne peut être déterminé sur 2 prélèvements: le considérer comme RhD positif
 

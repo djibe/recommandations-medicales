@@ -53,9 +53,9 @@ const noResults = document.getElementById('no-results');
 data.forEach(item => {
   const a = document.createElement('a');
   if ('procedure' in item) {
-    a.href = `https://bdpm.ansm.sante.fr/medicament/${item.cis}/extrait#tab-rcp-et-notice`;
+    a.href = `https://base-donnees-publique.medicaments.gouv.fr/medicament/${item.cis}/extrait#tab-rcp-et-notice`;
   } else {
-    a.href = `https://bdpm.ansm.sante.fr/medicament/${item.cis}/extrait#tab-rcp`;
+    a.href = `https://base-donnees-publique.medicaments.gouv.fr/medicament/${item.cis}/extrait#tab-rcp`;
   }
   a.textContent = item.libelle;
   a.target = "_blank";

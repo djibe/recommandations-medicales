@@ -180,7 +180,7 @@ La prise en charge de la cholangite biliaire primitive est spécialisée par le 
 
 ### Pour en savoir plus: prise en charge de la cirrhose biliaire primitive
 
-Sauf syndrome de chevauchement, le traitement de première intention de la cirrhose biliaire primitive (CBP) est l'**[acide ursodésoxycholique](https://bdpm.ansm.sante.fr/medicament/68806603/extrait#tab-rcp)** (AUDC) 13-15 mg/kg/j (min 10 - max 20).
+Sauf syndrome de chevauchement, le traitement de première intention de la cirrhose biliaire primitive (CBP) est l'**[acide ursodésoxycholique](https://base-donnees-publique.medicaments.gouv.fr/medicament/68806603/extrait#tab-rcp)** (AUDC) 13-15 mg/kg/j (min 10 - max 20).
 
 La prise en charge par acide ursodésoxycholique est poursuivie au long cours quel que soit le stade de la maladie.
 
@@ -191,7 +191,7 @@ Effets indésirables rares (< 5%): diarrhées, épigastralgies.
 Autres traitements possibles:
 
 - De la CBP: bézafibrate (BZF), ~~acide obéticholique~~ (AOC en AAC)
-- Du prurit: **[cholestyramine](https://bdpm.ansm.sante.fr/medicament/65691327/extrait#tab-rcp)** (Questran® 4-16 g/j) > rifampicine (150-300 mg/j), bézafibrate > naltrexone (25-50 mg/j), nalméfène > sertraline (50 mg/j). Émollients, TCC.
+- Du prurit: **[cholestyramine](https://base-donnees-publique.medicaments.gouv.fr/medicament/65691327/extrait#tab-rcp)** (Questran® 4-16 g/j) > rifampicine (150-300 mg/j), bézafibrate > naltrexone (25-50 mg/j), nalméfène > sertraline (50 mg/j). Émollients, TCC.
 - Si cholestase persistante: [supplémentation calcium]({{% relref "apports-calcium.md" %}}) + [vitamine D]({{% relref "vitamine-d.md" %}}) (1g/800 UI/j)
 - De l'ostéoporose: supplémentation vitamino-calcique, traiter quand T-score fémoral < -1,5
 - Surveillance des vitamines liposolubles (A, D, E, K)

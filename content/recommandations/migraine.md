@@ -340,7 +340,7 @@ Max 2 prises/24h avec intervalle minimal de 2 heures entre les prises.
   
 Les triptans:
 
-- En pédiatrie: seul le [sumatriptan nasal](https://bdpm.ansm.sante.fr/medicament/67153334/extrait#tab-rcp) est possible à partir de 12 ans
+- En pédiatrie: seul le [sumatriptan nasal](https://base-donnees-publique.medicaments.gouv.fr/medicament/67153334/extrait#tab-rcp) est possible à partir de 12 ans
 - Contre-indications: [phénomène de Raynaud]({{% relref "phenomene-raynaud.md" %}}), [cardiopathie ischémique]({{% relref "syndrome-coronarien-chronique.md" %}}) et {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}, hypersensibilité au produit
 - Absence de réponse (ou effets secondaires): augmenter la dose (réduire), changer de voie d'administration, changer de triptan
 - En cas de récidive des céphalées après 48h: coupler triptan + AINS
@@ -407,10 +407,10 @@ Il ne supprime pas les crises mais réduit leur fréquence et leur intensité. *
 Prise en charge par traitement de fond au moins 3 mois avant de conclure à une inefficacité:
 
 - Migraine épisodique {{%class%}}(< 15 j/mois){{%/class%}}
-  - [Propranolol](https://bdpm.ansm.sante.fr/medicament/65135519/extrait#tab-rcp) 20-240 mg/j en 2 prises ou LP matin.  
+  - [Propranolol](https://base-donnees-publique.medicaments.gouv.fr/medicament/65135519/extrait#tab-rcp) 20-240 mg/j en 2 prises ou LP matin.  
   Débuter à 40 mg x 2-3/j avec paliers de 40 mg/semaine (*Prescrire*). Pas d'arrêt brutal.
   Effets indésirables: asthénie, mauvaise tolérance à l'effort; Contre-indications des BB.
-  - [Métoprolol](https://bdpm.ansm.sante.fr/medicament/62837759/extrait#tab-rcp) LP 50-200 mg le matin
+  - [Métoprolol](https://base-donnees-publique.medicaments.gouv.fr/medicament/62837759/extrait#tab-rcp) LP 50-200 mg le matin
   - Alternatives aux bêtabloquants: amitriptyline 25-150 mg/j, candésartan 16 mg/j ou topiramate
 - Migraine chronique {{%class%}}(≥ 15 j/mois){{%/class%}}
   - Topiramate 50-200 mg en 1-2 prises  

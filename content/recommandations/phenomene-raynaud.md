@@ -226,7 +226,7 @@ La prise en charge du syndrome de Raynaud associe:
   - Éviter les facteurs déclenchants
   - En cas de crise: réchauffer les mains
 - Raynaud primitif gênant  
-  [Nifédipine LP](https://bdpm.ansm.sante.fr/medicament/66932763/extrait#tab-rcp) 30 mg 1 à 2 cp en 1 prise quotidienne.
+  [Nifédipine LP](https://base-donnees-publique.medicaments.gouv.fr/medicament/66932763/extrait#tab-rcp) 30 mg 1 à 2 cp en 1 prise quotidienne.
 - Raynaud secondaire: suivi par l'interniste
 - [Reconnaissance possible en Maladie professionnelle dans le cadre du Tableau 69](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2069): machines avec vibrations
 

@@ -402,8 +402,8 @@ Traitement de première intention du syndrome des jambes sans repos avec une **c
 
 Privilégier une supplémentation orale en surveillant la tolérance digestive du traitement.
 
-Proposition de la SFRMS: [Ferrostrane®](https://bdpm.ansm.sante.fr/medicament/68994621/extrait#tab-rcp) 1-3 cuillères à café/j.  
-Voire Fumafer® (cp ou pdr) ou [Timoferol®](https://bdpm.ansm.sante.fr/medicament/67843958/extrait#tab-rcp).  
+Proposition de la SFRMS: [Ferrostrane®](https://base-donnees-publique.medicaments.gouv.fr/medicament/68994621/extrait#tab-rcp) 1-3 cuillères à café/j.  
+Voire Fumafer® (cp ou pdr) ou [Timoferol®](https://base-donnees-publique.medicaments.gouv.fr/medicament/67843958/extrait#tab-rcp).  
 Si échec: fer saccharose IV (Venofer®, préféré par Prescrire®) en hôpital de jour.
 
 ### Traitement médicamenteux à la demande: antalgiques de palier 2

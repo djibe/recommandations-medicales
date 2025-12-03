@@ -88,12 +88,12 @@ La cystite est une infection urinaire **sans fièvre** et sans anomalie biologiq
 Prise en charge ambulatoire de la cystite aiguë (infection urinaire basse) immédiatement après ECBU:
 
 - Fille pubère: traitement minute par fosfomycine sauf uropathie (voir [IU de l'adulte]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}))
-- ==[Amoxicilline/acide clavulanique](https://bdpm.ansm.sante.fr/medicament/64550843/extrait#tab-rcp) 1,5 dose-kg 2 fois par jour pendant 5 jours== (80 mg/kg/j, max 3 g/j)
+- ==[Amoxicilline/acide clavulanique](https://base-donnees-publique.medicaments.gouv.fr/medicament/64550843/extrait#tab-rcp) 1,5 dose-kg 2 fois par jour pendant 5 jours== (80 mg/kg/j, max 3 g/j)
   - Pas d'adaptation à l'antibiogramme sauf évolution défavorable: cotrimoxazole préféré au céfixime
 - Mesures d'hygiène générales
 - Si allergie:
-  - Préférer le [cotrimoxazole](https://bdpm.ansm.sante.fr/medicament/69464049/extrait#tab-rcp) 30 mg/kg/j (max 1,6 g/j) de SMX en 2 prises pendant 5 jours
-  - Puis le [céfixime](https://bdpm.ansm.sante.fr/medicament/67547553/extrait#tab-rcp) 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 5 jours  
+  - Préférer le [cotrimoxazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/69464049/extrait#tab-rcp) 30 mg/kg/j (max 1,6 g/j) de SMX en 2 prises pendant 5 jours
+  - Puis le [céfixime](https://base-donnees-publique.medicaments.gouv.fr/medicament/67547553/extrait#tab-rcp) 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 5 jours  
     ou à défaut céfpodoxime-proxétil 8 mg/kg/j en 2 prises sans dépasser la dose adulte (*GPIP 2025*)
 
 Avis spécialisé en cas de: Pseudomonas sp, bactérie multi-résistante, bactérie productrice de carbapénémase, ou entérocoque résistant aux glycopeptides.
@@ -121,8 +121,8 @@ Prise en charge de la suspicion de pyélonéphrite aiguë (PNA):
 Adaptation à l'antibiogramme dès le rendu des résultats pour une totale (probabiliste + adaptée) de traitement de **10 jours**:
 
 1. Si entérocoque ou *Proteus* sensibles à l'ampicilline: amoxicilline
-2. [Cotrimoxazole](https://bdpm.ansm.sante.fr/medicament/69464049/extrait#tab-rcp) (si âge > 1 mois) 30 mg/kg/j de SMX (max 1,6 g/j) en 2 prises
-3. [Céfixime](https://bdpm.ansm.sante.fr/medicament/67547553/extrait#tab-rcp) 8 mg/kg/j (max 400 mg/j) en 2 prises  
+2. [Cotrimoxazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/69464049/extrait#tab-rcp) (si âge > 1 mois) 30 mg/kg/j de SMX (max 1,6 g/j) en 2 prises
+3. [Céfixime](https://base-donnees-publique.medicaments.gouv.fr/medicament/67547553/extrait#tab-rcp) 8 mg/kg/j (max 400 mg/j) en 2 prises  
    ou à défaut céfpodoxime-proxétil 8 mg/kg/j en 2 prises sans dépasser la dose adulte (*GPIP 2025*)
 4. Céfixime + amoxicilline/acide clavulanique
 

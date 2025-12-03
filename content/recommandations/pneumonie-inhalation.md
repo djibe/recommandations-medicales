@@ -192,7 +192,7 @@ Autres indications générales à l'hospitalisation: tableau clinique atypique o
 Recommandations pour la prise en charge de la pneumonie d'inhalation en l'absence de critères d'hospitalisation (voir section précédente):
 
 - Antibiothérapie urgente:
-  - ==**[Amoxicilline/acide clavulanique 1g](https://bdpm.ansm.sante.fr/medicament/60685523/extrait#tab-rcp-et-notice) x 3/j pendant 5 jours**==
+  - ==**[Amoxicilline/acide clavulanique 1g](https://base-donnees-publique.medicaments.gouv.fr/medicament/60685523/extrait#tab-rcp-et-notice) x 3/j pendant 5 jours**==
   - Si insuffisance rénale sévère (10-30 mL/min): amoxicilline / acide clavulanique 1g en dose de charge puis 0,5 mg toutes les 8 heures
   - Si allergie vraie à la pénicilline: ceftriaxone 1g SC x 1/j pendant 5 jours
   - Si allergie grave aux bêta-lactamines: cotrimoxazole 800/100 mg x 3/j pendant 5 jours

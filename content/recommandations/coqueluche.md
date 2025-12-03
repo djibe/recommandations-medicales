@@ -232,7 +232,7 @@ Ne traiter un *B. parapertussis* pauci-symptomatique qu'en présence de personne
 
 Antibiothérapie de la coqueluche par un macrolide (*HAS/SPILF/GPIP 2024*):
 
-- [Clarithromycine](https://bdpm.ansm.sante.fr/medicament/62913185/extrait#tab-rcp) 500 mg x 2/j pendant **7 jours**  
+- [Clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/62913185/extrait#tab-rcp) 500 mg x 2/j pendant **7 jours**  
   ou 1 dose-poids x 2/j (15 mg/kg/j en 2 prises, max 500 mg/prise)
 - Allergie aux macrolides: cotrimoxazole 800/160 mg x 2/j pendant 7 jours  
   ou cotrimoxazole 6 mg/kg/j de TMP (max 1600/320 mg/j) en 2 prises par jour

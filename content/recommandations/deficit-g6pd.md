@@ -161,7 +161,7 @@ Doit être demandée et remplie par le médecin.
 - **Accident hémolytique grave**: Hb < 4 g/dL, troubles hémodynamiques, lactates élevés, néphropathie tubulo-interstitielle aiguë  
   Réanimation (échange transfusionnel, dialyse).
 - Si hémolyse chronique ou grossesse:  
-  Supplémentation en [acide folique](https://bdpm.ansm.sante.fr/medicament/67320915/extrait#tab-rcp-et-notice) 5-10 mg/j, 1 à 2 semaines par mois.
+  Supplémentation en [acide folique](https://base-donnees-publique.medicaments.gouv.fr/medicament/67320915/extrait#tab-rcp-et-notice) 5-10 mg/j, 1 à 2 semaines par mois.
 - Supplémentation en fer  
   Uniquement en cas de carence démontrée.
 - Vaccination [hépatite A]({{% relref "hepatite-a.md" %}}) en séjour hors pays de l'ouest

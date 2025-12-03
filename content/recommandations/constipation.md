@@ -140,11 +140,11 @@ Prise en charge d'un [prolapsus pelvien]({{% relref "prolapsus-genital-femme.md"
 
 ### Les laxatifs pour la prise en charge de la constipation
 
-Les **laxatifs osmotiques** de polyéthylènes glycol (**PEG**) sont recommandés en première intention: [macrogol](https://bdpm.ansm.sante.fr/medicament/63229902/extrait#tab-rcp). Ils sont autorisés pendant la grossesse.
+Les **laxatifs osmotiques** de polyéthylènes glycol (**PEG**) sont recommandés en première intention: [macrogol](https://base-donnees-publique.medicaments.gouv.fr/medicament/63229902/extrait#tab-rcp). Ils sont autorisés pendant la grossesse.
 
-Les **laxatifs de lest** sont également recommandés en première intention: ispaghul (graine de psyllium: [Psylia®](https://bdpm.ansm.sante.fr/medicament/68520477/extrait#tab-rcp), psyllium, Spagulax®). Ils sont autorisés pendant la grossesse.
+Les **laxatifs de lest** sont également recommandés en première intention: ispaghul (graine de psyllium: [Psylia®](https://base-donnees-publique.medicaments.gouv.fr/medicament/68520477/extrait#tab-rcp), psyllium, Spagulax®). Ils sont autorisés pendant la grossesse.
 
-Les laxatifs par voie rectale (lavements et suppositoires) sont recommandés en première intention pour la constipation d'évacuation: [Eductyl®](https://bdpm.ansm.sante.fr/medicament/68550890/extrait#tab-rcp)
+Les laxatifs par voie rectale (lavements et suppositoires) sont recommandés en première intention pour la constipation d'évacuation: [Eductyl®](https://base-donnees-publique.medicaments.gouv.fr/medicament/68550890/extrait#tab-rcp)
 
 ### Traitements de deuxième intention de la constipation
 
@@ -158,9 +158,9 @@ Les laxatifs par voie rectale (lavements et suppositoires) sont recommandés en 
 
 #### Les laxatifs de deuxième intention
 
-- Laxatif lubrifiant: [huile de paraffine buvable](https://bdpm.ansm.sante.fr/medicament/68592416/extrait#tab-rcp)  
+- Laxatif lubrifiant: [huile de paraffine buvable](https://base-donnees-publique.medicaments.gouv.fr/medicament/68592416/extrait#tab-rcp)  
   Contre-indications: troubles de déglutition ou de la motricité œsogastrique.
-- Laxatif stimulant: séné ([Agiolax®](https://bdpm.ansm.sante.fr/medicament/66768488/extrait#tab-rcp) ou autre), [bisacodyl](https://bdpm.ansm.sante.fr/medicament/62128430/extrait#tab-rcp), [picosulfate de sodium](https://bdpm.ansm.sante.fr/medicament/63875218/extrait#tab-rcp)
+- Laxatif stimulant: séné ([Agiolax®](https://base-donnees-publique.medicaments.gouv.fr/medicament/66768488/extrait#tab-rcp) ou autre), [bisacodyl](https://base-donnees-publique.medicaments.gouv.fr/medicament/62128430/extrait#tab-rcp), [picosulfate de sodium](https://base-donnees-publique.medicaments.gouv.fr/medicament/63875218/extrait#tab-rcp)
 - Laxatif prokinétique (non remboursés): pyridostigmine, prucalopride ([Resolor®](https://ec.europa.eu/health/documents/community-register/2022/20221216158010/anx_158010_fr.pdf))
 
 {{% /collapse %}}

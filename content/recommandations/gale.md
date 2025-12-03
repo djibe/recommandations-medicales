@@ -195,7 +195,7 @@ Traitement de référence selon l'âge (*SFD 2024*):
 
 #### Perméthrine (Topiscab® 5% crème)
 
-La [perméthrine 5%](https://bdpm.ansm.sante.fr/medicament/61712553/extrait#tab-rcp) est le traitement de référence avant 1 an ou au 1er trimestre de grossesse.
+La [perméthrine 5%](https://base-donnees-publique.medicaments.gouv.fr/medicament/61712553/extrait#tab-rcp) est le traitement de référence avant 1 an ou au 1er trimestre de grossesse.
 
 Appliquer le tube entier sur toute la peau (sauf visage). Laisser agir **8 heures** à 14 heures. Puis douche à l'eau et au savon. ==**Renouveler le traitement à J8**==.
 
@@ -214,7 +214,7 @@ Appliquer le tube entier sur toute la peau (sauf visage). Laisser agir **8 heure
 
 #### Ivermectine 3 mg (Stromectol® ou gén)
 
-Traitement oral de la gale par [ivermectine en une prise de 200 µg/kg](https://bdpm.ansm.sante.fr/medicament/67988035/extrait#tab-rcp) et **rappel à J8** (*EADV*).
+Traitement oral de la gale par [ivermectine en une prise de 200 µg/kg](https://base-donnees-publique.medicaments.gouv.fr/medicament/67988035/extrait#tab-rcp) et **rappel à J8** (*EADV*).
 
 Traitement de première intention de la gale selon le *CMIT*, à prendre au moins 2 heures avant ou après la prise de nourriture (*Prescrire*) sauf les enfants (*SFD*).
 
@@ -238,7 +238,7 @@ Traitement de première intention de la gale selon le *CMIT*, à prendre au moin
 
 #### Autres traitements locaux de la gale
 
-~~Spregal® lotion~~, [benzoate de benzyle 10%](https://bdpm.ansm.sante.fr/medicament/69516026/extrait#tab-rcp) (Ascabiol®) répété à J8.
+~~Spregal® lotion~~, [benzoate de benzyle 10%](https://base-donnees-publique.medicaments.gouv.fr/medicament/69516026/extrait#tab-rcp) (Ascabiol®) répété à J8.
 
 ### Prurit résiduel après traitement
 

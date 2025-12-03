@@ -142,7 +142,7 @@ Le traitement de l'éjaculation prématurée se réfère au modèle biopsychosoc
 
 La prise en charge de l'éjaculation prématurée associe:
 
-- Antidépresseur ISRS dapoxétine ([Priligy®](https://bdpm.ansm.sante.fr/medicament/67084087/extrait#tab-rcp) 30 mg voire 60 mg) à la demande  
+- Antidépresseur ISRS dapoxétine ([Priligy®](https://base-donnees-publique.medicaments.gouv.fr/medicament/67084087/extrait#tab-rcp) 30 mg voire 60 mg) à la demande  
   1 à 3 heures avant.
 - Autres ISRS possibles hors AMM: paroxétine 20 mg/j voire clomipramine 10 mg/j, en continu voire à la demande
 - Anesthésique local pour l'EP primaire: lidocaïne + prilocaïne spray ([Fortacin®](https://www.ema.europa.eu/fr/documents/product-information/fortacin-epar-product-information_fr.pdf), NR, disponible sans ordonnance)  

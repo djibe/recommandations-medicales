@@ -235,10 +235,10 @@ Seulement 40% des patients observent une amélioration de 30% de leurs symptôme
 Doses quotidiennes habituelles pour le traitement de la fibromyalgie pour un essai de 12 semaines:
 
 1. [Prégabaline](https://ec.europa.eu/health/documents/community-register/2022/20220613155970/anx_155970_fr.pdf) 25-300 mg (antiépileptique)
-2. [Duloxétine](https://bdpm.ansm.sante.fr/medicament/60457719/extrait#tab-rcp) 30-60 mg (IRSNA)
-3. [Milnacipran](https://bdpm.ansm.sante.fr/medicament/60430095/extrait#tab-rcp) 5-100 mg (IRSNA)
+2. [Duloxétine](https://base-donnees-publique.medicaments.gouv.fr/medicament/60457719/extrait#tab-rcp) 30-60 mg (IRSNA)
+3. [Milnacipran](https://base-donnees-publique.medicaments.gouv.fr/medicament/60430095/extrait#tab-rcp) 5-100 mg (IRSNA)
 
-L'[amitriptyline](https://bdpm.ansm.sante.fr/medicament/68969066/extrait#tab-rcp) 10-25 mg (tricyclique, *EULAR*) est également très utilisée quoiqu'avec un niveau de preuve moindre.
+L'[amitriptyline](https://base-donnees-publique.medicaments.gouv.fr/medicament/68969066/extrait#tab-rcp) 10-25 mg (tricyclique, *EULAR*) est également très utilisée quoiqu'avec un niveau de preuve moindre.
 
 Les ISRS (citalopram, fluoxétine, paroxétine) sont utilisés uniquement en cas de [dépression avérée]({{% relref "depression.md" %}}).
 

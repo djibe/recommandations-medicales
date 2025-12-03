@@ -117,14 +117,14 @@ Prise en charge et traitements recommandés pour les nausées et vomissements pe
   - Consultation de contrôle à 72 heures nécessaire
   - Symptômes légers ({{< modal-btn modal-puqe >}}Score PUQE < 6{{< /modal-btn >}})  
     Gingembre, [vitamine B6](https://base-donnees-publique.medicaments.gouv.fr/medicament/61091986/extrait#tab-rcp) (pyridoxine), acupression, acupuncture, électrostimulation même si leur efficacité n'est pas prouvée.
-  - [Doxylamine 15 mg](https://bdpm.ansm.sante.fr/medicament/64741955/extrait#tab-rcp) ([CRAT](https://www.lecrat.fr/3405/))
-  - Doxylamine + pyridoxine 10/10 mg (vitamine B6 -- [Cariban®](https://bdpm.ansm.sante.fr/medicament/61447165/extrait#tab-rcp), Xonvea®)
-  - Dimenhydrinate 50 mg ([CRAT](https://www.lecrat.fr/3460/), [Nausicaalm®](https://bdpm.ansm.sante.fr/medicament/60173964/extrait#tab-rcp) ou [Mercalm®](https://bdpm.ansm.sante.fr/medicament/68461541/extrait#tab-rcp) avec caféine)
-- Traitement de 2^e^ intention: [métoclopramide 10 mg](https://bdpm.ansm.sante.fr/medicament/63177843/extrait#tab-rcp) ([CRAT](https://www.lecrat.fr/3419/))
+  - [Doxylamine 15 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/64741955/extrait#tab-rcp) ([CRAT](https://www.lecrat.fr/3405/))
+  - Doxylamine + pyridoxine 10/10 mg (vitamine B6 -- [Cariban®](https://base-donnees-publique.medicaments.gouv.fr/medicament/61447165/extrait#tab-rcp), Xonvea®)
+  - Dimenhydrinate 50 mg ([CRAT](https://www.lecrat.fr/3460/), [Nausicaalm®](https://base-donnees-publique.medicaments.gouv.fr/medicament/60173964/extrait#tab-rcp) ou [Mercalm®](https://base-donnees-publique.medicaments.gouv.fr/medicament/68461541/extrait#tab-rcp) avec caféine)
+- Traitement de 2^e^ intention: [métoclopramide 10 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/63177843/extrait#tab-rcp) ([CRAT](https://www.lecrat.fr/3419/))
 - Traitements de 3^e^ intention
-  - Chlorpromazine ([Largactil®](https://bdpm.ansm.sante.fr/medicament/65676987/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3580/))
-  - Prométhazine 25 mg ([Phénargan®](https://bdpm.ansm.sante.fr/medicament/69764032/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3528/))
-  - Métopimazine ([Vogalène®](https://bdpm.ansm.sante.fr/medicament/69503737/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/11549/))
+  - Chlorpromazine ([Largactil®](https://base-donnees-publique.medicaments.gouv.fr/medicament/65676987/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3580/))
+  - Prométhazine 25 mg ([Phénargan®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69764032/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3528/))
+  - Métopimazine ([Vogalène®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69503737/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/11549/))
 - Soutien psychologique
 - Ne pas utiliser: aromathérapie
 
@@ -142,7 +142,7 @@ Prise en charge de l'hyperémèse gravidique:
 - Soutien psychologique
 - Association de patientes: [Association de lutte contre l'hyperémèse gravidique](https://www.associationhg.fr) et [9 mois avec ma bassine](https://www.facebook.com/9moisavecmabassine/)
 
-Sur prescription spécialisée uniquement pour l'hyperémèse gravidique: [ondansétron 8 mg](https://bdpm.ansm.sante.fr/medicament/64961378/extrait#tab-rcp) après 10 SA (ordonnance d'exception, [CRAT](https://www.lecrat.fr/3394/)), corticoïdes IV en dernier recours.
+Sur prescription spécialisée uniquement pour l'hyperémèse gravidique: [ondansétron 8 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/64961378/extrait#tab-rcp) après 10 SA (ordonnance d'exception, [CRAT](https://www.lecrat.fr/3394/)), corticoïdes IV en dernier recours.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge des nausées et vomissements de grossesse" "show" %}}

@@ -158,7 +158,7 @@ Recommandations pour la prise en charge des condylomes ano-génitaux:
 
 Traitements de première intention des condylomes (par ordre coût-efficacité):
 
-- ==**Podophyllotoxine 0,5 %**== solution ([Condyline®](https://bdpm.ansm.sante.fr/medicament/61111385/extrait#tab-rcp), lire la notice) x 2/j pendant 3 jours
+- ==**Podophyllotoxine 0,5 %**== solution ([Condyline®](https://base-donnees-publique.medicaments.gouv.fr/medicament/61111385/extrait#tab-rcp), lire la notice) x 2/j pendant 3 jours
   - Si besoin: répéter chaque semaine pendant maximum 5 semaines
   - ± associée à la vaseline et/ou la cryothérapie.
 - **Imiquimod 5% crème** ([Aldara®](https://www.ema.europa.eu/fr/documents/product-information/aldara-epar-product-information_fr.pdf), lire la notice), 1 application pendant 6 à 10 heures puis rincer, 1 jour sur 2 pendant maximum 16 semaines.  
@@ -186,7 +186,7 @@ Traitements de première intention des condylomes (par ordre coût-efficacité):
 - Électrochirurgie
 - Laser CO~2~
 - Acide trichloracétique (TCA). Application médicale hebdomadaire.
-- 5-fluorouracile 5% crème (5-FU; [Efudix®](https://bdpm.ansm.sante.fr/medicament/60627235/extrait#tab-rcp))
+- 5-fluorouracile 5% crème (5-FU; [Efudix®](https://base-donnees-publique.medicaments.gouv.fr/medicament/60627235/extrait#tab-rcp))
 - Hydroxyde de potassium (KOH, parapharmacie hors AMM; Molusderm®, Molutrex®)
 - Photothérapie dynamique (PDT)
 

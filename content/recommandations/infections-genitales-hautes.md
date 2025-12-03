@@ -149,9 +149,9 @@ Prise en charge semi-urgente des infections génitales hautes par **antibiothér
 {{%info%}}
 Traitement ambulatoire de l'IGH simple **pendant 10 jours** (*HAS/SPILF 2025*):
 
-- [Ceftriaxone 1g](https://bdpm.ansm.sante.fr/medicament/62676989/extrait#tab-rcp) IM dose unique
-- \+ [doxycycline 100 mg](https://bdpm.ansm.sante.fr/medicament/67164569/extrait#tab-rcp) x 2/j
-- \+ [métronidazole 500 mg](https://bdpm.ansm.sante.fr/medicament/60416081/extrait#tab-rcp) x 2/j
+- [Ceftriaxone 1g](https://base-donnees-publique.medicaments.gouv.fr/medicament/62676989/extrait#tab-rcp) IM dose unique
+- \+ [doxycycline 100 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/67164569/extrait#tab-rcp) x 2/j
+- \+ [métronidazole 500 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/60416081/extrait#tab-rcp) x 2/j
 - Réévaluation systématique à 3-5 jours  
   Évolution (~15 % d'échecs), tolérance, observance et résultats microbiologiques et des IST (± bilan IST).
 - Si {{< modal-btn modal-risque-ist >}}facteur de risque d'IST{{< /modal-btn >}}: préservatif
@@ -171,7 +171,7 @@ Selon le germe:
 
 - *Chlamydia trachomatis*: doxycycline 100 mg x 2/j pendant 10 jours (14 si hospitalisation)
 - *Mycoplasma genitalium*: traiter uniquement si symptomatique en l'absence de co-infection
-  - [Moxifloxacine 400 mg](https://bdpm.ansm.sante.fr/medicament/65521531/extrait#tab-rcp) x 1/j pendant 14 jours
+  - [Moxifloxacine 400 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/65521531/extrait#tab-rcp) x 1/j pendant 14 jours
   - Pas de contrôle de la guérison
 
 ### Après la guérison

@@ -133,7 +133,7 @@ Mesures générales de prise en charge associées:
 - Prévention de la thrombo-embolie veineuse (ETEV, *SFAR 2024*)
   - Pré-opératoire si délai d'intervention > 12 heures: HBPM énoxaparine SC ≥ 4000 UI/j
   - Post-opératoire: [fondaparinux](https://www.ema.europa.eu/fr/documents/product-information/arixtra-epar-product-information_fr.pdf) SC 2,5 mg x 1/j pendant 4 semaines sans contrôle des plaquettes (dès H8 post-opératoire)  
-    Alternatives: HBPM [énoxaparine ≥ 4000 UI/j](https://bdpm.ansm.sante.fr/medicament/63600670/extrait#tab-rcp) voire héparine.
+    Alternatives: HBPM [énoxaparine ≥ 4000 UI/j](https://base-donnees-publique.medicaments.gouv.fr/medicament/63600670/extrait#tab-rcp) voire héparine.
   - Bas de contention associés (Afssaps 2009)
   - Sur-risque persistant à 3 mois
 - Anti-escarre

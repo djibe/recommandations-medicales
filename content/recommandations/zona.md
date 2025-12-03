@@ -210,13 +210,13 @@ Prise en charge d'un zona non sévère:
 
 Le traitement antiviral doit être débuté en **urgence** dans les 48 à 72 premières heures, avec une bonne hydratation.
 
-[Valaciclovir](https://bdpm.ansm.sante.fr/medicament/68070731/extrait#tab-rcp) 1g 3 fois par jour pendant 7 jours, début immédiat
+[Valaciclovir](https://base-donnees-publique.medicaments.gouv.fr/medicament/68070731/extrait#tab-rcp) 1g 3 fois par jour pendant 7 jours, début immédiat
 {.alert .alert-info}
 
-**Alternatives:** [aciclovir 800 mg](https://bdpm.ansm.sante.fr/medicament/60111197/extrait#tab-rcp) (cp, buvable) x 5/j pendant 7 jours  
+**Alternatives:** [aciclovir 800 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/60111197/extrait#tab-rcp) (cp, buvable) x 5/j pendant 7 jours  
 ou famciclovir (Oravir) 500 mg x 3/j pendant 7 jours.
 
-Chez l'**enfant de plus de 2 ans:** utiliser l'aciclovir buvable ([Zovirax 200 mg/5 mL](https://bdpm.ansm.sante.fr/medicament/68750987/extrait#tab-rcp)) 200 mg (5 mL) x 5/j pendant 5-10 jours à partir de 2 ans.
+Chez l'**enfant de plus de 2 ans:** utiliser l'aciclovir buvable ([Zovirax 200 mg/5 mL](https://base-donnees-publique.medicaments.gouv.fr/medicament/68750987/extrait#tab-rcp)) 200 mg (5 mL) x 5/j pendant 5-10 jours à partir de 2 ans.
 
 **Avis spécialisé avant 2 ans**.
 
@@ -251,7 +251,7 @@ Douleurs persistantes après la cicatrisation ou plus d'un mois après un zona. 
 
 - Glaçage local
 - Couvrir la zone douloureuse
-- [Emplâtres de lidocaïne 700 mg](https://bdpm.ansm.sante.fr/medicament/65538840/extrait#tab-rcp) (Versatis®)
+- [Emplâtres de lidocaïne 700 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/65538840/extrait#tab-rcp) (Versatis®)
   - 1 à 3 selon la superficie de la zone, 12 heures/j
   - Effets indésirables: irritation cutanée, allergie
 
@@ -260,7 +260,7 @@ Douleurs persistantes après la cicatrisation ou plus d'un mois après un zona. 
 Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}}).
 
 - Fond douloureux permanent: amitriptyline clomipramine
-- Paroxysmes hyperalgiques: carbamazépine ([Tegretol® ou gén](https://bdpm.ansm.sante.fr/medicament/61547468/extrait#tab-rcp))
+- Paroxysmes hyperalgiques: carbamazépine ([Tegretol® ou gén](https://base-donnees-publique.medicaments.gouv.fr/medicament/61547468/extrait#tab-rcp))
 - Voire morphine
 - Soutien psychologique
 

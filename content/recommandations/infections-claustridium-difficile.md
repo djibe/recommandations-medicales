@@ -142,7 +142,7 @@ Ne pas utiliser de probiotiques (en prévention primaire pour une antibiothérap
 
 ### Pour en savoir plus: traitements spécialisés de l'infection à *Clostridioides difficile*
 
-Autres antibiothérapies possibles pour le traitement des infections à *Clostridioides difficile* (ICD): **[métronidazole 500 mg](https://bdpm.ansm.sante.fr/medicament/60416081/extrait#tab-rcp)** x 3/j pendant 10 jours, rifaximine (Tixtar® hors AMM, prescription interniste, gastro-entérologue), tigécycline IV, nitazoxanide (indisponible en France).
+Autres antibiothérapies possibles pour le traitement des infections à *Clostridioides difficile* (ICD): **[métronidazole 500 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/60416081/extrait#tab-rcp)** x 3/j pendant 10 jours, rifaximine (Tixtar® hors AMM, prescription interniste, gastro-entérologue), tigécycline IV, nitazoxanide (indisponible en France).
 
 À partir de la 2^e^ récidive, une **transplantation de microbiote fécal** (TMF) par coloscopie ou capsules (voire suppositoires) est envisagée. Elle est envisagée dès la 1^re^ récidive en cas de syndrome de l'intestin irritable (SII).
 

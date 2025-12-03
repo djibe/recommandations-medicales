@@ -105,8 +105,8 @@ Recommandations pour la prise en charge et le traitement de l'érythème fessier
 - Laisser sans couche à l'air
 - Reconsulter en cas d'absence d'amélioration à 2 semaines
 - Traitement d'une complication locale:
-  - [Mycose]({{% relref "mycoses-dermatophytes-candidoses.md" %}}): ~~miconazole crème~~, [ciclopirox 1% crème](https://bdpm.ansm.sante.fr/medicament/63273126/extrait#tab-rcp) x 2/j pendant 1 à 2 semaines, [clotrimazole](https://bdpm.ansm.sante.fr/medicament/62633525/extrait#tab-rcp) (hors AMM)
-  - [Impétigo]({{% relref "infection-cutanee-bacterienne.md" %}}): [mupirocine 2% crème](https://bdpm.ansm.sante.fr/medicament/61059102/extrait#tab-rcp) x 2/j pendant 5 jours
+  - [Mycose]({{% relref "mycoses-dermatophytes-candidoses.md" %}}): ~~miconazole crème~~, [ciclopirox 1% crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/63273126/extrait#tab-rcp) x 2/j pendant 1 à 2 semaines, [clotrimazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/62633525/extrait#tab-rcp) (hors AMM)
+  - [Impétigo]({{% relref "infection-cutanee-bacterienne.md" %}}): [mupirocine 2% crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/61059102/extrait#tab-rcp) x 2/j pendant 5 jours
 - Si érythème sévère: {{< modal-btn modal-dc >}}dermocorticoïde faible voire modéré{{< /modal-btn >}} le plus bref possible (maximum 1 semaine)
 
 Ne pas appliquer d'autres produits localement. En l'absence d'amélioration à 2 semaines, un avis dermatologique (ex. téléexpertise) peut s'avérer nécessaire.

@@ -137,6 +137,10 @@ Interrogatoire à mener en cas de puberté précoce:
 - Examen cutané  
   Tâches café au lait de la neurofibromatose type 1 (syndrome de McCune Albright), vergetures ([Cushing]({{% relref "syndrome-cushing.md" %}})).
 
+{{< clinique/tanner-sein >}}
+
+{{< clinique/tanner-pilosite >}}
+
 ### Calculer la taille cible
 
 <div class="card-body card-util rounded-lg border mb-3" style="max-width: 280px" id="target-height">

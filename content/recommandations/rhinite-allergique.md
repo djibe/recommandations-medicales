@@ -201,18 +201,18 @@ Les antihistaminiques et corticoïdes nasaux sont le traitement symptomatique de
 {{%info%}}
 
 1. RA légère à modérée (à partir d'1 an)  
-  Anti-histaminiques H1 oraux de deuxième ou troisième génération (ex: [cétirizine](https://bdpm.ansm.sante.fr/medicament/62005883/extrait#tab-rcp), loratadine).
+  Anti-histaminiques H1 oraux de deuxième ou troisième génération (ex: [cétirizine](https://base-donnees-publique.medicaments.gouv.fr/medicament/62005883/extrait#tab-rcp), loratadine).
 2. RA modérée à sévère (à partir de 3 ans), obstruction nasale prédominante ou échec de la 1^re^ ligne  
-  Corticothérapie intranasale (ex: béclométasone [Beconase®](https://bdpm.ansm.sante.fr/medicament/63295400/extrait#tab-rcp) 50 µg susp nasale, [Rhinomaxil®](https://bdpm.ansm.sante.fr/medicament/66958014/extrait#tab-rcp) 100 µg x 2/j, Rinoclenil®)
+  Corticothérapie intranasale (ex: béclométasone [Beconase®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63295400/extrait#tab-rcp) 50 µg susp nasale, [Rhinomaxil®](https://base-donnees-publique.medicaments.gouv.fr/medicament/66958014/extrait#tab-rcp) 100 µg x 2/j, Rinoclenil®)
 3. Contrôle insuffisant chez l'adulte: doubler la dose de corticoïdes
-4. RA non contrôlée: associer corticoïdes + antihistaminiques locaux (ou 2 en 1: [azélastine](https://bdpm.ansm.sante.fr/medicament/68576006/extrait#tab-rcp) + fluticasone [Dymista®](https://bdpm.ansm.sante.fr/medicament/60830011/extrait#tab-rcp) à partir de 12 ans) en pulvérisations nasales
+4. RA non contrôlée: associer corticoïdes + antihistaminiques locaux (ou 2 en 1: [azélastine](https://base-donnees-publique.medicaments.gouv.fr/medicament/68576006/extrait#tab-rcp) + fluticasone [Dymista®](https://base-donnees-publique.medicaments.gouv.fr/medicament/60830011/extrait#tab-rcp) à partir de 12 ans) en pulvérisations nasales
 
 -- *SFORL, SPLF*
 {{%/info%}}
 
 Éléments à savoir sur les traitements symptomatiques de la rhinite allergique:
 
-- *Prescrire* préconise d'essayer avant tout le cromoglicate de sodium 2% nasal en 1 pulv x 4-6/j ([Alairgix®](https://bdpm.ansm.sante.fr/medicament/60568235/extrait#tab-rcp) ou Cromorhinol®)
+- *Prescrire* préconise d'essayer avant tout le cromoglicate de sodium 2% nasal en 1 pulv x 4-6/j ([Alairgix®](https://base-donnees-publique.medicaments.gouv.fr/medicament/60568235/extrait#tab-rcp) ou Cromorhinol®)
 - Pas de différence d'efficacité entre les corticoïdes locaux (rhinocorticostéroïdes - RCS)
 - Pas d'efficacité des associations: antihistaminique oral + RCS, **décongestionnant** + RCS, antileucotriène + RCS
 - La survenue d'épistaxis sous corticoïdes locaux semble être liée à l'administration par la main homolatérale

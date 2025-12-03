@@ -198,24 +198,24 @@ La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordo
 
 Vaccins hépatite B à partir de 16 ans:
 
-- [Engerix B20®](https://bdpm.ansm.sante.fr/medicament/62279329/extrait#tab-rcp)  
+- [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62279329/extrait#tab-rcp)  
   Ne doit pas être injecté dans le fessier.
 - [HBVaxPro 10® (PDF)](https://ec.europa.eu/health/documents/community-register/2021/20210111150361/anx_150361_fr.pdf)
 
 - 3 doses à M0-M1-M6
-- **Schéma accéléré** par [Engerix B20®](https://bdpm.ansm.sante.fr/medicament/62279329/extrait#tab-rcp) à J0-J7-J21 et rappel à 12 mois  
+- **Schéma accéléré** par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62279329/extrait#tab-rcp) à J0-J7-J21 et rappel à 12 mois  
   Le contrôle des anti-HBs est préconisé 4-8 semaines après le rappel.
 
 ### Vaccins hépatite B pour les enfants
 
 Vaccins hépatite B chez l'enfant avant 16 ans:
 
-- [Engerix B10®](https://bdpm.ansm.sante.fr/medicament/65782652/extrait#tab-rcp)
+- [Engerix B10®](https://base-donnees-publique.medicaments.gouv.fr/medicament/65782652/extrait#tab-rcp)
 - [HBVaxPro 5®](https://ec.europa.eu/health/documents/community-register/2021/20210111150361/anx_150361_fr.pdf)
 
 #### Rattrapage de la vaccination hépatite B de 11 à 15 ans
 
-- 2 doses à M0-M6 par [Engerix B20®](https://bdpm.ansm.sante.fr/medicament/62279329/extrait#tab-rcp)  
+- 2 doses à M0-M6 par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62279329/extrait#tab-rcp)  
   Sauf risque élevé entre les 2 doses.
 - 3 doses à M0-M1-M6
 
@@ -235,7 +235,7 @@ Si prématuré < 32 semaines ou poids < 2 kg: schéma 4 doses à J0-M1-M2-M6 ave
 
 #### Patient hémodialysé ou immunodéprimé avec exposition
 
-4 doses *doubles* à M0-M1-M2-M6 par doubles [Engerix B20®](https://bdpm.ansm.sante.fr/medicament/62279329/extrait#tab-rcp) (2 injections pour 40 µg d'antigène).  
+4 doses *doubles* à M0-M1-M2-M6 par doubles [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62279329/extrait#tab-rcp) (2 injections pour 40 µg d'antigène).  
 
 ### Contre-indications à la vaccination hépatite B
 

@@ -225,7 +225,7 @@ Suivi initial toutes les 2-4 semaines jusqu'à stabilité puis tous les 3-4 mois
 
 ### Les antidépresseurs
 
-Ex: [sertraline](https://bdpm.ansm.sante.fr/medicament/65090846/extrait#tab-rcp) 25 mg/j pendant 1 semaine, puis paliers de 25-50 mg tous les 7-14 jours (max 200 mg/j)
+Ex: [sertraline](https://base-donnees-publique.medicaments.gouv.fr/medicament/65090846/extrait#tab-rcp) 25 mg/j pendant 1 semaine, puis paliers de 25-50 mg tous les 7-14 jours (max 200 mg/j)
 {.alert .alert-info}
 
 Pour une **forme sévère** ou lorsque la thérapie cognitive et comportementale (**TCC**) n'est pas envisageable, proposer un {{< modal-btn modal-isrs-tag >}}antidépresseur ISRS{{< /modal-btn >}} ou {{< modal-btn modal-irsna >}}antidépresseur IRSNA{{< /modal-btn >}} (duloxétine, venlafaxine LP).

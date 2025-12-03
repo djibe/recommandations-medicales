@@ -117,7 +117,7 @@ Indications à la prophylaxie de la conjonctivite du nouveau-né:
 
 > Si une **infection est découverte chez la mère lors de l'accouchement**: ceftriaxone 50 mg/kg (max 125 mg) dose unique (ou céfotaxime 100 mg/kg).
 
-Prophylaxie du nouveau-né si indiquée: [rifamycine](https://bdpm.ansm.sante.fr/medicament/63828371/extrait#tab-rcp) (ou [azithromycine](https://bdpm.ansm.sante.fr/medicament/69326767/extrait#tab-rcp)) collyre 1 goutte dans les 24 premières heures
+Prophylaxie du nouveau-né si indiquée: [rifamycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/63828371/extrait#tab-rcp) (ou [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/69326767/extrait#tab-rcp)) collyre 1 goutte dans les 24 premières heures
 {.alert .alert-info}
 
 {{% /collapse %}}
@@ -132,14 +132,14 @@ Allergique: sérum physio, collyre antih1, dégranulant
 ### Traitement de la conjonctivite néonatale
 
 - Prélèvement systématique
-- [Azithromycine](https://bdpm.ansm.sante.fr/medicament/69326767/extrait#tab-rcp) collyre 1 goutte matin et soir pendant 3 jours TODO:
-- ou [rifamycine](https://bdpm.ansm.sante.fr/medicament/63828371/extrait#tab-rcp) collyre 1 gte x 4-5/j pendant 7 jours
+- [Azithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/69326767/extrait#tab-rcp) collyre 1 goutte matin et soir pendant 3 jours TODO:
+- ou [rifamycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/63828371/extrait#tab-rcp) collyre 1 gte x 4-5/j pendant 7 jours
 
 Germes des IST (gonocoques, Chlamydiae) donnent des atteintes plus graves.
 
 Gonocoque (0,04 %): incubation 2-5 jours, chémosis, œdème palpébral, sécrétions séro-sanglantes puis purulentes voire perforation cornéenne. Hospitalisation.
 
-*Chlamydia* (0,1-0,2 %): incubation 5-14 jours. Initialement unilatérale, sécrétions muqueuses ou purulentes. Ciprofloxacine collyre (Ciloxan) [schéma intensif](https://bdpm.ansm.sante.fr/medicament/69501024/extrait#tab-rcp) et érythromycine 50 mg/kg/jour en 4 prises pendant 14 jours. Rechercher atteinte pulmonaire.
+*Chlamydia* (0,1-0,2 %): incubation 5-14 jours. Initialement unilatérale, sécrétions muqueuses ou purulentes. Ciprofloxacine collyre (Ciloxan) [schéma intensif](https://base-donnees-publique.medicaments.gouv.fr/medicament/69501024/extrait#tab-rcp) et érythromycine 50 mg/kg/jour en 4 prises pendant 14 jours. Rechercher atteinte pulmonaire.
 
 Dépistage des 2 parents gonocoque et Chlamydia.
 
@@ -164,9 +164,9 @@ Les conjonctivites de l'enfant sont le plus souvent bactériennes (*Haemophilus 
 
 Le traitement antibiotique ets systématique et la consultation ophtalmologique TODO:.
 
-- ==[Rifamycine](https://bdpm.ansm.sante.fr/medicament/63828371/extrait#tab-rcp) collyre 1 gte x 4/j pendant 7-10 jours==
-- [Tobramycine](https://bdpm.ansm.sante.fr/medicament/69240211/extrait#tab-rcp) collyre 1 gte x 4/j pendant 7-10 jours
-- [Azithromycine](https://bdpm.ansm.sante.fr/medicament/69326767/extrait#tab-rcp) collyre 1 goutte matin et soir pendant 3 jours
+- ==[Rifamycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/63828371/extrait#tab-rcp) collyre 1 gte x 4/j pendant 7-10 jours==
+- [Tobramycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/69240211/extrait#tab-rcp) collyre 1 gte x 4/j pendant 7-10 jours
+- [Azithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/69326767/extrait#tab-rcp) collyre 1 goutte matin et soir pendant 3 jours
 
 Voir [otite moyenne]({{% relref "otite-moyenne-aigue.md" %}}) pour le traitement d'un syndrome otite-conjonctivite.
 

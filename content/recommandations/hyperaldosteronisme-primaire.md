@@ -89,7 +89,7 @@ L'hyperaldostéronisme primaire est largement sous-diagnostiqué et sous-traité
   - Hypokaliémie (< 3,7 mmol/L ++, < 1/3 des sujets) spontanée ou induite par les diurétiques: faiblesse musculaire, tétanie
 
 > [!INFO]
-> Les alpha-bloquants ([doxazosine](https://bdpm.ansm.sante.fr/medicament/65525280/extrait#tab-rcp), prazosine, [urapidil](https://bdpm.ansm.sante.fr/medicament/66933317/extrait#tab-rcp) ...), les inhibiteurs calciques non-dihydropyridine (diltiazem, vérapamil), la [moxonidine](https://bdpm.ansm.sante.fr/medicament/68782718/extrait#tab-rcp) et l'~~hydralazine~~ ne perturbent pas les dosages de rénine/aldostérone.
+> Les alpha-bloquants ([doxazosine](https://base-donnees-publique.medicaments.gouv.fr/medicament/65525280/extrait#tab-rcp), prazosine, [urapidil](https://base-donnees-publique.medicaments.gouv.fr/medicament/66933317/extrait#tab-rcp) ...), les inhibiteurs calciques non-dihydropyridine (diltiazem, vérapamil), la [moxonidine](https://base-donnees-publique.medicaments.gouv.fr/medicament/68782718/extrait#tab-rcp) et l'~~hydralazine~~ ne perturbent pas les dosages de rénine/aldostérone.
 
 ### Examen clinique
 
@@ -103,7 +103,7 @@ L'hyperaldostéronisme primaire est largement sous-diagnostiqué et sous-traité
 {{%collapse "Examens complémentaires" %}}
 
 > [!INFO]
-> Les alpha-bloquants ([doxazosine](https://bdpm.ansm.sante.fr/medicament/65525280/extrait#tab-rcp), prazosine, [urapidil](https://bdpm.ansm.sante.fr/medicament/66933317/extrait#tab-rcp) ...), les inhibiteurs calciques non-dihydropyridine (diltiazem, vérapamil), la [moxonidine](https://bdpm.ansm.sante.fr/medicament/68782718/extrait#tab-rcp) et l'~~hydralazine~~ ne perturbent pas les dosages de rénine/aldostérone.
+> Les alpha-bloquants ([doxazosine](https://base-donnees-publique.medicaments.gouv.fr/medicament/65525280/extrait#tab-rcp), prazosine, [urapidil](https://base-donnees-publique.medicaments.gouv.fr/medicament/66933317/extrait#tab-rcp) ...), les inhibiteurs calciques non-dihydropyridine (diltiazem, vérapamil), la [moxonidine](https://base-donnees-publique.medicaments.gouv.fr/medicament/68782718/extrait#tab-rcp) et l'~~hydralazine~~ ne perturbent pas les dosages de rénine/aldostérone.
 
 ### Bilan d'une suspicion d'hyperaldostéronisme primaire
 
@@ -195,12 +195,12 @@ Considérer une consultation de génétique lorsque le patient remplit les crit�
 
 Hors chirurgie, la prise en charge de l'hyperaldostéronisme primaire consiste en une **titration** d'un antagoniste des récepteurs aux minéralocorticoïdes:
 
-- **[Spironolactone](https://bdpm.ansm.sante.fr/medicament/63145849/extrait#tab-rcp)**
+- **[Spironolactone](https://base-donnees-publique.medicaments.gouv.fr/medicament/63145849/extrait#tab-rcp)**
   - Débuter à 12,5 à 25 mg x 1/j
   - Si HTA sévère ou hypokaliémie profonde: double dose
   - Titration par paliers de 25-50 mg tous les 2-3 mois, guidée par le bilan biologique
   - Cible souvent 50-100 mg/j (max 200 mg/j)
-  - Si contre-indication: [éplérénone 25 mg](https://bdpm.ansm.sante.fr/medicament/61124589/extrait#tab-rcp) x 1-2/j (max 200 mg/j)
+  - Si contre-indication: [éplérénone 25 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/61124589/extrait#tab-rcp) x 1-2/j (max 200 mg/j)
 - Potassium: arrêter la supplémentation sous 2 à 4 jours, sous contrôle biologique
 - **Régime pauvre en sel** (< 5 g/j)
 - Information du patient: [guide Assoc. surrénales](https://www.surrenales.com/hyperaldosteronisme-syndrome-de-conn/)

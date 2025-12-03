@@ -223,7 +223,7 @@ La prise en charge et le traitement de l'algie vasculaire de la face pour les cr
 
 **Objectif du traitement:** disparition ou persistance de céphalée légère à 15 ou 30 minutes.
 
-- [Sumatriptan injectable 6 mg SC](https://bdpm.ansm.sante.fr/medicament/69485328/extrait#tab-rcp) (2 et 3 mg possibles)
+- [Sumatriptan injectable 6 mg SC](https://base-donnees-publique.medicaments.gouv.fr/medicament/69485328/extrait#tab-rcp) (2 et 3 mg possibles)
 - Dès le début de la douleur
 - Max 2 doses/24h (≥ 3 possibles par le spécialiste), espacées ≥ 1 heure
 - Essayer sur 3 crises différentes
@@ -234,7 +234,7 @@ La prise en charge et le traitement de l'algie vasculaire de la face pour les cr
 
 #### Autres triptans
 
-- [Sumatriptan spray nasal 20 mg](https://bdpm.ansm.sante.fr/medicament/67876328/extrait#tab-rcp) (hors AMM)
+- [Sumatriptan spray nasal 20 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/67876328/extrait#tab-rcp) (hors AMM)
   - Soulagement retardé à 30 minutes
   - Notamment si crise > 45 minutes ou ne tolérant pas le sumatriptan SC
   - **Effet indésirable:** goût amer
@@ -268,7 +268,7 @@ Mesures associées:
 ### Vérapamil
 
 - Prescription spécialisée
-- ==Débuter dès le début de la période douloureuse: [vérapamil 80 mg](https://bdpm.ansm.sante.fr/medicament/62607039/extrait#tab-rcp) x 3-4/j==
+- ==Débuter dès le début de la période douloureuse: [vérapamil 80 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/62607039/extrait#tab-rcp) x 3-4/j==
 - Titration: augmentation de 80 mg tous les 3-4 jours jusqu'à 480 mg (max 1000 mg)
 - Stabilisation: poursuivre la durée du cycle antérieur et jusqu'à au moins 2 semaines après la dernière crise
 - Décroissance: réduction de 120 mg tous les 15 jours jusqu'à l'arrêt

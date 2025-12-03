@@ -184,7 +184,7 @@ Recommandations générales de prise en charge de la cholangite sclérosante pri
   - Arrêt du tabac et de l'alcool
   - Correction d'un surpoids
   - Contrôle des médicaments hépatotoxiques
-- [Acide ursodésoxycholique](https://bdpm.ansm.sante.fr/medicament/68806603/extrait#tab-rcp) 15-20 mg/kg/j (AUDC)  
+- [Acide ursodésoxycholique](https://base-donnees-publique.medicaments.gouv.fr/medicament/68806603/extrait#tab-rcp) 15-20 mg/kg/j (AUDC)  
   Intérêt débattu mais les effets indésirables sont rares. Dose initiale de 13-15 mg/kg/j en 1-2 prises/j.
 - Prurit: levée d'une sténose biliaire accessible, bézafibrate (400 mg/j), rifampicine 150-600 mg/j, photothérapie UVB
 - Fatigue

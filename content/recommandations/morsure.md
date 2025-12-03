@@ -108,7 +108,7 @@ Indications à l'antibiothérapie pour morsure: suture, comorbidités (immunodé
 Antibiothérapie de l'adulte **si indiquée** (voir ci-dessus):
 
 - Prélèvements de la porte d'entrée
-- ==[Amoxicilline/acide clavulanique](https://bdpm.ansm.sante.fr/medicament/60998361/extrait#tab-rcp) 1g x 3/j pendant 5 jours==:
+- ==[Amoxicilline/acide clavulanique](https://base-donnees-publique.medicaments.gouv.fr/medicament/60998361/extrait#tab-rcp) 1g x 3/j pendant 5 jours==:
   - 7 jours si signes d'infection, pouvant être prolongée à 10 jours si vue tardivement, complication ou évolution défavorable (14 si non satisfaisant à J10)
   - Si érysipèle: complément d'amoxicilline pour arriver à 50 mg/kg/j (max 6g/j)
 - Si allergie à la pénicilline: doxycycline 100 mg x 2/j  
@@ -119,7 +119,7 @@ Antibiothérapie de l'adulte **si indiquée** (voir ci-dessus):
 
 Antibiothérapie de l'enfant si indiquée (idem ci-dessus + chat ou localisation génitale):
 
-- ==[Amoxicilline/acide clavulanique](https://bdpm.ansm.sante.fr/medicament/64550843/extrait#tab-rcp) 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 3 à 7 jours== selon l'évolution (5 jours en cas de morsure humaine)
+- ==[Amoxicilline/acide clavulanique](https://base-donnees-publique.medicaments.gouv.fr/medicament/64550843/extrait#tab-rcp) 80 mg/kg/j (max 3 g/j) en 2-3 prises pendant 3 à 7 jours== selon l'évolution (5 jours en cas de morsure humaine)
 - Si allergie à la pénicilline: doxycycline 4 mg/kg/j (max 200 mg/j) en 2 prises pendant 3 à 7 jours selon l'évolution
 - Réévaluation systématique à 48 heures (*SFMU/SPILF 2017*)
 

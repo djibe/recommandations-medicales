@@ -95,7 +95,7 @@ Aucun bilan n'est nécessaire pour les bouchons de cérumen. Un avis spécialis�
 La prise en charge des bouchons de cérumen est possible selon 4 traitements pouvant être associés:
 
 - Mesures d'hygiènes seules et contrôle
-- Agents céruménolytiques: xylène ([Cérulyse 5%](https://bdpm.ansm.sante.fr/medicament/69170503/extrait#tab-rcp)) 1 bain d'oreille x 3/j pendant 3-5 jours (seule spécialité en France)  
+- Agents céruménolytiques: xylène ([Cérulyse 5%](https://base-donnees-publique.medicaments.gouv.fr/medicament/69170503/extrait#tab-rcp)) 1 bain d'oreille x 3/j pendant 3-5 jours (seule spécialité en France)  
   Contre-indiqué avant 3 ans et en cas de perforation tympanique. Alternative: sérum physiologique.
 - Irrigation du conduit auditif  
   À l'eau chaude. Éviter en cas d'otite externe, chirurgie de l'oreille ou ATT, immunodépression et chez le diabétique.

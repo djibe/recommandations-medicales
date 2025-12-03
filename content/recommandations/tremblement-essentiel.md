@@ -112,9 +112,9 @@ Le DAT-scan (ou DaTscan, SPECT au bêta-CIT) peut être prescrit par le neurolog
 
 Les traitements de première intention sont:
 
-- **propranolol** LI (40 mg x 2-3/j, max 360 mg/j) ou [LP](https://bdpm.ansm.sante.fr/medicament/65667550/extrait#tab-rcp) (80 à 320 mg/j, hors AMM)  
+- **propranolol** LI (40 mg x 2-3/j, max 360 mg/j) ou [LP](https://base-donnees-publique.medicaments.gouv.fr/medicament/65667550/extrait#tab-rcp) (80 à 320 mg/j, hors AMM)  
   Paliers possibles tous les 7 jours.
-- **[primidone](https://bdpm.ansm.sante.fr/medicament/65201684/extrait#tab-rcp)** 25-750 mg/j (Mysoline, hors AMM, dosage adapté de 250 mg/j)
+- **[primidone](https://base-donnees-publique.medicaments.gouv.fr/medicament/65201684/extrait#tab-rcp)** 25-750 mg/j (Mysoline, hors AMM, dosage adapté de 250 mg/j)
 
 En cas de contre-indication au propranolol, utiliser un bêtabloquant sélectif: aténolol 100 mg/j.
 

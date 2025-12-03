@@ -249,7 +249,7 @@ Les anti-androgènes sont indiqués pour la prise en charge de l'[hirsutisme]({{
 - Si [contraception œstroprogestative]({{% relref "contraception.md" %}}) insuffisante à 6 mois: en bithérapie
 - Si contraception œstroprogestative mal tolérée: en monothérapie
 
-Préférer la [spironolactone](https://bdpm.ansm.sante.fr/medicament/63145849/extrait#tab-rcp) 25-100 mg/j (contre-indiquée pendant la grossesse - [CRAT](https://www.lecrat.fr/11555/) et contraception efficace nécessaire).
+Préférer la [spironolactone](https://base-donnees-publique.medicaments.gouv.fr/medicament/63145849/extrait#tab-rcp) 25-100 mg/j (contre-indiquée pendant la grossesse - [CRAT](https://www.lecrat.fr/11555/) et contraception efficace nécessaire).
 
 ### Metformine et SOPK
 
@@ -264,7 +264,7 @@ Un **suivi spécialisé** gynécologique est nécessaire en cas d'infertilité l
 
 ### Inducteurs d'ovulation pour le SOPK
 
-Le [létrozole](https://bdpm.ansm.sante.fr/medicament/69489312/extrait#tab-rcp) 2,5 mg/j (anti-aromatase) est le traitement de première intention en l'absence d'autre facteur d'infertilité associé.
+Le [létrozole](https://base-donnees-publique.medicaments.gouv.fr/medicament/69489312/extrait#tab-rcp) 2,5 mg/j (anti-aromatase) est le traitement de première intention en l'absence d'autre facteur d'infertilité associé.
 {.alert .alert-info}
 
 Informations sur le traitement du SOPK par létrozole:
@@ -283,7 +283,7 @@ Informer que d'autres traitements sont plus efficaces pour la prise en charge de
 
 #### Citrate de clomifène
 
-En cas d'infertilité par anovulation isolée, le [citrate de clomifène](https://bdpm.ansm.sante.fr/medicament/65338028/extrait#tab-rcp) (Clomid®) pourrait être utilisé de façon exclusive ou associé à la metformine.
+En cas d'infertilité par anovulation isolée, le [citrate de clomifène](https://base-donnees-publique.medicaments.gouv.fr/medicament/65338028/extrait#tab-rcp) (Clomid®) pourrait être utilisé de façon exclusive ou associé à la metformine.
 
 Risque de **grossesse multiple** sous clomifène (possible suivi échographique).
 

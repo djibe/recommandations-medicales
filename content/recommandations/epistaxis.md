@@ -120,7 +120,7 @@ La prise en charge recommandée d'une épistaxis débute par une ==**compression
 
 Lorsqu'ils sont disponibles, les traitements complémentaires sont réalisés dans l'ordre suivant en cas d'échec chez un patient stable:
 
-- Vasoconstricteurs: oxymétazoline spray nasal ([Aturgyl®](https://bdpm.ansm.sante.fr/medicament/63581266/extrait#tab-rcp), Pernazène®), phényléphrine (voire adrénaline), acide tranexamique possible
+- Vasoconstricteurs: oxymétazoline spray nasal ([Aturgyl®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63581266/extrait#tab-rcp), Pernazène®), phényléphrine (voire adrénaline), acide tranexamique possible
 - Tamponnement nasal antérieur
   - Conservé au moins 48-72 heures (maximum 5 jours); avec application de xylocaïne
   - Si enfant, coagulopathie, anticoagulation ou antiagrégants plaquettaires: mèches résorbables avec antibiothérapie par amoxicilline/acide clavulanique pendant le méchage + 5 jours (clarithromycine si allergie)

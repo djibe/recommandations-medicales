@@ -140,11 +140,11 @@ Recommandations pour la prise en charge par antibiotiques de l'otite moyenne aig
 
 Antibiothérapie systématique pendant ==**10 jours**==:
 
-- ==[Amoxicilline](https://bdpm.ansm.sante.fr/medicament/66773446/extrait#tab-rcp) 80 mg/kg/j en **2 prises**== (max 3 g/j)
+- ==[Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/medicament/66773446/extrait#tab-rcp) 80 mg/kg/j en **2 prises**== (max 3 g/j)
 - Syndrome otite-conjonctivite: amoxicilline/acide clavulanique 1,5 dose/kg x 2/j (80 mg/kg/j en 2 prises)
 - Si allergie:
-  - documentée aux pénicillines: [céfpodoxime](https://bdpm.ansm.sante.fr/medicament/67932983/extrait#tab-rcp) 8 mg/kg/j en 2 prises (max 400 mg/j)
-  - aux bêta-lactamines: [triméthoprime-sulfaméthoxazole](https://bdpm.ansm.sante.fr/medicament/69464049/extrait#tab-rcp) 6/30 mg/kg/j en 2 prises (max 160/800 mg/j)
+  - documentée aux pénicillines: [céfpodoxime](https://base-donnees-publique.medicaments.gouv.fr/medicament/67932983/extrait#tab-rcp) 8 mg/kg/j en 2 prises (max 400 mg/j)
+  - aux bêta-lactamines: [triméthoprime-sulfaméthoxazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/69464049/extrait#tab-rcp) 6/30 mg/kg/j en 2 prises (max 160/800 mg/j)
 
 #### Otite moyenne aiguë de l'enfant de plus de 2 ans
 

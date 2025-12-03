@@ -179,7 +179,7 @@ Application 1 à **2 fois/j** au long cours en couche épaisse après le bain (1
 
 - Niveau 1  
   - Émollients: lait, gel, crème ou pommade
-  - Seul remboursé en France: [Glycérol/Vaseline/Paraffine 15%/8%/2% crème](https://bdpm.ansm.sante.fr/medicament/62395668/extrait#tab-rcp).
+  - Seul remboursé en France: [Glycérol/Vaseline/Paraffine 15%/8%/2% crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/62395668/extrait#tab-rcp).
 - Niveau 2: Préparation*  
   Glycérolé d'amidon 35 g + Cold Cream Fluide 300 mL sur tout le corps (*CHRU Lille*)
 - Niveau 3: Cérat de Galien ou préparation*:  
@@ -221,7 +221,7 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
 - Encourager l'[allaitement maternel]({{% relref "allaitement.md" %}}) exclusif +3 mois
 - Information du patient: [appli HappyReso](https://www.happyreso.fr), [guide Dermato-Info](https://dermato-info.fr/les-maladies-de-la-peau/dermatite-atopique), [guide SFD (PDF)](https://www.sfdermato.org/upload/fiche/etfad-great-version-france-22o32019-dd00991406282f168b08aec43c3798f0.pdf)
 
-**NB.** Les anti-histaminiques ont << un intérêt très limité dans la dermatite atopique >> (*EADV* et Pr D. Staumont *Dermato-Info*) car sans efficacité sur le prurit. En visée sédative, recours à l'[hydroxyzine](https://bdpm.ansm.sante.fr/medicament/61162294/extrait#tab-rcp).
+**NB.** Les anti-histaminiques ont << un intérêt très limité dans la dermatite atopique >> (*EADV* et Pr D. Staumont *Dermato-Info*) car sans efficacité sur le prurit. En visée sédative, recours à l'[hydroxyzine](https://base-donnees-publique.medicaments.gouv.fr/medicament/61162294/extrait#tab-rcp).
 
 Acupuncture, homéopathie et phytothérapie sont déconseillées par la *SFD* et l'*EDF*; absence d'efficacité des eaux thermales.
 {.alert .alert-warning}

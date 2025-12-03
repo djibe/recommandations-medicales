@@ -198,16 +198,16 @@ Les traitements locaux du psoriasis (dermocorticoïdes et analogues de la vitami
 {{< modal-btn modal-dc >}}Tableau des dermocorticoïdes et leurs consignes d'utilisation{{< /modal-btn >}}
 {.alert .alert-info}
 
-Exemple pour le cuir chevelu en cas de squames: [Diprosalic® lotion](https://bdpm.ansm.sante.fr/medicament/64435022/extrait#tab-rcp) x 2/j pendant 1-2 semaines, puis espacer en traitement d'entretien.
+Exemple pour le cuir chevelu en cas de squames: [Diprosalic® lotion](https://base-donnees-publique.medicaments.gouv.fr/medicament/64435022/extrait#tab-rcp) x 2/j pendant 1-2 semaines, puis espacer en traitement d'entretien.
 
 #### Analogues de la vitamine D3
 
 {{%info%}}
 Les analogues de la vitamine D3 peuvent être combinés en ne dépassant pas 100g de topique par semaine:
 
-- Calcitriol pommade ([Silkis®](https://bdpm.ansm.sante.fr/medicament/62597239/extrait#tab-rcp)) x 2/j
+- Calcitriol pommade ([Silkis®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62597239/extrait#tab-rcp)) x 2/j
 - Calcipotriol + bétaméthasone x 1/j  
-  Gel (cuir chevelu, corps): Closalis®, Daivobet®, Xamio® | pommade (corps): [gén](https://bdpm.ansm.sante.fr/medicament/63038758/extrait#tab-rcp), Daivobet®, Daivonex® | mousse: Enstillar® (possibles pendant la grossesse, [CRAT](https://www.lecrat.fr/10888/)).
+  Gel (cuir chevelu, corps): Closalis®, Daivobet®, Xamio® | pommade (corps): [gén](https://base-donnees-publique.medicaments.gouv.fr/medicament/63038758/extrait#tab-rcp), Daivobet®, Daivonex® | mousse: Enstillar® (possibles pendant la grossesse, [CRAT](https://www.lecrat.fr/10888/)).
 
 Traitement continu pendant **maximum 4 semaines** puis **traitement d'entretien x 2/semaine**.
 {{%/info%}}
@@ -222,7 +222,7 @@ L'acide salicylique est utile en courte durée pour son action kératolytique. N
 
 **Spécialités:** Coricide le diable® 11g/100g, préparation magistrale (ex: acide salicylique 10 g + huile de cade 10 g + Cold cream sqp 200 g).
 
-Association dermocorticoïde fort + acide salicylique: [Diprosalic® pommade](https://bdpm.ansm.sante.fr/medicament/66707065/extrait#tab-rcp) (ou lotion).
+Association dermocorticoïde fort + acide salicylique: [Diprosalic® pommade](https://base-donnees-publique.medicaments.gouv.fr/medicament/66707065/extrait#tab-rcp) (ou lotion).
 
 ### Traitements généraux du psoriasis modéré à sévère
 
