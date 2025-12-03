@@ -52,7 +52,7 @@ const noResults = document.getElementById('no-results');
 // Afficher la liste des libellés
 data.forEach(item => {
   const a = document.createElement('a');
-  if ('procedure' in item) {
+  if (item.procedure === 'Procédure centralisée') {
     a.href = `https://base-donnees-publique.medicaments.gouv.fr/medicament/${item.cis}/extrait#tab-rcp-et-notice`;
   } else {
     a.href = `https://base-donnees-publique.medicaments.gouv.fr/medicament/${item.cis}/extrait#tab-rcp`;
