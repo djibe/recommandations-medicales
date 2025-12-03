@@ -145,7 +145,7 @@ Vaccins à réaliser avant voire après une splénectomie.
 | *H. influenzae* | ACT-HIB® dose unique (hors AMM) |               |
 | Méningocoque ACWY | Menquadfi®, Menveo® (sans aiguille) ou Nimenrix® à M0-M6 | Tous les 5 ans |
 | Méningocoque B  | Bexsero®, Trumenba® à M0 et M2 | Tous les 5 ans |
-| {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}} | Ancien schéma Prevenar13® et Pneumovax® | Capvaxive® ou<br>Prevenar20® à 5 ans |
+| {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}} | Ancien schéma Prevenar13® et Pneumovax® | Capvaxive® ou<br>Prevenar 20® à 5 ans |
 {{< /table >}}
 
 > << L'asplénie en elle même ne contre indique pas l'utilisation des vaccins vivants. >> -- *CEREDIH*
