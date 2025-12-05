@@ -51,6 +51,10 @@ Rappels sur le diabète gestationnel:
 - 18% des femmes avec un diabète gestationnel développeront un diabète de type 2 dans les 6 ans (*Diagest2*)
 - Le diabète gestationnel ne modifie pas l'incidence des asphyxies néonatales, décès périnataux et hypocalcémies néonatales
 
+### Incidence du diabète gestationnel
+
+{{< odisse title="Taux de diabète gestationnel selon l'âge (France)" loading="lazy" url="https://odisse.santepubliquefrance.fr/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiJ5ZWFyIiwicXVlcmllcyI6W3siY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoic3BsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidHhfZGdfZGNpciIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6InJhbmdlLWN1c3RvbSIsImRpc3BsYXlWYWx1ZXMiOmZhbHNlfV0sImNvbmZpZyI6eyJkYXRhc2V0IjoiZGlhYmV0ZS1nZXN0YXRpb25uZWwtb2Jlc2l0ZS1tb3JiaWRlLWZyYW5jZSIsIm9wdGlvbnMiOnt9fSwieEF4aXMiOiJhbm5lZSIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6InllYXIiLCJzb3J0IjoiIiwic2VyaWVzQnJlYWtkb3duIjoiY2xhZ2UzNSIsImNhdGVnb3J5Q29sb3JzIjp7IjM1IGFucyBldCBwbHVzIjoiIzFkYzE5OCIsIk1vaW5zIGRlIDM1IGFucyI6IiNlODc1MDAiLCJUb3VzIFx1MDBFMmdlcyI6IiM0MTUwZjUifX1dLCJhbGlnbk1vbnRoIjp0cnVlLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJzaW5nbGVBeGlzIjp0cnVlLCJzY2llbnRpZmljRGlzcGxheSI6ZmFsc2UsInlSYW5nZU1pbiI6IjAifQ%3D%3D" >}}
+
 ### Abréviations
 
 ADO

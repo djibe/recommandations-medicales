@@ -1,0 +1,52 @@
+<div class="card card-util mw-280 my-4" style="overflow:hidden;width: 280px;" id="chart-1"></div>
+<script>
+  const chartOptions1 = {
+      series: [{
+        name: "Cas hebdomadaires",
+        data: []
+      }],
+      xaxis: {
+        categories: [],
+        type: 'category',
+        labels: {show: true},
+      },
+      chart: {
+        //height: 200,
+        //width: 220,
+        type: 'area',
+        sparkline: {
+          enabled: true
+        },
+      },
+      markers: { size: 0 },
+      stroke: {
+        colors: ['#4150f5'],
+        curve: 'straight',
+        width: 3,
+        colors: ['#4150f5']
+      },
+      fill: { opacity: 0.3 },
+      title: { text: 'Bronchiolites' },
+      subtitle: { text: 'Passages aux Urgences (OSCOUR)' },
+      yaxis: { min: 0, decimalsInFloat: 0 },
+      tooltip: { x: { formatter: function (value, { w }) { return `Semaine ${w.globals.categoryLabels[value - 1]}`; }}}
+    }
+async function fetchBronchioData() {
+  try {
+    const response = await fetch("https://odisse.santepubliquefrance.fr/api/explore/v2.1/catalog/datasets/bronchiolite-passages-aux-urgences-et-actes-sos-medecins-france/records?select=semaine%2C%20taux_passages_bronchio_sau&order_by=semaine%20desc&limit=100&timezone=UTC&include_links=false&include_app_metas=false");
+    if (!response.ok) {
+      throw new Error(`Erreur HTTP : ${response.status}`);
+    }
+    const json = await response.json();
+    const data = json.results.map(item => item.taux_passages_bronchio_sau).reverse();
+    const week = json.results.map(item => item.semaine).reverse();
+    //console.log(week);
+    chartOptions1.series[0].data = data;
+    chartOptions1.xaxis.categories = week;
+    console.log(chartOptions1.xaxis.categories);
+  } catch (error) {
+    console.error("Erreur lors de la récupération des données:", error);
+  }
+}
+fetchBronchioData();
+</script>

@@ -33,6 +33,9 @@ todo = "flow"
 Chapitres liés: [éruption fébrile](/tags/eruption-febrile/)
 
 {{%/article-summary%}}
+
+{{< odisse title="Cas de rougeole par déclaration obligatoire (France)" url="https://odisse.santepubliquefrance.fr/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiJ5ZWFyIiwicXVlcmllcyI6W3siY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoic3BsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoicm91Iiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzQxNTBmNSJ9XSwiY29uZmlnIjp7ImRhdGFzZXQiOiJyb3VnZW9sZS1kb25uZWVzLWRlY2xhcmF0aW9uLW9ibGlnYXRvaXJlIiwib3B0aW9ucyI6e319LCJ4QXhpcyI6ImFubmVlIiwibWF4cG9pbnRzIjoiIiwidGltZXNjYWxlIjoieWVhciIsInNvcnQiOiIifV0sImFsaWduTW9udGgiOnRydWUsImRpc3BsYXlMZWdlbmQiOmZhbHNlLCJzaW5nbGVBeGlzIjp0cnVlLCJzY2llbnRpZmljRGlzcGxheSI6ZmFsc2UsInlSYW5nZU1pbiI6IjAifQ%3D%3D" >}}
+
 {{%collapse "Définition" %}}
 
 Rougeole

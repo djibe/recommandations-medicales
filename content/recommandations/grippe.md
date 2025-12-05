@@ -32,58 +32,7 @@ chart = true
 
 {{%/article-summary%}}
 
-<div class="card card-util mw-280 my-4" style="overflow:hidden;width: 280px;" id="chart-1"></div>
-<script>
-  const chartOptions1 = {
-      series: [{
-        name: "Cas",
-        data: []
-      }],
-      xaxis: {
-        categories: []
-      },
-      chart: {
-        //height: 200,
-        //width: 220,
-        type: 'area',
-        sparkline: {
-          enabled: true
-        },
-      },
-      markers: { size: 0 },
-      stroke: {
-        colors: ['#4150f5'],
-        curve: 'straight',
-        width: 3,
-        colors: ['#4150f5']
-      },
-      fill: { opacity: 0.3 },
-      title: { text: 'Syndromes grippaux' },
-      subtitle: { text: 'Cas hebdomadaires (Sentinelles)' },
-      yaxis: { min: 0 },
-      tooltip: { x: { formatter: function (value, { w }) { return `Semaine ${w.globals.categoryLabels[value - 1]}`; }}}
-    }
-async function fetchSentiwebData() {
-  try {
-    const response = await fetch("https://www.sentiweb.fr/api/v1/datasets/rest/dataset?id=inc-3-PAY&span=short");
-    if (!response.ok) {
-      throw new Error(`Erreur HTTP : ${response.status}`);
-    }
-    const json = await response.json();
-    const data = json.data.map(item => item.inc).reverse();
-    const week = json.data.map(item => {
-      const str = String(item.week);
-      return str.slice(-2);
-    }).reverse();
-    chartOptions1.series[0].data = data;
-    chartOptions1.xaxis.categories = week;
-  } catch (error) {
-    console.error("Erreur lors de la récupération des données:", error);
-  }
-}
-fetchSentiwebData();
-chart.render();
-</script>
+{{< widgets/grippe >}}
 
 {{%collapse "Définitions" %}}
 

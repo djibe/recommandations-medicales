@@ -1,7 +1,10 @@
 
-<figure class="card my-4" style="width: 400px;height: 300px">
+<figure class="card my-4" style="width: 400px;height: 300px"
+{{ with .Get "loading"}}loading="{{ . }}"{{ end }}>
   <iframe src="{{ with .Get "url" }}{{ . }}{{ end }}"
-  width="400" height="300" frameborder="0">
+  width="{{ with .Get "width" }}{{ . }}{{ else -}} 400 {{ end }}"
+  height="{{ with .Get "height" }}{{ . }}{{ else -}} 300 {{ end }}"
+  frameborder="0">
   </iframe>
   {{ with .Get "title" }}<figcaption class="px-2 mb-2"><b>Figure.</b> {{ . | markdownify }}.</figcaption>{{end}}
 </figure>

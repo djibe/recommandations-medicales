@@ -30,6 +30,9 @@ datatable = true
 - [Maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}})
 
 {{%/article-summary%}}
+
+{{< odisse title="Incidence de la tuberculose (cas notifiés en France)" url="https://odisse.santepubliquefrance.fr/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiJ5ZWFyIiwicXVlcmllcyI6W3siY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoic3BsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidGJfbmJfY2FzIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzQxNTBmNSJ9XSwiY29uZmlnIjp7ImRhdGFzZXQiOiJ0dWJlcmN1bG9zZS1kb25uZWVzLWRlY2xhcmF0aW9uLW9ibGlnYXRvaXJlX2ZyYSIsIm9wdGlvbnMiOnt9fSwieEF4aXMiOiJhYWFhIiwibWF4cG9pbnRzIjoiIiwidGltZXNjYWxlIjoieWVhciIsInNvcnQiOiIifV0sImFsaWduTW9udGgiOnRydWUsImRpc3BsYXlMZWdlbmQiOmZhbHNlLCJzaW5nbGVBeGlzIjp0cnVlLCJzY2llbnRpZmljRGlzcGxheSI6ZmFsc2UsInlSYW5nZU1pbiI6IjAifQ%3D%3D" >}}
+
 {{%collapse "Dépistage de la tuberculose" %}}
 
 > [!INFO]
