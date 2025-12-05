@@ -88,6 +88,7 @@ User-agent: meta-externalfetcher
 User-agent: Meta-ExternalFetcher
 User-agent: meta-webindexer
 User-agent: mirrorweb
+User-agent: MistralAI-User
 User-agent: MJ12bot
 User-agent: MyCentralAIScraperBot
 User-agent: netarkivindsamling
