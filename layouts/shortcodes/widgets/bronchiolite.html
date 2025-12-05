@@ -1,6 +1,6 @@
 <div class="card card-util mw-280 my-4" style="overflow:hidden;width: 280px;" id="chart-1"></div>
 <script>
-  const chartOptions1 = {
+  let chartOptions1 = {
       series: [{
         name: "Cas hebdomadaires",
         data: []
@@ -40,13 +40,12 @@ async function fetchBronchioData() {
     const json = await response.json();
     const data = json.results.map(item => item.taux_passages_bronchio_sau).reverse();
     const week = json.results.map(item => item.semaine).reverse();
-    //console.log(week);
     chartOptions1.series[0].data = data;
     chartOptions1.xaxis.categories = week;
-    console.log(chartOptions1.xaxis.categories);
   } catch (error) {
     console.error("Erreur lors de la récupération des données:", error);
   }
 }
 fetchBronchioData();
+//chart1.updateOptions(chartOptions1)
 </script>
