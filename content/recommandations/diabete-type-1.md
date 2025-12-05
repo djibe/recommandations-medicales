@@ -15,7 +15,7 @@ sources = ["ESC", "EASD", "ADA", "SFD"]
 tags = ["coeliaque", "diabète", "risque cardiovasculaire", "insuline", "SAS", "rétinopathie", "néphropathie", "neuropathie", "vaccin"]
 english = ["Diabetes mellitus type 1"]
 sctid = "46635009"
-icd10 = ["E10", "E10.9"]
+icd10 = []
 image = true
 imageSrc = "Illustration du diabète type 1 par macrovector / Freepik"
 todo = "A REPRENDRE +++, EASD 2021 Fig 1 | Table 5, SFD capteur, glucagon, ADA 2023 p.8+, hypoglycémie Gold and Clarke questionnaires showing a score equal or above 4 are indicative of IAH (100, 103)"
@@ -23,6 +23,8 @@ flowchart = true
 +++
 
 {{%article-summary%}}
+
+Cette page ne respecte pas la charte qualité et devra être améliorée.
 
 - Sevrage tabagique primordial
 - Points vitaux obligatoires (voir plus bas)
