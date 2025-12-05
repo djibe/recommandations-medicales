@@ -131,6 +131,8 @@ Aide au choix de l'antibiothérapie pour pneumonie aiguë communautaire non grav
 </div>
 </div>
 
+{{< odisse title="Taux de passage aux urgences pour pneumopathie (France)" url="https://odisse.santepubliquefrance.fr/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiJ5ZWFyIiwicXVlcmllcyI6W3siY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoic3BsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidGF1eF9wYXNzYWdlc19wbmV1bW9wYXRoaWVfc2F1Iiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzQxNTBmNSJ9XSwiY29uZmlnIjp7ImRhdGFzZXQiOiJwbmV1bW9wYXRoaWUtcGFzc2FnZXMtYXV4LXVyZ2VuY2VzLWV0LWFjdGVzLXNvcy1tZWRlY2lucy1mcmFuY2UiLCJvcHRpb25zIjp7fX0sInhBeGlzIjoiZGF0ZV9jb21wbGV0IiwibWF4cG9pbnRzIjpudWxsLCJ0aW1lc2NhbGUiOiJtb250aCIsInNvcnQiOiIifV0sImFsaWduTW9udGgiOnRydWUsImRpc3BsYXlMZWdlbmQiOmZhbHNlLCJzaW5nbGVBeGlzIjp0cnVlLCJzY2llbnRpZmljRGlzcGxheSI6ZmFsc2UsInlSYW5nZU1pbiI6IjAifQ%3D%3D" >}}
+
 {{%collapse "Définition" %}}
 
 Pneumonie aiguë communautaire (PAC)

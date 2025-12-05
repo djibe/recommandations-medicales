@@ -17,7 +17,7 @@ sctid = "6142004"
 icd10 = ["J09", "J10", "J11"]
 image = true
 imageSrc = "Particules de virus grippal H1N1 en microscopie électronique: les protéines de surface sont en noir. NIAID, CC BY 2.0 via Wikimedia Commons"
-todo = "SEO, flowchart, grippe grossesse"
+todo = "SEO, flowchart, grippe grossesse | Autres stats: Odisse"
 flowchart = true
 chart = true
 +++

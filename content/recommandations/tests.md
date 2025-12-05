@@ -23,24 +23,6 @@ datatable = false
 chart = true
 +++
 
-Bronchiolite
-
-<div class="card" style="width: 400px;height: 300px">
-<iframe src="https://odisse.santepubliquefrance.fr/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiJ5ZWFyIiwicXVlcmllcyI6W3siY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoibGluZSIsImZ1bmMiOiJBVkciLCJ5QXhpcyI6InRhdXhfcGFzc2FnZXNfYnJvbmNoaW9fc2F1Iiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzA3NTU5RiJ9XSwiY29uZmlnIjp7ImRhdGFzZXQiOiJicm9uY2hpb2xpdGUtcGFzc2FnZXMtYXV4LXVyZ2VuY2VzLWV0LWFjdGVzLXNvcy1tZWRlY2lucy1mcmFuY2UiLCJvcHRpb25zIjp7fX0sInhBeGlzIjoiZGF0ZV9jb21wbGV0IiwibWF4cG9pbnRzIjoiIiwidGltZXNjYWxlIjoibW9udGgiLCJzb3J0IjoiIn1dLCJhbGlnbk1vbnRoIjp0cnVlLCJkaXNwbGF5TGVnZW5kIjp0cnVlfQ%3D%3D&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
-</div>
-
-Asthme
-
-<div class="card" style="width: 400px;height: 300px">
-<iframe src="https://odisse.santepubliquefrance.fr/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiJ5ZWFyIiwicXVlcmllcyI6W3siY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoibGluZSIsImZ1bmMiOiJBVkciLCJ5QXhpcyI6InRhdXhfcGFzc2FnZXNfYXN0aG1lX3NhdSIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiMwNzU1OUYifV0sImNvbmZpZyI6eyJkYXRhc2V0IjoiYXN0aG1lLXBhc3NhZ2VzLWF1eC11cmdlbmNlcy1ldC1hY3Rlcy1zb3MtbWVkZWNpbnMtZGVwIiwib3B0aW9ucyI6e319LCJ4QXhpcyI6ImRhdGVfY29tcGxldCIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6Im1vbnRoIiwic29ydCI6IiJ9XSwiYWxpZ25Nb250aCI6dHJ1ZSwiZGlzcGxheUxlZ2VuZCI6dHJ1ZX0%3D&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
-</div>
-
-Grippe
-
-<div class="card" style="width: 400px;height: 300px">
-<iframe src="https://odisse.santepubliquefrance.fr/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiJ5ZWFyIiwicXVlcmllcyI6W3siY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoibGluZSIsImZ1bmMiOiJBVkciLCJ5QXhpcyI6InRhdXhfcGFzc2FnZXNfZ3JpcHBlX3NhdSIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiNBRjAwN0MifV0sImNvbmZpZyI6eyJkYXRhc2V0IjoiZ3JpcHBlLXBhc3NhZ2VzLWF1eC11cmdlbmNlcy1ldC1hY3Rlcy1zb3MtbWVkZWNpbnMtZnJhbmNlIiwib3B0aW9ucyI6e319LCJ4QXhpcyI6ImRhdGVfY29tcGxldCIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6Im1vbnRoIiwic29ydCI6IiJ9XSwiYWxpZ25Nb250aCI6dHJ1ZSwiZGlzcGxheUxlZ2VuZCI6dHJ1ZX0%3D&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
-</div>
-
 <!-- Formulaire de saisie -->
 <form id="score-form">
   <!-- Sexe -->

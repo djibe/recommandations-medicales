@@ -34,6 +34,9 @@ Page servant uniquement à stocker quelques mémos.
 << L'immunité naturelle, celle que l'on acquiert après une infection procure en générale une bonne protection. Ce n'est pas le cas avec le Sars-Cov2, non seulement l'immunité naturelle ne semble pas très efficace mais le virus éroderait notre système immunitaire. De plus, les réinfections augmenteraient le risque de séquelles à long terme. >> -- *Pr Rémi Salomon 16/07/2022*
 
 {{%/article-summary%}}
+
+{{< odisse title="Surveillance COVID-19 des eaux usées (France)" url="https://odisse.santepubliquefrance.fr/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiJ5ZWFyIiwicXVlcmllcyI6W3siY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoic3BsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoibWVzdXJlIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzQxNTBmNSJ9XSwiY29uZmlnIjp7ImRhdGFzZXQiOiJzdW0tZWF1LWluZGljYXRldXJzIiwib3B0aW9ucyI6e319LCJ4QXhpcyI6ImRhdGVfY29tcGxldCIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6Im1vbnRoIiwic29ydCI6IiJ9XSwiYWxpZ25Nb250aCI6dHJ1ZSwiZGlzcGxheUxlZ2VuZCI6ZmFsc2UsInNpbmdsZUF4aXMiOnRydWUsInNjaWVudGlmaWNEaXNwbGF5IjpmYWxzZSwieVJhbmdlTWluIjoiMCJ9" >}}
+
 {{%collapse "Définitions" %}}
 
 CoViD-19 (la)

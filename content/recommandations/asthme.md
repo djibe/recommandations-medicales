@@ -127,6 +127,8 @@ Stade 5 = suivi en ==centre de référence== de l'asthme uniquement
 </div>
 </div>
 
+{{< odisse title="Taux de passage aux urgences pour asthme (France)" url="https://odisse.santepubliquefrance.fr/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiJ5ZWFyIiwicXVlcmllcyI6W3siY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoic3BsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidGF1eF9wYXNzYWdlc19hc3RobWVfc2F1Iiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzQxNTBmNSJ9XSwiY29uZmlnIjp7ImRhdGFzZXQiOiJhc3RobWUtcGFzc2FnZXMtYXV4LXVyZ2VuY2VzLWV0LWFjdGVzLXNvcy1tZWRlY2lucy1mcmFuY2UiLCJvcHRpb25zIjp7fX0sInhBeGlzIjoiZGF0ZV9jb21wbGV0IiwibWF4cG9pbnRzIjoiIiwidGltZXNjYWxlIjoibW9udGgiLCJzb3J0IjoiIn1dLCJhbGlnbk1vbnRoIjp0cnVlLCJkaXNwbGF5TGVnZW5kIjpmYWxzZSwic2luZ2xlQXhpcyI6dHJ1ZSwic2NpZW50aWZpY0Rpc3BsYXkiOmZhbHNlLCJ5UmFuZ2VNaW4iOiIwIn0%3D" >}}
+
 {{%collapse "Définitions" %}}
 
 Asthme

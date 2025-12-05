@@ -34,6 +34,9 @@ todo = "rankok | SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/
 - [Bronchiolite: conseils aux parents HAS (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
 
 {{%/article-summary%}}
+
+{{< odisse title="Taux de passage aux urgences pour bronchiolite (France)" url="https://odisse.santepubliquefrance.fr/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiJ5ZWFyIiwicXVlcmllcyI6W3siY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoic3BsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidGF1eF9wYXNzYWdlc19icm9uY2hpb19zYXUiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjNDE1MGY1In1dLCJjb25maWciOnsiZGF0YXNldCI6ImJyb25jaGlvbGl0ZS1wYXNzYWdlcy1hdXgtdXJnZW5jZXMtZXQtYWN0ZXMtc29zLW1lZGVjaW5zLWZyYW5jZSIsIm9wdGlvbnMiOnt9fSwieEF4aXMiOiJkYXRlX2NvbXBsZXQiLCJtYXhwb2ludHMiOiIiLCJ0aW1lc2NhbGUiOiJtb250aCIsInNvcnQiOiIifV0sImFsaWduTW9udGgiOnRydWUsImRpc3BsYXlMZWdlbmQiOmZhbHNlLCJzaW5nbGVBeGlzIjp0cnVlLCJzY2llbnRpZmljRGlzcGxheSI6ZmFsc2UsInlSYW5nZU1pbiI6IjAifQ%3D%3D" >}}
+
 {{%collapse "Définitions" %}}
 
 Bronchiolite aiguë (BA)
