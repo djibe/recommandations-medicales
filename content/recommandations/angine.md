@@ -273,7 +273,7 @@ graph TB
 - [CMIT. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 149. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-149-web.pdf)
 - [GPIP, SFP, AFPA, SPILF. Conduite à tenir autour d'un cas d'infection invasive à Streptocoque du Groupe A. 2022. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/communiques/conduite-a-tenir-cas-contact-infections-invasives-a-sgadef.pdf)
 - [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
-- [Cohen J, Cohen R; SFP. Angine. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pediatrie-generale/angine)
+- [Cohen J, Cohen R; SFP. Angine. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pap-detail/hc6t)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Angines. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/angines)
 - {{< references/spilf-2020 >}}
 - [Lescanne E, et al. Amygdalectomie de l'enfant Actualisation 2020 de la recommandation SFORL & CFC. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2021/11/Recommandation-SFORL-Amygdalectomie_2021.pdf)
