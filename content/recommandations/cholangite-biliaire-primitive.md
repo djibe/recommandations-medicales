@@ -190,7 +190,7 @@ Effets indésirables rares (< 5%): diarrhées, épigastralgies.
 
 Autres traitements possibles:
 
-- De la CBP: bézafibrate (BZF), ~~acide obéticholique~~ (AOC en AAC)
+- De la CBP: bézafibrate (BZF), ~~acide obéticholique~~ (AMM retirée)
 - Du prurit: **[cholestyramine](https://base-donnees-publique.medicaments.gouv.fr/medicament/65691327/extrait#tab-rcp)** (Questran® 4-16 g/j) > rifampicine (150-300 mg/j), bézafibrate > naltrexone (25-50 mg/j), nalméfène > sertraline (50 mg/j). Émollients, TCC.
 - Si cholestase persistante: [supplémentation calcium]({{% relref "apports-calcium.md" %}}) + [vitamine D]({{% relref "vitamine-d.md" %}}) (1g/800 UI/j)
 - De l'ostéoporose: supplémentation vitamino-calcique, traiter quand T-score fémoral < -1,5

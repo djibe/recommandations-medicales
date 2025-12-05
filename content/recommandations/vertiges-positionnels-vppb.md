@@ -204,8 +204,8 @@ La prise en charge du VPPB par des manœuvres est indiquée en cas de vertiges p
 - VPPB du canal semi-circulaire antérieur  
   Pas de recommandations.
 
-Traitements inutiles pour un VPPB: acétylleucine (Tanganil®), bétahistine, piracétam, méclozine, dompéridone, métoclopramide (Primpéran® ainsi que les autres anti-émétiques).
-{.alert .alert-warning}
+> [!WARNING]
+> Traitements inutiles pour des VPPB: acétylleucine (Tanganil®), bétahistine, piracétam, méclozine, dompéridone, métoclopramide (Primpéran® ainsi que les autres anti-émétiques).
 
 {{% /collapse %}}
 {{%collapse "Prise en charge des vertiges paroxystiques VPPB" "show" %}}
