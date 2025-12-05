@@ -8,10 +8,10 @@ synonyms = ["Eczéma atopique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2020-09-02T17:43:41+02:00
 publishdate = "2021-11-29"
-lastmod = "2024-05-23"
+lastmod = "2025-12-05"
 specialites = ["allergologie", "dermatologie"]
-annees = "2023"
-sources = ["EDF", "EADV", "SFD"]
+annees = "2025"
+sources = ["SFD", "EDF", "EADV"]
 tags = ["atopie", "prurit"]
 english = ["Atopic dermatitis (AD)"]
 sctid = "24079001"
@@ -49,8 +49,11 @@ Comorbidités chez l'adulte: cardiovasculaires (HTA, AVC, IDM), rénales, [diab�
 
 Autres pathologies eczématiformes:
 
+- Dermite/eczéma de contact
+- [Psoriasis]({{% relref "psoriasis.md" %}})
+- Lymphome cutané
+- [Gale]({{% relref "gale.md" %}})
 - Nourrisson: [dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}}), [gale]({{% relref "gale.md" %}})
-- Autres population: dermite/eczéma de contact, [psoriasis]({{% relref "psoriasis.md" %}}), lymphome cutané, [gale]({{% relref "gale.md" %}})
 
 ### Complications de la dermatite atopique
 
@@ -113,14 +116,16 @@ Le diagnostic de dermatite atopique est clinique:
 - Les lésions sont aiguës, mal limitées, érythémateuses, suintantes puis croûteuses
 - Lichénification si grattage
 - Interrogatoire policier pour éliminer un facteur aggravant allergique
-- Terrain [atopique](/tags/atopie/) (70%)  
-  Allergie alimentaire, asthme du nourrisson, antécédents familiaux atopiques (allergie alimentaire, asthme, DA, rhinite allergique).
+- **Comorbidités de l'[atopie](/tags/atopie/)** (70 %)  
+  Allergie alimentaire, asthme, conjonctivite allergique, rhinite allergique, antécédents familiaux.
 - Débutant dès le bas âge
 - Évolution par poussées avec intervalles libres (xérose persistante)
 - Respect la région médio-faciale (nez ++)
 - Signe de Dennie-Morgan: double pli sous-palpébral
 - Facteurs favorisants  
   Irritants: savon, détergents, tissus rêches, chaleur, sueur, air sec.
+- Qualité de vie
+- Adulte: évaluation du risque cardiovasculaire {{< scores/heartscore >}}
 
 **NB.** Les vésicules ne sont qu'exceptionnellement visibles macroscopiquement.
 
@@ -168,6 +173,12 @@ Indications au bilan allergologique pour eczéma:
 - Autres  
   [RGO]({{% relref "reflux-gastro-oesophagien.md" %}}), pleurs, coliques résistantes, antécédents familiaux d'atopie sévère, apparition précoce avant 3 mois.
 
+### Prélèvements bactériologiques
+
+Indications au prélèvement cutané pour culture bactérienne:
+
+- Impétiginisation avancée (> 6 lésions ou > 2 % de la surface cutanée ou évolution rapide)
+
 {{% /collapse %}}
 {{%collapse "Traitement de fond de la dermatite atopique" %}}
 
@@ -196,7 +207,7 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
 
 - Éviter les facteurs favorisants  
   - Stress, détergents, savons, laine. Préférer coton, soie, polyesters à fibres fines
-  - Bain court (ou douche) avec température tiède, pains ou gels surgras sans savon
+  - Bain ou douche bref avec température tiède, pains ou gels surgras sans savon ni allergènes (pH 5-6)
   - Sécher en tamponnant plutôt que frottant
   - Pas d'intérêt de lessive spécifique
   - Ongles courts
@@ -209,28 +220,29 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - 19°C dans la chambre
 - Lutte contre les idées reçues  
-  Usage des dermocorticoïdes, la dermatite atopique n'est pas allergique-psychologique-infectieuse-contagieuse.
+  **Contre la corticophobie**, la dermatite atopique n'est pas allergique-psychologique-infectieuse-contagieuse.
 - [Centres d'éducation thérapeutique pour la dermatite atopique](https://www.sfdermato.org/page-29-centres-d-education-therapeutique) (ETP)
-- Suivi médical régulier (courbe de croissance ++)
+- Suivi médical régulier (courbe de croissance, dépistage des cancers cutanés)
 - Vigilance en cas de contact avec l'[herpès]({{% relref "infections-herpes-virus.md" %}})
 - Soutien psychologique
 - Vaccins
   - Allergie à l'œuf associée: avis spécialisé avant grippe ou fièvre jaune
   - Éviter durant une poussée sévère
 - Éviter les animaux domestiques
-- Encourager l'[allaitement maternel]({{% relref "allaitement.md" %}}) exclusif +3 mois
+- Encourager l'[allaitement maternel]({{% relref "allaitement.md" %}}) exclusif +3 mois, diversification alimentaire usuelle dès 4 mois
 - Information du patient: [appli HappyReso](https://www.happyreso.fr), [guide Dermato-Info](https://dermato-info.fr/les-maladies-de-la-peau/dermatite-atopique), [guide SFD (PDF)](https://www.sfdermato.org/upload/fiche/etfad-great-version-france-22o32019-dd00991406282f168b08aec43c3798f0.pdf)
 
 **NB.** Les anti-histaminiques ont << un intérêt très limité dans la dermatite atopique >> (*EADV* et Pr D. Staumont *Dermato-Info*) car sans efficacité sur le prurit. En visée sédative, recours à l'[hydroxyzine](https://base-donnees-publique.medicaments.gouv.fr/medicament/61162294/extrait#tab-rcp).
 
-Acupuncture, homéopathie et phytothérapie sont déconseillées par la *SFD* et l'*EDF*; absence d'efficacité des eaux thermales.
-{.alert .alert-warning}
+> [!WARNING]
+> Traitements déconseillés pour la dermatite atopique: antiseptiques locaux (même en cas d'impétiginisation), huiles de primevère et de bourrache, acupuncture, homéopathie et phytothérapie (*SFD*, *EDF*); absence d'efficacité des eaux thermales.
 
 ### Suivi de la dermatite atopique sévère
 
 - Suivi dermatologique
 - Suivi médical régulier
 - [École de l'atopie](https://www.fondationeczema.org/etre-accompagne/trouver-un-expert)
+- Prévention de l'[ostéoporose]({{% relref "osteoporose.md" %}}) identique à la population générale
 
 #### Pour en savoir plus: traitements spécialisés de l'eczéma sévère
 
@@ -288,6 +300,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Centre de Preuves en Dermatologie, great, Société Française de Dermatologie. Recommandations françaises pour la prise en charge de la dermatite atopique. 2025. (PDF)](https://www.sfdermato.org/upload/recommandations/4_texte-long.pdf); [Sigg N, et al. Recommandations françaises pour la prise en charge de la dermatite atopique -- French guidelines for the management of atopic dermatitis. Annales de Dermatologie et de Vénéréologie - FMC. 2025.](https://www.em-consulte.com/article/1776488/recommandations-francaises-pour-la-prise-en-charge)
 - Prescrire Redaction. Eczéma atopique des nourrissons. Rev Prescrire. 2024.
 - [Wollenberg A, et al. First update of the living European guideline (EuroGuiDerm) on atopic eczema. J Eur Acad Dermatol Venereol. 2023.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.19269)
 - [Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéomuqueuses chez l'enfant et l'adulte. urticaire, dermatites atopique et de contact. Item 187. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-187-%E2%80%94-Hypersensibilites-et-allergies-cutaneo-muqueuses-chez-lenfant-et-ladulte.-Urticaire-dermatites-atopique-et-de-contact_CompressPdf.pdf)
@@ -298,7 +311,6 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Centre de Preuves en Dermatologie, great, Société Française de Dermatologie. Recommandations françaises pour la prise en charge de la dermatite atopique. 2025. (PDF)](https://www.sfdermato.org/upload/recommandations/4_texte-long.pdf); Sigg N, et al. Recommandations françaises pour la prise en charge de la dermatite atopique -- French guidelines for the management of atopic dermatitis. Annales de Dermatologie et de Vénéréologie - FMC. 2025.
 - [NICE. Atopic eczema in under 12s: diagnosis and management. NICE guideline. 2025.](https://www.nice.org.uk/guidance/cg57)
 - [Wheeler KE, et al. Updated Guidelines for Atopic Dermatitis-AAAAI/ACAAI Joint Task Force. JAMA Pediatr. 2024.](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2820957)
 - [Xu AZ, Alexander JT. Topical Therapies for Atopic Dermatitis. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811421)
