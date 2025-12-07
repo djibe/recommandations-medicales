@@ -196,7 +196,7 @@ graph TB
   hypocalcémie["<b>Hypocalcémie</b><br>—<br>Calcémie &lt; 2,2 mmol/L"] -- Albumine couplée --> corrigée("- Calcul de la <br>calcémie corrigée<br>- Clinique") -- "CaCorr 1,8 - 2,2,<br>chronique et<br>asymptomatique" --> ambulatoire("<b>Bilan ambulatoire</b><br>—<br>- Antécédents<br>- Clinique<br>- ECG") --> bilan("- Créatinine<br>- PTH<br>- Phosphatémie<br>- Calciurie 24h<br>- 25 OH vitD") -- "PTH ↓ ou N" --> hypoparathyroïdie(Hypoparathyroïdie) --> endocrinologue(Endocrinologue)
   bilan -- PTH ↑ --> phosphatémie("Phosphatémie ?")
     bilan -- "Créatinine ↑↑<br>et phosphore ↑" --> insuffisance("Insuffisance rénale<br>sévère")
-    hypocalcémie -- "Calcémie ionisée couplée<br>&lt; 1,1" --> ionisée("Hypercalcémie vraie:<br>- Antécédents<br>- Clinique") -- "&lt; 1,<br>aiguë ou<br>symptomatique" --> urgences("Urgences voire SAMU")
+    hypocalcémie -. "Calcémie ionisée<br>couplée &lt; 1,1<br>(non remboursée)" .-> ionisée("Hypocalcémie vraie:<br>- Antécédents<br>- Clinique") -- "&lt; 1,<br>aiguë ou<br>symptomatique" --> urgences("Urgences voire SAMU")
       corrigée -- "CaCorr &lt; 1,8,<br>aiguë ou<br>symptomatique" --> urgences
     hypocalcémie -- "Sans albumine<br>ou Ca ionisée" --> urgences
       ionisée -- "1 - 1,1<br>chronique et<br>asymptomatique" --> ambulatoire
