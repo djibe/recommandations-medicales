@@ -345,7 +345,7 @@ graph TB
 - Arrêt du tabac, contrôle cardiovasculaire, régime méditerranéen, vaccins, cancers, ostéoporose
 - Suivi clinico-bio-radiologique
 - Associations de malades
-- Prise en charge à 100% avec l'ALD n°22
+- Prise en charge à 100 % avec l'ALD n°22
 
 **NB.** Régimes sans gluten et lactose n'ont pas fait preuve d'efficacité.
 

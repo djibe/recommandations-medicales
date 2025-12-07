@@ -36,7 +36,7 @@ Cette page ne respecte pas la charte qualité et devra être améliorée.
 Diabète de type 1
 : Maladie de cause inconnue entraînant la destruction des îlots de Langerhans producteurs d'insuline.
 : Le diagnostic est souvent posé sur la triade: soif, polyurie et polydipsie avec souvent un amaigrissement.
-: Une sécrétion d'insuline persiste parfois pendant quelques années, à l'origine de difficultés diagnostiques (40% des DT1 diagnostiqués après 30 ans considérés comme type 2). 4% des diabètes avant 30 ans sont monogéniques.
+: Une sécrétion d'insuline persiste parfois pendant quelques années, à l'origine de difficultés diagnostiques (40 % des DT1 diagnostiqués après 30 ans considérés comme type 2). 4% des diabètes avant 30 ans sont monogéniques.
 
 ### Critères en faveur d'un diabète de type 1
 
@@ -58,7 +58,7 @@ S'ils sont négatifs, rechercher les *anticorps anti-IA2* (islet tyrosine phosph
 
 ### Comment affirmer un diabète type 1 ?
 
-Des auto-anticorps négatifs n'éliminent pas le diagnostic de type 1 (5-10% des européens) qui reste le diagnostic le plus probable avant 35 ans.
+Des auto-anticorps négatifs n'éliminent pas le diagnostic de type 1 (5-10 % des européens) qui reste le diagnostic le plus probable avant 35 ans.
 
 Une personne avec un tableau clinique évocateur de DT1 et la présence d'au moins un auto-anticorps positif est diagnostiquée diabète de type 1 et traitée comme telle.  
 De même, une suspicion clinique de DT1 en l'absence d'anticorps doit faire préférer l'insulinothérapie.
@@ -195,7 +195,7 @@ Trame des éléments à relever pour un dossier médical complet.
 - Dyslipidémie
   - L'objectif de LDL dépend de la présence ou non de maladie cardiovasculaire, mal connu en prévention primaire
   - +40 ans: considérer une statine en prévention primaire (*ESC 2023 diabetes*)
-  - Avant 40 ans: considérer une statine si autres FRCV, microangiopathie ou risque à 10 ans ≥ 10% ([modèle écossais, suédois](https://diabepi.shinyapps.io/cvdrisk/))
+  - Avant 40 ans: considérer une statine si autres FRCV, microangiopathie ou risque à 10 ans ≥ 10 % ([modèle écossais, suédois](https://diabepi.shinyapps.io/cvdrisk/))
 - Aspirine: pourrait être bénéfique si ≥ 1 autre FRCV
 - Activité physique
   - **Au moins 150 minutes** (2h30) d'activité modérée à intense hebdomadaire. Renforcement musculaire 3 j/sem.

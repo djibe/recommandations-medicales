@@ -37,7 +37,7 @@ flowchart = true
 Andropause ou syndrome de déficit en testostérone lié à l'âge (SDT)
 : Syndrome progressif et inconstant biochimique chez l'homme, caractérisé par une diminution des androgènes sériques avec ou sans diminution de la sensibilité aux androgènes responsable d'une altération de la qualité de vie et d'un impact sur la fonction de plusieurs organes (*ISSAM 2002*).
 : Une testostérone basse est un facteur de risque cardiovasculaire.
-: La prévalence de l'andropause augmente avec l'âge: 5% à 50 ans, 10% à 60 ans, 15% à 70 ans et 26% à 80 ans.
+: La prévalence de l'andropause augmente avec l'âge: 5% à 50 ans, 10 % à 60 ans, 15% à 70 ans et 26% à 80 ans.
 
 ### Abréviations
 

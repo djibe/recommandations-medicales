@@ -88,7 +88,7 @@ Un accès palustre doit être éliminé avant d'étayer les autres causes de fi�
 - Formes graves: 17,7 %, par *P falciparum* +++
 - Décès en France: 19 (2023)
 
-L'Afrique subsaharienne comptabilise 90% des cas mondiaux de paludisme.
+L'Afrique subsaharienne comptabilise 90 % des cas mondiaux de paludisme.
 
 {{< card-link-external title="Malaria Atlas Project" subtitle="Données sur le paludisme" url="https://data.malariaatlas.org/">}}
 

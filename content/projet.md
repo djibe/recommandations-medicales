@@ -33,7 +33,7 @@ L'**État de l'art** est dispersé sur internet (HAS, sociétés savantes ...), 
 
 Le médecin généraliste est le premier intervenant de la grande majorité des soins. Il est donc exposé à tous les motifs de consultation, sans avoir toujours accès aux informations nécessaires pour offrir un premier bilan optimal.
 
-Il ne peut pas tout savoir, et l'humain ne retient au mieux que 10% de ce qu'il apprend. Seul un assistant informationnel permettrait de résoudre ce dilemme.
+Il ne peut pas tout savoir, et l'humain ne retient au mieux que 10 % de ce qu'il apprend. Seul un assistant informationnel permettrait de résoudre ce dilemme.
 
 > L'information pertinente doit être accessible rapidement pendant la consultation.
 

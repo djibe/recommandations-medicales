@@ -32,7 +32,7 @@ todo = "rankok | propranolol, flow"
 {{%collapse "Définition" %}}
 
 Tremblement essentiel
-: Syndrome de tremblement d'action postural ou cinétique isolé atteignant les membres supérieurs depuis au moins trois ans. L'aggravation est progressive mais moins de 10% deviennent handicapés à long terme.
+: Syndrome de tremblement d'action postural ou cinétique isolé atteignant les membres supérieurs depuis au moins trois ans. L'aggravation est progressive mais moins de 10 % deviennent handicapés à long terme.
 : Mouvement anormal parmi les plus fréquents chez l'adulte (1%, 4 à 5% après 65 ans), il peut exister à tout âge. L'examen neurologique est normal par ailleurs.
 
 ### Abréviations
@@ -89,7 +89,7 @@ Le diagnostic de tremblement essentiel est clinique.
 Éléments sémiologiques permettant de typer le tremblement:
 
 - Le tremblement postural des membres est asynchrone, surtout de type flexion-extension aux poignets et réduit en portant un objet à 2 mains
-- Un tremblement d'intention est fréquent à l'épreuve doigt-nez (25% versus 4% chez le parkinsonien), souvent accompagné d'un tremblement de la tête (20% versus 0%)
+- Un tremblement d'intention est fréquent à l'épreuve doigt-nez (25% versus 4% chez le parkinsonien), souvent accompagné d'un tremblement de la tête (20 % versus 0%)
 - Le tremblement de la tête peut être augmenté en vocalisant un "A" soutenu pendant 10 à 15 secondes
 - Le graphisme de spirales ou de boucles infinies objective un tremblement unidirectionnel
 

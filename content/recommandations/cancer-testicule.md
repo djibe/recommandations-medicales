@@ -39,7 +39,7 @@ Cancer du testicule
 ### Épidémiologie du cancer du testicule
 
 - Incidence annuelle: 2200 cas
-- Survie à 5 ans: 99% pour une forme localisée et 70% si métastatique
+- Survie à 5 ans: 99% pour une forme localisée et 70 % si métastatique
 
 ### Abréviations
 

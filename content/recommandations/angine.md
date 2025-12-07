@@ -24,7 +24,7 @@ todo = "rankok"
 
 {{%article-summary%}}
 
-- Une angine est toujours virale avant 3 ans (et l'est pour 80% des cas ensuite)
+- Une angine est toujours virale avant 3 ans (et l'est pour 80 % des cas ensuite)
 - Test de diagnostic rapide (TDR ou TROD) du streptocoque devant une angine érythémateuse ou érythémato-pultacée de 3 à 14 ans et score clinique de Mac Isaac au-delà
 - Prise en charge de l'angine streptococcique par traitement antibiotique (TDR positif):
   - Éviction scolaire les 48 premières heures suivant l'instauration de l'antibiothérapie (*CMIT 2023*)
@@ -39,12 +39,12 @@ todo = "rankok"
 {{%collapse "Définitions" %}}
 
 Angine
-: Infection amygdalienne (amygdalite) aiguë palatine voire de l'ensemble du pharynx très fréquente. La majorité des infections est virale (70% chez l'enfant, 90% chez l'adulte).
+: Infection amygdalienne (amygdalite) aiguë palatine voire de l'ensemble du pharynx très fréquente. La majorité des infections est virale (70 % chez l'enfant, 90 % chez l'adulte).
 : Le streptocoque β-hémolytique du groupe A (*SBHA*, *SGA* ou *Streptococcus pyogenes*) est la première bactérie responsable des angines bactériennes avec un pic entre 4 et 15 ans.  
-Il est responsable de 25 à 40% des angines de l'enfant et 10 à 25% des angines de l'adulte.
+Il est responsable de 25 à 40 % des angines de l'enfant et 10 à 25% des angines de l'adulte.
 
 TDR
-: *Test de Diagnostic Rapide* du streptocoque (SGA) ou *Test de dépistage Rapide à Orientation Diagnostique* (TROD) de l'angine. Aussi appelé Streptatest®, il a une VPP de 90% et une VPN de 95% (*PAP*).
+: *Test de Diagnostic Rapide* du streptocoque (SGA) ou *Test de dépistage Rapide à Orientation Diagnostique* (TROD) de l'angine. Aussi appelé Streptatest®, il a une VPP de 90 % et une VPN de 95% (*PAP*).
 
 ### Complications de l'angine
 

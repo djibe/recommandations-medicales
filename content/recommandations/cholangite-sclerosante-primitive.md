@@ -160,7 +160,7 @@ Le bilan complémentaire après le diagnostic de cholangite sclérosante primiti
 
 La **cholangio IRM 3D** avec étude du pancréas est l'==examen diagnostique de référence== de la cholangite sclérosante primitive (Se 86%, Spe 94%). Elle doit être interprétée par un radiologue expérimenté et un avis d'un centre expert est nécessaire pour le diagnostic.
 
-Dans 10% des cas, l'atteinte est sur les petites voies biliaires et la cholangio-IRM ne suffit pas au diagnostic.
+Dans 10 % des cas, l'atteinte est sur les petites voies biliaires et la cholangio-IRM ne suffit pas au diagnostic.
 
 L'échoendoscopie peut aider à préciser l'épaississement de la paroi des voies biliaires extra-hépatiques.
 

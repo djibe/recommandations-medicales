@@ -81,7 +81,7 @@ Causes d'hypertension artérielle pulmonaire (HTAP):
 - Secondaire à une maladie respiratoire (**[BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}})** +++)
 - Secondaire à une cardiopathie gauche
 - Secondaire à une maladie thromboembolique chronique
-- Iatrogène (10% selon *Badesch DB 2010*)  
+- Iatrogène (10 % selon *Badesch DB 2010*)  
   Anorexigènes (amphétamines, méthylphénidate), immunothérapies (inhibiteurs tyrosine-kinase BCR-ABL), alkylants, immunosuppresseurs (léflunomide, interférons), sofosbuvir, dérivés de l'ergot de seigle ...  
   Pendant la grossesse: IRS, AINS
 

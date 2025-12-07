@@ -50,7 +50,7 @@ Stérilité
 | Hypospermie    | Volume d'éjaculat < 1,4 mL à 2 reprises                                                                              |
 | Oligospermie   | Numération < 15 M/mL ou < 39 millions de spermatozoïdes dans l'éjaculat                                              |
 | Azoospermie    | Absence totale de spermatozoïdes: obstructive (obstacle sur les voies excrétrices) ou non (défaut de spermatogenèse) |
-| Asthénospermie | < 30% de spermatozoïdes mobiles                                                                                      |
+| Asthénospermie | < 30 % de spermatozoïdes mobiles                                                                                      |
 | Tératospermie  | < 4% de spermatozoïdes normaux (Kruger) ou < 23% de spermatozoïdes (David modifiée)                                  |
 | Nécrospermie   | > 46% de spermatozoïdes << morts >>                                                                                  |
 {{< /table >}}
@@ -90,7 +90,7 @@ SALF
 
 ### Fertilité selon l'âge de la femme
 
-La fertilité est maximale avant 25 ans, diminue dès 31 ans, chute après 35 ans, dépasse 50% à partir de 40 ans et devient quasi nulle à 45 ans (où la grossesse devient à très haut risque).
+La fertilité est maximale avant 25 ans, diminue dès 31 ans, chute après 35 ans, dépasse 50 % à partir de 40 ans et devient quasi nulle à 45 ans (où la grossesse devient à très haut risque).
 
 En *AMP* les chances de grossesse avec naissance vivante sont très diminuées à partir de 40 ans et quasi nulles à partir de 43 ans. L'Assurance Maladie prend en charge l'AMP jusqu'au premier jour des 43 ans.
 

@@ -53,7 +53,7 @@ Les tophi sont localisés autour des articulations atteintes par la goutte et pr
 
 Allopurinol
 : Médicament hypo-uricémiant utilisé trop largement. Il est la première cause survenue de **toxidermies bulleuses** graves en Europe.  
-La **mortalité** est de 20 à 30% et 60% de ces accidents surviennent en l'absence d'indication au traitement.
+La **mortalité** est de 20 à 30 % et 60 % de ces accidents surviennent en l'absence d'indication au traitement.
 
 ### Abréviations
 

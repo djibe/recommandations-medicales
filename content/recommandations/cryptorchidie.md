@@ -36,15 +36,15 @@ Cryptorchidie
 : Localisation inaboutie du testicule soit par obstacle à sa descente intra-abdominale, soit par descente incomplète (alors situé à la racine de la bourse ou devant le pubis). Problèmes d'adhérences pouvant le garder piégé.  
 Elle est différente de l'*ectopie testiculaire* où le testicule n'est pas sur le trajet attendu.
 : Évolution: **la moitié descend spontanément sous 6 mois**, ⅔ à 1 an ont migré vers les bourses.
-: Enjeux: hypogonadisme, [infertilité]({{% relref "infertilite-couple.md" %}}) (30-40% si unilatéral à 80% si bilatéral), torsion du cordon spermatique, [cancer du testicule]({{% relref "cancer-testicule.md" %}}) (RR de 30-40).
+: Enjeux: hypogonadisme, [infertilité]({{% relref "infertilite-couple.md" %}}) (30-40 % si unilatéral à 80 % si bilatéral), torsion du cordon spermatique, [cancer du testicule]({{% relref "cancer-testicule.md" %}}) (RR de 30-40).
 
 Testicule oscillant ou << testicule ascenseur >>
 : Testicule palpé de façon intermittente entre la bourse et la région inguinale.
 
 ### Épidémiologie de la cryptorchidie
 
-- Prévalence: 2 à 4% des nouveaux-nés, 1% des garçons à 1 an, 20 à 30% des prématurés
-- L'atteinte est bilatérale dans 20% des cas
+- Prévalence: 2 à 4% des nouveaux-nés, 1% des garçons à 1 an, 20 à 30 % des prématurés
+- L'atteinte est bilatérale dans 20 % des cas
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -87,7 +87,7 @@ Indications au traitement chirurgical d'un enfant cryptorchide:
 - Testicule palpable mais au-dessus de la bourse
 - Testicule cryptorchide: exploration par cœlioscopie
 
-Surveillance annuelle des **testicules oscillants** (30% nécessiteront une intervention chirurgicale).
+Surveillance annuelle des **testicules oscillants** (30 % nécessiteront une intervention chirurgicale).
 
 À la puberté: apprentissage de l'auto-palpation pour le dépistage du [cancer du testicule]({{% relref "cancer-testicule.md" %}}). Ne pas attendre en cas d'[infertilité]({{% relref "infertilite-couple.md" %}}) à l'âge adulte et surveiller des signes de [déficit en testostérone]({{% relref "andropause-deficit-testosterone.md" %}}).
 

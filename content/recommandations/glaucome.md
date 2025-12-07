@@ -34,7 +34,7 @@ todo = "liens > flow"
 
 Glaucome primitif à angle ouvert (GPAO, *ex* glaucome chronique)
 : Neuropathie optique chronique progressive irréversible grave pouvant amener à la cécité, sans fermeture de l'angle irido-cornéen et sans étiologie évidente (pathologie oculaire, traumatisme, iatrogénie).
-: Le glaucome est le plus souvent bilatéral et sa prévalence augmente avec l'âge: inférieur 0,5 de 40 à 50 ans, 10% après 85 ans.
+: Le glaucome est le plus souvent bilatéral et sa prévalence augmente avec l'âge: inférieur 0,5 de 40 à 50 ans, 10 % après 85 ans.
 : Il s'agit de la forme la plus fréquente de glaucome en France (70 à 80%), avec plus d'un million de patients glaucomateux, et la 2^e^ cause de cécité en France, derrière la [DMLA]({{% relref "degenerescence-maculaire-age-dmla.md" %}}).
 
 ### Facteurs de risque de glaucome

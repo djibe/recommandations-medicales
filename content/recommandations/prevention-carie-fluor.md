@@ -43,8 +43,8 @@ Fiches patient: [soins dentaires au quotidien (PDF)](https://www.ufsbd.fr/wp-con
 ### Épidémiologie de la carie dentaire en France
 
 - 4 à 5 ans: 20 à 30 % ont au moins une carie non soignée
-- 6 ans: 50 à 70% seulement sont indemnes de carie
-- 12 ans: 50% sont indemnes de carie
+- 6 ans: 50 à 70 % seulement sont indemnes de carie
+- 12 ans: 50 % sont indemnes de carie
 
 ### Abréviations
 

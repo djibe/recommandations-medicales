@@ -38,7 +38,7 @@ Traumatisme crânien
 Traumatisme crânien léger (TCL)
 : Définit par un score de Glasgow (GCS) ≥ 13.
 : Ils représentent 95% des traumatismes crâniens de l'enfant.  
-10% ont lésion intracrânienne (LIC) et 1% nécessitent une neurochirurgie.
+10 % ont lésion intracrânienne (LIC) et 1% nécessitent une neurochirurgie.
 
 Le traumatisme crânien est la première cause de mortalité chez les enfants de plus d'un an (pays développés).
 

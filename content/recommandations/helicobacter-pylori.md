@@ -141,7 +141,7 @@ Pylera® 3 gél x 4/j + oméprazole 20 mg x 2/j
 {{%collapse "Définition" %}}
 
 *Helicobacter pylori*
-: La bactérie *Helicobacter pylori* (*H. pylori*) a un tropisme gastrique responsable d'une *gastrite chronique*, compliquée d'*ulcères gastro-duodénaux* et responsable de 80% des *[cancers de l'estomac]({{% relref "cancer-estomac.md" %}})* (adénocarcinomes et lymphomes du MALT).
+: La bactérie *Helicobacter pylori* (*H. pylori*) a un tropisme gastrique responsable d'une *gastrite chronique*, compliquée d'*ulcères gastro-duodénaux* et responsable de 80 % des *[cancers de l'estomac]({{% relref "cancer-estomac.md" %}})* (adénocarcinomes et lymphomes du MALT).
 : Contamination dans l'enfance par transmission familiale {{%class%}}(oro-orale ou féco-orale){{%/class%}}.  
 Son éradication prévient la survenue de ces complications.
 

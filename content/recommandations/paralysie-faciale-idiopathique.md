@@ -40,7 +40,7 @@ Paralysie faciale périphérique idiopathique (PFI)
 : *Ex* paralysie faciale périphérique *a frigore*.  
 **Paralysie faciale périphérique** (PFP) d'installation brutale pouvant s'aggraver pendant maximum 72 heures.  
 Elle touche les territoires supérieur et inférieur du nerf facial (VII) de l'hémiface avec une atteinte des motricités volontaire, automatique et émotionnelle.  
-La guérison spontanée sous 6 mois est observée dans 70% des cas, elle est corrélée à la gravité initiale.
+La guérison spontanée sous 6 mois est observée dans 70 % des cas, elle est corrélée à la gravité initiale.
 : La PFI est un diagnostic d'élimination. Les fréquentes causes infectieuses et tumorales mimant une PFI motivent un bilan complémentaire systématique.  
 Les récidives sont exceptionnelles (6%).
 
@@ -64,13 +64,13 @@ SFORL
 
 ### Épidémiologie de la paralysie faciale idiopathique
 
-- 70% de guérison complète à 6 mois  
+- 70 % de guérison complète à 6 mois  
   Corrélée à la gravité initiale.  
   Taux de récupération de 61% en PFP totale initiale et de 94% pour une PFP partielle initiale.
 - [Maladie de Lyme]({{% relref "maladie-lyme.md" %}})  
-  6 à 20% des PFP selon les régions.
+  6 à 20 % des PFP selon les régions.
 - [Diabète]({{% relref "diabete-type-2.md" %}})  
-  Présent chez 10% des patients développant une PFP.
+  Présent chez 10 % des patients développant une PFP.
 - 8 à 12% des PFP d'allure idiopathique sont tumorales (malignes à 30%)
 
 {{% /collapse %}}

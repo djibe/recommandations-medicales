@@ -214,10 +214,10 @@ document.addEventListener('DOMContentLoaded', function() {
                     category = 'Risque faible à modéré <br> LDL cible &lt; 1 g/L';
                     alertClass = 'alert-success';
                 } else if (risk < thresholds.moderate) {
-                    category = 'Risque élevé <p> Obtenir une réduction du LDL ≥ 50% et une cible &lt; 0,7 g/L </p>';
+                    category = 'Risque élevé <p> Obtenir une réduction du LDL ≥ 50 % et une cible &lt; 0,7 g/L </p>';
                     alertClass = 'alert-warning';
                 } else {
-                    category = 'Risque très élevé <br> Obtenir une réduction du LDL ≥ 50% et une cible &lt; 0,55 g/L quel que soit l’âge';
+                    category = 'Risque très élevé <br> Obtenir une réduction du LDL ≥ 50 % et une cible &lt; 0,55 g/L quel que soit l’âge';
                     alertClass = 'alert-danger';
                 }
 
@@ -381,7 +381,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="card card-body my-2">
   <h4 class="card-title">Exacerbation sévère</h4>
-  <p class="card-subtitle">DEP &lt; 60% ou <strong>absence de réponse à 48 heures</strong></p>
+  <p class="card-subtitle">DEP &lt; 60 % ou <strong>absence de réponse à 48 heures</strong></p>
   <p>Prednisolone <span id="asthme-cso">40-50 mg/j pendant 5-7 jours</span></p>
   <p>Consultation médicale urgente</p>
 </div>

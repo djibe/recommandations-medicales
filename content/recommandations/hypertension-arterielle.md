@@ -48,7 +48,7 @@ La plupart du temps *asymptomatique*, elle augmente le risque d'insuffisance car
 : 3/4 des patients ne sont pas contrôlés principalement par défaut d'**observance** (à 6 mois: 2/3 - 1 an: 50%) et **inertie du médecin**.
 
 Hypertension artérielle résistante
-: Pressions mesurées au cabinet ≥ 140/90 mmHg et confirmées au domicile par MAPA (AMT à défaut) malgré un traitement optimal et bien suivi avec RHD et au moins 3 traitements à doses maximales tolérées (IEC/ARA2, TZD, ICa). Concerne 10% des hypertendus.
+: Pressions mesurées au cabinet ≥ 140/90 mmHg et confirmées au domicile par MAPA (AMT à défaut) malgré un traitement optimal et bien suivi avec RHD et au moins 3 traitements à doses maximales tolérées (IEC/ARA2, TZD, ICa). Concerne 10 % des hypertendus.
 : Risques de l'hypertension résistante: augmentation des complications hypertensives, [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}) et événements cardiovasculaires.
 
 ### Grades de l'hypertension artérielle
@@ -151,7 +151,7 @@ TZD
 ### Épidémiologie de l'hypertension artérielle
 
 - En France
-  - Prévalence: 30% chez l'adulte avec 17 millions d'hypertendus (+60% ont +60 ans, *BEH 2023*)  
+  - Prévalence: 30 % chez l'adulte avec 17 millions d'hypertendus (+60 % ont +60 ans, *BEH 2023*)  
     Parmi lesquels 6 millions ne le savent pas et 4 millions ne sont pas contrôlés.
   - L'HTA est responsable de 36,2 % des hospitalisations pour maladies cardio-neuro-vasculaires ou rénales (*BEH 2025*)
   - Décès: 55.000 en 2021 (8,5 %)
@@ -159,7 +159,7 @@ TZD
   - 1,28 milliard d'hypertendus (150 millions en Europe)
   - Prévalence: 1/3 des adultes
   - Décès: 10 millions chaque année
-  - Malgré les progrès thérapeutiques, l'espérance de vie corrigée de l'incapacité a augmenté seulement de 40% depuis 1990
+  - Malgré les progrès thérapeutiques, l'espérance de vie corrigée de l'incapacité a augmenté seulement de 40 % depuis 1990
 - Morbidité
   - Chaque élévation de 20 mmHg de systolique double le risque d'AVC ou de décès coronarien
 

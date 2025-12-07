@@ -19,7 +19,7 @@ icd10 = ["C53", "C53.9", "N87", "D06", "B97.7", "Z12.4"]
 image = true
 imageSrc = "Le cancer du col de l'utérus. scientificanimations.com, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "pharynx, source: Les infections a HPV deviennent indétectables au bout de 2 ans dans 90% des cas. Dans les 10% des cas où elle persiste elle peut être a l'origine de cancer."
+todo = "pharynx, source: Les infections a HPV deviennent indétectables au bout de 2 ans dans 90 % des cas. Dans les 10 % des cas où elle persiste elle peut être a l'origine de cancer."
 +++
 
 {{%article-summary%}}
@@ -86,8 +86,8 @@ Complications des infections par les papillomavirus et incidence imputée entre 
 - **Mortalité:** 836 décès (métropole 2022)
 - Âge médian au diagnostic: 55 ans
 - Survie à 5 ans: 63 % (période 2010-2015)
-- 80% des hommes et des femmes sexuellement actifs seront infectés par les papillomavirus durant leur vie
-- Portage masculin: 20% des hommes sont porteurs d'HPV haut risque (*[Bruni 2023](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00305-4/fulltext#%20)*)
+- 80 % des hommes et des femmes sexuellement actifs seront infectés par les papillomavirus durant leur vie
+- Portage masculin: 20 % des hommes sont porteurs d'HPV haut risque (*[Bruni 2023](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00305-4/fulltext#%20)*)
 - **Couverture vaccinale:** 41% des jeunes filles et 8% des garçons de 16 ans étaient vaccinés en 2022 en France métropolitaine contre 84% au Royaume-Uni (*Ameli*, *Inserm*)
 - Sur-dépistage du cancer du col: 16,6 % des femmes ([SPF](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-col-de-l-uterus/documents/bulletin-national/participation-au-programme-de-depistage-organise-du-cancer-du-col-de-l-uterus.-annee-2023-et-evolution-depuis-2017))
 
@@ -257,9 +257,9 @@ La vaccination conte les papillomavirus prévient des lésions précancéreuses 
 [INCa. Les arguments clés sur la vaccination contre les cancers liés aux papillomavirus humains (HPV)](https://www.cancer.fr/catalogue-des-publications/arguments-cles-sur-la-vaccination-contre-les-cancers-hpv)  
 [SPF. Dépliant sur la vaccination contre les cancers HPV](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/depliant-flyer/infections-a-papillomavirus-humains-les-5-bonnes-raisons-de-se-faire-vacciner)
 
-> En Australie, où la recommandation de vacciner les filles date de 2007 et celle des garçons de 2013, la couverture vaccinale d'au moins 80% a permis:  
+> En Australie, où la recommandation de vacciner les filles date de 2007 et celle des garçons de 2013, la couverture vaccinale d'au moins 80 % a permis:  
 Une réduction de plus de 77% des génotypes responsables de 75% des cancers du col de l'utérus;  
-Une diminution de plus de 50% de l'incidence des lésions précancéreuses cervicale de haut grade chez les jeunes filles de moins de 20 ans.  
+Une diminution de plus de 50 % de l'incidence des lésions précancéreuses cervicale de haut grade chez les jeunes filles de moins de 20 ans.  
 Dans ce pays, le succès de la campagne de vaccination, associée au dépistage, ouvre la perspective d'une éradication du cancer du col de l'utérus d'ici une quinzaine d'année.  
 *INCa*
 
@@ -321,7 +321,7 @@ Après cancer du col de l'utérus, le suivi comporte:
 - Si stérilisation: [traitement hormonal de la ménopause]({{% relref "menopause.md" %}})
 - Dépistage organisé des autres cancers
 
-> Les **récidives** surviennent surtout dans les 2 ans, mais 10% interviennent après 5 ans.
+> Les **récidives** surviennent surtout dans les 2 ans, mais 10 % interviennent après 5 ans.
 
 En cas de conisation ou trachélectomie simple ou élargie: Test HPV-HR à 6 mois, 12 mois, 24 mois, puis si négatif, tous les 3 ans
 

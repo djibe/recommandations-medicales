@@ -33,7 +33,7 @@ flowchart = true
 {{%collapse "Définition" %}}
 
 Incontinence fécale (IF ou incontinence anale)
-: Passage incontrôlé de selles ou de gaz pendant au moins 3 mois chez un sujet de plus de 4 ans ayant acquis la propreté (critères Rome IV). Elle concerne de 1,4 à 18% de la population et jusqu'à 50% en EHPAD.
+: Passage incontrôlé de selles ou de gaz pendant au moins 3 mois chez un sujet de plus de 4 ans ayant acquis la propreté (critères Rome IV). Elle concerne de 1,4 à 18% de la population et jusqu'à 50 % en EHPAD.
 : Les causes peuvent être variées: traumatique (accident, obstétrical), diététique, entéropathie, neurodégénérative ...
 
 ### Abréviations

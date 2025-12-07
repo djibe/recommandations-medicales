@@ -156,7 +156,7 @@ Objectifs pour le traitement du cancer:
 - Toujours associer paracétamol, anti-nauséeux, laxatifs et mesures de lutte contre la constipation
 - Évaluer la pertinence d'une prescription d'antidote naloxone  
   Surtout si: événement de vie, sortie d'hospitalisation, incarcération.
-  Objectif thérapeutique: ex réduire de 30% la douleur ou l'amélioration fonctionnelle
+  Objectif thérapeutique: ex réduire de 30 % la douleur ou l'amélioration fonctionnelle
 - Réévaluation EVA, min tous les mois pendant 6 mois
 - Noter les évaluations: QCD, EQ-5D, PGIC, Lequesne ...
 - Ne pas dépasser 120 mg/j EMO

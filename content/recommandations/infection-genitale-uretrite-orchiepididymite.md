@@ -64,7 +64,7 @@ UNG
 {{%collapse "Urétrite" %}}
 
 Urétrite
-: Inflammation de l'urètre le plus souvent par une [infection sexuellement transmissible (IST)](/tags/ist/): *Neisseria gonorrhoeae* (gonorrhée, gonococcie, blennorragie ou << chaude-pisse >> avec incubation 2-5 jours), *Chlamydia trachomatis* et *Mycoplasma genitalium* (10-35 %), poly-infection dans 10 à 50% des cas avec un risque d'épididymite. *Trichomonas vaginalis* (IST) et *Ureaplasma urealyticum* sont plus rares et aucun germe n'est retrouvé dans 35% des cas.
+: Inflammation de l'urètre le plus souvent par une [infection sexuellement transmissible (IST)](/tags/ist/): *Neisseria gonorrhoeae* (gonorrhée, gonococcie, blennorragie ou << chaude-pisse >> avec incubation 2-5 jours), *Chlamydia trachomatis* et *Mycoplasma genitalium* (10-35 %), poly-infection dans 10 à 50 % des cas avec un risque d'épididymite. *Trichomonas vaginalis* (IST) et *Ureaplasma urealyticum* sont plus rares et aucun germe n'est retrouvé dans 35% des cas.
 : Sur-représentation des [HSH]({{% relref "hsh.md" %}}) et [séropositifs VIH]({{% relref "vih-sida.md" %}}).
 : Critères diagnostiques cytologiques chez un homme sans miction depuis au moins 2 heures: ≥ 5 PNN au frottis (grossissement 100), ≥ 10 PNN sur premier jet centrifugé (grossissement 400).
 : Urétrite non-gonococcique **persistante**: absence d'amélioration à 4 semaines du traitement.

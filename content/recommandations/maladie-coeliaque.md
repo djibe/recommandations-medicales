@@ -57,7 +57,7 @@ Gluten
 Principaux facteurs de risques de maladie cœliaque:
 
 - Antécédents familiaux  
-  Surtout au premier degré, 10% (70 % chez les jumeaux monozygotes).
+  Surtout au premier degré, 10 % (70 % chez les jumeaux monozygotes).
 - [Diabète de type 1]({{% relref "diabete-type-1.md" %}}) (3-10 %)
 - Maladie de [Hashimoto]({{% relref "hypothyroidie.md" %}}) ou de Basedow
 - HLA-DQ2 et HLA-DQ8

@@ -191,7 +191,7 @@ L'aspect pseudo-membraneux blanc (**muguet**) est le plus fréquent, souvent ass
 - ou miconazole cp muco-adhésif chez l'immunodéprimé  
   [Miconazole cp 50 mg (Loramyc®)](https://base-donnees-publique.medicaments.gouv.fr/medicament/69980852/extrait#tab-rcp) x 1/j pendant 7 à 14 jours, face bombée placée le matin après le brossage contre la gencive supérieure au-dessus d'une incisive. Interactions +++
 - ou amphotéricine B buvable  
-  [Amphotéricine B 10% susp buvable (Fungizone®)](https://base-donnees-publique.medicaments.gouv.fr/medicament/64346723/extrait#tab-rcp) 5 mL x 3-4/j pendant 10-14 jours (21 si forme chronique; possible [pendant la grossesse](http://www.lecrat.fr/10226/))
+  [Amphotéricine B 10 % susp buvable (Fungizone®)](https://base-donnees-publique.medicaments.gouv.fr/medicament/64346723/extrait#tab-rcp) 5 mL x 3-4/j pendant 10-14 jours (21 si forme chronique; possible [pendant la grossesse](http://www.lecrat.fr/10226/))
 - ou nystatine buvable  
   [Nystatine susp buvable (Mycostatine®)](https://base-donnees-publique.medicaments.gouv.fr/medicament/62250594/extrait#tab-rcp) 1 à 6 mL x 4-6/j pendant 10-14 jours (21 si forme chronique)
 - voire fluconazole oral
@@ -345,7 +345,7 @@ Le traitement est celui des mycoses des plis.
 
 ### Onychomycoses ou mycoses des ongles (candidoses des ongles ou onyxis, mycose unguéale, dermatophytoses ou tinea unguium)
 
-> Seulement 18 à 50% des onychopathies sont mycosiques
+> Seulement 18 à 50 % des onychopathies sont mycosiques
 
 Les onychomycoses à *Candida* atteignent surtout les **mains** des femmes (eau, produits ménagers, manucure). Inflammation péri-unguéale initiale (**périonyxis**, péri-onyxis ou paronychie) puis extension à l'ongle par le bord proximal (**onyxis**).
 
@@ -369,7 +369,7 @@ Traitement des onychomycoses:
   2. Vernis unguéal [amorolfine 5%](https://base-donnees-publique.medicaments.gouv.fr/medicament/68805138/extrait#tab-rcp) x 1-2/semaine ou [ciclopirox 8%](https://base-donnees-publique.medicaments.gouv.fr/medicament/66640136/extrait#tab-rcp) x 1/j pendant 3 à 6 mois
   3. Éconazole des espaces interdigitoplantaires pour éviter une réinfection
   4. Périonyxis important: prélèvement, imidazolé local voire fluconazole
-  5. Si échec: avulsion chimique par bifonazole 1% + urée 40% (Amycor Onychoset®) sous pansement occlusif x 1/j pendant 1-3 semaines  
+  5. Si échec: avulsion chimique par bifonazole 1% + urée 40 % (Amycor Onychoset®) sous pansement occlusif x 1/j pendant 1-3 semaines  
     et relais par bifonazole seul 1% crème (Amycor®) pendant 4-8 semaines (ou jusqu'à repousse complète de l'ongle).
 - Atteinte matricielle
   - Traitement ci-dessus en complément des mesures suivantes

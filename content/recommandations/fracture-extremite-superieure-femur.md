@@ -37,7 +37,7 @@ Chapitres liés: [ostéoporose post-ménopausique]({{% relref "osteoporose.md" %
 Fracture de l'extrémité supérieure du fémur (FESF)
 : Groupe de {{< modal-btn modal-fracture-severe >}}fractures sévères{{< /modal-btn >}} du fémur atteignant le col anatomique (fracture cervicale) ou le(s) trochanter(s) (fracture trochantérienne). Ces 2 entités se distinguent par des conditions vasculaires et mécaniques différentes justifiant un traitement distinct.
 : Les fractures du col sont fréquentes (90.000 cas annuels), atteignant surtout la population âgée par ostéoporose ou lors de traumatismes de haute énergie (<< syndrome du tableau de bord >>).
-: Après 65 ans, moins de 50% récupèrent leur autonomie et la surmortalité dans l'année est majeure (> 20%, par pneumonie > coronaropathie > autres infections).
+: Après 65 ans, moins de 50 % récupèrent leur autonomie et la surmortalité dans l'année est majeure (> 20%, par pneumonie > coronaropathie > autres infections).
 
 **Rappel.** Par convention au niveau des membres, on décrit le déplacement du segment distal par rapport au segment proximal.
 

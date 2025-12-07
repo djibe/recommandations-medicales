@@ -35,7 +35,7 @@ Amylose AL
 : *A* pour *Amylose* et *L* pour *chaîne légère d'immunoglobuline*.
 : Maladie tissulaire grave causée par le dépôt extracellulaire de fibrilles insolubles constituées de chaînes légères d'immunoglobulines monoclonales atteignant principalement le rein et le cœur (jamais le cerveau). Elle survient surtout après 60 ans et atteint un peu plus les hommes.
 : L'évocation diagnostique est difficile du fait du polymorphisme des atteintes avec des présentations très variées. Le diagnostic est histologique, on réalise en général des biopsies non-invasives (glandes salivaires accessoires, graisse SC) et le diagnostic est portée sur la positivité de la coloration au Rouge Congo. L'isotype est lambda pour 2/3 des cas, avec le plus souvent un clone plasmocytaire médullaire peu important et évolutif (ne partageant pas le caractère prolifératif du myélome).
-: L'amylose AL représente 70% des amyloses systémiques (si l'on exclut les amyloses par dépôt de transthyrétine non mutée, amylose sénile) avec avec 700 nouveaux cas par an.
+: L'amylose AL représente 70 % des amyloses systémiques (si l'on exclut les amyloses par dépôt de transthyrétine non mutée, amylose sénile) avec avec 700 nouveaux cas par an.
 
 ### Abréviations
 
@@ -115,7 +115,7 @@ Le suivi est rapproché (souvent trimestriel) avec surveillance des chaînes lé
 
 Le traitement de l'amylose AL contre la prolifération plasmocytaire (ou lympho-plasmocytaire dans le cas d'une IgM monoclonale) permet l'amélioration des symptômes lorsqu'une réponse hématologique profonde est obtenue (baisse voire normalisation de la chaîne légère monoclonale plasmatique). La survie des patients est excellente sauf pour ceux diagnostiqués avec une maladie cardiaque très sévère.
 
-Les traitements sont le plus souvent (pour les formes plasmocytaires): une association d'immuno-chimiothérapie associant anticorps plasmocytaire, bortézomib en SC, cyclophosphamide orale et dexaméthasone orale avec 90% de réponses hématologiques. Plusieurs traitements sont disponibles pour les patients réfractaires ou en rechute (IMIDs, anticorps bi-spécifiques) avec d'excellents résultats.
+Les traitements sont le plus souvent (pour les formes plasmocytaires): une association d'immuno-chimiothérapie associant anticorps plasmocytaire, bortézomib en SC, cyclophosphamide orale et dexaméthasone orale avec 90 % de réponses hématologiques. Plusieurs traitements sont disponibles pour les patients réfractaires ou en rechute (IMIDs, anticorps bi-spécifiques) avec d'excellents résultats.
 
 Aucun traitement n'existe pour la résorption des plaques amyloïdes constituées.
 

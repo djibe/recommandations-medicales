@@ -38,7 +38,7 @@ Diverticulite sigmoïdienne aiguë
 : *ex* sigmoïdite diverticulaire (aussi appelée diverticulite colique ou sigmoïdite aiguë)
 : Inflammation infectieuse colique d'origine diverticulaire survenant le plus souvent entre 50 et 70 ans. L'atteinte du côlon droit est prédominante en Asie.
 : Facteurs de risque de diverticulite sigmoïdienne: âge, hérédité, [obésité]({{% relref "obesite-adulte.md" %}}).  
-30% de récidives à 5 ans. 16 à 35 % se compliquent d'abcès.
+30 % de récidives à 5 ans. 16 à 35 % se compliquent d'abcès.
 
 Diverticulose du côlon
 : Anomalie anatomique du côlon acquise caractérisée par la présence de diverticules (saillies de la muqueuse dans la musculeuse).  
@@ -86,7 +86,7 @@ Autres causes de douleurs abdominales en fosse iliaque:
 {{%collapse "Clinique" %}}
 
 > [!INFO]
-> Le diagnostic clinique de poussée de diverticulite est erroné dans plus de 50% des cas. -- *[Werner 2003](https://doi.org/10.1007/s00330-003-1887-7)*
+> Le diagnostic clinique de poussée de diverticulite est erroné dans plus de 50 % des cas. -- *[Werner 2003](https://doi.org/10.1007/s00330-003-1887-7)*
 
 ### Interrogatoire
 

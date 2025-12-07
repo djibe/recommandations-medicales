@@ -97,7 +97,7 @@ Le traitement des apnées réduit significativement les risques.
 - [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}) (20 %)
 - [Diabète de type 2]({{% relref "diabete-type-2.md" %}}) (15-30 %)  
   40-70 % des DT2 ont un SAOS.
-- 60% des [insuffisants cardiaques]({{% relref "insuffisance-cardiaque-chronique.md" %}}) ont une forme d'apnées du sommeil
+- 60 % des [insuffisants cardiaques]({{% relref "insuffisance-cardiaque-chronique.md" %}}) ont une forme d'apnées du sommeil
 
 ### Abréviations en médecine du sommeil
 
@@ -447,7 +447,7 @@ Rappeler que la PPC doit être utilisée au moins 4 heures par nuit.
 
 Effets facilement réversibles par intervention du prestataire (ajustement du masque, humidificateur, température de la chambre).
 
-Environ 10% des patients peuvent avoir une somnolence résiduelle malgré un traitement adapté. Le suivi est spécialisé.
+Environ 10 % des patients peuvent avoir une somnolence résiduelle malgré un traitement adapté. Le suivi est spécialisé.
 
 {{% /collapse %}}
 {{%collapse "Apnées du sommeil: En savoir plus" %}}

@@ -47,7 +47,7 @@ C'est un facteur de risque de complications obstétricales:
 
 Rappels sur le diabète gestationnel:
 
-- La glycémie baisse de 20% pendant la grossesse chez la femme non diabétique
+- La glycémie baisse de 20 % pendant la grossesse chez la femme non diabétique
 - 18% des femmes avec un diabète gestationnel développeront un diabète de type 2 dans les 6 ans (*Diagest2*)
 - Le diabète gestationnel ne modifie pas l'incidence des asphyxies néonatales, décès périnataux et hypocalcémies néonatales
 

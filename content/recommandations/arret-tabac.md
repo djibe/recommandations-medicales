@@ -22,7 +22,7 @@ flowchart = true
 image = true
 imageWEBP = true
 imageSrc = "Composants toxiques de la cigarette par La Ligue contre le cancer"
-todo = "rankok, bénéfices de l'arrêt, aider à gérer la rechute: HAS p.33+35+36; Arret avant 30ans : élimine 100 % du risque de décès par coro. Avant 40 ans : élimine 90% du risque (Pirie Ket al. Lancet 2013 ; 381:133-41)"
+todo = "rankok, bénéfices de l'arrêt, aider à gérer la rechute: HAS p.33+35+36; Arret avant 30ans : élimine 100 % du risque de décès par coro. Avant 40 ans : élimine 90 % du risque (Pirie Ket al. Lancet 2013 ; 381:133-41)"
 +++
 
 {{%article-summary%}}
@@ -74,11 +74,11 @@ Bénéfices importants sur la morbi-mortalité (cardiovasculaire et cancer du po
 
 - **Décès annuels:** 75.000 (2019 soit 205 morts/j)  
   Répartition: 47.000 cancers, 20.000 cardiovasculaires et 11.000 par maladies respiratoires.
-- 20% des cancers attribuables au tabac soit 68.000 cas annuels (90% des cancers bronchopulmonaires, 17 localisations cancéreuses) et 80% des BPCO
+- 20 % des cancers attribuables au tabac soit 68.000 cas annuels (90 % des cancers bronchopulmonaires, 17 localisations cancéreuses) et 80 % des BPCO
 - Première cause de mortalité cardiovasculaire évitable
 - **Fumeurs quotidiens:** 23% de la population (2023, 4^e^ rang de l'OCDE)
-- Prévalence du tabagisme pendant la grossesse: 30% (la moitié arrête)  
-  Dont 20% affirment n'avoir reçu aucune information.
+- Prévalence du tabagisme pendant la grossesse: 30 % (la moitié arrête)  
+  Dont 20 % affirment n'avoir reçu aucune information.
 - 1 fumeur sur 2 meurt prématurément de son tabagisme
 - 1 hospitalisation cardiovasculaire sur 5
 - 1100 morts/an suite au tabagisme passif
@@ -324,7 +324,7 @@ Promouvoir les substituts nicotiniques pour tous afin de réduire la consommatio
 - Si besoin appliquer plusieurs patchs  
   En cas d'intolérance cutanée, changer de site tous les jours ou changer de marque.
 - Possibles dès 15 ans, aucune limitation pendant la grossesse
-- Promouvoir en [post-partum]({{% relref "post-partum.md" %}}) afin de réduire le nombre élevé de rechutes (80% dans l'année)
+- Promouvoir en [post-partum]({{% relref "post-partum.md" %}}) afin de réduire le nombre élevé de rechutes (80 % dans l'année)
 - Arrêt du tabac immédiat préconisé mais une réduction progressive sous TNS est possible
 - Peuvent être prescrits par les infirmiers
 

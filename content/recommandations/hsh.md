@@ -37,7 +37,7 @@ flowchart = true
 
 HSH
 : Homme ayant des rapports sexuel avec des hommes
-: Surexposition au [VIH]({{% relref "vih-sida.md" %}}) (prévalence 13%, 45% des cas), [syphilis]({{% relref "syphilis.md" %}}) (80% des cas), papillomavirus, [hépatite A]({{% relref "hepatite-a.md" %}}), [Monkeypox]({{% relref "mpox.md" %}}) et autres [IST](/tags/ist/).
+: Surexposition au [VIH]({{% relref "vih-sida.md" %}}) (prévalence 13%, 45% des cas), [syphilis]({{% relref "syphilis.md" %}}) (80 % des cas), papillomavirus, [hépatite A]({{% relref "hepatite-a.md" %}}), [Monkeypox]({{% relref "mpox.md" %}}) et autres [IST](/tags/ist/).
 
 ### Épidémiologie chez les hommes ayant des rapports sexuels avec des hommes
 

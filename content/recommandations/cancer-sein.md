@@ -37,7 +37,7 @@ flowchart = true
 {{%collapse "Définitions" %}}
 
 Cancer du sein
-: Premier cancer de la femme (58.500 en 2018 en métropole). 90% des cancers du sein sont diagnostiqués suite à un dépistage.
+: Premier cancer de la femme (58.500 en 2018 en métropole). 90 % des cancers du sein sont diagnostiqués suite à un dépistage.
 : Histologiquement, il s'agit principalement d'adénocarcinomes (95%) le plus souvent *intra-canalaires*, parfois *lobulaires*. Les métastases disséminent par fréquence: os > foie > poumon > moelle > cerveau.  
 Délai de 6 à 10 ans entre la mutation cancéreuse et une tumeur de 2 cm.
 : Les formes familiales représentent 15-20 % des cancers du sein.
@@ -77,7 +77,7 @@ Autres diagnostics à étayer devant une lésion du sein:
 - Kyste  
   Masse bénigne liquidienne la plus fréquente de 35 à 50 ans.
 - Mastose ou fibrose kystique du sein  
-  Très fréquente (50-80% de 30 à 50 ans). Associée à une augmentation du risque de cancer du sein en antécédent de mastose au 1^er^ degré.
+  Très fréquente (50-80 % de 30 à 50 ans). Associée à une augmentation du risque de cancer du sein en antécédent de mastose au 1^er^ degré.
 - Hyperplasie mammaire simple
 - [Écoulement mamelonnaire]({{% relref "ecoulement-mamelonnaire.md" %}})
 
@@ -289,7 +289,7 @@ Dépistage par mammographies avec double lecture tous les 2 ans chez les femmes 
 
 Dépistage identique en cas de prothèses mammaires (*INCa 2019*).
 
-Les mammographies sont remboursées à 100% (les examens supplémentaires ne le sont pas) dans le cadre du Programme national de dépistage organisé du cancer du sein (introduit en 2001, modifié en 2006, géré par DGS et INCa).
+Les mammographies sont remboursées à 100 % (les examens supplémentaires ne le sont pas) dans le cadre du Programme national de dépistage organisé du cancer du sein (introduit en 2001, modifié en 2006, géré par DGS et INCa).
 
 > La patiente ne reçoit pas ses invitations sur son compte *Ameli* (via courrier en son absence) ? Elle contacte sa CPAM.
 

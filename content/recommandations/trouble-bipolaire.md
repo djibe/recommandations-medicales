@@ -285,7 +285,7 @@ Le trouble bipolaire nécessite un traitement prophylactique au long cours, le p
 
 Autres thymorégulateurs: antiépileptique divalproate de sodium (Dépakote®, Divalcote®) ou carbamazépine.
 
-20 à 30% des patients sont difficiles à équilibrer. Dans les **centres experts**, sont également possibles: stimulation transcrânienne et électroconvulsivothérapie (ECT lors des formes graves).
+20 à 30 % des patients sont difficiles à équilibrer. Dans les **centres experts**, sont également possibles: stimulation transcrânienne et électroconvulsivothérapie (ECT lors des formes graves).
 
 #### Traitement médicamenteux de l'épisode maniaque
 

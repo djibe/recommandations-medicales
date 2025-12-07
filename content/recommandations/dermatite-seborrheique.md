@@ -47,7 +47,7 @@ Dermatite séborrhéique (DS ou dermite séborrhéique)
 - [Maladie de Parkinson]({{% relref "maladie-parkinson.md" %}}) et syndromes extrapyramidaux iatrogènes
 - [Alcoolisme chronique]({{% relref "sevrage-alcool.md" %}})
 - Carcinome des voies aéro-digestives supérieures
-- [Personne vivant avec le VIH]({{% relref "vih-sida.md" %}}) (40% des séropositifs, 80% au stade SIDA)
+- [Personne vivant avec le VIH]({{% relref "vih-sida.md" %}}) (40 % des séropositifs, 80 % au stade SIDA)
 
 {{% /collapse %}}
 {{% collapse "Clinique" %}}

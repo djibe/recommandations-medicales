@@ -38,7 +38,7 @@ todo = "flow | Rechercher chez SII avec diarrhées aiguës profuses."
 : Elle peut être pathogène lorsqu'elle exprime des toxines (dites A ou entérotoxine et B ou cytotoxine).
 
 Colonisation par *Clostridioides difficile* (ex *Claustridium difficile*)
-: Portage de la bactérie sans symptômes. Sa prévalence est élevée (4 à 15% des adultes, jusqu'à 50% en hospitalisation).
+: Portage de la bactérie sans symptômes. Sa prévalence est élevée (4 à 15% des adultes, jusqu'à 50 % en hospitalisation).
 
 Infection à *Clostridioides difficile* (ICD)
 : Atteinte toxinique majoritairement colique, de gravité très variable et dominée par les diarrhées, avec au moins 3 selles non moulées par 24 heures (sans glaires ni sang) et test positif à *C. difficile*. D'autres symptômes sont possibles (fièvre, douleurs et crampes abdominales, nausées, anorexie).

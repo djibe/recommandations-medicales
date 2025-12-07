@@ -40,7 +40,7 @@ Chapitres liés: [nodule thyroïdien]({{% relref "nodule-thyroidien.md" %}}), [h
 
 Hyperthyroïdie
 : Dysfonctionnement thyroïdien consistant en une sécrétion excessive d'hormones thyroïdiennes atteignant principalement les femmes (7/1). Le syndrome de **thyrotoxicose** est la conséquence clinique de l'excès d'hormones thyroïdiennes dans les tissus cibles.
-: 70% des hyperthyroïdies sont dues à la **maladie de Basedow**, suivie par les **goitre multinodulaire toxique** (GMNT) et l'**adénome toxique** (AT) dont la prévalence augmente avec l'âge. Ces 2 derniers ne nécessitent pas toujours un traitement radical et peuvent être révélés de façon brutale par une cardiothyréose après injection de produit de contraste iodé.  
+: 70 % des hyperthyroïdies sont dues à la **maladie de Basedow**, suivie par les **goitre multinodulaire toxique** (GMNT) et l'**adénome toxique** (AT) dont la prévalence augmente avec l'âge. Ces 2 derniers ne nécessitent pas toujours un traitement radical et peuvent être révélés de façon brutale par une cardiothyréose après injection de produit de contraste iodé.  
 La *thyrotoxicose gestationnelle* survient durant 2% des grossesses.
 : L'hyperthyroïdie centrale (*ex* adénome thyréotrope) est rare.
 
@@ -55,7 +55,7 @@ Hyperthyroïdie à T3L
 
 Maladie de Basedow
 : Hyperthyroïdie auto-immune par anticorps anti-récepteur de la TSH (TRAK) stimulants.
-: Sa fréquence diminue avec l'âge. La maladie de Basedow peut récidiver dans 50 à 60% des cas.
+: Sa fréquence diminue avec l'âge. La maladie de Basedow peut récidiver dans 50 à 60 % des cas.
 : Les complications chez la femme enceinte sont multiples: risque de **passage transplacentaires des TRAK** avec hyperthyroïdie fœtale et congénitale et risque lié aux ATS (hypothyroïdie fœtale et tératogénticité du carbimazole).
 
 ### Dosage de la TSH en cascade
@@ -272,7 +272,7 @@ Avis ophtalmologique urgent si:
 - Orbitopathie sévère (ou maligne)  
   Baisse de l'acuité visuelle, dyschromatopsie, subluxation oculaire ou inocclusion palpébrale.
 - [Dénutrition sévère]({{% relref "denutrition.md" %}}) du sujet âgé  
-  IMC < 20, amaigrissement ≥ 10% en 1 mois (15% en 6 mois ou par rapport au début de la maladie) ou albuminémie < 30 g/L.
+  IMC < 20, amaigrissement ≥ 10 % en 1 mois (15% en 6 mois ou par rapport au début de la maladie) ou albuminémie < 30 g/L.
 {{%/warning%}}
 
 {{% /collapse %}}
@@ -384,7 +384,7 @@ L'arrêt du traitement est envisageable si:
 - Si Basedow: dosage des TRAK juste avant l'arrêt du traitement
 - Après l'arrêt de l'ATS: TSH à 6-8 semaines, 3 mois, 6 mois, 12 mois puis annuelle ou si point d'appel
 
-**40-50% de rechutes** après l'arrêt du traitement (souvent dans les 6-12 mois).
+**40-50 % de rechutes** après l'arrêt du traitement (souvent dans les 6-12 mois).
 
 Après 1 an, en cas de rémission, le suivi avec TSH annuelle relève du généraliste.
 
@@ -415,7 +415,7 @@ Les 3 modalités de traitement sont possibles en cas d'orbitopathie basedowienne
 
 ### Irathérapie (iode 131 ou ^131^I)
 
-Traitement non invasif très efficace (en 1 à 3 mois) aboutissant à une hypothyroïdie définitive (5-50% dans l'année).
+Traitement non invasif très efficace (en 1 à 3 mois) aboutissant à une hypothyroïdie définitive (5-50 % dans l'année).
 
 #### Indications à l'irathérapie
 

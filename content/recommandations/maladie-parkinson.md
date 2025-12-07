@@ -191,7 +191,7 @@ La triade classique est akinésie/bradykinésie, rigidité et tremblement de rep
   - Déconditionnement physique
 - Hypertonie extrapyramidale  
   **Rigidité** plastique (manœuvre de Froment) avec roue dentée.
-- **Tremblement de repos** (70% au début)
+- **Tremblement de repos** (70 % au début)
   - Fin, rythmique, lent 4-6 Hz, unilatéral ou asymétrique au début
   - Distal (pouce, index, poignet voire lèvre, menton, mâchoire, jambes)  
     Rarement tête, cou, voix.
@@ -218,7 +218,7 @@ La triade classique est akinésie/bradykinésie, rigidité et tremblement de rep
   - Drapeaux rouges (voir section précédente)
   - AVC multiples
   - Traumatismes crâniens répétés
-  - Absence de tremblement de repos (30% n'en ont pas initialement)
+  - Absence de tremblement de repos (30 % n'en ont pas initialement)
   - Syndrome atypique  
     Rigidité axiale dominante, symptômes symétriques ou unilatéraux après 3 ans.
   - Iatrogénie  
@@ -410,7 +410,7 @@ La transpiration excessive est souvent un marqueur de fin de dose, ou de phase *
 
 #### Troubles psychotiques
 
-Les hallucinations sont fréquentes (40% sous dopaminergique), les épisodes délirants plus rares (5-10%).
+Les hallucinations sont fréquentes (40 % sous dopaminergique), les épisodes délirants plus rares (5-10%).
 
 Éliminer une autre cause ou iatrogénie et demander un avis neurologique.  
 Réduire progressivement les antiparkinsoniens les plus hallucinogènes (anticholinergiques > amantadine > agonistes dopaminergiques > IMAO B et ICOMT).

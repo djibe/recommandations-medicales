@@ -53,7 +53,7 @@ Bronchopneumopathie chronique obstructive (BPCO)
 : Le diagnostic est *spirométrique* avec un *trouble ventilatoire obstructif* (VEMS/CVF < 0,7) non réversible.
 : Les symptômes sont négligés par les patients et 3/4 des malades ne sont pas diagnostiqués.
 : Le tabagisme est la 1^re^ cause de BPCO (90%), suivie par l'expositions aux fumées.
-: Causes de mortalité: insuffisance respiratoire (10% en Gold 1, 50% en Gold 4), maladies cardio-vasculaires (20-40%), [cancers](/tags/cancer/) (10-20%).
+: Causes de mortalité: insuffisance respiratoire (10 % en Gold 1, 50 % en Gold 4), maladies cardio-vasculaires (20-40%), [cancers](/tags/cancer/) (10-20%).
 
 Exacerbation de BPCO (EABPCO)
 : Le diagnostic d'exacerbation est clinique: aggravation de dyspnée et/ou de la toux et des expectorations en moins de 14 jours. La durée est variable, parfois jusqu'à 4 à 6 semaines voire sans récupération de l'état antérieur.
@@ -141,19 +141,19 @@ VEMS
 
 #### Épidémiologie de la BPCO en France
 
-Un seul marqueur de prise en charge optimale de la BPCO sur 7 dépasse le seuil de 70% en ville (voir [Projet](/projet/), *HAS 2022*).
+Un seul marqueur de prise en charge optimale de la BPCO sur 7 dépasse le seuil de 70 % en ville (voir [Projet](/projet/), *HAS 2022*).
 {.alert .alert-info}
 
-- Prévalence: 7-10% des 40-64 ans (3,5 millions en 2010)
+- Prévalence: 7-10 % des 40-64 ans (3,5 millions en 2010)
 - Hospitalisations: 100-160.000/an (2017)  
   22,5% des patients hospitalisés ont été ré-hospitalisés.
 - Décès: 18.000/an
 - Coût moyen: de 7628 € à 20.747 €  
   Coût annuel moyen respectif d'un patient avec BPCO légère et oxygénorequérant.
-- Sous-diagnostic: 70% ne seraient pas diagnostiqués
-- 80% des cas dus au tabac
+- Sous-diagnostic: 70 % ne seraient pas diagnostiqués
+- 80 % des cas dus au tabac
 - Méconnaissance: 22% des Français ont déjà entendu parler de BPCO (*[SPF 2017](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)*) parmi lesquels seulement 1/3 cite le tabac comme cause.
-- **Excès de corticothérapie inhalée**: 70% des patients dont 35% chez GOLD A et B (*SPLF 2021*)
+- **Excès de corticothérapie inhalée**: 70 % des patients dont 35% chez GOLD A et B (*SPLF 2021*)
 
 {{% /collapse %}}
 {{%collapse "Dépistage de la BPCO" %}}
@@ -282,7 +282,7 @@ Indications aux **gaz du sang**: SpO~2~ ≤ 92%, {{< modal-btn modal-score-mmrc 
 - **Scanner thoracique**  
   Indications: exacerbations ou hospitalisations fréquentes, symptômes discordants avec la spirométrie.
 - Déficit en alpha-1 antitrypsine  
-  Dosage unique au diagnostic (surtout avant 45 ans). Une concentration < 20% évoque un déficit homozygote. (*GOLD 2025*)
+  Dosage unique au diagnostic (surtout avant 45 ans). Une concentration < 20 % évoque un déficit homozygote. (*GOLD 2025*)
 - ECBC selon le pneumologue
 - Envisager un suivi par scanner faible dose pour le [dépistage de cancer du poumon]({{% relref "cancer-poumon.md" %}})
 - NT-proBNP, D-dimères pour éliminer une part cardiaque
@@ -324,7 +324,7 @@ Indications aux **gaz du sang**: SpO~2~ ≤ 92%, {{< modal-btn modal-score-mmrc 
 - Consultation du **pneumologue** dans les 2 mois  
   {{%class%}}Avec EFR et gaz du sang.{{%/class%}}
 - **Réhabilitation respiratoire** dans les 2 à 4 semaines  
-  {{%class%}}Diminue la mortalité (50% à 5 ans) et les ré-hospitalisations.{{%/class%}}
+  {{%class%}}Diminue la mortalité (50 % à 5 ans) et les ré-hospitalisations.{{%/class%}}
 - Encourager à l'arrêt du tabac (voir *Traitement de fond*)
 - Suivi infirmier à domicile
 - Contrôler le Plan d'Action
@@ -548,7 +548,7 @@ Envisager une oxygénothérapie de longue durée si:
 
 > -- *HAS 2019*
 
-**Saturation cible au repos:** SpO~2~ ≥ 90% (PaO~2~ ≥ 60 mmHg).
+**Saturation cible au repos:** SpO~2~ ≥ 90 % (PaO~2~ ≥ 60 mmHg).
 
 {{% /collapse %}}
 {{%collapse "Suivi de la BPCO" %}}

@@ -36,7 +36,7 @@ Chapitre lié: [infertilité]({{% relref "infertilite-couple.md" %}})
 {{%collapse "Définitions" %}}
 
 Endométriose
-: Maladie pelvienne féminine fréquente (10% des femmes en âge de procréer) avec retentissement sur la qualité de vie des patientes.
+: Maladie pelvienne féminine fréquente (10 % des femmes en âge de procréer) avec retentissement sur la qualité de vie des patientes.
 : La définition de l'endométriose est histologique avec la présence de glandes ou stroma endométrial en dehors de l'utérus.  
 Elle est pathologique lorsqu'elle entraîne une **dysménorrhée**, des **douleurs pelviennes chroniques** ou une **infertilité**. L'endométriose est la 1^re^ cause de dysménorrhée secondaire de l'adolescente.  
 Les douleurs sont souvent améliorées pendant les grossesses et après la [ménopause]({{% relref "menopause.md" %}}).
@@ -73,11 +73,11 @@ Dysménorrhée
 
 ### Épidémiologie de l'endométriose
 
-- 2,5 millions de patientes en France, environ 10% des femmes en âge de procréer
-- L'endométriose est responsable de 30% des infertilités féminines
-- et 30% des douleurs pelviennes chroniques féminines
+- 2,5 millions de patientes en France, environ 10 % des femmes en âge de procréer
+- L'endométriose est responsable de 30 % des infertilités féminines
+- et 30 % des douleurs pelviennes chroniques féminines
 - 75% des douleurs pelviennes chroniques résistantes sont endométriosiques
-- 70% des adolescentes avec dysménorrhées
+- 70 % des adolescentes avec dysménorrhées
 
 ### Abréviations
 
@@ -166,7 +166,7 @@ La prise en charge de l'endométriose nécessite une consultation dédiée.
 {{%collapse "Examens complémentaires" %}}
 
 > [!INFO]
-> Une imagerie normale n'élimine pas le diagnostic d'endométriose (20% de faux négatifs).
+> Une imagerie normale n'élimine pas le diagnostic d'endométriose (20 % de faux négatifs).
 
 Pas de bilan biologique systématique pour l'endométriose.
 

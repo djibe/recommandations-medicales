@@ -38,7 +38,7 @@ Chapitre lié: [augmentation des GGT]({{% relref "augmentation-gamma-gt.md" %}})
 
 Cholangite biliaire primitive (CBP, anciennement cirrhose biliaire primitive)
 : Hépatopathie chronique auto-immune par inflammation des petites voies biliaires, elle représente la première cause de **cholestase** chronique intra-hépatique de l'adulte. Elle atteint le plus souvent les femmes après 40 ans (90 % avec prévalence 1/1000) et évolue lentement.
-: Une [hépatite auto-immune]({{% relref "hepatite-autoimmune.md" %}}) (HAI) est associée dans 10% des cas, définissant le syndrome de chevauchement CBP-HAI.
+: Une [hépatite auto-immune]({{% relref "hepatite-autoimmune.md" %}}) (HAI) est associée dans 10 % des cas, définissant le syndrome de chevauchement CBP-HAI.
 : La gravité de la cirrhose biliaire primitive est liée au risque de **cirrhose biliaire** est ses complications (hypertension portale, insuffisance hépatique, [carcinome hépatocellulaire]({{% relref "carcinome-hepatocellulaire.md" %}})).
 
 ### Abréviations

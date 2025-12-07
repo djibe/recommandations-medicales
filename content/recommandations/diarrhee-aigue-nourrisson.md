@@ -164,7 +164,7 @@ Prévention de la diarrhée et de la gastroentérite du nourrisson:
   Rotarix à M2M3 ou RotaTeq à M2M3M4 et information sur les signes d'invagination intestinale aiguë (IIA).
 
 > [!INFO]
-> Près de 90% des hospitalisations pour Rotavirus peuvent être prévenues par la vaccination. -- *GFHGNP 2024*
+> Près de 90 % des hospitalisations pour Rotavirus peuvent être prévenues par la vaccination. -- *GFHGNP 2024*
 
 {{% /collapse %}}
 {{%collapse "Critères d'hospitalisation" %}}

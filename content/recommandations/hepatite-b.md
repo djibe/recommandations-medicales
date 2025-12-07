@@ -35,7 +35,7 @@ todo = "dépistage VHB, insuff hépatocellulaire, AFEF 2020: TROD AgHBs isolés,
 
 Hépatite B
 : Maladie infectieuse du foie causée par le virus de l'hépatite B (VHB) à ADN. La transmission est sexuelle, par des fluides biologiques ou materno-fœtale. Les contaminations par échanges de seringues sont encore fréquents.
-: L'infection (ALAT normales) est le plus souvent asymptomatique, on parle d'hépatite lorsque les ALAT sont élevées. 0,1 à 1% des formes aiguës peuvent évoluer vers l'**hépatite fulminante**. De 2 à 10% des cas deviennent chroniques (90% pour les nouveaux-nés), avec risque de **cirrhose** (10-20 %) ou de **[carcinome hépatocellulaire]({{% relref "carcinome-hepatocellulaire.md" %}})** (CHC, 3-5%/an) même en l'absence de cirrhose (virus oncogène).  
+: L'infection (ALAT normales) est le plus souvent asymptomatique, on parle d'hépatite lorsque les ALAT sont élevées. 0,1 à 1% des formes aiguës peuvent évoluer vers l'**hépatite fulminante**. De 2 à 10 % des cas deviennent chroniques (90 % pour les nouveaux-nés), avec risque de **cirrhose** (10-20 %) ou de **[carcinome hépatocellulaire]({{% relref "carcinome-hepatocellulaire.md" %}})** (CHC, 3-5%/an) même en l'absence de cirrhose (virus oncogène).  
 Même en cas de disparition de l'AgHBs, un réactivation reste possible en cas d'immunosuppression par persistance d'ADN viral dans les hépatocytes.
 : Une co-infection par le virus de l'hépatite D est possible (< 2%).
 
@@ -69,7 +69,7 @@ Seulement 36.180 personnes sont en [ALD]({{% relref "affection-longue-duree.md" 
 - 2 milliards de personnes infectées par le VHB  
   316 millions de porteurs de l'antigène HBs.
 - 900.000 décès annuels estimés
-- 50% des carcinomes hépatocellulaires (CHC)
+- 50 % des carcinomes hépatocellulaires (CHC)
 
 ### Abréviations
 

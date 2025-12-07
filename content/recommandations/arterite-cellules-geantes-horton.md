@@ -211,7 +211,7 @@ Recommandations pour la prise en charge de la maladie de Horton (artérite à ce
 
 La **cortico-sensibilité** spectaculaire est un argument supplémentaire en faveur du diagnostic d'artérite à cellules géantes. Le risque ischémique grave disparaît sous 1 à 2 semaines.
 
-Le traitement devrait être arrêté sous 12 mois (20% de corticodépendance) et est débuté avec 0,7-1 mg/kg/j de prednisone (max 80 mg/j per os).
+Le traitement devrait être arrêté sous 12 mois (20 % de corticodépendance) et est débuté avec 0,7-1 mg/kg/j de prednisone (max 80 mg/j per os).
 
 Mesures associées aux corticoïdes: suivi du poids, alimentaire, supplémentation en vitamine D, calcul des apports en calcium, ostéodensitométrie, [décroissance progressive]({{% relref "corticoides.md" %}}) (1 mg/mois à partir de 5 mg/j).
 

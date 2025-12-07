@@ -67,7 +67,7 @@ Cartographies pour l'aide à l'installation des médecins généralistes avec le
 {{% /collapse %}}
 {{%collapse "Aides de l'Assurance Maladie" %}}
 
-Ces aides disparaîtront le 31/12/2025. Elles seront remplacées par un bonus de 10% sur le Forfait Patientèle Médecin Traitant (FPMT).
+Ces aides disparaîtront le 31/12/2025. Elles seront remplacées par un bonus de 10 % sur le Forfait Patientèle Médecin Traitant (FPMT).
 {.alert .alert-warning}
 
 Aides possibles uniquement pour une installation en ZIP.
@@ -92,7 +92,7 @@ En cas de résiliation anticipée du contrat: le médecin restitue le montant au
 
 #### Avantages
 
-1. Aide forfaitaire de 50.000 € accordée une seule fois, versée en 2 temps. 50% à l'installation et 50% après 1 an
+1. Aide forfaitaire de 50.000 € accordée une seule fois, versée en 2 temps. 50 % à l'installation et 50 % après 1 an
 2. Proratisation au temps passé: 50.000 € pour 4 jours, 37.500 € pour 3 jours...  
   Zone particulièrement déficitaire, majoration par l'ARS: 60.000 € pour 4 jours, 45.000 pour 3 jours...
 3. Majoration de 2500€ en cas d'exercice libéral partagé dans un hôpital de proximité
@@ -165,7 +165,7 @@ Faciliter l'installation des médecins généralistes en zone sous-dense (ZIP ou
 
 #### Aide à l'installation des professionnels de santé libéraux
 
-Financement de 50% des dépenses (max 15.000 €) des travaux d'installation et/ou acquisition de l'équipement (médical, informatique, sécurité).  
+Financement de 50 % des dépenses (max 15.000 €) des travaux d'installation et/ou acquisition de l'équipement (médical, informatique, sécurité).  
 Plafond de 30.000 € par cabinet.
 
 > -- *[Site du CRIF](https://www.iledefrance.fr/aide-linstallation-des-professionnels-de-sante-liberaux)*
@@ -174,8 +174,8 @@ Plafond de 30.000 € par cabinet.
 
 Financement de la création de nouvelles structures d'exercices collectif (création, l'extension et l'équipement de ces établissements).
 
-- Subvention à hauteur de 30% du montant (immobilier + travaux) avec un plafond de 250.000 €
-- À hauteur de 50% de la dépense de l'équipement dans la limite de 100.000 €
+- Subvention à hauteur de 30 % du montant (immobilier + travaux) avec un plafond de 250.000 €
+- À hauteur de 50 % de la dépense de l'équipement dans la limite de 100.000 €
 
 {{% /collapse %}}
 {{%sources%}}

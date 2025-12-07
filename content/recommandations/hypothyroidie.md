@@ -45,7 +45,7 @@ Hypothyroïdie
 : Définition biologique de l'hypothyroïdie avérée: ==TSH > 10 mUI/L et T4L < intervalle de référence du laboratoire==.
 : Les principales causes sont auto-immunes (thyroïdite chronique lymphocytaire dont maladie de Hashimoto avec goitre et anticorps anti-TPO) et iatrogène (médicament, radiothérapie).
 : On la distingue de l'**[hypothyroïdie fruste ou infraclinique]({{% relref "hypothyroidie-fruste.md" %}})** où la **TSH est élevée de façon isolée** (la T4L est dans l'intervalle) à 2 reprises espacées d'au moins 6 semaines.
-: L'hypothyroïdie atteint 1 à 2% de la population, dont ⅔ de femmes et 10% des sujets âgés.
+: L'hypothyroïdie atteint 1 à 2% de la population, dont ⅔ de femmes et 10 % des sujets âgés.
 
 ### Facteurs favorisants l'hypothyroïdie
 
@@ -77,7 +77,7 @@ Pathologies responsables d'hypothyroïdie, le plus souvent par insuffisance thyr
   - Dans les suites d'une infection respiratoire: syndrome grippal, inflammatoire avec un goitre ferme et douloureux
   - Phase de thyrotoxicose puis hypothyroïdie le plus souvent transitoire
 - Thyroïdite transitoire  
-  Thyrotoxicose pauci-symptomatique puis hypothyroïdie séquellaire dans 20% des cas.
+  Thyrotoxicose pauci-symptomatique puis hypothyroïdie séquellaire dans 20 % des cas.
 - Thyroïdite du post-partum
   - Fréquente (5-10 % des femmes), survient dans l'année, surtout si diabète type 1 ou taux élevés d'anticorps antithyroïdiens au 1er trimestre. Récidive dans 70 % des cas à la grossesse suivante
   - Souvent transitoire (70 %), contrôle TSH à 1 an
@@ -247,7 +247,7 @@ En cas d'indication de traitement peu claire (ex. doses faibles de LT4), il est 
 
 Délai de **2 semaines à l'instauration du traitement** pour observer l'amélioration des symptômes. Certains signes peuvent perdurer quelques mois après l'instauration. L'équilibre plasmatique n'est pas atteint avant 6 semaines.
 
-**NB. Le traitement ne doit pas être débuté sans dosage préalable de la TSH** {{%class%}}(30% des traitements introduits sans TSH selon *HAS 2022*){{%/class%}}.
+**NB. Le traitement ne doit pas être débuté sans dosage préalable de la TSH** {{%class%}}(30 % des traitements introduits sans TSH selon *HAS 2022*){{%/class%}}.
 
 ### Lévothyroxine sodique (opothérapie substitutive)
 
@@ -334,7 +334,7 @@ Indications à une consultation par l'endocrinologue pour hypothyroïdie:
   - Suivi rapproché et endocrinologique
   - Revenir aux doses habituelles dès l'accouchement sauf allaitement
 - **Coma myxœdémateux**  
-  **Urgence thérapeutique** avec pronostic engagé (20-30% de décès).  
+  **Urgence thérapeutique** avec pronostic engagé (20-30 % de décès).  
   Appeler le {{<phone>}}15{{</phone>}} pour transfert médicalisé en réanimation.
 
 ### Hypothyroïdie secondaire

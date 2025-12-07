@@ -80,7 +80,7 @@ Recommandations pour la prise en charge des molluscums contagiosums, essentielle
   - Curetage  
     Douloureux, parfois renouvelé.
   - ou cryothérapie par azote liquide  
-    Douloureuse, applications répétées, efficacité 90% à 6 semaines.
+    Douloureuse, applications répétées, efficacité 90 % à 6 semaines.
 - Information du patient: [guide Dermato-Info](https://dermato-info.fr/les-maladies-de-la-peau/molluscum-contagiosum)
 
 Une anesthésie locale est possible (crème de lidocaïne).

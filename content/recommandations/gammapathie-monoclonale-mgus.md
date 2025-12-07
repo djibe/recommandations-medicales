@@ -36,7 +36,7 @@ Chapitre lié: [électrophorèse des protéines sériques (EPS)]({{% relref "ele
 {{%collapse "Définition" %}}
 
 Gammapathie monoclonale de signification indéterminée (MGUS)
-: Protéine monoclonale inférieure à 30 g/L et plasmocytose cellulaire inférieure à 10% dans la moelle osseuse chez un sujet asymptomatique (absence de lésions organiques associées au myélome multiple ou aux tumeurs lymphoplasmocytaires dites *CRAB*: hypercalcémie [C], insuffisance rénale [R], anémie [A] ou lésions osseuses [B]).
+: Protéine monoclonale inférieure à 30 g/L et plasmocytose cellulaire inférieure à 10 % dans la moelle osseuse chez un sujet asymptomatique (absence de lésions organiques associées au myélome multiple ou aux tumeurs lymphoplasmocytaires dites *CRAB*: hypercalcémie [C], insuffisance rénale [R], anémie [A] ou lésions osseuses [B]).
 : Il peut s'agir d'une immunoglobuline ou de chaînes légères dans le sérum ou dans l'urine.
 : La prévalence des MGUS augmente avec l'âge (3,2 % après 50 ans, 8,9 % après 85 ans) avec un âge médian de 70 ans.
 : La sévérité tient au potentiel d'évolution vers une hémopathie lymphoïde maligne comme le **myélome multiple** (IgG, IgA ou chaînes légères) ou le lymphome lymphoplasmocytaire (dit maladie de Waldenström, à IgM). Transformation de 1 %/an mais très faible en cas de chaînes légères avec 0,27 %/an.

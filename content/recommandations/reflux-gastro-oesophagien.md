@@ -39,7 +39,7 @@ Les recommandations HAS 2024 pour le RGO du nourrisson ne sont pas encore intég
 
 Reflux gastro-œsophagien (RGO)
 : Ensemble des manifestations liées à la remontée d'acidités gastriques vers l'œsophage. Affection le plus souvent bénigne. Le reflux gastrique est physiologique lorsqu'il est bref et occasionnel.
-: Le RGO atteint 10% de la population (*SNFGE*).
+: Le RGO atteint 10 % de la population (*SNFGE*).
 
 Pyrosis
 : Sensation de brûlure rétro-sternale ascendante.
@@ -113,7 +113,7 @@ Le reflux gastro-œsophagien est un diagnostic d'interrogatoire devant des signe
   Durée des repas, variété, délai avec de s'allonger.
 - Signes typiques de reflux gastro-œsophagien:
   - **Pyrosis**  
-    {{%class%}}Spécificité de 90% pour le RGO.{{%/class%}}
+    {{%class%}}Spécificité de 90 % pour le RGO.{{%/class%}}
   - **Régurgitations acides** (liquides ou alimentaires)
   - **Syndrome postural**: aggravation des symptômes allongé, penché en avant et en post-prandial
 - Symptômes atypiques de reflux
@@ -303,7 +303,7 @@ graph TB
 - [SNFGE. Fiche d'information avant la réalisation d'une endoscopie digestive haute (PDF)](https://www.snfge.org/sites/default/files/SNFGE/Rubrique_GdPublic/Fiches-Infos-Patients/information_patient_gastroscopie_diagnostique_sfed-snfge.pdf)
 - Maladie bénigne liée à la faiblesse du sphincter œsophagien.  
 Favorisée par l'obésité et une hernie hiatale.
-- Maladie très fréquente atteignant régulièrement 10% de la population.
+- Maladie très fréquente atteignant régulièrement 10 % de la population.
 - Du fait de l'absence de clapet, le traitement consiste à éviter de faire remonter le contenu gastrique grâce aux mesures d'hygiènes
 - Mais aussi par les médicaments qui diminuent l'acidité gastrique.
 

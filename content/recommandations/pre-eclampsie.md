@@ -69,11 +69,11 @@ Pré-éclampsie (ou prééclampsie)
 ### Épidémiologie de la pré-éclampsie en France
 
 - Prévalence de la pré-éclampsie: 1 à 2% des grossesses
-- 10% évoluent vers une pré-éclampsie sévère
-- L'incidence a diminué de 50% sur la période 2010-2020  
+- 10 % évoluent vers une pré-éclampsie sévère
+- L'incidence a diminué de 50 % sur la période 2010-2020  
   Ratio 0,5/100.000 naissances vivantes (2010-2012).
 - La pré-éclampsie sévère est une des principales causes de décès maternel  
-  70% seraient évitables avec une prise en charge adaptée.
+  70 % seraient évitables avec une prise en charge adaptée.
 - Responsable d'1/3 des naissances prématurées
 
 ### Abréviations

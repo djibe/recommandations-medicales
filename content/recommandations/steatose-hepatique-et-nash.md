@@ -67,7 +67,7 @@ Les responsables de l'inflammation hépatique sont principalement les éléments
 
 - Première cause de maladie chronique du foie
 - Prévalence de la stéatopathie métabolique (NAFLD): **1/4** des Français
-- Parmi lesquels 20-30% développent une NASH: 2,3 millions (2016, et une prévision de 3,39 millions atteints en 2030)
+- Parmi lesquels 20-30 % développent une NASH: 2,3 millions (2016, et une prévision de 3,39 millions atteints en 2030)
 - Parmi lesquels 217.000 sont en fibrose avancée (F3-F4, *cohorte CONSTANCES*)  
   avec risque de carcinome hépatocellulaire et décompensations hépatiques.
 
@@ -129,7 +129,7 @@ Le plus souvent, la stéatopathie métabolique est découverte par des **anomali
   ASAT/ALAT > 1 fait suspecter une cirrhose.
 - Cholestase ([GGT]({{% relref "augmentation-gamma-gt.md" %}}) < 10 N)
 - [Hyperferritinémie]({{% relref "hyperferritinemie.md" %}}) (< 1000 µg/L avec CST < 45%)  
-  10% ont une hépatosidérose dysmétabolique.
+  10 % ont une hépatosidérose dysmétabolique.
 - Cirrhose cryptogénique  
   Les lésions histologiques de la NASH ne sont plus identifiables.
 - Terrain  
@@ -190,7 +190,7 @@ Marqueurs non invasifs de l'évaluation du foie pour éviter la ponction-biopsie
 {{%collapse "Traitement de la NASH" %}}
 
 > [!INFO]
-> << ... perdre 10% du poids du corps fait disparaître la stéatohépatite dans 90% des cas >>. -- *SNFGE*
+> << ... perdre 10 % du poids du corps fait disparaître la stéatohépatite dans 90 % des cas >>. -- *SNFGE*
 
 La prise en charge de la stéatohépatite non alcoolique (NASH) repose sur la perte de poids (10%) et la correction de chacun des facteurs de risque cardiovasculaire / métabolique (tabac, hypertension, LDL, régime méditerranéen).
 
@@ -222,7 +222,7 @@ graph TB
   hautRisque -- Oui envisager PBH--> gastro
   bilan("<strong>Compléter le bilan</strong><br>—<br>- NFS, bilan hépatique, TP<br>- Glycémie, lipidique<br>- Échographie hépatique<br>- Sérologies VHB, VHC<br>± CST")
     bilan --> fib4[Score FIB-4 annuel]
-      fib4 -- "&lt; 1,3 | 2 si +65 ans" --> rhd("- Optimisation cardiovasculaire<br>- Perte 10% poids<br>- FIB-4 annuel")
+      fib4 -- "&lt; 1,3 | 2 si +65 ans" --> rhd("- Optimisation cardiovasculaire<br>- Perte 10 % poids<br>- FIB-4 annuel")
       fib4 -- "≥ 1,3 | 2" --> nonInvasif("Compléter par Fibromètre®,<br>Fibrotest® ou ELF®")
         nonInvasif -- Négatif --> rhd
         nonInvasif -- Positif --> gastro(Gastro-entérologue)

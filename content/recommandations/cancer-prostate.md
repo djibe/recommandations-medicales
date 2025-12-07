@@ -40,7 +40,7 @@ Chapitres liés: [document d'information éclairée INCa](https://www.cancer.fr/
 
 Cancer de la prostate (CaP)
 : Dégénérescence tumorale prostatique en **adénocarcinome**: sporadique (80%), héréditaire (10%) ou familial (10%).
-: L'évolution initiale est intra-prostatique (cancer localisé) puis **métastatique ganglionnaire et osseuse** (foie et poumon rares). Moins de 20% des patients ont des métastases à 10 ans.
+: L'évolution initiale est intra-prostatique (cancer localisé) puis **métastatique ganglionnaire et osseuse** (foie et poumon rares). Moins de 20 % des patients ont des métastases à 10 ans.
 
 Cancer de la prostate héréditaire
 : Au moins 3 cas sur 3 degrés de la même branche familiale ou au moins 2 cas de la même famille avant 55 ans.
@@ -80,7 +80,7 @@ Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de G
 
 - **Incidence du cancer de la prostate:** 59.885 nouveaux cas (métropole 2018, 1^er^ cancer de l'homme)
 - **Décès:** 9228 (métropole 2022, 2^e^ cause de décès par cancer de l'homme)
-- Survie à 5 ans: 92 % (80% à 10 ans)
+- Survie à 5 ans: 92 % (80 % à 10 ans)
 - Âge médian au diagnostic: 69 ans
 - Prévalence du cancer de la prostate à l'autopsie: 5% avant 30 ans et 59% chez les +79 ans  
   Enjeu de ne traiter que les cancers agressifs.

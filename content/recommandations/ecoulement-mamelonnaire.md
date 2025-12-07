@@ -66,7 +66,7 @@ Pathologies à l'origine d'un écoulement mamelonnaire:
   - Production ectopique de prolactine (carcinome bronchogénique)
   - Pathologie hypothalamique
 - Tumeur du sein
-  - Papillomes intracanalaires, ectasie canalaire (80% des EM colorés)
+  - Papillomes intracanalaires, ectasie canalaire (80 % des EM colorés)
   - [Carcinome canalaire]({{% relref "cancer-sein.md" %}})  
     Le risque de malignité augmente avec l'âge (+50 ans).
 

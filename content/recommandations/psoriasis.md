@@ -86,7 +86,7 @@ SFD
   - Absence de cicatrices
   - Muqueuses et phanères (ongles ++)
   - Surface corporelle atteinte ([rappel](https://commons.wikimedia.org/wiki/File:Wallace_rule_of_nines-en.svg), simplement 1 paume = 1%)
-  - Symptômes: prurit (60% lors des poussées), douleurs des paumes et plantes
+  - Symptômes: prurit (60 % lors des poussées), douleurs des paumes et plantes
   - Complications: eczématisation (suintement, prurit), [fissure anale]({{% relref "fissure-anale.md" %}}), [alopécie]({{% relref "alopecie.md" %}})
   - Signes associés: SAPHO (synovite, acné, pustulose, hyperostose, ostéite)
   - Sévérité: [score PASI (PDF)](https://www.sfdermato.org/upload/scores/formulaire-de-calcul-de-score-pasi-239e58233872fe425ce7a8a3232d0265.pdf)
@@ -122,7 +122,7 @@ Chez l'**enfant**, il est localisé au **siège chez le nourrisson**, **aigu en 
 Deux formes de psoriasis sont des **urgences médicales**:
 
 - **Psoriasis érythrodermique**  
-  Psoriasis généralisé (> 90% de la peau), desquamation abondante et épaississement cutané. Parfois par rebond à l'arrêt d'un traitement. Rechercher une toxidermie (différentielle).
+  Psoriasis généralisé (> 90 % de la peau), desquamation abondante et épaississement cutané. Parfois par rebond à l'arrêt d'un traitement. Rechercher une toxidermie (différentielle).
 - **Psoriasis pustuleux**  
   De novo ou sur psoriasis connu, facteur déclenchant (grossesse, médicaments), début brutal avec AEG, fièvre élevée. Placards rouges vifs thoraciques se couvrant de pustules laiteuses.
 - Psoriasis au cours de l'[infection VIH]({{% relref "vih-sida.md" %}})  
@@ -191,7 +191,7 @@ Le traitement du **rhumatisme psoriasique** est rhumatologique et n'est pas abor
 
 ### Traitements locaux du psoriasis : dermocorticoïdes et analogues de la vitamine D3
 
-Les traitements locaux du psoriasis (dermocorticoïdes et analogues de la vitamine D3) peuvent être **combinés**. Ils sont le socle de la prise en charge des psoriasis peu étendus (< 10% de la surface corporelle).
+Les traitements locaux du psoriasis (dermocorticoïdes et analogues de la vitamine D3) peuvent être **combinés**. Ils sont le socle de la prise en charge des psoriasis peu étendus (< 10 % de la surface corporelle).
 
 #### Les dermocorticoïdes
 
@@ -218,7 +218,7 @@ Irritation locale possible (visage et plis surtout).
 
 #### Acide salicylique kératolytique
 
-L'acide salicylique est utile en courte durée pour son action kératolytique. Ne pas dépasser une concentration de 10% (20% si médecin spécialisé) pour décaper la couche squameuse.
+L'acide salicylique est utile en courte durée pour son action kératolytique. Ne pas dépasser une concentration de 10 % (20 % si médecin spécialisé) pour décaper la couche squameuse.
 
 **Spécialités:** Coricide le diable® 11g/100g, préparation magistrale (ex: acide salicylique 10 g + huile de cade 10 g + Cold cream sqp 200 g).
 
@@ -229,7 +229,7 @@ Association dermocorticoïde fort + acide salicylique: [Diprosalic® pommade](ht
 {{%info%}}
 Il est recommandé de proposer un traitement systémique pour un psoriasis modéré à sévère défini la présence d'au moins un critère parmi:
 
-- Psoriasis > 10% de la surface corporelle
+- Psoriasis > 10 % de la surface corporelle
 - Score PASI > 10
 - {{< modal-btn modal-score-dlqi >}}Score DLQI{{< /modal-btn >}} > 10
 - Altération significative du bien-être physique, social ou psychologique
@@ -256,7 +256,7 @@ Les traitements privilégiés sont en **gras**. La réévaluation du traitement 
 
 {{< mermaid title="Prise en charge du psoriasis par le médecin généraliste. Dr JB Fron d'après SFD 2018" >}}
 graph TB
-  suspicion["<b>Suspicion de psoriasis</b><br>—<br>Chez l'adulte jeune:<br>- Plaques érythémato-squameuses<br>quasi symétriques<br>- Prurit en poussée<br>- Zones de frottement<br>- Contexte de stress<br>- Respect du visage"] --> clinique["<b>Diagnostic clinique</b><br>le plus souvent<br>—<br>- Antécédents<br>- Traitements en cours et essayés<br>- Facteurs modificateurs<br>- Localisations<br>- Phanères<br>- Surface corporelle atteinte<br>- Symptômes<br>- Complications<br>- DLQI, PASI, psychologique"] --> mesures("<b>Mesures générales</b><br>—<br>- glycémie, bilan lipidique<br>- Proposer sérologie cœliaque<br>- Rechercher une iatrogénie<br>- Arrêt tabac, alcool<br>- Corriger un surpoids<br>- Topiques: bains, émollients<br>- Soutien psychologique<br>- Information, ETP<br>- Associations") -- "Surface ≤ 10% et<br>PASI/DLQI ≤ 10" --> traitement("<b>Traitement</b><br>—<br>- Dermocorticoïde<br>- Analogue de la vitamine D3") -. Échec .-> dermatologue
+  suspicion["<b>Suspicion de psoriasis</b><br>—<br>Chez l'adulte jeune:<br>- Plaques érythémato-squameuses<br>quasi symétriques<br>- Prurit en poussée<br>- Zones de frottement<br>- Contexte de stress<br>- Respect du visage"] --> clinique["<b>Diagnostic clinique</b><br>le plus souvent<br>—<br>- Antécédents<br>- Traitements en cours et essayés<br>- Facteurs modificateurs<br>- Localisations<br>- Phanères<br>- Surface corporelle atteinte<br>- Symptômes<br>- Complications<br>- DLQI, PASI, psychologique"] --> mesures("<b>Mesures générales</b><br>—<br>- glycémie, bilan lipidique<br>- Proposer sérologie cœliaque<br>- Rechercher une iatrogénie<br>- Arrêt tabac, alcool<br>- Corriger un surpoids<br>- Topiques: bains, émollients<br>- Soutien psychologique<br>- Information, ETP<br>- Associations") -- "Surface ≤ 10 % et<br>PASI/DLQI ≤ 10" --> traitement("<b>Traitement</b><br>—<br>- Dermocorticoïde<br>- Analogue de la vitamine D3") -. Échec .-> dermatologue
     clinique -- Diagnostic différentiel --> différentiel("- Pityriasis rosé de Gibert<br>- Dermatite séborrhéique<br>- Eczéma<br>- Lymphome cutané<br>- Mycose<br>- Toxidermie")
     clinique -- Doute diagnostique --> dermatologue("Dermatologue<br>Proposer sérologies<br>VIH et syphilis")
       mesures -- "Sévère" --> dermatologue

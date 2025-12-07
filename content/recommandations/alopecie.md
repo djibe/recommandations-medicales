@@ -36,7 +36,7 @@ flowchart = true
 
 Alopécie
 : Raréfaction ou disparition des cheveux.
-: L'**alopécie androgénétique** (AAG) a une distribution typique. Elle est la première cause de chute des cheveux et atteint jusqu'à 80% des hommes et 42% des femmes caucasiens. Les autres grandes causes d'alopécie sont l'effluvium télogène et la pelade.
+: L'**alopécie androgénétique** (AAG) a une distribution typique. Elle est la première cause de chute des cheveux et atteint jusqu'à 80 % des hommes et 42% des femmes caucasiens. Les autres grandes causes d'alopécie sont l'effluvium télogène et la pelade.
 : L'alopécie peut être à l'origine d'une altération significative de la **qualité de vie**.
 
 ### Physiologie de la pousse des cheveux

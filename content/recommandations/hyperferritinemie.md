@@ -98,7 +98,7 @@ Orientation diagnostique et étiologie d'une hyperferritinémie.
 - **Hépatite** (aiguë ou chronique)  
   CST > 45%, pas de surcharge en fer, transaminases élevées.
 - **Alcoolisme**  
-  HF fluctuante, CST normal/peu élevé, surcharge en fer absente/modérée. Baisse de 50% en 15 jours à l'arrêt.
+  HF fluctuante, CST normal/peu élevé, surcharge en fer absente/modérée. Baisse de 50 % en 15 jours à l'arrêt.
 - **Transfusions multiples**
   - Myélodysplasie, thalassémie
   - CST élevé, surcharge en fer globale, [anémie chronique]({{% relref "anemie.md" %}})

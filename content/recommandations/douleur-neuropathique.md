@@ -29,7 +29,7 @@ flowchart = true
 - Coter la douleur sur 10 (EN, EVA)
 - Prise en charge de première intention des douleurs neuropathiques: duloxétine, gabapentine ou tricyclique  
   Emplâtre de lidocaïne ou TENS pour une atteinte superficielle localisée.
-- Efficacité du traitement: essai de chaque molécule au moins 6 semaines à dose maximale tolérée (sauf intolérance) et viser une réduction douleur d'au moins 30% et/ou une amélioration fonctionnelle d'au moins 30%
+- Efficacité du traitement: essai de chaque molécule au moins 6 semaines à dose maximale tolérée (sauf intolérance) et viser une réduction douleur d'au moins 30 % et/ou une amélioration fonctionnelle d'au moins 30%
 - Avis neurologique en cas de difficultés (étiologique, thérapeutique ...)
 - [Annuaire des structures spécialisées douleur chronique (SDC)](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc)
 
@@ -45,7 +45,7 @@ Polyneuropathie diabétique douloureuse (NDD)
 : Le diagnostic est clinique: caractères neuropathiques et atteinte des petites fibres (diminution de la perception de la piqûre et/ou chaud/froid), allodynie au tact ou au frottement. Pas d'intérêt de l'EMG sauf forme atypique. Atteinte des grosses fibres plus tardive.
 : Elle doit être différenciée de la polyneuropathie chronique sensitivo-motrice (PCSM) distale des grosses fibres, symétrique et peu symptomatique objectivée par le test au monofilament 10g (+ diapason et coton) qui est un marqueur de pied à risque.
 : L'amélioration de l'équilibre glycémique n'améliore pas les douleurs neuropathiques.
-: Prévalence: 20% en DT2, 5% en DT1
+: Prévalence: 20 % en DT2, 5% en DT1
 
 Allodynie
 : Douleurs provoquées par une stimulation normalement non douloureuse.
@@ -334,7 +334,7 @@ graph TB
       autreLigne1 -. 2e intention .-> autreLigne2("- Prégabaline<br>- Tramadol<br>- Antidépresseur<br>+ gabapentinoïde") -. Échec .-> centre
 {{< /mermaid >}}
 
-> Essai de chaque molécule ≥ 6 semaines à dose maximale tolérée (sauf intolérance) et vise réduction douleur ≥ 30% et/ou amélioration fonctionnelle ≥ 30%.  
+> Essai de chaque molécule ≥ 6 semaines à dose maximale tolérée (sauf intolérance) et vise réduction douleur ≥ 30 % et/ou amélioration fonctionnelle ≥ 30%.  
 Psychothérapie associée dès la 2^e^ ligne de traitement.  
 Bilan étiologique par le neurologue en cause non évidente.
 

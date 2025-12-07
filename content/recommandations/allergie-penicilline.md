@@ -50,7 +50,7 @@ Vascularites
 333 cas sévères 2002-2010:
 
 - Femmes 62%, âge moyen 42,7 ans
-- 80% ambulatoire
+- 80 % ambulatoire
 - Décès: 1,8%
 - Médicaments identifiés
   - Antibiotiques 49,6%  
@@ -62,7 +62,7 @@ Vascularites
 
 - 23% plus de C. difficile
 - 14% plus de SARM
-- 30% plus d'entérocoque résistant à la vancomycine
+- 30 % plus d'entérocoque résistant à la vancomycine
 
 > Macy, Eric, and Richard Contreras. “Health Care Use and Serious Infection Prevalence Associated with Penicillin ‘allergy' in Hospitalized Patients: A Cohort Study.” Journal of Allergy and Clinical Immunology 133, no. 3 (2014): 790-96.
 

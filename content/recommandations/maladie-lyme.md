@@ -121,7 +121,7 @@ La découverte fortuite d'une sérologie de Lyme positive sans signes évocateur
 Antibiothérapie de tout érythème migrant sans aucun examen complémentaire. En cas de doute, consultation de contrôle à 7 jours.
 {.alert .alert-info}
 
-L'érythème migrant (de Lipschutz) est présent pour 80% des borrélioses:
+L'érythème migrant (de Lipschutz) est présent pour 80 % des borrélioses:
 
 - Notion de piqûre locale de tique voire trace de la piqûre (inconstante)
 - Survenue dans les **3 à 30 jours**:
@@ -190,7 +190,7 @@ Autres signes et symptômes de la maladie de Lyme:
 
 ### Neuroborréliose de Lyme
 
-La neuroborréliose est présente dans 6,5 à 15 % des borrélioses de Lyme. Elle survient **durant la forme disséminée précoce** (moins de 6 mois pour +90% des cas, délai de 15 jours à 1 an).
+La neuroborréliose est présente dans 6,5 à 15 % des borrélioses de Lyme. Elle survient **durant la forme disséminée précoce** (moins de 6 mois pour +90 % des cas, délai de 15 jours à 1 an).
 
 > [!INFO]
 > Toute manifestation neurologique dans les suites d'un érythème migrant non traité ou d'une piqûre de tique avérée doit faire évoquer une neuroborréliose: réaliser une sérologie de Lyme et adresser au centre de compétence des MVT ([annuaire](https://crmvt.fr)) pour investigations et ponction lombaire.

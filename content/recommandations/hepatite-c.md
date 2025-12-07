@@ -41,7 +41,7 @@ Chapitres liés: [carcinome hépatocellulaire]({{% relref "carcinome-hepatocellu
 {{%collapse "Définition" %}}
 
 Hépatite C
-: Maladie du foie causée par l'infection chronique du virus de l'hépatite C (VHC, identifié en 1989), à l'origine d'une hépatite la plus souvent silencieuse qui se chronicise dans 80% des cas.  
+: Maladie du foie causée par l'infection chronique du virus de l'hépatite C (VHC, identifié en 1989), à l'origine d'une hépatite la plus souvent silencieuse qui se chronicise dans 80 % des cas.  
 La transmission de l'hépatite C est sanguine (drogues intraveineuses ou sniffées, sexe). Elle atteinte surtout les hommes de 40 à 59 ans.
 : Des médicaments antiviraux permettent une guérison totale dans la grande majorité des cas.
 : Enjeux liés à la diffusion du virus, la cirrhose et ses complications: hypertension portale et carcinome hépatocellulaire.
@@ -82,7 +82,7 @@ VHC
 
 - 170 millions de personnes infectées (3%)
 - Incidence: 3 à 4 millions de nouveaux cas par an
-- Responsable de 70% des hépatopathies chroniques
+- Responsable de 70 % des hépatopathies chroniques
 
 {{% /collapse %}}
 {{%collapse "Hépatite C - Qui dépister?" %}}
@@ -182,14 +182,14 @@ Test non invasif de fibrose hépatique en première intention:
 
 - Radiologique: élastographie hépatique
   - Absence de maladie sévère si résultat < 10 kPa
-  - [Remb. 100% en ALD x 1/an](https://www.aideaucodage.fr/ccam-hlqm002)
+  - [Remb. 100 % en ALD x 1/an](https://www.aideaucodage.fr/ccam-hlqm002)
 - Tests sanguins
   - FibroTest®  
     Absence de maladie sévère si résultat ≤ 0,58.  
-    [Remb. 100% en ALD x 1/an](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=1000&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
+    [Remb. 100 % en ALD x 1/an](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=1000&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
   - Fibromètre®  
     Absence de maladie sévère si résultat ≤ 0,786.  
-    [Remb. 100% en ALD x 1/an](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=1001&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
+    [Remb. 100 % en ALD x 1/an](http://www.codage.ext.cnamts.fr/cgi/nabm/cgi-fiche?p_code_nabm=1001&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
 
 > Mentionner sur l'ordonnance << hépatite chronique C non traitée >> pour le remboursement.
 
@@ -199,7 +199,7 @@ Test non invasif de fibrose hépatique en première intention:
 La prise en charge de l'hépatite C par un antiviral est possible par tout médecin afin de maximiser les chances de traitement en contexte de parcours de soins difficile.
 
 **Objectifs:** réduire la mortalité toutes causes et obtenir une guérison virologique.  
-**Guérison:** réponse virologique avec ARN du VHC indétectable dans le plasma au moins 12 semaines après l'arrêt du traitement. Obtenue dans 90% des cas avec les AAD.
+**Guérison:** réponse virologique avec ARN du VHC indétectable dans le plasma au moins 12 semaines après l'arrêt du traitement. Obtenue dans 90 % des cas avec les AAD.
 
 ### Conditions du traitement de l'hépatite C par le médecin généraliste
 
@@ -254,7 +254,7 @@ Mesure de la **charge virale** obligatoire avant de débuter le traitement. **EC
 - [Maviret® (PDF)](https://ec.europa.eu/health/documents/community-register/2020/20200303147380/anx_147380_fr.pdf) (glécaprévir + pibrentasvir)  
   Maviret® 100/40 mg 3 cp en 1 prise quotidienne lors d'un repas pendant 8 semaines
 
-**Effets indésirables principaux:** asthénie, céphalées, nausées d'intensité modérée, atteignant 10% des patients.
+**Effets indésirables principaux:** asthénie, céphalées, nausées d'intensité modérée, atteignant 10 % des patients.
 
 {{%info%}}
 Contrôle de la charge virale VHC 12 à 24 semaines après la fin du traitement:

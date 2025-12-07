@@ -83,7 +83,7 @@ Causes fréquentes de toux chronique devant être éliminées:
 
 - Médicamenteuse
   - **IEC**  
-    {{%class%}}3/4 des toux médicamenteuses. 5-20% des patients traités. À l'arrêt, résolution en 1 jour à 6 semaines.{{%/class%}}
+    {{%class%}}3/4 des toux médicamenteuses. 5-20 % des patients traités. À l'arrêt, résolution en 1 jour à 6 semaines.{{%/class%}}
   - Autres  
     ARA2, bêtabloquants, interféron alpha 2b, thérapeutiques inhalées.
   - Plus rares  

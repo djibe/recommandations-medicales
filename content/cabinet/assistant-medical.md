@@ -67,7 +67,7 @@ Les aides versées par l'Assurance maladie entrent dans le bilan de l'entreprise
 |             1 |          38.000 |     28.000 |  22.000 |                26.000 |     38.000 |
 {{< /table >}}
 
-> **Forte patientèle =** médecins parmi les 10% les plus actifs (P90-P94 soit ? patients) ; très forte = > P95 (soit ? patients)
+> **Forte patientèle =** médecins parmi les 10 % les plus actifs (P90-P94 soit ? patients) ; très forte = > P95 (soit ? patients)
 
 {{% /collapse %}}
 {{%collapse "Estimer le coût d'un assistant médical" %}}

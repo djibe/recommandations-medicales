@@ -40,7 +40,7 @@ Chapitres liés: [grossesse]({{% relref "grossesse.md" %}}), [post-partum]({{% r
 Allaitement maternel
 : Alimentation du nouveau-né ou du nourrisson par le lait de sa mère.
 : L'allaitement maternel est dit **exclusif** si le nourrisson reçoit uniquement du lait maternel à l'exception de tout autre ingestat, solide ou liquide, y compris l'eau.
-: En France, l'allaitement maternel concerne 70% des enfants à la naissance et dure en médiane 15 semaines (3,5 semaines pour l'allaitement exclusif). Ces résultats sont parmi les plus faibles d'Europe, malgré des taux multipliés par 2 en 20 ans.
+: En France, l'allaitement maternel concerne 70 % des enfants à la naissance et dure en médiane 15 semaines (3,5 semaines pour l'allaitement exclusif). Ces résultats sont parmi les plus faibles d'Europe, malgré des taux multipliés par 2 en 20 ans.
 
 Écoulement mamelonnaire (EM)
 : Extériorisation de liquide par un ou deux mamelons. Il peut être unipore ou de plusieurs pores et avoir une couleur ou aspect variable. Il est spontané ou provoqué mais survient toujours en dehors de l'allaitement (jusqu'à 1 an) et du [post-partum]({{% relref "post-partum.md" %}}).

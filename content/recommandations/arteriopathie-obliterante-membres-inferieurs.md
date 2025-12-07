@@ -59,10 +59,10 @@ Blue toe syndrome
 
 ### Épidémiologie de l'artériopathie des membres inférieurs
 
-- **Prévalence:** 3 à 10%  
-  15-20% après 70 ans.
+- **Prévalence:** 3 à 10 %  
+  15-20 % après 70 ans.
 - Complications à 5 ans:
-  - 20% des personnes avec une claudication ont eu un AVC ou un infarctus du myocarde
+  - 20 % des personnes avec une claudication ont eu un AVC ou un infarctus du myocarde
   - 10 à 15% sont morts
 
 ### Abréviations
@@ -248,7 +248,7 @@ L'*ESC* encourage la **mesure de l'index de pression systolique** (IPS) par tout
 - Consultation de cardiologie
 {{%/info%}}
 
-**NB.** L'atteinte d'un territoire vasculaire impose le bilan d'aval et des autres localisations (60-70% d'atteintes associées).
+**NB.** L'atteinte d'un territoire vasculaire impose le bilan d'aval et des autres localisations (60-70 % d'atteintes associées).
 
 ### Échodoppler artériel des membres inférieurs, aorte et troncs supra-aortiques
 

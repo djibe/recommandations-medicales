@@ -58,7 +58,7 @@ Valeurs normales de créatininémie: 60-107 µmol/L chez la femme et 80-115 chez
 {{< table title="Stades de l'insuffisance rénale aiguë selon *KDIGO 2012*" >}}
 | Stade | Créatininémie | Diurèse |
 |------:|:--------------|---------|
-| 1     | Augmentation ≥ 26,5 µmol/L en 48h<br>ou ≥ 50% en 7 jours | < 0,5 mL/kg/h pendant 6-12h |
+| 1     | Augmentation ≥ 26,5 µmol/L en 48h<br>ou ≥ 50 % en 7 jours | < 0,5 mL/kg/h pendant 6-12h |
 | 2     | Créatinine doublée* | < 0,5 mL/kg/h pendant ≥ 12h |
 | 3     | Créatinine triplée*<br>ou augmentation ≥ 353,6 µmol/L<br>ou nécessité de dialyse<br>ou DFG < 35 chez le -18 ans | < 0,3 mL/kg/h pendant ≥ 24h<br>ou anurie ≥ 12h |
 {{< /table >}}
@@ -182,7 +182,7 @@ Risque d'insuffisance rénale aiguë post-contraste selon la voie d'injection:
 
 {{< mermaid title="Prise en charge d'une insuffisance rénale aiguë. Dr JB Fron d'après Collèges et KDIGO 2012" >}}
 graph TB
-  IRA["<b>Insuffisance rénale aiguë</b><br>—<br>Aug. créatininémie<br>≥ 26,5 µmol/L en 48h<br>ou ≥ 50% en 7 jours<br>ou oligoanurie ≥ 6h"] --> clinique("<b>Clinique</b><br>—<br>- Derniers bilans<br>- Constantes<br>- Traitements imputables<br>- Pathologie aiguë<br>- Dyspnée<br>- Globe urinaire") --> urgences("Urgences<br>voire SAMU")
+  IRA["<b>Insuffisance rénale aiguë</b><br>—<br>Aug. créatininémie<br>≥ 26,5 µmol/L en 48h<br>ou ≥ 50 % en 7 jours<br>ou oligoanurie ≥ 6h"] --> clinique("<b>Clinique</b><br>—<br>- Derniers bilans<br>- Constantes<br>- Traitements imputables<br>- Pathologie aiguë<br>- Dyspnée<br>- Globe urinaire") --> urgences("Urgences<br>voire SAMU")
   style IRA stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 

@@ -37,7 +37,7 @@ Chapitres liés: [fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}
 Insuffisance cardiaque aiguë
 : Définition *ESC 2021*: apparition ou aggravation rapide de symptômes ou signes d'insuffisance cardiaque, assez sévères pour nécessiter une évaluation médicale et mener à une hospitalisation ou un passage aux *Urgences*.
 : Le patient nécessite une évaluation urgente, l'introduction ou l'augmentation du traitement intraveineux et un bilan étiologique.
-: La mortalité aiguë et à un an est élevée (respectivement 4-10% et 25-30%).
+: La mortalité aiguë et à un an est élevée (respectivement 4-10 % et 25-30%).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

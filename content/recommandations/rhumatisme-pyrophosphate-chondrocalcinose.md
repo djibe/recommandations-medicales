@@ -107,7 +107,7 @@ En cas de diagnostic confirmé, le bilan étiologique (à distance) recherche un
 
 ### Radiographies articulaires
 
-Radiographies de l'articulation atteinte avec comparatif. Les radiographies recherchent des dépôts intra ou péri-articulaires (présents dans seulement 40% des cas).
+Radiographies de l'articulation atteinte avec comparatif. Les radiographies recherchent des dépôts intra ou péri-articulaires (présents dans seulement 40 % des cas).
 
 Une **échographie articulaire** peut être proposée en cas de suspicion de dépôts péri-articulaires (tendinopathies répétées).
 

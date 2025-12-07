@@ -229,8 +229,8 @@ Prise en charge de la fibromyalgie:
 
 ### Traitements médicamenteux de la fibromyalgie
 
-**Aucun médicament n'a l'AMM** en Europe pour la prise en charge de la fibromyalgie mais 3 médicaments ont montré une amélioration de la douleur ≥ 30% et une amélioration de la qualité dévie sans différence d'efficacité et de tolérance chez l'adulte.  
-Seulement 40% des patients observent une amélioration de 30% de leurs symptômes.
+**Aucun médicament n'a l'AMM** en Europe pour la prise en charge de la fibromyalgie mais 3 médicaments ont montré une amélioration de la douleur ≥ 30 % et une amélioration de la qualité dévie sans différence d'efficacité et de tolérance chez l'adulte.  
+Seulement 40 % des patients observent une amélioration de 30 % de leurs symptômes.
 
 Doses quotidiennes habituelles pour le traitement de la fibromyalgie pour un essai de 12 semaines:
 

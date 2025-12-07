@@ -37,7 +37,7 @@ Prédominance de la maladie chez la femme (2/3) avec un pic de fréquence entre 
 : Les formes initiales sont déclenchées par un climat froid, le travail à la chaleur ou une exposition au soleil. Puis l'évolution devient chronique avec des poussées de papules et pustules sans facteur déclenchant.  
 L'atteinte typique de la rosacée survient avec des flushs, érythème du visage et télangiectasies et périodes inflammatoires développant des papulopustules.
 : Les **complications oculaires** sont fréquentes (50%): blépharite, xérose, conjonctivite.
-: L'évolution de la maladie est spontanément favorable après plusieurs années pour 40% des patients.
+: L'évolution de la maladie est spontanément favorable après plusieurs années pour 40 % des patients.
 
 Dermatose mixte du visage
 : Fréquente, appellation lorsque **rosacée et [dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}})** sont associées.

@@ -84,7 +84,7 @@ Les causes d'hirsutisme sont **endocriniennes** (80 %), gynécologiques et idiop
   - [Hypothyroïdie]({{% relref "hypothyroidie.md" %}})
   - Hyperplasie congénitale des surrénale
   - Idiopathique (5-20%)  
-    50% en cas d'hirsutisme léger.
+    50 % en cas d'hirsutisme léger.
 
 ### Diagnostic différentiel
 

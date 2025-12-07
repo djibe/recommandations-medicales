@@ -66,13 +66,13 @@ On distingue les:
 
 Spondylarthrite ankylosante (SpA)
 : Rhumatisme inflammatoire chronique potentiellement grave et handicapante survenant chez l'adulte jeune (< 35 ans).
-: Spondylarthrite la plus typique et la plus sévère. Atteinte rachidienne et sacro-iliaque conduisant à l'ankylose. Atteinte périphérique associée dans 50% des cas (uvéite surtout).
+: Spondylarthrite la plus typique et la plus sévère. Atteinte rachidienne et sacro-iliaque conduisant à l'ankylose. Atteinte périphérique associée dans 50 % des cas (uvéite surtout).
 
 Arthrites réactionnelles
 : Arthrites aseptiques associées à une conjonctivite, [urétrite homme]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}})/[cervicite femme]({{% relref "uretrite-vaginite.md" %}}).  
 Survenue dans les semaines qui suivent une infection génitale ou digestive.  
 Au maximum *syndrome de Fiessinger-Leroy-Reiter* (triade arthrite-urétrite-conjonctivite).
-: Association au *HLA-B27*. Chronicisation dans 10-20% des cas voire évolution en SpA.
+: Association au *HLA-B27*. Chronicisation dans 10-20 % des cas voire évolution en SpA.
 : Germes impliqués: *[Chlamydia]({{% relref "chlamydia-trachomatis.md" %}})*, *Shigella*, *Yersinia*, *Salmonella*, *Campylobacter*.
 
 Spondylarthropaties indifférenciées

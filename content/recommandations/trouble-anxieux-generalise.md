@@ -43,7 +43,7 @@ Anxiété
 Trouble anxieux généralisé (TAG)
 : Trouble anxieux chronique avec des inquiétudes permanentes sur au moins 2 thèmes différents, persistantes depuis plus de 6 mois et difficilement contrôlables. Dit aussi << maladie des inquiétudes >>, les signes physiques sont souvent au premier plan (insomnie ++), pouvant masquer l'origine anxieuse.
 : Les complications sont dominées par les risques suicidaire (x 2,7) et [cardiovasculaire](/tags/risque-cardiovasculaire/).
-: Le trouble anxieux généralisé atteint 5% de la population avec 2/3 de femmes et débute le plus souvent vers 35-45 ans. Le diagnostic n'est correct que pour un tiers et 60% n'ont pas de traitement. Les rechutes sont fréquentes (conflits ++).
+: Le trouble anxieux généralisé atteint 5% de la population avec 2/3 de femmes et débute le plus souvent vers 35-45 ans. Le diagnostic n'est correct que pour un tiers et 60 % n'ont pas de traitement. Les rechutes sont fréquentes (conflits ++).
 
 ### Abréviations
 
@@ -232,7 +232,7 @@ Pour une **forme sévère** ou lorsque la thérapie cognitive et comportementale
 
 Titration du traitement par paliers de 1-2 semaines. En cas d'inefficacité après **8 semaines** de dose thérapeutique, essayer un autre antidépresseur de la même classe avant de changer de classe.
 
-Le traitement devrait être poursuivi 6 à 12 mois après l'amélioration des symptômes. 20-40% rechutent dans l'année.
+Le traitement devrait être poursuivi 6 à 12 mois après l'amélioration des symptômes. 20-40 % rechutent dans l'année.
 
 > **NB.** Prévenir les jeunes du risque suicidaire par désinhibition en début de traitement.
 

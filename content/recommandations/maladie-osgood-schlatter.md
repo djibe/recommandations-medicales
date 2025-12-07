@@ -34,7 +34,7 @@ todo = "rankok | flow"
 Maladie d'Osgood-Schlatter
 : Ostéochondrose bénigne de la tubérosité tibiale la plus fréquente, survenant surtout chez l'adolescent sportif de 10 à 15 ans.
 : Elle est la principale cause de douleurs antérieures du genou à cet âge et résulte d'une utilisation intensive en extension de la jambe avec un déficit de souplesse: la traction exercée par le tendon patellaire perturbe l'ossification en cours de la tubérosité tibiale. Les complications sont liées à un arrêt trop prolongé des activités en cas de physiothérapie insuffisante.
-: La prévalence chez le sportif est d'environ 10% entre 12 et 15 ans.
+: La prévalence chez le sportif est d'environ 10 % entre 12 et 15 ans.
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -91,7 +91,7 @@ Lors de l'Osgood-Schlatter, la radio peut montrer: une tubérosité tibiale pro�
 
 La prise en charge de la maladie d'Osgood-Schlatter repose sur la réduction des activités pour respecter la douleur et les exercices de rééducation et d'assouplissement.
 
-La résolution se fait normalement **dans les 2 ans** (80% à 1 an) suivant la fin de la croissance. Les échecs sont souvent liés à au défaut d'observance. 10% ont une persistance à l'âge adulte.
+La résolution se fait normalement **dans les 2 ans** (80 % à 1 an) suivant la fin de la croissance. Les échecs sont souvent liés à au défaut d'observance. 10 % ont une persistance à l'âge adulte.
 
 - Antalgie: glaçage 10-15 minutes après le sport, AINS topiques (ibuprofène gel)
 - **Pratique sportive guidée par les douleurs**

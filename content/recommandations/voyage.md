@@ -164,7 +164,7 @@ Sources *HCSP* et *SMV*. Pour plus d'information, voir *Derstine et al* dans les
 > [!WARNING]
 > Toute [morsure]({{% relref "morsure.md" %}}) ou piqûre avec symptômes locaux marqués ou généraux nécessite une consultation.
 
-Les -15 ans représentent 40% des morsures à risque de rage.
+Les -15 ans représentent 40 % des morsures à risque de rage.
 
 - Éviter tout contact avec les carnivores sauvages, primates, chauves-souris, animaux venimeux
 - Dans les zones à risque de rage (voir ci-dessous): éviter tout contact avec les carnivores domestiques (chiens, chats)
@@ -217,7 +217,7 @@ Diarrhée du voyageur
 : Elles sont classées en 3 types: diarrhées aiguës bénignes, modérées (pénible et perturbant les activités) ou sévères (syndrome dysentérique = selles sanglantes, activités difficiles ou impossibles) et dites *persistantes* après 2 semaines.
 : Tourista (ou turista): épisode aigu bénin survenant pendant le séjour ou dans les 7 jours suivant le retour, spontanément résolutif en 1-3 jours.
 
-Le plus souvent la diarrhée est liée au péril fécal avec une origine bactérienne 80% (*E. coli*, *Campylobacter* ...), parasitaire 5-10 % (persistante ++, *Entamoeba histolytica*, *Giardia intestinalis*, *Cryptosporidium spp*, *Isospora belli*, *Cyclospora*) ou médicamenteuse.
+Le plus souvent la diarrhée est liée au péril fécal avec une origine bactérienne 80 % (*E. coli*, *Campylobacter* ...), parasitaire 5-10 % (persistante ++, *Entamoeba histolytica*, *Giardia intestinalis*, *Cryptosporidium spp*, *Isospora belli*, *Cyclospora*) ou médicamenteuse.
 
 ### En cas de diarrhées pendant le voyage
 

@@ -25,7 +25,7 @@ flowchart = true
 - L'hémochromatose génétique est la maladie génétique la plus fréquente chez le **caucasien** avec une surcharge en fer
 - Les symptômes de l'hémochromatose débutent vers 30 ans chez l'homme et 50 ans chez la femme avec: fatigue chronique, polyarthralgies, diabète, hypogonadisme (baisse de libido, impuissance, ménopause précoce) et risque d'insuffisance d'organes (cardiaque, hépatique)
 - Le diagnostic doit être recherché en cas d'[hyperferritinémie]({{% relref "hyperferritinemie.md" %}}) (> 200 µg/L chez la femme et 300 chez l'homme) sans autre anomalie
-- Un coefficient de saturation de la transferrine (CST) matinal à 2 reprises supérieur à **45%** et 50% chez l'homme nécessite un avis hépato-gastroentérologique et ensuite un conseil génétique
+- Un coefficient de saturation de la transferrine (CST) matinal à 2 reprises supérieur à **45%** et 50 % chez l'homme nécessite un avis hépato-gastroentérologique et ensuite un conseil génétique
 - Le bilan des complications de l'hémochromatose dépend du stade de la maladie
 - La prise en charge de l'hémochromatose génétique comporte: saignées thérapeutiques pour une ferritine cible ≤ 50 µg/L, dépistage des proches au premier degré, suivi spécialisé au long cours et les mesures d'hépatoprotection.
 

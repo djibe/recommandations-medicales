@@ -58,7 +58,7 @@ Mort subite du sportif
 : Environ 1000 cas/an (sur 40.000 morts subites annuelles). Elle atteint quasi exclusivement des hommes (95%) d'âge moyen (46,6 ans en moyenne) avec une pratique de loisir (5% de jeunes athlètes, 20/an).
 : Le risque de mort subite d'une femme (5% des cas) est infime (30x inférieure à 45-54 ans).
 : La cause n'est pas retrouvée dans 75% des cas (manque d'autopsies). Elle est principalement coronaire (75%) et inaugurale pour la moitié; et aussi cardiopathie non ischémique (15-20%), troubles du rythme (5-10%). Avant 35 ans, la 1^re^ cause est la cardiomyopathie hypertrophique.  
-\> 50% avaient eu des symptômes typiques dans le mois qui précède.
+\> 50 % avaient eu des symptômes typiques dans le mois qui précède.
 : 93% des cas surviennent en présence d'un témoin.  
 La survie sans séquelles dépend énormément de la formation de la population au massage cardiaque. La survie à la sortie d'hospitalisation atteint désormais 66,7% en France contre 24% il y a quelques années.
 

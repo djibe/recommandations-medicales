@@ -63,7 +63,7 @@ Maladie cardiovasculaire, risque d'infarctus du myocarde multiplié par 6-10 dan
 {{%info%}}
 Vaccination annuelle en octobre pour les personnes à risque de forme grave de la grippe.
 
-Bon de prise en charge à 100% Cerfa n°610e sur *Ameli pro*.
+Bon de prise en charge à 100 % Cerfa n°610e sur *Ameli pro*.
 {{%/info%}}
 
 Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination antigrippale est recommandée chaque année:

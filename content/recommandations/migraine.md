@@ -36,10 +36,10 @@ modele = true
   - Aura: AINS d'emblée et attendre le début de la céphalée pour prendre le triptan. Contre-indication aux estrogènes
   - Jamais d'opiacés ; nausées/vomissements: métoclopramide
 - Traitement de fond
-  - Indications: crises ou traitement de crise ≥ 8 j/mois depuis ≥ 3 mois ou {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 ou intensité impose un arrêt total des activités pour ≥ 50% des épisodes ou crises invalidantes malgré un traitement de crise optimal
+  - Indications: crises ou traitement de crise ≥ 8 j/mois depuis ≥ 3 mois ou {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 ou intensité impose un arrêt total des activités pour ≥ 50 % des épisodes ou crises invalidantes malgré un traitement de crise optimal
   - < 15 j/mois (dite épisodique): propranolol ou métoprolol ≥ 3 mois. Si échec ou contre-indication: amitriptyline, candésartan ou topiramate
 - Suivi neurologique si aura atypique ou sévère, migraine résistante/réfractaire (échec de 3 traitements de fond, en centre spécialisé)  
-ou migraine sévère: ≥ 8 jours/mois, {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 ou intensité impose un arrêt total des activités pour ≥ 50% des épisodes
+ou migraine sévère: ≥ 8 jours/mois, {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 ou intensité impose un arrêt total des activités pour ≥ 50 % des épisodes
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -48,20 +48,20 @@ Migraine
 : Définition de la migraine: Pathologie neurovasculaire fréquente liée à des altérations subtiles neuronales et vasculaires. Facteur de risque vasculaire indépendant.  
 Origine génétique et environnementale avec altération très importante de la **qualité de vie**.
 : Dite **migraine épisodique** avec < 15 jours/mois, **chronique** au-delà depuis > 3 mois.
-: **Migraine sévère:** crises fréquentes (≥ 8 jours/mois) OU {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 OU intensité impose un arrêt total des activités pour ≥ 50% des épisodes.
+: **Migraine sévère:** crises fréquentes (≥ 8 jours/mois) OU {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 OU intensité impose un arrêt total des activités pour ≥ 50 % des épisodes.
 : **Migraine résistante:** échec de 3 traitements de fond bien conduits. Dite **réfractaire** quand aucun ne fonctionne.
 : 30-45% des migraineux Français n'ont jamais consulté, ignorent leur diagnostic et les traitements existants.  
-90% devraient être soulagés en soins primaires, 1% suivis en centre spécialisé.
+90 % devraient être soulagés en soins primaires, 1% suivis en centre spécialisé.
 
 Migraine avec aura
 : *ex migraine accompagnée*.  
-Aura présente chez 15 à 30% des migraineux, elle augmente le risque vasculaire (AVC ischémique x 2).
+Aura présente chez 15 à 30 % des migraineux, elle augmente le risque vasculaire (AVC ischémique x 2).
 : 4 types d'aura: visuelles (+90%), sensitives (30%), aphasique ou motrice (classée migraine hémiplégique).
 
 Migraine cataméniale
 : Survenue exclusive de migraine sans aura pendant les règles.  
 Critères diagnostiques: survenue sur au moins 2 cycles sur 3, débutant entre le 2^e^ jour précédant et le 3^e^ jour suivant les règles (naturellement ou sous pilule).
-: 50% des migraineuses rapportent des crises cataméniales mais moins de 10% ont une réelle << migraine cataméniale >>.
+: 50 % des migraineuses rapportent des crises cataméniales mais moins de 10 % ont une réelle << migraine cataméniale >>.
 : Les migraines cataméniales ont la particularité d'être très intenses avec moindre réponse au traitement de crise.
 
 Céphalées par abus médicamenteux
@@ -91,7 +91,7 @@ SFEMC
 - **Prévalence:** 14% des adultes en Europe (18-50 ans ++), 75% de femmes  
   France: 21,3% des adultes remplissent les critères de la migraine ICHD-3.
 - 2^e^ maladie la plus importante responsable d'*années vécues avec une incapacité* (AVI, *OMS 2016*)
-- 50% ont au moins 2 crises par mois; 40% ont durée +24h; 50% ont intensité sévère à très sévère
+- 50 % ont au moins 2 crises par mois; 40 % ont durée +24h; 50 % ont intensité sévère à très sévère
 - La prise en charge par les généralistes est déficiente (28% sans triptans, 1/3 sans AINS et le traitement de fond rare -- *[Lucas C et al 2024](https://www.sciencedirect.com/science/article/abs/pii/S0035378724000845)*)
 
 {{% /collapse %}}
@@ -188,7 +188,7 @@ Chez le moins de 18 ans, la crise migraineuse peut avoir certaines particularit�
 
 Si les critères A, B et C sont présents: **migraine avec aura typique**. L'aura peut survenir durant la céphalée.
 
-4 types d'aura: visuelles (> 90% des auras), sensitives, aphasique, motrice (classée migraine hémiplégique).  
+4 types d'aura: visuelles (> 90 % des auras), sensitives, aphasique, motrice (classée migraine hémiplégique).  
 
 L'atteinte ophtalmique est **bilatérale**, positive (flashs lumineux, zig-zags) ou négative (scotome). Atypique si unilatérale (migraine rétinienne).  
 Les atteintes sensitives sont unilatérales, positives (fourmillements, picotements et aiguilles) ou négatives (engourdissement), débutant à la main avec déplacement vers le bras et le visage.
@@ -383,13 +383,13 @@ Efficacité prouvée: Neuromodulation électrique. Sur prescription spécialisé
 - Migraine sévère
   - Crises fréquentes (≥ 8 j/mois)
   - ou {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60
-  - ou intensité imposant un arrêt total des activités pour ≥ 50% des crises
+  - ou intensité imposant un arrêt total des activités pour ≥ 50 % des crises
 - Crises migraineuses invalidantes malgré un traitement de crise optimal
 
 > -- *Ducros 2021 Table 6*
 {{%/info%}}
 
-**Objectif du traitement de fond antimigraineux:** réduire le nombre de jours de céphalées au moins de moitié pour la *migraine épisodique* (< 15 jours par mois) ou d'au moins 30% si *migraine chronique* (≥ 15 j/m). Réévaluation au **3^e^ mois**.
+**Objectif du traitement de fond antimigraineux:** réduire le nombre de jours de céphalées au moins de moitié pour la *migraine épisodique* (< 15 jours par mois) ou d'au moins 30 % si *migraine chronique* (≥ 15 j/m). Réévaluation au **3^e^ mois**.
 
 Bénéfices recherchés: réduire la consommation d'antalgiques, l'intensité et la durée des crises (et de l'aura) et améliorer la qualité de vie. Les objectifs doivent être **expliqués au patient**, ainsi que l'importance de l'==observance==.
 

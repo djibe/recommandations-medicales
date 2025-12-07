@@ -37,7 +37,7 @@ Chapitres liés: [pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}}), [
 
 Pancréatite chronique (PC)
 : Altération irréversible du pancréas par des épisodes inflammatoires répétés occasionnant une fibrose avec perte des fonctions exocrine (enzymes pancréatiques) puis endocrine (diabète type 3c).
-: La pancréatite chronique atteint principalement les hommes (80%) et débute vers 40 ans. L'étiologie est la même que pour la pancréatite aiguë, dominée par l'**alcool** (80%) mais 10% restent idiopathiques (la PA biliaire se chronicise rarement).
+: La pancréatite chronique atteint principalement les hommes (80%) et débute vers 40 ans. L'étiologie est la même que pour la pancréatite aiguë, dominée par l'**alcool** (80%) mais 10 % restent idiopathiques (la PA biliaire se chronicise rarement).
 : L'évolution est habituellement en 3 phases: initiale avec poussées douloureuses, puis disparition des douleurs avec insuffisance pancréatique exocrine puis endocrine. La phase tardive ne concerne souvent que l'insuffisance pancréatique avec régression des douleurs.
 : Elle peut régresser, se stabiliser ou se compliquer: surinfection, compression locale (voie biliaire, veines porte et mésentérique supérieure, cholédoque, intestin), hémorragie, ascite pancréatique, adénocarcinome pancréatique (surrisque diminuant avec le temps).
 
@@ -115,7 +115,7 @@ Signes et symptômes de pancréatite chronique à rechercher à l'examen. La dif
   - Insuffisance pancréatique exocrine (IPE) tardive (40 à 75%):  
     **Amaigrissement**, **stéatorrhée**
   - Signes de cholestase: [ictère]({{% relref "ictere.md" %}}), coloration des urines et selles, prurit
-  - Signes de [diabète](/tags/diabete/) (90% en phase tardive): polyurie, polydipsie
+  - Signes de [diabète](/tags/diabete/) (90 % en phase tardive): polyurie, polydipsie
 
 ### Examen clinique
 

@@ -38,7 +38,7 @@ flowchart = true
 {{%collapse "Définitions" %}}
 
 Cancer colorectal (CCR)
-: Tumeur maligne du côlon (distal 20% ou proximal 30-40%) ou du rectum (30-40%). Il correspond le plus souvent (60-80%) à une **dégénérescence d'un polype** survenue en 5 à 10 ans avec pour histologie un adénocarcinome dans +95% des cas.
+: Tumeur maligne du côlon (distal 20 % ou proximal 30-40%) ou du rectum (30-40%). Il correspond le plus souvent (60-80%) à une **dégénérescence d'un polype** survenue en 5 à 10 ans avec pour histologie un adénocarcinome dans +95% des cas.
 : Il est diagnostiqué dans 95% des cas **après 50 ans** avec sex-ratio de 2/3 d'hommes.
 
 Polype
@@ -137,7 +137,7 @@ Risque très élevé = prédisposition génétique au cancer colorectal
     - **Dépistage:** surveillance par chromocoloscopie et oncogénétique
 
 > -- *INCa 2020 test immunologique*  
-  Risque moyen (80% des cas et risque de CCR vie entière de 3 à 4%) ; Risque élevé (15% des cas et risque vie entière 4-10%) ; Risque très élevé (5% des cas et risque vie entière 40-100%)
+  Risque moyen (80 % des cas et risque de CCR vie entière de 3 à 4%) ; Risque élevé (15% des cas et risque vie entière 4-10%) ; Risque très élevé (5% des cas et risque vie entière 40-100%)
 
 ### Critères devant faire suspecter un cancer colorectal héréditaire
 
@@ -253,7 +253,7 @@ Le kit du dépistage du cancer du côlon peut être remis par le médecin, retir
 Le test immunologique fécal (TIF) remplace le test *Hemoccult®*. Il est performant (se 70%, spe 96-98%, [meilleur coût/efficacité](https://www.acpjournals.org/doi/10.7326/ANNALS-24-00910)), fiable, gratuit et simple avec un seul prélèvement de selles tous les 2 ans. Le même rythme de suivi est préconisé par la [Commission Européenne](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562).
 
 **4% des tests sont positifs, nécessitant une coloscopie de confirmation dans les 31 jours** (*SFED 2019*).  
-En cas de TIF positif, la coloscopie découvre un cancer pour 8% et un adénome avancé chez 40% des sujets: << détecté tôt, un cancer colorectal peut se guérir dans 9 cas sur 10 >> -- *INCa 2020*
+En cas de TIF positif, la coloscopie découvre un cancer pour 8% et un adénome avancé chez 40 % des sujets: << détecté tôt, un cancer colorectal peut se guérir dans 9 cas sur 10 >> -- *INCa 2020*
 
 **Critères d'exclusion** au test de dépistage: risque de CCR élevé ou très élevé (voir *[Niveaux de risque](#niveaux-de-risque-de-cancer-colorectal)*), symptômes évocateurs de CCR (voir *Clinique*), [coloscopie]({{% relref "coloscopie.md" %}}) totale dans les 5 ans, coloscanner seul ou coloscopie incomplète suivie de coloscanner dans les 2 ans.
 
@@ -263,7 +263,7 @@ Personne réticente au dépistage par test immunologique:
 - Rappeler l'enjeu (fréquent et grave) et les qualités du dépistage (performance, simplicité, prélèvement unique)
 
 > [!INFO]
-> << 90% des personnes réalisent le test lorsqu'il est remis par le médecin >> -- *INCa 2020*
+> << 90 % des personnes réalisent le test lorsqu'il est remis par le médecin >> -- *INCa 2020*
 
 {{% /collapse %}}
 {{%collapse "Dépistage et suivi des sujets à risque élevé de cancer colorectal" %}}
@@ -280,9 +280,9 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 | | | <strong>Risque faible:</strong><br>3-4 adénomes < 10 mm en DBG<br>PF < 10 mm sans dysplasie | Coloscopie à 5 ans |
 | Antécédent personnel de CCR<br>sporadique (SFED 2021) | Après résection || Coloscopie à 1 an<br>(sous 6 mois si incomplète)<br>puis intervalle de 3 ans<br>et encore 5 ans (selon polypes) |
 | Antécédent familial 1^er^ degré de CCR<br>ou d'adénome avancé > 10 mm | À partir de 45 ans<br>ou 10 ans avant l'âge<br>de diagnostic du<br>cas index |  | Coloscopie tous les 5 ans |
-| MICI | 6-8 ans après le début<br>des symptômes | <strong>Risque élevé:</strong><br>CSP, ATCD de dysplasie, forme étendue<br>sur +50% du côlon, persistance inflammatoire,<br>ATCD familiaux CCR, nb pseudo-polypes,<br>sténose colique | Chromoendoscopie tous les 1-2 ans |
-| | | <strong>Risque intermédiaire:</strong><br>RCH étendue en dessous de l'angle gauche,<br>MC colique étendue sur 30-50% | Tous les 3-4 ans |
-| | | <strong>Risque faible:</strong><br>Rectite de RCH et MC colique étendue sur < 30% | Pas de suivi spécifique défini |
+| MICI | 6-8 ans après le début<br>des symptômes | <strong>Risque élevé:</strong><br>CSP, ATCD de dysplasie, forme étendue<br>sur +50 % du côlon, persistance inflammatoire,<br>ATCD familiaux CCR, nb pseudo-polypes,<br>sténose colique | Chromoendoscopie tous les 1-2 ans |
+| | | <strong>Risque intermédiaire:</strong><br>RCH étendue en dessous de l'angle gauche,<br>MC colique étendue sur 30-50 % | Tous les 3-4 ans |
+| | | <strong>Risque faible:</strong><br>Rectite de RCH et MC colique étendue sur < 30 % | Pas de suivi spécifique défini |
 {{< /table >}}
 
 > Légende. **DBG =** dysplasie de bas grade ; **DHG =** dysplasie de haut grade ; **PF =** polype festonné

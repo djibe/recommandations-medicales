@@ -85,7 +85,7 @@ Signes et symptômes de thrombose veineuse superficielle à rechercher:
 
 ### Examen clinique
 
-Les varices sont très fréquentes (80 à 90% des cas).
+Les varices sont très fréquentes (80 à 90 % des cas).
 
 - Pression artérielle, fréquence cardiaque
 - Poids, taille, IMC
@@ -159,7 +159,7 @@ En cas de première récidive de TVS non provoquée: fondaparinux SC (Arixtra®)
 
 Situations nécessitant une prise en charge différente de la thrombose veineuse superficielle:
 
-- **Cancer** (10% de récidive à l'arrêt):
+- **Cancer** (10 % de récidive à l'arrêt):
   - Traiter également les TVS asymptomatiques
   - HBPM **dose préventive** pendant 3 à 6 mois, voire plus tant que le cancer est actif (*Quéré et al*)
   - En cas d'extension malgré le traitement, augmenter à une **dose curative**

@@ -43,13 +43,13 @@ DPI = dossier patient informatisé (ou logiciel médical)
 
 Les primes du volet 2 ne sont accessibles que lorsque l'ensemble des points du Volet 1 sont respectés, et versées à la carte selon les critères remplis (883 points soit 6181 €):
 
-- DMP: ≥ 30% des consultations avec 1 document versé | 40 pts - 280 €
-- MSS avec le patient: ≥ 10% des consultations avec 1 message | 40 pts - 280 €
-- Taux de dématérialisation AAT ≥ 90% | 22,5 pts - 157,5 €
-- Taux de dématérialisation AT/MP ≥ 50% | 22,5 pts - 157,5 €
-- Taux de dématérialisation PSE ≥ 90% | 22,5 pts - 157,5 €
-- Taux de dématérialisation DMT ≥ 90% | 22,5 pts - 157,5 €
-- Taux de dématérialisation SPE ≥ 30% | 10 pts - 70 €
+- DMP: ≥ 30 % des consultations avec 1 document versé | 40 pts - 280 €
+- MSS avec le patient: ≥ 10 % des consultations avec 1 message | 40 pts - 280 €
+- Taux de dématérialisation AAT ≥ 90 % | 22,5 pts - 157,5 €
+- Taux de dématérialisation AT/MP ≥ 50 % | 22,5 pts - 157,5 €
+- Taux de dématérialisation PSE ≥ 90 % | 22,5 pts - 157,5 €
+- Taux de dématérialisation DMT ≥ 90 % | 22,5 pts - 157,5 €
+- Taux de dématérialisation SPE ≥ 30 % | 10 pts - 70 €
 - Implication dans des soins coordonnés (MSP, ESP, ESS, CPTS, RCP, ASALEE ...) | 120 pts - 840 €
 - Capacité à coder et requêter (ex antécédents CIM-10) | 50 pts - 350 €
 - Amélioration du service offert aux patients (prise de RDV avec spécialistes, MAIA, CLIC, ASALEE) | 70 pts - 490 €
@@ -57,9 +57,9 @@ Les primes du volet 2 ne sont accessibles que lorsque l'ensemble des points du V
 - Équipement pour téléconsultation sécurisée (service payant) | 50 pts - 350 €
 - Équipements médicaux connectés (ECG, oxymètre, tensiomètre, dermatoscope) | 25 pts - 175 €
 - Participation au SAS: ≥ 2h/sem ouverts (public/régul) et inscrit à la régul | 200 pts - 1400 €
-- Taux de déclaration simplifiée de grossesse sur Ameli Pro ≥ 50% | 10 pts - 70 €
+- Taux de déclaration simplifiée de grossesse sur Ameli Pro ≥ 50 % | 10 pts - 70 €
 - ≥ 1 FSE réalisée avec l'Appli *Carte vitale* (apCV) | 40 pts - 280 €
-- ≥ 40% d'e-prescription | 40 pts - 280 €
+- ≥ 40 % d'e-prescription | 40 pts - 280 €
 {.list-group}
 
 > AAT = arrêt de travail en ligne ; AT/MP = certificat médical d'accident de travail ou de maladie professionnelle ; DMT = déclaration médecin traitant ; PSE = protocole de soins électronique ; SPE = prescription électronique de transport. Il ne prend en compte que les affiliés au Régime Général.  

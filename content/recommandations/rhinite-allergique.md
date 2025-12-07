@@ -64,7 +64,7 @@ Rhinite allergique (RA)
 
 La prévalence de la rhinite allergique a été multipliée par 3 en 30 ans.
 
-Elle atteint 20% des enfants de plus de 9 ans et 30% des adultes pour un coût annuel estimé à 1 milliard d'euros (*Anses 2022*).
+Elle atteint 20 % des enfants de plus de 9 ans et 30 % des adultes pour un coût annuel estimé à 1 milliard d'euros (*Anses 2022*).
 
 ### Abréviations
 

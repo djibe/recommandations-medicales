@@ -63,11 +63,11 @@ Mouvements périodiques des membres (MPM)
 : Mouvements involontaires de dorsiflexion des chevilles, orteils, flexion partielle de genou et parfois de hanche.  
 Ils surviennent en veille calme, avant le sommeil ou pendant le sommeil. Prédominants en début de nuit, ils s'estompent sur la nuit. Ils sont parfois détectés par le conjoint.
 : La survenue à l'éveil est spécifique, décrite comme des mouvements involontaires des jambes: << Mes jambes sautent/bougent toutes seules >>.
-: 30% de la population en a, le seuil diagnostique est spécifié à 15 MPM/h.
+: 30 % de la population en a, le seuil diagnostique est spécifié à 15 MPM/h.
 
 Akathisie
 : Impression subjective d'agitation interne, ou d'impatience, avec un désir intense (voire incoercible) de réaliser certains mouvements (*Dr E. Fakra*).
-: Effet indésirable fréquent des neuroleptiques (30% des patients), antidépresseurs ISRS, thymorégulateurs.
+: Effet indésirable fréquent des neuroleptiques (30 % des patients), antidépresseurs ISRS, thymorégulateurs.
 
 Tremblement orthostatique primaire
 : Mouvement anormal rare, caractérisé par un tremblement postural spécifique rapide, qui touche les membres inférieurs et le tronc en position debout *([Orphanet](https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=FR&Expert=238606))*.
@@ -79,7 +79,7 @@ Tremblement orthostatique primaire
 - Prévalence chez l'enfant: 2-4%  
   15-35% en *trouble du déficit de l'attention et hyperactivité* (TDAH).
 - Sex-ratio: 2/3 de femmes
-- 10% des personnes avec des troubles du sommeil ont un syndrome des jambes sans repos
+- 10 % des personnes avec des troubles du sommeil ont un syndrome des jambes sans repos
 
 ### Abréviations
 
@@ -170,7 +170,7 @@ Au moins aussi longtemps que dure cette activité.
 4. Apparition ou aggravation le soir ou la nuit
 5. Exclusion des diagnostics différentiels
 
-> Critères *IRLSSG 2012*. Sensibilité 86% et Spécificité > 90%  
+> Critères *IRLSSG 2012*. Sensibilité 86% et Spécificité > 90 %  
 **Tous les critères doivent être remplis**.  
 Intérêt de laisser le patient décrire ses symptômes, ou l'enfant avec ses mots.
 
@@ -324,7 +324,7 @@ Diagnostics alternatifs à étayer devant une suspicion de syndrome des jambes s
 {{%collapse "Syndrome des jambes sans repos en pédiatrie" %}}
 
 - Très fréquent en cas de [TDAH]({{% relref "trouble-deficit-attention-tdah.md" %}})
-- Antécédent parental dans 80% des cas
+- Antécédent parental dans 80 % des cas
 - Symptômes diurnes à type de troubles attentionnels, hyperactivité ou instabilité motrice
 
 {{% /collapse %}}

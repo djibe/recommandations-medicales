@@ -59,12 +59,12 @@ Désynchronisation cardiaque
 | Critère | ICFEd         | ICFEmd                  | ICFEp              |
 |--------:|---------------|-------------------------|--------------------|
 | 1       | Symptômes ± signes | Symptômes ± signes | Symptômes ± signes |
-| 2       | FEVG ≤ 40%    | FEVG 41-49%             | FEVG ≥ 50%         |
+| 2       | FEVG ≤ 40 %    | FEVG 41-49%             | FEVG ≥ 50 %         |
 | 3       |               |                         | - Anomalie cardiaque<br>- Dysfonction diastolique VG<br>- Augmentation des PN |
 {{< /table >}}
 
 > **PN:** peptides natriurétiques; **signes:** signes cliniques  
-PN: BNP ≥ 35 pg/mL ou NT-proBNP ≥ 125 pg/mL (ESC Se 95%; Spe 50% - NICE 400 pg/mL Se 82%; Spe 80%)
+PN: BNP ≥ 35 pg/mL ou NT-proBNP ≥ 125 pg/mL (ESC Se 95%; Spe 50 % - NICE 400 pg/mL Se 82%; Spe 80%)
 
 ### Abréviations
 
@@ -150,7 +150,7 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
 ### Épidémiologie de l'insuffisance cardiaque en France
 
 - Prévalence de l'insuffisance cardiaque: 2,6 %  
-  - 10% après 70 ans
+  - 10 % après 70 ans
   - 22 à 73 % ont une FE conservée
 - Dyspnée d'effort chez +65 ans: 1/6 ont une IC
 - Hospitalisations: 160.000/an

@@ -246,7 +246,7 @@ Augmenter par paliers de 100 mg matin et 100 mg LP soir tous les 2 à 5 jours.
 - **Effets indésirables principaux**  
   [Hyponatrémie]({{% relref "hyponatremie.md" %}}), induction enzymatique, vertiges, ataxie, somnolence, fatigue, diplopie, troubles de l'accommodation, confusion ou agitation.
 - **Effets indésirables graves:** aplasie, toxidermie grave
-- Développée spécifiquement pour traiter la NTC, soulagement complet initial pour 70% des patients
+- Développée spécifiquement pour traiter la NTC, soulagement complet initial pour 70 % des patients
 
 ### Oxcarbazépine
 

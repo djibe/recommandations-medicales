@@ -37,7 +37,7 @@ Gonarthrose
 : L'évolution de la maladie se fait par poussées de gonalgie et demeure très variable. Une synovite chronique est un facteur de mauvais pronostic.
 
 Gonarthrose destructrice rapide
-: Destruction rapide du cartilage avec aggravation du pincement de 50% en un an. Rechercher une *[chondrocalcinose]({{% relref "rhumatisme-pyrophosphate-chondrocalcinose.md" %}})* associée.
+: Destruction rapide du cartilage avec aggravation du pincement de 50 % en un an. Rechercher une *[chondrocalcinose]({{% relref "rhumatisme-pyrophosphate-chondrocalcinose.md" %}})* associée.
 
 ### Facteurs de risque de gonarthrose
 
@@ -262,7 +262,7 @@ Molécules: insaponifiables d'avocat et de soja, chondroïtine, glucosamine, dia
 
 La capsaïcine topique peut être envisagée, sur ordonnance de préparation magistrale.
 
-Dans 35 à 100% des cas, elle entraîne des brûlures légères locales temporaires.  
+Dans 35 à 100 % des cas, elle entraîne des brûlures légères locales temporaires.  
 Les AINS topiques sont le traitement topique de préférence.
 
 #### Autres traitements de la gonarthrose

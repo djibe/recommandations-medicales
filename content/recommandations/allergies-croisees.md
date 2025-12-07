@@ -30,7 +30,7 @@ todo = ""
 
 Allergie croisée
 : Manifestation clinique d'allergie vis-à-vis de substances différentes en l'absence de sensibilisation préalable par un mécanisme immunologique IgE-médié.
-: 20-33% des populations européennes sont allergiques aux pollens de bouleau et de graminées. Sensibilisation aux fruits de 34-70% en cas d'allergie au bouleau.
+: 20-33% des populations européennes sont allergiques aux pollens de bouleau et de graminées. Sensibilisation aux fruits de 34-70 % en cas d'allergie au bouleau.
 
 {{% /collapse %}}
 {{%collapse "Principales allergies croisées" %}}
@@ -48,7 +48,7 @@ Allergie croisée
 | Lait de vache    | Viande de bœuf (10-88%), lait de chèvre et brebis (92%), lait de jument (4%)                                    | Deviller, Dutau, STAllergènes |
 | Melon            | 92%: Melon d'eau, banane, avocat                                                                                | Dutau, STAllergènes |
 | Pêche            | 55%: Pomme, poire, prune, cerise, abricot, amande                                                               | Deviller, Dutau, STAllergènes |
-| Poisson          | Autres poissons (50% pour saumon: esturgeon, sole)                                                              | Dutau, STAllergènes |
+| Poisson          | Autres poissons (50 % pour saumon: esturgeon, sole)                                                              | Dutau, STAllergènes |
 | Noisette         | 37%: Noix du Brésil, noix de cajou                                                                              | Dutau, STAllergènes |
 | Sésame, moutarde | Noisette, kiwi, autres graines                                                                                  | STAllergènes |
 |                  | **Entre animaux**                                                                                               |              |

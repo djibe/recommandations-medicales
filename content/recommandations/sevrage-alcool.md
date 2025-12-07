@@ -46,7 +46,7 @@ Ressources: [Annuaire des centres de soins CSAPA, addictologues et hôpitaux](ht
 Alcool
 : Substance psychoactive la plus utilisée en France (suivie de tabac et cannabis). Plus précisément *éthanol*, obtenu par fermentation de fruits, grains ou tubercules.
 : Concentration plasmatique maximale atteinte en 45 minutes (90 pendant un repas). 95% est éliminé par le foie.
-: Un verre standard contient 10 grammes d'alcool pur (éthanol). Marqueurs de consommation: **VGM** (diminue en 3 mois à l'arrêt) + **GGT** (peu sensible avant 30 ans, diminue de 50% tous les 15 jours à l'arrêt).
+: Un verre standard contient 10 grammes d'alcool pur (éthanol). Marqueurs de consommation: **VGM** (diminue en 3 mois à l'arrêt) + **GGT** (peu sensible avant 30 ans, diminue de 50 % tous les 15 jours à l'arrêt).
 : Objectifs principaux de la prise en charge du mésusage: éviter l'évolution vers des complications somatiques ou psychiatriques, réduire les dommages consécutifs et améliorer la qualité de vie des patients.
 
 Stéatopathie métabolique
@@ -125,7 +125,7 @@ TUA
 ### Épidémiologie de la consommation d'alcool en France
 
 > [!INFO]
-> Réduire la consommation d'alcool de 10% préviendrait la survenue de 2178 cancers annuels. (*Shield KD 2018*)
+> Réduire la consommation d'alcool de 10 % préviendrait la survenue de 2178 cancers annuels. (*Shield KD 2018*)
 
 - 1^re^ substance addictive en coût social, cause de décès liée au foie et cause de transplantation hépatique
 - 1/3 des décès prématurés
@@ -137,9 +137,9 @@ TUA
 - Consommation excessive
   - La France est 6^e^ des pays de l'OCDE (sur 34)
   - **La moitié des 18-74 ans dépasse les repères de consommation** (2024)  
-    60% des hommes et 37% des femmes.
+    60 % des hommes et 37% des femmes.
     48% ont un diplôme inférieur ou égal au baccalauréat
-  - 10% des 18-75 ans absorbent 58% de l'alcool consommé
+  - 10 % des 18-75 ans absorbent 58% de l'alcool consommé
   - 11,7 L/an/+15 ans
 - Risque suicidaire: x90 quand > 100 g/j
 - Accidents
@@ -152,7 +152,7 @@ TUA
 - 77% ignorent que l'alcool est la 2^e^ cause de mortalité (*[La ligue 2018](https://www.ligue-cancer.net/article/46014_une-forte-majorite-des-francais-en-faveur-des-mesures-efficaces-pour-reduire-la)*)
 - 54% n'ont pas le sentiment de prendre de risques en consommant (même +10 verres/semaine, *La ligue 2018*)
 - 23,5 % pensent qu'un verre par jour diminue le risque de cancer (*INCa 2023*)
-- 40% pensent qu'il n'engendre que le cancer du foie (*La ligue 2018*)
+- 40 % pensent qu'il n'engendre que le cancer du foie (*La ligue 2018*)
 - 54% ignorent les risques dès le premier verre pendant la grossesse (*BEH 2023*)
 
 {{% /collapse %}}
@@ -295,7 +295,7 @@ Rechercher les complications d'un mésusage de l'alcool et proposer un suivi sp�
   - Érythrose du visage, hyperémie conjonctivale
   - Troubles digestifs
   - Maladie du foie liée à l'alcool (MFLA)  
-    Stéatose > [stéato-hépatite]({{% relref "steatose-hepatique-et-nash.md" %}}) (90% des buveurs excessifs) > cirrhose (10-20% des buveurs excessifs).
+    Stéatose > [stéato-hépatite]({{% relref "steatose-hepatique-et-nash.md" %}}) (90 % des buveurs excessifs) > cirrhose (10-20 % des buveurs excessifs).
   - Polynévrite
   - Dépister une [dénutrition]({{% relref "denutrition.md" %}}) ({{< modal-btn modal-mna >}}questionnaire MNA{{< /modal-btn >}})
 
@@ -394,7 +394,7 @@ Installer une alliance thérapeutique sur la définition du problème à résoud
 
 Supplémentation systématique en vitamines chez le sujet alcoolodépendant:
 
-- Thiamine (vitamine B1, 30-80% de carences)
+- Thiamine (vitamine B1, 30-80 % de carences)
   - Sans malnutrition: 500 mg/j pendant 5 jours puis 250 mg/j pendant 14 jours
   - Malnutrition: voie IV préférée puis relais per os jusqu'à reprise d'une alimentation équilibrée
 - Sujet dénutri  
@@ -561,7 +561,7 @@ Agenda de consommation d'alcool: Try Dry ([Android](https://play.google.com/stor
   - Risque suicidaire
 - Somatiques
   - Cirrhose
-- Troubles cognitifs dont Korsakoff (20% s'améliorent)
+- Troubles cognitifs dont Korsakoff (20 % s'améliorent)
 
 {{% /collapse %}}
 {{%collapse "Information du Grand Public" %}}

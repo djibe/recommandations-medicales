@@ -25,19 +25,19 @@ L'ensemble de ces indicateurs doit être atteint pour recevoir la tranche << soc
 
 - Utiliser un [DPI référencé Ségur](https://industriels.esante.gouv.fr/segur-du-numerique-en-sante/solutions-referencees-segur) intégrant un logiciel d'aide à la prescription (LAP) certifié HAS
 - Utiliser le chiffrement Sesam-Vitale 1.4 addendum 8* intégrant l'app Carte Vitale
-- Taux de dématérialisation Ameli Pro > 60% (DCMT, PSE, FSE, AAT)
+- Taux de dématérialisation Ameli Pro > 60 % (DCMT, PSE, FSE, AAT)
 {.list-group}
 
 > **AAT =** arrêt de travail en ligne; **DCMT =** déclarations médecin traitant dématérialisées; **FSE =** télétransmission FSE; **PSE =** protocoles de soins électroniques
 
-**En 2028**, le taux de dématérialisation Ameli Pro demandé devra atteindre 80% pour valider la Dotation numérique.
+**En 2028**, le taux de dématérialisation Ameli Pro demandé devra atteindre 80 % pour valider la Dotation numérique.
 
 ## Les indicateurs optionnels de la Donum
 
 Ces indicateurs apportent des points supplémentaires lorsqu'ils sont atteints, en plus des indicateurs socles.
 
-- Taux de dématérialisation Ameli Pro autres > 30% (AT-MP, DSG, SPE) | 60 pts - 420 €
-- Taux d'alimentation du DMP et des Ordonnances numériques > 30% | 60 pts - 420 €
+- Taux de dématérialisation Ameli Pro autres > 30 % (AT-MP, DSG, SPE) | 60 pts - 420 €
+- Taux d'alimentation du DMP et des Ordonnances numériques > 30 % | 60 pts - 420 €
 - Usage de l'appli carte vitale (>= 1/an) et de la messagerie sécurisée (>= 1/an) | 20 pts - 140 €
 {.list-group}
 
@@ -45,7 +45,7 @@ Ces indicateurs apportent des points supplémentaires lorsqu'ils sont atteints, 
 
 Pour l'appli carte vitale, réaliser au moins une FSE avec dans l'année. Pour la messagerie sécurisée, envoyer au moins un message dans l'année sur l'Espace Santé d'un patient.
 
-**En 2028**, ces 2 taux devront atteindre 60% pour valider la Dotation numérique complémentaire.
+**En 2028**, ces 2 taux devront atteindre 60 % pour valider la Dotation numérique complémentaire.
 
 ## Sources
 

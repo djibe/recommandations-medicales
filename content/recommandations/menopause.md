@@ -51,7 +51,7 @@ Ménopause
 : **Le diagnostic est *clinique* : période d'aménorrhée de 12 mois consécutifs sans cause évidente chez une femme de plus de 45 ans.**  
 Les signes *climatériques* (bouffées de chaleur, sueurs nocturnes, sécheresse vaginale...) sont inconstants et ne sont pas nécessaires au diagnostic.
 : Après 50 ans, le risque de grossesse est de 1-5/1000 année-femme. 11 million de femmes ménopausées en France.
-: Après la ménopause, l'*ostéoporose* (40% de risque fracturaire) et les *maladies cardiovasculaires* (MCV, 45% des décès) augmentent considérablement.
+: Après la ménopause, l'*ostéoporose* (40 % de risque fracturaire) et les *maladies cardiovasculaires* (MCV, 45% des décès) augmentent considérablement.
 
 [Insuffisance ovarienne prématurée]({{% relref "insuffisance-ovarienne-prematuree.md" %}})
 : ex *ménopause précoce* ou *ménopause prématurée*.
@@ -280,7 +280,7 @@ Le reste du bilan est réalisé par l'endocrinologue.
   - [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) et de l'alcool
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Correction d'un surpoids  
-    Perte de 5 à 10% par réduction glucido-lipidique.
+    Perte de 5 à 10 % par réduction glucido-lipidique.
   - Lutte contre la sédentarité
   - Activité physique quotidienne (30 minutes)  
     Intensité faible à modérée, avec impact (marche, course à pied) et renforcement musculaire.

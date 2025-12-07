@@ -45,7 +45,7 @@ Elle peut être hormonale (lévonorgestrel ou ulipristal acétate dite << pilule
 
 ### Épidémiologie sur la pilule du lendemain en France
 
-- Usage lié à 30% d'oubli de pilule, 30% de rupture de préservatif, 17% d'absence de contraception
+- Usage lié à 30 % d'oubli de pilule, 30 % de rupture de préservatif, 17% d'absence de contraception
 - Principe bien connu: 95% des -30 ans
 - Délai maximal inconnu: **1%** des -30 ans connaît le délai maximum de 5 jours
 - Peu utilisée: 11,5% des 15-29 ans avec rapport à risque y ont recours

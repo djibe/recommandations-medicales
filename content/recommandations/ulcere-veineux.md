@@ -36,7 +36,7 @@ flowchart = true
 Ulcère veineux
 : Plaie de jambe ne cicatrisant pas depuis plus d'un mois (sauf récidive) dont la physiopathologie est liée à une surpression veineuse (reflux dans les veines superficielles, obstruction des veines profondes et/ou déficience musculaire du mollet) sans artériopathie. Il atteint préférentiellement les femmes.
 : Les complications sont liées à la chronicité (< 40 % cicatrisent sous 3 mois), aux récidives (30 %) et à l'altération de la qualité de vie.
-: L'ulcère veineux représente 70 à 80% des ulcères de jambe. C'est un enjeu de santé publique avec 272 millions d'euros de soins annuels.
+: L'ulcère veineux représente 70 à 80 % des ulcères de jambe. C'est un enjeu de santé publique avec 272 millions d'euros de soins annuels.
 
 Ulcère mixte à prédominance veineuse
 : Ulcère préférentiellement veineux mais associé à une [artériopathie oblitérante des membres inférieurs]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) (AOMI) modérée. **La prise en charge est celle de l'AOMI**.

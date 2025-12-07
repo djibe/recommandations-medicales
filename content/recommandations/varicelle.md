@@ -54,7 +54,7 @@ Varicelle
 - Surinfections bactériennes cutanées
   - [Impétigo]({{% relref "infection-cutanee-bacterienne.md" %}}) voire [dermohypodermites]({{% relref "erysipele.md" %}}) et fasciite nécrosante
   - Abcès, lésions nécrotiques, toxine exfoliante
-  - Jusqu'à 50% chez l'enfant. Surtout *S. aureus* et *S. pyogenes*.
+  - Jusqu'à 50 % chez l'enfant. Surtout *S. aureus* et *S. pyogenes*.
 - Neurologique  
   Cérébellite bénigne (1/4000), méningo-encéphalite (1/40.000), **syndrome de Reye** (encéphalopathie aiguë et hépatique en cas de prise d'**aspirine**).
 - Pneumopathie varicelleuse  
@@ -68,11 +68,11 @@ Varicelle
 
 En France, à la différence des autres grands pays, la vaccination contre la varicelle n'est pas proposée à partir d'un an à cause de la défiance antivax (*Infovac*).
 
-- Incidence: 700.000 cas/an avec forte variation saisonnière (90% des cas avant 10 ans)
+- Incidence: 700.000 cas/an avec forte variation saisonnière (90 % des cas avant 10 ans)
 - Hospitalisations: 3000/an
 - Mortalité: 1,4-2/100.000 (x10 après 45 ans)
 - 350-550 cas gravidiques annuels estimés et complications fréquentes chez l'adulte
-- Prévalence: 50% avant 5 ans, 90% avant 10 ans
+- Prévalence: 50 % avant 5 ans, 90 % avant 10 ans
 - Sujet immunodéprimé: risque de varicelle sévère de **30%** avec **risque de décès de 10%**
 
 ### Abréviations

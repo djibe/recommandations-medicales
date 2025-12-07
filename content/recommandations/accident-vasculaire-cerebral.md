@@ -45,7 +45,7 @@ et l'*accident hémorragique* par rupture artérielle (hypertension artérielle,
 Accident ischémique transitoire (AIT)
 : **Urgence vitale** par déficit neurologique ou rétinien transitoire (typiquement < 1h) sans anomalie à l'imagerie cérébrale.  
 **La prise en charge est identique à celle de l'AVC**.
-: Risque d'AVC de 90% à 3 mois, dont la moitié dans les 48 heures suivantes.
+: Risque d'AVC de 90 % à 3 mois, dont la moitié dans les 48 heures suivantes.
 
 ### Abréviations
 
@@ -101,11 +101,11 @@ L'accident vasculaire cérébral (AVC) est un enjeu majeur de santé publique:
 - 2^e^ cause de démence (30%)
 - Incidence: 122.000 AVC/an
 - 1 personne sur 6 aura un AVC
-- 30% de mortalité le 1^er^ mois
+- 30 % de mortalité le 1^er^ mois
 - Mortalité à 1 an: 21% si ischémique, 38% si hémorragique
 - 75% des survivants ont des séquelles
 - Âge moyen de survenue: 74 ans
-- 1/4 des AVC surviennent avant 65 ans, 10% avant 45 ans
+- 1/4 des AVC surviennent avant 65 ans, 10 % avant 45 ans
 
 On compte également 30.000 accidents ischémiques transitoires chaque année.
 

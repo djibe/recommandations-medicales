@@ -67,10 +67,10 @@ Prépuce
 - Ce phimosis physiologique disparaît progressivement et spontanément vers 3-4 ans grâce à une kératinisation progressive.
 
 Selon J. Oster:
-> Décalottage impossible: 50% à 1 an - 8% à 6-7 ans, 3% à 12-13 ans, 1% après 16 ans
+> Décalottage impossible: 50 % à 1 an - 8% à 6-7 ans, 3% à 12-13 ans, 1% après 16 ans
 
 Selon Branger (France)
-> À 10 ans: 89% ont un prépuce normal, 10% ont des adhérences (dont 3% importantes) et 1,1% ont un phimosis vrai (6,5% si ajoute ceux déjà opérés)
+> À 10 ans: 89% ont un prépuce normal, 10 % ont des adhérences (dont 3% importantes) et 1,1% ont un phimosis vrai (6,5% si ajoute ceux déjà opérés)
 
 ### Complications et enjeux du phimosis
 

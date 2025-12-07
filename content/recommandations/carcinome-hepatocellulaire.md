@@ -65,10 +65,10 @@ Encourager la consommation de **café** dans ces populations, en plus des mesure
 ### Épidémiologie du carcinome hépatocellulaire
 
 - **Incidence:** 11.658 cas (2023), en augmentation
-- **Sex-ratio:** 80% d'hommes
+- **Sex-ratio:** 80 % d'hommes
 - **Survie à 5 ans:** 18% hommes, 19% femmes
-- 90% surviennent sur une maladie chronique du foie (75% au stade de cirrhose)
-- L'[alcool]({{% relref "sevrage-alcool.md" %}}) est responsable de 50 à 70% des cas de CHC sur foie cirrhotique
+- 90 % surviennent sur une maladie chronique du foie (75% au stade de cirrhose)
+- L'[alcool]({{% relref "sevrage-alcool.md" %}}) est responsable de 50 à 70 % des cas de CHC sur foie cirrhotique
 
 ### Abréviations
 

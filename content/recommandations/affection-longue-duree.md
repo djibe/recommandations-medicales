@@ -4,7 +4,7 @@ title = "Affections de longue durée (ALD)"
 prefix = "les "
 noindex = true
 titleSeo = "Affections de longue durée"
-description = "Liste des 30 affections de longue durée permettant une prise en charge à 100% par l'Assurance Maladie (dites ALD30) et exemples de maladies pour l'ALD31"
+description = "Liste des 30 affections de longue durée permettant une prise en charge à 100 % par l'Assurance Maladie (dites ALD30) et exemples de maladies pour l'ALD31"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T22:53:41+02:00"
@@ -27,7 +27,7 @@ Ne pas oublier de valider le Protocole de soins (PSE) après accord de la CPAM. 
 {{%collapse "Définitions" %}}
 
 ALD exonérante
-: Seules ALD à dispenser de l'avance des frais (tiers payant) et un remboursement à 100% (exonération du ticket modérateur) par l'Assurance Maladie.
+: Seules ALD à dispenser de l'avance des frais (tiers payant) et un remboursement à 100 % (exonération du ticket modérateur) par l'Assurance Maladie.
 : La demande d'ALD 30 peut être faite en ligne dans l'Espace Pro Ameli, l'accord a lieu de principe et le patient peut mettre sa carte vitale à jour à 48 heures pour mettre en place le tiers payant ALD qui est valable 5 ans.
 : Lorsque la demande d'ALD exonérante est réalisée par un médecin autre que le médecin traitant, l'ALD n'est valable que pendant 6 mois.
 
@@ -39,7 +39,7 @@ Polypathologies (ALD 32)
 
 ALD non exonérante
 : Affection nécessitant une interruption du travail ou des soins d'une durée prévisible supérieure à 6 mois.  
-Elle n'ouvre pas les droits à une prise en charge à 100% mais aux taux habituels de la Sécurité Sociale.
+Elle n'ouvre pas les droits à une prise en charge à 100 % mais aux taux habituels de la Sécurité Sociale.
 : Elle permet cependant la prise en charge des transports en rapport avec l'ALD, les indemnités journalières et les frais de séjour en cure thermale.
 
 {{% /collapse %}}

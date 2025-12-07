@@ -35,7 +35,7 @@ todo = "posologies, annexe 6"
 Nausées et vomissements gravidiques
 : Nausées et vomissements débutant au premier trimestre de grossesse en l'absence d'autre étiologie (ex. [boulimie nerveuse]({{% relref "boulimie-hyperphagie.md" %}}) ...).
 : Ils sont **non compliqués** en l'absence de critères d'hyperémèse gravidique.
-: Ils atteignent 50-90% des femmes enceintes, souvent modérés sans atteinte de la qualité de vie et cèdent à la **fin du premier trimestre**.
+: Ils atteignent 50-90 % des femmes enceintes, souvent modérés sans atteinte de la qualité de vie et cèdent à la **fin du premier trimestre**.
 : 35% ont des symptômes invalidants avec un impact marqué sur la vie personnelle. 0,3 à 3,6% sont hospitalisées.
 
 Hyperémèse gravidique (HG, hyperemesis gravidarum)

@@ -37,7 +37,7 @@ Cancer de l'ovaire
 : Tumeur maligne développée aux dépens de l'ovaire, le plus souvent par un adénocarcinome (+90%, dit cancer épithélial). Il survient le plus souvent après la ménopause (médiane de 65 ans au diagnostic) avec un diagnostic à un stade avancé dans 3/4 des cas (carcinose péritonéale, métastases).
 : Le traitement des cancers des trompes et du péritoine primitif est calqué sur celui du cancer de l'ovaire épithélial.
 : Les [cancers](/tags/cancer/) non épithéliaux doivent être prise en charge dans la filière des Tumeurs Malignes Rares de l'Ovaire ([annuaire des TMRO](https://www.ovaire-rare.org/LesCentresExperts/CentresExpertsRegionaux.aspx)).
-: Le cancer de l'ovaire a la particularité de répondre initialement bien aux traitements (80% des cas) avant de diffuser dans un deuxième temps (70% des cas).
+: Le cancer de l'ovaire a la particularité de répondre initialement bien aux traitements (80 % des cas) avant de diffuser dans un deuxième temps (70 % des cas).
 
 ### Facteurs de risque du cancer de l'ovaire
 
@@ -180,7 +180,7 @@ Les stades précoces accessibles en chirurgie avant 50 ans déclenchent une [mé
 {{% /collapse %}}
 {{%collapse "Suivi" %}}
 
-Le cancer de l'ovaire est marqué par une extension observée dans les 2 ans (70% des cas) avec une **carcinose péritonéale**.
+Le cancer de l'ovaire est marqué par une extension observée dans les 2 ans (70 % des cas) avec une **carcinose péritonéale**.
 
 Les personnes atteintes de mutations BRCA1 ou 2 ou du syndrome de Lynch ont un suivi spécifique.
 

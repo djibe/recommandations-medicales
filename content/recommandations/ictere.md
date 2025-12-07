@@ -22,7 +22,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- L'ictère est dit à bilirubine non conjuguée (si la bilirubinémie non conjuguée est supérieure à 70% de la bilirubine totale), conjuguée ou mixte
+- L'ictère est dit à bilirubine non conjuguée (si la bilirubinémie non conjuguée est supérieure à 70 % de la bilirubine totale), conjuguée ou mixte
 - Le bilan de l'ictère comporte: NFS, bilirubinémie totale et conjuguée et un bilan hépatique (ASAT, ALAT, GGT, PAL) à la recherche d'une cholestase ou d'une cytolyse associée
 - Le bilan de l'ictère est complété selon que la bilirubinémie est conjuguée ou non conjuguée
 - Le syndrome de Gilbert est la première cause d'ictère à bilirubine non conjuguée. Il est bénin et ne nécessite pas d'explorations
@@ -36,7 +36,7 @@ Ictère
 : Coloration jaunes des téguments ou des conjonctives par **hyperbilirubinémie conjuguée ou non conjuguée**. L'ictère apparaît souvent pour une bilirubinémie supérieure à **50 µmol/L**.
 
 Ictère à bilirubine non conjuguée
-: Ictère avec une bilirubinémie non conjuguée supérieure à **70% de la bilirubinémie totale**. Sinon il s'agit d'un ictère à bilirubine conjuguée ou mixte.
+: Ictère avec une bilirubinémie non conjuguée supérieure à **70 % de la bilirubinémie totale**. Sinon il s'agit d'un ictère à bilirubine conjuguée ou mixte.
 
 Syndrome de Gilbert (*ex* maladie de Gilbert)
 : Situation **bénigne** familiale récessive atteignant 5 à 8% de la population donnant une hyperbilirubinémie non conjuguée modérée et fluctuante (toujours inférieure à 80 µmol/L). Le bilan hépatique est normal par ailleurs.

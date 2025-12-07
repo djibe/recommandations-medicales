@@ -26,7 +26,7 @@ todo = "photo"
 - Comparaison de l'intensité des différentes statines pour la réduction du LDL (voir *Intensité*)  
   Pour une baisse du LDL cholestérol supérieure à 50%: statine de haute intensité atorvastatine 40 ou rosuvastatine 20 mg ou plus.
 - La cible de LDL dépend de la présence d'une maladie cardiovasculaire ou du {{< scores/heartscore >}} en prévention primaire
-- Statines et effets indésirables: 90% des myalgies sont attribuables à un effet nocebo; elles surviennent la première année (sauf statine de haute intensité). Ne pas prendre de pamplemousse
+- Statines et effets indésirables: 90 % des myalgies sont attribuables à un effet nocebo; elles surviennent la première année (sauf statine de haute intensité). Ne pas prendre de pamplemousse
 - L'arrêt d'une statine entraîne une surmortalité cardiovasculaire de 20%
 - Préparer une grossesse: le plus souvent interrompre le traitement, voire demander une [expertise au CRAT](https://www.lecrat.fr/contact-2/) pour les cas sévères
 - Le bilan lipidique n'a pas besoin d'être réalisé à jeun sauf syndrome métabolique, [diabète](/tags/diabete/) ou hypertriglycéridémie (*ESC 2021*)
@@ -62,7 +62,7 @@ Toutefois la ESC appelle à un **LDL inférieur à 1 g/L** pour tous à tous les
 Selon l'avis indépendant de la *USPTF 2022*, une statine est recommandée pour si tous les critères suivant sont remplis:
 
 - Adulte de 40 à 75 ans
-- Risque cardiovasculaire à 10 ans ≥ 10% (calcul du {{< scores/heartscore >}})  
+- Risque cardiovasculaire à 10 ans ≥ 10 % (calcul du {{< scores/heartscore >}})  
   Pour certains patients si risque compris de 7,5 à 9,9 %.
 - Avec ≥ 1 autre facteur de risque cardiovasculaire: dyslipidémie, [diabète](/tags/diabete/), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [tabagisme]({{% relref "arret-tabac.md" %}})
 
@@ -115,7 +115,7 @@ Pas de différences entre les statines concernant la survenue de myalgies. La su
 ### Statine mal tolérée
 
 > [!INFO]
-> << 70-90% des patients qui rapportent une intolérance aux statines peuvent en tolérer une après un nouvel essai >> -- *{{< references/esc-diabetes-2023 >}}*
+> << 70-90 % des patients qui rapportent une intolérance aux statines peuvent en tolérer une après un nouvel essai >> -- *{{< references/esc-diabetes-2023 >}}*
 
 En cas de complications attribuables à une statine:
 

@@ -122,7 +122,7 @@ Pour les céphalées liées à la péridurale, un blood patch peut être réalis
 
 ### Dépression postnatale
 
-Le **blues du post-partum** (ou << baby blues >>) survient les premiers jours (50 à 80% des parturiantes). Il est transitoire avec résolution spontanée **sous 10 jours**. Un blues sévère est à risque de transformation en **[dépression]({{% relref "depression.md" %}})**.
+Le **blues du post-partum** (ou << baby blues >>) survient les premiers jours (50 à 80 % des parturiantes). Il est transitoire avec résolution spontanée **sous 10 jours**. Un blues sévère est à risque de transformation en **[dépression]({{% relref "depression.md" %}})**.
 
 Dépistage clinique systématique de la **dépression postnatale** (prévalence: 13%). Voire {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou [échelle EPDS](https://www.hug.ch/sante-psychique-perinatalite/comment-depister-depression-perinatale-quizz-epds). Les facteurs de risques principaux sont les **facteurs de risques psycho-sociaux**.
 
@@ -185,7 +185,7 @@ La rééducation périnéale est réalisée par une sage-femme ou un kinésithé
 
 La rééducation périnéale ne permet pas de traiter un [prolapsus]({{% relref "prolapsus-genital-femme.md" %}}) ou des dyspareunies.
 
-10 séances de rééducation sont remboursées à 100% dans les 3 ans, à 70% au-delà. (*[ONSSF](https://www.onssf.org/?view=article&id=383:jusqua-quand-la-reeducation-est-elle-prise-en-charge-par-lassurance-maternite&catid=47)*)
+10 séances de rééducation sont remboursées à 100 % dans les 3 ans, à 70 % au-delà. (*[ONSSF](https://www.onssf.org/?view=article&id=383:jusqua-quand-la-reeducation-est-elle-prise-en-charge-par-lassurance-maternite&catid=47)*)
 
 {{% /collapse %}}
 {{%sources%}}

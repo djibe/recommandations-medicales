@@ -34,10 +34,10 @@ flowchart = true
 {{%collapse "Définition" %}}
 
 Cancer de l'estomac
-: Tumeurs malignes de l'estomac de pronostic intermédiaire composées à 90% d'*adénocarcinomes* atteignant préférentiellement les hommes âgés (2/3).  
+: Tumeurs malignes de l'estomac de pronostic intermédiaire composées à 90 % d'*adénocarcinomes* atteignant préférentiellement les hommes âgés (2/3).  
 Autres types rares: lymphomes (du MALT, *Helicobacter pylori* +++) > stromales (GIST) > endocrine.
 : Les tumeurs sont classées en 2 entités par facteurs de risque différents: cancer du cardia (*jonction œso-gastrique* *JOG*) et non-cardia (distal).
-: 80% des cancers de l'estomac sont causés par une **[gastrite chronique à *Helicobacter pylori*]({{% relref "helicobacter-pylori.md" %}})** avec une survie à 5 ans de 30%.
+: 80 % des cancers de l'estomac sont causés par une **[gastrite chronique à *Helicobacter pylori*]({{% relref "helicobacter-pylori.md" %}})** avec une survie à 5 ans de 30%.
 
 ### Épidémiologie du cancer de l'estomac
 

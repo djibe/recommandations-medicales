@@ -22,7 +22,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- La puberté précoce est définie par l'apparition des seins (thélarche) chez une fille avant 8 ans (90% des cas) et l'augmentation de volume des testicules du garçon avant 9 ans avec accélération de la vitesse de croissance et avance de l'âge osseux
+- La puberté précoce est définie par l'apparition des seins (thélarche) chez une fille avant 8 ans (90 % des cas) et l'augmentation de volume des testicules du garçon avant 9 ans avec accélération de la vitesse de croissance et avance de l'âge osseux
 - Bilan d'une puberté précoce: âge osseux et échographie pelvienne (chez la fille)
 - Si troubles visuels ou syndrome polyuro-polydipsique: bilan avec IRM cérébrale semi-urgente
 - Suivi de la puberté précoce: tracer les courbes de croissance à chaque consultation

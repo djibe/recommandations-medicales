@@ -208,7 +208,7 @@ En cas d'intolérance au peroxyde de benzoyle:
   \+ rétinoïde local (cf *rétentionnelle*)
 {{%/info%}}
 
-Autre traitement possible mais de faible efficacité: acide azélaïque gel 15% ou crème 20% x 2/j.
+Autre traitement possible mais de faible efficacité: acide azélaïque gel 15% ou crème 20 % x 2/j.
 
 **NB. Il n'est pas recommandé d'utiliser un antibiotique local en monothérapie en raison du risque de résistance bactérienne.**
 
@@ -249,7 +249,7 @@ Proposer un changement de contraception:
 {{% /collapse %}}
 {{% collapse "Acné sévère et surveillance de l'isotrétinoïne" %}}
 
-La prescription de l'isotrétinoïne est réservée au dermatologue et permet d'obtenir la guérison dans 50% des cas.
+La prescription de l'isotrétinoïne est réservée au dermatologue et permet d'obtenir la guérison dans 50 % des cas.
 
 Une cure de traitement dure habituellement **4 à 6 mois** avec une exacerbation de l'acné pendant les 4 premières semaines.
 
@@ -316,7 +316,7 @@ graph TB
 
 > **Rétinoïde** = trétinoïne 0,025 ou 0,05% ou adapalène 0,1%  
 ADA = adapalène 0,1%  
-PeBo = peroxyde de benzoyle (2,5, 5 % ou 10% sauf mention contraire, 1 appli/j)  
+PeBo = peroxyde de benzoyle (2,5, 5 % ou 10 % sauf mention contraire, 1 appli/j)  
 Trétinoïne = trétinoïne 0,025 ou 0,05%
 
 {{% /collapse %}}

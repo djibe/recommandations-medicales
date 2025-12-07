@@ -35,7 +35,7 @@ flowchart = true
 
 Bursite (ou hygroma)
 : Inflammation d'une bourse séreuse survenant le plus souvent en regard de l'olécrane ou de la rotule suite à la répétition de microtraumatismes (mais 1/3 sont septiques) ou atteinte plus profonde (bourse sous-acromiale).
-: Les autres causes d'hygroma sont hémorragique suite à un traumatisme aigu (ou lors de troubles de l'hémostase ou d'anticoagulants), inflammatoire (dite *chronique aseptique* lors de la goutte ou de la polyarthrite rhumatoïde), infectieuse (bursite septique olécranienne et pré-rotulienne à *Staphylococcus aureus* à 80% > *Streptococcus pyogenes*) et au cours de l'hémodialyse.
+: Les autres causes d'hygroma sont hémorragique suite à un traumatisme aigu (ou lors de troubles de l'hémostase ou d'anticoagulants), inflammatoire (dite *chronique aseptique* lors de la goutte ou de la polyarthrite rhumatoïde), infectieuse (bursite septique olécranienne et pré-rotulienne à *Staphylococcus aureus* à 80 % > *Streptococcus pyogenes*) et au cours de l'hémodialyse.
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}

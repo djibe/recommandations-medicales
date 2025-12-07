@@ -59,9 +59,9 @@ Dysfonction érectile (DE, *ex* impuissance)
 ### Facteurs de risque de dysfonction érectile indépendants de l'âge
 
 - [Diabète]({{% relref "diabete-type-2.md" %}})  
-  - 50% des diabétiques, risque multiplié par 4,5 et le trouble survient 10 à 15 ans plus tôt
+  - 50 % des diabétiques, risque multiplié par 4,5 et le trouble survient 10 à 15 ans plus tôt
   - La DE est l'indicateur le plus fiable de l'installation des complications viscérales et vasculaires (MCV x1,6)
-  - 40% arrêtent le traitement antidiabétique pensant améliorer la DE
+  - 40 % arrêtent le traitement antidiabétique pensant améliorer la DE
 - Pathologie cardiovasculaire
 - Troubles anxio-dépressifs
 - [Hypertrophie bénigne de prostate]({{% relref "hypertrophie-benigne-prostate.md" %}})
@@ -379,7 +379,7 @@ Les informations suivantes doivent être données au patient, car il s'agit d'un
 Les traitements suivants ne relèvent pas de la prise en charge du médecin traitant (sauf formation solide):
 
 - Injections intra-caverneuses (IIC) de prostaglandines alprostadil (Caverject®, Edex®)  
-  Efficacité 55-93%, remboursables 30% sur ordonnances d'exception.
+  Efficacité 55-93%, remboursables 30 % sur ordonnances d'exception.
 - Prostaglandines en crèmes intra-urétrales alprostadil (Muse® NR, Vitaros®)  
   Efficacité 50%, Vitaros® remboursable 15% sur ordonnances d'exception chez certains patients.  
   Contre-indiqué avec femme en âge de procréer (sauf préservatif).

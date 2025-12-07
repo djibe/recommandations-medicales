@@ -37,10 +37,10 @@ flowchart = true
 
 Mononucléose infectieuse (MNI)
 : Primo-infection symptomatique à Epstein-Barr virus (EBV) par contamination inter-humaine salivaire.
-: L'infection à EBV est très fréquente (80% des adultes sont immunisés) puis persiste comme tous les herpès virus à l'état latent. Seuls les immunodéprimés peuvent présenter une ré-infection symptomatique.
+: L'infection à EBV est très fréquente (80 % des adultes sont immunisés) puis persiste comme tous les herpès virus à l'état latent. Seuls les immunodéprimés peuvent présenter une ré-infection symptomatique.
 
 Syndrome mononucléosique
-: Diagnostic biologique sur l'hémogramme avec plus de 50% de cellules mononucléées parmi les leucocytes et plus de 10% de lymphocytes activés (lymphocytes T hyperbasophiles de taille augmentée dits << atypiques >>) au frottis sanguin. En pratique les ratios sont souvent omis pour parler du syndrome mononucléosique. Il témoigne d'une activation intense de l'**immunité cellulaire** par un agent infectieux (viral ++) ou médicamenteux.
+: Diagnostic biologique sur l'hémogramme avec plus de 50 % de cellules mononucléées parmi les leucocytes et plus de 10 % de lymphocytes activés (lymphocytes T hyperbasophiles de taille augmentée dits << atypiques >>) au frottis sanguin. En pratique les ratios sont souvent omis pour parler du syndrome mononucléosique. Il témoigne d'une activation intense de l'**immunité cellulaire** par un agent infectieux (viral ++) ou médicamenteux.
 : La mononucléose infectieuse est la première cause de syndrome mononucléosique (80%) et à l'origine des plus intenses.
 : Autres étiologies: primo-infection CMV, [VIH]({{% relref "vih-sida.md" %}}), toxoplasmose et plus rares ([hépatite virale](/tags/hepatite/), HHV6, rubéole, adénovirus, rickettsioses, [syphilis secondaire]({{% relref "syphilis.md" %}}), brucellose, typhoïde, listériose) ou médicamenteuse (sulfamides, bêta-lactamines, anticonvulsivants).
 
@@ -101,7 +101,7 @@ Le diagnostic de mononucléose infectieuse est biologique:
 
 - NFS: syndrome mononucléosique intense
 - CRP augmentée
-- MNI test (se 85-90% sauf enfant, spe +90%, *CMIT*, *CEMI*)
+- MNI test (se 85-90 % sauf enfant, spe +90%, *CMIT*, *CEMI*)
 - Si MNI test négatif: sérologie EBV  
   Primo-infection à la sérologie MNI: IgM anti-VCA (+ les 3 premiers mois) et IgG anti-EBNA (- les 3 premiers mois)
 - Cytolyse modérée isolée
@@ -116,7 +116,7 @@ La prise en charge d'une mononucléose infectieuse est purement symptomatique:
 - Pas d'éviction de la collectivité (*CNPU*)
 - Absence de mesure prophylactique pour les contacts
 - Repos  
-  Prévenir que la fatigue est de durée variable (10% ont plusieurs mois).
+  Prévenir que la fatigue est de durée variable (10 % ont plusieurs mois).
 - Si fièvre: paracétamol
 
 {{% /collapse %}}

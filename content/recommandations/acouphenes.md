@@ -31,11 +31,11 @@ TODO: (at the end)
 Acouphènes
 : Sifflements, grésillements ou bourdonnements d'oreille qui ne proviennent pas du monde extérieur. Ils sont le plus souvent liés à une perte auditive liée à l'âge et à l'exposition au bruit.
 : L'évolution de l'acouphène est variable à 5 ans, avec parfois une amélioration (18%), sa disparition (16%) ou une aggravation (14%).
-: Les acouphènes sont fréquents, avec une prévalence estimée à 10% chez l'adulte.
+: Les acouphènes sont fréquents, avec une prévalence estimée à 10 % chez l'adulte.
 
 Acouphène pulsatile
-: Perception auditive d'un bruit rythmique et synchrone du rythme cardiaque. L'étiologie est identifiée dans 40 à 70% des cas, d'origine vasculaire (principalement des veines et sinus veineux cérébraux) ou non.
-: Le handicap est fréquent avec altération du sommeil et de la qualité de vie. Il représente 10% des acouphènes.
+: Perception auditive d'un bruit rythmique et synchrone du rythme cardiaque. L'étiologie est identifiée dans 40 à 70 % des cas, d'origine vasculaire (principalement des veines et sinus veineux cérébraux) ou non.
+: Le handicap est fréquent avec altération du sommeil et de la qualité de vie. Il représente 10 % des acouphènes.
 
 ### Abréviations
 
@@ -53,7 +53,7 @@ Causes d'acouphène non pulsatile:
 
 - ==**Perte auditive**== (80%)
 
-La cause n'est pas identifiée dans 40% des cas.
+La cause n'est pas identifiée dans 40 % des cas.
 
 Causes d'acouphène pulsatile:
 
@@ -141,7 +141,7 @@ Diagnostic différentiel des symptômes de l'**acouphène non pulsatile**:
 - Examen neurologique des paires crâniennes
 - Si caractère pulsatile:
   - auscultation vasculaire: carotides, temporale, derrière et sous l'oreille
-  - modification ou non par la compression douce de la veine jugulaire interne ou par la rotation de la tête (sensibilité > 90% pour une lésion veineuse)
+  - modification ou non par la compression douce de la veine jugulaire interne ou par la rotation de la tête (sensibilité > 90 % pour une lésion veineuse)
 
 Un acouphène pulsatile nécessite un avis spécialisé ORL et neuroradiologique en cas d'anomalie vasculaire à l'imagerie ou de réduction de l'acouphène par compression jugulaire douce.
 

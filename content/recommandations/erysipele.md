@@ -113,7 +113,7 @@ Signes et symptômes d'érysipèle à rechercher à l'examen:
 
 Réévaluer cliniquement une suspicion d'érésipèle à 48-72 heures.
 
-**Évolution clinique:** apyrexie sous 72 heures, puis disparition de l'érythème et enfin disparition de l'œdème (80% à J7).
+**Évolution clinique:** apyrexie sous 72 heures, puis disparition de l'érythème et enfin disparition de l'œdème (80 % à J7).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

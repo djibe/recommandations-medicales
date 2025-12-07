@@ -129,7 +129,7 @@ Au diagnostic (le patient est hospitalisé), l'échographie abdominale recherche
 
 ### Scanner abdominal avec injection
 
-Le scanner abdominal injecté a des indications limitées au cours de la pancréatite aiguë (*ACG 2024*): diagnostic incertain, évolution défavorable à 48-72 heures d'hospitalisation (20% des cas), origine idiopathique après 40 ans (coupes fines ou cholangiopancréatographie par IRM).
+Le scanner abdominal injecté a des indications limitées au cours de la pancréatite aiguë (*ACG 2024*): diagnostic incertain, évolution défavorable à 48-72 heures d'hospitalisation (20 % des cas), origine idiopathique après 40 ans (coupes fines ou cholangiopancréatographie par IRM).
 
 Le scanner est particulièrement performant pour le diagnostic de pancréatite aiguë (Se et Spe > 90%). L'IRM est réservée aux contre-indications au scanner.
 

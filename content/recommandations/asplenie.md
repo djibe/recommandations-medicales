@@ -49,7 +49,7 @@ Germes responsables du sur-risque infectieux: **pneumocoque** (50-90%), *Haemoph
 
 500.000 personnes hypospléniques ou aspléniques en France.
 
-Splénectomie chirurgicale: première cause avec 6 à 9000 cas par an (50% d'adultes). Autres causes: infarctus splénique, asplénisme thérapeutique (radiothérapie), **drépanocytose** (10.000 porteurs, la moitié adulte).
+Splénectomie chirurgicale: première cause avec 6 à 9000 cas par an (50 % d'adultes). Autres causes: infarctus splénique, asplénisme thérapeutique (radiothérapie), **drépanocytose** (10.000 porteurs, la moitié adulte).
 
 ### Abréviations
 

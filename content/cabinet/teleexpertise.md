@@ -26,7 +26,7 @@ La téléexpertise vous permet ainsi de demander une conduite à tenir pour une 
 Les exemples de demandes de téléexpertise peuvent être variés: avis sur le diagnostic ou l'urgence d'une lésion dermatologique, ECG de dépistage, interrogation sur une anomalie biologique, adaptation d'un traitement ou tout autre motif ou question pertinente.  
 La téléexpertise permet ainsi d'offrir à chaque patient la conduite à tenir adaptée sans forcément recourir à une consultation spécialisée.
 
-La téléexpertise est remboursée à 100% pour tous les patients depuis le 1^er^ avril 2022, dans la limite de 4 demandes par an par patient. Vous êtes rémunérés **10€** pour la demande (20€ pour l'expert), pris en charge à 100% par l'Assurance Maladie pour tous les patients.
+La téléexpertise est remboursée à 100 % pour tous les patients depuis le 1^er^ avril 2022, dans la limite de 4 demandes par an par patient. Vous êtes rémunérés **10€** pour la demande (20€ pour l'expert), pris en charge à 100 % par l'Assurance Maladie pour tous les patients.
 
 {{%collapse "Quels sont les services de téléexpertise pour le médecin généraliste ?" %}}
 
@@ -76,7 +76,7 @@ Le médecin demandeur est dit *requérant* et le médecin expert est dit *requis
 {{% /collapse %}}
 {{%collapse "Comment facturer une téléexpertise ?" %}}
 
-La facturation d'une téléexpertise s'effectue toujours en mode *Sesam sans vitale* avec un tiers payant AMO total (la téléexpertise est prise en charge à 100% pour faciliter votre facturation).
+La facturation d'une téléexpertise s'effectue toujours en mode *Sesam sans vitale* avec un tiers payant AMO total (la téléexpertise est prise en charge à 100 % pour faciliter votre facturation).
 
 ### Facturer une téléexpertise en tant que médecin requérant
 

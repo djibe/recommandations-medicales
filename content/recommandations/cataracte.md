@@ -32,7 +32,7 @@ todo = "SEO, flow"
 
 Cataracte
 : Opacification de tout ou partie du cristallin, le plus souvent liée à l'âge mais pouvant être congénitale ou liée à des pathologies ou traumatismes.
-: C'est la première cause de cécité dans le monde et 1^re^ chirurgie de France. Elle atteint 20% des +65 ans.
+: C'est la première cause de cécité dans le monde et 1^re^ chirurgie de France. Elle atteint 20 % des +65 ans.
 
 ### Abréviations
 

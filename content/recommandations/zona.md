@@ -81,7 +81,7 @@ VZV
 Les complications du zona surviennent principalement chez l'immunodéprimé et la personne âgée.
 
 - **Algies post-zostériennes +++**  
-  {{%class%}}50% à 50 ans, 70% après 70 ans.{{%/class%}}
+  {{%class%}}50 % à 50 ans, 70 % après 70 ans.{{%/class%}}
 - Zona généralisé
 - Zona hémorragique
 - Atteinte viscérale  

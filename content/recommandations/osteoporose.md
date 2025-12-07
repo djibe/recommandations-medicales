@@ -61,7 +61,7 @@ Fracture ostéoporotique (ou de fragilité)
 : Fracture survenant à la suite d'un traumatisme de faible énergie (ex. de sa hauteur en marchant). Elle atteint surtout la femme (3/4) et constitue la gravité de la maladie ostéoporotique.
 : Tous les os peuvent être atteints par une fracture ostéoporotique sauf:  
 crâne, face, rachis cervical, 3 premières vertèbres thoraciques, mains et orteils (fractures traumatiques ou tumorales).
-: À 1 an: seulement 10% ont eu une ostéodensitométrie et 15% un traitement de l'ostéoporose.
+: À 1 an: seulement 10 % ont eu une ostéodensitométrie et 15% un traitement de l'ostéoporose.
 : Le capital osseux est maximal à 20 ans (génétique, nutritionnel, activité physique), puis diminue de 0,5-1%/an avec aggravation péri-ménopausique chez la femme (1-2%/an) pendant 10 ans. Caractère physiologique et le plus souvent bénin.
 
 Fracture de fragilité sévère
@@ -225,7 +225,7 @@ T-score > -1 = **DMO normale** | -2,5 < T-score ≤ -1 = **Ostéopénie**.
 {{%/info%}}
 
 Meilleur critère prédictif de tout risque de fracture. Chaque baisse d'une déviation standard double le risque de fracture.  
-Toutefois 50% des fractures surviennent chez des personnes avec T-score > -2,5.
+Toutefois 50 % des fractures surviennent chez des personnes avec T-score > -2,5.
 
 Les mesures sur os arthrosique ou sur fracture vertébrale surestiment la DMO.
 

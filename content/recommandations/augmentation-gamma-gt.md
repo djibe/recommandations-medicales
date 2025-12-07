@@ -66,7 +66,7 @@ Il existe 4 grandes causes pour une augmentation des Gamma GT:
 3. Autres affections organiques  
   {{< modal-btn modal-metabolique >}}Syndrome métabolique{{< /modal-btn >}}, dyslipidémie, [diabète](/tags/diabete/), [obésité]({{% relref "obesite-adulte.md" %}}), [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}) et tout organe riche en GGT (rein, foie, pancréas, intestin, cerveau).
 4. Alcool  
-  Une GGT élevée signe une [consommation chronique d'alcool]({{% relref "sevrage-alcool.md" %}}) mais sans relation avec la quantité et avec une sensibilité faible (60%). Autres signes de mésusage: macrocytose, diminution de 50% à J10 du sevrage.
+  Une GGT élevée signe une [consommation chronique d'alcool]({{% relref "sevrage-alcool.md" %}}) mais sans relation avec la quantité et avec une sensibilité faible (60%). Autres signes de mésusage: macrocytose, diminution de 50 % à J10 du sevrage.
 
 > [!INFO]
 > Une augmentation des Gamma-GT avec les phosphatases alcalines (PAL) signe une cholestase ([cholangite biliaire primitive]({{% relref "cholangite-biliaire-primitive.md" %}}), lithiase ou tumeur biliaire, médicamenteuse).

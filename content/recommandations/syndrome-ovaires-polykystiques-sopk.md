@@ -26,7 +26,7 @@ flowchart = true
 {{%article-summary%}}
 
 - Le syndrome des ovaires polykystiques (SOPK) consiste en la présence de kystes ovariens multiples à l'origine d'une sécrétion d'androgènes donnant une hyperandrogénie clinique (acné, hirsutisme, alopécie) et se compliquant de troubles cardio-métaboliques (diabète, obésité, risque cardiovasculaire), psychologiques et d'une [infertilité]({{% relref "infertilite-couple.md" %}})
-- 70% des patientes ne sont pas diagnostiquées
+- 70 % des patientes ne sont pas diagnostiquées
 - Le diagnostic du syndrome des ovaires polykystiques (SOPK) est défini par les critères de Rotterdam révisés: oligo-anovulation, hyperandrogénie clinique et/ou biologique et ovaires polykystiques en échographie
 - Rechercher un SOPK en cas de: cycles menstruels irréguliers, acné sévère ou hirsutisme
 - Bilan du syndrome des ovaires polykystiques: échographie pelvienne endovaginale et testostérone libre et totale ± hormone antimüllérienne, bilan supplémentaire si aménorrhée, HGPO 75g
@@ -42,7 +42,7 @@ flowchart = true
 
 Syndrome des ovaires polykystiques (SOPK)
 : Le syndrome des ovaires polykystiques (SOPK) est une maladie gynéco-métabolique qui associe: ovaires polykystiques avec spanioménorrhée, hyperandrogénie ([acné sévère]({{% relref "acne.md" %}}), [hirsutisme]({{% relref "hirsutisme.md" %}})) et insulinorésistance.
-: Le SOPK est une pathologie féminine chronique parmi les plus fréquentes (prévalence de 10 à 13 %) dont 70% des patientes ne sont pas diagnostiquées. Il est considéré comme acquis à vie.
+: Le SOPK est une pathologie féminine chronique parmi les plus fréquentes (prévalence de 10 à 13 %) dont 70 % des patientes ne sont pas diagnostiquées. Il est considéré comme acquis à vie.
 : Complications du syndrome des ovaires polykystiques: [infertilité]({{% relref "infertilite-couple.md" %}}), métaboliques ([diabète](/tags/diabete/) et [diabète gestationnel]({{% relref "diabete-gestationnel.md" %}}) multipliés par 3) avec augmentation du [risque cardiovasculaire](/tags/risque-cardiovasculaire/), psychologiques et surrisque de [cancer de l'endomètre]({{% relref "cancer-endometre.md" %}}) (x 3 mais le risque absolu reste faible).
 
 Cycles menstruels irréguliers

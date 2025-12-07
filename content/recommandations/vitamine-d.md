@@ -53,7 +53,7 @@ Ne pas supplémenter au-delà 150 nmol/L.
 
 ### Épidémiologie sur la vitamine D en France
 
-- **Déficit en vitamine D**: 75% des adultes et 70% des enfants
+- **Déficit en vitamine D**: 75% des adultes et 70 % des enfants
 - **Carence en vitamine D**: 7% des adultes, 13% des adolescents et 4% des enfants
 
 > -- *Étude ESTEBAN (Santé Publique France)*

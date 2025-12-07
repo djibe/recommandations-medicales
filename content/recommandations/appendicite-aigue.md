@@ -151,7 +151,7 @@ Aucun score basé sur le syndrome inflammatoire ne s'est révélé suffisant pou
 Bilan d'une suspicion d'appendicite aiguë:
 
 - Bandelette urinaire
-- NFS (80% d'hyperleucocytose)
+- NFS (80 % d'hyperleucocytose)
 - CRP
 - Créatininémie
 - ßHCG
@@ -177,7 +177,7 @@ Chez la femme enceinte: échographie abdominale ou IRM abdominale sans injection
 
 ### Traitement chirurgical par appendicectomie
 
-La chirurgie est le traitement de référence de l'appendicite aiguë non compliquée (par cœlioscopie principalement, même chez la femme enceinte). Elle peut être différée jusqu'à 24 heures après le diagnostic. 30 à 50% pourraient être réalisées en ambulatoire.
+La chirurgie est le traitement de référence de l'appendicite aiguë non compliquée (par cœlioscopie principalement, même chez la femme enceinte). Elle peut être différée jusqu'à 24 heures après le diagnostic. 30 à 50 % pourraient être réalisées en ambulatoire.
 
 Le traitement chirurgical par cœlioscopie est également la référence en cas d'appendicite aiguë compliquée mais une antibiothérapie peut être discutée en première ligne (sauf péritonite), suivie d'une chirurgie à froid.
 

@@ -116,7 +116,7 @@ Le traitement de référence de la hernie symptomatique est une chirurgie ambula
 > [!WARNING]
 > << Palpation obligatoire des orifices herniaires chez tout nourrisson, surtout en cas de prématurité et/ou de vomissement, douleur ... >> -- *CCVD*
 
-- Fréquente, congénitale (95%), 80% de garçons, prévalence jusqu'à 20% chez le prématuré
+- Fréquente, congénitale (95%), 80 % de garçons, prévalence jusqu'à 20 % chez le prématuré
 - Par persistance du canal péritonéo-vaginal (processus vaginalis, canal de Nück chez la fille) et non par défaut de la paroi musculo-aponévrotique.
 - Le diagnostic de hernie est clinique
   - **Tuméfaction inguinale ou inguino-scrotale**, arrondie, molle, indolore et souple, intermittente, impulsive à la toux, réductible de contenu digestif (garçon, ovaire chez la fille)

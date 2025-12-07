@@ -30,8 +30,8 @@ todo = "flow"
 {{%collapse "Définition" %}}
 
 Cholécystite aiguë
-: Infection aiguë de la vésicule biliaire. Elle est dite lithiasique lorsqu'elle est causée par une lithiase biliaire (cholélithiase composée de cholestérol pour 80% ou pigmentaire).
-: Prévalence des lithiases des voies biliaires: 10 à 15%, le plus souvent asymptomatiques (90%). 20 à 40% se compliquent, le plus souvent sous forme de cholécystite aiguë.
+: Infection aiguë de la vésicule biliaire. Elle est dite lithiasique lorsqu'elle est causée par une lithiase biliaire (cholélithiase composée de cholestérol pour 80 % ou pigmentaire).
+: Prévalence des lithiases des voies biliaires: 10 à 15%, le plus souvent asymptomatiques (90%). 20 à 40 % se compliquent, le plus souvent sous forme de cholécystite aiguë.
 
 ### Abréviations
 

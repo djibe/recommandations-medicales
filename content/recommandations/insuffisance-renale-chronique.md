@@ -308,9 +308,9 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
   - [Automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}})
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} ± ézétimibe
   - Indications: +50 ans, maladie cardiovasculaire, diabète type 2, RCV élevé
-  - {{< modal-btn modal-rcv >}}RCV très élevé{{< /modal-btn >}}: LDL cible < 0,55 g/L et réduction de +50%  
+  - {{< modal-btn modal-rcv >}}RCV très élevé{{< /modal-btn >}}: LDL cible < 0,55 g/L et réduction de +50 %  
     IRC sévère ou modérée avec albuminurie > 3 mg/mmol; diabète et DFG < 45 ou DFG 45-59 avec albu 3-30 ou albu +30
-  - {{< modal-btn modal-rcv >}}RCV élevé{{< /modal-btn >}}: LDL cible < 0,7 g/L et réduction de +50%  
+  - {{< modal-btn modal-rcv >}}RCV élevé{{< /modal-btn >}}: LDL cible < 0,7 g/L et réduction de +50 %  
     Toutes les autres atteintes rénales.
 - **Albuminurie**
   - Albuminurie cible < 30 mg/mmol par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}

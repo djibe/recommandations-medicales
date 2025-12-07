@@ -33,7 +33,7 @@ flowchart = true
 {{%collapse "Définition" %}}
 
 Péricardite aiguë
-: Inflammation aiguë du péricarde d'origine inconnue ou virale (90% dites idiopathiques, voire bactérienne ou tuberculose chez l'immunodéprimé), avec ou sans épanchement, évoluant depuis moins de 4 semaines, souvent associée à une myocardite (myopéricardite). L'évolution de la péricardite aiguë idiopathique est le plus souvent bénigne. Elle atteint 2 fois plus les hommes (18-65 ans).
+: Inflammation aiguë du péricarde d'origine inconnue ou virale (90 % dites idiopathiques, voire bactérienne ou tuberculose chez l'immunodéprimé), avec ou sans épanchement, évoluant depuis moins de 4 semaines, souvent associée à une myocardite (myopéricardite). L'évolution de la péricardite aiguë idiopathique est le plus souvent bénigne. Elle atteint 2 fois plus les hommes (18-65 ans).
 : Les enjeux sont liés à la gravité des diagnostics différentiels ([SCA]({{% relref "syndrome-coronarien-aigu.md" %}}), [EP]({{% relref "embolie-pulmonaire.md" %}}), dissection aortique), aux risque de tamponnade et de formes chroniques.
 : Les récidives de péricardite aiguë sont fréquentes (20 à 30 % à 18 mois). À distance d'une péricardite aiguë idiopathique, la colchicine réduirait les récidives de moitié.
 

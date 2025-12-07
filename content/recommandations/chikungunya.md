@@ -48,7 +48,7 @@ Des cas de transmission materno-fœtale au 2^e^ trimestre et périnataux ont ét
 
 - **Cas importés en métropole:** 3 en 2021
 - **Zones épidémiques:** La Réunion (depuis le 13 janvier 2025)
-- 80% des départements français sont propices au développement du chikungunya (présence d'*Aedes albopictus*)
+- 80 % des départements français sont propices au développement du chikungunya (présence d'*Aedes albopictus*)
 
 Dans le monde, la plupart des cas sont localisés en Amérique du Sud.
 
@@ -88,7 +88,7 @@ Autres causes de syndromes pseudo-grippaux:
 
 Le mode d'action du virus est mal connu, l'**incubation dure de 4 à 7 jours** (extrêmes 1 à 12 jours) avec guérison en 5 à 10 jours (les **arthralgies** peuvent persister quelques semaines à quelques années).
 
-10 à 40% des sujets sont **asymptomatiques**.
+10 à 40 % des sujets sont **asymptomatiques**.
 
 ### Interrogatoire
 

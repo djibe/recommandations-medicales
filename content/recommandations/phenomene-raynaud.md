@@ -25,7 +25,7 @@ modele = true
 
 {{%article-summary%}}
 
-- Le phénomène de Raynaud (PR) ou *syndrome de Raynaud* est un acrosyndrome vasculaire paroxystique fréquent, déclanché au froid et secondaire à une maladie de système dans 10% des cas
+- Le phénomène de Raynaud (PR) ou *syndrome de Raynaud* est un acrosyndrome vasculaire paroxystique fréquent, déclanché au froid et secondaire à une maladie de système dans 10 % des cas
 - L'examen clinique recherche des signes d'alerte: début tardif, caractère invalidant sans amélioration estivale, atteinte des pouces ... (voir [Signes d'alerte](#signes-dalerte))
 - Un bilan est systématique devant tout syndrome de Raynaud: anticorps anti-nucléaires et capillaroscopie
 - Lorsque le bilan est négatif, la forme idiopathique est appelée Maladie de Raynaud
@@ -37,7 +37,7 @@ modele = true
 
 Phénomène de Raynaud (PR)
 : ou *syndrome de Raynaud*
-: Acrosyndrome vasculaire fréquent (prévalence de 5 à 15% en France) **paroxystique** le plus souvent primitif (90%), déclenché au froid, sans atteinte d'organe dans sa forme primitive. Ne pas méconnaître les 10% de formes secondaires à une maladie de système.
+: Acrosyndrome vasculaire fréquent (prévalence de 5 à 15% en France) **paroxystique** le plus souvent primitif (90%), déclenché au froid, sans atteinte d'organe dans sa forme primitive. Ne pas méconnaître les 10 % de formes secondaires à une maladie de système.
 : La *maladie de Raynaud* est le nom de la forme idiopathique.
 
 ### Abréviations

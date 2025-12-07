@@ -80,7 +80,7 @@ VIH
 ### Personnes à risque de contamination VIH
 
 - Hommes  
-  70% des nouveaux diagnostics (dont 2/3 d'HSH).
+  70 % des nouveaux diagnostics (dont 2/3 d'HSH).
 - [HSH]({{% relref "hsh.md" %}})  
   45% des nouvelles infections détectées en 2013.  
   {{%class%}}L'incidence du VIH est est 200x celle observée dans la population comparable en métropole.{{%/class%}}
@@ -95,14 +95,14 @@ VIH
 
 - 166.000 personnes infectées
 - **Non diagnostiquées:** 24 800 personnes (2013)  
-  70% d'hommes (2x moins de dépistage chez les hommes).  
-  +50% vivraient dans les 3 régions à risque (voir plus bas).
+  70 % d'hommes (2x moins de dépistage chez les hommes).  
+  +50 % vivraient dans les 3 régions à risque (voir plus bas).
 - **Incidence:** 5000 nouveaux cas par an (25-49 ans surtout)
 - **Stade de la maladie au diagnostic:** 43% au stade tardif  
   {{%class%}}SIDA ou taux de CD4 ≤ 200/mm³.{{%/class%}}  
   Surtout chez UDI (55%) et hétérosexuels (né en France ou non).  
 - **Délai entre infection et diagnostic:** ~3 ans
-- **Régions concernées:** 50% des diagnostics sont faits dans 3 régions
+- **Régions concernées:** 50 % des diagnostics sont faits dans 3 régions
   - Métropole: Ile-de-France et PACA surtout, puis Rhône-Alpes
   - DROM: très haute incidence et malades non diagnostiqués en Guyane, Guadeloupe et Martinique
 

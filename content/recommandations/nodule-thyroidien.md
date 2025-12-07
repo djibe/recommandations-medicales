@@ -159,7 +159,7 @@ Bilan biologique d'un nodule thyroïdien: TSH seule en première intention
 
 Confirmation d'une anomalie par un 2^e^ prélèvement puis exploration en parallèle de la [dysthyroïdie](/tags/tsh/).
 
-5 à 10% des nodules de la thyroïde sont secrétant (nodules dits **autonomes** ou toxiques, ils ont un **très faible risque de malignité**) avec une [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}) le plus souvent infraclinique.
+5 à 10 % des nodules de la thyroïde sont secrétant (nodules dits **autonomes** ou toxiques, ils ont un **très faible risque de malignité**) avec une [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}) le plus souvent infraclinique.
 
 ### Échographie thyroïdienne
 

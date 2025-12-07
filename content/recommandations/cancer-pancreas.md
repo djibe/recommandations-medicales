@@ -36,7 +36,7 @@ flowchart = true
 {{%collapse "Définitions" %}}
 
 Adénocarcinome du pancréas (AP)
-: L'adénocarcinome du pancréas représente 90% des tumeurs du pancréas et demeure la tumeur digestive avec le plus mauvais pronostic (survie à 5 ans de 11 %).
+: L'adénocarcinome du pancréas représente 90 % des tumeurs du pancréas et demeure la tumeur digestive avec le plus mauvais pronostic (survie à 5 ans de 11 %).
 : Autres types de cancers pancréatiques: tumeurs neuro-endocrines.
 
 Cancers du pancréas familiaux (CaPaFa)
@@ -240,7 +240,7 @@ L'IRM a une performance diagnostique équivalente au scanner (et plus chère).
 
 Adresser en semi-urgence à l'équipe hospitalière de gastro-entérologie pour la suite de la prise en charge du cancer du pancréas. [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC).
 
-10 à 20% des patients peuvent bénéficier d'une chirurgie d'exérèse à visée curative.  
+10 à 20 % des patients peuvent bénéficier d'une chirurgie d'exérèse à visée curative.  
 [Guide d'information patient SFCD/FCVD pancréatectomie (PDF)](https://www.fcvd.fr/wp-content/uploads/2022/01/FICHE-D_INFORMATION-PATIENT-PANCREATECTOMIE.pdf)
 
 La majorité reçoit aussi une chimiothérapie. Le taux de **récidive** est très élevé.

@@ -38,7 +38,7 @@ flowchart = true
 
 Mélanome malin
 : Tumeur maligne la plus grave développée aux dépens des mélanocytes.  
-La majorité survient sur peau saine, 20% sur nævus pré-existant. Le mélanome peut également atteindre l'œil, les méninges et les muqueuses.
+La majorité survient sur peau saine, 20 % sur nævus pré-existant. Le mélanome peut également atteindre l'œil, les méninges et les muqueuses.
 : Le mélanome atteint tous les âges, surtout les personnes avec *Facteurs de risque* (voir chapitre plus bas).  
 Le facteur pronostic pronostic majeur est l'*indice de Breslow*.
 
@@ -78,7 +78,7 @@ Plusieurs facteurs sont utilisés: indice de Breslow, de Clark, ulcération, ind
   {{%class%}}58% d'hommes - 1,2 % des décès par cancer - 90 % de la mortalité par cancer cutané{{%/class%}}
 - Âge médian au diagnostic: 62 ans pour les femmes et 68 ans pour les hommes.
 - **Survie à 5 ans:** 93 % (88 % en stade localisé versus 18 % si métastatique)
-- 80 % surviennent de novo sur peau saine et 20% sur nævus pré-existant.
+- 80 % surviennent de novo sur peau saine et 20 % sur nævus pré-existant.
 - 10 % des mélanomes sont familiaux (≥ 2 personnes atteintes dans une famille)  
   Indications à la consultation oncogénétique dans la section *Traitement*.
 - Très rares formes muqueuses ou rétiniennes.
@@ -103,7 +103,7 @@ Plusieurs facteurs sont utilisés: indice de Breslow, de Clark, ulcération, ind
   - Sensibilité au soleil (coups de soleil fréquents, bronze peu)
 - Exposition solaire (cabine de bronzage UV, tropiques)  
   Brûlures solaires au 2^e^ degré (enfance ++).
-- **Antécédents familiaux de cancer cutané** (5-10% ont un caractère familial)
+- **Antécédents familiaux de cancer cutané** (5-10 % ont un caractère familial)
 - Antécédent personnel de mélanome  
   Risque de 2^e^ de 5 à 8%.
 - Immunodépression
@@ -289,7 +289,7 @@ Le risque d'apparition d'un 2^e^ cancer cutané est supérieur à la population 
   Consulter au plus vite en cas d'anomalie.
 - Examen clinique complet (généraliste + dermatologue)
   - Rythme selon recommandations en vigueur
-  - Rapproché pendant 5 ans (concentre 90% des récidives) puis annuel à vie
+  - Rapproché pendant 5 ans (concentre 90 % des récidives) puis annuel à vie
   - Inspection et palpation des tégument, cicatrice d'exérèse, muqueuses, aires ganglionnaires
 - Examens complémentaires selon recommandations
   - Échographie

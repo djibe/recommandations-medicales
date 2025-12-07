@@ -81,7 +81,7 @@ Autres urgences hypertensives: AVC, dissection aortique, [infarctus du myocarde]
 
 ### Pour en savoir plus: étiologie de l'HTA maligne
 
-L'hypertension artérielle maligne est souvent **essentielle** (20-30 % chez les caucasiens et 80% en cas d'origine africaines).
+L'hypertension artérielle maligne est souvent **essentielle** (20-30 % chez les caucasiens et 80 % en cas d'origine africaines).
 
 La 1^re^ cause organique est **rénale** (glomérulonéphrite, néphropathie sur reflux, sténose de l'artère rénale), plus rarement toxique (amphétamines, ecstasy) voire endocrinienne (phéochromocytome).
 

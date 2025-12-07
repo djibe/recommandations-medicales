@@ -138,7 +138,7 @@ Ils sont associés à une variabilité du débit expiratoire de pointe (DEP) par
 : Les principaux facteurs favorisants et entretenant ces anomalies sont les *infections virales*, les *allergies respiratoires* et les *irritants bronchiques*.
 : *Asthme sévère*: nécessité de fortes doses de {{< modal-btn modal-ttt-laba-csi >}}CSI-LABA{{< /modal-btn >}} (*GINA 2021*)
 : 340 millions de malades dans le monde, 4 millions en France (*SPF*) à l'origine de 60.000 séjours hospitaliers et 1000 décès annuels.  
-Jusqu'à 30% de diagnostics en excès.
+Jusqu'à 30 % de diagnostics en excès.
 
 Exacerbation d'asthme
 : *ex* crise d'asthme
@@ -249,7 +249,7 @@ Appel du SAMU en présence chez l'adulte d'au moins un signe parmi:
 - Fréquence cardiaque > 110/min
 - Fréquence respiratoire ≥ 25/min ou pauses respiratoires
 - Impossibilité de terminer les phrases en une inspiration
-- DEP ≤ 50% de la théorique ou de la meilleure valeur connue du patient
+- DEP ≤ 50 % de la théorique ou de la meilleure valeur connue du patient
 - SpO~2~ < 92%
 - Bradycardie
 - Hypotension
@@ -268,7 +268,7 @@ Appel du SAMU en présence chez l'adulte d'au moins un signe parmi:
 - Augmentation de la fréquence respiratoire
 - Pouls > 100/min
 - SpO~2~ < 95%
-- DEP > 50% de la meilleure valeur connue
+- DEP > 50 % de la meilleure valeur connue
 
 {{%/warning%}}
 
@@ -336,7 +336,7 @@ Très haut sur et sous-diagnostic de la maladie asthmatique.
     - Réversibilité sous bronchodilatateurs (VEMS1 augmente de > 200 mL et > 12%)  
       Si non concluant: répéter en cas de symptômes, > 12h après l'interruption des médicaments (24h si action très prolongée) et la mesure du monoxyde d'azote dans l'air expiré (FeNO)
     - Augmentation du VEMS1 après 1 mois de CSI (VEMS1 augmente de > 12%)
-    - La variabilité quotidienne moyenne du DEP diurne est > 10% (> 13% chez l'enfant)  
+    - La variabilité quotidienne moyenne du DEP diurne est > 10 % (> 13% chez l'enfant)  
       Moyenne sur 1 ou 2 semaines.
     - Le diagnostic est d'autant plus probable si la variabilité est importante et fréquente
     - Il peut être nécessaire de répéter les tests lorsque les symptômes sont présents, en début de matinée ou après une interruption des bronchodilatateurs
@@ -369,7 +369,7 @@ Interrogatoire policier pour rechercher des signes et symptômes d'asthme:
   Atopiques, maladies respiratoires.
 - Profession  
   - Chômage, boulangerie-pâtisserie, industrie alimentaire, coiffure, taxi, ambulance, auto-école, forain.  
-  {{%class%}}15-20% par exposition professionnelle (*SPF*){{%/class%}}
+  {{%class%}}15-20 % par exposition professionnelle (*SPF*){{%/class%}}
   -Amélioration en vacances
 - [Tabac et cigarette électronique]({{% relref "arret-tabac.md" %}})  
   {{%class%}}La cigarette électronique aggrave les symptômes et les exacerbations (*GINA 2022*).{{%/class%}}
@@ -515,11 +515,11 @@ Voir l'outil *[Stratégie de traitement de l'asthme](#card-asthme-util)* en déb
 
 #### Asthme et ALD
 
-Conditions de prise en charge à 100% de l'asthme par l'[ALD n°14]({{% relref "affection-longue-duree.md" %}}):
+Conditions de prise en charge à 100 % de l'asthme par l'[ALD n°14]({{% relref "affection-longue-duree.md" %}}):
 
 - Adulte: asthme persistant sévère
   - Symptômes permanents, exacerbations fréquentes, asthme nocturne fréquent ou activité physique limitée par les symptômes
-  - Variabilité du DEP > 30% et VEMS/CV < 60% théorique
+  - Variabilité du DEP > 30 % et VEMS/CV < 60 % théorique
   - Traitement d'entretien par LABA + CSI fortes doses
 - Enfant: asthme persistant sévère
   - Persistance des symptômes et/ou anomalies EFR
@@ -543,7 +543,7 @@ Prise en charge de l'asthme non contrôlé:
 
 **Asthme parfaitement contrôlé sur les 3 derniers mois** (sans crise grave dans les 6 mois, EFR normales): discuter la décroissance vers la *dose minimale efficace* (sauf à l'**automne**). Paliers de 2-3 mois avec réévaluation par l'{{< modal-btn modal-score-act >}}Asthma Control Test™ (ACT){{< /modal-btn >}} à chaque consultation.
 
-La décroissance du {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} peut se faire par paliers de 25-50% jusqu'à une {{< modal-btn modal-ttt-csi >}}faible dose{{< /modal-btn >}} maintenue au long cours.
+La décroissance du {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} peut se faire par paliers de 25-50 % jusqu'à une {{< modal-btn modal-ttt-csi >}}faible dose{{< /modal-btn >}} maintenue au long cours.
 
 Éviter de conserver une dose élevée de CSI inhalé chez un patient durablement contrôlé en raison des effets indésirables.
 {.alert .alert-info}
