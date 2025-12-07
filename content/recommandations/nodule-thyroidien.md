@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr F. MENEGAUX (AFCE)"
 date = "2023-02-23T15:48:55+01:00"
 publishdate = "2023-03-06"
-lastmod = "2025-11-03"
+lastmod = "2025-12-07"
 specialites = ["endocrinologie"]
 annees = "2022"
 sources = ["SFE", "AFCE", "SFMN"]
@@ -28,7 +28,7 @@ flowchart = true
 - Rechercher des antécédents thyroïdiens familiaux et personnels (irradiation cervicale, génétiques NEM2, PAF ...) et des complications (douleurs, dysphonie, dysphagie, dyspnée)
 - Le bilan initial d'un nodule thyroïdien comprend une TSH seule
 - Indications à l'échographie de la thyroïde pour nodule: nodule palpable, gênant ou compressif, incidentalome en imagerie. Elle donne le score EU-TIRADS
-- Recommandations pour le recours à la cytoponction: adénopathie cervicale suspecte, EU-TIRADS 5 > 10 mm, EU-TIRADS 4 > 15 mm, EU-TIRADS 3 > 20 mm. Elle donne le score de Bethesda
+- Recommandations pour le recours à la cytoponction: adénopathie cervicale suspecte, EU-TIRADS 5 > 10 mm, EU-TIRADS 4 > 15 mm, EU-TIRADS 3 > 20 mm. La cytoponction donne le score de Bethesda
 - Surveillance des nodules thyroïdiens EU-TIRADS 2-3-4 ou Bethesda II: échographie à 1-2 ans puis 2-4 ans plus tard puis tous les 4-5 ans
 - La prise en charge du nodule thyroïdien chez l'enfant et pendant la grossesse relève du spécialiste (TSH et échographie systématiques)
 
@@ -38,10 +38,10 @@ Chapitres liés: [cancer de la thyroïde]({{% relref "cancer-thyroide.md" %}}), 
 {{%collapse "Définition" %}}
 
 Nodule thyroïdien
-: Toute hypertrophie localisée de la glande thyroïde. Il survient principalement chez les femmes (~75%).
+: Toute hypertrophie localisée de la glande thyroïde. Il survient principalement chez les femmes (~75 %).
 : Les nodules peuvent être de souches histologiques très différentes: adénomes, kystes, cancers (papillaire, vésiculaire, oxyphiles, médullaire, anaplasique), lymphomes et métastases. Le bilan initial sert à typer ce nodule pour connaître son risque évolutif. Seuls 11 à 29 % des nodules thyroïdiens augmentent de taille sur 5 ans.
 : Le risque de cancer est plus faible en cas de nodules multiples.  
-Il est nettement plus élevé chez l'enfant (20 % versus 5%) avec principalement des carcinomes papillaires de la thyroïde. Risque métastatique de 25 % au diagnostic. Le pronostic reste excellent.
+Il est nettement plus élevé chez l'enfant (20 % versus 5 %) avec principalement des carcinomes papillaires de la thyroïde. Risque métastatique de 25 % au diagnostic. Le pronostic reste excellent.
 
 ### Risque de malignité selon la classification échographique EU-TIRADS chez l'adulte
 
@@ -187,10 +187,10 @@ Indications à la cytoponction échoguidée (radiologue):
 
 1. Adénopathie cervicale suspecte  
   Ponction du nodule et du ganglion et dosage de la thyroglobuline ou calcitonine sur le liquide de rinçage.
-2. EU-TIRADS 5 > 10 mm (risque 26-87%)
-3. EU-TIRADS 4 > 15 mm (risque 6-17%)
+2. EU-TIRADS 5 > 10 mm (risque 26-87 %)
+3. EU-TIRADS 4 > 15 mm (risque 6-17 %)
 4. EU-TIRADS 4-5 > 10 mm hypermétabolique en ^18^F-FDG TEP
-5. EU-TIRADS 3 > 20 mm (hypermétabolique ou non, risque 2-4%)
+5. EU-TIRADS 3 > 20 mm (hypermétabolique ou non, risque 2-4 %)
 6. Enfant avec nodule EU-TIRADS 3-4-5 > 10 mm
 
 > Un nodule EU-TIRADS ≤ 2 ou EU-TIRADS 5 ≤ 10 mm (sauf adénopathie suspecte) ne doit pas être ponctionné.
@@ -222,7 +222,7 @@ La cytoponction d'un nodule autonome avec TSH < 1 mUI/L n'est pas recommandée.
 
 Indications au dosage de la calcitonine:
 
-1. Antécédents personnels ou familiaux de CMT ou NEM2
+1. Antécédents personnels ou familiaux de carcinome médullaire de la thyroïde ou de NEM2
 2. Nodule thyroïdien avec diarrhée motrice, flushs ou adénopathies
 3. Nodule suspect de [cancer de la thyroïde]({{% relref "cancer-thyroide.md" %}})
 4. Avant toute chirurgie ou thermoablation de la thyroïde
@@ -233,7 +233,7 @@ Un carcinome médullaire de la thyroïde (CMT) est très probable en cas de calc
 
 Une calcitonine comprise entre 10 et 100 pg/mL doit être recontrôlée dans les 3 à 12 mois avec la prise en charge suivante:
 
-- Progression > 20%, calcitonine femme > 30 pg/mL ou calcitonine homme > 60 pg/mL: chirurgie
+- Progression > 20 %, calcitonine femme > 30 pg/mL ou calcitonine homme > 60 pg/mL: chirurgie
 - Calcitonine stable: surveillance de la calcitonine tous les 6-24 mois
 - Diminution de la calcitonine: arrêt de la surveillance
 
@@ -271,7 +271,7 @@ Complications possibles de la chirurgie:
 - [Hypothyroïdie]({{% relref "hypothyroidie.md" %}}): TSH de contrôle à 6-8 semaines  
   Elle est systématique lors de la thyroïdectomie totale, peu fréquente après lobo-isthmectomie (facteurs majeurs: TSH pré-opératoire, thyroïdite lymphocytaire chronique)
 - **[Hypocalcémie]({{% relref "hypocalcemie.md" %}})** iatrogène après thyroïdectomie totale: hypocalcémie persistante à 6 mois avec PTH inadaptée
-- Paralysie récurrentielle définitive avec dysphonie (1% par côté)
+- Paralysie récurrentielle définitive avec dysphonie (1 % par côté)
 
 La **thermoablation** (TA) est une alternative en cas de nodule bénin (à 2 reprises en cytologie) solide: gênant, autonome ou volumineux. Surveillance bio-échographique à 3, 6, 12 mois puis annuellement pendant 5 ans. Elle peut parfois être combinée à l'alcoolisation percutanée.
 
@@ -298,16 +298,11 @@ Le traitement est décidé en réunion de concertation pluridisciplinaire (RCP).
 
 ### Nodules thyroïdiens ne nécessitant pas de surveillance
 
-Absence de surveillance du nodule thyroïdien si:
-
-- EU-TIRADS 4 ≤ 5 mm
-- EU-TIRADS 3 ≤ 10 mm
-- Si échographie de contrôle jugée utile: surveillance à 5 ans
-- Nodule bénin ancien et non évolutif
+Un **nodule bénin ancien et non évolutif** ne nécessite pas de surveillance.
 
 ### Nodules thyroïdiens suivis par échographie cervicale
 
-- Nodule bénin cytoponctionné (Bethesda II) EU-TIRADS 2-3-4  
+- Nodule bénin EU-TIRADS 2-3-4 (non cytoponctionné ou cytoponctionné Bethesda II)  
   Échographie de contrôle à 1-2 ans, puis 2-4 ans plus tard et ensuite tous les 4-5 ans.
 - ≥ 1 parmi:
   - Nodule symptomatique récent > 40 mm
@@ -355,7 +350,7 @@ Le suivi après cancer repose sur l'échographie cervicale. Rythme de surveillan
 {{% /collapse %}}
 {{%collapse "Prise en charge d'un nodule thyroïdien" "show" %}}
 
-{{< mermaid title="Prise en charge d'un nodule de la thyroïde. Dr JB Fron d'après SFE / AFCE / SFMN 2022" >}}
+{{< mermaid title="Prise en charge d'un nodule de la thyroïde chez l'adulte. Dr JB Fron d'après SFE / AFCE / SFMN 2022" >}}
 graph TB
   clinique["<b>Nodule thyroïdien</b><br>—<br>Quelle que soit la découverte:<br>- Palpation<br>- Goitre<br>- Grossesse (écho systématique)<br>- Incidentalome<br>- Facteur de risque<br>- Enfant: suivi spécialisé"] --> TSH("TSH<br>(contrôle si anormale)")
   style clinique stroke:#4150f5, stroke-width:1px
@@ -372,10 +367,10 @@ graph TB
     TSH -- "&lt; 0,4 mUI/L" --> scintigraphie(Scintigraphie)
       scintigraphie --> autonome(Nodule autonome ?)
         autonome -- Non --> TIRADS
-        autonome -- Oui --> Hyperthyroidie("TSH 0,1-0,4:<br>surveillance<br>—<br>TSH &lt; 0,1:<br>IRAth ou chir")
+        autonome -- Oui --> Hyperthyroïdie("TSH 0,1-0,4:<br>surveillance<br>—<br>TSH &lt; 0,1:<br>IRAth ou chir")
 {{< /mermaid >}}
 
-> La prise en charge du nodule thyroïdien pendant la grossesse n'est pas détaillée ici.
+> La prise en charge du nodule thyroïdien pendant la grossesse ou chez l'enfant n'est pas détaillée ici.
 
 {{% /collapse %}}
 {{%sources%}}
@@ -384,7 +379,7 @@ graph TB
 
 {{< youtube id="TAmrGm0seIA" title="Description du signe de Pemberton (MED infos)" >}}
 
-- [Menegaux F, et al. SFE-AFCE-SFMN 2022 consensus on the management of thyroid nodules: Surgical treatment. Ann Endocrinol. 2022.](https://www.sciencedirect.com/science/article/abs/pii/S0003426622008563)
+- [Menegaux F, et al. SFE-AFCE-SFMN 2022 consensus on the management of thyroid nodules: Surgical treatment. Ann Endocrinol. 2022.](https://www.sciencedirect.com/journal/annales-dendocrinologie/vol/83/issue/6)
 - {{< references/college-endocrino >}}
 - [Wemeau JL, et al. Recommandations de la Société française d'endocrinologie pour la prise en charge des nodules thyroïdiens. La Presse Médicale. 2011. (PDF)](https://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/2011%20presse%20med%20recommandations%20sfe%20pour%20la%20prise%20en%20charge%20des%20nodules%20thyroidiens.pdf)
 
