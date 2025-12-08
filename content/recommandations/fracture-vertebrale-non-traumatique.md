@@ -31,6 +31,14 @@ TODO: (at the end)
 
 Fracture vertébrale non traumatique (ou fracture-tassement vertébrale)
 : Fracture d'une vertèbre en l'absence de traumatisme, le plus souvent d'origine ostéoporotique (et première fracture de l'ostéoporose) mais l'atteinte maligne doit être écartée (myélome, hyperparathyroïdie ...).
+: Une fracture vertébrale ostéoporotique est dite sévère.
+: Les complications sont multiples: survenue d'autres fractures (RR 3), les douleurs, perte d'autonomie, mortalité.
+
+### Épidémiologie
+
+- Prévalence: +20 % après 50 ans
+- Les 2/3 ne sont pas diagnostiquées
+- 20 % ont une 2e fracture vertébrale dans l'année
 
 ### Abréviations
 
@@ -58,7 +66,7 @@ DXA
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-La fracture vertébrale non traumatique est le plus souvent asymptomatique (2/3) et donc de découverte fortuite.
+La fracture vertébrale non traumatique est le plus souvent asymptomatique (2/3) et donc de découverte fortuite (2/3 ne sont pas diagnostiquées).
 
 ### Interrogatoire
 
@@ -90,9 +98,11 @@ La fracture vertébrale non traumatique est le plus souvent asymptomatique (2/3)
 
 Radiographies rachidiennes de profil ± face
 
+En cas de fracture vertébrale, le bilan complémentaire (biologique, ostéodensitométrie) est indiqué.
+
 Signes radiographiques de la fracture vertébrale:
 
-- Réduction de la hauteur du corps vertébral d'au moins 20 % ou de 4 mm de la hauteur d'origine
+- Réduction de la hauteur du corps vertébral d'au moins 20 % ou de 4 mm de la hauteur vertébrale d'origine
 - De profil: << en coin >>
 - De face: aspect cunéiforme
 
@@ -110,12 +120,19 @@ L'ostéodensitométrie est systématique au diagnostic de fracture vertébrale p
 
 En l'absence d'autre cause, le diagnostic d'ostéoporose avec fracture vertébrale est réalisé lorsque le T-score est < -1. Avis rhumatologique en cas de T-score de -1 à 0.
 
+L'ostéodensitométrie est contrôlée après 2-3 ans de traitement (et à chaque fois qu’une modification est envisagée).
+
 ### IRM rachidienne
 
 Indications à l'IRM pour fracture vertébrale non traumatique:
 
 - Fracture suspecte (signes de gravité)
 - Douleurs sévères ou résistantes
+
+{{% /collapse %}}
+{{%collapse "Prévention" %}}
+
+
 
 {{% /collapse %}}
 {{%collapse "Traitement de la fracture vertébrale" %}}
@@ -137,31 +154,52 @@ Recommandations pour la prise en charge des fractures vertébrales non traumatiq
   - Réduction de l'alcool
   - Évaluation calcique, vitamine D
 - Correction des facteurs de risque de chute
-- Fracture ostéoporotique: **traitement anti-ostéoporotique**
-  - TODO:
+- Fracture ostéoporotique: **traitement anti-ostéoporotique** de cette fracture sévère (voir plus bas)
+  - Traitement systématique en cas de T-score < -1. Avis rhumatologique en cas de T-score > -1
+  - Ostéodensitométrie de contrôle à 2-3 ans et avis spécialisé
 
-L'efficacité d'une ceinture lombaire (maximum 6-8 semaines) est peu étayée.
+L'efficacité d'une **ceinture lombaire** (maximum 6-8 semaines) est peu étayée.
 
-En cas de douleurs sévères ou résistantes, avis spécialisé (rhumatologique, orthopédique, algologue) pour enviager des infiltrations, bloc L2 voire une chirurgie (rare).
+En cas de douleurs sévères ou résistantes, avis spécialisé (rhumatologique, orthopédique, algologue) pour envisager des infiltrations, bloc L2 voire une chirurgie (rare).
+
+### Traitement anti-ostéoporotique de la fracture vertébrale chez la femme
+
+{{< traitements/osteoporose-vertebrale-femme >}}
+
+Voir [ostéoporose post-ménopausique]({{% relref "osteoporose.md" %}}).
+
+### Traitement anti-ostéoporotique de la fracture vertébrale chez l'homme
+
+Fracture vertébrale unique:
+
+- Acide zolédronique 5 mg IVL annuel (voir [Perfadom]({{% relref "perfusions-domicile.md" %}}))
+- Risédronate 35 mg en 1 prise par semaine
+
+Fractures vertébrales:
+
+- Traitements ci-dessus
+- Tériparatide SC 20 µg/j pendant 18 mois,  
+  puis relayé par un biphosphonate.
+
+Voir [ostéoporose masculine]({{% relref "osteoporose-masculine.md" %}}).
 
 {{% /collapse %}}
 {{%sources%}}
 
-- [Kendler DL, et al. Vertebral Fractures: Clinical Importance and Management. Am J Med. 2016.](https://www.amjmed.com/article/S0002-9343(15)01012-8/fulltext)
+- WIP [Kendler DL, et al. Vertebral Fractures: Clinical Importance and Management. Am J Med. 2016.](https://www.amjmed.com/article/S0002-9343(15)01012-8/fulltext)
 - [McCarthy J, Davis A. Diagnosis and Management of Vertebral Compression Fractures. Am Fam Physician. 2016.](https://www.aafp.org/pubs/afp/issues/2016/0701/p44.html)
+- {{< references/aderim >}}
 
 TODO: GRIO
 
 ### Bibliographie en attente
 
-- AAOS
 - Collège
 - Prescrire
 - Cochrane
 - [Minerva](https://minerva-ebp.be/)
 - [Cismef](https://www.cismef.org/cismef/)
 - [NICE Clinical guidance](https://www.nice.org.uk/guidance/conditions-and-diseases)
-- {{< references/aderim >}}
 
 {{%/sources%}}
 

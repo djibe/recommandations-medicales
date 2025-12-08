@@ -248,92 +248,7 @@ Dans l'outil ci-dessous, à l'item **12 DMO du col du fémur**, sélectionner **
 
 Le seuil d'intervention sur l'ostéoporose dépend de l'âge de la patiente et la décision de traiter du clinicien.
 
-<div class="card-util border card-body mt-3">
-  <label for="age" class="mb-4">Âge de la patiente ménopausée</label>
-  <div class="d-flex align-items-center">
-    <input type="text" value="50" id="age" oninput="ageInput.value = this.value">
-    <input type="number" class="form-alternative ml-3" id="ageInput" value="50" min="50" max="90">
-  </div>
-  <div class="d-flex align-items-center mb-4">
-    <p class="mb-0">Traiter si FRAX supérieur à</p>
-    <output id="decision-frax" class="ml-2 typography-headline-6 badge-secondary p-2">5</output>
-  </div>
-  <small>Dr JB Fron d'après Briot K et al 2012</small>
-</div>
-<script>
-window.addEventListener('load', function() {
-$(function () {
-  const Slider = $('#age');
-  const Input = $('#ageInput');
-  const min = 50;
-  const max = 90;
-  const decisionElem = $('#decision-frax');
-  Slider.ionRangeSlider({
-    skin: 'material',
-    min: min,
-    max: max,
-    extra_classes: 'flex-fill'
-  });
-  let sliderInstance = Slider.data('ionRangeSlider');
-  Input.on('input', function() {
-      let val = this.value;
-      // Validate Slider
-      if (val < min) { val = min }
-      else if (val > max) { val = max }
-      sliderInstance.update({ from: val });
-  });
-  Slider.on('change', function() {
-    let age = Slider.val();
-    let str = '';
-    switch (age) {
-      case '50': str = 5; break;
-      case '51': str = 5.2; break;
-      case '52': str = 5.4; break;
-      case '53': str = 5.6; break;
-      case '54': str = 5.8; break;
-      case '55': str = 6; break;
-      case '56': str = 6.18; break;
-      case '57': str = 6.36; break;
-      case '58': str = 6.54; break;
-      case '59': str = 6.72; break;
-      case '60': str = 6.9; break;
-      case '61': str = 7.38; break;
-      case '62': str = 7.86; break;
-      case '63': str = 8.34; break;
-      case '64': str = 8.82; break;
-      case '65': str = 9.3; break;
-      case '66': str = 10.04; break;
-      case '67': str = 10.78; break;
-      case '68': str = 11.52; break;
-      case '69': str = 12.26; break;
-      case '70': str = 13; break;
-      case '71': str = 14.2; break;
-      case '72': str = 15.4; break;
-      case '73': str = 16.6; break;
-      case '74': str = 17.8; break;
-      case '75': str = 19; break;
-      case '76': str = 20.6; break;
-      case '77': str = 22.2; break;
-      case '78': str = 23.8; break;
-      case '79': str = 25.4; break;
-      case '80': str = 27; break;
-      case '81': str = 28.6; break;
-      case '82': str = 30.2; break;
-      case '83': str = 31.8; break;
-      case '84': str = 33.4; break;
-      case '85': str = 35; break;
-      case '86': str = 35.2; break;
-      case '87': str = 35.4; break;
-      case '88': str = 35.6; break;
-      case '89': str = 35.8; break;
-      case '90': str = 36; break;
-    }
-    str += ' %';
-    return decisionElem.html(str);
-  });
-});
-})
-</script>
+{{< scores/frax-interpretation >}}
 
 {{% /collapse %}}
 {{%collapse "Prévention de l'ostéoporose" %}}
@@ -424,24 +339,7 @@ Le dénosumab est utilisé en 2^e^ intention en relais des bisphosphonates.
 </div>
 <div class="collapse" id="div-radio-ttt-vertebral">
 
-Traitement indiqué si T-score ≤ -1:
-
-- Alendronate  
-  {{%class "x"%}}70 mg/sem ou 10 mg/j{{%/class%}}
-- Risédronate  
-  {{%class "x"%}}35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois{{%/class%}}
-- Zolédronate  
-  {{%class "x"%}}5 mg IVL annuel avec ostéodensitométrie 1 an après la 3^e^ perfusion{{%/class%}}
-- Raloxifène (faible risque de fracture périphérique)  
-  {{%class "x"%}}60 mg/j (max 70 ans){{%/class%}}
-- Romosozumab  
-  {{%class "x"%}}Femme ménopausée < 75 ans sans risque cardiovasculaire{{%/class%}}
-- Tériparatide (≥ 2 fractures vertébrales)  
-  {{%class "x"%}}20 µg/j. Doit être prolongé par BP ou dénosumab{{%/class%}}
-- Traitement hormonal de la ménopause (THM)  
-  {{%class "x"%}}Entre 50 et 60 ans si syndrome climatérique invalidant{{%/class%}}
-
-Le dénosumab est utilisé en 2^e^ intention en relais des bisphosphonates.
+{{< traitements/osteoporose-vertebrale-femme >}}
 
 </div>
 <div class="collapse" id="div-radio-ttt-nonsevere">
