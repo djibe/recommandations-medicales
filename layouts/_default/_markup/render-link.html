@@ -26,6 +26,7 @@
   "https://link.springer.com"
   "https://www.who.int"
 }}
+<!-- Nofollow external links -->
 {{- $addRelFollow := false -}}
 {{- range $followDomains -}}
   {{- if strings.HasPrefix $href . -}}
@@ -50,7 +51,14 @@
     {{- end -}}
   {{- end -}}
 {{- end -}}
+<!-- Style the guide anchors starting with case-sensitive "guide" -->
+{{- $isGuide := false -}}
+{{- if strings.HasPrefix .Text "guide" -}}
+  {{- $isGuide = true -}}
+{{- end -}}
+<!-- HTML code -->
 <a href="{{ $href }}"
   {{- with .Title }} title="{{ . }}" {{- end -}}
+  {{- if $isGuide }} class="guide-style"{{- end -}}
   {{- if $addRelFollow }} target="_blank" rel="external" {{- else if strings.HasPrefix $href "http" }} target="_blank" rel="external nofollow noopener"{{ end -}}
   >{{ .Text }}</a>
