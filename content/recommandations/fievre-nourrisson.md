@@ -33,7 +33,7 @@ todo = "photo"
 
 Fièvre du nourrisson de moins de 3 mois
 : Nourrisson ayant une température rectale supérieure ou égale à 38°C.
-: 2% des nourrissons nés à terme développent une fièvre, le plus souvent virale et bénigne de résolution spontanée, mais 10 à 13% sont des infections bactériennes graves (infections urinaires, la bactériémie et la méningite bactérienne).
+: 2 % des nourrissons nés à terme développent une fièvre, le plus souvent virale et bénigne de résolution spontanée, mais 10 à 13 % sont des infections bactériennes graves (infections urinaires, la bactériémie et la méningite bactérienne).
 
 ### Abréviations
 

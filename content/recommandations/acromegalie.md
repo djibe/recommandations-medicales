@@ -32,7 +32,7 @@ flowchart = true
 {{%collapse "Définition" %}}
 
 Acromégalie
-: Ensemble des manifestations cliniques induites par une exposition chronique à un excès endogène d'hormone de croissance (GH), principalement par tumeur hypophysaire (9% des adénomes hypophysaires).
+: Ensemble des manifestations cliniques induites par une exposition chronique à un excès endogène d'hormone de croissance (GH), principalement par tumeur hypophysaire (9 % des adénomes hypophysaires).
 : Maladie rare (prévalence 60/million) avec légère prédominance féminine et pic de survenue vers 40-50 ans.
 : Complications de l'acromégalie: surmortalité (cardiovasculaire ++) et morbidité significative.
 

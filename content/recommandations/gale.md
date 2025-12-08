@@ -193,7 +193,7 @@ Traitement de référence selon l'âge (*SFD 2024*):
 - Impétiginisation: [antibiothérapie]({{% relref "infection-cutanee-bacterienne.md" %}})
 - Persistance de nodules scabieux: [dermocorticoïdes]({{% relref "dermocorticoides" %}})
 
-#### Perméthrine (Topiscab® 5% crème)
+#### Perméthrine (Topiscab® 5 % crème)
 
 La [perméthrine 5%](https://base-donnees-publique.medicaments.gouv.fr/medicament/61712553/extrait#tab-rcp) est le traitement de référence avant 1 an ou au 1er trimestre de grossesse.
 

@@ -45,7 +45,7 @@ Entorse de la cheville
     1. Stade 1 entorse bénigne (contusion): étirement ligamentaire élastique sans déficit fonctionnel ou instabilité.
     2. Stade 2 gravité moyenne (distension): élongation du ligament avec instabilité articulaire, **ecchymose** retardée.
     3. Stade 3 entorse grave (rupture ligamentaire): laxité articulaire avec impotence fonctionnelle immédiate. Possible subluxation articulaire, **hématome** précoce.
-: L'entorse de la cheville est l'urgence traumatique la plus fréquente (6000 cas quotidiens). Les complications sont liées au risque de prise en charge inadaptée d'une **fracture** (15% des entorses) avec séquelles motrices.
+: L'entorse de la cheville est l'urgence traumatique la plus fréquente (6000 cas quotidiens). Les complications sont liées au risque de prise en charge inadaptée d'une **fracture** (15 % des entorses) avec séquelles motrices.
 
 **NB.** Des travaux de [recommandations par la HAS](https://www.has-sante.fr/jcms/p_3460983/fr/entorses-laterales-de-la-cheville-diagnostic-reeducation-et-retour-a-la-pratique-sportive-note-de-cadrage) ont débuté en 2023 pour la prise en charge de l'entorse latérale de la cheville.
 

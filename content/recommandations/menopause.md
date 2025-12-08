@@ -51,7 +51,7 @@ Ménopause
 : **Le diagnostic est *clinique* : période d'aménorrhée de 12 mois consécutifs sans cause évidente chez une femme de plus de 45 ans.**  
 Les signes *climatériques* (bouffées de chaleur, sueurs nocturnes, sécheresse vaginale...) sont inconstants et ne sont pas nécessaires au diagnostic.
 : Après 50 ans, le risque de grossesse est de 1-5/1000 année-femme. 11 million de femmes ménopausées en France.
-: Après la ménopause, l'*ostéoporose* (40 % de risque fracturaire) et les *maladies cardiovasculaires* (MCV, 45% des décès) augmentent considérablement.
+: Après la ménopause, l'*ostéoporose* (40 % de risque fracturaire) et les *maladies cardiovasculaires* (MCV, 45 % des décès) augmentent considérablement.
 
 [Insuffisance ovarienne prématurée]({{% relref "insuffisance-ovarienne-prematuree.md" %}})
 : ex *ménopause précoce* ou *ménopause prématurée*.
@@ -578,7 +578,7 @@ Le THM utilisé en France ne modifie pas la survenue des pathologies suivantes:
 - Cancers  
   Réduit le risque des cancers: [colorectal]({{% relref "cancer-colorectal.md" %}}), du [pancréas]({{% relref "cancer-pancreas.md" %}}), de l'œsophage, de l'[estomac]({{% relref "cancer-estomac.md" %}}) et du [foie]({{% relref "carcinome-hepatocellulaire.md" %}})
 - Démence  
-  Réduirait le risque de 29 à 44% mais faible niveau de preuve ([étude divergente](https://www.bmj.com/content/381/bmj-2022-072770)) surtout en cas de [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}}).
+  Réduirait le risque de 29 à 44 % mais faible niveau de preuve ([étude divergente](https://www.bmj.com/content/381/bmj-2022-072770)) surtout en cas de [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}}).
 - Survie  
   La mortalité avant 60 ans est réduite par un effet cardiovasculaire très protecteur.
 

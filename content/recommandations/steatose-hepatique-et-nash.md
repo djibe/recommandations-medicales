@@ -55,11 +55,11 @@ Stéatohépatite non-alcoolique (NASH)
 
 Les responsables de l'inflammation hépatique sont principalement les éléments du **{{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}**:
 
-- [Obésité morbide]({{% relref "obesite-adulte.md" %}}) (7,7% ont une NASH)  
-  {{%class%}}PBH systématique car 29% ont une fibrose sévère.{{%/class%}}
-- [Diabète de type 2]({{% relref "diabete-type-2.md" %}}) (39% ont une NASH)  
+- [Obésité morbide]({{% relref "obesite-adulte.md" %}}) (7,7 % ont une NASH)  
+  {{%class%}}PBH systématique car 29 % ont une fibrose sévère.{{%/class%}}
+- [Diabète de type 2]({{% relref "diabete-type-2.md" %}}) (39 % ont une NASH)  
   {{%class%}}PBH si stéatose échographique car 1/4 a une fibrose significative.{{%/class%}}
-- Cytolyse chronique inexpliquée (33% ont une NASH): PBH systématique
+- Cytolyse chronique inexpliquée (33 % ont une NASH): PBH systématique
 - [Infection VIH]({{% relref "vih-sida.md" %}}) (20-56 % de NASH)  
   {{%class%}}PBH si ALAT > N, fibrose significative dans 1/6 à 1/3 des cas.{{%/class%}}
 

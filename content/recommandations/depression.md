@@ -251,7 +251,7 @@ Dépister la dépression chez l'adulte (notamment si grossesse ou post-partum --
 
 Le premier épisode dépressif peut survenir à tout âge mais il survient plus souvent chez l'adulte jeune (25 ans).
 
-En ville, le motif de consultation est **somatique** pour 45 à 95% des patients atteints de dépression (*Prescrire*).
+En ville, le motif de consultation est **somatique** pour 45 à 95 % des patients atteints de dépression (*Prescrire*).
 
 Les symptômes doivent être présents depuis au moins 15 jours avec changement par rapport à l'état antérieur:
 

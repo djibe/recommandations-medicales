@@ -73,9 +73,9 @@ Plusieurs facteurs sont utilisés: indice de Breslow, de Clark, ulcération, ind
 
 - 13^e^ cancer de la femme, 7^e^ de l'homme
 - **Incidence:** 17.922 nouveaux cas (métropole 2023)  
-  {{%class%}}49% de femmes. Incidence en augmentation de 3,4 %/an (période 2010 - 2018). x50 sur période 1990 - 2018{{%/class%}}
+  {{%class%}}49 % de femmes. Incidence en augmentation de 3,4 %/an (période 2010 - 2018). x50 sur période 1990 - 2018{{%/class%}}
 - **Mortalité**: 1922 décès (métropole 2022)  
-  {{%class%}}58% d'hommes - 1,2 % des décès par cancer - 90 % de la mortalité par cancer cutané{{%/class%}}
+  {{%class%}}58 % d'hommes - 1,2 % des décès par cancer - 90 % de la mortalité par cancer cutané{{%/class%}}
 - Âge médian au diagnostic: 62 ans pour les femmes et 68 ans pour les hommes.
 - **Survie à 5 ans:** 93 % (88 % en stade localisé versus 18 % si métastatique)
 - 80 % surviennent de novo sur peau saine et 20 % sur nævus pré-existant.

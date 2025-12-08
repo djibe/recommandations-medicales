@@ -35,7 +35,7 @@ Articles liés: [hypertension artérielle]({{% relref "hypertension-arterielle.m
 
 Hypotension orthostatique
 : Baisse de la PAS ≥ 20 mmHg et/ou de la PAD ≥ 10 mmHg, à 1 minute et/ou 3 minutes après le lever depuis la position assise.
-: L'hypotension orthostatique atteint 7% de la population (16% après 65 ans), est souvent **iatrogène** et est associée à un surrisque de: mortalité, d'événements cardiovasculaires, de {{< modal-btn modal-risque-chute >}}chutes{{< /modal-btn >}} (vasodilatateurs ++).
+: L'hypotension orthostatique atteint 7 % de la population (16 % après 65 ans), est souvent **iatrogène** et est associée à un surrisque de: mortalité, d'événements cardiovasculaires, de {{< modal-btn modal-risque-chute >}}chutes{{< /modal-btn >}} (vasodilatateurs ++).
 
 ### Abréviations
 

@@ -59,7 +59,7 @@ Coronaropathie microvasculaire primaire
 Le syndrome coronarien chronique est la maladie cardiovasculaire chronique la plus fréquente et la première cause de mortalité dans les pays développés.
 
 - Prévalence: 1,5 millions de patients (2017)  
-  43% de plus de 75 ans.
+  43 % de plus de 75 ans.
 - Pour un suivi sur 3 ans: **1/3** des patients ont présenté un décès d'origine cardiovasculaire, un SCA, un [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), une hospitalisation ou un autre évènement cardiovasculaire.
 
 {{< card-link-external title="Dépenses directes liées à la maladie coronaire chronique" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20cardioneurovasculaires&refine.patho_niv2=Maladie%20coronaire">}}

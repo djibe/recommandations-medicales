@@ -61,7 +61,7 @@ Fracture ostéoporotique (ou de fragilité)
 : Fracture survenant à la suite d'un traumatisme de faible énergie (ex. de sa hauteur en marchant). Elle atteint surtout la femme (3/4) et constitue la gravité de la maladie ostéoporotique.
 : Tous les os peuvent être atteints par une fracture ostéoporotique sauf:  
 crâne, face, rachis cervical, 3 premières vertèbres thoraciques, mains et orteils (fractures traumatiques ou tumorales).
-: À 1 an: seulement 10 % ont eu une ostéodensitométrie et 15% un traitement de l'ostéoporose.
+: À 1 an: seulement 10 % ont eu une ostéodensitométrie et 15 % un traitement de l'ostéoporose.
 : Le capital osseux est maximal à 20 ans (génétique, nutritionnel, activité physique), puis diminue de 0,5-1%/an avec aggravation péri-ménopausique chez la femme (1-2%/an) pendant 10 ans. Caractère physiologique et le plus souvent bénin.
 
 Fracture de fragilité sévère
@@ -73,7 +73,7 @@ FRAX®
 ### Facteurs de risque de fracture osseuse
 
 - **Fracture récente** (facteur majeur)  
-  {{%class%}}Fracture vertébrale: 25% de récidive dans l'année (non diagnostiquée dans 2/3 des cas). Non vertébrale: risque nettement majoré pendant 3 ans.{{%/class%}}
+  {{%class%}}Fracture vertébrale: 25 % de récidive dans l'année (non diagnostiquée dans 2/3 des cas). Non vertébrale: risque nettement majoré pendant 3 ans.{{%/class%}}
 - {{< modal-btn modal-risque-chute >}}Facteurs de risque de chute{{< /modal-btn >}}
 - {{< modal-btn modal-risque-fracture >}}Liste des facteurs de risque de fracture{{< /modal-btn >}}
 

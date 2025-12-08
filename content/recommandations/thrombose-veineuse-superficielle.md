@@ -36,7 +36,7 @@ Chapitre lié: [thrombose veineuse profonde (TVP)]({{% relref "thrombose-veineus
 
 Thrombose veineuse superficielle
 : Thrombose d'une veines superficielle, souvent associée aux varices. Elle est considérée comme une forme de la maladie thromboembolique veineuse (MTEV) nécessitant une prise en charge spécifique.
-: Une thrombose veineuse profonde (TVP) est associée pour environ 25% des cas, une embolie pulmonaire pour 3-4 %.
+: Une thrombose veineuse profonde (TVP) est associée pour environ 25 % des cas, une embolie pulmonaire pour 3-4 %.
 
 ### Abréviations
 

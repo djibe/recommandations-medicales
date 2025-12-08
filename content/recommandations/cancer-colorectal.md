@@ -24,7 +24,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le cancer colorectal (CCR) est le deuxième cancer par mortalité (95% des cas après 50 ans) et pourtant n'obtient que 35% de participation au dépistage
+- Le cancer colorectal (CCR) est le deuxième cancer par mortalité (95 % des cas après 50 ans) et pourtant n'obtient que 35 % de participation au dépistage
 - 3 niveaux de risque de cancer colorectal (voir *Niveaux de risque* pour les détails) avec rythme de surveillance spécifique pour chacun (voir *Dépistage et suivi des sujets*):
   - moyen: 50 à 74 ans
   - élevé: antécédent personnel ou familial de CCR ou d'adénome, MICI, acromégalie
@@ -38,8 +38,8 @@ flowchart = true
 {{%collapse "Définitions" %}}
 
 Cancer colorectal (CCR)
-: Tumeur maligne du côlon (distal 20 % ou proximal 30-40%) ou du rectum (30-40%). Il correspond le plus souvent (60-80%) à une **dégénérescence d'un polype** survenue en 5 à 10 ans avec pour histologie un adénocarcinome dans +95% des cas.
-: Il est diagnostiqué dans 95% des cas **après 50 ans** avec sex-ratio de 2/3 d'hommes.
+: Tumeur maligne du côlon (distal 20 % ou proximal 30-40%) ou du rectum (30-40%). Il correspond le plus souvent (60-80%) à une **dégénérescence d'un polype** survenue en 5 à 10 ans avec pour histologie un adénocarcinome dans +95 % des cas.
+: Il est diagnostiqué dans 95 % des cas **après 50 ans** avec sex-ratio de 2/3 d'hommes.
 
 Polype
 : Tumeur bénigne colorectale de type histologique adénomateux (PA) ou festonné (PF).
@@ -137,7 +137,7 @@ Risque très élevé = prédisposition génétique au cancer colorectal
     - **Dépistage:** surveillance par chromocoloscopie et oncogénétique
 
 > -- *INCa 2020 test immunologique*  
-  Risque moyen (80 % des cas et risque de CCR vie entière de 3 à 4%) ; Risque élevé (15% des cas et risque vie entière 4-10%) ; Risque très élevé (5% des cas et risque vie entière 40-100%)
+  Risque moyen (80 % des cas et risque de CCR vie entière de 3 à 4%) ; Risque élevé (15 % des cas et risque vie entière 4-10%) ; Risque très élevé (5 % des cas et risque vie entière 40-100%)
 
 ### Critères devant faire suspecter un cancer colorectal héréditaire
 
@@ -216,8 +216,8 @@ Facteurs de risque de cancer colorectal liés au mode de vie:
 - [Alcool]({{% relref "sevrage-alcool.md" %}})
 - [Tabac]({{% relref "arret-tabac.md" %}})
 - Sédentarité
-- Surpoids (+15% / 5 kg/m²)
-- Alimentation riche en viande rouge (+29% / 100g/j), charcuterie (+21% / 50 g/j)  
+- Surpoids (+15 % / 5 kg/m²)
+- Alimentation riche en viande rouge (+29 % / 100g/j), charcuterie (+21 % / 50 g/j)  
   Cible < 500 g/semaine
 - Alimentation pauvre en fibres  
   Cible 400 g/j
@@ -252,8 +252,8 @@ Le kit du dépistage du cancer du côlon peut être remis par le médecin, retir
 
 Le test immunologique fécal (TIF) remplace le test *Hemoccult®*. Il est performant (se 70%, spe 96-98%, [meilleur coût/efficacité](https://www.acpjournals.org/doi/10.7326/ANNALS-24-00910)), fiable, gratuit et simple avec un seul prélèvement de selles tous les 2 ans. Le même rythme de suivi est préconisé par la [Commission Européenne](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562).
 
-**4% des tests sont positifs, nécessitant une coloscopie de confirmation dans les 31 jours** (*SFED 2019*).  
-En cas de TIF positif, la coloscopie découvre un cancer pour 8% et un adénome avancé chez 40 % des sujets: << détecté tôt, un cancer colorectal peut se guérir dans 9 cas sur 10 >> -- *INCa 2020*
+**4 % des tests sont positifs, nécessitant une coloscopie de confirmation dans les 31 jours** (*SFED 2019*).  
+En cas de TIF positif, la coloscopie découvre un cancer pour 8 % et un adénome avancé chez 40 % des sujets: << détecté tôt, un cancer colorectal peut se guérir dans 9 cas sur 10 >> -- *INCa 2020*
 
 **Critères d'exclusion** au test de dépistage: risque de CCR élevé ou très élevé (voir *[Niveaux de risque](#niveaux-de-risque-de-cancer-colorectal)*), symptômes évocateurs de CCR (voir *Clinique*), [coloscopie]({{% relref "coloscopie.md" %}}) totale dans les 5 ans, coloscanner seul ou coloscopie incomplète suivie de coloscanner dans les 2 ans.
 

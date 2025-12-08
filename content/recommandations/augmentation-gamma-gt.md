@@ -37,7 +37,7 @@ flowchart = true
 Gamma-GT (GGT ou γ-GT)
 : La gamma-glutamyltranspeptidase est une enzyme ubiquitaire (rein, foie, pancréas, intestin, cerveau, prostate - sauf l'os) de type glyco-protéine membranaire de transport d'acides aminés et du métabolisme du glutathion.
 : L'activité sérique de la GGT est d'origine hépatique et une Gamma-GT élevée provient le plus souvent d'un mésusage de l'alcool, de l'obésité ou d'origine médicamenteuse.
-: 3% de la population a une élévation des Gamma GT idiopathique.
+: 3 % de la population a une élévation des Gamma GT idiopathique.
 
 ### Abréviations
 
@@ -60,7 +60,7 @@ SNFGE
 Il existe 4 grandes causes pour une augmentation des Gamma GT:
 
 1. Affection hépato-biliaire non alcoolique  
-  Augmentée dans 85% des maladies hépato-biliaires et presque toutes les cholestases (PAL élevée constamment).
+  Augmentée dans 85 % des maladies hépato-biliaires et presque toutes les cholestases (PAL élevée constamment).
 2. Médicamenteuse  
   Inducteurs enzymatiques ([contraception œstroprogestative]({{% relref "contraception.md" %}}), hypnotique, anxiolytique, antidépresseur, anti-épileptique). Vérifier les ASAT (hépatite médicamenteuse).
 3. Autres affections organiques  

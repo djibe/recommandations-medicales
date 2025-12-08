@@ -44,7 +44,7 @@ Délai de 6 à 10 ans entre la mutation cancéreuse et une tumeur de 2 cm.
 
 Carcinome lobulaire
 : Facteur de risque de développer un cancer du sein. La prise en charge est différente des autres cancers du sein.
-: Il représente 10 à 15% des cancers *in situ*.
+: Il représente 10 à 15 % des cancers *in situ*.
 
 Maladie de Paget du mamelon
 : Carcinome canalaire *in situ* pouvant se propager vers l'aréole ou profondément.
@@ -55,16 +55,16 @@ Maladie de Paget du mamelon
 Liste des facteurs de risque de cancer du sein:
 
 - Sexe féminin  
-  {{%class%}}< 1% chez l'homme.{{%/class%}}
+  {{%class%}}< 1 % chez l'homme.{{%/class%}}
 - Âge  
-  {{%class%}}78% après 50 ans.{{%/class%}}
+  {{%class%}}78 % après 50 ans.{{%/class%}}
 - Prédisposition génétique (5-10%)
 - Antécédent personnel de cancer du sein
 - Antécédent personnel de radiothérapie thoracique à haute dose
 - Facteurs de risque modifiables
-  - [Alcool]({{% relref "sevrage-alcool.md" %}}) (15% attribuables)
-  - [Tabac]({{% relref "arret-tabac.md" %}}) (4,4% attribuables)
-  - Surpoids ou [obésité]({{% relref "obesite-adulte.md" %}}) (11% des cancers post-ménopausiques)
+  - [Alcool]({{% relref "sevrage-alcool.md" %}}) (15 % attribuables)
+  - [Tabac]({{% relref "arret-tabac.md" %}}) (4,4 % attribuables)
+  - Surpoids ou [obésité]({{% relref "obesite-adulte.md" %}}) (11 % des cancers post-ménopausiques)
   - Inactivité physique
 
 ### Diagnostic différentiel du cancer du sein
@@ -267,7 +267,7 @@ Les indications à l'IRM mammaire sont limitées:
 
 ### Lutte contre les facteurs de risques modifiables de cancer du sein
 
-Réduction de la consommation d'[alcool]({{% relref "sevrage-alcool.md" %}}) (15% attribuables, *CIRC et SPF*), tabac (4,4 %), lutte contre surpoids/[obésité]({{% relref "obesite-adulte.md" %}}) (11%) et l'inactivité physique.
+Réduction de la consommation d'[alcool]({{% relref "sevrage-alcool.md" %}}) (15 % attribuables, *CIRC et SPF*), tabac (4,4 %), lutte contre surpoids/[obésité]({{% relref "obesite-adulte.md" %}}) (11%) et l'inactivité physique.
 
 **NB.** L'aluminium des déodorants n'est [évidemment pas cancérigène](https://leseclairages.cancer.fr/les-sels-daluminium-dans-les-deodorants-favorisent-ils-les-cancers-du-sein/).
 

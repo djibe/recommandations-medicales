@@ -31,7 +31,7 @@ todo = "flow | relecture demandée crmrwilson.com"
 {{%collapse "Définition" %}}
 
 Maladie de Wilson (MW)
-: Maladie génétique rare (1,5/100.000) autosomique récessive causant une surcharge en cuivre (principalement hépatique, cérébrale et péri-cornéenne). Elle débute dès l'enfance (exceptionnelle avant 3 ans) avec le plus souvent une déclaration entre **5 et 35 ans** (8% après 40 ans) et est toujours mortelle en l'absence de traitement.
+: Maladie génétique rare (1,5/100.000) autosomique récessive causant une surcharge en cuivre (principalement hépatique, cérébrale et péri-cornéenne). Elle débute dès l'enfance (exceptionnelle avant 3 ans) avec le plus souvent une déclaration entre **5 et 35 ans** (8 % après 40 ans) et est toujours mortelle en l'absence de traitement.
 : Le pronostic est excellent quand le traitement est débuté chez des sujets pauci-symptomatiques. Des formes fulminantes mortelles sont possibles.
 : La maladie de Wilson est une maladie monogénique par mutation du gène ATP7B du chromosome 13 synthétisant une protéine ATP7B défaillante de transport cuprique. La prévalence des hétérozygotes en France est de 1/31, ils sont asymptomatiques.
 
@@ -140,7 +140,7 @@ Les symptômes au cours de la maladie de Wilson apparaissent le plus souvent che
   {{< clinique/insuffisance-hepato-cellulaire >}}
 - [Splénomégalie]({{% relref "splenomegalie.md" %}})
 - Anneau péri-cornéen de ==Kayser-Fleischer==  
-  Présent dans 52% des formes hépatiques et 95% des formes neurologiques sans être totalement spécifique.
+  Présent dans 52 % des formes hépatiques et 95 % des formes neurologiques sans être totalement spécifique.
 - Examen neurologique complet
 
 {{% /collapse %}}

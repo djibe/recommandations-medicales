@@ -54,7 +54,7 @@ Maladie cardiovasculaire, risque d'infarctus du myocarde multiplié par 6-10 dan
 ### Épidémiologie de la grippe en France
 
 - 10.000 morts/an dont +90 % chez les +65 ans.
-- Couverture vaccinale 2019-2020 des personnes à risque: 45% (objectif *OMS* de 75%), 21% chez les femmes enceintes (*BEH 2023*)
+- Couverture vaccinale 2019-2020 des personnes à risque: 45 % (objectif *OMS* de 75%), 21 % chez les femmes enceintes (*BEH 2023*)
 - Admis en réanimation pour grippe: mortalité de 20%.
 
 {{% /collapse %}}
@@ -173,7 +173,7 @@ La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordo
 > [!WARNING]
 > Le vaccin anti-grippal ne donne pas de syndrome grippal (ce n'est pas un vaccin vivant).
 
-Chez l'adulte sain, la vaccination antigrippale réduit de 29% (65% chez +60 ans) le nombre de cas de syndromes grippaux et de 65% le nombre de cas de grippes.
+Chez l'adulte sain, la vaccination antigrippale réduit de 29 % (65 % chez +60 ans) le nombre de cas de syndromes grippaux et de 65 % le nombre de cas de grippes.
 
 Chez le sujet vivant en établissement, la vaccination réduit la survenue de pathologie respiratoire (56%), [pneumonie]({{% relref "pneumonie-aigue-communautaire.md" %}}) (53%), hospitalisation (50%) et décès (68%).
 

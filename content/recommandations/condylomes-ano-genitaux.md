@@ -28,7 +28,7 @@ modele = true
 - Le diagnostic est clinique avec des lésions périnéales, principalement ano-génitales asymptomatiques: typiquement bourgeonnantes en << crêtes de coq >>, rosées ou grisâtres, plus ou moins pédiculées, localisées ou disséminées. Elles peuvent être planes ou papuleuses
 - Le bilan comprend les sérologies et PCR des autres IST, et surtout un examen proctologique et/ou gynécologique selon la localisation
 - La prévention des condylomes repose sur la vaccination anti-papillomavirus des adolescents, le préservatif est la barrière efficace contre les IST (quoiqu'imparfaite contre les HPV)
-- Le traitement des condylomes de première intention peut être: abstention, podophyllotoxine 0,5 % solution, imiquimod 5% crème ou la cryothérapie, plus ou moins combinés
+- Le traitement des condylomes de première intention peut être: abstention, podophyllotoxine 0,5 % solution, imiquimod 5 % crème ou la cryothérapie, plus ou moins combinés
 - Un examen de contrôle à l'issue du traitement est systématique; les récidives sont fréquentes
 
 {{%/article-summary%}}
@@ -161,7 +161,7 @@ Traitements de première intention des condylomes (par ordre coût-efficacité):
 - ==**Podophyllotoxine 0,5 %**== solution ([Condyline®](https://base-donnees-publique.medicaments.gouv.fr/medicament/61111385/extrait#tab-rcp), lire la notice) x 2/j pendant 3 jours
   - Si besoin: répéter chaque semaine pendant maximum 5 semaines
   - ± associée à la vaseline et/ou la cryothérapie.
-- **Imiquimod 5% crème** ([Aldara®](https://www.ema.europa.eu/fr/documents/product-information/aldara-epar-product-information_fr.pdf), lire la notice), 1 application pendant 6 à 10 heures puis rincer, 1 jour sur 2 pendant maximum 16 semaines.  
+- **Imiquimod 5 % crème** ([Aldara®](https://www.ema.europa.eu/fr/documents/product-information/aldara-epar-product-information_fr.pdf), lire la notice), 1 application pendant 6 à 10 heures puis rincer, 1 jour sur 2 pendant maximum 16 semaines.  
   Peut être couplé au **traitement ablatif** (cryothérapie, (électro)chirurgie, laser CO~2~)
 - **Cryothérapie**
 - Chirurgie: condylomes volumineux
@@ -186,7 +186,7 @@ Traitements de première intention des condylomes (par ordre coût-efficacité):
 - Électrochirurgie
 - Laser CO~2~
 - Acide trichloracétique (TCA). Application médicale hebdomadaire.
-- 5-fluorouracile 5% crème (5-FU; [Efudix®](https://base-donnees-publique.medicaments.gouv.fr/medicament/60627235/extrait#tab-rcp))
+- 5-fluorouracile 5 % crème (5-FU; [Efudix®](https://base-donnees-publique.medicaments.gouv.fr/medicament/60627235/extrait#tab-rcp))
 - Hydroxyde de potassium (KOH, parapharmacie hors AMM; Molusderm®, Molutrex®)
 - Photothérapie dynamique (PDT)
 

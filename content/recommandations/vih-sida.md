@@ -82,12 +82,12 @@ VIH
 - Hommes  
   70 % des nouveaux diagnostics (dont 2/3 d'HSH).
 - [HSH]({{% relref "hsh.md" %}})  
-  45% des nouvelles infections détectées en 2013.  
+  45 % des nouvelles infections détectées en 2013.  
   {{%class%}}L'incidence du VIH est est 200x celle observée dans la population comparable en métropole.{{%/class%}}
 - Usagers de drogues par injection (UDI)  
   Incidence multipliée par 20.
 - Personne originaire d'Afrique subsaharienne et Caraïbes  
-  Respectivement 23% et 16% des infections détectées concernaient des femmes (incidence x70) et hommes hétérosexuels (incidence x30) nés hors de France et principalement originaires d'Afrique subsaharienne (données 2013).
+  Respectivement 23 % et 16 % des infections détectées concernaient des femmes (incidence x70) et hommes hétérosexuels (incidence x30) nés hors de France et principalement originaires d'Afrique subsaharienne (données 2013).
 
 ### Épidémiologie des infections à VIH
 
@@ -98,7 +98,7 @@ VIH
   70 % d'hommes (2x moins de dépistage chez les hommes).  
   +50 % vivraient dans les 3 régions à risque (voir plus bas).
 - **Incidence:** 5000 nouveaux cas par an (25-49 ans surtout)
-- **Stade de la maladie au diagnostic:** 43% au stade tardif  
+- **Stade de la maladie au diagnostic:** 43 % au stade tardif  
   {{%class%}}SIDA ou taux de CD4 ≤ 200/mm³.{{%/class%}}  
   Surtout chez UDI (55%) et hétérosexuels (né en France ou non).  
 - **Délai entre infection et diagnostic:** ~3 ans

@@ -36,7 +36,7 @@ todo = "rankok | flow"
 Névralgie pudendale
 : Neuropathie périphérique acquise rare du nerf pudendal (région périnéale entre les organes génitaux et l'anus), à prédominance féminine et débutant entre 50 et 70 ans. L'évolution est imprévisible.
 : La névralgie est causée par l'inflammation, la compression ou le piégeage du nerf mixte pudendal (ex nerf honteux) sur son trajet: émergence des racines sacrées (2^e^, 3^e^ et 4^e^), ligaments postérieurs du bassin, canal d'Alcock (canal obturateur), canal sous-piriforme ou canal sous-pubien.
-: Elle représenterait 4% des douleurs chroniques, avec un retard diagnostique de 2 à 10 ans.
+: Elle représenterait 4 % des douleurs chroniques, avec un retard diagnostique de 2 à 10 ans.
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}

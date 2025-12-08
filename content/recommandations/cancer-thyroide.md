@@ -37,7 +37,7 @@ Chapitre lié: [nodules thyroïdiens]({{% relref "nodule-thyroidien.md" %}}), [h
 
 Cancer de la thyroïde
 : Tumeurs malignes de la thyroïde atteignant surtout les femmes (73 %) et le plus souvent de très bon pronostic. Le cancer est principalement de type différencié de souche folliculaire (+90 %), médullaire (CMT) ou anaplasique.
-: Le diagnostic est le plus souvent évoqué devant un [nodule thyroïdien]({{% relref "nodule-thyroidien.md" %}}) (seuls 5% sont cancéreux).
+: Le diagnostic est le plus souvent évoqué devant un [nodule thyroïdien]({{% relref "nodule-thyroidien.md" %}}) (seuls 5 % sont cancéreux).
 
 ### Facteurs de risque de cancer de la thyroïde
 

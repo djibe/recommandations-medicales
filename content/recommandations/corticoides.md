@@ -44,7 +44,7 @@ Chapitres liés: [corticoïdes inhalés]({{% relref "corticoides-inhales.md" %}}
 Glucocorticoïdes
 : Substances naturelles (cortisol de la zone fasciculée de la glande surrénale) ou de synthèse ayant des propriétés anti-inflammatoires, antalgiques, antipyrétiques et immunosuppressives d'intensité variable.
 : Le traitement systémique par corticoïde est dit **court** lorsqu'il est inférieur à 3 ou 4 semaines et **long** au-delà.
-: Complications de la corticothérapie: métaboliques (prise de poids, [hyperglycémie](/tags/diabete/), fonte musculaire, graisses facio-tronculaires), cardiovasculaires ([hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})), insuffisance surrénale (1% des traitements chroniques), [ostéoporose]({{% relref "osteoporose.md" %}}), ostéonécrose aseptique.
+: Complications de la corticothérapie: métaboliques (prise de poids, [hyperglycémie](/tags/diabete/), fonte musculaire, graisses facio-tronculaires), cardiovasculaires ([hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})), insuffisance surrénale (1 % des traitements chroniques), [ostéoporose]({{% relref "osteoporose.md" %}}), ostéonécrose aseptique.
 
 Syndrome de sevrage des corticoïdes
 : Symptômes ressentis lors de la diminution du traitement pour des doses de glucocorticoïdes supraphysiologiques.

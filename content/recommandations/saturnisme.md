@@ -41,12 +41,12 @@ Pica
 
 ### Épidémiologie du saturnisme
 
-25% des enfants 1 à 6 ans ont une plombémie > 25 µg/L (InVS).
+25 % des enfants 1 à 6 ans ont une plombémie > 25 µg/L (InVS).
 
 Objectif de Santé Publique 2017:
 
 - Plombémie moyenne de 12 µg/L pour la population
-- 98% de la population avec plombémie < 40 µg/L
+- 98 % de la population avec plombémie < 40 µg/L
 
 {{% /collapse %}}
 {{%collapse "Complications du saturnisme" %}}

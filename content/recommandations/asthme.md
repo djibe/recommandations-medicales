@@ -336,7 +336,7 @@ Très haut sur et sous-diagnostic de la maladie asthmatique.
     - Réversibilité sous bronchodilatateurs (VEMS1 augmente de > 200 mL et > 12%)  
       Si non concluant: répéter en cas de symptômes, > 12h après l'interruption des médicaments (24h si action très prolongée) et la mesure du monoxyde d'azote dans l'air expiré (FeNO)
     - Augmentation du VEMS1 après 1 mois de CSI (VEMS1 augmente de > 12%)
-    - La variabilité quotidienne moyenne du DEP diurne est > 10 % (> 13% chez l'enfant)  
+    - La variabilité quotidienne moyenne du DEP diurne est > 10 % (> 13 % chez l'enfant)  
       Moyenne sur 1 ou 2 semaines.
     - Le diagnostic est d'autant plus probable si la variabilité est importante et fréquente
     - Il peut être nécessaire de répéter les tests lorsque les symptômes sont présents, en début de matinée ou après une interruption des bronchodilatateurs

@@ -26,7 +26,7 @@ flowchart = true
 - La teigne du cuir chevelu est une mycose du scalp causée par des dermatophytes, le plus souvent tondantes ou inflammatoires et sont fréquentes chez l'enfant
 - L'examen clinique du crâne recherche des signes de teigne: aspect squameux, croûteux ou pustuleux avec l'apparition d'une alopécie centrifuge et recherche un diagnostic différentiel (psoriasis, eczéma, dermatite séborrhéique ...)
 - Le bilan comporte toujours un prélèvement mycologique au laboratoire pour identifier le dermatophyte
-- La prise en charge de la teigne du cuir chevelu comprend un traitement probabiliste: terbinafine (dose adaptée au poids) et éconazole ou ciclopirox 1% crème x 2/j pendant 28 jours, examen de l'entourage
+- La prise en charge de la teigne du cuir chevelu comprend un traitement probabiliste: terbinafine (dose adaptée au poids) et éconazole ou ciclopirox 1 % crème x 2/j pendant 28 jours, examen de l'entourage
 - Une consultation de suivi est réalisée après les 4 semaines de traitement avec les résultats de la culture
 - En cas de poids inadapté au traitement, demander une téléexpertise spécialisée (dermatologie, infectiologie) avec les photos et les résultats
 
@@ -118,7 +118,7 @@ Recommandations pour la prise en charge et le traitement de la teigne:
   - 10-20 kg: 62,5 mg (1/4 cp)
   - < 10 kg: avis dermatologique hospitalier
   - [Fiche info terbinafine (SFD)](https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Bordereau-3_Prise-des-medicaments.pdf)
-- ==\+ [éconazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/62098492/extrait#tab-rcp) ou [ciclopirox olamine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/63273126/extrait#tab-rcp) x 2/j pendant 28 jours==
+- ==\+ [éconazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/62098492/extrait#tab-rcp) ou [ciclopirox olamine 1 % crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/63273126/extrait#tab-rcp) x 2/j pendant 28 jours==
 - Si surinfection: povidone iodée moussante ([Bétadine Scrub® 4%](https://base-donnees-publique.medicaments.gouv.fr/medicament/61548837/extrait#tab-rcp)) en shampooing au début
 - Examiner l'entourage
 - **Réévaluation clinique à 4 semaines** avec résultats mycologiques (voir ci-dessous)

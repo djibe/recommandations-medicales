@@ -119,7 +119,7 @@ Exemple: Polyarthrose avec troubles de la marche + incontinence urinaire + tremb
 
 > << Une ALD non exonérante est une affection qui nécessite une interruption de travail ou des soins d'une durée prévisible supérieure à 6 mois, mais qui n'ouvre pas droit à la suppression du ticket modérateur. >> -- *Ameli*
 
-Elle permet de percevoir des indemnités journalières au-delà de 6 mois d'arrêt et la prise en charge à 65% des frais de transport (et de cures thermales) liés à son ALD.
+Elle permet de percevoir des indemnités journalières au-delà de 6 mois d'arrêt et la prise en charge à 65 % des frais de transport (et de cures thermales) liés à son ALD.
 
 Exemples d'ALD non exonérantes:
 

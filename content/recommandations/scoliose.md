@@ -37,7 +37,7 @@ todo = "flowchart"
 
 Scoliose idiopathique structurale
 : Déformation du rachis dans les 3 plans de l'espace. Elle n'est pas réductible (à la différence de l'attitude scoliotique) et reste un diagnostic d'élimination (80 % des cas) en l'absence d'arguments pour une origine génétique, neuro-musculaire ou par malformation vertébrale.
-: Elle atteint 0,5 à 2% des 8-15 ans et 4 fois plus les filles.
+: Elle atteint 0,5 à 2 % des 8-15 ans et 4 fois plus les filles.
 : La définition de la scoliose est radiologique: courbure rachidienne dans le plan fontal **supérieure à 10°** (dit angle de Cobb), quelle que soit l'étiologie, se développant avant 10 ans.
 : La scoliose peut s'aggraver pendant la croissance et continuer à évoluer à tout âge. L'évolution est très variable.
 : Les complications sont d'ordre esthétique (sociale, psychologique), douloureuse voire avec à l'origine d'un syndrome restrictif respiratoire.

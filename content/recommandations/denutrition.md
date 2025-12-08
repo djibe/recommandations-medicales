@@ -289,7 +289,7 @@ Interpréter en fonction des résultats le profil de dénutrition:
 Critères de dénutrition de la *HAS 2021* du sujet âgé. Diagnostic de dénutrition en cas d'association d'un critère phénotypique et d'un critère étiologique:
 
 - Critères phénotypiques de dénutrition
-  - Perte de poids ≥ 5% en 1 mois  
+  - Perte de poids ≥ 5 % en 1 mois  
     ou ≥ 10 % en 6 mois  
     ou ≥ 10 % par rapport au poids habituel avant le début de la maladie
   - IMC < 22
@@ -312,8 +312,8 @@ Dénutrition sévère si ≥ 1 critère parmi:
 - IMC < 20
 - Perte de poids
   - ≥ 10 % en 1 mois
-  - ≥ 15% en 6 mois
-  - ≥ 15% par rapport au poids habituel avant le début de la maladie
+  - ≥ 15 % en 6 mois
+  - ≥ 15 % par rapport au poids habituel avant le début de la maladie
 - Albuminémie < 30 g/L
 {{%/warning%}}
 
@@ -325,7 +325,7 @@ Dénutrition sévère si ≥ 1 critère parmi:
 Critère de dénutrition *HAS* chez l'adulte. Diagnostic de dénutrition en cas d'association d'un critère phénotypique et d'un critère étiologique:
 
 - Critères phénotypiques
-  - Perte de poids ≥ 5% en 1 mois  
+  - Perte de poids ≥ 5 % en 1 mois  
     ou ≥ 10 % en 6 mois  
     ou ≥ 10 % par rapport au poids habituel avant le début de la maladie
   - IMC < 18,5
@@ -341,11 +341,11 @@ Critère de dénutrition *HAS* chez l'adulte. Diagnostic de dénutrition en cas 
 
 - Dénutrition modérée si ≥ 1 parmi:
   - 17 < IMC < 18,5
-  - Perte de poids ≥ 5% en 1 mois ou ≥ 10 % en 6 mois ou ≥ 10 % par rapport au poids habituel avant le début de la maladie
+  - Perte de poids ≥ 5 % en 1 mois ou ≥ 10 % en 6 mois ou ≥ 10 % par rapport au poids habituel avant le début de la maladie
   - 30 g/L < Albuminémie < 35 g/L
 - **Dénutrition sévère** si ≥ 1 parmi:
   - IMC ≤ 17
-  - Perte de poids ≥ 10 % en 1 mois ou ≥ 15% en 6 mois ou ≥ 15% par rapport au poids habituel avant le début de la maladie
+  - Perte de poids ≥ 10 % en 1 mois ou ≥ 15 % en 6 mois ou ≥ 15 % par rapport au poids habituel avant le début de la maladie
   - Albuminémie ≤ 30 g/L
 
 Réévaluation à chaque consultation et minimum sous 3 mois.
@@ -358,7 +358,7 @@ Réévaluation à chaque consultation et minimum sous 3 mois.
 Critères de dénutrition *HAS* chez l'enfant. Diagnostic de dénutrition de l'enfant (sujet **-18 ans**) en cas d'association d'un critère phénotypique et d'un critère étiologique:
 
 - Critères phénotypiques
-  - Perte de poids ≥ 5% en 1 mois  
+  - Perte de poids ≥ 5 % en 1 mois  
     ou ≥ 10 % en 6 mois  
     ou ≥ 10 % par rapport au poids habituel avant le début de la maladie
   - IMC < courbe 18,5 kg/m² ([courbes d'IMC IOTF](https://afpa.org/outil/courbes-de-croissance-filles-francaises/))
@@ -375,11 +375,11 @@ Critères de dénutrition *HAS* chez l'enfant. Diagnostic de dénutrition de l'e
 
 - Dénutrition modérée si ≥ 1 parmi:
   - 17 < IMC < 18,5
-  - Perte de poids ≥ 5% et ≤ 10 % en 1 mois ou ≥ 10 % et ≤ 15% en 6 mois par rapport au poids habituel avant le début de la maladie
+  - Perte de poids ≥ 5 % et ≤ 10 % en 1 mois ou ≥ 10 % et ≤ 15 % en 6 mois par rapport au poids habituel avant le début de la maladie
   - Stagnation pondérale aboutissant à un poids situé entre 2 et 3 couloirs en dessous du couloir habituel
 - Dénutrition sévère si ≥ 1 parmi:
   - IMC ≤ courbe 17
-  - Perte de poids > 10 % en 1 mois ou > 15% en 6 mois par rapport au poids habituel avant le début de la maladie
+  - Perte de poids > 10 % en 1 mois ou > 15 % en 6 mois par rapport au poids habituel avant le début de la maladie
   - Stagnation pondérale aboutissant à un poids situé ≥ 3 couloirs en dessous du couloir habituel
   - Infléchissement statural avec perte ≥ 1 couloir
 
@@ -461,7 +461,7 @@ graph TB
   fdr["<b>Personne à risque de dénutrition</b><br>—<br>- +70 ans (dépistage annuel)<br>- Cancer<br>- Maladie inflammatoire<br>- Escarre<br>- Démence, dégénératif<br>- Troubles de déglutition et bucco-dentaires<br>- Toxicomanie<br>- Régime amaigrissant"]
   style fdr stroke:#4150f5, stroke-width:1px
     fdr -- Repérage --> MNA("Score MNA ≤ 11 ?")
-      MNA -- Oui --> critères("<b>≥ 1 critère phénotypique</b><br>—<br>- PP ≥ 5% en 1 mois<br>ou ≥ 10 % en 6 mois ou avant la maladie<br>- IMC &lt; 18,5 (22 si âgée)<br>- Sarcopénie<br>- Enfant: stagnation pondérale avec<br>décalage poids 2 couloirs<br>—<br><b>≥ 1 critère étiologique</b><br>—<br>- Réduction apports ≥ 50 % &gt; 1 sem<br>ou toute réduction &gt; 2 sem<br>- Malabsorption, maldigestion<br>- Situation d'agression")
+      MNA -- Oui --> critères("<b>≥ 1 critère phénotypique</b><br>—<br>- PP ≥ 5 % en 1 mois<br>ou ≥ 10 % en 6 mois ou avant la maladie<br>- IMC &lt; 18,5 (22 si âgée)<br>- Sarcopénie<br>- Enfant: stagnation pondérale avec<br>décalage poids 2 couloirs<br>—<br><b>≥ 1 critère étiologique</b><br>—<br>- Réduction apports ≥ 50 % &gt; 1 sem<br>ou toute réduction &gt; 2 sem<br>- Malabsorption, maldigestion<br>- Situation d'agression")
         critères --> bilan("- Bilan étiologique et de sévérité<br>- Degré de sévérité")
           bilan --> traitement("- Traitement étiologique<br>- Enrichir l'alimentation<br>- Avis diététique<br>- Soins bucco-dentaires")
             traitement --> surveillance("- Suivi à 1-3 mois<br>- Poids 1/sem<br>± CNO")

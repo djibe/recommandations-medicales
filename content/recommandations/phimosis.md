@@ -67,10 +67,10 @@ Prépuce
 - Ce phimosis physiologique disparaît progressivement et spontanément vers 3-4 ans grâce à une kératinisation progressive.
 
 Selon J. Oster:
-> Décalottage impossible: 50 % à 1 an - 8% à 6-7 ans, 3% à 12-13 ans, 1% après 16 ans
+> Décalottage impossible: 50 % à 1 an - 8 % à 6-7 ans, 3 % à 12-13 ans, 1 % après 16 ans
 
 Selon Branger (France)
-> À 10 ans: 89% ont un prépuce normal, 10 % ont des adhérences (dont 3% importantes) et 1,1% ont un phimosis vrai (6,5% si ajoute ceux déjà opérés)
+> À 10 ans: 89 % ont un prépuce normal, 10 % ont des adhérences (dont 3 % importantes) et 1,1 % ont un phimosis vrai (6,5 % si ajoute ceux déjà opérés)
 
 ### Complications et enjeux du phimosis
 
@@ -131,7 +131,7 @@ Les manipulations du prépuce sont débutées entre J1 et J14 après le début d
 
 **NB.** Absence d'effets secondaires. Le facteur déterminant est l'observance du traitement. Risque de récidive faible.
 
-Autres crèmes étudiées: triamcinolone 0,02% x 2/j pendant 6 semaines, proprionate de clobétasol, furoate de mométasone, diclofénac.
+Autres crèmes étudiées: triamcinolone 0,02 % x 2/j pendant 6 semaines, proprionate de clobétasol, furoate de mométasone, diclofénac.
 
 Les adhérences balano-préputiales peuvent justifier une prise en charge après 5 ans. Elles peuvent être levées en appliquant un anesthésique local type EMLA crème 30 minutes avant le geste, puis levées par des tractions douces.
 

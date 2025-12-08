@@ -100,7 +100,7 @@ Recommandations pour la prise en charge de l'arthrose des mains:
   - Application de **chaleur**
   - Essayer le paracétamol  
     Durée limitée, efficacité moindre.
-  - Anti-inflammatoires ==**AINS topiques**==: [diclofénac 1% gel](https://base-donnees-publique.medicaments.gouv.fr/medicament/66284708/extrait#tab-rcp) x 4/j pendant 3 à 8 semaines (0,5 % dans les études)
+  - Anti-inflammatoires ==**AINS topiques**==: [diclofénac 1 % gel](https://base-donnees-publique.medicaments.gouv.fr/medicament/66284708/extrait#tab-rcp) x 4/j pendant 3 à 8 semaines (0,5 % dans les études)
   - **AINS oraux** en cure courte: ibuprofène ou naproxène si risque cardiovasculaire plus élevé (sujet âgé)
   - Sur avis rhumatologique: une cure courte de corticoïdes peut être efficace dans les cas d'arthrose inflammatoire. Faible dose, durée courte et limiter le nombre de cure par an
   - Infiltrations de corticoïdes: voir plus bas

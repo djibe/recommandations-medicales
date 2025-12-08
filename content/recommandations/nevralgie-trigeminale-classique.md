@@ -194,7 +194,7 @@ Avec le temps, aggravation avec des périodes douloureuses de plus en plus longu
   - La zone gâchette classique est au rebord gingivo-alvéolaire de la mandibule.
 - ou l'association des atteintes V2 et V3
 
-La névralgie trigéminale prédomine à droite pour 58% des patients.
+La névralgie trigéminale prédomine à droite pour 58 % des patients.
 
 ### Examen clinique
 

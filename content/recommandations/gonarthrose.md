@@ -57,7 +57,7 @@ Rechercher les éléments inducteurs de gonarthrose:
 
 ### Épidémiologie de la gonarthrose
 
-En France, chez les 40-75 ans, l'arthrose du genou atteint 23% de la population. La coûts liés à la gonarthrose sont estimés à 3,5 milliards d'euros chaque année.
+En France, chez les 40-75 ans, l'arthrose du genou atteint 23 % de la population. La coûts liés à la gonarthrose sont estimés à 3,5 milliards d'euros chaque année.
 
 ### Abréviations
 

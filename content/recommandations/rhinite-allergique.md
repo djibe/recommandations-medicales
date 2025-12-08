@@ -17,7 +17,7 @@ sctid = "61582004"
 icd10 = ["J30"]
 image = true
 imageSrc = "La rhinite allergique par vectorjuice / Freepik"
-todo = "rankok, Le score SFAR est une aide au diagnostic (même chez le nourrisson)(src11-12) score 8: se 95,1%-spe 94,8% | Score de l'ARIA adapté à l'enfant src71"
+todo = "rankok, Le score SFAR est une aide au diagnostic (même chez le nourrisson)(src11-12) score 8: se 95,1%-spe 94,8 % | Score de l'ARIA adapté à l'enfant src71"
 flowchart = true
 +++
 
@@ -153,7 +153,7 @@ TCA
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> NDLR: avec 25% de prévalence, la réalisation systématique de TCA et d'avis ORL semble peu réalisable
+> NDLR: avec 25 % de prévalence, la réalisation systématique de TCA et d'avis ORL semble peu réalisable
 
 ### Les tests cutanés allergéniques ou Prick tests
 
@@ -212,7 +212,7 @@ Les antihistaminiques et corticoïdes nasaux sont le traitement symptomatique de
 
 Éléments à savoir sur les traitements symptomatiques de la rhinite allergique:
 
-- *Prescrire* préconise d'essayer avant tout le cromoglicate de sodium 2% nasal en 1 pulv x 4-6/j ([Alairgix®](https://base-donnees-publique.medicaments.gouv.fr/medicament/60568235/extrait#tab-rcp) ou Cromorhinol®)
+- *Prescrire* préconise d'essayer avant tout le cromoglicate de sodium 2 % nasal en 1 pulv x 4-6/j ([Alairgix®](https://base-donnees-publique.medicaments.gouv.fr/medicament/60568235/extrait#tab-rcp) ou Cromorhinol®)
 - Pas de différence d'efficacité entre les corticoïdes locaux (rhinocorticostéroïdes - RCS)
 - Pas d'efficacité des associations: antihistaminique oral + RCS, **décongestionnant** + RCS, antileucotriène + RCS
 - La survenue d'épistaxis sous corticoïdes locaux semble être liée à l'administration par la main homolatérale

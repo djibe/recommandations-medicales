@@ -25,7 +25,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- L'obésité est une maladie qui affecte le bien-être physique, social et psychologique et touche 17% des Français
+- L'obésité est une maladie qui affecte le bien-être physique, social et psychologique et touche 17 % des Français
 - Le diagnostic d'obésité de l'adulte est clinique avec un indice de masse corporelle (IMC) supérieur à 30 kg/m² (dite morbide ou classe 3 à partir de 40)
 - << Demander l'accord de la personne pour aborder le poids >> (*HAS 2023*)
 - Un niveau adapté de prise en charge des personnes en obésité est requis (voir [Niveau adapté](#niveau-adapté-de-prise-en-charge-et-chirurgie-bariatrique)):
@@ -44,9 +44,9 @@ flowchart = true
 Le généraliste est considéré comme appartenant au **niveau 1** de la prise en charge de l'obésité.
 
 Obésité
-: Maladie chronique la plus fréquente en nutrition (17% de la population), évolutive et sans tendance spontanée à la guérison. Elle est définie comme une maladie car elle affecte le bien-être physique, social et psychologique.
+: Maladie chronique la plus fréquente en nutrition (17 % de la population), évolutive et sans tendance spontanée à la guérison. Elle est définie comme une maladie car elle affecte le bien-être physique, social et psychologique.
 : Pour l'OMS l'obésité est un << excès de masse grasse entraînant des conséquences néfastes pour la santé >>. Pour approcher cette masse grasse, on utilise la corpulence avec l'**indice de masse corporelle** (IMC, en kg/m²) ou indice de Quételet.
-: Chez l'adulte jeune en bonne santé, la masse grasse représente 10-15% du poids chez l'homme et 20-25% chez la femme.
+: Chez l'adulte jeune en bonne santé, la masse grasse représente 10-15 % du poids chez l'homme et 20-25 % chez la femme.
 : Les déterminants du poids sont eux aussi multiples: environnementaux, psychologiques, sociaux, génétiques.
 
 {{< table title="Classification de la corpulence des adultes selon l'*OMS 1998*" >}}
@@ -64,7 +64,7 @@ Obésité abdominale
 : La mesure du tour de taille: bras le long du corps en fin d'expiration normale, à mi-chemin entre le bord inférieur de la dernière côte palpable et le sommet de la crête iliaque.
 
 Échec de prise en charge de l'obésité
-: Définition *HAS 2022*: perte de poids inférieure à 5% à un an ou absence de son maintien avec: poursuite de la prise de poids, incapacité à modifier durablement ses comportements ou aggravation des complications liées à l'obésité.
+: Définition *HAS 2022*: perte de poids inférieure à 5 % à un an ou absence de son maintien avec: poursuite de la prise de poids, incapacité à modifier durablement ses comportements ou aggravation des complications liées à l'obésité.
 : En cas d'échec à 6-12 mois, le patient doit être orienté vers un **nutritionniste** (niveau 2) qui pourra l'adresser à un **centre spécialisé de l'obésité** (CSO, niveau 3, [annuaire PDF](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/article/les-centres-specialises-d-obesite)).
 
 Restriction cognitive
@@ -73,7 +73,7 @@ Restriction cognitive
 ### Épidémiologie de l'obésité en France
 
 - 1 adulte sur 2 est en surpoids ou en situation d'obésité (47,3%, *ObÉpi 2020*)
-- Prévalence de l'obésité: 17,4% chez la femme et 16,7% chez l'homme
+- Prévalence de l'obésité: 17,4 % chez la femme et 16,7 % chez l'homme
 
 {{< figure-chart title="Évolution de la prévalence de l'obésité chez l'adulte en France de 1997 à 2020. Dr JB Fron d'après ObÉpi 2020" >}}
 
@@ -257,7 +257,7 @@ Complications à dépister chez un adulte en obésité.
 | [DMLA]({{% relref "degenerescence-maculaire-age-dmla.md" %}}) | Dépistage régulier après 50 ans ou si symptômes            | HAS 2022 DMLA       |
 | Dyslipidémie                    | Cholestérol total, HDL, LDL, triglycérides                                               | ESC/ESH 2021        |
 | EFR                             | Indications: IMC ≥ 30 avec dyspnée NYHA 3-4, IMC ≥ 35 et SAHOS, IMC ≥ 40                 | HAS 2023            |
-| Gaz du sang                     | Indications: IMC ≥ 35, SpO~2~ &lt; 94% ou CPT < 85%                                      | HAS 2023            |
+| Gaz du sang                     | Indications: IMC ≥ 35, SpO~2~ &lt; 94 % ou CPT < 85 %                                      | HAS 2023            |
 | [Grossesse]({{% relref "grossesse.md" %}}) | Prise de poids limitée à 5-9 kg                                               | SFD 2022            |
 | [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) | Mesure avec brassard adapté tous les 1 à 3 ans    | ESC/ESH 2021        |
 | [Maladie rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}}) | Créatininémie, DFG et <abbr title="Rapport albuminurie/créatininurie">RAC</abbr> min. tous les 3 ans | HAS 2023 |
@@ -368,7 +368,7 @@ La prise en charge de l'obésité associe:
   - Cible: 150-300 minutes d'{{< modal-btn modal-met >}}intensité modérée{{< /modal-btn >}} par semaine et renforcement x 2/semaine
   - Activité physique adaptée (APA) voire supervisée
 - Perte de poids adaptée à la physiologie  
-  Une perte de poids de 5-15% est recommandée (sauf sujet âgé, *CEEDMM*). Le maintien du poids peut être le premier objectif.
+  Une perte de poids de 5-15 % est recommandée (sauf sujet âgé, *CEEDMM*). Le maintien du poids peut être le premier objectif.
 - Prise en charge nutritionnelle
   - Avis diététique, nutritionniste voire centre spécialisé de l'obésité (voir *Niveau adapté*)
   - Écoute des sensations alimentaires: faim, satiété

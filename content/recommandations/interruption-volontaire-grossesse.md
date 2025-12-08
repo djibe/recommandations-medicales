@@ -149,7 +149,7 @@ OU
 - À 24-48h: misoprostol 800 µg par voie transmuqueuse orale ou sublinguale (Gymiso® 200 µg cp)
 {{%/info%}}
 
-{{%class%}}Taux de grossesse évolutive: avant 8 SA - 0,5% | 8-9 SA - 1,5%{{%/class%}}
+{{%class%}}Taux de grossesse évolutive: avant 8 SA - 0,5 % | 8-9 SA - 1,5%{{%/class%}}
 
 ### Grossesse après 9 SA
 

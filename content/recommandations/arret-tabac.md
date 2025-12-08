@@ -76,7 +76,7 @@ Bénéfices importants sur la morbi-mortalité (cardiovasculaire et cancer du po
   Répartition: 47.000 cancers, 20.000 cardiovasculaires et 11.000 par maladies respiratoires.
 - 20 % des cancers attribuables au tabac soit 68.000 cas annuels (90 % des cancers bronchopulmonaires, 17 localisations cancéreuses) et 80 % des BPCO
 - Première cause de mortalité cardiovasculaire évitable
-- **Fumeurs quotidiens:** 23% de la population (2023, 4^e^ rang de l'OCDE)
+- **Fumeurs quotidiens:** 23 % de la population (2023, 4^e^ rang de l'OCDE)
 - Prévalence du tabagisme pendant la grossesse: 30 % (la moitié arrête)  
   Dont 20 % affirment n'avoir reçu aucune information.
 - 1 fumeur sur 2 meurt prématurément de son tabagisme
@@ -91,7 +91,7 @@ Le prix du paquet est la mesure la plus efficace pour réduire le tabagisme dans
 
 > Données *Santé Publique France*
 
-Dans le monde, la culture du tabac occupe 4,3 Mha de terres, responsable de 2 à 4% de la déforestation (*OMS*).
+Dans le monde, la culture du tabac occupe 4,3 Mha de terres, responsable de 2 à 4 % de la déforestation (*OMS*).
 
 {{< figure-chart title="Prévalence du tabagisme quotidien parmi les 18-75 ans en France de 2000 à 2020 (*SPF 2021*). NB: Échelle non linéaire années en abscisse" >}}
 
@@ -156,10 +156,10 @@ Complications du tabagisme:
 - Complications périopératoires
 - Réduit la fertilité chez les deux sexes, les chances en AMP
 - Femmes: [ostéoporose]({{% relref "osteoporose.md" %}}), [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}}), AVC par contraception combinée
-- Grossesse: GEU x2 (35% des GEU), fausse-couche précoce x3, MFIU (+47%), accouchement prématuré, RCIU et petit poids de naissance (-300g), augmente morbi-mortalité péri-natales, réduction des capacités scolaires et cognitives de l'enfant, malformations congénitales, allonge le délai de conception, aggrave l'effet d'âge sur la fécondité
+- Grossesse: GEU x2 (35 % des GEU), fausse-couche précoce x3, MFIU (+47%), accouchement prématuré, RCIU et petit poids de naissance (-300g), augmente morbi-mortalité péri-natales, réduction des capacités scolaires et cognitives de l'enfant, malformations congénitales, allonge le délai de conception, aggrave l'effet d'âge sur la fécondité
 - Hommes: [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}})
 - Tabagisme passif
-  - IDM, AVC (x2), [cancer du poumon]({{% relref "cancer-poumon.md" %}}) (+25% si conjoint fume) ou maladie respiratoire, cancer des sinus
+  - IDM, AVC (x2), [cancer du poumon]({{% relref "cancer-poumon.md" %}}) (+25 % si conjoint fume) ou maladie respiratoire, cancer des sinus
   - Nourrisson: mort subite x2
   - Enfant: [otites]({{% relref "otite-moyenne-aigue.md" %}}), [asthme]({{% relref "asthme.md" %}}), [pneumopathie]({{% relref "pneumonie-aigue-communautaire.md" %}})
 

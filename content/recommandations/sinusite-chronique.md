@@ -24,7 +24,7 @@ flowchart = true
 
 - La rhinosinusite chronique (ou sinusite chronique), est une inflammation des sinus persistant plus de 12 semaines avec pour symptômes: obstruction nasale, rhinorrhée chronique, mucus épais, diminution de l'odorat et une pression faciale
 - Les signes d'alarmes sont des symptômes unilatéraux ou sévères
-- Rechercher un [asthme]({{% relref "asthme.md" %}}), associé dans 25% des cas et le retentissement de la sinusite: troubles du sommeil, fatigue et dépression
+- Rechercher un [asthme]({{% relref "asthme.md" %}}), associé dans 25 % des cas et le retentissement de la sinusite: troubles du sommeil, fatigue et dépression
 - La prise en charge de la sinusite chronique comprend des irrigations nasales avec solution saline et des corticoïdes locaux quotidiens (fluticasone, mométasone)
 - En cas de signe d'alarme ou d'échec du traitement médical, demander un avis spécialisé ORL urgent avec scanner des sinus sans injection
 

@@ -36,7 +36,7 @@ Chapitre lié: [syndrome de l'intestin irritable]({{% relref "syndrome-intestin-
 {{%collapse "Définition" %}}
 
 Constipation
-: Critères diagnostiques de *Rome IV*, au moins 2 des symptômes suivants depuis au moins 6 mois: selles peu fréquentes (< 3 par semaine), selles dures, efforts de poussée, sensation d'évacuation incomplète, sensation de blocage ano-rectal, manœuvres digitales ou autres pour faciliter l'exonération (pour au moins 25% des défécations).
+: Critères diagnostiques de *Rome IV*, au moins 2 des symptômes suivants depuis au moins 6 mois: selles peu fréquentes (< 3 par semaine), selles dures, efforts de poussée, sensation d'évacuation incomplète, sensation de blocage ano-rectal, manœuvres digitales ou autres pour faciliter l'exonération (pour au moins 25 % des défécations).
 : Lorsque les douleurs abdominales sont fréquentes, le diagnostic de [syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}) avec constipation peut être retenu.
 : La << fausse diarrhée >> qui suit l'évacuation ne doit pas faire interrompre l'évacuation.
 

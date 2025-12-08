@@ -167,7 +167,7 @@ Autres méthodes antalgiques pouvant être associées au traitement médicamente
 
 - Nourrisson: tenir dans les bras, succion (sein, tétine)
 - Solutions sucrées chez le nourrisson jusqu'à 6 mois  
-  [Allaitement]({{% relref "allaitement.md" %}}), saccharose 24% (Algopédol®), glucosé 30%. Quelques gouttes sur le bout de la langue, 2 minutes avant le soin. Efficace 5-7 minutes.
+  [Allaitement]({{% relref "allaitement.md" %}}), saccharose 24 % (Algopédol®), glucosé 30%. Quelques gouttes sur le bout de la langue, 2 minutes avant le soin. Efficace 5-7 minutes.
 - MEOPA  
   Chez +1 mois. Minimum 3 minutes avant le soin et poursuivi pendant. Efficace < 60 minutes. Ne pas administer de force.
 - Crème/patch lidocaïne - prilocaïne  

@@ -43,7 +43,7 @@ Fibromyalgie (FM)
 
 ### Épidémiologie de la fibromyalgie
 
-- Prévalence: 1,5 à 2% de la population
+- Prévalence: 1,5 à 2 % de la population
 - Sex ratio: 1,4 femme pour 1 homme (critères ACR 2016)
 
 ### Abréviations
@@ -178,7 +178,7 @@ Rechercher une fibromyalgie en cas de douleur chronique.
     Statine, anti-aromatase.
 - Comorbidités fréquentes à dépister
   - [Syndrome des jambes sans repos]({{% relref "syndrome-jambes-sans-repos.md" %}}) (23-64%)
-  - [Syndrome d'apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) (45% parmi ceux explorés)  
+  - [Syndrome d'apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) (45 % parmi ceux explorés)  
     {{< modal-btn modal-saos >}}Dépister avec le score STOP-BANG{{< /modal-btn >}}.
   - Symptômes anxio-dépressifs (60-85%, {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}})
   - [Troubles climatériques]({{% relref "menopause.md" %}})

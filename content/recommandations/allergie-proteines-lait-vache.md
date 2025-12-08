@@ -42,7 +42,7 @@ Allergies quasi constantes:
 Allergies croisées à étayer une par une:
 
 - Lait de bufflonne
-- Lait de jument très rare (4% selon *Businco et al*)
+- Lait de jument très rare (4 % selon *Businco et al*)
 - Lait d'ânesse
 - Œuf de poule
 - Viandes d'ovins et porcs
@@ -81,13 +81,13 @@ Préparations pour nourrisson adaptées à l'allergie aux protéines de lait de 
 
 ### Lait à base de lait de jument
 
-Seulement 4% d'allergie croisée (*Businco et al*).
+Seulement 4 % d'allergie croisée (*Businco et al*).
 
 - Chevalait 2
 
 ### Base d'acides aminés
 
-Nécessaire chez < 2% des enfants.
+Nécessaire chez < 2 % des enfants.
 
 - Alfamino HMO
 - Néocate 1 à 2

@@ -53,15 +53,15 @@ Vascularites
 - 80 % ambulatoire
 - Décès: 1,8%
 - Médicaments identifiés
-  - Antibiotiques 49,6%  
+  - Antibiotiques 49,6 %  
   Amoxicilline 29%, céphalosporines 12%, autres pénicillines 1%
 
 > Renaudin JM et coll. Allergy 2013
 
 ### Conséquences pour la santé de la personne déclarée "allergique" en hospitalisation
 
-- 23% plus de C. difficile
-- 14% plus de SARM
+- 23 % plus de C. difficile
+- 14 % plus de SARM
 - 30 % plus d'entérocoque résistant à la vancomycine
 
 > Macy, Eric, and Richard Contreras. “Health Care Use and Serious Infection Prevalence Associated with Penicillin ‘allergy' in Hospitalized Patients: A Cohort Study.” Journal of Allergy and Clinical Immunology 133, no. 3 (2014): 790-96.
@@ -94,7 +94,7 @@ Localisation, gravité, évolution.
 
 ### Bêta-lactamines avec réactions croisées
 
-2% de réactions croisées pénicillines-céphalosporines.
+2 % de réactions croisées pénicillines-céphalosporines.
 
 - Amoxicilline  
 Céfadroxil, cefatrizine, cefprozil, céfoxitine.

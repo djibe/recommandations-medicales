@@ -66,8 +66,8 @@ Encourager la consommation de **café** dans ces populations, en plus des mesure
 
 - **Incidence:** 11.658 cas (2023), en augmentation
 - **Sex-ratio:** 80 % d'hommes
-- **Survie à 5 ans:** 18% hommes, 19% femmes
-- 90 % surviennent sur une maladie chronique du foie (75% au stade de cirrhose)
+- **Survie à 5 ans:** 18 % hommes, 19 % femmes
+- 90 % surviennent sur une maladie chronique du foie (75 % au stade de cirrhose)
 - L'[alcool]({{% relref "sevrage-alcool.md" %}}) est responsable de 50 à 70 % des cas de CHC sur foie cirrhotique
 
 ### Abréviations
@@ -185,7 +185,7 @@ Vérifier que le bilan est complet au diagnostic: IRM hépatique multiphasique i
 
 L'alpha-fœtoprotéine relève du bilan d'extension une fois le carcinome hépatocellulaire prouvé.
 
-**NB.** Une AFP isolée > 200 ng/mL (sans cause extra-hépatique) a une VPP de 95% pour le carcinome hépatocellulaire. Prescrire une IRM avec injection et lecture par un expert.
+**NB.** Une AFP isolée > 200 ng/mL (sans cause extra-hépatique) a une VPP de 95 % pour le carcinome hépatocellulaire. Prescrire une IRM avec injection et lecture par un expert.
 
 Pour le dépistage du CHC chez le patient cirrhotique, voir *Dépistage du CHC*.
 

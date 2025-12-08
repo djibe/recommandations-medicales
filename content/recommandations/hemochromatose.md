@@ -109,7 +109,7 @@ Rechercher des facteurs aggravants:
 - [Consommation d'alcool]({{% relref "sevrage-alcool.md" %}})
 
 > [!WARNING]
-> << Dans 85% des cas le diagnostic est trop tardif >>. -- *Inserm*
+> << Dans 85 % des cas le diagnostic est trop tardif >>. -- *Inserm*
 
 ### Examen clinique
 

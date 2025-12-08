@@ -69,7 +69,7 @@ OU dyspnée sifflante après 12 mois (sans autre cause).
 - Prévalence: 30 % des nourrisson atteints chaque hiver (pic chez les 2-8 mois)
 - Taux d'hospitalisation: 0,6/1000 (2010)  
   Hétérogénéité selon les centres.
-- 1 à 2% de cas graves
+- 1 à 2 % de cas graves
 - Hiver 2022-2023: 100.000 admissions aux urgences, 35.000 hospitalisations dont 2500 en soins critiques
 
 ### Abréviations
@@ -351,8 +351,8 @@ Indications spécifiques au cours d'un épisode de bronchiolite:
 
 - Oxygénothérapie  
   - Forme grave: SpO~2~ > 94%
-  - Forme modérée avec SpO~2~ ≤ 92%: cible > 92% éveil et 90 % sommeil
-  - Cardiopathie: cible habituelle ou > 92% par défaut
+  - Forme modérée avec SpO~2~ ≤ 92%: cible > 92 % éveil et 90 % sommeil
+  - Cardiopathie: cible habituelle ou > 92 % par défaut
 - Discuter une antibiothérapie si:
   fièvre ≥ 38,5°C pendant +48 heures, [otite associée]({{% relref "otite-moyenne-aigue.md" %}}), pathologie pulmonaire ou cardiaque sous-jacente, foyer pulmonaire radiologiquement documenté, élévation de la CRP ou hyperleucocytose.
 

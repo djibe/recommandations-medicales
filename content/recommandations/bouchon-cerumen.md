@@ -34,7 +34,7 @@ todo = "flow p8"
 
 Bouchon de cérumen
 : Accumulation de cérumen provoquant des symptômes et/ou empêchant l'examen du tympan.
-: Prévalence: 10 % des enfants, 5% des adultes et 19 à 65% des +65 ans.
+: Prévalence: 10 % des enfants, 5 % des adultes et 19 à 65 % des +65 ans.
 
 Cérumen
 : Substance sécrétée aux 2/3 externes du conduit auditif externe, nettoyant, protégeant et lubrifiant le conduit.

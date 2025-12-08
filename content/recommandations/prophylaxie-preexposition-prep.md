@@ -47,7 +47,7 @@ todo = "rankok, flowchart; gitgraph: Continu femme, Schéma continu homme, Sché
 
 Prophylaxie pré-exposition (PrEP)
 : Utilisation à titre préventif de médicaments antirétroviraux chez une personne non infectée par le virus de l'immunodéficience humaine (VIH) qui présente des facteurs d'exposition au VIH.
-: Le recours à la PrEP reste insuffisant (28% des HSH séronégatifs pour des rapports occasionnels), tout comme l'usage concomitant du préservatif dont l'usage baisse (45% versus 67% en 2017, *Velter 2022*).
+: Le recours à la PrEP reste insuffisant (28 % des HSH séronégatifs pour des rapports occasionnels), tout comme l'usage concomitant du préservatif dont l'usage baisse (45 % versus 67 % en 2017, *Velter 2022*).
 
 ### Abréviations
 

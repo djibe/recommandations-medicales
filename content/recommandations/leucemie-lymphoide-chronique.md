@@ -39,10 +39,10 @@ Leucémie lymphoïde chronique
 
 ### Épidémiologie de la leucémie lymphoïde chronique en France
 
-- Incidence: 4674 nouveaux cas (2018), soit 1,2% des cancers
+- Incidence: 4674 nouveaux cas (2018), soit 1,2 % des cancers
 - Prévalence masculine: 59%
 - Âge médian au diagnostic: 72 ans
-- 95% ont plus de 51 ans
+- 95 % ont plus de 51 ans
 - Survie nette standardisée à 5 ans: 89%
 
 > -- *INCa 2023*

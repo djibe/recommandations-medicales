@@ -26,7 +26,7 @@ modele = true
 
 Ces recommandations concernent le sujet immunocompétent.
 
-- L'herpès est une infection virale dont la primo-infection est le plus souvent asymptomatique et reste latente toute la vie avec des récurrences variables. L'herpès est grave chez l'immunodéprimé. Plus de 80 % de la population est infectée par HSV-1 et 15% par HSV-2
+- L'herpès est une infection virale dont la primo-infection est le plus souvent asymptomatique et reste latente toute la vie avec des récurrences variables. L'herpès est grave chez l'immunodéprimé. Plus de 80 % de la population est infectée par HSV-1 et 15 % par HSV-2
 - L'herpès oro-facial est l'atteinte la plus fréquente avec des récurrences sous forme de << bouton de fièvre >>, traitées par aciclovir crème. Une primo-infection symptomatique donne une gingivostomatite herpétique
 - L'herpès génital altère la qualité de vie et associé à un surrisque de contamination par le VIH
   - Le traitement antiviral est urgent: valaciclovir sur une seule journée (5 jours pour la primo-infection; voir le *modèle* ou la section *Traitement*)
@@ -52,7 +52,7 @@ Herpès génital
 : Infection sexuellement transmissible fréquente à virus *herpes simplex* le plus souvent de type 2 (HSV-2 -- 60 à 80 %). La contamination a principalement lieu par excrétion virale asymptomatique (50 à 90 %).
 : L'herpès génital est la première cause d'ulcère génital, est un risque d'herpès néonatal et altère significativement la qualité de vie.
 : Une atteinte génitale par HSV-1 est moins contagieuse et avec des récurrences plus faibles. Les co-infections génitales HSV1 et HSV2 sont exceptionnelles.
-: Prévalence d'HSV-2 (2002): 18% des femmes et 14% des hommes, proche de 50 % chez les [PVVIH]({{% relref "vih-sida.md" %}}) et non diagnostiqué pour 70%.
+: Prévalence d'HSV-2 (2002): 18 % des femmes et 14 % des hommes, proche de 50 % chez les [PVVIH]({{% relref "vih-sida.md" %}}) et non diagnostiqué pour 70%.
 
 Herpès néonatal
 : Infection grave du nourrisson par contamination génitale durant l'accouchement, par voie hématogène placentaire ou salivaire, le plus souvent par HSV-2. Les symptômes sont retardés entre J5 et J12 de vie et le risque de décès ou de séquelles neuro-sensorielles sévères est très élevé.
@@ -293,7 +293,7 @@ Schéma de prophylaxie antivirale de l'herpès génital: ==valaciclovir 500 mg x
 
 L'herpès néonatal nécessite une **hospitalisation en urgence**.
 
-85% des cas surviennent lors de l'accouchement par voie basse (**herpès maternel inconnu** pour les 2/3).
+85 % des cas surviennent lors de l'accouchement par voie basse (**herpès maternel inconnu** pour les 2/3).
 
 #### Prévention de l'herpès néonatal
 
@@ -363,7 +363,7 @@ Pour en savoir plus, les critères d'hospitalisation de la kératite herpétique
 **Récurrence d'herpès**
 
 - Herpès labial  
-  aciclovir 5% crème 1 application x 5/j pendant 5 à 10 jours
+  aciclovir 5 % crème 1 application x 5/j pendant 5 à 10 jours
 - Herpès génital  
   valaciclovir 2000 mg x 2/j sur une seule journée
 

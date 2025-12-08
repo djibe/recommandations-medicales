@@ -38,7 +38,7 @@ flowchart = true
 Dégénérescence maculaire liée à l'âge (DMLA)
 : Pathologie dégénérative avancée chronique rétinienne de la macula survenant après 50 ans. L'atteinte peut être bilatérale et il n'existe pas de traitement curatif.
 : Les anomalies rétiniennes peuvent être: drusen, altération de l'épithélium pigmentaire de la rétine, atrophie géographique de l'épithélium pigmentaire (EP) ou néovascularisation choroïdienne. Deux formes peuvent co-exister: **DMLA atrophique** (ou << forme sèche >>) et **DMLA exsudative** (ou *néovasculaire* ou << humide >>).
-: La DMLA est la première cause de malvoyance après 50 ans dans les pays industrialisés avec une prévalence de 25% à 30 % après 75 ans. 50 % de bilatéralisation à 5 ans en cas de DMLA exsudative.
+: La DMLA est la première cause de malvoyance après 50 ans dans les pays industrialisés avec une prévalence de 25 % à 30 % après 75 ans. 50 % de bilatéralisation à 5 ans en cas de DMLA exsudative.
 
 Drusen
 : Dépôt de substance hyaline sur l'épithélium pigmenté de la rétine. Tâches visibles sous l'épithélium pigmentaire rétinien, jaunâtres, plus ou moins larges, apparaissant, disparaissant, se modifiant et évoluant vers l'extension.

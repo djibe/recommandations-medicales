@@ -23,7 +23,7 @@ todo = "flowchart Figure 2"
 {{%article-summary%}}
 
 - L'hirsutisme est la présence chez une femme d'un excès de poils longs, drus et pigmentés sur des zones pileuses dépendantes des androgènes
-- Il est lié à un [syndrome des ovaires polykystiques]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (SOPK) dans 75% des cas
+- Il est lié à un [syndrome des ovaires polykystiques]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (SOPK) dans 75 % des cas
 - Rechercher les autres signes d'hyperandrogénie: {{< clinique/hyperandrogenie >}}
 - Grader la sévérité de l'hirsutisme avec le [Score Ferriman-Gallwey](http://www.e-dpc.fr/bibliotheque/docs/trouble_du_cycle_amenorrhee_hyperandrogenie/fiches_pratiques/score_ferriman_gallwey.pdf) pour vérifier l'indication au traitement selon les origines (voir *Clinique*)
 - Bilan d'hirsutisme: testostéronémie entre 8 et 11 heures si score Ferriman-Gallwey élevé. hCG associée en cas d'aménorrhée
@@ -38,7 +38,7 @@ todo = "flowchart Figure 2"
 
 Hirsutisme
 : Excès de poils longs, drus et pigmentés, présents chez les femmes sur des zones androgénodépendantes.  
-L'hirsutisme atteint de 5 à 15% des femmes.
+L'hirsutisme atteint de 5 à 15 % des femmes.
 
 Zones androgénodépendantes
 : Lèvre supérieure, menton, joue, poitrine, ligne ombilico-pubienne, fesse, dos, région lombaire, bras, face antérieure des cuisses.

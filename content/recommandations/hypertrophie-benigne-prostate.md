@@ -290,7 +290,7 @@ Une rééducation pelvienne est bénéfique en cas d'incontinence urinaire post-
 Absence de supériorité d'une technique pour la chirurgie de l'hypertrophie bénigne de la prostate.
 
 - Résection transurétrale de prostate (RTUP) uni ou bipolaire  
-  Volume < 80 mL. Référence. 75% ont éjaculation rétrograde post-opératoire.
+  Volume < 80 mL. Référence. 75 % ont éjaculation rétrograde post-opératoire.
 - Incision cervicoprostatique (ICP)  
   Prostate < 30 mL.
 - Adénomectomie par voie haute (AVH, prostatectomie)  

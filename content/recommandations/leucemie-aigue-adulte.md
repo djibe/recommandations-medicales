@@ -38,7 +38,7 @@ Leucémie aiguë
 : La survie dépend du type du leucémie et de l'âge de survenue.
 
 Rémission complète de leucémie aiguë
-: Amélioration de l'hémogramme (absence de blastes circulants, polynucléaires > 1 G/L, plaquettes > 100 G/L), frottis médullaire riche (< 5% de cellules blastiques et sans corps d'Auer) et disparition de tous les autres signes de la maladie.
+: Amélioration de l'hémogramme (absence de blastes circulants, polynucléaires > 1 G/L, plaquettes > 100 G/L), frottis médullaire riche (< 5 % de cellules blastiques et sans corps d'Auer) et disparition de tous les autres signes de la maladie.
 
 ### Facteurs de risque de leucémie aiguë
 

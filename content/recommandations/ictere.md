@@ -39,7 +39,7 @@ Ictère à bilirubine non conjuguée
 : Ictère avec une bilirubinémie non conjuguée supérieure à **70 % de la bilirubinémie totale**. Sinon il s'agit d'un ictère à bilirubine conjuguée ou mixte.
 
 Syndrome de Gilbert (*ex* maladie de Gilbert)
-: Situation **bénigne** familiale récessive atteignant 5 à 8% de la population donnant une hyperbilirubinémie non conjuguée modérée et fluctuante (toujours inférieure à 80 µmol/L). Le bilan hépatique est normal par ailleurs.
+: Situation **bénigne** familiale récessive atteignant 5 à 8 % de la population donnant une hyperbilirubinémie non conjuguée modérée et fluctuante (toujours inférieure à 80 µmol/L). Le bilan hépatique est normal par ailleurs.
 : Le syndrome de Gilbert est lié à une mutation du gène de la glucuronyl-transférase. Il est aggravé par la fatigue, le jeûne et les infections.
 
 ### Abréviations

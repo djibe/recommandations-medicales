@@ -95,7 +95,7 @@ L'Afrique subsaharienne comptabilise 90 % des cas mondiaux de paludisme.
 {{% /collapse %}}
 {{%collapse "Signes de gravité et critères d'hospitalisation du paludisme" %}}
 
-Les accès palustres graves sont quasi exclusivement liés à *Plasmodium falciparum* (99% des diagnostics en France) voire *Plasmodium knowlesi*.
+Les accès palustres graves sont quasi exclusivement liés à *Plasmodium falciparum* (99 % des diagnostics en France) voire *Plasmodium knowlesi*.
 
 {{%warning%}}
 Appel du SAMU en cas de suspicion d'accès palustre grave:
@@ -359,7 +359,7 @@ Après bilan diagnostique en urgence, la prise en charge d'un paludisme à *P. f
 - Antipaludique mis à disposition (pharmacie hospitalière ou service) et première prise surveillée pendant 2 heures
 - Proximité d'un hôpital, numéro d'urgence fourni
 - Consultation de contrôle possible à J3 et J7 et J28 par un spécialiste
-  - Frottis sanguin et goutte épaisse à J3 (parasitémie < 25% de la valeur initiale), J7 (parasitémie nulle) et J28
+  - Frottis sanguin et goutte épaisse à J3 (parasitémie < 25 % de la valeur initiale), J7 (parasitémie nulle) et J28
   - NFS à J7, J14, J21 et J28 si accès grave
 - Plaquettes > 50.000/mm³, Hb > 10 g/dL, créatininémie < 150 µmol/L
 - Parasitémie < 2%

@@ -26,12 +26,12 @@ todo = "rankok | réécriture, gluconate de zinc, outil"
 - Mesures d'hygiène pour toutes les peaux acnéiques
 - Tous les rétinoïdes sont tératogènes
 - Prise en charge de l'acné par les traitements topiques
-  - Acné rétentionnelle: adapalène 0,1% crème x 1/j pendant 3 mois
-  - Acné inflammatoire: peroxyde de benzoyle 5% x 1/j pendant 4-6 semaines puis entretien 2-3/semaine  
+  - Acné rétentionnelle: adapalène 0,1 % crème x 1/j pendant 3 mois
+  - Acné inflammatoire: peroxyde de benzoyle 5 % x 1/j pendant 4-6 semaines puis entretien 2-3/semaine  
     Acné étendue: ajouter la doxycycline 100 mg/j pendant maximum 3 mois
 - Acné sévère: avis dermatologique (voir *Acné sévère*)
 - Acné déclenchée par une contraception hormonale: substituer par lévonorgestrel seul > norgestimate > autre voire Triafemi (-Continu) (voir [contraception]({{% relref "contraception.md" %}}))
-- Acné pendant la grossesse: Peroxyde de benzoyle 5% gel 1 à 2 applications par jour sur peau propre
+- Acné pendant la grossesse: Peroxyde de benzoyle 5 % gel 1 à 2 applications par jour sur peau propre
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -162,7 +162,7 @@ Pour les mesures d'hygiène, voir la section *Traitement de l'acné*.
 {{%info%}}
 Exemple de prescription
 
-[Adapalène 0,1% crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/67245747/extrait#tab-rcp) (ou gel) (Differine® ou gén).  
+[Adapalène 0,1 % crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/67245747/extrait#tab-rcp) (ou gel) (Differine® ou gén).  
 1 application le soir sur peau propre pendant 3 mois.  
 Appliquer l'équivalent d'un pois de crème.  
 Efficacité visible en 1 à 2 mois. Tolérance démontrée pendant 6 mois.
@@ -188,7 +188,7 @@ Extraction des microkystes par le dermatologue. Doit être réalisée après plu
 #### Forme localisée
 
 {{%info%}}
-Peroxyde de benzoyle 5% gel 1 à 2 applications par jour sur peau propre  
+Peroxyde de benzoyle 5 % gel 1 à 2 applications par jour sur peau propre  
 (Curaspot, Cutacnyl, Eclaran, Effacné, Pannogel, Panoxyl, Papclair).  
   
 Efficacité visible en 4-6 semaines. Puis 2 à 3 applications par semaine en traitement d'entretien.  
@@ -200,15 +200,15 @@ En cas de survenue d'irritation locale marquée: espacer les applications tous l
 {{%info%}}
 En cas d'intolérance au peroxyde de benzoyle:
 
-- Adapalène 0,1% 1 application le soir sur peau propre pendant 3 mois (idem *rétentionnelle* ci-dessus)
-- OU érythromycine 4% gel (Erythrogel®, gén) 1-2 appli/jour 3 mois  
+- Adapalène 0,1 % 1 application le soir sur peau propre pendant 3 mois (idem *rétentionnelle* ci-dessus)
+- OU érythromycine 4 % gel (Erythrogel®, gén) 1-2 appli/jour 3 mois  
   \+ rétinoïde local (cf *rétentionnelle*) en application le soir si association fixe (Erylik®)  
   \+ ou alternance matin et soir si traitements séparés.
-- OU clindamycine 1% locale (Dalacine T Topic®, gén) 2 appli/jour  
+- OU clindamycine 1 % locale (Dalacine T Topic®, gén) 2 appli/jour  
   \+ rétinoïde local (cf *rétentionnelle*)
 {{%/info%}}
 
-Autre traitement possible mais de faible efficacité: acide azélaïque gel 15% ou crème 20 % x 2/j.
+Autre traitement possible mais de faible efficacité: acide azélaïque gel 15 % ou crème 20 % x 2/j.
 
 **NB. Il n'est pas recommandé d'utiliser un antibiotique local en monothérapie en raison du risque de résistance bactérienne.**
 
@@ -306,16 +306,16 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
   suspicion -- Diagnostic différentiel --> differentiel("- Dermatite péri-orale<br>- Folliculite médicamenteuse<br>- Rosacée papulo-pustuleuse<br>- Syphilis<br>- Sarcoïdose")
     diagnostic --> soins(Soins locaux) ---> personne(Enfant et adulte)
-      personne --> tresLegere(Très légère) -- Attaque --> tl("Trétinoïne<br>ou ADA<br>ou PeBo 1/j") -- Entretien --> tle("ADA (1/j ou 1j/2)<br>OU<br>ADA<br>+ PeBo 2,5% 1/j") -. Échec M3 .-> tlechec(voir Légère)
+      personne --> tresLegere(Très légère) -- Attaque --> tl("Trétinoïne<br>ou ADA<br>ou PeBo 1/j") -- Entretien --> tle("ADA (1/j ou 1j/2)<br>OU<br>ADA<br>+ PeBo 2,5 % 1/j") -. Échec M3 .-> tlechec(voir Légère)
       personne --> legere(Légère) -- Attaque --> l(Trétinoïne<br>OU<br>ADA<br>+ PeBo 1/j) -- Entretien --> le("1/j: ADA (1/j ou 1j/2)<br>OU<br>ADA<br>+ PeBo 2,5%") -. Échec M3 .-> lechec("- Intensification<br>ou rétinoïdes + atb locale<br>ou acide azélaïque + atb locale<br>ou doxycycline ou lymécycline<br>+ rétinoïde + PeBo")
-      personne --> moderee(Modérée) -- Attaque --> m(Rétinoïde) -- Entretien --> me("ADA<br>(1/j ou 1j/2 ou trétinoïne)<br>OU<br>ADA<br>+ PeBo 2,5% 1/j") -. Échec M3 .-> mechec(voir Très sévère)
-      personne ------> severe(Sévère) -- Attaque --> s("Doxycycline 100 mg/j<br>ou lymécycline<br>+ rétinoïde<br>+ PeBo") -- Entretien --> se("ADA<br>(1/j ou 1j/2 ou trétinoïne)<br>OU<br>ADA<br>+ PeBo 2,5% 1/j") -. Échec M3 .-> sechec(voir Très sévère)
+      personne --> moderee(Modérée) -- Attaque --> m(Rétinoïde) -- Entretien --> me("ADA<br>(1/j ou 1j/2 ou trétinoïne)<br>OU<br>ADA<br>+ PeBo 2,5 % 1/j") -. Échec M3 .-> mechec(voir Très sévère)
+      personne ------> severe(Sévère) -- Attaque --> s("Doxycycline 100 mg/j<br>ou lymécycline<br>+ rétinoïde<br>+ PeBo") -- Entretien --> se("ADA<br>(1/j ou 1j/2 ou trétinoïne)<br>OU<br>ADA<br>+ PeBo 2,5 % 1/j") -. Échec M3 .-> sechec(voir Très sévère)
       personne ------> tsevere(Très sévère) --> dermato("Avis dermatologique<br>Isotrétinoïne orale")
     soins --> grossesse(Grossesse) -- CRAT --> fe("PeBo")
 {{< /mermaid >}}
 
-> **Rétinoïde** = trétinoïne 0,025 ou 0,05% ou adapalène 0,1%  
-ADA = adapalène 0,1%  
+> **Rétinoïde** = trétinoïne 0,025 ou 0,05 % ou adapalène 0,1 %  
+ADA = adapalène 0,1 %  
 PeBo = peroxyde de benzoyle (2,5, 5 % ou 10 % sauf mention contraire, 1 appli/j)  
 Trétinoïne = trétinoïne 0,025 ou 0,05%
 

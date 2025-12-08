@@ -97,7 +97,7 @@ Chémosis
 
 ### Conjonctivites du nouveau-né
 
-Une conjonctive est banale chez 5% des nouveaux-nés (*Staphylococcus aureus*, *Staphylococcus epidermidis*, *Escherichia Coli*). **Prélèvement et traitement systématique**.
+Une conjonctive est banale chez 5 % des nouveaux-nés (*Staphylococcus aureus*, *Staphylococcus epidermidis*, *Escherichia Coli*). **Prélèvement et traitement systématique**.
 
 
 

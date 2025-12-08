@@ -89,7 +89,7 @@ Les complications du zona surviennent principalement chez l'immunodéprimé et l
 - Zona ophtalmique  
   Kératite aiguë et cécité.
 - Paralysie faciale périphérique  
-  Douleurs, récidives et 50 à 85% de parésie séquellaire.
+  Douleurs, récidives et 50 à 85 % de parésie séquellaire.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -183,7 +183,7 @@ Prise en charge d'un zona non sévère:
   - Couvrir les lésions avec des pansements humides
   - Éviter les bains (macération)
   - Douches (bi-) quotidiennes à l'eau tiède avec savon dermatologique
-  - Chlorhexidine aqueuse stérile 0,2% 1 application x 2/j sur les lésions cutanées uniquement
+  - Chlorhexidine aqueuse stérile 0,2 % 1 application x 2/j sur les lésions cutanées uniquement
 - Réévaluation clinique régulière
 - Éviter le contact avec les femmes enceintes non immunisées et immunodéprimées
 - Si surinfection cutanée  

@@ -66,12 +66,12 @@ SFORL
 
 - 70 % de guérison complète à 6 mois  
   Corrélée à la gravité initiale.  
-  Taux de récupération de 61% en PFP totale initiale et de 94% pour une PFP partielle initiale.
+  Taux de récupération de 61 % en PFP totale initiale et de 94 % pour une PFP partielle initiale.
 - [Maladie de Lyme]({{% relref "maladie-lyme.md" %}})  
   6 à 20 % des PFP selon les régions.
 - [Diabète]({{% relref "diabete-type-2.md" %}})  
   Présent chez 10 % des patients développant une PFP.
-- 8 à 12% des PFP d'allure idiopathique sont tumorales (malignes à 30%)
+- 8 à 12 % des PFP d'allure idiopathique sont tumorales (malignes à 30%)
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}

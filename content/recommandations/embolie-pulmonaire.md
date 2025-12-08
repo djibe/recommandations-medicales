@@ -120,7 +120,7 @@ La réponse aux 8 questions suivantes doit être négative pour infirmer une *su
 
 1. Âge ≥ 50 ans ?
 2. Fréquence cardiaque ≥ 100/min ?
-3. SpO~2~ < 95% ?
+3. SpO~2~ < 95 % ?
 4. Hémoptysie ?
 5. Œdème unilatéral d'un membre inférieur ?
 6. Traitement œstrogénique ?

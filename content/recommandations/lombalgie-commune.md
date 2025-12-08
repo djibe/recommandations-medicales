@@ -43,7 +43,7 @@ Poussée aiguë de lombalgie
 Lombalgie chronique
 : Douleur de la région lombaire durant plus de 3 mois. Elle peut s'accompagner d'une radiculalgie uni/bilatérale à la fesse, crête iliaque voire la cuisse, dépassant exceptionnellement le genou.
 : On différencie la lombalgie *non dégénérative* (traumatique, tumorale, neurologique, infectieuse ou inflammatoire) ou *dégénérative* (discogénique, facettaire ou mixte, ligamentaire, musculaire ou par trouble de la statique rachidienne).
-: Elle est dite *commune* en l'absence de *Signes d'alertes*, 1 à 5% ont une pathologie sous-jacente.
+: Elle est dite *commune* en l'absence de *Signes d'alertes*, 1 à 5 % ont une pathologie sous-jacente.
 : Pathologie extrêmement fréquente (50 % sur 12 mois) et le plus souvent bénigne (90 % de guérison en < 6 semaines).
 
 Lombalgie récidivante

@@ -102,8 +102,8 @@ L'accident vasculaire cérébral (AVC) est un enjeu majeur de santé publique:
 - Incidence: 122.000 AVC/an
 - 1 personne sur 6 aura un AVC
 - 30 % de mortalité le 1^er^ mois
-- Mortalité à 1 an: 21% si ischémique, 38% si hémorragique
-- 75% des survivants ont des séquelles
+- Mortalité à 1 an: 21 % si ischémique, 38 % si hémorragique
+- 75 % des survivants ont des séquelles
 - Âge moyen de survenue: 74 ans
 - 1/4 des AVC surviennent avant 65 ans, 10 % avant 45 ans
 

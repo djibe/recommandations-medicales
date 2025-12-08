@@ -26,7 +26,7 @@ flowchart = true
 - La dermatite séborrhéique est une dermatose visage fréquente, chronique, atteignant les zones séborrhéiques du visage (sillons nasogéniens, sourcils, gabelle, lisière antérieure du cuir chevelu) liée à la prolifération d'une levure lipophile: *Malassezia furfur*
 - Le diagnostic de dermatite séborrhéique est clinique: plaques érythémateuses recouvertes de petites squames grasses des zones séborrhéiques, surtout chez l'homme
 - Aucun bilan n'est systématique
-- La prise en charge de la dermatite séborrhéique associe: ciclopirox olamine 2% crème x 2/j ou kétoconazole 2% gel moussant/crème x 2/semaine
+- La prise en charge de la dermatite séborrhéique associe: ciclopirox olamine 2 % crème x 2/j ou kétoconazole 2 % gel moussant/crème x 2/semaine
   - Mesures d'hygiène: éviction des facteurs déclenchants, toilette quotidienne au savon doux
   - Traitement d'attaque pendant 2 à 4 semaines
   - Traitement d'entretien 2 à 4 fois par mois au long cours
@@ -118,7 +118,7 @@ La prise en charge de la dermatite séborrhéique débute par un **traitement d'
 
 #### Visage et thorax
 
-Kétoconazole gel moussant ou crème 2% 2 fois par semaine pendant 4 semaines (si +12 ans)  
+Kétoconazole gel moussant ou crème 2 % 2 fois par semaine pendant 4 semaines (si +12 ans)  
 OU [ciclopirox olamine crème 1%](https://base-donnees-publique.medicaments.gouv.fr/medicament/63273126/extrait#tab-rcp) x 2/j pendant 4 semaines (tout âge)
 {.alert .alert-info}
 
@@ -131,13 +131,13 @@ Un [dermocorticoïde modéré]({{% relref "dermocorticoides.md" %}}) peut être 
 Shampooing antipelliculaire en alternance avec un shampooing doux.
 
 [Ciclopirox olamine](https://base-donnees-publique.medicaments.gouv.fr/medicament/64330943/extrait#tab-rcp) shampooing 1,5 % 2 à 3 fois par semaine  
-OU [kétoconazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/66227874/extrait#tab-rcp) (Ketoderm®, gén) gel moussant 2% 2 fois par semaine
+OU [kétoconazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/66227874/extrait#tab-rcp) (Ketoderm®, gén) gel moussant 2 % 2 fois par semaine
 {.alert .alert-info}
 
 **Effets indésirables:** prurit, sensation de brûlure, xérose cutanée, interactions médicamenteuses.  
 Seul le kétoconazole topique peut être utilisé [pendant la grossesse](https://www.lecrat.fr/7564/).
 
-Autres produits: gluconate de lithium 8% (Lithioderm®), climbazole shampooing, huile de cade (Caditar®), kéluamide, piroctone olamine (ex: *DOP antipelliculaire*), pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
+Autres produits: gluconate de lithium 8 % (Lithioderm®), climbazole shampooing, huile de cade (Caditar®), kéluamide, piroctone olamine (ex: *DOP antipelliculaire*), pyrithione zinc, sélénium sulfure (Selsun®), sélénium disulfure.
 
 ### Terrains particuliers
 
@@ -155,8 +155,8 @@ graph TB
   style suspicion stroke:#4150f5, stroke-width:1px
   suspicion -- Diagnostic différentiel --> differentiel(Psoriasis<br>Rosacée<br>Dermatite atopique<br>Syphilis)
   diagnostic --> scalp("Cuir chevelu<br>—<br>Ciclopirox shampooing 1%<br>OU kétoconazole gel 2%") --> attaque("<b>Phase d'attaque</b><br>Applications pluriquotidiennes<br>pendant 2 à 4 semaines")
-  diagnostic --> face("Face et tronc<br>—<br>Kétoconazole gel/crème 2% x 2/sem<br>OU ciclopirox crème 1% x 2/j") --> attaque
-  diagnostic --> grossesse("Grossesse<br>—<br>Kétoconazole<br>gel/crème<br>2% x 2/sem") --> attaque
+  diagnostic --> face("Face et tronc<br>—<br>Kétoconazole gel/crème 2 % x 2/sem<br>OU ciclopirox crème 1 % x 2/j") --> attaque
+  diagnostic --> grossesse("Grossesse<br>—<br>Kétoconazole<br>gel/crème<br>2 % x 2/sem") --> attaque
       attaque --> entretien("<b>Phase d'entretien</b><br>2 à 4 applications par mois")
         entretien -.-> severe("Sévère et résistant<br>—<br>Sérologie VIH<br>Avis dermatologique")
 {{< /mermaid >}}
@@ -173,7 +173,7 @@ graph TB
 - En cas d'atteinte du cuir chevelu
   - Un shampooing antipelliculaire peut être utilisé en alternance avec un shampooing doux
   - Essayer d'autres compositions en cas d'inefficacité (ciclopirox, pyrithione de zinc, sulfure de sélénium, piroctone olamine ...)
-  - Si inefficaces: essayer kétoconazole 2% ou ciclopirox 1% pendant 1 mois
+  - Si inefficaces: essayer kétoconazole 2 % ou ciclopirox 1 % pendant 1 mois
 
 {{% /collapse %}}
 {{%sources%}}

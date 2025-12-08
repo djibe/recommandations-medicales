@@ -169,12 +169,12 @@ Selon les *Annales de Dermato*, intérêt de rechercher systématiquement:
 {.alert .alert-info}
 
 - Première intention: métronidazole
-- 2^e^ intention: acide azélaïque 15% gel (Finacéa®) x 2/j pendant 3 mois
+- 2^e^ intention: acide azélaïque 15 % gel (Finacéa®) x 2/j pendant 3 mois
 
 Autres traitements:
 
-- [Ivermectine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/69444281/extrait#tab-rcp) x 1/j pendant 3 mois ou orale
-- Adapalène gel, peroxyde de benzoyle 5%, érythromycine 2% gel (voir [Acné]({{% relref "acne.md" %}}))
+- [Ivermectine 1 % crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/69444281/extrait#tab-rcp) x 1/j pendant 3 mois ou orale
+- Adapalène gel, peroxyde de benzoyle 5%, érythromycine 2 % gel (voir [Acné]({{% relref "acne.md" %}}))
 - Zinc oral 100 mg/j
 - Tétracycline orale
 - Spécialisés: laser, pimecrolimus, dapsone crème, minocycline crème (non disponibles en France), rétinoïdes, trétinoïne, isotrétinoïne
@@ -204,7 +204,7 @@ Isotrétinoïne envisageable seulement par le dermatologue.
 
 #### 2. Traitement d'entretien
 
-Métronidazole gel 0,75% (Rozex®, gén) x 1-2/j
+Métronidazole gel 0,75 % (Rozex®, gén) x 1-2/j
 {.alert .alert-info}
 
 > [!WARNING]

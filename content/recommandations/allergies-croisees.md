@@ -30,7 +30,7 @@ todo = ""
 
 Allergie croisée
 : Manifestation clinique d'allergie vis-à-vis de substances différentes en l'absence de sensibilisation préalable par un mécanisme immunologique IgE-médié.
-: 20-33% des populations européennes sont allergiques aux pollens de bouleau et de graminées. Sensibilisation aux fruits de 34-70 % en cas d'allergie au bouleau.
+: 20-33 % des populations européennes sont allergiques aux pollens de bouleau et de graminées. Sensibilisation aux fruits de 34-70 % en cas d'allergie au bouleau.
 
 {{% /collapse %}}
 {{%collapse "Principales allergies croisées" %}}
@@ -121,7 +121,7 @@ Consommation possible de poissons d'eau douce et d'aquaculture.
 {{% /collapse %}}
 {{%collapse "Allergènes de l'anaphylaxie" %}}
 
-66% des anaphylaxies sévères (registre 2002-2017) impliquent un allergène parmi (ordre de fréquence):
+66 % des anaphylaxies sévères (registre 2002-2017) impliquent un allergène parmi (ordre de fréquence):
 
 1. Fruits à coque (14,8%)
 2. Arachide

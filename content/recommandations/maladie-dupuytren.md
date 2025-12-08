@@ -31,7 +31,7 @@ todo = "flow"
 {{%collapse "Définition" %}}
 
 Maladie de Dupuytren (MDD)
-: Fibromatose génétique de l'aponévrose palmaire fréquente (3 à 5% en France), handicapante, touchant principalement les hommes de plus de 45 ans d'origine nordique (<< maladie des Vikings >>). La transmission est autosomique dominante à pénétrance variable et influencée par les toxiques (alcool, tabac) et certaines maladies (prévalence de 30 % au cours du diabète, épilepsie idiopathique).
+: Fibromatose génétique de l'aponévrose palmaire fréquente (3 à 5 % en France), handicapante, touchant principalement les hommes de plus de 45 ans d'origine nordique (<< maladie des Vikings >>). La transmission est autosomique dominante à pénétrance variable et influencée par les toxiques (alcool, tabac) et certaines maladies (prévalence de 30 % au cours du diabète, épilepsie idiopathique).
 
 ### Abréviations
 

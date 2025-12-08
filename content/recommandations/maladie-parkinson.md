@@ -110,7 +110,7 @@ Autres diagnostics à étayer devant un syndrome parkinsonien:
 
 - Incidence: 25.820/an (2020)
 - Prévalence: 1/380 avec 177.624 personnes traitées (2020)  
-  +65% sur la période 2010-2030 avec une augmentation de l'espérance de vie de 3 ans sur cette période.
+  +65 % sur la période 2010-2030 avec une augmentation de l'espérance de vie de 3 ans sur cette période.
 - Âge moyen au diagnostic pour une femme: 71,8 ans (cohorte E3N)
 - Sex-ratio H/F: 1,5
 - Sur-représentation des agriculteurs (+13 %), notamment viticulteurs
@@ -201,7 +201,7 @@ La triade classique est akinésie/bradykinésie, rigidité et tremblement de rep
   - Aggravé par le calcul et l'émotion
 - **Instabilité posturale** précoce
 - Dysautonomie  
-  Hypotension artérielle orthostatique (45% avec [chutes](/tags/chute/), lipothymies/malaises) et troubles urinaires (incontinence).
+  Hypotension artérielle orthostatique (45 % avec [chutes](/tags/chute/), lipothymies/malaises) et troubles urinaires (incontinence).
 - Symptômes non moteurs
   - Apathie, troubles de la motivation
   - Douleurs pseudo-rhumatismales (épaule, rachis) ou diverses (paresthésies, radiculalgies)

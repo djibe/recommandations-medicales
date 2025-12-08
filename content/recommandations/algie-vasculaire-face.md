@@ -228,7 +228,7 @@ La prise en charge et le traitement de l'algie vasculaire de la face pour les cr
 - Max 2 doses/24h (≥ 3 possibles par le spécialiste), espacées ≥ 1 heure
 - Essayer sur 3 crises différentes
 - Utilisation quotidienne possible sans accoutumance ou effet rebond à l'arrêt
-- Contrôle en 5-10 minutes, 75% de soulagement total à 20 minutes.
+- Contrôle en 5-10 minutes, 75 % de soulagement total à 20 minutes.
 
 **Effets indésirables:** douleur thoracique, paresthésies distales.
 

@@ -28,7 +28,7 @@ flowchart = true
 - L'examen clinique bien conduit est essentiel pour déterminer la cause de l'alopécie
 - Le bilan est ciblé lors de situations spécifiques
 - La prise en charge et le traitement de l'alopécie est surtout étiologique
-- Pour l'alopécie androgénétique: minoxidil 5% (2% chez la femme) avec conditions d'utilisation bien expliquées
+- Pour l'alopécie androgénétique: minoxidil 5 % (2 % chez la femme) avec conditions d'utilisation bien expliquées
 - L'avis dermatologique est systématique en cas de doute diagnostique ou d'absence de réponse à un traitement
 
 {{%/article-summary%}}
@@ -36,7 +36,7 @@ flowchart = true
 
 Alopécie
 : Raréfaction ou disparition des cheveux.
-: L'**alopécie androgénétique** (AAG) a une distribution typique. Elle est la première cause de chute des cheveux et atteint jusqu'à 80 % des hommes et 42% des femmes caucasiens. Les autres grandes causes d'alopécie sont l'effluvium télogène et la pelade.
+: L'**alopécie androgénétique** (AAG) a une distribution typique. Elle est la première cause de chute des cheveux et atteint jusqu'à 80 % des hommes et 42 % des femmes caucasiens. Les autres grandes causes d'alopécie sont l'effluvium télogène et la pelade.
 : L'alopécie peut être à l'origine d'une altération significative de la **qualité de vie**.
 
 ### Physiologie de la pousse des cheveux
@@ -173,8 +173,8 @@ Le finastéride (inhibiteur de la 5α-réductase) est sous [surveillance de l'AN
 
 Prise en charge de l'alopécie androgénique de la femme (efficacité mineure sauf minoxidil):
 
-- Minoxidil 2% 1 mL x 2/j  
-- Manque d'études pour: minoxidil 5% mousse x 1/j
+- Minoxidil 2 % 1 mL x 2/j  
+- Manque d'études pour: minoxidil 5 % mousse x 1/j
 - Greffe capillaire
 - Laser (max 6 mois)
 

@@ -54,7 +54,7 @@ Une BU négative a une VPN > 90 % (sauf nouveau-né, neutropénie ou sepsis). Le
 {{% /collapse %}}
 {{%collapse "Mesures générales pour le traitement des infections urinaires de l'enfant" %}}
 
-Les pyélonéphrites aiguës représentent 7% des épisodes fébriles avant 2 ans.
+Les pyélonéphrites aiguës représentent 7 % des épisodes fébriles avant 2 ans.
 
 ### Interrogatoire
 

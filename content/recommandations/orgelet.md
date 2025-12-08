@@ -52,9 +52,9 @@ Prise en charge de l'orgelet par un collyre ou une pommade antibiotique **pendan
 {{< table title="Antibiotiques en collyre pour le traitement d'un orgelet. Dr JB Fron d'après *BDPM*" >}}
 | Famille      | Spécialité  | Posologie |
 |--------------|-------------|-----------|
-| Acide fusidique | [fucithalmic 1% gel opht](https://base-donnees-publique.medicaments.gouv.fr/medicament/69088419/extrait#tab-rcp) | 1 gte x 2/j |
-| Cyclines*     | [aureomycine 1% pom opht](https://base-donnees-publique.medicaments.gouv.fr/medicament/65889234/extrait#tab-rcp) | 1 appli x 1-2/j |
-| Aminosides**  | [tobramycine 0,3% pom opht](https://base-donnees-publique.medicaments.gouv.fr/medicament/61621356/extrait#tab-rcp) | 1 appli x 2-3/j |
+| Acide fusidique | [fucithalmic 1 % gel opht](https://base-donnees-publique.medicaments.gouv.fr/medicament/69088419/extrait#tab-rcp) | 1 gte x 2/j |
+| Cyclines*     | [aureomycine 1 % pom opht](https://base-donnees-publique.medicaments.gouv.fr/medicament/65889234/extrait#tab-rcp) | 1 appli x 1-2/j |
+| Aminosides**  | [tobramycine 0,3 % pom opht](https://base-donnees-publique.medicaments.gouv.fr/medicament/61621356/extrait#tab-rcp) | 1 appli x 2-3/j |
 | Ansamycines**  | [rifamycine 1 MUI/100 mg pom opht](https://base-donnees-publique.medicaments.gouv.fr/medicament/68760013/extrait#tab-rcp) | 1 appli x 1-2/j |
 {{< /table >}}
 

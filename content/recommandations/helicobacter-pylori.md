@@ -178,7 +178,7 @@ La France est un pays de faible incidence d'*Helicobacter pylori*:
 
 - 15 à 30 % de la population serait infectée par l'*Helicobacter*  
   < 20 % avant 30 ans et > 50 % après 50 ans.
-- 10 % développent un ulcère et 1% un [cancer de l'estomac]({{% relref "cancer-estomac.md" %}}).
+- 10 % développent un ulcère et 1 % un [cancer de l'estomac]({{% relref "cancer-estomac.md" %}}).
 
 #### Antibiorésistance d'*H. pylori* en France en 2020
 

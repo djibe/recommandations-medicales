@@ -23,7 +23,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Une polyglobulie correspond à une hématocrite supérieure à 48% chez la femme et 52% chez l'homme
+- Une polyglobulie correspond à une hématocrite supérieure à 48 % chez la femme et 52 % chez l'homme
 - Une cause fréquente de polyglobulie après 50 ans est la maladie de Vaquez (syndrome myéloprolifératif par mutation JAK2)
 - L'examen clinique recherche une cause tumorale et des complications thrombotiques
 - En cas de persistance de la polyglobulie ou de symptômes, le bilan comporte: NFS, frottis sanguin, ferritinémie, bilan rénal et hépatique, calcémie, EPO
@@ -34,7 +34,7 @@ flowchart = true
 {{%collapse "Définition" %}}
 
 Polyglobulie (ou érythrocytose)
-: Hématocrite supérieure à 48% chez la femme et 52% chez l'homme.
+: Hématocrite supérieure à 48 % chez la femme et 52 % chez l'homme.
 : Une cause fréquente de polyglobulie après 50 ans est la **maladie de Vaquez**.
 
 Polyglobulie essentielle
@@ -127,7 +127,7 @@ Ne pas réaliser d'examens complémentaires en cas de polyglobulie secondaire bi
 
 La prise en charge de la polyglobulie est avant tout étiologique (hématologique, respiratoire, néphrologique ...).
 
-Au cours de la **maladie de Vaquez**, une hématocrite < 45% est ciblée. Le traitement est spécialisé et associe:
+Au cours de la **maladie de Vaquez**, une hématocrite < 45 % est ciblée. Le traitement est spécialisé et associe:
 
 - Saignées de 200-500 mL
 - Aspirine 75-100 mg/j

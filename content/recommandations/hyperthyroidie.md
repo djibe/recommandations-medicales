@@ -41,7 +41,7 @@ Chapitres liés: [nodule thyroïdien]({{% relref "nodule-thyroidien.md" %}}), [h
 Hyperthyroïdie
 : Dysfonctionnement thyroïdien consistant en une sécrétion excessive d'hormones thyroïdiennes atteignant principalement les femmes (7/1). Le syndrome de **thyrotoxicose** est la conséquence clinique de l'excès d'hormones thyroïdiennes dans les tissus cibles.
 : 70 % des hyperthyroïdies sont dues à la **maladie de Basedow**, suivie par les **goitre multinodulaire toxique** (GMNT) et l'**adénome toxique** (AT) dont la prévalence augmente avec l'âge. Ces 2 derniers ne nécessitent pas toujours un traitement radical et peuvent être révélés de façon brutale par une cardiothyréose après injection de produit de contraste iodé.  
-La *thyrotoxicose gestationnelle* survient durant 2% des grossesses.
+La *thyrotoxicose gestationnelle* survient durant 2 % des grossesses.
 : L'hyperthyroïdie centrale (*ex* adénome thyréotrope) est rare.
 
 Hyperthyroïdie avérée
@@ -272,7 +272,7 @@ Avis ophtalmologique urgent si:
 - Orbitopathie sévère (ou maligne)  
   Baisse de l'acuité visuelle, dyschromatopsie, subluxation oculaire ou inocclusion palpébrale.
 - [Dénutrition sévère]({{% relref "denutrition.md" %}}) du sujet âgé  
-  IMC < 20, amaigrissement ≥ 10 % en 1 mois (15% en 6 mois ou par rapport au début de la maladie) ou albuminémie < 30 g/L.
+  IMC < 20, amaigrissement ≥ 10 % en 1 mois (15 % en 6 mois ou par rapport au début de la maladie) ou albuminémie < 30 g/L.
 {{%/warning%}}
 
 {{% /collapse %}}

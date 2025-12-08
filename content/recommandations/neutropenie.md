@@ -41,7 +41,7 @@ modele = true
 
 Neutropénie
 : Polynucléaires neutrophiles inférieurs à 1,5 G/L (1500/mm³) chez l'adulte ou l'enfant de plus de 3 mois. La neutropénie est **profonde en-dessous de 0,5 G/L**, **sévère en cas de symptômes** (infections, aphtes ou parodontopathie) ou **bénigne** en leur absence. Elle est dite **chronique** lorsqu'elle persiste plus de 3 mois.
-: La prévalence de la neutropénie est de 1 à 2% en population générale; sa fréquence augmente selon certaines origines géographiques, notamment Africaine.
+: La prévalence de la neutropénie est de 1 à 2 % en population générale; sa fréquence augmente selon certaines origines géographiques, notamment Africaine.
 : Le dosage de l'hémogramme est réalisé sur les polynucléaires neutrophiles (PNN) circulants et peut être faussé par le stress, la digestion, l'activité physique, le tabagisme et les corticoïdes. Le nombre fluctue du fait du changement de secteur des PNN (circulant, marginé, médullaire), nécessitant de répéter les hémogrammes.
 : Le risque d'une neutropénie est essentiellement infectieux: infection bactérienne ou mycosique (cutanéo-muqueuse, ORL et pulmonaire surtout). Ce risque est avant tout déterminé par l'étiologie de la neutropénie, sa durée et l'altération des barrières muqueuses, bien plus que par le chiffre absolu de PNN.
 : En cas de neutropénie, la réaction inflammatoire est réduite avec l'**absence de pus** et l'évolution est **nécrosante**.

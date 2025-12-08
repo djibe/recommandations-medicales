@@ -35,7 +35,7 @@ todo = "photo > flow | HASp1 | hospi sous contrainte | Coder MDQ"
 {{%collapse "Définition" %}}
 
 Trouble bipolaire
-: Trouble de l'humeur chronique, débutant entre 15 et 25 ans, avec alternance d'épisode(s) maniaque(s) ou hypomaniaque(s) et surtout des épisodes dépressifs similaires avec intervalles libres. Pathologie psychiatrique parmi les plus sévères, il atteint 1 à 4% de la population.
+: Trouble de l'humeur chronique, débutant entre 15 et 25 ans, avec alternance d'épisode(s) maniaque(s) ou hypomaniaque(s) et surtout des épisodes dépressifs similaires avec intervalles libres. Pathologie psychiatrique parmi les plus sévères, il atteint 1 à 4 % de la population.
 : Les complications sont celles des troubles de l'humeur, avec risque suicidaire très élevé (50 % de tentatives, mortalité x 2,6) et de lourdes conséquences psychosociales. Le traitement est démarré en moyenne après 10 ans d'évolution. Les cohortes mesurent 0,44 épisode bipolaire par an.
 : Les comorbidités sont fréquentes: psychiatriques (troubles anxieux, addictions) et cardiométaboliques (obésité, hyperlipidémie, coronaropathie, BPCO, dysthyroïdie).
 

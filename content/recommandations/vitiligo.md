@@ -124,8 +124,8 @@ Recommandations concernant les mesures générales de prise en charge du vitilig
 Traitements disponibles pour la prise en charge dermatologique du vitiligo:
 
 - **Traitements locaux**
-  - {{< modal-btn modal-dc >}}Dermocorticoïde fort ou très fort{{< /modal-btn >}} ou tacrolimus 0,1% x 2/j (hors AMM). Sauf péri-oculaire.
-  - Ruxolitinib (Opzelura®) 1,5% crème (délivrance hospitalière, remboursement à 100 %)
+  - {{< modal-btn modal-dc >}}Dermocorticoïde fort ou très fort{{< /modal-btn >}} ou tacrolimus 0,1 % x 2/j (hors AMM). Sauf péri-oculaire.
+  - Ruxolitinib (Opzelura®) 1,5 % crème (délivrance hospitalière, remboursement à 100 %)
 - **Photothérapie UVB** + bétaméthasone 0,1 mg/kg x 2/sem voire PUVA thérapie en deuxième intention.
 - Laser (± 5-fluorouracil)  
   Dépigmentation de zones restantes.

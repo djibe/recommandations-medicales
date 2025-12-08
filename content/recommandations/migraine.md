@@ -50,8 +50,8 @@ Origine génétique et environnementale avec altération très importante de la 
 : Dite **migraine épisodique** avec < 15 jours/mois, **chronique** au-delà depuis > 3 mois.
 : **Migraine sévère:** crises fréquentes (≥ 8 jours/mois) OU {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 OU intensité impose un arrêt total des activités pour ≥ 50 % des épisodes.
 : **Migraine résistante:** échec de 3 traitements de fond bien conduits. Dite **réfractaire** quand aucun ne fonctionne.
-: 30-45% des migraineux Français n'ont jamais consulté, ignorent leur diagnostic et les traitements existants.  
-90 % devraient être soulagés en soins primaires, 1% suivis en centre spécialisé.
+: 30-45 % des migraineux Français n'ont jamais consulté, ignorent leur diagnostic et les traitements existants.  
+90 % devraient être soulagés en soins primaires, 1 % suivis en centre spécialisé.
 
 Migraine avec aura
 : *ex migraine accompagnée*.  
@@ -88,11 +88,11 @@ SFEMC
 
 ### Épidémiologie des migraines
 
-- **Prévalence:** 14% des adultes en Europe (18-50 ans ++), 75% de femmes  
-  France: 21,3% des adultes remplissent les critères de la migraine ICHD-3.
+- **Prévalence:** 14 % des adultes en Europe (18-50 ans ++), 75 % de femmes  
+  France: 21,3 % des adultes remplissent les critères de la migraine ICHD-3.
 - 2^e^ maladie la plus importante responsable d'*années vécues avec une incapacité* (AVI, *OMS 2016*)
 - 50 % ont au moins 2 crises par mois; 40 % ont durée +24h; 50 % ont intensité sévère à très sévère
-- La prise en charge par les généralistes est déficiente (28% sans triptans, 1/3 sans AINS et le traitement de fond rare -- *[Lucas C et al 2024](https://www.sciencedirect.com/science/article/abs/pii/S0035378724000845)*)
+- La prise en charge par les généralistes est déficiente (28 % sans triptans, 1/3 sans AINS et le traitement de fond rare -- *[Lucas C et al 2024](https://www.sciencedirect.com/science/article/abs/pii/S0035378724000845)*)
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}

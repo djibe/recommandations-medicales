@@ -32,14 +32,14 @@ flowchart = true
 {{%collapse "Définition" %}}
 
 Cancer du testicule
-: Tumeur maligne développée aux dépends du testicule et de bon pronostic (95% de **tumeurs germinales**, séminomateuses ou non). Il est peu fréquent (2200 cas/an) et atteint surtout l'homme jeune (85% entre 15 et 49 ans).
+: Tumeur maligne développée aux dépends du testicule et de bon pronostic (95 % de **tumeurs germinales**, séminomateuses ou non). Il est peu fréquent (2200 cas/an) et atteint surtout l'homme jeune (85 % entre 15 et 49 ans).
 : Les principaux facteurs de risque de cancer du testicule sont les antécédents de [cryptorchidie]({{% relref "cryptorchidie.md" %}}) (x 5-10), de cancer testiculaire controlatéral et les antécédents familiaux de cancer du testicule.
 : Complications du cancer testiculaire: [infertilité]({{% relref "infertilite-couple.md" %}}), métastases (lombo-aortiques puis poumon > foie, cerveau, os).
 
 ### Épidémiologie du cancer du testicule
 
 - Incidence annuelle: 2200 cas
-- Survie à 5 ans: 99% pour une forme localisée et 70 % si métastatique
+- Survie à 5 ans: 99 % pour une forme localisée et 70 % si métastatique
 
 ### Abréviations
 

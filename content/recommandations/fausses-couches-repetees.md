@@ -33,7 +33,7 @@ todo = "flow"
 {{%collapse "Définition" %}}
 
 Fausses couches répétées
-: Au moins 2 fausses couches spontanées (FCS, perte avant 24 SA). Elles atteignent 1 à 2% des femmes.
+: Au moins 2 fausses couches spontanées (FCS, perte avant 24 SA). Elles atteignent 1 à 2 % des femmes.
 
 > Le risque de fausse couche est au plus bas entre 20 et 35 ans. Il augmente rapidement après 40 ans.
 

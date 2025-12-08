@@ -45,7 +45,7 @@ Hypothyroïdie
 : Définition biologique de l'hypothyroïdie avérée: ==TSH > 10 mUI/L et T4L < intervalle de référence du laboratoire==.
 : Les principales causes sont auto-immunes (thyroïdite chronique lymphocytaire dont maladie de Hashimoto avec goitre et anticorps anti-TPO) et iatrogène (médicament, radiothérapie).
 : On la distingue de l'**[hypothyroïdie fruste ou infraclinique]({{% relref "hypothyroidie-fruste.md" %}})** où la **TSH est élevée de façon isolée** (la T4L est dans l'intervalle) à 2 reprises espacées d'au moins 6 semaines.
-: L'hypothyroïdie atteint 1 à 2% de la population, dont ⅔ de femmes et 10 % des sujets âgés.
+: L'hypothyroïdie atteint 1 à 2 % de la population, dont ⅔ de femmes et 10 % des sujets âgés.
 
 ### Facteurs favorisants l'hypothyroïdie
 
@@ -63,7 +63,7 @@ Pathologies responsables d'hypothyroïdie, le plus souvent par insuffisance thyr
   - Goitre constant, diffus, volume modéré, ferme, souvent indolore et non compressif, pseudo-nodulaire
   - Anticorps anti-TPO à taux élevés et aspect échographiques caractéristiques
   - Aggravation progressive avec diminution du volume de la glande et du taux des anticorps
-  - Favorise la [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (dépister systématiquement) et le [lymphome thyroïdien]({{% relref "lymphomes-non-hodgkiniens.md" %}}) (< 1% des cas)
+  - Favorise la [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (dépister systématiquement) et le [lymphome thyroïdien]({{% relref "lymphomes-non-hodgkiniens.md" %}}) (< 1 % des cas)
 - Thyroïdite chronique
   - Souvent asymptomatique, euthyroïdie
   - Taux élevé d'anticorps circulants, parenchyme hétérogène
@@ -84,7 +84,7 @@ Pathologies responsables d'hypothyroïdie, le plus souvent par insuffisance thyr
   - Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le 2e mois post-partum (reprise rapide du poids normal, nervosité)
 - Autres causes
   - Hypothyroïdie centrale (hypothyroïdie secondaire par **insuffisance thyréotrope**)  
-    T4L basse avec TSH anormalement basse ou normale. Rare (< 5% des hypothyroïdies), contexte hypophysaire ou cérébral.
+    T4L basse avec TSH anormalement basse ou normale. Rare (< 5 % des hypothyroïdies), contexte hypophysaire ou cérébral.
   - Iatrogène  
     Médicaments ou traitement thyroïdien par iode 131, thyroïdectomie et radiothérapie cervicale.
   - [Hémochromatose]({{% relref "hemochromatose.md" %}})
@@ -345,7 +345,7 @@ Une origine centrale est très rare et cliniquement moins sévère que lors de c
 
 Les autres axes hormonaux sont perturbés.
 
-Diagnostic confirmé si TSH normale (85% des cas), élevée (10%) voire basse avec une T4L basse.
+Diagnostic confirmé si TSH normale (85 % des cas), élevée (10%) voire basse avec une T4L basse.
 
 Cause hypothalamique ou hypophysaire le plus souvent tumorale ou iatrogène (chirurgie, radiothérapie, inhibiteur tyrosine kinase).
 

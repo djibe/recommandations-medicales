@@ -47,7 +47,7 @@ Mpox (Monkeypox ou variole du singe)
 : Maladie infectieuse liée virus Mpox (MPXV, orthopoxvirus). Contamination directe par muqueuse ou peau lésée ou gouttelettes. Contamination également possible par literie, vêtements, vaisselle, linge de bain ...  
 Les zones d'endémie sont les zones forestières d'Afrique du Centre et de l'Ouest avec contamination par des rongeurs sauvages ou des primates (zoonose) puis dans le foyer familial.
 : Complications de la variole du singe: surinfection cutanées bactériennes, infections respiratoires basses, sepsis, encéphalite, kératites, ou gastro-intestinales avec pertes liquidiennes (*HCSP mai 2022*).
-: 5002 cas confirmés en France au 27 avril 2023, à 96% des [HSH]({{% relref "hsh.md" %}}) sans aucun décès en France.
+: 5002 cas confirmés en France au 27 avril 2023, à 96 % des [HSH]({{% relref "hsh.md" %}}) sans aucun décès en France.
 
 Cas suspect de Mpox
 : Signes cliniques uniquement: éruption cutanée ou ulcération(s) de la muqueuse génitale, anale ou buccale, évocatrice de Mpox, isolée ou précédée ou accompagnée d'une fièvre mesurée (> 38°C) ou sensation de fièvre, d'adénopathies ou d'une odynophagie. Bilan par test qPCR ou RT-PCR et déclaration obligatoire si positif.

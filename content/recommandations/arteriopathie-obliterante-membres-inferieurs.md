@@ -37,7 +37,7 @@ todo = "rankok, centres réadapt vasculaire, QDV EQ-5D, association patient, htt
 Artériopathie oblitérante des membres inférieurs (AOMI)
 : Obstruction athéromateuse partielle ou totale des artères des membres inférieurs, le plus souvent asymptomatique.
 : Les facteurs majeurs d'artérite sont: âge, tabac, [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), dyslipidémie et [diabète]({{% relref "diabete-type-2.md" %}}).
-: 3 stades: asymptomatique (20-50%), ischémie d'effort (45%, dont seulement 10-35% de claudication typique) et ischémie de repos (ou *critique*, < 5%).
+: 3 stades: asymptomatique (20-50%), ischémie d'effort (45%, dont seulement 10-35 % de claudication typique) et ischémie de repos (ou *critique*, < 5%).
 : Patients à {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}} par atteinte artérielle globale:
     - [Coronaropathie (50%) et infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}) (IDM)
     - [Accident vasculaire cérébral]({{% relref "accident-vasculaire-cerebral.md" %}})
@@ -63,7 +63,7 @@ Blue toe syndrome
   15-20 % après 70 ans.
 - Complications à 5 ans:
   - 20 % des personnes avec une claudication ont eu un AVC ou un infarctus du myocarde
-  - 10 à 15% sont morts
+  - 10 à 15 % sont morts
 
 ### Abréviations
 
@@ -295,7 +295,7 @@ Prise en charge de l'artériopathie (AOMI): Suivi cardiologique spécialisé, tr
 - Si diabète
   - PAD cible < 85 mmHg
   - {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}} (*SFD 2019*, *SFMV 2020*)
-  - ≤ 8% si comorbidité sévère ou espérance de vie < 5 ans
+  - ≤ 8 % si comorbidité sévère ou espérance de vie < 5 ans
   - AOMI symptomatique: envisager rivaroxaban 2,5 mg x 2/j + aspirine 100 mg/j (*ESC 2021 CVD*)
 - [ALD n°3]({{% relref "affection-longue-duree.md" %}})  
   Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant nécessité revascularisation ou amputation.

@@ -43,7 +43,7 @@ Testicule oscillant ou << testicule ascenseur >>
 
 ### Épidémiologie de la cryptorchidie
 
-- Prévalence: 2 à 4% des nouveaux-nés, 1% des garçons à 1 an, 20 à 30 % des prématurés
+- Prévalence: 2 à 4 % des nouveaux-nés, 1 % des garçons à 1 an, 20 à 30 % des prématurés
 - L'atteinte est bilatérale dans 20 % des cas
 
 {{% /collapse %}}
@@ -99,7 +99,7 @@ Surveillance annuelle des **testicules oscillants** (30 % nécessiteront une int
 - Hospitalisation courte (1-2 jours)
 - Éviter piscine et vélo pendant 15 jours
 - Nécessite toujours une surveillance spécialisée à distance  
-  Atrophie testiculaire secondaire dans 1-2% des cas à 6-12 mois post-chirurgie.
+  Atrophie testiculaire secondaire dans 1-2 % des cas à 6-12 mois post-chirurgie.
 - Pose de prothèse à la puberté
 
 ### Information des parents d'un garçon cryptorchide

@@ -152,7 +152,7 @@ L'intervalle de surveillance proposé par le consensus ECCO est de 3 à 6 mois, 
 
 En cas de coloscopie normale, une exploration de l'intestin grêle est nécessaire, soit par VCE, soit par entéro-IRM, soit par échographie
 
-Il est également important d'évaluer la cicatrisation muqueuse avant toute désescalade ou arrêt de traitement. En effet, il a été mis en évidence que le taux de rechute à 1 an après l'arrêt des anti-TNF était de 42%, et que ce taux baissait à 26% si la rémission endoscopique avait été obtenue au préalable.
+Il est également important d'évaluer la cicatrisation muqueuse avant toute désescalade ou arrêt de traitement. En effet, il a été mis en évidence que le taux de rechute à 1 an après l'arrêt des anti-TNF était de 42%, et que ce taux baissait à 26 % si la rémission endoscopique avait été obtenue au préalable.
 
 
 

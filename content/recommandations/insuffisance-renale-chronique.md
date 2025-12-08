@@ -101,8 +101,8 @@ RCV
 
 9500 nouveaux dialysés par an, augmentation de 4%/an, liés aux facteurs de risque cardiovasculaires: [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) et **diabète** pour la moitié des cas.
 
-Fin 2018: 89.692 malades en suppléance (55% dialyse et 45% greffés).  
-4 milliards d'euros annuels (82% pour la dialyse).
+Fin 2018: 89.692 malades en suppléance (55 % dialyse et 45 % greffés).  
+4 milliards d'euros annuels (82 % pour la dialyse).
 
 {{< card-link-external title="Dépenses liées à la dialyse" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Insuffisance%20r%C3%A9nale%20chronique%20terminale&refine.patho_niv2=Dialyse%20chronique">}}
 
@@ -228,7 +228,7 @@ Recherche de signes étiologiques et du retentissement de la maladie rénale:
 La maladie rénale est considérée comme évolutive en cas de présence de facteur ci-dessous (déclin annuel rapide du DFG, différence entre 2 annnées calculé par: DFGe année n - DFGe année n+1)
 
 - {{%class%}}Déclin annuel modéré si ≥ 2 et < 5{{%/class%}}
-- [Score KFRE > 3% à 5 ans](https://kidneyfailurerisk.com)
+- [Score KFRE > 3 % à 5 ans](https://kidneyfailurerisk.com)
 - **Déclin rapide** si variation annuelle du DFG ≥ -5 mL/min/1,73m²
 - Présence d'une albuminurie (surtout si sévère > 500 mg/g)
 - Hypertension artérielle non contrôlée
@@ -343,7 +343,7 @@ Mesures précédentes avec les particularités suivantes chez la personne vivant
 - Albuminurie cible < 3 mg/mmol
   - Contrôle par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} + anti-aldostérone finérénone (Karendia®, pas encore disponible) si non contrôlée (si DFG ≥ 25 et kaliémie normale)
   - Albuminurie et normotension: considérer {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}
-- {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}} (8% si IRC sévère ou terminale)
+- {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}} (8 % si IRC sévère ou terminale)
 - Suivi diabétologique impératif
 - Traitements hypoglycémiants préférentiels: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}} voire {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}
 - Attention au risque hypoglycémique: sulfamide, glinide, insuline

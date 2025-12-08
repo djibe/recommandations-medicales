@@ -45,7 +45,7 @@ Polyneuropathie diabétique douloureuse (NDD)
 : Le diagnostic est clinique: caractères neuropathiques et atteinte des petites fibres (diminution de la perception de la piqûre et/ou chaud/froid), allodynie au tact ou au frottement. Pas d'intérêt de l'EMG sauf forme atypique. Atteinte des grosses fibres plus tardive.
 : Elle doit être différenciée de la polyneuropathie chronique sensitivo-motrice (PCSM) distale des grosses fibres, symétrique et peu symptomatique objectivée par le test au monofilament 10g (+ diapason et coton) qui est un marqueur de pied à risque.
 : L'amélioration de l'équilibre glycémique n'améliore pas les douleurs neuropathiques.
-: Prévalence: 20 % en DT2, 5% en DT1
+: Prévalence: 20 % en DT2, 5 % en DT1
 
 Allodynie
 : Douleurs provoquées par une stimulation normalement non douloureuse.

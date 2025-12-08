@@ -38,7 +38,7 @@ Vertige positionnel paroxystique bénin
 : Pathologie fréquente (17 à 42 % des consultations pour [vertiges](/tags/vertige/)) de l'oreille interne définie par l'apparition d'un vertige induit par un changement de position de la tête, avec des caractéristiques cliniques rigoureuses (notamment absence de lésion vestibulaire ou neurologique).  
 L'atteinte peut être bilatérale et atteindre plusieurs canaux semi-circulaires en même temps. Le VPPB survient surtout à un âge moyen.
 : Le pronostic est favorable mais les vertiges peuvent altérer la **qualité de vie** d'autant plus que la durée de cet épisode est imprévisible.
-: Le consensus s'accorde sur la responsabilité d'une canalolithiase d'un canal semi-circulaire (postérieur dans 85-95% des cas) pour la survenue de ces vertiges. Il est le plus souvent **idiopathique** (70%) mais parfois secondaire à un traumatisme crânien (20%) ou à certaines pathologies de l'oreille interne (10 % avec **névrite vestibulaire** ou [Maladie de Menière]({{% relref "maladie-meniere.md" %}})).
+: Le consensus s'accorde sur la responsabilité d'une canalolithiase d'un canal semi-circulaire (postérieur dans 85-95 % des cas) pour la survenue de ces vertiges. Il est le plus souvent **idiopathique** (70%) mais parfois secondaire à un traumatisme crânien (20%) ou à certaines pathologies de l'oreille interne (10 % avec **névrite vestibulaire** ou [Maladie de Menière]({{% relref "maladie-meniere.md" %}})).
 
 ### Abréviations
 
@@ -198,7 +198,7 @@ Ordonnance: Bilan-diagnostic kinésithérapique, manœuvres thérapeutiques pour
 La prise en charge du VPPB par des manœuvres est indiquée en cas de vertiges prolongés, invalidants ou chez les personnes à risque de chute. Elles peuvent toutefois aggraver transitoirement les symptômes.
 
 - VPPB du canal semi-circulaire postérieur  
-  Manœuvre de repositionnement des otolithes (*Manœuvre d'Epley*) ou *manœuvre libératoire de Semont* (60 % de guérison, 90-98% en manœuvres répétées).
+  Manœuvre de repositionnement des otolithes (*Manœuvre d'Epley*) ou *manœuvre libératoire de Semont* (60 % de guérison, 90-98 % en manœuvres répétées).
 - VPPB du canal semi-circulaire horizontal  
   Manœuvre de Lempert et Tiel-Wilck ou la manœuvre de Gufoni et al.
 - VPPB du canal semi-circulaire antérieur  

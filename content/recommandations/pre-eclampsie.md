@@ -23,7 +23,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- La pré-éclampsie est une hypertension artérielle gravidique (≥ 140 et/ou 90 mmHg apparaissant après 20 SA) avec protéinurie ≥ 0,3 g/24h qui survient durant 1 à 2% des grossesses
+- La pré-éclampsie est une hypertension artérielle gravidique (≥ 140 et/ou 90 mmHg apparaissant après 20 SA) avec protéinurie ≥ 0,3 g/24h qui survient durant 1 à 2 % des grossesses
 - La pré-éclampsie (PE) est une urgence diagnostique et thérapeutique
 - Rechercher des signes de gravité et de sévérité devant faire appeler le SAMU
 - La prévention de la pré-éclampsie passe par la surveillance de la pression artérielle et de la bandelette urinaire à chaque consultation de grossesse  
@@ -37,7 +37,7 @@ Chapitre liés: [grossesse]({{% relref "grossesse.md" %}}), [hypertension artér
 Pré-éclampsie (ou prééclampsie)
 : **Hypertension artérielle gravidique** (≥ 140 et/ou 90 mmHg apparaissant après 20 SA) avec **protéinurie** ≥ 0,3 g/24h nécessitant une hospitalisation. La délivrance du placenta est le seul traitement étiologique.
 : Elle est dite **précoce** avant 32 SA.
-: Elle atteint 1 à 2% des femmes enceintes. Les formes sévères peuvent entraîner le décès maternel et/ou fœtal.
+: Elle atteint 1 à 2 % des femmes enceintes. Les formes sévères peuvent entraîner le décès maternel et/ou fœtal.
 
 Éclampsie
 : Crise convulsive généralisée survenant chez la femme enceinte ayant une hypertension gravidique. Elle est le plus souvent imprévisible.
@@ -68,7 +68,7 @@ Pré-éclampsie (ou prééclampsie)
 
 ### Épidémiologie de la pré-éclampsie en France
 
-- Prévalence de la pré-éclampsie: 1 à 2% des grossesses
+- Prévalence de la pré-éclampsie: 1 à 2 % des grossesses
 - 10 % évoluent vers une pré-éclampsie sévère
 - L'incidence a diminué de 50 % sur la période 2010-2020  
   Ratio 0,5/100.000 naissances vivantes (2010-2012).

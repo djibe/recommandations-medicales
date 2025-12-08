@@ -140,9 +140,9 @@ VEMS
 Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 
 - **Prévalence du syndrome d'apnées du sommeil**  
-  - US: 14% des hommes et 9% des femmes (*Peppard AJE 2013*) et jusqu'à 50 % des hommes adultes (*Heinzer 2015*)
-  - France: 4% de la population (*HAS*)
-  - 1 à 4% des enfants
+  - US: 14 % des hommes et 9 % des femmes (*Peppard AJE 2013*) et jusqu'à 50 % des hommes adultes (*Heinzer 2015*)
+  - France: 4 % de la population (*HAS*)
+  - 1 à 4 % des enfants
 - ==82 % des hommes et 92 % des femmes ne sont pas diagnostiqués==
 - 60 % des SAHOS modérés à sévères sont attribuables au surpoids
 - De 18 à 53 % des diabétiques ont un SAHOS modéré à sévère

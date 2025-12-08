@@ -47,7 +47,7 @@ Articles liés: [directives anticipées]({{% relref "directives-anticipees.md" %
 | Éruption cutanée | Éviter l'exposition solaire, cs médicale | INCa TODO: |
 | Fièvre        | Injection préventive de G-CSF. Si fébrile ≥ 38,5°C: NFS  | INCa TODO: |
 | Gastralgies   | Anti-acide ou anti-reflux | INCa TODO: |
-| Mucite        | - Hygiène bucco-dentaire<br>- Bicarbonate bain de bouche 1,4% x 5-6/j<br>- Antalgiques locaux ± systémiques<br>- Mycose: antifongiques | INCa TODO: |
+| Mucite        | - Hygiène bucco-dentaire<br>- Bicarbonate bain de bouche 1,4 % x 5-6/j<br>- Antalgiques locaux ± systémiques<br>- Mycose: antifongiques | INCa TODO: |
 | Myalgies        | Antalgie | INCa TODO: |
 | Nausées, vomissements | Antiémétiques systématiques avant et après | INCa TODO: |
 | Neuropathie périphérique | - [Douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}}), {{< modal-btn modal-score-dn4 >}}échelle DN4{{< /modal-btn >}}<br>- Adaptation du protocole: réduction des doses voire arrêt<br>- Traitement spécifique (cf chapitre DN) | INCa TODO: |

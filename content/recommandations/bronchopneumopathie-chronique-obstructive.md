@@ -136,7 +136,7 @@ VEMS
 ### Épidémiologie de la bronchopneumopathie chronique obstructive
 
 - 3^e^ cause mondiale de décès (*OMS*): 3,23 millions de décès (2019)
-- 6% des dépenses de santé européennes
+- 6 % des dépenses de santé européennes
 - USA: coût estimé de 52,4 milliards $ annuels (32 directs + 20,4 indirects)
 
 #### Épidémiologie de la BPCO en France
@@ -146,14 +146,14 @@ Un seul marqueur de prise en charge optimale de la BPCO sur 7 dépasse le seuil 
 
 - Prévalence: 7-10 % des 40-64 ans (3,5 millions en 2010)
 - Hospitalisations: 100-160.000/an (2017)  
-  22,5% des patients hospitalisés ont été ré-hospitalisés.
+  22,5 % des patients hospitalisés ont été ré-hospitalisés.
 - Décès: 18.000/an
 - Coût moyen: de 7628 € à 20.747 €  
   Coût annuel moyen respectif d'un patient avec BPCO légère et oxygénorequérant.
 - Sous-diagnostic: 70 % ne seraient pas diagnostiqués
 - 80 % des cas dus au tabac
-- Méconnaissance: 22% des Français ont déjà entendu parler de BPCO (*[SPF 2017](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)*) parmi lesquels seulement 1/3 cite le tabac comme cause.
-- **Excès de corticothérapie inhalée**: 70 % des patients dont 35% chez GOLD A et B (*SPLF 2021*)
+- Méconnaissance: 22 % des Français ont déjà entendu parler de BPCO (*[SPF 2017](http://beh.santepubliquefrance.fr/beh/2018/35-36/2018_35-36_3.html)*) parmi lesquels seulement 1/3 cite le tabac comme cause.
+- **Excès de corticothérapie inhalée**: 70 % des patients dont 35 % chez GOLD A et B (*SPLF 2021*)
 
 {{% /collapse %}}
 {{%collapse "Dépistage de la BPCO" %}}
@@ -387,7 +387,7 @@ Joindre le courrier détaillé des traitements en cours, contexte social, dernie
 - Avis pneumologique
   - Urgent si: suspicion de germe résistant, récidive d'exacerbation, nébulisations
   - Réévaluation systématique à distance de l'exacerbation
-- Si oxygénothérapie ambulatoire: cible SpO~2~ 88-92% (surveillance des gaz du sang)
+- Si oxygénothérapie ambulatoire: cible SpO~2~ 88-92 % (surveillance des gaz du sang)
 
 Si récupération incomplète: spirométrie à 3 mois.
 
@@ -542,9 +542,9 @@ Envisager une oxygénothérapie de longue durée si:
 - [Polyglobulie]({{% relref "polyglobulie.md" %}})
 - Signes d'insuffisance cardiaque droite  
   {{< clinique/insuffisance-cardiaque-droite >}}
-- SpO~2~ ≤ 92% en air ambiant (*GOLD 2025*)
-  - PaO~2~ ≤ 55 mmHg ou SaO~2~ ≤ 88% confirmée à 2 reprises sur 3 semaines
-  - PaO~2~ 55-60 mmHg ou SaO~2~ ≤ 88% avec [HTAP]({{% relref "hypertension-arterielle-pulmonaire.md" %}}), insuffisance cardiaque droite ou polyglobulie (hématocrite > 55%)
+- SpO~2~ ≤ 92 % en air ambiant (*GOLD 2025*)
+  - PaO~2~ ≤ 55 mmHg ou SaO~2~ ≤ 88 % confirmée à 2 reprises sur 3 semaines
+  - PaO~2~ 55-60 mmHg ou SaO~2~ ≤ 88 % avec [HTAP]({{% relref "hypertension-arterielle-pulmonaire.md" %}}), insuffisance cardiaque droite ou polyglobulie (hématocrite > 55%)
 
 > -- *HAS 2019*
 

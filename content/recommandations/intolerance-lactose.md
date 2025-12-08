@@ -44,7 +44,7 @@ Intolérance au lactose
 Prévalence mondiale disparate, une sélection critique semble avoir eu lieu en Europe du Nord.
 
 - Prévalence mondiale: 57-65%
-- Europe 28% (Scandinavie 2% et Italie du Sud 70%), Amérique 50%, Asie 70%, Afrique 100%
+- Europe 28 % (Scandinavie 2 % et Italie du Sud 70%), Amérique 50%, Asie 70%, Afrique 100%
 - USA: blanc 15%, mexicain 53%, afro-américain 80%
 
 {{% /collapse %}}
@@ -85,7 +85,7 @@ Autres signes:
 
 Non remboursé en France.
 
-Mesure de l'hydrogène exhalé à jeun puis après ingestion de 25-50g de lactose toutes les 15 minutes pendant 3-6 heures (18,5% de FN si arrêt à H3).  
+Mesure de l'hydrogène exhalé à jeun puis après ingestion de 25-50g de lactose toutes les 15 minutes pendant 3-6 heures (18,5 % de FN si arrêt à H3).  
 Une augmentation de la concentration en hydrogène exhalé de 20 ppm par rapport à la ligne de base valide le diagnostic. Une mesure du méthane exhalé améliore la fiabilité.
 
 Test perturbé par l'activité physique, le tabac, IPP, aspirine et probiotiques, haricots ou maïs.
@@ -113,7 +113,7 @@ La prise en charge de l'intolérance au lactose repose sur le maintien d'apports
 
 ### Fromages sans lactose
 
-- Yaourt au lait de chèvre, nature, 5% MG
+- Yaourt au lait de chèvre, nature, 5 % MG
 - Mozzarella au lait de vache
 - Feta au lait de vache
 - Traces uniquement

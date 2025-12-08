@@ -203,7 +203,7 @@ Atteintes neurologiques évocatrices:
   - Sur la localisation d'une piqûre de tique
   - Paralysie faciale fréquemment associée avec céphalées
   - Antibiothérapie très efficace en quelques jours sur les douleurs
-- **[Paralysie faciale]({{% relref "paralysie-faciale-idiopathique.md" %}})** (36% des neuroborrélioses)
+- **[Paralysie faciale]({{% relref "paralysie-faciale-idiopathique.md" %}})** (36 % des neuroborrélioses)
   - Uni ou bilatérale (à bascule très évocatrice)
   - Surtout chez l'enfant
   - Indications à la sérologie *Borrelia*: voir Examens complémentaires
@@ -255,7 +255,7 @@ Les anticorps ne protègent pas contre une nouvelle infection à *Borrelia burgd
 
 [Ministère de la Santé: Maladie de Lyme et prévention des piqûres de tiques (PDF)](https://sante.gouv.fr/IMG/pdf/maladie_de_lyme_depliant_gp.pdf) et [Santé Publique France. Prévention de la borréliose de Lyme (PDF)](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-transmission-vectorielle/borreliose-de-lyme/documents/depliant-flyer/maladie-de-lyme-et-prevention-des-piqures-de-tiques)
 
-Les tiques sont cachées dans les hautes herbes, buissons et branches basses à toutes les altitudes et aussi dans les jardins (25% des piqûres).
+Les tiques sont cachées dans les hautes herbes, buissons et branches basses à toutes les altitudes et aussi dans les jardins (25 % des piqûres).
 
 Mesures de prévention de la maladie de Lyme:
 

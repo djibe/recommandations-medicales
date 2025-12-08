@@ -43,7 +43,7 @@ Anxiété
 Trouble anxieux généralisé (TAG)
 : Trouble anxieux chronique avec des inquiétudes permanentes sur au moins 2 thèmes différents, persistantes depuis plus de 6 mois et difficilement contrôlables. Dit aussi << maladie des inquiétudes >>, les signes physiques sont souvent au premier plan (insomnie ++), pouvant masquer l'origine anxieuse.
 : Les complications sont dominées par les risques suicidaire (x 2,7) et [cardiovasculaire](/tags/risque-cardiovasculaire/).
-: Le trouble anxieux généralisé atteint 5% de la population avec 2/3 de femmes et débute le plus souvent vers 35-45 ans. Le diagnostic n'est correct que pour un tiers et 60 % n'ont pas de traitement. Les rechutes sont fréquentes (conflits ++).
+: Le trouble anxieux généralisé atteint 5 % de la population avec 2/3 de femmes et débute le plus souvent vers 35-45 ans. Le diagnostic n'est correct que pour un tiers et 60 % n'ont pas de traitement. Les rechutes sont fréquentes (conflits ++).
 
 ### Abréviations
 

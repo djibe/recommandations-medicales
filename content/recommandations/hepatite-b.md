@@ -35,7 +35,7 @@ todo = "dépistage VHB, insuff hépatocellulaire, AFEF 2020: TROD AgHBs isolés,
 
 Hépatite B
 : Maladie infectieuse du foie causée par le virus de l'hépatite B (VHB) à ADN. La transmission est sexuelle, par des fluides biologiques ou materno-fœtale. Les contaminations par échanges de seringues sont encore fréquents.
-: L'infection (ALAT normales) est le plus souvent asymptomatique, on parle d'hépatite lorsque les ALAT sont élevées. 0,1 à 1% des formes aiguës peuvent évoluer vers l'**hépatite fulminante**. De 2 à 10 % des cas deviennent chroniques (90 % pour les nouveaux-nés), avec risque de **cirrhose** (10-20 %) ou de **[carcinome hépatocellulaire]({{% relref "carcinome-hepatocellulaire.md" %}})** (CHC, 3-5%/an) même en l'absence de cirrhose (virus oncogène).  
+: L'infection (ALAT normales) est le plus souvent asymptomatique, on parle d'hépatite lorsque les ALAT sont élevées. 0,1 à 1 % des formes aiguës peuvent évoluer vers l'**hépatite fulminante**. De 2 à 10 % des cas deviennent chroniques (90 % pour les nouveaux-nés), avec risque de **cirrhose** (10-20 %) ou de **[carcinome hépatocellulaire]({{% relref "carcinome-hepatocellulaire.md" %}})** (CHC, 3-5%/an) même en l'absence de cirrhose (virus oncogène).  
 Même en cas de disparition de l'AgHBs, un réactivation reste possible en cas d'immunosuppression par persistance d'ADN viral dans les hépatocytes.
 : Une co-infection par le virus de l'hépatite D est possible (< 2%).
 
@@ -54,12 +54,12 @@ Hépatite B chronique (ou porteur chronique de l'Ag HBs)
 | Hépatite AgHBe-                          | -     | > 1000 UI/mL | > 2000 UI/mL | Variables | Variable           |
 {{< /table >}}
 
-> Immunotolérant: risque de perte de l'immunotolérance (38% à 3 ans)  
-Portage dit inactif: risque de réactivation (22% à 5 ans, immunodépression ++) tant que l'Ac anti-HBs n'est pas présent. Taux de négativation de l'AgHBs de 1-3%/an.
+> Immunotolérant: risque de perte de l'immunotolérance (38 % à 3 ans)  
+Portage dit inactif: risque de réactivation (22 % à 5 ans, immunodépression ++) tant que l'Ac anti-HBs n'est pas présent. Taux de négativation de l'AgHBs de 1-3%/an.
 
 ### Épidémiologie de l'hépatite B en France
 
-La prévalence de l'hépatite B chronique en France est estimée à 280.000 personnes (dont la moitié l'ignore) et tenue responsable de 1300 morts par an. 11% ont un diagnostic au stade de cirrhose.  
+La prévalence de l'hépatite B chronique en France est estimée à 280.000 personnes (dont la moitié l'ignore) et tenue responsable de 1300 morts par an. 11 % ont un diagnostic au stade de cirrhose.  
 Les DROM ont une forte prévalence.
 
 Seulement 36.180 personnes sont en [ALD]({{% relref "affection-longue-duree.md" %}}) pour une hépatite B chronique (2019).

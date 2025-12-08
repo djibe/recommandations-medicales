@@ -76,7 +76,7 @@ Dysménorrhée
 - 2,5 millions de patientes en France, environ 10 % des femmes en âge de procréer
 - L'endométriose est responsable de 30 % des infertilités féminines
 - et 30 % des douleurs pelviennes chroniques féminines
-- 75% des douleurs pelviennes chroniques résistantes sont endométriosiques
+- 75 % des douleurs pelviennes chroniques résistantes sont endométriosiques
 - 70 % des adolescentes avec dysménorrhées
 
 ### Abréviations

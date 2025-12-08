@@ -31,7 +31,7 @@ Liste des substituts nicotiniques remboursés sur prescription par la Sécurité
 </div>
 <hr class="my-5">
 
-## Aide à la prescription des traitements nicotiniques de substitution remboursés à 65% par l'Assurance Maladie sur prescription médicale
+## Aide à la prescription des traitements nicotiniques de substitution remboursés à 65 % par l'Assurance Maladie sur prescription médicale
 
 <div class="my-4" style="max-width: 800px">
 

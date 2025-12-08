@@ -108,7 +108,7 @@ Autres causes de toux à éliminer (par ordre anatomique):
   - [Asthme]({{% relref "asthme.md" %}}): toux avec sifflements thoraciques épisodiques
   - Dilatation des bronches: toux avec expectoration muqueuse matinale et purulente
 - [Reflux]({{% relref "reflux-gastro-oesophagien.md" %}})  
-  Symptômes digestifs hauts inconstants (reflux absent dans 50-75% des cas de toux chronique liée à un RGO). Voire dysphagie.
+  Symptômes digestifs hauts inconstants (reflux absent dans 50-75 % des cas de toux chronique liée à un RGO). Voire dysphagie.
 - Cardiologique
   - Toux à l'effort ou au décubitus avec dyspnée
   - Souffle, trouble du rythme, signes d'[insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}), [angor]({{% relref "syndrome-coronarien-chronique.md" %}})

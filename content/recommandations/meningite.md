@@ -47,7 +47,7 @@ Chez l'adulte, 1400 cas annuels de méningites bactériennes avec surtout le **p
 
 Méningocoque
 : Bactérie diplocoque gram-négative (BGN), *Neisseria meningitidis* est responsable de nombreuses méningites bactériennes, parfois révélées par un *purpura fulminans*.
-: Le sérogroupe B du méningocoque est le premier responsable des méningites bactériennes (45%), suivi des sérogroupes W (30%) et Y (25% -- données 2025).
+: Le sérogroupe B du méningocoque est le premier responsable des méningites bactériennes (45%), suivi des sérogroupes W (30%) et Y (25 % -- données 2025).
 
 Purpura fulminans
 : Purpura vasculaire d'extension rapide (quelques minutes à quelques heures). Il signe plus souvent une méningococcémie avec une extrême gravité.

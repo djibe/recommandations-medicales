@@ -31,13 +31,13 @@ todo = "périonyxis fluconazole, ttt sycosis, Pytiriasis capitis"
 - Traitement local sauf pour les teignes, candidoses buccales et vaginales, onyxis à dermatophytes avec atteinte matricielle et onyxis candidosiques
 - Prise en charge des mycoses courantes en première intention:
   - Certaines atteintes peuvent être reconnues en maladie professionnelle (abattoir, laiterie, maître nageur, athlète ...)
-  - Candidose buccale: miconazole 2% gel 2,5 mL x 4/j 7-14 jours, mesures associées
+  - Candidose buccale: miconazole 2 % gel 2,5 mL x 4/j 7-14 jours, mesures associées
   - Candidose vaginale aiguë: fluconazole 150 mg dose unique (ou éconazole LP ovule 1-3 jours) ± éconazole vulvaire 14-28 jours
-  - Intertrigo: éconazole 1% ou ciclopirox 1% crème x 2/j 14-28 jours, mesures associées
-  - Herpès circiné: éconazole 1% crème x 2/j 14-21 jours
-  - Muguet du nourrisson (à partir de 4 mois): miconazole 2% gel 1,25 mL x 4/j après les repas 7-14 jours
-  - Onycomycose: prélèvement, pédicurie, traitement adapté amorolfine 5% x 1-2/semaine ou ciclopirox 8% 1/j pendant 3-6 mois, éconazole interdigital
-  - Pityriasis versicolor: kétoconazole 2% gel unidose, récidives ++
+  - Intertrigo: éconazole 1 % ou ciclopirox 1 % crème x 2/j 14-28 jours, mesures associées
+  - Herpès circiné: éconazole 1 % crème x 2/j 14-21 jours
+  - Muguet du nourrisson (à partir de 4 mois): miconazole 2 % gel 1,25 mL x 4/j après les repas 7-14 jours
+  - Onycomycose: prélèvement, pédicurie, traitement adapté amorolfine 5 % x 1-2/semaine ou ciclopirox 8 % 1/j pendant 3-6 mois, éconazole interdigital
+  - Pityriasis versicolor: kétoconazole 2 % gel unidose, récidives ++
   - Mycose du cuir chevelu: voir [Teigne]({{% relref "teigne.md" %}})
 
 {{%/article-summary%}}
@@ -88,7 +88,7 @@ Zone centrale claire cicatricielle avec bourrelet périphérique squameux et vé
 
 #### Prise en charge de l'herpès circiné
 
-[Éconazole 1% crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/62098492/extrait#tab-rcp) 1 application matin et soir pendant 14 à 21 jours
+[Éconazole 1 % crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/62098492/extrait#tab-rcp) 1 application matin et soir pendant 14 à 21 jours
 {{%/info%}}
 
 > [Reconnaissance possible d'un herpès circiné en Maladie professionnelle dans le cadre du Tableau 46](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2046): filière viande, piscine, athlète, bâtiment.
@@ -108,9 +108,9 @@ Le pityriasis versicolor est bénin, **n'est pas contagieux**, causé par la lev
 - Information du patient  
   Les lésions disparaissent lentement après le traitement (quelques mois !) et les récidives sont très fréquentes.
 - Abstention thérapeutique
-- ou [kétoconazole 2% gel récipient unidose](https://base-donnees-publique.medicaments.gouv.fr/medicament/62701346/extrait#tab-rcp) en une seule application (x2/semaine pendant 1 mois selon *CRATB*)  
+- ou [kétoconazole 2 % gel récipient unidose](https://base-donnees-publique.medicaments.gouv.fr/medicament/62701346/extrait#tab-rcp) en une seule application (x2/semaine pendant 1 mois selon *CRATB*)  
   Laisser agir au moins 5 minutes.
-- ou terbinafine 1% crème ou ciclopirox olamine 1% crème x 1-2/j pendant 7 à 14 jours
+- ou terbinafine 1 % crème ou ciclopirox olamine 1 % crème x 1-2/j pendant 7 à 14 jours
 {{%/info%}}
 
 #### Diagnostic différentiel d'un pityriasis versicolor
@@ -150,8 +150,8 @@ Les localisations classiques des intertrigos sont inter-orteils (<< pied d'athl�
 
 #### Prise en charge de l'intertrigo
 
-- [Éconazole 1% crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/62098492/extrait#tab-rcp) 1 application matin et soir pendant 14 à 28 jours  
-  ou [ciclopirox olamine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/63273126/extrait#tab-rcp) à la même posologie.
+- [Éconazole 1 % crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/62098492/extrait#tab-rcp) 1 application matin et soir pendant 14 à 28 jours  
+  ou [ciclopirox olamine 1 % crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/63273126/extrait#tab-rcp) à la même posologie.
 - Lésions très étendues: terbinafine 250 mg 1 cp/j pendant 14 à 28 jours (*Bell-Syer 2012*)
 - Limiter la macération  
   Changement quotidien de sous-vêtements et chaussettes en coton, séchage soigneux, retirer le tapis de salle de bain.
@@ -187,7 +187,7 @@ L'aspect pseudo-membraneux blanc (**muguet**) est le plus fréquent, souvent ass
 - Bains de bouche avec chlorhexidine ou bicarbonate de soude
 - Traitement de l'hyposialie
 - Miconazole gel buccal  
-  [Miconazole 2% gel buccal](https://base-donnees-publique.medicaments.gouv.fr/medicament/69184289/extrait#tab-rcp) (Daktarin®, à partir de 4 mois) 2,5 mL x 4/j pendant 7 à 14 jours.
+  [Miconazole 2 % gel buccal](https://base-donnees-publique.medicaments.gouv.fr/medicament/69184289/extrait#tab-rcp) (Daktarin®, à partir de 4 mois) 2,5 mL x 4/j pendant 7 à 14 jours.
 - ou miconazole cp muco-adhésif chez l'immunodéprimé  
   [Miconazole cp 50 mg (Loramyc®)](https://base-donnees-publique.medicaments.gouv.fr/medicament/69980852/extrait#tab-rcp) x 1/j pendant 7 à 14 jours, face bombée placée le matin après le brossage contre la gencive supérieure au-dessus d'une incisive. Interactions +++
 - ou amphotéricine B buvable  
@@ -202,7 +202,7 @@ L'aspect pseudo-membraneux blanc (**muguet**) est le plus fréquent, souvent ass
 
 ##### Prise en charge du muguet du nourrisson {.mt-4}
 
-À partir de 4 mois: [miconazole 2% gel buccal (Daktarin®)](https://base-donnees-publique.medicaments.gouv.fr/medicament/69184289/extrait#tab-rcp) 1,25 mL 4 fois par jour après les repas pendant 7 à 14 jours
+À partir de 4 mois: [miconazole 2 % gel buccal (Daktarin®)](https://base-donnees-publique.medicaments.gouv.fr/medicament/69184289/extrait#tab-rcp) 1,25 mL 4 fois par jour après les repas pendant 7 à 14 jours
 {.alert .alert-info}
 
 ### Balanite et balano-posthite candidosique
@@ -217,7 +217,7 @@ Diagnostic différentiel: infectieux ([syphilis secondaire]({{% relref "syphilis
 #### Prise en charge de la balanite candidosique
 
 - Prélèvement mycologique
-- [Éconazole 1% crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/62098492/extrait#tab-rcp) 1 application matin et soir pendant 14 à 21 jours (7 jours selon *CMIT*) + savon alcalin + examen partenaire
+- [Éconazole 1 % crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/62098492/extrait#tab-rcp) 1 application matin et soir pendant 14 à 21 jours (7 jours selon *CMIT*) + savon alcalin + examen partenaire
 {{%/info%}}
 
 Rechercher un [diabète]({{% relref "diabete-type-2.md" %}}) en cas de balanite candidosique sévère.
@@ -265,7 +265,7 @@ Signes et symptômes d'une candidose vulvovaginale:
 - **Candidose sévère** (érythème étendu, œdème, excoriation ou fissure)
   - Fluconazole 150 mg 1 cp à J1 et J4
   - voire clotrimazole 500 mg caps vaginale (Mycohydralin® NR) à J1 et J4
-- ==± traitement local: éconazole 1% crème x 2/j pendant 14 à 28 jours==
+- ==± traitement local: éconazole 1 % crème x 2/j pendant 14 à 28 jours==
 - **Mesures d'hygiène**
   - Une seule toilette (externe) par jour avec savon à pH neutre (*Prescrire*, alcalin selon *Anofel*) sans autres soins
   - Éviter les lessives et assouplissants irritants
@@ -277,7 +277,7 @@ Signes et symptômes d'une candidose vulvovaginale:
 
 Candidose vulvovaginale récurrente
 : Au moins 4 épisodes sur les 12 derniers mois avec au moins 2 épisodes symptomatiques documentés (examen direct ou culture) dont un avec abondance moyenne ou forte de *Candida*.
-: Elle est probablement liée à des particularités biologiques des patientes. 6% des femmes actives sont atteintes.
+: Elle est probablement liée à des particularités biologiques des patientes. 6 % des femmes actives sont atteintes.
 : 2 groupes de patientes: bonne réponse au traitement avec intervalles libres ou réponse partielle avec symptômes persistants.
 
 #### Mesures générales pour les candidoses vaginales récidivantes
@@ -369,8 +369,8 @@ Traitement des onychomycoses:
   2. Vernis unguéal [amorolfine 5%](https://base-donnees-publique.medicaments.gouv.fr/medicament/68805138/extrait#tab-rcp) x 1-2/semaine ou [ciclopirox 8%](https://base-donnees-publique.medicaments.gouv.fr/medicament/66640136/extrait#tab-rcp) x 1/j pendant 3 à 6 mois
   3. Éconazole des espaces interdigitoplantaires pour éviter une réinfection
   4. Périonyxis important: prélèvement, imidazolé local voire fluconazole
-  5. Si échec: avulsion chimique par bifonazole 1% + urée 40 % (Amycor Onychoset®) sous pansement occlusif x 1/j pendant 1-3 semaines  
-    et relais par bifonazole seul 1% crème (Amycor®) pendant 4-8 semaines (ou jusqu'à repousse complète de l'ongle).
+  5. Si échec: avulsion chimique par bifonazole 1 % + urée 40 % (Amycor Onychoset®) sous pansement occlusif x 1/j pendant 1-3 semaines  
+    et relais par bifonazole seul 1 % crème (Amycor®) pendant 4-8 semaines (ou jusqu'à repousse complète de l'ongle).
 - Atteinte matricielle
   - Traitement ci-dessus en complément des mesures suivantes
   - Avulsion chimique comme ci-dessus selon Prescrire
@@ -436,13 +436,13 @@ Candidose cutanée: durée de traitement de 14 à 28 jours
 
 #### Pyridones
 
-[Ciclopirox olamine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/63273126/extrait#tab-rcp) x 2/j pendant 14 à 28 jours.
+[Ciclopirox olamine 1 % crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/63273126/extrait#tab-rcp) x 2/j pendant 14 à 28 jours.
 
 Spectre large et absence d'interactions médicamenteuses.
 
 #### Allylamines
 
-[Terbinafine 1% crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/68446952/extrait#tab-rcp) x 1-2/j pendant 1-2 semaines
+[Terbinafine 1 % crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/68446952/extrait#tab-rcp) x 1-2/j pendant 1-2 semaines
 
 Moins efficace sur *C. albicans*.
 

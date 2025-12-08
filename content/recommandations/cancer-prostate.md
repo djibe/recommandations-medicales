@@ -82,7 +82,7 @@ Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de G
 - **Décès:** 9228 (métropole 2022, 2^e^ cause de décès par cancer de l'homme)
 - Survie à 5 ans: 92 % (80 % à 10 ans)
 - Âge médian au diagnostic: 69 ans
-- Prévalence du cancer de la prostate à l'autopsie: 5% avant 30 ans et 59% chez les +79 ans  
+- Prévalence du cancer de la prostate à l'autopsie: 5 % avant 30 ans et 59 % chez les +79 ans  
   Enjeu de ne traiter que les cancers agressifs.
 
 {{< card-link-external title="Dépenses liées au cancer de la prostate" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Cancers&refine.patho_niv2=Cancer%20de%20la%20prostate">}}

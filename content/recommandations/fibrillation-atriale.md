@@ -153,7 +153,7 @@ Toute suspicion clinique de fibrillation atriale doit être confirmée au plus t
 Évaluation clinique: type de FA, risque embolique, symptômes, comorbidités
 {{%/info%}}
 
-50-87% sont initialement **asymptomatiques**.
+50-87 % sont initialement **asymptomatiques**.
 
 ### Interrogatoire
 

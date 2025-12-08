@@ -236,7 +236,7 @@ Nécessité d'une consultation dédiée pour la primo-prescription d'une contrac
 
 - Poids, taille, IMC
 - Pression artérielle  
-  {{%class%}}5% développent une [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) sous COP (*ESC 2018*){{%/class%}}
+  {{%class%}}5 % développent une [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) sous COP (*ESC 2018*){{%/class%}}
 - Examen des seins
 - Examen gynécologique  
   N'est pas nécessaire pour la 1^re^ consultation (sauf symptôme ou antécédent).
@@ -311,7 +311,7 @@ Le << Quickstart >> ou démarrage à tout moment du cycle peut être proposé à
 - Les œstroprogestatifs n'augmentent globalement pas le risque de cancer (voir *Contraception et cancer*)
 - EE + lévonorgestrel/norgestimate en première intention
 - Schéma continu possible si: symptômes cataméniaux, [ménorragies]({{% relref "menorragies.md" %}}) fonctionnelles, [endométriose]({{% relref "endometriose.md" %}}) ou choix personnel.
-- 5% développent une [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) (*ESC 2018 HTA*)
+- 5 % développent une [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) (*ESC 2018 HTA*)
 - Les progestatifs de 3e génération (gestodène, désogestrel sauf le norgestimate), la drospirénone ou l'acétate de cyprotérone augmentent plus le risque de MVTE que le lévonorgestrel
 - Les œstroprogestatifs par voies non orales (patch, anneau) ont probablement le même sur-risque veineux
 

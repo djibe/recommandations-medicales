@@ -38,7 +38,7 @@ Indications au dépistage de l'anévrysme de l'aorte abdominale (AAA) par échod
 Anévrisme de l'aorte abdominale (AAA)
 : Dilatation localisée (1,5 x le diamètre attendu) d'un segment de l'aorte abdominale (le plus souvent sous-rénale) amenant à une perte de parallélisme des bords, des turbulences du flux sanguin et ainsi la formation d'un caillot.
 : 80 % des anévrismes (ou anévrysmes) sont de forme fusiforme, parfois sacciforme.
-: **80 % de mortalité** en cas de rupture d'un AAA contre 5% en intervention programmée.  
+: **80 % de mortalité** en cas de rupture d'un AAA contre 5 % en intervention programmée.  
 2000 morts/an et 10.000 hospitalisations annuelles.
 : Pour l'histoire: *Einstein* et *de Gaulle* en sont morts.
 

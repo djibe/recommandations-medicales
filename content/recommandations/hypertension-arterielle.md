@@ -288,7 +288,7 @@ Signes devant faire évoquer une hypertension secondaire et nécessitant une év
 - [Syndrome de Cushing]({{% relref "syndrome-cushing.md" %}})  
   Faciès lunaire et rouge, obésité tronculaire et bosse de bison, fonte musculaire et fatigue, atrophie cutanée et ecchymoses faciles, vergetures pourpres, retard de cicatrisation, doigts très minces, hirsutisme, troubles de l'humeur, dysménorrhées, corticoïdes chroniques.
 - [Dysthyroïdie](/tags/tsh/)
-- Grossesse en cours ou contraception œstroprogestative (5% développent une HTA)
+- Grossesse en cours ou contraception œstroprogestative (5 % développent une HTA)
 
 Principales causes d'hypertension secondaire: **[hyperaldostéronisme primaire]({{% relref "hyperaldosteronisme-primaire.md" %}})** (ratio aldostérone/rénine plasmatiques), **néphropathie** et **sténose des artères rénales** (échodoppler). Syndrome de Cushing, phéochromocytome et coarctation de l'aorte sont plus rares.
 

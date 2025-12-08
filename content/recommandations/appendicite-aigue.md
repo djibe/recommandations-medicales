@@ -193,7 +193,7 @@ La voie orale est recommandée en l'absence de nausées ou vomissements.
 
 Antibiothérapie type amoxicilline/acide clavulanique (Augmentin) ou fluoroquinolone + imidazolé ≤ 8 jours (selon *SPILF 2020*: 7 jours).
 
-Lors du traitement de l'appendicite par antibiothérapie, le risque de récidive peut atteindre 39% à 5 ans (*WSES*).
+Lors du traitement de l'appendicite par antibiothérapie, le risque de récidive peut atteindre 39 % à 5 ans (*WSES*).
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'appendice aiguë" "show" %}}

@@ -74,10 +74,10 @@ Tremblement orthostatique primaire
 
 ### Épidémiologie du syndrome des jambes sans repos en France
 
-- Prévalence chez l'adulte: 8,5%  
-  Symptômes hebdomadaires 2,5% et quotidiens 1,9%.
-- Prévalence chez l'enfant: 2-4%  
-  15-35% en *trouble du déficit de l'attention et hyperactivité* (TDAH).
+- Prévalence chez l'adulte: 8,5 %  
+  Symptômes hebdomadaires 2,5 % et quotidiens 1,9%.
+- Prévalence chez l'enfant: 2-4 %  
+  15-35 % en *trouble du déficit de l'attention et hyperactivité* (TDAH).
 - Sex-ratio: 2/3 de femmes
 - 10 % des personnes avec des troubles du sommeil ont un syndrome des jambes sans repos
 
@@ -128,7 +128,7 @@ TDAH
 - Âge
 - Antécédent familial de SJSR (40%)
 - [Carence martiale]({{% relref "anemie.md" %}})  
-  {{%class text-black-secondary %}}Prévalence du SJSR de 25 à 35% si anémie.{{%/class%}}
+  {{%class text-black-secondary %}}Prévalence du SJSR de 25 à 35 % si anémie.{{%/class%}}
 - [Insuffisance rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})  
   Aggravation par inhibiteurs calciques, PTH basse, CST bas, [diabète de type 2]({{% relref "diabete-type-2.md" %}}) ({{%class text-black-secondary %}}prévalence 15-68%{{%/class%}})
 - [Hémochromatose]({{% relref "hemochromatose.md" %}})
@@ -170,7 +170,7 @@ Au moins aussi longtemps que dure cette activité.
 4. Apparition ou aggravation le soir ou la nuit
 5. Exclusion des diagnostics différentiels
 
-> Critères *IRLSSG 2012*. Sensibilité 86% et Spécificité > 90 %  
+> Critères *IRLSSG 2012*. Sensibilité 86 % et Spécificité > 90 %  
 **Tous les critères doivent être remplis**.  
 Intérêt de laisser le patient décrire ses symptômes, ou l'enfant avec ses mots.
 

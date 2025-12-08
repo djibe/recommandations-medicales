@@ -40,7 +40,7 @@ Benzodiazépines
 : Médicament psychotrope **anxiolytique** caractérisé chimiquement par un cycle benzénique fusionné à un cycle diazépine.
 : Complications chez le sujet âgé: troubles de la mémoire et de la concentration, somnolence, [chutes](/tags/chute/), accidents de voiture.
 : L'arrêt progressif et encadré des BZD n'altère pas la qualité de vie et peut améliorer les fonctions cognitives.
-: 33% des consommateurs de benzodiazépines ont un usage inapproprié (*Bénard-Laribière 2022*).
+: 33 % des consommateurs de benzodiazépines ont un usage inapproprié (*Bénard-Laribière 2022*).
 
 Syndrome de sevrage
 : Apparition de signes nouveaux dus à l'arrêt ou la diminution de la prise.
@@ -145,8 +145,8 @@ L'oxazépam est la benzodiazépine de référence selon *Prescrire* pour une ins
 {{% /collapse %}}
 {{%collapse "Décroissance des benzodiazépines" %}}
 
-Proposer une diminution de 25% la 1^re^ semaine avec consultation de suivi.  
-Puis paliers de 25% toutes les 2-4 semaines en l'absence de difficultés.
+Proposer une diminution de 25 % la 1^re^ semaine avec consultation de suivi.  
+Puis paliers de 25 % toutes les 2-4 semaines en l'absence de difficultés.
 {.alert .alert-info}
 
 - Expliquer: la durée du traitement, les modalités d'arrêt et le risque de dépendance
@@ -174,7 +174,7 @@ Nécessité d'une consultation spécifique ciblée sur l'arrêt des BZD en déci
 Arrêt progressif en 1 à 3 mois (voire 1 an).
 {.alert .alert-info}
 
-- Proposer une diminution de 25% la 1^re^ semaine avec consultation de suivi
+- Proposer une diminution de 25 % la 1^re^ semaine avec consultation de suivi
 - Puis paliers de 25 % toutes les 2-4 semaines en l'absence de difficultés
 - Consultation de suivi 7 jours après l'arrêt et rapporter les boîtes en pharmacie
 - Accompagnement par thérapie cognitive et comportementales (TCC) efficace
@@ -220,7 +220,7 @@ Dr ...
 
 </div>
 
-L'essai EMPOWER a démontré l'effet de l'intervention brève sur l'arrêt à 6 mois: 77% de sevrage versus 5% dans le groupe contrôle.
+L'essai EMPOWER a démontré l'effet de l'intervention brève sur l'arrêt à 6 mois: 77 % de sevrage versus 5 % dans le groupe contrôle.
 {.alert .alert-info}
 
 ### Calendrier de suivi de l'arrêt des benzodiazépines
@@ -232,7 +232,7 @@ L'essai EMPOWER a démontré l'effet de l'intervention brève sur l'arrêt à 6 
 
 {{< mermaid title="Prise en charge du suivi et du sevrage des benzodiazépines par le médecin généraliste. Drs JB Fron et Alaedine Benani d'après HAS 2015" >}}
 graph TB
-  benzodiazépine["<b>Traitement &gt; 30 jours<br>par benzodiazépine</b>"] --> clinique("<b>Clinique</b><br>—<br>- Ancienneté<br>- Traitements, alcool<br>- Diagnostic<br>- État psychologique<br>- Troubles du sommeil<br>- Intervention brève<br>- Évaluation de dépendance") -- "Réduction<br>choisie" --> sevrage("<b>Réduction des doses</b><br>—<br>- Calendrier de décroissance<br>- Réduction de 25%<br>la semaine 1") -- 7 jours --> suivi("<b>Suivi</b><br>—<br>- Renforcer l'intervention<br>- Évolution des symptômes<br>psychiques et de sevrage") -- Satisfaisant --> poursuite("Réduction de 25% toutes<br>les 2-4 semaines") --> suivi
+  benzodiazépine["<b>Traitement &gt; 30 jours<br>par benzodiazépine</b>"] --> clinique("<b>Clinique</b><br>—<br>- Ancienneté<br>- Traitements, alcool<br>- Diagnostic<br>- État psychologique<br>- Troubles du sommeil<br>- Intervention brève<br>- Évaluation de dépendance") -- "Réduction<br>choisie" --> sevrage("<b>Réduction des doses</b><br>—<br>- Calendrier de décroissance<br>- Réduction de 25%<br>la semaine 1") -- 7 jours --> suivi("<b>Suivi</b><br>—<br>- Renforcer l'intervention<br>- Évolution des symptômes<br>psychiques et de sevrage") -- Satisfaisant --> poursuite("Réduction de 25 % toutes<br>les 2-4 semaines") --> suivi
     suivi -- Sevrage difficile --> palier("- Paliers plus longs<br>- TCC<br>- Réévaluation des troubles")
     suivi -- Sevrage grave --> hospitalisation("Hospitalisation si confusion,<br>hallucinations, convulsions ...")
     clinique -- "Patient<br>réfractaire" --> consultation("- Répéter à la prochaine<br>consultation<br>- Intervention brève<br>écrite") --> clinique

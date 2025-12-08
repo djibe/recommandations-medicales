@@ -37,7 +37,7 @@ flowchart = true
 Andropause ou syndrome de déficit en testostérone lié à l'âge (SDT)
 : Syndrome progressif et inconstant biochimique chez l'homme, caractérisé par une diminution des androgènes sériques avec ou sans diminution de la sensibilité aux androgènes responsable d'une altération de la qualité de vie et d'un impact sur la fonction de plusieurs organes (*ISSAM 2002*).
 : Une testostérone basse est un facteur de risque cardiovasculaire.
-: La prévalence de l'andropause augmente avec l'âge: 5% à 50 ans, 10 % à 60 ans, 15% à 70 ans et 26% à 80 ans.
+: La prévalence de l'andropause augmente avec l'âge: 5 % à 50 ans, 10 % à 60 ans, 15 % à 70 ans et 26 % à 80 ans.
 
 ### Abréviations
 
@@ -125,7 +125,7 @@ L'andropause est un diagnostic clinico-biologique et l'installation des symptôm
 Signes et symptômes d'andropause à rechercher à l'examen:
 
 - Antécédents  
-  **Diabète type 2** (50%), **obésité** (baisse de 25% de la testostéronémie), dépression, [infertilité]({{% relref "infertilite-couple.md" %}}), testiculaires ([orchite]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}}), micropénis, hypospadias, [cryptorchidie]({{% relref "cryptorchidie.md" %}})), [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), cancer, VIH, [hémochromatose]({{% relref "hemochromatose.md" %}}), [dépression]({{% relref "depression.md" %}}), fracture osseuse, insuffisance rénale, cirrhose
+  **Diabète type 2** (50%), **obésité** (baisse de 25 % de la testostéronémie), dépression, [infertilité]({{% relref "infertilite-couple.md" %}}), testiculaires ([orchite]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}}), micropénis, hypospadias, [cryptorchidie]({{% relref "cryptorchidie.md" %}})), [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), cancer, VIH, [hémochromatose]({{% relref "hemochromatose.md" %}}), [dépression]({{% relref "depression.md" %}}), fracture osseuse, insuffisance rénale, cirrhose
 - Traitements en cours: androgènes, opioïdes, [corticoïdes]({{% relref "corticoides.md" %}}), finastéride, spironolactone, éplérénone
 - Traitements reçus: colchicine, kétoconazole, évérolimus, radiothérapie, chimiothérapie
 - Toxiques: [alcool]({{% relref "sevrage-alcool.md" %}}), tabac

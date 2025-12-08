@@ -35,8 +35,8 @@ todo = "SEO, réécrire | phalangette"
 Dermatite atopique (DA)
 : Dermatose inflammatoire chronique et prurigineuse survenant chez des sujets génétiquement prédisposés et favorisée par des facteurs environnementaux.  
 Maladie chronique évoluant par *poussées* avec intervalles libres.
-: Elle touche 10 à 15% des nourrissons avec une incidence en nette progression.  
-Elle évolue le plus souvent vers une rémission complète après plusieurs mois ou années (5% persistent chez l'adulte).
+: Elle touche 10 à 15 % des nourrissons avec une incidence en nette progression.  
+Elle évolue le plus souvent vers une rémission complète après plusieurs mois ou années (5 % persistent chez l'adulte).
 : La moitié présente également d'autres manifestations atopiques: [rhinite allergique]({{% relref "rhinite-allergique.md" %}}) > [asthme]({{% relref "asthme.md" %}}) > conjonctivite > allergie alimentaire.  
 Comorbidités chez l'adulte: cardiovasculaires (HTA, AVC, IDM), rénales, [diabète](/tags/diabete/), [dépression]({{% relref "depression.md" %}}) et suicide.
 : Pas de seuil pour définir une *dermatite atopique sévère*, mais évaluée sur le nombre et la gravité des poussées, le retentissement psychologique, la qualité de vie.
@@ -190,7 +190,7 @@ Application 1 à **2 fois/j** au long cours en couche épaisse après le bain (1
 
 - Niveau 1  
   - Émollients: lait, gel, crème ou pommade
-  - Seul remboursé en France: [Glycérol/Vaseline/Paraffine 15%/8%/2% crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/62395668/extrait#tab-rcp).
+  - Seul remboursé en France: [Glycérol/Vaseline/Paraffine 15%/8%/2 % crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/62395668/extrait#tab-rcp).
 - Niveau 2: Préparation*  
   Glycérolé d'amidon 35 g + Cold Cream Fluide 300 mL sur tout le corps (*CHRU Lille*)
 - Niveau 3: Cérat de Galien ou préparation*:  

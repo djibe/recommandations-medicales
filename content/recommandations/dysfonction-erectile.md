@@ -329,7 +329,7 @@ Autres précautions:
 
 ### Effets indésirables des IPDE5
 
-Des effets indésirables sont observés dans 2-16% des cas: Céphalées (+10%), bouffées vasomotrices, altération de la vision des couleurs réversible/vision floue, nausées, congestion nasale > dyspepsie, palpitations, douleurs dorsales, vertiges.
+Des effets indésirables sont observés dans 2-16 % des cas: Céphalées (+10%), bouffées vasomotrices, altération de la vision des couleurs réversible/vision floue, nausées, congestion nasale > dyspepsie, palpitations, douleurs dorsales, vertiges.
 
 Les effets indésirables graves sont rares: allongement QT, IDM, NOIAA (3/100.000), surdité brutale irréversible.
 
@@ -354,7 +354,7 @@ Il améliore également les troubles du bas appareil urinaire de l'homme (SBAU).
 
 Autres IPDE5 à la demande: vardénafil, avanafil (Spedra®).
 
-Les IPDE5 ont une efficacité de 65 à 85% (52-72 % en cas de diabète et toujours élevée après prostatectomie) et le même profil de sécurité/tolérance.
+Les IPDE5 ont une efficacité de 65 à 85 % (52-72 % en cas de diabète et toujours élevée après prostatectomie) et le même profil de sécurité/tolérance.
 
 > En cas d'inefficacité des IPDE5, rechercher une [déficit en testostérone]({{% relref "andropause-deficit-testosterone.md" %}}).
 
@@ -381,7 +381,7 @@ Les traitements suivants ne relèvent pas de la prise en charge du médecin trai
 - Injections intra-caverneuses (IIC) de prostaglandines alprostadil (Caverject®, Edex®)  
   Efficacité 55-93%, remboursables 30 % sur ordonnances d'exception.
 - Prostaglandines en crèmes intra-urétrales alprostadil (Muse® NR, Vitaros®)  
-  Efficacité 50%, Vitaros® remboursable 15% sur ordonnances d'exception chez certains patients.  
+  Efficacité 50%, Vitaros® remboursable 15 % sur ordonnances d'exception chez certains patients.  
   Contre-indiqué avec femme en âge de procréer (sauf préservatif).
 - Vacuum (eff. 40-80%)
 - Chirurgie: Implants péniens (satisfaction 79-98%)

@@ -24,7 +24,7 @@ Les assistants médicaux permettent de déléguer les appels et les demandes adm
 
 {{%collapse "Conditions d'accès à un assistant médical" %}}
 
-Une participation financière est possible pour tout médecin généraliste libéral qui souhaite embaucher un assistant médical, selon un rythme défini (1 équivalent temps-plein - ETP - de 35 heures ou à mi-temps. 47% des contrats actuels sont à mi-temps).
+Une participation financière est possible pour tout médecin généraliste libéral qui souhaite embaucher un assistant médical, selon un rythme défini (1 équivalent temps-plein - ETP - de 35 heures ou à mi-temps. 47 % des contrats actuels sont à mi-temps).
 
 Pour les autres spécialités, l'éligibilité dépend des tensions du territoire.
 

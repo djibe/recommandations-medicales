@@ -36,7 +36,7 @@ Cette page ne respecte pas la charte qualité et devra être améliorée.
 Diabète de type 1
 : Maladie de cause inconnue entraînant la destruction des îlots de Langerhans producteurs d'insuline.
 : Le diagnostic est souvent posé sur la triade: soif, polyurie et polydipsie avec souvent un amaigrissement.
-: Une sécrétion d'insuline persiste parfois pendant quelques années, à l'origine de difficultés diagnostiques (40 % des DT1 diagnostiqués après 30 ans considérés comme type 2). 4% des diabètes avant 30 ans sont monogéniques.
+: Une sécrétion d'insuline persiste parfois pendant quelques années, à l'origine de difficultés diagnostiques (40 % des DT1 diagnostiqués après 30 ans considérés comme type 2). 4 % des diabètes avant 30 ans sont monogéniques.
 
 ### Critères en faveur d'un diabète de type 1
 
@@ -70,7 +70,7 @@ Un **peptide C** > 600 pmol/L affirme un [diabète de type 2]({{% relref "diabet
 
 ### Quand penser à un diabète génétique dit diabète MODY ?
 
-Évoquer un diabète génétique au moins un parmi: diagnostic avant 35 ans, HbA~1c~ < 7,5% au diagnostic, un parent diabétique, éléments génétiques (kystes rénaux, lipodystrophie, surdité génétique, inulinorésistance sévère sans obésité).
+Évoquer un diabète génétique au moins un parmi: diagnostic avant 35 ans, HbA~1c~ < 7,5 % au diagnostic, un parent diabétique, éléments génétiques (kystes rénaux, lipodystrophie, surdité génétique, inulinorésistance sévère sans obésité).
 
 [Calcul du risque de diabète MODY](https://www.diabetesgenes.org/exeter-diabetes-app/).
 

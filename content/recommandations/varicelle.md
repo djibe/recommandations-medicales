@@ -25,7 +25,7 @@ todo = "rankok, vérif co-vaccination ROR, https://pap-pediatrie.fr/sites/pap-pe
 {{%article-summary%}}
 
 - La varicelle n'est bénigne que chez les enfants immunocompétents
-- L'immunité procurée par l'infection au virus VZV est quasi définitive (5% de récidives)
+- L'immunité procurée par l'infection au virus VZV est quasi définitive (5 % de récidives)
 - Rechercher des complications de la varicelle: pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans
 - Personnes à risque de forme grave de varicelle:
   - Immunodépression (hémopathie, [VIH]({{% relref "vih-sida.md" %}}), chimiothérapie)
@@ -47,7 +47,7 @@ Chapitre lié: [zona]({{% relref "zona.md" %}})
 Varicelle
 : Maladie infectieuse correspondant à la primo-infection par le virus Varicelle-Zona (VZV). L'infection n'est bénigne que chez les enfants immunocompétents et s'avère extrêmement contagieuse.
 : Des formes graves de varicelle surviennent chez les immunodéprimés, les nouveaux-nés avec risque d'embryo-fœtopathie avant 24 SA. Elle se complique fréquemment chez l'adulte.
-: Transmission respiratoire par gouttelettes ou par contact direct. L'immunité naturelle est quasi définitive (5% de récidives). Possible réactivation sous forme de [zona]({{% relref "zona.md" %}}) après des années.
+: Transmission respiratoire par gouttelettes ou par contact direct. L'immunité naturelle est quasi définitive (5 % de récidives). Possible réactivation sous forme de [zona]({{% relref "zona.md" %}}) après des années.
 
 ### Complications de la varicelle
 
@@ -163,7 +163,7 @@ InfoVac-France conseille la vaccination varicelle pour tous à partir de 12 mois
 
 #### Spécialités de vaccins varicelle
 
-2 vaccins vivants atténués monovalents en 2 doses Varilrix® (GSK) ou Varivax® (Sanofi) dont l'efficacité dépasse 95% (100 % pour les formes graves) et en partie contre le zona.
+2 vaccins vivants atténués monovalents en 2 doses Varilrix® (GSK) ou Varivax® (Sanofi) dont l'efficacité dépasse 95 % (100 % pour les formes graves) et en partie contre le zona.
 
 - [Varilrix®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62521070/extrait#tab-rcp)  
   - 9-11 mois: 2 doses espacées ≥ 3 mois
@@ -183,7 +183,7 @@ Possibles signes minimes de varicelle (< 10%) 10 jours après l'injection.
 - Éviter la prise d'aspirine dans les 6 semaines suivant la vaccination
 
 **Contre-indications:** grossesse, immunodéprimé, allergie au constituant, fièvre > 38,5°C.  
-Effets indésirables: fébricule et œdème au point d'injection, 5% ont exanthème papulo-vésiculeux
+Effets indésirables: fébricule et œdème au point d'injection, 5 % ont exanthème papulo-vésiculeux
 
 {{% /collapse %}}
 {{%collapse "Traitement de la varicelle du sujet immunocompétent" %}}
@@ -210,7 +210,7 @@ Recommandations pour la prise en charge de la varicelle:
   Éviter bains (macération) et tamponner avec la serviette.
 - Chlorhexidine en solution aqueuse pour prévenir les surinfections  
   ± crème cicatrisante.  
-  ex: Chlorhexidine aqueuse stérile 0,2% 1 application x 2/j sur les lésions cutanées uniquement.
+  ex: Chlorhexidine aqueuse stérile 0,2 % 1 application x 2/j sur les lésions cutanées uniquement.
 - Anti-histaminique anti-cholinergique
   - Aucun disponible avant 2 ans
   - Méquitazine sirop (Primalan®)  

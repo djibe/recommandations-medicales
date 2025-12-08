@@ -27,7 +27,7 @@ todo = "flow, paronychie GPIP"
 - La prise en charge de ces infections cutanées (furoncle, impétigo ...) comprend toujours des soins locaux avec lavages quotidiens (1 à 2 fois par jour) à l'eau et au savon et protection de la lésion par un pansement
 - Prise en charge de l'impétigo:
   - Protection par pansement ou éviction pendant 3 jours
-  - Impétigo peu étendu: < 6 lésions (5 chez l'enfant), < 2% de la surface cutanée et absence d'extension rapide: mupirocine x 2-3/j pendant 5 à 7 jours
+  - Impétigo peu étendu: < 6 lésions (5 chez l'enfant), < 2 % de la surface cutanée et absence d'extension rapide: mupirocine x 2-3/j pendant 5 à 7 jours
   - Impétigo grave si immunodépression, extension, nombreuses lésions: pristinamycine 1g x 3/j pendant 7 jours
 - Prise en charge du furoncle:
   - Ne pas manipuler, incision évacuatrice
@@ -89,7 +89,7 @@ Prise en charge de l'impétigo simple:
 - Si étendu ou récidivant: prélèvement bactériologique
 - Soins quotidiens 1 à 2 fois par jour
 - Protection par pansement **ou éviction** de la collectivité les 3 premiers jours du traitement
-- Impétigo peu étendu si < 6 lésions (5 chez l'enfant), < 2% de la surface cutanée et absence d'extension rapide:  
+- Impétigo peu étendu si < 6 lésions (5 chez l'enfant), < 2 % de la surface cutanée et absence d'extension rapide:  
   ==[mupirocine](https://base-donnees-publique.medicaments.gouv.fr/medicament/61059102/extrait#tab-rcp) x 2-3/j pendant 5 jours==
 
 ### Traitement de l'impétigo grave

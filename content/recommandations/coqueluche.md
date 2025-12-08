@@ -50,7 +50,7 @@ Coqueluche
 
 ### Épidémiologie de la coqueluche
 
-- Mortalité par coqueluche de 1979 à 2005: 113 cas, 1^re^ cause de décès des nourrissons (88% ont moins d'un an)
+- Mortalité par coqueluche de 1979 à 2005: 113 cas, 1^re^ cause de décès des nourrissons (88 % ont moins d'un an)
 - 3 morts/an, première cause de mortalité de J10 à 2 mois de vie, troisième cause tout âge confondu (méningocoque > pneumocoque).
 - Source de la contamination: parents 55 %, fratrie 25 %
 - Coqueluche en Île-de-France: **32 %** des adultes suivis pour toux de +7 jours (60 % vaccinés)

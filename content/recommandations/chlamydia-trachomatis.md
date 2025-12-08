@@ -40,7 +40,7 @@ Chapitres liés: [urétrite et orchi-épididymite]({{% relref "infection-genital
 *Chlamydia trachomatis* (CT)
 : Bactérie intracellulaire pathogène (pour les sérotypes D et K) responsable d'infections urogénitales sexuellement transmises.
 : Elle est un problème de santé publique du fait des complications: infertilité, grossesses extra-utérines, douleurs pelviennes chroniques.  
-L'infection atteint 3% des 18-29 ans avec co-infection *gonocoque* de 2-24%. +30 % entre 2017 et 2019.
+L'infection atteint 3 % des 18-29 ans avec co-infection *gonocoque* de 2-24%. +30 % entre 2017 et 2019.
 
 ### Abréviations
 

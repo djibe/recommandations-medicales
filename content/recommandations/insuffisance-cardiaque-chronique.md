@@ -59,7 +59,7 @@ Désynchronisation cardiaque
 | Critère | ICFEd         | ICFEmd                  | ICFEp              |
 |--------:|---------------|-------------------------|--------------------|
 | 1       | Symptômes ± signes | Symptômes ± signes | Symptômes ± signes |
-| 2       | FEVG ≤ 40 %    | FEVG 41-49%             | FEVG ≥ 50 %         |
+| 2       | FEVG ≤ 40 %    | FEVG 41-49 %             | FEVG ≥ 50 %         |
 | 3       |               |                         | - Anomalie cardiaque<br>- Dysfonction diastolique VG<br>- Augmentation des PN |
 {{< /table >}}
 
@@ -155,12 +155,12 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
 - Dyspnée d'effort chez +65 ans: 1/6 ont une IC
 - Hospitalisations: 160.000/an
 - Décès: 70.000/an
-- Mortalité à 1 an: 34% si hospitalisation, 7% sans hospitalisation
+- Mortalité à 1 an: 34 % si hospitalisation, 7 % sans hospitalisation
 - Transplantation cardiaque
   - Greffes cardiaques: 425 (2019)
   - Nouveaux inscrits pour greffe cardiaque: 573 (2019)
   - Vivant avec greffe: 5093 (2019)
-  - Survie avec greffe à: 1 an 77% - 5 ans 68% - 10 ans 57% (2014-2018)
+  - Survie avec greffe à: 1 an 77 % - 5 ans 68 % - 10 ans 57 % (2014-2018)
 
 {{< card-link-external title="Dépenses liées à l'insuffisance cardiaque (Data Ameli)" image="ameli" subtitle="Data ameli" url="https://data.ameli.fr/pages/pathologies/?refine.patho_niv1=Maladies%20cardioneurovasculaires&refine.patho_niv2=Insuffisance%20cardiaque">}}
 
@@ -321,7 +321,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
 - Anti-aldostérone spironolactone ou éplérénone
 - {{< modal-btn modal-isglt2 >}}Dapagliflozine ou empagliflozine (iSGLT2){{< /modal-btn >}} 10 mg/j systématique
 - Traitements de 2^e^ ligne: symptômes persistants
-  - Ivabradine (FEVG ≤ 35% et fréquence cardiaque ≥ 70/min sous BB dose maximale ou mal tolérés), vericiguat, hydralazine et isosorbide dinitrate chez les sujets à peau noire, digoxine
+  - Ivabradine (FEVG ≤ 35 % et fréquence cardiaque ≥ 70/min sous BB dose maximale ou mal tolérés), vericiguat, hydralazine et isosorbide dinitrate chez les sujets à peau noire, digoxine
 - Mesures hygiéno-diététiques
   - Régime sodé normal (sel < 10 g/j)
   - [Surveillance du poids x 1-2/semaine](https://www.heartfailurematters.org/wp-content/uploads/2021/02/Surveiller-vos-signes-vitaux.pdf), 3-4/semaine si {{< modal-btn score-nyha >}}NYHA 3-4{{< /modal-btn >}}

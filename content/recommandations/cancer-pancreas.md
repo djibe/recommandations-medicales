@@ -135,7 +135,7 @@ Le dépistage débute à 40 ans en cas de pancréatite héréditaire et 50 ans (
 <details class="my-4">
   <summary>Indications au dépistage de l'adénocarcinome du pancréas selon TNCD 2018</summary>
 
-Dépister les personnes avec risque cumulé d'adénocarcinome du pancréas supérieur à 5% ou risque relatif ≥ 5:
+Dépister les personnes avec risque cumulé d'adénocarcinome du pancréas supérieur à 5 % ou risque relatif ≥ 5:
 
 - ≥ 2 apparentés atteints d'adénocarcinome du pancréas (AP) dont ≥ 1 au premier degré
 - Mutation germinale d'un gène de prédisposition ET ≥ 2 apparentés atteints d'AP OU ≥ 1 au 1^er^ degré

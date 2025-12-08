@@ -45,7 +45,7 @@ Ressources: [Annuaire des centres de soins CSAPA, addictologues et hôpitaux](ht
 
 Alcool
 : Substance psychoactive la plus utilisée en France (suivie de tabac et cannabis). Plus précisément *éthanol*, obtenu par fermentation de fruits, grains ou tubercules.
-: Concentration plasmatique maximale atteinte en 45 minutes (90 pendant un repas). 95% est éliminé par le foie.
+: Concentration plasmatique maximale atteinte en 45 minutes (90 pendant un repas). 95 % est éliminé par le foie.
 : Un verre standard contient 10 grammes d'alcool pur (éthanol). Marqueurs de consommation: **VGM** (diminue en 3 mois à l'arrêt) + **GGT** (peu sensible avant 30 ans, diminue de 50 % tous les 15 jours à l'arrêt).
 : Objectifs principaux de la prise en charge du mésusage: éviter l'évolution vers des complications somatiques ou psychiatriques, réduire les dommages consécutifs et améliorer la qualité de vie des patients.
 
@@ -137,9 +137,9 @@ TUA
 - Consommation excessive
   - La France est 6^e^ des pays de l'OCDE (sur 34)
   - **La moitié des 18-74 ans dépasse les repères de consommation** (2024)  
-    60 % des hommes et 37% des femmes.
-    48% ont un diplôme inférieur ou égal au baccalauréat
-  - 10 % des 18-75 ans absorbent 58% de l'alcool consommé
+    60 % des hommes et 37 % des femmes.
+    48 % ont un diplôme inférieur ou égal au baccalauréat
+  - 10 % des 18-75 ans absorbent 58 % de l'alcool consommé
   - 11,7 L/an/+15 ans
 - Risque suicidaire: x90 quand > 100 g/j
 - Accidents
@@ -149,11 +149,11 @@ TUA
 
 #### Croyances sur l'alcool en France
 
-- 77% ignorent que l'alcool est la 2^e^ cause de mortalité (*[La ligue 2018](https://www.ligue-cancer.net/article/46014_une-forte-majorite-des-francais-en-faveur-des-mesures-efficaces-pour-reduire-la)*)
-- 54% n'ont pas le sentiment de prendre de risques en consommant (même +10 verres/semaine, *La ligue 2018*)
+- 77 % ignorent que l'alcool est la 2^e^ cause de mortalité (*[La ligue 2018](https://www.ligue-cancer.net/article/46014_une-forte-majorite-des-francais-en-faveur-des-mesures-efficaces-pour-reduire-la)*)
+- 54 % n'ont pas le sentiment de prendre de risques en consommant (même +10 verres/semaine, *La ligue 2018*)
 - 23,5 % pensent qu'un verre par jour diminue le risque de cancer (*INCa 2023*)
 - 40 % pensent qu'il n'engendre que le cancer du foie (*La ligue 2018*)
-- 54% ignorent les risques dès le premier verre pendant la grossesse (*BEH 2023*)
+- 54 % ignorent les risques dès le premier verre pendant la grossesse (*BEH 2023*)
 
 {{% /collapse %}}
 {{%collapse "Repérage d'un mésusage de l'alcool" "show" %}}
@@ -461,7 +461,7 @@ Suivi rapproché durant le traitement.
 > -- *AFEF 2021 et SFA 2015*
 {{%/info%}}
 
-Les **dépressions** sont fréquentes (80%) au cours du sevrage de l'alcool, mais seules 15% persistent à son issue. Recontrôler à 2-4 semaines après le début du sevrage avant d'introduire un antidépresseur.
+Les **dépressions** sont fréquentes (80%) au cours du sevrage de l'alcool, mais seules 15 % persistent à son issue. Recontrôler à 2-4 semaines après le début du sevrage avant d'introduire un antidépresseur.
 
 ##### Signes et symptômes du sevrage alcoolique
 

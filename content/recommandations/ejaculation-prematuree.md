@@ -38,7 +38,7 @@ flowchart = true
 Éjaculation prématurée (EP)
 : Définition de cette dysfonction sexuelle masculine par le *SIAMS*: perception subjective persistante et récurrente de la perte du contrôle contrôle du mécanisme éjaculatoire en présence de stimuli érotiques appropriés; avec une détresse subjective liée à l'EP retentissant chez le patient et le partenaire; et un temps de latence intra-vaginal (TLIV) court, qu'il soit subjectivement perçu par le patient et son partenaire ou objectivement mesuré comme étant inférieur à 180 secondes (en général). D'autres définitions proches sont aussi acceptées (SIMS, DSM-5, CIM-11).
 : La même définition est utilisée pour les autres types de rapports sexuels (masturbation, sexe oral ou anal) et les rapports homosexuels.
-: La prévalence est estimée à 5% des hommes avec une forte association avec la dysfonction érectile (jusqu'à 50%).
+: La prévalence est estimée à 5 % des hommes avec une forte association avec la dysfonction érectile (jusqu'à 50%).
 
 {{< table title="Description des 4 syndromes d'éjaculateur prématurée utilisés pour la classification des hommes se plaignant d'éjaculation prématurée. Dr JB Fron d'après *AIUS 2024*" class="table-wrap" >}}
 | EP primaire | EP acquise | EP variable | EP subjective |

@@ -67,8 +67,8 @@ Autres causes d'hyperphagie secondaire d'origine organique:
 
 ### Épidémiologie de la boulimie
 
-- Prévalence de la boulimie: 1,5% des 11-20 ans avec 90 % de jeunes filles
-- Prévalence de l'hyperphagie boulimique: 3-5% de la population, sex-ratio équilibré
+- Prévalence de la boulimie: 1,5 % des 11-20 ans avec 90 % de jeunes filles
+- Prévalence de l'hyperphagie boulimique: 3-5 % de la population, sex-ratio équilibré
 
 ### Abréviations
 

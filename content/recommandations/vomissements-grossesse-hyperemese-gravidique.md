@@ -36,7 +36,7 @@ Nausées et vomissements gravidiques
 : Nausées et vomissements débutant au premier trimestre de grossesse en l'absence d'autre étiologie (ex. [boulimie nerveuse]({{% relref "boulimie-hyperphagie.md" %}}) ...).
 : Ils sont **non compliqués** en l'absence de critères d'hyperémèse gravidique.
 : Ils atteignent 50-90 % des femmes enceintes, souvent modérés sans atteinte de la qualité de vie et cèdent à la **fin du premier trimestre**.
-: 35% ont des symptômes invalidants avec un impact marqué sur la vie personnelle. 0,3 à 3,6% sont hospitalisées.
+: 35 % ont des symptômes invalidants avec un impact marqué sur la vie personnelle. 0,3 à 3,6 % sont hospitalisées.
 
 Hyperémèse gravidique (HG, hyperemesis gravidarum)
 : Nausées et vomissements gravidiques sévères avec au moins un critère parmi: amaigrissement ≥ 5%, signe de déshydratation, {{< modal-btn modal-puqe >}}score PUQE ≥ 7{{< /modal-btn >}}.
@@ -153,7 +153,7 @@ graph TB
   style nausees stroke:#4150f5, stroke-width:1px
     critères -- Oui --> nonCompliqué(Nausées et vomissements<br>gravidiques non compliqués) -- Ambulatoire --> ligne1("<b>Première intention</b><br>—<br>Gingembre<br>ou Doxylamine<br>ou Doxylamine + pyridoxine<br>ou Dimenhydrinate") -- Rééval 72h --> métoclopramide(Métoclopramide) -- Rééval 72h --> ligne3(Chlorpromazine<br>ou Prométhasine<br>ou Métopimazine) --> hospitalisation(Hospitalisation)
     critères -- Non --> hyperémèse(Hyperémèse gravidique) --> bilan("- Ionogramme<br>- Créatininémie + BU")
-      bilan --> correct("5% ≤ Perte de poids &lt; 10%<br>et hydratation normale<br>et PUQE 7-12<br>et kaliémie ≥ 3<br>et Natrémie ≥ 120<br>et Créatininémie ≤ 100") -- Ambulatoire --> ligneh1(<b>idem première intention</b><br>sans gingembre) -- Rééval 24-48h --> ligneh2(Métoclopramide) -- Rééval 24-48h --> ligne3
+      bilan --> correct("5 % ≤ Perte de poids &lt; 10%<br>et hydratation normale<br>et PUQE 7-12<br>et kaliémie ≥ 3<br>et Natrémie ≥ 120<br>et Créatininémie ≤ 100") -- Ambulatoire --> ligneh1(<b>idem première intention</b><br>sans gingembre) -- Rééval 24-48h --> ligneh2(Métoclopramide) -- Rééval 24-48h --> ligne3
       bilan --> grave("≥ 1 critère parmi ?<br>- Perte de poids ≥ 10%<br>- Déshydratation<br>- PUQE ≥ 13<br>- Kaliémie &lt; 3<br>- Natrémie &lt; 120<br>- Créatininémie &gt; 100") -- Oui --> hospitalisation
 {{< /mermaid >}}
 

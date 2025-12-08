@@ -42,13 +42,13 @@ Diabète gestationnel (DG)
 C'est un facteur de risque de complications obstétricales:  
     - Maternelles: [pré-éclampsie]({{% relref "pre-eclampsie.md" %}}), césarienne, traumatisme périnéal
     - Fœtales: macrosomie, hydramnios (rare), hyperbilirubinémie, dystocie des épaules, mortalité, hypoglycémie, prématurité
-: La prévalence du diabète gestationnel est de 8% (2012) et en augmentation. Le risque à long terme de [diabète de type 2]({{% relref "diabete-type-2.md" %}}) est multiplié par 7.
-: Le diabète gestationnel est sur-dépisté: 76% des femmes enceintes versus 42% attendus (*Regnault 2012*).
+: La prévalence du diabète gestationnel est de 8 % (2012) et en augmentation. Le risque à long terme de [diabète de type 2]({{% relref "diabete-type-2.md" %}}) est multiplié par 7.
+: Le diabète gestationnel est sur-dépisté: 76 % des femmes enceintes versus 42 % attendus (*Regnault 2012*).
 
 Rappels sur le diabète gestationnel:
 
 - La glycémie baisse de 20 % pendant la grossesse chez la femme non diabétique
-- 18% des femmes avec un diabète gestationnel développeront un diabète de type 2 dans les 6 ans (*Diagest2*)
+- 18 % des femmes avec un diabète gestationnel développeront un diabète de type 2 dans les 6 ans (*Diagest2*)
 - Le diabète gestationnel ne modifie pas l'incidence des asphyxies néonatales, décès périnataux et hypocalcémies néonatales
 
 ### Incidence du diabète gestationnel

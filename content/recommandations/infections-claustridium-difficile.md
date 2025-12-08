@@ -23,7 +23,7 @@ todo = "flow | Rechercher chez SII avec diarrhées aiguës profuses."
 
 {{%article-summary%}}
 
-- *Clostridioides difficile*, ex *Claustridium difficile*, cause 10 à 25% des diarrhées post-antibiotiques
+- *Clostridioides difficile*, ex *Claustridium difficile*, cause 10 à 25 % des diarrhées post-antibiotiques
 - Le diagnostic d'infection à *Clostridioides difficile* est clinico-microbiologique: situation évocatrice (antibiothérapie, hospitalisation, immunodépression, intestin irritable), au moins 3 selles non moulées par 24 heures non glairo-sanglantes, et coproculture avec 2 tests positifs à *C. difficile*
 - Une fièvre modérée est possible. Un tableau brutal évoque une colite pseudomembraneuse dont le traitement est urgent
 - Le bilan biologique et la coproculture sur selles diarrhéiques sont systématiques: NFS, CRP, bilan rénal, hépatique et coproculture avec recherche de *C. difficile* mentionnée sur l'ordonnance
@@ -38,13 +38,13 @@ todo = "flow | Rechercher chez SII avec diarrhées aiguës profuses."
 : Elle peut être pathogène lorsqu'elle exprime des toxines (dites A ou entérotoxine et B ou cytotoxine).
 
 Colonisation par *Clostridioides difficile* (ex *Claustridium difficile*)
-: Portage de la bactérie sans symptômes. Sa prévalence est élevée (4 à 15% des adultes, jusqu'à 50 % en hospitalisation).
+: Portage de la bactérie sans symptômes. Sa prévalence est élevée (4 à 15 % des adultes, jusqu'à 50 % en hospitalisation).
 
 Infection à *Clostridioides difficile* (ICD)
 : Atteinte toxinique majoritairement colique, de gravité très variable et dominée par les diarrhées, avec au moins 3 selles non moulées par 24 heures (sans glaires ni sang) et test positif à *C. difficile*. D'autres symptômes sont possibles (fièvre, douleurs et crampes abdominales, nausées, anorexie).
 : Des facteurs modifiant le microbiote (antibiothérapies répétées, hospitalisation) déclenchent une pullulation avec syndrome toxinique causant diarrhée et inflammation colique. Des sujets sont plus à risque (sujet +65 ans, immunodépression, syndrome de l'intestin irritable).
 : L'infection est dite **non sévère** selon des critères biologiques: hyperleucocytose < 15.000/mm³ ou créatininémie < 15 mg/L, **sévère** au-delà de ces seuils et **fulminante** en cas de critères sévères associés à une hypotension, choc, iléus ou mégacôlon toxique.
-: L'infection est le plus souvent colique (10 à 25% des diarrhées post-antibiotiques), avec possible colite pseudomembraneuse (début brutal, > 7 selles/j).
+: L'infection est le plus souvent colique (10 à 25 % des diarrhées post-antibiotiques), avec possible colite pseudomembraneuse (début brutal, > 7 selles/j).
 
 ### Abréviations
 

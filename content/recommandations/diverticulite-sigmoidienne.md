@@ -48,7 +48,7 @@ Elle est asymptomatique dans 80 % des cas.
 
 Les complications des poussées de diverticulite sigmoïdienne (*ex* sigmoïdite diverticulaire) surviennent principalement à la première poussée.
 
-Le traitement de la **diverticulite compliquée** (12% des cas) est urgent et spécialisé:
+Le traitement de la **diverticulite compliquée** (12 % des cas) est urgent et spécialisé:
 
 - Abcès
 - Fistule sigmoïdienne
