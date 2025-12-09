@@ -334,7 +334,7 @@ graph TB
 {{< youtube id="JFJK6ODqPnc" title="ABPI measurement (OSCE Guide)" >}}
 
 - {{< references/esc-cvd >}}
-- {{< references/sfd-dt2 >}}
+- {{< references/sfd-dt2-2023 >}}
 - [HAS. Artériopathie oblitérante des membres inférieurs. Actes et prestations Affection de longue durée. 2021.](https://www.has-sante.fr/jcms/c_534760/fr/ald-n3-arteriopathie-obliterante-des-membres-inferieurs)
 - [Mahé G, et al, the SFMV/SCVE group. Disparities between international guidelines (AHA/ESC/ESVS/ESVM/SVS) concerning - Lower extremity arterial disease: consensus of the French Society of Vascular Medicine (SFMV) and the French Society for Vascular and Endovascular Surgery (SCVE). Annals of Vascular Surgery. 2021.](https://doi.org/10.1016/j.avsg.2020.11.011)
 - {{< references/esc-dyslipidaemias >}}

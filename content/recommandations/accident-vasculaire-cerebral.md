@@ -375,7 +375,7 @@ graph TB
 - [Kremer C, et al. European Stroke Organisation guidelines on stroke in women: Management of menopause, pregnancy and postpartum. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/full/10.1177/23969873221078696)
 - [HAS. Rééducation à la phase chronique d'un AVC de l'adulte : Pertinence, indications et modalités. 2022.](https://www.has-sante.fr/jcms/p_3150692/fr/reeducation-a-la-phase-chronique-d-un-avc-de-l-adulte-pertinence-indications-et-modalites)
 - {{< references/esc-cvd >}}
-- {{< references/sfd-dt2 >}}
+- {{< references/sfd-dt2-2021 >}}
 - [Kleindorfer DO, et al. 2021 Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2021.](https://www.ahajournals.org/doi/10.1161/STR.0000000000000375)
 - [Fonseca AC, et al. European Stroke Organisation (ESO) guidelines on management of transient ischaemic attack. European Stroke Journal. 2021.](https://journals.sagepub.com/doi/full/10.1177/2396987321992905)
 - {{< references/esc-dyslipidaemias >}}

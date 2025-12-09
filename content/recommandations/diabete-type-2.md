@@ -435,7 +435,6 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 - {{< references/esc-cvd >}}
 - [Lee CG, et al. Effect of Metformin and Lifestyle Interventions on Mortality in the Diabetes Prevention Program and Diabetes Prevention Program Outcomes Study. Diabetes Care. 2021.](https://doi.org/10.2337/dc21-1046):  
   Sujets à haut risque de diabète suivis pendant 20 ans, pas de bénéfice sur la mortalité totale à un programme intensif de modifications des habitudes de vie versus conseils de perte de poids et d'augmentation de l'activité physique.
-- {{< references/sfd-dt2 >}}
 - [Riddle MC, et al. Consensus report: definition and interpretation of remission in type 2 diabetes. Diabetologia. 2021.](https://link.springer.com/article/10.1007/s00125-021-05542-z)
 - [Monnier L, et al. Updated management of dyslipidaemia in diabetes: A new step towards more stringent targets. Diabetes Epidemiology and Management. 2021.](https://doi.org/10.1016/J.DEMAN.2021.100001)
 - [Valensi P, et al. Risk stratification and screening for coronary artery disease in asymptomatic patients with diabetes mellitus: Position paper of the French Society of Cardiology and the French-speaking Society of Diabetology. Diabetes & Metabolism. 2021.](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/position_paper_sfc_sfd_march_2021_0.pdf)
