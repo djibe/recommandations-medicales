@@ -515,7 +515,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 - {{< references/ada-soc >}}
 - [Kidney Disease: Improving Global Outcomes (KDIGO) Diabetes Work Group. KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. Kidney Int. 2022.](https://kdigo.org/guidelines/diabetes-ckd/)
 - {{< references/esc-cvd >}}
-- {{< references/sfd-dt2 >}}
+- {{< references/sfd-dt2-2023 >}}
 - [HAS. Maladie rénale chronique de l'adulte. Guide du parcours de soins. Juillet 2021.](https://www.has-sante.fr/jcms/p_3288950/fr/guide-du-parcours-de-soins-maladie-renale-chronique-de-l-adulte-mrc)
 - [Cheung A, et al. Executive summary of the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International. 2021.](https://www.kidney-international.org/article/S0085-2538(20)31269-2/fulltext)
 - [Vaccination Info Service. Patient présentant une maladie rénale chronique. 23/04/2020.](https://professionnels.vaccination-info-service.fr/Recommandations-vaccinales-specifiques/Patient-porteur-d-une-maladie-chronique/Patient-presentant-une-maladie-renale-chronique)

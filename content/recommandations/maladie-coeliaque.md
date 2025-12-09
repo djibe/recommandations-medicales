@@ -159,7 +159,7 @@ Considérer un dépistage de la maladie cœliaque chez un enfant (*ESPGHAN 2020*
   - Nausées, vomissements récurrents
 - **Symptômes extra-digestifs:**
   - Perte de poids, retard de croissance
-  - Retard pubertaire, aménorrhée
+  - Retard pubertaire, [aménorrhée]({{% relref "amenorrhee.md" %}})
   - Irritabilité, [fatigue chronique](/tags/fatigue/)
   - Neuropathie
   - Arthrite/arthralgie

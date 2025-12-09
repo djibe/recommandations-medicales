@@ -196,7 +196,7 @@ Indications de l'ostéodensitométrie:
 - Corticothérapie systémique  
   ≥ 7,5 mg/j d'éq. prednisone ≥ 3 mois.
 - Endocrinopathie ou pathologie déminéralisante  
-  Hypogonadisme prolongé (dont orchidectomie, traitement prolongé par GnRH, aménorrhée primaire ou secondaire), [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}) évolutive non traitée, hypercorticisme, hyperparathyroïdie primitive, ostéogenèse imparfaite.
+  Hypogonadisme prolongé (dont orchidectomie, traitement prolongé par GnRH, [aménorrhée primaire ou secondaire]({{% relref "amenorrhee.md" %}})), [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}) évolutive non traitée, hypercorticisme, hyperparathyroïdie primitive, ostéogenèse imparfaite.
   - Maladie cœliaque (*ESsCD 2019*)  
     Au diagnostic puis tous les 2-5 ans selon la DMO.
 - Traitement anti-ostéoporotique

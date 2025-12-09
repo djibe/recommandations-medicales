@@ -84,7 +84,7 @@ Pathologies à l'origine d'un écoulement mamelonnaire:
   [Contraception]({{% relref "contraception.md" %}}) ou hormonal, antidépresseur, neuroleptique, anti-H2, anti-émétique, antihypertenseur.
 - Toxiques  
   Amphétamine, marijuana, caféine en excès.
-- Menstruations (rythme régulier ou  spanioménorrhée, aménorrhée)
+- Menstruations (rythme régulier ou [spanioménorrhée, aménorrhée]({{% relref "amenorrhee.md" %}}))
 - Dermatose mamelonnaire
 - **Caractère de l'écoulement mamelonnaire:**
   - Date et mode de survenue

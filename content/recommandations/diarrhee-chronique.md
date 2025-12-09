@@ -150,7 +150,7 @@ La *malabsorption* donne souvent une stéatorrhée avec selles pâteuses et déc
 - Inspection et **toucher rectal**
 - Fonte musculaire
 - Signes généraux  
-  Syndrome anémique ou hémorragique, thyrotoxicose, glossite, aménorrhée.
+  Syndrome anémique ou hémorragique, thyrotoxicose, glossite, [aménorrhée]({{% relref "amenorrhee.md" %}}).
 - Recherche d'œdèmes
 
 En cas de rectorragies ou de modifications du transit: adresser au gastro-entérologue pour une coloscopie.

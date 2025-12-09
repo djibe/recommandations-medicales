@@ -91,7 +91,7 @@ Situations où il faut **rechercher des signes spécifiques** de syndrome de Cus
 - [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) du sujet jeune ou résistante au traitement
 - [Diabète de type 2]({{% relref "diabete-type-2.md" %}}) avec syndrome plurimétabolique ou déséquilibré sans cause évidente
 - [Dépression](/tags/depression/), trouble de l'humeur, anxiété ou trouble psychiatrique atypique résistant aux antidépresseurs
-- Spanioménorrhée ou aménorrhée secondaire avec obésité ou [hirsutisme]({{% relref "hirsutisme.md" %}})
+- [Spanioménorrhée ou aménorrhée secondaire]({{% relref "amenorrhee.md" %}}) avec obésité ou [hirsutisme]({{% relref "hirsutisme.md" %}})
 - Enfant: retard de croissance
 
 Avis endocrinologique au moindre doute clinique d'un syndrome de Cushing et notamment si:

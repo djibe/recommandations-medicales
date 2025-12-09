@@ -237,7 +237,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 - [HAS. Parcours de soins du patient adulte vivant avec un diabète de type 2. 2025.](https://www.has-sante.fr/jcms/p_3634754/fr/parcours-de-soins-du-patient-adulte-vivant-avec-un-diabete-de-type-2)
 - [ESHRE. International evidence-based guideline for the assessment and management of polycystic ovary syndrome - Summary. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)
 - {{< references/ada-soc >}}
-- {{< references/sfd-dt2 >}}
+- {{< references/sfd-dt2-2023 >}}
 - {{< references/college-endocrino >}}
 - [Vambergue A, et al; SFD, Collège National des Gynécologues et Obstétriciens Français (CNGOF). Diabète gestationnel et pandémie SARS-Cov2 (COVID-19). Avril 2020. (PDF)](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)
 - [Brown J, et al. L'insuline pour le traitement des femmes atteintes de diabète gestationnel. Cochrane Database of Systematic Reviews. 2017.](https://www.cochrane.org/fr/CD012037/PREG_linsuline-pour-le-traitement-des-femmes-atteintes-de-diabete-gestationnel)

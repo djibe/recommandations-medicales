@@ -122,7 +122,7 @@ Les symptômes au cours de la maladie de Wilson apparaissent le plus souvent che
   - Psychose, hallucinations, paranoïa
   - Épilepsie
 - Symptômes gynécologiques  
-  Aménorrhée, [fausses couches répétées]({{% relref "fausses-couches-repetees.md" %}}).
+  [Aménorrhée]({{% relref "amenorrhee.md" %}}), [fausses couches répétées]({{% relref "fausses-couches-repetees.md" %}}).
 - Autres signes et symptômes de maladie de Wilson:
   - hématologiques: anémie hémolytique Coombs négatif, thrombopénie isolée
   - rénaux: lithiase, tubulopathie

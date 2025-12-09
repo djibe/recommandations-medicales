@@ -135,7 +135,7 @@ VPP
 {{%info%}}
 Chez une femme ≥ 45 ans, avec ou sans contraception hormonale, aucun examen ou test n'est recommandé pour porter le diagnostic de ménopause (ou décider de l'arrêt de la contraception hormonale).
 
-En cas de contraception: interrompre la contraception et suivre l'aménorrhée (contraception barrière).
+En cas de contraception: interrompre la contraception et suivre l'[aménorrhée]({{% relref "amenorrhee.md" %}}) (contraception barrière).
 {{%/info%}}
 
 Le diagnostic de ménopause est clinique (voir *[Définitions](#définitions)*).

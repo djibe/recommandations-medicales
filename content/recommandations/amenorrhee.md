@@ -15,16 +15,24 @@ tags = ["cancer", "coeliaque", "douleur pelvienne", "infertilité"]
 english = ["Amenorrhea", "functional hypothalamic amenorrhea (FHA)"]
 sctid = "14302001"
 icd10 = ["N91.2"]
-draft = true
 image = false
 imageSrc = ""
-todo = "summary > liens > photo > newsletter > flow > Kanban | dgccrf tests gs"
+todo = "photo | primaire def ESHRE 2023 SOPK"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-TODO: (at the end)
+- L'aménorrhée est l'absence de cycle menstruel. Elle est dite primaire en l'absence de cycles à partir de 15 ans (principalement de cause chromosomique/génétique) ou secondaire après 3 mois sans cycles chez la femme préalablement réglée (6 mois en cas de cycles irréguliers, causes acquises)
+- Toute aménorrhée doit être explorée, même après l'arrêt d'une contraception hormonale, sauf 3 exceptions: la grossesse, la lactation et la ménopause
+- La prise en charge de l'aménorrhée primaire comprend:
+  - Examen avec recherche des antécédents familiaux de troubles pubertaires, une carence nutritionnelle, le développement pubertaire selon Tanner et un examen gynécologique
+  - Le bilan biologique comprend: œstradiol (E2), FSH, LH ± ßhCG en l'absence de développement pubertaire, une échographie pelvienne lorsque le développement est normal
+  - Une IRM hypothalamique lorsque les gonadotrophines sont basses
+- La prise en charge de l'aménorrhée secondaire comprend:
+  - La recherche d'hyperandrogénie (hirsutisme, séborrhée, acné) voire un virilisme (alopécie, hypertrophie musculaire, raucité de la voix)
+  - Le bilan élimine d'abord une grossesse, complété en cas de négativité des ßhCG avec: œstradiol, FSH, LH, prolactine, testostéronémie totale et TSH. La suite du bilan est guidée par ces résultats
+- Le traitement et la suite du bilan de l'aménorrhée sont spécialisés: endocrinologue et/ou gynécologue
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -66,6 +74,9 @@ IOP
 
 PRL
 : prolactine
+
+SOPK
+: syndrome des ovaires polykystiques
 {.dl-inline}
 
 {{% /collapse %}}
@@ -88,6 +99,7 @@ Les principales causes d'aménorrhée primaire sont génétiques ou chromosomiqu
   - Hématocolpos: accumulation intra-utérine des règles par imperforation de l'hymen. Développement pubertaire et utérus présent.
   - Agénésie utérine (agénésie müllérienne de caryotype 46,XX; anomalies sévères de la biosynthèse ou de la réceptivité aux
 androgènes caryotype 46,XY)
+- Cause métabolique: [maladie de Wilson]({{% relref "amenorrhee.md" %}})
 
 ### Aménorrhée secondaire
 
@@ -188,7 +200,7 @@ La présence d'irrégularités menstruelles avant l'aménorrhée (spanioménorrh
 - Voire un virilisme:  
   {{< clinique/virilisme >}}.
 
-> **NB.** 1/3 des tests de grossesse sont non conformes (*[DGCCRF](https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/les-enquetes/les-autotests-de-fertilite-au-banc-dessai)*)
+> **NB.** 1/3 des tests urinaires de grossesse ne sont pas conformes (*[DGCCRF](https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/les-enquetes/les-autotests-de-fertilite-au-banc-dessai)*)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -198,6 +210,7 @@ La présence d'irrégularités menstruelles avant l'aménorrhée (spanioménorrh
 - Sans développement pubertaire: ==œstradiol (E2), FSH, LH==
 - Développement pubertaire normal: ==échographie pelvienne==
 - Un test de grossesse peut être proposé
+- Une [sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}) peut être proposée (*ESPGHAN 2020*)
 
 **Conduite à tenir selon les résultats du bilan:**
 

@@ -142,7 +142,7 @@ Adresser à l'endocrinologue en cas de signes d'hyperandrogénie ou de virilisat
 
 ### Bilan d'un hirsutisme
 
-- Hirsutisme avec aménorrhée: bHCG
+- Hirsutisme avec [aménorrhée]({{% relref "amenorrhee.md" %}}): bHCG
 - Si score Ferriman-Gallwey anormal (voir *Clinique*): testostéronémie entre 8 et 11 heures.
 
 {{%info%}}

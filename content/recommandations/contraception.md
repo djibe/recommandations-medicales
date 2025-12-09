@@ -402,7 +402,7 @@ Les préservatifs sont les seules barrières contre les IST. Informer sur la *Co
 
 #### Femme après 50 ans
 
-- Contraception non hormonale: poursuivre jusqu'à 12 mois d'aménorrhée
+- Contraception non hormonale: poursuivre jusqu'à 12 mois d'[aménorrhée]({{% relref "amenorrhee.md" %}})
 - Contraception hormonale
   - Arrêt de COP
   - Dosages hormonaux inutiles. Remplacement par méthode barrière quelques mois et méthode non hormonale si persistance des cycles.

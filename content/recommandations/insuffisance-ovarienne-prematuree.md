@@ -114,7 +114,7 @@ Liste des causes pouvant être à l'origine de la ménopause précoce:
 > [!INFO]
 > Le diagnostic d'insuffisance ovarienne prématurée doit être réalisé sans tarder pour introduire le traitement hormonal substitutif (THS) et prévenir les complications, notamment **cardiovasculaires**.
 
-Le critère diagnostique clinique d'insuffisance ovarienne prématurée (IOP) est un **trouble des cycles** (aménorrhée ou cycles irréguliers) persistant au moins 4 mois avant 40 ans.
+Le critère diagnostique clinique d'insuffisance ovarienne prématurée (IOP) est un **trouble des cycles** ([aménorrhée ou cycles irréguliers]({{% relref "amenorrhee.md" %}})) persistant au moins 4 mois avant 40 ans.
 
 Le diagnostic est clinique en cas d'**ovariectomie bilatérale** avant 40 ans.
 

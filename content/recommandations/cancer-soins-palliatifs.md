@@ -38,7 +38,7 @@ Articles liés: [directives anticipées]({{% relref "directives-anticipees.md" %
 | Atteinte      | Prise en charge                                            | Source |
 |---------------|------------------------------------------------------------|--------|
 | [Alopécie]({{% relref "alopecie.md" %}})      | Max J15-17. Casque réfrigérant pendant. Prothèse capillaire. Repousse systématique 3-5 semaines après la dernière injection  | INCa TODO: |
-| Aménorrhée        | Aucune | INCa TODO: |
+| [Aménorrhée]({{% relref "amenorrhee.md" %}})        | Aucune | INCa TODO: |
 | Anémie        | Surveillance régulière de la NFS | INCa TODO: |
 | Anorexie, dénutrition |  | INCa TODO: |
 | Arthralgie, myalgie |  | INCa TODO: |

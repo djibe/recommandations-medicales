@@ -86,7 +86,7 @@ Les facteurs majeurs de fausses couches répétées sont l'**âge de la femme** 
 - Anticoagulant circulant de type lupique (ACC) et IgG et IgM anti-cardiolipine
 - [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}): IgA totales et IgA anti-transglutaminase (*ESsCD*)
 - Céruloplasmine, cuprémie totale, cuprurie des 24 heures (*PNDS 2022 [Maladie de Wilson]({{% relref "maladie-wilson.md" %}})*)
-- Si (oligo-) aménorrhée: prolactinémie
+- Si (oligo-) [aménorrhée]({{% relref "amenorrhee.md" %}}): prolactinémie
 - Échographie pelvienne transvaginale 3D
 {{%/info%}}
 
