@@ -162,17 +162,7 @@ Examens pour éliminer une ostéoporose secondaire.
 
 ### Bilan biologique pour la prise en charge de l'ostéoporose
 
-- NFS, CRP
-- Ionogramme, créatininémie, DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
-- ASAT, ALAT, GGT, PAL
-- TSH
-- Vitamine D
-- Calcémie corrigée, phosphatémie (*COFER*)
-- Ferritine (voir [hémochromatose]({{% relref "hemochromatose.md" %}}))
-- [Électrophorèse des protéines sériques]({{% relref "electrophorese-proteines-seriques.md" %}})
-  - Indications: fracture vertébrale suspecte, fracture pathologique, géodes
-  - Systématique selon le COFER pour éliminer un myélome déminéralisant
-- Âge jeune: sérologie cœliaque (*ESsCD 2019*)
+{{< clinique/osteoporose-bilan >}}
 {{%/info%}}
 
 Avis spécialisé en cas d'anomalie.
@@ -188,7 +178,7 @@ Indications aux radiographies du rachis dorso-lombaire:
 - Corticothérapie prolongée, anti-aromatase/androgène
 
 > [!INFO]
-> Une fracture vertébrale du mur antérieur donne un **aspect cunéiforme**. Lorsque le tassement atteint toute la vertèbre, on parle de **vertèbre en galette**.
+> Une [fracture vertébrale]({{% relref "fracture-vertebrale-non-traumatique.md" %}}) du mur antérieur donne un **aspect cunéiforme**. Lorsque le tassement atteint toute la vertèbre, on parle de **vertèbre en galette**.
 
 ### Ostéodensitométrie (DXA)
 
@@ -208,7 +198,7 @@ Indications de l'ostéodensitométrie:
 - Endocrinopathie ou pathologie déminéralisante  
   Hypogonadisme prolongé (dont orchidectomie, traitement prolongé par GnRH, aménorrhée primaire ou secondaire), [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}) évolutive non traitée, hypercorticisme, hyperparathyroïdie primitive, ostéogenèse imparfaite.
   - Maladie cœliaque (*ESsCD 2019*)  
-  Au diagnostic puis tous les 2-5 ans selon la DMO.
+    Au diagnostic puis tous les 2-5 ans selon la DMO.
 - Traitement anti-ostéoporotique
   - Contrôle tous les 2-3 ans de la réponse au traitement
   - À chaque modification de traitement et en arrêt précoce

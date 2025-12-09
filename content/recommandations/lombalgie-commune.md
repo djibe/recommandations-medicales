@@ -181,7 +181,7 @@ Indications aux radiographies pour lombalgie:
 - Femme ménopausée avec rachialgies (*SFR 2018 ostéoporose*)
 - Perte de taille ≥ 4 cm (comparaison à l'âge de 20 ans)(*SFR 2018 ostéoporose*)
 - Perte de taille ≥ 2 cm par rapport aux précédentes mesures (*SFR 2018 ostéoporose*)
-- Antécédent de fracture vertébrale (*SFR 2018 ostéoporose*)
+- Antécédent de [fracture vertébrale]({{% relref "fracture-vertebrale-non-traumatique.md" %}}) (*SFR 2018 ostéoporose*)
 - Corticothérapie prolongée, anti-aromatase/androgène (*SFR 2018 ostéoporose*)
 
 > [!INFO]

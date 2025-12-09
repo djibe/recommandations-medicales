@@ -57,7 +57,7 @@ Indications à la réalisation de l'électrophorèse des protéines sériques (E
 - [Insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}) récente non obstructive
 - Protéinurie > 0,5 g/L
 - Certaines anomalies osseuses radiologiques  
-  Fracture vertébrale suspecte, fracture pathologique, géodes.
+  [Fracture vertébrale]({{% relref "fracture-vertebrale-non-traumatique.md" %}}) suspecte, fracture pathologique, géodes.
 - [Bouffées vasomotrices atypiques]({{% relref "menopause.md" %}}) (*CNGOF 2021 Ménopause*)
 - Hépatopathie
   - [Prurit sans orientation]({{% relref "prurit.md" %}}) (*CEDEF 2021*)

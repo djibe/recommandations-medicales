@@ -295,8 +295,8 @@ graph TB
 
 - [Pickering ME, et al. Supplémentation quotidienne ou intermittente en vitamine D chez les personnes avec ou à risque d'ostéoporose: Position du GRIO. Revue du Rhumatisme. 2025.](https://www.sciencedirect.com/science/article/pii/S1169833025001735)
 - [HAS. Les médicaments de l'ostéoporose. Bon usage du médicament. 2023.](https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-l-osteoporose)
-- [Biver E et al. Dietary recommendations in the prevention and treatment of osteoporosis. Joint Bone Spine. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X22001816)
-- [Bouvard P et al; GRIO. Recommandations françaises de la prise en charge et du traitement de l'ostéoporose masculine. Revue du Rhumatisme. 2021. (PDF)](https://www.grio.org/documents/page246/reco-op-masculine.pdf)
+- [Biver E, et al. Dietary recommendations in the prevention and treatment of osteoporosis. Joint Bone Spine. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X22001816)
+- [Bouvard P, et al; GRIO. Recommandations françaises de la prise en charge et du traitement de l'ostéoporose masculine. Revue du Rhumatisme. 2021. (PDF)](https://www.grio.org/documents/page246/reco-op-masculine.pdf)
 
 ### Bibliographie pour en savoir plus
 
