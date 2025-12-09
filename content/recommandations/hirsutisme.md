@@ -168,7 +168,7 @@ La prise en charge de l'hirsutisme comporte des mesures cosmétiques, parfois un
 
 - **Mesures cosmétiques:** rasage, épilation (pince, cire)
 - **Photo-épilation** si poils foncés, **électrolyse** si clairs  
-  Pendant le traitement, ajout possible d'éflornithine crème ([Vaniqa 11,5%](https://ec.europa.eu/health/documents/community-register/2018/20180316140355/anx_140355_fr.pdf)) x 2/j pour accélérer la chute des poils.
+  Pendant le traitement, ajout possible d'éflornithine crème ([Vaniqa 11,5 %](https://base-donnees-publique.medicaments.gouv.fr/medicament/64328981/extrait#tab-rcp-et-notice)) x 2/j pour accélérer la chute des poils.
 - Si obésité ou ovaires polykystiques (SOPK): correction d'un **surpoids** et activité physique contre l'insulinorésistance
 
 En cas d'hyperandrogénie: maintenir un traitement médicamenteux pour éviter la repousse des poils.

@@ -171,13 +171,13 @@ Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}}).
 
 ##### Méningocoque ACWY
 
-- [Menquadfi®](https://ec.europa.eu/health/documents/community-register/2022/20220929157200/anx_157200_fr.pdf) 1 dose unique (rythme de rappel non défini)  
-  ou Menveo® (fourni sans seringue ni aiguille) ou [Nimenrix®](https://ec.europa.eu/health/documents/community-register/2023/20230223158551/anx_158551_fr.pdf) avec 2^e^ injection à 6 mois puis **rappel** tous les 5 ans
+- [Menquadfi®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63064137/extrait#tab-rcp-et-notice) 1 dose unique (rythme de rappel non défini)  
+  ou Menveo® (fourni sans seringue ni aiguille) ou [Nimenrix®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69241562/extrait#tab-rcp-et-notice) avec 2^e^ injection à 6 mois puis **rappel** tous les 5 ans
 - Vacciné avant 7 ans contre méningocoque ACYW135: rappel à 3 ans puis tous les 5 ans
 
 ##### Méningocoque B
 
-- ≥ 11 ans: [Bexsero®](https://ec.europa.eu/health/documents/community-register/2021/20210701152279/anx_152279_fr.pdf) avec 2^e^ injection à 1 mois  
+- ≥ 11 ans: [Bexsero®](https://base-donnees-publique.medicaments.gouv.fr/medicament/64493883/extrait#tab-rcp-et-notice) avec 2^e^ injection à 1 mois  
   ou Trumenba® ≥ 10 ans en 2 ou 3 injections (et rythme de rappel non défini)
 - 6 mois à 10 ans: Bexsero® avec 2^e^ injection à 2 mois
 - 2 à 5 mois: Bexsero® en 3 injections à 1 mois d'intervalle

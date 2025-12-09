@@ -249,9 +249,9 @@ Mesure de la **charge virale** obligatoire avant de débuter le traitement. **EC
 
 2 schémas thérapeutiques au choix (guérison dépassant 90%):
 
-- [Epclusa® (PDF)](https://ec.europa.eu/health/documents/community-register/2020/20200825148798/anx_148798_fr.pdf) (sofosbuvir + velpastavir)  
+- [Epclusa® (PDF)](https://base-donnees-publique.medicaments.gouv.fr/medicament/63434686/extrait#tab-rcp-et-notice) (sofosbuvir + velpastavir)  
   Epclusa® 400/100 mg 1 cp par jour pendant 12 semaines.
-- [Maviret® (PDF)](https://ec.europa.eu/health/documents/community-register/2020/20200303147380/anx_147380_fr.pdf) (glécaprévir + pibrentasvir)  
+- [Maviret® (PDF)](https://base-donnees-publique.medicaments.gouv.fr/medicament/63052124/extrait#tab-rcp-et-notice) (glécaprévir + pibrentasvir)  
   Maviret® 100/40 mg 3 cp en 1 prise quotidienne lors d'un repas pendant 8 semaines
 
 **Effets indésirables principaux:** asthénie, céphalées, nausées d'intensité modérée, atteignant 10 % des patients.

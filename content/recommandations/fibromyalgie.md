@@ -234,7 +234,7 @@ Seulement 40 % des patients observent une amélioration de 30 % de leurs symptô
 
 Doses quotidiennes habituelles pour le traitement de la fibromyalgie pour un essai de 12 semaines:
 
-1. [Prégabaline](https://ec.europa.eu/health/documents/community-register/2022/20220613155970/anx_155970_fr.pdf) 25-300 mg (antiépileptique)
+1. [Prégabaline](https://base-donnees-publique.medicaments.gouv.fr/medicament/62303075/extrait#tab-rcp-et-notice) 25-300 mg (antiépileptique)
 2. [Duloxétine](https://base-donnees-publique.medicaments.gouv.fr/medicament/60457719/extrait#tab-rcp) 30-60 mg (IRSNA)
 3. [Milnacipran](https://base-donnees-publique.medicaments.gouv.fr/medicament/60430095/extrait#tab-rcp) 5-100 mg (IRSNA)
 

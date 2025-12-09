@@ -253,7 +253,7 @@ puis 5 mg x 2/j au moins 3 mois
 
 2 AOD ont l'AMM pour la TVP:
 
-- **[Apixaban 5 mg](https://ec.europa.eu/health/documents/community-register/2021/20210111150212/anx_150212_fr.pdf)** 2 cp x 2/j 7 jours puis 5 mg x 2/j (préféré par Prescrire®)  
+- **[Apixaban 5 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/61902218/extrait#tab-rcp-et-notice)** 2 cp x 2/j 7 jours puis 5 mg x 2/j (préféré par Prescrire®)  
   CI quand {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 25 mL/min.
 - Rivaroxaban 15 mg x 2/j 21 jours puis 20 mg x 1/j  
   CI quand {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 30 mL/min.

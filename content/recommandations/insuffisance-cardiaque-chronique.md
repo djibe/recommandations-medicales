@@ -315,7 +315,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
 **La prise en charge de l'insuffisance cardiaque à fraction d'éjection diminuée a 3 objectifs:** réduire la mortalité, les hospitalisations pour décompensation, améliorer les capacités fonctionnelles et la qualité de vie.
 
 - {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} dose maximale  
-  Remplacé par [valsartan/sacubitril](https://ec.europa.eu/health/documents/community-register/2023/20230526159257/anx_159257_fr.pdf) (Entresto®) si insuffisant ou mal toléré.
+  Remplacé par [valsartan/sacubitril](https://base-donnees-publique.medicaments.gouv.fr/medicament/61816438/extrait#tab-rcp-et-notice) (Entresto®) si insuffisant ou mal toléré.
 - {{< modal-btn modal-bb >}}Bêta-bloquant{{< /modal-btn >}} dose maximale  
   En maintenant la FC ≥ 50/min ou sur avis cardiologique en-dessous.
 - Anti-aldostérone spironolactone ou éplérénone
@@ -353,7 +353,7 @@ Peu de traitements ont fait leurs preuves pour la prise en charge de l'insuffisa
 ### Traitements à considérer
 
 - {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} ou {{< modal-btn modal-ara2-ic >}}ARA2{{< /modal-btn >}} à dose maximale  
-  Remplacé par [valsartan/sacubitril](https://ec.europa.eu/health/documents/community-register/2023/20230526159257/anx_159257_fr.pdf) (Entresto®) si insuffisant.
+  Remplacé par [valsartan/sacubitril](https://base-donnees-publique.medicaments.gouv.fr/medicament/61816438/extrait#tab-rcp-et-notice) (Entresto®) si insuffisant.
 - {{< modal-btn modal-bb >}}Bêta-bloquant{{< /modal-btn >}} dose maximale  
   En maintenant la FC ≥ 50/min ou sur avis cardiologique en-dessous.
 - Anti-aldostérone spironolactone ou éplérénone

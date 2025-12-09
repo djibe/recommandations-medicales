@@ -158,7 +158,7 @@ Hydromorphone, oxycodone.
 - Contrôle de la saturation
 
 Toujours disposer de naloxone intra-veineuse ([Narcan®](https://base-donnees-publique.medicaments.gouv.fr/medicament/64117646/extrait#tab-rcp), gén).  
-[Nyxoid® nasal (PDF)](https://ec.europa.eu/health/documents/community-register/2022/20220915156779/anx_156779_fr.pdf) possible à partir de 14 ans: 1,8 mg nasal toutes les 2-3 minutes si besoin.
+[Nyxoid® nasal (PDF)](https://base-donnees-publique.medicaments.gouv.fr/medicament/63868145/extrait#tab-rcp-et-notice) possible à partir de 14 ans: 1,8 mg nasal toutes les 2-3 minutes si besoin.
 
 {{% /collapse %}}
 {{%collapse "Autres méthodes antalgiques" %}}

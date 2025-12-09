@@ -161,7 +161,7 @@ Les laxatifs par voie rectale (lavements et suppositoires) sont recommandés en 
 - Laxatif lubrifiant: [huile de paraffine buvable](https://base-donnees-publique.medicaments.gouv.fr/medicament/68592416/extrait#tab-rcp)  
   Contre-indications: troubles de déglutition ou de la motricité œsogastrique.
 - Laxatif stimulant: séné ([Agiolax®](https://base-donnees-publique.medicaments.gouv.fr/medicament/66768488/extrait#tab-rcp) ou autre), [bisacodyl](https://base-donnees-publique.medicaments.gouv.fr/medicament/62128430/extrait#tab-rcp), [picosulfate de sodium](https://base-donnees-publique.medicaments.gouv.fr/medicament/63875218/extrait#tab-rcp)
-- Laxatif prokinétique (non remboursés): pyridostigmine, prucalopride ([Resolor®](https://ec.europa.eu/health/documents/community-register/2022/20221216158010/anx_158010_fr.pdf))
+- Laxatif prokinétique (non remboursés): pyridostigmine, prucalopride ([Resolor®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69471136/extrait#tab-rcp-et-notice))
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la constipation" "show" %}}

@@ -184,7 +184,7 @@ Homme ou femme transgenre.
 
 #### Schéma continu
 
-- [Truvada®](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) (ou générique avec AMM) 2 cp en 1 prise entre 2 et 24h avant le rapport à protéger
+- [Truvada®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69481664/extrait#tab-rcp-et-notice) (ou générique avec AMM) 2 cp en 1 prise entre 2 et 24h avant le rapport à protéger
 - Puis 1 cp/j à heure fixe pendant le repas en continu
 - Arrêt possible 2 jours après le dernier rapport à protéger
 
@@ -200,7 +200,7 @@ Homme ou femme transgenre.
 </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
 <div aria-labelledby="prep-f-tab" class="tab-pane fade" id="prep-f" role="tabpanel">
 
-[Truvada®](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) 1 cp/j à heure fixe pendant le repas en continu.
+[Truvada®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69481664/extrait#tab-rcp-et-notice) 1 cp/j à heure fixe pendant le repas en continu.
 
 Délai de **7 jours avant le premier rapport sexuel à protéger**.
 
@@ -233,7 +233,7 @@ Applis pour l'aide à la prise du traitement: [My PrEP](https://myprep.app).
 
 {{%info%}}
 
-[Emtricitabine/Ténofovir disoproxil 200/245 mg](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) (Truvada® ou gén avec AMM) 1 cp/j à heure fixe pendant le repas.
+[Emtricitabine/Ténofovir disoproxil 200/245 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/69481664/extrait#tab-rcp-et-notice) (Truvada® ou gén avec AMM) 1 cp/j à heure fixe pendant le repas.
 
 - **Femme: délai de 7 jours avant le premier rapport sexuel à protéger**
 - Homme: 2 cp en 1 prise entre 2 et 24h avant le rapport à protéger puis 1 cp/j à heure fixe pendant le repas
@@ -244,7 +244,7 @@ Applis pour l'aide à la prise du traitement: [My PrEP](https://myprep.app).
 Proposer chez l'homme hors hépatite B:
 
 {{%info%}}
-[Emtricitabine/Ténofovir disoproxil 200/245 mg](https://ec.europa.eu/health/documents/community-register/2021/20210107150116/anx_150116_fr.pdf) (Truvada®)  
+[Emtricitabine/Ténofovir disoproxil 200/245 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/69481664/extrait#tab-rcp-et-notice) (Truvada®)  
 2 cp en 1 prise entre 2 et 24 heures avant le rapport à protéger (H0),  
 puis 1 cp à H24 (± 2h) après la double prise, à renouveler à H48 (± 2h).
 {{%/info%}}

@@ -349,7 +349,7 @@ Possible en cas d'antécédents neuro-psychiatriques.
 
 ##### Prescrire la varénicline
 
-[Varénicline 1 mg x 2/j](https://ec.europa.eu/health/documents/community-register/2021/20211118153665/anx_153665_fr.pdf) (Champix®) pendant 12 semaines, renouvelable 1 fois:
+[Varénicline 1 mg x 2/j](https://base-donnees-publique.medicaments.gouv.fr/medicament/60442838/extrait#tab-rcp-et-notice) (Champix®) pendant 12 semaines, renouvelable 1 fois:
 
 - Après une titration pendant 1 semaine  
   0,5 mg/j pendant 3 jours puis 0,5 mg x 2/j pendant 4 jours

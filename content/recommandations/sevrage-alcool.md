@@ -519,7 +519,7 @@ Toute réduction de consommation doit être valorisée par le médecin général
 
 Après essai de réduction spontanée de 15 jours, le nalméfène est le médicament de référence de la prise en charge.
 
-[Nalméfène 18 mg](https://ec.europa.eu/health/documents/community-register/2021/20211220153913/anx_153913_fr.pdf) (Selincro®) 1 boîte  
+[Nalméfène 18 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/63957761/extrait#tab-rcp-et-notice) (Selincro®) 1 boîte  
 1 cp tous les jours où vous pensez être exposé au risque de boire. À prendre 2 heures avant le moment du risque ou dès le matin.  
 Réévaluation à 7 et 14 jours puis 1/mois au moins 6 mois.
 {.alert .alert-info}

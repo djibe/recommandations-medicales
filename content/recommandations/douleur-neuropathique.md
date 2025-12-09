@@ -255,7 +255,7 @@ Le choix du traitement de première ligne dépend de la **localisation** et de l
 
 #### Douleur neuropathique périphérique focale en deuxième intention
 
-- [Capsaïcine en patchs de haute concentration à 8%](https://ec.europa.eu/health/documents/community-register/2021/20210709152316/anx_152316_fr.pdf) (Qutenza®). 1-4 patchs selon la superficie.  
+- [Capsaïcine en patchs de haute concentration à 8%](https://base-donnees-publique.medicaments.gouv.fr/medicament/66525842/extrait#tab-rcp-et-notice) (Qutenza®). 1-4 patchs selon la superficie.  
   Appliquer 30 minutes sur les pieds et 60 minutes sur les autres zones du corps.  
   Effets indésirables: hypertension artérielle, sensation de brûlure initiale (appliquer du froid), rougeur, œdème.
 - Toxine botulique type A  
@@ -296,7 +296,7 @@ Clomipramine 10 mg le soir. Paliers de 10 mg tous les 7 jours. Avis spécialisé
 
 #### Traitements des douleurs neuropathiques de 2e intention
 
-- [Prégabaline 150-600 mg/j](https://ec.europa.eu/health/documents/community-register/2020/20200703148324/anx_148324_fr.pdf) (Lyrica®, gén) en 2-3 prises
+- [Prégabaline 150-600 mg/j](https://base-donnees-publique.medicaments.gouv.fr/medicament/67855921/extrait#tab-rcp-et-notice) (Lyrica®, gén) en 2-3 prises
   - Ordonnance sécurisée d'une durée maximale de 6 mois | peu d'interactions
   - 75 mg x 2/j, paliers de 150 mg tous les 3-7 jours
   - Effets indésirables: somnolence, asthénie, vertiges, troubles digestifs, xérostomie, céphalées, prise de poids et œdèmes périphériques

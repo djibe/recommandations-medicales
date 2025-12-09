@@ -157,7 +157,7 @@ Selon les *Annales de Dermato*, intérêt de rechercher systématiquement:
 - Flush invalidants  
   Propranolol 30-120 mg/j (*[Logger 2020](https://doi.org/10.1016/j.jaad.2020.04.129)*) ou carvédilol (*EADV*)
 - Érythème facial
-  - ==Brimonidine 0,3 % gel ([Mirvaso®](https://ec.europa.eu/health/documents/community-register/2023/20230123158133/anx_158133_fr.pdf)) x 1/j== (résurgence à l'arrêt)
+  - ==Brimonidine 0,3 % gel ([Mirvaso®](https://base-donnees-publique.medicaments.gouv.fr/medicament/68293613/extrait#tab-rcp-et-notice)) x 1/j== (résurgence à l'arrêt)
   - {{%class%}}Oxymetazoline non disponible en France{{%/class%}}
   - Voire laser par le dermatologue
 - Télangiectasies  

@@ -200,7 +200,7 @@ Vaccins hépatite B à partir de 16 ans:
 
 - [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62279329/extrait#tab-rcp)  
   Ne doit pas être injecté dans le fessier.
-- [HBVaxPro 10® (PDF)](https://ec.europa.eu/health/documents/community-register/2021/20210111150361/anx_150361_fr.pdf)
+- [HBVaxPro 10® (PDF)](https://base-donnees-publique.medicaments.gouv.fr/medicament/64646891/extrait#tab-rcp-et-notice)
 
 - 3 doses à M0-M1-M6
 - **Schéma accéléré** par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62279329/extrait#tab-rcp) à J0-J7-J21 et rappel à 12 mois  
@@ -211,7 +211,7 @@ Vaccins hépatite B à partir de 16 ans:
 Vaccins hépatite B chez l'enfant avant 16 ans:
 
 - [Engerix B10®](https://base-donnees-publique.medicaments.gouv.fr/medicament/65782652/extrait#tab-rcp)
-- [HBVaxPro 5®](https://ec.europa.eu/health/documents/community-register/2021/20210111150361/anx_150361_fr.pdf)
+- [HBVaxPro 5®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69352630/extrait#tab-rcp-et-notice)
 
 #### Rattrapage de la vaccination hépatite B de 11 à 15 ans
 
@@ -223,9 +223,9 @@ Vaccins hépatite B chez l'enfant avant 16 ans:
 
 Les hexavalents sont recommandés en 3 doses à 2 mois, 4 mois et 11 mois:
 
-- [Hexyon®](https://ec.europa.eu/health/documents/community-register/2021/20210628152184/anx_152184_fr.pdf)
-- [Infanrix hexa®](https://ec.europa.eu/health/documents/community-register/2020/20200113147048/anx_147048_fr.pdf)
-- [Vaxelis®](https://ec.europa.eu/health/documents/community-register/2020/20200924148951/anx_148951_fr.pdf)
+- [Hexyon®](https://base-donnees-publique.medicaments.gouv.fr/medicament/60645557/extrait#tab-rcp-et-notice)
+- [Infanrix hexa®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62966063/extrait#tab-rcp-et-notice)
+- [Vaxelis®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69688620/extrait#tab-rcp-et-notice)
 
 #### Nouveau-né de mère porteuse de l'AgHBs
 

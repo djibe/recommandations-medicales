@@ -292,7 +292,7 @@ Le nirsévimab est efficace au moins 5 mois.
 
 #### Autres immunoglobulines anti-VRS
 
-Anticorps [palivizumab](https://ec.europa.eu/health/documents/community-register/2021/20210701152506/anx_152506_fr.pdf) (Synagis®) mensuel pendant la période épidémique en cas de risque élevé d'infection grave au VRS:
+Anticorps [palivizumab](https://base-donnees-publique.medicaments.gouv.fr/medicament/67810869/extrait#tab-rcp-et-notice) (Synagis®) mensuel pendant la période épidémique en cas de risque élevé d'infection grave au VRS:
 
 - Prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28 jours ET < 6 mois en début d'épidémie de VRS
 - < 2 ans en début épidémique, prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28 jours et ayant nécessité un traitement pour dysplasie bronchopulmonaire dans les 6 mois

@@ -164,7 +164,7 @@ Vaccination de la méningite ACWY en prévention primaire de tous les nourrisson
 
 Autres indications: immunodépression ([asplénie]({{% relref "asplenie.md" %}})), laboratoire travaillant sur le méningocoque, voyage (La Mecque).
 
-Spécialités disponibles: [Menquadfi®](https://ec.europa.eu/health/documents/community-register/2022/20220929157200/anx_157200_fr.pdf), Menveo® (fourni sans aiguille) ou [Nimenrix®](https://ec.europa.eu/health/documents/community-register/2023/20230223158551/anx_158551_fr.pdf).
+Spécialités disponibles: [Menquadfi®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63064137/extrait#tab-rcp-et-notice), Menveo® (fourni sans aiguille) ou [Nimenrix®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69241562/extrait#tab-rcp-et-notice).
 
 Une dose de méningocoque tétravalent ne compte pas en cas de contact avec un malade à **méningocoque C** si:
 
@@ -179,7 +179,7 @@ Pour la vaccination des sujets contacts en prévention secondaire d'un sérogrou
 
 > Vaccination obligatoire des nourrissons contre les méningocoques B et ACWY depuis le 1^er^ janvier 2025.
 
-Vaccination de la méningite B en prévention primaire: recommandée à 3 mois, 5 mois et 12 mois par [Bexsero®](https://ec.europa.eu/health/documents/community-register/2021/20210701152279/anx_152279_fr.pdf). Rattrapage jusqu'à 4 ans (*HAS 2025*).
+Vaccination de la méningite B en prévention primaire: recommandée à 3 mois, 5 mois et 12 mois par [Bexsero®](https://base-donnees-publique.medicaments.gouv.fr/medicament/64493883/extrait#tab-rcp-et-notice). Rattrapage jusqu'à 4 ans (*HAS 2025*).
 
 La vaccination est possible de 15 à 24 ans (2 doses de Bexsero ou Trumenba) si le patient le souhaite.
 

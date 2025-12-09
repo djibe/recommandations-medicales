@@ -234,7 +234,7 @@ Le préservatif peut limiter le risque d'infection mais n'assure pas une protect
 > [!INFO]
 > << [La HAS] souligne également que la vaccination est d'autant plus efficace qu'elle est réalisée précocement, et qu'il ne faut donc pas attendre l'âge adulte pour la mettre en œuvre. >> -- *HAS 2025*
 
-Indications au vaccin anti-HPV (par [Gardasil 9®](https://ec.europa.eu/health/documents/community-register/2020/20201124149982/anx_149982_fr.pdf) uniquement):
+Indications au vaccin anti-HPV (par [Gardasil 9®](https://base-donnees-publique.medicaments.gouv.fr/medicament/65017887/extrait#tab-rcp-et-notice) uniquement):
 
 - Adolescent de 11 à 14 ans révolus avec 2 doses  
   - **Schéma:** Gardasil 9® à M0 et M6-13

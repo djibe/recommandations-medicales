@@ -195,7 +195,7 @@ Réévaluation du traitement à chaque consultation:
 - Réduction de l'alcool (< 10 verres par semaine)
 - Statine systématique ± ézétimibe
   - Cible: {{< modal-btn modal-rcv >}}LDL < 0,55 g/L et réduction ≥ 50 %{{< /modal-btn >}}
-  - Si insuffisants: anti-PCSK9 ([évolocumab SC](https://ec.europa.eu/health/documents/community-register/2023/20230130158320/anx_158320_fr.pdf) Repatha®, [alirocumab SC](https://ec.europa.eu/health/documents/community-register/2022/20221216158063/anx_158063_fr.pdf) Praluent®)
+  - Si insuffisants: anti-PCSK9 (évolocumab SC Repatha®, alirocumab SC Praluent® sur prescription spécialisée)
   - Si récidive sous dose maximale: considérer une cible < 0,4 g/L
 - [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) (*ESH 2023*)
   - Seuil d'initiation de 130/80 mmHg (dite normale haute)
@@ -221,7 +221,7 @@ Mesures spécifiques pour la prise en charge de la cardiopathie ischémique stab
   - Fréquence cardiaque cible: 55-60 bpm (*ESC*) et 130 bpm à l'effort (*Collège*)
   - Réévaluation toutes les 2-4 semaines initialement; jamais d'arrêt brutal
   - Si symptômes persistants: nitré d'action longue [patch](https://base-donnees-publique.medicaments.gouv.fr/medicament/63785468/extrait#tab-rcp) ou [oral](https://base-donnees-publique.medicaments.gouv.fr/medicament/66327091/extrait#tab-rcp) (pour lesquels une tolérance s'installe, nécessitant une période libre de 10-14 h/j)  
-  ou [ivabradine](https://ec.europa.eu/health/documents/community-register/2023/20230223158431/anx_158431_fr.pdf) (FEVG < 40%), [nicorandil](https://base-donnees-publique.medicaments.gouv.fr/medicament/66925249/extrait#tab-rcp), [trimétazidine](https://base-donnees-publique.medicaments.gouv.fr/medicament/61020245/extrait#tab-rcp) (ranolazine non disponible en France), voir tableau plus bas
+  ou [ivabradine](https://base-donnees-publique.medicaments.gouv.fr/medicament/60549911/extrait#tab-rcp-et-notice) (FEVG < 40%), [nicorandil](https://base-donnees-publique.medicaments.gouv.fr/medicament/66925249/extrait#tab-rcp), [trimétazidine](https://base-donnees-publique.medicaments.gouv.fr/medicament/61020245/extrait#tab-rcp) (ranolazine non disponible en France), voir tableau plus bas
 - **Prévention secondaire** (ou obstruction significative): aspirine 75-100 mg/j ou clopidogrel 75 mg/j (choix si [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) ou [AIC/AIT]({{% relref "accident-vasculaire-cerebral.md" %}})) voire ticagrelor
   - Si haut risque ischémique sans risque élevé de saignement: aspirine 100 mg/j avec ticagrelor 60 mg x 2/j ou rivaroxaban 2,5 mg x 2/j
   - IPP si haut risque de saignement: score PRECISE-DAPT, ARC-HBR
