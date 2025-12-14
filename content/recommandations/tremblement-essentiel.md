@@ -142,6 +142,10 @@ Les atteintes sévères peuvent bénéficier de traitements invasifs: injections
 - [Berardelli A, et al. EFNS/MDS-ES recommendations for the diagnosis of Parkinson's disease. Eur J Neurol. 2013.](https://onlinelibrary.wiley.com/doi/10.1111/ene.12022)
 - [Zesiewicz TA, et al. Evidence-based guideline update: treatment of essential tremor: report of the Quality Standards subcommittee of the American Academy of Neurology. Neurology. 2011.](https://pmc.ncbi.nlm.nih.gov/articles/PMC3208950/)
 
+### Bibliographie en attente
+
+- [International Essential Tremor Foundation. Essential Tremor in Adult Patients 2026 Edition. 2025.](https://essentialtremor.org/essential-tremor-guidelines-advisory/)
+
 {{%/sources%}}
 {{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
 

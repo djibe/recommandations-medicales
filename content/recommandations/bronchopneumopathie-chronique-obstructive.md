@@ -637,7 +637,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease: 2024 Report. 2025.](https://goldcopd.org/2025-gold-report/)
+- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease: 2025 Report. 2024.](https://goldcopd.org/2025-gold-report/)
 - [Williamson A, et al. Vitamin D for the management of chronic obstructive pulmonary disease. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013284.pub2/full/fr)
 - [CBIP. Gabapentine et prégabaline : risque d'exacerbations sévères de BPCO. Folia. 2024.](https://www.cbip.be/fr/articles/4425?folia=4409)
 - [Taichman DB, Drazen JM. Making Long-Term Oxygen Therapy Less Burdensome. N Engl J Med. 2024.](https://www.nejm.org/doi/10.1056/NEJMe2410129)
@@ -659,7 +659,8 @@ graph TB
 
 ### Bibliographie en attente
 
-[Haroon S, et al. Predicting risk of undiagnosed COPD: development and validation of the TargetCOPD score. Eur Respir J. 2017.](https://pmc.ncbi.nlm.nih.gov/articles/PMC4271517/)
+- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease: 2026 Report. 2025.](https://goldcopd.org/2026-gold-report-and-pocket-guide/)
+- [Haroon S, et al. Predicting risk of undiagnosed COPD: development and validation of the TargetCOPD score. Eur Respir J. 2017.](https://pmc.ncbi.nlm.nih.gov/articles/PMC4271517/)
 
 {{%/sources%}}
 {{% modal title="Auto-questionnaire pour la BPCO" id="modal-depistage-bpco"%}}

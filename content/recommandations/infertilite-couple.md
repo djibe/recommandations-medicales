@@ -297,7 +297,8 @@ graph TB
 
 ### Bibliographie en attente
 
-[Jones CA, et al. Initial assessment of infertility in primary care. BMJ. 2025.](https://www.bmj.com/content/390/bmj-2024-079609) (payant)
+- [World Health Organization. Guideline for the prevention, diagnosis and treatment of infertility. 2025.](https://www.who.int/publications/i/item/9789240115774)
+- [Jones CA, et al. Initial assessment of infertility in primary care. BMJ. 2025.](https://www.bmj.com/content/390/bmj-2024-079609) (payant)
 
 {{%/sources%}}
 {{% modal title="Signes de baisse de la réserve ovarienne" id="modal-reserve-ovarienne"%}}

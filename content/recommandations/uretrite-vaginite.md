@@ -96,7 +96,7 @@ Un dépistage est recommandé chez la femme enceinte au premier trimestre en cas
 
 ### *Gardnerella vaginalis* et vaginite bactérienne (VB)
 
-Selon *SFD 2016*: [métronidazole 500 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/60416081/extrait#tab-rcp) x 2/j pendant 7 jours
+Selon *SFD 2016*: [métronidazole 500 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/60416081/extrait#tab-rcp) x 2/j pendant 7 jours (possible [pendant la grossesse](https://www.lecrat.fr/10412/))
 {.alert .alert-info}
 
 Leucorrhées malodorantes (odeur de poisson pourri) grisâtres fluides.
