@@ -5,9 +5,10 @@ prefix = "l'"
 description = "Recommandations pour le diagnostic et la prise en charge de l'arthrose de la main. Arthralgies et raideurs chroniques. Traitement par AINS topique, orthèse pour le pouce"
 synonyms = ["Arthrose digitale"]
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Dre A. COURTIES (SFR)"
 date = "2025-10-17T19:06:41+02:00"
 publishdate = "2025-10-19"
-lastmod = "2025-11-20"
+lastmod = "2025-12-14"
 specialites = ["rhumatologie"]
 annees = "2025"
 sources = ["SFR", "EULAR"]
@@ -17,12 +18,12 @@ sctid = "22193007"
 icd10 = ["M19.94", "M19", "M19.9"]
 image = true
 imageSrc = "Arthrose des mains principalement interphalangienne chez une femme de 80 ans: pincement des interlignes et ostéophytose. Cas de Frank Gaillard, Radiopaedia.org, rID: 7546"
-todo = "flow | relecture demandée alice.courties"
+todo = "flow"
 +++
 
 {{%article-summary%}}
 
-- L'arthrose des mains est l'une des atteintes les plus fréquentes de l'arthrose, qu'elle soit interphalangienne et/ou des pouces (rhizarthrose); son évolution n'est ni bien comprise, ni prévisible
+- L'arthrose des mains est l'une des atteintes les plus fréquentes de l'arthrose, qu'elle soit interphalangienne et/ou des pouces (rhizarthrose). Son évolution n'est ni bien comprise, ni prévisible
 - Le diagnostic est facile le plus souvent, avec pour symptômes: des arthralgies mécaniques (dérouillage matinal inférieur à 30 minutes) des doigts et de la base du pouce, une raideur, l'apparition de nodosités et une impotence fonctionnelle avec diminution de la force de préhension chez un patient de plus de 45 ans
 - Le bilan comprend des radiographies des mains mais est dispensable en cas de symptomatologie typique et purement mécanique
 - La prise en charge de l'arthrose de la main associe: antalgie des poussées douloureuses (paracétamol, AINS topique), immobilisation par orthèse de repos sur mesure, rééducation voire ergothérapie
@@ -76,7 +77,7 @@ L'arthrose des mains apparaît généralement après 45 ans et de façon insidie
 
 - Pression artérielle, fréquence cardiaque
 - Signes d'arthrose des mains:
-  - Déformation des articulations (nodosités)
+  - Déformation des articulations (nodosités) et synovite
   - Kyste mucoïde (avec pousse anormale de l'ongle)
   - Perte de l'axe du doigt (clinodactylie)
 - Examen locomoteur si symptômes: épaules, hanches, genoux, pieds
@@ -109,7 +110,8 @@ Recommandations pour la prise en charge de l'arthrose des mains:
 - Si arthrose digitale: proposer des orthèses de repos nocturnes sur mesure
 - Traitement non pharmacologique essentiel:
   - Kinésithérapie (1-2 séances), conseils d'ergonomie, auto-exercices et assouplissements des doigts
-  - Si forme sévère: ergothérapeute
+  - [Vidéos des auto-exercices](https://www.youtube.com/playlist?list=PLlxOTqkY8ANTjc4PmJRekyd-XmfIpmbdI) (SFR)
+  - Si forme sévère: ergothérapie
 - Soutien psychologique
 - ± Mesures sociales: APA, MDPH
 - Information du patient: [guide SFR arthrose](https://public.larhumatologie.fr/grandes-maladies/arthrose/)
