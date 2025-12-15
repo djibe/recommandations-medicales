@@ -1,11 +1,11 @@
 User-agent: AddSearchBot
 User-agent: AI2Bot
-User-agent: Ai2Bot-DeepResearchEval
+User-agent: AI2Bot-DeepResearchEval
 User-agent: Ai2Bot-Dolma
 User-agent: aiHitBot
+User-agent: amazon-kendra
 User-agent: Amazonbot
 User-agent: AmazonBuyForMe
-User-agent: amazon-kendra
 User-agent: Andibot
 User-agent: Anomura
 User-agent: anthropic-ai
@@ -29,6 +29,7 @@ User-agent: Brightbot 1.0
 User-agent: BuddyBot
 User-agent: Bytespider
 User-agent: CCBot
+User-agent: Channel3Bot
 User-agent: ChatGLM-Spider
 User-agent: ChatGPT
 User-agent: ChatGPT Agent
@@ -42,6 +43,7 @@ User-agent: CloudVertexBot
 User-agent: cohere-ai
 User-agent: cohere-training-data-crawler
 User-agent: Cotoyogi
+User-agent: Crawl4AI
 User-agent: Crawlspace
 User-agent: Dark Visitor
 User-agent: DataForSeoBot
@@ -69,19 +71,28 @@ User-agent: GPTBot
 User-agent: heritrix
 User-agent: ia_archiver
 User-agent: ia_archiver-web.archive.org
+User-agent: iAskBot
+User-agent: iaskspider
 User-agent: iaskspider/2.0
 User-agent: IABot
 User-agent: IbouBot
 User-agent: ICC-Crawler
 User-agent: ImagesiftBot
+User-agent: imageSpider
 User-agent: img2dataset
 User-agent: Internet Archive
 User-agent: ISSCyberRiskCrawler
 User-agent: Kangaroo Bot
 User-agent: KlaviyoAIBot
+User-agent: KunatoCrawler
+User-agent: laion-huggingface-processor
+User-agent: LAIONDownloader
+User-agent: LCC
 User-agent: LinerBot
 User-agent: Linguee Bot
+User-agent: LinkupBot
 User-agent: magpie-crawler
+User-agent: Manus-User
 User-agent: meta-externalagent
 User-agent: Meta-ExternalAgent
 User-agent: meta-externalfetcher
@@ -89,6 +100,7 @@ User-agent: Meta-ExternalFetcher
 User-agent: meta-webindexer
 User-agent: mirrorweb
 User-agent: MistralAI-User
+User-agent: MistralAI-User/1.0
 User-agent: MJ12bot
 User-agent: MyCentralAIScraperBot
 User-agent: netarkivindsamling
@@ -110,6 +122,7 @@ User-agent: Perplexity-User
 User-agent: PerplexityBot
 User-agent: PetalBot
 User-agent: PhindBot
+User-agent: Poggio-Citations
 User-agent: Poseidon Research Crawler
 User-agent: QualifiedBot
 User-agent: QuillBot
@@ -125,6 +138,7 @@ User-agent: ShapBot
 User-agent: Sidetrade indexer bot
 User-agent: sitesnagger
 User-agent: sogou spider
+User-agent: Spider
 User-agent: SummalyBot
 User-agent: teleport
 User-agent: teleportpro
@@ -134,16 +148,19 @@ User-agent: Thinkbot
 User-agent: TikTokSpider
 User-agent: Timpibot
 User-agent: Turnitin
+User-agent: TwinAgent
 User-agent: VelenPublicWebCrawler
 User-agent: WARDBot
 User-agent: webbandit
 User-agent: webcopier
 User-agent: website
 User-agent: webstripper
+User-agent: webzio-extended
 User-agent: Webzio-Extended
 User-agent: webzip
 User-agent: wget
 User-agent: wpbot
+User-agent: WRTNBot
 User-agent: XY-Archive-Compliance
 User-agent: YaK
 User-agent: Yandex
