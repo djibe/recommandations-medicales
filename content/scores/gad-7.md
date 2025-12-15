@@ -1,6 +1,6 @@
 +++
 title = "Score GAD-7 (Generalized Anxiety Disorder-7)"
-description = "Le score GAD-7 (Generalized Anxiety Disorder-7) est validé pour le diagnostic et l’évaluation de la sévérité d’un trouble anxieux de l’adulte."
+description = "Le score GAD-7 (Generalized Anxiety Disorder-7) est validé pour le diagnostic et l'évaluation de la sévérité d'un trouble anxieux de l'adulte."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

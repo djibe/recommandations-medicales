@@ -193,8 +193,8 @@ Si insuffisant:
 - Double action: kétotifène, épinastine, olopatadine
 
 kératoconjonctivite vernale démarre le plus souvent avant 10 ans (garçon ++). kératoconjonctivite sévère de mars à octobre. blépharospasme prédominant le matin avec difficultés d'ouverture des yeux. protection solaire
-par verres filtrant les UV et casquette, le port de lunettes de piscine, l’éviction d’un allergène
-identifié, le lavage par sérum physiologique froid, l’instillation de larmes artificielles sans
+par verres filtrant les UV et casquette, le port de lunettes de piscine, l'éviction d'un allergène
+identifié, le lavage par sérum physiologique froid, l'instillation de larmes artificielles sans
 conservateur, des collyres antidégranulants et/ou antihistaminiques, ou des collyres à double action.
 
 ### Adulte

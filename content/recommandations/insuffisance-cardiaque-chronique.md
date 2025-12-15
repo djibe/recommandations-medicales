@@ -553,7 +553,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 
 - [Sculier JP. Pas d'argument pour la restriction hydrique chez l'insuffisant cardiaque chronique. Minerva. 2025.](https://minerva-ebp.be/FR/Analysis/933)
 - [HAS. ALD 5 - Insuffisance cardiaque. Actes et prestations Affection de longue durée. 2025.](https://www.has-sante.fr/jcms/c_534673/fr/ald-n-5-insuffisance-cardiaque-grave)
-- [Gabet A, et al. Épidémiologie de l’insuffisance cardiaque en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_4.html)
+- [Gabet A, et al. Épidémiologie de l'insuffisance cardiaque en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_4.html)
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
 - [Mullens W, et al. Dietary sodium and fluid intake in heart failure. A clinical consensus statement of the Heart Failure Association of the ESC. Eur J Heart Fail. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/ejhf.3244)
 - [McDonagh T, et al. 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad195/7246292)

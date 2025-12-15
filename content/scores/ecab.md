@@ -1,6 +1,6 @@
 +++
 title = "Questionnaire ECAB (Échelle cognitive d'attachement aux benzodiazépines)"
-description = "L'échelle ECAB (Échelle cognitive d’attachement aux benzodiazépines) est un test validé pour le dépistage d'une dépendance aux benzodiazépines."
+description = "L'échelle ECAB (Échelle cognitive d'attachement aux benzodiazépines) est un test validé pour le dépistage d'une dépendance aux benzodiazépines."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

@@ -77,7 +77,7 @@ LNH
   Leucémie/lymphome lymphoblastique.
 - Tumeurs développées à partir des cellules T et NK matures
   - Avec présentation le plus souvent leucémique
-    - Leucémie/lymphome de l’adulte HTLV+
+    - Leucémie/lymphome de l'adulte HTLV+
     - Leucémie à grands lymphocytes granuleux
   - Avec présentation le plus souvent ganglionnaire
     - Lymphome T périphérique sans autre spécification

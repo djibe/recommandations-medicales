@@ -306,7 +306,7 @@ Quadrithérapie avec bismuth pendant 10 jours:
 
 - Oméprazole 20 mg matin et soir 15 minutes avant le repas  
   {{%class%}}Seul IPP ayant l'AMM pour le bismuth.{{%/class%}}
-- Pylera® 3 gélules après les repas du matin, du midi, du soir et au coucher, assis, avec un grand verre d'eau. Ne pas s’allonger immédiatement après.
+- Pylera® 3 gélules après les repas du matin, du midi, du soir et au coucher, assis, avec un grand verre d'eau. Ne pas s'allonger immédiatement après.
 
 Si quadrithérapie déjà utilisée en 1^re^ ligne, voir 3^e^ ligne.
 

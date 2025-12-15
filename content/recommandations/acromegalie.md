@@ -45,7 +45,7 @@ HYPO
 : Centre de référence des maladies rares de l'hypophyse
 
 IGF-1
-: {{%lang%}}insulin-like growth factor-1{{%/lang%}}, facteur de croissance 1 ressemblant à l’insuline ou somatomédine C
+: {{%lang%}}insulin-like growth factor-1{{%/lang%}}, facteur de croissance 1 ressemblant à l'insuline ou somatomédine C
 
 PNDS
 : protocole national de diagnostic et de soins

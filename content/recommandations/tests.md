@@ -200,7 +200,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 let category = '';
                 let alertClass = '';
 
-                // Les seuils de risque varient avec l’âge selon les recommandations de l'ESC
+                // Les seuils de risque varient avec l'âge selon les recommandations de l'ESC
                 let thresholds;
                 if (age < 50) {
                     thresholds = { low: 2.5, moderate: 7.5 };

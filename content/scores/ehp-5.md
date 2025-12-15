@@ -1,6 +1,6 @@
 +++
 title = "Échelle EHP-5 (Endometriosis health profile 5)"
-description = "L'échelle EHP-5 (Endometriosis health profile 5) explore la qualité de vie chez la femme atteinte d’endométriose."
+description = "L'échelle EHP-5 (Endometriosis health profile 5) explore la qualité de vie chez la femme atteinte d'endométriose."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

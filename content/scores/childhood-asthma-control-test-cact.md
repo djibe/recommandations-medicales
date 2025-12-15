@@ -1,6 +1,6 @@
 +++
 title = "Childhood Asthma Control Test (C-ACT)"
-description = "Le Childhood Asthma Control Test™ (C-ACT) est un test validé de référence pour l’évaluation du contrôle de l’asthme chez l’enfant de 4 à 11 ans."
+description = "Le Childhood Asthma Control Test™ (C-ACT) est un test validé de référence pour l'évaluation du contrôle de l'asthme chez l'enfant de 4 à 11 ans."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

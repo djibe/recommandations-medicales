@@ -1,6 +1,6 @@
 +++
 title = "Score STOP (Snoring - Tired - Observed - Pressure)"
-description = "Le score STOP (Snoring - Tired - Observed - Pressure) est validé pour le dépistage du syndrome d’apnées du sommeil avec le meilleur compromis vitesse/sensibilité."
+description = "Le score STOP (Snoring - Tired - Observed - Pressure) est validé pour le dépistage du syndrome d'apnées du sommeil avec le meilleur compromis vitesse/sensibilité."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

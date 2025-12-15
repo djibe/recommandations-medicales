@@ -1,6 +1,6 @@
 +++
 title = "Échelle HADS (Hospital Anxiety and Depression Scale)"
-description = "L’échelle HADS (Hospital Anxiety and Depression Scale) est un questionnaire validé pour le dépistage des troubles anxieux et dépressifs."
+description = "L'échelle HADS (Hospital Anxiety and Depression Scale) est un questionnaire validé pour le dépistage des troubles anxieux et dépressifs."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

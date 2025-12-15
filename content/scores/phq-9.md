@@ -1,6 +1,6 @@
 +++
 title = "Questionnaire PHQ-9 (Patient Health Questionnaire-9)"
-description = "L’auto-questionnaire PHQ-9 (9-Item Patient Health Questionnaire) est validé pour l'évaluation d'un adulte présentant des symptômes dépressifs."
+description = "L'auto-questionnaire PHQ-9 (9-Item Patient Health Questionnaire) est validé pour l'évaluation d'un adulte présentant des symptômes dépressifs."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

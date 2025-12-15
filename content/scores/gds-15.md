@@ -1,6 +1,6 @@
 +++
 title = "Échelle de Dépression Gériatrique GDS-15"
-description = "L’échelle de Dépression Gériatrique GDS-15 (15-items Geriatric Depression Scale) est validée pour l’aide au diagnostic de la dépression chez le sujet âgé non dément."
+description = "L'échelle de Dépression Gériatrique GDS-15 (15-items Geriatric Depression Scale) est validée pour l'aide au diagnostic de la dépression chez le sujet âgé non dément."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

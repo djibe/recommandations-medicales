@@ -1,6 +1,6 @@
 +++
 title = "Échelle de sévérité de la BPCO GOLD (Global initiative for chronic Obstructive Lung Disease)"
-description = "L’échelle GOLD est une référence pour exprimer la sévérité de l’obstruction bronchique pour un trouble ventilatoire obstructif non réversible."
+description = "L'échelle GOLD est une référence pour exprimer la sévérité de l'obstruction bronchique pour un trouble ventilatoire obstructif non réversible."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

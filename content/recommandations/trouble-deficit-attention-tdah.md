@@ -171,7 +171,7 @@ L'évaluation du trouble déficit de l'attention/hyperactivité est au mieux ré
 - Aménagements mis en place
 - Dépister des **comorbidités** psychiatriques (80%), qui sont également des **diagnostics différentiels**
   - **Troubles du sommeil** (ronflement, fatigue au réveil), troubles du comportement alimentaire  
-    <!--  TODO: échelle de dépistage des troubles du sommeil de l’enfant (de 6 mois à 4 ans et de 4 à 16 ans)30-->
+    <!--  TODO: échelle de dépistage des troubles du sommeil de l'enfant (de 6 mois à 4 ans et de 4 à 16 ans)30-->
   - Troubles du comportement: TOP ++, troubles des conduites
   - Autres troubles du neurodéveloppement: troubles des apprentissages (50 à 80%; **dyslexie**, dysgraphie, dyscalculie, dyspraxie), handicap intellectuel, TSA, TIC
   - **Troubles anxieux** (33%), **[dépression]({{% relref "depression.md" %}})**

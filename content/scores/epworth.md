@@ -1,6 +1,6 @@
 +++
 title = "Échelle de somnolence d'Epworth"
-description = "L’échelle de somnolence d’Epworth (Epworth Sleepiness Scale) est le test validé de référence pour objectiver la somnolence diurne."
+description = "L'échelle de somnolence d'Epworth (Epworth Sleepiness Scale) est le test validé de référence pour objectiver la somnolence diurne."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

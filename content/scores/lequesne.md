@@ -1,6 +1,6 @@
 +++
 title = "Indice algo-fonctionnel de Lequesne"
-description = "L’indice algo-fonctionnel de Lequesne est validé pour le suivi de l'arthrose et évaluer le retentissement fonctionnel pour l’indication d’une prothèse"
+description = "L'indice algo-fonctionnel de Lequesne est validé pour le suivi de l'arthrose et évaluer le retentissement fonctionnel pour l'indication d'une prothèse"
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

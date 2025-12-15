@@ -1,6 +1,6 @@
 +++
 title = "Questionnaire FiRST (Fibromyalgia Rapid Screening Tool)"
-description = "Le questionnaire FiRST est un questionnaire validé pour l’auto-dépistage d’une fibromyalgie."
+description = "Le questionnaire FiRST est un questionnaire validé pour l'auto-dépistage d'une fibromyalgie."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

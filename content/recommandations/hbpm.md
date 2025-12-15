@@ -86,8 +86,8 @@ Alerte si baisse > 50 %.
 
 Signes de TIH:
 
-- aggravation ou nouvelle suspicion d’événements thrombo-emboliques veineux et/ou artériels
-- lésion cutanée douloureuse au point d’injection sous-cutanée
+- aggravation ou nouvelle suspicion d'événements thrombo-emboliques veineux et/ou artériels
+- lésion cutanée douloureuse au point d'injection sous-cutanée
 - Anaphylaxie
 
 - Contrôle immédiat en urgence

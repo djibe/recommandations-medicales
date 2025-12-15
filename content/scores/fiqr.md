@@ -1,6 +1,6 @@
 +++
 title = "Questionnaire FIQR (Revised Fibromyalgia Impact Questionnaire)"
-description = "Questionnaire de mesure de l’impact de la fibromyalgie FIQR (Revised Fibromyalgia Impact Questionnaire)."
+description = "Questionnaire de mesure de l'impact de la fibromyalgie FIQR (Revised Fibromyalgia Impact Questionnaire)."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

@@ -1,6 +1,6 @@
 +++
 title = "Critères Dutch Lipid Clinic Network (DLCN)"
-description = "Les critères diagnostiques du Dutch Lipid Clinic Network (DLCN) sont une référence pour le diagnostic de l’hypercholestérolémie familiale hétérozygote de l’adulte."
+description = "Les critères diagnostiques du Dutch Lipid Clinic Network (DLCN) sont une référence pour le diagnostic de l'hypercholestérolémie familiale hétérozygote de l'adulte."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

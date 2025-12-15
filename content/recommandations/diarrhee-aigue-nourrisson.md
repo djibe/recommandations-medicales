@@ -148,7 +148,7 @@ Aucun bilan n'est utile pour une diarrhée traitée en ville sauf indication à 
 - Diarrhée chez l'immunodéprimé ou comorbide
 - Contexte de toxi-infection alimentaire en collectivité  
   Avec déclaration à l'ARS.
-- Diarrhée dans l'entourage d’un malade atteint de shigellose avérée
+- Diarrhée dans l'entourage d'un malade atteint de shigellose avérée
 
 > -- *GFHGNP 2024*
 

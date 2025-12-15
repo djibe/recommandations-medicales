@@ -49,7 +49,7 @@ STC
 
 > [!INFO]
 > << En cas d'ingestion d'une pile bouton ou de doute, il est recommandé de laisser à jeun l'enfant et de ne pas le faire vomir. >> -- *STC 2022*  
-> << Toute ingestion de pile est à risque, mais il est recommandé de considérer que les enfants les plus à risque sont ceux d’âge ≤ 5 ans et ayant ingéré une pile bouton d’un diamètre ≥ 15 mm. >>
+> << Toute ingestion de pile est à risque, mais il est recommandé de considérer que les enfants les plus à risque sont ceux d'âge ≤ 5 ans et ayant ingéré une pile bouton d'un diamètre ≥ 15 mm. >>
 
 Toute **suspicion d'ingestion** de pile bouton doit être prise en résolue en urgence sous 2 heures, comme toute ingestion de pile bouton.
 

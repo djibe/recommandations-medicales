@@ -50,7 +50,7 @@ Informations pour le refus du lait chez le nourrisson: [à 14 mois](https://www.
 {{% /collapse %}}
 {{%collapse "Évaluer les quotidiens apports en calcium" %}}
 
-Questionnaire du {{%tooltip "Groupe de Recherche et d’Information sur les Ostéoporoses"%}}GRIO{{%/tooltip%}} pour l'évaluation de la couverture des apports quotidiens en calcium.
+Questionnaire du {{%tooltip "Groupe de Recherche et d'Information sur les Ostéoporoses"%}}GRIO{{%/tooltip%}} pour l'évaluation de la couverture des apports quotidiens en calcium.
 
 En cas d'apports insuffisants, voir la section suivante pour la supplémentation en calcium ± vitamine D3.
 

@@ -289,7 +289,7 @@ graph TB
 
 {{< card-link-external title="Entorses de cheville : les recommandations de la HAS" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/187012536" image="podcast" >}}
 
-- [HAS. Entorse du ligament collatéral latéral (ligament latéral externe) de cheville : diagnostic, rééducation et reprise de l’activité physique et de la pratique sportive. 2025.](https://www.has-sante.fr/jcms/p_3460983/fr/entorse-du-ligament-collateral-lateral-ligament-lateral-externe-de-cheville-diagnostic-reeducation-et-reprise-de-l-activite-physique-et-de-la-pratique-sportive)
+- [HAS. Entorse du ligament collatéral latéral (ligament latéral externe) de cheville : diagnostic, rééducation et reprise de l'activité physique et de la pratique sportive. 2025.](https://www.has-sante.fr/jcms/p_3460983/fr/entorse-du-ligament-collateral-lateral-ligament-lateral-externe-de-cheville-diagnostic-reeducation-et-reprise-de-l-activite-physique-et-de-la-pratique-sportive)
 - Prescrire Redaction. Entorse de cheville chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Smith SE, et al; Expert Panel on Musculoskeletal Imaging. ACR Appropriateness Criteria® Acute Trauma to the Ankle. J Am Coll Radiol. 2020.](https://www.jacr.org/article/S1546-1440(20)30957-1/fulltext)
 - [Collège Français des Chirurgiens Orthopédistes et Traumatologues (COFCOT). Lésions péri-articulaires et ligamentaires de la cheville (lésions ligamentaires). Orthopédie Traumatologie. 3e édition. 2020. (PDF)](https://www.sofcot.fr/sites/www.sofcot.fr/files/medias/documents/CollegeOrthop%C3%A9dieTraumatologieELLIPSES%203%C3%A8me%20%C3%A9dition.pdf)

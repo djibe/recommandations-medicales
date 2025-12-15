@@ -270,6 +270,10 @@ graph TB
 
 Mots-clé: tassement vertébral, vertèbre cunéiforme
 
+### Bibliographie en attente
+
+- [Fusaro M, et al. A Consensus Statement on the management of Vertebral Fractures in CKD stages G4-G5D. Nephrol Dial Transplant. 2025.](https://www.era-online.org/publications/a-consensus-statement-on-the-management-of-vertebral-fractures-in-ckd-stages-g4-g5d/)
+
 {{%/sources%}}
 {{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}
 

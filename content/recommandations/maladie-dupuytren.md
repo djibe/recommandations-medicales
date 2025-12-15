@@ -25,7 +25,7 @@ todo = "flow"
 - La maladie de Dupuytren est une fibromatose palmaire causant un flessum progressif des derniers doigts par atteinte de la métacarpophalangienne chez les hommes originaires d'Europe du nord
 - Le diagnostic de Dupuytren est clinique avec l'appui impossible de la main sur une table
 - La prise en charge de la maladie de Dupuytren est spécialisée (rhumatologue, orthopédiste de la main) et doit être précoce pour obtenir la meilleure récupération fonctionnelle
-- Les traitements spécialisés peuvent être: infiltration de corticoïdes, aponévrotomie percutanée à l’aiguille ou chirurgie d'aponévrectomie avec de forts taux de récidive
+- Les traitements spécialisés peuvent être: infiltration de corticoïdes, aponévrotomie percutanée à l'aiguille ou chirurgie d'aponévrectomie avec de forts taux de récidive
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

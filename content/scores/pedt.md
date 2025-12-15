@@ -1,6 +1,6 @@
 +++
 title = "Score PEDT (Premature Ejaculation Diagnostic Tool)"
-description = "Le score PEDT (Premature Ejaculation Diagnostic Tool) est validé pour la recherche d’une éjaculation précoce."
+description = "Le score PEDT (Premature Ejaculation Diagnostic Tool) est validé pour la recherche d'une éjaculation précoce."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

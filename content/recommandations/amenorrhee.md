@@ -148,7 +148,7 @@ L'aménorrhée secondaire résulte le plus souvent d'une pathologie acquise apr�
 {{%collapse "Clinique" %}}
 
 > [!INFO]
-> << Chez toute femme normale, après la puberté, avant la ménopause et en dehors de la grossesse, les règles doivent être régulières. C'est-à-dire qu’elles doivent survenir tous les 28 jours en moyenne (la normale est entre 26 et 31 jours). >> -- *CEEDMM*
+> << Chez toute femme normale, après la puberté, avant la ménopause et en dehors de la grossesse, les règles doivent être régulières. C'est-à-dire qu'elles doivent survenir tous les 28 jours en moyenne (la normale est entre 26 et 31 jours). >> -- *CEEDMM*
 
 La présence d'irrégularités menstruelles avant l'aménorrhée (spanioménorrhée, oligoménorrhée) ne modifie pas l'enquête étiologique.
 

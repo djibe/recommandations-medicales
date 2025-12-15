@@ -1,6 +1,6 @@
 +++
 title = "Questionnaire FSFI (Female Sexual Function Index)"
-description = "Le questionnaire FSFI (Female Sexual Function Index) est validé pour  l’évaluation de la santé sexuelle d’une femme adulte."
+description = "Le questionnaire FSFI (Female Sexual Function Index) est validé pour  l'évaluation de la santé sexuelle d'une femme adulte."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

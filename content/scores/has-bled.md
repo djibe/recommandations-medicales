@@ -1,6 +1,6 @@
 +++
 title = "Score HAS-BLED"
-description = "Le score HAS-BLED est validé pour l’évaluation du risque hémorragique sous anticoagulant antivitamine K (AVK)."
+description = "Le score HAS-BLED est validé pour l'évaluation du risque hémorragique sous anticoagulant antivitamine K (AVK)."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

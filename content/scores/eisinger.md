@@ -1,6 +1,6 @@
 +++
 title = "Score d'Eisinger"
-description = "Le score d’Eisinger permet de déterminer la nécessité d’une consultation d’oncogénétique en cas d’antécédents de cancers (sein ou ovaire) ou de mutation BRCA"
+description = "Le score d'Eisinger permet de déterminer la nécessité d'une consultation d'oncogénétique en cas d'antécédents de cancers (sein ou ovaire) ou de mutation BRCA"
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

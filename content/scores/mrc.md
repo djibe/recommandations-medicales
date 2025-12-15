@@ -1,6 +1,6 @@
 +++
 title = "Échelle de force motrice MRC (Medical Research Council)"
-description = "L’échelle de testing moteur du Medical Research Council motor power scale (MRC) est validée pour l’évaluation subjective de la force motrice."
+description = "L'échelle de testing moteur du Medical Research Council motor power scale (MRC) est validée pour l'évaluation subjective de la force motrice."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

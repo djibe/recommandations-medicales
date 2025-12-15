@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-06-04T20:33:37+02:00"
 publishdate = "2024-06-06"
-lastmod = "2025-11-13"
+lastmod = "2025-12-15"
 specialites = ["cardiologie"]
 annees = "2025"
 sources = []
@@ -50,6 +50,7 @@ Sur Omnidoc, le groupe *SOS ECG* offre à tous les confrères cette expertise.
 
 {{< card-link-external title="Cursus ECG" url="https://www.cardiocases.com/fr/ecg/cursus-ecg" subtitle="par Cardiocases" >}} {{< card-link-external title="Livre ECG" url="https://book.cardio-fr.com/fr/" subtitle="par le Pr Goy et les Drs Christeler, Schläpfer et Stauffer" >}}
 
+- [Uness Cardiologie Portail ECG](https://cardiologie.uness.fr/portail/Portail:ECG)
 - [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Électrocardiogramme: indications et interprétations. Item 231. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
 - [ECGclic](https://ecgclic.fr)
 - [e-cardiogram](https://www.e-cardiogram.com) (Dr Pierre Taboulet)
@@ -61,7 +62,7 @@ Particularités de l'[ECG pédiatrique](https://fr.my-ekg.com/ecg-pediatrique/ec
 
 ### Entraînements à la lecture d'ECG
 
-- [Uness cardiologie](https://www.uness.fr/projets/formation/uness-cardiologie)
+- [Uness entraînement ECG 2ème cycle](https://cardiologie.uness.fr/portail/Entrainement_ECG_2%C3%A8me_cycle) (connexion ProSanteConnect)
 - [Cardiocases](https://www.cardiocases.com/fr/ecg/cursus-ecg)
 - [ECG Quiz](https://www.ecg-quiz.com/ecg-quiz/)
 - [EKG.Academy](https://ekg.academy/fr/exercices-entrainement-ecg)

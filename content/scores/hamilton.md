@@ -1,6 +1,6 @@
 +++
 title = "Échelle de Hamilton (HDRS, HRSD ou HAM-D)"
-description = "L’échelle de dépression de Hamilton (HDRS, HRSD ou HAM-D) permet d’évaluer l’intensité des symptômes dépressifs de l’adulte ainsi que leur évolution."
+description = "L'échelle de dépression de Hamilton (HDRS, HRSD ou HAM-D) permet d'évaluer l'intensité des symptômes dépressifs de l'adulte ainsi que leur évolution."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

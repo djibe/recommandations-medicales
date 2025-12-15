@@ -91,7 +91,7 @@ Actes dentaires contre-indiqués:
 
 - Coiffage pulpaire en denture permanente mature
 - Pulpectomie des dents temporaires
-- Toute technique de chirurgie avec utilisation d’une membrane de régénération osseuse
+- Toute technique de chirurgie avec utilisation d'une membrane de régénération osseuse
 - Tout traitement de la péri-implantite
 
 > -- *HAS 2024*

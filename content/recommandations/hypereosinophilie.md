@@ -8,7 +8,7 @@ synonyms = ["Syndromes hyperéosinophiliques"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-24T15:15:00+02:00"
 publishdate = "2023-04-29"
-lastmod = "2025-04-03"
+lastmod = "2025-11-04"
 specialites = ["biologie", "hématologie"]
 annees = "2022"
 sources = ["PNDS", "CEMI"]
@@ -18,7 +18,7 @@ sctid = "386789004"
 icd10 = ["D72.1"]
 image = true
 imageSrc = "Frottis sanguin avec un éosinophile. Echinaceapallida, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "flow CMIT ? | relecture CEREO demandée"
+todo = "relecture CEREO demandée"
 flowchart = true
 +++
 
@@ -209,11 +209,11 @@ La prise en charge d'une éosinophilie ou hyperéosinophilie est d'abord dirigé
 En l'absence d'orientation probante, un **traitement d'épreuve antihelminthe** est réalisé, avec suivi des éosinophiles:
 
 - Éosinophilie modérée (500-1500 ciblant oxyure et ascaris):
-  - [Albendazole](https://bdpm.ansm.sante.fr/medicament/65565944/extrait#tab-rcp) (Eskazole®, Zentel®) 400 mg/j pendant 1-3 jours puis 400 mg à J15
-  - ou [flubendazole](https://bdpm.ansm.sante.fr/medicament/60968336/extrait#tab-rcp) (Fluvermal®) 100 mg x 3/j pendant 3 jours puis 100 mg à J15
-  - Si anneaux ([taenia]({{% relref "tenia.md" %}}) ou autres): [praziquantel](https://bdpm.ansm.sante.fr/medicament/60996403/extrait#tab-rcp) (Biltricide®) 15 mg/kg
+  - [Albendazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/65565944/extrait#tab-rcp) (Eskazole®, Zentel®) 400 mg/j pendant 1-3 jours puis 400 mg à J15
+  - ou [flubendazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/60968336/extrait#tab-rcp) (Fluvermal®) 100 mg x 3/j pendant 3 jours puis 100 mg à J15
+  - Si anneaux ([taenia]({{% relref "tenia.md" %}}) ou autres): [praziquantel](https://base-donnees-publique.medicaments.gouv.fr/medicament/60996403/extrait#tab-rcp) (Biltricide®) 15 mg/kg
 - Hyperéosinophilie inexpliquée (> 1500/mm³ ciblant toxocarose, trichinellose, ascaridiose, [oxyurose]({{% relref "oxyurose.md" %}})):  
-  [Albendazole](https://bdpm.ansm.sante.fr/medicament/65565944/extrait#tab-rcp) 10-15 mg/kg/j en 2 prises/j (max 800 mg/j).
+  [Albendazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/65565944/extrait#tab-rcp) 10-15 mg/kg/j en 2 prises/j (max 800 mg/j).
 
 > -- *PNDS 2022*
 

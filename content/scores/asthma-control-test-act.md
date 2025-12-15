@@ -1,6 +1,6 @@
 +++
 title = "Asthma Control Test (ACT)"
-description = "L’Asthma Control Test™ (ACT) est un test validé de référence pour l’évaluation du contrôle de l’asthme à partir de 12 ans."
+description = "L'Asthma Control Test™ (ACT) est un test validé de référence pour l'évaluation du contrôle de l'asthme à partir de 12 ans."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

@@ -366,13 +366,16 @@ Un test d'effort doit être envisagé chez un **professionnel** (pompier, milita
 
 - [HAS. Stratégie thérapeutique du patient vivant avec un diabète de type 2. 2024.](https://www.has-sante.fr/jcms/p_3191108/fr/strategie-therapeutique-du-diabete-du-type-2-fiche-memo-et-parcours-de-soins-integres-note-de-cadrage)
 - [CCS, GERS-P. Position commune du Club des Cardiologues du Sport (CCS) et du Groupe Sport (GERS-P) de la Société Française de Cardiologie sur le bilan cardio-vasculaire recommandé pour la pratique sportive. 2022.](https://www.sfcardio.fr/publication/recommandations-sur-le-bilan-cardiovasculaire-recommande-pour-la-pratique-sportive)
-- [Knuuti J et al; ESC Scientific Document Group. 2019 ESC Guidelines for the diagnosis and management of chronic coronary syndromes: The Task Force for the diagnosis and management of chronic coronary syndromes of the European Society of Cardiology (ESC). European Heart Journal. 2019.](https://academic.oup.com/eurheartj/article/41/3/407/5556137)
+- [Knuuti J, et al; ESC Scientific Document Group. 2019 ESC Guidelines for the diagnosis and management of chronic coronary syndromes: The Task Force for the diagnosis and management of chronic coronary syndromes of the European Society of Cardiology (ESC). European Heart Journal. 2019.](https://academic.oup.com/eurheartj/article/41/3/407/5556137)
 - [SFC. Recommandations de la Société Française de Cardiologie pour les épreuves d'effort. 2018.](https://sfcardio.fr/publication/recommandations-pour-les-epreuves-deffort)
 - [HAS. Maladie coronarienne stable. 2016.](https://www.has-sante.fr/jcms/c_1761792/fr/guide-parcours-de-soins-maladie-coronarienne-stable)
 
 ### Bibliographie en attente
 
-[Collège National des Enseignants de Cardiologie (CNEC). Syndromes coronariens aigus. Item 339. Cardiologie 2e édition. 2022.](https://www.sfcardio.fr/publication/chapitre-05-item-339-syndromes-coronariens-aigus/)
+- [Conseil national professionnel cardiovasculaire (CNCF, CNCH, SNC, SFC). Indications de l'épreuve d'effort ergométrique en 2025. 2025. (PDF)](https://cncf.eu/wp-content/uploads/2025/10/CNCF-Indications-de-lepreuve-deffort-ergometrique-en-2025_A4.pdf)
+- [Collège National des Enseignants de Cardiologie (CNEC). Syndromes coronariens aigus. Item 339. Cardiologie 2e édition. 2022.](https://www.sfcardio.fr/publication/chapitre-05-item-339-syndromes-coronariens-aigus/)
+
+Mots-clé: epreuve effort, epreuve d'effort
 
 {{%/sources%}}
 {{% modal title="Diabète et risque coronaire selon SFD 2021" id="modal-coronaire-diabete"%}}

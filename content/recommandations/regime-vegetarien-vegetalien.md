@@ -86,7 +86,7 @@ aux fruits, yaourts au lait végétal, crèmes dessert végétales (sans soja)
   - < 14 g protéines/100g: galettes de céréales, << hâché >> végétal à base de soja
   Protéines, fer et zinc.
 - Levure alimentaire et apparentés: 10 g/j
-  - Germe de blé, levure alimentaire en paillettes, pâte à tartiner à base d’extrait de levure (type Marmite®)
+  - Germe de blé, levure alimentaire en paillettes, pâte à tartiner à base d'extrait de levure (type Marmite®)
   - Vitamines B1, B3, B9 et zinc.
 
 En cas de limitation des apports en produits laitiers: oléagineux 65 g/j (vitamine B2, calcium).
@@ -135,7 +135,7 @@ Apports alimentaires quotidiens recommandés chez l'adulte végétalien (en moye
 
 Avec un niveau de preuve modéré, les régimes végétariens réduisent le risque de [diabète de type 2]({{< relref "diabete-type-2.md" >}}).
 
-Le niveau de preuve est faible pour la réduction: des cardiopathies ischémiques, des troubles ovulatoires, de certains cancers (prostate, estomac, sang) et certaines maladies ophtalmologiques et gastro-intestinales. À l'opposé, le risque est plus élevé pour les fractures osseuses et l'hypospadias (malformation congénitale de l’urètre).
+Le niveau de preuve est faible pour la réduction: des cardiopathies ischémiques, des troubles ovulatoires, de certains cancers (prostate, estomac, sang) et certaines maladies ophtalmologiques et gastro-intestinales. À l'opposé, le risque est plus élevé pour les fractures osseuses et l'hypospadias (malformation congénitale de l'urètre).
 
 Les carences sont plus fréquentes en **fer, iode, vitamines B12 et D, phosphocalcique**.
 

@@ -1,6 +1,6 @@
 +++
 title = "Questionnaire IPSS (International Prostate Score Symptom)"
-description = "Le questionnaire IPSS (International Prostate Score Symptom) est validé pour l’évaluation d’un adulte présentant une hypertrophie bénigne de la prostate."
+description = "Le questionnaire IPSS (International Prostate Score Symptom) est validé pour l'évaluation d'un adulte présentant une hypertrophie bénigne de la prostate."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

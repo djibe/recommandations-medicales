@@ -1,6 +1,6 @@
 +++
 title = "Échelle de dyspnée modifiée mMRC (Medical Research Council)"
-description = "L’échelle de dyspnée modifiée du Medical Research Council (mMRC) est validée pour l’évaluation subjective de la dyspnée associée à la BPCO."
+description = "L'échelle de dyspnée modifiée du Medical Research Council (mMRC) est validée pour l'évaluation subjective de la dyspnée associée à la BPCO."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

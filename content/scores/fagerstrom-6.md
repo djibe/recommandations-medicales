@@ -1,6 +1,6 @@
 +++
 title = "Test de Fagerström"
-description = "Le test de Fagerström en 6 questions est fiable pour l’évaluation de la dépendance à la nicotine"
+description = "Le test de Fagerström en 6 questions est fiable pour l'évaluation de la dépendance à la nicotine"
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

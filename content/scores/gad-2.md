@@ -1,6 +1,6 @@
 +++
 title = "Score GAD-2 (Generalized Anxiety Disorder-2)"
-description = "Le score GAD-2 (Generalized Anxiety Disorder-2) est validé pour le repérage d’un trouble anxieux de l’adulte."
+description = "Le score GAD-2 (Generalized Anxiety Disorder-2) est validé pour le repérage d'un trouble anxieux de l'adulte."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

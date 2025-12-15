@@ -60,13 +60,15 @@ Certains sont autonomes, stockant en mémoire interne permettant de numériser l
 {{% /collapse %}}
 {{%collapse "Écrans" %}}
 
-Un écran de bureautique moderne doit être de 27 pouces, parce que comme les diamants, il finira toujours par être trop petit. Il s'agit de la taille idéale pour gérer le logiciel et la fenêtre de téléconsultation (ou la compta).
+Un écran de bureautique moderne doit être d'au moins 27 pouces, parce que comme les diamants, il finira toujours par être trop petit. Il s'agit de la taille idéale pour gérer le logiciel et la fenêtre de téléconsultation (ou la compta).
+
+Ne pas prendre de moniteur **OLED** pour la bureautique, car comme les anciens écrans cathodiques, ils souffrent de Burn in (images fantômes).
 
 Écrans 27 pouces (résolution minimale Full HD) avec un beau rendu de couleurs et de larges angles de vue (technologie IPS), un pied réglable, des hauts-parleurs intégrés pour les téléconsultations et une dalle mate pour éviter de travailler sur un miroir.  
 Si le son ne vous convient pas, vous pourrez investir dans des écouteurs, casque ou hauts-parleurs plus tard.  
 À vous de choisir le style.
 
-Si vous avez de bons yeux, **l'écran doit être de résolution WQHD** (aussi appelé QHD affichant 2560 x 1440 pixels).
+**L'écran doit être de résolution WQHD** (aussi appelé QHD affichant 2560 x 1440 pixels) pour ne pas souffrir de textes pixelisés, le HD est suffisant pour des tailles inférieures au 27 pouces.
 
 {{%info%}}
 Mon choix: [Dell S2725DS](https://www.idealo.fr/prix/204156921/dell-s2725ds.html) (élégant avec un son de bonne qualité)

@@ -114,6 +114,6 @@ En cas de sécrétions purulentes ou d'inflammation péri-ombilical, antisepsie 
 {{%sources%}}
 
 - [Gras-Le Guen C. Les soins du cordon en 2025 en France : quelles pratiques basées sur les preuves faut-il recommander aux nouveaux parents ?. réalités Pédiatriques. 2025. (PDF)](https://www.realites-cardiologiques.com/wp-content/uploads/sites/3/2025/05/10_GRAS-LE-GUEN_RG.pdf)
-- [Société français d'hygiène hospitalière, Société Française de Néonatologie. Avis relatif aux bonnes pratiques d’hygiène pour les soins du cordon pour les nouveau-nés en maternité et après la sortie de maternité. 2023.](https://www.sf2h.net/publications/avis-relatif-aux-bonnes-pratiques-dhygiene-pour-les-soins-du-cordon-pour-les-nouveau-nes-en-maternite-et-apres-la-sortie-de-maternite.html)
+- [Société français d'hygiène hospitalière, Société Française de Néonatologie. Avis relatif aux bonnes pratiques d'hygiène pour les soins du cordon pour les nouveau-nés en maternité et après la sortie de maternité. 2023.](https://www.sf2h.net/publications/avis-relatif-aux-bonnes-pratiques-dhygiene-pour-les-soins-du-cordon-pour-les-nouveau-nes-en-maternite-et-apres-la-sortie-de-maternite.html)
 
 {{%/sources%}}
