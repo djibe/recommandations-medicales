@@ -1,6 +1,6 @@
 {{- $u := urls.Parse .Destination -}}
 {{- $href := $u.String -}}
-{{ $followDomains := slice
+{{- $followDomains := slice
   "https://academic.oup.com"
   "https://www.ahajournals.org"
   "https://www.ameli.fr"
@@ -25,8 +25,8 @@
   "https://www.service-public.fr"
   "https://link.springer.com"
   "https://www.who.int"
-}}
-<!-- Nofollow external links -->
+-}}
+{{/* Nofollow external links */}}
 {{- $addRelFollow := false -}}
 {{- range $followDomains -}}
   {{- if strings.HasPrefix $href . -}}
@@ -51,12 +51,12 @@
     {{- end -}}
   {{- end -}}
 {{- end -}}
-<!-- Style the guide anchors starting with case-sensitive "guide" -->
+{{/* Style the guide anchors starting with case-sensitive "guide" */}}
 {{- $isGuide := false -}}
 {{- if strings.HasPrefix .Text "guide" -}}
   {{- $isGuide = true -}}
 {{- end -}}
-<!-- HTML code -->
+{{/* HTML code */}}
 <a href="{{ $href }}"
   {{- with .Title }} title="{{ . }}" {{- end -}}
   {{- if $isGuide }} class="guide-style"{{- end -}}
