@@ -10,7 +10,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr S. LAUNOIS (SFRMS/SPLF)"
 date = 2020-12-22T09:52:41+02:00
 publishdate = "2020-12-22"
-lastmod = "2023-12-18"
+lastmod = "2025-12-16"
 specialites = ["médecine du sommeil"]
 annees = "2018"
 sources = ["SFRMS", "AASM", "HAS"]
@@ -411,7 +411,24 @@ Si l'on peut consulter l'observance des 12 derniers mois (≥ 112 heures sur 10 
 > -- *HAS 2014*
 
 {{% /collapse %}}
-{{%collapse "Suivi" %}}
+{{%collapse "Suivi du SAHOS et renouvellement de PPC/OAM" %}}
+
+### Renouveler la PPC ou l'OAM
+
+Le renouvellement de la PPC ou de l'orthèse d'avancée mandibulaire (OAM) **efficace** peut être réalisée par tout médecin généraliste après 3 ans d'utilisation (en deux minutes).
+
+1. Programmer une consultation en demandant au patient d'amener le relevé d'utilisation de la PPC
+2. Aller sur Amelipro
+3. Identifier le patient (carte vitale ou NIR)
+4. Dans la rubrique **Services Patients**, cliquer sur **Accord préalable PPC-OAM**
+5. Sur la nouvelle page, cliquer sur l'onglet **DAP de mon patient : Instaurer et renouveler**
+6. Puis sur **Renouveler la dernière DAP**
+7. Choisir PPC ou OAM selon la prescription
+8. Pour la PPC, cocher **Renouvellement annuel**, indiquer l'**IAH sous traitement** et Oui aux questions suivantes  
+  Adresser au spécialiste en cas de non observance ou traitement inefficace.
+9. **Valider**, imprimer en enregistrer dans le dossier médical
+
+![Amelipro - accord préalable PPC-OAM](/images/photos/accord-prealable-PPC.avif "431px")
 
 ### Améliorer l'observance de la PPC
 
@@ -428,7 +445,7 @@ Rappeler que la PPC doit être utilisée au moins 4 heures par nuit.
 
 - Observance
 - Somnolence diurne  
-  Évaluer avec l'[échelle d'Epworth (PDF)](https://reseau-morphee.fr/wp-content/uploads/dlm_uploads/2016/11/Epworth.pdf).
+  Évaluer avec l'{{< modal-btn modal-score-epworth >}}échelle d'Epworth{{< /modal-btn >}}.
 - Insomnie
 - Céphalées matinales
 - Ronflements
