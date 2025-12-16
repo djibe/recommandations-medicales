@@ -23,14 +23,18 @@ const searchInput = document.getElementById('search-input');
 
 async function query(event) {
   if (!client) {
-    console.error("Le client n'est pas encore initialisé.");
+    console.error('Orama Search n’est pas encore initialisé.');
     return;
   }
 
   const searchResponse = await client.search({
     term: event.target.value,
     properties: '*',
-    mode: 'fulltext'
+    mode: 'fulltext',
+    'boost': {
+      'title': 5,
+      'content': 2
+    }
   });
 
   document.getElementById('search-results').innerHTML = searchResponse.hits
