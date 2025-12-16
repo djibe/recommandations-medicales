@@ -337,7 +337,7 @@ D'autres tests peuvent être demandés selon les suspicions cliniques:
   Évaluation objective de la capacité de résistance à l'endormissement dans des conditions passives.
 
 {{% /collapse %}}
-{{%collapse "Traitement du SAhOS" %}}
+{{%collapse "Traitement du SAHOS" %}}
 
 La prise en charge du syndrome d'apnées du sommeil relève exclusivement du spécialiste. Il consiste en une ventilation à pression positive continue (PPC) ou un orthèse d'avancée mandibulaire (OAM).
 
