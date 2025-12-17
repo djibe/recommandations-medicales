@@ -124,6 +124,7 @@ User-agent: PetalBot
 User-agent: PhindBot
 User-agent: Poggio-Citations
 User-agent: Poseidon Research Crawler
+User-agent: proximic
 User-agent: QualifiedBot
 User-agent: QuillBot
 User-agent: quillbot.com
@@ -134,6 +135,7 @@ User-agent: SemrushBot
 User-agent: SemrushBot-OCOB
 User-agent: SemrushBot-SWA
 User-agent: SEOkicks-Robot
+User-agent: SeznamBot
 User-agent: ShapBot
 User-agent: Sidetrade indexer bot
 User-agent: sitesnagger
