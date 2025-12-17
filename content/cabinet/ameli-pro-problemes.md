@@ -6,7 +6,7 @@ description = "Outils pour identifier et résoudre les problèmes de connexion a
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-11T13:08:00+02:00"
 publishdate = "2023-04-11"
-lastmod = "2025-09-18"
+lastmod = "2025-12-17"
 annees = "2025"
 sources = []
 tags = []
@@ -32,9 +32,9 @@ Ameli Pro et tous les services en ligne proposant une connexion avec la carte CP
 {{< table title="Logiciels nécessaires pour faire le fonctionnement de la carte CPS sur l'ordinateur du médecin." >}}
 | Logiciel                | Version | Téléchargement                                                                      |
 |-------------------------|--------:|-------------------------------------------------------------------------------------|
-| ATSAM (Windows)         | 4.66.01 | [Lien](https://e.pcloud.link/publink/show?code=XZNGoOZzuciC5kcrb7vLN2G2IikpVvHtLlX) |
-| ATSAM (MacOS)           | 4.66.01 | [Lien](https://e.pcloud.link/publink/show?code=XZOGoOZRvlIdrchK2hWOB3fg0RIIpO3uMey) |
-| Cryptolib CPS (Windows) |   5.2.2 | [Lien](https://e.pcloud.link/publink/show?code=XZMRbxZvYgl3uQffJ89WXhW8VC1qyEnPqGk) |
+| ATSAM (Windows)         | 4.67.03 | [Lien](https://e.pcloud.link/publink/show?code=XZbXzNZEaVjeIPHBUu8Msy5TtGGBRu2hu37) |
+| ATSAM (MacOS)           | 4.67.03 | [Lien](https://e.pcloud.link/publink/show?code=XZQXzNZDd1cvTwy0J7fOKN9l3DaIQb43VsV) |
+| Cryptolib CPS (Windows) |   5.2.5 | [Lien](https://e.pcloud.link/publink/show?code=XZnXzNZvwAYKmArC0bTXuHOaauYA7L9Iop7) |
 {{< /table >}}
 
 ### ATSAM
