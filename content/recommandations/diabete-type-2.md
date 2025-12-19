@@ -9,10 +9,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T17:23:12+02:00"
 publishdate = "2020-04-27"
-lastmod = "2025-10-20"
+lastmod = "2025-12-19"
 specialites = ["endocrinologie"]
 annees = "2025"
-sources = ["HAS", "SFD", "ESC", "ESH", "ADA", "EASD", "KDIGO"]
+sources = ["SFD", "HAS", "ESC", "ESH", "ADA", "EASD", "KDIGO"]
 tags = ["B12", "diabète", "épreuve effort", "HTA", "insuline", "rétinopathie", "néphropathie", "risque cardiovasculaire", "neuropathie", "obésité", "SAS", "vaccin"]
 english = ["Diabetes mellitus type 2"]
 sctid = "44054006"
@@ -24,7 +24,7 @@ todo = "hypoglycémies HAS25p58; urgences hypergly HAS25p60; fragilité HAS25p65
 
 {{%article-summary%}}
 
-Ce chapitre intègre les dernières recommandations HAS, SFD, ADA, ESC et ADA/EASD 2022 pour la prise en charge du diabète de type 2.
+Ce chapitre intègre les dernières recommandations SFD, HAS, ADA, ESC et ADA/EASD pour la prise en charge du diabète de type 2.
 
 - Dépister tous 3 ans un diabète en cas de facteurs de risque (1 à 2 en cas de facteurs multiples):
   - facteur de risque cardiovasculaire
@@ -32,7 +32,7 @@ Ce chapitre intègre les dernières recommandations HAS, SFD, ADA, ESC et ADA/EA
   - Prédiabète (annuel), acanthosis nigricans
 - Pour chaque personne vivant avec un diabète: changement du mode de vie, définir le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}, sevrage tabagique obligatoire et prise en charge des points vitaux obligatoires (voir plus bas)
 - {{< modal-btn modal-hba1c >}}Cible personnalisée d'hémoglobine glyquée{{< /modal-btn >}} (globalement 7%) et {{< modal-btn modal-hba1c-faussee >}}situations où l'HbA1c n'est pas fiable{{< /modal-btn >}}
-- Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}aGLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}} rarement
+- Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}AR GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}} rarement
 - [Dépistage des complications du diabète](#dépistage-des-complications-du-diabète) et des comorbidités
 - Éducation thérapeutique du patient diabétique
 
@@ -106,10 +106,10 @@ SFD
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Les points vitaux du diabète type 2" "show" %}}
+{{%collapse "Les points vitaux du diabète type 2" %}}
 
 > [!WARNING]
-> Toute personne avec un diabète type 2 est à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} (rarement bas ou modéré) {{%class%}}(risque CV x2-4){{%/class%}}.
+> Une personne avec un diabète type 2 est souvent à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} {{%class%}}(risque CV x2-4){{%/class%}}.
 
 - Suivi tous les 3-6 mois
 - HbA~1c~ cible: {{< modal-btn modal-hba1c >}}globalement **7%**{{< /modal-btn >}} (SFD, ESC 2023)
@@ -129,7 +129,7 @@ SFD
   - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette 3 j/sem
   - Avec l'âge, favoriser la souplesse 2 à 3 jours par semaine (yoga, Thai-chi)
 - Surpoids  
-  Suivi poids et  trimestriel, perte de poids (5-15 %), {{< modal-btn modal-glp1 >}}aGLP-1{{< /modal-btn >}} (sémaglutide) voire [chirurgie bariatrique]({{% relref "obesite-adulte.mdn" %}}).
+  Suivi poids et  trimestriel, perte de poids (5-15 %), {{< modal-btn modal-glp1 >}}AR GLP-1{{< /modal-btn >}} (sémaglutide) voire [chirurgie bariatrique]({{% relref "obesite-adulte.mdn" %}}).
 - Alimentation équilibrée et {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}
 - Dépistages recommandés
   - Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
@@ -155,15 +155,13 @@ SFD
 > Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75%. -- *ESC 2019 diabetes*
 
 {{% /collapse %}}
-{{%collapse "Escalade thérapeutique du diabète" %}}
+{{%collapse "Escalade thérapeutique du diabète" "show" %}}
 
-### Aide au choix du traitement antidiabétique d'après SFD 2023 et HAS 2024
+### Aide au choix du traitement antidiabétique d'après SFD 2025 et HAS 2024
 
-Les recommandations *HAS 2024* reprennent les mêmes éléments de décision thérapeutique.
-{.alert .alert-info}
-
+- {{< modal-btn modal-hba1c >}}Cible d'HbA1c personnalisée{{< /modal-btn >}}
 - Cliquer sur la classe thérapeutique pour afficher plus d'informations sur la prise en charge  
-  Les classes préférentielles ont un indicateur bleu.
+  Les classes préférentielles ont une <span class="border border-primary p-1">bordure bleue</span>.
 - **Objectif 0 hypoglycémie !**
 - Réévaluation de l'efficacité et de la tolérance **3-6 mois** après chaque modification
 - En cas de grossesse: les objectifs glycémiques sont identiques au [diabète gestationnel]({{% relref "diabete-gestationnel.md" %}})
@@ -175,7 +173,7 @@ Les recommandations *HAS 2024* reprennent les mêmes éléments de décision th�
     <input type="radio" name="assistant" id="standard" class="d-input-none" checked>
     <label for="standard" class="chip chip-action chip-choice">Sans</label>
     <input type="radio" name="assistant" id="obese" class="d-input-none">
-    <label for="obese" class="chip chip-action chip-choice" data-toggle="tooltip" title="Obésité">Obésité</label>
+    <label for="obese" class="chip chip-action chip-choice" data-toggle="tooltip" title="Obésité, maladie hépatique">Obésité / MASLD</label>
     <input type="radio" name="assistant" id="mcv" class="d-input-none">
     <label for="mcv" class="chip chip-action chip-choice" data-toggle="tooltip" title="Maladie cardiovasculaire">Cardiovasculaire</label>
     <input type="radio" name="assistant" id="mrc" class="d-input-none">
@@ -183,51 +181,137 @@ Les recommandations *HAS 2024* reprennent les mêmes éléments de décision th�
     <input type="radio" name="assistant" id="ic" class="d-input-none">
     <label for="ic" class="chip chip-action chip-choice" data-toggle="tooltip" title="Insuffisance cardiaque">Insuf. cardiaque</label>
     <input type="radio" name="assistant" id="age" class="d-input-none">
-    <label for="age" class="chip chip-action chip-choice" data-toggle="tooltip" title="+75 ans fragile ou dépendant">+75 ans fragile</label>
+    <label for="age" class="chip chip-action chip-choice" data-toggle="tooltip" title="+75 ans fragile">+75 ans fragile</label>
+    <input type="radio" name="assistant" id="dependant" class="d-input-none">
+    <label for="dependant" class="chip chip-action chip-choice" data-toggle="tooltip" title="+75 ans dépendant">+75 ans dépendant</label>
   </div>
 </div>
-<p class="typography-overline">Toujours</p>
-<p>Changement des habitudes alimentaires, lutte contre la sédentarité et activité physique adaptée.</p>
-<p>Réévaluation à 3-6 mois.</p>
-<p class="choix-obese font-weight-bold">Chirurgie bariatrique indiquée à partir de 35 d’IMC.</p>
-<h3 class="typography-overline">1<sup>re</sup> intention</h3>
-<p class="font-weight-bold choix-age">Évaluation gériatrique et éviter un régime restrictif</p>
+
+Toujours
+{.typography-overline}
+
+Changement des habitudes alimentaires, lutte contre la sédentarité et activité physique adaptée.
+
+Réévaluation à 3-6 mois.
+
+**Suivi spécialisé** néphrologique (< 45 mL/min ou déclin rapide) et diabétologique.
+{.choix-mrc}
+
+**Chirurgie bariatrique indiquée à partir de 35 d'IMC**, ou 30 au cas par cas (nutritionniste).
+{.choix-obese}
+
+---
+
+### Première ligne {.text-primary .typography-overline}
+
+Évaluation gériatrique et éviter un régime restrictif
+{.font-weight-bold .choix-age}
+
 <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-metformine">Metformine</button>
 <button class="chip chip-action choix-mrc choix-ic choix-mcv" type="button" data-toggle="modal" data-target="#modal-isglt2">+ iSGLT2</button>
-<button class="chip chip-action choix-mcv" type="button" data-toggle="modal" data-target="#modal-glp1">ou aGLP-1</button>
-<p class="my-2 choix-ic">Suspendre la metformine en cas de décompensation</p>
-<p class="font-weight-bold my-2">La metformine doit être maintenue au long cours <span class="font-weight-normal choix-mrc">(suspendue sous 30 mL/min).</span></p>
+<button class="chip chip-action choix-mcv" type="button" data-toggle="modal" data-target="#modal-glp1">ou AR GLP-1</button>
+<button class="chip chip-action choix-obese" type="button" data-toggle="modal" data-target="#modal-glp1">± AR GLP-1</button>
+
+Suspendre la metformine en cas de décompensation.
+{.my-2 .choix-ic}
+
+**La metformine doit être maintenue au long cours** <span class="font-weight-normal choix-mrc">(suspendue sous 30 mL/min).</span>.
 <!-- 2e intention -->
-<p class="text-primary typography-overline mt-4 choix-standard choix-obese">Deuxième ligne - Ajouter au choix</p>
-<p class="mt-4 text-black-secondary">Possibilité de proposer d'emblée une bithérapie si déséquilibre initial important (HbA<sub>1c</sub> &gt; 10 % ou glycémies &gt; 3 g/L)</p>
-<div class="mb-2 choix-standard">
+
+---
+
+Deuxième ligne - Ajouter au choix
+{.text-primary .typography-overline .mt-4 .choix-standard .choix-obese}
+
+<span class="choix-standard choix-obese choix-mcv">Possibilité de proposer d'emblée une bithérapie si déséquilibre initial important (HbA<sub>1c</sub> ≥ 8,5 %).</span> Avis endocrinologique souhaitable si ≥ 10 %.
+
+iSGLT2 ou AR GLP-1 d'emblée en cas de risque cardiovasculaire élevé en prévention primaire.
+{.choix-standard}
+
+<div class="mb-2 choix-standard d-flex align-items-center">
   <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
-  <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1">aGLP-1</button>
-  <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-idpp4">iDPP4</button>
+  <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1">AR GLP-1</button>
+  <p class="mb-0 px-3">&gt;</p>
+  <button class="chip chip-action border" type="button" data-toggle="modal" data-target="#modal-idpp4">iDPP4</button>
+  <p class="mb-0 px-3">&gt;</p>
   <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-su">SU</button>
 </div>
 <div class="mb-2 choix-obese">
-  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1">aGLP-1</button>
+  <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1">AR GLP-1</button>
   <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
   <p class="text-primary typography-overline mt-3">Troisième ligne</p>
-  <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-glp1">aGLP-1</button> + <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
+  <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-glp1">AR GLP-1</button> + <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
   <p class="mt-2">Si insuffisants: avis endocrinologique et informer sur la chirurgie bariatrique.</p>
 </div>
 <div class="mb-2 choix-mrc choix-mcv choix-ic">
-  <p class="text-primary typography-overline mt-3">Deuxième ligne</p>
-  <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button> + <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-glp1">aGLP-1</button>
-  <p class="mt-2">Suivi spécialisé</p>
+
+---
+
+Deuxième ligne
+{.text-primary .typography-overline .mt-3}
+
+<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button> + <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-glp1">AR GLP-1</button>
+
+Suivi spécialisé TODO:
+{.mt-3}
+
+Un **capteur de glycémie** est préconisé en cas de SU, glinide ou insuline et de MRC avancée (mais remboursé uniquement avec l'insuline).
+{.choix-mrc}
+
+Maintenir les traitements en cas d'introduction d'insuline.
+{.choix-mrc}
+
+</div>
+<div class="mb-2 choix-mcv choix-ic choix-mrc">
+
+---
+
+Troisième ligne
+{.text-primary .typography-overline .mt-3}
+
+<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button> + <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-glp1">AR GLP-1</button> + <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-insuline">Insuline basale</button>
 </div>
 <div class="mb-2 choix-age">
-  <p class="text-primary typography-overline mt-3">Deuxième ligne</p>
-  <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-idpp4">iDPP4</button>
-  <p>Si fragile avec MRC ou IC: <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-idpp4">iDPP4</button> et/ou <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button></p>
-  <p class="text-primary typography-overline mt-4">Troisième ligne</p>
-  <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-insuline">Insuline</button>
-  <p>Si fragile avec MRC ou IC: <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-isglt2">± iSGLT2</button></p>
+
+---
+
+Deuxième ligne
+{.text-primary .typography-overline}
+
+<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-idpp4">iDPP4</button>
+<p>Si fragile avec MRC, MCV ou IC: <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-idpp4">iDPP4</button> et/ou <button class="chip chip-action flex-grow-1" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button></p>
+
+---
+
+Troisième ligne
+{.text-primary .typography-overline}
+
+<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-insuline">Insuline basale</button> <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-idpp4">± iDPP4</button>
+<p>Si fragile avec MRC, MCV ou IC: <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-idpp4">± iDPP4</button> et/ou <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button></p>
+</div>
+<div class="mb-2 choix-dependant">
+
+---
+
+Deuxième ligne
+{.text-primary .typography-overline}
+
+<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-idpp4">iDPP4</button>
+
+---
+
+Troisième ligne
+{.text-primary .typography-overline}
+
+<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-insuline">Insuline basale</button>
 </div>
 <div class="mb-2 choix-standard">
-<p class="text-primary typography-overline mt-4">Troisième ligne - Selon les traitements essayés</p>
+
+---
+
+Troisième ligne - Selon les traitements essayés
+{.text-primary .typography-overline .mt-4}
+
 <div class="accordion mb-5" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" role="button">
@@ -236,7 +320,7 @@ Les recommandations *HAS 2024* reprennent les mêmes éléments de décision th�
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div>
         <ul class="list-group list-group-flush">
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Ajouter ou substituer par un aGLP-1</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Ajouter ou substituer par un AR GLP-1</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-idpp4">Ajouter un iDPP4</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-insuline">Substituer par une insuline basale</li>
@@ -251,9 +335,10 @@ Les recommandations *HAS 2024* reprennent les mêmes éléments de décision th�
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div>
         <ul class="list-group list-group-flush">
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Substituer par un aGLP-1</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Substituer par un AR GLP-1</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
+          <li class="list-group-item">Ajouter un glinide</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-insuline">Substituer par une insuline basale</li>
         </ul>
       </div>
@@ -261,14 +346,15 @@ Les recommandations *HAS 2024* reprennent les mêmes éléments de décision th�
   </div>
   <div class="card">
     <div class="card-header" id="headingFour" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" role="button">
-      <h4 class="card-title">Après aGLP-1</h4>
+      <h4 class="card-title">Après AR GLP-1</h4>
     </div>
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
       <div>
         <ul class="list-group list-group-flush">
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-su">Ajouter un SU</li>
-          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-insuline">Substituer/associer à une insuline basale</li>
+          <li class="list-group-item">Ajouter un glinide</li>
+          <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-insuline">Associer (voire substituer) à une insuline basale</li>
         </ul>
       </div>
     </div>
@@ -280,10 +366,10 @@ Les recommandations *HAS 2024* reprennent les mêmes éléments de décision th�
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
       <div>
          <ul class="list-group list-group-flush">
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Substituer par un aGLP-1</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Substituer par un AR GLP-1</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-idpp4">Ajouter un iDPP4</li>
-          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Réduire et ajouter par un aGLP-1</li>
+          <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Réduire et ajouter un AR GLP-1</li>
           <li class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modal-insuline">Substituer par une insuline basale</li>
         </ul>
       </div>
@@ -291,13 +377,17 @@ Les recommandations *HAS 2024* reprennent les mêmes éléments de décision th�
   </div>
 </div>
 <!-- 4e intention -->
-<p class="text-primary typography-overline mt-3">4e intention</p>
-<ul>
-  <li>Avis endocrinologique de préférence</li>
-  <li>Metformine + <a role="button" data-toggle="modal" href="#modal-glp1">aGLP-1</a></li>
-  <li>Voire metformine + <a role="button" data-toggle="modal" href="#modal-glp1">aGLP-1</a> + <a role="button" data-toggle="modal" href="#modal-isglt2">iSGLT2</a> (plutôt que <a role="button" data-toggle="modal" href="#modal-su">SU</a>)</li>
-  <li>ou metformine + <a role="button" data-toggle="modal" href="#modal-insuline">insuline basale</a></li>
-</ul>
+
+---
+
+4e intention
+{.text-primary .typography-overline .mt-3}
+
+- Avis endocrinologique de préférence
+- Metformine + <a role="button" data-toggle="modal" href="#modal-glp1">AR GLP-1</a>
+- Voire metformine + <a role="button" data-toggle="modal" href="#modal-glp1">AR GLP-1</a> + <a role="button" data-toggle="modal" href="#modal-isglt2">iSGLT2</a>
+- ou metformine + <a role="button" data-toggle="modal" href="#modal-insuline">insuline basale</a> ± AR GLP/1/SGLT2
+
 </div>
 </div>
 <script>
@@ -392,19 +482,26 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 - 1 autopiqueur annuel
 - Lecteur de glycémie  
   - 1 lecteur remboursé tous les 4 ans
-  - **Indications à l'autosurveillance glycémique:** insuline envisagée ou en cours, insulinosécréteur avec suspicion d'hypoglycémie, visée pédagogique en cible non atteinte, déséquilibre aigu (infection, corticoïdes, suspension du traitement), (désir de) grossesse
-  - Sous insuline: 2 à 4 contrôles quotidiens (insuline basale seule), 4 à 6 dans les autres cas. Globalement cible avant le repas 0,7 - 1,2 g/L, post-prandiale (H2) < 1,8 g/L
+  - **Indications à l'autosurveillance glycémique:** **insuline** envisagée ou en cours, insulinosécréteur (sulfamide, glinide), visée pédagogique lorsque la cible n'est pas atteinte, déséquilibre aigu (infection, corticoïdes, suspension du traitement), (désir de) **grossesse**, **comorbidité faussant l'HbA~1c~** (anémie, hémoglobinopathie, hémolyse, insuffisance rénale sévère, cirrhose)
+  - Sous insuline (préférer un capteur): 2 à 4 contrôles quotidiens (insuline basale seule), 4 à 6 dans les autres cas. Globalement cible avant le repas 0,7 - 1,2 g/L, post-prandiale (H2) < 1,8 g/L
   - Insuline envisagée: 2-4/j
   - Insulinosécréteur: 2/semaine à 2/j
-- Capteur de glycémie
-  - Indications: insulinothérapie intensifiée ou non contrôlée
-  - [Freestyle Libre 2](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043507006)) (26 capteurs/an remboursés) ou Libre 2 plus (24/an), [Dexcom One](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047911730) ou One + (36/an)
+- **Capteur de glycémie**
+  - Indication: insulinothérapie
+  - [Freestyle Libre 2](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043507006)) (26 capteurs/an remboursés) ou Libre 2 plus (24/an), [Freestyle Libre Select](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051549307), [Dexcom One](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047911730) ou One + (36/an)
 - Stylo à insuline connecté (Novopen 6, Novopen Echo Plus)  
   1 stylo par an.
 - Lecteur de cétonémie
   - Indication: multi-injections d'insuline avec iSGLT2 (10 électrodes/an -- HAS 2025, [Arrêté du 26 mars 2021](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043294838))
 
 > -- *[Ameli 2025](https://www.ameli.fr/medecin/exercice-liberal/memos/troubles-endocriniens/diabete/prise-en-charge-et-suivi-du-patient/suivi/auto-surveillance-glycemique-du-patient-diabetique-systeme-freestyle-libre)*
+
+{{< table title="Objectifs glycémiques avec un capteur de glucose interstitiel selon SFD 2025" class="table-wrap" >}}
+| Situation | Temps dans la cible<br>TIR<br>0,7-1,8 g/L | Temps en dessous<br>de la cible TBR<br>< 0,7 g/L | <br><br>< 0,54 g/L | Temps au dessus<br>de la cible TAR<br>> 1,8 g/L | <br><br>> 2,5 g/L |
+|-|-|-|-|-|-|
+| Cas général (hors grossesse) | > 70 % | < 4 % | < 1 % | < 25 % | < 5 % |
+Personne âge et/ou <br>risque hypoglycémique<br>sévère | > 50 % | < 1 % | 0 % | < 50 % | < 10 % |
+{{< /table >}}
 
 {{% /collapse %}}
 {{%sources%}}
@@ -417,11 +514,11 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 
 {{< video poster="https://www.sfdiabete.org/files/files/Vidéo/2024/20240124_sfd_dt2_2024.png" mp4="https://www.sfdiabete.org/files/files/Vidéo/2024/20240124_sfd_dt2_2024.mp4" description="Prise de position de la SFD sur le traitement du DT2 : quoi de neuf en 2024 ? (Fréquence Médicale)" >}}
 
+- {{< references/sfd-dt2-2025 >}}
 - [HAS. Parcours de soins du patient adulte vivant avec un diabète de type 2. 2025.](https://www.has-sante.fr/jcms/p_3634754/fr/parcours-de-soins-du-patient-adulte-vivant-avec-un-diabete-de-type-2)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Stratégie thérapeutique du patient vivant avec un diabète de type 2. 2024.](https://www.has-sante.fr/jcms/p_3191108/fr/strategie-therapeutique-du-diabete-du-type-2-fiche-memo-et-parcours-de-soins-integres-note-de-cadrage)
 - [HAS, ANRS. Traitement de la Covid-19. 22/12/2023.](https://www.has-sante.fr/jcms/p_3447571/fr/traitement-de-la-covid-19)
-- {{< references/sfd-dt2-2023 >}}
 - [Diévart F et al. Quand et comment utiliser les inhibiteurs de la SGLT2 ou gliflozines en pratique clinique ? Nephrol Ther. 2023.](https://hal.science/hal-04541399)
 - {{< references/esc-diabetes-2023 >}}
 - {{< references/esh-2023 >}}
