@@ -236,7 +236,7 @@ Nécessité d'une consultation dédiée pour la primo-prescription d'une contrac
 
 - Poids, taille, IMC
 - Pression artérielle  
-  {{%class%}}5 % développent une [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) sous COP (*ESC 2018*){{%/class%}}
+  5 % développent une [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) sous COP (*ESC 2018*).
 - Examen des seins
 - Examen gynécologique  
   N'est pas nécessaire pour la 1^re^ consultation (sauf symptôme ou antécédent).
