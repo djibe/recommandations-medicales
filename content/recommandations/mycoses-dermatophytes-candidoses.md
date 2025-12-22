@@ -141,6 +141,9 @@ Terbinafine 250 mg cp x 1/j pendant 2 à 4 semaines.
 
 ### Intertrigo
 
+> [!WARNING]
+> L'intertrigo peut facilement être confondu avec un [érythrasma]({{% relref "erythrasma.md" %}}) bactérien, de couleur rose-brun, non prurigineux (le plus souvent). En cas de doute ou << d'intertrigo résistant >>, le clotrimazole crème couvre les 2
+
 Les intertrigos ont un aspect d'érythème lisse suintant à limites floues, **prurigineux** ou avec **sensation de brûlures**, parfois des fissures douloureuses. L'origine est fréquemment une candidose, une bordure inflammatoire caractérise un dermatophyte (*T. rubrum*, *T. interdigitale*, *Epidermophyton floccosum*).
 
 Les localisations classiques des intertrigos sont inter-orteils (<< pied d'athlète >> ou tinea pedis), à la commissure labiale (**perlèche**, [photos](https://dermnetnz.org/images/angular-cheilitis-images)), les plis inguinaux (<< eczéma marginé de Hebra >>) ou cruraux, sous-mammaires et axillaires.  
