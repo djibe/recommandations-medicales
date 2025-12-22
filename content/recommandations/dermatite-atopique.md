@@ -191,6 +191,7 @@ Application 1 à **2 fois/j** au long cours en couche épaisse après le bain (1
 - Niveau 1  
   - Émollients: lait, gel, crème ou pommade
   - Seul remboursé en France: [Glycérol/Vaseline/Paraffine 15%/8%/2 % crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/62395668/extrait#tab-rcp).
+  - Top *UFC Que Choisir* 2025 pour le corps (abordable): Nivea Body milk smooth sensation, Nivea crème, Neutrogena Hydratation profonde
 - Niveau 2: Préparation*  
   Glycérolé d'amidon 35 g + Cold Cream Fluide 300 mL sur tout le corps (*CHRU Lille*)
 - Niveau 3: Cérat de Galien ou préparation*:  
@@ -213,12 +214,12 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
   - Ongles courts
   - Rincer et hydrater après la natation
   - Aspirateur hebdomadaire
-  - Laver la literie à 55°C tous les 10 jours, éviter les peluches non lavables
+  - Laver la literie à 55 °C tous les 10 jours, éviter les peluches non lavables
   - Housses Gore-Tex ou équivalent
   - Éviter les chats
 - Vérifier l'auto-médication
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
-- 19°C dans la chambre
+- 19 °C dans la chambre
 - Lutte contre les idées reçues  
   **Contre la corticophobie**, la dermatite atopique n'est pas allergique-psychologique-infectieuse-contagieuse.
 - [Centres d'éducation thérapeutique pour la dermatite atopique](https://www.sfdermato.org/page-29-centres-d-education-therapeutique) (ETP)
