@@ -27,6 +27,7 @@ modele = true
 
 - Triade migraineuse: évolution chronique par crises récurrentes avec intervalle libre + crises migraineuses stéréotypées + examen clinique normal
 - Contre-indication à l'association: migraine + pilule + tabac. Impacte le choix de la [contraception]({{% relref "contraception.md" %}})
+- La migraine devrait être dépistée chaque année chez les femmes (*AHS 2025*)
 - Suivi à chaque consultation de l'[Agenda migraineux](https://www.sfetd-douleur.org/wp-content/uploads/2019/08/agenda_cephalees_chu2015.pdf)
 - Traitement de la crise migraineuse
   - Réévalué après 3 crises ({{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}})
@@ -562,6 +563,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Schwedt TJ, et al. Routine migraine screening as a standard of care for Women's health: A position statement from the American Headache Society. Headache. 2025.](https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.70023)
+- [CBIP.  Médicaments de la crise migraineuse aiguë : une comparaison. Folia. 2025.](https://www.cbip.be/fr/articles/4685?folia=4667)
 - [Øie LR, et al. Candesartan versus placebo for migraine prevention in patients with episodic migraine: a randomised, triple-blind, placebo-controlled, phase 2 trial. Lancet Neurol. 2025.](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(25)00269-8/abstract)
 - [Charles AC, et al. State of the art in the management of migraine-A response to the American College of Physicians migraine preventive treatment guideline. Headache. 2025.](https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.15051)
 - [CBIP. Les triptans sont-ils sûrs chez les patients migraineux ayant un risque cardio-vasculaire élevé ?. Folia. 2025.](https://www.cbip.be/fr/les-triptans-sont-ils-surs-chez-les-patients-migraineux-ayant-un-risque-cardio-vasculaire-eleve/)
@@ -617,7 +620,7 @@ Consigner les prises dans l'*agenda migraineux*. Reconsulter après 3 crises.
 {{< scores/m-toq >}}
 
 {{% /modal %}}
-{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

@@ -537,7 +537,7 @@ graph TB
 - [Xi B, et al. Establishing International Blood Pressure References Among Nonoverweight Children and Adolescents Aged 6 to 17 Years. Circulation. 2016.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729639/#SD1)
 
 {{%/sources%}}
-{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

@@ -261,7 +261,7 @@ graph TB
 
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Sinusites de l'enfant. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/c_2722824/fr/choix-et-durees-d-antibiotherapies-sinusites-de-l-enfant)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Sinusites de l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722806/fr/choix-et-durees-d-antibiotherapies-sinusite-de-l-adulte)
-- [Cohen R et al. Antimicrobial treatment of ENT infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001471)
+- [Cohen R, et al. Antimicrobial treatment of ENT infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001471)
 - [GPIP, SFP, AFPA, SPILF. Propositions du Groupe de Pathologie Infectieuse de la Société Française de Pédiatrie, de l'Association Française de Pédiatrie ambulatoire et de la Société Française de Pathologie Infectieuse de Langue Française face aux fortes tensions d'approvisionnement des formes pédiatriques orales d'amoxicilline et d'amoxicilline-acide clavulanique. 2022. (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/reco_penurie_amox_2022.pdf)
 - [SPILF. Propositions de la SPILF pour des antibiothérapies plus courtes. Mars 2017. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2017-mars.pdf)
 - [HAS. Fiche mémo - Sinusite de l'adulte. 2016. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2016-11/v1-fm_sinusite_adulte-171116.pdf)
@@ -270,6 +270,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Payne SC, et al. Clinical Practice Guideline: Adult Sinusitis Update. Otolaryngol Head Neck Surg. 2025.](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1002/ohn.1344)
 - [CMIT. Infections naso-sinusiennes de l'adulte et de l'enfant. Item 148. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-148-web.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Sinusites. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/sinusites)
 

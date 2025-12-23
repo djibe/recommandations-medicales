@@ -9,7 +9,7 @@ synonyms = ["Bilan de prévention"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-08-23T13:56:41+02:00"
 publishdate = "2024-08-29"
-lastmod = "2025-10-11"
+lastmod = "2025-12-23"
 specialites = ["certificats"]
 annees = "2025"
 sources = ["MinSanté"]
@@ -90,6 +90,7 @@ todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
 - Troubles des conduites alimentaires (TCA avec le {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}})
 - Dépistage des IST si rapports non protégés, éducation
 - Chez la femme:
+  - Dépistage annuel des [migraines]({{% relref "migraine.md" %}})
   - Sexuellement active de 15 à 25 ans: prélèvement vaginal pour PCR des IST
   - [Ménorragies]({{% relref "menorragies.md" %}}), [dysménorrhées]({{% relref "endometriose.md" %}})
 
@@ -100,7 +101,8 @@ todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
 - BPCO: {{< modal-btn modal-depistage-bpco >}}dépistage des symptômes{{< /modal-btn >}} ou +20 PA, spirométrie
 - {{< modal-btn modal-saos >}}Signes d'apnées du sommeil{{< /modal-btn >}}
 - Troubles anxieux et [dépressifs]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
-- Femme
+- Chez la femme:
+  - Dépistage annuel des [migraines]({{% relref "migraine.md" %}})
   - [Ménorragies]({{% relref "menorragies.md" %}}), [dysménorrhées]({{% relref "endometriose.md" %}})
   - [Dépistages du cancer du sein]({{% relref "cancer-sein.md" %}}) (à partir de 50 ans) et du [cancer du col de l'utérus]({{% relref "cancer-col-uterus.md" %}})
   - Symptômes de [ménopause]({{% relref "menopause.md" %}})

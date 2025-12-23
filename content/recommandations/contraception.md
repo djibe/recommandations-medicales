@@ -679,7 +679,7 @@ graph TB
 - [HAS. Efficacité des méthodes contraceptives. 2014.](https://www.has-sante.fr/jcms/c_1757924/fr/efficacite-des-methodes-contraceptives)
 
 {{%/sources%}}
-{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

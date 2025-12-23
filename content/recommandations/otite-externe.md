@@ -156,8 +156,8 @@ En position couchée, l'oreille atteinte doit être en position haute:
 
 - Prescrire Redaction. Otite externe aiguë bactérienne. Premiers Choix Prescrire. Rev Prescrire. 2024.
 - [CMIT. Otites infectieuses de l'adulte et de l'enfant. Item 150. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-150.pdf)
+- [Rosenfeld RM, et al; AAO-HNS. Clinical practice guideline: acute otitis externa. Otolaryngol Head Neck Surg. 2014. (Reaffirmed 2019 AAFP)](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599813517083)
 - [CBIP. Prise en charge de l'otite externe: bon usage des gouttes auriculaires. Folia. 2017.](https://www.cbip.be/fr/articles/query?number=F44F09B)
-- [Rosenfeld RM, et al; AAO-HNS. Clinical practice guideline: acute otitis externa. Otolaryngol Head Neck Surg. 2014.](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599813517083)
 - [Martin C; SFORL. Traitement des otites externes bactériennes non compliquées (OEBNC) par les gouttes auriculaires. 2009. (PDF)](https://www.orlfrance.org/wp-content/uploads/2017/06/ref_otite_externe.pdf)
 - [Bebear C, et al; SFORL. Utilisation des gouttes et poudres à usage auriculaire. 2001. (PDF)](https://www.sforl.org/wp-content/uploads/2020/02/RPC2_gouttes_auric_court.pdf)
 

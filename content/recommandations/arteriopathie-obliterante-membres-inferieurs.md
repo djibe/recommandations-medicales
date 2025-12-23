@@ -360,7 +360,7 @@ graph TB
 {{< scores/phq4 >}}
 
 {{% /modal %}}
-{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 
@@ -370,7 +370,7 @@ graph TB
 {{< clinique/risque-cardiovasculaire-diabete >}}
 
 {{% /modal %}}
-{{% modal title="Objectifs glycémiques selon SFD 2023" id="modal-hba1c"%}}
+{{% modal title="Objectifs glycémiques selon SFD 2025" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}
 

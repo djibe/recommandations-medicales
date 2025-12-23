@@ -181,7 +181,7 @@ Les autres imageries (scanner, IRM) relèvent du spécialiste (goitre plongeant,
 Examen en urgence dans un centre expert en cas de symptômes compressifs ou d'évolution rapide (suspicion de cancer anaplasique ou de [lymphome]({{% relref "lymphomes-non-hodgkiniens.md" %}})).
 {.alert .alert-warning}
 
-#### Cytoponction guidée par échographie d'un nodule thyroïdien
+#### Cytoponction échoguidée d'un nodule thyroïdien
 
 Indications à la cytoponction échoguidée (radiologue):
 

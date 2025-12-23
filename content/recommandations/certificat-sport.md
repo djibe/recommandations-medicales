@@ -246,7 +246,7 @@ graph TB
 - [FFESSM. Recommandations de bonnes pratiques suivi médical du plongeur. 01/04/2021.](https://medical.ffessm.fr/actualites/recommandations-de-bonnes-pratiques-suivi-medical-du-plongeur)
 
 {{%/sources%}}
-{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-risque-cv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-risque-cv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

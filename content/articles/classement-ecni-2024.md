@@ -19,7 +19,7 @@ datatable = true
 Les résultats du classement aux ECNi 2024 ont été publiés par le Centre national de gestion (CNG). Les rangs au concours des 662 étudiants en sixième année de médecine sont accessibles par nom ou par classement.
 {.lead}
 
-Le concours de médecine 2024 avec un effectif réduit, sous la forme des derniers ECNi, s'est déroulé pour la dernière fois en 2024, pour des redoublants, auditeurs et internes.
+Le concours de médecine 2024 avec un effectif réduit (redoublants, auditeurs et internes), sous la forme des derniers ECNi, s'est déroulé pour la dernière fois en 2024, pour des redoublants, auditeurs et internes.
 
 ## Tableau des résultats aux ECNi 2024
 

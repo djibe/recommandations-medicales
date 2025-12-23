@@ -315,6 +315,7 @@ D'autres traitements médicamenteux sont possibles: stimulants (amphétamine) ou
 - [Kazda L, et al. Attention deficit/hyperactivity disorder (ADHD) in children: more focus on care and support, less on diagnosis. BMJ. 2024.](https://www.bmj.com/content/384/bmj-2022-073448)
 - [Collège National Universitaire de Psychiatrie (CNUP). Principaux troubles du neurodéveloppement Item 67. Référentiel de Psychiatrie et Addictologie. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_4ed.pdf)
 - [ANSM. Méthylphénidate : données d'utilisation et de sécurité d'emploi en France. 2021.](https://ansm.sante.fr/actualites/methylphenidate-donnees-dutilisation-et-de-securite-demploi-en-france)
+- [Wolraich ML, et al. Clinical Practice Guideline for the Diagnosis, Evaluation, and Treatment of Attention-Deficit/Hyperactivity Disorder in Children and Adolescents. Pediatrics. 2019.](https://pmc.ncbi.nlm.nih.gov/articles/pmid/31570648/)
 - Prescrire
 - [NICE. Attention deficit hyperactivity disorder: diagnosis and management. NICE guideline. 2019.](https://www.nice.org.uk/guidance/ng87)
 

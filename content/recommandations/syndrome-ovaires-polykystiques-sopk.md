@@ -323,7 +323,7 @@ graph TB
 <!-- score de Rotterdam avec l'AMH, le CFA à > 20 FA dans un des ovaires ou le volume >10 ml. -->
 
 {{%/sources%}}
-{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

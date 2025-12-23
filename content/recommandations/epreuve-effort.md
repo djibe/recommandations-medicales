@@ -118,43 +118,40 @@ RCV
 
 #### Coronaropathie {.typography-headline-6 .mt-5}
 
-Épreuve d'effort recommandée
-: Probabilité pré-test de coronaropathie **Élevée**.
-: Probabilité pré-test de coronaropathie **Intermédiaire**.
-: Pour la prescription adaptée d'activité physique et réadaptation cardiaque.
-: Tous les 2 ans selon *HAS 2016*
+Épreuve d'effort recommandée uniquement pour la prescription adaptée d'activité physique et réadaptation cardiaque (autres tests plus indiqués pour les symptômes évocateurs selon SFC 2025).
 
-Épreuve d'effort doit être envisagée
-: Probabilité pré-test de coronaropathie **Faible** ET {{< modal-btn modal-rcv >}}risque cardiovasculaire (très) élevé{{< /modal-btn >}}.
-: Évaluation après revascularisation coronarienne (pour référence et suivi)
+Épreuve d'effort doit être envisagée:
 
-Épreuve d'effort peut être envisagée
-: Angor hospitalisé depuis 6 heures avec clinico-bio-ECG normaux.
+- Évaluation après revascularisation coronarienne (pour référence et suivi)
+
+Épreuve d'effort peut être envisagée:
+
+- Angor hospitalisé depuis 6 heures avec clinico-bio-ECG normaux
 
 </div>
 <div class="collapse" id="collapse-diabete">
 
 #### Diabète {.typography-headline-6 .mt-5}
 
-Épreuve d'effort recommandée
-: Angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire (répétée tous les 3-5 ans){{< /modal-btn >}}
-: Après score calcique si {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}}
+Épreuve d'effort recommandée:
+
+- Angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire (répétée tous les 3-5 ans){{< /modal-btn >}}
+- Après score calcique si {{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}}
 
 > -- *SFD 2021 CAD*
 
-Épreuve d'effort préconisée
-: Avant reprise d'activité physique intense chez le DT2 (*HAS 2024*).
+Épreuve d'effort préconisée:
+
+- Avant reprise d'activité physique intense chez le DT2 (*HAS 2024*)
 
 </div>
 <div class="collapse" id="collapse-hta">
 
 #### Hypertension artérielle {.typography-headline-6 .mt-5}
 
-Épreuve d'effort recommandée
-: Avec angor et ECG normal.
+Épreuve d'effort recommandée: avec angor et ECG normal
 
-Épreuve d'effort doit être envisagée
-: Pour préciser le pronostic ou prescrire un programme d'entraînement physique adapté.
+Épreuve d'effort doit être envisagée: pour préciser le pronostic ou prescrire un programme d'entraînement physique adapté.
 
 </div>
 <div class="collapse" id="collapse-htap">
@@ -383,7 +380,7 @@ Mots-clé: epreuve effort, epreuve d'effort
 {{< clinique/risque-coronaire-diabete >}}
 
 {{% /modal %}}
-{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

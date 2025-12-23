@@ -179,7 +179,7 @@ graph TB
 [Durand A, et al. Familial hypercholesterolaemia in UK primary care: a Clinical Practice Research Datalink study of an under-recognised condition. British Journal of General Practice. 2024.](https://bjgp.org/content/early/2024/02/06/BJGP.2023.0010%20)
 
 {{%/sources%}}
-{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

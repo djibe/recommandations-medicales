@@ -285,7 +285,7 @@ Mots-clé: cardiopathie ischémique, post infarctus
 - [Thygesen K, et al; ESC Scientific Document Group. Fourth universal definition of myocardial infarction (2018). Eur Heart J. 2019.](https://academic.oup.com/eurheartj/article/40/3/237/5079081)
 
 {{%/sources%}}
-{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 
@@ -310,7 +310,7 @@ Mots-clé: cardiopathie ischémique, post infarctus
 {{< scores/phq4 >}}
 
 {{% /modal %}}
-{{% modal title="Objectifs glycémiques selon SFD 2023" id="modal-hba1c"%}}
+{{% modal title="Objectifs glycémiques selon SFD 2025" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}
 

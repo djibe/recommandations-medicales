@@ -539,7 +539,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{< scores/mna >}}
 
 {{% /modal %}}
-{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 
@@ -554,7 +554,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{< clinique/osteoporose-risque-fracture >}}
 
 {{% /modal %}}
-{{% modal title="Objectifs glycémiques selon SFD 2023" id="modal-hba1c"%}}
+{{% modal title="Objectifs glycémiques selon SFD 2025" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}
 

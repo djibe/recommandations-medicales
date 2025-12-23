@@ -296,6 +296,7 @@ Traitement au choix si marche sans aide mais signes de gravité avec détériora
 {{%sources%}}
 
 - [van Doorn PA, et al. European Academy of Neurology/Peripheral Nerve Society Guideline on diagnosis and treatment of Guillain-Barré syndrome. Eur J Neurol. 2023.](https://onlinelibrary.wiley.com/doi/10.1111/ene.16073)
+- [Busl KM, et al. Guidelines for Neuroprognostication in Adults with Guillain-Barré Syndrome. Neurocrit Care. 2023.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10241707/)
 - [Filière de Santé Maladies Rares Neuromusculaires (FILNEMUS). Syndrome de Guillain Barré. Protocole national de diagnostic et de soins. 2021.](https://www.has-sante.fr/jcms/p_3299758/fr/syndrome-de-guillain-barre)
 - [Collège des Enseignants de Neurologie (CEN). Radiculalgies et syndromes canalaires - Neuropathies périphériques - Polyradiculonévrite aiguë inflammatoire (syndrome de Guillain-Barré). 2019.](https://www.cen-neurologie.fr/second-cycle/radiculalgies-et-syndromes-canalaires-neuropathies-peripheriques-polyradiculonevrite-aigue-inflammatoire-syndrome-de-guillain-barre)
 - [Collège des enseignants de médecine intensive réanimation (CEMIR). Paralysies extensives Polyradiculonévrite aiguë inflammatoire et myasthénie. (PDF)](https://www.ce-mir.fr/files/medias/documents/33.%20Paralysies%20extensives.pdf)

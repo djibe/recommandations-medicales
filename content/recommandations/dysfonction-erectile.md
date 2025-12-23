@@ -458,7 +458,7 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 {{< clinique/syndrome-metabolique >}}
 
 {{% /modal %}}
-{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 
