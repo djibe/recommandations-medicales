@@ -1,0 +1,64 @@
+<div class="card-body" id="score-vte-bleed">
+  <p>Évaluation du risque hémorragique sous anticoagulant recommandée par la <dfn><abbr title="Société Européenne de Cardiologie">ESC</abbr></dfn> 2019. Il doit être réévalué régulièrement chez les patients anticoagulés.</p>
+  <p>Il a été validé pour évaluer le risque hémorragique sous AVK et AOD après anticoagulation
+    initiale par HBPM.</p>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="vte-bleed-1" class="custom-control-input" value="1.5">
+    <label class="custom-control-label" for="vte-bleed-1">Cancer actif</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="vte-bleed-2" class="custom-control-input" value="2">
+    <label class="custom-control-label" for="vte-bleed-2">Homme avec hypertension artérielle non contrôlée</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="vte-bleed-3" class="custom-control-input" value="1">
+    <label class="custom-control-label" for="vte-bleed-3">Anémie</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="vte-bleed-4" class="custom-control-input" value="1.5">
+    <label class="custom-control-label" for="vte-bleed-4">Antécédent de saignement</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="vte-bleed-5" class="custom-control-input" value="1.5">
+    <label class="custom-control-label" for="vte-bleed-5">Âge ≥ 65 ans</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="vte-bleed-6" class="custom-control-input" value="1.5">
+    <label class="custom-control-label" for="vte-bleed-6">Insuffisance rénale</label>
+    <p class="typography-caption text-black-secondary">Clairance Cockroft 30 - 60 mL/min.</p>
+  </div>
+</div>
+<div class="alert bg-light d-flex mt-md-4">
+  <div class="d-flex flex-column align-items-center justify-content-evenly mr-2">
+    <p class="typography-overline score-output-title">VTE-BLEED</p>
+    <output class="score-output" id="vtebleedScore">0</output>
+  </div>
+  <p id="vtebleedText" class="lead m-auto">Risque hémorragique <strong>faible</strong></p>
+</div>
+<blockquote class="blockquote">
+  <p lang="en"><a href="https://publications.ersnet.org/content/erj/48/5/1369" rel="external nofollow noopener">Klok FA, Hösel V, Clemens A, et al. Prediction of bleeding events in patients with venous thromboembolism on stable anticoagulation treatment. Eur Respir J. 2016;48(5):1369-1376. doi:10.1183/13993003.00280-2016</a>
+  et <a href="https://www.thieme-connect.com/products/ejournals/abstract/10.1160/TH16-10-0810" rel="external nofollow noopener">Klok FA, Barco S, Konstantinides SV. External validation of the VTE-BLEED score for predicting major bleeding in stable anticoagulated patients with venous thromboembolism. Thromb Haemost. 2017;117(6):1164-1170. doi:10.1160/TH16-10-0810</p>
+</blockquote>
+{{ $script := `
+  // Score VTE-BLEED by djibe
+  window.addEventListener( 'load', event => {
+    const scoreVteBleed = document.getElementById('vtebleedScore')
+    const textVteBleed = document.getElementById('vtebleedText');
+    var vteBleedElems = document.querySelectorAll('#score-vte-bleed input');
+    vteBleedElems.forEach((elem) => { elem.addEventListener('change', () => calcVteBleed() ) })
+    const calcVteBleed = () => {
+      let score = 0
+      vteBleedElems.forEach(bledElem => {
+        if (bledElem.checked) {
+          score += parseInt(bledElem.value, 10)
+          scoreVteBleed.innerHTML = score
+          if (score < 2) {
+            textVteBleed.innerHTML = 'Risque hémorragique <strong>faible</strong>'
+          } else if (score >= 2) {
+            textVteBleed.innerHTML = 'Risque hémorragique <strong>élevé</strong>'
+          }
+        }
+      })
+    }
+  })` }}
+<script type="module">{{ $script | safeJS }}</script>
