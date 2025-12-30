@@ -124,7 +124,7 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{< scores/nyha >}}
 
 {{% /modal %}}
-{{% modal title="Objectifs glycémiques selon SFD 2023" id="modal-hba1c"%}}
+{{% modal title="Objectifs glycémiques selon SFD 2025" id="modal-hba1c"%}}
 
 {{< clinique/objectifs-hba1c >}}
 
@@ -139,7 +139,7 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{< scores/aomi-prevalent >}}
 
 {{% /modal %}}
-{{% modal title="Risque cardiovasculaire selon ESC 2021" id="modal-rcv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

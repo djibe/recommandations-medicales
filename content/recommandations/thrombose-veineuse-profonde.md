@@ -41,8 +41,8 @@ Recommandations pour la prise en charge d'une suspicion de thrombose veineuse pr
 {{%collapse "Définition" %}}
 
 Thrombose veineuse profonde
-: Occlusion d'une veine de gros calibre par un thrombus sanguin atteignant surtout les membres inférieurs.  
-Le risque est augmenté par l'insuffisance veineuse et une maladie thrombogène.
+: Occlusion d'une veine de gros calibre par un thrombus sanguin atteignant surtout les membres inférieurs. On parle de TVP proximale (veine poplitée, fémorale, iliaque ou cave) et de TVP distale (veines jambières: tibiale postérieure et fibulaire, veines surales: veine soléaire et gastrocnémienne).
+: Le risque est augmenté par l'insuffisance veineuse et une maladie thrombogène.
 
 ### Abréviations
 

@@ -25,8 +25,9 @@ Ainsi, sur une consultation à 30 €, la solution de paiement *Smile & Pay* Pre
 
 {{< table title="Solutions de terminaux de paiement électroniques indépendantes. Dr JB Fron" >}}
 | Solution | Commission fixe | Variable (% HT)      | Terminal (€ HT) | Site |
-|----------|-----------------|---------------------:|---------------|------|
-| myPOS    |  0 | 1,69 | Unique (29 à 249) | [Site](https://www.mypos.com/fr-fr/pricing-and-fees) |
+|----------|-----------------|---------------------:|-----------------|------|
+| Flatpay | 0 | 1,29 | Gratuit | [Site](https://www.flatpay.com/fr/pricing) |
+| myPOS | 0 | 1,69 | Unique (29 à 249) | [Site](https://www.mypos.com/fr-fr/pricing-and-fees) |
 | Revolut Reader | 2c | 0,80 | 49€ + compte pro 7€/m ? | [Site](https://www.revolut.com/fr-FR/business/revolut-reader/) |
 | Smile & Pay | 0 | 1,55 | Unique (0 à 200 €) | [Site](https://www.smileandpay.com) |
 | Smile & Pay Premium | 5c | 0,49 | Unique (0 à 200 €) | [Site](https://www.smileandpay.com) |
@@ -35,6 +36,6 @@ Ainsi, sur une consultation à 30 €, la solution de paiement *Smile & Pay* Pre
 | Stancer | 7c | 0,70 | Gratuit ou 15€/mois<br>si < 150 transactions | [Site](https://www.stancer.com/fr/) |
 | SumUp | 0 | 1,75 | Unique (0 à 139) | [Site](https://www.sumup.com/fr-fr/) |
 | SumUp One | 19 €/mois | 0,79 | Unique (0 à 139) | [Site](https://www.sumup.com/fr-fr/) |
-| yavin | ?  | ?     | Sur demande | [Site](https://yavin.com/) |
+| yavin | ? | ? | Sur demande | [Site](https://yavin.com/) |
 | Zttle | 0 | 1,75 | Unique (29 €) | [Site](https://www.zettle.com/fr/paiements/lecteur-carte-bancaire) |
 {{< /table >}}

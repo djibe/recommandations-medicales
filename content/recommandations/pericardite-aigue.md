@@ -213,6 +213,6 @@ graph TB
 
 ### Bibliographie pour en savoir plus
 
-[Filière de santé des maladies auto-immunes et auto-inflammatoires rares (FAI²R), Filière de santé des maladies cardiaques héréditaires ou rares (Cardiogen). Péricardites récidivantes. 2025.](https://www.has-sante.fr/jcms/p_3777808/fr/pericardites-recidivantes)
+- [Filière de santé des maladies auto-immunes et auto-inflammatoires rares (FAI²R), Filière de santé des maladies cardiaques héréditaires ou rares (Cardiogen). Péricardites récidivantes. 2025.](https://www.has-sante.fr/jcms/p_3777808/fr/pericardites-recidivantes)
 
 {{%/sources%}}

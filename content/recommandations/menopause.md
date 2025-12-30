@@ -21,7 +21,7 @@ image = true
 imageSrc = "Illustration de la ménopause par Freepik"
 chart = true
 flowchart = true
-todo = "écriture SEO, KEY patiente | règles d'hygiène, Chart J1-J31, lire sources, relecture gemvi-secretariat@gemvi.org, Apex rangebar"
+todo = "écriture SEO, KEY patiente | réécrire le diagnostic; règles d'hygiène, Chart J1-J31, lire sources, relecture gemvi-secretariat@gemvi.org, Apex rangebar"
 +++
 
 {{%article-summary%}}
@@ -577,8 +577,6 @@ Le THM utilisé en France ne modifie pas la survenue des pathologies suivantes:
   Réduit le risque d'[infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}) si débuté avant 60 ans ou ménopause de moins de 10 ans.
 - Cancers  
   Réduit le risque des cancers: [colorectal]({{% relref "cancer-colorectal.md" %}}), du [pancréas]({{% relref "cancer-pancreas.md" %}}), de l'œsophage, de l'[estomac]({{% relref "cancer-estomac.md" %}}) et du [foie]({{% relref "carcinome-hepatocellulaire.md" %}})
-- Démence  
-  Réduirait le risque de 29 à 44 % mais faible niveau de preuve ([étude divergente](https://www.bmj.com/content/381/bmj-2022-072770)) surtout en cas de [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}}).
 - Survie  
   La mortalité avant 60 ans est réduite par un effet cardiovasculaire très protecteur.
 

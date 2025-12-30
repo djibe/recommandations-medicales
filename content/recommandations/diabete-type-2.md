@@ -19,7 +19,7 @@ sctid = "44054006"
 icd10 = ["E11", "E11.9", "E14", "O24.1"]
 image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
-todo = "hypoglycémies HAS25p58; urgences hypergly HAS25p60; fragilité HAS25p65; alimentation HAS25p26; dysautonomie HAS25p44; pied HAS25p47 | maisons sport-santé, WATCH-DM ESC2023 src480; EASD 2021 Table 2.3 et 2.4, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit, indications fructosamine, https://www.ameli.fr/sites/default/files/Documents/Memo-diabete-complication-podologue.PDF | https://diabetesjournals.org/care/issue/47/Supplement_1"
+todo = "hypoglycémies HAS25p58; indications diabeto, permis conduire, urgences hypergly HAS25p60; fragilité HAS25p65; alimentation HAS25p26; dysautonomie HAS25p44; pied HAS25p47 | maisons sport-santé, WATCH-DM ESC2023 src480; EASD 2021 Table 2.3 et 2.4, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit, indications fructosamine, https://www.ameli.fr/sites/default/files/Documents/Memo-diabete-complication-podologue.PDF | https://diabetesjournals.org/care/issue/47/Supplement_1"
 +++
 
 {{%article-summary%}}

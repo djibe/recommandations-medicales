@@ -548,7 +548,15 @@ La décroissance du {{< modal-btn modal-ttt-csi >}}CSI{{< /modal-btn >}} peut se
 Éviter de conserver une dose élevée de CSI inhalé chez un patient durablement contrôlé en raison des effets indésirables.
 {.alert .alert-info}
 
-#### Pour en savoir plus: Autres traitements de l'asthme
+### Technique d'inhalation des bronchodilatateurs
+
+{{< card-link-external title="Comprendre ma maladie & bien utiliser mon dispositif d'inhalation (PDF)" url="https://www.ameli.fr/sites/default/files/Documents/5358/document/asthme-bien-utiliser-dispositif-inhalation_assurance-maladie.pdf" subtitle="par Ameli" >}}
+
+{{< card-link-external title="Vidéos pour la maîtrise des inhalateurs" url="https://splf.fr/videos-zephir/" subtitle="par la SPLF" >}}
+
+{{< card-link-external title="Asthma education videos" url="https://ginasthma.org/asthma-education-videos/" subtitle="par le GINA" >}}
+
+### Pour en savoir plus: Autres traitements de l'asthme
 
 La prescription des biothérapies pour asthme sévère dépendent exclusivement du pneumologue:
 
@@ -560,15 +568,6 @@ La prescription des biothérapies pour asthme sévère dépendent exclusivement 
   Mépolizumab SC, reslizumab IV, benralizumab SC.
 - Anticorps anti-IL4R {{%class%}}(dupilumab SC possible chez le +6 ans){{%/class%}}
 - Anticorps anti-TSLP (tezepelumab non commercialisé)
-
-{{% /collapse %}}
-{{%collapse "Techniques d'inhalation des bronchodilatateurs" %}}
-
-{{< card-link-external title="Comprendre ma maladie & bien utiliser mon dispositif d'inhalation (PDF)" url="https://www.ameli.fr/sites/default/files/Documents/5358/document/asthme-bien-utiliser-dispositif-inhalation_assurance-maladie.pdf" subtitle="par Ameli" >}}
-
-{{< card-link-external title="Vidéos pour la maîtrise des inhalateurs" url="https://splf.fr/videos-zephir/" subtitle="par la SPLF" >}}
-
-{{< card-link-external title="Asthma education videos" url="https://ginasthma.org/asthma-education-videos/" subtitle="par le GINA" >}}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'asthme" "show" %}}
