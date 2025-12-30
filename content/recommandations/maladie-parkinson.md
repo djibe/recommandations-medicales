@@ -239,6 +239,8 @@ Ces éléments reprennent les critères diagnostiques *Queen Square Brain Bank* 
   [MDS-UPDRS (PDF)](https://mds.movementdisorders.org/UserFiles/file/MDS_UPDRS_French_Offical_Working_Document.pdf), Berg Balance Scale, Timed Up and Go, test de marche de 6 minutes, test des 10 mètres de marche.
 - Évaluation gériatrique standardisée
 
+{{< clinique/tremblement-essentiel-parkinson >}}
+
 #### Le syndrome malin des neuroleptiques
 
 > [!WARNING]
