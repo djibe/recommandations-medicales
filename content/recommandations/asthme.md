@@ -591,7 +591,7 @@ graph TB
 
 - [Drummond D, et al. Recommandations de la SP2A (Société pédiatrique de pneumologie et d'allergologie) pour la prise en charge de l'asthme de l'enfant de 6 à 12 ans - Prise en charge thérapeutique et adaptation du traitement de fond. Rev Mal Respir. 2024.](https://www.sciencedirect.com/science/article/pii/S0761842524002444)
 - [GINA. Global strategy for the asthma management and prevention. 2024.](https://ginasthma.org/archived-reports/)
-- [Collège des Enseignants de Pneumologie (CEP). Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_188_ASTHME_RHINITE_2023.pdf)
+- [Collège des Enseignants de Pneumologie (CEP). Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2023.](https://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/)
 - Prescrire Redaction. Asthme. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Gaillard EA, et al. European Respiratory Society clinical practice guidelines for the diagnosis of asthma in children aged 5-16 years. Eur Respir J. 2021.](https://erj.ersjournals.com/content/58/5/2004173)
 - [Collège de la Médecine Générale (CMG). Asthme de l'adulte et de l'enfant de plus de 12 ans : prévenir les exacerbations. 2021. (PDF)](https://cmg.fr/wp-content/uploads/2021/05/Asthme-de-ladulte-et-de-lenfant-2021.pdf)

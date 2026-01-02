@@ -299,7 +299,7 @@ graph TB
 - [INCa, SPLF. Traitements de 1^re^ ligne du CBNPC métastatique sans addiction oncogénique. 2024.](https://www.cancer.fr/catalogue-des-publications/traitements-de-1re-ligne-du-cbnpc-metastatique-sans-addiction-oncogenique-synthese)
 - [NICE. Lung cancer: diagnosis and management. NICE guideline. 2024.](https://www.nice.org.uk/guidance/NG122)
 - [Wolf AMD, et al. Screening for lung cancer: 2023 guideline update from the American Cancer Society. CA Cancer J Clin. 2023.](https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21811)
-- [Collège des Enseignants de Pneumologie (CEP). Tumeurs du Poumon, primitives et secondaires. Item 309. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_309_CANCER_2023.pdf)
+- [Collège des Enseignants de Pneumologie (CEP). Tumeurs du Poumon, primitives et secondaires. Item 309. 2023.](https://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/)
 - {{< references/beh-cancers-incidence >}}
 - {{< references/inca-cancers-mortalite >}}
 - [HAS. Dépistage du cancer bronchopulmonaire par scanner thoracique faible dose sans injection : actualisation de l'avis de 2016. 2022.](https://www.has-sante.fr/jcms/p_3310940/fr/depistage-du-cancer-bronchopulmonaire-par-scanner-thoracique-faible-dose-sans-injection-actualisation-de-l-avis-de-2016)

@@ -560,7 +560,7 @@ graph TB
 ### Bibliographie en attente
 
 - [Barateau L, et al. Guidelines for the assessment and management of residual sleepiness in obstructive apnea-hypopnea syndrome: Endorsed by the French Sleep Research and Medicine Society (SFRMS) and the French Speaking Society of Respiratory Diseases (SPLF). Respir Med Res. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2590041224000217)
-- [Collège des Enseignants de Pneumologie (CEP). Troubles du sommeil. Item 110. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_110_TROUBLES-DU-SOMMEIL_2023.pdf)
+- [Collège des Enseignants de Pneumologie (CEP). Troubles du sommeil. Item 110. 2023.](https://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Troubles du sommeil - SAOS. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/troubles-du-sommeil-saos)
 - [Kapur VK, et al. Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea: An American Academy of Sleep Medicine Clinical Practice Guideline. J Clin Sleep Med. 2017.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/)
 

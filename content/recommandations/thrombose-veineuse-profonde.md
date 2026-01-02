@@ -332,7 +332,7 @@ graph TB
 ### Bibliographie en attente
 
 - [Guntupalli SR, et al. Prevention of venous thromboembolism in patients with cancer. BMJ. 2023.](https://www.bmj.com/content/381/bmj-2022-072715)
-- [Collège des Enseignants de Pneumologie (CEP). Embolie pulmonaire et thrombose veineuse profonde. Item 226. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_226_MALADIE_THROMBO-EMBOLIQUE_VEINEUSE_2023.pdf)
+- [Collège des Enseignants de Pneumologie (CEP). Embolie pulmonaire et thrombose veineuse profonde. Item 226. 2023.](https://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/)
 - [Mahé I, et al; SPLF. Traitement de la maladie veineuse thromboembolique au cours du cancer. Mise à jour mars 2021. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/traitment-maladie-veineuse-maj2021.pdf)
 - [Albaladejo, et al. Commentaires et propositions du Groupe d'Intérêt en Hémostase Périopératoire (GIHP) sur les recommandations de la Société Européenne d'Anesthésie : European Guidelines on perioperative venous thromboembolism prophylaxis. 2019. (PDF)](https://www.portailvasculaire.fr/sites/default/files/docs/2019_gihp_commentaires_2018_esa_vte_guidelines_mtev_prevention_peri-op.pdf)
 - [Afshari A, et al; ESA VTE Guidelines Task Force. European Guidelines on perioperative venous thromboembolism prophylaxis. Eur Jour ANAES. 2018.](https://journals.lww.com/ejanaesthesiology/fulltext/2018/02000/european_guidelines_on_perioperative_venous.2.aspx)

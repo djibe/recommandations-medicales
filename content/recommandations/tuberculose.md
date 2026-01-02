@@ -233,7 +233,7 @@ L'IDR est en faveur de l'absence de primo-infection si elle est < 5 mm (10 mm en
 ### Bibliographie en attente
 
 - [Kim S, et al. Management of Latent Tuberculosis Infection. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2800774)
-- [Collège des Enseignants de Pneumologie (CEP). Tuberculose. Item 159. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_159_TUBERCULOSE_2023.pdf)
+- [Collège des Enseignants de Pneumologie (CEP). Tuberculose. Item 159. 2023.](https://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/)
 - [WHO consolidated guidelines on tuberculosis. Module 4: treatment - drug-resistant tuberculosis treatment, 2022 update.](https://www.who.int/publications/i/item/9789240063129)
 - [CMIT. Tuberculose de l'adulte et de l'enfant. Item 159. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-159.pdf)
 - [CMIT. Tuberculose de l'adulte et de l'enfant. Item 159. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-159-web.pdf)

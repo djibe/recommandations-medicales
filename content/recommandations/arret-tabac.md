@@ -459,7 +459,7 @@ graph TB
 - [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [Lindson N, et al. Electronic cigarettes for smoking cessation. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010216.pub9/full/fr)
 - [Theodoulou A, et al. Different doses, durations and modes of delivery of nicotine replacement therapy for smoking cessation. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013308.pub2/full/fr)
-- [Collège des Enseignants de Pneumologie (CEP). Addiction au tabac. Item 75. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_75_TABAC_2023.pdf)
+- [Collège des Enseignants de Pneumologie (CEP). Addiction au tabac. Item 75. 2023.](https://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/)
 - Prescrire Redaction. Consommation et arrêt du tabac. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Santé Publique France. Tabac.](https://www.santepubliquefrance.fr/determinants-de-sante/tabac)
 - [Haut Conseil de la santé publique (HCSP). Avis relatif aux bénéfices-risques de la cigarette électronique. 2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1138)
