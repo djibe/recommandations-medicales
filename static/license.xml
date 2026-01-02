@@ -1,0 +1,7 @@
+<rsl xmlns="https://rslstandard.org/rsl">
+  <content url="/">
+    <license>
+      <prohibits type="usage">ai-all</prohibits>
+    </license>
+  </content>
+</rsl>
