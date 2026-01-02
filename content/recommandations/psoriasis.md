@@ -276,7 +276,8 @@ graph TB
 
 ### Bibliographie en attente
 
-[Collège Français des Enseignants en Rhumatologie (COFER). Psoriasis. Item 117 UE 5. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-6-0.php)
+- [Masson Regnault M, et al. French guidelines on systemic treatments for moderate-to-severe psoriasis in adults: Update 2025. J Eur Acad Dermatol Venereol. 2025.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.70263)
+- [Collège Français des Enseignants en Rhumatologie (COFER). Psoriasis. Item 117 UE 5. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-6-0.php)
 
 {{%/sources%}}
 {{% modal title="Dermocorticoïdes disponibles" id="modal-dc" size="lg" %}}

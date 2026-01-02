@@ -23,6 +23,56 @@ datatable = false
 chart = true
 +++
 
+Facteur de protection solaire (FPS) ou indice de protection (IP)
+
+Gagnants 2024: A-Derma, Bariésun et Bioderma.
+
+Pour respecter la réglementation SPF 50+, la valeur minimale in vitro de l'indice de protection doit être d'au moins 60, et 50 pour le SPF 50.
+
+| Marque | Crème | FPS mesuré | Test |
+|--|--|--|--|
+| A-Derma | ==**Protect peaux fragiles sèches crème SPF 50+**== | 62 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/les-produits-solaires-a-derma-des-produits-performants-au-service-de-toute-la-famille-1069/) |
+| A-Derma | Protect AC peaux grasses à tendance acnéique fluide matifiant très haute protection SPF 50+ | 62 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/les-produits-solaires-a-derma-des-produits-performants-au-service-de-toute-la-famille-1069/) |
+| Acorelle | Crème solaire Acorelle nature sun SPF 50+ bébé | 34 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/on-tord-le-cou-a-la-creme-solaire-acorelle-spf-50-bebe-1121/) |
+| Alphanova | Sun crème teintée très haute protection SPF 50+ | 33 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/alphanova-sun-50-en-realite-l-omega-de-la-protection-solaire-1114/) |
+| Anthelios | UV-Mune 400 dermo-pediatrics | 78 | [Test à lire](https://www.regard-sur-les-cosmetiques.fr/nos-regards/anthelios-uvmune-400-dermo-pediatrics-le-produit-solaire-pour-bebes-a-l-ombre-3337/) |
+| Anthelios | UVMUNE 400 la crème solaire teintée | 68 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/anthelios-uvmune-400-la-creme-solaire-teintee-tres-efficace-2942/) |
+| Avène | Crème minérale très haute protection Eau thermale Avène SPF 50+ | 43 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/creme-minerale-avene-pas-a-la-hauteur-mais-le-top-du-mineral-quand-meme-1105/) |
+| Avène | Crème très haute protection peaux sensibles sèches SPF 50+ | 70 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/en-vacances-c-est-jamais-sans-mon-produit-solaire-avene-1061/) |
+| Avène | Lait très haute protection SPF 50+ | 64 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/en-vacances-c-est-jamais-sans-mon-produit-solaire-avene-1061/) |
+| Bioregena | Crème solaire spécial bébé SPF 50+ | 35 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/bioregena-special-bebe-50-pour-personne-et-surtout-pas-pour-les-bebes-1044/) |
+| Bioderma | ==**Cicabio crème+ SPF 50+**== | 70 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/soin-ultra-reparateur-soin-ultra-performant-c-est-cicabio-dont-on-parle-2929/) |
+| Bioderma | Cicabio SPF 50+ | 56 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/bioderma-enfin-des-sticks-zones-sensibles-spf-50-efficaces-1342/) |
+| Bioderma | Lait famille Photoderm 50+ | 30 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/photoderm-lait-ultra-spf-50-bioderma-ultra-decevant-2259/) |
+| Bioderma | Photoderm lait ultra peaux sensibles | 35 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/photoderm-lait-ultra-spf-50-bioderma-ultra-decevant-2259/) |
+| Bioderma | Photoderm Laser crème très haute protection 50+ | 60 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/solaires-bioderma-c-est-justement-parce-que-ce-n-est-pas-bio-que-c-est-bien-1076/) |
+| Bioderma | Photoderm Max crème très haute protection 50+ | 62 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/solaires-bioderma-c-est-justement-parce-que-ce-n-est-pas-bio-que-c-est-bien-1076/) |
+| Bioderma | Photoderm Max Aquafluide très haute protection 50+ | 51 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/solaires-bioderma-c-est-justement-parce-que-ce-n-est-pas-bio-que-c-est-bien-1076/) |
+| Bioderma | Photoderm max SPF 50+ stick large SPF 50+ | 64 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/bioderma-enfin-des-sticks-zones-sensibles-spf-50-efficaces-1342/) |
+| Dermatherm | Babysun SPF 50+ crème solaire très haute protection visage & corps | 32 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/dermatherm-babysun-spf-50-le-produit-solaire-qui-fait-pomper-1127/) |
+| Elizabeth Arden | ~~Eight Hour cream Sun Defense for Face SPF 50 PA~~ | 75 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/eight-hour-spf-50-ce-sera-sans-soie-pour-moi-1062/) |
+| Esthederm | Adaptasun Mer et tropiques lait protecteur corps  (soleil fort) | 30 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/adaptasun-une-bizarrerie-dans-l-univers-des-produits-solaires-1077/) |
+| Eucerin | Sun LEB gel-crème SPF 50+ | 54 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/la-protection-solaire-eucerin-sun-leb-pas-si-belle-que-ca-2914/) |
+| Gravier | Crème solaire très haute protection SPF 50+ UVA 20 Cosmo naturel Gravier | 33 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/solaire-cosmo-naturel-bebe-bio-pas-aussi-efficace-que-prevu-1115/) |
+| Garnier | Ambre solaire super UV stick 50+ | 53 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/ambre-solaire-son-nouveau-stick-qui-ne-nous-emballe-pas/) |
+| L'Occitane | Reine blanche bouclier immaculé SPF 50 | 70 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/l-occitane-un-bouclier-immacule-efficace-contre-les-uv-1099/) |
+| Lovea | Kids spray hydratant SPF 50+ | 34 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/lovea-kids-spray-hydratant-50-un-grand-coup-de-balai-2979/) |
+| Mary Cohr | Crème visage nouvelle jeunesse anti-âge solaire 50+ | 72 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/science-uv-50-mary-cohr-une-protection-solaire-de-luxe-qui-assure-1038/) |
+| Naturado en Provence | Ecran solaire visage & corps SPF 50+ | 4 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/naturado-solaire-spf-50-on-lui-tourne-le-dos-1098/) |
+| Phyt's | Fluide protecteur Haute protection anti-âge SPF 50 | 10 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/couvrez-vous-phyt-s-ne-vous-protege-pas-suffisamment-1065/) |
+| Phyt's | GamARde lait SPF 50 haute protection | 10 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/gamarde-bebe-spf-50-et-fluide-anti-age-spf-50-phyt-s-meme-combat-meme-inefficacite-1066/) |
+| Sarmance | Crème solaire Sarmance vignes mont-blanc 50+ | 32 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/creme-solaire-spf-50-sarmance-une-creme-solaire-d-amateurs-1049/) |
+| Simone Mahler | Crème solaire visage anti-âge SPF 50 | 65 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/solaire-simone-mahler-une-bonne-creme-qui-en-a-l-air-et-la-chanson-1073/) |
+| Solei | Boots Sun care duo | 32 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/solei-boots-spf-50-un-solaire-desesperement-terre-a-terre-1129/) |
+| Sun | Ceutic 50+ | 60 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/sun-ceutic-50-le-produit-solaire-qui-s-applique-au-son-de-la-cornemuse-1037/) |
+| Thalgo | Crème solaire âge défense | 46 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/thalgo-spf-30-la-creme-solaire-qui-ne-compte-pas-que-sur-la-mer-pour-nous-proteger-1094/) |
+| Uriage | ==**Bariésun 100 fluide protecteur extrême SPF 50+**== | 77 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/bariesun-100-chapeau-bas-pour-ce-solaire-50-irreprochable-1489/) |
+| Vichy | Capital Soleil matifiant 3 en 1 SPF 50+ | 45 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/vichy-capital-soleil-3-en-1-le-soin-multi-usage-plus-matifiant-que-photoprotecteur-2935/) |
+| Vichy | Idéal capital soleil lait douceur enfants protection UV renforcée SPF 50 | 50 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/lait-douceur-enfants-vichy-spf-50-on-le-reverait-sans-alcool-du-tout-1116/) |
+
+> Mesures in vitro <https://www.regard-sur-les-cosmetiques.fr/nos-regards/bilan-solaire-2024-la-roulette-russe-2962/>
+> <https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/protection-solaire-les-conseils-pour-bien-choisir-son-produit>
+
 <!-- Formulaire de saisie -->
 <form id="score-form">
   <!-- Sexe -->

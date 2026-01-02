@@ -154,13 +154,11 @@ Lire le *Calendrier vaccinal* page 75.
 7. [Rougeole]({{% relref "rougeole.md" %}})
 8. Oreillons
 9. Rubéole
-10. Né depuis juillet 2023: méningocoque ACWY (depuis 2025, anciennement méningo C)  
-  Pas de rattrapage au-delà de 12 mois (HAS 2025: 35 mois).
-11. Pneumocoque
+10. Né depuis 2023: méningocoques ACWY (anciennement méningo C)
+11. Né depuis 2023: méningocoque B
+12. Pneumocoque
 
-> -- *[Décret n° 2024-694 du 5 juillet 2024](https://www.legifrance.gouv.fr/download/file/hhS68ECmVhDgElkqhy2ETAVq-2Yhrqjdh8OV3--WPN0=/JOE_TEXTE)* et *[Loi du 30 décembre 2017](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171171)*
-
-Depuis le 1^er^ janvier **2025**, vaccination obligatoire des nourrissons contre les méningocoques B et ACWY.
+> -- *PLFSS 2025*, *[Décret n° 2024-694 du 5 juillet 2024](https://www.legifrance.gouv.fr/download/file/hhS68ECmVhDgElkqhy2ETAVq-2Yhrqjdh8OV3--WPN0=/JOE_TEXTE)* et *[Loi du 30 décembre 2017](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171171)*
 
 > [!WARNING]
 > Si l'infraction vaccinale vient du médecin de l'enfant, il peut être poursuivi par le *CDOM*, l'*ARS* voire la [miviludes](https://www.miviludes.interieur.gouv.fr).
