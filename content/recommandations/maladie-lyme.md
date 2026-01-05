@@ -270,7 +270,7 @@ Mesures de prévention de la maladie de Lyme:
   - Contre-indiqués si grossesse ou avant 2 ans
   - DEET cutané ou IR3535
   - Appliquer sur les zones découvertes, respecter les consignes d'usage
-  - Ne pas appliquer en même temps que la crème solaire
+  - Ne pas appliquer en même temps que la [crème solaire]({{% relref "cremes-solaires-evaluees.md" %}})
 - Inspection minutieuse
   - À chaque retour de zone d'exposition
   - Zones chaudes et humides: cuir chevelu, oreilles, nombril, organes génitaux

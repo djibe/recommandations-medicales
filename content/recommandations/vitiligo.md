@@ -113,7 +113,7 @@ Recommandations concernant les mesures générales de prise en charge du vitilig
 
 - Surveillance dermatologique spécialisée (et photos) tous les **3-6 mois**
 - Limiter les frottements
-- Crème solaire IP50 sur les zones atteintes
+- [Crème solaire IP50]({{% relref "cremes-solaires-evaluees.md" %}}) sur les zones atteintes
 - Soutien psychologique: [parcours Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}) ou autre
 - Information du patient sur le vitiligo: [Dermato-Info](https://dermato-info.fr/fr/les-maladies-de-la-peau/vitiligo-quand-la-peau-perd-son-pigment)
 - Association de patients: [Association Française du Vitiligo](https://www.afvitiligo.com/comprendre-le-vitiligo/les-traitements-du-vitiligo/)

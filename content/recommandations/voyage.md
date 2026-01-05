@@ -74,7 +74,7 @@ Ordonnance rédigée en DCI et contenu selon les conditions de voyage. Transport
   - Crème hydratante pour brûlure
   - Pansements stériles et sutures adhésives
   - Antiseptique cutané
-  - Crème solaire 50+
+  - [Crème solaire SPF 50]({{% relref "cremes-solaires-evaluees.md" %}})
   - Mi-bas de contention
   - SHA
   - Thermomètre incassable

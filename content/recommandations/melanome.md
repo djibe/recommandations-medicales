@@ -26,7 +26,7 @@ flowchart = true
   - Aucune exposition aux UV avant 3 ans
   - Ne pas s'exposer de 12 à 16 heures (10 à 14h en Outre-mer)
   - Se couvrir: habits longs et amples, un chapeau à bords larges et des lunettes de soleil avec filtre anti-UV
-  - Protéger les parties découvertes du corps avec de la crème solaire indice SPF50, à renouveler toutes les 2 heures
+  - Protéger les parties découvertes du corps avec de la crème solaire indice SPF 50, à renouveler toutes les 2 heures
 - Personnes à risque de mélanome: auto-examen cutané tous les 3 mois et consultation annuelle du dermatologue
 - Une lésion mélanocytaire est suspecte si elle remplit au moins 2 *critères ABCDE*
 - Un nævus est suspect s'il est différent des autres
@@ -228,7 +228,7 @@ Mesures de prévention du mélanome pour la population générale:
   - Ne pas exposer les enfants de moins de 3 ans aux rayons UV
   - Rechercher l'ombre au maximum et ne pas s'exposer aux heures les plus chaudes (de 10 à 14 heures en Outre-mer et de 12 à 16 heures en métropole)
   - Se couvrir: porter des habits clairs, couvrants et amples, un chapeau à bords larges et des lunettes de soleil avec filtre anti-UV (CE3 ou CE4)
-  - Protéger les parties découvertes du corps avec de la crème solaire indice SPF50 (appliquer 2 mg/cm²), à renouveler toutes les 2 heures
+  - Protéger les parties découvertes du corps avec de la [crème solaire indice SPF50]({{% relref "cremes-solaires-evaluees.md" %}}) (appliquer 2 mg/cm²), à renouveler toutes les 2 heures
 - Information sur les risques liés à l'exposition solaire ou artificielle
 - Photoprotection cutanée  
   Il n'est pas prouvé que la crème solaire réduise le risque de mélanome.
