@@ -149,7 +149,7 @@ L'inscription à une *compétition* nécessite la présente d'une license sporti
 - Contre-indications
   - Cardiomyopathie, myocardite (temporaire)
   - Sport de combat. Myopie forte, organe pair unique. Avis ophtalmo.
-  - Plongée. Antécédent de pneumothorax, troubles ORL
+  - Plongée. Antécédent de [pneumothorax]({{% relref "pneumothorax.md" %}}), troubles ORL
 - Éducation (voir *Information des sportifs*)
 - Enquête familiale  
   Indications: mort subite chez ≤ 45 ans ou cause héréditaire avérée.

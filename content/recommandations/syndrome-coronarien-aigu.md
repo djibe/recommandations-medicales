@@ -123,7 +123,7 @@ Autres diagnostics à rechercher devant un épisode de douleurs thoraciques:
   - [Accident vasculaire cérébral]({{% relref "accident-vasculaire-cerebral.md" %}})
   - [Embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})
 - Accidents extra-cardiaques
-  - Pneumothorax, pleurésie
+  - [Pneumothorax]({{% relref "pneumothorax.md" %}}), pleurésie
   - [Pneumonie]({{% relref "pneumonie-aigue-communautaire.md" %}})
   - Anaphylaxie
   - Septicémie

@@ -272,7 +272,8 @@ Posologies chez l'enfant, traitement de 3 jours:
   - Fracture avec plâtre fermé (avis médical souhaitable)
   - Traumatisme ou chirurgie cranio-faciale ou oculaire
   - Dyspnée de repos, maladie respiratoire chronique sévère
-  - Pneumothorax non résorbé datant de moins de 2-3 semaines
+  - [Pneumothorax]({{% relref "pneumothorax.md" %}}) non résorbé datant de moins de 2-3 semaines  
+    ERS, SFMU: dans les 7-14 jours suivant le diagnostic radiologique de pneumothorax spontané primaire guéri.
   - Drépanocytose
   - Trouble psychotique (sauf totalement maîtrisé)
 
