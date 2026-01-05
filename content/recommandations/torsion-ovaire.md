@@ -117,7 +117,7 @@ Les récidives de torsion d'annexe sont faibles (2 à 12 %).
 
 Placement spécifique des trocarts.
 
-Détorsion et préservation des annexes quelque soit leur apparence (sauf ovaire nécrosé déliquescent) et la durée de l'ischémie.
+Détorsion et préservation des annexes quel que soit leur apparence (sauf ovaire nécrosé déliquescent) et la durée de l'ischémie.
 
 En cas de kyste, l'intervention concomitante est possible. Il peut être drainé s'il est volumineux mais une échographie de contrôle est recommandée à 6-12 semaines.
 

@@ -18,7 +18,7 @@ sctid = "42942008"
 icd10 = ["T08.X0"]
 image = true
 imageSrc = "Fracture vertébrale << bénigne >> ostéoporotique de T12 à la radiographie de profil chez une femme de 80 ans. Cas d'Usman Bashir, Radiopaedia.org, rID: 19198"
-todo = "relecture"
+todo = "relecture demandée thomas.funck-brentano@aphp"
 flowchart = true
 +++
 

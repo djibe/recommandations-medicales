@@ -206,7 +206,7 @@ SC
 SPLF
 : Société de Pneumologie de Langue Française
 
-SPO2
+SpO~2~
 : oxymétrie de pouls
 
 TVO

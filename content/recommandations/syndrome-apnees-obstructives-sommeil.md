@@ -403,8 +403,8 @@ Une surveillance dentaire régulière est nécessaire avec l'orthèse d'avancée
   - Utilisation de la machine ≥ 3 heures/24h
   - Efficacité de la PPC constatée
 - Prescription initiale par un diplômé du DIU Sommeil ou pneumologue, valable 4 mois
-- Renouvellement au bout de 4 mois pour une durée de 1 an sur *amelipro*, rubrique *Services patients*
-- Renouvellement possible au bout de 3 ans par le médecin traitant (*[JO 2017](https://www.sp2a.fr/wp-content/uploads/2018/07/De%CC%81cret-PPC-2017.pdf)*) sur une simple ordonnance ou sur *amelipro*  
+- Renouvellement au bout de 4 mois pour une durée de 1 an sur *Amelipro*, rubrique *Services patients*
+- Renouvellement possible au bout de 3 ans par le médecin traitant (*[JO 2017](https://www.sp2a.fr/wp-content/uploads/2018/07/De%CC%81cret-PPC-2017.pdf)*) sur une simple ordonnance ou sur *Amelipro*  
 Si l'on peut consulter l'observance des 12 derniers mois (≥ 112 heures sur 10 mois et ≥ 56h sur les 2 autres).
 - Remboursable à 65 %
 
@@ -415,7 +415,14 @@ Si l'on peut consulter l'observance des 12 derniers mois (≥ 112 heures sur 10 
 
 ### Renouveler la PPC ou l'OAM
 
-Le renouvellement de la PPC ou de l'orthèse d'avancée mandibulaire (OAM) **efficace** peut être réalisée par tout médecin généraliste après 3 ans d'utilisation (en deux minutes).
+Le renouvellement de la PPC ou de l'orthèse d'avancée mandibulaire (OAM) **efficace** peut être réalisée par **tout médecin généraliste après 3 ans d'utilisation** (en deux minutes).
+
+Éléments nécessaires pour compléter le renouvellement de la PPC:
+
+- Le relevé d'utilisation de la machine avec: IAH résiduel, pression (ou intervalle), marque et modèle
+- Le type de masque, dit << Type d'interface : >> (nasal, facial ou coussin nasal)
+
+Compléter le questionnaire en ligne sur *Amelipro*:
 
 1. Programmer une consultation en demandant au patient d'amener le relevé d'utilisation de la PPC
 2. Aller sur Amelipro
@@ -423,10 +430,11 @@ Le renouvellement de la PPC ou de l'orthèse d'avancée mandibulaire (OAM) **eff
 4. Dans la rubrique **Services Patients**, cliquer sur **Accord préalable PPC-OAM**
 5. Sur la nouvelle page, cliquer sur l'onglet **DAP de mon patient : Instaurer et renouveler**
 6. Puis sur **Renouveler la dernière DAP**
-7. Choisir PPC ou OAM selon la prescription
-8. Pour la PPC, cocher **Renouvellement annuel**, indiquer l'**IAH sous traitement** et Oui aux questions suivantes  
+7. Choisir **PPC** ou OAM selon la prescription
+8. Pour la PPC, cocher **Renouvellement annuel**, indiquer l'**IAH sous traitement** et Oui aux questions qui suivent  
   Adresser au spécialiste en cas de non observance ou traitement inefficace.
-9. **Valider**, imprimer en enregistrer dans le dossier médical
+9. Compléter la page *Prescription d'un traitement par pression positive continue (PPC)*
+10. **Valider**, imprimer en enregistrer dans le dossier médical
 
 ![Amelipro - accord préalable PPC-OAM](/images/photos/accord-prealable-PPC.avif "431px")
 

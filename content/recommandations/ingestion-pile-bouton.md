@@ -87,7 +87,7 @@ Selon la localisation du patient: appel du SAMU dès la suspicion d'ingestion de
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-La **radiographie thoracique de face** en urgence est l'examen de référence pour toute suspicion d'ingestion de pile bouton, quelque soit l'âge et même en l'absence de symptômes.
+La **radiographie thoracique de face** en urgence est l'examen de référence pour toute suspicion d'ingestion de pile bouton, quel que soit l'âge et même en l'absence de symptômes.
 
 Le bilan aux urgences complète les clichés selon le résultat:
 

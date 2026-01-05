@@ -160,7 +160,7 @@ Pour la vaccination des **sujets contacts** en prévention secondaire, lire *Cal
 
 > Vaccination obligatoire des nourrissons contre les méningocoques B et ACWY depuis le 1^er^ janvier 2025.
 
-Vaccination de la méningite ACWY en prévention primaire de tous les nourrissons: **2 doses obligatoire à 6 et 12 mois** (*Calendrier vaccinal*). Rattrapage chez le nourrisson jusqu'à 23 mois par 1 dose (35 mois selon *HAS 2025*). À l'adolescence (11-14 ans), 1 dose quelque soit le nombre de vaccins antérieurs, avec rattrapage jusqu'à 24 ans révolus.
+Vaccination de la méningite ACWY en prévention primaire de tous les nourrissons: **2 doses obligatoire à 6 et 12 mois** (*Calendrier vaccinal*). Rattrapage chez le nourrisson jusqu'à 23 mois par 1 dose (35 mois selon *HAS 2025*). À l'adolescence (11-14 ans), 1 dose quel que soit le nombre de vaccins antérieurs, avec rattrapage jusqu'à 24 ans révolus.
 
 Autres indications: immunodépression ([asplénie]({{% relref "asplenie.md" %}})), laboratoire travaillant sur le méningocoque, voyage (La Mecque).
 
