@@ -51,18 +51,18 @@ Examens médicaux de la naissance à 16 ans avec la cotation associée, facturé
 {{< table title="Examens de suivi du nourrisson remboursés à 100 % selon le *Décret 2024-1031* et cotation des consultations de l'enfant" >}}
 | N° |              Âge              |                             Cotation du généraliste                             |
 |---:|:-----------------------------:|:-------------------------------------------------------------------------------:|
-|  1 | Dans les 8 premiers jours     | ==COE== (54€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |
+|  1 | Dans les 8 premiers jours     | ==COE== (60€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |
 |  2 |          2e semaine           |                                    COD (35€)                                    |
 |  3 |            1 mois             |                                    COD (35€)                                    |
 |  4 |            2 mois             |                                    COD (35€)                                    |
 |  5 |            3 mois             |                                    COD (35€)                                    |
 |  6 |            4 mois             |                                    COD (35€)                                    |
 |  7 |            5 mois             |                                    COD (35€)                                    |
-|  8 |          8 mois               | ==COE== (54€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12597.do)) |
+|  8 |          8 mois               | ==COE== (60€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12597.do)) |
 |  9 |            11 mois            |                                    COD (35€)                                    |
 | 10 |            12 mois            |                                    COD (35€)                                    |
 | 11 |         16 à 18 mois          |                                    COD (35€)                                    |
-| 12 |            23 mois            | ==COE== (54€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12598.do)) |
+| 12 |            23 mois            | ==COE== (60€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12598.do)) |
 | 13 |             2 ans             |                                    COD (35€)                                    |
 | 14 |             3 ans             |                                    COD (35€)                                    |
 | 15 |             4 ans             |                                    COD (35€)                                    |

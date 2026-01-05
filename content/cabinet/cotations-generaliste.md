@@ -5,22 +5,24 @@ description = "Aide à la cotation des consultations en médecine générale: co
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2025-11-19"
-annees = "2025"
+lastmod = "2026-01-05"
+annees = "2026"
 sources = ["Assurance Maladie"]
 tags = []
 image = true
 imageSrc = "unDraw"
 style = "thead > tr > th:first-of-type {width: 110px}"
-todo = "F, MN et MM | MCU, GL, CTE, FS exemple frottis, jour férié, routexl, MPH aussi quand change de MT ?, https://www.fmfpro.org/nomenclature/tarifs-medecins-generalistes-metropole/"
+todo = "GL1, GL2, GL3, F, MN et MM | MCU, GL, CTE, FS exemple frottis, jour férié, routexl, MPH aussi quand change de MT ?, https://www.fmfpro.org/nomenclature/tarifs-medecins-generalistes-metropole/"
 +++
 
 Liste des codes pour les actes et les consultations des adultes et des enfants en médecine générale.
 {.lead}
 
-## Les nouvelles cotations en 2025
+## Les nouvelles cotations en 2026
 
-- La spirométrie (GLQP012 41,08 €) pourra être couplée à la consultation (G)
+- La spirométrie (GLQP012 41,08 €) peut être couplée à la consultation (G)
+- COE à 60 €
+- Nouvelles consultations GL1, GL2 et GL3 (détail à venir)
 
 ## Les nouvelles cotations en 2025
 
@@ -70,10 +72,10 @@ Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 | RDV       | Consultation du [bilan de prévention]({{% relref "bilan-prevention.md" %}}) (TP AMO)          |             30 |
 | COB       | Consultation de l'enfant à 6, 8-9, 11-13 et 15-16 ans (à 100%)                                |             30 |
 | RQD       | Demande de téléexpertise (FSE Sesam sans vitale dédiée en TP AMO)                             |             10 |
-| MPH       | Premier remplissage du dossier MDPH                                                           |             60 |
+| MPH       | Premier remplissage du dossier MDPH ou APA de la personne avec handicap                       |             60 |
 | IMT       | Déclaration MT d'un patient en ALD 30 (à 100%), cocher Nouveau médecin traitant sur la FS     |             60 |
 | CCP       | 1re consultation contraception avant 26 ans (à 100%, anonymisable)                            |           47,5 |
-| G         | Consultation contraception annuelle avant 26 ans (à 100 % en EXO3)                             |             30 |
+| G         | Consultation contraception annuelle avant 26 ans (à 100 % en EXO3)                            |             30 |
 | APC       | Adressé par son MT pour une compétence explicite avec compte-rendu (ne pas revoir à ± 4 mois) |             60 |
 | G + MHP   | Consultation non régulée 20h-8h, dimanche ou jour férié                                       |         30 + 5 |
 | G + F     | Consultation "urgente" non régulée dimanche et jours fériés                                   |     30 + 19,06 |
@@ -102,7 +104,7 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
 | G + MEG                                             | Consultation avant 6 ans                                                                                                               |             35 |
 | VG + MEG + MD                                       | Visite avant 6 ans                                                                                                                     |             45 |
 | [COD]({{% relref "examens-suivi-nourrisson.md" %}}) | Examens à 13-14j, M1, M2, M3, M4, M5,<br>M11, M12, M16-18 puis à 2, 3, 4 et 5 ans (à 100%)                                             |             35 |
-| COE                                                 | Examen obligatoire 8 jours, 8 mois<br> ou 23-24 mois (à 100%, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |             54 |
+| COE                                                 | Examen obligatoire 8 jours, 8 mois<br> ou 23-24 mois (à 100%, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do))    |             60 |
 | CSO*                                                | Suivi 3-12 ans en obésité (max 2/an, à 100%)                                                                                           |           47,5 |
 | CSE*                                                | Suivi enfant autiste (1/an)                                                                                                            |           47,5 |
 | MPH*                                                | Remplissage du dossier MDPH                                                                                                            |             60 |
@@ -139,11 +141,13 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
 | VG + VRM  | Visite régulée 0-6h                                                                       |     30 + 59,50 |
 | VG + VRD  | Visite régulée dimanche et jour férié                                                     |        30 + 30 |
 | APV + MD  | Vu à la demande de son MT pour une compétence explicite (ne pas revoir à ± 4 mois)        |        60 + 10 |
+| VG + MD + SNP ± SHE + MVR | Visite à la demande du SAS sous 24 heures. MVR = Majoration Visite Rapide | 30 + 10 + 15 + 15 |
 {{< /table >}}
 
 > \* Médecin traitant uniquement
 
-Ajouter les **indemnités kilométriques** (**IK**): plaine 0,61 €/km (appliquer un abattement de 4 km sur l'aller-retour), montagne 0,91 €/kg (abattement 2 km).
+Ajouter les **indemnités kilométriques** (**IK**): plaine 0,61 €/km (appliquer un abattement de 4 km sur l'aller-retour), montagne 1 €/kg (abattement 2 km).  
+La majoration de déplacement montagne (**MDM**) est de 15 €.
 
   </div>
   <div aria-labelledby="actes-tab" class="tab-pane fade" id="actes-panel" role="tabpanel">
@@ -163,7 +167,7 @@ Cotations NGAP disponibles en sus de la consultation ou de la visite médicale.
 | + MIC**   | Sortie d'hospitalisation dans les 2 mois pour [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}})                                                      |             23 |
 | + MIS     | Consultation initiale d'information cancer ou neurodégénératif                                                                                                                    |             30 |
 | + PIV     | Consultation initiale d'information VIH                                                                                                                                           |             30 |
-| + MUT*    | RDV urgent obtenu avec un spécialiste sous 48h                                                                                                                                    |              5 |
+| + MUT*    | RDV urgent obtenu avec un spécialiste sous 4 jours                                                                                                                                |              5 |
 | + MRT*    | Examen de son patient en urgence à la demande de la régulation                                                                                                                    |             15 |
 | + SNP     | Examen d'un patient non déclaré dans les 48h à la demande du SAS                                                                                                                  |             15 |
 | + SHE     | Surcotation à MRT/SNP de 19 à 21h                                                                                                                                                 |              5 |
