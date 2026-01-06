@@ -18,7 +18,7 @@ sctid = "68566005"
 icd10 = ["N39.0", "N10", "N30"]
 image = true
 imageSrc = "Illustration des infections urinaires par Freepik"
-todo = "flow"
+todo = "flow, réécrire"
 +++
 
 {{%article-summary%}}
@@ -42,7 +42,7 @@ Chapitre lié: [infections urinaires de l'adulte]({{% relref "infection-urinaire
 {{%/article-summary%}}
 {{%collapse "Bandelette urinaire et ECBU" %}}
 
-Toutes les infections urinaires doivent être documentées chez l'enfant avant antibiothérapie:
+**Toutes les infections urinaires doivent être documentées** chez l'enfant avant antibiothérapie:
 
 - Bandelette urinaire (BU) systématique à partir de l'âge de 1 mois
 - Examen cytobactériologique des urines (ECBU) si: BU avec leucocytes et/ou nitrites positifs, nouveau-né (< 1 mois), uropathie, neutropénie fébrile, signes fonctionnels urinaires, fièvre inexpliquée > 48 heures, [échelle de Pittsburgh](https://uticalc.pitt.edu)  

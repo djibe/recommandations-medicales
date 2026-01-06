@@ -4,14 +4,14 @@ description = "Explication et détail des indicateurs de la DONUM (dotation num�
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-08-03T10:47:00+02:00"
 publishdate = "2025-08-03"
-lastmod = "2025-08-03"
+lastmod = "2026-01-05"
 specialites = []
-annees = "2025"
+annees = "2026"
 sources = ["CNAM"]
 tags = []
 image = true
 imageSrc = "vectorjuice / Freepik"
-todo = "écriture SEO"
+todo = "écriture SEO, update 2026"
 +++
 
 La DONUM (dotation numérique du médecin généraliste) est le successeur du [Forfait structure]({{% relref "forfait-structure.md" %}}) depuis le 1er janvier 2026. Elle est recentrée sur l'aide au financement des services et équipements numériques (logiciel Ségur ...) pour fluidifier et sécuriser les échanges autour du patient.
@@ -38,7 +38,7 @@ Ces indicateurs apportent des points supplémentaires lorsqu'ils sont atteints, 
 
 - Taux de dématérialisation Ameli Pro autres > 30 % (AT-MP, DSG, SPE) | 60 pts - 420 €
 - Taux d'alimentation du DMP et des Ordonnances numériques > 30 % | 60 pts - 420 €
-- Usage de l'appli carte vitale (>= 1/an) et de la messagerie sécurisée (>= 1/an) | 20 pts - 140 €
+- Usage de l'appli carte vitale (≥ 1/an) et de la messagerie sécurisée (≥ 1/an) | 20 pts - 140 €
 {.list-group}
 
 **DSG =** déclaration simplifiée de grossesse en ligne; **SPE =** prescription électronique de transport

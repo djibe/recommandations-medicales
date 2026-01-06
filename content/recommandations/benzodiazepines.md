@@ -116,7 +116,7 @@ Diviser les doses d'initiation par 2 après 65 ans.
 {{< table title="Benzodiazépines et apparentés disponibles en France par voie orale en 2025. Dr JB Fron d'après *BDPM*" class="table-wrap" >}}
 | Molécule                 | Spécialité        | Demi-vie (h) | AMM                                |
 |--------------------------|-------------------|-------------:|------------------------------------|
-| Alprazolam               | Xanax, gén        |        10-20 | Anxiété, sevrage alcool            |
+| Alprazolam 🌍            | Xanax, gén        |        10-20 | Anxiété, sevrage alcool            |
 | Bromazépam               | Lexomil, gén      |           20 | Anxiété, sevrage alcool            |
 | Clobazam                 | Likozam, Urbanyl  |           36 | Anxiété, épilepsie, sevrage alcool |
 | Clonazépam               | Rivotril          |           35 | Épilepsie                          |

@@ -138,7 +138,7 @@ En cas de **résultat négatif:**
 - Rénine basse et aldostérone intermédiaire (5-10 ng/dL soit 138-277 pmol/L): redoser
 - Si hypokaliémie: supplémenter en potassium puis redoser
 - Si traitement anti-minéralocorticoïde (spironolactone, éplérénone), amiloride ou diurétique: suspendre le traitement 4 semaines puis redoser
-- Si traitement IEC/ARA2, inhibiteur calcique dihydropyridine (amlodipine ou autre): considérer une suspension du traitement 2 semaines puis redoser
+- Si traitement IEC/ARA2, inhibiteur calcique dihydropyridine (amlodipine 🌍 ou autre): considérer une suspension du traitement 2 semaines puis redoser
 
 Recontrôler à l'avenir si le patient hypertendu développe: hypertension résistante ou d'aggravation inexpliquée, hypokaliémie spontanée ou aux diurétiques, fibrillation atriale inexpliquée (cœur sein et sans hyperthyroïdie).
 {.alert .alert-info}

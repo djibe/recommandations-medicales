@@ -1,21 +1,21 @@
 +++
-title = "Carte de l'euthanasie en France et en Europe en 2025"
-titleSeo = "Carte de l'euthanasie en Europe 2025"
+title = "Carte de l'euthanasie en France et en Europe en 2026"
+titleSeo = "Carte de l'euthanasie en Europe 2026"
 description = "Carte d'Europe des pays légalisant l'aide au suicide, l'euthanasie ou interdisant leur usage. L'euthanasie est légale dans quatre pays européens: Belgique ..."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-16T12:20:00+02:00"
 publishdate = "2023-01-26"
-lastmod = "2025-12-21"
+lastmod = "2026-01-05"
 specialites = []
-annees = "2025"
+annees = "2026"
 sources = ["CNOM"]
 tags = []
 geochart = true
 image = true
 imageSrc = "Carte d'Europe revisitée par Freepik"
-todo = "update 2026, comparatif des conditions dans les pays, SEO: euthanasie en europe carte, enthanasie pays europeen, pays europe euthanasie, stats belges: https://organesdeconcertation.sante.belgique.be/fr/documents/euthanasie-chiffres-de-lannee-2022"
+todo = "update 2027, comparatif des conditions dans les pays, SEO: euthanasie en europe carte, enthanasie pays europeen, pays europe euthanasie, stats belges: https://organesdeconcertation.sante.belgique.be/fr/documents/euthanasie-chiffres-de-lannee-2022"
 +++
 
 Alors que la France engage un débat sur l'euthanasie, son adoption en Europe et dans le monde reste marginale. À ce jour, seulement cinq pays d'Europe ont encadré le recours à l'euthanasie: le Benelux (Belgique, Pays-Bas et Luxembourg), Espagne et Portugal (votée en 2023).

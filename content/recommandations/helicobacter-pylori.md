@@ -57,7 +57,7 @@ modele = true
     <div class="collapse show" id="hp-1-reference">
 
 - Clarithromycine-Sensible  
-  <span>Amoxicilline 50 mg/kg/j (3-4 prises) + clarithromycine 500 x 2/j + ésoméprazole/rabéprazole 20 mg (IPP) x 2/j pendant 10 jours</span>
+  <span>Amoxicilline 50 mg/kg/j (3-4 prises) + clarithromycine 500 x 2/j + rabéprazole 20 mg 🌍 (ou ésoméprazole) x 2/j pendant 10 jours</span>
 - Clarithromycine-Résistant et Quinolone-Sensible  
   <span>Amoxicilline 50 mg/kg/j (3-4 prises) + lévofloxacine 500 x 1/j (x 2/j pour le *GEFH*) + IPP x 2/j pendant 10 jours (14 selon le *GEFH*)</span>
 - Clarithromycine-Résistant et Quinolone-Résistant (ou non testée)  
@@ -267,7 +267,7 @@ En cas de sensibilité à la clarithromycine, trithérapie pendant 10 jours (14 
 
 - Amoxicilline 50 mg/kg/j (en 3-4 prises/j) pendant le repas
 - Clarithromycine 500 mg matin et soir pendant le repas
-- Ésoméprazole/rabéprazole 20 mg matin et soir 15 minutes avant le repas
+- Rabéprazole 20 mg 🌍 (ou ésoméprazole) matin et soir 15 minutes avant le repas
 
 {{%/info%}}
 
@@ -279,7 +279,7 @@ Trithérapie pendant 10 jours (14 pour le *GEFH*):
 
 - Amoxicilline 50 mg/kg/j (en 3-4 prises/j) pendant le repas
 - Lévofloxacine 500 mg x 1/j pendant le repas (2/j pour le *GEFH*)
-- Ésoméprazole/rabéprazole 20 mg matin et soir 15 minutes avant le repas
+- Rabéprazole 20 mg 🌍 (ou ésoméprazole) matin et soir 15 minutes avant le repas
 
 #### Résistance clarithromycine et lévofloxacine
 
@@ -537,7 +537,7 @@ Quadrithérapie pendant 14 jours:
 - Amoxicilline 50 mg/kg/j (en 3-4 prises, max 6 g/j)
 - Clarithromycine 500 mg matin et soir
 - Métronidazole 500 mg matin et soir
-- Ésoméprazole 20 mg matin et soir avant le repas
+- Rabéprazole 20 mg matin et soir avant le repas
 
 Si prise récente de macrolide ou allergie documentée à l'amoxicilline, voir *Pylera*.
 

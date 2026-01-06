@@ -276,12 +276,12 @@ Si échec, adresser au dermatologue.
 
 #### Antihistaminiques anti-H1 de seconde génération
 
-Molécules peu ou pas sédatives de première intention (selon *Prescrire*): **Cétirizine** ou **loratadine**.
+Molécules peu ou pas sédatives de première intention (selon *Prescrire*): **cétirizine** ou **loratadine**.
 
 Chez le -12 ans, en cas de fortes doses la SFD préconise la [desloratadine](https://base-donnees-publique.medicaments.gouv.fr/medicament/62676761/extrait#tab-rcp) ou la rupatadine (comprimés uniquement).
 
-**Autres molécules étudiées chez l'adulte:** Bilastine, desloratadine, fexofénadine, lévocétirizine, rupatadine.  
-**Autres molécules étudiées chez l'enfant:** Desloratadine, fexofénadine, lévocétirizine.
+**Autres molécules étudiées chez l'adulte:** bilastine, desloratadine 🌍, fexofénadine, lévocétirizine 🌍, rupatadine.  
+**Autres molécules étudiées chez l'enfant:** desloratadine, fexofénadine, lévocétirizine.
 
 En cas de grossesse, simple dose de cétirizine, lévocétirizine ou desloratadine (*SFD 2021*).
 

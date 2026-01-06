@@ -5,26 +5,26 @@ noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-05-16T09:20:00+02:00"
 publishdate = "2022-05-16"
-lastmod = "2025-07-07"
+lastmod = "2026-01-05"
 specialites = []
-annees = "2025"
+annees = "2026"
 sources = ["CNAM"]
 tags = []
 image = true
 imageSrc = "vectorjuice / Freepik"
-todo = "écriture SEO, update 2026"
+todo = "écriture SEO"
 +++
 
-Le **Forfait structure** correspond à une prime annuelle versée par l'*Assurance Maladie* pour favoriser l'engagement des médecins dans le respect des protocoles numériques du système de santé (logiciels, aide à la prescription, feuilles de soins électroniques, messagerie sécurisée ...) et des modes d'exercices coordonnés.  
-Il disparaîtra en 2026, remplacé par la [Dotation Numérique]({{% relref "donum-dotation-numerique.md" %}}) -- **DONUM**.
+Le **Forfait structure** correspondait à une prime annuelle versée par l'*Assurance Maladie* pour favoriser l'engagement des médecins dans le respect des protocoles numériques du système de santé (logiciels, aide à la prescription, feuilles de soins électroniques, messagerie sécurisée ...) et des modes d'exercices coordonnés.  
+Il a disparu en 2026, remplacé par la [Dotation Numérique]({{% relref "donum-dotation-numerique.md" %}}) -- **DONUM**.
 {.lead}
 
 Les montants versés couvrent potentiellement intégralement les [dépenses d'équipement]({{% relref "peripheriques-ordinateur.md" %}}) (webcam ou autre) et de services informatiques (téléconsultation, dossier patient) avec 1960 € versés pour le *Volet 1* (uniquement si tous les critères sont remplis) et 6181 € pour le *Volet 2* (sous réserve de remplir le Volet 1, puis selon chaque indicateur rempli). En 2025, la valeur du point reste fixée à 7 €.
 {.lead}
 
-Le Forfait structure est segmenté en 2 parties: équipement du cabinet et service aux patients, avec un certain montant accordé pour chaque indicateur. Au total, la prime maximale 2022 atteignait 9695 € (1385 points pour 7€ le point). En 2023, le forfait moyen reçu par praticien a été de **4214 €**.
+Le Forfait structure était segmenté en 2 parties: équipement du cabinet et service aux patients, avec un certain montant accordé pour chaque indicateur. Au total, la prime maximale 2022 atteignait 9695 € (1385 points pour 7€ le point). En 2023, le forfait moyen reçu par praticien a été de **4214 €**.
 
-La déclaration des objectifs est complétée depuis *AmeliPro* (section *Déclarer mes indicateurs*).
+La déclaration des objectifs était complétée depuis *AmeliPro* (section *Déclarer mes indicateurs*).
 
 ## Forfait structure Volet 1 : Équipement du cabinet 2025
 
