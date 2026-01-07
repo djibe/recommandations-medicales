@@ -3,7 +3,7 @@
   <a href="#{{ .Get 0 | anchorize }}" class="section-anchor d-print-none" data-target="#{{ .Get 0 | anchorize }}-b" title="Cliquer pour copier le lien">#</a>
   <button type="button" data-toggle="collapse" data-target="#{{ .Get 0 | anchorize }}-b" aria-expanded="{{ with .Get 1 }}true{{ else }}false{{ end }}" aria-controls="{{ .Get 0 | anchorize }}-b">{{ .Get 0 | markdownify }}</button>
 </h2>
-<div class="collapse d-print-block {{ .Get 1 }}" id="{{ .Get 0 | anchorize }}-b" aria-labelledby="{{ .Get 0 | anchorize }}">
+<div class="collapse d-print-block {{ .Get 1 }}" id="{{ .Get 0 | anchorize }}-b">
   {{.Inner | safeHTML}}
 </div>
 </section>
