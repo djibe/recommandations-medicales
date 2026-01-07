@@ -71,8 +71,7 @@
 <meta property="twitter:image" content="{{ $imageUrl | absURL }}">
 <meta name="twitter:image:alt" content="Illustration de {{ $.Params.Prefix }}{{ $.Title }}">
 
-<!-- Sitemap & RSS Feed -->
-<link rel="sitemap" type="application/xml" title="Sitemap" href="{{ .Site.BaseURL }}sitemap.xml">
+<!-- RSS Feed -->
 <link href="{{ .Site.BaseURL }}index.xml" rel="alternate feed" type="application/rss+xml" title="{{ $.Site.Title }} - Dernières recommandations">
 
 <!-- Article tags https://jsonld.com/article/ -->
