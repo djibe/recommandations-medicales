@@ -157,6 +157,7 @@ Interrogatoire à mener en cas de puberté précoce:
     <output class="form-control text-black-secondary">Fille: <span id="height-female">Compléter les mesures</span></output>
     <output class="form-control text-black-secondary">Garçon: <span id="height-male">Compléter les mesures</span></output>
   </div>
+  <p class="typography-caption">Formule de la taille cible: <code>(taille père + taille mère ) / 2 - (6,5 si fille ou + 6,5 si garçon)</code>.</p>
 </div>
 <script>
 window.addEventListener('load', () => {

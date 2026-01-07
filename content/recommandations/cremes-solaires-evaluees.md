@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-01-05T15:38:06+01:00"
 publishdate = "2026-01-05"
-lastmod = "2026-01-05"
+lastmod = "2026-01-07"
 specialites = ["dermatologie"]
 annees = "2025"
 sources = ["UFR Pharmacie Nantes"]
@@ -29,7 +29,7 @@ todo = "Kanban"
   - Ne pas s'exposer de 12 à 16 heures (10 à 14h en Outre-mer)
   - Se couvrir: habits longs et amples, un chapeau à bords larges et des lunettes de soleil avec filtre anti-UV
   - Protéger les parties découvertes du corps avec de la crème solaire indice SPF 50, à renouveler toutes les 2 heures
-- Une crème d'indice de protection (IP ou FPS ou SPF) 50 est recommandée, atteignant un SPF d'au moins 50, ou 50+ atteignant au moins 60, avec nouvelle toutes les 2 heures et après chaque baignade
+- Une crème d'indice de protection (IP ou FPS ou SPF) 50 est recommandée, atteignant un SPF d'au moins 50, ou 50+ atteignant au moins 60, avec nouvelle application toutes les 2 heures et après chaque baignade
 
 Chapitre lié: [mélanome]({{% relref "melanome.md" %}})
 
@@ -69,7 +69,7 @@ Le tableau ci-dessous rassemble donc les crèmes disponibles pour protéger au m
 > [!INFO]
 > Ces tests de crème solaires ont été rédigés par des pharmaciennes de l'Université de Pharmacie de Rennes.
 
-{{< table title="Description des 4 syndromes d'éjaculateur prématurée utilisés pour la classification des hommes se plaignant d'éjaculation prématurée. Dr JB Fron d'après *AIUS 2024*" class="table-wrap" >}}
+{{< table title="Mesures in vitro des indices de protection réels de crèmes solaires (IP ou facteur de protection solaire FPS/SPF). Dr JB Fron d'après *Regard sur les cosmétiques*" class="table-wrap" >}}
 | Marque | Crème | FPS mesuré | Test |
 |--------|-------|------------|------|
 | A-Derma | ==**Protect peaux fragiles sèches crème SPF 50+**== | **62** | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/les-produits-solaires-a-derma-des-produits-performants-au-service-de-toute-la-famille-1069/) |

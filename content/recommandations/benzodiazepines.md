@@ -258,8 +258,9 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Omedit PACA-Corse. Algorithme de déprescription des benzodiazépines (BZD). 01/09/2025. (PDF)](https://www.omeditpacacorse.fr/wp-content/uploads/2025/09/Algo-BZD-VF-250901-1.pdf)
 - [Brunner E, et al; American Society of Addiction Medicine. The Joint Clinical Practice Guideline on Benzodiazepine Tapering. 2025.](https://www.asam.org/quality-care/clinical-guidelines/benzodiazepine-tapering)
-- [Baldwin D et al; British Association for Psychopharmacology. Benzodiazepines: Risks and benefits. A reconsideration. 2013. (PDF)](https://www.bap.org.uk/pdfs/BAP_Guidelines-Benzodiazepines.pdf)
+- [Baldwin D, et al; British Association for Psychopharmacology. Benzodiazepines: Risks and benefits. A reconsideration. 2013. (PDF)](https://www.bap.org.uk/pdfs/BAP_Guidelines-Benzodiazepines.pdf)
 
 {{%/sources%}}
 {{% modal title="Échelle ECAB" id="modal-score-ecab"%}}
