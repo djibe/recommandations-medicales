@@ -5,6 +5,7 @@ prefix = "le "
 description = "Recommandations pour le diagnostic et la prise en charge du pneumothorax. Radiographie thoracique de face, surveillance ou exsufflation à l'aiguille ou drain"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Pr S. JOUNEAU (SPLF)"
 date = "2025-12-31T14:04:40+01:00"
 publishdate = "2026-01-08"
 lastmod = "2026-01-08"
@@ -17,7 +18,7 @@ sctid = "36118008"
 icd10 = ["J93", "J93.9"]
 image = true
 imageSrc = "Pneumothorax supérieur gauche chez une jeune femme de 20 ans. Cas de Chris O'Donnell, Radiopaedia.org, rID: 34235"
-todo = "flow | relecture intégrée stephane.jouneau@univ-; https://www.sciencedirect.com/science/article/abs/pii/S0761842523002930"
+todo = "flow | https://www.sciencedirect.com/science/article/abs/pii/S0761842523002930"
 +++
 
 {{%article-summary%}}
