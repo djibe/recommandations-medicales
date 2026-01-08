@@ -94,6 +94,11 @@ HUGO_ENABLEGITINFO = "false"
   to = "https://recomedicales.fr/clear/"
   status = 301
 
+[[redirects]]
+  from = "https://recomedicales.fr/recommandations/diverticulite-sigmoidienne"
+  to = "https://recomedicales.fr/recommandations/diverticulite-sigmoidienne/"
+  status = 301
+
 # [[plugins]]
 #   package = "netlify-plugin-inline-critical-css"
 #     [plugins.inputs]
