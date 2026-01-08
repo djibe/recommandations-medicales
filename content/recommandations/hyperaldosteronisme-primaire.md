@@ -239,9 +239,9 @@ style HTA stroke:#4150f5, stroke-width:1px
 graph TB
   diagnostic["Diagnostic d'<br>hyperaldostéronisme primaire"] --> éligible("Patient éligible à<br>une surrénalectomie ?") -- Oui --> probabilité("Probabilité élevée de<br> sécrétion unilatérale ?<br>Hypokaliémie, aldostérone élevée,<br> rénine supprimée") -- Faible --> faible("- Normokaliémie<br>- Aldostérone ≤ 11 ng/dL<br>(8 en chromatographie)") --> essai(Essayer un ARM)
     probabilité -- Intermédiaire --> intermédiaire("Au choix du patient:<br>essai ARM ou<br>test de freinage<br>de l'aldostérone") -- "ARM" --> essai
-      intermédiaire -- "Test de<br>freinage" --> freinage("Dexaméthasone 1mg") -- Négatif --> essai
+      intermédiaire -- "Test de<br>freinage" --> freinage("Dexaméthasone 1 mg") -- Négatif --> essai
         freinage -- Positif --> scanner(Scanner surrénalien)
-    probabilité -- Haute --> haute("- Hypokaliémie<br>- Rénine effondrée < 2 mUI/L<br>et aldostérone ≥ 20 ng/dL<br>(15 en chromatographie)") --> scanner --> cathétérisme("Cathétérisme veineux<br>surrénal") -- "Production<br>bilatérale" --> ARM("Anti-minéralocorticoïde<br>(ARM)")
+    probabilité -- Haute --> haute("- Hypokaliémie<br>- Rénine effondrée &lt; 2 mUI/L<br>et aldostérone ≥ 20 ng/dL<br>(15 en chromatographie)") --> scanner --> cathétérisme("Cathétérisme veineux<br>surrénal") -- "Production<br>bilatérale" --> ARM("Anti-minéralocorticoïde<br>(ARM)")
        scanner -.-> jeune("Patient &lt; 35 ans,<br>HAT sévère et<br>masse unilat. &gt; 1 cm") --> chirurgie
       cathétérisme -- "Production<br>unilatérale" --> chirurgie("Surrénalectomie<br>élective")
   éligible -- Non --> traitement("Traitement ARM<br>voir Figure suivante")

@@ -86,7 +86,7 @@ Le diagnostic d'érythrasma est clinique:
 
 Aucun bilan n'est nécessaire pour le diagnostic d'érythrasma.
 
-Un **prélèvement mycosique** peut être réalisé en cas de forme chronique ou récidivante.
+Un **prélèvement mycosique** peut être réalisé pour le diagnostic différentiel en cas de forme chronique ou récidivante.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'érythrasma" %}}

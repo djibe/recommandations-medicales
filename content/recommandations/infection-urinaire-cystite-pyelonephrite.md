@@ -228,9 +228,9 @@ Pyélonéphrite aiguë (PNA)
 
 Antibiothérapie probabiliste de la pyélonéphrite aiguë simple juste **après l'ECBU** dans l'attente de l'antibiogramme:
 
-1. ==Ciprofloxacine 500 mg x 2/j ou lévofloxacine 500 mg/j==  
+1. ==Ciprofloxacine 500 mg x 2/j== ou lévofloxacine 500 mg/j  
   Sauf fluoroquinolone dans les 6 mois.
-2. Ceftriaxone IM 1 g/j (2g si obèse)
+2. Ceftriaxone IM 1 g/j (2g si obèse ou signe de gravité)
 3. Hospitalisation
 
 > **Échographie rénale** sous 24 heures si hyperalgique ou ensuite si évolution défavorable après 72 heures d'antibiothérapie.

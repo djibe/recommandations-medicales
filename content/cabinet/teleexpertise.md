@@ -91,15 +91,14 @@ La FSE de la téléexpertise peut être réalisée le jour de la consultation ma
 *Cette section n'a pas été vérifiée en pratique*
 
 - La facturation se fait pour le patient concerné en mode *Sesam sans vitale* avec les informations fournies par le médecin requérant sur la plateforme
-- La cotation est **TE2** (20€), non cumulable avec d'autres actes ou majorations
+- La cotation est **TE2** (23 €), non cumulable avec d'autres actes ou majorations
 - Passer en mode d'édition de FSE avancé pour renseigner le **numéro AM du médecin requérant** dans une zone *Informations sur le prescripteur* de l'éditeur fournies par la plateforme de téléexpertise
 - **Il faut appliquer le tiers payant AMO**
 
 {{% /collapse %}}
 {{%sources%}}
 
-[Société Française de Dermatologie. Photographies en télédermatologie. 2021. (PDF)](https://www.sfdermato.org/upload/files/fichiers/groupes-thematiques/recos%20photos%20TD%20-%20v2%20FINALE.pdf)
-
+- [Société Française de Dermatologie. Photographies en télédermatologie. 2021. (PDF)](https://www.sfdermato.org/upload/files/fichiers/groupes-thematiques/recos%20photos%20TD%20-%20v2%20FINALE.pdf)
 - [Ameli Médecin. La téléexpertise. 26/02/2025.](https://www.ameli.fr/medecin/exercice-liberal/telemedecine/teleexpertise)
 - [Ministère de la Santé. La téléexpertise. 09/08/2024.](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/article/la-teleexpertise)
 - [HAS. Téléconsultation et téléexpertise : guide de bonnes pratiques. 2019.](https://www.has-sante.fr/jcms/c_2971632/fr/teleconsultation-et-teleexpertise-guide-de-bonnes-pratiques)
