@@ -19,14 +19,14 @@ Compilation d'**actualités** autour de la santé qui concernent notre pratique 
   <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-guidelines" data-toggle="tab" data-target="#nav-guidelines" role="tab" aria-controls="nav-guidelines" aria-selected="false">Publications</button></li>
   </ul>
 <div class="card-body tab-content">
-<div class="tab-pane fade show active" id="nav-actualites" role="tabpanel" aria-labelledby="nav-tab-actualites">
+<div class="tab-pane fade show active" id="nav-actualites" role="tabpanel">
 
 ## Actualités médicales pour le médecin généraliste {.typography-headline-6}
 
 <iframe fetchpriority="high" class="border-0 w-100" height="6150" srcdoc="Chargement en cours ..." onload="this.removeAttribute('srcdoc')" src="https://www.inoreader.com/stream/user/1004969357/tag/M%C3%A9decine/view/html?t=Actualités%20Médicales%20par%20RecoMédicales&l=https%3A%2F%2Frecomedicales.fr%2Ffavicon.svg&lw=64&cs=m&c=0x212121&bc=0xfff&lh=48&n=30&lc=0x4150f5" tabindex="-1" title="Le Journal de la Santé du Dr JB Fron"></iframe>
 
 </div>
-<div class="tab-pane fade" id="nav-guidelines" role="tabpanel" aria-labelledby="nav-tab-guidelines">
+<div class="tab-pane fade" id="nav-guidelines" role="tabpanel">
 
 ## Les dernières publications médicales de référence {.typography-headline-6}
 
