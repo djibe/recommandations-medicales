@@ -6,8 +6,8 @@ description = "Recommandations pour le diagnostic et la prise en charge du pneum
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-12-31T14:04:40+01:00"
-publishdate = "2026-01-05"
-lastmod = "2026-01-05"
+publishdate = "2026-01-08"
+lastmod = "2026-01-08"
 specialites = ["pneumologie"]
 annees = "2024"
 sources = ["ERS", "SPLF"]
@@ -17,35 +17,35 @@ sctid = "36118008"
 icd10 = ["J93", "J93.9"]
 image = true
 imageSrc = "Pneumothorax supérieur gauche chez une jeune femme de 20 ans. Cas de Chris O'Donnell, Radiopaedia.org, rID: 34235"
-todo = "flow | relecture demandée stephane.jouneau@univ-"
+todo = "flow | relecture intégrée stephane.jouneau@univ-; https://www.sciencedirect.com/science/article/abs/pii/S0761842523002930"
 +++
 
 {{%article-summary%}}
 
 - Le pneumothorax est un épanchement pleural gazeux lié à l'irruption d'air dans la cavité pleurale
-- Il est dit spontané en l'absence de traumatisme déclenchant, primaire (PSP) en l'absence de maladie respiratoire (d'excellent pronostic) et secondaire en cas de maladie respiratoire (BPCO surtout). Il est provoqué en cas de traumatisme
+- Il est dit spontané en l'absence de traumatisme déclenchant, primaire (PSP) en l'absence de maladie respiratoire (d'excellent pronostic) et secondaire en cas de maladie respiratoire sous-jacente (BPCO surtout). Il est provoqué en cas de traumatisme
 - Le pneumothorax spontané primaire survient typiquement chez l'homme jeune, longiligne et fumeur
 - Les symptômes du pneumothorax sont une douleur latéro-thoracique brutale de type pleural (augmentée à la toux et l'inspiration profonde) et une dyspnée. Il peut toutefois être asymptomatique
 - L'examen doit immédiatement rechercher les signes de gravité du pneumothorax: hypotension, bradycardie, détresse respiratoire, désaturation
 - Le bilan avec radiographie thoracique debout de face en inspiration est réalisé aux Urgences
-- La prise en charge initiale du pneumothorax est réalisée aux Urgences avec au minimum une surveillance de 4 heures (appel du SAMU en cas de signes de gravité ou d'éloignement)
+- La prise en charge initiale du pneumothorax est réalisée aux Urgences (appel du SAMU en cas de signes de gravité ou d'éloignement)
 - Le traitement initial du pneumothorax comprend:
-  - Abstention, exsufflation à l'aiguille ou drainage (ambulatoire ou hospitalier)
-  - L'arrêt du tabac est primordial pour éviter les récidives
+  - Abstention, exsufflation à l'aiguille ou drainage (ambulatoire ou en hospitalisation)
+  - L'arrêt du tabac est primordial pour diminuer les récidives
   - Évaluation pneumologique à chaque épisode
-  - La pleurodèse est réalisée en cas d'activité à risque (aérien, militaire ...) ou de récidive
-  - Les voyages en avion sont contre-indiqués pendant 7 à 14 jours après la guérison radiologique
+  - La pleurodèse est réalisée en cas d'activité à risque (aérien, militaire ...), de persistance de la fuite sur un premier épisode ou dès le 2^e^ épisode
+  - Les voyages en avion sont contre-indiqués pendant 7 à 14 jours après la guérison radiologique, la plongée sous-marine est définitivement contre-indiquée
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Pneumothorax
 : Épanchement pleural gazeux lié à l'irruption d'air dans la cavité pleurale entraînant un collapsus partiel voire complet du poumon.
-: Il est dit **spontané** en l'absence de traumatisme déclenchant, **primaire** en l'absence de maladie respiratoire (d'excellent pronostic) et **secondaire** en cas de maladie respiratoire (BPCO ++, asthme). Il est **provoqué** en présence d'un traumatisme déclencheur. Il est compressif en cas de compression du médiastin (insuffisance cardiaque).
-: Les complications sont liées au terrain (insuffisance respiratoire pré-existante), aux douleurs et à l'insuffisance respiratoire et cardiaque en cas de pneumothorax compressif. Les récidives sont très fréquentes.
+: Il est dit **spontané** en l'absence de traumatisme déclenchant, **primaire** en l'absence de maladie respiratoire sous-jacente (d'excellent pronostic) et **secondaire** en cas de maladie respiratoire (BPCO ++, asthme, fibrose pulmonaire). Il est **provoqué** en présence d'un phénomène déclencheur (traumatisme, geste invasif de type ponction ou biopsie pleurale, pose de cathéter veineux central, ventilation mécanique ...). Il est compressif en cas de compression du médiastin (insuffisance cardiaque droite).
+: Les complications sont liées au terrain (insuffisance respiratoire pré-existante), aux douleurs et à l'insuffisance respiratoire et cardiaque en cas de pneumothorax compressif. Les récidives sont très fréquentes (30 %, principalement la 1^re^ année).
 
 Pneumothorax de grande abondance
-: Décollement pleural sur toute la hauteur de la ligne axillaire et supérieur ou égal à 2 cm au niveau du hile à la radiographie thoracique de face.
+: Décollement pleural sur toute la hauteur de la ligne axillaire et supérieur ou égal à 2 cm au niveau du hile sur la radiographie thoracique de face.
 
 ### Abréviations
 
@@ -84,10 +84,10 @@ Le pneumothorax peut être asymptomatique.
 ### Interrogatoire
 
 - Antécédents: pathologie respiratoire (**BPCO** ou autre: pneumothorax spontané secondaire), traumatisme thoracique ou chute (pneumothorax provoqué)
-- Facteurs de risque de pneumothorax spontané primaire (PSP): sujet jeune, grand et longiligne, fumeur (75 %)
+- Facteurs de risque de pneumothorax spontané primaire (PSP): sujet jeune, longiligne, fumeur (75-80 %)
 - Tabagisme, cannabis
 - Signes et symptômes de pneumothorax:
-  - **Douleur thoracique** brutale de type pleurale (douleur augmentée à la toux et l'inspiration profonde, non modifiée par la palpation), latéro-thoracique ou postérieure
+  - **Douleur thoracique** brutale de type pleurale (douleur augmentée à la toux et l'inspiration profonde, non reproduite à la palpation), latéro-thoracique ou postérieure
   - **Dyspnée** variable
   - Toux sèche
 
@@ -118,7 +118,7 @@ Radiographie thoracique debout de face en inspiration
 
 Le diagnostic de certitude du pneumothorax est **radiographique**.
 
-En cas de suivi ambulatoire envisageable, la radiographie thoracique est **répétée** après 4 heures de surveillance aux Urgences.
+En cas de suivi ambulatoire envisageable, la radiographie thoracique est **répétée** après 4 heures de surveillance aux Urgences pour s'assurer qu'ils ne deviennent pas de grande abondance).
 
 ### Scanner thoracique
 
@@ -128,33 +128,35 @@ Le **scanner thoracique** n'est pas systématique, réservé aux indications sui
 - Pneumothorax secondaire
 - Pneumothorax bilatéral
 - Récidive de pneumothorax
+- Anomalie radiographie faisant suspecter une maladie respiratoire sous-jacente
 - Doute diagnostique
 
-L'**échographie pleurale** permet un diagnostic immédiat de pneumothorax.
+L'**échographie pleurale** permet un diagnostic immédiat de pneumothorax mais n'est pas recommandée en première intention.
 
 {{% /collapse %}}
 {{%collapse "Traitement du pneumothorax" %}}
 
 > [!WARNING]
-> Tout patient suspect de pneumothorax doit être surveillé pendant au moins 4 heures aux Urgences (*ERS*).
+> Tout patient suspect de pneumothorax doit être évalué initialement aux Urgences.
 
-L'**exsufflation** du pneumothorax mal toléré (dyspnée) ou de grand abondance est la prise en charge de référence (à l'aiguille ou au drain selon le cas).
+Selon l'ERS, l'**exsufflation** du pneumothorax mal toléré (dyspnée) ou de grande abondance est la prise en charge de référence (à l'aiguille ou au drain selon le cas).  
+Selon les recommandations françaises, l'exsufflation ou le drainage thoracique, éventuellement en ambulatoire (fortement recommandé si filière mise en place) sont indiqués en cas de PSP mal toléré ou de grande abondance.
 
 Ces recommandations concernant la prise en charge du **pneumothorax spontané primaire** (PSP -- absence de traumatisme et de maladie respiratoire) à partir de 15 ans:
 
-- Symptômes minimes et cliniquement stable: surveillance (au moins 4 heures aux Urgences), suivi ambulatoire possible selon l'extension (consignes, entouré au domicile pendant 24-48 heure, à maximum 1 heure d'un centre)
-- Symptomatique: aspiration à l'aiguille préférée au drain (≤ 14 Fr)
-- Arrêt du tabac (divise par 4 les récidives)
+- Symptômes minimes et cliniquement stable: surveillance (au moins 4 heures aux Urgences), suivi ambulatoire possible selon l'extension (consignes, entouré au domicile pendant 24-48 heure, résidant à maximum 1 heure d'un centre médical)
+- Symptomatique: exsufflation à l'aiguille préférée au drain (référence pour l'*ERS*) ou drainage thoracique (≤ 14 Fr) en ambulatoire idéalement (*SPLF*)
+- [Sevrage définitif du tabac]({{% relref "arret-tabac.md" %}}) (divise par 4 les récidives)
 - Avis pneumologique à chaque épisode (*SPLF*)
 - Activités et pneumothorax:
   - Activité physique: limitation des activités de sports intenses ou de contact jusqu'à la résolution complète, pas de contre-indication ultérieure
-  - Voyage en avion: contre-indication durant les 14 jours (*SPLF*, 7 selon l'*ERS 2024*) suivant le diagnostic de guérison radiologique
-  - Plongée sous-marine avec bouteilles: contre-indication définitive ([FFESSM Règlement médical (PDF)](https://ffessm.fr/uploads/media/docs/0001/01/c137ba5833059c088cfc9d5e7cf9034594a3d32e.pdf))
+  - **Voyage en avion**: contre-indication durant les 14 jours (*SPLF*, 7 selon l'*ERS 2024*) suivant la guérison radiologique
+  - **Plongée sous-marine** avec bouteilles: contre-indication définitive ([FFESSM Règlement médical (PDF)](https://ffessm.fr/uploads/media/docs/0001/01/c137ba5833059c088cfc9d5e7cf9034594a3d32e.pdf)) mais pas de contre-indication à la plongée masque et tuba après la guérison
   - Instruments à vent: pas de contre-indication (*SPLF*)
 
-La prévention des **récidives** de pneumothorax comprend l'==**[arrêt du tabac]({{% relref "arret-tabac.md" %}})**== et parfois la **pleurodèse** (symphyse des feuillets pleuraux en cas de récidive, de pneumothorax bilatéral, d'hémopneumothorax, de gravité, de profession/activité à risque, de survenue pendant la grossesse ou d'échec du drainage).
+La prévention des **récidives** de pneumothorax comprend le ==**[sevrage tabagique]({{% relref "arret-tabac.md" %}})**== et parfois la **pleurodèse** (symphyse des feuillets pleuraux en cas de récidive, de pneumothorax bilatéral, d'hémopneumothorax, de gravité, de profession/activité à risque, de survenue pendant la grossesse ou d'échec du drainage).
 
-> Les récidives après un pneumothorax spontané sont élevées: ~30 % des pneumothorax spontanés primaires et 50 % des pneumothorax spontanés secondaires. Elles sont souvent homolatérales.
+> Les récidives après un pneumothorax spontané sont élevées: ~30 % des pneumothorax spontanés primaires et 50 % des pneumothorax spontanés secondaires.
 
 {{% /collapse %}}
 {{%sources%}}
