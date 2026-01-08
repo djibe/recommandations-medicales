@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-02-05T23:15:16+01:00"
 publishdate = "2023-02-06"
-lastmod = "2025-08-11"
+lastmod = "2026-01-08"
 specialites = ["gynécologie-obstétrique"]
 annees = "2022"
 sources = ["CNGOF", "CRAT"]
@@ -71,6 +71,7 @@ Outils permettant de mesurer la perte de poids liée aux vomissements de grosses
 
 #### Bilan d'une hyperémèse gravidique
 
+- Bandelette urinaire
 - Bilan sanguin: ionogramme, créatininémie, bandelette urinaire
 - Échographie obstétricale
 
@@ -80,7 +81,7 @@ Outils permettant de mesurer la perte de poids liée aux vomissements de grosses
 {{%warning%}}
 Proposer une hospitalisation en cas d'hyperémèse gravidique avec au moins un critère parmi:
 
-- Amaigrissement ≥ 10%
+- Amaigrissement ≥ 10 %
 - Signes de déshydratation  
   {{< clinique/deshydratation >}}
 - {{< modal-btn modal-puqe >}}Score PUQE ≥ 13{{< /modal-btn >}}
@@ -95,12 +96,23 @@ Proposer une hospitalisation en cas d'hyperémèse gravidique avec au moins un c
 Pas d'isolement, supplémentation systématique en vitamine B1 (thiamine) voire vitamine K.
 
 {{% /collapse %}}
+{{%collapse "Examens complémentaires" %}}
+
+### Bilan de vomissements gravidiques marqués
+
+- Bilan biologique: NFS, CRP, ionogramme, glycémie à jeun
+- Échographie abdominale
+
+En cas de vomissements réfractaires:
+
+- ASAT, ALAT, GGT, PAL
+- Lipasémie
+- TSH, T4L
+
+{{% /collapse %}}
 {{%collapse "Traitement des vomissements pendant la grossesse" %}}
 
-Les posologies ne sont pas encore disponibles faute d'accès aux articles.
-{.alert .alert-warning}
-
-Mesures hygiéno-diététiques (*CBIP*):
+Mesures hygiéno-diététiques pour les vomissements de grossesse (*CBIP*):
 
 - Fractionner les repas
 - Éviter les aliments gras, épicés ou odorants
@@ -110,35 +122,34 @@ Mesures hygiéno-diététiques (*CBIP*):
 - Adapter le mode de vie selon les préférences personnelles (*CNGOF*)
 - Arrêter les vitamines et la [supplémentation en fer]({{% relref "anemie.md" %}}), sauf la vitamine B9 (*CNGOF*)
 
-Prise en charge et traitements recommandés pour les nausées et vomissements pendant la grossesse:
+Recommandations pour la prise en charge médicamenteuse des nausées et vomissements pendant la grossesse:
 
 - Dépister un trouble des conduites alimentaires ({{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}}) (*HAS/FFAB 2019*)
-- ==Traitements des nausées de première intention==
+- **Traitements des nausées de première intention**
   - Consultation de contrôle à 72 heures nécessaire
   - Symptômes légers ({{< modal-btn modal-puqe >}}Score PUQE < 6{{< /modal-btn >}})  
-    Gingembre, [vitamine B6](https://base-donnees-publique.medicaments.gouv.fr/medicament/61091986/extrait#tab-rcp) (pyridoxine), acupression, acupuncture, électrostimulation même si leur efficacité n'est pas prouvée.
-  - [Doxylamine 15 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/64741955/extrait#tab-rcp) ([CRAT](https://www.lecrat.fr/3405/))
-  - Doxylamine + pyridoxine 10/10 mg (vitamine B6 -- [Cariban®](https://base-donnees-publique.medicaments.gouv.fr/medicament/61447165/extrait#tab-rcp), Xonvea®)
+    Gingembre, [vitamine B6](https://base-donnees-publique.medicaments.gouv.fr/medicament/61091986/extrait#tab-rcp) (pyridoxine) 20 mg le soir, acupression, acupuncture, électrostimulation même si leur efficacité n'est pas prouvée.
+  - ==**Doxylamine + pyridoxine**== 10/10 mg 2 gél au coucher ± 1 gél le matin ([Cariban®](https://base-donnees-publique.medicaments.gouv.fr/medicament/61447165/extrait#tab-rcp), Xonvea®)
+  - [Doxylamine 15 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/64741955/extrait#tab-rcp) ([CRAT](https://www.lecrat.fr/3405/)) le soir
   - Dimenhydrinate 50 mg ([CRAT](https://www.lecrat.fr/3460/), [Nausicaalm®](https://base-donnees-publique.medicaments.gouv.fr/medicament/60173964/extrait#tab-rcp) ou [Mercalm®](https://base-donnees-publique.medicaments.gouv.fr/medicament/68461541/extrait#tab-rcp) avec caféine)
-- Traitement de 2^e^ intention: [métoclopramide 10 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/63177843/extrait#tab-rcp) ([CRAT](https://www.lecrat.fr/3419/))
-- Traitements de 3^e^ intention
-  - Chlorpromazine ([Largactil®](https://base-donnees-publique.medicaments.gouv.fr/medicament/65676987/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3580/))
-  - Prométhazine 25 mg ([Phénargan®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69764032/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3528/))
+- **Traitement de 2^e^ intention:**
+  - [Métoclopramide 10 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/63177843/extrait#tab-rcp) 5-10 mg x 3/j ([CRAT](https://www.lecrat.fr/3419/))
+- **Traitements de 3^e^ intention**
+  - Chlorpromazine 10-25 mg x 4-6/j ([Largactil®](https://base-donnees-publique.medicaments.gouv.fr/medicament/65676987/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3580/))
+  - Prométhazine 25 mg 1/2 à 1 cp x 3-6/j ([Phénargan®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69764032/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3528/))
   - Métopimazine ([Vogalène®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69503737/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/11549/))
 - Soutien psychologique
-- Ne pas utiliser: aromathérapie
 
-### Bilan en cas d'aggravation des symptômes sous traitement
-
-- Bilan biologique: NFS, CRP, ASAT, ALAT, lipasémie, TSH, T4L
-- Échographie abdominale
+> [!WARNING]
+> Ne pas utiliser: aromathérapie.
 
 #### Prise en charge des vomissements sévères pendant la grossesse
 
 Prise en charge de l'hyperémèse gravidique:
 
-- Hospitalisation si critères remplis (voir section précédente)  
-  sinon essai des traitements de première intention (voir plus haut).
+- **Hospitalisation** si critères remplis (voir section précédente)  
+  sinon essai des traitements de première intention (voir plus haut) et surveillance rapprochée.
+- Anticoagulation préventive
 - Soutien psychologique
 - Association de patientes: [Association de lutte contre l'hyperémèse gravidique](https://www.associationhg.fr) et [9 mois avec ma bassine](https://www.facebook.com/9moisavecmabassine/)
 
@@ -162,13 +173,10 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Nana M, et al. Hyperemesis gravidarum. Lancet. 2025.](https://www.thelancet.com/journals/landia/article/PIIS0140-6736(25)01454-0/abstract)
 - [CBIP. Quelles sont les options sûres dans la prise en charge des nausées et vomissements pendant la grossesse ?. Folia. 2025.](https://www.cbip.be/fr/articles/4586?folia=4585)
 - [Centre de Référence sur les Agents Tératogènes. Antiémétiques - Grossesse. 17/12/2024.](https://www.lecrat.fr/3593/)
 - [Deruelle P, et al. Consensus formalisé d'experts du Collège national des gynécologues et obstétriciens français : prise en charge des nausées et vomissements gravidiques et de l'hyperémèse gravidique. Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Complications%20de%20la%20grossesse/Nausees-et-vomissements-gravidiques%202022-CFE.pdf?x60010)
-
-### Bibliographie en attente
-
-- [Nana M, et al. Hyperemesis gravidarum. Lancet. 2025.](https://www.thelancet.com/journals/landia/article/PIIS0140-6736(25)01454-0/abstract)
 
 {{%/sources%}}
 {{% modal title="Score PUQE des vomissements gravidiques" id="modal-puqe"%}}
