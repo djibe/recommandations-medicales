@@ -17,7 +17,7 @@ sctid = "6273006"
 icd10 = ["N48.3"]
 image = false
 imageSrc = ""
-todo = "photo > flow > Kanban | demander relecture akakpowilliam@gmail"
+todo = "photo > flow | demander relecture akakpowilliam@gmail"
 +++
 
 {{%article-summary%}}

@@ -110,7 +110,7 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
   <label class="custom-control-label" for="contract-competition">Clause de non-concurrence</label>
 </div>
 
-Adapter l'article 8 en en cas d'activation de la clause de non-concurrence.
+Adapter l'article 8 en cas d'activation de la clause de non-concurrence.
 
 </fieldset>
 <button class="btn btn-link mb-4 d-print-none" type="button" data-toggle="modal" data-target="#modal-contact">Signaler un problème</button>

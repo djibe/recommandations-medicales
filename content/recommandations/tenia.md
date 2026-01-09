@@ -115,4 +115,6 @@ graph TB
 - Anofel. Chapitre 22: Tæniasis et cysticercose. 2022.
 - [CMIT. Parasitoses digestives : giardiose, amoebose, téniasis, ascaridiose, oxyurose. Item 172. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-172-web.pdf)
 
+Mot-clé: tænia
+
 {{%/sources%}}

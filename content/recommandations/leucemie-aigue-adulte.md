@@ -164,7 +164,7 @@ Les signes de rechute sont identiques au tableau initial (blastose, pancytopéni
 Nécessité de consulter en urgence en cas de:
 
 - Signes généraux  
-  Perte de poids inexpliquée > 10%, sueurs nocturnes sans infection identifiée, fatigue importante, fièvre persistante.
+  Perte de poids inexpliquée > 10 %, sueurs nocturnes sans infection identifiée, fatigue importante, fièvre persistante.
 - Insuffisance médullaire  
   Anémie, infection, syndrome hémorragique (ecchymoses, hématomes spontanés, saignements de nez).
 - Syndrome tumoral  

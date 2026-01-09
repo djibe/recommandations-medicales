@@ -18,7 +18,7 @@ sctid = "23132008"
 icd10 = ["E85.8"]
 image = true
 imageSrc = "Dépôts amyloïdes colorés au rouge Congo signant une amylose cardiaque. Nephron, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "SEO | flow, relecture faite JACCARD A"
+todo = "SEO | flow"
 +++
 
 {{%article-summary%}}

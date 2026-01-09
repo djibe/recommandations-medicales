@@ -99,7 +99,7 @@ Les lymphopénies peuvent être classées selon leur mécanisme supposé:
   - Circonstances de découverte
   - Sport avant l'hémogramme en question
   - Cytopénies associées
-- Symptômes associés
+- Symptômes associés:
   - AEG
   - Syndrome infectieux aigu (viral ou bactérien) ou prolongé ([VIH]({{% relref "vih-sida.md" %}}), [tuberculose]({{% relref "tuberculose.md" %}}), hémopathie)
   - Douleurs

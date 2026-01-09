@@ -41,7 +41,7 @@ Chapitres liés: [IST](/tags/ist/), [infections à Chlamydia trachomatis]({{% re
 
 Infection génitale haute (IGH) non compliquée
 : Le terme comprend l'endométrite et la salpingite symptomatiques (la majorité sont asymptomatiques). Elle est dite **compliquée** en cas d'abcès tubo-ovarien (ATO), de pelvipéritonite ou plus rarement de péri-hépatite ou sepsis. Elle atteint les femmes en âge de procréer.
-: Elle est secondaire à à l'ascension de germes du vagin à travers le col de l'utérus: IST (*C. trachomatis*, *N. gonorrhoeae*, *M. genitalium* 10-25 %) ou commensaux (streptocoques, staphylocoques, entérobactéries).
+: Elle est secondaire à l'ascension de germes du vagin à travers le col de l'utérus: IST (*C. trachomatis*, *N. gonorrhoeae*, *M. genitalium* 10-25 %) ou commensaux (streptocoques, staphylocoques, entérobactéries).
 : Les récidives sont fréquentes (15 à 21%, 1/3 par réinfection) augmentant le risque d'[infertilité]({{% relref "infertilite-couple.md" %}}) et de douleurs pelviennes chroniques.
 
 Leucorrhées
