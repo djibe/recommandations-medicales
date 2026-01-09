@@ -292,7 +292,7 @@ graph TB
   style PF stroke:#4150f5, stroke-width:1px
     atypie -- Oui --> differentiel("Éliminer une cause urgente<br>de paralysie faciale")
     atypie -- Non --> PFI("<b>Paralysie faciale idiopathique</b><br>si aucun des éléments ci-dessus")
-      PFI --> bilan("<b>Examens</b><br>—<br>- NFS<br>- Glycémie à jeûn<br>- Sérologies Lyme et VIH<br>- Audiométrie<br>- IRM n. facial<br>- ENMG si grave<br>- Sérologies VZV et HSV si hyperalgique")
+      PFI --> bilan("<b>Examens</b><br>—<br>- NFS<br>- Glycémie à jeun<br>- Sérologies Lyme et VIH<br>- Audiométrie<br>- IRM n. facial<br>- ENMG si grave<br>- Sérologies VZV et HSV si hyperalgique")
         bilan --> ttt("<b>Traitement urgent</b><br>—<br>- Prednisone po 1 mg/kg 7-10j<br>- Valaciclovir 1g x 3/j<br>- Prévention kératite<br>- Kiné en forme sévère/séq.")
           ttt --> surv("Surveillance de la récupération<br>± Kiné, orthophoniste")
 {{< /mermaid >}}
