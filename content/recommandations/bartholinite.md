@@ -17,7 +17,7 @@ sctid = "6815003"
 icd10 = ["N75", "N75.9"]
 image = true
 imageSrc = "Illustration d'un abcès de la glande de Bartholin droite causant une bartholinite. Hariadhi, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "rankok, relecture"
+todo = "rankok | relecture demandée SCGP sur site"
 flowchart = true
 +++
 
@@ -97,7 +97,7 @@ La prise en charge de la bartholinite est **uniquement chirurgicale** et l'évol
 - Prélèvements bactériologiques et drainage pendant 24 à 48 heures
 - Antalgie, AINS
 - Selon les cas: proposer les dépistages des [IST](/tags/ist/)
-- Information de la patiente: [fiche info CNGOF (PDF)](https://cngof.fr/app/pdf/FICHES%20D%27INFORMATION%20DES%20PATIENTES/Gyn%C3%A9cologie//FICHE%20INFO%20-%20Chirurgie%20de%20la%20glande%20de%20bartholin%20-%202024%20.pdf)
+- Information de la patiente: [guide SCGP (PDF)](https://www.scgp-asso.fr/wp-content/uploads/2021/06/fiche-info-glande-de-bartholin.pdf)
 - Surveillance des rares complications:
   - aiguës: hématome, bactériémie, cellulite ou fasciite de la fesse
   - chroniques: récidives, fistule recto-vaginale, douleurs chroniques, dyspareunies

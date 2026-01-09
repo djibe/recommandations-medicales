@@ -227,7 +227,7 @@ graph TB
 - [CMIT. Grippe. Item 166. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-166.pdf)
 - [HAS. Tamiflu (oseltamivir). Commission de la transparence. 24/06/2020.](https://www.has-sante.fr/jcms/p_3191478)
 - Prescrire Redaction. Grippe saisonnière. Rev Prescrire. 2022.
-- [CNGOF. Grippe et grossesse. 2013. (PDF)](https://cngof.fr/app/pdf/R%C3%A9f%C3%A9rentiels//GRIPPE/2013_GRIPPE.pdf?x13417)
 - [SPILF. Prise en charge de la grippe en dehors d'une situation de pandémie en 2005. Médecine et Maladies Infectieuses. 2005.](https://www.sciencedirect.com/science/article/pii/S0399077X05002064)
+- [CNGOF. Vaccin grippe et grossesse.](https://cngof.fr/vaccin-grippe-et-grossesse/)
 
 {{%/sources%}}

@@ -176,6 +176,6 @@ graph TB
 - [Service-Public. La << pilule du lendemain >> est prise en charge à 100 % sans ordonnance pour toutes les femmes. 11/01/2023.](https://www.service-public.fr/particuliers/actualites/A16291)
 - [HAS. Contraception d'urgence. Juillet 2019.](https://www.has-sante.fr/jcms/c_1754842/fr/contraception-d-urgence)
 - [Rahib D., Lydié N. Contraception. Baromètre de Santé Publique France 2016. Santé Publique France. 2019.](https://www.santepubliquefrance.fr/determinants-de-sante/sante-sexuelle/documents/rapport-synthese/barometre-de-sante-publique-france-2016.-contraception.-la-contraception-d-urgence-des-delais-de-prise-toujours-sous-estimes)
-- [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Contraception%20et%20Sant%C3%A9%20Reproductive/Contraception%202018_RPC.pdf?x60010)
+- [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018.](https://cngof.fr/rpc/) (payant)
 
 {{%/sources%}}

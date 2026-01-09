@@ -242,7 +242,7 @@ Vaccins à réaliser pendant la grossesse ([chapitre dédié Vaccination]({{% re
 Pour toutes les femmes à la 1^re^ grossesse (sauf carte de groupe): double détermination du **groupe sanguin rhésus D** (RhD, dit rhésus 1 -- RH-1) et recherche d'agglutinines irrégulières (**RAI**) si rhésus négatif ou antécédent de transfusion dès le premier trimestre de grossesse.
 {.alert .alert-info}
 
-[Fiche info CNGOF allo-immunisation T1 (PDF)](https://cngof.fr/app/pdf/FICHES%20D'INFORMATION%20DES%20PATIENTES/Obst%C3%A9trique//fiche%20info%20patientes%20pr%C3%A9vention%20allo-immunisation%20T1%202024.pdf)
+[Fiche info CNGOF allo-immunisation T1 (PDF)](https://cngof.fr/app/uploads/2025/11/Allo-immunisation20-20RhC3A9sus20D202024-fiche20info20patientes20prC3A9vention20allo-immunisation20T1.pdf?x26468)
 
 ### Femme Rhésus D négatif
 
@@ -374,7 +374,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{% rel
 - [US Preventive Services Task Force, Barry MJ et al. Folic Acid Supplementation to Prevent Neural Tube Defects: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2807739)
 - [CNGOF, SFMU, SFAR. Prise en charge des urgences obstétricales en médecine d'urgence. Recommandations de Pratiques Professionnelles. 2022.](https://sfar.org/prise-en-charge-des-urgences-obstetricales-en-medecine-durgence/)
 - [Boisseau N. Physical Activity During the Perinatal Period: Guidelines for Interventions During the Perinatal Period from the French National College of Midwives. J Midwifery Womens Health. 2022.](https://onlinelibrary.wiley.com/doi/10.1111/jmwh.13425)
-- [CNGOF. Vaccin anti SARS-CoV-2 et grossesse 3e injection ? Avis du 17 novembre 2021. (PDF)](https://cngof.fr/app/pdf/COVID19//%20Vaccination-anti-covid-19/CNGOF-GRIG-171021-3e%20dose%20vaccin%20anti%20SARS-COV2%20femmes%20enceintes.pdf?x94073)
+- [CNGOF. Vaccin anti SARS-CoV-2 et grossesse 3e injection ? Avis du 17 novembre 2021. (PDF)](https://cngof.fr/app/uploads/2025/11/21-11-1720vaccin20anti20SARS-Cov-220et20grossesse_203eme20injection.pdf?x26468)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Gynécologie obstétrique Réussir son DFASM. 2021.
 - [CNGOF. Prévention de l'allo-immunisation Rhésus D chez les patientes de groupe Rhésus D négatif. 2017. (PDF)](https://cngof.fr/rpc/)
 - [HAS. Suivi et orientation des femmes enceintes en fonction des situations à risque identifiées. 2016.](https://www.has-sante.fr/jcms/c_547976/fr/suivi-et-orientation-des-femmes-enceintes-en-fonction-des-situations-a-risque-identifiees)
