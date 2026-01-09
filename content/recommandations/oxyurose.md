@@ -7,7 +7,7 @@ synonyms = ["Entérobiase"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-07-17T17:38:12+02:00"
 publishdate = "2023-07-18"
-lastmod = "2025-04-03"
+lastmod = "2026-01-09"
 specialites = ["hépato-gastro-entérologie", "infectiologie", "pédiatrie"]
 annees = "2022"
 sources = ["Collèges"]
@@ -99,8 +99,10 @@ La prise en charge de l'oxyurose comprend le traitement de tous les sujets de l'
 - Lavage des mains régulier
 - Couper les ongles courts et les brosser
 - Changer et laver le linge de nuit à 60°C, les doudous
-- Antiparasitaire benzimidazolé: ==flubendazole (Fluvermal® à partir de 12 mois) [1 cp](https://base-donnees-publique.medicaments.gouv.fr/medicament/60968336/extrait#tab-rcp) ou [1 cuiller-mesure](https://base-donnees-publique.medicaments.gouv.fr/medicament/68636624/extrait#tab-rcp) dose unique à renouveler à J15== (ou J21)  
-  ou [albendazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/69731801/extrait#tab-rcp) (posologie selon l'âge) dose unique à renouveler à J15 (ou J21)
+- Antiparasitaire benzimidazolé:
+  - ==flubendazole (Fluvermal® à partir de 12 mois) [1 cp](https://base-donnees-publique.medicaments.gouv.fr/medicament/60968336/extrait#tab-rcp) ou [1 cuiller-mesure](https://base-donnees-publique.medicaments.gouv.fr/medicament/68636624/extrait#tab-rcp) dose unique à renouveler à J15== (ou J21; possible après le 1^er^ trimestre de grossesse -- [CRAT](https://www.lecrat.fr/7591/))
+  - ou [albendazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/69731801/extrait#tab-rcp) (posologie selon l'âge) dose unique à renouveler à J15 (ou J21)
+  - Au 1^er^ trimestre de grossesse: [pyrantel](https://base-donnees-publique.medicaments.gouv.fr/medicament/64047571/extrait#tab-rcp) 10-12 mg/kg dose unique à renouveler à J21 ([CRAT](https://www.lecrat.fr/7588/))
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'oxyurose" "show" %}}
@@ -120,6 +122,8 @@ graph TB
 - Association Française des Enseignants & Praticiens Hospitaliers titulaires de Parasitologie & Mycologie Médicale (Anofel). Chapitre 11: Oxyurose. 2022.
 - [CMIT. Parasitoses digestives : giardiose, amoebose, téniasis, ascaridiose, oxyurose. Item 172. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-172-web.pdf)
 - Prescrire Redaction. Oxyurose. Premiers Choix Prescrire. Rev Prescrire. 2022.
+
+Moy-clé: oxyures
 
 {{%/sources%}}
 {{% modele %}}
