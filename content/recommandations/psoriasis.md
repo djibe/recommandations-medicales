@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2023-10-05T11:12:30+02:00"
 publishdate = "2023-10-10"
-lastmod = "2025-10-03"
+lastmod = "2026-01-09"
 specialites = ["dermatologie"]
-annees = "2018"
+annees = "2025"
 sources = ["SFD"]
 tags = ["prurit", "risque cardiovasculaire"]
 english = ["Psoriasis"]
@@ -17,7 +17,7 @@ sctid = "9014002"
 icd10 = ["L40", "L40.9"]
 image = true
 imageSrc = "Psoriasis en plaques du cuir chevelu et des mains. Freepik"
-todo = "rankok, PASI, EULA RPso, SAPHO, relecture demandée mviguier"
+todo = "rankok | PASI, EULA RPso, SAPHO, relecture à demander helene.aubert@chu-nantes"
 flowchart = true
 +++
 
@@ -59,6 +59,28 @@ PASI
 SFD
 : Société Française de Dermatologie
 {.dl-inline}
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Diagnostics différentiels du psoriasis:
+
+- Pityriasis rosé de Gibert  
+  Atteinte thoracique et à la racine des membres << en arbre de Noël >>, possiblement liée à un virus. Macules roses finement squameuses avec un centre en cours de guérison. Toujours guérison spontanée en 6-8 semaines, [sérologies VIH]({{% relref "vih-sida.md" %}}) et [syphilis]({{% relref "syphilis.md" %}}) de principe.
+- [Dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}})  
+  Pas de lésions à distance du visage.
+- [Eczéma chronique]({{% relref "dermatite-atopique.md" %}})  
+  Visage et plis, peu de squames, limites floues
+- Lymphomes cutanés
+- Autres formes de psoriasis
+  - Psoriasis des plis  
+    [Intertrigo mycosique]({{% relref "mycoses-dermatophytes-candidoses.md" %}}) ou bactérien
+  - Psoriasis palmo-plantaire  
+    Autres causes de kératodermie: [eczéma]({{% relref "dermatite-atopique.md" %}}), lichen, [dermatophytie]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
+  - Érythrodermie psoriasique  
+    Autres causes d'érythrodermie: toxidermie, lymphome, eczémas
+  - Psoriasis pustuleux généralisé  
+    Pustulose exanthématique aiguë généralisée.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -135,34 +157,14 @@ Le **rhumatisme psoriasique** co-existe chez 1/4 des patients (cuir chevelu, ung
 Il est périphérique ou axial avec atteinte fréquente de: enthèses, interphalangiennes distales (IPD) ou de l'ensemble d'un doit/orteil (**dactylite**).
 
 {{% /collapse %}}
-{{%collapse "Diagnostic différentiel" %}}
-
-### Diagnostics différentiels du psoriasis
-
-- Pityriasis rosé de Gibert  
-  Atteinte thoracique et à la racine des membres << en arbre de Noël >>, possiblement liée à un virus. Macules roses finement squameuses avec un centre en cours de guérison. Toujours guérison spontanée en 6-8 semaines, [sérologies VIH]({{% relref "vih-sida.md" %}}) et [syphilis]({{% relref "syphilis.md" %}}) de principe.
-- [Dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}})  
-  Pas de lésions à distance du visage.
-- [Eczéma chronique]({{% relref "dermatite-atopique.md" %}})  
-  Visage et plis, peu de squames, limites floues
-- Lymphomes cutanés
-- Autres formes de psoriasis
-  - Psoriasis des plis  
-    [Intertrigo mycosique]({{% relref "mycoses-dermatophytes-candidoses.md" %}}) ou bactérien
-  - Psoriasis palmo-plantaire  
-    Autres causes de kératodermie: [eczéma]({{% relref "dermatite-atopique.md" %}}), lichen, [dermatophytie]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
-  - Érythrodermie psoriasique  
-    Autres causes d'érythrodermie: toxidermie, lymphome, eczémas
-  - Psoriasis pustuleux généralisé  
-    Pustulose exanthématique aiguë généralisée.
-
-{{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 Le diagnostic de psoriasis est **clinique**. En cas de doute diagnostique, adresser au dermatologue pour envisager une **biopsie cutanée**.
 
 ### Bilan d'un psoriasis
 
+- Évaluation du risque cardiovasculaire {{< scores/heartscore >}}
+- Créatinine et DFG
 - Bilan lipidique et glycémie à jeun
 - [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (*ESsCD*)
 - Si doute diagnostique ou de résistance au traitement: [sérologies VIH]({{% relref "vih-sida.md" %}}) et [syphilis]({{% relref "syphilis.md" %}})
@@ -174,9 +176,10 @@ La prise en charge et les traitements du psoriasis réduisent l'intensité des l
 
 ### Mesures générales de prise en charge du psoriasis
 
+- Discuter l'hospitaliser en cas de forme sévère (érythrodermique ..., sur avis spécialisé)
 - Substituer un traitement possiblement inducteur (bêtabloquant, IEC, lithium)
 - Correction de facteurs aggravants
-  - Arrêt du tabac
+  - Sevrage tabagique
   - Réduction d'une consommation d'alcool
   - Correction d'un surpoids
 - Autres topiques: bains, émollients
@@ -195,7 +198,7 @@ Les traitements locaux du psoriasis (dermocorticoïdes et analogues de la vitami
 
 #### Les dermocorticoïdes
 
-{{< modal-btn modal-dc >}}Tableau des dermocorticoïdes et leurs consignes d'utilisation{{< /modal-btn >}}
+{{< modal-btn modal-dc >}}Tableau des dermocorticoïdes et leurs consignes d'utilisation{{< /modal-btn >}}.
 {.alert .alert-info}
 
 Exemple pour le cuir chevelu en cas de squames: [Diprosalic® lotion](https://base-donnees-publique.medicaments.gouv.fr/medicament/64435022/extrait#tab-rcp) x 2/j pendant 1-2 semaines, puis espacer en traitement d'entretien.
@@ -238,18 +241,25 @@ Il est recommandé de proposer un traitement systémique pour un psoriasis modé
 
 Les biothérapies doivent être débutées après l'échec de 2 traitements systémiques (méthotrexate, ciclosporine, photothérapie).
 
-Les traitements systémiques du psoriasis relèvent uniquement du dermatologue:
+> [!INFO]
+> Les traitements systémiques du psoriasis relèvent uniquement du dermatologue.
 
 - **Photothérapie**: PUVAthérapie, **photothérapie UVB à spectre étroit**, rePUVA, acitrétine et UVB, photothérapie localisée
 - Rétinoïde (acitrétine)
 - Immunomodulateur: **[méthotrexate]({{% relref "methotrexate.md" %}})** > ciclosporine > aprémilast (Otezla®)
 - Biothérapie
   - Anti-TNFα: étanercept, infliximab, **adalimumab** ({{< traitements/adalimumab >}}), certolizumab
-  - IL-12 et IL-23: **ustékinumab** (Stelara®, Uzpruvo®)
-  - **IL-17**: sécukinumab, ixékizumab, brodalumab, bimékizumab
-  - IL-23: guselkumab, rizankizumab, tildrakizumab
+  - IL-12/23: **ustékinumab** (Imuldosa®, Otulfi®, Stelara®, Pyzchiva®, Steqeyma®, Uzpruvo®, Wezenla®, Yesintek®)
+  - IL-17: sécukinumab, ixékizumab, brodalumab, bimékizumab  
+    Possible en 1^re^ ligne en cas de psoriasis très sévère (érythrodermique), d'atteinte unguéale, pustuleux palmo-plantaire.
+  - IL-23: guselkumab, rizankizumab, tildrakizumab  
+    Possible en 1^re^ ligne en cas de psoriasis très sévère (érythrodermique), pustuleux palmo-plantaire.
+  - IL-36: spésolimab  
+    1^re^ ligne de psoriasis pustuleux généralisé en poussée.
+  - PDE4: aprémilast
+  - TYK2: deucravacitinib
 
-Les traitements privilégiés sont en **gras**. La réévaluation du traitement général par le dermatologue doit être au moins semestrielle.
+Les traitements de référence sont en **gras**. La réévaluation du traitement général par le dermatologue doit être au moins semestrielle.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du psoriasis" "show" %}}
@@ -266,17 +276,17 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Masson Regnault M, et al. French guidelines on systemic treatments for moderate-to-severe psoriasis in adults: Update 2025. J Eur Acad Dermatol Venereol. 2025.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.70263)
 - [Sbidian E, et al. Systemic pharmacological treatments for chronic plaque psoriasis: a network meta‐analysis. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011535.pub7/full/fr)
 - [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [Collège des enseignants de dermatologie de France (CEDEF). Psoriasis. Item 117. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-117-%E2%80%94-Psoriasis_CompressPdf.pdf)
 - Prescrire Redaction. Psoriasis médicamenteux. Rev Prescrire. 2023.
 - Prescrire Redaction. Patients atteints de psoriasis. Rev Prescrire. 2023.
-- [Amatore F et al; Psoriasis Research Group of the French Society of Dermatology (Groupe de Recherche sur le Psoriasis de la Société Française de Dermatologie). French guidelines on the use of systemic treatments for moderate-to-severe psoriasis in adults. J Eur Acad Dermatol Venereol. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6593704/)
-- [Viguier M et al. Le psoriasis. Dermato-Info. 2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/le-psoriasis)
+- [Amatore F, et al; Psoriasis Research Group of the French Society of Dermatology (Groupe de Recherche sur le Psoriasis de la Société Française de Dermatologie). French guidelines on the use of systemic treatments for moderate-to-severe psoriasis in adults. J Eur Acad Dermatol Venereol. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6593704/)
+- [Viguier M, et al. Le psoriasis. Dermato-Info. 2019.](https://dermato-info.fr/fr/les-maladies-de-la-peau/le-psoriasis)
 
 ### Bibliographie en attente
 
-- [Masson Regnault M, et al. French guidelines on systemic treatments for moderate-to-severe psoriasis in adults: Update 2025. J Eur Acad Dermatol Venereol. 2025.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.70263)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Psoriasis. Item 117 UE 5. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-6-0.php)
 
 {{%/sources%}}
