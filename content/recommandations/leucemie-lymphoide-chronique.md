@@ -71,7 +71,7 @@ LLC
 - La leucémie lymphoïde chronique (LLC) atteint le sujet âgé  
   72 ans d'âge médian au diagnostic, jamais l'enfant et exceptionnellement l'adulte jeune.
 - **Asymptomatique** le plus souvent
-- Les signes généraux sont rares: fièvre, sueurs nocturnes, AEG
+- Les signes généraux sont rares: fièvre, [sueurs nocturnes]({{% relref "sueurs-nocturnes.md" %}}), AEG
 - **Polyadénopathies** symétriques, fermes et indolores
 - [Splénomégalie]({{% relref "splenomegalie.md" %}})
 - Complications: **infections récidivantes** par hypogammaglobulinémie, cytopénie autoimmune ou insuffisance médullaire.

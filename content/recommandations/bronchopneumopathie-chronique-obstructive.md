@@ -42,7 +42,7 @@ todo = "rankok | PLAN D'ACTION - TargetCOPD, action plan <https://www.livingwell
 <div class="alert">
 {{< traitements/gold-groupe >}}
 
-<small>Aide au choix du traitement bronchodilatateur de la BPCO (*GOLD 2025*).</small>
+<small>Aide au choix du traitement bronchodilatateur de la BPCO (*GOLD 2026*).</small>
 
 </div>
 
@@ -62,7 +62,7 @@ Exacerbation de BPCO (EABPCO)
       1^er^ facteur prédictif de survenue d'EABPCO.
     - **Exacerbation légère**: résolutive en majorant les {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}}
     - **Modérée**: nécessitant {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}} + corticoïdes oraux ± antibiotiques
-    - **Sévère**: passage aux urgences ou hospitalisation
+    - **Sévère**: passage aux Urgences ou hospitalisation
 
 Bronchite chronique
 : Abandonnée par le GOLD car n'est présente que chez une minorité (27 à 35 %) de patients atteints de BPCO.
@@ -339,7 +339,7 @@ Indications aux **gaz du sang**: SpO~2~ ≤ 92%, {{< modal-btn modal-score-mmrc 
 - Aggravation de l'[insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) (NT-proBNP)
 - [Embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}}) (d-dimères)
 - [Pneumonie aiguë communautaire]({{% relref "pneumonie-aigue-communautaire.md" %}})
-- Pneumothorax et pleurésie
+- [Pneumothorax]({{% relref "pneumothorax.md" %}}) et pleurésie
 
 ### 2. Rechercher le facteur déclenchant
 
@@ -424,7 +424,7 @@ Mesures générales de prise en charge de la BPCO:
 - ==**Vaccinations**==
   - Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}}) avec la coqueluche
   - Covid-19 et grippe annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}
-  - +65 ans: VRS 1 fois (NR -- *HAS 2024*)
+  - +65 ans: VRS 1 fois (NR -- *GOLD 2026*, *HAS 2024*)
   - +50 ans: [zona]({{% relref "zona.md" %}}) (*GOLD 2025*, 65 ans dans le Calendrier vaccinal)
 - ==**Réhabilitation respiratoire**==
   - Essentielle pour quasi tous (GOLD B et E) pour réduire la dyspnée, le stress et améliorer la qualité de vie
@@ -481,22 +481,25 @@ Dyspnée sous monothérapie toujours {{< modal-btn modal-score-mmrc >}}mMRC ≥ 
 {{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}}
 {.alert .alert-info}
 
-Avis pneumologique si exacerbations répétées ou hospitalisation avec éosinophilie ≥ 300/mm³
+Avis pneumologique si exacerbation modérée à sévère dans l'année ou hospitalisation (BPCO non contrôlée).
 
 Sur-risque de pneumopathie avec les corticoïdes inhalés.
 {.alert .alert-warning}
 
 ### 4) Prescription initiale spécialisée
 
-Triple association si GOLD groupe E avec éosinophilie: {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}.
+Triple association si GOLD groupe E avec éosinophiles ≥ 100/µL: {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + CSI{{< /modal-btn >}}.
 
 Arrêter le corticoïde inhalé en cas de [pneumonies]({{% relref "pneumonie-aigue-communautaire.md" %}}) ou d'autres effets indésirables.
 
-Seul le **pneumologue** peut prescrire une trithérapie ou des nébulisations et les traitements suivants:
+Seul le **pneumologue** peut prescrire des **nébulisations** et les traitements suivants:
 
 - Anticorps monoclonal IgG4 dupilumab (Dupixent)
 - Azithromycine 250 mg/j ou 500 mg 3 jours par semaine
 - N-acétylcystéine 600 mg x 2/j
+- Ventilation mécanique ± Pression Positive Continue (PPC)
+- Pour certains emphysèmes: chirurgie de réduction volumique
+- Si dyspnée réfractaire: opioïdes faible dose (*SPLF 2021*)
 
 {{%warning%}}
 Ne jamais utiliser:
@@ -511,8 +514,7 @@ Ne jamais utiliser:
 
 ### Arrêt des corticoïdes inhalés
 
-Éléments de la balance bénéfice-risque des CSI: asthme, exacerbations fréquentes, éosinophilie versus pneumonies.  
-Substitution envisagée par {{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}}.
+Éléments de la balance bénéfice-risque des CSI: asthme, exacerbations fréquentes, éosinophiles élevés versus pneumonies. Substitution envisagée par {{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}}.
 
 {{%info%}}
 Envisager l'arrêt des corticoïdes inhalés en l'absence d'exacerbation modérée à sévère dans l'année (avec suivi rapproché si éosinophiles > 300/mm³), éosinophiles < 300/mm³, pneumonie (ou effet indésirable des CSI)  
@@ -523,15 +525,7 @@ sauf si éosinophiles > 300/mm³ et exacerbations fréquentes en l'absence de pn
 
 Éosinophilie: mesurée en état stable. Elle n'a aucun intérêt en exacerbations fréquentes.
 
-### En savoir plus: autres traitements
-
-Traitements réservés au pneumologue (prescription et renouvellement):
-
-- Ventilation mécanique ± Pression Positive Continue (PPC)
-- Certains emphysèmes: chirurgie de réduction volumique
-- Si dyspnée réfractaire: opioïdes faible dose (*SPLF 2021*)
-
-#### Oxygénothérapie longue durée  
+### Oxygénothérapie longue durée  
 
 Au moins 15 heures/j en cas d'hypoxémie avec suivi au moins annuel (pas de bénéfice au-delà de 15 h/j selon *Taichman DB et al 2024*).
 
@@ -585,14 +579,14 @@ IMC (< 21), perte de poids, santé bucco-dentaire.
 
 {{< mermaid title="Prise en charge de la BPCO, diagnostique et thérapeutique. Dr JB Fron d'après SPLF, ERS et GOLD 2025" >}}
 graph TB
-  depister["<b>Dépister</b><br>—<br>- Mini spiromètre<br>- Questionnaire GOLD<br>- ≥ 40 ans avec ≥ 1 parmi:<br>tabagisme, env. pollué,<br>chauffage charbon/bois,<br>exposition professionnelle,<br>toux chronique, expectorations,<br>dyspnée"]
-  style depister stroke:#4150f5, stroke-width:1px
-    depister --> spirometrie("- Spirométrie avec test de réversibilité<br>—<br>- Évaluation dyspnée: CAT™, échelle mMRC<br>- NFS, glycémie, lipides, Radio thorax<br>- Consultations pneumo et cardio")
-      spirometrie -- TVO non réversible --> rhd("<b>Mesures générales</b><br>—<br>- Sevrage tabagique<br>- Vaccin covid-19, grippe, pneumo, VRS<br>- Activité physique<br>- Réadaptation respiratoire<br>- Équilibre diététique<br>- Traitement des comorbidités")
+  dépister["<b>Dépister</b><br>—<br>- Mini spiromètre<br>- Questionnaire GOLD<br>- ≥ 40 ans avec ≥ 1 parmi:<br>tabagisme, env. pollué,<br>chauffage charbon/bois,<br>exposition professionnelle,<br>toux chronique, expectorations,<br>dyspnée"]
+  style dépister stroke:#4150f5, stroke-width:1px
+    dépister --> spirométrie("- Spirométrie avec test de réversibilité<br>—<br>- Évaluation dyspnée: CAT™, échelle mMRC<br>- NFS, glycémie, lipides, Radio thorax<br>- Consultations pneumo et cardio")
+      spirométrie -- TVO non réversible --> rhd("<b>Mesures générales</b><br>—<br>- Sevrage tabagique<br>- Vaccin covid-19, grippe, pneumo, VRS<br>- Activité physique<br>- Réadaptation respiratoire<br>- Équilibre diététique<br>- Traitement des comorbidités")
         rhd --> bdca("Bronchodilatateur de courte durée<br>en cas de gêne")
           bdca -- Dyspnée ou exacerbation --> bdla("Bronchodilatateur de longue durée:<br>LABA ou LAMA")
             bdla -- Dyspnée ou exacerbation --> bitherapie(Bithérapie LABA + LAMA) -. Insuffisant .-> pneumologue(Avis pneumologique)
-      spirometrie -- Diagnostic différentiel --> differentiel("- Asthme<br>- Cancer du poumon<br>- Tuberculose<br>- DDB et emphysème<br>- Insuff. cardiaque<br>- Pneumopathie interstitielle<br>- Mucoviscidose<br>- Idiopathique")
+      spirométrie -- Diagnostic différentiel --> differentiel("- Asthme<br>- Cancer du poumon<br>- Tuberculose<br>- DDB et emphysème<br>- Insuff. cardiaque<br>- Pneumopathie interstitielle<br>- Mucoviscidose<br>- Idiopathique")
 {{< /mermaid >}}
 
 > Dyspnée persistante: {{< modal-btn modal-score-cat >}}Évaluation CAT™{{< /modal-btn >}} ou {{< modal-btn modal-score-mmrc >}}échelle de dyspnée mMRC{{< /modal-btn >}}  
@@ -643,7 +637,7 @@ graph TB
 - [Taichman DB, Drazen JM. Making Long-Term Oxygen Therapy Less Burdensome. N Engl J Med. 2024.](https://www.nejm.org/doi/10.1056/NEJMe2410129)
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
 - [HAS, SPILF, SPLF. Choix et durées d'antibiothérapie dans les exacerbations aiguës de bronchopneumopathie chronique obstructive (EABPCO). 2024.](https://www.has-sante.fr/jcms/p_3528903/fr/choix-et-durees-d-antibiotherapie-dans-les-exacerbations-aigues-de-bronchopneumopathie-chronique-obstructive-eabpco)
-- [Collège des Enseignants de Pneumologie (CEP). Bronchopneumopathie chronique obstructive (BPCO). Item 209. 2023. (PDF)](http://cep.splf.fr/wp-content/uploads/2023/07/ITEM_209_BRONCHOPNEUMOPATHIE_CHRONIQUE_OBSTRUCTIVE_2023.pdf)
+- [Collège des Enseignants de Pneumologie (CEP). Bronchopneumopathie chronique obstructive (BPCO). Item 209. 2023.](https://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/)
 - Prescrire Redaction. Bronchopneumopathie chronique obstructive. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - [Zysman M, et al. Optimisation du traitement médicamenteux des patients atteints de BPCO en état stable. Position de la Société de pneumologie de langue française. Actualisation 2021. Revue des Maladies Respiratoires. 2021. (PDF)](https://splf.fr/wp-content/uploads/2021/12/optimisation-du-traitement-BPCO.pdf)
 - [Georges M. Réhabilitation respiratoire dans la BPCO : bis repetita. 18/05/2021.](https://splf.fr/rehabilitation-respiratoire-dans-la-bpco-bis-repetita/)

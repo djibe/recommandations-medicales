@@ -64,8 +64,8 @@ VADS
 ### Signes d'alerte devant une toux chronique
 
 - AEG
-- Syndrome infectieux  
-  Fièvre, sueurs nocturnes.
+- Syndrome infectieux ou de malignité  
+  Fièvre, [sueurs nocturnes]({{% relref "sueurs-nocturnes.md" %}}).
 - Dyspnée d'effort
 - Hémoptysie
 - Apparition/modification de la toux chez un fumeur

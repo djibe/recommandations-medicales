@@ -133,7 +133,7 @@ Signes et symptômes de ménopause précoce à rechercher avant 40 ans:
 - Contraception
 - **Syndrome climatérique:** (carence œstrogénique)
   - Bouffées de chaleur
-  - [Sueurs nocturnes](/tags/sueurs-nocturnes/)
+  - [Sueurs nocturnes]({{% relref "sueurs-nocturnes.md" %}})
   - Troubles du sommeil
   - Troubles de l'humeur
   - Douleurs articulaires

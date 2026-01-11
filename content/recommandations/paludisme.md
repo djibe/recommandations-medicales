@@ -149,7 +149,7 @@ Interrogatoire, signes et symptômes de l'accès palustre simple de l'adulte, **
 - Antécédent de traitements antipaludiques curatifs déjà utilisés
 - **Syndrome pseudo-grippal**
   - Fièvre élevée, brutale et intermittente (rarement stéréotypée tierce par *P. falciparum*)
-  - Frissons, sueurs
+  - Frissons, [sueurs]({{% relref "sueurs-nocturnes.md" %}})
   - Phases quasi asymptomatiques
   - Céphalées
   - Myalgies

@@ -139,7 +139,7 @@ Le diagnostic de dysphonie est clinique:
   - Dysarthrie
   - Rhinorrhée
   - Pyrosis, régurgitations, reflux
-  - Fièvre, sueurs nocturnes
+  - Fièvre, [sueurs nocturnes]({{% relref "sueurs-nocturnes.md" %}})
   - Anxiété, dépression, troubles cognitifs
 
 Signes en faveur d'une **origine virale**: rhinite, fièvre, fatigue.

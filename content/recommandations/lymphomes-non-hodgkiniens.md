@@ -114,7 +114,7 @@ Les lymphomes non hodgkiniens sont le plus souvent révélés par des poly-adén
 - Symptômes de lymphome
   - Adénopathies multiples  
     Volumineuses (> 2 cm), superficielles persistantes > 1 mois, fermes, indolores, mobiles et non inflammatoires de toute localisation.
-  - Signes généraux (dits "symptômes B"): amaigrissement (AEG), fièvre > 38 °C (+8 jours), [sueurs nocturnes](/tags/sueurs-nocturnes/) profuses
+  - Signes généraux (dits "symptômes B"): amaigrissement (AEG), fièvre > 38 °C (+8 jours), [sueurs nocturnes]({{% relref "sueurs-nocturnes.md" %}}) profuses
   - Prurit
   - Autres symptômes par envahissement organique  
     Digestif (syndrome occlusif), ophtalmique (conjonctive, exophtalmie, trouble oculomoteur), cutané (nodules, plaques, érythrodermie), ORL ([dysphonie]({{% relref "dysphonie.md" %}}), [dysphagie]({{% relref "dysphagie.md" %}}), otalgie), masse testiculaire, neurologique.

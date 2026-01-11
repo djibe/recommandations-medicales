@@ -461,7 +461,7 @@ Suivi rapproché durant le traitement.
 > -- *AFEF 2021 et SFA 2015*
 {{%/info%}}
 
-Les **dépressions** sont fréquentes (80%) au cours du sevrage de l'alcool, mais seules 15 % persistent à son issue. Recontrôler à 2-4 semaines après le début du sevrage avant d'introduire un antidépresseur.
+Les **dépressions** sont fréquentes (80 %) au cours du sevrage de l'alcool, mais seules 15 % persistent à son issue. Recontrôler à 2-4 semaines après le début du sevrage avant d'introduire un antidépresseur.
 
 ##### Signes et symptômes du sevrage alcoolique
 
@@ -471,7 +471,7 @@ Troubles subjectifs
 : anxiété, agitation, irritabilité, insomnie, cauchemars
 
 Troubles neurovégétatifs
-: sueurs, tremblements, tachycardie, hypertension artérielle
+: [sueurs]({{% relref "sueurs-nocturnes.md" %}}), tremblements, tachycardie, hypertension artérielle
 
 Troubles digestifs
 : anorexie, nausées, vomissements, diarrhée

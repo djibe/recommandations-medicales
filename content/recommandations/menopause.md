@@ -192,7 +192,7 @@ Diagnostics à évoquer devant des sueurs et des cycles irréguliers:
 - Syndrome climatérique
   - Bouffées vasomotrices (BVM, 80%)  
     Elles durent 5 à 7 ans (voire +15 ans).
-  - [Sueurs nocturnes](/tags/sueurs-nocturnes/)
+  - [Sueurs nocturnes]({{% relref "sueurs-nocturnes.md" %}})
   - Troubles du sommeil
   - Troubles de l'humeur
   - Douleurs ostéoarticulaires

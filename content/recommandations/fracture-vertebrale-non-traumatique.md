@@ -169,7 +169,7 @@ Indications à l'IRM du rachis complet pour fracture vertébrale non traumatique
 - Douleurs inflammatoires
 - Douleurs sévères ou résistantes
 - AEG, fièvre
-- Sueurs nocturnes
+- [Sueurs nocturnes]({{% relref "sueurs-nocturnes.md" %}})
 - Déficit neurologique (en urgence)
 
 ### Biopsie osseuse

@@ -158,9 +158,9 @@ Autres diagnostics à rechercher devant un épisode de douleurs thoraciques:
 - Circonstances de déclenchement
 - Caractères du syndrome coronarien aigu
   - Asymptomatique ou atypique (femme, sujet âgé, diabète, insuffisance rénale, démence)
-  - Signes généraux: fatigue, pâleur, sueurs, nausées, gêne épigastrique, anxiété
+  - Signes généraux: fatigue, pâleur, [sueurs]({{% relref "sueurs-nocturnes.md" %}}), nausées, gêne épigastrique, anxiété
   - Inconfort thoracique: douleur, oppression, tension, lourdeur, brûlure
-  - **Douleurs thoraciques** (80%) prolongées (> 15 min) ou récidivant dans l'heure, de novo ou aggravation  
+  - **Douleurs thoraciques** (80 %) prolongées (> 15 min) ou récidivant dans l'heure, de novo ou aggravation  
     Typiquement rétrosternale en barre, constrictive (brûlure ou pesanteur) avec irradiation dans le(s) bras et la mâchoire.
   - Dyspnée
   - Palpitations, malaise, syncope

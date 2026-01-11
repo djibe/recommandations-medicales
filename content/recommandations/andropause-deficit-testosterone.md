@@ -125,7 +125,7 @@ L'andropause est un diagnostic clinico-biologique et l'installation des symptôm
 Signes et symptômes d'andropause à rechercher à l'examen:
 
 - Antécédents  
-  **Diabète type 2** (50%), **obésité** (baisse de 25 % de la testostéronémie), dépression, [infertilité]({{% relref "infertilite-couple.md" %}}), testiculaires ([orchite]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}}), micropénis, hypospadias, [cryptorchidie]({{% relref "cryptorchidie.md" %}})), [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), cancer, VIH, [hémochromatose]({{% relref "hemochromatose.md" %}}), [dépression]({{% relref "depression.md" %}}), fracture osseuse, insuffisance rénale, cirrhose
+  **Diabète type 2** (50 %), **obésité** (baisse de 25 % de la testostéronémie), dépression, [infertilité]({{% relref "infertilite-couple.md" %}}), testiculaires ([orchite]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}}), micropénis, hypospadias, [cryptorchidie]({{% relref "cryptorchidie.md" %}})), [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), cancer, VIH, [hémochromatose]({{% relref "hemochromatose.md" %}}), [dépression]({{% relref "depression.md" %}}), fracture osseuse, insuffisance rénale, cirrhose
 - Traitements en cours: androgènes, opioïdes, [corticoïdes]({{% relref "corticoides.md" %}}), finastéride, spironolactone, éplérénone
 - Traitements reçus: colchicine, kétoconazole, évérolimus, radiothérapie, chimiothérapie
 - Toxiques: [alcool]({{% relref "sevrage-alcool.md" %}}), tabac
@@ -138,7 +138,7 @@ Signes et symptômes d'andropause à rechercher à l'examen:
 - Signes généraux: **fatigue**, **amyotrophie**
 - Troubles vasomoteurs
   - Bouffées de chaleur (origine testiculaire rapidement progressive)
-  - Sudation excessive
+  - [Sueurs nocturnes]({{% relref "sueurs-nocturnes.md" %}})
   - Troubles du sommeil
 - Troubles neuropsychologiques
   - Troubles mnésiques

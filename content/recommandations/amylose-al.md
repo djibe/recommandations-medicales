@@ -65,7 +65,7 @@ Les signes et symptômes de l'amylose AL sont aspécifiques.
 - Neuropathie périphérique  
   Douleurs et paresthésies des extrémités.
 - Symptômes végétatifs  
-  Diarrhées, sueurs, [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}), [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}).
+  Diarrhées, [sueurs]({{% relref "sueurs-nocturnes.md" %}}), [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}), [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}).
 - Autres signes d'infiltration organique  
   [Syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}}), goitre, infiltration musculaire et tendineuse (signe de l'épaulette), hématomes (déficit en facteur X).
 - Signes évocateurs (plus rares): **macroglossie**, **ecchymoses périorbitaires**.

@@ -103,7 +103,7 @@ Les lymphopénies peuvent être classées selon leur mécanisme supposé:
   - AEG
   - Syndrome infectieux aigu (viral ou bactérien) ou prolongé ([VIH]({{% relref "vih-sida.md" %}}), [tuberculose]({{% relref "tuberculose.md" %}}), hémopathie)
   - Douleurs
-  - Sueurs profuses
+  - [Sueurs profuses]({{% relref "sueurs-nocturnes.md" %}})
   - Symptômes chroniques
 
 ### Examen clinique

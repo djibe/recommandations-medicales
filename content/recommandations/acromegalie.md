@@ -70,7 +70,7 @@ Adresser au [centre de compétence ou de référence HYPO](https://www.firendo.f
   - Troubles visuels
 - Signes généraux
   - Fatigue, syndrome dépressif
-  - [Sueurs](/tags/sueurs-nocturnes/) (nocturnes malodorantes ++)
+  - [Sueurs]({{% relref "sueurs-nocturnes.md" %}}) (nocturnes malodorantes ++)
   - Paresthésies des mains avec [syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}})
   - Arthralgies
 - Complications de la maladie
