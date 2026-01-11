@@ -165,19 +165,19 @@ Selon les *Annales de Dermato*, intérêt de rechercher systématiquement:
 
 ### Traitement de la rosacée papulopustuleuse (sous-type II)
 
-[Métronidazole 0,75 %](https://base-donnees-publique.medicaments.gouv.fr/medicament/60647323/extrait#tab-rcp) gel x 2/j pendant 3 mois
+Métronidazole 0,75 % gel x 2/j pendant 3 mois
 {.alert .alert-info}
 
-- Première intention: métronidazole
-- 2^e^ intention: acide azélaïque 15 % gel (Finacéa®) x 2/j pendant 3 mois
+- [Métronidazole 0,75 %](https://base-donnees-publique.medicaments.gouv.fr/medicament/60647323/extrait#tab-rcp) gel x 2/j pendant 3 mois
+- 2^e^ ligne: acide azélaïque 15 % gel ([Finacéa®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62749394/extrait#tab-rcp)) x 2/j pendant 3 mois
 
 Autres traitements:
 
 - [Ivermectine 1 % crème](https://base-donnees-publique.medicaments.gouv.fr/medicament/69444281/extrait#tab-rcp) x 1/j pendant 3 mois ou orale
-- Adapalène gel, peroxyde de benzoyle 5%, érythromycine 2 % gel (voir [Acné]({{% relref "acne.md" %}}))
+- Adapalène gel, peroxyde de benzoyle 5 %, érythromycine 2 % gel (voir [Acné]({{% relref "acne.md" %}}))
 - Zinc oral 100 mg/j
 - Tétracycline orale
-- Spécialisés: laser, pimecrolimus, dapsone crème, minocycline crème (non disponibles en France), rétinoïdes, trétinoïne, isotrétinoïne
+- Traitements spécialisés: laser, pimécrolimus, dapsone crème, minocycline crème (non disponibles en France), rétinoïdes, trétinoïne, isotrétinoïne
 
 ### Traitement de la rosacée avec papulopustules diffuses
 
