@@ -222,6 +222,11 @@ mark {
   }
 }
 
+figure,
+iframe {
+  max-width: 100%;
+}
+
 .figure,
 .figure-chart {
   display: flex;
