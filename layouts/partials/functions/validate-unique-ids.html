@@ -1,3 +1,12 @@
+{{/* Check for MISSING IDs in 'recommandations' content type only */}}
+{{ $recomms := where site.RegularPages "Type" "recommandations" }}
+
+{{ range $recomms }}
+  {{ if not .Params.id }}
+    {{ errorf "Missing 'id' parameter in recommendation: %s" .File.Path }}
+  {{ end }}
+{{ end }}
+
 {{/* Select all regular pages that actually have an 'id' param set */}}
 {{ $pagesWithId := where site.RegularPages "Params.id" "ne" nil }}
 
