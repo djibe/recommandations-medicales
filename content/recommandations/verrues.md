@@ -3,6 +3,7 @@ id = "dc840261-4411-4ca4-bc1c-c7aba104da5b"
 title = "Verrues"
 prefix = "les "
 noindex = true
+noSApi = true
 description = "Recommandations pour le diagnostic et la prise en charge des verrues du sujet immunocompétent"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

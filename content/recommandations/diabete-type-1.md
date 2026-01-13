@@ -3,6 +3,7 @@ id = "0190e8c0-1773-7223-8d76-cc3591ff159a"
 title = "Diabète de type 1 (DT1)"
 prefix = "le "
 noindex = true
+noSApi = true
 synonyms = []
 description = "Recommandations pour le diagnostic, le suivi et la prise en charge du diabète type 1. Objectifs glycémiques et capteur, hypoglycémies et activité physique"
 auteurs = ["Jean-Baptiste FRON"]

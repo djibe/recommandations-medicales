@@ -4,6 +4,7 @@ title = "Récapitulatif des cibles de marqueurs biologiques et d'apports recomma
 prefix = "le "
 titleSeo = "Cibles biologiques de nutriments"
 noindex = true
+noSApi = true
 description = "Cibles biologiques à obtenir pour une prévention primaire ou secondaire optimale"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]

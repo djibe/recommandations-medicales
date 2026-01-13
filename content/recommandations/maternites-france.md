@@ -1,7 +1,8 @@
 +++
-id = ""
+id = "3a2b9192-bb1b-43a9-a5da-1f687cd23e22"
 title = "Liste des maternités de France"
 prefix = ""
+noSApi = true
 noSearchContent = true
 longHtml = true
 description = "Liste des maternités de France avec leur niveau (1, 2a, 2b ou 3), leur activité (accouchements annuels), nombre de salles de travail et d'hospitalisation"

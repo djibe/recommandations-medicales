@@ -3,6 +3,7 @@ id = "03ab8f71-f4d5-4f0f-b55c-518abe9d38ca"
 title = "Maladie de Behçet"
 prefix = "l'"
 noindex = true
+noSApi = true
 noSearchContent = true
 description = "Recommandations pour le diagnostic et la prise en charge de la maladie de Behçet"
 synonyms = []

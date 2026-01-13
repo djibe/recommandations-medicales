@@ -3,6 +3,7 @@ id = "0195b589-c739-7e48-8fcd-3cc98fef3de1"
 title = "Trouble obsessionnel compulsif (TOC)"
 prefix = "le "
 noindex = true
+noSApi = true
 noSearchContent = true
 description = "Recommandations pour le diagnostic et la prise en charge du trouble obsessionnel compulsif (TOC)"
 synonyms = []

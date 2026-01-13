@@ -3,6 +3,7 @@ id = "0195b58c-6f51-775b-b645-c1338b6e06c9"
 title = "Schizophrénie"
 prefix = "la "
 noindex = true
+noSApi = true
 noSearchContent = true
 description = "Recommandations pour le diagnostic et la prise en charge de la schizophrénie"
 synonyms = []

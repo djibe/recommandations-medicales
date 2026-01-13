@@ -3,6 +3,7 @@ id = "0190e8d6-f81d-7408-8224-bab637a1d2fd"
 title = "Violences faites aux femmes"
 prefix = "les "
 noindex = true
+noSApi = true
 description = "Recommandations pour le dépistage des violences faites aux femmes. Dépistage WAST, information où porter plainte, numéros et où se rendre pour être en sécurité"
 synonyms = ["Violences conjugales"]
 auteurs = ["Jean-Baptiste FRON"]

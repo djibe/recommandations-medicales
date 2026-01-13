@@ -3,6 +3,7 @@ id = "2b404495-70cb-49d0-8c3a-25aed834f9e5"
 title = "Maladie de Still"
 prefix = "l'"
 noindex = true
+noSApi = true
 noSearchContent = true
 description = "Recommandations pour le diagnostic et la prise en charge de la maladie de Still"
 synonyms = []

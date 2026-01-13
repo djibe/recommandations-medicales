@@ -4,6 +4,7 @@ title = "Fièvre Méditerranéenne Familiale (FMF)"
 titleSeo = "Fièvre Méditerranéenne Familiale"
 prefix = "la "
 noindex = true
+noSApi = true
 noSearchContent = true
 description = "Recommandations pour le diagnostic et la prise en charge de la Fièvre Méditerranéenne Familiale (FMF)"
 synonyms = ["Maladie périodique"]

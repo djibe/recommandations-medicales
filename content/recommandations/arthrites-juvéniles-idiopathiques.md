@@ -4,6 +4,7 @@ title = "Arthrites juvéniles idiopathiques (AJI)"
 titleSeo = "Arthrites juvéniles idiopathiques"
 prefix = "les "
 noindex = true
+noSApi = true
 noSearchContent = true
 description = "Recommandations pour le diagnostic et la prise en charge des Arthrites juvéniles idiopathiques (AJI)"
 synonyms = []

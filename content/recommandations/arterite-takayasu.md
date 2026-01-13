@@ -3,6 +3,7 @@ id = "387a2513-3a1b-4c78-9783-95d0b0e48e0e"
 title = "Artérite de Takayasu"
 prefix = "l'"
 noindex = true
+noSApi = true
 noSearchContent = true
 description = "Recommandations pour le diagnostic et la prise en charge de l'artérite de Takayasu"
 synonyms = []

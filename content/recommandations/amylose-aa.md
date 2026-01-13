@@ -3,6 +3,7 @@ id = "92476041-9c44-442e-b11f-d5d67e72dfd2"
 title = "Amylose AA"
 prefix = "l'"
 noindex = true
+noSApi = true
 noSearchContent = true
 description = "Recommandations pour le diagnostic et la prise en charge de l'amylose AA"
 synonyms = []
