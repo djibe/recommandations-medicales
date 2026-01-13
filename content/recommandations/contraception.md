@@ -175,7 +175,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 | Type        | EE (µg)  | Progestatif (mg) | Spécialités     |
 |-------------|---------:|------------------|-----------------|
 | 2G          | 30/40    | LNG 0,15-0,2     | Adepal, Pacilia |
-| 2G          | 30/40/30 | LNG 0,05-0,075-0,125 | Trinordiol, Daily, Evanecia |
+| 2G          | 30/40/30 | LNG 0,05-0,075-0,125 | Trinordiol, Daily |
 | 2G          | 30       | LNG 0,15         | gén, Ludeal, Milevoni 150, Minidril, Optidril 28j, Qiade |
 | 2G          | 20       | LNG 0,1          | Asterluna/continu, gén, Leeloo/continu, Lolistrel/continu, Lovavulo, Optilova 28j, Milevoni 100 |
 | 3G          | 35       | Norgestimate 0,25 | NR: Femi, Naravela, Optikinzy 28j |

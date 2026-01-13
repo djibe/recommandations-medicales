@@ -18,6 +18,7 @@ image = true
 imageSrc = "Acné inflammatoire du visage. profeticsbeta sur Foter.com / CC BY-NC-SA"
 flowchart = true
 todo = "rankok | réécriture, gluconate de zinc, outil"
+modele = true
 +++
 
 {{%article-summary%}}
@@ -358,3 +359,29 @@ Mots-clé: acné, acnée, comédons
 {{< scores/phq4 >}}
 
 {{% /modal %}}
+{{% modele %}}
+
+Acné rétentionnelle
+{.typography-overline}
+
+adapalène 0,1 % crème, 1 application par jour pendant 3 mois
+
+---
+
+Acné inflammatoire
+{.typography-overline}
+
+peroxyde de benzoyle 5 %, 1 application par jour pendant 4 à 6 semaines
+
+Ensuite, appliquer au long cours 2 à 3 fois par semaine
+
+---
+
+Acné étendue
+{.typography-overline}
+
+Ajouter: doxycycline 100 mg/j pendant 3 mois (maximum)
+
+Acné sévère: avis dermatologique
+
+{{% /modele %}}

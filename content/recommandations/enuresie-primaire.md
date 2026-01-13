@@ -2,7 +2,6 @@
 id = "0190e8c2-72e9-78ca-893b-7db2deed4e72"
 title = "Énurésie primaire"
 prefix = "l'"
-noindex = true
 description = "Recommandations pour la prise en charge de l'énurésie. Bilan de première intention, calendrier mictionnel, mesures hygiéno-diétetiques et avis urologique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
