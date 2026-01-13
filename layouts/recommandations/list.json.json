@@ -1,22 +1,24 @@
-{{ if hugo.IsProduction }}[
-{{- range $index, $value := where site.RegularPages "Section" "recommandations" -}}
-  {{ if and ($index) (ne .Params.draft "True") }}, {{ end }}
-  {
-    "id": "{{ .Params.id }}",
-    "url": "{{ .RelPermalink }}",
-    "permalink" : "{{ .Permalink }}",
-    "title": "{{ .Title }}",
-    "description": "{{ .Params.description }}",
-    "specialites": "{{ delimit .Params.specialites ", " }}",
-    "annees": "{{ .Params.annees }}",
-    "sources": "{{ delimit .Params.sources ", " }}",
-    "reviewer": "{{ with .Params.relecteur }}{{ . }}{{ end }}",
-    "tags": "{{ delimit .Params.tags ", " }}",
-    "synonyms": {{ with .Params.synonyms }}{{ printf "%s" ( . | jsonify ) }}{{ else }}[]{{ end }},
-    "icd10": {{ with .Params.icd10 }}{{ printf "%s" ( . | jsonify ) }}{{ else }}[]{{ end }},
-    "date": "{{ .Date }}",
-    "lastmod": "{{ .Lastmod }}",
-    "contentHTML": {{ .Content | safeHTML | jsonify }}
-  }
-{{- end -}}
-]{{ end }}
+{{ if hugo.IsProduction }}[ {{- $i := 0 -}}
+  {{- range where .Site.RegularPages "Section" "recommandations" -}}
+    {{- if and (not .Params.noSApi) -}}
+      {{- if gt $i 0 }},{{ end -}}
+      {
+        "id": "{{ .Params.id }}",
+        "url": "{{ .RelPermalink }}",
+        "permalink" : "{{ .Permalink }}",
+        "title": "{{ .Title }}",
+        "description": "{{ .Params.description }}",
+        "specialites": "{{ delimit .Params.specialites ", " }}",
+        "annees": "{{ .Params.annees }}",
+        "sources": "{{ delimit .Params.sources ", " }}",
+        "reviewer": "{{ with .Params.relecteur }}{{ . }}{{ end }}",
+        "tags": "{{ delimit .Params.tags ", " }}",
+        "synonyms": {{ with .Params.synonyms }}{{ printf "%s" ( . | jsonify ) }}{{ else }}[]{{ end }},
+        "icd10": {{ with .Params.icd10 }}{{ printf "%s" ( . | jsonify ) }}{{ else }}[]{{ end }},
+        "date": "{{ .Date }}",
+        "lastmod": "{{ .Lastmod }}",
+        "contentHTML": {{ .Content | safeHTML | jsonify }}
+      }
+      {{- $i = add $i 1 -}}
+    {{- end -}}
+  {{- end -}} ]{{ end }}
