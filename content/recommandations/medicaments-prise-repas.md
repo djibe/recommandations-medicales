@@ -4,6 +4,7 @@ title = "Moment de prise des médicaments par rapport aux repas"
 titleSeo = "Moment prise médicament et repas"
 prefix = "le "
 noSearchContent = true
+noSApi = true
 longHtml = true
 description = "Recommandations pour le moment de prise des médicaments par rapport au repas: médicaments devant être pris à jeun (avant ou après) ou en mangeant (pendant le repas)"
 synonyms = []

@@ -4,6 +4,7 @@ title = "Médicaments écrasables: ouvrir et écraser des comprimés et gélules
 titleSeo = "Médicaments pouvant être écrasés"
 prefix = "les "
 noSearchContent = true
+noSApi = true
 description = "Liste SFPC et Omédit Normandie des médicaments, comprimés et gélules pouvant être ouverts et écrasés, leurs conditions d'administration et informations complémentaires"
 longHtml = true
 synonyms = []
