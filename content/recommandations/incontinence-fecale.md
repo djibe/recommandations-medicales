@@ -153,7 +153,7 @@ graph TB
 - [Bordeianou L, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Fecal Incontinence. Diseases of the Colon & Rectum. 2023.](https://journals.lww.com/dcrjournal/Fulltext/2023/05000/The_American_Society_of_Colon_and_Rectal_Surgeons.6.aspx)
 - [Assmann S, et al. Guideline for the diagnosis and treatment of Faecal Incontinence - A UEG/ESCP/ESNM/ESPCG collaboration. United European Gastroenterol J. 2022.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.12213)
 - [Paquette I, et al. The American Society of Colon and Rectal Surgeons' Clinical Practice Guideline for the Treatment of Fecal Incontinence. Diseases of the Colon & Rectum. 2015.](https://journals.lww.com/dcrjournal/Fulltext/2015/07000/The_American_Society_of_Colon_and_Rectal_Surgeons_.2.aspx)
-- [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Post%20partum/Postpartum%202015-RPC.pdf?x60010)
+- [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015. (PDF)](https://cngof.fr/app/uploads/2025/11/Postpartum202015-RPC.pdf?x26468)
 - [SNFCP. Traitements de l'incontinence fécale. Recommandations. 2012. (PDF)](https://www.snfcp.org/wp-content/uploads/2017/Recommandations/Recommandation-IA-2013.pdf)
 - [Rullier E, et al. Validation of the French version of the Fecal Incontinence Quality-of-Life (FIQL) scale. Gastroenterol Clin Biol. 2004.](https://pubmed.ncbi.nlm.nih.gov/15243389/)
 

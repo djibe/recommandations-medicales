@@ -214,7 +214,7 @@ Prise en charge de l'endométrite du post-partum en l'absence de signes de gravi
 - [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-162.pdf)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Infections sexuellement transmissibles (IST). Gynécologie obstétrique Réussir son DFASM. 2021.
 - {{< references/spilf-2020 >}}
-- [Graesslin O, et al; CNGOF, SPILF. Les infections génitales hautes. Recommandations pour la pratique clinique. 2018. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Gyn%C3%A9cologie/Infections/Infections_genitales%202018.pdf?x60010)
+- [Graesslin O, et al; CNGOF, SPILF. Les infections génitales hautes. Recommandations pour la pratique clinique. 2018. (PDF)](https://cngof.fr/app/uploads/2025/11/Infections_genitales202018.pdf?x26468)
 - [Alcaraz I, et al; SFD. Mycoplasmes génitaux. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/mycoplasmes-genitaux-6e4ae5d4b4748a07c993deaa05dbbb86.pdf)
 - [Alcaraz I, et al; SFD. Trichomonose. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/trichomonose-c45b526c66838139b708515093a8be44.pdf)
 - [Vexiau-Robert D, et al; SFD. Leucorrhées. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/leucorrhees-c145eb55e49c2c5c6b7aa0e28b8a77ca.pdf)

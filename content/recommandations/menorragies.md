@@ -271,7 +271,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Brun JL, et al. Prise en charge des ménorragies : recommandations pour la pratique clinique du Collège national des gynécologues et obstétriciens français (CNGOF). Gynécologie Obstétrique Fertilité & Sénologie. 2022.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Gyn%C3%A9cologie/Contraception%20M%C3%A9nopause%20Orthog%C3%A9nie/Menorragies%202022-RPC.pdf?x60010)
+- [Brun JL, et al. Prise en charge des ménorragies : recommandations pour la pratique clinique du Collège national des gynécologues et obstétriciens français (CNGOF). Gynécologie Obstétrique Fertilité & Sénologie. 2022.](https://cngof.fr/app/uploads/2025/11/Menorragies202022-RPC.pdf?x26468)
 - [ANSM. Troubles menstruels après la vaccination contre le Covid-19 : état des connaissances et conseils aux femmes concernées. 21/07/2022.](https://ansm.sante.fr/actualites/troubles-menstruels-apres-la-vaccination-contre-le-covid-19-etat-des-connaissances-et-conseils-aux-femmes-concernees)
 - Prescrire Redaction. Fibromyome utérin. Premiers Choix Prescrire. Rev Prescrire. 2022.
 

@@ -292,7 +292,7 @@ graph TB
 - [Boedt T, et al. Preconception lifestyle advice for people with infertility. Cochrane Database of Systematic Reviews. 2021.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008189.pub3/full/fr)
 - [Collège Français des Enseignants en Urologie (CFEU). Stérilité du couple : conduite de la première consultation Item 38. Référentiel du collège d'urologie 5ème édition. 2021.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/chapitre-02-sterilite-du-couple-conduite-de-la-premiere-consultation/)
 - [Wang R, et al. Interventions for unexplained infertility: a systematic review and network meta‐analysis. Cochrane Database of Systematic Reviews. 2019.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012692.pub2/full/fr)
-- [Hédon B, et al; CNGOF. La prise en charge du couple infertile. Recommandations pour la pratique clinique. 2010. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Contraception%20et%20Sant%C3%A9%20Reproductive/Infertilit%C3%A9%202010-RPC.pdf?x60010)
+- [Hédon B, et al; CNGOF. La prise en charge du couple infertile. Recommandations pour la pratique clinique. 2010. (PDF)](https://cngof.fr/app/uploads/2025/11/InfertilitC3A9202010-RPC.pdf?x26468)
 - [Agence de la Biomédecine. Assistance médicale à la procréation - Principaux chiffres de l'activité.](https://rams.agence-biomedecine.fr/principaux-chiffres-de-lactivite)
 
 ### Bibliographie en attente

@@ -443,7 +443,7 @@ graph TB
 
 - [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [Taux de participation au programme de dépistage organisé du cancer du sein 2022-2023 et évolution depuis 2005. Santé Publique France. 2024.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-sein/articles/taux-de-participation-au-programme-de-depistage-organise-du-cancer-du-sein-2022-2023-et-evolution-depuis-2005)
-- [Lavoué V, et al. Recommandations pour la pratique clinique du CNGOF. Place de l'auto-examen des seins dans les stratégies de dépistage [Place of breast self-examination in screening strategies. French College of Gynecologists and Obstetricians (CNGOF) recommendations for clinical practice]. Gynecol Obstet Fertil Senol. 2023.](https://cngof.fr/rpc/) (payant)
+- [Lavoué V, et al. Recommandations pour la pratique clinique du CNGOF. Place de l'auto-examen des seins dans les stratégies de dépistage [Place of breast self-examination in screening strategies. French College of Gynecologists and Obstetricians (CNGOF) recommendations for clinical practice]. Gynecol Obstet Fertil Senol. 2023. (PDF)](https://cngof.fr/app/uploads/2025/11/Auto-examen20des20seins202023-RPC-20stratC3A9gies20de20dC3A9pistage.pdf?x26468)
 - {{< references/beh-cancers-incidence >}}
 - {{< references/inca-cancers-mortalite >}}
 - [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. 2022.](https://www.cancer.fr/professionnels-de-sante/prevention-et-depistages/depistage-et-detection-precoce/depistage-du-cancer-du-sein/orienter-vos-patientes)

@@ -17,7 +17,7 @@ sctid = "398254007"
 icd10 = ["O14", "O14.9"]
 image = true
 imageSrc = "Découverte d'une vascularite placentaire après délivrance dans les suites d'une pré-éclampsie. Nephron, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "rankok, RELECTURE, weeks of gestation = SA ou SG ?"
+todo = "rankok | RELECTURE, weeks of gestation = SA ou SG ?"
 flowchart = true
 +++
 
@@ -237,13 +237,16 @@ graph TB
 
 - [US Preventive Services Task Force. Screening for Hypertensive Disorders of Pregnancy: US Preventive Services Task Force Final Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2809680)
 - {{< references/esh-2023 >}}
-- [Bonnet MP, et al. Republication de : recommandations formalisées d'experts. Prise en charge de la patiente avec une pré-éclampsie sévère - RFE communes Société française d'anesthésie-réanimation (SFAR) - Collège national des gynécologues et obstétriciens français (CGNOF). Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Complications%20de%20la%20grossesse/Pr%C3%A9%20%C3%A9clampsie%202022-severe%20RFE.pdf?x60010)
-- [Bagou G et al; CNGOF, SFMU, SFAR. Prise en charge des urgences obstétricales en médecine d'urgence. Recommandations de Pratiques Professionnelles. 2022.](https://sfar.org/prise-en-charge-des-urgences-obstetricales-en-medecine-durgence/)
+- [Bonnet MP, et al. Republication de : recommandations formalisées d'experts. Prise en charge de la patiente avec une pré-éclampsie sévère - RFE communes Société française d'anesthésie-réanimation (SFAR) - Collège national des gynécologues et obstétriciens français (CGNOF). Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](https://cngof.fr/app/uploads/2025/11/PrC3A920C3A9clampsie202022-severe20RFE.pdf?x26468)
+- [Bagou G, et al; CNGOF, SFMU, SFAR. Prise en charge des urgences obstétricales en médecine d'urgence. Recommandations de Pratiques Professionnelles. 2022.](https://sfar.org/prise-en-charge-des-urgences-obstetricales-en-medecine-durgence/)
 - [US Preventive Services Task Force. Aspirin Use to Prevent Preeclampsia and Related Morbidity and Mortality: US Preventive Services Task Force Recommendation Statement. JAMA. 2021.](https://jamanetwork.com/journals/jama/fullarticle/2784499)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Item 344 Prise en charge d'une patiente atteinte de prééclampsie. Gynécologie obstétrique Réussir son DFASM. 2021.
-- [Bonnet MP et al; SFAR, CNGOF. Prise en charge de la patiente avec une pré-éclampsie sévère. Recommandations Formalisées d'Experts. 2020.](https://cngof.fr/app/pdf/RPC//RPC%20DU%20CNGOF/Obst%C3%A9trique/Complications%20de%20la%20grossesse/Pr%C3%A9%20%C3%A9clampsie%202020%20RFE.pdf?x60010)
 - [CNGOF. Dépistage de la pré-eclampsie. Juin 2020. (PDF)](https://cngof.fr/app/uploads/2023/06/Depistage-pre-eclampsie-CNGOF-Juin-2020.pdf?x53169)
 - [Inserm. Pré-éclampsie. 30/11/2018.](https://www.inserm.fr/dossier/pre-eclampsie/)
 - [SFHTA. HTA et grossesse. Consensus d'experts. 2015. (PDF)](https://sfhta.eu/wp-content/uploads/2017/03/Consensus-dexperts-HTA-et-Grossesse-de-la-SFHTA-Dec.-2015.pdf)
+
+### Bibliographie en attente
+
+[Sentilhes L, et al. La pré-éclampsie : recommandations pour la pratique clinique du Collège national des gynécologues obstétriciens français. Gynecol Obstet Fertil Senol. 2024. (PDF)](https://cngof.fr/app/uploads/2025/11/PrC3A920C3A9clampsie2020202320RPC.pdf?x26468)
 
 {{%/sources%}}
