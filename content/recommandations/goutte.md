@@ -274,7 +274,7 @@ Prévention de crise par colchicine 0,5 à 1 mg/j pendant les 3 à 6 premiers mo
 
 L'*ACR* recommande la recherche d'*HLA-B*5801* pour les **personnes originaires d'Asie du Sud-Est** (**Vietnam**, Chine, Thaïlande, Corée) et **afro-américains** par sur-risque de toxidermie (x3).
 
-La recherche d'HLA n'étant pas remboursée en France (100€), il est prudent de démarrer à 50 mg avec paliers de 50 mg pour ces personnes à risque de toxidermie.
+La recherche d'HLA n'étant pas remboursée en France (100€), il est prudent de démarrer à 50 mg/j avec paliers de 50 mg pour ces personnes à risque de toxidermie.
 
 #### Traitement de fond privilégié selon la fonction rénale
 
@@ -374,23 +374,22 @@ Corticoïdes = 30 mg/j prednisone 3-5 jours.
 
 {{< mermaid title="Conduite à tenir pour le traitement hypouricémiant de fond du patient goutteux. Dr JB Fron d'après SFR et ACR 2020" >}}
 graph TB
-  diagnostic[Diagnostic de goutte] --> education("<b>Éducation</b><br>—<br>- Traitement sur soi<br>- RHD") --> criteres("<b>Critères de traitement</b><br>—<br>- SFRhumato: dès la 1<sup>re</sup> crise<br>- ACR:<br>≥ 1 tophus, lésions radiologiques,<br>≥ 2 crises/an,<br>critères annexes (Voir ttt fond)<br>- KDIGO: MRC")
+  diagnostic[Diagnostic de goutte] --> education("<b>Éducation</b><br>—<br>- Traitement sur soi<br>- RHD") --> critères("<b>Critères de traitement</b><br>—<br>- SFRhumato: dès la 1<sup>re</sup> crise<br>- ACR:<br>≥ 1 tophus, lésions radiologiques,<br>≥ 2 crises/an,<br>critères annexes (Voir ttt fond)<br>- KDIGO: MRC")
   style diagnostic stroke:#4150f5, stroke-width:1px
-    criteres -- Oui --> clairance(Évaluation clairance et<br>cardiovasculaire)
+    critères -- Oui --> clairance(Évaluation clairance et<br>cardiovasculaire)
       clairance -- Sans comorbidités --> allopurinol("Allopurinol 50<br>à 100 mg/j<br>(demi-dose si Asiat.)") --> prophylaxie("Associer la prophylaxie:<br>colchicine 0,5 à 1 mg/j ≥ 3-6 mois<br>(prednisone si insuff. rénale)")
       clairance -- IRC modérée --> ircmoderee(Allopurinol 50 mg<br>ou fébuxostat 40 mg x 2/j) --> prophylaxie
       clairance -- IRC sévère --> ircsevere(Fébuxostat 40 mg x 2/j) --> prophylaxie
       clairance -- MCV sévère --> mcv(<b>Pas de fébuxostat</b>)
         prophylaxie -- Titration --> titration("<b>Augmentation par paliers:</b><br>- Allopurinol: 50-100 mg/j (max 900)<br>- Fébuxostat: 40 mg/j (max 120)")
-          titration -- 2 à 4 semaines --> uricemie(Contrôle de l'uricémie<br>Cible &lt; 50 mg/L) --> titration
-            uricemie -- "&lt; 50 mg/L" --> cible(<b>Cible atteinte</b><br>Poursuite à vie) --> surv("Surveillance uricémie 1-2/an et <br>adaptation du traitement de fond")
+          titration -- 2 à 4 semaines --> uricémie("Contrôle de l'uricémie<br>Cible &lt; 50 mg/L<br>(300 µmol/L)") --> titration
+            uricémie -- "&lt; 50 mg/L" --> cible(<b>Cible atteinte</b><br>Poursuite à vie) --> surv("Surveillance uricémie 1-2/an et <br>adaptation du traitement de fond")
               surv -. Envisager l'arrêt .-> arret("Selon l'ACR:<br>Envisager arrêt ou réduction<br>après 1 an sans crise<br>et absence de tophi")
-            uricemie -- "&lt; 60 mg/L" --> presque("- Maintenir la dose à vie<br>- Envisager d'autres mesures<br>hypouricémiantes") --> surv
-            uricemie -- "≥ 60 mg/L" --> hors("- Maintenir doses maximales<br>- Considérer uricosuriques") --> surv
+            uricémie -- "&lt; 60 mg/L" --> presque("- Maintenir la dose à vie<br>- Envisager d'autres mesures<br>hypouricémiantes") --> surv
+            uricémie -- "≥ 60 mg/L" --> hors("- Maintenir doses maximales<br>- Considérer uricosuriques") --> surv
 {{< /mermaid >}}
 
-> **MCV** = Maladie cardiovasculaire  
-Uricémie cible < 50 mg/L (300 µmol/L)
+> **MCV** = Maladie cardiovasculaire
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

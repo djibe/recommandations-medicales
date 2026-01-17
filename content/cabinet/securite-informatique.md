@@ -21,6 +21,9 @@ Le médecin travaille aujourd'hui en permanence avec un ordinateur, traitant tou
 
 ## Installer des logiciels
 
+> [!INFO]
+> Pour vérifier un lien, utiliser le [vérificateur de lien d'Orange](https://cybersecurite.orange.fr/).
+
 Le téléchargement et l'installation de logiciels est l'une des sources d'introduction de virus. L'outil [UnigetUI](https://www.marticliment.com/wingetui/) ([téléchargement](https://github.com/marticliment/UniGetUI/releases/latest/download/UniGetUI.Installer.exe)) permet d'installer des logiciels depuis des dépôts semblables à l'*AppStore* et le *Google Play Store*, évitant de rapatrier un fichier vérolé depuis un site inconnu.
 
 Les logiciels présentés plus bas peuvent être installés avec **UnigetUI**.
