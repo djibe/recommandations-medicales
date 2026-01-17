@@ -1,4 +1,4 @@
-import { OramaCloud } from 'https://cdn.jsdelivr.net/npm/@orama/core@1.2/+esm';
+import { OramaClient } from 'https://esm.run/@oramacloud/client@2.1.4';
 
 let client;
 
@@ -8,8 +8,8 @@ async function initializeClient() {
   const oramaApiKey = json.api;
 
   // Initialisation du client avec la clé API récupérée
-  client = new OramaCloud({
-    projectId: '4b046e11-f9a2-4039-83dd-22930b99fa7f',
+  client = new OramaClient({
+    endpoint: 'https://cloud.orama.run/v1/indexes/recomed-dl104p',
     api_key: oramaApiKey
   });
 }
