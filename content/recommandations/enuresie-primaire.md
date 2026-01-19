@@ -208,7 +208,7 @@ Recommandations pour le traitement médical de l'énurésie:
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'énurésie primaire" "show" %}}
 
-{{< mermaid title="Prise en charge de l'énurésie primaire par le médecin généraliste. Dr JB Fron d'après AFU et SFP 2010" >}}
+{{< mermaid title="Prise en charge de l'énurésie primaire par le médecin généraliste. Dr JB Fron d'après AFU et SFP" >}}
 graph TB
   énurésie["<b>Énurésie primaire isolée (EnPI)</b><br>—<br>Incontinence urinaire intermittente<br>pendant le sommeil<br>après l'âge de 5 ans"] --> clinique("<b>Clinique</b><br>—<br>- Calendrier mictionnel<br>- Intensité<br>- Tolérance, vécu<br>- Retentissement<br>- Examen clinique<br>- Bandelette urinaire") --> RHD("<b>Règles hygiéno-diététiques</b><br>—<br>- Distribution des<br>apports hydriques 7-18h<br>- Mictions régulières<br>et complètes<br>- Faciliter l'accès<br>aux toilettes<br>- Déculpabiliser<br>- Lutte constipation") -. Échec .-> urologue(Urologue)
     clinique -- Diagnostic différentiel --> différentiel("- Infection urinaire<br>- Apnées du sommeil<br>- Diabète<br>- Constipation massive")
@@ -219,9 +219,8 @@ graph TB
 {{%sources%}}
 
 - [Hahn D, et al. Desmopressin for nocturnal enuresis in children. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002112.pub2/full/fr)
-- Prescrire Redaction. Patients ayant une énurésie nocturne. Rev Prescrire. 2021.
+- Prescrire Redaction. Énurésie chez un enfant. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Troubles mictionnels. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/nephrologie-chirurgie-urologique/troubles-mictionnels)
-- Prescrire Redaction. Énurésie isolée des enfants. Rev Prescrire. 2019.
 - [Aubert D, et al; AFU, SFP, SFNP, SIFUDPP. Énurésie nocturne primaire isolée : diagnostic et prise en charge. Recommandations par consensus formalisé d'experts. Progrès en Urologie. 2010. (PDF)](https://afpa.org/content/uploads/2017/09/main.pdf)
 - [NICE. Bedwetting in under 19s. Clinical guideline. 2010.](https://www.nice.org.uk/guidance/cg111)
 
@@ -229,5 +228,6 @@ graph TB
 
 - [Hild O, et al. Prise en charge de l'énurésie de l'enfant et de l'adolescent -- Nocturnal enuresis management in infant and adolescent. Progrès en Urologie - FMC. 2025.](https://www.sciencedirect.com/science/article/abs/pii/S1761676X25003724)
 - [Harris J, et al. L'évaluation et la prise en charge de l'énurésie en pédiatrie générale. Paediatr Child Health. 2023.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10517247/)
+- [Desvignes V. La consultation de l'enfant énurétique. Cahier FMC. Le Pédiatre. 2015. (PDF)](https://afpa.org/content/uploads/2023/08/FMC_266.pdf)
 
 {{%/sources%}}
