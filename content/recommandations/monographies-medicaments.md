@@ -43,7 +43,7 @@ async function loadData() {
   spinner.style.display = 'block'; // Afficher le spinner
 try {
 // Charger le fichier JSON au chargement de la page
-const response = await fetch('/data/bdpm-search.json');
+const response = await fetch('https://raw.githubusercontent.com/djibe/recommandations-medicales/refs/heads/master/static/data/bdpm-search.json');
 const data = await response.json();
 const medicationList = document.getElementById('medication-list');
 const searchInput = document.getElementById('search-input-med');

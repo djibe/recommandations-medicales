@@ -50,7 +50,7 @@ Les résultats aux ECNi 2023 publiés par le CNG étant disponibles uniquement e
 window.addEventListener('load', () => {
   $(function () {
     $('#ecni-ranks').DataTable({
-      ajax: '/data/ecni-2023.json',
+      ajax: 'https://raw.githubusercontent.com/djibe/recommandations-medicales/refs/heads/master/static/data/ecni-2023.json',
       columns: [
         { data: 'Rang' },
         { data: 'Titre' },
