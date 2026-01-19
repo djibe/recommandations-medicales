@@ -65,7 +65,7 @@ Ensemble des examens biologiques remboursés en ville sur prescription d'un méd
 window.addEventListener('load', () => {
   $(function () {
     $('#open-bio').DataTable({
-      ajax: 'https://raw.githubusercontent.com/djibe/recommandations-medicales/refs/heads/master/static/data/open-bio-2024.json',
+      ajax: '/data/open-bio-2024.json',
       columns: [
         { data: 'L_ACTE' },
         { data: 'DNB' },

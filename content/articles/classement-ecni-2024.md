@@ -49,7 +49,7 @@ Les résultats aux ECNi 2024 publiés par le CNG étant disponibles uniquement e
 window.addEventListener('load', () => {
   $(function () {
     $('#ecni-ranks').DataTable({
-      ajax: 'https://github.com/djibe/recommandations-medicales/blob/master/static/data/ecni-2024.json',
+      ajax: '/data/ecni-2024.json',
       columns: [
         { data: 'Rang' },
         { data: 'Titre' },

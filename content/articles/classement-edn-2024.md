@@ -51,7 +51,11 @@ Les résultats aux EDN 2024 publiés au *Journal Officiel* étant disponibles un
 window.addEventListener('load', () => {
   $(function () {
     $('#edn-ranks').DataTable({
-      ajax: 'https://raw.githubusercontent.com/djibe/recommandations-medicales/refs/heads/master/static/data/edn-2024.json',
+      ajax: {
+        url: 'https://raw.githubusercontent.com/djibe/recommandations-medicales/refs/heads/master/static/data/edn-2024.json',
+        type: "GET",
+        dataType: "json",
+      },
       columns: [
         { data: 'Rang' },
         { data: 'Titre' },
