@@ -1,4 +1,5 @@
 User-agent: AddSearchBot
+User-agent: admantx
 User-agent: AI2Bot
 User-agent: AI2Bot-DeepResearchEval
 User-agent: Ai2Bot-Dolma
@@ -57,6 +58,7 @@ User-agent: EchoboxBot
 User-agent: FacebookBot
 User-agent: Factset_spyderbot
 User-agent: FirecrawlAgent
+User-agent: FreshRSS
 User-agent: FriendlyCrawler
 User-agent: Gemini-Deep-Research
 User-agent: Google-CloudVertexBot
@@ -68,6 +70,7 @@ User-agent: GoogleOther
 User-agent: GoogleOther-Image
 User-agent: GoogleOther-Video
 User-agent: GPTBot
+User-agent: HCP Analyzer
 User-agent: heritrix
 User-agent: ia_archiver
 User-agent: ia_archiver-web.archive.org
@@ -102,6 +105,7 @@ User-agent: mirrorweb
 User-agent: MistralAI-User
 User-agent: MistralAI-User/1.0
 User-agent: MJ12bot
+User-agent: ModerneBot
 User-agent: MyCentralAIScraperBot
 User-agent: netarkivindsamling
 User-agent: netEstate Imprint Crawler
@@ -168,13 +172,14 @@ User-agent: YaK
 User-agent: Yandex
 User-agent: YandexAdditional
 User-agent: YandexAdditionalBot
+User-agent: YandexBot
+User-agent: YandexMobileBot
 User-agent: YouBot
 User-agent: ZanistaBot
 Disallow: /
 
 User-agent: *
 Allow: /
-Disallow: /recommandations/index.json
 Disallow: /404/
 Disallow: /js/
 Disallow: /offline/
