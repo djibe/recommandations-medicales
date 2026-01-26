@@ -2,12 +2,12 @@
 id = "0190e8c3-4668-76f2-835b-80964f99109d"
 title = "Gale"
 prefix = "la "
-description = "Recommandations pour le diagnostic et le traitement de la gale. Traitement topique Topiscab ou comprimés Stromectol, désinfection et traitement de l'entourage"
+description = "Recommandations pour le diagnostic et le traitement de la gale. Traitement topique perméthrine ou ivermectine Stromectol, désinfection et traitement de l'entourage"
 synonyms = ["Scabiose"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2020-12-16T16:50:41+01:00
+date = "2020-12-16T16:50:41+01:00"
 publishdate = "2020-12-15"
-lastmod = "2025-05-15"
+lastmod = "2026-01-25"
 specialites = ["dermatologie"]
 annees = "2024"
 sources = ["SFD", "CMIT", "EADV"]
@@ -23,10 +23,10 @@ flowchart = true
 {{%article-summary%}}
 
 - La gale est une parasitose strictement humaine transmise par le sarcopte
-- Évoquer une gale devant tout [prurit](/tags/prurit/)
+- Évoquer une gale devant tout [prurit](/tags/prurit/), des lésions cutanée interdigitales et des poignets
 - La prise en charge de la gale associe:
-  - Un traitement concomitant de tout le foyer par ivermectine orale (adaptée au poids) en 1 prise à renouveler 8 jours après  
-    ou traitement local par perméthrine crème (Topiscab®) 1 application le soir, renouveler à J8. Alternative: Ascabiol®
+  - Un traitement concomitant de tout le foyer par perméthrine crème (Topiscab®) 1 application le soir, à renouveler à J8
+  - ou orale par ivermectine (adaptée au poids) en 1 prise à renouveler 8 jours après
   - Pour le petit enfant, la femme enceinte ou allaitante, voir *Traitement*
   - Désinfection du linge et de la literie
   - Éviction de la collectivité pendant 3 jours
@@ -171,7 +171,7 @@ En première intention pour le traitement de la gale, on peut utiliser la permé
 
 Traitement de référence selon l'âge (*SFD 2024*):
 
-- **Adulte:** perméthrine ou ivermectine
+- **Adulte:** ==perméthrine ou ivermectine==
 - **Enfant +2 ans:** perméthrine 1 application ou ivermectine  
   Si échec: perméthrine, ivermectine ou benzoate de benzyle 2 applications de 24 heures.
 - **Nourrisson 1-2 ans:** perméthrine 1 application ou benzoate de benzyle 1 application de 12 heures  
@@ -195,7 +195,7 @@ Traitement de référence selon l'âge (*SFD 2024*):
 
 #### Perméthrine (Topiscab® 5 % crème)
 
-La [perméthrine 5%](https://base-donnees-publique.medicaments.gouv.fr/medicament/61712553/extrait#tab-rcp) est le traitement de référence avant 1 an ou au 1er trimestre de grossesse.
+La ==[perméthrine 5%](https://base-donnees-publique.medicaments.gouv.fr/medicament/61712553/extrait#tab-rcp)== est le traitement de référence avant 1 an ou au 1^er^ trimestre de grossesse.
 
 Appliquer le tube entier sur toute la peau (sauf visage). Laisser agir **8 heures** à 14 heures. Puis douche à l'eau et au savon. ==**Renouveler le traitement à J8**==.
 
@@ -214,13 +214,14 @@ Appliquer le tube entier sur toute la peau (sauf visage). Laisser agir **8 heure
 
 #### Ivermectine 3 mg (Stromectol® ou gén)
 
-Traitement oral de la gale par [ivermectine en une prise de 200 µg/kg](https://base-donnees-publique.medicaments.gouv.fr/medicament/67988035/extrait#tab-rcp) et **rappel à J8** (*EADV*).
+> [!INFO]
+> [Ivermectine](https://base-donnees-publique.medicaments.gouv.fr/medicament/67988035/extrait#tab-rcp) 200 µg/kg en 1 prise avec **rappel à J8** (*EADV*).
 
-Traitement de première intention de la gale selon le *CMIT*, à prendre au moins 2 heures avant ou après la prise de nourriture (*Prescrire*) sauf les enfants (*SFD*).
+Traitement oral de la gale, de première intention selon la *SPILF* (moins efficace que la perméthrine selon *[Boralevi F et al 2026](https://www.bmj.com/content/392/bmj-2025-086277))*, à prendre au moins 2 heures avant ou après la prise de nourriture (*Prescrire*) sauf les enfants (*SFD*).
 
 **Contre-indications:** privilégier la perméthrine pendant la grossesse, allaitement, poids < 15 kg, traitement par ivermectine durant le mois.
 
-[Selon Le CRAT](https://www.lecrat.fr/7600/): pas de souci pendant la grossesse.
+[Selon Le CRAT](https://www.lecrat.fr/7600/): possible pendant la grossesse.
 
 {{< table title="Posologie de l'ivermectine en fonction du poids pour le traitement de la gale" class="table-sm">}}
 | Poids (kg) | Nombre de cp à 3 mg |
@@ -231,7 +232,6 @@ Traitement de première intention de la gale selon le *CMIT*, à prendre au moin
 | 51-65      | 4                   |
 | 66-79      | 5                   |
 | +80        | 6                   |
-
 {{< /table >}}
 
 > Chez l'enfant de moins de 6 ans, écraser les comprimés avant de les administrer.
@@ -336,6 +336,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Boralevi F, et al. Oral ivermectin versus 5% permethrin cream to treat children and adults with classic scabies: multicentre, assessor blinded, cluster randomised clinical trial. BMJ. 2026.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12771274/)
 - [Omedit Centre. Prise en charge et traitement des sujets atteints de gale. Janvier 2025. (PDF)](https://www.omedit-centre.fr/medias/PEC-traitement-gale.pdf)
 - [Morand A, et al. Management of scabies in children under 15 kg and pregnant or breastfeeding women: recommendations supported by the Centre of Evidence of the French Society of Dermatology. Br J Dermatol. 2024.](https://academic.oup.com/bjd/advance-article/doi/10.1093/bjd/ljae288/7717190)
 - [Collège des enseignants de dermatologie de France (CEDEF). Ectoparasitoses cutanées : gale et pédiculose. Item 171. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-171-%E2%80%94-Ectoparasitoses-cutanees-gale-et-pediculose_CompressPdf.pdf)

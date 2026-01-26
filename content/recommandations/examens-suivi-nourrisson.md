@@ -103,7 +103,7 @@ Pour plus d'informations sur les vaccinations, dont les obligations, voir le cha
 |   5 mois   | Méningo B                                            | Bexsero 2/3                                                               |
 |   6 mois   | Méningo ACWY                                         | Nimenrix                                                                  |
 |  11 mois   | DTCaP-Hib-HB<br>Pneumo 13/15                         | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance (15)           |
-|  12 mois   | Méningo ACWY<br>ROR<br>Méningo B                     | MenQuadfi, Nimenrix<br>MMRvaxPro, Priorix<br>Bexsero 3/3                  |
+|  12 mois   | Méningo ACWY<br>Méningo B<br>ROR                     | MenQuadfi, Nimenrix<br>Bexsero 3/3<br>MMRvaxPro, Priorix                  |
 | 16-18 mois | ROR                                                  | MMRvaxPro, Priorix                                                        |
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
 | 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |

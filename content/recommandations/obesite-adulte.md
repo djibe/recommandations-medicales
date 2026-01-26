@@ -463,6 +463,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Aron-Wisnewsky J, et al. Prise de position du GCC-CSO sur les traitements médicamenteux de l'obésité (TMO) chez l'adulte et leur accompagnement en pratique. Médecine des Maladies Métaboliques. 2025.](https://www.em-consulte.com/article/1780511/prise-de-position-du-gcc-cso-sur-les-traitements-m) (payant)
 - [Paccou J, et al. Recommandations françaises en matière de prévention et de traitement de l'ostéoporose secondaire à la chirurgie bariatrique. Revue du Rhumatisme. 2022. (PDF)](https://www.grio.org/documents/page246/9-reco-op-bariatrique.pdf)
 - [Ciangura C, et al. Clinical Practice Guidelines for Childbearing Female Candidates for Bariatric Surgery, Pregnancy, and Post-partum Management After Bariatric Surgery. OBES SURG. 2019.](https://link.springer.com/article/10.1007/s11695-019-04093-y)
 - [Matta J, et al. Prévalence du surpoids, de l'obésité et des facteurs de risque cardio-métaboliques dans la cohorte Constances. Bull Epidémiol Hebd. 2016.](http://beh.santepubliquefrance.fr/beh/2016/35-36/2016_35-36_5.html)
