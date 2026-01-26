@@ -3,11 +3,11 @@ id = "0190e8d6-2387-75ee-9cdf-e0949df55060"
 title = "Thrombose veineuse profonde (TVP)"
 prefix = "la "
 titleSeo = "Thrombose veineuse profonde TVP"
-description = "Recommandations pour la prise en charge de la Thrombose veineuse profonde TVP. Score de Wells, D-dimères et indications à l'échodoppler, durée d'anticoagulation"
+description = "Recommandations pour la prise en charge de la thrombose veineuse profonde TVP. Score de Wells, D-dimères et indications à l'échodoppler, durée d'anticoagulation"
 longHtml = true
 synonyms = ["Phlébite profonde"]
 auteurs = ["Jean-Baptiste FRON"]
-date = 2021-03-19T18:21:00+02:00
+date = "2021-03-19T18:21:00+02:00"
 publishdate = "2021-03-19"
 lastmod = "2023-03-27"
 specialites = ["cardiologie"]
@@ -29,9 +29,9 @@ Chapitre en cours de rédaction. Beaucoup d'outils sont déjà utilisables en l'
 
 Recommandations pour la prise en charge d'une suspicion de thrombose veineuse profonde (TVP) en l'absence de signe d'[embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}}) (dyspnée, malaise, tachycardie et douleur thoracique):
 
-- Score clinique systématique (score de Wells ou Constans, voir *Probabilité clinique*) avec dosage des D-dimères ou écho-doppler veineux d'emblée selon le résultat du score
-- Pour les suspicions faibles de TVP, le seuil de D-dimères dépend du laboratoire (souvent 500 µg/L)
-- Le bilan par échodoppler veineux est nécessaire dans les cas suivants: probabilité faible/intermédiaire et d-dimères non réalisables, d-dimères anormaux
+- Score clinique systématique (score de Wells ou Constans, voir *[Probabilité clinique](#probabilité-clinique-de-tvp-et-score-de-wells)*) avec dosage des D-dimères ou écho-doppler veineux d'emblée selon le résultat du score
+- Pour les suspicions faibles de thrombose veineuse profonde, le seuil de D-dimères est de 500 µg/L et peut être adapté à l'âge après 50 ans (âge x 10)
+- Le bilan de la suspicion de TVP par échodoppler veineux est nécessaire dans les cas suivants: probabilité faible/intermédiaire et d-dimères non réalisables, d-dimères anormaux
 - Contrôler les critères d'hospitalisation d'une phlébite (voir *Critères d'hospitalisation*)
 - Mener l'enquête étiologique de la survenue de cet épisode
 - Prise en charge de la TVP par anticoagulants
@@ -92,7 +92,7 @@ En l'absence de signes d'[embolie pulmonaire]({{% relref "embolie-pulmonaire.md"
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Une suspicion de thrombose veineuse profonde (sans EP) devrait être explorée en ambulatoire (voir *Critères d'hospitalisation*).
+Une suspicion de thrombose veineuse profonde (sans EP) devrait être explorée en semi-urgence en ambulatoire (voir *Critères d'hospitalisation*).
 
 Bilan d'une suspicion de thrombose veineuse profonde (TVP):
 
@@ -101,26 +101,28 @@ Bilan d'une suspicion de thrombose veineuse profonde (TVP):
 
 ### D-dimères
 
-Indications au dosage des D-dimères: **probabilité faible** ou **intermédiaire** de thrombose veineuse profonde (selon le score clinique initial).
+Indications au dosage des D-dimères: **probabilité pré-test faible** ou **intermédiaire** de thrombose veineuse profonde (selon le score clinique initial).
+
+Les d-dimères peuvent être **adaptés à l'âge après 50 ans**: seuil = 10 x âge ([Le Gal G et al 2026](https://jamanetwork.com/journals/jama/article-abstract/2843503)).
 
 Recours d'emblée à l'écho-doppler veineux si les D-dimères ne sont pas réalisables.
 
 #### Interpréter les résultats de D-dimères
 
-Le seuil de positivité des D-Dimères est souvent > 500 µg/L (ou norme du laboratoire).
+Le seuil de positivité des D-Dimères est de 500 µg/L (ou norme du laboratoire).
 
-Prise en charge selon le résultat:
+Prise en charge de la TVP selon le résultat des d-dimères:
 
-- D-dimères normaux
+- **D-dimères normaux:**
   - Ne pas réaliser d'écho-doppler
   - Ne pas poursuivre les investigations
-- D-dimères anormaux: écho-doppler veineux
+- **D-dimères anormaux:** écho-doppler veineux urgent
 
 Autres situations où les d-dimères sont augmentés (*SFMV 2021*): état inflammatoire (traumatisme, hématome, post-opératoire, maladie inflammatoire, sepsis), [cancer](/tags/cancer/), malformation vasculaire, CIVD, âge, [grossesse]({{% relref "grossesse.md" %}}) et [post-partum]({{% relref "post-partum.md" %}}).
 
 ### Écho-doppler veineux
 
-Indications à l'échodoppler veineux pour suspicion de TVP: **probabilité forte** de TVP (selon le score clinique initial), D-dimères élevés ou non accessibles.
+Indications à l'échodoppler veineux pour suspicion de thrombose veineuse profonde: **probabilité clinique forte** de TVP, D-dimères élevés ou non accessibles.
 
 #### Interpréter les résultats de l'écho-doppler veineux
 
@@ -216,18 +218,18 @@ Rechercher une hémoglobinurie paroxystique nocturne (HPN).
 
 ### Anticoagulation
 
-#### Indications à l'anticoagulation immédiate dans la TVP
+#### Indications à l'anticoagulation immédiate dans la thrombose veineuse profonde
 
 - TVP proximale
 - Probabilité clinique forte de TVP
-- Probabilité clinique intermédiaire de TVP et délai prévisible des résultats > 4h
-- Probabilité clinique faible de TVP et délai prévisible des résultats > 24h
+- Probabilité clinique intermédiaire de TVP et délai prévisible des résultats > 4 heures
+- Probabilité clinique faible de TVP et délai prévisible des résultats > 24 heures
 
 Avec surveillance NFS, ionogramme, créatininémie, bilan hépatique.
 
 #### Durée de l'anticoagulation de la thrombose veineuse profonde
 
-Le traitement doit durer 3 à 6 mois voire une durée non limitée et prend en compte le risque hémorragique.
+Le traitement doit durer **3 à 6 mois**, voire une durée non limitée et prend en compte le risque hémorragique.
 
 1^re^ TVP proximale provoquée par {{< modal-btn modal-mvte-fdr >}}facteur majeur transitoire{{< /modal-btn >}}: 3 à 6 mois.
 
@@ -269,12 +271,12 @@ Contre-indiqués en instabilité hémodynamique.
   - Énoxaparine 100 UI/kg/12h (Enoxaparine, Inhixa, Lovenox)
   - Nadroparine 85 UI/kg/12h ou 170 UI/kg/24h (Fraxiparine)
   - Tinzaparine 175 UI/kg/24h (Innohep)
-- Fondaparinux (Arixtra, gén)
+- Fondaparinux (Arixtra, gén 🌍)
   - < 50 kg: 5 mg/24h
   - 50 à 100 kg: 7,5 mg/24h
   - \> 100 kg: 10 mg/24h
 - Voire HNF  
-Si allergie aux autres produits ou clairance < 30.
+  Si allergie aux autres produits ou clairance < 30.
 
 Pas d'adaptation des doses ni tests d'hémostase (sauf HNF avec l'anti-Xa).  
 Poursuivre **au moins 5 jours**.  
@@ -308,9 +310,9 @@ graph TB
   tvp[Suspicion de TVP<br>sans argument d'EP] --> score(<b>Score clinique</b><br>Wells, Constans ou LEFt)
   style tvp stroke:#4150f5, stroke-width:1px
     score --> probaFaible(Probabilité faible<br>ou intermédiaire)
-      probaFaible --> ddimeres(D-dimères)
-        ddimeres -- Négatifs --> arret(Diagnostic écarté)
-        ddimeres -- Positifs --> doppler
+      probaFaible --> d-dimères("D-dimères<br>(adaptation à l'âge<br>après 50 ans)")
+        d-dimères -- Négatifs --> arret(Diagnostic écarté)
+        d-dimères -- Positifs --> doppler
     score --> probaForte(Probabilité forte)
       probaForte --> doppler(Écho-doppler des MI)
         doppler -- Négatif --> differentiel(Diagnostic autre)
@@ -326,6 +328,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Le Gal G, et al. Age-Adjusted D-Dimer Cutoff Levels to Rule Out Deep Vein Thrombosis. JAMA. 2026.](https://jamanetwork.com/journals/jama/article-abstract/2843503)
 - [SFMV, GFHT. La place du dosage des d-dimères en médecine. Communiqué. 2021.](https://www.innovte-thrombosisnetwork.eu/sites/innovte/files/brique/fichier/02-2024/Com_dosage%20des%20d-dimeres%20en%20VF.pdf)
 - [Sanchez O, et al; SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://www.sciencedirect.com/science/article/pii/S0761842519300051)
 
