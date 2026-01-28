@@ -55,7 +55,7 @@ ET au moins 5 épisodes sur la vie entière.
 - Anxiété, [dépression]({{% relref "depression.md" %}}) {{%class%}}x 2-10{{%/class%}}
 - Altération de la qualité de vie
 - Impact socio-économique
-- Enfant: troubles du comportement et irritabilité
+- Chez l'enfant: troubles du comportement et irritabilité
 
 ### Autres définitions
 
@@ -362,7 +362,7 @@ La prise en charge du syndrome des jambes sans repos associe:
 2. Association de patients: [France Ekbom](https://www.france-ekbom.fr/)
 3. Conseils d'hygiène de vie  
   {{%class%}}Voir chapitre dédié plus bas.{{%/class%}}
-4. Correction d'une carence martiale
+4. Correction d'une carence martiale  
   {{%class%}}Voir chapitre dédié plus bas.{{%/class%}}
 5. Traitement à la demande  
   Indication: SJSR léger avec ferritinémie > 75 ng/mL

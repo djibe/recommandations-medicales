@@ -117,10 +117,11 @@ Compléter avec un **scanner thoracique** injecté en cas d'images typiques de c
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-La prévention repose sur la correction des facteurs de risque modifiables:
+La prévention du cancer du rein repose sur la correction des facteurs de risque modifiables (*AFU*):
 
-- Arrêt du tabac
-- En cas d'[obésité]({{% relref "obesite-adulte.md" %}}): activité physique et perte de poids
+- [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
+- Correction du surpoids et de l'[obésité]({{% relref "obesite-adulte.md" %}}) (activité physique et perte de poids)
+- Contrôle de l'[hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Traitement du cancer du rein" %}}
@@ -173,6 +174,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Association Française d'Urologie. Cancer du rein. Fiches préventions. 2026.](https://www.urofrance.org/patient/fiches-prevention/fiches-preventions/)
 - [Ljungberg B, et al. EAU guidelines on renal cancer carcinoma. 2025.](https://uroweb.org/guidelines/renal-cell-carcinoma)
 - {{< references/beh-cancers-incidence >}}
 - [Bigot P, et al. Recommandations françaises du Comité de cancérologie de l'AFU - Actualisation 2024–2026 : cancer du rein French AFU Cancer Committee Guidelines - Update 2024–2026: Management of kidney cancer. Progrès en Urologie. 2024.](https://www.sciencedirect.com/science/article/pii/S295039302400192X) ([version anglaise gratuite](https://www.sciencedirect.com/science/article/pii/S295039302400192X))

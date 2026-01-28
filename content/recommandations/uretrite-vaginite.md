@@ -138,12 +138,12 @@ Ceftriaxone 1g IM dose unique
 et doxycycline 100 mg x 2/j pendant 7 jours
 {.alert .alert-info}
 
-Symptômes classiques des urétrites et cervicites: leucorrhées, dyspareunies, spotting, urétrite, cystalgies.
+Symptômes classiques des urétrites et cervicites: leucorrhées, dyspareunies, spotting, urétrite, cystalgies (douleurs vésicales).
 
 La prise en charge d'une urétrite ou d'une cervicite non compliquée associe:
 
 - Prélèvements microbiologiques
-  - Autoprélèvement vaginal (et autres sites: urètre, pharynx, anus) et PCR gonocoque/Chlamydia  
+  - Auto-prélèvement vaginal (et autres sites: urètre, pharynx, anus) et PCR gonocoque/Chlamydia  
     Si gonocoque: culture et antibiogramme.
   - Frottis de l'endocol coloré au Gram ou au bleu de méthylène et culture pour recherche de gonocoque (endocol et urètre)
   - Prélèvement des culs-de-sac vaginaux pour frottis coloré au Gram (ou bleu de méthylène), examen à l'état frais (levures, clue-cells, trichomonas), culture pour *Trichomonas vaginalis*

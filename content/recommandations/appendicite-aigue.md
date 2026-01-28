@@ -207,6 +207,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Salminen P, et al. Antibiotic Therapy for Uncomplicated Acute Appendicitis: Ten-Year Follow-Up of the APPAC Randomized Clinical Trial. JAMA. 2026.](https://jamanetwork.com/journals/jama/article-abstract/2844116)
 - [CBIP. Appendicectomie vs antibiotiques en cas d'appendicite aiguë chez l'enfant. Folia. 2025.](https://www.cbip.be/fr/articles/4538?folia=4535)
 - [Doleman B, et al. Appendectomy versus antibiotic treatment for acute appendicitis. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015038.pub2/full/fr)
 - [Ameli. L'appendicite aiguë : symptômes, diagnostic et évolution. 18/06/2024.](https://www.ameli.fr/assure/sante/themes/appendicite-aigue/symptomes-diagnostic-evolution)

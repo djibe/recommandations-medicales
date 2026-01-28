@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-10T13:36:06+02:00"
 publishdate = "2022-11-07"
-lastmod = "2025-05-18"
+lastmod = "2026-01-28"
 specialites = ["infectiologie", "urologie"]
 annees = "2025"
 sources = ["HAS", "SPILF"]
@@ -150,11 +150,12 @@ Une BU peut être réalisée en pharmacie avec orientation vers le médecin en c
 
 ECBU en cas de {{< modal-btn modal-fdr-complication >}}facteur de risque de complication{{< /modal-btn >}} et antibiothérapie différée autant que possible.
 
-Antibiothérapie probabiliste uniquement en cas de symptômes marqués:
+Antibiothérapie probabiliste uniquement en cas de symptômes marqués (*Info-antibio N°107*):
 
-1. [Nitrofurantoïne](https://base-donnees-publique.medicaments.gouv.fr/medicament/62013296/extrait#tab-rcp) (Furadantine®) 100 mg x 3/j pendant le repas pendant 7 jours  
+1. Fosfomycine trométamol 3g à J1, J3 et J5
+2. Triméthoprime/sulfaméthoxazole 160/800 mg x 2/j pendant 5 jours
+3. [Nitrofurantoïne](https://base-donnees-publique.medicaments.gouv.fr/medicament/62013296/extrait#tab-rcp) (Furadantine®) 100 mg x 3/j pendant le repas pendant 7 jours  
   Sauf clairance < 45 mL/min.
-2. Fosfomycine trométamol 3g à J1, J3 et J5
 
 Antibiotique de préférence **adapté à l'antibiogramme**:
 
@@ -314,8 +315,11 @@ Ensuite **ECBU mensuel** jusqu'à l'accouchement.
 {{% /collapse %}}
 {{%collapse "Infections urinaires de l'homme" %}}
 
+Cystite aiguë de l'homme
+: Signes fonctionnels urinaires en l'absence de fièvre. Elle est réintroduite en France par la SPILF en décembre 2025 (*Info-antibio N°107*).
+
 Infection urinaires masculine (IU masculine)
-: *ex prostatite*, trop réductrice (forme pauci-symptomatique, prostatite, pyélonéphrite aiguë). Symptômes évocateurs: [douleurs pelviennes](/tags/douleur-pelvienne/), périnéales, urétrales ou rectales intenses indépendantes de la miction, dysurie, rétention d'urines, douleurs lombaires, signes généraux.
+: *ex prostatite*, trop réductrice (prostatite, pyélonéphrite aiguë). Symptômes évocateurs: [douleurs pelviennes](/tags/douleur-pelvienne/), périnéales, urétrales ou rectales intenses indépendantes de la miction, dysurie, rétention d'urines, douleurs lombaires, signes généraux.
 : **Bandelette urinaire conseillée et ECBU systématique**. Positive, la BU conforte la suspicion diagnostique (une BU négative ne permet pas d'éliminer le diagnostic).
 : Premier épisode, rechercher une uropathie: pollakiurie, miction impérieuse, diminution de la force du jet, nycturie, dysurie ou anomalie au toucher rectal.
 : Les critères d'hospitalisation sont ceux de la pyélonéphrite.
@@ -323,9 +327,11 @@ Infection urinaires masculine (IU masculine)
 : Échographie des voies urinaires sous 24h si sepsis grave, suspicion de rétention ou de lithiase.  
 Sinon avec mesure du résidu post-mictionnel, dès le 2^e^ épisode ou en cas de suspicion d'anomalie des voies urinaires (+50 ans).
 
-### Infection urinaire de l'homme pauci-symptomatique
+### Cystite aiguë de l'homme
 
-En cas d'infection urinaire peu symptomatique (<< cystite-like >> sans signes généraux): antibiothérapie identique à l'IU masculine symptomatique mais **pendant 7 jours**.
+En cas de cystite aiguë masculine (*Info-antibio N°107*):
+
+1. Fosfomycine trométamol 3g à J1, J3 et J5
 
 ### Infection urinaire de l'homme symptomatique
 
@@ -372,6 +378,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [Laekeman G. La poudre de canneberge pour prévenir les infections urinaires récurrentes ?. Minerva. 2025.](https://minerva-ebp.be/FR/Analysis/928)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Pyélonéphrite aiguë de la femme. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/c_2722914/fr/choix-et-durees-d-antibiotherapies-pyelonephrite-aigue-de-la-femme)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Cystite aiguë simple, à risque de complication ou récidivante, de la femme. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722827/fr/choix-et-durees-d-antibiotherapies-cystite-aigue-simple-a-risque-de-complication-ou-recidivante-de-la-femme)

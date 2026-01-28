@@ -76,8 +76,6 @@ Le tableau ci-dessous rassemble donc les crèmes disponibles pour protéger au m
 | A-Derma | Protect AC peaux grasses à tendance acnéique fluide matifiant très haute protection SPF 50+ | **62** | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/les-produits-solaires-a-derma-des-produits-performants-au-service-de-toute-la-famille-1069/) |
 | Acorelle | Crème solaire Acorelle nature sun SPF 50+ bébé | 34 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/on-tord-le-cou-a-la-creme-solaire-acorelle-spf-50-bebe-1121/) |
 | Alphanova | Sun crème teintée très haute protection SPF 50+ | 33 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/alphanova-sun-50-en-realite-l-omega-de-la-protection-solaire-1114/) |
-| Anthelios | UVMUNE 400 dermo-pediatrics | 78 | [Test à lire](https://www.regard-sur-les-cosmetiques.fr/nos-regards/anthelios-uvmune-400-dermo-pediatrics-le-produit-solaire-pour-bebes-a-l-ombre-3337/) |
-| Anthelios | UVMUNE 400 la crème solaire teintée | 68 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/anthelios-uvmune-400-la-creme-solaire-teintee-tres-efficace-2942/) |
 | Avène | Crème minérale très haute protection Eau thermale Avène SPF 50+ | 43 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/creme-minerale-avene-pas-a-la-hauteur-mais-le-top-du-mineral-quand-meme-1105/) |
 | Avène | Crème très haute protection peaux sensibles sèches SPF 50+ | **70** | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/en-vacances-c-est-jamais-sans-mon-produit-solaire-avene-1061/) |
 | Avène | Lait très haute protection SPF 50+ | **64** | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/en-vacances-c-est-jamais-sans-mon-produit-solaire-avene-1061/) |
@@ -97,6 +95,8 @@ Le tableau ci-dessous rassemble donc les crèmes disponibles pour protéger au m
 | Gravier | Crème solaire très haute protection SPF 50+ UVA 20 Cosmo naturel Gravier | 33 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/solaire-cosmo-naturel-bebe-bio-pas-aussi-efficace-que-prevu-1115/) |
 | Garnier | Ambre solaire super UV stick 50+ | 53 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/ambre-solaire-son-nouveau-stick-qui-ne-nous-emballe-pas/) |
 | L'Occitane | Reine blanche bouclier immaculé SPF 50 | 70 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/l-occitane-un-bouclier-immacule-efficace-contre-les-uv-1099/) |
+| La Roche-Posay | Anthelios UVMUNE 400 dermo-pediatrics | 78 | [Test à lire](https://www.regard-sur-les-cosmetiques.fr/nos-regards/anthelios-uvmune-400-dermo-pediatrics-le-produit-solaire-pour-bebes-a-l-ombre-3337/) |
+| La Roche-Posay | Anthelios UVMUNE 400 la crème solaire teintée | 68 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/anthelios-uvmune-400-la-creme-solaire-teintee-tres-efficace-2942/) |
 | Lovea | Kids spray hydratant SPF 50+ | 34 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/lovea-kids-spray-hydratant-50-un-grand-coup-de-balai-2979/) |
 | Mary Cohr | Crème visage nouvelle jeunesse anti-âge solaire 50+ | 72 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/science-uv-50-mary-cohr-une-protection-solaire-de-luxe-qui-assure-1038/) |
 | Naturado en Provence | Ecran solaire visage & corps SPF 50+ | 4 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/naturado-solaire-spf-50-on-lui-tourne-le-dos-1098/) |

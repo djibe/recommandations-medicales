@@ -140,6 +140,7 @@ Signes et symptômes de la grippe:
   - Pneumopathie post-grippale (J5-J7)
 - Enfant: somnolence, troubles digestifs
 - Immunodéprimés (greffé, SIDA): mortalité identique aux +65 ans
+- Information du patient: [FAQ Ameli](https://www.ameli.fr/medecin/actualites/vaccination-contre-la-grippe-une-foire-aux-questions-pour-repondre-aux-idees-recues-des-patients)
 
 **Signes de gravité de la grippe:** fièvre très élevée persistante, réapparition de la fièvre, dyspnée ou tachycardie, cyanose, convulsions fébriles, signes méningés, hypotonie, décompensation d'organe ...
 
@@ -162,7 +163,7 @@ Vaccins contre la grippe disponibles en France pour la campagne vaccinale pour l
 
 Le vaccin nasal Fluenz Tetra® n'est pas disponible en France.
 
-La campagne de vaccination commencera le ==14 octobre 2025== (*DGS Urgent 2025-24*) et terminera le 31 janvier 2026.
+La campagne de vaccination s'étale du ==14 octobre 2025== (*DGS Urgent 2025-24*) et terminera le 28 février 2026.
 
 Pas de délai à respecter entre les vaccins anti-grippaux et anti Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
 

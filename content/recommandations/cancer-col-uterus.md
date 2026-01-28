@@ -188,7 +188,7 @@ Le dépistage organisé du cancer du col de l'utérus est recommandé pour toute
 
 > Les invitations aux dépistages organisés du col et du sein peuvent être réédités sur Amelipro (Patientèle médecin traitant > onglet Prévention).
 
-**Cotation du frottis:** G + JKHD001 (13 €)
+**Cotation du frottis:** G + JKHD001 (13 €; cumulable avec APC)
 
 Rappel des conditions pour le frottis: délai d'au moins 48 heures après un rapport sexuel, hors menstruations, sans gel ou traitement local.
 

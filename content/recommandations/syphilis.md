@@ -464,6 +464,7 @@ graph TB
 
 ### Bibliographie pour en savoir plus
 
-[Kingston M, et al. British Association of Sexual Health and HIV (BASHH) UK guidelines for the management of syphilis in pregnancy and children 2024. Int J STD AIDS. 2024.](https://pubmed.ncbi.nlm.nih.gov/39308221/)
+- [Anselem O, et al. Prevention and management of syphilis in pregnant and perinatal women. Infect Dis Now. 2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/recos/2025-syphilis-femme-enceinte-reco-spilf.pdf)
+- [Kingston M, et al. British Association of Sexual Health and HIV (BASHH) UK guidelines for the management of syphilis in pregnancy and children 2024. Int J STD AIDS. 2024.](https://pubmed.ncbi.nlm.nih.gov/39308221/)
 
 {{%/sources%}}

@@ -300,7 +300,7 @@ Le traitement dépend de la décision de la réunion de concertation pluridiscip
 
 - Mesures systématiques associées au cancer
   - Arrêt tabac et alcool
-  - Activité physique quotidienne ([guide patient](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_cancer.pdf))
+  - Activité physique quotidienne ([guide HAS](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_cancer.pdf))
   - Augmenter les apports en fibres
 - {{< modal-btn modal-mna >}}Dépister la dénutrition{{< /modal-btn >}} (39%) et accompagnement diététique spécialisé
 - Stomie: soins par infirmier stomathérapeute

@@ -30,7 +30,7 @@ Les ressources manquantes peuvent être signalées par les boutons de **Contact*
 {{%/article-summary%}}
 {{%collapse "Cotation des ECG" %}}
 
-L'ECG 12 dérivations (DEQP003 = 14,77 €) est cumulable avec la consultation du généraliste *G*.
+L'ECG 12 dérivations (DEQP003 = 14,77 €) est cumulable avec la consultation du généraliste *G* (et *APC*).
 
 Le modificateur (jour férié, nuit) est applicable en cas d'urgence ou de garde régulée.
 
