@@ -274,6 +274,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Collège national des généralistes enseignants. Quelles données sur l'obligation de la vaccination contre le méningocoque B (MenB) en France depuis le 1er janvier 2025 ?. 2025. (PDF)](https://www.cnge.fr/wp-content/uploads/2025/12/251222_Avis-Meningo-B_vbdd.pdf)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Stratégie de vaccination contre les infections invasives à méningocoques. 2025.](https://www.has-sante.fr/jcms/p_3597524/fr/strategie-de-vaccination-contre-les-infections-invasives-a-meningocoques)
 - [DGS-Urgent 2025_06. Augmentation des infections invasives à méningocoques en France. 21/02/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)

@@ -414,9 +414,9 @@ Prise à la demande ou en période de recrudescence des symptômes. Prendre le m
 
 Trouver la posologie minimale efficace à base de:
 
-- Tramadol non associé  
+- **Tramadol** non associé  
   Débuter à 50 mg, augmentation si besoin jusqu'à 100 mg.
-- Codéine
+- **Codéine**
   - Débuter à 30 mg: paracétamol codéiné 500/30 mg
   - Augmentation si besoin jusqu'à 60 mg voire plus de codéine
   - Seule la codéine peut être utilisée pendant la grossesse en accord avec l'obstétricien
@@ -432,7 +432,7 @@ La prescription de ces traitements symptomatiques nécessite une prise en charge
     - Non remboursés pour le SJSR
     - Vérifier systématiquement la survenue d'un syndrome de dysrégulation dopaminergique: **contrôle des impulsions**
 2. Antiépileptiques, dits ligands α2ẟ-1  
-  Gabapentine et prégabaline (ordonnance sécurisée).
+  **Gabapentine**, prégabaline (ordonnance sécurisée).
 3. Opiacés: palier 2 ou 3
 4. Dipyridamole (*AASM 2024*)
 5. Stimulation du nerf fibulaire (*AASM 2024*)
@@ -467,15 +467,19 @@ graph TB
 
 - [Winkelman JW, et al. Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2024.](https://jcsm.aasm.org/doi/10.5664/jcsm.11390)
 - Prescrire Redaction. Syndrome des jambes sans repos. Prescrire. Rev Prescrire. 2022.
-- [Chenini S et al. Depressive Symptoms and Suicidal Thoughts in Restless Legs Syndrome. Mov Disord. 2022.](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.28903)
-- [Chenini S et al; SFRMS. Syndrome des jambes sans repos pharmaco-résistant. Médecine du Sommeil. 2019.](https://doi.org/10.1016/j.msom.2018.10.004)
-- [Limousin N et al; SFRMS. Traitement du syndrome des jambes sans repos nouvellement diagnostiqué. Médecine du Sommeil. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302449)
-- [Leclair-Visonneau L et al; SFRMS. Comment poser le diagnostic d'un syndrome des jambes sans repos ? Médecine du Sommeil. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302437)
-- [Allen RP et al. Restless legs syndrome/Willis-Ekbom disease diagnostic criteria: updated International Restless Legs Syndrome Study Group (IRLSSG) consensus criteria--history, rationale, description, and significance. Sleep Med. 2014. (payant)](https://www.sciencedirect.com/science/article/abs/pii/S1389945714001907)
-- [Silber MH et al; Medical Advisory Board of the Willis-Ekbom Disease Foundation. Willis-Ekbom Disease Foundation revised consensus statement on the management of restless legs syndrome. Mayo Clin Proc. 2013.](https://doi.org/10.1016/j.mayocp.2013.06.016)
-- [Aurora RN et al. Update to the AASM clinical practice guideline: “the treatment of restless legs syndrome and periodic limb movement disorder in adults - an update for 2012: practice parameters with an evidence-based systematic review and meta-analyses.” Sleep. 2012.](https://aasm.org/clinical-resources/practice-standards/practice-guidelines/)
-- [Garcia-Borreguero D et al. European guidelines on management of restless legs syndrome: report of a joint task force by the European Federation of Neurological Societies, the European Neurological Society and the European Sleep Research Society. Eur J Neurol. 2012.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2012.03853.x)
-- [Allen RP et al. Physician-diagnosed restless legs syndrome in a large sample of primary medical care patients in western Europe: Prevalence and characteristics. Sleep Med. 2010.](https://pubmed.ncbi.nlm.nih.gov/19464949/)
+- [Chenini S, et al. Depressive Symptoms and Suicidal Thoughts in Restless Legs Syndrome. Mov Disord. 2022.](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.28903)
+- [Chenini S, et al; SFRMS. Syndrome des jambes sans repos pharmaco-résistant. Médecine du Sommeil. 2019.](https://doi.org/10.1016/j.msom.2018.10.004)
+- [Limousin N, et al; SFRMS. Traitement du syndrome des jambes sans repos nouvellement diagnostiqué. Médecine du Sommeil. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302449)
+- [Leclair-Visonneau L, et al; SFRMS. Comment poser le diagnostic d'un syndrome des jambes sans repos ? Médecine du Sommeil. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S1769449318302437)
+- [Allen RP, et al. Restless legs syndrome/Willis-Ekbom disease diagnostic criteria: updated International Restless Legs Syndrome Study Group (IRLSSG) consensus criteria--history, rationale, description, and significance. Sleep Med. 2014. (payant)](https://www.sciencedirect.com/science/article/abs/pii/S1389945714001907)
+- [Silber MH, et al; Medical Advisory Board of the Willis-Ekbom Disease Foundation. Willis-Ekbom Disease Foundation revised consensus statement on the management of restless legs syndrome. Mayo Clin Proc. 2013.](https://doi.org/10.1016/j.mayocp.2013.06.016)
+- [Aurora RN, et al. Update to the AASM clinical practice guideline: “the treatment of restless legs syndrome and periodic limb movement disorder in adults - an update for 2012: practice parameters with an evidence-based systematic review and meta-analyses.” Sleep. 2012.](https://aasm.org/clinical-resources/practice-standards/practice-guidelines/)
+- [Garcia-Borreguero D, et al. European guidelines on management of restless legs syndrome: report of a joint task force by the European Federation of Neurological Societies, the European Neurological Society and the European Sleep Research Society. Eur J Neurol. 2012.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2012.03853.x)
+- [Allen RP, et al. Physician-diagnosed restless legs syndrome in a large sample of primary medical care patients in western Europe: Prevalence and characteristics. Sleep Med. 2010.](https://pubmed.ncbi.nlm.nih.gov/19464949/)
+
+### Bibliographie en attente
+
+[Winkelman J, Whipper B. Restless Legs Syndrome. JAMA. 2026.](https://jamanetwork.com/journals/jama/article-abstract/2844112) (payant)
 
 {{%/sources%}}
 {{% modal title="Échelle internationale de sévérité du syndrome des jambes sans repos (IRLS)" id="modal-score-irls" size="lg"%}}
