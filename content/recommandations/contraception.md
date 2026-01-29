@@ -411,6 +411,19 @@ Les préservatifs sont les seules barrières contre les IST. Informer sur la *Co
 
 {{< traitements/contraception-pp >}}
 
+### Contraception pendant l'allaitement
+
+- Progestatif:
+  - désogestrel 75 µg/j, lévonorgestrel 30 µg/j
+  - dispositif intra-utérin au lévonorgestrel
+  - implant sous-cutané
+  - Progestatif injectable à longue durée (médroxyprogestérone): Dépo-Provera®
+- Estroprogestatif:
+  - **Possible après les 6 semaines suivant l'accouchement**
+- Contraception d'urgence: lévonorgestrel, ulipristal
+
+> -- *[CRAT](https://www.lecrat.fr/6228/)*
+
 {{% /collapse %}}
 {{%collapse "Gestion des effets indésirables de la contraception" %}}
 
@@ -593,7 +606,7 @@ Bénéfices similaires pour les différentes voies d'administration (orale, vagi
 - Améliorations des troubles du cycle menstruel
   - [Ménorragies]({{% relref "menorragies.md" %}})
   - Dysménorrhées
-  - Syndrome prémenstruel
+  - [Syndrome prémenstruel]({{% relref "syndrome-premenstruel.md" %}})
 - Améliore les symptômes de l'endométriose
 - Réduction des pathologies bénignes des seins et utérus
   - Fibrokystes du sein sans atypie
