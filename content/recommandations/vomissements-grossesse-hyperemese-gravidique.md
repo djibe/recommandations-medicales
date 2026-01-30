@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-02-05T23:15:16+01:00"
 publishdate = "2023-02-06"
-lastmod = "2026-01-08"
+lastmod = "2026-01-30"
 specialites = ["gynécologie-obstétrique"]
 annees = "2022"
 sources = ["CNGOF", "CRAT"]
@@ -19,15 +19,15 @@ icd10 = ["O21", "O21.9"]
 image = true
 imageSrc = "Les vomissements pendant la grossesse. Photo de senivpetro sur Freepik"
 flowchart = true
-todo = "posologies, annexe 6"
+todo = "annexe 6"
 +++
 
 {{%article-summary%}}
 
 - L'hyperémèse gravidique est la présence de nausées et vomissements sévères pendant la grossesse avec au moins un critère parmi: amaigrissement supérieur ou égal à 5%, signes de déshydratation, {{< modal-btn modal-puqe >}}score PUQE ≥ 7{{< /modal-btn >}}
-- Bilan d'une hyperémèse gravidique: ionogramme, créatininémie, bandelette urinaire, échographie obstétricale
-- Critères d'hospitalisation en cas de vomissements pendant la grossesse: amaigrissement ≥ 10%, déshydratation, {{< modal-btn modal-puqe >}}score PUQE ≥ 13{{< /modal-btn >}}, hypokaliémie < 3 mmol/L, hyponatrémie < 120 mmol/L, créatininémie > 100 µmol/L, résistance au traitement
-- Prise en charge des nausées et vomissements de grossesse: gingembre, doxylamine (± pyridoxine) ou dimenhydrinate et réévaluation à 48 heures
+- Le bilan d'une hyperémèse gravidique comprend: bandelette urinaire, ionogramme, créatinine, échographie obstétricale
+- Les critères d'hospitalisation pour vomissements pendant la grossesse sont: amaigrissement ≥ 10 %, déshydratation, {{< modal-btn modal-puqe >}}score PUQE ≥ 13{{< /modal-btn >}}, hypokaliémie < 3 mmol/L, hyponatrémie < 120 mmol/L, créatininémie > 100 µmol/L, résistance au traitement
+- La prise en charge des nausées et vomissements de grossesse commence par les traitements suivants: gingembre, doxylamine (± pyridoxine) ou dimenhydrinate avec une réévaluation toutes les 48 heures jusqu'à amélioration
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -35,13 +35,12 @@ todo = "posologies, annexe 6"
 Nausées et vomissements gravidiques
 : Nausées et vomissements débutant au premier trimestre de grossesse en l'absence d'autre étiologie (ex. [boulimie nerveuse]({{% relref "boulimie-hyperphagie.md" %}}) ...).
 : Ils sont **non compliqués** en l'absence de critères d'hyperémèse gravidique.
-: Ils atteignent 50-90 % des femmes enceintes, souvent modérés sans atteinte de la qualité de vie et cèdent à la **fin du premier trimestre**.
+: Ils atteignent 50 à 90 % des femmes enceintes, souvent modérés -- sans modification de la qualité de vie et cèdent à la **fin du premier trimestre**.
 : 35 % ont des symptômes invalidants avec un impact marqué sur la vie personnelle. 0,3 à 3,6 % sont hospitalisées.
 
 Hyperémèse gravidique (HG, hyperemesis gravidarum)
 : Nausées et vomissements gravidiques sévères avec au moins un critère parmi: amaigrissement ≥ 5%, signe de déshydratation, {{< modal-btn modal-puqe >}}score PUQE ≥ 7{{< /modal-btn >}}.
-: L'origine de l'hyperémèse gravidique est mal comprise. Elle est un facteur de risque de naissance prématurée et de petit poids de naissance. Pour la mère, risque de troubles ioniques et carentiels à l'origine d'une encéphalopathie de Gayet-Wernicke ainsi qu'un retentissement psychiatrique pouvant persister (stress, troubles anxio-dépressifs, idées suicidaires, stress post-traumatique). Risque de récidive de 15-81%.
-: **Diagnostic différentiel**: [hépatite](/tags/hepatite/), pancréatite, [appendicite]({{% relref "appendicite-aigue.md" %}}), [pyélonéphrite]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}), [torsion de l'ovaire]({{% relref "torsion-ovaire.md" %}}), [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}).
+: L'origine de l'hyperémèse gravidique est mal comprise. Elle est un facteur de risque de naissance prématurée et de petit poids de naissance. Pour la mère, risque de troubles ioniques et carentiels à l'origine d'une encéphalopathie de Gayet-Wernicke ainsi qu'un retentissement psychiatrique pouvant persister (stress, troubles anxio-dépressifs, idées suicidaires, stress post-traumatique). Risque de récidive de 15-81 %.
 
 ### Abréviations
 
@@ -56,27 +55,46 @@ HG
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Calcul de la variation de poids" %}}
+{{%collapse "Diagnostic différentiel" %}}
 
-Outils permettant de mesurer la perte de poids liée aux vomissements de grossesse.
+Diagnostic différentiel de l'hyperémèse gravidique:
+
+- [Hépatite](/tags/hepatite/)
+- [Pancréatite]({{% relref "pancreatite-aigue.md" %}})
+- [Appendicite]({{% relref "appendicite-aigue.md" %}})
+- [Pyélonéphrite]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}})
+- [Torsion de l'ovaire]({{% relref "torsion-ovaire.md" %}})
+- [Hyperthyroïdie]({{% relref "hyperthyroidie.md" %}})
+
+{{% /collapse %}}
+{{%collapse "Clinique" %}}
+
+### Interrogatoire
+
+- Antécédents
+- Traitements en cours et essayés
+- Toxiques
+- Terme de la grossesse
+- Suivi obstétricale
+- Apparition et évolution des symptômes
+- Signes et symptômes de la grossesse
+- Signes négatifs: thyrotoxicose, signes fonctionnels urinaires, douleurs digestives
+- Intensité des symptômes gravidiques: {{< modal-btn modal-puqe >}}score PUQE{{< /modal-btn >}}
+- Retentissement sur la qualité de vie
+
+### Examen clinique
+
+- Pression artérielle, fréquence cardiaque
+- Poids et variation, taille, IMC
+- Auscultation cardio-pulmonaire
+- Palpation abdominale
+- Signes de déshydratation  
+  {{< clinique/deshydratation >}}
 
 {{< outils/variation-poids >}}
 
 {{% /collapse %}}
-{{%collapse "Examens complémentaires" %}}
-
-### Bilan de vomissements non compliqués
-
-Échographie obstétricale seule pour éliminer une cause secondaire de vomissements (grossesse multiple ou môlaire).
-
-#### Bilan d'une hyperémèse gravidique
-
-- Bandelette urinaire
-- Bilan sanguin: ionogramme, créatininémie, bandelette urinaire
-- Échographie obstétricale
-
-{{% /collapse %}}
-{{%collapse "Critères d'hospitalisation pour vomissements gravidiques" %}}
+{{%collapse "Critères d'hospitalisation" %}}
 
 {{%warning%}}
 Proposer une hospitalisation en cas d'hyperémèse gravidique avec au moins un critère parmi:
@@ -91,12 +109,16 @@ Proposer une hospitalisation en cas d'hyperémèse gravidique avec au moins un c
 - Résistance au traitement
 {{%/warning%}}
 
-### Pour en savoir plus durant l'hospitalisation pour vomissements gravidiques
+### Pour en savoir plus: hospitalisation pour vomissements gravidiques
 
-Pas d'isolement, supplémentation systématique en vitamine B1 (thiamine) voire vitamine K.
+Pas d'isolement, supplémentation systématique en vitamine B1 (thiamine) voire vitamine K, anticoagulation préventive.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
+
+### Bilan de vomissements non compliqués
+
+Échographie obstétricale seule pour éliminer une cause secondaire de vomissements (grossesse multiple ou môlaire).
 
 ### Bilan de vomissements gravidiques marqués
 
@@ -108,6 +130,12 @@ En cas de vomissements réfractaires:
 - ASAT, ALAT, GGT, PAL
 - Lipasémie
 - TSH, T4L
+
+#### Bilan d'une hyperémèse gravidique
+
+- Bandelette urinaire
+- Bilan sanguin: ionogramme, créatininémie, bandelette urinaire
+- Échographie obstétricale
 
 {{% /collapse %}}
 {{%collapse "Traitement des vomissements pendant la grossesse" %}}
@@ -139,6 +167,7 @@ Recommandations pour la prise en charge médicamenteuse des nausées et vomissem
   - Prométhazine 25 mg 1/2 à 1 cp x 3-6/j ([Phénargan®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69764032/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3528/))
   - Métopimazine ([Vogalène®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69503737/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/11549/))
 - Soutien psychologique
+- Association de patientes: [Association de lutte contre l'hyperémèse gravidique](https://www.associationhg.fr) et [9 mois avec ma bassine](https://www.facebook.com/9moisavecmabassine/)
 
 > [!WARNING]
 > Ne pas utiliser: aromathérapie.
@@ -150,8 +179,6 @@ Prise en charge de l'hyperémèse gravidique:
 - **Hospitalisation** si critères remplis (voir section précédente)  
   sinon essai des traitements de première intention (voir plus haut) et surveillance rapprochée.
 - Anticoagulation préventive
-- Soutien psychologique
-- Association de patientes: [Association de lutte contre l'hyperémèse gravidique](https://www.associationhg.fr) et [9 mois avec ma bassine](https://www.facebook.com/9moisavecmabassine/)
 
 Sur prescription spécialisée uniquement pour l'hyperémèse gravidique: [ondansétron 8 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/64961378/extrait#tab-rcp) après 10 SA (ordonnance d'exception, [CRAT](https://www.lecrat.fr/3394/)), corticoïdes IV en dernier recours.
 
