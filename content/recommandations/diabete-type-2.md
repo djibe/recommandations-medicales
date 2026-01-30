@@ -317,7 +317,7 @@ Troisième ligne - Selon les traitements essayés
     <div class="card-header" id="headingThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" role="button">
       <h4 class="card-title">Après iSGLT2</h4>
     </div>
-    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+    <div id="collapseThree" class="collapse" data-parent="#accordionExample">
       <div>
         <ul class="list-group list-group-flush">
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Ajouter ou substituer par un AR GLP-1</li>
@@ -332,7 +332,7 @@ Troisième ligne - Selon les traitements essayés
     <div class="card-header" id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne" role="button">
       <h4 class="card-title">Après iDPP4</h4>
     </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+    <div id="collapseOne" class="collapse" data-parent="#accordionExample">
       <div>
         <ul class="list-group list-group-flush">
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Substituer par un AR GLP-1</li>
@@ -348,7 +348,7 @@ Troisième ligne - Selon les traitements essayés
     <div class="card-header" id="headingFour" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" role="button">
       <h4 class="card-title">Après AR GLP-1</h4>
     </div>
-    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+    <div id="collapseFour" class="collapse" data-parent="#accordionExample">
       <div>
         <ul class="list-group list-group-flush">
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-isglt2">Ajouter un iSGLT2</li>
@@ -363,7 +363,7 @@ Troisième ligne - Selon les traitements essayés
     <div class="card-header" id="headingTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" role="button">
       <h4 class="card-title">Après sulfamide</h4>
     </div>
-    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+    <div id="collapseTwo" class="collapse" data-parent="#accordionExample">
       <div>
          <ul class="list-group list-group-flush">
           <li class="list-group-item list-group-item-action lgi-choice" data-toggle="modal" data-target="#modal-glp1">Substituer par un AR GLP-1</li>
