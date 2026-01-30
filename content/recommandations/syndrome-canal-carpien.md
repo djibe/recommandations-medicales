@@ -275,5 +275,6 @@ diagnostic -- Diagnostic différentiel --> différentiel("- Atteintes radiculair
 - [Collège des Enseignants de Neurologie (CEN). Radiculalgies et syndromes canalaires. 2019.](https://www.cen-neurologie.fr/second-cycle/radiculalgies-syndromes-canalaires-neuropathies-peripheriques-polyradiculonevrite)
 - [Petrover D, Richette P. Prise en charge du syndrome du canal carpien: de l'échographie diagnostique à la libération percutanée sous échographie. Revue du Rhumatisme. 2018.](https://www.sciencedirect.com/science/article/pii/S1169833017303071)
 - [HAS. Syndrome du canal carpien : Optimiser la pertinence du parcours patient. 2013.](https://www.has-sante.fr/jcms/c_1365548/fr/syndrome-du-canal-carpien-optimiser-la-pertinence-du-parcours-patient)
+- {{< references/aderim >}}
 
 {{%/sources%}}

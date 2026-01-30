@@ -93,7 +93,7 @@ Le diagnostic d'amylose AL est histologique: dépôts amyloïdes colorés par le
 - Bilan hépatique
 - Électrophorèse et immunofixation des protéines sériques et urinaires
 - Dosage des chaînes légères libres sériques  
-  Indispensable pour le suivi mais non remboursé, à faire au centre de prélèvement des hôpitaux publics.
+  Indispensable pour le suivi mais 66 € non remboursés, à faire au centre de prélèvement des hôpitaux publics.
 - NT-proBNP, troponine
 - ECG et holter-ECG
 - Échographie abdominale
