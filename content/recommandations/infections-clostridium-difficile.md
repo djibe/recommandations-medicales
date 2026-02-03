@@ -115,7 +115,7 @@ Le tableau diarrhéique aigu apparaît souvent **à l'introduction d'une nouvell
 - Coproculture sur selles diarrhéiques avec recherche de *C. difficile* (précisée sur l'ordonnance pour une recherche en 2 temps)
 
 > [!WARNING]
-> Critères de gravité de l'infection à *Claustridium*: hypotension artérielle, fièvre > 38,5°C, hyperleucocytose ≥ 15.000/mm³ ou créatininémie ≥ 15 mg/L.
+> Critères de gravité de l'infection à *Clostridium*: hypotension artérielle, fièvre > 38,5°C, hyperleucocytose ≥ 15.000/mm³ ou créatininémie ≥ 15 mg/L.
 
 {{% /collapse %}}
 {{%collapse "Traitement de Clostridium difficile" %}}
@@ -146,7 +146,7 @@ Autres antibiothérapies possibles pour le traitement des infections à *Clostri
 
 À partir de la 2^e^ récidive, une **transplantation de microbiote fécal** (TMF) par coloscopie ou capsules (voire suppositoires) est envisagée. Elle est envisagée dès la 1^re^ récidive en cas de syndrome de l'intestin irritable (SII).
 
-Une **prophylaxie** par vancomycine pourrait être considérée en cas d'antécédents de *Claustridium* à haut risque de récurrence. Chez ces sujets à haut risque, le bezlotoxumab (Zinplava) est suggéré pour prévenir les récurrences.
+Une **prophylaxie** par vancomycine pourrait être considérée en cas d'antécédents de *Clostridium* à haut risque de récurrence. Chez ces sujets à haut risque, le bezlotoxumab (Zinplava) est suggéré pour prévenir les récurrences.
 
 Pour les cas les plus graves, une **colectomie subtotale** peut être envisagée en réunion pluridisciplinaire.
 
