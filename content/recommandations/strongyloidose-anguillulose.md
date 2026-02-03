@@ -90,7 +90,7 @@ En cas de dépistage positif, le traitement est **identique au traitement curati
 Autres parasitoses, infections et pathologies digestives:
 
 - Infections intestinales  
-  Amibiases, colite bactérienne, Shigella, Campylobacter, Yersinia, [Clostridium difficile]({{% relref "infections-claustridium-difficile.md" %}}) ...
+  Amibiases, colite bactérienne, Shigella, Campylobacter, Yersinia, [Clostridium difficile]({{% relref "infections-clostridium-difficile.md" %}}) ...
 - Infections à ankylostomes non humains avec production de **larva migrans** cutanées  
   Larva currens est différent avec: absence de desquamation, migration rapide, atteinte périnéale et larges bandes urticariennes.
 - MICI

@@ -1,9 +1,9 @@
 +++
 id = "01956ca2-40b0-73d7-b454-77250548bb05"
-title = "Infection à Clostridioides difficile (*ex Claustridium difficile*)"
-titleSeo = "Infection Claustridium difficile"
+title = "Infection à Clostridioides difficile (*ex Clostridium difficile*)"
+titleSeo = "Infection Clostridium difficile"
 prefix = "l'"
-description = "Recommandations pour le diagnostic et la prise en charge des infections à Claustridium difficile (Clostridioides difficile). Antibiothérapies répétées diarrhées, traitement par vancomycine"
+description = "Recommandations pour le diagnostic et la prise en charge des infections à Clostridium difficile (Clostridioides difficile). Antibiothérapies répétées diarrhées, traitement par vancomycine"
 synonyms = ["Peptoclostridium difficile"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-03-06T19:05:06+01:00"
@@ -17,27 +17,27 @@ english = ["Clostridioides difficile infections (CDI)"]
 sctid = "186431008"
 icd10 = ["A04.7"]
 image = true
-imageSrc = "Aspect coloscopique de colite pseudomembraneuse à *Claustridium difficile*. Klinikum Dritter Orden, München. Abteilung Innere Medizin I Vielen Dank an Christoph Kaiser für die Überlassung des Bildes zur Veröffentlichung!, CC0, via Wikimedia Commons"
+imageSrc = "Aspect coloscopique de colite pseudomembraneuse à *Clostridium difficile*. Klinikum Dritter Orden, München. Abteilung Innere Medizin I Vielen Dank an Christoph Kaiser für die Überlassung des Bildes zur Veröffentlichung!, CC0, via Wikimedia Commons"
 todo = "flow | Rechercher chez SII avec diarrhées aiguës profuses."
 +++
 
 {{%article-summary%}}
 
-- *Clostridioides difficile*, ex *Claustridium difficile*, cause 10 à 25 % des diarrhées post-antibiotiques
+- *Clostridioides difficile*, ex *Clostridium difficile*, cause 10 à 25 % des diarrhées post-antibiotiques
 - Le diagnostic d'infection à *Clostridioides difficile* est clinico-microbiologique: situation évocatrice (antibiothérapie, hospitalisation, immunodépression, intestin irritable), au moins 3 selles non moulées par 24 heures non glairo-sanglantes, et coproculture avec 2 tests positifs à *C. difficile*
 - Une fièvre modérée est possible. Un tableau brutal évoque une colite pseudomembraneuse dont le traitement est urgent
 - Le bilan biologique et la coproculture sur selles diarrhéiques sont systématiques: NFS, CRP, bilan rénal, hépatique et coproculture avec recherche de *C. difficile* mentionnée sur l'ordonnance
-- La prise en charge de l'infection à *Claustridium difficile* peut être ambulatoire en l'absence de signes de gravité (intensité, tolérance, comorbidités): antibiothérapie par vancomycine 125 mg x 4/j pendant 10 jours (14 jour si intestin irritable)
+- La prise en charge de l'infection à *Clostridium difficile* peut être ambulatoire en l'absence de signes de gravité (intensité, tolérance, comorbidités): antibiothérapie par vancomycine 125 mg x 4/j pendant 10 jours (14 jour si intestin irritable)
 - Demander un avis infectiologique en cas de doute diagnostique ou de récidive
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-*Clostridioides difficile* (ou *Peptoclostridium difficile*, ex *Claustridium difficile*)
+*Clostridioides difficile* (ou *Peptoclostridium difficile*, ex *Clostridium difficile*)
 : Bactérie Gram positive, anaérobie stricte, pouvant être commensale du tube digestif et transmise par voie féco-orale.
 : Elle peut être pathogène lorsqu'elle exprime des toxines (dites A ou entérotoxine et B ou cytotoxine).
 
-Colonisation par *Clostridioides difficile* (ex *Claustridium difficile*)
+Colonisation par *Clostridioides difficile* (ex *Clostridium difficile*)
 : Portage de la bactérie sans symptômes. Sa prévalence est élevée (4 à 15 % des adultes, jusqu'à 50 % en hospitalisation).
 
 Infection à *Clostridioides difficile* (ICD)
@@ -58,7 +58,7 @@ CCD
 : colite à *C. difficile*
 
 *C. difficile*
-: *Clostridioides difficile* (ex *Claustridium difficile*)
+: *Clostridioides difficile* (ex *Clostridium difficile*)
 
 ICD
 : infection à *Clostridioides difficile*
@@ -85,7 +85,7 @@ Le tableau diarrhéique aigu apparaît souvent **à l'introduction d'une nouvell
 - Traitements en cours (iatrogénie et à risque: IPP)
 - **Antibiothérapie das les 3 mois**, antibiothérapies répétées
 - Autres facteurs de risque: après 65 ans
-- Symptômes de l'infection à *Claustridium difficile*:
+- Symptômes de l'infection à *Clostridium difficile*:
   - Signes généraux: fièvre
   - **Diarrhée inexpliquée** (fréquence ≥ 3/j, selles non moulées, évaluer la sévérité), sans amélioration au-delà de 3 jours de traitement symptomatique, en contexte d'antibiothérapie
   - Douleurs et crampes abdominales
@@ -104,9 +104,9 @@ Le tableau diarrhéique aigu apparaît souvent **à l'introduction d'une nouvell
 {{%collapse "Examens complémentaires" %}}
 
 > [!WARNING]
-> Ne rechercher *Claustridium difficile* qu'en cas de symptômes évocateurs (au moins 3 selles non moulées/24h sans autre cause attribuable), souvent en contexte d'antibiothérapie.
+> Ne rechercher *Clostridium difficile* qu'en cas de symptômes évocateurs (au moins 3 selles non moulées/24h sans autre cause attribuable), souvent en contexte d'antibiothérapie.
 
-### Bilan d'une suspicion d'infection à *Claustridium difficile*
+### Bilan d'une suspicion d'infection à *Clostridium difficile*
 
 - NFS, CRP
 - Créatininémie, DFG
@@ -118,12 +118,12 @@ Le tableau diarrhéique aigu apparaît souvent **à l'introduction d'une nouvell
 > Critères de gravité de l'infection à *Claustridium*: hypotension artérielle, fièvre > 38,5°C, hyperleucocytose ≥ 15.000/mm³ ou créatininémie ≥ 15 mg/L.
 
 {{% /collapse %}}
-{{%collapse "Traitement de Claustridium difficile" %}}
+{{%collapse "Traitement de Clostridium difficile" %}}
 
-La prise en charge de l'infection à *Clostridioides difficile* (ICD, ex *Claustridium difficile*) est ambulatoire **en l'absence de signes de gravité** avec une antibiothérapie simple mais sur ==**prescription et dispensation hospitalière**==.
+La prise en charge de l'infection à *Clostridioides difficile* (ICD, ex *Clostridium difficile*) est ambulatoire **en l'absence de signes de gravité** avec une antibiothérapie simple mais sur ==**prescription et dispensation hospitalière**==.
 
 > [!INFO]
-> Traitement de *Claustridium difficile* non sévère: [fidaxomicine 200 mg](https://www.ema.europa.eu/fr/documents/product-information/dificlir-epar-product-information_fr.pdf)** x 2/j (Dificlir®) pendant 10 jours et arrêt de l'antibiotique inducteur.
+> Traitement de *Clostridium difficile* non sévère: [fidaxomicine 200 mg](https://www.ema.europa.eu/fr/documents/product-information/dificlir-epar-product-information_fr.pdf)** x 2/j (Dificlir®) pendant 10 jours et arrêt de l'antibiotique inducteur.
 
 En cas de récidive (dans les 8 semaines suivant la fin du traitement): demander un **avis infectiologique**.
 
