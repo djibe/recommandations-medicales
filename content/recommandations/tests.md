@@ -241,58 +241,161 @@ document.addEventListener('DOMContentLoaded', function() {
 ## Plan action asthme {.mt-5}
 
 <div class="form-group text-center my-4">
-                    <div class="form-check form-check-inline">
-                        <input class="form-check-input" type="radio" name="ageSelection" id="moins12" value="moins12">
-                        <label class="form-check-label" for="moins12">Moins de 12 ans</label>
-                    </div>
-                    <div class="form-check form-check-inline">
-                        <input class="form-check-input" type="radio" name="ageSelection" id="plus12" value="plus12">
-                        <label class="form-check-label" for="plus12">12 ans et plus</label>
-                    </div>
-                </div>
+<div class="custom-control custom-radio custom-control-inline">
+  <input type="radio" id="moins12" value="moins12" name="ageSelection" class="custom-control-input" checked>
+  <label class="custom-control-label" for="moins12">Moins de 12 ans</label>
+</div>
+<div class="custom-control custom-radio custom-control-inline">
+  <input type="radio" id="plus12" value="plus12" name="ageSelection" class="custom-control-input">
+  <label class="custom-control-label" for="plus12">12 ans et +</label>
+</div>
+</div>
 <!-- Section pour -12 ans (initialement cachée) -->
-                <div id="sectionMoins12" class="mt-4" style="display: none;">
-                    <h4 class="text-info">Plan d'action de la crise d'asthme de l'enfant (avant 12 ans)</h4>
+                <div id="sectionMoins12" class="mt-4">
+                    <h4 class="text-info">Plan d'action de la crise d'asthme de l'enfant (6 - 12 ans)</h4>
                     <!-- Form -->
-                    <div class="card card-body border shadow-none flex-row mt-3" style="">
-                      <div class="form-group floating-label textfield-box form-ripple" style="flex: 1">
-                      <label for="poidsInput"><strong>Poids (kg)</strong></label>
-                      <input type="number" class="form-control" id="poidsInput" min="2" max="80" required>
+                    <div class="card card-body border shadow-none my-3" style="">
+                    <div class="d-flex">
+                      <div class="form-group floating-label textfield-box form-ripple mr-2" style="flex: 1">
+                      <label for="poidsInput"><strong>Poids de l’enfant (kg)</strong></label>
+                      <input type="number" class="form-control" id="poidsInput" min="4" max="160" required>
                       </div>
-                    <div class="">
-                        <strong>Dose:</strong>
-                        <p id="resultatDose" class="mt-2 p-3 bg-light rounded">Poids manquant...</p>
-                        <small class="form-text text-muted">
-                            Le calcul est basé sur 1 bouffée par 2 kg de poids (minimum 4 et maximum 15 bouffées).
-                        </small>
+                      <!--<div class="">
+                          <p id="resultatDose" class="mt-2 p-3 bg-light rounded">Poids manquant...</p>
+                      </div>-->
+                      </div>
+                      <small class="form-text text-muted">
+                        1 bouffée par 2 kg de poids (minimum 4 et maximum 15 bouffées).
+                      </small>
                     </div>
-                    </div>
-                </div>
+
+{{%warning%}}
+À tout moment de la crise, si aggravation rapide ou gêne respiratoire importante: CONTACTER LE SAMU (Numéro 15).
+
+Les signes graves sont une respiration irrégulière, une difficulté à parler, un pourtour des lèvres bleu, un malaise.
+{{%/warning%}}
+
+En cas de gêne respiratoire, de toux ou de sifflements, faire inhaler dès le début des symptômes:
+
+> **Ventoline** ==**<span class="text-dose">X</span> bouffées** dans la chambre d'inhalation, toutes les 10-15 minutes==.
+{.my-4}
+
+- Chaque bouffée est suivie de 5 respirations dans la chambre d'inhalation.
+- Rester avec l'enfant.
+- Surveiller l'apparition des signes de gravité (encadré ci-dessus).
+- Aucun des traitements n'est dangereux
+{.text-black-secondary}
+
+<div class="alert border my-4">
+
+**En l'absence d'amélioration à 1 heure:**
+
+- Donner la prednisolone: <mark><strong><span class="text-predni-dose">X</span> mg</strong></mark> à diluer dans un peu d'eau
+- **Consultation médicale** en urgence
+- Poursuivre l'inhalateur à la même dose toutes les 10-15 minutes en attendant la consultation
+
+</div>
+
+**Si l'état respiratoire se normalise**, continuer un traitement d'entretien par:
+
+- Ventoline avec chambre d'inhalation: **4 bouffées** matin, midi, goûter et soir pendant 7 jours
+- Le traitement habituel
+- Réévaluation par le médecin
+
+> -- [D'après Rivière S, Peta H 2025. Validation AFPA, GFRUP, GPGse, SP2A](https://pap-pediatrie.fr/pap-detail/mlf9)
+
+</div>
 <!-- Section pour 12 ans et + (initialement cachée) -->
-                <div id="sectionPlus12" class="mt-4" style="display: none;">
-                    <h4 class="text-info">Plan d'action de l'asthme chez l'adulte (à partir de 12 ans)</h4>
-                    <div class="alert alert-success">
-                      <strong>Dose recommandée en cas de crise :</strong>
-                      <p class="mb-0">Prendre entre 4 et 15 bouffées du médicament de secours, selon la prescription de votre médecin.</p>
-                    </div>
-                </div>
-                <div class="alert alert-warning mt-5">
-                <p>À tout moment de la crise, si aggravation rapide ou si gêne respiratoire importante: CONTACTER LE SAMU = 15.</p>
-                <p>Les signes graves sont une respiration irrégulière chez un enfant fatigué, une difficulté à parler, un pourtour des lèvres bleu, des signes de malaise.</p>
-                </div>
-                <p>En cas de gêne respiratoire, de toux ou de sifflements, donner dès le début des symptômes:</p>
-                <blockquote><p><strong>Ventoline spray</strong> avec la chambre d'inhalation: <mark><strong><span class="text-dose">X</span> bouffées</strong> toutes les 20 minutes</mark>.</blockquote>
-                <p>(Chaque bouffée est suivie de 5 respirations avec la chambre d'inhalation.)</p>
-                <div class="alert alert-warning my-4">
-                <p><strong>En l'absence d'amélioration à 1 heure:</strong></p>
-                <ul>
-                <li>Donner la prednisolone: <mark><strong><span class="text-predni-dose">X</span> mg</strong></mark> à diluer dans un peu d'eau</li>
-                <li>Consultation médicale en urgence</li>
-                <li>Poursuivre la Ventoline à la même dose toutes les 20 minutes en attendant la consultation</li>
-                </ul>
-                </div>
-                <p><span class="text-underline">Si l’état respiratoire se normalise</span>: donner un traitement d’entretien par:<br> 
-                VENTOLINE spray avec chambre d’inhalation: <strong>4 bouffées</strong> matin, midi, goûter et soir pendant 7 jours</p>
+<div id="sectionPlus12" class="mt-4" style="display: none;">
+  
+### Plan d'action de l'asthme chez l'adulte (à partir de 12 ans)
+
+<div class="alert border" style="border-color: green!important">
+  <div class="d-flex flex-wrap">
+  <div class="mb-3">
+
+#### Zone 1: mon asthme est bien contrôlé
+
+- Respiration normale
+- Pas de toux ni de sifflement
+- Je dors bien
+- Je peux faire toutes mes activités habituelles
+
+  </div>
+  <div>
+
+Je prends chaque jour mon traitement habituel:
+
+<div class="form-group">
+  <div class="floating-label textfield-box">
+    <label for="ttt-fond-adulte">Traitement habituel</label>
+    <select class="form-control" id="ttt-fond-adulte">
+      <option label=" "></option>
+      <optgroup label="Budésonide">
+        <option>Budésonide formotérol Forspiro</option>
+        <option>Duoresp Spiromax</option>
+        <option>Symbicort Rapihaler (spray)</option>
+        <option>Symbicort Turbuhaler</option>
+      </optgroup>
+      <optgroup label="Béclométasone">
+        <option>Béclométasone/formotérol (spray)</option>
+        <option>Formodual ou Innovair (spray)</option>
+        <option>Formodual ou Innovair Nexthaler</option>
+      </optgroup>
+    </select>
+  </div>
+</div>
+
+  </div>
+  </div>
+</div>
+<div class="alert border d-flex flex-wrap" style="border-color: green">
+  <div class="mb-3">
+
+#### Zone 2: J'ai des symptômes qui peuvent annoncer une crise
+
+- Toux occasionnelle
+- Nez qui coule
+- Éternuements
+- Picotement dans la gorge
+
+  </div>
+  <div>
+
+Je prends chaque jour mon traitement habituel à dose intensifiée:
+
+Je reprends TODO:
+
+  </div>
+</div>
+
+{{%warning%}}
+À tout moment de la crise, si aggravation rapide ou gêne respiratoire importante: CONTACTER LE SAMU (Numéro 15).
+
+Les signes graves sont une respiration irrégulière, une difficulté à parler, un pourtour des lèvres bleu, un malaise.
+{{%/warning%}}
+
+En cas de gêne respiratoire, de toux ou de sifflements, inhaler dès le début des symptômes:
+
+> ==**1 à 2 bouffées du traitement usuel**== **toutes les 20 minutes**  
+> {{%class%}}Habituellement formotérol/budésonide.{{%/class%}}
+
+À défaut, utiliser de la terbutaline ou du salbutamol. Ex: **Ventilastin Novolizer**, 1 à 2 bouffées toutes les 20 minutes.
+
+<div class="alert border my-4">
+
+**En l'absence d'amélioration à 1 heure:**
+
+- Prendre la prednisolone: ==**40-50 mg**== diluée dans un peu d'eau
+- **Consultation médicale** en urgence
+- Poursuivre l'inhalateur à la même dose toutes les 20 minutes en attendant la consultation
+
+</div>
+
+**Si l'état respiratoire se normalise:** poursuivre l'inhalateur plusieurs fois par jour pendant 7 jours, et la prednisolone 5 à 7 jours.
+
+</div>
+</div>
 <script>
         // Récupération des éléments du DOM
         const radioMoins12 = document.getElementById('moins12');
@@ -300,7 +403,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const sectionMoins12 = document.getElementById('sectionMoins12');
         const sectionPlus12 = document.getElementById('sectionPlus12');
         const poidsInput = document.getElementById('poidsInput');
-        const resultatDose = document.getElementById('resultatDose');
+        //const resultatDose = document.getElementById('resultatDose');
         const textsDose = document.querySelectorAll('.text-dose');
         const textsPredniDose = document.querySelectorAll('.text-predni-dose');
         // Ajout des écouteurs d'événements sur les boutons radio
@@ -309,7 +412,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 sectionMoins12.style.display = 'block';
                 sectionPlus12.style.display = 'none';
                 poidsInput.value = ''; // Réinitialiser le champ poids
-                resultatDose.textContent = 'En attente du poids...';
+                //resultatDose.textContent = 'En attente du poids...';
             }
         });
         radioPlus12.addEventListener('change', function() {
@@ -324,11 +427,10 @@ document.addEventListener('DOMContentLoaded', function() {
             if (poids > 0) {
                 // Calcul de la dose : 1 bouffée / 2kg
                 let doseInhalateur = Math.round(poids / 2);
-                // Application du minimum de 4 bouffées
+                // Minmax doses
                 doseInhalateur = Math.max(4, doseInhalateur);
-                // Application du maximum de 15 bouffées
                 doseInhalateur = Math.min(15, doseInhalateur);
-                resultatDose.textContent = `${doseInhalateur} bouffées.`;
+                //resultatDose.textContent = `${doseInhalateur} bouffées.`;
                 textsDose.forEach(span => { span.textContent = doseInhalateur });
                 // Appliquer le maximum de 40 mg
                 let doseMinPrednisolone = Math.round((poids * 1) / 5) * 5;
@@ -339,73 +441,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 //resultatPrednisolone.textContent = `${doseMinPrednisolone} mg et ${doseMaxPrednisolone} mg.`;
                 textsPredniDose.forEach(span => { span.textContent = doseMaxPrednisolone });
             } else {
-                resultatDose.textContent = 'Veuillez entrer un poids valide.';
+                //resultatDose.textContent = 'Veuillez entrer un poids valide.';
             }
         });
     </script>
-
-> -- [Marguet C; Groupe de Recherche Sur Les Avancées En PneumoPédiatrie. Prise en charge de la crise d'asthme de l'enfant (nourrisson inclus). Recommandations pour la pratique clinique [Management of acute asthma in infants and children: recommendations from the French Pediatric Society of Pneumology and Allergy]. Rev Mal Respir. 2007;24(4 Pt 1):427-439. doi:10.1016/s0761-8425(07)91567-3](https://www.sciencedirect.com/science/article/abs/pii/S0761842507915673) (payant); [Plan d'action enfant Necker (PDF)](https://cdn2.splf.fr/wp-content/uploads/2022/12/PA-Enfant-Necker.pdf)
-
-<!--<div class="card card-body bg-primary-light shadow-none my-2 flex-row justify-content-between">
-  <div>
-    <p class="typography-overline">Âge</p>
-    <input type="radio" name="asthme-age" id="enfant" class="d-input-none" required>
-    <label for="enfant" class="chip chip-action chip-choice chip-sm">6-11</label>
-    <input type="radio" name="asthme-age" id="ado" class="d-input-none">
-    <label for="ado" class="chip chip-action chip-choice chip-sm">Adolescent</label>
-    <input type="radio" name="asthme-age" id="adulte" class="d-input-none" checked>
-    <label for="adulte" class="chip chip-action chip-choice chip-sm">Adulte</label>
-  </div>
-  <div>
-    <p class="typography-overline">Stade GINA</p>
-    <input type="radio" name="asthme-stade" id="niveau1" class="d-input-none" checked required>
-    <label for="niveau1" class="chip chip-action chip-choice chip-sm" data-toggle="tooltip" title="Symptômes &lt; 2/mois">1</label>
-    <input type="radio" name="asthme-stade" id="niveau2" class="d-input-none">
-    <label for="niveau2" class="chip chip-action chip-choice chip-sm" data-toggle="tooltip" title="Contrôlé par CSI faible dose">2</label>
-    <input type="radio" name="asthme-stade" id="niveau3" class="d-input-none">
-    <label for="niveau3" class="chip chip-action chip-choice chip-sm" data-toggle="tooltip" title="Contrôlé par CSI+LABA faible ou CSI moyen">3</label>
-    <input type="radio" name="asthme-stade" id="niveau4" class="d-input-none">
-    <label for="niveau4" class="chip chip-action chip-choice chip-sm">4</label>
-    <input type="radio" name="asthme-stade" id="niveau5" class="d-input-none">
-    <label for="niveau5" class="chip chip-action chip-choice chip-sm">5</label>
-  </div>
-</div>
-<div class="card card-body my-2">
-  <h4 class="card-title">Traitement de fond</h4>
-  <p>CSI/formotérol 200/6 à la demande</p>
-</div>
-<div class="card card-body my-2">
-  <h4 class="card-title">Exacerbation d'asthme</h4>
-  <p class="card-subtitle">Utilisation fréquente du traitement de secours, réveil avec asthme, activités habituelles impossibles. Augmentation pendant 1-2 semaines.</p>
-  <p>CSI/formotérol à la demande</p>
-</div>
-<div class="card card-body my-2">
-  <h4 class="card-title">Exacerbation sévère</h4>
-  <p class="card-subtitle">DEP &lt; 60 % ou <strong>absence de réponse à 48 heures</strong></p>
-  <p>Prednisolone <span id="asthme-cso">40-50 mg/j pendant 5-7 jours</span></p>
-  <p>Consultation médicale urgente</p>
-</div>
-<script>
-  document.addEventListener( 'DOMContentLoaded', event => {
-    const age = document.getElementByTagName('asthme-age')
-    const gina = document.getElementByTagName('asthme-stade');
-    [...document.querySelectorAll('#score-act input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcAct() ) })
-    const calcAct = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('#score-act input[type=\"radio\"]:checked')
-        elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-        if (elemsChecked.length === 5) {
-          scoreAct.innerHTML = score
-          if (score >= 20) {
-            textAct.innerHTML = "Asthme contrôlé"
-          }
-          else if (score < 20) {
-            textAct.innerHTML = "Asthme non contrôlé<br><span class=\"text-muted\">Intensifier le traitement (augmenter le CSI ± LABA)</span>"
-          }
-        } else {
-          textAct.innerHTML = "Veuillez répondre à toutes les questions"
-        }
-      })
-    }
-</>-->
