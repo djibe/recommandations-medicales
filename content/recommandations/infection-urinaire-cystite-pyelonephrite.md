@@ -153,7 +153,7 @@ ECBU en cas de {{< modal-btn modal-fdr-complication >}}facteur de risque de comp
 Antibiothérapie probabiliste uniquement en cas de symptômes marqués (*Info-antibio N°107*):
 
 1. Fosfomycine trométamol 3g à J1, J3 et J5
-2. Triméthoprime/sulfaméthoxazole 160/800 mg x 2/j pendant 5 jours
+2. Triméthoprime/sulfaméthoxazole 80/400 mg ([Bactrim](https://base-donnees-publique.medicaments.gouv.fr/medicament/65181349/extrait#tab-rcp)) x 2/j pendant 5 jours
 3. [Nitrofurantoïne](https://base-donnees-publique.medicaments.gouv.fr/medicament/62013296/extrait#tab-rcp) (Furadantine®) 100 mg x 3/j pendant le repas pendant 7 jours  
   Sauf clairance < 45 mL/min.
 
