@@ -93,7 +93,7 @@ Pour plus d'informations sur les vaccinations, dont les obligations, voir le cha
 
 > Temporairement, ==rattrapage des méningites B et ACWY jusqu'à 4 ans révolus== (même si 2 doses de Neisvac -- *HAS 7/2025*).
 
-{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention **NR**. Dr JB Fron d'après *Calendrier Vaccinal 2025* et HAS" class="table-wrap" >}}
+{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2026. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention **NR**. Dr JB Fron d'après *Calendrier Vaccinal 2025* et HAS" class="table-wrap" >}}
 |          Âge          | Valences                                                                                  | Spécialités équivalentes                                                                                        |
 |:---------------------:|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | Né après<br>le 1er février<br>(à partir de septembre) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |

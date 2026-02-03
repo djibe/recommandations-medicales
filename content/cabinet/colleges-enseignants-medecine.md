@@ -21,9 +21,9 @@ Page mémo pour accéder à tous les polycopiés des Collèges des enseignants d
 
 Le tableau ci-dessous liste tous les référentiels des Collèges de médecine disponibles en téléchargement gratuit.
 
-{{< table title="Livres gratuits des Collèges des enseignants de médecine pour le deuxième cycle en 2025" class="table-wrap" >}}
-| Spécialité | Collège        | Année    | Lien |
-|--------------|--------------|---------:|------|
+{{< table title="Livres gratuits des Collèges des enseignants de médecine pour le deuxième cycle en 2026" class="table-wrap" >}}
+| Spécialité | Collège | Année | Lien |
+| ---------- | ------- | ----- | ---- |
 | Addictologie | CUNEA <br><span class="typography-caption">Collège Universitaire National des Enseignants d'Addictologie</span> | 2024 | [lien](https://www.cunea.fr/sites/default/files/ref_psy_add_4ed.pdf) |
 | Anatomopathologie | Copath <br><span class="typography-caption">Collège des Pathologistes</span> | 2022 | [lien](https://www.sfpathol.org/564-manuel-introduction.html) |
 | Anesthésie-réanimation | CNEAR <br><span class="typography-caption">Collège National des Enseignants d'Anesthésie et de Réanimation</span> | 2020 | [lien](https://www.cnear.fr/_files/ugd/16c755_470c9901054f437a86d606b696fa7470.pdf) |

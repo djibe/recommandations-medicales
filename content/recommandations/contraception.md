@@ -171,9 +171,9 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 > [!INFO]
 > La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares (*CNGOF 2018*). Le risque d'infection haute est < 1%, même en cas de portage de gonocoque ou Chlamydia (*CNGOF 2018 IGH*).
 
-{{< table title="Spécialités de contraception disponibles en France en 2025 (sauf dernières générations et DMPA qui augmentent le risque vasculaire) et préservatifs remboursés. Dr JB Fron d'après *BDPM* et *Assurance Maladie*" class="table-wrap" id="table-pilule" >}}
+{{< table title="Spécialités de contraception disponibles en France en 2026 (sauf dernières générations et DMPA qui augmentent le risque vasculaire) et préservatifs remboursés. Dr JB Fron d'après *BDPM* et *Assurance Maladie*" class="table-wrap" id="table-pilule" >}}
 | Type        | EE (µg)  | Progestatif (mg) | Spécialités     |
-|-------------|---------:|------------------|-----------------|
+| ----------- | -------: | ---------------- | --------------- |
 | 2G          | 30/40    | LNG 0,15-0,2     | Adepal, Pacilia |
 | 2G          | 30/40/30 | LNG 0,05-0,075-0,125 | Trinordiol, Daily |
 | 2G          | 30       | LNG 0,15         | gén, Ludeal, Milevoni 150, Minidril, Optidril 28j, Qiade |

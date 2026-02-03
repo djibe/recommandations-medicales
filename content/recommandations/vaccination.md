@@ -60,7 +60,7 @@ VVA
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal 2025" "show" %}}
 
-{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2025. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention *NR*. Dr JB Fron d'après *Calendrier vaccinal 2025*, *HAS 2025.0040/AC/SESPEV*, *HAS 2025* et *2024*, DGS Urgent 2025-15." class="table-wrap" >}}
+{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2026. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention *NR*. Dr JB Fron d'après *Calendrier vaccinal 2025*, *HAS 2025.0040/AC/SESPEV*, *HAS 2025* et *2024*, DGS Urgent 2025-15." class="table-wrap" >}}
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 |:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
 | Né après<br>le 1er février,<br>(à partir de septembre) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |

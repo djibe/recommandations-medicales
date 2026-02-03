@@ -36,7 +36,7 @@ Ces recommandations visent à protéger les nourrissons non immuns et personnes 
   - Tous les vaccins dTPolio sont désormais couplés à la coqueluche (BoostrixTetra ou Repevax)
   - [Vaccination coqueluche]({{% relref "vaccination.md" %}}) à chaque grossesse entre 20 et 36 SA
   - **Cocooning:** actuellement pour tout l'entourage dont le dernier rappel a plus de 5 ans (habituellement uniquement en l'absence de vaccination en fin de grossesse)
-  - Professionnels de santé en 2025: rappel coqueluche si +5 ans
+  - Professionnels de santé en 2026: rappel coqueluche si +5 ans
 - [Signalement à l'ARS]({{% relref "agences-regionales-sante-ars.md" %}}) pour au moins 2 cas de coqueluche en collectivité ou intrafamiliaux
 
 {{%/article-summary%}}
@@ -199,7 +199,7 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
 | Médecin généraliste         | BoostrixTetra, Repevax                                         | Coqueluche à chaque dTP                 |
 {{< /table >}}
 
-> **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse (si amené à s'occuper de l'enfant durant les 6 premiers mois) avant 25 ans si dernière dose a +5 ans (pour **tous en 2025**), si rappel a +10 ans ensuite  
+> **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse (si amené à s'occuper de l'enfant durant les 6 premiers mois) avant 25 ans si dernière dose a +5 ans (pour **tous en 2026**), si rappel a +10 ans ensuite  
 **Professionnels de santé et de la petite enfance:** ajouter la coqueluche à chaque rappel du dTPolio (45 et 65 ans) + 1 dose si dernière dose réalisée avant 18 ans et date de +5 ans.
 
 La vaccination contre la coqueluche peut être réalisée par un pharmacien ou un infirmier sans ordonnance. Elle fait partie des 11 vaccins obligatoires pour les enfants nés à partir du 1er janvier 2018 (voir [vaccination]({{% relref "vaccination.md" %}})).

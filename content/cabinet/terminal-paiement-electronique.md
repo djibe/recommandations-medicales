@@ -6,15 +6,15 @@ description = "Comparatif des terminaux de paiement électroniques (TPE) indépe
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-11T12:30:00+02:00"
 publishdate = "2023-09-16"
-lastmod = "2025-02-24"
-annees = "2025"
+lastmod = "2026-02-03"
+annees = "2026"
 sources = []
 tags = []
 image = true
 imageSrc = "des TPE par Undraw"
 +++
 
-De nombreux terminaux de paiement électroniques (TPE) pour la lecture des cartes bancaires ont permis de passer outre les offres des banques. Ce comparatif explore les offres disponibles en France en 2025.
+De nombreux terminaux de paiement électroniques (TPE) pour la lecture des cartes bancaires ont permis de passer outre les offres des banques. Ce comparatif explore les offres disponibles en France en 2026.
 {.lead .mb-5}
 
 La plupart des solutions nécessitent d'acheter un lecteur de carte bleue (pour une somme souvent dérisoire). Une **commission est ensuite prélevée à chaque paiement**, avec pour certaines un barème fixe en sus sur chaque transaction.
@@ -24,8 +24,8 @@ Ces offres ne doivent pas empêcher une négociation directe du médecin génér
 Ainsi, sur une consultation à 30 €, la solution de paiement *Smile & Pay* Premium prélèvera une commission de 19,7 centimes quand le *SumUp* demandera 52,5 centimes d'euros.
 
 {{< table title="Solutions de terminaux de paiement électroniques indépendantes. Dr JB Fron" >}}
-| Solution | Commission fixe | Variable (% HT)      | Terminal (€ HT) | Site |
-|----------|-----------------|---------------------:|-----------------|------|
+| Solution | Commission fixe | Variable (% HT) | Terminal (€ HT) | Site |
+| -------- | --------------- | --------------: | --------------- | ---- |
 | Flatpay | 0 | 1,29 | Gratuit | [Site](https://www.flatpay.com/fr/pricing) |
 | myPOS | 0 | 1,69 | Unique (29 à 249) | [Site](https://www.mypos.com/fr-fr/pricing-and-fees) |
 | Revolut Reader | 2c | 0,80 | 49€ + compte pro 7€/m ? | [Site](https://www.revolut.com/fr-FR/business/revolut-reader/) |

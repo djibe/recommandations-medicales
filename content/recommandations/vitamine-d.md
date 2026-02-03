@@ -131,7 +131,7 @@ La supplémentation en vitamine D est prescrite au long cours sans dosage de la 
 
 S'assurer également d'[apports calciques suffisants]({{% relref "apports-calcium.md" %}}).
 
-{{< table title="Apports en vitamine D recommandés en 2025 selon le profil du patient" >}}
+{{< table title="Apports en vitamine D recommandés en 2026 selon le profil du patient" >}}
 | Population                                                    | Apports (UI/j) ou cibles (25OHD) recommandés                                         | Source           |
 |---------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------|
 | 0 - 2 ans                                                     | 400-800 UI/j                                                                         | *Bacchetta 2025* |

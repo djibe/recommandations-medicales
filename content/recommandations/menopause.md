@@ -527,7 +527,7 @@ Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch tous les 3-4 jours (s
 \+ Progesterone orale 200 mg au coucher en continu
 {{%/info%}}
 
-{{< table title="Traitements hormonaux de la ménopause (THM) recommandés par le CNGOF disponibles seuls ou en association en France en 2025. Dr JB Fron d'après *BDPM*" class="table-wrap">}}
+{{< table title="Traitements hormonaux de la ménopause (THM) recommandés par le CNGOF disponibles seuls ou en association en France en 2026. Dr JB Fron d'après *BDPM*" class="table-wrap">}}
 | Classe              | Molécule                   | Spécialités                                                                   |                             Dosages |
 |---------------------|----------------------------|-------------------------------------------------------------------------------|------------------------------------:|
 | Estradiol patch     | Estradiol                  | Dermestril (-Septem), Estrapatch, Femsept, Oesclim, Thais (-sept), Vivelledot |25, 37,5, 40, 50, 60, 75, 100 µg/24h |

@@ -1,6 +1,6 @@
 +++
 id = "0190e8c8-1fdf-70de-9825-13ebe9a5cf69"
-title = "Maladies à déclaration obligatoire en 2025"
+title = "Maladies à déclaration obligatoire en 2026"
 prefix = "les "
 titleSeo = "Maladies déclaration obligatoire"
 noindex = true
@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-27T17:24:00+02:00"
 publishdate = "2021-03-27"
-lastmod = "2025-01-27"
+lastmod = "2026-02-03"
 specialites = ["certificats"]
 annees = "2023"
 sources = ["SPF"]
@@ -21,7 +21,7 @@ image = true
 imageSrc = "Illustration des Maladies à déclaration obligatoire par rawpixel.com / Freepik"
 +++
 
-37 maladies sont à déclaration obligatoire (MDO) en 2025, dont 2 non infectieuses (mésothéliomes et saturnisme chez les enfants mineurs). Cette liste est définie par l'[article D3113-6](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190444/) du Code de la Santé publique.
+37 maladies sont à déclaration obligatoire (MDO) en 2026, dont 2 non infectieuses (mésothéliomes et saturnisme chez les enfants mineurs). Cette liste est définie par l'[article D3113-6](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006190444/) du Code de la Santé publique.
 
 ## Liste des maladies à déclaration obligatoire
 

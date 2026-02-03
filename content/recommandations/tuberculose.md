@@ -73,7 +73,7 @@ Le BCG est réalisé à partir d'un mois, idéalement à ==**2 mois**== et rattr
 Une **BCGite** survient dans sous 2-3 semaines avec souvent une ulcération de 5 mm (en moyenne), guérissant sous 3 mois ou plus (aucune application locale, pansement sec simple si écoulement). Elle peut laisser une cicatrice de 3 à 7 mm. Une adénopathie axillaire indolore locale est fréquente. ([guide info Ameli](https://www.ameli.fr/assure/sante/themes/tuberculose/vaccination))
 {.alert .alert-info}
 
-### Indications au BCG en 2025
+### Indications au BCG en 2026
 
 Le BCG est indiqué en cas de risque élevé de tuberculose:
 

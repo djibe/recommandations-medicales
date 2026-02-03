@@ -9,9 +9,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-25T11:57:30+01:00"
 publishdate = "2021-11-25"
-lastmod = "2025-01-06"
+lastmod = "2026-02-03"
 specialites = ["social"]
-annees = "2025"
+annees = "2026"
 sources = ["Service-Public"]
 tags = ["gériatrie"]
 english = []
@@ -72,8 +72,8 @@ Le dossier complet est adressé au *CCAS* ou au *conseil départemental* du lieu
 
 En parallèle: prendre contact avec des services agréés d'aide à domicile, ou des salariés.
 
-Grande méfiance, 75 % des prestataires de services ont été épinglés par la répression des fraudes (*DGCCRF*) en 2016.
-{.alert .alert-warning}
+> [!WARNING]
+> Grande méfiance, 75 % des prestataires de services ont été épinglés par la répression des fraudes (*DGCCRF*) en 2016.
 
 Établir le plan d'aide, le coût et le volume horaire de la prestation.  
 
@@ -83,13 +83,13 @@ L'APA est versé à la personne ou directement au prestataire.
 
 ### Montants de l'APA
 
-{{< table title="Montants de l'Allocation Personnalisée d'Autonomie (APA) en 2025. Dr JB Fron d'après *Service-Public*" class="table-wrap">}}
+{{< table title="Montants de l'Allocation Personnalisée d'Autonomie (APA) en 2026. Dr JB Fron d'après *Service-Public*" class="table-wrap">}}
 | Situation         | Perte d'autonomie | Prestation (€/mois) |
-|-------------------|-------------------|--------------------:|
-| Personne confinée lit/fauteuil avec perte autonomie totale nécessitant des intervenants en continu | GIR 1 | 2045,56 |
-| Confinement lit/fauteuil mais certaines fonctions mentales conservées, nécessite aide pour plupart des activités courantes | GIR 2 | 1654,18 |
-| Autonomie mentale conservée, motrice partielle, aides tous les jours plusieurs fois pour autonomie corporelle | GIR 3 | 1195,67 |
-| Aide pour transferts mais autonome pour déplacement une fois levé, ou aide pour aide corporelle ou repas sans difficultés pour se déplacer | GIR 4 | 797,96 |
+| ----------------- | ----------------- | ------------------: |
+| Personne confinée lit/fauteuil avec perte autonomie totale nécessitant des intervenants en continu | GIR 1 | 2080,33 |
+| Confinement lit/fauteuil mais certaines fonctions mentales conservées, nécessite aide pour plupart des activités courantes | GIR 2 | 1682,30 |
+| Autonomie mentale conservée, motrice partielle, aides tous les jours plusieurs fois pour autonomie corporelle | GIR 3 | 1215,99 |
+| Aide pour transferts mais autonome pour déplacement une fois levé, ou aide pour aide corporelle ou repas sans difficultés pour se déplacer | GIR 4 | 811,52 |
 {{< /table >}}
 
 {{% /collapse %}}
@@ -118,7 +118,7 @@ La prestation est accordée pour 5 ans, automatiquement renouvelable.
 {{% /collapse %}}
 {{%sources%}}
 
-- [Service-Public. Allocation personnalisée d'autonomie (Apa). 01/01/2025.](https://www.service-public.fr/particuliers/vosdroits/F10009)
+- [Service-Public. Allocation personnalisée d'autonomie (Apa). 01/01/2026.](https://www.service-public.fr/particuliers/vosdroits/F10009)
 - 60 Millions de consommateurs n°520. Novembre 2016.
 - DGCCRF. Contrôle de l'information des consommateurs sur les prix des produits et services d'aide à l'autonomie. 28 octobre 2016.
 - Fizzala A. Autonomix, un outil d'évaluation de mesures portant sur les personnes âgées dépendantes. DREES Économie et statistique n°481-482. 2015.

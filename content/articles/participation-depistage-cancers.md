@@ -23,7 +23,7 @@ Trois cancers bénéficient en France d'un **dépistage organisé** par l'*Assur
 
 Pourtant, plus le cancer tue, moins les Français participent à sa prévention par le dépistage. Ainsi, le cancer colorectal, responsable de 16.975 décès annuels (2022, 2^e^ en mortalité) n'est recherché que par **29,6 %** des Français.
 
-Le taux maximal de participation au dépistage, qui atteint 59,5 %, concerne le cancer du col de l'utérus, responsable pour sa part de 836 décès annuels (en 2022).
+Le taux maximal de participation au dépistage, qui atteint 59,5 %, concerne le cancer du col de l'utérus, responsable pour sa part de 836 décès annuels (métropole 2022).
 
 Pour tous les dépistages, les taux de participation restent très en-dessous des attentes de santé publique.
 
@@ -60,7 +60,7 @@ const chartOptions1 = {
     type: 'column',
     data: [836, 12757, 16975]
   }],
-  title: { text: 'Taux de participation au dépistage des cancers en 2025' },
+  title: { text: 'Taux de participation au dépistage des cancers en 2026' },
   xaxis: { categories: ['Col de l’utérus', 'Sein', 'Côlon-rectum'] },
   yaxis: [
     {

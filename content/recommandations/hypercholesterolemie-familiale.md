@@ -176,7 +176,8 @@ graph TB
 
 ### Bibliographie en attente
 
-[Durand A, et al. Familial hypercholesterolaemia in UK primary care: a Clinical Practice Research Datalink study of an under-recognised condition. British Journal of General Practice. 2024.](https://bjgp.org/content/early/2024/02/06/BJGP.2023.0010%20)
+- [Beliard S, Moulin P, et al; Filière des maladies rares endocriniennes FIRENDO, Centre d'Expertise des Dyslipidémies Rares (CEDRA). Hypercholestérolémie Familiale Homozygote. PNDS. 2025.](https://www.has-sante.fr/jcms/p_3826396/fr/hypercholesterolemie-familiale-homozygote)
+- [Durand A, et al. Familial hypercholesterolaemia in UK primary care: a Clinical Practice Research Datalink study of an under-recognised condition. British Journal of General Practice. 2024.](https://bjgp.org/content/early/2024/02/06/BJGP.2023.0010%20)
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
