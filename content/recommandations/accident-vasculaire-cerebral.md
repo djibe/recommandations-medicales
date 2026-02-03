@@ -9,10 +9,10 @@ synonyms = ["Accident ischémique transitoire (AIT)", "infarctus cérébral", "h
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-25T14:04:00+02:00"
 publishdate = "2021-01-25"
-lastmod = "2024-10-28"
+lastmod = "2026-01-30"
 specialites = ["neurologie"]
-annees = "2022"
-sources = ["ESO", "ESH", "ESC", "HAS", "AHA"]
+annees = "2025"
+sources = ["HAS", "ESO", "ESH", "ESC", "AHA"]
 tags = ["antiplaquettaire", "céphalées", "chute", "démence", "diabète", "HTA", "risque cardiovasculaire", "SAS", "vertige"]
 english = ["Cerebrovascular accident", "ischaemic stroke", "transient ischaemic attack (TIA)", "intracerebral hemorrhage (ICH)"]
 sctid = "230690007"
@@ -26,7 +26,7 @@ flowchart = true
 {{%article-summary%}}
 
 - Considérer tout déficit neurologique brutal, transitoire ou prolongé, comme une urgence absolue
-- Un accident vasculaire cérébral est une urgence vitale: protocole FAST et appel du {{<phone>}}15{{</phone>}}, allonger la victime, fiche pour le SAMU (4h30 pour thrombolyser)
+- Un accident vasculaire cérébral est une urgence vitale: protocole FAST et appel du {{<phone>}}15{{</phone>}}, allonger la victime, fiche pour le SAMU (4h30 pour thrombolyser voire jusqu'à 9 heures; thrombectomie parfois jusqu'à 24 heures)
 - L'AVC est la première cause de mortalité de la femme et la 3^e^ de l'homme
 - Un antécédent d'AIT ou d'AVC détermine un {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}
 - Prise en charge post-AVC: aspirine 75-150 mg/j si ischémique non cardioembolique, {{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} < 0,7 g/L, si hypertension: {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}, thiazidique pour cible < 130/80 mmHg
@@ -164,7 +164,8 @@ Liste des contre-indications à la thrombolyse par risque hémorragique:
 
 - Trouble hémorragique significatif actuel ou au cours des six derniers mois.
 - Trouble de la coagulation connu.
-- Traitement par anticoagulants oraux à dose efficace.
+- Traitement par anticoagulants oraux à dose efficace.  
+  Sauf AVK avec INR ≤ 1,7.
 - Hémorragie sévère ou potentiellement dangereuse, manifeste ou récente.
 - Antécédents ou suspicion d'hémorragie intracrânienne ou sous-arachnoïdienne
 - Antécédents de lésion sévère du système nerveux central (néoplasie, anévrisme, chirurgie intracérébrale ou intrarachidienne).
@@ -178,11 +179,11 @@ Liste des contre-indications à la thrombolyse par risque hémorragique:
   Insuffisance hépatique, cirrhose, hypertension portale (varices œsophagiennes), hépatite évolutive.
 - Intervention chirurgicale ou traumatismes importants au cours des 3 derniers mois.
 
-### Contre-indications à la thrombolyse en cas d'accident vasculaire cérébral aigu
+### Contre-indications à la thrombolyse en cas d'accident ischémique cérébral aigu
 
 Liste des contre-indications à la thrombolyse par balance bénéfice-risque défavorable:
 
-- Symptômes d'AIC apparus plus de 4h30 avant l'initiation du traitement ou dont l'heure d'apparition est inconnue et pourrait potentiellement être supérieure à 4h30.
+- Symptômes d'AVC ischémique apparus plus de 9 heures avant l'initiation du traitement ou dont l'heure d'apparition est inconnue et pourrait potentiellement être supérieure à 9 heures.
 - Déficit neurologique mineur ou symptômes s'améliorant rapidement avant l'initiation du traitement.
 - AVC sévère cliniquement (exemple NIHSS > 25) et/ou par imagerie.
 - Crise convulsive au début de l'accident vasculaire cérébral.
@@ -367,6 +368,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Accident vasculaire cérébral : prise en charge précoce. 2025.](https://www.has-sante.fr/jcms/c_830203/fr/accident-vasculaire-cerebral-prise-en-charge-precoce-alerte-phase-prehospitaliere-phase-hospitaliere-initiale-indications-de-la-thrombolyse-intraveineuse-et-de-la-thrombectomie-mecanique)
 - [Gabet A, et al. Épidémiologie des accidents vasculaires cérébraux en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_3.html)
 - [Bushnell C, et al. 2024 Guideline for the Primary Prevention of Stroke: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2024.](https://www.ahajournals.org/doi/abs/10.1161/STR.0000000000000475)
 - {{< references/esh-2023 >}}
@@ -392,7 +394,6 @@ graph TB
 
 ### Bibliographie en attente
 
-- [HAS. Accident vasculaire cérébral : prise en charge précoce. 2025.](https://www.has-sante.fr/jcms/c_830203/fr/accident-vasculaire-cerebral-prise-en-charge-precoce-alerte-phase-prehospitaliere-phase-hospitaliere-initiale-indications-de-la-thrombolyse-intraveineuse-et-de-la-thrombectomie-mecanique)
 - [HAS. Parcours de santé -- Accident vasculaire cérébral de l'adulte. 2025.](https://www.has-sante.fr/jcms/p_3445524/fr/parcours-de-sante-accident-vasculaire-cerebral-de-l-adulte)
 - [Bushnell C, et al. 2024 Guideline for the Primary Prevention of Stroke: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2024.](https://www.ahajournals.org/doi/10.1161/STR.0000000000000475)
 - [Dziewas R, et al. European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia. European Stroke Journal. 2021.](https://journals.sagepub.com/doi/10.1177/23969873211039721)
