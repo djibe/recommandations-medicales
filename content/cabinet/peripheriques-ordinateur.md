@@ -21,13 +21,15 @@ Ensemble de périphériques pour l'utilisation bureautique quotidienne au cabine
 
 {{< card-link title="L'ordinateur recommandé pour le cabinet" subtitle="Configuration durable pour le médecin généraliste" url="/cabinet/ordinateur-medecin/">}}
 
-{{%collapse "Imprimantes laser" %}}
+{{%collapse "Imprimantes" %}}
 
-Imprimantes choisies par 01Net et UFC Que Choisir.
+Imprimantes choisies par 01Net et UFC Que Choisir. Le laser est rapide et très peu coûteux.
+
+L'imprimante multifonction (avec scanner intégré) est un mauvais choix par son obsolescence, il y a en a forcément un qui cassera et condamnera l'autre.
 
 ### Imprimantes laser noir & blanc avec toners compatibles
 
-Imprimantes laser monochromes Wi-Fi (non multifonction) permettant d'utiliser des **toners compatibles moins chers** (ex: 20€ contre les 80€ officiels grâce aux boutiques *CartoucheMania*, *Tinkco*, *Toner.fr* ...), triées par note *UFC Que Choisir* et mon coup de cœur en premier:
+Imprimantes laser monochromes Wi-Fi (non multifonction) permettant d'utiliser des **toners compatibles moins chers** (ex: 20€ contre les 80€ officiels grâce aux boutiques *CartoucheMania*, *Tinkco*, *Toner.fr* ...), triées par note *UFC Que Choisir*, et mon coup de cœur en premier:
 
 - [Choix: Brother HL-L2865DW (vitesse, petite taille, R/V, coût d'utilisation) - 140€](https://www.idealo.fr/prix/204559569/brother-hl-l2865dw.html)
 - [Brother HL-L2400DW ou HL-L2400DWE (vitesse, petite taille, R/V, coût d'utilisation) - 130€](https://www.idealo.fr/prix/203365753/brother-hl-l2400dw.html)
@@ -40,6 +42,15 @@ Imprimantes laser monochromes Wi-Fi (non multifonction) permettant d'utiliser de
 ### Imprimante laser noir & blanc multifonctions avec toners compatibles
 
 [Brother MFC-L2750DW - 320€](https://ledenicheur.fr/product.php?p=4549236)
+
+### Imprimante jet d'encre multifonction
+
+- Epson EcoTank ET-2951 - 265 €
+- Epson EcoTank ET-2950 - 282 €
+- Epson EcoTank ET-2953 - 290 €
+- Canon Pixma G3590 - 200 €
+- Canon Pixma TS7550i - 75 €
+- Canon Pixma TS6550i - 65 €
 
 {{% /collapse %}}
 {{%collapse "Scanners" %}}

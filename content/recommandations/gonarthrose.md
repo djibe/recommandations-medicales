@@ -207,7 +207,7 @@ Recommandations pour la prise en charge des douleurs de gonarthrose et mesures g
   - Chaussures souples avec semelles amortissantes
   - **Activité physique régulière** des membres inférieurs (aquatique ou non). Renforcement musculaire, étirements et travail aérobie  
     Tai Chi, yoga, cyclisme, renforcement musculaire.
-  - Kinésithérapie: rRenforcement du quadriceps, équilibre, agilité, coordination, auto-exercices
+  - Kinésithérapie: renforcement du quadriceps, équilibre, agilité, coordination, auto-exercices
   - Arthrose fémoro-tibiale: orthèse (genouillère) articulée de décharge unicompartimentale à visée antalgique
   - Adaptation du poste avec le Médecin du travail ou à défaut un Centre Régional de Pathologies Professionnelles et Environnementales
 - Correction d'un **surpoids**

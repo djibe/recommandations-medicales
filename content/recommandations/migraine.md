@@ -447,7 +447,7 @@ Autres traitements de fond (dose min-max en mg) et niveau de recommandation *SFE
 
 {{< table title="Niveaux de recommandations des différents traitements de fond de la migraine selon la *SFEMC 2021*" class="table-wrap" >}}
 | Migraine              | Recommandation élevée | Modérée | Faible |
-|-----------------------|-----------------------|---------|--------|
+| --------------------- | --------------------- | ------- | ------ |
 | Épisodique (< 15 j/m) | Amitriptyline 10-100 dîner, candésartan 8-32 en 1 ou 2/j, valproate 250-2000 soir ou 2/j | Aténolol 50-200 matin, nébivolol 5-10 matin, timolol 10-60 en 2 prises, flunarizine 5-10 matin, lisinopril 5-40, oxétorone, pizotifène | Lévétiracétam, venlafaxine |
 | Chronique (≥ 15 j/m)  |                       | Amitriptyline 10-100, valproate | Propranolol, aténolol, candésartan, flunarizine, lévétiracétam |
 {{< /table >}}
@@ -563,6 +563,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Saubry MI. Prévention de la migraine épisodique : pas de traitement clairement supérieur. Minerva. 2026.](https://minerva-ebp.be/FR/Analysis/935)
 - [Schwedt TJ, et al. Routine migraine screening as a standard of care for Women's health: A position statement from the American Headache Society. Headache. 2025.](https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.70023)
 - [CBIP.  Médicaments de la crise migraineuse aiguë : une comparaison. Folia. 2025.](https://www.cbip.be/fr/articles/4685?folia=4667)
 - [Øie LR, et al. Candesartan versus placebo for migraine prevention in patients with episodic migraine: a randomised, triple-blind, placebo-controlled, phase 2 trial. Lancet Neurol. 2025.](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(25)00269-8/abstract)

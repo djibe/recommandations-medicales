@@ -281,6 +281,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Tock R. Trouble d'anxiété généralisée : les ISRS et IRSN confirmés comme premier choix médicamenteux au prix d'un risque accru d'effets indésirables. Minerva. 2026.](https://minerva-ebp.be/FR/Analysis/934)
 - [Collège National Universitaire de Psychiatrie (CNUP). Troubles anxieux - Trouble anxieux généralisé. Référentiel de Psychiatrie et Addictologie. 2024. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_4ed.pdf)
 - [Psychiaclic. Trouble anxieux généralisé. 18/12/2024.](https://www.psychiaclic.fr/troubles-psychiatriques/trouble-anxieux-generalise)
 - [Hoge EA, et al. Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders: A Randomized Clinical Trial. JAMA Psychiatry. 2023.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9647561/)

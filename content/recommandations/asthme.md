@@ -567,7 +567,7 @@ La prescription des biothérapies pour asthme sévère dépendent exclusivement 
 - Anticorps anti-IL5 et IL5R  
   Mépolizumab SC, reslizumab IV, benralizumab SC.
 - Anticorps anti-IL4R {{%class%}}(dupilumab SC possible chez le +6 ans){{%/class%}}
-- Anticorps anti-TSLP (tezepelumab non commercialisé)
+- Anticorps anti-TSLP (tezepelumab)
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'asthme" "show" %}}
