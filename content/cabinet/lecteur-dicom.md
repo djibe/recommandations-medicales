@@ -16,13 +16,14 @@ imageSrc = "par Freepik"
 +++
 
 La visualisation d'imageries médicales (radiographies, scanner ...) au format DICOM peut s'avérer nécessaire au cabinet lors d'une consultation.  
-Ce lecteur DICOM préserve la confidentialité des informations en utilisant exclusivement le navigateur.
 {.lead .mb-5}
+
+Ce lecteur d'imagerie DICOM préserve la confidentialité des informations en utilisant exclusivement le navigateur.
 
 <script type="importmap">
   {
     "imports": {
-      "dwv": "https://cdn.jsdelivr.net/npm/dwv@0.35.1/dist/dwv.min.js",
+      "dwv": "https://cdn.jsdelivr.net/npm/dwv@0.36.0/dist/dwv.min.js",
       "konva": "https://cdn.jsdelivr.net/npm/konva@9.3/konva.min.js",
       "jszip": "https://cdn.jsdelivr.net/npm/jszip@3.10/dist/jszip.min.js",
       "magic-wand-tool": "https://cdn.jsdelivr.net/npm/magic-wand-tool@1.1.7/dist/magic-wand.min.js"
