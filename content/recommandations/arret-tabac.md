@@ -399,7 +399,7 @@ Synthèse des 13 recommandations du *Haut Conseil de la Santé Publique* pour la
 
 > -- *HCSP 2022*; **SEDEN** = systèmes électroniques de délivrance de la nicotine (cigarette électronique)
 
-Pour en savoir plus, regarder le webinaire SPLF dans la section suivante (*Pour en savoir plus*).
+Pour en savoir plus, regarder le webinaire SPLF dans la section suivante (*Pour en savoir plus*) ou lire [Anses - Vapoter : quels risques pour la santé ?](https://www.anses.fr/fr/content/vapoter-quels-risques-pour-la-sante).
 
 {{% /collapse %}}
 {{%collapse "Pour en savoir plus: l'entretien motivationnel" %}}

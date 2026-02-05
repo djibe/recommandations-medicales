@@ -63,20 +63,20 @@ Principales causes de sueurs nocturnes:
 - Auto-immune
   - Sarcoïdose
   - [Polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}})
-  - [Artérite à cellules géantes]({{% relref "arterite-cellules-geantes-horton.md" %}}) (Horton)
+  - [Artérite à cellules géantes]({{% relref "arterite-cellules-geantes-horton.md" %}}) (maladie de Horton)
 
 ### Cause endocrinienne
 
 - [Hyperthyroïdie]({{% relref "hyperthyroidie.md" %}})
 - [Ménopause]({{% relref "menopause.md" %}}), hypogonadisme
 - Phéochromocytome
-- [Acromégalie]{{% relref "acromegalie.md" %}} (sueurs nocturnes malodorantes)
+- [Acromégalie]({{% relref "acromegalie.md" %}}) (sueurs nocturnes malodorantes)
 
 ### Autres causes
 
 - Syndrome de sevrage (alcool, drogues)
 - Médicamenteuse (iatrogène)  
-  Hypoglycémiants, antidépresseurs ISRS, bêta-bloquants, anticholinergiques et anticholinestérasiques, antipyrétique (paracétamol, aspirine)
+  Hypoglycémiants (hypoglycémie diabétique), antidépresseurs ISRS, bêta-bloquants, anticholinergiques et anticholinestérasiques, antipyrétique (paracétamol, aspirine)
 - Pathologie neurologique: dysautonomie
 - [Reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}})
 - Pathologie du sommeil: [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}})
@@ -89,10 +89,10 @@ L'examen clinique doit être rigoureux en cas de sueurs nocturnes, d'autant plus
 ### Interrogatoire
 
 - Âge
-- Antécédents: VIH, tuberculose et infectieux, cancer, immunodépression, cardiopathie congénitale ou chirurgie cardiaque récente
+- Antécédents: diabète, VIH, tuberculose et infectieux, cancer, immunodépression, cardiopathie congénitale ou chirurgie cardiaque récente
 - Antécédents familiaux
 - Traitements en cours  
-  Hypoglycémiants, antidépresseurs ISRS, bêta-bloquants, anticholinergiques et anticholinestérasiques, antipyrétique (paracétamol, aspirine).
+  Hypoglycémiants (sulfamide, glinide, insuline), antidépresseurs ISRS, bêta-bloquants, anticholinergiques et anticholinestérasiques, antipyrétique (paracétamol, aspirine).
 - Alcool, drogues, tabac et arrêt brutal de consommation
 - Pays de naissance, voyage lointain
 - Notion de contage infectieux

@@ -198,14 +198,15 @@ Bilan biologique: NFS, CRP, TP, TCA, créatininémie, albuminémie, bilirubiném
 Autres bilans: ECG, détermination du statut des gènes RAS et BRAF tumoraux, du phénotype MSI (immunothérapie).
 
 {{% /collapse %}}
-{{%collapse "Mesures de prévention du cancer colorectal" %}}
+{{%collapse "Prévention du cancer colorectal" %}}
 
 {{%info%}}
 
 ### Mesures de prévention du cancer colorectal pour la population générale
 
-- Activité physique (réduction 18-29%)
+- Activité physique (réduction du risque de 18 à 29 %)
 - Correction d'un surpoids
+- Consommation de fibres
 - Consommation de laitages
 {{%/info%}}
 
@@ -349,6 +350,7 @@ graph TB
 
 {{< youtube id="DV0PVuj4Ljw" title="Quelle surveillance endoscopique pour un cancer du côlon ? (TutoGastro SNFGE)" >}}
 
+- [Traullé E, et al. Rôle des facteurs nutritionnels en prévention du cancer colorectal : niveaux de preuve et perspectives. Bull Epidemiol Hebd. 2026.](https://beh.santepubliquefrance.fr/beh/2026/3-4/2026_3-4_1.html)
 - [Lecomte T, et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive. 2025.](https://www.snfge.org/tncd/cancer-du-colon-non-metastatique)
 - [Phelip JM, et al. Cancer colorectal métastatique. Thésaurus National de Cancérologie Digestive. 2025.](https://www.snfge.org/tncd/cancer-colorectal-metastatique)
 - [Cotte E, et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive. 2025.](https://www.snfge.org/tncd/cancer-du-rectum)

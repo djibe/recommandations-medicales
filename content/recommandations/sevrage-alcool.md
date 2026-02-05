@@ -26,7 +26,7 @@ todo = "SEO 'sevrage alcoolique has', simplifier, remarques mail, KEY x3 sevrage
 
 1. Repérer systématiquement un mésusage de l'alcool à tout âge: consommation moyenne par jour, fréquence mensuelle de consommation ≥ 6 verres, autres toxiques (1 français sur 2, voir *Repérage*)
 2. Évaluer la consommation d'alcool: score *AUDIT-C* et recherche de comorbidités (voir *Évaluation*)
-3. Intervention brève pour favoriser l'engagement dans une réduction de la consommation d'alcool, encourager à noter la consommation quotidienne
+3. Intervention brève pour favoriser l'engagement dans une réduction de la consommation d'alcool, encourager à noter la consommation quotidienne (appli Option Zéro)
 4. Évaluer les situations sociale, familiale et professionnelle ...
 5. et dépister les complications liées à l'alcool (somatiques, [Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}), dépression, anxiété) et les co-addictions (tabac, cannabis)
 6. Donner la liste des associations et des consultations (voir *Information du patient*)
@@ -304,8 +304,8 @@ Rechercher les complications d'un mésusage de l'alcool et proposer un suivi sp�
 Le bilan biologique est annuel:
 
 - NFS
-- ASAT, ALAT, GGT, PAL
-- TP, bilirubinémie
+- ASAT, ALAT, GGT, PAL, bilirubinémie
+- TP
 - Albuminémie
 - Sérologies [hépatite B]({{% relref "hepatite-b.md" %}}) et [hépatite C]({{% relref "hepatite-c.md" %}})
 - Sérologie VIH si expositions à risque
@@ -322,8 +322,8 @@ Le bilan biologique est annuel:
 
 #### Chez qui dépister la maladie du foie liée à l'alcool ?
 
-Âge ≥ 40 ans ET score AUDIT-C pathologique (voir *Évaluation d'une consommation*)  
-ET/OU consommation déclarée ≥ 14 verres/semaine
+- Âge ≥ 40 ans ET score AUDIT-C pathologique (voir *Évaluation d'une consommation*)
+- ET/OU consommation déclarée ≥ 14 verres/semaine
 {{%/info%}}
 
 #### Critères diagnostiques de la maladie du foie liée à l'alcool
@@ -363,7 +363,7 @@ Installer une alliance thérapeutique sur la définition du problème à résoud
 - Favoriser le soutien de l'entourage  
   Envisager une séance de thérapie conjugale.
 - Ressources de soins
-  - Appli d'aide à l'arrêt: [mydéfi](https://play.google.com/store/apps/details?id=com.appdiction.mydefi)
+  - Appli d'aide à l'arrêt: [Option zéro](https://option-zero.fr), [mydéfi](https://play.google.com/store/apps/details?id=com.appdiction.mydefi)
   - Adresser d'emblée si mésusage très sévère, comorbidités, isolement/précarité, jeune (consultations *jeunes consommateurs CJC*)
   - Consultation d'addictologie
   - Centres de soins, d'accompagnement et de prévention en addictologie (CSAPA)
