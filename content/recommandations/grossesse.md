@@ -19,7 +19,7 @@ sctid = "118185001"
 icd10 = []
 image = true
 imageSrc = "Illustration de la grossesse par stories / Freepik"
-todo = "Hebbema ou [Datascope](https://www.scansante.fr/applications/indicateurs-de-sante-perinatale), interrog 1re cs, évaluer les apports calcium, électrophorèse Hb, fiche ANSM vaccins, grossesse altitude, dépression post-partum http://beh.santepubliquefrance.fr/beh/2023/18/2023_18_1.html"
+todo = "chir baria, Hebbema ou [Datascope](https://www.scansante.fr/applications/indicateurs-de-sante-perinatale), interrog 1re cs, évaluer les apports calcium, électrophorèse Hb, fiche ANSM vaccins, grossesse altitude, dépression post-partum http://beh.santepubliquefrance.fr/beh/2023/18/2023_18_1.html"
 chart = true
 modele = true
 +++
@@ -201,18 +201,20 @@ const chartOptions3 = {
     ou Beyfortus chez le nouveau-né à défaut.
   - Avant la grossesse: rattrapage rubéole et varicelle
 - **Activité physique**  
-  30 minutes à 1h d'intensité modérée à intense ≥ 5 j/semaine, sédentarité < 7h/j (*CNSFF*).
+  30 minutes à 1 heure d'intensité modérée à intense au moins 5 jours par semaine, sédentarité < 7 heures/j (*CNSFF*).
+
+> Dans le tableau, les éléments <u>sous-lignés</u> disposent d'informations au survol.
 
 {{< table title="Suivi simplifié de la grossesse. Dr JB Fron d'après *HAS* et *Collège*" class="table-wrap">}}
 | Moment   | Clinique | Examen  | Traitement |
-|----------|----------|---------|------------|
+| -------- | -------- | ------- | ---------- |
 | Chaque consultation | PA, poids, signes de grossesse | {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}ECBU{{%/tooltip%}} si ATCD, toxoplasmose si -, {{%tooltip "Jusqu'à 18 SA"%}}rubéole si -{{%/tooltip%}}, TSH si sympt. aspécifiques | Arrêt alcool/tabac et {{%tooltip "lecrat.fr"%}}automédication{{%/tooltip%}}, vaccin grippe et Covid, {{%tooltip "mangerbouger.fr"%}}alimentation{{%/tooltip%}} (listériose ++) |
 | Préconceptionnelle<br>ou 1re consultation (< 10 SA) | ATCD (gynéco, varicelle), toxiques, profession, vaccinations, précarité, maltraitance, DDR, {{%tooltip "Bandelette urinaire: glycosurie et protéinurie"%}}BU{{%/tooltip%}} | NFS, ferritine, {{%tooltip "1re grossesse sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}}, ± {{%tooltip "Si mère RH-1- et terme ≥ 11 SA"%}}Gpe ABO Rh de l'homme{{%/tooltip%}}<br>Sérologies {{%tooltip "Sauf vaccination double dose documentée"%}}rubéole{{%/tooltip%}}, toxoplasmose, VIH, ± syphilis, ± VHC, ± {{%tooltip "AgHBs sans vaccination"%}}Ac anti-HBs{{%/tooltip%}}, ± {{%tooltip "≥ 35 ans, surpoids, ATCD DG/macrosomie ou fam DT2"%}}glycémie{{%/tooltip%}}, TSH si sympt. aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et FDR{{< /modal-btn >}}, ± frottis, ± {{%tooltip "Si prématurité, chorioamniotite, FCS"%}}prélèvement vaginal{{%/tooltip%}}, ± {{%tooltip "Avant 25 ans"%}}PCR Chlamydia{{%/tooltip%}} | {{%tooltip "Jusqu'à 8 SA (HAS 2016), 14 SA (USPTF)"%}}acide folique{{%/tooltip%}} 0,4 mg/j, {{%tooltip "De 11 à 13 SA + 6j"%}}écho T1{{%/tooltip%}} + {{%tooltip "βhCG libre + PAPP-A"%}}dépistage T21{{%/tooltip%}} |
 | 4e mois<br>16-20 SA | {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}BU{{%/tooltip%}} (HAS 2024) | {{%tooltip "Gratuite jusqu'à 6 mois après l'accouchement"%}}Cs dentaire{{%/tooltip%}} ||
 | 5e mois<br>20-24 SA || {{%tooltip "22 SA (20-25)"%}}Écho T2{{%/tooltip%}} | Vaccin coqueluche |
 | 6e mois<br>24-28 SA || {{%tooltip "L'USPTF trouve le dépistage inutile si asymptomatique"%}}NFS{{%/tooltip%}}, AgHBs, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}} | ± Rattrapage coqueluche |
 | 7e mois<br>28-32 SA || {{%tooltip "32 SA (30-35)"%}}Écho T3{{%/tooltip%}} | {{%tooltip "28 SA: si mère RH-1- et fœtus RH-1+"%}}± Rhophylac® 300{{%/tooltip%}} ± Rattrapage coqueluche |
-| 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, {{%tooltip "Entre 35 et 38 SA"%}}prélèvement vaginal (strepto B){{%/tooltip%}} | VitD 100.000 UI, {{%tooltip "De septembre à janvier"%}}Abrysvo{{%/tooltip%}}, ± rattrapage coqueluche, ± {{%tooltip "Herpès génital pdt la gs"%}}valaciclovir{{%/tooltip%}} |
+| 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, {{%tooltip "Entre 35 et 38 SA"%}}prélèvement vaginal (strepto B){{%/tooltip%}}, chir bariatrique: {{%tooltip "Échographie supplémentaire à 37 SA"%}}écho{{%/tooltip%}} | VitD 100.000 UI, {{%tooltip "De septembre à janvier"%}}Abrysvo{{%/tooltip%}}, ± rattrapage coqueluche, ± {{%tooltip "Herpès génital pdt la gs"%}}valaciclovir{{%/tooltip%}} |
 | 9e mois<br>37-42 SA ||||
 {{< /table >}}
 
@@ -317,21 +319,21 @@ AET
 ### Augmentation des besoins énergétiques au cours de la grossesse
 
 {{< table title="Augmentation des besoins énergétiques pendant la grossesse selon l'*Anses 2019*" class="table-sm" >}}
-| Terme de la grossesse | Augmentation des apports (kcal/j) |
-|-----------------------|----------------------------------:|
-| T1                    |                                70 |
-| T2                    |                               260 |
-| T3                    |                               500 |
-| Allaitement           |                               500 |
+| Terme de grossesse | Augmentation des apports (kcal/j) |
+| ------------------ | --------------------------------: |
+| T1                 |                                70 |
+| T2                 |                               260 |
+| T3                 |                               500 |
+| Allaitement        |                               500 |
 {{< /table >}}
 
 > -- *[Anses. Avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail relatif à l'actualisation des repères alimentaires du PNNS pour les femmes enceintes ou allaitantes. 2019. (PDF)](https://www.anses.fr/fr/system/files/NUT2017SA0141.pdf)*
 
-Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{% relref "obesite-adulte.md" %}}), *[Eades et al 2017](https://pubmed.ncbi.nlm.nih.gov/28531829/)*)
+Il est déconseillé de descendre sous **1600 kcal/j** (même en situation d'[obésité]({{% relref "obesite-adulte.md" %}}) -- *[Eades et al 2017](https://pubmed.ncbi.nlm.nih.gov/28531829/)*).
 
 ### Objectif de prise de poids pendant la grossesse
 
-{{< table title="Prise de poids recommandée selon l'indice de masse corporelle avant la grossesse. Dr JB Fron d'après *IOM Pregnancy Weight Guidelines 2009*" >}}
+{{< table title="Prise de poids recommandée selon l'indice de masse corporelle avant la grossesse. Dr JB Fron d'après *[IOM Pregnancy Weight Guidelines 2009](https://www.ncbi.nlm.nih.gov/books/NBK32813/)*" >}}
 | Morphotype   | IMC avant grossesse (kg/m²) | Prise de poids recommandée <br>pendant la grossesse (kg) |
 |--------------|----------------------------:|---------------------------------------------------------:|
 | Maigreur     |                      < 18,5 |                                                12,5 - 18 |
@@ -376,6 +378,7 @@ Il est déconseillé de descendre sous 1600 kcal/j (même si [obésité]({{% rel
 - [Boisseau N. Physical Activity During the Perinatal Period: Guidelines for Interventions During the Perinatal Period from the French National College of Midwives. J Midwifery Womens Health. 2022.](https://onlinelibrary.wiley.com/doi/10.1111/jmwh.13425)
 - [CNGOF. Vaccin anti SARS-CoV-2 et grossesse 3e injection ? Avis du 17 novembre 2021. (PDF)](https://cngof.fr/app/uploads/2025/11/21-11-1720vaccin20anti20SARS-Cov-220et20grossesse_203eme20injection.pdf?x26468)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Gynécologie obstétrique Réussir son DFASM. 2021.
+- [Quilliot D, et al. Grossesses après chirurgie bariatrique: recommandations pour la pratique clinique (groupe BARIA-MAT). Nutrition Clinique et Métabolisme. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S098505621930528X) (payant)
 - [CNGOF. Prévention de l'allo-immunisation Rhésus D chez les patientes de groupe Rhésus D négatif. 2017. (PDF)](https://cngof.fr/app/uploads/2025/11/Allo-immunisation20-20RhC3A9sus20D202017-prevention-allo-immunisation-MAJ.pdf?x26468)
 - [HAS. Suivi et orientation des femmes enceintes en fonction des situations à risque identifiées. 2016.](https://www.has-sante.fr/jcms/c_547976/fr/suivi-et-orientation-des-femmes-enceintes-en-fonction-des-situations-a-risque-identifiees)
 - [HAS. Projet de grossesse : informations, messages de prévention, examens à proposer. 2009.](https://www.has-sante.fr/jcms/c_1360649/fr/projet-de-grossesse-informations-messages-de-prevention-examens-a-proposer)

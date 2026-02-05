@@ -78,8 +78,10 @@ Prise en charge des mycoses des zones cutanées dépourvues de poils.
 
 ### Dermatophytose circinée (herpès circiné ou tinea corporis)
 
-Anneau érythémateux prurigineux bien délimité le plus souvent causé par *Trichophyton rubrum* ou *Microsporum canis*.  
-Zone centrale claire cicatricielle avec bourrelet périphérique squameux et vésiculeux. Plusieurs lésions peuvent confluer en placard polycyclique.  
+Anneau érythémateux prurigineux bien délimité le plus souvent causé par *Trichophyton rubrum* (anthropophile) ou *Microsporum canis*.
+
+Zone centrale claire cicatricielle avec bourrelet périphérique squameux et vésiculeux. Plusieurs lésions peuvent confluer en placard polycyclique.
+
 [Photos d'herpès circiné](https://dermnetnz.org/topics/tinea-corporis-images)
 
 **Diagnostic différentiel** des dermatophytoses circinées palmaires ou plantaires: [eczéma]({{% relref "dermatite-atopique.md" %}}).

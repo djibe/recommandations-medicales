@@ -29,7 +29,7 @@ flowchart = true
 - Coter la douleur sur 10 (EN, EVA)
 - Prise en charge de première intention des douleurs neuropathiques: duloxétine, gabapentine ou tricyclique  
   Emplâtre de lidocaïne ou TENS pour une atteinte superficielle localisée.
-- Efficacité du traitement: essai de chaque molécule au moins 6 semaines à dose maximale tolérée (sauf intolérance) et viser une réduction douleur d'au moins 30 % et/ou une amélioration fonctionnelle d'au moins 30%
+- Efficacité du traitement: essai de chaque molécule au moins 6 semaines à dose maximale tolérée (sauf intolérance) et viser une réduction douleur d'au moins 30 % et/ou une amélioration fonctionnelle d'au moins 30 %
 - Avis neurologique en cas de difficultés (étiologique, thérapeutique ...)
 - [Annuaire des structures spécialisées douleur chronique (SDC)](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/article/les-structures-specialisees-douleur-chronique-sdc)
 
@@ -288,7 +288,7 @@ Clomipramine 10 mg le soir. Paliers de 10 mg tous les 7 jours. Avis spécialisé
   - Arrêt progressif | peu d'interactions
   - Effets indésirables: somnolence, vertiges, prise de poids et œdèmes périphériques
 - Antidépresseurs tricycliques
-  - Amitriptyline (moins bien tolérée), [clomipramine](https://base-donnees-publique.medicaments.gouv.fr/medicament/68990612/extrait#tab-rcp) (Anafranil®, gén), imipramine (Tofranil®)
+  - Amitriptyline (Laroxyl®, gén, moins bien tolérée), [clomipramine](https://base-donnees-publique.medicaments.gouv.fr/medicament/68990612/extrait#tab-rcp) (Anafranil®, gén), imipramine (Tofranil®)
   - Préférer 10-50 mg/j. Avis spécialisé à +50 mg/j. Surveillance cardiaque quand +75 mg/j
   - Contre-indications: glaucome, HPB, infarctus récent ou troubles du rythme
   - Effets indésirables: somnolence et prise de poids, anticholinergiques. Levée d'inhibition avec risque suicidaire

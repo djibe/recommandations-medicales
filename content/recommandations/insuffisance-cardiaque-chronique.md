@@ -251,9 +251,9 @@ Bilan initial devant une suspicion d'insuffisance cardiaque:
 
 ### Peptides natriurétiques
 
-Seuil diagnostique en état stable: BNP ≥ **35 pg/mL** (105 si FA) ou NT-proBNP ≥ **125 pg/mL** (420 si [IMC > 35](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.124.072156)).
+Seuil diagnostique d'insuffisance cardiaque en état stable: BNP ≥ **35 pg/mL** (105 si FA) ou ==NT-proBNP ≥ **125 pg/mL**== (420 si [IMC > 35](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.124.072156)). Les taux de BNP et NT-proBNP ne peuvent pas être directement comparés ([Galinier M.](https://www.realites-cardiologiques.com/wp-content/uploads/sites/2/2010/11/091.pdf)).
 
-Un NT-proBNP < 50 pg/mL réfute le diagnosic.
+Un NT-proBNP < 50 pg/mL réfute le diagnostic.
 
 Utiliser toujours le même marqueur au cours du suivi.
 

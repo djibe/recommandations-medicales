@@ -23,6 +23,8 @@ todo = "update, revoir flowchart et Tests multi-allergéniques"
 
 {{%article-summary%}}
 
+Les recommandations SPLF 2023 ne sont pas encore intégrées.
+
 - Toux chronique chez un ancien fumeur: avis ORL et du pneumologue
 - Étayer les pathologies pouvant induire une toux chronique: Signes de gravité > Médicament imputable > PCR coqueluche > Radiographie de thorax
 - En l'absence d'orientation diagnostique devant une toux chronique, prise en charge par un traitement d'épreuve séquentiel:  
@@ -218,12 +220,14 @@ Avis spécialisé sauf précision pour les éléments suivants:
 {{% /collapse %}}
 {{%sources%}}
 
-- [SFORL. Recommandation pour la pratique clinique - La toux chronique chez l'adulte. Texte court. Juin 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/02/TOUX-CHRONIQUE-ADULTE-long.pdf)
+- [SFORL. Recommandation pour la pratique clinique - La toux chronique chez l'adulte. Texte court. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/02/TOUX-CHRONIQUE-ADULTE-long.pdf)
 - [Revue Médicale Suisse. Toux chronique de l'adulte : évaluation et prise en charge. Rev Med Suisse. 2014.](https://www.revmed.ch/RMS/2014/RMS-N-451/Toux-chronique-de-l-adulte-evaluation-et-prise-en-charge)
 
 ### Bibliographie en attente
 
-- [Guilleminault L et al. Recommandations de prise en charge de la toux chronique de l'adulte. Rev Mal Respir. 2023. (PDF)](https://splf.fr/wp-content/uploads/2023/06/Recos-Toux2023.pdf)
+- [Guilleminault L, et al. Recommandations de prise en charge de la toux chronique de l'adulte. Rev Mal Respir. 2023. (PDF)](https://splf.fr/wp-content/uploads/2023/06/Recos-Toux2023.pdf)
 - [Collège des Enseignants de Pneumologie (CEP). Toux chez l'adulte. Item 204. 2023.](https://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/)
+
+Mot-clé: toux persistante
 
 {{%/sources%}}

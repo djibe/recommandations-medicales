@@ -25,7 +25,7 @@ imageSrc = "Illustration du diabète gestationnel par vectorjuice / Freepik"
 
 - Le diabète gestationnel (DG) est une hyperglycémie transitoire à jeun pendant la grossesse (absence d'hyperglycémie pré-existante)
 - Dépistage du diabète gestationnel:
-  - Indications au dépistage du DG: âge ≥ 35 ans, surpoids, antécédent familial au 1^er^ degré de diabète type 2, antécédent de macrosomie ou de diabète gestationnel, [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (nécessite une HGPO)
+  - Indications au dépistage du DG: âge ≥ 35 ans, surpoids, antécédent familial au 1^er^ degré de diabète type 2, antécédent de macrosomie, de diabète gestationnel ou de chirurgie bariatrique, [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (nécessite une HGPO)
   - Dépister par glycémie à jeun au premier trimestre puis par hyperglycémie provoquée par voie orale 75g (HGPO) entre 24 et 28 semaines d'aménorrhée (SA)
 - Le diagnostic de diabète gestationnel est biologique: glycémie à jeun ≥ 0,92 g/L ou HGPO H0 ≥ 0,92 g/L et/ou H2 ≥ 1,53 g/L
 - La prise en charge du diabète gestationnel est spécialisée en diabétologie ou à la maternité:
@@ -103,13 +103,13 @@ Indication au dépistage du diabète gestationnel en présence d'au moins un fac
 1. Âge maternel ≥ 35 ans
 2. IMC ≥ 25 kg/m²
 3. Antécédent familial de [diabète type 2]({{% relref "diabete-type-2.md" %}}) au 1^er^ degré
-4. Antécédent personnel de diabète gestationnel  
+4. Antécédent personnel de diabète gestationnel ou de chirurgie bariatrique
 5. Antécédent de macrosomie  
   Poids de naissance ≥ 4 kg.
 6. [Syndrome des ovaires polykystiques]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (SOPK, *ESHRE 2023*)  
   Dès le désir de grossesse ou rattrapage à 24-28 SA.
 
-> -- *HAS 2025* reprenant *CNGOF, SFD 2010*
+> -- *HAS 2025* reprenant *CNGOF, SFD 2010*, *BARIA-MAT*
 {{%/info%}}
 
 ### Critères diagnostiques du diabète gestationnel
@@ -240,6 +240,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 - {{< references/sfd-dt2-2023 >}}
 - {{< references/college-endocrino >}}
 - [Vambergue A, et al; SFD, Collège National des Gynécologues et Obstétriciens Français (CNGOF). Diabète gestationnel et pandémie SARS-Cov2 (COVID-19). Avril 2020. (PDF)](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)
+- [Quilliot D, et al. Grossesses après chirurgie bariatrique: recommandations pour la pratique clinique (groupe BARIA-MAT). Nutrition Clinique et Métabolisme. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S098505621930528X) (payant)
 - [Brown J, et al. L'insuline pour le traitement des femmes atteintes de diabète gestationnel. Cochrane Database of Systematic Reviews. 2017.](https://www.cochrane.org/fr/CD012037/PREG_linsuline-pour-le-traitement-des-femmes-atteintes-de-diabete-gestationnel)
 - [Pirson N, et al. Prise en charge du diabète gestationnel en 2016 : une revue de la littérature. Louvain med. 2016. (PDF)](https://www.louvainmedical.be/sites/default/files/content/article/pdf/lmed-12-2016-01-pirson.pdf)
 - [Regnault N, et al. Diabète gestationnel en France en 2012 : dépistage, prévalence et modalités de prise en charge pendant la grossesse. BEH. Santé Publique France. Mars 2016.](http://beh.santepubliquefrance.fr/beh/2016/9/2016_9_2.html)

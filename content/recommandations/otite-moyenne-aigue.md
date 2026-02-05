@@ -156,6 +156,8 @@ Antibiothérapie si: symptômes mal tolérés, otorrhée ou aggravation après 4
   - documentée aux pénicillines: céfpodoxime 8 mg/kg/j en 2 prises (max 400 mg/j)
   - aux bêta-lactamines: triméthoprime-sulfaméthoxazole 6/30 mg/kg/j en 2 prises (max 160/800 mg/j)
 
+> En cas d'otite moyenne perforée, le tympan cicatrise sous 1 mois (*[Berger](https://doi.org/10.1017/s0022215100111247)*).
+
 #### Otite moyenne aiguë de l'adulte
 
 Si indication, antibiothérapie pendant ==**5 jours**==:

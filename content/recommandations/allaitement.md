@@ -266,6 +266,7 @@ Les contre-indications au don de lait sont celles du don du sang.
 - Collège national des gynécologues et obstétriciens français (CNGOF). Allaitement maternel. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [Crepinsek MA, et al. Interventions for preventing mastitis after childbirth. Cochrane Database of Systematic Reviews. 2020.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007239.pub4/full/fr)
 - [Rigourd V, et al. Allaitement maternel : difficultés et complications. Perfectionnement en Pédiatrie. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S2588932X19300038) (payant)
+- [Quilliot D, et al. Grossesses après chirurgie bariatrique: recommandations pour la pratique clinique (groupe BARIA-MAT). Nutrition Clinique et Métabolisme. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S098505621930528X) (payant)
 - [CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015. (PDF)](https://cngof.fr/app/uploads/2025/11/Postpartum202015-RPC.pdf?x26468)
 - [Chantry AA, et al; CNGOF. Allaitement maternel (partie 1) : fréquence, bénéfices et inconvénients, durée optimale et facteurs influençant son initiation et sa prolongation. Recommandations pour la pratique clinique. 2015.](https://www.sciencedirect.com/science/article/abs/pii/S0368231515002665)
 - [Marcellin L, et al; CNGOF. Allaitement maternel (partie 2) : méthodes d'inhibition de la lactation. Recommandations pour la pratique clinique. 2015.](https://www.sciencedirect.com/science/article/abs/pii/S0368231515002689)

@@ -346,7 +346,7 @@ La contraception intra-utérine ne constitue pas un facteur de risque de grosses
 
 ---
 
-Le stérilet n'est pas un facteur d'infection pelvienne (sauf dans les 21 jours à 4 mois)
+Le stérilet n'est pas un facteur d'infection pelvienne (sauf dans les 21 jours à 4 mois).
 {{%/info%}}
 
 ### L'implant progestatif
@@ -406,6 +406,17 @@ Les préservatifs sont les seules barrières contre les IST. Informer sur la *Co
 - Contraception hormonale
   - Arrêt de COP
   - Dosages hormonaux inutiles. Remplacement par méthode barrière quelques mois et méthode non hormonale si persistance des cycles.
+
+### Obésité
+
+- Toutes les contraceptions sont efficaces
+- Chirurgie bariatrique:
+  - les contraceptions réversibles de longue durée sont privilégiées (implant, DIU cuivre ou hormonal)
+  - arrêt des œstroprogestatifs 4-6 semaines avant et 6 semaines après l'opération
+  - si une forme orale est choisie: prévenir du risque d'inefficacité en cas de trouble digestifs (vomissements, diarrhées) avec complément par préservatif
+  - en prévision d'une grossesse: consultation nutritionnelle en amont, suivi diététique, supplémentation multivitaminique toute la grossesse (10 mg zinc, 1 mg cuivre, max 9 mg de bêta carotène), acide folique 0,4 mg/j jusqu'à 12 SA, dosages adaptés au moins trimestriels (ferritine, vitamine B12 ...)
+
+> -- *BARIA-MAT*
 
 ### Contraception du post-partum (pp)
 
@@ -672,6 +683,7 @@ graph TB
 - [HAS. Contraception chez la femme en post-partum. Recommandation de bonne pratique. 2019.](https://www.has-sante.fr/jcms/c_1369193/fr/contraception-chez-la-femme-en-post-partum)
 - [HAS. Contraception : prescriptions et conseils aux femmes. 2019.](https://www.has-sante.fr/jcms/c_1752432/fr/contraception-prescriptions-et-conseils-aux-femmes)
 - [RFCRPV. Quels risques d'interaction médicamenteuse au cours de la contraception ? 2019.](https://www.rfcrpv.fr/quels-risques-dinteraction-medicamenteuse-au-cours-de-la-contraception/)
+- [Quilliot D, et al. Grossesses après chirurgie bariatrique: recommandations pour la pratique clinique (groupe BARIA-MAT). Nutrition Clinique et Métabolisme. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S098505621930528X) (payant)
 - [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018. (PDF)](https://cngof.fr/app/uploads/2025/11/Contraception202018_RPC.pdf?x26468)
 - [Robin F, et al; CNGOF. Faut-il vraiment avoir peur de la pilule contraceptive ? 2017. (PDF)](https://cngof.fr/app/uploads/2023/06/piluleCNGOF-2017-09.pdf?x53169)
 - CNGOF. Contraception du post-partum : recommandations pour la pratique clinique.

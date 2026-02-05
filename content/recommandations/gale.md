@@ -140,15 +140,14 @@ Gale des gens propres
 : Forme pauci-symptomatique avec peu de signes évocateurs, pas de sillons. Importance de l'anamnèse.
 
 Gale du nourrisson
-: Atteinte plantaire ou palmaire vésiculeuse ou pustuleuse. Lésions infiltrées, rouge cuivré des régions péri-axillaires et du tronc.  
-L'enfant présente des mouvements de reptation lorsqu'il est déshabillé.
+: Atteinte préférentiellement plantaire ou palmaire, vésiculeuse ou pustuleuse. Lésions infiltrées, rouge cuivré des régions péri-axillaires et du tronc. L'enfant présente des mouvements de reptation lorsqu'il est déshabillé.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la gale" %}}
 
 La prise en charge de la gale est ambulatoire (sauf gale norvégienne).
 
-Traitement antiparasitaire anti-scabieux concomitant de toute la famille et l'entourage avec:
+Traitement antiparasitaire anti-scabieux concomitant de **toute la famille et l'entourage** avec:
 
 - Traitement curatif par perméthrine ou ivermectine (voir plus bas)
 - Éviction scolaire/professionnelle jusqu'à 3 jours après le traitement (*CMIT*)  
@@ -159,7 +158,7 @@ Traitement antiparasitaire anti-scabieux concomitant de toute la famille et l'en
 - Brossage des ongles, ongles courts, séchage des mains avec serviettes papier jetable
 - Désinfection du linge et vêtements (voir *Information du patient*)
 - Bilan d'[IST](/tags/ist/) avec accord du patient, tracer les partenaires des 2 derniers mois
-- Information du patient: [guide Dermato-Info](https://dermato-info.fr/les-maladies-de-la-peau/gale)
+- Information du patient: [guide Dermato-Info](https://dermato-info.fr/les-maladies-de-la-peau/gale) et [guide Ameli](https://www.ameli.fr/assure/sante/themes/gale)
 
 Le prurit nocturne doit disparaître sous 2 semaines mais le prurit peut persister 1 mois.
 
@@ -167,9 +166,10 @@ Le prurit nocturne doit disparaître sous 2 semaines mais le prurit peut persist
 
 ### Traitement anti-scabieux
 
-En première intention pour le traitement de la gale, on peut utiliser la perméthrine crème ou l'ivermectine orale (préférée par le *CMIT* au-delà de 15 kg).
+> [!INFO]
+> En première intention pour le traitement de la gale chez un adulte, on peut utiliser la perméthrine crème ou l'ivermectine orale.
 
-Traitement de référence selon l'âge (*SFD 2024*):
+Recommandations pour le traitement de la gale selon l'âge (*SFD 2024*):
 
 - **Adulte:** ==perméthrine ou ivermectine==
 - **Enfant +2 ans:** perméthrine 1 application ou ivermectine  
@@ -185,7 +185,7 @@ Traitement de référence selon l'âge (*SFD 2024*):
   - 2^e^ ou 3^e^ trimestre ou allaitement: tout traitement
   - Cas contact: intérêt d'un traitement systématique, suggéré si seulement allaitante
 
-> Ivermectine à 200 µg/kg pendant le repas chez l'enfant; perméthrine appliquée 8 à 14 heures.
+La guérison ne sera estimée comme définitive que 4 semaines après le traitement (symptômes minimes persistants -- *[HAS](https://www.has-sante.fr/upload/docs/application/pdf/ct031368.pdf)*).
 
 **Formes compliquées:**
 
@@ -197,7 +197,7 @@ Traitement de référence selon l'âge (*SFD 2024*):
 
 La ==[perméthrine 5%](https://base-donnees-publique.medicaments.gouv.fr/medicament/61712553/extrait#tab-rcp)== est le traitement de référence avant 1 an ou au 1^er^ trimestre de grossesse.
 
-Appliquer le tube entier sur toute la peau (sauf visage). Laisser agir **8 heures** à 14 heures. Puis douche à l'eau et au savon. ==**Renouveler le traitement à J8**==.
+Appliquer le tube entier sur toute la peau (sauf visage). Laisser agir pendant **8 heures** à 14 heures. Puis rincer à l'eau et au savon. ==**Renouveler le traitement à J8**==.
 
 **Contre-indications**: allergie au produit, enfant < 2 mois.
 
@@ -345,5 +345,7 @@ graph TB
 - Prescrire Redaction. Gale. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Salavastru C et al; European Academy of Dermatology and Venereology. European guideline for the management of scabies. J Eur Acad Dermatol Venereol. 2017.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jdv.14351)
 - [HCSP. Survenue de un ou plusieurs cas de gale. Conduite à tenir. 2012.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=312)
+
+Mot-clé: gale sarcoptique humaine
 
 {{%/sources%}}

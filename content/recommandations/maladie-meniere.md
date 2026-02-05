@@ -218,6 +218,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Dubernard X, et al. Recommandation de la SFORL (version courte) sur la place et les modalités de la rééducation vestibulaire des patients atteints de la maladie de Menière. Annales françaises d'Oto-rhino-laryngologie et de Pathologie Cervico-faciale. 2026.](https://www.sciencedirect.com/science/article/pii/S1879726125001883)
 - [Cochrane UK. Menière's disease: experience, evidence gaps & treatment choices. 2023.](https://www.evidentlycochrane.net/menieres-disease/)
 - [Basura GJ, et al. Clinical Practice Guideline: Ménière's Disease. Otolaryngology-Head and Neck Surgery. 2020.](https://journals.sagepub.com/doi/full/10.1177/0194599820909438)
 

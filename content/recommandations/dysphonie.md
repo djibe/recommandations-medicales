@@ -3,7 +3,7 @@ id = "0194e1a1-f36a-7906-8ed7-8ef1a9e8e0e7"
 title = "Dysphonie"
 prefix = "la "
 description = "Recommandations pour le diagnostic et la prise en charge de la dysphonie. Signes de gravité (dysphagie, dyspnée), examen ORL avec laryngoscopie si persistance"
-synonyms = []
+synonyms = ["Aphonie"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-02-07T19:17:38+01:00"
 publishdate = "2025-02-13"
@@ -211,5 +211,7 @@ graph TB
 - Prescrire Redaction. Atteintes des cordes vocales médicamenteuses. Rev Prescrire. 2025.
 - Collège Français d'ORL & CCF. Trouble aigu de la parole. Dysphonie. Item 88.
 - [Stachler RJ, et al. Clinical Practice Guideline: Hoarseness (Dysphonia) (Update). 2018.](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599817751030)
+
+Mot-clé: aphone
 
 {{%/sources%}}
