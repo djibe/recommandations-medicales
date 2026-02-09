@@ -231,4 +231,8 @@ graph TB
 - [SPILF. Prise en charge de la grippe en dehors d'une situation de pandémie en 2005. Médecine et Maladies Infectieuses. 2005.](https://www.sciencedirect.com/science/article/pii/S0399077X05002064)
 - [CNGOF. Vaccin grippe et grossesse.](https://cngof.fr/vaccin-grippe-et-grossesse/)
 
+### Bibliographie en attente
+
+[Uyeki TM, et al. Clinical Practice Guidelines by the Infectious Diseases Society of America: 2018 Update on Diagnosis, Treatment, Chemoprophylaxis, and Institutional Outbreak Management of Seasonal Influenzaa. Clin Infect Dis. 2019.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6653685/)
+
 {{%/sources%}}

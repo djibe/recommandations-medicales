@@ -160,4 +160,8 @@ graph TB
 - Collège Français d'ORL et de Chirurgie Cervico-faciale. Infections nasosinusiennes de l'enfant et de l'adulte. Item 148. 2022.
 - [Verstraete B. Sinusite chronique : le point sur le traitement médicamenteux de cette affection. Minerva. 2016.](https://minerva-ebp.be/FR/Analysis/471)
 
+#### Bibliographie en attente
+
+[EAACI. Endotyping in Chronic Rhinosinusitis — An EAACI Task Force Report](https://eaaci.org/guidelines-position-papers/endotyping-in-chronic-rhinosinusitis-an-eaaci-task-force-report/)
+
 {{%/sources%}}

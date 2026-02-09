@@ -28,8 +28,8 @@ flowchart = true
 - Le recueil quotidien des symptômes sur un Agenda pendant au moins 2 cycles est essentiel pour le diagnostic de SPM
 - L'examen vise à éliminer un diagnostic différentiel ou surajouté
 - Le bilan est réalisé à 8 heures de J2 à J5 du cycle: FSH, estradiol, prolactine, TSH, cortisol
-- La prise en charge du syndrome prémenstruel débute par l'information de la patiente et l'essai en continu de calcium 1 g/j ou de gattilier
-- En cas d'échec, le traitement médicamenteux de référence du syndrome prémenstruel est une contraception œstroprogestative habituelle ou en continu, ou bien un traitement antidépresseur de J14 à J28 ou en continu
+- La prise en charge du syndrome prémenstruel débute par l'information de la patiente et dépend de l'intensité des symptômes. En première intention, essayer le calcium 1 g/j ou le gattilier en continu
+- En cas d'échec, le traitement médicamenteux de référence du syndrome prémenstruel est une contraception œstroprogestative habituelle en continu, ou bien un traitement antidépresseur en continu ou intermittent de J14 à J28
 - La consultation spécialisée avec le gynécologue est nécessaire en cas d'anomalie du bilan ou de résistance aux premières lignes de traitement
 
 {{%/article-summary%}}

@@ -324,6 +324,7 @@ Ne pas utiliser d'autres formes de supplémentations.
 
 ### Bibliographie en attente
 
+- [Anagnostis P, et al. EMAS position statement: Vitamin D and menopausal health. Maturitas. 2023. (PDF)](https://emas-online.org/wp-content/uploads/2023/07/2023-EMAS-Vitamin-D-MAT.pdf)
 - [HCSP. Avis relatif à la couverture des besoins de la population générale en vitamine D et en fer. 21/06/2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1251)
 
 {{%/sources%}}

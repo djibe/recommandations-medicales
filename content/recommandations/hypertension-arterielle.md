@@ -103,7 +103,7 @@ AMT
 : automesure tensionnelle ({{%lang%}}home blood pressure monitoring - HBPM{{%/lang%}})
 
 ARA2
-: antagoniste des récepteurs de l'angiotensine 2
+: antagoniste des récepteurs de l'angiotensine 2 (ou sartan)
 
 CV
 : cardiovasculaire

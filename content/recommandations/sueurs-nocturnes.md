@@ -47,7 +47,7 @@ thoraco-abdomino-pelvien
 
 Principales causes de sueurs nocturnes:
 
-### Cause inflammatoire
+### Causes inflammatoires
 
 - Infectieuse  
   - [VIH]({{% relref "vih-sida.md" %}})
@@ -65,7 +65,7 @@ Principales causes de sueurs nocturnes:
   - [Polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}})
   - [Artérite à cellules géantes]({{% relref "arterite-cellules-geantes-horton.md" %}}) (maladie de Horton)
 
-### Cause endocrinienne
+### Causes endocriniennes
 
 - [Hyperthyroïdie]({{% relref "hyperthyroidie.md" %}})
 - [Ménopause]({{% relref "menopause.md" %}}), hypogonadisme

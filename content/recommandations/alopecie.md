@@ -156,10 +156,10 @@ Les traitements de l'alopécie androgénétique ne sont possibles qu'à partir d
 
 Prise en charge de l'alopécie androgénétique de l'homme (par efficacité décroissante):
 
-- Rapport bénéfice/risque défavorable: Finastéride 1 mg/j + [info patient ANSM (PDF)](https://ansm.sante.fr/uploads/2022/11/14/20221114-finasteride-fichepatient-v13102022.pdf)  
+- Rapport bénéfice/risque défavorable: Finastéride 1 mg/j + [attestation d'information partagée (PDF)](https://ansm.sante.fr/uploads/2026/02/05/attestation-d-information-partagee-finasteride-1-mg.pdf) + [info patient ANSM (PDF)](https://ansm.sante.fr/uploads/2022/11/14/20221114-finasteride-fichepatient-v13102022.pdf)  
   Possible de 18 à 41 ans avec **risques psychiatriques**, sexuels, gynécomastie à surveiller et baisse du PSA.
 - Si échec finastéride à 12 mois: dutastéride 0,5 mg x 1/j (mêmes précautions que finastéride), sinon au long cours
-- [Minoxidil 5%](https://base-donnees-publique.medicaments.gouv.fr/medicament/62182563/extrait#tab-rcp) 1 mL ou 1/2 bouchon x 2/j
+- ==[Minoxidil 5%](https://base-donnees-publique.medicaments.gouv.fr/medicament/62182563/extrait#tab-rcp)== 1 mL ou 1/2 bouchon x 2/j
 - [Minoxidil 2%](https://base-donnees-publique.medicaments.gouv.fr/medicament/68477734/extrait#tab-rcp) 1 mL ou 1/2 bouchon x 2/j
 - Greffe capillaire
 - Laser (max 6 mois)
