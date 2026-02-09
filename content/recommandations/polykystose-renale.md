@@ -167,7 +167,7 @@ graph TB
 {{%sources%}}
 
 - [Kidney Disease: Improving Global Outcomes (KDIGO) ADPKD Work Group. KDIGO 2025 Clinical Practice Guideline for the Evaluation, Management, and Treatment of Autosomal Dominant Polycystic Kidney Disease (ADPKD). Kidney Int. 2025.](https://kdigo.org/guidelines/autosomal-dominant-polycystic-kidney-disease-adpkd/)
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Polykystose rénale. Item 266. Manuel de néphrologie 11ème édition. 2025.](https://manuel4.cuen.fr/spip.php?article78)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Polykystose rénale. Item 266. Manuel de néphrologie 11ème édition. 2025.](https://manuel.cuen.fr/accueil-chapitres/)
 - Prescrire Redaction. Tolvaptan : à écarter dans la polykystose rénale. Rev Prescrire. 2022.
 
 {{%/sources%}}

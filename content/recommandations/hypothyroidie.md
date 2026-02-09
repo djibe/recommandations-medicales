@@ -430,6 +430,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Mintziori G, et al. EMAS position statement: Thyroid disease and menopause. Maturitas. 2024. (PDF)](https://emas-online.org/wp-content/uploads/2024/04/PIIS0378512224000860.pdf)
 - [Olivier Petit I. Interprétation d'un bilan thyroïdien limite chez l'enfant (après 3 ans). Pas à Pas en Pédiatrie. 2021.](https://pap-pediatrie.fr/endocrinologie/interpretation-dun-bilan-thyroidien-limite-chez-lenfant-apres-3-ans)
 - [Jonklaas J, et al. Evidence-Based Use of Levothyroxine/Liothyronine Combinations in Treating Hypothyroidism: A Consensus Document. Eur Thyroid J. 2021.](https://etj.bioscientifica.com/view/journals/etj/10/1/ETJ512970.xml)
 - [Castanet M, Cuny A. Perturbation du bilan thyroïdien. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/endocrinologie/perturbation-du-bilan-thyroidien)

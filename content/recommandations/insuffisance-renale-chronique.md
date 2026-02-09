@@ -505,7 +505,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale chronique chez l'adulte et chez l'enfant. Item 264. Manuel de néphrologie 11ème édition. 2025.](https://manuel4.cuen.fr/spip.php?rubrique18)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale chronique chez l'adulte et chez l'enfant. Item 264. Manuel de néphrologie 11ème édition. 2025.](https://manuel.cuen.fr/accueil-chapitres/)
 - [HAS. ALD n° 19 - Néphropathie chronique grave. Guide des actes et prestations. 2024.](https://www.has-sante.fr/jcms/c_565906/fr/ald-n-19-nephropathie-chronique-grave)
 - [Académie nationale de pharmacie. Le dépistage précoce, la solution pour freiner la progression des insuffisances rénales chroniques terminales. 2024. (PDF)](https://www.acadpharm.org/dos_public/COMMUNIQUE_MALADIES_RENALES_CHRONIQUES_VF.PDF)
 - [Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024.](https://kdigo.org/guidelines/ckd-evaluation-and-management/)

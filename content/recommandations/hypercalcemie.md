@@ -175,13 +175,13 @@ Des examens supplémentaires d'imagerie (scintigraphie osseuse ou IRM), peuvent 
 
 Anomalies observables à l'électrocardiogramme lors d'une hypercalcémie:
 
-- **TA**chycardie sinusale
-- **Raccourcissement** de l'espace QT
-- Onde **T plate**
-- Allongement de l'espace **PR**
-- Troubles du **rythme**
+- Tachycardie sinusale
+- Raccourcissement de l'espace QT
+- Onde T plate
+- Allongement de l'espace PR
+- Troubles du rythme
 
-> Moyen mnémotechnique bien connu: << Ta raquette plate perd son rythme >> (en gras ci-dessus).
+> Moyen mnémotechnique bien connu: << Ta raquette plate perd son rythme >>.
 
 [L'ECG de l'hypercalcémie - e-cardiogram](https://www.e-cardiogram.com/hypercalcemie/)
 
@@ -189,9 +189,9 @@ Anomalies observables à l'électrocardiogramme lors d'une hypercalcémie:
 {{%collapse "Traitement" %}}
 
 > [!WARNING]
-La prise en charge de l'hypercalcémie sévère (> 3 mmol/L) est une urgence vitale.
+> La prise en charge de l'hypercalcémie sévère (> 3 mmol/L) est une urgence vitale.
 
-Le traitement de l'hypercalcémie est étiologique avec des mesures complémentaires possibles (hyperhydratation, diurétiques de l'anse, dénosumab voire biphosphonates IV, calcitonine).
+Le traitement de l'hypercalcémie est étiologique avec des mesures complémentaires possibles (hyperhydratation, diurétiques de l'anse furosémide 1 mg/kg IV, hydrocortisone 200-300 mg IV, pamidronate 30-90 mg IV, dénosumab, calcitonine).
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'hypercalcémie" "show" %}}
@@ -213,7 +213,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hypercalcémie - hypocalcémie. Manuel de néphrologie 11ème édition. 2025.](https://manuel4.cuen.fr/spip.php?article25)
+- [Lott C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. Resuscitation. 2025.](https://www.resuscitationjournal.com/article/S0300-9572(25)00265-5/fulltext)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hypercalcémie - hypocalcémie. Manuel de néphrologie 11ème édition. 2025.](https://manuel.cuen.fr/accueil-chapitres/)
 - [Fuleihan G, et al. Treatment of Hypercalcemia of Malignancy in Adults: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2022.](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgac621/6916871)
 - [Bilezikian JP, et al; International Workshop on Primary Hyperparathyroidism. Evaluation and Management of Primary Hyperparathyroidism: Summary Statement and Guidelines from the Fifth International Workshop. J Bone Miner Res. 2022.](https://asbmr.onlinelibrary.wiley.com/doi/10.1002/jbmr.4677)
 - Collège National des Enseignants de Médecine Interne (CEMI). Hypercalcémie. Référentiel Collège de Médecine interne R2C. 2021.

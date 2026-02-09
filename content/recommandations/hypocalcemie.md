@@ -86,7 +86,7 @@ Causes d'hypocalcémie chronique, évaluées selon le niveau de PTH:
     La calcémie ionisée ou corrigée est normale.
   - **[Carence en vitamine D]({{% relref "vitamine-d.md" %}})** (apports ou UV insuffisants, malabsorption, médicaments)  
     PTH élevée avec bilan phospho-vitamino-calcique bas (calciurie, phosphatémie, vitamine D bas).
-  - [Insuffisance rénale chronique sévère]({{% relref "insuffisance-renale-chronique.md" %}})  
+  - **[Insuffisance rénale chronique sévère]({{% relref "insuffisance-renale-chronique.md" %}})**  
     PTH élevée avec phosphatémie élevée.
 
 ### Causes d'hypocalcémie aiguë
@@ -94,7 +94,7 @@ Causes d'hypocalcémie chronique, évaluées selon le niveau de PTH:
 - Hypoparathyroïdie aiguë post-parathyroïdectomie (PTH basse)
 - Autres hypocalcémies aiguës (PTH élevée)
   - Précipitation du calcium intravasculaire: rhabdomyolyse, lyse tumorale, iatrogène (citrate, foscarnet, phosphore)
-  - Précipitation du calcium tissulaire: rhabdomyolyse, pancréatite aiguë
+  - Précipitation du calcium tissulaire: rhabdomyolyse, **pancréatite aiguë**
   - Transfert du calcium: Syndrome de l'os affamé (après parathyroïdectomie ou reprise d'activité après immobilisation prolongée), alcalose respiratoire aiguë (ex. au cours de la << spasmophilie >>, hypocalcémie ionisée aiguë)
 
 > Au cours de la << spasmophilie >>, l'hyperventilation induit une alcalose ventilatoire qui augmente la liaison du calcium à l'albumine, d'où les troubles neuromusculaires.
@@ -174,15 +174,15 @@ Anomalies observables à l'électrocardiogramme lors d'une hypocalcémie:
 > [!WARNING]
 > << Le traitement de l'hypocalcémie symptomatique est une urgence >>, idem pour une hypocalcémie aiguë . -- *CEEDMM*
 
-La prise en charge de l'hypocalcémie est principalement **étiologique**.
+La prise en charge de l'hypocalcémie est principalement **étiologique**, après correction urgente.
 
 ### Traitement symptomatique d'une hypocalcémie chronique
 
 Traitements visant à la restauration rapide de la calcémie:
 
-- Supplémentation en calcium: 500 à 2000 mg/j en 3-4 prises en dehors des repas  
+- {{< modal-btn modal-calcium-spe >}}Supplémentation en calcium{{< /modal-btn >}}: 500 à 2000 mg/j en 3-4 prises en dehors des repas  
   Max 500 mg/j si insuffisance rénale.
-- Suspension des traitements allongeant le QT
+- Suspension des traitements allongeant l'espace QT
 - Si carence en 25 OH vitamine D: [supplémentation en vitamine D]({{% relref "vitamine-d.md" %}})
 - Si hypomagnésémie: supplémentation en magnésium
 - Si insuffisance rénale sévère avec carence en calcitriol: supplémentation en 1-α OH-vitamine D (Alfacalcidiol, Un Alfa®, Un-Alfa®) ou 1, 25 OH vitamine D (Rocaltrol®)
@@ -209,7 +209,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hypercalcémie - hypocalcémie. Manuel de néphrologie 11ème édition. 2025.](https://manuel4.cuen.fr/spip.php?article25)
+- [Lott C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. Resuscitation. 2025.](https://www.resuscitationjournal.com/article/S0300-9572(25)00265-5/fulltext)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hypercalcémie - hypocalcémie. Manuel de néphrologie 11ème édition. 2025.](https://manuel.cuen.fr/accueil-chapitres/)
 - {{< references/college-endocrino >}}
 - [Kamenický P. Hypocalcémie de l'adulte. MCED. 2016. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/JNDES/2016/16_jndes_hypocalcemie_adulte_p_kamenicky.pdf)
 - [Fong J, Khan A. Hypocalcémie: Mises à jour dans le diagnostic et la prise en charge en soins primaires. Can Fam Physician. 2012.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3279287/)
@@ -217,3 +218,8 @@ graph TB
 - [Guitton C, et al; Société de Réanimation de Langue Française. Dyscalcémie aux urgences. 2002. (PDF)](https://www.srlf.org/wp-content/uploads/2015/11/0211-Reanimation-Vol11-N7-p493_501.pdf)
 
 {{%/sources%}}
+{{% modal title="Spécialités de calcium" id="modal-calcium-spe"%}}
+
+{{< traitements/calcium-spe >}}.
+
+{{% /modal %}}

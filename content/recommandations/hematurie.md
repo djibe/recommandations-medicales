@@ -227,7 +227,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hématurie. Item 260. Manuel de néphrologie 11ème édition. 2025.](https://manuel4.cuen.fr/spip.php?article30)
+- [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hématurie. Item 260. Manuel de néphrologie 11ème édition. 2025.](https://manuel.cuen.fr/accueil-chapitres/)
 - [Collège Français des Enseignants en Urologie (CFEU). Hématurie. Item 260. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-260-Hematurie.pdf)
 
 ### Bibliographie en attente
