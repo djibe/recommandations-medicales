@@ -552,6 +552,7 @@ Personne âge et/ou <br>risque hypoglycémique<br>sévère | > 50 % | < 1 % | 0 
 
 ### Bibliographie en attente
 
+- [NICE. Diabetic retinopathy: management and monitoring. NICE guideline. 2024.](https://www.nice.org.uk/guidance/ng242)
 - [Sultan A, et al. Référentiel pied diabétique SFD 2024. Med Mal Metab. 2024. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel_sfd_2024_0.pdf)
 - [The Diabetes and Nutrition Study Group (DNSG) of the European Association for the Study of Diabetes (EASD). Evidence-based European recommendations for the dietary management of diabetes. Diabetologia 66. 2023.](https://link.springer.com/article/10.1007/s00125-023-05894-8)
 - [Thivolet C, et al. Télésurveillance et diabète. Prise de position de la Société francophone du diabète (SFD). Med Mal Metab. 2021. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel2021sfd_telesurveillanceetdiabete_0.pdf)

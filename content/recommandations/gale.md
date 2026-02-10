@@ -275,7 +275,7 @@ Afin d'éviter tout risque d'épidémie, nous vous demandons de bien vouloir con
   Dans des sacs, puis lavage machine 30°C, séchage machine haute température puis repassage au fer chaud.  
   8 jours si gale profuse.
 3. Ascaricide  
-  En supermarché, ascaricide actif sur le sarcopte de la gale (type Enviroscab® spray ou autre. Aucun n'est remboursé).  
+  Ascaricide actif sur le sarcopte de la gale (type Enviroscab® spray ou autre en pharmacie/supermarché. Aucun n'est remboursé).  
   Pulvériser sur toute la surface du vêtement, à l'endroit et à l'envers, en insistant sur les coutures et plis, puis laisser agir dans des sacs fermés hermétiquement. Laisser agir le produit 3 heures. Enfin ressortir le linge pour un lavage machine à 30°C (ou laisser aérer 2 heures).  
   Si application sur literie, laisser reposer 12h.  
   **NB.** Ne peut être manipulé par asthmatique/problème respiratoire (idem pour Spregal®).  

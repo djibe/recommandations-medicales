@@ -214,17 +214,17 @@ Une ==**contraception œstroprogestative (COP) en continu**== est le traitement 
 
 {{< table title="Traitements hormonaux pour la suppression de l'ovulation au cours de la prise en charge du syndrome prémenstruel. Dr JB Fron d'après *Stute P et al 2017* et *RCOG*. EE = ; **gén =** générique; **LNG =** lévonorgestrel; **ND =** non disponible" class="table-wrap" >}}
 | Suppression de l'ovulation | Substance et dosage | Spécialités |
-|-|-|-|
+| - | - | - |
 | Contraception orale | EE 20 µg + drospirénone 3 mg **24/4** | Drospibel, Espizène continu, Jasminelle(-continu), Phizoé, Yaz, gén |
-|| EE 20 µg + LNG 90 µg 28/0 | ND |
-|| EE 35 µg + noréthindrone 0,5/1/0,5 mg 21/7 | ND |
-|| EE 30 µg + désogestrel 150 µg 21/7 | Desobel, Varnoline, gén |
-|| EE 30 µg + LNG 150 µg 21/7 | Adepal, Ludéal, Milevoni, Minidril, Optidril, Qiade |
-|| EE 30/40/30 µg + LNG 50/75/125 µg 21/7 | Trinordiol, Daily |
-|| EE 30 µg + chlormadinone 2 mg 21/7 | Belara |
+| | EE 20 µg + LNG 90 µg 28/0 | ND |
+| | EE 35 µg + noréthindrone 0,5/1/0,5 mg 21/7 | ND |
+| | EE 30 µg + désogestrel 150 µg 21/7 | Desobel, Varnoline, gén |
+| | EE 30 µg + LNG 150 µg 21/7 | Adepal, Ludéal, Milevoni, Minidril, Optidril, Qiade |
+| | EE 30/40/30 µg + LNG 50/75/125 µg 21/7 | Trinordiol, Daily |
+| | EE 30 µg + chlormadinone 2 mg 21/7 | Belara |
 | GnRH-A | Leuproréline 3,75 mg IM/mois | Enantone, Zeulide |
-|| Goséréline 3,6 mg SC/mois ou 10,8 mg/3 semaines | Zoladex |
-|| Buséréline 3 x 100 µg/j spray nasal | ND |
+| | Goséréline 3,6 mg SC/mois ou 10,8 mg/3 semaines | Zoladex |
+| | Buséréline 3 x 100 µg/j spray nasal | ND |
 | Œstradiol transdermique | Estradiol 100 µg patch x 2-4/semaine + progestérone 100-200 mg/j J17-J28 ||
 {{< /table >}}
 
@@ -265,14 +265,18 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Management of Premenstrual Disorders: ACOG Clinical Practice Guideline No. 7. Obstet Gynecol. 2023.](https://journals.lww.com/greenjournal/fulltext/2023/12000/management_of_premenstrual_disorders__acog.34.aspx)
 - [Naheed B, et al. Gonadotropin‐releasing hormone (GnRH) analogues for premenstrual syndrome (PMS). Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011330.pub2/full/fr)
 - [Jespersen C, et al. Selective serotonin reuptake inhibitors for premenstrual syndrome and premenstrual dysphoric disorder. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001396.pub4/full)
+- [Management of Premenstrual Disorders: ACOG Clinical Practice Guideline No. 7. Obstet Gynecol. 2023.](https://journals.lww.com/greenjournal/fulltext/2023/12000/management_of_premenstrual_disorders__acog.34.aspx)
 - [Saint Pol Dagneau de Richecour L, Lafont Brouchet C. Prise en charge thérapeutique du syndrome prémenstruel en médecine générale : revue systématique de la littérature. 2020.](https://utheme.univ-tlse3.fr/s/fr/item/33305)
 - [Green LJ, et al; on behalf of the Royal College of Obstetricians and Gynaecologists. Management of premenstrual syndrome. BJOG. 2017.](https://obgyn.onlinelibrary.wiley.com/doi/epdf/10.1111/1471-0528.14260)
 - [Stute P, et al. Interdisciplinary consensus on management of premenstrual disorders in Switzerland. Gynecological Endocrinology. 2017.](https://www.tandfonline.com/doi/10.1080/09513590.2017.1284788)
 - [Ismaili E, et al. Fourth consensus of the International Society for Premenstrual Disorders (ISPMD): auditable standards for diagnosis and management of premenstrual disorder. Arch Womens Ment Health. 2016.](https://link.springer.com/article/10.1007/s00737-016-0631-7)
 - [International Association for Premenstrual Disorders (IAPMD)](https://www.iapmd.org)
+
+### Bibliographie en atteinte
+
+- [Worthington R, et al. Management of Premenstrual Disorders. JAMA. 2026.](https://jamanetwork.com/journals/jama/article-abstract/2844698) (payant)
 
 Mot-clé: syndrome pré-menstruel, trouble prémenstruel
 
