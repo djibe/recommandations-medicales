@@ -52,14 +52,14 @@
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^7.0.2",
     "@oramacloud/client": "^2.1.4",
-    "@playwright/test": "^1.56.1",
+    "@playwright/test": "^1.58.2",
     "apexcharts": "^5.3.6",
     "cli-real-favicon": "^0.0.9",
     "cross-env": "^10.1.0",
-    "dwv": "0.35.1",
+    "dwv": "0.36.0",
     "dwv-simplistic": "^0.10.0",
     "hint": "^7.1.13",
-    "html-validate": "^10.5.0",
+    "html-validate": "^10.7.0",
     "hugo-extended": "^0.145.0",
     "instant.page": "^5.2.0",
     "linkinator": "^6.1.4",
@@ -68,7 +68,7 @@
     "vnu-jar": "^25.12.31"
   },
   "dependencies": {
-    "autoprefixer": "^10.4.23",
+    "autoprefixer": "^10.4.24",
     "csv-parser": "^3.2.0",
     "postcss": "^8.5.6",
     "postcss-cli": "^11.0.1"
