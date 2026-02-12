@@ -384,7 +384,7 @@ Autres traitements ayant un faible niveau de preuve d'efficacité: {{< modal-btn
   - Hypotension mal tolérée
   - Angor aggravé ou d'apparition récente
 - Sévérité biologique
-  - [Hyponatrémie]({{% relref "hyponatremie.md" %}}) ou hyperkaliémie menaçante
+  - [Hyponatrémie]({{% relref "hyponatremie.md" %}}) ou [hyperkaliémie]({{% relref "hyperkaliemie.md" %}}) menaçante (ECG dès 5,5 mmol/L)
   - Anémie
   - [Insuffisance rénale]({{% relref "insuffisance-renale-aigue.md" %}}) d'aggravation progressive
 - Comorbidités

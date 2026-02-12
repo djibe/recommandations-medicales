@@ -57,7 +57,7 @@ Les autres causes fréquentes sont l'insuffisance surrénale et les [cancers](/t
 - Iatrogénie  
   Diurétiques (**thiazidiques** ++), antidépresseurs (fluoxétine), antipsychotiques, anti-épileptiques (carbamazépine).
 - Insuffisance d'organe
-  - **Insuffisance surrénale** (hyperkaliémie)
+  - **Insuffisance surrénale** ([hyperkaliémie]({{% relref "hyperkaliemie.md" %}}))
   - **Hypothyroïdie profonde** avec myxœdème
   - Insuffisance cardiaque, rénale avancée ou hépatocellulaire
 - Affection aiguë (neurologique, pulmonaire)

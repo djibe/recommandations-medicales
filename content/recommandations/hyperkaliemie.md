@@ -6,20 +6,19 @@ description = "Recommandations pour le diagnostic et la prise en charge de l'hyp
 synonyms = []
 auteurs = ["Jean-Baptiste FRON", "Alaedine Benani"]
 date = "2026-02-06T00:00:33+01:00"
-publishdate = "2026-02-09"
-lastmod = "2026-02-09"
+publishdate = "2026-02-12"
+lastmod = "2026-02-12"
 specialites = ["néphrologie"]
-annees = "2023"
-sources = ["SEC"]
-tags = []
+annees = "2025"
+sources = ["UKKA", "SEC"]
+tags = ["diabète", "insuline", "néphropathie"]
 english = ["Hyperkalemia", "hyperkalaemia", "hyperpotassemia"]
 sctid = "14140009"
 icd10 = ["E87.5"]
-draft = true
 image = true
 imagePNG = true
 imageSrc = "Signes ECG de l'hyperkaliémie. Mikael Häggström, Public domain, via Wikimedia Commons"
-todo = "descr > summary > liens | update 2026"
+todo = "update 2026, demander relecture"
 flowchart = true
 +++
 
@@ -29,11 +28,12 @@ flowchart = true
   - comorbidité: insuffisance rénale chronique (notamment la dialyse), insuffisance cardiaque ou diabète
   - situation aiguë: insuffisance rénale aiguë, rhabdomyolyse, syndrome de lyse
   - avec souvent un traitement par IEC/ARA2 ou spironolactone
-- L'hyperkaliémie est souvent asymptomatique. Ses symptômes sont des palpitations et des signes neuromusculaires (paresthésies des extrémités, faiblesse musculaire, paralysie ascendante) et signent une urgence vitale
-- La prise en charge d'une hyperkaliémie dépend du contexte:
+- L'hyperkaliémie est souvent asymptomatique ou avec des palpitations et/ou des signes neuromusculaires (paresthésies des extrémités, faiblesse musculaire, paralysie ascendante) qui signent une urgence vitale
+- La prise en charge d'une hyperkaliémie en ville dépend du contexte:
   - En présence de symptôme évocateur, ECG anormal ou d'hyperkaliémie sévère (≥ 6,5 mmol/L): urgence vitale avec appel du SAMU (Centre 15)
-  - En cas de situation aiguë (IRA, rhabdomyolyse), d'insuffisance d'organe (rénale, cardiaque) ou de diabète avec traitement à risque: bilan urgent (dès 5,5 mmol/L *SEC* | 6 selon *KDIGO*) pour ECG et normalisation urgente de la kaliémie
-  - En cas de suspicion de pseudohyperkaliémie (pas de terrain, médicament ou situation à risque, conditions de prélèvement favorisantes): contrôle de la kaliémie au plus vite (sous 24h si HK^+^ modérée de 6 à 6,4 mmol/L)
+  - En cas de situation aiguë (IRA, rhabdomyolyse), d'insuffisance d'organe (rénale, cardiaque) ou de diabète avec traitement à risque: bilan urgent dès 5,5 mmol/L (*SEC*; 6 selon *KDIGO*) pour ECG et normalisation de la kaliémie
+  - En cas de suspicion de pseudohyperkaliémie (pas de comorbidité, médicament ou situation à risque, conditions de prélèvement favorisantes): contrôle de la kaliémie au plus vite (sous 3 jours ou au plus tôt si 5,5 à 5,9 mmol/L; sous 24h si HK^+^ modérée de 6 à 6,4 mmol/L)
+  - Dans tous les cas, dès 5,5 mmol/L, appliquer les mesures pour réduire la kaliémie (apports en K+, Kayexalate, réduire le traitement) voire avis spécialisé pour patiromer ou adaptation
 - À distance de l'épisode aigu, la lutte contre l'hyperkaliémie comprend la réduction des apports en potassium (fruits, KCl), l'adaptation des traitements (IEC/ARA2, spironolactone), la résine Kayexalate
 - Un bilan approfondi (kaliurie, aldostérone, rénine) doit être réalisé en cas d'hyperkaliémie non expliquée
 - Un avis spécialisé est nécessaire au moindre doute
@@ -83,6 +83,9 @@ MRC
 
 SEC
 : {{%lang "es"%}}Sociedad Española de Cardiología{{%/lang%}} (Société espagnole de cardiologie)
+
+UKKA
+: {{%lang%}}UK Kidney Association{{%/lang%}}
 {.dl-inline}
 
 {{% /collapse %}}
@@ -216,6 +219,18 @@ Les signes électrocardiographiques de l'hyperkaliémie ne sont ni sensibles ni 
 - Troubles du rythme: bradycardie sinusale, tachycardie ventriculaire, fibrillation ventriculaire
 
 {{% /collapse %}}
+{{%collapse "Prévention" %}}
+
+Les mesures de prévention de l'hyperkaliémie comprennent:
+
+- Le dosage régulier en cas de comorbidités à risque (insuffisance rénale, cardiaque, diabète)
+- Médicaments à risque:
+  - Éducation, suspension en cas de situation de déshydratation (IEC/ARA2, AINS ...)
+  - IEC/ARA2: kaliémie et urée avant introduction, puis 1-2 semaines après chaque changement de dose, éviter le triméthoprime
+  - anti-aldostérone (spironolactone): éviter si kaliémie basale > 5 mmol/L, kaliémie et urée avant introduction, puis 1 semaine après chaque changement de dose, mensuelle le premier trimestre puis trimestrielle
+- Si insuffisance rénale: accompagnement diététique
+
+{{% /collapse %}}
 {{%collapse "Traitement de l'hyperkaliémie" %}}
 
 > [!WARNING]
@@ -227,9 +242,10 @@ Un avis spécialisé est nécessaire au moindre doute (cardiologique, néphrolog
 
 #### Hyperkaliémie subaiguë ou chronique
 
-La prise en charge de l'hyperkaliémie subaiguë ou chronique comprend la réévaluation des traitements, la prévention des récidives et la surveillance répétée:
+La prise en charge de l'hyperkaliémie subaiguë ou chronique comprend la réévaluation des traitements, la prévention des récidives et la surveillance répétée. Ces mesures sont nécessaires dès 5,5 mmol/L en ville:
 
-- Suivi régulier de la kaliémie
+- Personnes à risque: suivi régulier de la kaliémie  
+  Maladie rénale, insuffisance cardiaque, diabète (≥ 2-4/an).
 - Adaptation des médicaments
   - IEC/ARA2: éducation sur le saut de prise durant les situations de déshydratation, essayer de maintenir la dose maximale.  
     L'hyperkaliémie est minorée avec l'association au sacubitril (valsartan/sacubitril).
@@ -242,7 +258,7 @@ La prise en charge de l'hyperkaliémie subaiguë ou chronique comprend la réév
 - Sodium polystyrene sulfonate 1 cuiller-mesure x 1-4/j ([Kayexalate](https://base-donnees-publique.medicaments.gouv.fr/medicament/67499717/extrait#tab-rcp), gén)
 - Si hyporéninisme hypoaldostéronisme: fludrocortisone, diurétique de l'anse furosémide
 
-Sur prescription spécialisée uniquement: patiromer 8,4-25,2 g x 1/j ([Veltassa](https://base-donnees-publique.medicaments.gouv.fr/medicament/63705995/extrait#tab-rcp-et-notice). Le cyclosilicate de zirconium sodique (Lokelma) n'est pas disponible en France.
+Sur prescription spécialisée uniquement: patiromer 8,4 - 25,2 g x 1/j ([Veltassa](https://base-donnees-publique.medicaments.gouv.fr/medicament/63705995/extrait#tab-rcp-et-notice). Le cyclosilicate de zirconium sodique (Lokelma) n'est pas disponible en France.
 
 ### Pour en savoir plus: traitement de l'hyperkaliémie sévère
 
@@ -257,12 +273,11 @@ L'hyperkaliémie sévère ou symptomatique est une **urgence vitale** sous surve
 
 ### Aliments riches en potassium
 
-Les apports quotidiens en potassium recommandés chez l'adulte dans la population générale sont de 3,5 g/j (90 mmol/L) et sont facilement couverts (*OMS*).
+Les apports quotidiens en potassium recommandés chez l'adulte dans la population générale sont de **3,5 g/j** (90 mmol/L) et sont facilement couverts (*OMS*).
 
-Les apports alimentaires proviennent principalement des fruits, légumes et de la viande (et des sels << allégés >>, KCl).
+Les apports alimentaires proviennent principalement des **fruits**, **légumes** et de la **viande** (et des sels << allégés >>, KCl).
 
-> Bedca.net
-
+{{< table title="Aliments riches en potassium. Dr JB Fron d'après Bedca.net" >}}
 | Aliment | mg/100 g |
 | ------- | -------: |
 | **Légumes** | |
@@ -300,19 +315,16 @@ Les apports alimentaires proviennent principalement des fruits, légumes et de l
 | Lentilles | 463 |
 | **Cacao** | 712 |
 | **Viande** | 270-490 |
-
-TODO:
+{{< /table >}}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une hyperkaliémie" "show" %}}
 
-TODO: update
-
-{{< mermaid title="Prise en charge d'une hyperkaliémie. Dr JB Fron d'après SEC, AAFP" >}}
+{{< mermaid title="Prise en charge d'une hyperkaliémie en ville. Dr JB Fron d'après UKKA, SEC, AAFP" >}}
 graph TB
-  hyperkaliémie["<b>Hyperkaliémie</b><br>&gt; 5 mmol/L"] --> signes("<b>Signe de gravité ?</b><br>—<br>- Signes cliniques<br>- Signes ECG<br>- HK &gt; 6,5 mmol/L<br>- KF &gt; 6 sans ECG<br>- Installation brutale<br>- Contexte grave<br>(lyse cellulaire, marathon)<br>- Insuffisance d'organe:<br>MRC, IC, cirrhose")
-    signes -- Non --> pseudohyperkaliémie("Pseudohyperkaliémie ?<br>—<br>- Garrot, poing serré<br>- Tubes froids<br>- Anomalie NFS") -- Oui --> Recontrôler(Redoser)
-      pseudohyperkaliémie -- Non --> apports("<b>Apports ou transferts<br>intracellulaires ?</b><br>—<br>- Apports en K+<br>- Transfert cellulaire ?<br>Insulinopénie,<br>hyperglycémie, acidose")
+  hyperkaliémie["<b>Hyperkaliémie</b><br>Kaliémie &gt; 5 mmol/L<br>(voire 5,5)"] --> signes("<b>Signe de gravité ?</b><br>—<br>≥ 1 parmi:<br>1. Symptômes<br>2. ECG anormal<br>3. HK ≥ 6,5 mmol/L<br>—<br>4. ou HK ≥ 5,5 mmol/L<br>(voire 6) avec ≥ 1 parmi:<br>- Installation brutale<br>- Contexte grave<br>(lyse cellulaire, rhabdomyolyse)<br>- Insuffisance d'organe:<br>MRC, IC, cirrhose")
+    signes -- Non --> pseudohyperkaliémie("Pseudohyperkaliémie ?<br>—<br>- Garrot, poing serré<br>- Tubes froids<br>- Anomalie NFS") -- Oui --> Recontrôler("Redoser sous<br>1-3 j selon<br>le taux")
+      pseudohyperkaliémie -- Non --> correction("Mesures de correction<br>dès 5,5 mmol/L:<br>Apports en K+, traitements,<br>Kayexalate, contrôle") -- Étiologie --> apports("<b>Apports ou transferts<br>intracellulaires ?</b><br>—<br>- Apports en K+<br>- Transfert cellulaire ?<br>Insulinopénie,<br>hyperglycémie, acidose")
         apports -- Non --> kaliurie("Kaliurie 24h<br>&gt; 25 mmol/L ?") -- Non --> insuffisance("Insuffisance d'organe:<br>rein, cœur, foie")
           kaliurie -- Oui --> aldostérone("Aldostérone basse ?")
             aldostérone -- Oui --> réninémie(Rénine basse ?) -- Oui --> hyperglycémie(Hyperglycémie,<br> tubulopathie, <br>AINS, BB)
@@ -326,7 +338,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- WIP [Alfonzo A, et al. Clinical Practice Guidelines Treatment of Acute Hyperkalaemia in Adults. UK Kidney Association. 2025. (PDF)](https://www.ukkidney.org/sites/default/files/RENAL%20ASSOCIATION%20HYPERKALAEMIA%20GUIDELINE%20-%20JULY%202022%20V2_0.pdf)
+- [Alfonzo A, et al. Clinical Practice Guidelines Treatment of Acute Hyperkalaemia in Adults. UK Kidney Association. 2025. (PDF)](https://www.ukkidney.org/sites/default/files/RENAL%20ASSOCIATION%20HYPERKALAEMIA%20GUIDELINE%20-%20JULY%202022%20V2_0.pdf)
 - [Lott C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. Resuscitation. 2025.](https://www.resuscitationjournal.com/article/S0300-9572(25)00265-5/fulltext)
 - [Masi S, et al. New strategies for the treatment of hyperkalemia. Eur J Intern Med. 2025.](https://linkinghub.elsevier.com/retrieve/pii/S0953-6205(24)00434-5)
 - [Collège Universitaire des Enseignants de Néphrologie (CUEN). Anomalies du bilan du potassium. Item 267. Manuel de néphrologie 11ème édition. 2025.](https://manuel.cuen.fr/accueil-chapitres/)
@@ -342,7 +354,6 @@ graph TB
 
 ### Bibliographie en attente
 
-- KDIGO 2024
 - ESC RAAS 2018
 - ESC HBP 2024
 
