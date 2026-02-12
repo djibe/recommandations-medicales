@@ -254,7 +254,7 @@ La vaccination HPV peut être réalisée par un pharmacien ou un infirmier sans 
 
 La vaccination conte les papillomavirus prévient des lésions précancéreuses de tous les sites atteints (voir *Complications*).
 
-[INCa. Les arguments clés sur la vaccination contre les cancers liés aux papillomavirus humains (HPV)](https://www.cancer.fr/catalogue-des-publications/arguments-cles-sur-la-vaccination-contre-les-cancers-hpv)  
+[INCa. Les arguments clés sur la vaccination contre les cancers liés aux papillomavirus humains (HPV)](https://www.cancer.fr/professionnels-de-sante/prevention-et-depistages/prevention/agents-infectieux/prevenir-les-cancers-lies-aux-hpv/arguments-cles-sur-la-vaccination-contre-les-cancers-hpv)  
 [SPF. Dépliant sur la vaccination contre les cancers HPV](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/depliant-flyer/infections-a-papillomavirus-humains-les-5-bonnes-raisons-de-se-faire-vacciner)
 
 > En Australie, où la recommandation de vacciner les filles date de 2007 et celle des garçons de 2013, la couverture vaccinale d'au moins 80 % a permis:  

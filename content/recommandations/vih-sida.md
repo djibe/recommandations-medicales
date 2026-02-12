@@ -442,7 +442,7 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 
 {{< youtube id="XnQ4rNUkEyU" title="La minute RECO HAS | VIH : le suivi en médecine générale (Dr Jean-Philippe Joseph)" >}}
 
-- [Kunkel A, et al. Dépistage et diagnostic du VIH et de trois infections sexuellement transmissibles bactériennes chez les jeunes en France, 2014-2023. Bull Epidemiol Hebd. 2025.](https://santepubliquefrance.fr/beh/2025/19-20/2025_19-20_3.html)
+- [Kunkel A, et al. Dépistage et diagnostic du VIH et de trois infections sexuellement transmissibles bactériennes chez les jeunes en France, 2014-2023. Bull Epidemiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/19-20/2025_19-20_3.html)
 - [ANRS, CNS. Vaccination des personnes vivant avec le VIH (label HAS). 2025.](https://www.has-sante.fr/jcms/p_3635651/fr/vaccination-des-personnes-vivant-avec-le-vih)
 - {{< references/calendrier-vaccinal >}}
 - [ANRS, CNS. Dépistage et prise en charge des cancers chez les personnes vivant avec le VIH. 2024. (PDF)](https://cns.sante.fr/sites/cns-sante/files/2024/10/VIH-Cancer_Argumentaire_Rapport-dexperts_-20241003.pdf)

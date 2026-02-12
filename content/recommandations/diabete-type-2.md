@@ -149,7 +149,7 @@ SFD
   {{%class%}}et finérénone (non disponible en France){{%/class%}}
 - Soutien psychologique
 - Association de patients: [programme d'accueil de la Fédération Française des Diabétiques](https://www.federationdesdiabetiques.org/je-m-inscris-a-la-newsletter-kitb), [Union sport et diabète](https://www.unionsportsetdiabete.com/) ...
-- Déclarer l'[ALD n°8]({{% relref "affection-longue-duree.md" %}}) et proposer le [service de suivi Sophia](https://www.ameli.fr/assure/sante/assurance-maladie/service-sophia-pour-les-personnes-diabetiques)
+- Déclarer l'[ALD n°8]({{% relref "affection-longue-duree.md" %}}) et proposer le service de suivi **Sophia** (inscription sur *Amelipro*)
 
 > [!INFO]
 > Le contrôle glycémique, tensionnel et lipidique réduit la survenue d'événements cardiovasculaires de 75%. -- *ESC 2019 diabetes*
@@ -522,13 +522,13 @@ Personne âge et/ou <br>risque hypoglycémique<br>sévère | > 50 % | < 1 % | 0 
 - [Diévart F et al. Quand et comment utiliser les inhibiteurs de la SGLT2 ou gliflozines en pratique clinique ? Nephrol Ther. 2023.](https://hal.science/hal-04541399)
 - {{< references/esc-diabetes-2023 >}}
 - {{< references/esh-2023 >}}
+- [Holt A, et al. Heart Failure Following Anti-Inflammatory Medications in Patients With Type 2 Diabetes Mellitus. JACC. 2023.](https://www.jacc.org/doi/10.1016/j.jacc.2023.02.027)
 - {{< references/ada-soc >}}
 - [Davies MJ, et al. Management of hyperglycaemia in type 2 diabetes, 2022. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2022.](https://link.springer.com/article/10.1007/s00125-022-05787-2)
 - [US Preventive Services Task Force. Screening for Prediabetes and Type 2 Diabetes in Children and Adolescents: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2022.14543)
 - [HAS. La chirurgie métabolique en dernier recours en cas de diabète de type 2 couplé à une obésité modérée. Communiqué de presse. 12/10/2022.](https://www.has-sante.fr/jcms/p_3376491/fr/la-chirurgie-metabolique-en-dernier-recours-en-cas-de-diabete-de-type-2-couple-a-une-obesite-moderee)
 - [Kidney Disease: Improving Global Outcomes (KDIGO) Diabetes Work Group. KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. Kidney Int. 2022.](https://kdigo.org/guidelines/diabetes-ckd/)
 - [Pop-Busui R, et al. Heart Failure: An Underappreciated Complication of Diabetes. A Consensus Report of the American Diabetes Association. Diabetes Care. 2022.](https://diabetesjournals.org/care/article/doi/10.2337/dci22-0014/147048/Heart-Failure-An-Underappreciated-Complication-of)
-- [Jarl Emanuel Strange. eposter. Risk of heart failure following short-term non-steroidal anti-inflammatory drug use in patients with type 2 diabetes mellitus. 2022.](https://www.escardio.org/The-ESC/Press-Office/Press-releases/Non-steroidal-anti-inflammatory-drugs-linked-with-heart-failure-in-patients-with-diabetes)
 - {{< references/esc-cvd >}}
 - [Lee CG, et al. Effect of Metformin and Lifestyle Interventions on Mortality in the Diabetes Prevention Program and Diabetes Prevention Program Outcomes Study. Diabetes Care. 2021.](https://doi.org/10.2337/dc21-1046):  
   Sujets à haut risque de diabète suivis pendant 20 ans, pas de bénéfice sur la mortalité totale à un programme intensif de modifications des habitudes de vie versus conseils de perte de poids et d'augmentation de l'activité physique.

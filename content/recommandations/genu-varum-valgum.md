@@ -111,7 +111,7 @@ Aucun traitement n'est nécessaire lors d'une déformation physiologique (symét
   - Atteinte unilatérale, très accentuée ou douloureuse
   - Genu varum (jambes en O): après 30 mois (2 ans 1/2)
   - Genu valgum (jambes en X): au début de la puberté
-- Information des parents: [guide SOFOP](https://www.sofop.org/fr/patients/fichesparentssofop/mon-enfant-a-les-genoux-qui-se-touchent-jambes-en-x-mon-enfant-a-les-genoux-ecartes-jambes-en-o-/fic_id/7)
+- Information des parents: [guide SOFOP](https://sofop.org/mon-enfant-a-les-genoux-qui-se-touchent-jambes-en-x-mon-enfant-a-les-genoux-ecartes-jambes-en-o/)
 
 En cas d'atteinte sévère ou locale, une chirurgie orthopédique peut être proposée.
 
@@ -133,7 +133,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [SOFOP. Mon enfant a les genoux qui se touchent (jambes en X) - Mon enfant a les genoux écartés (jambes en O). 2020.](https://www.sofop.org/fr/patients/fichesparentssofop/mon-enfant-a-les-genoux-qui-se-touchent-jambes-en-x-mon-enfant-a-les-genoux-ecartes-jambes-en-o-/fic_id/7)
+- [SOFOP. Mon enfant a les genoux qui se touchent (jambes en X) - Mon enfant a les genoux écartés (jambes en O). 2020.](https://sofop.org/mon-enfant-a-les-genoux-qui-se-touchent-jambes-en-x-mon-enfant-a-les-genoux-ecartes-jambes-en-o/)
 - [Collège Français des Chirurgiens Orthopédistes et Traumatologues. Suivi d'un nourrisson, d'un enfant, et d'un adolescent normal. Dépistage des anomalies orthopédiques. Orthopédie Traumatologie. 3e édition. 2020. (PDF)](https://www.sofcot.fr/sites/www.sofcot.fr/files/medias/documents/CollegeOrthop%C3%A9dieTraumatologieELLIPSES%203%C3%A8me%20%C3%A9dition.pdf)
 - [Docquier PL. Troubles statiques des membres inférieurs de l'enfant : genu varum et genu valgum : quand s'inquiéter ?. La Revue de la Médecine Générale. n°334. 2016. (PDF)](https://www.ssmg.be/images/ssmg/files/RMG/334/RMG334_06-09.pdf)
 

@@ -189,7 +189,7 @@ Informations sur la scoliose:
 {{% /collapse %}}
 {{%sources%}}
 
-- [Société Française d'Orthopédie Pédiatrique. Le devenir des pathologies pédiatriques à l'âge adulte. 2025. ISBN 9782956835394. (PDF)](https://www.sofop.org/medias/files/textes_scientifiques/monographies/2025/Monographie-SOFOP-2025.pdf)
+- Société Française d'Orthopédie Pédiatrique. Le devenir des pathologies pédiatriques à l'âge adulte. 2025. ISBN 9782956835394.
 - [Centre de référence des malformations vertébrales et médullaires. Déformations précoces du rachis. PNDS. 2022.](https://www.has-sante.fr/jcms/p_3374137/fr/deformations-precoces-du-rachis)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Dépistages chez l'enfant. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/depistages-lenfant)
 - [Kuznia AL, et al. Adolescent Idiopathic Scoliosis: Common Questions and Answers. Am Fam Physician. 2020.](https://www.aafp.org/pubs/afp/issues/2020/0101/p19.html)

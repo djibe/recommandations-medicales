@@ -47,7 +47,7 @@ Exemple pour une patientèle de 1300 patients déjà déclarés: déclarer 260 p
 
 En cas de contrat déjà signé, rien ne change sauf si le médecin demande à basculer dans le nouveau dispositif.
 
-L'appli *ameli Mémo* ([Android](https://play.google.com/store/apps/details?id=fr.cnamts.amelimemo&hl=fr), [iOS](https://apps.apple.com/fr/app/ameli-m%C3%A9mo/id1304468265)) permet de vérifier son éligibilité au dispositif.
+L'appli *ameli Mémo* ([Android](https://play.google.com/store/apps/details?id=fr.cnamts.amelimemo&hl=fr),) permet de vérifier son éligibilité au dispositif.
 
 {{% /collapse %}}
 {{%collapse "Les aides pour financer un assistant médical" %}}

@@ -122,8 +122,6 @@ Appel du SAMU pour bilan en urgence.
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}
 
-{{< card-link-external title="Diagnosis and management of hypertensive emergencies" url="https://www.escardio.org/Education/E-Learning/Webinars/diagnosis-and-management-of-hypertensive-emergencies" subtitle="ESC Councils webinar">}}
-
 {{< youtube id="EFpLquawfqg" title="Reconnaître et traiter les urgences hypertensives hors AVC (Dr Aurélien Lorthioir)" >}}
 
 {{% /collapse %}}

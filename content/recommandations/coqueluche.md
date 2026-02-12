@@ -293,7 +293,6 @@ Avant HAS/SPILF/GPIP 2024, des guides incomplets: DGS Urgent 2024_08 (aucune inf
 - [Infovac France. Bulletin N°7 - FAQ Coqueluche. Juin 2024.](https://www.infovac.fr/actualites/bulletin-n-7-faq-coqueluche-juin-2024)
 - [DGS-Urgent 2024_08. 07/06/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HCSP. Conduite à tenir autour d'un ou plusieurs cas de coqueluche. 2022.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1265)
-- [SPILF. Info-antibio N°92. Mai 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2021-05-tt-courts.pdf)
 - [CMIT. Coqueluche. Item 163. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-163-web.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Coqueluche. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/coqueluche)
 - {{< references/spilf-2020 >}}

@@ -258,7 +258,7 @@ Le traitement curatif du cancer bronchopulmonaire dépend de la **RCP** (radioth
   - [Tableaux des maladies professionnelles](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&motsCles=&planPatho=TABMALPRO_Cancers%2FCancer%20broncho-pulmonaire%20et%20pleural%2FCancer%20broncho-pulmonaire%2FCancer%20primitif)
   - Rédiger un certificat médical initial établissant le lien possible. C'est le patient qui l'adresse à sa CPAM pour la reconnaissance en Maladie Professionnelle.
 - Information du patient: [Guide patient: la prise en charge du cancer du poumon (PDF)](https://www.has-sante.fr/jcms/c_985214/fr/ald-n-30-guide-patient-la-prise-en-charge-du-cancer-du-poumon)
-- Association de patients: [De l'Air](https://cancer-poumon.fr)
+- Association de patients: [Mon Réseau Cancer](https://monreseaucancer.org/mon-reseau-cancer-du-poumon)
 - Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 - Suivi diététique
 - Soins de support, [directives anticipées]({{% relref "directives-anticipees.md" %}})

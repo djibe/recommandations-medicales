@@ -102,7 +102,7 @@ La résolution se fait normalement **dans les 2 ans** (80 % à 1 an) suivant la 
 - **Auto-exercices** d'assouplissement et renforcement des muscles quadriceps et ischio-jambiers
 - Si échec: kinésithérapie et apprentissage supervisé des auto-exercices
 - Avis podologique en cas de doute sur une malposition plantaire aggravante
-- Information sur la maladie: [guide Osgood SOFOP (PDF)](https://sofop.org/medias/files/textes_scientifiques/fiches_parents/Osgood.pdf)
+- Information sur la maladie: [guide Osgood SOFOP](https://sofop.org/la-maladie-dosgood-schlatter/)
 - Réévaluation à 15 jours avec les radiographies, l'observance et les retours sur les aménagements proposés
 
 > [!WARNING]

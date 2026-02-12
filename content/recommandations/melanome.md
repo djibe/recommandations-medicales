@@ -368,7 +368,7 @@ risque["<b>Sujet à risque de mélanome</b><br>—<br>- Phototype clair<br>- Ép
 - Collège des enseignants de dermatologie de France (CEDEF). Tumeurs cutanées épithéliales et mélaniques. Item 299 UE 9. 2017.
 - [INCa. Détection précoce des cancers de la peau - Médecins généralistes. 2016.](https://www.cancer.fr/catalogue-des-publications/detection-precoce-des-cancers-de-la-peau-medecins-generalistes)
 - [HAS. Mélanome cutané. 2012. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2012-03/ald_30_guide_melanome_web.pdf)
-- [Société Française de Dermatologie. Recommandations pour la Pratique Clinique : Standards, Options et Recommandations 2005 pour la prise en charge des patients adultes atteints d'un mélanome cutané MO. 2005. (PDF)](https://www.oncoderm.fr/upload/recommandations/9738-Prise-en-charge-des-meAlanome.pdf)
+- [Société Française de Dermatologie. Recommandations pour la Pratique Clinique : Standards, Options et Recommandations 2005 pour la prise en charge des patients adultes atteints d'un mélanome cutané MO. 2005. (PDF)](https://www.sfdermato.org/media/pdf/recommandation/melanome-9a8a623e0c45bf51910297452e010c21.pdf)
 
 ### Bibliographie en attente
 

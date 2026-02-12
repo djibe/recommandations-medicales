@@ -113,7 +113,7 @@ La prise en charge d'une inégalité des membres inférieurs (ILMI) dépend de s
 
 En l'absence d'indication au suivi orthopédique, poursuivre la **surveillance** de la croissance, des symptômes et des déformations.
 
-[Guide d'information pour les parents (PDF)](https://sofop.org/medias/files/textes_scientifiques/fiches_parents/ILMI.pdf).
+[Guide d'information pour les parents (PDF)](https://sofop.org/inegalite-de-longueur-des-membres-inferieurs/).
 
 ### Traitement orthopédique d'une inégalité de longueur
 

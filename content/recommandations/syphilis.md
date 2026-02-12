@@ -448,7 +448,6 @@ graph TB
 - [CMIT. Infections sexuellement transmissibles (IST) : gonococcies, chlamydioses, syphilis, papillomavirus humains (HPV), trichomonose. Item 162. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-162.pdf)
 - [US Preventive Services Task Force. Screening for Syphilis Infection in Nonpregnant Adolescents and Adults: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2796685)
 - [Santé Publique France. Bulletin de santé publique VIH-IST. Décembre 2021.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/vih-sida/documents/bulletin-national/bulletin-de-sante-publique-vih-ist.-decembre-2021)
-- [SPILF. Info-antibio N°92. Mai 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-2021-05-tt-courts.pdf)
 - [Janier M, et al. 2020 European guideline on the management of syphilis. J Eur Acad Dermatol Venereol. 2021.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16946)
 - {{< references/spilf-2020 >}}
 - Prescrire Rédaction. Syphilis Précoce. Octobre 2020.

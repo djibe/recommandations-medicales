@@ -113,7 +113,7 @@ Chez l'enfant avec hémolyse chronique déclarant une **anémie mal tolérée**,
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège Français d'Échographie Fœtale (CFEF). Épidémie parvovirus B19 2024. 2024. (PDF)](https://www.cfef.org/EPIDEMIE_PARVOVIRUS_B19_CFEF_LJSdocx.pdf)
+- Collège Français d'Échographie Fœtale (CFEF). Épidémie parvovirus B19 2024. 2024.
 - [CRATB. Le mégalérythème épidémique chez l'enfant. 2022. (PDF)](https://medqual.fr/images/GP/POP_PARTICULIERES/NOURRISSONS_ENFANTS/2022-MEGALERYTHEME-EPIDEMIQUE-ENFANT.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Éruptions fébriles. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/eruptions-febriles)
 - [Barbarot S, et al; SFP. Éruptions fébriles. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/dermatologie/eruptions-febriles)
