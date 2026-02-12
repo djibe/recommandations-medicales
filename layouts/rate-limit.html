@@ -1,0 +1,13 @@
+{{ define "main"}}
+<div class="container-lg">
+  <div class="row">
+    <article class="col text-center" style="padding-top:60px;">
+      <h1 class="typography-headline-2 font-weight-bold text-secondary" style="font-size: calc(1rem + 2vw)">{{ .Site.Title }}</h1>
+      <h2 class="text-404">429</h2>
+      <h3 class="typography-headline-3 font-weight-bolder">Oups ...</h3>
+      <p class="text-black-secondary lead font-weight-normal my-4">Trop de connexions depuis ce navigateur.</p>
+      <a class="btn btn-primary btn-lg my-lg-5" href="{{ .Site.BaseURL  }}">Revenir à l'accueil</a>
+    </article>
+  </div>
+</div>
+{{ end }}
