@@ -251,7 +251,7 @@ Rechercher:
 
 {{< mermaid title="Prise en charge de l'angine selon le tableau clinique. Dr JB Fron d'après HAS, SPILF, GPIP 2025" >}}
 graph TB
-  angine[Angine érythémateuse<br>ou érythémato-pultacée] --> moins3("&lt; 3 ans") --> viral(Virale)
+  angine[Angine érythémateuse<br>ou érythémato-pultacée] --> moins3("&lt; 3 ans") --> viral(Angine<br>virale)
   style angine stroke:#4150f5, stroke-width:1px
     angine --> 314ans(3 à 14 ans) --> TDR(TDR) -- Positif --> ATB("<b>Antibiothérapie 6 jours</b><br>—<br>Adulte: amoxicilline 1g x 2/j<br>Enfant: amox 25 mg/kg x 2/j<br>+ éviction 48 heures")
       TDR -- Négatif --> viral

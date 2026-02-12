@@ -19,7 +19,7 @@ sctid = "195967001"
 icd10 = ["J45", "J45.9", "J46"]
 image = true
 imageSrc = "Illustration de l'asthme par brgfx / Freepik"
-todo = "rankok | CSI + ARL, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, chambre se vide en 3-5 cycles Prescrire"
+todo = "rankok | CSI + ARL, plan d'action, Prescrire asthme fiche patient, https://asthme-allergies.org/, https://eaaci.org/guidelines-position-papers/exercise-recommendations-and-practical-considerations-for-asthma-management-an-eaaci-position-paper/"
 flowchart = true
 +++
 

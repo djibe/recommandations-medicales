@@ -8,7 +8,7 @@ synonyms = ["Glaucome chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-05-23T11:26:02+02:00"
 publishdate = "2025-05-31"
-lastmod = "2025-06-14"
+lastmod = "2026-02-12"
 specialites = ["ophtalmologie"]
 annees = "2022"
 sources = ["HAS"]
@@ -18,7 +18,7 @@ sctid = "77075001"
 icd10 = ["H40", "H40.0", "H40.1", "H40.3", "H40.4", "H40.5", "H40.6", "H40.8", "H40.9"]
 image = true
 imageSrc = "Anomalies du champ visuel au cours du glaucome. Broadway DC, CC BY 2.0, via Wikimedia Commons"
-todo = "liens > flow"
+todo = "flow"
 +++
 
 {{%article-summary%}}
@@ -41,10 +41,12 @@ Glaucome primitif à angle ouvert (GPAO, *ex* glaucome chronique)
 
 - Âge +50 ans
 - **Hypertonie oculaire** (> 21 mmHg)  
-  Moyenne 15 à 16 mmHg.
-- Antécédents familiaux (RR 3)
+  Tension oculaire moyenne de 15 à 16 mmHg.
+- Antécédents familiaux de glaucome (RR 3)
 - Origine d'Afrique subsaharienne (RR 3)
 - Myopie (RR 3)
+
+Autres facteurs de risque: hypertension artérielle, maladie cardiovasculaire.
 
 ### Abréviations
 
@@ -65,6 +67,9 @@ OCT
 
 PIO
 : pression intraoculaire
+
+RR
+: risque relatif
 {.dl-inline}
 
 {{% /collapse %}}
@@ -119,8 +124,11 @@ L'**évolution lente et insidieuse** (œil blanc et indolore, baisse d'acuité v
   - Atteinte bilatérale et asymétrique
   - Anomalie du champ visuel: **scotomes périphériques** (arciforme de Bjerrum, ressaut nasal, paracentral)
   - Baisse d'acuité visuelle tardive
+- {{< modal-btn modal-saos >}}Signes d'apnées du sommeil{{< /modal-btn >}}
 
 ### Examen clinique
+
+Pression artérielle, fréquence cardiaque.
 
 Examen ophtalmologique complet:
 
@@ -146,6 +154,7 @@ Le bilan du glaucome est **spécialisé** par l'ophtalmologue:
 
 La prise en charge du glaucome repose sur la ==réduction de la pression intraoculaire== (PIO) **à vie** pour stopper son évolution:
 
+- Éducation thérapeutique, observance ++
 - **Collyres** oculaires antihypertenseurs:
   - 1^re^ intention: **prostaglandine** (bimatoprost, **latanoprost**, **travoprost**) 1 goutte le soir
   - ou **bêta-bloquant** (bétaxolol, cartéolol, lévobunolol, **timolol**) 1 goutte 1 à 2 fois par jour selon la spécialité
@@ -159,14 +168,14 @@ La prise en charge du glaucome repose sur la ==réduction de la pression intraoc
 - Pas d'ALD  
   [ALD 31]({{% relref "affection-longue-duree.md" %}}) en cas de traitement lourd et coûteux.
 
-{{< table title="Spécialités de collyres anti-glaucomateux sans conservateurs par classe. Dr JB Fron grâce à la recherche avancée de *Thériaque*" class="table-wrap">}}
+{{< table title="Spécialités de collyres anti-glaucomateux sans conservateurs, par classe thérapeutique, disponibles en 2026. Dr JB Fron, recherche avancée de *Thériaque*" class="table-wrap">}}
 | Famille | Effets indésirables | Fréquence (/j) | Spécialités |
-|---------|---------------------|----------------|-------------|
-| **Prostaglandines** | Rougeur/irritation oculaire, iris sombre, pousse de cils | 1 | multidose (Bimatoprost Idifarma, Latazed, Sinetrav, Vizilatan, Vizitrav), unidose (Catiolanze, Monoprost, Xiop) |
+| ------- | ------------------- | -------------- | ----------- |
+| ==**Prostaglandines**== | Rougeur/irritation oculaire, iris sombre, pousse de cils | 1 | multidose (Bimatoprost Idifarma, Latazed, Sinetrav, Vizilatan, Vizitrav), unidose (Catiolanze, Monoprost, Xiop) |
 | **Bêta-bloquants** | CI des BB | 1-2 | multidose Timabak, unidoses (Betagan, Gaoptol, Geltim LP) |
-| Alpha-2-adrénergiques || 2 | unidoses Brimazed, Brimonidine Omnivision |
-| Inh. anhydrase carbonique || 2 | Aucun |
-| Inh. Rho-kinase  || 1 | Aucun |
+| Alpha-2-adrénergiques | | 2 | unidoses Brimazed, Brimonidine Omnivision |
+| Inh. anhydrase carbonique | | 2 | Aucun |
+| Inh. Rho-kinase | | 1 | Aucun |
 {{< /table >}}
 
 ==**Collyres combinés**== (sans conservateurs): BB + prostaglandine x 1/j (Filiop, Fixapost, Ganfort, Kilatim, Kivizidiale, Vizimaco), BB + inh. anhydrase carbonique x 2/j (Cosidime, Costec, Dualkopt).
@@ -175,7 +184,7 @@ La prise en charge du glaucome repose sur la ==réduction de la pression intraoc
 
 Rarement, un traitement d'inhibiteur de l'anhydrase carbonique peut être prescrit par voie orale (acétazolamide Diamox).
 
-Selon le profil clinique, un traitement **laser** (trabéculoplastie au laser) ou **chirurgical** (micro-invasif, trabéculectomie ou sclérectomie profonde non perforante) peut être proposé.
+Selon le profil clinique, un traitement **laser** (trabéculoplastie au laser possible en 1^re^ intention) ou **chirurgical** (micro-invasif, trabéculectomie ou sclérectomie profonde non perforante) peut être proposé.
 
 La chirurgie est réalisée précocement chez le **sujet jeune** ou en cas de **glaucome évolué**.
 
@@ -199,13 +208,16 @@ Le suivi spécialisé ophtalmologique du glaucome est **régulier à vie**:
 {{< card-link-external title="Webinaire Le glaucome étape par étape" url="https://www.youtube.com/playlist?list=PLL8DRH-myQsZQ3hgHJaHKGU-k6ycLElg4" subtitle="par la SFG" >}}
 
 - Prescrire Redaction. Patients ayant un glaucome à angle ouvert. Rev Prescrire. 2025.
-- [Centre Belge d'Information Pharmacothérapeutique (CBIP). Glaucome : quels médicaments éviter ?. Folia. 2024.](https://www.cbip.be/fr/articles/4354?folia=4353&matches=glaucome#)
+- [Aptel F. Le dossier - Prise en charge du glaucome. L'escalade du traitement médical. réalités Ophtalmologiques. 2025. (PDF)](https://www.realites-cardiologiques.com/wp-content/uploads/sites/4/2025/03/07_APTEL_DO.pdf)
+- [Centre Belge d'Information Pharmacothérapeutique (CBIP). Glaucome : quels médicaments éviter ?. Folia. 2024.](https://www.cbip.be/fr/articles/4354)
+- [Gunzenhauser R, Coleman AL. Glaucoma Screening Guidelines Worldwide. J Glaucoma. 2024.](https://pmc.ncbi.nlm.nih.gov/articles/pmid/38194273/)
 - [HAS. Diagnostic et prise en charge de l'hypertonie oculaire et du glaucome primitif à angle ouvert. 2022.](https://www.has-sante.fr/jcms/p_3321655/fr/diagnostic-et-prise-en-charge-de-l-hypertonie-oculaire-et-du-glaucome-primitif-a-angle-ouvert)
 - [Collège des Ophtalmologistes Universitaires de France (COUF). Glaucomes. Chapitre 14. 2021.](https://couf.fr/espace-etudiants/2eme-cycle-dfasm/)
-
-### Bibliographie en attente
-
 - [European Glaucoma Society. Terminology and guidelines for glaucoma. 6^th^ edition. 2020.](https://bjo.bmj.com/content/109/Suppl_1/1.long)
-- [Aptel F. Le dossier - Prise en charge du glaucome. L'escalade du traitement médical. réalités Ophtalmologiques. 2025. (PDF)](https://www.realites-cardiologiques.com/wp-content/uploads/sites/4/2025/03/07_APTEL_DO.pdf)
 
 {{%/sources%}}
+{{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
+
+{{< scores/stop-bang >}}
+
+{{% /modal %}}
