@@ -1,5 +1,6 @@
 <p>Les scores de Wells et de Genève sont les scores de référence pour le calcul de la probabilité clinique d’une
-  embolie pulmonaire (EP) avant 50 ans, en l’absence de grossesse ou de post-partum.
+  embolie pulmonaire (EP) en l’absence de grossesse ou de post-partum.
+  Ils ont les mêmes performances (<a href="https://www.acpjournals.org/doi/10.7326/0003-4819-154-11-201106070-00002" rel="external nofollow noopener">Douma et al 2011</a>).
 </p>
 <div class="card card-tab my-3 my-xl-5 mw-640">
   <ul class="nav nav-tabs nav-justified" id="justifiedTab" role="tablist">
@@ -11,7 +12,7 @@
   <div class="card-body tab-content" id="score-clinique-ep">
     <div aria-labelledby="wells-ep-nav" class="tab-pane fade show active" id="wells-ep-tab" role="tabpanel">
       <h4 class="card-title">Score de Wells pour l’embolie pulmonaire</h4>
-      <h5 class="card-subtitle mb-lg-3">Version originale à 3 catégories</h5>
+      <p class="card-subtitle mb-lg-3">Version originale à 3 catégories</p>
       <fieldset class="form-group">
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="wells-ep-1" class="custom-control-input" value="3">
@@ -53,7 +54,7 @@
       </div>
     </div>
     <div aria-labelledby="geneve-ep-nav" class="tab-pane fade" id="geneve-ep-tab" role="tabpanel">
-      <h4 class="card-title">Score de Genève révisé</h4>
+      <h4 class="card-title">Score révisé de Genève</h4>
       <h5 class="card-subtitle mb-lg-3">Version originale à 3 catégories</h5>
       <div class="form-group">
         <div class="custom-control custom-checkbox">
@@ -62,11 +63,12 @@
         </div>
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="geneve-ep-2" class="custom-control-input" value="3">
-          <label class="custom-control-label" for="geneve-ep-2">Antécédent personnel de TVP ou EP</label>
+          <label class="custom-control-label" for="geneve-ep-2">Antécédent personnel de thrombose veineuse profonde (TVP) ou
+            d’embolie pulmonaire (EP)</label>
         </div>
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="geneve-ep-3" class="custom-control-input" value="2">
-          <label class="custom-control-label" for="geneve-ep-3">Immobilisation ou chirurgie sous AG &lt; 4 semaines</label>
+          <label class="custom-control-label" for="geneve-ep-3">Chirurgie sous AG ou fracture dans les 4 semaines</label>
         </div>
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="geneve-ep-4" class="custom-control-input" value="2">
@@ -83,7 +85,7 @@
         </div>
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="geneve-ep-7" class="custom-control-input" value="3">
-          <label class="custom-control-label" for="geneve-ep-7">Fréquence cardiaque entre 75 et 94/min</label>
+          <label class="custom-control-label" for="geneve-ep-7">Fréquence cardiaque de 75 à 94/min</label>
         </div>
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="geneve-ep-8" class="custom-control-input" value="5">
@@ -91,7 +93,7 @@
         </div>
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="geneve-ep-9" class="custom-control-input" value="4">
-          <label class="custom-control-label" for="geneve-ep-9">Douleur à la palpation et œdème unilatéral de jambe</label>
+          <label class="custom-control-label" for="geneve-ep-9">Douleur à la palpation veineuse profonde et œdème unilatéral de jambe</label>
         </div>
       </div>
       <div class="alert bg-light d-flex mt-md-4">
@@ -113,9 +115,9 @@
     const textGeneve = document.getElementById('geneveEpText')
     const radioElems = document.querySelectorAll('#score-clinique-ep input[type=\"checkbox\"]')
     const panels = document.querySelectorAll('.nav-tabs .nav-link')
-    constTextFaible = '<strong>Probabilité clinique faible</strong><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences'
-    constTextModeree = '<strong>Probabilité clinique intermédiaire</strong><br>D-dimères aux Urgences'
-    constTextElevee = '<strong>Probabilité clinique forte</strong><br>Urgences pour angioscanner'
+    const textFaible = '<strong>Probabilité clinique faible</strong><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences'
+    const textModeree = '<strong>Probabilité clinique intermédiaire</strong><br>Anticoagulation et D-dimères aux Urgences'
+    const textElevee = '<strong>Probabilité clinique forte</strong><br>Anticoagulation et angioscanner aux Urgences'
     radioElems.forEach((radioElem) => { radioElem.addEventListener('click', () => {
       wellsEp()
       geneveRevise()
@@ -127,47 +129,47 @@
       radioElems.forEach(radio => {
         radio.checked = false
         scoreElem.innerHTML = 0
-        textElem.innerHTML = constTextFaible
+        textElem.innerHTML = textFaible
         scoreGeneve.innerHTML = 0
-        textGeneve.innerHTML = constTextFaible
+        textGeneve.innerHTML = textFaible
       })
     }
     const wellsEp = () => {
       let score = 0
-      const radioElemsChecked = document.querySelectorAll('#score-clinique-ep input[type=\"checkbox\"]:checked')
-        radioElemsChecked.forEach(radioChecked => {
+      let radioElemsChecked = document.querySelectorAll('#score-clinique-ep input[type=\"checkbox\"]:checked');
+      radioElemsChecked.forEach(radioChecked => {
         score += parseInt(radioChecked.value, 10)
         scoreElem.innerHTML = score
         if (score < 2) {
-          textElem.innerHTML = constTextFaible
+          textElem.innerHTML = textFaible
         } else if (score >= 2 && score <= 6) {
-          textElem.innerHTML = constTextModeree
+          textElem.innerHTML = textModeree
         } else if (score >  6) {
-          textElem.innerHTML = constTextElevee
+          textElem.innerHTML = textElevee
         }
       })
-      if (radioElemsChecked.length === 0) {
-        scoreElem.innerHTML = 0
-        textElem.innerHTML = constTextFaible
-      }
+    if (radioElemsChecked.length === 0) {
+      scoreElem.innerHTML = 0
+      textElem.innerHTML = textFaible
+    }
     }
     const geneveRevise = () => {
       let score = 0
-      const radioElemsChecked = document.querySelectorAll('#score-clinique-ep input[type=\"checkbox\"]:checked')
-        radioElemsChecked.forEach(radioChecked => {
+      let radioElemsChecked = document.querySelectorAll('#score-clinique-ep input[type=\"checkbox\"]:checked');
+      radioElemsChecked.forEach(radioChecked => {
         score += parseInt(radioChecked.value, 10)
         scoreGeneve.innerHTML = score
         if (score <= 3) {
-          textGeneve.innerHTML = constTextFaible
+          textGeneve.innerHTML = textFaible
         } else if (score >= 4 && score <= 10) {
-          textGeneve.innerHTML = constTextModeree
-        } else if (score >= 1) {
-          textGeneve.innerHTML = constTextElevee
+          textGeneve.innerHTML = textModeree
+        } else if (score >= 11) {
+          textGeneve.innerHTML = textElevee
         }
         })
       if (radioElemsChecked.length === 0) {
         scoreGeneve.innerHTML = 0
-        textGeneve.innerHTML = constTextFaible
+        textGeneve.innerHTML = textFaible
       }
     }
   })` }}

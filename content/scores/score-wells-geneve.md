@@ -1,6 +1,6 @@
 +++
-title = "Scores de probabilité clinique de l'embolie pulmonaire (EP): score de Wells, de Genève"
-description = "Les scores de Wells et de Genève sont les scores de référence pour le calcul de la probabilité clinique d'une embolie pulmonaire (EP) avant 50 ans."
+title = "Scores de probabilité clinique de l'embolie pulmonaire (EP): score de Wells, score révisé de Genève"
+description = "Les scores de Wells et révisé de Genève sont les scores de référence pour le calcul de la probabilité clinique d'une embolie pulmonaire (EP)."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
@@ -12,4 +12,4 @@ tags = []
 sctid = ""
 +++
 
-{{< scores/wells-ep >}}
+{{< scores/wells-geneve-ep >}}
