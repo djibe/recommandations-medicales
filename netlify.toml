@@ -79,6 +79,16 @@ HUGO_ENABLEGITINFO = "false"
 # path = "/*"
 
 [[redirects]]
+  from = "/*"
+  to = "/:splat"
+    [redirects.rate_limit]
+    action = "rewrite" # optional, will default to "rate_limit"
+    to = "/rate-limit.html" # only needed if action is "rewrite"
+    # 50 requests per minute
+    window_limit = 50
+    window_size = 60
+
+[[redirects]]
   from = "https://recommandations-medicales.netlify.app/*"
   to = "https://recomedicales.fr/:splat"
   status = 301
