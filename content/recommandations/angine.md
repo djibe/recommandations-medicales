@@ -24,16 +24,16 @@ todo = "rankok"
 
 {{%article-summary%}}
 
-- Une angine est toujours virale avant 3 ans (et l'est pour 80 % des cas ensuite)
-- Test de diagnostic rapide (TDR ou TROD) du streptocoque devant une angine érythémateuse ou érythémato-pultacée de 3 à 14 ans et score clinique de Mac Isaac au-delà
-- Prise en charge de l'angine streptococcique par traitement antibiotique (TDR positif):
+- Une angine est une amygdalite aiguë, toujours virale avant 3 ans (et pour 80 % des cas au-delà)
+- Les symptômes de l'angine ont un début brutal avec douleur pharyngée spontanée, otalgie réflexe, fièvre et amygdalite érythémateuse ou érythémato-pultacée
+- Le test de diagnostic rapide (TDR ou TROD) du streptocoque est systématique devant toute angine érythémateuse ou érythémato-pultacée de 3 à 14 ans et lorsque le score clinique de Mac Isaac est ≥ 2 à partir de 15 ans
+- La prise en charge de l'angine streptococcique par traitement antibiotique (TDR positif) comprend:
   - Éviction scolaire les 48 premières heures suivant l'instauration de l'antibiothérapie (*CMIT 2023*)
-  - **NB.** Le CNGE ne préconise une antibiothérapie qu'en cas de scarlatine ou de symptômes intenses
   - Adulte: amoxicilline 1g 2 fois par jour pendant 6 jours
   - Enfant: amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises pendant 6 jours
   - Antibiothérapie aussi indiquée pour l'angine de Vincent, la diphtérie, le gonocoque et le [chancre syphilitique]({{% relref "syphilis.md" %}})
   - La prise en charge de l'angine pédiatrique en cas de **pénurie d'antibiotiques** est détaillée dans la section *Traitement*
-- À partir de 10 ans, le Streptatest et la délivrance d'antibiotique peuvent être réalisés directement par le pharmacien formé (*[Service-Public](https://www.service-public.fr/particuliers/actualites/A17229?xtor=EPR-100)*)
+- À partir de 10 ans, le TDR/Streptatest et la délivrance d'antibiotique peuvent être réalisés directement par le pharmacien formé (*[Service-Public](https://www.service-public.fr/particuliers/actualites/A17229)*)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
