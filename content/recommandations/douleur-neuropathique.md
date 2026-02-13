@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr X. MOISSET (SFEMC) et Dr D. BOUHASSIRA (SFETD)"
 date = "2021-09-09T13:10:04+02:00"
 publishdate = "2021-09-13"
-lastmod = "2025-04-04"
+lastmod = "2026-02-13"
 specialites = ["neurologie", "oncologie"]
 annees = "2024"
 sources = ["Bibliographie", "AAN", "SFETD"]
@@ -248,7 +248,10 @@ Le choix du traitement de première ligne dépend de la **localisation** et de l
 
 ### Douleur neuropathique périphérique focale
 
-- [Emplâtres de lidocaïne 700 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/65538840/extrait#tab-rcp) (Versatis®) 1 à 3 selon la superficie de la zone, 12 h/j, avec la mention << Prescription au titre d'un accès compassionnel en dehors du cadre d'une autorisation de mise sur le marché >> (douleurs post-zostériennes uniquement).  
+> [!WARNING]
+> La prescription de Versatis dans le cadre de l'accès compassionnel (avec remboursement hors AMM) nécessite de lire, compléter et [imprimer le dossier nécessaire (DOCX)](https://ansm.sante.fr/uploads/2025/01/24/20250124-cpc-versatis-put.docx) pour le remboursement. Pages 10-15 pour la primo-prescription, pages 16-18 2 à 4 semaines plus tard, puis 18-21 tous les 3 mois. Pages 22-25 en cas d'arrêt définitif.
+
+- [Emplâtres de lidocaïne 700 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/65538840/extrait#tab-rcp) (Versatis®) 1 à 3 selon la superficie de la zone, 12 h/j, avec la mention << Prescription au titre d'un accès compassionnel en dehors du cadre d'une autorisation de mise sur le marché >> (AMM pour les douleurs post-zostériennes uniquement).  
   Effets indésirables: irritation cutanée, allergie.
 - TENS  
   Prescription restreinte au centre de la douleur chronique.
