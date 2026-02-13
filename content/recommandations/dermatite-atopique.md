@@ -254,7 +254,7 @@ Traitements de la dermatite atopique sur prescription spécialisée uniquement:
 - Rétinoïdes (alitrétinoïne)
 - Ciclosporine, [méthotrexate]({{% relref "methotrexate.md" %}}), azathioprine
 - Anticorps monoclonaux dupilumab (Dupixent®), tralokinumab (Adtralza®)
-- Inhibiteur des Janus kinases: abrocitinib (Cibinqo®), baricitinib (Olumiant®), upadacitinib (Rinvoq®)
+- Inhibiteur des Janus kinases: abrocitinib (Cibinqo®), baricitinib (Olumiant®), delgocitinib (Anzupgo®), upadacitinib (Rinvoq®)
 
 {{% /collapse %}}
 {{%collapse "Traitement des poussées de dermatite atopique" %}}
