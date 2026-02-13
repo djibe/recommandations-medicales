@@ -124,6 +124,11 @@ HUGO_ENABLEGITINFO = "false"
   to = "https://recomedicales.fr/recommandations/infections-clostridium-difficile/"
   status = 301
 
+[[redirects]]
+  from = "https://recomedicales.fr/scores/ehra/"
+  to = "https://recomedicales.fr/scores/mehra/"
+  status = 301
+
 # [[plugins]]
 #   package = "netlify-plugin-inline-critical-css"
 #     [plugins.inputs]
