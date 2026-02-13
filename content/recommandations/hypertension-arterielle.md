@@ -227,7 +227,7 @@ Le brassard est spécifique de chaque appareil.
 
 {{< table title="Synthèse des cibles de pression artérielle au cabinet selon le profil de l'adulte de plus de 18 ans. Dr JB Fron d'après les dernières recommandations en vigueur" >}}
 | Population          | Objectif (mmHg) | Source     |
-|---------------------|----------------:|------------|
+| ------------------- | --------------: | ---------- |
 | Cible minimale      | < 140/80        | ESH 2024   |
 | 18-79 ans           | 120-129/70-79   | ESH 2024   |
 | +80 ans (min/max)   | 140-150/80<br>130-139/70-79 | ESH 2024 |
@@ -235,9 +235,9 @@ Le brassard est spécifique de chaque appareil.
 | HTA résistante      | idem générale   | ESH 2023   |
 | [AIT/AVC]({{% relref "accident-vasculaire-cerebral.md" %}}) | idem générale | ESH 2023 |
 | [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) | 120-140/90 | ESC 2017 LEAD |
-| [Coronaropathie]({{% relref "syndrome-coronarien-chronique.md" %}}) | idem générale | ESH 2023   |
+| [Coronaropathie]({{% relref "syndrome-coronarien-chronique.md" %}}) | idem générale | ESH 2023 |
 | [Diabète]({{% relref "diabete-type-2.md" %}}) | idem générale<br>< 130/80 | ESH 2023<br>ADA 2023 |
-| [Fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}) | idem générale | ESH 2023 |
+| [Fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}) | idem générale | ESC 2024 |
 | [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) | idem générale | ESH 2023 |
 | [Insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}) | < 130/80<br>< 120/90 | ESH 2023<br>KDIGO 2021 |
 | Greffe rénale       | < 130/80        | ESH 2023, KDIGO 2021 |
