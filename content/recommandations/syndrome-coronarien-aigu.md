@@ -25,10 +25,14 @@ flowchart = true
 {{%article-summary%}}
 
 - Le syndrome coronarien aigu (SCA) recouvre les différentes présentation de l'ischémie myocardique (infarctus du myocarde IDM, SCA sans sus-décalage SCANST, angor instable)
-- Le syndrome coronarien aigu (SCA) est suspecté en cas de: facteurs de risque cardiovasculaire (tabac, hypertension, dyslipidémie) et antécédents cardiovasculaires, douleurs thoraciques, palpitations, signes généraux (fatigue, sueurs, anxiété, [dyspnée](/tags/dyspnee/))
-- L'évaluation clinique est immédiate dès la suspicion de SCA: critères de gravité (constantes, signes d'insuffisance cardiaque), ECG si disponible
-- Appel du SAMU pour régulation vers le centre cardiologique adapté
-- Prise en charge du post-infarctus (ou post SCA) et du très haut risque cardiovasculaire: réhabilitation cardiaque, arrêt du tabac et de l'alcool, {{< modal-btn modal-statine-intensite >}}statine haute intensité{{< /modal-btn >}} pour LDL cible < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} et baisse ≥ 50%, tension cible < 130/80 mmHg, bithérapie aspirine + prasugrel/ticagrelor pendant min. 12 mois, BB et IEC non systématiques, vaccin grippe, bilan et dépistages complémentaires
+- Suspecter un SCA en cas de: facteurs de risque cardiovasculaire (tabac, hypertension, dyslipidémie) et antécédents cardiovasculaires, douleurs thoraciques, palpitations, signes généraux (fatigue, sueurs, anxiété, [dyspnée](/tags/dyspnee/))
+- L'évaluation clinique est immédiate dès la suspicion de SCA: critères de gravité (constantes, signes d'insuffisance cardiaque), ECG si disponible, appel du SAMU pour régulation vers le centre cardiologique adapté
+- La prise en charge du post-infarctus (ou post SCA) et du très haut risque cardiovasculaire associe:
+  - Réhabilitation cardiaque
+  - Arrêt du tabac et de l'alcool
+  - {{< modal-btn modal-statine-intensite >}}Statine haute intensité{{< /modal-btn >}} pour LDL cible < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} (0,4 si artériopathie périphérique) et baisse ≥ 50 %
+  - Pression artérielle cible < 130/80 mmHg
+  - Bi-antiagrégants aspirine + prasugrel/ticagrelor pendant au moins 12 mois, BB et IEC non systématiques, vaccin grippe, bilan et dépistages complémentaires
 - Voir [syndrome coronarien chronique]({{% relref "syndrome-coronarien-chronique.md" %}}) (SCC) pour la prise en charge des symptômes ischémiques persistants
 - Éducation des personnes à haut risque cardiovasculaire: appeler le SAMU en cas de douleurs thoraciques ou autres symptômes évocateurs de SCA
 
@@ -220,13 +224,13 @@ Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut 
   - [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) (réduit décès de 40%)
   - [Arrêt de l'alcool]({{% relref "sevrage-alcool.md" %}}) (max 10 verres/semaine)
   - {{< modal-btn modal-statine-intensite >}}Statine haute intensité{{< /modal-btn >}}  
-    LDL cible < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} et réduction ≥ 50%. Titration par paliers de 4-6 semaines. Considérer < 0,4 g/L si nouvel événement CV dans les 2 ans. (chapitre [Statines]({{% relref "statines.md" %}}))
+    LDL cible < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} et réduction ≥ 50 %. Titration par paliers de 4-6 semaines. Considérer < 0,4 g/L si nouvel événement CV ou artériopathie périphérique. (chapitre [Statines]({{% relref "statines.md" %}}))
   - Activité physique
   - Lutte contre la sédentarité
   - Correction d'un surpoids
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Antiagrégants plaquettaires
-  - Bithérapie [aspirine](https://base-donnees-publique.medicaments.gouv.fr/medicament/68881730/extrait#tab-rcp) 75-100 mg/j + [prasugrel](https://base-donnees-publique.medicaments.gouv.fr/medicament/61374393/extrait#tab-rcp)/ticagrelor (voire clopidogrel 75) ...
+  - Bi-antiaggrégants [aspirine](https://base-donnees-publique.medicaments.gouv.fr/medicament/68881730/extrait#tab-rcp) 75-100 mg/j + [prasugrel](https://base-donnees-publique.medicaments.gouv.fr/medicament/61374393/extrait#tab-rcp)/ticagrelor (voire clopidogrel 75) ...
   - pendant **minimum 12 mois**  
     Considérer une monothérapie après 3-6 mois sauf haut risque ischémique; après 1 mois si haut risque de saignement. Une trithérapie est possible.
   - Puis **[aspirine seule](https://base-donnees-publique.medicaments.gouv.fr/medicament/68881730/extrait#tab-rcp) 75-100 mg/j** (prasugrel/ticagrelor possibles)
@@ -267,6 +271,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Mach F, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/article/46/42/4359/8234482)
 - [Grave C, et al. Épidémiologie des cardiopathies ischémiques en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_2.html)
 - [Kreutz R, et al. 2024 European Society of Hypertension clinical practice guidelines for the management of arterial hypertension. Eur J Intern Med. 2024.](https://www.ejinme.com/article/S0953-6205(24)00238-3/fulltext)
 - [Grave C, et al. Évolutions nationale et régionales de l'admission en réadaptation cardiaque après un syndrome coronaire aigu en France entre 2009 et 2021 : des disparités persistantes. Bull Épidémiol Hebd. 2024.](http://beh.santepubliquefrance.fr/beh/2024/8/2024_8_3.html)

@@ -29,7 +29,7 @@ todo = "rankok, centres réadapt vasculaire, QDV EQ-5D, association patient, htt
 - La présence d'une artériopathie des membres inférieurs définit un {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}}
 - Bilan des autres localisations athéromateuses
 - Suivi spécialisé de l'artériopathie par cardiologue et angiologue
-- Prise en charge de l'artériopathie des membres inférieurs (AOMI): {{< modal-btn modal-statine-intensite >}}statine{{< /modal-btn >}} pour LDL-cholestérol {{< modal-btn modal-rcv >}}< 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, sevrage tabagique, clopidogrel, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
+- Prise en charge de l'artériopathie des membres inférieurs (AOMI): {{< modal-btn modal-statine-intensite >}}statine{{< /modal-btn >}} pour LDL {{< modal-btn modal-rcv >}}< 0,55 g/L{{< /modal-btn >}} (0,4 si coronaropathie), {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, sevrage tabagique, clopidogrel, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -268,8 +268,7 @@ Prise en charge de l'artériopathie (AOMI): Suivi cardiologique spécialisé, tr
 
 - Réadaptation vasculaire en centre voire par kinésithérapeute
 - {{< modal-btn modal-statine-intensite >}}Statine systématique{{< /modal-btn >}}
-  - {{< modal-btn modal-rcv >}}LDL cible < 0,55 g/L{{< /modal-btn >}} avec contrôle annuel
-  - Ajout d'ézétimibe voire anti-PCSK9 sur avis spécialisé
+  - {{< modal-btn modal-rcv >}}LDL cible < 0,55 g/L{{< /modal-btn >}} (et réduction ≥ 50 %) avec contrôle annuel
 - Clopidogrel 75 mg/j
   - Indications: claudication ou AOMI masquée, MCV, revascularisation du MI ou {{< modal-btn modal-rcv-diabete >}}diabète à haut RCV{{< /modal-btn >}}
   - Sinon aspirine 75-100 mg/j
@@ -333,6 +332,7 @@ graph TB
 
 {{< youtube id="JFJK6ODqPnc" title="ABPI measurement (OSCE Guide)" >}}
 
+- [Mach F, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/article/46/42/4359/8234482)
 - {{< references/esc-cvd >}}
 - {{< references/sfd-dt2-2023 >}}
 - [HAS. Artériopathie oblitérante des membres inférieurs. Actes et prestations Affection de longue durée. 2021.](https://www.has-sante.fr/jcms/c_534760/fr/ald-n3-arteriopathie-obliterante-des-membres-inferieurs)

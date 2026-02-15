@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2024-12-14"
+lastmod = "2026-02-13"
 specialites = ["néphrologie"]
 annees = "2024"
 sources = ["KDIGO", "HAS", "ESH", "ADA", "ESC"]
@@ -183,7 +183,7 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 
 {{< table title="Stades de la maladie rénale chronique et de l'insuffisance rénale chronique selon *KDIGO 2024* (depuis 2012; à partir de 2 ans)" >}}
 | Stade | DFGe  | Définition                      |
-|:-----:|:-----:|---------------------------------|
+| :---: | :---: | ------------------------------- |
 |   1   | ≥ 90  | MRC avec DFG normal ou augmenté |
 |   2   | 60-89 | MRC avec DFG légèrement diminué |
 |  3A   | 45-59 | IRC modérée                     |
@@ -196,7 +196,7 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 
 {{< table title="Classification de l'albuminurie selon *KDIGO 2024* (depuis 2012)" >}}
 | Stade | mg/mmol |   mg/g | mg/24h | Définition                      |
-|-------|--------:|-------:|-------:|---------------------------------|
+| ----- | ------: | -----: | -----: | ------------------------------- |
 | A1    |     < 3 |   < 30 |   < 30 | Normale ou légèrement augmentée |
 | A2    |    3-30 | 30-300 | 30-300 | Modérément augmentée            |
 | A3    |    > 30 |  > 300 |  > 300 | Sévèrement augmentée            |
@@ -307,11 +307,8 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
    par anticalcique dihydropyridine ou thiazidique.
   - [Automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}})
 - {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} ± ézétimibe
-  - Indications: +50 ans, maladie cardiovasculaire, diabète type 2, RCV élevé
-  - {{< modal-btn modal-rcv >}}RCV très élevé{{< /modal-btn >}}: LDL cible < 0,55 g/L et réduction de +50 %  
-    IRC sévère ou modérée avec albuminurie > 3 mg/mmol; diabète et DFG < 45 ou DFG 45-59 avec albu 3-30 ou albu +30
-  - {{< modal-btn modal-rcv >}}RCV élevé{{< /modal-btn >}}: LDL cible < 0,7 g/L et réduction de +50 %  
-    Toutes les autres atteintes rénales.
+  - Statine systématique pour {{< modal-btn modal-rcv >}}LDL < 0,7 g/L{{< /modal-btn >}} si IRC modérée et 0,55 g/L pour IRC sévère (et réduction ≥ 50 %)
+  - Ne pas introduire au stade terminal; évaluer la poursuite à ce stade
 - **Albuminurie**
   - Albuminurie cible < 30 mg/mmol par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}
   - Si DFG > 20 et (diabète type 2, insuffisance cardiaque, DFG ≤ 45 ou albuminurie ≥ 20 mg/mmol): ajouter {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
@@ -338,8 +335,6 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
 
 Mesures précédentes avec les particularités suivantes chez la personne vivant avec un diabète (*HAS*, *ADA*, *ESC 2023* et *KDIGO 2022*):
 
-- {{< modal-btn modal-statine-intensite >}}Statine de moyenne à forte intensité{{< /modal-btn >}} (± ézétimibe) selon le {{< modal-btn modal-rcv-diabete >}}RCV{{< /modal-btn >}}  
-  Ne pas introduire au stade terminal, évaluer la poursuite à ce stade.
 - Albuminurie cible < 3 mg/mmol
   - Contrôle par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} + anti-aldostérone finérénone (Karendia®, pas encore disponible) si non contrôlée (si DFG ≥ 25 et kaliémie normale)
   - Albuminurie et normotension: considérer {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}
@@ -373,48 +368,48 @@ Mesures précédentes avec les particularités suivantes chez la personne vivant
 
 Tant que le DFGe est ≥ 45 mL/min/1,73 m² (20 chez le sujet âgé), stable, sans complications et sans albuminurie:
 
-  - Suivi généraliste au moins annuel
-  - Bilan annuel: lipidique, glycémie à jeun, créatininémie et DFGe, rapport albuminurie/créatininurie
+- Suivi généraliste au moins annuel
+- Bilan annuel: lipidique, glycémie à jeun, créatininémie et DFGe, rapport albuminurie/créatininurie
 
   </div>
   <div aria-labelledby="stade3b-tab" class="tab-pane fade" id="stade3b" role="tabpanel">
 
 #### Suivi au stade 3B {.typography-headline-6}
 
-  - Suivi généraliste ≥ 2/an
-  - Si néphrologue: ≥ 1/an
-  - Tous les 1-6 mois: rapport albuminurie/créatininurie
-  - Tous les 3-6 mois: créatininémie, ionogramme, bicarbonates, calcémie, phosphorémie
-  - 1-2/an: NFS, réticulocytes, ferritinémie
-  - Bilan annuel: lipidique, glycémie à jeun, créatininémie, albuminémie
-  - Anticorps anti-HBs tous les 3 ans
-  - PTH selon valeur initiale et la progression
+- Suivi généraliste ≥ 2/an
+- Si néphrologue: ≥ 1/an
+- Tous les 1-6 mois: rapport albuminurie/créatininurie
+- Tous les 3-6 mois: créatininémie, ionogramme, bicarbonates, calcémie, phosphorémie
+- 1-2/an: NFS, réticulocytes, ferritinémie
+- Bilan annuel: lipidique, glycémie à jeun, créatininémie, albuminémie
+- Anticorps anti-HBs tous les 3 ans
+- PTH selon valeur initiale et la progression
 
   </div>
   <div aria-labelledby="stade4-tab" class="tab-pane fade" id="stade4" role="tabpanel">
 
 #### Suivi au stade 4 {.typography-headline-6}
 
-  - Suivi généraliste ≥ 4/an
-  - Néphrologue: ≥ 2/an
-  - Tous les 1-3 mois: créatininémie, urémie, ionogramme, bicarbonates, calcémie, phosphorémie
-  - Tous les 1-6 mois: albuminémie, PTH
-  - Tous les 3-6 mois: rapport albuminurie/créatininurie, NFS, réticulocytes, ferritinémie, PAL
-  - Annuel: lipidique, glycémie à jeun, anticorps anti-HBs
+- Suivi généraliste ≥ 4/an
+- Néphrologue: ≥ 2/an
+- Tous les 1-3 mois: créatininémie, urémie, ionogramme, bicarbonates, calcémie, phosphorémie
+- Tous les 1-6 mois: albuminémie, PTH
+- Tous les 3-6 mois: rapport albuminurie/créatininurie, NFS, réticulocytes, ferritinémie, PAL
+- Annuel: lipidique, glycémie à jeun, anticorps anti-HBs
 
   </div>
   <div aria-labelledby="stade5-tab" class="tab-pane fade" id="stade5" role="tabpanel">
 
 #### Suivi au stade 5 {.typography-headline-6}
 
-  - Suivi généraliste les mois sans consultation néphrologique
-  - Néphrologue: ≥ 4/an
-  - Mensuel: créatininémie, ionogramme, bicarbonates, calcémie, phosphorémie
-  - Tous les 1-3 mois: urémie, NFS, réticulocytes, ferritinémie, PAL
-  - Tous les 1-6 mois: albuminémie
-  - Tous les 3-6 mois: PTH
-  - 1/an: lipidique, glycémie à jeun, anticorps anti-HBs
-  - Selon néphrologue: ratio albuminurie/créatininurie
+- Suivi généraliste les mois sans consultation néphrologique
+- Néphrologue: ≥ 4/an
+- Mensuel: créatininémie, ionogramme, bicarbonates, calcémie, phosphorémie
+- Tous les 1-3 mois: urémie, NFS, réticulocytes, ferritinémie, PAL
+- Tous les 1-6 mois: albuminémie
+- Tous les 3-6 mois: PTH
+- 1/an: lipidique, glycémie à jeun, anticorps anti-HBs
+- Selon néphrologue: ratio albuminurie/créatininurie
 
 </div>
 </div>
@@ -505,6 +500,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
+- [Mach F, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/article/46/42/4359/8234482)
 - [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale chronique chez l'adulte et chez l'enfant. Item 264. Manuel de néphrologie 11ème édition. 2025.](https://manuel.cuen.fr/accueil-chapitres/)
 - [HAS. ALD n° 19 - Néphropathie chronique grave. Guide des actes et prestations. 2024.](https://www.has-sante.fr/jcms/c_565906/fr/ald-n-19-nephropathie-chronique-grave)
 - [Académie nationale de pharmacie. Le dépistage précoce, la solution pour freiner la progression des insuffisances rénales chroniques terminales. 2024. (PDF)](https://www.acadpharm.org/dos_public/COMMUNIQUE_MALADIES_RENALES_CHRONIQUES_VF.PDF)

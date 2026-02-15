@@ -19,7 +19,7 @@ sctid = "230690007"
 icd10 = ["I64", "I63", "I69", "G45.9", "G81"]
 image = true
 imageSrc = "AVC ischémique sylvien gauche sur une IRM de diffusion. Dr Abdulmajid Bawazeer, Radiopaedia.org, rID: 59283"
-todo = "bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104 | AHA 2024: aspirine préventif si SAPL (AVK si ETEV non provoqué) ou lupus"
+todo = "SEO, bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104 | AHA 2024: aspirine préventif si SAPL (AVK si ETEV non provoqué) ou lupus"
 flowchart = true
 +++
 
@@ -29,7 +29,7 @@ flowchart = true
 - Un accident vasculaire cérébral est une urgence vitale: protocole FAST et appel du {{<phone>}}15{{</phone>}}, allonger la victime, fiche pour le SAMU (4h30 pour thrombolyser voire jusqu'à 9 heures; thrombectomie parfois jusqu'à 24 heures)
 - L'AVC est la première cause de mortalité de la femme et la 3^e^ de l'homme
 - Un antécédent d'AIT ou d'AVC détermine un {{< modal-btn modal-rcv >}}très haut RCV{{< /modal-btn >}}
-- Prise en charge post-AVC: aspirine 75-150 mg/j si ischémique non cardioembolique, {{< modal-btn modal-statine-intensite >}}LDL{{< /modal-btn >}} < 0,7 g/L, si hypertension: {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}, thiazidique pour cible < 130/80 mmHg
+- Prise en charge post-AVC: aspirine 75-150 mg/j si ischémique non cardioembolique, statine systématique pour LDL < 0,55 g/L, si hypertension: {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}, thiazidique pour cible < 130/80 mmHg
 - Bilan spécialisé cardiologique et neurovasculaire
 - [Éducation de toute la population à reconnaître un AVC](https://sante.gouv.fr/IMG/png/infographieavcsignes.png)
 
@@ -212,7 +212,7 @@ La prise en charge est identique après un accident ischémique transitoire (AIT
   - Cible non connue pour l'AVC hémorragique
   - Molécules: thiazidiques, {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}
   - [Automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}})
-- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} pour LDL cible < 0,7 g/L (*ESO 2022*, *AHA 2021* voire {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} pour l'*ESC 2021*)
+- {{< modal-btn modal-statine-intensite >}}Statine systématique{{< /modal-btn >}} pour LDL < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} (et réduction ≥ 50 %)
 - Mesures hygiéno-diététiques associées
   - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
   - [Arrêt de l'alcool]({{% relref "sevrage-alcool.md" %}})
@@ -361,7 +361,7 @@ Si vous êtes témoin d'un de ces 3 signes, réagissez. Appelez immédiatement l
 
 {{< mermaid title="Prise en charge post AVC. Dr JB Fron d'après HAS, ESC, ESO, AHA">}}
 graph TB
-  postAvc["Prise en charge<br>post-AVC"] --> controle("<b>Contrôle cardiovasculaire</b><br>—<br>- Très haut risque cardiovasculaire<br>- AIC non cardioembolique:<br>aspirine 75-150 mg/j<br>+ clopidogrel 3 mois<br>- Si HTA: cible &lt; 130/80<br>140 après 80 ans,<br>TZD, IEC/ARA2<br>- Statine pour LDL &lt; 0,7<br>- Arrêt tabac, alcool<br>- Régime méditerranéen, activité physique<br>- Dépister des apnées<br>- ALD si prise en charge lourde") --> rééducation("<b>Rééducation</b><br>—<br>- Motrice dès que possible<br>- Auto-exercices<br>- Si séquelles à 6 mois:<br>programme personnalisé")
+  postAvc["Prise en charge<br>post-AVC"] --> controle("<b>Contrôle cardiovasculaire</b><br>—<br>- Très haut risque cardiovasculaire<br>- AIC non cardioembolique:<br>aspirine 75-150 mg/j<br>+ clopidogrel 3 mois<br>- Si HTA: cible &lt; 130/80<br>140 après 80 ans,<br>TZD, IEC/ARA2<br>- Statine pour LDL &lt; 0,55<br>- Arrêt tabac, alcool<br>- Régime méditerranéen, activité physique<br>- Dépister des apnées<br>- ALD si prise en charge lourde") --> rééducation("<b>Rééducation</b><br>—<br>- Motrice dès que possible<br>- Auto-exercices<br>- Si séquelles à 6 mois:<br>programme personnalisé")
   style postAvc stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
@@ -369,6 +369,7 @@ graph TB
 {{%sources%}}
 
 - [HAS. Accident vasculaire cérébral : prise en charge précoce. 2025.](https://www.has-sante.fr/jcms/c_830203/fr/accident-vasculaire-cerebral-prise-en-charge-precoce-alerte-phase-prehospitaliere-phase-hospitaliere-initiale-indications-de-la-thrombolyse-intraveineuse-et-de-la-thrombectomie-mecanique)
+- [Mach F, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/article/46/42/4359/8234482)
 - [Gabet A, et al. Épidémiologie des accidents vasculaires cérébraux en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_3.html)
 - [Bushnell C, et al. 2024 Guideline for the Primary Prevention of Stroke: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2024.](https://www.ahajournals.org/doi/abs/10.1161/STR.0000000000000475)
 - {{< references/esh-2023 >}}
