@@ -6,56 +6,87 @@ description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-12-22T13:14:46+01:00"
-publishdate = "2025-12-22"
-lastmod = "2025-12-22"
+publishdate = "2026-02-13"
+lastmod = "2026-02-13"
 specialites = ["cardiologie", "endocrinologie"]
 annees = "2025"
 sources = ["ESC", "EAS"]
-tags = []
+tags = ["risque cardiovasculaire"]
 english = ["English word"]
 sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
 icd10 = ["sctid > Concept Details > Refsets"]
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow > Kanban"
+todo = "descr > summary > liens > photo > newsletter > flow > Kanban | Update Fiche VIH, Hypertryglicéridémie avec ESC25dyslipp13"
 +++
 
 {{%article-summary%}}
 
-TODO: (at the end)
+TODO: (at the end) | RHD | suivi
+
+- Le LDL cholestérol (LDL) est une apolipoprotéine-B constituant la plaque d'athérome, et un facteur de risque majeur du risque cardiovasculaire (RCV)
+- Le dosage du LDL (sans jeûner) est recommandé au moins une fois dans la vie et dès 40 ans pour l'évaluation du risque cardiovasculaire, puis répété selon le niveau de risque
+- La prise en charge de la dyslipidémie débute par la recherche d'une cause secondaire d'hypercholestérolémie (hypothyroïdie, œstrogènes) et des autres facteurs de risque cardiovasculaires (hypertension artérielle, tabac, diabète, hérédité)
+- Après ce bilan initial, déterminer le risque cardiovasculaire (au moins élevé en cas de maladie cardiovasculaire ou à déterminer en cas de prévention primaire avec le SCORE2). Ce risque doit être incrémenté ou affiné par le cardiologue en cas de facteur aggravant (VIH, obésité, maladie inflammatoire ...)
+- La présence de maladie cardiovasculaire ou le résultat du SCORE2 détermine les objectifs du traitements correspondant au niveau de risque (facteurs de risque, mode de vie, statine)
+- La statine ets le traitement de référence de la dyslipidémie en cas de risque cardiovasculaire marquée. Sa titration est rapide jusqu'à l'atteinte des cibles de réduction du LDL et du taux de LDL (avec ajout d'ézétimibe si nécessaire)
+- Le suivi spécialisé cardiologique est systématique en cas de risque cardiovasculaire marqué ou de cible lipidique non atteinte
+
+Chapitres liés: statines, hypertriglycéridémie
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 LDL-cholestérol (LDL-C)
 : Apolipoprotéine-B (ApoB) participant massivement à la constitution de la plaque artérielle au cours de l'athérosclérose.
-: Il est non seulement un facteur de risque de maladie cardiovasculaire athéroscléreuse mais est également une cause directe de ce type de maladie.
+: Il est non seulement un facteur de risque de maladie cardiovasculaire athéromateuse mais est également une cause directe de ce type de maladie.
 : La réduction du LDL-cholestérol est bénéfique sur les risques: d'infarctus du myocarde, d'AVC ischémique, d'accidents ischémiques artériels périphériques.
 
 ### Abréviations
+
+CT
+: cholestérol total
+
+EAL
+: exploration d'une anomalie lipidique
 
 EAS
 : {{%lang%}}European Atherosclerosis Society{{%/lang%}}
 
 ESC
 : {{%lang%}}European Society of Cardiology{{%/lang%}}
+
+LDL
+: {{%lang%}}Low Density Lipoprotein{{%/lang%}} (lipoprotéines de basse densité)
+
+RCV
+: risque cardiovasculaire
+
+SCORE2
+: {{%lang%}}Systematic Coronary Risk Estimation version 2{{%/lang%}}
 {.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 > [!INFO]
-> L'objectif de l'estimation du risque cardiovasculaire est d'identifier les sujets à risque élevé d'athérosclérose, amenés à bénéficier d'une réduction signification du LDL cholestérol et autres facteurs de risque modifiables d'athérosclérose.
-> Le bénéfice dépend du niveau relatif de cette réduction du LDL-C, et doit être d'autant plus forte que le cholestérol est élevé. Il est d'autant plus fort que débuté tôt (*EAS/EAS 2025*).
+> L'objectif de l'estimation du risque cardiovasculaire est d'identifier les sujets à risque élevé d'athérome, amenés à bénéficier d'une réduction signification du LDL cholestérol et autres facteurs de risque modifiables d'athérome.
+> Le bénéfice dépend du niveau relatif de cette réduction du LDL-C, et doit être d'autant plus forte que le cholestérol est élevé. Il est d'autant plus fort que débuté tôt (*ESC/EAS 2025*).
+
+Le risque cardiovasculaire doit être réévalué régulièrement.
 
 ### Interrogatoire
 
-- Âge et sexe
-- Antécédents: maladie cardiovasculaire (AVC, infarctus du myocarde, AOMI ...), hypertension artérielle, diabète, goutte, maladie inflammatoire, stress
-- Antécédents familiaux et âge de survenue: infarctus du myocarde, AVC, mort subite
-- Tabagisme, alcool
-- Dépister des apnées du sommeil
+- **Facteurs de risque cardiovasculaires**
+  - Âge et sexe, hérédité cardiovasculaire (infarctus du myocarde, AVC, mort subite)
+  - Tabagisme, hypertension artérielle, diabète
+- Autres antécédents: **maladie cardiovasculaire** (AVC, infarctus du myocarde, AOMI ...), **maladie rénale** chronique, goutte, maladie inflammatoire, BPCO, VIH, stress
+- Antécédents familiaux cardiovasculaires
+- **Causes d'hyperlipidémie secondaire**  
+  Hypothyroïdie, cholestase, syndrome néphrotique et insuffisance rénale chronique, alcool, diabète, médicamenteuse (œstrogènes, corticoïdes, rétinoïdes, antirétroviraux, ciclosporine, diurétiques, bêtabloquants).
+- Alcool, toxiques (cocaïne, cannabis ...)
+- {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 
 ### Examen clinique
 
@@ -63,6 +94,7 @@ ESC
 - Poids, taille, IMC
 - Auscultation cardio-respiratoire
 - Palpation des pouls périphériques
+- Examen des tendons et de l'iris
 
 {{% /collapse %}}
 {{%collapse "Estimation du risque cardiovasculaire" %}}
@@ -71,19 +103,21 @@ ESC
 
 {{< clinique/risque-cardiovasculaire >}}
 
-En cas de diabète, le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}} est évalué légèrement différemment.
+TODO: SCORE2-Diabetes. En cas de diabète, le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}} est évalué légèrement différemment.
 
-### Estimation du risque cardiovasculaire en prévention primaire: SCORE2, SCORE2-OP et SCORE2-Diabetes
+Un taux de LDL élevé dès le jeune âge est associé à un surcroît d'évènements cardiovasculaires.
 
-**NB.** Le risque d'évènement cardiovasculaire à 10 ans est 2-3 fois supérieur au risque mortel calculé avec ce score.
+### Estimation du risque cardiovasculaire en prévention primaire: SCORE2 et SCORE2-OP
 
-TODO: ESC2025Table4p7
+**NB.** Le risque d'évènement cardiovasculaire à 10 ans est 2-3 fois supérieur au risque mortel calculé avec ce score (pris en compte dans le SCORE2).
+
+TODO: SCORE2
 
 Le SCORE2 a peu de paramètres, les autres facteurs de risque suivant doivent être pris en considération, d'autant plus  lorsque le risque est proche des seuils, pour reclassifier le niveau de risque cardiovasculaire:
 
 - Paramètres démographiques/cliniques
   - Hérédité cardiovasculaire (hommes avant 55 ans, femmes  avant 60 ans)
-  - Origines à haut risque (Asie du Sud ...
+  - Origines à haut risque (Asie du Sud ++)
   - Stress et facteurs de stress psychosociaux
   - Précarité
   - Obésité
@@ -92,61 +126,179 @@ Le SCORE2 a peu de paramètres, les autres facteurs de risque suivant doivent ê
   - Trouble psychiatriques sévère
   - Ménopause précoce
   - Prééclampsie ou trouble hypertensif de la grossesse
-  - VIH
+  - VIH (RR 2)
   - Syndrome d'apnée obstructive du sommeil (SAHOS)
+  - Greffe d'organe
 - Biomarqueurs
   - CRPus constamment élevée (> 2 mg/L)
   - Taux élevé de Lp(a) > 50 mg/dL (> 105 nmol/L)
-
-Traduit avec DeepL.com (version gratuite)
+- Score calcique (CAC score)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+> << La réalisation d'un bilan lipidique est conseillée chez tous les adultes. Sans anomalie, il n'est pas nécessaire de le recontrôler avant 5 ans. >> -- *Collège de cardiologie*
+
+- Bilan lipidique (EAL, sans jeûner *ESC 2019*)  
+  2 dosages espacés de 1-12 semaines. Jeûne privilégié en cas de syndrome métabolique, diabète, hypertriglycéridémie.
+- ± Glycémie à jeun
+- Recherche d'hyperlipidémie secondaire:
+  - TSH
+  - PAL, bilirubine
+  - albuminurie/créatininurie
+- Pré-thérapeutique: ALAT, CPK
+- Selon le niveau de risque cardiovasculaire: consultation de cardiologie
+
+> En cas de LDL très élevé (> 2 g/L), évoquer une hypercholestérolémie familiale et adresser au spécialiste (TODO:).
 
 {{% /collapse %}}
-{{%collapse "Traitement de la dyslipidémie" %}}
+{{%collapse "Mesures générales et diététiques" %}}
 
 > [!INFO]
-> << ... la réduction des taux plasmatiques de LDL-C devrait être l'objectif principal pour prévenir les événements cardiovasculaires athérosclérotiques. >> -- ESC 2025
+> Les mesures hygiéno-diététiques sont systématiques quelque soit la forme de dyslipidémie. << Les acides gras saturés (AGS) sont le facteur diététique ayant le plus fort impact sur le taux de LDL. >> -- *ESC/EAS 2019*
 
-Seuil pour l'introduction d'une statine selon le risque cardiovasculaire estimé:
+Recommandations générales universelles pour la prévention cardiovasculaire:
 
-- **Les modifications du mode de vie sont valables pour toute personne**
-- **Bas risque cardiovasculaire (RCV):**  
-  LDL cholestérol (LDL) non traité de 1,16 à 1,9 g/L en cas de non contrôle hygiéno-diététique
-- **Risque cardiovasculaire modéré:**  
-  LDL ≥ 1 g/L en cas de non contrôle hygiéno-diététique.
-- **Risque cardiovasculaire élevé:**  
-  D'emblée si LDL ≥ 1 g/L, en cas de non contrôle hygiéno-diététique de 0,7 à 0,99 g/L.
-- **Risque cardiovasculaire très élevé** en prévention primaire:  
-  D'emblée si LDL ≥ 0,7 g/L, à considérer en dessous.
-- **Risque cardiovasculaire très élevé** en prévention secondaire:  
-  D'emblée quel que soit le LDL. TODO: à appliquer aux chapitres
+- {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}} ou DASH
+- Correction des facteurs de risque cardiovasculaire
+  - [Sevrage tabagique]({{% relref "arret-tabac.md" %}})
+  - Réduction de l'alcool
+  - Activité physique quotidienne (30-60 minutes d'{{< modal-btn modal-met >}}intensité modérée{{< /modal-btn >}})
+  - Lutte contre la sédentarité
+  - Correction d'un surpoids et d'une obésité abdominale (tour de taille femme/homme ≥ 88/102 cm)
+  - Dépistage de l'[hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
 
-TODO: À coder
+---
+
+> Les acides gras monoinsaturés oméga 3 et oméga 6 sont les acides gras privilégiés. Les apports quotidiens en **cholestérol** devraient être réduits à moins de 300 mg/j.
+
+Mesures diététiques pour la réduction du LDL et des triglycérides:
+
+- Éviter les graisses trans (aliments transformés)
+- Réduire les **graisses saturées**
+- Augmenter les apports en fibres (légumes, fruits, céréales complètes)
+- Correction d'un surpoids
+
+Mesures diététiques pour la réduction des triglycérides:
+
+- Perte de poids, réduire l'alcool et les sucres (dont le fructose)
+- Réduire les graisses saturées
+- Augmenter les apports en oméga 3
+- Activité physique
+
+Mesures diététiques pour l'augmentation du HDL cholestérol:
+
+- Éviter les acides gras trans
+- Activité physique
+- Perte de poids
+- Réduire les glucides
+- Arrêt du tabac
+
+> -- *ESC/EAS 2019*
+
+{{% /collapse %}}
+{{%collapse "Traitement médicamenteux de la dyslipidémie" %}}
+
+> [!INFO]
+> << ... la réduction des taux plasmatiques de LDL-C devrait être l'objectif principal pour prévenir les événements cardiovasculaires athérosclérotiques. >> -- *ESC/EAS 2025*
+
+Seuil pour l'introduction d'une ==**statine**== selon le risque cardiovasculaire :
+
+- ==**Les modifications du mode de vie sont valables pour toute personne**== (chapitre précédent)
+- **Risque cardiovasculaire faible:**
+  - Mesures hygiéno-diététiques en cas de LDL cholestérol (sans traitement) ≥ 1,16 g/L
+  - Considérer une statine en cas de persistance
+  - LDL cible < 1,16 g/L
+- **Risque cardiovasculaire modéré:**
+  - Mesures hygiéno-diététiques en cas de LDL ≥ 1 g/L
+  - Considérer une statine en cas de persistance
+  - LDL cible < 1 g/L
+- **Risque cardiovasculaire élevé:**
+  - Statine de haute intensité d'emblée si LDL ≥ 1 g/L
+  - Mesures hygiéno-diététiques en cas de LDL de 0,7 à 0,99 g/L, considérer une statine en cas de persistance
+  - LDL cible < 0,7 g/L et réduction d'au moins 50 %
+- **Risque cardiovasculaire très élevé en prévention primaire**:
+  - Statine de haute intensité d'emblée si LDL ≥ 0,7 g/L
+  - Mesures hygiéno-diététiques en cas de LDL < 0,7 g/L, considérer une statine en cas de persistance
+  - LDL cible < 0,55 g/L et réduction d'au moins 50 %
+- **Risque cardiovasculaire très élevé en prévention secondaire:**
+  - Statine de haute intensité systématique (quel que soit le LDL)
+  - LDL cible < 0,55 g/L et réduction d'au moins 50 %
+- **Risque cardiovasculaire extrême** (événements récurrents sous dose maximale, coronaropathie et artériopathie périphérique):
+  - Statine de haute intensité systématique (quel que soit le LDL)
+  - LDL cible < 0,4 g/L
+
+Et systématique: VIH +40 ans, greffe d'organe, risque (très) élevé avec chimiothérapie cardiotoxique (anthracycline).
+
+Chez le +75 ans, en prévention primaire, la statine pourrait être considéré en cas de SCORE2-OP définissant un risque cardiovasculaire élevé (*ESC/EAS* 2019).
+
+{{< traitements/statine-intensite >}}
+
+Après toute introduction ou modification du dosage, contrôle du LDL et ALAT à 8 semaines (±4), puis au moins annuel.
+
+> Pour plus de détail, lire le chapitre [statines]({{% relref "statines.md" %}}).
+
+### Autres traitements médicamenteux de la dyslipidémie
+
+Les traitements médicamenteux suivants ont un bénéfice cardiovasculaire. Ils peuvent être utilisés en cas d'intolérance aux statines ou lorsque la cible de LDL cholestérol n'est pas atteinte.
+
+- Ézétimibe
+- Anti-PCSK9 (alirocumab Praluent®, évolocumab Repatha®)
+- Cholestyramine
+- Acide bempédoïque (Nilemdo®)
+
+{{< table title="Réduction du LDL cholestérol obtenue avec les traitements hypolipémiants en monothérapie ou en association. Dr JB Fron d'après ESC 2025" >}}
+| Classe | LDL (- %) |
+| ------ | ------: |
+| Ézétimibe (EZE) | 20 |
+| Acide bempédoïque (AB) | 23 |
+| Statine d'intensité modérée (SIM) | 30 |
+| EZE + AB | 38 |
+| Statine de haute intensité (SHI) | 50 |
+| SHI + AB | 58 |
+| SHI + EZE | 60 |
+| PCSK9 | 60 |
+| SHI + EZE + AB | 68 |
+| PCSK9 + EZE | 70 |
+| PCSK9 + EZE + AB | 75 |
+| SHI + PCSK9 | 75 |
+| SHI + EZE + PCSK9 | 80 |
+| SHI + EZE + AB + PCSK9 | 86 |
+{{< /table >}}
+
+> [!WARNING]
+> Les suppléments alimentaires sans évaluation cardiovasculaire ne sont pas recommandées (*ESC 2025*).
 
 {{% /collapse %}}
 {{%sources%}}
 
 - [Mach F, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/article/46/42/4359/8234482)
+- [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Dyslipidémies. Item 223. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
+- WIP {{< references/esc-cvd >}}
+- [Mach F, et al. 2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk. Eur Heart J. 2020.](https://academic.oup.com/eurheartj/article/41/1/111/5556353)
 
 ### Bibliographie en attente
 
-- [Mach F, et al. 2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk. Eur Heart J. 2020.](https://academic.oup.com/eurheartj/article/41/1/111/5556353)
-- [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Dyslipidémies. Item 223. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
-- 2021 ESC CVD
-- Collège cardio
 - Collège endoc
-- Prescrire
-- Cochrane
-- [Minerva](https://minerva-ebp.be/)
-- [Cismef](https://www.cismef.org/cismef/)
-- [NICE Clinical guidance](https://www.nice.org.uk/guidance/conditions-and-diseases)
 
 {{%/sources%}}
 {{% modal title="RCV du diabétique selon ESC 2019" id="modal-rcv-diabete"%}}
 
 {{< clinique/risque-cardiovasculaire-diabete >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
+
+{{< scores/stop-bang >}}
+
+{{% /modal %}}
+{{% modal title="Régime méditerranéen" id="modal-regime"%}}
+
+{{< traitements/regime-mediterraneen >}}
+
+{{% /modal %}}
+{{% modal title="Intensité d'activité physique et MET" id="modal-met"%}}
+
+{{< clinique/activite-physique-intensite >}}
 
 {{% /modal %}}

@@ -81,9 +81,6 @@ chart = true
                         <p class="mb-0 small" id="risk-description"></p>
                     </div>
                      <!-- Disclaimer -->
-                    <p class="text-muted small mt-3">
-                        <strong>Avertissement :</strong> Ce calculateur est un outil d'information et ne remplace pas un avis médical. Les résultats sont une estimation et doivent être interprétés par un professionnel de santé.
-                    </p>
                 </div>
                 <!-- Section d'erreur -->
                 <div id="error-section" class="mt-4 d-none">
@@ -98,7 +95,7 @@ chart = true
 
 SCORE2-OP
 
-> -- SCORE2-OP working group and ESC Cardiovascular risk collaboration, SCORE2-OP risk prediction algorithms: estimating incident cardiovascular event risk in older persons in four geographical risk regions, European Heart Journal, Volume 42, Issue 25, 1 July 2021, Pages 2455–2467, https://doi.org/10.1093/eurheartj/ehab312 
+> -- SCORE2-OP working group and ESC Cardiovascular risk collaboration, SCORE2-OP risk prediction algorithms: estimating incident cardiovascular event risk in older persons in four geographical risk regions, European Heart Journal, Volume 42, Issue 25, 1 July 2021, Pages 2455–2467, https://doi.org/10.1093/eurheartj/ehab312
 > And supplementary data > Supplementary material_20210604_v2.docx > Supplementary Methods Table 3: Example calculations for the estimated CVD event risk for an individual patient using SCORE2-OP
 
 <script>
@@ -131,6 +128,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 errorSection.classList.add('d-none');
 
                 // Récupérer les valeurs du formulaire
+                // LDL-C = TC - HDL-C - (TG/2.2) in mmol/L
                 const gender = form.elements['gender'].value;
                 const age = parseFloat(form.elements['age'].value);
                 const isSmoker = parseInt(form.elements['smoker'].value);
@@ -202,23 +200,42 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 // Les seuils de risque varient avec l'âge selon les recommandations de l'ESC
                 let thresholds;
-                if (age < 50) {
-                    thresholds = { low: 2.5, moderate: 7.5 };
-                } else if (age >= 50 && age <= 69) {
-                    thresholds = { low: 5, moderate: 10 };
-                } else {
-                    thresholds = { low: 7.5, moderate: 15 };
+                if (age <= 69) {
+                    thresholds = { low: 2, moderate: 10, high: 20 };
+                } else if (age >= 70) {
+                    thresholds = { low: 5, moderate: 10, high: 20 }; // TODO:
                 }
 
                 if (risk < thresholds.low) {
-                    category = 'Risque faible à modéré <br> LDL cible &lt; 1 g/L';
+                    category = 'Risque CV faible <br> LDL cible &lt; 1,16 g/L';
                     alertClass = 'alert-success';
+                    // if (LDL >= 1.16) {
+                        category += '\n Mesures hygiéno-diététiques en cas de LDL ≥ 1,16 g/L<br>Considérer une statine en cas de persistance'
+                    //}
                 } else if (risk < thresholds.moderate) {
-                    category = 'Risque élevé <p> Obtenir une réduction du LDL ≥ 50 % et une cible &lt; 0,7 g/L </p>';
+                    category = 'Risque CV modéré <p> LCL cible &lt; 1 g/L </p>';
                     alertClass = 'alert-warning';
-                } else {
-                    category = 'Risque très élevé <br> Obtenir une réduction du LDL ≥ 50 % et une cible &lt; 0,55 g/L quel que soit l’âge';
+                    // if (LDL >= 1) {
+                        category += '\n Mesures hygiéno-diététiques en cas de LDL ≥ 1 g/L, considérer une statine en cas de persistance'
+                    //}
+                } else if (risk < thresholds.high) {
+                    category = 'Risque CV élevé <br> LDL cible &lt; 0,7 g/L et réduction ≥ 50 % <br> Statine d’emblée si LDL ≥ 1 g/L';
                     alertClass = 'alert-danger';
+                    /* if (LDL >= 1) {
+                        category += '\n Statine d’emblée'
+                    } else if (LDL >= 0.7 ) {
+                     category += '\n Mesures hygiéno-diététiques en cas de LDL de 0,7 à 0,99 g/L, considérer une statine en cas de persistance'
+                    }
+                    */
+                } else {
+                    category = 'Risque CV très élevé <br> LDL cible &lt; 0,55 g/L et réduction ≥ 50 % <br> Statine systématique';
+                    alertClass = 'alert-danger';
+                    /* if (LDL >= 1) {
+                        category += '\n Statine d’emblée'
+                    } else if (LDL >= 0.7 ) {
+                     category += '\n Mesures hygiéno-diététiques en cas de LDL de 0,7 à 0,99 g/L, considérer une statine en cas de persistance'
+                    }
+                    */
                 }
 
                 riskScoreEl.textContent = `${Intl.NumberFormat("fr-FR").format(risk)} %`;
@@ -251,33 +268,20 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </div>
 <!-- Section pour -12 ans (initialement cachée) -->
-                <div id="sectionMoins12" class="mt-4">
-                    <h4 class="text-info">Plan d'action de la crise d'asthme de l'enfant (6 - 12 ans)</h4>
-                    <!-- Form -->
-                    <div class="card card-body border shadow-none my-3" style="">
-                    <div class="d-flex">
-                      <div class="form-group floating-label textfield-box form-ripple mr-2" style="flex: 1">
-                      <label for="poidsInput"><strong>Poids de l’enfant (kg)</strong></label>
-                      <input type="number" class="form-control" id="poidsInput" min="4" max="160" required>
-                      </div>
-                      <!--<div class="">
-                          <p id="resultatDose" class="mt-2 p-3 bg-light rounded">Poids manquant...</p>
-                      </div>-->
-                      </div>
-                      <small class="form-text text-muted">
-                        1 bouffée par 2 kg de poids (minimum 4 et maximum 15 bouffées).
-                      </small>
-                    </div>
+<div id="sectionMoins12" class="mt-4">
+
+#### Plan d'action de la crise d'asthme de l'enfant (6 - 12 ans)
 
 {{%warning%}}
-À tout moment de la crise, si aggravation rapide ou gêne respiratoire importante: CONTACTER LE SAMU (Numéro 15).
+À tout moment de la crise, si aggravation rapide ou gêne respiratoire importante: CONTACTER LE SAMU (Numéro 15). Dans l'attente du SAMU, continuer à réaliser 10 bouffées toutes les 20 minutes.
 
 Les signes graves sont une respiration irrégulière, une difficulté à parler, un pourtour des lèvres bleu, un malaise.
+
 {{%/warning%}}
 
 En cas de gêne respiratoire, de toux ou de sifflements, faire inhaler dès le début des symptômes:
 
-> **Ventoline** ==**<span class="text-dose">X</span> bouffées** dans la chambre d'inhalation, toutes les 10-15 minutes==.
+> **Ventoline** ==**4 bouffées** dans la chambre d'inhalation, toutes les 20 minutes==.
 {.my-4}
 
 - Chaque bouffée est suivie de 5 respirations dans la chambre d'inhalation.
@@ -290,9 +294,9 @@ En cas de gêne respiratoire, de toux ou de sifflements, faire inhaler dès le d
 
 **En l'absence d'amélioration à 1 heure:**
 
-- Donner la prednisolone: <mark><strong><span class="text-predni-dose">X</span> mg</strong></mark> à diluer dans un peu d'eau
+- Donner la prednisolone: <mark><strong>40 mg</strong></mark> (20 mg si ≤ 20 kg) à diluer dans un peu d'eau
 - **Consultation médicale** en urgence
-- Poursuivre l'inhalateur à la même dose toutes les 10-15 minutes en attendant la consultation
+- Poursuivre l'inhalateur à la même dose toutes les 20 minutes en attendant la consultation
 
 </div>
 
