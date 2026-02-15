@@ -116,11 +116,14 @@ Chez l'enfant avec hémolyse chronique déclarant une **anémie mal tolérée**,
 - Collège Français d'Échographie Fœtale (CFEF). Épidémie parvovirus B19 2024. 2024.
 - [CRATB. Le mégalérythème épidémique chez l'enfant. 2022. (PDF)](https://medqual.fr/images/GP/POP_PARTICULIERES/NOURRISSONS_ENFANTS/2022-MEGALERYTHEME-EPIDEMIQUE-ENFANT.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Éruptions fébriles. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/eruptions-febriles)
-- [Barbarot S, et al; SFP. Éruptions fébriles. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/dermatologie/eruptions-febriles)
 - Collège des enseignants de dermatologie de France (CEDEF). Exanthème et érythrodermie de l'enfant et l'adulte. 2017.
 - [Crane J, et al. Infection à parvovirus B19 pendant la grossesse. Directive clinique de la SOGC. 2014. (PDF)](https://www.jogc.com/article/S1701-2163(16)39687-6/pdf)
 - [Chavigny JM, Ronjat L. Tout savoir sur le Parvovirus B19. Dermato-Info. 05/07/2025.](https://dermato-info.fr/les-maladies-de-la-peau/parvovirus-b19)
 
 Mot-clé: 5^e^ maladie
+
+### Bibliographie en attente
+
+- [Kiener M, Romain AS. Éruption cutanée fébrile de l'enfant. Pas à Pas en Pédiatrie. 2023.](https://pap-pediatrie.fr/pap-detail/j1gg)
 
 {{%/sources%}}

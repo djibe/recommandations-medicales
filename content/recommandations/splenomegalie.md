@@ -224,6 +224,6 @@ graph TB
 
 ### Bibliographie en attente
 
-[Barlogis V. Splénomégalie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/hepato-gastro/splenomegalie)
+- [Moshous D, Brassier A. Splénomégalie chez l'enfant. Pas à Pas en Pédiatrie. 2023.](https://pap-pediatrie.fr/pap-detail/gsyofpu75x)
 
 {{%/sources%}}

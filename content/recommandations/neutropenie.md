@@ -295,7 +295,7 @@ graph TB
 - [Paret R, et al. Actualisation sur les stratégies de prise en charge antibiotique de la neutropénie fébrile en hématologie. Médecine et Maladies Infectieuses Formation. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2772743224005506) (payant)
 - {{< references/spilf-2020 >}}
 - [Bou Mitri F, et al. Neutropénie en dehors d'un contexte de chimiothérapie : bilan et prise en charge-recommandations du centre de référence. Perfectionnement en pédiatrie. 2020.](https://www.sciencedirect.com/science/article/abs/pii/S2588932X2030053X) (payant)
-- [Donadieu J; SFP. Neutropénie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/hematologie/neutropenie)
+- [Donadieu J; SFP. Neutropénie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/ij1svwpsv)
 - [HCSP. Vaccination des personnes immunodéprimées ou aspléniques. Recommandations actualisées. 2014.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
 
 ### Bibliographie pour en savoir plus

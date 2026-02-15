@@ -395,7 +395,7 @@ graph TB
 - [Anses. En forêt ou dans le jardin, attention aux tiques. 2022.](https://www.anses.fr/fr/content/en-for%C3%AAt-ou-dans-le-jardin-attention-aux-tiques)
 - [Gocko X, et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X19306201)
 - [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques. Recommandations de bonne pratique. 2018.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques)
-- [Quinet B; SFP. Conduite à tenir devant une piqûre de tique chez l'enfant. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/immuno-infectio-parasito/conduite-tenir-devant-une-piqure-de-tique-chez-lenfant)
+- [Quinet B; SFP. Conduite à tenir devant une piqûre de tique chez l'enfant. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/eelosn08s)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [Santé Publique France. Borréliose de Lyme.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-transmission-vectorielle/borreliose-de-lyme)
 - [Centres de Référence des Maladies Vectorielles liées aux Tiques (CRMVT)](https://crmvt.fr)

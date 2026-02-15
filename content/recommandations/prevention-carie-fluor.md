@@ -188,7 +188,7 @@ graph TB
 - [Collège des Enseignants en Odontologie Pédiatrique. Le fluor en prévention primaire : Recommandations du Collège des Enseignants en Odontologie Pédiatrique. 2021. (PDF)](https://sfop.asso.fr/wp-content/uploads/2021/11/Le-fluor-en-pre%CC%81vention-primaire-Droz-et-al-CEOP-2021.pdf)
 - Prescrire Redaction. Caries dentaires chez les enfants et les adolescents. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Husby S, et al. European Society Paediatric Gastroenterology, Hepatology and Nutrition Guidelines for Diagnosing Coeliac Disease 2020. J Pediatr Gastroenterol Nutr. 2020.](https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000002497)
-- [Berthet A, et al; Société Française de Pédiatrie (SFP). Dépistage carieux en denture temporaire. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/immuno-infectio-parasito/depistage-carieux-en-denture-temporaire)
+- [Berthet A, et al; Société Française de Pédiatrie (SFP). Dépistage carieux en denture temporaire. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/6e13z2r)
 - [HAS. Stratégies de prévention de la carie dentaire. Mars 2010.](https://www.has-sante.fr/jcms/c_991245/fr/synthese-strategies-de-prevention-de-la-carie-dentaire)
 - [Union Française pour la Santé Bucco-dentaire](https://www.ufsbd.fr)
 

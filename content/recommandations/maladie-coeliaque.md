@@ -434,7 +434,7 @@ graph TB
 - [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [Szajewska H, et al. Early diet and the risk of coeliac disease. An update 2024 position paper by the ESPGHAN special interest group on coeliac disease. J Pediatr Gastroenterol Nutr. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/jpn3.12280)
 - Prescrire Redaction. Intolérance au gluten. Premiers Choix Prescrire. Rev Prescrire. 2024.
-- [Lengliné H, Fabre A. Diagnostic de la maladie coeliaque chez l'enfant. Pas à Pas en Pédiatrie. 07/06/2022.](https://pap-pediatrie.fr/hepato-gastro/diagnostic-de-la-maladie-coeliaque-chez-lenfant)
+- [Lengliné H, Fabre A. Diagnostic de la maladie coeliaque chez l'enfant. Pas à Pas en Pédiatrie. 07/06/2022.](https://pap-pediatrie.fr/pap-detail/5662jcib)
 - [Husby S, et al. European Society Paediatric Gastroenterology, Hepatology and Nutrition Guidelines for Diagnosing Coeliac Disease 2020. J Pediatr Gastroenterol Nutr. 2020.](https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000002497)
 - [Al-Toma A, et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. UEG Journal. 2019.](https://onlinelibrary.wiley.com/doi/10.1177/2050640619844125)
 - [Arasaradnam RP, et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology. 3rd edition. Gut. 2018.](https://gut.bmj.com/content/gutjnl/67/8/1380.full.pdf)

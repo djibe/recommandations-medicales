@@ -247,8 +247,8 @@ graph TB
 - Prescrire Redaction. Diarrhées des enfants et des nourrissons: attention à la déshydratation ! Info-Patients Prescrire. 2021.
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Diarrhée aiguë. Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/medecine-ladolescent/troubles-conduites-alimentaires-ladolescent)
 - [Liang Y, et al. Racecadotril for acute diarrhoea in children. Cochrane Database of Systematic Reviews. 2019.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009359.pub2/full)
-- [Mouterde O. Diarrhée aiguë. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/hepato-gastro/diarrhee-aigue)
-- [Imbert P. Diarrhée au retour d'un pays tropical. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/immuno-infectio-parasito/diarrhee-au-retour-dun-pays-tropical)
+- [Mouterde O. Diarrhée aiguë. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/4m0i1pe5)
+- [Imbert P. Diarrhée au retour d'un pays tropical. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/9t848s6pt)
 - [Martinot A, et al; Groupe Francophone d'Hépatologie-Gastroentérologie et Nutrition Pédiatrique (GFHGNP). Quoi de neuf dans la réhydratation orale ?.](https://www.gfhgnp.org/recommandations-et-documents/quoi-de-neuf-dans-la-rehydratation-orale/)
 
 ### Bibliographie en attente

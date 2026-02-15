@@ -181,8 +181,11 @@ Galerie de photos de cas de rougeole.
 - Prescrire Redaction. La rougeole, en bref. Rev Prescrire. 2022.
 - [HCSP. Avis relatif à l'évolution de la stratégie de gestion en cas d'épidémie de rougeole importante sur le territoire national. 21/06/2022.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=651)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Éruptions fébriles. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/eruptions-febriles)
-- [Barbarot S, Picherot G; SFP. Éruptions fébriles. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/dermatologie/eruptions-febriles)
 - Collège des enseignants de dermatologie de France (CEDEF). Exanthème et érythrodermie de l'enfant et l'adulte. 2017.
+
+### Bibliographie en attente
+
+- [Kiener M, Romain AS. Éruption cutanée fébrile de l'enfant. Pas à Pas en Pédiatrie. 2023.](https://pap-pediatrie.fr/pap-detail/j1gg)
 
 ### Bibliographie pour en savoir plus
 

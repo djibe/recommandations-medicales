@@ -162,7 +162,7 @@ Les conjonctivites de l'enfant sont le plus souvent bactériennes (*Haemophilus 
 
 > << Les antibiotiques doivent être réservés aux formes sévères. >> -- *AFSOP 2017*
 
-Le traitement antibiotique ets systématique et la consultation ophtalmologique TODO:.
+Le traitement antibiotique est systématique et la consultation ophtalmologique TODO:.
 
 - ==[Rifamycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/63828371/extrait#tab-rcp) collyre 1 gte x 4/j pendant 7-10 jours==
 - [Tobramycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/69240211/extrait#tab-rcp) collyre 1 gte x 4/j pendant 7-10 jours

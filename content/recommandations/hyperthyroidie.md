@@ -545,8 +545,8 @@ style haute stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
-- [Olivier Petit I. Interprétation d'un bilan thyroïdien limite chez l'enfant (après 3 ans). Pas à Pas en Pédiatrie. 2021.](https://pap-pediatrie.fr/endocrinologie/interpretation-dun-bilan-thyroidien-limite-chez-lenfant-apres-3-ans)
-- [Castanet M, Cuny A. Perturbation du bilan thyroïdien. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/endocrinologie/perturbation-du-bilan-thyroidien)
+- [Olivier Petit I. Interprétation d'un bilan thyroïdien limite chez l'enfant (après 3 ans). Pas à Pas en Pédiatrie. 2021.](https://pap-pediatrie.fr/pap-detail/83f2ag)
+- [Castanet M, Cuny A. Perturbation du bilan thyroïdien. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/9zpsx9)
 
 Mot-clé: hyperthr
 

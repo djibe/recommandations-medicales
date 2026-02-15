@@ -31,7 +31,7 @@ todo = "SEO, KEY urticaire aiguë, enfant, choc anaphyla, Quincke"
 - Bilan uniquement en cas d'urticaire chronique résistante
 - [Fiche info patient SFD sur l'urticaire (PDF)](https://www.sfdermato.org/upload/fiche/tryptique-urticaire-couleur-96f22adbd8100bd76e000f4a6ea2c306.pdf)
 - **Une** urticaire et un **é**dème {{%class%}}(œdème){{%/class%}}
-- Pour l'enfant, lire [PAP Urticaire aiguë de l'enfant](https://pap-pediatrie.fr/urticaire-aigue-de-lenfant)
+- Pour l'enfant, lire [PAP Urticaire aiguë de l'enfant](https://pap-pediatrie.fr/pap-detail/lpbtzor5)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -446,6 +446,6 @@ graph TB
 - [Zuberbier T, et al. The international EAACI/GA²LEN/EuroGuiDerm/APAAACI guideline for the definition, classification, diagnosis, and management of urticaria. Allergy. 2022.](https://pubmed.ncbi.nlm.nih.gov/34536239/)
 - [SFD. Traitement de l'urticaire chronique spontanée. 2019. (PDF)](https://document.sfdermato.org/reco/urticaire-chronique-spontan%C3%A9e/SFD_urticaire-chronique-spontan%C3%A9e_synth%C3%A8se_2019-11.pdf)
 - [SFD. Recommandations urticaire chronique spontanée. Arbre décisionnel. Décembre 2019.](https://reco.sfdermato.org/fr/recommandations-urticaire-chronique-spontan%C3%A9e)
-- [PAP Urticaire aiguë de l'enfant](https://pap-pediatrie.fr/urticaire-aigue-de-lenfant)
+- [PAP Urticaire aiguë de l'enfant](https://pap-pediatrie.fr/pap-detail/lpbtzor5)
 
 {{%/sources%}}

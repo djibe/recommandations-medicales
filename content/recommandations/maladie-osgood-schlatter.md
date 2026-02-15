@@ -158,7 +158,7 @@ Second étirement:
 - [Smith JM, Varacallo MA. Osgood-Schlatter Disease. In: StatPearls. Treasure Island (FL): StatPearls Publishing. 2023.](https://www.ncbi.nlm.nih.gov/books/NBK441995/)
 - [Corbi F, et al. Osgood-Schlatter Disease: Appearance, Diagnosis and Treatment: A Narrative Review. Healthcare (Basel). 2022.](https://pmc.ncbi.nlm.nih.gov/articles/PMC9222654/)
 - [Ladenhauf HN, et al. Osgood-Schlatter disease: a 2020 update of a common knee condition in children. Curr Opin Pediatr. 2020.](https://journals.lww.com/co-pediatrics/abstract/2020/02000/osgood_schlatter_disease__a_2020_update_of_a.15.aspx) (payant)
-- [Paruit MC; SFP. Osgood Schlatter. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/orthopedie-sport/osgood-schlatter)
+- [Paruit MC; SFP. Osgood Schlatter. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/t7m8)
 - [Mass General Brigham. Pediatric Rehabilitation Protocol for Osgood-Schlatter Disease. (PDF)](https://www.massgeneral.org/assets/mgh/pdf/orthopaedics/sports-medicine/physical-therapy/pediatric-rehabilitation-protocol-for-osgood-schlatter-disease.pdf)
 
 {{%/sources%}}

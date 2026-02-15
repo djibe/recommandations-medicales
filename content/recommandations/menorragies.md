@@ -277,7 +277,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Vautier V; SFP. Saignements abondants d'origine utérine chez l'adolescente. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/endocrinologie/saignements-abondants-dorigine-uterine-chez-ladolescente)
+- [Vautier V; SFP. Saignements abondants d'origine utérine chez l'adolescente. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pap-detail/nso74e8dh)
 - Collège
 
 {{%/sources%}}
