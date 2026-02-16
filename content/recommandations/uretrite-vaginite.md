@@ -8,10 +8,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-02-06T09:05:23+01:00"
 publishdate = "2025-01-05"
-lastmod = "2025-06-13"
+lastmod = "2026-02-16"
 specialites = ["gynécologie-obstétrique"]
 annees = "2025"
-sources = ["HAS", "SPILF", "SFD"]
+sources = ["SPILF", "HAS", "SFD"]
 tags = ["IST"]
 english = ["Urethritis", "cervicitis"]
 sctid = "37610005"
@@ -30,7 +30,7 @@ modele = true
   Préciser la recherche de *Trichomonas vaginalis* en cas de leucorrhées jaunes-vertes, spumeuses avec odeur de plâtre frais.
 - Prise en charge et traitement des infections génitales basses:
   - Vaginose et vaginite (*Gardnerella vaginalis*, *Trichomonas vaginalis*): métronidazole 500 mg x 2/j pendant 7 jours
-  - Urétrite et cervicite: ceftriaxone 1g IM unique + doxycycline 100 mg x 2/j pendant 7 jours et consultation à J7 (J3 si échec)
+  - Urétrite et cervicite: ceftriaxone 1g IM dose unique + doxycycline 100 mg x 2/j pendant 7 jours et consultation à J7 (J3 si échec)
 - Dépistage des autres IST, du partenaire et évaluation de la santé sexuelle
 
 Chapitres liés: [infections génitales hautes]({{% relref "infections-genitales-hautes.md" %}}), [mycose vaginale]({{% relref "mycoses-dermatophytes-candidoses.md" %}}), [infections urinaires]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}), [herpès génital]({{% relref "infections-herpes-virus.md" %}}), [infections à Chlamydia trachomatis]({{% relref "chlamydia-trachomatis.md" %}}) et [papillomavirus]({{% relref "cancer-col-uterus.md" %}}) (HPV), [syphilis]({{% relref "syphilis.md" %}})
@@ -169,6 +169,7 @@ En cas d'urétrite ou cervicite à *Mycoplasma genitalium* (Mg symptomatique san
 {{% /collapse %}}
 {{%sources%}}
 
+- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Mycoplasma genitalium. 2025.](https://www.has-sante.fr/jcms/p_3604652/fr/traitement-curatif-des-personnes-infectees-par-mycoplasma-genitalium)
 - [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées par Neisseria gonorrhoeae. 2025.](https://www.has-sante.fr/jcms/p_3604670/fr/recommandations-de-prise-en-charge-des-personnes-infectees-par-neisseria-gonorrhoeae)
 - [HAS, SPILF. Choix et durée de l'antibiothérapie : Urétrites et cervicites non compliquées. 2025.](https://www.has-sante.fr/jcms/c_2038472/fr/choix-et-durees-d-antibiotherapies-uretrites-et-cervicites-non-compliquees)

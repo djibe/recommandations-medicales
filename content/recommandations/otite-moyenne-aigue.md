@@ -8,10 +8,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-06T15:58:31+02:00"
 publishdate = "2023-06-08"
-lastmod = "2025-05-17"
+lastmod = "2026-02-16"
 specialites = ["ORL", "pédiatrie"]
 annees = "2025"
-sources = ["HAS", "SPILF", "GPIP"]
+sources = ["SPILF", "HAS", "GPIP"]
 tags = ["enfant", "nourrisson", "vaccin"]
 english = ["Acute suppurative otitis media (ASOM)", "acute purulent otitis media"]
 sctid = "194281003"
@@ -24,7 +24,8 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le diagnostic d'otite moyenne aiguë purulente (OMAP) est otoscopique: tympan congestif bombé et disparition du triangle lumineux
+- L'otite moyenne aiguë est une surinfection de l'oreille moyenne, le plus souvent à *Streptococcus pneumoniae* ou *Haemophilus influenzae*
+- Le diagnostic d'otite moyenne aiguë purulente (OMAP) est otoscopique: tympan congestif bombé et disparition du triangle lumineux (avec otalgie et fièvre)
 - La prise en charge de l'otite moyenne aiguë dépend de l'âge et de l'intensité des symptômes:
   - Nourrisson de moins de 3 mois: avis hospitalier urgent
   - Nourrisson de 3 à 23 mois: antibiothérapie systématique par amoxicilline 80 mg/kg/j (max 3 g/j) en 2 prises pendant 10 jours
@@ -206,6 +207,7 @@ style OMAP stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
+- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Otite moyenne aiguë purulente de l'enfant. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/c_2722749/fr/choix-et-durees-d-antibiotherapies-otite-moyenne-aigue-purulente-de-l-enfant)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Otite moyenne aiguë purulente de l'adulte. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/c_2722670/fr/choix-et-durees-d-antibiotherapies-otite-moyenne-aigue-purulente-de-l-adulte)
 - [Cohen R, et al. Antimicrobial treatment of ENT infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001471)

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-09-01T15:30:01+02:00"
 publishdate = "2024-09-10"
-lastmod = "2024-09-14"
+lastmod = "2026-02-16"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2020"
 sources = ["WSES"]
@@ -95,6 +95,7 @@ Prise en charge pouvant être proposée en cas de contre-indication à la chirur
 {{% /collapse %}}
 {{%sources%}}
 
+- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - {{< references/college-gastro >}}
 - [Pisano M, et al. 2020 World Society of Emergency Surgery updated guidelines for the diagnosis and treatment of acute calculus cholecystitis. World J Emerg Surg. 2020.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7643471/)
 - {{< references/aderim >}}

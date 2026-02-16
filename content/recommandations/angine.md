@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-28T10:46:41+02:00"
 publishdate = "2020-09-28"
-lastmod = "2025-09-01"
+lastmod = "2026-02-16"
 specialites = ["ORL", "pédiatrie"]
 annees = "2025"
-sources = ["HAS", "SPILF", "GPIP"]
+sources = ["SPILF", "HAS", "GPIP"]
 tags = ["enfant", "adolescent"]
 english = ["Tonsillitis"]
 sctid = "90176007"
@@ -266,6 +266,7 @@ graph TB
 
 {{< youtube id="NtXLF4DnCYY" title="Infections à Streptocoque du groupe A (CRAtb Pays de la Loire)" >}}
 
+- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : angine aiguë de l'enfant. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/p_3529229/fr/choix-et-durees-d-antibiotherapies-angine-aigue-de-l-enfant)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : angine aiguë de l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3529230/fr/choix-et-durees-d-antibiotherapies-angine-aigue-de-l-adulte)
 - [Conseil scientifique du Collège National des Généralistes Enseignants (CNGE). Antibiotiques dans l'angine à streptocoque A : faut-il continuer ? Avis du conseil scientifique. 2024. (PDF)](https://www.cnge.fr/wp-content/uploads/2024/05/240430_CS_CNGE-angine_Vsite.pdf)

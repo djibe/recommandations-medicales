@@ -8,7 +8,7 @@ synonyms = ["Peptoclostridium difficile"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-03-06T19:05:06+01:00"
 publishdate = "2025-03-20"
-lastmod = "2025-10-03"
+lastmod = "2026-02-16"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2025"
 sources = ["RéPia", "ACG", "ASCRS"]
@@ -18,12 +18,12 @@ sctid = "186431008"
 icd10 = ["A04.7"]
 image = true
 imageSrc = "Aspect coloscopique de colite pseudomembraneuse à *Clostridium difficile*. Klinikum Dritter Orden, München. Abteilung Innere Medizin I Vielen Dank an Christoph Kaiser für die Überlassung des Bildes zur Veröffentlichung!, CC0, via Wikimedia Commons"
-todo = "flow | Rechercher chez SII avec diarrhées aiguës profuses."
+todo = "flow, rankok | Rechercher chez SII avec diarrhées aiguës profuses."
 +++
 
 {{%article-summary%}}
 
-- *Clostridioides difficile*, ex *Clostridium difficile*, cause 10 à 25 % des diarrhées post-antibiotiques
+- La bactérie *Clostridioides difficile* -- ex *Clostridium difficile* -- cause 10 à 25 % des diarrhées post-antibiotiques
 - Le diagnostic d'infection à *Clostridioides difficile* est clinico-microbiologique: situation évocatrice (antibiothérapie, hospitalisation, immunodépression, intestin irritable), au moins 3 selles non moulées par 24 heures non glairo-sanglantes, et coproculture avec 2 tests positifs à *C. difficile*
 - Une fièvre modérée est possible. Un tableau brutal évoque une colite pseudomembraneuse dont le traitement est urgent
 - Le bilan biologique et la coproculture sur selles diarrhéiques sont systématiques: NFS, CRP, bilan rénal, hépatique et coproculture avec recherche de *C. difficile* mentionnée sur l'ordonnance
@@ -155,6 +155,7 @@ Pour les cas les plus graves, une **colectomie subtotale** peut être envisagée
 
 {{< youtube id="ApVS88rxACo" title="Diarrhées post-antibiotiques : le Clostridioides facile en ville (PRIMO & CRATB PDL)" >}}
 
+- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [Répia PRIMO. Clostridioides difficile : conduite à tenir en ville. Antibiorésistance. 2025.](https://antibioresistance.fr/bon-usage-des-antibiotiques/fiches-pratiques)
 - [Rouillon D, et al. Analyse des prescriptions d'anti-infectieux dans la prise en charge des infections à Clostridioides difficiles. Le Pharmacien Clinicien. 2024.](https://www.sciencedirect.com/science/article/pii/S2772953224003058)
 - [Kelly CR, et al. ACG Clinical Guidelines: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections. Am J Gastroenterol. 2021.](https://journals.lww.com/ajg/fulltext/2021/06000/acg_clinical_guidelines__prevention,_diagnosis,.12.aspx)

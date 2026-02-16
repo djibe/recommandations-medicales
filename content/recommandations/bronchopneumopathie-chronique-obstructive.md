@@ -370,14 +370,14 @@ Joindre le courrier détaillé des traitements en cours, contexte social, dernie
   - Augmenter la dose et la fréquence des {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}} jusqu'à l'amélioration des symptômes (ex: 1-2 bouffées toutes les 2-4 heures) et du traitement de fond
   - Envisager l'utilisation d'une chambre d'inhalation (3-5 inspirations par dose de BDCA)
 - Si encombrement: kinésithérapie respiratoire
-- ==Antibiothérapie ≤ 5 jours si: aggravation de la dyspnée et augmentation du volume et de la purulence des crachats pendant ≥ 48 heures OU BPCO très sévère== (*HAS 2024*)
+- ==Antibiothérapie 5 jours si: aggravation de la dyspnée et augmentation du volume et de la purulence des crachats pendant ≥ 48 heures OU BPCO très sévère== (*HAS 2024*)
   - Amoxicilline 1g x 3/j pendant maximum 5 jours
   - Si allergie aux pénicillines: pristinamycine 1g x 3/j pendant 4 jours
   - Si pénurie: clarithromycine 500 mg x 2/j, roxithromycine 150 mg x 2/j, spiramycine 6-9 MUI/j ou doxycycline 200 mg x 1/j
   - ECBC en cas d'exacerbations fréquentes (*GOLD*)
 - **Antibiothérapie adaptée** si critères ci-dessus avec facteur de risque d'échec ou de complication:  
   +65 ans, échec de la 1re ligne, ≥ 2 exacerbations par an ou 1 hospitalisation, VEMS < 50%, insuffisance cardiaque ou SCA, désaturation/oxygénothérapie.
-  - Amoxicilline/acide clavulanique 1g x 3/j pendant maximum 5 jours
+  - Amoxicilline/acide clavulanique 1g x 3/j pendant 5 jours
   - Si allergie aux pénicillines: triméthoprime/sulfaméthoxazole 800/160 mg x 2/j ou ceftriaxone 1-2 g x 1/j IV ou SC
   - Si pénurie: idem absence de facteur de risque
   - En dernier recours: lévofloxacine 500 mg x 1/j (ne pas utiliser si *Pseudomonas aeruginosa* connu)
@@ -631,6 +631,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease: 2025 Report. 2024.](https://goldcopd.org/2025-gold-report/)
 - [Williamson A, et al. Vitamin D for the management of chronic obstructive pulmonary disease. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013284.pub2/full/fr)
 - [CBIP. Gabapentine et prégabaline : risque d'exacerbations sévères de BPCO. Folia. 2024.](https://www.cbip.be/fr/articles/4425?folia=4409)

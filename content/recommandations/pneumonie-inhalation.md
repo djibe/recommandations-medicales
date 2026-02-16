@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-11-12T18:44:16+01:00"
 publishdate = "2025-11-21"
-lastmod = "2025-11-21"
+lastmod = "2026-02-16"
 specialites = ["pneumologie"]
 annees = "2025"
 sources = ["SPILF"]
@@ -27,7 +27,7 @@ todo = "flow > Kanban | maj autres fiches, relecture demandée sylvain.diamantis
 - Les symptômes sont ceux de la pneumonie avec syndrome infectieux, signes respiratoires (toux, expectorations purulentes, dyspnée, douleurs thoraciques). L'examen recherche un trouble de la déglutition et du réflexe tussif
 - Le bilan de la pneumonie d'inhalation consiste en un scanner thoracique en urgence
 - Les critères d'hospitalisation sont ceux de la pneumonie (hémodynamique, CRB65 ...) et du risque d'infection à pyocyanique (colonisation ou infection récente à *Pseudomonas aeruginosa*, antibiothérapie parentérale dans les 3 mois, BPCO sévère ou dilatation des bronches, trachéotomie)
-- En l'absence de critères d'hospitalisation, la prise en charge de la pneumonie d'inhalation peut être ambulatoire avec antibiothérapie par amoxicilline/acide clavulanique 1g, 3 fois par jour pendant 5 jours avec réévaluation systématique à 72 heures
+- En l'absence de critères d'hospitalisation, la prise en charge de la pneumonie d'inhalation peut être ambulatoire avec antibiothérapie par amoxicilline/acide clavulanique 1g, 3 fois par jour pendant 5 jours (si stable à J5) avec réévaluation systématique à 72 heures
 - L'hospitalisation est indiquée si les critères de guérison (voir *Traitement*) ne sont pas obtenus à 72 heures
 - Après l'épisode infectieux, une évaluation de l'autonomie, cognitive, nutritionnelle et des fausses routes est nécessaire
 
@@ -247,7 +247,8 @@ L'étiologie d'une pneumonie d'inhalation peut être recherchée avec la [checkl
 {{% /collapse %}}
 {{%sources%}}
 
-[Diamantis S, et al. Recommandations pour la prise en charge des pneumonies d'inhalation - Société de Pathologie Infectieuse de Langue Française 2025. Médecine et Maladies Infectieuses Formation. 2025.](https://www.sciencedirect.com/science/article/pii/S2772743225004787)
+- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
+- [Diamantis S, et al. Recommandations pour la prise en charge des pneumonies d'inhalation - Société de Pathologie Infectieuse de Langue Française 2025. Médecine et Maladies Infectieuses Formation. 2025.](https://www.sciencedirect.com/science/article/pii/S2772743225004787)
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}

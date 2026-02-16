@@ -8,10 +8,10 @@ synonyms = ["Sigmoïdite diverticulaire", "diverticulite colique", "sigmoïdite 
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-09T11:33:00+02:00"
 publishdate = "2021-02-09"
-lastmod = "2025-04-24"
+lastmod = "2026-02-16"
 specialites = ["hépato-gastro-entérologie"]
-annees = "2024"
-sources = ["HAS", "SPILF", "ACP", "ESCP"]
+annees = "2025"
+sources = ["SPILF", "HAS", "ACP", "ESCP"]
 tags = ["obésité"]
 english = ["Acute diverticulitis", "Left-sided colonic diverticulitis"]
 sctid = "427910000"
@@ -27,7 +27,7 @@ todo = "rankok"
 - La diverticulose colique, fragilité colique, augmente avec l'âge et est asymptomatique dans 80 % des cas
 - La diverticulite sigmoïdienne aiguë (*ex* sigmoïdite diverticulaire) est une inflammation infectieuse colique d'origine diverticulaire, survenant surtout entre 50 et 70 ans
 - Un bilan systématique est nécessaire lors de la première poussée: diagnostic par scanner abdomino-pelvien
-- La prise en charge de la crise de diverticulite sigmoïdienne non compliquée sans gravité (hors grossesse) est symptomatique: pas d'antibiothérapie durant les 48 premières heures de la crise douloureuse
+- La prise en charge de la crise de diverticulite sigmoïdienne non compliquée sans gravité (hors grossesse) est symptomatique: pas d'antibiothérapie durant les 48 premières heures de la crise douloureuse. Au-delà: amoxicilline/acide clavulanique 3g/j pendant 7 jours
 - Une chirurgie colique prophylactique des diverticules est programmée à distance en cas de comorbidités:  
   Immunodépression, [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}), altération de la qualité de vie, fistule, abcès ou sténose symptomatique.
 
@@ -216,7 +216,7 @@ Intérêt d'une **coloscopie** avant la chirurgie, surtout si +50 ans ou [risque
 {{% /collapse %}}
 {{% collapse "Prise en charge de la diverticulite sigmoïdienne" "show" %}}
 
-{{< mermaid title="Prise en charge d'une suspicion de diverticulite sigmoïdienne. Dr JB Fron d'après HAS 2024 et antérieurs" >}}
+{{< mermaid title="Prise en charge d'une suspicion de diverticulite sigmoïdienne. Dr JB Fron d'après SPILF 2025, HAS 2024 et antérieurs" >}}
 graph TB
   diverticulite[Suspicion de diverticulite]
   style diverticulite stroke:#4150f5, stroke-width: 1px

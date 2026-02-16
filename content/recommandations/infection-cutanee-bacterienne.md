@@ -8,10 +8,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-18T14:42:09+01:00"
 publishdate = "2024-01-26"
-lastmod = "2024-08-28"
+lastmod = "2026-02-16"
 specialites = ["dermatologie"]
-annees = "2024"
-sources = ["HAS", "SPILF", "GPIP"]
+annees = "2025"
+sources = ["SPILF", "HAS", "GPIP"]
 tags = ["enfant"]
 english = ["Skin and soft tissue infections (SSTI)"]
 sctid = "128936008"
@@ -84,7 +84,7 @@ SPILF
 
 ### Prise en charge de l'impétigo
 
-Prise en charge de l'impétigo simple:
+Recommandations pour la prise en charge de l'impétigo simple:
 
 - Si étendu ou récidivant: prélèvement bactériologique
 - Soins quotidiens 1 à 2 fois par jour
@@ -138,7 +138,7 @@ Prise en charge du furoncle non compliqué de l'adulte et de l'enfant:
 
 ### Traitement du furoncle compliqué ou à risque de complication
 
-Le furoncle est dit compliqué si:
+Le furoncle est dit compliqué en présence d'un critère parmi:
 
 - Taille > 5 cm
 - Dermohypodermite périlésionnelle
@@ -202,6 +202,7 @@ Prise en charge d'un abcès cutané:
 {{% /collapse %}}
 {{%sources%}}
 
+- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Prise en charge de l'impétigo de l'adulte et de l'enfant. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282449/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-de-l-impetigo-de-l-adulte-et-de-l-enfant)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Prise en charge des furoncles chez l'adulte et chez l'enfant. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3278809/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-furoncles-chez-l-adulte-et-chez-l-enfant)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Prise en charge des furonculoses. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282447/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-furonculoses)

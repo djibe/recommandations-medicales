@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-26T12:44:02+01:00"
 publishdate = "2024-01-30"
-lastmod = "2025-09-16"
+lastmod = "2026-02-16"
 specialites = ["dermatologie", "infectiologie"]
-annees = "2023"
-sources = ["GPIP", "CMIT"]
+annees = "2025"
+sources = ["SPILF", "GPIP", "CMIT"]
 tags = []
 english = ["Bites"]
 sctid = "3404009"
@@ -84,7 +84,7 @@ GPIP
 
 ### Prise en charge des morsures d'animaux
 
-Prise en charge commune à toutes les morsures d'animaux et d'hommes:
+Recommandations pour la prise en charge des morsures, commune à toutes les morsures d'animaux et d'hommes:
 
 - **Lavage** abondant à l'eau et au savon
 - **Désinfection** par antiseptique (chlorhexidine ++)
@@ -165,6 +165,7 @@ En cas d'animal mordeur mort ou abattu, le cadavre doit être adressé au [CNR d
 {{% /collapse %}}
 {{%sources%}}
 
+- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [Service-Public. Que faire en cas de morsure par un chien ? 05/07/2024.](https://www.service-public.fr/particuliers/vosdroits/F24028)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Prise en charge des dermohypodermites bactériennes non nécrosantes (DHBNN) chez l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282443/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-dermohypodermites-bacteriennes-non-necrosantes-dhbnn-chez-l-adulte)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Prise en charge des dermohypodermites bactériennes non nécrosantes (DHBNN) chez l'enfant. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282445/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-dermohypodermites-bacteriennes-non-necrosantes-dhbnn-chez-l-enfant)

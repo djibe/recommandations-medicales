@@ -8,10 +8,10 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr P. DELOBEL (CMIT)"
 date = "2020-09-02T08:27:41+02:00"
 publishdate = "2020-09-02"
-lastmod = "2025-10-10"
+lastmod = "2026-02-16"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2025"
-sources = ["HAS", "SPILF", "EADV"]
+sources = ["SPILF", "HAS", "EADV"]
 tags = ["dépistage", "HSH", "IST", "VIH"]
 english = ["Syphilis"]
 sctid = "76272004"
@@ -438,6 +438,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [Kounta CH, et al. La syphilis congénitale en France de 2012 à 2019. Bull Epidemiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/19-20/2025_19-20_4.html)
 - [HAS, ANRS, CNS. Recommandations de prise en charge des personnes ayant une syphilis. 2025.](https://www.has-sante.fr/jcms/p_3604647/fr/recommandations-de-prise-en-charge-des-personnes-ayant-une-syphilis)
 - [US Preventive Services Task Force. Screening for Syphilis Infection During Pregnancy: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2025.](https://jamanetwork.com/journals/jama/fullarticle/2833883)

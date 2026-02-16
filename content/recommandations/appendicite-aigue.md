@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-20T22:32:54+02:00"
 publishdate = "2022-06-21"
-lastmod = "2025-05-30"
+lastmod = "2026-02-16"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2021"
-sources = ["SFCD", "WSES"]
+sources = ["SPILF", "SFCD", "WSES"]
 tags = ["adolescent", "enfant"]
 english = ["Acute appendicitis (AA)"]
 sctid = "85189001"
@@ -183,7 +183,7 @@ Le traitement chirurgical par cœlioscopie est également la référence en cas 
 
 L'examen anatomopathologique de l'appendice est systématique.
 
-Pas d'antibiothérapie post-opératoire pour une appendicite non compliquée. Si compliquée: C3G + imidazolé pendant 3 jours (parfois prolongée).
+Pas d'antibiothérapie post-opératoire pour une appendicite non compliquée (ou durée ≤ 24 h). Si compliquée: C3G + imidazolé pendant 3 jours (parfois prolongée).
 
 ### Appendicite aiguë et antibiothérapie
 
@@ -191,7 +191,7 @@ En cas de contre-indication ou d'impossibilité de la chirurgie, l'antibiothéra
 
 La voie orale est recommandée en l'absence de nausées ou vomissements.
 
-Antibiothérapie type amoxicilline/acide clavulanique (Augmentin) ou fluoroquinolone + imidazolé ≤ 8 jours (selon *SPILF 2020*: 7 jours).
+Antibiothérapie type amoxicilline/acide clavulanique ou fluoroquinolone + imidazolé pendant 7 jours (*SPILF* 2025 et 2020).
 
 Lors du traitement de l'appendicite par antibiothérapie, le risque de récidive peut atteindre 39 % à 5 ans (*WSES*).
 
@@ -207,6 +207,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [Salminen P, et al. Antibiotic Therapy for Uncomplicated Acute Appendicitis: Ten-Year Follow-Up of the APPAC Randomized Clinical Trial. JAMA. 2026.](https://jamanetwork.com/journals/jama/article-abstract/2844116)
 - [CBIP. Appendicectomie vs antibiotiques en cas d'appendicite aiguë chez l'enfant. Folia. 2025.](https://www.cbip.be/fr/articles/4538?folia=4535)
 - [Doleman B, et al. Appendectomy versus antibiotic treatment for acute appendicitis. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015038.pub2/full/fr)

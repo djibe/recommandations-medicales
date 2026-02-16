@@ -8,10 +8,10 @@ synonyms = ["Rhinosinusites infectieuses aiguës"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-18T09:20:00+02:00"
 publishdate = "2021-01-18"
-lastmod = "2025-05-18"
+lastmod = "2026-02-16"
 specialites = ["ORL"]
 annees = "2025"
-sources = ["HAS", "SPILF", "GPIP"]
+sources = ["SPILF", "HAS", "GPIP"]
 tags = ["toux"]
 english = ["Sinusitis"]
 sctid = "15805002"
@@ -170,7 +170,7 @@ Pas d'antibiothérapie si diagnostic incertain.
 Antibiotique de référence pour la prise en charge de la sinusite maxillaire:
 
 - **Adulte:** Amoxicilline 1 g x 3/j pendant 7 jours
-- **Enfant:** Amoxicilline 80 mg/kg/j (max 3 g/j) en 2 prises pendant 10 jours (80-100 selon *GPIP 2023*)
+- **Enfant:** Amoxicilline 80 mg/kg/j (max 3 g/j) en 2 prises pendant 10 jours
 {{%/info%}}
 
 En cas de pénurie, traitement différé si possible: amoxicilline cp 1 g dispersible toutes les 12 heures pendant 5 jours  
@@ -259,6 +259,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Sinusites de l'enfant. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/c_2722824/fr/choix-et-durees-d-antibiotherapies-sinusites-de-l-enfant)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Sinusites de l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/c_2722806/fr/choix-et-durees-d-antibiotherapies-sinusite-de-l-adulte)
 - [Cohen R, et al. Antimicrobial treatment of ENT infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001471)

@@ -8,10 +8,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-17T11:25:20+01:00"
 publishdate = "2023-01-19"
-lastmod = "2025-06-19"
+lastmod = "2026-02-16"
 specialites = ["urologie"]
 annees = "2025"
-sources = ["HAS", "SPILF", "EAU"]
+sources = ["SPILF", "HAS", "EAU"]
 tags = ["HSH", "IST"]
 english = ["Urethritis", "epididymitis"]
 sctid = "128478005"
@@ -33,9 +33,9 @@ todo = "SEO, Balanite et balano-posthite, dépistages Ct homme | neisseria menin
 - Prise en charge de l'orchi-épididymite
   - Toujours évoquer une torsion du testicule chez le jeune
   - Ceftriaxone 1g IM dose unique  
-    \+ doxycycline 200 mg x 2/j à J1 puis 100 mg x 2/j pendant 10 à 14 jours
+    \+ doxycycline 200 mg x 2/j à J1 puis 100 mg x 2/j pendant 10 jours
   - Préservatif minimum 7 jours, notification des partenaires des 6 mois
-  - Faible suspicion de gonococcie: ciprofloxacine 500 mg x 2/j pendant 10 à 14 jours
+  - Faible suspicion de gonococcie: ciprofloxacine 500 mg x 2/j pendant 10 jours
 - Consultation de contrôle à J7 avec les résultats
 - Bilan des autres [infections sexuellement transmissibles (IST)](/tags/ist/) et port du préservatif
 
@@ -276,11 +276,13 @@ Gonocoque:
 
 *Chlamydia*: doxycycline 100 mg x 2/j pendant 10 jours
 
-*Mycoplasma genitalium* isolé: moxifloxacine 400 mg x 1/j pendant 10 à 14 jours
+*Mycoplasma genitalium* isolé: moxifloxacine 400 mg x 1/j pendant 10 jours
 
 Consultation à J3 si persistance des symptômes et **J7 systématique** (guérison, bilan des IST, prévention).
 
 En l'absence de risque d'IST, voir *SFD 2016*.
+
+> -- *SPILF 2025* et *HAS/SPILF 2025*
 
 </div>
 <div aria-labelledby="eau-tab" class="tab-pane fade" id="eau-panel" role="tabpanel">
@@ -294,7 +296,7 @@ Si faible suspicion de gonococcie et suspicion d'origine urinaire:
 - Ciprofloxacine 500 mg x 2/j pendant 10 à 14 jours  
   ou lévofloxacine 750 mg (indisponible en France) x 1/j
 - OU doxycycline 200 mg dose unique à J1 puis 100 mg x 2/j pendant 10 à 14 jours  
-  \+ TODO: Entérobactérie pendant 10 à 14 jours
+  \+ Entérobactérie pendant 10 à 14 jours
 
 </div>
 <div aria-labelledby="sfd-tab" class="tab-pane fade " id="sfd-panel" role="tabpanel">
@@ -332,6 +334,7 @@ Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques e
 {{% /collapse %}}
 {{%sources%}}
 
+- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [Sauvage C, et al. Prévalence de l'infection à Chlamydia trachomatis, Neisseria gonorrhoeae et Mycoplasma genitalium chez les femmes et les hommes de 18-59 ans, en France hexagonale, enquête PrévIST. Bull Epidemiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/19-20/2025_19-20_5.html)
 - [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
 - [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées par Neisseria gonorrhoeae. 2025.](https://www.has-sante.fr/jcms/p_3604670/fr/recommandations-de-prise-en-charge-des-personnes-infectees-par-neisseria-gonorrhoeae)
@@ -349,6 +352,6 @@ Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques e
 
 ### Bibliographie en attente
 
-[Janier M et al; Société Française de Dermatologie (SFD). Balanite. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/balanites-f5f2cf585640275406ec42b19340d0c8.pdf)
+- [Janier M et al; Société Française de Dermatologie (SFD). Balanite. Recommandations diagnostiques et thérapeutiques pour les Maladies Sexuellement transmissibles. 2016. (PDF)](https://www.sfdermato.org/upload/recommandations/balanites-f5f2cf585640275406ec42b19340d0c8.pdf)
 
 {{%/sources%}}

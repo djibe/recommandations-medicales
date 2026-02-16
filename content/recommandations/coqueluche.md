@@ -7,10 +7,10 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2025-04-28"
+lastmod = "2026-02-16"
 specialites = ["infectiologie", "ORL"]
-annees = "2024"
-sources = ["HCSP", "HAS", "SPILF", "GPIP"]
+annees = "2025"
+sources = ["SPILF", "HCSP", "HAS", "GPIP"]
 tags = ["nourrisson", "toux"]
 english = ["Pertussis", "Whooping cough"]
 sctid = "27836007"
@@ -29,15 +29,14 @@ Ces recommandations visent à protéger les nourrissons non immuns et personnes 
 - La coqueluche est une toxi-infection aiguë des voies respiratoires par la bactérie *Bordetella pertussis* pouvant être grave chez les personnes à risque
 - Évoquer une coqueluche devant toute toux de plus de 7 jours
 - Le diagnostic de coqueluche est biologique par une *PCR coqueluche* naso-pharyngée dans les 3 premières semaines de toux
-- Prise en charge de la coqueluche: éviction de la collectivité 5 jours et antibiothérapie par clarithromycine 500 mg, 2 fois par jour (ou 1 dose-poids x 2/j) pendant 7 jours ...
+- La prise en charge de la coqueluche associe: éviction de la collectivité 5 jours et antibiothérapie par clarithromycine 500 mg, 2 fois par jour (ou 1 dose-poids x 2/j) pendant 7 jours ...
 - et antibioprophylaxie des sujets contacts proches à risque (voir [Antibioprophylaxie](#antibioprophylaxie-des-cas-contacts))
 - Vaccination coqueluche
   - Une coqueluche ne modifie pas le calendrier vaccinal. L'immunité vaccinale ne persiste que 5 à 10 ans
-  - Tous les vaccins dTPolio sont désormais couplés à la coqueluche (BoostrixTetra ou Repevax)
   - [Vaccination coqueluche]({{% relref "vaccination.md" %}}) à chaque grossesse entre 20 et 36 SA
   - **Cocooning:** actuellement pour tout l'entourage dont le dernier rappel a plus de 5 ans (habituellement uniquement en l'absence de vaccination en fin de grossesse)
   - Professionnels de santé en 2026: rappel coqueluche si +5 ans
-- [Signalement à l'ARS]({{% relref "agences-regionales-sante-ars.md" %}}) pour au moins 2 cas de coqueluche en collectivité ou intrafamiliaux
+- [Signaler à l'ARS]({{% relref "agences-regionales-sante-ars.md" %}}) au moins 2 cas de coqueluche en collectivité ou intrafamiliaux
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -230,7 +229,7 @@ Prise en charge de la coqueluche:
 Antibiothérapie de la coqueluche: uniquement durant les **3 premières semaines d'évolution** pour réduire la contagiosité.  
 Ne traiter un *B. parapertussis* pauci-symptomatique qu'en présence de personne à risque dans son entourage (*HCSP 2022*).
 
-Antibiothérapie de la coqueluche par un macrolide (*HAS/SPILF/GPIP 2024*):
+Antibiothérapie de la coqueluche par un macrolide (*SPILF 2025*, *HAS/SPILF/GPIP 2024*):
 
 - [Clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/62913185/extrait#tab-rcp) 500 mg x 2/j pendant **7 jours**  
   ou 1 dose-poids x 2/j (15 mg/kg/j en 2 prises, max 500 mg/prise)
@@ -284,6 +283,7 @@ Avant HAS/SPILF/GPIP 2024, des guides incomplets: DGS Urgent 2024_08 (aucune inf
 
 {{< youtube id="yhxuKysI33o" title="Vidéo#5 : La coqueluche (CRAtb Pays de la Loire / MedQual)" >}}
 
+- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - {{< references/calendrier-vaccinal >}}
 - [DGS-Urgent 2024_11. 13/08/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : coqueluche chez le nourrisson, l'enfant et l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3525542/fr/choix-et-durees-d-antibiotherapies-coqueluche-chez-le-nourrisson-l-enfant-et-l-adulte)
