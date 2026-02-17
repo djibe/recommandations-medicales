@@ -42,8 +42,6 @@ HTA: [carnet d'automesure tensionnelle à imprimer](https://www.stridebp.org/wp-
 
 - {{< modal-btn modal-hba1c >}}Cibles d'HbA1c{{< /modal-btn >}}
 - {{< modal-btn modal-saos-diabete >}}Dépistage des apnées du sommeil chez le diabétique{{< /modal-btn >}}
-- {{< modal-btn modal-rcv-diabete >}}Risque cardiovasculaire du diabétique{{< /modal-btn >}}
-- [Risque de diabète à 10 ans](https://www.diabeclic.com/findrisc)
 - Traitements  
   {{< modal-btn modal-metformine >}}Metformine{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}}.
 
@@ -142,11 +140,6 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
-
-{{% /modal %}}
-{{% modal title="Diabète et RCV selon ESC 2023" id="modal-rcv-diabete"%}}
-
-{{< clinique/risque-cardiovasculaire-diabete >}}
 
 {{% /modal %}}
 {{% modal title="Régime méditerranéen" id="modal-regime"%}}

@@ -270,7 +270,7 @@ Prise en charge de l'artériopathie (AOMI): Suivi cardiologique spécialisé, tr
 - {{< modal-btn modal-statine-intensite >}}Statine systématique{{< /modal-btn >}}
   - {{< modal-btn modal-rcv >}}LDL cible < 0,55 g/L{{< /modal-btn >}} (et réduction ≥ 50 %) avec contrôle annuel
 - Clopidogrel 75 mg/j
-  - Indications: claudication ou AOMI masquée, MCV, revascularisation du MI ou {{< modal-btn modal-rcv-diabete >}}diabète à haut RCV{{< /modal-btn >}}
+  - Indications: claudication ou AOMI masquée, MCV, revascularisation du MI ou diabète à haut RCV
   - Sinon aspirine 75-100 mg/j
   - Si double antiagrégant: pantoprazole
 - {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} systématique (voire ARA2, *SFMV 2020*).
@@ -363,11 +363,6 @@ graph TB
 {{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
-
-{{% /modal %}}
-{{% modal title="RCV du diabétique selon ESC 2019" id="modal-rcv-diabete"%}}
-
-{{< clinique/risque-cardiovasculaire-diabete >}}
 
 {{% /modal %}}
 {{% modal title="Objectifs glycémiques selon SFD 2025" id="modal-hba1c"%}}

@@ -483,7 +483,7 @@ Connaître les signes et symptômes de la maladie rénale chronique et savoir qu
 
 {{< mermaid title="Conduite à tenir pour le dépistage et la prise en charge de la maladie rénale chronique. Dr JB Fron d'après KDIGO 2024 et HAS 2023" >}}
 graph TB
-fdr["<b>Personne à risque</b><br>—<br>- +65 ans (Acad Phie)<br>- HTA, diabète<br>- Obésité<br>- Maladie cardiovasculaire<br>- Insuffisance cardiaque<br>- Maladie de système<br>- Pathologie urologique<br>- ATCD familial d'IRC évolutive<br>- Exposition professionnelle<br>- Néphrotoxiques"] --> 2(Bilan annuel)
+fdr["<b>Personne à risque</b><br>—<br>- +65 ans (Acad Pharma)<br>- HTA, diabète<br>- Obésité<br>- Maladie cardiovasculaire<br>- Insuffisance cardiaque<br>- Maladie de système<br>- Pathologie urologique<br>- ATCD familial d'IRC évolutive<br>- Exposition professionnelle<br>- Néphrotoxiques"] --> 2(Bilan annuel)
 style fdr stroke:#4150f5, stroke-width:1px
   2 --> 3N(Normal)
     3N --> 2
@@ -538,11 +538,6 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
-
-{{% /modal %}}
-{{% modal title="Diabète et RCV selon ESC 2023" id="modal-rcv-diabete"%}}
-
-{{< clinique/risque-cardiovasculaire-diabete >}}
 
 {{% /modal %}}
 {{% modal title="Facteurs de risque de fracture" id="modal-risque-fracture"%}}

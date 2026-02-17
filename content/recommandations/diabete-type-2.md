@@ -30,7 +30,7 @@ Ce chapitre intègre les dernières recommandations SFD, HAS, ADA, ESC et ADA/EA
   - facteur de risque cardiovasculaire
   - +45 ans avec: surpoids/obésité, origines non caucasiennes, antécédent personnel de diabète gestationnel ou de macrosomie, antécédent familial de diabète au 1^er^ degré, traitement à risque (antipsychotique, corticoïde, VIH ...), hypertension artérielle, HDL bas ≤ 0,35 g/L ou triglycérides ≥ 2 g/L, précarité sociale
   - Prédiabète (annuel), acanthosis nigricans
-- Pour chaque personne vivant avec un diabète: changement du mode de vie, définir le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}}, sevrage tabagique obligatoire et prise en charge des points vitaux obligatoires (voir plus bas)
+- Pour chaque personne vivant avec un diabète: changement du mode de vie, définir le {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}}, sevrage tabagique obligatoire et prise en charge des points vitaux obligatoires (voir plus bas)
 - {{< modal-btn modal-hba1c >}}Cible personnalisée d'hémoglobine glyquée{{< /modal-btn >}} (globalement 7%) et {{< modal-btn modal-hba1c-faussee >}}situations où l'HbA1c n'est pas fiable{{< /modal-btn >}}
 - Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}AR GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}} rarement
 - [Dépistage des complications du diabète](#dépistage-des-complications-du-diabète) et des comorbidités
@@ -109,7 +109,7 @@ SFD
 {{%collapse "Les points vitaux du diabète type 2" %}}
 
 > [!WARNING]
-> Une personne avec un diabète type 2 est souvent à {{< modal-btn modal-rcv-diabete >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} {{%class%}}(risque CV x2-4){{%/class%}}.
+> Une personne avec un diabète type 2 est souvent à {{< modal-btn modal-rcv >}}haut voire très haut risque cardiovasculaire{{< /modal-btn >}} {{%class%}}(risque CV x2-4){{%/class%}}.
 
 - Suivi tous les 3-6 mois
 - HbA~1c~ cible: {{< modal-btn modal-hba1c >}}globalement **7%**{{< /modal-btn >}} (SFD, ESC 2023)
@@ -119,7 +119,7 @@ SFD
   - Cible générale: 120-129 / 70-79 mmHg (*ESH 2023*)
   - Bithérapie d'emblée {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}  
   {{%class%}}Considérer si albuminurie sans hypertension.{{%/class%}}
-- Définir le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}} (avec le {{< scores/score2-diabetes >}} en prévention primaire chez le 40-69 ans) ...
+- Définir le {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} (avec le {{< scores/score2-diabetes >}} en prévention primaire chez le 40-69 ans) ...
 - Afin de déterminer le LDL cible (souvent < 0,7 g/L) par {{< modal-btn modal-statine-intensite >}}statine de haute intensité{{< /modal-btn >}}
 - Activité physique adaptée
   - Lutte contre la sédentarité: bouger 1-5 minutes par heure
@@ -437,7 +437,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 | [Apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) | {{< modal-btn modal-saos-diabete >}}Dépistage annuel{{< /modal-btn >}} | HAS 2025 |
 | AOD (rivaroxaban) | Aspirine + AOD à considérer si coronaropathie stable ou AOMI/artériopathie et risque hémorragique faible | ADA 2023    |
 | [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) | Symptômes + pouls + cutané et IPS annuels. IPS si ulcération | HAS 2025 |
-| Aspirine prev primaire | 75-100 mg/j pourrait être considéré (sauf CI)<br>75-160 mg/j envisageable si {{< modal-btn modal-rcv-diabete >}}(très) haut risque CV{{< /modal-btn >}} ou {{< modal-btn modal-coronaire-diabete >}}coronaire{{< /modal-btn >}} sans risque de saignement | ESC 2023<br>ADA 2023, ESC 2021 |
+| Aspirine prev primaire | 75-100 mg/j pourrait être considéré (sauf CI)<br>75-160 mg/j envisageable si {{< modal-btn modal-rcv >}}(très) haut risque CV{{< /modal-btn >}} ou {{< modal-btn modal-coronaire-diabete >}}coronaire{{< /modal-btn >}} sans risque de saignement | ESC 2023<br>ADA 2023, ESC 2021 |
 | Aspirine prev secondaire | 75-100 mg/j si coronarien ou revascularisation<br>75-160 mg/j ± associé selon la pathologie, prolonger bi-antiagrégants si bien toléré (max 3 ans) | ESC 2023 diabetes<br>ADA 2023, ESC 2019 diabetes |
 | [Automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}}) | Trimestrielle, au mieux mensuelle si HTA | HAS 2025, ESC 2024 HTA |
 | [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}) | Femmes à haut risque: éducation, correction des FRCV  | ESC 2023 diabetes        |
@@ -464,7 +464,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 | Neuropathie  | Dépistage annuel: ROT, diapason, podologue: {{< modal-btn modal-monofilament >}}monofilament{{< /modal-btn >}} et {{< modal-btn modal-grade-podologique >}}grade podologique{{< /modal-btn >}}, pic-touche, diapason, [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}), sécheresse cutanée | HAS 2025, ADA 2023 et ESC 2019 diabetes |
 | Permis de conduire | Voir [permis de conduire]({{% relref "pathologies-permis-conduire.md" %}})                 | HAS 2025                 |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux. Grossesse: avant, trimestrielle puis post-partum. Post-cataracte: intensifiée durant 12 mois | HAS 2025 |
-| {{< modal-btn modal-rcv-diabete >}}Risque cardiovasculaire{{< /modal-btn >}} | SCORE2-Diabetes annuel en prévention primaire chez le 40-69 ans | HAS 2025 |
+| {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}} | SCORE2-Diabetes annuel en prévention primaire chez le 40-69 ans | HAS 2025 |
 | Score calcique | Pas d'argument pour l'utiliser pour la classification du RCV<br>{{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} ± test d'effort | ESC 2023 diabetes<br>SFD 2021 CAD |
 | [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) | Envisager le dépistage chez la femme          | ESHRE 2023               |
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |
@@ -575,9 +575,9 @@ Mots-clé: diabte
 {{< clinique/grade-podologique >}}
 
 {{% /modal %}}
-{{% modal title="Diabète et RCV selon ESC 2023" id="modal-rcv-diabete"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
-{{< clinique/risque-cardiovasculaire-diabete >}}
+{{< clinique/risque-cardiovasculaire >}}
 
 {{% /modal %}}
 {{% modal title="Diabète et risque coronaire selon SFD 2021" id="modal-coronaire-diabete"%}}
