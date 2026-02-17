@@ -53,7 +53,7 @@
     "@fullhuman/postcss-purgecss": "^7.0.2",
     "@oramacloud/client": "^2.1.4",
     "@playwright/test": "^1.58.2",
-    "apexcharts": "^5.5.0",
+    "apexcharts": "^5.6.0",
     "cli-real-favicon": "^0.0.9",
     "cross-env": "^10.1.0",
     "dwv": "0.36.0",
