@@ -1,0 +1,322 @@
+<script>
+  // Sliders
+  // TODO: limit input
+  window.addEventListener("load", () => {
+    // Age
+    $(function () {
+      const Slider = $("#ageSlider");
+      const Input = $("#age");
+      const min = 40;
+      const max = 69;
+      Slider.ionRangeSlider({
+        skin: "material",
+        min: min,
+        max: max,
+        postfix: " ans",
+        extra_classes: "flex-fill",
+      });
+      let sliderInstance = Slider.data("ionRangeSlider");
+      Input.on("input", function () {
+        let val = this.value;
+        // Validate Slider
+        if (val < min) {
+          val = min;
+        } else if (val > max) {
+          val = max;
+        }
+        sliderInstance.update({ from: val });
+      });
+    });
+    // SBP
+    $(function () {
+      const Slider = $("#sbpSlider");
+      const Input = $("#sbp");
+      const min = 100;
+      const max = 200;
+      Slider.ionRangeSlider({
+        skin: "material",
+        min: min,
+        max: max,
+        postfix: " mmHg",
+        extra_classes: "flex-fill",
+      });
+      let sliderInstance = Slider.data("ionRangeSlider");
+      Input.on("input", function () {
+        let val = this.value;
+        // Validate Slider
+        if (val < min) {
+          val = min;
+        } else if (val > max) {
+          val = max;
+        }
+        sliderInstance.update({ from: val });
+      });
+    });
+    // Cht
+    $(function () {
+      const Slider = $("#chtSlider");
+      const Input = $("#cht");
+      const min = 3;
+      const max = 9;
+      Slider.ionRangeSlider({
+        skin: "material",
+        min: min,
+        max: max,
+        step: 0.1,
+        postfix: " mmol/L",
+        extra_classes: "flex-fill",
+      });
+      let sliderInstance = Slider.data("ionRangeSlider");
+      Input.on("input", function () {
+        let val = this.value;
+        // Validate Slider
+        if (val < min) {
+          val = min;
+        } else if (val > max) {
+          val = max;
+        }
+        sliderInstance.update({ from: val });
+      });
+    });
+    // HDL
+    $(function () {
+      const Slider = $("#hdlSlider");
+      const Input = $("#hdl");
+      const min = 0.7;
+      const max = 2.5;
+      Slider.ionRangeSlider({
+        skin: "material",
+        min: min,
+        max: max,
+        step: 0.1,
+        postfix: " mmol/L",
+        extra_classes: "flex-fill",
+      });
+      let sliderInstance = Slider.data("ionRangeSlider");
+      Input.on("input", function () {
+        let val = this.value;
+        // Validate Slider
+        if (val < min) {
+          val = min;
+        } else if (val > max) {
+          val = max;
+        }
+        sliderInstance.update({ from: val });
+      });
+    });
+  });
+</script>
+<script>
+  // Ce script implémente le calcul du risque cardiovasculaire selon l'algorithme SCORE2
+  // pour les régions à faible risque.
+  // Source: SCORE2 risk prediction algorithms, ESC European Heart Journal, 2021.
+
+  document.addEventListener("DOMContentLoaded", function () {
+    const calculateBtn = document.getElementById("calculate-btn");
+    const form = document.getElementById("score-form");
+    const resultSection = document.getElementById("result-section");
+    const resultDisplay = document.getElementById("result-display");
+    const riskScoreEl = document.getElementById("risk-score");
+    const riskCategoryEl = document.getElementById("risk-category");
+    const riskDescriptionEl = document.getElementById("risk-description");
+    const errorSection = document.getElementById("error-section");
+    const errorMessageEl = document.getElementById("error-message");
+
+    // Coefficients SCORE2 pour les pays à faible risque (ex: France)
+    let coeffs = {
+      female: {
+        age: 0.4648,
+        smoker: 0.7744,
+        sbp: 0.3131,
+        tchol: 0.1002,
+        hdl: -0.2606,
+        smoker_age: -0.1088,
+        sbp_age: -0.0277,
+        tchol_age: -0.0226,
+        hdl_age: 0.0613,
+        basesurv: 0.9776,
+        scale1: -0.738,
+        scale2: 0.7019,
+      },
+      male: {
+        age: 0.3742,
+        smoker: 0.6012,
+        sbp: 0.2777,
+        tchol: 0.1458,
+        hdl: -0.2698,
+        smoker_age: -0.0755,
+        sbp_age: -0.0255,
+        tchol_age: -0.0281,
+        hdl_age: 0.0426,
+        basesurv: 0.9605,
+        scale1: -0.5699,
+        scale2: 0.7476,
+      },
+    };
+
+    calculateBtn.addEventListener("click", calculateScore);
+
+    function calculateScore() {
+      // Masquer les anciens résultats et erreurs
+      resultSection.classList.add("d-none");
+      errorSection.classList.add("d-none");
+
+      // Récupérer les valeurs du formulaire
+      // LDL-C = TC - HDL-C - (TG/2.2) in mmol/L
+      const gender = form.elements["gender"].value;
+      const age = parseFloat(form.elements["age"].value);
+      const isSmoker = parseInt(form.elements["smoker"].value);
+      const sbp = parseInt(form.elements["sbp"].value);
+      const tchol = parseFloat(form.elements["cht"].value);
+      const hdl = parseFloat(form.elements["hdl"].value);
+
+      // SCORE2-OP
+      if (age >= 70) {
+        coeffs = {
+          female: {
+            age: 0.0789,
+            smoker: 0.4921,
+            sbp: 0.0102,
+            tchol: 0.0605,
+            hdl: -0.304,
+            smoker_age: -0.0255,
+            sbp_age: -0.0004,
+            tchol_age: -0.0009,
+            hdl_age: 0.0154,
+            basesurv: 0.9776,
+            scale1: -0.738,
+            scale2: 0.7019,
+          },
+          male: {
+            age: 0.0634,
+            smoker: 0.3524,
+            sbp: 0.0094,
+            tchol: 0.085,
+            hdl: -0.3564,
+            smoker_age: -0.0247,
+            sbp_age: -0.0005,
+            tchol_age: -0.0073,
+            hdl_age: 0.0091,
+            basesurv: 0.9605,
+            scale1: -0.5699,
+            scale2: 0.7476,
+          },
+        };
+      }
+
+      const c = coeffs[gender];
+
+      // Calcul du prédicteur linéaire (LP)
+      const cage = (age - 60) / 5;
+      const csbp = (sbp - 120) / 20;
+      const ctchol = (tchol - 6).toPrecision(1);
+      const cthdl = ((hdl - 1.3) / 0.5).toPrecision(1);
+      console.log("cage: " + cage);
+      console.log("cage calc: " + cage * c.age);
+      console.log("csbp: " + csbp);
+      console.log("csbp calc: " + csbp * c.sbp);
+      console.log("ctchol: " + ctchol);
+      console.log("ctchol calc: " + ctchol * c.tchol);
+      console.log("cthdl: " + cthdl);
+      console.log("cthdl calc: " + cthdl * c.hdl);
+      console.log("smoker_age calc: " + -2 * c.smoker_age);
+      console.log("sbp_age calc: " + -2 * c.sbp_age);
+      console.log("tchol_age calc: " + -2 * 0.3 * c.tchol_age);
+      console.log("hdl_age calc: " + -2 * 0.2 * c.hdl_age);
+      const linearPredictor =
+        cage * c.age +
+        isSmoker * c.smoker +
+        csbp * c.sbp +
+        ctchol * c.tchol +
+        cthdl * c.hdl +
+        -2 * c.smoker_age +
+        -2 * c.sbp_age +
+        -2 * 0.3 * c.tchol_age +
+        -2 * 0.2 * c.hdl_age;
+      console.log("linearPredictor: " + linearPredictor);
+      // Calcul du risque à 10 ans non calibré
+      const uncalibrated_risk = 1 - c.basesurv ** Math.exp(linearPredictor);
+      console.log("uncalibrated: " + uncalibrated_risk);
+
+      // Calibration pays à bas risque
+      const calibrated_10y_risk =
+        1 -
+        Math.exp(
+          -Math.exp(
+            c.scale1 + c.scale2 * Math.log(-Math.log(1 - uncalibrated_risk)),
+          ),
+        );
+      console.log("calibrated: " + calibrated_10y_risk);
+
+      // Conversion en pourcentage
+      const riskPercent = (calibrated_10y_risk * 100).toFixed(1);
+
+      displayResult(riskPercent, age);
+    }
+
+    function displayResult(risk, age) {
+      let category = "";
+      let alertClass = "";
+
+      // Les seuils de risque varient avec l'âge selon les recommandations de l'ESC
+      let thresholds;
+      if (age <= 69) {
+        thresholds = { low: 2, moderate: 10, high: 20 };
+      } else if (age >= 70) {
+        thresholds = { low: 5, moderate: 10, high: 20 }; // TODO:
+      }
+
+      if (risk < thresholds.low) {
+        category =
+          '<span class="font-weight-bold">Risque cardiovasculaire faible</span> <br> LDL cible &lt; 1,16 g/L';
+        alertClass = "alert-success";
+        // if (LDL >= 1.16) {
+        category +=
+          " <hr> Mesures hygiéno-diététiques en cas de LDL ≥ 1,16 g/L.<br>Considérer une statine en cas de persistance.";
+        //}
+      } else if (risk < thresholds.moderate) {
+        category =
+          "Risque cardiovasculaire modéré <p> LCL cible &lt; 1 g/L </p>";
+        alertClass = "alert-warning";
+        // if (LDL >= 1) {
+        category +=
+          " <hr> Mesures hygiéno-diététiques en cas de LDL ≥ 1 g/L.<br> Considérer une statine en cas de persistance.";
+        //}
+      } else if (risk < thresholds.high) {
+        category =
+          "Risque cardiovasculaire élevé <br> LDL cible &lt; 0,7 g/L et réduction ≥ 50 % <br> Statine d’emblée si LDL ≥ 1 g/L";
+        alertClass = "alert-danger";
+        /* if (LDL >= 1) {
+                        category += '\n Statine d’emblée'
+                    } else if (LDL >= 0.7 ) {
+                     category += ' <hr> Mesures hygiéno-diététiques en cas de LDL de 0,7 à 0,99 g/L, considérer une statine en cas de persistance'
+                    }
+                    */
+      } else {
+        category =
+          "Risque cardiovasculaire très élevé <br> LDL cible &lt; 0,55 g/L et réduction ≥ 50 % <br> Statine systématique";
+        alertClass = "alert-danger";
+        /* if (LDL >= 1) {
+                        category += '\n Statine d’emblée'
+                    } else if (LDL >= 0.7 ) {
+                     category += ' <hr> Mesures hygiéno-diététiques en cas de LDL de 0,7 à 0,99 g/L, considérer une statine en cas de persistance'
+                    }
+                    */
+      }
+
+      riskScoreEl.textContent = `${Intl.NumberFormat("fr-FR").format(risk)} %`;
+      riskCategoryEl.innerHTML = category;
+      riskDescriptionEl.textContent = `Risque de développer une maladie cardiovasculaire fatale ou non fatale dans les 10 prochaines années.`;
+      // Mise à jour des classes de l'alerte
+      resultDisplay.className = "alert"; // Réinitialiser les classes
+      resultDisplay.classList.add(alertClass);
+
+      resultSection.classList.remove("d-none");
+    }
+
+    function showError(message) {
+      errorMessageEl.textContent = message;
+      errorSection.classList.remove("d-none");
+    }
+  });
+</script>
