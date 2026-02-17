@@ -21,39 +21,37 @@ imageSrc = ""
 todo = "descr > summary > liens > photo > newsletter > flow"
 datatable = false
 chart = true
+slider = true
 +++
 
 <!-- Formulaire de saisie -->
 <form id="score-form">
+  <div class="border rounded-lg p-3">
+  <h3 class="typography-headline-6">Terrain</h3>
   <!-- Sexe -->
-  <div class="form-group">
-    <label class="font-weight-bold text-secondary">Sexe</label>
-    <div class="btn-group btn-group-toggle shadow-none" data-toggle="buttons">
-      <label class="btn btn-outline-primary active">
-        <input type="radio" name="gender" value="female" checked>Femme
-      </label>
-      <label class="btn btn-outline-primary">
-        <input type="radio" name="gender" value="male">Homme
-      </label>
-    </div>
+  <div class="d-flex flex-wrap">
+  <div class="form-group mr-5">
+    <p class="typography-overline text-black-secondary mb-0">Sexe</p>
+    <input type="radio" id="score2-female" name="gender" class="d-none" value="female" checked>
+    <label for="score2-female" class="chip chip-action chip-choice">Femme</label>
+    <input type="radio" id="score2-male" name="gender" class="d-none" value="male" checked>
+    <label for="score2-male" class="chip chip-action chip-choice">Homme</label>
   </div>
     <!-- Fumeur -->
     <div class="form-group">
-      <label class="font-weight-bold text-secondary">Tabagisme</label>
-      <div class="btn-group btn-group-toggle" data-toggle="buttons">
-        <label class="btn btn-outline-primary active">
-          <input type="radio" name="smoker" value="0" autocomplete="off" checked>Non-fumeur
-        </label>
-        <label class="btn btn-outline-primary">
-          <input type="radio" name="smoker" value="1" autocomplete="off">Fumeur
-        </label>
-        </div>
+    <p class="typography-overline text-black-secondary mb-0">Tabagisme</p>
+    <input type="radio" id="score2-nosmoker" name="smoker" class="d-none" value="0" checked>
+    <label for="score2-nosmoker" class="chip chip-action chip-choice">Non-fumeur</label>
+    <input type="radio" id="score2-smoker" name="smoker" class="d-none" value="1" checked>
+    <label for="score2-smoker" class="chip chip-action chip-choice">Fumeur</label>
     </div>
-  <!-- Âge -->
-  <div class="form-group floating-label textfield-box form-ripple">
-    <label for="age">Âge (40+ ans)</label>
-    <input type="number" class="form-control" id="age" name="age" min="40" max="69" required oninvalid="setCustomValidity('Âge de 40 à 69 ans')" onchange="this.setCustomValidity('')">
+    </div>
+  <div class="d-flex align-items-center">
+    <input type="text" value="50" id="ageSlider" oninput="age.value = this.value">
+    <input type="number" class="form-alternative ml-3" id="age" value="50" min="40" max="69" required>
   </div>
+  </div>
+  <div class="border rounded-lg p-3">
   <!-- Pression Artérielle Systolique -->
   <div class="form-group floating-label textfield-box form-ripple">
     <label for="sbp">Pression artérielle systolique (mmHg)</label>
@@ -67,6 +65,7 @@ chart = true
     <label for="hdl">Cholestérol HDL (mmol/L)</label>
     <input type="number" class="form-control" id="hdl" name="hdl" min="0" step="0.1">
   </div>
+  </div>
   <!-- Bouton de calcul -->
   <button type="button" id="calculate-btn" class="btn btn-primary btn-lg btn-block my-4">
     Calculer le Risque à 10 ans
@@ -75,10 +74,10 @@ chart = true
                 <!-- Section des résultats -->
                 <div id="result-section" class="mt-4 text-center alert border rounded-xl d-none">
                     <div id="result-display" class="alert" role="alert">
-                        <p class="h1 font-weight-bold mb-1" id="risk-score"></p>
-                        <p class="h5 font-weight-bold" id="risk-category"></p>
+                        <p class="font-weight-bold mb-1" id="risk-score" style="font-size: 2rem"></p>
+                        <p class="h5" id="risk-category" style="font-size: 1.25 rem; line-height: 2rem"></p>
                         <hr>
-                        <p class="mb-0 small" id="risk-description"></p>
+                        <p class="mb-0 small" id="risk-description" style="color: var(--text-black-secondary)"></p>
                     </div>
                      <!-- Disclaimer -->
                 </div>
@@ -98,6 +97,31 @@ SCORE2-OP
 > -- SCORE2-OP working group and ESC Cardiovascular risk collaboration, SCORE2-OP risk prediction algorithms: estimating incident cardiovascular event risk in older persons in four geographical risk regions, European Heart Journal, Volume 42, Issue 25, 1 July 2021, Pages 2455–2467, https://doi.org/10.1093/eurheartj/ehab312
 > And supplementary data > Supplementary material_20210604_v2.docx > Supplementary Methods Table 3: Example calculations for the estimated CVD event risk for an individual patient using SCORE2-OP
 
+<script>
+  window.addEventListener('load', () => {
+  $(function () {
+    const Slider = $('#ageSlider');
+    const Input = $('#age');
+    const min = 40;
+    const max = 69;
+    Slider.ionRangeSlider({
+      skin: 'material',
+      min: min,
+      max: max,
+      postfix: ' ans',
+      extra_classes: 'flex-fill'
+    });
+    let sliderInstance = Slider.data('ionRangeSlider');
+    Input.on('input', function() {
+        let val = this.value;
+        // Validate Slider
+        if (val < min) { val = min }
+        else if (val > max) { val = max }
+        sliderInstance.update({ from: val });
+    });
+  });
+  });
+</script>
 <script>
   // Ce script implémente le calcul du risque cardiovasculaire selon l'algorithme SCORE2
   // pour les régions à faible risque.
@@ -207,33 +231,33 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
 
                 if (risk < thresholds.low) {
-                    category = 'Risque CV faible <br> LDL cible &lt; 1,16 g/L';
+                    category = '<span class="font-weight-bold">Risque cardiovasculaire faible</span> <br> LDL cible &lt; 1,16 g/L';
                     alertClass = 'alert-success';
                     // if (LDL >= 1.16) {
-                        category += '\n Mesures hygiéno-diététiques en cas de LDL ≥ 1,16 g/L<br>Considérer une statine en cas de persistance'
+                        category += ' <hr> Mesures hygiéno-diététiques en cas de LDL ≥ 1,16 g/L.<br>Considérer une statine en cas de persistance.'
                     //}
                 } else if (risk < thresholds.moderate) {
-                    category = 'Risque CV modéré <p> LCL cible &lt; 1 g/L </p>';
+                    category = 'Risque cardiovasculaire modéré <p> LCL cible &lt; 1 g/L </p>';
                     alertClass = 'alert-warning';
                     // if (LDL >= 1) {
-                        category += '\n Mesures hygiéno-diététiques en cas de LDL ≥ 1 g/L, considérer une statine en cas de persistance'
+                        category += ' <hr> Mesures hygiéno-diététiques en cas de LDL ≥ 1 g/L.<br> Considérer une statine en cas de persistance.'
                     //}
                 } else if (risk < thresholds.high) {
-                    category = 'Risque CV élevé <br> LDL cible &lt; 0,7 g/L et réduction ≥ 50 % <br> Statine d’emblée si LDL ≥ 1 g/L';
+                    category = 'Risque cardiovasculaire élevé <br> LDL cible &lt; 0,7 g/L et réduction ≥ 50 % <br> Statine d’emblée si LDL ≥ 1 g/L';
                     alertClass = 'alert-danger';
                     /* if (LDL >= 1) {
                         category += '\n Statine d’emblée'
                     } else if (LDL >= 0.7 ) {
-                     category += '\n Mesures hygiéno-diététiques en cas de LDL de 0,7 à 0,99 g/L, considérer une statine en cas de persistance'
+                     category += ' <hr> Mesures hygiéno-diététiques en cas de LDL de 0,7 à 0,99 g/L, considérer une statine en cas de persistance'
                     }
                     */
                 } else {
-                    category = 'Risque CV très élevé <br> LDL cible &lt; 0,55 g/L et réduction ≥ 50 % <br> Statine systématique';
+                    category = 'Risque cardiovasculaire très élevé <br> LDL cible &lt; 0,55 g/L et réduction ≥ 50 % <br> Statine systématique';
                     alertClass = 'alert-danger';
                     /* if (LDL >= 1) {
                         category += '\n Statine d’emblée'
                     } else if (LDL >= 0.7 ) {
-                     category += '\n Mesures hygiéno-diététiques en cas de LDL de 0,7 à 0,99 g/L, considérer une statine en cas de persistance'
+                     category += ' <hr> Mesures hygiéno-diététiques en cas de LDL de 0,7 à 0,99 g/L, considérer une statine en cas de persistance'
                     }
                     */
                 }
@@ -406,7 +430,7 @@ En cas de gêne respiratoire, de toux ou de sifflements, inhaler dès le début 
         const radioPlus12 = document.getElementById('plus12');
         const sectionMoins12 = document.getElementById('sectionMoins12');
         const sectionPlus12 = document.getElementById('sectionPlus12');
-        const poidsInput = document.getElementById('poidsInput');
+        //const poidsInput = document.getElementById('poidsInput');
         //const resultatDose = document.getElementById('resultatDose');
         const textsDose = document.querySelectorAll('.text-dose');
         const textsPredniDose = document.querySelectorAll('.text-predni-dose');
@@ -415,7 +439,7 @@ En cas de gêne respiratoire, de toux ou de sifflements, inhaler dès le début 
             if (this.checked) {
                 sectionMoins12.style.display = 'block';
                 sectionPlus12.style.display = 'none';
-                poidsInput.value = ''; // Réinitialiser le champ poids
+                //poidsInput.value = ''; // Réinitialiser le champ poids
                 //resultatDose.textContent = 'En attente du poids...';
             }
         });
@@ -426,7 +450,7 @@ En cas de gêne respiratoire, de toux ou de sifflements, inhaler dès le début 
             }
         });
         // Ajout d'un écouteur d'événement sur le champ de saisie du poids
-        poidsInput.addEventListener('input', function() {
+        /*poidsInput.addEventListener('input', function() {
             const poids = parseFloat(this.value);
             if (poids > 0) {
                 // Calcul de la dose : 1 bouffée / 2kg
@@ -447,5 +471,5 @@ En cas de gêne respiratoire, de toux ou de sifflements, inhaler dès le début 
             } else {
                 //resultatDose.textContent = 'Veuillez entrer un poids valide.';
             }
-        });
+        });*/
     </script>
