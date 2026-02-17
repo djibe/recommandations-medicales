@@ -233,7 +233,7 @@ Le suivi de l'artérite à cellules géantes est pluridisciplinaire:
 - Suivi spécialisé tous les 3-6 mois: rhumatologue, interniste et ophtalmologique
 - Clinique
   - Pression artérielle, céphalées, symptômes, palpation des tempes
-  - Claudication, pouls, risque cardiovasculaire {{< scores/heartscore >}}
+  - Claudication, pouls, risque cardiovasculaire [SCORE2]({{% relref "score2.md" %}})
   - Poids, taille, IMC, œdèmes, crampes, troubles de l'humeur, douleurs vertébrales
 - Biologique: CRP (mensuelle, normalisation sous 3 semaines), fibrinogène (mensuel), créatininémie, glycémie à jeun, bilan lipidique
 - Cardiologique: annuel avec échocardiographie

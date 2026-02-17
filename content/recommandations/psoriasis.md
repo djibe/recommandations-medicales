@@ -163,7 +163,7 @@ Le diagnostic de psoriasis est **clinique**. En cas de doute diagnostique, adres
 
 ### Bilan d'un psoriasis
 
-- Évaluation du risque cardiovasculaire {{< scores/heartscore >}}
+- Évaluation du risque cardiovasculaire ([SCORE2]({{% relref "score2.md" %}}) en prévention primaire)
 - Créatinine et DFG
 - Bilan lipidique et glycémie à jeun
 - [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (*ESsCD*)

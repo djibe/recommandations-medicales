@@ -219,7 +219,7 @@ Recherche d'un syndrome inflammatoire biologique:
 - CRP  
   {{%class%}}Syndrome inflammatoire modeste (60 % des cas).{{%/class%}}
 - Bilan cardiovasculaire  
-  Glycémie à jeun, bilan lipidique pour calcul du {{< scores/heartscore >}}.
+  Glycémie à jeun, bilan lipidique.
 
 ### Radiographies
 
@@ -365,7 +365,7 @@ Une amélioration doit être obtenue à 3 mois pour poursuivre une stratégie, a
   - Digestif: MICI
   - Ophtalmo: uvéite
 - Tolérance des traitements
-- Surveillance du risque cardio-vasculaire
+- Surveillance du risque cardio-vasculaire ([SCORE2]({{% relref "score2.md" %}}) en prévention primaire)
 - Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 ### Autres

@@ -414,7 +414,7 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 ### VIH et suivi cardiovasculaire
 
 - Le VIH est un *facteur de risque cardiovasculaire*  
-Évaluation {{< scores/heartscore >}} et pression artérielle contrôlés 1/an.
+  Évaluation du [SCORE2]({{% relref "score2.md" %}}) et pression artérielle contrôlés 1/an.
 - Si maladie cardiovasculaire: risque très élevé
 - Bilan lipidique
   - Contrôlé tous les 5 ans  

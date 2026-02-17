@@ -158,7 +158,7 @@ Toute suspicion clinique de fibrillation atriale doit être confirmée au plus t
   HTA, diabète, insuffisance cardiaque, coronaropathie, valvulopathie, insuffisance rénale, obésité, maladie respiratoire.
 - Complications  
   AVC, insuffisance cardiaque.
-- {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}} ± {{< scores/heartscore >}}
+- {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}} ([SCORE2]({{% relref "score2.md" %}}) en prévention primaire)
 - Épisode aigu récent  
   Fièvre, infection, manque de sommeil, réaction vagale, chirurgie, infarctus, péricardite.
 - Tabac, [alcool]({{% relref "sevrage-alcool.md" %}}), toxiques

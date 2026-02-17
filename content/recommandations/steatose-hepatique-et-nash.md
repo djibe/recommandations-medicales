@@ -201,7 +201,7 @@ Les glitazones (non disponibles en France) et les {{< modal-btn modal-glp1 >}}an
 - Perte de poids de 10%
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - Activité physique quotidienne
-- Évaluer le {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} (calcul du {{< scores/heartscore >}})
+- Évaluer le {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} (calcul du [SCORE2]({{% relref "score2.md" %}}) en prévention primaire)
 - Dépister des {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}} ({{< modal-btn modal-saos-diabete >}}dépistage si diabète{{< /modal-btn >}})
 
 Le suivi est réalisé avec les méthodes non invasives selon le niveau de fibrose hépatique:

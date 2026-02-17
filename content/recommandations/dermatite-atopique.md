@@ -125,7 +125,7 @@ Le diagnostic de dermatite atopique est clinique:
 - Facteurs favorisants  
   Irritants: savon, détergents, tissus rêches, chaleur, sueur, air sec.
 - Qualité de vie
-- Adulte: évaluation du risque cardiovasculaire {{< scores/heartscore >}}
+- Adulte: évaluation du risque cardiovasculaire [SCORE2]({{% relref "score2.md" %}})
 
 **NB.** Les vésicules ne sont qu'exceptionnellement visibles macroscopiquement.
 

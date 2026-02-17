@@ -212,7 +212,7 @@ TCA
 - Répartition androïde ou gynoïde des graisses
 - Pression artérielle avec brassard adapté, fréquence et rythme cardiaque
 - Palpation thyroïdienne
-- Évaluation du risque cardiovasculaire: {{< scores/heartscore >}}
+- Évaluation du risque cardiovasculaire: [SCORE2]({{% relref "score2.md" %}}) en prévention primaire
 - Rhumatologique: rachis, genoux, pieds
 - Cutané: [intertrigo]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
 - [Dénutrition]({{% relref "denutrition.md" %}}) et sarcopénie
@@ -263,7 +263,7 @@ Complications à dépister chez un adulte en obésité.
 | [Maladie rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}}) | Créatininémie, DFG et <abbr title="Rapport albuminurie/créatininurie">RAC</abbr> min. tous les 3 ans | HAS 2023 |
 | Micronutriments                 | Dosage si: chirurgie bariatrique, amaigrissement massif, symptômes carentiels            | HAS 2022            |
 | Podologique                     | Haut risque d'atteinte podologique                                                       | HAS 2020            |
-| Risque cardiovasculaire         | {{< scores/heartscore >}} tous les 5 ans à partir de 40 ans (sauf {{< modal-btn modal-rcv >}}maladie CV, diabète{{< /modal-btn >}}) ou LIFE-CVD avant | ESC 2021 |
+| Risque cardiovasculaire         | [SCORE2]({{% relref "score2.md" %}}) tous les 5 ans à partir de 40 ans (sauf {{< modal-btn modal-rcv >}}maladie CV, diabète{{< /modal-btn >}}) ou LIFE-CVD avant | ESC 2021 |
 | [Stéatopathie métabolique]({{% relref "steatose-hepatique-et-nash.md" %}}) | Suspecter si cytolyse, [hyperferritinémie]({{% relref "hyperferritinemie.md" %}}) ou insulinorésistance<br>et dépister par échographie abdominale ou [score FLI](https://www.mdcalc.com/calc/10001/fatty-liver-index) tous les 3-5 ans | HAS 2022 |
 | [Syndrome d'apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) | Polygraphie si IMC ≥ 35 ou {{< modal-btn modal-saos >}}signes évocateurs{{< /modal-btn >}} | HAS 2023          |
 | [Vaccin grippe]({{% relref "grippe.md" %}}) | Annuel si IMC ≥ 40 ou +65 ans                                                            | Calendrier 2023     |

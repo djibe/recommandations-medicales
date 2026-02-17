@@ -188,7 +188,7 @@ Examen clinique annuel en cas de dysfonction érectile avec:
   Testicules (taille, consistance), pénis (**mycose**, **phimosis**, prépuce, frein, , déformation, taille), toucher rectal après 50 ans, gynécomastie  
 - Cardiovasculaire  
   - Pression artérielle, pouls périphériques, souffles vasculaires
-  - Évaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ou {{< scores/heartscore >}} en prévention primaire
+  - Évaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ([SCORE2]({{% relref "score2.md" %}}) en prévention primaire)
   - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 - Neurologique  
   Centré sur les réflexes, sensibilité des pieds, anesthésie en selle et des membres inférieurs, [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}).

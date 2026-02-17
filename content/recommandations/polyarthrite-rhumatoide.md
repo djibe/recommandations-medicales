@@ -196,7 +196,7 @@ La décision du traitement dépend du rhumatologue, partagée avec le patient. L
 - **Suivi bucco-dentaire rigoureux**
 - Correction des facteurs de risque cardiovasculaire
   - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
-  - Risque cardiovasculaire: {{< scores/heartscore >}}  
+  - Risque cardiovasculaire: [SCORE2]({{% relref "score2.md" %}}) en prévention primaire  
     Multiplier le risque par 1,5 (*ESC 2021*). Évaluation au moins tous les 5 ans.
   - Hypertension artérielle: privilégier IEC/ARA2 ou anticalcique
   - Activité physique régulière
@@ -314,7 +314,7 @@ Infiltrations ciblées des articulations douloureuses.
   CRP, BU.
 - Radiographies  
   Mains et pieds à 6 mois et 1 an, puis ≥ 1/an pendant 3 à 5 ans.
-- Facteurs de risque et calcul du risque cardiovasculaire {{< scores/heartscore >}} (x 1,5)
+- Facteurs de risque et calcul du risque cardiovasculaire ([SCORE2]({{% relref "score2.md" %}}) x 1,5)
 - Suivi dentaire
 - Dépression
 

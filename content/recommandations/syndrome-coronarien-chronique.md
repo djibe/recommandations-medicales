@@ -145,7 +145,7 @@ SCC
   - Valvulopathie
   - Autres organes: maladie rénale, pulmonaire
 
-Chez le +40 ans asymptomatique sans sténose à l'imagerie: calcul du {{< scores/heartscore >}} en l'absence de maladie cardiovasculaire, diabète, insuffisance rénale ou hypercholestérolémie familiale (sinon définir la classe de {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}}).
+Chez le +40 ans asymptomatique sans sténose à l'imagerie: définir le {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}}) ([SCORE2]({{% relref "score2.md" %}}) en prévention primaire).
 {.alert .alert-info}
 
 {{% /collapse %}}

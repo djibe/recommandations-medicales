@@ -258,7 +258,7 @@ Parcours synthétisé par les anglo-saxons en 5A pour chaque consultation:
 - Antécédents  
   Cancer, [migraine]({{% relref "migraine.md" %}}), cardiovasculaires, respiratoires et signes évocateurs.
 - Risque cardiovasculaire  
-  {{< modal-btn modal-rcv >}}Prévention secondaire{{< /modal-btn >}} ou primaire ({{< scores/heartscore >}})
+  {{< modal-btn modal-rcv >}}Prévention secondaire{{< /modal-btn >}} ou primaire ([SCORE2]({{% relref "score2.md" %}}))
 - Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
 
 Informer sur les **signes de sevrage** en nicotine: troubles de l'humeur, insomnie, irritabilité, frustration, colère, anxiété, difficultés de concentration, augmentation de l'appétit, fébrilité.

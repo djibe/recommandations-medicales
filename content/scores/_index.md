@@ -18,10 +18,10 @@ HTA: [carnet d'automesure tensionnelle à imprimer](https://www.stridebp.org/wp-
 
 - ACFA: {{< modal-btn modal-chadsva >}}score CHA~2~DS~2~-VA{{< /modal-btn >}}
 - AOMI: {{< modal-btn modal-depistage-prevalent >}}critères de dépistage chez le +55 ans{{< /modal-btn >}}
-- Apnées du sommeil: {{< modal-btn modal-saos >}}critères de dépistage{{< /modal-btn >}}
-- Phlébite: {{< modal-btn modal-tvp >}}Score de Wells, Constans et LEFt pour la grossesse{{< /modal-btn >}}
+- Apnées du sommeil: {{< modal-btn modal-saos >}}STOP-BANG{{< /modal-btn >}}
+- Phlébite: {{< modal-btn modal-tvp >}}scores de Wells, Constans et LEFt pour la grossesse{{< /modal-btn >}}
 - Risque cardiovasculaire
-  - Calcul du {{< scores/heartscore >}}
+  - ==[Calcul du SCORE2]({{% relref "score2.md" %}})==
   - {{< modal-btn modal-rcv >}}Risque cardiovasculaire ESC et LDL cible{{< /modal-btn >}}
   - {{< modal-btn modal-statine-intensite >}}Puissance des statines{{< /modal-btn >}}
 - {{< modal-btn score-nyha >}}Score NYHA{{< /modal-btn >}}

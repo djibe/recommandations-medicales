@@ -254,7 +254,7 @@ Suivi à vie de la femme atteinte d'insuffisance ovarienne prématurée du fait 
   Seins, gynécologique, syndrome climatérique, tabac, poids, pression artérielle, signes d'insuffisance surrénale.
 - Psychologique
 - Avec accord de la patiente: syndrome génito-urinaire (œstrogène vaginal), activité sexuelle (testostérone transdermique possible)
-- Calcul du risque cardiovasculaire {{< scores/heartscore >}} voire suivi cardiologique
+- Calcul du risque cardiovasculaire ([SCORE2]({{% relref "score2.md" %}}) en prévention primaire) voire suivi cardiologique
 - Biologie: TSH tous les 5 ans
 - Ostéodensitométrie tous les 5 ans (1-3 si valeurs limites)
 

@@ -200,7 +200,7 @@ Pas de dépistage systématique du cancer du pancréas (prévalence 5 à 10%) ma
 
 Le suivi de la pancréatite chronique est au moins annuel (*BSG*):
 
-- **Clinique:** toxiques, douleurs, stéatorrhée, poids, risque cardiovasculaire {{< scores/heartscore >}} ± dépistage de la BPCO
+- **Clinique:** toxiques, douleurs, stéatorrhée, poids, risque cardiovasculaire (ou [SCORE2]({{% relref "score2.md" %}}) en prévention primaire) ± dépistage de la BPCO
 - **Biologique:** glycémie à jeun (HbA1c selon *BSG*), albumine, calcium, phosphore, magnésium, vitamines D et E (mesure "périodique"), élastase fécale
 - **Radiologique:** scanner si perte de poids, modifications du bilan ou des douleurs, diabète, vomissements ou annuel en cas d'origine génétique
 - **Spécialisé:** rythme du suivi avec le gastro-entérologue

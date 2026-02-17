@@ -25,7 +25,7 @@ todo = "photo"
 
 - Comparaison de l'intensité des différentes statines pour la réduction du LDL (voir *Intensité*)  
   Pour une baisse du LDL cholestérol supérieure à 50%: statine de haute intensité atorvastatine 40 ou rosuvastatine 20 mg ou plus.
-- La cible de LDL dépend de la présence d'une maladie cardiovasculaire ou du {{< scores/heartscore >}} en prévention primaire
+- La cible de LDL dépend de la présence d'une maladie cardiovasculaire ou du [SCORE2]({{% relref "score2.md" %}}) en prévention primaire
 - Statines et effets indésirables: 90 % des myalgies sont attribuables à un effet nocebo; elles surviennent la première année (sauf statine de haute intensité). Ne pas prendre de pamplemousse
 - L'arrêt d'une statine entraîne une surmortalité cardiovasculaire de 20%
 - Préparer une grossesse: le plus souvent interrompre le traitement, voire demander une [expertise au CRAT](https://www.lecrat.fr/contact-2/) pour les cas sévères
@@ -54,15 +54,15 @@ L'[évaluation chez la personne avec un diabète]({{% relref "diabete-type-2.md"
 
 ### Statine en prévention primaire
 
-Selon la *ESC 2021*, la cible de LDL est définie selon le {{< scores/heartscore >}} à partir de 40 ans ({{< scores/score2-diabetes >}} en cas de diabète) ...  
+Selon la *ESC 2025*, la cible de LDL est définie selon le [SCORE2]({{% relref "score2.md" %}}) à partir de 40 ans en cas de facteur de risque ({{< scores/score2-diabetes >}} en cas de diabète) ...  
 en l'absence de maladie cardiovasculaire, de comorbidité ([diabète](/tags/diabete/), hypercholestérolémie familiale, [maladie rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})) ou de [grossesse]({{% relref "grossesse.md" %}}).
 
-Toutefois la ESC appelle à un **LDL inférieur à 1 g/L** pour tous à tous les âges.
+Toutefois la ESC appelle à un **LDL inférieur à 1,16 g/L** pour tous à tous les âges.
 
 Selon l'avis indépendant de la *USPTF 2022*, une statine est recommandée pour si tous les critères suivant sont remplis:
 
 - Adulte de 40 à 75 ans
-- Risque cardiovasculaire à 10 ans ≥ 10 % (calcul du {{< scores/heartscore >}})  
+- Risque cardiovasculaire à 10 ans ≥ 10 % (calcul du [SCORE2]({{% relref "score2.md" %}}))  
   Pour certains patients si risque compris de 7,5 à 9,9 %.
 - Avec ≥ 1 autre facteur de risque cardiovasculaire: dyslipidémie, [diabète](/tags/diabete/), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [tabagisme]({{% relref "arret-tabac.md" %}})
 

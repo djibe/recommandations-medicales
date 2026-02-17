@@ -246,7 +246,7 @@ Tabagisme, âge +35 ans, dyspnée persistante et progressive, décrite comme né
 - Poids et variations, taille, IMC
 - Auscultation pulmonaire  
   Sibilants, tirage, cyanose.
-- Calcul du risque cardiovasculaire: {{< scores/heartscore >}}
+- Calcul du risque cardiovasculaire: [SCORE2]({{% relref "score2.md" %}})
 - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 - Rechercher une [mycose buccale]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
 

@@ -28,7 +28,7 @@ flowchart = true
 - Dépister l'hypertension artérielle dès 3 ans, au moins tous les 3 ans après 40 ans (annuellement selon la *USPTF*, 1/3 des adultes sont hypertendus et les 3/4 ne sont pas contrôlés)
 - Mesurer la pression artérielle de façon standardisée avec un tensiomètre validé (voir *Mesure au cabinet* et [tensiomètres validés]({{% relref "tensiometres-electroniques-valides.md" %}}))
 - Confirmer le diagnostic par mesures et automesures ou MAPA répétées, conserver le grade et le stade d'hypertension au diagnostic
-- Rechercher des complications et calculer le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} {{< scores/heartscore >}} en prévention primaire pour déterminer le LDL cible
+- Rechercher des complications et calculer le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} ([SCORE2]({{% relref "score2.md" %}}) en prévention primaire) pour déterminer la cible de LDL cholestérol
 - Traitement selon le grade d'hypertension (voir *Définitions*) et mesures hygiéno-diététiques systématiques
 - Les cibles tensionnelles dépendent du profil (120-129 / 70-79 mmHg avant 80 ans) et ne sont valables que pour les mesures de tension au cabinet
 - Objectif d'un seul comprimé antihypertenseur combiné et informer sur les conséquences d'une hypertension non traitée ([accidents cardiovasculaires](/tags/risque-cardiovasculaire/), démence)
@@ -488,7 +488,7 @@ graph TB
     - Échodoppler des artères rénales si atteinte rénale ou suspicion d'HTA secondaire
     - IRM cérébrale si déclin cognitif, antécédent familial d'hémorragie cérébrale à l'âge moyen ou de démence précoce
 4. Définir le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}}.  
-  En l'absence de maladie cardiovasculaire, calculer le risque {{< scores/heartscore >}}.
+  En l'absence de maladie cardiovasculaire, calculer le risque [SCORE2]({{% relref "score2.md" %}}).
 5. Adresser au service d'hypertension si: suspicion d'HTA secondaire (voir *Clinique*) ou résistante, bilan des complications
 
 {{% /collapse %}}
