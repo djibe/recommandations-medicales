@@ -312,7 +312,7 @@
       console.log("calibrated: " + calibrated_10y_risk);
 
       // Conversion en pourcentage
-      const riskPercent = (calibrated_10y_risk * 100).toPrecision(2);
+      const riskPercent = (calibrated_10y_risk * 100).toFixed(0);
 
       displayResult(riskPercent, age);
     }
