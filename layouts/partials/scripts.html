@@ -275,27 +275,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
     {{ $searchModule := resources.Get "/js/orama.mjs" | minify | fingerprint "sha384" }}
     // document.getElementById('btn-search-modal').addEventListener('click', () => import('{{ $searchModule.Permalink }}'))
 
-    // Newsletter: Mailjet
-    const btnNewsletter = document.getElementById('btn-newsletter');
-    btnNewsletter.addEventListener( 'click', () => {
-      const script = document.createElement('script');
-      script.src = 'https://app.mailjet.com/pas-nc-embedded-v1.js';
-      document.head.appendChild(script);
-      // Construct iframe
-      const container = document.getElementById('modal-newsletter-content');
-      const iframe = document.createElement('iframe');
-      iframe.src = 'https://1w31x.mjt.lu/wgt/1w31x/02w7/form?c=e4ed4583';
-      iframe.width = '100%';
-      iframe.scrolling = 'no';
-      iframe.frameBorder = '0';
-      iframe.marginHeight = '0';
-      iframe.marginWidth = '0';
-      iframe.setAttribute('data-w-type', 'embedded');
-      iframe.style.height = '600px';
-      container.appendChild(iframe);
-    });
-    $('#modal-newsletter').on('hidden.bs.modal', () => document.getElementById('modal-newsletter-content').innerHTML = '')
-
+    // Print
     document.getElementById('btn-print')?.addEventListener('click', () => {
       const iframe = document.createElement('iframe');
       const divElements = document.getElementById('divPrint').innerHTML;
