@@ -1,6 +1,6 @@
 <script>
   // Sliders
-  // TODO: rouning issues, limit input, g/L
+  // TODO: rounding issues, limit input, g/L
   window.addEventListener("load", () => {
     // Age
     $(function () {
@@ -312,7 +312,7 @@
       console.log("calibrated: " + calibrated_10y_risk);
 
       // Conversion en pourcentage
-      const riskPercent = (calibrated_10y_risk * 100).toPrecision(3);
+      const riskPercent = (calibrated_10y_risk * 100).toPrecision(2);
 
       displayResult(riskPercent, age);
     }
