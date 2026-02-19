@@ -11,15 +11,21 @@ specialites = ["cardiologie"]
 tags = ["risque cardiovasculaire"]
 sctid = ""
 slider = true
-todo = "autres facteurs"
+todo = "autres facteurs, Diabetes, limits, maladies cardiovasculaires"
 +++
 
 Le SCORE2 (Systematic Coronary Risk Estimation version 2) est le score de référence de la Société européenne de cardiologie (*ESC 2025*) pour l'estimation à 10 ans du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} fatal ou non fatal ==en prévention primaire==.
 {.lead .line-height .mb-5}
 
-Le **SCORE2** peut être calculé de 40 à 69 ans (appelé **SCORE2-OP** de 70 à 89 ans), en l'absence de toute maladie cardiovasculaire. Il est ici calibré pour l'utilisation en France et dans les pays à plus faible risque cardiovasculaire.
+Le **SCORE2** peut être calculé de 40 à 69 ans (appelé **SCORE2-OP** de 70 à 89 ans), en l'absence de toute maladie cardiovasculaire (ou d'hypertension secondaire). Il est ici calibré pour l'utilisation en **France** et dans les pays européens à plus faible risque cardiovasculaire.
 
-Son utilisation est recommandée en cas de présence de facteur de risque cardiovasculaire (dyslipidémie, hypertension artérielle, tabagisme ...) et devrait être répété, par exemple tous les 5 ans (*ESC 2021*).
+Son utilisation est **recommandée en cas de présence de facteur de risque cardiovasculaire** (dyslipidémie, hypertension artérielle, tabagisme, hérédité cardiovasculaire, obésité ...) et devrait être répété, par exemple tous les 5 ans (*ESC 2021*).
+
+Le calcul SCORE2 pourrait également être **considéré** dès 40 ans chez l'homme ou 50 ans chez la femme, ou dès la ménopause (*ESC 2021*).
+
+À partir de 70 ans, une statine pourrait être considérée en prévention primaire chez le sujet en bonne santé apparente (*ESC 2021*).
+
+> **SCORE2-OP** = Systematic Coronary Risk Estimation 2-Older Persons
 
 {{< scores/score2 >}}
 

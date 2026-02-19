@@ -7,7 +7,7 @@
       const Slider = $("#ageSlider");
       const Input = $("#age");
       const min = 40;
-      const max = 89;
+      const max = 69;
       Slider.ionRangeSlider({
         skin: "material",
         min: min,
@@ -326,7 +326,7 @@
       if (age <= 69) {
         thresholds = { low: 2, moderate: 10, high: 20 };
       } else if (age >= 70) {
-        thresholds = { low: 5, moderate: 10, high: 20 }; // TODO:
+        thresholds = { low: 7.5, moderate: 15, high: 20 }; // TODO:
       }
 
       if (risk < thresholds.low) {
