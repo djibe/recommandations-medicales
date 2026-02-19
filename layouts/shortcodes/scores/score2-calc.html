@@ -1,13 +1,13 @@
 <script>
   // Sliders
-  // TODO: limit input
+  // TODO: rouning issues, limit input, g/L
   window.addEventListener("load", () => {
     // Age
     $(function () {
       const Slider = $("#ageSlider");
       const Input = $("#age");
       const min = 40;
-      const max = 69;
+      const max = 89;
       Slider.ionRangeSlider({
         skin: "material",
         min: min,
@@ -122,38 +122,6 @@
     const errorSection = document.getElementById("error-section");
     const errorMessageEl = document.getElementById("error-message");
 
-    // Coefficients SCORE2 pour les pays à faible risque (ex: France)
-    let coeffs = {
-      female: {
-        age: 0.4648,
-        smoker: 0.7744,
-        sbp: 0.3131,
-        tchol: 0.1002,
-        hdl: -0.2606,
-        smoker_age: -0.1088,
-        sbp_age: -0.0277,
-        tchol_age: -0.0226,
-        hdl_age: 0.0613,
-        basesurv: 0.9776,
-        scale1: -0.738,
-        scale2: 0.7019,
-      },
-      male: {
-        age: 0.3742,
-        smoker: 0.6012,
-        sbp: 0.2777,
-        tchol: 0.1458,
-        hdl: -0.2698,
-        smoker_age: -0.0755,
-        sbp_age: -0.0255,
-        tchol_age: -0.0281,
-        hdl_age: 0.0426,
-        basesurv: 0.9605,
-        scale1: -0.5699,
-        scale2: 0.7476,
-      },
-    };
-
     calculateBtn.addEventListener("click", calculateScore);
 
     function calculateScore() {
@@ -168,88 +136,183 @@
       const isSmoker = parseInt(form.elements["smoker"].value);
       const sbp = parseInt(form.elements["sbp"].value);
       const tchol = parseFloat(form.elements["cht"].value);
-      const hdl = parseFloat(form.elements["hdl"].value);
+      const thdl = parseFloat(form.elements["hdl"].value);
 
+      // Coefficients SCORE2 pour les pays à faible risque (ex: France)
+    let coeffs;
+
+    if (age < 70) {
+      coeffs = {
+      female: {
+        age: 0.4648,
+        smoker: 0.7744,
+        sbp: 0.3131,
+        tchol: 0.1002,
+        thdl: -0.2606,
+        smoker_age: -0.1088,
+        sbp_age: -0.0277,
+        tchol_age: -0.0226,
+        thdl_age: 0.0613,
+        basesurv: 0.9776,
+        scale1: -0.738,
+        scale2: 0.7019,
+      },
+      male: {
+        age: 0.3742,
+        smoker: 0.6012,
+        sbp: 0.2777,
+        tchol: 0.1458,
+        thdl: -0.2698,
+        smoker_age: -0.0755,
+        sbp_age: -0.0255,
+        tchol_age: -0.0281,
+        thdl_age: 0.0426,
+        basesurv: 0.9605,
+        scale1: -0.5699,
+        scale2: 0.7476,
+      }
+    }
+    } else {
       // SCORE2-OP
-      if (age >= 70) {
         coeffs = {
           female: {
             age: 0.0789,
             smoker: 0.4921,
             sbp: 0.0102,
             tchol: 0.0605,
-            hdl: -0.304,
+            thdl: -0.304,
             smoker_age: -0.0255,
             sbp_age: -0.0004,
             tchol_age: -0.0009,
-            hdl_age: 0.0154,
-            basesurv: 0.9776,
-            scale1: -0.738,
-            scale2: 0.7019,
+            thdl_age: 0.0154,
+            basesurv: 0.8082,
+            meanLP: 0.229,
+            scale1: -0.85,
+            scale2: 0.82,
           },
           male: {
             age: 0.0634,
             smoker: 0.3524,
             sbp: 0.0094,
             tchol: 0.085,
-            hdl: -0.3564,
+            thdl: -0.3564,
             smoker_age: -0.0247,
             sbp_age: -0.0005,
             tchol_age: -0.0073,
-            hdl_age: 0.0091,
-            basesurv: 0.9605,
-            scale1: -0.5699,
-            scale2: 0.7476,
+            thdl_age: 0.0091,
+            basesurv: 0.7576,
+            meanLP: 0.093,
+            scale1: -0.61,
+            scale2: 0.89,
           },
         };
       }
 
-      const c = coeffs[gender];
+      let c = coeffs[gender];
+      let cage;
+      let csbp;
+      let ctchol;
+      let cthdl;
+      let csmoker_age;
+      let csbp_age;
+      let ctchol_age;
+      let cthdl_age;
 
       // Calcul du prédicteur linéaire (LP)
-      const cage = (age - 60) / 5;
-      const csbp = (sbp - 120) / 20;
-      const ctchol = (tchol - 6).toPrecision(1);
-      const cthdl = ((hdl - 1.3) / 0.5).toPrecision(1);
+      if (age < 70) {
+        cage = (age - 60) / 5;
+        csbp = (sbp - 120) / 20;
+        ctchol = tchol - 6;
+        cthdl = (thdl - 1.3) / 0.5;
+        csmoker_age = cage * isSmoker;
+        csbp_age = cage * csbp;
+        ctchol_age = cage * ctchol;
+        cthdl_age = cage * cthdl;
+      } else {
+        cage = age - 73;
+        csbp = sbp - 150;
+        ctchol = tchol - 6;
+        cthdl = thdl - 1.4;
+        csmoker_age = cage * isSmoker;
+        csbp_age = cage * csbp;
+        ctchol_age = cage * ctchol;
+        cthdl_age = cage * cthdl;
+      }
+
+      let ctchol_calc = ctchol * c.tchol;
+      let ctchol_rounded = ctchol_calc;
+      let cthdl_calc = cthdl * c.thdl;
+      let cthdl_rounded = cthdl_calc;
+
       console.log("cage: " + cage);
-      console.log("cage calc: " + cage * c.age);
+      console.log("Age (per year) c.age: " + c.age);
+      console.log("Age calc: " + cage * c.age);
+      console.log("Smoking calc: " + isSmoker * c.smoker);
       console.log("csbp: " + csbp);
-      console.log("csbp calc: " + csbp * c.sbp);
+      console.log("SBP calc: " + csbp * c.sbp);
       console.log("ctchol: " + ctchol);
-      console.log("ctchol calc: " + ctchol * c.tchol);
+      console.log("cTchol calc: " + ctchol_calc);
+      console.log("cTchol calc rounded: " + ctchol_rounded);
       console.log("cthdl: " + cthdl);
-      console.log("cthdl calc: " + cthdl * c.hdl);
-      console.log("smoker_age calc: " + -2 * c.smoker_age);
-      console.log("sbp_age calc: " + -2 * c.sbp_age);
-      console.log("tchol_age calc: " + -2 * 0.3 * c.tchol_age);
-      console.log("hdl_age calc: " + -2 * 0.2 * c.hdl_age);
-      const linearPredictor =
+      console.log("cThdl calc: " + cthdl_calc);
+      console.log("cThdl calc rounded: " + cthdl_rounded);
+      console.log("smoker_age: " + csmoker_age);
+      console.log("smoker_age calc: " + csmoker_age * c.smoker_age);
+      console.log("sbp_age calc: " + csbp_age * c.sbp_age);
+      console.log("tchol_age calc: " + ctchol_age * c.tchol_age);
+      console.log("thdl_age calc: " + cthdl_age * c.thdl_age);
+      console.log("basesurv: " + c.basesurv);
+
+      let linearPredictor =
         cage * c.age +
         isSmoker * c.smoker +
         csbp * c.sbp +
-        ctchol * c.tchol +
-        cthdl * c.hdl +
-        -2 * c.smoker_age +
-        -2 * c.sbp_age +
-        -2 * 0.3 * c.tchol_age +
-        -2 * 0.2 * c.hdl_age;
+        ctchol_rounded +
+        cthdl_rounded +
+        csmoker_age * c.smoker_age +
+        csbp_age * c.sbp_age +
+        ctchol_age * c.tchol_age +
+        cthdl_age * c.thdl_age;
+
       console.log("linearPredictor: " + linearPredictor);
+
       // Calcul du risque à 10 ans non calibré
-      const uncalibrated_risk = 1 - c.basesurv ** Math.exp(linearPredictor);
+      let uncalibrated_risk;
+
+      if (age < 70) {
+        uncalibrated_risk = 1 - c.basesurv ** Math.exp(linearPredictor);
+      } else {
+        uncalibrated_risk = 1 - c.basesurv ** Math.exp(Math.abs(linearPredictor) - c.meanLP);
+      }
+
       console.log("uncalibrated: " + uncalibrated_risk);
 
       // Calibration pays à bas risque
-      const calibrated_10y_risk =
+      let calibrated_10y_risk;
+
+      if (age < 70) {
+        calibrated_10y_risk =
         1 -
         Math.exp(
           -Math.exp(
             c.scale1 + c.scale2 * Math.log(-Math.log(1 - uncalibrated_risk)),
           ),
         );
+      } else {
+        // SCORE2 OP for low risk regions
+        calibrated_10y_risk =
+        1 -
+        Math.exp(
+          -Math.exp(
+            c.scale1 + c.scale2 * Math.log(-Math.log(1 - uncalibrated_risk)),
+          ),
+        );
+      }
+
       console.log("calibrated: " + calibrated_10y_risk);
 
       // Conversion en pourcentage
-      const riskPercent = (calibrated_10y_risk * 100).toFixed(1);
+      const riskPercent = (calibrated_10y_risk * 100).toPrecision(3);
 
       displayResult(riskPercent, age);
     }
