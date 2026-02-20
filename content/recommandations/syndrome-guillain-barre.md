@@ -196,7 +196,7 @@ Le diagnostic de syndrome de Guillain-Barré est **clinico-électroneuromyograph
 - **Température**
 - Glycémie capillaire
 - Auscultation cardiorespiratoire
-- Examen neurologique complet: {{< modal-btn score-mrc >}}testing moteur{{< /modal-btn >}}, sensibilité (dont recherche d'anesthésie en selle), paires crâniennes, réflexes, **déglutition**, parole, dysphonie, toux provoquée
+- Examen neurologique complet: {{< modal-btn modal-mrc >}}testing moteur{{< /modal-btn >}}, sensibilité (dont recherche d'anesthésie en selle), paires crâniennes, réflexes, **déglutition**, parole, dysphonie, toux provoquée
 
 > [!WARNING]
 > Adresser aux urgences toute suspicion de polyradiculonévrite aiguë pour hospitalisation, l'aggravation pouvant être très rapide. Appel du SAMU selon le déficit neurologique, de l'atteinte respiratoire et de la déglutition.
@@ -304,7 +304,7 @@ Traitement au choix si marche sans aide mais signes de gravité avec détériora
 Mot-clé: déficit neurologique sensitivo-moteur ou moteur
 
 {{%/sources%}}
-{{% modal title="Échelle de force musculaire du Medical Research Council" id="score-mrc"%}}
+{{% modal title="Échelle de force musculaire du Medical Research Council" id="modal-mrc"%}}
 
 {{< scores/mrc >}}
 
