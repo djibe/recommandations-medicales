@@ -431,7 +431,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 
 {{< table title="Rythme de dépistage des complications et comorbidités du diabète. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap">}}
 | Appareil     | Soins                                                                                            | Source                   |
-|--------------|--------------------------------------------------------------------------------------------------|--------------------------|
+| ------------ | ------------------------------------------------------------------------------------------------ | ------------------------ |
 | [AAA]({{% relref "anevrysme-aorte-abdominale.md" %}}) | Échographie si homme 65-75 ans et tabac ou ATCD familial AAA 1^er^ degré, AOMI | ACC/AHA 2022 |
 | AINS         | Éviter toute prise                                                                               | Communiqué ESC 2022      |
 | [Apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) | {{< modal-btn modal-saos-diabete >}}Dépistage annuel{{< /modal-btn >}} | HAS 2025 |
@@ -464,7 +464,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 | Neuropathie  | Dépistage annuel: ROT, diapason, podologue: {{< modal-btn modal-monofilament >}}monofilament{{< /modal-btn >}} et {{< modal-btn modal-grade-podologique >}}grade podologique{{< /modal-btn >}}, pic-touche, diapason, [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}), sécheresse cutanée | HAS 2025, ADA 2023 et ESC 2019 diabetes |
 | Permis de conduire | Voir [permis de conduire]({{% relref "pathologies-permis-conduire.md" %}})                 | HAS 2025                 |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux. Grossesse: avant, trimestrielle puis post-partum. Post-cataracte: intensifiée durant 12 mois | HAS 2025 |
-| {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}} | SCORE2-Diabetes annuel en prévention primaire chez le 40-69 ans | HAS 2025 |
+| Risque cardiovasculaire | En l'absence de {{< modal-btn modal-rcv >}}risque marqué{{< /modal-btn >}}, {{< scores/score2-diabetes >}} annuel en prévention primaire chez le 40-69 ans | HAS 2025 |
 | Score calcique | Pas d'argument pour l'utiliser pour la classification du RCV<br>{{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} ± test d'effort | ESC 2023 diabetes<br>SFD 2021 CAD |
 | [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) | Envisager le dépistage chez la femme          | ESHRE 2023               |
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |

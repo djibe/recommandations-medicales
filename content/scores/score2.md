@@ -6,7 +6,7 @@ noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-02-17T19:00:00+02:00"
 publishdate = "2026-02-17"
-lastmod = "2026-02-19"
+lastmod = "2026-02-20"
 specialites = ["cardiologie"]
 tags = ["risque cardiovasculaire"]
 sctid = ""
@@ -18,6 +18,8 @@ Le SCORE2 (Systematic Coronary Risk Estimation version 2) est le score de réfé
 {.lead .line-height .mb-5}
 
 Le **SCORE2** peut être calculé de 40 à 69 ans (appelé **SCORE2-OP** de 70 à 89 ans), en l'absence de toute maladie cardiovasculaire (ou d'hypertension secondaire). Il est ici calibré pour l'utilisation en **France** et dans les pays européens à plus faible risque cardiovasculaire.
+
+En cas de diabète ne relevant pas d'emblée d'un {{< modal-btn modal-rcv >}}risque marqué{{< /modal-btn >}}, utiliser le {{< scores/score2-diabetes >}}.
 
 Son utilisation est **recommandée en cas de présence de facteur de risque cardiovasculaire** (dyslipidémie, hypertension artérielle, tabagisme, hérédité cardiovasculaire, obésité ...) et devrait être répété, par exemple tous les 5 ans (*ESC 2021*).
 
