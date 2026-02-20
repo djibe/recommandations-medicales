@@ -382,7 +382,8 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
   - Liste des derniers examens réalisés  
   - Personnes ressources
   - Éducation thérapeutique
-- **Observance du traitement ARV** +++
+- **Observance du traitement antirétroviral** +++
+- Dès 40 ans: **statine** (*ESC 2025*)
 - Encourager une activité physique régulière
 - Rechercher une fragilité physique, psychique, sociale
 - Repérer des troubles alimentaires (suivi IMC)
@@ -442,6 +443,7 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 
 {{< youtube id="XnQ4rNUkEyU" title="La minute RECO HAS | VIH : le suivi en médecine générale (Dr Jean-Philippe Joseph)" >}}
 
+- [Mach F, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/article/46/42/4359/8234482)
 - [Kunkel A, et al. Dépistage et diagnostic du VIH et de trois infections sexuellement transmissibles bactériennes chez les jeunes en France, 2014-2023. Bull Epidemiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/19-20/2025_19-20_3.html)
 - [ANRS, CNS. Vaccination des personnes vivant avec le VIH (label HAS). 2025.](https://www.has-sante.fr/jcms/p_3635651/fr/vaccination-des-personnes-vivant-avec-le-vih)
 - {{< references/calendrier-vaccinal >}}

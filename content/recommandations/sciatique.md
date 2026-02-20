@@ -16,7 +16,7 @@ english = ["Sciatica", "sciatica neuralgia"]
 sctid = "23056005"
 icd10 = ["M54.3"]
 image = true
-imageSrc = "Hernie discale responsable d'une sciatique. OpenStax College, CC BY 3.0, via Wikimedia Commons"
+imageSrc = "Hernie discale lombaire responsable d'une sciatique. OpenStax College, CC BY 3.0, via Wikimedia Commons"
 todo = "flow"
 +++
 
@@ -26,7 +26,7 @@ todo = "flow"
 - L'origine est le plus souvent discale (hernie discale) chez le jeune adulte (20 à 40 ans) et arthrosique (zygapophysaire) chez le sujet âgé mais des signes de malignité doivent être recherchés
 - Les signes et symptômes de sciatique sont une installation aiguë des paresthésies et douleurs de la fesse et de la face latérale du membre inférieur
 - Les signes de gravité urgents sont un déficit moteur, une hyperalgie, un syndrome de la queue de cheval, une rétention urinaire, une incontinence anale
-- En cas de tableau typique, aucun bilan n'est réalisé les 6-8 premières semaines. Sinon l'IRM lombaire est l'examen de référence
+- En cas de tableau typique, aucun bilan n'est réalisé les 6 à 8 premières semaines. Sinon l'IRM lombaire est l'examen de référence
 - La prise en charge de la sciatique sans signe de gravité associe: information du patient, antalgie (AINS, palier), poursuite des activités avec repos relatif, thérapies manuelles envisageables. En cas d'échec: infiltration de corticoïdes. En cas de forme chronique: kinésithérapie et médecine du travail
 - Avis orthopédique en cas d'échec du traitement médical et des infiltrations
 
@@ -153,6 +153,12 @@ En cas de douleurs séquellaires post-opératoires ou non opérables, avis du **
 - [Dahm KT, et al. Advice to rest in bed versus advice to stay active for acute low‐back pain and sciatica. Cochrane Database of Systematic Reviews. 2010.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007612.pub2/full)
 - [Koes BW, et al. Diagnosis and treatment of sciatica. BMJ. 2007.](https://pmc.ncbi.nlm.nih.gov/articles/pmid/17585160/)
 - {{< references/aderim >}}
+
+### Bibliographie en attente
+
+- [Price MR, et al. Medication recommendations for treatment of lumbosacral radiculopathy: A systematic review of clinical practice guidelines. PM R. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/pmrj.13142)
+- [Ferreira ML, McLachlan A. The Challenges of Treating Sciatica Pain in Older Adults. Drugs Aging. 2016.](https://link.springer.com/article/10.1007/s40266-016-0404-z)
+- [Chou R, Huffman LH; American Pain Society; American College of Physicians. Nonpharmacologic therapies for acute and chronic low back pain: a review of the evidence for an American Pain Society/American College of Physicians clinical practice guideline. Ann Intern Med. 2007.](https://www.acpjournals.org/doi/10.7326/0003-4819-147-7-200710020-00007)
 
 Mot-clé: sciatalgie
 

@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-04-05T19:47:39+02:00"
 publishdate = "2025-04-11"
-lastmod = "2025-04-24"
+lastmod = "2026-02-20"
 specialites = ["infectiologie", "pédiatrie"]
-annees = "2024"
+annees = "2025"
 sources = ["SPF"]
 tags = ["éruption fébrile", "prévention", "vaccin"]
 english = ["Measles", "rubeola"]
@@ -28,7 +28,7 @@ todo = "flow"
 - Rechercher des signes de complications par un examen clinique complet
 - Le bilan nécessite toujours une RT-PCR rougeole urgente pour la [déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}}) (DO)
 - Hospitalisation en urgence des femmes enceintes non immunes et des immunodéprimés, en cas de signes de gravité ou de complications
-- La prise en charge de la rougeole comprend: éviction jusqu'à 5 jours après le début de l'éruption cutanée, isolement, traitement symptomatique et enquête vaccinale des sujets contact et vaccination post-exposition
+- La prise en charge de la rougeole associe: éviction jusqu'à 5 jours après le début de l'éruption cutanée, isolement, traitement symptomatique et enquête vaccinale des sujets contact et vaccination post-exposition
 
 Chapitres liés: [éruption fébrile](/tags/eruption-febrile/)
 
@@ -53,7 +53,7 @@ SPF
 
 ### Épidémiologie de la rougeole
 
-- Très forte hausse des cas de rougeole:
+- Réduction des cas de rougeole en 2026:
   - 117 cas en 2023 contre 15 en 2022 (x8)
   - 180 cas entre le 1er janvier et le 14 mars 2025
 - Taux d'hospitalisation: 45,6 %
@@ -173,6 +173,7 @@ Galerie de photos de cas de rougeole.
 {{% /collapse %}}
 {{%sources%}}
 
+- [Santé Publique France. Rougeole en France du 1er janvier au 31 janvier 2026. 12/02/2026.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-prevention-vaccinale/rougeole/documents/bulletin-national/rougeole-en-france-du-1er-janvier-au-31-janvier-2026)
 - {{< references/calendrier-vaccinal >}}
 - [Santé Publique France. Rougeole : appel à la vigilance renforcée face à la recrudescence des cas en France et en Europe. 20/03/2025.](https://www.santepubliquefrance.fr/les-actualites/2025/rougeole-appel-a-la-vigilance-renforcee-face-a-la-recrudescence-des-cas-en-france-et-en-europe)
 - [Santé Publique France. Rougeole. 16/07/2025.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-prevention-vaccinale/rougeole/)

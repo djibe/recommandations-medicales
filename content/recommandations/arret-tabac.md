@@ -72,8 +72,8 @@ Bénéfices importants sur la morbi-mortalité (cardiovasculaire et cancer du po
 
 ### Épidémiologie du tabagisme en France
 
-- **Décès annuels:** 75.000 (2019 soit 205 morts/j)  
-  Répartition: 47.000 cancers, 20.000 cardiovasculaires et 11.000 par maladies respiratoires.
+- **Décès annuels:** 68.000 (2023)  
+  11 % de la mortalité totale. Répartition (2019): 47.000 cancers, 20.000 cardiovasculaires et 11.000 par maladies respiratoires.
 - 20 % des cancers attribuables au tabac soit 68.000 cas annuels (90 % des cancers bronchopulmonaires, 17 localisations cancéreuses) et 80 % des BPCO
 - Première cause de mortalité cardiovasculaire évitable
 - **Fumeurs quotidiens:** 23 % de la population (2023, 4^e^ rang de l'OCDE)
@@ -456,6 +456,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Santé Publique France. Tabagisme en France : 68 000 décès évitables en 2023, une baisse encourageante mais un fardeau toujours trop important. 16/02/2026.](https://www.santepubliquefrance.fr/presse/2026/tabagisme-en-france-68-000-deces-evitables-en-2023-une-baisse-encourageante-mais-un-fardeau-toujours-trop-important)
 - [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [Lindson N, et al. Electronic cigarettes for smoking cessation. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010216.pub9/full/fr)
 - [Theodoulou A, et al. Different doses, durations and modes of delivery of nicotine replacement therapy for smoking cessation. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013308.pub2/full/fr)

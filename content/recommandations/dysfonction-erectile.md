@@ -46,10 +46,11 @@ Grandes lignes:
 
 Dysfonction érectile (DE, *ex* impuissance)
 : Incapacité persistante ou répétée à obtenir/maintenir une érection suffisante pour permettre une activité sexuelle satisfaisante **durant plus de 3 mois**. S'y ajoute le retentissement psychologique du patient/couple (DSM IV).
+: Le risque cardiovasculaire est nettement augmenté chez l"homme atteint de dysfonction érectile (mortalité OR 1,26; mortalité cardiovasculaire OR 1,43).
 
 {{< table title="Prévalence de la dysfonction érectile selon l'âge" >}}
 | Âge (ans) | Prévalence (%) |
-|----------:|---------------:|
+| --------: | -------------: |
 |     18-39 | 1-10           |
 |     40-59 | 2-30           |
 |     60-69 | 20-40          |
@@ -60,7 +61,7 @@ Dysfonction érectile (DE, *ex* impuissance)
 
 - [Diabète]({{% relref "diabete-type-2.md" %}})  
   - 50 % des diabétiques, risque multiplié par 4,5 et le trouble survient 10 à 15 ans plus tôt
-  - La DE est l'indicateur le plus fiable de l'installation des complications viscérales et vasculaires (MCV x1,6)
+  - La DE est l'indicateur le plus fiable de l'installation des complications viscérales et vasculaires (MCV x 1,6)
   - 40 % arrêtent le traitement antidiabétique pensant améliorer la DE
 - Pathologie cardiovasculaire
 - Troubles anxio-dépressifs
