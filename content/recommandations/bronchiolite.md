@@ -450,13 +450,13 @@ Les autres traitements exposent à des effets indésirables parfois graves.
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
 - [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
 - Prescrire Redaction. Bronchiolite et kinésithérapie respiratoire. Rev Prescrire. 2024.
+- Prescrire Rédaction. Bronchiolite chez un nourrisson. Premiers Choix Prescrire. Rev Prescrire. 2024.
 - [Vartiainen P, et al. Risk factors for severe respiratory syncytial virus infection during the first year of life: development and validation of a clinical prediction model. Lancet Digit Health. 2023.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00175-9/fulltext)
 - [HAS. Réponses Rapides : Nirsévimab (Beyfortus®) dans la prévention des bronchiolites à virus respiratoire syncytial (VRS) chez les nouveau-nés et les nourrissons. 15/09/2023. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2023-09/reponse_rapide__nirsevimab_beyfortus.pdf)
 - [Infovac-France. Bulletin n°8 Août - Spécial Nirsevimab et Beyfortus. 28/08/2023.](https://www.infovac.fr/actualites/bulletin-n-8-aout-special-nirsevimab-et-beyfortus)
 - [CNP de Pédiatrie. Stratégie de prévention des bronchiolites à VRS des nourrissons. 2023. (PDF)](https://afpa.org/content/uploads/2023/08/Reco-CNP-Pe%CC%81diatrie-21-08-2023.pdf)
 - [HAS. nirsévimab Beyfortus. Avis sur les médicaments. 2023. (PDF)](https://www.has-sante.fr/upload/docs/evamed/CT-20356_BEYFORTUS_PIC_INS_AvisDef_CT20356.pdf)
 - [Roqué-Figuls M, et al. Chest physiotherapy for acute bronchiolitis in paediatric patients between 0 and 24 months old. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004873.pub6/full/fr#pico)
-- Prescrire Rédaction. Bronchiolite chez un nourrisson. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - [Santé Publique France. Bronchiolite. 20/04/2022.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bronchiolite)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Bronchiolite aiguë du nourrisson. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/bronchiolite-aigue-du-nourrisson)
 - [Société Canadienne de Pédiatrie. Recommandations pour le diagnostic, la surveillance et les prise en charge des enfants de un à 24 mois. 30/11/2021.](https://www.cps.ca/fr/documents/position/bronchiolitis1)

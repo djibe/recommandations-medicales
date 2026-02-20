@@ -2,7 +2,7 @@
 id = "0190e8c8-8806-786b-8444-e8741fff35ca"
 title = "Ménorragies"
 prefix = "les "
-description = "Recommandations pour la prise en charge des ménorragies de la femme et de l'adolescente. Bilan de l'hémostase, échographie pelvienne et traitement hormonal ..."
+description = "Recommandations pour la prise en charge des ménorragies de la femme et de l'adolescente. Bilan d'hémostase, échographie pelvienne et traitement hormonal ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-02-06T14:23:41+01:00"
@@ -23,14 +23,12 @@ todo = "Collège, FIGO"
 
 {{%article-summary%}}
 
-- Définition des ménorragies: règles chez une femme d'âge compatible d'un volume supérieur à 80 mL ou d'une durée supérieure à 6 jours, en dehors de la [grossesse](/tags/grossesse/)
-- Interrogatoire et examen gynécologique complets
-- Bilan des ménorragies de première intention: NFS ± hCG ± TSH et échographie pelvienne par un référent  
+- Les ménorragies sont des règles abondantes chez une femme d'âge compatible, d'un volume supérieur à 80 mL ou d'une durée supérieure à 6 jours, en dehors de la [grossesse](/tags/grossesse/)
+- Un examen clinique rigoureux avec examen gynécologique est nécessaire
+- Le bilan des ménorragies de première intention comprend: NFS ± hCG ± TSH et échographie pelvienne par un référent  
   Pour l'adolescente: pas d'échographie en première intention mais bilan d'hémostase (TP, TCA, fibrinogène, Willebrand et Facteur VIII)
 - Le traitement des ménorragies peut être médical (acide tranexamique), hormonal (pilule œstroprogestative, progestatifs, stérilet hormonal, agonistes de la GnRH) ou chirurgical (conservateur ou hystérectomie)
-- Prise en charge des ménorragies idiopathiques de la femme: acide tranexamique si désir de grossesse proche, sinon DIU au lévonorgestrel ou chirurgie conservatrice à partir de 42 ans. Hystérectomie si souhaitée.
-
-*Nous avons conscience que ce chapitre n'est pas encore bien adapté à notre pratique*
+- La prise en charge des ménorragies idiopathiques de la femme comprend: acide tranexamique si désir de grossesse proche, sinon DIU au lévonorgestrel ou chirurgie conservatrice à partir de 42 ans. Hystérectomie si souhaitée.
 
 Chapitres liés: [anémie par carence martiale]({{% relref "anemie.md" %}}), [contraception]({{% relref "contraception.md" %}})
 
@@ -128,14 +126,13 @@ Indications à l'hystéroscopie:
 
 Le traitement médical est un anti-fibrinolytique:
 
-[Acide tranexamique 500 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/61224073/extrait#tab-rcp) (Exacyl®, Spotof® ou gén®) 4 à 8 cp par jour en 2-3 prises
+[Acide tranexamique 500 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/61224073/extrait#tab-rcp) (Exacyl®, Spotof® ou gén®) 4 à 8 cp par jour en 2-3 prises quotidiennes.
 
 *Prescrire* rappelle le risque de [thromboses veineuses]({{% relref "thrombose-veineuse-profonde.md" %}}) parfois graves de l'acide tranexamique.
 
 ### Traitement hormonal des ménorragies
 
-Le traitement hormonal préférentiel est un DIU (stérilet) au lévonorgestrel 52 mg (Donasert®, [Mirena®](https://base-donnees-publique.medicaments.gouv.fr/medicament/66349230/extrait#tab-rcp)).  
-Il peut être laissé en place pendant 5 ans.
+Le traitement hormonal préférentiel est un DIU (stérilet) au lévonorgestrel 52 mg (Donasert®, [Mirena®](https://base-donnees-publique.medicaments.gouv.fr/medicament/66349230/extrait#tab-rcp)).
 
 Autres traitements hormonaux:
 
@@ -271,9 +268,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- Prescrire Redaction. Fibromyome utérin. Premiers Choix Prescrire. Rev Prescrire. 2025.
 - [Brun JL, et al. Prise en charge des ménorragies : recommandations pour la pratique clinique du Collège national des gynécologues et obstétriciens français (CNGOF). Gynécologie Obstétrique Fertilité & Sénologie. 2022.](https://cngof.fr/app/uploads/2025/11/Menorragies202022-RPC.pdf?x26468)
 - [ANSM. Troubles menstruels après la vaccination contre le Covid-19 : état des connaissances et conseils aux femmes concernées. 21/07/2022.](https://ansm.sante.fr/actualites/troubles-menstruels-apres-la-vaccination-contre-le-covid-19-etat-des-connaissances-et-conseils-aux-femmes-concernees)
-- Prescrire Redaction. Fibromyome utérin. Premiers Choix Prescrire. Rev Prescrire. 2022.
 
 ### Bibliographie en attente
 

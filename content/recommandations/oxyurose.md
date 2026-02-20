@@ -7,7 +7,7 @@ synonyms = ["Entérobiase"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-07-17T17:38:12+02:00"
 publishdate = "2023-07-18"
-lastmod = "2026-01-09"
+lastmod = "2026-02-20"
 specialites = ["hépato-gastro-entérologie", "infectiologie", "pédiatrie"]
 annees = "2022"
 sources = ["Collèges"]
@@ -27,13 +27,13 @@ modele = true
 - Évoquer une oxyurose en cas de prurit anal (vespéral et nocturne), vulvovaginite chez la petite fille ou de signes moins spécifiques: troubles du sommeil (cauchemars), irritabilité, difficultés de concentration
 - Le diagnostic d'oxyurose est clinique avec la visualisation de ver blanc centimétrique dans les selles ou la culotte. Sinon, bilan avec *Scotch-test anal* et analyse au laboratoire
 - La prise en charge de l'oxyurose est un traitement anti-parasitaire: flubendazole 1 comprimé ou 1 cuiller-mesure avec renouvellement à 2 ou 3 semaines de tout l'entourage exposé (foyer, collectivité)
-- Mesures anti-parasitaires associées: lavage des mains fréquent, ongles courts linge de toilette et de lit à 60°C
+- D'autres mesures anti-parasitaires sont associées: lavage des mains fréquent, ongles courts linge de toilette et de lit à 60°C
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Oxyurose
-: Infection digestive par l'helminthe strictement humain *Enterobius vermicularis*, dit oxyure, de la famille des nématodes intestinaux.
+: Infection digestive par l'helminthe strictement humain *Enterobius vermicularis* (*ex Oxyuris vermicularis*), dit oxyure, de la famille des nématodes intestinaux.
 
 ### Abréviations
 
@@ -51,7 +51,7 @@ Autres causes de prurit anal:
 
 - [Hémorroïdes]({{% relref "hemorroides.md" %}})
 - Abcès anal
-- Fistule anale
+- Abcès ou fistule anale
 - [Dermatite atopique]({{% relref "dermatite-atopique.md" %}}) ou de contact
 - [Psoriasis]({{% relref "psoriasis.md" %}})
 - [Candidose]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
@@ -63,28 +63,27 @@ Autres causes de prurit anal:
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Tableau clinique, signes et symptômes de l'oxyurose:
+Une oxyurose est souvent **asymptomatique**.
 
 - Parasite cosmopolite
 - Infection fréquente chez les [enfants](/tags/enfant/) et leur entourage
 - Contamination interhumaine directe (mains, sous-vêtements, literie ...) et auto-infestation par grattage anal
-- Symptômes de l'oxyurose:
-  - Asymptomatique
-  - Prurit anal (vespéral et nocturne)
-  - Vulvovaginite chez la petite fille
+- **Signes et symptômes de l'oxyurose:**
+  - **Prurit anal** à prédominance nocturne
+  - **Vulvovaginite** chez la petite fille
   - Troubles mictionnels
   - Lésions périnéales de grattage
   - Douleurs abdominales, diarrhées
   - Troubles du sommeil (cauchemars), irritabilité, difficultés de concentration
 
-Le diagnostic d'oxyurose est clinique lorsque des **vers blancs centimétriques** sont vus dans les selles ou sur la marge anale.
+Le diagnostic d'oxyurose est clinique lorsque des **vers blancs centimétriques** sont vus dans les selles ou sur la marge anale. Les œufs ne sont pas visibles à l'œil nu.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 Le diagnostic d'oxyurose peut être réalisé avec le **<< Scotch®-test >> anal** (test de Graham ou test à la cellophane adhésive).
 
-Application matinale de ruban adhésif transparent sur la marge anale le matin (en déplissant les plis radiés de l'anus) puis recollé sur une surface porte-objet et analyse au laboratoire pour la mise en évidence des œufs.
+Application matinale de ruban adhésif transparent sur la marge anale le matin (en déplissant les plis radiés de l'anus) puis recollé sur une surface porte-objet et analyse au laboratoire pour la mise en évidence des œufs. La sensibilité est de 90 % sur 3 jours consécutifs.
 
 Une [éosinophilie]({{% relref "hypereosinophilie.md" %}}) peut également être observée.
 
@@ -119,9 +118,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- Prescrire Redaction. Oxyurose. Premiers Choix Prescrire. Rev Prescrire. 2024.
 - Association Française des Enseignants & Praticiens Hospitaliers titulaires de Parasitologie & Mycologie Médicale (Anofel). Chapitre 11: Oxyurose. 2022.
 - [CMIT. Parasitoses digestives : giardiose, amoebose, téniasis, ascaridiose, oxyurose. Item 172. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-172-web.pdf)
-- Prescrire Redaction. Oxyurose. Premiers Choix Prescrire. Rev Prescrire. 2022.
 
 Moy-clé: oxyures
 
