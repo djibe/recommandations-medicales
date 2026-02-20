@@ -299,7 +299,7 @@
           ),
         );
       } else {
-        // SCORE2 OP for low risk regions
+        // SCORE2 OP
         calibrated_10y_risk =
         1 -
         Math.exp(
@@ -329,10 +329,8 @@
         alertClass = "alert-success";
         if (age < 70) {
           category += '<br> LDL cible &lt; 1,16 g/L';
-          // if (LDL >= 1.16) {
           category +=
             ' <hr> Mesures hygiéno-diététiques de réduction du LDL en cas de LDL ≥ 1,16 g/L. <br> Considérer une statine en cas de persistance.';
-          //}
         }
       } else if (risk < thresholds.moderate) {
         category =
@@ -340,10 +338,8 @@
         alertClass = "alert-warning";
         if (age < 70) {
           category += '<br> LDL cible &lt; 1 g/L';
-          // if (LDL >= 1) {
           category +=
             ' <hr> Mesures hygiéno-diététiques en cas de LDL ≥ 1 g/L. <br> Considérer une statine en cas de persistance.';
-          //}
         }
       } else if (risk < thresholds.high) {
         category =
@@ -351,30 +347,27 @@
         alertClass = "alert-danger";
         if (age < 70) {
           category += '<br> LDL cible &lt; 0,7 g/L et réduction ≥ 50 %. <br> Statine d’emblée si LDL ≥ 1 g/L.';
+          category += '<hr> Mesures hygiéno-diététiques en cas de LDL de 0,7 à 0,99 g/L, considérer une statine en cas de persistance.'
         } else {
           category += '<br> Une statine peut être envisagée chez le sujet en bonne santé. <br> Un objectif &lt; 1 g/L peut sembler raisonnable.';
         }
-        /* if (LDL >= 1) {
-                        category += '\n Statine d’emblée'
-                    } else if (LDL >= 0.7 ) {
-                     category += ' <hr> Mesures hygiéno-diététiques en cas de LDL de 0,7 à 0,99 g/L, considérer une statine en cas de persistance'
-                    }
-                    */
       } else {
         category =
           '<span class="font-weight-bold">Risque cardiovasculaire très élevé</span> <br> Mesures d’hygiène universelles';
         alertClass = "alert-danger";
         if (age < 70) {
-          category += '<br> LDL cible &lt; 0,55 g/L et réduction ≥ 50 %. <br> Statine systématique.';
+          category += '<br> LDL cible &lt; 0,55 g/L et réduction ≥ 50 %. <br> Statine d’emblée si LDL ≥ 0,7 g/L.';
+          category += '<br> Mesures hygiéno-diététiques en cas de LDL de 0,55 à 0,69 g/L, considérer une statine en cas de persistance.';
         } else {
           category += '<br> Une statine peut être envisagée chez le sujet en bonne santé. <br> Un objectif &lt; 1 g/L peut sembler raisonnable.';
         }
-        /* if (LDL >= 1) {
-                        category += '\n Statine d’emblée'
-                    } else if (LDL >= 0.7 ) {
-                     category += ' <hr> Mesures hygiéno-diététiques en cas de LDL de 0,7 à 0,99 g/L, considérer une statine en cas de persistance'
-                    }
-                    */
+      }
+
+      for (const [level, value] of Object.entries(thresholds)) {
+        // Check if the difference between the risk and the threshold is 2 or less
+        if (value - risk <= 2 && value - risk > 0) {
+          category += '<br><strong>NB.</strong> Le SCORE2 est à moins de 2 points du niveau de risque plus élevé !';
+        }
       }
 
       riskScoreEl.textContent = `${Intl.NumberFormat("fr-FR").format(risk)} %`;
