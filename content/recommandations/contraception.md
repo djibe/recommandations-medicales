@@ -131,7 +131,8 @@ Les œstroprogestatifs augmentent le risque de [thromboembolie veineuse](/tags/m
 - [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
 - Dyslipidémie non contrôlée
 - [Diabète type 1]({{% relref "diabete-type-1.md" %}}) depuis +20 ans ou compliqué
-- [Migraine avec aura]({{% relref "migraine.md" %}})
+- [Migraine avec aura]({{% relref "migraine.md" %}})  
+  (Pourrait être considérée selon l'*ESC 2021*)
 - Migraine de novo ou aggravation des migraines sous œstroprogestatifs
 - Thrombophilie
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé{{< /modal-btn >}}

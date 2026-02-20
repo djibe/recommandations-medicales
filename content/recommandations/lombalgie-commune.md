@@ -272,11 +272,11 @@ graph TB
 
 {{< card-link-external title="Réentrainement à l'effort dans les lombalgies : Quand ? Pour qui ? Comment ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/episode/https%3A%2F%2Ftrack.podcastics.com%2F3584%2F207615.mp3&podcastId=3741301" image="podcast" >}}
 
+- Prescrire Redaction. Lombalgie aiguë chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2025.
 - [Foltz V, et al. Prise en charge thérapeutique de la lombalgie chronique : focus sur les antalgiques et l'activité physique Therapeutic management of chronic low back pain: Focus on analgesics and physical activity. Revue du Rhumatisme. 2025.](https://www.sciencedirect.com/science/article/pii/S1169833024001637)
 - [Han CS, et al. Red flags to screen for vertebral fracture in people presenting with low back pain. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014461.pub2/full/fr)
 - [CNGE. Les antalgiques opioïdes dans la lombalgie aiguë : ce n'est pas automatique ! 19/10/2023.](https://www.cnge.fr/conseil_scientifique/productions_du_conseil_scientifique/les_antalgiques_opioides_dans_la_lombalgie_aigue_c/)
 - [Cashin AG, et al. Pharmacological treatments for low back pain in adults: an overview of Cochrane Reviews. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013815.pub2/full/fr#pico)
-- Prescrire Redaction. Lombalgie aiguë chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - Prescrire Redaction. Signes de fracture vertébrale en cas de lombalgie récente. Rev Prescrire. Juin 2020.
 - [Collège Français des Enseignants en Rhumatologie (COFER). Rachialgies. Item 94 UE 5. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-3-0.php)
 - [HAS. Prise en charge du patient présentant une lombalgie commune. 2019.](https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient-presentant-une-lombalgie-commune)

@@ -81,7 +81,7 @@ Adresser au [centre de compétence ou de référence HYPO](https://www.firendo.f
   - Métaboliques avec prédiabète ou [diabète]({{% relref "diabete-type-2.md" %}}) (20-35 %)
   - Endocriniens: [hypothyroïdie]({{% relref "hypothyroidie.md" %}}), [dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}), troubles du cycle ou [infertilité]({{% relref "infertilite-couple.md" %}}), aménorrhée
   - Autres: [nodules thyroïdiens]({{% relref "nodule-thyroidien.md" %}}) et cancers, polypes coliques (27-55 %) et [cancer colorectal]({{% relref "cancer-colorectal.md" %}}) (risque élevé, x 2-3)
-- Risque cardiovasculaire: calcul du [SCORE2]({{% relref "score2.md" %}})
+- {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}} (calcul du [SCORE2]({{% relref "score2.md" %}}) en prévention primaire)
 - Antécédents familiaux d'acromégalie (rares)
 
 {{% /collapse %}}
@@ -152,3 +152,8 @@ graph TB
 - [CRMR HYPO](https://fr.ap-hm.fr/site/defhy)
 
 {{%/sources%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
+
+{{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}

@@ -235,7 +235,7 @@ Contre-indications absolues au THS par testostérone: désir de paternité, [ins
 Suivi à 3 mois, 6 mois, 1 an puis au moins annuel.
 
 - Efficacité: qualité de vie, humeur, libido, fonction érectile (IPDE5 possible)
-- Effets indésirables: risque cardiovasculaire SCORE2 (lié au terrain et non au traitement), gynécomastie, TR, PSA, hématocrite.  
+- Effets indésirables: suivi du{{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} (lié au terrain et non au traitement), gynécomastie, TR, PSA, hématocrite.  
   Le risque thromboembolique veineux n'est pas prouvé.
 - Surveillance biologique: testostéronémie (2-4 heures après une application transdermique ou à mi-distance entre 2 injections), PSA, NFS (hématocrite strictement < 54%), bilan lipidique
 
@@ -267,5 +267,10 @@ graph TB
 {{% modal title="Score IPSS des symptômes de l'HBP" id="modal-ipss"%}}
 
 {{< scores/ipss >}}
+
+{{% /modal %}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
+
+{{< clinique/risque-cardiovasculaire >}}
 
 {{% /modal %}}

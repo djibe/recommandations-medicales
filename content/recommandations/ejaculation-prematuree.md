@@ -172,7 +172,7 @@ graph TB
 - [Salonia A, et al. EAU Guidelines on Sexual and Reproductive Health. 2024.](https://uroweb.org/guidelines/sexual-and-reproductive-health/chapter/disorders-of-ejaculation)
 - [Huyghe E, et al; AIUS. Recommandations pour le traitement de l'éjaculation prématurée. Progrès en urologie. 2023.](https://www.urofrance.org/recommandation/recommandations-pour-le-traitement-de-lejaculation-prematuree/)
 - [Collège Français des Enseignants en Urologie (CFEU). Sexualité normale et ses troubles. Item 50. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-58-Sexualite-normale-et-ses-troubles.pdf)
-- [Sathianathen NJ, et al. Selective serotonin re‐uptake inhibitors for premature ejaculation in adult men. Cochrane Database of Systematic Reviews. 2021.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012799.pub2/full/fr?highlightAbstract=ejaculation%7Cpremature%7Cejacul%7Cprematur)
+- [Sathianathen NJ, et al. Selective serotonin re‐uptake inhibitors for premature ejaculation in adult men. Cochrane Database of Systematic Reviews. 2021.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012799.pub2/full/fr)
 - [Camicelli D, Faix A. Éjaculation prématurée : stratégie thérapeutique pour l'urologue. Progrès en Urologie. 2020. (PDF)](https://www.urofrance.org/sites/default/files/fileadmin/documents/data/PF/2020/6420/74883/FR/1355168/main.pdf)
 - [SFMS. Éjaculation prématurée : dernière mise au point de l'ISSM. 2014.](https://www.sfms.fr/litterature/ejaculation/ejaculation-prematuree-derniere-mise-au-point-de-lissm/)
 
