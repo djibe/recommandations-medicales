@@ -273,7 +273,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 
     // Register Orama search
     {{ $searchModule := resources.Get "/js/orama.mjs" | minify | fingerprint "sha384" }}
-    // document.getElementById('btn-search-modal').addEventListener('click', () => import('{{ $searchModule.Permalink }}'))
+    document.getElementById('btn-search-modal').addEventListener('click', () => import('{{ $searchModule.Permalink }}'))
 
     // Print
     document.getElementById('btn-print')?.addEventListener('click', () => {
