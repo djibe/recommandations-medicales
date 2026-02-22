@@ -3,22 +3,7 @@
 // Service Worker
 const CACHE_VERSION = 'v4';
 const CACHE_NAME = 'my-cache-' + CACHE_VERSION;
-const FILES_TO_CACHE = [
-  '/',
-  '/offline/',
-  '/recommandations/',
-  '/images/icons/recommandations.svg',
-  '/cabinet/',
-  '/images/icons/cabinet.svg',
-  '/articles/',
-  '/images/icons/articles.svg',
-  '/scores/',
-  '/manifest.webmanifest',
-  '/android-chrome-512x512.png',
-  '/images/icons/banner-og.jpg',
-  '/images/icons/placeholder.svg',
-  '{{ $sass.Permalink }}'
-];
+const FILES_TO_CACHE = [];
 
 self.addEventListener('appinstalled', function(event) {
   event.waitUntil(
