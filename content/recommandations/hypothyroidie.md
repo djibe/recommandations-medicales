@@ -37,9 +37,6 @@ Chapitre lié: [hypothyroïdie fruste]({{% relref "hypothyroidie-fruste.md" %}})
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-> [!INFO]
-> Ne pas dépister systématiquement l'hypothyroïdie en population générale.
-
 Hypothyroïdie
 : Dysfonctionnement thyroïdien le plus fréquent consistant en une sécrétion insuffisante d'hormones thyroïdiennes; le plus souvent par altération de la glande mais parfois par atteinte centrale hypothalamo-hypophysaire.
 : Définition biologique de l'hypothyroïdie avérée: ==TSH > 10 mUI/L et T4L < intervalle de référence du laboratoire==.
@@ -130,6 +127,9 @@ T4L
 
 {{% /collapse %}}
 {{% collapse "Clinique" %}}
+
+> [!INFO]
+> Ne pas dépister systématiquement l'hypothyroïdie en population générale.
 
 ### Interrogatoire
 
