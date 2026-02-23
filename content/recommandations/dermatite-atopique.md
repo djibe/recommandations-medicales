@@ -276,32 +276,30 @@ Traiter dès le début la poussée d'eczéma atopique:
 > Les corticoïdes par voie orale ou injectable n'ont aucune indication dans la dermatite atopique.
 
 {{% /collapse %}}
-{{%collapse "Vidéos de formation" %}}
-
-{{< youtube id="TCWEFYd3GWY" title="DA - La prise en charge patients (Pr JF Nicolas)" >}}
-
-{{< youtube id="aqFisNwwTPQ" title="SCORAD (Dr JF Stalder)" >}}
-
-{{% /collapse %}}
 {{%collapse "Prise en charge de la dermatite atopique" "show" %}}
 
-{{< mermaid title="Prise en charge de la dermatite atopique (eczéma). Dr JB Fron d'après EADV 2020, CEDEF 2021 et SFD 2005" >}}
+{{< mermaid title="Prise en charge de la dermatite atopique (eczéma). Dr JB Fron d'après SFD, EADV, CEDEF" >}}
 graph TB
   suspicion[Suspicion de dermatite atopique]
   style suspicion stroke:#4150f5, stroke-width:1px
-    suspicion --> criteres("<b>Critères diagnostiques</b><br>—<br>Prurit et ≥ 3 parmi:<br>- Début &lt; 2 ans<br>- Lésions des convexités<br>- ATCD personnel d'asthme/rhinite allergique<br>- Xérose généralisée<br>- Lésions d'eczéma des plis (enfant)") --> diagnostic[Dermatite atopique]
+    suspicion --> criteres("<b>Critères diagnostiques</b><br>—<br>Prurit et ≥ 3 parmi:<br>- Début avant 2 ans<br>- Lésions des convexités<br>- ATCD personnel d'asthme et<br>rhinite allergique<br>- Xérose généralisée<br>- Lésions d'eczéma des plis (enfant)") --> diagnostic[Dermatite atopique]
     style diagnostic stroke:#4150f5, stroke-width:1px
       diagnostic --> fond("- Émollients 1-2/j (1 kg/mois)<br>- Éviter les facteurs favorisants<br>- Arrêt du tabac<br>- Suivi clinique et croissance<br>- Soutien psychologique")
         fond -- Poussée --> dc("- Dermocorticoïdes<br>- Augmenter les émollients")
           dc -. Échec .-> echecs("- Résistance au traitement<br>- DA sévère")
             echecs --> spe("- Suivi spécialisé<br>- Bilan allergologique<br>- École de l'atopie")
-    suspicion -- Diagnostic différentiel --> differentiel("Dermite de contact, psoriasis,<br>lymphome cutané, gale<br>—<br>Nourrisson: dermatite séborrhéique, gale")
+    suspicion -- Diagnostic différentiel --> differentiel("- Eczéma de contact<br>- Psoriasis<br>- Lymphome cutané<br>- Gale<br>—<br>Nourrisson:<br>- dermatite séborrhéique<br>- gale")
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
-- [Centre de Preuves en Dermatologie, great, Société Française de Dermatologie. Recommandations françaises pour la prise en charge de la dermatite atopique. 2025. (PDF)](https://www.sfdermato.org/upload/recommandations/4_texte-long.pdf); [Sigg N, et al. Recommandations françaises pour la prise en charge de la dermatite atopique -- French guidelines for the management of atopic dermatitis. Annales de Dermatologie et de Vénéréologie - FMC. 2025.](https://www.em-consulte.com/article/1776488/recommandations-francaises-pour-la-prise-en-charge)
+{{< youtube id="TCWEFYd3GWY" title="DA - La prise en charge patients (Pr JF Nicolas)" >}}
+
+{{< youtube id="aqFisNwwTPQ" title="SCORAD (Dr JF Stalder)" >}}
+
+- [Centre de Preuves en Dermatologie, great, Société Française de Dermatologie. Recommandations françaises pour la prise en charge de la dermatite atopique. 2025. (PDF)](https://www.sfdermato.org/upload/recommandations/4_texte-long.pdf)  
+  Publication payante: [Sigg N, et al. Recommandations françaises pour la prise en charge de la dermatite atopique -- French guidelines for the management of atopic dermatitis. Annales de Dermatologie et de Vénéréologie - FMC. 2025.](https://www.em-consulte.com/article/1776488/recommandations-francaises-pour-la-prise-en-charge)
 - Prescrire Redaction. Eczéma atopique des nourrissons. Rev Prescrire. 2024.
 - [Wollenberg A, et al. First update of the living European guideline (EuroGuiDerm) on atopic eczema. J Eur Acad Dermatol Venereol. 2023.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.19269)
 - [Collège des enseignants de dermatologie de France (CEDEF). Hypersensibilités et allergies cutanéomuqueuses chez l'enfant et l'adulte. urticaire, dermatites atopique et de contact. Item 187. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-187-%E2%80%94-Hypersensibilites-et-allergies-cutaneo-muqueuses-chez-lenfant-et-ladulte.-Urticaire-dermatites-atopique-et-de-contact_CompressPdf.pdf)
