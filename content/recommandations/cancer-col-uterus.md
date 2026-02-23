@@ -321,9 +321,10 @@ Après cancer du col de l'utérus, le suivi comporte:
 - Si stérilisation: [traitement hormonal de la ménopause]({{% relref "menopause.md" %}})
 - Dépistage organisé des autres cancers
 
-> Les **récidives** surviennent surtout dans les 2 ans, mais 10 % interviennent après 5 ans.
+**NB.** Les **récidives** surviennent surtout dans les 2 ans, mais 10 % interviennent après 5 ans.
 
-En cas de conisation ou trachélectomie simple ou élargie: Test HPV-HR à 6 mois, 12 mois, 24 mois, puis si négatif, tous les 3 ans
+> [!INFO]
+> En cas de conisation ou trachélectomie simple ou élargie: test HPV-HR à 6 mois, 12 mois, 24 mois, puis si négatif, tous les 3 ans.
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}

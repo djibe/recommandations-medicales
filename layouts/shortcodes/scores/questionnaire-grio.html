@@ -103,7 +103,7 @@
 </div>
 <blockquote lang="en" class="blockquote my-4">
   <p class="mb-0"><a href="https://www.larevuedupraticien.fr/archive/elaboration-et-validation-dun-questionnaire-rapide-coconut-ca-destimation-des-apports" rel="external nofollow noopener">
-    Archembault P, et al. Elaboration et validation d'un questionnaire rapide (CocoNut Ca) d'estimation des apports calciques (valeur informationnelle et calcul de corrélation) comparativement à un entretien nutritionnel stand. La Revue du praticien Médecine générale 2005 ; 19 : 972-75.</a></p>
+    Archembault P, et al. Elaboration et validation d’un questionnaire rapide (CocoNut Ca) d’estimation des apports calciques (valeur informationnelle et calcul de corrélation) comparativement à un entretien nutritionnel stand. La Revue du praticien Médecine générale 2005 ; 19 : 972-75.</a></p>
 </blockquote>
 {{ $script := `
   // Score CocoNut Ca by djibe
@@ -113,12 +113,12 @@
     [...document.querySelectorAll('#score-grio input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcgrio() ) })
     const calcgrio = () => {
       let score = 0
-      const text = "Apports couverts si:<br>- 10-18 ans ou ménopause ou homme +65 ans: 15 pts<br>- Grossesse: 12 pts<br>- Autres adulte: 10 pts"
+      const text = "Apports couverts si:<br><br>- 10-18 ans ou ménopause ou homme +65 ans: 15 pts<br>- Grossesse: 12 pts<br>- Autres adulte: 10 pts"
       const checkedElems = document.querySelectorAll('#score-grio input[type=\"radio\"]:checked')
       if (checkedElems.length >= 1) {
         checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
         scoregrio.innerHTML = score
-        if (score < 10) { textgrio.innerHTML = text + " <p>Score &lt; 10: risque de carence chez l'adolescente<br>ou la femme ménopausée.</p>" }
+        if (score < 10) { textgrio.innerHTML = text + " <br><p>Score &lt; 10: risque de carence chez l’adolescente<br>ou la femme ménopausée.</p>" }
         else { textgrio.innerHTML = text }
       }
     }

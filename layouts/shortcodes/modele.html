@@ -2,7 +2,7 @@
   {{ with .Get "title" }}
     {{ $label = . }}
   {{ else }}
-  {{ $label = "Modèle d'ordonnance de première intention" }}
+  {{ $label = "Modèle d’ordonnance de première intention" }}
   {{ end }}
 
 <div role="dialog" aria-modal="true" aria-label="{{ $label }}" class="modal fade" tabindex="-1" {{ with .Get "id" }}id="{{ . }}"{{ else }}id="modal-modele"{{ end }}>

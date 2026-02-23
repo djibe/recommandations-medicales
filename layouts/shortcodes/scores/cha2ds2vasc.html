@@ -62,7 +62,7 @@
         score += parseInt(elemChecked.value, 10)
         scoreChads.innerHTML = score
         if (score === 0 && checkboxFemme.checked === false) {
-          textChads.innerHTML = "Risque d'AVC faible<br>Pas d’antithrombotique"
+          textChads.innerHTML = "Risque d’AVC faible<br>Pas d’antithrombotique"
         } else if (score === 1 && checkboxFemme.checked) {
           textChads.innerHTML = "Risque d’AVC faible<br>Pas d’antithrombotique"
         } else if (score === 1 && checkboxFemme.checked === false) {
@@ -75,7 +75,7 @@
       })
       if (elemsChecked.length === 0) {
         scoreChads.innerHTML = 0
-        textChads.innerHTML = "Risque d'AVC faible<br>Pas d'antithrombotique"
+        textChads.innerHTML = "Risque d’AVC faible<br>Pas d’antithrombotique"
       }
     }
   })` }}
