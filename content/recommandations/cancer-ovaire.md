@@ -101,7 +101,7 @@ Les signes et symptômes devant faire évoquer un cancer de l'ovaire en cas de p
   - Augmentation du volume abdominal
   - Métrorragies ou écoulements vaginaux
   - Signes de compression: troubles du transit, subocclusion, faux besoins, symptômes urinaires (impériosités, pollakiurie)
-  - Compression veineuse ou radiculaire: œdème d'un membre inférieur, phlébite, sciatique
+  - Compression veineuse ou radiculaire: œdème d'un membre inférieur, phlébite, [sciatique]({{% relref "sciatique.md" %}})
   - Dyspnée
   - Douleur thoracique
   - Altération de l'état général (AEG: [fatigue](/tags/fatigue/), anorexie, amaigrissement)

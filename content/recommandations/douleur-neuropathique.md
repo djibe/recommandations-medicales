@@ -122,7 +122,7 @@ Avis neurologique devant toute douleur neuropathique dont l'étiologie ou le tab
 ### Interrogatoire et examen
 
 - Antécédents  
-  Chirurgicaux, traumatiques, sciatique, [diabète]({{% relref "diabete-type-2.md" %}}) (ancienneté), [zona]({{% relref "zona.md" %}}), [SIDA]({{% relref "vih-sida.md" %}}), [piqûre de tique]({{% relref "maladie-lyme.md" %}}), maladie de système, [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), SEP, séjours tropicaux prolongés, exposition aux métaux lourds.
+  Chirurgicaux, traumatiques, [sciatique]({{% relref "sciatique.md" %}}), [diabète]({{% relref "diabete-type-2.md" %}}) (ancienneté), [zona]({{% relref "zona.md" %}}), [SIDA]({{% relref "vih-sida.md" %}}), [piqûre de tique]({{% relref "maladie-lyme.md" %}}), maladie de système, [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), SEP, séjours tropicaux prolongés, exposition aux métaux lourds.
 - Antécédents familiaux de neuropathie
 - Traitements neurotoxiques  
   Radio-chimiothérapie, isoniazide, métronidazole, éthambutol, nitrofurantoïne, colistine, dapsone, traitement antipaludéen, antirétroviraux...

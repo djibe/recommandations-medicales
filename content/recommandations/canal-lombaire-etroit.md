@@ -107,7 +107,7 @@ Les symptômes du canal lombaire étroit sont majorés debout.
   - Aggravation progressive à la marche imposant l'arrêt
   - Régression rapide à l'arrêt
   - Améliorée penché en avant (signe du Caddie)
-  - **Radiculalgie à la marche**: Sciatique tronquée bilatérale à bascule à la marche (descente ++) ou en position debout prolongée. Douleurs inconstantes
+  - **Radiculalgie à la marche**: [sciatique]({{% relref "sciatique.md" %}}) tronquée bilatérale à bascule à la marche (descente ++) ou en position debout prolongée. Douleurs inconstantes
   - **Troubles de la marche**: engourdissements, faiblesses irradiant de la colonne vertébrale vers les fesses
   - Déficit sensitif possible
   - Urgenturie rare

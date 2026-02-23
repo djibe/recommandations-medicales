@@ -55,7 +55,7 @@ Diagnostic différentiel de symptômes évocateurs de l'épine calcanéenne:
 - [Bursite sous-calcanéenne]({{% relref "bursite.md" %}})
 - Calcanéite inflammatoire ou métabolique
 - Neuropathie du nerf calcanéen
-- Sciatique S1 tronquée
+- [Sciatique S1]({{% relref "sciatique.md" %}}) tronquée
 - Compression de la première branche du nerf plantaire latéral
 - Tumeur
 - Varice plantaire

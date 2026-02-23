@@ -91,7 +91,7 @@ Signes et symptômes de la névralgie pudendale à rechercher à l'examen:
   - Hyperesthésie des sous-vêtements
   - Troubles sexuels: dyspareunie, allodynie vulvaire, excitation génitale persistante, dysfonction érectile
   - Troubles urinaires (pollakiurie, dysurie) ou rectaux (dyschésie, douleurs après la défécation)
-  - Douleurs fessières irradiantes, sciatique tronquée
+  - Douleurs fessières irradiantes, [sciatique]({{% relref "sciatique.md" %}}) tronquée
 - Signes négatifs: douleur exclusivement coccygienne, glutéale, paroxystique
 - Qualité de vie
 

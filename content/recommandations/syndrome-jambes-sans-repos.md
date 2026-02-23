@@ -306,7 +306,7 @@ Diagnostics alternatifs à étayer devant une suspicion de syndrome des jambes s
     {{%class%}}Mollets, cuisses, MS. Améliorées au mouvement, sans aggravation immobile ou le soir.{{%/class%}}
   - Neuropathie périphérique  
     {{%class%}}Douleurs, paresthésies sans amélioration au mouvement ni aggravation au repos/soirée, déficitaire, ENMG.{{%/class%}}
-  - Sciatique ou cruralgie
+  - [Sciatique]({{% relref "sciatique.md" %}}) ou cruralgie
   - Myalgies
   - Myélopathie  
     {{%class%}}Douleurs neuropathiques systématisées, sans amélioration au mouvement ou aggravation au repos/soirée.{{%/class%}}
