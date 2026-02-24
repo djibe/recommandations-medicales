@@ -213,7 +213,7 @@ gravité -- Non --> clinique("<b>Clinique</b><br>—<br>- Traitement à risque (
     bilan -- Basse --> basse("&lt; 275 mOsm/kg<br>= Hyponatrémie hypotonique") --> osmU(Osmolalité urinaire<br>sur échantillon) -- "≤ 100" --> NaUbasse("- Polydipsie<br>- Apports faibles en solutés<br>- Buveur de bière")
       osmU -- "&gt; 100" --> extracellulaire("<b>Évaluation du<br>compartiment extracellulaire</b><br>—<br>Clinique + concentration en NaU")
        extracellulaire -- Hypovolémie --> hypovolémie("NaU (mmol/L) ?") -- "NaU ≤ 30" --> pertes("- Pertes cutanées,<br>digestives<br>- 3e secteur: brûlure,<br>pancréatite")
-        hypovolémie -- "NaU &gt; 30" --> rénal("Pertes rénales: diurétique,<br>insuff. surrénale,<br>cerebral salt washing")
+        hypovolémie -- "NaU &gt; 30" --> rénal("Pertes rénales: diurétique,<br>insuff. surrénale,<br>cerebral salt wasting")
       extracellulaire -- Euvolémie --> euvolémie("Euvolémie et<br>NaU &gt; 30 mmol/L:<br>- SIADH<br>- Hypothyroïdie<br>- Insuffisance surrénale")
       extracellulaire -- Hypervolémie --> hypervolémie("Insuffisance d'organe:<br>cardiaque, hépatique,<br>rénale, sd néphrotique")
     bilan -- Élevée --> élevée("&gt; 300 mOsm/kg<br>= Hyponatrémie hypertonique<br>—<br>- Hyperglycémie<br>- Solutés hyperosmolaires")

@@ -24,7 +24,7 @@ todo = "annexe 6"
 
 {{%article-summary%}}
 
-- L'hyperémèse gravidique est la présence de nausées et vomissements sévères pendant la grossesse avec au moins un critère parmi: amaigrissement supérieur ou égal à 5%, signes de déshydratation, {{< modal-btn modal-puqe >}}score PUQE ≥ 7{{< /modal-btn >}}
+- L'hyperémèse gravidique est la présence de nausées et vomissements sévères pendant la grossesse avec au moins un critère parmi: amaigrissement supérieur ou égal à 5 %, signes de déshydratation, {{< modal-btn modal-puqe >}}score PUQE ≥ 7{{< /modal-btn >}}
 - Le bilan d'une hyperémèse gravidique comprend: bandelette urinaire, ionogramme, créatinine, échographie obstétricale
 - Les critères d'hospitalisation pour vomissements pendant la grossesse sont: amaigrissement ≥ 10 %, déshydratation, {{< modal-btn modal-puqe >}}score PUQE ≥ 13{{< /modal-btn >}}, hypokaliémie < 3 mmol/L, hyponatrémie < 120 mmol/L, créatininémie > 100 µmol/L, résistance au traitement
 - La prise en charge des nausées et vomissements de grossesse commence par les traitements suivants: gingembre, doxylamine (± pyridoxine) ou dimenhydrinate avec une réévaluation toutes les 48 heures jusqu'à amélioration
@@ -167,10 +167,10 @@ Recommandations pour la prise en charge médicamenteuse des nausées et vomissem
   - Prométhazine 25 mg 1/2 à 1 cp x 3-6/j ([Phénargan®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69764032/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/3528/))
   - Métopimazine ([Vogalène®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69503737/extrait#tab-rcp), [CRAT](https://www.lecrat.fr/11549/))
 - Soutien psychologique
-- Association de patientes: [Association de lutte contre l'hyperémèse gravidique](https://www.associationhg.fr) et [9 mois avec ma bassine](https://www.facebook.com/9moisavecmabassine/)
+- Association de patientes: [Association HG](https://www.associationhg.org)
 
 > [!WARNING]
-> Ne pas utiliser: aromathérapie.
+> Ne pas utiliser au cours de l'HG: aromathérapie.
 
 #### Prise en charge des vomissements sévères pendant la grossesse
 

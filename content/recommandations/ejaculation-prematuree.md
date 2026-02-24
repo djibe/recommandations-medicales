@@ -7,30 +7,31 @@ synonyms = ["Éjaculation précoce"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-08-01T15:55:34+02:00"
 publishdate = "2024-08-02"
-lastmod = "2024-09-08"
+lastmod = "2026-02-24"
 specialites = ["urologie"]
-annees = "2024"
-sources = ["AIUS", "EAU"]
+annees = "2025"
+sources = ["EAU", "AIUS"]
 tags = []
 english = ["Premature ejaculation"]
 sctid = "44001008"
 icd10 = ["F52.4"]
 image = false
 imageSrc = ""
-todo = "photo, calc PEP, conseils"
+todo = "photo, calc PEP, conseils, update 2026, relecture demandée eric.huyghe"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- L'éjaculation prématurée (EP) est un diagnostic d'interrogatoire qui associe:
+- L'éjaculation prématurée (EP) est une dysfonction sexuelle masculine décrite comme la perception subjective persistante et récurrente de la perte du contrôle contrôle du mécanisme éjaculatoire en présence de stimuli érotiques appropriés, en présence de critères objectifs
+- L'éjaculation prématurée est un diagnostic d'interrogatoire qui associe:
   - perte de contrôle de l'éjaculation
   - retentissement personnel et sur le couple
   - délai éjaculatoire inférieur à 2 minutes
-- L'examen clinique recherche les critères diagnostiques, le type d'éjaculation prématurée, sa sévérité et les troubles génito-sexuels associés, les traitements essayés ...
+- L'examen clinique recherche les critères diagnostiques, le type d'éjaculation prématurée, sa sévérité et les troubles génito-sexuels associés, les traitements essayés
 - Le bilan de l'éjaculation précoce n'est pas systématique et est ciblé sur les anomalies constatées
-- La prise en charge de l'éjaculation prématurée primaire associe conseils psychosexologiques, sexothérapie cognitivo-comportementale, antidépresseur ISRS dapoxétine 30 mg (Priligy) et anesthésique local lidocaïne et prilocaïne spray (Fortacin)
-- Adresser au sexologue/andrologue/urologue en cas de réponse insuffisante au traitement
+- La prise en charge de l'éjaculation prématurée primaire associe conseils psychosexologiques, sexothérapie cognitivo-comportementale, antidépresseur ISRS dapoxétine 30 mg (Priligy®) et anesthésique local lidocaïne et prilocaïne spray (Fortacin®)
+- Adresser au spécialiste (sexologue, andrologue, urologue) en cas de réponse insuffisante au traitement
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -38,19 +39,20 @@ flowchart = true
 Éjaculation prématurée (EP)
 : Définition de cette dysfonction sexuelle masculine par le *SIAMS*: perception subjective persistante et récurrente de la perte du contrôle contrôle du mécanisme éjaculatoire en présence de stimuli érotiques appropriés; avec une détresse subjective liée à l'EP retentissant chez le patient et le partenaire; et un temps de latence intra-vaginal (TLIV) court, qu'il soit subjectivement perçu par le patient et son partenaire ou objectivement mesuré comme étant inférieur à 180 secondes (en général). D'autres définitions proches sont aussi acceptées (SIMS, DSM-5, CIM-11).
 : La même définition est utilisée pour les autres types de rapports sexuels (masturbation, sexe oral ou anal) et les rapports homosexuels.
-: La prévalence est estimée à 5 % des hommes avec une forte association avec la dysfonction érectile (jusqu'à 50%).
+: La prévalence est estimée à 5 % des hommes avec une forte association avec la dysfonction érectile (jusqu'à 50 %).
 
 {{< table title="Description des 4 syndromes d'éjaculateur prématurée utilisés pour la classification des hommes se plaignant d'éjaculation prématurée. Dr JB Fron d'après *AIUS 2024*" class="table-wrap" >}}
 | EP primaire | EP acquise | EP variable | EP subjective |
-|-------------|------------|-------------|---------------|
-| DEI sous 30-60 s (80%), max 2 min | < 2 min | DEI court ou normal | DEI normal ou allongé |
+| ----------- | ---------- | ----------- | ------------- |
+| DEI sous 30-60 s (80 %), max 2 min | < 2 min | DEI court ou normal | DEI normal ou allongé |
 | EP présente depuis toujours | Développement secondaire | EP inconstante et irrégulière | Perception subjective, constante ou irrégulière |
 | Avec tous les partenaires | Apparition au cours de la vie sexuelle | Le contrôle de l'éjaculation peut être réduit ou absent | Le contrôle de l'éjaculation peut être réduit ou absent |
 | Éjaculation trop tôt presque tout le temps | Raccourcissement du DEI brutal ou progressif | Impression de contrôle réduit | EP imaginaire ou manque de contrôle |
 | EP persistante (neurobiologique / génétique) | Pathologie urologique, thyroïdienne, psychologique, relationnelle | Psychothérapie en 1re ligne | Pas d'autre diagnostic attribuable |
 {{< /table >}}
 
-> **NB.** Seules les éjaculations prématurées primaires ou acquises sont considérées comme dysfonctionnelles.
+> [!INFO]
+> Seules les éjaculations prématurées primaires ou acquises sont considérées comme dysfonctionnelles.
 
 ### Abréviations
 
@@ -80,14 +82,15 @@ TLIV
 
 ### Interrogatoire
 
-- Antécédents dont anxiété, violences sexuelles
+- Antécédents  
+  Anxiété, violences sexuelles, hyperthyroïdie, hypertrophie bénigne de la prostate (HBP).
 - Traitements en cours
 - Toxiques
 - Questionnaires d'aide au diagnostic: {{< modal-btn modal-pedt >}}score PEDT{{< /modal-btn >}}, IPE
-- [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}})
+- [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}) associée
 - Signes d'infection génito-urinaire
 - Troubles sexuels chez le partenaire
-- Efficacité thérapeutique: {{< modal-btn modal-pep >}}score PEP{{< /modal-btn >}}
+- Efficacité thérapeutique: score PEP
 - Symptômes vésicaux et génitaux
 - Éléments ci-dessous
 
@@ -142,13 +145,13 @@ Le traitement de l'éjaculation prématurée se réfère au modèle biopsychosoc
 
 La prise en charge de l'éjaculation prématurée associe:
 
-- Antidépresseur ISRS dapoxétine ([Priligy®](https://base-donnees-publique.medicaments.gouv.fr/medicament/67084087/extrait#tab-rcp) 30 mg voire 60 mg) à la demande  
-  1 à 3 heures avant.
+- Antidépresseur ISRS **dapoxétine** ([Priligy®](https://base-donnees-publique.medicaments.gouv.fr/medicament/67084087/extrait#tab-rcp) 30 mg voire 60 mg) à la demande  
+  1 à 3 heures avant le rapport.
 - Autres ISRS possibles hors AMM: paroxétine 20 mg/j voire clomipramine 10 mg/j, en continu voire à la demande
 - Anesthésique local pour l'EP primaire: lidocaïne + prilocaïne spray ([Fortacin®](https://www.ema.europa.eu/fr/documents/product-information/fortacin-epar-product-information_fr.pdf), NR, disponible sans ordonnance)  
   3 pulvérisations sur le gland (= 1 dose) 10 minutes avant le rapport. Max 3 doses/j espacées d'au moins 4 heures.
-- Conseils psychosexologiques
-- Sexothérapie de type cognitivo-comportemental impliquant la/le partenaire
+- **Conseils psychosexologiques**
+- **Sexothérapie** de type cognitivo-comportemental impliquant la/le partenaire
 - Si dysfonction érectile: la traiter préalablement
 
 > [!WARNING]
@@ -157,20 +160,19 @@ La prise en charge de l'éjaculation prématurée associe:
 {{% /collapse %}}
 {{% collapse "Prise en charge de l'éjaculation prématurée" "show" %}}
 
-{{< mermaid title="Prise en charge de l'éjaculation prématurée. Dr JB Fron d'après AIUS 2024">}}
+{{< mermaid title="Prise en charge de l'éjaculation prématurée par le médecin généraliste. Dr JB Fron d'après EAU et AIUS 2024">}}
 graph TB
-  suspicion["Plainte d'éjaculation<br>prématurée"] --> interrogatoire("<b>Interrogatoire</b><br>—<br>- Délai d'éjaculation<br>- Contrôle de l'éjaculation<br>- Retentissement sur<br>le partenaire<br>- Fréquence du trouble<br>± Questionnaire") ==> diagnostic(Diagnostic d'EP) --> caractères("<b>Caractères de l'EP</b><br>—<br>- Primaire ou secondaire<br>- Ancienneté<br>- Sévérité<br>- Comorbidités<br>- Environnement:<br>relationnel, sexuel,<br>psychologique,<br>environnemental") --> clinique("<b>Examen clinique</b><br>—<br>- Général si suspicion<br>de dysthyroïdie<br>- Génital<br>- TR si suspicion<br>de prostatite<br>- Bilan non systématique") --> traitement("<b>Prise en charge</b><br>—<br>- Sexothérapie<br>cognitivo-comportementale<br>- IRS dapoxétine Priligy®<br>- Anesthésique local Fortacin®<br>- Conseils psychosexologiques<br>- Si dysfonction érectile:<br>traitement préalable")
-    interrogatoire --> pseudo(Pseudo EP)
-    interrogatoire --> variable(Éjaculation variable)
+  suspicion["Plainte d'éjaculation<br>prématurée (EP)"] --> interrogatoire("<b>Interrogatoire</b><br>—<br>- Délai d'éjaculation<br>- Contrôle de l'éjaculation<br>- Retentissement sur<br>le partenaire<br>- Fréquence du trouble<br>± Questionnaire") ==> diagnostic(Diagnostic d'EP) --> caractères("<b>Caractères de l'EP</b><br>—<br>- Primaire ou secondaire<br>- Ancienneté<br>- Sévérité<br>- Comorbidités<br>- Contexte:<br>relationnel, sexuel,<br>psychologique, environnemental") --> clinique("<b>Examen clinique</b><br>—<br>- Général si suspicion<br>de dysthyroïdie<br>- Génital<br>- TR si suspicion de prostatite<br>- Bilan non systématique") --> traitement("<b>Traitement</b><br>—<br>- Sexothérapie<br>cognitivo-comportementale<br>- IRS dapoxétine Priligy®<br>- Anesthésique local Fortacin®<br>- Conseils psycho-sexologiques<br>- Si dysfonction érectile:<br>traitement préalable") --> sépcialiste("Échec ou atypique:<br>avis spécialisé")
+    interrogatoire -- Autres cas --> autres("- Pseudo EP<br>- Éjaculation<br> variable")
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Salonia A, et al. EAU Guidelines on Sexual and Reproductive Health. 2025.](https://uroweb.org/guidelines/sexual-and-reproductive-health/chapter/disorders-of-ejaculation)
 - [Huyghe E, et al; AIUS. Recommendations for the diagnosis and evaluation of premature ejaculation. Fr J Urol. 2024.](https://www.sciencedirect.com/science/article/pii/S2950393024001542)
-- [Salonia A, et al. EAU Guidelines on Sexual and Reproductive Health. 2024.](https://uroweb.org/guidelines/sexual-and-reproductive-health/chapter/disorders-of-ejaculation)
-- [Huyghe E, et al; AIUS. Recommandations pour le traitement de l'éjaculation prématurée. Progrès en urologie. 2023.](https://www.urofrance.org/recommandation/recommandations-pour-le-traitement-de-lejaculation-prematuree/)
+- [Huyghe E, et al; AIUS. Recommandations pour le traitement de l'éjaculation prématurée. Progrès en urologie. 2023.](https://www.sciencedirect.com/science/article/pii/S1166708723000453)
 - [Collège Français des Enseignants en Urologie (CFEU). Sexualité normale et ses troubles. Item 50. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-58-Sexualite-normale-et-ses-troubles.pdf)
 - [Sathianathen NJ, et al. Selective serotonin re‐uptake inhibitors for premature ejaculation in adult men. Cochrane Database of Systematic Reviews. 2021.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012799.pub2/full/fr)
 - [Camicelli D, Faix A. Éjaculation prématurée : stratégie thérapeutique pour l'urologue. Progrès en Urologie. 2020. (PDF)](https://www.urofrance.org/sites/default/files/fileadmin/documents/data/PF/2020/6420/74883/FR/1355168/main.pdf)
@@ -178,14 +180,10 @@ graph TB
 
 ### Bibliographie en attente
 
-[Romano L, et al. Comparison of Current International Guidelines on Premature Ejaculation: 2024 Update. Diagnostics (Basel). 2024.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11353472/)
+- [Boulenger de Hauteclocque A. Éjaculation prématurée : le point sur les recommandations. Progrès en Urologie - FMC. 2025.](https://www.sciencedirect.com/science/article/abs/pii/S1761676X2500094X) (payant)
+- [Romano L, et al. Comparison of Current International Guidelines on Premature Ejaculation: 2024 Update. Diagnostics (Basel). 2024.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11353472/)
 
 {{%/sources%}}
-{{% modal title="Score PEP pour l'éjaculation prématurée" id="modal-pep"%}}
-
-{{< scores/pep >}}
-
-{{% /modal %}}
 {{% modal title="Score PEDT pour l'éjaculation prématurée" id="modal-pedt"%}}
 
 {{< scores/pedt >}}

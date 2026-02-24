@@ -27,9 +27,9 @@ flowchart = true
 - L'andropause ou déficit en testostérone associe des symptômes cliniques compatibles (sexuels, sarcopénie, neuropsychologiques) à une baisse de la testostérone et augmente avec l'âge
 - Suspecter un déficit en testostérone en cas de: terrain à risque (alcoolisme, diabète, obésité, cancer et autres comorbidités sévères, antécédents testiculaires) avec symptômes évocateurs (baisse du désir sexuel et des érections matinales, dysfonction érectile, perte d'efficacité des IPDE5, fatigue, amyotrophie, dépilation, gynécomastie)
 - Le bilan initial de l'andropause comprend: TSH et testostéronémie libre ou biodisponible à jeun entre 8 et 11 heures avec contrôle à 1 mois
-- En cas de testostéronémie basse: compléter avec LH, hématocrite et PSA. Un avis spécialisé peut être demandé en cas de testostéronémie normale avec des signes évocateurs
-- La prise en charge est toujours spécialisée (endocrinologue, urologue selon le type d'hypogonadisme au bilan) pour la prescription initiale de testostérone dont les contre-indications sont rares
-- La prise en charge de l'andropause associe: traitement par testostérone avec suivi régulier, correction d'un surpoids et activité physique régulière
+- En cas de testostéronémie basse: compléter le bilan avec LH, hématocrite et PSA. Un avis spécialisé peut être demandé en cas de testostéronémie normale avec des signes évocateurs
+- La prise en charge de l'andropause est toujours spécialisée (endocrinologue, urologue selon le type d'hypogonadisme au bilan) pour la prescription initiale de testostérone dont les contre-indications sont rares
+- Le traitement de l'andropause associe: testostérone avec suivi régulier, correction d'un surpoids et activité physique régulière
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

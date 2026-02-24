@@ -17,7 +17,7 @@ sctid = "23056005"
 icd10 = ["M54.3"]
 image = true
 imageSrc = "Hernie discale lombaire responsable d'une sciatique. OpenStax College, CC BY 3.0, via Wikimedia Commons"
-todo = "flow"
+todo = "flow, biblio"
 +++
 
 {{%article-summary%}}
@@ -149,16 +149,16 @@ En cas de douleurs séquellaires post-opératoires ou non opérables, avis du **
 - [Oliveira CB, et al. Epidural corticosteroid injections for lumbosacral radicular pain. Cochrane Database of Systematic Reviews. 2020.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013577/full)
 - [Jensen RK, et al. Diagnosis and treatment of sciatica. BMJ. 2019.](https://www.bmj.com/content/367/bmj.l6273.long) (payant)
 - [Rasmussen‐Barr E, et al. Non‐steroidal anti‐inflammatory drugs for sciatica. Cochrane Database of Systematic Reviews. 2016.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012382/full)
+- [Ferreira ML, McLachlan A. The Challenges of Treating Sciatica Pain in Older Adults. Drugs Aging. 2016.](https://link.springer.com/article/10.1007/s40266-016-0404-z) (payant)
 - [van der Windt D, et al. Physical examination for lumbar radiculopathy due to disc herniation in patients with low‐back pain. Cochrane Database of Systematic Reviews. 2010.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007431.pub2/full)
 - [Dahm KT, et al. Advice to rest in bed versus advice to stay active for acute low‐back pain and sciatica. Cochrane Database of Systematic Reviews. 2010.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007612.pub2/full)
+- [Chou R, Huffman LH; American Pain Society; American College of Physicians. Nonpharmacologic therapies for acute and chronic low back pain: a review of the evidence for an American Pain Society/American College of Physicians clinical practice guideline. Ann Intern Med. 2007.](https://www.acpjournals.org/doi/10.7326/0003-4819-147-7-200710020-00007)
 - [Koes BW, et al. Diagnosis and treatment of sciatica. BMJ. 2007.](https://pmc.ncbi.nlm.nih.gov/articles/pmid/17585160/)
 - {{< references/aderim >}}
 
 ### Bibliographie en attente
 
-- [Price MR, et al. Medication recommendations for treatment of lumbosacral radiculopathy: A systematic review of clinical practice guidelines. PM R. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/pmrj.13142)
-- [Ferreira ML, McLachlan A. The Challenges of Treating Sciatica Pain in Older Adults. Drugs Aging. 2016.](https://link.springer.com/article/10.1007/s40266-016-0404-z)
-- [Chou R, Huffman LH; American Pain Society; American College of Physicians. Nonpharmacologic therapies for acute and chronic low back pain: a review of the evidence for an American Pain Society/American College of Physicians clinical practice guideline. Ann Intern Med. 2007.](https://www.acpjournals.org/doi/10.7326/0003-4819-147-7-200710020-00007)
+- [Price MR, et al. Medication recommendations for treatment of lumbosacral radiculopathy: A systematic review of clinical practice guidelines. PM R. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/pmrj.13142) (payant)
 
 Mot-clé: sciatalgie
 

@@ -154,10 +154,7 @@ Les myomes (fibromyomes ou fibromes) sont opérés par hystéroscopie, cœliosco
 {{% /collapse %}}
 {{%collapse "Prise en charge des ménorragies" %}}
 
-[Déclarer à la pharmacovigilance](https://signalement.social-sante.gouv.fr) des ménorragies imputables à la vaccination Covid-19 ([guide PDF](https://ansm.sante.fr/uploads/2022/08/01/20220801-covid-19-troubles-menstruels-tutoriel-pds-26-07-2022.pdf), *ANSM 2022*).
-{.alert .alert-warning}
-
-Lire le chapitre dédié sur la [prise en charge de l'anémie par carence martiale]({{% relref "anemie.md" %}}).
+> Lire le chapitre dédié sur la [prise en charge de l'anémie par carence martiale]({{% relref "anemie.md" %}}).
 
 ### Prise en charge des ménorragies de la femme
 

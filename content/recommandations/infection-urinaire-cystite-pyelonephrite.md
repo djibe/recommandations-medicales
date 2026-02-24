@@ -186,7 +186,7 @@ Bilan avec échographie des voies urinaires et mesure du résidu post-mictionnel
   - Traitement d'une cystite aiguë simple (sauf nitrofurantoïne)
   - Si éducation possible: auto-BU et auto-antibiothérapie si positive, suivi semestriel
 
-Éviter au maximum une **antibioprophylaxie** au long cours. En dernier recours avec > 1 épisode par mois et échec des autres mesures, sur avis spécialisé, par fosfomycine trométamol 3g 1 dose/semaine ou triméthoprime 150 mg/j au coucher (voire cotrimoxazole 400/80 mg/j au coucher).
+Éviter au maximum une **antibioprophylaxie** au long cours. En dernier recours avec > 1 épisode par mois et échec des autres mesures, sur avis spécialisé, par fosfomycine trométamol 3g 1 dose/semaine ou [triméthoprime](https://base-donnees-publique.medicaments.gouv.fr/medicament/66142235/extrait#tab-rcp) 150 mg/j au coucher (voire cotrimoxazole 400/80 mg/j au coucher).
 
 **Cystites post-coïtales:** mêmes antibiotiques à prendre dans les 2 heures avant ou après le rapport, sans dépasser le rythme de la prophylaxie continue.
 
@@ -278,7 +278,7 @@ Prise en charge de la colonisation urinaire gravidique par **antibiothérapie sy
 1. ==Amoxicilline 1g x 3/j pendant 7 jours==
 2. Pivmécillinam (Selexid®) 400 mg x 2/j pendant 7 jours
 3. Fosfomycine trométamol 3g dose unique
-4. Triméthoprime 300 mg/j pendant 7 jours  
+4. [Triméthoprime](https://base-donnees-publique.medicaments.gouv.fr/medicament/66142235/extrait#tab-rcp) 300 mg/j pendant 7 jours  
   Éviter avant 10 SA.
 5. Alternatives pendant 7 jours: nitrofurantoïne 100 mg x 3/j, cotrimoxazole 800/160 mg x 2/j (éviter avant 10 SA) ou amoxicilline/clavulanique 1g x 3/j
 

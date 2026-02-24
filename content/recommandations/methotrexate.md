@@ -55,8 +55,8 @@ Lire les [RCP](https://base-donnees-publique.medicaments.gouv.fr/medicament/6149
 
 - Vaccins vivants (fièvre jaune, ROR, varicelle, BCG)
 - Aspirine autre qu'à dose antiagrégante (si MTX > 20 mg/sem)
-- Triméthoprime-sulfaméthoxazole (Bactrim®)
-- Probénécide
+- Triméthoprime-sulfaméthoxazole (Bactrim®, cotrimoxazole)
+- Probénécide (Santuril®)
 - Phénylbutazone
 
 Associations médicamenteuses déconseillées: AINS, pénicilline, ciprofloxacine, IPP, acitrétine et tous les néphrotoxiques.
