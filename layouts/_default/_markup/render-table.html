@@ -4,6 +4,9 @@
       {{- printf " %s=%q" $k $v | safeHTMLAttr }}
     {{- end }}
   {{- end }}>
+  {{- with .Attributes.caption }}
+    <caption>{{ . | $.Page.RenderString }}</caption>
+  {{- end }}
   <thead>
     {{- range .THead }}
       <tr>
