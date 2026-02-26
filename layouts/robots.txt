@@ -37,7 +37,6 @@ User-agent: ChatGPT Agent
 User-agent: ChatGPT-User
 User-agent: Claude-SearchBot
 User-agent: Claude-User
-User-agent: Claude-Web
 User-agent: ClaudeBot
 User-agent: Cloudflare-AutoRAG
 User-agent: CloudVertexBot
