@@ -133,9 +133,8 @@ Signes radiographiques de la fracture vertébrale:
 - De profil: aspect << en coin >>
 - De face: aspect trapézoïdal (<< **vertèbre cunéiforme** >>), concave ou biconcave ou << en galette >>
 
-{{< table title="Signes radiographiques en faveur d'une fracture vertébrale bénigne et maligne. Dr JB Fron d'après Slouma M et al 2020" class="table-wrap">}}
 | Radiographie | En faveur de bénignité | En faveur de malignité |
-|--------------|------------------------|------------------------|
+| ------------ | ---------------------- | ---------------------- |
 | Nombre | Multiples | Unique |
 | Siège | Dorso-lombaire | Au-dessus de T5 |
 | Aspect | Symétrique | Latéralisé |
@@ -143,7 +142,7 @@ Signes radiographiques de la fracture vertébrale:
 | Hauteur | < 25 % de la hauteur | > 50 % |
 | Corticale | Fracturée, non effacée | Effacée |
 | Arc postérieur | Respecté | Lyse d'1 à 2 pédicule(s) |
-{{< /table >}}
+{caption="Signes radiographiques en faveur d'une fracture vertébrale bénigne et maligne. Dr JB Fron d'après Slouma M et al 2020" class="table-wrap"}
 
 ### Bilan biologique
 

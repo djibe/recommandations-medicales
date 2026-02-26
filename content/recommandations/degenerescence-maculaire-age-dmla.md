@@ -46,14 +46,13 @@ Drusen
 Métamorphopsies
 : Perception déformée des lignes droites et des images.
 
-{{< table title="Classification simplifiée de l'AREDS de la dégénérescence maculaire liée à l'âge (DMLA)" class="table-wrap" >}}
 | Catégorie                              | Critères cliniques                                                                                                                        |
-|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Catégorie 1                            | Aucun ou quelques petits drusen (diamètre < 63 µm)                                                                                        |
 | Catégorie 2: maculopathie liée à l'âge | Au moins 1 parmi: multiples petits drusen, quelques drusen de taille intermédiaire (63-125 µm), anomalies de l'EP                         |
 | Catégorie 3: DMLA modérée              | Au moins 1 parmi: multiples drusen de taille intermédiaire et au moins 1 grand drusen (> 125 µm), atrophie géographique excluant la fovéa |
 | Catégorie 4: DMLA avancée              | Atrophie géographique touchant la fovéa ou DMLA exsudative                                                                                |
-{{< /table >}}
+{caption="Classification simplifiée de l'AREDS de la dégénérescence maculaire liée à l'âge (DMLA)" class="table-wrap"}
 
 ### Abréviations
 

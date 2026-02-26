@@ -270,14 +270,13 @@ Une somnolence sévère doit faire rechercher une autre cause de troubles du som
 {{< modal-btn modal-score-irls >}}Auto-questionnaire{{< /modal-btn >}} essentiel pour le suivi des symptômes du syndrome des jambes sans repos et de l'efficacité thérapeutique.  
 Une prise en charge spécifique est indiquée d'emblée pour les formes modérée à très sévères (score IRLS ≥ 11).
 
-{{< table title="Sévérité du syndrome des jambes sans repos selon l'échelle IRLS" >}}
 | Score | Sévérité    |
-|:-----:|-------------|
+| :---: | ----------- |
 | ≤ 10  | Léger       |
 | 11-20 | Modéré      |
 | 21-30 | Sévère      |
 | ≥ 31  | Très sévère |
-{{< /table >}}
+{caption="Sévérité du syndrome des jambes sans repos selon l'échelle IRLS"}
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}

@@ -29,13 +29,12 @@ Ameli Pro et tous les services en ligne proposant une connexion avec la carte CP
 - Installer **ATSAM** 4.66.01 ([Windows](https://e.pcloud.link/publink/show?code=XZNGoOZzuciC5kcrb7vLN2G2IikpVvHtLlX) ou [Mac](https://e.pcloud.link/publink/show?code=XZOGoOZRvlIdrchK2hWOB3fg0RIIpO3uMey))
 - Pour lire la **carte vitale** depuis le navigateur internet, l'extension officielle "Lecture Carte Vitale" est nécessaire ([navigateur Chrome/Edge](https://chrome.google.com/webstore/detail/lecture-carte-vitale/kpjpglcbcgnblkigbedgaoegjbifejka?hl=fr) ou [Firefox](https://addons.mozilla.org/fr/firefox/addon/lecture-carte-vitale/))
 
-{{< table title="Logiciels nécessaires pour faire le fonctionnement de la carte CPS sur l'ordinateur du médecin." >}}
 | Logiciel                | Version | Téléchargement                                                                      |
-|-------------------------|--------:|-------------------------------------------------------------------------------------|
+| ----------------------- | ------: | ----------------------------------------------------------------------------------- |
 | ATSAM (Windows)         | 4.67.03 | [Lien](https://e.pcloud.link/publink/show?code=XZbXzNZEaVjeIPHBUu8Msy5TtGGBRu2hu37) |
 | ATSAM (MacOS)           | 4.67.03 | [Lien](https://e.pcloud.link/publink/show?code=XZQXzNZDd1cvTwy0J7fOKN9l3DaIQb43VsV) |
 | Cryptolib CPS (Windows) |   5.2.5 | [Lien](https://e.pcloud.link/publink/show?code=XZnXzNZvwAYKmArC0bTXuHOaauYA7L9Iop7) |
-{{< /table >}}
+{caption="Logiciels nécessaires pour faire le fonctionnement de la carte CPS sur l'ordinateur du médecin"}
 
 ### ATSAM
 

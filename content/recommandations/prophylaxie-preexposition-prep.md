@@ -267,14 +267,13 @@ Quel que soit le schéma: poursuivre 1 cp par jour pendant **2 jours** après le
 Le suivi du patient avec PrEP est nécessaire tous les 2 à 6 mois. Le suivi est spécialisé en cas d'[hépatite B active]({{% relref "hepatite-b.md" %}}).
 {.alert .alert-info}
 
-{{< table title="Suivi de la PrEP orale tous les 2 à 6 mois. Schéma préconisé selon *HAS* et *ANSM*" >}}
 | Période | Bilan       | Remarque   |
-|:-------:|-------------|------------|
+| :-----: | ----------- | ---------- |
 | 1 mois  | - Sérologie VIH<br>- Créatininémie, CKD-EPI | ßHCG non systématique |
 | 4 mois  | - Idem + IST<br>- ALAT  | Clairance ≥ 90: bilan annuel<br>70-90 ou âge ≥ 55: 6 mois<br>< 70: 3 mois |
 | Trimestriel | - Sérologie VIH, syphilis<br>- IST, ALAT, phosphore, ßHCG | Rythme de la créatinine selon la clairance |
 | Annuel  | - Sérologie VHC*<br>- Protéinurie/créatininurie sur échantillon | |
-{{< /table >}}
+{caption="Suivi de la PrEP orale tous les 2 à 6 mois. Schéma préconisé selon *HAS* et *ANSM*"}
 
 > Sites de dépistage des IST gonocoque + *Chlamydia* selon les pratiques  
 *Sérologie syphilis recommandée par l'EADV, sérologie VHC plus fréquente si UDI, chemsex ou pratiques traumatisantes

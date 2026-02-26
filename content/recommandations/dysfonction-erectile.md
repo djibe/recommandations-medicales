@@ -48,14 +48,13 @@ Dysfonction érectile (DE, *ex* impuissance)
 : Incapacité persistante ou répétée à obtenir/maintenir une érection suffisante pour permettre une activité sexuelle satisfaisante **durant plus de 3 mois**. S'y ajoute le retentissement psychologique du patient/couple (DSM IV).
 : Le risque cardiovasculaire est nettement augmenté chez l"homme atteint de dysfonction érectile (mortalité OR 1,26; mortalité cardiovasculaire OR 1,43).
 
-{{< table title="Prévalence de la dysfonction érectile selon l'âge" >}}
 | Âge (ans) | Prévalence (%) |
 | --------: | -------------: |
 |     18-39 | 1-10           |
 |     40-59 | 2-30           |
 |     60-69 | 20-40          |
 |     70    | 50-75          |
-{{< /table >}}
+{caption="Prévalence de la dysfonction érectile selon l'âge"}
 
 ### Facteurs de risque de dysfonction érectile indépendants de l'âge
 

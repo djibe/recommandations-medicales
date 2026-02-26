@@ -42,12 +42,11 @@ Hyperéosinophilie (HE)
 : Les complications d'une hyperéosinophilie sont viscérales avec libération de médiateurs protéolytiques dans les tissus à risque (cardiaque, pulmonaire, cutané, digestif, neurologique), la plus grave étant la fibrose endomyocardique.
 : Il n'y a pas de corrélation entre le taux d'éosinophiles et la sévérité des manifestations cliniques.
 
-{{< table title="Classification des éosinophilies selon l'*ICOG-Eo*" >}}
 | Entité                | Définition                                  |
-|-----------------------|---------------------------------------------|
+| --------------------- | ------------------------------------------- |
 | Éosinophilie sanguine | PNE de 0,5 - 1,5 G/L                        |
 | Hyperéosinophilie     | PNE > 1,5 G/L et/ou éosinophilie tissulaire |
-{{< /table >}}
+{caption="Classification des éosinophilies selon l'*ICOG-Eo*"}
 
 Syndromes hyperéosinophilique (SHE)
 : Hyperéosinophilie sanguine (≥ 1500/mm³) avec dommages tissulaires attribuables en l'absence d'autre cause.

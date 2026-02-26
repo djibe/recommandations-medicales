@@ -47,14 +47,13 @@ Hyperkaliémie
 : Les complications sont le risque de décès par hypoexcitabilité myocardique et les troubles neuromusculaires. Sa prévalence est estimée à 1 % en ville.
 : L'hyperkaliémie est définie avec un seuil de 5,5 mmol/L chez l'enfant et 6 mmol/L chez le nouveau-né.
 
-{{< table title="Définitions de l'hyperkaliémie selon la ERC, la KDIGO et la ESC." >}}
 | Hyperkaliémie | ERC 2025 | KDIGO 2020 | ESC 2018 |
 | ------------- | :------: | :--------: | :------: |
-| Légère | 5,5 - 5,9 | LSN/5,0 - 5,9 ||
-| Modérée | 6,0 - 6,4 | 6,0 - 6,4 ||
-| Sévère | ≥ 6,5 | ≥ 6,5 ||
-| Extrême | ≥ 9 |||
-{{< /table >}}
+| Légère | 5,5 - 5,9 | LSN/5,0 - 5,9 | |
+| Modérée | 6,0 - 6,4 | 6,0 - 6,4 | |
+| Sévère | ≥ 6,5 | ≥ 6,5 | |
+| Extrême | ≥ 9 | | |
+{caption="Définitions de l'hyperkaliémie selon la ERC, la KDIGO et la ESC"}
 
 > **NB.** Définitions du KDIGO **en l'absence de signe ECG**. **LSN =** limite supérieure de la normale du laboratoire
 
@@ -277,7 +276,6 @@ Les apports quotidiens en potassium recommandés chez l'adulte dans la populatio
 
 Les apports alimentaires proviennent principalement des **fruits**, **légumes** et de la **viande** (et des sels << allégés >>, KCl).
 
-{{< table title="Aliments riches en potassium. Dr JB Fron d'après Bedca.net" >}}
 | Aliment | mg/100 g |
 | ------- | -------: |
 | **Légumes** | |
@@ -315,7 +313,7 @@ Les apports alimentaires proviennent principalement des **fruits**, **légumes**
 | Lentilles | 463 |
 | **Cacao** | 712 |
 | **Viande** | 270-490 |
-{{< /table >}}
+{caption="Aliments riches en potassium. Dr JB Fron d'après Bedca.net"}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une hyperkaliémie" "show" %}}

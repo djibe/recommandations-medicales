@@ -216,14 +216,13 @@ Accès libre à la vaccination en [centre de vaccination](ttps://www.sante.fr/mp
 
 Utilisation le plus souvent de 2 doses de vaccin Mpox (vaccin **MVA-BN** de 3^e^ génération) sauf immunodépression (2 à 3 doses chez PVVIH) ou travailleur du sexe (tableau ci-dessous).
 
-{{< table title="Schéma de vaccin Mpox à effectuer en prévention primaire selon la *HAS 2024*. **Légende:** **Idep =** immunodéprimé; **MVA-BN =** vaccin de 3e génération" >}}
 | Sujet éligible                       | Vacciné < 1980 | Non vacciné | Idep vacciné < 1980 | Idep non vacciné |
-|--------------------------------------|:--------------:|:-----------:|:-------------------:|:----------------:|
+| ------------------------------------ | :------------: | :---------: | :-----------------: | :--------------: |
 | Aucune dose de MVA-BN                |     1 dose     |   2 doses   | 3 doses             | 3 doses          |
 | 1 dose de MVA-BN                     |     Aucun      |   1 dose    | 2 doses             | 2 doses          |
 | Schéma complet de MVA-BN             |     Aucun      |   1 dose    | 1 dose              | 2 dose           |
 | Mpox contracté de 2022 à aujourd'hui |     Aucun      |    Aucun    | Aucun               | Aucun            |
-{{< /table >}}
+{caption="Schéma de vaccin Mpox à effectuer en prévention primaire selon la *HAS 2024*. **Légende:** **Idep =** immunodéprimé; **MVA-BN =** vaccin de 3e génération"}
 
 [Liste des Centres de vaccination contre Monkeypox](https://www.sante.fr/mpox) ou [spécifiques d'Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients).
 

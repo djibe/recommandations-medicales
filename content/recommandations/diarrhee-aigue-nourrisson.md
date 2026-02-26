@@ -126,14 +126,13 @@ Examen complet déshabillé et consigné dans le dossier médical:
 
 La grille d'évaluation Clinical Dehydration Scale (CDS) est couplée à l'impression clinique.
 
-{{< table title="Évaluation de la déshydratation du nourrisson et de l'enfant selon Guarino et al 2014 (CDS = Clinical Dehydration Scale)" class="table-wrap" >}}
 | Catégorie | 0 point | 1 point | 2 points |
-|-----------|------------|---------|----------|
+| --------- | ------- | ------- | -------- |
 | Apparence générale | Normale | Soif, agitation ou<br>léthargie mais<br>irritable au toucher | Somnolent, marche<br>difficile, froid ou en<br>sueur ± comateux |
 | Yeux | Normaux | Légèrement creux | Très creux |
 | Muqueuses (langue) | Humide | Collante | Sèche |
 | Larmes | Larmes | Diminution<br>des larmes | Absence de larmes |
-{{< /table >}}
+{caption="Évaluation de la déshydratation du nourrisson et de l'enfant selon Guarino et al 2014 (CDS = Clinical Dehydration Scale)" class="table-wrap"}
 
 > **Score:** **0 =** pas de déshydratation ; **1-4 =** déshydratation légère ; **5-8 =** déshydratation modérée à sévère
 

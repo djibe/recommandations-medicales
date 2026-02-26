@@ -70,16 +70,15 @@ Les aliments riches en FODMAPs du tableau ci-dessous font partie du test d'évic
 
 Application smartphone pour le régime sans FODMAPS: [Low FODMAP Diet App](https://www.monashfodmap.com/ibs-central/i-have-ibs/get-the-app/) (Monash University).
 
-{{< table title="Principales sources alimentaires selon le type de FODMAP concerné. Dr JB Fron d'après *Ducrotté P 2016*" class="table-wrap" >}}
 | Type de FODMAP | Hydrate de carbone | Sources alimentaires |
-|----------------|--------------------|----------------|
+| -------------- | ------------------ | -------------------- |
 | Oligosaccharides| Fructo-oligosaccharides (FOS) (fructanes) | Blé, seigle, oignon, ail, artichaut |
 | Oligosaccharides | Galacto-oligosaccharides (GOS) | Légumineuses |
 | Disaccharides | Lactose | Lait |
 | Monosaccharides | Fructose | Miel, pomme, poire, melon, mangue, soda, sirop de maïs |
 | Polyols | Sorbitol | Pomme, poire, fruits à noyau, menthes et gommes sans sucre |
 | Polyols | Mannitol | Champignons, chou-fleur, menthes et gommes sans sucre |
-{{< /table >}}
+{caption="Principales sources alimentaires selon le type de FODMAP concerné. Dr JB Fron d'après *Ducrotté P 2016*" class="table-wrap"}
 
 Ces aliments étant très fréquents dans le régime alimentaire européen, le régime strict est très rarement respecté en permanence (12 %).
 

@@ -10,7 +10,7 @@
     {{- end }}>
   {{- with .Attributes.caption }}
   <caption id="caption-{{ $tnumber }}">
-    <strong>Tableau {{ $tnumber }}.</strong> {{ . | $.Page.RenderString  }}
+    <strong>Tableau {{ $tnumber }}.</strong> {{ . | $.Page.RenderString  }}.
   </caption>
   {{- end }}
   <thead>

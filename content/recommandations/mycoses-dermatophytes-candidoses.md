@@ -472,13 +472,12 @@ La terbinafine ([RCP](https://base-donnees-publique.medicaments.gouv.fr/medicame
 
 [Fiche SFD info patient terbinafine et itraconazole (SFD)](https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Bordereau-3_Prise-des-medicaments.pdf)
 
-{{< table title="Posologies de la terbinafine selon le poids. Dr JB Fron d'après *SFD 2021*" >}}
 | Poids (kg) | Posologie (mg) |
-|-----------:|---------------:|
+| ---------: | -------------: |
 | +40        | 250            |
 | 21-40      | 125            |
 | 10-20      | 62,5           |
-{{< /table >}}
+{caption="Posologies de la terbinafine selon le poids. Dr JB Fron d'après *SFD 2021*"}
 
 #### Polyènes Amphotéricine B
 
@@ -493,12 +492,11 @@ Effet topique digestif non absorbé et donc interactions limitées ([vérifier l
 
 [Fiche SFD info patient terbinafine et itraconazole (SFD)](https://document.sfdermato.org/groupe/centre-de-preuves/teigne/Bordereau-3_Prise-des-medicaments.pdf)
 
-{{< table title="Posologies de l'itraconazole selon le poids. Dr JB Fron d'après *SFD 2021*" >}}
 | Poids (kg) | Posologie (mg) |
-|-----------:|---------------:|
+| ---------: | -------------: |
 | +20        | 100            |
 | 10-20      | 50             |
-{{< /table >}}
+{caption="Posologies de l'itraconazole selon le poids. Dr JB Fron d'après *SFD 2021*"}
 
 {{% /collapse %}}
 {{%sources%}}

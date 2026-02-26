@@ -60,12 +60,11 @@ De même, un délégué de l'Assurance Maladie peut accompagner le médecin emba
 
 Les aides versées par l'Assurance maladie entrent dans le bilan de l'entreprise et sont soumises à l'impôt sur les sociétés (IS).
 
-{{< table title="Options de financement de l'Assistant médical par l'Assurance Maladie en 2024. **ETP =** équivalent temps-plein; **P =** percentile" >}}
 | Options (ETP) | 1^re^ année (€) | 2^e^ année | Ensuite | Avec forte patientèle | Très forte |
-|--------------:|----------------:|-----------:|--------:|----------------------:|-----------:|
+| ------------: | --------------: | ---------: | ------: | --------------------: | ---------: |
 |           1/2 |          19.000 |     14.000 |  11.000 |                13.000 |     19.000 |
 |             1 |          38.000 |     28.000 |  22.000 |                26.000 |     38.000 |
-{{< /table >}}
+{caption="Options de financement de l'Assistant médical par l'Assurance Maladie en 2024. **ETP =** équivalent temps-plein; **P =** percentile"}
 
 > **Forte patientèle =** médecins parmi les 10 % les plus actifs (P90-P94 soit ? patients) ; très forte = > P95 (soit ? patients)
 

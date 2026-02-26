@@ -16,7 +16,6 @@ imageSrc = "Freepik"
 Page mémo pour retrouver la liste de tous les syndicats de médecins généralistes de France qui sont au nombre de 8: CSMF, FMF, MG France, UFML, ReAGJIR, SMG, SML et SNJMG.
 {.lead .mb-5}
 
-{{< table title="Liste des syndicats de médecins généralistes en France" class="table-wrap" >}}
 | Abréviation           | Appellation                                                            |                Site officiel                |
 |-----------------------|------------------------------------------------------------------------|:-------------------------------------------:|
 | FMF-UG                | Fédération des Médecins de France - Union généraliste                  | [Site](https://www.fmfpro.org/branches/ug/) |
@@ -27,4 +26,4 @@ Page mémo pour retrouver la liste de tous les syndicats de médecins générali
 | SMG                   | Syndicat de la Médecine Générale                                       |       [Site](https://syndicat-smg.fr)       |
 | SML                   | Syndicat des Médecins Libéraux                                         |        [Site](https://www.lesml.org)        |
 | SNJMG                 | Syndicat National des Jeunes Médecins Généralistes                     |        [Site](http://www.snjmg.org)         |
-{{< /table >}}
+{caption="Liste des syndicats de médecins généralistes en France" class="table-wrap"}

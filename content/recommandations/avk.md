@@ -63,24 +63,22 @@ Nouvel INR le lendemain du diagnostic de surdose avec reconduction identique des
 
 ### INR cible entre 2 et 3
 
-{{< table title="Conduite à tenir devant un surdosage en AVK pour un INR cible entre 2 et 3 selon *HAS 2008*" class="table-wrap" >}}
 | INR             | Action                                    |
-|:---------------:|-------------------------------------------|
+| :-------------: | ----------------------------------------- |
 | INR < 4         | Surveiller, nouvel INR à 1-2 semaines     |
 | 4 ≤ INR < 6     | Sauter prises jusqu'à INR dans la cible, reprise à posologie diminuée |
 | 6 ≤ INR < 10    | Sauter prises jusqu'à INR dans la cible, vitamine K 1-2 mg per os, reprise à posologie diminuée |
 | INR ≥ 10        | Arrêt du traitement, vitamine K 5 mg per os |
 | Hémorragie grave | SAMU, hospitalisation, 10 mg vitamine K IV et PPSB (PFC à défaut), transfusion |
-{{< /table >}}
+{caption="Conduite à tenir devant un surdosage en AVK pour un INR cible entre 2 et 3 selon *HAS 2008*" class="table-wrap"}
 
 ### INR cible entre 3 et 4,5
 
-{{< table title="Conduite à tenir devant un surdosage en AVK pour un INR cible entre 3 et 4,5 selon *HAS 2008*" class="table-wrap" >}}
 | INR             | Action                                |
-|:---------------:|---------------------------------------|
+| :-------------: | ------------------------------------- |
 | 6 ≤ INR < 10    | Sauter prise et vitamine K 1-2 mg après avis du spécialiste référent |
 | INR ≥ 10        | Avis spécialisé en urgence ou hospitalisation |
-{{< /table >}}
+{caption="Conduite à tenir devant un surdosage en AVK pour un INR cible entre 3 et 4,5 selon *HAS 2008*" class="table-wrap"}
 
 {{% /collapse %}}
 {{%collapse "Hémorragies et traumatismes" %}}

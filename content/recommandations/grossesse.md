@@ -205,7 +205,6 @@ const chartOptions3 = {
 
 > Dans le tableau, les éléments <u>sous-lignés</u> disposent d'informations au survol.
 
-{{< table title="Suivi simplifié de la grossesse. Dr JB Fron d'après *HAS* et *Collège*" class="table-wrap">}}
 | Moment   | Clinique | Examen  | Traitement |
 | -------- | -------- | ------- | ---------- |
 | Chaque consultation | PA, poids, signes de grossesse | {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}ECBU{{%/tooltip%}} si ATCD, toxoplasmose si -, {{%tooltip "Jusqu'à 18 SA"%}}rubéole si -{{%/tooltip%}}, TSH si sympt. aspécifiques | Arrêt alcool/tabac et {{%tooltip "lecrat.fr"%}}automédication{{%/tooltip%}}, vaccin grippe et Covid, {{%tooltip "mangerbouger.fr"%}}alimentation{{%/tooltip%}} (listériose ++) |
@@ -216,7 +215,7 @@ const chartOptions3 = {
 | 7e mois<br>28-32 SA || {{%tooltip "32 SA (30-35)"%}}Écho T3{{%/tooltip%}} | {{%tooltip "28 SA: si mère RH-1- et fœtus RH-1+"%}}± Rhophylac® 300{{%/tooltip%}} ± Rattrapage coqueluche |
 | 8e mois<br>32-37 SA || {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, {{%tooltip "Entre 35 et 38 SA"%}}prélèvement vaginal (strepto B){{%/tooltip%}}, chir bariatrique: {{%tooltip "Échographie supplémentaire à 37 SA"%}}écho{{%/tooltip%}} | VitD 100.000 UI, {{%tooltip "De septembre à janvier"%}}Abrysvo{{%/tooltip%}}, ± rattrapage coqueluche, ± {{%tooltip "Herpès génital pdt la gs"%}}valaciclovir{{%/tooltip%}} |
 | 9e mois<br>37-42 SA ||||
-{{< /table >}}
+{caption="Suivi simplifié de la grossesse. Dr JB Fron d'après *HAS* et *Collège*" class="table-wrap"}
 
 > -- *HAS 2016*, *HAS 2009*, *USPTF 2023*, *Calendrier vaccinal 2025*
 
@@ -318,14 +317,13 @@ AET
 
 ### Augmentation des besoins énergétiques au cours de la grossesse
 
-{{< table title="Augmentation des besoins énergétiques pendant la grossesse selon l'*Anses 2019*" class="table-sm" >}}
 | Terme de grossesse | Augmentation des apports (kcal/j) |
 | ------------------ | --------------------------------: |
 | T1                 |                                70 |
 | T2                 |                               260 |
 | T3                 |                               500 |
 | Allaitement        |                               500 |
-{{< /table >}}
+{caption="Augmentation des besoins énergétiques pendant la grossesse selon l'*Anses 2019*" class="table-sm"}
 
 > -- *[Anses. Avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail relatif à l'actualisation des repères alimentaires du PNNS pour les femmes enceintes ou allaitantes. 2019. (PDF)](https://www.anses.fr/fr/system/files/NUT2017SA0141.pdf)*
 
@@ -333,14 +331,13 @@ Il est déconseillé de descendre sous **1600 kcal/j** (même en situation d'[ob
 
 ### Objectif de prise de poids pendant la grossesse
 
-{{< table title="Prise de poids recommandée selon l'indice de masse corporelle avant la grossesse. Dr JB Fron d'après *[IOM Pregnancy Weight Guidelines 2009](https://www.ncbi.nlm.nih.gov/books/NBK32813/)*" >}}
 | Morphotype   | IMC avant grossesse (kg/m²) | Prise de poids recommandée <br>pendant la grossesse (kg) |
-|--------------|----------------------------:|---------------------------------------------------------:|
+| ------------ | --------------------------: | -------------------------------------------------------: |
 | Maigreur     |                      < 18,5 |                                                12,5 - 18 |
 | Poids normal |                 18,5 - 24,9 |                                                11,5 - 16 |
 | Surpoids     |                   25 - 29,9 |                                                 7 - 11,5 |
 | Obésité      |                        ≥ 30 |                                                    5 - 9 |
-{{< /table >}}
+{caption="Prise de poids recommandée selon l'indice de masse corporelle avant la grossesse. Dr JB Fron d'après *[IOM Pregnancy Weight Guidelines 2009](https://www.ncbi.nlm.nih.gov/books/NBK32813/)*"}
 
 > -- *[Louvet et al; Société Francophone du Diabète (SFD). Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022_v2_0.pdf)*
 

@@ -44,13 +44,12 @@ Polykystose rénale autosomique dominante
 
 De 30 à 39 ans, l'absence de kyste a une VPN de 99 %. Après 40 ans, moins de 2 kystes infirme le diagnostic.
 
-{{< table title="Critères diagnostiques de la polykystose rénale autosomique dominante à l'échographie rénale chez les apparentés. PKRAD 1 ou 2 affirmée si seuil atteint selon l'âge." >}}
 |   Âge |           Kystes rénaux |
-|------:|------------------------:|
+| ----: | ----------------------: |
 | 15-39 | ≥ 3 (total des 2 reins) |
 | 40-59 |     ≥ 2 sur chaque rein |
 |   +60 |     ≥ 4 sur chaque rein |
-{{< /table >}}
+{caption="Critères diagnostiques de la polykystose rénale autosomique dominante à l'échographie rénale chez les apparentés. PKRAD 1 ou 2 affirmée si seuil atteint selon l'âge."}
 
 ### Abréviations
 

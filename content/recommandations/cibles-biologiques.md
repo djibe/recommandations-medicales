@@ -27,9 +27,8 @@ todo = "LDL"
 
 {{%collapse "Cibles de marqueurs biologiques" "show" %}}
 
-{{< table title="Synthèse des recommandations des objectifs sériques des nutriments et marqueurs de risque cardiovasculaires" >}}
 | Élément      | Population concernée | Cible                  | Source |
-|--------------|----------------------|------------------------|--------|
+| ------------ | -------------------- | ---------------------- | ------ |
 | Ferritinémie | Femme jeune          | ≥ 50 ng/mL          | HAS    |
 | Ferritinémie | Grossesse            | ≥ 80 ng/mL          | HAS    |
 | Ferritinémie | insuffisance cardiaque | ≥ 100 ng/mL       | ESC 2021 |
@@ -38,19 +37,17 @@ todo = "LDL"
 | Uricémie     | Goutte               | < 50 mg/L           | SFR 2020 |
 | VDRL         | M6 post-PéniG<br>M12 post-PéniG | Taux /4<br>Négatif | SFD 2016 |
 | Vitamine D   | Adulte<br>Ménopause, ≥ 65 ans | ≥ 50 nmol/L<br>≥ 75 nmol/L | Annweiler C 2018 |
-
-{{< /table >}}
+{caption="Synthèse des recommandations des objectifs sériques des nutriments et marqueurs de risque cardiovasculaires"}
 
 {{% /collapse %}}
 {{%collapse "Cibles d'apports en nutriments" "show" %}}
 
-{{< table title="Objectifs d'apports en nutriments" >}}
 | Molécule | Population concernée | Cible d'apports        | Source |
-|----------|----------------------|------------------------|--------|
+| -------- | -------------------- | ---------------------- | ------ |
 | Calcium  | Ménopausée           | 1-1,2 g/j              | SFR 2018 ostéoporose |
 | Calcium  | EHPAD                | 1,2 g/j                | Annweiler C 2018 |
 | Vitamine D | 18 mois - 5 ans    | 80-100.000 x 2 l'hiver | SFP 2012 |
-{{< /table >}}
+{caption="Objectifs d'apports en nutriments"}
 
 {{% /collapse %}}
 {{%sources%}}

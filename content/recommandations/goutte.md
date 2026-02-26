@@ -154,8 +154,7 @@ Ces mesures ont plus d'effets sur le profil cardiovasculaire que sur l'uricémie
 - Encourager un exercice physique quotidien
 - Traitement par diurétique de l'anse ou thiazidique:  
   Substituer si possible car très uricosuriques, par losartan ou amlodipine.
-- Traitement par statine:  
-  Préférer la substitution par fénofibrate (hypouricémiant ++).
+- Le fénofibrate est très hypouricémiant mais sans bénéfice sur les maladies cardiovasculaires
 - Éducation du patient itérative  
   Cause majeure d'échec du traitement (alcool, régime ++). Voir *Information du patient*.
 

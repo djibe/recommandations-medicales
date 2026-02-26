@@ -181,7 +181,6 @@ Le suivi par le néphrologue est recommandé en cas de doute sur la nature de la
 
 Stades de l'insuffisance rénale chronique selon le débit de filtration glomérulaire et de l'albuminurie.
 
-{{< table title="Stades de la maladie rénale chronique et de l'insuffisance rénale chronique selon *KDIGO 2024* (depuis 2012; à partir de 2 ans)" >}}
 | Stade | DFGe  | Définition                      |
 | :---: | :---: | ------------------------------- |
 |   1   | ≥ 90  | MRC avec DFG normal ou augmenté |
@@ -190,17 +189,16 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 |  3B   | 30-44 | IRC modérée                     |
 |   4   | 15-29 | IRC sévère                      |
 |   5   | < 15  | IRC terminale                   |
-{{< /table >}}
+{caption="Stades de la maladie rénale chronique et de l'insuffisance rénale chronique selon *KDIGO 2024* (depuis 2012; à partir de 2 ans)"}
 
 > **DFGe =** DFG estimé selon CKD-EPI en mL/min/1,73 m². Ajouter un T au stade quand patient greffé (ex: 4T)
 
-{{< table title="Classification de l'albuminurie selon *KDIGO 2024* (depuis 2012)" >}}
 | Stade | mg/mmol |   mg/g | mg/24h | Définition                      |
 | ----- | ------: | -----: | -----: | ------------------------------- |
 | A1    |     < 3 |   < 30 |   < 30 | Normale ou légèrement augmentée |
 | A2    |    3-30 | 30-300 | 30-300 | Modérément augmentée            |
 | A3    |    > 30 |  > 300 |  > 300 | Sévèrement augmentée            |
-{{< /table >}}
+{caption="Classification de l'albuminurie selon *KDIGO 2024* (depuis 2012)"}
 
 > [!WARNING]
 > Le terme de *microalbuminurie* n'est plus utilisé.

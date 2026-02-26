@@ -118,9 +118,8 @@ Diagnostics à étayer devant un épisode de dyspnée du nourrisson:
 
 ### 3 formes cliniques de bronchiolite: légère, modérée et grave
 
-{{< table title="Formes cliniques de la bronchiolite avec les signes cliniques de gravité selon *HAS/CNPP 2019*" class="table-wrap">}}
 | Forme clinique                      | Légère                | Modérée                        | Grave                                        |
-|-------------------------------------|-----------------------|--------------------------------|----------------------------------------------|
+| ----------------------------------- | --------------------- | ------------------------------ | -------------------------------------------- |
 | AEG                                 | Non                   | Non                            | Oui                                          |
 | FR (/min)                           | < 60                  | 60-69                          | ≥ 70 ou < 30<br>ou respiration superficielle |
 | FC (> 180 ou < 80/min)              | Non                   | Non                            | Oui                                          |
@@ -128,7 +127,7 @@ Diagnostics à étayer devant un épisode de dyspnée du nourrisson:
 | SpO~2~ (%)                 | > 92                  | 90 < SpO~2~ ≤ 92      | ≤ 90 ou cyanose                              |
 | Alimentation (%)                    | > 50                  | < 50 sur 3 prises consécutives | Réduction importante<br>ou refus             |
 | Interprétation                      | Critères tous remplis | ≥ 1 critère<br>(et non grave)  | ≥ 1 critère                                  |
-{{< /table >}}
+{caption="Formes cliniques de la bronchiolite avec les signes cliniques de gravité selon *HAS/CNPP 2019*" class="table-wrap"}
 
 {{% /collapse %}}
 {{%collapse "Signes de gravité de la bronchiolite et hospitalisation" %}}

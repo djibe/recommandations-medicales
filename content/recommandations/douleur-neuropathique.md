@@ -159,9 +159,8 @@ Avis neurologique devant toute douleur neuropathique dont l'étiologie ou le tab
 
 ### Rappels de l'examen clinique de la neuropathie
 
-{{< table title="Résumé des informations correspondant aux sensibilités à explorer dans le cadre d'une polyneuropathie, modifié d'après *Hansson P, Backonja M, Bouhassira D. Usefulness and limitations of quantitative sensory testing: clinical and research application in neuropathic pain states. Pain 2007;129:256-9*." >}}
 | Stimulus         | Fibres | Examen clinique     | EMG     |
-|------------------|--------|---------------------|---------|
+| ---------------- | ------ | ------------------- | ------- |
 | Froid            | Aδ     | Tube chaud et froid | Normal  |
 | Chaud            | C      |                     |         |
 | Chaud douloureux | C, Aδ  |                     |         |
@@ -171,7 +170,7 @@ Avis neurologique devant toute douleur neuropathique dont l'étiologie ou le tab
 | Frottement       | Aβ     | Coton               | Anormal |
 | Piqûre           | Aδ, C  | Aiguille            | Normal  |
 | Pression         | Aδ, C  | Doigt               | Normal  |
-{{< /table >}}
+{caption="Résumé des informations correspondant aux sensibilités à explorer dans le cadre d'une polyneuropathie, modifié d'après *Hansson P, Backonja M, Bouhassira D. Usefulness and limitations of quantitative sensory testing: clinical and research application in neuropathic pain states. Pain 2007;129:256-9*."}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

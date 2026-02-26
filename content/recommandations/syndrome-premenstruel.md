@@ -212,7 +212,6 @@ Une ==**contraception œstroprogestative (COP) en continu**== est le traitement 
 - Chirurgie d'hystérectomie totale avec annexectomie bilatérale  
   Traitement définitif de dernier recours, après essai des agonistes de la GnRH et avec traitement hormonal substitutif.
 
-{{< table title="Traitements hormonaux pour la suppression de l'ovulation au cours de la prise en charge du syndrome prémenstruel. Dr JB Fron d'après *Stute P et al 2017* et *RCOG*. EE = ; **gén =** générique; **LNG =** lévonorgestrel; **ND =** non disponible" class="table-wrap" >}}
 | Suppression de l'ovulation | Substance et dosage | Spécialités |
 | - | - | - |
 | Contraception orale | EE 20 µg + drospirénone 3 mg **24/4** | Drospibel, Espizène continu, Jasminelle(-continu), Phizoé, Yaz, gén |
@@ -226,7 +225,7 @@ Une ==**contraception œstroprogestative (COP) en continu**== est le traitement 
 | | Goséréline 3,6 mg SC/mois ou 10,8 mg/3 semaines | Zoladex |
 | | Buséréline 3 x 100 µg/j spray nasal | ND |
 | Œstradiol transdermique | Estradiol 100 µg patch x 2-4/semaine + progestérone 100-200 mg/j J17-J28 ||
-{{< /table >}}
+{caption="Traitements hormonaux pour la suppression de l'ovulation au cours de la prise en charge du syndrome prémenstruel. Dr JB Fron d'après *Stute P et al 2017* et *RCOG*. EE = ; **gén =** générique; **LNG =** lévonorgestrel; **ND =** non disponible" class="table-wrap"}
 
 > Dans le tableau: 21/7 = prise pendant 21 jours puis arrêt 7 jours; 28/0 = en continu
 

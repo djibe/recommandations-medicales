@@ -39,7 +39,6 @@ Presbyacousie (ou surdité liée à l'âge)
 
 ### Degré de surdité
 
-{{< table title="Degré de surdité selon la perte auditive moyenne en dB par le *Bureau international d'audiophonologie (biap)*" >}}
 | Déficience auditive | Perte (dB) |
 |---------------------|-----------:|
 | Légère              |      21-40 |
@@ -47,7 +46,7 @@ Presbyacousie (ou surdité liée à l'âge)
 | Sévère              |      71-90 |
 | Profonde            |     91-119 |
 | Totale = cophose    |        120 |
-{{< /table >}}
+{caption="Degré de surdité selon la perte auditive moyenne en dB par le *Bureau international d'audiophonologie (biap)*"}
 
 ### Abréviations
 

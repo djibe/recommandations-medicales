@@ -34,9 +34,8 @@ Articles liés: [directives anticipées]({{% relref "directives-anticipees.md" %
 
 {{%collapse "Prise en charge des complications de la chimiothérapie" "show" %}}
 
-{{< table title="Prise en charge des principales complications de la chimiothérapie selon sources mentionnées" >}}
 | Atteinte      | Prise en charge                                            | Source |
-|---------------|------------------------------------------------------------|--------|
+| ------------- | ---------------------------------------------------------- | ------ |
 | [Alopécie]({{% relref "alopecie.md" %}})      | Max J15-17. Casque réfrigérant pendant. Prothèse capillaire. Repousse systématique 3-5 semaines après la dernière injection  | INCa TODO: |
 | [Aménorrhée]({{% relref "amenorrhee.md" %}})        | Aucune | INCa TODO: |
 | Anémie        | Surveillance régulière de la NFS | INCa TODO: |
@@ -55,7 +54,7 @@ Articles liés: [directives anticipées]({{% relref "directives-anticipees.md" %
 | Onychopathie       | Port de gants réfrigérés pendant. Amélioration quelques mois après la fin | INCa TODO: |
 | Syndrome main-pied        | Émollients locaux, adaptation des doses | INCa TODO: |
 | Thrombopénie   | Surveillance régulière de la NFS | INCa TODO: |
-{{< /table >}}
+{caption="Prise en charge des principales complications de la chimiothérapie selon sources mentionnées"}
 
 {{%warning%}}
 Ne pas utiliser:

@@ -64,15 +64,14 @@ Cancer de la prostate familial
 
 Le pronostic du cancer de la prostate dépend des scores TNM, PSA, **scores de Gleason et ISUP** (évolution du Gleason) au diagnostic.
 
-{{< table title="Risque de cancer de prostate (CaP) selon le taux de PSA d'après la *EAU 2025* (Tableau 5.2). Agressif = ISUP ≥ 2." class="table-sm" >}}
 | PSA (ng/mL) | Risque de CaP (%) | Risque de CaP agressif (%) |
-|------------:|------------------:|---------------------------:|
+| ----------: | ----------------: | -------------------------: |
 | 0 - 0,5     | 6,6               | 0,8                        |
 | 0,6 - 1     | 10,1              | 1                          |
 | 1,1 - 2     | 17,0              | 2                          |
 | 2,1 - 3     | 23,9              | 4,6                        |
 | 3,1 - 4     | 26,9              | 6,7                        |
-{{< /table >}}
+{caption="Risque de cancer de prostate (CaP) selon le taux de PSA d'après la *EAU 2025* (Tableau 5.2). Agressif = ISUP ≥ 2." class="table-sm"}
 
 > Le PSA libre n'a plus d'intérêt diagnostique (*AFU 2022*).
 

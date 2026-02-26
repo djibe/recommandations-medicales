@@ -15,7 +15,7 @@ tags = []
 chart = true
 image = true
 imageSrc = "storyset / Freepik"
-todo = "update 2025 | écriture SEO, Éléments cliquables trop rapprochés | KEY x3: consultations, médecin, médecins généralistes, consultation médicale, médecin traitant, tiers payant, augmentation des tarifs réglementés, assurance maladie, assurés, euro par consultation, patients | x1: prix d'une consultation, consultations chez le médecin, prix d'une visite, montant, médecine générale, sécurité sociale, revalorisation, évolution des prix, consultation classique; https://www.ofce.sciences-po.fr/pdf/ebook/ebook121.pdf; https://www.insee.fr/fr/outil-interactif/5369554/series-longues-dans-le-secteur-prive, https://www.pourquoidocteur.fr/Articles/Question-d-actu/21060-Consultation-revenus-generalistes-les-faibles-d-Europe, https://francais.medscape.com/voirarticle/3609481?src=WNL_mdplsfeat_221221_mscpedit_fr&uac=413635SY&impID=5012922&faf=1"
+todo = "update 2026 | écriture SEO, Éléments cliquables trop rapprochés | KEY x3: consultations, médecin, médecins généralistes, consultation médicale, médecin traitant, tiers payant, augmentation des tarifs réglementés, assurance maladie, assurés, euro par consultation, patients | x1: prix d'une consultation, consultations chez le médecin, prix d'une visite, montant, médecine générale, sécurité sociale, revalorisation, évolution des prix, consultation classique; https://www.ofce.sciences-po.fr/pdf/ebook/ebook121.pdf; https://www.insee.fr/fr/outil-interactif/5369554/series-longues-dans-le-secteur-prive, https://www.pourquoidocteur.fr/Articles/Question-d-actu/21060-Consultation-revenus-generalistes-les-faibles-d-Europe, https://francais.medscape.com/voirarticle/3609481?src=WNL_mdplsfeat_221221_mscpedit_fr&uac=413635SY&impID=5012922&faf=1"
 +++
 
 Cet article est réalisé dans le but de disposer d'une série longue sur l'évolution des tarifs des consultations des médecins généralistes de 1980 à 2025 en France métropolitaine.
@@ -100,9 +100,8 @@ Les données du prix des consultations chez le médecin sont téléchargeables d
 
 Pour le graphique avant 2002, les francs français ont été convertis avec l'outil [Convertisseur franc-euro de l'Insee](https://www.insee.fr/fr/information/2417794).
 
-{{< table title="Prix de la consultation médicale des médecins généralistes conventionnée Secteur 1 en Francs et en Euros 2021 de 1980 à 2001. Dr JB Fron d'après *Mayneris 2004* et *Insee*" >}}
 | Année | Consultation (Francs) | C (Euros 2021) |
-|-------|----------------------:|---------------:|
+| ----- | --------------------: | -------------: |
 | 1980  |                    43 |          19.05 |
 | 1981  |                    55 |          21.49 |
 | 1982  |                    55 |          19.22 |
@@ -125,15 +124,14 @@ Pour le graphique avant 2002, les francs français ont été convertis avec l'ou
 | 1999  |                   115 |          23.74 |
 | 2000  |                   115 |          23.36 |
 | 2001  |                   115 |          22.98 |
-{{< /table >}}
+{caption="Prix de la consultation médicale des médecins généralistes conventionnée Secteur 1 en Francs et en Euros 2021 de 1980 à 2001. Dr JB Fron d'après *Mayneris 2004* et *Insee*"}
 
 ### Patients en affection de longue durée (ALD)
 
 **NB.** Un patient peut avoir plusieurs ALD mais la charge en soins est identique.
 
-{{< table title="Patients du régime général (France entière) en ALD (30, 31 ou 32) de 2008 à 2022 et évolution (base 100 en 2008). Dr JB Fron d'après l'*Assurance Maladie*" >}}
 | Année | Effectif (millions) | Évolution (%) |
-|-------|--------------------:|--------------:|
+| ----- | ------------------: | ------------: |
 | 2008  |               8,286 |           100 |
 | 2009  |               8,637 |           104 |
 | 2010  |               8,983 |           108 |
@@ -149,15 +147,14 @@ Pour le graphique avant 2002, les francs français ont été convertis avec l'ou
 | 2020  |              12,068 |           146 |
 | 2021  |              12,131 |           146 |
 | 2022  |              12,344 |           149 |
-{{< /table >}}
+{caption="Patients du régime général (France entière) en ALD (30, 31 ou 32) de 2008 à 2022 et évolution (base 100 en 2008). Dr JB Fron d'après l'*Assurance Maladie*"}
 
 > -- *[Assurance Maladie. Effectif, prévalence et caractéristiques des bénéficiaires d'une ALD - 2008 à 2022. 20/11/2023](https://assurance-maladie.ameli.fr/etudes-et-donnees/prevalence-beneficiaires-ald)*
 
 ### Population de plus de 60 ans
 
-{{< table title="Part de la population de plus de 60 ans en France métropolitaine de 1980 à 2024 et évolution (base 100 en 1980). Dr JB Fron d'après *Insee*" >}}
 | Année | Proportion (%) |     Évolution |
-|-------|---------------:|--------------:|
+| ----- | -------------: | ------------: |
 | 1980  |             17 |           100 |
 | 1990  |             19 |           112 |
 | 2000  |           20,6 |           121 |
@@ -166,7 +163,7 @@ Pour le graphique avant 2002, les francs français ont été convertis avec l'ou
 | 2018  |           25,9 |           152 |
 | 2021  |             27 |           159 |
 | 2014  |             28 |           165 |
-{{< /table >}}
+{caption="Part de la population de plus de 60 ans en France métropolitaine de 1980 à 2024 et évolution (base 100 en 1980). Dr JB Fron d'après *Insee*"}
 
 > -- *[Insee. Pyramide des âges ai 1er janvier. 2024.](https://www.insee.fr/fr/outil-interactif/5014911/pyramide.htm#!&t=1)*
 

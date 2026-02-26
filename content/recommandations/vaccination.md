@@ -60,9 +60,8 @@ VVA
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal 2025" "show" %}}
 
-{{< table title="Calendrier des vaccins et anticorps recommandés en France en 2026. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention *NR*. Dr JB Fron d'après *Calendrier vaccinal 2025*, *HAS 2025.0040/AC/SESPEV*, *HAS 2025* et *2024*, DGS Urgent 2025-15." class="table-wrap" >}}
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
-|:----------:|------------------------------------------------------|---------------------------------------------------------------------------|
+| :--------: | ---------------------------------------------------- | ------------------------------------------------------------------------- |
 | Né après<br>le 1er février,<br>(à partir de septembre) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus<br>± {{< modal-btn modal-bcg-indications >}}Tuberculose{{< /modal-btn >}} | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance (15)<br>RotaTeq 1/3, Rotarix 1/2<br>± BCG en PMI |
 |   3 mois   | Méningo B<br>Rotavirus<br>—<br>Prématuré:<br>+ Pneumo 13/15<br>+ hexavalent *GPIP* | Bexsero 1/3<br>RotaTeq 2/3, Rotarix 2/2<br>—<br><br>Prevenar 13, Vaxneuvance (15)<br><br> |
@@ -82,7 +81,7 @@ VVA
 |  +75 ans   | + VRS annuel (NR)                                    | Arexvy, Abrysvo, mRESVIA                                                  |
 | [Grossesse]({{% relref "grossesse.md" %}}) | Coqueluche, Covid, grippe, VRS | BoostrixTetra, Repevax, Abrysvo ...                             |
 | Médecin généraliste | Covid-19, grippe, ROR,<br>varicelle, VHB    |                                                                           |
-{{< /table >}}
+{caption="Calendrier des vaccins et anticorps recommandés en France en 2026. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention *NR*. Dr JB Fron d'après *Calendrier vaccinal 2025*, *HAS 2025.0040/AC/SESPEV*, *HAS 2025* et *2024*, DGS Urgent 2025-15." class="table-wrap"}
 
 > Les consultations à 25, 45, 65 et 75 ans sont gratuites avec la **cotation RDV** (30€).
 

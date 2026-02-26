@@ -36,9 +36,8 @@ Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{%
   <input type="search" class="form-control" id="table-search" onkeyup="searchTable()" placeholder="Rechercher">
 </div>
 
-{{< table title="Certificats médicaux pouvant être demandés ou refusés pour les personnes majeures en France. Dr JB Fron d'après *CNOM 2025*" class="table-wrap" id="table-filter">}}
 | Cadre             | Motif                          | Certificat | Texte de référence |
-|-------------------|--------------------------------|------------|--------------------|
+| ----------------- | ------------------------------ | ---------- | ------------------ |
 | Université/Enseignement supérieur | Justificatif d'absence | Non | Aucun texte ne prévoit la production d'un tel certificat |
 | Service civique | Engament volontaire dans le civique | Oui sous conditions | Article 120-4 du Code du service national<br>Conditions: le médecin doit être suffisamment informé des conditions de réalisation du service civique |
 | Virginité | Certificat de virginité | Interdit | Article L. 1110-2-1 du CSP: Un professionnel de santé ne peut établir de certificat aux fins d'attester la virginité d'une personne.<br>Article L. 1115-3 du CSP: L'établissement d'un certificat en méconnaissance de l'article L. 1110-2-1 est puni d'un an d'emprisonnement et de 15.000 euros d'amende |
@@ -102,7 +101,7 @@ Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{%
 | Mesures de placement et de maintien en isolement | Certificat venant à l'appui de la décision du préfet | Oui | Article L.3131-13 du Code de la santé publique |
 | Assurances | Certificat médical établi par le médecin traitant à la demande de l'assureur  | Non | [Précisions du CNOM (PDF)](https://www.conseil-national.medecin.fr/sites/default/files/2025-10/CNOM_%20ASSURANCES_%20QUESTIONNAIRES_%20DE_%20SANTE_%20ET_%20CERTIFICAT.pdf) |
 | Décès | Déclaration à l'état civil | Oui | Article R.1112-72 du Code de la santé publique<br>Articles L.2223-42 et R.2213-1-1 du Code général des collectivités territoriales |
-{{< /table >}}
+{caption="Certificats médicaux pouvant être demandés ou refusés pour les personnes majeures en France. Dr JB Fron d'après *CNOM 2025*" class="table-wrap" id="table-filter"}
 
 ## Sources {.mt-5}
 

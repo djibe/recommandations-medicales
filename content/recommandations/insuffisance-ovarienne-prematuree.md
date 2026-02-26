@@ -49,16 +49,15 @@ Spanioménorrhée
 
 **NB.** Le terme de ménopause précoce est uniquement utilisé à des fins d'indexation par les moteurs de recherche.
 
-{{< table title="Définitions de la ménopause précoce, naturelle et tardive. Dr JB Fron d'après *ESHRE 2024* et *CNGOF 2021*" >}}
 | Situation de survenue (ans) | Terme                             |
-|:---------------------------:|-----------------------------------|
+| :-------------------------: | --------------------------------- |
 |             +55             | Ménopause tardive                 |
 |            45-55            | Ménopause naturelle               |
 |            40-45            | Ménopause anticipée               |
 |          < 40 ans           | Insuffisance ovarienne prématurée |
 |    Radio/chimio-induite     | Ménopause iatrogène               |
 |   Ovariectomie bilatérale   | Ménopause chirurgicale            |
-{{< /table >}}
+{caption="Définitions de la ménopause précoce, naturelle et tardive. Dr JB Fron d'après *ESHRE 2024* et *CNGOF 2021*"}
 
 ### Abréviations
 

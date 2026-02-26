@@ -168,7 +168,6 @@ La prise en charge du glaucome repose sur la ==réduction de la pression intraoc
 - Pas d'ALD  
   [ALD 31]({{% relref "affection-longue-duree.md" %}}) en cas de traitement lourd et coûteux.
 
-{{< table title="Spécialités de collyres anti-glaucomateux sans conservateurs, par classe thérapeutique, disponibles en 2026. Dr JB Fron, recherche avancée de *Thériaque*" class="table-wrap">}}
 | Famille | Effets indésirables | Fréquence (/j) | Spécialités |
 | ------- | ------------------- | -------------- | ----------- |
 | ==**Prostaglandines**== | Rougeur/irritation oculaire, iris sombre, pousse de cils | 1 | multidose (Bimatoprost Idifarma, Latazed, Sinetrav, Vizilatan, Vizitrav), unidose (Catiolanze, Monoprost, Xiop) |
@@ -176,7 +175,7 @@ La prise en charge du glaucome repose sur la ==réduction de la pression intraoc
 | Alpha-2-adrénergiques | | 2 | unidoses Brimazed, Brimonidine Omnivision |
 | Inh. anhydrase carbonique | | 2 | Aucun |
 | Inh. Rho-kinase | | 1 | Aucun |
-{{< /table >}}
+{caption="Spécialités de collyres anti-glaucomateux sans conservateurs, par classe thérapeutique, disponibles en 2026. Dr JB Fron, recherche avancée de *Thériaque*" class="table-wrap"}
 
 ==**Collyres combinés**== (sans conservateurs): BB + prostaglandine x 1/j (Filiop, Fixapost, Ganfort, Kilatim, Kivizidiale, Vizimaco), BB + inh. anhydrase carbonique x 2/j (Cosidime, Costec, Dualkopt).
 

@@ -131,9 +131,8 @@ La supplémentation en vitamine D est prescrite au long cours sans dosage de la 
 
 S'assurer également d'[apports calciques suffisants]({{% relref "apports-calcium.md" %}}).
 
-{{< table title="Apports en vitamine D recommandés en 2026 selon le profil du patient" >}}
 | Population                                                    | Apports (UI/j) ou cibles (25OHD) recommandés                                         | Source           |
-|---------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------|
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------- |
 | 0 - 2 ans                                                     | 400-800 UI/j                                                                         | *Bacchetta 2025* |
 | 2 - 18 ans                                                    | 400-800 UI/j<br>voire 50.000 UI/trimestre<br>ou 80-100.000 UI en novembre et février | *Bacchetta 2025* |
 | 2 - 18 ans à risque<br>Peau noire, obésité, 0 exposition solaire, vegan | 800-1600 UI/j voire 50.000 UI/6sem<br>ou 80-100.000 UI/trimestre           | *Bacchetta 2025* |
@@ -144,7 +143,7 @@ S'assurer également d'[apports calciques suffisants]({{% relref "apports-calciu
 | Adulte à risque, dépendant, chutes                            | ≥ 75 nmol/L                                                                          | *Annweiler 2018* |
 | Résident en EHPAD                                             | ≥ 75 nmol/L et cible calcique 1200 mg/j                                              | *Annweiler 2018* |
 | Ostéoporose, biphosphonates                                   | ≥ 75 nmol/L                                                                          | *Annweiler 2018* |
-{{< /table >}}
+{caption="Apports en vitamine D recommandés en 2026 selon le profil du patient"}
 
 > Apports quotidiens préférés chez l'enfant et l'adolescent: vitamine D2 (Stérogyl® 400 UI/gte) ou D3 (ZymaD® 300 UI/gte ou Adrigyl® 333 UI/gte) quotidienne. En cas de mauvaise observance, vitamine D3 en ampoule (*Bacchetta et al 2025*).
 
@@ -165,7 +164,7 @@ Situations pouvant faire contrôler le taux de vitamine D:
 4. Avant et après une [chirurgie bariatrique]({{% relref "obesite-adulte.md" %}})
 5. Personne âgée avec [chutes](/tags/chute/) répétées  
   Noter sur l'ordonnance << Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées >>.
-6. Traitement préconisant une mesure de la vitamine D (ex. [biphosphonate]({{% relref "osteoporose.md" %}}))
+1. Traitement préconisant une mesure de la vitamine D (ex. [biphosphonate]({{% relref "osteoporose.md" %}}))
 
 > -- *HAS 2013* et *Conditions de prise en charge par l'Assurance Maladie*
 

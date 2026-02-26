@@ -300,15 +300,14 @@ Mesures de prévention des thromboses veineuses profondes liées à un voyage a�
 
 En cas de risque élevé de thrombo-embolie veineuse, une injection sous-cutanée 2 à 4 heures avant chaque vol long courrier.
 
-{{< table title="Principaux schémas d'anticoagulants à dose préventive pour les vols long courrier selon *HCSP 2023*" >}}
 | DCI          | Posologie |
-|--------------|:---------:|
+| ------------ | :-------: |
 | Daltéparine  |  5000 UI  |
 | Enoxaparine  |   40 mg   |
 | Tinzaparine  |  4500 UI  |
 | Nadroparine  |  2500 UI  |
 | Fondaparinux |  2,5 mg   |
-{{< /table >}}
+{caption="Principaux schémas d'anticoagulants à dose préventive pour les vols long courrier selon *HCSP 2023*"}
 
 ### Prévention du jet lag
 

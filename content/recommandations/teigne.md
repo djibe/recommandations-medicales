@@ -147,13 +147,12 @@ Prise en charge selon la réévaluation clinico-biologique:
   - prescrire un 2^e^ prélèvement mycologique
   - demander un avis dermatologique ou infectiologique hospitalier
 
-{{< table title="Posologies de la terbinafine selon le poids. Dr JB Fron d'après *SFD 2024*" >}}
 | Poids (kg) | Posologie (mg) |
-|-----------:|---------------:|
+| ---------: | -------------: |
 | > 40       | 250            |
 | 21-40      | 125            |
 | 10-20      | 62,5           |
-{{< /table >}}
+{caption="Posologies de la terbinafine selon le poids. Dr JB Fron d'après *SFD 2024*"}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une teigne" "show" %}}

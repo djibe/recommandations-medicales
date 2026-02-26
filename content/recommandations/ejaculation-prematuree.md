@@ -17,7 +17,7 @@ sctid = "44001008"
 icd10 = ["F52.4"]
 image = false
 imageSrc = ""
-todo = "photo, calc PEP, conseils, update 2026, relecture demandée eric.huyghe"
+todo = "rankok | photo, calc PEP, conseils, update 2026, relecture demandée eric.huyghe"
 flowchart = true
 +++
 
@@ -41,7 +41,6 @@ flowchart = true
 : La même définition est utilisée pour les autres types de rapports sexuels (masturbation, sexe oral ou anal) et les rapports homosexuels.
 : La prévalence est estimée à 5 % des hommes avec une forte association avec la dysfonction érectile (jusqu'à 50 %).
 
-{{< table title="Description des 4 syndromes d'éjaculateur prématurée utilisés pour la classification des hommes se plaignant d'éjaculation prématurée. Dr JB Fron d'après *AIUS 2024*" class="table-wrap" >}}
 | EP primaire | EP acquise | EP variable | EP subjective |
 | ----------- | ---------- | ----------- | ------------- |
 | DEI sous 30-60 s (80 %), max 2 min | < 2 min | DEI court ou normal | DEI normal ou allongé |
@@ -49,7 +48,7 @@ flowchart = true
 | Avec tous les partenaires | Apparition au cours de la vie sexuelle | Le contrôle de l'éjaculation peut être réduit ou absent | Le contrôle de l'éjaculation peut être réduit ou absent |
 | Éjaculation trop tôt presque tout le temps | Raccourcissement du DEI brutal ou progressif | Impression de contrôle réduit | EP imaginaire ou manque de contrôle |
 | EP persistante (neurobiologique / génétique) | Pathologie urologique, thyroïdienne, psychologique, relationnelle | Psychothérapie en 1re ligne | Pas d'autre diagnostic attribuable |
-{{< /table >}}
+{caption="Description des 4 syndromes d'éjaculateur prématurée utilisés pour la classification des hommes se plaignant d'éjaculation prématurée. Dr JB Fron d'après *AIUS 2024*" class="table-wrap"}
 
 > [!INFO]
 > Seules les éjaculations prématurées primaires ou acquises sont considérées comme dysfonctionnelles.

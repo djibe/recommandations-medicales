@@ -241,13 +241,12 @@ Adulte: aiguilles de 4 mm avec injection à 90°.
 
 ### Définitions de l'hypoglycémie au cours du diabète
 
-{{< table title="Classification des hypoglycémies selon *ADA/EASD 2021*" >}}
 | Niveau |       Intervalle glycémique (mg/dL) | Signification              |
-|:------:|------------------------------------:|----------------------------|
+| :----: | ----------------------------------: | -------------------------- |
 |   1    |                             54 - 70 | Seuil d'alerte             |
 |   2    |                                ≤ 43 | Sérieuse                   |
 |   3    | Complications mentales ou physiques | Sévère, nécessité de tiers |
-{{< /table >}}
+{caption="Classification des hypoglycémies selon *ADA/EASD 2021*"}
 
 Les hypoglycémies peuvent aussi être subdivisées selon qu'elles sont **symptomatiques**, **asymptomatiques** ou **probablement symptomatiques** (symptômes évocateurs mais sans contrôle glycémique).
 

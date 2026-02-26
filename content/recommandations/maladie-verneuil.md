@@ -73,13 +73,12 @@ Particularités: jamais d'adénopathies à proximité des foyers suppuratifs et 
 
 Indique à un instant T l'activité de la maladie.
 
-{{< table title="Score de Hurley pour l'activité de la maladie de Verneuil" class="table-wrap" >}}
 | Grade | Définition |
-|:-----:|------------|
+| :---: | ---------- |
 | I     | Abcès unique ou multiples sans fistules ni processus cicatriciel fibrineux |
 | II    | Abcès récidivants avec formation de fistules et de cicatrices hypertrophiques. Lésion unique ou multiples séparées les unes des autres |
 | III   | Atteinte diffuse ou quasi-diffuse ou fistules interconnectées et abcès sur toute l'étendue de la zone atteinte |
-{{< /table >}}
+{caption="Score de Hurley pour l'activité de la maladie de Verneuil" class="table-wrap"}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

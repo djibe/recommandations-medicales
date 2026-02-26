@@ -55,13 +55,12 @@ Désynchronisation cardiaque
 
 ### Classification de l'insuffisance cardiaque
 
-{{< table title="Critères de classification de l'insuffisance cardiaque selon *ESC 2023*" >}}
 | Critère | ICFEd         | ICFEmd                  | ICFEp              |
-|--------:|---------------|-------------------------|--------------------|
+| ------: | ------------- | ----------------------- | ------------------ |
 | 1       | Symptômes ± signes | Symptômes ± signes | Symptômes ± signes |
-| 2       | FEVG ≤ 40 %    | FEVG 41-49 %             | FEVG ≥ 50 %         |
+| 2       | FEVG ≤ 40 %   | FEVG 41-49 %            | FEVG ≥ 50 %        |
 | 3       |               |                         | - Anomalie cardiaque<br>- Dysfonction diastolique VG<br>- Augmentation des PN |
-{{< /table >}}
+{caption="Critères de classification de l'insuffisance cardiaque selon *ESC 2023*"}
 
 > **PN:** peptides natriurétiques; **signes:** signes cliniques  
 PN: BNP ≥ 35 pg/mL ou NT-proBNP ≥ 125 pg/mL (ESC Se 95%; Spe 50 % - NICE 400 pg/mL Se 82%; Spe 80%)
@@ -411,21 +410,19 @@ Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
 {{% /collapse %}}
 {{%collapse "Suivi de l'insuffisant cardiaque" %}}
 
-{{< table title="Nombre minimal de consultations par an de l'<strong>ICFEd</strong> en état stable selon *HAS 2014*" >}}
 | NYHA  | Généraliste | Cardiologue |
-|-------|------------:|------------:|
+| ----- | ----------: | ----------: |
 | I     | 2           | 1           |
 | II    | 4           | 2           |
 | III-IV | 4-12       | 4-12        |
-{{< /table >}}
+{caption="Nombre minimal de consultations par an de l'**ICFEd** en état stable selon *HAS 2014*"}
 
-{{< table title="Nombre minimal de consultations par an de l'<strong>ICFEp</strong> en état stable selon *HAS 2014*" >}}
 | NYHA  | Généraliste | Cardiologue |
-|-------|------------:|------------:|
+| ----- | ----------: |  ---------: |
 | I     | 2           | 1           |
 | II    | 4           | 1           |
 | III-IV | 4-12       | 2-3         |
-{{< /table >}}
+{caption="Nombre minimal de consultations par an de l'**ICFEp** en état stable selon *HAS 2014*"}
 
 Éléments de suivi de l'insuffisant cardiaque:
 

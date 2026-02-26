@@ -7,7 +7,7 @@ description = "Recommandations pour le diagnostic et le traitement de la Broncho
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
-relecteur = "Pr B. HOUSSET (SPLF) et Dr S. LAUNOIS (SFRMS/SPLF)"
+relecteur = "Pr B. HOUSSET (SPLF)"
 date = "2021-03-28T23:07:00+02:00"
 publishdate = "2021-04-14"
 lastmod = "2025-07-08"
@@ -450,7 +450,7 @@ Mesures générales de prise en charge de la BPCO:
 - Soutien psychologique
 - Personne de confiance
 - Associations de patients  
-  [Santé Respiratoire France](https://sante-respiratoire.com/), [FFAAIR](https://ffaair.org), [arairlor](https://arairlor.asso.fr), [lesouffle](https://www.lesouffle.org).
+  [Santé Respiratoire France](https://sante-respiratoire.com), [FFAAIR](https://ffaair.org), [arairlor](https://arairlor.asso.fr), [lesouffle](https://www.lesouffle.org).
 - Déclin respiratoire  
   [Directives anticipées]({{% relref "directives-anticipees.md" %}}), [soins palliatifs](http://www.sfap.org/annuaire).
 

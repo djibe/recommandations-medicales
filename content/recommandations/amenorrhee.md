@@ -46,14 +46,13 @@ Aménorrhée
 Ménarche
 : Période des premières menstruations. En France, en moyenne, à 12,8 ans (*Gaudineau et al*).
 
-{{< table title="Définitions de l'aménorrhée" >}}
 | Définition            | Durée              | Source   |
-|-----------------------|--------------------|----------|
+| --------------------- | ------------------ | -------- |
 | Cycle normal          | 28 jours (24-38)   | *FIGO 2018* |
 | Spanioménorrhée       | < 25 ou > 38 jours (oligoménorrhée) | *FIGO 2018* |
 | Aménorrhée primaire   | ∞                  | *ASRM 2024* |
 | Aménorrhée secondaire | > 3 mois (6 si irréguliers) | *ASRM 2024* |
-{{< /table >}}
+{caption="Définitions de l'aménorrhée"}
 
 ### Abréviations
 

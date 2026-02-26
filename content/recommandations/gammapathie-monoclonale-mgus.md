@@ -242,14 +242,13 @@ Facteurs prédictifs de progression du *MGUS* (1 point par critère, *Mayo Clini
 - Pic non-IgG
 - Rapport des chaînes légères kappa/lambda anormal
 
-{{< table title="Risque de progression à 20 ans selon le nombre de facteurs prédictifs de progression du MGUS observés. Dr JB Fron d'après *Mayo Clinic MGUS Risk Stratification Model*" >}}
 | Risque de progression | Points | Progression (%) |
-|-----------------------|--------|----------------:|
+| --------------------- | ------ | --------------: |
 | Bas                   | 0      |               2 |
 | Bas - intermédiaire   | 1      |              10 |
 | Haut - intermédiaire  | 2      |              18 |
 | Haut                  | 3      |              27 |
-{{< /table >}}
+{caption="Risque de progression à 20 ans selon le nombre de facteurs prédictifs de progression du MGUS observés. Dr JB Fron d'après *Mayo Clinic MGUS Risk Stratification Model*"}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge d'un pic monoclonal" "show" %}}

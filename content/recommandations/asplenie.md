@@ -136,17 +136,16 @@ Personnes à risque d'infection grave devant bénéficier d'un antibioprophylaxi
 
 Vaccins à réaliser avant voire après une splénectomie.
 
-{{< table title="Synthèse des vaccins à administrer en cas d'asplénie selon *Vaccination Info Service 2024*. Contrôler l'âge sur les RCP" class="table-wrap" >}}
 | Germe           | Primo-vaccination            | Rappel           |
-|-----------------|------------------------------|------------------|
-| Covid-19        | Comirnaty Omicron XBB.1.5<br>30 µg 1 dose | Automne ± printemps |
+| --------------- | ---------------------------- | ---------------- |
+| Covid-19        | 1 dose                       | Automne ± printemps |
 | dTcaPolio       | Calendrier vaccinal          | Boostrix®/Repevax® tous les 10 ans |
 | Grippe          | 1 dose                       | Annuel           |
 | *H. influenzae* | ACT-HIB® dose unique (hors AMM) |               |
-| Méningocoque ACWY | Menquadfi®, Menveo® (sans aiguille) ou Nimenrix® à M0-M6 | Tous les 5 ans |
+| Méningocoque ACWY | Menquadfi®, Menveo® (sans aiguille) ou Nimenrix® à M0 et M6 | Tous les 5 ans |
 | Méningocoque B  | Bexsero®, Trumenba® à M0 et M2 | Tous les 5 ans |
 | {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}} | Ancien schéma Prevenar13® et Pneumovax® | Capvaxive® ou<br>Prevenar 20® à 5 ans |
-{{< /table >}}
+{caption="Synthèse des vaccins à administrer en cas d'asplénie selon *Vaccination Info Service 2024*. Contrôler l'âge sur les RCP" class="table-wrap"}
 
 > << L'asplénie en elle même ne contre indique pas l'utilisation des vaccins vivants. >> -- *CEREDIH*
 

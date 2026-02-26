@@ -113,9 +113,8 @@ Respecter l'AMM de la spécialité:
 
 Diviser les doses d'initiation par 2 après 65 ans.
 
-{{< table title="Benzodiazépines et apparentés disponibles en France par voie orale en 2026. Dr JB Fron d'après *BDPM*" class="table-wrap" >}}
 | Molécule                 | Spécialité        | Demi-vie (h) | AMM                                |
-|--------------------------|-------------------|-------------:|------------------------------------|
+| ------------------------ | ----------------- | -----------: | ---------------------------------- |
 | Alprazolam 🌍            | Xanax, gén        |        10-20 | Anxiété, sevrage alcool            |
 | Bromazépam               | Lexomil, gén      |           20 | Anxiété, sevrage alcool            |
 | Clobazam                 | Likozam, Urbanyl  |           36 | Anxiété, épilepsie, sevrage alcool |
@@ -133,7 +132,7 @@ Diviser les doses d'initiation par 2 après 65 ans.
 | Prazépam                 | Lysanxia, gén     |           65 | Anxiété, sevrage alcool            |
 | Zolpidem ²               | Stilnox, gén      |          2,4 | Insomnie occasionnelle/transitoire |
 | Zopiclone                | Imovane, gén      |            5 | Insomnie occasionnelle/transitoire |
-{{< /table >}}
+{caption="Benzodiazépines et apparentés disponibles en France par voie orale en 2026. Dr JB Fron d'après *BDPM*" class="table-wrap"}
 
 > ²: ordonnance sécurisée  
 Données insuffisantes pour comparer les efficacités hypnotiques ou anxiolytiques.  

@@ -36,9 +36,8 @@ Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{%
   <input type="search" class="form-control" id="table-search" onkeyup="searchTable()" placeholder="Rechercher">
 </div>
 
-{{< table title="Certificats médicaux pouvant être demandés ou refusés pour les enfants et mineurs en France. Dr JB Fron d'après *CNOM 2025*" class="table-wrap" id="table-filter">}}
 | Cadre | Motif | Prévu par un texte | Références et préconisations du CNOM |
-|-------|-------|--------------------|--------------------------------------|
+| ----- | ----- | ------------------ | ------------------------------------ |
 | Naissance | Inscription de l'enfant à l'état civil | Non sauf exception | Aucun texte ne prévoit la production d'un certificat médical à cette occasion sauf cas de la naissance d'un enfant dans un couple de femmes ou d'un enfant mort-né.<br> **Article 79-1** du Code civil Circulaire 21 septembre 2021 (Assistance médicale à la procréation) |
 | Adoption d'un enfant | Confirmation de la demande d'adoption | Oui | **Article R 225-3** du Code de l'action sociale et des familles |
 | Asile Politique | Certificat médical produit en sus de l'examen médical | Oui |**Article L.531-11** du CESEDA |
@@ -73,7 +72,7 @@ Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{%
 | Sports / Fédérations sportives | Disciplines à contraintes particulières | Oui |  Les seules disciplines pour lesquelles un certificat médical annuel est exigé sont les disciplines dites << à contraintes particulières >>: <br>- plongée subaquatique y compris souterraine;<br>- boxe et autre sport de combat, pratiqués en compétition, pouvant entraîner un KO;<br>- activité pratiquée avec une arme à feu ou à air comprimé (tir, biathlon);<br>- sport avec véhicule terrestre à moteur à l'exception du karting et du modélisme automobile radioguidé;<br>- disciplines mononautiques (bateau à moteur, aéroglisseur...).<br> **Décret n° 2023-853** du 31 août 2023 relatif à la liste des disciplines sportives à contraintes particulières |
 | Décès | Déclaration à l'état civil / Déclenchement des opérations funéraires  | Oui | Article R.1112-72 du Code de la santé publique Articles L.2223-42 et R.2213-1-1 du Code général des collectivités territoriales. |
 | Décès | Justificatif d'absence à la suite du décès d'un enfant | Oui | Article L.3142-1-1 du Code du travail : le texte prévoit << sur justification >> sans mentionner un certificat de décès. |
-{{< /table >}}
+{caption="Certificats médicaux pouvant être demandés ou refusés pour les enfants et mineurs en France. Dr JB Fron d'après *CNOM 2025*" class="table-wrap" id="table-filter"}
 
 ## Sources {.mt-5}
 

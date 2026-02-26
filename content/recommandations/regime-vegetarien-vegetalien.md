@@ -144,9 +144,8 @@ Les carences sont plus fréquentes en **fer, iode, vitamines B12 et D, phosphoca
 {{% /collapse %}}
 {{%collapse "Synthèse des repères alimentaires pour les régimes végétarien et végétalien" "show" %}}
 
-{{< table title="Synthèse des repères alimentaires quotidiens pour les régimes végétarien et végétalien. Dr JB Fron d'après Anses 2025" class="table-wrap" >}}
 | Groupe alimentaire                       |                    Lacto-ovovégétariens                    |                        Végétaliens                         |
-|------------------------------------------|:----------------------------------------------------------:|:----------------------------------------------------------:|
+| ---------------------------------------- | :--------------------------------------------------------: | :--------------------------------------------------------: |
 | Légumes et fruits                        |                          700 g/j                           |                          700 g/j                           |
 | Légumes secs                             |                           75 g/j                           |                          120 g/j                           |
 | Féculents et pains                       |      170 g/j (≥ 120 g/j complets et source de fibres)      |      250 g/j (≥ 120 g/j complets ou source de fibres)      |
@@ -158,7 +157,7 @@ Les carences sont plus fréquentes en **fer, iode, vitamines B12 et D, phosphoca
 | Analogues de produits laitiers frais     |                          350 g/j                           |                          270 g/j                           |
 | Analogues de viande vecteur de protéines |                          100 g/j                           |                           0 g/j                            |
 | Levure de bière et autres                |                           10 g/j                           |                           15 g/j                           |
-{{< /table >}}
+{caption="Synthèse des repères alimentaires quotidiens pour les régimes végétarien et végétalien. Dr JB Fron d'après Anses 2025" class="table-wrap"}
 
 {{% /collapse %}}
 {{%sources%}}

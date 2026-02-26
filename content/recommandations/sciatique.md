@@ -17,7 +17,7 @@ sctid = "23056005"
 icd10 = ["M54.3"]
 image = true
 imageSrc = "Hernie discale lombaire responsable d'une sciatique. OpenStax College, CC BY 3.0, via Wikimedia Commons"
-todo = "flow, biblio"
+todo = "rankok | flow"
 +++
 
 {{%article-summary%}}
@@ -37,7 +37,6 @@ Sciatique
 : Radiculalgie fréquente irradiant dans le membre inférieur (voire aux deux) selon une topographie métamérique par atteinte du nerf sciatique (racines L5 et/ou S1). L'origine est discale (hernie discale) chez le jeune adulte (20 à 40 ans) et arthrosique (zygapophysaire) chez le sujet âgé mais elle peut également être maligne. Elle évolue souvent de façon paroxystique et bénigne mais 20 à 30 % ont une chronicisation.
 : Elle est souvent associée à une lombalgie (lombosciatique).
 
-{{< table title="Atteintes radiculaires du membre inférieur, réflexes et déficits sensitivo-moteurs correspondants." class="table-wrap" >}}
 | Racine | Territoire | Réflexe | Muscle | Mouvement |
 | ------ | ---------- | ------- | ------ | --------- |
 | L2 | Face médiale de cuisse | | Psoas | Flexion hanche |
@@ -45,7 +44,7 @@ Sciatique
 | L4 | - Face antérolatérale de cuisse<br>- Face antérieure du genou<br>- Bord antérieur jambe | Rotulien | - Quadriceps<br>- Tibial antérieur | - Extension genou<br>- Dorsiflexion pied |
 | ==**L5**== | - Face postérolatérale de cuisse<br>- Face postérolatérale de jambe<br>- Malléole externe, dos du pied, **1er orteil** | | - Long extenseur de l'hallux, long extenseur des orteils<br>- Tibial antérieur<br>- Fibulaires<br>- Moyen glutéal | - Dorsiflexion orteils<br>- Dorsiflexion pied<br>- Éversion pied<br>- Abduction hanche |
 | ==**S1**== | - Face postérieure de cuisse et jambe<br>- Talon<br>- Plante, bord latéral du pied, **5e orteil** | Calcanéen | - Triceps sural<br>- Ischiojambiers | - Flexion plantaire pied<br>- Flexion genou |
-{{< /table >}}
+{caption="Atteintes radiculaires du membre inférieur, réflexes et déficits sensitivo-moteurs correspondants" class="table-wrap"}
 
 ### Abréviations
 

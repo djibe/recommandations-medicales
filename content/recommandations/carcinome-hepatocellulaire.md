@@ -42,9 +42,8 @@ Carcinome hépatocellulaire (CHC)
 
 > Un dépistage non invasif de la fibrose hépatique (élastométrie hépatique) est recommandé en cas de facteur de risque de cirrhose: alcool, stéatopathie métabolique, diabète type 2, hépatite B ou C chronique.
 
-{{< table title="Facteurs de risque de carcinome hépatocellulaire (CHC). Dr JB Fron d'après AFEF 2025" >}}
 | Facteur de risque | Odd Ratio |
-|----------------|:---------:|
+| ----------------- | :-------: |
 | Aflatoxine B1 + VHB | 54 |
 | Déficit en alpha 1<br>antitrypsine homozygote | 40 |
 | Hémochromatose | 20 |
@@ -58,7 +57,7 @@ Carcinome hépatocellulaire (CHC)
 | Alcool | 1,5-3 |
 | Syndrome métabolique | 2,3 |
 | Tabac | 1,5 |
-{{< /table >}}
+{caption="Facteurs de risque de carcinome hépatocellulaire (CHC). Dr JB Fron d'après AFEF 2025"}
 
 Encourager la consommation de **café** dans ces populations, en plus des mesures d'hépatoprotection (*AFEF* et *EASL 2025*).
 

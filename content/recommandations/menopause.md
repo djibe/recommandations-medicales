@@ -70,16 +70,15 @@ En revanche, un test *négatif* (absence de saignements) n'affirme pas une méno
 > [!INFO]
 > La valeur prédictive du test au progestatif pour le diagnostic de ménopause n'a été évalué par aucune étude.
 
-{{< table title="Terminologie de la ménopause. Dr JB Fron d'après *CNGOF 2021*" >}}
 | Situation de survenue   | Terme                          |
-|-------------------------|--------------------------------|
-| &gt; 55 ans             | Ménopause tardive              |
+| ----------------------- | ------------------------------ |
+| > 55 ans                | Ménopause tardive              |
 | 45-55 ans               | Ménopause naturelle            |
 | 40-44 ans               | Ménopause anticipée            |
 | < 40 ans                | [Insuffisance ovarienne prématurée]({{% relref "insuffisance-ovarienne-prematuree.md" %}}) |
 | Radio/chimio-induite    | Ménopause iatrogène            |
 | Ovariectomie bilatérale | Ménopause chirurgicale         |
-{{< /table >}}
+{caption="Terminologie de la ménopause. Dr JB Fron d'après *CNGOF 2021*"}
 
 ### Abréviations
 
@@ -527,9 +526,8 @@ Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch tous les 3-4 jours (s
 \+ Progesterone orale 200 mg au coucher en continu
 {{%/info%}}
 
-{{< table title="Traitements hormonaux de la ménopause (THM) recommandés par le CNGOF disponibles seuls ou en association en France en 2026. Dr JB Fron d'après *BDPM*" class="table-wrap">}}
 | Classe              | Molécule                   | Spécialités                                                                   |                             Dosages |
-|---------------------|----------------------------|-------------------------------------------------------------------------------|------------------------------------:|
+| ------------------- | -------------------------- | ----------------------------------------------------------------------------- | ----------------------------------: |
 | Estradiol patch     | Estradiol                  | Dermestril (-Septem), Estrapatch, Femsept, Oesclim, Thais (-sept), Vivelledot |25, 37,5, 40, 50, 60, 75, 100 µg/24h |
 | Estradiol gel       | Estradiol                  | Estreva, Oestrodose                                                           |                        0,1 %, 0,6 % |
 | Progestatif         | Dydrogestérone             | Duphaston                                                                     |                               10 mg |
@@ -537,7 +535,7 @@ Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch tous les 3-4 jours (s
 |                     | Progestérone               | Progesterone, Utrogestan                                                      |                         100, 200 mg |
 | Progestatif oral/vaginal | Progestérone          | Utrogestan                                                                    |                         100, 200 mg |
 | Association         | Estradiol + lévonorgestrel | Femseptevo                                                                    |                         50/7 µg/24h |
-{{< /table >}}
+{caption="Traitements hormonaux de la ménopause (THM) recommandés par le CNGOF disponibles seuls ou en association en France en 2026. Dr JB Fron d'après *BDPM*" class="table-wrap"}
 
 Pour l'insuffisance ovarienne prématurée, viser au moins 100 µg d'estradiol transdermique (*ESHRE 2024*).
 

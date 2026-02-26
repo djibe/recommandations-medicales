@@ -78,34 +78,33 @@ WFADHD
 
 L'ordre d'apparition des troubles est important pour déterminer un diagnostic différentiel d'une comorbidité ou d'une complication du TDAH.
 
-{{< table title="Diagnostic différentiel et comorbidités du TDAH. **tb =** trouble" class="table-wrap" >}}
 | Classe | Trouble | Exemples de signes d'alerte et conseils |
-|------------|---------------------------------------|----------------------------------------------------------|
+| ------ | ------- | --------------------------------------- |
 | Autres TND | Troubles de développement du language, des sons et de la parole | Enfant inintelligible après 3 ans, manque de vocabulaire, déformations des sons, erreurs syntaxiques, troubles de la compréhension verbale |
-|| Troubles des apprentissages (dyslexie ...) | Déficit dans l'apprentissage de la lecture, production écrite, calcul et raisonnement logico-mathématique |
-|| Tb développemental de la coordination | Maladresse anormale, difficultés de coordination, lenteur ou imprécision |
-|| Tics | Fréquemment associés |
+| | Troubles des apprentissages (dyslexie ...) | Déficit dans l'apprentissage de la lecture, production écrite, calcul et raisonnement logico-mathématique |
+| | Tb développemental de la coordination | Maladresse anormale, difficultés de coordination, lenteur ou imprécision |
+| | Tics | Fréquemment associés |
 || Syndrome de Gilles de la Tourette | Tics verbaux et moteurs répétés involontairement. TDAH souvent associé |
-|| Trouble du spectre de l'autisme | Peut ressembler à des troubles attentionnels, interactions sociales également perturbées. Association possible au TDAH. De 0 à 12 ans, [annuaire](https://annuaire.autismeinfoservice.fr/recherche/rubrique/rubrique:14/) |
-|| Trouble du développement intellectuel | Peut être associé, voire aggravé par un TDA |
+| | Trouble du spectre de l'autisme | Peut ressembler à des troubles attentionnels, interactions sociales également perturbées. Association possible au TDAH. De 0 à 12 ans, [annuaire](https://annuaire.autismeinfoservice.fr/recherche/rubrique/rubrique:14/) |
+| | Trouble du développement intellectuel | Peut être associé, voire aggravé par un TDA |
 | Troubles externalisés | Trouble d'opposition provocation (TOP) | Comportement hostile, provocateur, colérique. L'opposition n'est pas un symptôme de TDAH |
-|| Troubles des conduites | Comportements délictuels à l'encontre des règles sociales |
+| | Troubles des conduites | Comportements délictuels à l'encontre des règles sociales |
 | Comportements à risque | Consommation de substances psychoactives | Début précoce, évaluer les consommations |
-|| Comportement sexuel à risque | IVG, IST |
-|| Usage excessif des jeux et des écrans ||
+| | Comportement sexuel à risque | IVG, IST |
+| | Usage excessif des jeux et des écrans ||
 | Troubles anxieux | Trouble anxieux généralisé, anxiété de performance, refus scolaire anxieux, anxiété sociale, anxiété de séparation | Possibles irritabilité et agitation motrice et psychique ou inhibition comportementale ou anxiété de performance invalidante |
 | Troubles obsessionnels compulsifs | TOC | Obsessions, compulsions, rituels |
 | Troubles de l'humeur | [Épisode dépressif caractérisé]({{% relref "depression.md" %}}) | Modification nette et récente de l'humeur, plus fréquent chez l'adolescent. Tristesse, idées suicidaires non exprimées spontanément, observées par des colères et irritabilité |
-|| Trouble disruptif avec dysrégulation émotionnelle | Comportement explosif (rage, accès de colère d'intensité et fréquence supérieures à l'âge développemental) |
-|| [Troubles bipolaires]({{% relref "trouble-bipolaire.md" %}}) | Antécédents familiaux, humeur labile, irritabilité épisodique, troubles du sommeil. Rares avant l'adolescence |
+| | Trouble disruptif avec dysrégulation émotionnelle | Comportement explosif (rage, accès de colère d'intensité et fréquence supérieures à l'âge développemental) |
+| | [Troubles bipolaires]({{% relref "trouble-bipolaire.md" %}}) | Antécédents familiaux, humeur labile, irritabilité épisodique, troubles du sommeil. Rares avant l'adolescence |
 | Psycho-traumatisme | Trouble de l'adaptation | Lié au stress, surtout transitoire, rechercher une rigidité cognitive |
-|| État de stress post-traumatique (ESPT) | Modifications du comportement après 1/+ évènements traumatiques. Évitement, hypervigilance, reviviscence, troubles du sommeil. |
-|| Trouble réactionnel de l'attachement ||
-|| Maltraitance | Envisager systématiquement, sous toutes ses formes (dont harcèlement scolaire) |
+| | État de stress post-traumatique (ESPT) | Modifications du comportement après 1/+ évènements traumatiques. Évitement, hypervigilance, reviviscence, troubles du sommeil. |
+| | Trouble réactionnel de l'attachement ||
+| | Maltraitance | Envisager systématiquement, sous toutes ses formes (dont harcèlement scolaire) |
 | Troubles du sommeil | Insomnie, parasomnies | Très fréquents ainsi que le retard de phase. Le sommeil non réparateur peut se traduire par une hyperactivité, irritabilité, troubles de concentration |
-|| [Syndrome d'apnées obstructives du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) | Ronflements, pauses, sueurs nocturnes, nycturie, respiration buccale. Diurne: fatigue au réveil, troubles de l'attention, hyperactivité, somnolence, sommeil non réparateur |
-|| Narcolepsie | Endormissements diurnes irrépressibles, cataplexie, hallucinations hypnagogiques |
-|| [Syndrome des jambes sans repos]({{% relref "syndrome-jambes-sans-repos.md" %}}) | Besoin irrépressible de bouger les jambes suite à des sensations désagréables, soulagées par le mouvement, maximales le soir. Comorbidité fréquente |
+| | [Syndrome d'apnées obstructives du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) | Ronflements, pauses, sueurs nocturnes, nycturie, respiration buccale. Diurne: fatigue au réveil, troubles de l'attention, hyperactivité, somnolence, sommeil non réparateur |
+| | Narcolepsie | Endormissements diurnes irrépressibles, cataplexie, hallucinations hypnagogiques |
+| | [Syndrome des jambes sans repos]({{% relref "syndrome-jambes-sans-repos.md" %}}) | Besoin irrépressible de bouger les jambes suite à des sensations désagréables, soulagées par le mouvement, maximales le soir. Comorbidité fréquente |
 | [Énurésie]({{% relref "enuresie-primaire.md" %}}) || Comorbidité fréquente|
 | Obésité || Comorbidité fréquente |
 | Troubles du comportement alimentaire || [Boulimie]({{% relref "boulimie-hyperphagie.md" %}}), anorexie mentale |
@@ -115,7 +114,7 @@ L'ordre d'apparition des troubles est important pour déterminer un diagnostic d
 | Intoxication || [Plomb]({{% relref "saturnisme.md" %}}), mercure, syndrome d'alcoolisation fœtale |
 | Médicaments || [Corticoïdes]({{% relref "corticoides.md" %}}), valproate pendant la grossesse |
 | Maladie génétique || Syndrome de l'X fragile, délétion 22q11 ou 7q11.23, Prader-Willi, Angelman, neurofibromatose de type 1 |
-{{< /table >}}
+{caption="Diagnostic différentiel et comorbidités du TDAH. **tb =** trouble" class="table-wrap"}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -180,13 +179,12 @@ L'évaluation du trouble déficit de l'attention/hyperactivité est au mieux ré
 
 #### Plaintes évocatrices de TDAH
 
-{{< table title="Plaintes évocatrices de TDAH" >}}
 | Sujet       | Plainte                                                                                                                                             |
-|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Enfant      | - Peu/pas d'amis<br>- Conflit avec les parents<br>- Faible estime de soi                                                                            |
 | Famille     | - Distraction, n'écoute pas<br>- Difficultés d'organisation, manque d'écoute<br>- Agitation, conduites dangereuses<br>- Impatience, coupe la parole |
 | Enseignants | - Rêveur, distrait<br>- Difficultés de concentration,<br>mémorisation, autonomie                                                                    |
-{{< /table >}}
+{caption="Plaintes évocatrices de TDAH"}
 
 ### Examen clinique
 

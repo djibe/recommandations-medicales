@@ -83,14 +83,13 @@ L'APA est versé à la personne ou directement au prestataire.
 
 ### Montants de l'APA
 
-{{< table title="Montants de l'Allocation Personnalisée d'Autonomie (APA) en 2026. Dr JB Fron d'après *Service-Public*" class="table-wrap">}}
 | Situation         | Perte d'autonomie | Prestation (€/mois) |
 | ----------------- | ----------------- | ------------------: |
 | Personne confinée lit/fauteuil avec perte autonomie totale nécessitant des intervenants en continu | GIR 1 | 2080,33 |
 | Confinement lit/fauteuil mais certaines fonctions mentales conservées, nécessite aide pour plupart des activités courantes | GIR 2 | 1682,30 |
 | Autonomie mentale conservée, motrice partielle, aides tous les jours plusieurs fois pour autonomie corporelle | GIR 3 | 1215,99 |
 | Aide pour transferts mais autonome pour déplacement une fois levé, ou aide pour aide corporelle ou repas sans difficultés pour se déplacer | GIR 4 | 811,52 |
-{{< /table >}}
+{caption="Montants de l'Allocation Personnalisée d'Autonomie (APA) en 2026. Dr JB Fron d'après *Service-Public*" class="table-wrap}
 
 {{% /collapse %}}
 {{%collapse "Le rendez-vous d'évaluation d'APA" %}}

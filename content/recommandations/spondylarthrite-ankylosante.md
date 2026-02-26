@@ -226,14 +226,13 @@ Recherche d'un syndrome inflammatoire biologique:
 - Radiographies du rachis cervico-thoraco-lombaire de face et de profil
 - Bassin de face
 
-{{< table title="Classification radiologique de la sacro-iliite de la spondylarthrite ankylosante" >}}
 | Stade   | Image                                                                               |
-|---------|-------------------------------------------------------------------------------------|
+| ------- | ----------------------------------------------------------------------------------- |
 | Stade 0 | Inflammation de l'enthèse non visible en radio                                      |
 | Stade 1 | Érosion/irrégularité du cortex et ostéopénie sous-chondrale<br>de la zone d'enthèse |
 | Stade 2 | Érosion avec ébauche d'apposition périostée                                         |
 | Stade 3 | Enthésophyte (ossification cicatricielle le long de l'enthèse)                      |
-{{< /table >}}
+{caption="Classification radiologique de la sacro-iliite de la spondylarthrite ankylosante"}
 
 **NB. La sacro-iliite radiologique ne survient en moyenne que 7 ans après le début des symptômes.**
 

@@ -11,7 +11,7 @@ sources = ["Colleges"]
 tags = []
 image = true
 imageSrc = "pch.vector / Freepik"
-todo = "Collège Médical Français des Professeurs d'Anatomie"
+todo = "Collège Médical Français des Professeurs d'Anatomie | update 2026"
 +++
 
 Page mémo pour accéder à tous les polycopiés des Collèges des enseignants de médecine disponibles gratuitement, afin de rafraîchir certaines connaissances.
@@ -21,7 +21,6 @@ Page mémo pour accéder à tous les polycopiés des Collèges des enseignants d
 
 Le tableau ci-dessous liste tous les référentiels des Collèges de médecine disponibles en téléchargement gratuit.
 
-{{< table title="Livres gratuits des Collèges des enseignants de médecine pour le deuxième cycle en 2026" class="table-wrap" >}}
 | Spécialité | Collège | Année | Lien |
 | ---------- | ------- | ----- | ---- |
 | Addictologie | CUNEA <br><span class="typography-caption">Collège Universitaire National des Enseignants d'Addictologie</span> | 2024 | [lien](https://www.cunea.fr/sites/default/files/ref_psy_add_4ed.pdf) |
@@ -48,7 +47,7 @@ Le tableau ci-dessous liste tous les référentiels des Collèges de médecine d
 | Réanimation, médecine intensive | CE-MIR <br><span class="typography-caption">Collège des Enseignants de Médecine Intensive Réanimation</span> | 2021 | [lien](https://www.ce-mir.fr/livre-referentiel-deuxieme-cycle-r2c-8eme-edition) |
 | Rhumatologie | COFER <br><span class="typography-caption">Collège Français des Enseignants en Rhumatologie</span> | 2020 | [lien](http://www.lecofer.org/liste-des-items-ecn.php) |
 | Urologie | CFEU <br><span class="typography-caption">Collège Français des Enseignants en Urologie</span> | 2021 | [lien](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/) |
-{{< /table >}}
+{caption="Livres gratuits des Collèges des enseignants de médecine pour le deuxième cycle en 2026" class="table-wrap"}
 
 Malheureusement, les livres des autres spécialités des Collèges d'enseignants ne sont disponibles qu'à la vente ou via les identifiants universitaires.
 

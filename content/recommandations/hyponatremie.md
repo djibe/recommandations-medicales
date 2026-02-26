@@ -44,13 +44,12 @@ Les autres causes fréquentes sont l'insuffisance surrénale et les [cancers](/t
 
 ### Classification de l'hyponatrémie
 
-{{< table title="Classification de l'hyponatrémie selon *ERBP 2014*" >}}
 |   Grade  | Natrémie (mmol/L) |
-|----------|------------------:|
+| -------- | ----------------: |
 |  Légère  |           130-134 |
 | Modérée  |           125-129 |
 | Profonde |             < 125 |
-{{< /table >}}
+{caption="Classification de l'hyponatrémie selon *ERBP 2014*"}
 
 ### Étiologie de l'hyponatrémie
 

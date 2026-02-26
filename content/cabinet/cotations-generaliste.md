@@ -64,9 +64,8 @@ Les outils *OMNIPrat* et *CotaMG* permettent aux jeunes médecins d'apprendre à
 
 Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 
-{{< table title="Cotations du médecin généraliste pour la consultation de l'adulte et de l'enfant de plus de 6 ans" class="table-wrap" >}}
 | Code NGAP | Description                                                                                   | Tarif&nbsp;(€) |
-|-----------|-----------------------------------------------------------------------------------------------|---------------:|
+| --------- | --------------------------------------------------------------------------------------------- | -------------: |
 | G         | Consultation                                                                                  |             30 |
 | TCG       | Téléconsultation                                                                              |             25 |
 | RDV       | Consultation du [bilan de prévention]({{% relref "bilan-prevention.md" %}}) (TP AMO)          |             30 |
@@ -84,7 +83,7 @@ Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 | G + CRN   | Consultation régulée 20-24h et 6-8h                                                           |      30 + 42,5 |
 | G + CRM   | Consultation régulée 0-6h                                                                     |      30 + 59,5 |
 | G + CRD   | Consultation régulée dimanche et jours fériés                                                 |      30 + 26,5 |
-{{< /table >}}
+{class="table-wrap" caption="Cotations du médecin généraliste pour la consultation de l'adulte et de l'enfant de plus de 6 ans"}
 
 > A = année ; M = mois
 
@@ -98,9 +97,8 @@ Sur la feuille de soin papier écrire: CCX pour CSO ou CSE; CCE pour MPH. Entrer
 
 Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de vie sont sur l'assurance *Maternité* avec pour date de Maternité la date de naissance de l'enfant, tous les autres sont en *Maladie*.
 
-{{< table title="Cotations des consultations de l'enfant avant 6 ans" class="table-wrap" >}}
 | Code NGAP                                           | Description                                                                                                                            | Tarif&nbsp;(€) |
-|-----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------:|
+| --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------: |
 | G + MEG                                             | Consultation avant 6 ans                                                                                                               |             35 |
 | VG + MEG + MD                                       | Visite avant 6 ans                                                                                                                     |             45 |
 | [COD]({{% relref "examens-suivi-nourrisson.md" %}}) | Examens à 13-14j, M1, M2, M3, M4, M5,<br>M11, M12, M16-18 puis à 2, 3, 4 et 5 ans (à 100%)                                             |             35 |
@@ -109,26 +107,23 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
 | CSE*                                                | Suivi enfant autiste (1/an)                                                                                                            |           47,5 |
 | MPH*                                                | Remplissage du dossier MDPH                                                                                                            |             60 |
 | ASE*                                                | Enfant pris en charge par l'ASE                                                                                                        |           47,5 |
-{{< /table >}}
+{caption="Cotations des consultations de l'enfant avant 6 ans" class="table-wrap"}
 
 \* Sur la feuille de soin papier écrire: CCX pour ASE, CSE ou CSO, CCE pour MPH
 {.alert .alert-info}
 
 ### Actes du généraliste avant 6 ans {.typography-headline-5}
 
-{{< table >}}
 | Code CCAM           | Description                                                                                   | Tarif&nbsp;(€) |
-|---------------------|-----------------------------------------------------------------------------------------------|---------------:|
+| ------------------- | --------------------------------------------------------------------------------------------- | -------------: |
 | CDRP002             | Dépistage de la surdité avant 3 ans<br>avec test validé (SensoryBabyTest)                     |          49,46 |
 | CDRP002 + 1/2 BLQP010 | Dépistage de la surdité avant 3 ans<br>couplé au test de la vision binoculaire (test de Lang) |        62,30 |
-{{< /table >}}
 
   </div>
   <div aria-labelledby="visite-tab" class="tab-pane fade" id="visite-panel" role="tabpanel">
 
-{{< table class="table-wrap" >}}
 | Code NGAP | Description                                                                               | Tarif&nbsp;(€) |
-|-----------|-------------------------------------------------------------------------------------------|---------------:|
+| --------- | ----------------------------------------------------------------------------------------- | -------------: |
 | VG + MD   | Visite à domicile pour un adulte                                                          |        30 + 10 |
 | IMT + MD  | Visite à domicile pour inscription d'un nouveau patient en ALD                            |        30 + 10 |
 | V1,5 + MD | Visite à domicile pour un adulte avec test antigénique Covid                              |     34,50 + 10 |
@@ -142,7 +137,7 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
 | VG + VRD  | Visite régulée dimanche et jour férié                                                     |        30 + 30 |
 | APV + MD  | Vu à la demande de son MT pour une compétence explicite (ne pas revoir à ± 4 mois)        |        60 + 10 |
 | VG + MD + SNP ± SHE + MVR | Visite à la demande du SAS sous 24 heures. MVR = Majoration Visite Rapide | 30 + 10 + 15 + 15 |
-{{< /table >}}
+{class="table-wrap"}
 
 > \* Médecin traitant uniquement
 
@@ -158,9 +153,8 @@ Actes et surcotations disponibles pour le médecin généraliste.
 
 Cotations NGAP disponibles en sus de la consultation ou de la visite médicale.
 
-{{< table title="Surcotations possibles pour des situations particulières" class="table-wrap" >}}
 | Code NGAP | Description                                                                                                                                                                       | Tarif supp (€) |
-|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------:|
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------: |
 | + MCG     | Consultation d'un patient +16 ans hors résidence habituelle ou soins itératifs avec rédaction d'un compte-rendu pour son MT                                                       |              5 |
 | + MOP     | Consultation d'un patient +80 ans qui ne fait pas partie de la patientèle déclarée                                                                                                |              5 |
 | + MSH**   | Sortie d'hospitalisation (chirurgie, décompensation ou diagnostic d'affection grave) dans le mois d'un patient polypathologique. MIC non applicable pour la même hospitalisation. |             23 |
@@ -172,7 +166,7 @@ Cotations NGAP disponibles en sus de la consultation ou de la visite médicale.
 | + SNP     | Examen d'un patient non déclaré dans les 48h à la demande du SAS                                                                                                                  |             15 |
 | + SHE     | Surcotation à MRT/SNP de 19 à 21h                                                                                                                                                 |              5 |
 | + DE      | Acte non justifié, à déterminer avec "tact et mesure" (non remboursé)                                                                                                             |          Libre |
-{{< /table >}}
+{caption="Surcotations possibles pour des situations particulières" class="table-wrap"}
 
 > \* Médecin traitant uniquement ; MIS et PIV sont anonymisés en MTX sur une feuille de soins papier.
 
@@ -182,9 +176,8 @@ Actes CCAM importants non cumulables ou cumulables avec une consultation (3 poss
 
 Pour les sutures, voir la [fiche Omniprat](https://omniprat.org/fiches-pratiques/sutures/sutures-fiches/) et penser à associer le code CCAM *M* (26,88 €) de soins d'urgences.
 
-{{< table title="Actes importants pour le médecin généraliste. Majoration M possible si urgence pour les actes mentionnés" class="table-wrap" >}}
 | Code CCAM   | Description | Tarif&nbsp;(€) |
-|-------------|-------------|---------------:|
+| ----------- | ----------- | -------------: |
 | + DEQP003   | ECG 12 dérivations | 14,52   |
 | + JKHD001   | Frottis cervico-vaginal | 12,73 |
 | ALQP003     | Test standardisé d'évaluation d'une dépression: {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, Beck, MADRS, MMPI et STAI (max 1/an) | 69,12 |
@@ -196,7 +189,7 @@ Pour les sutures, voir la [fiche Omniprat](https://omniprat.org/fiches-pratiques
 | EGFA007     | Excision d'une [thrombose hémorroïdaire]({{% relref "hemorroides.md" %}}) | 62,70 |
 | GLQP012     | Spirométrie avec enregistrement | 41,08 |
 | GABD002 + M | Tamponnement nasal antérieur | 55,14 |
-{{< /table >}}
+{caption="Actes importants pour le médecin généraliste. Majoration M possible si urgence pour les actes mentionnés" class="table-wrap"}
 
 **NB.** Le premier acte est facturé à 100%, le 2e à 50 % et les suivants sont offerts.
 

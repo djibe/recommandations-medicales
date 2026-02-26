@@ -68,12 +68,11 @@ En cas d'**allaitement artificiel**, la troisième ampoule n'est pas obligatoire
 
 La première ampoule doit être administrée durant la 1^re^ heure de vie (cf. tableau ci-dessous).
 
-{{< table title="Rythme d'administration de la vitamine K1 en périnatal d'après *SFNéonat 2015*. MHN = maladie hémorragique du nouveau-né" >}}
 |               | Naissance     | J3-J4      | 1 mois     |
-|---------------|:-------------:|------------|------------|
-| Né à terme    | 2 mg per os    | 2 mg per os | 2 mg per os |
+| ------------- | :-----------: | ---------- | ---------- |
+| Né à terme    | 2 mg per os   | 2 mg per os | 2 mg per os |
 | Né à terme avec<br> FDR de MHN | 2 mg per os<br>ou 1 mg IVL | 2 mg per os<br>ou 1 mg IM/IVL | 2 mg per os<br>ou 1 mg IM/IVL |
-{{< /table >}}
+{caption="Rythme d'administration de la vitamine K1 en périnatal d'après *SFNéonat 2015*. MHN = maladie hémorragique du nouveau-né"}
 
 {{% /collapse %}}
 {{%sources%}}

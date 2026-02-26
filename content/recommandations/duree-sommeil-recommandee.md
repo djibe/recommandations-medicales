@@ -51,18 +51,15 @@ Un temps de sommeil régulièrement inférieur aux durées recommandées provoqu
 {{% /collapse %}}
 {{%collapse "Durée recommandée de sommeil chez l'enfant" %}}
 
-
-
-{{< table title="Temps recommandés de sommeil quotidien selon l'âge de l'enfant selon *NSF*" >}}
 |     Âge     | Temps de sommeil (/24h) |
-|:-----------:|------------------------:|
+| :---------: | ----------------------: |
 | 0 à 3 mois  |                   11-19 |
 | 4 à 11 mois |                   10-18 |
 |  1 à 2 ans  |                    9-16 |
 |  3 à 5 ans  |                    8-14 |
 | 6 à 13 ans  |                    7-12 |
 | 14 à 18 ans |                    7-11 |
-{{< /table >}}
+{caption="Temps recommandés de sommeil quotidien selon l'âge de l'enfant selon *NSF*"}
 
 ### Bénéfices pour l'enfant d'une durée de sommeil optimale
 

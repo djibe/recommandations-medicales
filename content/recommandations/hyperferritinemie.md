@@ -79,14 +79,13 @@ SNFGE
 
 Orientation diagnostique et étiologie d'une hyperferritinémie.
 
-{{< table title="Principaux mécanismes d'hyperferritinémie d'après *CDU-HGE*" >}}
 | Mécanisme                                  | CST    | Surcharge en fer  |
-|--------------------------------------------|--------|-------------------|
+| ------------------------------------------ | ------ | ----------------- |
 | Syndrome inflammatoire                     | Normal | Non               |
 | Cytolyse hépatique, musculaire ou hémolyse | Normal | Non               |
 | Alcool                                     | Normal | Non sauf cirrhose |
 | Syndrome métabolique                       | Normal | Non ou faible     |
-{{< /table >}}
+{caption="Principaux mécanismes d'hyperferritinémie d'après *CDU-HGE*"}
 
 ### Causes fréquentes d'hyperferritinémie
 

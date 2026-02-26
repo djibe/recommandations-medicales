@@ -429,7 +429,6 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 
 ### Les complications et comorbidités du diabète à dépister
 
-{{< table title="Rythme de dépistage des complications et comorbidités du diabète. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap">}}
 | Appareil     | Soins                                                                                            | Source                   |
 | ------------ | ------------------------------------------------------------------------------------------------ | ------------------------ |
 | [AAA]({{% relref "anevrysme-aorte-abdominale.md" %}}) | Échographie si homme 65-75 ans et tabac ou ATCD familial AAA 1^er^ degré, AOMI | ACC/AHA 2022 |
@@ -471,7 +470,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 | [Syndrome de Cushing]({{% relref "syndrome-cushing.md" %}}) | Étayer si: syndrome plurimétabolique, diabète déséquilibré sans cause évidente, symptômes | PNDS Cushing 2022 |
 | [Vaccins]({{% relref "vaccination.md" %}}) | [Covid-19]({{% relref "covid-19.md" %}}) et [grippe]({{% relref "grippe.md" %}}) annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
 | [Vitamine B12]({{% relref "carence-vitamine-b12.md" %}}) | Si metformine depuis +4 ans: dosage et surveillance régulière | KDIGO 2022 diabetes<br>ADA/EASD 2022 |
-{{< /table >}}
+{caption="Rythme de dépistage des complications et comorbidités du diabète. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap"}
 
 > **AAA** = anévrysme de l'aorte abdominale ; **MRC** = maladie rénale chronique ; **aspirine:** IPP si risque élevé de saignement digestif ;  
 Épreuve d'effort: évaluer les facteurs de risque: FRCV usuels, tour de taille, ancienneté du diabète, HbA~1c~, complications, dysfonction érectile, SAHOS, NASH
@@ -496,12 +495,11 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 
 > -- *[Ameli 2025](https://www.ameli.fr/medecin/exercice-liberal/memos/troubles-endocriniens/diabete/prise-en-charge-et-suivi-du-patient/suivi/auto-surveillance-glycemique-du-patient-diabetique-systeme-freestyle-libre)*
 
-{{< table title="Objectifs glycémiques avec un capteur de glucose interstitiel selon SFD 2025" class="table-wrap" >}}
 | Situation | Temps dans la cible<br>TIR<br>0,7-1,8 g/L | Temps en dessous<br>de la cible TBR<br>< 0,7 g/L | <br><br>< 0,54 g/L | Temps au dessus<br>de la cible TAR<br>> 1,8 g/L | <br><br>> 2,5 g/L |
-|-|-|-|-|-|-|
+| - | - | - | - | - | - |
 | Cas général (hors grossesse) | > 70 % | < 4 % | < 1 % | < 25 % | < 5 % |
-Personne âge et/ou <br>risque hypoglycémique<br>sévère | > 50 % | < 1 % | 0 % | < 50 % | < 10 % |
-{{< /table >}}
+| Personne âge et/ou <br>risque hypoglycémique<br>sévère | > 50 % | < 1 % | 0 % | < 50 % | < 10 % |
+{caption="Objectifs glycémiques avec un capteur de glucose interstitiel selon SFD 2025" class="table-wrap"}
 
 {{% /collapse %}}
 {{%sources%}}

@@ -56,9 +56,8 @@ Hypertension artérielle résistante
 > [!INFO]
 > << Un dépistage moins fréquent (*ex* tous les 3 à 5 ans) est approprié pour les adultes 18-39 ans sans surrisque d'hypertension ayant déjà eu une mesure de la pression artérielle >> (surrisque: origines Africaines, surpoids, tension normale haute). -- *USPTF 2021*
 
-{{< table title="Grades d'hypertension artérielle selon les mesures de pression artérielle au cabinet à partir de 16 ans. Dr JB Fron d'après *ESH 2023* et *USPTF 2021*" class="table-wrap" >}}
 | Catégorie                 | Systolique (mmHg) |       | Diastolique (mmHg) | Action                                                                        |
-|---------------------------|:-----------------:|:-----:|:------------------:|-------------------------------------------------------------------------------|
+| ------------------------- | :---------------: | :---: | :----------------: | ----------------------------------------------------------------------------- |
 | Optimale                  | < 120             | et    | < 80               | Surveillance min. /5 ans sans surrisque (*USPTF 2021*)                        |
 | Normale                   | 120-129           | et    | 80-84              | Surv. min. /3 ans (6 mois si FRCV, *ESC 2018*)                                |
 | Normale haute             | 130-139           | et/ou | 85-89              | Surv. **annuelle**, éliminer HTA masquée par AMT/MAPA, traiter si THRCV       |
@@ -68,7 +67,7 @@ Hypertension artérielle résistante
 | Hypertension systolique isolée | ≥ 140        | et    | < 90               | Traitement selon le grade de la PAS                                           |
 | Hypertension diastolique isolée | < 140       | et    | ≥ 90               | Traitement selon le grade de la PAD                                           |
 | Hypertension nocturne (MAPA) | ≥ 120          | et/ou | ≥ 70               | Suivi hypertensiologue                                                        |
-{{< /table >}}
+{caption="Grades d'hypertension artérielle selon les mesures de pression artérielle au cabinet à partir de 16 ans. Dr JB Fron d'après *ESH 2023* et *USPTF 2021*" class="table-wrap"}
 
 > **AMT =** automesure tensionnelle ; **HRCV/THRCV =** {{%modal-btn "modal-rcv"%}}haut/très haut risque CV{{%/modal-btn%}}.  
 Utiliser la plus haute valeur des mesures standardisées effectuées au cabinet.  
@@ -82,11 +81,11 @@ Dépistage rapproché chez le +50 ans.
 
 1. Normotension  
   Pressions au cabinet et ambulatoires normales. Rythme de surveillance selon le tableau ci-dessus.
-2. Hypertension permanente  
+1. Hypertension permanente  
   Hypertension au cabinet et au domicile. Traitement selon tableau ci-dessus.
-3. Hypertension blouse blanche (15-25 %)  
+1. Hypertension blouse blanche (15-25 %)  
   Hypertension au cabinet et absente au domicile. RHD et dépistage annuel. Envisager un traitement en {{%modal-btn "modal-rcv"%}}risque cardiovasculaire élevé ou très élevé{{%/modal-btn%}}
-4. Hypertension masquée (10-20 %)  
+1. Hypertension masquée (10-20 %)  
   Hypertension absente au cabinet et observée au domicile. Automesures au moindre doute ([Hundemer et al 2025](https://www.sciencedirect.com/science/article/pii/S2589790X25000356)). RHD et traitement selon le grade de l'hypertension.
 
 ### Stades d'hypertension artérielle
@@ -225,7 +224,6 @@ Le brassard est spécifique de chaque appareil.
 > [!INFO]
 > Une diastolique entre 70 et 79 mmHg est la cible pour tout hypertendu. La pression cible doit être atteinte sous 3 mois.
 
-{{< table title="Synthèse des cibles de pression artérielle au cabinet selon le profil de l'adulte de plus de 18 ans. Dr JB Fron d'après les dernières recommandations en vigueur" >}}
 | Population          | Objectif (mmHg) | Source     |
 | ------------------- | --------------: | ---------- |
 | Cible minimale      | < 140/80        | ESH 2024   |
@@ -242,7 +240,7 @@ Le brassard est spécifique de chaque appareil.
 | [Insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}) | < 130/80<br>< 120/90 | ESH 2023<br>KDIGO 2021 |
 | Greffe rénale       | < 130/80        | ESH 2023, KDIGO 2021 |
 | Grossesse           | < 140/90        | ESH 2023   |
-{{< /table >}}
+{caption="Synthèse des cibles de pression artérielle au cabinet selon le profil de l'adulte de plus de 18 ans. Dr JB Fron d'après les dernières recommandations en vigueur"}
 
 Abaisser encore la cible systolique si bien tolérée sans passer sous 120/70 mmHg (*ESH 2024*). Détail pour chaque pathologie sur la page du chapitre concerné.
 

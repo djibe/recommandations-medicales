@@ -122,9 +122,8 @@ Pays ayant une forte endémie tuberculeuse (taux d'incidence > 40 cas de tubercu
 {{% /collapse %}}
 {{%collapse "Suivi thérapeutique de la tuberculose" %}}
 
-{{< table title="Examens de suivi de la tuberculose maladie" >}}
 |  Délai  | Consultation | BK | Radio | BH |          Bio           | Opht |
-|:-------:|:------------:|:--:|:-----:|:--:|:----------------------:|:----:|
+| :-----: | :----------: | :-:| :--:  | :-:| :--------------------: | :--: |
 |   J0    |      X       | X  |   X   | X  |           X            |  X   |
 |   J15   |      X       | X  |       | X  |           X            |      |
 |   J30   |      X       |    |   X   | X  |           X            |  X   |
@@ -134,7 +133,7 @@ Pays ayant une forte endémie tuberculeuse (taux d'incidence > 40 cas de tubercu
 | 9 mois  |      X       |    |   X   |    |                        |      |
 | 12 mois |      X       |    |   X   |    |                        |      |
 | 18 mois |      X       |    |   X   |    |                        |      |
-{{< /table >}}
+{caption="Examens de suivi de la tuberculose maladie"}
 
 > **Légende**  
   BH (ASAT, ALAT)  
@@ -194,13 +193,12 @@ La réaction d'hypersensibilité à la tuberculine apparaît chez les sujets qui
 
 L'IDR est en faveur de l'absence de primo-infection si elle est < 5 mm (10 mm en cas de vaccination BCG).
 
-{{< table title="Critères de test tuberculinique positif. Dr JB Fron d'après *MSF*" class="table-wrap" >}}
 | Caractéristiques individuelles | Diamètre de l'induration |
-|---------------------------------|-------------------------|
+| ------------------------------ | ------------------------ |
 | - VIH<br>- Enfants sévèrement malnutris<br>- Corticothérapie ≥ 15 mg/j ≥ 1 mois<br>- Immunosuppresseurs<br>- Contact récent avec un patient TB<br>- Patients avec une fibrose à la RP, compatible avec une TB antérieure | ≥ 5 mm |
 | - Originaire de pays à forte prévalence de TB<br>- Personnel de laboratoire de mycobactériologie<br>- Personnes travaillant et/ou vivant dans des lieux collectifs, y compris les structures de santé, centres de détention, lieux d'accueil pour personnes sans domicile fixe ...<br>- Enfants < 5 ans<br>- Enfants > 5 ans et adolescents exposés à des adultes à risque de TB<br>- Autres catégories à risque (diabète, drogues injectables, insuffisance rénale terminale, leucémie, IMC faible) | ≥ 10 mm |
 | Tous les autres enfants et adultes | ≥ 15 mm |
-{{< /table >}}
+{caption="Critères de test tuberculinique positif. Dr JB Fron d'après *MSF*" class="table-wrap"}
 
 > -- *[CLAT 42. Comment pratiquer et lire le test tuberculinique intradermique TUBERTEST (PDF)](https://www.chu-st-etienne.fr/Offre_de_Soins/ULAT/PratiquerLireTUBERTEST.pdf)* et *[MSF. Annexe 9. Intradermoréaction à la tuberculine](https://medicalguidelines.msf.org/fr/viewport/TUB/francais/annexe-9-intradermo-reaction-a-la-tuberculine-99516764.html)*
 

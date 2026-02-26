@@ -37,9 +37,8 @@ Allergie croisée
 
 {{< card-link-external title="Allerdata - Toutes les allergies croisées" url="https://www.allerdata.com/spip.php?article5" subtitle="par STAllergenes et ThermoFisher" >}}
 
-{{< table title="Principales allergies croisées. Dr JB Fron d'après sources mentionnées" class="table-wrap" >}}
 | Allergène        | Allergie croisée                                                                                                | Source       |
-|------------------|-----------------------------------------------------------------------------------------------------------------|--------------|
+| ---------------- | --------------------------------------------------------------------------------------------------------------- | ------------ |
 |                  | **Entre aliments**                                                                                              |              |
 | Arachide         | Soja, pois, haricots, lentilles, fèves, lupin, autres fruits à coques                                           | Deviller, Dutau, STAllergènes |
 | Blé              | 20%: Orge, seigle                                                                                               | Deviller, Dutau, STAllergènes |
@@ -48,7 +47,7 @@ Allergie croisée
 | Lait de vache    | Viande de bœuf (10-88%), lait de chèvre et brebis (92%), lait de jument (4%)                                    | Deviller, Dutau, STAllergènes |
 | Melon            | 92%: Melon d'eau, banane, avocat                                                                                | Dutau, STAllergènes |
 | Pêche            | 55%: Pomme, poire, prune, cerise, abricot, amande                                                               | Deviller, Dutau, STAllergènes |
-| Poisson          | Autres poissons (50 % pour saumon: esturgeon, sole)                                                              | Dutau, STAllergènes |
+| Poisson          | Autres poissons (50 % pour saumon: esturgeon, sole)                                                             | Dutau, STAllergènes |
 | Noisette         | 37%: Noix du Brésil, noix de cajou                                                                              | Dutau, STAllergènes |
 | Sésame, moutarde | Noisette, kiwi, autres graines                                                                                  | STAllergènes |
 |                  | **Entre animaux**                                                                                               |              |
@@ -69,7 +68,7 @@ Allergie croisée
 | Bouleau          | Pomme - pêche (55%), pomme de terre, cerise, poire, abricot, noisette, carotte, céleri, persil, tomate, soja, cacahuète | Deviller, Dutau, STAllergènes |
 | Ficus            | Figue                                                                                                           | STAllergènes |
 | Graminées        | Tomate, arachide, petit pois, blé                                                                               | Dutau        |
-{{< /table >}}
+{caption="Principales allergies croisées. Dr JB Fron d'après sources mentionnées" class="table-wrap"}
 
 {{% /collapse %}}
 {{%collapse "Consignes en cas d'allergie" %}}

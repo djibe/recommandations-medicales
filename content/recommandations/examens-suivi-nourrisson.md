@@ -48,9 +48,8 @@ Examens médicaux de la naissance à 16 ans avec la cotation associée, facturé
 - Les consultations *COE* correspondent aux certificats obligatoires (8 jours, 8 mois et 24 mois)  
 - Les tarifs ci-dessous concernent la Métropole
 
-{{< table title="Examens de suivi du nourrisson remboursés à 100 % selon le *Décret 2024-1031* et cotation des consultations de l'enfant" >}}
 | N° |              Âge              |                             Cotation du généraliste                             |
-|---:|:-----------------------------:|:-------------------------------------------------------------------------------:|
+| -: | :---------------------------: | :-----------------------------------------------------------------------------: |
 |  1 | Dans les 8 premiers jours     | ==COE== (60€, [cerfa](https://www.formulaires.service-public.fr/gf/cerfa_12596.do)) |
 |  2 |          2e semaine           |                                    COD (35€)                                    |
 |  3 |            1 mois             |                                    COD (35€)                                    |
@@ -71,7 +70,7 @@ Examens médicaux de la naissance à 16 ans avec la cotation associée, facturé
 | 18 |            8-9 ans            |                                    COB (30€)                                    |
 | 19 |           11-13 ans           |                                    COB (30€)                                    |
 | 20 |           15-16 ans           |                                    COB (30€)                                    |
-{{< /table >}}
+{caption="Examens de suivi du nourrisson remboursés à 100 % selon le *Décret 2024-1031* et cotation des consultations de l'enfant"}
 
 > -- *[Service-public. Le calendrier des examens médicaux obligatoires des enfants évolue à compter de janvier 2025. 22/11/2024.](https://www.service-public.fr/particuliers/vosdroits/F967)* et *[Décret n° 2024-1031 du 14 novembre 2024](https://www.legifrance.gouv.fr/eli/decret/2024/11/14/MSAP2420381D/jo/texte)*
 
@@ -93,9 +92,8 @@ Pour plus d'informations sur les vaccinations, dont les obligations, voir le cha
 
 > Temporairement, ==rattrapage des méningites B et ACWY jusqu'à 4 ans révolus== (même si 2 doses de Neisvac -- *HAS 7/2025*).
 
-{{< table title="Calendrier des vaccins recommandés chez l'enfant en France en 2026. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention **NR**. Dr JB Fron d'après *Calendrier Vaccinal 2025* et HAS" class="table-wrap" >}}
 |          Âge          | Valences                                                                                  | Spécialités équivalentes                                                                                        |
-|:---------------------:|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| :-------------------: | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | Né après<br>le 1er février<br>(à partir de septembre) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus<br>± {{< modal-btn modal-bcg-indications >}}Tuberculose{{< /modal-btn >}} | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance (15)<br>RotaTeq 1/3, Rotarix 1/2<br>± BCG en PMI |
 |   3 mois   | Méningo B<br>Rotavirus<br>—<br>Prématuré:<br>+ Pneumo 13/15<br>+ hexavalent *GPIP* | Bexsero 1/3<br>RotaTeq 2/3, Rotarix 2/2<br>—<br><br>Prevenar 13, Vaxneuvance (15)<br><br> |
@@ -109,7 +107,7 @@ Pour plus d'informations sur les vaccinations, dont les obligations, voir le cha
 | 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
 | 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>Nimenrix, MenQuadfi, Menveo (pas d'aiguille)           |
 | 15-24 ans  | Méningo B (proposé)<br>Rattrapage méningo ACWY       | Bexsero, Trumenba <br> Nimenrix, MenQuadfi, Menveo (pas d'aiguille) |
-{{< /table >}}
+{caption="Calendrier des vaccins recommandés chez l'enfant en France en 2026. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention **NR**. Dr JB Fron d'après *Calendrier Vaccinal 2025* et HAS" class="table-wrap"}
 
 **Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours avec pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles. Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
 
@@ -132,16 +130,15 @@ Pour plus d'informations sur les vaccinations, dont les obligations, voir le cha
 {{% /collapse %}}
 {{%collapse "Développement dentaire" %}}
 
-{{< table title="Développement dentaire du nourrisson et de l'enfant" >}}
 | Âge (mois) | Spécificités                                                                   |
-|-----------:|--------------------------------------------------------------------------------|
+| ---------: | ------------------------------------------------------------------------------ |
 |          5 | Apparition des incisives centrales                                             |
 |          9 | Apparition des incisives latérales                                             |
 |         12 | Apparition des 1^res^ molaires<br>1^re^ consultation dentaire entre 12-18 mois |
 |         18 | Apparition des canines                                                         |
 |         24 | Apparition des 2^e^ molaires                                                   |
 |      6 ans | Apparition des premières incisives définitives                                 |
-{{< /table >}}
+{caption="Développement dentaire du nourrisson et de l'enfant"}
 
 {{% /collapse %}}
 {{%sources%}}

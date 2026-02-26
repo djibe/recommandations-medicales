@@ -49,14 +49,13 @@ Obésité
 : Chez l'adulte jeune en bonne santé, la masse grasse représente 10-15 % du poids chez l'homme et 20-25 % chez la femme.
 : Les déterminants du poids sont eux aussi multiples: environnementaux, psychologiques, sociaux, génétiques.
 
-{{< table title="Classification de la corpulence des adultes selon l'*OMS 1998*" >}}
 | Définition                 | IMC (kg/m²) |
-|----------------------------|:-----------:|
+| -------------------------- | :---------: |
 | Surpoids                   |   25-29,99  |
 | Obésité modérée (classe 1) |   30-34,99  |
 | Obésité sévère (classe 2)  |   35-39,99  |
 | Obésité morbide (classe 3) |    ≥ 40     |
-{{< /table >}}
+{caption="Classification de la corpulence des adultes selon l'*OMS 1998*"}
 
 Obésité abdominale
 : Définition *OMS 1998* pour les caucasiens: tour de taille de 88 cm ou plus pour une femme et 102 cm pour un homme.
@@ -241,9 +240,8 @@ TCA
 
 Complications à dépister chez un adulte en obésité.
 
-{{< table title="Rythme de dépistage des complications chez l'adulte en situation d'obésité. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap">}}
 | Appareil                        | Soins                                                                                    | Source              |
-|---------------------------------|------------------------------------------------------------------------------------------|---------------------|
+| ------------------------------- | ---------------------------------------------------------------------------------------- | ------------------- |
 | [Boulimie hyperphagique]({{% relref "boulimie-hyperphagie.md" %}}) | Dépister les TCA avec {{< modal-btn modal-scoff >}}questionnaire SCOFF{{< /modal-btn >}} | HAS 2019 |
 | [Cancer colorectal]({{% relref "cancer-colorectal.md" %}}) | Dépistage organisé                                            | INCa 2022           |
 | [Cancer de l'endomètre]({{% relref "cancer-endometre.md" %}}) | Échographie sus-pubienne et endovaginale si métrorragies post-ménopausiques | ACOG 2020 |
@@ -257,7 +255,7 @@ Complications à dépister chez un adulte en obésité.
 | [DMLA]({{% relref "degenerescence-maculaire-age-dmla.md" %}}) | Dépistage régulier après 50 ans ou si symptômes            | HAS 2022 DMLA       |
 | Dyslipidémie                    | Cholestérol total, HDL, LDL, triglycérides                                               | ESC/ESH 2021        |
 | EFR                             | Indications: IMC ≥ 30 avec dyspnée NYHA 3-4, IMC ≥ 35 et SAHOS, IMC ≥ 40                 | HAS 2023            |
-| Gaz du sang                     | Indications: IMC ≥ 35, SpO~2~ &lt; 94 % ou CPT < 85 %                                      | HAS 2023            |
+| Gaz du sang                     | Indications: IMC ≥ 35, SpO~2~ &lt; 94 % ou CPT < 85 %                                    | HAS 2023            |
 | [Grossesse]({{% relref "grossesse.md" %}}) | Prise de poids limitée à 5-9 kg                                               | SFD 2022            |
 | [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) | Mesure avec brassard adapté tous les 1 à 3 ans    | ESC/ESH 2021        |
 | [Maladie rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}}) | Créatininémie, DFG et <abbr title="Rapport albuminurie/créatininurie">RAC</abbr> min. tous les 3 ans | HAS 2023 |
@@ -267,7 +265,7 @@ Complications à dépister chez un adulte en obésité.
 | [Stéatopathie métabolique]({{% relref "steatose-hepatique-et-nash.md" %}}) | Suspecter si cytolyse, [hyperferritinémie]({{% relref "hyperferritinemie.md" %}}) ou insulinorésistance<br>et dépister par échographie abdominale ou [score FLI](https://www.mdcalc.com/calc/10001/fatty-liver-index) tous les 3-5 ans | HAS 2022 |
 | [Syndrome d'apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) | Polygraphie si IMC ≥ 35 ou {{< modal-btn modal-saos >}}signes évocateurs{{< /modal-btn >}} | HAS 2023          |
 | [Vaccin grippe]({{% relref "grippe.md" %}}) | Annuel si IMC ≥ 40 ou +65 ans                                                            | Calendrier 2023     |
-{{< /table >}}
+{caption="Rythme de dépistage des complications chez l'adulte en situation d'obésité. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap"}
 
 Autres complications de l'obésité: [hyperuricémie et goutte]({{% relref "goutte.md" %}}), [maladies cardiovasculaires](/tags/risque-cardiovasculaire/), [thrombose veineuse profonde]({{% relref "thrombose-veineuse-profonde.md" %}}), insuffisance veineuse, lithiases biliaires, protéinurie, HTIC, dépression.
 

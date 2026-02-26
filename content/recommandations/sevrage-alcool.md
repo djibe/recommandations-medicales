@@ -334,9 +334,8 @@ En cas de MFLA: test non invasif de fibrose hépatique systématique (**élastog
 Un bilan hépatique normal permet d'exclure une MFLA significative à court terme.  
 L'échographie hépatique n'a pas d'intérêt pour dépister une MFLA.
 
-{{< table title="Seuils diagnostiques du Fibrotest®, du FibroMètre Alcool®, et de l'élastographie hépatique dans la maladie du foie liée à l'alcool selon *AFEF 2021*" >}}
 |                                                         | Fibrose septale | Fibrose sévère | Cirrhose |
-|---------------------------------------------------------|----------------:|---------------:|---------:|
+| ------------------------------------------------------- | --------------: | -------------: | -------: |
 | Fibrotest                                               |            0,49 |           0,59 |     0,75 |
 | FibroMètre Alcool                                       |           0,593 |                |    0,947 |
 | **Élastographie (kPa)**                                 |                 |                |          |
@@ -344,7 +343,7 @@ L'échographie hépatique n'a pas d'intérêt pour dépister une MFLA.
 | ASAT 38,7-75 et bili < 9<br>ou ASAT < 38,7 et bili 9-16 |             8,1 |           11,2 |     15,4 |
 | ASAT 38,7-75 et bili 9-16                               |             8,8 |           12,3 |     19,9 |
 | ASAT > 75 et bili < 9                                   |            11,6 |           16,1 |     25,9 |
-{{< /table >}}
+{caption="Seuils diagnostiques du Fibrotest®, du FibroMètre Alcool®, et de l'élastographie hépatique dans la maladie du foie liée à l'alcool selon *AFEF 2021*"}
 
 > **Fibrose septale** = Metavir F ≥ 2, NASH CRN F ≥ 3 ; **Fibrose sévère** = Metavir F≥3 ; **Cirrhose** = Metavir F4, NASH CRN F4
 

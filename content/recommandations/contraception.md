@@ -172,7 +172,6 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 > [!INFO]
 > La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares (*CNGOF 2018*). Le risque d'infection haute est < 1%, même en cas de portage de gonocoque ou Chlamydia (*CNGOF 2018 IGH*).
 
-{{< table title="Spécialités de contraception disponibles en France en 2026 (sauf dernières générations et DMPA qui augmentent le risque vasculaire) et préservatifs remboursés. Dr JB Fron d'après *BDPM* et *Assurance Maladie*" class="table-wrap" id="table-pilule" >}}
 | Type        | EE (µg)  | Progestatif (mg) | Spécialités     |
 | ----------- | -------: | ---------------- | --------------- |
 | 2G          | 30/40    | LNG 0,15-0,2     | Adepal, Pacilia |
@@ -190,7 +189,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 | DIU         | 0        | LNG              | Donasert, Kyleena, Mirena |
 | Préservatif | 0        | 0                | Be Loved, Eden, Eden perlés, Manix Classic, Manix sensitivity (sans latex), Sortez couverts !, Sure & Smile |
 | Cape cervicale | 0     | 0                | Be Loved free, Ormelle, So sexy & Smile  |
-{{< /table >}}
+{caption="Spécialités de contraception disponibles en France en 2026 (sauf dernières générations et DMPA qui augmentent le risque vasculaire) et préservatifs remboursés. Dr JB Fron d'après *BDPM* et *Assurance Maladie*" class="table-wrap" id="table-pilule"}
 
 > **EE** = éthinyl-estradiol ; **gén** = générique ; **LNG** = lévonorgestrel ; **NR** = non remboursé. Les pilules de 1^re^ génération ne sont plus disponibles en France.  
 Autres contraceptions: diaphragme, capes cervicales (NR), spermicides (NR), retrait, stérilisation, méthode *Ogino*.

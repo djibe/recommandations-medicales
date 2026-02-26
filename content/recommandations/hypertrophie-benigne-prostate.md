@@ -86,13 +86,12 @@ TR
 
 ### Diagnostic différentiel des symptômes urinaires de l'homme
 
-{{< table title="Diagnostic différentiel de l'hypertrophie bénigne de la prostate selon le *Collège Français des Enseignants en Urologie (CFEU) 2021*" class="table-wrap" >}}
 | Syndrome                           | Diagnostic différentiel |
-|------------------------------------|-------------------------|
+| ---------------------------------- | ----------------------- |
 | Nycturie prédominante<br>ou isolée | Polyurie nocturne (diurétiques, modification du rythme nycthéméral, [SAOS]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}})), polyurie des 24 heures ([diabète](/tags/diabete/), potomanie) et troubles du sommeil. Agenda mictionnel |
 | Phase de remplissage               | [Tumeur de vessie]({{% relref "cancer-vessie.md" %}}), vessie neurologique centrale, prostatite, calcul ou corps étranger vésical |
 | Mictionnels ou post-mictionnels    | [Cancer de la prostate]({{% relref "cancer-prostate.md" %}}), sténose de l'urètre, maladie du col vésical, hypotonie détrusorienne (+80 ans ou RPM > 300 mL) |
-{{< /table >}}
+{caption="Diagnostic différentiel de l'hypertrophie bénigne de la prostate selon le *Collège Français des Enseignants en Urologie (CFEU) 2021*" class="table-wrap"}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

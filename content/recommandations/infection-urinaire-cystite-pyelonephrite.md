@@ -87,12 +87,11 @@ Bactéries contaminantes: *Lactobacillus*, *Gardnerella vaginalis*, Streptocoque
 > [!INFO]
 > << les seuils sont donnés à titre indicatif; en cas de discordance entre un tableau clinique évident d'infection urinaire et une bactériurie ou leucocyturie inférieure au seuil, c'est le tableau clinique prime >>. -- *HAS, SPILF 2024*
 
-{{< table title="Seuils de bactériurie à l'ECBU selon le germe et le sexe pour le diagnostic d'infection urinaire selon *SPILF 2018*" >}}
 | Bactérie                                                                                              | Seuil femme (≥ UFC/mL) | Seuil homme |
-|-------------------------------------------------------------------------------------------------------|-----------------------:|------------:|
+| ----------------------------------------------------------------------------------------------------- | ---------------------: | ----------: |
 | *E. coli*, *S. saprophyticus*                                                                         |                    10³ |         10³ |
 | Entérobactérie autre que *E. coli*,<br>entérocoque, *C. urealyticum*,<br>*P. aeruginosa*, *S. aureus* |                  10^4^ |         10³ |
-{{< /table >}}
+{caption="Seuils de bactériurie à l'ECBU selon le germe et le sexe pour le diagnostic d'infection urinaire selon *SPILF 2018*"}
 
 {{% /collapse %}}
 {{%collapse "Signes de gravité et Facteurs de risque de complication" %}}

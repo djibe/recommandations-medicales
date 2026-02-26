@@ -201,14 +201,13 @@ Appliquer le tube entier sur toute la peau (sauf visage). Laisser agir pendant *
 
 **Contre-indications**: allergie au produit, enfant < 2 mois.
 
-{{< table title="Posologie de la perméthrine selon l'âge pour le traitement de la gale" class="table-sm" >}}
 | Âge         | Nombre tubes de 30 g |
-|:-----------:|:--------------------:|
+| :---------: | :------------------: |
 | +12 ans     | 1                    |
 | 6 à 11 ans  | 1/2                  |
 | 1 à 5 ans   | 1/4                  |
 | 2 à 11 mois | 1/8                  |
-{{< /table >}}
+{caption="Posologie de la perméthrine selon l'âge pour le traitement de la gale" class="table-sm"}
 
 > 1/4 de tube est équivalent à 2 noisettes de perméthrine.
 
@@ -223,16 +222,15 @@ Traitement oral de la gale, de première intention selon la *SPILF* (moins effic
 
 [Selon Le CRAT](https://www.lecrat.fr/7600/): possible pendant la grossesse.
 
-{{< table title="Posologie de l'ivermectine en fonction du poids pour le traitement de la gale" class="table-sm">}}
 | Poids (kg) | Nombre de cp à 3 mg |
-|-----------:|--------------------:|
+| ---------: | ------------------: |
 | 15-24      | 1                   |
 | 25-35      | 2                   |
 | 36-50      | 3                   |
 | 51-65      | 4                   |
 | 66-79      | 5                   |
 | +80        | 6                   |
-{{< /table >}}
+{caption="Posologie de l'ivermectine en fonction du poids pour le traitement de la gale" class="table-sm"}
 
 > Chez l'enfant de moins de 6 ans, écraser les comprimés avant de les administrer.
 

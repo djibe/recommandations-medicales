@@ -327,7 +327,6 @@ Prise en charge par antiarythmiques des FA paroxystiques pour le maintien à lon
 L'amiodarone est le traitement le plus efficace.  
 ECG de contrôle à 1-2 semaines (1 mois pour l'amiodarone).
 
-{{< table title="Anti-arythmiques de la fibrillation atriale d'après *ESC 2024*" class="table-wrap" >}}
 | Molécule       |     Dose (mg) | Précautions                                                                                                                                           |
 | -------------- | ------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Amiodarone     |           200 | Attention si allong. QT, AVK, digoxine, surv foie-poumon-TSH.<br>CI QT > 500 ms, hyperthyroïdie                                                       |
@@ -335,7 +334,7 @@ ECG de contrôle à 1-2 semaines (1 mois pour l'amiodarone).
 | Flécaïne LP    |           200 | CI: DFG < 35 ou insuff. hépatique, coronaropathie, réduction FEVG, BAV complet, BBG, élarg. QRS > 25%. Interactions CYP2D6.                           |
 | Propafénone LP | 225-425 x 2/j | CI: insuffisance rénale/hépatique, coronaropathie, FEVG réduite, asthme, élarg. QRS > 25%, BBG, BB complet. Interactions warfarine, digoxine.         |
 | Sotalol        |  80-160 x 2/j | Avec grande précaution (torsades pointes). CI: ICFEd, dysfonction VG, allong. QT, asthme, hypokaliémie, clairance < 30, QT > 500 ms ou allong. > 60ms |
-{{< /table >}}
+{caption="Anti-arythmiques de la fibrillation atriale d'après *ESC 2024*" class="table-wrap"}
 
 > **BB** = bloc de branche ; **CI** = contre-indications. Administration en 1 fois par jour sauf mention contraire.
 

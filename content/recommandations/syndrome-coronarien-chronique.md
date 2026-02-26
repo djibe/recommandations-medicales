@@ -241,14 +241,13 @@ La décision d'une revascularisation myocardique (stent ou autre) relève unique
 
 > Un suivi coordonné par un infirmier de pratique avancée (IPA) est équivalent au suivi par un généraliste. -- *[Wood 2008](https://pubmed.ncbi.nlm.nih.gov/18555911/)*
 
-{{< table title="Suggestion de titration du traitement anti-ischémique du patient atteint de coronaropathie à type de syndrome coronarien chronique selon le tableau clinique initial. Dr JB Fron d'après *ESC 2019*" >}}
 | Intention | Standard                        | FC > 80/min          | FC < 50/min   | Dysfonction VG/IC              | Hypotension artérielle             |
-|----------:|---------------------------------|----------------------|---------------|--------------------------------|------------------------------------|
+| --------: | ------------------------------- | -------------------- | ------------- | ------------------------------ | ---------------------------------- |
 |         1 | BB ou {{< modal-btn modal-ica-angor >}}ICa{{< /modal-btn >}} | BB ou<br>{{< modal-btn modal-ica-angor >}}ICa-non-DHP{{< /modal-btn >}} | {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}} | BB | BB ou {{< modal-btn modal-ica-angor >}}ICa-non-DHP{{< /modal-btn >}}<br>faible dose |
 |         2 | **BB + {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}}** | BB + {{< modal-btn modal-ica-angor >}}ICa{{< /modal-btn >}}* | Substituer par NAL | BB + NAL ou<br>BB + ivabradine | Substituer par ivabradine<br>ou autre |
 |         3 | Ajout 2^e^ ligne       | BB + ivabradine      | {{< modal-btn modal-ica-angor >}}ICa-DHP{{< /modal-btn >}} + NAL | Ajout 2^e^ ligne | Bithérapie de 2^e^ ligne |
-|         4 | Ajout nicorandil,<br>~~ranolazine~~<br>ou trimétazidine | idem   | idem          | idem                           | idem                               |
-{{< /table >}}
+|         4 | Ajout nicorandil,<br>~~ranolazine~~<br>ou trimétazidine | idem | idem  | idem                           | idem                               |
+{caption="Suggestion de titration du traitement anti-ischémique du patient atteint de coronaropathie à type de syndrome coronarien chronique selon le tableau clinique initial. Dr JB Fron d'après *ESC 2019*"}
 
 > \* Précautions avec vérapamil et diltiazem (ICa-non-DHP) ; NAL = dérivé nitré d'action longue
 

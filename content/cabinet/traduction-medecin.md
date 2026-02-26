@@ -50,27 +50,26 @@ Pour les patients sourds muets.
 
 Ensemble des guides de traduction publiés par Santé Publique France.
 
-{{< table title="Les 17 livrets de santé bilingues de Santé Publique France" class="datatable my-0" >}}
 | Langue cible | Lien |
-|--------------|------|
-| Albanais  | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-albanais) |
-| Anglais  | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-anglais) |
-| Arabe  | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-arabe) |
-| Bengali    | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-bengali) |
-| Chinois  | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-chinois) |
-| Créole haïtien  | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-creole-haitien) |
-| Dari    | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-dari) |
-| Espagnol    | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-espagnol) |
-| Géorgien    | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-georgien) |
-| Ourdou    | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-ourdou) |
-| Pachto    | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-pachto) |
-| Portugais  | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-portugais) |
-| Roumain  | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-roumain) |
-| Russe    | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-russe) |
-| Tamoul    | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-tamoul) |
-| Turc  | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-turc) |
-| Ukrainien    | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-ukrainien) |
-{{< /table >}}
+| ------------ | ---- |
+| Albanais | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-albanais) |
+| Anglais | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-anglais) |
+| Arabe | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-arabe) |
+| Bengali | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-bengali) |
+| Chinois | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-chinois) |
+| Créole haïtien | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-creole-haitien) |
+| Dari | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-dari) |
+| Espagnol | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-espagnol) |
+| Géorgien | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-georgien) |
+| Ourdou | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-ourdou) |
+| Pachto | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-pachto) |
+| Portugais | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-portugais) |
+| Roumain | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-roumain) |
+| Russe | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-russe) |
+| Tamoul | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-tamoul) |
+| Turc | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-turc) |
+| Ukrainien | [PDF](https://www.santepubliquefrance.fr/docs/livret-de-sante-bilingue-francais-ukrainien) |
+{caption="Les 17 livrets de santé bilingues de Santé Publique France" class="datatable my-0"}
 
 > [Santé Publique France. « Les livrets de santé bilingues », outils de liaison entre migrants et professionnels de la santé ou du social](https://www.santepubliquefrance.fr/revues/les-livrets-de-sante-bilingues-outils-de-liaison-entre-migrants-et-professionnels-de-la-sante-ou-du-social)
 

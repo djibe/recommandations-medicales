@@ -40,7 +40,6 @@ Adresser tout patient cité dans cet Arrêté au **médecin agréé pour l'éval
 
 Le risque de ces pathologies pour les usagers de la voie publique est un malaise au volant du véhicule avec lipothymie, syncope ou mort subite. Pour ces pathologies, la conduite est parfois possible après un traitement efficace et avis cardiologique. Un suivi médical régulier reste important.
 
-{{< table title="Maladies cardiovasculaires et autorisations pour le permis de conduire selon l'Arrêté du 28 mars 2022" class="table-wrap" >}}
 | Catégorie | Sous-catégorie | Réglementation |
 |-----------|----------------|----------------|
 | **1.1. Coronaropathie/ Syndrome coronarien/ angor** (SCA) | 1.1.1 Insuffisance coronarienne instable | **Incompatibilité :** tant qu'existent des symptômes cliniques ou électriques au repos ou lors d'efforts ou d'émotions usuels de la vie courante. <br> **Puis, Compatibilité temporaire ou définitive:** si l'insuffisance coronarienne est stable et maîtrisée, cf. paragraphe 1.1.3. |
@@ -69,13 +68,12 @@ Le risque de ces pathologies pour les usagers de la voie publique est un malaise
 | **1.12 Cardiomyopathies** | 1.12.1 Cardiomyopathie hypertrophique (CMH) | **Incompatibilité:** dans l'attente d'un avis médical spécialisé (risque manifestations cliniques invalidantes); <br> **Puis, Compatibilité temporaire:** après avis médical spécialisé régulier (risque négligeable, en particulier lipothymie/syncope); <br> **Ou Incompatibilité:** si critères non remplis. |
 | | 1.12.2 Syndrome de Brugada avec syncope ou mort subite cardiaque avortée | **Incompatibilité:** jusqu'à la pose d'un défibrillateur; <br> **Puis:** cf. paragraphe 1.2.5. |
 | | 1.12.3 Autres cardiomyopathies (ex: ventriculaire droite arythmogène, non-compaction, tachycardie ventriculaire polymorphe catécholaminergique, QT court, autres pathologies à risque rythmique) | **Incompatibilité:** dans l'attente d'un avis médical spécialisé (détermine risque selon type de cardiomyopathie); <br> **Puis, Incompatibilité définitive ou compatibilité temporaire ou définitive:** après avis médical spécialisé (tenant compte des caractéristiques diagnostiques et évolutives). Aptitude limitée dans le temps possible. |
-{{< /table >}}
+{caption="Maladies cardiovasculaires et autorisations pour le permis de conduire selon l'Arrêté du 28 mars 2022" class="table-wrap"}
 
 ### Classe II - Pathologies ophtalmologiques {.mt-5}
 
 La qualité de la fonction visuelle est essentielle pour la conduite d'un véhicule à moteur. L'attention est portée sur l'acuité visuelle, le champ visuel, la vision crépusculaire, la sensibilité à l'éblouissement, la sensibilité aux contrastes de lumière et sur la recherche d'une diplopie.
 
-{{< table title="Maladies ophtalmologiques et autorisations pour le permis de conduire selon l'Arrêté du 28 mars 2022" class="table-wrap" >}}
 | Catégorie | Pathologie | Réglementation |
 |-----------|------------|----------------|
 | **2.1 Fonctions visuelles** | 2.1.1 Altération de l'acuité visuelle (vision de près/loin, avec/sans correction) | **Incompatibilité définitive:** si acuité visuelle binoculaire < 5/10. <br> **Compatibilité temporaire (durée au cas par cas):** si acuité visuelle limite. <br> **Incompatibilité temporaire de 6 mois:** après perte brutale vision d'un œil (adaptation possiblement réduite/augmentée). <br> **Puis, Compatibilité temporaire ou définitive (si perte vision d'un œil < 1/10):** si acuité de l'autre œil ≥ 5/10. <br> Avis spécialiste précise obligation correction optique si nécessaire. Dispositifs vision arrière/latérale (code 42) ajoutés si besoin. <br> **Ou Incompatibilité définitive:** si acuité du bon œil < 5/10. |
@@ -86,11 +84,10 @@ La qualité de la fonction visuelle est essentielle pour la conduite d'un véhic
 || **Blépharospasmes acquis** <br> (2.2.2 Troubles de la mobilité) | **Incompatibilité définitive:** après avis médical spécialisé, si confirmation de l'affection. |
 || **Troubles de la mobilité du globe oculaire** <br> (2.2.2 Troubles de la mobilité) | **Incompatibilité définitive:** après avis médical spécialisé, si la diplopie permanente ne répond à aucune thérapeutique optique, médicamenteuse ou chirurgicale.<br>**Ou compatibilité définitive:** après avis médical spécialisé, si strabisme ou hétérophorie non décompensée et si les exigences ci-dessus d'acuité visuelle et de champ visuel sont satisfaites après avis médical spécialisé. (Voir paragraphes 2.1.1 Acuité visuelle et 2.1.2 Champ visuel) |
 || **Nystagmus** <br> (2.2.2 Troubles de la mobilité) | **Compatibilité définitive:** si les exigences ci-dessus d'acuité visuelle et de champ visuel sont satisfaites, après avis médical spécialisé; (Voir paragraphes 2.1.1 Acuité visuelle et 2.1.2 Champ visuel)<br>Incompatibilité temporaire ou définitive: dans les autres cas.|
-{{< /table >}}
+{caption="Maladies ophtalmologiques et autorisations pour le permis de conduire selon l'Arrêté du 28 mars 2022" class="table-wrap"}
 
 ### Classe III - Pathologies ORL et pneumologiques {.mt-5}
 
-{{< table title="Maladies ORL et pneumologiques et autorisations pour le permis de conduire selon l'Arrêté du 28 mars 2022" class="table-wrap" >}}
 | Catégorie | Pathologie |Réglementation |
 |-----------|------------|-----------------|
 | **3.1 Déficience auditive isolée** sans trouble de l'équilibre (testée sans correction auditive) <br> **Critère audition:** voix chuchotée entendue à 1 mètre et voix haute entendue à 5 mètres | **3.1.1 Déficience auditive modérée ou moyenne** | **Compatibilité définitive:** Avis médical spécialisé si nécessaire. |
@@ -103,11 +100,10 @@ La qualité de la fonction visuelle est essentielle pour la conduite d'un véhic
 | **3.3 Port d'une canule trachéale** || **Compatibilité temporaire ou définitive ou incompatibilité temporaire ou définitive:** après avis médical spécialisé si nécessaire. |
 | **3.4 Insuffisance respiratoire nécessitant une assistance ventilatoire ou une oxygénothérapie continue** || **Incompatibilité:** si dyspnée mMRC 4 et plus (essoufflement en s'habillant ou en se déshabillant) malgré l'assistance respiratoire (ventilation ou oxygénothérapie).<br> Ou,<br> **Compatibilité temporaire ou définitive avec ou sans aménagement du véhicule ou incompatibilité définitive:** après avis médical spécialisé, qui évalue la somnolence diurne résiduelle, le risque de troubles de la conscience et la maîtrise du matériel respiratoire. |
 | **3.5 Syndrome d'apnées du sommeil** || Cf. paragraphe **4.3 Troubles du sommeil** |
-{{< /table >}}
+{caption="Maladies ORL et pneumologiques et autorisations pour le permis de conduire selon l'Arrêté du 28 mars 2022" class="table-wrap"}
 
 ### Classe IV - Pathologies neurologiques, psychiatriques et addictions {.mt-5}
 
-{{< table title="Maladies neurologiques, psychiatriques et addictions et autorisations pour le permis de conduire selon l'Arrêté du 28 mars 2022" class="table-wrap" >}}
 | Catégorie | Pathologie |Réglementation |
 |-----------|------------|-----------------|
 | **4.1 Pratiques addictives** | **4.1.1 Trouble de l'usage de l'alcool** | **Incompatibilité:** pendant la période de trouble de l'usage de l'alcool;<br> Puis,<br> **Compatibilité temporaire d'un an maximum, renouvelable si besoin:** les évaluations pour déterminer la compatibilité sont réalisées en commission médicale. La commission prend en compte les éléments cliniques, le bilan biologique et les facteurs sociaux, ainsi qu'un avis médical spécialisé si nécessaire. La reprise de la conduite peut être conditionnée à un accompagnement adapté en addictologie. Les risques additionnels éventuels liés à l'environnement sont envisagés avec attention. La reprise de la conduite peut également être conditionnée à l'installation d'un éthylotest antidémarrage (EAD) dans le ou les véhicules à moteur utilisé(s). Le cas échéant, la reprise de la conduite s'accompagne obligatoirement d'un stage spécifique adapté, dans un établissement spécialisé en addictologie (cf. annexe IV du présent arrêté).<br> Puis,<br> Compatibilité définitive à l'issue de ces périodes successives, lorsqu'elles sont menées avec succès, que les éléments cliniques et le bilan biologique confirment l'absence de trouble de l'usage de l'alcool et que le risque de récidive est considéré comme non significatif. Avis médical spécialisé si nécessaire. |
@@ -123,7 +119,7 @@ La qualité de la fonction visuelle est essentielle pour la conduite d'un véhic
 || **4.4.5 Autres troubles neurologiques liés à une atteinte du système nerveux central ou périphérique et notamment si :**<br>- Neuropathie diabétique ; - Lésions cérébrales congénitales ou acquises évolutives (tumeurs, sclérose en plaques, myopathie, maladie de parkinson ...) | **Incompatibilité:** jusqu'à un avis médical spécialisé et bilan, si besoin, par une équipe pluriprofessionnelle comprenant au moins un médecin spécialisé et un ergothérapeute; <br> **Puis, <br> Compatibilité temporaire ou définitive ou Incompatibilité définitive:** en fonction du diagnostic et du bilan, si besoin, réalisé par l'équipe pluriprofessionnelle ci-dessus. Le médecin agréé peut, pour certaines neuropathies périphériques, proposer un ou des aménagement(s) du véhicule. |
 || **4.4.6 Troubles du développement intellectuel grave ou profond**<br>**4.4.6.1 Analphabétisme par incapacité d'apprendre à lire liée à une insuffisance psychique**<br>**4.4.6.2 Déficience mentale majeure, altération majeure des capacités de socialisation** | **Incompatibilité définitive:** L'illettrisme n'est pas une cause d'incompatibilité médicale avec la conduite. |
 || **4.5 Troubles psychiatriques** | **Incompatibilité:** tant que sont présents: <br> - Des troubles mentaux graves, dont les psychoses aiguës et chroniques; <br> - Ou des troubles du développement intellectuel graves ou profonds; <br> - Ou des troubles graves de la capacité de jugement ou de comportement. <br> Avis médical spécialisé nécessaire. <br> **Puis, Compatibilité temporaire ou définitive:** en cas de rémission confirmée par des examens répétés et sous réserve de la compatibilité du traitement avec la conduite. Un avis médical spécialisé est demandé de façon préalable à la reprise de la conduite. <br><br> Tout trouble mental qui a entraîné une demande de soins par le représentant de l'État nécessite un avis médical spécialisé en psychiatrie, autre que par le psychiatre qui soigne la personne. |
-{{< /table >}}
+{caption="Maladies neurologiques, psychiatriques et addictions et autorisations pour le permis de conduire selon l'Arrêté du 28 mars 2022" class="table-wrap"}
 
 ### Classe V - Déficits de l'appareil locomoteur {.mt-5}
 
@@ -131,7 +127,6 @@ La qualité de la fonction visuelle est essentielle pour la conduite d'un véhic
 
 Dans ce chapitre, les situations des permis des catégories A1, A2 et A et des catégories B, B1 et BE sont distinguées.
 
-{{< table title="Maladies orthopédiques et déficits de l'appareil locomoteur, autorisations pour le permis de conduire selon l'Arrêté du 28 mars 2022" class="table-wrap" >}}
 | Catégorie | Pathologie | Catégories A1, A2, A | Catégories B, B1, BE |
 |-----------|------------|----------------------|----------------------|
 | **5.1 Membres supérieurs** | **5.1.1 Amputation ou paralysie doigts, mains** | **Compatibilité définitive avec aménagement selon l'évaluation** | **Compatibilité définitive:** si la pince est fonctionnelle, bilatérale avec opposition efficace et la force musculaire de préhension est sensiblement équivalente à celle d'une main normale. <br> **Compatibilité définitive avec aménagement selon l'évaluation:** dans tous les autres cas. |
@@ -145,7 +140,7 @@ Dans ce chapitre, les situations des permis des catégories A1, A2 et A et des c
 | **5.3 Lésions multiples des membres** || **Compatibilité définitive avec aménagement selon l'évaluation** | **Compatibilité définitive avec aménagement selon l'évaluation** |
 | **5.4 Rachis** || **Compatibilité temporaire ou définitive avec aménagement selon l'évaluation:** En cas de lésion neurologique associée, outre l'atteinte motrice des membres, la stabilité du tronc et l'équilibre du bassin sont également évalués. Avis spécialisé si besoin. | idem |
 | **5.5 Déficit locomoteur post-traumatique, vasculaire, tumoral, post-infectieux ou dégénératif, monoplégie, paralysie plexique, hémiplégie** || **Compatibilité temporaire ou définitive (selon le potentiel évolutif) avec aménagement selon l'évaluation:** si les conclusions médicales relatives à la pathologie ne s'y opposent pas. Dans tous les cas, le problème posé est celui des séquelles neurologiques et de l'évolution éventuelle de la pathologie. Un avis spécialisé, si nécessaire, est demandé afin d'évaluer l'importance des lésions et leur évolutivité; <br> **Ou incompatibilité temporaire ou définitive:** si les conclusions médicales s'y opposent. | idem |
-{{< /table >}}
+{caption="Maladies orthopédiques et déficits de l'appareil locomoteur, autorisations pour le permis de conduire selon l'Arrêté du 28 mars 2022" class="table-wrap"}
 
 ### Classe VI - Pathologies métaboliques et transplantations {.mt-5}
 
@@ -153,14 +148,13 @@ Le diabète peut entraîner des complications (notamment neurologiques, cardiova
 
 Les usagers diabétiques qui n'ont pas de traitement susceptible de générer une hypoglycémie et qui n'ont aucune complication qui a un impact sur la conduite ne sont pas soumis à un contrôle médical obligatoire de l'aptitude à la conduite.
 
-{{< table title="Maladies métaboliques et greffe/transplantation et autorisations pour le permis de conduire selon l'Arrêté du 28 mars 2022" class="table-wrap" >}}
 | Pathologie | Réglementation |
 |------------|----------------|
 | **6.1 Insuffisance rénale au stade de suppléance** | **Incompatibilité:** tant qu'un traitement de suppléance rénale n'est pas réalisé avec succès; <br> **Puis,** <br> **Compatibilité définitive:** lorsque la suppléance est réalisée avec succès. Une attention particulière est portée sur la recherche de comorbidités incompatibles avec la conduite. <br><br> **Restriction de la conduite possible: interruption de la conduite après chaque dialyse** en raison d'une baisse éventuelle de la vigilance due aux modifications hémodynamiques et métaboliques après une séance de dialyse. L'usager interroge le médecin spécialiste afin de connaître l'heure précise de reprise possible de la conduite après sa dialyse. |
 | **6.2 Diabète: traité avec un traitement susceptible de provoquer une hypoglycémie** | **Incompatibilité:** si le conducteur a des hypoglycémies sévères ou s'il n'est pas suffisamment conscient des risques liés à l'hypoglycémie et de la conduite à tenir: <br> **Ou** <br> **Compatibilité temporaire:** le médecin agréé vérifie que l'usager souffrant de diabète avec un traitement susceptible de provoquer une hypoglycémie: <br> - A une maîtrise adéquate de sa maladie, contrôlant régulièrement sa glycémie, particulièrement lorsqu'il envisage de conduire; <br> - Est pleinement conscient des risques de l'hypoglycémie, qu'il sait dépister et traiter une éventuelle hypoglycémie pour qu'elle ne survienne pas pendant la conduite; <br> - N'a pas d'autre complication liée au diabète, incompatible avec la conduite. <br> Avis médical spécialisé si nécessaire. |
 | **6.2 suite Diabète: hypoglycémie sévère récurrente** survenant durant les heures de veille. | **Incompatibilité temporaire:** durant trois mois après la dernière crise d'hypoglycémie sévère qui a nécessité l'assistance d'une tierce personne. |
 | **6.3 Transplantation d'organe ou pose d'implant** | Les cas spécifiques de la transplantation cardiaque, et de la pose d'implant oculaire sont traités spécifiquement ci-dessus: <br> - Cf. paragraphe 1.10 Transplantation cardiaque; <br> - Cf. paragraphe 2.2.1 Intervention chirurgicale modifiant la réfraction oculaire. <br><br> Dans les autres cas: <br><br> **Compatibilité temporaire ou définitive:** Après transplantation d'organe ou pose d'un implant, l'application de la présente annexe s'applique conformément aux situations médicales décrites dans la présente annexe. <br> En l'absence d'incidence négative constatée ou prévisible sur l'une des fonctions mentionnées dans la présente annexe, la transplantation d'un organe ou la pose d'un implant n'impose pas, par elle-même, l'obligation d'un avis du médecin agréé. En cas de greffe ou d'implant, ayant un impact négatif constaté ou prévisible sur l'une des fonctions mentionnées dans la présente annexe, l'avis du médecin agréé est rendu au regard de la nouvelle situation médicale et après avis médical spécialisé si nécessaire. |
-{{< /table >}}
+{caption="Maladies métaboliques et greffe/transplantation et autorisations pour le permis de conduire selon l'Arrêté du 28 mars 2022" class="table-wrap"}
 
 ## Affections médicales de groupe 2 dit Groupe lourd {.my-5}
 
@@ -169,7 +163,6 @@ Les usagers diabétiques qui n'ont pas de traitement susceptible de générer un
 
 ### Groupe lourd Classe I - Pathologies cardiovasculaires
 
-{{< table title="Maladies cardiovasculaires et autorisations pour le permis de conduire poids lourd selon l'Arrêté du 28 mars 2022" class="table-wrap" >}}
 | Catégorie | Sous-catégorie | Réglementation |
 |-----------|----------------|----------------|
 | **1.1. Coronaropathie / Syndrome coronarien / angor** | **1.1.1 Insuffisance coronarienne instable** | **Incompatibilité:** tant qu'existent des symptômes cliniques ou électrique au repos ou lors d'efforts ou d'émotions usuels de la vie courante;<br>**Puis,**<br>**Compatibilité:** si l'insuffisance coronarienne est stable et maîtrisée, cf. paragraphe **1.1.3 Insuffisance coronarienne stable**. |
@@ -195,13 +188,12 @@ Les usagers diabétiques qui n'ont pas de traitement susceptible de générer un
 | **1.12 Cardiomyopathies** | **1.12.1 Cardiomyopathie hypertrophique** | **Incompatibilité temporaire:** dans l'attente d'un avis médical spécialisé, qui détermine le risque de manifestations cliniques invalidantes pour la vie courante:<br>**Puis,**<br>**Incompatibilité définitive:** si antécédents de syncope ou lorsqu'au moins deux des conditions ci-après sont réunies: épaisseur de la paroi du ventricule gauche > 3 cm, tachycardie ventriculaire non soutenue, antécédents familiaux de mort subite (parent du premier degré), pas d'élévation de la pression artérielle à l'effort;<br>**Ou compatibilité:** dans les autres cas, selon l'avis médical spécialisé régulier, qui estime que le risque de manifestations cliniques invalidante pour la vie courante est négligeable et, en particulier, le risque de lipothymie ou de syncope. |
 || **1.12.2 Syndrome de Brugada avec syncope ou mort subite cardiaque avortée** | **Incompatibilité définitive** |
 || **1.12.3 Autres cardiomyopathies:** cardiomyopathie ventriculaire droite arythmogène, cardiomyopathie par non-compaction, tachycardie ventriculaire polymorphe catécholaminergique et syndrome du QT court, par exemple, ou cardiomyopathies non connues qui pourraient être découvertes, ou autres pathologies à risque rythmique | **Incompatibilité temporaire:** Dans l'attente d'un avis médical spécialisé qui détermine, en fonction du type de cardiomyopathie, le risque de manifestations cliniques invalidantes pour la vie courante;<br>**Puis,**<br>**Incompatibilité définitive ou compatibilité:** selon l'avis médical spécialisé, qui tient compte des caractéristiques diagnostiques et évolutives de la cardiomyopathie considérée. |
-{{< /table >}}
+{caption="Maladies cardiovasculaires et autorisations pour le permis de conduire poids lourd selon l'Arrêté du 28 mars 2022" class="table-wrap"}
 
 ### Groupe lourd Classe II - Pathologies ophtalmologiques
 
 L'attention est portée sur l'acuité visuelle, le champ visuel, la vision crépusculaire, la sensibilité à l'éblouissement, la sensibilité aux contrastes de lumière et sur la recherche d'une diplopie.
 
-{{< table title="Maladies ophtalmologiques et autorisations pour le permis de conduire poids lourd selon l'Arrêté du 28 mars 2022" class="table-wrap" >}}
 | Catégorie | Sous-catégorie | Réglementation |
 |-----------|----------------|----------------|
 | **2.1 Fonctions visuelles** | **2.1.1 Altération de l'acuité visuelle en vision de près et de loin testée, s'il y a lieu, avec les corrections optiques du conducteur** | **Incompatibilité:** si l'acuité visuelle du meilleur œil est inférieure à 8/10 ou si l'acuité visuelle de l'œil le moins bon est inférieure à 1/10 ou si l'acuité visuelle est satisfaisante mais obtenue avec des verres correcteurs de lunettes de plus de 8 dioptries (en valeur absolue). Cette limite sur l'importance de la correction n'existe pas lors de la correction par des lentilles de contact cornéennes. <br> **Incompatibilité:** lors de la diminution importante et rapide de la vision d'un œil, même si les critères d'acuité visuelle continuent à être remplis. Cette incompatibilité est maintenue jusqu'à ce que les exigences des paragraphes **2.1.1 relatif à l'acuité visuelle** et **2.1.2 champ visuel** soient remplies et que l'usager se soit adapté aux nouvelles conditions de vue si la récupération n'est pas complète. <br> **Compatibilité dans les autres cas:** si l'acuité du meilleur œil est supérieure ou égale à 8/10 et l'acuité de l'œil le moins bon est supérieure ou égale à 1/10, avec si besoin une correction, qui, si elle est obtenue par des lunettes, est de moins de 8 dioptries (en valeur absolue). Cette condition n'existe pas avec les lentilles de contact. Les corrections doivent être bien tolérées. |
@@ -212,11 +204,10 @@ L'attention est portée sur l'acuité visuelle, le champ visuel, la vision crép
 | **2.2 Autres pathologies oculaires:**<br> **2.2.2 Troubles de la motilité** | **Blépharospasmes acquis** | **Incompatibilité définitive:** après avis médical spécialisé, si confirmation de l'affection. |
 || **Troubles de la mobilité du globe oculaire** | **Incompatibilité définitive:** après avis médical spécialisé, sauf dans les cas de compatibilité décrits ci-dessous. <br> **Ou compatibilité:** après avis médical spécialisé, si le strabisme ou l'hétérophorie sont non décompensés si les caractéristiques de la vision répondent aux exigences des paragraphes ci-dessus **2.1.1 acuité visuelle** et **2.1.2 champ visuel**. |
 || **Nystagmus** | **Incompatibilité définitive**. |
-{{< /table >}}
+{caption="Maladies ophtalmologiques et autorisations pour le permis de conduire poids lourd selon l'Arrêté du 28 mars 2022" class="table-wrap"}
 
 ### Groupe lourd Classe III - Pathologies ORL et pneumologiques {.mt-5}
 
-{{< table title="Maladies ORL et pneumologiques et autorisations pour le permis de conduire poids lourd selon l'Arrêté du 28 mars 2022" class="table-wrap" >}}
 | Catégorie | Sous-catégorie | Réglementation |
 |-----------|----------------|----------------|
 | **3.1 Déficience auditive** isolée sans trouble de l'équilibre (testée sans correction auditive) <br> **Critère audition:** voix chuchotée entendue à 1 mètre et voix haute entendue à 5 mètres | **3.1.1 Déficience auditive modérée ou moyenne** | **Compatibilité:** avec mention restrictive sur le permis de conduire: code 42 (dispositif vision arrière et latérale adaptée).<br> Avis médical spécialisé si nécessaire. |
@@ -229,11 +220,10 @@ L'attention est portée sur l'acuité visuelle, le champ visuel, la vision crép
 | **3.3 Port d'une canule trachéale** || **Compatibilité ou incompatibilité:** après avis médical spécialisé si nécessaire. |
 | **3.4 Insuffisance respiratoire nécessitant une assistance ventilatoire ou un oxygénothérapie continue** || **Incompatibilité définitive** |
 | **3.5 Syndrome des apnées du sommeil** || Cf. paragraphe **4.3 Troubles du sommeil** |
-{{< /table >}}
+{caption="Maladies ORL et pneumologiques et autorisations pour le permis de conduire poids lourd selon l'Arrêté du 28 mars 2022" class="table-wrap"}
 
 ### Groupe lourd Classe IV - Pathologies neurologiques, psychiatriques et addictions {.mt-5}
 
-{{< table title="Maladies neurologiques, psychiatriques et addictions et autorisations pour le permis de conduire poids lourd selon l'Arrêté du 28 mars 2022" class="table-wrap" >}}
 | Catégorie | Pathologie |Réglementation |
 |-----------|------------|-----------------|
 | **4.1 Pratiques addictives** | **4.1.1 Trouble de l'usage de l'alcool** | **Incompatibilité:** pendant la période de trouble de l'usage de l'alcool;<br> **Puis,**<br> **Compatibilités temporaires de 6 mois, pendant trois ans au moins:** les évaluations pour déterminer la compatibilité sont réalisées en commission médicale. La commission prend en compte les éléments cliniques et biologiques et les facteurs sociaux, ainsi qu'un avis médical spécialisé si nécessaire. La reprise de la conduite peut être conditionnée à un accompagnement adapté en addictologie.<br> Les risques additionnels liés à l'environnement de travail sont envisagés avec attention;<br> **Puis,** <br> **Compatibilité:** à l'issue de cette ou de ces période(s), lorsqu'elles sont menées avec succès et que le risque de récidive est considéré comme non significatif. Avis médical spécialisé si nécessaire. |
@@ -251,11 +241,10 @@ L'attention est portée sur l'acuité visuelle, le champ visuel, la vision crép
 || **4.4.5 Autres troubles neurologiques liés à une atteinte du système nerveux central ou périphérique et notamment:<br>- Neuropathie diabétique;<br>- Lésions cérébrales congénitales ou acquises évolutives (tumeurs, sclérose en plaques, myopathie, maladie de parkinson...)** | **Incompatibilité:** jusqu'à un avis médical spécialisé et bilan, si besoin, par une équipe pluriprofessionnelle comprenant au moins un médecin spécialiste et un ergothérapeute;<br> **Puis, compatibilité ou incompatibilité définitive:** en fonction du diagnostic et du bilan, si besoin, réalisé par l'équipe pluriprofessionnelle ci-dessus. |
 || **4.4.6 Troubles du développement intellectuel graves ou profonds** | **4.4.6.1 Analphabétisme par incapacité d'apprendre à lire liée à une insuffisance psychique**<br>**4.4.6.2 Déficience mentale majeure, altération majeure des capacités de socialisation.** | **Incompatibilité définitive** <br> L'illettrisme n'est pas une cause d'incompatibilité médicale avec la conduite. |
 | **4.5 Troubles psychiatriques** || **Incompatibilité:** tant que sont présents: <br> - Des troubles mentaux graves, dont les psychoses aiguës et chroniques; <br> - Ou des troubles du développement intellectuel graves ou profonds; <br> - Ou des troubles graves de la capacité de jugement ou de comportement. <br> Avis médical spécialisé nécessaire. <br> **Puis, Compatibilité:** en cas de rémission confirmée par des examens répétés et sous réserve de la compatibilité du traitement avec la conduite. Un avis médical spécialisé est demandé de façon préalable à la reprise de la conduite. <br><br> Tout trouble mental qui a entraîné une demande de soins par le représentant de l'État nécessite un avis médical spécialisé en psychiatrie, autre que par le psychiatre qui soigne la personne. |
-{{< /table >}}
+{caption="Maladies neurologiques, psychiatriques et addictions et autorisations pour le permis de conduire poids lourd selon l'Arrêté du 28 mars 2022" class="table-wrap"}
 
 ## Groupe lourd Classe V - Déficits de l'appareil locomoteur {.mt-5}
 
-{{< table title="Maladies orthopédiques et déficits de l'appareil locomoteur, autorisations pour le permis de conduire poids lourd selon l'Arrêté du 28 mars 2022" class="table-wrap" >}}
 | Catégorie | Pathologie |Réglementation |
 |-----------|------------|-----------------|
 | **5.1 Membres supérieurs** | **5.1.1 Amputation ou paralysie doigts, mains** | **Compatibilité:** si la pince est fonctionnelle. bilatérale avec opposition efficace et la force musculaire de préhension est sensiblement équivalente à celle d'une main normale;<br> **Ou compatibilité avec aménagement selon l'évaluation:** dans les autres cas. |
@@ -268,19 +257,18 @@ L'attention est portée sur l'acuité visuelle, le champ visuel, la vision crép
 | **5.3 Lésions multiples des membres** || **Compatibilité avec aménagement selon l'évaluation:** dans tous les cas. |
 | **5.4 Rachis** || **Compatibilité avec aménagement selon l'évaluation:** En cas de lésion neurologique associée, outre l'atteinte motrice des membres, la stabilité du tronc et l'équilibre du bassin sont également évalués. Avis spécialisé si besoin. |
 | **5.5 Déficit locomoteur post-traumatique, vasculaire, tumoral, post-infectieux ou dégénératif, monoplégie, paralysie plexique, hémiplégie** || **Compatibilité avec aménagement selon l'évaluation:** si les conclusions médicales relative à la pathologie ne s'y opposent pas. Dans tous les cas, le problème posé est celui des séquelles neurologiques et de l'évolution éventuelle de la pathologie. Un avis médical spécialisé, si nécessaire, est demandé afin d'évaluer l'importance des lésions et leur évolutivité;<br> **Ou incompatibilité temporaire ou définitive:** si les conclusions médicales s'y opposent. |
-{{< /table >}}
+{caption="Maladies orthopédiques et déficits de l'appareil locomoteur, autorisations pour le permis de conduire poids lourd selon l'Arrêté du 28 mars 2022" class="table-wrap"}
 
 ### Groupe lourd Classe VI - Pathologies métaboliques et transplantations {.mt-5}
 
 Le diabète peut entraîner des complications (notamment neurologiques, cardiovasculaires et visuelles), qui nécessitent un avis médical complémentaire selon les cas, conformément aux classes de pathologies pertinentes I, II et IV du présent arrêté.
 
-{{< table title="Maladies métaboliques et greffe/transplantation et autorisations pour le permis de conduire poids lourd selon l'Arrêté du 28 mars 2022" class="table-wrap" >}}
 | Pathologie | Réglementation |
 |------------|----------------|
 | **6.1 Insuffisance rénale au stade de suppléance** | **Incompatibilité:** tant qu'un traitement de suppléance rénale n'est pas réalisé avec succès;<br> **Puis,**<br> **Compatibilité:** lorsque la suppléance est réalisée avec succès. Une attention particulière est portée sur la recherche de comorbidités incompatibles avec la conduite. Une conduite sur longue distance ou de longue durée est déconseillée. Les risques additionnels liés à la conduite du groupe lourd et aux conditions de travail sont appréciés avec la plus extrême attention.<br><br> **Restriction de la conduite possible: interruption de la conduite après chaque dialyse** en raison d'une baisse éventuelle de la vigilance due aux modifications hémodynamiques et métaboliques après une séance de dialyse. L'usager interroge le médecin spécialiste afin de connaître l'heure précise de reprise de reprise possible de la conduite après sa dialyse. |
 | **6.2 Diabète traité par médicaments susceptibles de provoquer une hypoglycémie** | **Incompatibilité** tant que le conducteur a des hypoglycémies sévères et tant qu'il n'est pas suffisamment conscient des risques liés à l'hypoglycémie et de la conduite à tenir;<br> **Puis, Compatibilité temporaire de 3 ans maximum:** le médecin agréé vérifie que l'usager souffrant de diabète avec un traitement susceptible de provoquer une hypoglycémie<br> - A une maîtrise adéquate de sa maladie, contrôlant régulièrement sa glycémie, particulièrement lorsqu'il envisage de conduire;<br> - Est pleinement conscient des risques de l'hypoglycémie, qu'il sait dépister et traiter une éventuelle hypoglycémie pour qu'elle ne survienne pas pendant la conduite;<br> - N'a pas eu de crise d'hypoglycémie sévère au cours des 12 derniers mois;<br> - N'a pas d'autre complication liée au diabète, incompatible avec la conduite.<br> Une attention est portée sur la compatibilité entre le traitement et les horaires de travail.<br> Avis médical spécialisé si nécessaire. |
 | **6.3 Transplantation d'organe ou pose d'implant** | Les cas spécifiques de la transplantation cardiaque, et de la pose d'implant oculaire sont traités spécifiquement ci-dessus:<br> - **Transplantation cardiaque:** se reporter au paragraphe **1.10 Cardiopathie congénitale**;<br> - **Intervention chirurgicale modifiant la réfraction oculaire:** se reporter au paragraphe **2.2.1 Intervention chirurgicale modifiant la réfraction oculaire**.<br><br> Dans les autres cas:<br> **Compatibilité:** après transplantation d'organe ou pose d'un implant, l'application de la présente annexe s'applique conformément aux situations médicales décrites dans la présente annexe.<br> En l'absence d'incidence sur la conduite (ex: greffe de rein, de foie...), il n'est pas nécessaire de demander un examen auprès d'un médecin agréé.<br> En cas de greffe ou d'implant, ayant un impact négatif constaté ou prévisible sur l'une des fonctions mentionnées dans la présente annexe, l'avis du médecin agréé est rendu au regard de la nouvelle situation médicale et après avis médical spécialisé si nécessaire. |
-{{< /table >}}
+{caption="Maladies métaboliques et greffe/transplantation et autorisations pour le permis de conduire poids lourd selon l'Arrêté du 28 mars 2022" class="table-wrap"}
 
 {{%sources%}}
 

@@ -180,13 +180,12 @@ Adresser à l'**urologue** en cas d'échec des mesures hygiéno-diététiques, d
 
 > Ne pas: soulever ou réveiller l'enfant (auto-réveil possible si échecs des traitements).
 
-{{< table title="Apports liquidiens quotidiens recommandés chez l'enfant et l'adolescent. NICE 2010" class="table-sm table-wrap" >}}
 | Âge | Apports quotidiens (L) |
-|:---:|:--------------------:|
-| 4-8 ans | 1 - 1,4  |
+| :-: | :--------------------: |
+| 4-8 ans | 1 - 1,4 |
 | 9-13 ans | Fille: 1,2 - 2,1<br>Garçon: 1,4 - 2,3 |
 | 14-18 ans | Fille: 1,4 - 2,5<br>Garçon: 2,1 - 3,2 |
-{{< /table >}}
+{caption="Apports liquidiens quotidiens recommandés chez l'enfant et l'adolescent. NICE 2010" class="table-sm table-wrap"}
 
 > [!WARNING]
 > Aucune étude fiable n'a démontré l'efficacité des: hypnose, psychothérapie, acupuncture, homéopathie et chiropraxie.

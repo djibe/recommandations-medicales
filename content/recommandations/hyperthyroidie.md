@@ -391,13 +391,12 @@ Après 1 an, en cas de rémission, le suivi avec TSH annuelle relève du génér
 {{% /collapse %}}
 {{%collapse "Pour en savoir plus: Antithyroïdiens de synthèse, irathérapie et chirurgie" %}}
 
-{{< table title="Bénéfices, risques et contre-indications aux différents traitements de l'hyperthyroïdie selon *HAS 2022*" >}}
 | Traitement                            | Bénéfices                                      | Risques                                                                       | Contre-indications                            |
-|---------------------------------------|------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------|
+| ------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------- |
 | Antithyroïdiens<br> de synthèse (ATS) | Non invasif                                    | Récidives (53%)<br> Durée du traitement                                       | Grossesse                                     |
 | Irathérapie                           | Non invasif<br> Efficace<br> Récidives faibles (15%) | Hypothyroïdie définitive<br> Radioprotection<br> Aggrav. orbitopathie   | Désir de grossesse < 6m<br> Grossesse/allait.<br> Susp malignité<br> Compression |
 | Chirurgie                             | Efficace<br> Rapide                            | Hypothyroïdie définitive<br>± hypoparathyroïdie<br>± paralysie récurrentielle | Inopérable                                        |
-{{< /table >}}
+{caption="Bénéfices, risques et contre-indications aux différents traitements de l'hyperthyroïdie selon *HAS 2022*"}
 
 Les 3 modalités de traitement sont possibles en cas d'orbitopathie basedowienne inactive.
 

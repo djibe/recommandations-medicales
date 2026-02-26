@@ -45,14 +45,13 @@ Hépatite B chronique (ou porteur chronique de l'Ag HBs)
 
 ### Phases de l'infection par le virus de l'hépatite B
 
-{{< table title="Phases de l'infection chronique par le virus de l'hépatite B. AFEF 2020" >}}
 | Infection                                | AgHBe | AgHBs        | ADN VHB      | ALAT      | Fibrose            |
-|------------------------------------------|-------|--------------|--------------|-----------|--------------------|
+| ---------------------------------------- | ----- | ------------ | ------------ | --------- | ------------------ |
 | Infection AgHBe+<br>*ex* immunotolérance | +     | Élevé        | Très élevé   | Normales  | Absente/minime     |
 | Hépatite AgHBe+                          | +     | Élevé        | Élevé        | Élevées   | Progression rapide |
 | Infection AgHBe-<br>*ex* portage inactif | -     | < 1000 UI/mL | < 2000 UI/mL | Normales  | Absente/minime     |
 | Hépatite AgHBe-                          | -     | > 1000 UI/mL | > 2000 UI/mL | Variables | Variable           |
-{{< /table >}}
+{caption="Phases de l'infection chronique par le virus de l'hépatite B. AFEF 2020"}
 
 > Immunotolérant: risque de perte de l'immunotolérance (38 % à 3 ans)  
 Portage dit inactif: risque de réactivation (22 % à 5 ans, immunodépression ++) tant que l'Ac anti-HBs n'est pas présent. Taux de négativation de l'AgHBs de 1-3%/an.
@@ -122,14 +121,13 @@ Ajouter VHC si conduites à risque (sexe, drogues), VHE en cas de séjour tropic
 
 ### Interpréter la sérologie hépatite B
 
-{{< table title="Interprétation des marqueurs sérologiques de l'infection par le VHB selon le *CMIT 2023*" class="table-wrap" >}}
 | Ag HBs | Ac anti-HBc | Ac anti-HBs | Interprétation                                                           |
-|:------:|:-----------:|:-----------:|--------------------------------------------------------------------------|
+| :----: | :---------: | :---------: | ------------------------------------------------------------------------ |
 |   -    |      -      |      +      | Sujet vacciné                                                            |
 |   -    |      +      |      +      | Infection guérie                                                         |
 |   +    |      +      |      -      | Infection évolutive                                                      |
 |   -    |      +      |      -      | Infection guérie voire infection chronique HBe- avant séroconversion HBs |
-{{< /table >}}
+{caption="Interprétation des marqueurs sérologiques de l'infection par le VHB selon le *CMIT 2023*" class="table-wrap"}
 
 > Infection évolutive: le stade est déterminé par la clinique, les IgM anti-HBc (infection aiguë) et l'évolution à 6 mois
 

@@ -329,9 +329,8 @@ En cas d'amélioration partielle chez l'enfant, essayer une [éviction du lactos
 
 Suivi de la maladie cœliaque par les **gastro-entérologue** et **diététicien** spécialisés.
 
-{{< table title="Suivi de la maladie cœliaque" class="table-wrap" >}}
 | Période          | Bilan associé |
-|------------------|---------------|
+| ---------------- | ------------- |
 | **Au diagnostic**<br>Médecin et diététicien | - Examen physique, y compris l'IMC<br>- Éducation sur la MC<br>- Conseils diététiques par un diététicien qualifié<br>- Recommander un dépistage familial (DQ2/D8 et sérologie cœliaque)<br>- Recommander l'adhésion à une association de patients<br>- Sérologie cœliaque (si elle n'a pas déjà été réalisée) et VHB<br>- Analyses de routine (NFS, ferritine, vitamines D, B9, B12, [TSH](/tags/tsh/),<br>enzymes hépatiques, calcium, phosphore)<br>- Ostéodensitométrie au moment du diagnostic avant 35 ans |
 | **3-4 mois**<br>Médecin et diététicien | - Évaluer les symptômes et les modifications du mode de vie<br>Évaluation diététique<br>Sérologie cœliaque (transglutaminase IgA-TG2)|
 | **6 mois**<br>Médecin (à distance) | - Évaluer les symptômes<br>- Évaluation diététique<br>- Sérologie cœliaque<br>- Recontrôler les autres anomalies du bilan initial |
@@ -339,7 +338,7 @@ Suivi de la maladie cœliaque par les **gastro-entérologue** et **diététicien
 | **24 mois**<br>Médecin | - Évaluer les symptômes<br>- Évaluer le recours au diététicien<br>- Sérologie cœliaque<br>- TSH<br>- Tests selon l'examen |
 | **36 mois**<br>Médecin | - Ostéodensitométrie de contrôle si anormale<br>- Évaluer les symptômes |
 | Puis tous les 1-2 ans | - Évaluer le recours au diététicien<br>- Sérologie cœliaque<br>- TSH<br>- Tests selon l'examen |
-{{< /table >}}
+{caption="Suivi de la maladie cœliaque" class="table-wrap"}
 
 **Ostéodensitométrie** au diagnostic puis tous les 2-5 ans selon la densité osseuse (*ESsCD 2019*).
 

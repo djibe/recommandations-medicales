@@ -18,7 +18,7 @@ icd10 = ["sctid > Concept Details > Refsets"]
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow > Kanban | Update Fiche VIH, Hypertryglicéridémie avec ESC25dyslipp13"
+todo = "descr > summary > liens > photo > newsletter > flow > Kanban | Update Fiche VIH, Hypertryglicéridémie avec ESC25dyslipp13 | moduler SCORE2 sur page du score, FH"
 +++
 
 {{%article-summary%}}
@@ -30,10 +30,10 @@ TODO: (at the end) | RHD | suivi
 - La prise en charge de la dyslipidémie débute par la recherche d'une cause secondaire d'hypercholestérolémie (hypothyroïdie, œstrogènes) et des autres facteurs de risque cardiovasculaires (hypertension artérielle, tabac, diabète, hérédité)
 - Après ce bilan initial, déterminer le risque cardiovasculaire (au moins élevé en cas de maladie cardiovasculaire ou à déterminer en cas de prévention primaire avec le SCORE2). Ce risque doit être incrémenté ou affiné par le cardiologue en cas de facteur aggravant (VIH, obésité, maladie inflammatoire ...)
 - La présence de maladie cardiovasculaire ou le résultat du SCORE2 détermine les objectifs du traitements correspondant au niveau de risque (facteurs de risque, mode de vie, statine)
-- La statine ets le traitement de référence de la dyslipidémie en cas de risque cardiovasculaire marquée. Sa titration est rapide jusqu'à l'atteinte des cibles de réduction du LDL et du taux de LDL (avec ajout d'ézétimibe si nécessaire)
+- La statine est le traitement de référence de la dyslipidémie en cas de risque cardiovasculaire marquée. Sa titration est rapide jusqu'à l'atteinte des cibles de réduction du LDL et du taux de LDL (avec ajout d'ézétimibe si nécessaire)
 - Le suivi spécialisé cardiologique est systématique en cas de risque cardiovasculaire marqué ou de cible lipidique non atteinte
 
-Chapitres liés: statines, hypertriglycéridémie
+Chapitres liés: [statines]({{% relref "statines.md" %}}), hypertriglycéridémie
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -80,8 +80,8 @@ Le risque cardiovasculaire doit être réévalué régulièrement.
 
 - **Facteurs de risque cardiovasculaires**
   - Âge et sexe, hérédité cardiovasculaire (infarctus du myocarde, AVC, mort subite)
-  - Tabagisme, hypertension artérielle, diabète
-- Autres antécédents: **maladie cardiovasculaire** (AVC, infarctus du myocarde, AOMI ...), **maladie rénale** chronique, goutte, maladie inflammatoire, BPCO, VIH, stress
+  - Tabagisme, [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [diabète](/tags/diabete/)
+- Autres antécédents: **maladie cardiovasculaire** ([AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), [infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) ...), **maladie rénale** chronique, goutte, maladie inflammatoire, BPCO, VIH, stress
 - Antécédents familiaux cardiovasculaires
 - **Causes d'hyperlipidémie secondaire**  
   Hypothyroïdie, cholestase, syndrome néphrotique et insuffisance rénale chronique, alcool, diabète, médicamenteuse (œstrogènes, corticoïdes, rétinoïdes, antirétroviraux, ciclosporine, diurétiques, bêtabloquants).
@@ -103,25 +103,26 @@ Le risque cardiovasculaire doit être réévalué régulièrement.
 
 {{< clinique/risque-cardiovasculaire >}}
 
-TODO: SCORE2-Diabetes. En cas de diabète, le {{< modal-btn modal-rcv-diabete >}}risque cardiovasculaire{{< /modal-btn >}} est évalué légèrement différemment.
+En cas de diabète, le risque cardiovasculaire est évalué en prévention primaire avec le {{< scores/score2-diabetes >}} (application ESC CVD Risk).
 
-Un taux de LDL élevé dès le jeune âge est associé à un surcroît d'évènements cardiovasculaires.
+> Un taux de LDL élevé dès le jeune âge est associé à un surcroît d'évènements cardiovasculaires.
 
 ### Estimation du risque cardiovasculaire en prévention primaire: SCORE2 et SCORE2-OP
-
-**NB.** Le risque d'évènement cardiovasculaire à 10 ans est 2-3 fois supérieur au risque mortel calculé avec ce score (pris en compte dans le SCORE2).
 
 TODO: SCORE2
 
 Le SCORE2 a peu de paramètres, les autres facteurs de risque suivant doivent être pris en considération, d'autant plus  lorsque le risque est proche des seuils, pour reclassifier le niveau de risque cardiovasculaire:
 
-- Paramètres démographiques/cliniques
-  - Hérédité cardiovasculaire (hommes avant 55 ans, femmes  avant 60 ans)
+- Paramètres démographiques
+  - Hérédité cardiovasculaire (hommes avant 55 ans, femmes avant 60 ans)
   - Origines à haut risque (Asie du Sud ++)
-  - Stress et facteurs de stress psychosociaux
+  - Facteurs de stress psychosociaux
   - Précarité
+- Paramètres cliniques
+  - Stress
   - Obésité
   - Sédentarité
+  - Migraine avec aura (*ESC 2021*)
   - Maladie inflammatoire
   - Trouble psychiatriques sévère
   - Ménopause précoce
@@ -132,14 +133,17 @@ Le SCORE2 a peu de paramètres, les autres facteurs de risque suivant doivent ê
 - Biomarqueurs
   - CRPus constamment élevée (> 2 mg/L)
   - Taux élevé de Lp(a) > 50 mg/dL (> 105 nmol/L)
-- Score calcique (CAC score)
+- Imageries
+  - Plaque artérielle carotidienne ou fémorale
+  - Score calcique marqué (CAC score)  
+    Interprétation délicate sous traitement par statine.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 > << La réalisation d'un bilan lipidique est conseillée chez tous les adultes. Sans anomalie, il n'est pas nécessaire de le recontrôler avant 5 ans. >> -- *Collège de cardiologie*
 
-- Bilan lipidique (EAL, sans jeûner *ESC 2019*)  
+- Bilan lipidique (EAL, sans jeûner *ESC 2021*)  
   2 dosages espacés de 1-12 semaines. Jeûne privilégié en cas de syndrome métabolique, diabète, hypertriglycéridémie.
 - ± Glycémie à jeun
 - Recherche d'hyperlipidémie secondaire:
@@ -163,7 +167,7 @@ Recommandations générales universelles pour la prévention cardiovasculaire:
 - Correction des facteurs de risque cardiovasculaire
   - [Sevrage tabagique]({{% relref "arret-tabac.md" %}})
   - Réduction de l'alcool
-  - Activité physique quotidienne (30-60 minutes d'{{< modal-btn modal-met >}}intensité modérée{{< /modal-btn >}})
+  - Activité physique quotidienne (30-60 minutes/j d'{{< modal-btn modal-met >}}intensité modérée{{< /modal-btn >}}), entraînement en résistance ≥ 2 j/semaine
   - Lutte contre la sédentarité
   - Correction d'un surpoids et d'une obésité abdominale (tour de taille femme/homme ≥ 88/102 cm)
   - Dépistage de l'[hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
@@ -200,7 +204,9 @@ Mesures diététiques pour l'augmentation du HDL cholestérol:
 {{%collapse "Traitement médicamenteux de la dyslipidémie" %}}
 
 > [!INFO]
-> << ... la réduction des taux plasmatiques de LDL-C devrait être l'objectif principal pour prévenir les événements cardiovasculaires athérosclérotiques. >> -- *ESC/EAS 2025*
+> << ... la réduction des taux plasmatiques de LDL-C devrait être l'objectif principal pour prévenir les événements cardiovasculaires athéromateux. >> -- *ESC/EAS 2025*
+>
+> << Le traitement par statines en prévention primaire chez les +70 ans peut être envisagé en cas de risque cardiovasculaire élevé. >> -- *ESC 2021*
 
 Seuil pour l'introduction d'une ==**statine**== selon le risque cardiovasculaire :
 
@@ -247,8 +253,7 @@ Les traitements médicamenteux suivants ont un bénéfice cardiovasculaire. Ils 
 - Cholestyramine
 - Acide bempédoïque (Nilemdo®)
 
-{{< table title="Réduction du LDL cholestérol obtenue avec les traitements hypolipémiants en monothérapie ou en association. Dr JB Fron d'après ESC 2025" >}}
-| Classe | LDL (- %) |
+| Classe | ↘ LDL (%) |
 | ------ | ------: |
 | Ézétimibe (EZE) | 20 |
 | Acide bempédoïque (AB) | 23 |
@@ -264,7 +269,7 @@ Les traitements médicamenteux suivants ont un bénéfice cardiovasculaire. Ils 
 | SHI + PCSK9 | 75 |
 | SHI + EZE + PCSK9 | 80 |
 | SHI + EZE + AB + PCSK9 | 86 |
-{{< /table >}}
+{caption="Réduction du LDL cholestérol obtenue avec les traitements hypolipémiants en monothérapie ou en association. Dr JB Fron d'après ESC 2025"}
 
 > [!WARNING]
 > Les suppléments alimentaires sans évaluation cardiovasculaire ne sont pas recommandées (*ESC 2025*).
@@ -274,19 +279,15 @@ Les traitements médicamenteux suivants ont un bénéfice cardiovasculaire. Ils 
 
 - [Mach F, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/article/46/42/4359/8234482)
 - [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Dyslipidémies. Item 223. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
-- WIP {{< references/esc-cvd >}}
+- {{< references/esc-cvd >}}
 - [Mach F, et al. 2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk. Eur Heart J. 2020.](https://academic.oup.com/eurheartj/article/41/1/111/5556353)
 
 ### Bibliographie en attente
 
+- [Bouillet B, Boulestreau R, Aboyans V, et al. Management of dyslipidemia in adults. A consensus statement from the French Society of Endocrinology (SFE), the French-speaking Diabetes Society (SFD), the New French-speaking Atherosclerosis Society (NSFA) and the French Society of Cardiology (SFC). Arch Cardiovasc Dis. 2026.](https://www.sciencedirect.com/science/article/pii/S1875213626000057)
 - Collège endoc
 
 {{%/sources%}}
-{{% modal title="RCV du diabétique selon ESC 2019" id="modal-rcv-diabete"%}}
-
-{{< clinique/risque-cardiovasculaire-diabete >}}
-
-{{% /modal %}}
 {{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
 
 {{< scores/stop-bang >}}

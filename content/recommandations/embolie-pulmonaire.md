@@ -416,6 +416,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Writing Committee Members*, Creager MA, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2026.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001415)
 - [SFMV, GFHT. La place du dosage des d-dimères en médecine. Communiqué. 2021.](https://www.innovte-thrombosisnetwork.eu/sites/innovte/files/brique/fichier/02-2024/Com_dosage%20des%20d-dimeres%20en%20VF.pdf)
 - [Sanchez O, et al; SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S0761842519300051)
 - [Wang X, et al. Oral direct thrombin inhibitors or oral factor Xa inhibitors versus conventional anticoagulants for the treatment of deep vein thrombosis. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010956.pub3/full)

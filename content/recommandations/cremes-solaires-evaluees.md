@@ -69,9 +69,8 @@ Le tableau ci-dessous rassemble donc les crèmes disponibles pour protéger au m
 > [!INFO]
 > Ces tests de crème solaires ont été rédigés par des pharmaciennes de l'Université de Pharmacie de Rennes.
 
-{{< table title="Mesures in vitro des indices de protection réels de crèmes solaires (IP ou facteur de protection solaire FPS/SPF). Dr JB Fron d'après *Regard sur les cosmétiques*" class="table-wrap" >}}
 | Marque | Crème | FPS mesuré | Test |
-|--------|-------|------------|------|
+| ------ | ----- | ---------- | ---- |
 | A-Derma | ==**Protect peaux fragiles sèches crème SPF 50+**== | **62** | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/les-produits-solaires-a-derma-des-produits-performants-au-service-de-toute-la-famille-1069/) |
 | A-Derma | Protect AC peaux grasses à tendance acnéique fluide matifiant très haute protection SPF 50+ | **62** | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/les-produits-solaires-a-derma-des-produits-performants-au-service-de-toute-la-famille-1069/) |
 | Acorelle | Crème solaire Acorelle nature sun SPF 50+ bébé | 34 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/on-tord-le-cou-a-la-creme-solaire-acorelle-spf-50-bebe-1121/) |
@@ -110,7 +109,7 @@ Le tableau ci-dessous rassemble donc les crèmes disponibles pour protéger au m
 | Uriage | ==**[Bariésun 100 fluide protecteur extrême SPF 50+](https://www.uriage.fr/produits/bariesun-100-fluide-proecteur-extreme-nc)**== | **77** | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/bariesun-100-chapeau-bas-pour-ce-solaire-50-irreprochable-1489/) |
 | Vichy | Capital Soleil matifiant 3 en 1 SPF 50+ | 45 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/vichy-capital-soleil-3-en-1-le-soin-multi-usage-plus-matifiant-que-photoprotecteur-2935/) |
 | Vichy | Idéal capital soleil lait douceur enfants protection UV renforcée SPF 50 | 50 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/lait-douceur-enfants-vichy-spf-50-on-le-reverait-sans-alcool-du-tout-1116/) |
-{{< /table >}}
+{caption="Mesures in vitro des indices de protection réels de crèmes solaires (IP ou facteur de protection solaire FPS/SPF). Dr JB Fron d'après *Regard sur les cosmétiques*" class="table-wrap"}
 
 > Les mesures des crèmes solaires ci-dessus ont été réalisées *in vitro*
 

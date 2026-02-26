@@ -183,9 +183,8 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
 
 > Délai minimal d'un mois entre 2 doses de vaccin coquelucheux
 
-{{< table title="Recommandations vaccinales contre la coqueluche selon *Calendrier vaccinal 2025*" class="table-wrap" >}}
 | Âge                         | Spécialités                                                    | Commentaire                             |
-|-----------------------------|----------------------------------------------------------------|-----------------------------------------|
+| --------------------------- | -------------------------------------------------------------- | --------------------------------------- |
 | 2 mois                      | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
 | 4 mois                      | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
 | 11 mois                     | Hexyon, Infanrix Hexa, Vaxelis                                 |                                         |
@@ -196,7 +195,7 @@ La vaccination anti-coqueluche protège de la coqueluche pendant 5 à 10 ans.
 | Adulte avec projet parental | BoostrixTetra, Repevax                                         |                                         |
 | Coqueluche                  | Pas de rappel nécessaire dans les 10 ans                       | Sauf coqueluche du nourrisson           |
 | Médecin généraliste         | BoostrixTetra, Repevax                                         | Coqueluche à chaque dTP                 |
-{{< /table >}}
+{caption="Recommandations vaccinales contre la coqueluche selon *Calendrier vaccinal 2025*" class="table-wrap"}
 
 > **Cocooning:** rappel en l'absence de vaccination de la mère pendant la grossesse (si amené à s'occuper de l'enfant durant les 6 premiers mois) avant 25 ans si dernière dose a +5 ans (pour **tous en 2026**), si rappel a +10 ans ensuite  
 **Professionnels de santé et de la petite enfance:** ajouter la coqueluche à chaque rappel du dTPolio (45 et 65 ans) + 1 dose si dernière dose réalisée avant 18 ans et date de +5 ans.

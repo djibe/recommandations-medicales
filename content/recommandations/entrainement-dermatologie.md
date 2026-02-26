@@ -29,9 +29,8 @@ todo = "Kanban"
 
 {{%/article-summary%}}
 
-{{< table title="Sites de formation et d'entraînement pour les diagnostics dermatologiques" class="table-wrap" >}}
 | Plateforme | Commentaire |
-|------------|-------------|
+| ---------- | ----------- |
 | [Association des généralistes dermoscopiques français](https://www.facebook.com/groups/475003700493511/) | Facebook |
 | [BrownSkinMatters](https://www.instagram.com/brownskinmatters/) | Instagram |
 | [Danderm](https://www.danderm-pdv.is.kkh.dk/atlas/index.html) ||
@@ -51,7 +50,7 @@ todo = "Kanban"
 | [AccessDermatologyDxRx](https://dermatology.mhmedical.com/) | Payant |
 | [British College of Dermatology](https://learning.bcd.org.uk/my/?categoryid=24) | Payant |
 | [VisualDX](https://www.visualdx.com/visualdx/) | Payant |
-{{< /table >}}
+{caption="Sites de formation et d'entraînement pour les diagnostics dermatologiques" class="table-wrap"}
 
 Autres sites d'information en dermatologie:
 

@@ -187,16 +187,15 @@ Phloroglucinol, trimébutine, tiémonium.
 {{% /collapse %}}
 {{%collapse "Évaluation de la douleur de l'enfant" %}}
 
-{{< table title="Échelles d'évaluation de la douleur chez l'enfant" >}}
 | Âge (années) | Échelle de douleur       | Seuil de traitement |
-|-------------:|--------------------------|:-------------------:|
+| -----------: | ------------------------ | :-----------------: |
 | Nouveau-né   | EDIN<br>[EVENDOL](https://pediadol.org/wp-content/uploads/2006/06/EVENDOL.pdf)<br>DAN<br>NFCS | 4-5/15<br>4/15<br>3/10<br>1/4 |
 | 0 - 7        | EVENDOL                  | 4/15                |
 | <b>Auto-évaluation</b>|                 |                     |
 | 4+           | [Échelle des visages](https://pediadol.org/wp-content/uploads/2004/06/FPS-R.pdf) (<abbr title="Faces Pain Scale Revised (IASP)">FPS-R</abbr>) | 4/10 |
 | 6+           | [EVA pédiatrique](https://www.sparadrap.org/boutique/produit/reglette-eva-dautoevaluation-de-la-douleur) | 3/10 |
 | 8+           | Échelle numérique (EN)   | 3/10                |
-{{< /table >}}
+{caption="Échelles d'évaluation de la douleur chez l'enfant"}
 
 Le [Schéma du bonhomme](https://pediadol.org/schema-du-bonhomme/) permet au grand enfant de préciser la localisation de la douleur.
 

@@ -51,15 +51,14 @@ Elle est augmentée en cas d'inflammation (carence martiale peu probable si ferr
 
 {{< clinique/anemie-definition >}}
 
-{{< table title="Ajustement du taux d'hémoglobine pour les fumeurs. Dr JB Fron d'après *OMS 2024*" class="table-sm" >}}
 | Tabagisme (cig/j) | Ajustement du taux d'Hb (g/dL) |
-|:-----------------:|-------------------------------:|
+| :---------------: | -----------------------------: |
 |        Non        |                  0&nbsp;&nbsp; |
 |      Fumeur       |                           -0,3 |
 |       < 10        |                           -0,3 |
 |       10-19       |                           -0,5 |
 |       ≥ 20        |                           -0,6 |
-{{< /table >}}
+{caption="Ajustement du taux d'hémoglobine pour les fumeurs. Dr JB Fron d'après *OMS 2024*" class="table-sm"}
 
 Hypochromie
 : Globules rouges (GR, érythrocytes) pauvres en hémoglobine ou *concentration corpusculaire moyenne en hémoglobine* (CCMH) inférieure à la normale (CCMH normale = 32-36 g/dL). Durée de vie du globule rouge: 120 jours. Ce nom vient de l'aspect de pâleur en coloration au May-Grünwald Giemsa.
@@ -191,13 +190,12 @@ Une anémie par carence martiale pendant la **grossesse** dispense du bilan éti
 
 Prise en charge de l'anémie par supplémentation et fer puis surveillance de la remontée de l'hémoglobine à 1 mois, mensuelle jusqu'à correction de l'anémie, trimestrielle pendant 1 an puis semestrielle pendant 2-3 ans.
 
-{{< table title="Supplémentations en fers fumarate, gluconate et sulfate disponibles en France en 2026. Dr JB Fron d'après *BDPM*" >}}
 | Spécialité             | Famille  | Fer élément (mg) |
-|------------------------|----------|-----------------:|
+| ---------------------- | -------- | ---------------: |
 | Fumafer 66 mg cp       | Fumarate |               66 |
 | Tardyferon 50 ou 80 mg | Sulfate  |         50 ou 80 |
 | Timoferol cp ou gél    | Sulfate  |               50 |
-{{< /table >}}
+{caption="Supplémentations en fers fumarate, gluconate et sulfate disponibles en France en 2026. Dr JB Fron d'après *BDPM*"}
 
 **NB.** La vitamine C (fruits frais) favorise l'absorption du fer non héminique (*HCSP 2022*).
 

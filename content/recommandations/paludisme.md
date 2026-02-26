@@ -199,15 +199,14 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 
 ### Indication à la chimioprophylaxie antipaludique selon le type de voyage
 
-{{< table title="Indication de la chimioprophylaxie du paludisme (CPAP) et des autres moyens de prévention en zone d'endémie de paludisme selon le continent et les conditions de séjour selon le *HCSP*" >}}
 | Type de séjour | Amérique tropicale,<br>Haïti et Rép Dom. | Afrique sub-<br>saharienne<br>et Yémen | Asie du Sud<br>et Sud-Est | Papouasie<br>Nvle Guinée<br>et Îles Salomon |
-|----------------|------------------------------------------|----------------------------------------|---------------------------|---------------------------------------------|
+| -------------- | ---------------------------------------- | -------------------------------------- | ------------------------- | ------------------------------------------- |
 | Pour tous | PPAV + CS si F | idem | idem | idem |
 | Séjour conventionnel | Pas de CPAP | CPAP¹ | Pas de CPAP | CPAP¹ |
 | Séjour non conventionnel<br>< 1m avec<br>nuitées en zone<br>rurale/forestière | Pas de CPAP³<br>TTR si isolé | CPAP¹ | Pas de CPAP³<br>TTR si isolé | CPAP¹ |
 | Séjour non conventionnel<br>+1m avec<br>nuitées en zone<br>rurale/forestière | Avis spé | CPAP¹ | Avis spé | CPAP¹ |
 | Expatriation prolongée | Avis spé | - Sahel: CPAP<br>en saison pluies²<br>- Forestière:<br>toute l'année | Avis spé | CPAP |
-{{< /table >}}
+{caption="Indication de la chimioprophylaxie du paludisme (CPAP) et des autres moyens de prévention en zone d'endémie de paludisme selon le continent et les conditions de séjour selon le *HCSP*"}
 
 > **Légende**: **CS si F** = Consultation sans délai si fièvre pendant le séjour ou dans les 3 mois qui suivent le retour et information sur la notion de voyage dans les 3 derniers mois ; **TTR** = traitement de réserve antipaludique  
 ¹ sauf les zones non à risque d'Afrique australe (Afrique du Sud hors région Nord Est, Sud de la Namibie et du Botswana)  

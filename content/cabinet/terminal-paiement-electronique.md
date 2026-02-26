@@ -23,7 +23,6 @@ Ces offres ne doivent pas empêcher une négociation directe du médecin génér
 
 Ainsi, sur une consultation à 30 €, la solution de paiement *Smile & Pay* Premium prélèvera une commission de 19,7 centimes quand le *SumUp* demandera 52,5 centimes d'euros.
 
-{{< table title="Solutions de terminaux de paiement électroniques indépendantes. Dr JB Fron" >}}
 | Solution | Commission fixe | Variable (% HT) | Terminal (€ HT) | Site |
 | -------- | --------------- | --------------: | --------------- | ---- |
 | Flatpay | 0 | 1,29 | Gratuit | [Site](https://www.flatpay.com/fr/pricing) |
@@ -38,4 +37,4 @@ Ainsi, sur une consultation à 30 €, la solution de paiement *Smile & Pay* Pre
 | SumUp One | 19 €/mois | 0,79 | Unique (0 à 139) | [Site](https://www.sumup.com/fr-fr/) |
 | yavin | ? | ? | Sur demande | [Site](https://yavin.com/) |
 | Zttle | 0 | 1,75 | Unique (29 €) | [Site](https://www.zettle.com/fr/paiements/lecteur-carte-bancaire) |
-{{< /table >}}
+{caption="Solutions de terminaux de paiement électroniques indépendantes. Dr JB Fron"}

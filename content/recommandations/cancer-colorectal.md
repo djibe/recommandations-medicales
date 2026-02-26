@@ -273,9 +273,8 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 
 ### Rythme de dépistage chez les personnes à haut risque de cancer colorectal
 
-{{< table title="Indications au dépistage du cancer colorectal pour les personnes à haut risque selon *SFED 2021* et *HAS 2017*" class="table-sm" >}}
 | Patient | Début surveillance | Population | Suivi et rythme |
-|---|---|---|---|
+| - | - | - | - |
 | Antécédent personnel d'adénome<br>(SFED 2021) | Après résection | <strong>Risque élevé:</strong><br>- ≥ 5 adénomes<br>- 1 adénome ≥ 10 mm ou en DHG<br>- ≥ 1 PF | Coloscopie à 3 ans |
 | | | <strong>Risque faible:</strong><br>1-2 adénome < 10 mm en DBG | Consultation de prévention à 5 ans<br>+ coloscopie sous 7-10 ans<br>ou reprise TIF à 5 ans |
 | | | <strong>Risque faible:</strong><br>3-4 adénomes < 10 mm en DBG<br>PF < 10 mm sans dysplasie | Coloscopie à 5 ans |
@@ -284,7 +283,7 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 | MICI | 6-8 ans après le début<br>des symptômes | <strong>Risque élevé:</strong><br>CSP, ATCD de dysplasie, forme étendue<br>sur +50 % du côlon, persistance inflammatoire,<br>ATCD familiaux CCR, nb pseudo-polypes,<br>sténose colique | Chromoendoscopie tous les 1-2 ans |
 | | | <strong>Risque intermédiaire:</strong><br>RCH étendue en dessous de l'angle gauche,<br>MC colique étendue sur 30-50 % | Tous les 3-4 ans |
 | | | <strong>Risque faible:</strong><br>Rectite de RCH et MC colique étendue sur < 30 % | Pas de suivi spécifique défini |
-{{< /table >}}
+{caption="Indications au dépistage du cancer colorectal pour les personnes à haut risque selon *SFED 2021* et *HAS 2017*" class="table-sm"}
 
 > Légende. **DBG =** dysplasie de bas grade ; **DHG =** dysplasie de haut grade ; **PF =** polype festonné
 

@@ -130,9 +130,8 @@ Indications à l'ostéodensitométrie (DXA): corticothérapie systémique ≥ 7,
 
 Les corticoïdes non fluorés (*ex* prednisone) sont utilisés en prise unique matinale. La prednisone a la meilleure biodisponibilité mais la prednisolone présente l'avantage d'une forme soluble pour les enfants et les sujets âgés.
 
-{{< table title="Équivalence des corticoïdes et leurs demi-vie. Dr JB Fron d'après *ESE, ES 2024*" >}}
 | Glucocorticoïde    | Équivalence (mg) | Activité  | Demi-vie (h) |
-|--------------------|-----------------:|----------:|-------------:|
+| ------------------ | ---------------: | --------: | -----------: |
 | Hydrocortisone     |               20 |         1 |         8-12 |
 | Cortisone acétate  |               25 |       0.8 |         8-12 |
 | **Prednisone**     |            **5** |         4 |        12-36 |
@@ -141,7 +140,7 @@ Les corticoïdes non fluorés (*ex* prednisone) sont utilisés en prise unique m
 | Méthylprednisolone |                4 |         5 |        12-36 |
 | Dexaméthasone (F)  |              0.5 |     30-60 |        36-72 |
 | Bétaméthasone (F)  |                4 |     25-40 |        36-72 |
-{{< /table >}}
+{caption="Équivalence des corticoïdes et leurs demi-vie. Dr JB Fron d'après *ESE, ES 2024*"}
 
 > L'activité du glucocorticoïde utilise l'**hydrocortisone** comme comparateur. **F =** fluoré
 
@@ -183,15 +182,14 @@ Un suivi endocrinien n'est pas nécessaire en l'absence de traitement corticoïd
 
 Lors de la décroissance, en cas de **syndrome de sevrage** aux corticoïdes sévère: remonter à la dernière dose tolérée puis ralentir la nouvelle décroissance.
 
-{{< table title="Suggestion du rythme pour la décroissance des corticoïdes après un traitement prolongé (plus de 3-4 semaines). Dr JB Fron d'après *ESE, ES 2024*" class="table-wrap" >}}
 | Équivalent prednisone (mg/j) | Décroissance (mg) | Palier         |
-|------------------------------|-------------------|----------------|
+| ---------------------------- | ----------------- | -------------- |
 | > 40                         |              5-10 | 1 semaine      |
 | 20-40                        |                 5 | 1 semaine      |
 | 10-20                        |               2.5 | 1-4 semaine(s) |
 | 5-10                         |                 1 | 1-4 semaine(s) |
 | 5                            | Si cortisolémie normale<br>ou absence de symptômes: 1 mg.<br>Alternative: hydrocortisone 20 mg<br>avec paliers de 5 mg | 4 semaines |
-{{< /table >}}
+{caption="Suggestion du rythme pour la décroissance des corticoïdes après un traitement prolongé (plus de 3-4 semaines). Dr JB Fron d'après *ESE, ES 2024*" class="table-wrap"}
 
 ### Bilan avant l'arrêt des corticoïdes
 

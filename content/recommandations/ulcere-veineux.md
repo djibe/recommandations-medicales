@@ -47,14 +47,13 @@ Angiodermite nécrotique
 
 ### Classification des bas de compression en France
 
-{{< table title="Classification des bas de compression en France. Dr JB Fron d'après *HAS 2010*" >}}
 | Classe | Pression cheville (mmHg) |
-|--------|--------------------------|
+| ------ | ------------------------ |
 | I      | 10 - 15                  |
 | II     | 15,1 - 20                |
 | III    | 20,1 - 36                |
 | IV     | > 36                     |
-{{< /table >}}
+{caption="Classification des bas de compression en France. Dr JB Fron d'après *HAS 2010*"}
 
 > [!INFO]
 > << En pratique, la prescription doit toujours comprendre la pression en mmHg, et éventuellement la classe >>. -- *HAS 2010*
