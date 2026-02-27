@@ -1,0 +1,10 @@
+titre;url;maj
+{{ $pages := where .Pages "Draft" "ne" true -}}
+{{- $pages = where $pages "Params.noindex" "ne" true -}}
+{{- range $i, $p := $pages }}
+{{- if gt $i 0 }}{{ "\n" }}{{ end -}}
+{{- $title := replace $p.Title `"` `""` -}}
+{{- $permalink := $p.Permalink -}}
+{{- $lastmod := $p.Lastmod.Format "2006-01-02" -}}
+"{{ $title }}";"{{ $permalink }}";"{{ $lastmod }}"
+{{- end -}}
