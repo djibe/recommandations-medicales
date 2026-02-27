@@ -89,7 +89,7 @@ Signes et symptômes de la crise de goutte.
 ### Interrogatoire
 
 - Facteurs de risques cardiovasculaire  
-  Tabagisme, [HTA]({{% relref "hypertension-arterielle.md" %}}), [diabète de type 2]({{% relref "diabete-type-2.md" %}}), dyslipidémie, [obésité]({{% relref "obesite-adulte.md" %}}), {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}.
+  Tabagisme, [HTA]({{% relref "hypertension-arterielle.md" %}}), [diabète de type 2]({{% relref "diabete-type-2.md" %}}), [dyslipidémie]({{% relref "dyslipidemie.md" %}}), [obésité]({{% relref "obesite-adulte.md" %}}), {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}.
 - Traitements en cours  
 - Médicaments hyperuricémiants  
   Diurétiques, aspirine, interactions médicamenteuses (biphosphonates), cytotoxiques, ivabradine, ciclosporine, tacrolimus.

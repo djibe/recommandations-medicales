@@ -254,7 +254,7 @@ La prescription de l'isotrétinoïne est réservée au dermatologue et permet d'
 
 Une cure de traitement dure habituellement **4 à 6 mois** avec une exacerbation de l'acné pendant les 4 premières semaines.
 
-Effets indésirables de l'isotrétinoïne: tératogène (aucune baisse des grossesses depuis 2010), troubles psychiatriques, xérose cutanée et muqueuse, dyslipidémie, douleurs ligamentaires, perturbations hépatiques, toxidermie grave.
+Effets indésirables de l'isotrétinoïne: tératogène (aucune baisse des grossesses depuis 2010), troubles psychiatriques, xérose cutanée et muqueuse, [dyslipidémie]({{% relref "dyslipidemie.md" %}}), douleurs ligamentaires, perturbations hépatiques, toxidermie grave.
 
 ### Conditions de l'utilisation de l'isotrétinoïne
 

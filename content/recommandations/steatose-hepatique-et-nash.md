@@ -133,7 +133,7 @@ Le plus souvent, la stéatopathie métabolique est découverte par des **anomali
 - Cirrhose cryptogénique  
   Les lésions histologiques de la NASH ne sont plus identifiables.
 - Terrain  
-  Surpoids/obésité (abdominale), [diabète type 2]({{% relref "diabete-type-2.md" %}}), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), dyslipidémie, [syndrome d'apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}).
+  Surpoids/obésité (abdominale), [diabète type 2]({{% relref "diabete-type-2.md" %}}), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [dyslipidémie]({{% relref "dyslipidemie.md" %}}), [syndrome d'apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}).
 - Échographie hépatique avec foie hyperéchogène
 
 > [!INFO]

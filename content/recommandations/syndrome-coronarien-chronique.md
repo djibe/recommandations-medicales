@@ -112,7 +112,7 @@ SCC
 ### Interrogatoire
 
 - Facteurs de risque cardiovasculaires  
-  Tabac, dyslipidémie, diabète (RR 2), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [obésité]({{% relref "obesite-adulte.md" %}}), hérédité cardiovasculaire (événement cardiovasculaire ou maladie cardiovasculaire au premier degré avant 55/65 ans chez un H/F).
+  Tabac, [dyslipidémie]({{% relref "dyslipidemie.md" %}}), diabète (RR 2), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [obésité]({{% relref "obesite-adulte.md" %}}), hérédité cardiovasculaire (événement cardiovasculaire ou maladie cardiovasculaire au premier degré avant 55/65 ans chez un H/F).
 - Antécédents  
   Cardiovasculaires (IDM, [FA]({{% relref "fibrillation-atriale.md" %}}), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}})), rénaux, pulmonaire, [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}}).
 - Antécédents familiaux cardiovasculaires

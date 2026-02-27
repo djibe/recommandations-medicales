@@ -111,7 +111,7 @@ Les signes cliniques sont modérés chez les caucasiennes.
 
 - Antécédents
 - Facteurs de risque cardiovasculaire  
-  [Obésité]({{% relref "obesite-adulte.md" %}}), [tabac]({{% relref "arret-tabac.md" %}}), dyslipidémie, [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), inactivité physique.
+  [Obésité]({{% relref "obesite-adulte.md" %}}), [tabac]({{% relref "arret-tabac.md" %}}), [dyslipidémie]({{% relref "dyslipidemie.md" %}}), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), inactivité physique.
 - Traitements en cours
 - Installation des symptômes
 - **Troubles menstruels**

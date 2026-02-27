@@ -193,7 +193,7 @@ Trame des éléments à relever pour un dossier médical complet.
   - MAPA régulières
   - Objectif tensionnel **< 130/80** mmHg (*ESC 2019*)
   - IEC/ARA2 dès signe d'atteinte rénale (albuminurie ++)
-- Dyslipidémie
+- [Dyslipidémie]({{% relref "dyslipidemie.md" %}})
   - L'objectif de LDL dépend de la présence ou non de maladie cardiovasculaire, mal connu en prévention primaire
   - +40 ans: considérer une statine en prévention primaire (*ESC 2023 diabetes*)
   - Avant 40 ans: considérer une statine si autres FRCV, microangiopathie ou risque à 10 ans ≥ 10 % ([modèle écossais, suédois](https://diabepi.shinyapps.io/cvdrisk/))

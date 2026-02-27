@@ -123,7 +123,7 @@ Le CHC reste longtemps **asymptomatique**, aboutissant souvent à un diagnostic 
 ### Interrogatoire
 
 - Antécédents  
-  Maladie chronique du foie, [cancer](/tags/cancer/), insuffisance d'organe, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}} ([hypertension]({{% relref "hypertension-arterielle.md" %}}), [diabète]({{% relref "diabete-type-2.md" %}}), dyslipidémie).
+  Maladie chronique du foie, [cancer](/tags/cancer/), insuffisance d'organe, {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}} ([hypertension]({{% relref "hypertension-arterielle.md" %}}), [diabète]({{% relref "diabete-type-2.md" %}}), [dyslipidémie]({{% relref "dyslipidemie.md" %}})).
 - **Facteurs de risque d'hépatopathie**: [hépatite virale](/tags/hepatite/), transfusion, tatouage, drogues IV, [alcool]({{% relref "sevrage-alcool.md" %}}), {{< modal-btn modal-metabolique >}}syndrome métabolique{{< /modal-btn >}}, [diabète](/tags/diabete/)
 - Traitements en cours
 - Tabac

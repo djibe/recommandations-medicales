@@ -121,7 +121,7 @@ Dépister les personnes à risque d'hépatite C:
 - Mésusage de l'alcool ({{< modal-btn modal-audit >}}questionnaire AUDIT{{< /modal-btn >}}, {{< modal-btn modal-deta >}}questionnaire CAGE/DETA{{< /modal-btn >}})
 - Consommation de drogues
 - Comorbidités majeures pour le traitement  
-  Hypertension artérielle, diabète, dyslipidémie et surpoids.
+  Hypertension artérielle, diabète, [dyslipidémie]({{% relref "dyslipidemie.md" %}}) et surpoids.
 - Rapports sexuels à risque
 - Antécédents de transfusion
 

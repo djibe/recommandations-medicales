@@ -31,6 +31,8 @@ todo = "photo"
 - Préparer une grossesse: le plus souvent interrompre le traitement, voire demander une [expertise au CRAT](https://www.lecrat.fr/contact-2/) pour les cas sévères
 - Le bilan lipidique n'a pas besoin d'être réalisé à jeun sauf syndrome métabolique, [diabète](/tags/diabete/) ou hypertriglycéridémie (*ESC 2021*)
 
+Chapitre lié: [dyslipidémie]({{% relref "dyslipidemie.md" %}})
+
 {{%/article-summary%}}
 {{%collapse "Intensité des statines" %}}
 

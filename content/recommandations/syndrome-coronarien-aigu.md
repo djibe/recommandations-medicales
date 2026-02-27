@@ -223,8 +223,10 @@ Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut 
 - Contrôle du risque cardiovasculaire
   - [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) (réduit décès de 40%)
   - [Arrêt de l'alcool]({{% relref "sevrage-alcool.md" %}}) (max 10 verres/semaine)
-  - {{< modal-btn modal-statine-intensite >}}Statine haute intensité{{< /modal-btn >}}  
-    LDL cible < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} et réduction ≥ 50 %. Titration par paliers de 4-6 semaines. Considérer < 0,4 g/L si nouvel événement CV ou artériopathie périphérique. (chapitre [Statines]({{% relref "statines.md" %}}))
+  - {{< modal-btn modal-statine-intensite >}}Statine haute intensité{{< /modal-btn >}}
+    - LDL cible < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} et réduction ≥ 50 %
+    - Titration par paliers de 4-6 semaines
+    - Considérer un LDL < 0,4 g/L si nouvel événement CV ou artériopathie périphérique (voir *[Dyslipidémie]({{% relref "dyslipidemie.md" %}})*)
   - Activité physique
   - Lutte contre la sédentarité
   - Correction d'un surpoids

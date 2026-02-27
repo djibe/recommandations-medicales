@@ -49,7 +49,7 @@ Anévrisme de l'aorte abdominale (AAA)
   - Âge +65 ans
   - Homme (ratio 13/1, risque vie entière 8,2%)
   - Antécédent familial au premier degré d'anévrysme de l'aorte abdominale
-- Autres facteurs de risque: hypertension, dyslipidémie, origines Caucasiennes, connectivite vasculaire, athérosclérose
+- Autres facteurs de risque: hypertension, [dyslipidémie]({{% relref "dyslipidemie.md" %}}), origines Caucasiennes, connectivite vasculaire, athérosclérose
 
 ### Abréviations
 

@@ -27,7 +27,7 @@ Le calcul SCORE2 pourrait également être **considéré** dès 40 ans chez l'ho
 
 > [!INFO]
 > << À partir de 70 ans, un traitement par statines en prévention primaire peut être envisagé en cas de risque élevé ou très élevé. >> -- *ESC 2021*  
-> Pour plus d'informations, lire le chapitre dyslipidémie.
+> Pour plus d'informations, lire le chapitre *[dyslipidémie]({{% relref "dyslipidemie.md" %}})*.
 
 Les **seuils de risque** sont à 2, 10 et 20 % (*ESC 2025*). **SCORE2-OP** signifie Systematic Coronary Risk Estimation 2-Older Persons.
 

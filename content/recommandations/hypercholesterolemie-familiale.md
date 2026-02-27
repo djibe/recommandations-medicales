@@ -29,7 +29,7 @@ flowchart = true
 - Le risque cardiovasculaire est au moins {{< modal-btn modal-rcv >}}élevé{{< /modal-btn >}}
 - Prise en charge de l'hypercholestérolémie familiale: statine de forte intensité pour LDL < 0,7 g/L et réduction ≥ 50%, ± ézétimibe ± anti-PCSK9, correction des facteurs de risque cardiovasculaire, suivi pluridisciplinaire et dépistage familial
 
-Chapitres liés: [statines]({{% relref "statines.md" %}}) et [syndrome coronarien chronique]({{% relref "syndrome-coronarien-chronique.md" %}})
+Chapitres liés: [dyslipidémie]({{% relref "dyslipidemie.md" %}}), [statines]({{% relref "statines.md" %}}) et [syndrome coronarien chronique]({{% relref "syndrome-coronarien-chronique.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

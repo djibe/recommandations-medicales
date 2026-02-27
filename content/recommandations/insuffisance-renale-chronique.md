@@ -163,7 +163,7 @@ Le suivi par le néphrologue est recommandé en cas de doute sur la nature de la
 ### 1) Interrogatoire
 
 - Antécédents personnels et familiaux de maladie rénale ou urinaire
-- Antécédents cardiovasculaires et FRCV: hypertension, diabète, tabagisme, dyslipidémie, obésité
+- Antécédents cardiovasculaires et FRCV: hypertension, diabète, tabagisme, [dyslipidémie]({{% relref "dyslipidemie.md" %}}), obésité
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire{{< /modal-btn >}}
 - Exposition aux {{< modal-btn modal-nephrotoxiques >}}néphrotoxiques{{< /modal-btn >}}
   - Professionnelle  

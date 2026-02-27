@@ -253,7 +253,7 @@ Complications à dépister chez un adulte en obésité.
 | Dentaire                        | Suivi annuel                                                                             | HAS 2023            |
 | [Diabète type 2]({{% relref "diabete-type-2.md" %}}) | Dépistage par glycémie à jeun tous les 1-3 ans                      | HAS 2023            |
 | [DMLA]({{% relref "degenerescence-maculaire-age-dmla.md" %}}) | Dépistage régulier après 50 ans ou si symptômes            | HAS 2022 DMLA       |
-| Dyslipidémie                    | Cholestérol total, HDL, LDL, triglycérides                                               | ESC/ESH 2021        |
+| [Dyslipidémie]({{% relref "dyslipidemie.md" %}})                    | Cholestérol total, HDL, LDL, triglycérides           | ESC/ESH 2021        |
 | EFR                             | Indications: IMC ≥ 30 avec dyspnée NYHA 3-4, IMC ≥ 35 et SAHOS, IMC ≥ 40                 | HAS 2023            |
 | Gaz du sang                     | Indications: IMC ≥ 35, SpO~2~ &lt; 94 % ou CPT < 85 %                                    | HAS 2023            |
 | [Grossesse]({{% relref "grossesse.md" %}}) | Prise de poids limitée à 5-9 kg                                               | SFD 2022            |

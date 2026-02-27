@@ -129,7 +129,7 @@ Les œstroprogestatifs augmentent le risque de [thromboembolie veineuse](/tags/m
   - MVTE (thrombose veineuse profonde, embolie pulmonaire) avant 50 ans  
     Ou nombre élevé d'apparentés quel que soit le degré.
 - [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
-- Dyslipidémie non contrôlée
+- [Dyslipidémie]({{% relref "dyslipidemie.md" %}}) non contrôlée
 - [Diabète type 1]({{% relref "diabete-type-1.md" %}}) depuis +20 ans ou compliqué
 - [Migraine avec aura]({{% relref "migraine.md" %}})  
   (Pourrait être considérée selon l'*ESC 2021*)
