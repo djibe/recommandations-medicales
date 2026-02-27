@@ -6,8 +6,7 @@
     </div>
     <h3 class="typography-headline-5 ml-3 mb-0">Terrain</h3>
   </div>
-  <!-- Sexe -->
-  <div class="d-flex flex-wrap">
+  <div class="d-flex flex-wrap"><!-- Sexe -->
   <div class="form-group mr-5">
     <p class="typography-overline text-black-secondary mb-0">Sexe</p>
     <input type="radio" id="score2-female" name="gender" class="d-none" value="female" checked required>
@@ -15,8 +14,7 @@
     <input type="radio" id="score2-male" name="gender" class="d-none" value="male">
     <label for="score2-male" class="chip chip-action chip-choice">Homme</label>
   </div>
-  <!-- Fumeur -->
-  <div class="form-group">
+  <div class="form-group"><!-- Fumeur -->
     <p class="typography-overline text-black-secondary mb-0">Tabagisme</p>
     <input type="radio" id="score2-nosmoker" name="smoker" class="d-none" value="0" checked required>
     <label for="score2-nosmoker" class="chip chip-action chip-choice">Non fumeur</label>
@@ -35,24 +33,21 @@
     </div>
     <h3 class="typography-headline-5 ml-3 mb-0">Mesures</h3>
   </div>
-    <!-- SBP -->
-    <div class="form-group">
-      <p class="typography-overline text-black-secondary mb-1">Pression systolique</p>
-      <div class="d-flex align-items-center">
-        <input type="text" value="130" id="sbpSlider" oninput="sbp.value = this.value">
-        <input type="number" class="form-alternative ml-3" id="sbp" value="130" min="100" max="200" required>
-      </div>
+  <div class="form-group"><!-- SBP -->
+    <p class="typography-overline text-black-secondary mb-1">Pression systolique</p>
+    <div class="d-flex align-items-center">
+      <input type="text" value="130" id="sbpSlider" oninput="sbp.value = this.value">
+      <input type="number" class="form-alternative ml-3" id="sbp" value="130" min="100" max="200" required>
     </div>
-    <!-- Cht -->
-    <div class="form-group">
-      <p class="typography-overline text-black-secondary mb-1">Cholestérol total</p>
-      <div class="d-flex align-items-center">
-        <input type="text" value="5" id="chtSlider" oninput="cht.value = this.value" required>
-        <input type="number" class="form-alternative ml-3" id="cht" value="5" min="3" max="9" required>
-      </div>
+  </div>
+  <div class="form-group"><!-- Cht -->
+    <p class="typography-overline text-black-secondary mb-1">Cholestérol total</p>
+    <div class="d-flex align-items-center">
+      <input type="text" value="5" id="chtSlider" oninput="cht.value = this.value" required>
+      <input type="number" class="form-alternative ml-3" id="cht" value="5" min="3" max="9" required>
     </div>
-    <!-- HDL -->
-    <div class="form-group">
+  </div>
+    <div class="form-group"><!-- HDL -->
       <p class="typography-overline text-black-secondary mb-1">Cholestérol HDL</p>
       <div class="d-flex align-items-center">
         <input type="text" value="1.3" id="hdlSlider" oninput="hdl.value = this.value" required>
