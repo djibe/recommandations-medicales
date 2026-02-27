@@ -16,10 +16,9 @@ tags = ["risque cardiovasculaire"]
 english = ["Dyslipidaemias"]
 sctid = "370992007"
 icd10 = ["E78.8", "E11.6"]
-draft = true
 image = true
 imageSrc = "Les classes de lipoprotéines de la dyslipidémie. macrovector / Freepik"
-todo = "liens > flow > Kanban | Hypertriglycéridémie avec ESC25dyslipp13"
+todo = "liens > flow | Hypertriglycéridémie avec ESC25dyslipp13"
 slider = true
 +++
 
@@ -108,7 +107,7 @@ Le risque cardiovasculaire doit être réévalué régulièrement.
 > Un taux de LDL élevé dès le jeune âge est associé à un surcroît d'évènements cardiovasculaires.
 
 {{% /collapse %}}
-{{%collapse "Prévention primaire - SCORE2 et SCORE2-OP" "show" %}}
+{{%collapse "Prévention primaire - SCORE2 et SCORE2-OP" %}}
 
 {{< scores/score2 >}}
 
@@ -119,7 +118,10 @@ Le risque cardiovasculaire doit être réévalué régulièrement.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
+> [!INFO]
 > << La réalisation d'un bilan lipidique est conseillée chez tous les adultes. Sans anomalie, il n'est pas nécessaire de le recontrôler avant 5 ans. >> -- *Collège de cardiologie*
+
+### Bilan d'une dyslipidémie
 
 - Bilan lipidique (EAL, sans jeûner *ESC 2021*)  
   2 dosages espacés de 1-12 semaines. Jeûne privilégié en cas de syndrome métabolique, diabète, hypertriglycéridémie.
@@ -131,15 +133,15 @@ Le risque cardiovasculaire doit être réévalué régulièrement.
 - Pré-thérapeutique: ALAT, CPK
 - Selon le niveau de risque cardiovasculaire: consultation de cardiologie
 
-> En cas de LDL très élevé (> 2 g/L), évoquer une hypercholestérolémie familiale et adresser au spécialiste (TODO:).
+> En cas de LDL très élevé (> 2 g/L), évoquer une [hypercholestérolémie familiale]({{% relref "hypercholesterolemie-familiale.md" %}}) et adresser au spécialiste.
 
 {{% /collapse %}}
 {{%collapse "Mesures générales et diététiques" %}}
 
 > [!INFO]
-> Les mesures hygiéno-diététiques sont systématiques quelque soit la forme de dyslipidémie. << Les acides gras saturés (AGS) sont le facteur diététique ayant le plus fort impact sur le taux de LDL. >> -- *ESC/EAS 2019*
+> Les mesures hygiéno-diététiques sont systématiques quelle que soit la forme de dyslipidémie. << Les acides gras saturés (AGS) sont le facteur diététique ayant le plus fort impact sur le taux de LDL. >> -- *ESC/EAS 2019*
 
-Recommandations générales universelles pour la prévention cardiovasculaire:
+### Recommandations générales universelles pour la prévention cardiovasculaire
 
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}} ou DASH
 - Correction des facteurs de risque cardiovasculaire
@@ -150,25 +152,26 @@ Recommandations générales universelles pour la prévention cardiovasculaire:
   - Correction d'un surpoids et d'une obésité abdominale (tour de taille femme/homme ≥ 88/102 cm)
   - Dépistage de l'[hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
 
+> Les acides gras monoinsaturés **oméga 3 et oméga 6** sont les acides gras privilégiés. Les apports quotidiens en **cholestérol** devraient être réduits à moins de 300 mg/j.
+
 ---
+{.my-5}
 
-> Les acides gras monoinsaturés oméga 3 et oméga 6 sont les acides gras privilégiés. Les apports quotidiens en **cholestérol** devraient être réduits à moins de 300 mg/j.
-
-Mesures diététiques pour la réduction du LDL et des triglycérides:
+**Mesures diététiques pour la réduction du LDL et des triglycérides:**
 
 - Éviter les graisses trans (aliments transformés)
 - Réduire les **graisses saturées**
 - Augmenter les apports en fibres (légumes, fruits, céréales complètes)
 - Correction d'un surpoids
 
-Mesures diététiques pour la réduction des triglycérides:
+**Mesures diététiques pour la réduction des triglycérides:**
 
 - Perte de poids, réduire l'alcool et les sucres (dont le fructose)
 - Réduire les graisses saturées
 - Augmenter les apports en oméga 3
 - Activité physique
 
-Mesures diététiques pour l'augmentation du HDL cholestérol:
+**Mesures diététiques pour l'augmentation du HDL cholestérol:**
 
 - Éviter les acides gras trans
 - Activité physique
@@ -210,16 +213,18 @@ Seuil pour l'introduction d'une ==**statine**== selon le risque cardiovasculaire
   - LDL cible < 0,55 g/L et réduction d'au moins 50 %
 - **Risque cardiovasculaire extrême** (événements récurrents sous dose maximale, coronaropathie et artériopathie périphérique):
   - Statine de haute intensité systématique (quel que soit le LDL)
-  - LDL cible < 0,4 g/L
+  - LDL cible < 0,4 g/L et réduction d’au moins 50 %
 
-Et systématique: VIH +40 ans, greffe d'organe, risque (très) élevé avec chimiothérapie cardiotoxique (anthracycline).
+> Une statine est recommandée **de façon systématique** en cas de: VIH +40 ans, greffe d'organe, risque (très) élevé avec chimiothérapie cardiotoxique (anthracycline).
 
-Chez le +75 ans, en prévention primaire, la statine pourrait être considéré en cas de SCORE2-OP définissant un risque cardiovasculaire élevé (*ESC/EAS* 2019).
+**Chez le +75 ans en prévention primaire**, une statine pourrait être considérée en cas de SCORE2-OP définissant un risque cardiovasculaire élevé chez un sujet en bonne santé (*ESC/EAS* 2019).
+
+---
+{.my-4}
 
 {{< traitements/statine-intensite >}}
 
-Après toute introduction ou modification du dosage, contrôle du LDL et ALAT à 8 semaines (±4), puis au moins annuel.
-
+> [!INFO]
 > Pour plus de détail, lire le chapitre [statines]({{% relref "statines.md" %}}).
 
 ### Autres traitements médicamenteux de la dyslipidémie
@@ -231,7 +236,7 @@ Les traitements médicamenteux suivants ont un bénéfice cardiovasculaire. Ils 
 - Cholestyramine
 - Acide bempédoïque (Nilemdo®)
 
-| Classe | ↘ LDL (%) |
+| Classe thérapeutique | ↘ LDL (%) |
 | ------ | ------: |
 | Ézétimibe (EZE) | 20 |
 | Acide bempédoïque (AB) | 23 |
