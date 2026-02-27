@@ -27,7 +27,7 @@ todo = "rankok | flow"
 - Les signes et symptômes de sciatique sont une installation aiguë des paresthésies et douleurs de la fesse et de la face latérale du membre inférieur
 - Les signes de gravité urgents sont un déficit moteur, une hyperalgie, un syndrome de la queue de cheval, une rétention urinaire, une incontinence anale
 - En cas de tableau typique, aucun bilan n'est réalisé les 6 à 8 premières semaines. Sinon l'IRM lombaire est l'examen de référence
-- La prise en charge de la sciatique sans signe de gravité associe: information du patient, antalgie (AINS, palier), poursuite des activités avec repos relatif, thérapies manuelles envisageables. En cas d'échec: infiltration de corticoïdes. En cas de forme chronique: kinésithérapie et médecine du travail
+- La prise en charge de la sciatique sans signe de gravité associe: information du patient, antalgie (AINS, palier 1), poursuite des activités avec repos relatif, thérapies manuelles envisageables. En cas d'échec: infiltration de corticoïdes. En cas de forme chronique: kinésithérapie et médecine du travail
 - Avis orthopédique en cas d'échec du traitement médical et des infiltrations
 
 {{%/article-summary%}}

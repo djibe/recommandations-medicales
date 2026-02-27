@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-14T18:30:29+02:00"
 publishdate = "2020-07-14"
-lastmod = "2025-11-03"
+lastmod = "2026-02-27"
 specialites = ["neurologie", "rhumatologie"]
 annees = "2024"
 sources = ["AAOS", "HAS", "Ameli"]
@@ -266,6 +266,7 @@ diagnostic -- Diagnostic différentiel --> différentiel("- Atteintes radiculair
 
 {{< youtube id="U8cPjPeZgFw" title="Le signe de Tinel" >}}
 
+- [CBIP. Syndrome du canal carpien: chirurgie ou infiltration locale?. Folia. 2026.](https://www.cbip.be/fr/articles/4723?folia=4726)
 - [Ameli. Aide à la pratique : syndrome du canal carpien. 26/02/2025.](https://www.ameli.fr/exercice-coordonne/exercice-professionnel/memos/aide-pratique-syndrome-canal-carpien)
 - [American Academy of Orthopaedic Surgeons. Management of Carpal Tunnel Syndrome Evidence-Based Clinical Practice Guideline. 2024. (PDF)](https://www.aaos.org/globalassets/quality-and-practice-resources/carpal-tunnel/carpal-tunnel-2024/cts-cpg.pdf)
 - [Santé Publique France. Syndrome du canal carpien. 02/04/2024.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-liees-au-travail/troubles-musculo-squelettiques/donnees/syndrome-du-canal-carpien)

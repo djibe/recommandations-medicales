@@ -143,7 +143,7 @@ Alternative si disponible, 500 mL de soluté glucosé 10 % (G10%) en IV est poss
 - Insuline: réévaluer les doses voire revoir les objectifs glycémiques
 - Capacités de contrôle de la glycémie: capteur de glycémie, autosurveillance glycémique (ASG)
 - Éducation thérapeutique  
-  Définition, facteurs de risque d'hypoglycémie, signes et symptômes, technique de resucrage, disposer sur soir de 3 sucres, adaptation du traitement.
+  Définition, facteurs de risque d'hypoglycémie, signes et symptômes, technique de resucrage, disposer sur soit de 3 sucres, adaptation du traitement.
 - Information du patient: [guide Ameli](https://www.ameli.fr/assure/sante/themes/diabete-adulte/diabete-symptomes-evolution/acido-cetose-hypoglycemie-hyperglycemie)
 - Si insuline avec hypoglycémie de niveau 2 ou 3 (< 0,54 g/L): prescription de glucagon avec l'éducation de l'entourage
 - Contrôle glycémique avant la conduite automobile, avec sucre liquide à portée de main. Éviter l'injection d'insuline avant de rouler. S'arrêter pour contrôler la glycémie au moindre doute.

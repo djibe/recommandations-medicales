@@ -162,7 +162,7 @@ Recommandations pour le bilan de première intention en ambulatoire en cas de su
 L'avis d'un endocrinologue de la *filière des maladies de la surrénale* est nécessaire en cas de résultat anormal:
 
 - Cortisolurie des 24 heures augmentée > 3-4 fois la borne supérieure
-- Freinage minute avec **cortisolémie > 50 nmol/L** (18 µg/L)
+- Test de freinage minute avec **cortisolémie > 50 nmol/L** (18 µg/L)
 - Concentration du cortisol salivaire vespéral augmentée (norme du laboratoire)
 
 Sur prescription spécialisée, le bilan d'imagerie du syndrome de Cushing comprend une IRM cérébrale (Cushing-ACTH dépendant) ou un scanner surrénalien (Cushing-ACTH indépendant).

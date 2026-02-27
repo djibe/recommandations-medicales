@@ -198,7 +198,6 @@ Vaccins hépatite B à partir de 16 ans:
 
 - [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62279329/extrait#tab-rcp)  
   Ne doit pas être injecté dans le fessier.
-- [HBVaxPro 10® (PDF)](https://base-donnees-publique.medicaments.gouv.fr/medicament/64646891/extrait#tab-rcp-et-notice)
 
 - 3 doses à M0-M1-M6
 - **Schéma accéléré** par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62279329/extrait#tab-rcp) à J0-J7-J21 et rappel à 12 mois  

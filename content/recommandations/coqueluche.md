@@ -154,12 +154,12 @@ Pas d'examen complémentaire après 21 jours de symptômes (le diagnostic est cl
   Apnées, bradycardies, limitation de l'alimentation.
 {{%/warning%}}
 
-### Personnes à risque de forme grave
+### Personnes à risque de forme grave de coqueluche
 
-- **Haut risque de forme grave**
+- **Haut risque de forme grave:**
   - Nourrissons < 6 mois
   - Nourrissons 6-11 mois incomplètement vaccinés ou dont la dernière est < 2 semaines
-- Risque de forme grave
+- Risque de forme grave:
   - +80 ans
   - Maladie respiratoire chronique
   - Immunodépression
@@ -226,7 +226,7 @@ Prise en charge de la coqueluche:
 
 {{%info%}}
 Antibiothérapie de la coqueluche: uniquement durant les **3 premières semaines d'évolution** pour réduire la contagiosité.  
-Ne traiter un *B. parapertussis* pauci-symptomatique qu'en présence de personne à risque dans son entourage (*HCSP 2022*).
+Ne traiter une coqueluche à *B. parapertussis* pauci-symptomatique qu'en présence de personne à risque dans son entourage (*HCSP 2022*).
 
 Antibiothérapie de la coqueluche par un macrolide (*SPILF 2025*, *HAS/SPILF/GPIP 2024*):
 
