@@ -2,38 +2,38 @@
 id = "019b45fc-0a64-75e3-8bb4-59690dd11f40"
 title = "Dyslipidémie"
 prefix = "la "
-description = "TODO:"
+description = "Recommandations pour le diagnostic et la prise en charge de la dyslipidémie. Evaluation du risque cardiovasculaire, SCORE2 en prévention primaire et traitement par statine"
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-12-22T13:14:46+01:00"
-publishdate = "2026-02-13"
-lastmod = "2026-02-13"
+publishdate = "2026-02-27"
+lastmod = "2026-02-27"
 specialites = ["cardiologie", "endocrinologie"]
 annees = "2025"
 sources = ["ESC", "EAS"]
 tags = ["risque cardiovasculaire"]
-english = ["English word"]
-sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = ["sctid > Concept Details > Refsets"]
+english = ["Dyslipidaemias"]
+sctid = "370992007"
+icd10 = ["E78.8", "E11.6"]
 draft = true
-image = false
-imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow > Kanban | Update Fiche VIH, Hypertryglicéridémie avec ESC25dyslipp13 | moduler SCORE2 sur page du score, FH"
+image = true
+imageSrc = "Les classes de lipoprotéines de la dyslipidémie. macrovector / Freepik"
+todo = "liens > flow > Kanban | Hypertriglycéridémie avec ESC25dyslipp13"
+slider = true
 +++
 
 {{%article-summary%}}
 
-TODO: (at the end) | RHD | suivi
-
-- Le LDL cholestérol (LDL) est une apolipoprotéine-B constituant la plaque d'athérome, et un facteur de risque majeur du risque cardiovasculaire (RCV)
-- Le dosage du LDL (sans jeûner) est recommandé au moins une fois dans la vie et dès 40 ans pour l'évaluation du risque cardiovasculaire, puis répété selon le niveau de risque
+- Le LDL cholestérol (LDL) est une apolipoprotéine-B constituant la plaque d'athérome et un facteur de risque majeur du risque cardiovasculaire (RCV)
+- Le dosage du LDL (sans jeûner) est recommandé au moins une fois dans la vie, en cas de facteur de risque cardiovasculaire et dès 40 ans pour l'évaluation du risque cardiovasculaire, puis surveillé selon le niveau de risque
 - La prise en charge de la dyslipidémie débute par la recherche d'une cause secondaire d'hypercholestérolémie (hypothyroïdie, œstrogènes) et des autres facteurs de risque cardiovasculaires (hypertension artérielle, tabac, diabète, hérédité)
-- Après ce bilan initial, déterminer le risque cardiovasculaire (au moins élevé en cas de maladie cardiovasculaire ou à déterminer en cas de prévention primaire avec le SCORE2). Ce risque doit être incrémenté ou affiné par le cardiologue en cas de facteur aggravant (VIH, obésité, maladie inflammatoire ...)
-- La présence de maladie cardiovasculaire ou le résultat du SCORE2 détermine les objectifs du traitements correspondant au niveau de risque (facteurs de risque, mode de vie, statine)
-- La statine est le traitement de référence de la dyslipidémie en cas de risque cardiovasculaire marquée. Sa titration est rapide jusqu'à l'atteinte des cibles de réduction du LDL et du taux de LDL (avec ajout d'ézétimibe si nécessaire)
-- Le suivi spécialisé cardiologique est systématique en cas de risque cardiovasculaire marqué ou de cible lipidique non atteinte
+- Après ce bilan initial, déterminer le risque cardiovasculaire (au moins élevé en cas de maladie cardiovasculaire ou déterminé par le SCORE2). Ce risque (de faible à extrême) doit être incrémenté ou affiné par le cardiologue en cas de facteur aggravant (VIH, obésité, maladie inflammatoire ...)
+- La présence d'une maladie cardiovasculaire -- ou le résultat du SCORE2 en prévention primaire -- détermine la cible de LDL et les traitements correspondant au niveau de risque (contrôle des facteurs de risque, mode de vie, statine)
+- Une statine est le traitement de référence de la dyslipidémie en cas de risque cardiovasculaire marqué. Sa titration est rapide jusqu'à l'atteinte des cibles de réduction du LDL et du taux de LDL (avec ajout d'ézétimibe ou autres si nécessaire)
+- Le suivi spécialisé cardiologique est systématique en cas de risque cardiovasculaire marqué, de cible lipidique non atteinte ou d'interrogation sur le risque cardiovasculaire
 
-Chapitres liés: [statines]({{% relref "statines.md" %}}), hypertriglycéridémie
+Chapitres liés: [SCORE2]({{% relref "score2.md" %}}), [statines]({{% relref "statines.md" %}}), ~~hypertriglycéridémie~~
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -57,7 +57,7 @@ EAS
 ESC
 : {{%lang%}}European Society of Cardiology{{%/lang%}}
 
-LDL
+LDL cholestérol
 : {{%lang%}}Low Density Lipoprotein{{%/lang%}} (lipoprotéines de basse densité)
 
 RCV
@@ -72,7 +72,7 @@ SCORE2
 
 > [!INFO]
 > L'objectif de l'estimation du risque cardiovasculaire est d'identifier les sujets à risque élevé d'athérome, amenés à bénéficier d'une réduction signification du LDL cholestérol et autres facteurs de risque modifiables d'athérome.
-> Le bénéfice dépend du niveau relatif de cette réduction du LDL-C, et doit être d'autant plus forte que le cholestérol est élevé. Il est d'autant plus fort que débuté tôt (*ESC/EAS 2025*).
+> Le bénéfice dépend du niveau relatif de cette réduction du LDL-C, et doit être d'autant plus forte que le cholestérol est élevé. Ce bénéfice est d'autant plus fort que débuté tôt (*ESC/EAS 2025*).
 
 Le risque cardiovasculaire doit être réévalué régulièrement.
 
@@ -81,62 +81,40 @@ Le risque cardiovasculaire doit être réévalué régulièrement.
 - **Facteurs de risque cardiovasculaires**
   - Âge et sexe, hérédité cardiovasculaire (infarctus du myocarde, AVC, mort subite)
   - Tabagisme, [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [diabète](/tags/diabete/)
-- Autres antécédents: **maladie cardiovasculaire** ([AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), [infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) ...), **maladie rénale** chronique, goutte, maladie inflammatoire, BPCO, VIH, stress
+- Autres antécédents: [hypercholestérolémie familiale]({{% relref "hypercholesterolemie-familiale.md" %}}), **maladie cardiovasculaire** ([AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), [infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) ...), **maladie rénale** chronique, goutte, maladie inflammatoire, BPCO, VIH, stress
 - Antécédents familiaux cardiovasculaires
 - **Causes d'hyperlipidémie secondaire**  
-  Hypothyroïdie, cholestase, syndrome néphrotique et insuffisance rénale chronique, alcool, diabète, médicamenteuse (œstrogènes, corticoïdes, rétinoïdes, antirétroviraux, ciclosporine, diurétiques, bêtabloquants).
+  [Hypothyroïdie]({{% relref "hypothyroidie.md" %}}), cholestase, syndrome néphrotique et [insuffisance rénale chronique]({{% relref "insuffisance-cardiaque-chronique.md" %}}), alcool, diabète, médicamenteuse (œstrogènes, corticoïdes, rétinoïdes, antirétroviraux, ciclosporine, diurétiques, bêtabloquants).
 - Alcool, toxiques (cocaïne, cannabis ...)
-- {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
+- {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}  
+  Plus systématique en cas de maladie cardiovasculaire (AVC, fibrillation atriale, diabète).
 
 ### Examen clinique
 
 - Pression artérielle, fréquence cardiaque
 - Poids, taille, IMC
 - Auscultation cardio-respiratoire
-- Palpation des pouls périphériques
+- Auscultation et palpation des pouls périphériques
 - Examen des tendons et de l'iris
 
 {{% /collapse %}}
-{{%collapse "Estimation du risque cardiovasculaire" %}}
-
-### Niveau de risque cardiovasculaire
+{{%collapse "Prévention secondaire - Niveau de risque cardiovasculaire" %}}
 
 {{< clinique/risque-cardiovasculaire >}}
 
-En cas de diabète, le risque cardiovasculaire est évalué en prévention primaire avec le {{< scores/score2-diabetes >}} (application ESC CVD Risk).
+**En cas de diabète**, le risque cardiovasculaire est évalué en prévention primaire avec le {{< scores/score2-diabetes >}}.
 
+> [!INFO]
 > Un taux de LDL élevé dès le jeune âge est associé à un surcroît d'évènements cardiovasculaires.
 
-### Estimation du risque cardiovasculaire en prévention primaire: SCORE2 et SCORE2-OP
+{{% /collapse %}}
+{{%collapse "Prévention primaire - SCORE2 et SCORE2-OP" "show" %}}
 
-TODO: SCORE2
+{{< scores/score2 >}}
 
-Le SCORE2 a peu de paramètres, les autres facteurs de risque suivant doivent être pris en considération, d'autant plus  lorsque le risque est proche des seuils, pour reclassifier le niveau de risque cardiovasculaire:
+{{< scores/score2-calc >}}
 
-- Paramètres démographiques
-  - Hérédité cardiovasculaire (hommes avant 55 ans, femmes avant 60 ans)
-  - Origines à haut risque (Asie du Sud ++)
-  - Facteurs de stress psychosociaux
-  - Précarité
-- Paramètres cliniques
-  - Stress
-  - Obésité
-  - Sédentarité
-  - Migraine avec aura (*ESC 2021*)
-  - Maladie inflammatoire
-  - Trouble psychiatriques sévère
-  - Ménopause précoce
-  - Prééclampsie ou trouble hypertensif de la grossesse
-  - VIH (RR 2)
-  - Syndrome d'apnée obstructive du sommeil (SAHOS)
-  - Greffe d'organe
-- Biomarqueurs
-  - CRPus constamment élevée (> 2 mg/L)
-  - Taux élevé de Lp(a) > 50 mg/dL (> 105 nmol/L)
-- Imageries
-  - Plaque artérielle carotidienne ou fémorale
-  - Score calcique marqué (CAC score)  
-    Interprétation délicate sous traitement par statine.
+{{< scores/score2-modif >}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

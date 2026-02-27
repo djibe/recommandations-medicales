@@ -6,7 +6,7 @@ noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-02-17T19:00:00+02:00"
 publishdate = "2026-02-17"
-lastmod = "2026-02-20"
+lastmod = "2026-02-27"
 specialites = ["cardiologie"]
 tags = ["risque cardiovasculaire"]
 sctid = ""
@@ -34,6 +34,8 @@ Les **seuils de risque** sont à 2, 10 et 20 % (*ESC 2025*). **SCORE2-OP** signi
 {{< scores/score2 >}}
 
 {{< scores/score2-calc >}}
+
+{{< scores/score2-modif >}}
 
 {{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
