@@ -59,7 +59,7 @@
     "dwv": "0.36.1",
     "dwv-simplistic": "^0.10.0",
     "hint": "^7.1.13",
-    "html-validate": "^10.7.0",
+    "html-validate": "^10.9.0",
     "hugo-extended": "^0.145.0",
     "instant.page": "^5.2.0",
     "linkinator": "^6.1.4",
@@ -68,7 +68,7 @@
     "vnu-jar": "^25.12.31"
   },
   "dependencies": {
-    "autoprefixer": "^10.4.24",
+    "autoprefixer": "^10.4.27",
     "csv-parser": "^3.2.0",
     "postcss": "^8.5.6",
     "postcss-cli": "^11.0.1"
