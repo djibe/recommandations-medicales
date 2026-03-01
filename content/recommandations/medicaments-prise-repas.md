@@ -11,9 +11,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-04-25T14:08:50+02:00"
 publishdate = "2024-04-25"
-lastmod = "2025-05-30"
+lastmod = "2026-03-01"
 specialites = ["thérapeutique"]
-annees = "2025"
+annees = "2026"
 sources = ["BDPM"]
 tags = []
 english = []
@@ -21,6 +21,7 @@ sctid = ""
 icd10 = []
 image = true
 imageSrc = "Moment de prise des médicaments et repas. Freepik"
+todo = "update 2026"
 datatable = true
 +++
 

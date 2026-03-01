@@ -18,7 +18,7 @@ sctid = "370992007"
 icd10 = ["E78.8", "E11.6"]
 image = true
 imageSrc = "Les classes de lipoprotéines de la dyslipidémie. macrovector / Freepik"
-todo = "liens > flow | Hypertriglycéridémie avec ESC25dyslipp13"
+todo = "flow | Hypertriglycéridémie avec ESC25dyslipp13"
 slider = true
 +++
 

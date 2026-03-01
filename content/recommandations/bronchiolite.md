@@ -31,7 +31,7 @@ todo = "rankok | SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/
 - Critères d'hospitalisation de la bronchiolite: voir *Signes de gravité et hospitalisation*
 - La dyspnée dure de 3 à 10 jours (voire 6 semaines)
 - Recommandations de prise en charge de la bronchiolite: éviction en phase aiguë - DRP - fractionner les repas - surveillance - aucune exposition au tabac
-- Prévention de la bronchiolite: mesures barrières, vaccin anti-VRS en fin de grossesse voire injection IM d'anticorps **nirsévimab** Beyfortus® avant la sortie de maternité de septembre à fin janvier. Rattrapage pour ceux nés après le 1^er^ février avec 1 seule injection selon le poids (voir *[Prévention](#prévention-de-la-bronchiolite))* en l'absence de test VRS positif
+- Prévention de la bronchiolite: mesures barrières, vaccin anti-VRS en fin de grossesse voire injection IM d'anticorps **nirsévimab** Beyfortus® avant la sortie de maternité de septembre à fin janvier (ou février). Rattrapage pour ceux nés après le 1^er^ février avec 1 seule injection selon le poids (voir *[Prévention](#prévention-de-la-bronchiolite))* en l'absence de test VRS positif
 
 Bronchiolite: [conseils aux parents de la HAS (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf).
 
@@ -273,7 +273,7 @@ Hors grossesse, le vaccin anti-VRS est recommandé à partir de **75 ans** ou ch
 
 Indications à la prévention de la bronchiolite par une immunisation passive avec l'anticorps monoclonal nirsévimab:
 
-- Pour 2025-2026: la **campagne** est terminée (de septembre à janvier)  
+- Pour 2025-2026: la **campagne** est terminée (de septembre à janvier-février, pour 2026: 20 février)  
   Au mieux avant la sortie de maternité (rattrapage en ville sinon).
 - Pour tous les nourrissons nés depuis février 2025 sauf vaccination maternelle anti-VRS
 - Une seule injection IM de nirsévimab (Beyfortus®)

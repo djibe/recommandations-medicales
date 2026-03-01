@@ -140,7 +140,7 @@ et doxycycline 100 mg x 2/j pendant 7 jours
 
 Symptômes classiques des urétrites et cervicites: leucorrhées, dyspareunies, spotting, urétrite, cystalgies (douleurs vésicales).
 
-La prise en charge d'une urétrite ou d'une cervicite non compliquée associe:
+Recommandations pour la prise en charge d'une urétrite ou d'une cervicite non compliquée:
 
 - Prélèvements microbiologiques
   - Auto-prélèvement vaginal (et autres sites: urètre, pharynx, anus) et PCR gonocoque/Chlamydia  

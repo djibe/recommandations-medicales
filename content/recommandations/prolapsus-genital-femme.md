@@ -178,6 +178,7 @@ Adresser à tout spécialiste en gynécologie (généraliste, gynécologue, sage
 
 Éléments à connaître sur les pessaires:
 
+- Certains pessaires sont remboursables
 - Échec: essai d'autres modèles de pessaires
 - Port occasionnel ou en continu (sauf certains modèles, suivi minimum semestriel)  
   Nécessite un suivi gynécologique régulier.
@@ -247,10 +248,9 @@ Informations à délivrer concernant le prolapsus génital:
 
 [HAS 2022. Le pessaire gynécologique : à quoi ça sert ? Comment l'utiliser ? (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2022-04/reco443_fiche_patient_pessaire_prolapsus__cd_2022_04_28_v0.pdf)
 
-Les pessaires peuvent être proposés à la majorité des patientes présentant un prolapsus génital.  
-Les pessaires les plus fréquemment proposés sont les pessaires anneau et cube.  
-Le pessaire anneau est plus facile d'utilisation et sera adapté dans la majorité des cas.  
-Le pessaire cube sera plutôt proposé aux femmes jeunes, pour une utilisation à la demande.
+Les pessaires peuvent être proposés à la majorité des patientes présentant un prolapsus génital. Les plus fréquemment proposés sont les pessaires anneau et cube.
+
+Le pessaire anneau est plus facile d'utilisation et sera adapté dans la majorité des cas. Le pessaire cube sera plutôt proposé aux femmes jeunes, pour une utilisation à la demande.
 
 Le pessaire Donut sera plutôt utilisé en seconde intention car il peut être difficile à insérer dans le vagin. Le pessaire Dish est parfois utilisé en cas de fuites urinaires associées au prolapsus.
 

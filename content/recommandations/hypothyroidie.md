@@ -138,7 +138,7 @@ T4L
 - Cause transitoire  
   Accouchement, iode 131, thyroïdectomie partielle, douleurs cervicales récentes.
 - Antécédents familiaux (auto-immuns ++)
-- Traitements
+- Traitements  
   Amiodarone, lithium, IFNa, inhibiteurs tyrosine kinase, iode 131, radiothérapie cervicale, thyroïdectomie.
 - Symptômes
 
