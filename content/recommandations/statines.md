@@ -2,14 +2,14 @@
 id = "0190e8cc-0822-76c4-8103-8d9ae727d7a2"
 title = "Statines"
 prefix = "les "
-description = "Recommandations pour la prise en charge de la dyslipidémie par statines. Intensité de la statine, objectif de LDL selon le risque cardiovasculaire: simvastatine"
-synonyms = ["Hypolipémiants"]
+description = "Recommandations pour la prise en charge de la dyslipidémie par statines. Intensité de la statine, objectif de LDL selon le risque cardiovasculaire"
+synonyms = ["Hypolipémiants", "hypocholestérolémiant"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-17T13:36:17+01:00"
 publishdate = "2022-03-17"
-lastmod = "2024-01-29"
+lastmod = "2026-03-01"
 specialites = ["cardiologie", "thérapeutique"]
-annees = "2023"
+annees = "2025"
 sources = ["ESC", "USPTF", "ESH", "SFC"]
 tags = ["risque cardiovasculaire"]
 english = ["Statin"]
@@ -19,17 +19,16 @@ atc = "C10AA"
 image = true
 imageSrc = "Illustration des statines par macrovector / Freepik"
 todo = "photo"
+slider = true
 +++
 
 {{%article-summary%}}
 
-- Comparaison de l'intensité des différentes statines pour la réduction du LDL (voir *Intensité*)  
-  Pour une baisse du LDL cholestérol supérieure à 50%: statine de haute intensité atorvastatine 40 ou rosuvastatine 20 mg ou plus.
-- La cible de LDL dépend de la présence d'une maladie cardiovasculaire ou du [SCORE2]({{% relref "score2.md" %}}) en prévention primaire
-- Statines et effets indésirables: 90 % des myalgies sont attribuables à un effet nocebo; elles surviennent la première année (sauf statine de haute intensité). Ne pas prendre de pamplemousse
-- L'arrêt d'une statine entraîne une surmortalité cardiovasculaire de 20%
-- Préparer une grossesse: le plus souvent interrompre le traitement, voire demander une [expertise au CRAT](https://www.lecrat.fr/contact-2/) pour les cas sévères
-- Le bilan lipidique n'a pas besoin d'être réalisé à jeun sauf syndrome métabolique, [diabète](/tags/diabete/) ou hypertriglycéridémie (*ESC 2021*)
+- Les statines, inhibitrices de l'HMG-CoA réductase, sont une classe de médicaments hypocholestérolémiants de référence pour le contrôle du risque cardiovasculaire
+- Le bilan lipidique n'a pas besoin d'être réalisé à jeun sauf syndrome métabolique, [diabète](/tags/diabete/) ou hypertriglycéridémie
+- La cible de LDL cholestérol dépend de la présence d'une maladie cardiovasculaire ou des facteurs de risque en prévention primaire, déterminé par le [SCORE2]({{% relref "score2.md" %}})
+- Les statines donnent peu d'effets indésirables: 90 % des myalgies sont attribuables à un effet nocebo; elles surviennent la première année (sauf statine de haute intensité). Le pamplemousse doit toutefois être évité au cours du traitement
+- L'arrêt d'une statine pour un traitement normalement justifié entraîne une surmortalité cardiovasculaire de 20 %
 
 Chapitre lié: [dyslipidémie]({{% relref "dyslipidemie.md" %}})
 
@@ -39,12 +38,14 @@ Chapitre lié: [dyslipidémie]({{% relref "dyslipidemie.md" %}})
 {{< traitements/statine-intensite >}}
 
 {{% /collapse %}}
-{{%collapse "Objectif de LDL cholestérol" %}}
+{{%collapse "Indications aux statines: le risque cardiovasculaire" %}}
 
 > [!INFO]
 > << Le traitement par statine est associé à une réduction des complications cardiovasculaires proportionnelle à la baisse du LDL-cholestérol >>. -- *ESH 2023*
 
 La réduction du LDL cholestérol a les mêmes bénéfices cardiovasculaires chez les 2 sexes (*ESC 2021*).
+
+[Statine en prévention primaire](#statine-en-prévention-primaire) - [Statine en prévention secondaire](#statine-en-prévention-secondaire-ou-comorbidités)
 
 ### Statine en prévention secondaire ou comorbidités
 
@@ -52,25 +53,18 @@ La cible de LDL cholestérol dépend des antécédents cardiovasculaires figuran
 
 {{< clinique/risque-cardiovasculaire >}}
 
-L'[évaluation chez la personne avec un diabète]({{% relref "diabete-type-2.md" %}}) est différente.
-
 ### Statine en prévention primaire
 
-Selon la *ESC 2025*, la cible de LDL est définie selon le [SCORE2]({{% relref "score2.md" %}}) à partir de 40 ans en cas de facteur de risque ({{< scores/score2-diabetes >}} en cas de diabète) ...  
+Selon la *ESC 2025*, la cible de LDL est définie selon le [SCORE2]({{% relref "score2.md" %}}) à partir de 40 ans en cas de facteur de risque; et ({{< scores/score2-diabetes >}} en cas de diabète) ...  
 en l'absence de maladie cardiovasculaire, de comorbidité ([diabète](/tags/diabete/), hypercholestérolémie familiale, [maladie rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})) ou de [grossesse]({{% relref "grossesse.md" %}}).
 
 Toutefois la ESC appelle à un **LDL inférieur à 1,16 g/L** pour tous à tous les âges.
 
-Selon l'avis indépendant de la *USPTF 2022*, une statine est recommandée pour si tous les critères suivant sont remplis:
+{{< scores/score2 >}}
 
-- Adulte de 40 à 75 ans
-- Risque cardiovasculaire à 10 ans ≥ 10 % (calcul du [SCORE2]({{% relref "score2.md" %}}))  
-  Pour certains patients si risque compris de 7,5 à 9,9 %.
-- Avec ≥ 1 autre facteur de risque cardiovasculaire: dyslipidémie, [diabète](/tags/diabete/), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [tabagisme]({{% relref "arret-tabac.md" %}})
+{{< scores/score2-calc >}}
 
-La USPTF ajoute qu'il n'y a pas de bénéfice à initier une statine en prévention primaire à partir de 76 ans.
-
-> -- *[US Preventive Services Task Force. Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2022.13044)*
+{{< scores/score2-modif >}}
 
 {{% /collapse %}}
 {{%collapse "Surveillance d'une statine" %}}
@@ -79,10 +73,10 @@ Débuter un traitement par statine:
 
 - Contrôler le bilan lipidique 1-12 semaines après le bilan initial (sauf très haut risque ou syndrome coronarien aigu)
 - Bilan pré-thérapeutique: ALAT, CPK  
-  Ne pas démarrer si CPK > 4N (surveiller les CPK)
+  Ne pas démarrer si CPK > 4N (surveiller les CPK).
 - Contraception efficace (voir *Statines, grossesse et allaitement*)
-- Surveiller
-  - Le bilan lipidique 4-12 semaines après chaque modification
+- Surveiller:
+  - Le bilan lipidique 8 semaines (4 à 12) après chaque modification
   - Les ALAT 8-12 semaines après chaque augmentation de posologie
   - Les CPK en cas de myalgies
 - Surveillance annuelle du LDL après atteinte de la cible
@@ -92,7 +86,7 @@ Débuter un traitement par statine:
 
 ### Statines et sur-risque de diabète
 
-Les statines entraînent un sur-risque de diabète de 9%, négligeable par rapport à la réduction des complications cardiovasculaires qu'elles engendrent chez la personne vivant avec un diabète.
+Les statines entraînent un sur-risque de diabète de 9 %, négligeable par rapport à la réduction des complications cardiovasculaires qu'elles engendrent chez la personne vivant avec un diabète.
 
 > -- *{{< references/esc-diabetes-2023 >}}*
 
@@ -100,13 +94,13 @@ Les statines entraînent un sur-risque de diabète de 9%, négligeable par rappo
 
 Les myalgies réellement liées aux statines sont rares.
 
-Surveillance biologique chez l'enfant: ASAT, ALAT et CPK pré-thérapeutiques à renouveler après 1-3 mois de traitement. (*Bouhairie et al*)
+Surveillance biologique chez l'enfant: ASAT, ALAT et CPK pré-thérapeutiques à renouveler après 1-3 mois de traitement (*Bouhairie et al*).
 
 Dans les essais contrôlés, moins de 0,1 % des sujets ont présenté de réelles myopathies (avec élévation des CPK) sous statine. Dans les deux bras (*statine* et *placebo*), les myalgies étaient rapportées par 11,5 % des sujets.
 
 > -- *[Newman CB, et al. Statin Safety and Associated Adverse Events: A Scientific Statement From the American Heart Association. 2019.](https://www.ahajournals.org/doi/full/10.1161/ATV.0000000000000073)*
 
-Chez des patients ayant arrêté leur traitement pour myalgies (douleurs musculaires), traités en aveugle et assignés dans 3 bras atorvastatine, placebo (aspects similaires) ou ... rien, les effets secondaires étaient plus forts dans les bras ayant une prise de comprimé, mais similaires dans les groupes atorvastatine et placebo. **La part attribuable des douleurs musculaires à un effet nocebo a été estimée à 90%.**
+Chez des patients ayant arrêté leur traitement pour myalgies (douleurs musculaires), traités en aveugle et assignés dans 3 bras atorvastatine, placebo (aspects similaires) ou sans traitement, les effets secondaires étaient plus forts dans les bras ayant une prise de comprimé, mais similaires dans les groupes atorvastatine et placebo. **La part attribuable des douleurs musculaires à un effet nocebo a été estimée à 90 %.**
 
 > -- *[Wood FA, et al. N-of-1 Trial of a Statin, Placebo, or No Treatment to Assess Side Effects. N Engl J Med. 2020.](https://www.nejm.org/doi/10.1056/NEJMc2031173)*, corroborée par *[Cholesterol Treatment Trialists' Collaboration 2022](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01545-8/fulltext)*
 
@@ -168,9 +162,11 @@ Au Danemark, les personnes ayant arrêté leur statine ont eu 26 % d'**[infarctu
 
 *Autres bibliographies en regard de chaque élément présenté*
 
+- [Mach F, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/article/46/42/4359/8234482)
 - [Cholesterol Treatment Trialists' (CTT) Collaboration. Effects of statin therapy on diagnoses of new-onset diabetes and worsening glycaemia in large-scale randomised blinded statin trials: an individual participant data meta-analysis. Lancet Diabetes Endocrinol. 2024.](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24)00040-8/fulltext)
 - [Adams SP et al. Pravastatin for lowering lipids. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013673.pub2/full/fr)
 - {{< references/esh-2023 >}}
+- [US Preventive Services Task Force. Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2022.13044)
 - {{< references/esc-cvd >}}
 - {{< references/esc-dyslipidaemias >}}
 - [Société Française de Cardiologie (SFC). Statines et vaccins : 2 versions modernes de l'obscurantisme. 26/11/2019.](https://www.sfcardio.fr/actualite/statines-et-vaccins-2-versions-modernes-de-lobscurantisme)
