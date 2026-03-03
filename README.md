@@ -8,7 +8,7 @@ Dernières recommandations médicales pour la pratique en consultation du médec
 
 🙏 [Faire un don via Lydia](https://lydia-app.com/pots?id=89969-recomedicales) (Visa/Lydia) ou [Ko-Fi](https://ko-fi.com/djibe).
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"></a><br>Cette œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale 4.0 International</a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons Attribution-NonCommercial 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"></a><br>Cette œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale 4.0 International</a>
 
 [RecoMédicales](https://recomedicales.fr) est une Association et un site développé par 2 généralistes pour tous les médecins généralistes et les internes/médecins qui souhaitent s'informer, se former et accéder rapidement à tout ce dont ils ont besoin en consultation.
 

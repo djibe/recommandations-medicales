@@ -203,7 +203,7 @@ La Commission européenne recommande ce dépistage depuis son [communiqué de se
 - Sans aucun des signes suivants (sortie si survenue):
   - Impossibilité de monter 2 étages sans s'arrêter
   - ≥ 140 kg
-  - Scanner thoracique < 1 an
+  - Scanner thoracique récent (< 1 an)
   - Cancer bronchopulmonaire < 5 ans ou sous traitement
   - Cancer en cours de surveillance par imagerie thoracique
   - Comorbidité sévère restreignant toute intervention thérapeutique
@@ -303,7 +303,7 @@ graph TB
 - {{< references/beh-cancers-incidence >}}
 - {{< references/inca-cancers-mortalite >}}
 - [HAS. Dépistage du cancer bronchopulmonaire par scanner thoracique faible dose sans injection : actualisation de l'avis de 2016. 2022.](https://www.has-sante.fr/jcms/p_3310940/fr/depistage-du-cancer-bronchopulmonaire-par-scanner-thoracique-faible-dose-sans-injection-actualisation-de-l-avis-de-2016)
-- [Couraud S, et al; SPLF. Recommandations de l'Intergroupe francophone de cancérologie thoracique, de la Société de pneumologie de langue française, et de la Société d'imagerie thoracique sur le dépistage du cancer bronchopulmonaire par tomodensitométrie à faible dose d'irradiation. Rev Mal Resp. 2021.](https://www.sciencedirect.com/science/article/pii/S0761842521000437)
+- [Couraud S, et al. Recommandations de l'Intergroupe francophone de cancérologie thoracique, de la Société de pneumologie de langue française, et de la Société d'imagerie thoracique sur le dépistage du cancer bronchopulmonaire par tomodensitométrie à faible dose d'irradiation. Rev Mal Resp. 2021.](https://www.sciencedirect.com/science/article/pii/S0761842521000437) (SPLF)
 - [Delafosse P, et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Poumon. Santé Publique France. 2020.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-poumon)
 - Conseil National du Sida et des hépatite virales (CNS). Prise en charge médicale des personnes vivant avec le VIH. Août 2017.
 - [HAS. ALD n°30 Cancer du poumon et mésothéliome pleural malin. 2014.](https://www.has-sante.fr/jcms/c_820058/fr/ald-n-30-cancer-du-poumon-et-mesotheliome-pleural-malin)

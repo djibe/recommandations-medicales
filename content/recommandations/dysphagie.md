@@ -168,6 +168,10 @@ Lorsqu'elle est importante, compléter le suivi de la dysphagie avec:
 - [Mari A, et al. Esophageal and Oropharyngeal Dysphagia: Clinical Recommendations From the United European Gastroenterology and European Society for Neurogastroenterology and Motility. United European Gastroenterol J. 2025.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12269739/)
 - Collège des universitaires français d'hépato-gastro-entérologie (CDU-HGE). Dysphagie. Réussir ses ECNi. 2022.
 
+### Abréviations en attente
+
+- [Collège Français d'ORL & CCF. Dysphagie. Item 270 UE8. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/Item-270-Dysphagie.pdf)
+
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
 

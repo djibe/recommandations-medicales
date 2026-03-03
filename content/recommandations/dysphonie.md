@@ -209,8 +209,8 @@ graph TB
 {{%sources%}}
 
 - Prescrire Redaction. Atteintes des cordes vocales médicamenteuses. Rev Prescrire. 2025.
-- Collège Français d'ORL & CCF. Trouble aigu de la parole. Dysphonie. Item 88.
 - [Stachler RJ, et al. Clinical Practice Guideline: Hoarseness (Dysphonia) (Update). 2018.](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599817751030)
+- [Collège Français d'ORL & CCF. Trouble aigu de la parole. Dysphonie. Item 88. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/Item-86-Trouble-aigu-de-la-parole-Dysphonie.pdf)
 
 Mot-clé: aphone
 

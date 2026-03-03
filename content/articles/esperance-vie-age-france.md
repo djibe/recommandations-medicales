@@ -58,11 +58,11 @@ const chartOptions1 = {
 }
 </script>
 
-À 65 ans, une femme a une espérance de vie 23,6 ans et un homme de 19,77 ans. Ainsi, le dépistage ciblé du [cancer de la prostate]({{% relref "cancer-prostate.md" %}}) peut être proposé jusqu'à 71 ans (homme asymptomatique ayant une espérance de vie supérieure à 15 ans).
+> Lire le tableau: à 5 ans, une fille a une espérance de vie de 81,2 ans et un garçon de 75,5 ans.
+
+À 65 ans, **une femme a une espérance de vie 23,6 ans** et **un homme de 19,77 ans**. Ainsi, le dépistage ciblé du [cancer de la prostate]({{% relref "cancer-prostate.md" %}}) pourrait être proposé jusqu'à 71 ans (homme asymptomatique ayant une espérance de vie supérieure à 15 ans selon l'AFU).
 
 Toutefois, ces valeurs ne sont que des moyennes de la mortalité en France métropolitaine et ne concernent pas un sujet atteint de pathologie particulière.
-
-> Lire le tableau: à 5 ans, une fille a une espérance de vie de 81,2 ans et un garçon de 75,5 ans.
 
 <script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "Espérance de vie selon l’âge en 2023 en France métropolitaine."}</script>
 <table id="life-expectancy-france" class="table">

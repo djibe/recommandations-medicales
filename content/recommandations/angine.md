@@ -281,7 +281,7 @@ graph TB
 - [Fournier-Charrière E, Tournaire B, Pediadol. Douleur de l'enfant - L'essentiel. Pédiadol. 2019. (PDF)](https://pediadol.org/wp-content/uploads/2019/02/guide_essentiel_interactif.pdf)
 - [Truffert E, et al. Recommandations de la Société française d'otorhinolaryngologie (SFORL) : anti-inflammatoires non stéroïdiens (AINS) et infections ORL pédiatriques. Version courte. Annales françaises d'Oto-rhino-laryngologie et de Pathologie Cervico-faciale. 2019.](https://www.sciencedirect.com/science/article/pii/S1879726119300786)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
-- Collège Français d'ORL et de Chirurgie Cervico-faciale. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 146 UE6.
+- [Collège Français d'ORL & CCF. Angines de l'adulte et de l'enfant et rhinopharyngites de l'enfant. Item 146 UE6. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/Item-146-Angines-de-l%e2%80%99adulte-et-de-l%e2%80%99enfant-et-rhinopharyngites-de-l%e2%80%99enfant.pdf)
 
 {{%/sources%}}
 {{% modele %}}

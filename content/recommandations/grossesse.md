@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2025-06-30"
+lastmod = "2026-03-02"
 specialites = ["gynécologie-obstétrique"]
 annees = "2022"
 sources = ["CNGOF", "HAS"]
@@ -69,23 +69,23 @@ Chapitres dédiés:
 > 678.000 naissances en France 2023 (-6,6 % sur 1 an), soit **1,64** enfant par femme.
 {.lead .my-3}
 
-{{< figure-chart title="Évolution du nombre de maternités et de l'indicateur conjoncturel de fécondité depuis 1975 en France métropolitaine. Dr JB Fron d'après Drees Les établissements de santé - édition 2022 (fiche 21) et Insee Bilan démographique 2023. NB. Échelle non linéaire en abscisse" >}}
+{{< figure-chart title="Évolution du nombre de maternités et de l'indicateur conjoncturel de fécondité depuis 1975 en France métropolitaine. Dr JB Fron d'après [Drees](https://data.drees.solidarites-sante.gouv.fr/explore/dataset/fichier_maternites_112021/information/) et [Insee Bilan démographique 2025](https://www.insee.fr/fr/statistiques/8719824). NB. Échelle non linéaire en abscisse" >}}
 
 <script>
 const chartOptions1 = {
   series: [{
     name: 'Maternités',
-    data: [1369, 1035, 814, 695, 581, 519, 471, 458, null]
+    data: [1369, 1035, 814, 695, 581, 519, 471, 458, 457, 435]
   },
   {
     name: 'Indicateur de fécondité',
-    data: [192.7, 181.4, 173.3, 187.4, 198, 199.2, 183.6, 178.2, 163.9]
+    data: [192.7, 181.4, 173.3, 187.4, 198, 199.2, 183.6, 178.2, 163.9, 156]
   }],
   chart: { type: 'line', height: 280 },
   markers: { size: 0 },
   stroke: { colors: ['#4150f5', '#ffa600'], curve: 'smooth', width: 4 },
   title: { text: 'Évolution du nombre de maternités en France métropolitaine' },
-  xaxis: { categories: [1975, 1985, 1996, 2000, 2006, 2012, 2018, 2020, 2023] },
+  xaxis: { categories: [1975, 1985, 1996, 2000, 2006, 2012, 2018, 2020, 2023, 2025] },
   yaxis: [
     {
       title: { text: 'Maternités'},

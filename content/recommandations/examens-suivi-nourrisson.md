@@ -155,6 +155,7 @@ Sources citées en regard des sections.
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Développement psychomoteur. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/developpement-psychomoteur)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Dépistages chez l'enfant. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/depistages-lenfant)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Suivi médical pédiatrique. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/suivi-medical-pediatrique)
+- [Collège Français d'ORL & CCF. Dépistage des troubles auditifs chez l'enfant. Item 44 UE 2. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/item-87-Alte%cc%81ration-de-la-fonction-auditive-item-44-de%cc%81pisatge-de-la-surdite%cc%81-de-lenfant.pdf)
 
 {{%/sources%}}
 

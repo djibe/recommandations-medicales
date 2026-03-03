@@ -40,26 +40,6 @@ Rhinite allergique (RA)
 : La rhinite allergique est dite **intermittente** pour des symptômes présents ≤ 4 jours par semaine ou ≤ 4 semaines par an et **persistante** au-delà (*ARIA*).
 : Elle est classée **modérée à sévère** si au moins 1 parmi: symptômes gênants, sommeil perturbé, activités scolaires, professionnelles, sociales ou loisirs perturbés (*ARIA*). Sinon elle est classée comme **légère**.
 
-### Diagnostic différentiel de la rhinite allergique
-
-- Pathologie olfactive
-  - Polypose nasale
-  - Pathologie des fentes olfactives
-  - Pathologie du bulbe olfactif (dont méningiome)
-  - Tumeur de l'ethmoïde ou de la base du crâne
-- Sinusite œdémato-purulente  
-  Cause locale (aspergillome, sinusite dentaire), générale (dysimmunitaire) ou constitutionnelle (pathologie muco-ciliaire).
-- Maladie de système
-- Dysfonctions des plexus caverneux (rhinite vasomotrice)
-- Rhinite médicamenteuse
-- Masse mobile de la fosse nasale (polype de Killian, papillome)
-- Rhinite inflammatoire non allergique (NARES)
-- Réflexe photo-sternutatoire (ou éternuement héliotropique)  
-  Éternuement déclenché par l'exposition lumineuse intense, transmission autosomique dominante.
-- Brèche méningée
-
-> << une rhinorrhée intermittente, déclenchée ou majorée par l'antéflexion, ou une rhinorrhée permanente, mais unilatérale doit impérativement faire évoquer une rhinorrhée cérébrospinale >>. -- *SFORL 2020*
-
 ### Épidémiologie de la rhinite allergique en France
 
 La prévalence de la rhinite allergique a été multipliée par 3 en 30 ans.
@@ -92,6 +72,29 @@ SPLF
 TCA
 : tests cutanés allergéniques (ou prick tests)
 {.dl-inline}
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Diagnostic différentiel de la rhinite allergique:
+
+- Pathologie olfactive
+  - Polypose nasale
+  - Pathologie des fentes olfactives
+  - Pathologie du bulbe olfactif (dont méningiome)
+  - Tumeur de l'ethmoïde ou de la base du crâne
+- Sinusite œdémato-purulente  
+  Cause locale (aspergillome, sinusite dentaire), générale (dysimmunitaire) ou constitutionnelle (pathologie muco-ciliaire).
+- Maladie de système
+- Dysfonctions des plexus caverneux (rhinite vasomotrice)
+- Rhinite médicamenteuse
+- Masse mobile de la fosse nasale (polype de Killian, papillome)
+- Rhinite inflammatoire non allergique (NARES)
+- Réflexe photo-sternutatoire (ou éternuement héliotropique)  
+  Éternuement déclenché par l'exposition lumineuse intense, transmission autosomique dominante.
+- Brèche méningée
+
+> << une rhinorrhée intermittente, déclenchée ou majorée par l'antéflexion, ou une rhinorrhée permanente, mais unilatérale doit impérativement faire évoquer une rhinorrhée cérébrospinale >>. -- *SFORL 2020*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -272,7 +275,7 @@ style suspicion stroke:#4150f5, stroke-width:1px
 - [Anses. Note relative à la surveillance phénologique du pollen dans l'air ambiant et à l'indicateur de risque d'allergie lié à l'exposition au pollen (RAEP). 2022. (PDF)](https://www.anses.fr/fr/system/files/AIR2020AST0168.pdf)
 - [Crampette L, Michel J; SFORL. Prise en charge diagnostique et thérapeutique des Rhinites Allergiques par l'ORL (hors rhinites professionnelles). 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/07/Recommandation-SFORL-Prise-en-charge-diagnostique-et-th%C3%A9rapeutique-des-Rhinites-Allergiques-par-lORL-2020.pdf)
 - [Inserm. Rhinite allergique. 2017.](https://www.inserm.fr/dossier/rhinite-allergique/)
-- [Braun JJ et al; SPLF, SFA. Recommandations pour le diagnostic et la prise en charge de la rhinite allergique (épidémiologie et physiopathologie exclues) - Texte long. Rev Mal Respir. 2010.](https://splf.fr/recommandations-pour-le-diagnostic-et-la-prise-en-charge-de-la-rhinite-allergique-epidemiologie-et-physiopathologie-exclues-sfa-et-splf/)
+- [Braun JJ et al. Recommandations pour le diagnostic et la prise en charge de la rhinite allergique (épidémiologie et physiopathologie exclues) - Texte long. Rev Mal Respir. 2010.](https://splf.fr/recommandations-pour-le-diagnostic-et-la-prise-en-charge-de-la-rhinite-allergique-epidemiologie-et-physiopathologie-exclues-sfa-et-splf/) (SPLF, SFA)
 
 ### Bibliographie en attente
 

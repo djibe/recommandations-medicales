@@ -275,9 +275,9 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 
 | Patient | Début surveillance | Population | Suivi et rythme |
 | - | - | - | - |
-| Antécédent personnel d'adénome<br>(SFED 2021) | Après résection | <strong>Risque élevé:</strong><br>- ≥ 5 adénomes<br>- 1 adénome ≥ 10 mm ou en DHG<br>- ≥ 1 PF | Coloscopie à 3 ans |
+| Antécédent personnel d'adénome<br>(SFED 2021) | Après résection | <strong>Risque élevé:</strong><br>- ≥ 5 adénomes<br>- 1 adénome ≥ 10 mm ou en DHG<br>- ≥ 1 polype festonné | Coloscopie à 3 ans |
 | | | <strong>Risque faible:</strong><br>1-2 adénome < 10 mm en DBG | Consultation de prévention à 5 ans<br>+ coloscopie sous 7-10 ans<br>ou reprise TIF à 5 ans |
-| | | <strong>Risque faible:</strong><br>3-4 adénomes < 10 mm en DBG<br>PF < 10 mm sans dysplasie | Coloscopie à 5 ans |
+| | | <strong>Risque faible:</strong><br>3-4 adénomes < 10 mm en DBG<br>polype festonné < 10 mm sans dysplasie | Coloscopie à 5 ans |
 | Antécédent personnel de CCR<br>sporadique (SFED 2021) | Après résection || Coloscopie à 1 an<br>(sous 6 mois si incomplète)<br>puis intervalle de 3 ans<br>et encore 5 ans (selon polypes) |
 | Antécédent familial 1^er^ degré de CCR<br>ou d'adénome avancé > 10 mm | À partir de 45 ans<br>ou 10 ans avant l'âge<br>de diagnostic du<br>cas index |  | Coloscopie tous les 5 ans |
 | MICI | 6-8 ans après le début<br>des symptômes | <strong>Risque élevé:</strong><br>CSP, ATCD de dysplasie, forme étendue<br>sur +50 % du côlon, persistance inflammatoire,<br>ATCD familiaux CCR, nb pseudo-polypes,<br>sténose colique | Chromoendoscopie tous les 1-2 ans |
@@ -285,7 +285,7 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 | | | <strong>Risque faible:</strong><br>Rectite de RCH et MC colique étendue sur < 30 % | Pas de suivi spécifique défini |
 {caption="Indications au dépistage du cancer colorectal pour les personnes à haut risque selon *SFED 2021* et *HAS 2017*" class="table-sm"}
 
-> Légende. **DBG =** dysplasie de bas grade ; **DHG =** dysplasie de haut grade ; **PF =** polype festonné
+> Légende. **DBG =** dysplasie de bas grade ; **DHG =** dysplasie de haut grade
 
 ### Rythme de dépistage chez les personnes à très haut risque de cancer colorectal
 

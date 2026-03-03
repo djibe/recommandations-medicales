@@ -86,6 +86,7 @@ Signes et symptômes d'otite moyenne aiguë à rechercher à l'examen:
 ### Examen clinique
 
 - Tolérance générale: état général, alimentation, temps de recoloration cutané
+- Examen de la région auriculaire et péri-auriculaire (parotide, ATM, mastoïde, sous-digastrique)
 - Otoscopie bilatérale  
   Tympan congestif (inflammatoire rouge ou hypervascularisé) avec **épanchement rétro-tympanique** (opacité rétrotympanique, disparition des reliefs et du triangle lumineux, bombement du tympan). Le tympan est parfois perforé avec écoulement muco-purulent dans le conduit auditif externe.
 - Rechercher une conjonctivite purulente
@@ -107,7 +108,12 @@ Indication au scanner cérébral et du rocher: suspicion de mastoïdite (guéris
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-La prévention des otites moyennes aiguës purulentes passe par les **désobstructions rhinopharyngées** (DRP) répétées en cas de rhinopharyngite aiguë et la [vaccination anti-pneumococcique]({{% relref "vaccination.md" %}}).
+Différentes mesures visent à prévenir les otites moyennes aiguës purulentes:
+
+- L'[allaitement maternel]({{% relref "allaitement.md" %}})
+- L'éviction du tabagisme passif
+- Les **désobstructions rhinopharyngées** (DRP) répétées en cas de rhinopharyngite aiguë
+- La [vaccination anti-pneumococcique]({{% relref "vaccination.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'otite moyenne aiguë" %}}
@@ -215,6 +221,7 @@ style OMAP stroke:#4150f5, stroke-width:1px
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Otites infectieuses de l'adulte et de l'enfant. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/otites)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Déficits immunitaires héréditaires. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/pathologies)
 - {{< references/spilf-2020 >}}
+- [Collège Français d'ORL & CCF. Otites infectieuses de l'adulte et de l'enfant. Item 147 UE 6. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/Item-147-Otites-infectieuses-de-l%E2%80%99adulte-et-de-l%E2%80%99enfant.pdf)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 
 {{%/sources%}}

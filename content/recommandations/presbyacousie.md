@@ -40,7 +40,7 @@ Presbyacousie (ou surdité liée à l'âge)
 ### Degré de surdité
 
 | Déficience auditive | Perte (dB) |
-|---------------------|-----------:|
+| ------------------- | ---------: |
 | Légère              |      21-40 |
 | Moyenne             |      41-70 |
 | Sévère              |      71-90 |
@@ -179,7 +179,9 @@ graph TB
 
 ### Bibliographie en attente
 
-[Tsai Do BS, et al. Clinical Practice Guideline: Age-Related Hearing Loss. Otolaryngol Head Neck Surg. 2024.](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1002/ohn.750)
+- [Tsai Do BS, et al. Clinical Practice Guideline: Age-Related Hearing Loss. Otolaryngol Head Neck Surg. 2024.](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1002/ohn.750)
+- [Collège Français d'ORL & CCF. Évaluation clinique et fonctionnelle d'un handicap sensoriel : la surdité. Item 115 UE5. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/Item-115-Evaluation-clinique-et-fonctionnelle-d%e2%80%99un-handicap-sensoriel-la-surdite%cc%81.pdf)
+- [Collège Français d'ORL & CCF. Déficit neurosensoriel chez le sujet âgé : surdité et vertige. Item 127 UE5. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/Item-127-De%cc%81ficit-neurosensoriel-chez-le-sujet-a%cc%82ge%cc%81-surdite%cc%81-et-vertige.pdf)
 
 {{%/sources%}}
 {{% modal title="Échelle de dépression gériatrique" id="modal-gds15"%}}

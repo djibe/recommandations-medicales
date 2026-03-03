@@ -274,5 +274,6 @@ graph TB
 - [Payne SC, et al. Clinical Practice Guideline: Adult Sinusitis Update. Otolaryngol Head Neck Surg. 2025.](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1002/ohn.1344)
 - [CMIT. Infections naso-sinusiennes de l'adulte et de l'enfant. Item 148. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-148-web.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Sinusites. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/sinusites)
+- [Collège Français d'ORL & CCF. Infections nasosinusiennes de l'enfant et de l'adulte. Item 145 UE6. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/Item-145-Infections-nasosinusiennes-de-lenfant-et-ladulte.pdf)
 
 {{%/sources%}}

@@ -483,7 +483,7 @@ Trois éléments de suivi: Agenda migraineux, {{< modal-btn modal-hit6 >}}qualit
 
 ### Migraine cataméniale
 
-Céphalées survenant exclusivement J1 ± 2 des règles sur ≥ 2 cycles/3.  
+Céphalées survenant exclusivement J1 ± 2 des règles sur ≥ 2 cycles sur 3.  
 Dite *migraine liée aux menstruations* si des crises surviennent également en dehors des J-2 à J+3.  
 Le traitement des crises est identique.
 

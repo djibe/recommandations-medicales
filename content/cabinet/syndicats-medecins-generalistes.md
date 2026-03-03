@@ -17,7 +17,7 @@ Page mémo pour retrouver la liste de tous les syndicats de médecins générali
 {.lead .mb-5}
 
 | Abréviation           | Appellation                                                            |                Site officiel                |
-|-----------------------|------------------------------------------------------------------------|:-------------------------------------------:|
+| --------------------- | ---------------------------------------------------------------------- | :-----------------------------------------: |
 | FMF-UG                | Fédération des Médecins de France - Union généraliste                  | [Site](https://www.fmfpro.org/branches/ug/) |
 | Les Généralistes-CSMF | Confédération des Syndicats Médicaux Français                          |        [Site](https://www.csmf.org)         |
 | MG France             | Fédération Française des Médecins Généralistes                         |      [Site](https://www.mgfrance.org)       |

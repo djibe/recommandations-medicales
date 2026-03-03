@@ -115,7 +115,7 @@ Diviser les doses d'initiation par 2 après 65 ans.
 
 | Molécule                 | Spécialité        | Demi-vie (h) | AMM                                |
 | ------------------------ | ----------------- | -----------: | ---------------------------------- |
-| Alprazolam 🌍            | Xanax, gén        |        10-20 | Anxiété, sevrage alcool            |
+| Alprazolam               | Xanax, gén        |        10-20 | Anxiété, sevrage alcool            |
 | Bromazépam               | Lexomil, gén      |           20 | Anxiété, sevrage alcool            |
 | Clobazam                 | Likozam, Urbanyl  |           36 | Anxiété, épilepsie, sevrage alcool |
 | Clonazépam               | Rivotril          |           35 | Épilepsie                          |
@@ -124,7 +124,7 @@ Diviser les doses d'initiation par 2 après 65 ans.
 | ==**Diazépam**==         | Valium, gén       |        32-47 | Anxiété, sevrage alcool            |
 | Estazolam                | Nuctalon          |           17 | Insomnie occasionnelle/transitoire |
 | Loflazépate d'éthyle     | Victan            |           77 | Anxiété, sevrage alcool            |
-| Loplazolam               | Havlane           |            8 | Insomnie occasionnelle/transitoire |
+| Loprazolam               | Havlane           |            8 | Insomnie occasionnelle/transitoire |
 | Lorazépam                | Temesta, gén      |        10-20 | Anxiété, sevrage alcool            |
 | Lormétazépam             | Ex-noctamide, gén |         13,5 | Insomnie occasionnelle/transitoire |
 | Nitrazépam               | Mogadon           |        16-48 | Insomnie occasionnelle/transitoire |

@@ -68,7 +68,7 @@ Hypersomnie
 - Trisomie 21
 - Volumineuses végétations adénoïdes ou amygdales
 - Rétro ou micrognathie
-- Antécédent familial de SAOS
+- Antécédent familial de SAHOS
 - [Acromégalie]({{% relref "acromegalie.md" %}})
 - [Hypothyroïdie]({{% relref "hypothyroidie.md" %}})
 - Tabagisme
@@ -221,24 +221,28 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 - Antécédents familiaux
 - Facteurs aggravants  
   Liste des médicaments, rhinite chronique.
-- Symptômes diurnes
-  - **Sommeil non réparateur**
-  - **Somnolence diurne excessive** (15-50 %)
-  - **Fatigue**
-  - Troubles mnésiques ou de la concentration
-  - Troubles de la libido
-  - Céphalées matinales (12-18 %)
-- Symptômes nocturnes
+- Symptômes de collapsus des voies aériennes:
   - **Ronflements**  
     Sévères et quotidiens (50-60 %).
-  - **Réveils fréquents**
-  - Pauses respiratoires  
-    Constatées par l'entourage (10-15 %).
+  - Pauses respiratoires constatées par l'entourage (10-15 %)
   - Sensation d'étouffement ou de suffocation pendant le sommeil
+- Indices d'altération du sommeil:
+  - **Sommeil non réparateur**
+  - **Somnolence diurne excessive** (15-50 %)
+  - Insomnie
+- Indices mixtes:
+  - Céphalées matinales (12-18 %)
+  - Nycturie (≥ 2/nuit, 30 %)
+  - [Sueurs nocturnes]({{% relref "sueurs-nocturnes.md" %}})
+- Indices indirects:
+  - **Fatigue**
+  - Troubles de l'humeur
+  - Troubles mnésiques ou de la concentration
+  - Troubles de la libido
+- Autres symptômes nocturnes:
+  - **Réveils fréquents**
   - **Reflux gastro-œsophagien** nocturne (50-75 %)
   - Agitation nocturne
-  - Insomnie
-  - Nycturie (≥ 2/nuit, 30 %)
 - Autres symptômes
   - Obstruction nasale
   - Durée totale de sommeil
@@ -252,7 +256,7 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 - Signes différentiels
   - Syndrome dépressif
   - Traitement sédatif  
-  Psychotrope, opioïdes.
+    Psychotrope, opioïdes.
   - Mauvaise hygiène de sommeil
   - Dette de sommeil
   - Affection neurologique  
@@ -571,6 +575,7 @@ graph TB
 - [Collège des Enseignants de Pneumologie (CEP). Troubles du sommeil. Item 110. 2023.](https://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Troubles du sommeil - SAOS. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/troubles-du-sommeil-saos)
 - [Kapur VK, et al. Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea: An American Academy of Sleep Medicine Clinical Practice Guideline. J Clin Sleep Med. 2017.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337595/)
+- [Collège Français d'ORL & CCF. Troubles du sommeil de l'enfant et de l'adulte. Item 108 UE4. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/Item-108-Trouble-du-sommeil-de-ladulte-et-de-lenfant.pdf)
 
 {{%/sources%}}
 {{% modal title="Échelle de somnolence d'Epworth" id="modal-score-epworth"%}}

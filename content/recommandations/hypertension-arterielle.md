@@ -478,7 +478,7 @@ graph TB
 
 ### Prise en charge après le diagnostic d'hypertension artérielle
 
-1. Confirmer le diagnostic par automesure/MAPA
+1. Confirmer le diagnostic par [automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}}) et/ou MAPA
 2. Noter dans le dossier les valeurs pré-traitement et le grade de l'hypertension (voir *Définitions*)
 3. Rechercher une *maladie cardiovasculaire* (MCV) et des complications de l'hypertension  
     - *ECG 12D*, *Fond d'œil* si HTA grade 2-3 ou diabète, {{< modal-btn modal-depistage-prevalent >}}recherche d'AOMI{{< /modal-btn >}}

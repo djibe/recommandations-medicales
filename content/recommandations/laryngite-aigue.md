@@ -177,6 +177,7 @@ Récidives de laryngite: rechercher un [reflux gastro-œsophagien]({{% relref "r
 ### Bibliographie en attente
 
 - [Gupta G, Mahajan K. Acute Laryngitis. StatPearls. 2022.](https://www.ncbi.nlm.nih.gov/books/NBK534871/)
+- [Collège Français d'ORL & CCF. Dyspnée aiguë et chronique : dyspnée laryngée. Item 199 UE7. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/Item-199-Dyspne%cc%81e-aigue%cc%88-et-chronique-dyspne%cc%81e-larynge%cc%81e.pdf)
 
 Mot-clé: trachéite
 

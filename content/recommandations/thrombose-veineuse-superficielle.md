@@ -173,7 +173,7 @@ Situations nécessitant une prise en charge différente de la thrombose veineuse
 {{% /collapse %}}
 {{%sources%}}
 
-- [Sanchez O, et al; SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S0761842519300051)
+- [Sanchez O, et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S0761842519300051) (SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR)
 - [Quéré I, et al. Questions non résolues sur la maladie thrombo-embolique veineuse. Consensus de la Société française de médecine vasculaire (SFMV) [Unresolved questions on venous thromboembolic disease. Consensus statement of the French Society for Vascular Medicine (SFMV)]. J Med Vasc. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S2542451318303572) (payant)
 - Collège National des Enseignants de Cardiologie (CNEC). Thrombose veineuse profonde et embolie pulmonaire. Item 226. Cardiologie 2e édition. 2019.
 

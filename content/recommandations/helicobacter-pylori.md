@@ -523,6 +523,7 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 
 ### Bibliographie en attente
 
+- [Burucoa C, et al. Prise en charge des infections à Helicobacter pylori en 2026 - Nouvelles recommandations du Groupe d'Études Français des Helicobacter pour les hépato-gastroentérologues. Hépato-Gastro & Oncologie Digestive. 2026.](https://www.jle.com/fr/revues/hpg/e-docs/prise_en_charge_des_infections_a_helicobacter_pylori_en_2026_nouvelles_recommandations_du_groupe_detudes_francais_des_helicobacter_pour_les_hepato_gastroenterologues_355286/article.phtml) (payant)
 - [Malfertheiner P, et al. Management of Helicobacter pylori infection: the Maastricht VI/Florence consensus report. Gut. 2022.](https://pubmed.ncbi.nlm.nih.gov/35944925/)
 - [Kalach N, et al; GFHGNP. Diagnostic et traitement de l'infection à Helicobacter pylori chez l'enfant. 2022.](http://www.helicobacter.fr/wp-content/uploads/2022/01/Diagnostic-et-traitement-de-linfection-%C3%A0-Helicobacter-pylori-chez-l%E2%80%99enfant.pdf)
 - [Kalach N, et al; Société Française de Pédiatrie (SFP). Helicobacter pylori chez l'enfant. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pap-detail/7nfg7h)

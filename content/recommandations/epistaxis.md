@@ -234,6 +234,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- Prescrire Redaction. Saignement de nez bénin chez un enfant. Premiers Choix Prescrire. Rev Prescrire. 2024.
 - [Yan T, Goldman RD. Épistaxis récurrente chez l'enfant. Can Fam Physician. 2021.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8202752/)
 - [SFORL. Prise en charge des épistaxis de l'adulte. Recommandation pour la pratique clinique. 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/02/Prise-en-charge-des-epistaxis-adulte.pdf)
 - [Tunkel DE, et al. Clinical Practice Guideline: Nosebleed (Epistaxis). Otolaryngol Head Neck Surg. 2020.](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599819890327)
@@ -242,6 +243,6 @@ graph TB
 
 ### Bibliographie en attente
 
-- Prescrire
+- [Collège Français d'ORL & CCF. Épistaxis. Item 85 UE 4. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/Item-85-epistaxis-1.pdf)
 
 {{%/sources%}}

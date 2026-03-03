@@ -234,8 +234,8 @@ graph TB
 - Prescrire Redaction. Vertiges positionnels paroxystiques bénins. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - [Collège des Enseignants de Neurologie (CEN). Vertige. 2019.](https://www.cen-neurologie.fr/second-cycle/vertige)
 - [HAS. Vertiges positionnels paroxystiques bénins : Manoeuvres diagnostiques et thérapeutiques. 2017.](https://www.has-sante.fr/jcms/c_2819896/fr/vertiges-positionnels-paroxystiques-benins-manoeuvres-diagnostiques-et-therapeutiques)
-- [SFORL. THÈME : VERTIGE POSITIONNEL PAROXYSTIQUE BENIN. Janvier 2012. (PDF)](https://www.sforl.org/wp-content/uploads/2020/02/Vertige-Positionnel-Paroxystique-Benin-2012-Janvier.pdf)
-- Collège Français d'ORL & CCF. Vertige. Item 101 UE4.
+- [Collège Français d'ORL & CCF. Vertige. Item 101 UE4. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/Item-101-Vertige.pdf)
+- [SFORL. Thème : vertige positionnel paroxystique bénin. Janvier 2012. (PDF)](https://www.sforl.org/wp-content/uploads/2020/02/Vertige-Positionnel-Paroxystique-Benin-2012-Janvier.pdf)
 
 ### Bibliographie en attente
 
