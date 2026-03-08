@@ -15,7 +15,6 @@
 {{ with .Params.chart }}
 <script src="https://cdn.jsdelivr.net/npm/apexcharts@5.10.3" crossorigin defer></script>
 <script>
-//import ApexCharts from 'https://esm.run/apexcharts@5.5.0/dist/apexcharts.esm.js'
 document.addEventListener( 'DOMContentLoaded', event => {
   Apex = {
     colors: ['#4150f5', '#ffa600', '#af34dc', '#e800ba', '#ff0094', '#ff2b6e', '#ff5c4b', '#ff8329'],
@@ -273,7 +272,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
 
     // Register Orama search
     {{ $searchModule := resources.Get "/js/orama.mjs" | minify | fingerprint "sha384" }}
-    // document.getElementById('btn-search-modal').addEventListener('click', () => import('{{ $searchModule.Permalink }}'))
+    document.getElementById('btn-search-modal').addEventListener('click', () => import('{{ $searchModule.Permalink }}'))
 
     // Print
     document.getElementById('btn-print')?.addEventListener('click', () => {

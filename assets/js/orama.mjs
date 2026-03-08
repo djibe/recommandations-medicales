@@ -11,7 +11,7 @@ async function initializeClient() {
 
   // Initialisation du client avec la clé API récupérée
   client = new OramaCloud({
-    projectId: "4b046e11-f9a2-4039-83dd-22930b99fa7f",
+    projectId: "c6e48c90-4856-4f2b-b850-47dffc4c5181",
     apiKey: oramaApiKey,
   });
 }
