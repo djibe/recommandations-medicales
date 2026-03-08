@@ -20,6 +20,7 @@ User-agent: Awario
 User-agent: AwarioBot
 User-agent: AwarioRssBot
 User-agent: AwarioSmartBot
+User-agent: AzureAI-SearchBot
 User-agent: Baiduspider
 User-agent: Barkrowler
 User-agent: BLEXBot
@@ -84,6 +85,7 @@ User-agent: imageSpider
 User-agent: img2dataset
 User-agent: Internet Archive
 User-agent: ISSCyberRiskCrawler
+User-agent: kagi-fetcher
 User-agent: Kangaroo Bot
 User-agent: KlaviyoAIBot
 User-agent: KunatoCrawler
@@ -145,6 +147,7 @@ User-agent: sitesnagger
 User-agent: sogou spider
 User-agent: Spider
 User-agent: SummalyBot
+User-agent: TavilyBot
 User-agent: teleport
 User-agent: teleportpro
 User-agent: TerraCotta
