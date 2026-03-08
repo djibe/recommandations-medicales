@@ -33,7 +33,7 @@ flowchart = true
   - Type de fibrillation (paroxystique, permanente ...)
   - Traitement des comorbidités (HTA, insuffisance cardiaque, diabète, ...)
   - Évaluation du {{< modal-btn modal-chads >}}risque embolique - score CHA~2~DS~2~-VA{{< /modal-btn >}} et du risque hémorragique, {{< modal-btn modal-aod >}}anticoagulation{{< /modal-btn >}} à vie
-  - Contrôle des symptômes, du rythme cardiaque ({{< modal-btn modal-bradycardisant >}}bêtabloquant, ICND, digoxine{{< /modal-btn >}}, FC < 110 bpm) et antiarythmique
+  - Contrôle des symptômes, du rythme cardiaque ({{< modal-btn modal-bradycardisant >}}bêtabloquant, inhibiteur calcique ND, digoxine{{< /modal-btn >}}, FC < 110 bpm voire moins) et antiarythmique
   - Sur avis spécialisé: cardioversion
 - En cas de FA mal tolérée, appeler le SAMU. La découverte d'une FA nécessite un avis cardiologique rapide et une anticoagulation
 
@@ -260,7 +260,7 @@ Recommandations générales pour la prise en charge de la fibrillation atriale (
 - Anticoagulant ({{< modal-btn modal-chads >}}indication{{< /modal-btn >}}, {{< modal-btn modal-aod >}}molécules{{< /modal-btn >}})  
   Contre-indication aux AINS et antithrombotiques (aspirine ou clopidogrel sauf coronaropathie pendant 12 mois).
 - **Contrôle du rythme** (voir chapitre suivant)  
-  Cible < 110 bpm par {{< modal-btn modal-bradycardisant >}}BB ou digoxine ou ICND{{< /modal-btn >}}.
+  Cible < 110 bpm par {{< modal-btn modal-bradycardisant >}}BB ou digoxine ou ICND{{< /modal-btn >}}, voire moins en cas de symptômes persistants.
 - La **cardioversion** n'est pas abordée: cardiologue uniquement
 - Hypertension artérielle
   - Cible de la population générale (< 130/80): 120-129 / 70-79 mmHg

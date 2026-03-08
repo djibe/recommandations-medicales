@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-27T17:43:41+02:00"
 publishdate = "2022-06-27"
-lastmod = "2023-02-03"
+lastmod = "2026-03-08"
 specialites = ["hématologie"]
 annees = "2021"
 sources = ["Collège"]
@@ -17,7 +17,7 @@ sctid = "16294009"
 icd10 = ["R16.1"]
 image = true
 imageSrc = "Splénomégalie modérée (22 cm de grand axe) chez un patient de 60 ans avec cirrhose hépatique connue. Cas de Bickle I. sur Radiopaedia.org rID-52825"
-todo = "SEO splénomégalie > splenomegalie > définition splénomégalie"
+todo = "biblio"
 flowchart = true
 +++
 
@@ -35,17 +35,8 @@ flowchart = true
 
 Splénomégalie (SM)
 : Présence d'une rate palpable chez un adulte.
-Rôles de la rate: immunologique, réservoir de plaquettes et globules blancs, stockage du fer, destruction des globules rouges altérés.
+: La rate a plusieurs rôles: immunologique, réservoir de plaquettes et globules blancs, stockage du fer, destruction des globules rouges altérés.
 : Complications associées à la rate: rupture de rate, infarctus splénique.
-
-### Diagnostic différentiel d'une splénomégalie
-
-- Lobe gauche hépatique volumineux
-- [Tumeur gastrique]({{% relref "cancer-estomac.md" %}}) (grande courbure)
-- [Tumeur du pancréas]({{% relref "cancer-pancreas.md" %}}) (queue)
-- [Tumeur colique]({{% relref "cancer-colorectal.md" %}}) (angle gauche)
-- Adénopathie mésentériques ou rétro-péritonéales
-- Surrénale hypertrophiée
 
 ### Abréviations
 
@@ -54,7 +45,7 @@ NFS
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Orientation diagnostique devant une splénomégalie" %}}
+{{%collapse "Étiologie" %}}
 
 Causes les plus fréquentes de splénomégalie: **maladies hépatiques** (hypersplénisme), **hématologiques** (aiguës et chroniques) et **infectieuses** (parasitaires surtout).
 
@@ -100,6 +91,18 @@ La splénomégalie n'est qu'un symptôme:
 - Maladies de surcharge: maladie de Gaucher, de Niemann-Pick.
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Diagnostic différentiel d'une splénomégalie:
+
+- Lobe gauche hépatique volumineux
+- [Tumeur gastrique]({{% relref "cancer-estomac.md" %}}) (grande courbure)
+- [Tumeur du pancréas]({{% relref "cancer-pancreas.md" %}}) (queue)
+- [Tumeur colique]({{% relref "cancer-colorectal.md" %}}) (angle gauche)
+- Adénopathie mésentériques ou rétro-péritonéales
+- Surrénale hypertrophiée
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 Le diagnostic de splénomégalie est clinique.
@@ -142,7 +145,7 @@ Rupture de rate
 
 {{%info%}}
 
-### Bilan de première intention devant une splénomégalie
+### Bilan de première intention d'une splénomégalie
 
 - NFS, CRP, fibrinogène
 - Frottis sanguin
@@ -157,6 +160,8 @@ Rupture de rate
 Selon le tableau: hémocultures ou recherche de [paludisme en urgence]({{% relref "paludisme.md" %}}).
 
 ### Anomalies biologiques
+
+Signes biologiques d'orientation étiologique:
 
 - Leucocytes
   - Polynucléose neutrophile: infection bactérienne
@@ -174,12 +179,12 @@ Selon le tableau: hémocultures ou recherche de [paludisme en urgence]({{% relre
 
 ### Échographie abdominale
 
-L'échographie abdominale est l'examen d'imagerie de référence d'une splénomégalie.
+L'==échographie abdominale== est l'examen d'imagerie de référence d'une splénomégalie.
 
 Elle permet de différencier un gros rein gauche ou d'autres organes régionaux. La rate normale ne dépasse pas 14 x 12 x 8 cm (l x L x h).
 
-Avis hématologique devant une splénomégalie isolée sans signe d'orientation.
-{.alert .alert-info}
+> [!INFO]
+> Avis hématologique devant une splénomégalie isolée sans signe d'orientation.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la splénomégalie" %}}
@@ -202,7 +207,7 @@ Risque chirurgical au cours des cirrhoses ou de la splénomégalie myéloïde.
 La splénectomie entraîne un sur-risque infectieux majeur par [asplénie]({{% relref "asplenie.md" %}}).
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant une splénomégalie" "show" %}}
+{{%collapse "Prise en charge de la splénomégalie" "show" %}}
 
 {{< mermaid title="Conduite à tenir et prise en charge d'une splénomégalie de l'adulte. Dr JB Fron d'après Collèges" >}}
 graph TB
