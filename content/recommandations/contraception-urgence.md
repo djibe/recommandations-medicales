@@ -8,7 +8,7 @@ synonyms = ["Pilule du lendemain", "pilule de contraception d'urgence"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-05T14:50:00+02:00"
 publishdate = "2021-03-05"
-lastmod = "2023-01-13"
+lastmod = "2026-03-08"
 specialites = ["gynécologie-obstétrique", "thérapeutique"]
 annees = "2019"
 sources = ["HAS", "CNGOF"]
@@ -25,12 +25,12 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Information systématique de tous sur la contraception d'urgence, notamment lors de la prescription d'une [contraception]({{% relref "contraception.md" %}})
-- Information sur la grande efficacité de la << pilule du lendemain >> prise précocement et son innocuité
-- La pilule du lendemain est accessible gratuitement (sans avance de frais) sans ordonnance durant les 5 jours qui suivent le rapport non protégé pour toutes les femmes (anonyme si besoin)  
-  \+ préservatif jusqu'au 1^er^ jour des règles suivantes
-- La pose d'un stérilet/DIU cuivre est la méthode la plus efficace et possible jusqu'à J5
-- Envisager une prescription/dispensation en prévention surtout si: adolescente, préservatif, [VIH]({{% relref "vih-sida.md" %}}), voyage à l'étranger, milieu rural
+- La contraception d'urgence, aussi appelée << pilule du lendemain >>, est une contraception nécessaire après un rapport non protégé
+- Son recours nécessite l'information systématique de tous sur la contraception d'urgence, notamment lors de la prescription d'une [contraception]({{% relref "contraception.md" %}})
+- Informer également sur sa grande efficacité lorsqu'elle est prise précocement et son innocuité
+- La contraception d'urgence / pilule du lendemain est accessible gratuitement (sans avance de frais) sans ordonnance durant les 5 jours qui suivent le rapport non protégé pour toutes les femmes (anonyme si besoin), complété avec le préservatif jusqu'au 1^er^ jour des règles suivantes
+- La pose d'un stérilet / DIU cuivre est la méthode la plus efficace et possible jusqu'à J5
+- Envisager une prescription / dispensation en prévention, surtout dans les situations plus à risque: adolescente, préservatif, [VIH]({{% relref "vih-sida.md" %}}), voyage à l'étranger, milieu rural
 - Il existe un risque de grossesse à tout moment du cycle en cas de rapport non protégé
 - [Brochure d'information (PDF)](https://www.ameli.fr/sites/default/files/Documents/Contraception-urgence-Metro.PDF) et Hotline Aide avortement: {{<phone>}}0 800 08 11 11{{</phone>}}
 
@@ -40,14 +40,14 @@ Articles liés: [J'ai oublié ma pilule]({{% relref "jai-oublie-ma-pilule.md" %}
 {{%collapse "Définition" %}}
 
 Contraception d'urgence
-: Méthode de rattrapage, conçue pour être utilisée par une femme en situation d'urgence, après un rapport non protégé (voire un viol), un échec ou un usage défectueux d'une méthode contraceptive.  
-Elle peut être hormonale (lévonorgestrel ou ulipristal acétate dite << pilule du lendemain >>) ou mécanique (stérilet).
+: Méthode contraceptive de rattrapage, conçue pour être utilisée par une femme en situation d'urgence, après un rapport non protégé (voire un viol), un échec ou un usage défectueux d'une méthode contraceptive.  
+Elle peut être hormonale (lévonorgestrel ou ulipristal acétate) dite << pilule du lendemain >> ou mécanique (stérilet).
 
 ### Épidémiologie sur la pilule du lendemain en France
 
 - Usage lié à 30 % d'oubli de pilule, 30 % de rupture de préservatif, 17 % d'absence de contraception
-- Principe bien connu: 95 % des -30 ans
-- Délai maximal inconnu: **1%** des -30 ans connaît le délai maximum de 5 jours
+- Le concept de contraception d'urgence est bien connu: 95 % des -30 ans
+- Délai maximal inconnu: **1 %** des moins de 30 ans connaît le délai maximum de 5 jours
 - Peu utilisée: 11,5 % des 15-29 ans avec rapport à risque y ont recours
 
 ### Abréviations
@@ -71,49 +71,51 @@ UPA
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-Intérêt d'une [contraception efficace]({{% relref "contraception.md" %}}) pendant toute la période de vie sexuelle active.
-{.alert .alert-info}
+> [!INFO]
+> Intérêt d'une [contraception efficace]({{% relref "contraception.md" %}}) pendant toute la période de vie sexuelle active.
 
-Informer que la contraception d'urgence (orale) est accessible gratuitement directement en pharmacie pour toutes les femmes, notamment si: adolescente, préservatif, VIH, voyage à l'étranger, milieu rural.
+Informer que la contraception d'urgence (orale) est accessible gratuitement directement en pharmacie pour toutes les femmes, notamment chez l'adolescente, en cas d'usage du préservatif, de VIH, de voyage à l'étranger ou en milieu rural (difficultés d'accès).
 
 {{% /collapse %}}
 {{%collapse "Prise en charge par une contraception d'urgence" %}}
 
-Prise en charge en urgence (le plus tôt possible) de tout rapport non protégé et préparation de la prochaine [contraception]({{% relref "contraception.md" %}}).
+> [!WARNING]
+> Prise en charge en urgence (le plus tôt possible) de tout rapport non protégé et préparation de la prochaine [contraception]({{% relref "contraception.md" %}}).
 
-### Dispositif intra-utérin au cuivre (DIU ou stérilet)
+### Le dispositif intra-utérin au cuivre (DIU ou stérilet)
 
-**Méthode la plus efficace** et qui le reste durant au moins 4 ans.
+Le dispositif intra-utérin (DIU) est la **méthode contraceptive la plus efficace** et qui le reste durant au moins 4 ans.
 
-Stérilet à poser dans les 5 jours suivant le rapport non protégé. Privilégier chez les obèses ou après un cancer hormonosensible.
+Le stérilet doit être posé dans les 5 jours suivant le rapport non protégé. Privilégier en situation d'obésité ou après un cancer hormonosensible.
 
-Avant la pose, bilan en urgence: **auto-prélèvement vaginal** pour PCR *[Chlamydia trachomatis]({{% relref "chlamydia-trachomatis.md" %}})* et *Neisseria gonorrhoeae* notamment en cas d'antécédents d'[infection sexuellement transmissible (IST)](/tags/ist/), d'infection génitale haute en cours ou récente, d'âge < 25 ans ou de partenaires multiples.
+Avant la pose du DIU, réaliser un bilan en urgence avec: **auto-prélèvement vaginal** pour PCR *[Chlamydia trachomatis]({{% relref "chlamydia-trachomatis.md" %}})* et *Neisseria gonorrhoeae*, notamment en cas d'antécédents d'[infection sexuellement transmissible (IST)](/tags/ist/), d'[infection génitale haute]({{% relref "infections-genitales-hautes.md" %}}) en cours ou récente, d'âge < 25 ans ou de partenaires multiples.
 
 Consultation de contrôle à 3 mois puis annuelle, ainsi qu'en complications possibles (douleurs pelviennes, saignements, fièvre).
 
-Le stérilet est remboursé sur prescription de sage-femme ou médecin (à 60%).
+> Le stérilet est remboursé sur prescription de sage-femme ou médecin (à 60 % + mutuelle).
 
-### Pilule contraceptive d'urgence (PCU)
+### La pilule contraceptive d'urgence (PCU)
 
-À prendre le plus tôt possible (de préférence dans les 12 heures) et jusqu'à 3 jours suivant le rapport.
+La pilule du lendemain doit être prise le plus tôt possible (de préférence dans les 12 heures) et jusqu'à 3 jours suivant le rapport sexuel.
 
 {{%info%}}
 [Lévonorgestrel 1,5 mg en 1 prise](https://base-donnees-publique.medicaments.gouv.fr/medicament/66791234/extrait#tab-rcp)  
 AR 1 fois si besoin.  
 Ou ulipristal si 72 heures dépassées (voir plus bas)
 
-Prise en charge associée au préservatif jusqu'au 1^er^ jour des règles suivantes et débuter la contraception efficace à ce moment.
+La prise en charge est associée au préservatif jusqu'au 1^er^ jour des règles suivantes, date à laquelle est débutée une contraception efficace.
 
-Utiliser un test de grossesse si retard des règles supérieur à 5 jours.  
+Utiliser un test de grossesse en cas de retard des règles supérieur à 5 jours.  
 En cas de vomissements survenant dans les 3 heures suivant la prise du comprimé ou en cas de fortes diarrhées, reprendre immédiatement un comprimé.
 {{%/info%}}
 
-Aucun risque décrit, aucune contre-indication hormis la grossesse.
+Aucun risque décrit avec la pilule contraceptive d'urgence, aucune contre-indication hormis la grossesse.
 
 **Déconseillé si:** risque de GEU (antécédent de salpingite ou de grossesse extra-utérine), maladie hépatique grave (avis du spécialiste).  
 **Effets indésirables:** modérés et de courte durée. Troubles des règles (spotting, retard de règles ou règles en avance), fatigue, nausées, vomissements, douleurs abdominales, diarrhées, céphalées, vertiges, tension mammaire.
 
-**NB.** La PCU n'a aucun effet délétère si une grossesse est déjà en cours.
+> [!INFO]
+> La PCU n'a aucun effet délétère si une grossesse est déjà en cours.
 
 #### La pilule du lendemain en pratique
 
@@ -122,11 +124,11 @@ Aucun risque décrit, aucune contre-indication hormis la grossesse.
 
 #### Ulipristal acétate (UPA)
 
-À prendre le plus tôt possible et jusqu'à 5 jours (120 heures) suivant le rapport. Préférer le LNG en cas de contraception hormonale au long cours.
+L'ulipristal doit être pris le plus tôt possible et jusqu'à 5 jours (120 heures) suivant le rapport. Préférer le lévonorgestrel (LNG) en cas de contraception hormonale au long cours.
 
-[Ulipristal acétate 30 mg en 1 prise](https://base-donnees-publique.medicaments.gouv.fr/medicament/62621512/extrait#tab-rcp) (Ellaone® ou gén).
+==[Ulipristal acétate 30 mg en 1 prise](https://base-donnees-publique.medicaments.gouv.fr/medicament/62621512/extrait#tab-rcp)== (Ellaone® ou générique).
 
-Mêmes précautions que pour la PCU (préservatif, contraception, si retard de règles, si vomissements).
+Mêmes précautions que pour la PCU (préservatif, contraception, consignes en cas de retard de règles ou de vomissements).
 
 **Contre-indications:** grossesse, insuffisance hépatique sévère, asthme sévère non contrôlé.  
 **Effets indésirables:** modérés et de courte durée. Troubles des règles (spotting, retard de règles ou règles en avance), fatigue, nausées, vomissements, douleurs abdominales, céphalées, vertiges, tension mammaire, troubles de l'humeur, myalgies, douleurs dorsales, douleurs pelviennes.
@@ -136,20 +138,21 @@ Même délivrance que le lévonorgestrel.
 {{% /collapse %}}
 {{%collapse "Information de la patiente" %}}
 
-- [OnSexPrime. La contraception d'urgence](https://www.onsexprime.fr/Sexe-sante/Que-faire-en-cas-d-urgence/La-contraception-d-urgence)
-- Fil santé jeunes: {{<phone>}}0 800 235 236{{</phone>}} (9:00-23:00)
-- Info sexualité, contraception, IVG, violences: {{<phone>}}0800 08 11 11{{</phone>}} (9:00-23:00)
-- La contraception d'urgence n'est pas efficace à 100%
+- Canaux d'information:
+  - [OnSexPrime. La contraception d'urgence](https://www.onsexprime.fr/Sexe-sante/Que-faire-en-cas-d-urgence/La-contraception-d-urgence)
+    - Fil santé jeunes: {{<phone>}}0 800 235 236{{</phone>}} (9:00-23:00)
+    - Info sexualité, contraception, IVG, violences: {{<phone>}}0800 08 11 11{{</phone>}} (9:00-23:00)
+- La contraception d'urgence n'est pas efficace à 100 %
 - Elle est à pratiquer le plus tôt possible après un rapport à risque  
   Sans contraception ou oubli.
 - Utiliser le préservatif jusqu'au 1^er^ jour des règles suivantes et débuter la contraception efficace à ce moment
-- Utiliser un test de grossesse si retard des règles > 5 jours
-- En cas de vomissements survenant dans les 3 heures suivant la prise du comprimé ou en cas de fortes diarrhées, reprendre immédiatement un comprimé
+- Utiliser un test de grossesse en cas de retard des règles supérieur à 5 jours
+- En cas de vomissements survenant dans les 3 heures suivant la prise du comprimé ou en cas de fortes diarrhées, reprendre immédiatement un comprimé de pilule du lendemain
 
 {{% /collapse %}}
 {{%collapse "Conduite à tenir pour une contraception en urgence" "show" %}}
 
-{{< mermaid title="Conduite à tenir et prise en charge par une contraception d'urgence. Dr JB Fron d'après HAS 2019" >}}
+{{< mermaid title="Conduite à tenir et prise en charge par une contraception d'urgence. Dr JB Fron d'après HAS" >}}
 graph TB
   rapport[Rapport sans<br>contraception efficace] -- + tôt possible --> 3jours(&lt; 3 jours)
   style rapport stroke:#4150f5, stroke-width:1px
@@ -173,8 +176,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Service-Public. La << pilule du lendemain >> est prise en charge à 100 % sans ordonnance pour toutes les femmes. 11/01/2023.](https://www.service-public.fr/particuliers/actualites/A16291)
-- [HAS. Contraception d'urgence. Juillet 2019.](https://www.has-sante.fr/jcms/c_1754842/fr/contraception-d-urgence)
+- [Service-Public. Contraception d'urgence. 04/04/2025.](https://www.service-public.gouv.fr/particuliers/vosdroits/F1100)
+- [HAS. Contraception d'urgence. 2019.](https://www.has-sante.fr/jcms/c_1754842/fr/contraception-d-urgence)
 - [Rahib D., Lydié N. Contraception. Baromètre de Santé Publique France 2016. Santé Publique France. 2019.](https://www.santepubliquefrance.fr/determinants-de-sante/sante-sexuelle/documents/rapport-synthese/barometre-de-sante-publique-france-2016.-contraception.-la-contraception-d-urgence-des-delais-de-prise-toujours-sous-estimes)
 - [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018. (PDF)](https://cngof.fr/app/uploads/2025/11/Contraception202018_RPC.pdf?x26468)
 
