@@ -124,6 +124,11 @@ HUGO_ENABLEGITINFO = "false"
   to = "https://recomedicales.fr/scores/score-wells-constans/"
   status = 301
 
+[[redirects]]
+  from = "https://recomedicales.fr/js/orama.min.89124ac3b676dfbcd31d78190ea53aecfdf5cf4eb7f8436a919e455820a07c7ff74976d685f49ad803599de5be59a13e.mjs"
+  to = "https://recomedicales.fr/clear/"
+  status = 301
+
 # [[plugins]]
 #   package = "netlify-plugin-inline-critical-css"
 #     [plugins.inputs]
