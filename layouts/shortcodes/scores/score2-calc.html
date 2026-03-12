@@ -314,36 +314,51 @@
       // Conversion en pourcentage
       const riskPercent = (calibrated_10y_risk * 100).toFixed(0);
 
-      displayResult(riskPercent, age);
+      displayResult(riskPercent, age, tchol, sbp);
     }
 
-    function displayResult(risk, age) {
+    function displayResult(risk, age, tchol, sbp) {
       let category = "";
       let alertClass = "";
 
       const thresholds = { low: 2, moderate: 10, high: 20 };
 
+      // 1. Determine the calculated risk tier
+      let riskTier = "";
       if (risk < thresholds.low) {
-        category =
-          '<span class="font-weight-bold">Risque cardiovasculaire faible</span> <br> Mesures d’hygiène universelles';
+        riskTier = "low";
+      } else if (risk < thresholds.moderate) {
+        riskTier = "moderate";
+      } else if (risk < thresholds.high) {
+        riskTier = "high";
+      } else {
+        riskTier = "very_high";
+      }
+
+      // 2. Override to "High Risk" if conditions are met
+      let isForcedHighRisk = false;
+      if ((tchol > 8 || sbp > 180) && (riskTier === "low" || riskTier === "moderate")) {
+        riskTier = "high";
+        isForcedHighRisk = true;
+      }
+
+      // 3. Assign content based on the final risk tier
+      if (riskTier === "low") {
+        category = '<span class="font-weight-bold">Risque cardiovasculaire faible</span> <br> Mesures d’hygiène universelles';
         alertClass = "alert-success";
         if (age < 70) {
           category += '<br> LDL cible &lt; 1,16 g/L';
-          category +=
-            ' <hr> Mesures hygiéno-diététiques de réduction du LDL en cas de LDL ≥ 1,16 g/L. <br> Considérer une statine en cas de persistance.';
+          category += ' <hr> Mesures hygiéno-diététiques de réduction du LDL en cas de LDL ≥ 1,16 g/L. <br> Considérer une statine en cas de persistance.';
         }
-      } else if (risk < thresholds.moderate) {
-        category =
-          '<span class="font-weight-bold">Risque cardiovasculaire modéré</span> <br> Mesures d’hygiène universelles';
+      } else if (riskTier === "moderate") {
+        category = '<span class="font-weight-bold">Risque cardiovasculaire modéré</span> <br> Mesures d’hygiène universelles';
         alertClass = "alert-warning";
         if (age < 70) {
           category += '<br> LDL cible &lt; 1 g/L';
-          category +=
-            ' <hr> Mesures hygiéno-diététiques en cas de LDL ≥ 1 g/L. <br> Considérer une statine en cas de persistance.';
+          category += ' <hr> Mesures hygiéno-diététiques en cas de LDL ≥ 1 g/L. <br> Considérer une statine en cas de persistance.';
         }
-      } else if (risk < thresholds.high) {
-        category =
-          '<span class="font-weight-bold">Risque cardiovasculaire élevé</span> <br> Mesures d’hygiène universelles';
+      } else if (riskTier === "high") {
+        category = '<span class="font-weight-bold">Risque cardiovasculaire élevé</span> <br> Mesures d’hygiène universelles';
         alertClass = "alert-danger";
         if (age < 70) {
           category += '<br> LDL cible &lt; 0,7 g/L et réduction ≥ 50 %. <br> Statine d’emblée si LDL ≥ 1 g/L.';
@@ -351,9 +366,8 @@
         } else {
           category += '<br> Une statine peut être envisagée chez le sujet en bonne santé. <br> Un objectif &lt; 1 g/L peut sembler raisonnable.';
         }
-      } else {
-        category =
-          '<span class="font-weight-bold">Risque cardiovasculaire très élevé</span> <br> Mesures d’hygiène universelles';
+      } else if (riskTier === "very_high") {
+        category = '<span class="font-weight-bold">Risque cardiovasculaire très élevé</span> <br> Mesures d’hygiène universelles';
         alertClass = "alert-danger";
         if (age < 70) {
           category += '<br> LDL cible &lt; 0,55 g/L et réduction ≥ 50 %. <br> Statine d’emblée si LDL ≥ 0,7 g/L.';
@@ -363,16 +377,25 @@
         }
       }
 
-      for (const [level, value] of Object.entries(thresholds)) {
-        // Check if the difference between the risk and the threshold is 2 or less
-        if (value - risk <= 2 && value - risk > 0) {
-          category += '<br><strong>NB.</strong> Le SCORE2 est à moins de 2 points du niveau de risque plus élevé !';
+      // Render SCORE2
+      riskScoreEl.textContent = `${Intl.NumberFormat("fr-FR").format(risk)} %`;
+
+      // 4. Add threshold warnings or override explanations
+      if (isForcedHighRisk) {
+        riskScoreEl.textContent = 'SCORE2 inutile';
+        category += '<br><br><strong>NB.</strong> Le risque est d’emblée Élevé en raison d’un cholestérol total &gt; 8 mmol/L ou d’une tension artérielle &gt; 180 mmHg.';
+      } else {
+        for (const [level, value] of Object.entries(thresholds)) {
+          // Check if the difference between the risk and the threshold is 2 or less
+          if (value - risk <= 2 && value - risk > 0) {
+            category += '<br><strong>NB.</strong> Le SCORE2 est à moins de 2 points du niveau de risque plus élevé !';
+          }
         }
       }
 
-      riskScoreEl.textContent = `${Intl.NumberFormat("fr-FR").format(risk)} %`;
       riskCategoryEl.innerHTML = category;
       riskDescriptionEl.textContent = `Risque de développer une maladie cardiovasculaire fatale ou non fatale dans les 10 prochaines années.`;
+
       // Mise à jour des classes de l'alerte
       resultDisplay.className = "alert"; // Réinitialiser les classes
       resultDisplay.classList.add(alertClass);
