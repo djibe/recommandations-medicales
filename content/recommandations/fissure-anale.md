@@ -121,7 +121,7 @@ Le traitement et la prise en charge des fissures anales est hygiéno-diététiqu
 > [!INFO]
 > Le traitement des fissures anales chroniques relève d'une prise en charge proctologique.
 
-La prise en charge de la fissure anale chronique peut être: trinitrine topique (voir plus haut, peut réduire de moitié le recours à la chirurgie), inhibiteur calcique topique (diltiazem ou nifédipine [Nifexine®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63967022/extrait#tab-rcp)), toxine botulique type A.
+Traitements locaux disponibles pour la prise en charge de la **fissure anale chronique**: trinitrine topique (voir plus haut, peut réduire de moitié le recours à la chirurgie), inhibiteur calcique topique (diltiazem ou nifédipine [Nifexine®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63967022/extrait#tab-rcp)), toxine botulique type A.
 
 Une **chirurgie** par sphinctérotomie latérale interne peut être envisagée. La cicatrisation est longue (de 6 à 16 semaines).
 

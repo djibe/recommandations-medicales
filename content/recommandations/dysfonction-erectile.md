@@ -200,7 +200,7 @@ Rechercher des signes de [syndrome de Cushing]({{% relref "syndrome-cushing.md" 
 
 {{%info%}}
 
-### Bilan devant une dysfonction érectile
+### Bilan de la dysfonction érectile
 
 - NFS
 - Ionogramme, créatininémie et DFG

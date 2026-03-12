@@ -40,7 +40,7 @@ Canal lombaire étroit ou rétréci
 ### Étiologie du canal lombaire étroit acquis
 
 - Dégénérative
-  - **Discopathie dégénérative** (L4L5 ++)
+  - **Discopathie dégénérative** (L4-L5 ++)
   - Spondylolisthésis arthrosique
   - Hypertrophie des ligaments jaunes
   - [Scoliose]({{% relref "scoliose.md" %}})

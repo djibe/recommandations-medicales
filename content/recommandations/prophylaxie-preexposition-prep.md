@@ -253,7 +253,7 @@ puis 1 cp à H24 (± 2h) après la double prise, à renouveler à H48 (± 2h).
 
 ### La PrEP injectable d'action prolongée
 
-La PrEP par cabotégravir (CAB-LP, [Vocabria®](https://www.ema.europa.eu/fr/documents/product-information/vocabria-epar-product-information_fr.pdf)) est disponible en 2^e^ intention en cas de nécessité d'une prise de longue durée ou de contre-indication au ténofovir (insuffisance rénale < 50 mL/min/1,73m²)
+La PrEP par cabotégravir (CAB-LP, [Vocabria®](https://base-donnees-publique.medicaments.gouv.fr/medicament/67129301/extrait#tab-rcp-et-notice)) est disponible en 2^e^ intention en cas de nécessité d'une prise de longue durée ou de contre-indication au ténofovir (insuffisance rénale < 50 mL/min/1,73m²)
 
 ### Arrêt de la PrEP
 

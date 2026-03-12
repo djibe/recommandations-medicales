@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2026-02-13"
+lastmod = "2026-03-12"
 specialites = ["néphrologie"]
 annees = "2024"
 sources = ["KDIGO", "HAS", "ESH", "ADA", "ESC"]
@@ -29,8 +29,8 @@ todo = "Albuminurie perturbée, aliments riches K/P (HAS2023p71), désindexation
 - 3 piliers de l'évaluation de la maladie rénale chronique: étiologie, estimation du débit de filtration glomérulaire (DFG) selon CKD-EPI et rapport albuminurie/créatininurie (RAC)
 - Toute personne avec une insuffisance rénale chronique est à {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 - Néphroprotection et prise en charge de l'insuffisance rénale:  
-  Arrêt du tabac, {{< modal-btn modal-nephrotoxiques >}}éviter les néphrotoxiques{{< /modal-btn >}}, tension cible < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}, souvent {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, vaccin covid-19, activité physique
-- Adaptation des traitements selon la clairance {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
+  Arrêt du tabac, {{< modal-btn modal-nephrotoxiques >}}éviter les néphrotoxiques{{< /modal-btn >}}, tension cible < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale, souvent {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, vaccinations, activité physique
+- Adaptation des traitements selon le DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - {{< modal-btn modal-creatinine >}}Situations où le débit de filtration estimé n'est pas fiable{{< /modal-btn >}}
 - Avis néphrologique si: étiologie autre que diabète ou hypertension, DFGe < 45 (20 si âgé), évolutive ([score KFRE](https://kidneyfailurerisk.com), déclin rapide), albuminurie, complication, hypertension non contrôlée, traitement à {{< modal-btn modal-nephrotoxiques >}}marge thérapeutique étroite{{< /modal-btn >}}
 - Le suivi de la maladie rénale chronique de l'enfant relève exclusivement du néphrologue
@@ -64,8 +64,8 @@ Pour le stade de la maladie rénale chronique et l'albuminurie, voir *Clinique*.
 CKD-EPI
 : {{%lang%}}Chronic Kidney Disease EPIdemiology collaboration (*Levey 2009*){{%/lang%}}. Formule d'estimation simplifiée la plus précise pour le calcul du débit de filtration glomérulaire estimé (DFGe) et l'adaptation des traitements
 
-DFGe
-: débit de filtration glomérulaire estimé (remplace le calcul de la clairance de la créatinine Cockroft)
+DFG
+: débit de filtration glomérulaire estimé (ou DFGe, remplace le calcul de la clairance de la créatinine Cockroft)
 
 FRCV
 : facteurs de risque cardiovasculaire
@@ -285,45 +285,50 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
   - Stade 1, 2, 3A stable sans complication, sans albuminurie, HTA contrôlée, pas de traitement à marge thérapeutique étroite
   - Et sujet âgé avec DFG 20-45
 - Thérapeutique
-  - Adaptation médicamenteuse selon le DFG estimé par {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
+  - **Adaptation médicamenteuse** selon le DFG estimé par {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
   - {{< modal-btn modal-nephrotoxiques >}}Éviction des néphrotoxiques{{< /modal-btn >}}
   - Pas d'automédication ou herbes chinoises
-- {{< modal-btn modal-rcv >}}Risque cardiovasculaire (RCV) élevé ou très élevé{{< /modal-btn >}}
+- **Gliflozine** ({{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}) recommandée si:
+  - Albuminurie ≥ 20 mg/mmol (*KDIGO 2024*)
+  - DFG 20-45 mL/min/1,73 m² (*KDIGO 2024* suggère)
+  - Diabète type 2 (*SFD 2025*, *KDIGO 2024*, initier tant que DFG ≥ 20), insuffisance cardiaque
+- **Le {{< modal-btn modal-rcv >}}Risque cardiovasculaire (RCV) est au moins élevé{{< /modal-btn >}}**
   - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
+  - **{{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} systématique** pour {{< modal-btn modal-rcv >}}LDL < 0,7 g/L{{< /modal-btn >}} si IRC modérée et 0,55 g/L pour IRC sévère (et réduction ≥ 50 %)  
+    Ne pas introduire au stade terminal, évaluer la poursuite à ce stade.
   - Réduction de l'alcool
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}} ou DASH
   - Activité physique d'intensité modérée ≥ 150 minutes par semaine
   - Lutte contre la sédentarité
   - Correction d'un surpoids
   - {{< modal-btn modal-sel >}}Régime désodé cible < 5 g/j{{< /modal-btn >}} (max 6-8 g/j) et hydrique ~1,5 L/j (ni restreint ni forcé)
-- Hypertension artérielle
+- **Hypertension artérielle**
   - Traitement si PA ≥ 140/90 (*HAS* et *ESH 2023*) ou n'est pas dans la cible (*KDIGO 2021*)
   - Pression artérielle cible < 120/90 mmHg (*KDIGO 2024*, si possible pour *HAS 2023*)
   - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale avec anticalcique ou thiazidique (de l'anse à partir de 30 mL/min)
-  - Puis trithérapie ci-dessus si nécessaire
+  - Puis trithérapie si nécessaire
   - Si greffe rénale: MAPA, cible < 130/80 mmHg (*ESH 2023* et *KDIGO 2021*)  
    par anticalcique dihydropyridine ou thiazidique.
   - [Automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}})
-- {{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} ± ézétimibe
-  - Statine systématique pour {{< modal-btn modal-rcv >}}LDL < 0,7 g/L{{< /modal-btn >}} si IRC modérée et 0,55 g/L pour IRC sévère (et réduction ≥ 50 %)
-  - Ne pas introduire au stade terminal; évaluer la poursuite à ce stade
 - **Albuminurie**
-  - Albuminurie cible < 30 mg/mmol par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}
-  - Si DFG > 20 et (diabète type 2, insuffisance cardiaque, DFG ≤ 45 ou albuminurie ≥ 20 mg/mmol): ajouter {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
-- Protéines si DFGe < 60: apports de 0,8 g/kg/j (sauf chez la personne âgée)  
-  Limiter à 1,3 g/kg/j si MRC à risque de progression.
+  - Albuminurie cible < 30 mg/mmol par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} pleine dose
+  - Si albuminurie ≥ 20 mg/mmol: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
 - Vaccinations
   - Annuels: grippe, Covid-19 et de l'entourage
   - {{< modal-btn modal-vaccin-pneumocoque >}}Pneumocoque{{< /modal-btn >}}
   - Sérologie [hépatite B]({{% relref "hepatite-b.md" %}}) et vacciner si Ac anti-HBs < 10 UI/L  
     [4 doubles doses]({{% relref "hepatite-b.md" %}}) si hémodialysé non vacciné.
 - Ferritinémie cible > 100 ng/mL
-- DFGe < 45
+- DFG < 60 mL/min/1,73 m²:
+  - Lutte contre l'hyperphosphorémie (produits transformés ++)
+  - Protéines: apports de 0,8 g/kg/j (sauf chez la personne âgée)  
+    Limiter à 1,3 g/kg/j si MRC à risque de progression.
+- DFG < 45 mL/min/1,73 m²:
   - Suivi par néphrologue impératif
   - Protection du *capital veineux*
   - [Vitamine D cible]({{% relref "vitamine-d.md" %}}) > 75 nmol/L (*HAS 2023*)
-- Acidose métabolique < 23 mmol/L: cible 23-27 mmol/L, alimentation alcalisante voire 3-6 g/j de bicarbonate de sodium
-- < 60: lutte contre l'hyperphosphorémie (produits transformés ++)
+  - iSGLT2 suggéré
+- Acidose métabolique < 23 mmol/L: cible 23-27 mmol/L, alimentation alcalinisante voire 3-6 g/j de bicarbonate de sodium
 - Associations de patients: [Fondation du Rein](https://www.fondation-du-rein.org), [France Rein](https://www.francerein.org), [renaloo](https://renaloo.com), [AIRG](https://www.airg-france.fr), [Objectif Rein Santé](https://objectifreinsante.org)
 - Si MRC sévère et Covid-19: [antiviral en urgence]({{% relref "covid-19.md" %}})
 - [Reconnaissance possible en Maladie professionnelle](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&field_activites_nuisances=&field_maladies=insuffisance+r%C3%A9nale&field_numeroCAS=&mot_cles_tableau=&motsCles=&valid_RECHERCHE_MOTSCLES=Rechercher&introspection=)  
@@ -331,15 +336,15 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
 
 ### Prise en charge de la maladie rénale chez le diabétique
 
-Mesures précédentes avec les particularités suivantes chez la personne vivant avec un diabète (*HAS*, *ADA*, *ESC 2023* et *KDIGO 2022*):
+Mesures précédentes avec les particularités suivantes chez la personne vivant avec un diabète (*SFD*, *HAS*, *KDIGO*, *ADA*, *ESC 2023*):
 
 - Albuminurie cible < 3 mg/mmol
   - Contrôle par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} + anti-aldostérone finérénone (Karendia®, pas encore disponible) si non contrôlée (si DFG ≥ 25 et kaliémie normale)
   - Albuminurie et normotension: considérer {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}
-- {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}} (8 % si IRC sévère ou terminale)
+- {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7 %{{< /modal-btn >}} (8 % si IRC sévère ou terminale)
 - Suivi diabétologique impératif
-- Traitements hypoglycémiants préférentiels: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}} voire {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}
-- Attention au risque hypoglycémique: sulfamide, glinide, insuline
+- Traitements hypoglycémiants préférentiels: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} systématique, {{< modal-btn modal-glp1 >}}GLP-1{{< /modal-btn >}}, {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}
+- Attention au risque hypoglycémique avec les: sulfamide, glinide, insuline
 
 {{%/collapse %}}
 {{%collapse "Suivi de la maladie rénale chronique" %}}

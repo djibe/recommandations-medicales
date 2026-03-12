@@ -233,6 +233,7 @@ graph TB
 
 ### Bibliographie en attente
 
-[Uyeki TM, et al. Clinical Practice Guidelines by the Infectious Diseases Society of America: 2018 Update on Diagnosis, Treatment, Chemoprophylaxis, and Institutional Outbreak Management of Seasonal Influenzaa. Clin Infect Dis. 2019.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6653685/)
+- [Vandvik P O, et al. Summary of WHO clinical practice guidelines for influenza. BMJ. 2026.](https://www.bmj.com/content/392/bmj-2025-087397)
+- [Uyeki TM, et al. Clinical Practice Guidelines by the Infectious Diseases Society of America: 2018 Update on Diagnosis, Treatment, Chemoprophylaxis, and Institutional Outbreak Management of Seasonal Influenzaa. Clin Infect Dis. 2019.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6653685/)
 
 {{%/sources%}}
