@@ -182,6 +182,10 @@ Le suivi de la coxarthrose est réalisé à la demande du patient, avec pour ré
 - [Collège Français des Enseignants en Rhumatologie (COFER). Arthrose. Item 129 UE 6. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-8-0.php)
 - {{< references/aderim >}}
 
+### Bibliographie en attente
+
+- [Moseng T, et al. EULAR recommendations for the non-pharmacological core management of hip and knee osteoarthritis: 2023 update. Ann Rheum Dis. 2024.](https://ard.bmj.com/content/early/2024/01/11/ard-2023-225041.long)
+
 {{%/sources%}}
 {{% modal title="Indice de Lequesne" id="modal-score-lequesne"%}}
 

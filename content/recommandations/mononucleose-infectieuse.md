@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-07-24T11:29:36+02:00"
 publishdate = "2023-07-27"
-lastmod = "2024-01-02"
+lastmod = "2026-03-13"
 specialites = ["infectiologie", "pédiatrie"]
 annees = "2023"
 sources = ["Collèges"]
@@ -24,7 +24,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- La mononucléose infectieuse (MNI) est une primo-infection symptomatique à Epstein-Barr virus (EBV)
+- La mononucléose infectieuse (MNI) est une primo-infection symptomatique par le virus Epstein-Barr (EBV)
 - Les symptômes de la mononucléose sont aspécifiques avec le plus souvent une fatigue persistante, une fièvre prolongée chez le nourrisson et le jeune enfant, une angine pseudomembraneuse ou érythématopultacée
 - Un exanthème polymorphe après la prise d'amoxicilline est évocateur
 - Évoquer une mononucléose devant une angine, une splénomégalie ou la découverte d'un syndrome mononucléosique biologique
@@ -61,7 +61,7 @@ MNI
 
 ### Interrogatoire
 
-La mononucléose infectieuse (primo-infection EBV) est le plus souvent asymptomatique ou donne un tableau clinique aspécifique du nourrisson à l'adulte jeune:
+La mononucléose infectieuse (primo-infection EBV) est le plus souvent **asymptomatique** ou donne un tableau clinique aspécifique du nourrisson à l'adulte jeune:
 
 - Incubation longue (4-6 semaines)
 - Antécédents
@@ -70,7 +70,7 @@ La mononucléose infectieuse (primo-infection EBV) est le plus souvent asymptoma
 - Rapport sexuel à risque
 - Signes généraux
   - Fièvre d'intensité variable  
-    Nourrisson: fièvre prolongée isolée.
+    Nourrisson-jeune enfant: **fièvre prolongée** isolée.
   - [Fatigue](/tags/fatigue/) marquée (adolescent)
 - **[Angine]({{% relref "angine.md" %}}) érythématopultacée ou pseudo-membraneuse** respectant la luette  
   Parfois purpura du voile du palais, œdème de la luette.
@@ -122,7 +122,7 @@ La prise en charge d'une mononucléose infectieuse est purement symptomatique:
 {{% /collapse %}}
 {{%collapse "Prise en charge de la mononucléose infectieuse" "show" %}}
 
-{{< mermaid title="Prise en charge de la mononucléose infectieuse (MNI) par le médecin généraliste. Dr JB Fron d'après Collèges 2023" >}}
+{{< mermaid title="Prise en charge de la mononucléose infectieuse (MNI) par le médecin généraliste. Dr JB Fron d'après Collèges" >}}
 graph TB
   suspicion["<b>Suspicion de mononucléose infectieuse</b><br>symptomatique<br>—<br>Incubation 4-6 semaines:<br>- Fièvre persistante<br>- Fatigue intense<br>- Angine érythématopultacée<br>ou pseudo-membraneuse<br>- Éruption fébrile<br>- Rash sous amoxicilline"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements en cours<br>- Rapport sexuel à risque<br>- Risque de toxoplasmose<br>- Examen clinique") --> bilan("<b>Bilan</b><br>—<br>- NFS, CRP<br>- MNI test<br>± Sérologie CMV<br>± Sérologie toxoplasmose<br>- Autres ciblés") --> traitement("<b>Traitement</b><br>—<br>- Repos<br>- Symptomatique<br>- Informer: durée de<br>la fièvre non prévisible")
     clinique --> autre(Autre diagnostic)
@@ -133,7 +133,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [CMIT. Syndrome mononucléosique. Item 217. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-217.pdf)
+- [CMIT. Syndrome mononucléosique. Item 217. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-217.pdf)
+- [CMIT. Syndrome mononucléosique. Item 217. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-217-web.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Éruptions fébriles. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/eruptions-febriles)
 - Collège National des Enseignants de Médecine Interne (CEMI). Syndrome mononucléosique. Item 217. Référentiel Collège de Médecine interne R2C. 2021.
 

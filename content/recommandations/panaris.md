@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-25T21:22:41+02:00"
 publishdate = "2020-09-25"
-lastmod = "2023-10-20"
+lastmod = "2026-03-13"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2023"
 sources = ["Collèges"]
@@ -23,11 +23,12 @@ todo = "rankok"
 
 {{%article-summary%}}
 
-- Le diagnostic de panaris est clinique
-- La prise en charge d'un panaris comprend surtout des bains antiseptiques pluriquotidiens (2 à 3 fois par jour)
-- Antibiothérapie ciblant le staphylocoque doré (pristinamycine) si immunodépression, valvulopathies, diabète ou évolution défavorable du panaris
+- Le panaris est une infection aiguë du doigt limitée au plan cutané ou sous-cutané
+- Le diagnostic de panaris est clinique: inflammation du doigt (principalement la dernière phalange) avec parfois une phlyctène purulente (stade collecté)
+- La prise en charge d'un panaris comprend en phase précoce des bains antiseptiques pluriquotidiens (2 à 3 fois par jour)
+- Un traitement par antibiothérapie ciblant le staphylocoque doré est indiqué en cas d'immunodépression, valvulopathies, diabète ou évolution défavorable du panaris: pristinamycine 1g x 2-3/j pendant 7 jours
 - Un panaris collecté étendu nécessite une exérèse chirurgicale
-- Consignes pour prévenir les récidives du panaris: lavage des mains, désinfection des plaies, précautions lors des manucures
+- Des consignes sont nécessaires pour prévenir les récidives de panaris: lavage des mains, désinfection des plaies, précautions lors des manucures
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -35,8 +36,11 @@ todo = "rankok"
 Panaris
 : Infection aiguë du doigt limitée au plan cutané ou sous-cutané.
 : Germes les plus fréquents: ***Staphylococcus aureus*** ± sécréteur de *toxine de Panton Valentine* (VPL, Méthi-S++) et streptocoque pyogenes (SGA).  
-: Acupuncture ou piercing: *Mycobacterium fortuitum* ou *M. chelonae*.
+: En cas d'acupuncture ou de piercing: *Mycobacterium fortuitum* ou *M. chelonae*.
 : Complications du panaris: atteinte profonde des fléchisseurs à l'origine d'un **phlegmon des gaines** et d'une **ostéo-arthrite**.
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
 
 ### Diagnostic différentiel d'un panaris
 
@@ -59,14 +63,14 @@ Intérêt de l'auscultation cardiaque chez le patient à risque d'[endocardite i
 Stade inflammatoire du panaris
 : Atteinte superficielle de la pulpe ou de type péri-onyxis (tourniole).
 
-Cliniquement: inflammation de la dernière phalange avec douleurs modérées (doigt érythémateux, œdématié) sans fièvre.
+Cliniquement: **inflammation de la dernière phalange avec douleurs modérées** (doigt érythémateux, œdématié) **sans fièvre**.
 
 ### Panaris au stade collecté
 
 Aspect caractéristique du panaris collecté:
 
 - Douleurs inflammatoires violentes (pulsatiles, insomniantes)
-- Tuméfaction pulpaire tendue, fréquente phlyctène purulente sus-jacente
+- Tuméfaction pulpaire tendue, fréquente **phlyctène purulente** sus-jacente
 - Fréquente lymphangite associée, adénite régionale voire fièvre
 
 {{% /collapse %}}
@@ -93,18 +97,18 @@ Mesures de prévention du panaris:
 
 Recommandations générales de prise en charge du panaris:
 
-- Recherche et traitement de la porte d'entrée
-- Antalgie par paracétamol
+- Recherche et traitement de la porte d'entrée infectieuse
+- Antalgie: paracétamol
 - Vérification du statut vaccinal antitétanique
 - Réévaluation clinique à 48 heures
 - Éducation sur l'hygiène des mains
-- Arrêt de travail systématique si profession à risque  
+- Si profession à risque: arrêt de travail systématique  
   Industrie agro-alimentaire ou restauration.
 
-Ne pas utiliser: AINS ou antibiotiques cutanés.
-{.alert .alert-warning}
+> [!WARNING]
+> Pour un panaris, ne pas utiliser: AINS ou antibiotiques cutanés.
 
-### Stade inflammatoire: traitement du panaris
+### Panaris au stade inflammatoire
 
 Bains antiseptiques de chlorhexidine 2 à 3 fois par jour
 {.alert .alert-info}
@@ -119,10 +123,10 @@ Indications au traitement antibiotique d'un panaris: immunodépression (diabète
 
 #### Antibiothérapie du panaris de l'adulte
 
-Pristinamycine (Pyostacine®) 1g x 2-3/j pendant 7 jours (couvre le SARM)
+Pristinamycine ([Pyostacine®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63728481/extrait#tab-rcp)) 1g x 2-3/j pendant 7 jours (couvre le SARM)
 {.alert .alert-info}
 
-ou cloxacilline (Orbénine®) 50 mg/kg/j en 3 prises (max 4 g/j) 7 jours  
+ou [cloxacilline](https://base-donnees-publique.medicaments.gouv.fr/medicament/65542326/extrait#tab-rcp) 50 mg/kg/j en 3 prises (max 4 g/j) 7 jours  
 ou amoxicilline/acide clavulanique 1g x 3/j 7 jours
 
 #### Antibiothérapie du panaris de l'enfant
@@ -130,8 +134,8 @@ ou amoxicilline/acide clavulanique 1g x 3/j 7 jours
 Pristinamycine (Pyostacine®) 50 mg/kg/j x 2-3/j pendant 7 jours (couvre le SARM)
 {.alert .alert-info}
 
-ou cloxacilline (Orbénine®) 50 mg/kg/j en 3 prises (max 4g/j) 7 jours  
-ou amoxicilline/acide clavulanique 1 dose-kg x 3/j 7 jours (seul traitement pour les -6 ans)
+ou cloxacilline 50 mg/kg/j en 3 prises (max 4g/j) 7 jours  
+ou amoxicilline/acide clavulanique 1 dose-kg x 3/j 7 jours (seul traitement avant 6 ans)
 
 ### Prise en charge du panaris au stade collecté
 

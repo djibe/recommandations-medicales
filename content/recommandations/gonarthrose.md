@@ -7,7 +7,7 @@ synonyms = ["Arthrose du genou"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-15T19:21:00+02:00"
 publishdate = "2021-01-17"
-lastmod = "2025-08-06"
+lastmod = "2026-03-13"
 specialites = ["rhumatologie"]
 annees = "2021"
 sources = ["SFRhumato", "AASM"]
@@ -17,23 +17,24 @@ sctid = "239873007"
 icd10 = ["M17", "M17.9"]
 image = true
 imageSrc = "Arthrose sévère du genou (gonarthrose) avec disparition de l'interligne des 3 compartiments, ostéophytose et sclérose sous-chondrale. Dr Ian Bickle sur Radiopaedia.org"
-todo = "réécriture"
+todo = "relecture"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- La gonarthrose est l'atteinte arthrosique la plus fréquente et peut atteindre les 2 compartiments fémoro-tibial et fémoro-patellaire avec pour complications les risque cardiovasculaire par sédentarité et la dépression
-- Prévention de l'aggravation de l'arthrose du genou: maintien de l'activité physique des membres inférieurs (aquatique ou non)
-- Bilan initial des douleurs des genoux évocatrices de gonarthrose: radiographies des genoux de face en charge, profil, défilé fémoro-patellaire à 30° de flexion, schuss (de face, en charge avec 30-60° de flexion)
-- Prise en charge et traitement de la poussée de gonarthrose: AINS topiques et oraux, infiltrations de corticoïdes
-- Chirurgie du genou (ostéotomie ou prothèse) en cas d'échec du traitement médical avec altération de la qualité de vie
+- La gonarthrose est l'atteinte arthrosique la plus fréquente et peut atteindre les 2 compartiments du genou (fémoro-tibial et fémoro-patellaire) avec pour complications l'augmentation des risques de dépression et du risque cardiovasculaire par sédentarité
+- Les symptômes de gonarthrose sont des douleurs mécaniques du genou, augmentées aux escaliers ou après la station assise prolongée, et la raideur
+- La réduction de son évolution repose sur le maintien de l'activité physique des membres inférieurs (aquatique ou non) et leur renforcement, les chaussures souples, la correction d'un surpoids
+- Le bilan initial de douleurs des genoux évocatrices d'arthrose comprend des radiographies des genoux de face en charge, profil, défilé fémoro-patellaire à 30° de flexion, schuss (de face, en charge avec 30-60° de flexion)
+- La prise en charge de la poussée de gonarthrose associe: antalgie avec application de chaleur, paracétamol, AINS topiques et oraux, repos voire infiltrations de corticoïdes
+- La chirurgie du genou (ostéotomie ou prothèse) est indiquée en cas d'échec du traitement médical avec altération de la qualité de vie
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Gonarthrose
-: Atteinte la plus fréquente de l'arthrose. Les 2 compartiments du genou peuvent être atteints: **fémoro-tibiale** (interne surtout, 1/2) et **fémoro-patellaire** (1/3).
+: Atteinte la plus fréquente de l'arthrose. Les 2 compartiments du genou peuvent être atteints: **fémoro-tibiale** (interne surtout, 50 %) et **fémoro-patellaire** (30 %).
 : L'évolution de la maladie se fait par poussées de gonalgie et demeure très variable. Une synovite chronique est un facteur de mauvais pronostic.
 
 Gonarthrose destructrice rapide
@@ -128,17 +129,17 @@ L'évaluation clinique pour une gonarthrose recherche le retentissement sur les 
   - En cours (anticoagulants et antiagrégants)
   - Essayés (posologies, efficacité, tolérance)
   - Nombre d'infiltrations des genoux
-- Arthrose fémoro-tibiale
+- **Symptômes de la l'arthrose fémoro-tibiale**
   - Douleur mécanique diffuse du genou ou interne
   - Gonalgie augmentée aux escaliers, remise en charge, soulagée au repos
   - Pas de réveil nocturne sauf changement de position
   - Chronique avec crises inflammatoires locales
-- Arthrose fémoro-patellaire
+- **Symptômes de l'arthrose fémoro-patellaire**
   - Douleur mécanique de la face antérieure du genou
   - Augmentée à la descente des escaliers, station assise prolongée et agenouillement
 - Raideur
 - Gêne fonctionnelle  
-  Recommandation pour des questionnaires types: [Indice de Lequesne](http://medicalcul.free.fr/lequesne_genou.html), [KOOS](http://fr.scale-library.com/resultat_echelle.php?echelle=Knee%20injury%20and%20Osteoarthritis%20Outcome%20Score%20(KOOS)&theme=&type=&scalage=adulte&retour=liste) ou [WOMAC (PDF)](http://fr.scale-library.com/pdf/Index_de_WOMAC.pdf).
+  Échelles recommandées: {{< modal-btn modal-score-lequesne-genou >}}indice de Lequesne{{< /modal-btn >}}, KOOS ou WOMAC.
 - Niveau d'activité physique
 - Qualité de vie
 
@@ -214,12 +215,12 @@ Recommandations pour la prise en charge des douleurs de gonarthrose et mesures g
 - Pourraient être proposés: acupuncture, TENS, cure thermale
 - Information du patient: [guide Ameli](https://www.ameli.fr/assure/sante/themes/arthrose-genou/)
 
-Traitements à ne pas utiliser: bandes adhésives de contention ou orthèses souples, électrothérapie, thermothérapie, ondes de choc, laser, thérapies électromagnétiques.
-{.alert .alert-warning}
+> [!WARNING]
+> Traitements à ne pas utiliser pour l'arthrose du genou: bandes adhésives de contention ou orthèses souples, électrothérapie, thermothérapie, ondes de choc, laser, thérapies électromagnétiques.
 
 #### Infiltrations de corticoïdes
 
-Les injections intra-articulaires de corticoïdes peuvent être proposées, particulièrement lors d'une poussée inflammatoire avec épanchement articulaire et sont à préférer chez le **sujet âgé**. Amélioration de courte durée (AAOS 2021).
+Les injections intra-articulaires de corticoïdes peuvent être proposées, particulièrement lors d'une poussée inflammatoire avec épanchement articulaire et sont à préférer chez le **sujet âgé**. Amélioration de courte durée (*AAOS 2021*).
 
 Le renouvellement des infiltrations est discuté au cas par cas (tolérance, comorbidités, nombre d'injections).
 
@@ -227,7 +228,7 @@ Le renouvellement des infiltrations est discuté au cas par cas (tolérance, com
 
 Les injections intra-articulaires d'acide hyaluronique (AH) dans le genou peuvent être proposées, sans avancer d'effet chondroprotecteur. L'efficacité est retardée par rapport aux corticoïdes.
 
-> **En défaveur:** *AAOS 2021* << n'est pas un traitement de routine >> et *CNGE 2022*: << Le conseil scientifique du CNGE conclut à un rapport bénéfice/risque défavorable et conseille d'éviter la visco-supplémentation dans la gonarthrose >>.
+> **Avis divergents, en défaveur:** *AAOS 2021* << n'est pas un traitement de routine >> et *CNGE 2022*: << Le conseil scientifique du CNGE conclut à un rapport bénéfice/risque défavorable et conseille d'éviter la visco-supplémentation dans la gonarthrose >>.
 > En faveur: << Le groupe de travail a considéré que leur niveau d'efficacité et leur profil de tolérance les placent comme un outil thérapeutique important de la gonarthrose symptomatique. >> -- *SFR 2020*
 
 Pas de certitude entre le choix d'injection unique en séquentielle triple. Le renouvellement des injections est discuté au cas par cas.
@@ -240,7 +241,7 @@ De faible niveau de preuve, le PRP pourrait réduire les douleurs et améliorer 
 
 Indication à l'arthroplastie du genou: gonarthrose symptomatique avérée avec résistance au traitement bien conduit et altération de la qualité de vie.
 
-Un indice de Lequesne ≥ 10-12 doit aussi faire envisager la chirurgie.
+Ce seuil correspond habituellement à un {{< modal-btn modal-score-lequesne-genou >}}indice de Lequesne{{< /modal-btn >}} à 10-12 ou supérieur.
 
 Méthodes chirurgicales: ostéotomie de réaxation ou prothèse total de genou (PTG).
 
@@ -288,7 +289,7 @@ Recours possible à la duloxétine sur prescription par un expert en l'absence d
 
 {{< mermaid title="Prise en charge de la gonarthrose par le médecin généraliste. Dr JB Fron d'après SFRhumato" >}}
 graph TB
-  suspicion["<b>Suspicion de gonarthrose</b><br>—<br>- Douleurs mécaniques du genou<br>avec poussées<br>- Troubles de la marche,<br>escaliers, agenouillement"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements en cours<br>et essayés<br>- Symptômes et situations<br>- Raideur<br>- Gêne fonctionnelle<br>- Niveau d'activité physique<br>- Qualité de vie<br>- Examen clinique") --> bilan("<b>Bilan</b><br>—<br>- NFS, CRP<br>± Uricémie<br>- Radiographies des genoux<br>en charge F + P,<br>défilé fémoro-patellaire,<br>Schuss") --> mesures("<b>Mesures générales</b><br>—<br>- Antalgie paracétamol,<br>opioïdes peu efficaces<br>- AINS naproxène ou topique<br>- Repos, canne<br>- Renforcement musculaire<br>- Correction d'un surpoids<br>- Kinésithérapie<br>- Arthrose fémoro-tibiale:<br>orthèse articulée de décharge<br>- Chaussures souples,<br>semelles amortissantes<br>- Adaptation du poste de travail") -. Échec .-> rhumatologue("Rhumatologue<br>± infiltrations") -. Échec .-> orthopédie("Chirurgien orthopédique")
+  suspicion["<b>Suspicion de gonarthrose</b><br>—<br>- Douleurs mécaniques du genou<br>avec poussées<br>- Troubles de la marche,<br>escaliers, agenouillement"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements en cours<br>et essayés<br>- Symptômes et situations<br>- Raideur<br>- Gêne fonctionnelle,<br>Lequesne<br>- Niveau d'activité physique<br>- Qualité de vie<br>- Examen clinique") --> bilan("<b>Bilan</b><br>—<br>- NFS, CRP<br>± Uricémie<br>- Radiographies des genoux<br>en charge F + P,<br>défilé fémoro-patellaire,<br>Schuss") --> mesures("<b>Mesures générales</b><br>—<br>- Antalgie paracétamol,<br>opioïdes peu efficaces<br>- AINS naproxène ou topique<br>- Repos, canne<br>- Renforcement musculaire<br>- Correction d'un surpoids<br>- Kinésithérapie<br>- Arthrose fémoro-tibiale:<br>orthèse articulée de décharge<br>- Chaussures souples,<br>semelles amortissantes<br>- Adaptation du poste de travail") -. Échec .-> rhumatologue("Rhumatologue<br>± infiltrations") -. Échec .-> orthopédie("Chirurgien orthopédique")
     bilan --> différentiel(Diagnostic différentiel)
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
@@ -306,6 +307,7 @@ graph TB
 - Prescrire Redaction. Douleurs liées à une arthrose du genou ou de la hanche. Premiers Choix Prescrire. Rev Prescrire. 2024.
 - [Pers YM, et al. Recommendations from the French Societies of Rheumatology and Physical Medicine and Rehabilitation on the non-pharmacological management of knee osteoarthritis. Ann Phys Rehabil Med. 2024.](https://www.sciencedirect.com/science/article/pii/S1877065724000678)
 - [Moseng T, et al. EULAR recommendations for the non-pharmacological core management of hip and knee osteoarthritis: 2023 update. Ann Rheum Dis. 2024.](https://ard.bmj.com/content/early/2024/01/11/ard-2023-225041.long)
+- [Hannon CP, et al. 2023 American College of Rheumatology and American Association of Hip and Knee Surgeons Clinical Practice Guideline for the Optimal Timing of Elective Hip or Knee Arthroplasty for Patients With Symptomatic Moderate-to-Severe Osteoarthritis or Advanced Symptomatic Osteonecrosis With Secondary Arthritis for Whom Nonoperative Therapy Is Ineffective. Arthritis Care Res (Hoboken). 2023.](https://rheumatology.org/indications-for-total-hip-and-knee-arthroplasty-guideline)
 - [CNGE. Eviter la visco-supplémentation dans la gonarthrose. 05/09/2022. (PDF)](https://www.cnge.fr/wp-content/uploads/2023/09/220905_Avis_CS_CNGE_Supplementation_gonarthrose_vsite.pdf)
 - [American Academy of Orthopaedic Surgeons Management of Osteoarthritis of the Knee (Non-Arthroplasty) Evidence-Based Clinical Practice Guideline. 2021. (PDF)](https://www.aaos.org/oak3cpg)
 - Congrès SFR 2021 (12-14 décembre 2021, Paris) - Recommandations 2021 pour la prise en charge non pharmacologique des malades atteints de gonarthrose
@@ -315,7 +317,11 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Duong V, et al. Evaluation and Treatment of Knee Pain: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811009)
-- [Hannon CP, et al. 2023 American College of Rheumatology and American Association of Hip and Knee Surgeons Clinical Practice Guideline for the Optimal Timing of Elective Hip or Knee Arthroplasty for Patients With Symptomatic Moderate-to-Severe Osteoarthritis or Advanced Symptomatic Osteonecrosis With Secondary Arthritis for Whom Nonoperative Therapy Is Ineffective. Arthritis Care Res (Hoboken). 2023.](https://rheumatology.org/indications-for-total-hip-and-knee-arthroplasty-guideline)
+- [Duong V, et al. Evaluation and Treatment of Knee Pain: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811009) (payant)
 
 {{%/sources%}}
+{{% modal title="Indice de Lequesne du genou" id="modal-score-lequesne-genou"%}}
+
+{{< scores/lequesne-genou >}}
+
+{{% /modal %}}
