@@ -233,14 +233,11 @@ Prise en charge urgente de la primo-infection herpétique oro-faciale:
 
 ### Récurrence d'herpès labial ou autre
 
-[Aciclovir 5%](https://base-donnees-publique.medicaments.gouv.fr/medicament/62022480/extrait#tab-rcp) crème 1 application x 5/j pendant 5 à 10 jours
+Abstention, voire, si débuté dans les 12 heures et avec une efficacité modeste: [aciclovir 5%](https://base-donnees-publique.medicaments.gouv.fr/medicament/62022480/extrait#tab-rcp) crème 1 application x 5/j pendant 5 à 10 jours (*Prescrire*)
 {.alert .alert-info}
 
-L'aciclovir en crème débuté tôt réduit la poussée de 2 jours (*Prescrire*).
-
-**Prophylaxie antivirale** si au moins 6 récidives annuelles non induites par le soleil: aciclovir 400 mg x 2/j pendant 6-12 mois puis réévaluation.
-
-> **NB.** Absence d'AMM pour l'herpès labial solaire.
+> [!INFO]
+> Une **prophylaxie antivirale** est possible en présence d'au moins 6 récidives annuelles **non induites par le soleil**: aciclovir 400 mg x 2/j pendant 6-12 mois puis réévaluation.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'herpès génital, grossesse et herpès néonatal" %}}
@@ -330,9 +327,9 @@ Pour en savoir plus, les critères d'hospitalisation de la kératite herpétique
 {{% /collapse %}}
 {{%sources%}}
 
+- Prescrire Redaction. Herpès labial chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2025.
 - [HAS, ANRS, CNS. Prise en charge thérapeutique du patient atteint d'herpès génital. 2024.](https://www.has-sante.fr/jcms/p_3562501/fr/prise-en-charge-therapeutique-du-patient-atteint-d-herpes-genital)
 - [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-168.pdf)
-- Prescrire Redaction. Herpès labial chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [US Preventive Services Task Force. Serologic Screening for Genital Herpes Infection: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2801311)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Éruptions fébriles. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/eruptions-febriles)
 - [CNGOF. Prévention et prise en charge de l'infection herpétique au cours de la grossesse et de l'accouchement. 2017. (PDF)](https://cngof.fr/app/uploads/2023/06/RPC-CNGOF-herpes-grossesse-2017.pdf)
@@ -363,7 +360,7 @@ Pour en savoir plus, les critères d'hospitalisation de la kératite herpétique
 **Récurrence d'herpès**
 
 - Herpès labial  
-  aciclovir 5 % crème 1 application x 5/j pendant 5 à 10 jours
+  abstention
 - Herpès génital  
   valaciclovir 2000 mg x 2/j sur une seule journée
 

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-29T23:33:00+02:00"
 publishdate = "2021-04-30"
-lastmod = "2024-05-04"
+lastmod = "2026-03-13"
 specialites = ["ophtalmologie"]
 annees = "2021"
 sources = ["COUF"]
@@ -40,19 +40,23 @@ Cliniquement, on observe une tuméfaction inflammatoire centrée par un point bl
 
 ## Traitement de l'orgelet {.mt-5}
 
-- Prise en charge par traitement antibiotique pendant 8 jours
+Recommandations pour la prise en charge de l'orgelet:
+
+- Soins locaux avec compresses stériles d'eau chaude x 3-4/j (10 minutes) et sérum physiologique
+- En cas d'échec: traitement antibiotique pendant 8 jours (voir détail ci-dessous)
 - Ne pas porter les lentilles de contact pendant toute la durée du traitement
 - Penser à rechercher un [diabète](/tags/diabete/) en cas de récidives fréquentes (*Université St-Etienne*)
 - Si échec: **avis ophtalmologique**
+- Information du patient: [guide CRATB (PDF)](https://medqual.fr/images/GP/MI/L_Q/2023-ORGELET.pdf)
 
 ### Antibiothérapie dans le traitement de l'orgelet {.mt-5}
 
-Prise en charge de l'orgelet par un collyre ou une pommade antibiotique **pendant 8 jours**.
+Le traitement de l'orgelet par un collyre ou une pommade antibiotique **pendant 8 jours** est indiqué en cas d'échec des soins locaux.
 
-| Famille      | Spécialité  | Posologie |
-| ------------ | ----------- | --------- |
+| Famille | Spécialité | Posologie |
+| ------- | ---------- | --------- |
 | Acide fusidique | [fucithalmic 1 % gel opht](https://base-donnees-publique.medicaments.gouv.fr/medicament/69088419/extrait#tab-rcp) | 1 gte x 2/j |
-| Cyclines*    | [aureomycine 1 % pom opht](https://base-donnees-publique.medicaments.gouv.fr/medicament/65889234/extrait#tab-rcp) | 1 appli x 1-2/j |
+| Cyclines* | [aureomycine 1 % pom opht](https://base-donnees-publique.medicaments.gouv.fr/medicament/65889234/extrait#tab-rcp) | 1 appli x 1-2/j |
 | Aminosides** | [tobramycine 0,3 % pom opht](https://base-donnees-publique.medicaments.gouv.fr/medicament/61621356/extrait#tab-rcp) | 1 appli x 2-3/j |
 | Ansamycines** | [rifamycine 1 MUI/100 mg pom opht](https://base-donnees-publique.medicaments.gouv.fr/medicament/68760013/extrait#tab-rcp) | 1 appli x 1-2/j |
 {caption="Antibiotiques en collyre pour le traitement d'un orgelet. Dr JB Fron d'après *BDPM*"}
@@ -66,7 +70,7 @@ Prise en charge de l'orgelet par un collyre ou une pommade antibiotique **pendan
 
 {{< mermaid title="Prise en charge de l'orgelet par le médecin généraliste. Drs JB Fron et Alaedine Benani d'après COUF 2021" >}}
 graph TB
-  orgelet["<b>Orgelet</b><br>—<br>Furoncle du bord libre<br>de la paupière"] --> collyre("- Collyre antibiotique 8 jours<br>adapté à l'âge, sauf grossesse<br>- Pas de lentilles de contact") -. Échec .-> ophtalmologue(Ophtalmologue)
+  orgelet["<b>Orgelet</b><br>—<br>Furoncle du bord libre<br>de la paupière"] --> soins("Soins locaux pluriquotidiens<br>- Compresses<br>- Sérum physiologique") -. Échec .-> collyre("- Pommade / gel antibiotique 8 jours<br>adapté à l'âge, sauf grossesse<br>- Pas de lentilles de contact") -. Échec .-> ophtalmologue(Ophtalmologue)
     collyre -. Récidives fréquentes .-> diabète("Rechercher<br>un diabète")
   style orgelet stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}

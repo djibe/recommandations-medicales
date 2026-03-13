@@ -7,10 +7,10 @@ synonyms = ["Carcinome endométrial"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-16T10:38:54+01:00"
 publishdate = "2022-12-17"
-lastmod = "2023-11-28"
+lastmod = "2026-03-13"
 specialites = ["gynécologie-obstétrique", "oncologie"]
-annees = "2016"
-sources = ["ESMO", "HAS", "INCa", "ACOG"]
+annees = "2025"
+sources = ["ESGO", "ESMO", "ACOG", "HAS"]
 tags = ["cancer", "douleur pelvienne"]
 english = ["Endometrial cancer", "Cancer of the endometrium"]
 sctid = "93781006"
@@ -22,18 +22,20 @@ flowchart = true
 
 {{%article-summary%}}
 
+- Le cancer de l'endomètre est une tumeur primitive maligne, majoritairement épithéliale, développée aux dépens de l'endomètre
+- Les facteurs de risque sont le syndrome métabolique, le tamoxifène, la nulliparité, une ménarche précoce et la ménopause tardive
+- Les symptômes du cancer de l'endomètre sont des métrorragies spontanées, des leucorrhées et/ou des douleurs pelviennes
 - Il n'existe pas de dépistage du cancer de l'endomètre
-- Échographie pelvienne sus-pubienne et endovaginale au plus vite en cas de métrorragies post-ménopausiques ou prolongées pour éliminer un cancer de l'endomètre
-- Toute hyperplasie endométriale doit être biopsiée sous hystéroscopie
-- Une endomètre ≤ 4 mm élimine une suspicion de cancer de l'endomètre (VPN +99%)
+- Le bilan initial comprend une échographie pelvienne sus-pubienne et endovaginale au plus vite
+- Une endomètre ≤ 4 mm élimine une suspicion de cancer de l'endomètre (VPN +99 %). Toute hyperplasie endométriale doit être biopsiée sous hystéroscopie
 - La prise en charge et le traitement du cancer de l'endomètre dépend de la RCP mais privilégie la chirurgie avec hystérectomie totale et salpingo-ovariectomie bilatérale, à l'origine d'une stérilisation
-- [Traitement par tamoxifène]({{% relref "cancer-sein.md" %}}): échographie pelvienne initiale puis suivi gynécologique annuel
+- En cas de [traitement par tamoxifène]({{% relref "cancer-sein.md" %}}): échographie pelvienne initiale puis suivi gynécologique annuel
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Cancer de l'endomètre
-: Tumeur primitive maligne le plus souvent épithéliale (90%) développée aux dépens de l'endomètre. Les autres types histologiques sont beaucoup plus rares (sarcomes).
+: Tumeur primitive maligne le plus souvent épithéliale (90 %) développée aux dépens de l'endomètre. Les autres types histologiques sont beaucoup plus rares (sarcomes).
 : Le cancer de l'endomètre survient le plus souvent après la ménopause (+90 % après 50 ans) et est le plus souvent révélé par des **métrorragies post-ménopausiques**
 
 ### Facteurs de risque de cancer de l'endomètre
@@ -66,6 +68,9 @@ ACOG
 
 CLCC
 : centre de lutte contre le cancer
+
+ESGO
+: {{%lang%}}European Society of Gynaecological Oncology{{%/lang%}}
 
 INCa
 : Institut national du cancer
@@ -134,7 +139,7 @@ Le dosage du **marqueur tumoral CA 125** peut être discuté initialement en cas
 
 Adresser en semi-urgence à l'équipe hospitalière de gynécologie pour la suite de la prise en charge du cancer de l'endomètre. [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC). Le choix du traitement dépend de la réunion de concertation pluridisciplinaire (RCP).
 
-La prise en charge du cancer de l'endomètre repose essentiellement sur la chirurgie avec **hystérectomie totale** et salpingo-ovariectomie bilatérale si la patiente est opérable.
+La prise en charge du cancer de l'endomètre repose essentiellement sur la chirurgie avec **hystérectomie totale**, salpingo-ovariectomie bilatérale, exploration ganglionnaire voire omentectomie si la patiente est opérable.
 
 La chirurgie avant 50 ans entraîne une [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}}) pouvant être substituée par traitement hormonal substitutif avec œstrogènes seuls (*HAS 2010*, voir [ménopause]({{% relref "menopause.md" %}}) pour le THS).
 
@@ -175,9 +180,9 @@ Suivi après traitement du cancer de l'endomètre:
 {{% /collapse %}}
 {{%collapse "Prise en charge du cancer de l'endomètre" "show" %}}
 
-{{< mermaid title="Prise en charge du cancer de l'endomètre par le médecin généraliste. Dr JB Fron d'après ESMO 2016, HAS, INCa et ACOG" >}}
+{{< mermaid title="Prise en charge du cancer de l'endomètre par le médecin généraliste. Dr JB Fron d'après Bibliographie" >}}
 graph TB
-  suspicion["<b>Suspicion de cancer de l'endomètre</b><br>—<br>- Métrorragies post-ménopausiques ++<br>- Métrorragies avant la ménopause<br>- Leucorrhées<br>- Douleurs pelviennes<br>- Cystites répétées"] --> bilan("Échographie pelvienne<br>sus-pubienne et endovaginale<br>semi-urgente") --"Endomètre ≤ 4 mm"--> négatif("Autres étiologie<br>VPN &gt; 99%")
+  suspicion["<b>Suspicion de cancer de l'endomètre</b><br>—<br>- Métrorragies post-ménopausiques ++<br>- Métrorragies avant la ménopause<br>- Leucorrhées<br>- Douleurs pelviennes<br>- Cystites répétées"] --> bilan("Échographie pelvienne<br>sus-pubienne et endovaginale<br>semi-urgente") --"Endomètre ≤ 4 mm"--> négatif("Autres étiologie<br>VPN &gt; 99 %")
   bilan --"&gt; 4 mm"--> avis("Avis gynécologique<br>en CLCC semi-urgent<br>+ IRM pelvienne et des aires<br>ganglionnaires lombo-aortiques")
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
@@ -185,6 +190,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Concin N, et al. ESGO-ESTRO-ESP guidelines for the management of patients with endometrial carcinoma: update 2025. Lancet Oncol. 2025.](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00167-6/abstract) (payant)
 - [ACOG. Management of Endometrial Intraepithelial Neoplasia or Atypical Endometrial Hyperplasia. 2023.](https://www.acog.org/clinical/clinical-guidance/clinical-consensus/articles/2023/09/management-of-endometrial-intraepithelial-neoplasia-or-atypical-endometrial-hyperplasia)
 - {{< references/beh-cancers-incidence >}}
 - [Colombo N, et al. ESMO-ESGO-ESTRO Consensus Conference on Endometrial Cancer: diagnosis, treatment and follow-up. Annals of Oncology. 2016.](https://www.annalsofoncology.org/article/S0923-7534(19)35337-2/fulltext)
@@ -193,10 +199,6 @@ graph TB
 - [Jéhannin-Ligier K, et al. Projection de l'incidence et de la mortalité par cancer en France métropolitaine en 2017. Rapport technique. Santé publique France. 2017.](https://www.santepubliquefrance.fr/docs/projection-de-l-incidence-et-de-la-mortalite-par-cancer-en-france-metropolitaine-en-2017)
 - [HAS. Cancer de l'endomètre. Actes et prestations Affection de longue durée. 2016.](https://www.has-sante.fr/jcms/c_1021574/fr/ald-n-30-cancer-de-l-endometre)
 - [HAS, INCa. Cancer de l'endomètre. Guide affection longue durée. 2010.](https://www.cancer.fr/professionnels-de-sante/recommandations-et-aide-a-la-pratique/outils-pour-la-pratique-des-medecins-generalistes/outils-par-localisation-de-cancer/guides-affection-de-longue-duree/cancer-de-l-endometre)
-
-### Bibliographie en attente
-
-- [Concin N, et al. ESGO-ESTRO-ESP guidelines for the management of patients with endometrial carcinoma: update 2025. Lancet Oncol. 2025.](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00167-6/abstract) (payant)
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}

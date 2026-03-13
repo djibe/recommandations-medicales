@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-22T12:09:36+01:00"
 publishdate = "2022-04-07"
-lastmod = "2024-04-26"
+lastmod = "2026-03-13"
 specialites = ["dermatologie", "pédiatrie"]
-annees = "2020"
-sources = ["SPILF", "ANSM", "MinSanté"]
+annees = "2021"
+sources = ["Collèges"]
 tags = ["enfant", "éruption fébrile", "grossesse", "nourrisson", "vaccin"]
 english = ["Varicella", "Chickenpox"]
 sctid = "38907003"
@@ -19,22 +19,22 @@ image = true
 imageSrc = "Lésion vésiculeuse typique de varicelle peu après son apparition. Devient trouble en 1 à 2 jours. Par F malan, CC BY-SA 3.0, via Wikimedia Commons"
 flowchart = true
 chart = true
-todo = "rankok, vérif co-vaccination ROR, https://pap-pediatrie.fr/sites/pap-pediatrie.fr/files/01_contage_varicelleux_chez_lenfant_fig1.gif"
+todo = "rankok | vérif co-vaccination ROR, https://pap-pediatrie.fr/sites/pap-pediatrie.fr/files/01_contage_varicelleux_chez_lenfant_fig1.gif"
 +++
 
 {{%article-summary%}}
 
-- La varicelle n'est bénigne que chez les enfants immunocompétents
-- L'immunité procurée par l'infection au virus VZV est quasi définitive (5 % de récidives)
+- La varicelle est la primo-infection par le Virus Varicelle-Zona (VZV). Elle n'est bénigne que chez les enfants immunocompétents
+- Les symptômes de varicelle chez l'enfant sont une éruption vésiculeuse évoluant par poussées avec un fébricule
 - Rechercher des complications de la varicelle: pneumopathie, myocardite, thrombopénie aiguë, purpura fulminans
-- Personnes à risque de forme grave de varicelle:
+- Les sujets à risque de forme grave de varicelle nécessitent une hospitalisation en urgence:
   - Immunodépression (hémopathie, [VIH]({{% relref "vih-sida.md" %}}), chimiothérapie)
   - Varicelle du nouveau-né ou si sa mère a débuté éruption une éruption varicelleuse 5 jours avant et 2 jours après l'accouchement
   - Varicelle compliquée
   - Varicelle chez la femme enceinte dont l'éruption débute 10 jours avant l'accouchement
-- Statut immunitaire de l'entourage et sérologie en urgence si personne à risque de forme grave exposée à la varicelle ou au zona ou personne susceptible d'être vaccinée
-- Prise en charge symptomatique sans AINS, aspirine ni corticoïdes
-- Pas d'éviction scolaire en cas de varicelle (*Assur Maladie*, *CMIT*)
+- Vérifier le statut immunitaire de l'entourage: sérologie en urgence en l'absence d'antécédent varicelleux ou chez la personne à risque de forme grave
+- La prise en charge de la varicelle de l'immunocompétent est symptomatique avec des soins locaux, antipyrexie par paracétamol seul sans AINS, aspirine, ni corticoïdes
+- Pas d'éviction scolaire en cas de varicelle, sauf mauvaise tolérance de l'enfant (*Assur Maladie*, *CMIT*)
 
 Chapitre lié: [zona]({{% relref "zona.md" %}})
 
@@ -163,7 +163,7 @@ InfoVac-France conseille la vaccination varicelle pour tous à partir de 12 mois
 
 #### Spécialités de vaccins varicelle
 
-2 vaccins vivants atténués monovalents en 2 doses Varilrix® (GSK) ou Varivax® (Sanofi) dont l'efficacité dépasse 95 % (100 % pour les formes graves) et en partie contre le zona.
+2 **vaccins vivants atténués** monovalents en 2 doses Varilrix® (GSK) ou Varivax® (Sanofi) dont l'efficacité dépasse 95 % (100 % pour les formes graves) et en partie contre le zona.
 
 - [Varilrix®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62521070/extrait#tab-rcp)  
   - 9-11 mois: 2 doses espacées ≥ 3 mois
@@ -213,13 +213,15 @@ Recommandations pour la prise en charge de la varicelle:
   ex: Chlorhexidine aqueuse stérile 0,2 % 1 application x 2/j sur les lésions cutanées uniquement.
 - Anti-histaminique anti-cholinergique
   - Aucun disponible avant 2 ans
-  - Méquitazine sirop (Primalan®)  
+  - Méquitazine sirop ([Primalan®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63036718/extrait#tab-rcp))  
     10-40 kg: 1,25 mg/5 kg/j en 1 ou 2 prises par jour  
     Comprimés au-delà.
-  - Hydroxyzine ≥ 3 ans: sirop 1 mg/kg/j
+  - Hydroxyzine sirop ou comprimé ([Atarax®](https://base-donnees-publique.medicaments.gouv.fr/medicament/61162294/extrait#tab-rcp)), dès 30 mois, 1 mg/kg/j en doses fractionnées
 - Compléter le **Carnet de santé**  
   Notifier la varicelle à la page *Statut clinique ou immunitaire pour les maladies à prévention vaccinale*.
 - Information des parents: [mpedia](https://www.mpedia.fr/art-varicelle/?sr=895), [guide Dermato-Info](https://dermato-info.fr/les-maladies-de-la-peau/varicelle)
+
+Détersion des croûtes par vaseline x 2/j et couvrir par pansement.
 
 **NB.** Aucun autre produit (talc, pommade, gel) ne doit être appliqué
 
@@ -227,8 +229,6 @@ Reporter les vaccinations du nourrisson d'au moins 15 jours (question à *Infova
 {.alert .alert-info}
 
 > En cas de varicelle surinfectée, voir [impétigo]({{% relref "infection-cutanee-bacterienne.md" %}}).
-
-Détersion des croûtes par vaseline x 2/j et couvrir par pansement.
 
 {{% /collapse %}}
 {{%collapse "Varicelle chez l'immunodéprimé et la femme enceinte" %}}
@@ -301,12 +301,13 @@ style grossesse stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
+- [Cohen R, Hass H. La varicelle et ses vaccins. Infovac-France. 2025. (PDF)](https://www.infovac.fr/~documents/route:/download/1471/)
 - {{< references/calendrier-vaccinal >}}
 - [ANSM. Anti-inflammatoires non stéroïdiens (AINS) et complications infectieuses graves. 28/04/2023.](https://ansm.sante.fr/actualites/anti-inflammatoires-non-steroidiens-ains-et-complications-infectieuses-graves)
+- [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-168.pdf)
 - [ANSM. Varitect CP. 2023.](https://ansm.sante.fr/tableau-acces-derogatoire/varitect-cp)
 - [Grimprel E, Launay E, Bruel H, Pinquier D; SFP. Contage varicelleux chez l'enfant. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pap-detail/g2nyrb)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Éruptions fébriles. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/eruptions-febriles)
-- [Pinquier D et al. Vaccin contre la varicelle. Infovac. Avril 2019.](https://www.infovac.fr/docman-marc/public/fiches/1471-fiche-varicelle/file)
 - [Floret D; SFP. Conduite à tenir devant un contage varicelleux chez une femme enceinte ou un nouveau-né. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/cffti3dyh)
 - [HCSP. Avis relatif aux recommandations de vaccination contre la varicelle. 2007.](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcsp045a20070705_Varicelle.pdf)
 - [Assurance Maladie. Collectivités et jeunes enfants et maladies infectieuses. Guide pratique. 2006. (PDF)](https://www.ameli.fr/sites/default/files/Documents/4900/document/collectivites-maladies-infectieuses_assurance-maladie.pdf)
@@ -317,7 +318,6 @@ style grossesse stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
-- [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-168.pdf)
 - [HCSP. Guide pour l'immunisation en post-exposition : vaccination et immunoglobulines. 2016.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=548)
 
 {{%/sources%}}

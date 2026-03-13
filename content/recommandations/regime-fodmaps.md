@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-05-31T17:15:31+02:00"
 publishdate = "2024-06-04"
-lastmod = "2024-06-04"
+lastmod = "2026-03-13"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2021"
 sources = ["SNFCP", "SNFGE"]
@@ -112,7 +112,7 @@ Ces aliments étant très fréquents dans le régime alimentaire européen, le r
 
 {{< youtube id="s3mybQjdRN4" title="Régime FODMAPs : ça gaze (TutoGastro SNFGE)" >}}
 
-- [Vasant D et al. British Society of Gastroenterology guidelines on the management of irritable bowel syndrome. Gut. 2021.](https://gut.bmj.com/content/70/7/1214)
+- [Vasant D, et al. British Society of Gastroenterology guidelines on the management of irritable bowel syndrome. Gut. 2021.](https://gut.bmj.com/content/70/7/1214)
 - [Société Nationale Française de Colo-Proctologie. Régime pauvre en FODMAPs. 2021.](https://www.snfcp.org/informations-maladies/generalites/regimes-pauvre-en-fodmaps/)
 - {{< references/college-gastro >}}
 - [Ducrotté P; SNFGE, GFNG. Régime pauvre en sucres fermentiscibles Les << FODMAPs >>. Conseil de pratique. 2016. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/les_fodmaps.pdf)

@@ -557,6 +557,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Pepin JL, et al. Suivi médical et accompagnement à domicile des patients apnéiques traités par pression positive continue. Médecine du Sommeil. 2026.](https://www.sciencedirect.com/science/article/abs/pii/S1769449325005576) (payant)
+- [Pepin JL, et al. Hétérogénéité du paysage européen de la prise en charge par pression positive continue (PPC). Médecine du Sommeil. 2026.](https://www.sciencedirect.com/science/article/abs/pii/S1769449325005588) (payant)
 - [US Preventive Services Task Force. Screening for Obstructive Sleep Apnea in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2798399)
 - [Bonsignore MR, et al. European Respiratory Society statement on sleep apnoea, sleepiness and driving risk. Eur Respir J 2021.](https://doi.org/10.1183/13993003.01272-2020)
 - [Gottlieb DJ, Punjabi NM. Diagnosis and Management of Obstructive Sleep Apnea: A Review. JAMA. 2020.](https://jamanetwork.com/journals/jama/article-abstract/2764461?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jama.2020.3514)

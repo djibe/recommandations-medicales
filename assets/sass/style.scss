@@ -1140,11 +1140,15 @@ blockquote {
   padding: 0 1rem;
   > p,
   > p a {
-    font-size: 0.875rem;
+    // font-size: 0.875rem;
     /*letter-spacing: 0.033333em;
     line-height: 1.25rem;*/
-    color: var(--text-half);
+    // color: var(--text-half);
     margin-bottom: 0;
+
+    .modal-body & {
+      font-size: 0.875rem;
+    }
   }
 }
 

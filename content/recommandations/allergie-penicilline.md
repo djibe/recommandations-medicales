@@ -142,6 +142,7 @@ Test de réintroduction.
 
 ### Bibliographie en attente
 
+- <https://www.youtube.com/watch?v=VXWnvNX0PhI>
 - [Copaescu AM, et al. Efficacy of a Clinical Decision Rule to Enable Direct Oral Challenge in Patients With Low-Risk Penicillin Allergy: The PALACE Randomized Clinical Trial. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2806976)
 - <http://www.medqual.fr/images/PRO_2018/FORMATIONS/Elearning/Correction-Test-5.pdf>
 - <http://medqual.fr/images/slideshow/2021-Fiche-patient-Allergie-penicilline_1.pdf>

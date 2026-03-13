@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr M. LANTERI-MINET (SFETD)"
 date = "2021-06-18T16:20:00+02:00"
 publishdate = "2021-06-19"
-lastmod = "2024-06-13"
+lastmod = "2026-03-13"
 specialites = ["neurologie"]
 annees = "2023"
 sources = ["EAN", "SFEMC"]
@@ -20,16 +20,16 @@ icd10 = ["G44.0"]
 image = true
 imageSrc = "Rougeur de la joue homolatérale durant une crise d'algie vasculaire de la face. T. Bjornstad, CC BY-SA 4.0, via Wikimedia Commons"
 flowchart = true
-todo = "rankok, Examen clinique"
+todo = "rankok | Examen clinique"
 +++
 
 {{%article-summary%}}
 
-- L'algie vasculaire de la face atteint surtout l'homme jeune sous forme de céphalées paroxystiques unilatérales atroces pendant 15 minutes à 3 heures répétées avec des intervalles libres
+- L'algie vasculaire de la face (AVF) atteint surtout l'homme jeune sous forme de céphalées paroxystiques unilatérales atroces pendant 15 minutes à 3 heures répétées avec des intervalles libres
 - Les critères diagnostiques de l'algie vasculaire sont stricts et nécessitent une consultation de neurologie
-- Bilan de la suspicion d'algie vasculaire: IRM cérébrale avec étude de la jonction craniocervicale
-- Prise en charge de la crise d'algie vasculaire: sumatriptan 6 mg SC dès le début des douleurs ou oxygénothérapie (± combinés: oxygène au masque 12 L/min pendant 15 minutes prescrit et renouvelé par le spécialiste)
-- Traitement de fond de l'algie vasculaire par vérapamil dès le début de la période douloureuse, titration et surveillance ECG  
+- Le bilan de la suspicion d'algie vasculaire comprend une IRM cérébrale avec étude de la jonction craniocervicale
+- La prise en charge de la crise d'algie vasculaire nécessite: sumatriptan 6 mg SC dès le début des douleurs et/ou oxygénothérapie (au masque 12 L/min pendant 15 minutes prescrit et renouvelé par le spécialiste)
+- Un traitement de fond de l'algie vasculaire par vérapamil est nécessaire dès le début de la période douloureuse, avec titration et surveillance ECG  
   Décroissance en fin de période douloureuse, au moins 2 semaines après la dernière crise.
 - *Traitement transitionnel* par corticothérapie prednisone 60-100 mg le matin pendant 5 jours (voire plus) le temps de la titration du vérapamil
 
@@ -135,7 +135,7 @@ Pilier de la prise en charge diagnostique de l'algie vasculaire (**en gras**, le
 - Femme: jeune ou après 50 ans
 - Traitements en cours et essayés  
   Dérivés nitrés, sildénafil.
-- Céphalée en hémicrânie paroxystique
+- **Céphalée en hémicrânie paroxystique**
   - **Unilatérale** (> 90%)
   - **Fixe** voire à bascule (12%)
   - Périorbitaire et/ou temporale
@@ -150,9 +150,7 @@ Pilier de la prise en charge diagnostique de l'algie vasculaire (**en gras**, le
   - Intervalles libres (sauf forme chronique)  
     **De 4 mois à 3 ans**.
 - **Agitation motrice per-critique** (> 3/4)
-- Signes dysautonomiques concomitants
-  - Homolatéraux
-  - Intensité marquée
+- Signes dysautonomiques concomitants (homolatéraux et intenses):
   - Larmoiement
   - Érythème conjonctival
   - Congestion nasale ou rhinorrhée
@@ -195,9 +193,7 @@ Examen neurologique complet.
 
 ### Bilan de la suspicion d'algie vasculaire de la face
 
-IRM cérébrale avec jonction craniocervicale systématique  
-{{%class%}}Au diagnostic, pour éliminer une forme secondaire.{{%/class%}}
-{{%/info%}}
+IRM cérébrale avec jonction craniocervicale systématique
 
 La *SFEMC* recommandait également une **angio-IRM** en 2014.
 
@@ -319,10 +315,10 @@ graph TB
 
 > [Demande de prise en charge à 100 % par des députés, sans réponse](https://questions.assemblee-nationale.fr/q15/15-4922QE.htm)
 
-- [May A et al. European Academy of Neurology guidelines on the treatment of cluster headache. Eur J Neurol. 2023.](https://onlinelibrary.wiley.com/doi/10.1111/ene.15956)
+- [May A, et al. European Academy of Neurology guidelines on the treatment of cluster headache. Eur J Neurol. 2023.](https://onlinelibrary.wiley.com/doi/10.1111/ene.15956)
 - [Collège des Enseignants de Neurologie (CEN). Migraine, névralgie du trijumeau et algies de la face. 2019.](https://www.cen-neurologie.fr/second-cycle/migraine-nevralgie-du-trijumeau-algies-face)
-- [Donnet A. et al, SFEMC. Recommandations pour le diagnostic et le traitement de l'algie vasculaire de la face. Revue Neurologique. 2014. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20pour%20le%20diagnostic%20et%20le%20traitement%20de%20l%2527algie%20vasculaire%20de%20la%20face%20(3).pdf)
-- [Wilbrink LA et al. Stepwise web-based questionnaires for diagnosing cluster headache: LUCA and QATCH. Cephalalgia. 2013.](https://journals.sagepub.com/doi/10.1177/0333102413479835)
+- [Donnet A, et al, SFEMC. Recommandations pour le diagnostic et le traitement de l'algie vasculaire de la face. Revue Neurologique. 2014. (PDF)](https://www.sf-neuro.org/files/files/Recommandations%20pour%20le%20diagnostic%20et%20le%20traitement%20de%20l%2527algie%20vasculaire%20de%20la%20face%20(3).pdf)
+- [Wilbrink LA, et al. Stepwise web-based questionnaires for diagnosing cluster headache: LUCA and QATCH. Cephalalgia. 2013.](https://journals.sagepub.com/doi/10.1177/0333102413479835)
 - Prescrire Redaction. Algie vasculaire de la face, en bref. Rev Prescrire. Janvier 2012.
 
 {{%/sources%}}
