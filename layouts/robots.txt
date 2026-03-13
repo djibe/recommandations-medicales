@@ -41,6 +41,7 @@ User-agent: ChatGPT Agent
 User-agent: ChatGPT-User
 User-agent: Claude-SearchBot
 User-agent: Claude-User
+User-agent: Claude-Web
 User-agent: ClaudeBot
 User-agent: Cloudflare-AutoRAG
 User-agent: CloudVertexBot
@@ -189,10 +190,11 @@ User-agent: ZanistaBot
 Disallow: /
 
 User-agent: *
+Content-Signal: ai-train=no, search=yes, ai-input=no
 Allow: /
 Disallow: /404/
 Disallow: /js/
 Disallow: /offline/
 
 Sitemap: {{ "sitemap.xml" | absURL }}
-License: https://recomedicales/license.xml
+License: https://recomedicales/LICENSE.xml

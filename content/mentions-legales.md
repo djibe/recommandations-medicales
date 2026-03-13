@@ -98,3 +98,21 @@ Les présentes conditions d'utilisation du site sont régies par la loi françai
 ## Article 10 : Contact
 
 Pour toute question relative à l'application des présentes CGU, vous pouvez joindre l'éditeur via le formulaire de contact.
+
+## Article 11 : interdiction de TDM et d'apprentissage IA < TDM-RESERVATION: 1>
+
+En l'absence de signature d'un contrat avec l'Association RecoMédicales, aucun contenu du site ne peut être utilisé à des fins de TDM et d'apprentissage IA.
+
+RecoMédicales s'oppose à toutes opérations de moissonnage et de fouille de textes et de données au sens de l'article L. 122-5-3 du code de la propriété intellectuelle.  
+Cette opposition couvre l'ensemble du Site et des Contenus auxquels il donne accès.
+
+Toutes opérations de moissonnage et de fouille de textes et de données visant le Site et ses Contenus, y compris par des dispositifs de collecte automatisée de données constituent donc des actes de contrefaçon sauf obtention d'un accord spécifique formellement exprimé de RecoMédicales.
+
+L'article R. 122-28 du code de la propriété intellectuelle précisant que l'opposition mentionnée au III de l'article L. 122-5-3 peut être exprimée par tout moyen, y compris par le recours à des conditions générales d'utilisation d'un site internet ou d'un service, l'absence de metadonnées associées au Site, répertoires du Site, Contenus du Site est sans incidence sur l'exercice du droit d'opposition exprimé par les présentes conditions générales d'utilisation.
+
+Pour faciliter la lecture de ce droit d'opposition par tout dispositif de collecte automatisée de données, cette opposition est également exprimée ainsi < TDM-RESERVATION: 1>.
+
+Cette restriction est rappelée de manière programmatique par l'utilisation du protocole TDMRep (W3C/EDRLab, décret 2022-928).
+
+TDM
+: Text and Data Mining (fouille de textes et de données).
