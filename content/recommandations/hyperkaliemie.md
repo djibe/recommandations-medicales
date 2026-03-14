@@ -257,7 +257,7 @@ La prise en charge de l'hyperkaliémie subaiguë ou chronique comprend la réév
 - Sodium polystyrene sulfonate 1 cuiller-mesure x 1-4/j ([Kayexalate](https://base-donnees-publique.medicaments.gouv.fr/medicament/67499717/extrait#tab-rcp), gén)
 - Si hyporéninisme hypoaldostéronisme: fludrocortisone, diurétique de l'anse furosémide
 
-Sur prescription spécialisée uniquement: patiromer 8,4 - 25,2 g x 1/j ([Veltassa](https://base-donnees-publique.medicaments.gouv.fr/medicament/63705995/extrait#tab-rcp-et-notice). Le cyclosilicate de zirconium sodique (Lokelma) n'est pas disponible en France.
+Sur prescription spécialisée uniquement: patiromer 8,4 - 25,2 g x 1/j ([Veltassa](https://base-donnees-publique.medicaments.gouv.fr/medicament/63705995/extrait#tab-rcp-et-notice), cyclosilicate de zirconium sodique ([Lokelma](https://base-donnees-publique.medicaments.gouv.fr/medicament/64247885/extrait#tab-rcp-et-notice)).
 
 ### Pour en savoir plus: traitement de l'hyperkaliémie sévère
 

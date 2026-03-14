@@ -133,6 +133,11 @@ HUGO_ENABLEGITINFO = "false"
   to = "https://recomedicales.fr/clear/"
   status = 301
 
+[[redirects]]
+  from = "https://recomedicales.fr/js/lyra.min.51a45432f61b24fdc71cf9cd4f7a1a592fde5c1dc7f7df2fb9aa671a7d24623dd18d5840203db226ac21f017d5aaf7d3.mjs"
+  to = "https://recomedicales.fr/clear/"
+  status = 301
+
 # [[plugins]]
 #   package = "netlify-plugin-inline-critical-css"
 #     [plugins.inputs]

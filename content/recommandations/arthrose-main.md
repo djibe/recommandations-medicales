@@ -134,4 +134,8 @@ Les **injections de corticoïdes** pourraient être considérées en cas de pous
 - [Collège Français des Enseignants en Rhumatologie (COFER). Arthrose. Item 129 UE 6. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-8-0.php)
 - {{< references/aderim >}}
 
+### Bibliographie en attente
+
+- [Haugen IK, et al. 2023 EULAR classification criteria for hand osteoarthritis. Ann Rheum Dis. 2024.](https://pmc.ncbi.nlm.nih.gov/articles/pmid/38821712/)
+
 {{%/sources%}}

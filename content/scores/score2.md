@@ -37,6 +37,8 @@ Les **seuils de risque** sont à 2, 10 et 20 % (*ESC 2025*). **SCORE2-OP** signi
 
 {{< scores/score2-modif >}}
 
+Mots-clé: SCORE 2, SCORE 2 OP
+
 {{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
