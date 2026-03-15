@@ -30,10 +30,12 @@ todo = "flow"
 - En cas de présentation atypique, de résistance au traitement ou de forme sévère, un bilan peut comprendre une échographie de la crête iliaque ou une IRM lombo-pelvienne, un électroneuromyogramme
 - La prise en charge de la méralgie paresthésique associe:
   - La correction des facteurs de risque (ceinture serrée, accompagnement de l'obésité)
-  - Antalgie de palier 1 et des douleurs neuropathiques
+  - Antalgie de palier 1 et des douleurs neuropathiques (duloxétine, gabapentine, tricyclique)
   - Infiltrations locales de corticoïdes
   - En cas de forme pauci-symptomatique, l'abstention est possible, les guérisons spontanées étant fréquentes
 - Un avis spécialisé (rhumatologique, médecin de la douleur) est nécessaire en cas de doute ou d'inefficacité du traitement (pour TENS, bloc nerveux, chirurgie de décompression)
+
+Chapitre lié: [douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

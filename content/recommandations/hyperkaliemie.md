@@ -33,7 +33,7 @@ flowchart = true
   - En présence de symptôme évocateur, ECG anormal ou d'hyperkaliémie sévère (≥ 6,5 mmol/L): urgence vitale avec appel du SAMU (Centre 15)
   - En cas de situation aiguë (IRA, rhabdomyolyse), d'insuffisance d'organe (rénale, cardiaque) ou de diabète avec traitement à risque: bilan urgent dès 5,5 mmol/L (*SEC*; 6 selon *KDIGO*) pour ECG et normalisation de la kaliémie
   - En cas de suspicion de pseudohyperkaliémie (pas de comorbidité, médicament ou situation à risque, conditions de prélèvement favorisantes): contrôle de la kaliémie au plus vite (sous 3 jours ou au plus tôt si 5,5 à 5,9 mmol/L; sous 24h si HK^+^ modérée de 6 à 6,4 mmol/L)
-  - Dans tous les cas, dès 5,5 mmol/L, appliquer les mesures pour réduire la kaliémie (apports en K+, Kayexalate, réduire le traitement) voire avis spécialisé pour patiromer ou adaptation
+  - Dans tous les cas, dès 5,5 mmol/L, appliquer les mesures pour réduire la kaliémie (apports en K+, Kayexalate, réduire le traitement à risque) voire avis spécialisé pour patiromer ou adaptation, surveillance rapprochée
 - À distance de l'épisode aigu, la lutte contre l'hyperkaliémie comprend la réduction des apports en potassium (fruits, KCl), l'adaptation des traitements (IEC/ARA2, spironolactone), la résine Kayexalate
 - Un bilan approfondi (kaliurie, aldostérone, rénine) doit être réalisé en cas d'hyperkaliémie non expliquée
 - Un avis spécialisé est nécessaire au moindre doute
