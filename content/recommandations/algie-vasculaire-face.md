@@ -189,8 +189,6 @@ Examen neurologique complet.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-{{%info%}}
-
 ### Bilan de la suspicion d'algie vasculaire de la face
 
 IRM cérébrale avec jonction craniocervicale systématique
