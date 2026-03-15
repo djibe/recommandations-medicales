@@ -2,14 +2,22 @@
 // inspired (and taken) from ethan marcotte's blog post: https://ethanmarcotte.com/wrote/blockin-bots/
 // Watch: Observer
 const botUas = [
+  'Amzn-SearchBot',
+  'AwarioSmartBot',
   'axios',
   'Clinicia-Medical-Assistant',
   'ChatGPT',
   'ChatGPT-User',
   'Claude-User',
   'ClaudeBot',
+  'curl',
   'Go-http-client',
+  'Google-NotebookLM',
   'GuzzleHttp',
+  'HeadlessChrome',
+  'iAskBot',
+  'kChatBot',
+  'Manus-User',
   'MJ12bot',
   'OAI-SearchBot',
   'okhttp',

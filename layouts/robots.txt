@@ -45,6 +45,7 @@ User-agent: Claude-Web
 User-agent: ClaudeBot
 User-agent: Cloudflare-AutoRAG
 User-agent: CloudVertexBot
+User-agent: coccocbot-image
 User-agent: coccocbot-web
 User-agent: cohere-ai
 User-agent: cohere-training-data-crawler
@@ -64,7 +65,6 @@ User-agent: ExaBot
 User-agent: FacebookBot
 User-agent: Factset_spyderbot
 User-agent: FirecrawlAgent
-User-agent: FreshRSS
 User-agent: FriendlyCrawler
 User-agent: Gemini-Deep-Research
 User-agent: Google-CloudVertexBot
@@ -101,6 +101,7 @@ User-agent: LCC
 User-agent: LinerBot
 User-agent: Linguee Bot
 User-agent: LinkupBot
+User-agent: LivelapBot
 User-agent: magpie-crawler
 User-agent: Manus-User
 User-agent: meta-externalagent
