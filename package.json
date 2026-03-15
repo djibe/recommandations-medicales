@@ -1,6 +1,6 @@
 {
   "name": "univ-medicale",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "Dernières recommandations médicales adaptées à la pratique de la médecine générale",
   "scripts": {
     "recommandations:new": "hugo new recommandations/article.md",
@@ -60,7 +60,7 @@
     "dwv-simplistic": "^0.10.0",
     "hint": "^7.1.13",
     "html-validate": "^10.11.1",
-    "hugo-extended": "^0.146.0",
+    "hugo-extended": "^0.147.9",
     "instant.page": "^5.2.0",
     "linkinator": "^6.1.4",
     "mermaid": "^10.9.5",
