@@ -289,10 +289,10 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
   - {{< modal-btn modal-nephrotoxiques >}}Éviction des néphrotoxiques{{< /modal-btn >}}
   - Pas d'automédication ou herbes chinoises
 - **Gliflozine** ({{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}) recommandée si:
-  - Albuminurie ≥ 20 mg/mmol (*KDIGO 2024*)
+  - Albuminurie ≥ 20 mg/mmol (soit stade A2 ou A3; *KDIGO 2024*)
   - DFG 20-45 mL/min/1,73 m² (*KDIGO 2024* suggère)
-  - Diabète type 2 (*SFD 2025*, *KDIGO 2024*, initier tant que DFG ≥ 20), insuffisance cardiaque
-- **Le {{< modal-btn modal-rcv >}}Risque cardiovasculaire (RCV) est au moins élevé{{< /modal-btn >}}**
+  - Diabète type 2 avec MRC (*SFD 2025*, *KDIGO 2024*); insuffisance cardiaque
+- **Le {{< modal-btn modal-rcv >}}risque cardiovasculaire (RCV) est au moins élevé{{< /modal-btn >}}**
   - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
   - **{{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} systématique** pour {{< modal-btn modal-rcv >}}LDL < 0,7 g/L{{< /modal-btn >}} si IRC modérée et 0,55 g/L pour IRC sévère (et réduction ≥ 50 %)  
     Ne pas introduire au stade terminal, évaluer la poursuite à ce stade.

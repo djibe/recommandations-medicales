@@ -444,6 +444,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease (ESsCD) 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 2: Management, Follow-Up, and Complex Disease Courses. United European Gastroenterol J. 2026.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70195)
 - [Luque V, et al. Gluten-free diet for pediatric patients with coeliac disease: A position paper from the ESPGHAN gastroenterology committee, special interest group in coeliac disease. J Pediatr Gastroenterol Nutr. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/jpn3.12079)
 - [Mearin ML, et al. ESPGHAN Position Paper on Management and Follow-up of Children and Adolescents With Celiac Disease. J Pediatr Gastroenterol Nutr. 2022.](https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003540)
 - [Arnold MJ. Diagnosis and Management of Celiac Disease: Guidelines From the American College of Gastroenterology. Am Fam Physician. 2024.](https://pubmed.ncbi.nlm.nih.gov/38227887/)

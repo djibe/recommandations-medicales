@@ -254,10 +254,11 @@ La prise en charge de l'hyperkaliémie subaiguë ou chronique comprend la réév
   - Favoriser les diurétiques thiazidique (HTA), de l'anse (insuffisance cardiaque)
   - Selon le terrain (diabète, insuffisance rénale ou cardiaque): {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
 - Réduire les apports en potassium (fruits, KCl), avis diététique
-- Sodium polystyrene sulfonate 1 cuiller-mesure x 1-4/j ([Kayexalate](https://base-donnees-publique.medicaments.gouv.fr/medicament/67499717/extrait#tab-rcp), gén)
+- Chélateurs du potassium:
+  - ==Sodium polystyrene sulfonate== 1 cuiller-mesure x 1-4/j ([Kayexalate](https://base-donnees-publique.medicaments.gouv.fr/medicament/67499717/extrait#tab-rcp) ou autre; 24 € les 400g)
+  - voire patiromer 8,4 - 25,2 g x 1/j ([Veltassa](https://base-donnees-publique.medicaments.gouv.fr/medicament/63705995/extrait#tab-rcp-et-notice); 190 € les 30 sachets)
+  - ou cyclosilicate de zirconium sodique ([Lokelma](https://base-donnees-publique.medicaments.gouv.fr/medicament/64247885/extrait#tab-rcp-et-notice); 189 € les 30 sachets)
 - Si hyporéninisme hypoaldostéronisme: fludrocortisone, diurétique de l'anse furosémide
-
-Sur prescription spécialisée uniquement: patiromer 8,4 - 25,2 g x 1/j ([Veltassa](https://base-donnees-publique.medicaments.gouv.fr/medicament/63705995/extrait#tab-rcp-et-notice), cyclosilicate de zirconium sodique ([Lokelma](https://base-donnees-publique.medicaments.gouv.fr/medicament/64247885/extrait#tab-rcp-et-notice)).
 
 ### Pour en savoir plus: traitement de l'hyperkaliémie sévère
 
@@ -352,6 +353,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Rossignol P, et al. État des lieux sur l'hyperkaliémie chronique persistante en France : consensus d'experts par une approche Delphi. Néphrologie & Thérapeutique. 2022.](https://www.sciencedirect.com/science/article/abs/pii/S176972552100568X) (payant)
 - ESC RAAS 2018
 - ESC HBP 2024
 
