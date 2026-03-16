@@ -1,7 +1,7 @@
 {{ $tnumber := add 1 $.Ordinal }}
 {{- $userClass := .Attributes.class | default "" }}
-{{ with .Attributes.caption }}<script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "{{ . | markdownify }}"}</script>{{ end }}
-<div class="data-table" role="region" tabindex="0" {{ with .Attributes.caption }}aria-labelledby="caption-{{ $tnumber }}" {{ end }}>
+{{ with .Attributes.caption }}<script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "{{ . | $.Page.RenderString }}"}</script>{{ end }}
+<section class="data-table" tabindex="0" {{ with .Attributes.caption }}aria-labelledby="caption-{{ $tnumber }}" {{ end }}>
 <table class="table {{ if $userClass }} {{ $userClass }}{{ end }}"
     {{- range $k, $v := .Attributes }}
       {{- if and $v (ne $k "caption") (ne $k "class") }}
@@ -53,4 +53,4 @@
     {{- end }}
   </tbody>
 </table>
-</div>
+</section>
