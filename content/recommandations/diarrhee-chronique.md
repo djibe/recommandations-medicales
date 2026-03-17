@@ -257,6 +257,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Singh P, et al. Chronic, Noninfectious Diarrhea: A Review. JAMA. 2026.](https://jamanetwork.com/journals/jama/article-abstract/2845755)
 - {{< references/college-gastro >}}
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Diarrhée chronique. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/diarrhee)
 

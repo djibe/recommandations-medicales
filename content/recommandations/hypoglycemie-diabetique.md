@@ -112,8 +112,8 @@ Recommandations pour la prise en charge d'une hypoglycémie:
 
 - Arrêt de l'injection d'insuline
 - Arrêt de l'activité physique
-- ==Administrer **15 à 20 g de glucides** sous forme liquide toutes les 15 minutes jusqu'à obtenir une glycémie > 0,7 g/L== (ou à défaut la disparition des symptômes)
-  - Si glycémie interstitielle: toutes 30 minutes (*source à venir*)
+- ==Administrer **15 à 20 g de glucose** sous forme liquide toutes les 15 minutes jusqu'à obtenir une glycémie > 0,7 g/L== (ou à défaut la disparition des symptômes)
+  - Si glycémie interstitielle: toutes 30 minutes (*source manquante*)
   - Si pompe à insuline: 5-10 g (sauf sport intense ou surestimation de l'insulinothérapie fonctionnelle)
   - Soit 15 cL de cola (non light), 1 verre ou briquette de jus de fruit (15-20 cL), 3 sucres, 1 cuillère à soupe de confiture, de miel ou de sirop, 3 bonbons ... (pour une correction de 0,5 g/L)
   - Appel du SAMU en cas d'aggravation
