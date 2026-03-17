@@ -16,7 +16,7 @@ sctid = "400179000"
 icd10 = ["E30.1"]
 image = true
 imageSrc = "Stades de Tanner pour le développement mammaire. The Adolescent Period, 1951Frank Kayley Shuttleworth, Public domain, via Wikimedia Commons"
-todo = "rankok"
+rank = "ok"
 flowchart = true
 +++
 

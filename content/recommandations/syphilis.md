@@ -18,8 +18,9 @@ sctid = "76272004"
 icd10 = ["A53", "A53.9", "A51", "A51.9", "A52", "A52.9"]
 image = true
 imageSrc = "Chancre syphilitique de la langue signant une syphilis primaire. cdc.gov / PHIL"
+rank = "ok"
 flowchart = true
-todo = "rankok | améliorer dépistage contacts"
+todo = "améliorer dépistage contacts"
 +++
 
 {{%article-summary%}}
@@ -28,7 +29,7 @@ todo = "rankok | améliorer dépistage contacts"
 - Évoquer un chancre syphilitique devant toute ulcération génitale, anale ou pharyngée selon les expositions sexuelles
 - Bilan pour le dépistage d'une syphilis: sérologie syphilitique (test tréponémique unique et non plus TPHA-VDRL)
 - La prise en charge de la syphilis dépend du stade de la maladie:
-  - Syphilis précoce (date de contamination connue de moins d'un an): benzathine pénicilline G (BPG) 2,4 MUI IM dose unique avec paracétamol systématique et surveillance pendant 30 minutes
+  - Syphilis précoce (date de contamination connue de moins d'un an): benzathine pénicilline G (BPG) 2,4 MUI IM dose unique avec paracétamol systématique (et surveillance pendant 30 minutes)
   - Syphilis tardive (tous les autres cas): BPG 2,4 MUI 1 injection IM par semaine pendant 3 semaines
 - Dépistage des autres [infections sexuellement transmissibles (IST)](/tags/ist/) et dépistage voire traitement d'emblée des partenaires (des 3 derniers mois si chancre, sinon des 2 dernières années)
 - Hospitalisation discutée en cas de grossesse; urgente en cas de signes neurologiques, ophtalmologiques ou auditifs (neurosyphilis), cardiaques ou de syphilis congénitale

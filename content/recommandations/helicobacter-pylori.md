@@ -19,8 +19,9 @@ sctid = "80774000"
 icd10 = ["K29.7", "B98.0"]
 image = true
 imageSrc = "*Helicobacter pylori* implantés sur la muqueuse gastrique, CDC/Dr Patricia Fields, Dr Collette Fitzgerald (PHIL 5715), 2004"
+rank = "ok"
 flowchart = true
-todo = "rankok, reco enfant 2022, comment diag quand rosacée, dépistage en AINS long cours Maastricht III"
+todo = "reco enfant 2022, comment diag quand rosacée, dépistage en AINS long cours Maastricht III"
 modele = true
 +++
 

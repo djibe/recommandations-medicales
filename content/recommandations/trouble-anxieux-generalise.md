@@ -19,7 +19,8 @@ sctid = "21897009"
 icd10 = ["F41.1"]
 image = true
 imageSrc = "Le trouble anxieux généralisé (TAG). storyset / Freepik"
-todo = "rankok, risque CV, ECG pré-thérap, livres/vidéo/sites TCC"
+rank = "ok"
+todo = "risque CV, ECG pré-thérap, livres/vidéo/sites TCC"
 flowchart = true
 +++
 

@@ -19,7 +19,7 @@ icd10 = ["Z30"]
 atc = "G03AD"
 image = true
 imageSrc = "Communication sur la contraception d'urgence par OnSexPrime.fr"
-todo = "rankok"
+rank = "ok"
 flowchart = true
 +++
 

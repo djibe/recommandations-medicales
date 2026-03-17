@@ -13,8 +13,8 @@ sources = []
 tags = []
 image = true
 imageSrc = "des sociétés savantes de médecine / unDraw"
+rank = "ok"
 datatable = true
-todo = "rankok"
 +++
 
 De très nombreuses sociétés savantes médicales existent et publient régulièrement des recommandations et guides de bonnes pratiques.

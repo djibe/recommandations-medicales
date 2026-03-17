@@ -20,7 +20,8 @@ atc = "A11CC"
 image = true
 imageSrc = "La vitamine D. pch.vector / Freepik"
 flowchart = true
-todo = "rankok | questionnaire VDSP vitamineD 2018 src23 et src25, autre quest src26, formule calcul Zitterman src72"
+rank = "ok"
+todo = "questionnaire VDSP vitamineD 2018 src23 et src25, autre quest src26, formule calcul Zitterman src72"
 +++
 
 {{%article-summary%}}

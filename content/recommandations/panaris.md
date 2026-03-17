@@ -17,8 +17,8 @@ sctid = "32021005"
 icd10 = ["L02.4", "L03.0"]
 image = true
 imageSrc = "Panaris avec composantes inflammatoire et collectée. Uwe Jendricke, Public domain, via Wikimedia Commons"
+rank = "ok"
 flowchart = true
-todo = "rankok"
 +++
 
 {{%article-summary%}}

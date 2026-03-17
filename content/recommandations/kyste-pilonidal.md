@@ -17,7 +17,8 @@ sctid = "47639008"
 icd10 = ["L05", "L05.9"]
 image = true
 imageSrc = "Kyste pilonidal abcédé. Jonathanlund, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "rankok | relecture demandée"
+rank = "ok"
+todo = "relecture demandée"
 flowchart = true
 +++
 

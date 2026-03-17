@@ -17,7 +17,8 @@ sctid = "23056005"
 icd10 = ["M54.3"]
 image = true
 imageSrc = "Hernie discale lombaire responsable d'une sciatique. OpenStax College, CC BY 3.0, via Wikimedia Commons"
-todo = "rankok | flow"
+rank = "ok"
+todo = "flow"
 +++
 
 {{%article-summary%}}

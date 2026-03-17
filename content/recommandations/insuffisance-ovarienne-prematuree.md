@@ -18,8 +18,9 @@ sctid = "237788002"
 icd10 = ["E28.3"]
 image = true
 imageSrc = "Illustration de la ménopause précoce (insuffisance ovarienne prématurée). vectorjuice / Freepik"
+rank = "ok"
 flowchart = true
-todo = "rankok | ESHRE2024Fig2p5, relecture en attente de joindre"
+todo = "ESHRE2024Fig2p5, relecture en attente de joindre"
 +++
 
 {{%article-summary%}}

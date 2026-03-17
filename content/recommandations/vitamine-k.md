@@ -18,7 +18,8 @@ icd10 = ["E56.1", "P61.6"]
 atc = "B02BA"
 image = false
 imageSrc = ""
-todo = "rankok"
+rank = "ok"
+todo = "réécrire SEO"
 +++
 
 {{%article-summary%}}
@@ -68,8 +69,8 @@ En cas d'**allaitement artificiel**, la troisième ampoule n'est pas obligatoire
 
 La première ampoule doit être administrée durant la 1^re^ heure de vie (cf. tableau ci-dessous).
 
-|               | Naissance     | J3-J4      | 1 mois     |
-| ------------- | :-----------: | ---------- | ---------- |
+|               | Naissance     | J3-J4       | 1 mois      |
+| ------------- | :-----------: | ----------- | ----------- |
 | Né à terme    | 2 mg per os   | 2 mg per os | 2 mg per os |
 | Né à terme avec<br> FDR de MHN | 2 mg per os<br>ou 1 mg IVL | 2 mg per os<br>ou 1 mg IM/IVL | 2 mg per os<br>ou 1 mg IM/IVL |
 {caption="Rythme d'administration de la vitamine K1 en périnatal d'après *SFNéonat 2015*. MHN = maladie hémorragique du nouveau-né"}

@@ -18,7 +18,8 @@ sctid = "197441003"
 icd10 = ["K83.0"]
 image = true
 imageSrc = "Diagnostic de cholangite sclérosante primitive (CSP) sur des images typiques de cholangio-IRM 3D. Cas de Mohammad A. ElBeialy, Radiopaedia.org, rID: 46719"
-todo = "rankok | relecture MIVB-H demandée"
+rank = "ok"
+todo = "relecture MIVB-H demandée"
 flowchart = true
 +++
 

@@ -19,7 +19,8 @@ sctid = "400130008"
 icd10 = ["M31.6"]
 image = true
 imageSrc = "Cellules géantes sur une biopsie de l'artère temporale (BAT) signant une artérite à cellules géantes (ou maladie de Horton). Nephron, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "rankok | flow PNDSp13/50"
+rank = "ok"
+todo = "flow PNDSp13/50"
 +++
 
 {{%article-summary%}}

@@ -18,7 +18,8 @@ icd10 = []
 atc = "R03BA"
 image = true
 imageSrc = "Les corticoïdes inhalés. Freepik"
-todo = "rankok, flow | [Centre Belge d'Information Pharmacothérapeutique (CBIP). Les anticholinergiques font-ils perdre la mémoire ?. Folia. 2024.](https://www.cbip.be/fr/articles/4440?folia=4434)"
+rank = "ok"
+todo = "flow | [Centre Belge d'Information Pharmacothérapeutique (CBIP). Les anticholinergiques font-ils perdre la mémoire ?. Folia. 2024.](https://www.cbip.be/fr/articles/4440?folia=4434)"
 +++
 
 {{%article-summary%}}

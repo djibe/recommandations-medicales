@@ -19,7 +19,7 @@ icd10 = []
 image = true
 imagePNG = true
 imageSrc = "La Gamma-GT (gamma-glutamyltranspeptidase). Theplatypus277, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "rankok"
+rank = "ok"
 flowchart = true
 +++
 

@@ -17,8 +17,9 @@ sctid = "398909004"
 icd10 = ["L71", "L71.9"]
 image = true
 imageSrc = "Rosacée papulopustuleuse avec érythème. The Thinking Doll / Foter"
+rank = "ok"
 flowchart = true
-todo = "rankok | interrogatoire, modele"
+todo = "interrogatoire, modele"
 +++
 
 {{%article-summary%}}

@@ -17,9 +17,10 @@ sctid = "38907003"
 icd10 = ["B01", "B01.9"]
 image = true
 imageSrc = "Lésion vésiculeuse typique de varicelle peu après son apparition. Devient trouble en 1 à 2 jours. Par F malan, CC BY-SA 3.0, via Wikimedia Commons"
+rank = "ok"
 flowchart = true
 chart = true
-todo = "rankok | vérif co-vaccination ROR, https://pap-pediatrie.fr/sites/pap-pediatrie.fr/files/01_contage_varicelleux_chez_lenfant_fig1.gif"
+todo = "vérif co-vaccination ROR, https://pap-pediatrie.fr/sites/pap-pediatrie.fr/files/01_contage_varicelleux_chez_lenfant_fig1.gif"
 +++
 
 {{%article-summary%}}

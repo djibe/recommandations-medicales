@@ -17,7 +17,8 @@ sctid = "56317004"
 icd10 = ["L65", "L65.9", "L64", "L64.9", "L63"]
 image = true
 imageSrc = "Pelade de l'homme d'âge moyen: aspect ovalaire sur cuir chevelu sain. Thirunavukkarasye-Raveendran, CC BY 4.0, via Wikimedia Commons"
-todo = "rankok | relecture | dermato-info"
+todo = "relecture | dermato-info"
+rank = "ok"
 flowchart = true
 +++
 

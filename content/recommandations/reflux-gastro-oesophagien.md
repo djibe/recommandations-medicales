@@ -20,8 +20,9 @@ sctid = "235595009"
 icd10 = ["K21", "K21.9", "R12"]
 image = true
 imageSrc = "Illustration du reflux gastro-œsophagien par BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
+rank = "ok"
 flowchart = true
-todo = "rankok | interrogatoire, rythme suivi RGO par EOGD, Reflux Disease Questionnaire (RDQ)"
+todo = "interrogatoire, rythme suivi RGO par EOGD, Reflux Disease Questionnaire (RDQ)"
 +++
 
 {{%article-summary%}}

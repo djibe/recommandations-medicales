@@ -17,8 +17,8 @@ english = ["Abdominal aortic aneurysm (AAA)"]
 sctid = "233985008"
 icd10 = ["I71"]
 image = true
-imageSrc = "Schéma de l'anévrysme de l'aorte abdominale par loudista sur Foter.com"
-todo = "rankok"
+imageSrc = "Schéma de l'anévrysme de l'aorte abdominale. loudista / Foter.com"
+rank = "ok"
 flowchart = true
 +++
 

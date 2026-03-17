@@ -19,7 +19,8 @@ icd10 = ["Q89.0"]
 image = true
 imageWEBP = true
 imageSrc = "Illustration de la rate par scientificanimations.com, CC BY-SA 4.0"
-todo = "rankok | Fièvre du splénectomisé"
+rank = "ok"
+todo = "Fièvre du splénectomisé"
 flowchart = true
 +++
 

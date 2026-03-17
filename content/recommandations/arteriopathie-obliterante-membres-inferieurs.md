@@ -19,8 +19,9 @@ sctid = "789703007"
 icd10 = ["I70.20", "I77.6"]
 image = true
 imageSrc = "Illustration de l'AOMI. macrovector / Freepik"
+rank = "ok"
 flowchart = true
-todo = "rankok, centres réadapt vasculaire, QDV EQ-5D, association patient, https://pubmed.ncbi.nlm.nih.gov/33401955/, https://pubmed.ncbi.nlm.nih.gov/1474406/, Éducation thérapeutique"
+todo = "centres réadapt vasculaire, QDV EQ-5D, association patient, https://pubmed.ncbi.nlm.nih.gov/33401955/, https://pubmed.ncbi.nlm.nih.gov/1474406/, Éducation thérapeutique"
 +++
 
 {{%article-summary%}}

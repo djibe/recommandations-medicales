@@ -18,7 +18,7 @@ sctid = ""
 icd10 = []
 image = true
 imageSrc = "Conservation des aliments. macrovector / Freepik"
-todo = "rankok"
+rank = "ok"
 +++
 
 {{%article-summary%}}

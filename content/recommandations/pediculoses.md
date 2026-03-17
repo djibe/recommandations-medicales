@@ -17,7 +17,8 @@ sctid = "20848007"
 icd10 = ["B85", "B85.2"]
 image = true
 imageSrc = "Poux de tête extraits du crâne. CC BY-SA 3.0 via Wikimedia Commons"
-todo = "rankok, modèle école"
+todo = "modèle école"
+rank = "ok"
 flowchart = true
 modele = true
 +++

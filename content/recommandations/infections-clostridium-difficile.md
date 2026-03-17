@@ -18,7 +18,8 @@ sctid = "186431008"
 icd10 = ["A04.7"]
 image = true
 imageSrc = "Aspect coloscopique de colite pseudomembraneuse à *Clostridium difficile*. Klinikum Dritter Orden, München. Abteilung Innere Medizin I Vielen Dank an Christoph Kaiser für die Überlassung des Bildes zur Veröffentlichung!, CC0, via Wikimedia Commons"
-todo = "flow, rankok | Rechercher chez SII avec diarrhées aiguës profuses."
+rank = "ok"
+todo = "flow | Rechercher chez SII avec diarrhées aiguës profuses."
 +++
 
 {{%article-summary%}}

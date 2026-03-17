@@ -17,7 +17,8 @@ sctid = "44001008"
 icd10 = ["F52.4"]
 image = false
 imageSrc = ""
-todo = "rankok | photo, calc PEP, conseils, update 2026, relecture demandée eric.huyghe"
+rank = "ok"
+todo = "photo, calc PEP, conseils, update 2026, relecture demandée eric.huyghe"
 flowchart = true
 +++
 

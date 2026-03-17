@@ -19,8 +19,9 @@ sctid = "193031009"
 icd10 = ["G44.0"]
 image = true
 imageSrc = "Rougeur de la joue homolatérale durant une crise d'algie vasculaire de la face. T. Bjornstad, CC BY-SA 4.0, via Wikimedia Commons"
+rank = "ok"
 flowchart = true
-todo = "rankok | Examen clinique"
+todo = "Examen clinique"
 +++
 
 {{%article-summary%}}

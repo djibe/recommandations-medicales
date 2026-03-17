@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-30T16:38:00+02:00"
 publishdate = "2021-05-01"
-lastmod = "2023-11-30"
+lastmod = "2026-03-08"
 specialites = ["pédiatrie", "urologie"]
 annees = "2021"
 sources = ["Collèges", "SFP"]
@@ -16,17 +16,17 @@ english = ["Cryptorchidism"]
 sctid = "204878001"
 icd10 = ["Q53", "Q53.9"]
 image = true
-imageSrc = "La cryptorchidie. Lamiot via Wikipedia Commons, CC BY-SA 3.0"
-todo = "rankok"
+imageSrc = "Illustration des types de cryptorchidie. Lamiot via Wikipedia Commons, CC BY-SA 3.0"
+rank = "ok"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- La cryptorchidie est un testicule non descendu, soit par obstacle à sa descente intra-abdominale, soit par descente incomplète
-- Dépistage systématique de la cryptorchidie: palper les bourses de tous les petits garçons (prévalence de 2 à 4%)
+- La cryptorchidie est un testicule non descendu dans sa bourse, soit par obstacle durant sa descente intra-abdominale, soit par descente incomplète
+- Le dépistage d'une cryptorchidie est systématique: palper les bourses de tous les petits garçons (prévalence de 2 à 4 %)
 - La chirurgie d'un testicule cryptorchide est réalisée idéalement à partir d'un an avec surveillance post-opératoire du testicule pendant un an (risque d'atrophie testiculaire voire d'échec)
-- Réévaluation du garçon à la puberté pour surveiller le développement pubertaire
+- Réévaluer le garçon à la puberté pour surveiller le développement pubertaire
 - Éducation du patient sur l'auto-palpation pour le dépistage du [cancer du testicule]({{% relref "cancer-testicule.md" %}})
 
 {{%/article-summary%}}
@@ -49,13 +49,13 @@ Testicule oscillant ou << testicule ascenseur >>
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic de cryptorchidie est clinique par palpation de bourse vide (testicule non descendu).
+**Le diagnostic de cryptorchidie est clinique** par palpation de bourse vide (testicule non descendu).
 
 3 situations à la palpation:
 
 - Testicule palpé en inguinal au-dessus de la bourse, mais fixé et impossible à descendre
 - Testicule palpé mais très mobile et ne restant dans la bourse que par intermittence
-- Testicule jamais palpé: position intra-abdominale ou testicule atrophique.
+- Testicule jamais palpé: position intra-abdominale ou testicule atrophique
 
 Rechercher d'autres anomalies génitales associées:
 
@@ -70,12 +70,12 @@ Rechercher d'autres anomalies génitales associées:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Le bilan de la cryptorchidie est une échographie abdomino-scrotale.
-{.alert .alert-info}
+> [!INFO]
+> Le bilan de la cryptorchidie comprend une échographie abdomino-scrotale.
 
-Autres bilans d'une cryptorchidie: avis endocrinologique, cœlioscopie exploratrice.
+Autres bilans possibles pour l'exploration d'une cryptorchidie: avis endocrinologique, cœlioscopie exploratrice.
 
-En cas de cryptorchidie bilatérale: **caryotype** si hypospade.
+**En cas de cryptorchidie bilatérale:** **caryotype** si le garçon est également hypospade.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la cryptorchidie" %}}
@@ -89,7 +89,8 @@ Indications au traitement chirurgical d'un enfant cryptorchide:
 
 Surveillance annuelle des **testicules oscillants** (30 % nécessiteront une intervention chirurgicale).
 
-À la puberté: apprentissage de l'auto-palpation pour le dépistage du [cancer du testicule]({{% relref "cancer-testicule.md" %}}). Ne pas attendre en cas d'[infertilité]({{% relref "infertilite-couple.md" %}}) à l'âge adulte et surveiller des signes de [déficit en testostérone]({{% relref "andropause-deficit-testosterone.md" %}}).
+- À la puberté: apprentissage de l'auto-palpation des testicules pour le dépistage du [cancer du testicule]({{% relref "cancer-testicule.md" %}})
+- Ne pas attendre en cas d'[infertilité]({{% relref "infertilite-couple.md" %}}) à l'âge adulte et surveiller des signes de [déficit en testostérone]({{% relref "andropause-deficit-testosterone.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Information des parents" %}}
@@ -104,7 +105,7 @@ Surveillance annuelle des **testicules oscillants** (30 % nécessiteront une int
 
 ### Information des parents d'un garçon cryptorchide
 
-[Document d'information des parents de l'AFU](https://www.urofrance.org/base-bibliographique/cryptorchidie-intervention-chirurgicale-pour-cryptorchidie) et le [document d'Ameli sur la cryptorchidie](https://www.ameli.fr/assure/sante/themes/cryptorchidie-testicule-non-descendu-ectopie-testiculaire/comprendre-cryptorchidie).
+[Document d'information des parents de l'AFU (PDF)](https://www.urofrance.org/sites/default/files/19_cryptorchidie.pdf) et le [document d'Ameli sur la cryptorchidie](https://www.ameli.fr/assure/sante/themes/cryptorchidie-testicule-non-descendu-ectopie-testiculaire/comprendre-cryptorchidie).
 
 - Risque de découvrir un testicule atrophié
 - Risque d'atrophie testiculaire secondaire et ses retentissements sur la stérilité
@@ -113,7 +114,7 @@ Surveillance annuelle des **testicules oscillants** (30 % nécessiteront une int
 {{% /collapse %}}
 {{%collapse "Prise en charge de la cryptorchidie" "show" %}}
 
-{{< mermaid title="Prise en charge de la cryptorchidie par le médecin généraliste. Dr JB Fron d'après Collèges 2021 et SFP" >}}
+{{< mermaid title="Prise en charge de la cryptorchidie par le médecin généraliste. Dr JB Fron d'après Collèges et SFP" >}}
 graph TB
   dépistage["Dépistage de la cryptorchide chez<br>tous les nourrissons masculins"] --> palpation("Palpations répétées des bourses") --> présent(Testicule en place)
     palpation --> oscillant(Testicule oscillant) --> chirurgien("Avis du chirurgien<br>pédiatrique avant 6 mois:<br>- Chirurgie avant 2 ans<br>- Endocrinologue") -- Adolescence --> puberté("- Suivi pubertaire<br>- Auto-palpation testiculaire<br>- Risque infertilité")
@@ -124,17 +125,17 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Ameli. Comprendre la cryptorchidie ou testicule non descendu. 13/01/2023.](https://www.ameli.fr/assure/sante/themes/cryptorchidie-testicule-non-descendu-ectopie-testiculaire/comprendre-cryptorchidie)
+- [Ameli. Comprendre la cryptorchidie ou testicule non descendu. 05/12/2025.](https://www.ameli.fr/assure/sante/themes/cryptorchidie-testicule-non-descendu-ectopie-testiculaire/comprendre-cryptorchidie)
 - [Collège Français des Enseignants en Urologie (CFEU). Pathologie génito-scrotale chez le garçon et chez l'homme. Item 50. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-50-Pathologies-genito-scrotale.pdf)
 - {{< references/college-endocrino >}}
-- [Le Moal J et al. Variations spatiotemporelles du risque de cryptorchidies opérées en France et hypothèses environnementales. Santé publique France. 2021.](https://www.santepubliquefrance.fr/docs/variations-spatiotemporelles-du-risque-de-cryptorchidies-operees-en-france-et-hypotheses-environnementales)
-- [Gueorguieva I, Bouvattier C; SFP. Cryptorchidie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/hhw0vmi)
+- [Le Moal J, et al. Variations spatiotemporelles du risque de cryptorchidies opérées en France et hypothèses environnementales. Santé publique France. 2021.](https://www.santepubliquefrance.fr/docs/variations-spatiotemporelles-du-risque-de-cryptorchidies-operees-en-france-et-hypotheses-environnementales)
+- [Gueorguieva I, Bouvattier C. Cryptorchidie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/hhw0vmi) (SFP)
+- [Merrot T. Prise en charge des testicules non descendus. Progrès en Urologie. 2009. (PDF)](https://www.urofrance.org/sites/default/files/fileadmin/documents/data/PU/2009/3247/38905/FR/206489/main.pdf)
 
 ### Bibliographie en attente
 
-- [Radmayr C, et al. EAU guidelines on paediatric urology. 2022.](https://uroweb.org/guidelines/paediatric-urology)
+- [Radmayr C, et al. EAU guidelines on paediatric urology. 2026.](https://uroweb.org/guidelines/paediatric-urology)
 - [Desvignes V, Dobremez E. Orientation diagnostique devant un testicule non descendu. AFPA. 2025.](https://afpa.org/2025/01/09/orientation-diagnostique-devant-un-testicule-non-descendu/)
 - [Dobremez E, Harper L. Cryptorchidie acquise, testicule oscillant et autres formes secondaires de cryptorchidie. Andrologie. 2010. (PDF)](https://link.springer.com/content/pdf/10.1007/s12610-010-0095-y.pdf)
-- [Merrot T. Prise en charge des testicules non descendus. Progrès en urologie. 2009. (PDF)](https://www.urofrance.org/sites/default/files/fileadmin/documents/data/PU/2009/3247/38905/FR/206489/main.pdf)
 
 {{%/sources%}}

@@ -17,7 +17,8 @@ sctid = "14760008"
 icd10 = ["K59.0"]
 image = true
 imageSrc = "Illustration de la constipation par storyset / Freepik"
-todo = "rankok, nourrisson, Rome IV"
+rank = "ok"
+todo = "nourrisson, Rome IV"
 flowchart = true
 +++
 

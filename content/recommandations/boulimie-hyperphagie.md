@@ -18,7 +18,8 @@ sctid = "78004001"
 icd10 = ["F50.2", "F50.3", "F50.4"]
 image = true
 imageSrc = "Illustration de la boulimie. storyset / Freepik"
-todo = "rankok, borderline: https://jamanetwork.com/journals/jama/article-abstract/2801843, complications"
+todo = "borderline: https://jamanetwork.com/journals/jama/article-abstract/2801843, complications"
+rank = "ok"
 flowchart = true
 +++
 

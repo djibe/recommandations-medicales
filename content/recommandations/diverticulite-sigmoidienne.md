@@ -18,8 +18,8 @@ sctid = "427910000"
 icd10 = ["K57", "K57.9"]
 image = true
 imageSrc = "Diverticules coliques en coloscopie. Anpol42, CC BY-SA 4.0, via Wikimedia Commons"
+rank = "ok"
 flowchart = true
-todo = "rankok"
 +++
 
 {{%article-summary%}}

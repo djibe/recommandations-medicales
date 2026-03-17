@@ -20,8 +20,9 @@ icd10 = ["G50"]
 image = true
 imageWEBP = true
 imageSrc = "Territoires sensitifs (dermatomes) des trois branches du nerf trijumeau (nerf V). BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
+rank = "ok"
 flowchart = true
-todo = "rankok | palier avant envisager décroissance"
+todo = "palier avant envisager décroissance"
 +++
 
 {{%article-summary%}}

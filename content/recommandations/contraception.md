@@ -19,8 +19,9 @@ icd10 = ["Z30"]
 atc = "G03A"
 image = true
 imageSrc = "La contraception. stories / Freepik"
+rank = "ok"
 chart = true
-todo = "rankok, oubli https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/que-faire-en-cas-d-oubli-de-pilule, modal DIU, nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, 360medics, inducteur enz p9, cat vmts et diarrhées p9, contraception définitive https://ansm.sante.fr/uploads/2024/02/13/20240212-epi-phare-rapport-vasectomie.pdf"
+todo = "oubli https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/que-faire-en-cas-d-oubli-de-pilule, modal DIU, nb grossesses efficacité, ONU contraceptions pays, critères reconsult DIU, graph risque thromboembo, macroprogestatifs à dose antigonadotrope, 360medics, inducteur enz p9, cat vmts et diarrhées p9, contraception définitive https://ansm.sante.fr/uploads/2024/02/13/20240212-epi-phare-rapport-vasectomie.pdf"
 flowchart = true
 +++
 

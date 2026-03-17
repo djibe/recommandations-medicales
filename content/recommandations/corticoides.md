@@ -19,7 +19,8 @@ icd10 = ["E27.3"]
 atc = "H02AB"
 image = true
 imageSrc = "Structure chimique de la prednisone. Bryan Derksen, Public domain, via Wikimedia Commons"
-todo = "rankok | PNDS Horton 2020, **biphospho <https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-losteoporose>**, inhibiteurs CYP3A4 https://pharmacomedicale.org/pharmacologie/les-sources-de-variabilite-de-la-reponse-au-medicament/45-variabilites-pharmacocinetiques/101-inhibitions-enzymatiques"
+rank = "ok"
+todo = "PNDS Horton 2020, **biphospho <https://www.has-sante.fr/jcms/c_1751307/fr/les-medicaments-de-losteoporose>**, inhibiteurs CYP3A4 https://pharmacomedicale.org/pharmacologie/les-sources-de-variabilite-de-la-reponse-au-medicament/45-variabilites-pharmacocinetiques/101-inhibitions-enzymatiques"
 flowchart = true
 +++
 

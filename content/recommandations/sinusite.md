@@ -18,8 +18,9 @@ sctid = "15805002"
 icd10 = ["J01", "J01.9"]
 image = true
 imageSrc = "Illustration des sinus par NIAID sur Foter.com / CC BY"
+rank = "ok"
 flowchart = true
-todo = "rankok | amélio clinique, https://www.sforl.org/wp-content/uploads/2020/02/recoRSIA.pdf, indications scanner, sources prescrire"
+todo = "amélio clinique, https://www.sforl.org/wp-content/uploads/2020/02/recoRSIA.pdf, indications scanner, sources prescrire"
 +++
 
 {{%article-summary%}}

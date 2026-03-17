@@ -17,8 +17,9 @@ english = ["Chronic diarrhea", "chronic diarrhoea"]
 sctid = "236071009"
 icd10 = ["K52", "K52.9"]
 image = true
-imageSrc = "Illustration des diarrhées chroniques par brgfx / Freepik"
-todo = "rankok | CDU-HGE p144, SEO, SeHCAT"
+imageSrc = "Illustration des diarrhées chroniques. brgfx / Freepik"
+rank = "ok"
+todo = "CDU-HGE p144, SEO, SeHCAT"
 flowchart = true
 +++
 

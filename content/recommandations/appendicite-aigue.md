@@ -17,7 +17,8 @@ sctid = "85189001"
 icd10 = ["K35", "K35.9", "K37"]
 image = true
 imageSrc = "Appendicite terminale avec pus intraluminal chez un garçon de 7 ans avec douleurs abdominales depuis 2 jours. Cas de Maulik S Patel, Radiopaedia.org, rID: 16751"
-todo = "rankok, https://www.sciencedirect.com/science/article/pii/B9782294759710000298, relecture leon.maggiori@aphp"
+rank = "ok"
+todo = "https://www.sciencedirect.com/science/article/pii/B9782294759710000298, relecture leon.maggiori@aphp"
 flowchart = true
 +++
 

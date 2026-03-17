@@ -18,7 +18,8 @@ sctid = "194281003"
 icd10 = ["H66.0", "H66.9", "H72.9"]
 image = true
 imageSrc = "Otite moyenne aiguë purulente gauche non perforée (tympan inflammatoire et bombé). B. Welleschik, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "rankok | outil, récidivantes, avion"
+todo = "outil, récidivantes, avion"
+rank = "ok"
 flowchart = true
 +++
 

@@ -17,9 +17,9 @@ sctid = "90176007"
 icd10 = ["J03", "J03.9"]
 image = true
 imageSrc = "Angine érythémateuse gauche. Fireflyez76 sur Foter.com / CC BY-ND"
+rank = "ok"
 flowchart = true
 modele = true
-todo = "rankok"
 +++
 
 {{%article-summary%}}

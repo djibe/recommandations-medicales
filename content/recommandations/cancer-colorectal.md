@@ -18,7 +18,7 @@ sctid = "781382000"
 icd10 = ["C18", "C18.9", "C20", "D01.0", "K62.1", "K63.5", "Z12.1"]
 image = true
 imageSrc = "Illustration du cancer colorectal. Blausen Medical Communications, Inc., CC BY 3.0, via Wikimedia Commons"
-todo = "rankok"
+rank = "ok"
 flowchart = true
 +++
 

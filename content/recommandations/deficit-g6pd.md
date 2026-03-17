@@ -19,7 +19,7 @@ sctid = "62403005"
 icd10 = ["D55.0"]
 image = true
 imageSrc = "Illustration du déficit en G6PD par macrovector / Freepik"
-todo = "rankok"
+rank = "ok"
 datatable = true
 flowchart = true
 +++

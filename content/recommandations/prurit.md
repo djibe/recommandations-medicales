@@ -18,7 +18,8 @@ sctid = "418290006"
 icd10 = ["L29", "L29.9"]
 image = true
 imageSrc = "Illustration du prurit. wayhomestudio / Freepik"
-todo = "rankok"
+rank = "ok"
+todo = "update"
 flowchart = true
 +++
 

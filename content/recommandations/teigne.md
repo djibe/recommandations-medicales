@@ -17,7 +17,8 @@ sctid = "5441008"
 icd10 = ["B35.0"]
 image = true
 imageSrc = "Teigne tondante du jeune garçon. Gzzz, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "rankok | MAJ texte + ordo modèle"
+rank = "ok"
+todo = "MAJ texte + ordo modèle"
 flowchart = true
 +++
 

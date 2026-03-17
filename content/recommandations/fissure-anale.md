@@ -17,7 +17,7 @@ sctid = "30037006"
 icd10 = ["K60.0", "K60.1", "K60.2"]
 image = true
 imageSrc = "Fissure anale de la ligne médiane postérieure typique. Bernardo Gui, Public domain, via Wikimedia Commons"
-todo = "rankok"
+rank = "ok"
 flowchart = true
 +++
 

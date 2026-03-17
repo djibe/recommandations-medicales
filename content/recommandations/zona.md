@@ -17,7 +17,8 @@ sctid = "4740000"
 icd10 = ["B02", "B02.9"]
 image = true
 imageSrc = "Zona thoracique. Gzzz, CC BY-SA 4.0"
-todo = "rankok, flowchart, zona en pédiatrie"
+rank = "ok"
+todo = "flowchart, zona en pédiatrie"
 +++
 
 {{%article-summary%}}

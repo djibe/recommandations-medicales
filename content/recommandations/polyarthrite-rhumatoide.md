@@ -19,8 +19,9 @@ icd10 = ["M06", "M06.9", "M05", "M05.9", "M13.0"]
 image = true
 imageWEBP = true
 imageSrc = "Illustration de la polyarthrite rhumatoïde par scientificanimations.com, CC BY-SA 4.0"
+rank = "ok"
 flowchart = true
-todo = "rankok | simplifier, bilan pré-MTX"
+todo = "simplifier, bilan pré-MTX"
 modele = true
 +++
 

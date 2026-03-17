@@ -19,9 +19,10 @@ sctid = "4120002"
 icd10 = ["J21", "J21.0", "J21.9"]
 image = true
 imageSrc = "Virus respiratoire syncytial (VRS) de la bronchiolite au microscope. CDC 1981 du United States Department of Health and Human Services, Public domain, via Wikimedia Commons"
+rank = "ok"
 flowchart = true
 chart = true
-todo = "rankok | SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
+todo = "SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
 +++
 
 {{%article-summary%}}

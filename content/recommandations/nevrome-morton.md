@@ -18,7 +18,7 @@ sctid= "30085007"
 icd10 = ["G57.6"]
 image = true
 imageSrc = "Zone œdématiée en regard des métatarsiens au cours d'un névrome de Morton bilatéral. gm.esthermax sur Foter.com"
-todo = "rankok"
+rank = "ok"
 flowchart = true
 +++
 

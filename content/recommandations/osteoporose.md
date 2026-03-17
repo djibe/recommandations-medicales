@@ -20,9 +20,10 @@ sctid = "64859006"
 icd10 = ["M81", "M81.9", "M80", "M80.9"]
 image = true
 imageSrc = "Illustration de l'ostéoporose par BruceBlaus, CC BY-SA 4.0 via Wikimedia Commons"
+rank = "ok"
 flowchart = true
 slider = true
-todo = "rankok | https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, HAS 2005 chutes, prescription renforcement musculaire, https://www.endocrine.org/clinical-practice-guidelines/bone-health-and-osteoporosis"
+todo = "https://www.osteoporosis.foundation/sites/iofbonehealth/files/2021-12/RadicallySimpleTest_IOF_FR.pdf, HAS 2005 chutes, prescription renforcement musculaire, https://www.endocrine.org/clinical-practice-guidelines/bone-health-and-osteoporosis"
 modele = true
 +++
 

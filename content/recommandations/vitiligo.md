@@ -17,7 +17,8 @@ sctid = "56727007"
 icd10 = ["L80"]
 image = true
 imageSrc = "Vitiligo des mains. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "rankok | BAD Figure 1, demander relecture julien.seneschal@chu-bordeaux"
+rank = "ok"
+todo = "BAD Figure 1, demander relecture julien.seneschal@chu-bordeaux"
 flowchart = true
 +++
 

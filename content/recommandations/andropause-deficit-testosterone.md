@@ -18,7 +18,8 @@ sctid = "41982003"
 icd10 = ["N50.8"]
 image = false
 imageSrc = ""
-todo = "rankok, photo | score ADAM"
+todo = "photo | score ADAM"
+rank = "ok"
 flowchart = true
 +++
 

@@ -17,7 +17,8 @@ sctid = "609558009"
 icd10 = ["G25.0"]
 image = true
 imageSrc = "Reproduction d'une spirale par un patient atteint de tremblement essentiel: le tremblement est unidirectionnel. Undescribed, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "rankok | flow"
+rank = "ok"
+todo = "flow"
 +++
 
 {{%article-summary%}}

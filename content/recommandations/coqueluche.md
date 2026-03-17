@@ -17,9 +17,9 @@ sctid = "27836007"
 icd10 = ["A37", "A37.9"]
 image = true
 imageSrc = "*Bordetella pertussis* à la coloration de Gram, coccobacille Gram négatif de la coqueluche. CDC Public Health Image Library, Public domain, via Wikimedia Commons"
+rank = "ok"
 flowchart = true
 modele = true
-todo = "rankok"
 +++
 
 {{%article-summary%}}

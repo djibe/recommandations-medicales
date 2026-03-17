@@ -18,7 +18,8 @@ sctid = "73998008"
 icd10 = ["N81", "N81.9"]
 image = true
 imageSrc = "Hystéroptose (prolapsus utérin dans le vagin) Baden-Walker 3 chez une femme de 40 ans en position debout. Mikael Häggström, CC0, via Wikimedia Commons"
-todo = "rankok, HAS annexes Échelles PFDI-20, APFQ"
+rank = "ok"
+todo = "HAS annexes Échelles PFDI-20, APFQ"
 flowchart = true
 +++
 

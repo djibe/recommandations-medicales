@@ -18,7 +18,8 @@ sctid = "40956001"
 icd10 = ["G61.0"]
 image = false
 imageSrc = ""
-todo = "photo > flow | rankok | relecture Filnemus demandée"
+rank = "ok"
+todo = "photo > flow | relecture Filnemus demandée"
 +++
 
 {{%article-summary%}}

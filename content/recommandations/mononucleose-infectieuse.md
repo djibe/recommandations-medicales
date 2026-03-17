@@ -18,7 +18,7 @@ sctid = "271558008"
 icd10 = ["B27", "B27.9"]
 image = true
 imageSrc = "Angine pseudomembraneuse au cours d'une mononucléose infectieuse. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "rankok"
+rank = "ok"
 flowchart = true
 +++
 
