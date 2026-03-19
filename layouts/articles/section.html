@@ -20,7 +20,10 @@
       <div class="col-12 grid-list">
       {{ range .Pages.ByPublishDate.Reverse }}
         <div class="card card-list article">
-          <div class="card-img-top bg-article" style="background-image: url('/images/articles/{{.File.BaseFileName}}.webp')"></div>
+          <figure class="figure-img-nav" style="background-color: var(--bg-article-hex)">
+            {{ $imageUrl := printf "/images/articles/%s.webp" .File.BaseFileName }}
+            <img {{- with resources.GetMatch $imageUrl }} src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" {{ end -}} alt="Illustration de {{ .Title }}" class="card-img-top card-img-nav">
+          </figure>
           <div class="card-header">
             <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h2>
             {{ with .Params.Subtitle}}<h3 class="card-subtitle">{{ . }}</h3>{{end}}
