@@ -35,16 +35,21 @@ const botUas = [
 ]
 
 export default async (request, context) => {
-  const ua = request.headers.get('user-agent');
+  const ua = request.headers.get('user-agent') || '';
+  const url = new URL(request.url);
 
-  let isBot = false
+  // Always allow robots.txt
+  if (url.pathname === '/robots.txt') {
+    return context.next();
+  }
 
-  botUas.forEach(u => {
-    if (ua.toLowerCase().includes(u.toLowerCase())) {
-      isBot = true
-    }
-  })
+  const isBot = botUas.some(u =>
+    ua.toLowerCase().includes(u.toLowerCase())
+  );
 
-  const response = isBot ? new Response(null, { status: 404 }) : await context.next();
-  return response
+  if (isBot) {
+    return new Response(null, { status: 404 });
+  }
+
+  return context.next();
 };
