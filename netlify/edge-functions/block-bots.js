@@ -16,6 +16,7 @@ const botUas = [
   'curl',
   'Go-http-client',
   'Google-NotebookLM',
+  'got',
   'GuzzleHttp',
   'HeadlessChrome',
   'HttpAsyncClient',
