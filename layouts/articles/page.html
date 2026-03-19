@@ -53,7 +53,7 @@
             {{ $imageUrl := printf "/images/articles/%s.webp" .File.BaseFileName }}
             <div class="card card-list article mw-248">
               <figure class="figure-img-nav" style="background-color: var(--bg-article-hex)">
-                {{- with resources.GetMatch $imageUrl }}<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="Illustration de {{ .Title }}" class="card-img-top card-img-nav" loading="lazy">{{ end -}}
+                <img {{- with resources.GetMatch $imageUrl }} src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" {{ end -}} alt="Illustration de {{ .Title }}" class="card-img-top card-img-nav" loading="lazy">
               </figure>
               <div class="card-header d-flex flex-column">
                 <span class="card-subtitle mb-2">Article suivant</span>
@@ -65,7 +65,7 @@
             {{ $imageUrl2 := printf "/images/articles/%s.webp" .File.BaseFileName }}
             <div class="card card-list article mw-248">
               <figure class="figure-img-nav" style="background-color: var(--bg-article-hex)">
-                {{- with resources.GetMatch $imageUrl2 }}<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="Illustration de {{ .Title }}" class="card-img-top card-img-nav" loading="lazy">{{ end -}}
+                <img {{- with resources.GetMatch $imageUrl2 }} src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" {{ end -}} alt="Illustration de {{ .Title }}" class="card-img-top card-img-nav" loading="lazy">
               </figure>
               <div class="card-header d-flex flex-column">
                 <span class="card-subtitle mb-2">Article précédent</span>
