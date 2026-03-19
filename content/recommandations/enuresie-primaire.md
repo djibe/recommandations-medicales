@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-24T16:33:00+02:00"
 publishdate = "2021-04-27"
-lastmod = "2025-11-06"
+lastmod = "2026-03-19"
 specialites = ["pédiatrie", "urologie"]
-annees = "2010"
-sources = ["AFU", "SFP", "NICE"]
+annees = "2023"
+sources = ["SCP", "AFU", "SFP", "NICE"]
 tags = []
 english = ["(Isolated) Primary nocturnal enuresis (PNE)"]
 sctid = "450842007"
@@ -18,17 +18,18 @@ icd10 = ["F98.0"]
 image = true
 imageSrc = "Le calendrier mictionnel"
 todo = "info parents, https://afpa.org/content/uploads/2018/11/Enur%C3%A9sie-Dr-Desvignes.pdf"
+rank = "ok"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
 - L'énurésie primaire isolée (EnPI) est une incontinence urinaire intermittente, pendant le sommeil, après l'âge de 5 ans
-- Devant un cas d'énurésie, éliminer: [infection urinaire]({{% relref "infection-urinaire-enfant.md" %}}), [diabète]({{% relref "diabete-type-1.md" %}}), [constipation]({{% relref "constipation.md" %}}), [oxyurose]({{% relref "oxyurose.md" %}})
-- L'énurésie n'a pas d'origine psychologique: déculpabiliser l'enfant, proscrire les punitions et reproches, favoriser les récompenses
+- En cas d'énurésie, éliminer: [infection urinaire]({{% relref "infection-urinaire-enfant.md" %}}), [constipation]({{% relref "constipation.md" %}}), [diabète]({{% relref "diabete-type-1.md" %}}), [oxyurose]({{% relref "oxyurose.md" %}})
 - L'énurésie primaire isolée est un diagnostic clinique: symptômes nocturnes isolés en l'absence de propreté nocturne antérieure, élimination des diagnostics différentiels, [calendrier mictionnel](https://afpa.org/content/uploads/2017/08/nuit-au-sec-carre%CC%81-blanc.jpg)
-- La prise en charge de l'énurésie comprend des mesures hygiéno-diétetiques
-- Adresser à l'urologue en cas d'échec des mesures hygiéno-diétetiques
+- L'énurésie n'a pas d'origine psychologique: déculpabiliser l'enfant, proscrire les punitions et reproches, favoriser les récompenses
+- La prise en charge de l'énurésie comporte une éducation et des mesures hygiéno-diétetiques: horaire et fréquence des apports en eau et des mictions, lutte contre la constipation, réassurance
+- Adresser à l'urologue en cas d'échec des mesures hygiéno-diététiques, de symptômes urinaires diurnes, de symptômes sévères ou neurologiques, d'infections urinaires récidivantes.
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -62,6 +63,9 @@ EnPI
 NICE
 : {{%lang%}}National Institute for Health and Care Excellence{{%/lang%}}
 
+SCP
+: Société Canadienne de Pédiatrie
+
 SFP
 : Société Française de Pédiatrie
 {.dl-inline}
@@ -77,25 +81,23 @@ Intensité de l'énurésie:
 - sévère: ≥ 3 épisodes
 {{%/info%}}
 
-Le diagnostic d'énurésie primaire est clinique après exclusion de pathologies urinaires.
+Le diagnostic d'énurésie primaire est clinique après **exclusion de pathologies urinaires**.
 
 ### Interrogatoire
 
 - Antécédents
   - Antécédents urinaires et traumatiques
   - Comorbidités  
-    Seuil d'éveil anormal, [trouble avec déficit d'attention et hyperactivité (TDAH)]({{% relref "trouble-deficit-attention-tdah.md" %}}), baisse de l'estime de soi (pas de sur-représentation des autres troubles psychiatriques).
+    Seuil d'éveil anormal, [trouble avec déficit d'attention et hyperactivité (TDAH)]({{% relref "trouble-deficit-attention-tdah.md" %}}), convulsions, baisse de l'estime de soi (pas de sur-représentation des autres troubles psychiatriques).
 - Antécédents familiaux d'énurésie (30 à 60 %)
-- Signes différentiels
-  - [Diabète](/tags/diabete/)  
-    Polyuro-polydipsie, perte de poids, fatigue.
-  - [Infection urinaire]({{% relref "infection-urinaire-enfant.md" %}})  
-    Brûlures mictionnelles, pollakiurie, urines malodorantes.
-  - Anomalie des voies urinaires  
-    Symptômes urinaires diurnes: pertes d'urines, urgenturie, > 7 ou < 4 mictions diurnes, douleurs mictionnelles, jet faible, nécessité de pression abdominale pour uriner.
+- **Signes différentiels**
+  - [Diabète]({{% relref "diabete-type-1.md" %}}) (polyuro-polydipsie, perte de poids, fatigue)
+  - [Infection urinaire]({{% relref "infection-urinaire-enfant.md" %}}) (brûlures mictionnelles, pollakiurie, urines malodorantes)
+  - **Symptômes urinaires diurnes**  
+    Pollakiurie ≥ 8/j ou ≤ 3 mictions diurnes, report des mictions, rétention, incontinence urinaire diurne, urgenturie, dysurie (nécessité de pression abdominale pour uriner), interruption du débit, jet faible, vidange incomplète, douleurs mictionnelles.
   - Ronflements et apnées du sommeil observées
   - Utilisation des toilettes de l'école
-  - [Constipation]({{% relref "constipation.md" %}})  
+  - [Constipation]({{% relref "constipation.md" %}}) (82 %)  
     Étiologie et/ou comorbidité: efforts de poussée, selles dures ou [incontinence fécale]({{% relref "incontinence-fecale.md" %}}).
 - Mictions la journée
 - Enquête des apports hydriques par heure (polyurie nocturne par hydratation excessive)
@@ -115,19 +117,23 @@ Le diagnostic d'énurésie primaire est clinique après exclusion de pathologies
 - Retentissement personnel et familial
 - Évaluation de la motivation de l'enfant
 
-**NB.** Aucune exploration du sommeil ne doit être proposée (sauf signes évocateurs).
+L'énurésie simple comprend souvent une seule miction abondante en début de nuit.
+
+**NB.** Aucune exploration systématique du sommeil ne doit être proposée (sauf signes évocateurs).
 
 ### Examen clinique
 
 - Poids, taille, IMC et courbes de croissance
+- Examen des amygdales
+- Examen abdominal (constipation)
 - Examen neurologique simple
-- Inspection de la région lombo-sacrée  
+- Inspection de la région lombo-sacrée et de la marche  
   Recherche spina bifida, agénésie du sacrum.
-- Organes génitaux externes
+- Facultatif: sous-vêtements (incontinence), organes génitaux externes
 - Si symptômes diurnes ou récents: bandelette urinaire
 
-Évoquer une maltraitance si: l'énurésie est rapportée comme volontaire, punitions malgré l'information, énurésie secondaire avec bilans normaux.
-{.alert .alert-warning}
+> [!WARNING]
+> Évoquer une **maltraitance** si: l'énurésie est rapportée comme volontaire, punitions malgré l'information, énurésie secondaire avec bilans normaux.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -155,18 +161,21 @@ Un bilan psychologique est indiqué en cas de retentissement émotionnel marqué
 
 ### Éducation et mesures hygiéno-diétetiques
 
-La prise en charge recommandée pour une énurésie primaire débute avec des mesures hygiéno-diététiques (20 % de guérison):
+La prise en charge recommandée pour une énurésie primaire débute avec l'éducation thérapeutique et des mesures hygiéno-diététiques (20 % de guérison):
 
-- Apports liquidiens suffisants en début de journée  
-  1/3 des besoins quotidiens.
-- Rappel des besoins des enfants  
-  45-60 mL/kg/j à boire entre 7 et **18 heures**. Pas de caféine.
-- Diminution/suppression des apports salés et hyperosmolaires le soir  
-  Boissons sucrées ou gazeuses, laitages ...
-- Mictions régulières complètes  
-  4-7/jour avec au lever ET avant le coucher.
-- Ne pas se retenir, ne pas se forcer
-- [Correction d'une constipation]({{% relref "constipation.md" %}}) ou [infection urinaire]({{% relref "infection-urinaire-enfant.md" %}})
+- Discours rassurant
+- **Mesures hygiéno-diététiques:**
+  - Apports liquidiens suffisants en début de journée  
+    1/3 des besoins quotidiens.
+  - Rappel des besoins des enfants  
+    45-60 mL/kg/j à boire entre 7 et **18 heures**. Pas de caféine.
+  - Diminution/suppression des apports salés et hyperosmolaires le soir  
+    Boissons sucrées ou gazeuses, laitages ...
+  - Mictions régulières complètes  
+    Toutes les 2-3 heures (5-7/jour) avec miction au lever et avant le coucher.
+  - Ne pas se retenir, ne pas se forcer
+- **[Correction d'une constipation]({{% relref "constipation.md" %}}) +++**
+- Rechercher une [infection urinaire]({{% relref "infection-urinaire-enfant.md" %}})
 - Alimentation équilibrée
 - Si propreté diurne: proposer des essais sans couches (avec alèses)
 - Clarifier l'objectif de se lever la nuit et d'utiliser les toilettes, faciliter l'accès aux toilettes
@@ -176,7 +185,7 @@ La prise en charge recommandée pour une énurésie primaire débute avec des me
 - Informer sur la maladie
 - [Calendrier mictionnel](https://afpa.org/content/uploads/2017/08/nuit-au-sec-carre%CC%81-blanc.jpg) en suivant les conseils pendant ≥ 2 semaines
 
-Adresser à l'**urologue** en cas d'échec des mesures hygiéno-diététiques, de symptômes urinaires diurnes, de symptômes sévères ou neurologiques, d'infections urinaires récidivantes.
+Adresser à l'**urologue** en cas d'échec des mesures hygiéno-diététiques, de symptômes urinaires diurnes, de symptômes sévères ou neurologiques, d'[infections urinaires]({{% relref "infection-urinaire-enfant.md" %}}) récidivantes.
 
 > Ne pas: soulever ou réveiller l'enfant (auto-réveil possible si échecs des traitements).
 
@@ -188,21 +197,23 @@ Adresser à l'**urologue** en cas d'échec des mesures hygiéno-diététiques, d
 {caption="Apports liquidiens quotidiens recommandés chez l'enfant et l'adolescent. NICE 2010" class="table-sm table-wrap"}
 
 > [!WARNING]
-> Aucune étude fiable n'a démontré l'efficacité des: hypnose, psychothérapie, acupuncture, homéopathie et chiropraxie.
+> Ne pas utiliser les antidépresseurs tricycliques (*HAS*). De plus, aucune étude fiable n'a démontré l'efficacité des: hypnose, psychothérapie, acupuncture, homéopathie et chiropraxie.
 
-#### Pour en savoir plus: traitements médicamenteux de l'énurésie
+#### Pour en savoir plus: traitements médicaux de l'énurésie
 
 Recommandations pour le traitement médical de l'énurésie:
 
-- Si polyurie nocturne:  
-  **Desmopressine** (Minirin®, Octim®) 0,2 mg cp ou lyophilisat 120 µg (0 à 70 % de succès). 1-2 h avant le coucher.
+- Si polyurie nocturne: **desmopressine** (Minirin®, Octim®) 0,2 mg cp ou lyophilisat 120 µg (max 360 µg), 30-60 minutes avant le coucher pendant 3 mois; demi-dose 14 jours avant l'arrêt  
+  0 à 70 % de succès. Rechutes fréquentes à l'arrêt. Suivi du ionogramme trimestriel.
 - Si petite capacité vésicale:  
-  **Alarme nocturne** systématique pendant au moins 1 mois (succès 60-80 % si ≥ 3 mois). Associer avec suivi comportemental et soutien motivationnel. Poursuivre jusqu'à 2 semaines consécutives de succès. Réévaluer en cas de persistance à 3 mois.
-- Échec et suspicion de faible capacité vésicale: oxybutynine (Driptane®, Ditropan®, gén) en monothérapie
+  **Alarme nocturne** (<< pipi stop >>) systématique pendant au moins 1 mois (habituel 12-16 semaines, succès 60-80 % si ≥ 3 mois). Associer avec suivi comportemental et soutien motivationnel. Poursuivre jusqu'à 14 jours consécutifs de succès. Réévaluer en cas de persistance à 3 mois.
+- Échec et suspicion de faible capacité vésicale, sur prescription spécialisée: oxybutynine (Driptane®, Ditropan®, gén) en monothérapie
+- Autre traitement spécialisé: mirabégron (Betmiga)
 - Échec de la monothérapie:
   - desmopressine et alarme
   - ou desmopressine et oxybutynine
   - ou alarme et oxybutynine
+  - voire neuromodulation
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'énurésie primaire" "show" %}}
@@ -217,7 +228,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Alerter sur la balance bénéfice/risque défavorable des antidépresseurs tricycliques dans l'énurésie de l'enfant et de l'adolescent. SAM. 2026.](https://www.has-sante.fr/jcms/p_3893989/fr/alerter-sur-la-balance-benefice/risque-defavorable-des-antidepresseurs-tricycliques-dans-l-enuresie-de-l-enfant-et-de-l-adolescent)
 - [Hahn D, et al. Desmopressin for nocturnal enuresis in children. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002112.pub2/full/fr)
+- [Harris J, et al. L'évaluation et la prise en charge de l'énurésie en pédiatrie générale. Paediatr Child Health. 2023.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10517247/) (SCP)
 - Prescrire Redaction. Énurésie chez un enfant. Premiers Choix Prescrire. Rev Prescrire. 2021.
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Troubles mictionnels. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/nephrologie-chirurgie-urologique/troubles-mictionnels)
 - [Aubert D, et al; AFU, SFP, SFNP, SIFUDPP. Énurésie nocturne primaire isolée : diagnostic et prise en charge. Recommandations par consensus formalisé d'experts. Progrès en Urologie. 2010. (PDF)](https://afpa.org/content/uploads/2017/09/main.pdf)
@@ -226,7 +239,9 @@ graph TB
 ### Bibliographie en attente
 
 - [Hild O, et al. Prise en charge de l'énurésie de l'enfant et de l'adolescent -- Nocturnal enuresis management in infant and adolescent. Progrès en Urologie - FMC. 2025.](https://www.sciencedirect.com/science/article/abs/pii/S1761676X25003724)
-- [Harris J, et al. L'évaluation et la prise en charge de l'énurésie en pédiatrie générale. Paediatr Child Health. 2023.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10517247/)
 - [Desvignes V. La consultation de l'enfant énurétique. Cahier FMC. Le Pédiatre. 2015. (PDF)](https://afpa.org/content/uploads/2023/08/FMC_266.pdf)
+- International Children's Continence Society
+
+Mot-clé: pipi au lit
 
 {{%/sources%}}

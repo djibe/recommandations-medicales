@@ -32,7 +32,7 @@ Ce chapitre intègre les dernières recommandations SFD, HAS, ADA, ESC et ADA/EA
   - Prédiabète (annuel), acanthosis nigricans
 - Pour chaque personne vivant avec un diabète: changement du mode de vie, définir le {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}}, sevrage tabagique obligatoire et prise en charge des points vitaux obligatoires (voir plus bas)
 - {{< modal-btn modal-hba1c >}}Cible personnalisée d'hémoglobine glyquée{{< /modal-btn >}} (globalement 7%) et {{< modal-btn modal-hba1c-faussee >}}situations où l'HbA1c n'est pas fiable{{< /modal-btn >}}
-- Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}AR GLP-1{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}} rarement
+- Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}AR GLP-1{{< /modal-btn >}} (AR GLP1-GIP NR), {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}} rarement
 - [Dépistage des complications du diabète](#dépistage-des-complications-du-diabète) et des comorbidités
 - Éducation thérapeutique du patient diabétique
 
@@ -122,10 +122,10 @@ SFD
 - Définir le {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} (avec le {{< scores/score2-diabetes >}} en prévention primaire chez le 40-69 ans) ...
 - Afin de déterminer le LDL cible (souvent < 0,7 g/L) par {{< modal-btn modal-statine-intensite >}}statine de haute intensité{{< /modal-btn >}}
 - Activité physique adaptée
-  - Lutte contre la sédentarité: bouger 1-5 minutes par heure
+  - Lutte contre la sédentarité: bouger 1-5 minutes chaque heure
   - **Prescrire** une activité physique adaptée d'endurance et de renforcement musculaire pendant 3 mois, renouvelable, à raison de 2 à 3 séances par semaine ([ONAPS](https://onaps.fr/boite-a-outils/sensibiliser/))
   - **Au moins 150 minutes** (2h30) d'activité physique modérée par semaine (75 si intense). Renforcement musculaire 3 j/sem.  
-    Commencer par 10 min de marche/j ou autre objectif *SMART*. [Guide patient HAS APA](https://www.has-sante.fr/jcms/p_3391317/fr/l-activite-physique-pour-votre-sante-diabete-de-type-2)
+    Commencer par 10 min de marche/j, danse de salon, jardinage ou autre objectif *SMART*. [Guide patient HAS APA](https://www.has-sante.fr/jcms/p_3391317/fr/l-activite-physique-pour-votre-sante-diabete-de-type-2)
   - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette 3 j/sem
   - Avec l'âge, favoriser la souplesse 2 à 3 jours par semaine (yoga, Thai-chi)
 - Surpoids  
@@ -252,7 +252,7 @@ Deuxième ligne
 
 <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button> + <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-glp1">AR GLP-1</button>
 
-Suivi spécialisé TODO:
+Suivi spécialisé endocrinologique.
 {.mt-3}
 
 Un **capteur de glycémie** est préconisé en cas de SU, glinide ou insuline et de MRC avancée (mais remboursé uniquement avec l'insuline).
@@ -448,6 +448,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 | Dentaire     | Suivi annuel                                                                                     | HAS 2025                 |
 | [Douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}}) | Chapitre dédié                           | SFETD 2021               |
 | Dysautonomie | Dépistage annuel: hypotension orthostatique, tachycardie de repos, xérose cutanée, digestion. Aggravation par tricycliques | HAS 2025 |
+| Dyslipidémie | Voir Risque cardiovasculaire (plus bas)                                                          |                          |
 | [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}) | Interrogatoire systématique. Si présente: dépistage annuel hypotension orthostatique, dysfonction vésicale | AIUS 2018 |
 | ECG          | Annuel (VPN très faible)                                                                         | HAS 2025                 |
 | [Épreuve d'effort]({{% relref "epreuve-effort.md" %}}) | [Angor]({{% relref "syndrome-coronarien-chronique.md" %}}), dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire{{< /modal-btn >}} (/3-5 ans). Reprise effort intense | HAS 2024, ESC 2023, ADA 2023, SFD 2021 CAD |
@@ -456,6 +457,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 | Gynécologie  | Suivi annuel                                                                                     | HAS 2025                 |
 | [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) | Dépistage avec brassard adapté tous les 1 à 3 ans | ESH 2024      |
 | [Incontinence urinaire]({{% relref "incontinence-urinaire-femme.md" %}}) | Dépistage à l'interrogatoire         | ANAES 2003               |
+| Infections sévères | Vaccins [covid-19]({{% relref "covid-19.md" %}}) et [grippe]({{% relref "grippe.md" %}}) annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
 | [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) | Dépistage systématique des symptômes et signes et (NT-pro)BNP si suspicion<br>(NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ESC 2023 diabetes<br>ADA 2022 |
 | [Stéatopathie métabolique]({{% relref "steatose-hepatique-et-nash.md" %}}) | Dépistage par échographie abdominale | AFEF 2020              |
 | [Stéatohépatite]({{% relref "steatose-hepatique-et-nash.md" %}}) (NASH) | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}} annuel | HAS 2025 |
@@ -463,12 +465,11 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 | Neuropathie  | Dépistage annuel: ROT, diapason, podologue: {{< modal-btn modal-monofilament >}}monofilament{{< /modal-btn >}} et {{< modal-btn modal-grade-podologique >}}grade podologique{{< /modal-btn >}}, pic-touche, diapason, [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}), sécheresse cutanée | HAS 2025, ADA 2023 et ESC 2019 diabetes |
 | Permis de conduire | Voir [permis de conduire]({{% relref "pathologies-permis-conduire.md" %}})                 | HAS 2025                 |
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux. Grossesse: avant, trimestrielle puis post-partum. Post-cataracte: intensifiée durant 12 mois | HAS 2025 |
-| Risque cardiovasculaire | En l'absence de {{< modal-btn modal-rcv >}}risque marqué{{< /modal-btn >}}, {{< scores/score2-diabetes >}} annuel en prévention primaire chez le 40-69 ans | HAS 2025 |
+| Risque cardiovasculaire | En l'absence de {{< modal-btn modal-rcv >}}risque marqué{{< /modal-btn >}}, {{< scores/score2-diabetes >}} annuel en prévention primaire chez le 40-69 ans | HAS, ESC 2025 |
 | Score calcique | Pas d'argument pour l'utiliser pour la classification du RCV<br>{{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} ± test d'effort | ESC 2023 diabetes<br>SFD 2021 CAD |
 | [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) | Envisager le dépistage chez la femme          | ESHRE 2023               |
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |
 | [Syndrome de Cushing]({{% relref "syndrome-cushing.md" %}}) | Étayer si: syndrome plurimétabolique, diabète déséquilibré sans cause évidente, symptômes | PNDS Cushing 2022 |
-| [Vaccins]({{% relref "vaccination.md" %}}) | [Covid-19]({{% relref "covid-19.md" %}}) et [grippe]({{% relref "grippe.md" %}}) annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
 | [Vitamine B12]({{% relref "carence-vitamine-b12.md" %}}) | Si metformine depuis +4 ans: dosage et surveillance régulière | KDIGO 2022 diabetes<br>ADA/EASD 2022 |
 {caption="Rythme de dépistage des complications et comorbidités du diabète. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap"}
 

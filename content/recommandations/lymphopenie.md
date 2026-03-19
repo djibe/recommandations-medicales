@@ -19,6 +19,7 @@ image = false
 imageSrc = ""
 rank = "ok"
 flowchart = true
+modele = true
 +++
 
 {{%article-summary%}}
@@ -131,7 +132,7 @@ Bilan de première intention pour la prise en charge d'une lymphopénie:
 - Calcémie, calciurie
 - Zinc
 - LDH, ECA
-- Absence d'orientation étiologique
+- Absence d'orientation étiologique:
   - Anticorps anti-nucléaires, anticorps anti-ADN natif
   - Sérologies VIH 1 et 2, HTLV 1 et 2
   - Phénotypage lymphocytaire T, B et NK
@@ -166,6 +167,22 @@ graph TB
 - [Swaanenburg JC, et al. The determination of reference values for hematologic parameters using results obtained from patient populations. Am J Clin Pathol. 1987. (payant)](https://academic.oup.com/ajcp/article-abstract/88/2/182/1799788?redirectedFrom=fulltext)
 
 {{%/sources%}}
+{{% modele %}}
+
+Bilan au laboratoire:
+
+- NFS, CRP
+- Créatininémie et DFG CKD-EPI
+- Électrophorèse des protéines sériques
+- Calcémie, calciurie
+- Zinc
+- LDH, ECA
+- Absence d'orientation étiologique:
+  - Anticorps anti-nucléaires, anticorps anti-ADN natif
+  - Sérologies VIH 1 et 2, HTLV 1 et 2
+  - Phénotypage lymphocytaire T, B et NK
+
+{{% /modele %}}
 {{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
 
 {{< scores/ckd-epi >}}

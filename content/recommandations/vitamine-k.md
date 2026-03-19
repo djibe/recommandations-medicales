@@ -24,13 +24,22 @@ todo = "réécrire SEO"
 
 {{%article-summary%}}
 
-Supplémentation systématique du nouveau-né en Vitamine K (K1) 2 mg/0,2 mL, 1 ampoule par voie orale à 4 heures, 4 jours et 4 semaines
+- La vitamine K est liposoluble et nécessaire pour la coagulation sanguine et la minéralisation osseuse
+- La supplémentation est systématique et répétée chez le nouveau-né avec de la vitamine K1 2 mg/0,2 mL, 1 ampoule par voie orale à 4 heures, 4 jours et 4 semaines
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Vitamine K1
+Vitamine K1 (phytoménadione, phylloquinone ou phytonadione)
 : La vitamine K1 prévient la **maladie hémorragique du nouveau-né (MHN)**, qui est maximale après la première semaine de vie et entraîne des hémorragies digestives ou des hématomes aux points de ponction.
+
+### Facteurs de risque de maladie hémorragique du nouveau-né:
+
+- Prématurité
+- Asphyxie périnatale
+- Cholestase
+- Jeûne
+- Médicament chez la mère perturbant la vitamine K
 
 ### Abréviations
 
@@ -41,20 +50,9 @@ VK
 : vitamine K
 
 {{% /collapse %}}
-{{%collapse "Facteurs de risque de la maladie hémorragique du nouveau-né" %}}
-
-Facteurs de risque de maladie hémorragique du nouveau-né:
-
-- Prématurité
-- Asphyxie périnatale
-- Cholestase
-- Jeûne
-- Médicament chez la mère perturbant la vitamine K
-
-{{% /collapse %}}
 {{%collapse "Prévention de la MHN par la vitamine K" %}}
 
-Administration de vitamine K1 à 4 heures - 4 jours - 4 semaines
+Administration de vitamine K1 à 4 heures - 4 jours - 4 semaines.
 {.alert .alert-info}
 
 **Prescrire**: 1 ampoule de [vitamine K1 2 mg/0,2 mL nourrissons](https://base-donnees-publique.medicaments.gouv.fr/medicament/64337140/extrait#tab-rcp) buvable à 4 heures, 4 jours et 4 semaines.

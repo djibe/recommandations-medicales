@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-20T22:32:54+02:00"
 publishdate = "2022-06-21"
-lastmod = "2026-02-16"
+lastmod = "2026-03-19"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2021"
 sources = ["SPILF", "SFCD", "WSES"]
@@ -25,6 +25,7 @@ flowchart = true
 {{%article-summary%}}
 
 - L'appendicite aiguë est une inflammation de l'appendice du cæcum (côlon droit) pouvant survenir à tout âge
+- Les symptômes évocateurs d'appendicite sont un fébricule avec nausées, des douleurs abdominales en fosse iliaque droite (FID), maximales au point de Mc Burney, mais des présentations très atypiques sont possibles
 - Le diagnostic d'appendicite aiguë est délicat (fréquents diagnostics différentiels) et nécessite un bilan en urgence: bandelette urinaire, bilan biologique et échographie abdominale
 - L'appendicite aiguë est une urgence chirurgicale (pouvant être différée jusqu'à 24 heures du diagnostic)
 
@@ -95,13 +96,13 @@ Signes et symptômes devant faire évoquer une appendicite aiguë:
   Créatininémie récente.
 - Traitements en cours
 - Toxiques
-- Signes généraux: **fébricule** (60%), frissons
+- Signes généraux: **fébricule** (60 %), frissons
 - Symptômes de l'appendicite aiguë:
   - **Douleur abdominale** de début épigastrique ou péri-ombilicale **migrant en fosse iliaque droite** en quelques heures
   - Type torsion ou crampe et devient permanente sans irradiation
   - Soulagée immobile jambes pliées. Augmentée à la toux et mouvements de cuisse.
   - **Psoïtis**
-  - Troubles digestifs: nausées (50%), [constipation]({{% relref "constipation.md" %}}) (30%) voire diarrhées, anorexie
+  - Troubles digestifs: nausées (50 %), [constipation]({{% relref "constipation.md" %}}) (30%) voire diarrhées, anorexie
 - Enfant: plus fréquentes à partir de 10 ans et chez le garçon
 - Signes négatifs
   Signes fonctionnels urinaires, gynécologiques.
@@ -142,14 +143,15 @@ Appendicite méso-cœliaque
 : Tableau d'occlusion fébrile.
 
 Appendicite en position sous-hépatique
-: Tableau de cholécystite aiguë.
+: Tableau de [cholécystite aiguë]({{% relref "cholecystite-aigue.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Aucun score basé sur le syndrome inflammatoire ne s'est révélé suffisant pour affirmer le diagnostic.
+> [!INFO]
+> Aucun score basé sur le syndrome inflammatoire ne s'est révélé suffisant pour affirmer le diagnostic d'appendicite aiguë.
 
-Bilan d'une suspicion d'appendicite aiguë:
+### Bilan d'une suspicion d'appendicite aiguë
 
 - Bandelette urinaire
 - NFS (80 % d'hyperleucocytose)

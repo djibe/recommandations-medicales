@@ -312,7 +312,7 @@ Infiltrations ciblées des articulations douloureuses.
   - Consommation d'antalgiques et AINS
   - Toux chronique, dyspnée, auscultation pulmonaire, hippocratisme digital
 - Biologique  
-  CRP, BU.
+  CRP, bandelette urinaire (BU).
 - Radiographies  
   Mains et pieds à 6 mois et 1 an, puis ≥ 1/an pendant 3 à 5 ans.
 - Facteurs de risque et calcul du risque cardiovasculaire ([SCORE2]({{% relref "score2.md" %}}) x 1,5)

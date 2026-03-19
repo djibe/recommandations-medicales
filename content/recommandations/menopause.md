@@ -188,16 +188,16 @@ Diagnostics à évoquer devant des sueurs et des cycles irréguliers:
 - Suivi des dépistages organisés des cancers
 - Palpation des seins
 - Examen gynécologique complet
-- Syndrome climatérique
-  - Bouffées vasomotrices (BVM, 80%)  
+- **Syndrome climatérique:**
+  - Bouffées vasomotrices (BVM, 80 %)  
     Elles durent 5 à 7 ans (voire +15 ans).
   - [Sueurs nocturnes]({{% relref "sueurs-nocturnes.md" %}})
   - Troubles du sommeil
   - Troubles de l'humeur
   - Douleurs ostéoarticulaires
-  - Syndrome génito-urinaire de la ménopause (SGUM, 27-70%)  
+  - Syndrome génito-urinaire de la ménopause (SGUM, 27-70 %)  
     Ex. *atrophie vulvovaginale*.  
-    Diagnostic clinique si ≥ 1 symptôme: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (signes fonctionnels, [cystites récidivantes]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}})).
+    Diagnostic clinique si ≥ 1 symptôme: symptômes vulvuvaginaux (sécheresse vaginale, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (signes fonctionnels, [cystites récidivantes]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}})).
 - Information claire des bénéfices-risques à notifier dans le dossier médical
 
 > En début de ménopause, le score clinique *FRAX* a des performances prédictives de fracture médiocres alors que la mesure de la DMO par DXA est prédictive à 10 ans (Se 60%, Spe 70%)
@@ -297,7 +297,8 @@ Le reste du bilan est réalisé par l'endocrinologue.
   - Augmentation de la fréquence des rapports sexuels
   - Hydratants ou lubrifiants locaux (en pharmacie: "hydratant vaginal", "gel calmant/intime/vaginal", "sécheresse intime")
   - Acide hyaluronique local
-  - Sténose: dilatateurs de taille croissante
+  - Œstrogènes locaux ([Blissel](https://base-donnees-publique.medicaments.gouv.fr/medicament/61797183/extrait#tab-rcp) NR)
+  - Sténose vaginale: dilatateurs de taille croissante
 - Si antécédent de cancer du sein: contre-indication aux phytoœstrogènes
 
 > [!INFO]

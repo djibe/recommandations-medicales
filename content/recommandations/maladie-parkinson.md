@@ -494,6 +494,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Battel I, et al. Rehabilitation interventions for oropharyngeal dysphagia in people with Parkinson's disease. Cochrane Database of Systematic Reviews. 2026.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015816.pub2/full/fr)
 - [Santé Publique France. Maladie de Parkinson : quelle évolution entre 2016 et 2020 ?. 11/04/2023.](https://www.santepubliquefrance.fr/les-actualites/2023/maladie-de-parkinson-quelle-evolution-entre-2016-et-2020)
 - [Ernst M, et al. Physical exercise for people with Parkinson's disease: a systematic review and network meta‐analysis. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013856.pub2/full/fr)
 - Prescrire Redaction. Patients parkinsoniens. Rev Prescrire. 2023.

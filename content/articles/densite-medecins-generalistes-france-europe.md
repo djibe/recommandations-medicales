@@ -29,7 +29,7 @@ Les autres grands pays d'Europe ont nettement moins de médecins généralistes,
 
 Enfin, le **Danemark** se démarque nettement des autres pays, est le plus faiblement doté (69 généralistes/100k hab) et compte ainsi 2 fois moins de généralistes qu'en France (4,5 fois moins qu'au Portugal).
 
-> **NB.** Eurostat comptabilise 95.095 généralistes pour la France en 2023, divergeant nettement des [données du CNOM]({{% relref "nombre-medecins-activite-france.md" %}}) qui en dénombrait 82.058 en activité régulière en 2023 (soit presque 14 % d'écart). En prenant la densité selon le CNOM avec 64,8 millions d'habitants (2023), la densité réelle de généralistes s'établissait à **120 généralistes/100k habitants**.
+> **NB.** Eurostat comptabilise 95.095 généralistes pour la France en 2023, [nettement plus que le CNOM]({{% relref "nombre-medecins-activite-france.md" %}}) (Conseil National de l'Ordre des Médecins), qui en dénombrait 82.058 en activité régulière en 2023 (soit presque 14 % d'écart). En prenant la densité selon le CNOM avec 64,8 millions d'habitants (2023), la densité réelle de généralistes s'établissait à **120 généralistes/100k habitants**.
 
 {{< figure-chart title="Densité de médecins généralistes dans divers pays européens, dont la France, pour 100.000 habitants. Dr JB Fron d'après *Eurostat 2025* (données 2023) et *CNOM*" >}}
 

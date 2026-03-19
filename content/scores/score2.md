@@ -17,7 +17,7 @@ todo = "autres facteurs, Diabetes, limits, maladies cardiovasculaires, peut êtr
 Le SCORE2 (Systematic Coronary Risk Estimation version 2) est le score de référence de la Société européenne de cardiologie (*ESC 2025*) pour l'estimation à 10 ans du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} fatal ou non fatal ==en prévention primaire==.
 {.lead .line-height .mb-5}
 
-Le **SCORE2** peut être calculé de 40 à 69 ans (appelé **SCORE2-OP** de 70 à 89 ans), en l'absence de toute maladie cardiovasculaire, d'hypertension secondaire et de traitement hypolipémiant (statine ou autre). Il est ici calibré pour l'utilisation en **France** et dans les pays européens à plus faible risque cardiovasculaire.
+Le **SCORE2** peut être calculé de 40 à 69 ans (appelé **SCORE2-OP** de 70 à 89 ans), en l'absence de toute maladie cardiovasculaire, d'hypertension secondaire, de **LDL > 1,9 g/L** (haut risque) et de traitement hypolipémiant (statine ou autre). Il est ici calibré pour l'utilisation en **France** et dans les pays européens à plus faible risque cardiovasculaire.
 
 **En cas de diabète** ne relevant pas d'emblée d'un {{< modal-btn modal-rcv >}}risque marqué{{< /modal-btn >}}, utiliser le {{< scores/score2-diabetes >}}.
 
