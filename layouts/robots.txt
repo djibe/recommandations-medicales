@@ -97,6 +97,7 @@ User-agent: KlaviyoAIBot
 User-agent: KunatoCrawler
 User-agent: laion-huggingface-processor
 User-agent: LAIONDownloader
+User-agent: LamarkBot
 User-agent: LCC
 User-agent: LinerBot
 User-agent: Linguee Bot
