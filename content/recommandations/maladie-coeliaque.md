@@ -10,7 +10,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. CELLIER (SNFGE)"
 date = "2020-04-16T12:31:11+02:00"
 publishdate = "2020-04-16"
-lastmod = "2025-10-03"
+lastmod = "2026-03-20"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2025"
 sources = ["ESsCD", "ESPGHAN", "HAS"]
@@ -21,8 +21,9 @@ icd10 = ["K90.0"]
 image = true
 imageWEBP = true
 imageSrc = "Illustration de la maladie cœliaque. scientificanimations.com, CC BY-SA 4.0"
+rank = "ok"
 flowchart = true
-todo = "ostéodensitométrie avant 35 ans ???"
+todo = "relecture"
 +++
 
 {{%article-summary%}}
@@ -46,7 +47,7 @@ Gluten
 
 ### Complications de la maladie cœliaque
 
-- **Carences** en micronutriments, [fer]({{% relref "anemie.md" %}}), vitamine B9 et B12
+- **Carences** en micronutriments (zinc, cuivre), [fer]({{% relref "anemie.md" %}}), vitamine B9 et B12, vitamines liposolibles (ADEK)
 - Lymphome digestif
 - Sur-risque de maladies auto-immunes
 - Altération de la qualité de vie
@@ -184,28 +185,27 @@ Considérer un dépistage de la maladie cœliaque chez un enfant (*ESPGHAN 2020*
 
 ### Symptômes de la maladie cœliaque
 
-Les tableaux clinique de la maladie cœliaque sont très variables.
+Les tableaux clinique de la maladie cœliaque sont très variables. L'évaluation morphologique est systématique (poids et variations, taille, IMC, force de préhension).
 
 #### Symptôme de malabsorption
 
 - **[Diarrhée chronique]({{% relref "diarrhee-chronique.md" %}})**
 - Stéatorrhée
 - Amaigrissement
-- Retard de croissance staturo-pondéral
 - Douleurs abdominales et ballonnements
 
-#### Autres symptômes
+#### Autres symptômes de la maladie cœliaque
 
-- [Anémie]({{% relref "anemie.md" %}})
+- [Anémie]({{% relref "anemie.md" %}}) (7-80 % au diagnostic)
 - [Reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}}) (RGO)
 - Œsophagite à éosinophiles
-- Neurologiques
+- Symptômes neurologiques:
   - Ataxie (le plus souvent sans troubles digestifs)
   - [Neuropathie](/tags/neuropathie/)  
     L'éviction est décevante sur la récupération.
   - Impression de brouillard
   - Troubles de concentration, mnésiques
-- Psychiatriques
+- Symptômes psychiatriques:
   - [Dépression]({{% relref "depression.md" %}}), [trouble bipolaire]({{% relref "trouble-bipolaire.md" %}}), schizophrénie
   - Troubles du comportement alimentaire
   - [TDAH]({{% relref "trouble-deficit-attention-tdah.md" %}}), autisme, troubles du sommeil
@@ -214,13 +214,16 @@ Les tableaux clinique de la maladie cœliaque sont très variables.
 - Transaminases élevées (cytolyse)
 - Complications gravidiques
 - Lymphome du grêle
+- Carences en vitamines liposolubles (vitamines A, D, E, K) et nutriments (zinc, cuivre)
 
 #### Symptômes de la maladie cœliaque chez l'enfant
 
 > [!INFO]
 > << 90 % des sujets atteints de maladie coeliaque ne présentent pas de symptôme >>. -- *PAP Pédiatrie*
 
-- Symptômes systématiques: ==**retard de croissance**==, **diarrhée chronique**, fonte musculaire, **anorexie**, distension abdominale
+Le suivi rigoureux des **courbes de poids**, taille, périmètre crânien et IMS est essentiel.
+
+- Symptômes systématiques: ==**retard de croissance**== staturo-pondéral, **diarrhée chronique**, fonte musculaire, **anorexie**, distension abdominale
 - Souvent: détresse émotionnelle, humeur labile, [fatigue](/tags/fatigue/), [constipation]({{% relref "constipation.md" %}}), douleurs abdominales, vomissements
 - Possibles: régression psychomotrice, retard pubertaire, convulsions, anomalies de l'émail dentaire
 
@@ -246,6 +249,8 @@ Biologie pendant un régime contenant du gluten (≥ 3 g/j pendant 6 semaines):
 
 En cas de résultat positif: adresser au **gastro-entérologue** (ou gastro-pédiatre chez l'enfant) pour confirmation du diagnostic par endoscopie digestive haute (EOGD - voire diagnostic clinique << sans biopsie >> lorsque les 2 anticorps sont élevés).
 
+Avec le régime sans gluten, la sérologie se négative souvent dans l'année.
+
 #### Cas particuliers
 
 - Adulte avec sérologie positive IgA anti-TG2 ≥ 10N: confirmer sur un autre prélèvement
@@ -265,10 +270,14 @@ En cas de résultat positif: adresser au **gastro-entérologue** (ou gastro-péd
 - Chez l'adulte:
   - anticorps anti-TG2 < 10N
   - déficit en IgA (quelles que soient les IgG)
+  - suivi de maladie cœliaque séronégative
+  - diagnostic tardif (+45 ans): suivi à 1-2 an
 - Chez l'enfant:
   - anticorps anti-TG2 ≥ 10N avec anti-endomysium négatifs
   - anticorps anti-TG2+ < 10N
   - déficit en IgA avec anticorps IgG positif
+- Signe d'alarme
+- Échec du traitement
 
 Au diagnostic, 30 % ont aspect endoscopique normal. Les biopsies duodénales (≥ 4) et du grêle (1-2) sont systématiques.
 
@@ -278,16 +287,27 @@ Au diagnostic, 30 % ont aspect endoscopique normal. Les biopsies duodénales (�
 
 Le typage HLA‐DQ2/DQ8 relève du gastro-entérologue en cas d'explorations sérologiques et anatomopathologiques insuffisantes.
 
+Pour les **enfants de la personne atteinte**, le typage HLA‐DQ2/8 est le dépistage de première ligne puisque l'absence d'HLA-DQ2 et d'HLA-DQ8 infirme le diagnostic.
+
 ### Autres examens
 
 - NFS, ferritinémie
 - Folates et [vitamine B12]({{% relref "carence-vitamine-b12.md" %}})
 - TSH
-- ASAT, ALAT, GGT
-- Calcémie, phosphore
+- ASAT, ALAT, GGT, PAL
+- Ionogramme
+- Albumine
+- Glycémie à jeun
+- Calcémie, phosphate
 - Vitamine D
+- Zinc, cuivre
 - Sérologie VHB
-- Adulte: **ostéodensitométrie** au diagnostic puis tous les 2-5 ans selon la densité osseuse (*ESsCD 2019*)
+
+### Ostéodensitométrie (DXA)
+
+Chez l'adulte avec facteur de risque (retard diagnostique, malabsorption sévère, amaigrissement, fracture de fragilité, autre facteur de risque d'ostéoporose, trisomie 21), prescrire une ostéodensitométrie après 1 an de régime sans gluten.
+
+Elle peut être envisagée vers 35-40 ans dans les autres cas.
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
@@ -308,21 +328,22 @@ Recommandations pour la prise en charge de la maladie cœliaque:
   - Blé, épeautre, froment, orge, seigle (avoine parfois)
   - Indications: adulte avec biopsie positive, enfant avec sérologie positive
   - Amélioration des symptômes à partir de 2 semaines d'éviction
-  - Les symptômes disparaissent le plus souvent après 6 à 12 mois de traitement
-  - [Remboursement partiel par la Sécurité Sociale](https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/remboursement-aliments-sans-gluten-ameli)
+  - Les symptômes disparaissent le plus souvent après 4 à 12 mois de traitement
+  - Remboursement partiel par la Sécurité Sociale (voir *Information*)
 - Encourager un régime alimentaire riche en fibres
   - Riz entier, maïs, pommes de terres, légumes
   - Avoine toléré par la plupart des personnes (surveiller la survenue de complications)
-- Bilan par diététicien pour identifier des carences
+- Suivi par **diététicien** pour identifier des carences
+- Vaccin pneumocoque si: asplénie fonctionnelle, autre maladie auto-immune, maladie cœliaque résistante ou +65 ans.
 - **Recontrôler la sérologie initiale à 6 et 12 mois pour encourager le patient dans son régime**
 - **Dépister l'entourage** au premier degré et suivi sérologique
 - Association de patients  
   [Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
 
-En cas d'amélioration partielle chez l'enfant, essayer une [éviction du lactose]({{% relref "intolerance-lactose.md" %}}) (*ESPGHAN 2022*).
+En cas d'amélioration seulement partielle: essayer une [éviction du lactose]({{% relref "intolerance-lactose.md" %}}) (adulte/enfant -- *ESsCD 2025*, *ESPGHAN 2022*) et chez l'adulte, également un [régime pauvre en FODMAPs]({{% relref "regime-fodmaps.md" %}}). Bilan spécialisé systématique si les symptômes persistent à 1 an.
 
 > [!WARNING]
-> Dépister la maladie cœliaque chez tous les proches au 1^er^ degré.
+> Dépister la maladie cœliaque chez tous les proches au 1^er^ degré (prévalence 5-10 %): enfants par typage HLA‐DQ2/8, adultes par sérologies cœliaques (en cas de négativité, la répétition tous les 4-5 ans peut être considérée -- *ESsCD 2025*).
 
 {{% /collapse%}}
 {{%collapse "Suivi" %}}
@@ -331,7 +352,7 @@ Suivi de la maladie cœliaque par les **gastro-entérologue** et **diététicien
 
 | Période          | Bilan associé |
 | ---------------- | ------------- |
-| **Au diagnostic**<br>Médecin et diététicien | - Examen physique, y compris l'IMC<br>- Éducation sur la MC<br>- Conseils diététiques par un diététicien qualifié<br>- Recommander un dépistage familial (DQ2/D8 et sérologie cœliaque)<br>- Recommander l'adhésion à une association de patients<br>- Sérologie cœliaque (si elle n'a pas déjà été réalisée) et VHB<br>- Analyses de routine (NFS, ferritine, vitamines D, B9, B12, [TSH](/tags/tsh/),<br>enzymes hépatiques, calcium, phosphore)<br>- Ostéodensitométrie au moment du diagnostic avant 35 ans |
+| **Au diagnostic**<br>Médecin et diététicien | - Examen physique, y compris l'IMC<br>- Éducation sur la MC<br>- Conseils diététiques par un diététicien qualifié<br>- Recommander un dépistage familial<br>- Recommander l'adhésion à une association de patients<br>- Sérologie cœliaque (si elle n'a pas déjà été réalisée) et VHB<br>- Analyses de routine (voir *Examens*)<br>± DXA |
 | **3-4 mois**<br>Médecin et diététicien | - Évaluer les symptômes et les modifications du mode de vie<br>Évaluation diététique<br>Sérologie cœliaque (transglutaminase IgA-TG2)|
 | **6 mois**<br>Médecin (à distance) | - Évaluer les symptômes<br>- Évaluation diététique<br>- Sérologie cœliaque<br>- Recontrôler les autres anomalies du bilan initial |
 | **12 mois**<br>Médecin et diététicien | - Évaluer les symptômes<br>- Examen physique<br>- Enfant: croissance<br>- Évaluation diététique<br>- Sérologie cœliaque<br>- Recontrôler le bilan initial<br> ± biopsies du grêle si persistance des symptômes |
@@ -343,14 +364,14 @@ Suivi de la maladie cœliaque par les **gastro-entérologue** et **diététicien
 **Ostéodensitométrie** au diagnostic puis tous les 2-5 ans selon la densité osseuse (*ESsCD 2019*).
 
 > [!WARNING]
-> Avis endocrinologique chez l'enfant en l'absence de rattrapage de la taille sous 12 mois. (*ESPGHAN 2022*)
+> Avis endocrinologique chez l'enfant en l'absence de rattrapage de la taille sous 12 mois (*ESPGHAN 2022*).
 
 {{% /collapse%}}
 {{%collapse "Information du patient" %}}
 
 Informations pour la personne atteinte de maladie cœliaque:
 
-- Éviction définitive et maximale du gluten
+- Éviction définitive et maximale du gluten (maximum 10 mg/j)
 - Aliments à éviter
 - Gestes culinaires et de conservation des aliments
 - Mesures pour régime sans gluten équilibré à vie
@@ -359,9 +380,7 @@ Informations pour la personne atteinte de maladie cœliaque:
 
 ### Aliments à éviter en cas d'allergie au gluten
 
-[SNFGE, CREGG. Alimentation sans gluten. (PDF)](https://www.snfge.org/sites/default/files/recommandations/alimentation_sans_gluten-snfge-cregg_2017.pdf)
-
-Le gluten est présent dans toutes les variétés de blé, froment, épeautre, orge et seigle sous toutes leurs formes et donc dans les:
+Le gluten est présent dans toutes les variétés de blé, froment, épeautre, orge et seigle sous toutes leurs formes et donc dans les (sauf << sans gluten >>):
 
 - Pâtes
 - Pains
@@ -375,20 +394,37 @@ Le gluten est présent dans toutes les variétés de blé, froment, épeautre, o
 - Sauce soja
 - Bière
 
-### Aliments sans risque
+> -- [SNFGE, CREGG. Alimentation sans gluten. (PDF)](https://www.snfge.org/sites/default/files/recommandations/alimentation_sans_gluten-snfge-cregg_2017.pdf) et *ESPGHAN 2022*.
 
-- **Riz, maïs et pommes de terre**, avoine
+### Aliments sans gluten
+
+- **Riz, sorgho, maïs**, avoine, millet
+- Chia, quinoa, amarante, pois chiches
+- Pommes de terre, manioc
+- Produits frais non transformés:
+  - Fruits, légumes
+  - Viandes et volailles
+  - Poissons
+  - Œufs
 - Lait, crème fraîche, yaourts et fromages blancs nature
 - Fromages et beurre
-- Viandes et volailles
-- Poissons
-- œufs
-- Huiles
-- Fruits
+- Huiles, vinaigre
+- Sel, poivre
+- Étiquetage << sans gluten >>
+
+Les contenants de stockage des produits doit être distinct.
+
+### Boissons sans gluten
+
+- Eau, jus de fruits frais et de légumes
+- Thé et café
+- Vin
 
 ### Logo présent sur les produits sans gluten
 
 ![Logo des produits sans gluten](/images/photos/sans-gluten.webp "350px")
+
+Les produits sans gluten comprennent moins de 20 mg/kg de gluten ([Règlement EU No.828/2014](https://eur-lex.europa.eu/eli/reg_impl/2014/828/oj)).
 
 Un remboursement par l'[Assurance Maladie](https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/remboursement-aliments-sans-gluten-ameli) est possible jusqu'à 45,73 euros par mois de produits sans gluten.
 
@@ -397,7 +433,7 @@ Un remboursement par l'[Assurance Maladie](https://www.ameli.fr/assure/rembourse
 
 {{< mermaid title="Prise en charge de la suspicion de maladie cœliaque chez l'adulte. Dr JB Fron d'après *ESsCD 2025*" >}}
 graph TB
-  symptomatique["<b>Adulte avec symptômes suspects<br>de maladie cœliaque</b><br>—<br>- <br>- Digestif: diarrhée, constipation,<br>perte de poids, dyspepsie ...<br>- Anémie, carence martiale<br>- Pathologies digestives<br>- Neuropathie<br>- Aphtes<br>- Aménorrhée,<br>irritabilité,<br>fatigue chronique,<br>anomalies de l'émail<br>- Auto-immunité<br>- ATCD familial de MC<br>- ..."] --> sérologie("<b>Sérologie cœliaque</b><br>—<br>- IgA anti-transglutaminase<br>= <b>anti-TG2</b><br>- IgA totales<br>- Consommation de gluten")
+  symptomatique["<b>Adulte avec symptômes suspects<br>de maladie cœliaque</b><br>—<br>- <br>- Digestif: diarrhée, constipation,<br>perte de poids, dyspepsie ...<br>- Anémie, carence martiale<br>- Pathologies digestives<br>- Neuropathie<br>- Aphtes<br>- Aménorrhée,<br>irritabilité,<br>fatigue chronique,<br>anomalies de l'émail<br>- Auto-immunité<br>- ATCD 1er degré<br>atteint de MC<br>- ..."] --> sérologie("<b>Sérologie cœliaque</b><br>—<br>- IgA anti-transglutaminase<br>= <b>anti-TG2</b><br>- IgA totales<br>- Consommation de gluten")
     sérologie --> élevée(anti-TG2 ≥ 10N) -- "&lt; 45 ans" --> confirmation(2e dosage) -- "anti-TG2 ≥ 10N" --> MC(Maladie cœliaque) --> gastro(Gastro-entérologue)
         confirmation -- "&lt; 10N" --> EOGD(EOGD) --> gastro
       élevée -- "+45 ans"--> EOGD
@@ -410,9 +446,9 @@ graph TB
 
 > **ATCD** = antécédents ; **fam** = familiaux ; **MC** = maladie cœliaque
 
-{{< mermaid title="Prise en charge de la suspicion de maladie cœliaque chez l'enfant. Dr JB Fron d'après *ESPGHAN 2020*" >}}
+{{< mermaid title="Prise en charge de la suspicion de maladie cœliaque chez l'enfant. Dr JB Fron d'après *ESsCD 2025* et *ESPGHAN 2020*" >}}
 graph TB
-  symptomatique["<b>Enfant avec symptômes suspects<br>de maladie cœliaque</b><br>—<br>- <br>- Digestif: diarrhée, constipation,<br>distension, nausées ...<br>- Autres: retard de croissance,<br>pubertaire, aménorrhée,<br>irritabilité,<br>fatigue chronique,<br>anomalies de l'émail<br>- Auto-immunité<br>- ATCD familial de MC"] --> sérologie("<b>Sérologie cœliaque</b><br>—<br>- IgA anti-transglutaminase<br>= <b>anti-TG2</b><br>- IgA totales<br>- Consommation de gluten")
+  symptomatique["<b>Enfant avec symptômes suspects<br>de maladie cœliaque</b><br>—<br>- <br>- Digestif: diarrhée, constipation,<br>distension, nausées ...<br>- Autres: retard de croissance,<br>pubertaire, aménorrhée,<br>irritabilité,<br>fatigue chronique,<br>anomalies de l'émail<br>- Auto-immunité"] --> sérologie("<b>Sérologie cœliaque</b><br>—<br>- IgA anti-transglutaminase<br>= <b>anti-TG2</b><br>- IgA totales<br>- Consommation de gluten")
     sérologie -- "anti-TG2 ≥ 10N" --> anti-endomysium(IgA anti-EM) -- "anti-EM +" --> affirmative(Maladie<br>cœliaque) --> gastro(Consultation de<br>gastro-entérologie)
       anti-endomysium -- "anti-EM -" --> EOGD("Endoscopie digestive<br>haute (EOGD)") --> gastro
     sérologie -- "anti-TG2+<br>et &lt; 10N" --> EOGD
@@ -420,6 +456,7 @@ graph TB
       IgG -- Négatives --> absence(Pas de<br>maladie cœliaque)
       négative --> totales(IgA totales<br>normales) --> peuProbable(Maladie cœliaque<br>peu probable) -.-> suspicion(Forte suspicion) -- "IgA anti-EM" --> gastro
         peuProbable -.-> regime("Si régime<br>pauvre en gluten:<br>réintroduire<br>puis redoser") -- 2 mois --> sérologie
+  antécédent["ATCD 1er degré<br>de MC"] --> HLA(HLA DQ2/DQ8) -- Positif --> sérologie
   style symptomatique stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
@@ -430,8 +467,10 @@ graph TB
 
 {{< youtube id="l3CGdp4T7Fw" title="Le régime sans gluten pour qui et pourquoi (TutoGastro SNFGE)" >}}
 
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease (ESsCD) 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 2: Management, Follow-Up, and Complex Disease Courses. United European Gastroenterol J. 2026.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70195)
 - [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [Szajewska H, et al. Early diet and the risk of coeliac disease. An update 2024 position paper by the ESPGHAN special interest group on coeliac disease. J Pediatr Gastroenterol Nutr. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/jpn3.12280)
+- [Luque V, et al. Gluten-free diet for pediatric patients with coeliac disease: A position paper from the ESPGHAN gastroenterology committee, special interest group in coeliac disease. J Pediatr Gastroenterol Nutr. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/jpn3.12079)
 - Prescrire Redaction. Intolérance au gluten. Premiers Choix Prescrire. Rev Prescrire. 2024.
 - [Lengliné H, Fabre A. Diagnostic de la maladie coeliaque chez l'enfant. Pas à Pas en Pédiatrie. 07/06/2022.](https://pap-pediatrie.fr/pap-detail/5662jcib)
 - [Husby S, et al. European Society Paediatric Gastroenterology, Hepatology and Nutrition Guidelines for Diagnosing Coeliac Disease 2020. J Pediatr Gastroenterol Nutr. 2020.](https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000002497)
@@ -444,10 +483,8 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Al-Toma A, et al. European Society for the Study of Coeliac Disease (ESsCD) 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 2: Management, Follow-Up, and Complex Disease Courses. United European Gastroenterol J. 2026.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70195)
-- [Luque V, et al. Gluten-free diet for pediatric patients with coeliac disease: A position paper from the ESPGHAN gastroenterology committee, special interest group in coeliac disease. J Pediatr Gastroenterol Nutr. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/jpn3.12079)
-- [Mearin ML, et al. ESPGHAN Position Paper on Management and Follow-up of Children and Adolescents With Celiac Disease. J Pediatr Gastroenterol Nutr. 2022.](https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003540)
 - [Arnold MJ. Diagnosis and Management of Celiac Disease: Guidelines From the American College of Gastroenterology. Am Fam Physician. 2024.](https://pubmed.ncbi.nlm.nih.gov/38227887/)
+- [Mearin ML, et al. ESPGHAN Position Paper on Management and Follow-up of Children and Adolescents With Celiac Disease. J Pediatr Gastroenterol Nutr. 2022.](https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000003540)
 
 Mots-clés: anticorps antitransglutaminase, anticorps antiendomysium
 
