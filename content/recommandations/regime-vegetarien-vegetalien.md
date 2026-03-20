@@ -72,7 +72,7 @@ Apports alimentaires quotidiens recommandés chez l'adulte végétarien (en moye
 - **Huile:** 35 g/j (dont au moins 25 g de colza, noix, soja ou lin)  
   Acide alpha-linolénique, vitamine E.
 - **Lait:** 450 mL/j  
-  Calcium, phosphore, EPA+DHA, iode, vitamines B12, B2, D et zinc.
+  Calcium, phosphate, EPA+DHA, iode, vitamines B12, B2, D et zinc.
 - **Œuf:** 30 g/j  
   1 œuf = 45 g. EPA+DHA, vitamine D.
 - **Fromage:** 50 g/j  

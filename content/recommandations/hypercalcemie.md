@@ -2,7 +2,7 @@
 id = "0190e8c4-b13e-73f9-ade0-8d32f1bcba29"
 title = "Hypercalcémie"
 prefix = "l'"
-description = "Recommandations pour le diagnostic et la prise en charge de l'hypercalcémie. Calcémie ionisée ou calcémie corrigée sur l'albumine. Bilan PTH, phosphore, ECG"
+description = "Recommandations pour le diagnostic et la prise en charge de l'hypercalcémie. Calcémie ionisée ou calcémie corrigée sur l'albumine. Bilan PTH, phosphate, ECG"
 synonyms = []
 auteurs = ["Alaedine BENANI", "Jean-Baptiste FRON"]
 date = "2024-02-04T22:00:04+01:00"
@@ -156,7 +156,7 @@ Le bilan de l'hypercalcémie est **urgent**:
 
 ### Bilan étiologique
 
-PTH sérique (normale: 15-65 pg/mL) et phosphatémie (phosphore sérique).
+PTH sérique (normale: 15-65 pg/mL) et phosphatémie (phosphate sérique).
 
 - Si PTH haute ou normale: calciurie des 24 heures
 - Si PTH basse
@@ -198,8 +198,8 @@ Le traitement de l'hypercalcémie est étiologique avec des mesures complémenta
 
 {{< mermaid title="Prise en charge d'une hypercalcémie par le médecin généraliste. Dr JB Fron d'après Collèges" >}}
 graph TB
-  hypercalcémie["<b>Hypercalcémie</b><br>—<br>Calcémie &gt; 2,6 mmol/L"] -- Albumine couplée --> corrigée("- Calcul de la <br>calcémie corrigée<br>- Clinique") -- "CaCorr 2,6-3 et<br>asymptomatique" --> ambulatoire("<b>Bilan ambulatoire</b><br>—<br>- Antécédents<br>- Traitements<br>- Calcémies antérieures") --> bilan("PTH, phosphore") -- "PTH ↑<br>ou normale" --> calciurie(Calciurie des 24h) --> endocrinologue(Endocrinologue)
-  bilan -- PTH ↓ --> complémentaire("- PTHrp<br>- 25 OH vitD<br>- 1, 25 OH vitD<br>- TSH<br>- EPS et EPU") -- "PTHrp ↑<br>Phosphore ↓<br>1,25 OH vitD ↓" --> cancer("Hypercalcémie<br>tumorale")
+  hypercalcémie["<b>Hypercalcémie</b><br>—<br>Calcémie &gt; 2,6 mmol/L"] -- Albumine couplée --> corrigée("- Calcul de la <br>calcémie corrigée<br>- Clinique") -- "CaCorr 2,6-3 et<br>asymptomatique" --> ambulatoire("<b>Bilan ambulatoire</b><br>—<br>- Antécédents<br>- Traitements<br>- Calcémies antérieures") --> bilan("PTH, phosphate") -- "PTH ↑<br>ou normale" --> calciurie(Calciurie des 24h) --> endocrinologue(Endocrinologue)
+  bilan -- PTH ↓ --> complémentaire("- PTHrp<br>- 25 OH vitD<br>- 1, 25 OH vitD<br>- TSH<br>- EPS et EPU") -- "PTHrp ↑<br>phosphate ↓<br>1,25 OH vitD ↓" --> cancer("Hypercalcémie<br>tumorale")
     hypercalcémie -- "Calcémie ionisée couplée<br>&gt; 1,3" --> ionisée("- Hypercalcémie vraie<br>- Clinique") -- "&gt; 1,5 ou<br>symptomatique" --> urgences("Urgences voire SAMU<br>sauf ECG et biologie<br>disponibles en urgence")
       corrigée -- "CaCorr &gt; 3 ou<br>symptomatique" --> urgences
     hypercalcémie -- "Sans albumine<br>ou Ca ionisée" --> urgences

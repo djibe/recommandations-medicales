@@ -142,7 +142,7 @@ Bilan d'une suspicion de pancréatite chronique:
 - Bilan hépatique: ASAT, ALAT, GGT, PAL, bilirubine totale
 - TP
 - Albumine, calcémie
-- Phosphore, magnésium
+- phosphate, magnésium
 - Créatinine, {{< modal-btn modal-ckd-epi >}}DFG CKD-EPI{{< /modal-btn >}}
 - Glycémie à jeun
 - Bilan lipidique
@@ -201,7 +201,7 @@ Pas de dépistage systématique du cancer du pancréas (prévalence 5 à 10%) ma
 Le suivi de la pancréatite chronique est au moins annuel (*BSG*):
 
 - **Clinique:** toxiques, douleurs, stéatorrhée, poids, risque cardiovasculaire (ou [SCORE2]({{% relref "score2.md" %}}) en prévention primaire) ± dépistage de la BPCO
-- **Biologique:** glycémie à jeun (HbA1c selon *BSG*), albumine, calcium, phosphore, magnésium, vitamines D et E (mesure "périodique"), élastase fécale
+- **Biologique:** glycémie à jeun (HbA1c selon *BSG*), albumine, calcium, phosphate, magnésium, vitamines D et E (mesure "périodique"), élastase fécale
 - **Radiologique:** scanner si perte de poids, modifications du bilan ou des douleurs, diabète, vomissements ou annuel en cas d'origine génétique
 - **Spécialisé:** rythme du suivi avec le gastro-entérologue
 - Si diabète: metformine puis insuline, hypoglycémies, suivi diabétologique du diabète type 3c

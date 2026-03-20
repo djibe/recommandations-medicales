@@ -472,7 +472,7 @@ Tant que le DFGe est ≥ 45 mL/min/1,73 m² (20 chez le sujet âgé), stable, sa
 - Protéines
   - Connaître les conséquences de l'excès de protéines
   - Limiter les protéines < 1 g/kg/j dès que la clairance est < 60
-- [Apports en calcium]({{% relref "apports-calcium.md" %}}), phosphore, potassium
+- [Apports en calcium]({{% relref "apports-calcium.md" %}}), phosphate, potassium
 
 Protection du capital veineux quand DFGe < 45 mL/min (pas de prélèvement des avant-bras).
 {.alert .alert-warning}

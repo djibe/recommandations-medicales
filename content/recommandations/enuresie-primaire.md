@@ -218,10 +218,10 @@ Recommandations pour le traitement médical de l'énurésie:
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'énurésie primaire" "show" %}}
 
-{{< mermaid title="Prise en charge de l'énurésie primaire par le médecin généraliste. Dr JB Fron d'après AFU et SFP" >}}
+{{< mermaid title="Prise en charge de l'énurésie primaire par le médecin généraliste. Dr JB Fron d'après SCP, AFU et SFP" >}}
 graph TB
-  énurésie["<b>Énurésie primaire isolée (EnPI)</b><br>—<br>Incontinence urinaire intermittente<br>pendant le sommeil<br>après l'âge de 5 ans"] --> clinique("<b>Clinique</b><br>—<br>- Calendrier mictionnel<br>- Intensité<br>- Tolérance, vécu<br>- Retentissement<br>- Examen clinique<br>- Bandelette urinaire") --> RHD("<b>Règles hygiéno-diététiques</b><br>—<br>- Distribution des<br>apports hydriques 7-18h<br>- Mictions régulières<br>et complètes<br>- Faciliter l'accès<br>aux toilettes<br>- Déculpabiliser<br>- Lutte constipation") -. Échec .-> urologue(Urologue)
-    clinique -- Diagnostic différentiel --> différentiel("- Infection urinaire<br>- Apnées du sommeil<br>- Diabète<br>- Constipation massive")
+  énurésie["<b>Énurésie primaire isolée (EnPI)</b><br>—<br>Incontinence urinaire intermittente<br>pendant le sommeil<br>après l'âge de 5 ans"] --> clinique("<b>Clinique</b><br>—<br>- Calendrier mictionnel<br>- Intensité<br>- Symptômes diurnes<br>- Tolérance, vécu<br>- Retentissement<br>- Examen clinique<br>- Bandelette urinaire") --> RHD("<b>Règles hygiéno-diététiques</b><br>—<br>- Distribution des<br>apports hydriques 7-18 h<br>- Mictions régulières<br>et complètes<br>- Faciliter l'accès<br>aux toilettes<br>- Déculpabiliser<br>- Lutte constipation") -. Échec .-> urologue(Urologue)
+    clinique -- Diagnostic différentiel --> différentiel("- Constipation +++<br>- Infection urinaire<br>- Apnées du sommeil<br>- Diabète")
   style énurésie stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 

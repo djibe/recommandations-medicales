@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-18T17:12:47+02:00"
 publishdate = "2023-09-19"
-lastmod = "2023-12-08"
+lastmod = "2026-03-20"
 specialites = ["gynécologie-obstétrique"]
-annees = "2022"
+annees = "2024"
 sources = ["CNGOF", "SFAR", "USPTF"]
 tags = ["antiplaquettaire", "céphalées", "dépistage", "diabète", "HTA", "grossesse", "néphropathie", "obésité", "risque cardiovasculaire"]
 english = ["Pre-eclampsia"]
@@ -24,7 +24,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- La pré-éclampsie est une hypertension artérielle gravidique (≥ 140 et/ou 90 mmHg apparaissant après 20 SA) avec protéinurie ≥ 0,3 g/24h qui survient durant 1 à 2 % des grossesses
+- La pré-éclampsie est une hypertension artérielle gravidique (≥ 140 et/ou 90 mmHg apparaissant après 20 SA) avec protéinurie ≥ 0,3 g/24h ou RPC ≥ 30 mg/mmol; elle survient durant 3 à 5 % des grossesses
 - La pré-éclampsie (PE) est une urgence diagnostique et thérapeutique
 - Rechercher des signes de gravité et de sévérité devant faire appeler le SAMU
 - La prévention de la pré-éclampsie passe par la surveillance de la pression artérielle et de la bandelette urinaire à chaque consultation de grossesse  
@@ -36,9 +36,9 @@ Chapitre liés: [grossesse]({{% relref "grossesse.md" %}}), [hypertension artér
 {{%collapse "Définition" %}}
 
 Pré-éclampsie (ou prééclampsie)
-: **Hypertension artérielle gravidique** (≥ 140 et/ou 90 mmHg apparaissant après 20 SA) avec **protéinurie** ≥ 0,3 g/24h nécessitant une hospitalisation. La délivrance du placenta est le seul traitement étiologique.
+: **Hypertension artérielle gravidique** (≥ 140 et/ou 90 mmHg apparaissant après 20 SA) avec **protéinurie** ≥ 0,3 g/24h ou ratio protéinurie/créatininurie (RPC) ≥ 30 mg/mmol, nécessitant une hospitalisation. La délivrance du placenta est le seul traitement étiologique.
 : Elle est dite **précoce** avant 32 SA.
-: Elle atteint 1 à 2 % des femmes enceintes. Les formes sévères peuvent entraîner le décès maternel et/ou fœtal.
+: Elle atteint 3 à 5 % des femmes enceintes. Les formes sévères peuvent entraîner le décès maternel et/ou fœtal.
 
 Éclampsie
 : Crise convulsive généralisée survenant chez la femme enceinte ayant une hypertension gravidique. Elle est le plus souvent imprévisible.
@@ -90,6 +90,9 @@ PE
 
 RCIU
 : retard de croissance intra-utérin
+
+RPC
+: ratio (ou rapport) protéinurie/créatininurie
 
 SA
 : semaines d'aménorrhée
@@ -182,9 +185,13 @@ Pendant la grossesse, mesure manuelle de la pression artérielle [selon les reco
 > [!INFO]
 > Contrôle de la pression artérielle à chaque consultation de grossesse, couplée à la bandelette urinaire.
 
-La prévention de la pré-éclampsie par **aspirine faible dose** de 12 à 35 semaines d'aménorrhée (SA) est indiquée en cas d'antécédent de prééclampsie (81 mg/j selon *USPTF*).
+Encourager la pratique d'une **activité physique adaptée** durant de la grossesse pour réduire le risque de pré-éclampsie.
 
-Rechercher un **syndrome des anticorps anti-phospholipides** (SAPL) en cas de pré-éclampsie précoce ou sévère.
+La prévention de la pré-éclampsie par **aspirine faible dose** 100-160 mg/j au coucher de 12 à 36 semaines d'aménorrhée (SA) est recommandée en cas d'antécédent de prééclampsie (idéalement **avant 16 SA**, au plus tard avant 20 SA).
+
+Les données sont insuffisantes pour définir des indications strictes pour la recherche d'un **syndrome des anticorps anti-phospholipides** (SAPL). Ne pas le rechercher pour une pré-éclampsie survenue après 34 SA.
+
+En cas d'antécédent unique de prééclampsie et de **thrombophilie**, un traitement préventif n'a pas démontré d'intérêt.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la pré-éclampsie" %}}
@@ -198,15 +205,23 @@ Si un traitement antihypertenseur intraveineux est impossible dans l'heure, voir
 
 Nifédipine ou nicardipine si le bêtabloquant seul est insuffisant ou contre-indiqué.
 
-Prise d'aspirine faible dose à toutes les grossesses ultérieures.
+Prise d'aspirine faible dose avant 16 SA durant toutes les grossesses ultérieures (voir *Prévention*).
 
 ### Pour en savoir plus: prise en charge de la pré-éclampsie
 
-Le recours au traitement antihypertenseur est systématique en cas de **pré-éclampsie sévère** (≥ 160/110 mmHg) au repos et persistant plus de 15 minutes pour maintenir la pression sous ces seuils.
+Pré-éclampsie non sévère (< 160/110 mmHg):
+
+- Antihypertenseur oral (labétalol, nicardipine, nifédipine ou alpha-méthyldopa)
+- Suivi tensionnel et de la protéinurie
+- Déclenchement entre 34 et 37 SA, tentative de voie basse
+- Pas de déclenchement systématique entre 34 et 37 SA
+
+Le recours au traitement antihypertenseur est systématique en cas de **pré-éclampsie sévère** (≥ 160/110 mmHg) au repos et persistant plus de 15 minutes pour maintenir la pression sous ces seuils. Pour une pré-éclampsie sévère entre 24 et 34 SA sans signes de gravité materno-fœtaux, la grossesse peut être poursuivie jusqu'à 34 SA.
 
 Le sulfate de magnésium est un traitement hospitalier.
 
-Pour une pré-éclampsie sévère entre 24 et 34 SA sans signes de gravité materno-fœtaux, la grossesse peut être poursuivie jusqu'à 34 SA.
+{{% /collapse %}}
+{{%collapse "Suivi après l'accouchement" %}}
 
 ### Suivi après accouchement d'une grossesse avec pré-éclampsie
 
@@ -214,17 +229,16 @@ Pour une pré-éclampsie sévère entre 24 et 34 SA sans signes de gravité mate
 - Bilan des facteurs de risque cardiovasculaires
 - Informer sur le sur-risque vasculaire (syndrome métabolique, AVC)
 - Consultation de néphrologie ou de médecine interne
-- Risque de récidive pendant une prochaine grossesse: 20-25 %
+- Risque de récidive élevé pendant une prochaine grossesse (20-25 %)
   - Suivi rigoureux avec consultation pré-conceptionnelle
-  - Aspirine faible dose 75-160 mg/j avant 20 SA et jusqu'à 35 SA
-- Si pré-éclampsie sévère ou précoce: rechercher des anticorps anti-phospholipides (*CNGOF post-partum*)
+  - Aspirine faible dose 100-160 mg/j au coucher de 12 à 36 semaines d'aménorrhée (SA)
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la pré-éclampsie" "show" %}}
 
 {{< mermaid title="Prise en charge de la pré-éclampsie par le médecin généraliste. Dr JB Fron d'après CNGOF et SFAR" >}}
 graph TB
-  suspicion["<b>Grossesse</b><br>—<br>Mesure de la pression<br>artérielle à chaque consultation,<br>manuelle ou appareil validé<br>pour la grossesse<br>et bandelette urinaire"] --> cabinet("Pression artérielle ≥ 140 et/ou 90 mmHg<br>et protéines à la bandelette urinaire") -- HTA + protéinurie --> prééclampsie["<b>Suspicion de pré-éclampsie</b><br>—<br>Après 20 SA: hypertension artérielle<br>≥ 140 et/ou 90 mmHg avec<br>protéinurie ≥ 0,3 g/24h"] --> gravité("<b>Signe de gravité ?</b><br>—<br>- HTA ≥ 160/110 mmHg<br>- Épigastralgies, douleurs HCD<br>en barre persistantes ou intenses<br>- Signes neurologiques<br>- Détresse respiratoire<br>- Douleur thoracique<br>- Oligoanurie") -- Oui --> SAMU(Appel du SAMU) --> urgences(Urgences obstétricales)
+  suspicion["<b>Grossesse</b><br>—<br>Mesure de la pression<br>artérielle à chaque consultation,<br>manuelle ou appareil validé<br>pour la grossesse<br>et bandelette urinaire"] --> cabinet("Pression artérielle ≥ 140 et/ou 90 mmHg<br>et protéines à la bandelette urinaire") -- HTA + protéinurie --> prééclampsie["<b>Suspicion de pré-éclampsie</b><br>—<br>Après 20 SA: hypertension artérielle<br>≥ 140 et/ou 90 mmHg avec<br>protéinurie ≥ 0,3 g/24h<br>ou RPC ≥ mg/mmol"] --> gravité("<b>Signe de gravité ?</b><br>—<br>- HTA ≥ 160/110 mmHg<br>- Épigastralgies, douleurs HCD<br>en barre persistantes ou intenses<br>- Signes neurologiques<br>- Détresse respiratoire<br>- Douleur thoracique<br>- Oligoanurie") -- Oui --> SAMU(Appel du SAMU) --> urgences(Urgences obstétricales)
     gravité -- Non --> urgences
       cabinet -- "HTA isolée ≥ 160/110" --> urgences
       cabinet -- "HTA isolée &lt; 160/110 et<br>biologie normale" --> HTA("<b>HTA gestationnelle modérée</b><br>—<br>- Méthyldopa<br>- Suivi spécialisé<br>- Bilan mensuel:<br>albuminurie, NFS, ASAT, ALAT,<br>créatininémie, uricémie<br>- Après 22 SA: échodoppler<br>des artères utérines") -.-> prééclampsie
@@ -236,6 +250,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Sentilhes L, et al. La pré-éclampsie : recommandations pour la pratique clinique du Collège national des gynécologues obstétriciens français. Gynecol Obstet Fertil Senol. 2024. (PDF)](https://cngof.fr/app/uploads/2025/11/PrC3A920C3A9clampsie2020202320RPC.pdf?x26468) (CNGOF)
 - [US Preventive Services Task Force. Screening for Hypertensive Disorders of Pregnancy: US Preventive Services Task Force Final Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2809680)
 - {{< references/esh-2023 >}}
 - [Bonnet MP, et al. Republication de : recommandations formalisées d'experts. Prise en charge de la patiente avec une pré-éclampsie sévère - RFE communes Société française d'anesthésie-réanimation (SFAR) - Collège national des gynécologues et obstétriciens français (CGNOF). Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](https://cngof.fr/app/uploads/2025/11/PrC3A920C3A9clampsie202022-severe20RFE.pdf?x26468)
@@ -245,9 +260,5 @@ graph TB
 - [CNGOF. Dépistage de la pré-eclampsie. Juin 2020. (PDF)](https://cngof.fr/app/uploads/2023/06/Depistage-pre-eclampsie-CNGOF-Juin-2020.pdf?x53169)
 - [Inserm. Pré-éclampsie. 30/11/2018.](https://www.inserm.fr/dossier/pre-eclampsie/)
 - [SFHTA. HTA et grossesse. Consensus d'experts. 2015. (PDF)](https://sfhta.eu/wp-content/uploads/2017/03/Consensus-dexperts-HTA-et-Grossesse-de-la-SFHTA-Dec.-2015.pdf)
-
-### Bibliographie en attente
-
-[Sentilhes L, et al. La pré-éclampsie : recommandations pour la pratique clinique du Collège national des gynécologues obstétriciens français. Gynecol Obstet Fertil Senol. 2024. (PDF)](https://cngof.fr/app/uploads/2025/11/PrC3A920C3A9clampsie2020202320RPC.pdf?x26468)
 
 {{%/sources%}}
