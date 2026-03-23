@@ -11,18 +11,18 @@
             <img src="/images/icons/articles.svg" class="img-fluid" alt="Articles en rapport avec la médecine générale" aria-hidden="true">
           </div>
         </header>
-        <nav aria-label="Fil d'ariane" class="mt-4 mb-5">
+        <nav aria-label="Fil d’ariane" class="mt-4 mb-5">
           <ol class="breadcrumb">
             {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
           </ol>
         </nav>
       </div>
       <div class="col-12 grid-list">
-      {{ range .Pages.ByPublishDate.Reverse }}
+      {{ range $index, $page := .Pages.ByPublishDate.Reverse }}
         <div class="card card-list article">
           <figure class="figure-img-nav" style="background-color: var(--bg-article-hex)">
             {{ $imageUrl := printf "/images/articles/%s.webp" .File.BaseFileName }}
-            <img {{- with resources.GetMatch $imageUrl }} src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" {{ end -}} alt="Illustration de {{ .Title }}" class="card-img-top card-img-nav">
+            <img {{- with resources.GetMatch $imageUrl }} src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" {{ end -}} alt="Illustration de {{ .Title }}" class="card-img-top card-img-nav"{{ if ge $index 5 }} loading="lazy"{{ end }}>
           </figure>
           <div class="card-header">
             <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h2>
