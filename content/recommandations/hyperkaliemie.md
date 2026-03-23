@@ -28,7 +28,7 @@ flowchart = true
   - comorbidité: insuffisance rénale chronique (notamment la dialyse), insuffisance cardiaque ou diabète
   - situation aiguë: insuffisance rénale aiguë, rhabdomyolyse, syndrome de lyse
   - avec souvent un traitement par IEC/ARA2 ou spironolactone
-- L'hyperkaliémie est souvent asymptomatique ou avec des palpitations et/ou des signes neuromusculaires (paresthésies des extrémités, faiblesse musculaire, paralysie ascendante) qui signent une urgence vitale
+- L'hyperkaliémie (HK+) est souvent asymptomatique ou avec des palpitations et/ou des signes neuromusculaires (paresthésies des extrémités, faiblesse musculaire, paralysie ascendante) qui signent une urgence vitale
 - La prise en charge d'une hyperkaliémie en ville dépend du contexte:
   - En présence de symptôme évocateur, ECG anormal ou d'hyperkaliémie sévère (≥ 6,5 mmol/L): urgence vitale avec appel du SAMU (Centre 15)
   - En cas de situation aiguë (IRA, rhabdomyolyse), d'insuffisance d'organe (rénale, cardiaque) ou de diabète avec traitement à risque: bilan urgent dès 5,5 mmol/L (*SEC*; 6 selon *KDIGO*) pour ECG et normalisation de la kaliémie
@@ -273,53 +273,12 @@ L'hyperkaliémie sévère ou symptomatique est une **urgence vitale** sous surve
 
 ### Aliments riches en potassium
 
-Les apports quotidiens en potassium recommandés chez l'adulte dans la population générale sont de **3,5 g/j** (90 mmol/L) et sont facilement couverts (*OMS*).
-
-Les apports alimentaires proviennent principalement des **fruits**, **légumes** et de la **viande** (et des sels << allégés >>, KCl).
-
-| Aliment | mg/100 g |
-| ------- | -------: |
-| **Légumes** | |
-| Soja | 1730 |
-| Blé germe | 871 |
-| Pomme de terre | 525 |
-| Avocat | 400 |
-| Épinard | 380 |
-| Aubergine | 262 |
-| Tomate | 236 |
-| Chou-fleur | 193 |
-| Betterave | 190 |
-| Avocat | 400 |
-| **Fruits** | |
-| Banane | 350 |
-| Raisin | 250−320 |
-| Melon | 320 |
-| Abricot | 293 |
-| Pêche | 260 |
-| Cerise | 255 |
-| Ananas | 250 |
-| Orange | 200 |
-| Mandarine | 160 |
-| Poire | 130 |
-| Pastèque | 120 |
-| Pomme | 99 |
-| **Noix** | |
-| Amande | 767 |
-| Pistache | 811 |
-| Noisette | 636 |
-| Noix | 690 |
-| **Légumineuses** | |
-| Haricots blancs | 1337 |
-| Pois chiches | 1000 |
-| Lentilles | 463 |
-| **Cacao** | 712 |
-| **Viande** | 270-490 |
-{caption="Aliments riches en potassium. Dr JB Fron d'après Bedca.net"}
+{{< traitements/aliments-potassium >}}
 
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une hyperkaliémie" "show" %}}
 
-{{< mermaid title="Prise en charge d'une hyperkaliémie en ville. Dr JB Fron d'après UKKA, SEC, AAFP" >}}
+{{< mermaid title="Prise en charge d'une hyperkaliémie en ville. Dr JB Fron d'après ERC, UKKA, SEC, AAFP" >}}
 graph TB
   hyperkaliémie["<b>Hyperkaliémie</b><br>Kaliémie &gt; 5 mmol/L<br>(voire 5,5)"] --> signes("<b>Signe de gravité ?</b><br>—<br>≥ 1 parmi:<br>1. Symptômes<br>2. ECG anormal<br>3. HK ≥ 6,5 mmol/L<br>—<br>4. ou HK ≥ 5,5 mmol/L<br>(voire 6) avec ≥ 1 parmi:<br>- Installation brutale<br>- Contexte grave<br>(lyse cellulaire, rhabdomyolyse)<br>- Insuffisance d'organe:<br>MRC, IC, cirrhose")
     signes -- Non --> pseudohyperkaliémie("Pseudohyperkaliémie ?<br>—<br>- Garrot, poing serré<br>- Tubes froids<br>- Anomalie NFS") -- Oui --> Recontrôler("Redoser sous<br>1-3 j selon<br>le taux")
