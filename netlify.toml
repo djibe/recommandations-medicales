@@ -143,6 +143,16 @@ HUGO_ENABLEGITINFO = "false"
   to = "https://recomedicales.fr/images/photos/osteoporose.jpg"
   status = 301
 
+[[redirects]]
+  from = "https://recomedicales.fr/login/"
+  to = "http://127.0.0.1"
+  status = 301
+
+[[redirects]]
+  from = "https://recomedicales.fr/wp-login.php"
+  to = "http://127.0.0.1"
+  status = 301
+
 # [[plugins]]
 #   package = "netlify-plugin-inline-critical-css"
 #     [plugins.inputs]
