@@ -20,7 +20,7 @@ icd10 = ["N18", "N18.9", "N19", "R80", "I12", "I13"]
 image = true
 imageSrc = "Illustration de l'insuffisance rénale. pch.vector / Freepik"
 flowchart = true
-todo = "Albuminurie perturbée, aliments riches K/P (HAS2023p71), désindexation surface corporelle +++"
+todo = "SEO, Albuminurie perturbée, aliments riches K/P (HAS2023p71), désindexation surface corporelle +++"
 +++
 
 {{% article-summary %}}
@@ -97,7 +97,7 @@ RCV
 
 ### Épidémiologie de l'insuffisance rénale chronique
 
-3 millions de Français atteints de maladie rénale chronique (7 à 10 % de la population) avec un dépistage insuffisant.
+5,7 millions de Français atteints de maladie rénale chronique (10 % de la population) avec un dépistage insuffisant.
 
 9500 nouveaux dialysés par an, augmentation de 4%/an, liés aux facteurs de risque cardiovasculaires: [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) et **diabète** pour la moitié des cas.
 
@@ -319,11 +319,11 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
   - Sérologie [hépatite B]({{% relref "hepatite-b.md" %}}) et vacciner si Ac anti-HBs < 10 UI/L  
     [4 doubles doses]({{% relref "hepatite-b.md" %}}) si hémodialysé non vacciné.
 - Ferritinémie cible > 100 ng/mL
-- DFG < 60 mL/min/1,73 m²:
+- **DFG < 60 mL/min/1,73 m²:**
   - Lutte contre l'hyperphosphorémie (produits transformés ++)
   - Protéines: apports de 0,8 g/kg/j (sauf chez la personne âgée)  
     Limiter à 1,3 g/kg/j si MRC à risque de progression.
-- DFG < 45 mL/min/1,73 m²:
+- **DFG < 45 mL/min/1,73 m²:**
   - Suivi par néphrologue impératif
   - Protection du *capital veineux*
   - [Vitamine D cible]({{% relref "vitamine-d.md" %}}) > 75 nmol/L (*HAS 2023*)
@@ -484,7 +484,7 @@ Connaître les signes et symptômes de la maladie rénale chronique et savoir qu
 {{% /collapse %}}
 {{%collapse "Prise en charge de la maladie rénale chronique" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le dépistage et la prise en charge de la maladie rénale chronique. Dr JB Fron d'après KDIGO 2024 et HAS 2023" >}}
+{{< mermaid title="Conduite à tenir pour le dépistage et la prise en charge de la maladie rénale chronique. Dr JB Fron d'après *KDIGO 2024* et *HAS 2023*" >}}
 graph TB
 fdr["<b>Personne à risque</b><br>—<br>- +65 ans (Acad Pharma)<br>- HTA, diabète<br>- Obésité<br>- Maladie cardiovasculaire<br>- Insuffisance cardiaque<br>- Maladie de système<br>- Pathologie urologique<br>- ATCD familial d'IRC évolutive<br>- Exposition professionnelle<br>- Néphrotoxiques"] --> 2(Bilan annuel)
 style fdr stroke:#4150f5, stroke-width:1px
@@ -496,13 +496,14 @@ style fdr stroke:#4150f5, stroke-width:1px
     Normal --> 2
   4 --> Anormal
   Anormal --> bilan("Bilan initial de la MRC + Stade<br>voir Examens complémentaires")
-  bilan --> nephroprotection("<strong>Néphroprotection maximale</strong><br>—<br>- Lutte FRCV<br>- Éviction néphrotoxiques<br>- Adaptation des posologies<br>- Risque cardiovasculaire (très) élevé<br>- &lt; 5g sel/j<br>- PA &lt; 120/90 mmHg<br>- LDL &lt; 0,7 g/L<br>- Souvent iSGLT2<br>- Albuminurie cible &lt; 30 mg/mmol<br>- Vaccin grippe, pneumo, Covid, VHB<br>- Ferritinémie +100 ng/mL")
+  bilan --> nephroprotection("<strong>Néphroprotection maximale</strong><br>—<br>- Éviction néphrotoxiques<br>- Adaptation des posologies<br>- IEC/ARA2 dose max<br>- iSGLT2 si: DT2, DFG 20-45,<br> albU ≥ 20 mg/mmol<br>- Vaccins grippe, covid, pneumo, VHB<br>- Risque cardiovasculaire (très) élevé<br>- Tension &lt; 120/90 mmHg<br>- Albuminurie cible &lt; 30 mg/mmol<br>- LDL &lt; 0,7 g/L (voire 0,55)<br>- Sel &lt; 5g/j<br>- Ferritinémie +100 ng/mL")
   nephroprotection -- stade 3B+ --> avis(Suivi néphrologique)
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ameli Médecin. Maladie rénale chronique. 06/03/2026.](https://www.ameli.fr/medecin/sante-prevention/pathologies/maladie-renale-chronique)
 - [Mach F, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/article/46/42/4359/8234482)
 - [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale chronique chez l'adulte et chez l'enfant. Item 264. Manuel de néphrologie 11ème édition. 2025.](https://manuel.cuen.fr/accueil-chapitres/)
 - [HAS. ALD n° 19 - Néphropathie chronique grave. Guide des actes et prestations. 2024.](https://www.has-sante.fr/jcms/c_565906/fr/ald-n-19-nephropathie-chronique-grave)
