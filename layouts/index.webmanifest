@@ -2,7 +2,7 @@
   "name": "{{ .Site.Title }}",
   "short_name": "{{ .Site.Title }}",
   "description": "{{ .Site.Params.Description }}.",
-  "lang": "{{ .Site.LanguageCode }}",
+  "lang": "{{ .Site.Language.Locale }}",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
