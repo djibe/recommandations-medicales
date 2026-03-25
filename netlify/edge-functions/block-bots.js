@@ -26,6 +26,8 @@ const botUas = [
   'Python-httpx',
   'python-requests',
   'quillbot',
+  'server',
+  'ShapBot',
   'YouBot'
 ]
 
