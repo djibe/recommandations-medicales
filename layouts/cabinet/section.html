@@ -11,18 +11,21 @@
             <img src="/images/icons/cabinet.svg" class="img-fluid" alt="Outils numériques du généraliste" aria-hidden="true">
           </div>
         </header>
-        <nav aria-label="Fil d'ariane" class="mt-4 mb-5">
+        <nav aria-label="Fil d’ariane" class="mt-4 mb-5">
           <ol class="breadcrumb">
             {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
           </ol>
         </nav>
       </div>
       <div class="col-12 grid-list">
-      {{ range .Pages.ByLastmod.Reverse }}
+      {{ range $index, $page := .Pages.ByPublishDate.Reverse }}
         <div class="card card-list">
-          <div class="card-img-top" style="background-image: url('/images/cabinet/{{.File.BaseFileName}}.webp')"></div>
+          <figure class="figure-img-nav" style="background-color: var(--bg-cabinet-hex)">
+            {{ $imageUrl := printf "/images/cabinet/%s.webp" .File.BaseFileName }}
+            <img {{- with resources.GetMatch $imageUrl }} src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" {{ end -}} alt="Illustration de {{ .Title }}" class="card-img-top card-img-nav"{{ if ge $index 5 }} loading="lazy"{{ end }}>
+          </figure>
           <div class="card-header">
-            <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <h2 class="card-title"><a class="stretched-link text-reset" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h2>
             {{ with .Params.Subtitle}}<h3 class="card-subtitle">{{ . }}</h3>{{end}}
             <small class="text-black-secondary">Mis à jour le <time datetime="{{partial "widgets/html-datetime.html" .}}">{{ .Lastmod | time.Format ":date_medium" }}</time></small>
           </div>

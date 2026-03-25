@@ -20,7 +20,7 @@
   <div class="row min-vh-100">
     <!-- CONTENT -->
     <div class="col-12">
-      <nav aria-label="Fil d'ariane" class="mt-5" style="padding-inline: clamp(1.375rem, 1.2rem + 0.89vw, 2rem)">
+      <nav aria-label="Fil d’ariane" class="mt-5" style="padding-inline: clamp(1.375rem, 1.2rem + 0.89vw, 2rem)">
         <ol class="breadcrumb">
           {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
         </ol>
@@ -49,28 +49,30 @@
         <div class="mt-4 recommandation__content cabinet__content">
           {{ .Content }}
           <nav class="mt-xl d-flex flex-wrap justify-content-evenly d-print-none">
-            {{with .NextInSection }}
+            {{- with .NextInSection -}}
+            {{ $imageUrl := printf "/images/cabinet/%s.webp" .File.BaseFileName }}
             <div class="card card-list mw-248 my-2">
-              <figure class="figure-img-nav">
-                <img src="/images/cabinet/{{.File.BaseFileName}}.webp" alt="Illustration de {{ .Title }}" class="card-img-top card-img-nav" loading="lazy">
+              <figure class="figure-img-nav" style="background-color: var(--bg-cabinet-hex)">
+                <img {{- with resources.GetMatch $imageUrl }} src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" {{ end -}} alt="Illustration de {{ .Title }}" class="card-img-top card-img-nav" loading="lazy">
               </figure>
               <div class="card-header d-flex flex-column">
                 <span class="card-subtitle mb-2">Article suivant</span>
                 <a class="card-title stretched-link text-reset" href="{{ .RelPermalink }}" rel="next">{{ .Title }}</a>
               </div>
             </div>
-            {{end}}
-            {{with .PrevInSection }}
+            {{- end -}}
+            {{- with .PrevInSection -}}
+            {{ $imageUrl2 := printf "/images/cabinet/%s.webp" .File.BaseFileName }}
             <div class="card card-list mw-248 my-2">
-              <figure class="figure-img-nav">
-                <img src="/images/cabinet/{{.File.BaseFileName}}.webp" alt="Illustration de {{ .Title }}" class="card-img-top card-img-nav" loading="lazy">
+              <figure class="figure-img-nav" style="background-color: var(--bg-cabinet-hex)">
+                <img {{- with resources.GetMatch $imageUrl2 }} src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" {{ end -}} alt="Illustration de {{ .Title }}" class="card-img-top card-img-nav" loading="lazy">
               </figure>
               <div class="card-header d-flex flex-column">
                 <span class="card-subtitle mb-2">Article précédent</span>
                 <a class="card-title stretched-link text-reset" href="{{ .RelPermalink }}" rel="prev">{{ .Title }}</a>
               </div>
             </div>
-            {{end}}
+            {{- end -}}
           </nav>
         </div>
       </div>
