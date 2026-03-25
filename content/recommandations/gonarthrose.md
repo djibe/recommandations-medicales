@@ -303,6 +303,7 @@ graph TB
 
 {{< card-link-external title="Quand adresser un patient gonarthrosique au chirurgien ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/174175700" image="podcast" >}}
 
+- [Pacheco-Brousseau L, et al. Total and partial knee arthroplasty versus non‐surgical interventions of the knee for moderate to severe osteoarthritis. Cochrane Database of Systematic Reviews. 2026.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015378.pub2/full/fr)
 - [Whittle SL, et al. Stem cell injections for osteoarthritis of the knee. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013342.pub2/full/fr)
 - Prescrire Redaction. Douleurs liées à une arthrose du genou ou de la hanche. Premiers Choix Prescrire. Rev Prescrire. 2024.
 - [Pers YM, et al. Recommendations from the French Societies of Rheumatology and Physical Medicine and Rehabilitation on the non-pharmacological management of knee osteoarthritis. Ann Phys Rehabil Med. 2024.](https://www.sciencedirect.com/science/article/pii/S1877065724000678)

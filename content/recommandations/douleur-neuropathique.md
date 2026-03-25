@@ -343,6 +343,7 @@ Bilan étiologique par le neurologue en cause non évidente.
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ateş G, et al. Cannabis‐based medicines for chronic neuropathic pain in adults. Cochrane Database of Systematic Reviews 2026.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012182.pub3/full/fr)
 - [Moisset X. Neuropathic pain: Evidence based recommendations. Presse Med. 2024.](https://www.sciencedirect.com/science/article/pii/S0755498224000101)
 - [Price R, et al. Oral and Topical Treatment of Painful Diabetic Polyneuropathy: Practice Guideline Update Summary: Report of the AAN Guideline Subcommittee. Neurology. 2022.](https://www.neurology.org/doi/10.1212/WNL.0000000000013038?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 - [Moisset X, et al. French guidelines for neuropathic pain: An update and commentary. Revue neurologique. 2021.](https://hal.archives-ouvertes.fr/hal-03401768)

@@ -17,19 +17,19 @@ english = ["Malaria"]
 sctid = "61462000"
 icd10 = ["B54", "B50", "B51", "B52", "B53"]
 image = true
-imageSrc = "Moustique anophèle vecteur du paludisme. Culicidae, Anopheles sp. Photo de Techuser sur Foter.com / CC BY-NC-ND"
+imageSrc = "Moustique anophèle vecteur du paludisme (Culicidae, Anopheles sp). Photo de Techuser sur Foter.com / CC BY-NC-ND"
 slider = true
 todo = "update, Prescrire, ttt ambulatoire accès palustre"
 +++
 
 {{%article-summary%}}
 
-*Le traitement de l'accès palustre non grave n'est pas encore abordé*
-
-- Toute fièvre dans les 3 mois suivant le retour d'une zone impaludée est un paludisme jusqu'à preuve du contraire
+- Le paludisme est une infection parasitaire grave à *Plasmodium* transmise par les piqûres de moustique
+- Les symptômes du paludisme ne sont pas spécifiques: syndrome pseudo-grippal, trouble digestif avec contexte de voyage en zone à risque dans les 3 mois. Le tableau évolue ensuite vers une anémie hémolytique fébrile
+- Ainsi, toute fièvre dans les 3 mois suivant le retour d'une zone impaludée est un paludisme jusqu'à preuve du contraire
 - Toute suspicion de paludisme est une **urgence** diagnostique et thérapeutique (service de maladies infectieuses et tropicales, médecine interne ou *Urgences*)
-- Paludisme réfuté mais doute persistant: deuxième test 12-24 heures plus tard (frottis sanguin, goutte épaisse, test de diagnostic rapide)
-- Voyage tropical: protection contre les moustiques et évaluer la nécessité d'une chimioprophylaxie médicamenteuse (voir *Indication à la prophylaxie palustre*)
+- En cas de paludisme réfuté par un bilan initial mais que le doute persiste: réaliser un deuxième test 12 à 24 heures plus tard (frottis sanguin, goutte épaisse, test de diagnostic rapide)
+- La prévention du paludisme est systématique lors d'un voyage tropical dans une zone impaludée: protection contre les moustiques (PPAV) et évaluer la nécessité d'une chimioprophylaxie médicamenteuse (CPAV, voir *Indication à la prophylaxie palustre*)
 - Le paludisme autochtone est une [maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}})
 - Les séjours en zones d'endémie palustre sont déconseillés durant la grossesse (*CRAT*)
 
@@ -120,8 +120,8 @@ Appel du SAMU en cas de suspicion d'accès palustre grave:
     Personne âgée, grossesse, comorbidités, grossesse.
 - Clinique et biologique
   - Tout signe de gravité
-  - Thrombopénie < 50.000, anémie < 10, créatininémie > 150 µmol/L
-  - **Parasitémie** > 2%
+  - Thrombopénie < 50.000/mm³, anémie < 10 g/dL, créatininémie > 150 µmol/L
+  - **Parasitémie** > 2 %
 - Impossibilité d'avoir un diagnostic parasitologique fiable et rapide
 - Troubles digestifs ne permettant pas un traitement oral
 - Traitement ambulatoire impossible  
@@ -141,19 +141,19 @@ L'incubation du paludisme est asymptomatique et dure:
 - Minimum 7 jours pour *P. falciparum*, 10 à 15 jours pour les autres
 - Maximum 2 mois pour *P. falciparum*, 3 ans *P. vivax* et *ovale*, plus de 10 ans pour *P. malariae*.
 
-Interrogatoire, signes et symptômes de l'accès palustre simple de l'adulte, **tableau pseudo-grippal dans les 3 mois suivants le retour de voyage** d'une zone endémique:
+Interrogatoire, signes et symptômes de l'accès palustre simple de l'adulte, dominé par un **tableau pseudo-grippal dans les 3 mois suivants le retour de voyage** d'une zone d'endémie:
 
-- Voyage dans les 3 mois en pays impaludé
+- **Voyage dans les 3 mois en pays impaludé**
 - Date de retour
 - Chimioprophylaxie antipaludique utilisée
 - Antécédent de traitements antipaludiques curatifs déjà utilisés
-- **Syndrome pseudo-grippal**
+- **Syndrome pseudo-grippal:**
   - Fièvre élevée, brutale et intermittente (rarement stéréotypée tierce par *P. falciparum*)
   - Frissons, [sueurs]({{% relref "sueurs-nocturnes.md" %}})
   - Phases quasi asymptomatiques
   - Céphalées
   - Myalgies
-- Troubles digestifs  
+- **Troubles digestifs**  
   Douleurs abdominales, nausées, vomissements, diarrhées.
 - Examen clinique normal (neurologique ++)
 - Thrombopénie très fréquente (VPN élevée)
@@ -379,7 +379,7 @@ Les traitements d'intention moindre sont l'atovaquone-proguanil voire la quinine
 - Anofel. Paludisme. Parasitoses et mycoses des régions tempérées et tropicales. 2022.
 - [CMIT. Paludisme. Item 170. ECN.Pilly. 2021. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/ecn-2020-170-web.pdf)
 - [Bouchaud O, et al. Prise en charge et prévention du paludisme d'importation - Mise à jour 2018 des RPC 2007. Médecine et Maladies Infectieuses. 2020.](https://www.sciencedirect.com/science/article/pii/S0399077X19310613)
-- [Egmann G, et al; SFMU. Accès palustres : diagnostic et traitement. 2014. (PDF)](https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/028.pdf)
+- [Egmann G, et al. Accès palustres : diagnostic et traitement. 2014. (PDF)](https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/028.pdf) (SFMU)
 - [Centre National de Référence du Paludisme](https://cnr-paludisme.fr)
 - [Institut Pasteur. Recommandations générales - Prévention du paludisme.](https://www.pasteur.fr/fr/centre-medical/vaccination/recommandations-generales#prvention-du-paludisme)
 

@@ -15,6 +15,9 @@ image = true
 imageSrc = "L'ordinateur pour le médecin généraliste. Freepik"
 +++
 
+> [!INFO]
+> Vue l'explosion des prix liée à l'IA, privilégier un ordinateur d'occasion pour le moment.
+
 L'ordinateur (PC ou Mac) est essentiel au sein du cabinet du médecin afin de gérer à long terme le suivi des patients. Il permet également l'accès aux outils de productivité comme *Ameli Pro*. Bref, il est vital. Et pourtant, sans aucune connaissance préalable, on vous vendra ce qui rapporte, pas ce dont vous avez besoin.
 {.lead}
 

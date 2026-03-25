@@ -84,7 +84,7 @@ L'hyperaldostéronisme primaire est largement sous-diagnostiqué et sous-traité
   - Réduisent l'aldostérone: IEC/ARA2, bêta-bloquants, antihypertenseurs centraux α2-agonistes (clonidine, méthyldopa)
   - Majorent l'aldostérone: diurétiques, anti-aldostérone, hormonothérapie œstroprogestative, drospirénone
 - Bilans biologiques antérieurs
-- Signes et symptômes d'hyperaldostéronisme primaire:
+- **Signes et symptômes d'hyperaldostéronisme primaire:**
   - Hypertension artérielle
   - Hypokaliémie (< 3,7 mmol/L ++, < 1/3 des sujets) spontanée ou induite par les diurétiques: faiblesse musculaire, tétanie
 

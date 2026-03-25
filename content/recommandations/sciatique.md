@@ -139,6 +139,7 @@ En cas de douleurs séquellaires post-opératoires ou non opérables, avis du **
 
 {{< youtube id="Chs5Jgls7h0" title="Comment réaliser le signe de Lasègue ? (ITMP)" >}}
 
+- [Armon C, et al. Epidural Steroids for Cervical and Lumbar Radicular Pain and Spinal Stenosis Systematic Review Summary: Report of the AAN Guidelines Subcommittee. Neurology. 2025.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12289388/)
 - [Sculier JP. Un traitement chirurgical d'une sciatique n'est pas associé à une amélioration à long terme par rapport à une approche conservative. Minerva. 2024.](https://minerva-ebp.be/FR/Analysis/849)
 - Prescrire Redaction. Signes d'atteinte radiculaire par hernie discale en cas de lombosciatique récente. 2022.
 - [Chou R, et al. Systemic corticosteroids for radicular and non‐radicular low back pain. Cochrane Database of Systematic Reviews. 2022.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012450.pub2/full)
@@ -158,6 +159,7 @@ En cas de douleurs séquellaires post-opératoires ou non opérables, avis du **
 
 ### Bibliographie en attente
 
+- [Rougon H, et al. Adhésion des ostéopathes aux recommandations diagnostiques dans les lomboradiculalgies : une étude exploratoire quantitative. Mains Libres. 2025.](https://www.mainslibres.ch/mains-libres/2025/mains-libres-4-25/adhesion-des-osteopathes-aux-recommandations-diagnostiques-dans-les-lomboradiculalgies-une-etude-exploratoire-quantitative)
 - [Price MR, et al. Medication recommendations for treatment of lumbosacral radiculopathy: A systematic review of clinical practice guidelines. PM R. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/pmrj.13142) (payant)
 
 Mot-clé: sciatalgie
