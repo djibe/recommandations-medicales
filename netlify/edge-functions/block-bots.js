@@ -9,13 +9,8 @@ const botUas = [
   'AzureAI-SearchBot',
   'axios',
   'Clinicia-Medical-Assistant',
-  'ChatGPT',
-  'ChatGPT-User',
-  'Claude-User',
-  'ClaudeBot',
   'curl',
   'Go-http-client',
-  'Google-NotebookLM',
   'got',
   'GuzzleHttp',
   'HeadlessChrome',
@@ -25,7 +20,6 @@ const botUas = [
   'LamarkBot',
   'Manus-User',
   'MJ12bot',
-  'OAI-SearchBot',
   'okhttp',
   'PetalBot',
   'python',
@@ -42,6 +36,18 @@ export default async (request, context) => {
   // Always allow robots.txt
   if (url.pathname === '/robots.txt') {
     return context.next();
+  }
+
+  const forbiddenBots = ['ChatGPT', 'ChatGPT-User', 'Claude-User', 'ClaudeBot', 'Google-NotebookLM', 'OAI-SearchBot'];
+  const isForbiddenBot = forbiddenBots.some(u =>
+    ua.toLowerCase().includes(u)
+  );
+
+  if (isForbiddenBot) {
+    return new Response('403 Forbidden: AI bots are not permitted.', {
+      status: 403,
+      headers: { 'content-type': 'text/plain' }
+    });
   }
 
   const isBot = botUas.some(u =>
