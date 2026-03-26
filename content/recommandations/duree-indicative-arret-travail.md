@@ -41,4 +41,4 @@ En l'absence de mention, la durée de l'arrêt de travail concerne un **patient 
 
 ## Source {.mt-5}
 
-Appli *ameli Mémo*: [Android](https://play.google.com/store/apps/details?id=fr.cnamts.amelimemo&hl=fr), [iOS](https://apps.apple.com/fr/app/ameli-m%C3%A9mo/id1304468265)
+Appli *ameli Mémo*: [Android](https://play.google.com/store/apps/details?id=fr.cnamts.amelimemo&hl=fr), [iOS](https://apps.apple.com/fr/app/ameli-m%C3%A9mo/id1304468265) (retirée ?)

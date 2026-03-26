@@ -197,7 +197,7 @@ Informations sur la scoliose:
 - [Collège Français des Chirurgiens Orthopédistes et Traumatologues. Suivi d'un nourrisson, d'un enfant, et d'un adolescent normal. Dépistage des anomalies orthopédiques. Orthopédie Traumatologie. 3e édition. 2020. (PDF)](https://www.sofcot.fr/sites/www.sofcot.fr/files/medias/documents/CollegeOrthop%C3%A9dieTraumatologieELLIPSES%203%C3%A8me%20%C3%A9dition.pdf)
 - [HAS. Scoliose idiopathique structurale évolutive. Actes et prestations Affection de longue durée. 2018.](https://www.has-sante.fr/jcms/c_646714/fr/ald-n-26-scoliose-idiopathique-structurale-evolutive)
 - [US Preventive Services Task Force. Screening for Adolescent Idiopathic Scoliosis: US Preventive Services Task Force Recommendation Statement. JAMA. 2018.](https://jamanetwork.com/journals/jama/fullarticle/2668355)
-- [Blevins K, et al. Management of Scoliosis. Adv Pediatr. 2018.](https://www.advancesinpediatrics.com/article/S0065-3101(18)30014-8/fulltext) (payant)
+- [Blevins K, et al. Management of Scoliosis. Adv Pediatr. 2018.](https://www.advancesinpediatrics.com/article/S0065-3101(18)30014-8/abstract) (payant)
 - [Negrini S, et al. Braces for idiopathic scoliosis in adolescents. Cochrane Database of Systematic Reviews. 2015.](https://www.cochrane.org/CD006850/BACK_braces-for-idiopathic-scoliosis-in-adolescents)
 - Courtois I, Ebermeyer E. Scoliose de l'enfant et de l'adolescent. La Lettre du Rhumatologue. 2010.
 - HAS. Scoliose structurale évolutive (dont l'angle est égal ou supérieur à 25°) jusqu'à maturation rachidienne. Guide Affection de longue durée. 2008.

@@ -362,8 +362,6 @@ risque["<b>Sujet à risque de mélanome</b><br>—<br>- Phototype clair<br>- Ép
 - [Michielin O, et al. ESMO consensus conference recommendations on the management of locoregional melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39940-3/fulltext)
 - [Keilholz U, et al. ESMO consensus conference recommendations on the management of metastatic melanoma: under the auspices of the ESMO Guidelines Committee. Annals of Oncology. 2020.](https://www.annalsofoncology.org/article/S0923-7534(20)39939-7/fulltext)
 - [HAS. Mélanome cutané : la détection précoce est essentielle. 11/02/2020.](https://www.has-sante.fr/jcms/pprd_2974838/fr/melanome-cutane-la-detection-precoce-est-essentielle?fbclid=IwAR0lsNr1vfC7AvM-SeKrLZlYNiRb0q4bgx4_mgwkQRRjHLJNMPPIlmxWC_U)
-- [Oncologik. Mélanomes vulvaires et vaginaux. 24/01/2020.](http://oncologik.fr/referentiels/rrc/melanomes-vulvaires-et-vaginaux)
-- [Oncologik. Mélanome cutané. 22/03/2019.](http://oncologik.fr/referentiels/oncolor/melanome-cutane)
 - [INCa. Traitements du mélanome avancé. 2017.](https://www.cancer.fr/catalogue-des-publications/traitements-du-melanome-avance)
 - Collège des enseignants de dermatologie de France (CEDEF). Tumeurs cutanées épithéliales et mélaniques. Item 299 UE 9. 2017.
 - [INCa. Détection précoce des cancers de la peau - Médecins généralistes. 2016.](https://www.cancer.fr/catalogue-des-publications/detection-precoce-des-cancers-de-la-peau-medecins-generalistes)
@@ -372,6 +370,8 @@ risque["<b>Sujet à risque de mélanome</b><br>—<br>- Phototype clair<br>- Ép
 
 ### Bibliographie en attente
 
+- [Funck-Brentano E, Montaudié H. Algorithmes de prise en charge des mélanomes. Oncologik. Novembre 2025.](https://www.cancer-et-peau.com/espace-medecins/algorithme-prise-charge-melanomes)
+- [Oncologik. Mélanomes vulvaires et vaginaux. 2024.](http://oncologik.fr/referentiels/rrc/melanomes-vulvaires-et-vaginaux)
 - [Garbe C, et al. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2024. Eur J Cancer. 2024.](https://www.ejcancer.com/article/S0959-8049(24)01759-3/abstract)
 - [Garbe C, et al. European consensus-based interdisciplinary guideline for melanoma. Part 2: Treatment - Update 2024. Eur J Cancer. 2025.](https://www.ejcancer.com/article/S0959-8049(24)01760-X/abstract)
 

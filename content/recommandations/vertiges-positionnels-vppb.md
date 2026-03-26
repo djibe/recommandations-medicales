@@ -165,10 +165,11 @@ Rechercher les signes et symptômes du VPPB et étayer le diagnostic différenti
 - Examen cardiovasculaire
 - Évaluation du **risque de chute** chez les personnes fragiles
 
-Manœuvre de Dix-Hallpike (se 80%, spe 70%)
+Manœuvre de Dix-Hallpike (se 80 %, spe 70 %)
 : La manœuvre de Dix-Hallpike déclenche un nystagmus caractéristique lors d'une atteinte du canal postérieur: nystagmus vertical (mouvement rapide vers le front) et rotatoire (pôle supérieur de l'œil bat vers le sol). Le nystagmus augmente en intensité puis disparaît en moins d'une minute.
-: Elle est dite positive quand déclenche simultanément vertige et nystagmus.  
-Voir les vidéos dans la section *Sources* plus bas.
+: Elle est dite positive quand déclenche simultanément vertige et nystagmus.
+
+{{< youtube id="1obEgiJj-IA" title="Manœuvre de Dix et Hallpike (ORL INFORMATION)" >}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -176,7 +177,7 @@ Voir les vidéos dans la section *Sources* plus bas.
 > [!INFO]
 > **Adresser à l'ORL** au premier épisode de vertiges pour examens auditifs systématiques (audiométrie tonale et vocale, impédancemétrie).
 
-Les autres examens dépendent de l'avis de l'ORL ou de VPPB atypiques (IRM cérébrale ++).
+Les autres examens dépendent de l'avis de l'ORL ou de VPPB atypiques (**IRM** de l'oreille interne et du conduit auditif interne).
 
 {{% /collapse %}}
 {{%collapse "Traitement du VPPB" %}}
@@ -214,8 +215,8 @@ La prise en charge du VPPB par des manœuvres est indiquée en cas de vertiges p
 {{< mermaid title="Prise en charge des vertiges paroxystiques positionnels bénins (VPPB) par le médecin généraliste. Drs JB Fron et Alaedine Benani d'après SFORL" >}}
 graph TB
   vertiges["<b>Vertiges</b><br>—<br>Illusion de mouvement"] --> gravité("<b>Signe de gravité ?</b><br>—<br>- Traumatisme crânien ou cervical<br>- Céphalée violente et brusque<br>- Cervicalgies récentes<br>- Déficit neurologique<br>- Nystagmus atypique<br>vers le menton, spontané ou<br>persistant au regard fixe<br>- Marche impossible sans chute<br>- Surdité brusque, acouphènes<br>- Otalgie<br>- Enfant<br>- VPPB &gt; 1 mois") -- Non --> clinique("<b>Clinique</b><br>—<br>- Antécédents ORL,<br>cardiovasculaires<br>- Traitements<br>- Caractères des vertiges:<br>brefs, répétés, reproductibles ...<br>- Examen neurologique<br>- Examen ORL") -- Critères remplis --> VPPB(VPPB) -- "Premier épisode<br>ou &gt; 1 mois" --> ORL("Consultation ORL")
-  gravité -- Oui --> samu(Appel du SAMU)
-    clinique -- Doute --> samu
+  gravité -- Oui --> SAMU(Appel du SAMU)
+    clinique -- Doute --> SAMU
       VPPB --> traitement("<b>Traitement</b><br>—<br>- Information<br>- Pas de traitement<br>- Ordonnance anticipée<br>pour les manœuvres") -. "Persistance &gt; 1 mois" .-> ORL
         traitement -- "Vertiges<br>mal tolérés" --> manoeuvre("Manœuvres par<br>kiné ou ORL")
   style vertiges stroke:#4150f5, stroke-width:1px
@@ -224,11 +225,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-{{< youtube id="1obEgiJj-IA" title="Manœuvre de Dix et Hallpike (ORL INFORMATION)" >}}
-
 {{< youtube id="iIQrWzeVX2Y" title="Manœuvre d'Epley (ORL INFORMATION)" >}}
-
-[Vidéo pédagogique de la manœuvre d'Epley](https://x.com/Dr_Agibus/status/1812842408897400908)
 
 {{< youtube id="6hkOuBKGJkI" title="Manœuvre de Semont (JAMA Network)" >}}
 
@@ -237,6 +234,7 @@ graph TB
 - [HAS. Vertiges positionnels paroxystiques bénins : Manoeuvres diagnostiques et thérapeutiques. 2017.](https://www.has-sante.fr/jcms/c_2819896/fr/vertiges-positionnels-paroxystiques-benins-manoeuvres-diagnostiques-et-therapeutiques)
 - [Collège Français d'ORL & CCF. Vertige. Item 101 UE4. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/Item-101-Vertige.pdf)
 - [SFORL. Thème : vertige positionnel paroxystique bénin. Janvier 2012. (PDF)](https://www.sforl.org/wp-content/uploads/2020/02/Vertige-Positionnel-Paroxystique-Benin-2012-Janvier.pdf)
+- {{< references/aderim >}}
 
 ### Bibliographie en attente
 

@@ -32,7 +32,7 @@ flowchart = true
   - En l'absence de contact à risque ou si le clade (I ou II) du cas primaire n'est pas connu: RT-PCR MPXV en urgence sur 1 ou 2 lésions muqueuses
 - Diagnostic de Mpox: isolement strict avec prévention des surinfections des lésions, déclaration obligatoire et remise de [la conduite à tenir (PDF)](https://sante.gouv.fr/IMG/pdf/flyer_cas_confirmes_mkp_120822_vdef.pdf)
 - Vaccination des personnes à risque de Monkeypox: [où se faire vacciner contre Monkeypox ?](https://www.sante.fr/mpox) ou [vaccination MKPX en Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients) sur auto-déclaration du statut de personne cible (voir *Prévention*)
-- Site d'information [Sexosafe](https://www.sexosafe.fr/Variole-du-singe) pour les HSH et [Flyer d'info Variole du singe](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-transmissibles-de-l-animal-a-l-homme/mpox/documents/depliant-flyer/info-mpox-flyer-a5) (*SPF*)
+- Site d'information [Sexosafe](https://www.sexosafe.fr/ma-sante/prevention-et-depistage/mpox-ex-variole-du-singe) pour les HSH et [Flyer d'info Variole du singe](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-transmissibles-de-l-animal-a-l-homme/mpox/documents/depliant-flyer/info-mpox-flyer-a5) (*SPF*)
 - Monkeypox Info Service Grand public: {{<phone>}}0 801 90 80 69{{</phone>}} (8-23h)
 
 Chapitre lié: [hommes ayant des rapports avec des hommes]({{% relref "hsh.md" %}})
@@ -295,7 +295,6 @@ graph TB
 - [HAS. Monkeypox : une vaccination préventive proposée aux personnes les plus à risque d'exposition. 08/07/2022.](https://www.has-sante.fr/jcms/p_3351443/fr/monkeypox-une-vaccination-preventive-proposee-aux-personnes-les-plus-a-risque-d-exposition)
 - [HCSP. Avis relatif relatif à la conduite à tenir pour les cas confirmés d'infection à Monkeypox virus (MPXV) à risque de forme grave et pour les personnes contacts à risque d'infection par MPXV. 09/06/2022.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=1216)
 - [HCSP. Avis relatif à la conduite à tenir autour d'un cas suspect, probable ou confirmé d'infection à Monkeypox virus. 24/05/2022.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=1216)
-- [Sante.fr. Monkeypox : ressources et supports de communication](https://www.sante.fr/mpox-ressources-et-supports-de-communication)
 - [Société Française de Dermatologie. Monkeypox Virus Manifestations dermatologiques.](https://www.sfdermato.org/upload/news/groupemonkeypeauxfinal-1.pdf)
 - [Institut Pasteur. Variole du singe (Monkeypox).](https://www.pasteur.fr/fr/centre-medical/fiches-maladies/variole-du-singe-monkeypox?utm_source=sendinblue&utm_campaign=Newsletter%20de%20lInstitut%20Pasteur%20-%20N%2054&utm_medium=email)
 

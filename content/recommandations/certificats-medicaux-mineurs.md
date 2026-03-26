@@ -60,7 +60,7 @@ Chapitre lié: [certificat de non contre-indication à la pratique du sport]({{%
 | Etablissement scolaire / Cantine scolaire | Certificat médical en cas de maladie contagieuse (lourde avec PAI) | Oui | Arrêté du 3 mai 1989 |
 | Etablissement scolaire / Cantine scolaire | PAI | Non | La circulaire du 10 février 2021 relative au PAI, ne prévoit pas la production d'un certificat médical. |
 | Etablissement scolaire / Divers | Rentrée scolaire | Non | Seule l’attestation des vaccins obligatoires à jour est nécessaire. Décret n° 2009-553 du 15 mai 2009 |
-| Etablissement scolaire / Divers | Absence | Non | Aucun texte ne prévoit la production d'un certificat sauf en cas de maladie contagieuse<br> Cf. [BO de l'éducation nationale n°43 du 19 novembre 2009.](https://www.education.gouv.fr/sites/default/files/imported_files/documents/bulletin-officiel-men-43-19-11-09_126829.pdf) |
+| Etablissement scolaire / Divers | Absence | Non | Aucun texte ne prévoit la production d'un certificat sauf en cas de maladie contagieuse<br> Cf. [BO de l'éducation nationale n°43 du 19 novembre 2009.](https://www.education.gouv.fr/bo/2009/43/mene0924735n.html) |
 | Etablissement scolaire / Divers | Absence - maladie contagieuse | Oui | Arrêté du 3/051989 relatif aux durées et conditions d'éviction, mesures de prophylaxie à prendre à l'égard des élèves et du personnel dans les établissements d'enseignement et d'éducation publics et privés en cas de maladies contagieuses |
 | Etablissement scolaire / Divers | Sortie scolaire ou voyage collectif | Non | Aucun certificat n’est nécessaire lors de sorties ou voyages collectifs. Décret n° 2009-553 du 15 mai 2009 |
 | Etablissement scolaire / Divers | Participation au cours d'EPS | Non | Pas de texte |
