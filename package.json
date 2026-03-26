@@ -56,7 +56,7 @@
     "apexcharts": "^5.10.4",
     "cli-real-favicon": "^0.0.9",
     "cross-env": "^10.1.0",
-    "dwv": "0.36.1",
+    "dwv": "0.36.2",
     "dwv-simplistic": "^0.10.0",
     "hint": "^7.1.13",
     "html-validate": "^10.11.1",
