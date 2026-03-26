@@ -15,8 +15,8 @@ tags = ["diabète", "insuline", "sueurs nocturnes", "vertige"]
 english = ["Hypoglycemia", "hypoglycaemia"]
 sctid = "302866003"
 icd10 = ["E16.2"]
-image = false
-imageSrc = ""
+image = true
+imageSrc = "L'hypoglycémie diabétique. JB Fron, CC-BY-NC-SA-4.0"
 todo = "liens > photo > Kanban | délai 30 minutes capteur, hypoglycémie sévère"
 +++
 
