@@ -9,9 +9,9 @@ synonyms = ["AOMI", "artériopathie aorto-iliaque et des membres inférieurs", "
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-05-05T18:53:00+02:00"
 publishdate = "2021-05-16"
-lastmod = "2025-04-24"
+lastmod = "2026-03-27"
 specialites = ["cardiologie"]
-annees = "2021"
+annees = "2024"
 sources = ["ESC", "HAS", "SFMV"]
 tags = ["antiplaquettaire", "BPCO", "dépistage", "diabète", "épreuve effort", "HTA", "neuropathie", "risque cardiovasculaire", "SAS", "tabac", "vaccin"]
 english = ["Lower extremity artery disease (LEAD)"]
@@ -21,16 +21,17 @@ image = true
 imageSrc = "Illustration de l'AOMI. macrovector / Freepik"
 rank = "ok"
 flowchart = true
-todo = "centres réadapt vasculaire, QDV EQ-5D, association patient, https://pubmed.ncbi.nlm.nih.gov/33401955/, https://pubmed.ncbi.nlm.nih.gov/1474406/, Éducation thérapeutique"
+todo = "centres réadapt vasculaire, QDV EQ-5D, association patient, https://pubmed.ncbi.nlm.nih.gov/1474406/, Éducation thérapeutique"
 +++
 
 {{%article-summary%}}
 
-- Dépister largement l'artériopathie par index de pression systolique (IPS): {{< modal-btn modal-depistage-prevalent >}}ciblé +55 ans{{< /modal-btn >}}, +65 ans, +50 ans avec antécédent familial ou ≥ 1 autre FRCV, claudication vasculaire, athérome, [anévrysme de l'aorte]({{% relref "anevrysme-aorte-abdominale.md" %}}), [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}), [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}), {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}
-- La présence d'une artériopathie des membres inférieurs définit un {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}}
-- Bilan des autres localisations athéromateuses
-- Suivi spécialisé de l'artériopathie par cardiologue et angiologue
-- Prise en charge de l'artériopathie des membres inférieurs (AOMI): {{< modal-btn modal-statine-intensite >}}statine{{< /modal-btn >}} pour LDL {{< modal-btn modal-rcv >}}< 0,55 g/L{{< /modal-btn >}} (0,4 si coronaropathie), {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, sevrage tabagique, clopidogrel, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
+- L'artériopathie oblitérante des membres inférieurs (AOMI) est une obstruction athéromateuse partielle ou totale des artères des membres inférieurs, le plus souvent asymptomatique
+- Dépister largement l'artériopathie par index de pression systolique (IPS): {{< modal-btn modal-depistage-prevalent >}}ciblé +55 ans{{< /modal-btn >}}, +65 ans, +50 ans avec antécédent familial ou ≥ 1 autre facteur de risque cardiovasculaire (FRCV), claudication vasculaire, athérome, [anévrysme de l'aorte]({{% relref "anevrysme-aorte-abdominale.md" %}}), [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}), [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}), {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé{{< /modal-btn >}}
+- La présence d'une artériopathie des membres inférieurs définit un {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}}:
+  - Bilan des autres localisations athéromateuses (coronaires, carotides)
+  - Suivi spécialisé (cardiologue, angiologue)
+- Prise en charge de l'artériopathie des membres inférieurs (AOMI): {{< modal-btn modal-statine-intensite >}}statine{{< /modal-btn >}} pour LDL {{< modal-btn modal-rcv >}}< 0,55 g/L{{< /modal-btn >}} (0,4 si coronaropathie associée), {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, sevrage tabagique, clopidogrel si symptomatique ou rivaroxaban + aspirine si diabète ou insuffisance d'organe, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -38,12 +39,13 @@ todo = "centres réadapt vasculaire, QDV EQ-5D, association patient, https://pub
 Artériopathie oblitérante des membres inférieurs (AOMI)
 : Obstruction athéromateuse partielle ou totale des artères des membres inférieurs, le plus souvent asymptomatique.
 : Les facteurs majeurs d'artérite sont: âge, tabac, [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), dyslipidémie et [diabète]({{% relref "diabete-type-2.md" %}}).
-: 3 stades: asymptomatique (20-50%), ischémie d'effort (45%, dont seulement 10-35 % de claudication typique) et ischémie de repos (ou *critique*, < 5%).
+: 3 stades: asymptomatique (20-50 %), ischémie d'effort (45 %, dont seulement 10-35 % de claudication typique) et ischémie de repos (ou *critique*, < 5 %).
 : Patients à {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}} par atteinte artérielle globale:
-    - [Coronaropathie (50%) et infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}) (IDM)
+    - Évènements cardiovasculaires x 4-5
+    - [Coronaropathie (50 %) et infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}) (IDM)
     - [Accident vasculaire cérébral]({{% relref "accident-vasculaire-cerebral.md" %}})
     - Mortalité cardiovasculaire  
-    Corrélation IPS-mortalité forte.
+      Corrélation IPS-mortalité forte.
 
 AOMI masquée
 : Artériopathie *asymptomatique* liée à une neuropathie ou un niveau d'activité physique insuffisant pour révéler la claudication ([BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), insuffisance cardiaque, sédentarité).
@@ -262,41 +264,46 @@ L'échodoppler artériel confirme les lésions d'AOMI et est couplé au [dépist
 {{% /collapse %}}
 {{%collapse "Traitement de l'AOMI" %}}
 
+> [!INFO]
+> Éléments vitaux du suivi de l'AOMI: suivi cardiologique spécialisé, traitement systématique par statine et IEC, sevrage tabagique et mesures d'hygiène.
+
 **Objectif de la prise en charge de l'artériopathie:** obtenir une amélioration du périmètre de marche et restaurer une qualité de vie.
 
-Prise en charge de l'artériopathie (AOMI): Suivi cardiologique spécialisé, traitement systématique par statine et IEC, sevrage tabagique et mesures d'hygiène.
-{.alert .alert-info}
+Recommandations pour la prise en charge de l'artériopathie (AOMI):
 
-- Réadaptation vasculaire en centre voire par kinésithérapeute
-- {{< modal-btn modal-statine-intensite >}}Statine systématique{{< /modal-btn >}}
-  - {{< modal-btn modal-rcv >}}LDL cible < 0,55 g/L{{< /modal-btn >}} (et réduction ≥ 50 %) avec contrôle annuel
-- Clopidogrel 75 mg/j
-  - Indications: claudication ou AOMI masquée, MCV, revascularisation du MI ou diabète à haut RCV
-  - Sinon aspirine 75-100 mg/j
-  - Si double antiagrégant: pantoprazole
+- **Réadaptation vasculaire** en centre voire par kinésithérapeute
+- {{< modal-btn modal-statine-intensite >}}Statine systématique{{< /modal-btn >}}  
+  {{< modal-btn modal-rcv >}}LDL cible < 0,55 g/L{{< /modal-btn >}} (et réduction ≥ 50 %) avec contrôle annuel.
+- **Antiaggrégants plaquettaires**
+  - Indications: symptomatique ou AOMI masquée, maladie cardiovasculaire, revascularisation du MI; considérer si diabétique asymptomatique (aspirine 75-100 mg/j)
+  - [Clopidogrel](https://base-donnees-publique.medicaments.gouv.fr/medicament/67971897/extrait#tab-rcp) 75 mg/j (ou aspirine 75-160 mg/j)
+- [Rivaroxaban 2,5 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/62533076/extrait#tab-rcp-et-notice) x 2/j + [aspirine](https://base-donnees-publique.medicaments.gouv.fr/medicament/61946403/extrait#tab-rcp) 100 mg/j
+  - Considérer si: haut risque ischémique (antécédents de revascularisation ou d'amputation, ischémie critique menaçant l'intégrité du membre, comorbidité à haut risque -- insuffisance rénale, cardiaque, diabète, maladie vasculaire touchant au moins deux voies vasculaires), sans risque hémorragique élevé
 - {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} systématique (voire ARA2, *SFMV 2020*).
 - Pression artérielle cible 120-139/90 mmHg
   - Cible moindre en atteinte sévère pour maintien de pression distale
   - Classes possibles: TZD, IEC/ARA2, anticalcique voire BB
   - Précautions avec les BB en ischémie chronique
   - Apports sodés < 5 g/j
-- Mesures hygiéno-diététiques
+- **Mesures hygiéno-diététiques:**
   - **[Arrêt du tabac]({{% relref "arret-tabac.md" %}})**
   - Activité physique quotidienne: auto-exercices et podomètre ([guide patient HAS APA](https://www.has-sante.fr/jcms/p_3476970/fr/l-activite-physique-pour-votre-sante-arteriopathie-chronique-obliterante-atheromateuse-des-membres-inferieurs-aomi))
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Correction d'un surpoids  
     Évaluations diététiques répétées, lutte contre la {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}}.
   - Vaccins: [grippe annuelle]({{% relref "grippe.md" %}}) (*SFMV 2020*), tétanos
-- Suivi
-  - Suivi au moins annuel, IPS et doppler recontrôlés en modification des symptômes
+- Information du patient: [guide Ameli](https://www.ameli.fr/assure/sante/themes/arteriopathie-obliterante-arterite-des-membres-inferieurs/definition-causes-facteurs-risque)
+- **Suivi:**
+  - Suivi au moins annuel, IPS et doppler recontrôlés en cas de modification des symptômes
   - Cardiologique systématique  
     Par {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}} pour évaluer le risque coronarien et d'insuffisance cardiaque.
   - Suivi angiologique
-- Si diabète
+- **Si diabète:**
   - PAD cible < 85 mmHg
-  - {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7%{{< /modal-btn >}} (*SFD 2019*, *SFMV 2020*)
+  - {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7 %{{< /modal-btn >}}
   - ≤ 8 % si comorbidité sévère ou espérance de vie < 5 ans
-  - AOMI symptomatique: envisager rivaroxaban 2,5 mg x 2/j + aspirine 100 mg/j (*ESC 2021 CVD*)
+  - AOMI asymptomatique: aspirine 75-100 mg/j pourrait être considéré
+  - AOMI symptomatique: rivaroxaban 2,5 mg x 2/j + aspirine 100 mg/j devrait être considéré
 - [ALD n°3]({{% relref "affection-longue-duree.md" %}})  
   Indication: ischémie permanente chronique, épisode d'ischémie aiguë ou ayant nécessité revascularisation ou amputation.
 - {{< references/compare >}}
@@ -306,14 +313,9 @@ Prise en charge de l'artériopathie (AOMI): Suivi cardiologique spécialisé, tr
 Pour l'ulcère mixte à prédominance veineuse (IPS < 0,8 ou > 1,3), adapter la compression: pression < 30 mmHg par bande à étirement court, surveillance spécialisée, informer sur le retrait en cas d'aggravation des douleurs (*HAS 2006*).
 
 {{% /collapse %}}
-{{%collapse "Information du patient" %}}
-
-[HAS : La prise en charge de votre artérite des membres inférieurs (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2008-06/08-098_gp_maladie_corona_2008-06-16_14-30-47_587.pdf)
-
-{{% /collapse %}}
 {{%collapse "Conduite à tenir pour le dépistage de l'AOMI" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le dépistage de l'AOMI. Dr JB Fron d'après SFMV 2020 et ESC 2017" >}}
+{{< mermaid title="Conduite à tenir pour le dépistage de l'AOMI. Dr JB Fron d'après ESC et SFMV" >}}
 graph TB
   depister["<b>Personne à risque</b> <br><b>ou symptomatique</b><br>—<br>- Ulcère de jambe<br>- Suspicion clinique<br>- Athérome connu<br>- Anévrysme aortique<br>- Insuff. rénale<br>- Insuff. cardiaque<br>- Dépistage PREVALENT<br>- Âge ≥ 65 ans<br>- Risque CV élevé<br>- ≥ 50 ans et ATCD familial AOMI<br>ou ≥ 1 autre FRCV"] --> clinique("- Interrogatoire<br>- Examen clinique")
   style depister stroke:#4150f5, stroke-width:1px
@@ -321,7 +323,7 @@ graph TB
       ips -- "IPS ≤ 0,9 et IPSGO ≤ 0,7" --> AOMI(Diagnostic d'AOMI)
       style AOMI stroke:#4150f5, stroke-width:1px
         AOMI --> bilan("<b>Bilan de l'athérome</b><br>—<br>- Biologie<br>- Doppler MI, Ao et TSA<br>- ECG<br>- Cardiologue")
-          bilan --> ttt("<b>Très haut risque cardiovasculaire</b><br>—<br>- Sevrage tabagique<br>- LDL &lt; 0,55 g/L<br>- Clopidogrel si claudication/masquée<br>- IEC<br>- PA 120-140/90 mmHg<br>- Suivi cardio + angiologue<br>- Réadaptation vasculaire<br>- Vaccin grippe + tétanos<br>- Sel &lt; 5 g/j<br>- Régime méditerranéen<br>- Activité 30-60 min/j")
+          bilan --> ttt("<b>Très haut risque cardiovasculaire</b><br>—<br>- Sevrage tabagique<br>- IEC pour<br>PA 120-140/90 mmHg<br>- Statine pour<br>LDL &lt; 0,55 g/L<br>- Clopidogrel si claudication/masquée<br>- ou rivaroxaban + aspirine<br>si insuffisance d'organe<br>ou diabète<br>- Suivi cardio + angiologue<br>- Réadaptation vasculaire<br>- Vaccin grippe + tétanos<br>- Autres mesures: sel &lt; 5 g/j,<br>régime méditerranéen,<br> activité 30-60 min/j")
       ips -- "Autres" --> doppler(Bilan angiologique)
     clinique -- Différentiel --> diff("- Sd des loges<br>- Sciatalgie<br>- Canal lombaire étroit<br>- Coxarthrose<br>- Kyste poplité<br>- Métastase osseuse<br>- Congestion veineuse")
 {{< /mermaid >}}
@@ -334,10 +336,12 @@ graph TB
 {{< youtube id="JFJK6ODqPnc" title="ABPI measurement (OSCE Guide)" >}}
 
 - [Mach F, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/article/46/42/4359/8234482)
+- [Mazzolai L, et al. 2024 ESC Guidelines for the management of peripheral arterial and aortic diseases. Eur Heart J. 2024.](https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae179)
 - {{< references/esc-cvd >}}
 - {{< references/sfd-dt2-2023 >}}
 - [HAS. Artériopathie oblitérante des membres inférieurs. Actes et prestations Affection de longue durée. 2021.](https://www.has-sante.fr/jcms/c_534760/fr/ald-n3-arteriopathie-obliterante-des-membres-inferieurs)
 - [Mahé G, et al, the SFMV/SCVE group. Disparities between international guidelines (AHA/ESC/ESVS/ESVM/SVS) concerning - Lower extremity arterial disease: consensus of the French Society of Vascular Medicine (SFMV) and the French Society for Vascular and Endovascular Surgery (SCVE). Annals of Vascular Surgery. 2021.](https://doi.org/10.1016/j.avsg.2020.11.011)
+- Boylan L, Nesbitt C, Wilson L, et al. Reliability of the Edinburgh Claudication Questionnaire for Identifying Symptomatic PAD in General Practice. Angiology. 2021;72(5):474-479. doi:10.1177/0003319720984882
 - {{< references/esc-dyslipidaemias >}}
 - Prescrire Redaction. Signes d'artériopathie des membres inférieurs. Rev Prescrire. 2019.
 - [Aboyans A, et al. 2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS): Document covering atherosclerotic disease of extracranial carotid and vertebral, mesenteric, renal, upper and lower extremity arteries. Endorsed by: the European Stroke Organization (ESO) The Task Force for the Diagnosis and Treatment of Peripheral Arterial Diseases of the European Society of Cardiology (ESC) and of the European Society for Vascular Surgery (ESVS). Eur Heart J. 2018.](https://doi.org/10.1093/eurheartj/ehx095)
