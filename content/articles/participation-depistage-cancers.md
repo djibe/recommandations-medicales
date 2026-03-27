@@ -7,7 +7,7 @@ description = "Taux de participation des Français au dépistage organisé des c
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-08-15T19:54:00+02:00"
 publishdate = "2021-08-18"
-lastmod = "2025-07-09"
+lastmod = "2026-03-26"
 specialites = []
 annees = "2025"
 sources = ["Santé Publique France"]
@@ -25,18 +25,25 @@ Pourtant, plus le cancer tue, moins les Français participent à sa prévention 
 
 Le taux maximal de participation au dépistage, qui atteint 59,5 %, concerne le cancer du col de l'utérus, responsable pour sa part de 836 décès annuels (métropole 2022).
 
-Pour tous les dépistages, les taux de participation restent très en-dessous des attentes de santé publique.
+Pour tous les dépistages, les taux de participation restent très en-dessous des attentes de santé publique, et bien en-dessous des dépistages dans les autres grands pays européens (Espagne 70,2 %, Italie 55,4 % ...).
 
 **NB.** La liste des patients n'ayant pas participé au dépistage organisé d'un cancer est désormais disponible depuis *AmeliPro* (*[Ameli Médecin](https://www.ameli.fr/medecin/actualites/la-liste-des-patients-n-ayant-pas-realise-leurs-depistages-de-cancers-est-disponible-dans-amelipro)*).
 
-## Graphique de la participation au dépistage organisé des cancers et décès par cancer
+## Graphique de la participation au dépistage organisé des cancers et décès par cancer {.mt-5}
 
 Représentation des taux de participation aux dépistages organisés des cancers et mortalité associée à ces cancers.
 
 {{< figure-chart title="Participation au dépistage organisé des cancers par les Français (dépistages: col 2020-2022 - sein 2023-2024 - colorectal 2023-2024). Dr JB Fron d'après dernières données Santé Publique France" >}}
 
-## Sources
+## Comparaison de la participation au dépistage du cancer du sein en France et en Europe {.mt-5}
 
+Les françaises ont le taux de participation parmi les plus faibles des pays de l'Union européenne en ce qui concerne le dépistage du cancer du sein. Le plus fort taux est obtenu par les danoises, avec 83,3 %. Dans un pays au système de santé très proche, comme la Belgique, le taux de participation y est de 58 %. Sur les données 2023, la France ferme le peloton avec 46,7 % (2023), seulement suivie par la Pologne (37,3 %).
+
+{{< figure-chart title="Participation au dépistage du cancer du sein en France et en Europe (données 2023). Dr JB Fron d'après Eurostat" id="chart-2" >}}
+
+## Sources {.mt-5}
+
+- [Eurostat. Cancer screening statistics. 2025.](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Cancer_screening_statistics)
 - [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [Santé Publique France. Participation au programme de dépistage organisé du cancer du col de l’utérus. Année 2023 et évolution depuis 2017. 2025.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-col-de-l-uterus/documents/bulletin-national/participation-au-programme-de-depistage-organise-du-cancer-du-col-de-l-uterus.-annee-2023-et-evolution-depuis-2017)
 - [Taux de participation au programme de dépistage organisé du cancer du sein 2022-2023 et évolution depuis 2005. Santé Publique France. 2024.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-sein/articles/taux-de-participation-au-programme-de-depistage-organise-du-cancer-du-sein-2022-2023-et-evolution-depuis-2005)
@@ -65,8 +72,7 @@ const chartOptions1 = {
   yaxis: [
     {
       title: {
-        text: "Participation (%)",
-        style: { color: '#4150f5' }
+        text: "Participation (%)"
       },
       labels: {
         style: { colors: '#757575' }
@@ -78,7 +84,6 @@ const chartOptions1 = {
         decimalsInFloat: false,
         title: {
           text: "Mortalité annuelle",
-          style: {color: '#ffa600'}
         },
         labels: {
         style: { colors: '#757575' }
@@ -87,9 +92,38 @@ const chartOptions1 = {
   ],
   tooltip: {
     y: [
-      { formatter: function(value) { return value + '%' }},
+      { formatter: function(value) { return value + ' %' }},
       { formatter: function(value) { return value + ' décès/an' }}
     ]
-  }
+  },
+  colors:['#AF34DC', '#000']
+}
+
+const chartOptions2 = {
+  series: [{
+    name: 'Participation',
+    data: [
+    { x: 'Danemark', y: 83.3},
+    { x: 'Finlande', y: 81.5},
+    { x: 'Norvège', y: 76.6},
+    { x: 'Pays-Bas', y: 70.2},
+    { x: 'Espagne', y: 68.9},
+    { x: 'Belgique', y: 58},
+    { x: 'Italie', y: 55.4},
+    { x: 'Allemagne', y: 52},
+    { x: 'France', y: 46.7, fillColor: '#000'},
+    { x: 'Pologne', y: 37.3},
+    ]
+  }],
+  chart: { type: 'bar', height: 480 },
+  plotOptions: { bar: { horizontal: true } },
+  title: { text: 'Participation au dépistage du cancer du sein' },
+  xaxis: { title: { text: '' }, max: 90 },
+  tooltip: {
+    y: [
+      { formatter: function(value) { return value + ' %' }}
+    ]
+  },
+  colors:['#AF34DC']
 }
 </script>
