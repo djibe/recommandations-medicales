@@ -199,4 +199,3 @@ Disallow: /js/
 Disallow: /offline/
 
 Sitemap: {{ "sitemap.xml" | absURL }}
-License: https://recomedicales/LICENSE.xml
