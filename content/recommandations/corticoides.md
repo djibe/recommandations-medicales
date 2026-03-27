@@ -117,7 +117,7 @@ Les corticoïdes par voie générale ne doivent pas être utilisés en cas de: a
 
 > -- *CEMI*
 
-Une dose > 10 mg/j d'éq. prednisone entraîne: éosinopénie, basopénie, lymphopénie, polynucléose neutrophile et possibles hypokaliémie, hyperglycémie.
+Une dose > 10 mg/j d'éq. prednisone entraîne: éosinopénie, basopénie, lymphopénie, polynucléose neutrophile et possibles [hypokaliémie]({{% relref "hypokaliemie.md" %}}), hyperglycémie.
 
 ### Ostéodensitométrie
 

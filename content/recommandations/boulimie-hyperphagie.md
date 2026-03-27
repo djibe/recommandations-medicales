@@ -112,7 +112,7 @@ Un repérage ciblé de la boulimie est recommandé chez les groupes à risque:
   - Pathologie impliquant des régimes: [diabète type 1]({{% relref "diabete-type-1.md" %}}), [diabète type 2]({{% relref "diabete-type-2.md" %}}) ou [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}})
   - Troubles des menstruations ([aménorrhée]({{% relref "amenorrhee.md" %}})), [infertilité]({{% relref "infertilite-couple.md" %}}), [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}})
   - Symptômes digestifs inexpliqués
-  - Vomissements répétés ou hypokaliémie inexpliqués
+  - Vomissements répétés ou [hypokaliémie]({{% relref "hypokaliemie.md" %}}) inexpliqués
   - Problèmes dentaires (érosions dentaires)
 - Manifestations psychologiques
   - Tentative de suicide, automutilations

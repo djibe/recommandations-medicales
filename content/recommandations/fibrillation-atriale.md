@@ -124,7 +124,7 @@ TE
   - Maladie inflammatoire, [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}})
 - Pathologie aiguë
   - Infection, chirurgie
-  - Hypokaliémie
+  - [Hypokaliémie]({{% relref "hypokaliemie.md" %}})
 - Iatrogénie  
   Diurétiques, théophylline, salbutamol, anti-arythmique, oméga-3 (voir *Clinique* > *Interrogatoire*).
 

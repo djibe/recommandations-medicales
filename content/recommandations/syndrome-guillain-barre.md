@@ -139,7 +139,7 @@ Autres diagnostics à rechercher devant un tableau de faiblesse musculaire:
   - Neurotoxines (botulisme, tétanos, paralysie par piqûre de tique, morsure de serpent ou autres envenimations)
   - Intoxication aux organophosphates
 - **Myopathie**
-  - Troubles métaboliques ou électrolytiques (hypokaliémie, paralysie périodique, hypomagnésémie, hypophosphatémie)
+  - Troubles métaboliques ou électrolytiques ([hypokaliémie]({{% relref "hypokaliemie.md" %}}), paralysie périodique, hypomagnésémie, hypophosphatémie)
   - Myopathies inflammatoires
   - Rhabdomyolyse aiguë (statines, autres médicaments)
   - Myopathie médicamenteuse ou toxique (colchicine, chloroquine, émétine, inhalation de colle)

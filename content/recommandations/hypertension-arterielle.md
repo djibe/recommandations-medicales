@@ -282,7 +282,7 @@ Signes devant faire évoquer une hypertension secondaire et nécessitant une év
 - Phéochromocytome  
   Épisodes répétés de sueurs - céphalées - palpitations.
 - [Hyperaldostéronisme primaire]({{% relref "hyperaldosteronisme-primaire.md" %}})  
-  *Hypokaliémies* spontanées ou sous diurétiques, fatigue musculaire, tétanie.
+  *[Hypokaliémies]({{% relref "hypokaliemie.md" %}})* spontanées ou sous diurétiques, fatigue musculaire, tétanie.
 - [Syndrome de Cushing]({{% relref "syndrome-cushing.md" %}})  
   Faciès lunaire et rouge, obésité tronculaire et bosse de bison, fonte musculaire et fatigue, atrophie cutanée et ecchymoses faciles, vergetures pourpres, retard de cicatrisation, doigts très minces, hirsutisme, troubles de l'humeur, dysménorrhées, corticoïdes chroniques.
 - [Dysthyroïdie](/tags/tsh/)

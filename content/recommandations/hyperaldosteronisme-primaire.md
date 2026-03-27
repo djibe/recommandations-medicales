@@ -86,7 +86,7 @@ L'hyperaldostéronisme primaire est largement sous-diagnostiqué et sous-traité
 - Bilans biologiques antérieurs
 - **Signes et symptômes d'hyperaldostéronisme primaire:**
   - Hypertension artérielle
-  - Hypokaliémie (< 3,7 mmol/L ++, < 1/3 des sujets) spontanée ou induite par les diurétiques: faiblesse musculaire, tétanie
+  - [Hypokaliémie]({{% relref "hypokaliemie.md" %}}) (< 3,7 mmol/L ++, < 1/3 des sujets) spontanée ou induite par les diurétiques: faiblesse musculaire, tétanie
 
 > [!INFO]
 > Les alpha-bloquants ([doxazosine](https://base-donnees-publique.medicaments.gouv.fr/medicament/65525280/extrait#tab-rcp), prazosine, [urapidil](https://base-donnees-publique.medicaments.gouv.fr/medicament/66933317/extrait#tab-rcp) ...), les inhibiteurs calciques non-dihydropyridine (diltiazem, vérapamil), la [moxonidine](https://base-donnees-publique.medicaments.gouv.fr/medicament/68782718/extrait#tab-rcp) et l'~~hydralazine~~ ne perturbent pas les dosages de rénine/aldostérone.
