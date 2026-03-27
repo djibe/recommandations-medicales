@@ -396,15 +396,15 @@ Demander une **téléexpertise** au moindre doute sur la durée d'anticoagulatio
 {{< mermaid title="Prise en charge d'une suspicion d'embolie pulmonaire en ville. Dr JB Fron d'après ESC/ERS 2019, Ameli" >}}
 graph TB
   ep[Suspicion d'embolie<br>pulmonaire] --> gravité("Signes de gravité ?<br>- Hypotension<br>- Choc<br>- Détresse respiratoire")
-  style ep stroke:#4150f5, stroke-width:1px
     gravité -- Non --> probaClin("<b>Probabilité pré-test</b><br>Score de Wells ou Genève")
       probaClin --> faible(Faible) --> age("Âge &lt; 50 ans et<br>pas de grossesse/post-partum ?")
         age -- Oui --> perc(Règle PERC)
           perc -- Remplie --> inval("- EP invalidée<br>- Étayer autre diagnostic") -. "Suspicion SCA<br>ou autre urgence" .-> SAMU
           perc -- "En défaut" --> SAMU
         age -- Non --> SAMU
-      probaClin --> Intermédiaire(Intermédiaire<br>ou élevée) ----> SAMU
+      probaClin --> Intermédiaire(Intermédiaire<br>ou élevée) -- "Proposition" --> SAMU
     gravité -- Oui --> SAMU("- Appeler le SAMU<br>- Semi-assis<br>- Ne pas bouger<br>- Sur avis SAMU:<br>HBPM si proba élevée<br>ou intermédiaire avec<br>résultats +4h")
+    style ep stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{% /collapse %}}

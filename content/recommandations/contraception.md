@@ -313,7 +313,7 @@ Le << Quickstart >> ou démarrage à tout moment du cycle peut être proposé à
 - EE + lévonorgestrel/norgestimate en première intention
 - Schéma continu possible si: symptômes cataméniaux, [ménorragies]({{% relref "menorragies.md" %}}) fonctionnelles, [endométriose]({{% relref "endometriose.md" %}}) ou choix personnel.
 - 5 % développent une [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) (*ESC 2018 HTA*)
-- Les progestatifs de 3e génération (gestodène, désogestrel sauf le norgestimate), la drospirénone ou l'acétate de cyprotérone augmentent plus le risque de MVTE que le lévonorgestrel
+- Les progestatifs de 3e génération (gestodène, désogestrel sauf le norgestimate), la drospirénone (Slinda®) ou l'acétate de cyprotérone augmentent plus le risque de MVTE que le lévonorgestrel
 - Les œstroprogestatifs par voies non orales (patch, anneau) ont probablement le même sur-risque veineux
 
 ### Les dispositifs intra-utérins (DIU)

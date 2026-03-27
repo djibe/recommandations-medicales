@@ -147,7 +147,7 @@ Ulcérations pseudo-membraneuses et vésicules de l'hémilangue.
 > Shingrix 2 injections IM espacées de 2 mois.
 {.alert .alert-info}
 
-La vaccination zona est recommandée chez les **+18 ans avec déficit immunitaire** et **+65** immunocompétents (y compris en cas d'antécédents de zona, de Zostavax > 1 an) avec 2 injections à M0-M2.
+La vaccination zona est recommandée chez les **+18 ans avec déficit immunitaire** et **+65** immunocompétents (y compris en cas d'antécédents de zona, de Zostavax de +1 an) avec 2 injections à M0-M2.
 
 Le *GOLD 2022* propose aussi de vacciner en cas de [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}).
 
