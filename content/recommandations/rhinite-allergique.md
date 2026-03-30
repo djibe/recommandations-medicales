@@ -2,12 +2,12 @@
 id = "0190e8cb-4698-799e-91ea-38a6f3e80734"
 title = "Rhinite allergique"
 prefix = "la "
-description = "Recommandations pour la prise en charge de la rhinite allergique. Mesures d'éviction de l'allergène, antihistaminiques et corticoïdes en pulvérisations nasales"
+description = "Recommandations pour le diagnostic et la prise en charge de la rhinite allergique. Mesures d'éviction de l'allergène, antihistaminiques et corticoïdes locaux"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-15T12:45:29+02:00"
 publishdate = "2023-06-19"
-lastmod = "2023-06-27"
+lastmod = "2026-03-30"
 specialites = ["allergologie", "ORL"]
 annees = "2020"
 sources = ["SFORL", "SPLF"]
@@ -24,14 +24,15 @@ flowchart = true
 
 {{%article-summary%}}
 
-- La rhinite allergique ou << rhume des foins >> est une rhinite déclenchée par une exposition allergénique et fait partie de la famille de l'[atopie](/tags/atopie/). Les acariens, les pollens de graminées et les chats sont les principales causes.
-- Un interrogatoire bien conduit permet un diagnostic fiable de rhinite allergique et une comorbidité atopique doit être recherchée ([asthme]({{% relref "asthme.md" %}}), [dermatite atopique]({{% relref "dermatite-atopique.md" %}}), conjonctivite)
-- L'examen évalue la rhinite allergique: fréquence (intermittente ou persistante) et sévérité  
-  Modérée à sévère si au moins 1 parmi: symptômes gênants, sommeil perturbé, activités scolaires, professionnelles, sociales ou loisirs perturbés (*ARIA*)
-- Bilan de la rhinite allergique: tests cutanés allergiques (prick-tests) sauf cas de rhinite saisonnière
-- Avis pneumologique en cas de suspicion d'un asthme associé
-- Traitement symptomatique selon la sévérité: éviction de l'allergène toujours, DRP, antihistaminique oral ou corticoïdes locaux d'emblée
-- [Carte des pollens](https://www.atmo-france.org)
+- La rhinite allergique ou << rhume des foins >> est une rhinite déclenchée par une exposition allergénique et fait partie de la famille de l'[atopie](/tags/atopie/). Les acariens, les pollens de graminées et les chats sont les principaux responsables
+- Un interrogatoire bien conduit permet un diagnostic fiable de rhinite allergique et une comorbidité atopique doit être recherchée ([asthme]({{% relref "asthme.md" %}}), [dermatite atopique]({{% relref "dermatite-atopique.md" %}}), conjonctivite allergique)
+- L'examen recherche la fréquence (intermittente ou persistante) et la sévérité des symptômes  
+  Elle est dite modérée à sévère si au moins 1 parmi: symptômes gênants, sommeil perturbé, activités scolaires, professionnelles, sociales ou loisirs perturbés (*ARIA*)
+- Hormis une rhinite saisonnière, le bilan de la rhinite allergique comprend des tests cutanés allergiques (prick-tests)
+- La prise en charge de la rhinite allergique dépend de sa sévérité: éviction de l'allergène toujours, désobstructions rhino-pharyngées (DRP), traitement par antihistaminique oral ou corticoïdes locaux d'emblée
+- Un avis pneumologique est recommandé en cas de suspicion d'un asthme associé
+
+[Carte des pollens](https://www.atmo-france.org).
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -157,13 +158,13 @@ Diagnostic différentiel de la rhinite allergique:
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> NDLR: avec 25 % de prévalence, la réalisation systématique de TCA et d'avis ORL semble peu réalisable
+> NDLR: avec 25 % de prévalence, la réalisation systématique de TCA et d'avis ORL semble peu réalisable.
 
 ### Les tests cutanés allergéniques ou Prick tests
 
 > [!INFO]
-> << Les tests cutanés allergéniques (TCA) ou prick tests doivent être réalisés en 1^re^ intention dans tout bilan étiologique de rhinite présumée allergique. >> -- *SFORL*
-> << Les tests cutanés (...) lors d'une rhinite allergique **saisonnière** sont le plus souvent inutiles >>. -- *Prescrire*
+> Selon la *SFORL*: << Les tests cutanés allergéniques (TCA) ou prick tests doivent être réalisés en 1^re^ intention dans tout bilan étiologique de rhinite présumée allergique. >>
+> Selon *Prescrire*: << Les tests cutanés (...) lors d'une rhinite allergique **saisonnière** sont le plus souvent inutiles >>.
 
 Adresser à l'ORL ou l'allergologue pour la réalisation des tests cutanés allergéniques (Se 85%, Spe 77%).
 
@@ -196,7 +197,8 @@ Mesures de prévention de la rhinite allergique:
 {{% /collapse %}}
 {{%collapse "Traitement de la rhinite allergique" %}}
 
-Une reconnaissance de la rhinite allergique en Maladie professionnelle est possible en cas d'expositions à risque ([tableau des maladies professionnelles IRSN](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&motsCles=&planPatho=TABMALPRO_Pathologie%20ORL%20et%20stomatologique%2FPathologie%20des%20voies%20a%C3%A9riennes%20sup%C3%A9rieures%2FRhinite)).
+> [!INFO]
+> Une reconnaissance de la rhinite allergique dans le cadre d'une Maladie professionnelle est possible en cas d'expositions à risque ([tableau des maladies professionnelles IRSN](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&motsCles=&planPatho=TABMALPRO_Pathologie%20ORL%20et%20stomatologique%2FPathologie%20des%20voies%20a%C3%A9riennes%20sup%C3%A9rieures%2FRhinite)).
 
 ### Antihistaminiques H1 et corticoïdes locaux
 
@@ -204,12 +206,13 @@ Les antihistaminiques et corticoïdes nasaux sont le traitement symptomatique de
 
 {{%info%}}
 
-1. RA légère à modérée (à partir d'1 an)  
-  Anti-histaminiques H1 oraux de deuxième ou troisième génération (ex: [cétirizine](https://base-donnees-publique.medicaments.gouv.fr/medicament/62005883/extrait#tab-rcp), loratadine).
-2. RA modérée à sévère (à partir de 3 ans), obstruction nasale prédominante ou échec de la 1^re^ ligne  
-  Corticothérapie intranasale (ex: béclométasone [Beconase®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63295400/extrait#tab-rcp) 50 µg susp nasale, [Rhinomaxil®](https://base-donnees-publique.medicaments.gouv.fr/medicament/66958014/extrait#tab-rcp) 100 µg x 2/j, Rinoclenil®)
+1. Rhinite allergique légère à modérée (à partir d'1 an)  
+  ==**Anti-histaminiques H1**== oraux de deuxième ou troisième génération (ex: [cétirizine](https://base-donnees-publique.medicaments.gouv.fr/medicament/62005883/extrait#tab-rcp), loratadine).
+2. Rhinite allergique modérée à sévère (à partir de 3 ans), obstruction nasale prédominante ou échec de la 1^re^ ligne  
+  ==**Corticothérapie nasale**== (ex: béclométasone [Beconase®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63295400/extrait#tab-rcp) 50 µg susp nasale, [Rhinomaxil®](https://base-donnees-publique.medicaments.gouv.fr/medicament/66958014/extrait#tab-rcp) 100 µg x 2/j, Rinoclenil®).  
+  Debout ou assis, secouer avant, tenir la tête droite, insérer l'embout de 1 cm, pulvériser en utilisant la main controlatérale à 45° en inspirant doucement. Ne pas moucher immédiatement après.
 3. Contrôle insuffisant chez l'adulte: doubler la dose de corticoïdes
-4. RA non contrôlée: associer corticoïdes + antihistaminiques locaux (ou 2 en 1: [azélastine](https://base-donnees-publique.medicaments.gouv.fr/medicament/68576006/extrait#tab-rcp) + fluticasone [Dymista®](https://base-donnees-publique.medicaments.gouv.fr/medicament/60830011/extrait#tab-rcp) à partir de 12 ans) en pulvérisations nasales
+4. Rhinite allergique non contrôlée: associer corticoïdes + antihistaminiques locaux (ou 2 en 1: [azélastine](https://base-donnees-publique.medicaments.gouv.fr/medicament/68576006/extrait#tab-rcp) + fluticasone [Dymista®](https://base-donnees-publique.medicaments.gouv.fr/medicament/60830011/extrait#tab-rcp) à partir de 12 ans) en pulvérisations nasales
 
 -- *SFORL, SPLF*
 {{%/info%}}
@@ -230,7 +233,8 @@ Les antihistaminiques et corticoïdes nasaux sont le traitement symptomatique de
 
 **Éviction** allergénique par les mesures associées ci-dessous:
 
-- Désobstructions rhinopharyngées (DRP) au sérum physiologique
+- ==**Désobstructions rhinopharyngées**== (DRP) au sérum physiologique  
+  Délai de 10-20 minutes avant de pulvériser un corticoïde.
 - Pollens: Laver les cheveux avant le coucher, fermer les vitres en voiture, fermer les fenêtres
 
 Rhinite perannuelle aux acariens:
@@ -273,6 +277,7 @@ style suspicion stroke:#4150f5, stroke-width:1px
 - [Blauwblomme M. En cas de rhinite allergique, est-il préférable d'administrer un traitement pharmacologique par voie intranasale ou orale ?. Minerva. 2025.](https://minerva-ebp.be/FR/Article/2454)
 - [Collège des Enseignants de Pneumologie (CEP). Hypersensibilité et allergies respiratoires chez l'adulte. Asthme, rhinite. Item 188. 2023.](https://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/)
 - Prescrire Redaction. Rhinite allergique saisonnière. Premiers Choix Prescrire. Rev Prescrire. 2023.
+- [Prulière-Escabasse V, et al; SFORL. Recommandation sur l'éducation thérapeutique pour optimiser l'usage du spray nasal multidoses. 2023. (PDF)](https://www.sforl.org/wp-content/uploads/2023/10/RECOMMANDATION-SUR-LEDUCATION-THERAPEUTIQUE-POUR-OPTIMISER-USAGE-DU-SPRAY-NASAL-MULTIDOSES-1.pdf)
 - [Anses. Note relative à la surveillance phénologique du pollen dans l'air ambiant et à l'indicateur de risque d'allergie lié à l'exposition au pollen (RAEP). 2022. (PDF)](https://www.anses.fr/fr/system/files/AIR2020AST0168.pdf)
 - [Crampette L, Michel J; SFORL. Prise en charge diagnostique et thérapeutique des Rhinites Allergiques par l'ORL (hors rhinites professionnelles). 2020. (PDF)](https://www.sforl.org/wp-content/uploads/2020/07/Recommandation-SFORL-Prise-en-charge-diagnostique-et-th%C3%A9rapeutique-des-Rhinites-Allergiques-par-lORL-2020.pdf)
 - [Inserm. Rhinite allergique. 2017.](https://www.inserm.fr/dossier/rhinite-allergique/)
@@ -280,9 +285,8 @@ style suspicion stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
-- [Prulière-Escabasse V, et al; SFORL. Recommandation sur l'éducation thérapeutique pour optimiser l'usage du spray nasal multidoses. 2023. (PDF)](https://www.sforl.org/wp-content/uploads/2023/10/RECOMMANDATION-SUR-LEDUCATION-THERAPEUTIQUE-POUR-OPTIMISER-USAGE-DU-SPRAY-NASAL-MULTIDOSES-1.pdf)
 - [Seidman MD, et al. Clinical practice guideline: Allergic rhinitis. Otolaryngol Head Neck Surg. 2015. (Reaffirmed AAFP 2020)](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599814561600)
 - [EUFOREA & ARIA](https://www.euforea.eu)
-- [Annesi-Maesano I et al. Le Score For Allergic Rhinitis (SFAR) -- version française. Revue Française d'Allergologie et d'Immunologie Clinique. 2004.](https://www.sciencedirect.com/science/article/abs/pii/S0335745703003526)
+- [Annesi-Maesano I, et al. Le Score For Allergic Rhinitis (SFAR) -- version française. Revue Française d'Allergologie et d'Immunologie Clinique. 2004.](https://www.sciencedirect.com/science/article/abs/pii/S0335745703003526)
 
 {{%/sources%}}
