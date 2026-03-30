@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-15T11:01:51+02:00"
 publishdate = "2023-09-15"
-lastmod = "2023-09-15"
+lastmod = "2026-03-30"
 specialites = ["hématologie"]
 annees = "2018"
 sources = ["BSH"]
@@ -134,7 +134,7 @@ Au cours de la **maladie de Vaquez**, une hématocrite < 45 % est ciblée. Le tr
 - Traitement spécifique myélofreinateur: hydroxyurée, hydroxycarbamide, interféron alpha, ruxolitinib
 
 {{% /collapse %}}
-{{%collapse "Prise en charge d'une polyglobulie" "show" %}}
+{{%collapse "Prise en charge de la polyglobulie" "show" %}}
 
 {{< mermaid title="Prise en charge d'une polyglobulie. Dr JB Fron d'après BSH 2018" >}}
 graph TB
@@ -147,5 +147,6 @@ graph TB
 
 - Société française d'hématologie (sfh). Item 317 - Syndromes myéloprolifératifs. Hématologie Réussir son DFASM. 2021.
 - [McMullin MF, et al. A guideline for the diagnosis and management of polycythaemia vera. A British Society for Haematology Guideline. Br J Haematol. 2018.](https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.15648)
+- [Société française d'hématologie. La polyglobulie primitive (maladie de Vaquez). Information patient. 2009.](https://sfh.hematologie.net/sites/sfh.hematologie.net/files/medias/documents/polyglobulieprimitive.pdf)
 
 {{%/sources%}}

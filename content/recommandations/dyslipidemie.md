@@ -18,7 +18,7 @@ sctid = "370992007"
 icd10 = ["E78.8", "E11.6"]
 image = true
 imageSrc = "Les classes de lipoprotéines de la dyslipidémie. macrovector / Freepik"
-todo = "flow | Hypertriglycéridémie avec ESC25dyslipp13"
+todo = "flow"
 slider = true
 +++
 
@@ -144,7 +144,7 @@ Le risque cardiovasculaire doit être réévalué régulièrement.
 ### Recommandations générales universelles pour la prévention cardiovasculaire
 
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}} ou DASH
-- Correction des facteurs de risque cardiovasculaire
+- Correction des facteurs de risque cardiovasculaire:
   - [Sevrage tabagique]({{% relref "arret-tabac.md" %}})
   - Réduction de l'alcool
   - Activité physique quotidienne (30-60 minutes/j d'{{< modal-btn modal-met >}}intensité modérée{{< /modal-btn >}}), entraînement en résistance ≥ 2 j/semaine
@@ -169,6 +169,7 @@ Le risque cardiovasculaire doit être réévalué régulièrement.
 - Perte de poids, réduire l'alcool et les sucres (dont le fructose)
 - Réduire les graisses saturées
 - Augmenter les apports en oméga 3
+- Augmenter les apports en fibres
 - Activité physique
 
 **Mesures diététiques pour l'augmentation du HDL cholestérol:**

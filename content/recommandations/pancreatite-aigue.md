@@ -116,7 +116,7 @@ Bilan urgent d'une douleur épigastrique transfixiante:
 - Bilan hépatique: ASAT, ALAT, GGT, PAL, bilirubine
 - Albuminémie, calcémie
 - Si absence de lithiase biliaire et d'alcool: bilan lipidique  
-  L'hypertriglycéridémie sera considérée responsable surtout si > 10 g/L.
+  L'hypertriglycéridémie sera considérée responsable surtout si > 8,8 g/L (observée dès 4,4 g/L).
 - **Échographie abdominale** (recherche d'origine biliaire dans les 48 premières heures)
 
 Le pic de lipasémie est précoce (max à 24-48 heures) et peut redescendre sous 3N après 48 heures. Le pic n'a aucune valeur pronostique.
@@ -187,6 +187,7 @@ Nouveaux examens de suivi (scanner et IRM) à 3, 6 et 12 mois:
 - [Tenner S, et al. American College of Gastroenterology Guidelines: Management of Acute Pancreatitis. Am J Gastroenterol. 2024.](https://journals.lww.com/ajg/fulltext/2024/03000/american_college_of_gastroenterology_guidelines_.14.aspx)
 - {{< references/college-gastro >}}
 - [INCa. Conduites à tenir devant des patients atteints d'adénocarcinomes du pancréas. Synthèse. 2019.](https://www.cancer.fr/catalogue-des-publications/synthese-conduites-a-tenir-devant-des-patients-atteints-d-adenocarcinomes-du-pancreas)
+- [Mach F, et al. 2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk. Eur Heart J. 2020.](https://academic.oup.com/eurheartj/article/41/1/111/5556353)
 - [Greenberg JA, et al. Clinical practice guideline: management of acute pancreatitis. Can J Surg. 2016.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27007094/)
 - [Banks PA, et al. Classification of acute pancreatitis--2012: revision of the Atlanta classification and definitions by international consensus. Gut. 2013.](https://gut.bmj.com/content/62/1/102.long)
 
