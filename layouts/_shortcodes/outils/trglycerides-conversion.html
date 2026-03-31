@@ -1,0 +1,6 @@
+<div class="form-group">
+  <label for="glInput">TG (g/L)</label>
+  <input type="number" class="form-alternative mr-3" id="glInput" step="0.1" value="1" min="0" max="50" onchange="mmolInput.value = Math.round(parseFloat(this.value) * 1.14 * 10) / 10">
+  <label for="mmolInput">TG (mmol/L)</label>
+  <input type="number" class="form-alternative" id="mmolInput" step="0.1" value="1.14" min="0" max="57" onchange="glInput.value = Math.round(parseFloat(this.value) * 0.875 * 10) / 10">
+</div>
