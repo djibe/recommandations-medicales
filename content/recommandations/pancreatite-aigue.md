@@ -28,7 +28,7 @@ todo = "flow"
 - La prise en charge de la pancréatite aiguë comprend initialement une hospitalisation pour surveillance, l'évolution étant imprévisible et les complications fréquentes
 - En cas de pancréatite aiguë idiopathique, rechercher une maladie cœliaque et après 40 ans, dépister également un [cancer du pancréas]({{% relref "cancer-pancreas.md" %}}) par scanner abdominal et cholangiopancréatographie par IRM (*INCa*)
 
-Chapitres liés: [pancréatite chronique]({{% relref "pancreatite-chronique.md" %}}), [hypercalcémie]({{% relref "hypercalcemie.md" %}}), [mésusage de l'alcool]({{% relref "sevrage-alcool.md" %}})
+Chapitres liés: [pancréatite chronique]({{% relref "pancreatite-chronique.md" %}}), [hypercalcémie]({{% relref "hypercalcemie.md" %}}), [hypertriglycéridémie]({{% relref "hypertriglyceridemie.md" %}}), [mésusage de l'alcool]({{% relref "sevrage-alcool.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -156,7 +156,7 @@ Le patient est à jeun initialement avec réhydratation intraveineuse (Ringer).
 - Si nécrose pancréatique surinfectée: antibiothérapie
 - Suivi après pancréatite
   - Consommation d'alcool, vérification des médicaments (Pancreatox sur smartphone - payant)
-  - Si hypertriglycéridémie suspectée: contrôle lipidique à 1 mois
+  - Si [hypertriglycéridémie]({{% relref "hypertriglyceridemie.md" %}}) suspectée: contrôle lipidique à 1 mois
 
 Les patients présentant des **récidives inexpliquées** de pancréatite doivent être adressés au centre de référence des maladies pancréatiques.
 

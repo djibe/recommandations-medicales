@@ -93,7 +93,7 @@ Pathologies responsables d'hypothyroïdie, le plus souvent par insuffisance thyr
 
 Anomalies biologiques pouvant être observées en cas d'hypothyroïdie:
 
-- [Hypercholestérolémie]({{% relref "dyslipidemie.md" %}}) et hypertriglycéridémie
+- [Hypercholestérolémie]({{% relref "dyslipidemie.md" %}}) et [hypertriglycéridémie]({{% relref "hypertriglyceridemie.md" %}})
 - Anémie isolée modérée normochrome normocytaire
 - Augmentation des CPK/LDH
 - [Hyponatrémie]({{% relref "hyponatremie.md" %}}) de dilution

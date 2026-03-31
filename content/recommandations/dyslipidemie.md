@@ -32,7 +32,7 @@ slider = true
 - Une statine est le traitement de référence de la dyslipidémie en cas de risque cardiovasculaire marqué. Sa titration est rapide jusqu'à l'atteinte des cibles de réduction du LDL et du taux de LDL (avec ajout d'ézétimibe ou autres si nécessaire)
 - Le suivi spécialisé cardiologique est systématique en cas de risque cardiovasculaire marqué, de cible lipidique non atteinte ou d'interrogation sur le risque cardiovasculaire
 
-Chapitres liés: [SCORE2]({{% relref "score2.md" %}}), [statines]({{% relref "statines.md" %}}), ~~hypertriglycéridémie~~
+Chapitres liés: [SCORE2]({{% relref "score2.md" %}}), [statines]({{% relref "statines.md" %}}), [hypertriglycéridémie]({{% relref "hypertriglyceridemie.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -81,7 +81,7 @@ Le risque cardiovasculaire doit être réévalué régulièrement.
   - Âge et sexe, hérédité cardiovasculaire (infarctus du myocarde, AVC, mort subite)
   - Tabagisme, [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [diabète](/tags/diabete/)
 - Autres antécédents: [hypercholestérolémie familiale]({{% relref "hypercholesterolemie-familiale.md" %}}), **maladie cardiovasculaire** ([AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), [infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) ...), **maladie rénale** chronique, goutte, maladie inflammatoire, BPCO, VIH, stress
-- Antécédents familiaux cardiovasculaires
+- Antécédents familiaux cardiovasculaires, de dyslipidémie
 - **Causes d'hyperlipidémie secondaire**  
   [Hypothyroïdie]({{% relref "hypothyroidie.md" %}}), cholestase, syndrome néphrotique et [insuffisance rénale chronique]({{% relref "insuffisance-cardiaque-chronique.md" %}}), alcool, diabète, médicamenteuse (œstrogènes, corticoïdes, rétinoïdes, antirétroviraux, ciclosporine, diurétiques, bêtabloquants).
 - Alcool, toxiques (cocaïne, cannabis ...)
@@ -129,7 +129,7 @@ Le risque cardiovasculaire doit être réévalué régulièrement.
 - Recherche d'hyperlipidémie secondaire:
   - TSH
   - PAL, bilirubine
-  - albuminurie/créatininurie
+  - créatinine, rapport albuminurie/créatininurie
 - Pré-thérapeutique: ALAT, CPK
 - Selon le niveau de risque cardiovasculaire: consultation de cardiologie
 

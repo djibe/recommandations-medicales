@@ -47,6 +47,8 @@ La réduction du LDL cholestérol a les mêmes bénéfices cardiovasculaires che
 
 [Statine en prévention primaire](#statine-en-prévention-primaire) - [Statine en prévention secondaire](#statine-en-prévention-secondaire-ou-comorbidités)
 
+Les statines sont également indiquées en cas d'[hypertriglycéridémie]({{% relref "hypertriglyceridemie.md" %}}) > 2 g/L (2,3 mmol/L) malgré les mesures hygiéno-diététiques.
+
 ### Statine en prévention secondaire ou comorbidités
 
 La cible de LDL cholestérol dépend des antécédents cardiovasculaires figurant ci-dessous.

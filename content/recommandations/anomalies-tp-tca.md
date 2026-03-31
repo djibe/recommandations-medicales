@@ -93,7 +93,7 @@ vWF
   - Facteur II (rare)  
     Une diminution isolée est possible après l'arrêt des AVK.
   - Facteur V (rare)
-  - Facteur VII: hypertriglycéridémie, obésité, diabète, hormonothérapie  
+  - Facteur VII: [hypertriglycéridémie]({{% relref "hypertriglyceridemie.md" %}}), obésité, diabète, hormonothérapie  
     Traitement d'épreuve à la vitamine K.
   - Facteur X: [amylose AL]({{% relref "amylose-al.md" %}}) surtout
   - Fibrinogène: cirrhose, [carcinome hépatocellulaire]({{% relref "carcinome-hepatocellulaire.md" %}})

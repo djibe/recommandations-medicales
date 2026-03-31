@@ -98,7 +98,7 @@ Autres causes de douleurs épigastriques à étayer devant un tableau de pancré
 
 Signes et symptômes de pancréatite chronique à rechercher à l'examen. La difficulté tient à différencier une **poussée** de pancréatite chronique d'une **pancréatite aiguë**.
 
-- Antécédents: [pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}}) (date et étiologie), [intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}), [maladie rénale]({{% relref "insuffisance-renale-chronique.md" %}}), hypertriglycéridémie, maladie respiratoire, [infertilité]({{% relref "infertilite-couple.md" %}})
+- Antécédents: [pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}}) (date et étiologie), [intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}), [maladie rénale]({{% relref "insuffisance-renale-chronique.md" %}}), [hypertriglycéridémie]({{% relref "hypertriglyceridemie.md" %}}), maladie respiratoire, [infertilité]({{% relref "infertilite-couple.md" %}})
 - Antécédents familiaux: [cancer du pancréas]({{% relref "cancer-pancreas.md" %}}) et pancréatites
 - Facteurs de risque de pancréatite chronique
   - Usage nocif d'**[alcool]({{% relref "sevrage-alcool.md" %}})**: {{< modal-btn modal-auditc >}}questionnaire AUDIT-C{{< /modal-btn >}} (80 % des cas, souvent +100 g/j pendant +10 ans)
