@@ -20,10 +20,12 @@ imageSrc = "Rosacée papulopustuleuse avec érythème. The Thinking Doll / Foter
 rank = "ok"
 flowchart = true
 todo = "interrogatoire, modele"
+modele = true
 +++
 
 {{%article-summary%}}
 
+- La rosacée est une dermatose chronique fréquente du visage chez l'adulte d'âge moyen à peau claire. Elle atteint la ligne médiane du visage (nez, front, joues et menton)
 - Le diagnostic de rosacée est clinique: visage médian rouge chez un adulte avec des bouffées vasomotrices et souvent une érythrose, des télangiectasies voire des papulo-pustules. Une atteinte oculaire est possible
 - Le traitement de la rosacée est suspensif avec rechute à l'arrêt
 - La prise en charge initiale de la rosacée associe l'éviction des facteurs déclenchants et le métronidazole gel 0,75 % en 2 applications par jour pendant 3 mois
@@ -269,3 +271,8 @@ graph TB
 {{< clinique/phototype-fitzpatrick >}}
 
 {{% /modal %}}
+{{%modele%}}
+
+Métronidazole gel 0,75 %, une application matin et soir pendant 3 mois
+
+{{%/modele%}}

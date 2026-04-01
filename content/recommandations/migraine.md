@@ -29,14 +29,14 @@ modele = true
 - Contre-indication à l'association: migraine + pilule + tabac. Impacte le choix de la [contraception]({{% relref "contraception.md" %}})
 - La migraine devrait être dépistée chaque année chez les femmes (*AHS 2025*)
 - Suivi à chaque consultation de l'[Agenda migraineux](https://www.sfetd-douleur.org/wp-content/uploads/2019/08/agenda_cephalees_chu2015.pdf)
-- Traitement de la crise migraineuse
-  - Réévalué après 3 crises ({{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}})
-  - Prescrire AINS et triptan selon traitements déjà essayés et préférences du patient, à avoir sur soi
-  - Crise légère: AINS, triptan si persistance à H1
-  - Crise modérée à sévère: triptan et AINS si persistance à H1
+- Traitement de la crise migraineuse:
+  - Crise légère: AINS, triptan si persistance à 1 heure
+  - Crise modérée à sévère: triptan et AINS si persistance à 1 heure
   - Aura: AINS d'emblée et attendre le début de la céphalée pour prendre le triptan. Contre-indication aux estrogènes
-  - Jamais d'opiacés ; nausées/vomissements: métoclopramide
-- Traitement de fond
+  - Migraines cataméniales: traitement des crises identique
+  - Jamais d'opiacés, si nausées ou vomissements: métoclopramide
+  - Réévaluer le traitement après 3 crises ({{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}})
+- Traitement de fond de la migraine:
   - Indications: crises ou traitement de crise ≥ 8 j/mois depuis ≥ 3 mois ou {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 ou intensité impose un arrêt total des activités pour ≥ 50 % des épisodes ou crises invalidantes malgré un traitement de crise optimal
   - < 15 j/mois (dite épisodique): propranolol ou métoprolol ≥ 3 mois. Si échec ou contre-indication: amitriptyline, candésartan ou topiramate
 - Suivi neurologique si aura atypique ou sévère, migraine résistante/réfractaire (échec de 3 traitements de fond, en centre spécialisé)  
@@ -484,7 +484,7 @@ Trois éléments de suivi: Agenda migraineux, {{< modal-btn modal-hit6 >}}qualit
 ### Migraine cataméniale
 
 Céphalées survenant exclusivement J1 ± 2 des règles sur ≥ 2 cycles sur 3.  
-Dite *migraine liée aux menstruations* si des crises surviennent également en dehors des J-2 à J+3.  
+Dite *migraine liée aux menstruations* (ou migraines pré-menstruelles) si des crises surviennent également en dehors des J-2 à J+3.  
 Le traitement des crises est identique.
 
 En cas de traitement de crise inefficace:

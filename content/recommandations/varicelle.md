@@ -134,7 +134,7 @@ Les nourrissons sont protégés pendant 3-6 mois par les anticorps maternels. La
 Sérologie varicelle en urgence si personne à risque de forme grave exposée à la varicelle ou à un zona ou personne susceptible d'être vaccinée.
 
 {{% /collapse %}}
-{{%collapse "Prévention de la varicelle" %}}
+{{%collapse "Prévention" %}}
 
 Éviter les contacts avec les femmes enceintes non immunes et les immunodéprimés.
 

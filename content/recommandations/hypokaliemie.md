@@ -17,7 +17,7 @@ sctid = "43339004"
 icd10 = ["E87.6"]
 image = true
 imageSrc = "ECG d'une hypokaliémie sévère à 1 mmol/L: dépression du segment ST, ondes T inversées, ondes U profondes et intervalle PR légèrement prolongé. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
-rank = "false"
+rank = "ok"
 flowchart = true
 +++
 

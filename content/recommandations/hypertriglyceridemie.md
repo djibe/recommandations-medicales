@@ -122,7 +122,7 @@ Recommandations pour la prise en charge de l'hypertriglycéridémie:
   - Augmenter les apports en fibres
   - Activité physique
 - Si TG > 2 g/L (2,3 mmol/L) et échec des mesures hygiéno-diététiques: {{< modal-btn modal-statine-intensite >}}statine de forte intensité{{< /modal-btn >}}
-  - Si TG > 2 g/L sous statine en prévention primaire ou à haut risque cardiovasculaire: l'ajout de fénofibrate ou bézafibrate peut être considéré
+  - Si TG > 2 g/L sous statine en prévention primaire ou à haut risque cardiovasculaire: l'ajout de [fénofibrate](https://base-donnees-publique.medicaments.gouv.fr/medicament/65310242/extrait#tab-rcp) ou [bézafibrate](https://base-donnees-publique.medicaments.gouv.fr/medicament/62119207/extrait#tab-rcp) peut être considéré
 - ~~Icosapent éthyl~~ (Vazkepa® NR)
 - Correction des facteurs de risque cardiovasculaire:
   - [Sevrage tabagique]({{% relref "arret-tabac.md" %}})
