@@ -11,6 +11,7 @@ const botUas = [
   'Clinicia-Medical-Assistant',
   'curl',
   'Go-http-client',
+  'Google-NotebookLM',
   'got',
   'GuzzleHttp',
   'HeadlessChrome',
