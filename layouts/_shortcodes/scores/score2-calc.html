@@ -187,8 +187,8 @@
             thdl_age: 0.0154,
             basesurv: 0.8082,
             meanLP: 0.229,
-            scale1: -0.85,
-            scale2: 0.82,
+            scale1: -0.52,
+            scale2: 1.01,
           },
           male: {
             age: 0.0634,
@@ -198,12 +198,12 @@
             thdl: -0.3564,
             smoker_age: -0.0247,
             sbp_age: -0.0005,
-            tchol_age: -0.0073,
+            tchol_age: 0.0073,
             thdl_age: 0.0091,
             basesurv: 0.7576,
-            meanLP: 0.093,
-            scale1: -0.61,
-            scale2: 0.89,
+            meanLP: 0.0929,
+            scale1: -0.34,
+            scale2: 1.19,
           },
         };
       }
@@ -282,7 +282,7 @@
       if (age < 70) {
         uncalibrated_risk = 1 - c.basesurv ** Math.exp(linearPredictor);
       } else {
-        uncalibrated_risk = 1 - c.basesurv ** Math.exp(Math.abs(linearPredictor) - c.meanLP);
+        uncalibrated_risk = 1 - c.basesurv ** Math.exp(linearPredictor - c.meanLP);
       }
 
       console.log("uncalibrated: " + uncalibrated_risk);
