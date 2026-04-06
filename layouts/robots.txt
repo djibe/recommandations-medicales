@@ -80,6 +80,7 @@ User-agent: HCP Analyzer
 User-agent: heritrix
 User-agent: ia_archiver
 User-agent: ia_archiver-web.archive.org
+User-agent: iaudit
 User-agent: iAskBot
 User-agent: iaskspider
 User-agent: iaskspider/2.0

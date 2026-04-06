@@ -16,6 +16,7 @@ const botUas = [
   'GuzzleHttp',
   'HeadlessChrome',
   'HttpAsyncClient',
+  'iaudit',
   'iAskBot',
   'kChatBot',
   'LamarkBot',
