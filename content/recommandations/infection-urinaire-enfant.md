@@ -64,7 +64,7 @@ Les pyélonéphrites aiguës représentent 7 % des épisodes fébriles avant 2 a
 - Traitements en cours, antibiothérapie récente
 - Date et heure de début des symptômes
 - Mesures de température
-- Symptômes:
+- **Symptômes d'infection urinaire:**
   - Brûlures mictionnelles, pollakiurie, fuites urinaires
   - Douleurs
   - Troubles du transit récents
@@ -83,9 +83,9 @@ L'examen clinique est complet: température, pression artérielle, peau, gorge, 
 {{% /collapse %}}
 {{%collapse "Cystite aiguë de l'enfant" %}}
 
-La cystite est une infection urinaire **sans fièvre** et sans anomalie biologique (si réalisée). Elle survient le plus souvent chez les filles après 3 ans.
+La cystite est une infection urinaire (pollakiurie, brûlures mictionnelles ...) **sans fièvre** et sans anomalie biologique (si réalisée). Elle survient le plus souvent chez les filles après 3 ans.
 
-Prise en charge ambulatoire de la cystite aiguë (infection urinaire basse) immédiatement après ECBU:
+Recommandations pour la prise en charge ambulatoire de la cystite aiguë (infection urinaire basse) immédiatement après ECBU:
 
 - Fille pubère: traitement minute par fosfomycine sauf uropathie (voir [IU de l'adulte]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}))
 - ==[Amoxicilline/acide clavulanique](https://base-donnees-publique.medicaments.gouv.fr/medicament/64550843/extrait#tab-rcp) 1,5 dose-kg 2 fois par jour pendant 5 jours== (80 mg/kg/j, max 3 g/j)
@@ -106,17 +106,17 @@ Avis spécialisé en cas de: Pseudomonas sp, bactérie multi-résistante, bacté
 
 > Tous les épisodes d'infections urinaires fébriles devraient être pris en charge comme des pyélonéphrites. -- *GPIP 2023*
 
-Prise en charge de la suspicion de pyélonéphrite aiguë (PNA):
+Recommandations pour la prise en charge de la suspicion de pyélonéphrite aiguë (PNA):
 
-- ==Hospitalisation si: < 3 mois, uropathie, immunodépression, lithiase urinaire, AEG, suspicion de sepsis, mauvaise compréhension familiale, cocci Gram+==
-- Si 1er épisode: échographie des voies urinaires
-- Information des parents: [mpedia](https://www.mpedia.fr/art-pyelonephrite/?sr=895)
+- ==Hospitalisation si: âge < 3 mois, uropathie, immunodépression, lithiase urinaire, AEG, suspicion de sepsis, mauvaise compréhension familiale, cocci Gram+==
+- Si 1^er^ épisode: échographie des voies urinaires
 - [Paracétamol]({{% relref "antalgie-enfant.md" %}})
 - Antibiothérapie ambulatoire probabiliste pendant 2-4 jours le temps d'obtenir l'ECBU (sans critère d'hospitalisation)
   - ceftriaxone 50 mg/kg/j (max 2 g/j) **IM**
   - ou céfixime 8 mg/kg/j (max 400 mg/j) en 2 prises  
     ou à défaut céfpodoxime-proxétil 8 mg/kg/j en 2 prises sans dépasser la dose adulte (*GPIP 2025*)
 - Réévaluation systématique à 48 heures puis avec les résultats de l'ECBU
+- Information des parents: [mpedia](https://www.mpedia.fr/art-pyelonephrite/?sr=895)
 
 Adaptation à l'antibiogramme dès le rendu des résultats pour une totale (probabiliste + adaptée) de traitement de **10 jours**:
 

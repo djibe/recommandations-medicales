@@ -1,17 +1,17 @@
 +++
 id = "0190e8be-ddac-7cc5-b673-ae8fe1587d0e"
 title = "Conjonctivite"
-titleSeo = "TODO:"
 prefix = "la "
-description = "TODO:"
+description = "Recommandations pour le diagnostic et la prise en charge de la conjonctivite allergique ou bactérienne. Indications au collyre anti-allergique ou antibiotique"
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-05-02T21:24:24+02:00"
-publishdate = "2024-05-08"
-lastmod = "2024-05-08"
+publishdate = "2026-04-06"
+lastmod = "2026-04-06"
 specialites = ["ophtalmologie"]
 annees = "2017"
-sources = ["AFSOP"]
+sources = ["AFSOP", "Afssaps"]
 tags = ["atopie", "enfant", "nourrisson"]
 english = ["Conjunctivitis"]
 sctid = "9826008"
@@ -19,7 +19,8 @@ icd10 = ["H10", "H10.9"]
 draft = true
 image = false
 imageSrc = ""
-todo = "descr > summary > liens > photo > newsletter > flow"
+rank = "false"
+todo = "summary > liens > photo > newsletter > flow"
 +++
 
 {{%article-summary%}}
@@ -27,6 +28,53 @@ todo = "descr > summary > liens > photo > newsletter > flow"
 TODO:
 
 {{%/article-summary%}}
+
+<div class="card card-hover card-tab my-3 my-xl-5">
+  <ul class="nav nav-tabs nav-justified mb-4" role="tablist">
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link active" id="nav-tab-inf" data-toggle="tab" data-target="#nav-conj-inf" role="tab" aria-controls="nav-conj-inf" aria-selected="true">Infectieuse</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-aller" data-toggle="tab" data-target="#nav-conj-aller" role="tab" aria-controls="nav-conj-aller" aria-selected="false">Allergique</button></li>
+  <li class="nav-item" role="presentation"><button type="button" class="nav-link" id="nav-tab-nvne" data-toggle="tab" data-target="#nav-conj-nvne" role="tab" aria-controls="nav-conj-nvne" aria-selected="false">Nouveau-né</button></li>
+  </ul>
+  <div class="card-body tab-content">
+  <div class="tab-pane fade show active" id="nav-conj-inf" role="tabpanel" aria-labelledby="nav-tab-inf">
+
+- Hygiène des mains, lavages répétés au sérum physiologique
+- Chlorhydrate de picloxydine ([Vitabact](https://base-donnees-publique.medicaments.gouv.fr/medicament/64840049/extrait#tab-rcp)) collyre 1 gte x 4-6/j
+- Conjonctivite bactérienne sévère (purulence marquée, chémosis, œdème palpébral, larmoiement important, photophobie, BAV):
+  - Adulte: azithromycine ([Azyter](https://base-donnees-publique.medicaments.gouv.fr/medicament/69326767/extrait#tab-rcp)) collyre 1 gte x 2/j pendant 3 jours.  
+    Si port de lentilles: [ofloxacine](https://base-donnees-publique.medicaments.gouv.fr/medicament/61784766/extrait#tab-rcp) collyre 2 gtes x 4/j pendant 7 jours.
+  - Enfant: [rifamycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/63828371/extrait#tab-rcp) collyre 1 gte x 4/j pendant 7-10 jours
+
+**Prélèvement** du cul-de-sac si: borgne, immunodéprimé, persistance après 8 jours de traitement probabiliste, récidive précoce.
+
+</div>
+<div class="tab-pane fade" id="nav-conj-aller" role="tabpanel" aria-labelledby="nav-tab-aller">
+
+- Lavage au sérum physiologique glacé pluriquotidien. Lavage des vêtements et douche en rentrant.
+- ± [Cromoglicate de sodium](https://base-donnees-publique.medicaments.gouv.fr/medicament/68737032/extrait#tab-rcp) 2% 1 gte x 2-6/j
+- ± Anti-H1 collyre: azélastine ([Allergodil](https://base-donnees-publique.medicaments.gouv.fr/medicament/67399275/extrait#tab-rcp)) 1 gte x 2-4/j ou [lévocabastine](https://base-donnees-publique.medicaments.gouv.fr/medicament/60931882/extrait#tab-rcp) collyre 1 gte x 2/j
+    ou oral: cétirizine cp ou autre
+- ± ou combinés: [kétotifène](https://base-donnees-publique.medicaments.gouv.fr/medicament/66820967/extrait#tab-rcp) 1 gte x 2/j, épinastine (Purivist), olopatadine (Opatanol)
+
+  </div>
+<div class="tab-pane fade" id="nav-conj-nvne" role="tabpanel" aria-labelledby="nav-tab-nvne">
+
+- Prélèvement systématique
+- Azithromycine collyre ([Azyter](https://base-donnees-publique.medicaments.gouv.fr/medicament/69326767/extrait#tab-rcp)) 1 goutte matin et soir pendant 3 jours
+- ou [rifamycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/63828371/extrait#tab-rcp) collyre 1 gte x 4-5/j pendant 7 jours
+
+Sauf gonocoque, *Chlamydia*, herpès.
+
+  </div>
+
+---
+
+Aide au choix du traitement de la conjonctive.
+{.typography-body-2 .text-black-secondary .mt-3}
+
+</div>
+</div>
+
 {{%collapse "Définitions" %}}
 
 Conjonctivite
@@ -42,25 +90,16 @@ AFSOP
 
 BAV
 : baisse d'acuité visuelle
+
+gte
+: goutte
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Critères de gravité" %}}
-
-### Critères de gravité d'une conjonctive bactérienne
-
-- Sécrétions purulentes importantes
-- Chémosis
-- Œdème palpébral
-- Larmoiement important
-- Baisse d'acuité visuelle (BAV)
-- Photophobie
-- Facteur de risque: monophtalme (œil unique), nouveau-né
-
-> -- *Afssaps 2004*
-
-{{% /collapse %}}
 {{%collapse "Clinique" %}}
+
+> [!WARNING]
+> Signes de gravité de la conjonctive bactérienne (indication à l'antibiothérapie): sécrétions purulentes importantes (œil collé au réveil, aspect de cils en poils de pinceau), chémosis, œdème palpébral, larmoiement important, photophobie, baisse d'acuité visuelle (BAV).
 
 ### Interrogatoire
 
@@ -68,6 +107,7 @@ BAV
 - Facteurs de **gravité**: monophtalme, nouveau-né
 - Si nouveau-né: suivi de la grossesse, infections sexuellement transmissibles des parents ([IST](/tags/ist/))
 - Traitements en cours et essayés
+- Port de lentilles de contact
 - Cosmétiques
 - Notion de contage
 - Ancienneté des symptômes
@@ -100,16 +140,16 @@ BAV
 - Otoscopie, examen pharyngé
 
 > [!WARNING]
-> Consultation ophtalmologique urgente en cas d'œil rouge et douloureux ([Urgences ophtalmologiques]({{% relref "urgences-ophtalmologiques.md" %}})).
+> Consultation ophtalmologique urgente en cas d'œil rouge et douloureux (annuaire des [Urgences ophtalmologiques]({{% relref "urgences-ophtalmologiques.md" %}})).
 
 {{% /collapse %}}
 {{%collapse "Formes cliniques de conjonctivite selon l'âge" %}}
 
-### Conjonctivites du nouveau-né
+### Conjonctivite du nouveau-né
 
-Une conjonctive est banale chez 5 % des nouveaux-nés (*Staphylococcus aureus*, *Staphylococcus epidermidis*, *Escherichia Coli*). **Prélèvement et traitement systématique**.
+Une conjonctive est banale chez 5 % des nouveaux-nés (*Staphylococcus aureus* ou *epidermidis*, *Escherichia Coli*). ==**Prélèvement et traitement systématique**==.
 
-Suspecter une conjonctive à ***Chlamydia*** (0,1 - 0,2 %) si: incubation 5-14 jours. Initialement unilatérale, sécrétions muqueuses ou purulentes.
+Suspecter une conjonctive à ***Chlamydia*** (0,1 - 0,2 %) si: incubation 5-14 jours, initialement unilatérale, sécrétions muqueuses ou purulentes.
 
 Suspecter une conjonctivite à **gonocoque** (rare 0,04 %) si: incubation 2-5 jours, chémosis, œdème palpébral, sécrétions séro-sanglantes puis purulentes voire perforation cornéenne. Hospitalisation.
 
@@ -121,16 +161,16 @@ En cas de conjonctive chronique chez le nourrisson (1 mois à 2 ans), penser à 
 
 ### Conjonctivite du nourrisson et de l'enfant
 
-Elle est le plus souvent **bactérienne** (*Haemophilus influenzae* 45-60 % et streptocoques 20-30 %) avec une conjonctivite souvent **purulente, bilatérale et symétrique**. Traitement par antibiothérapie locale en cas de signes de gravité (purulence marquée, chémosis, œdème palpébral, larmoiement important, photophobie, BAV).
+La conjonctivite du nourrisson et de l'enfant est le plus souvent **bactérienne** (*Haemophilus influenzae* 45-60 % et streptocoques 20-30 %) avec une conjonctivite souvent **purulente, bilatérale et symétrique**. Traitement par antibiothérapie locale en cas de signes de gravité (voir *Clinique*).
 
-En cas de **conjonctive virale** (adénovirus ++, entérovirus), le larmoiement est abondant avec sécrétions aqueuses, prurit et sensation de corps étrangers importants. Aussi: **fébricule**, signes respiratoires ou digestifs.
+En cas de **conjonctive virale** (adénovirus ++, entérovirus), le **larmoiement** est abondant avec sécrétions aqueuses, prurit et sensation de corps étrangers importants. Aussi: **fébricule**, signes respiratoires ou digestifs.
 
-Durant la **saison pollinique**, la **conjonctivite allergique** donne un tableau bruyant: prurit intense caronculaire (au canthus interne), larmoiement, œdème palpébral, chémosis.
+La **conjonctivite allergique** est saisonnière (voire perannuelle) et donne un tableau bruyant: **prurit** intense caronculaire (au canthus interne), larmoiement, œdème palpébral, chémosis.
 
-La **kératoconjonctivite vernale** débute surtout chez les garçons avant 10 ans. Elle est résolutive à l'adolescence mais parfois se chronicise sous forme atrophique. Le tableau est une kératoconjonctivite sévère (corps étranger, photophobie, blépharospasme  matinal) avec papilles tarsales géantes (visibles sur le versant interne des paupières), bourrelets limbiques (bourrelet de la jonction iris-sclérotique),  kératite ponctuée.
+La **kératoconjonctivite vernale** débute surtout chez les garçons avant 10 ans. Elle est résolutive à l'adolescence (mais peut se chroniciser sous forme atrophique). Le tableau est une kératoconjonctivite sévère (corps étranger, photophobie, blépharospasme  matinal) avec papilles tarsales géantes (visibles sur le versant interne des paupières), bourrelets limbiques (bourrelet de la jonction iris-sclérotique),  kératite ponctuée.
 
 {{% /collapse %}}
-{{%collapse "Prévention de la conjonctivite" %}}
+{{%collapse "Prévention" %}}
 
 ### Prévention de la conjonctivite néonatale
 
@@ -145,16 +185,16 @@ Indications à la prophylaxie de la conjonctivite du nouveau-né (*AFSOP 2017*):
   - Rupture prématurée des membranes
   - Travail prolongé
 
-> Si une **infection est découverte chez la mère lors de l'accouchement**: ceftriaxone 50 mg/kg (max 125 mg) dose unique (ou céfotaxime 100 mg/kg -- *AFSOP 2017*).
+Dans ces cas, la prophylaxie oculaire du nouveau-né est indiquée: [rifamycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/63828371/extrait#tab-rcp) ou [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/69326767/extrait#tab-rcp)) collyre (Azyter) 1 goutte dans les 24 premières heures de vie. (*AFSOP 2017*)
 
-La prophylaxie oculaire du nouveau-né est possible avec: [rifamycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/63828371/extrait#tab-rcp) ou [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/69326767/extrait#tab-rcp)) collyre 1 goutte dans les 24 premières heures de vie. (*AFSOP 2017*)
+> Si une **infection est découverte chez la mère lors de l'accouchement**: ceftriaxone 50 mg/kg (max 125 mg) dose unique (ou céfotaxime 100 mg/kg -- *AFSOP 2017*).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
 ### Prélèvement des sécrétions oculaires
 
-Indications au prélèvement bactérien pour une conjonctivite:
+Indications au prélèvement bactérien lors d'une conjonctivite:
 
 - Nouveau-né
 - Monophtalme (borgne, œil unique)
@@ -191,7 +231,7 @@ Par âge:
 Recommandations pour le traitement de la conjonctive néonatale (*AFSOP 2017*):
 
 - Prélèvement systématique
-- [Azithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/69326767/extrait#tab-rcp) collyre 1 goutte matin et soir pendant 3 jours
+- [Azithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/69326767/extrait#tab-rcp) collyre (Azyter) 1 goutte matin et soir pendant 3 jours
 - ou [rifamycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/63828371/extrait#tab-rcp) collyre 1 gte x 4-5/j pendant 7 jours
 
 Les germes des IST (gonocoques, *Chlamydia*) donnent des atteintes plus graves (*AFSOP 2017*):
@@ -204,7 +244,7 @@ Le dépistage des parents est associé dans le contexte d'IST.
 Conjonctivite herpétique (1/7500, HSV2 à 70 %)
 Après 15 jours, unilatérale, non purulente, séro-hémorragique, microdendrites. éruption cutanée. Hospitalisation
 
-### Traitement de l'imperforation des voies lacrymales (nourrisson)
+### Traitement de l'imperforation des voies lacrymales (du nourrisson)
 
 Conjonctivites à répétition ou larmoiement clair: souvent par imperforation des voies lacrymales.
 
@@ -215,7 +255,7 @@ Prélèvement si persistance après 8 jours, récidive précoce ou patient monop
 ### Traitement de la conjonctivite du nourrisson et de l'enfant
 
 > [!INFO]
-> Indications au prélèvement bactérien: nouveau-né, monophtalme, immunodéprimé, persistance après 8 jours de traitement probabiliste, récidive précoce.
+> Indications au prélèvement bactérien: nouveau-né, monophtalme, immunodéprimé, port de lentilles de contact, persistance après 8 jours de traitement probabiliste, récidive précoce.
 
 Dépistages visuels rapprochés en cas d'atteinte sévère.
 
@@ -223,7 +263,7 @@ Le traitement antibiotique est réservé aux cas sévères (purulence marquée, 
 
 - ==**[Rifamycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/63828371/extrait#tab-rcp)** collyre 1 gte x 4/j pendant 7-10 jours==
 - [Tobramycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/69240211/extrait#tab-rcp) collyre 1 gte x 4/j pendant 7-10 jours
-- [Azithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/69326767/extrait#tab-rcp) collyre 1 goutte matin et soir pendant 3 jours
+- [Azithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/69326767/extrait#tab-rcp) collyre (Azyter) 1 goutte matin et soir pendant 3 jours
 
 En cas de **syndrome otite-conjonctivite**, voir [otite moyenne aiguë]({{% relref "otite-moyenne-aigue.md" %}}).
 
@@ -239,11 +279,13 @@ Lavage au sérum physiologique glacé pluriquotidien. Lavage des vêtements et d
 
 Si insuffisant:
 
-- Antihistaminique H1 collyre (azélastine, levocabastine) ou oral si rhinite associée
-- antidégranulants mastocytaires: cromoglycate de sodium, acide N-acétyl-aspartyl-glutamique ou NAAGA, lodoxamide, nédocromil
+- Antihistaminique H1 collyre (azélastine, lévocabastine) ou oral si rhinite associée
+- Antidégranulants mastocytaires: **cromoglicate de sodium**, acide N-acétyl-aspartyl-glutamique (NAAGA), lodoxamide, nédocromil
 - Double action: kétotifène, épinastine, olopatadine
 
 ### Adulte
+
+Bactérien: azithromycine 1 gte x 2/j pendant 3 jours, ofloxacine 2 gtes x 4/j pendant 7 jours si port de lentilles.
 
 Rosacée oculaire: souvent associée à la conjonctivite allergique mais par poussées.
 
@@ -252,6 +294,7 @@ Hygiène des paupières, cures courtes d'azithromycine et ciclosporine collyre a
 {{% /collapse %}}
 {{%sources%}}
 
+- Prescrire Redaction. Conjonctivite aiguë infectieuse. Premiers Choix Prescrire. Rev Prescrire. 2024.
 - [Chen Y-Y, et al. Antibiotics versus placebo for acute bacterial conjunctivitis. Cochrane Database of Systematic Reviews. 2023.](https://www.cochrane.org/fr/CD001211/EYES_quels-sont-les-benefices-et-les-risques-des-antibiotiques-dans-le-traitement-de-la-conjonctivite)
 - Prescrire Redaction. Conjonctivite allergique saisonnière. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Collège des Ophtalmologistes Universitaires de France (COUF). Infections et inflammations oculaires. Chapitre 6. Items 83 et 187. 2021.](https://couf.fr/espace-etudiants/2eme-cycle-dfasm/)
@@ -263,7 +306,6 @@ Hygiène des paupières, cures courtes d'azithromycine et ciclosporine collyre a
 
 - [Cheung A, et al. Conjunctivitis Preferred Practice Pattern. Ophthalmology. 2024.](https://www.aaojournal.org/article/S0161-6420(24)00009-5/fulltext) (*AAO*)
 - WIP [Société Française d'Ophtalmologie (SFO). Pathologies conjonctivales. Chapitre 8. Ophtalmologie pédiatrique.](https://www.em-consulte.com/em/SFO/2017/file_10008.html)
-- Prescrire Redaction. Conjonctivite aiguë infectieuse. Premiers Choix Prescrire. Rev Prescrire. 2024.
 - tripdatabase
 
 {{%/sources%}}

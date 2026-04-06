@@ -18,6 +18,7 @@ icd10 = []
 atc = "C10AA"
 image = true
 imageSrc = "Illustration des statines par macrovector / Freepik"
+rank = "ok"
 todo = "photo"
 slider = true
 +++

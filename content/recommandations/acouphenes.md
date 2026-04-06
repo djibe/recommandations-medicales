@@ -18,7 +18,9 @@ icd10 = ["H93.1"]
 draft = true
 image = false
 imageSrc = "Les acouphènes. Freepik"
+rank = "false"
 todo = "descr > summary > liens > photo > newsletter > flow > Kanban"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -175,6 +177,20 @@ Si imageries normales et forte suspicion de cause veineuse ou de fistule artéri
 - Association de patients: [France Acouphènes](https://www.france-acouphenes.fr/pathologies.html)
 
 Les autres traitements relèvent du spécialiste (ORL voire neuroradiologue).
+
+{{% /collapse %}}
+{{%collapse "Prise en charge des acouphènes" "show" %}}
+
+{{< mermaid title="Prise en charge des acouphènes. Dr JB Fron d'après " >}}
+graph TB
+  acouphène --> clinique(Clinique) --> NonPulsatile(Non pulsatile) --> otoscopie(Otoscopie)
+    otoscopie -- Anormale --> anormale("IRM ou scanner<br>des rochers HR")
+    otoscopie --> normale("Normale avec surdité<br>de transmission:<br>scanner rochers HR")
+    otoscopie --> normalePerception(Normale et perception<br>ou unilatérale:<br>IRM du méat)
+    clinique --> pulsatile(Pulsatile:<br>Compression jugulaire<br>interne, rotation<br>tête) -- Modifié --> radio("- AngioIRM<br>- Consult radio intervent.")
+      pulsatile -- "Non modifié" --> ORL("- AngioIRM<br>- ORL")
+  style acouphène stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
