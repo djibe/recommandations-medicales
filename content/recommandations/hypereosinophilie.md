@@ -101,7 +101,7 @@ Orientation étiologique devant une hyperéosinophilie:
 - Infections non parasitaires  
   Bactériémie, brucellose, scarlatine, mycose profonde, [syphilis secondaire]({{% relref "syphilis.md" %}}), [mononucléose infectieuse]({{% relref "mononucleose-infectieuse.md" %}}), [VIH]({{% relref "vih-sida.md" %}}), [hépatite C]({{% relref "hepatite-c.md" %}}), [endocardite]({{% relref "endocardite.md" %}}), mycobactéries ...
 - **Atopie**  
-  HE < 1 g/L et fluctuante: [asthme]({{% relref "asthme.md" %}}), [rhinite]({{% relref "rhinite-allergique.md" %}}) ou conjonctivite allergique, [dermatite atopique]({{% relref "dermatite-atopique.md" %}}), aspergillose, allergie alimentaire ou **médicamenteuse**, [urticaire]({{% relref "urticaire.md" %}}).
+  HE < 1 g/L et fluctuante: [asthme]({{% relref "asthme.md" %}}), [rhinite]({{% relref "rhinite-allergique.md" %}}) ou [conjonctivite allergique]({{% relref "conjonctivite.md" %}}), [dermatite atopique]({{% relref "dermatite-atopique.md" %}}), aspergillose, allergie alimentaire ou **médicamenteuse**, [urticaire]({{% relref "urticaire.md" %}}).
 - Toxique  
   Benzène, mercure.
 - Maladie de système  

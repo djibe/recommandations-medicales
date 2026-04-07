@@ -107,7 +107,7 @@ Diagnostic différentiel de la rhinite allergique:
 > Un interrogatoire complet permet un diagnostic fiable de rhinite allergique. (*SFORL 2020*)
 
 - Terrain [atopique](/tags/atopie/)  
-  Conjonctivite allergique, [asthme]({{% relref "asthme.md" %}}) ( associé pour 19-38 %), [dermatite atopique]({{% relref "dermatite-atopique.md" %}}).
+  [Conjonctivite allergique]({{% relref "conjonctivite.md" %}}), [asthme]({{% relref "asthme.md" %}}) ( associé pour 19-38 %), [dermatite atopique]({{% relref "dermatite-atopique.md" %}}).
 - Antécédents familiaux atopiques
 - Tabagisme
 - Expositions professionnelles (aérosols, poussières, métaux) et domestiques

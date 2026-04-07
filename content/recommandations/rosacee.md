@@ -85,7 +85,7 @@ Le diagnostic de la rosacée est clinique.
   - Télangiectasies
   - Papules sur fond érythémateux
   - Rhinophyma (voir plus bas)
-  - Rosacée oculaire: conjonctivite, blépharite, irritation, xérose voire kératite
+  - Rosacée oculaire: [conjonctivite]({{% relref "conjonctivite.md" %}}), blépharite, irritation, xérose voire kératite
 
 ### Examen clinique
 

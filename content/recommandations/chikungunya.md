@@ -107,7 +107,7 @@ Le mode d'action du virus est mal connu, l'**incubation dure de 4 à 7 jours** (
     Poignets, doigts, chevilles, pieds, genoux (plus rarement hanches ou épaules), persistantes plus d'un mois dans la moitié des cas.
   - Signes généraux: ==**fièvre élevée**== brutale, syndrome pseudo-grippal (**céphalées**, myalgies)
   - [Exanthème maculopapuleux](/tags/eruption-febrile/) du tronc et des membres
-  - Conjonctivite
+  - [Conjonctivite]({{% relref "conjonctivite.md" %}})
   - Adénopathies cervicales
   - Plus rarement: [épistaxis]({{% relref "epistaxis.md" %}}) et gingivorragies bénignes (surtout chez les enfants)
 - **Signes de gravité:** forme hyperalgique, forme neurologique (méningo-encéphalite, névrite optique, confusion) ou autre (rhabdomyolyse, dermatose bulleuse, hépatite fulminante, myocardite)

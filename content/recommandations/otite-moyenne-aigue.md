@@ -81,7 +81,7 @@ Signes et symptômes d'otite moyenne aiguë à rechercher à l'examen:
   - Contexte de rhinopharyngite
   - Fièvre
   - Otalgie (inconstante chez l'adulte)
-  - Parfois conjonctivite purulente associée évocatrice d'*Haemophilus*
+  - Parfois [conjonctivite purulente]({{% relref "conjonctivite.md" %}}) associée évocatrice d'*Haemophilus*
 - Nourrisson: irritabilité, pleurs inhabituels, insomnie, troubles digestifs (vomissements, selles liquides, douleurs abdominales)
 
 ### Examen clinique

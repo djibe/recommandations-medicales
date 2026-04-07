@@ -75,7 +75,7 @@ Urétrite
 - Écoulement urétral (jaune ou blanchâtre) purulent, séreux voire hémorragique
 - Dysurie, brûlures mictionnelles
 - Prurit urétral
-- Auto-contamination: conjonctivite, pharyngite, proctite
+- Auto-contamination: [conjonctivite]({{% relref "conjonctivite.md" %}}), pharyngite, proctite
 - Très souvent **asymptomatique**
 
 ### Examens complémentaires de l'urétrite

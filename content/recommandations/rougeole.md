@@ -80,7 +80,7 @@ L'incubation de la rougeole dure de 10 à 12 jours et la contagiosité perdure 5
 - Notion de contage ou d'épidémie locale
 - Phase d'invasion de la rougeole (2-4 jours):
   - ==Fièvre élevée== (39-40 °C) et toux
-  - Catarrhe oculorespiratoire: larmoiement, conjonctivite, rhinorrhée (coryza)
+  - Catarrhe oculorespiratoire: larmoiement, [conjonctivite]({{% relref "conjonctivite.md" %}}), rhinorrhée (coryza)
   - **Signe de Köplik** (50%): papules blanc-bleutées sur la muqueuse jugale inflammatoire
 - Phase éruptive (2 semaines après le contage):
   - Persistance des signe catarrhaux

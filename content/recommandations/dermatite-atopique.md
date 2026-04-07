@@ -117,7 +117,7 @@ Le diagnostic de dermatite atopique est clinique:
 - Lichénification si grattage
 - Interrogatoire policier pour éliminer un facteur aggravant allergique
 - **Comorbidités de l'[atopie](/tags/atopie/)** (70 %)  
-  Allergie alimentaire, asthme, conjonctivite allergique, rhinite allergique, antécédents familiaux.
+  Allergie alimentaire, asthme, [conjonctivite allergique]({{% relref "conjonctivite.md" %}}), rhinite allergique, antécédents familiaux.
 - Débutant dès le bas âge
 - Évolution par poussées avec intervalles libres (xérose persistante)
 - Respect la région médio-faciale (nez ++)

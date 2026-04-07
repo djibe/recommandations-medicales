@@ -70,7 +70,7 @@ Acné de la femme adulte
 Autres diagnostics à évoquer devant des nodules, papules et pustules inflammatoires:
 
 - [Rosacée papulo-pustuleuse]({{% relref "rosacee.md" %}})  
-  Flushs du visage, conjonctivite, télangiectasies, symétrie des lésions et absence de comédons.
+  Flushs du visage, [conjonctivite]({{% relref "conjonctivite.md" %}}), télangiectasies, symétrie des lésions et absence de comédons.
 - Dermatite péri-orale ou folliculite infectieuse  
   Absence de comédons.
 - Folliculite médicamenteuse  

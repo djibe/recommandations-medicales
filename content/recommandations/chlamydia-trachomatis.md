@@ -114,7 +114,7 @@ La PCR (ou TAAN) joint la recherche *Chlamydia*, gonocoque et *M. genitalium*:
 
 Signes de *Chlamydia* communs:
 
-- Conjonctivite subaiguë ou résistante aux antibiotiques
+- [Conjonctivite]({{% relref "conjonctivite.md" %}}) subaiguë ou résistante aux antibiotiques
 - Pharyngite, odynophagie
 - Ulcération génitale
 - Anorectite  
