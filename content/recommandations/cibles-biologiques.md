@@ -31,9 +31,9 @@ todo = "LDL"
 | ------------ | -------------------- | ---------------------- | ------ |
 | Ferritinémie | Femme jeune          | ≥ 50 ng/mL          | HAS    |
 | Ferritinémie | Grossesse            | ≥ 80 ng/mL          | HAS    |
-| Ferritinémie | insuffisance cardiaque | ≥ 100 ng/mL       | ESC 2021 |
+| Ferritinémie | Insuffisance cardiaque | ≥ 100 ng/mL       | ESC 2021 |
 | Ferritinémie | Jambes sans repos    | ≥ 75 ng/mL          | SFRMS 2019 |
-| HbA~1c~ | {{< modal-btn modal-hba1c >}}Détail des cibles{{< /modal-btn >}} | ~ 7 % | SFD 2019 |
+| HbA~1c~ | {{< modal-btn modal-hba1c >}}Détail des cibles{{< /modal-btn >}} | ~ 7 % | SFD 2025 |
 | Uricémie     | Goutte               | < 50 mg/L           | SFR 2020 |
 | VDRL         | M6 post-PéniG<br>M12 post-PéniG | Taux /4<br>Négatif | SFD 2016 |
 | Vitamine D   | Adulte<br>Ménopause, ≥ 65 ans | ≥ 50 nmol/L<br>≥ 75 nmol/L | Annweiler C 2018 |

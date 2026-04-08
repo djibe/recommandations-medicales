@@ -42,6 +42,12 @@ Hypercalcémie
 
 En contexte de malignité, l'hypercalcémie est **légère** (< 3 mmol/L), **modérée** ou **sévère** (> 3,5 mmol/L).
 
+| Hypercalcémie | Seuil (> mmol/L) |
+| ------------- | :------: |
+| ERC 2025 | 2,6 |
+| SFE/AFCE 2024 | 2,5 |
+{caption="Seuils de l'hypercalcémie selon différentes sociétés savantes"}
+
 ### Abréviations
 
 PTH

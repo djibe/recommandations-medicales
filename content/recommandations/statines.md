@@ -165,6 +165,7 @@ Au Danemark, les personnes ayant arrêté leur statine ont eu 26 % d'**[infarctu
 
 *Autres bibliographies en regard de chaque élément présenté*
 
+- [Reith C, et al. Assessment of adverse effects attributed to statin therapy in product labels: a meta-analysis of double-blind randomised controlled trials. The Lancet. 2026.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01578-8/fulltext)
 - [Mach F, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/article/46/42/4359/8234482)
 - [Cholesterol Treatment Trialists' (CTT) Collaboration. Effects of statin therapy on diagnoses of new-onset diabetes and worsening glycaemia in large-scale randomised blinded statin trials: an individual participant data meta-analysis. Lancet Diabetes Endocrinol. 2024.](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24)00040-8/fulltext)
 - [Adams SP et al. Pravastatin for lowering lipids. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013673.pub2/full/fr)

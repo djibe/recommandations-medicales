@@ -181,7 +181,7 @@ Indication à doser la testostérone en présence d'un ou plusieurs signes parmi
 Bilan à réaliser devant une suspicion d'andropause:
 
 - TSH
-- Bilan hépatique
+- Bilan hépatique: ASAT, ALAT, GGT, PAL, bilirubine totale
 - Glycémie à jeun
 - Bilan lipidique
 - Testostéronémie libre ou biodisponible à jeun entre 8 et 11 heures

@@ -168,7 +168,7 @@ La prise en charge de la carence en vitamine B12 comprend un traitement:
 
 - Oral en cas de carence d'apports:  
   [vitamine B12 250 µg cp](https://base-donnees-publique.medicaments.gouv.fr/medicament/61247741/extrait#tab-rcp) (NR) 1 cp/j pendant 15 à 30 jours, puis 1 cp tous les 10 jours au long cours.
-- Intramusculaire en cas de défaut d'absorption (Biermer, gastrectomie ou résection iléale complète):
+- ==Intramusculaire en cas de défaut d'absorption== (Biermer, gastrectomie ou résection iléale complète):
   - [Vitamine B12 1000 µg](https://base-donnees-publique.medicaments.gouv.fr/medicament/65647512/extrait#tab-rcp) 1 ampoule/j IM (ou 3/semaine) pour 10 ampoules, puis 1 ampoule/mois (1 mg/mois).
   - En cas de gastrite ou de cause médicamenteuse, en entretien, le traitement peut être oral entre 1 à 2 mg/j
 - **Réévaluation**

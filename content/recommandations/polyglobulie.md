@@ -19,6 +19,7 @@ image = true
 imageSrc = "Frottis sanguin d'une femme suivie pour polyglobulie essentielle. Trois précurseurs de globules rouges présents et une anisopoïkilocytose légère à modérée (coloration de Wright-Giemsa). The Armed Forces Institute of Pathology (AFIP), Public domain, via Wikimedia Commons"
 rank = "ok"
 flowchart = true
+modele = true
 +++
 
 {{%article-summary%}}
@@ -52,7 +53,9 @@ EPO
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Étiologie d'une polyglobulie" %}}
+{{%collapse "Étiologie" %}}
+
+### Étiologies d'une polyglobulie
 
 - Polyglobulie essentielle ou maladie de Vaquez
 - Congénitale: mutations du récepteur à l'EPO
@@ -150,3 +153,16 @@ graph TB
 - [Société française d'hématologie. La polyglobulie primitive (maladie de Vaquez). Information patient. 2009.](https://sfh.hematologie.net/sites/sfh.hematologie.net/files/medias/documents/polyglobulieprimitive.pdf)
 
 {{%/sources%}}
+{{% modele %}}
+
+Bilan au laboratoire:
+
+- NFS
+- Frottis sanguin
+- Ferritinémie
+- Créatininémie, DFG
+- ASAT, ALAT, GGT, PAL, TP
+- Calcémie
+- EPO
+
+{{% /modele %}}
