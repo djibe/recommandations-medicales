@@ -22,14 +22,18 @@ const botUas = [
   'LamarkBot',
   'Manus-User',
   'MJ12bot',
+  'node',
   'okhttp',
   'PetalBot',
+  'PickaxeBot',
   'python',
   'Python-httpx',
   'python-requests',
   'quillbot',
+  'Ruby',
   'server',
   'ShapBot',
+  'SleepBot',
   'YouBot'
 ]
 

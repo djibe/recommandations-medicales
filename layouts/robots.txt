@@ -137,6 +137,7 @@ User-agent: Perplexity-User
 User-agent: PerplexityBot
 User-agent: PetalBot
 User-agent: PhindBot
+User-agent: PickaxeBot
 User-agent: Poggio-Citations
 User-agent: Poseidon Research Crawler
 User-agent: proximic
@@ -148,6 +149,7 @@ User-agent: Scrapy
 User-agent: Screaming Frog SEO Spider
 User-agent: SEBot-WA
 User-agent: Seekport Crawler
+User-agent: SleepBot
 User-agent: SemrushBot
 User-agent: SemrushBot-OCOB
 User-agent: SemrushBot-SWA
