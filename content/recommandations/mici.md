@@ -73,7 +73,7 @@ Diag différentiel: infectio bilan SYS
 NFS plaquettes
 CRP
 Calprotectine fécale
-Ionogramme sanguin, urée, créatininémie, albuminémie
+Ionogramme sanguin, créatininémie, albuminémie
 Ferritinémie, coefficient de saturation de la transferrine
 Vitamine B12, folates
 Sérologies VHB, VHC, VIH, EBV, CMV

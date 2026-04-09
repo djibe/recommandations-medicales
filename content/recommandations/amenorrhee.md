@@ -218,7 +218,7 @@ La présence d'irrégularités menstruelles avant l'aménorrhée (spanioménorrh
   - Structures normales: imperforation hyménéale ou aménorrhée secondaire
 - Si les gonadotrophines sont basses:
   - IRM hypophysaire (tumeur)
-  - Bilan d'une suspicion fonctionnelle: NFS, ionogramme, glycémie, bicarbonate, urée, créatinine, bilan hépatique, CRP (*ES*)
+  - Bilan d'une suspicion fonctionnelle: NFS, ionogramme, glycémie, bicarbonate, créatinine, bilan hépatique, CRP (*ES*)
   - Éliminer une dénutrition
   - Rechercher un syndrome de Kallmann (anosmie, bulbes olfactifs absents en IRM)
 - Si les gonadotrophines sont hautes (FSH augmentée, estradiol indosable):

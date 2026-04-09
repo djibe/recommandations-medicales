@@ -225,8 +225,8 @@ Les mesures de prévention de l'hyperkaliémie comprennent:
 - Le dosage régulier en cas de comorbidités à risque (insuffisance rénale, cardiaque, diabète)
 - Médicaments à risque:
   - Éducation, suspension en cas de situation de déshydratation (IEC/ARA2, AINS ...)
-  - IEC/ARA2: kaliémie et urée avant introduction, puis 1-2 semaines après chaque changement de dose, éviter le triméthoprime
-  - anti-aldostérone (spironolactone): éviter si kaliémie basale > 5 mmol/L, kaliémie et urée avant introduction, puis 1 semaine après chaque changement de dose, mensuelle le premier trimestre puis trimestrielle
+  - IEC/ARA2: kaliémie avant introduction, puis 1-2 semaines après chaque changement de dose, éviter le triméthoprime
+  - anti-aldostérone (spironolactone): éviter si kaliémie basale > 5 mmol/L, kaliémie avant introduction, puis 1 semaine après chaque changement de dose, mensuelle le premier trimestre puis trimestrielle
 - Si insuffisance rénale: accompagnement diététique
 
 {{% /collapse %}}

@@ -112,7 +112,7 @@ Bilan urgent d'une douleur épigastrique transfixiante:
 
 - NFS, CRP
 - Amylasémie, **lipasémie**
-- Urée, créatinine
+- Créatinine
 - Bilan hépatique: ASAT, ALAT, GGT, PAL, bilirubine
 - Albuminémie, calcémie
 - Si absence de lithiase biliaire et d'alcool: bilan lipidique  
