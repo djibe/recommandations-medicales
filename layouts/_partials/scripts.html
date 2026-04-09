@@ -109,9 +109,9 @@ document.addEventListener( 'DOMContentLoaded', event => {
 {{- end -}}
 
 {{- with .Params.flowchart }}
-// Truncated graphs may come from prefers-reduced-motion activated
 <script src=" https://cdn.jsdelivr.net/npm/mermaid@11.14/dist/mermaid.min.js" defer crossorigin></script>
 <script>
+  // Truncated graphs may come from prefers-reduced-motion activated
   document.addEventListener( 'DOMContentLoaded', event => {
   const MermaidConfig = {
     // logLevel: 1, // debug
