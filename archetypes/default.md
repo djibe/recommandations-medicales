@@ -19,6 +19,7 @@ icd10 = ["sctid > Concept Details > Refsets"]
 draft = true
 image = false
 imageSrc = ""
+rank = "false"
 todo = "descr > summary > liens > photo > newsletter > flow > Kanban"
 +++
 
