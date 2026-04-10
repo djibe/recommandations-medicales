@@ -22,7 +22,7 @@ imageSrc = "Virus respiratoire syncytial (VRS) de la bronchiolite au microscope.
 rank = "ok"
 flowchart = true
 chart = true
-todo = "SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
+todo = "SEO, SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
 +++
 
 {{%article-summary%}}
@@ -32,7 +32,7 @@ todo = "SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/2005/revu
 - Critères d'hospitalisation de la bronchiolite: voir *Signes de gravité et hospitalisation*
 - La dyspnée dure de 3 à 10 jours (voire 6 semaines)
 - Recommandations de prise en charge de la bronchiolite: éviction en phase aiguë - DRP - fractionner les repas - surveillance - aucune exposition au tabac
-- Prévention de la bronchiolite: mesures barrières, vaccin anti-VRS en fin de grossesse voire injection IM d'anticorps **nirsévimab** Beyfortus® avant la sortie de maternité de septembre à fin janvier (ou février). Rattrapage pour ceux nés après le 1^er^ février avec 1 seule injection selon le poids (voir *[Prévention](#prévention-de-la-bronchiolite))* en l'absence de test VRS positif
+- Prévention de la bronchiolite: mesures barrières, injection IM d'anticorps **nirsévimab** Beyfortus® avant la sortie de maternité (plus efficace) ou vaccin anti-VRS en fin de grossesse de septembre à fin janvier (ou février). Rattrapage pour ceux nés après le 1^er^ février avec 1 seule injection selon le poids (voir *[Prévention](#prévention-de-la-bronchiolite))* en l'absence de test VRS positif
 
 Bronchiolite: [conseils aux parents de la HAS (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf).
 
@@ -258,7 +258,7 @@ Recommandations pour la prévention de la bronchiolite:
 
 [Fiche info vaccination VRS HAS (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2025-08/bronchiolite_comment_proteger_votre_futur_bebe_dune_forme_grave_-_actualisation_aout_2025.pdf)
 
-Le vaccin **anti-VRS Abrysvo** est recommandé en fin de grossesse entre 32 et 36 SA de septembre à janvier. Aucune dose ultérieure lors des grossesses suivantes.
+Le vaccin **anti-VRS Abrysvo** est recommandé en fin de grossesse entre 32 et 36 SA de septembre à janvier. Aucune dose ultérieure lors des grossesses suivantes. Le vaccin est moins efficace que les anticorps monoclonaux ([ANSM](https://ansm.sante.fr/actualites/prevention-des-hospitalisations-pour-bronchiolite-chez-le-nouveau-ne-beyfortus-montre-une-efficacite-superieure-a-celle-offerte-par-abrysvo)).
 
 Il peut être co-administré avec les vaccins **grippe et Covid-19** mais doit être espacé de 2 semaines avec la rappel de coqueluche.
 

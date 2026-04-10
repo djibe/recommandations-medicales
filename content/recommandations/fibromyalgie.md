@@ -201,7 +201,7 @@ Bilan général (non précisé dans les recommandations):
 - Ionogramme sanguin
 - Créatininémie et DFG
 - TSH
-- Calcémie corrigée, albuminémie
+- Calcémie
 - CPK
 
 {{% /collapse %}}

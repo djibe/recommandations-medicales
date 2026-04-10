@@ -18,7 +18,7 @@ sctid = "9826008"
 icd10 = ["H10", "H10.9"]
 image = true
 imageSrc = "Conjonctivite de l'œil gauche. Raimundo Pastor, CC BY-SA 4.0, via Wikimedia Commons"
-rank = "false"
+rank = "ok"
 todo = "flow"
 +++
 
