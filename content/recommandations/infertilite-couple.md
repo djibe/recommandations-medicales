@@ -182,7 +182,7 @@ L'examen clinique concerne chaque membre du couple.
   - Examen des seins, galactorrhée
   - Examen gynécologique
 - Homme
-  - Hypogonadisme: pilosité, gynécomastie
+  - Hypogonadisme: pilosité, [gynécomastie]({{% relref "gynecomastie.md" %}})
   - L'examen physique par un urologue ou andrologue: hypospadias, varicocèle, verge, volume testiculaire et consistance, épididyme, canaux déférents
 
 {{% /collapse %}}

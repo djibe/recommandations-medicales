@@ -122,7 +122,7 @@ L'examen clinique recherche les éléments du syndrome de thyrotoxicose.
   - [Diarrhée chronique]({{% relref "diarrhee-chronique.md" %}}) (35%)
   - [Prurit]({{% relref "prurit.md" %}}) (18%)
   - Œdèmes des membres inférieurs (13%)
-  - Autres: [ostéoporose rachidienne]({{% relref "osteoporose.md" %}}), gynécomastie de l'homme, troubles des cycles, rétraction de la paupière supérieure
+  - Autres: [ostéoporose rachidienne]({{% relref "osteoporose.md" %}}), [gynécomastie]({{% relref "gynecomastie.md" %}}) de l'homme, troubles des cycles, rétraction de la paupière supérieure
 - Signes d'hyperthyroïdie chez l'enfant:
   - Avance staturale et de la maturation osseuse
   - Hyperactivité avec retentissement scolaire

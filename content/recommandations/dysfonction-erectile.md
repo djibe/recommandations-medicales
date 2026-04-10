@@ -185,7 +185,7 @@ Examen clinique annuel en cas de dysfonction érectile avec:
 
 - Poids, taille, IMC, tour de taille
 - Uro-génital  
-  Testicules (taille, consistance), pénis (**mycose**, **phimosis**, prépuce, frein, , déformation, taille), toucher rectal après 50 ans, gynécomastie  
+  Testicules (taille, consistance), pénis (**mycose**, **phimosis**, prépuce, frein, , déformation, taille), toucher rectal après 50 ans, [gynécomastie]({{% relref "gynecomastie.md" %}})  
 - Cardiovasculaire  
   - Pression artérielle, pouls périphériques, souffles vasculaires
   - Évaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ([SCORE2]({{% relref "score2.md" %}}) en prévention primaire)

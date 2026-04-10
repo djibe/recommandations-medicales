@@ -242,7 +242,7 @@ avec surveillance de signes psychiatriques.
 
 **Indication aux I5AR:** symptômes gênants et prostate +40mL.
 
-**Effets indésirables:** dysfonction érectile et éjaculation rétrograde, baisse de la libido, gynécomastie, troubles psychiatriques (anxiété, [dépression]({{% relref "depression.md" %}})). Délai d'apparition de 1 an.
+**Effets indésirables:** dysfonction érectile et éjaculation rétrograde, baisse de la libido, [gynécomastie]({{% relref "gynecomastie.md" %}}), troubles psychiatriques (anxiété, [dépression]({{% relref "depression.md" %}})). Délai d'apparition de 1 an.
 
 Efficace après 6 mois de traitement, réduction du volume prostatique sur plusieurs années.  
 Seule classe à réduire le risque de rétention aiguë d'urines.

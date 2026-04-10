@@ -154,7 +154,7 @@ Signes et symptômes d'andropause à rechercher à l'examen:
 - Poids et variations, taille et variations, IMC, périmètre abdominal
 - Pression artérielle, fréquence cardiaque
 - Faiblesse musculaire
-- Gynécomastie
+- [Gynécomastie]({{% relref "gynecomastie.md" %}})
 - Diminution de la pilosité (atteinte chronique), atrophie cutanée
 - Atrophie testiculaire, toucher rectal (TR)
 

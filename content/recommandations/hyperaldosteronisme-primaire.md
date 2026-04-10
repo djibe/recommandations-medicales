@@ -214,7 +214,7 @@ Titrer la spironolactone jusqu'à la normalisation de la rénine. Ensuite, si n�
 **Effets indésirables de la spironolactone:**
 
 - La réduction du débit de filtration glomérulaire (**DFG**) est normale et est un signe d'efficacité du traitement. Avis néphrologique en cas de réduction persistante;
-- La **gynécomastie** apparaît surtout après 6 mois de traitement. Chez les hommes jeunes, réduire la spironolactone ≤ 50 mg/j. Si échec: remplacer par l'éplérénone. Ces mesures permettent le plus souvent une disparition de la gynécomastie.
+- La **[gynécomastie]({{% relref "gynecomastie.md" %}})** apparaît surtout après 6 mois de traitement. Chez les hommes jeunes, réduire la spironolactone ≤ 50 mg/j. Si échec: remplacer par l'éplérénone. Ces mesures permettent le plus souvent une disparition de la gynécomastie.
 
 ### Indications à la chirurgie pour hyperaldostéronisme primaire
 

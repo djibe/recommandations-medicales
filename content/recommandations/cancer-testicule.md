@@ -87,7 +87,7 @@ Tableau clinique survenant chez un homme de 30 à 40 ans le plus souvent:
   - douleurs lombaires ou du flanc, amaigrissement, AEG, dyspnée
   - masse rétro-péritonéale
   - [infertilité]({{% relref "infertilite-couple.md" %}})
-  - gynécomastie
+  - [gynécomastie]({{% relref "gynecomastie.md" %}})
 
 ### Examen clinique
 
