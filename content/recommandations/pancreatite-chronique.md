@@ -190,7 +190,7 @@ La prise en charge de la pancréatite chronique comprend le traitement des insuf
 - Si génétique: association de patients [APCH](https://www.association-apch.org/)
 - Consultation génétique si: étiologie incertaine, antécédents familiaux pancréatiques, avant 35 ans ou échec d'un traitement supposé définitif (*ex.* désobstruction canalaire -- *ACG*)
 
-La **chirurgie pancréatique** est réservée aux patients avec symptômes intenses et prolongés ave lithiases, complications (pseudokystes) ou atteintes canalaires.
+La **chirurgie pancréatique** est réservée aux patients avec symptômes intenses et prolongés avec lithiases, complications (pseudokystes) ou atteintes canalaires.
 
 Pas de dépistage systématique du cancer du pancréas (prévalence 5 à 10%) mais imagerie en cas de modification des symptômes.
 {.alert .alert-warning}

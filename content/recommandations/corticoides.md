@@ -58,6 +58,9 @@ ES
 
 ESE
 : {{%lang%}}European Society of Endocrinology{{%/lang%}}
+
+ISPC
+: insuffisance surrénale post-corticothérapie
 {.dl-inline}
 
 {{% /collapse %}}
@@ -173,11 +176,11 @@ Mesures associées à un traitement corticoïde prolongé:
 > [!INFO]
 > Pour un **traitement corticoïde court** (inférieur à 3-4 semaines, quelle que soit la dose), **aucune décroissance** n'est nécessaire.
 
-**Facteurs de risque d'insuffisance corticotrope:** dose, durée, voie d'administration et puissance du corticoïde et susceptibilité individuelle.
+**Facteurs de risque d'insuffisance corticotrope** (insuffisance surrénale post-corticothérapie - ISPC): dose, durée, voie d'administration et puissance du corticoïde et susceptibilité individuelle.
 
 Pour la décroissance des glucocorticoïdes, remplacer les corticoïdes de longue durée (dexaméthasone, bétaméthasone) par des molécules de demi-vie brève (prednisone ou autre).
 
-Un suivi endocrinien n'est pas nécessaire en l'absence de traitement corticoïde pour motif endocrinien.
+Un suivi endocrinologique n'est pas nécessaire en l'absence de traitement corticoïde pour motif endocrinien.
 
 ### Rythme de décroissance des corticoïdes
 
