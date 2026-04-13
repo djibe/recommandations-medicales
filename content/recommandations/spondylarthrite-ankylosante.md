@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr D. WENDLING (SFR)"
 date = "2020-10-15T20:39:41+02:00"
 publishdate = "2020-10-15"
-lastmod = "2022-12-08"
+lastmod = "2026-04-13"
 specialites = ["rhumatologie"]
 annees = "2022"
 sources = ["SFRhumato", "EULAR"]
@@ -19,17 +19,17 @@ sctid = "723116002"
 icd10 = ["M45", "M46.9"]
 image = true
 imageSrc = "Scanner d'un sujet avec spondylarthrite ankylosante: Ankylose de toutes les vertèbres thoraco-lombaires et des sacro-iliaques chez un patient de 70 ans. Di Muzio B. Étude de cas, Radiopaedia.org"
+rank = "ok"
 flowchart = true
 todo = "def rhumatisme pso + MICI, bilan pré-thérap antitnfa"
 +++
 
 {{%article-summary%}}
 
-- Évoquer une spondylarthrite ankylosante en cas de: dorso-lombalgies persistantes +3 mois, réveil nocturne, dérouillage matinal +30 minutes, aggravées au repos, diminuées à l'activité physique
-- Grande efficacité des AINS
-- Bilan devant une suspicion de spondylarthrite: bilan biologique + Radiographies et IRM des sacro-iliaques
-- Prise en charge de toute suspicion de spondyloarthrite par le rhumatologue
-- [Suivi du patient sous biothérapie](http://www.cri-net.com/fiches-pratiques-et-eSessions/dernieres-mises-a-jour)
+- La spondylarthrite ankylosante (SpA) est une maladie vaste englobant différentes entités auparavant différenciées: spondylarthrite ankylosante, rhumatisme psoriasique (Rpso), arthrites réactionnelles, rhumatismes inflammatoires associés aux MICI ...
+- Les signes et symptômes évocateurs de spondylarthrite ankylosante sont des dorso-lombalgies persistantes chroniques (+3 mois) avec réveil nocturne, dérouillage matinal prolongé (+30 minutes), aggravées au repos et diminuées à l'activité physique, très sensibles aux AINS
+- Le bilan initial d'une suspicion de spondylarthrite associe bilan biologique (NFS, CRP) et radiographies et IRM des sacro-iliaques
+- La prise en charge de toute suspicion de spondyloarthrite ankylosante est spécialisée et rhumatologique
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -47,9 +47,9 @@ Spondyloarthrite (SpA)
 - Raideur lombaire
 - Résistance aux AINS
 
-### Complications
+### Complications de la spondylarthrite ankylosante
 
-- Amylose AA
+- [Amylose AA]({{% relref "amylose-aa.md" %}})
 - Syndrome ventilatoire restrictif
 - Insuffisance aortique et troubles de la conduction (BAV)
 - [Ostéoporose]({{% relref "osteoporose.md" %}})
@@ -94,16 +94,20 @@ Rpso
 
 SFR
 : Société Française de Rhumatologie
+
+SpA
+: spondylarthrite ankylosante
 {.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-Le diagnostic de spondylarthropathie relève du **spécialiste**.
+> [!INFO]
+> Le diagnostic de spondylarthropathie relève du **spécialiste** (rhumatologue, interniste).
 
-Il est posé sur un faisceau d'arguments anamnestiques (antécédents familiaux de SpA, uvéite, psoriasis, MICI), cliniques et paracliniques et éventuellement HLA-B27 (en 2° intention).
+Le diagnostic est posé sur un faisceau d'arguments anamnestiques (antécédents familiaux de SpA, uvéite, [psoriasis]({{% relref "psoriasis.md" %}}), MICI), cliniques et paracliniques et éventuellement HLA-B27 (en 2^e^ intention).
 
-### Syndrome axial (ou pelvi-rachidien)
+### Syndrome axial (ou syndrome pelvi-rachidien)
 
 Signes et symptômes de l'atteinte axiale d'une spondyloarthrite:
 
@@ -143,7 +147,7 @@ Autres atteintes des spondylarthrites:
 Recherche systématique de MICI si diarrhée ou amaigrissement inexpliqué.
 {.alert .alert-warning}
 
-### Comorbidités
+### Autres éléments de l'examen clinique
 
 - Antécédents
 - Traitements en cours
@@ -175,9 +179,9 @@ Recherche systématique de MICI si diarrhée ou amaigrissement inexpliqué.
 11. Présence de l'antigène HLA-B27 ou antécédents familiaux de spondylarthrite, de syndrome de Reiter, de psoriasis, d'entérocolopathie chronique
 12. Amélioration en 48 heures des douleurs par anti-inflammatoires non stéroïdiens ou rechute rapide (< 48 heures) des douleurs à leur arrêt
 
-Sensibilité 92%, spécificité 98%
+Sensibilité 92 %, spécificité 98 %
 
-> [Amor B, Dougados M, Mijiyawa M. Critères de classification des spondylarthropathies. Rev Rhum Mal Osteoartic. 1990.](https://pubmed.ncbi.nlm.nih.gov/2181618/)
+> -- [Amor B, Dougados M, Mijiyawa M. Critères de classification des spondylarthropathies. Rev Rhum Mal Osteoartic. 1990.](https://pubmed.ncbi.nlm.nih.gov/2181618/)
 
 ### Critères diagnostiques ESSG ({{%lang%}}European Spondylarthropathy Study Group{{%/lang%}})
 
@@ -213,7 +217,7 @@ Sensibilité 87%, spécificité 96%
 
 ### Bilan devant une spondylarthrite
 
-Recherche d'un syndrome inflammatoire biologique:
+Le bilan recherche un syndrome inflammatoire:
 
 - NFS
 - CRP  
@@ -238,25 +242,27 @@ Recherche d'un syndrome inflammatoire biologique:
 
 ### IRM des sacro-iliaques et des rachis dorso-lombaires
 
-L'IRM des sacro-iliaques et des rachis dorso-lombaires est importante pour un diagnostic précoce.
+L'==**IRM des sacro-iliaques et des rachis dorso-lombaires**== est importante pour un diagnostic précoce.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la spondylarthrite ankylosante" %}}
 
-**Objectif:** rémission ou activité minimale de la maladie. Cibles objectivables définies avec le patient.
+> [!INFO]
+> L'objectif du traitement est la rémission ou une activité minimale de la maladie, définies par des cibles objectivables avec le patient.
 
-Résumé des recommandations pour la prise en charge de la spondylarthrite:
+Recommandations pour la prise en charge de la spondylarthrite:
 
-- Suivi spécialisé systématique par le rhumatologue
-- [Arrêt du tabac systématique ]({{% relref "arret-tabac.md" %}})  
-  {{%class%}}Augmente la sévérité de la maladie et facteur de moindre réponse aux anti-TNF.{{%/class%}}
-- Activité physique quotidienne
-- Contrôle du poids
-  {{%class%}}L'obésité est facteur de résistance aux anti-TNF.{{%/class%}}
-- Comorbidités  
+- Suivi spécialisé systématique par le **rhumatologue**
+- **Mesures hygiéno-diététiques:**
+  - [Arrêt du tabac systématique ]({{% relref "arret-tabac.md" %}})  
+    {{%class%}}Augmente la sévérité de la maladie et facteur de moindre réponse aux anti-TNF.{{%/class%}}
+  - Activité physique quotidienne
+  - Contrôle du poids
+    {{%class%}}L'obésité est facteur de résistance aux anti-TNF.{{%/class%}}
+- Contrôle des comorbidités  
   Cardio-vasculaires, [ostéoporose]({{% relref "osteoporose.md" %}}), [dépression]({{% relref "depression.md" %}}), anxiété.
-- Anti-inflammatoires AINS  
-  - AINS à libération prolongée en 1^re^ intention pour couvrir le dérouillage
+- **Anti-inflammatoires AINS**  
+  - AINS à libération prolongée en 1^re^ intention pour couvrir le dérouillage (ex. kétoprofène, naproxène)
   - Souvent rechute douloureuse en < 48h après leur arrêt
   - Essai ≥ 2 molécules différentes pendant ≥ 15 jours chacune avant de conclure à l'inefficacité de chacune (aucun effet sur l'inflammation biologique). Échec nécessite d'envisager un biomédicament.  
   - Utiliser à dose optimale (même si doses maximales), mais en conservant posologie et durée minimales
@@ -264,11 +270,11 @@ Résumé des recommandations pour la prise en charge de la spondylarthrite:
 - << La corticothérapie générale n'est pas justifiée dans la majorité des cas >>
 - Antalgiques pour les douleurs résiduelles
 - Physiothérapie, ergothérapie, appareillages
-- Kinésithérapie en extension rachidienne
+- **Kinésithérapie** en extension rachidienne
   - Travail d'amplitude respiratoire
   - Auto-exercices
-- Information et éducation du patient
-- [ALD n°27]({{% relref "affection-longue-duree.md" %}}) ± MDPH  
+- Information et éducation du patient: [guide Ameli](https://www.ameli.fr/assure/sante/themes/spondylarthrite-ankylosante)
+- Déclarer l'[ALD n°27]({{% relref "affection-longue-duree.md" %}}) ± MDPH  
   Critères: spondylarthrites ou apparentées justifiant un traitement de fond ou avec handicap lourd.
 - Soutien psychologique
 - Associations de patients  
@@ -378,7 +384,7 @@ Une amélioration doit être obtenue à 3 mois pour poursuivre une stratégie, a
   {{%class%}}Dépistage et surveillance d'atteinte ophtalmologique.{{%/class%}}
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir" "show" %}}
+{{%collapse "Prise en charge de la spondylarthrite ankylosante" "show" %}}
 
 {{< mermaid title="Prise en charge d'une suspicion de spondylarthrite ankylosante par le médecin généraliste. Dr JB Fron d'après SFRhumato 2022" >}}
 graph TB
