@@ -221,7 +221,7 @@ Voir [ostéoporose post-ménopausique]({{% relref "osteoporose.md" %}}).
 
 Traitement d'une fracture vertébrale unique:
 
-- Acide zolédronique 5 mg IVL annuel (voir [Perfadom]({{% relref "perfusions-domicile.md" %}}))
+- Acide zolédronique 5 mg IVL annuel (voir [Perfadom]({{% relref "perfusions-domicile-perfadom.md" %}}))
 - [Risédronate 35 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/66887599/extrait#tab-rcp) en 1 prise par semaine
 
 Traitements de multiples fractures vertébrales:

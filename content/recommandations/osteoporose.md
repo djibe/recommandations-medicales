@@ -321,7 +321,7 @@ Traitement indiqué si T-score ≤ -1 et avis rhumatologique si T-score > -1:
 - Risédronate  
   {{%class "x"%}}35 mg/sem ou 5 mg/j ou 75 mg 2 jours de suite 1 fois par mois{{%/class%}}
 - Fracture de l'extrémité supérieure du fémur (FESF) ou T-score ≤ -3  
-  {{%class "x"%}}Zolédronate 5 mg IVL annuel. Seul avec efficacité démontrée sur la FESF. [Perfusion par IDE à domicile]({{% relref "perfusions-domicile.md" %}}) sur 15-30 min{{%/class%}}
+  {{%class "x"%}}Zolédronate 5 mg IVL annuel. Seul avec efficacité démontrée sur la FESF. [Perfusion par IDE à domicile]({{% relref "perfusions-domicile-perfadom.md" %}}) sur 15-30 min{{%/class%}}
 - Romosozumab  
   {{%class "x"%}}Femme ménopausée < 75 ans sans risque cardiovasculaire{{%/class%}}
 

@@ -242,7 +242,7 @@ Rechercher une autre cause d'ostéopathie fragilisante en cas de T-score > -1.
 #### Choix du traitement anti-ostéoporotique
 
 - Fracture de l'extrémité supérieure du fémur (FESF)  
-  [Acide zolédronique 5 mg/100 mL IVL](https://base-donnees-publique.medicaments.gouv.fr/medicament/66175242/extrait#tab-rcp) (15 minutes) annuel ([PERFADOM]({{% relref "perfusions-domicile.md" %}}), aussi privilégié en cas de troubles mnésiques, troubles digestifs, polymédication).
+  [Acide zolédronique 5 mg/100 mL IVL](https://base-donnees-publique.medicaments.gouv.fr/medicament/66175242/extrait#tab-rcp) (15 minutes) annuel ([PERFADOM]({{% relref "perfusions-domicile-perfadom.md" %}}), aussi privilégié en cas de troubles mnésiques, troubles digestifs, polymédication).
 - {{< modal-btn modal-fracture-severe >}}Fracture sévère{{< /modal-btn >}} (hors FESF), vertébrale unique, non sévère ou T-score < -3 avec fragilité ou {{< modal-btn modal-risque-chute >}}risque de chutes{{< /modal-btn >}}
   - Acide zolédronique 5 mg IVL annuel
   - [Risédronate 35 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/66887599/extrait#tab-rcp) en 1 prise par semaine
