@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Centre de référence HYPO"
 date = "2022-05-16T11:43:00+02:00"
 publishdate = "2022-05-16"
-lastmod = "2025-11-04"
+lastmod = "2026-04-15"
 specialites = ["endocrinologie"]
 annees = "2021"
 sources = ["Pituitary", "PNDS"]
@@ -20,14 +20,16 @@ image = true
 imageSrc = "Acromégale avec nez élargi et épaissi, pommettes saillantes, front bombé, lèvres épaisses et accentuations des lignes du visage. Photo de Philippe Chanson et Sylvie Salenave, CC BY 2.0, via Wikimedia Commons"
 todo = "validation faite Thierry BRUE"
 rank = "ok"
+writing = "ok"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
 - L'acromégalie correspond aux manifestations induites par une sécrétion endogène excessive d'hormone de croissance (GH)
-- Suspecter une acromégalie en cas de: changement de taille de bague, de pointure de chaussures, de syndrome dysmorphique (prognathisme, nez épaissi, macroglossie) ... ou de complications: [syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}}), [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [diabète](/tags/diabete/)
-- Le bilan de l'acromégalie débute par le dosage de l'IGF-1 en ville. En cas de valeur élevée, adresser au centre de compétence ou de référence HYPO ([annuaire des centres](https://www.firendo.fr/annuaire-des-membres-de-la-filiere))
+- Suspecter une acromégalie devant les signes et symptômes suivant: changement de taille de bague, de pointure de chaussures, de syndrome dysmorphique (prognathisme, nez épaissi, macroglossie) ... ou de complications: [syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}}), [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [diabète](/tags/diabete/)
+- Le bilan de l'acromégalie débute par le dosage de l'IGF-1 en ville
+- La prise en charge de l'acromégalie est réalisée dans un centre de compétence ou de référence HYPO ([annuaire des centres](https://www.firendo.fr/annuaire-des-membres-de-la-filiere))
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -35,7 +37,7 @@ flowchart = true
 Acromégalie
 : Ensemble des manifestations cliniques induites par une exposition chronique à un excès endogène d'hormone de croissance (GH), principalement par tumeur hypophysaire (9 % des adénomes hypophysaires).
 : Maladie rare (prévalence 60/million) avec légère prédominance féminine et pic de survenue vers 40-50 ans.
-: Complications de l'acromégalie: surmortalité (cardiovasculaire ++) et morbidité significative.
+: Les complications sont une surmortalité (cardiovasculaire ++) et une morbidité significatives.
 
 ### Abréviations
 
@@ -53,9 +55,10 @@ PNDS
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Clinique de l'acromégalie" %}}
+{{%collapse "Clinique" %}}
 
-Le diagnostic d'acromégalie est souvent retardé (environ 5 ans) du fait de l'**apparition progressive des signes et symptômes**.
+> [!INFO]
+> Le diagnostic d'acromégalie est souvent retardé (environ 5 ans) du fait de l'**apparition progressive des signes et symptômes**.
 
 Adresser au [centre de compétence ou de référence HYPO](https://www.firendo.fr/annuaire-des-membres-de-la-filiere) en cas de suspicion d'acromégalie:
 
@@ -74,7 +77,7 @@ Adresser au [centre de compétence ou de référence HYPO](https://www.firendo.f
   - [Sueurs]({{% relref "sueurs-nocturnes.md" %}}) (nocturnes malodorantes ++)
   - Paresthésies des mains avec [syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}})
   - Arthralgies
-- Complications de la maladie
+- Complications de la maladie:
   - Ostéo-articulaires: arthropathies, fractures vertébrales
   - Cardiovasculaires: [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) (30 %), [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}})
   - Pneumologique: ronflements, [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}) (47-87 %)
@@ -88,13 +91,15 @@ Adresser au [centre de compétence ou de référence HYPO](https://www.firendo.f
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Bilan initial de la suspicion d'acromégalie: ==**dosage de l'IGF-1**== (sans jeûne, à tout moment de la journée).
+### Bilan d'une suspicion d'acromégalie
 
-Si l'IGF-1 est élevée (normes du laboratoire), adresser au centre de référence ou de compétence HYPO ([annuaire](https://fr.ap-hm.fr/site/defhy)).
+En cas de suspicion d'acromégalie: doser l'==**IGF-1**== (sans jeûne, à tout moment de la journée).
+
+Si l'IGF-1 est élevée (utiliser les normes du laboratoire), adresser au centre de référence ou de compétence HYPO ([annuaire des centres](https://fr.ap-hm.fr/site/defhy)).
 
 ### Pour en savoir plus: le diagnostic biologique d'acromégalie
 
-Le diagnostic d'acromégalie est biologique: **IGF-1 élevée** et **GH** non freinée lors de l'hyperglycémie provoquée par voie orale. Les autres axes hypophysaires sont également étudiés afin de détecter une autre anomalie.
+Le diagnostic d'acromégalie est biologique: **IGF-1 élevée** et **GH** non freinée lors de l'hyperglycémie provoquée par voie orale (HGPO). Les autres axes hypophysaires sont également étudiés afin de détecter une autre anomalie.
 
 L'**IRM hypophysaire** retrouve souvent la tumeur sécrétrice.
 

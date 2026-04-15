@@ -19,6 +19,7 @@ imageSrc = "Acné inflammatoire du visage. profeticsbeta sur Foter.com / CC BY-N
 flowchart = true
 todo = "réécriture, gluconate de zinc, outil"
 rank = "ok"
+writing = "todo"
 modele = true
 +++
 

@@ -20,6 +20,7 @@ image = true
 imageSrc = "Frottis sanguin avec un éosinophile. Echinaceapallida, CC BY-SA 4.0, via Wikimedia Commons"
 todo = "relecture CEREO demandée"
 flowchart = true
+modele = true
 +++
 
 {{%article-summary%}}
@@ -268,3 +269,19 @@ graph TB
 - [International Eosinophil Society](http://www.eosinophil-society.org)
 
 {{%/sources%}}
+{{% modele %}}
+
+Bilan au laboratoire:
+
+- NFS répétées
+- CRP
+- Frottis sanguin
+- Ionogramme, créatininémie
+- ASAT, ALAT, GGT, PAL
+- TP, TCA
+- CPK
+- LDH
+- Sérologies VIH, toxocarose et distomatose
+- Examen parasitologique des selles 3 jours de suite
+
+{{% /modele %}}

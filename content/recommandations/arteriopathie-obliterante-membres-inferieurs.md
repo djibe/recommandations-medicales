@@ -31,7 +31,7 @@ todo = "centres réadapt vasculaire, QDV EQ-5D, association patient, https://pub
 - La présence d'une artériopathie des membres inférieurs définit un {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}}:
   - Bilan des autres localisations athéromateuses (coronaires, carotides)
   - Suivi spécialisé (cardiologue, angiologue)
-- Prise en charge de l'artériopathie des membres inférieurs (AOMI): {{< modal-btn modal-statine-intensite >}}statine{{< /modal-btn >}} pour LDL {{< modal-btn modal-rcv >}}< 0,55 g/L{{< /modal-btn >}} (0,4 si coronaropathie associée), {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, sevrage tabagique, clopidogrel si symptomatique ou rivaroxaban + aspirine si diabète ou insuffisance d'organe, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
+- La prise en charge de l'artériopathie des membres inférieurs (AOMI) associe: {{< modal-btn modal-statine-intensite >}}statine{{< /modal-btn >}} pour LDL {{< modal-btn modal-rcv >}}< 0,55 g/L{{< /modal-btn >}} (0,4 si coronaropathie associée), {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}, sevrage tabagique, clopidogrel si symptomatique ou rivaroxaban + aspirine si diabète ou insuffisance d'organe, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}, réhabilitation vasculaire supervisée ...
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

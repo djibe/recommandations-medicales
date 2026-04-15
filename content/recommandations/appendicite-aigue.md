@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-20T22:32:54+02:00"
 publishdate = "2022-06-21"
-lastmod = "2026-03-19"
+lastmod = "2026-04-15"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2021"
 sources = ["SPILF", "SFCD", "WSES"]
@@ -18,6 +18,7 @@ icd10 = ["K35", "K35.9", "K37"]
 image = true
 imageSrc = "Appendicite terminale avec pus intraluminal chez un garçon de 7 ans avec douleurs abdominales depuis 2 jours. Cas de Maulik S Patel, Radiopaedia.org, rID: 16751"
 rank = "ok"
+writing = "ok"
 todo = "https://www.sciencedirect.com/science/article/pii/B9782294759710000298, relecture leon.maggiori@aphp"
 flowchart = true
 +++

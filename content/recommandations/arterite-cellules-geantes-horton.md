@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr H. DE BOYSSON (GEFA)"
 date = "2024-03-03T11:23:03+01:00"
 publishdate = "2024-03-08"
-lastmod = "2025-06-23"
+lastmod = "2026-04-15"
 specialites = ["rhumatologie"]
 annees = "2024"
 sources = ["PNDS"]
@@ -29,7 +29,7 @@ todo = "flow PNDSp13/50"
 - Les symptômes de l'artérite à cellules géantes sont dominés par des [céphalées](/tags/cephalees/) inhabituelles (récentes, nocturnes ou matinales), une claudication de la mâchoire, une hyperesthésie du scalp ou des symptômes visuels (signe de gravité: baisse d'acuité visuelle, amaurose, diplopie)
 - Une pseudo-polyarthrite rhizomélique (PPR) est fréquemment associée avec des arthralgies et des myalgies des épaules et du bassin
 - Le bilan affirme un syndrome inflammatoire quasi constant: NFS, CRP supérieure à 10 mg/L, fibrinogène élevés
-- Adresser en semi-urgence toute suspicion de maladie de Horton au spécialiste (rhumatologue, interniste) du centre de compétence ([annuaire](https://www.fai2r.org/les-centres-fai2r/centres-competence/)) pour affirmer le diagnostic (échographie ou biopsie de l'artère temporale BAT, imagerie des gros vaisseaux ...)
+- Adresser en semi-urgence toute suspicion de maladie de Horton au spécialiste (rhumatologue, interniste) du centre de compétence ([annuaire FAI²R](https://www.fai2r.org/les-centres-fai2r/centres-competence/)) pour affirmer le diagnostic (échographie ou biopsie de l'artère temporale BAT, imagerie des gros vaisseaux ...)
 - La [corticothérapie à forte dose]({{% relref "corticoides.md" %}}) est immédiate en cas de symptômes visuels (intra-veineuse) ou en cas de signes céphaliques avec CRP > 10 mg/L (prednisone 0,7-1 mg/kg/j, max 80 mg/j)
 - Mesures associées aux corticoïdes: activité physique, [traitement anti-ostéoporotique]({{% relref "osteoporose.md" %}}) systématique, supplémentation en [vitamine D]({{% relref "vitamine-d.md" %}}), évaluer les [apports en calcium]({{% relref "apports-calcium.md" %}}), [vaccinations]({{% relref "vaccination.md" %}}) (grippe, covid, pneumocoque -- vaccins vivants contre-indiqués)
 - Prise en charge du [risque cardiovasculaire](/tags/risque-cardiovasculaire/) à long terme (tabac, activité physique, dyslipidémie)
@@ -187,15 +187,15 @@ Les lésions d'**aortite** (prévalence: 50%) sont recherchées par le spéciali
 Hospitalisation en urgence en cas de signes visuels pour méthylprednisolone IV (voire prednisone 1 mg/kg/j à défaut).
 {.alert .alert-warning}
 
-La prise en charge de la maladie de Horton relève du spécialiste de centre de compétence ([annuaire](https://www.fai2r.org/les-centres-fai2r/centres-competence/)) en semi-urgence.
+La prise en charge de la maladie de Horton relève du spécialiste de centre de référence ou de compétence de la filière  FAI²R ([annuaire des centres](https://www.fai2r.org/les-centres-fai2r/centres-competence/)) en semi-urgence.
 
 ### Prise en charge de la maladie de Horton
 
 Recommandations pour la prise en charge de la maladie de Horton (artérite à cellules géantes):
 
-- **Corticothérapie** forte dose urgente  
+- **Corticothérapie** forte dose urgente:  
   - Immédiate en cas de signes visuels, débutée en cas de signes céphaliques avec CRP > 10 mg/L, arrêtée sous 12 mois
-  - Prednisone 40-80 mg/j (0,7-1 mg/kg, max 80 mg/j)
+  - [Prednisone]({{% relref "corticoides.md" %}}) 40-80 mg/j (0,7-1 mg/kg, max 80 mg/j)
   - Avec mesures associées et [traitement anti-ostéoporotique]({{% relref "osteoporose.md" %}}) systématique
   - Supplémentation en [vitamine D]({{% relref "vitamine-d.md" %}}) 800-1200 UI/j, calcul des apports en calcium ([questionnaire GRIO](https://www.grio.org/espace-gp/calcul-apport-calcique-quotidien.php), cible 1 g/j)
 - Si complication ophtalmique: aspirine 75-300 mg/j
@@ -246,9 +246,9 @@ Des **rechutes** tardives (10 ans) de la maladie de Horton sont possibles.
 {{% /collapse %}}
 {{%sources%}}
 
-{{< card-link-external title="Place de l'échographie des artères temporales dans l'ACG" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/184803929" image="podcast" >}}
+{{< card-link-external title="Podcast -- Place de l'échographie des artères temporales dans l'ACG" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/184803929" image="podcast" >}}
 
-{{< card-link-external title="Quoi de neuf dans la prise en charge de l'ACG ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/197978168" image="podcast" >}}
+{{< card-link-external title="Podcast -- Quoi de neuf dans la prise en charge de l'ACG ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/197978168" image="podcast" >}}
 
 - [CRMR, SAMU, SFMU, ABM. Artérite à cellules géantes Maladie de Horton. Orphanet urgences. 2025. (PDF)](https://www.orpha.net/pdfs/data/patho/Emg/Int/fr/ArteriteCellulesGeantes_FR_fr_EMG_ORPHA397.pdf)
 - [de Boysson H, et al; Filière des maladies auto-immunes et auto-inflammatoires rares, Groupe d'Étude Français des Artérites des gros vaisseaux (GEFA). Artérite à Cellules Géantes (Horton). PNDS. 2024.](https://www.has-sante.fr/jcms/c_2789359/fr/arterite-a-cellules-geantes-horton)

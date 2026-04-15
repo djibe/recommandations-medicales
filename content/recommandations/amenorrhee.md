@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-11-24T19:38:58+01:00"
 publishdate = "2025-12-09"
-lastmod = "2025-12-09"
+lastmod = "2026-04-15"
 specialites = ["endocrinologie", "gynécologie-obstétrique"]
 annees = "2024"
 sources = ["ASRM", "CEEDMM"]
@@ -18,6 +18,8 @@ icd10 = ["N91.2"]
 image = false
 imageSrc = ""
 todo = "photo | primaire def ESHRE 2023 SOPK"
+rank = "ok"
+writing = "ok"
 flowchart = true
 +++
 
@@ -308,7 +310,6 @@ graph TB
 ### Bibliographie en attente
 
 - Collège gynéco
-- Prescrire
 
 **Mots-clé:** hypogonadisme hypogonadotrophique (ou hypogonadisme central)
 

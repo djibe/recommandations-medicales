@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr M. LANTERI-MINET (SFETD)"
 date = "2021-06-18T16:20:00+02:00"
 publishdate = "2021-06-19"
-lastmod = "2026-03-13"
+lastmod = "2026-04-15"
 specialites = ["neurologie"]
 annees = "2023"
 sources = ["EAN", "SFEMC"]
@@ -20,6 +20,7 @@ icd10 = ["G44.0"]
 image = true
 imageSrc = "Rougeur de la joue homolatérale durant une crise d'algie vasculaire de la face. T. Bjornstad, CC BY-SA 4.0, via Wikimedia Commons"
 rank = "ok"
+writing ="ok"
 flowchart = true
 todo = "Examen clinique"
 +++
@@ -32,7 +33,7 @@ todo = "Examen clinique"
 - La prise en charge de la crise d'algie vasculaire nécessite: sumatriptan 6 mg SC dès le début des douleurs et/ou oxygénothérapie (au masque 12 L/min pendant 15 minutes prescrit et renouvelé par le spécialiste)
 - Un traitement de fond de l'algie vasculaire par vérapamil est nécessaire dès le début de la période douloureuse, avec titration et surveillance ECG  
   Décroissance en fin de période douloureuse, au moins 2 semaines après la dernière crise.
-- *Traitement transitionnel* par corticothérapie prednisone 60-100 mg le matin pendant 5 jours (voire plus) le temps de la titration du vérapamil
+- Le temps de la titration du vérapamil, un *traitement transitionnel* par corticothérapie prednisone 60-100 mg le matin est possible pendant 5 jours (voire plus)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -130,27 +131,27 @@ Autres causes de céphalées paroxystiques à étayer:
 
 ### Interrogatoire
 
-Pilier de la prise en charge diagnostique de l'algie vasculaire (**en gras**, les éléments majeurs du questionnaire de dépistage *QATCH* (*Wilbrink 2013*)):
+Pilier de la prise en charge diagnostique de l'algie vasculaire (**en gras**, les éléments majeurs du questionnaire de dépistage *QATCH* -- *Wilbrink 2013*):
 
 - **Homme** surtout: âge moyen de début avant 40 ans
 - Femme: jeune ou après 50 ans
 - Traitements en cours et essayés  
   Dérivés nitrés, sildénafil.
-- **Céphalée en hémicrânie paroxystique**
-  - **Unilatérale** (> 90%)
-  - **Fixe** voire à bascule (12%)
+- **Céphalée en hémicrânie paroxystique**:
+  - **Unilatérale** (> 90 %)
+  - **Fixe** voire à bascule (12 %)
   - Périorbitaire et/ou temporale
   - Intensité sévère à très sévère  
     {{%class%}}Décrite comme un pieu ou un fer rouge enfoncé dans l'œil.{{%/class%}}
   - **Durée 15 min à 3 heures**  
-    {{%class%}}Durée minimale moyenne: 1h10, durée max moyenne: 2h40 min{{%/class%}}
+    {{%class%}}Durée minimale moyenne: 1h10, durée max moyenne: 2h40 min.{{%/class%}}
   - Quotidiennes voire pluri-quotidiennes (4-5/j)
   - À heure fixe, souvent la nuit
   - Périodicité circannuelle  
-    Forme épisodique: période de 6-12 semaines 1-2 fois/an (fin printemps et automne) ou chronique (15-20%).
+    Forme épisodique: période de 6-12 semaines 1-2 fois/an (fin printemps et automne) ou chronique (15-20 %).
   - Intervalles libres (sauf forme chronique)  
     **De 4 mois à 3 ans**.
-- **Agitation motrice per-critique** (> 3/4)
+- **Agitation motrice per-critique** (+75 %)
 - Signes dysautonomiques concomitants (homolatéraux et intenses):
   - Larmoiement
   - Érythème conjonctival
@@ -161,17 +162,17 @@ Pilier de la prise en charge diagnostique de l'algie vasculaire (**en gras**, le
   - Sensation de plénitude de l'oreille
   - Myosis et/ou ptosis
     Peut persister entre 2 crises.
-- Autres signes possibles
+- Autres signes possibles:
   - Prodromes: troubles de l'humeur ou de la concentration
   - Signes critiques: nausées/vomissements, photophobie, aura visuelle, hyperacousie  
     Ces derniers peuvent entraîner un mauvais diagnostic.
-- Signes négatifs
+- Signes négatifs:
   - Début dans l'enfance ou après 50 ans
   - Antécédents de zona ou traumatisme crânien
   - Prostration pendant la crise
   - Zone gâchette
-- Tabagisme (3/4 des patients)
-- [Alcool]({{% relref "sevrage-alcool.md" %}}), cannabis, cocaïne
+- **Tabagisme** (3/4 des patients)
+- Autres toxiques: [alcool]({{% relref "sevrage-alcool.md" %}}), cannabis, cocaïne
 
 {{%info%}}
 Des signes migraineux (prodromes, troubles digestifs, aura, photophobie, hyperacousie) peuvent accompagner l'AVF.
@@ -192,7 +193,7 @@ Examen neurologique complet.
 
 ### Bilan de la suspicion d'algie vasculaire de la face
 
-IRM cérébrale avec jonction craniocervicale systématique
+==**IRM cérébrale**== systématique avec étude la jonction craniocervicale.
 
 La *SFEMC* recommandait également une **angio-IRM** en 2014.
 
@@ -237,22 +238,22 @@ La prise en charge et le traitement de l'algie vasculaire de la face pour les cr
 
 ### Oxygénothérapie
 
-Prescription (initiale et renouvellement) de l'oxygène réservée à un neurologue, ORL ou centre de la douleur
-{.alert .alert-info}
+> [!INFO]
+> La prescription de l'oxygène (initiale et renouvellement) est réservée à un neurologue, ORL ou au centre de la douleur.
 
 Oxygénothérapie normobare au masque haute concentration 12-15 L/min pendant 15-20 minutes.
 
-Traiter au moins 3 crises à 12-15 L/min pendant 30 minutes avant de conclure à son inefficacité.  
-*Effet rebond* possible.
+Traiter au moins 3 crises à 12-15 L/min pendant 30 minutes avant de conclure à son inefficacité.*Effet rebond* possible à l'arrêt.
 
-> [Arrêté du 11 mars 2015](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000030367524) et [forfaits de l'AM OAVF 4.28 et 4.29](http://www.codage.ext.cnamts.fr/cgi/tips/cgi-fiche?p_code_tips=1135392&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
+> -- [Arrêté du 11 mars 2015](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000030367524) et [forfaits de l'AM OAVF 4.28 et 4.29](http://www.codage.ext.cnamts.fr/cgi/tips/cgi-fiche?p_code_tips=1135392&p_date_jo_arrete=%25&p_menu=FICHE&p_site=AMELI)
 
 {{% /collapse %}}
 {{%collapse "Traitement de fond de l'algie vasculaire" %}}
 
-Indication à la prise en charge par traitement de fond de l'algie vasculaire de la face: forme épisodique avec période douloureuse de **plus de 2 semaines ou forme chronique**.
+> [!INFO]
+> Indication à la prise en charge par traitement de fond de l'algie vasculaire de la face: forme épisodique avec période douloureuse de **plus de 2 semaines ou forme chronique**.
 
-Mesures associées:
+Mesures associées à la prise en charge d'une AVF:
 
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
 - Éviction des toxiques: alcool, cannabis et cocaïne
@@ -298,7 +299,7 @@ Ils peuvent être combinés au vérapamil.
 {{% /collapse %}}
 {{%collapse "Prise en charge d'une algie vasculaire de la face (AVF)" "show" %}}
 
-{{< mermaid title="Prise en charge de l'algie vasculaire de la face (AVF). Dr JB Fron d'après EAN 2023 et SFEMC 2014" >}}
+{{< mermaid title="Prise en charge de l'algie vasculaire de la face (AVF). Dr JB Fron d'après EAN 2023 et SFEMC" >}}
 graph TB
   suspicion["Suspicion d'algie<br>vasculaire de la face (AVF)"] --> ICHD3(Critères diagnostiques ICHD-3)
   style suspicion stroke:#4150f5, stroke-width:1px

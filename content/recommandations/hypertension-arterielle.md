@@ -32,7 +32,7 @@ flowchart = true
 - Traitement selon le grade d'hypertension (voir *Définitions*) et mesures hygiéno-diététiques systématiques
 - Les cibles tensionnelles dépendent du profil (120-129 / 70-79 mmHg avant 80 ans) et ne sont valables que pour les mesures de tension au cabinet
 - Objectif d'un seul comprimé antihypertenseur combiné et informer sur les conséquences d'une hypertension non traitée ([accidents cardiovasculaires](/tags/risque-cardiovasculaire/), démence)
-- Bithérapies antihypertensives de référence: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
+- Polythérapies antihypertensives de référence: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}, voire {{< modal-btn modal-triple >}}IEC/ARA2 + TZD + ICa{{< /modal-btn >}}
 
 Chapitres liés: [automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}}), [le carnet d'automesure tensionnelle à imprimer](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf)
 
@@ -334,7 +334,7 @@ Dans l'attente de la MAPA: observance, automesures avec appareil validé, revér
 Mesures hygiéno-diétetiques au long cours pour la prise en charge de l'hypertension artérielle:
 
 - Restriction sodée < 5 g/j  
-  Ou substituer par KCl sauf insuffisance rénale ou nécessité de régime pauvre ne potassium.
+  Ou substituer par KCl sauf insuffisance rénale ou nécessité de régime pauvre en potassium.
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) et réduction de la [consommation d'alcool]({{% relref "sevrage-alcool.md" %}})  
   < 2 verres/j/homme, < 1/j si femme.
 - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}} ou DASH
@@ -354,24 +354,7 @@ Mesures hygiéno-diétetiques au long cours pour la prise en charge de l'hyperte
 {{% /collapse %}}
 {{%collapse "Traitement de l'hypertension artérielle" %}}
 
-La prise en charge de l'hypertension est toujours associée aux mesures hygiéno-diétetiques et la surveillance de l'observance.
-
-- Privilégier d'emblée une bithérapie en essayant de conserver un seul comprimé
-- Titration jusqu'à la dose maximale tolérée (diastolique minimale: 70 mmHg)
-- Aucune différence entre une prise le matin ou le soir (*étude TIME*) mais **observance meilleure le matin** (*ESH 2023*)
-- Pas d'arrêt du traitement sur le seul critère d'âge
-- Les bêtabloquants sont privilégiés en cas de maladie cardiovasculaire ([insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}), [angor]({{% relref "syndrome-coronarien-chronique.md" %}}), [infarctus]({{% relref "syndrome-coronarien-aigu.md" %}}), [FA]({{% relref "fibrillation-atriale.md" %}})) ou grossesse  
-- Suivi 1-2/mois jusqu'à la cible (*ESH 2023*) puis contrôle à 3-6 mois la première année
-- Suivi au long cours: 1-2/an si équilibrée (*ESH 2023*)
-- Intérêt de l'éducation thérapeutique pour maximiser l'observance
-- Tant que la pression reste supérieure à 160/100 mmHg: pas de séjour en altitude au-delà de 2500m
-- Surveillance biologique (*ESH 2023* et *HAS 2016*)
-  - Annuelle: ionogramme, créatininémie, DFG, rapport albuminurie/créatininurie
-  - Tous les 3 ans: glycémie à jeun, bilan lipidique
-- Surveillance ECG
-  - ECG tous les 3 à 5 ans
-  - Test d'effort: recommandé si angor et ECG normal, envisager pour activité physique adaptée APA (*SFC 2018*)
-- Réévaluation des complications au **minimum tous les 2 ans**
+La prise en charge de l'hypertension est toujours associée aux [mesures hygiéno-diétetiques](#mesures-hygiéno-diétetiques) et la surveillance de l'observance.
 
 ### Traitement de première intention de l'hypertension artérielle non compliquée
 
@@ -385,7 +368,7 @@ Prise en charge de l'hypertension artérielle par bithérapie au choix parmi:
 - Envisager une **monothérapie** si: +80 ans, sujet fragile, HTA < 150/95 mmHg à faible risque cardiovasculaire ou tension normale haute avec maladie cardiovasculaire
 - Chez le sujet à peau noire: {{< modal-btn modal-tzd-ica >}}TZD + ICa{{< /modal-btn >}} aussi possible
 - L'ajout d'un IEC/ARA2 à l'anticalcique réduit la survenue d'œdèmes et l'association au thiazidique réduit la survenue d'hypokaliémie
-- Pas d'arrêt brutal: BB, ICa, diurétique, antihypertenseur central
+- Pas d'arrêt brutal des: BB, ICa, diurétique, antihypertenseur central
 
 La baisse de pression artérielle intervient en 1 à 2 semaines après l'introduction du traitement, pouvant se prolonger jusqu'à 2 mois.
 {.text-black-secondary}
@@ -395,19 +378,32 @@ La baisse de pression artérielle intervient en 1 à 2 semaines après l'introdu
 > [!INFO]
 > L'hydrochlorothiazide nécessite un examen cutané et la recherche d'antécédent de carcinome cutané à l'instauration. Puis suivi cutané annuel (semestriel en cas d'antécédent -- *Académie de médecine 2025*).
 
-Trithérapie {{< modal-btn modal-triple >}}IEC/ARA2 + TZD + ICa{{< /modal-btn >}} en 1 seul comprimé (non remboursé).
-
-Pour être remboursé: utiliser la trithérapie Triplixam (amlodipine + indapamide + périndopril) ou associer <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-iec">IEC + ICa</button> ou <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + ICa</button> et hydrochlorothiazide.
+Trithérapie {{< modal-btn modal-triple >}}IEC/ARA2 + TZD + ICa{{< /modal-btn >}} en 1 seul comprimé (Triplixam seul remboursé). Ou associer <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-iec">IEC + ICa</button> ou <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + ICa</button> et hydrochlorothiazide (HCT).
 
 ### Traitement de niveau 3
 
-**Hypertension résistante:** avis spécialisé + mesures hygiéno-diététiques rappelées + ajout de [spironolactone](https://base-donnees-publique.medicaments.gouv.fr/medicament/63145849/extrait#tab-rcp) 25-50 mg/j (ou bêtabloquant, alpha-bloquant, antihypertenseur central).
+Une hypertension non contrôlée par une trithérapie est une **hypertension résistante:** avis spécialisé + mesures hygiéno-diététiques + ajout de [spironolactone](https://base-donnees-publique.medicaments.gouv.fr/medicament/63145849/extrait#tab-rcp) 25-50 mg/j (ou bêtabloquant, alpha-bloquant, antihypertenseur central).
 
-Chez l'insuffisant rénal sévère: IEC/ARA2 + ICa + diurétique de l'anse + chlortalidone (ou BB ou alpha-bloquant ou antihypertenseur central).
+En cas d'**hypertension artérielle résistante**, rechercher: défaut d'observance, effet blouse blanche, mesures de PA non standardisées, {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}, calcifications des artères brachiales, inertie du médecin, consommation de sel, HTA secondaire, [maladie rénale]({{% relref "insuffisance-renale-chronique.md" %}}).
 
-En cas d'hypertension artérielle résistant, éliminer:
+### Informations générales sur le traitement de l'hypertension artérielle
 
-Défaut d'observance, effet blouse blanche, mesures de PA non standardisées, {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}, calcifications des artères brachiales, inertie du médecin, consommation de sel, HTA secondaire, [maladie rénale]({{% relref "insuffisance-renale-chronique.md" %}}).
+- Privilégier une ==**bithérapie d'emblée**== en essayant de conserver un seul comprimé
+- Titration jusqu'à la **dose maximale tolérée** (diastolique minimale: 70 mmHg)
+- Aucune différence entre une prise le matin ou le soir (*étude TIME*) mais **observance meilleure le matin** (*ESH 2023*)
+- Pas d'arrêt du traitement sur le seul critère d'âge
+- Les bêtabloquants sont privilégiés en cas de maladie cardiovasculaire ([insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}), [angor]({{% relref "syndrome-coronarien-chronique.md" %}}), [infarctus]({{% relref "syndrome-coronarien-aigu.md" %}}), [FA]({{% relref "fibrillation-atriale.md" %}})) ou grossesse  
+- Suivi au moins mensuel jusqu'à l'obtention de la cible (*ESH 2023*) puis contrôle à 3-6 mois la première année
+- Suivi au long cours: 1-2/an si équilibrée (*ESH 2023*)
+- Intérêt de l'éducation thérapeutique pour maximiser l'observance
+- Tant que la pression reste supérieure à 160/100 mmHg: pas de séjour en altitude au-delà de 2500m
+- Surveillance biologique (*ESH 2023* et *HAS 2016*)
+  - Annuelle: ionogramme, créatininémie, DFG, rapport albuminurie/créatininurie
+  - Tous les 3 ans: glycémie à jeun, bilan lipidique
+- Surveillance ECG
+  - ==ECG tous les 3 à 5 ans==
+  - Test d'effort: recommandé si angor et ECG normal, envisager pour activité physique adaptée APA (*SFC 2018*)
+- Réévaluation des complications au **minimum tous les 2 ans**
 
 ### Améliorer l'observance du traitement antihypertenseur
 

@@ -18,7 +18,7 @@ sctid = "230856000"
 icd10 = []
 image = true
 imageSrc = "Sites d'administration des antibiotiques sous-cutanés. Dr JB Fron. License CC-BY-SA-4.0"
-rank = "false"
+rank = "ok"
 todo = "liens > Kanban | demander relecture emmanuel.forestier@ch-metropole-savoie"
 +++
 

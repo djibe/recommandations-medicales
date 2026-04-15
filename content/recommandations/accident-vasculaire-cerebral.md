@@ -20,6 +20,8 @@ icd10 = ["I64", "I63", "I69", "G45.9", "G81"]
 image = true
 imageSrc = "AVC ischémique sylvien gauche sur une IRM de diffusion. Dr Abdulmajid Bawazeer, Radiopaedia.org, rID: 59283"
 todo = "SEO, bilan étiologique, https://erj.ersjournals.com/content/55/4/1901104 | AHA 2024: aspirine préventif si SAPL (AVK si ETEV non provoqué) ou lupus"
+rank = "ok"
+writing = "todo"
 flowchart = true
 +++
 

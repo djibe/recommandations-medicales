@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-20T12:27:50+02:00"
 publishdate = "2022-10-20"
-lastmod = "2025-06-12"
+lastmod = "2026-04-15"
 specialites = ["certificats"]
 annees = "2025"
 sources = ["Service-Public"]
@@ -17,7 +17,8 @@ english = ["Access to the medical file"]
 sctid = ""
 icd10 = []
 image = true
-imageSrc = "Illustration du dossier médical par vectorjuice / Freepik"
+imageSrc = "Illustration du dossier médical. vectorjuice / Freepik"
+rank = "false"
 todo = "Personne de confiance ?; APHP"
 +++
 
@@ -112,6 +113,8 @@ En l'absence de réponse, contacter une association d'aides aux démarches: [Avi
 {{% /collapse %}}
 {{%collapse "Modèle d'accès pour les ayant-droits pour un patient décédé" %}}
 
+La trame ci-dessous peut être modifiée directement dans le navigateur.
+
 <div class="card card-body my-4" contenteditable="true">
 
 Date
@@ -184,6 +187,8 @@ Les frais de copie et d'envoi sont facturables.
 
 {{% /collapse %}}
 {{%collapse "Modèle de mandat d'accès au dossier médical" %}}
+
+La trame ci-dessous peut être modifiée directement dans le navigateur.
 
 <div class="card card-body my-4" contenteditable="true">
 

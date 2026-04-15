@@ -18,6 +18,7 @@ icd10 = ["J03", "J03.9"]
 image = true
 imageSrc = "Angine érythémateuse gauche. Fireflyez76 sur Foter.com / CC BY-ND"
 rank = "ok"
+writing = "ok"
 flowchart = true
 modele = true
 +++

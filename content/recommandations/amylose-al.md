@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr A. JACCARD (MaRIH)"
 date = "2024-08-02T15:18:50+02:00"
 publishdate = "2024-08-23"
-lastmod = "2025-08-28"
+lastmod = "2026-04-15"
 specialites = ["hématologie", "oncologie"]
 annees = "2023"
 sources = ["PNDS"]
@@ -18,15 +18,17 @@ sctid = "23132008"
 icd10 = ["E85.8"]
 image = true
 imageSrc = "Dépôts amyloïdes colorés au rouge Congo signant une amylose cardiaque. Nephron, CC BY-SA 3.0, via Wikimedia Commons"
-todo = "SEO | flow"
+rank = "ok"
+writing = "ok"
+todo = "flow"
 +++
 
 {{%article-summary%}}
 
 - L'amylose AL est une maladie tissulaire grave causée par le dépôt extracellulaire de fibrilles insolubles constituées de chaînes légères d'immunoglobulines monoclonales atteignant principalement le rein et le cœur (jamais le cerveau). Elle survient surtout après 60 ans mais peut toucher des sujets plus jeunes
-- Les signes de l'amylose ne sont pas spécifiques: fatigue, AEG, signes cardio-rénaux (dyspnée, œdèmes des membres inférieurs, troubles du rythme ou de la conduction), hépato-splénomégalie, digestifs (diarrhées, saignements), dysautonomie
+- Les signes et symptômes de l'amylose AL ne sont pas spécifiques: fatigue, AEG, signes cardio-rénaux (dyspnée, œdèmes des membres inférieurs, troubles du rythme ou de la conduction), hépato-splénomégalie, digestifs (diarrhées, saignements), dysautonomie
 - Le bilan de l'amylose AL comporte: bilan biologique, électrophorèse et immunofixation des protéines sériques et urinaires et dosage des chaînes légères libres, NT-proBNP, ECG et échocardiographie, échographie abdominale ...
-- Adresser au spécialiste (hématologue, interniste, néphrologue) avec le bilan pour le diagnostic et la prise en charge pluridisciplinaire de l'amylose qui permet le plus souvent une bonne réponse hématologique et clinique
+- Adresser au spécialiste (hématologue, interniste, néphrologue) avec le bilan pour le diagnostic et la prise en charge pluridisciplinaire de l'amylose AL qui permet le plus souvent une bonne réponse hématologique et clinique
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

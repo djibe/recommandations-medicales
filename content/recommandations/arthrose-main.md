@@ -8,7 +8,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dre A. COURTIES (SFR)"
 date = "2025-10-17T19:06:41+02:00"
 publishdate = "2025-10-19"
-lastmod = "2025-12-14"
+lastmod = "2026-04-15"
 specialites = ["rhumatologie"]
 annees = "2025"
 sources = ["SFR", "EULAR"]
@@ -18,6 +18,8 @@ sctid = "22193007"
 icd10 = ["M19.94", "M19", "M19.9"]
 image = true
 imageSrc = "Arthrose des mains principalement interphalangienne chez une femme de 80 ans: pincement des interlignes et ostéophytose. Cas de Frank Gaillard, Radiopaedia.org, rID: 7546"
+rank = "ok"
+writing = "ok"
 todo = "flow"
 +++
 

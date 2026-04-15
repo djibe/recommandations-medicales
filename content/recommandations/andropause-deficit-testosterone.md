@@ -8,7 +8,7 @@ synonyms = ["Déficit androgénique lié à l'âge (DALA)", "syndrome de défici
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-11-16T16:59:55+01:00"
 publishdate = "2024-11-22"
-lastmod = "2024-11-22"
+lastmod = "2026-04-15"
 specialites = ["endocrinologie", "urologie"]
 annees = "2021"
 sources = ["AFU", "SFMS"]
@@ -18,7 +18,7 @@ sctid = "41982003"
 icd10 = ["N50.8"]
 image = false
 imageSrc = ""
-todo = "photo | score ADAM"
+todo = "photo | score ADAM, demander relecture"
 rank = "ok"
 flowchart = true
 +++
@@ -26,9 +26,9 @@ flowchart = true
 {{%article-summary%}}
 
 - L'andropause ou déficit en testostérone associe des symptômes cliniques compatibles (sexuels, sarcopénie, neuropsychologiques) à une baisse de la testostérone et augmente avec l'âge
-- Suspecter un déficit en testostérone en cas de: terrain à risque (alcoolisme, diabète, obésité, cancer et autres comorbidités sévères, antécédents testiculaires) avec symptômes évocateurs (baisse du désir sexuel et des érections matinales, dysfonction érectile, perte d'efficacité des IPDE5, fatigue, amyotrophie, dépilation, gynécomastie)
+- Signes et symptômes d'un déficit en testostérone: terrain à risque (alcoolisme, diabète, obésité, cancer et autres comorbidités sévères, antécédents testiculaires) avec symptômes évocateurs (baisse du désir sexuel et des érections matinales, dysfonction érectile, perte d'efficacité des IPDE5, fatigue, amyotrophie, dépilation, gynécomastie)
 - Le bilan initial de l'andropause comprend: TSH et testostéronémie libre ou biodisponible à jeun entre 8 et 11 heures avec contrôle à 1 mois
-- En cas de testostéronémie basse: compléter le bilan avec LH, hématocrite et PSA. Un avis spécialisé peut être demandé en cas de testostéronémie normale avec des signes évocateurs
+- En cas de testostéronémie basse persistante: compléter le bilan avec LH, hématocrite et PSA. Un avis spécialisé peut être demandé en cas de testostéronémie normale avec des signes évocateurs
 - La prise en charge de l'andropause est toujours spécialisée (endocrinologue, urologue selon le type d'hypogonadisme au bilan) pour la prescription initiale de testostérone dont les contre-indications sont rares
 - Le traitement de l'andropause associe: testostérone avec suivi régulier, correction d'un surpoids et activité physique régulière
 
@@ -65,7 +65,7 @@ TR
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Diagnostic différentiel et étiologie" %}}
+{{%collapse "Étiologie et diagnostic différentiel" %}}
 
 ### Diagnostic différentiel d'un déficit en testostérone par insuffisance testiculaire primitive
 

@@ -17,6 +17,8 @@ sctid = "399939002"
 icd10 = ["L68.0"]
 image = true
 imageSrc = "Femme hirsute. Charles Eisenmann, Wikimedia Commons"
+rank = "false"
+writing = "todo"
 todo = "flowchart Figure 2"
 +++
 
@@ -222,6 +224,6 @@ En cas d'échec, substituer par la **spironolactone** (avec une contraception ef
 
 ### Bibliographie en attente
 
-[Pugeat M, et al; Société française d'endocrinologie (SFE). Recommandations pour l'exploration des hyperandrogénies. 2010. (PDF)](https://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/2008%20consensus%20sfe%20hyperandrogenie%20feminine.pdf)
+- [Pugeat M, et al; Société française d'endocrinologie (SFE). Recommandations pour l'exploration des hyperandrogénies. 2010. (PDF)](https://www.sfendocrino.org/_images/mediatheque/articles/pdf/recommandations/2008%20consensus%20sfe%20hyperandrogenie%20feminine.pdf)
 
 {{%/sources%}}

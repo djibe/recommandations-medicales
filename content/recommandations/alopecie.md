@@ -19,6 +19,7 @@ image = true
 imageSrc = "Pelade de l'homme d'âge moyen: aspect ovalaire sur cuir chevelu sain. Thirunavukkarasye-Raveendran, CC BY 4.0, via Wikimedia Commons"
 todo = "relecture | dermato-info"
 rank = "ok"
+writing = "ok"
 flowchart = true
 +++
 
@@ -29,7 +30,7 @@ flowchart = true
 - L'examen clinique bien conduit est essentiel pour déterminer la cause de l'alopécie
 - Le bilan est ciblé lors de situations spécifiques
 - La prise en charge et le traitement de l'alopécie est surtout étiologique
-- Pour l'alopécie androgénétique: minoxidil 5 % (2 % chez la femme) avec conditions d'utilisation bien expliquées
+- Le traitement de l'alopécie androgénétique comprend: minoxidil 5 % (2 % chez la femme) avec conditions d'utilisation bien expliquées
 - L'avis dermatologique est systématique en cas de doute diagnostique ou d'absence de réponse à un traitement
 
 {{%/article-summary%}}
@@ -222,9 +223,13 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [ANSM. Finastéride et risque d'idées suicidaires : nouvelles mesures. 26/09/2025.](https://ansm.sante.fr/actualites/finasteride-et-risque-didees-suicidaires-nouvelles-mesures)
+- [ANSM. Finastéride et risque d'idées suicidaires : nouvelles mesures. 20/02/2026.](https://ansm.sante.fr/actualites/finasteride-et-risque-didees-suicidaires-nouvelles-mesures)
 - [Collège des enseignants de dermatologie de France (CEDEF). Troubles des phanères. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Troubles-des-phaneres_CompressPdf.pdf)
 - [Jegou-Penouil MH. L'alopécie. Dermato-Info. 02/12/2019.](https://dermato-info.fr/fr/les-phan%C3%A8res_cheveux-et-poils/l%E2%80%99alop%C3%A9cie)
 - [Kanti V, et al; EDF. Evidence-based (S3) guideline for the treatment of androgenetic alopecia in women and in men - short version. J Eur Acad Dermatol Venereol. 2018.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.14624)
+
+### Bibliographie en attente
+
+- [Harries MJ, et al. British Association of Dermatologists living guideline for managing people with alopecia areata 2024. Br J Dermatol. 2025.](https://academic.oup.com/bjd/article/192/2/190/7829170)
 
 {{%/sources%}}

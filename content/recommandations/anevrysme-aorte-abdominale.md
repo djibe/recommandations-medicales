@@ -24,8 +24,8 @@ flowchart = true
 
 {{%article-summary%}}
 
-- L'anévrysme de l'aorte abdominale est une dilatation localisée de l'aorte abdominale, le plus souvent sous-rénale, masculine et asymptomatique
-- Indications au dépistage de l'anévrysme de l'aorte abdominale (AAA) par échodoppler aortique:
+- L'anévrysme de l'aorte abdominale (AAA) est une dilatation localisée de l'aorte abdominale, le plus souvent sous-rénale, masculine et asymptomatique
+- Indications au dépistage de l'anévrysme de l'aorte abdominale par échodoppler aortique:
   - Homme +65 ans ayant fumé
   - Homme +75 ans
   - Femme +75 ans, d'autant plus si hypertendue ou fumeuse

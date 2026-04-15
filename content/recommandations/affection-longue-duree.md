@@ -9,16 +9,16 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T22:53:41+02:00"
 publishdate = "2020-09-29"
-lastmod = "2025-01-06"
+lastmod = "2026-04-15"
 specialites = ["certificats"]
-annees = "2025"
+annees = "2026"
 sources = ["Assurance Maladie"]
 tags = []
 english = ["Chronic disease"]
 sctid = "27624003"
 icd10 = []
 image = true
-imageSrc = "Les affections de longue durée par pch.vector / Freepik "
+imageSrc = "Les affections de longue durée. pch.vector / Freepik"
 todo= "Affections psychiatriques de longue durée, HCht fam"
 +++
 
@@ -154,10 +154,10 @@ Le médecin doit ajouter la mention **<< suivi post-ALD >>** sur les ordonnances
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ameli. Qu'est-ce que le dispositif appelé Affection Longue Durée (ALD) ?. 09/01/2026.](https://www.ameli.fr/assure/droits-demarches/maladie-accident-hospitalisation/affection-longue-duree-ald/affection-longue-duree-maladie-chronique)
 - Ameli Médecin. Simplification administrative : durée d'exonération du ticket modérateur allongée pour 4 ALD. 19/07/2024.
 - [Ameli Médecins. Qu'est-ce qu'une affection de longue durée ?. 07/06/2024](https://www.ameli.fr/medecin/exercice-liberal/prise-charge-situation-type-soin/situation-patient-ald-affection-longue-duree/definition-ald)
-- [Ameli Médecin. Le suivi post-ALD. 2023.](https://www.ameli.fr/medecin/exercice-liberal/prise-charge-situation-type-soin/situation-patient-ald-affection-longue-duree/suivi-post-ald)
-- [Ameli. Qu'est-ce que le dispositif appelé Affection Longue Durée (ALD) ?. 23/11/2023.](https://www.ameli.fr/assure/droits-demarches/maladie-accident-hospitalisation/affection-longue-duree-ald/affection-longue-duree-maladie-chronique)
+- [Ameli Médecin. Le suivi post-ALD. 09/10/2023.](https://www.ameli.fr/medecin/exercice-liberal/prise-charge-situation-type-soin/situation-patient-ald-affection-longue-duree/suivi-post-ald)
 - [Assurance Maladie. Critères médicaux - Admission et prolongation d'une affection de longue durée exonérante du ticket modérateur. (PDF)](https://www.ameli.fr/sites/default/files/Documents/ald-exonerante-criteres-medicaux_assurance-maladie.pdf)
 
 {{%/sources%}}

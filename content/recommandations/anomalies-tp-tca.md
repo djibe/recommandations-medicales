@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr X (préférant garder l'anonymat)"
 date = "2024-12-06T15:29:44+01:00"
 publishdate = "2024-12-13"
-lastmod = "2024-12-14"
+lastmod = "2026-04-15"
 specialites = ["biologie", "hématologie"]
 annees = "2024"
 sources = ["SNFMI"]
@@ -19,6 +19,8 @@ sctid = ""
 icd10 = ["D68"]
 image = false
 imageSrc = ""
+rank = "ok"
+writing = "ok"
 todo = "photo"
 flowchart = true
 modele = true
@@ -26,7 +28,8 @@ modele = true
 
 {{%article-summary%}}
 
-- Un TP bas (taux de prothrombine ≤ 70%) ou un TCA allongé (≥ 1,2) doit être exploré. TP et TCA doivent toujours être interprétés ensemble, en commençant par le TP
+- Le TP et le TCA explorent respectivement la voie extrinsèque et intrinsèque de la coagulation
+- Un TP bas (taux de prothrombine ≤ 70 %) ou un TCA allongé (≥ 1,2) doit être exploré. TP et TCA doivent toujours être interprétés ensemble, en commençant par le TP
 - L'examen clinique précise le syndrome hémorragique: antécédents, traitements anticoagulant, ancienneté, localisation des saignements et caractère spontané ou non. Examen physique cutanéo-muqueux, articulaire et des masses musculaires
 - Le bilan initial du syndrome hémorragique comprend: NFS-plaquettes, TP, TCA. En cas de syndrome hémorragique franc: facteurs VIII, IX, XI ± facteur Willebrand antigène et activité
   - En cas de TP bas, compléter le bilan: Facteurs II, V, VII et X, fibrinogène
@@ -185,10 +188,10 @@ Le traitement d'une anomalie du TP ou du TCA est étiologique et **spécialisé*
 
 {{< mermaid title="Prise en charge d'un TP bas. Dr JB Fron d'après SFNMI 2024" >}}
 graph TB
-  TPbas("TP &lt; 70%<br>et TCA normal/allongé<br>(sans anticoagulant)") --> bilan("<b>Bilan</b><br>—<br>- Cofacteurs du TP:<br>FII, FV, FVII, FX<br>- Fibrinogène") -- Normaux --> cofacteursN("<b>Cofacteurs normaux</b><br>—<br>Interférence possible:<br>fibrinogène augmenté<br>ou ACC lupique")
+  TPbas("TP &lt; 70 %<br>et TCA normal/allongé<br>(sans anticoagulant)") --> bilan("<b>Bilan</b><br>—<br>- Cofacteurs du TP:<br>FII, FV, FVII, FX<br>- Fibrinogène") -- Normaux --> cofacteursN("<b>Cofacteurs normaux</b><br>—<br>Interférence possible:<br>fibrinogène augmenté<br>ou ACC lupique")
     bilan --> dimf2("<b>Diminution FVII et<br>FX ± FII</b><br>—<br>- Carence vitK<br>- Insuff. hépatique")
     bilan --> dim(Diminution de tous<br>les cofacteurs<br>ou FV isolé) -- Contrôle --> contrôle("- Fibrinogène<br>- Plaquettes<br>- Bilan hépatique") -- Anormal --> clinique("Contexte clinique: CIVD,<br>insuffisance hépatique")
-      contrôle -- "Normal ou ↓ isolée<br>du FV" --> acquis("Déficit acquis <br>ou constitutionnel")
+      contrôle -- "Normal ou ↘ isolée<br>du FV" --> acquis("Déficit acquis <br>ou constitutionnel")
     bilan --> dimi("<b>Diminution isolée:<br>FII ou FVII ou FX</b>") --> acquis
   style TPbas stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}

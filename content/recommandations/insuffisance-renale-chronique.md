@@ -29,7 +29,7 @@ todo = "SEO, Albuminurie perturbée, aliments riches K/P (HAS2023p71), désindex
 - 3 piliers de l'évaluation de la maladie rénale chronique: étiologie, estimation du débit de filtration glomérulaire (DFG) selon CKD-EPI et rapport albuminurie/créatininurie (RAC)
 - Toute personne avec une insuffisance rénale chronique est à {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 - Néphroprotection et prise en charge de l'insuffisance rénale:  
-  Arrêt du tabac, {{< modal-btn modal-nephrotoxiques >}}éviter les néphrotoxiques{{< /modal-btn >}}, tension cible < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale, souvent {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, vaccinations, activité physique
+  Arrêt du tabac, {{< modal-btn modal-nephrotoxiques >}}éviter les néphrotoxiques{{< /modal-btn >}}, tension cible < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale tolérée, souvent {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, vaccinations, activité physique
 - Adaptation des traitements selon le DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
 - {{< modal-btn modal-creatinine >}}Situations où le débit de filtration estimé n'est pas fiable{{< /modal-btn >}}
 - Avis néphrologique si: étiologie autre que diabète ou hypertension, DFGe < 45 (20 si âgé), évolutive ([score KFRE](https://kidneyfailurerisk.com), déclin rapide), albuminurie, complication, hypertension non contrôlée, traitement à {{< modal-btn modal-nephrotoxiques >}}marge thérapeutique étroite{{< /modal-btn >}}
@@ -305,7 +305,7 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
 - **Hypertension artérielle**
   - Traitement si PA ≥ 140/90 (*HAS* et *ESH 2023*) ou n'est pas dans la cible (*KDIGO 2021*)
   - Pression artérielle cible < 120/90 mmHg (*KDIGO 2024*, si possible pour *HAS 2023*)
-  - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale avec anticalcique ou thiazidique (de l'anse à partir de 30 mL/min)
+  - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale tolérée avec anticalcique ou thiazidique (de l'anse à partir de 30 mL/min)
   - Puis trithérapie si nécessaire
   - Si greffe rénale: MAPA, cible < 130/80 mmHg (*ESH 2023* et *KDIGO 2021*)  
    par anticalcique dihydropyridine ou thiazidique.
