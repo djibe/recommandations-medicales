@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-10-18T11:07:55+02:00"
 publishdate = "2024-11-07"
-lastmod = "2024-11-07"
+lastmod = "2026-04-15"
 specialites = ["gynécologie-obstétrique"]
 annees = "2007"
 sources = ["CNGOF"]
@@ -19,15 +19,17 @@ image = true
 imageSrc = "Illustration d'un abcès de la glande de Bartholin droite causant une bartholinite. Hariadhi, CC BY-SA 4.0, via Wikimedia Commons"
 todo = "relecture demandée SCGP sur site"
 rank = "ok"
+writing = "ok"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
 - La bartholinite est un abcès (voire un kyste) d'une glande de Bartholin survenant le plus souvent entre 20 et 30 ans
-- Le diagnostic de bartholinite est clinique: douleurs vulvaires lancinantes avec signes inflammatoires locaux, localisation typique du tiers postérieur du vestibule. Rechercher un risque d'infections sexuellement transmissibles
-- La prise en charge de la bartholinite est une urgence chirurgicale avec drainage et l'antibiothérapie n'est pas adaptée dans la plupart des cas
-- Le risque de récidive est élevé pouvant justifier une exérèse de la glande de Bartholin dès le premier épisode, sans conséquences sur la lubrification vaginale
+- Les signes et symptômes de bartholinite sont: douleurs vulvaires lancinantes avec signes inflammatoires locaux, localisation typique du tiers postérieur du vestibule. Rechercher un risque d'infections sexuellement transmissibles
+- Le diagnostic de bartholinite est clinique
+- La prise en charge de la bartholinite est une urgence chirurgicale avec drainage. Une antibiothérapie n'est pas indiquée dans la plupart des cas
+- Le risque de récidive de bartholinite est élevé, pouvant justifier une exérèse de la glande de Bartholin dès le premier épisode, sans conséquences sur la lubrification vaginale
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -66,7 +68,7 @@ Signes et symptômes de bartholinite aiguë:
 - Rapports sexuels à risque
 - Traitements en cours
 - Installation des symptômes
-- Symptômes de la bartholinite: douleurs vulvaires lancinantes avec signes inflammatoires
+- Symptômes de la bartholinite: douleurs vulvaires lancinantes avec signes inflammatoires (tuméfaction, rougeur, chaleur)
 
 ### Examen clinique
 
@@ -93,7 +95,7 @@ Adresser toute suspicion de bartholinite aiguë aux *Urgences gynécologiques* p
 
 La prise en charge de la bartholinite est **uniquement chirurgicale** et l'évolution est le plus souvent bénigne:
 
-- Pas d'antibiothérapie (antibioprophylaxie opératoire)  
+- Pas d'antibiothérapie (hors antibioprophylaxie opératoire)  
   Sauf grossesse, immunodépression, extension.
 - Prélèvements bactériologiques et drainage pendant 24 à 48 heures
 - Antalgie, AINS
@@ -114,7 +116,7 @@ Les méthodes suivantes **ne sont pas validées:** cathéter de Word, nitrate d'
 {{% /collapse %}}
 {{%collapse "Prise en charge de la bartholinite" "show" %}}
 
-{{< mermaid title="Prise en charge de la bartholinite. Dr JB Fron d'après CNGOF 2007" >}}
+{{< mermaid title="Prise en charge de la bartholinite. Dr JB Fron d'après CNGOF" >}}
 graph TB
   douleurs["Douleurs péri-vulvaires"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Exposition aux IST<br>- Traitements<br>- Symptômes<br>- Examen: tuméfaction<br>postérolatérale unilatérale") --> diagnostic(Bartolinite) --> urgences(Urgences gynécologiques)
     clinique -- "Diagnostic différentiel" --> différentiel("- Kyste pilonidal<br>- Kyste épidermoïde<br>- Abcès recto-vaginal")

@@ -138,7 +138,7 @@ Autres diagnostics à rechercher devant un épisode de douleurs thoraciques:
   - Gastrite, œsophagite, [reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}})
 - Autres
   - Anxiété
-  - [Anémie]({{% relref "anemie.md" %}})
+  - [Anémie]({{% relref "anemie-ferriprive.md" %}})
   - [Zona]({{% relref "zona.md" %}})
 
 {{% /collapse %}}

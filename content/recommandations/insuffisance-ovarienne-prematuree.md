@@ -1,6 +1,6 @@
 +++
 id = "0190e8c6-bd80-7ca8-b6b3-2a9f7ae675e1"
-title = "Insuffisance ovarienne prématurée (ex ménopause précoce)"
+title = "Insuffisance ovarienne prématurée (IOP ex ménopause précoce)"
 prefix = "l'"
 titleSeo = "Insuffisance ovarienne prématurée Ménopause précoce"
 description = "Recommandations, conduite à tenir et prise en charge d'une ménopause précoce. Aménorrhée avant 40 ans, bilan FSH haut et estradiol bas, traitement hormonal THS"
@@ -17,8 +17,9 @@ english = ["Premature ovarian insufficiency (POI)"]
 sctid = "237788002"
 icd10 = ["E28.3"]
 image = true
-imageSrc = "Illustration de la ménopause précoce (insuffisance ovarienne prématurée). vectorjuice / Freepik"
+imageSrc = "Illustration de la ménopause précoce (insuffisance ovarienne prématurée IOP). vectorjuice / Freepik"
 rank = "ok"
+writing = "todo"
 flowchart = true
 todo = "ESHRE2024Fig2p5, relecture en attente de joindre"
 +++
@@ -28,7 +29,7 @@ todo = "ESHRE2024Fig2p5, relecture en attente de joindre"
 - Évoquer une ménopause précoce chez la femme de moins de 40 ans avec troubles des cycles (irréguliers ou aménorrhée) accompagnée d'un syndrome climatérique
 - Le diagnostic d'insuffisance ovarienne prématurée est clinico-biologique: troubles des cycles (aménorrhée ou irréguliers) persistants au moins 4 mois avant 40 ans avec FSH > 25 UI/L
 - Des maladies auto-immunes sont fréquemment associées
-- Exploration de la ménopause précoce dans un [centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/)
+- Exploration de la ménopause précoce dans un [centre de référence CRESCENDO](https://crescendo.aphp.fr/reseau-centre-endocrinologie-france/)
 - Le traitement hormonal substitutif (THS) doit être démarré rapidement pour réduire le risque cardiovasculaire et [fracturaire]({{% relref "osteoporose.md" %}})
 - Le THS utilisé pour les insuffisances ovariennes prématurées spontanées (non iatrogènes) n'augmente pas le risque de [cancer du sein]({{% relref "cancer-sein.md" %}}) (*PNDS 2021*)
 
@@ -200,7 +201,7 @@ Une ostéodensitométrie est nécessaire au diagnostic, puis tous les 5 ans pour
 > [!INFO]
 > Le traitement hormonal substitutif (THS) utilisé pour le traitement de la ménopause précoce (spontanée, non iatrogène) n'augmente pas le risque de [cancer du sein]({{% relref "cancer-sein.md" %}}) (56 à 79 % des patientes le croient -- *PNDS 2021*).
 
-Recommandations pour la prise en charge de l'insuffisance ovarienne prématurée (IOP ou ménopause précoce) dans un [Centre de référence FIRENDO](http://www.firendo.fr/annuaire-des-membres-de-la-filiere/):
+Recommandations pour la prise en charge de l'insuffisance ovarienne prématurée (IOP ou ménopause précoce) dans un [Centre de référence CRESCENDO](https://crescendo.aphp.fr/reseau-centre-endocrinologie-france/):
 
 - Traitement hormonal substitutif (THS) jusqu'à au moins 51 ans
   - Par [contraceptif estroprogestatif]({{% relref "contraception.md" %}}) en continu
@@ -269,7 +270,7 @@ graph TB
       dosage --> FSHbas("FSH &lt; 25") -.-> renouveler("FSH à 6-4 semaines<br>si limite")
       dosage --> FSHhaut("FSH &gt; 25 UI/L") --> diagnostic[Insuffisance ovarienne<br>prématurée]
       style diagnostic stroke:#4150f5, stroke-width:1px
-      diagnostic --> complémentaire("<b>Bilan complémentaire</b><br>—<br>- AMH<br>- Anti-TPO<br>- Sérologie cœliaque<br>- Anticorps anti-surrénaliens<br>- Échographie pelvienne<br>- Glycémie, bilan lipidique<br>- Ostéodensitométrie") --> spe(Centre de Référence FIRENDO) --> traitement("<b>Traitement</b><br>—<br>- THS jusqu'à ≥ 51 ans<br>et syndrome climatérique<br>- Règles hygiéno-diététiques<br>- Soutien psychologique<br>- AMP ou contraception") --> suivi("- Suivi annuel<br>- Ostéodensitométrie/5 ans")
+      diagnostic --> complémentaire("<b>Bilan complémentaire</b><br>—<br>- AMH<br>- Anti-TPO<br>- Sérologie cœliaque<br>- Anticorps anti-surrénaliens<br>- Échographie pelvienne<br>- Glycémie, bilan lipidique<br>- Ostéodensitométrie") --> spe(Centre de Référence CRESCENDO) --> traitement("<b>Traitement</b><br>—<br>- THS jusqu'à ≥ 51 ans<br>et syndrome climatérique<br>- Règles hygiéno-diététiques<br>- Soutien psychologique<br>- AMP ou contraception") --> suivi("- Suivi annuel<br>- Ostéodensitométrie/5 ans")
 {{< /mermaid >}}
 
 {{% /collapse %}}

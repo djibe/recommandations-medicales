@@ -287,7 +287,7 @@ Réévaluer fréquemment le risque de saignement.
 - Hémorragie active importante
 - Hémorragie récente majeure (intra-crânienne...)
 - Thrombopénie < 50.000/mm³
-- [Anémie]({{% relref "anemie.md" %}}) non expliquée
+- [Anémie]({{% relref "anemie-ferriprive.md" %}}) non expliquée
 
 > [!WARNING]
 > Un traitement anticoagulant contre-indique les antithrombotiques (aspirine, clopidogrel sauf [post-SCA]({{% relref "syndrome-coronarien-aigu.md" %}})) et AINS.

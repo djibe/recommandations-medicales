@@ -174,7 +174,7 @@ Indications à une **consultation d'oncogénétique**:
 {{%warning%}}
 Signes évocateurs de cancer colorectal en cas de symptômes persistants:
 
-- Rectorragies, méléna (melæna), occulte ([anémie ferriprive]({{% relref "anemie.md" %}}))
+- Rectorragies, méléna (melæna), occulte ([anémie ferriprive]({{% relref "anemie-ferriprive.md" %}}))
 - Alternance diarrhée - [constipation]({{% relref "constipation.md" %}})
 - Douleurs abdominales d'apparition récente, persistantes ou inexpliquées (+50 ans ++)
 - Syndrome rectal  

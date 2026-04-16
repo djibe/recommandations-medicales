@@ -556,6 +556,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Houix M, et al. Optimizing Antidepressant Use in Geriatric Depression: Expert Consensus from French societies of geriatrics, old age psychiatry and clinical pharmacy (SFGG, SF3PA and SFPC). European Psychiatry. 2026.](https://www.cambridge.org/core/journals/european-psychiatry/article/optimizing-antidepressant-use-in-geriatric-depression-expert-consensus-from-french-societies-of-geriatrics-old-age-psychiatry-and-clinical-pharmacy-sfgg-sf3pa-and-sfpc/874ED18BB0B0CDFBC7795BAFA25B2E16)
 - [Aborder les tendances suicidaires en première ligne de soins. Minerva. 2025.](https://minerva-ebp.be/FR/Article/2422)
 - [Yrondi A, et al. French Society for Biological Psychiatry and Neuropsychopharmacology (AFPBN) guidelines for the management of patients with partially responsive depression and treatment-resistant depression: Update 2024. Encephale. 2024.](https://pubmed.ncbi.nlm.nih.gov/38369426/)
 - [Belzeaux R, et al. French Society for Biological Psychiatry and Neuropsychopharmacology and French-speaking Marcé Society guidelines for the management of mood disorders in women before, during, and after pregnancy. Arch Womens Ment Health. 2024.](https://link.springer.com/article/10.1007/s00737-024-01440-6)

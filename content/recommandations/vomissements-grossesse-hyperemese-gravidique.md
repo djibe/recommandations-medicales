@@ -148,7 +148,7 @@ Mesures hygiéno-diététiques pour les vomissements de grossesse (*CBIP*):
 - Préférer les aliments et boissons froids
 - Éviter de s'allonger juste après un repas
 - Adapter le mode de vie selon les préférences personnelles (*CNGOF*)
-- Arrêter les vitamines et la [supplémentation en fer]({{% relref "anemie.md" %}}), sauf la vitamine B9 (*CNGOF*)
+- Arrêter les vitamines et la [supplémentation en fer]({{% relref "anemie-ferriprive.md" %}}), sauf la vitamine B9 (*CNGOF*)
 
 Recommandations pour la prise en charge médicamenteuse des nausées et vomissements pendant la grossesse:
 

@@ -95,7 +95,7 @@ CEDEF
   - Mastocytose
 - Prurit paranéoplasique
 - Troubles endocriniens et métaboliques
-  - [Carence martiale]({{% relref "anemie.md" %}}), vitamines
+  - [Carence martiale]({{% relref "anemie-ferriprive.md" %}}), vitamines
   - [Dysthyroïdies](/tags/tsh/)
   - Hyperparathyroïdie
   - [Diabète](/tags/diabete/)

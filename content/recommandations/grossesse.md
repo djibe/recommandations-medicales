@@ -35,7 +35,7 @@ Chapitres dédiés:
 
 - [Acné pendant la grossesse]({{% relref "acne.md" %}})
 - [Allaitement]({{% relref "allaitement.md" %}})
-- [Anémie]({{% relref "anemie.md" %}})
+- [Anémie]({{% relref "anemie-ferriprive.md" %}})
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) et de l'[alcool]({{% relref "sevrage-alcool.md" %}})
 - Complications de grossesse
   - [Hémorroïdes]({{% relref "hemorroides.md" %}})

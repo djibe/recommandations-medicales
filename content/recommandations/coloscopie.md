@@ -48,7 +48,7 @@ Liste non exhaustive d'indications à la coloscopie:
 
 - [Acromégalie]({{% relref "acromegalie.md" %}})  
   Coloscopie au diagnostic si +40 ans.
-- [Anémie par carence martiale]({{% relref "anemie.md" %}}) non expliquée
+- [Anémie par carence martiale]({{% relref "anemie-ferriprive.md" %}}) non expliquée
 - [Cancer colorectal]({{% relref "cancer-colorectal.md" %}})  
   Suspicion ou dépistage chez un sujet à haut risque.
 - [Constipation]({{% relref "constipation.md" %}})  

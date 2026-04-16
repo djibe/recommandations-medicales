@@ -104,7 +104,7 @@ SNFGE
 
 ### Bilan d'une constipation
 
-Le bilan d'une constipation chronique vise à éliminer une cause métabolique, une [anémie]({{% relref "anemie.md" %}}) et une [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (adulte et enfant):
+Le bilan d'une constipation chronique vise à éliminer une cause métabolique, une [anémie]({{% relref "anemie-ferriprive.md" %}}) et une [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (adulte et enfant):
 
 - NFS, CRP
 - Glycémie à jeun

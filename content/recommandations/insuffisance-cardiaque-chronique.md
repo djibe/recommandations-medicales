@@ -143,7 +143,7 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
 - Cardiovasculaire  
   [Fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}), troubles du rythme, [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}).
 - Comorbidités  
-  [Diabète]({{% relref "diabete-type-2.md" %}}) (10-47 %), [anémie]({{% relref "anemie.md" %}}), carence martiale, [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}), hépatopathie, [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), dépression, démence.
+  [Diabète]({{% relref "diabete-type-2.md" %}}) (10-47 %), [anémie]({{% relref "anemie-ferriprive.md" %}}), carence martiale, [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}), hépatopathie, [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), dépression, démence.
 - {{< modal-btn modal-observance >}}Non observance{{< /modal-btn >}}
 
 ### Épidémiologie de l'insuffisance cardiaque en France
@@ -181,7 +181,7 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
     [Polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), [hypothyroïdie]({{% relref "hypothyroidie.md" %}}) et Basedow, connectivite, lupus, sarcoïdose, [amylose]({{% relref "amylose-al.md" %}}).
   - Infectieux: [VIH]({{% relref "vih-sida.md" %}}), parasites
   - [Tumoraux](/tags/cancer/)
-  - Carences ou déficits enzymatiques, [anémie]({{% relref "anemie.md" %}}), anorexie
+  - Carences ou déficits enzymatiques, [anémie]({{% relref "anemie-ferriprive.md" %}}), anorexie
 - Médicaments en cours, amélioration sous diurétiques
 - Traitements exposés  
   Mediator, radiothérapie thoracique, chimiothérapie, immunomodulateurs, antiarythmiques, anti-inflammatoires, anesthésiques.

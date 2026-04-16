@@ -100,7 +100,7 @@ Orientation diagnostique et étiologie d'une hyperferritinémie.
   HF fluctuante, CST normal/peu élevé, surcharge en fer absente/modérée. Baisse de 50 % en 15 jours à l'arrêt.
 - **Transfusions multiples**
   - Myélodysplasie, thalassémie
-  - CST élevé, surcharge en fer globale, [anémie chronique]({{% relref "anemie.md" %}})
+  - CST élevé, surcharge en fer globale, [anémie chronique]({{% relref "anemie-ferriprive.md" %}})
 - **Génétique - hémochromatose liée à HFE** (type 1)  
   CST très élevé (60-100%), surcharge en fer globale, mutation C282Y homozygote du gène *HFE*.
 

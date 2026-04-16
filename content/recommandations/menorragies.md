@@ -30,14 +30,14 @@ todo = "Collège, FIGO"
 - Le traitement des ménorragies peut être médical (acide tranexamique), hormonal (pilule œstroprogestative, progestatifs, stérilet hormonal, agonistes de la GnRH) ou chirurgical (conservateur ou hystérectomie)
 - La prise en charge des ménorragies idiopathiques de la femme comprend: acide tranexamique si désir de grossesse proche, sinon DIU au lévonorgestrel ou chirurgie conservatrice à partir de 42 ans. Hystérectomie si souhaitée.
 
-Chapitres liés: [anémie par carence martiale]({{% relref "anemie.md" %}}), [contraception]({{% relref "contraception.md" %}})
+Chapitres liés: [anémie par carence martiale]({{% relref "anemie-ferriprive.md" %}}), [contraception]({{% relref "contraception.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
 Ménorragies
 : Hémorragies génitales hautes survenant pendant les règles (femmes en âge de procréer et non enceintes) d'un volume supérieur à 80 mL ou d'une durée supérieure à 6 jours.
-: Les ménorragies peuvent entraîner une **altération de la qualité de vie** et une [anémie ferriprive]({{% relref "anemie.md" %}}) pouvant être profonde.
+: Les ménorragies peuvent entraîner une **altération de la qualité de vie** et une [anémie ferriprive]({{% relref "anemie-ferriprive.md" %}}) pouvant être profonde.
 : Première cause de consultation des femmes de 30 à 50 ans en gynécologie (1/3 des consultations) et 50 % des causes d'hystérectomie.
 
 ### Abréviations
@@ -72,7 +72,7 @@ Signes et symptômes à rechercher lors du bilan de ménorragies.
 
 ### Examen clinique
 
-- Signes d'[anémie]({{% relref "anemie.md" %}})
+- Signes d'[anémie]({{% relref "anemie-ferriprive.md" %}})
 - Examen gynécologique  
   Pour différencier d'hémorragies génitales basses (vulvaire, vaginale, exocervicale).
 
@@ -154,7 +154,7 @@ Les myomes (fibromyomes ou fibromes) sont opérés par hystéroscopie, cœliosco
 {{% /collapse %}}
 {{%collapse "Prise en charge des ménorragies" %}}
 
-> Lire le chapitre dédié sur la [prise en charge de l'anémie par carence martiale]({{% relref "anemie.md" %}}).
+> Lire le chapitre dédié sur la [prise en charge de l'anémie par carence martiale]({{% relref "anemie-ferriprive.md" %}}).
 
 ### Prise en charge des ménorragies de la femme
 

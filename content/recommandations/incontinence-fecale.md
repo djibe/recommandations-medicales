@@ -92,7 +92,7 @@ Compléter le bilan d'une incontinence fécale avec NFS et glycémie à jeun ± 
 
 ### Coloscopie
 
-Le recours à la coloscopie est limité aux indications liées à une suspicion de malignité ou de maladie inflammatoire: apparition ou modification récente des symptômes après 50 ans, AEG, rectorragies ou [anémie]({{% relref "anemie.md" %}}).
+Le recours à la coloscopie est limité aux indications liées à une suspicion de malignité ou de maladie inflammatoire: apparition ou modification récente des symptômes après 50 ans, AEG, rectorragies ou [anémie]({{% relref "anemie-ferriprive.md" %}}).
 
 Les autres bilans relèvent d'une **prescription spécialisée** (échographie endoanale, explorations physiologiques anorectales).
 

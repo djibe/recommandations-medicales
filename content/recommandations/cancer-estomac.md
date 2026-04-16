@@ -115,7 +115,7 @@ Principaux facteurs de risque de cancer du cardia gastrique: surpoids et [reflux
 Un cancer de l'estomac doit être évoqué et exploré devant:
 
 - [Dyspepsie]({{% relref "dyspepsie.md" %}}) après 40 ans
-- [Anémie réfractaire]({{% relref "anemie.md" %}})
+- [Anémie réfractaire]({{% relref "anemie-ferriprive.md" %}})
 - [Reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}}) après 50 ans ou reflux atypique
 - Signes digestifs chroniques  
   - Épigastralgies, nausées/vomissements
@@ -143,7 +143,7 @@ L'examen recherche:
 
 - Variations de poids, anorexie
 - Ascite
-- [Symptômes d'anémie]({{% relref "anemie.md" %}})
+- [Symptômes d'anémie]({{% relref "anemie-ferriprive.md" %}})
 - Hépatomégalie
 - Adénopathies sus-claviculaires
 - Carcinose péritonéale (toucher rectal)

@@ -10,16 +10,17 @@ date = "2022-01-10T16:46:32+01:00"
 publishdate = "2022-01-10"
 lastmod = "2023-02-03"
 specialites = ["ophtalmologie"]
-annees = "2023"
+annees = "2026"
 sources = ["Service-Public", "SNAO"]
 tags = ["céphalées", "chute", "enfant", "fatigue"]
 english = ["Orthoptic test"]
 sctid = "252847008"
 icd10 = []
 image = true
-imageSrc = "Illustration du bilan orthoptique par rawpixel.com / Freepik"
+imageSrc = "Illustration du bilan orthoptique. rawpixel.com / Freepik"
 rank = "ok"
-todo = "https://www.has-sante.fr/jcms/c_272178/fr/depistage-precoce-des-troubles-de-la-fonction-visuelle-chez-l-enfant-pour-prevenir-l-amblyopie"
+writing = "todo"
+todo = "demander relecture; https://www.has-sante.fr/jcms/c_272178/fr/depistage-precoce-des-troubles-de-la-fonction-visuelle-chez-l-enfant-pour-prevenir-l-amblyopie"
 +++
 
 {{%article-summary%}}
@@ -28,7 +29,7 @@ todo = "https://www.has-sante.fr/jcms/c_272178/fr/depistage-precoce-des-troubles
 - Accès libre à l'orthoptiste pour la prescription de lunettes de 16 à 42 ans  
   Patient déjà porteur de lunettes: possible si bilan ophtalmologique dans les 5 ans (3 ans si lentilles de contact).
 - Accès direct à l'orthoptiste pour le dépistage de l'amblyopie et de troubles visuels entre 9 à 15 mois puis entre 30 mois et 5 ans
-- [Annuaire des orthoptistes de France](https://www.sante.fr/recherche/trouver/orthoptiste/Autour%20de%20moi)
+- [Annuaire des orthoptistes de France](https://annuairesante.ameli.fr)
 
 {{%/article-summary%}}
 {{%collapse "Indications au bilan orthoptique" "show" %}}

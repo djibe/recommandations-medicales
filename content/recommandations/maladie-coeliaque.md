@@ -47,7 +47,7 @@ Gluten
 
 ### Complications de la maladie cœliaque
 
-- **Carences** en micronutriments (zinc, cuivre), [fer]({{% relref "anemie.md" %}}), vitamine B9 et B12, vitamines liposolibles (ADEK)
+- **Carences** en micronutriments (zinc, cuivre), [fer]({{% relref "anemie-ferriprive.md" %}}), vitamine B9 et B12, vitamines liposolibles (ADEK)
 - Lymphome digestif
 - Sur-risque de maladies auto-immunes
 - Altération de la qualité de vie
@@ -114,7 +114,7 @@ Indications au dépistage de la maladie cœliaque chez un adulte (*ESsCD 2025*):
 - **Symptômes évocateurs:**
   - [Constipation]({{% relref "constipation.md" %}}), [diarrhée chronique]({{% relref "diarrhee-chronique.md" %}}) non sanglante ou stéatorrhée
   - Perte de poids inexpliquée
-  - [Carence chronique en fer et anémie inexpliquée]({{% relref "anemie.md" %}})
+  - [Carence chronique en fer et anémie inexpliquée]({{% relref "anemie-ferriprive.md" %}})
   - Ballonnements postprandiaux, [dyspepsie]({{% relref "dyspepsie.md" %}})
   - Douleurs abdominales récurrentes
   - Iléostomie ou colostomie avec débit élevé inexpliqué
@@ -164,7 +164,7 @@ Considérer un dépistage de la maladie cœliaque chez un enfant (*ESPGHAN 2020*
   - Irritabilité, [fatigue chronique](/tags/fatigue/)
   - Neuropathie
   - Arthrite/arthralgie
-  - [Anémie ferriprive chronique]({{% relref "anemie.md" %}})
+  - [Anémie ferriprive chronique]({{% relref "anemie-ferriprive.md" %}})
   - Ostéopénie/ostéoporose, fractures répétitives
   - Aphtes récurrents
   - Dermatite herpétiforme
@@ -196,7 +196,7 @@ Les tableaux clinique de la maladie cœliaque sont très variables. L'évaluatio
 
 #### Autres symptômes de la maladie cœliaque
 
-- [Anémie]({{% relref "anemie.md" %}}) (7-80 % au diagnostic)
+- [Anémie]({{% relref "anemie-ferriprive.md" %}}) (7-80 % au diagnostic)
 - [Reflux gastro-œsophagien]({{% relref "reflux-gastro-oesophagien.md" %}}) (RGO)
 - Œsophagite à éosinophiles
 - Symptômes neurologiques:

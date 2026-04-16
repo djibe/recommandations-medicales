@@ -7,23 +7,25 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-07-10T17:55:44+02:00"
 publishdate = "2025-07-10"
-lastmod = "2025-07-10"
+lastmod = "2026-04-15"
 specialites = ["cardiologie"]
 annees = "2024"
 sources = ["ESC", "ESH"]
 tags = ["dépistage", "HTA"]
 english = ["Home blood pressure monitoring (HBPM)"]
-sctid = ""
+sctid = "413153004"
 icd10 = []
 image = true
 imageSrc = "L'automesure tensionnelle avec un tensiomètre validé. Freepik"
+rank = "ok"
+writing = "ok"
 +++
 
 {{%article-summary%}}
 
 - L'automesure tensionnelle (AMT) est un relevé de mesures répétées de tension artérielle réalisées de façon standardisée
 - Elle est recommandée pour la confirmation du diagnostic d'hypertension artérielle (HTA) ainsi que pour le suivi de son contrôle
-- [Carnet d'automesure tensionnelle à imprimer (international 2021)](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf)
+- [Carnet d'automesure tensionnelle à imprimer](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf)
 - [Liste de tensiomètres électroniques validés pour le domicile]({{% relref "tensiometres-electroniques-valides.md" %}})
 
 {{%/article-summary%}}
@@ -54,9 +56,9 @@ PAS
 > [!INFO]
 > Le seuil diagnostique de l'hypertension artérielle en automesure tensionnelle est de 135/85 mmHg.
 
-[Le carnet d'automesure tensionnelle en PDF (international 2021)](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf) et les [appareils validés pour l'automesure tensionnelle]({{% relref "tensiometres-electroniques-valides.md" %}}).
+[Carnet d'automesure tensionnelle (PDF)](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf) et les [appareils validés pour l'automesure tensionnelle]({{% relref "tensiometres-electroniques-valides.md" %}}).
 
-L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'hypertension en vie quotidienne et démasquer une hypertension masquée:
+L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'[hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) en vie quotidienne et démasquer une **hypertension masquée**:
 
 - Conditions de mesure
   - Pièce calme avec température confortable

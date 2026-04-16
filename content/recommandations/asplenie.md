@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T23:51:41+02:00"
 publishdate = "2020-09-29"
-lastmod = "2025-10-03"
+lastmod = "2026-04-15"
 specialites = ["hématologie", "infectiologie"]
 annees = "2025"
 sources = ["MinSanté", "BSH", "HCSP"]
@@ -20,17 +20,17 @@ image = true
 imageWEBP = true
 imageSrc = "Illustration de la rate par scientificanimations.com, CC BY-SA 4.0"
 rank = "ok"
+writing = "ok"
 todo = "Fièvre du splénectomisé"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- L'asplénie (et l'hyposplénie) expose à des infections sévères et parfois foudroyantes (risque à vie mais maximal les 2 premières années), surtout par le pneumocoque
-- Prise en charge de l'asplénique: antibioprophylaxie par pénicilline V Oracilline® 1 MUI 1 cp x 2/j pendant au moins 2 ans (5 ans chez l'enfant) ou à vie en cas de risque élevé (+65 ans, antécédent d'infection sévère ...)
-- Ceftriaxone 1g IM immédiat et consultation urgente en cas de fièvre ou syndrome infectieux
-- 6 vaccinations recommandées contre l'immunodépression: {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}} et *Haemophilus*, méningocoques B et ACWY, grippe et Covid 19
-- Les vaccins doivent être injectés dans les 2 semaines avant (chirurgie programmée) ou après la splénectomie
+- L'asplénie (et l'hyposplénie) -- absence de rate ou rate non fonctionnelle -- expose à des infections sévères et parfois foudroyantes (risque à vie mais maximal les 2 premières années), surtout par le pneumocoque
+- La prise en charge par antibioprophylaxie de l'asplénique comprend: pénicilline V Oracilline® 1 MUI 1 cp x 2/j pendant au moins 2 ans (5 ans chez l'enfant) ou à vie en cas de risque élevé (+65 ans, antécédent d'infection sévère ...)
+- En cas de fièvre ou de syndrome infectieux: antibiothérapie par ceftriaxone 1g IM immédiat et consultation médicale urgente
+- 6 vaccinations sont recommandées au cours de cette immunodépression: {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}} et *Haemophilus*, méningocoques B et ACWY, grippe et Covid 19. Les vaccins doivent être injectés dans les 2 semaines avant (chirurgie programmée) ou après la splénectomie
 - L'asplénie expose à une sensibilité majeure au [paludisme]({{% relref "paludisme.md" %}})
 
 {{%/article-summary%}}
@@ -65,7 +65,9 @@ HCSP
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Étiologie de l'asplénie" %}}
+{{%collapse "Étiologie" %}}
+
+### Étiologie de l'asplénie
 
 Causes d'asplénie et d'hyposplénie:
 
@@ -82,7 +84,7 @@ Causes d'asplénie et d'hyposplénie:
 - Causes fonctionnelles:
   - MICI, [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}), maladie de Whipple
   - Cirrhose alcoolique
-  - Maladie auto-immune: lupus, polyarthrite rhumatoïde, maladie de Wegener
+  - Maladie auto-immune: lupus, [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), maladie de Wegener
   - Maladies de surcharge: maladie de Gaucher, maladie de Niemann Pick, amylose
 
 {{% /collapse %}}

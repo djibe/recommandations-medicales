@@ -127,7 +127,7 @@ TDAH
 
 - Âge
 - Antécédent familial de SJSR (40%)
-- [Carence martiale]({{% relref "anemie.md" %}})  
+- [Carence martiale]({{% relref "anemie-ferriprive.md" %}})  
   {{%class text-black-secondary %}}Prévalence du SJSR de 25 à 35 % si anémie.{{%/class%}}
 - [Insuffisance rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})  
   Aggravation par inhibiteurs calciques, PTH basse, CST bas, [diabète de type 2]({{% relref "diabete-type-2.md" %}}) ({{%class text-black-secondary %}}prévalence 15-68%{{%/class%}})

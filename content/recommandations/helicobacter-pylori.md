@@ -206,7 +206,7 @@ La France est un pays de faible incidence d'*Helicobacter pylori*:
   - Avant chirurgie bariatrique touchant l'estomac
 - Autres
   - Toute endoscopie gastrique doit s'accompagner de biopsies
-  - [Anémie ferriprive]({{% relref "anemie.md" %}}) sans cause retrouvée ou résistante à la supplémentation
+  - [Anémie ferriprive]({{% relref "anemie-ferriprive.md" %}}) sans cause retrouvée ou résistante à la supplémentation
   - Carence en [vitamine B12]({{% relref "carence-vitamine-b12.md" %}}) sans cause retrouvée
   - Purpura thrombopénique immunologique de l'adulte
   - Souhait du patient

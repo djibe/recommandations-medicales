@@ -195,7 +195,7 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 > **EE** = éthinyl-estradiol ; **gén** = générique ; **LNG** = lévonorgestrel ; **NR** = non remboursé. Les pilules de 1^re^ génération ne sont plus disponibles en France.  
 Autres contraceptions: diaphragme, capes cervicales (NR), spermicides (NR), retrait, stérilisation, méthode *Ogino*.
 
-Les générations de pilules œstroprogestatives correspondent à la date de mise sur le marché du progestatif (P3: désogestrel, gestodène et norgestimate; P4: drospirénone). **Utiliser LNG et norgestimate en première intention**, les autres progestatifs de 3^e^ et 4^e^ générations doublent le risque de MVTE (*HAS 2013*).  
+Les générations de pilules œstroprogestatives correspondent à la date de mise sur le marché du progestatif (P3: désogestrel, gestodène et norgestimate; P4: drospirénone). **Utiliser LNG et norgestimate en première intention**, les autres progestatifs de 3^e^ et 4^e^ générations doublent le risque de MVTE (*CNGOF 2018*, *HAS 2013*).  
 Pas d'arrêt brutal d'une contraception de 3-4^e^ génération bien tolérée.
 
 Présenter les contraceptions par *[groupe d'efficacité](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)* (plutôt que par nombre de grossesses): hormonale (pilule 2^e^ génération, progestative, implant), DIU, [contraception d'urgence]({{% relref "contraception-urgence.md" %}}) et stérilisation.  
@@ -688,7 +688,7 @@ graph TB
 - [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018. (PDF)](https://cngof.fr/app/uploads/2025/11/Contraception202018_RPC.pdf?x26468)
 - [Robin F, et al; CNGOF. Faut-il vraiment avoir peur de la pilule contraceptive ? 2017. (PDF)](https://cngof.fr/app/uploads/2023/06/piluleCNGOF-2017-09.pdf?x53169)
 - CNGOF. Contraception du post-partum : recommandations pour la pratique clinique.
-- [HAS. Contraception : focus sur les méthodes efficaces. Actualités & Pratiques. 2013.](https://www.has-sante.fr/upload/docs/application/pdf/2013-05/contraception_focus_methodes_2013-05-22_18-09-35_548.pdf)
+- [HAS. Contraception : focus sur les méthodes efficaces. Actualités & Pratiques. 2013. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2013-05/contraception_focus_methodes_2013-05-22_18-09-35_548.pdf)
 
 ### Bibliographie en attente
 

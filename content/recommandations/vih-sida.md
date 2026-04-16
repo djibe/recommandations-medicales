@@ -166,7 +166,7 @@ Signes cliniques mineurs:
 
 - Neutropénie
 - Thrombopénie
-- [Anémie]({{% relref "anemie.md" %}})
+- [Anémie]({{% relref "anemie-ferriprive.md" %}})
 - Hypergammaglobulinémie polyclonale
 
 {{% /collapse %}}

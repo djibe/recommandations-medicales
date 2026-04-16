@@ -92,7 +92,7 @@ SNFGE
 Critères d'adressage rapide au gastro-entérologue:
 
 - Survenue après 50 ans
-- Rectorragies, méléna ou [anémie]({{% relref "anemie.md" %}})
+- Rectorragies, méléna ou [anémie]({{% relref "anemie-ferriprive.md" %}})
 - Symptômes nocturnes
 - Amaigrissement
 - Apparition ou modification récente des symptômes

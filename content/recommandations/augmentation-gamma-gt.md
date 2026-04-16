@@ -8,7 +8,7 @@ synonyms = ["Élévation de la gamma-glutamyltranspeptidase"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-12-15T10:03:08+01:00"
 publishdate = "2023-12-15"
-lastmod = "2023-12-15"
+lastmod = "2026-04-15"
 specialites = ["biologie", "hépato-gastro-entérologie"]
 annees = "2018"
 sources = ["SNFGE", "BSG"]
@@ -20,14 +20,15 @@ image = true
 imagePNG = true
 imageSrc = "La Gamma-GT (gamma-glutamyltranspeptidase). Theplatypus277, CC BY-SA 4.0, via Wikimedia Commons"
 rank = "ok"
+writing = "ok"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- L'activité sérique de la Gamma-GT (GGT) est d'origine hépatique
-- Les causes principales d'augmentation des Gamma GT sont: maladies hépatiques et biliaires, médicamenteuses, métaboliques ou organiques et l'alcool
-- Examen clinique rigoureux avec interrogatoire exhaustif
+- La Gamma-GT (GGT) est une enzyme membranaire dédiée au transport des acides aminés et au métabolisme du glutathion. Son activité sérique est d'origine hépatique
+- Les principales causes d'augmentation des Gamma GT sont les maladies hépatiques et biliaires, médicamenteuses, métaboliques ou organiques et l'alcool
+- L'enquête étiologique nécessite un examen clinique rigoureux avec interrogatoire exhaustif
 - Le bilan d'une augmentation des GGT est hépatique et métabolique: NFS, bilan hépatique, glycémie, bilan lipidique, échographie abdominale
 - Adresser au gastro-entérologue avec le bilan pour statuer sur l'étiologie et adopter la prise en charge adaptée des Gamma-GT élevées
 
@@ -55,21 +56,23 @@ SNFGE
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Étiologie de l'augmentation de la GGT" %}}
+{{%collapse "Étiologie" %}}
+
+### Étiologie de l'augmentation de la GGT
 
 Il existe 4 grandes causes pour une augmentation des Gamma GT:
 
 1. Affection hépato-biliaire non alcoolique  
-  Augmentée dans 85 % des maladies hépato-biliaires et presque toutes les cholestases (PAL élevée constamment).
+  La GGT est augmentée dans 85 % des maladies hépato-biliaires et presque toutes les cholestases (PAL élevées constamment).
 2. Médicamenteuse  
-  Inducteurs enzymatiques ([contraception œstroprogestative]({{% relref "contraception.md" %}}), hypnotique, anxiolytique, antidépresseur, anti-épileptique). Vérifier les ASAT (hépatite médicamenteuse).
+  Inducteurs enzymatiques ([contraception œstroprogestative]({{% relref "contraception.md" %}}), hypnotique, anxiolytique, antidépresseur, anti-épileptique). Vérifier les ASAT (oriente vers une hépatite médicamenteuse).
 3. Autres affections organiques  
-  {{< modal-btn modal-metabolique >}}Syndrome métabolique{{< /modal-btn >}}, [dyslipidémie]({{% relref "dyslipidemie.md" %}}), [diabète](/tags/diabete/), [obésité]({{% relref "obesite-adulte.md" %}}), [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}) et tout organe riche en GGT (rein, foie, pancréas, intestin, cerveau).
+  {{< modal-btn modal-metabolique >}}Syndrome métabolique{{< /modal-btn >}}, [dyslipidémie]({{% relref "dyslipidemie.md" %}}), [diabète](/tags/diabete/), [obésité]({{% relref "obesite-adulte.md" %}}), [hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}) et atteinte de tout organe riche en Gamma GT (rein, foie, pancréas, intestin, cerveau).
 4. Alcool  
-  Une GGT élevée signe une [consommation chronique d'alcool]({{% relref "sevrage-alcool.md" %}}) mais sans relation avec la quantité et avec une sensibilité faible (60%). Autres signes de mésusage: macrocytose, diminution de 50 % à J10 du sevrage.
+  Une GGT élevée signe une [consommation chronique d'alcool]({{% relref "sevrage-alcool.md" %}}) mais sans relation avec la quantité et avec une sensibilité faible (60%). Autre signe de mésusage: macrocytose. Diminution de 50 % de la GGT à J10 du sevrage.
 
 > [!INFO]
-> Une augmentation des Gamma-GT avec les phosphatases alcalines (PAL) signe une cholestase ([cholangite biliaire primitive]({{% relref "cholangite-biliaire-primitive.md" %}}), lithiase ou tumeur biliaire, médicamenteuse).
+> Une augmentation des Gamma-GT avec les phosphatases alcalines (PAL) signe une cholestase (étiologie: [cholangite biliaire primitive]({{% relref "cholangite-biliaire-primitive.md" %}}), lithiase ou tumeur biliaire, médicamenteuse).
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -87,11 +90,13 @@ Signes et symptômes à rechercher devant une élévation des Gamma-GT.
 - Pays de naissance, voyages, expositions sexuelles ou sanguines
 - Expositions professionnelles
 - Résultats biologiques antérieurs
-- Symptômes: [ictère]({{% relref "ictere.md" %}}), [prurit]({{% relref "prurit.md" %}}), douleurs abdominales
+- Symptômes, dont:
+  - [Ictère]({{% relref "ictere.md" %}}), [prurit]({{% relref "prurit.md" %}})
+  - Douleurs abdominales
 
 ### Examen clinique
 
-- Poids, taille, IMC
+- Poids (et variations), taille, IMC
 - Pression artérielle, fréquence cardiaque
 - Palpation abdominale
 - Signes d'hypertension portale  
@@ -105,9 +110,9 @@ Signes et symptômes à rechercher devant une élévation des Gamma-GT.
 
 ### Bilan de l'augmentation des Gamma GT
 
-Bilan hépatique et métabolique:
+Bilan de GGT élevée (*BSG 2018*):
 
-- NFS (en l'absence de valeur dans l'année)
+- NFS (sauf valeur dans l'année)
 - Bilan hépatique: ASAT, ALAT, GGT, PAL, bilirubine totale
 - Albuminémie
 - Ferritinémie
@@ -116,9 +121,7 @@ Bilan hépatique et métabolique:
 - Bilan lipidique
 - Échographie abdominale
 
-> -- *BSG 2018*
-
-En cas de cholestase (PAL et gammagt augmentées), compléter le bilan avec:
+En cas de cholestase (PAL et GammaGT augmentées), compléter le bilan avec:
 
 - Anticorps anti-muscle lisse
 - Anticorps anti-mitochondries
@@ -126,12 +129,12 @@ En cas de cholestase (PAL et gammagt augmentées), compléter le bilan avec:
 
 Lorsque le bilan n'est pas contributif, compléter avec une [sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}): IgA anti-transglutaminase et IgA totales.
 
-Adresser au gastro-entérologue pour évaluation.
+Adresser en consultation spécialisée de gastro-entérologue avec le bilan pour évaluation.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-La prise en charge dans les suites d'une augmentation des Gamma-GT est étiologique et spécialisée. Adresser au gastro-entérologue pour évaluation.
+La prise en charge d'une augmentation des Gamma-GT est principalement étiologique et spécialisée. Adresser au gastro-entérologue pour évaluation.
 
 En cas de bilan étiologique négatif, contrôle semestriel du bilan hépatique pendant 1 à 2 ans.
 
@@ -141,7 +144,7 @@ En cas de bilan étiologique négatif, contrôle semestriel du bilan hépatique 
 {{< mermaid title="Prise en charge d'une augmentation de la Gamma-GT par le médecin généraliste. Dr JB Fron d'après SNFGE et BSG" >}}
 graph TB
   augmentation["<b>Augmentation des Gamma GT</b>"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents: hépatiques,<br>métaboliques et familiaux<br>- Traitements<br>- Alcool et toxiques<br>- Expositions aux hépatites<br>et professionnelles<br>- Résultats antérieurs<br>- Symptômes<br>- Examen clinique") --> bilan("<b>Bilan</b><br>—<br>- NFS<br>- Bilan hépatique<br>- Ferritinémie<br>- Ag HBs, sérologie VHC<br>- Glycémie à jeun<br>- Bilan lipidique<br>- Échographie abdominale<br>- Sérologie cœliaque") --> gastro(Gastro-entérologue)
-  bilan -- "Cholestase:<br>PAL + GGT élevées" --> anticorps("Compléter avec anticorps:<br>muscle lisse, mitochondries<br>et anti-nucléaires") --> gastro
+  bilan -- "Cholestase<br>(PAL + GGT élevées)" --> anticorps("Compléter avec anticorps:<br>muscle lisse, mitochondries<br>et anti-nucléaires") --> gastro
   style augmentation stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
