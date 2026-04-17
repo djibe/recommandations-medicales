@@ -127,7 +127,7 @@ Signes et symptômes de ménopause précoce à rechercher avant 40 ans:
 - Risque de grossesse
 - Antécédents  
   - À risque: oncologiques (chimiothérapie, radiothérapie pelvienne), chirurgicaux (pelviens, ovariectomie)
-  - Auto-immuns: [dysthyroïdie](/tags/tsh/), [diabète]({{% relref "diabete-type-1.md" %}}), insuffisance surrénale, [vitiligo]({{% relref "vitiligo.md" %}}), lupus, [polyarthrite]({{% relref "polyarthrite-rhumatoide.md" %}}), [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}), myasthénie, Sjögren, PEA1 ([candidose buccale, unguéale et génitale]({{% relref "mycoses-dermatophytes-candidoses.md" %}}), insuffisance surrénale et hypoparathyroïdie), PEA2 (insuffisance surrénale, dysthyroïdie, diabète type 1).
+  - Auto-immuns: [dysthyroïdie](/tags/tsh/), [diabète]({{% relref "diabete-type-1.md" %}}), [insuffisance surrénale]({{% relref "insuffisance-surrenale.md" %}}), [vitiligo]({{% relref "vitiligo.md" %}}), lupus, [polyarthrite]({{% relref "polyarthrite-rhumatoide.md" %}}), [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}), myasthénie, Sjögren, PEA1 ([candidose buccale, unguéale et génitale]({{% relref "mycoses-dermatophytes-candidoses.md" %}}), insuffisance surrénale et hypoparathyroïdie), PEA2 (insuffisance surrénale, dysthyroïdie, diabète type 1).
   - Complications: cardiovasculaires, fracturaires
 - Antécédents familiaux d'insuffisance ovarienne prématurée
 - Tabagisme

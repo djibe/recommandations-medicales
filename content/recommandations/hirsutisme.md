@@ -60,6 +60,9 @@ ACP
 COP
 : contraception œstroprogestative (abréviation utilisée par le CNGOF)
 
+DHEA
+: déhydroépiandrostérone
+
 EE
 : éthinyl-estradiol
 

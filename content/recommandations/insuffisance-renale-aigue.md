@@ -37,7 +37,7 @@ Chapitre lié: [insuffisance rénale chronique]({{% relref "insuffisance-renale-
 Causes d'insuffisance rénale aiguë:
 
 - Cause prérénale fonctionnelle (insuffisance rénale aiguë fonctionnelle - IRA F)  
-  Déshydratation extracellulaire (déshydratation, brûlure, diarrhées, diurétique, diabète décompensé, insuffisance surrénale aiguë), iatrogène (IEC, ARA2, AINS, inh. calcineurine) ou hypovolémie efficace (choc, insuffisance cardiaque, syndrome néphrotique, décompensation œdémato-ascitique).
+  Déshydratation extracellulaire (déshydratation, brûlure, diarrhées, diurétique, diabète décompensé, [insuffisance surrénale aiguë]({{% relref "insuffisance-surrenale.md" %}})), iatrogène (IEC, ARA2, AINS, inh. calcineurine) ou hypovolémie efficace (choc, insuffisance cardiaque, syndrome néphrotique, décompensation œdémato-ascitique).
 - Cause parenchymateuse  
   Nécrose tubulaire aiguë (ischémique ou toxique), néphropathie interstitielle ou glomérulopathie.
 - Cause post-rénale (10%)  

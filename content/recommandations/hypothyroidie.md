@@ -134,7 +134,7 @@ T4L
 ### Interrogatoire
 
 - Antécédents personnels  
-  Zone d'endémie de carence, [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), insuffisance surrénale.
+  Zone d'endémie de carence, [polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), [insuffisance surrénale]({{% relref "insuffisance-surrenale.md" %}}).
 - Cause transitoire  
   Accouchement, iode 131, thyroïdectomie partielle, douleurs cervicales récentes.
 - Antécédents familiaux (auto-immuns ++)

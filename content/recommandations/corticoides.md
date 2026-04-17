@@ -67,7 +67,7 @@ ISPC
 {{%collapse "Clinique" %}}
 
 {{%warning%}}
-Évoquer une insuffisance surrénale en cas de symptômes et de prise récente de corticoïdes: locaux forte dose ou prolongés ([asthme]({{% relref "asthme.md" %}}), [psoriasis]({{% relref "psoriasis.md" %}})), corticoïdes associés, traitement par un inhibiteur du cytochrome P450 3A4 (antiviraux, ISRS ...), de doses élevées ou prolongées +1 an, d'infiltration intra-articulaire dans les 2 mois.
+Évoquer une [insuffisance surrénale]({{% relref "insuffisance-surrenale.md" %}}) en cas de symptômes et de prise récente de corticoïdes: locaux forte dose ou prolongés ([asthme]({{% relref "asthme.md" %}}), [psoriasis]({{% relref "psoriasis.md" %}})), corticoïdes associés, traitement par un inhibiteur du cytochrome P450 3A4 (antiviraux, ISRS ...), de doses élevées ou prolongées +1 an, d'infiltration intra-articulaire dans les 2 mois.
 
 ---
 
@@ -216,7 +216,7 @@ Prise en charge selon le résultat de la **cortisolémie à 8 heures**:
 Les situations de stress peuvent être: fièvre, infection nécessitant le repos ou des antibiotiques, douleurs, coloscopie, chirurgie (dont dentaire), traumatisme physique ou émotionnel.
 {.alert .alert-warning}
 
-Ces situations de stress peuvent engendrer une **insuffisance surrénale sévère** chez un patient en cours de décroissance avancée des corticoïdes (hydrocortisone < 40 mg/j) ou ayant récemment arrêté une corticothérapie prolongée sans dosage du cortisol matinal. une éducation thérapeutique est donc essentielle.
+Ces situations de stress peuvent engendrer une **[insuffisance surrénale aiguë]({{% relref "insuffisance-surrenale.md" %}})** chez un patient en cours de décroissance avancée des corticoïdes (hydrocortisone < 40 mg/j) ou ayant récemment arrêté une corticothérapie prolongée sans dosage du cortisol matinal. Une éducation thérapeutique est donc essentielle.
 
 ### Prise en charge d'une situation de stress
 

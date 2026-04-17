@@ -104,7 +104,7 @@ Liste de l'ensemble des étiologies de l'hyperkaliémie.
 - Hypoaldostéronisme
   - Syndrome d'hyporéninisme hypoaldostéronisme  
     Hyperkaliémie chronique isolée chez un diabétique, PVVIH ou +65 ans. Neuropathie autonome avec diminution de la sécrétion de rénine.
-  - Insuffisance surrénale  
+  - [Insuffisance surrénale]({{% relref "insuffisance-surrenale.md" %}})  
     Maladie d'Addison ou rares déficits enzymatiques (21-hydroxylase, 3ß-hydroxy-déshydrogénase).
   - Hyporéninisme primaire
   - Pseudohypo-aldostéronisme de type I ou II [syndrome de Gordon])

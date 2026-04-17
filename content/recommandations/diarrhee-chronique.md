@@ -108,7 +108,7 @@ Rechercher à l'examen les arguments en faveur des causes suivantes de diarrhée
 
 ### Causes rares de diarrhée chronique
 
-Autres atteintes du grêle (maladie de Whipple ...), hypoparathyroïdie, insuffisance surrénale, tumeur endocrine (VIPome ...), neuropathie autonome, diarrhée factice, diarrhée de Brainerd.
+Autres atteintes du grêle (maladie de Whipple ...), hypoparathyroïdie, [insuffisance surrénale]({{% relref "insuffisance-surrenale.md" %}}), tumeur endocrine (VIPome ...), neuropathie autonome, diarrhée factice, diarrhée de Brainerd.
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
