@@ -1,63 +1,65 @@
 +++
 id = "019d9674-d798-70dc-a0cd-43574a6d8805"
 title = "Anémie"
-titleSeo = "In case of long title or delete whole line (max 70 ch ... or more)"
-prefix = "la "
-description = "Title 2-22 words and description 160 characters max"
+prefix = "l'"
+description = "TODO:"
+noindex = true
+longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-04-16T15:21:05+02:00"
-publishdate = "2026-04-16"
-lastmod = "2026-04-16"
+publishdate = "2026-04-17"
+lastmod = "2026-04-17"
 specialites = ["hématologie"]
 annees = "2025"
 sources = ["MaRIH"]
 tags = []
 english = ["Anemia"]
-sctid = "https://browser.ihtsdotools.org/?perspective=full&conceptId1=44054006&edition=MAIN/2022-10-31&release=&languages=en"
-icd10 = ["sctid > Concept Details > Refsets"]
-draft = true
-image = false
-imageSrc = ""
+sctid = "271737000"
+icd10 = ["D64", "D64.9"]
+image = true
+imageSrc = "Illustration de l'anémie. macrovector / Freepik"
 rank = "false"
-todo = "descr > summary > liens > photo > newsletter > flow > Kanban"
+todo = "descr > summary > liens > newsletter > Kanban | codes ICD10"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-TODO: (at the end)
+Page en construction, publiée pour disposer de l'arbre de décision devant une anémie
 
 Chapitre lié: [anémie ferriprive]({{% relref "anemie-ferriprive.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
+{{< clinique/anemie-definition >}}
+
+| Tabagisme (cig/j) | Ajustement du taux d'Hb (g/dL) |
+| :---------------: | -----------------------------: |
+|        Non        |                  0&nbsp;&nbsp; |
+|      Fumeur       |                           -0,3 |
+|       < 10        |                           -0,3 |
+|       10-19       |                           -0,5 |
+|       ≥ 20        |                           -0,6 |
+{caption="Ajustement du taux d'hémoglobine pour les fumeurs. Dr JB Fron d'après *OMS 2024*" class="table-sm"}
+
 ### Abréviations
 
-ACG
-: {{%lang%}}American College of Gastroenterology{{%/lang%}}
+Hb
+: hémoglobine
+
+MaRIH
+: filière des maladies rares immuno-hématologiques
+
+VGM
+: volume globulaire moyen
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Clinique" %}}
+{{%collapse "Prise en charge de l'anémie" "show" %}}
 
-### Interrogatoire
-
-### Examen clinique
-
-{{% /collapse %}}
-{{%collapse "Examens complémentaires" %}}
-
-
-{{% /collapse %}}
-{{%collapse "Traitement" %}}
-
-
-{{% /collapse %}}
-{{%collapse "Prise en charge de l'anémie avec suspicion de carence en fer" "show" %}}
-
-{{< mermaid title="Prise en charge d'une anémie avec suspicion de carence en fer. Dr JB Fron d'après Les Clés du Diagnostic et sfh" >}}
+{{< mermaid title="Prise en charge d'une anémie. Dr JB Fron d'après Les Clés du Diagnostic et sfh" >}}
 graph TB
   anémie["<b>Anémie</b><br>—<br>- Femme: Hb &lt; 12 g/dL <br>- Homme: Hb &lt; 13 g/dL"] --> VGM(VGM ?) -- "&lt; 80 fl" --> microcytaire("Anémie microcytaire<br>± hypochrome<br>(CCMH &lt; 32)") --> ferritine("Ferritinémie<br>± CRP") --> ferriprive("Voir anémie<br>ferriprive")
     VGM -- "Normal<br>80-98 fl" --> normocytaire(Anémie<br>normocytaire) --> réticulocytes(Réticulocytes)
@@ -76,16 +78,11 @@ graph TB
 {{%sources%}}
 
 - [Michel M, et al; Filière de santé Maladies Rares Immuno-hématologiques. Anémie normo ou macrocytaire. Les Clés du Diagnostic. 2025.](https://clesdudiagnostic.fr/cles-du-diagnostic/anemie-normo-ou-macrocytaire-vgm-98-fl/)
+- [Guideline on haemoglobin cutoffs to define anaemia in individuals and populations. Geneva: World Health Organization; 2024. (PDF)](https://iris.who.int/bitstream/handle/10665/376196/9789240088542-eng.pdf?sequence=1)
+- [OMS. Concentrations en hémoglobine permettant de diagnostiquer l'anémie et d'en évaluer la sévérité. Système d'informations nutritionnelles sur les vitamines et les minéraux. 2011.](https://www.who.int/fr/publications-detail/WHO-NMH-NHD-MNM-11.1)
 
 ### Bibliographie en attente
 
 - Société française d'hématologie (sfh). Anémie chez l'adulte et l'enfant. Hématologie Réussir son DFASM. 2021.
-- Prescrire
-- Cochrane
-- [Minerva](https://minerva-ebp.be/)
-- [Cismef](https://www.cismef.org/cismef/)
-- [NICE Clinical guidance](https://www.nice.org.uk/guidance/conditions-and-diseases)
 
 {{%/sources%}}
-
-’≤≥±®æœŒÈ⅓¼½¾¹²³^4^ÂSpO~2~ -- ‰

@@ -24,7 +24,7 @@ todo = "signes différentiels, La voie orale est inefficace dans les MICI (*SOUR
 
 {{%article-summary%}}
 
-- L'anémie est une hémoglobine inférieure à 12 g/dL chez la femme et 13 g/dL chez l'homme
+- L'anémie ferriprive est une hémoglobine inférieure à 12 g/dL chez la femme et 13 g/dL chez l'homme avec une carence martiale (en fer)
   - Corriger les valeurs d'hémoglobine selon le statut tabagique et l'altitude
   - L'anémie par carence martiale est microcytaire (VGM < 80 fl) et le plus souvent hypochrome (CCMH < 32 g/dL)
 - Carence martiale: [ferritinémie](/tags/ferritine/) inférieure à 45 ng/mL (*BSG*; 30 pendant la grossesse -- *BSH*)
