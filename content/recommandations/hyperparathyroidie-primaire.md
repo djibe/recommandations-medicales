@@ -13,14 +13,14 @@ specialites = ["endocrinologie"]
 annees = "2024"
 sources = ["SFE", "AFCE"]
 tags = []
-english = ["Primary hyperparathyroidism"]
+english = ["Primary hyperparathyroidism (PHPT)"]
 sctid = "36348003"
 icd10 = ["E21.0"]
 draft = true
 image = false
 imageSrc = ""
 rank = "false"
-todo = "descr > summary > liens > photo > newsletter > flow > Kanban | demander Pr Peter Kamenicky APHP"
+todo = "descr > summary > liens > photo > newsletter > flow > Kanban | demander Pr Peter Kamenicky APHP, calcul FeCa"
 +++
 
 {{%article-summary%}}
@@ -39,22 +39,11 @@ Hyperparathyroïdie primaire (HPT 1)
 
 > Les parathyroïdes inférieures ectopiques sont généralement localisées dans le médiastin antérieur, le thymus ou au sein de la thyroïde.
 
-### Diagnostic différentiel
+**NB.** Chez un sujet en bonne santé, la calciurie des 24 heures reflète les entrées intestinales nettes.
 
-L'hyperparathyroïdie primaire **normo-calcémique** doit être différenciée d'une **hyperparathyroïdie secondaire**:
-
-- Carence d'apports en calcium  
-  {{< modal-btn modal-apports-calcium >}}Questionnaire GRIO des apports en calcium{{< /modal-btn >}}.
-- Insuffisance en vitamine D
-- Insuffisance rénale  
-  Défaut en 1 alpha-hydroxylase > carence en vitamine D > absorption calcique réduite > hyperparathyroïdie dite tertiaire.
-- Fuite rénale de calcium (hypercalciurie idiopathique, diurétiques de l’anse)
-- Malabsorption digestive
-  - Diarrhées chroniques
-  - MICI, maladie cœliaque
-  - Chirurgie bariatrique
-- Iatrogénie  
-  Dénosumab, biphosphonates, supplémentation en phosphate.
+Néoplasie endocrinienne multiple de type 1 (NEM1)
+: Hyperparathyroïdie syndromique la plus fréquente, principalement asymptomatique chez l'adolescent et l'adulte jeune, ou avec lithiases récidivantes ou atteinte osseuse.
+: Les autres atteintes majeures sont les tumeurs neuro-endocrines duodéno-pancréatiques et les adénomes hypophysaires.
 
 ### Épidémiologie de l'hyperparathyroïdie primaire
 
@@ -82,24 +71,63 @@ PTH
 SFE
 : Société française d'endocrinologie
 
-weddelite
+weddellite
 : oxalate de calcium
 {.dl-inline}
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+L'hyperparathyroïdie primaire **normo-calcémique** doit d'abord être différenciée d'une **hyperparathyroïdie secondaire**.
+
+### Causes d'hyperparathyroïdie secondaire
+
+Toutes ces situations doivent être recherchées pour interpréter correctement le bilan phospho-calcique:
+
+- Carence d'apports en calcium  
+  {{< modal-btn modal-apports-calcium >}}Questionnaire GRIO des apports en calcium{{< /modal-btn >}}.
+- Insuffisance en vitamine D ou apports excessifs
+- Insuffisance rénale  
+  Défaut en 1 alpha-hydroxylase > carence en vitamine D > absorption calcique réduite > hyperparathyroïdie dite tertiaire.
+- Fuite rénale de calcium (hypercalciurie idiopathique, diurétiques de l'anse)
+- Malabsorption digestive
+  - Diarrhées chroniques
+  - MICI, maladie cœliaque
+  - Chirurgie bariatrique
+- Iatrogénie  
+  Diurétiques, dénosumab, biphosphonates, lithium, corticothérapie, supplémentation excessive en phosphate.
+
+### Autres causes d'hyperparathyroïdie
+
+- Hypercalcémie avec hyperparathormonémie et hypocalciurie: causes génétiques  
+  Hypercalcémie hypocalciurie familiale ...
+- Hypercalcémie avec PTH normale ou basse: cancer, myélome/lymphome, hypervitaminose D, génétique, immobilisation, cirrhose, pathologie endocrinienne (hyperthyroïdie, insuffisance surrénale aiguë, phéochromocytome, acromégalie), iatrogène (hypervitaminose D ou A, diurétique thiazidique, œstrogènes et SERM, supplémentation calcique, iSGLT2, anti-PD1)
+- Normocalcémie et PTH élevée: doit être différenciée d'une hyperparathyroïdie normocalcémique  
+  Causes d'hyper-parathormonémie sans hypercalcémie: résistance à la PTH, tubulopathies hypophosphatémiques (liées à l'X ++) ou hypercalciuriques (acidose tubulaire distale de type 1, maladie de Cacchi et Ricci ...)
+
+### Diagnostic différentiel d'une tumeur brune
+
+- Métastase osseuse
+- Chondrosarcome
+- Tumeur à cellules géantes
+- Dysplasie fibreuse
+- Dysplasie cémento-osseuse
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 > [!INFO]
-> Le dosage calcémie est systématique en cas de symptôme évocateur d'hyperparathyroïdie primaire: douleurs ostéoarticulaires, ostéoporose, fractures de fragilité, tumeurs brunes, lithiase rénale, syndrome polyuro-polydipsique ...
+> Le dosage calcémie est systématique en cas de symptôme évocateur d'hyperparathyroïdie primaire: douleurs diffuses, lithiase rénale, ostéoporose, fractures répétées, troubles de conscience, cognitifs ou psychiatriques, syndrome polyuro-polydipsique ...
 
 L'hyperparathyroïdie primaire est le plus souvent asymptomatique (80-90 % des formes hypercalcémiques).
 
 ### Interrogatoire
 
 - Antécédents: insuffisance rénale, lithiase rénale, fracture osseuse, ostéoporose, hypertension artérielle (40-65 %), diabète (15 %) ...
-- Antécédents familiaux: hyperparathyroïdie (5-10 %), lithiases urinaires
+- Antécédents familiaux: hyperparathyroïdie (5-10 %), lithiases urinaires, cancer médullaire thyroïdien, adénome hypophysaire, tumeur neuroendocrine duodéno-pancréatique, tumeur de la mâchoire ou utérine (spectre HPT-JT)
 - Traitements en cours  
-  aggravants (corticoïdes), hormonothérapie.
+  Aggravants (diurétiques, dénosumab, biphosphonates, lithium, corticothérapie), hormonothérapie.
+- Apports en calcium ([questionnaire GRIO](https://www.grio.org/espace-gp/calcul-apport-calcique-quotidien.php)), vitamine D, phosphates
 - Facteurs de risque d'HPT 1:  
   Âge avancé, femme, origines asiatiques ou d'Afrique sub-saharienne.
 - **Signes et symptômes classiques de l'hyperparathyroïdie primaire:**
@@ -115,7 +143,7 @@ L'hyperparathyroïdie primaire est le plus souvent asymptomatique (80-90 % des f
 
 Si colique néphrétique:
 
-- Apports en sel, protéines, [questionnaire GRIO](https://www.grio.org/espace-gp/calcul-apport-calcique-quotidien.php) du calcium
+- Apports en sel, protéines, calcium ([questionnaire GRIO](https://www.grio.org/espace-gp/calcul-apport-calcique-quotidien.php))
 
 ### Examen clinique
 
@@ -139,6 +167,9 @@ Le **test de charge orale en calcium** et le [score Pro-FHH](https://www.profhh.
 
 ### Bilan de l'hyperparathyroïdie primaire
 
+> [!INFO]
+> La calcémie corrigée n'apporte pas de bénéfice (sauf hypoalbuminémie < 35 g/L ou hypoprotidémie < 65 g/L -- *SFE/AFCE 2024*).
+
 Bilan d'une suspicion d'hyperparathyroïdie primaire:
 
 - Calcémie à jeun (sauf urgence)
@@ -148,7 +179,8 @@ Bilan d'une suspicion d'hyperparathyroïdie primaire:
 - Magnésémie
 - Glycémie à jeun
 - 25(OH)vitamine D
-- Créatinine et DFG CKD-EPI TODO:
+- Créatinine et DFG ({{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}})
+- Sujet âgé: électrophorèse des protéines sériques (EPS)
 - Calciurie et créatininurie des 24 heures (et calcul de la fraction d'excrétion du calcium - FeCa)  
   Seuil calciurie: > 6,25 mmol/24h (femme) ou > 7,5 mmol/24h (homme). FeCa > 2 % indique une HPT 1.
 - Calciurie/créatininurie sur échantillon matinal  
@@ -159,8 +191,6 @@ Bilan d'une suspicion d'hyperparathyroïdie primaire:
 > Une hyperparathyroïdie primaire typique est diagnostiquée sur l'association d'une hypercalcémie, d'une PTH élevée et d'une FeCa élevée (ou en l'absence d'hypocalciurie).
 
 En cas de bilan légèrement anormal, répéter le bilan le matin à jeun. En cas de carence en vitamine D, répéter le bilan après 6 mois de normalisation.
-
-> La calcémie corrigée n'apporte pas de bénéfice (sauf  hypoalbuminémie < 35 g/L ou hypoprotidémie < 65 g/L -- *SFE/AFCE 2024*).
 
 > [!INFO]
 > Fraction d'excrétion du calcium (FeCa) = (calcium urinaire (en mmol/l) x créatinine plasmatique (en mmol/l)) / (créatinine urinaire (en mmol/l) x calcium plasmatique total (en mmol/l))
@@ -191,6 +221,16 @@ Indications à l'évaluation par le néphrologue:
 - Calcul rénal
 - Insuffisance rénale
 
+### Conseil génétique
+
+Indications au conseil génétique:
+
+- ≥ 2 cas d'HPT1 chez des apparentés au 1^er^ ou 2^e^ degré
+- Présentation syndromique
+- Avant 50 ans
+- +50 ans avec HPT1 récidivante ou multiglandulaire
+- Carcinome ou tumeur parathyroïdienne atypique
+
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
@@ -199,7 +239,7 @@ Indications à l'évaluation par le néphrologue:
 {{% /collapse %}}
 {{%sources%}}
 
-- [Consensus SFE/AFCE. Hyperparathyroïdie primaire. 2024.](https://www.sfendocrino.org/consensus-sfe-2024-hyperparathyroidie-primaire/) pt1,2,3 WIP pt4
+- [Consensus SFE/AFCE. Hyperparathyroïdie primaire. 2024.](https://www.sfendocrino.org/consensus-sfe-2024-hyperparathyroidie-primaire/) pt1,2,3,4,5,6,7 WIP 8
 
 ### Bibliographie en attente
 
@@ -215,5 +255,10 @@ Indications à l'évaluation par le néphrologue:
 {{% modal title="Évaluation des apports en calcium" id="modal-apports-calcium"%}}
 
 {{< scores/questionnaire-grio >}}
+
+{{% /modal %}}
+{{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
+
+{{< scores/ckd-epi >}}
 
 {{% /modal %}}

@@ -20,7 +20,7 @@ icd10 = ["D64", "D64.9"]
 image = true
 imageSrc = "Illustration de l'anémie. macrovector / Freepik"
 rank = "false"
-todo = "descr > summary > liens > newsletter > Kanban | codes ICD10"
+todo = "descr > summary > liens > newsletter > Kanban | codes ICD10, index"
 flowchart = true
 +++
 

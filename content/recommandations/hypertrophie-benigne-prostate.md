@@ -251,7 +251,7 @@ Peut être associé à un alpha-bloquant (tamsulosine + dutastéride [Combodart�
 
 - [Dutastéride 0,5 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/67513654/extrait#tab-rcp) (Avodart®, gén)
 - Finastéride 5 mg (Chibro-Proscar®, gén)  
-  Surveillance renforcée de l'[ANSM](https://ansm.sante.fr/actualites/reevaluation-europeenne-de-la-balance-benefice-risque-des-medicaments-contenant-du-finasteride-ou-du-dutasteride) pour troubles sexuels et psychiatriques.
+  Information et [attestation d'information ANSM cosignée](https://ansm.sante.fr/uploads/2026/02/05/attestation-d-information-partagee-finasteride-1-mg.pdf) pour troubles sexuels et psychiatriques.
 
 > [!INFO]
 > Les I5AR entraînent une diminution du PSA de moitié. (*McConnell 2003*)

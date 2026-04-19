@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON", "Alaedine Benani"]
 date = "2026-02-06T00:00:33+01:00"
 publishdate = "2026-02-12"
-lastmod = "2026-02-12"
+lastmod = "2026-04-17"
 specialites = ["biologie", "néphrologie"]
 annees = "2025"
 sources = ["UKKA", "SEC"]
@@ -49,10 +49,10 @@ Hyperkaliémie
 
 | Hyperkaliémie | ERC 2025 | KDIGO 2020 | ESC 2018 |
 | ------------- | :------: | :--------: | :------: |
-| Légère | 5,5 - 5,9 | LSN/5,0 - 5,9 | |
-| Modérée | 6,0 - 6,4 | 6,0 - 6,4 | |
-| Sévère | ≥ 6,5 | ≥ 6,5 | |
-| Extrême | ≥ 9 | | |
+| Légère | 5,5 - 5,9 | LSN/5,0 - 5,9 | 5,0 - 5,4 |
+| Modérée | 6,0 - 6,4 | 6,0 - 6,4 | 5,5 - 6,0 |
+| Sévère | ≥ 6,5 | ≥ 6,5 | > 6,0 |
+| Extrême | ≥ 9 | ND | |
 {caption="Définitions de l'hyperkaliémie selon la ERC, la KDIGO et la ESC"}
 
 > **NB.** Définitions du KDIGO **en l'absence de signe ECG**. **LSN =** limite supérieure de la normale du laboratoire
@@ -306,15 +306,15 @@ graph TB
 - [Palmer B, et al. Clinical Management of Hyperkalemia. Mayo Clinic Proceedings. 2021.](https://www.mayoclinicproceedings.org/article/S0025-6196(20)30618-2/fulltext)
 - {{< references/college-endocrino >}}
 - [Clase C, et al. Potassium homeostasis and management of dyskalemia in kidney diseases: conclusions from a Kidney Disease: Improving Global Outcomes (KDIGO) Controversies Conference. Kidney International. 2020.](https://www.sciencedirect.com/science/article/pii/S0085253819310129)
+- [Rosano GMC, et al. Expert consensus document on the management of hyperkalaemia in patients with cardiovascular disease treated with renin angiotensin aldosterone system inhibitors: coordinated by the Working Group on Cardiovascular Pharmacotherapy of the European Society of Cardiology. Eur Heart J Cardiovasc Pharmacother. 2018.](https://academic.oup.com/ehjcvp/article/4/3/180/4992013)
 - [Viera AJ, Wouk N. Potassium Disorders: Hypokalemia and Hyperkalemia. Am Fam Physician. 2015.](https://www.aafp.org/pubs/afp/issues/2015/0915/p487.html)
 - [Organisation Mondiale de la Santé. Directives : Sur l'apport en potassium chez l'adulte et chez l'enfant. 2013.](https://www.who.int/publications/i/item/9789241504829)
 - [e-cardiogram. Hyperkaliémie.](https://www.e-cardiogram.com/hyperkaliemie-severe/)
 
 ### Bibliographie en attente
 
+- [McEvoy J, et al, ESC Scientific Document Group. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension: Developed by the task force on the management of elevated blood pressure and hypertension of the European Society of Cardiology (ESC) and endorsed by the European Society of Endocrinology (ESE) and the European Stroke Organisation (ESO). European Heart Journal. 2024.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae178/7741010)
 - [Rossignol P, et al. État des lieux sur l'hyperkaliémie chronique persistante en France : consensus d'experts par une approche Delphi. Néphrologie & Thérapeutique. 2022.](https://www.sciencedirect.com/science/article/abs/pii/S176972552100568X) (payant)
-- ESC RAAS 2018
-- ESC HBP 2024
 
 {{%/sources%}}
 {{% modal title="Inhibiteurs du SGLT2" id="modal-isglt2"%}}

@@ -714,11 +714,6 @@ Un anticholinergique de courte durée d'action peut être ajouté en cas d'exace
 {{< traitements/laba-lama >}}
 
 {{% /modal %}}
-{{% modal title="Associations LABA et CSI" id="modal-ttt-laba-csi"%}}
-
-{{< traitements/laba-csi >}}
-
-{{% /modal %}}
 {{% modal title="Trithérapies inhalées" id="modal-ttt-laba-lama-csi"%}}
 
 {{< traitements/laba-lama-csi >}}
