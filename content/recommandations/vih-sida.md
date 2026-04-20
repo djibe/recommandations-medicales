@@ -19,7 +19,7 @@ sctid = "86406008"
 icd10 = ["B24", "B20", "B21", "B22", "B23", "Z21"]
 image = true
 imageSrc = "Photo de NIAID sur Foter.com"
-todo = "Le dépistage VHB - VHC - VIH doit être combiné (*AFEF*), relecture CNS, TPE, VIHclic, RT-PCR en urg, CAT en urgence TPE, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, depistage DT2, info transmission/guérison, méningo C 26 ans ?"
+todo = "SEO, Le dépistage VHB - VHC - VIH doit être combiné (*AFEF*), relecture CNS, TPE, VIHclic, RT-PCR en urg, CAT en urgence TPE, https://cns.sante.fr/actualites/prise-en-charge-du-vih-recommandations-du-groupe-dexperts/, complications, depistage DT2, info transmission/guérison, méningo C 26 ans ?"
 +++
 
 {{%article-summary%}}
@@ -80,9 +80,9 @@ VIH
 ### Personnes à risque de contamination VIH
 
 - Hommes  
-  70 % des nouveaux diagnostics (dont 2/3 d'HSH).
+  68 % des nouveaux diagnostics (dont 2/3 d'HSH).
 - [HSH]({{% relref "hsh.md" %}})  
-  45 % des nouvelles infections détectées en 2013.  
+  42 % des nouvelles infections détectées en 2024.  
   {{%class%}}L'incidence du VIH est est 200x celle observée dans la population comparable en métropole.{{%/class%}}
 - Usagers de drogues par injection (UDI)  
   Incidence multipliée par 20.
@@ -443,13 +443,13 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 
 {{< youtube id="XnQ4rNUkEyU" title="La minute RECO HAS | VIH : le suivi en médecine générale (Dr Jean-Philippe Joseph)" >}}
 
+- [Santé Publique France. VIH/sida. 2025.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/vih-sida/donnees/)
 - [Mach F, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/article/46/42/4359/8234482)
 - [Kunkel A, et al. Dépistage et diagnostic du VIH et de trois infections sexuellement transmissibles bactériennes chez les jeunes en France, 2014-2023. Bull Epidemiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/19-20/2025_19-20_3.html)
 - [ANRS, CNS. Vaccination des personnes vivant avec le VIH (label HAS). 2025.](https://www.has-sante.fr/jcms/p_3635651/fr/vaccination-des-personnes-vivant-avec-le-vih)
 - {{< references/calendrier-vaccinal >}}
 - [ANRS, CNS. Dépistage et prise en charge des cancers chez les personnes vivant avec le VIH. 2024. (PDF)](https://cns.sante.fr/sites/cns-sante/files/2024/10/VIH-Cancer_Argumentaire_Rapport-dexperts_-20241003.pdf)
 - [CMIT. Infection à VIH. Item 169. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-169.pdf)
-- [Santé Publique France. Bulletin de santé publique VIH-IST. 2023.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/infections-sexuellement-transmissibles/vih-sida/documents/bulletin-national/bulletin-de-sante-publique-vih-ist.-novembre-2023)
 - [Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. 2023.](https://cedef.org/wp-content/uploads/2023/09/Item-169-%E2%80%94-Infection-a-VIH-manifestations-cutaneo-muqueuses-de-la-primo-infection-a-VIH_CompressPdf.pdf)
 - [Cazein F, et al. Activité de dépistage du VIH et circonstances de découverte de l'infection à VIH, France 2018. Bull Epidémiol Hebd. 2019.](http://beh.santepubliquefrance.fr/beh/2019/31-32/2019_31-32_1.html)
 - [HAS. VIH. Consultation de suivi en médecine générale des personnes sous traitement antirétroviral. Octobre 2018.](https://www.has-sante.fr/jcms/c_2876774/fr/vih-consultation-de-suivi-en-medecine-generale-des-personnes-sous-traitement-antiretroviral)

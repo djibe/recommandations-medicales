@@ -18,19 +18,19 @@ sctid = "386584007"
 icd10 = ["E27.4"]
 image = true
 imageSrc = "Mélanodermie révélant une maladie d'Addison (insuffisance surrénale primaire) chez une femme. James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons"
-rank = "false"
+rank = "ok"
 todo = "liens | demander relecture reznik-y@chu-caen"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- L'insuffisance surrénale est une endocrinopathie rare liée à l'incapacité des surrénales à produire le cortisol. Les principales causes primaires (ISP) sont auto-immune chez l'adulte (maladie d'Addison) et génétiques chez l'enfant. La corticothérapie est la principale cause d'insuffisance corticotrope (IC)
+- L'insuffisance surrénale est une endocrinopathie rare liée à l'incapacité des surrénales à produire le cortisol. Les principales causes d'insuffisance surrénale primaire (ISP) sont auto-immunes chez l'adulte (maladie d'Addison) et génétiques chez l'enfant. La corticothérapie est la principale cause d'insuffisance corticotrope (IC)
 - Les signes et symptômes de l'insuffisance surrénale ne sont pas spécifiques: fatigue, anorexie, amaigrissement, hypotension, hyponatrémie, hyperkaliémie, appétence pour le sel, mélanodermie ...
-- Le bilan de l'insuffisance surrénale début par le dosage du cortisol et de l'ACTH à 8 heures avec l'ionogramme:
+- Le bilan de l'insuffisance surrénale débute par le dosage du cortisol et de l'ACTH à 8 heures avec l'ionogramme:
   - L'insuffisance surrénale est affirmée en cas de cortisol et d'ACTH bas. Débuter le traitement et compléter avec les anticorps anti 21-hydroxylase (scanner si négatifs). Si l'ACTH est bas, il s'agit d'une insuffisance corticotrope (IRM hypophysaire)
   - Les valeurs intermédiaires sont explorées par le spécialiste avec le test au Synacthène
-- La prise en charge de l'insuffisance surrénale est un traitement substitutif à vie par hydrocortisone (HC) 10-25 mg/j, fludrocortisone pour l'ISP voire DHEA chez la femme
+- La prise en charge de l'insuffisance surrénale est un traitement substitutif à vie par hydrocortisone (HC) à la plus faible dose possible. La fludrocortisone est ajoutée pour l'ISP et la DHEA en cas d'altération de la qualité de vie chez la femme
 - L'éducation thérapeutique est vitale pour savoir adapter le traitement aux symptômes et aux situations à risque d'insuffisance surrénale aiguë (urgence vitale)
 - Adresser en consultation spécialisée endocrinologique
 

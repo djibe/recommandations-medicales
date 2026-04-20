@@ -200,6 +200,10 @@ graph TB
 - [HAS. Cancer de l'endomètre. Actes et prestations Affection de longue durée. 2016.](https://www.has-sante.fr/jcms/c_1021574/fr/ald-n-30-cancer-de-l-endometre)
 - [HAS, INCa. Cancer de l'endomètre. Guide affection longue durée. 2010.](https://www.cancer.fr/professionnels-de-sante/recommandations-et-aide-a-la-pratique/outils-pour-la-pratique-des-medecins-generalistes/outils-par-localisation-de-cancer/guides-affection-de-longue-duree/cancer-de-l-endometre)
 
+### Bibliographie en attente
+
+- [Mager KL, McLean K. Endometrial Cancer: A Review. JAMA. 2026.](https://jamanetwork.com/journals/jama/article-abstract/2847570) (payant)
+
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}
 

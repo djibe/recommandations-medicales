@@ -100,4 +100,10 @@ Prise en charge pouvant être proposée en cas de contre-indication à la chirur
 - [Pisano M, et al. 2020 World Society of Emergency Surgery updated guidelines for the diagnosis and treatment of acute calculus cholecystitis. World J Emerg Surg. 2020.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7643471/)
 - {{< references/aderim >}}
 
+### Bibliographie en attente
+
+- [Ahmed I, et all; C-GALL Study Group. Effectiveness of conservative management versus laparoscopic cholecystectomy in the prevention of recurrent symptoms and complications in adults with uncomplicated symptomatic gallstone disease (C-GALL trial): pragmatic, multicentre randomised controlled trial. BMJ. 2023.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10698555/)
+- [Portincasa P, et al. Management of gallstones and its related complications. Expert Rev Gastroenterol Hepatol. 2016.](https://www.tandfonline.com/doi/10.1586/17474124.2016.1109445)
+- [Abraham S, et al. Surgical and nonsurgical management of gallstones. Am Fam Physician. 2014.](https://www.aafp.org/pubs/afp/issues/2014/0515/p795.html)
+
 {{%/sources%}}

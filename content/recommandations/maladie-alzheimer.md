@@ -19,6 +19,7 @@ sctid = "26929004"
 icd10 = ["G30", "G30.9", "F00", "F03"]
 image = true
 imageSrc = "Lésions cérébrales de la maladie d'Alzheimer. derivative work: Garrondo: ADEAR: Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging, Public domain, via Wikimedia Commons"
+writing = "todo"
 todo = "biblio IADL simplifiée | symptômes dont brouillard"
 flowchart = true
 +++
@@ -201,7 +202,8 @@ Imagerie systématique par IRM cérébrale pour le bilan de démence.
 Traitements à ne pas proposer: mélatonine, acupuncture (*NICE*), Ginkgo biloba (*Prescrire*), vitamine E, plantes.
 {.alert .alert-warning}
 
-> Concernant les anciens traitements médicamenteux (donépézil, galantamine, rivastigmine, mémantine ...): << la HAS a considéré que ces médicaments n'avaient plus de place dans la stratégie thérapeutique du traitement symptomatique de la maladie d'Alzheimer. >> -- *HAS 2019* (le *Lancet 2024* est en désaccord, comme *Cochrane 2024* pour la galantamine.)
+> Concernant les anciens traitements médicamenteux (donépézil, galantamine, rivastigmine, mémantine ...): << la HAS a considéré que ces médicaments n'avaient plus de place dans la stratégie thérapeutique du traitement symptomatique de la maladie d'Alzheimer. >> -- *HAS 2019* (le *Lancet 2024* est en désaccord, comme *Cochrane 2024* pour la galantamine.).
+> Les anticorps anti-amyloïdes n'apportent pas de bénéfice (*Cochrane 2026*).
 
 {{% /collapse %}}
 {{%collapse "Suivi de la maladie d'Alzheimer" %}}
@@ -239,6 +241,7 @@ graph TB
 
 {{< youtube id="UFkHk0wRr_I" title="La minute RECO HAS | Maladies neuroévolutives : accompagner à domicile" >}}
 
+- [Nonino F, et al. Amyloid‐beta‐targeting monoclonal antibodies for people with mild cognitive impairment or mild dementia due to Alzheimer's disease. Cochrane Database of Systematic Reviews. 2026.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016297/full/fr)
 - [Collège national des généralistes enseignants. Maladie d'Alzheimer : de nouveaux médicaments avec un bénéfice clinique aussi limité que les anciens. Avis du conseil scientifique du Collège national des généralistes enseignants. 2025. (PDF)](https://www.cnge.fr/wp-content/uploads/2025/10/251023_Avis-troubles-cognitif_AM_Vbdd.pdf)
 - [Lim AW, et al. Galantamine for dementia due to Alzheimer's disease and mild cognitive impairment. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001747.pub4/full/fr)
 - [Centre Belge d'Information Pharmacothérapeutique (CBIP). Folia. 2024.](https://www.cbip.be/fr/articles/4440?folia=4434)

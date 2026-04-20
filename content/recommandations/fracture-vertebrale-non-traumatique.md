@@ -271,6 +271,7 @@ Mots-clé: tassement vertébral, vertèbre cunéiforme
 
 ### Bibliographie en attente
 
+- [Moschovaki-Zeiger O, et al. ESR Essentials: Vertebral augmentation for osteoporotic fractures-practice recommendations by the Cardiovascular and Interventional Radiological Society of Europe. Eur Radiol. 2026.](https://link.springer.com/article/10.1007/s00330-025-12119-6)
 - [Fusaro M, et al. A Consensus Statement on the management of Vertebral Fractures in CKD stages G4-G5D. Nephrol Dial Transplant. 2025.](https://www.era-online.org/publications/a-consensus-statement-on-the-management-of-vertebral-fractures-in-ckd-stages-g4-g5d/)
 
 {{%/sources%}}
