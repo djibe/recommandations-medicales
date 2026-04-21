@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-06-06T15:58:31+02:00"
 publishdate = "2023-06-08"
-lastmod = "2026-02-16"
+lastmod = "2026-04-21"
 specialites = ["ORL", "pédiatrie"]
 annees = "2025"
 sources = ["SPILF", "HAS", "GPIP"]
@@ -30,8 +30,8 @@ flowchart = true
 - La prise en charge de l'otite moyenne aiguë dépend de l'âge et de l'intensité des symptômes:
   - Nourrisson de moins de 3 mois: avis hospitalier urgent
   - Nourrisson de 3 à 23 mois: antibiothérapie systématique par amoxicilline 80 mg/kg/j (max 3 g/j) en 2 prises pendant 10 jours
-  - À partir de 2 ans et chez l'adulte: antibiotique uniquement si symptômes sévères (fièvre, otalgie) ou persistance des symptômes après 48-72 heures. L'antibiothérapie dure 5 jours (10 jours chez l'enfant si otorrhée ou récidive après 4 jours d'arrêt des antibiotiques)
-  - Avis spécialisé en cas d'échec de la première ligne d'antibiotiques de l'adulte
+  - À partir de 2 ans: antibiotique uniquement si symptômes sévères (fièvre, otalgie) ou persistance des symptômes après 48-72 heures. L'antibiothérapie dure 5 jours (10 jours chez l'enfant si otorrhée ou récidive après 4 jours d'arrêt des antibiotiques)
+  - Chez l'adulte: antibiothérapie par amoxicilline 3g/j pendant 5 jours et avis spécialisé en cas d'échec
 - La prévention de l'otite moyenne aiguë passe par les désobstructions rhinopharyngées (DRP) et la vaccination anti-pneumococcique
 - Participer à l'[étude ADOMA](https://docs.google.com/forms/d/e/1FAIpQLScbwnGzkxnx_kIhvCsOoPgvq887krPBXgIqul_0a2drnt0gAQ/viewform) en soins primaires pour l'antibiothérapie différée de l'otite
 
@@ -146,7 +146,7 @@ Recommandations pour la prise en charge par antibiotiques de l'otite moyenne aig
 
 #### Otite moyenne aiguë du nourrisson de 3 à 23 mois
 
-Antibiothérapie systématique pendant ==**10 jours**==:
+Antibiothérapie systématique de l'OMAP du nourrisson pendant ==**10 jours**==:
 
 - ==[Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/medicament/66773446/extrait#tab-rcp) 80 mg/kg/j en **2 prises**== (max 3 g/j)
 - Syndrome otite-conjonctivite: amoxicilline/acide clavulanique 1,5 dose/kg x 2/j (80 mg/kg/j en 2 prises)
@@ -156,7 +156,7 @@ Antibiothérapie systématique pendant ==**10 jours**==:
 
 #### Otite moyenne aiguë de l'enfant de plus de 2 ans
 
-Antibiothérapie si: symptômes mal tolérés, otorrhée ou aggravation après 48-72 heures de surveillance **pendant ==5 jours==** (==10 jours== si **otorrhée** ou **otite récidivante** > 4 jours après l'arrêt des antibiotiques):
+Antibiothérapie de l'OMA de l'enfant si: symptômes mal tolérés, otorrhée ou aggravation après 48-72 heures de surveillance **pendant ==5 jours==** (==10 jours== si **otorrhée** ou **otite récidivante** > 4 jours après l'arrêt des antibiotiques):
 
 - ==Amoxicilline 80 mg/kg/j en 2 prises== (max 3 g/j)
 - Syndrome otite-conjonctivite: amoxicilline/acide clavulanique 1,5 dose-kg x 2/j (80 mg/kg/j en 2 prises, max 3 g/j)
@@ -168,7 +168,7 @@ Antibiothérapie si: symptômes mal tolérés, otorrhée ou aggravation après 4
 
 #### Otite moyenne aiguë de l'adulte
 
-Si indication, antibiothérapie pendant ==**5 jours**==:
+Antibiothérapie de l'OMA de l'adulte pendant ==**5 jours**==:
 
 - Amoxicilline 1g x 3/j
 - Si allergie documentée:
@@ -196,17 +196,20 @@ En cas d'échec de la première ligne **chez l'enfant** (*GPIP 2023*):
 - Par amoxicilline/acide clavulanique: ceftriaxone 50 mg/kg/j IM/IV pendant 3 jours
 {{%/warning%}}
 
+En cas d'échec à 72 heures chez l'adulte: avis spécialisé.
+
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'otite moyenne aiguë" "show" %}}
 
 {{< mermaid title="Recommandations pour la prise en charge de l'otite moyenne aiguë. Dr JB Fron d'après HAS/SPILF/GPIP 2025 et GPIP 2023" >}}
 graph TB
-OMAP["Otite moyenne aiguë<br>purulente (OMAP)"] --> 3mois("<b>&lt; 3 mois</b><br>ou suspicion de<br>complication") --> hôpital("Avis hospitalier<br>urgent")
+OMAP["Otite moyenne aiguë<br>purulente (OMAP)"] --> 3mois("<b>Nourrisson<br>&lt; 3 mois</b><br>ou suspicion de<br>complication") --> hôpital("Avis hospitalier<br>urgent")
 style OMAP stroke:#4150f5, stroke-width:1px
-  OMAP --> 2ans("<b>3-23 mois</b>") --> antibiothérapie("<b>Antibiothérapie 10 jours:</b><br>- Amoxicilline 80 mg/kg/j<br>en 2 prises<br>- Sd otite-conjonctivite:<br>amox-clavulanique 1,5 dose-kg x 2/j<br>- Allergie: céfpodoxime 8 mg/kg/j<br>en 2 prises") -. Échec .-> échec("<b>Après échec de 1re ligne:</b><br>- Si amoxicilline: amox-clavulanique<br>80/mg/kg/j 10j<br>voire céfpodoxime 8 mg/kg/j<br>- Si céfpodoxime: amox 150 mg/kg 10j<br>- Si amox/clavulanique: ceftriaxone 50 mg/kg/j 3j")
-  OMAP --> adulte("<b>≥ 2 ans, adulte</b><br>avec symptômes<br>peu intenses") --> abstention(Abstention) -. "Persistance<br> après 48-72h" .-> réévaluation("Réévaluation") -.-> atb
-  adulte -- "Otorrhée,<br>mauvaise tolérance" --> atb(Antibiothérapie 5j:<br>amoxicilline<br>Enfant: 10j si otorrhée) -. "Échec 72h<br>enfant" .-> échec
+  OMAP --> nourrisson("<b>3-23 mois</b>") --> antibiothérapie("<b>Antibiothérapie 10 jours:</b><br>- Amoxicilline 80 mg/kg/j<br>en 2 prises<br>- Sd otite-conjonctivite:<br>amox-clavulanique 1,5 dose-kg x 2/j<br>- Allergie: céfpodoxime 8 mg/kg/j<br>en 2 prises") -. Échec .-> échec("<b>Après échec de 1re ligne:</b><br>- Si amoxicilline: amox-clavulanique<br>80/mg/kg/j 10j<br>voire céfpodoxime 8 mg/kg/j<br>- Si céfpodoxime: amox 150 mg/kg 10j<br>- Si amox/clavulanique: ceftriaxone 50 mg/kg/j 3j")
+  OMAP --> enfant("<b>Enfant ≥ 2 ans</b><br>avec symptômes<br>peu intenses") --> abstention(Abstention) -. "Persistance<br> après 48-72h" .-> réévaluation("Réévaluation") -.-> atb
+  enfant -- "Otorrhée,<br>mauvaise<br>tolérance" --> atb(Antibiothérapie 5j:<br>amoxicilline<br>Enfant: 10j si otorrhée) -. "Échec 72h<br>enfant" .-> échec
     atb -. "Échec 72h<br>adulte" .-> spécialiste(Avis spécialisé)
+  OMAP --> adulte("<b>Adulte</b>") --> atb
 {{< /mermaid >}}
 
 {{< card-link-external title="Quiz sur l'otoscopie" url="https://docs.google.com/forms/d/e/1FAIpQLSfPLdMfKAuKyrIQI0pWI8w-v72YwYRYjhjxXmJvJUHnH-7nrQ/viewform" subtitle="par MedQual" >}}
@@ -218,7 +221,7 @@ style OMAP stroke:#4150f5, stroke-width:1px
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Otite moyenne aiguë purulente de l'enfant. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/c_2722749/fr/choix-et-durees-d-antibiotherapies-otite-moyenne-aigue-purulente-de-l-enfant)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Otite moyenne aiguë purulente de l'adulte. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/c_2722670/fr/choix-et-durees-d-antibiotherapies-otite-moyenne-aigue-purulente-de-l-adulte)
 - [Darlison P, et al, supported by Cochrane Sweden and Cochrane Austria. Decongestants and antihistamines for acute otitis media in children. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015839.pub2/full/fr)
-- [Cohen R, et al. Antimicrobial treatment of ENT infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001471)
+- [Cohen R, et al. Antimicrobial treatment of ENT infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001471) ([version française payante](https://www.sciencedirect.com/science/article/abs/pii/S0987798324000240))
 - [CMIT. Otites infectieuses de l'adulte et de l'enfant. Item 150. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-150.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Otites infectieuses de l'adulte et de l'enfant. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/otites)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Déficits immunitaires héréditaires. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/pathologies)
