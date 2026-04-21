@@ -27,9 +27,10 @@ flowchart = true
 {{%article-summary%}}
 
 - L'acromégalie correspond aux manifestations induites par une sécrétion endogène excessive d'hormone de croissance (GH)
-- Suspecter une acromégalie devant les signes et symptômes suivant: changement de taille de bague, de pointure de chaussures, de syndrome dysmorphique (prognathisme, nez épaissi, macroglossie) ... ou de complications: [syndrome du canal carpien]({{% relref "syndrome-canal-carpien.md" %}}), [apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), [hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [diabète](/tags/diabete/)
+- Suspecter une acromégalie devant les signes et symptômes suivant: changement de taille de bague, de pointure de chaussures, de syndrome dysmorphique (prognathisme, nez épaissi, macroglossie) ... ou de complications: syndrome du canal carpien, syndrome d'apnées du sommeil, hypertension artérielle, [diabète](/tags/diabete/)
 - Le bilan de l'acromégalie débute par le dosage de l'IGF-1 en ville
-- La prise en charge de l'acromégalie est réalisée dans un centre de compétence ou de référence HYPO ([annuaire des centres](https://www.firendo.fr/annuaire-des-membres-de-la-filiere))
+- En cas d'IGF-1 élevée, la prise en charge de l'acromégalie est réalisée dans un centre de compétence ou de référence HYPO ([annuaire des centres](https://www.firendo.fr/annuaire-des-membres-de-la-filiere))
+- La chirurgie d'exérèse est le traitement de référence de l'acromégalie
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

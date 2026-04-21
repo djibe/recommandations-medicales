@@ -145,7 +145,7 @@ Indications à la consultation spécialisée en urologie pédiatrique si:
 {{%sources%}}
 
 - [GPIP. Pénurie de Céfixime : Recommandations GPIP/SFP sur la stratégie thérapeutique du traitement des infections urinaires en pédiatrie. 2025.](https://www.gpip.fr/document/penurie-de-cefixime-recommandations-gpip-sfp-sur-la-strategie-therapeutique-du-traitement-des-infections-urinaires-en-pediatrie/)
-- [Madhi F, et al; GPIP. Antimicrobial treatment of urinary tract infections in children. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001483)
+- [Madhi F, et al; GPIP. Antimicrobial treatment of urinary tract infections in children. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001483) ([version française payante](https://www.sciencedirect.com/science/article/abs/pii/S0987798324000264))
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Infections urinaires. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/infections-urinaires)
 - [Collège Français des Enseignants en Urologie (CFEU). Infections urinaires de l'adulte et de l'enfant. Item 161. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-161-Infections-urinaires.pdf)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)

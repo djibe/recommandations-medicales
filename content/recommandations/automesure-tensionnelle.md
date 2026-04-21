@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-07-10T17:55:44+02:00"
 publishdate = "2025-07-10"
-lastmod = "2026-04-15"
+lastmod = "2026-04-21"
 specialites = ["cardiologie"]
 annees = "2024"
 sources = ["ESC", "ESH"]
@@ -92,9 +92,13 @@ Ajouter sur l'ordonnance le tensiomètre électronique, certaines mutuelles pouv
 Chez l'enfant ou pendant la grossesse, un appareil validé spécifique est nécessaire ([voir la liste](https://www.stridebp.org/fr/appareils-pa/)).
 {.alert .alert-info}
 
+> [WARNING]
+> Faute de données en vie réelle, les appareils de mesure de la pression artérielle sans brassard exposent à des prises en charge inappropriées (*AHA 2026*).
+
 {{% /collapse %}}
 {{%sources%}}
 
+- [Cohen JB, et al. Cuffless Devices for the Measurement of Blood Pressure: A Scientific Statement From the American Heart Association. Hypertension. 2026.](https://www.ahajournals.org/doi/10.1161/HYP.0000000000000254)
 - [McEvoy J, et al, ESC Scientific Document Group. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension: Developed by the task force on the management of elevated blood pressure and hypertension of the European Society of Cardiology (ESC) and endorsed by the European Society of Endocrinology (ESE) and the European Stroke Organisation (ESO). European Heart Journal. 2024.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae178/7741010)
 - [Kreutz R, et al. 2024 European Society of Hypertension clinical practice guidelines for the management of arterial hypertension. Eur J Intern Med. 2024.](https://www.ejinme.com/article/S0953-6205(24)00238-3/fulltext)
 - {{< references/esh-2023 >}}

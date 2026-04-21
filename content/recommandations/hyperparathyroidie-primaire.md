@@ -234,12 +234,12 @@ Indications au conseil génétique:
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-> Les symptômes typiques (osseux, rénaux, musculaires) sont le plus souvent résolutifs après la chirurgie parathyroïdienne.
+> Les symptômes typiques de l'hyperparathyroïdie primaire (osseux, rénaux, musculaires) sont le plus souvent résolutifs après la chirurgie parathyroïdienne.
 
 {{% /collapse %}}
 {{%sources%}}
 
-- [Consensus SFE/AFCE. Hyperparathyroïdie primaire. 2024.](https://www.sfendocrino.org/consensus-sfe-2024-hyperparathyroidie-primaire/) pt1,2,3,4,5,6,7 WIP 8
+- [Consensus SFE/AFCE. Hyperparathyroïdie primaire. 2024.](https://www.sfendocrino.org/consensus-sfe-2024-hyperparathyroidie-primaire/) pt1,2,3,4,5,6,7,8,9 WIP 
 
 ### Bibliographie en attente
 

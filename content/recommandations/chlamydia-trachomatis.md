@@ -174,24 +174,23 @@ Les jeunes femmes de 18 à 25 ans peuvent commander un kit gratuit de dépistage
 {{% /collapse %}}
 {{%collapse "Traitement du Chlamydia" %}}
 
-Pour le traitement des infections urogénitales **compliquées** à Chlamydia, voir [orchi-épididymite]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}}) et [salpingite]({{% relref "infections-genitales-hautes.md" %}})
+### Dépistage *Chlamydia* négatif
 
-Prise en charge des infections urogénitales non compliquées à *Chlamydia trachomatis* selon les résultats de la PCR.
+En cas de dépistage négatif, ne pas traiter.
 
-### Dépistage négatif
+Répéter le dépistage de *Chlamydia trachomatis*:
 
-**Dépistage annuel** de *Chlamydia trachomatis* si rapports non protégés avec un nouveau partenaire (trimestriel chez les [HSH]({{% relref "hsh.md" %}})).
+- tous les ans si rapports non protégés
+- avec un nouveau partenaire
+- trimestriel chez les [HSH]({{% relref "hsh.md" %}})
 
-### Diagnostic ou dépistage *Chlamydia* positif
+### Diagnostic de *Chlamydia* ou dépistage positif
 
-- Traitement des formes non compliquées: asymptomatique, urétrite et cervicite
-- Traitement systématique en cas d'infection par le gonocoque (voir le chapitre dédié pour le traitement du gonocoque)
+Ces recommandations concernent les infections à *Chlamydia* non compliquées (asymptomatique, urétrite et cervicite). Pour les infections urogénitales **compliquées**, voir [orchi-épididymite]({{< relref "infection-genitale-uretrite-orchiepididymite.md" >}}) et [salpingite]({{% relref "infections-genitales-hautes.md" %}}).
 
-Doxycycline 100 mg x 2/j pendant 7 jours  
-(Protection du soleil, prise pendant le repas avec un grand verre d'eau et ne pas s'allonger l'heure suivante)
-{.alert .alert-info}
-
-- Dépister le ==partenaire==, traitement systématique si rapport contaminant < 14 jours
+- Antibiothérapie: ==**doxycycline** 100 mg x 2/j pendant 7 jours==  
+  Protection du soleil, prise pendant le repas avec un grand verre d'eau et ne pas s'allonger l'heure suivante.
+- ==Dépister le partenaire==, traitement systématique si rapport contaminant < 14 jours
 - ==Préservatif== pendant la durée du traitement (7 jours après la dernière prise d'azithromycine)
 - Consultation de contrôle à J7 pour guérison clinique, résultats du bilan IST et conseils de prévention
 - [HSH]({{% relref "hsh.md" %}}): dépistages répétés tous les **3 mois**
@@ -208,15 +207,15 @@ Doxycycline 100 mg x 2/j pendant 7 jours
 
 #### Traitement des cas particuliers d'infections urogénitales non compliquées à Chlamydia
 
-- Contre-indication à la doxycycline:
+- En cas de contre-indication à la doxycycline:
   - azithromycine 1 g dose unique
   - 3^e^ intention: ofloxacine 200 mg x 2/j pendant 7 jours  
     ou lévofloxacine 500 mg x 1/j pendant 7 jours
 - Femme enceinte et allaitement:
-  - Au 1^er^ trimestre: schéma doxycycline
-  - 2^e^ et 3^e^ trimestre, allaitement: schéma azithromycine (*HAS*, [info CRAT](https://www.lecrat.fr/6362/))  
+  - Au 1^er^ trimestre: schéma doxycycline de référence
+  - 2^e^ et 3^e^ trimestre, allaitement: schéma azithromycine 1 g dose unique (*HAS*, [info CRAT](https://www.lecrat.fr/6362/))  
     2^e^ intention: érythromycine 500 mg x 4/j pendant 7 jours
-- Personne vivant avec le VIH: azithromycine également possible
+- Personne vivant avec le VIH: schéma azithromycine également possible
 
 ### Traitement des infections anorectales (hors LGV), oropharyngées et conjonctivites
 

@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2025-10-11"
+lastmod = "2025-12-19"
 specialites = ["infectiologie", "pédiatrie", "thérapeutique"]
 annees = "2025"
 sources = ["MinSanté", "HAS", "HCSP"]
@@ -310,12 +310,12 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [HAS. Stratégie de vaccination contre les infections invasives à pneumocoques : Place du vaccin CAPVAXIVE chez l'adulte. 2025.](https://www.has-sante.fr/jcms/p_3634637/fr/strategie-de-vaccination-contre-les-infections-invasives-a-pneumocoques-place-du-vaccin-capvaxive-chez-l-adulte)
 - [HAS. Avis n° 2025.0040/AC/SESPEV du 17 juillet 2025 du collège de la Haute Autorité de santé relatif à l'ajout des vaccins contre les maladies méningococciques invasives des sérogroupes A, C, W, Y, et B à l'arrêté fixant la liste des vaccins mentionnée à l'article L. 5122-6 du code de la santé publique. 17/07/2025. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2025-07/avis_n2025.0040_ac_sespev_17_juillet_2025_college_has_a_lajout_des_vaccins_contre_les_maladies_meningococciques_a_c_w_y_b_la.pdf)
 - [DGS-Urgent 2025_15. Modalités de mise en œuvre de la campagne d'immunisation des nourrissons et nouveau-nés contre les infections à virus respiratoire syncitial (VRS). 28/01/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Vaccination contre les papillomavirus : élargissement de la cohorte de rattrapage vaccinal chez les hommes et les femmes jusqu'à 26 ans révolus. 2025.](https://www.has-sante.fr/jcms/p_3605114/fr/vaccination-contre-les-papillomavirus-elargissement-de-la-cohorte-de-rattrapage-vaccinal-chez-les-hommes-et-les-femmes-jusqu-a-26-ans-revolus)
 - [HAS. Grossesse : les vaccins recommandés. 2025.](https://www.has-sante.fr/jcms/p_3590575/fr/grossesse-les-vaccins-recommandes)
-- {{< references/calendrier-vaccinal >}}
 - [HAS. Stratégie de vaccination contre les infections invasives à méningocoques. 2025.](https://www.has-sante.fr/jcms/p_3597524/fr/strategie-de-vaccination-contre-les-infections-invasives-a-meningocoques)
 - [HAS. Élargissement des critères d'éligibilité à la vaccination antipneumococcique chez les adultes - Recommandation vaccinale. 2025.](https://www.has-sante.fr/jcms/p_3586414/fr/elargissement-des-criteres-d-eligibilite-a-la-vaccination-antipneumococcique-chez-les-adultes-recommandation-vaccinale)
 - [DGS-Urgent 2025_03. Fin de la campagne d'immunisation des nouveaux-nés et nourrissons contre le VRS. 28/01/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)

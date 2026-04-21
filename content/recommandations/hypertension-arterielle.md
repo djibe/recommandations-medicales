@@ -218,6 +218,9 @@ Voir les [tensiomètres validés]({{% relref "tensiometres-electroniques-valides
 
 Le brassard est spécifique de chaque appareil.
 
+> [WARNING]
+> Faute de données en vie réelle, les appareils de mesure de la pression artérielle sans brassard exposent à des prises en charge inappropriées (*AHA 2026*).
+
 {{% /collapse %}}
 {{%collapse "Objectifs tensionnels" "show" %}}
 
@@ -499,6 +502,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Cohen JB, et al. Cuffless Devices for the Measurement of Blood Pressure: A Scientific Statement From the American Heart Association. Hypertension. 2026.](https://www.ahajournals.org/doi/10.1161/HYP.0000000000000254)
 - [Académie de médecine. Hydrochlorothiazide et cancers cutanés : prévenir avant tout ! 13/11/2025.](https://www.academie-medecine.fr/hydrochlorothiazide-et-cancers-cutanes-prevenir-avant-tout/)
 - [Tock R. Impact d'un modèle de soins infirmiers assisté par Internet, dirigé par des infirmières spécialisées dans un cadre de collaboration multidisciplinaire sur la gestion de l'hypertension artérielle. Minerva. 2025.](https://minerva-ebp.be/FR/Analysis/913)
 - [Grave C, et al. Le fardeau de l'hypertension artérielle en France en 2021. Bull Epidemiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/12/2025_12_1.html)
