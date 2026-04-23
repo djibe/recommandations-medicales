@@ -214,18 +214,17 @@ Suspendre la metformine en cas de décompensation.
 Deuxième ligne - Ajouter au choix
 {.text-primary .typography-overline .mt-4 .choix-standard .choix-obese}
 
-<span class="choix-standard choix-obese choix-mcv">Possibilité de proposer d'emblée une bithérapie si déséquilibre initial important (HbA<sub>1c</sub> ≥ 8,5 %).</span> Avis endocrinologique souhaitable si ≥ 10 %.
+<span class="choix-standard choix-obese choix-mcv">Possibilité de proposer d'emblée une bithérapie si déséquilibre initial important (HbA<sub>1c</sub> ≥ 8,5 %).</span> Avis endocrinologique souhaitable si HbA<sub>1c</sub> ≥ 10 %.
 
-iSGLT2 ou AR GLP-1 d'emblée en cas de risque cardiovasculaire élevé en prévention primaire.
+<div class="mb-2 choix-standard">
+  <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button> ou 
+  <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1">AR GLP-1</button>
+  
+  <p class="my-3">Moins bénéfiques:<button class="chip chip-action border" type="button" data-toggle="modal" data-target="#modal-idpp4">iDPP4</button>, préférable à un <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-su">SU</button>.</p>
+
+> **NB.** iSGLT2 ou AR GLP-1 d'emblée en cas de risque cardiovasculaire élevé en prévention primaire.
 {.choix-standard}
 
-<div class="mb-2 choix-standard d-flex align-items-center">
-  <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button>
-  <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1">AR GLP-1</button>
-  <p class="mb-0 px-3">&gt;</p>
-  <button class="chip chip-action border" type="button" data-toggle="modal" data-target="#modal-idpp4">iDPP4</button>
-  <p class="mb-0 px-3">&gt;</p>
-  <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-su">SU</button>
 </div>
 <div class="mb-2 choix-obese">
   <button class="chip chip-action flex-grow-1 border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1">AR GLP-1</button>

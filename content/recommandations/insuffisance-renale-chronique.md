@@ -18,7 +18,9 @@ english = ["Chronic kidney disease (CKD)", "chronic renal insufficiency"]
 sctid = "709044004"
 icd10 = ["N18", "N18.9", "N19", "R80", "I12", "I13"]
 image = true
-imageSrc = "Illustration de l'insuffisance rénale. pch.vector / Freepik"
+imageSrc = "Illustration de la maladie rénale chronique et de l'insuffisance rénale. pch.vector / Freepik"
+rank = "false"
+writing = "todo"
 flowchart = true
 todo = "SEO, Albuminurie perturbée, aliments riches K/P (HAS2023p71), désindexation surface corporelle +++"
 +++

@@ -28,14 +28,14 @@ todo = "def rhumatisme pso + MICI, bilan pré-thérap antitnfa"
 
 - La spondylarthrite ankylosante (SpA) est une maladie vaste englobant différentes entités auparavant différenciées: spondylarthrite ankylosante, rhumatisme psoriasique (Rpso), arthrites réactionnelles, rhumatismes inflammatoires associés aux MICI ...
 - Les signes et symptômes évocateurs de spondylarthrite ankylosante sont des dorso-lombalgies persistantes chroniques (+3 mois) avec réveil nocturne, dérouillage matinal prolongé (+30 minutes), aggravées au repos et diminuées à l'activité physique, très sensibles aux AINS
-- Le bilan initial d'une suspicion de spondylarthrite associe bilan biologique (NFS, CRP) et radiographies et IRM des sacro-iliaques
+- Le bilan initial d'une suspicion de spondylarthrite associe bilan biologique (NFS, CRP), radiographies du rachis cervico-thoraco-lombaire F + P, bassin de face et IRM des sacro-iliaques et des rachis dorso-lombaires
 - La prise en charge de toute suspicion de spondyloarthrite ankylosante est spécialisée et rhumatologique
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-Spondyloarthrite (SpA)
-: Maladie vaste englobant différentes entités auparavant différenciées: spondylarthrite ankylosante, rhumatisme psoriasique (Rpso), arthrites réactionnelles, rhumatismes inflammatoires associés aux MICI, spondyloarthrites indifférenciées et formes juvéniles (syndrome enthésite et arthrite).
+Spondyloarthrite
+: Maladie vaste englobant différentes entités auparavant différenciées: spondylarthrite ankylosante (SpA), rhumatisme psoriasique (Rpso), arthrites réactionnelles, rhumatismes inflammatoires associés aux MICI, spondyloarthrites indifférenciées et formes juvéniles (syndrome enthésite et arthrite).
 : Une importante partie de la prise en charge thérapeutique est commune pour le spondyloarthrites axiales et le rhumatisme psoriasique. Le passage d'une forme à l'autre est également relativement fréquent.
 
 ### Facteurs de mauvais pronostic de la spondylarthrite ankylosante
@@ -224,6 +224,10 @@ Le bilan recherche un syndrome inflammatoire:
   {{%class%}}Syndrome inflammatoire modeste (60 % des cas).{{%/class%}}
 - Bilan cardiovasculaire  
   Glycémie à jeun, bilan lipidique.
+- Imageries:
+  - Radiographies du rachis cervico-thoraco-lombaire face et profil
+  - Radiographie du bassin de face
+  - IRM des sacro-iliaques et des rachis dorso-lombaires
 
 ### Radiographies
 
@@ -238,11 +242,12 @@ Le bilan recherche un syndrome inflammatoire:
 | Stade 3 | Enthésophyte (ossification cicatricielle le long de l'enthèse)                      |
 {caption="Classification radiologique de la sacro-iliite de la spondylarthrite ankylosante"}
 
-**NB. La sacro-iliite radiologique ne survient en moyenne que 7 ans après le début des symptômes.**
+> **NB.** La sacro-iliite radiologique ne survient en moyenne que 7 ans après le début des symptômes.
 
 ### IRM des sacro-iliaques et des rachis dorso-lombaires
 
-L'==**IRM des sacro-iliaques et des rachis dorso-lombaires**== est importante pour un diagnostic précoce.
+> [!INFO]
+> L'**IRM des sacro-iliaques et des rachis dorso-lombaires** est essentielle pour un diagnostic précoce de SpA.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la spondylarthrite ankylosante" %}}

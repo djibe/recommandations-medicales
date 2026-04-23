@@ -8,10 +8,10 @@ synonyms = ["Peptoclostridium difficile"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-03-06T19:05:06+01:00"
 publishdate = "2025-03-20"
-lastmod = "2026-02-16"
+lastmod = "2026-04-22"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2025"
-sources = ["RéPia", "ACG", "ASCRS"]
+sources = ["RéPia", "ESCMID", "ACG", "ASCRS"]
 tags = []
 english = ["Clostridioides difficile infections (CDI)"]
 sctid = "186431008"
@@ -60,6 +60,9 @@ CCD
 
 *C. difficile*
 : *Clostridioides difficile* (ex *Clostridium difficile*)
+
+ESCMID
+: {{%lang%}}European Society of Clinical Microbiology and Infectious Diseases{{%/lang%}}
 
 ICD
 : infection à *Clostridioides difficile*
@@ -130,11 +133,10 @@ En cas de récidive (dans les 8 semaines suivant la fin du traitement): demander
 
 Précisions sur l'antibiothérapie du *Clostridioides difficile*:
 
-- 2^e^ intention en France: **vancomycine** orale 125 mg x 4/j pendant 10 jours (minimum 14 jours si [intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}})) (possible pendant la grossesse et l'allaitement -- [CRAT](https://www.lecrat.fr/13364/))
-- Dernière intention: métronidazole 125 mg x 4/j pendant 10 jours
+- 2^e^ intention: **vancomycine** orale 125 mg x 4/j pendant 10 jours (minimum 14 jours si [intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}})) (possible pendant la grossesse et l'allaitement -- [CRAT](https://www.lecrat.fr/13364/))
 - La vérification de la guérison est clinique
 - Les rechutes sont fréquentes sous 2 mois: avis infectiologique
-- Si MICI: suspension des traitements anti-inflammatoires
+- En cas de MICI: suspension des traitements anti-inflammatoires
 
 Le traitement **anti-sécrétoire** peut être poursuivi.
 
@@ -159,12 +161,9 @@ Pour les cas les plus graves, une **colectomie subtotale** peut être envisagée
 - [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [Répia PRIMO. Clostridioides difficile : conduite à tenir en ville. Antibiorésistance. 2025.](https://antibioresistance.fr/bon-usage-des-antibiotiques/fiches-pratiques)
 - [Rouillon D, et al. Analyse des prescriptions d'anti-infectieux dans la prise en charge des infections à Clostridioides difficiles. Le Pharmacien Clinicien. 2024.](https://www.sciencedirect.com/science/article/pii/S2772953224003058)
+- [van Prehn J, et al. European Society of Clinical Microbiology and Infectious Diseases: 2021 update on the treatment guidance document for Clostridioides difficile infection in adults. Clin Microbiol Infect. 2021.](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(21)00568-1/fulltext) (ESCMID)
 - [Kelly CR, et al. ACG Clinical Guidelines: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections. Am J Gastroenterol. 2021.](https://journals.lww.com/ajg/fulltext/2021/06000/acg_clinical_guidelines__prevention,_diagnosis,.12.aspx)
 - [Poylin V, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Clostridioides difficile Infection. Dis Colon Rectum. 2021.](https://journals.lww.com/dcrjournal/fulltext/2021/06000/the_american_society_of_colon_and_rectal_surgeons.5.aspx)
 - [HAS. Modification de la nomenclature des actes de biologie médicale pour les actes de diagnostic biologique des infections à Clostridium difficile. 2016.](https://www.has-sante.fr/jcms/c_2607794/fr/modification-de-la-nomenclature-des-actes-de-biologie-medicale-pour-les-actes-de-diagnostic-biologique-des-infections-a-clostridium-difficile)
-
-### Bibliographie en attente
-
-- [van Prehn J, et al. European Society of Clinical Microbiology and Infectious Diseases: 2021 update on the treatment guidance document for Clostridioides difficile infection in adults. Clin Microbiol Infect. 2021.](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(21)00568-1/fulltext)
 
 {{%/sources%}}

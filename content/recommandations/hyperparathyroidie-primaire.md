@@ -151,7 +151,8 @@ Si colique néphrétique:
   Imagerie si perte de taille ≥ 4 cm comparée à ses 30 ans ou ≥ 2 cm entre 2 examens.
 - Pression artérielle, fréquence cardiaque
 - Examen cardio-respiratoire
-- Palpation des épineuses
+- Examen rachidien  
+  Cyphose, palpation des épineuses
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -195,11 +196,11 @@ En cas de bilan légèrement anormal, répéter le bilan le matin à jeun. En ca
 > [!INFO]
 > Fraction d'excrétion du calcium (FeCa) = (calcium urinaire (en mmol/l) x créatinine plasmatique (en mmol/l)) / (créatinine urinaire (en mmol/l) x calcium plasmatique total (en mmol/l))
 
-### Bilan complémentaire au diagnostic d'hyperparathyroïdie primaire
+### Bilan des complications au diagnostic d'hyperparathyroïdie primaire
 
 Le bilan de l'atteinte des organes cibles est systématique au diagnostic (*SFE/AFCE 2024*):
 
-- Échographie des voies urinaires
+- Scanner des voies urinaires (voire échographie)
 - Radiographies rachis dorso-lombaire F + P (ou EOS ou VFA)
 - Ostéodensitométrie (rachis lombaire L1-L4, col et fémur total, et radius 1/3 proximal)
 
@@ -234,12 +235,32 @@ Indications au conseil génétique:
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
+Le choix du traitement de l'hyperparathyroïdie primaire dépend de l'âge, des comorbidités et des complications.
+
+### Chirurgie de parathyroïdectomie
+
+Indications à la chirurgie de parathyroïdectomie:
+
+- Âge  50 ans (< 70 selon l'espérance de vie)
+- Calcémie > 10 mg/L (0,25 mmol/L) au dessus de la valeur normale haute
+- Complications osseuses:
+  - Antécédent de fracture de fragilité (dont radiologique radiologique)
+  - T-score ≤ -2,5 DS (sur n'importe quel site)
+- Complications rénales:
+  - Insuffisance rénale (DFG < 60)
+  - Imagerie avec calcul des voies urinaires ou néphrocalcinose
+  - Calciurie des 24h > 250 mg/j chez la femme (300 mg/j chez l'homme)
+
 > Les symptômes typiques de l'hyperparathyroïdie primaire (osseux, rénaux, musculaires) sont le plus souvent résolutifs après la chirurgie parathyroïdienne.
+
+### Traitement médical
+
+
 
 {{% /collapse %}}
 {{%sources%}}
 
-- [Consensus SFE/AFCE. Hyperparathyroïdie primaire. 2024.](https://www.sfendocrino.org/consensus-sfe-2024-hyperparathyroidie-primaire/) pt1,2,3,4,5,6,7,8,9 WIP 
+- [Consensus SFE/AFCE. Hyperparathyroïdie primaire. 2024.](https://www.sfendocrino.org/consensus-sfe-2024-hyperparathyroidie-primaire/) pt1,2,3,4,5,6,7,8,9 WIP 10
 
 ### Bibliographie en attente
 
@@ -249,7 +270,6 @@ Indications au conseil génétique:
 - Cochrane
 - [Minerva](https://minerva-ebp.be/)
 - [Cismef](https://www.cismef.org/cismef/)
-- {{< references/aderim >}}
 
 {{%/sources%}}
 {{% modal title="Évaluation des apports en calcium" id="modal-apports-calcium"%}}

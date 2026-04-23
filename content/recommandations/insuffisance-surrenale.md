@@ -7,7 +7,7 @@ synonyms = ["Maladie d'Addison"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-04-09T23:20:20+02:00"
 publishdate = "2026-04-17"
-lastmod = "2026-04-17"
+lastmod = "2026-04-23"
 specialites = ["endocrinologie"]
 annees = "2024"
 sources = ["NICE", "SFE"]
@@ -19,7 +19,7 @@ icd10 = ["E27.4"]
 image = true
 imageSrc = "Mélanodermie révélant une maladie d'Addison (insuffisance surrénale primaire) chez une femme. James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons"
 rank = "ok"
-todo = "liens | demander relecture reznik-y@chu-caen"
+todo = "liens | relecture demandée reznik-y@chu-caen"
 flowchart = true
 +++
 
@@ -307,14 +307,14 @@ Mesures de suivi de l'insuffisance surrénale de l'adulte:
 
 {{< mermaid title="Prise en charge de la suspicion d'insuffisance surrénale (IS) par le médecin généraliste (à partir de 2 ans - bilans de l'adulte). Dr JB Fron d'après NICE et SFE" >}}
 graph TB
-  suspicion["<b>Suspicion d'insuffisance surrénale</b><br>hors situation aiguë<br>—<br>- Fatigue<br>- Hypotension<br>- Amaigrissement<br>- Troubles digestifs: douleurs<br>- Appétence salée<br>- Mélanodermie/pâleur"] --> bilan("Cortisol/ACTH à 8h") -- "&lt; 5 µg/dL" --> bas("Insuffisance surrénale<br>—<br>ACTH ?") -- "ACTH ↗" --> ISP("Insuffisance surrénale<br>primaire") --> ISP2("- HC + Flu<br>- Ac anti 21 hydroxylase<br>(scanner si négatifs)") --> endocrinologue(Endocrinologue)
+  suspicion["<b>Suspicion d'insuffisance surrénale</b><br>hors situation aiguë<br>—<br>- Fatigue<br>- Hypotension<br>- Amaigrissement<br>- Troubles digestifs: douleurs<br>- Appétence salée<br>- Mélanodermie/pâleur"] --> bilan("Cortisol/ACTH à 8h") -- "Cortisol<br>&lt; 5 µg/dL" --> bas("Insuffisance surrénale (IS)<br>—<br>ACTH ?") -- "ACTH ↗" --> ISP("Insuffisance surrénale<br>primaire (ISP)") --> ISP2("- HC + Flu<br>- Ac anti 21 hydroxylase<br>(scanner si négatifs)") --> endocrinologue(Endocrinologue)
     bas -- "ACTH N/↘" --> IC("Insuffisance<br>corticotrope (IC)") --> IC2("- HC<br>- IRM hypophysaire") --> endocrinologue
-    bilan -- "5-18 µg/dL<br>138-500 nmol/L" --> suspecte("Endocrinologue<br>pour test Synacthène") -- "≤ 18 µg/dL" --> bas
-      suspecte --"&gt; 18 µg/dL" --> forte_suspicion("Forte suspicion<br>d'IC ?")
+    bilan -- "Cortisol<br>5-18 µg/dL<br>(138-500 nmol/L)" --> suspecte("Endocrinologue<br>pour test Synacthène") -- "≤ 18 µg/dL" --> bas
+      suspecte --"&gt; 18 µg/dL" --> forte_suspicion("Forte suspicion<br>d'insuffisance<br>corticotrope ?")
         forte_suspicion -- Oui --> hypoglycémie(Endocrinologue pour<br>hypoglycémie insulinique) -- "&gt; 18 µg/dL" --> négative(Pas d'IC)
           hypoglycémie -- "≤ 18 µg/dL" --> positive(IC)
         forte_suspicion -- Non --> écartée
-    bilan -- "&gt; 18 µg/dL" --> écartée(Pas d'IS)
+    bilan -- "Cortisol<br>&gt; 18 µg/dL" --> écartée(Pas d'IS)
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 

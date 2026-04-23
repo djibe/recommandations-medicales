@@ -20,7 +20,7 @@ HUGO_ENABLEGITINFO = "false"
 [[headers]]
   for = "*.html"
   [headers.values]
-    Cache-Control = "public, max-age=1800" # 30min for analytics
+    Cache-Control = "public, max-age=600" # 10min for analytics
 
 [[headers]]
   for = "/clear/"

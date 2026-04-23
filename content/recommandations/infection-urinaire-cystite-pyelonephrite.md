@@ -172,11 +172,11 @@ Cystite aiguë récidivante
 : Au moins 4 cystites sur 12 mois, associées ou non à un {{< modal-btn modal-fdr-complication >}}facteur de risque de complication{{< /modal-btn >}} (vessie neurologique ++).
 : L'objectif est le **contrôle des symptômes** et non la stérilisation des urines.
 
-ECBU pour les premiers épisodes de récidive et uniquement en cas d'échec après 72 heures de traitement.
+**ECBU** pour les premières récidives et uniquement en cas d'échec après 72 heures de traitement.
 
 Chez la femme non ménopausée, examen clinique pelvien et urétral et [calendrier mictionnel (PDF)](https://www.urofrance.org/fileadmin/medias/scores/catalogue-mictionnel.pdf).
 
-Bilan avec échographie des voies urinaires et mesure du résidu post-mictionnel (RPM), voire débitmétrie urinaire, bilan urodynamique, uroscanner sur avis spécialisé.
+Bilan avec **échographie** des voies urinaires et mesure du **résidu post-mictionnel** (RPM), voire débitmétrie urinaire, bilan urodynamique, uroscanner sur avis spécialisé.
 
 #### Traitement des cystites récidivantes
 
