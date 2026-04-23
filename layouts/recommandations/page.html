@@ -54,33 +54,56 @@
       </figure>
       <div class="recommandation__info">
         {{- with .Params.specialites }}
-        <p class="typography-overline">Système</p>
+        <div class="d-flex align-items-center mt-3">
+          <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#9e9e9e"><path d="m316-240 76-364-72 28v96h-80v-148l202-85q14-6 29.5-7.5T501-717q14 5 26.5 14t20.5 23l40 64q28 45 73.5 70.5T760-520v80q-70 0-125.5-28T540-540l-24 60 84 80v160h-80v-122l-78-72-42 194h-84Zm167.5-523.5Q460-787 460-820t23.5-56.5Q507-900 540-900t56.5 23.5Q620-853 620-820t-23.5 56.5Q573-740 540-740t-56.5-23.5ZM480-80q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-119 61.5-214T302-838l36 71q-79 39-128.5 115.5T160-480q0 134 93 227t227 93q134 0 227-93t93-227h80q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Z"/></svg>
+          <p class="typography-overline ml-2">Système</p>
+        </div>
         <div class="d-flex flex-wrap">{{ range .}}<a href="/specialites/{{ . | urlize }}/" class="chip chip-action chip-xs text-capitalize">{{ . }}</a>{{ end }}</div>
         {{ end -}}
 
         {{- with .Params.Auteurs }}
-        <p class="typography-overline">Rédacteur</p>
+        <div class="d-flex align-items-center mt-3">
+          <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#9e9e9e"><path d="M200-200v-560 179-19 400Zm80-240h221q2-22 10-42t20-38H280v80Zm0 160h157q17-20 39-32.5t46-20.5q-4-6-7-13t-5-14H280v80Zm0-320h400v-80H280v80Zm-80 480q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h560q33 0 56.5 23.5T840-760v258q-14-26-34-46t-46-33v-179H200v560h202q-1 6-1.5 12t-.5 12v56H200Zm409-229q-29-29-29-71t29-71q29-29 71-29t71 29q29 29 29 71t-29 71q-29 29-71 29t-71-29ZM480-120v-56q0-24 12.5-44.5T528-250q36-15 74.5-22.5T680-280q39 0 77.5 7.5T832-250q23 9 35.5 29.5T880-176v56H480Z"/></svg>
+          <p class="typography-overline ml-2">Rédacteur</p>
+        </div>
         <p>{{ delimit . ", " }}</p>{{ end -}}
 
-        {{ with .Params.sources }}
-        <p class="typography-overline">Sources</p>
-        <p class="font-weight-bold">{{ range . }}<abbr class="mr-2">{{ . }}</abbr>{{ end }}</p>{{ end }}
+        {{- with .Params.sources }}
+        <div class="d-flex align-items-center mt-3">
+          <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#9e9e9e"><path d="M270-80q-45 0-77.5-30.5T160-186v-558q0-38 23.5-68t61.5-38l395-78v640l-379 76q-9 2-15 9.5t-6 16.5q0 11 9 18.5t21 7.5h450v-640h80v720H270Zm90-233 200-39v-478l-200 39v478Zm-80 16v-478l-15 3q-11 2-18 9.5t-7 18.5v457q5-2 10.5-3.5T261-293l19-4Zm-40-472v482-482Z"/></svg>
+          <p class="typography-overline ml-2">Sources</p>
+        </div>
+        <p class="font-weight-bold mb-0">{{ range . }}<abbr class="mr-2">{{ . }}</abbr>{{ end }}</p>{{ end }}
 
-        {{ with .Params.English }}
-        <p class="typography-overline">Anglais</p>
-        <p lang="en">{{ delimit . ", " }}</p>{{ end }}
+        {{- with .Params.English }}
+        <div class="d-flex align-items-center mt-3">
+          <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#9e9e9e"><path d="M325-111.5q-73-31.5-127.5-86t-86-127.5Q80-398 80-480.5t31.5-155q31.5-72.5 86-127t127.5-86Q398-880 480.5-880t155 31.5q72.5 31.5 127 86t86 127Q880-563 880-480.5T848.5-325q-31.5 73-86 127.5t-127 86Q563-80 480.5-80T325-111.5ZM480-162q26-36 45-75t31-83H404q12 44 31 83t45 75Zm-104-16q-18-33-31.5-68.5T322-320H204q29 50 72.5 87t99.5 55Zm208 0q56-18 99.5-55t72.5-87H638q-9 38-22.5 73.5T584-178ZM170-400h136q-3-20-4.5-39.5T300-480q0-21 1.5-40.5T306-560H170q-5 20-7.5 39.5T160-480q0 21 2.5 40.5T170-400Zm216 0h188q3-20 4.5-39.5T580-480q0-21-1.5-40.5T574-560H386q-3 20-4.5 39.5T380-480q0 21 1.5 40.5T386-400Zm268 0h136q5-20 7.5-39.5T800-480q0-21-2.5-40.5T790-560H654q3 20 4.5 39.5T660-480q0 21-1.5 40.5T654-400Zm-16-240h118q-29-50-72.5-87T584-782q18 33 31.5 68.5T638-640Zm-234 0h152q-12-44-31-83t-45-75q-26 36-45 75t-31 83Zm-200 0h118q9-38 22.5-73.5T376-782q-56 18-99.5 55T204-640Z"/></svg>
+          <p class="typography-overline ml-2">Anglais</p>
+        </div>
+        <p class="mb-0" lang="en">{{ delimit . ", " }}</p>{{ end }}
 
-        {{ if gt (len .Params.Tags) 0 }}<!-- Array not empty -->
-        <p class="typography-overline">Mots-clés</p>
+        {{- if gt (len .Params.Tags) 0 }}<!-- Array not empty -->
+        <div class="d-flex align-items-center mt-3">
+          <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#9e9e9e"><path d="m240-160 40-160H120l20-80h160l40-160H180l20-80h160l40-160h80l-40 160h160l40-160h80l-40 160h160l-20 80H660l-40 160h160l-20 80H600l-40 160h-80l40-160H360l-40 160h-80Zm140-240h160l40-160H420l-40 160Z"/></svg>
+          <p class="typography-overline ml-2">Mots-clés</p>
+        </div>
         <div class="d-flex flex-wrap">{{ partial "widgets/tags-render.html" . }}</div>{{ end }}
 
-        {{- if or (.Params.Sctid) (.Params.Icd10) (.Params.atc) }}<p class="typography-overline mt-3">Terminologies</p>{{ end -}}
+        {{- if or (.Params.Sctid) (.Params.Icd10) (.Params.atc) -}}
+        <div class="d-flex align-items-center mt-3">
+          <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#9e9e9e"><path d="M121-121q-41-41-41-99t41-99q41-41 99-41 18 0 35 4.5t32 12.5l153-153v-110q-44-13-72-49.5T340-740q0-58 41-99t99-41q58 0 99 41t41 99q0 48-28 84.5T520-606v110l154 153q15-8 31.5-12.5T740-360q58 0 99 41t41 99q0 58-41 99t-99 41q-58 0-99-41t-41-99q0-18 4.5-35t12.5-32L480-424 343-287q8 15 12.5 32t4.5 35q0 58-41 99t-99 41q-58 0-99-41Zm661.5-56.5Q800-195 800-220t-17.5-42.5Q765-280 740-280t-42.5 17.5Q680-245 680-220t17.5 42.5Q715-160 740-160t42.5-17.5Zm-260-520Q540-715 540-740t-17.5-42.5Q505-800 480-800t-42.5 17.5Q420-765 420-740t17.5 42.5Q455-680 480-680t42.5-17.5Zm-260 520Q280-195 280-220t-17.5-42.5Q245-280 220-280t-42.5 17.5Q160-245 160-220t17.5 42.5Q195-160 220-160t42.5-17.5Z"/></svg>
+          <p class="typography-overline ml-2">Terminologies</p>
+        </div>
+        {{- end -}}
         {{ with .Params.Sctid }}<p data-toggle="tooltip" title="SNOMED-CT: terminologie de référence" class="d-flex flex-wrap align-items-center mb-1">SCT-ID<a class="chip chip-action chip-xs" href="https://browser.ihtsdotools.org/?perspective=full&conceptId1={{ . }}&edition=MAIN/SNOMEDCT-FR/2025-06-21&release=&languages=fr,en" rel="external nofollow noopener"> {{ . }}</a></p>{{ end }}
         {{ with .Params.Icd10 }}<p data-toggle="tooltip" title="Classification Internationale des Maladies" class="text-break d-flex flex-wrap align-items-center">CIM-10 {{ range .}}<a class="chip chip-action chip-xs" href="https://icd.who.int/browse10/2016/en#/{{.}}" rel="external nofollow noopener">{{ . }}</a>{{ end }}</p>{{ end }}
         {{ with .Params.atc }}<p data-toggle="tooltip" title="Classification ATC des médicaments" class="d-flex flex-wrap align-items-center">ATC <span class="chip chip-xs">{{ . }}</span></p>{{ end }}
-
-        <p class="typography-overline mt-4">Nouveaux chapitres</p>
-        {{ range first 6 ( where .Site.RegularPages.ByPublishDate.Reverse "Section" "recommandations") }}
+        <hr>
+        <div class="d-flex align-items-center my-3">
+          <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#9e9e9e"><path d="M200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h440l200 200v440q0 33-23.5 56.5T760-120H200Zm0-80h560v-400H600v-160H200v560Zm80-80h400v-80H280v80Zm0-320h200v-80H280v80Zm0 160h400v-80H280v80Zm-80-320v160-160 560-560Z"/></svg>
+          <p class="typography-overline ml-2">Nouveaux chapitres</p>
+        </div>
+        {{- range first 6 ( where .Site.RegularPages.ByPublishDate.Reverse "Section" "recommandations") }}
         <p class="typography-body-2 font-weight-bold">
           <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
         </p>
