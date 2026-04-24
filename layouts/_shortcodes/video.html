@@ -3,7 +3,9 @@
   {{- with .Get "width" }}width="{{ . }}"{{ end -}}
   {{- with .Get "height" }}height="{{ . }}"{{ end }}
     preload="none"
+    loading="lazy"
     controls
+    onmouseenter="event.target.setAttribute('preload','metadata')"
   >{{ with .Get "mp4" }}
     <source
       src="{{ . }}"
