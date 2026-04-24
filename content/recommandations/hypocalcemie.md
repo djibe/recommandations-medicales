@@ -17,13 +17,16 @@ sctid = "5291005"
 icd10 = ["E83.5"]
 image = false
 imageSrc = ""
+rank = "ok"
+writing = "ok"
+symptomes = ["douleurs diffuses"]
 todo = "photo"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- L'hypocalcémie est une calcémie vraie inférieure à 2,2 mmol/L (ou 88 mg/L) ou une calcémie ionisée inférieure à 1,1 mmol/L
+- L'hypocalcémie est une calcémie vraie inférieure à 2,2 mmol/L (88 mg/L) ou une calcémie ionisée inférieure à 1,1 mmol/L
 - Le dosage de la calcémie doit toujours être accompagné du dosage de l'albuminémie pour le calcul de la calcémie corrigée (voir section dédiée), et/ou doser la calcémie ionisée (non remboursée en ville)
 - Devant une hypocalcémie, la présence de symptômes, une survenue aiguë ou l'absence d'électrocardiogramme au cabinet impose la réalisation du bilan initial en urgence (ECG ++) voire l'appel du SAMU
 - La prise en charge de l'hypocalcémie est urgente si elle est aiguë ou sévère (< 1,8 mmol/L ou symptomatique) et le traitement est à la fois symptomatique (supplémentation en calcium ± magnésium) et étiologique

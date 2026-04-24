@@ -17,13 +17,16 @@ sctid = "399187006"
 icd10 = ["E83.1"]
 image = true
 imageSrc = "Accumulation hépatocytaire de fer chez un patient avec une hémochromatose génétique type 1 (homozygote C282Y du gène HFE). Joseph Mathew, May Y Leong, Nick Morley and Alastair D Burt, CC BY 2.0, via Wikimedia Commons"
+rank = "ok"
+writing = "todo"
+symptomes = ["douleurs diffuses"]
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- L'hémochromatose génétique est la maladie génétique la plus fréquente chez le **caucasien** avec une surcharge en fer
-- Les symptômes de l'hémochromatose débutent vers 30 ans chez l'homme et 50 ans chez la femme avec: fatigue chronique, polyarthralgies, diabète, hypogonadisme (baisse de libido, impuissance, ménopause précoce) et risque d'insuffisance d'organes (cardiaque, hépatique)
+- L'hémochromatose génétique est la maladie génétique la plus fréquente chez le **caucasien**, causant une surcharge en fer
+- Les symptômes de l'hémochromatose débutent vers 30 ans chez l'homme et 50 ans chez la femme avec: fatigue chronique, douleurs diffuses et polyarthralgies, diabète, hypogonadisme (baisse de libido, impuissance, ménopause précoce) et risque d'insuffisance d'organes (cardiaque, hépatique)
 - Le diagnostic doit être recherché en cas d'[hyperferritinémie]({{% relref "hyperferritinemie.md" %}}) (> 200 µg/L chez la femme et 300 chez l'homme) sans autre anomalie
 - Un coefficient de saturation de la transferrine (CST) matinal à 2 reprises supérieur à **45%** et 50 % chez l'homme nécessite un avis hépato-gastroentérologique et ensuite un conseil génétique
 - Le bilan des complications de l'hémochromatose dépend du stade de la maladie
@@ -51,17 +54,6 @@ De nombreuses maladies influent sur la ferritinémie, en dehors de l'*hémochrom
 
 {{< clinique/hemochromatose-classification >}}
 
-### Diagnostic différentiel de l'hémochromatose
-
-Autres causes d'augmentation du coefficient de saturation de la transferrine:
-
-- Supplémentation en fer excessive
-- Anémies hémolytiques
-- Dysérythropoïèses
-- Cytolyses majeures ([hépatite C]({{% relref "hepatite-c.md" %}}))
-- Insuffisance hépatocellulaire
-- [Surcharges en fer secondaire]({{% relref "hyperferritinemie.md" %}})
-
 ### Abréviations
 
 AFEF
@@ -81,13 +73,27 @@ HAS
 {.dl-inline}
 
 {{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Autres causes d'augmentation du coefficient de saturation de la transferrine:
+
+- Supplémentation en fer excessive
+- Anémies hémolytiques
+- Dysérythropoïèses
+- Cytolyses majeures ([hépatite C]({{% relref "hepatite-c.md" %}}))
+- Insuffisance hépatocellulaire
+- [Surcharges en fer secondaire]({{% relref "hyperferritinemie.md" %}})
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 Les signes cliniques d'une surcharge en fer par hémochromatose génétique surviennent surtout chez le caucasien, vers 30-40 ans chez l'homme et 50-60 chez la femme et signent l'entrée au stade 3 de la maladie:
 
 - [Fatigue chronique](/tags/fatigue/)
-- **Polyarthrite inflammatoire**  
-  Articulations distales de la main (atypiques comme MCP 2 et 3++), orteils, poignets, hanches (prothèse x 9), genou, épaule. Accès pseudo-goutteux possibles. Atteinte proche du [rhumatisme à pyrophosphate de calcium]({{% relref "rhumatisme-pyrophosphate-chondrocalcinose.md" %}}).
+- **Polyarthrite inflammatoire**
+  - Articulations distales de la main (atypiques comme MCP 2 et 3++), orteils, poignets, hanches (prothèse x 9), genou, épaule
+  - Accès pseudo-goutteux possibles. Atteinte proche du [rhumatisme à pyrophosphate de calcium]({{% relref "rhumatisme-pyrophosphate-chondrocalcinose.md" %}})
+  - Voire douleurs diffuses
 - Signes tardifs d'hémochromatose
   - Cytolyse modérée prédominant sur les ALAT
   - Hépatomégalie avec risque de cirrhose

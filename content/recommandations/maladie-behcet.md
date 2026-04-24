@@ -10,9 +10,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-10-02T16:56:00+01:00"
 publishdate = "2025-01-01"
-lastmod = "2025-01-01"
+lastmod = "2026-01-01"
 specialites = ["rhumatologie"]
-annees = "2025"
+annees = "2026"
 sources = ["FAI2R"]
 tags = []
 english = ["Behcet's syndrome"]
@@ -28,3 +28,8 @@ todo = "fiche > photo > newsletter > flow > Kanban"
 Voir [FAI2R: Maladie de Behçet](https://www.fai2r.org/les-pathologies-rares/behcet/)
 
 {{%/article-summary%}}
+
+Autres publications:
+
+- [Hatemi G, et al. EULAR recommendations for the management of Behçet's syndrome: 2025 update. Ann Rheum Dis. 2026.](https://ard.eular.org/article/S0003-4967(26)00083-X/fulltext)
+- [CeRéMAIA. Maladie de Behçet. PNDS. 2019.](https://www.has-sante.fr/jcms/p_3148016/fr/maladie-de-behcet)

@@ -7,8 +7,8 @@ description = "TODO:"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-04-07T10:00:34+02:00"
-publishdate = "2026-04-07"
-lastmod = "2026-04-07"
+publishdate = "2026-04-23"
+lastmod = "2026-04-23"
 specialites = ["endocrinologie"]
 annees = "2024"
 sources = ["SFE", "AFCE"]
@@ -20,7 +20,9 @@ draft = true
 image = false
 imageSrc = ""
 rank = "false"
-todo = "descr > summary > liens > photo > newsletter > flow > Kanban | demander Pr Peter Kamenicky APHP, calcul FeCa"
+writing = "todo"
+symptomes = ["douleurs diffuses"]
+todo = "descr > summary > liens > photo > newsletter > flow > Kanban | demander Pr Peter Kamenicky APHP ou francoise.borson-chazot@chu-lyon, calcul FeCa"
 +++
 
 {{%article-summary%}}
@@ -33,8 +35,9 @@ Chapitre lié: hypercalcémie
 {{%collapse "Définition" %}}
 
 Hyperparathyroïdie primaire (HPT 1)
-: Maladie endocrinienne fréquente causée par une hypersécrétion inappropriée de la parathormone (PTH) par une ou plusieurs des glandes parathyroïdes. Elles sont le plus souvent 4 (2 glandes parathyroïdes supérieures et 2 inférieures), localisées proches de la thyroïde.
-: L'hyperparathyroïdie primaire est principalement asymptomatique, féminine (75 %) à un âge avancé (post-ménopausique, rare avant 40 ans), surtout en cas d'origines asiatiques ou d'Afrique sub-saharienne. Elle est majoritairement diagnostiquée au cours d'un bilan d'hypercalcémie.
+: Maladie endocrinienne fréquente causée par une hypersécrétion inappropriée de la parathormone (PTH) par un adénome parathyroïdien (80 % des cas, voire plusieurs parathyroïdes).
+: Les glandes parathyroïdes sont le plus souvent 4 (2 glandes parathyroïdes supérieures et 2 inférieures), localisées proches de la thyroïde.
+: L'hyperparathyroïdie primaire est principalement asymptomatique, féminine (75 %) à un âge avancé (post-ménopausique, rare avant 40 ans), surtout en cas d'origines asiatiques ou d'Afrique sub-saharienne. Elle est majoritairement diagnostiquée au cours d'un bilan d'hypercalcémie, dont elle est la première cause.
 : Les complications sont liées à l'augmentation de la morbi-mortalité par l'altération des fonctions rénales, cardiaques, métaboliques, osseuses et neuro-psychiatriques.
 
 > Les parathyroïdes inférieures ectopiques sont généralement localisées dans le médiastin antérieur, le thymus ou au sein de la thyroïde.
@@ -64,6 +67,9 @@ FeCa
 
 HPT 1
 : hyperparathyroïdie primaire
+
+LSN
+: limite supérieure de la normale
 
 PTH
 : parathormone
@@ -187,14 +193,31 @@ Bilan d'une suspicion d'hyperparathyroïdie primaire:
 - Calciurie/créatininurie sur échantillon matinal  
   Le rapport CaU/créatU est généralement > 0,35-0,4 mmol/mmol (indice de Nordin).
 - Natriurèse
+- Échographie parathyroïdienne (si chirurgie envisageable)
 
 > [!INFO]
-> Une hyperparathyroïdie primaire typique est diagnostiquée sur l'association d'une hypercalcémie, d'une PTH élevée et d'une FeCa élevée (ou en l'absence d'hypocalciurie).
+> Une hyperparathyroïdie primaire typique est diagnostiquée sur l'association d'une hypercalcémie, d'une PTH élevée et d'une FeCa élevée (ou en l'absence d'hypocalciurie). Adresser à l'endocrinologue pour la suite du bilan.
 
 En cas de bilan légèrement anormal, répéter le bilan le matin à jeun. En cas de carence en vitamine D, répéter le bilan après 6 mois de normalisation.
 
 > [!INFO]
 > Fraction d'excrétion du calcium (FeCa) = (calcium urinaire (en mmol/l) x créatinine plasmatique (en mmol/l)) / (créatinine urinaire (en mmol/l) x calcium plasmatique total (en mmol/l))
+
+### Imagerie diagnostique de l'hyperparathyroïdie
+
+{{%info%}}
+
+Le bilan diagnostique d'une hyperparathyroïdie associe:
+
+- Échographie parathyroïdienne
+- Scintigraphie parathyroïdienne (double isotopes ^123^I et ^99m^Tc-Sestamibi dit MIBI)
+{{%/info%}}
+
+L'imagerie n'est pas indiquée lorsque la chirurgie parathyroïdienne est exclue.
+
+En cas de scintigraphie normale ou d'imageries discordantes malgré un diagnostic certain d'HPT1, réaliser un **Petscan à la ^18^F-Choline** (ou en 1^re^ intention avant 40 ans ou en cas d'antécédents familiaux -- 1000-1500 €).
+
+> Les explorations par scanner parathyroïdien 4D, IRM parathyroïdienne, cytoponction, dosage de PTH dans le liquide de rinçage et cervicotomie exploratrice relèvent des centres de référence.
 
 ### Bilan des complications au diagnostic d'hyperparathyroïdie primaire
 
@@ -237,30 +260,48 @@ Indications au conseil génétique:
 
 Le choix du traitement de l'hyperparathyroïdie primaire dépend de l'âge, des comorbidités et des complications.
 
-### Chirurgie de parathyroïdectomie
+La chirurgie de parathyroïdectomie élective est le traitement de référence de l'hyperparathyroïdie primaire.
+
+### Pour en savoir plus: les traitements de l'hyperparathyroïdie primaire
+
+#### Chirurgie de parathyroïdectomie
 
 Indications à la chirurgie de parathyroïdectomie:
 
-- Âge  50 ans (< 70 selon l'espérance de vie)
 - Calcémie > 10 mg/L (0,25 mmol/L) au dessus de la valeur normale haute
 - Complications osseuses:
-  - Antécédent de fracture de fragilité (dont radiologique radiologique)
+  - Antécédent de fracture de fragilité (dont fracture radiologique)
   - T-score ≤ -2,5 DS (sur n'importe quel site)
 - Complications rénales:
-  - Insuffisance rénale (DFG < 60)
-  - Imagerie avec calcul des voies urinaires ou néphrocalcinose
-  - Calciurie des 24h > 250 mg/j chez la femme (300 mg/j chez l'homme)
+  - Insuffisance rénale (DFG < 60 mL/min/1,73m²)
+  - Colique néphrétique
+  - Imagerie avec lithiase des voies urinaires ou néphrocalcinose
+  - Calciurie des 24h > 250 mg/j chez la femme | 300 mg/j chez l'homme
+- Sur le critère d'âge: **avant 50 ans** (jusqu'à 70 ans selon l'état de santé)
 
 > Les symptômes typiques de l'hyperparathyroïdie primaire (osseux, rénaux, musculaires) sont le plus souvent résolutifs après la chirurgie parathyroïdienne.
 
-### Traitement médical
+#### Traitement médical de de l'hyperparathyroïdie primaire
 
+Chez les patients non opérés (récusés ou refusant):
 
+- [Apports en calcium]({{% relref "apports-calcium.md" %}}) identiques à la population générale  
+  800 mg/j chez femme/homme -50/-70 ans; 1 g/j chez femme/homme +50/+70 ans.
+- [Vitamine D]({{% relref "vitamine-d.md" %}}) cible identique à la population générale  
+  vitamine D > 30 ng/mL.
+- En cas de calcémie dépassant d'au moins 0,25 mmol/L la limite supérieure (LSN): proposer l'antiparathyroïdien [cinacalcet](https://base-donnees-publique.medicaments.gouv.fr/medicament/69766567/extrait#tab-rcp)
+- En cas d'[ostéoporose]({{% relref "osteoporose.md" %}}) densitométrique: un biphosphonate peut être proposé
+
+#### Traitement par destruction locale d'une parathyroïde
+
+L'indication à la destruction locale de la glande parathyroïde est très rare:
+
+- Patient récusé en chirurgie (âge ou comorbidité lourde), après échec ou intolérance du traitement médical et une RCP pluridisciplinaire
 
 {{% /collapse %}}
 {{%sources%}}
 
-- [Consensus SFE/AFCE. Hyperparathyroïdie primaire. 2024.](https://www.sfendocrino.org/consensus-sfe-2024-hyperparathyroidie-primaire/) pt1,2,3,4,5,6,7,8,9 WIP 10
+- [Consensus SFE/AFCE. Hyperparathyroïdie primaire. 2024.](https://www.sfendocrino.org/consensus-sfe-2024-hyperparathyroidie-primaire/) pt1,2,3,4,5,6,7,8,9,10 WIP 11
 
 ### Bibliographie en attente
 

@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-09-01T15:30:01+02:00"
 publishdate = "2024-09-10"
-lastmod = "2026-02-16"
+lastmod = "2026-04-24"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2020"
-sources = ["WSES"]
+sources = ["WSES", "AAFP"]
 tags = []
 english = ["Acute cholecystitis", "acute calculus cholecystitis (ACC)"]
 sctid = "65275009"
@@ -34,6 +34,9 @@ Cholécystite aiguë
 : Prévalence des lithiases des voies biliaires: 10 à 15%, le plus souvent asymptomatiques (90%). 20 à 40 % se compliquent, le plus souvent sous forme de cholécystite aiguë.
 
 ### Abréviations
+
+AAFP
+: {{%lang%}}American Academy of Family Physicians{{%/lang%}}
 
 WSES
 : {{%lang%}}World Society of Emergency Surgery{{%/lang%}}
@@ -86,11 +89,24 @@ Bilan complet aux Urgences:
 
 La prise en charge de la suspicion de cholécystite aiguë est une **urgence médico-chirurgicale** pour éliminer un diagnostic différentiel grave (SCA, pancréatite aiguë).
 
-Le traitement hospitalier associe antalgie et une chirurgie de cholécystectomie par cœlioscopie en urgence relative (durant les 7 premiers jours d'hospitalisation et sous 10 jours de l'apparition des symptômes, voire repoussée après 6 semaines).
+Le traitement hospitalier associe antalgie et une chirurgie de **cholécystectomie** par cœlioscopie en urgence relative (durant les 7 premiers jours d'hospitalisation et sous 10 jours de l'apparition des symptômes, voire repoussée après 6 semaines).
 
 Pas d'antibiothérapie systématique en l'absence de complications.
 
 Prise en charge pouvant être proposée en cas de contre-indication à la chirurgie: surveillance, antibiothérapie et drainage de la vésicule biliaire.
+
+### Les lithiases vésiculaires asymptomatiques
+
+Des **lithiases vésiculaires asymptomatiques** sont fréquemment détectées de façon fortuite (incidentalomes). En l'absence de cholécystite aiguë, la chirurgie est indiquée en cas de:
+
+- Calcification de la vésicule biliaire (<< vésicule porcelaine >>)
+- Anémie hémolytique (drépanocytose ...)
+- Lithiases volumineuses > 3 cm
+- Obésité morbide avec plan de chirurgie bariatrique
+- Transplantation prévue
+- Petits calculs biliaires associés à des troubles de la motilité de la vésicule biliaire
+
+> -- *AAFP 2014*
 
 {{% /collapse %}}
 {{%sources%}}
@@ -98,12 +114,11 @@ Prise en charge pouvant être proposée en cas de contre-indication à la chirur
 - [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - {{< references/college-gastro >}}
 - [Pisano M, et al. 2020 World Society of Emergency Surgery updated guidelines for the diagnosis and treatment of acute calculus cholecystitis. World J Emerg Surg. 2020.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7643471/)
+- [Abraham S, et al. Surgical and nonsurgical management of gallstones. Am Fam Physician. 2014.](https://www.aafp.org/pubs/afp/issues/2014/0515/p795.html)
 - {{< references/aderim >}}
 
 ### Bibliographie en attente
 
-- [Ahmed I, et all; C-GALL Study Group. Effectiveness of conservative management versus laparoscopic cholecystectomy in the prevention of recurrent symptoms and complications in adults with uncomplicated symptomatic gallstone disease (C-GALL trial): pragmatic, multicentre randomised controlled trial. BMJ. 2023.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10698555/)
 - [Portincasa P, et al. Management of gallstones and its related complications. Expert Rev Gastroenterol Hepatol. 2016.](https://www.tandfonline.com/doi/10.1586/17474124.2016.1109445)
-- [Abraham S, et al. Surgical and nonsurgical management of gallstones. Am Fam Physician. 2014.](https://www.aafp.org/pubs/afp/issues/2014/0515/p795.html)
 
 {{%/sources%}}
