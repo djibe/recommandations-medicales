@@ -1931,3 +1931,16 @@ details {
     }
   }
 }
+
+.badge {
+    align-items: center;
+    border-radius: 4px;
+    display: inline-flex;
+    font-size: inherit;
+    font-weight: 500;
+    justify-content: center;
+    line-height: inherit;
+    padding-left: .5em;
+    padding-right: .5em;
+    white-space: nowrap;
+}
