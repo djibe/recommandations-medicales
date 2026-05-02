@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-04-24T15:04:42+02:00"
 publishdate = "2026-04-24"
-lastmod = "2026-04-24"
+lastmod = "2026-05-02"
 specialites = ["thérapeutique"]
-annees = "2024"
+annees = "2026"
 sources = ["Omedit PDL"]
 tags = []
 english = ["Antibiotic dosage adjustment in renal dysfunction", "antibiotic renal dosage adjustment"]
@@ -150,7 +150,7 @@ todo = "liens > flow > Kanban | update 2027"
 
 {{%sources%}}
 
-- [Omedit Pays de la Loire. Adaptation des antibiotiques à la fonction rénale. v2.2. Novembre 2024. (PDF)](https://www.omedit-paysdelaloire.fr/wp-content/uploads/2021/06/20241118_ATB-et-IR_version-ETS_V2.2.pdf)
+- [Omedit Pays de la Loire. Adaptation des antibiotiques à la fonction rénale. v2.3. Avril 2026. (PDF)](https://www.omedit-paysdelaloire.fr/wp-content/uploads/2021/06/20260427_ATB-et-IR_version-ETS_V2.3.pdf)
 
 {{%/sources%}}
 
