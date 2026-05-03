@@ -71,7 +71,7 @@ Autres causes de diarrhées aiguës du nourrisson et de l'enfant:
 - Invagination intestinale aiguë
 - Colite pseudomembraneuse
 - Syndrome hémolytique et urémique (SHU)
-- Rectocolite hémorragique aiguë
+- Rectocolite hémorragique aiguë
 - [Maladie de Kawasaki]({{% relref "maladie-kawasaki.md" %}})
 - [Appendicite aiguë]({{% relref "appendicite-aigue.md" %}})
 - [Hépatite A]({{% relref "hepatite-a.md" %}})
