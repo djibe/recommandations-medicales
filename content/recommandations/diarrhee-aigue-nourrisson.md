@@ -71,7 +71,7 @@ Autres causes de diarrhées aiguës du nourrisson et de l'enfant:
 - Invagination intestinale aiguë
 - Colite pseudomembraneuse
 - Syndrome hémolytique et urémique (SHU)
-- Rectocolite hémorragique aiguë
+- Rectocolite hémorragique aiguë
 - [Maladie de Kawasaki]({{% relref "maladie-kawasaki.md" %}})
 - [Appendicite aiguë]({{% relref "appendicite-aigue.md" %}})
 - [Hépatite A]({{% relref "hepatite-a.md" %}})
@@ -81,7 +81,7 @@ Autres causes de diarrhées aiguës du nourrisson et de l'enfant:
 {{%collapse "Clinique" %}}
 
 > [!WARNING]
-> << Le risque de déshydratation est majeur chez le nourrisson. >> -- *PAP Pédiatrie*
+> << Le risque de déshydratation est majeur chez le nourrisson. >> -- *PAP Pédiatrie*
 
 Signes et symptômes à rechercher chez l'enfant et le nourrisson présentant des diarrhées.
 
@@ -213,7 +213,7 @@ Médicaments proscrits chez l'enfant: cola et sodas très sucrés, eau pure, ant
 ### Alternatives en cas de pénuries de soluté de réhydratation orale
 
 > [!INFO]
-> << La SRO bien utilisée est capable de traiter une déshydratation même sévère et de corriger les troubles électrolytiques. >> -- *PAP Pédiatrie*
+> << La SRO bien utilisée est capable de traiter une déshydratation même sévère et de corriger les troubles électrolytiques. >> -- *PAP Pédiatrie*
 
 En cas de pénurie de soluté de réhydratation orale (SRO):
 

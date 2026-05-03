@@ -19,7 +19,8 @@ sctid = "385093006"
 icd10 = ["J18", "J18.9", "J13"]
 image = true
 imageSrc = "Pneumonie franche lobaire aiguë du lobe moyen droit chez un patient de 35 ans avec toux fébrile. Cas de Sajoscha A. Sorrentino, Radiopaedia.org, rID: 14979"
-todo = "rankok | bilan jeune/encapsulé"
+rank = "ok"
+todo = "SEO, bilan jeune/encapsulé"
 flowchart = true
 +++
 
@@ -33,7 +34,7 @@ flowchart = true
 - L'antibiothérapie est urgente et dépend du tableau de pneumopathie infectieuse: amoxicilline 1g x 3/j (+ clavulanique si comorbidité, alcool, post-grippale, antibiothérapie récente), macrolide si bactérie atypique intracellulaire
 - La durée du traitement de la pneumonie:
   - est de 5 jours chez l'enfant (réévaluation à 48-72 heures)
-  - est définie lors de la consultation de contrôle à 72 heures chez l'adulte, globalement 5 jours (3, 5 ou maximum 7 jours selon l'évolution clinique)
+  - est définie lors de la consultation de contrôle à 72 heures chez l'adulte: si amélioration clinique, 3 jours (sinon 5 ou maximum 7 jours)
 - Prévention de la pneumonie par: arrêt du tabac et vaccinations grippe/Covid (+65 ans, immunodépression ...), VRS et pneumocoque (voir *[Prévention](#prévention-de-la-pneumonie)*)
 
 {{%/article-summary%}}
@@ -50,20 +51,20 @@ flowchart = true
 
 2 points essentiels chez l'adulte:
 
-- L'antibiothérapie a une durée variable: notée ~5 jours (3, 5 voire maximum 7 jours selon l'évolution),
+- L'antibiothérapie a une durée variable: notée ~3 jours (si amélioration à J3, 5 si amélioration entre J3 et J5, maximum 7 jours selon l'évolution),
 - Si antibiothérapie dans le mois (ou hospitalisation dans les 6 mois): voir *Comorbidité* (sauf fosfomycine, pivmécillinam, furane).
 
-[Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/medicament/60151544/extrait#tab-rcp) 1g x 3/j pendant ~5 jours
+[Amoxicilline](https://base-donnees-publique.medicaments.gouv.fr/medicament/60151544/extrait#tab-rcp) 1g x 3/j pendant ~3 jours
 
 ---
 
-Si allergie vraie: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/63728481/extrait#tab-rcp) 1g x 3/j pendant ~5 jours
+Si allergie vraie: [pristinamycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/63728481/extrait#tab-rcp) 1g x 3/j pendant ~3 jours
 
 ---
 
-Bactérie atypique: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/62913185/extrait#tab-rcp) 500 mg x 2/j pendant ~5 jours
+Bactérie atypique: [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/62913185/extrait#tab-rcp) 500 mg x 2/j pendant 7 jours
 
-ou [spiramycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/66951450/extrait#tab-rcp) 3 MUI x 3/j pendant ~5 jours
+ou [spiramycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/66951450/extrait#tab-rcp) 3 MUI x 3/j pendant ~3 jours
 
 ---
 
@@ -125,7 +126,7 @@ Si allergie documentée: pristinamycine 1g x 3/j pendant 7 jours
 
 ---
 
-Aide au choix de l'antibiothérapie pour pneumonie aiguë communautaire non grave en 2025. Réévaluation systématique à 72 heures (48-72 h chez l'enfant).
+Aide au choix de l'antibiothérapie pour pneumonie aiguë communautaire non grave en 2026. Réévaluation systématique à 72 heures (48-72 h chez l'enfant).
 {.typography-body-2 .text-black-secondary .mt-3}
 
 </div>
@@ -240,7 +241,7 @@ Présentation de pneumonie aiguë communautaire bactérienne **la plus fréquent
 - Tableau fruste d'installation **progressive**
   - Fébricule
   - Toux sèche persistante (3-4 semaines), sifflements
-  - Syndrome pseudo-grippal avec myalgies, conjonctivite, diarrhées, éruption cutanée maculopapuleuse
+  - Syndrome pseudo-grippal avec myalgies, [conjonctivite]({{% relref "conjonctivite.md" %}}), diarrhées, éruption cutanée maculopapuleuse
 - Inutiles en ville: PCR nasopharyngée *Mycoplasma pneumoniae* et *Chlamydophila pneumoniae* (ou *Chlamydia pneumoniae*)
 - Si biologie: anémie hémolytique, cytolyse hépatique
 - Opacités multifocales
@@ -323,7 +324,7 @@ Indications à la vaccination anti-pneumococcique:
 Évaluation hospitalière urgente si ≥ 1 critère parmi:
 
 - Nourrisson de moins de 6 mois (*SFP* et *HAS/SPILF*)
-- **Score CRB65** (*Pilly 2023*)
+- **Score CRB65** (*NICE 2025*):
   - Confusion
   - Polypnée ≥ 30/min
   - Pression artérielle systolique < 90 mmHg ou PAD ≤ 60 mmHg
@@ -342,6 +343,7 @@ Indications à la vaccination anti-pneumococcique:
   - Conditions socio-économiques, défaut d'observance
   - Isolement social (personne âgée ++)
   - Dégradation à 72 heures (NDLR)
+- Impression clinique (*NICE 2025*)
 
 Évaluation hospitalière urgente si ≥ 2 (ou ≥ 1 chez le +65 ans) **facteurs de risque de mortalité**:
 
@@ -402,9 +404,9 @@ En cas de **pneumonies récidivantes**, réaliser une électrophorèse des prot�
 > [!INFO]
 > La fièvre peut être prolongée (5 jours) en cas de pneumopathie infectieuse à germe atypique.
 
-- ==Macrolide [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/62913185/extrait#tab-rcp) 500 mg x 2/j pendant ~5 jours==
+- ==Macrolide [clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/62913185/extrait#tab-rcp) 500 mg x 2/j pendant 7 jours== (*Info-antibio N°107*)
 - ou [spiramycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/66951450/extrait#tab-rcp) 3 MUI x 3/j pendant ~5 jours
-- voire [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/68133135/extrait#tab-rcp) 500 mg à J1 puis 250 mg/j pendant ~5 jours (éviter car impact sur les résistances)
+- voire [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/68133135/extrait#tab-rcp) 500 mg à J1 puis 250 mg/j pendant 2 jours (éviter car impact sur les résistances -- *Info-antibio N°107*)
 
 Autres antibiotiques des pneumonies atypiques:
 
@@ -475,9 +477,11 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Pneumonie Aiguë Communautaire chez l'enfant. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/p_3575612/fr/choix-et-durees-d-antibiotherapie-pneumonie-aigue-communautaire-chez-l-enfant)
 - {{< references/calendrier-vaccinal >}}
-- [Dinh A, et al. Update of guidelines for management of community acquired pneumonia in adults by the French infectious disease society (SPILF) and the French-speaking society of respiratory diseases (SPLF). Endorsed by the French intensive care society (SRLF), the French microbiology society (SFM), the French radiology society (SFR) and the French emergency society (SFMU). Infect Dis Now. 2025.](https://www.sciencedirect.com/science/article/pii/S2666991925000132)
+- [Dinh A, et al. Update of guidelines for management of community acquired pneumonia in adults by the French infectious disease society (SPILF) and the French-speaking society of respiratory diseases (SPLF). Endorsed by the French intensive care society (SRLF), the French microbiology society (SFM), the French radiology society (SFR) and the French emergency society (SFMU). Infect Dis Now. 2025.](https://www.sciencedirect.com/science/article/pii/S2666991925000132) ([version française (PDF)](https://docs.splf.fr/divers/docs-gen/recos/actualisation-PAC2025.pdf))
+- [NICE. Pneumonia: diagnosis and management. NICE guideline. 2025.](https://www.nice.org.uk/guidance/ng250)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Pneumonie Aiguë Communautaire de l'adulte en ambulatoire. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3575597/fr/choix-et-durees-d-antibiotherapies-pneumonie-aigue-communautaire-de-l-adulte-en-ambulatoire)
 - [Martin-Loeches I, et al. ERS/ESICM/ESCMID/ALAT guidelines for the management of severe community-acquired pneumonia. Eur Respir J. 2023.](https://erj.ersjournals.com/content/61/4/2200735)
 - [HAS. Réponse rapide sur la prise en charge diagnostique et thérapeutique des pneumonies atypiques à Mycoplasma pneumoniae en ambulatoire chez l'enfant et l'adulte. 22/12/2023.](https://www.has-sante.fr/jcms/p_3482996/fr/reponse-rapide-sur-la-prise-en-charge-diagnostique-et-therapeutique-des-pneumonies-atypiques-a-mycoplasma-pneumoniae-en-ambulatoire-chez-l-enfant-et-l-adulte)
@@ -490,8 +494,8 @@ graph TB
 - Prescrire Redaction. Pneumonie communautaire chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pneumonies aiguës communautaires. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/pneumonies-aigues-communautaires)
 - {{< references/spilf-2020 >}}
-- [Fleurence E; SFP. Toux fébrile. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/allergo-pneumo/toux-febrile)
-- [Houdouin V; SFP. Pneumonies : du diagnostic au traitement. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/allergo-pneumo/pneumonies-du-diagnostic-au-traitement)
+- [Fleurence E; SFP. Toux fébrile. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/2qkkqfucb)
+- [Houdouin V; SFP. Pneumonies : du diagnostic au traitement. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/0xuz)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [Afssaps. Antibiothérapie par voie générale dans les infections respiratoires basses de l'adulte. Mise au point. 2010. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/recos/2010-infvrb-spilf-afssaps.pdf)
 

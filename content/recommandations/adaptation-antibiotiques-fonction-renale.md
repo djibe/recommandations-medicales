@@ -37,13 +37,13 @@ todo = "liens > flow > Kanban | update 2027"
 > **DFG** en mL/min/1,73m². **DC =** dose de charge. Lorsqu'il est écrit jusqu'à x mL/min sans précision, voir la posologie de stade plus sévère (case inférieure).
 
 <div class="form-group floating-label textfield-box form-ripple my-5">
-  <label for="demo1">Rechercher un antibiotique</label>
-  <input class="form-control" id="search-input" type="search">
+  <label for="search-input-atb">Rechercher un antibiotique</label>
+  <input class="form-control" id="search-input-atb" type="search">
 </div>
 <div id="resultats-container">
 <p>Chargement des données en cours...</p>
 </div>
-<script defer>
+<script>
     const jsonUrl = '/data/adaptation-antibiotiques-fonction-renale.json';
     // Formater le nom des stades
     function formaterStade(stadeKey) {
@@ -129,7 +129,7 @@ todo = "liens > flow > Kanban | update 2027"
     document.addEventListener('DOMContentLoaded', chargerEtAfficherDonnees);
 </script>
 <script>
-        const searchInput = document.getElementById('search-input');
+        const searchInput = document.getElementById('search-input-atb');
         const container = document.getElementById('resultats-container');
         // We target the parent items of the h3 tags to hide the whole block
         const resultItems = container.getElementsByClassName('card');

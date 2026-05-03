@@ -65,7 +65,7 @@ todo = "flow"
     ou oral: cétirizine cp ou autre
 - ± ou combinés: [kétotifène](https://base-donnees-publique.medicaments.gouv.fr/medicament/66820967/extrait#tab-rcp) 1 gte x 2/j (dès 3 ans), épinastine (Purivist®), olopatadine (Opatanol®)
 
-  </div>
+</div>
 <div class="tab-pane fade" id="nav-conj-nvne" role="tabpanel" aria-labelledby="nav-tab-nvne">
 
 - Prélèvement systématique
@@ -74,7 +74,7 @@ todo = "flow"
 
 Sauf gonocoque, *Chlamydia*, herpès.
 
-  </div>
+</div>
 
 ---
 

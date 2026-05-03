@@ -137,7 +137,7 @@ En cas de douleurs séquellaires post-opératoires ou non opérables, avis du **
 {{% /collapse %}}
 {{%sources%}}
 
-{{< youtube id="Chs5Jgls7h0" title="Comment réaliser le signe de Lasègue ? (ITMP)" >}}
+{{< youtube id="Chs5Jgls7h0" title="Comment réaliser le signe de Lasègue ? (ITMP)" >}}
 
 - [Armon C, et al. Epidural Steroids for Cervical and Lumbar Radicular Pain and Spinal Stenosis Systematic Review Summary: Report of the AAN Guidelines Subcommittee. Neurology. 2025.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12289388/)
 - [Sculier JP. Un traitement chirurgical d'une sciatique n'est pas associé à une amélioration à long terme par rapport à une approche conservative. Minerva. 2024.](https://minerva-ebp.be/FR/Analysis/849)

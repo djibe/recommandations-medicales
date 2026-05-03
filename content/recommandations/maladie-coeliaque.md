@@ -465,7 +465,7 @@ graph TB
 
 {{< youtube id="k7-velaYt2k" title="Maladie cœliaque : peut-on se passer de l'endoscopie ? (TutoGastro SNFGE)" >}}
 
-{{< youtube id="l3CGdp4T7Fw" title="Le régime sans gluten pour qui et pourquoi (TutoGastro SNFGE)" >}}
+{{< youtube id="l3CGdp4T7Fw" title="Le régime sans gluten pour qui et pourquoi (TutoGastro SNFGE)" >}}
 
 - [Al-Toma A, et al. European Society for the Study of Coeliac Disease (ESsCD) 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 2: Management, Follow-Up, and Complex Disease Courses. United European Gastroenterol J. 2026.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70195)
 - [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)

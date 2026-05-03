@@ -369,15 +369,15 @@ Mesures précédentes avec les particularités suivantes chez la personne vivant
   </li>
 </ul>
 <div class="card-body tab-content" id="justifiedTabContent">
-  <div aria-labelledby="sup45-tab" class="tab-pane fade show active" id="sup45" role="tabpanel">
+<div aria-labelledby="sup45-tab" class="tab-pane fade show active" id="sup45" role="tabpanel">
 
 Tant que le DFGe est ≥ 45 mL/min/1,73 m² (20 chez le sujet âgé), stable, sans complications et sans albuminurie:
 
 - Suivi généraliste au moins annuel
 - Bilan annuel: lipidique, glycémie à jeun, créatininémie et DFGe, rapport albuminurie/créatininurie
 
-  </div>
-  <div aria-labelledby="stade3b-tab" class="tab-pane fade" id="stade3b" role="tabpanel">
+</div>
+<div aria-labelledby="stade3b-tab" class="tab-pane fade" id="stade3b" role="tabpanel">
 
 #### Suivi au stade 3B {.typography-headline-6}
 
@@ -390,8 +390,8 @@ Tant que le DFGe est ≥ 45 mL/min/1,73 m² (20 chez le sujet âgé), stable, sa
 - Anticorps anti-HBs tous les 3 ans
 - PTH selon valeur initiale et la progression
 
-  </div>
-  <div aria-labelledby="stade4-tab" class="tab-pane fade" id="stade4" role="tabpanel">
+</div>
+<div aria-labelledby="stade4-tab" class="tab-pane fade" id="stade4" role="tabpanel">
 
 #### Suivi au stade 4 {.typography-headline-6}
 
@@ -402,8 +402,8 @@ Tant que le DFGe est ≥ 45 mL/min/1,73 m² (20 chez le sujet âgé), stable, sa
 - Tous les 3-6 mois: rapport albuminurie/créatininurie, NFS, réticulocytes, ferritinémie, PAL
 - Annuel: lipidique, glycémie à jeun, anticorps anti-HBs
 
-  </div>
-  <div aria-labelledby="stade5-tab" class="tab-pane fade" id="stade5" role="tabpanel">
+</div>
+<div aria-labelledby="stade5-tab" class="tab-pane fade" id="stade5" role="tabpanel">
 
 #### Suivi au stade 5 {.typography-headline-6}
 
