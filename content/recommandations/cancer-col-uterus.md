@@ -8,7 +8,7 @@ synonyms = ["Papillomavirus humains HPV", "dysplasies du col"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2021-01-18T10:55:00+02:00"
 publishdate = "2022-04-20"
-lastmod = "2025-10-17"
+lastmod = "2026-05-03"
 specialites = ["gynécologie-obstétrique", "oncologie"]
 annees = "2025"
 sources = ["HAS", "CNGOF", "INCa"]
@@ -254,8 +254,8 @@ La vaccination HPV peut être réalisée par un pharmacien ou un infirmier sans 
 
 La vaccination conte les papillomavirus prévient des lésions précancéreuses de tous les sites atteints (voir *Complications*).
 
-[INCa. Les arguments clés sur la vaccination contre les cancers liés aux papillomavirus humains (HPV)](https://www.cancer.fr/professionnels-de-sante/prevention-et-depistages/prevention/agents-infectieux/prevenir-les-cancers-lies-aux-hpv/arguments-cles-sur-la-vaccination-contre-les-cancers-hpv)  
-[SPF. Dépliant sur la vaccination contre les cancers HPV](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/depliant-flyer/infections-a-papillomavirus-humains-les-5-bonnes-raisons-de-se-faire-vacciner)
+- [INCa. Les arguments clés sur la vaccination contre les cancers liés aux papillomavirus humains (HPV)](https://www.cancer.fr/professionnels-de-sante/prevention-et-depistages/prevention/agents-infectieux/prevenir-les-cancers-lies-aux-hpv/arguments-cles-sur-la-vaccination-contre-les-cancers-hpv)
+- [SPF. Dépliant sur la vaccination contre les cancers HPV](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/depliant-flyer/infections-a-papillomavirus-humains-les-5-bonnes-raisons-de-se-faire-vacciner)
 
 > En Australie, où la recommandation de vacciner les filles date de 2007 et celle des garçons de 2013, la couverture vaccinale d'au moins 80 % a permis:  
 Une réduction de plus de 77 % des génotypes responsables de 75 % des cancers du col de l'utérus;  
@@ -340,6 +340,7 @@ Après cancer du col de l'utérus, le suivi comporte:
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [HAS. Dépistage du cancer du col de l'utérus chez les personnes immunodéprimées (hors PVVIH). 2025.](https://www.has-sante.fr/jcms/p_3585926/fr/depistage-du-cancer-du-col-de-l-uterus-chez-les-personnes-immunodeprimees-hors-pvvih)
 - [Brun JL, et al. Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale : actualisation des recommandations INCa après la mise en place du dépistage par le test HPV [Management of women with abnormal cervical cytology: Update of INCa recommendations after the implementation of HPV screening]. Gynecol Obstet Fertil Senol. 2025. (PDF)](https://www.sciencedirect.com/science/article/pii/S2468718924003532)
 - [Service-Public. Une nouvelle vaccination proposée aux élèves de 5e. 04/08/2025.](https://www.service-public.fr/particuliers/actualites/A16438)
@@ -347,7 +348,6 @@ Après cancer du col de l'utérus, le suivi comporte:
 - [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. 30/04/2025.](https://www.cancer.fr/professionnels-de-sante/prevention-et-depistages/prevention/agents-infectieux/prevenir-les-cancers-lies-aux-hpv)
 - [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [HAS. Vaccination contre les papillomavirus : élargissement de la cohorte de rattrapage vaccinal chez les hommes et les femmes jusqu'à 26 ans révolus. 2025.](https://www.has-sante.fr/jcms/p_3605114/fr/vaccination-contre-les-papillomavirus-elargissement-de-la-cohorte-de-rattrapage-vaccinal-chez-les-hommes-et-les-femmes-jusqu-a-26-ans-revolus)
-- {{< references/calendrier-vaccinal >}}
 - [Fischerova D, et al. The Role of Imaging in Cervical Cancer Staging: ESGO/ESTRO/ESP Guidelines (Update 2023). Cancers (Basel). 2024.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38398166/)
 - [Inserm. Papillomavirus : faut-il généraliser la vaccination ?. 27/03/2023.](https://www.inserm.fr/actualite/papillomavirus-faut-il-generaliser-la-vaccination/)
 - [INCa. Le dépistage du cancer du col de l'utérus en pratique. Collection Outils pour la pratique. 2023. (PDF)](https://www.cancer.fr/catalogue-des-publications/depliant-depistage-du-cancer-du-col-de-l-uterus-guide-pratique)

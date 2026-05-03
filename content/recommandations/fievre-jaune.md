@@ -8,9 +8,9 @@ synonyms = ["Fièvre amarile", "typhus amaril", "vomito negro"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-12T08:55:00+02:00"
 publishdate = "2021-02-12"
-lastmod = "2024-04-26"
+lastmod = "2026-05-03"
 specialites = ["infectiologie"]
-annees = "2024"
+annees = "2026"
 sources = ["MinSanté", "HCSP"]
 tags = ["vaccin", "voyage"]
 english = ["Yellow fever"]
@@ -18,13 +18,15 @@ sctid = "16541001"
 icd10 = ["A95", "A95.9"]
 image = true
 imageSrc = "Moustique de la fièvre jaune, *Aedes aegypti*. James Gathany, domaine public via Wikimedia Commons"
+rank = "false"
+writing = "todo"
 todo = "clinique"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-La fièvre jaune et une maladie à [déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}}).
+La fièvre jaune est une maladie hémorragique virale aiguë transmise par des moustiques infectés de certaines zones tropicales (Afrique et Amérique latine). C'est une maladie à [déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}}).
 
 La vaccination contre la fièvre jaune est:
 
@@ -125,8 +127,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- {{< references/voyageur >}}
 - {{< references/calendrier-vaccinal >}}
+- {{< references/voyageur >}}
 - [Ministère de la Santé. Fièvre jaune. 2024.](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/la-fievre-jaune)
 - [Ministère de la Santé. Liste des centres de vaccination habilités à effectuer la vaccination contre la fièvre jaune (anti-amarile). Janvier 2024.](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination-fievre-jaune)
 - [OMS. Fièvre jaune. 31/05/2023.](https://www.who.int/fr/news-room/fact-sheets/detail/yellow-fever)

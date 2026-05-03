@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-07T12:03:00+02:00"
 publishdate = "2021-09-07"
-lastmod = "2025-05-08"
+lastmod = "2026-05-03"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2023"
 sources = ["HAS", "AFEF", "SNFGE"]
@@ -18,6 +18,8 @@ sctid = "66071002"
 icd10 = ["B18.0", "B18.1", "B16", "K73.9"]
 image = true
 imageSrc = "Hépatite B, illustration par pch.vector / Freepik"
+rank = "false"
+writing = "todo"
 todo = "dépistage VHB, insuff hépatocellulaire, AFEF 2020: TROD AgHBs isolés, papier buvard pour quantifier ADN, calendrier page 80, clinique, flow, découverte hépatite B guérie | AFP ?"
 +++
 

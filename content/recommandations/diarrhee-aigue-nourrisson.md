@@ -18,6 +18,8 @@ sctid = "409966000"
 icd10 = ["A09", "A08", "A02.0"]
 image = false
 imageSrc = ""
+rank = "false"
+writing = "todo"
 todo = "liens > photo | GPIP 2016 ou + récent"
 flowchart = true
 +++
@@ -160,7 +162,7 @@ Prévention de la diarrhée et de la gastroentérite du nourrisson:
 - Allaitement maternel
 - [Mesures d'hygiène alimentaire]({{% relref "hygiene-conservation-aliments.md" %}})
 - [Vaccination rotavirus du nourrisson]({{% relref "examens-suivi-nourrisson.md" %}})  
-  Rotarix à M2M3 ou RotaTeq à M2M3M4 et information sur les signes d'invagination intestinale aiguë (IIA).
+  Rotarix à M2-M3 ou RotaTeq à M2-M3-M4 et information sur les signes d'invagination intestinale aiguë (IIA).
 
 > [!INFO]
 > Près de 90 % des hospitalisations pour Rotavirus peuvent être prévenues par la vaccination. -- *GFHGNP 2024*
@@ -240,6 +242,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [Jung C, et al; Groupe Francophone d'Hépatologie-Gastroentérologie et Nutrition Pédiatrique (GFHGNP). Diarrhée aiguë du nourrisson et de l'enfant: recommandations d'experts 2024. 2024.](https://www.gfhgnp.org/recommandations-et-documents/diarrhee-aigue-du-nourrisson-et-de-lenfant/)
 - [Gras-Le Guen C, et al, Société Française de Pédiatrie, CNPPédiatrie, GPIP, AFPA. Soluté de Réhydratation par Voie Orale (SRO) : tensions d'approvisionnement en France au 1^er^ trimestre 2022. Avis de la Société Française de Pédiatrie. 21/02/2022.](https://www.sfpediatrie.com/actualites/avis-societe-francaise-pediatrie-du-21-fevrier-2022)
 - Prescrire Redaction. Diarrhée aiguë chez un enfant ou un nourrisson. Premiers Choix Prescrire. Rev Prescrire. 2021.

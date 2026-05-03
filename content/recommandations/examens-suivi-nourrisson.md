@@ -9,9 +9,9 @@ synonyms = []
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2020-06-02T11:57:29+02:00"
 publishdate = "2020-06-02"
-lastmod = "2025-10-07"
+lastmod = "2026-05-03"
 specialites = ["pédiatrie"]
-annees = "2025"
+annees = "2026"
 sources = ["MinSanté", "Service-Public"]
 tags = ["nourrisson", "enfant", "adolescent"]
 english = ["Children follow up"]
@@ -90,7 +90,7 @@ Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de s
 Pour plus d'informations sur les vaccinations, dont les obligations, voir le chapitre [Vaccination]({{% relref "vaccination.md" %}}).
 {.alert .alert-info}
 
-> Temporairement, ==rattrapage des méningites B et ACWY jusqu'à 4 ans révolus== (même si 2 doses de Neisvac -- *HAS 7/2025*).
+> Temporairement, ==rattrapage des méningites B et ACWY jusqu'à 4 ans révolus== (même si 2 doses de Neisvac).
 
 |          Âge          | Valences                                                                                  | Spécialités équivalentes                                                                                        |
 | :-------------------: | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -107,7 +107,7 @@ Pour plus d'informations sur les vaccinations, dont les obligations, voir le cha
 | 11-13 ans  | dTcaPolio<br>(DTCaPolio si manqué)                   | BoostrixTetra, Repevax<br>(voir *6 ans*)                                  |
 | 11-14 ans  | HPV<br>Méningo ACWY                                  | Gardasil9 M0-M6<br>Nimenrix, MenQuadfi, Menveo (pas d'aiguille)           |
 | 15-24 ans  | Méningo B (proposé)<br>Rattrapage méningo ACWY       | Bexsero, Trumenba <br> Nimenrix, MenQuadfi, Menveo (pas d'aiguille) |
-{caption="Calendrier des vaccins recommandés chez l'enfant en France en 2026. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention **NR**. Dr JB Fron d'après *Calendrier Vaccinal 2025* et HAS" class="table-wrap"}
+{caption="Calendrier des vaccins recommandés chez l'enfant en France en 2026. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention **NR**. Dr JB Fron d'après *Calendrier Vaccinal 2026* et HAS" class="table-wrap"}
 
 **Rotavirus:** informer sur le risque d'*invagination intestinale aiguë* dans les 7 jours avec pleurs inhabituels, refus de s'alimenter ou de boire, vomissements, pâleur, hypotonie, présence de sang dans les selles. Possibilité de manger immédiatement avant ou après. [Guide info parent rotavirus (PDF)](https://sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
 
@@ -143,13 +143,14 @@ Pour plus d'informations sur les vaccinations, dont les obligations, voir le cha
 {{% /collapse %}}
 {{%sources%}}
 
-Sources citées en regard des sections.
+Sources citées en regard des sections et:
 
+- {{< references/calendrier-vaccinal >}}
 - [HAS. Avis n° 2025.0040/AC/SESPEV du 17 juillet 2025 du collège de la Haute Autorité de santé relatif à l'ajout des vaccins contre les maladies méningococciques invasives des sérogroupes A, C, W, Y, et B à l'arrêté fixant la liste des vaccins mentionnée à l'article L. 5122-6 du code de la santé publique. 17/07/2025. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2025-07/avis_n2025.0040_ac_sespev_17_juillet_2025_college_has_a_lajout_des_vaccins_contre_les_maladies_meningococciques_a_c_w_y_b_la.pdf)
+- [Arrêté du 14 novembre 2024 modifiant l'arrêté du 26 février 2019 relatif au calendrier des examens médicaux obligatoires de l'enfant. Légifrance. 2024.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050500751)
 
 ### Bibliographie en attente
 
-- [Arrêté du 14 novembre 2024 modifiant l'arrêté du 26 février 2019 relatif au calendrier des examens médicaux obligatoires de l'enfant. Légifrance. 2024.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050500751)
 - [Décret n° 2024-1031 du 14 novembre 2024 relatif aux examens médicaux obligatoires de l'enfant. Légifrance. 2024.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050500736)
 - [Feltner C, et al. Screening for Speech and Language Delay and Disorders in Children Age 5 Years or Younger: An Evidence Review for the U.S. Preventive Services Task Force. Rockville (MD): Agency for Healthcare Research and Quality (US). 2024.](https://www.ncbi.nlm.nih.gov/books/NBK599720/)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Développement psychomoteur. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/developpement-psychomoteur)

@@ -8,7 +8,7 @@ synonyms = ["Bacille de Koch", "Mycobacterium tuberculosis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-06-03T15:14:20+02:00"
 publishdate = "2020-06-03"
-lastmod = "2025-07-10"
+lastmod = "2026-05-03"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2017"
 sources = ["HAS", "MinSanté", "CMIT"]
@@ -88,7 +88,8 @@ Le BCG est indiqué en cas de risque élevé de tuberculose:
 
 Pour les professionnels de santé: évaluation de l'exposition au cas par cas par la *médecine du travail*.
 
-**Contre-indications au BCG:** [VIH]({{% relref "vih-sida.md" %}}), chimiothérapie, corticoïdes.
+> [!WARNING]
+> **Contre-indications au BCG:** [VIH]({{% relref "vih-sida.md" %}}), chimiothérapie, corticoïdes.
 
 Le BCG peut être administré en même temps que n'importe quel autre vaccin mais doit être exclusif sur un bras.
 
@@ -221,9 +222,9 @@ L'IDR est en faveur de l'absence de primo-infection si elle est < 5 mm (10 mm en
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [HAS. ALD 29 - Tuberculose maladie. Actes et prestations Affection de longue durée. 2025.](https://www.has-sante.fr/jcms/c_482999/fr/ald-n-29-tuberculose-maladie)
 - {{< references/voyageur >}}
-- {{< references/calendrier-vaccinal >}}
 - [HAS. Évaluation des stratégies de dépistage et de repérage précoce de la tuberculose pulmonaire. 2025.](https://has-sante.fr/jcms/p_3459735/fr/evaluation-des-strategies-de-depistage-et-de-reperage-precoce-de-la-tuberculose-pulmonaire)
 - [Ministère de la Santé. BCG - Questions/Réponses à destination des professionnels de santé. 2022. (PDF)](https://sante.gouv.fr/IMG/pdf/qr_bcg_ps_mars_2022.pdf)
 - [WHO. Global Programme on Tuberculosis & Lung Health](https://www.who.int/teams/global-tuberculosis-programme/data)

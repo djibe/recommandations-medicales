@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-22T12:09:36+01:00"
 publishdate = "2022-04-07"
-lastmod = "2026-03-13"
+lastmod = "2026-05-03"
 specialites = ["dermatologie", "pédiatrie"]
 annees = "2021"
 sources = ["Collèges"]
@@ -302,8 +302,8 @@ style grossesse stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
-- [Cohen R, Hass H. La varicelle et ses vaccins. Infovac-France. 2025. (PDF)](https://www.infovac.fr/~documents/route:/download/1471/)
 - {{< references/calendrier-vaccinal >}}
+- [Cohen R, Hass H. La varicelle et ses vaccins. Infovac-France. 2025. (PDF)](https://www.infovac.fr/~documents/route:/download/1471/)
 - [ANSM. Anti-inflammatoires non stéroïdiens (AINS) et complications infectieuses graves. 28/04/2023.](https://ansm.sante.fr/actualites/anti-inflammatoires-non-steroidiens-ains-et-complications-infectieuses-graves)
 - [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-168.pdf)
 - [ANSM. Varitect CP. 2023.](https://ansm.sante.fr/tableau-acces-derogatoire/varitect-cp)

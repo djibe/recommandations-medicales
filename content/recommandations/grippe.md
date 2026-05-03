@@ -7,9 +7,9 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2025-10-07"
+lastmod = "2026-05-03"
 specialites = ["infectiologie", "pneumologie"]
-annees = "2025"
+annees = "2026"
 sources = ["MinSanté", "HAS"]
 tags = ["BPCO", "obésité", "prévention", "vaccin"]
 english = ["influenza", "flu"]
@@ -156,14 +156,14 @@ Vaccins contre la grippe disponibles en France pour la campagne vaccinale pour l
 
 - Efluelda (à partir de et préféré chez le +65 ans)
 - Fluad (à partir de et préféré chez le +65 ans)
-- FlucelvaxTetra® (à partir de 2 ans)
+- FlucelvaxTetra® (à partir de 6 mois)
 - Influvac Trivalent® (à partir de 6 mois)
 - Vaxigrip Trivalent® (à partir de 6 mois)
-- Chez les +65 ans, privilégier: Efluelda et Fluad (*HAS 2025*)
+- Chez les +65 ans, privilégier Efluelda et Fluad
 
 Le vaccin nasal Fluenz Tetra® n'est pas disponible en France.
 
-La campagne de vaccination s'étale du ==14 octobre 2025== (*DGS Urgent 2025-24*) et terminera le 28 février 2026.
+La campagne de vaccination 2025-2026 s'étala du ==14 octobre 2025== (*DGS Urgent 2025-24*) au 28 février 2026.
 
 Pas de délai à respecter entre les vaccins anti-grippaux et anti Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
 
@@ -221,9 +221,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [CBIP. Nouvelles données sur le vaccin antigrippal à haute dose. Folia. 2025.](https://www.cbip.be/fr/articles/4625?folia=4621)
 - [HAS. Vaccination contre la grippe saisonnière des personnes de 65 ans et plus. Place des vaccins Efluelda et Fluad. 2025.](https://www.has-sante.fr/jcms/p_3604446/fr/vaccination-contre-la-grippe-saisonniere-des-personnes-de-65-ans-et-plus-place-des-vaccins-efluelda-et-fluad)
-- {{< references/calendrier-vaccinal >}}
 - [Hanula R, et al. Evaluation of Oseltamivir Used to Prevent Hospitalization in Outpatients With Influenza: A Systematic Review and Meta-analysis. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2805976)
 - [CMIT. Grippe. Item 166. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-166.pdf)
 - [HAS. Tamiflu (oseltamivir). Commission de la transparence. 24/06/2020.](https://www.has-sante.fr/jcms/p_3191478)
@@ -233,7 +233,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Vandvik P O, et al. Summary of WHO clinical practice guidelines for influenza. BMJ. 2026.](https://www.bmj.com/content/392/bmj-2025-087397)
+- [Vandvik PO, et al. Summary of WHO clinical practice guidelines for influenza. BMJ. 2026.](https://www.bmj.com/content/392/bmj-2025-087397)
 - [Uyeki TM, et al. Clinical Practice Guidelines by the Infectious Diseases Society of America: 2018 Update on Diagnosis, Treatment, Chemoprophylaxis, and Institutional Outbreak Management of Seasonal Influenzaa. Clin Infect Dis. 2019.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6653685/)
 
 {{%/sources%}}

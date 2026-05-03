@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-16T08:08:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2026-02-04"
+lastmod = "2026-05-03"
 specialites = ["pédiatrie"]
 annees = "2023"
 sources = ["HAS", "SFP"]
@@ -20,9 +20,10 @@ icd10 = ["J21", "J21.0", "J21.9"]
 image = true
 imageSrc = "Virus respiratoire syncytial (VRS) de la bronchiolite au microscope. CDC 1981 du United States Department of Health and Human Services, Public domain, via Wikimedia Commons"
 rank = "ok"
+writing = "todo"
 flowchart = true
 chart = true
-todo = "SEO, SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
+todo = "SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/2005/revue-medicale-suisse-38/reconnaissance-des-signes-de-gravite-cardiorespiratoire-chez-l-enfant"
 +++
 
 {{%article-summary%}}
@@ -33,8 +34,9 @@ todo = "SEO, SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/2005
 - La dyspnée dure de 3 à 10 jours (voire 6 semaines)
 - Recommandations de prise en charge de la bronchiolite: éviction en phase aiguë - DRP - fractionner les repas - surveillance - aucune exposition au tabac
 - Prévention de la bronchiolite: mesures barrières, injection IM d'anticorps **nirsévimab** Beyfortus® avant la sortie de maternité (plus efficace) ou vaccin anti-VRS en fin de grossesse de septembre à fin janvier (ou février). Rattrapage pour ceux nés après le 1^er^ février avec 1 seule injection selon le poids (voir *[Prévention](#prévention-de-la-bronchiolite))* en l'absence de test VRS positif
+- Chez les nourrissons à risque d'infection sévère, les anticorps monoclonaux (Beyfortus ou Synagis) sont renouvelés durant leur 2^e^ saison épidémique
 
-Bronchiolite: [conseils aux parents de la HAS (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf).
+Information: [guide des conseils aux parents de la HAS (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf).
 
 {{%/article-summary%}}
 
@@ -256,7 +258,7 @@ Recommandations pour la prévention de la bronchiolite:
 
 ### Vaccination anti-VRS
 
-[Fiche info vaccination VRS HAS (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2025-08/bronchiolite_comment_proteger_votre_futur_bebe_dune_forme_grave_-_actualisation_aout_2025.pdf)
+[Guide info vaccination VRS HAS (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2025-08/bronchiolite_comment_proteger_votre_futur_bebe_dune_forme_grave_-_actualisation_aout_2025.pdf)
 
 Le vaccin **anti-VRS Abrysvo** est recommandé en fin de grossesse entre 32 et 36 SA de septembre à janvier. Aucune dose ultérieure lors des grossesses suivantes. Le vaccin est moins efficace que les anticorps monoclonaux ([ANSM](https://ansm.sante.fr/actualites/prevention-des-hospitalisations-pour-bronchiolite-chez-le-nouveau-ne-beyfortus-montre-une-efficacite-superieure-a-celle-offerte-par-abrysvo)).
 
@@ -277,7 +279,7 @@ Indications à la prévention de la bronchiolite par une immunisation passive av
 - Pour 2025-2026: la **campagne** est terminée (de septembre à janvier-février, pour 2026: 20 février)  
   Au mieux avant la sortie de maternité (rattrapage en ville sinon).
 - Pour tous les nourrissons nés depuis février 2025 sauf vaccination maternelle anti-VRS
-- Une seule injection IM de nirsévimab (Beyfortus®)
+- Une seule injection IM de nirsévimab (Beyfortus® ou Synagis® si prématuré ou nourrisson à haut risque -- renouvelé la 2^e^ année chez ces sujets)
 - ==De 0,5 mL (50 mg) pour les moins de 5 kg de poids puis 1 mL (100 mg) au-delà==
 - Dans la face antéro-latérale de **cuisse**
 - Le même jour que des vaccins ou anticorps si besoin (mais administrés sur d'autres sites)
@@ -446,6 +448,7 @@ Les autres traitements exposent à des effets indésirables parfois graves.
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [DGS-Urgent 2025_15. Modalités de mise en œuvre de la campagne d'immunisation des nourrissons et nouveau-nés contre les infections à virus respiratoire syncitial (VRS). 28/01/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
 - [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)

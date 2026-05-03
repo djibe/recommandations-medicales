@@ -295,7 +295,7 @@ Examens inutiles en ville pour une suspicion de pneumopathie à bactérie atypiq
 Indications à la vaccination anti-pneumococcique:
 
 - [Tous les nourrissons]({{% relref "examens-suivi-nourrisson.md" %}}) (rattrapage jusqu'à 23 mois)
-- Tous les +65 ans (*HAS*)
+- Tous les +65 ans
 - Immunodépression
   - [Asplénie ou hyposplénie]({{% relref "asplenie.md" %}}) (dont drépanocytaire majeur)
   - Déficit immunitaire héréditaire
@@ -477,9 +477,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Pneumonie Aiguë Communautaire chez l'enfant. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/p_3575612/fr/choix-et-durees-d-antibiotherapie-pneumonie-aigue-communautaire-chez-l-enfant)
-- {{< references/calendrier-vaccinal >}}
 - [Dinh A, et al. Update of guidelines for management of community acquired pneumonia in adults by the French infectious disease society (SPILF) and the French-speaking society of respiratory diseases (SPLF). Endorsed by the French intensive care society (SRLF), the French microbiology society (SFM), the French radiology society (SFR) and the French emergency society (SFMU). Infect Dis Now. 2025.](https://www.sciencedirect.com/science/article/pii/S2666991925000132) ([version française (PDF)](https://docs.splf.fr/divers/docs-gen/recos/actualisation-PAC2025.pdf))
 - [NICE. Pneumonia: diagnosis and management. NICE guideline. 2025.](https://www.nice.org.uk/guidance/ng250)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Pneumonie Aiguë Communautaire de l'adulte en ambulatoire. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3575597/fr/choix-et-durees-d-antibiotherapies-pneumonie-aigue-communautaire-de-l-adulte-en-ambulatoire)

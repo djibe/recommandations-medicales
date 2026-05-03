@@ -7,7 +7,7 @@ synonyms = ["Infection à Bordetella pertussis"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-03-21T10:41:45+01:00"
 publishdate = "2022-03-22"
-lastmod = "2026-02-16"
+lastmod = "2026-05-03"
 specialites = ["infectiologie", "ORL"]
 annees = "2025"
 sources = ["SPILF", "HCSP", "HAS", "GPIP"]
@@ -282,8 +282,8 @@ Avant HAS/SPILF/GPIP 2024, des guides incomplets: DGS Urgent 2024_08 (aucune inf
 
 {{< youtube id="yhxuKysI33o" title="Vidéo#5 : La coqueluche (CRAtb Pays de la Loire / MedQual)" >}}
 
-- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - {{< references/calendrier-vaccinal >}}
+- [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [DGS-Urgent 2024_11. 13/08/2024.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : coqueluche chez le nourrisson, l'enfant et l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3525542/fr/choix-et-durees-d-antibiotherapies-coqueluche-chez-le-nourrisson-l-enfant-et-l-adulte)
 - [Cohen R, et al; GPIP. Antimicrobial treatment of infrequent bacterial species. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001574)

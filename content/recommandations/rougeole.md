@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-04-05T19:47:39+02:00"
 publishdate = "2025-04-11"
-lastmod = "2026-02-20"
+lastmod = "2026-05-03"
 specialites = ["infectiologie", "pédiatrie"]
 annees = "2025"
 sources = ["SPF"]
@@ -115,6 +115,9 @@ L'incubation de la rougeole dure de 10 à 12 jours et la contagiosité perdure 5
 
 La vaccination trivalente **ROR** (rougeole - oreillons - rubéole) est obligatoire pour tous les nourrissons à **12 mois** avec un rappel de 16 à 18 mois ([M-M-RvaxPro®](https://www.ema.europa.eu/fr/documents/product-information/m-m-rvaxpro-epar-product-information_fr.pdf) ou [Priorix®](https://base-donnees-publique.medicaments.gouv.fr/medicament/61896473/extrait#tab-rcp#RcpContreindications)).
 
+> [!WARNING]
+> La vaccination contre la rougeole est obligatoire chez les professionnels de santé et de la petite enfance.
+
 Lorsque le statut vaccinal n'est pas connu, la vaccination est rattrapée sans contrôle vaccinal.
 
 La vaccination ROR (**vaccin vivant**) est **contre-indiquée pendant la grossesse** et une grossesse doit être évitée le mois suivant. Autres contre-indications: immunodépression (dont corticothérapie forte dose), fièvre élevée, hypersensibilité à la substance.
@@ -173,8 +176,8 @@ Galerie de photos de cas de rougeole.
 {{% /collapse %}}
 {{%sources%}}
 
-- [Santé Publique France. Rougeole en France du 1er janvier au 31 janvier 2026. 12/02/2026.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-prevention-vaccinale/rougeole/documents/bulletin-national/rougeole-en-france-du-1er-janvier-au-31-janvier-2026)
 - {{< references/calendrier-vaccinal >}}
+- [Santé Publique France. Rougeole en France du 1er janvier au 31 janvier 2026. 12/02/2026.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-prevention-vaccinale/rougeole/documents/bulletin-national/rougeole-en-france-du-1er-janvier-au-31-janvier-2026)
 - [Santé Publique France. Rougeole : appel à la vigilance renforcée face à la recrudescence des cas en France et en Europe. 20/03/2025.](https://www.santepubliquefrance.fr/les-actualites/2025/rougeole-appel-a-la-vigilance-renforcee-face-a-la-recrudescence-des-cas-en-france-et-en-europe)
 - [Santé Publique France. Rougeole. 16/07/2025.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-prevention-vaccinale/rougeole/)
 - [HAS. Avis n°2024.0038/AC/SESPEV du 23 mai 2024 du collège de la Haute Autorité de santé relatif à la vaccination des personnes nées depuis 1980 ayant reçu une dose de vaccin contre la rougeole avant l'âge de 12 mois. 2024. (PDF)](https://www.ameli.fr/sites/default/files/Documents/avis_2024.0038.ac_.sespev_du_23_mai_2024_du_college_de_la_has_relatif_a_la_vaccination_des_personnes_nees_depuis_1980_ayant_r.pdf)

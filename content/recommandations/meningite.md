@@ -19,7 +19,8 @@ sctid = "95883001"
 icd10 = ["G00", "G00.9", "A39.0"]
 image = true
 imageSrc = "Purpura fulminans à méningocoque du nourrisson. Photos de << Baby Charlotte >> qui a survécu et servi de modèle à la vaccination anti-méningococcique. babycharlotte.co.nz"
-todo = "SEO"
+rank = "false"
+writing = "todo"
 flowchart = true
 +++
 
@@ -154,13 +155,14 @@ Pas de vaccination anti-pneumococcique autour d'un cas de méningite bactérienn
 
 #### Méningocoque C
 
-Pour la vaccination des **sujets contacts** en prévention secondaire, lire *Calendrier vaccinal*.
+> [!INFO]
+> Pour la vaccination des **sujets contacts** en prévention secondaire, lire le *Calendrier vaccinal*.
 
 #### Méningocoques A/C/W/Y
 
 > Vaccination obligatoire des nourrissons contre les méningocoques B et ACWY depuis le 1^er^ janvier 2025.
 
-Vaccination de la méningite ACWY en prévention primaire de tous les nourrissons: **2 doses obligatoire à 6 et 12 mois** (*Calendrier vaccinal*). Rattrapage chez le nourrisson jusqu'à 23 mois par 1 dose (35 mois selon *HAS 2025*). À l'adolescence (11-14 ans), 1 dose quel que soit le nombre de vaccins antérieurs, avec rattrapage jusqu'à 24 ans révolus.
+Vaccination de la méningite ACWY en prévention primaire de tous les nourrissons: **2 doses obligatoires à 6 et 12 mois** (*Calendrier vaccinal*). Rattrapage chez le nourrisson jusqu'à 4 ans révolus par 1 dose. À l'adolescence (11-14 ans), 1 rappel quel que soit le nombre de vaccins antérieurs, avec rattrapage jusqu'à 24 ans révolus.
 
 Autres indications: immunodépression ([asplénie]({{% relref "asplenie.md" %}})), laboratoire travaillant sur le méningocoque, voyage (La Mecque).
 
@@ -179,7 +181,7 @@ Pour la vaccination des sujets contacts en prévention secondaire d'un sérogrou
 
 > Vaccination obligatoire des nourrissons contre les méningocoques B et ACWY depuis le 1^er^ janvier 2025.
 
-Vaccination de la méningite B en prévention primaire: recommandée à 3 mois, 5 mois et 12 mois par [Bexsero®](https://base-donnees-publique.medicaments.gouv.fr/medicament/64493883/extrait#tab-rcp-et-notice). Rattrapage jusqu'à 4 ans (*HAS 2025*).
+Vaccination de la méningite B en prévention primaire: obligatoire à 3 mois, 5 mois et 12 mois par [Bexsero®](https://base-donnees-publique.medicaments.gouv.fr/medicament/64493883/extrait#tab-rcp-et-notice). Rattrapage jusqu'à 4 ans révolus.
 
 La vaccination est possible de 15 à 24 ans (2 doses de Bexsero ou Trumenba) si le patient le souhaite.
 
@@ -274,8 +276,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Collège national des généralistes enseignants. Quelles données sur l'obligation de la vaccination contre le méningocoque B (MenB) en France depuis le 1er janvier 2025 ?. 2025. (PDF)](https://www.cnge.fr/wp-content/uploads/2025/12/251222_Avis-Meningo-B_vbdd.pdf)
 - {{< references/calendrier-vaccinal >}}
+- [Collège national des généralistes enseignants. Quelles données sur l'obligation de la vaccination contre le méningocoque B (MenB) en France depuis le 1er janvier 2025 ?. 2025. (PDF)](https://www.cnge.fr/wp-content/uploads/2025/12/251222_Avis-Meningo-B_vbdd.pdf)
 - [HAS. Stratégie de vaccination contre les infections invasives à méningocoques. 2025.](https://www.has-sante.fr/jcms/p_3597524/fr/strategie-de-vaccination-contre-les-infections-invasives-a-meningocoques)
 - [DGS-Urgent 2025_06. Augmentation des infections invasives à méningocoques en France. 21/02/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Stratégie de vaccination contre les infections invasives à méningocoques : Révision de la stratégie contre les sérogroupes ACWY et B. 2024.](https://www.has-sante.fr/jcms/p_3460601/fr/strategie-de-vaccination-contre-les-infections-invasives-a-meningocoques-revision-de-la-strategie-contre-les-serogroupes-acwy-et-b)

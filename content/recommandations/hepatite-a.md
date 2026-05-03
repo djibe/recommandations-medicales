@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-10T18:52:41+02:00"
 publishdate = "2021-02-10"
-lastmod = "2024-04-26"
+lastmod = "2026-05-03"
 specialites = ["hépato-gastro-entérologie"]
-annees = "2024"
+annees = "2026"
 sources = ["MinSanté", "Pasteur"]
 tags = ["fatigue", "hépatite", "HSH", "IST", "prévention", "vaccin", "voyage"]
 english = ["Hepatitis A"]
@@ -18,15 +18,18 @@ sctid = "40468003"
 icd10 = ["B15", "B15.9"]
 image = true
 imageSrc = "Pays à risque modéré à élevé d'infection par le virus de l'hépatite A. OMS 2010"
+rank = "false"
+writing = "todo"
 todo = "symptômes/fatigue, vaccin combiné"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Vacciner contre l'hépatite A: [HSH]({{% relref "hsh.md" %}}), enfant amené à séjourner en zone endémique, 14 jours autour d'un cas
+- L'hépatite A est une hépatopathie infectieuse causée par le virus de l'hépatite A (VHA) qui a une transmission féco-orale
+- Vacciner contre l'hépatite A: [HSH]({{% relref "hsh.md" %}}), enfant amené à séjourner en zone endémique, dans les 14 jours autour d'un cas
 - Le seul traitement de l'hépatite A est préventif par les mesures d'hygiène et la vaccination
-- Vaccin dans le cadre d'un voyage: 1 injection 15 jours avant le départ et rappel à 6 mois (voire +), dès 1 an
+- Schéma vaccinal dans le cadre d'un voyage: 1 injection 15 jours avant le départ et rappel à 6 mois (voire +), dès 1 an
 - Hépatite A aiguë: [maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}}) et prise en charge symptomatique
 
 {{%/article-summary%}}

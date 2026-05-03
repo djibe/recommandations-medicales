@@ -1,16 +1,16 @@
 +++
 id = "0190e8d6-bc85-7149-bea6-0218f0e462f3"
-title = "Vaccination et calendrier vaccinal 2025"
+title = "Vaccination et calendrier vaccinal 2026"
 prefix = "la "
 titleSeo = "vaccination"
-description = "Recommandations sur les vaccins selon le Calendrier vaccinal 2025. Âge de rattrapage, vaccins selon l'âge, taille d'aiguille et sites d'injection des vaccins"
+description = "Recommandations sur les vaccins selon le Calendrier vaccinal 2026. Âge de rattrapage, vaccins selon l'âge, taille d'aiguille et sites d'injection des vaccins"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2025-12-19"
+lastmod = "2026-05-03"
 specialites = ["infectiologie", "pédiatrie", "thérapeutique"]
-annees = "2025"
+annees = "2026"
 sources = ["MinSanté", "HAS", "HCSP"]
 tags = ["BPCO", "diabète", "grossesse", "prévention", "vaccin", "zona"]
 english = ["Immunization", "vaccination"]
@@ -58,7 +58,7 @@ VVA
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Calendrier vaccinal 2025" "show" %}}
+{{%collapse "Calendrier vaccinal 2026" "show" %}}
 
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 | :--------: | ---------------------------------------------------- | ------------------------------------------------------------------------- |
@@ -81,7 +81,7 @@ VVA
 |  +75 ans   | + VRS annuel (NR)                                    | Arexvy, Abrysvo, mRESVIA                                                  |
 | [Grossesse]({{% relref "grossesse.md" %}}) | Coqueluche, Covid, grippe, VRS | BoostrixTetra, Repevax, Abrysvo ...                             |
 | Médecin généraliste | Covid-19, grippe, ROR,<br>varicelle, VHB    |                                                                           |
-{caption="Calendrier des vaccins et anticorps recommandés en France en 2026. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention *NR*. Dr JB Fron d'après *Calendrier vaccinal 2025*, *HAS 2025.0040/AC/SESPEV*, *HAS 2025* et *2024*, DGS Urgent 2025-15." class="table-wrap"}
+{caption="Calendrier des vaccins et anticorps recommandés en France en 2026. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention *NR*. Dr JB Fron d'après *Calendrier vaccinal 2026*, *HAS 2025.0040/AC/SESPEV*, *HAS 2025* et *2024*, DGS Urgent 2025-15." class="table-wrap"}
 
 > Les consultations à 25, 45, 65 et 75 ans sont gratuites avec la **cotation RDV** (30€).
 
@@ -157,7 +157,7 @@ Lire le *Calendrier vaccinal* page 75.
 11. Né depuis 2023: méningocoque B
 12. Pneumocoque
 
-> -- *PLFSS 2025*, *[Décret n° 2024-694 du 5 juillet 2024](https://www.legifrance.gouv.fr/download/file/hhS68ECmVhDgElkqhy2ETAVq-2Yhrqjdh8OV3--WPN0=/JOE_TEXTE)* et *[Loi du 30 décembre 2017](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171171)*
+> -- *Calendrier vaccinal 2026*, *[Décret n° 2024-694 du 5 juillet 2024](https://www.legifrance.gouv.fr/download/file/hhS68ECmVhDgElkqhy2ETAVq-2Yhrqjdh8OV3--WPN0=/JOE_TEXTE)* et *[Loi du 30 décembre 2017](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171171)*
 
 > [!WARNING]
 > Si l'infraction vaccinale vient du médecin de l'enfant, il peut être poursuivi par le *CDOM*, l'*ARS* voire la [miviludes](https://www.miviludes.interieur.gouv.fr).
