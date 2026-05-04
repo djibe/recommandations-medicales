@@ -137,7 +137,7 @@ SFD
   - IMC normal, AEG, amaigrissement, hyperglycémie inaugurale majeure, obésité grade 3
   - Échec des premières lignes de traitement, insulinothérapie poly-injections, hypoglycémies, souhait du praticien
 - Si maladie rénale chronique: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} systématique  
-  {{%class%}}et finérénone (non disponible en France){{%/class%}}
+  {{%class%}}et finérénone (Kerendia® en [AAC](https://ansm.sante.fr/tableau-acces-derogatoire/kerendia)){{%/class%}}
 - Soutien psychologique
 - Association de patients: [programme d'accueil de la Fédération Française des Diabétiques](https://www.federationdesdiabetiques.org/je-m-inscris-a-la-newsletter-kitb), [Union sport et diabète](https://www.unionsportsetdiabete.com/) ...
 - Déclarer l'[ALD n°8]({{% relref "affection-longue-duree.md" %}}) et proposer le service de suivi **Sophia** (inscription sur *Amelipro*)

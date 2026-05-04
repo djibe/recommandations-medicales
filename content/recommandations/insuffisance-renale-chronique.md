@@ -341,7 +341,7 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
 Mesures précédentes avec les particularités suivantes chez la personne vivant avec un diabète (*SFD*, *HAS*, *KDIGO*, *ADA*, *ESC 2023*):
 
 - Albuminurie cible < 3 mg/mmol
-  - Contrôle par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} + anti-aldostérone finérénone (Karendia®, pas encore disponible) si non contrôlée (si DFG ≥ 25 et kaliémie normale)
+  - Contrôle par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} + anti-aldostérone finérénone (Kerendia® en [AAC](https://ansm.sante.fr/tableau-acces-derogatoire/kerendia)) si non contrôlée (si DFG ≥ 25 et kaliémie normale)
   - Albuminurie et normotension: considérer {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}
 - {{< modal-btn modal-hba1c >}}HbA1c cible ≤ 7 %{{< /modal-btn >}} (8 % si IRC sévère ou terminale)
 - Suivi diabétologique impératif
