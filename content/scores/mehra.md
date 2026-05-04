@@ -1,5 +1,6 @@
 +++
 title = "Échelle mEHRA (modified European Heart Rythm Association)"
+aliases = ["ehra"]
 description = "L'échelle mEHRA (modified European Heart Rythm Association) permet de grader le retentissement de la fibrillation atriale (FA) sur le patient."
 longHtml = true
 noSearchContent = true

@@ -94,41 +94,6 @@ HUGO_ENABLEGITINFO = "false"
   status = 301
 
 [[redirects]]
-  from = "https://recomedicales.fr/recommandations/diverticulite-sigmoidienne"
-  to = "https://recomedicales.fr/recommandations/diverticulite-sigmoidienne/"
-  status = 301
-
-[[redirects]]
-  from = "https://recomedicales.fr/recommandations/remboursement-psychologue-monpsy/"
-  to = "https://recomedicales.fr/recommandations/remboursement-psychologue-monsoutienpsy/"
-  status = 301
-
-[[redirects]]
-  from = "https://recomedicales.fr/recommandations/monkeypox/"
-  to = "https://recomedicales.fr/recommandations/mpox/"
-  status = 301
-
-[[redirects]]
-  from = "https://recomedicales.fr/recommandations/infections-claustridium-difficile/"
-  to = "https://recomedicales.fr/recommandations/infections-clostridium-difficile/"
-  status = 301
-
-[[redirects]]
-  from = "https://recomedicales.fr/scores/ehra/"
-  to = "https://recomedicales.fr/scores/mehra/"
-  status = 301
-
-[[redirects]]
-  from = "https://recomedicales.fr/scores/score-risque-tvp/"
-  to = "https://recomedicales.fr/scores/score-wells-constans/"
-  status = 301
-
-[[redirects]]
-  from = "https://recomedicales.fr/recommandations/perfusions-domicile/"
-  to = "https://recomedicales.fr/recommandations/perfusions-domicile-perfadom/"
-  status = 301
-
-[[redirects]]
   from = "https://recomedicales.fr/js/orama.min.89124ac3b676dfbcd31d78190ea53aecfdf5cf4eb7f8436a919e455820a07c7ff74976d685f49ad803599de5be59a13e.mjs"
   to = "https://recomedicales.fr/clear/"
   status = 301

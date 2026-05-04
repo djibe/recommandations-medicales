@@ -1,5 +1,6 @@
 +++
 id = "019884c4-5696-79a8-9952-794bb4fd4133"
+aliases = ["perfusions-domicile"]
 title = "Perfusions à domicile (dispositif PERFADOM): prescriptions de référence"
 titleSeo = "Perfusions à domicile PERFADOM"
 prefix = "les "

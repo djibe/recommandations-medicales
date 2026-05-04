@@ -1,5 +1,6 @@
 +++
 id = "01956ca2-40b0-73d7-b454-77250548bb05"
+aliases = ["infections-claustridium-difficile"]
 title = "Infection à Clostridioides difficile (*ex Clostridium difficile*)"
 titleSeo = "Infection Clostridium difficile"
 prefix = "l'"

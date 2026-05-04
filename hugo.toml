@@ -2,6 +2,7 @@ baseURL = "https://recomedicales.fr/"
 copyright = "© 2019-2026 par Jean-Baptiste FRON sous license CC BY-NC 4.0"
 DefaultContentLanguage = "fr"
 disableHugoGeneratorInject = false
+disableAliases = true
 enableInlineShortcodes = true
 enableRobotsTXT = true
 locale = "fr"
@@ -37,16 +38,16 @@ title = "RecoMédicales"
   icon = "/android-chrome-512x512.png"
   SidebarRecentLimit = 5
 
-# todo
-[related.indices]
-  name = "specialites"
+[mediaTypes]
+  [mediaTypes."text/redirects"]
+  delimiter = ""
 
 # https://gohugo.io/templates/output-formats/#output-formats-for-pages
 # search https://learn.netlify.app/en/basics/configuration/
 # CSV for section
 [outputs]
   page = ["HTML"]
-  home = ["HTML", "RSS", "WebAppManifest", "WORKER"]
+  home = ["HTML", "RSS", "WebAppManifest", "WORKER", "REDIRECTS"]
   section = ["HTML", "JSON"]
   taxonomy = ["HTML"]
   term = ["HTML"]
@@ -62,6 +63,12 @@ title = "RecoMédicales"
   baseName = "recommandations"
   isPlainText = true
   notAlternative = true
+
+  [outputFormats.REDIRECTS]
+  baseName = "_redirects"
+  isPlainText = true
+  mediaType = "text/redirects"
+  root = true
 
 # Dependencies
 [params.cdn]
