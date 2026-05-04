@@ -1,8 +1,9 @@
 +++
 id = "0190e8c8-cdaf-7111-b4aa-0571cd3c0570"
-title = "Mpox (Monkeypox ou Variole du singe)"
+title = "Variole B (ex Mpox, Monkeypox ou Variole du singe)"
 prefix = "le "
-titleSeo = "Mpox (Monkeypox ou Variole du singe)"
+titleSeo = "Variole B (Mpox, Monkeypox, Variole du singe)"
+aliases = ["monkeypox", "mpox/"]
 noindex = true
 description = "Recommandations pour la prise en charge du Monkeypox. Personnes à vacciner contre la variole du singe, traitement avec isolement, déclaration obligatoire"
 synonyms = []
