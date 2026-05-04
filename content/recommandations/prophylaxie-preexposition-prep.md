@@ -33,7 +33,7 @@ todo = "flowchart; gitgraph: Continu femme, Schéma continu homme, Schéma disco
 - Prescription initiale de l'emtricitabine/tenofovir disoproxil 200/245 mg (Truvada®, certains gén) limitée à 1 mois avec sérologie VIH de moins de 15 jours, puis tous les 3 à 6 mois
 - Schéma continu
   - Initiation chez l'homme: 2 cp en 1 prise de 2 à 24h avant le rapport à risque
-  - Initiation chez la femme femme: délai de 7 jours avant le 1^er^ rapport sexuel à protéger
+  - Initiation chez la femme: délai de 7 jours avant le 1^er^ rapport sexuel à protéger
   - ensuite Truvada® 1 cp/j à heure fixe pendant le repas
 - ou **schéma discontinu** uniquement en l'absence de VHB chez les HSH (ou transgenre avec sexe anal uniquement):
   Truvada® 2 cp en 1 prise 2 à 24 heures avant le rapport à protéger, puis 1 cp 24 et 48h après la double prise

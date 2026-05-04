@@ -245,11 +245,11 @@ La prise en charge de l'hyperkaliémie subaiguë ou chronique comprend la réév
 
 - Personnes à risque: suivi régulier de la kaliémie  
   Maladie rénale, insuffisance cardiaque, diabète (≥ 2-4/an).
-- Adaptation des médicaments
+- Adaptation des médicaments:
   - IEC/ARA2: éducation sur le saut de prise durant les situations de déshydratation, essayer de maintenir la dose maximale.  
     L'hyperkaliémie est minorée avec l'association au sacubitril (valsartan/sacubitril).
   - Spironolactone  
-    La finérénone provoque moins d'hyperkaliémie (non disponible).
+    La finérénone provoque moins d'hyperkaliémie (Kerendia® en [AAC](https://ansm.sante.fr/tableau-acces-derogatoire/kerendia)).
   - Éviter les AINS
   - Favoriser les diurétiques thiazidique (HTA), de l'anse (insuffisance cardiaque)
   - Selon le terrain (diabète, insuffisance rénale ou cardiaque): {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}

@@ -310,6 +310,7 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%sources%}}
 
+- [Davies S. Effectiveness of interventions to increase vaccine uptake: component network meta-analysis. BMJ. 2026.](https://www.bmj.com/content/393/bmj-2025-087578)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Stratégie de vaccination contre les infections invasives à pneumocoques : Place du vaccin CAPVAXIVE chez l'adulte. 2025.](https://www.has-sante.fr/jcms/p_3634637/fr/strategie-de-vaccination-contre-les-infections-invasives-a-pneumocoques-place-du-vaccin-capvaxive-chez-l-adulte)
 - [HAS. Avis n° 2025.0040/AC/SESPEV du 17 juillet 2025 du collège de la Haute Autorité de santé relatif à l'ajout des vaccins contre les maladies méningococciques invasives des sérogroupes A, C, W, Y, et B à l'arrêté fixant la liste des vaccins mentionnée à l'article L. 5122-6 du code de la santé publique. 17/07/2025. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2025-07/avis_n2025.0040_ac_sespev_17_juillet_2025_college_has_a_lajout_des_vaccins_contre_les_maladies_meningococciques_a_c_w_y_b_la.pdf)

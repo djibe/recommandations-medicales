@@ -84,45 +84,7 @@ Risque démultiplié de forme grave de Covid-19 si polypathologique. Doit tenir 
 
 ### Paxlovid
 
-- Plateforme d'aide à la prescription: {{<phone>}}0800 130 000{{</phone>}}
-- [Ameli: Prescription du Paxlovid en ville](https://www.ameli.fr/sites/default/files/Documents/Prescription-Paxlovid-en-ville.pdf)
-- [Document HAS officiel (RCP)](https://www.has-sante.fr/jcms/p_3311133/fr/paxlovid-pf-07321332/ritonavir)
-
-**Administrer dès que possible.**
-
-> Le paxlovid ne semble plus efficace dans une population vaccinée. (*[Mafi et al 2025](https://jamanetwork.com/journals/jama/fullarticle/2830683)*)
-
-#### Indications au Paxlovid
-
-Toutes les conditions doivent être remplies pour la prescription de Paxlovid:
-
-1. Personne à (très) haut risque de {{< modal-btn modal-grave >}}forme grave{{< /modal-btn >}} ou **+65 ans**  
-  Quels que soient leur âge et leur statut vaccinal.
-2. Test antigénique ou RT-PCR positif
-3. Pas d'oxygénothérapie nécessaire
-4. Début des symptômes depuis ≤ 5 jours (idéalement)
-5. [Absence de contre-indication au traitement](https://www.ameli.fr/sites/default/files/Documents/Prescription-Paxlovid-en-ville.pdf)
-    - Grossesse
-    - Insuffisance hépatique sévère (Child C)
-    - Insuffisance rénale sévère (clairance < 30 mL/min)
-    - Médicaments contre-indiqués liés au CYP3A (voir ci-dessous item 6)
-6. [Contrôle obligatoire des interactions du Paxlovid](https://sfpt-fr.org/recospaxlovid) (alternative: [Liverpool](https://www.covid19-druginteractions.org/checker))
-
-> En cas de contre-indication au Paxlovid, adresser à l'hôpital pour administration d'Evusheld (*DGS Urgent 2022-66*)
-
-### Prescrire le Paxlovid
-
-{{%info%}}
-
-#### Ordonnance de paxlovid
-
-Paxlovid®: Nirmatrelvir 150 mg 2 cp + Ritonavir 100 mg 1 cp per os toutes les 12h pendant 5 jours
-{.alert .alert-info}
-
-*Préciser la fonction rénale sur l'ordonnance.*
-
-Possibilité de préciser une **dispensation conditionnelle** en cas de test Covid positif dans les 5 jours suivant la prescription.
-{{%/info%}}
+> Le paxlovid ne semble plus efficace dans une population vaccinée. (*[Mafi et al 2025](https://jamanetwork.com/journals/jama/fullarticle/2830683)*, *[Butler et al 2026](https://www.nejm.org/doi/full/10.1056/NEJMoa2502457)*)
 
 {{% /collapse %}}
 {{%collapse "Vaccination contre le Covid-19" %}}

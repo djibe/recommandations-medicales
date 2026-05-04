@@ -71,7 +71,7 @@ Principaux facteurs de risques de maladie cœliaque:
 - 70 % sont diagnostiqués après l'âge de 20 ans.  
   La maladie survient le plus souvent de 6 mois à 2 ans puis de 20 à 40 ans.
 - Risque d'un proche au premier degré d'être atteint: 5-10 % (70 % chez les jumeaux monozygotes)
-- 2-3 % des adultes avec MC ont un déficit en IgA, jusqu'à 10 % chez les enfants
+- 2-3 % des adultes avec une maladie cœliaque ont un déficit en IgA (jusqu'à 10 % chez les enfants)
 
 ### Abréviations
 
@@ -433,7 +433,7 @@ Un remboursement par l'[Assurance Maladie](https://www.ameli.fr/assure/rembourse
 
 {{< mermaid title="Prise en charge de la suspicion de maladie cœliaque chez l'adulte. Dr JB Fron d'après *ESsCD 2025*" >}}
 graph TB
-  symptomatique["<b>Adulte avec symptômes suspects<br>de maladie cœliaque</b><br>—<br>- <br>- Digestif: diarrhée, constipation,<br>perte de poids, dyspepsie ...<br>- Anémie, carence martiale<br>- Pathologies digestives<br>- Neuropathie<br>- Aphtes<br>- Aménorrhée,<br>irritabilité,<br>fatigue chronique,<br>anomalies de l'émail<br>- Auto-immunité<br>- ATCD 1er degré<br>atteint de MC<br>- ..."] --> sérologie("<b>Sérologie cœliaque</b><br>—<br>- IgA anti-transglutaminase<br>= <b>anti-TG2</b><br>- IgA totales<br>- Consommation de gluten")
+  symptomatique["<b>Adulte avec symptômes suspects<br>de maladie cœliaque (MC)</b><br>—<br>- <br>- Digestif: diarrhée, constipation,<br>perte de poids, dyspepsie ...<br>- Anémie, carence martiale<br>- Pathologies digestives<br>- Neuropathie<br>- Aphtes<br>- Aménorrhée,<br>irritabilité,<br>fatigue chronique,<br>anomalies de l'émail<br>- Auto-immunité<br>- ATCD 1er degré<br>atteint de MC<br>- ..."] --> sérologie("<b>Sérologie cœliaque</b><br>—<br>- IgA anti-transglutaminase<br>= <b>anti-TG2</b><br>- IgA totales<br>- Consommation de gluten")
     sérologie --> élevée(anti-TG2 ≥ 10N) -- "&lt; 45 ans" --> confirmation(2e dosage) -- "anti-TG2 ≥ 10N" --> MC(Maladie cœliaque) --> gastro(Gastro-entérologue)
         confirmation -- "&lt; 10N" --> EOGD(EOGD) --> gastro
       élevée -- "+45 ans"--> EOGD

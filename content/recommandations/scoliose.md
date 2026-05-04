@@ -206,6 +206,7 @@ Informations sur la scoliose:
 
 ### Bibliographie en attente
 
-[International Society on Scoliosis Orthopaedic and Rehabilitation Treatment (SOSORT)](https://www.sosort.org)
+- [Kim D, et al. Identifying and evaluating adolescent idiopathic scoliosis. BMJ. 2026.](https://www.bmj.com/content/393/bmj-2025-087419) (payant)
+- [International Society on Scoliosis Orthopaedic and Rehabilitation Treatment (SOSORT)](https://www.sosort.org)
 
 {{%/sources%}}
