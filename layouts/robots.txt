@@ -16,6 +16,7 @@ User-agent: Applebot
 User-agent: Applebot-Extended
 User-agent: archive.org_bot
 User-agent: Archive-It
+User-agent: ArenaUnfurlBot
 User-agent: Arquivo-web-crawler
 User-agent: atlassian-bot
 User-agent: Authory
@@ -78,6 +79,7 @@ User-agent: GoogleOther-Video
 User-agent: GPTBot
 User-agent: HCP Analyzer
 User-agent: heritrix
+User-agent: HubSeedsBot
 User-agent: ia_archiver
 User-agent: ia_archiver-web.archive.org
 User-agent: iaudit
