@@ -230,8 +230,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - {{< references/calendrier-vaccinal >}}
+- [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [Vaccination Info Service. Patient asplénique ou hyposplénique. 11/12/2024.](https://professionnels.vaccination-info-service.fr/Recommandations-vaccinales-specifiques/Patient-immunodeprime/Patient-asplenique-ou-hyposplenique)
 - [Ladhani SN, et al. Prevention and treatment of infection in patients with absent or hypofunctional spleen: A British Society for Haematology guideline. Br J Haematol. 2024.](https://onlinelibrary.wiley.com/doi/10.1111/bjh.19361)
 - Collège des enseignants d'hématologie. Splénomégalie. Item 275. 2021.

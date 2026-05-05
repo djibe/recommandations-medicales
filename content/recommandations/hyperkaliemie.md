@@ -255,7 +255,8 @@ La prise en charge de l'hyperkaliémie subaiguë ou chronique comprend la réév
   - Selon le terrain (diabète, insuffisance rénale ou cardiaque): {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}
 - Réduire les apports en potassium (fruits, KCl), avis diététique
 - Chélateurs du potassium:
-  - ==Sodium polystyrene sulfonate== 1 cuiller-mesure x 1-4/j ([Kayexalate](https://base-donnees-publique.medicaments.gouv.fr/medicament/67499717/extrait#tab-rcp) ou autre; 24 € les 400g)
+  - ==Polystyrène sulfonate de sodium== 1 cuillère-mesure x 1-4/j ([Kayexalate](https://base-donnees-publique.medicaments.gouv.fr/medicament/67499717/extrait#tab-rcp) ou générique; 21,46 € les 30 doses)
+  - Polystyrène sulfonate de  1 cuillère-mesure x 1-3/j ([Resikali](https://base-donnees-publique.medicaments.gouv.fr/medicament/63815331/extrait#tab-rcp); 24,81 € les 25 doses)
   - voire patiromer 8,4 - 25,2 g x 1/j ([Veltassa](https://base-donnees-publique.medicaments.gouv.fr/medicament/63705995/extrait#tab-rcp-et-notice); 190 € les 30 sachets)
   - ou cyclosilicate de zirconium sodique ([Lokelma](https://base-donnees-publique.medicaments.gouv.fr/medicament/64247885/extrait#tab-rcp-et-notice); 189 € les 30 sachets)
 - Si hyporéninisme hypoaldostéronisme: fludrocortisone, diurétique de l'anse furosémide

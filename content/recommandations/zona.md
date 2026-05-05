@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-14T19:48:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2025-02-06"
+lastmod = "2026-05-05"
 specialites = ["dermatologie", "infectiologie", "ophtalmologie"]
 annees = "2023"
 sources = ["CMIT", "SPILF", "MinSanté"]
@@ -18,13 +18,14 @@ icd10 = ["B02", "B02.9"]
 image = true
 imageSrc = "Zona thoracique. Gzzz, CC BY-SA 4.0"
 rank = "ok"
+writing = "ok"
 todo = "flowchart, zona en pédiatrie"
 +++
 
 {{%article-summary%}}
 
 - Le zona est une réactivation du virus varicelle-zona (VZV) au sein d'un ganglion sensitif, donnant une éruption vésiculeuse sur le métamère correspondant
-- Les symptômes sont principalement des douleurs localisées avec paresthésies, brûlures et troubles sensitifs du dermatome
+- Les symptômes du zona sont surtout des douleurs localisées avec paresthésies, brûlures et troubles sensitifs du dermatome
 - La prise en charge du zona est simplement symptomatique, sauf indication au traitement antiviral valaciclovir 1 g 3 fois par jour pendant 7 jours avec hydratation si:  
   zona ophtalmique, +50 ans ou facteurs prédictifs de séquelles (douleurs pré-éruptives, douleurs intenses en phase aiguë, lésions cutanées graves)
 - Critères d'hospitalisation du zona en urgence: immunodépression, atteinte organique ou [paralysie faciale zostérienne]({{% relref "paralysie-faciale-idiopathique.md" %}})
@@ -147,11 +148,9 @@ Ulcérations pseudo-membraneuses et vésicules de l'hémilangue.
 > Shingrix 2 injections IM espacées de 2 mois.
 {.alert .alert-info}
 
-La vaccination zona est recommandée chez les **+18 ans avec déficit immunitaire** et **+65** immunocompétents (y compris en cas d'antécédents de zona, de Zostavax de +1 an) avec 2 injections à M0-M2.
+La vaccination zona est recommandée chez les **+18 ans avec déficit immunitaire ou une immunodépression** et les **+65** immunocompétents (y compris en cas d'antécédents de zona, de Zostavax de +1 an) avec 2 injections à M0-M2.
 
 Le *GOLD 2022* propose aussi de vacciner en cas de [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}).
-
-**Contre-indication:** hypersensibilité.
 
 En cas de zona, décaler l'injection: << La vaccination doit être différée en cas de maladie aiguë avec fièvre. >> (*Vaccination Info Service*)
 
@@ -268,9 +267,9 @@ Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{% rel
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/calendrier-vaccinal >}}
 - [CNGE. Le vaccin Zona Shingrix® chez la personne âgée immunocompétente ≥ 70 ans. 2025. (PDF)](https://www.cnge.fr/wp-content/uploads/2025/06/250609-Vaccin_Zona.pdf)
 - [Vaccination Info Service. Zona. 29/04/2025.](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Zona)
-- {{< references/calendrier-vaccinal >}}
 - [de Oliveira Gomes J, et al. Vaccines for preventing herpes zoster in older adults. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008858.pub5/full/fr)
 - [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-168.pdf)
 - [Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 169. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-169-%E2%80%94-Infection-a-VIH-manifestations-cutaneo-muqueuses-de-la-primo-infection-a-VIH_CompressPdf.pdf)
