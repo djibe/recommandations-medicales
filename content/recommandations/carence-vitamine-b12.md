@@ -138,12 +138,12 @@ Diagnostic biologique de la carence en vitamine B12:
 
 ### Bilan complémentaire au diagnostic
 
-En l'absence de facteur de risque évident de carence (régime, chirurgie digestive): ==anticorps anti-facteur intrinsèque== (ACFI, sensibilité 70%) et **avis spécialisé** gastro-entérologique pour endoscopie œsogastroduodénale (**EOGD** ou gastroscopie: gastrite, *[Helicobacter pylori]({{% relref "helicobacter-pylori.md" %}})*).
+En l'absence de facteur de risque évident de carence (régime, chirurgie digestive): ==anticorps anti-facteur intrinsèque== (ACFI, sensibilité 70 %) et **avis spécialisé** gastro-entérologique pour endoscopie œsogastroduodénale (**EOGD** ou gastroscopie pour recherche de gastrite et d'*[Helicobacter pylori]({{% relref "helicobacter-pylori.md" %}})*).
 Un test négatif n'infirme pas le diagnostic.
 
 Bilan complémentaire en cas de déficit en vitamine B12:
 
-- En l'absence de cause évidente: anticorps anti-facteur intrinsèque et avis gastro-entérologique
+- En l'absence de cause évidente: anticorps anti-facteur intrinsèque et avis gastro-entérologique (+ sérologie Helicobacter selon *GEFH 2021*)
 - Si dosage de l'homocystéine: folates
 - ± Ferritine, folates
 - Sérologie cœliaque quand aucune cause retrouvée

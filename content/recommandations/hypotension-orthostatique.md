@@ -168,6 +168,10 @@ graph TB
 - {{< references/esc-hta >}}
 - [Pathak et al; SFC. Prise en charge de l'hypotension orthostatique. Consensus d'experts de la Société Française d'Hypertension Artérielle (SFHTA), Société Française de Gériatrie et Gérontologie (SFGG), European Federation of Autonomic Societies (EFAS). 2014. (PDF)](https://sfhta.eu/wp-content/uploads/2012/07/Consensus_d_experts_decembre_2014_SFHTA.pdf)
 
+### Bibliographie en attente
+
+- [Moloney D, et al. Management of Orthostatic Hypotension. JAMA Intern Med. 2026.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2847532) (payant)
+
 {{%/sources%}}
 {{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}
 

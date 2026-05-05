@@ -26,7 +26,7 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
 > Aucune donnée n'est transmise (comme partout ailleurs sur **RecoMédicales**)
 
 > [!WARNING]
-> Chaque ligne du contrat peut être directement modifiée dans le texte.
+> Chaque ligne du contrat peut être directement modifiée dans le texte. Recharger la page pour remplir les champs déjà complétés.
 
 <form class="card card-body shadow-none border flex-wrap mb-3" id="contract-generator" onsubmit="if (this.checkValidity()) { printPageArea('contract-generated') }">
 <fieldset>

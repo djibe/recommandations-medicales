@@ -133,12 +133,6 @@ Le scanner abdominal injecté a des indications limitées au cours de la pancré
 
 Le scanner est particulièrement performant pour le diagnostic de pancréatite aiguë (Se et Spe > 90%). L'IRM est réservée aux contre-indications au scanner.
 
-### Sérologie cœliaque
-
-La recherche de [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) est recommandée en cas de pancréatite chronique inexpliquée (*ESsCD*):
-
-IgA totales, IgA anti-transglutaminase.
-
 {{% /collapse %}}
 {{%collapse "Traitement de la pancréatite aiguë" %}}
 

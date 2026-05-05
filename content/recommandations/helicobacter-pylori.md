@@ -18,8 +18,9 @@ english = ["Helicobacter pylori"]
 sctid = "80774000"
 icd10 = ["K29.7", "B98.0"]
 image = true
-imageSrc = "*Helicobacter pylori* implantés sur la muqueuse gastrique, CDC/Dr Patricia Fields, Dr Collette Fitzgerald (PHIL 5715), 2004"
+imageSrc = "Bactéries *Helicobacter pylori* implantés sur la muqueuse gastrique. CDC/Dr Patricia Fields, Dr Collette Fitzgerald (PHIL 5715), 2004"
 rank = "ok"
+writing = "ok"
 flowchart = true
 todo = "reco enfant 2022, comment diag quand rosacée, dépistage en AINS long cours Maastricht III"
 modele = true
@@ -27,12 +28,15 @@ modele = true
 
 {{%article-summary%}}
 
-- Dépister l'*Helicobacter pylori* par sérologie pour tout antécédent d'ulcère sans confirmation d'éradication
-- Signes d'alarmes évocateurs de [cancer de l'estomac]({{% relref "cancer-estomac.md" %}}) en cas de symptômes digestifs hauts: dysphagie, amaigrissement, anémie. Une fibroscopie gastrique est nécessaire
-- Privilégier une antibiothérapie adaptée à l'antibiogramme d'*Helicobacter pylori* (après endoscopie)
-- En l'absence d'antibiogramme, traitement probabiliste de première intention de l'*Helicobacter pylori* pendant 14 jours: quadrithérapie associant amoxicilline, clarithromycine, métronidazole et IPP pendant 14 jours (voir le bouton *Modèle d'ordonnance*)
-- {{< modal-btn modal-test-respi >}}Contrôle de l'éradication{{< /modal-btn >}} systématique avec le test à l'urée marquée à 1 mois
+- La bactérie *Helicobacter pylori* (*H. pylori*) a un tropisme gastrique et se complique d'une gastrite chronique, d'ulcères gastro-duodénaux et serait responsable de 80 % des cancers de l'estomac
+- Ainsi, pour tout antécédent d'ulcère sans confirmation d'éradication, dépister l'*Helicobacter pylori* par sérologie
+- En cas de symptômes digestifs hauts, rechercher des signes d'alarmes: dysphagie, amaigrissement, anémie. Une fibroscopie gastrique est nécessaire
+- La prise en charge recommandée d'une infection à *Helicobacter pylori* est une antibiothérapie adaptée à l'antibiogramme après endoscopie œso-gastro-duodénale (EOGD)
+- En l'absence d'antibiogramme, le traitement probabiliste de première intention est une quadrithérapie associant amoxicilline, clarithromycine, métronidazole et un IPP pendant 14 jours (voir le bouton *Ordonnance*)
+- {{< modal-btn modal-test-respi >}}Contrôler l'éradication{{< /modal-btn >}} à 1 mois de façon systématique avec le test à l'urée marquée
 - Reporter le traitement d'éradication d'*Helicobacter pylori* en cas de grossesse ou d'allaitement
+
+Chapitre lié: [cancer de l'estomac]({{% relref "cancer-estomac.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Comment traiter Helicobacter pylori ?" "show" %}}
@@ -90,7 +94,8 @@ EOGD souhaitable (sauf si Quinolone-S et non utilisées).
     </div>
     <div class="collapse" id="hp-2">
 
-- **Traitement probabiliste**
+**Traitement probabiliste:**
+
 - Amoxicilline 50 mg/kg/j (en 3-4 prises, max 6 g/j)
 - Clarithromycine 500 mg x 2/j
 - Métronidazole 500 mg x 2/j
@@ -143,7 +148,7 @@ Pylera® 3 gél x 4/j + oméprazole 20 mg x 2/j
 
 *Helicobacter pylori*
 : La bactérie *Helicobacter pylori* (*H. pylori*) a un tropisme gastrique responsable d'une *gastrite chronique*, compliquée d'*ulcères gastro-duodénaux* et responsable de 80 % des *[cancers de l'estomac]({{% relref "cancer-estomac.md" %}})* (adénocarcinomes et lymphomes du MALT).
-: Contamination dans l'enfance par transmission familiale {{%class%}}(oro-orale ou féco-orale){{%/class%}}.  
+: La contamination a lieu dans l'enfance par transmission familiale {{%class%}}(oro-orale ou féco-orale){{%/class%}}.  
 Son éradication prévient la survenue de ces complications.
 
 ### Abréviations
@@ -173,25 +178,30 @@ SPILF
 : Société de pathologie infectieuse de langue française
 {.dl-inline}
 
-### Épidémiologie de l'*Helicobacter pylori* en France
+### Épidémiologie de l'infection à *Helicobacter pylori* en France
 
 La France est un pays de faible incidence d'*Helicobacter pylori*:
 
 - 15 à 30 % de la population serait infectée par l'*Helicobacter*  
-  < 20 % avant 30 ans et > 50 % après 50 ans.
+  < 20 % avant 30 ans et +50 % après 50 ans.
 - 10 % développent un ulcère et 1 % un [cancer de l'estomac]({{% relref "cancer-estomac.md" %}}).
 
 #### Antibiorésistance d'*H. pylori* en France en 2020
 
-- Amoxicilline 0,4%
-- Clarithromycine 21%
-- Lévofloxacine 18%
-- Tétracycline 0%
-- Rifampicine 1%
-- Métronidazole 59%
+| Antibiotique | Résistance (%) |
+| ------------ | :------------: |
+| Amoxicilline | 0,4 |
+| Clarithromycine | 21 |
+| Lévofloxacine | 18 |
+| Métronidazole | 59 |
+| Rifampicine | 1 |
+| Tétracycline | 0 |
+{caption="Taux de résistance d'*Helicobacter pylori* par antibiotique en France en 2020."}
 
 {{% /collapse %}}
-{{%collapse "Facteurs de risque et Indications à la recherche de H. pylori" %}}
+{{%collapse "Indications à la recherche de H. pylori" %}}
+
+Facteurs de risque et indications à la recherche de *H. pylori*:
 
 - Ulcère ou situation à risque d'ulcère
   - Ulcère gastroduodénal ou antécédent d'ulcère
@@ -205,7 +215,6 @@ La France est un pays de faible incidence d'*Helicobacter pylori*:
   - Traitement par IPP ≥ 6 mois
   - Avant chirurgie bariatrique touchant l'estomac
 - Autres
-  - Toute endoscopie gastrique doit s'accompagner de biopsies
   - [Anémie ferriprive]({{% relref "anemie-ferriprive.md" %}}) sans cause retrouvée ou résistante à la supplémentation
   - Carence en [vitamine B12]({{% relref "carence-vitamine-b12.md" %}}) sans cause retrouvée
   - Purpura thrombopénique immunologique de l'adulte
@@ -218,30 +227,31 @@ La France est un pays de faible incidence d'*Helicobacter pylori*:
 >
 ### Sérologie *Helicobacter pylori*
 
-Indications à la sérologie (test diagnostique) chez le sujet asymptomatique avec ≥ 1 parmi:
+Indications à la sérologie (test diagnostique) chez le sujet asymptomatique avec ≥ 1 critère parmi:
 
-- < 40-45 ans avec antécédent au 1^er^ degré de [cancer gastrique]({{% relref "cancer-estomac.md" %}})
+- Avant 40-45 ans avec antécédent au 1^er^ degré de [cancer gastrique]({{% relref "cancer-estomac.md" %}})
 - Antécédent d'ulcère gastro-duodénal sans preuve d'éradication d'*HP*
 - Purpura thrombopénique immunologique
 
 > -- *HAS 2017*
 
-**NB.** Aucun intérêt de la sérologie *HP* pour le contrôle de la guérison.
+> [!INFO]
+> Aucun intérêt de la sérologie *HP* pour le contrôle de la guérison.
 
 ### Endoscopie œso-gastro-duodénale
 
-La gastroscopie doit être **systématique en cas de symptômes ulcéreux, en cas de sérologie positive ou douteuse et pour tous les autres patients à risque** pour analyse anatomopathologique, mise en culture avec recherche d'*H. pylori* et antibiogramme.
+La gastroscopie doit être **systématique en cas de symptômes ulcéreux, de sérologie positive ou douteuse et pour tous les autres patients à risque** pour analyse anatomopathologique, mise en culture avec recherche d'*H. pylori* et antibiogramme.
 
 Indications à l'endoscopie en première intention:
 
 - **Patient symptomatique**
   - Syndrome ulcéreux
-  - [Dyspepsie]({{% relref "dyspepsie.md" %}}) chez un patient de plus de 40-45 ans
-  - Signe d'alarme  
+  - [Dyspepsie]({{% relref "dyspepsie.md" %}}) après 40-45 ans
+  - **Signe d'alarme**  
     [Dysphagie]({{% relref "dysphagie.md" %}}), amaigrissement, anémie.
   - Anémie ferriprive ou carence en vitamine B12 sans autre cause
 - Patient avec facteurs de risque de cancer gastrique
-  - &gt; 40-45 ans avec antécédent au 1^er^ degré de cancer gastrique
+  - +40-45 ans avec antécédent au 1^er^ degré de cancer gastrique
   - Autres facteurs de risque (Voir plus haut *Facteurs de risque ...*)
 - Lymphome gastrique du MALT
 - [Chirurgie bariatrique]({{% relref "obesite-adulte.md" %}}) prévue
@@ -252,7 +262,7 @@ Indications à l'endoscopie en première intention:
 {{%collapse "Traitement guidé de Helicobacter pylori avec antibiogramme" %}}
 
 > [!WARNING]
-> En cas de grossesse ou d'allaitement, il faut différer le traitement d'HP.
+> En cas de grossesse ou d'allaitement, il faut différer le traitement de l'*Helicobacter pylori*.
 
 ### Traitement de première ligne de *H. pylori*
 
@@ -290,7 +300,7 @@ Quadrithérapie avec *bismuth* pendant 10 jours:
 
 - Pylera®: 3 gélules après les repas du matin, du midi, du soir et au coucher, avec un grand verre d'eau
 - Oméprazole 20 mg matin et soir 15 minutes avant le repas  
-  {{%class%}}Seul IPP avec l'AMM pour le bismuth.{{%/class%}}
+  {{%class%}}Seul IPP avec l'AMM avec le bismuth.{{%/class%}}
 
 Arrêt immédiat du traitement et avis médical en cas de signes neurologiques.
 {.alert .alert-warning}
@@ -379,9 +389,9 @@ Demander un [avis au GEFH](http://www.helicobacter.fr/acces-aux-professionnels-d
 
 ### Équivalences des IPP
 
-- IPP: simple dose matin et soir 15 minutes avant le repas (RCP)
+- IPP: simple dose, matin et soir, 15 minutes avant le repas (RCP)
 - Ésoméprazole, oméprazole ou rabéprazole 20 mg
-- ou Lanssopraole 30 mg
+- ou lansoprazole 30 mg
 - ou pantoprazole 20 mg
 - Bismuth (Pylera): l'oméprazole 20 mg x 2/j est le seul IPP ayant l'AMM
 
@@ -392,20 +402,20 @@ Demander un [avis au GEFH](http://www.helicobacter.fr/acces-aux-professionnels-d
 - Clarithromycine  
   Diarrhées, interactions.
 - Lévofloxacine  
-  Diarrhées, tendinopathies, troubles neuropsy.
+  Diarrhées, tendinopathies, troubles neuropsychologiques.
 - Métronidazole  
-  Effet antabuse (jusqu'à 3 jours après), troubles digestifs, troubles neuropsy (vertiges, troubles de la marche, confusion, dépression).
+  Effet antabuse (jusqu'à 3 jours après), troubles digestifs, troubles neuropsychologiques (vertiges, troubles de la marche, confusion, dépression).
 
 {{% /collapse %}}
-{{%collapse "Contrôle de l'éradication d'Helicobacter pylori" %}}
+{{%collapse "Suivi" %}}
+
+Le contrôle de l'éradication d'*Helicobacter pylori* est systématique.
 
 ### Test respiratoire à l'urée marquée
 
 {{%info%}}
 {{< traitements/helicobacter-test-uree >}}
 {{%/info%}}
-
-> **Le contrôle de l'éradication de *H. pylori* doit être systématique.**
 
 Il est réalisé à jeun au laboratoire avec un test acheté sur ordonnance en pharmacie.
 
@@ -414,7 +424,7 @@ Il est réalisé à jeun au laboratoire avec un test acheté sur ordonnance en p
 La recherche de l'**antigène fécal** d'*H. pylori* est une alternative au test respiratoire pour le contrôle de la guérison mais n'est pas remboursé (~ 50€).
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir en présence de Helicobacter pylori" "show" %}}
+{{%collapse "Prise en charge d'une infection à Helicobacter pylori" "show" %}}
 
 ### Traitement probabiliste en l'absence de l'antibiogramme de *H. pylori*
 
@@ -476,8 +486,8 @@ graph TB
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-- [Fiche info patient HAS et CNPHGE. La recherche de Helicobacter pylori (2019, PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2019-03/helicobacter_recherche.pdf)
-- [Questions-réponses HAS. Helicobacter pylori : recherche et traitement](https://www.has-sante.fr/jcms/c_2911396/fr/helicobacter-pylori-recherche-et-traitement)
+- [Guide info patient HAS et CNPHGE. La recherche de Helicobacter pylori (2019, PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2019-03/helicobacter_recherche.pdf)
+- [Guide questions-réponses HAS. Helicobacter pylori : recherche et traitement](https://www.has-sante.fr/jcms/c_2911396/fr/helicobacter-pylori-recherche-et-traitement)
 
 S'assurer de la bonne compréhension de chaque étape pour favoriser la participation au traitement.
 
@@ -487,8 +497,8 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 - Les antibiotiques causent souvent des problèmes digestifs (nausées, vomissements, diarrhées), vertiges et maux de tête. Mais leur arrêt est rarement nécessaire.
 - Montrer l'ordonnance avec les médicaments, leur posologie et les effets indésirables.
   - Arrêt immédiat du bismuth/Pylera® en signes neurologiques
-  - Métronidazole et Pylera®: pas d'alcool.
-  - Bismuth et levofloxacine: photosensibilité
+  - Métronidazole et Pylera®: pas d'alcool
+  - Bismuth et lévofloxacine: photosensibilité
   - FQ: tendinopathies
 - Nécessité de prendre intégralement le traitement pour éradiquer la bactérie.
 - Contrôle systématique de la guérison avec le test à l'urée compte-tenu des résistances aux antibiotiques en France (1 cas sur 5).
@@ -499,14 +509,11 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 - Dépistage de la famille proche en cas de lésion cancéreuse ou pré-cancéreuse de l'estomac.
 
 {{% /collapse %}}
-{{%collapse "Vidéos de formation" %}}
+{{%sources%}}
 
 {{< youtube id="2AvWB-hTsHs" title="Vidéo d'explications du test respiratoire" >}}
 
 {{< youtube id="QxQudpqfe08" title="Vidéo d'explications sur les précautions pour la réalisation du test respiratoire" >}}
-
-{{% /collapse %}}
-{{%sources%}}
 
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Traitement probabiliste de l'infection par Helicobacter pylori chez l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282793/fr/choix-et-durees-d-antibiotherapies-traitement-probabiliste-de-l-infection-par-helicobacter-pylori-chez-l-adulte)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Traitement guidé de l'infection par Helicobacter pylori chez l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282789/fr/choix-et-durees-d-antibiotherapies-traitement-guide-de-l-infection-par-helicobacter-pylori-chez-l-adulte)

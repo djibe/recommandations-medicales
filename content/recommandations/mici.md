@@ -234,5 +234,6 @@ https://www.fmcgastro.org/texte-postu/postu-2020-paris/diagnostic-initial-suivi-
 {{< youtube id="mYyl0RZ25UU" title="La calprotectine pour les nuls (TutoGastro SNFGE 2023)" >}}
 
 - [Levine A, et al. Dietary Guidance From the International Organization for the Study of Inflammatory Bowel Diseases. Clin Gastroenterol Hepatol. 2020.](https://www.cghjournal.org/article/S1542-3565(20)30185-3/fulltext)
+- [Choden T, et al. Management of Crohn Disease in Adults. JAMA. 2026.](https://jamanetwork.com/journals/jama/article-abstract/2847307)
 - <https://linkinghub.elsevier.com/retrieve/pii/S0016-5085(25)06091-3>
 - ESPEN

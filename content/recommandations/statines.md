@@ -61,7 +61,7 @@ La cible de LDL cholestérol dépend des antécédents cardiovasculaires figuran
 Selon la *ESC 2025*, la cible de LDL est définie selon le [SCORE2]({{% relref "score2.md" %}}) à partir de 40 ans en cas de facteur de risque; et ({{< scores/score2-diabetes >}} en cas de diabète) ...  
 en l'absence de maladie cardiovasculaire, de comorbidité ([diabète](/tags/diabete/), hypercholestérolémie familiale, [maladie rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})) ou de [grossesse]({{% relref "grossesse.md" %}}).
 
-Toutefois la ESC appelle à un **LDL inférieur à 1,16 g/L** pour tous à tous les âges.
+Toutefois la ESC appelle à un **LDL inférieur à 1 g/L** pour tous à tous les âges (*ESC 2021 CVD Table 6*).
 
 {{< scores/score2 >}}
 

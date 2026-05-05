@@ -209,7 +209,7 @@ En cas de cortisolémie à 8 heures douteuse (5 à 18 µg/dL), le **test au Syna
 
 Ce test de stimulation par le tétracosactide IM/IV, analogue synthétique de l'ACTH, est couplé au dosage de la cortisolémie à 30 minutes et/ou 1 heure.
 
-Le test est normal lorsque la cortisolémie dépasse **18 µg/dL** (500 nmol/L). L'absence de réponse signe une une insuffisance surrénale primaire (mais n'élimine pas une insuffisance corticotrope récente ou partielle).
+Le test est normal lorsque la cortisolémie dépasse **18 µg/dL** (500 nmol/L). L'absence de réponse signe une insuffisance surrénale primaire (mais n'élimine pas une insuffisance corticotrope récente ou partielle).
 
 En cas de test normal avec des symptômes évocateurs, le bilan spécialisé doit être complété avec une **hypoglycémie insulinique** (ou un << test à la Métopirone® >> -- métyrapone en DCI -- ou au CRH) pour vérifier la sécrétion d'ACTH.
 

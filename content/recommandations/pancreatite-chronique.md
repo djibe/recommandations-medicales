@@ -159,9 +159,7 @@ En cas de **bilan négatif:** bilan avec [sérologie cœliaque]({{% relref "mala
 
 ### Sérologie cœliaque
 
-La recherche de [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) est recommandée en cas de pancréatite chronique inexpliquée (*ESsCD*):
-
-IgA totales, IgA anti-transglutaminase.
+La recherche de [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) est recommandée en cas de pancréatite chronique inexpliquée (*ESsCD*): **IgA totales et IgA anti-transglutaminase**.
 
 ### Consultation génétique
 

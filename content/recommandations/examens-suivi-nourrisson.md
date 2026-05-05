@@ -87,10 +87,10 @@ Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de s
 
 ### Vaccinations de l'enfant
 
-Pour plus d'informations sur les vaccinations, dont les obligations, voir le chapitre [Vaccination]({{% relref "vaccination.md" %}}).
+Pour plus d'informations sur les vaccinations, dont les obligations vaccinales, lire [Vaccinations]({{% relref "vaccination.md" %}}).
 {.alert .alert-info}
 
-> Temporairement, ==rattrapage des méningites B et ACWY jusqu'à 4 ans révolus== (même si 2 doses de Neisvac).
+> Temporairement, ==rattrapage obligatoire des méningites B et ACWY jusqu'à 4 ans révolus== (même si 2 doses de Neisvac reçues).
 
 |          Âge          | Valences                                                                                  | Spécialités équivalentes                                                                                        |
 | :-------------------: | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |

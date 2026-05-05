@@ -17,6 +17,8 @@ sctid = "40930008"
 icd10 = ["E03", "E03.9", "E06"]
 image = true
 imageSrc = "Échographie montrant un lobe droit hétérogène diffus avec une vascularisation légèrement augmentée affirmant une thyroïdite d'Hashimoto chez une femme de 40 ans. Cas d'Ammar Ashraf, Radiopaedia.org, rID: 157591"
+rank = "false"
+writing = "todo"
 flowchart = true
 todo = "SEO réécrire + TSH élevée > hypothyroidie traitement, grossesse et hypothyroïdie, infertilité et hypothyroïdie"
 +++
@@ -50,44 +52,6 @@ Hypothyroïdie
 - Antécédents personnels ou familiaux auto-immuns (ex. [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}))
 - Irradiation cervicale
 - Trisomie 21 et syndrome de Turner
-
-### Étiologie d'une hypothyroïdie
-
-Pathologies responsables d'hypothyroïdie, le plus souvent par insuffisance thyroïdienne primitive (dite hypothyroïdie primaire ou périphérique):
-
-- **Thyroïdite lymphocytaire chronique de Hashimoto**
-  - Forme hypertrophique prédominante chez la femme
-  - Goitre constant, diffus, volume modéré, ferme, souvent indolore et non compressif, pseudo-nodulaire
-  - Anticorps anti-TPO à taux élevés et aspect échographiques caractéristiques
-  - Aggravation progressive avec diminution du volume de la glande et du taux des anticorps
-  - Favorise la [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (dépister systématiquement) et le [lymphome thyroïdien]({{% relref "lymphomes-non-hodgkiniens.md" %}}) (< 1 % des cas)
-- Thyroïdite chronique
-  - Souvent asymptomatique, euthyroïdie
-  - Taux élevé d'anticorps circulants, parenchyme hétérogène
-  - Surveillance clinique et TSH annuelle
-- Thyroïdite lymphocytaire chronique atrophique
-  - Fréquente, féminine, post-ménopausique ++
-  - Ressemble au Hashimoto mais avec thyroïde de taille normale/diminuée
-  - Anticorps anti-TPO + (75%) et anti-TG + (50%)
-  - Aggravation progressive comparable au Hashimoto
-- Thyroïdite subaiguë de De Quervain ou virale
-  - Dans les suites d'une infection respiratoire: syndrome grippal, inflammatoire avec un goitre ferme et douloureux
-  - Phase de thyrotoxicose puis hypothyroïdie le plus souvent transitoire
-- Thyroïdite transitoire  
-  Thyrotoxicose pauci-symptomatique puis hypothyroïdie séquellaire dans 20 % des cas.
-- Thyroïdite du post-partum
-  - Fréquente (5-10 % des femmes), survient dans l'année, surtout si diabète type 1 ou taux élevés d'anticorps antithyroïdiens au 1er trimestre. Récidive dans 70 % des cas à la grossesse suivante
-  - Souvent transitoire (70 %), contrôle TSH à 1 an
-  - Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le 2e mois post-partum (reprise rapide du poids normal, nervosité)
-- Autres causes
-  - Hypothyroïdie centrale (hypothyroïdie secondaire par **insuffisance thyréotrope**)  
-    T4L basse avec TSH anormalement basse ou normale. Rare (< 5 % des hypothyroïdies), contexte hypophysaire ou cérébral.
-  - Iatrogène  
-    Médicaments ou traitement thyroïdien par iode 131, thyroïdectomie et radiothérapie cervicale.
-  - [Hémochromatose]({{% relref "hemochromatose.md" %}})
-  - Alimentaire  
-    Manioc, cassave.
-  - Polluants
 
 ### Retentissement biologique de l'hypothyroïdie
 
@@ -124,6 +88,47 @@ T4
 T4L
 : T4 libre
 {.dl-inline}
+
+{{% /collapse %}}
+{{% collapse "Étiologie" %}}
+
+### Étiologie d'une hypothyroïdie
+
+Pathologies responsables d'hypothyroïdie, le plus souvent par insuffisance thyroïdienne primitive (dite hypothyroïdie primaire ou périphérique):
+
+- **Thyroïdite lymphocytaire chronique de Hashimoto**
+  - Forme hypertrophique prédominante chez la femme
+  - Goitre constant, diffus, volume modéré, ferme, souvent indolore et non compressif, pseudo-nodulaire
+  - Anticorps anti-TPO à taux élevés et aspect échographiques caractéristiques
+  - Aggravation progressive avec diminution du volume de la glande et du taux des anticorps
+  - Favorise la [maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}) (dépister systématiquement) et le [lymphome thyroïdien]({{% relref "lymphomes-non-hodgkiniens.md" %}}) (< 1 % des cas)
+- Thyroïdite chronique
+  - Souvent asymptomatique, euthyroïdie
+  - Taux élevé d'anticorps circulants, parenchyme hétérogène
+  - Surveillance clinique et TSH annuelle
+- Thyroïdite lymphocytaire chronique atrophique
+  - Fréquente, féminine, post-ménopausique ++
+  - Ressemble au Hashimoto mais avec thyroïde de taille normale/diminuée
+  - Anticorps anti-TPO + (75 %) et anti-TG + (50 %)
+  - Aggravation progressive comparable au Hashimoto
+- Thyroïdite subaiguë de De Quervain ou virale
+  - Dans les suites d'une infection respiratoire: syndrome grippal, inflammatoire avec un goitre ferme et douloureux
+  - Phase de thyrotoxicose puis hypothyroïdie le plus souvent transitoire
+- Thyroïdite transitoire  
+  Thyrotoxicose pauci-symptomatique puis hypothyroïdie séquellaire dans 20 % des cas.
+- Thyroïdite du post-partum
+  - Fréquente (5-10 % des femmes), survient dans l'année, surtout si diabète type 1 ou taux élevés d'anticorps antithyroïdiens au 1er trimestre. Récidive dans 70 % des cas à la grossesse suivante
+  - Souvent transitoire (70 %), contrôle TSH à 1 an
+  - Souvent hypothyroïdie isolée, mais parfois une thyrotoxicose précède vers le 2e mois post-partum (reprise rapide du poids normal, nervosité)
+- Autres causes
+  - Hypothyroïdie centrale (hypothyroïdie secondaire par **insuffisance thyréotrope**)  
+    T4L basse avec TSH anormalement basse ou normale. Rare (< 5 % des hypothyroïdies), contexte hypophysaire ou cérébral.
+  - Iatrogène  
+    Médicaments ou traitement thyroïdien par iode 131, thyroïdectomie et radiothérapie cervicale.
+  - [Hémochromatose]({{% relref "hemochromatose.md" %}})
+  - Alimentaire  
+    Manioc, cassave.
+  - Polluants
 
 {{% /collapse %}}
 {{% collapse "Clinique" %}}
@@ -242,8 +247,8 @@ Les signes ECG sont résolutifs sous lévothyroxine.
 {{% /collapse %}}
 {{%collapse "Traitement de l'hypothyroïdie" %}}
 
-En cas d'indication de traitement peu claire (ex. doses faibles de LT4), il est possible de suspendre le traitement en accord avec le patient et de contrôler la TSH à 4-6 semaines.
-{.alert .alert-info}
+> [!INFO]
+> En cas d'indication de traitement peu claire (ex. doses faibles de LT4 ≤ 50 µg/j), il est possible de suspendre le traitement en accord avec le patient et de contrôler la TSH à 4-6 semaines.
 
 Délai de **2 semaines à l'instauration du traitement** pour observer l'amélioration des symptômes. Certains signes peuvent perdurer quelques mois après l'instauration. L'équilibre plasmatique n'est pas atteint avant 6 semaines.
 
@@ -251,9 +256,10 @@ Délai de **2 semaines à l'instauration du traitement** pour observer l'amélio
 
 ### Lévothyroxine sodique (opothérapie substitutive)
 
-**Objectif: obtenir une TSH dans l'intervalle du laboratoire ET la disparition des signes cliniques.**
+> [!INFO]
+> Objectif de l'hormonothérapie: obtenir une TSH dans l'intervalle du laboratoire ET la disparition des signes cliniques.
 
-TSH minimale chez le +65 ans: 1 mUI/L.
+TSH minimale chez le **+65 ans**: **1 mUI/L** (1/4 des +60 ans peuvent interrompre le traitement (*Ravensberg et al*).
 
 #### Débuter le traitement par lévothyroxine
 
@@ -418,6 +424,7 @@ graph TB
 
 {{< youtube id="Gu8imkANZL4" title="La minute RECO HAS | Hypothyroïdies : les points clés de la prise en charge (Pr Philippe Cornet)" >}}
 
+- [Ravensberg J, et al. JAMA. 2026.](https://jamanetwork.com/journals/jama/article-abstract/2847282)
 - [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [HAS. Prise en charge des hypothyroïdies chez l'adulte. Recommander les bonnes pratiques. 2022.](https://www.has-sante.fr/jcms/p_3216305/fr/prise-en-charge-des-dysthyroidies-chez-l-adulte)
 - [ANSM. Les médicaments à base de lévothyroxine disponibles en France. 17/01/2023.](https://ansm.sante.fr/dossiers-thematiques/les-medicaments-a-base-de-levothyroxine-disponibles-en-france-1/les-medicaments-a-base-de-levothyroxine-disponibles-en-france)

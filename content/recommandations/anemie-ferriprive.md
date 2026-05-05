@@ -166,9 +166,10 @@ Examens recommandés pour la prise en charge d'une anémie (réaliser dans l'ord
   IgA totales + IgA anti-transglutaminase.
 - Électrophorèse de l'hémoglobine  
   Indication: ferritinémie normale chez sujet originaire d'Asie-Afrique-Méditerranée, avant bilan endoscopique.
-- Femme: examen gynécologique
 - Facteur de risque d'insuffisance rénale: créatininémie
 - Sujet âgé: vitamines B9 et B12
+- Anémie ferriprive inexpliquée: sérologie Helicobacter (*GEFH 2021*)
+- Femme: examen gynécologique
 - Homme (tout âge)
   ou femme +50 ans, ménopausée/sans menstruations, [risque élevé de cancer colorectal]({{% relref "cancer-colorectal.md" %}}), sévérité inexpliquée:
   - **Fibroscopie gastrique** et **coloscopie** rapidement
