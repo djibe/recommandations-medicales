@@ -36,9 +36,9 @@ datatable = true
 {{%collapse "Dépistage de la tuberculose" %}}
 
 > [!INFO]
-> Le dépistage est réalisé par radiographie thoracique chez les sujets à risque asymptomatiques (test IGRA voire intradermoréaction chez l'enfant, complété par radiographie thoracique si positif).
+> Le dépistage est réalisé par radiographie thoracique chez les sujets à risque asymptomatiques et par un test IGRA (test de détection de la production d'interféron gamma, dit Quantyféron®) chez l'enfant (ou méthode alternative chez l'adulte et l'adolescent), complété par radiographie thoracique si positif).
 
-Le dépistage de la tuberculose est proposé couplé avec les sérologies VIH, hépatites C et B.
+Le dépistage de la tuberculose (test IGRA et/ou radiographie thoracique) est proposé couplé avec les sérologies VIH, hépatites C et B.
 
 Dépistage systématique de la tuberculose si:
 
@@ -91,7 +91,7 @@ Pour les professionnels de santé: évaluation de l'exposition au cas par cas pa
 > [!WARNING]
 > **Contre-indications au BCG:** [VIH]({{% relref "vih-sida.md" %}}), chimiothérapie, corticoïdes.
 
-Le BCG peut être administré en même temps que n'importe quel autre vaccin mais doit être exclusif sur un bras.
+Le BCG peut être administré en même temps que n'importe quel autre vaccin mais doit être exclusif sur un bras, et sans autre injection de ce bras **pendant 3 mois**.
 
 {{% /collapse %}}
 {{%collapse "Pays à forte incidence de tuberculose" %}}
@@ -150,6 +150,9 @@ Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre d
 
 {{% /collapse %}}
 {{%collapse "Test tuberculinique: réalisation et lecture" %}}
+
+> [!WARNING]
+> Le Tubertest pour l'intradermoréaction à la tuberculine a été retiré en 2026 (voir *Dépistage*).
 
 La réaction d'hypersensibilité à la tuberculine apparaît chez les sujets qui ont été vaccinés par le BCG ou qui ont contracté la tuberculose.
 

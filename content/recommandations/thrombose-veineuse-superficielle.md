@@ -179,7 +179,8 @@ Situations nécessitant une prise en charge différente de la thrombose veineuse
 
 ### Bibliographie en attente
 
-[Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Thrombose veineuse profonde et embolie pulmonaire. Item 226. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
+- [Campbell B, et al. Superficial vein thrombosis (thrombophlebitis): far from benign. BJGP. 2026.](https://bjgp.org/content/76/766/196)
+- [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Thrombose veineuse profonde et embolie pulmonaire. Item 226. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
 
 {{%/sources%}}
 {{% modal title="Score hémorragique RIETE" id="modal-score-riete"%}}

@@ -144,6 +144,9 @@ L'oxazépam est la benzodiazépine de référence selon *Prescrire* pour une ins
 {{% /collapse %}}
 {{%collapse "Décroissance des benzodiazépines" %}}
 
+> [!INFO]
+> L'arrêt des benzodiazépines (ou apparentés) n'est pas associé à une détérioration du sommeil ou à d'autres effets sur la santé.
+
 Proposer une diminution de 25 % la 1^re^ semaine avec consultation de suivi.  
 Puis paliers de 25 % toutes les 2-4 semaines en l'absence de difficultés.
 {.alert .alert-info}
@@ -247,6 +250,7 @@ graph TB
 
 {{< youtube id="Pl628stUti4" title="Déprescrire les sédatifs-hypnotiques (Réseau canadien pour la déprescription)" >}}
 
+- [Garcia Dos Santos C. Interventions autogérées par les patients pour réduire l'utilisation de sédatifs et améliorer le sommeil ?. Minerva. 2026.](https://minerva-ebp.be/FR/Analysis/961)
 - [ANSM, CMG. Anxiété ou insomnie : 5 infos à connaitre sur les benzodiazépines. 2025.](https://www.cmg.fr/anxiete-ou-insomnie-5-infos-a-connaitre-sur-les-benzodiazepines/)
 - Prescrire Redaction. Benzodiazépines ou apparentés. Rev Prescrire. 2024.
 - [AddictoVigilance. Mésusage et abus des benzodiazépines et apparentés : où en est-on ?. 2023. (PDF)](https://addictovigilance.fr/wp-content/uploads/2023/06/Bulletin-benzodiazepines-n%C2%B020-juin-2023-VF-1-1.pdf)

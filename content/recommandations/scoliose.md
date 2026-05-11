@@ -129,7 +129,7 @@ En cas scoliose grave: épreuves fonctionnelles respiratoires (EFR)
 
 Inspecter le dos des enfants et des adolescents pour dépister une scoliose (*HAS 2005*) et << Le dépistage doit être réalisé de façon systématique à l'adolescence >> (*CNPU*). La *USPTF*, elle, ne l'affirme pas.
 
-Profiter des [examens de suivi]({{% relref "examens-suivi-nourrisson.md" %}}) (3, 4, 5, 6 , 8-9, 11-13 et 15-16 ans) et des certificats pour revoir le dos.
+Profiter des [examens de suivi]({{% relref "examens-suivi-nourrisson.md" %}}) (3, 4, 5, 6, 8-9, 11-13 et 15-16 ans) et des certificats pour revoir le dos.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la scoliose" %}}

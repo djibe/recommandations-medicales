@@ -318,6 +318,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Rausch Osthoff AK, et al. EULAR recommendations for physical activity in people with inflammatory arthritis and osteoarthritis: 2025 update. Ann Rheum Dis. 2026.](https://ard.eular.org/article/S0003-4967(26)00150-0/fulltext)
 - [Duong V, et al. Evaluation and Treatment of Knee Pain: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2811009) (payant)
 - [Rausch Osthoff AK, et al. 2018 EULAR recommendations for physical activity in people with inflammatory arthritis and osteoarthritis. Ann Rheum Dis. 2018.](https://ard.eular.org/article/S0003-4967(24)02411-7/abstract)
 - [Zhang W, et al. EULAR evidence-based recommendations for the diagnosis of knee osteoarthritis. Ann Rheum Dis. 2010;69(3):483-489. doi:10.1136/ard.2009.113100](https://ard.eular.org/article/S0003-4967(24)19583-0/abstract) (payant)

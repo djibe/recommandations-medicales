@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr C. GRAS-LE GUEN (SFP)"
 date = "2025-08-07T21:25:21+02:00"
 publishdate = "2025-08-08"
-lastmod = "2025-09-03"
+lastmod = "2026-05-06"
 specialites = ["gynécologie-obstétrique", "pédiatrie"]
 annees = "2023"
 sources = ["SF2H", "SFN"]
@@ -19,7 +19,9 @@ sctid = "225233005"
 icd10 = []
 image = false
 imageSrc = ""
-todo = "photo | relecture"
+rank = "ok"
+writing = "ok"
+todo = "photo"
 +++
 
 {{%article-summary%}}
@@ -113,6 +115,7 @@ En cas de sécrétions purulentes ou d'inflammation péri-ombilical, antisepsie 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Imdad A, et al. Umbilical cord antiseptics for preventing sepsis and death among newborns. Cochrane Database of Systematic Reviews. 2026.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008635.pub3/full/fr)
 - [Gras-Le Guen C. Les soins du cordon en 2025 en France : quelles pratiques basées sur les preuves faut-il recommander aux nouveaux parents ?. réalités Pédiatriques. 2025. (PDF)](https://www.realites-cardiologiques.com/wp-content/uploads/sites/3/2025/05/10_GRAS-LE-GUEN_RG.pdf)
 - [Société français d'hygiène hospitalière, Société Française de Néonatologie. Avis relatif aux bonnes pratiques d'hygiène pour les soins du cordon pour les nouveau-nés en maternité et après la sortie de maternité. 2023.](https://www.sf2h.net/publications/avis-relatif-aux-bonnes-pratiques-dhygiene-pour-les-soins-du-cordon-pour-les-nouveau-nes-en-maternite-et-apres-la-sortie-de-maternite.html)
 

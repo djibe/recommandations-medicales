@@ -410,6 +410,7 @@ Bilan à la recherche de diagnostic différentiel:
 - Bilan hépatique
 - [TSH](/tags/tsh/)
 - ± Toxiques urinaires
+- ± Troubles digestifs, brouillard mental: sérologie cœliaque (*ESsCD*)
 - Homme avec au moins 3 symptômes sexuels (libido, érections, impuissance ...): [testostérone libre ou biodisponible]({{% relref "andropause-deficit-testosterone.md" %}}) (*AFU/SFMS 2021*)
 
 > -- *CNUP*

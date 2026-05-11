@@ -365,6 +365,10 @@ graph TB
 - [HAS. ALD n° 22 - Polyarthrite rhumatoïde évolutive grave. 2008 et 2015.](https://www.has-sante.fr/jcms/c_664454/fr/ald-n-22-polyarthrite-rhumatoide-evolutive-grave)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Polyarthrite rhumatoïde. Item 196 UE 8. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-17-0.php)
 
+### Bibliographie en attente
+
+- [Smolen JS, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biologic disease-modifying antirheumatic drugs: 2025 update. Ann Rheum Dis. 2026.](https://ard.eular.org/article/S0003-4967(26)00075-0/fulltext)
+
 ### Bibliographie pour en savoir plus
 
 [Johnson SR, et al. 2023 American College of Rheumatology (ACR)/American College of Chest Physicians (CHEST) Guideline for the Screening and Monitoring of Interstitial Lung Disease in People with Systemic Autoimmune Rheumatic Diseases. Arthritis Care Res (Hoboken). 2024.](https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/acr.25347)

@@ -17,13 +17,16 @@ sctid = "197456007"
 icd10 = ["K85", "K85.9"]
 image = true
 imageSrc = "Pancréatite aiguë résistante à J3 avec scanner montrant un pancréas tuméfié avec liquide péripancréatique. Lithiases biliaires de la vésicule biliaire. Cas de Hani M. Al Salam, Radiopaedia.org, rID: 10190"
+rank = "false"
+writing = "todo"
 todo = "flow"
 +++
 
 {{%article-summary%}}
 
 - La pancréatite aiguë est le plus souvent d'origine biliaire (40-70 %), alcoolique (1/4) voire tumorale. Pendant la grossesse, elle complique surtout une hypertriglycéridémie
-- Le diagnostic de pancréatite aiguë est évoqué devant des symptômes typique: douleurs abdominales transfixiantes intenses et permanentes d'installation rapide
+- Les symptômes typiques de pancréatite aiguë sont des douleurs abdominales transfixiantes intenses et permanentes d'installation rapide
+- Le bilan est urgent pour affirmer le diagnostic et éliminer un diagnostic différentiel (infarctus du myocarde inférieur ...)
 - Le diagnostic est confirmé en présence de douleurs typiques avec une lipasémie supérieure à 3 fois la normale au bilan. L'échographie abdominale sous 48 heures est systématique pour rechercher des lithiases biliaires
 - La prise en charge de la pancréatite aiguë comprend initialement une hospitalisation pour surveillance, l'évolution étant imprévisible et les complications fréquentes
 - En cas de pancréatite aiguë idiopathique, rechercher une maladie cœliaque et après 40 ans, dépister également un [cancer du pancréas]({{% relref "cancer-pancreas.md" %}}) par scanner abdominal et cholangiopancréatographie par IRM (*INCa*)
@@ -118,6 +121,7 @@ Bilan urgent d'une douleur épigastrique transfixiante:
 - Si absence de lithiase biliaire et d'alcool: bilan lipidique  
   L'hypertriglycéridémie sera considérée responsable surtout si > 8,8 g/L (observée dès 4,4 g/L).
 - **Échographie abdominale** (recherche d'origine biliaire dans les 48 premières heures)
+- Bilan différentiel: ECG, troponine
 
 Le pic de lipasémie est précoce (max à 24-48 heures) et peut redescendre sous 3N après 48 heures. Le pic n'a aucune valeur pronostique.
 

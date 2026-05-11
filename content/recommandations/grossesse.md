@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2026-03-02"
+lastmod = "2026-05-05"
 specialites = ["gynécologie-obstétrique"]
 annees = "2022"
 sources = ["CNGOF", "HAS"]
@@ -19,6 +19,8 @@ sctid = "118185001"
 icd10 = []
 image = true
 imageSrc = "Illustration de la grossesse par stories / Freepik"
+rank = "false"
+writing = "todo"
 todo = "chir baria, Hebbema ou [Datascope](https://www.scansante.fr/applications/indicateurs-de-sante-perinatale), interrog 1re cs, évaluer les apports calcium, électrophorèse Hb, fiche ANSM vaccins, grossesse altitude, dépression post-partum http://beh.santepubliquefrance.fr/beh/2023/18/2023_18_1.html"
 chart = true
 modele = true
@@ -28,7 +30,7 @@ modele = true
 
 - 0 alcool et 0 tabac pendant la grossesse, interroger à chaque consultation
 - 1/3 des tests de grossesse sont non conformes (*[DGCCRF](https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/les-enquetes/les-autotests-de-fertilite-au-banc-dessai)*)
-- Vaccins Covid-19 et grippe (à l'automne) et coqueluche à chaque grossesse, anti-VRS Abrysvo si 32-36 SA de septembre à janvier (une seule dose)
+- Vaccins Covid-19 et grippe (à l'automne) et coqueluche à chaque grossesse, anti-VRS Abrysvo si 32-36 SA de septembre à janvier (une seule dose ou immunoglobulines chez le nourrisson)
 - Besoins en [calcium]({{% relref "apports-calcium.md" %}}): 1 g/j (*IOF*), [alimentation pendant la grossesse (MangerBouger)](https://www.mangerbouger.fr/manger-mieux/a-tout-age-et-a-chaque-etape-de-la-vie/les-recommandations-et-conseils-avant-pendant-et-apres-la-grossesse) et guide [activité physique](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_grossesse.pdf) (PDF)
 
 Chapitres dédiés:
@@ -352,14 +354,14 @@ Il est déconseillé de descendre sous **1600 kcal/j** (même en situation d'[ob
 {{% /collapse %}}
 {{%sources%}}
 
-- [Vaccination Info Service. Femmes enceintes. 04/06/2025.](https://professionnels.vaccination-info-service.fr/Recommandations-vaccinales-specifiques/Personnes-exposees-a-des-risques-specifiques/Femmes-enceintes)
+- {{< references/calendrier-vaccinal >}}
+- [Vaccination Info Service. Femmes enceintes. 13/04/2026.](https://professionnels.vaccination-info-service.fr/Recommandations-vaccinales-specifiques/Personnes-exposees-a-des-risques-specifiques/Femmes-enceintes)
 - [DGS-Urgent 2025_15. Modalités de mise en œuvre de la campagne d'immunisation des nourrissons et nouveau-nés contre les infections à virus respiratoire syncitial (VRS). 28/01/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
 - [Anses. (2024). Avis de l'Anses relatif à l'actualisation de l'état des connaissances sur la prévention des anomalies de fermeture du tube neural par l'acide folique (saisine 2023-SA0019). Maisons-Alfort : Anses, 29 p. (PDF)](https://www.anses.fr/system/files/NUT2023SA0019RA.pdf)
 - [Service-Public. Infections sexuellement transmissibles : gratuité du dépistage en laboratoire. 2024.](https://www.service-public.fr/particuliers/actualites/A17530)
 - [US Preventive Services Task Force. Screening for Syphilis Infection During Pregnancy: US Preventive Services Task Force Reaffirmation Recommendation Statement. JAMA. 2025.](https://jamanetwork.com/journals/jama/fullarticle/2833883)
 - [HAS. Grossesse : les vaccins recommandés. 2025.](https://www.has-sante.fr/jcms/p_3590575/fr/grossesse-les-vaccins-recommandes)
-- {{< references/calendrier-vaccinal >}}
 - [Anses. Enrichir la farine en acide folique : une solution contre les malformations du tube neural chez les nouveau-nés. 2024.](https://www.anses.fr/fr/content/enrichir-la-farine-en-acide-folique-une-solution-contre-les-malformations-du-tube-neural)
 - [HAS, ANRS, CNS. Prise en charge thérapeutique du patient atteint d'herpès génital. 2024.](https://www.has-sante.fr/jcms/p_3562501/fr/prise-en-charge-therapeutique-du-patient-atteint-d-herpes-genital)
 - [Vigoureux S, et al; CNGOF. Prévention de l'allo-immunisation anti-RH1 au premier trimestre de la grossesse: recommandations pour la pratique clinique du Collège National des Gynécologues-Obstétriciens Français. Gynécologie Obstétrique Fertilité & Sénologie. 2024. (PDF)](https://cngof.fr/app/uploads/2025/11/Allo-immunisation20-20RhC3A9sus20D202024-Prevention20de20l27allo-immunisation20anti20RH1.pdf?x26468)

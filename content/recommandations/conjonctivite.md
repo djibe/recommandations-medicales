@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-05-02T21:24:24+02:00"
 publishdate = "2026-04-07"
-lastmod = "2026-04-07"
+lastmod = "2026-05-11"
 specialites = ["ophtalmologie"]
 annees = "2017"
 sources = ["AFSOP", "Afssaps"]
@@ -19,6 +19,7 @@ icd10 = ["H10", "H10.9"]
 image = true
 imageSrc = "Conjonctivite de l'œil gauche. Raimundo Pastor, CC BY-SA 4.0, via Wikimedia Commons"
 rank = "ok"
+writing = "ok"
 todo = "flow"
 +++
 
@@ -87,7 +88,7 @@ Aide au choix du traitement de la conjonctive.
 {{%collapse "Définitions" %}}
 
 Conjonctivite
-: Irritation de la surface de la conjonctive. Elle peut être d'origine infectieuse (bactérienne ou virale), inflammatoire ou allergique.
+: Inflammation de la conjonctive sans atteinte cornéenne. Elle peut être d'origine infectieuse (bactérienne ou virale), inflammatoire ou allergique. Elle est dite *aiguë* lorsqu'elle dure moins de 4 semaines.
 
 Chémosis
 : Œdème de la conjonctive.
@@ -106,6 +107,15 @@ BAV
 gte
 : goutte
 {.dl-inline}
+
+{{% /collapse %}}
+{{%collapse "Diagnostic différentiel" %}}
+
+Autres causes d'atteinte ophtalmique:
+
+- Faux larmoiement: obstruction des voies lacrymales, hypermétropie
+- Yeux rouge: hypermétropie
+- Baisse d'acuité visuelle (BAV): corps étranger et autres causes d'œil rouge et douloureux (kératite aiguë, uvéite, glaucome aigu par fermeture de l'angle)
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -153,7 +163,7 @@ gte
   - Caractère saisonnier, terrain atopique
 - Autres signes: eczéma des paupières, ectropion, sécheresse oculaire
 - Adénopathie prétragienne (conjonctive virale ou chronique)
-- Otoscopie, examen pharyngé
+- **Otoscopie**, examen pharyngé
 
 {{% /collapse %}}
 {{%collapse "Formes cliniques de conjonctivite selon l'âge" %}}
@@ -183,7 +193,33 @@ La **conjonctivite allergique** est saisonnière (voire perannuelle) et donne un
 La **kératoconjonctivite vernale** débute surtout chez les garçons avant 10 ans. Elle est résolutive à l'adolescence (mais peut se chroniciser sous forme atrophique). Le tableau est une kératoconjonctivite sévère (corps étranger, photophobie, blépharospasme  matinal) avec papilles tarsales géantes (visibles sur le versant interne des paupières), bourrelets limbiques (bourrelet de la jonction iris-sclérotique),  kératite ponctuée.
 
 {{% /collapse %}}
+{{%collapse "Examens complémentaires" %}}
+
+Le diagnostic de conjonctivite est le plus souvent clinique.
+
+### Prélèvement des sécrétions oculaires
+
+Indications au prélèvement bactérien lors d'une conjonctivite:
+
+- Nouveau-né
+- Monophtalme (borgne, œil unique)
+- Immunodéprimé
+- Persistance après 8 jours de traitement probabiliste
+- Récidive précoce
+
+Le prélèvement est réalisé par écouvillonnage du cul de sac inférieur, de dehors en dedans, sans instillation d'anesthésique local.
+
+La recherche de *Chlamydia* nécessite des grattages conjonctivaux.
+
+{{% /collapse %}}
 {{%collapse "Prévention" %}}
+
+Mesures générales de prévention des conjonctivite:
+
+- Lavage des mains
+- Linge de toilette personnel
+- Traitement de la xérophtalmie (œil sec)
+- Respect d'emploi des lentilles de contact
 
 ### Prévention de la conjonctivite néonatale
 
@@ -201,23 +237,6 @@ Indications à la prophylaxie de la conjonctivite du nouveau-né (*AFSOP 2017*):
 Dans ces cas, la prophylaxie oculaire du nouveau-né est indiquée: [rifamycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/63828371/extrait#tab-rcp) ou [azithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/69326767/extrait#tab-rcp)) collyre (Azyter) 1 goutte dans les 24 premières heures de vie. (*AFSOP 2017*)
 
 > Si une **infection est découverte chez la mère lors de l'accouchement**: ceftriaxone 50 mg/kg (max 125 mg) dose unique (ou céfotaxime 100 mg/kg -- *AFSOP 2017*).
-
-{{% /collapse %}}
-{{%collapse "Examens complémentaires" %}}
-
-### Prélèvement des sécrétions oculaires
-
-Indications au prélèvement bactérien lors d'une conjonctivite:
-
-- Nouveau-né
-- Monophtalme (borgne, œil unique)
-- Immunodéprimé
-- Persistance après 8 jours de traitement probabiliste
-- Récidive précoce
-
-Le prélèvement est réalisé par écouvillonnage du cul de sac inférieur, de dehors en dedans, sans instillation d'anesthésique local.
-
-La recherche de *Chlamydia* nécessite des grattages conjonctivaux.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la conjonctivite" %}}
@@ -274,6 +293,9 @@ Le traitement antibiotique est réservé aux cas sévères (purulence marquée, 
 
 ### Traitement de la conjonctive de l'adulte
 
+> [!INFO]
+> << Des pathogènes bactériens sont isolés dans seulement 50 % des cas de conjonctivite, et au moins 60 % des cas de conjonctivites bactériennes se résolvent sans aucun traitement. >> -- *SFO 2024*
+
 - **Conjonctivite virale:** identique à l'enfant
 - **Conjonctivite bactérienne:**
   - Mêmes indications que chez l'enfant
@@ -287,6 +309,7 @@ Le traitement antibiotique est réservé aux cas sévères (purulence marquée, 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Société Française d'Ophtalmologie. Conjonctivites bactériennes aiguës. Chapitre 19.  Infections en Ophtalmologie. 2024.](https://www.sfo-online.fr/files/rapports-sfo/2024/sforender/B9782294773532000197.html) (*SFO*)
 - Prescrire Redaction. Conjonctivite aiguë infectieuse. Premiers Choix Prescrire. Rev Prescrire. 2024.
 - [Chen Y-Y, et al. Antibiotics versus placebo for acute bacterial conjunctivitis. Cochrane Database of Systematic Reviews. 2023.](https://www.cochrane.org/fr/CD001211/EYES_quels-sont-les-benefices-et-les-risques-des-antibiotiques-dans-le-traitement-de-la-conjonctivite)
 - Prescrire Redaction. Conjonctivite allergique saisonnière. Premiers Choix Prescrire. Rev Prescrire. 2023.
@@ -298,7 +321,7 @@ Le traitement antibiotique est réservé aux cas sévères (purulence marquée, 
 ### Bibliographie en attente
 
 - [Cheung A, et al. Conjunctivitis Preferred Practice Pattern. Ophthalmology. 2024.](https://www.aaojournal.org/article/S0161-6420(24)00009-5/fulltext) (*AAO*)
-- [Société Française d'Ophtalmologie (SFO). Pathologies conjonctivales. Chapitre 8. Ophtalmologie pédiatrique.](https://www.em-consulte.com/em/SFO/2017/file_10008.html)
+- [Société Française d'Ophtalmologie. Pathologies conjonctivales. Chapitre 8. Ophtalmologie pédiatrique.](https://www.em-consulte.com/em/SFO/2017/file_10008.html) (*SFO*)
 - tripdatabase
 
 Mot-clé: conjonctivite purulente

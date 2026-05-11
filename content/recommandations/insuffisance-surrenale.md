@@ -203,6 +203,9 @@ Bilan initial d'insuffisance surrénale (possible dès 2 ans):
 
 **Autres signes biologiques** de l'insuffisance surrénale: hyponatrémie ou valeurs basses (SIADH, 70-80 %), hyperkaliémie (ISP uniquement, 30-40 %), hypoglycémie, anémie normochrome normocytaire modérée, hyperlymphocytose, éosinophilie.
 
+> [!INFO]
+> Pour le bilan d'un incidentalome surrénalien, lire les [recommandations AFU 2024-2026](https://www.urofrance.org/recommandation/recommandations-francaises-du-comite-de-cancerologie-de-lafu-actualisation-2024-2026-cancer-des-surrenales-conduite-a-tenir-face-a-un-in/#).
+
 ### Test au Synacthène
 
 En cas de cortisolémie à 8 heures douteuse (5 à 18 µg/dL), le **test au Synacthène® en milieu spécialisé** est la référence pour étudier la réponse surrénalienne.

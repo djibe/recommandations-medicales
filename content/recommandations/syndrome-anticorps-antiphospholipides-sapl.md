@@ -54,15 +54,26 @@ EULAR
 {{% /collapse %}}
 {{%collapse "Critères diagnostiques du SAPL" %}}
 
-## Critères diagnostiques Sapporo
+### Critères diagnostiques Sapporo
 
 Classification Sapporo updated.
 
 SAPL défini
 
+---
+
+### Définition des SAPL à bas et haut risque
+
 Au moins 1 critère clinique et 1 critères biologique:
 
 TODO: Box1p2
+
+---
+
+
+### Définition des titres d'anticorps lupiques modérément élevés
+
+- Titres des anticorps anti-cardiolipine IgG et/ou IgM > 40 (ou > 99^e^ percentile)
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -72,7 +83,7 @@ La présence d'anticorps anti-phospholipides chez un patient asymptomatique ou a
 ### Interrogatoire
 
 - Antécédents: thrombose veineuse profonde (TVP), embolie pulmonaire (EP), fausses couches, lupus érythémateux disséminé (LED),  AVC et autres maladies cardiovasculaires
-- Facteurs de risque cardiovasculaires: âge, hérédité cardiovasculaire, tabac, dyslipidémie,
+- Facteurs de risque cardiovasculaires: âge, hérédité cardiovasculaire, tabac, [dyslipidémie]({{% relref "dyslipidemie.md" %}}),
 - Traitements en cours
 - Sédentarité
 - Profession
@@ -134,6 +145,7 @@ Indications aux HBPM à dose préventive:
 
 - Collège cardio, Med Int
 - HAS
+- [Arachchillage DJ, et al. Guidelines on the investigation and management of antiphospholipid syndrome. Br J Haematol. 2024.](https://onlinelibrary.wiley.com/doi/10.1111/bjh.19635)
 - Prescrire
 - Cochrane
 - [Minerva](https://minerva-ebp.be/)

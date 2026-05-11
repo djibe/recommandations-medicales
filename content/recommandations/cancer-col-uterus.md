@@ -18,6 +18,8 @@ sctid = "363354003"
 icd10 = ["C53", "C53.9", "N87", "D06", "B97.7", "Z12.4"]
 image = true
 imageSrc = "Le cancer du col de l'utérus. scientificanimations.com, CC BY-SA 4.0, via Wikimedia Commons"
+rank = "false"
+writing = "todo"
 flowchart = true
 todo = "pharynx, source: Les infections a HPV deviennent indétectables au bout de 2 ans dans 90 % des cas. Dans les 10 % des cas où elle persiste elle peut être a l'origine de cancer."
 +++
@@ -342,7 +344,7 @@ Après cancer du col de l'utérus, le suivi comporte:
 
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Dépistage du cancer du col de l'utérus chez les personnes immunodéprimées (hors PVVIH). 2025.](https://www.has-sante.fr/jcms/p_3585926/fr/depistage-du-cancer-du-col-de-l-uterus-chez-les-personnes-immunodeprimees-hors-pvvih)
-- [Brun JL, et al. Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale : actualisation des recommandations INCa après la mise en place du dépistage par le test HPV [Management of women with abnormal cervical cytology: Update of INCa recommendations after the implementation of HPV screening]. Gynecol Obstet Fertil Senol. 2025. (PDF)](https://www.sciencedirect.com/science/article/pii/S2468718924003532)
+- [Brun JL, et al. Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale : actualisation des recommandations INCa après la mise en place du dépistage par le test HPV [Management of women with abnormal cervical cytology: Update of INCa recommendations after the implementation of HPV screening]. Gynecol Obstet Fertil Senol. 2025.](https://www.sciencedirect.com/science/article/pii/S2468718924003532) (payant, *CNGOF*)
 - [Service-Public. Une nouvelle vaccination proposée aux élèves de 5e. 04/08/2025.](https://www.service-public.fr/particuliers/actualites/A16438)
 - [Henschke N, et al. Effects of human papillomavirus (HPV) vaccination programmes on community rates of HPV‐related disease and harms from vaccination. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015363.pub2/full/fr)
 - [INCa. La vaccination contre les infections liées aux papillomavirus humains (HPV) pour prévenir les cancers. 30/04/2025.](https://www.cancer.fr/professionnels-de-sante/prevention-et-depistages/prevention/agents-infectieux/prevenir-les-cancers-lies-aux-hpv)
@@ -365,6 +367,10 @@ Après cancer du col de l'utérus, le suivi comporte:
 - [HAS. Cancer invasif du col utérin. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_lap_col_uterin_web.pdf)
 - [HAS. Cancer invasif du col utérin. Janvier 2010. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_gm_col_uterin_web_2010-02-12_09-57-34_599.pdf)
 - [Vaccination Info Service. Les infections à papillomavirus humains (HPV).](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Les-Infections-a-Papillomavirus-humains-HPV)
+
+### Bibliographie en attente
+
+- [Carcopino X, et al. Le cancer du col de l'utérus : recommandations pour la pratique clinique. Gynecol Obstet Fertil Senol. 2025. (PDF)](https://cngof.fr/app/uploads/2026/02/COL-CNGOF-2025.pdf?x62224)
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}

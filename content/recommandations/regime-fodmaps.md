@@ -39,7 +39,7 @@ FODMAPs
 ### Abréviations
 
 FODMAPs
-: {{%lang%}}Fermentable Oligo-, Di- , Mono-saccharides and Polyols{{%/lang%}}
+: {{%lang%}}Fermentable Oligo-, Di-, Mono-saccharides and Polyols{{%/lang%}}
 
 SNFCP
 : Société Nationale Française de Colo-Proctologie
