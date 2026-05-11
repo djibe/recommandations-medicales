@@ -1,4 +1,4 @@
-titre;url;maj;rank;pregnancy;breastfeading
+titre;url;maj;rank;writing;pregnancy;breastfeading
 {{ $pages := where .Pages "Draft" "ne" true -}}
 {{- $pages = where $pages "Params.noindex" "ne" true -}}
 {{- range $i, $p := $pages }}
@@ -7,7 +7,8 @@ titre;url;maj;rank;pregnancy;breastfeading
 {{- $permalink := $p.Permalink -}}
 {{- $lastmod := $p.Lastmod.Format "2006-01-02" -}}
 {{- $rank := default "" $p.Params.rank -}}
+{{- $writing := default "" $p.Params.writing -}}
 {{- $pregnancy := default "" $p.Params.pregnancy -}}
 {{- $breastfeading := default "" $p.Params.breastfeading -}}
-"{{ $title }}";"{{ $permalink }}";"{{ $lastmod }}";"{{ $rank }}";"{{ $pregnancy }}";"{{ $breastfeading }}"
+"{{ $title }}";"{{ $permalink }}";"{{ $lastmod }}";"{{ $rank }}";"{{ $writing }}";"{{ $pregnancy }}";"{{ $breastfeading }}"
 {{- end -}}
