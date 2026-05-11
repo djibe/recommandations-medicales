@@ -20,6 +20,7 @@ draft = true
 image = false
 imageSrc = ""
 rank = "false"
+writing = "todo"
 todo = "descr > summary > liens > photo > newsletter > flow > Kanban"
 +++
 
