@@ -17,6 +17,8 @@ sctid = "249366005"
 icd10 = ["R04.0"]
 image = true
 imageSrc = "La compression bidigitale de l'épistaxis. TenarAiuola, CC BY-SA 3.0, via Wikimedia Commons"
+rank = "false"
+writing = "todo"
 flowchart = true
 +++
 
@@ -243,6 +245,8 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Paris C, et al; Filière de santé Maladies Rares FAVA-Multi, MHEMO, TetCou. Epistaxis récidivantes ado -- adulte. Les Clés du Diagnostic. 2025.](https://clesdudiagnostic.fr/cles-du-diagnostic/epistaxis-recidivantes-ado-adulte/)
+- [Paris C, et al; Filière de santé Maladies Rares FAVA-Multi, MHEMO, TetCou. Epistaxis récidivantes enfant. Les Clés du Diagnostic. 2025.](https://clesdudiagnostic.fr/cles-du-diagnostic/epistaxis-recidivantes-enfant/)
 - [Collège Français d'ORL & CCF. Épistaxis. Item 85 UE 4. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/Item-85-epistaxis-1.pdf)
 
 {{%/sources%}}

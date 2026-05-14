@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-05-11T19:40:09+02:00"
 publishdate = "2026-05-11"
-lastmod = "2026-05-11"
+lastmod = "2026-05-12"
 specialites = ["infectiologie"]
 annees = "2026"
 sources = ["MinSanté"]
@@ -32,5 +32,6 @@ Voir [Institut Pasteur: Hantavirus](https://www.pasteur.fr/fr/sante-publique/CNR
 Autres publications:
 
 - [ANRS. Hantavirus](https://anrs.fr/recherche/maladies-pathogenes/hantavirus/)
+- [COREB. Hantavirus. 07/05/2026. (PDF)](https://www.coreb.infectiologie.com/UserFiles/File/procedures/20260508-fiche-coreb-hantavirus.pdf)
 - [DGS-Urgent 2026_04. Alerte internationale -- Cluster de cas d'Hantavirus. 11/05/2026.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [Ministère de la santé. Cas d'Hantavirus à bord du navire mv Hondius : point de situation des autorités sanitaires françaises. 07/05/2026.](https://sante.gouv.fr/actualites-presse/presse/communiques-de-presse/article/cas-d-hantavirus-a-bord-du-navire-mv-hondius-point-de-situation-des-autorites)

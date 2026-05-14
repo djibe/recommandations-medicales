@@ -19,20 +19,23 @@ sctid = "765021002"
 icd10 = []
 image = true
 imageSrc = "Les régimes végétariens et végétaliens. jcomp / Freepik"
+rank = "false"
+writing = "ok"
 todo = ""
 +++
 
 {{%article-summary%}}
 
+- Le régime végétarien exclut la consommation de chair animale et le régime végétalien exclut l'ensemble des aliments d'origine animale
 - Les régimes végétariens et végétaliens (vegan) doivent être optimisés pour limiter les carences nutritionnelles et les excès de contaminations
 - Les carences sont inévitables (vitamine D, omégas 3 EPA et DHA voire vitamine B12 et zinc) et doivent être surveillées et supplémentées
 - Ces régimes ne peuvent être utilisés que chez les adultes en bonne santé, faute de données physiologiques chez les autres populations (enfants, femmes enceintes et allaitantes, athlètes, personnes âgées)
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 > [!INFO]
->  << Ainsi, les régimes optimisés proposés ne permettent pas de rester en deçà de l'exposition maximale retenue
+> << Ainsi, les régimes optimisés proposés ne permettent pas de rester en deçà de l'exposition maximale retenue
 pour 21 contaminants ou groupes de contaminants. >> -- *Anses 2025*
 
 Régime végétarien
@@ -45,10 +48,10 @@ Régime végétalien (vegan)
 
 Anses
 : Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail
-{.dl-inline}
 
 EPA+DHA
 : acide eicosapentaénoïque (EPA) et acide docosahexaénoïque (DHA), acides gras oméga-3
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Régime végétarien" %}}

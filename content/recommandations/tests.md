@@ -24,11 +24,6 @@ chart = true
 slider = true
 +++
 
-SCORE2-OP
-
-> -- SCORE2-OP working group and ESC Cardiovascular risk collaboration, SCORE2-OP risk prediction algorithms: estimating incident cardiovascular event risk in older persons in four geographical risk regions, European Heart Journal, Volume 42, Issue 25, 1 July 2021, Pages 2455–2467, https://doi.org/10.1093/eurheartj/ehab312
-> And supplementary data > Supplementary material_20210604_v2.docx > Supplementary Methods Table 3: Example calculations for the estimated CVD event risk for an individual patient using SCORE2-OP
-
 ## Plan action asthme {.mt-5}
 
 <div class="form-group text-center my-4">

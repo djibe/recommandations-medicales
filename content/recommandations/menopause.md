@@ -1,8 +1,8 @@
 +++
 id = "0190e8c8-7901-7ebf-9ffe-9785f6fe2163"
-title = "Ménopause et traitement hormonal de la ménopause"
+title = "Ménopause et traitement hormonal de la ménopause (THM)"
 prefix = "la "
-titleSeo = "Ménopause et traitement hormonal"
+titleSeo = "Ménopause et traitement hormonal THM"
 description = "Recommandations pour le traitement hormonal de la ménopause (THM ou THS). Prise en charge du syndrome climatérique, contre-indications, patchs, progestérone"
 longHtml = true
 synonyms = ["Syndrome climatérique", "traitement hormonal substitutif (THS)"]
@@ -19,9 +19,11 @@ sctid = "276477006"
 icd10 = ["N95"]
 image = true
 imageSrc = "Illustration de la ménopause par Freepik"
+rank = "false"
+writing = "todo"
 chart = true
 flowchart = true
-todo = "écriture SEO, KEY patiente | réécrire le diagnostic; règles d'hygiène, Chart J1-J31, lire sources, relecture gemvi-secretariat@gemvi.org, Apex rangebar"
+todo = "KEY patiente | réécrire le diagnostic; règles d'hygiène, Chart J1-J31, lire sources, relecture gemvi-secretariat@gemvi.org, Apex rangebar"
 +++
 
 {{%article-summary%}}

@@ -182,6 +182,8 @@ graph TB
 
 [Leeson C, et al. Soins du prépuce. Canadian Family Physician. 2025.](https://www.cfp.ca/content/71/2/105.short)
 
+Mot-clé: phymosis
+
 {{%/sources%}}
 {{% modal title="Dermocorticoïdes disponibles" id="modal-dc" size="lg" %}}
 
