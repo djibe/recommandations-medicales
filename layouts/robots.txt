@@ -119,8 +119,10 @@ User-agent: MistralAI-User/1.0
 User-agent: MJ12bot
 User-agent: ModerneBot
 User-agent: MyCentralAIScraperBot
+User-agent: NagetBot
 User-agent: netarkivindsamling
 User-agent: netEstate Imprint Crawler
+User-agent: newsai
 User-agent: Nicecrawler
 User-agent: NotebookLM
 User-agent: NovaAct
