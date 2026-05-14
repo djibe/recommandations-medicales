@@ -47,7 +47,7 @@ title = "RecoMédicales"
 # CSV for section
 [outputs]
   page = ["HTML"]
-  home = ["HTML", "RSS", "WebAppManifest", "WORKER", "REDIRECTS"]
+  home = ["HTML", "RSS", "WebAppManifest", "WORKER"]
   section = ["HTML", "JSON"]
   taxonomy = ["HTML"]
   term = ["HTML"]
@@ -58,12 +58,14 @@ title = "RecoMédicales"
   baseName = "sw"
   isPlainText = true
 
+  # Inactive
   [outputFormats.CSV]
   mediaType = "text/csv"
   baseName = "recommandations"
   isPlainText = true
   notAlternative = true
 
+  # Inactive
   [outputFormats.REDIRECTS]
   baseName = "_redirects"
   isPlainText = true
