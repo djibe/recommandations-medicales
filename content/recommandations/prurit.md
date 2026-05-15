@@ -97,7 +97,7 @@ CEDEF
 - Troubles endocriniens et métaboliques
   - [Carence martiale]({{% relref "anemie-ferriprive.md" %}}), vitamines
   - [Dysthyroïdies](/tags/tsh/)
-  - Hyperparathyroïdie
+  - [Hyperparathyroïdie]({{% relref "hyperparathyroidie-primaire.md" %}})
   - [Diabète](/tags/diabete/)
   - [Grossesse]({{% relref "grossesse.md" %}})
 - Prurit associé à une infection  

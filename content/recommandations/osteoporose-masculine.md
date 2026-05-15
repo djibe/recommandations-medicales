@@ -182,7 +182,7 @@ Indications à l'ostéodensitométrie:
   - Hypogonadisme prolongé
   - [Hyperthyroïdie]({{% relref "hyperthyroidie.md" %}}) évolutive non traitée
   - Hypercorticisme endogène
-  - Hyperparathyroïdie primitive
+  - [Hyperparathyroïdie primaire]({{% relref "hyperparathyroidie-primaire.md" %}})
   - Ostéogenèse imparfaite
   - Chutes répétées
   - [VIH]({{% relref "vih-sida.md" %}})

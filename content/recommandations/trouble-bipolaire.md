@@ -281,7 +281,7 @@ Le trouble bipolaire nécessite un traitement prophylactique au long cours, le p
 - Posologie initiale: 250 mg x 2-3/j
 - Lithémie cible: 0,6 - 0,8 mEq/L (voire 0,8-1 si résistance)  
   1 semaine après chaque changement de dose jusqu'à la cible.
-- Effets indésirables principaux: prise de poids, polyurie, tremblement, hypothyroïdie 20%, hyperparathyroïdie, maladie rénale chronique
+- Effets indésirables principaux: prise de poids, polyurie, tremblement, [hypothyroïdie]({{% relref "hypothyroidie.md" %}}) (20 %), [hyperparathyroïdie]({{% relref "hyperparathyroidie-primaire.md" %}}), maladie rénale chronique
 
 Autres thymorégulateurs: antiépileptique divalproate de sodium (Dépakote®, Divalcote®) ou carbamazépine.
 

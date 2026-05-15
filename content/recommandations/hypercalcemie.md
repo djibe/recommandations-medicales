@@ -72,7 +72,7 @@ Le calcul de la **calcémie corrigée** (valeur de la calcémie totale si l'albu
 
 Principales étiologies d'hypercalcémie:
 
-1. **Hyperparathyroïdie primaire**: une augmentation de la production de la parathormone (PTH) du fait d'un adénome ou d'une hyperplasie induit une augmentation du calcium
+1. **[Hyperparathyroïdie primaire]({{% relref "hyperparathyroidie-primaire.md" %}})**: une augmentation de la production de la parathormone (PTH) du fait d'un adénome ou d'une hyperplasie induit une augmentation du calcium
     - Adénome parathyroïdien
     - Hyperplasie des glandes parathyroïdes
 2. Hyperparathyroïdie secondaire: une cause externe à la parathyroïde cause une augmentation de la production de la PTH (la parathyroïde est saine)

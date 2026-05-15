@@ -74,7 +74,7 @@ DXA
   - Ostéomyélite
   - Mal de Pott (tuberculose)
 - Causes bénignes
-  - Ostéopathies: **ostéoporose** (la plus fréquente, diagnostic d'élimination), ostéomalacie, hyperparathyroïdie, ostéodystrophie rénale
+  - Ostéopathies: **ostéoporose** (la plus fréquente, diagnostic d'élimination), ostéomalacie, [hyperparathyroïdie]({{% relref "hyperparathyroidie-primaire.md" %}}), ostéodystrophie rénale
   - Maladie de Paget
   - Tumeurs primitives et pseudotumeurs bénignes: tumeurs à cellules géantes, granulome éosinophile, hémangiome, kyste osseux anévrismal
 - Faux aspects fracturaires

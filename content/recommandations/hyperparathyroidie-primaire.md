@@ -3,12 +3,12 @@ id = "019d66f8-60e6-708e-ac25-edfaf1e88b43"
 title = "Hyperparathyroïdie primaire (HPT1)"
 titleSeo = "Hyperparathyroïdie primaire"
 prefix = "l'"
-description = "TODO:"
+description = "Recommandations pour le diagnostic et la prise en charge de l'hyperparathyroïdie primaire (HPT1). Bilan avec hypercalcémie, PTH augmentée et traitement chirurgical"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-04-07T10:00:34+02:00"
-publishdate = "2026-05-07"
-lastmod = "2026-05-07"
+publishdate = "2026-05-15"
+lastmod = "2026-05-15"
 specialites = ["endocrinologie"]
 annees = "2024"
 sources = ["SFE", "AFCE"]
@@ -16,21 +16,26 @@ tags = []
 english = ["Primary hyperparathyroidism (PHPT)"]
 sctid = "36348003"
 icd10 = ["E21.0"]
-draft = true
 image = false
 imageSrc = ""
 rank = "false"
-writing = "todo"
+writing = "ok"
 symptomes = ["douleurs diffuses"]
-todo = "descr > summary > liens > photo > newsletter > flow > Kanban | demander Pr Peter Kamenicky APHP ou francoise.borson-chazot@chu-lyon, calcul FeCa"
+todo = "photo | demander Pr Peter Kamenicky APHP ou francoise.borson-chazot@chu-lyon, calcul FeCa"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-TODO: (at the end)
+- L'hyperparathyroïdie primaire (HPT1) est une endocrinopathie fréquente causée par une hypersécrétion inappropriée de la parathormone (PTH) par un adénome parathyroïdien bénin (80 % des cas)
+- Elle est le plus souvent asymptomatique, féminine (75 %) et survenant à un âge avancé et est la première cause d'hypercalcémie
+- Les symptômes évocateurs sont osseux (douleurs osseuses, ostéoporose, fractures de fragilité), rénaux (coliques néphrétiques, néphrocalcinose) et neuro-musculaires (fatigabilité musculaire). Des douleurs diffuses sont possibles
+- Le bilan biologique ne peut être correctement interprété qu'en l'absence de carence en calcium et en vitamine D, d'insuffisance rénale, de malabsorption digestive et de médicament à risque (diurétique, dénosumab, biphosphonate, lithium, corticoïde)
+- Le diagnostic d'une hyperparathyroïdie primaire est biologique avec classiquement une hyperparathormonémie, une hypercalcémie (inadaptée) et une hypercalciurie. Si le patient est opérable, compléter avec une échographie parathyroïdienne
+- Adresser ensuite à l'endocrinologue pour la suite de la prise en charge ou en cas de bilan atypique
+- Le traitement de référence est la chirurgie de parathyroïdectomie
 
-Chapitre lié: hypercalcémie
+Chapitre lié: [hypercalcémie]({{% relref "hypercalcemie.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -263,9 +268,9 @@ Indications au conseil génétique:
 - Carcinome ou tumeur parathyroïdienne atypique
 
 {{% /collapse %}}
-{{%collapse "Traitement" %}}
+{{%collapse "Traitement de l'hyperparathyroïdie primaire" %}}
 
-Le choix du traitement de l'hyperparathyroïdie primaire dépend de l'âge, des comorbidités et des complications.
+Le choix du traitement de l'hyperparathyroïdie primaire dépend de l'**âge**, des **comorbidités** et des **complications**.
 
 La **chirurgie** de parathyroïdectomie élective est le traitement de référence de l'hyperparathyroïdie primaire. Les autres méthodes sont la destruction locale (thermo-ablation) et les traitements médicaux.
 
@@ -330,7 +335,7 @@ La destruction locale est réalisée après une RCP dans un service spécialisé
 graph TB
   suspicion["Suspicion d'hyperparathyroïdie<br>primaire (HPT1)"] --> clinique(Clinique) --> biologie("Biologie<br>PTH, calcémie")
     biologie --> 1("- PTH N/↗<br>- Calcémie ↗") --> FeCa("Fraction d'excrétion<br>du calcium (FeCa)") -- "&gt; 2 %" --> HPT1("Hyperparathyroïdie<br>primaire")
-      FeCa -- "≤ 2 %" --> génétique(Cause génétique)
+      FeCa -- "≤ 2 %" --> génétique(Cause<br>génétique)
     biologie --> 2("- PTH ↘<br>- Calcémie ↗") --> étio2("Hypercalcémie<br>extraparathyroïdienne")
     biologie --> 3("- PTH ↗<br>- Calcémie N") --> étio3("Hyperparathyroïdie<br>secondaire (HPT2)")
     biologie --> 4("- PTH ↗<br>- Calcémie ↘") --> étio4("- Pseudo-<br>hypoparathyroïdie<br>- Certaines HPT2")
@@ -347,6 +352,8 @@ graph TB
 - [Bilezikian JP, et al; International Workshop on Primary Hyperparathyroidism. Evaluation and Management of Primary Hyperparathyroidism: Summary Statement and Guidelines from the Fifth International Workshop. J Bone Miner Res. 2022.](https://asbmr.onlinelibrary.wiley.com/doi/10.1002/jbmr.4677)
 - Collège
 - Prescrire
+
+Mot-clé: hyperparathyroïdie primitive
 
 {{%/sources%}}
 {{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}

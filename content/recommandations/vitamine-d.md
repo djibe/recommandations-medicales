@@ -107,7 +107,7 @@ Convertir dans les 2 sens les unités de mesure de la vitamine D: nmol/L (unité
 
 - Iatrogène  
   [Corticoïdes au long cours]({{% relref "corticoides.md" %}}), traitements anti-épileptiques, [anti-aromatases]({{% relref "cancer-sein.md" %}}), analogues de la GnRH.
-- Maladies endocriniennes et dermatologiques: hyperparathyroïdie ...
+- Maladies endocriniennes et dermatologiques: [hyperparathyroïdie]({{% relref "hyperparathyroidie-primaire.md" %}}) ...
 - Malabsorption, maldigestion, cholestase, insuffisance hépatique  
   [Maladie cœliaque]({{% relref "maladie-coeliaque.md" %}}), mucoviscidose, [pancréatite chronique]({{% relref "pancreatite-chronique.md" %}}), cholangites, [chirurgie bariatrique]({{% relref "obesite-adulte.md" %}}).
 - [Maladie rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}}), syndrome néphrotique

@@ -100,7 +100,7 @@ Le diagnostic de certitude nécessite une **ponction articulaire diagnostique** 
 En cas de diagnostic confirmé, le bilan étiologique (à distance) recherche une chondrocalcinose secondaire:
 
 - Ferritinémie ([hémochromatose]({{% relref "hemochromatose.md" %}}))
-- Calcémie (hyperparathyroïdie primitive)
+- Calcémie ([hyperparathyroïdie primaire]({{% relref "hyperparathyroidie-primaire.md" %}}))
 - Magnésémie (syndrome de Gitelman)
 - Phosphatases alcalines (PAL, hypophosphatasie congénitale)
 - [TSH](/tags/tsh/) (dysthyroïdie)
