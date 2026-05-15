@@ -8,10 +8,10 @@ synonyms = ["Papillomavirus humains HPV", "dysplasies du col"]
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2021-01-18T10:55:00+02:00"
 publishdate = "2022-04-20"
-lastmod = "2026-05-03"
+lastmod = "2026-05-15"
 specialites = ["gynécologie-obstétrique", "oncologie"]
 annees = "2025"
-sources = ["HAS", "CNGOF", "INCa"]
+sources = ["CNGOF", "HAS", "INCa"]
 tags = ["cancer", "dépistage", "douleur pelvienne", "IST", "HSH", "vaccin"]
 english = ["Cervical cancer"]
 sctid = "363354003"
@@ -29,7 +29,7 @@ todo = "pharynx, source: Les infections a HPV deviennent indétectables au bout 
 - Une infection par les papillomavirus humains (HPV), sexuellement transmissibles (IST) est nécessaire pour l'apparition d'un cancer du col de l'utérus et des condylomes
 - Les symptômes de cancer cervical peuvent être: métrorragies (spontanées ou provoquées), leucorrhées, dyspareunie et douleurs pelviennes ... (voir *Clinique*)
 - Le bilan d'une suspicion de cancer cervical associe une colposcopie et une IRM pelvienne (ou échographie) en semi-urgence
-- La prise en charge et le traitement du cancer du col utérin dépend de la RCP mais privilégie la chirurgie avec hystérectomie totale, à l'origine d'une stérilisation
+- La prise en charge et le traitement du cancer du col de l'utérus dépend de la RCP mais privilégie la chirurgie avec hystérectomie totale, à l'origine d'une stérilisation
 - Plusieurs mesures sont proposées pour la prévention et le dépistage du cancer du col de l'utérus:
   - << Le préservatif peut limiter le risque d'infection mais n'assure pas une protection efficace >> -- *INCa*
   - Vaccination papillomavirus pour tous de 11 à 19 ans (Gardasil 9®), avec rattrapage jusqu'à 26 ans (*HAS 2025*). Pas de vaccination en une seule dose en l'absence de modification de l'AMM (*Infovac*)
@@ -68,7 +68,7 @@ Cancer du col de l'utérus (CCU)
 
 Complications des infections par les papillomavirus et incidence imputée entre parenthèse:
 
-- Condylomes
+- [Condylomes]({{% relref "condylomes-ano-genitaux.md" %}})
 - Dysplasies (35.000/an) et cancers du col de l'utérus (+3000/an)  
   Tous les cancers du col sont dus aux HPV.
 - Cancer du vagin
@@ -167,10 +167,9 @@ Selon l'accès aux soins et la suspicion diagnostique, l'imagerie pourrait être
 
 Dès que le diagnostic anatomopathologique de cancer du col de l'utérus est posé, le bilan d'extension associe:
 
-- ==**IRM pelvienne**== ou échographie endovaginale/endorectale par un expert
-- Si stade localement avancé ou suspicion d'atteinte ganglionnaire: **PETscan** (voire scanner thoraco-abdomino-pelvien injecté)
+- ==**IRM lombo-pelvienne**==
+- Si stade localement avancé ou suspicion d'atteinte ganglionnaire (IB1, IB2, IIB, II, IV): **PETscan**
 - Bilan biologique: NFS, bilan hépatique, bilan rénal, albumine, sérologie VIH
-- Si cancer épidermoïde: **marqueur tumoral SCC**
 
 {{% /collapse %}}
 {{%collapse "Dépistage du cancer du col et des papillomavirus" %}}
@@ -293,9 +292,11 @@ Pour les autres types de lésions (ASC-H, AGC) ou en cas de frottis anormal pend
 {{% /collapse %}}
 {{%collapse "Traitement du cancer du col de l'utérus" %}}
 
-Adresser en semi-urgence à l'équipe hospitalière de gynécologie pour la suite de la prise en charge du cancer du col de l'utérus. [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC). Le choix du traitement dépend de la réunion de concertation pluridisciplinaire (RCP).
+Adresser en semi-urgence à l'équipe hospitalière de gynécologie pour la suite de la prise en charge du cancer du col de l'utérus. [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC). Le choix du traitement dépend de la réunion de concertation pluridisciplinaire (RCP). Le traitement doit être débuté dans les 3 mois.
 
-La prise en charge du cancer du col de l'utérus peut être: chirurgie (dont **hystérectomie totale** avec salpingo-ovariectomie bilatérale), radiothérapie, curiethérapie, chimiothérapie, thérapie ciblée (bevacizumab). La préservation de la fertilité est associée aux traitements à risque si possible.
+La prise en charge du cancer du col de l'utérus de référence est la chirurgie (dont **hystérectomie totale** avec salpingo-ovariectomie bilatérale selon le stade) et la **radio-chimiothérapie concomitante** (RCC).
+
+Les autres traitements sont la conisation, trachélectomie simple, hystérectomie simple extra-fasciale, curiethérapie, immunothérapie (pembrolizumab) et la thérapie ciblée (bévacizumab). La **préservation de la fertilité** est associée aux traitements à risque si possible.
 
 En cas de ménopause induite, un [traitement hormonal]({{% relref "menopause.md" %}}) peut être introduit.
 
@@ -315,15 +316,17 @@ En cas de ménopause induite, un [traitement hormonal]({{% relref "menopause.md"
 Après cancer du col de l'utérus, le suivi comporte:
 
 - Examen clinique et gynécologique: symptômes, douleurs, complications  
-  Tous les 3-4 mois pendant 2 ans, puis tous les 6-12 mois pendant 3 ans puis annuel.
-- Pas de frottis après hystérectomie ou radiochimiothérapie
-- Bilans: pas d'examen en l'absence de symptômes  
-  Sauf traitement conservateur: IRM pelvienne annuelle pendant 5 ans.
-- Marqueur tumoral SCC: si épidermoïde avec élévation initiale
+  Tous les 3-4 mois pendant 2 ans, puis tous les 6-12 mois pendant 3 ans puis annuel (pas de rythme optimal connu selon *CNGOF*).
+- Pas de frottis après hystérectomie, radiochimiothérapie ou curiethérapie
+- Bilans: pas d'examen en l'absence de symptômes
+  - Traitement sans hystérectomie: IRM lombo-pelvienne annuelle pendant 5 ans, PETscan
+  - Radiochimiothérapie concomitante et curiethérapie: IRM lombo-pelvienne avec séquences de diffusion et perfusion à 3 semaines du début de la RCC
 - Si stérilisation: [traitement hormonal de la ménopause]({{% relref "menopause.md" %}})
 - Dépistage organisé des autres cancers
 
 **NB.** Les **récidives** surviennent surtout dans les 2 ans, mais 10 % interviennent après 5 ans.
+
+Le marqueur tumoral **SCC** n'a pas d'intérêt au cours de la prise en charge.
 
 > [!INFO]
 > En cas de conisation ou trachélectomie simple ou élargie: test HPV-HR à 6 mois, 12 mois, 24 mois, puis si négatif, tous les 3 ans.
@@ -343,6 +346,7 @@ Après cancer du col de l'utérus, le suivi comporte:
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
+- [Carcopino X, et al. Le cancer du col de l'utérus : recommandations pour la pratique clinique. Gynecol Obstet Fertil Senol. 2025. (PDF)](https://cngof.fr/app/uploads/2026/02/COL-CNGOF-2025.pdf?x62224)
 - [HAS. Dépistage du cancer du col de l'utérus chez les personnes immunodéprimées (hors PVVIH). 2025.](https://www.has-sante.fr/jcms/p_3585926/fr/depistage-du-cancer-du-col-de-l-uterus-chez-les-personnes-immunodeprimees-hors-pvvih)
 - [Brun JL, et al. Conduite à tenir devant une femme ayant une cytologie cervico-utérine anormale : actualisation des recommandations INCa après la mise en place du dépistage par le test HPV [Management of women with abnormal cervical cytology: Update of INCa recommendations after the implementation of HPV screening]. Gynecol Obstet Fertil Senol. 2025.](https://www.sciencedirect.com/science/article/pii/S2468718924003532) (payant, *CNGOF*)
 - [Service-Public. Une nouvelle vaccination proposée aux élèves de 5e. 04/08/2025.](https://www.service-public.fr/particuliers/actualites/A16438)
@@ -367,10 +371,6 @@ Après cancer du col de l'utérus, le suivi comporte:
 - [HAS. Cancer invasif du col utérin. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_lap_col_uterin_web.pdf)
 - [HAS. Cancer invasif du col utérin. Janvier 2010. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_gm_col_uterin_web_2010-02-12_09-57-34_599.pdf)
 - [Vaccination Info Service. Les infections à papillomavirus humains (HPV).](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Les-Infections-a-Papillomavirus-humains-HPV)
-
-### Bibliographie en attente
-
-- [Carcopino X, et al. Le cancer du col de l'utérus : recommandations pour la pratique clinique. Gynecol Obstet Fertil Senol. 2025. (PDF)](https://cngof.fr/app/uploads/2026/02/COL-CNGOF-2025.pdf?x62224)
 
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}
