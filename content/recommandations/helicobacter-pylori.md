@@ -22,7 +22,7 @@ imageSrc = "Bactéries *Helicobacter pylori* implantés sur la muqueuse gastriqu
 rank = "ok"
 writing = "ok"
 flowchart = true
-todo = "reco enfant 2022, comment diag quand rosacée, dépistage en AINS long cours Maastricht III"
+todo = "relecture demandée | reco enfant 2022, comment diag quand rosacée, dépistage en AINS long cours Maastricht III"
 modele = true
 +++
 
@@ -72,7 +72,7 @@ Le traitement devrait presque toujours être guidé (antibiogramme, PCR).
 - [Clarithromycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/62913185/extrait#tab-rcp) 500 mg matin et soir pendant le repas
 - Rabéprazole 20 mg 🌍 (ou ésoméprazole 40 mg) matin et soir pendant le repas
 
-En cas d'**allergie vraie** à la pénicilline: quadrithérapie avec *bismuth* (voir **B)**).
+En cas d'**allergie vraie** à la pénicilline: quadrithérapie avec *bismuth* (voir **B)** ).
 
 **B)** Résistance à la clarithromycine, pendant **10 jours**:
 
@@ -264,7 +264,7 @@ En cas de sensibilité à la clarithromycine, trithérapie pendant **14 jours**:
 - Rabéprazole 20 mg 🌍 (ou ésoméprazole 40 mg) matin et soir pendant le repas
 {{%/info%}}
 
-En cas d'**allergie vraie** à la pénicilline: quadrithérapie avec *bismuth* (voir **B)**).
+En cas d'**allergie vraie** à la pénicilline: quadrithérapie avec *bismuth* (voir **B)** ).
 
 #### B) Résistance à la clarithromycine
 
@@ -290,11 +290,11 @@ En cas de contre-indication à la pénicilline et au Pylera®, demander l'[avis 
 ### Traitement de deuxième ligne de *H. pylori*
 
 - Souche Clari-S:
-  - avec échec de la quadrithérapie: schéma au bismuth (schéma **B)**) et EOGD si échec
+  - avec échec de la quadrithérapie: schéma au bismuth (schéma **B)** ) et EOGD si échec
   - avec échec de la quadrithérapie et contre-indication au bismuth: EOGD (pour sensibilité lévofloxacine)
-  - avec échec du bismuth en première ligne: quadrithérapie (schéma **A)**) et EOGD si échec
+  - avec échec du bismuth en première ligne: quadrithérapie (schéma **A)** ) et EOGD si échec
 - Souche Clari-R:
-  - avec échec de la quadrithérapie: schéma au bismuth (schéma **B)**) et avis du GEFH si échec
+  - avec échec de la quadrithérapie: schéma au bismuth (schéma **B)** ) et avis du GEFH si échec
   - avec échec de la quadrithérapie et contre-indication au bismuth: avis du GEFH
   - avec échec du bismuth en première ligne et Lévo-S: IPP-Amox-Lévo (cf **B)** avec contre-indication)
   - avec échec du bismuth en première ligne et Lévo-R ou inconnue: avis du GEFH

@@ -44,7 +44,6 @@ title = "RecoMédicales"
 
 # https://gohugo.io/templates/output-formats/#output-formats-for-pages
 # search https://learn.netlify.app/en/basics/configuration/
-# CSV for section
 [outputs]
   page = ["HTML"]
   home = ["HTML", "RSS", "WebAppManifest", "WORKER"]

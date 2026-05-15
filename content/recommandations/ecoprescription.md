@@ -10,7 +10,7 @@ synonyms = ["Soins écoresponsables"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-04-17T17:16:11+02:00"
 publishdate = "2026-04-19"
-lastmod = "2026-04-19"
+lastmod = "2026-05-15"
 specialites = ["thérapeutique"]
 annees = "2026"
 sources = []
@@ -56,7 +56,7 @@ todo = "liens > Kanban"
 
 | Classe | Monothérapie vertueuse | Réduction* | Bithérapie dose maximale |
 | ------ | ---------------------- | ---------- | ------------------------ |
-| **Anticoagulant** | apixaban | | |
+| **Anticoagulant** | apixaban | 42 % | |
 | **Antidépresseur** | citalopram, fluoxétine,<br>sertraline, vortioxétine | 37 % | |
 | **Antihistaminique** | lévocétirizine, desloratadine | 29 % | |
 | **ARA2** | candésartan | 27 % | losartan/HCT, valsartan/amlodipine |
@@ -116,9 +116,9 @@ Les traitements les plus écologiques sont marqués de l'émoji 🌍 pour l'asth
 
 {{%sources%}}
 
+- [Omedit Normandie: Les fiches d'écoprescription](https://www.omedit-normandie.fr/boite-a-outils/transition-ecologique/les-essentiels/les-essentiels,6212,13680.html)
 - [Bounoure F, et al. L'éco-prescription, une nouvelle compétence majeure pour les professionnels de santé. Annales Pharmaceutiques Françaises. 2025.](https://www.omedit-normandie.fr/media-files/49600/publication-ecoprescription-annales-pharma-francaises.pdf)
 - [Omedit Grand Est. Prescription Écoresponsable des Produits Anticoagulants. 2024.](https://www.omedit-grand-est.ars.sante.fr/media/126098/download?inline)
-- [Omedit Normandie: Écoprescrire au quotidien](https://www.omedit-normandie.fr/media-files/44068/ecoprescription.pdf)
 - [Leraut J, et al. Réduire l'impact environnemental des inhalateurs dispensés en ville et à l'hôpital en France. Du diagnostic à l'action durable. Annales Pharmaceutiques Françaises. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S0003450922000888)
 - [The Shift Project: Rapport final : Décarbonons les industries de Santé](https://theshiftproject.org/publications/decarbonons-industries-sante-medicaments-dm/)
 - [CMG. La prescription écoresponsable](https://www.cmg.fr/wp-content/uploads/2024/02/Prescription-ecoresponsable-CMG2024.pdf)

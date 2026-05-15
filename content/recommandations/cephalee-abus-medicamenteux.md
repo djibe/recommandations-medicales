@@ -155,7 +155,7 @@ Plusieurs traitements prophylactiques ont prouvé leur efficacité pour la guér
 
 - **Topiramate** (50-100 mg/j), contre-indiqué chez la femme en âge de procréer
 - Acide valproïque 800 mg/j
-- Onabotulinum toxine A (toxine botulique de type A ou toxine botulinique)
+- Onabotulinum toxine A (toxine botulique de type A)
 - Anticorps monoclonal anti-CGRP
 
 Autres traitements possibles: bêta-bloquants, flunarizine, amitriptyline.

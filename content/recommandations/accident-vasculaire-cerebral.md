@@ -284,7 +284,7 @@ Technique de rééducation post AVC recommandée par la HAS:
 - Réalité virtuelle (en association)
 - Rééducation de la posture et de l'équilibre
 - Thérapie miroir (membre supérieur)
-- Toxine botulinique (en association)
+- Toxine botulique (en association)
 
 Traitements d'efficacité non démontrée: balnéothérapie, bandages adhésifs, étirements, rééducation assistée par robotique, stimulation électrique neuromusculaire, thérapie bimanuelle intensive (IBT), thérapie vibratoire et l'utilisation de plateforme vibrante, thérapies neurodéveloppementales.
 {.alert .alert-warning}
