@@ -8,10 +8,10 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Dr JG LETAROUILLY (SFR)"
 date = "2020-10-23T22:24:41+02:00"
 publishdate = "2020-10-23"
-lastmod = "2025-05-22"
+lastmod = "2026-05-17"
 specialites = ["rhumatologie"]
-annees = "2024"
-sources = ["SFRhumato", "ACR", "EULAR", "HAS"]
+annees = "2025"
+sources = ["EULAR", "SFRhumato", "ACR", "HAS"]
 tags = ["biothérapie", "vaccin"]
 english = ["Rheumatoid arthritis"]
 sctid = "69896004"
@@ -27,7 +27,7 @@ modele = true
 
 {{%article-summary%}}
 
-- La polyarthrite rhumatoïde est le premier rhumatisme inflammatoire de l'adulte, donnant des arthrites évoluant par poussées
+- La polyarthrite rhumatoïde (PR) est le premier rhumatisme inflammatoire de l'adulte, donnant des arthrites évoluant par poussées
 - Évoquer une polyarthrite devant toute arthrite, dérouillage de plus de 30 minutes, douleurs en pression des mains ou pieds (métacarpophalangiennes, métatarsophalangiennes)
 - Une suspicion de polyarthrite rhumatoïde nécessite un diagnostic par le rhumatologue et un traitement rapide
 - Prescrire le bilan biologique avec les radiographies pour adresser au rhumatologue dans les 6 semaines (voir *Examens complémentaires*)
@@ -123,7 +123,7 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
 - Signes généraux: fièvre, frissons
 - Ancienneté des symptômes
 - L'**arthrite** associe:
-  - Gonflement articulaire (synovite des doigts et des poignets +++)
+  - **Gonflement articulaire** (synovite des doigts et des poignets +++)
   - ET douleurs inflammatoires
   - OU raideur matinale > 30 minutes
   - Ténosynovite (inflammation des gaines tendineuses) peut être associée
@@ -136,7 +136,7 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
   - Douleurs à la fermeture du poing
   - Douleur à la pression transverse des mains ou avant-pieds (MCP/MTP = *squeeze-test*)
   - Atteinte symétrique
-- Signes extra-articulaires
+- **Signes extra-articulaires:**
   - Nodules rhumatoïdes
   - Dyspnée
   - Syndrome sec
@@ -258,7 +258,7 @@ Voie sous-cutanée selon tolérance ou si efficacité insuffisante (Imeth inject
 
 Décroissance de dose seulement après rémission persistante et prolongée.
 
-Si traitement inaugural ou contre-indication au méthotrexate: **léflunomide** (Arava®, générique) 10-20 mg/j ou **sulfasalazine** (Salazopyrine®) 2-3 g/j.
+En cas de contre-indication ou intolérance au méthotrexate, considérer un traitement par **léflunomide** (Arava®, générique) 10-20 mg/j ou **sulfasalazine** (Salazopyrine®) 2-3 g/j.
 
 ### Biothérapies pour le traitement de la polyarthrite rhumatoïde
 
@@ -353,6 +353,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Smolen JS, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biologic disease-modifying antirheumatic drugs: 2025 update. Ann Rheum Dis. 2026.](https://ard.eular.org/article/S0003-4967(26)00075-0/fulltext)
 - [Fautrel B, et al. 2024 update of the recommendations of the French Society of Rheumatology for the diagnosis and management of patients with rheumatoid arthritis. Joint Bone Spine. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X24001015)
 - [England BR, et al. 2022 American College of Rheumatology Guideline for Exercise, Rehabilitation, Diet, and Additional Integrative Interventions for Rheumatoid Arthritis. Arthritis Rheumatol. 2023.](https://rheumatology.org/integrative-ra-treatment-guideline)
 - {{< references/esh-2023 >}}
@@ -365,13 +366,9 @@ graph TB
 - [HAS. ALD n° 22 - Polyarthrite rhumatoïde évolutive grave. 2008 et 2015.](https://www.has-sante.fr/jcms/c_664454/fr/ald-n-22-polyarthrite-rhumatoide-evolutive-grave)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Polyarthrite rhumatoïde. Item 196 UE 8. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-17-0.php)
 
-### Bibliographie en attente
-
-- [Smolen JS, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biologic disease-modifying antirheumatic drugs: 2025 update. Ann Rheum Dis. 2026.](https://ard.eular.org/article/S0003-4967(26)00075-0/fulltext)
-
 ### Bibliographie pour en savoir plus
 
-[Johnson SR, et al. 2023 American College of Rheumatology (ACR)/American College of Chest Physicians (CHEST) Guideline for the Screening and Monitoring of Interstitial Lung Disease in People with Systemic Autoimmune Rheumatic Diseases. Arthritis Care Res (Hoboken). 2024.](https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/acr.25347)
+- [Johnson SR, et al. 2023 American College of Rheumatology (ACR)/American College of Chest Physicians (CHEST) Guideline for the Screening and Monitoring of Interstitial Lung Disease in People with Systemic Autoimmune Rheumatic Diseases. Arthritis Care Res (Hoboken). 2024.](https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/acr.25347)
 
 {{%/sources%}}
 {{% modele %}}
