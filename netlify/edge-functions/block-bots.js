@@ -2,7 +2,9 @@
 // inspired (and taken) from ethan marcotte's blog post: https://ethanmarcotte.com/wrote/blockin-bots/
 // Watch: Observer
 const botUas = [
+  '.fr crawler',
   'aiohttp',
+  'AIWebIndex',
   'Amzn-SearchBot',
   'apache',
   'ArenaUnfurlBot',
@@ -15,12 +17,14 @@ const botUas = [
   'ClaudeBot',
   'Clinicia-Medical-Assistant',
   'curl',
+  'docling-core',
   'Go-http-client',
   'Google-NotebookLM',
   'got',
   'GuzzleHttp',
   'HeadlessChrome',
   'HttpAsyncClient',
+  'HTTrack 3.0x',
   'HubSeedsBot',
   'iaudit',
   'iAskBot',
@@ -28,6 +32,7 @@ const botUas = [
   'LamarkBot',
   'LinkupBot',
   'Manus-User',
+  'MistralAI-Index',
   'MJ12bot',
   'node',
   'okhttp',

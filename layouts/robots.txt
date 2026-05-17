@@ -4,6 +4,7 @@ User-agent: AI2Bot
 User-agent: AI2Bot-DeepResearchEval
 User-agent: Ai2Bot-Dolma
 User-agent: aiHitBot
+User-agent: AIWebIndex
 User-agent: Amzn-User
 User-agent: amazon-kendra
 User-agent: Amazonbot
@@ -114,6 +115,7 @@ User-agent: meta-externalfetcher
 User-agent: Meta-ExternalFetcher
 User-agent: meta-webindexer
 User-agent: mirrorweb
+User-agent: MistralAI-Index
 User-agent: MistralAI-User
 User-agent: MistralAI-User/1.0
 User-agent: MJ12bot
