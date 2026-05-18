@@ -615,5 +615,38 @@
         "stage_5": "Contre-indication"
       }
     }
+  },
+  "Amikacine": {
+    "IV": {
+      "15-30 mg/kg/j": {
+        "stage_1": "15-30 mg/kg/j",
+        "stage_2": "Si justifiée, pas d’adaptation. Adaptation au dosage du résiduel si répétition",
+        "stage_3": "Si justifiée, pas d’adaptation. Adaptation au dosage du résiduel si répétition",
+        "stage_4": "Si justifiée, pas d’adaptation. Adaptation au dosage du résiduel si répétition",
+        "stage_5": "Si justifiée, pas d’adaptation. Adaptation au dosage du résiduel si répétition"
+      }
+    }
+  },
+  "Gentamicine": {
+    "IM/IV": {
+      "3-8 mg/kg/j": {
+        "stage_1": "3-8 mg/kg/j",
+        "stage_2": "Si justifiée, pas d’adaptation. Adaptation au dosage du résiduel si répétition",
+        "stage_3": "Si justifiée, pas d’adaptation. Adaptation au dosage du résiduel si répétition",
+        "stage_4": "Si justifiée, pas d’adaptation. Adaptation au dosage du résiduel si répétition",
+        "stage_5": "Si justifiée, pas d’adaptation. Adaptation au dosage du résiduel si répétition"
+      }
+    }
+  },
+  "Tobramycine": {
+    "IM/IV": {
+      "3-8 mg/kg/j": {
+        "stage_1": "3-8 mg/kg/j",
+        "stage_2": "Si justifiée, pas d’adaptation. Adaptation au dosage du résiduel si répétition",
+        "stage_3": "Si justifiée, pas d’adaptation. Adaptation au dosage du résiduel si répétition",
+        "stage_4": "Si justifiée, pas d’adaptation. Adaptation au dosage du résiduel si répétition",
+        "stage_5": "Si justifiée, pas d’adaptation. Adaptation au dosage du résiduel si répétition"
+      }
+    }
   }
 }
