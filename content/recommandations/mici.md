@@ -227,11 +227,3 @@ En dehors des rectites, une surveillance régulière doit être organisée en fo
 
 Les patients à risque intermédiaire doivent bénéficier d'une coloscopie tous les 2 à 3 ans. Les facteurs de risque intermédiaire correspondent aux colites extensives d'activité légère à modérée, aux pseudo-polypes inflammatoires ou à un antécédent familial de CCR au premier degré diagnostiqué à ou avant 50 ans. Les patients ne présentant ni un risque élevé ni un risque intermédiaire bénéficieront de la coloscopie suivante à 5 ans.
 
-{{< youtube id="mYyl0RZ25UU" title="La calprotectine pour les nuls (TutoGastro SNFGE 2023)" >}}
-
-- [Levine A, et al. Dietary Guidance From the International Organization for the Study of Inflammatory Bowel Diseases. Clin Gastroenterol Hepatol. 2020.](https://www.cghjournal.org/article/S1542-3565(20)30185-3/fulltext)
-- [Choden T, et al. Management of Crohn Disease in Adults. JAMA. 2026.](https://jamanetwork.com/journals/jama/article-abstract/2847307) (payant)
-- [Scott F, et al. AGA Living Clinical Practice Guideline on the Pharmacologic Management of Moderate-to-Severe Crohn's Disease. Gastroenterology. 2025.](https://www.gastrojournal.org/article/S0016-5085(25)06091-3/fulltext)
-- [Bischoff S, et al. ESPEN guideline on Clinical Nutrition in infnlammatory bowel disease. Clinical Nutrition. 2023. (PDF)](https://www.espen.org/files/ESPEN-Guidelines/ESPEN_guideline_on_Clinical_nutrition_in_inflammatory_bowel_disease.pdf)
-- [Kucharzik T, et al. ECCO-ESGAR-ESP-IBUS Guideline on Diagnostics and Monitoring of Patients with Inflammatory Bowel Disease: Part 1. J Crohns Colitis. 2025.](https://academic.oup.com/ecco-jcc/article/19/7/jjaf106/8219802)
-- [Yanai H, et al. ECCO-ESGAR-ESP-IBUS Guideline on Diagnostics and Monitoring of Patients with Inflammatory Bowel Disease: Part 2. J Crohns Colitis. 2025.](https://academic.oup.com/ecco-jcc/article/19/7/jjaf107/8220327)
