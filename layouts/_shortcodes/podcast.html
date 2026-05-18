@@ -1,0 +1,9 @@
+{{ with .Get "src" }}
+<div class="card card-body shadow-none border rounded-lg d-flex flex-row mx-auto mb-5 card-link-external" style="width:max-content;">
+  <img class="mr-4 card-icon rounded-circle svg-secondary" src="/images/logos/podcast.svg" aria-hidden="true" title="Podcast" alt="Podcast" loading="lazy" decoding="async">
+  <figure class="">
+    <audio controls crossorigin loading="lazy" preload="metadata" src="{{ . | safeURL }}" class="d-block mb-3"></audio>
+    {{- with $.Get "title" }}<figcaption class="p-0"><a href="{{ $.Get "src" | safeURL }}">{{ . | markdownify }}</a></figcaption>{{ end -}}
+  </figure>
+</div>
+{{ end }}
