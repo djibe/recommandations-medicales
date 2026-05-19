@@ -410,6 +410,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [CBIP. L'apixaban plus sûr que le rivaroxaban ?. Folia Pharmacotherapeutica. 2026.](https://www.cbip.be/fr/articles/4839?folia=4848)
 - [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Thrombose veineuse profonde et embolie pulmonaire. Item 226. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
 - [Konstantinides SV, et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC). Eur Respir J. 2019.](https://erj.ersjournals.com/content/54/3/1901647) + supp
 - [Ameli. Embolie pulmonaire.](https://www.ameli.fr/assure/sante/urgence/pathologies/embolie-pulmonaire)

@@ -151,14 +151,12 @@ Pour l'**enquête autour d'un cas de tuberculose**, il faut appeler le *Centre d
 {{% /collapse %}}
 {{%collapse "Test tuberculinique: réalisation et lecture" %}}
 
-> [!WARNING]
-> Le Tubertest pour l'intradermoréaction à la tuberculine a été retiré en 2026 (voir *Dépistage*).
-
-La réaction d'hypersensibilité à la tuberculine apparaît chez les sujets qui ont été vaccinés par le BCG ou qui ont contracté la tuberculose.
+La réaction d'hypersensibilité à la tuberculine apparaît chez les sujets qui ont été **vaccinés** par le BCG ou qui ont **contracté** la tuberculose.
 
 ### Réaliser l'intradermoréaction à la tuberculine
 
-**NB.** Le test est perturbé en cas de: [vaccination rougeole]({{% relref "rougeole.md" %}}) récente, déficit immunitaire ou immunodépression. Il est réservé au patient exempt de signes tuberculeux.
+> [!INFO]
+> L'intradermoréaction à la tuberculine (ou test cutané de Mantoux) est perturbé en cas de: [vaccination rougeole]({{% relref "rougeole.md" %}}) récente, déficit immunitaire ou immunodépression. Il est réservé au patient exempt de signes tuberculeux.
 
 #### Matériel nécessaire pour une intradermoréaction à la tuberculine (IDR)
 
@@ -166,15 +164,15 @@ La réaction d'hypersensibilité à la tuberculine apparaît chez les sujets qui
 2. Une aiguille hypodermique de 27G (marron)
 3. Une aiguille IM ou IV pour le prélèvement
 4. Antiseptique à l'hypochlorite de sodium (Amukine®, Dakin®)
-5. Un flacon de TUBERTEST®  
-  Contient 10 tests. Conservation entre 2 et 8°C pendant 28 jours après ouverture.
+5. Un flacon de TUBERCULINE PPD RT 23 AJV  
+  Contient 15 tests. Conservation entre 2 et 8°C pendant **24 heures** après ouverture.
 6. Une paire de gants
 7. 2 compresses ou cotton
 
 #### Réaliser l'intradermoréaction
 
 1. Désinfecter l'opercule du flacon et laisser sécher avant de ponctionner le septum du flacon
-2. Avec l'aiguille d'IM, prélever 0,1 mL de Tubertest (soit 5 UI)
+2. Avec l'aiguille d'IM, prélever 0,1 mL de tuberculine
 3. Remplacer l'aiguille par l'aiguille marron
 4. Désinfecter la peau: milieu de l'avant-bras face palmaire
 5. Piquer biseau vers le haut, parallèlement à la peau en la tendant légèrement

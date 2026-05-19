@@ -129,7 +129,7 @@ Les **injections de corticoïdes** pourraient être considérées en cas de pous
 
 {{< card-link-external title="Recommandations SFR-SOFMER sur l'arthrose des mains" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/la-minute-rhumato/episode/198969481" image="podcast" >}}
 
-- [Courties A, et al. French Societies of Rheumatology and of Physical and Rehabilitation Medicine recommendations for the Management of people living with Hand Osteoarthritis. Joint Bone Spine. 2025.](https://www.sciencedirect.com/science/article/pii/S1297319X25001629)
+- [Courties A, et al. French Societies of Rheumatology and of Physical and Rehabilitation Medicine recommendations for the Management of people living with Hand Osteoarthritis. Joint Bone Spine. 2025.](https://www.sciencedirect.com/science/article/pii/S1297319X25001629) ([version française](https://www.sciencedirect.com/science/article/abs/pii/S1169833026001377) payante)
 - [NICE. Osteoarthritis in over 16s: diagnosis and management. NICE guideline. 2022.](https://www.nice.org.uk/guidance/ng226)
 - [Richette P, Latourte A. L'arthrose digitale [Hand Osteoarthritis]. Rev Prat. 2021.](https://www.larevuedupraticien.fr/article/larthrose-digitale) (payant)
 - [Kloppenburg M, et al. 2018 update of the EULAR recommendations for the management of hand osteoarthritis. Ann Rheum Dis. 2019.](https://ard.eular.org/article/S0003-4967(24)00820-3/abstract)

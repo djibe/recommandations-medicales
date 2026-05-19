@@ -18,6 +18,8 @@ sctid = "13445001"
 icd10 = ["H81.0"]
 image = true
 imageSrc = "Oreille interne. Didier Descouens, CC BY-SA 3.0, via Wikimedia Commons"
+rank = "false"
+writing = "todo"
 todo = "ttt betahistine, biblio"
 flowchart = true
 +++
@@ -44,7 +46,7 @@ Maladie de Menière
 
 {{%info%}}
 
-### Critères diagnostiques de la Maladie de Menière définie
+### Critères diagnostiques de la Maladie de Menière
 
 Le diagnostic de maladie de Menière est certain devant l'association des 4 signes et symptômes suivants:
 
@@ -145,10 +147,9 @@ La prise en charge dépend de la plainte et de la sévérité de la maladie de M
 - Suivi de l'efficacité par la qualité de vie et l'*Échelle de niveau fonctionnel*
 - Soutien psychologique  
   {{%class%}}Efficacité prouvée sur la réhabilitation vestibulaire et le niveau d'anxiété.{{%/class%}}
-- Si troubles de la vergence et du suivi oculaire: [orthoptie]({{% relref "bilan-orthoptique.md" %}})
+- Si troubles de la vergence et/ou du suivi oculaire: [orthoptie]({{% relref "bilan-orthoptique.md" %}})
 - Association de patients: [France Acouphènes](https://www.france-acouphenes.org/)
-- Information du patient  
-  [Document d'information du patient de l'Encyclopédie Orphanet sur La maladie de Menière. (PDF)](https://www.orpha.net/data/patho/Pub/fr/Meniere-FRfrPub10587v02.pdf)
+- Information du patient: [guide Orphanet (PDF)](https://www.orpha.net/data/patho/Pub/fr/Meniere-FRfrPub10587v02.pdf)
 
 ### Traitement médical et chirurgical de la Maladie de Menière
 
@@ -183,7 +184,7 @@ Corticoïdes par voie générale ou intratympanique (ITC)
 Benzodiazépines
 : Utiles en vertiges aigus.
 
-Injection transtympanique de gentamycine
+Injection transtympanique de gentamicine
 : Solution efficace pour contrôler les vertiges, surdité possible.  
 Titration fonctionnelle.  
 Contre-indiquée en oreille unique ou atteinte bilatérale.
@@ -212,7 +213,7 @@ graph TB
 {{%sources%}}
 
 - [Wu V, et al. Approche à adopter pour la prise en charge de la maladie de Ménière. Canadian family physician Medecin de famille canadien. 2019.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6738464/)
-- [Nervous J, et al; SFORL. Stratégie diagnostique et thérapeutique dans la maladie de Menière. 2016. (PDF)](https://www.orlfrance.org/wp-content/uploads/2017/06/Maladie-de-Meniere-stategie-diagnostique-et-therapeutique.pdf)
+- [Nervous J, et al. Stratégie diagnostique et thérapeutique dans la maladie de Menière. 2016. (PDF)](https://www.orlfrance.org/wp-content/uploads/2017/06/Maladie-de-Meniere-stategie-diagnostique-et-therapeutique.pdf) (SFORL)
 - [Lopez-Escamez JA, et al; Classification Committee of the Barany Society; Japan Society for Equilibrium Research; European Academy of Otology and Neurotology (EAONO); Equilibrium Committee of the American Academy of Otolaryngology-Head and Neck Surgery (AAO-HNS); Korean Balance Society. Diagnostic criteria for Menière's disease. J Vestib Res. 2015.](https://content.iospress.com/articles/journal-of-vestibular-research/ves00549)
 - [Collège Français d'ORL & CCF. Vertige. Item 101 UE4. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/Item-101-Vertige.pdf)
 

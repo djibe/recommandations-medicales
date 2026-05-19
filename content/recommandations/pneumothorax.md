@@ -162,6 +162,7 @@ La prévention des **récidives** de pneumothorax comprend le ==**[sevrage tabag
 {{% /collapse %}}
 {{%sources%}}
 
+- [Jouneau S, et al. Traitement des pneumothorax spontanés primaires en France : état des lieux en 2024. Revue des Maladies Respiratoires. 2026.](https://www.sciencedirect.com/science/article/abs/pii/S0761842526000082)
 - [Walker S, et al. Joint ERS/EACTS/ESTS clinical practice guidelines on adults with spontaneous pneumothorax. Eur Respir J. 2024.](https://publications.ersnet.org/content/erj/63/5/2300797)
 - [Jouneau S, et al. Recommandations pour la prise en charge des pneumothorax spontanés primaires (PSP). Recommandations formalisées d'experts - Prise en charge des patients atteints de pneumothorax spontané primaire. Rev Mal Respir. 2023.](https://www.sciencedirect.com/science/article/pii/S0761842523000438)
 - [Collège des Enseignants de Pneumologie (CEP). Pneumothorax. Item 360. 2023.](https://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/)
