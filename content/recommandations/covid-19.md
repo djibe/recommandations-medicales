@@ -165,18 +165,6 @@ Atteintes possibles après une infection à Sars-Cov-2.
 > << L'Ordre rappelle que les médecins n'ont pas à établir de certificat médical pour le retour à l'école. >> *[CNOM 11/09/2020](https://www.conseil-national.medecin.fr/publications/communiques-presse/certificat-medical-lecole)*
 
 {{% /collapse %}}
-{{%collapse "Prise en charge par Paxlovid" "show" %}}
-
-{{< mermaid title="Prise en charge par Paxlovid par le médecin généraliste. Dr Alaedine Benani d'après HAS 2023 et DGS-Urgent" >}}
-graph TB
-  covid["<b>Covid symptomatique<br>depuis ≤ 5 jours</b><br>—<br>Âge ?"] -- "&lt; 18" --> mineur("Paxlovid non testé<br>chez les mineurs")
-  covid -- "≥ 18" --> gravité("Risque de forme grave ?") -- Oui --> test("Test antigénique ou<br>PCR positif") --> contre-indication("Contre-indication au Paxlovid ?") -- Oui --> hôpital("Hospitalisation pour<br>administration d'Evusheld")
-    gravité -- Non --> absence(Pas de traitement)
-      contre-indication -- Non --> paxlovid(Prescription de Paxlovid)
-  style covid stroke:#4150f5, stroke-width:1px
-{{< /mermaid >}}
-
-{{% /collapse %}}
 {{%sources%}}
 
 {{< youtube id="lqPQbjeOyog" title="Symptômes prolongés de la Covid-19 chez l'adulte - 15 avril 2021 (HAS)" >}}
