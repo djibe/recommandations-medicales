@@ -18,8 +18,10 @@
   interpolate-size: allow-keywords;
 }
 
-@view-transition {
-  navigation: auto;
+@media (prefers-reduced-motion: no-preference) {
+  @view-transition {
+    navigation: auto;
+  }
 }
 
 h2,h4,h5,h6, p, li, dl, legend {
