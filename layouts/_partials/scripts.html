@@ -13,7 +13,7 @@
 {{ end -}}
 
 {{ with .Params.chart }}
-<script src="https://cdn.jsdelivr.net/npm/apexcharts@5.12" crossorigin defer></script>
+<script src="https://cdn.jsdelivr.net/npm/apexcharts@5.13" crossorigin defer></script>
 <script>
 document.addEventListener( 'DOMContentLoaded', event => {
   Apex = {
@@ -81,7 +81,7 @@ document.addEventListener( 'DOMContentLoaded', event => {
           fontWeight: 400
         }
       },
-      tooltip: {enabled: false}
+      tooltip: {enabled: false, arrow: false}
     },
     yaxis: {
       forceNiceScale: true,
