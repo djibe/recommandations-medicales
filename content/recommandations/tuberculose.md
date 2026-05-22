@@ -31,12 +31,12 @@ datatable = true
 
 {{%/article-summary%}}
 
-{{< odisse title="Incidence de la tuberculose (cas notifiés en France)" url="https://odisse.santepubliquefrance.fr/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiJ5ZWFyIiwicXVlcmllcyI6W3siY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoic3BsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidGJfbmJfY2FzIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzQxNTBmNSJ9XSwiY29uZmlnIjp7ImRhdGFzZXQiOiJ0dWJlcmN1bG9zZS1kb25uZWVzLWRlY2xhcmF0aW9uLW9ibGlnYXRvaXJlX2ZyYSIsIm9wdGlvbnMiOnt9fSwieEF4aXMiOiJhYWFhIiwibWF4cG9pbnRzIjoiIiwidGltZXNjYWxlIjoieWVhciIsInNvcnQiOiIifV0sImFsaWduTW9udGgiOnRydWUsImRpc3BsYXlMZWdlbmQiOmZhbHNlLCJzaW5nbGVBeGlzIjp0cnVlLCJzY2llbnRpZmljRGlzcGxheSI6ZmFsc2UsInlSYW5nZU1pbiI6IjAifQ%3D%3D" >}}
+{{< odisse title="Incidence de la tuberculose (cas déclarés en France)" url="https://odisse.santepubliquefrance.fr/chart/embed/?flg=fr-fr&dataChart=eyJ0aW1lc2NhbGUiOiJ5ZWFyIiwicXVlcmllcyI6W3siY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoic3BsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoibm9tYnJlX2RlX2Nhc19ub3RpZmllc19kZV90dWJlcmN1bG9zZSIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiM0MTUwZjUifV0sImNvbmZpZyI6eyJkYXRhc2V0IjoidHViZXJjdWxvc2UtZG9ubmVlcy1kZWNsYXJhdGlvbi1vYmxpZ2F0b2lyZV9mcmEiLCJvcHRpb25zIjp7fX0sInhBeGlzIjoiYW5uZWUiLCJtYXhwb2ludHMiOiIiLCJ0aW1lc2NhbGUiOiJ5ZWFyIiwic29ydCI6IiJ9XSwiYWxpZ25Nb250aCI6dHJ1ZSwiZGlzcGxheUxlZ2VuZCI6ZmFsc2UsInNpbmdsZUF4aXMiOnRydWUsInlSYW5nZU1pbiI6IjAiLCJ5UmFuZ2VNYXgiOiI2MDAwIn0%3D" >}}
 
 {{%collapse "Dépistage de la tuberculose" %}}
 
 > [!INFO]
-> Le dépistage est réalisé par radiographie thoracique chez les sujets à risque asymptomatiques et par un test IGRA (test de détection de la production d'interféron gamma, dit Quantyféron®) chez l'enfant (ou méthode alternative chez l'adulte et l'adolescent), complété par radiographie thoracique si positif).
+> Le dépistage est réalisé par radiographie thoracique chez les sujets à risque asymptomatiques et par un test IGRA (test de détection de la production d'interféron gamma, dit Quantyféron®) chez l'enfant (ou méthode alternative chez l'adulte et l'adolescent, complété par radiographie thoracique si positif).
 
 Le dépistage de la tuberculose (test IGRA et/ou radiographie thoracique) est proposé couplé avec les sérologies VIH, hépatites C et B.
 
@@ -172,7 +172,7 @@ La réaction d'hypersensibilité à la tuberculine apparaît chez les sujets qui
 #### Réaliser l'intradermoréaction
 
 1. Désinfecter l'opercule du flacon et laisser sécher avant de ponctionner le septum du flacon
-2. Avec l'aiguille d'IM, prélever 0,1 mL de tuberculine
+2. Avec l'aiguille d'IM, prélever 0,1 mL de tuberculine (soit 5 UI)
 3. Remplacer l'aiguille par l'aiguille marron
 4. Désinfecter la peau: milieu de l'avant-bras face palmaire
 5. Piquer biseau vers le haut, parallèlement à la peau en la tendant légèrement
@@ -223,6 +223,7 @@ L'IDR est en faveur de l'absence de primo-infection si elle est < 5 mm (10 mm en
 {{% /collapse %}}
 {{%sources%}}
 
+- [ANSM. TUBERCULINE PPD RT 23 AJV 2T.U. / 0,1 mL, solution injectable - Fiche pratique pour les professionnels de santé. Avril 2026.](https://ansm.sante.fr/uploads/2026/04/21/20260421-tuberculine-fiche-pratique.pdf)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. ALD 29 - Tuberculose maladie. Actes et prestations Affection de longue durée. 2025.](https://www.has-sante.fr/jcms/c_482999/fr/ald-n-29-tuberculose-maladie)
 - {{< references/voyageur >}}
