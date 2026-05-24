@@ -4,21 +4,22 @@ title = "Dépression"
 prefix = "la "
 description = "Recommandations pour le diagnostic et la prise en charge de la dépression. Questionnaire PHQ-9 ou Hamilton, sévérité, psychothérapie et antidépresseur ISRS"
 longHtml = true
-synonyms = ["Syndrome dépressif", "épisode dépressif caractérisé (EDC)"]
+synonyms = ["Syndrome dépressif", "épisode dépressif caractérisé (EDC)", "dépression du sujet âgé"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-14T20:15:23+02:00"
 publishdate = "2023-11-20"
-lastmod = "2025-04-03"
+lastmod = "2026-05-24"
 specialites = ["psychiatrie"]
 annees = "2023"
 sources = ["ACP", "VA", "HAS"]
 tags = ["BPCO", "cancer", "démence", "dépistage", "dépression", "diabète", "douleur", "fatigue", "gériatrie", "grossesse", "obésité"]
-english = ["dépression", "major depressive disorder (MDD)"]
+english = ["dépression", "major depressive disorder (MDD)", "late-life depression (LLD)"]
 sctid = "35489007"
 icd10 = ["F32", "F32.0", "F32.1", "F32.9", "F33", "F33.9", "F41.2"]
 image = true
-imageSrc = "La dépression par storyset / Freepik"
+imageSrc = "La dépression. storyset / Freepik"
 rank = "ok"
+writing = "todo"
 todo = "déplacer fiche suicide, indications suivi CMP, ECG, Appli Way4Good, quest ASQ, HAS2017p10, https://www.sfmu.org/upload/70_formation/02_eformation/02_congres/Urgences/urgences2014/donnees/pdf/101.pdf, grille RUD https://psychotropes.fr/storage/3/tool8.pdf, http://beh.santepubliquefrance.fr/beh/2024/3/2024_3_1.html, https://www.nejm.org/doi/full/10.1056/NEJMcp2305428"
 flowchart = true
 +++
@@ -27,13 +28,13 @@ flowchart = true
 
 - La dépression ou épisode dépressif caractérisé (EDC) est fréquente, avec la persistance pendant plus de 2 semaines de plusieurs symptômes parmi: humeur dépressive, perte de plaisir, modifications du poids, troubles du sommeil, agitation ou ralentissement psychomoteur, fatigue persistante, dévalorisation (voir *Critères diagnostiques* et *Échelles de dépression*)
 - Dépister la dépression à partir de 12 ans (grossesse ++) et en cas de trouble cognitif: {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}} (couplé au repérage d'une anxiété)
-- Aide au diagnostic de la dépression chez l'adulte: {{< modal-btn modal-phq9 >}}questionnaire PHQ-9{{< /modal-btn >}}, Beck, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, {{< modal-btn modal-gds15 >}}GDS-15{{< /modal-btn >}} (sujet âgé)
+- Questionnaires pour l'aide au diagnostic de la dépression chez l'adulte: {{< modal-btn modal-phq9 >}}questionnaire PHQ-9{{< /modal-btn >}}, Beck, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, {{< modal-btn modal-gds15 >}}GDS-15{{< /modal-btn >}} (sujet âgé)
 - En cas de diagnostic d'épisode dépressif caractérisé: évaluer la sévérité ({{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, Beck, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}), le risque suicidaire, les comorbidités (et dépister une {{< modal-btn modal-gad2 >}}anxiété{{< /modal-btn >}}), toxiques, le handicap.  
   Avec l'accord du patient, interroger l'entourage.
-- Bilan de la dépression: NFS, ionogramme, calcémie, bilan hépatique, glycémie, TSH, ± toxiques urinaires, apnées du sommeil
-- La prise en charge de la dépression associe toujours: {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} ou thérapies cognitivo-comportementales (TCC) (voir [Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}) pour le remboursement), activités physiques et sociales, rythme de vie, information du patient (dont lignes d'écoute)
-- Traitement antidépresseur de la dépression: {{< modal-btn modal-isrs >}}inhibiteur sélectif de la recapture de la sérotonine{{< /modal-btn >}} (ISRS) ou {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}} en première intention, à envisager pour un EDC d'intensité modérée et systématique si sévère
-- Consultation psychiatrique en cas de diagnostic incertain, comorbidités psychiatriques, suspicion de maladie bipolaire ou psychose, dépression sévère ou résistante
+- Le bilan d'une dépression comprend: NFS, ionogramme, calcémie, bilan hépatique, glycémie, TSH, ± toxiques urinaires, apnées du sommeil
+- La prise en charge de la dépression associe toujours {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} et/ou thérapies cognitivo-comportementales (TCC) (voir [Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}) pour le remboursement), activités physiques et sociales, rythme de vie, information du patient (dont lignes d'écoute)
+- Le traitement médicamenteux antidépresseur de la dépression est un {{< modal-btn modal-isrs >}}inhibiteur sélectif de la recapture de la sérotonine{{< /modal-btn >}} (ISRS) ou {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}} en première intention, à envisager pour une dépression modérée et systématique si sévère
+- Adresser au psychiatre en cas de doute diagnostique, de comorbidités psychiatriques, de suspicion de trouble bipolaire, psychose, dépression sévère ou résistante
 
 La dépression de l'enfant et la dépression récurrente seront traitées ultérieurement.
 
@@ -257,15 +258,15 @@ En ville, le motif de consultation est **somatique** pour 45 à 95 % des patient
 Les symptômes doivent être présents depuis au moins 15 jours avec changement par rapport à l'état antérieur:
 
 - Antécédents  
-  **Psychiatriques** (tentative de suicide, bipolarité, **dépression**, (hypo)-**manie**, anxiété), médicaux, hospitalisations, maltraitance, agressions (homophobes ...).
+  **Psychiatriques** (tentative de suicide, bipolarité, **dépression**, (hypo)-**manie**, anxiété), médicaux (arythmie, hypertension, allongement du QT), hospitalisations, maltraitance, agressions (homophobes ...).
 - Antécédents familiaux (psychiatriques)
 - Traitements en cours, automédication  
-  Médicaments à risque, toujours lire les RCP: antiépileptiques, neuroleptiques, myorelaxants, méthylphénidate, alcool (baclofène, acamprosate, naltrexone), IMAO-B, interféron, rétinoïdes, corticoïdes, montélukast, immunodépresseurs (aprémilast ...), antiviral (ribavirine, éfavirenz ...), pitolisant.
+  Médicaments à risque, toujours lire les RCP: finastéride, antiépileptiques, neuroleptiques, myorelaxants, méthylphénidate, alcool (baclofène, acamprosate, naltrexone), IMAO-B, interféron, rétinoïdes, corticoïdes, montélukast, immunodépresseurs (aprémilast ...), antiviral (ribavirine, éfavirenz ...), pitolisant.
 - Contraception (hormonale ++)
 - Facteurs de risque psycho-sociaux
   - Deuil, perte de relations, aidant, problèmes (financiers, logement, travail, famille)
   - Environnement socio-professionnel et ressources, maltraitance, harcèlement
-- Symptômes psychoaffectifs
+- **Symptômes psychoaffectifs:**
   - Perturbation de l'humeur  
     Humeur dépressive, tristesse quasi permanente (maximale le matin, amélioration dans la journée).
   - Perturbation des émotions  
@@ -273,7 +274,7 @@ Les symptômes doivent être présents depuis au moins 15 jours avec changement 
   - Altération du contenu de la pensée  
     Culpabilité, dévalorisation (inutilité, indignité), incurabilité.
   - Pensées de mort
-- Perturbations psychomotrices
+- **Perturbations psychomotrices:**
   - Ralentissement psychomoteur ou agitation
   - Perturbations du cours de la pensée  
     Bradypsychie, ruminations négatives, monoidéisme.
@@ -281,7 +282,7 @@ Les symptômes doivent être présents depuis au moins 15 jours avec changement 
     Troubles de la concentration, de la mémoire, de l'attention, indécision.
   - Ralentissement moteur et comportemental  
     Bradykinésie, hypomimie, bradyphémie, aprosodie, clinophilie, incurie, aboulie (exécution des actes planifiés et prise de décision).
-  - Perturbations physiologiques
+  - **Perturbations physiologiques:**
     - Troubles du sommeil et du rythme circadien  
       **Insomnie avec réveils nocturnes**, réveils précoces ou d'endormissement, somnolence.
     - [Fatigue](/tags/fatigue/)
@@ -295,17 +296,17 @@ Les symptômes doivent être présents depuis au moins 15 jours avec changement 
 - Comorbidités
   - Toxiques, sevrage
   - Auto/hétéro-agressivité
-  - Dépistage d'une anxiété (75%): {{< modal-btn modal-gad2 >}}échelle GAD-2{{< /modal-btn >}}
+  - Dépistage d'une anxiété (75 %): {{< modal-btn modal-gad2 >}}échelle GAD-2{{< /modal-btn >}}
   - {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 - Retentissement socio-professionnel
 - **Évaluation du risque suicidaire**
-- Sujet âgé: rechercher une maladie neuro-dégénérative ([Alzheimer]({{% relref "maladie-alzheimer.md" %}}), Parkinson), {{< scores/mmse >}}
+- Sujet âgé: rechercher une maladie neuro-dégénérative ([Alzheimer]({{% relref "maladie-alzheimer.md" %}}), Parkinson), {{< scores/mmse >}} (ou BREF, {{< scores/moca >}})
 - Enfant: irritabilité, baisse des performances scolaires, variations de poids
 
 Avec l'accord du patient, interroger l'entourage.
 
-Particularités de la dépression de l'adolescent: irritabilité, agressivité, troubles des conduites et plaintes somatiques au 1^er^ plan.
-{.alert .alert-info}
+> [!INFO]
+> Particularités de la dépression de l'adolescent: irritabilité, agressivité, troubles des conduites et plaintes somatiques au 1^er^ plan.
 
 Questionnaires d'aide au diagnostic de la dépression (voir la section dédiée): {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HADS{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, adolescent {{< modal-btn modal-adrs >}}ADRS{{< /modal-btn >}} (13-20 ans), sujet âgé: {{< modal-btn modal-gds15 >}}échelle GDS-15{{< /modal-btn >}} couplé au MoCa ou {{< scores/mmse >}}.
 
@@ -400,18 +401,21 @@ Si l'hospitalisation est refusée par le patient, évaluer une hospitalisation s
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-### Bilan biologique devant une dépression
+### Bilan devant une dépression
 
-Bilan à la recherche de diagnostic différentiel:
+Bilan d'un épisode dépressif:
 
 - NFS, CRP
 - Glycémie à jeun
 - Ionogramme sanguin, calcémie
-- Bilan hépatique
+- ASAT, ALAT, GGT, PAL
 - [TSH](/tags/tsh/)
+- ± Créatinine
 - ± Toxiques urinaires
 - ± Troubles digestifs, brouillard mental: sérologie cœliaque (*ESsCD*)
 - Homme avec au moins 3 symptômes sexuels (libido, érections, impuissance ...): [testostérone libre ou biodisponible]({{% relref "andropause-deficit-testosterone.md" %}}) (*AFU/SFMS 2021*)
+- ECG (systématique chez le +65 ans ou traitement à risque -- *SFGG 2026*)
+  - +65 ans: renouveler 1 semaine après l'introduction en cas d'arythmie ou de QT long ou limite
 
 > -- *CNUP*
 
@@ -420,21 +424,36 @@ Bilan à la recherche de diagnostic différentiel:
 {{% /collapse %}}
 {{%collapse "Traitement de la dépression de l'adulte" %}}
 
-La prise en charge de la dépression nécessite des consultations dédiées. Pour le remboursement (rare) de la prise en charge de la psychothérapie, voir [Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}).
-{.alert .alert-info}
+> [!INFO]
+> La prise en charge de la dépression nécessite des consultations dédiées. Pour le remboursement (rare) de la prise en charge de la psychothérapie, voir [Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}).
 
 #### Recommandations pour la prise en charge de la dépression selon sa sévérité
 
-- Épisode dépressif caractérisé d'**intensité légère**: {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} ou thérapie cognitive et comportementale (TCC, suggérée par l'*ACP*), réévaluation à 4-8 semaines ({{< modal-btn modal-phq9 >}}questionnaire PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}} d'Hamilton{{< /modal-btn >}})
+##### Épisode dépressif caractérisé d'intensité légère
+
+- {{< modal-btn modal-soutien >}}Psychothérapie de soutien{{< /modal-btn >}} ou thérapie cognitive et comportementale (TCC, suggérée par l'*ACP*)
+- Réévaluation à 4-8 semaines ({{< modal-btn modal-phq9 >}}questionnaire PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}} d'Hamilton{{< /modal-btn >}}):
   - Rémission partielle: poursuite et réévaluation 4-8 semaines.  
     Si persistance: envisager EDC d'intensité modérée ou avis psychiatrique.
   - Persistance ou aggravation: réévaluer le diagnostic et envisager un EDC d'intensité modérée
-- EDC d'**intensité modérée**: TCC (psychiatre, psychologue clinicien ou psychothérapeute), antidépresseur {{< modal-btn modal-isrs >}}ISRS{{< /modal-btn >}}/{{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}/autre (*HAS*: selon l'impression clinique; *ACP*: suggéré), réévaluation à 4-8 semaines
+
+##### Épisode dépressif caractérisé d'intensité modérée
+
+- TCC (psychiatre, psychologue clinicien ou psychothérapeute)
+- Antidépresseur {{< modal-btn modal-isrs >}}ISRS{{< /modal-btn >}}/{{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}/autre selon l'impression clinique (*HAS*) ou suggéré (*ACP*)
+- Réévaluation à 4-8 semaines:
   - Rémission complète: psychothérapie, poursuivre l'éventuel antidépresseur 6-12 mois (4-9 selon l'*ACP*)
-  - Rémission partielle: psychothérapie, augmenter ou substituer l'antidépresseur, réévaluation 4-8 semaines
+  - Rémission partielle: psychothérapie, augmenter ou substituer l'antidépresseur, réévaluation à 4-8 semaines
   - Persistance ou aggravation: réévaluer le diagnostic et envisager un EDC d'intensité sévère
-- EDC d'**intensité sévère**: vérifier les critères d'hospitalisation, antidépresseur d'emblée {{< modal-btn modal-isrs >}}ISRS{{< /modal-btn >}}/{{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}/autre et avis psychiatrique (psychothérapie, antidépresseur)
-  - Rémission complète: psychothérapie, poursuivre l'antidépresseur 6-12 mois
+
+##### Épisode dépressif caractérisé d'intensité sévère
+
+- Vérifier les critères d'hospitalisation
+- Antidépresseur d'emblée {{< modal-btn modal-isrs >}}ISRS{{< /modal-btn >}}/{{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}/autre ()
+- +65 ans: {{< modal-btn modal-isrs >}}sertraline{{< /modal-btn >}} ou mirtazapine (bénéfices: reprise de poids, troubles du sommeil, moins d'hyponatrémies)
+- Avis psychiatrique (psychothérapie, antidépresseur)
+- Réévaluation:
+  - Rémission complète: psychothérapie, poursuivre l'antidépresseur 6-12 mois (+65 ans: 12 mois/EDC voire à vie)
   - Rémission partielle, persistance ou aggravation: réévaluation psychiatrique, envisager l'hospitalisation
 
 {{< card-link-external title="Switch des antidépresseurs" url="https://www.psychopharma.fr/switch" subtitle="par Psychopharma" >}}
@@ -444,7 +463,7 @@ La prise en charge de la dépression nécessite des consultations dédiées. Pou
 [Annuaire des psychiatres](https://www.sante.fr/recherche/trouver/psychiatre/Autour%20de%20moi) et des [Centres médico-psychologiques](https://www.sante.fr/recherche/trouver/cmp) (CMP).
 
 - Correction des facteurs psycho-sociaux
-- Activité physique régulière
+- **Activité physique régulière**
   - Marche, jogging, yoga, Qi Gong, renforcement musculaire
   - Encore plus efficaces de manière intense
   - Prescription d'*activité physique adaptée* (APA, [guide info patient (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_depression.pdf))
@@ -452,7 +471,7 @@ La prise en charge de la dépression nécessite des consultations dédiées. Pou
 - Maintenir un rythme de vie sain (horaires, sommeil)
 - Luminothérapie (*VA 2022*)
 - Éviter la consommation d'alcool et de toxiques
-- Psychothérapie  
+- **Psychothérapie**  
   {{< modal-btn modal-soutien >}}De soutien{{< /modal-btn >}} ([lignes d'écoute](https://www.psycom.org/sorienter/les-lignes-decoute/#soutien-psychologique-par-profession-655774df4b7d2)), **thérapies cognitivo-comportementales** (TCC), psychothérapies psychodynamiques ou d'inspiration analytique, thérapies systémiques.
 - Arrêt de travail si nécessaire  
   Court (1-2 semaines) avec réévaluations tous les 3-7 jours ou 1 mois avec évaluations hebdomadaires (*Ameli*).
@@ -471,7 +490,7 @@ Le traitement d'attaque de la phase aiguë de dépression vise la **rémission c
 
 > << Il n'existe pas de différence d'efficacité clinique démontrée entre les différents types d'antidépresseurs pour les patients suivis en ambulatoire. >> -- *HAS 2017*
 
-Classes thérapeutiques d'antidépresseurs: {{< modal-btn modal-isrs >}}ISRS{{< /modal-btn >}}, {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}, autres antidépresseurs (miansérine, mirtazapine 15-45 mg/j, vortioxétine sauf tianeptine et agomélatine). Antidépresseurs imipraminiques (tricycliques) en 2e intention par toxicité cardiovasculaire (et pas après 75 ans) et IMAO en dernier recours.
+Classes thérapeutiques d'antidépresseurs: {{< modal-btn modal-isrs >}}ISRS{{< /modal-btn >}}, {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}, autres antidépresseurs (miansérine, mirtazapine 15-45 mg/j, vortioxétine sauf tianeptine et agomélatine). Antidépresseurs imipraminiques (tricycliques) en 2^e^ intention par toxicité cardiovasculaire (et pas après 75 ans) et IMAO en dernier recours.
 
 - Évaluer les interactions médicamenteuses ([Drugs.com](https://www.drugs.com/drug_interactions.html))
 - Réévaluation à 1 et 2 semaines, puis rapprochée les 2 premiers mois (désinhibition suicidaire, agitation, effets indésirables)
@@ -481,7 +500,7 @@ Classes thérapeutiques d'antidépresseurs: {{< modal-btn modal-isrs >}}ISRS{{< 
 - Délai d'action plus long chez le sujet âgé (maintenir minimum 1 an après rémission)
 - Thérapies autres: acupuncture (*ACP*)
 - Si anxiété, agitation, insomnies invalidantes: [benzodiazépine]({{% relref "benzodiazepines.md" %}}) pendant 2 semaines
-- Arrêt progressif de l'antidépresseur (> 1 mois -- *BAP*, *NICE*) après décision partagée au-delà de 6-12 mois de rémission  
+- Arrêt progressif de l'antidépresseur (> 1 mois -- *BAP*, *NICE*) après décision partagée au-delà de 6-12 mois de rémission (+65 ans: 25 %/2-5 semaines -- *SFGG 2026*)  
   Prolonger le traitement (2 ans) en cas de trouble dépressif récurrent.
 
 > Selon *BAP 2015*, choix pour une efficacité maximale recherchée: clomipramine, venlafaxine ≥ 150 mg, escitalopram 20 mg, sertraline voire amitriptyline ou mirtazapine.
@@ -490,18 +509,9 @@ Classes thérapeutiques d'antidépresseurs: {{< modal-btn modal-isrs >}}ISRS{{< 
 
 Les autres traitements, médicamenteux (IMAO, buspirone, kétamine, eskétamine) ou non (électroconvulsivothérapie ECT, neurochirurgie) relèvent du psychiatre.
 
-La bithérapie est également une décision du spécialiste: grade A (quétiapine, aripiprazole, risperidone), grade B (olanzapine, mirtazapine voire bupropion, buspirone).
+La bithérapie est également une décision du spécialiste: grade A (quétiapine, aripiprazole -- choix si +65 ans, rispéridone), grade B (olanzapine, mirtazapine voire bupropion, buspirone).
 
 > << Au total, dans l'indication de traitement de la dépression résistante chez l'adulte, malgré un profil de sécurité rassurant, les données retenues liées à la rTMS (stimulation électrique transcrânienne) ne montrent pas un impact clinique favorable >> -- *HAS 2022*
-
-{{% /collapse %}}
-{{%collapse "FMC gratuites" %}}
-
-{{< iframe url="https://podcasters.spotify.com/pod/show/guideline/embed/episodes/Episode-27---Traitements-de-lpisode-dpressif-caractris-en-MG-e23rnu7/a-a99e28h" title="Traitement de l'épisode dépressif caractérisé en MG (Guideline.care)" height="102" >}}
-
-{{< youtube id="yiuNoRaEs6k" title="Pourquoi la dépression de l'adolescent est-elle difficile à repérer ? (HAS)" >}}
-
-{{< youtube id="_vohZ4j3iko" title="Aspects sémiologiques des syndromes dépressifs et maniaques  (AESP)" >}}
 
 {{% /collapse %}}
 {{% collapse "Prise en charge de la dépression" "show" %}}
@@ -527,6 +537,11 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="yiuNoRaEs6k" title="Pourquoi la dépression de l'adolescent est-elle difficile à repérer ? (HAS)" >}}
+
+{{< youtube id="_vohZ4j3iko" title="Aspects sémiologiques des syndromes dépressifs et maniaques (AESP)" >}}
+
+- [Houix M, et al. Optimizing Antidepressant Use in Geriatric Depression: Expert Consensus from French societies of geriatrics, old age psychiatry and clinical pharmacy (SFGG, SF3PA and SFPC). European Psychiatry. 2026.](https://www.cambridge.org/core/journals/european-psychiatry/article/optimizing-antidepressant-use-in-geriatric-depression-expert-consensus-from-french-societies-of-geriatrics-old-age-psychiatry-and-clinical-pharmacy-sfgg-sf3pa-and-sfpc/874ED18BB0B0CDFBC7795BAFA25B2E16)
 - [Clegg AJ, et al. Exercise for depression. Cochrane Database of Systematic Reviews. 2026.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004366.pub7/full/fr)
 - [Noetel M, et al. Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ. 2024.](https://www.bmj.com/content/384/bmj-2023-075847)
 - [US Preventive Services Task Force, Barry MJ, et al. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2806144)
@@ -557,8 +572,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Houix M, et al. Optimizing Antidepressant Use in Geriatric Depression: Expert Consensus from French societies of geriatrics, old age psychiatry and clinical pharmacy (SFGG, SF3PA and SFPC). European Psychiatry. 2026.](https://www.cambridge.org/core/journals/european-psychiatry/article/optimizing-antidepressant-use-in-geriatric-depression-expert-consensus-from-french-societies-of-geriatrics-old-age-psychiatry-and-clinical-pharmacy-sfgg-sf3pa-and-sfpc/874ED18BB0B0CDFBC7795BAFA25B2E16)
-- [Aborder les tendances suicidaires en première ligne de soins. Minerva. 2025.](https://minerva-ebp.be/FR/Article/2422)
+- [Stas P. Aborder les tendances suicidaires en première ligne de soins. Minerva. 2025.](https://minerva-ebp.be/FR/Article/2422)
 - [Yrondi A, et al. French Society for Biological Psychiatry and Neuropsychopharmacology (AFPBN) guidelines for the management of patients with partially responsive depression and treatment-resistant depression: Update 2024. Encephale. 2024.](https://pubmed.ncbi.nlm.nih.gov/38369426/)
 - [Belzeaux R, et al. French Society for Biological Psychiatry and Neuropsychopharmacology and French-speaking Marcé Society guidelines for the management of mood disorders in women before, during, and after pregnancy. Arch Womens Ment Health. 2024.](https://link.springer.com/article/10.1007/s00737-024-01440-6)
 - [CBIP. Arrêt progressif des antidépresseurs : lignes directrices (mise à jour 2024). Folia Pharmacotherapeutica. 2024.](https://www.cbip.be/fr/articles/4239?folia=4237)
