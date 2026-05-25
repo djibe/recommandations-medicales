@@ -38,7 +38,7 @@ todo = "flowchart; gitgraph: Continu femme, Schéma continu homme, Schéma disco
 - ou **schéma discontinu** uniquement en l'absence de VHB chez les HSH (ou transgenre avec sexe anal uniquement):
   Truvada® 2 cp en 1 prise 2 à 24 heures avant le rapport à protéger, puis 1 cp 24 et 48h après la double prise
 - Arrêt du traitement: 1 cp/j pendant 2 jours après le dernier rapport non protégé puis arrêt
-- Une PrEP injectable mensuelle est également disponible
+- Une PrEP injectable mensuelle est également disponible (cabotégravir)
 - En cas d'oubli de la PrEP, un traitement post-exposition pendant un mois est possible avec reprise de la PrEP à l'issue
 - Applis pour l'aide à l'observance (My PrEP ..., voir *Resources patients*)
 - Suivi biologique et dépistages des IST systématique
@@ -254,7 +254,7 @@ puis 1 cp à H24 (± 2h) après la double prise, à renouveler à H48 (± 2h).
 
 ### La PrEP injectable d'action prolongée
 
-La PrEP par cabotégravir (CAB-LP, [Vocabria®](https://base-donnees-publique.medicaments.gouv.fr/medicament/67129301/extrait#tab-rcp-et-notice)) est disponible en 2^e^ intention en cas de nécessité d'une prise de longue durée ou de contre-indication au ténofovir (insuffisance rénale < 50 mL/min/1,73m²)
+La PrEP par cabotégravir (CAB-LP, [Apretude®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62595850/extrait#tab-rcp-et-notice)) est disponible en 2^e^ intention en cas de nécessité d'une prise de longue durée ou de contre-indication au ténofovir (insuffisance rénale < 50 mL/min/1,73m²)
 
 ### Arrêt de la PrEP
 
@@ -338,6 +338,7 @@ gitGraph
 
 - [Améli Médecin. Utilisation de la PrEP : des initiations stabilisées mais une diffusion encore incomplète. 27/11/2025.](https://www.ameli.fr/medecin/actualites/utilisation-de-la-prep-des-initiations-stabilisees-mais-une-diffusion-encore-incomplete)
 - [HAS, ANRS, CNS. Traitement préventif pré-exposition de l'infection par le VIH. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3536524/fr/traitement-preventif-pre-exposition-de-l-infection-par-le-vih)
+- [HAS. APRETUDE (cabotégravir). Avis sur les médicaments. 2024.](https://www.has-sante.fr/jcms/p_3526084/fr/apretude-cabotegravir-vih-/-prep)
 - [Chou R et al. Preexposure Prophylaxis for the Prevention of HIV: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2023.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prevention-of-human-immunodeficiency-virus-hiv-infection-pre-exposure-prophylaxis)
 - Ameli Médecin. Forte augmentation de la prescription de la PrEP en ville par des médecins généralistes. 29/11/2022.
 - [Velter A et al. Évolution du niveau de protection contre le VIH parmi les hommes ayant des rapports sexuels avec des hommes séronégatifs pour le VIH -- Résultats de l'enquête Rapport au sexe 2017-2019-2021. BEH. 2022.](http://beh.santepubliquefrance.fr/beh/2022/24-25/2022_24-25_1.html)
