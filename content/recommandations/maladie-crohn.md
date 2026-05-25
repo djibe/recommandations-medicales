@@ -6,26 +6,28 @@ description = "Recommandations pour le diagnostic et la prise en charge de la ma
 synonyms = ["Maladies inflammatoires chroniques de l'intestin (MICI)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-05-15T18:04:40+02:00"
-publishdate = "2026-05-22"
-lastmod = "2026-05-22"
+publishdate = "2026-05-25"
+lastmod = "2026-05-25"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2025"
-sources = ["ECCO", "ESGAR", "AGA"]
+sources = ["ECCO", "AGA", "GETAID"]
 tags = []
 english = ["Crohn's disease (CD)", "is an inflammatory bowel disease (IBD)"]
 sctid = "34000006"
 icd10 = ["K50.9"]
-draft = true
 image = false
 imageSrc = ""
 rank = "false"
 writing = "todo"
-todo = "summary > liens > photo > newsletter > flow > Kanban"
+todo = "liens > photo >  flow > Kanban | demander relecture David Laharie"
 +++
 
 {{%article-summary%}}
 
-TODO: (at the end)
+- La maladie de Crohn (MC) est une maladie inflammatoire chronique de l'intestin (MICI) entraînant des lésions chroniques du tube digestif, parfois associées à des lésions extra-intestinales
+- Les symptômes évocateurs de maladie de Crohn sont des douleurs abdominales, des diarrhées (souvent glairo-sanglantes) avec un amaigrissement. Des fistules périanales sont un autre mode de présentation
+- Le diagnostic de maladie de Crohn est clinico-bio-radio-anatomo-endoscopique: bilan biologique avec élimination des diagnostics différentiels (coproculture et EPS), échographie doppler abdominale, calprotectine fécale et avis spécialisé pour iléo-coloscopie complète avec biopsies
+- La prise en charge de la maladie de Crohn nécessite une équipe spécialisée de gastro-entérologie pour le suivi d'une biothérapie anti-TNFα (ou autre), l'arrêt du tabac, le suivi et les mesures diététiques, le dépistage du cancer colorectal ...
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -66,6 +68,9 @@ AGA
 BHA
 : bruits hydroaériques
 
+CDAI
+: {{%lang%}}Crohn's disease activity index{{%/lang%}}
+
 CDU-HGE
 : Collège Des Universitaires d'Hépato-GastroEntérologie
 
@@ -78,8 +83,8 @@ EOGD
 EPS
 : examen parasitologique des selles
 
-ESGAR
-: {{%lang%}}European Society of Gastrointestinal and Abdominal Radiology{{%/lang%}}
+GETAID
+: Groupe d'Études Thérapeutiques des Affections Inflammatoires du tube Digestif
 
 IOIBD
 : {{%lang%}}International Organization for the Study of Inflammatory Bowel Diseases{{%/lang%}}
@@ -110,20 +115,21 @@ Autres diagnostics à rechercher devant des douleurs abdominales avec des troubl
 
 ### Interrogatoire
 
-> << Le tabagisme, la prise d'antibiotiques et l'alimentation sont des facteurs de risque potentiellement réversibles des MICI. >> -- *ESPEN*
-
-**NB.** Les symptômes sont peu corrélés au niveau d'inflammation intestinale.
+> [!INFO]
+> Les symptômes de la maladie de Crohn sont peu corrélés au niveau d'inflammation intestinale.
 
 - Antécédents
 - Antécédents familiaux de maladie inflammatoire chronique de l'intestin (MICI)
 - Comorbidités associées: spondylarthrite ankylosante, cholangite sclérosante primitive
 - Traitements
-- Antibiothérapies récentes
 - Tabagisme
+- Intolérances alimentaires
+- Prise récente d'antibiotiques et d'AINS
+- Voyages récents
 - Mode d'installation et évolution
 - **Signes et symptômes de maladie de Crohn:**
   - **Douleurs abdominales** (souvent en fosse iliaque droite), syndrome de Koenig
-  - **Diarrhées**, parfois sanglantes
+  - **Diarrhées**, parfois sanglantes (rectorragies) et/ou glaireuses (40-50 %), jour et nuit
   - **Symptômes anopérinéaux** (30 %): très évocateurs avec **fistule périanale** (présentation de 10 % des diagnostics), [fissure anale]({{% relref "fissure-anale.md" %}}), abcès, ulcères, sténose, marisques, tumeur
   - Symptômes extra-digestifs associés aux poussées: aphtose buccale, arthrite, [psoriasis]({{% relref "psoriasis.md" %}}), érythème noueux, uvéite
   - Signes généraux: **amaigrissement**, fatigue, parfois fièvre
@@ -134,7 +140,12 @@ Autres diagnostics à rechercher devant des douleurs abdominales avec des troubl
 - Pression artérielle, fréquence cardiaque
 - Poids et variations, taille, IMC
 - Chez l'enfant: courbes de croissance (rechercher un retard staturo-pondéral)
+- Palpation abdominale
+- Inspection du périnée
+- Examen buccal, cutané, articulaire et des yeux
 - {{< modal-btn modal-mna >}}Rechercher une dénutrition{{< /modal-btn >}}
+
+> << Une anémie inexpliquée et un retard de croissance doivent faire évoquer le diagnostic chez l'enfant. >> -- *GETAID 2024*
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -151,17 +162,19 @@ Bilan initial d'une suspicion de MICI:
 - Examen parasitologique des selles (EPS)
 - Coproculture  
   Recherche de *[Clostridioides difficile]({{% relref "infections-clostridium-difficile.md" %}})*, *Shigella*, *Campylobacter jejuni*, *Escherichia coli* et *Yersinia enterocolitica* (à répéter lors d'une poussée).
-- Calprotectine fécale
+- Calprotectine fécale (> 150 µg/g)
 - **Échographie doppler abdominale** (entéroIRM sur avis spécialisé -- *ECCO/ESGAR*)
 - **Iléo-coloscopie** complète avec biopsies
 
-> La CRP est un marqueur corrélé à l'activité de la maladie, après la calprotectine, qui est le marqueur le plus sensible de l'inflammation intestinale.
+> La CRP est un marqueur corrélé à l'activité de la maladie, après la calprotectine, qui est le marqueur le plus sensible de l'inflammation intestinale. Une CRP basse et une calprotectine fécale basse ont une valeur prédictive négative de 99 % pour le diagnostic de MC.
 
 ### Bilans complémentaires au diagnostic
 
 - Carences: ferritine, folates, vitamine B12, vitamine D, zinc
 - Sérologies VHA, VHB, VIH, CMV, EBV (varicelle, rougeole sauf immunisation documentée)
-- Selon les voyages/résidences: dépistage des parasites
+- Selon les voyages/résidences:
+  - dépistage des parasites
+  - [anguillulose]({{% relref "strongyloidose-anguillulose.md" %}}): sérologie anguillulose, EPS 3 jours non consécutifs (*HAS 2017*)
 - Test IGRA  
   Répété chez les travailleurs médico-sociaux.
 - Femme: suivi du frottis cervico-vaginal
@@ -170,7 +183,9 @@ Bilan initial d'une suspicion de MICI:
 Autres bilans spécialisés possibles:
 
 - PR3-ANCA (c-ANCA)
-- Endoscopie œso-gastro-duodénale (EOGD ou gastroscopie), vidéocapsule
+- Endoscopie œso-gastro-duodénale (EOGD ou gastroscopie)  
+  Indications: symptômes digestifs hauts (nausées, vomissements, dyspepsie), suspicion de maladie cœliaque.
+- Vidéocapsule endoscopique (VCE)
 
 Les endoscopies et biopsies peuvent être répétées pour différencier un Crohn d'une RCH.
 
@@ -179,13 +194,13 @@ Les endoscopies et biopsies peuvent être répétées pour différencier un Croh
 
 ### Calprotectine fécale
 
-La calprotectine fécale est un élément diagnostique fort (> 50 μg/g TODO:) et est bien corrélée à l'inflammation intestinale.
+La calprotectine fécale est un élément diagnostique fort (> 150 µg/g, *[Langhorst](https://pubmed.ncbi.nlm.nih.gov/16306771/)*) et est bien corrélée à l'inflammation intestinale.
 
 ### EntéroIRM et scanner abdomino-pelvien
 
 Sur prescription spécialisée, l'**entéro-IRM** évalue l'extension des lésions de l'intestin grêle (contraste par mannitol ou PEG). Injection de gadolinium en cas de lésions anopérinéales.
 
-Le scanner abdomino-pelvien est restreint aux suspicions de complications digestives (perforation, abcès, occlusion).
+Le scanner abdomino-pelvien est restreint aux suspicions de complications intra-abdominales (perforation, abcès, occlusion).
 
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
@@ -201,28 +216,30 @@ Recommandations diététiques pour la prévention de la maladie de Crohn:
 {{%collapse "Traitement de la maladie de Crohn" %}}
 
 > [!INFO]
-> La prise en charge selon l'état de l'art consiste principalement en un traitement médicamenteux continu (*ECCO/ESGAR 2025*).
+> La prise en charge d'après l'état de l'art consiste principalement en un traitement médicamenteux continu (*ECCO/ESGAR 2025*).
 
 Recommandations pour la prise en charge de la maladie de Crohn:
 
 - ==Sevrage tabagique==
-- Vaccinations
+- **Vaccinations**
   - De préférence avant le traitement (vaccins vivants contre-indiqués chez l'immunodéprimé)
   - Hépatite A, hépatite B, HPV (27-45 ans selon pratiques), méningocoques selon le calendrier vaccinal, pneumocoque, ROR, zona
   - Grippe et Covid annuels
 - En cas de pneumonie: recherche de Légionelle (PCR crachats, antigénurie)
-- Activité physique (résistance ++)
-- Diététicien voire nutritionniste
+- **Activité physique** (résistance ++)
+- **Diététicien** voire nutritionniste
   - En cas de surpoids ou obésité: suivi spécialisé
   - Bilans biologiques répétés (ferritine, folate, vitamine B12, vitamine D, zinc; au moins annuel)
   - En poussée: apports protéiques 1,2-1,5 g/kg/j
-- Dépistage du cancer colo-rectal: les MICI exposent à un risque élevé de cancer colorectal (CCR). Coloscopies débutées 6-8 ans après le début des symptômes avec rythme selon l'étude (voir CCR Dépistage et suivi -- SFED 2021 et HAS 2017 TODO:)
+- **Dépistage du cancer colo-rectal** (CCR): les MICI exposent à un risque élevé de [CCR]({{% relref "cancer-colorectal.md" %}}). Coloscopies débutées 6-8 ans après le début des symptômes avec rythme selon le spécialiste
 - Soutien psychologique
 - Information du patient: [guide Ameli](https://www.ameli.fr/assure/sante/themes/maladie-crohn), [guide SNFGE](https://www.snfge.org/grand-public/maladies-digestives/maladie-crohn)
 - Associations de patients: [afa Crohn RCH France](https://www.afa.asso.fr)
 - Éducation thérapeutique (ETP)
 - Déclarer l'[ALD n°24]({{% relref "affection-longue-duree.md" %}})  
   Sauf << maladie de Crohn non opérée et n'ayant pas fait de poussée malgré l'absence de traitement de fond pendant les deux premières années d'évolution. >>
+
+> << Le tabagisme, la prise d'antibiotiques et l'alimentation sont des facteurs de risque potentiellement réversibles des MICI. >> -- *ESPEN*
 
 ### Mesures diététiques
 
@@ -253,25 +270,30 @@ Ne pas recommander: probiotiques ou prébiotiques (ex fructose-oligosaccharide, 
 ### Pour en savoir plus: traitements spécialisés de la maladie de Crohn
 
 > [!WARNING]
-> Les aminosalicylés (5-ASA, acide aminosalicylique et analogues) n'ont plus aucune place dans le traitement de la maladie de Crohn.
+> Les 5-aminosalicylés (5-ASA, Pentasa® et autres) n'ont plus aucune place dans le traitement de la maladie de Crohn (placebo).
 
 Biothérapies suggérées en première intention pour une maladie de Crohn modérée à sévère en ville (*AGA 2025*, *ECCO 2024*):
 
-- Anti-TNFα
-  - Infliximab (Remicade® ou biosimilaires Flixabi®, Inflectra®, Remsima®) ± thiopurine (azathioprine Imurel®)
+- **Anti-TNFα**
+  - Infliximab (Remicade® ou biosimilaires Flixabi®, Inflectra®, Remsima®) ± épargne par thiopurine (azathioprine Imurel®, mercaptopurine)
   - Adalimumab ({{< traitements/adalimumab >}})
 - IL-12/23: ustékinumab (Imuldosa®, Otulfi®, Stelara®, Pyzchiva®, Steqeyma®, Uzpruvo®, Wezenla®, Yesintek®), risankizumab (Skyrizi®), guselkumab (Tremfya®)
 - Anti-IgG1 védolizumab (Entyvio®)
 
 Autres traitements possibles:
 
+- Abstention-surveillance
 - Anti-TNFα
   - Certolizumab (Cimzia®, suggéré)
 - Anti-JAK: upadacitinib (Rinvoq®)
 - Anti-récepteurs de l'intégrine: védolizumab (Entyvio®, suggéré AGA, recommandé ECCO)
 - Méthotrexate sous-cutané (suggéré)
-- Corticoïde entéral (budésonide) ou général (prednisolone)
+- Corticoïde brièvement, entéral (budésonide 9 mg/j) ou général (prednisolone)
 - Phase d'entretien uniquement: thiopurine (± infliximab)
+- IPP (pour les symptômes digestifs hauts)
+- Dilatation endoscopique au ballonnet
+
+La **chirurgie** (résection segmentaire, stricturoplastie) est limitée, après RCP par des équipes spécialisées.
 
 Les immunosuppresseurs sont suspendus en cas d'infection sévère par: grippe, varicelle, herpès diffus, mononucléose.
 
@@ -303,50 +325,39 @@ Les immunosuppresseurs sont suspendus en cas d'infection sévère par: grippe, v
 - **NR**: Non recommandé
 - **ND**: Données insuffisantes
 
-La **chirurgie** est limitée au maximum, après RCP par des équipes spécialisées.
-
 > Les données manquent pour des recommandations sur la transplantation de microbiote fécal (TMF -- *ESPEN 2023*).
 
 {{% /collapse %}}
 {{%collapse "Suivi" %}}
 
-Régulier:
+Le suivi de la maladie de Crohn est spécialisé, au moins tous les 3-6 mois:
 
 - Clinique:
-  - Symptômes (peu corrélés à l'inflammation intestinale)  
-    Dont intestin irritable (prévalence de 29 %)
+  - Symptômes: fréquence des selles et douleurs abdominales ++ (peu corrélés à l'inflammation intestinale)  
+    Dont intestin irritable (prévalence de 29 %).
   - Qualité de vie
   - Poids et variations
   - {{< modal-btn modal-mna >}}Dénutrition{{< /modal-btn >}}
+  - En cas de diarrhées persistantes: éliminer une infection digestive
 - Biologique:
-  - NFS, ==**CRP**==
+  - NFS, ==**CRP**== (seuil 5 mg/L)
   - Ferritine (cible > 30 µg/L)
   - Albumine
   - Micronutriments: folates, vitamine B12, vitamine D, zinc
   - ==**Calprotectine fécale**== (sur avis spécialisé)
-  - À chaque poussée: recherche de *Clostridioides difficile*
+  - À chaque poussée: coproculture et recherche de *Clostridioides difficile*
   - Colite réfractaire: recherche de CMV
 - Radiologique:
   - **Échographie abdominale** (ou entéro-IRM)
 - Iléo-coloscopique:
   - Activité de la maladie
-  - Dépistage du cancer colorectal, dès 8 ans après le début des symptômes (chromoendoscopie ++, *ECCO/ESGAR 2025*) TODO: mettre dans CCR
+  - Dépistage du cancer colorectal, dès 8 ans après le début des symptômes (chromoendoscopie ++, *ECCO/ESGAR 2025*)
   - Annuelles si haut risque: antécédent familial de CCR ≤ 50 ans, sténoses digestives ou dysplasie, cholangite sclérosante primitive (CSP), colite extensive sévère
   - 2-3 ans si risque intermédiaire
   - 5 ans dans les autres cas
 - Suivi spécialisé:
   - Gastro-entérologique, coloscopies
-  - Diététique et nutritionnel  
-
-Explorations complémentaires:
-
-- Diarrhées persistantes: éliminer infection digestive
-
-### Enquête supplémentaire au diagnostic
-
-- Zona
-- Exposition à la tuberculose (et voyages en zone d'endémie)
-- Statut vaccinal des hépatites A et B, BCG, ROR
+  - Diététique et nutritionnel
 
 {{% /collapse %}}
 {{%sources%}}
