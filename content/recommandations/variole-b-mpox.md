@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
 publishdate = "2022-07-20"
-lastmod = "2026-05-05"
+lastmod = "2026-05-24"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2026"
 sources = ["MinSanté", "HAS", "HCSP"]
@@ -19,6 +19,8 @@ sctid = "359814004"
 icd10 = ["B04"]
 image = true
 imageSrc = "Évolution d'une lésion cutanée de Monkeypox. João P. Caldas, Sofia R. Valdoleiros, Sandra Rebelo, and Margarida Tavares, CC0, via Wikimedia Commons"
+rank = "todo"
+writing = "todo"
 todo = "personnes contacts + flow avec https://www.has-sante.fr/jcms/p_3361191/fr/reponses-rapides-infection-par-le-virus-monkeypox-prise-en-charge-en-medecine-de-1er-recours"
 flowchart = true
 +++
@@ -134,9 +136,8 @@ Autres maladies à évoquer devant une éruption cutanée évocatrice de variole
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-[Services d'infectiologie d'aide au diagnostic en Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients).
-
-Un **cas suspect** doit être confirmé par l'**infectiologue** référent de l'établissement de santé de référence (ESR).
+> [!INFO]
+> Un **cas suspect** de variole B/Mpox doit être confirmé par l'**infectiologue** référent de l'établissement de santé de référence (ESR). [Services d'infectiologie d'aide au diagnostic en Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients).
 
 Examen clinique de tout patient suspect de variole B avec tous les moyens de protection (masque FFP2, gants, surblouse ...).
 
@@ -199,7 +200,7 @@ En cas de confirmation du diagnostic, le laboratoire doit transmettre le prélè
 
 ### Qui vacciner contre la variole B ?
 
-Toutes les personnes à haut risque d'exposition au virus de la variole B sont éligibles à la vaccination variole B (Mpox) préexposition:
+Toutes les personnes à haut risque d'exposition au virus de la variole B sont éligibles à la vaccination variole B (Mpox) pré-exposition:
 
 - [Hommes ayant des relations sexuelles avec des hommes (HSH)]({{% relref "hsh.md" %}}) avec partenaires multiples
 - Personnes trans multi-partenaires
@@ -218,7 +219,7 @@ Toutes les personnes à haut risque d'exposition au virus de la variole B sont �
 
 Accès libre à la vaccination Mpox en [centre de vaccination](ttps://www.sante.fr/mpox/) sur auto-déclaration du statut de personne cible (*sante.fr*).
 
-Utilisation le plus souvent de 2 doses de vaccin Mpox (vaccin **MVA-BN** de 3^e^ génération) sauf immunodépression (2 à 3 doses chez PVVIH) ou travailleur du sexe (tableau ci-dessous).
+Utilisation le plus souvent de 2 doses de vaccin Mpox (vaccin **MVA-BN** de 3^e^ génération Imvanex® et Jynneos®) sauf immunodépression (2 à 3 doses chez PVVIH) ou travailleur du sexe (tableau ci-dessous).
 
 | Sujet éligible                       | Vacciné < 1980 | Non vacciné | Idep vacciné < 1980 | Idep non vacciné |
 | ------------------------------------ | :------------: | :---------: | :-----------------: | :--------------: |
@@ -262,7 +263,7 @@ Recommandations pour la prise en charge du patient atteint de variole B (Mpox, c
 
 ### Antiviral tecovirimat
 
-Antiviral disponible en gélules indiqué chez les personnes à **risque de forme grave** de variole du singe (voir *Personnes à risque de forme grave*). La durée de prise du tecovirimat est de 14 jours.
+Le tecovirimat ne doit pas être utilisé pour le traitement de la variole B / Mpox (*ANSM*).
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la variole B / Mpox" "show" %}}
@@ -278,6 +279,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [ANSM. Tecovirimat Siga (técovirimat monohydraté) : restriction d'indication due à l'inefficacité observée lors d'essais cliniques randomisés chez des patients atteints de l’infection à virus mpox (orthopoxvirose simienne). 12/05/2026.](https://ansm.sante.fr/informations-de-securite/tecovirimat-siga-tecovirimat-monohydrate-restriction-dindication-due-a-linefficacite-observee-lors-dessais-cliniques-randomises-chez-des-patients-atteints-de-linfection-a-virus-mpox-orthopoxvirose-simienne)
 - {{< references/calendrier-vaccinal >}}
 - [ANSM. Mpox. 08/04/2025.](https://ansm.sante.fr/dossiers-thematiques/monkeypox)
 - [Haut Conseil de la santé publique. Avis relatif aux mesures de prévention actualisées vis-à-vis de l'infection due au virus monkeypox pour les personnes se rendant dans la zone d'épidémie (voyageurs et professionnels de santé dans le cadre de missions humanitaires). 2024.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1387)
