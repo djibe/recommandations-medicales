@@ -272,12 +272,13 @@ La **pneumonie post-grippale** est une ré-aggravation à J5-J7 après le début
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Radiographie thoracique de face systématique en inspiration sous 3 jours.
-{.alert .alert-info}
+> [!INFO]
+> Radiographie thoracique de face systématique en inspiration sous 3 jours.
 
 Autres bilans ambulatoires de la pneumopathie infectieuse:
 
 - Pas d'examens biologiques systématiques en ambulatoire ni de contrôle ultérieur systématique de la radiographie
+  - Si maladie de Crohn: recherche de Légionelle (*ECCO 2021*)
 - L'échographie thoracique au cabinet: << est le moyen le plus simple au cabinet de ville pour faire le diagnostic >> (*HAS/SPILF 2024*)
 - Le scanner thoracique est un examen de seconde intention devant une présentation ou une évolution atypique
 - Électrophorèse des protéines sériques chez le sujet jeune avec germe encapsulé (pneumocoque, *H. influenzae* - *CEP*)  
@@ -493,6 +494,7 @@ graph TB
 - [GPIP, SFP, AFPA, SPILF. Conduite à tenir autour d'un cas d'infection invasive à Streptocoque du Groupe A. 2022. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/communiques/conduite-a-tenir-cas-contact-infections-invasives-a-sgadef.pdf)
 - Prescrire Redaction. Pneumonie communautaire chez un adulte. Premiers Choix Prescrire. Rev Prescrire. 2022.
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pneumonies aiguës communautaires. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/pneumonies-aigues-communautaires)
+- [Kucharzik T, et al. ECCO Guidelines on the Prevention, Diagnosis, and Management of Infections in Inflammatory Bowel Disease. J Crohns Colitis. 2021.](https://academic.oup.com/ecco-jcc/article/15/6/879/6175313)
 - {{< references/spilf-2020 >}}
 - [Fleurence E; SFP. Toux fébrile. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/2qkkqfucb)
 - [Houdouin V; SFP. Pneumonies : du diagnostic au traitement. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/0xuz)

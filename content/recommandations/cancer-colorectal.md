@@ -280,7 +280,7 @@ La découverte et l'exérèse de **polype** à tout âge fait entrer le sujet da
 | | | <strong>Risque faible:</strong><br>3-4 adénomes < 10 mm en DBG<br>polype festonné < 10 mm sans dysplasie | Coloscopie à 5 ans |
 | Antécédent personnel de CCR<br>sporadique (SFED 2021) | Après résection || Coloscopie à 1 an<br>(sous 6 mois si incomplète)<br>puis intervalle de 3 ans<br>et encore 5 ans (selon polypes) |
 | Antécédent familial 1^er^ degré de CCR<br>ou d'adénome avancé > 10 mm | À partir de 45 ans<br>ou 10 ans avant l'âge<br>de diagnostic du<br>cas index |  | Coloscopie tous les 5 ans |
-| MICI | 6-8 ans après le début<br>des symptômes | <strong>Risque élevé:</strong><br>CSP, ATCD de dysplasie, forme étendue<br>sur +50 % du côlon, persistance inflammatoire,<br>ATCD familiaux CCR, nb pseudo-polypes,<br>sténose colique | Chromoendoscopie tous les 1-2 ans |
+| MICI | 8 ans après le début<br>des symptômes | Selon le profil | Chromoendoscopie (rythme variable -- *ECCO 2025*) |
 | | | <strong>Risque intermédiaire:</strong><br>RCH étendue en dessous de l'angle gauche,<br>MC colique étendue sur 30-50 % | Tous les 3-4 ans |
 | | | <strong>Risque faible:</strong><br>Rectite de RCH et MC colique étendue sur < 30 % | Pas de suivi spécifique défini |
 {caption="Indications au dépistage du cancer colorectal pour les personnes à haut risque selon *SFED 2021* et *HAS 2017*" class="table-sm"}
@@ -350,6 +350,7 @@ graph TB
 {{< youtube id="DV0PVuj4Ljw" title="Quelle surveillance endoscopique pour un cancer du côlon ? (TutoGastro SNFGE)" >}}
 
 - [Traullé E, et al. Rôle des facteurs nutritionnels en prévention du cancer colorectal : niveaux de preuve et perspectives. Bull Epidemiol Hebd. 2026.](https://beh.santepubliquefrance.fr/beh/2026/3-4/2026_3-4_1.html)
+- [Kucharzik T, et al. ECCO-ESGAR-ESP-IBUS Guideline on Diagnostics and Monitoring of Patients with Inflammatory Bowel Disease: Part 1. J Crohns Colitis. 2025.](https://academic.oup.com/ecco-jcc/article/19/7/jjaf106/8219802)
 - [Lecomte T, et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive. 2025.](https://www.snfge.org/tncd/cancer-du-colon-non-metastatique)
 - [Phelip JM, et al. Cancer colorectal métastatique. Thésaurus National de Cancérologie Digestive. 2025.](https://www.snfge.org/tncd/cancer-colorectal-metastatique)
 - [Cotte E, et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive. 2025.](https://www.snfge.org/tncd/cancer-du-rectum)

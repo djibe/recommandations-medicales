@@ -18,7 +18,7 @@ sctid = "33879002"
 icd10 = []
 image = true
 imageSrc = "La vaccination. Freepik"
-todo = "HAS EMLA, Vaccins cancer, texte SEO, choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Rattrapages, https://publications.aap.org/pediatrics/article/150/3/e2021056007/188497/Value-of-the-Immunization-Program-for-Children-in"
+todo = "HAS EMLA, immunosuppression délai vaccin vivant Crohn 2021 ECCO, Vaccins cancer, texte SEO, choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Rattrapages, https://publications.aap.org/pediatrics/article/150/3/e2021056007/188497/Value-of-the-Immunization-Program-for-Children-in"
 +++
 
 {{%article-summary%}}

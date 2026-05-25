@@ -450,7 +450,7 @@ Bilan d'un épisode dépressif:
 
 - Vérifier les critères d'hospitalisation
 - Antidépresseur d'emblée {{< modal-btn modal-isrs >}}ISRS{{< /modal-btn >}}/{{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}}/autre ()
-- +65 ans: {{< modal-btn modal-isrs >}}sertraline{{< /modal-btn >}} ou mirtazapine (bénéfices: reprise de poids, troubles du sommeil, moins d'hyponatrémies)
+- +65 ans: [sertraline](https://base-donnees-publique.medicaments.gouv.fr/medicament/68728154/extrait#tab-rcp) ou [mirtazapine](https://base-donnees-publique.medicaments.gouv.fr/medicament/65512856/extrait#tab-rcp) (bénéfices: reprise de poids, troubles du sommeil, moins d'hyponatrémies)
 - Avis psychiatrique (psychothérapie, antidépresseur)
 - Réévaluation:
   - Rémission complète: psychothérapie, poursuivre l'antidépresseur 6-12 mois (+65 ans: 12 mois/EDC voire à vie)

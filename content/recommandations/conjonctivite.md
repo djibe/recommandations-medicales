@@ -49,11 +49,11 @@ todo = "flow"
   <div class="tab-pane fade show active" id="nav-conj-inf" role="tabpanel" aria-labelledby="nav-tab-inf">
 
 - Hygiène des mains, lavages répétés au sérum physiologique
-- Chlorhydrate de picloxydine ([Vitabact®](https://base-donnees-publique.medicaments.gouv.fr/medicament/64840049/extrait#tab-rcp)) collyre 1 gte x 4-6/j
+- Chlorhydrate de picloxydine collyre ([Vitabact®](https://base-donnees-publique.medicaments.gouv.fr/medicament/64840049/extrait#tab-rcp)) 1 gte x 4-6/j
 - Conjonctivite bactérienne sévère (purulence marquée, chémosis, œdème palpébral, larmoiement important, photophobie, BAV):
-  - Adulte: azithromycine ([Azyter®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69326767/extrait#tab-rcp)) collyre 1 gte x 2/j pendant 3 jours.  
+  - Adulte: azithromycine collyre ([Azyter®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69326767/extrait#tab-rcp)) 1 gte x 2/j pendant 3 jours.  
     Si port de lentilles: [ofloxacine](https://base-donnees-publique.medicaments.gouv.fr/medicament/61784766/extrait#tab-rcp) collyre 2 gtes x 4/j pendant 7 jours.
-  - Enfant: [rifamycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/63828371/extrait#tab-rcp) collyre 1 gte x 4/j pendant 7-10 jours (la rifamycine tache)
+  - Enfant: rifamycine collyre ([Rifamycine Chibret](https://base-donnees-publique.medicaments.gouv.fr/medicament/63828371/extrait#tab-rcp)) 1 gte x 4/j pendant 7-10 jours (la rifamycine tache)
 
 **Prélèvement** du cul-de-sac si: borgne, immunodéprimé, persistance après 8 jours de traitement probabiliste, récidive précoce.
 
