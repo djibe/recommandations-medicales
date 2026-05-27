@@ -26,10 +26,10 @@ todo = "ESHRE2024Fig2p5, relecture en attente de joindre"
 
 {{%article-summary%}}
 
+- L'insuffisance ovarienne prématurée (ou précoce IOP, *ex ménopause précoce*) est une ménopause survenant avant 40 ans et dont l'étiologie doit toujours être recherchée
 - Évoquer une ménopause précoce chez la femme de moins de 40 ans avec troubles des cycles (irréguliers ou aménorrhée) accompagnée d'un syndrome climatérique
-- Le diagnostic d'insuffisance ovarienne prématurée est clinico-biologique: troubles des cycles (aménorrhée ou irréguliers) persistants au moins 4 mois avant 40 ans avec FSH > 25 UI/L
-- Des maladies auto-immunes sont fréquemment associées
-- Exploration de la ménopause précoce dans un [centre de référence CRESCENDO](https://crescendo.aphp.fr/reseau-centre-endocrinologie-france/)
+- Le diagnostic d'insuffisance ovarienne prématurée est clinico-biologique: troubles des cycles (aménorrhée ou irréguliers) persistants au moins 4 mois avant 40 ans avec FSH > 25 UI/L. Des maladies auto-immunes sont fréquemment associées
+- Adresser la patiente atteinte de ménopause précoce vers un [centre de référence CRESCENDO](https://crescendo.aphp.fr/reseau-centre-endocrinologie-france/)
 - Le traitement hormonal substitutif (THS) doit être démarré rapidement pour réduire le risque cardiovasculaire et [fracturaire]({{% relref "osteoporose.md" %}})
 - Le THS utilisé pour les insuffisances ovariennes prématurées spontanées (non iatrogènes) n'augmente pas le risque de [cancer du sein]({{% relref "cancer-sein.md" %}}) (*PNDS 2021*)
 

@@ -76,7 +76,7 @@ Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 | CCP       | 1re consultation contraception avant 26 ans (à 100%, anonymisable)                            |           47,5 |
 | G         | Consultation contraception annuelle avant 26 ans (à 100 % en EXO3)                            |             30 |
 | APC       | Adressé par son MT pour une compétence explicite avec compte-rendu (ex addictologie, nutrition, sport;ne pas revoir à ± 4 mois -- [fiche OMNIPrat](https://omniprat.org/fiches-pratiques/apc/)) | 60 |
-| G + MHP   | Consultation non régulée 20h-8h, dimanche ou jour férié                                       |         30 + 5 |
+| G + MHP   | Consultation non urgente non régulée 20h-8h, dimanche ou jour férié                           |         30 + 5 |
 | G + F     | Consultation "urgente" non régulée dimanche et jours fériés                                   |     30 + 19,06 |
 | G + MN    | Consultation "urgente" non régulée 20-24h (appel après 19h) et 6-8h                           |        30 + 35 |
 | G + MM    | Consultation "urgente" non régulée 0-6h                                                       |        30 + 40 |

@@ -7,7 +7,7 @@ synonyms = ["Maladies inflammatoires chroniques de l'intestin (MICI)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-05-15T18:04:40+02:00"
 publishdate = "2026-05-25"
-lastmod = "2026-05-25"
+lastmod = "2026-05-27"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2025"
 sources = ["ECCO", "AGA", "GETAID"]
@@ -162,7 +162,7 @@ Bilan initial d'une suspicion de MICI:
 - Examen parasitologique des selles (EPS)
 - Coproculture  
   Recherche de *[Clostridioides difficile]({{% relref "infections-clostridium-difficile.md" %}})*, *Shigella*, *Campylobacter jejuni*, *Escherichia coli* et *Yersinia enterocolitica* (à répéter lors d'une poussée).
-- Calprotectine fécale (> 150 µg/g)
+- Calprotectine fécale (> 150 µg/g, sur prescription spécialisée uniquement)
 - **Échographie doppler abdominale** (entéroIRM sur avis spécialisé -- *ECCO/ESGAR*)
 - **Iléo-coloscopie** complète avec biopsies
 
@@ -270,7 +270,7 @@ Ne pas recommander: probiotiques ou prébiotiques (ex fructose-oligosaccharide, 
 ### Pour en savoir plus: traitements spécialisés de la maladie de Crohn
 
 > [!WARNING]
-> Les 5-aminosalicylés (5-ASA, Pentasa® et autres) n'ont plus aucune place dans le traitement de la maladie de Crohn (placebo).
+> Les 5-aminosalicylés (5-ASA, Pentasa® et autres) n'ont aucune place dans le traitement de la maladie de Crohn (placebo, à l'inverse de la rectocolite hémorragique).
 
 Biothérapies suggérées en première intention pour une maladie de Crohn modérée à sévère en ville (*AGA 2025*, *ECCO 2024*):
 
@@ -307,7 +307,7 @@ Les immunosuppresseurs sont suspendus en cas d'infection sévère par: grippe, v
 | **Corticostéroïdes systémiques** | C | NR | NR | C | C | C | C |
 | **Corticostéroïdes à libération entérale** | R | NR | NR | NR | NR | R | R |
 | **Nutrition entérale** | C | C | NR | NR | NR | C | C |
-| **Monothérapie par thiopurines** | NR | C | NR | NR | NR | C | NR |
+| **Monothérapie par thiopurine** | NR | C | NR | NR | NR | C | NR |
 | **Méthotrexate SC** | C | C | NR | C | NR | NR | C |
 | **Infliximab** | R | R | R | R | R | R | R |
 | **Adalimumab** | R | R | C | R | R | R | R |
@@ -344,7 +344,7 @@ Le suivi de la maladie de Crohn est spécialisé, au moins tous les 3-6 mois:
   - Ferritine (cible > 30 µg/L)
   - Albumine
   - Micronutriments: folates, vitamine B12, vitamine D, zinc
-  - ==**Calprotectine fécale**== (sur avis spécialisé)
+  - ==**Calprotectine fécale**== (remboursée sur prescription spécialisée, si CRP négative: 2 remboursements/an)
   - À chaque poussée: coproculture et recherche de *Clostridioides difficile*
   - Colite réfractaire: recherche de CMV
 - Radiologique:
@@ -366,6 +366,8 @@ Le suivi de la maladie de Crohn est spécialisé, au moins tous les 3-6 mois:
 
 {{< podcast title="Les recommandations dans la maladie de Crohn (Pr David Laharie) -- GETAID" src="https://track.podcastics.com/7820/365106.m4a" >}}
 
+{{< youtube id="mYyl0RZ25UU" title="La calprotectine pour les nuls (TutoGastro SNFGE 2023)" >}}
+
 - [Kucharzik T, et al. ECCO-ESGAR-ESP-IBUS Guideline on Diagnostics and Monitoring of Patients with Inflammatory Bowel Disease: Part 1. J Crohns Colitis. 2025.](https://academic.oup.com/ecco-jcc/article/19/7/jjaf106/8219802)
 - [Yanai H, et al. ECCO-ESGAR-ESP-IBUS Guideline on Diagnostics and Monitoring of Patients with Inflammatory Bowel Disease: Part 2. J Crohns Colitis. 2025.](https://academic.oup.com/ecco-jcc/article/19/7/jjaf107/8220327)
 - [Scott F, et al. AGA Living Clinical Practice Guideline on the Pharmacologic Management of Moderate-to-Severe Crohn's Disease. Gastroenterology. 2025.](https://www.gastrojournal.org/article/S0016-5085(25)06091-3/fulltext)
@@ -382,12 +384,9 @@ Le suivi de la maladie de Crohn est spécialisé, au moins tous les 3-6 mois:
 
 ### Bibliographie en attente
 
-{{< youtube id="mYyl0RZ25UU" title="La calprotectine pour les nuls (TutoGastro SNFGE 2023)" >}}
-
 - [Choden T, et al. Management of Crohn Disease in Adults. JAMA. 2026.](https://jamanetwork.com/journals/jama/article-abstract/2847307) (payant)
 - [Gordon H, et al. ECCO Guidelines on Extraintestinal Manifestations in Inflammatory Bowel Disease. J Crohns Colitis. 2024.](https://doi.org/10.1093/ecco-jcc/jjad108)
-- SNFGE
-- Prescrire
+- [Adamina M, et al. ECCO Guidelines on Therapeutics in Crohn's Disease: Surgical Treatment. J Crohns Colitis. 2024.](https://academic.oup.com/ecco-jcc/article/18/10/1556/7693896)
 
 Mots-clé: iléocoloscopie
 

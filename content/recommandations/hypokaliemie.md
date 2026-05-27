@@ -229,9 +229,8 @@ Des mesures complémentaires suivantes servent à corriger une hypokaliémie hor
 Recommandations pour la prise en charge de l'hypokaliémie grave:
 
 - Surveillance continue
-- Chlorure de potassium, 40 mmol dans 1 L de NaCL à 10-20 mmol/h (adulte)
-- Si signes ECG: chlorure ou gluconate de calcium IV
-- Surveillance de la magnésémie
+- Chlorure de potassium, 40 mmol dans 1 L de NaCL à 10-20 mmol/h (adulte) et surveillance de la kaliémie
+- Sulfate de magnésium, 2 g/4h et surveillance de la magnésémie
 
 ### Aliments riches en potassium
 
