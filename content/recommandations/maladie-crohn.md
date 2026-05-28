@@ -19,13 +19,15 @@ image = false
 imageSrc = ""
 rank = "false"
 writing = "todo"
-todo = "liens > photo >  flow > Kanban | demander relecture David Laharie"
+todo = "liens > photo | demander relecture David Laharie"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
 - La maladie de Crohn (MC) est une maladie inflammatoire chronique de l'intestin (MICI) entraînant des lésions chroniques du tube digestif, parfois associées à des lésions extra-intestinales
 - Les symptômes évocateurs de maladie de Crohn sont des douleurs abdominales, des diarrhées (souvent glairo-sanglantes) avec un amaigrissement. Des fistules périanales sont un autre mode de présentation
+- Chez l'enfant, le diagnostic doit aussi être évoqué devant une anémie inexpliquée et un retard de croissance
 - Le diagnostic de maladie de Crohn est clinico-bio-radio-anatomo-endoscopique: bilan biologique avec élimination des diagnostics différentiels (coproculture et EPS), échographie doppler abdominale, calprotectine fécale et avis spécialisé pour iléo-coloscopie complète avec biopsies
 - La prise en charge de la maladie de Crohn nécessite une équipe spécialisée de gastro-entérologie pour le suivi d'une biothérapie anti-TNFα (ou autre), l'arrêt du tabac, le suivi et les mesures diététiques, le dépistage du cancer colorectal ...
 
@@ -133,7 +135,7 @@ Autres diagnostics à rechercher devant des douleurs abdominales avec des troubl
   - **Symptômes anopérinéaux** (30 %): très évocateurs avec **fistule périanale** (présentation de 10 % des diagnostics), [fissure anale]({{% relref "fissure-anale.md" %}}), abcès, ulcères, sténose, marisques, tumeur
   - Symptômes extra-digestifs associés aux poussées: aphtose buccale, arthrite, [psoriasis]({{% relref "psoriasis.md" %}}), érythème noueux, uvéite
   - Signes généraux: **amaigrissement**, fatigue, parfois fièvre
-- Qualité de vie
+- Retentissement, qualité de vie
 
 ### Examen clinique
 
@@ -358,6 +360,17 @@ Le suivi de la maladie de Crohn est spécialisé, au moins tous les 3-6 mois:
 - Suivi spécialisé:
   - Gastro-entérologique, coloscopies
   - Diététique et nutritionnel
+
+{{% /collapse %}}
+{{%collapse "Prise en charge de la maladie de Crohn" "show" %}}
+
+{{< mermaid title="Prise en charge de la maladie de Crohn. Dr JB Fron d'après AGA, ECCO et GETAID" >}}
+graph TB
+  suspicion("<b>Suspicion de MICI</b><br>(Crohn, RCH)<br>—<br>- Douleurs abdominales<br>- Diarrhées glairo-sanglantes<br>- Amaigrissement<br>- Atteintes périanales<br>- Signes extra-digestifs: aphtose,<br> arthrite, psoriasis,<br> érythème noueux, uvéite<br>- Enfant: anémie inexpliquée<br>et retard de croissance") --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements<br>- Voyages<br>- Ancienneté<br>- Tabagisme<br>- Allergies alimentaires<br>- Antibiotiques, AINS<br>- Qualité de vie") --> bilan("<b>Bilan</b><br>—<br>- NFS, CRP<br>- Bilan hépatique<br>- Albumine<br>- Iono, créatinine<br>- EPS<br>- Coproculture (C. difficile,<br> Shigella, C. jejuni,<br>E. coli, Y. enterocolitica<br>- Écho doppler abdominale") --> spécialiste("Gastro-entérologue:<br>- Entéro-IRM<br>- Calprotectine fécale<br>- Iléo-coloscopie") -- Diagnostic --> diagnostic(Maladie de Crohn) --> traitement("<b>Traitement</b><br>—<br>- Bilan complémentaire<br>- Mesures diététiques<br>- Arrêt tabac<br>- Vaccins<br>- Biothérapie<br>- Dépistage CCR") --> suivi("<b>Suivi pluridisciplinaire</b><br>à vie<br>—<br>- Gastro-entérologue<br>- CRP, calprotectine<br>- Coloscopie<br>- Diététique: carences<br>- Psychologue")
+    bilan -- Diagnostic différentiel --> différentiel(Traitement<br>adapté)
+    spécialiste -- Autre MICI --> MICI(Suivi spécialisé)
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
