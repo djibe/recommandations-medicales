@@ -21,6 +21,8 @@ const botUas = [
   'Go-http-client',
   'Google-NotebookLM',
   'got',
+  'Grok',
+  'GrokApp',
   'GuzzleHttp',
   'HeadlessChrome',
   'HttpAsyncClient',

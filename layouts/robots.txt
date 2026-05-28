@@ -78,6 +78,7 @@ User-agent: GoogleOther
 User-agent: GoogleOther-Image
 User-agent: GoogleOther-Video
 User-agent: GPTBot
+User-agent: Grok
 User-agent: HCP Analyzer
 User-agent: heritrix
 User-agent: HubSeedsBot
