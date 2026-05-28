@@ -156,7 +156,7 @@ Selon les *Annales de Dermato*, intérêt de rechercher systématiquement:
 
 ### Traitement de la rosacée érythémato-télangiectasique
 
-- Essai possible: [métronidazole 0,75 %](https://base-donnees-publique.medicaments.gouv.fr/medicament/60647323/extrait#tab-rcp) gel (Rozex®, gén) ou acide azélaïque 15 % gel x 1-2/j ([Finacéa®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62749394/extrait#tab-rcp)) (*EADV*)
+- Essai possible: [métronidazole 0,75 %](https://base-donnees-publique.medicaments.gouv.fr/medicament/60647323/extrait#tab-rcp) gel (Rozex®, gén) ou acide azélaïque 15 % gel ([Finacéa®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62749394/extrait#tab-rcp)) x 1-2/j (*EADV*)
 - Flush invalidants  
   Propranolol 30-120 mg/j (*[Logger 2020](https://doi.org/10.1016/j.jaad.2020.04.129)*) ou carvédilol (*EADV*)
 - Érythème facial

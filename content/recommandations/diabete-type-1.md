@@ -31,6 +31,8 @@ Cette page ne respecte pas la charte qualité et devra être améliorée.
 - Points vitaux obligatoires (voir plus bas)
 - Le suivi du diabète de type 1 doit être rigoureux et multidimensionnel
 
+Chapitre lié: [hypoglycémie]({{% relref "hypoglycemie-diabetique.md" %}})
+
 {{%/article-summary%}}
 {{% collapse "Définitions" %}}
 
@@ -222,54 +224,6 @@ Adulte bien équilibré: un suivi annuel peut être suffisant.
 {{% collapse "Insulinothérapie" %}}
 
 Adulte: aiguilles de 4 mm avec injection à 90°.
-
-{{% /collapse %}}
-{{% collapse "Hypoglycémies" %}}
-
-> Section d'après *ADA/EASD 2021* sauf mention contraire
-
-{{%info%}}
-
-### Les hypoglycémies en bref
-
-- Seuil diagnostic de l'hypoglycémie: **70 mg/dL**
-- Toute hypoglycémie justifie un resucrage
-- Vérifier la technique de resucrage
-- À quel niveau l'hypoglycémie est ressentie (dépistage de l'altération de la perception des hypoglycémies)
-- Rechercher une peur de l'hypoglycémie
-{{%/info%}}
-
-### Définitions de l'hypoglycémie au cours du diabète
-
-| Niveau |       Intervalle glycémique (mg/dL) | Signification              |
-| :----: | ----------------------------------: | -------------------------- |
-|   1    |                             54 - 70 | Seuil d'alerte             |
-|   2    |                                ≤ 43 | Sérieuse                   |
-|   3    | Complications mentales ou physiques | Sévère, nécessité de tiers |
-{caption="Classification des hypoglycémies selon *ADA/EASD 2021*"}
-
-Les hypoglycémies peuvent aussi être subdivisées selon qu'elles sont **symptomatiques**, **asymptomatiques** ou **probablement symptomatiques** (symptômes évocateurs mais sans contrôle glycémique).
-
-### Technique de resucrage d'une hypoglycémie
-
-- Dès glycémie < 70 mg/dL
-- Prise de 15 g de glucose
-  - voire plus quand < 54 mg/dL
-  - Par sucre, soda (15 cL), 1 cuiller à café de sucre, miel ou sirop d'érable, bonbon (voir teneur en sucre)
-  - Pas de chocolat
-- Toutes les 15 minutes jusqu'à disparition des symptômes et contrôle > 70 mg/dL
-
-En cas d'hypoglycémie sévère (troubles de conscience): contre-indication au resucrage oral (fausse route), recours au glucagon (SC, IM ou nasal), puis 20g de glucides complexes.
-{.alert .alert-warning}
-
-### Facteurs de risque d'hypoglycémie
-
-Diabète ancien, âge avancé, hypoglycémies sévères récentes, **alcool** (et tout toxique), activité physique, bas niveau socio-économique, insuffisance rénale, **altération de la perception des hypoglycémies** ({{%lang%}}impaired awareness of hypoglycaemia - IAH{{%/lang%}}, le facteur majeur est la survenue répétée d'hypos et est réversible).
-
-Altération de la perception des hypoglycémies
-: En anglais: {{%lang%}}impaired awareness of hypoglycaemia - IAH{{%/lang%}}
-: Le facteur majeur est la survenue répétée d'hypoglycémies.  
-La sensibilité aux hypos peut être restaurée en évinçant leur survenue.
 
 {{% /collapse %}}
 {{% collapse "Activité physique et vie quotidienne" %}}

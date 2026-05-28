@@ -74,7 +74,7 @@ Chapitres liés: [corticoïdes inhalés]({{% relref "corticoides-inhales.md" %}}
 - Enfant:
   - Bilan allergologique fait
   - Privilégier aérosol-doseur avec chambre d'inhalation sans masque
-  - [PAI de l'asthme avant 12 ans](/print/pai-asthme.pdf) (*GRAPP 2007*) et [+12 ans](/print/pai-asthme+12.pdf)
+  - [PAI de l'asthme avant 12 ans](/print/pai-asthme.pdf) (*SP2A/AFPA/... 2025*) et [+12 ans](/print/pai-asthme+12.pdf)
   - Vaccination antigrippale annuelle
 - Plan d'action connu et remis
 - Activité physique quotidienne

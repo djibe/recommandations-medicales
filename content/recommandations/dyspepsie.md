@@ -202,6 +202,10 @@ graph TB
 - [Husby S, et al. European Society Paediatric Gastroenterology, Hepatology and Nutrition Guidelines for Diagnosing Coeliac Disease 2020. J Pediatr Gastroenterol Nutr. 2020.](https://onlinelibrary.wiley.com/doi/10.1097/MPG.0000000000002497)
 - [Mion F. Prise en charge de la dyspepsie. Conseil de pratique. SNFGE et GFNG. 2019. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/dyspepsie_2019_0.pdf)
 
+### Bibliographie en attente
+
+- [Wauters L, Drug V, et al. United European Gastroenterology (UEG) and European Society for Neurogastroenterology and Motility (ESNM) consensus on functional dyspepsia. Neurogastroenterol Motil. 2021.](https://onlinelibrary.wiley.com/doi/abs/10.1111/nmo.14238) (payant)
+
 {{%/sources%}}
 {{% modal title="Dépistage des TCA avec SCOFF-F" id="modal-scoff"%}}
 

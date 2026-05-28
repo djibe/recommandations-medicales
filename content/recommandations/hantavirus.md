@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-05-11T19:40:09+02:00"
 publishdate = "2026-05-11"
-lastmod = "2026-05-12"
+lastmod = "2026-05-27"
 specialites = ["infectiologie"]
 annees = "2026"
 sources = ["MinSanté"]
@@ -35,3 +35,4 @@ Autres publications:
 - [COREB. Hantavirus. 07/05/2026. (PDF)](https://www.coreb.infectiologie.com/UserFiles/File/procedures/20260508-fiche-coreb-hantavirus.pdf)
 - [DGS-Urgent 2026_04. Alerte internationale -- Cluster de cas d'Hantavirus. 11/05/2026.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [Ministère de la santé. Cas d'Hantavirus à bord du navire mv Hondius : point de situation des autorités sanitaires françaises. 07/05/2026.](https://sante.gouv.fr/actualites-presse/presse/communiques-de-presse/article/cas-d-hantavirus-a-bord-du-navire-mv-hondius-point-de-situation-des-autorites)
+- [SF2H. Réponses rapides aux questions spécifiques concernant la prise en soins de cas suspects, probables ou confirmés d'Hantavirus Andes, et à la mise en quarantaine des sujets contact en milieu de soins dans les Établissements Sanitaires de Référence. 2026. (PDF)](https://www.sf2h.net/k-stock/data/pdf/sf2h_hantavirus_18052026_v7.pdf)

@@ -8,7 +8,7 @@ synonyms = ["Migraine avec ou sans aura", "aura migraineuse"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-12T13:03:13+01:00"
 publishdate = "2022-02-17"
-lastmod = "2026-05-15"
+lastmod = "2026-05-27"
 specialites = ["neurologie"]
 annees = "2024"
 sources = ["SFEMC", "CNGOF"]
@@ -294,7 +294,8 @@ Ne pas culpabiliser l'abus médicamenteux en cas de migraine chronique (effet d�
   {{%class%}}L'association migraine - tabac décuple le risque d'AVC.{{%/class%}}
 - Éviter les facteurs déclenchants identifiés  
   Habituels: facteur alimentaire, alcool, manque de sommeil/grasse matinée, stress, jeûne, chaleur, changements de climat.
-- Activité physique d'endurance régulière
+- Activité physique d'endurance régulière  
+  30 minutes 3 fois par semaine (*Ogrezeanu et al 2025*).
 - Hydratation adaptée
 - Évolution du handicap migraineux (voir *Clinique*)
 - Nausées invalidantes ou vomissements: anti-émétiques recommandés
@@ -510,7 +511,7 @@ Autres traitements de fond antimigraineux pouvant être proposés en migraine é
 - Coenzyme Q10 300 mg/j (sans ordonnance)
 - Mélatonine libération immédiate 3 mg
 - TENS supra-orbitaire
-- ~~Vitamine B2 400 mg/j~~ (non disponible en France)
+- Vitamine B2 400 mg/j (non disponible en France)
 
 {{% /collapse %}}
 {{%collapse "Suivi et critères de contrôle d'une migraine" %}}
@@ -616,6 +617,7 @@ graph TB
 {{%sources%}}
 
 - [Saubry MI. Prévention de la migraine épisodique : pas de traitement clairement supérieur. Minerva. 2026.](https://minerva-ebp.be/FR/Analysis/935)
+- [Ogrezeanu DC, J, et al. How much aerobic exercise is needed to reduce migraine? A dose-response meta-analysis of pain intensity and frequency. Headache. 2025.](https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.15070)
 - [Schwedt TJ, et al. Routine migraine screening as a standard of care for Women's health: A position statement from the American Headache Society. Headache. 2025.](https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.70023)
 - [CBIP.  Médicaments de la crise migraineuse aiguë : une comparaison. Folia. 2025.](https://www.cbip.be/fr/articles/4685?folia=4667)
 - [Øie LR, et al. Candesartan versus placebo for migraine prevention in patients with episodic migraine: a randomised, triple-blind, placebo-controlled, phase 2 trial. Lancet Neurol. 2025.](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(25)00269-8/abstract)
