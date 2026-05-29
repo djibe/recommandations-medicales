@@ -3,12 +3,12 @@ id = "0190e8ba-3047-7670-bae6-61c88535c255"
 title = "Allergie aux antibiotiques (dont allergie à la pénicilline)"
 titleSeo = "Allergie aux antibiotiques et pénicilline"
 prefix = "l'"
-description = "TODO:"
+description = "recommandations pour le diagnostic et la prise en charge de l'allergie à la pénicilline et autres antibiotiques. Interrogatoire, test de réintroduction ou avis allergologique"
 synonyms = ["Allergie à la pénicilline", "hypersensibilité aux bêtalactamines"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-29T23:58:00+02:00"
-publishdate = "2026-05-07"
-lastmod = "2026-05-07"
+publishdate = "2026-05-29"
+lastmod = "2026-05-29"
 specialites = ["allergologie"]
 annees = "2025"
 sources = ["ESCMID"]
@@ -19,7 +19,11 @@ icd10 = ["Z88.0", "Z88.1", "Z88.2"]
 draft = true
 image = false
 imageSrc = ""
-todo = ""
+rank = "false"
+writing = "todo"
+todo = "summary > liens > photo > newsletter > Kanban"
+style = "#table-allergies-croisees thead th {writing-mode: vertical-rl;height: 7rem;white-space: nowrap} .table td, .table th { padding: 4px}"
+flowchart = "todo"
 +++
 
 {{%article-summary%}}
@@ -44,9 +48,9 @@ Réactions allergiques retardées
 ---
 
 Allergie peu sévère
-: Urticaires, anaphylaxie grade 1 et 2.  
-Exanthèmes maculo-papuleux  
-Érythèmes pigmentés fixes  
+: - Urticaires, anaphylaxie grade 1 et 2.
+- Exanthèmes maculo-papuleux
+- Érythèmes pigmentés fixes
 Réactions de photosensibilité
 
 Allergie sévère
@@ -107,7 +111,7 @@ Ceftazidime.
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> [INFO]
+> [!INFO]
 > Tous les patients étiquetés comme << allergiques à la pénicilline >> devraient bénéficier d'une évaluation du risque pour déterminer la prise en charge adaptée (réintroduction hospitalière ou avis allergologique -- *ESCMID 2025*).
 
 ### Interrogatoire
@@ -136,22 +140,29 @@ La notion d'allergie peut être ==immédiatement révoquée== en cas de risque a
 
 ### Patients à faible risque d'allergie aux antibiotiques
 
-Les patients à **faible risque** d'allergie aux bêtalactamines peuvent recevoir un test d'introduction sous surveillance hospitalière:
+Les patients à **faible risque** d'allergie aux **bêtalactamines** peuvent recevoir un **test de réintroduction** sous surveillance hospitalière:
 
 - Réaction cutanée isolée non sévère datant de plus de 5 ans (qu'elle soit immédiate ou retardée)
 - Le seul symptôme rapporté est un rash cutané (non sévère, sans traitement spécifique de l'allergie et sans hospitalisation)
 - Le patient ne se souvient pas des symptômes (l'épisode rapporté n'était pas sévère, n'a pas nécessité de traitement spécifique de l'allergie ni d'hospitalisation)
-- Chez un patient hospitalisé: 
+- Chez un patient hospitalisé avec réaction retardée non sévère datant de plus de 5 ans (suggestion): réintroduction possible
+- Réaction non sévère à un antibiotique non-bêtalactamine (suggéré)
 
-### Patients avec allergie sévère aux antibiotiques
+### Patients à risque élevée d'allergie aux antibiotiques
 
-Les autres cas (que ceux présentés ci-dessus) sont à risque élevé d'allergie à l'antibiotique et nécessitent un **bilan allergologique**.
+**Les autres cas** (que ceux présentés ci-dessus) sont à risque élevé d'allergie à l'antibiotique (voire d'allergies croisées) et nécessitent un **avis allergologique**, comme:
+
+- Urticaire immédiate ou retardée
+- Réactions non sévères datant de moins de 5 ans
+- Réaction sévère
 
 Avis allergologique:
 
-- Bêtalactamines:
+- Réaction à une bêtalactamine:
+  - Suspicion d'allergie sévère
   - Suspicion d'allergie immédiate non sévère datant de moins de 5 ans
-  - Suspicion d'allergie immédiate sévère
+  - Céphalosporine: suspicion d'allergie immédiate
+- Réaction sévère à un antibiotique non-bêtalactamine
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'allergie aux antibiotiques" %}}
@@ -159,30 +170,162 @@ Avis allergologique:
 > [!WARNING]
 > Contre-indication à vie à la bêtalactamine responsable d'une réaction retardée **sévère** ou d'une allergie avérée.
 
+### Pénicilline
+
 Du fait des ==allergies croisées==, il existe une **contre-indication aux autres pénicillines** dans les cas suivants:
 
 - Suspicion d'allergie immédiate aux pénicillines (sévère ou non) datant de moins de 5 ans (le temps du bilan allergologique)
-- Suspicion d'allergie immédiate non sévère aux pénicillines datant de +5 ans (le temps d'un test de réintroduction)
-- TODO: 4.3 drug controlled setting versus controlled challenge
+- Suspicion d'allergie immédiate non sévère aux pénicillines datant de +5 ans (le temps d'un test de réintroduction; suggestion)
+- Suspicion d'allergie retardée non sévère aux pénicillines datant de +5 ans (le temps d'un test de réintroduction; suggestion)
 
-Du fait des ==allergies croisées==, il existe une **des précautions aux céphalosporines** dans les cas suivants d'allergie à la pénicilline:
+En cas d'allergie à la pénicilline, les autres antibiotiques suivants sont possibles sans bilan allergologique:
 
-- Allergie immédiate suspectée ou prouvée aux pénicillines: céphalosporines avec chaînes latérales différentes
+- céfazoline (sauf anaphylaxie sévère)
+- monobactame ou carbapénème:
+  - si allergie immédiate
+  - ou allergie retardée non sévère
+
+### Céphalosporines
+
+Du fait des ==allergies croisées==, il existe **des précautions aux céphalosporines** dans les cas suivants:
+
+- Allergie à la pénicilline immédiate (suspectée ou prouvée) aux pénicillines (sauf anaphylaxie sévère)  
+  ou allergie retardée (suspectée ou prouvée; suggestion):  
+  céphalosporines avec chaînes latérales différentes possibles
+- Allergie à la céphalosporine immédiate (suspectée ou prouvée -- sauf anaphylaxie sévère)  
+  ou allergie retardée non sévère: céphalosporines avec chaînes latérales différentes possibles
+
+En cas d'allergie à une céphalosporine, les autres antibiotiques suivants sont possibles sans bilan allergologique:
+
+- carbapénème:
+  - si allergie immédiate (suspectée ou prouvée, sauf anaphylaxie sévère)
+  - si allergie retardée non sévère (suspectée ou prouvée)
+- aztréonam:
+  - si allergie retardée non sévère (suspectée ou prouvée, sauf ceftazidime ou céfidérocol)
+
+### Antibiotiques non-bêtalactamines
+
+Une suspicion d'allergie **sévère** à un antibiotique non-bêtalactamine nécessite un bilan allergologique et une éviction de la classe en attendant.
+
+En cas de réaction **non sévère** à un antibiotique non-bêtalactamine, test de réintroduction en milieu hospitalier (suggéré).
+
+{{% /collapse %}}
+{{%collapse "Tableau des allergies croisées des bêtalactamines" %}}
+
+Le tableau regroupe le risque d'allergie croisée entre bêta-lactamines selon l'antibiotique responsable.
+
+<button id="btn-clone-allergies" class="btn btn-sm btn-outline-primary">
+  👁️ Afficher en plein écran
+</button>
+<script>
+  document.getElementById('btn-clone-allergies').addEventListener('click', function() {
+    const innerDiv = document.getElementById('table-allergies-croisees');
+    if (!innerDiv) {
+      console.error("Element #table-allergies-croisees not found.");
+      return;
+    }
+    const targetWrapper = innerDiv.closest('div.data-table');
+    if (!targetWrapper) {
+      console.error("Parent 'div.data-table' wrapper not found.");
+      return;
+    }
+    const newTab = window.open('about:blank', '_blank');
+    let styles = '';
+    for (const stylesheet of document.styleSheets) {
+      try {
+        for (const rule of stylesheet.cssRules) {
+          styles += rule.cssText;
+        }
+      } catch (e) {
+        // Safely skip cross-origin stylesheet errors
+      }
+    }
+    // Inject the wrapper's outerHTML into the new tab
+    newTab.document.write(`
+      <!DOCTYPE html>
+      <html lang="en">
+      <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Full Page Visualization</title>
+        <style>
+          ${styles}
+          body {
+            font-family: 'Roboto', system-ui, -apple-system, sans-serif;
+            padding: 40px;
+            background-color: #fff;
+          }
+        </style>
+      </head>
+      <body>
+        ${targetWrapper.outerHTML}
+      </body>
+      </html>
+    `);
+    newTab.document.close();
+  });
+</script>
+
+| Antibiotique<br>bêta-lactamine | Amoxicilline | Pénicilline G | Pénicilline V | Flucloxacilline | Phénéticilline | Pipéracilline | Céfalexine | Céfazoline | Céfalotine | Céfuroxime | Céfaclor | Céfamandole | Ceftibutène | Ceftriaxone | Céfotaxime | Ceftazidime | Céfépime | Céfidérocol | Ceftaroline | Ceftolozane | Méropénem | Imipénem | Ertapénem | Aztréonam |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Amoxicilline** | NC | ⚫ | ⚫ | ⚫ | ⚫ | ⚫ | 🟠 | 🗸 | 🗸 | 🗸 | 🟠 | 🟠 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 |
+| **Pénicilline G** | ⚫ | NC | ⚫ | ⚫ | ⚫ | ⚫ | 🟠 | 🗸 | 🗸 | 🗸 | 🟠 | 🟠 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 |
+| **Pénicilline V** | ⚫ | ⚫ | NC | ⚫ | ⚫ | ⚫ | 🟠 | 🗸 | 🗸 | 🗸 | 🟠 | 🟠 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 |
+| **Flucloxacilline** | ⚫ | ⚫ | ⚫ | NC | ⚫ | ⚫ | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 |
+| **Phénéticilline** | ⚫ | ⚫ | ⚫ | ⚫ | NC | ⚫ | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 |
+| **Pipéracilline** | ⚫ | ⚫ | ⚫ | ⚫ | ⚫ | NC | 🗸 | 🗸 | 🗸 | 🗸 | 🟠 | 🟠 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 |
+| **Céfalexine** | 🟠 | 🟠 | 🗸 | 🗸 | 🗸 | 🗸 | NC | 🗸 | 🗸 | 🗸 | 🔴 | 🟠 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 |
+| **Céfazoline** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | NC | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 |
+| **Céfalotine** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | NC | 🟠 | 🗸 | 🗸 | 🗸 | 🗸 | 🟠 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 |
+| **Céfuroxime** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🟠 | NC | 🗸 | 🗸 | 🗸 | 🟠 | 🟠 | 🟠 | 🟠 | 🟠 | 🟠 | 🟠 | 🗸 | 🗸 | 🗸 | 🟠 |
+| **Céfaclor** | 🟠 | 🟠 | 🟠 | 🗸 | 🗸 | 🟠 | 🔴 | 🗸 | 🗸 | 🗸 | NC | 🟠 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 |
+| **Céfamandole** | 🟠 | 🟠 | 🟠 | 🗸 | 🗸 | 🟠 | 🟠 | 🗸 | 🗸 | 🗸 | 🟠 | NC | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 |
+| **Ceftibutène** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | NC | 🟠 | 🟠 | 🟠 | 🟠 | 🟠 | 🟠 | 🟠 | 🗸 | 🗸 | 🗸 | 🟠 |
+| **Ceftriaxone** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🟠 | 🗸 | 🗸 | 🟠 | NC | 🔴 | 🟠 | 🟠 | 🟠 | 🟠 | 🟠 | 🗸 | 🗸 | 🗸 | 🟠 |
+| **Céfotaxime** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🟠 | 🟠 | 🗸 | 🗸 | 🟠 | 🔴 | NC | 🟠 | 🔴 | 🟠 | 🟠 | 🟠 | 🗸 | 🗸 | 🗸 | 🟠 |
+| **Ceftazidime** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🟠 | 🗸 | 🗸 | 🟠 | 🟠 | 🟠 | NC | 🟠 | 🔴 | 🟠 | 🟠 | 🗸 | 🗸 | 🗸 | 🔴 |
+| **Céfépime** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🟠 | 🗸 | 🗸 | 🟠 | 🟠 | 🔴 | 🟠 | NC | 🟠 | 🟠 | 🟠 | 🗸 | 🗸 | 🗸 | 🟠 |
+| **Céfidérocol** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🟠 | 🗸 | 🗸 | 🟠 | 🟠 | 🟠 | 🔴 | 🟠 | NC | 🟠 | 🟠 | 🗸 | 🗸 | 🗸 | 🔴 |
+| **Ceftaroline** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🟠 | 🗸 | 🗸 | 🟠 | 🟠 | 🟠 | 🟠 | 🟠 | 🟠 | NC | 🟠 | 🗸 | 🗸 | 🗸 | 🟠 |
+| **Ceftolozane** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🟠 | 🟠 | 🗸 | 🗸 | 🟠 | 🟠 | 🟠 | 🟠 | 🟠 | 🟠 | 🟠 | NC | 🗸 | 🗸 | 🗸 | 🟠 |
+| **Méropénem** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | NC | 🟠 | 🟠 | 🗸 |
+| **Imipénem** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🟠 | NC | 🟠 | 🗸 |
+| **Ertapénem** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🟠 | 🟠 | NC | 🗸 |
+| **Aztréonam** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🟠 | 🗸 | 🗸 | 🟠 | 🟠 | 🟠 | 🔴 | 🟠 | 🔴 | 🟠 | 🟠 | 🗸 | 🗸 | 🗸 | NC |
+{caption="Tableau des allergies croisées des bêtalactamines (ESCMID)" id="table-allergies-croisees" class="table-wrap table-sm"}
+
+**Légende**
+
+- **NC** : Non concerné (même molécule)
+- ⚫ : Allergie possible basée sur la formation de Pénicilloyl-poly-L-lysine (PPL)
+- 🟠 : Allergie croisée potentielle basée sur la similitude de la chaîne latérale R1 ou R2 et/ou sur des études cliniques
+- 🔴 : Allergie croisée potentielle basée sur une chaîne latérale R1 ou R2 identique
+- 🗸 : Aucun risque de réaction allergique croisée
+
+{{% /collapse %}}
+{{%collapse "Prise en charge de l'allergie aux antibiotiques" "show" %}}
+
+{{< mermaid title="Prise en charge de l'allergie aux antibiotiques. Dr JB Fron d'après ESCMID" >}}
+graph TB
+  allergie("Allergie à un antibiotique<br>rapportée ou documentée") --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- <b>Épisode:</b><br>- Date et heure<br>- Antibiotique: indication, symptômes, voie<br>- Symptômes (type, délai, sévérité)<br>- Traitements reçus<br>- Bilan fait")
+    clinique --> trèsBasRisque("<b>Risque très faible</b><br>—<br>- Antibiotique réutilisé sans réaction<br>- Étiqueté « allergique » par antécédent familial allergique ou peur de l'allergie<br>- Symptômes non compatibles avec l'allergie<br> (troubles digestifs exclusifs, palpitations, vision floue, céphalées, mycose)") --> trèsBasRisque1("- Pas d'exploration<br>- Supprimer la notion d'allergie<br>- L'antibiotique et sa classe sont possibles")
+     clinique --> basRisque("<b>Risque faible</b><br>—<br>- Réaction cutanée isolée non sévère de +5 ans<br>- Rash cutané seul (non sévère, sans hospitalisation)<br>- Ne se souvient pas des symptômes (mais non sévère, sans traitement spécifique ni hospitalisation)") -- "Hôpital/<br>allergologue" --> test("Test de réintroduction")
+      basRisque -- "Comorbidité,<br>grossesse" --> allergologue
+    clinique --> hautRisque("<b>Risque élevé</b><br>—<br>- Urticaire (immédiate ou retardée)<br>- Réaction non sévère<br> de -5 ans<br>- Anaphylaxie<br>- Autres cas") --> allergologue(Allergologue)
+  style allergie stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="VXWnvNX0PhI" title="L'allergie aux pénicillines (CRAtb Pays de la Loire / MedQual)" >}}
+
 - WIP [Joean O, et al. ESCMID clinical guidelines on the evaluation and management of a reported antibiotic allergy. Clin Microbiol Infect. 2026.](https://www.clinicalmicrobiologyandinfection.org/article/S1198-743X(26)00069-8/fulltext)
+- [Nonneman A. Dans une stratégie de stratification du risque d'allergie à la pénicilline : quelle est la place du score PEN-FAST dans la prise de décision clinique ?. Minerva. 2024.](https://minerva-ebp.be/FR/Article/2405)
 
 ### Bibliographie en attente
 
-- [Inesss. Outil d'aide à la décision en cas d'allergie aux pénicillines. Juin 2017. (PDF)](https://www.inesss.qc.ca/fileadmin/doc/INESSS/Rapports/Medicaments/INESSS_Outil_aide_decision_Allergie_penicilines.pdf)
-- [Mailhol C, Didier A. Que faire devant une allergie aux bétalactamines? GREPI. 2016. (PDF)](https://splf.fr/wp-content/uploads/2016/12/JMI-At2-A.Didier.pdf)
-- <https://www.youtube.com/watch?v=VXWnvNX0PhI>
+- [Inesss. Allergie présumée aux pénicillines -- Évaluation des risques pour un usage optimal et sécuritaire des bêta-lactamines. 2025.](https://www.inesss.qc.ca/publications/repertoire-des-publications/publication/allergie-aux-penicillines.html)
 - [Copaescu AM, et al. Efficacy of a Clinical Decision Rule to Enable Direct Oral Challenge in Patients With Low-Risk Penicillin Allergy: The PALACE Randomized Clinical Trial. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2806976)
-- <http://www.medqual.fr/images/PRO_2018/FORMATIONS/Elearning/Correction-Test-5.pdf>
-- <http://medqual.fr/images/slideshow/2021-Fiche-patient-Allergie-penicilline_1.pdf>
-- <http://medqual.fr/images/PRO_2018/LA/LA-193-JUIN-2021.pdf>
-- <https://minerva-ebp.be/FR/Article/2405>
 
 {{%/sources%}}

@@ -227,6 +227,9 @@ Recommandations pour la prise en charge de l'insuffisance ovarienne prématurée
   - soutenir les projets de grossesse et rappeler le caractère anodin du THS en respectant les *Cas particuliers (ci-dessous)
   - surrisque ostéoporotique et cardiovasculaire, contrecarré par le THS
 
+> [!INFO]
+> Pour la convocation dans un centre Francilien, intérêt de contacter une équipe d'endocrinologie de la reproduction par la [plateforme Direct APHP](https://direct.aphp.fr).
+
 ### Cas particuliers
 
 L'œstradiol administré par voie transdermique n'augmente pas le risque thrombo-embolique.

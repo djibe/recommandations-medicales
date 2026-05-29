@@ -378,7 +378,7 @@ Le TPHA ne se négative que rarement sauf chez le patient *VIH+*. Il n'est pas u
 
 ### Échec du traitement
 
-Évoquer un **échec** ou une **recontamination** lorsque le VDRL n'est pas divisé par 4 à 6 mois. On parle de **recontamination** lorsque le VDRL est multiplié d'un facteur ≥ 4: on reprend alors un nouveau traitement selon l'ancienneté de la contamination.
+Évoquer un **échec** ou une **recontamination** lorsque le VDRL n'est pas divisé par 4 à 6 mois.
 
 La prise en charge de l'échec du traitement initial comprend:
 
@@ -389,6 +389,10 @@ La prise en charge de l'échec du traitement initial comprend:
   {{%class%}}Recherche d'une neurosyphilis.{{%/class%}}
 
 ### Recontamination par la syphilis
+
+Évoquer un **échec** ou une **recontamination** lorsque le VDRL n'est pas divisé par 4 à 6 mois.
+
+On parle de **recontamination** lorsque le VDRL est multiplié d'un facteur ≥ 4: on recommence alors un nouveau traitement selon l'ancienneté de la contamination.
 
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}

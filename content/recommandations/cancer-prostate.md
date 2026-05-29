@@ -310,6 +310,7 @@ graph TB
 
 {{< youtube id="szF2WjhtRE4" title="Cancer de la prostate et pesticides : procédure de reconnaissance (Assurance Maladie)" >}}
 
+- [Franco JVA, et al. Prostate‐specific antigen (PSA) test for prostate cancer screening. Cochrane Database of Systematic Reviews. 2026.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004720.pub4/full/fr)
 - [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [Cornford P, et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2025.](https://uroweb.org/guidelines/prostate-cancer)
 - [Ploussard G, et al. French AFU Cancer Committee Guidelines - Update 2024-2026: Prostate cancer - Management of metastatic disease and castration resistance. Fr J Urol. 2024.](https://www.sciencedirect.com/science/article/pii/S2950393024001670)

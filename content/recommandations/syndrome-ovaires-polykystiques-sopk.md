@@ -5,7 +5,7 @@ titleSeo = "Syndrome ovaires polykystiques SOPK"
 prefix = "le "
 description = "Recommandations pour le diagnostic et la prise en charge du syndrome des ovaires polykystiques (SOPK). Echographie pelvienne, bilan hormonal, metformine"
 longHtml = true
-synonyms = ["Syndrome des ovaires micropolykystiques"]
+synonyms = ["Syndrome ovarien polyendocrinien métabolique (SOPM)", "Syndrome des ovaires micropolykystiques"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-11T21:36:45+01:00"
 publishdate = "2023-11-16"
@@ -321,7 +321,8 @@ graph TB
 
 ### Bibliographie en attente
 
-[Goodman NF et al. AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS, AMERICAN COLLEGE OF ENDOCRINOLOGY, AND ANDROGEN EXCESS AND PCOS SOCIETY DISEASE STATE CLINICAL REVIEW: GUIDE TO THE BEST PRACTICES IN THE EVALUATION AND TREATMENT OF POLYCYSTIC OVARY SYNDROME--PART 1. Endocr Pract. 2015.](https://linkinghub.elsevier.com/retrieve/pii/S1530-891X(20)35322-2)
+- [Teede H, et al. Polyendocrine metabolic ovarian syndrome, the new name for polycystic ovary syndrome: a multistep global consensus process. Lancet. 2026.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00717-8/fulltext)
+- [Goodman NF et al. AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS, AMERICAN COLLEGE OF ENDOCRINOLOGY, AND ANDROGEN EXCESS AND PCOS SOCIETY DISEASE STATE CLINICAL REVIEW: GUIDE TO THE BEST PRACTICES IN THE EVALUATION AND TREATMENT OF POLYCYSTIC OVARY SYNDROME--PART 1. Endocr Pract. 2015.](https://linkinghub.elsevier.com/retrieve/pii/S1530-891X(20)35322-2)
 
 <!-- score de Rotterdam avec l'AMH, le CFA à > 20 FA dans un des ovaires ou le volume >10 ml. -->
 

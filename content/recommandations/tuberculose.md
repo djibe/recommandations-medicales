@@ -223,6 +223,8 @@ L'IDR est en faveur de l'absence de primo-infection si elle est < 5 mm (10 mm en
 {{% /collapse %}}
 {{%sources%}}
 
+{{< youtube id="iL8yqB-TwvI" title="Tuberculose (Webinaires Actualités Infectiologie SOBEPIT/CMIT/SPILF)" >}}
+
 - [ANSM. TUBERCULINE PPD RT 23 AJV 2T.U. / 0,1 mL, solution injectable - Fiche pratique pour les professionnels de santé. Avril 2026.](https://ansm.sante.fr/uploads/2026/04/21/20260421-tuberculine-fiche-pratique.pdf)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. ALD 29 - Tuberculose maladie. Actes et prestations Affection de longue durée. 2025.](https://www.has-sante.fr/jcms/c_482999/fr/ald-n-29-tuberculose-maladie)
