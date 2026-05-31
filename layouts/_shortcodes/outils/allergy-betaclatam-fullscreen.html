@@ -1,0 +1,49 @@
+<button id="btn-clone-allergies" class="btn btn-sm btn-outline-primary">
+  👁️ Afficher en plein écran
+</button>
+<script>
+  document.getElementById('btn-clone-allergies').addEventListener('click', function() {
+    const innerDiv = document.getElementById('table-allergies-croisees');
+    if (!innerDiv) {
+      console.error("Element #table-allergies-croisees not found.");
+      return;
+    }
+    const targetWrapper = innerDiv.closest('div.data-table');
+    if (!targetWrapper) {
+      console.error("Parent 'div.data-table' wrapper not found.");
+      return;
+    }
+    const newTab = window.open('about:blank', '_blank');
+    let styles = '';
+    for (const stylesheet of document.styleSheets) {
+      try {
+        for (const rule of stylesheet.cssRules) {
+          styles += rule.cssText;
+        }
+      } catch (e) { // Safely skip cross-origin stylesheet errors
+      }
+    } // Inject the wrapper's outerHTML into the new tab
+    newTab.document.write(`
+      <!DOCTYPE html>
+      <html lang="en">
+      <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Full Page Visualization</title>
+        <style>
+          ${styles}
+          body {
+            font-family: 'Roboto', system-ui, -apple-system, sans-serif;
+            padding: 40px;
+            background-color: #fff;
+          }
+        </style>
+      </head>
+      <body>
+        ${targetWrapper.outerHTML}
+      </body>
+      </html>
+    `);
+    newTab.document.close();
+  });
+</script>

@@ -7,8 +7,8 @@ description = "recommandations pour le diagnostic et la prise en charge de l'all
 synonyms = ["Allergie à la pénicilline", "hypersensibilité aux bêtalactamines"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-29T23:58:00+02:00"
-publishdate = "2026-05-29"
-lastmod = "2026-05-29"
+publishdate = "2026-05-31"
+lastmod = "2026-05-31"
 specialites = ["allergologie"]
 annees = "2025"
 sources = ["ESCMID"]
@@ -47,41 +47,38 @@ Réactions allergiques retardées
 
 ---
 
+Schématiquement (plus de précisions plus bas):
+
 Allergie peu sévère
 : - Urticaires, anaphylaxie grade 1 et 2.
-- Exanthèmes maculo-papuleux
-- Érythèmes pigmentés fixes
-Réactions de photosensibilité
+  - Exanthèmes maculo-papuleux
+  - Érythèmes pigmentés fixes
+  - Réactions de photosensibilité
 
 Allergie sévère
-: Choc anaphylactique, angiœdème  
-Pustulose exanthématique aiguë généralisée (PEAG)  
-Syndromes de Lyell et Stevens-Johnson  
-DRESS  
-Vascularites
+: - Choc anaphylactique, angiœdème
+  - Pustulose exanthématique aiguë généralisée (PEAG)
+  - Syndromes de Lyell et Stevens-Johnson
+  - DRESS
+  - Vascularites
 
-### Réactions croisées
+### Réaction allergique sévère
 
-#### Bêta-lactamines avec réactions croisées
+Une réaction allergique à un antibiotique est dite sévère si elle remplit un critère parmi les suivants ([WAO](https://doi.org/10.1016/j.waojou.2020.100472), [EAACI](https://doi.org/10.1111/all.13562))
 
-2 % de réactions croisées pénicillines-céphalosporines.
+{{< clinique/allergie-severe >}}
 
-- Amoxicilline  
-Céfadroxil, cefatrizine, cefprozil, céfoxitine.
-- Ampicilline  
-Céphalexine, Céfaclor, cefradine.
-- Ceftriaxone  
-Cefotaxime, cefalotine.
-- Aztreonam  
-Ceftazidime.
+### Réaction allergique non sévère
 
-#### Bêta-lactamines avec propriétés différentes
+Une réaction allergique à un antibiotique est dite non sévère si elle remplit un critère parmi les 4 suivants:
 
-- C1G: céfazoline
-- C2G: céfuroxime
-- C3G: ceftriaxone, céfotaxime, ceftazidime, céfixime
-- C4G: céfépime
-- Méropenem, imipénem, ertapénem
+{{< clinique/allergie-nonsevere >}}
+
+### Abréviations
+
+PEAG
+: pustulose exanthématique aiguë généralisée
+{.dl-inline}
 
 ### Épidémiologie de l'anaphylaxie médicamenteuse en France
 
@@ -94,7 +91,7 @@ Ceftazidime.
   - Antibiotiques 49,6 %  
     Amoxicilline 29 %, céphalosporines 12 %, autres pénicillines 1 %.
 
-> Renaudin JM et coll. Allergy 2013
+> -- *Renaudin JM et coll. Allergy 2013*
 
 #### Décès par anaphylaxie d'origine médicamenteuse
 
@@ -142,27 +139,27 @@ La notion d'allergie peut être ==immédiatement révoquée== en cas de risque a
 
 Les patients à **faible risque** d'allergie aux **bêtalactamines** peuvent recevoir un **test de réintroduction** sous surveillance hospitalière:
 
-- Réaction cutanée isolée non sévère datant de plus de 5 ans (qu'elle soit immédiate ou retardée)
-- Le seul symptôme rapporté est un rash cutané (non sévère, sans traitement spécifique de l'allergie et sans hospitalisation)
-- Le patient ne se souvient pas des symptômes (l'épisode rapporté n'était pas sévère, n'a pas nécessité de traitement spécifique de l'allergie ni d'hospitalisation)
-- Chez un patient hospitalisé avec réaction retardée non sévère datant de plus de 5 ans (suggestion): réintroduction possible
-- Réaction non sévère à un antibiotique non-bêtalactamine (suggéré)
+- Réaction cutanée isolée {{< modal-btn modal-allergie-nonsevere >}}non sévère{{< /modal-btn >}} datant de plus de 5 ans (qu'elle soit immédiate ou retardée)
+- Le seul symptôme rapporté est un rash cutané ({{< modal-btn modal-allergie-nonsevere >}}non sévère{{< /modal-btn >}}, sans traitement spécifique de l'allergie et sans hospitalisation)
+- Le patient ne se souvient pas des symptômes (l'épisode rapporté n'était {{< modal-btn modal-allergie-nonsevere >}}pas sévère{{< /modal-btn >}}, n'a pas nécessité de traitement spécifique de l'allergie ni d'hospitalisation)
+- Chez un patient hospitalisé avec réaction retardée {{< modal-btn modal-allergie-nonsevere >}}non sévère{{< /modal-btn >}} datant de plus de 5 ans (suggestion): réintroduction possible
+- Réaction {{< modal-btn modal-allergie-nonsevere >}}non sévère{{< /modal-btn >}} à un antibiotique non-bêtalactamine (suggéré)
 
 ### Patients à risque élevée d'allergie aux antibiotiques
 
 **Les autres cas** (que ceux présentés ci-dessus) sont à risque élevé d'allergie à l'antibiotique (voire d'allergies croisées) et nécessitent un **avis allergologique**, comme:
 
 - Urticaire immédiate ou retardée
-- Réactions non sévères datant de moins de 5 ans
-- Réaction sévère
+- Réactions {{< modal-btn modal-allergie-nonsevere >}}non sévères{{< /modal-btn >}} datant de moins de 5 ans
+- {{< modal-btn modal-allergie-severe >}}Réaction sévère{{< /modal-btn >}}
 
 Avis allergologique:
 
 - Réaction à une bêtalactamine:
-  - Suspicion d'allergie sévère
-  - Suspicion d'allergie immédiate non sévère datant de moins de 5 ans
+  - Suspicion d'{{< modal-btn modal-allergie-severe >}}allergie sévère{{< /modal-btn >}}
+  - Suspicion d'allergie immédiate {{< modal-btn modal-allergie-nonsevere >}}non sévère{{< /modal-btn >}} datant de moins de 5 ans
   - Céphalosporine: suspicion d'allergie immédiate
-- Réaction sévère à un antibiotique non-bêtalactamine
+- {{< modal-btn modal-allergie-severe >}}Réaction sévère{{< /modal-btn >}} à un antibiotique non-bêtalactamine
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'allergie aux antibiotiques" %}}
@@ -214,57 +211,7 @@ En cas de réaction **non sévère** à un antibiotique non-bêtalactamine, test
 
 Le tableau regroupe le risque d'allergie croisée entre bêta-lactamines selon l'antibiotique responsable.
 
-<button id="btn-clone-allergies" class="btn btn-sm btn-outline-primary">
-  👁️ Afficher en plein écran
-</button>
-<script>
-  document.getElementById('btn-clone-allergies').addEventListener('click', function() {
-    const innerDiv = document.getElementById('table-allergies-croisees');
-    if (!innerDiv) {
-      console.error("Element #table-allergies-croisees not found.");
-      return;
-    }
-    const targetWrapper = innerDiv.closest('div.data-table');
-    if (!targetWrapper) {
-      console.error("Parent 'div.data-table' wrapper not found.");
-      return;
-    }
-    const newTab = window.open('about:blank', '_blank');
-    let styles = '';
-    for (const stylesheet of document.styleSheets) {
-      try {
-        for (const rule of stylesheet.cssRules) {
-          styles += rule.cssText;
-        }
-      } catch (e) {
-        // Safely skip cross-origin stylesheet errors
-      }
-    }
-    // Inject the wrapper's outerHTML into the new tab
-    newTab.document.write(`
-      <!DOCTYPE html>
-      <html lang="en">
-      <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Full Page Visualization</title>
-        <style>
-          ${styles}
-          body {
-            font-family: 'Roboto', system-ui, -apple-system, sans-serif;
-            padding: 40px;
-            background-color: #fff;
-          }
-        </style>
-      </head>
-      <body>
-        ${targetWrapper.outerHTML}
-      </body>
-      </html>
-    `);
-    newTab.document.close();
-  });
-</script>
+{{< outils/allergy-betaclatam-fullscreen >}}
 
 | Antibiotique<br>bêta-lactamine | Amoxicilline | Pénicilline G | Pénicilline V | Flucloxacilline | Phénéticilline | Pipéracilline | Céfalexine | Céfazoline | Céfalotine | Céfuroxime | Céfaclor | Céfamandole | Ceftibutène | Ceftriaxone | Céfotaxime | Ceftazidime | Céfépime | Céfidérocol | Ceftaroline | Ceftolozane | Méropénem | Imipénem | Ertapénem | Aztréonam |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -320,7 +267,7 @@ graph TB
 
 {{< youtube id="VXWnvNX0PhI" title="L'allergie aux pénicillines (CRAtb Pays de la Loire / MedQual)" >}}
 
-- WIP [Joean O, et al. ESCMID clinical guidelines on the evaluation and management of a reported antibiotic allergy. Clin Microbiol Infect. 2026.](https://www.clinicalmicrobiologyandinfection.org/article/S1198-743X(26)00069-8/fulltext)
+- [Joean O, et al. ESCMID clinical guidelines on the evaluation and management of a reported antibiotic allergy. Clin Microbiol Infect. 2026.](https://www.clinicalmicrobiologyandinfection.org/article/S1198-743X(26)00069-8/fulltext)
 - [Nonneman A. Dans une stratégie de stratification du risque d'allergie à la pénicilline : quelle est la place du score PEN-FAST dans la prise de décision clinique ?. Minerva. 2024.](https://minerva-ebp.be/FR/Article/2405)
 
 ### Bibliographie en attente
@@ -329,3 +276,13 @@ graph TB
 - [Copaescu AM, et al. Efficacy of a Clinical Decision Rule to Enable Direct Oral Challenge in Patients With Low-Risk Penicillin Allergy: The PALACE Randomized Clinical Trial. JAMA Intern Med. 2023.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2806976)
 
 {{%/sources%}}
+{{% modal title="Signes d'allergie sévère" id="modal-allergie-severe"%}}
+
+{{< clinique/allergie-severe >}}
+
+{{% /modal %}}
+{{% modal title="Signes d'allergie non sévère" id="modal-allergie-nonsevere"%}}
+
+{{< clinique/allergie-nonsevere >}}
+
+{{% /modal %}}
