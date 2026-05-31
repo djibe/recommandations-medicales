@@ -1,16 +1,16 @@
-<button id="btn-clone-allergies" class="btn btn-sm btn-outline-primary">
-  👁️ Afficher en plein écran
+<button id="btn-table-fullscreen" class="btn btn-sm btn-outline-primary">
+  ↔️ Afficher en plein écran
 </button>
 <script>
-  document.getElementById('btn-clone-allergies').addEventListener('click', function() {
-    const innerDiv = document.getElementById('table-allergies-croisees');
+  document.getElementById('btn-table-fullscreen').addEventListener('click', function() {
+    const innerDiv = document.querySelector('.table-fullscreen');
     if (!innerDiv) {
-      console.error("Element #table-allergies-croisees not found.");
+      console.error("Table not found.");
       return;
     }
     const targetWrapper = innerDiv.closest('div.data-table');
     if (!targetWrapper) {
-      console.error("Parent 'div.data-table' wrapper not found.");
+      console.error("Parent wrapper not found.");
       return;
     }
     const newTab = window.open('about:blank', '_blank');
@@ -29,7 +29,7 @@
       <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Full Page Visualization</title>
+        <title>Tableau en plein page</title>
         <style>
           ${styles}
           body {

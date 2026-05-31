@@ -21,7 +21,7 @@ imageSrc = ""
 rank = "false"
 writing = "todo"
 todo = "liens > photo > Kanban"
-style = "#table-allergies-croisees thead th {writing-mode: vertical-rl;height: 7rem;white-space: nowrap} .table td, .table th { padding: 4px}"
+style = ".table-fullscreen thead th {writing-mode: vertical-rl;height: 7rem;white-space: nowrap} .table td, .table th { padding: 4px}"
 flowchart = true
 +++
 
@@ -215,7 +215,7 @@ En cas de réaction **non sévère** à un antibiotique non-bêtalactamine, test
 
 Le tableau regroupe le risque d'allergie croisée entre bêta-lactamines selon l'antibiotique responsable.
 
-{{< outils/allergy-betaclatam-fullscreen >}}
+{{< outils/table-fullscreen >}}
 
 | Antibiotique<br>bêta-lactamine | Amoxicilline | Pénicilline G | Pénicilline V | Flucloxacilline | Phénéticilline | Pipéracilline | Céfalexine | Céfazoline | Céfalotine | Céfuroxime | Céfaclor | Céfamandole | Ceftibutène | Ceftriaxone | Céfotaxime | Ceftazidime | Céfépime | Céfidérocol | Ceftaroline | Ceftolozane | Méropénem | Imipénem | Ertapénem | Aztréonam |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -243,7 +243,7 @@ Le tableau regroupe le risque d'allergie croisée entre bêta-lactamines selon l
 | **Imipénem** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🟠 | NC | 🟠 | 🗸 |
 | **Ertapénem** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🟠 | 🟠 | NC | 🗸 |
 | **Aztréonam** | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🗸 | 🟠 | 🗸 | 🗸 | 🟠 | 🟠 | 🟠 | 🔴 | 🟠 | 🔴 | 🟠 | 🟠 | 🗸 | 🗸 | 🗸 | NC |
-{caption="Tableau des allergies croisées des bêtalactamines (ESCMID)" id="table-allergies-croisees" class="table-wrap table-sm"}
+{caption="Tableau des allergies croisées des bêtalactamines (ESCMID)" class="table-wrap table-sm table-fullscreen"}
 
 **Légende**
 
