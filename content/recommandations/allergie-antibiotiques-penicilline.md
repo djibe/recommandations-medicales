@@ -16,28 +16,32 @@ tags = ["allergie"]
 english = ["Antibiotic allergy"]
 sctid = ""
 icd10 = ["Z88.0", "Z88.1", "Z88.2"]
-draft = true
 image = false
 imageSrc = ""
 rank = "false"
 writing = "todo"
-todo = "summary > liens > photo > newsletter > Kanban"
+todo = "liens > photo > Kanban"
 style = "#table-allergies-croisees thead th {writing-mode: vertical-rl;height: 7rem;white-space: nowrap} .table td, .table th { padding: 4px}"
-flowchart = "todo"
+flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Allergie aux pénicilline est rare
-- Réaction souvent observée lors d'utilisation d'antibiotiques en épisode viral
+- L'allergie aux antibiotiques est la première cause d'allergie médicamenteuse, mais seulement 5 à 10 % des cas déclarés sont réellement médiés par une réaction d'hypersensibilité (immunitaire)
+- Un diagnostic par excès d'allergie à la pénicilline résulte souvent d'une réaction observée durant une antibiothérapie inadaptée au cours d'un épisode viral
+- Une étiquette d'<< allergie à la pénicilline >> ou un autre antibiotique peut être infirmée à l'interrogatoire dans les cas suivants:
+  - Réutilisation de l'antibiotique sans manifestation allergique
+  - Le patient a été étiqueté << allergique >> uniquement par un antécédent familial allergique ou par une peur de l'allergie
+  - Les symptômes présentés ne sont pas compatibles avec une réaction allergique (troubles digestifs exclusifs, palpitations, vision floue, céphalées, mycose)
+- Dans les autres cas, et en cas de doute, adresser à l'allergologue pour envisager d'emblée un test de réintroduction (risque faible) ou un diagnostic formel d'allergie à l'antibiotique avec une contre-indication à vie
+- Le risque d'allergie croisée est également évalué par l'allergologue
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Allergie aux antibiotiques
-: L'allergie aux antibiotiques est la première cause d'allergie médicamenteuse, mais seulement 5 à 10 % sont réellement médiées par une réaction d'hypersensibilité (immunitaire).
-: Chez les personnes se déclarant allergiques aux bêtalactamines, seules **5 à 10 %** le sont réellement.
-: Les risques sont liées au déclenchement d'une réaction d'hypersensibilité grave (anaphylaxie) et au recours à des antibiotiques de larges spectre et à l'antibiorésistance.
+: L'allergie aux antibiotiques est la première cause d'allergie médicamenteuse, mais seulement 5 à 10 % des cas déclarés sont réellement médiés par une réaction d'hypersensibilité (immunitaire).
+: Les risques sont liés au déclenchement d'une réaction d'hypersensibilité grave (anaphylaxie), au recours à des antibiotiques de large spectre et ainsi à l'antibiorésistance.
 
 Réactions allergiques immédiates
 : Généralement IgE-médiées survenant dans l'heure suivant l'administration (et jusqu'à 6 heures).
