@@ -8,7 +8,7 @@ auteurs = ["Alaedine BENANI", "Jean-Baptiste FRON"]
 date = "2024-02-04T22:00:04+01:00"
 publishdate = "2024-02-09"
 lastmod = "2025-10-06"
-specialites = ["biologie", "oncologie"]
+specialites = ["biologie", "endocrinologie", "oncologie"]
 annees = "2025"
 sources = ["CUEN"]
 tags = ["cancer", "chute", "EPS", "fatigue", "HTA"]
@@ -206,9 +206,9 @@ Le traitement de l'hypercalcémie est étiologique avec des mesures complémenta
 graph TB
   hypercalcémie["<b>Hypercalcémie</b><br>—<br>Calcémie &gt; 2,6 mmol/L"] -- Albumine couplée --> corrigée("- Calcul de la <br>calcémie corrigée<br>- Clinique") -- "CaCorr 2,6-3 et<br>asymptomatique" --> ambulatoire("<b>Bilan ambulatoire</b><br>—<br>- Antécédents<br>- Traitements<br>- Calcémies antérieures") --> bilan("PTH, phosphate") -- "PTH ↑<br>ou normale" --> calciurie(Calciurie des 24h) --> endocrinologue(Endocrinologue)
   bilan -- PTH ↓ --> complémentaire("- PTHrp<br>- 25 OH vitD<br>- 1, 25 OH vitD<br>- TSH<br>- EPS et EPU") -- "PTHrp ↑<br>phosphate ↓<br>1,25 OH vitD ↓" --> cancer("Hypercalcémie<br>tumorale")
-    hypercalcémie -- "Calcémie ionisée couplée<br>&gt; 1,3" --> ionisée("- Hypercalcémie vraie<br>- Clinique") -- "&gt; 1,5 ou<br>symptomatique" --> urgences("Urgences voire SAMU<br>sauf ECG et biologie<br>disponibles en urgence")
-      corrigée -- "CaCorr &gt; 3 ou<br>symptomatique" --> urgences
-    hypercalcémie -- "Sans albumine<br>ou Ca ionisée" --> urgences
+    hypercalcémie -- "Calcémie ionisée couplée<br>&gt; 1,3" --> ionisée("- Hypercalcémie vraie<br>- Clinique") -- "&gt; 1,5 ou<br>symptomatique" ---> urgences("Urgences voire SAMU<br>sauf ECG et biologie<br>disponibles en urgence")
+      corrigée -- "CaCorr &gt; 3 ou<br>symptomatique" ---> urgences
+    hypercalcémie -- "Sans albumine<br>ou Ca ionisée" ---> urgences
       ionisée -- "1,3 - 1,5<br> et asymptomatique" --> ambulatoire
         complémentaire -- "1,25 OH vitD ↑" --> granulome("- Granulomes<br>- Lymphomes")
         complémentaire -- "25 OH vitD ↑" --> médicament("- Médicaments<br>- Surdosage")
