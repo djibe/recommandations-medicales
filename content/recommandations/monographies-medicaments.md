@@ -10,7 +10,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-07-19T11:38:45+02:00"
 publishdate = "2024-07-19"
-lastmod = "2026-05-05"
+lastmod = "2026-05-31"
 specialites = ["thérapeutique"]
 annees = "2026"
 sources = ["BDPM"]
@@ -20,7 +20,7 @@ sctid = ""
 icd10 = []
 image = true
 imageSrc = "Les monographies des médicaments. jemastock / Freepik"
-todo = "<https://listjs.com/>, unified search, update"
+todo = "unified search, update"
 +++
 
 Consulter la monographie (indications, posologies, contre-indications ...) de tous les médicaments utiles en soins primaires (hors homéopathie) de la Base de données publique des médicaments (BDPM).
@@ -41,53 +41,56 @@ Consulter la monographie (indications, posologies, contre-indications ...) de to
 async function loadData() {
   const spinner = document.getElementById('spinner');
   spinner.style.display = 'block'; // Afficher le spinner
-try {
-// Charger le fichier JSON au chargement de la page
-const response = await fetch('https://raw.githubusercontent.com/djibe/recommandations-medicales/refs/heads/master/static/data/bdpm-search.json');
-const data = await response.json();
-const medicationList = document.getElementById('medication-list');
-const searchInput = document.getElementById('search-input-med');
-const resultCount = document.getElementById('result-count');
-const noResults = document.getElementById('no-results');
-
-// Afficher la liste des libellés
-data.forEach(item => {
-  const a = document.createElement('a');
-  if (item.procedure === 'Procédure centralisée') {
-    a.href = `https://base-donnees-publique.medicaments.gouv.fr/medicament/${item.cis}/extrait#tab-rcp-et-notice`;
-  } else {
-    a.href = `https://base-donnees-publique.medicaments.gouv.fr/medicament/${item.cis}/extrait#tab-rcp`;
-  }
-  a.textContent = item.libelle;
-  a.target = "_blank";
-  a.classList.add('list-group-item', 'list-group-item-action');
-  a.dataset.dci = item.dci;
-  medicationList.appendChild(a);
-  });
-  // Filtrer la liste des codes CIS en fonction de la recherche
-  searchInput.addEventListener('input', () => {
-    const filter = searchInput.value.trim().toUpperCase();
-    const li = medicationList.getElementsByTagName('a');
-    let count = 0;
-
-    for (let i = 0; i < li.length; i++) {
+  const normalizeText = (text) => {
+    if (!text) return '';
+    return text
+      .normalize("NFD")               // Separate base letters from their accents
+      .replace(/[\u0300-\u036f]/g, "") // Remove the accent marks
+      .toUpperCase();                 // Convert to uppercase for case-insensitivity
+  };
+  try {
+    const response = await fetch('https://raw.githubusercontent.com/djibe/recommandations-medicales/refs/heads/master/static/data/bdpm-search.json');
+    const data = await response.json();
+    const medicationList = document.getElementById('medication-list');
+    const searchInput = document.getElementById('search-input-med');
+    const resultCount = document.getElementById('result-count');
+    const noResults = document.getElementById('no-results');
+    data.forEach(item => {
+      const a = document.createElement('a');
+      if (item.procedure === 'Procédure centralisée') {
+        a.href = `https://base-donnees-publique.medicaments.gouv.fr/medicament/${item.cis}/extrait#tab-rcp-et-notice`;
+      } else {
+        a.href = `https://base-donnees-publique.medicaments.gouv.fr/medicament/${item.cis}/extrait#tab-rcp`;
+      }
+      a.textContent = item.libelle;
+      a.target = "_blank";
+      a.classList.add('list-group-item', 'list-group-item-action');
+      a.dataset.dci = item.dci;
+      medicationList.appendChild(a);
+    });
+    searchInput.addEventListener('input', () => {
+      const filter = normalizeText(searchInput.value.trim());
+      const li = medicationList.getElementsByTagName('a');
+      let count = 0;
+      for (let i = 0; i < li.length; i++) {
         const libelle = li[i].textContent || li[i].innerText;
         const dci = li[i].dataset.dci;
-        if (libelle.toUpperCase().indexOf(filter) > -1 || dci.toUpperCase().indexOf(filter) > -1) {
+        const normalizedLibelle = normalizeText(libelle);
+        const normalizedDci = normalizeText(dci);
+        if (normalizedLibelle.indexOf(filter) > -1 || normalizedDci.indexOf(filter) > -1) {
           li[i].style.display = "";
           count++;
         } else {
           li[i].style.display = "none";
         }
-    }
-  resultCount.textContent = count; // Mettre à jour le compteur
-
-  if (count === 0) {
-    noResults.style.display = "block"; // Afficher le message "Aucun résultat"
-  } else {
-    noResults.style.display = "none"; // Masquer le message "Aucun résultat"
-  }
-  });
+      }
+      resultCount.textContent = count; // Mettre à jour le compteur
+      if (count === 0) {
+        noResults.style.display = "block";
+      } else {
+        noResults.style.display = "none";
+      }
+    });
   } catch (error) {
     console.error('Erreur lors du chargement des données :', error);
   } finally {
