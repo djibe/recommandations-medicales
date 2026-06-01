@@ -94,18 +94,8 @@ HUGO_ENABLEGITINFO = "false"
   status = 301
 
 [[redirects]]
-  from = "https://recomedicales.fr/js/orama.min.89124ac3b676dfbcd31d78190ea53aecfdf5cf4eb7f8436a919e455820a07c7ff74976d685f49ad803599de5be59a13e.mjs"
-  to = "https://recomedicales.fr/clear/"
-  status = 301
-
-[[redirects]]
-  from = "https://recomedicales.fr/js/orama.min.269f46739994252b6b920bdacbe4d26366b4327cf6100d6eac9df65bda37429146725a88ed69d80c95d4f6fad3f511eb.mjs"
-  to = "https://recomedicales.fr/clear/"
-  status = 301
-
-[[redirects]]
-  from = "https://recomedicales.fr/js/lyra.min.51a45432f61b24fdc71cf9cd4f7a1a592fde5c1dc7f7df2fb9aa671a7d24623dd18d5840203db226ac21f017d5aaf7d3.mjs"
-  to = "https://recomedicales.fr/clear/"
+  from = "https://recomedicales.fr/recommandations/allergie-antibiotiques-penicilline/"
+  to = "https://recomedicales.fr/recommandations/allergie-penicilline-antibiotiques/"
   status = 301
 
 [[redirects]]

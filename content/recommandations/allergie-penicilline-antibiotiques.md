@@ -1,9 +1,9 @@
 +++
 id = "0190e8ba-3047-7670-bae6-61c88535c255"
-title = "Allergie aux antibiotiques (dont allergie à la pénicilline)"
-titleSeo = "Allergie aux antibiotiques et pénicilline"
+title = "Allergie à la pénicilline et autres antibiotiques"
+titleSeo = "Allergie à la pénicilline et antibiotiques"
 prefix = "l'"
-description = "recommandations pour le diagnostic et la prise en charge de l'allergie à la pénicilline et autres antibiotiques. Interrogatoire, test de réintroduction ou avis allergologique"
+description = "Recommandations pour le diagnostic et la prise en charge de l'allergie à la pénicilline et autres antibiotiques. Interrogatoire, test de réintroduction ou avis allergologique"
 synonyms = ["Allergie à la pénicilline", "hypersensibilité aux bêtalactamines"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-29T23:58:00+02:00"
