@@ -61,9 +61,9 @@ export default async (request, context) => {
     return context.next();
   }
 
-  const forbiddenBots = ['ChatGPT', 'ChatGPT-User', 'Claude-User', 'ClaudeBot', 'Google-NotebookLM', 'OAI-SearchBot'];
+  const forbiddenBots = ['ChatGPT', 'ChatGPT-User', 'Claude-User', 'ClaudeBot', 'Google-NotebookLM', 'GPTBot', 'OAI-SearchBot'];
   const isForbiddenBot = forbiddenBots.some(u =>
-    ua.toLowerCase().includes(u)
+    ua.toLowerCase().includes(u.toLowerCase())
   );
 
   if (isForbiddenBot) {
