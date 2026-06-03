@@ -19,6 +19,8 @@ icd10 = ["M10", "M10.9"]
 image = true
 imageWEBP = true
 imageSrc = "Illustration de la goutte de la première articulation métatarso-phalangienne. scientificanimations.com, CC BY-SA 4.0"
+rank = "ok"
+writing = "todo"
 flowchart = true
 todo = "relecture"
 +++
@@ -48,8 +50,8 @@ Sa prévalence est de 0,9 à 2,5 % selon les pays, en augmentation.
 : **Complications de la goutte:** tophus, arthropathies uratiques, colique néphrétique, lithiases uriques radiotransparentes, néphropathie goutteuse.
 
 Tophus
-: Dépôt tissulaire de cristaux d'acide urique entouré de cellules inflammatoires lors de chronicité de la maladie.  
-Les tophi sont localisés autour des articulations atteintes par la goutte et préférentiellement oreille (pavillon et hélix), bursite olécrânienne, tendon d'Achille et patellaire, inter-phalangienne distale ou pulpe digitale.
+: Dépôt tissulaire de cristaux d'acide urique entouré de cellules inflammatoires lors de chronicité de la maladie.
+: Les tophi sont localisés autour des articulations atteintes par la goutte et préférentiellement oreille (pavillon et hélix), bursite olécrânienne, tendon d'Achille et patellaire, inter-phalangienne distale ou pulpe digitale.
 
 Allopurinol
 : Médicament hypo-uricémiant utilisé trop largement. Il est la première cause survenue de **toxidermies bulleuses** graves en Europe.  
@@ -107,11 +109,11 @@ Signes et symptômes de la crise de goutte.
 
 ### Examen clinique
 
+- Pression artérielle, fréquence cardiaque
+- Évaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ([SCORE2]({{% relref "score2.md" %}}) en prévention primaire)
 - Poids, taille, IMC
 - Articulations, déformations
 - Tophi
-- Examen cardiovasculaire (pression artérielle, pouls périphériques)  
-  Calcul du risque cardiovasculaire.
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -458,5 +460,10 @@ Mot-clé: goute
 {{% modal title="DFG selon CKD-EPI" id="modal-ckd-epi"%}}
 
 {{< scores/ckd-epi >}}
+
+{{% /modal %}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
+
+{{< clinique/risque-cardiovasculaire >}}
 
 {{% /modal %}}

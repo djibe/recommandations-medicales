@@ -209,7 +209,7 @@ Délai de **7 jours avant le premier rapport sexuel à protéger**.
 
 Pour arrêter la PrEP: après le dernier rapport à risque, prendre 1cp 24h après puis 2^e^ cp 48h après puis arrêter.
 
-Traitement initial pour 30 jours puis renouvellements tous les 2 à 6 mois.
+Traitement ==initial pour 30 jours== puis renouvellements tous les **2 à 6 mois**.
 
   </div>
 </div>

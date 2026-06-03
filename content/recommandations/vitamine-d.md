@@ -165,7 +165,7 @@ Situations pouvant faire contrôler le taux de vitamine D:
 4. Avant et après une [chirurgie bariatrique]({{% relref "obesite-adulte.md" %}})
 5. Personne âgée avec [chutes](/tags/chute/) répétées  
   Noter sur l'ordonnance << Évaluation et prise en charge des personnes âgées sujettes aux chutes répétées >>.
-1. Traitement préconisant une mesure de la vitamine D (ex. [biphosphonate]({{% relref "osteoporose.md" %}}))
+6. Traitement préconisant une mesure de la vitamine D (ex. [biphosphonate]({{% relref "osteoporose.md" %}}))
 
 > -- *HAS 2013* et *Conditions de prise en charge par l'Assurance Maladie*
 

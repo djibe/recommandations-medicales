@@ -240,6 +240,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Place du coefficient de saturation de la transferrine pour le diagnostic de carence martiale dans les maladies chroniques avec composante inflammatoire. 2026.](https://www.has-sante.fr/jcms/p_4038105/fr/place-du-coefficient-de-saturation-de-la-transferrine-pour-le-diagnostic-de-carence-martiale-dans-les-maladies-chroniques-avec-composante-inflammatoire-rapport-d-evaluation)
 - [Michel M, et al; Filière de santé Maladies Rares Immuno-hématologiques. Anémie normo ou macrocytaire. Les Clés du Diagnostic. 2025.](https://clesdudiagnostic.fr/cles-du-diagnostic/anemie-normo-ou-macrocytaire-vgm-98-fl/)
 - [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [Guideline on haemoglobin cutoffs to define anaemia in individuals and populations. Geneva: World Health Organization; 2024. (PDF)](https://iris.who.int/bitstream/handle/10665/376196/9789240088542-eng.pdf?sequence=1)

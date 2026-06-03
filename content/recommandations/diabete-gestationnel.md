@@ -227,8 +227,6 @@ style fdr stroke:#4150f5, stroke-width:1px
   fdr -- Non --> arret(Pas de dépistage du DG)
 {{< /mermaid >}}
 
-> Glycémie exprimée en g/L
-
 {{% /collapse %}}
 {{%sources%}}
 

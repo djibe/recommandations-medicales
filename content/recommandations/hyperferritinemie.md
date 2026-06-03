@@ -56,7 +56,7 @@ CDU-HGE
 : Collège Des Universitaires d'Hépato-GastroEntérologie
 
 CST
-: coefficient de saturation de la transferrine
+: coefficient de saturation de la transferrine (ou CS-Tf)
 
 Hb
 : hémoglobine

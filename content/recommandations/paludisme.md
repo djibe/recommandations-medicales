@@ -117,7 +117,7 @@ Appel du SAMU en cas de suspicion d'accès palustre grave:
 - Terrain
   - Jeune enfant
   - Facteur de risque de forme grave  
-    Personne âgée, grossesse, comorbidités, grossesse.
+    Personne âgée, grossesse, comorbidités.
 - Clinique et biologique
   - Tout signe de gravité
   - Thrombopénie < 50.000/mm³, anémie < 10 g/dL, créatininémie > 150 µmol/L
@@ -328,7 +328,7 @@ Spécialité: [Lariam®](https://base-donnees-publique.medicaments.gouv.fr/medic
 - Enfant de 5 à 14 kg (hors AMM)  
   Préparation magistrale équivalente à 1/8 cp 1 fois par semaine
 
-Peut être utilisée pendant la grossesse.
+Peut être utilisée pendant la grossesse ([CRAT](https://www.lecrat.fr/6466/)).
 
 **Effets indésirables:** anxiété, tristesse, dépression, agitation, confusion, tendance suicidaire, céphalées, vertiges, troubles du sommeil.  
 Arrêt immédiat en cas de survenue.  
