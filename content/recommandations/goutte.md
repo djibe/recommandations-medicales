@@ -40,6 +40,8 @@ todo = "relecture"
   Perte de poids, arrêt de la bière, réduire alcool/sodas/jus, viandes/abats, crustacés, laits maigres, substituer un diurétique.
 - Contrôle des [facteurs de risque cardiovasculaire](/tags/risque-cardiovasculaire/)
 
+Chapitre lié: [hyperuricémie]({{% relref "hyperuricemie.md" %}})
+
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
@@ -106,14 +108,16 @@ Signes et symptômes de la crise de goutte.
   - Atteint surtout les membres inférieurs  
     Gros orteil = 1^re^ métatarsophalangienne ou pied/cheville voire genou avec impotence
   - Sensibilité rapide à la colchicine précoce
+- {{< modal-btn modal-saos >}}Dépister des apnées du sommeil{{< /modal-btn >}}
 
 ### Examen clinique
 
 - Pression artérielle, fréquence cardiaque
-- Évaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ([SCORE2]({{% relref "score2.md" %}}) en prévention primaire)
 - Poids, taille, IMC
+- Périmètre abdominal
 - Articulations, déformations
 - Tophi
+- Évaluation du {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ([SCORE2]({{% relref "score2.md" %}}) en prévention primaire)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -147,7 +151,7 @@ Ces mesures ont plus d'effets sur le profil cardiovasculaire que sur l'uricémie
 
 - Correction d'un surpoids
 - Réduction de la [consommation d'alcool]({{% relref "sevrage-alcool.md" %}})  
-  {{%class%}}Bière et spiritueux.{{%/class%}}
+  {{%class%}}Bière (même sans alcool) et spiritueux.{{%/class%}}
 - Arrêt des sodas, limiter jus d'orange et de pomme
 - Éviter les gros repas
 - Éviter les excès en viandes, abats et crustacés (riches en purines)
@@ -155,7 +159,7 @@ Ces mesures ont plus d'effets sur le profil cardiovasculaire que sur l'uricémie
   Le lait est uricosurique.
 - Encourager un exercice physique quotidien
 - Traitement par diurétique de l'anse ou thiazidique:  
-  Substituer si possible car très uricosuriques, par losartan ou amlodipine.
+  Substituer si possible car très uricosuriques, par losartan ou inhibiteurs calciques.
 - Le fénofibrate est très hypouricémiant mais sans bénéfice sur les maladies cardiovasculaires
 - Éducation du patient itérative  
   Cause majeure d'échec du traitement (alcool, régime ++). Voir *Information du patient*.
@@ -168,7 +172,7 @@ Ces mesures ont plus d'effets sur le profil cardiovasculaire que sur l'uricémie
 - Ciclosporine, tacrolimus
 - Pyrazinamide, éthambutol
 
-Remplacer si possible par des alternatives **hypouricémiantes**: losartan, amlodipine, fénofibrate, atorvastatine.
+Remplacer si possible par des alternatives **hypouricémiantes**: losartan, inhibiteurs calciques, fénofibrate, atorvastatine, gliflozines, clopidogrel, spironolactone.
 
 {{% /collapse %}}
 {{%collapse "Traitement de la crise de goutte" %}}
@@ -250,7 +254,7 @@ Pour l'*ACR*: prise en charge par hypouricémiant fortement recommandé si: ≥ 
 ou recommandé pour certains patients ayant déjà eu ≥ 1 crise mais non fréquentes  
 ou recommandé si DFG < 60, uricémie ≥ 90 mg/L ou lithiase urique.
 
-Pour le *KDIGO*: 1er épisode de goutte et maladie rénale chronique
+Pour le *KDIGO*: 1^er^ épisode de goutte et maladie rénale chronique
 {{%/info%}}
 
 **Objectif du traitement de fond:** prévenir les crises douloureuses et les complications par la dissolution des cristaux d'urate de sodium en maintenant l'uricémie < 60 mg/L (360 µmol/L) au long cours avec cible **< 50 mg/L** (300 µmol/L). Contrôler l'**uricémie 1 à 2 fois par an**.
@@ -354,12 +358,12 @@ La goutte étant une maladie chronique, les points suivants doivent être repris
 graph TB
   crise[Crise de goutte] --> rhd("- Éducation<br>- Traitement à avoir sur soi<br>- Envisager hypouricémiant")
   style crise stroke:#4150f5, stroke-width:1px
-    rhd --> comorbidites("Comorbidités et<br>coprescriptions")
-      comorbidites -- Sans --> sans("AINS ± IPP<br>ou colchicine<br>ou corticoïdes") .-> echec(Échec des possibilités)
-      comorbidites -- IRC sévère --> irc(Corticoïdes) .-> echec
-      comorbidites -- MCV sévère --> mcv(Colchicine<br>ou corticoïdes) .-> echec
-      comorbidites -- Inhibiteurs CYP3A4/GP --> inh(AINS<br>ou corticoïdes) .-> echec
-        echec --> spe(Adresser au spécialiste<br>pour IL-1)
+    rhd --> comorbidités("Comorbidités et<br>coprescriptions")
+      comorbidités -- Sans --> sans("AINS ± IPP<br>ou colchicine<br>ou corticoïdes") .-> échec(Échec des possibilités)
+      comorbidités -- IRC sévère --> irc(Corticoïdes) .-> échec
+      comorbidités -- MCV sévère --> mcv(Colchicine<br>ou corticoïdes) .-> échec
+      comorbidités -- Inhibiteurs CYP3A4/GP --> inh(AINS<br>ou corticoïdes) .-> échec
+        échec --> spe(Adresser au spécialiste<br>pour IL-1)
     rhd -- Monoarthrite infiltrable --> infiltration(Infiltration de corticoïdes)
 {{< /mermaid >}}
 
@@ -465,5 +469,10 @@ Mot-clé: goute
 {{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
+
+{{% /modal %}}
+{{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
+
+{{< scores/stop-bang >}}
 
 {{% /modal %}}
