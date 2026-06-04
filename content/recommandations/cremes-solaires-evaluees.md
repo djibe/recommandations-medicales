@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-01-05T15:38:06+01:00"
 publishdate = "2026-01-05"
-lastmod = "2026-04-09"
+lastmod = "2026-06-0049"
 specialites = ["dermatologie"]
-annees = "2025"
+annees = "2026"
 sources = ["UFR Pharmacie Nantes"]
 tags = []
 english = []
@@ -24,12 +24,12 @@ todo = "Kanban"
 {{%article-summary%}}
 
 - Les crèmes solaires (ou produits de protection solaire) sont une composante importante de la photoprotection pour la prévention des cancers cutanés
-- Elles s'associent au message de prévention des mélanomes:
+- Ces crèmes solaires doivent être utilisées en complément des messages de prévention des mélanomes:
   - Aucune exposition aux UV avant 3 ans
   - Ne pas s'exposer de 12 à 16 heures (10 à 14h en Outre-mer)
   - Se couvrir: habits longs et amples, un chapeau à bords larges et des lunettes de soleil avec filtre anti-UV
   - Protéger les parties découvertes du corps avec de la crème solaire indice SPF 50, à renouveler toutes les 2 heures
-- Une crème d'indice de protection (IP ou FPS ou SPF) 50 est recommandée, atteignant un SPF d'au moins 50, ou 50+ atteignant au moins 60, avec nouvelle application toutes les 2 heures et après chaque baignade
+- Une crème d'indice de protection (dit IP, FPS ou SPF) 50 est recommandée, atteignant un SPF d'au moins 50, ou 50+ (atteignant au moins 60), avec nouvelle application toutes les 2 heures et après chaque baignade
 
 Chapitre lié: [mélanome]({{% relref "melanome.md" %}})
 
@@ -60,9 +60,11 @@ IP
 {{% /collapse %}}
 {{%collapse "Crèmes solaires efficaces" "show" %}}
 
-Les meilleurs produits de 2024 étaient: A-Derma, Bariésun et Bioderma.
+Les **meilleurs produits testés** sont: A-Derma, Bariésun (Uriage) et Bioderma.
 
-Pour respecter la **réglementation SPF 50+**, la valeur minimale in vitro de l'indice de protection (IP ou SPF) doit être d'**au moins 60**, et 50 pour le SPF 50. Les mesures ci-dessous prouvent que l'affichage des crèmes est souvent mensonger.
+> Pour respecter la **réglementation SPF 50+**, la valeur minimale in vitro de l'indice de protection (IP ou SPF) doit être d'**au moins 60**, et 50 pour le SPF 50. Les mesures ci-dessous prouvent que l'affichage des crèmes est souvent mensonger.
+
+Lors des tests in vivo, la dose appliquée doit être de 2 mg/cm².
 
 Le tableau ci-dessous rassemble donc les crèmes disponibles pour protéger au mieux nos patients.
 
@@ -71,8 +73,9 @@ Le tableau ci-dessous rassemble donc les crèmes disponibles pour protéger au m
 
 | Marque | Crème | FPS mesuré | Test |
 | ------ | ----- | ---------- | ---- |
-| A-Derma | ==**Protect peaux fragiles sèches crème SPF 50+**== | **62** | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/les-produits-solaires-a-derma-des-produits-performants-au-service-de-toute-la-famille-1069/) |
-| A-Derma | Protect AC peaux grasses à tendance acnéique fluide matifiant très haute protection SPF 50+ | **62** | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/les-produits-solaires-a-derma-des-produits-performants-au-service-de-toute-la-famille-1069/) |
+| A-Derma | ==**[Protect Kids](https://www.aderma.fr/fr-fr/p/lait-solaire-enfant-spf50-3282770110258-14c39aab)**== | **65** | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/a-derma-protect-kids-resolument-parfait/) |
+| A-Derma | ==**[Protect peaux fragiles sèches crème SPF 50+](https://www.aderma.fr/fr-fr/p/creme-solaire-spf50-3282770072716-14c39aab)**== | **62** | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/les-produits-solaires-a-derma-des-produits-performants-au-service-de-toute-la-famille-1069/) |
+| A-Derma | [Protect AC peaux grasses à tendance acnéique fluide matifiant très haute protection SPF 50+](https://www.aderma.fr/fr-fr/p/fluide-solaire-visage-matifiant-spf50-3282770072754-14c39aab) | **62** | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/les-produits-solaires-a-derma-des-produits-performants-au-service-de-toute-la-famille-1069/) |
 | Acorelle | Crème solaire Acorelle nature sun SPF 50+ bébé | 34 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/on-tord-le-cou-a-la-creme-solaire-acorelle-spf-50-bebe-1121/) |
 | Alphanova | Sun crème teintée très haute protection SPF 50+ | 33 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/alphanova-sun-50-en-realite-l-omega-de-la-protection-solaire-1114/) |
 | Avène | Crème minérale très haute protection Eau thermale Avène SPF 50+ | 43 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/creme-minerale-avene-pas-a-la-hauteur-mais-le-top-du-mineral-quand-meme-1105/) |
@@ -87,15 +90,21 @@ Le tableau ci-dessous rassemble donc les crèmes disponibles pour protéger au m
 | Bioderma | Photoderm Max crème très haute protection 50+ | 62 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/solaires-bioderma-c-est-justement-parce-que-ce-n-est-pas-bio-que-c-est-bien-1076/) |
 | Bioderma | Photoderm Max Aquafluide très haute protection 50+ | 51 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/solaires-bioderma-c-est-justement-parce-que-ce-n-est-pas-bio-que-c-est-bien-1076/) |
 | Bioderma | Photoderm max SPF 50+ stick large SPF 50+ | 64 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/bioderma-enfin-des-sticks-zones-sensibles-spf-50-efficaces-1342/) |
+| Cerave | Lait solaire invisible hydratant SPF30 | 17 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/cerave-lait-solaire-invisible-au-spf-peu-visible/) |
 | Dermatherm | Babysun SPF 50+ crème solaire très haute protection visage & corps | 32 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/dermatherm-babysun-spf-50-le-produit-solaire-qui-fait-pomper-1127/) |
 | Elizabeth Arden | ~~Eight Hour cream Sun Defense for Face SPF 50 PA~~ | 75 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/eight-hour-spf-50-ce-sera-sans-soie-pour-moi-1062/) |
 | Esthederm | Adaptasun Mer et tropiques lait protecteur corps  (soleil fort) | 30 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/adaptasun-une-bizarrerie-dans-l-univers-des-produits-solaires-1077/) |
+| état pur | Fluide minéral protecteur visage SPF 50+ | 13 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/loxyde-de-zinc-ni-pour-le-corps-ni-pour-le-visage-mais-en-revanche-pour-les-fesses/) |
 | Eucerin | Sun LEB gel-crème SPF 50+ | 54 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/la-protection-solaire-eucerin-sun-leb-pas-si-belle-que-ca-2914/) |
 | Gravier | Crème solaire très haute protection SPF 50+ UVA 20 Cosmo naturel Gravier | 33 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/solaire-cosmo-naturel-bebe-bio-pas-aussi-efficace-que-prevu-1115/) |
 | Garnier | Ambre solaire super UV stick 50+ | 53 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/ambre-solaire-son-nouveau-stick-qui-ne-nous-emballe-pas/) |
+| krème | [Lait solaire hydratant SPF 50](https://kreme-paris.com/products/lait-solaire-hydratant-spf-50) | 22 | [Test](https://www.regard-sfur-les-cosmetiques.fr/nos-regards/lait-solaire-hydratant-kreme-il-hydrate-sans-doute-plus-quil-ne-protege/) |
 | L'Occitane | Reine blanche bouclier immaculé SPF 50 | 70 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/l-occitane-un-bouclier-immacule-efficace-contre-les-uv-1099/) |
 | La Roche-Posay | Anthelios UVMUNE 400 dermo-pediatrics | 78 | [Test à lire](https://www.regard-sur-les-cosmetiques.fr/nos-regards/anthelios-uvmune-400-dermo-pediatrics-le-produit-solaire-pour-bebes-a-l-ombre-3337/) |
 | La Roche-Posay | Anthelios UVMUNE 400 la crème solaire teintée | 68 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/anthelios-uvmune-400-la-creme-solaire-teintee-tres-efficace-2942/) |
+| La Roche-Posay | Anthelios UVMUNE 400 fluide KA | 70 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/anthelios-uvmune-400-fluide-ka-sans-alcool-ce-serait-mieux/) (-: éthanol) |
+| La Roche-Posay | UVair sérum solaire teinté deep natural | 71 | [Test négatif](https://www.regard-sur-les-cosmetiques.fr/nos-regards/aussi-leger-que-lair-mais-avec-un-spf-de-plomb/) (-: couche fine, éthanol) |
+| Les Petits Prödiges | Brume solaire invisible visage SPF50+ | 25 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/brume-solaire-les-petits-prodiges-une-demi-protection/) |
 | Lovea | Kids spray hydratant SPF 50+ | 34 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/lovea-kids-spray-hydratant-50-un-grand-coup-de-balai-2979/) |
 | Mary Cohr | Crème visage nouvelle jeunesse anti-âge solaire 50+ | 72 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/science-uv-50-mary-cohr-une-protection-solaire-de-luxe-qui-assure-1038/) |
 | Naturado en Provence | Ecran solaire visage & corps SPF 50+ | 4 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/naturado-solaire-spf-50-on-lui-tourne-le-dos-1098/) |
@@ -107,6 +116,7 @@ Le tableau ci-dessous rassemble donc les crèmes disponibles pour protéger au m
 | Sun | Ceutic 50+ | 60 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/sun-ceutic-50-le-produit-solaire-qui-s-applique-au-son-de-la-cornemuse-1037/) |
 | Thalgo | Crème solaire âge défense | 46 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/thalgo-spf-30-la-creme-solaire-qui-ne-compte-pas-que-sur-la-mer-pour-nous-proteger-1094/) |
 | Uriage | ==**[Bariésun 100 fluide protecteur extrême SPF 50+](https://www.uriage.fr/produits/bariesun-100-fluide-proecteur-extreme-nc)**== | **77** | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/bariesun-100-chapeau-bas-pour-ce-solaire-50-irreprochable-1489/) |
+| Uriage | ==**[Bariésun Crème protectrice hydratante non parfumée SPF50+](https://www.uriage.fr/produits/bariesun-creme-protectrice-hydratante-non-parfumee-spf50)**== | **74** | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/creme-protectrice-bariesun-spf-50-largement-50/) |
 | Vichy | Capital Soleil matifiant 3 en 1 SPF 50+ | 45 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/vichy-capital-soleil-3-en-1-le-soin-multi-usage-plus-matifiant-que-photoprotecteur-2935/) |
 | Vichy | Idéal capital soleil lait douceur enfants protection UV renforcée SPF 50 | 50 | [Test](https://www.regard-sur-les-cosmetiques.fr/nos-regards/lait-douceur-enfants-vichy-spf-50-on-le-reverait-sans-alcool-du-tout-1116/) |
 {caption="Mesures in vitro des indices de protection réels de crèmes solaires (IP ou facteur de protection solaire FPS/SPF). Dr JB Fron d'après *Regard sur les cosmétiques*" class="table-wrap"}
