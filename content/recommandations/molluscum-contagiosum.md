@@ -85,7 +85,7 @@ Recommandations pour la prise en charge des molluscums contagiosums, essentielle
 
 Une anesthésie locale est possible (crème de lidocaïne).
 
-> << Les traitements chimiques locaux sont nombreux mais aucun n'est satisfaisant >> -- *SFD 2016*
+> << Les traitements chimiques locaux sont nombreux mais aucun n'est satisfaisant >> -- *SFD 2016* (ex. Molusderm, Molutrex 5%, PoxKare ...)
 > << l'imiquimod topique à 5 % n'est pas plus efficace que le placebo >> -- *Cochrane 2017*
 
 > [!WARNING]

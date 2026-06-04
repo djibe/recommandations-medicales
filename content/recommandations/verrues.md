@@ -26,4 +26,6 @@ todo = "fiche > photo > newsletter > flow > Kanban"
 
 Voir [Dermatoclic: verrues](https://www.dermatoclic.com/verrues)
 
+Traitements disponibles en pharmacie avec AMM (non remboursés): [Coricide Le diable®](https://base-donnees-publique.medicaments.gouv.fr/medicament/61675902/extrait#tab-rcp), [Duofilm®](https://base-donnees-publique.medicaments.gouv.fr/medicament/66684969/extrait#tab-rcp), [Pommade cochon®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63985038/extrait#tab-rcp), Verrufilm®
+
 {{%/article-summary%}}

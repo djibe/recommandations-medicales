@@ -46,7 +46,7 @@ Chapitre lié: [zona]({{% relref "zona.md" %}})
 {{%collapse "Définition" %}}
 
 Varicelle
-: Maladie infectieuse correspondant à la primo-infection par le virus Varicelle-Zona (VZV). L'infection n'est bénigne que chez les enfants immunocompétents et s'avère extrêmement contagieuse.
+: Maladie infectieuse correspondant à la primo-infection par le virus Varicelle-Zona (VZV) exclusivement humain. L'infection n'est bénigne que chez les enfants immunocompétents et s'avère extrêmement contagieuse.
 : Des formes graves de varicelle surviennent chez les immunodéprimés, les nouveaux-nés avec risque d'embryo-fœtopathie avant 24 SA. Elle se complique fréquemment chez l'adulte.
 : Transmission respiratoire par gouttelettes ou par contact direct. L'immunité naturelle est quasi définitive (5 % de récidives). Possible réactivation sous forme de [zona]({{% relref "zona.md" %}}) après des années.
 

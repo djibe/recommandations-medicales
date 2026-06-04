@@ -38,7 +38,7 @@ todo = "flowchart, zona en pédiatrie"
 {{%collapse "Définition" %}}
 
 Zona
-: Réactivation du virus [varicelle]({{% relref "varicelle.md" %}})-zona (VZV) dans le ganglion sensitif où il reste quiescent avec apparition de vésicules et douleurs dans le **dermatome** correspondant.
+: Réactivation du virus [varicelle]({{% relref "varicelle.md" %}})-zona (VZV) dans le ganglion sensitif où il reste quiescent avec apparition de vésicules et douleurs dans le **dermatome** correspondant. Le VZV est exclusivement humain.
 : Complications liées aux [douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}}) séquellaires, au pronostic visuel en **zona ophtalmique** et aux formes de l'immunodéprimé.
 
 Zona et personne immunodéprimée
@@ -270,6 +270,7 @@ Détail de la prise en charge dans le chapitre [douleurs neuropathiques]({{% rel
 - {{< references/calendrier-vaccinal >}}
 - [CNGE. Le vaccin Zona Shingrix® chez la personne âgée immunocompétente ≥ 70 ans. 2025. (PDF)](https://www.cnge.fr/wp-content/uploads/2025/06/250609-Vaccin_Zona.pdf)
 - [Vaccination Info Service. Zona. 29/04/2025.](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Zona)
+- [HAS. Recommandations vaccinales contre le Zona. Place du vaccin Shingrix. 2024.](https://www.has-sante.fr/jcms/p_3498915/fr/recommandations-vaccinales-contre-le-zona-place-du-vaccin-shingrix)
 - [de Oliveira Gomes J, et al. Vaccines for preventing herpes zoster in older adults. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008858.pub5/full/fr)
 - [CMIT. Infections à herpès virus du sujet immunocompétent. Item 168. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-168.pdf)
 - [Collège des enseignants de dermatologie de France (CEDEF). Infection à VIH : manifestations cutanéo-muqueuses de la primo-infection à VIH. Item 169. 2023. (PDF)](https://cedef.org/wp-content/uploads/2023/09/Item-169-%E2%80%94-Infection-a-VIH-manifestations-cutaneo-muqueuses-de-la-primo-infection-a-VIH_CompressPdf.pdf)
