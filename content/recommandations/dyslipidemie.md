@@ -134,6 +134,7 @@ Le risque cardiovasculaire doit être réévalué régulièrement.
 - Selon le niveau de risque cardiovasculaire: consultation de cardiologie
 
 > En cas de LDL très élevé (> 2 g/L), évoquer une [hypercholestérolémie familiale]({{% relref "hypercholesterolemie-familiale.md" %}}) et adresser au spécialiste.
+> En cas de LDL chez les 2 parents ≥ 1,9 g/L, doser le LDL chez les enfants (*PNDS HFHo*).
 
 {{% /collapse %}}
 {{%collapse "Mesures générales et diététiques" %}}
