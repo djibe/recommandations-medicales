@@ -256,6 +256,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Beliard S, Moulin P, et al; Filière des maladies rares endocriniennes FIRENDO, Centre d'Expertise des Dyslipidémies Rares (CEDRA). Hypercholestérolémie Familiale Homozygote. PNDS. 2025.](https://www.has-sante.fr/jcms/p_3826396/fr/hypercholesterolemie-familiale-homozygote)
 - [Peretti N, et al. Treatment of pediatric heterozygous familial hypercholesterolemia 7 years after the EAS recommendations: Real-world results from a large French cohort. Arch Pediatr. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S0929693X24000204)
 - [Durand A, et al. Familial hypercholesterolaemia in UK primary care: a Clinical Practice Research Datalink study of an under-recognised condition. British Journal of General Practice. 2024.](https://bjgp.org/content/early/2024/02/06/BJGP.2023.0010%20)
 - [Cuchel M, et al. 2023 Update on European Atherosclerosis Society Consensus Statement on Homozygous Familial Hypercholesterolaemia: new treatments and clinical guidance. Eur Heart J. 2023.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10314327/)
@@ -264,10 +265,6 @@ graph TB
 - {{< references/college-endocrino >}}
 - [Bouhairie VE, Goldberg AC. Familial hypercholesterolemia. Cardiol Clin. 2015.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4472364/)
 - [Nordestgaard BG et al. Familial hypercholesterolaemia is underdiagnosed and undertreated in the general population: guidance for clinicians to prevent coronary heart disease: consensus statement of the European Atherosclerosis Society. Eur Heart J. 2013.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23956253/)
-
-### Bibliographie en attente
-
-- WIP [Beliard S, Moulin P, et al; Filière des maladies rares endocriniennes FIRENDO, Centre d'Expertise des Dyslipidémies Rares (CEDRA). Hypercholestérolémie Familiale Homozygote. PNDS. 2025.](https://www.has-sante.fr/jcms/p_3826396/fr/hypercholesterolemie-familiale-homozygote)
 
 {{%/sources%}}
 {{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
