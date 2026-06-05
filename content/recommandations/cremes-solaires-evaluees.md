@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-01-05T15:38:06+01:00"
 publishdate = "2026-01-05"
-lastmod = "2026-06-0049"
+lastmod = "2026-06-04"
 specialites = ["dermatologie"]
 annees = "2026"
 sources = ["UFR Pharmacie Nantes"]
@@ -18,6 +18,8 @@ sctid = ""
 icd10 = []
 image = true
 imageSrc = "Crème solaire de haute protection avec facteur de protection solaire (FPS ou SPF) de 50. Freepik"
+rank = "ok"
+writing = "ok"
 todo = "Kanban"
 +++
 
