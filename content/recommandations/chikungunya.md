@@ -30,7 +30,7 @@ todo = "flow"
 - La prévention du chikungunya comprend la vaccination des adultes avec comorbidité de plus de 18 ans et la protection anti-vectorielle (contre les piqûres de moustiques - PPAV)
 - Les critères d'hospitalisation sont les formes graves, hyperalgiques et les comorbidités sévères
 - La prise en charge du chikungunya est symptomatique avec: antalgie/antipyrexie, hydratation et protection contre les piqûres de moustiques pour limiter la diffusion de la maladie
-- Le chikungunya est une maladie à déclaration obligatoire à l'ARS
+- Le chikungunya est une maladie à signalement obligatoire à l'ARS
 
 Chapitre lié: [fièvre jaune]({{% relref "fievre-jaune.md" %}})
 
@@ -39,7 +39,7 @@ Chapitre lié: [fièvre jaune]({{% relref "fievre-jaune.md" %}})
 
 Chikungunya
 : << qui marche courbé en avant >> en Makondée (peuple d'Afrique australe).
-: Arbovirose ARN (*Alphavirus chikungunya*) transmise par les moustiques *Aedes albopictus* (moustique tigre) et *Aedes aegypti* principalement en Amérique du Sud, sans traitement curatif disponible et à déclaration obligatoire. Le moustique pique un sujet infecté et va contaminer une autre personne.
+: Arbovirose ARN (*Alphavirus chikungunya*) transmise par les moustiques *Aedes albopictus* (moustique tigre) et *Aedes aegypti* principalement en Amérique du Sud, sans traitement curatif disponible et à signalement obligatoire. Le moustique pique un sujet infecté et va contaminer une autre personne.
 : Les complications sont des symptômes prolongés (douleurs, incapacité) et des formes graves neurologiques chez les immunodéprimés et les sujets âgés (+65 ans, surtout ceux ayant des comorbidités). Le taux de décès est comparable à la grippe saisonnière (0,01 - 0,1 %).
 : Les moustiques du genre *Aedes* (rayé noir et blanc) piquent en journée (principalement tôt le matin et avant le coucher du soleil) et transmettent également la dengue, la fièvre jaune et le virus Zika. Ils pondent dans les réservoirs anthropiques d'eau (vases, gouttières, pneus ...)
 
@@ -199,7 +199,7 @@ La prise en charge du chikungunya repose sur un traitement symptomatique:
 - Glaçage des articulations douloureuses, orthèses  
   Après la phase aiguë uniquement: AINS locaux et généraux voire infiltrations de corticoïdes.
 - **Protection contre les piqûres de moustique** pour lutter contre la diffusion
-- **[Déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}})** à l'ARS
+- **[Signalement obligatoire]({{% relref "maladies-signalement-obligatoire.md" %}})** à l'ARS
 - Information du patient: [guide Ameli chikungunya](https://www.ameli.fr/assure/sante/themes/piqure-moustique-maladies/maladies-virales-moustiques) et [guide Institut Pasteur](https://www.pasteur.fr/fr/centre-medical/fiches-maladies/chikungunya)
 
 Avis spécialisé **rhumatologique** en cas de symptômes persistants plusieurs mois.

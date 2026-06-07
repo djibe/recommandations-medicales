@@ -30,7 +30,7 @@ flowchart = true
 - Vacciner contre l'hépatite A: [HSH]({{% relref "hsh.md" %}}), enfant amené à séjourner en zone endémique, dans les 14 jours autour d'un cas
 - Le seul traitement de l'hépatite A est préventif par les mesures d'hygiène et la vaccination
 - Schéma vaccinal dans le cadre d'un voyage: 1 injection 15 jours avant le départ et rappel à 6 mois (voire +), dès 1 an
-- Hépatite A aiguë: [maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}}) et prise en charge symptomatique
+- Hépatite A aiguë: [maladie à signalement obligatoire]({{% relref "maladies-signalement-obligatoire.md" %}}) et prise en charge symptomatique
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

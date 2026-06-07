@@ -4,7 +4,7 @@ title = "Variole B (ex Mpox, Monkeypox ou Variole du singe)"
 prefix = "le "
 titleSeo = "Variole B (Mpox, Monkeypox, Variole du singe)"
 aliases = ["monkeypox", "mpox"]
-description = "Recommandations pour le diagnostic et la prise en charge de la variole B (Mpox). Personnes à vacciner contre la variole du singe, traitement avec isolement, déclaration obligatoire"
+description = "Recommandations pour le diagnostic et la prise en charge de la variole B (Mpox). Personnes à vacciner contre la variole du singe, traitement avec isolement, signalement obligatoire"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-07-09T11:52:12+02:00"
@@ -27,13 +27,13 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le virus de la variole B (*ex* Mpox, Monkeypox ou variole du singe) est un poliovirus et donc une [maladie à déclaration obligatoire](https://www.formulaires.service-public.fr/gf/cerfa_12218.do) avec Cerfa spécifique à déclarer au plus vite à l'ARS une fois confirmé
+- Le virus de la variole B (*ex* Mpox, Monkeypox ou variole du singe) est un poliovirus et donc une [maladie à signalement obligatoire](https://www.formulaires.service-public.fr/gf/cerfa_12218.do) avec Cerfa spécifique à déclarer au plus vite à l'ARS une fois confirmé
 - La variole B / Mpox doit être évoquée devant un contact rapproché à risque (contage, zone d'épidémie) et des lésions évocatrices: éruption vésiculeuse avec contenu liquidien (visage, génito-anale, paumes et plantes) avec dessèchement puis cicatrisation spontanée en 2 à 4 semaines
 - Bilan de la suspicion de variole B:
   - Mesures barrières
   - En l'absence de contact à risque ou si le clade (I ou II) du cas primaire n'est pas connu: RT-PCR MPXV en urgence sur 1 ou 2 lésions muqueuses
   - Avis infectiologique urgent
-- Prise en charge au diagnostic de variole B (Mpox): isolement strict avec prévention des surinfections des lésions, déclaration obligatoire et remise de [la conduite à tenir (PDF)](https://sante.gouv.fr/IMG/pdf/flyer_cas_confirmes_mkp_120822_vdef.pdf)
+- Prise en charge au diagnostic de variole B (Mpox): isolement strict avec prévention des surinfections des lésions, signalement obligatoire et remise de [la conduite à tenir (PDF)](https://sante.gouv.fr/IMG/pdf/flyer_cas_confirmes_mkp_120822_vdef.pdf)
 - Vaccination des personnes à risque de variole B (Mpox): [où se faire vacciner contre Monkeypox ?](https://www.sante.fr/mpox) ou [vaccination Mpox en Ile-de-France](https://www.iledefrance.ars.sante.fr/variole-du-singe-recommandations-pour-les-professionnels-de-sante-et-prise-en-charge-des-patients) sur auto-déclaration du statut de personne cible (voir *Prévention*)
 - Sites d'information: [Mpox Info Service](https://www.mpox-info-service.fr) et [Flyer d'info Mpox](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-transmissibles-de-l-animal-a-l-homme/mpox/documents/depliant-flyer/info-mpox-flyer-a5) (*SPF*)
 - Mpox Info Service Grand public: {{<phone>}}0 801 90 80 69{{</phone>}} (8-23 h)
@@ -53,13 +53,13 @@ Les zones d'endémie sont les zones forestières d'Afrique du Centre et de l'Oue
 : 5002 cas confirmés en France au 27 avril 2023, à 96 % des [HSH]({{% relref "hsh.md" %}}) sans aucun décès en France.
 
 Cas suspect de variole B
-: Signes cliniques uniquement: éruption cutanée ou ulcération(s) de la muqueuse génitale, anale ou buccale, évocatrice de Mpox, isolée ou précédée ou accompagnée d'une fièvre mesurée (> 38°C) ou sensation de fièvre, d'adénopathies ou d'une odynophagie. Bilan par test qPCR ou RT-PCR et déclaration obligatoire si positif.
+: Signes cliniques uniquement: éruption cutanée ou ulcération(s) de la muqueuse génitale, anale ou buccale, évocatrice de Mpox, isolée ou précédée ou accompagnée d'une fièvre mesurée (> 38°C) ou sensation de fièvre, d'adénopathies ou d'une odynophagie. Bilan par test qPCR ou RT-PCR et signalement obligatoire si positif.
 
 Cas probable de variole B
-: Signes cliniques évocateurs de variole B et **contact à risque** avec un cas confirmé. Pas de test biologique si le cas primaire est connu, déclaration obligatoire.
+: Signes cliniques évocateurs de variole B et **contact à risque** avec un cas confirmé. Pas de test biologique si le cas primaire est connu, signalement obligatoire.
 
 Cas confirmé de variole B
-: Diagnostic biologique positif par qPCR ou RT-PCR d'Orthopoxvirus positif ± séquençage partiel du virus MKP. Déclaration obligatoire.
+: Diagnostic biologique positif par qPCR ou RT-PCR d'Orthopoxvirus positif ± séquençage partiel du virus MKP. signalement obligatoire.
 
 Personne-contact à risque
 : Contact direct non protégé sans notion de durée avec la peau lésée ou les fluides biologiques d'un cas probable ou confirmé symptomatique, notamment rapport sexuel (avec ou sans préservatif), actes de soins médical, paramédical ou de toilette
@@ -235,7 +235,7 @@ Utilisation le plus souvent de 2 doses de vaccin Mpox (vaccin **MVA-BN** de 3^e^
 {{%collapse "Traitement de la variole B" %}}
 
 > [!WARNING]
-> Tout poliovirus est une [maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}}). La variole B nécessite un [cerfa spécifique de déclaration](https://www.formulaires.service-public.fr/gf/cerfa_12218.do). Contacter l'ARS au plus vite en cas de femme ou d'enfant. Pas d'AINS (*SFD*).
+> Tout poliovirus est une [maladie à signalement obligatoire]({{% relref "maladies-signalement-obligatoire.md" %}}). La variole B nécessite un [cerfa spécifique de déclaration](https://www.formulaires.service-public.fr/gf/cerfa_12218.do). Contacter l'ARS au plus vite en cas de femme ou d'enfant. Pas d'AINS (*SFD*).
 
 Le traitement d'une variole B confirmée est symptomatique avec la prévention des surinfections cutanéo-muqueuses.
 
@@ -270,7 +270,7 @@ Le tecovirimat ne doit pas être utilisé pour le traitement de la variole B / M
 
 {{< mermaid title="Prise en charge de la variole B (Mpox) par le médecin généraliste. Dr JB Fron d'après HAS et Ministère de la Santé" >}}
 graph TB
-  suspicion["<b>Suspicion de variole B</b><br>(Mpox)<br>—<br>- ± Zone d'endémie (RDC ++)<br>± Contact à risque<br>- Éruption évocatrice<br>- Douleurs associées<br>- Prurit peu marqué"] -- "Masques et gants" --> clinique("<b>Clinique</b><br>—<br>Étayer un diagnostic différentiel:<br>- Varicelle<br>- Rougeole<br>- Variole<br>- Infection bactérienne<br>- Syphilis secondaire<br>- Dermatite bulleuse<br>- Gale<br>- Allergie") -- "Doute persistant<br>ou contact à risque" --> test("- RT-PCR Mpox ou Orthopoxvirus<br>en urgence sauf contact avec<br>clade connu<br>- Sujet à risque de forme grave:<br>appel du SAMU") -- Isolement --> résultat(Résultat) -- Positif --> mesures(<b>Traitement</b><br>—<br>- Déclaration obligatoire<br>- Isolement jusqu'à cicatrisation<br>- Document d'information<br>- Vaccination des contacts<br>- Préservatif pendant 8 sem<br>après la guérison)
+  suspicion["<b>Suspicion de variole B</b><br>(Mpox)<br>—<br>- ± Zone d'endémie (RDC ++)<br>± Contact à risque<br>- Éruption évocatrice<br>- Douleurs associées<br>- Prurit peu marqué"] -- "Masques et gants" --> clinique("<b>Clinique</b><br>—<br>Étayer un diagnostic différentiel:<br>- Varicelle<br>- Rougeole<br>- Variole<br>- Infection bactérienne<br>- Syphilis secondaire<br>- Dermatite bulleuse<br>- Gale<br>- Allergie") -- "Doute persistant<br>ou contact à risque" --> test("- RT-PCR Mpox ou Orthopoxvirus<br>en urgence sauf contact avec<br>clade connu<br>- Sujet à risque de forme grave:<br>appel du SAMU") -- Isolement --> résultat(Résultat) -- Positif --> mesures(<b>Traitement</b><br>—<br>- Signalement obligatoire<br>- Isolement jusqu'à cicatrisation<br>- Document d'information<br>- Vaccination des contacts<br>- Préservatif pendant 8 sem<br>après la guérison)
     résultat -- Négatif --> autre
     clinique --> autre(Autre diagnostic)
   style suspicion stroke:#4150f5, stroke-width:1px

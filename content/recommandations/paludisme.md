@@ -30,7 +30,7 @@ todo = "update, Prescrire, ttt ambulatoire accès palustre"
 - Toute suspicion de paludisme est une **urgence** diagnostique et thérapeutique (service de maladies infectieuses et tropicales, médecine interne ou *Urgences*)
 - En cas de paludisme réfuté par un bilan initial mais que le doute persiste: réaliser un deuxième test 12 à 24 heures plus tard (frottis sanguin, goutte épaisse, test de diagnostic rapide)
 - La prévention du paludisme est systématique lors d'un voyage tropical dans une zone impaludée: protection contre les moustiques (PPAV) et évaluer la nécessité d'une chimioprophylaxie médicamenteuse (CPAV, voir *Indication à la prophylaxie palustre*)
-- Le paludisme autochtone est une [maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}})
+- Le paludisme autochtone est une [maladie à signalement obligatoire]({{% relref "maladies-signalement-obligatoire.md" %}})
 - Les séjours en zones d'endémie palustre sont déconseillés durant la grossesse (*CRAT*)
 
 {{%/article-summary%}}

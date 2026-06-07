@@ -31,7 +31,7 @@ flowchart = true
 - Évaluation rapide des paramètres vitaux et rechercher un purpura chez le patient déshabillé
 - Devant un purpura fulminans: appel immédiat du SAMU et antibiothérapie par ceftriaxone 1g IM (50/mg/kg chez l'enfant, max 1g), port du masque
 - Transport immédiat si délai d'intervention du SAMU supérieur à 20 minutes (prévenir les *Urgences*)
-- En cas de méningocoque: prise en charge des sujets contacts par antibioprophylaxie, déclaration obligatoire et vaccination (sauf sérogroupe B)
+- En cas de méningocoque: prise en charge des sujets contacts par antibioprophylaxie, signalement obligatoire et vaccination (sauf sérogroupe B)
 - Suivi après méningite bactérienne: suivi neurologique, auditif et du développement chez l'enfant
 - Prévention de la méningite bactérienne: vaccinations méningocoque B et ACWY, pneumocoque et *Haemophilus*
 
@@ -208,7 +208,7 @@ Transport immédiat aux *Urgences* (et les prévenir) si délai d'intervention d
 
 Une hémoculture est nécessaire avant antibiothérapie (ou délai avant prise en charge hospitalière supérieur à 90 minutes) sauf purpura fulminans.
 
-La méningite à méningocoque est une [maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}}).
+La méningite à méningocoque est une [maladie à signalement obligatoire]({{% relref "maladies-signalement-obligatoire.md" %}}).
 
 ### Suivi après méningite bactérienne
 
@@ -235,7 +235,7 @@ Consultation de suivi dans les 15 jours puis à 1 mois:
 {{% /collapse %}}
 {{%collapse "Conduite à tenir autour d'un cas de méningite" %}}
 
-> La méningite à méningocoque est une [maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}}).
+> La méningite à méningocoque est une [maladie à signalement obligatoire]({{% relref "maladies-signalement-obligatoire.md" %}}).
 {.alert .alert-warning}
 
 Pas de mesures prophylactiques en dehors de la **méningite à méningocoque**.
@@ -268,7 +268,7 @@ Antibioprophylaxie et vaccination urgente des << sujets contacts >>:
 
 {{< mermaid title="Prise en charge de la méningite bactérienne par le médecin généraliste. Dr JB Fron d'après AFU et SFP 2010" >}}
 graph TB
-  suspicion["<b>Suspicion de méningite</b><br>—<br>- Fièvre<br>- Raideur de nuque<br>- Céphalées<br>- Troubles de conscience<br>- Purpura fébrile<br>- Signes de localisation<br>- Convulsion fébrile avant 6 mois"] --> clinique("<b>Examen clinique immédiat rapide</b><br>—<br>- Constantes, Glasgow<br>- Examen neurologique<br>- Purpura<br>- Port du masque") --> appel("Appel du SAMU<br>voire transport immédiat") -- Attente du SAMU --> SAMU("- Monitoring<br>- Recherche porte<br> d'entrée infectieuse<br>- Si purpura: injection IV voire IM<br>ceftriaxone 1g<br>enfant: 50 mg/kg<br>- Remplissage<br>- Éléments vitaux") -. Méningocoque .-> méningocoque("<b>Méningocoque identifié</b><br>—<br>- Déclaration obligatoire<br>- Antibioprophylaxie des contacts<br>rifampicine 600 mg x 2/j<br>- Vaccination des contacts (sauf B)")
+  suspicion["<b>Suspicion de méningite</b><br>—<br>- Fièvre<br>- Raideur de nuque<br>- Céphalées<br>- Troubles de conscience<br>- Purpura fébrile<br>- Signes de localisation<br>- Convulsion fébrile avant 6 mois"] --> clinique("<b>Examen clinique immédiat rapide</b><br>—<br>- Constantes, Glasgow<br>- Examen neurologique<br>- Purpura<br>- Port du masque") --> appel("Appel du SAMU<br>voire transport immédiat") -- Attente du SAMU --> SAMU("- Monitoring<br>- Recherche porte<br> d'entrée infectieuse<br>- Si purpura: injection IV voire IM<br>ceftriaxone 1g<br>enfant: 50 mg/kg<br>- Remplissage<br>- Éléments vitaux") -. Méningocoque .-> méningocoque("<b>Méningocoque identifié</b><br>—<br>- Signalement obligatoire<br>- Antibioprophylaxie des contacts<br>rifampicine 600 mg x 2/j<br>- Vaccination des contacts (sauf B)")
     appel -- "Transport immédiat et<br>appel des Urgences" --> Urgences(Urgences) -. Méningocoque .-> méningocoque
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}

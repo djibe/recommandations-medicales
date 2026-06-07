@@ -30,7 +30,7 @@ todo = "dépistage VHB, insuff hépatocellulaire, AFEF 2020: TROD AgHBs isolés,
 - La prise en charge de l'hépatite B chronique est spécialisée
 - Vacciner contre l'hépatite B: rattrapage jusque 15 ans révolus et autres indications (voir *Personnes à vacciner*)
 - Vacciner tout l'entourage d'une personne avec hépatite B active
-- L'hépatite B aiguë est une [maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}})
+- L'hépatite B aiguë est une [maladie à signalement obligatoire]({{% relref "maladies-signalement-obligatoire.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -108,7 +108,7 @@ Circonstances de découverte d'une hépatite B:
 - Tableau d'hépatite aiguë
   - Fatigue, anorexie, hépatalgie, syndrome pseudogrippal, [ictère]({{% relref "ictere.md" %}}) inconstant. Dure environ 2 semaines
   - La sérologie révèle des Ag HBs et Ac anti-HBc positifs, transaminases 5-20 N
-  - L'hépatite B aiguë est une [maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}})
+  - L'hépatite B aiguë est une [maladie à signalement obligatoire]({{% relref "maladies-signalement-obligatoire.md" %}})
 - Infection pauci-symptomatique: [fatigue](/tags/fatigue/)
 - Signes d'insuffisance hépato-cellulaire  
   {{< clinique/insuffisance-hepato-cellulaire >}}

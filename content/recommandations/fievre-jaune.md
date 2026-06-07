@@ -26,7 +26,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-La fièvre jaune est une maladie hémorragique virale aiguë transmise par des moustiques infectés de certaines zones tropicales (Afrique et Amérique latine). C'est une maladie à [déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}}).
+La fièvre jaune est une maladie hémorragique virale aiguë transmise par des moustiques infectés de certaines zones tropicales (Afrique et Amérique latine). C'est une maladie à [signalement obligatoire]({{% relref "maladies-signalement-obligatoire.md" %}}).
 
 La vaccination contre la fièvre jaune est:
 

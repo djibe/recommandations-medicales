@@ -3,7 +3,7 @@ id = "0190e8cb-70b7-7790-b9a4-9f5889291976"
 title = "Saturnisme"
 prefix = "le "
 noindex = true
-description = "Recommandations pour le dépistage et la prise en charge du saturnisme. Facteurs de risque, seuils de plombémie et déclaration obligatoire"
+description = "Recommandations pour le dépistage et la prise en charge du saturnisme. Facteurs de risque, seuils de plombémie et signalement obligatoire"
 synonyms = ["Intoxication au plomb"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-12-21T22:01:41+02:00"
@@ -24,8 +24,8 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Déclaration obligatoire du saturnisme pour les enfants avec plombémie ≥ 50 µg/L
-- Prise en charge du saturnisme: Repérer les facteurs de risque, doser la plombémie, déclaration obligatoire au médecin inspecteur de santé publique
+- Signalement obligatoire du saturnisme pour les enfants avec plombémie ≥ 50 µg/L
+- Prise en charge du saturnisme: Repérer les facteurs de risque, doser la plombémie, signalement obligatoire au médecin inspecteur de santé publique
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -33,7 +33,7 @@ flowchart = true
 Saturnisme
 : Imprégnation excessive des individus au plomb. **Toxicité sans seuil** avec effets même à faible concentration.  
 Le plomb est un toxique sans rôle physiologique, il s'accumule principalement dans le squelette avec une demi-vie supérieure à 10 ans. Contamination par voie digestive ou respiratoire.
-: **Maladie à déclaration obligatoire chez les enfants pour une plombémie ≥ 50 µg/L** (définition du cas de saturnisme depuis juin 2015).
+: **Maladie à signalement obligatoire chez les enfants pour une plombémie ≥ 50 µg/L** (définition du cas de saturnisme depuis juin 2015).
 : Le saturne était le plomb chez les grecs.
 
 Pica
@@ -138,7 +138,7 @@ Transmettre la fiche émise par le laboratoire ([Cerfa 12378*03](https://www.for
 
 Recommandations pour la prise en charge d'un saturnisme:
 
-- Seuil d'intervention rapide et déclaration obligatoire pour les enfants avec un plombémie ≥ 50 µg/L
+- Seuil d'intervention rapide et signalement obligatoire pour les enfants avec un plombémie ≥ 50 µg/L
 - Seuil de vigilance à partir de 25 µg/L qui signe une exposition chronique.  
 Nécessite d'informer les familles et le dosage trimestriel de la plombémie afin de contrôler les mesures d'éviction.
 - Hospitalisation en urgence quand plombémie > 450 µg/L
@@ -165,7 +165,7 @@ Nécessite d'informer les familles et le dosage trimestriel de la plombémie afi
 
 {{< mermaid title="Prise en charge du saturnisme par le médecin généraliste. Dr JB Fron d'après Inserm 2015" >}}
 graph TB
-  examen["<b>Examen du nourrisson<br>et de l'enfant</b>"] --> risque("<b>Facteurs de risque<br>de saturnisme</b><br>—<br>- Habitations avant 1949-1975 et<br>rénovations dans les 6 mois<br>- Industrie émettrice proche<br>ou ayant émis<br>- Immigration récente<br>- Exposition professionnelle<br>- Canalisations au plomb<br>- Aliments de pays avec<br> essence au plomb<br>- Vaisselle en céramique décorée<br>- Cosmétiques: khôl, surma") --> questionnaire(Questionnaire standardisé) -- Positif --> plombémie("Plombémie") -- "≥ 50 µg/L" --> déclaration("Déclaration obligatoire<br>au MISP de l'ARS")
+  examen["<b>Examen du nourrisson<br>et de l'enfant</b>"] --> risque("<b>Facteurs de risque<br>de saturnisme</b><br>—<br>- Habitations avant 1949-1975 et<br>rénovations dans les 6 mois<br>- Industrie émettrice proche<br>ou ayant émis<br>- Immigration récente<br>- Exposition professionnelle<br>- Canalisations au plomb<br>- Aliments de pays avec<br> essence au plomb<br>- Vaisselle en céramique décorée<br>- Cosmétiques: khôl, surma") --> questionnaire(Questionnaire standardisé) -- Positif --> plombémie("Plombémie") -- "≥ 50 µg/L" --> déclaration("Signalement obligatoire<br>au MISP de l'ARS")
     plombémie -- "25-49" --> surveillance("- Éviction du plomb<br>- Surveillance trimestrielle")
     plombémie -- "&lt; 25" --> absence(Information)
   style examen stroke:#4150f5, stroke-width:1px

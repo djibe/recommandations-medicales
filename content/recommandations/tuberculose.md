@@ -27,7 +27,7 @@ datatable = true
 *Ébauche, disponibles: BCG, dépistage, IDR*
 
 - Indications au BCG +++
-- [Maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}})
+- [Maladie à signalement obligatoire]({{% relref "maladies-signalement-obligatoire.md" %}})
 
 {{%/article-summary%}}
 

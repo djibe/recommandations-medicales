@@ -99,6 +99,11 @@ HUGO_ENABLEGITINFO = "false"
   status = 301
 
 [[redirects]]
+  from = "https://recomedicales.fr/recommandations/maladies-declaration-obligatoire/"
+  to = "https://recomedicales.fr/recommandations/maladies-signalement-obligatoire/"
+  status = 301
+
+[[redirects]]
   from = "https://recomedicales.fr/images/photos/osteoporose.webp"
   to = "https://recomedicales.fr/images/photos/osteoporose.jpg"
   status = 301

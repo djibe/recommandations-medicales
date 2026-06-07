@@ -28,7 +28,7 @@ todo = "SEO, Le dépistage VHB - VHC - VIH doit être combiné (*AFEF*), relectu
 - Bilan avec RT-PCR VIH et sérologie VIH (répéter à 1 mois) en cas de: fièvre ou fatigue inexpliquées, exanthème fébrile de l'adulte, zona de l'adulte jeune ...
 - Le suivi par l'infectiologue est systématique et le traitement antirétroviral est indiqué pour toute personne infectée vivant avec le VIH.
 - Le médecin généraliste s'assure de l'observance, les dépistages des comorbidités et vaccinations spécifiques ainsi que la qualité de vie
-- Le VIH est une maladie à [déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}}) prise en charge à 100%
+- Le VIH est une maladie à [signalement obligatoire]({{% relref "maladies-signalement-obligatoire.md" %}}) prise en charge à 100%
 - Aide à la consultation du généraliste: [VIHclic](https://vihclic.fr)
 
 Toute personne exposée au VIH est éligible à la [PrEP]({{% relref "prophylaxie-preexposition-prep.md" %}}) (gratuite), prescriptible par tout médecin.
@@ -409,7 +409,7 @@ Recommandations pour la prise en charge du patient traité par antirétroviral:
 - Si (pré-)cirrhose: échographie hépatique x 2/an
 - Ostéodensitométrie  
   Indication: homme VIH+ > 60 ans, < 60 ans avec IMC < 20.
-- [Maladie à déclaration obligatoire anonyme]({{% relref "maladies-declaration-obligatoire.md" %}})
+- [Maladie à signalement obligatoire anonyme]({{% relref "maladies-signalement-obligatoire.md" %}})
 - Déclarer l'[ALD n°7]({{% relref "affection-longue-duree.md" %}})
 
 ### VIH et suivi cardiovasculaire

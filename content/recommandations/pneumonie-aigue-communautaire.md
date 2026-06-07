@@ -257,7 +257,7 @@ Présentation de pneumonie aiguë communautaire bactérienne **la plus fréquent
 - Antigénurie légionelle et culture sur prélèvements respiratoires, [hyponatrémie]({{% relref "hyponatremie.md" %}}), rhabdomyolyse
 - Condensation systématisée ou opacités multifocales
 - Macrolide avec durée identique aux PAC de l'adulte
-- **[Maladie à déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}})**
+- **[Maladie à signalement obligatoire]({{% relref "maladies-signalement-obligatoire.md" %}})**
 
 ### Tableau de pneumonie virale (dont Covid-19)
 

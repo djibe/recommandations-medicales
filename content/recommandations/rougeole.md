@@ -26,7 +26,7 @@ todo = "flow"
 - La prévention passe par la [vaccination]({{% relref "vaccination.md" %}}) ROR (rougeole-oreillons-rubéole; MMRvaxPro® ou Priorix®) double dose de tous les sujets nés depuis 1980
 - Signes et symptômes de la rougeole: fièvre élevée avec catarrhe oculorespiratoire (larmoiement, conjonctivite, rhinorrhée) et signe de Köplik pendant 3 jours suivie d'une éruption cutanée avec exanthème maculo-papuleux (dit morbilliforme), de début rétro-auriculaire puis étendu à tout le corps en une seule poussée
 - Rechercher des signes de complications par un examen clinique complet
-- Le bilan nécessite toujours une RT-PCR rougeole urgente pour la [déclaration obligatoire]({{% relref "maladies-declaration-obligatoire.md" %}}) (DO)
+- Le bilan nécessite toujours une RT-PCR rougeole urgente pour la [signalement obligatoire]({{% relref "maladies-signalement-obligatoire.md" %}}) (DO)
 - Hospitalisation en urgence des femmes enceintes non immunes et des immunodéprimés, en cas de signes de gravité ou de complications
 - La prise en charge de la rougeole associe: éviction jusqu'à 5 jours après le début de l'éruption cutanée, isolement, traitement symptomatique et enquête vaccinale des sujets contact et vaccination post-exposition
 
@@ -34,7 +34,7 @@ Chapitres liés: [éruption fébrile](/tags/eruption-febrile/)
 
 {{%/article-summary%}}
 
-{{< odisse title="Cas de rougeole par déclaration obligatoire (France)" url="https://odisse.santepubliquefrance.fr/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiJ5ZWFyIiwicXVlcmllcyI6W3siY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoic3BsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoicm91Iiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzQxNTBmNSJ9XSwiY29uZmlnIjp7ImRhdGFzZXQiOiJyb3VnZW9sZS1kb25uZWVzLWRlY2xhcmF0aW9uLW9ibGlnYXRvaXJlIiwib3B0aW9ucyI6e319LCJ4QXhpcyI6ImFubmVlIiwibWF4cG9pbnRzIjoiIiwidGltZXNjYWxlIjoieWVhciIsInNvcnQiOiIifV0sImFsaWduTW9udGgiOnRydWUsImRpc3BsYXlMZWdlbmQiOmZhbHNlLCJzaW5nbGVBeGlzIjp0cnVlLCJzY2llbnRpZmljRGlzcGxheSI6ZmFsc2UsInlSYW5nZU1pbiI6IjAifQ%3D%3D" >}}
+{{< odisse title="Cas de rougeole par signalement obligatoire (France)" url="https://odisse.santepubliquefrance.fr/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiJ5ZWFyIiwicXVlcmllcyI6W3siY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoic3BsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoicm91Iiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzQxNTBmNSJ9XSwiY29uZmlnIjp7ImRhdGFzZXQiOiJyb3VnZW9sZS1kb25uZWVzLWRlY2xhcmF0aW9uLW9ibGlnYXRvaXJlIiwib3B0aW9ucyI6e319LCJ4QXhpcyI6ImFubmVlIiwibWF4cG9pbnRzIjoiIiwidGltZXNjYWxlIjoieWVhciIsInNvcnQiOiIifV0sImFsaWduTW9udGgiOnRydWUsImRpc3BsYXlMZWdlbmQiOmZhbHNlLCJzaW5nbGVBeGlzIjp0cnVlLCJzY2llbnRpZmljRGlzcGxheSI6ZmFsc2UsInlSYW5nZU1pbiI6IjAifQ%3D%3D" >}}
 
 {{%collapse "Définition" %}}
 
@@ -65,7 +65,7 @@ SPF
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-La rougeole est un **diagnostic clinique** mais une **confirmation biologique** est nécessaire pour la [déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}).
+La rougeole est un **diagnostic clinique** mais une **confirmation biologique** est nécessaire pour la [signalement obligatoire]({{< relref "maladies-signalement-obligatoire.md" >}}).
 
 Dès suspicion de rougeole, mesures barrières de type air (masque chirurgical et FFP2 pour le médecin, gants, désinfection des mains et du matériel, isolement, aération).
 
@@ -101,9 +101,9 @@ L'incubation de la rougeole dure de 10 à 12 jours et la contagiosité perdure 5
 {{%collapse "Examens complémentaires" %}}
 
 > [!INFO]
-> La PCR rougeole est systématique pour la déclaration obligatoire.
+> La PCR rougeole est systématique pour la signalement obligatoire.
 
-==RT-PCR rougeole== sur prélèvement salivaire ou sanguin systématique pour le diagnostic de certitude et la déclaration obligatoire.
+==RT-PCR rougeole== sur prélèvement salivaire ou sanguin systématique pour le diagnostic de certitude et la signalement obligatoire.
 
 À défaut: sérologie rougeole IgM (dès 3 jours suivant l'éruption cutanée et jusqu'à 2 mois).
 
@@ -137,7 +137,7 @@ La prise en charge de la rougeole est symptomatique:
 - Éviter tout contact avec les sujets non vaccinés
 - Statut vaccinal de l'entourage et des contacts (5 jours précédant et suivant l'exanthème)
 - Antipyrexie: paracétamol
-- Maladie à [déclaration obligatoire]({{< relref "maladies-declaration-obligatoire.md" >}}) immédiate avec confirmation biologique (RT-PCR voire sérologie IgM)
+- Maladie à [signalement obligatoire]({{< relref "maladies-signalement-obligatoire.md" >}}) immédiate avec confirmation biologique (RT-PCR voire sérologie IgM)
 
 ### Prise en charge des sujets contacts de la rougeole
 
