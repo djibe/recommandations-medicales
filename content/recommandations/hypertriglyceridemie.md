@@ -114,7 +114,7 @@ Les **statines** sont le traitement de référence d'une hypertriglycéridémie 
 
 Recommandations pour la prise en charge de l'hypertriglycéridémie:
 
-- Évaluation du risque cardiovasculaire ({{< modal-btn modal-risque-cv >}}prévention secondaire{{< /modal-btn >}}, [prévention primaire]({{% relref "score2.md" %}}))
+- Évaluation du risque cardiovasculaire ({{< modal-btn modal-rcv >}}prévention secondaire{{< /modal-btn >}}, [prévention primaire]({{% relref "score2.md" %}}))
 - **Mesures hygiéno-diététiques pour la réduction des triglycérides:** {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}} ou DASH
   - Perte de poids, réduire l'alcool et les sucres (dont le fructose)
   - Réduire les graisses saturées
@@ -164,7 +164,7 @@ Mots-clé: hypertriglycéridémie, hypertrygli, hypertrygly, hypertrigli
 {{< traitements/statine-intensite >}}
 
 {{% /modal %}}
-{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-risque-cv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

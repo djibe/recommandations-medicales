@@ -38,7 +38,7 @@ HTA: [carnet d'automesure tensionnelle à imprimer](https://www.stridebp.org/wp-
 </article>
 <article class="card card-body border shadow-none">
 
-## Diabète {.typography-overline .mt-4}
+## Diabète {.typography-overline}
 
 - {{< modal-btn modal-hba1c >}}Cibles d'HbA1c{{< /modal-btn >}}
 - {{< modal-btn modal-saos-diabete >}}Dépistage des apnées du sommeil chez le diabétique{{< /modal-btn >}}
@@ -48,7 +48,7 @@ HTA: [carnet d'automesure tensionnelle à imprimer](https://www.stridebp.org/wp-
 </article>
 <article class="card card-body border shadow-none">
 
-## Hépato-gastroentérologie {.typography-overline .mt-4}
+## Hépato-gastroentérologie {.typography-overline}
 
 Fibrose hépatique avec {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}} annuel si: [obésité]({{% relref "obesite-adulte.md" %}}), [diabète de type 2]({{% relref "diabete-type-2.md" %}}), [VIH avec lipodystrophie]({{% relref "vih-sida.md" %}}), cytolyse inexpliquée, stéatose échographique
 

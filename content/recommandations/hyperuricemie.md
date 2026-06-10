@@ -120,7 +120,7 @@ Recommandations pour la prise en charge de l'hyperuricémie:
   - Correction d'un surpoids
   - Activité physique quotidienne
 - Dépister les comorbidités: hypertension, diabète, dyslipidémie
-- Réévaluer régulièrement le risque cardiovasculaire {{< modal-btn modal-risque-cv >}}risque cardiovasculaire{{< /modal-btn >}} ([SCORE2]({{% relref "score2.md" %}}) en prévention primaire)
+- Réévaluer régulièrement le risque cardiovasculaire {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} ([SCORE2]({{% relref "score2.md" %}}) en prévention primaire)
 
 En cas de [goutte]({{% relref "goutte.md" %}}), l'uricémie cible est inférieure à 50 mg/L (*SFR*). L'*ACR* recommande également le traitement en cas de **tophus** (voir le chapitre *goutte*).
 

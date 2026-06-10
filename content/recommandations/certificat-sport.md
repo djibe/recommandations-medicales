@@ -139,7 +139,7 @@ L'inscription à une *compétition* nécessite la présente d'une license sporti
 - Antécédents familiaux  
   Cardiopathie, mort subite.
 - Antécédents personnels
-- Facteurs de risque cardiovasculaire et {{< modal-btn modal-risque-cv >}}risque cardiovasculaire{{< /modal-btn >}}
+- Facteurs de risque cardiovasculaire et {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}}
 - Vaccinations
 - Examen clinique rachis et cardio-vasculaire +++
   - Pression artérielle aux 2 bras, fréquence cardiaque
@@ -173,7 +173,7 @@ Critères de réalisation d'un électrocardiogramme (ECG) 12 dérivations chez l
 
 - Homme +40 ans ou femme ménopausée sédentaire reprenant une {{< modal-btn modal-met >}}activité intense{{< /modal-btn >}}
 - Sportif symptomatique ([angor]({{% relref "syndrome-coronarien-chronique.md" %}}), perte de performances)
-- Sportif à {{< modal-btn modal-risque-cv >}}risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
+- Sportif à {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
 
 > -- *SFC 2022*
 
@@ -246,7 +246,7 @@ graph TB
 - [FFESSM. Recommandations de bonnes pratiques suivi médical du plongeur. 01/04/2021.](https://medical.ffessm.fr/actualites/recommandations-de-bonnes-pratiques-suivi-medical-du-plongeur)
 
 {{%/sources%}}
-{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-risque-cv"%}}
+{{% modal title="Risque cardiovasculaire selon ESC 2025" id="modal-rcv"%}}
 
 {{< clinique/risque-cardiovasculaire >}}
 

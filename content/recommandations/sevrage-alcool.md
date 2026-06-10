@@ -520,7 +520,7 @@ Après essai de réduction spontanée de 15 jours, le nalméfène est le médica
 
 [Nalméfène 18 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/63957761/extrait#tab-rcp-et-notice) (Selincro®) 1 boîte  
 1 cp tous les jours où vous pensez être exposé au risque de boire. À prendre 2 heures avant le moment du risque ou dès le matin.  
-Réévaluation à 7 et 14 jours puis 1/mois au moins 6 mois.
+Réévaluation à 7 et 14 jours puis 1/mois au moins 6 mois. Ne pas associer aux opiacés (syndrome de sevrage).
 {.alert .alert-info}
 
 Autre traitement: titration de baclofène (Baclocur® ou Baclofène Zentiva, max 80 mg/j, remb 15%), 30 mg/j en cas de cirrhose.
@@ -650,6 +650,7 @@ Avec le temps, lorsque le patient évoque d'abord l'importance du changement, de
 
 {{< youtube id="OPs09amiMC0" title="Prise en charge de la maladie du foie liée à l'alcool (AFEF Medical Education)" >}}
 
+- [CBIP. Opioïde + nalméfène: une association à haut risque. Folia Pharmacotherapeutica. 2026.](https://www.cbip.be/fr/articles/4835?folia=4865)
 - [Richelle L. Réticence des médecins à intervenir dans le traitement des addictions. Minerva. 2025.](https://minerva-ebp.be/FR/Analysis/919)
 - [Cohorte CONSTANCES. La moitié de la population française dépasse les repères de consommation d'alcool à moindre risque. 2024.](https://www.constances.fr/actualites/nos-actualites/la-moitie-de-la-population-francaise-depasse-les-reperes-de-consommation-dalcool-a-moindre-risque/)
 - [McPheeters M, et al. Pharmacotherapy for Adults With Alcohol Use Disorder in Outpatient Settings: Systematic Review. Comparative Effectiveness Review No. 262. AHRQ Publication No. 23(24)-EHC011. Rockville, MD: Agency for Healthcare Research and Quality; November 2023.](https://effectivehealthcare.ahrq.gov/products/alcohol-use-disorders/research#field_report_title_1)

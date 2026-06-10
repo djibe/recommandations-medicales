@@ -22,7 +22,7 @@ imageSrc = "Bactéries *Helicobacter pylori* implantés sur la muqueuse gastriqu
 rank = "ok"
 writing = "ok"
 flowchart = true
-todo = "relecture demandée | reco enfant 2022, comment diag quand rosacée, dépistage en AINS long cours Maastricht III"
+todo = "relecture demandée christophe.burucoa@chu-poitiers | reco enfant 2022, comment diag quand rosacée, dépistage en AINS long cours Maastricht III"
 modele = true
 +++
 
@@ -41,7 +41,7 @@ modele = true
   - Syndrome de Lynch/HNPCC
   - Avant chirurgie bariatrique touchant l'estomac
 - La prise en charge recommandée d'une infection à *Helicobacter pylori* est une antibiothérapie guidée par la sensibilité à la clarithromycine (par PCR):
-  - Une souche sensible associe amoxicilline, clarithromycine et un IPP pendant 14 jours
+  - Une souche sensible est traitée par amoxicilline, clarithromycine et un IPP (ésoméprazole/rabéprazole) pendant 14 jours
   - En l'absence de PCR, le traitement probabiliste de première intention est une quadrithérapie au bismuth (Pylera + oméprazole) pendant 10 jours (voir le bouton *Ordonnance*)
 - Le {{< modal-btn modal-test-respi >}}contrôle de l'éradication{{< /modal-btn >}} à 1 mois est systématique avec le test à l'urée marquée
 - Reporter le traitement d'éradication d'*Helicobacter pylori* en cas de grossesse ou d'allaitement
@@ -211,7 +211,7 @@ Indications au test respiratoire à l'urée marquée (^13^C):
 
 Le test respiratoire ([Helikit®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69494455/extrait#tab-rcp), [Infai®](https://base-donnees-publique.medicaments.gouv.fr/medicament/67854641/extrait#tab-rcp-et-notice) ou [Infai® 45 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/66743143/extrait#tab-rcp-et-notice) de 3 à 11 ans) est réalisé à jeun, avant tout traitement ou au moins 4 semaines après la fin des antibiotiques et 2 semaines après l'arrêt des IPP.
 
-> Les anti-H2 ne perturbent pas le test respiratoire. Si le test n'est pas réalisable, utiliser le test fécal (voir plus bas).
+> Les anti-H2 ne perturbent pas le test respiratoire (ex. famotidine). Si le test n'est pas réalisable, utiliser le test fécal (voir plus bas).
 
 ### La sérologie *Helicobacter pylori*
 
@@ -450,7 +450,7 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 
 {{< youtube id="QxQudpqfe08" title="Vidéo d'explications sur les précautions pour la réalisation du test respiratoire" >}}
 
-- [Burucoa C, et al. Prise en charge des infections à Helicobacter pylori en 2026 - Nouvelles recommandations du Groupe d'Études Français des Helicobacter pour les hépato-gastroentérologues. Hépato-Gastro & Oncologie Digestive. 2026.](https://www.jle.com/fr/revues/hpg/e-docs/prise_en_charge_des_infections_a_helicobacter_pylori_en_2026_nouvelles_recommandations_du_groupe_detudes_francais_des_helicobacter_pour_les_hepato_gastroenterologues_355286/article.phtml) (payant)
+- [Burucoa C, Moussata D, Lehours P, et al. Prise en charge des infections à Helicobacter pylori en 2026 - Nouvelles recommandations du Groupe d'Études Français des Helicobacter pour les hépato-gastroentérologues. Hépato-Gastro & Oncologie Digestive. 2026.](https://www.jle.com/fr/revues/hpg/e-docs/prise_en_charge_des_infections_a_helicobacter_pylori_en_2026_nouvelles_recommandations_du_groupe_detudes_francais_des_helicobacter_pour_les_hepato_gastroenterologues_355286/article.phtml) (payant)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Traitement probabiliste de l'infection par Helicobacter pylori chez l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282793/fr/choix-et-durees-d-antibiotherapies-traitement-probabiliste-de-l-infection-par-helicobacter-pylori-chez-l-adulte)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Traitement guidé de l'infection par Helicobacter pylori chez l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282789/fr/choix-et-durees-d-antibiotherapies-traitement-guide-de-l-infection-par-helicobacter-pylori-chez-l-adulte)
 - [SNFGE. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 2023.](https://www.snfge.org/tncd/cancer-lestomac)
