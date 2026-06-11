@@ -267,6 +267,7 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
   - Ferritine
   - PAL
   - Urée
+  - Test IGRA (*HAS 2026*)
 - Si anémie: réticulocytes  
   {{%class%}}Anémie normochrome normocytaire arégénérative au cours de l'IRC.{{%/class%}}
 - **Confirmer une albuminurie** +30 mg/g (3 mg/mmol) sur un échantillon du matin
@@ -505,6 +506,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Actualisation des indications des tests de détection de l'infection tuberculeuse latente par mesure de la production d'interféron gamma (tests IGRA) - Patients immunodéprimés ou avant instauration d’un traitement immunosuppresseur. Évaluation des technologies de santé. 2026.](https://www.has-sante.fr/jcms/p_4015118/fr/actualisation-des-indications-des-tests-de-detection-de-l-infection-tuberculeuse-latente-par-mesure-de-la-production-d-interferon-gamma-tests-igra-patients-immunodeprimes-ou-avant-instauration-d-un-traitement-immunosuppresseur)
 - [Ameli Médecin. Maladie rénale chronique. 06/03/2026.](https://www.ameli.fr/medecin/sante-prevention/pathologies/maladie-renale-chronique)
 - [Mach F, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/article/46/42/4359/8234482)
 - [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale chronique chez l'adulte et chez l'enfant. Item 264. Manuel de néphrologie 11ème édition. 2025.](https://manuel.cuen.fr/accueil-chapitres/)
