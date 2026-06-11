@@ -383,6 +383,10 @@ Les traitements d'intention moindre sont l'atovaquone-proguanil voire la quinine
 - [Centre National de Référence du Paludisme](https://cnr-paludisme.fr)
 - [Institut Pasteur. Recommandations générales - Prévention du paludisme.](https://www.pasteur.fr/fr/centre-medical/vaccination/recommandations-generales#prvention-du-paludisme)
 
+### Bibliographie en attente
+
+- [Touafek F, et al. Diagnostic du paludisme : recommandations françaises ANOFEL/LABAC [Malaria diagnosis: French recommendations ANOFEL/LABAC]. Ann Biol Clin. 2026.](https://www.jle.com/fr/revues/abc/e-docs/diagnostic_du_paludisme_recommandations_francaises_anofel_labac_355945/article.phtml)
+
 {{%/sources%}}
 {{% modal title="Répulsifs pour la PPAV" id="modal-repulsifs" size="lg"%}}
 

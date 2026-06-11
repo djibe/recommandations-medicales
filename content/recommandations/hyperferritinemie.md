@@ -17,6 +17,8 @@ sctid = "390943009"
 icd10 = ["R79.8"]
 image = true
 imageSrc = "Foie hyperdense par surcharge en fer suite à des transfusions répétées chez un patient de 40 ans. Cas de Gerstenmaier J sur Radiopaedia.org, rID-31291"
+writing = "todo"
+rank = "false"
 flowchart = true
 todo = "hémochromatose (obj ferritine < 50 µg/L en conservant Hb +11)"
 +++
@@ -260,6 +262,7 @@ graph TB
 - {{< references/college-endocrino >}}
 - [Brissot P. Conduite à tenir devant une hyperferritinémie. Conseil de pratique. SNFGE et AFEF. 2019. (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/brissot_2019_0_0.pdf)
 - [Brissot P, et al. Pathophysiology and classification of iron overload diseases; update 2018. Transfusion Clinique et Biologique. 2018.](https://doi.org/10.1016/j.tracli.2018.08.006)
+- [Cullis JO, et al; British Society for Haematology. Investigation and management of a raised serum ferritin. Br J Haematol. 2018.](https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.15166)
 - [Lorcerie B, et al. Démarche diagnostique devant une hyperferritinémie. La Revue de Médecine Interne. 2015.](https://www.sciencedirect.com/science/article/pii/S0248866314011114)
 - [Brissot P. Diagnostic d'une hyperferritinémie. 2012. (PDF)](https://www.hemochromatose.org/wp-content/uploads/2012/12/hyperferritinemie.pdf)
 - [Centre de référence des hémochromatoses.](https://centre-reference-fer-rennes.org)
@@ -267,7 +270,6 @@ graph TB
 ### Bibliographie en attente
 
 - [Ruivard M, Lobbes H. Diagnostic et traitement d'une surcharge en fer. La Revue de Médecine Interne. 2023.](https://www.sciencedirect.com/science/article/abs/pii/S024886632300680X) (payant)
-- [Cullis JO, et al; British Society for Haematology. Investigation and management of a raised serum ferritin. Br J Haematol. 2018.](https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.15166)
 
 {{%/sources%}}
 {{% modal title="Le syndrome métabolique" id="modal-metabolique"%}}

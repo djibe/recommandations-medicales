@@ -309,6 +309,10 @@ En cas d'exposition pendant au moins 1 an à un agent cancérigène vésical (ex
 
 Palpation des aires ganglionnaires au moins annuelle.
 
+### Dépistage de la tuberculose
+
+Le **test IGRA** est indiqué chez les personnes vivant avec le VIH (HAS 2026).
+
 {{% /collapse %}}
 {{%collapse "Vaccinations spécifiques au cours du VIH" %}}
 
