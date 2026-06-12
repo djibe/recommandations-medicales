@@ -1,0 +1,26 @@
+<div class="card-body card-util rounded-lg border my-5">
+  <div class="d-block d-lg-flex form-variation-hcg">
+    <div class="form-group floating-label textfield-box form-ripple mr-3" style="min-width: 150px">
+      <label for="hcg-initial">hCG initial (mUI/mL)</label>
+      <input class="form-control" id="hcg-initial" type="number" min="0" max="8000" step="0.1">
+    </div>
+    <div class="form-group floating-label textfield-box form-ripple mr-3" style="min-width: 150px">
+      <label for="hcg-actuel">hCG à 48 heures (mUI/mL)</label>
+      <input class="form-control" id="hcg-actuel" type="number" min="0" max="10000" step="0.1">
+    </div>
+    <div>
+      <label for="variation">Variation</label>
+      <input class="form-control" id="variation" type="text" placeholder="Préciser l'hCG" readonly>
+    </div>
+  </div>
+</div>
+{{ $script := `
+  // Outil de calcul de la variation de hcg by djibe
+  window.addEventListener( 'load', () => {
+    const initial = document.getElementById('hcg-initial')
+    const final = document.getElementById('hcg-actuel')
+    const variation = document.getElementById('variation');
+    [initial, final].forEach(elem => elem.addEventListener('input', () => { calchCGVar() }))
+    const calchCGVar = () => { if (initial.value > 0 && final.value > 0) { variation.value = parseFloat(((final.value - initial.value) / initial.value * 100)).toFixed(1) + ' %' }}
+  })` }}
+<script type="module" async>{{ $script | safeJS }}</script>
