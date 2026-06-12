@@ -116,7 +116,7 @@ Ne pas réaliser d'examens complémentaires en cas de polyglobulie secondaire bi
 ### Bilan de la polyglobulie
 
 - NFS  
-  Recherche une polynucléose neutrophile > 12,5 G/L et thrombocytose (Vaquez ++).
+  Recherche une polynucléose neutrophile > 12,5 G/L et [thrombocytose]({{% relref "thrombocytose.md" %}}) (Vaquez ++).
 - Frottis sanguin
 - Ferritinémie
 - Créatininémie, DFG

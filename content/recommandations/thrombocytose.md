@@ -7,8 +7,8 @@ description = "Recommandations pour le diagnostic et la prise en charge d'une th
 synonyms = ["Hyperplaquettose"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-06-05T16:53:27+02:00"
-publishdate = "2026-06-11"
-lastmod = "2026-06-11"
+publishdate = "2026-06-12"
+lastmod = "2026-06-12"
 specialites = ["biologie", "hématologie"]
 annees = "2021"
 sources = ["Bibliographie"]
@@ -16,23 +16,29 @@ tags = []
 english = ["Thrombocytosis", "essential thrombocythemia"]
 sctid = "6631009"
 icd10 = ["D75.8", "D47.3"]
-draft = true
 image = true
 imageSrc = "Mégacaryocyte avec quelques plaquettes sur une étude de biopsie ostéomédullaire (BOM). Animalculist, CC BY-SA 4.0, via Wikimedia Commons"
 rank = "false"
 writing = "todo"
-todo = "descr > summary > liens > flow > Kanban"
+todo = "liens > flow > Kanban"
 +++
 
 {{%article-summary%}}
 
-TODO: (at the end)
+- La thrombocytose est un taux de plaquettes supérieur à 400.000/mm³, le plus souvent réactionnelle (thrombocytose secondaire) ou liée à un syndrome myéloprolifératif (thrombocytémie essentielle ++)
+- La thrombocytose peut être asymptomatique révélée par des thromboses artérielles ou veineuses, un syndrome hémorragique ou une érythermalgie
+- L'examen clinique recherche rigoureusement une cause évidente ou occulte: chirurgie, accouchement, infection, cancer, inflammation chronique, carence martiale, splénectomie ...
+- Le bilan d'une thrombocytose est réalisé pour des taux dépassant 450.000/mm³ (450 G/L), avec NFS, CRP, frottis sanguin et des bilans adaptés aux anomalies relevées à l'examen
+- La prise en charge d'une thrombocytose dépend de son caractère primaire ou secondaire (enquête étiologique):
+  - Traitement adapté ou surveillance du taux de plaquettes d'une cause évidente (chirurgie, infection, accouchement ...) voire recherche d'un cancer occulte
+  - Recherche de la mutation d'une thrombocytémie essentielle (hyperplaquettose primaire) ou d'un autre syndrome myéloprolifératif avec décision de traitement adaptée
+- En l'absence de thrombocytose réactionnelle ou d'étiologie évidente, adresser le patient en consultation d'hématologie
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 Thrombocytose (ou hyperplaquettose)
-: La thrombocytose est un taux de plaquettes supérieur à 400.000/mm³, le plus souvent réactionnel (thrombocytose secondaire) ou moins souvent par un syndrome myéloprolifératif (thrombocytémie essentielle ++).
+: La thrombocytose est un taux de plaquettes supérieur à 400.000/mm³, le plus souvent réactionnelle (thrombocytose secondaire) ou liée à un syndrome myéloprolifératif (thrombocytémie essentielle ++).
 : Le bilan est réalisé à partir de 450 G/L, associé à un risque thrombotique majeur (lié au taux et aux anomalies des plaquettes) et paradoxalement hémorragique (surtout au-delà de 1500 G/L).
 
 > Chez le nourrisson jusqu'à 6 mois, les plaquettes sont comprises de 150 à 600 G/L.
@@ -117,16 +123,16 @@ La thrombocytose est souvent **asymptomatique** et donc de découverte fortuite.
 
 | Caractère | Thrombocytose clonale | Thrombocytose réactionnelle |
 | --------- | --------------------- | --------------------------- |
-| Maladie systémique sous-jacente | Non | Souvent cliniquement évidente |
-| Ischémie digitale ou cérébrovasculaire | Caractéristique | Non |
-| Thrombose artérielle ou veineuse des gros vaisseaux | Risque accru | Non |
-| Complications hémorragiques | Risque accru | Non |
-| Splénomégalie | Pour 40 % | Non |
-| Frottis sanguin | Plaquettes géantes | Plaquettes normales |
-| Fonction plaquettaire | Peut être anormale | Normale |
-| Mégacaryocytes (biopsie ostéomédullaire) | | |
-| Quantité | Augmentée | Augmentée |
-| Caractéristiques morphologiques | Formes géantes et dysplasiques avec ploïdie accrue;<br>associées à des amas de débris plaquettaires | Normales |
+| **Maladie systémique sous-jacente** | Non | Souvent cliniquement évidente |
+| **Ischémie digitale ou cérébrovasculaire** | Caractéristique | Non |
+| **Thrombose artérielle ou veineuse des gros vaisseaux** | Risque accru | Non |
+| **Complications hémorragiques** | Risque accru | Non |
+| **Splénomégalie** | Pour 40 % | Non |
+| **Frottis sanguin** | Plaquettes géantes | Plaquettes normales |
+| **Fonction plaquettaire** | Peut être anormale | Normale |
+| **Mégacaryocytes** (biopsie ostéomédullaire) | | |
+| **Quantité** | Augmentée | Augmentée |
+| **Caractéristiques morphologiques** | Formes géantes et dysplasiques avec ploïdie accrue;<br>associées à des amas de débris plaquettaires | Normales |
 {caption="Signes différenciant une thrombocytose primaire d'une thrombocytose secondaire" class="table-wrap"}
 
 {{% /collapse %}}
