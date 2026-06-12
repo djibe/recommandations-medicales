@@ -1,6 +1,6 @@
 +++
 id = "0190e8c3-da6d-77cb-abb6-74093e0faf46"
-title = "Helicobacter pylori (HP)"
+title = "Helicobacter pylori"
 prefix = "l'"
 titleSeo = "Helicobacter pylori"
 description = "Dernières recommandations HAS et GEFH 2021 sur le traitement d'Helicobacter pylori pour le médecin généraliste. Traitement antibiotique selon l'antibiogramme"
@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-12-02T15:14:41+02:00"
 publishdate = "2020-12-02"
-lastmod = "2026-04-14"
+lastmod = "2026-06-12"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2026"
 sources = ["GEFH", "HAS", "SPILF"]
@@ -29,8 +29,9 @@ modele = true
 {{%article-summary%}}
 
 - La bactérie *Helicobacter pylori* (*H. pylori*) a un tropisme gastrique et se complique d'une gastrite chronique, d'ulcères gastro-duodénaux et est responsable de 80 % des cancers de l'estomac
-- Le bilan diagnostique dépend de la situation clinique, avec un test respiratoire à l'urée marquée chez le -45 ans asymptomatique ayant un antécédent familial de cancer gastrique au 1er degré (avec EOGD si positif)
-- L'endoscopie œso-gastro-duodénale (EOGD) pour tous les autres cas:
+- Le bilan diagnostique dépend de la situation clinique, avec un test respiratoire à l'urée marquée chez le -45 ans asymptomatique ayant un antécédent familial de cancer gastrique au 1^er^ degré (avec EOGD si positif)
+- L'endoscopie œso-gastro-duodénale (EOGD) pour tous les autres cas:  
+  (en insistant sur le courrier sur la nécessité d'un test de sensibilité à la clarithromycine)
   - ulcère gastrique ou duodénal ou antécédent d'ulcère, dyspepsie
   - IPP ≥ 3 ans ou AINS prolongés
   - antécédent familial de cancer gastrique au 1^er^ degré
@@ -42,7 +43,7 @@ modele = true
   - Avant chirurgie bariatrique touchant l'estomac
 - La prise en charge recommandée d'une infection à *Helicobacter pylori* est une antibiothérapie guidée par la sensibilité à la clarithromycine (par PCR):
   - Une souche sensible est traitée par amoxicilline, clarithromycine et un IPP (ésoméprazole/rabéprazole) pendant 14 jours
-  - En l'absence de PCR, le traitement probabiliste de première intention est une quadrithérapie au bismuth (Pylera + oméprazole) pendant 10 jours (voir le bouton *Ordonnance*)
+  - En l'absence de PCR (situation à éviter), le traitement probabiliste de première intention est une quadrithérapie au bismuth (Pylera + oméprazole) pendant 10 jours (voir le bouton *Ordonnance*)
 - Le {{< modal-btn modal-test-respi >}}contrôle de l'éradication{{< /modal-btn >}} à 1 mois est systématique avec le test à l'urée marquée
 - Reporter le traitement d'éradication d'*Helicobacter pylori* en cas de grossesse ou d'allaitement
 
@@ -168,14 +169,14 @@ La France est un pays de faible incidence d'*Helicobacter pylori*:
 | Métronidazole | 59 |
 | Rifampicine | 1 |
 | Tétracycline | 0 |
-{caption="Taux de résistance d'*Helicobacter pylori* par antibiotique en France."}
+{caption="Taux de résistance d'*Helicobacter pylori* par antibiotique en France"}
 
 {{% /collapse %}}
 {{%collapse "Indications à la recherche de H. pylori" %}}
 
 > L'infection par *Helicobacter pylori* est asymptomatique dans 85 % des cas.
 
-Indications à la recherche de *H. pylori*:
+Indications à la recherche de *Helicobacter pylori*:
 
 - **Indications générales:**
   - Ulcère gastrique ou duodénal ou antécédent d'ulcère
@@ -191,7 +192,7 @@ Indications à la recherche de *H. pylori*:
   - Antécédent de gastrectomie partielle pour cancer (ou traitement endoscopique de lésions cancéreuses gastriques)
   - Antécédent de lésions pré-cancéreuses gastriques
   - Syndrome de Lynch/HNPCC
-  - Avant chirurgie bariatrique touchant l'estomac
+  - Avant un bypass (chirurgie bariatrique)
 
 > -- *GEFH 2026*
 
@@ -219,6 +220,9 @@ La sérologie n'est plus recommandée du fait du manque d'évaluation des nouvea
 
 ### L'endoscopie œso-gastro-duodénale (EOGD)
 
+> [!WARNING]
+> Sur le courrier, insister sur la nécessité du test PCR de sensibilité à la clarithromycine.
+
 La gastroscopie doit être **systématique en cas de symptômes ulcéreux, de dépistage positif ou douteux et pour tous les autres patients à risque** pour analyse anatomopathologique, mise en culture avec recherche d'*H. pylori* et recherche de résistance à la clarithromycine.
 
 Indications à la gastroscopie:
@@ -235,7 +239,7 @@ Indications à la gastroscopie:
 
 > -- *GEFH 2026*
 
-### La recherche d'antigènes de H. pylori dans les selles
+### La recherche d'antigènes de *H. pylori* dans les selles
 
 > << La recherche d'antigènes de *H. pylori* dans les selles n'est recommandée que si le test respiratoire n'est pas disponible ou difficilement praticable (enfants, contexte psychiatrique, etc.). >> -- *GEFH 2026*
 
@@ -252,7 +256,7 @@ Indications à la gastroscopie:
 > [!WARNING]
 > Tout traitement antibiotique doit être suivi d'un {{< modal-btn modal-test-respi >}}contrôle d'éradication{{< /modal-btn >}}.
 
-#### A) Souche sensible à la clarithromycine
+#### Schéma A) Souche sensible à la clarithromycine
 
 Traitement de première intention d'infection à *Helicobacter pylori* avec une fonction rénale normale.
 
@@ -264,11 +268,11 @@ En cas de sensibilité à la clarithromycine, trithérapie pendant **14 jours**:
 - Rabéprazole 20 mg 🌍 (ou ésoméprazole 40 mg) matin et soir pendant le repas
 {{%/info%}}
 
-En cas d'**allergie vraie** à la pénicilline: quadrithérapie avec *bismuth* (voir **B)** ).
+En cas d'**allergie vraie** à la pénicilline: quadrithérapie bismuthée (voir schéma B).
 
-#### B) Résistance à la clarithromycine
+#### Schéma B) Résistance à la clarithromycine
 
-En cas de résistance à la clarithromycine, quadrithérapie avec *bismuth* pendant **10 jours**:
+En cas de résistance à la clarithromycine, quadrithérapie bismuthée pendant **10 jours**:
 
 - [Pylera®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63941426/extrait#tab-rcp): 3 gélules après les repas du matin, du midi, du soir et au coucher, avec un grand verre d'eau
 - Oméprazole 20 mg matin et soir pendant le repas  
@@ -277,7 +281,7 @@ En cas de résistance à la clarithromycine, quadrithérapie avec *bismuth* pend
 > [!WARNING]
 > Arrêt immédiat du bismuth et avis médical en cas de signes neurologiques. Pyléra (sous-citrate de bismuth 140 mg + tétracycline 125 mg + métronidazole 125 mg).
 
-En cas de **contre-indication au bismuth** et de bactérie **sensible à la lévofloxacine**, pendant **14 jours**:
+En cas de **contre-indication au bismuth** et de bactérie **sensible à la lévofloxacine**, traitement pendant **14 jours** (==schéma C==):
 
 - Amoxicilline 50 mg/kg/j (en 3-4 prises/j, max 2 g/prise) pendant le repas
 - Lévofloxacine 500 mg x 2/j pendant le repas
@@ -285,25 +289,28 @@ En cas de **contre-indication au bismuth** et de bactérie **sensible à la lév
 
 Si la résistance à la lévofloxacine est certaine ou inconnue, demander l'[avis du GEFH](https://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/).
 
-En cas de contre-indication à la pénicilline et au Pylera®, demander l'[avis du GEFH](https://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/).
+> En cas de contre-indication à la pénicilline et au bismuth (Pylera®), demander l'[avis du GEFH](https://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/).
 
-### Traitement de deuxième ligne de *H. pylori*
+### Traitement orienté de deuxième ligne de *H. pylori*
 
-- Souche Clari-S:
-  - avec échec de la quadrithérapie: schéma au bismuth (schéma **B)** ) et EOGD si échec
-  - avec échec de la quadrithérapie et contre-indication au bismuth: EOGD (pour sensibilité lévofloxacine)
-  - avec échec du bismuth en première ligne: quadrithérapie (schéma **A)** ) et EOGD si échec
-- Souche Clari-R:
-  - avec échec de la quadrithérapie: schéma au bismuth (schéma **B)** ) et avis du GEFH si échec
-  - avec échec de la quadrithérapie et contre-indication au bismuth: avis du GEFH
-  - avec échec du bismuth en première ligne et Lévo-S: IPP-Amox-Lévo (cf **B)** avec contre-indication)
-  - avec échec du bismuth en première ligne et Lévo-R ou inconnue: avis du GEFH
+En cas d'échec du traitement guidé de première ligne:
+
+- Souche Clarithromycine-Sensible:
+  - après échec de la trithérapie (schéma A): schéma au bismuth (schéma B). Si échec: nouvelle EOGD si échec (avec sensibilité à la lévofloxacine)
+  - après échec de la trithérapie (schéma A) et contre-indication au bismuth: nouvelle EOGD (avec sensibilité à la lévofloxacine)
+  - après échec du bismuth en 1^re^ ligne: trithérapie (schéma A). Si échec: nouvelle EOGD (avec sensibilité à la lévofloxacine)
+- Souche Clarithromycine-Résistante:  
+  Le laboratoire a normalement étudié la sensibilité à la lévofloxacine.
+  - après échec de la trithérapie (schéma A): schéma au bismuth (schéma B). Si échec: [avis du GEFH](https://www.helicobacter.fr/acces-aux-professionnels-de-la-sante/rcp-gefh/)
+  - après échec de la trithérapie (schéma A) et contre-indication au bismuth: avis du GEFH
+  - après échec du bismuth en 1^re^ ligne et souche Lévofloxacine-Sensible: schéma IPP-Amox-Lévo (cf schéma C)
+  - après échec du bismuth en 1^re^ ligne et souche Lévofloxacine-Résistante ou inconnue: avis du GEFH
 
 {{% /collapse %}}
 {{%collapse "Traitement empirique d'infection à Helicobacter pylori" %}}
 
 > [!WARNING]
-> En cas de grossesse ou d'allaitement, il faut différer le traitement d'HP.
+> En cas de grossesse ou d'allaitement, il faut différer le traitement de *H. pylori*.
 
 > << Le traitement empirique doit être réservé à l'impossibilité absolue du traitement guidé. >> -- *GEFH 2026*
 
@@ -318,7 +325,7 @@ Quadrithérapie avec *bismuth* pendant 10 jours:
 Arrêt immédiat du traitement et avis médical en cas de signes neurologiques.
 {.alert .alert-warning}
 
-#### La quadrithérapie avec l'amoxicilline est moins favorable
+#### La quadrithérapie concomitante est moins favorable
 
 Quadrithérapie probabiliste pendant 14 jours:
 
@@ -329,10 +336,10 @@ Quadrithérapie probabiliste pendant 14 jours:
 
 ### Traitement probabiliste de deuxième ligne
 
-Une endoscopie gastrique (EOGD) est nécessaire pour un traitement guidé par l'antibiogramme.
+Une endoscopie gastrique (EOGD) est nécessaire pour prescrire un traitement guidé par l'antibiogramme.
 
 {{% /collapse %}}
-{{%collapse "Traitements de l'éradication de HP" %}}
+{{%collapse "Traitements de l'éradication de H. pylori" %}}
 
 ### Effets indésirables des antibiotiques
 
@@ -377,7 +384,7 @@ La recherche de l'**antigène fécal** d'*H. pylori* est une alternative au test
 
 ### Traitement probabiliste en l'absence de l'antibiogramme de *H. pylori*
 
-{{< mermaid title="Prise en charge probabiliste de l'infection à Helicobacter pylori sans PCR ou antibiogramme. Dr JB Fron d'après GEFH 2026" >}}
+{{< mermaid title="Prise en charge probabiliste de l'infection à Helicobacter pylori sans PCR ou antibiogramme. Situation favorisant l'antibiorésistance. Dr JB Fron d'après GEFH 2026" >}}
 graph TB
   probabiliste["<em>H. pylori</em> prouvé<br>ET antibiogramme manquant"] --> grossesse(Grossesse ou<br>allaitement ?)
     grossesse -- Non --> choix("Traiter")
