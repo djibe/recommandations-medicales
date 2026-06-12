@@ -337,3 +337,37 @@ document.addEventListener( 'DOMContentLoaded', event => {
   })
   })
 </script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const isEditorMode = urlParams.get('editor') === 'true';
+
+    if (isEditorMode) {
+        const parentContainer = document.querySelector('.w-768');
+        if (parentContainer) {
+            let hasUnsavedChanges = false;
+            const textElements = parentContainer.querySelectorAll('h1, h2, h3, h4, h5, h6, p, span, li, a, td, th');
+
+            textElements.forEach(element => {
+                element.setAttribute('contenteditable', 'true');
+
+                // Add an editing outline (optional)
+                element.style.outline = '1px dashed #ccc';
+                element.style.outlineOffset = '2px';
+
+                element.addEventListener('input', () => {
+                    hasUnsavedChanges = true;
+                });
+            });
+
+            // Trigger warning on close/reload if changes were made
+            window.addEventListener('beforeunload', (event) => {
+                if (hasUnsavedChanges) {
+                    event.preventDefault();
+                    event.returnValue = "You have modified the content. Are you sure you want to leave without saving?";
+                }
+            });
+        }
+    }
+});
+</script>
