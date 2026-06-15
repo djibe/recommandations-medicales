@@ -159,7 +159,7 @@ Le diagnostic de syndrome de Guillain-Barré est **clinico-électroneuromyograph
 - Antécédents: neuropathie, diabète
 - Traitements en cours
 - Biothérapies et vaccins à risque
-  Vaccins grippe, Covid par vecteur adénoviral, zona; inhibiteurs de point contrôle immunitaire, anti-TNFa.
+  Vaccins grippe, Covid par vecteur adénoviral, zona; inhibiteurs de point contrôle immunitaire, anti-TNFα.
 - Expositions professionnelles
 - Alcool, drogues, toxiques
 - **Infection récente** ou chirurgie (dans les 6 semaines)

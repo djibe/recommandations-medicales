@@ -216,7 +216,7 @@ Contre-indications temporaires à la vaccination fièvre jaune:
 - Contrôler la date de péremption du vaccin, la chaîne du froid (à l'abri de la lumière, température de 2°C à 8°C)
 - Consigner le lot dans le dossier médical
 - **Changer d'aiguille** après la reconstitution du vaccin
-- Possibilité de réaliser jusqu'à 4 injections en même temps, dont 2 sur le même site (2 IM, 2 SC ou IM + SC) espacées d'au moins 2,5 cm
+- Possibilité de réaliser jusqu'à 4 injections en même temps (voire 10), dont 2 sur le même site (2 IM, 2 SC ou IM + SC) espacées d'au moins 2,5 cm
 - Vaccins vivants: soit injectés en même temps ou espacés d'1 mois entre les 2 injections
 - Désinfection locale et laisser sécher (risque d'inactivation du vaccin)
 - Ne pas purger l'air

@@ -76,7 +76,7 @@ Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 | CCP       | 1re consultation contraception avant 26 ans (à 100%, anonymisable)                            |           47,5 |
 | G         | Consultation contraception annuelle avant 26 ans (à 100 % en EXO3)                            |             30 |
 | APC       | Adressé par son MT pour une compétence explicite avec compte-rendu (ex addictologie, nutrition, sport;ne pas revoir à ± 4 mois -- [fiche OMNIPrat](https://omniprat.org/fiches-pratiques/apc/)) | 60 |
-| G + MHP   | Consultation non urgente non régulée 20h-8h, dimanche ou jour férié                           |         30 + 5 |
+| G + MHP   | Consultation (ou visite ou TLC) non urgente non régulée 20h-8h, dimanche ou jour férié        |         30 + 5 |
 | G + F     | Consultation "urgente" non régulée dimanche et jours fériés                                   |     30 + 19,06 |
 | G + MN    | Consultation "urgente" non régulée 20-24h (appel après 19h) et 6-8h                           |        30 + 35 |
 | G + MM    | Consultation "urgente" non régulée 0-6h                                                       |        30 + 40 |
@@ -126,10 +126,10 @@ Seul l'examen obligatoire des 8 jours et les consultations jusqu'à 12 jours de 
 | --------- | ----------------------------------------------------------------------------------------- | -------------: |
 | VG + MD   | Visite à domicile pour un adulte                                                          |        30 + 10 |
 | IMT + MD  | Visite à domicile pour inscription d'un nouveau patient en ALD                            |        30 + 10 |
-| V1,5 + MD | Visite à domicile pour un adulte avec test antigénique Covid                              |     34,50 + 10 |
 | VG + MU   | Visite nécessitant d'interrompre ses consultations et de quitter immédiatement le cabinet |     30 + 22,60 |
 | VL + MD   | Visite longue, neurodégénératif de +80 ans en ALD (1/trimestre); 1 fois si ALD < 80 ans ou +80 ans sans ALD | 60 + 10 |
 | VSP* + MD | Visite à domicile pour soins palliatifs sans limite de fréquence                          |        60 + 10 |
+| + MVR     | Visite dans les 24h suivant l'appel du SAS                                                |             10 |
 | VG + MHP  | Visite justifiée 20-8h, dimanche et jour férié                                            |         30 + 5 |
 | VG + VRS  | Visite régulée samedi après-midi                                                          |        30 + 30 |
 | VG + VRN  | Visite régulée 20-24h et 6-8h                                                             |        30 + 46 |

@@ -26,7 +26,7 @@ todo = "liens > flow > Kanban"
 {{%article-summary%}}
 
 - La thrombocytose est un taux de plaquettes supérieur à 400.000/mm³, le plus souvent réactionnelle (thrombocytose secondaire) ou liée à un syndrome myéloprolifératif (thrombocytémie essentielle ++)
-- La thrombocytose peut être asymptomatique révélée par des thromboses artérielles ou veineuses, un syndrome hémorragique ou une érythermalgie
+- Elle peut être asymptomatique révélée par des thromboses artérielles ou veineuses, un syndrome hémorragique ou une érythermalgie
 - L'examen clinique recherche rigoureusement une cause évidente ou occulte: chirurgie, accouchement, infection, cancer, inflammation chronique, carence martiale, splénectomie ...
 - Le bilan d'une thrombocytose est réalisé pour des taux dépassant 450.000/mm³ (450 G/L), avec NFS, CRP, frottis sanguin et des bilans adaptés aux anomalies relevées à l'examen
 - La prise en charge d'une thrombocytose dépend de son caractère primaire ou secondaire (enquête étiologique):
