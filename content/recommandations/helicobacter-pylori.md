@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-12-02T15:14:41+02:00"
 publishdate = "2020-12-02"
-lastmod = "2026-06-12"
+lastmod = "2026-06-15"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2026"
 sources = ["GEFH", "HAS", "SPILF"]
@@ -43,7 +43,7 @@ modele = true
   - Avant chirurgie bariatrique touchant l'estomac
 - La prise en charge recommandée d'une infection à *Helicobacter pylori* est une antibiothérapie guidée par la sensibilité à la clarithromycine (par PCR):
   - Une souche sensible est traitée par amoxicilline, clarithromycine et un IPP (ésoméprazole/rabéprazole) pendant 14 jours
-  - En l'absence de PCR (situation à éviter), le traitement probabiliste de première intention est une quadrithérapie au bismuth (Pylera + oméprazole) pendant 10 jours (voir le bouton *Ordonnance*)
+  - En l'absence de PCR et d'impossibilité absolue d'EOGD avec PCR, le traitement probabiliste de première intention est une quadrithérapie au bismuth (Pylera + oméprazole) pendant 10 jours (voir le bouton *Ordonnance*)
 - Le {{< modal-btn modal-test-respi >}}contrôle de l'éradication{{< /modal-btn >}} à 1 mois est systématique avec le test à l'urée marquée
 - Reporter le traitement d'éradication d'*Helicobacter pylori* en cas de grossesse ou d'allaitement
 
@@ -210,7 +210,7 @@ Indications au test respiratoire à l'urée marquée (^13^C):
   EOGD en cas de test positif.
 - Contrôle systématique de l'éradication après antibiothérapie pour *Helicobacter pylori*
 
-Le test respiratoire ([Helikit®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69494455/extrait#tab-rcp), [Infai®](https://base-donnees-publique.medicaments.gouv.fr/medicament/67854641/extrait#tab-rcp-et-notice) ou [Infai® 45 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/66743143/extrait#tab-rcp-et-notice) de 3 à 11 ans) est réalisé à jeun, avant tout traitement ou au moins 4 semaines après la fin des antibiotiques et 2 semaines après l'arrêt des IPP.
+Le test respiratoire ([Helikit®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69494455/extrait#tab-rcp), [Infai®](https://base-donnees-publique.medicaments.gouv.fr/medicament/67854641/extrait#tab-rcp-et-notice) ou [Infai® 45 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/66743143/extrait#tab-rcp-et-notice) de 3 à 11 ans) est réalisé à jeun, avant tout traitement ou 8 semaines (≥ 4 semaines) après la fin des antibiotiques et ≥ 2 semaines après l'arrêt des IPP.
 
 > Les anti-H2 ne perturbent pas le test respiratoire (ex. famotidine). Si le test n'est pas réalisable, utiliser le test fécal (voir plus bas).
 
@@ -310,9 +310,7 @@ En cas d'échec du traitement guidé de première ligne:
 {{%collapse "Traitement empirique d'infection à Helicobacter pylori" %}}
 
 > [!WARNING]
-> En cas de grossesse ou d'allaitement, il faut différer le traitement de *H. pylori*.
-
-> << Le traitement empirique doit être réservé à l'impossibilité absolue du traitement guidé. >> -- *GEFH 2026*
+> << Le traitement empirique doit être réservé à l'impossibilité absolue du traitement guidé. >> (*GEFH 2026*). En cas de grossesse ou d'allaitement, il faut différer le traitement de *H. pylori*.
 
 ### Traitement empirique de première intention
 
@@ -387,13 +385,9 @@ La recherche de l'**antigène fécal** d'*H. pylori* est une alternative au test
 {{< mermaid title="Prise en charge probabiliste de l'infection à Helicobacter pylori sans PCR ou antibiogramme. Situation favorisant l'antibiorésistance. Dr JB Fron d'après GEFH 2026" >}}
 graph TB
   probabiliste["<em>H. pylori</em> prouvé<br>ET antibiogramme manquant"] --> grossesse(Grossesse ou<br>allaitement ?)
-    grossesse -- Non --> choix("Traiter")
-      choix ==> bismuth("<b>Quadrithérapie<br>bismuthée 10j</b>")
-      concomitant --> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>et ≥ 2 semaines sans IPP")
-      choix -- "Si allergie pénicilline" --> concomitant("<b>Concomitant 14j</b><br>IPP + amoxicilline<br>+ clarithromycine<br>+ métronidazole")
-        bismuth --> controle
-          controle -- Négatif --> ok(Bactérie éradiquée)
-          controle -- Positif ---> EOGD(EOGD pour<br>traitement guidé)
+    grossesse -- Non --> bismuth("<b>Quadrithérapie<br>bismuthée 10 j</b>") --> contrôle("<b>Test respiratoire</b><br>8 semaines après la<br>fin du ttt<br>(min 4)<br>et ≥ 2 semaines sans IPP")
+      contrôle -- Négatif --> ok(Bactérie éradiquée)
+      contrôle -- Positif ---> EOGD(EOGD pour<br>traitement guidé)
     grossesse -- Oui --> reporter("Reporter le<br>traitement")
   style probabiliste stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
@@ -412,7 +406,7 @@ graph TB
     gastro -- H. pylori + ---> grossesse("Grossesse ou<br>allaitement ?")
       grossesse == Non ===> antibiogramme("<b>PCR</b><br>Sensible clarithromycine?")
         antibiogramme == Sensible ==> triAmox("<b>Trithérapie 14j</b><br>IPP + amoxicilline<br>+ clarithromycine")
-          triAmox ===> controle("<b>Test respiratoire</b><br>4 semaines après la fin du ttt<br>et ≥ 2 semaines sans IPP<br>Anti-H2 possible")
+          triAmox ===> controle("<b>Test respiratoire</b><br>8 semaines après la fin du ttt<br>(min ≥ 4)<br>et ≥ 2 semaines sans IPP<br>Anti-H2 possible")
         antibiogramme -- Résistant --> bismuthCI("Bismuth CI ?")
           bismuthCI -- Oui --> levofloS(Lévoflo-S ?) -- Oui --> levoflo("<b>Trithérapie 14j</b><br>IPP + amoxicilline<br>+ lévofloxacine") --> controle
             levofloS -- "Non<br>(Lévo-R ou<br>inconnue)" --> RCP(Avis du GEFH)
@@ -445,7 +439,7 @@ S'assurer de la bonne compréhension de chaque étape pour favoriser la particip
 - Nécessité de prendre intégralement le traitement pour éradiquer la bactérie.
 - Contrôle systématique de la guérison avec le test à l'urée compte-tenu des résistances aux antibiotiques en France (1 cas sur 5).
 - Le test de guérison à l'urée marquée
-  - Au moins 4 semaines après la fin des antibiotiques et 2 semaines après l'arrêt des IPP.
+  - 8 semaines (≥ 4) après la fin des antibiotiques et ≥ 2 semaines après l'arrêt des IPP.
   - Achat du test en pharmacie (remboursé)
   - Réalisation du test à jeun au laboratoire d'analyses médicales
 - Dépistage de la famille proche en cas de lésion cancéreuse ou pré-cancéreuse de l'estomac.
