@@ -5,14 +5,14 @@ description = "Aide à la cotation des consultations en médecine générale: co
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2026-01-05"
+lastmod = "2026-06-16"
 annees = "2026"
 sources = ["Assurance Maladie"]
 tags = []
 image = true
 imageSrc = "unDraw"
 style = "thead > tr > th:first-of-type {width: 110px}"
-todo = "GL1, GL2, GL3, F, MN et MM | MCU, GL, CTE, FS exemple frottis, jour férié, routexl, MPH aussi quand change de MT ?, https://www.fmfpro.org/nomenclature/tarifs-medecins-generalistes-metropole/"
+todo = "GL1, GL2, GL3 | FS exemple frottis, jour férié, routexl, MPH aussi quand change de MT ?"
 +++
 
 Liste des codes pour les actes et les consultations des adultes et des enfants en médecine générale.
@@ -68,12 +68,13 @@ Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 | --------- | --------------------------------------------------------------------------------------------- | -------------: |
 | G         | Consultation                                                                                  |             30 |
 | TCG       | Téléconsultation                                                                              |             25 |
-| RDV       | Consultation du [bilan de prévention]({{% relref "bilan-prevention.md" %}}) (TP AMO)          |             30 |
-| COB       | Consultation de l'enfant à 6, 8-9, 11-13 et 15-16 ans (à 100%)                                |             30 |
+| RDV       | Consultation du [bilan de prévention]({{% relref "bilan-prevention.md" %}}) (à 100 %)         |             30 |
+| COB       | Consultation de l'enfant à 6, 8-9, 11-13 et 15-16 ans (à 100 %)                               |             30 |
 | RQD       | Demande de téléexpertise (FSE Sesam sans vitale dédiée en TP AMO)                             |             10 |
 | MPH       | Premier remplissage du dossier MDPH ou APA de la personne avec handicap                       |             60 |
-| IMT       | Déclaration MT d'un patient en ALD 30 (à 100%), cocher Nouveau médecin traitant sur la FS     |             60 |
-| CCP       | 1re consultation contraception avant 26 ans (à 100%, anonymisable)                            |           47,5 |
+| IMT       | Déclaration MT d'un patient en ALD 30 (à 100 %). Cocher Nouveau médecin traitant sur la FS    |             60 |
+| CCP       | 1^re^ consultation contraception avant 26 ans (à 100 %, anonymisable)                         |           47,5 |
+| CTE       | Consultation repérage trouble neurodéveloppement ou de la relation précoce parents-enfants    |             60 |
 | G         | Consultation contraception annuelle avant 26 ans (à 100 % en EXO3)                            |             30 |
 | APC       | Adressé par son MT pour une compétence explicite avec compte-rendu (ex addictologie, nutrition, sport;ne pas revoir à ± 4 mois -- [fiche OMNIPrat](https://omniprat.org/fiches-pratiques/apc/)) | 60 |
 | G + MHP   | Consultation (ou visite ou TLC) non urgente non régulée 20h-8h, dimanche ou jour férié        |         30 + 5 |
@@ -81,7 +82,7 @@ Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 | G + MN    | Consultation "urgente" non régulée 20-24h (appel après 19h) et 6-8h                           |        30 + 35 |
 | G + MM    | Consultation "urgente" non régulée 0-6h                                                       |        30 + 40 |
 | G + CRN   | Consultation régulée 20-24h et 6-8h                                                           |      30 + 42,5 |
-| G + CRM   | Consultation régulée 0-6h                                                                     |      30 + 59,5 |
+| G + CRM   | Consultation régulée 0-6h                                                                     |      30 + 51,5 |
 | G + CRD   | Consultation régulée dimanche et jours fériés                                                 |      30 + 26,5 |
 {class="table-wrap" caption="Cotations du médecin généraliste pour la consultation de l'adulte et de l'enfant de plus de 6 ans"}
 
