@@ -7,6 +7,7 @@ description = "Dernières recommandations HAS et GEFH 2021 sur le traitement d'H
 longHtml = true
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
+relecteur = "Dr F. HELUWAERT (GEFH)"
 date = "2020-12-02T15:14:41+02:00"
 publishdate = "2020-12-02"
 lastmod = "2026-06-15"
