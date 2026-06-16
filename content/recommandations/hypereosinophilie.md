@@ -97,7 +97,7 @@ Orientation étiologique devant une hyperéosinophilie:
   - Helminthes sans migration tissulaire  
     HE < 1 G/L: **[oxyure]({{% relref "oxyurose.md" %}})**, **[tænia]({{% relref "tenia.md" %}})**
   - Helminthoses tropicales  
-    Strongyloïdose, filariose lymphatique ou loase, onchocercose, bilharziose, gnathostomose.
+    Strongyloïdose, filariose lymphatique ou loase, onchocercose, [bilharziose]({{% relref "schistosomiase-bilharziose.md" %}}), gnathostomose.
   - **[Gale]({{% relref "gale.md" %}})**
 - Infections non parasitaires  
   Bactériémie, brucellose, scarlatine, mycose profonde, [syphilis secondaire]({{% relref "syphilis.md" %}}), [mononucléose infectieuse]({{% relref "mononucleose-infectieuse.md" %}}), [VIH]({{% relref "vih-sida.md" %}}), [hépatite C]({{% relref "hepatite-c.md" %}}), [endocardite]({{% relref "endocardite.md" %}}), mycobactéries ...

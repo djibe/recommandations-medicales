@@ -102,7 +102,7 @@ Causes urologiques à éliminer en priorité: tumeur des voies urinaires, infect
   - Tumeurs bénignes du rein
   - Tumeurs de la voie excrétrice supérieure
   - [Tuberculose]({{% relref "tuberculose.md" %}})
-  - Bilharziose
+  - [Bilharziose]({{% relref "schistosomiase-bilharziose.md" %}})
   - Malformation vasculaire
 - Cause d'élimination: exercice physique important
 

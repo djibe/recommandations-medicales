@@ -77,7 +77,7 @@ Causes d'hypertension artérielle pulmonaire (HTAP):
 - Héréditaire
 - **Congénitale**
 - Secondaire à une pathologie générale  
-  Connectivite (sclérodermie), cirrhose et hypertension portale, [infection VIH]({{% relref "vih-sida.md" %}}), bilharziose...
+  Connectivite (sclérodermie), cirrhose et hypertension portale, [infection VIH]({{% relref "vih-sida.md" %}}), [bilharziose]({{% relref "schistosomiase-bilharziose.md" %}}) ...
 - Secondaire à une maladie respiratoire (**[BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}})** +++)
 - Secondaire à une cardiopathie gauche
 - Secondaire à une maladie thromboembolique chronique

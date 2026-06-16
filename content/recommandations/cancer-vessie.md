@@ -41,7 +41,7 @@ Cancer de la vessie
   Peintures, métal, pétrole, charbon.
 - Antécédents familiaux
 - Iatrogénie: cyclophosphamide, radiothérapie pelvienne
-- Bilharziose urinaire
+- [Bilharziose urinaire]({{% relref "schistosomiase-bilharziose.md" %}})
 - Vessie neurologique
 - Tumeur de l'uretère ou du bassinet
 

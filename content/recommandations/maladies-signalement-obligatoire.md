@@ -55,7 +55,7 @@ Maladies faisant l'objet d'un signalement obligatoire anonyme:
 - [Rougeole]({{% relref "rougeole.md" %}})
 - Rubéole
 - [Saturnisme]({{% relref "saturnisme.md" %}}) chez l'enfant mineur
-- Schistosomiase (bilharziose) urogénitale autochtone
+- [Schistosomiase]({{% relref "schistosomiase-bilharziose.md" %}}) (bilharziose) urogénitale autochtone
 - Suspicion de maladie de Creutzfeldt-Jakob et autres encéphalopathies subaiguës spongiformes transmissibles humaines
 - Tétanos
 - TIAC

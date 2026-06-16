@@ -185,7 +185,7 @@ Zones à haut risque de rage: Asie, Afrique entière, Amérique du Sud ([carte O
 - Dormir sous des moustiquaires imprégnées d'insecticide (bordée sur le lit ou touchant le sol, sans déchirure, maintenue en place le jour)  
   En zone fortement impaludée: ne pas sortir la nuit sans protection anti-moustiques.
 - Bivouac: vêtements et chaussures dans un sac ou bidon étanche bien fermé
-- Éviter les baignades en eau douce et la marche pieds nus (leptospirose, bilharziose)  
+- Éviter les baignades en eau douce et la marche pieds nus (leptospirose, [bilharziose]({{% relref "schistosomiase-bilharziose.md" %}}))  
   Douche prolongée et essuyage énergique pour éviter la dermatite du baigneur (dite cercarienne).
 - Punaises de lit
   - Inspecter la chambre à l'arrivée (sous les draps, housse de matelas, sommier, plinthes). Changer de lieu si des punaises sont observées.
