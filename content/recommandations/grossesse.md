@@ -250,7 +250,7 @@ Pour toutes les femmes à la 1^re^ grossesse (sauf carte de groupe): double dét
 
 {{%info%}}
 
-- Information sur l'immunisation anti-rhésus D: dépistage, suivi (RAI au 1^er^ trimestre, 6e, 8e et 9e mois), prévention
+- Information sur l'immunisation anti-rhésus D: dépistage, suivi (RAI au 1^er^ trimestre, 6^e^, 8^e^ et 9^e^ mois), prévention
 - Avant 12 SA avec géniteur rhésus 1 (rhésus D) positif ou inconnu: **pas d'immunoglobulines anti-D** en cas d'IVG, de grossesse arrêtée, de fausse couche ou de métrorragies sur grossesse évolutive
 
 > -- *CNGOF 2024*

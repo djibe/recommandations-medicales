@@ -533,6 +533,8 @@ a[data-toggle="modal"]:not(.no-icon)::after {
   color: var(--article);
 }
 
+pre { user-select: text;}
+
 .site-title {
   h1 {
     letter-spacing: 1px;

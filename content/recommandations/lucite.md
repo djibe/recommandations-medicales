@@ -18,7 +18,7 @@ sctid = "238525001"
 icd10 = ["L56.4"]
 image = true
 imageSrc = "Lucie estivale bénigne du décolleté. DermNetNZ, CC BY 4.0, via Wikimedia Commons"
-rank = "false"
+rank = "ok"
 writing = "ok"
 todo = "flow"
 +++

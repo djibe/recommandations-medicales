@@ -9,7 +9,7 @@ auteurs = ["Jean-Baptiste FRON"]
 date = "2023-04-18T15:03:34+02:00"
 publishdate = "2023-04-21"
 lastmod = "2026-06-05"
-specialites = ["cardiologie"]
+specialites = ["cardiologie", "endocrinologie"]
 annees = "2025"
 sources = ["PNDS", "ESC", "EAS"]
 tags = ["risque cardiovasculaire"]
@@ -20,7 +20,7 @@ image = true
 imageSrc = "Xanthélasma de la paupière supérieure au cours d'une hypercholestérolémie familiale. Bobtheowl2, CC BY-SA 3.0, via Wikimedia Commons"
 rank = "ok"
 writing = "ok"
-todo = "demander relecture"
+todo = "relecture demandée philippe.moulin@chu-lyon"
 flowchart = true
 +++
 

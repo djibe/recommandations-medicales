@@ -20,7 +20,7 @@ image = true
 imageSrc = "Illustration des apports en calcium. macrovector / Freepik"
 rank = "ok"
 writing = "ok"
-todo = "IRC, laits différents animaux"
+todo = "IRC, fromages pas gras"
 +++
 
 {{%article-summary%}}

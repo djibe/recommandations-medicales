@@ -272,16 +272,16 @@ Afin d'éviter tout risque d'épidémie, nous vous demandons de bien vouloir con
 2. Mise en quarantaine de 5 jours  
   Dans des sacs, puis lavage machine 30°C, séchage machine haute température puis repassage au fer chaud.  
   8 jours si gale profuse.
-3. Ascaricide  
-  Ascaricide actif sur le sarcopte de la gale (type Enviroscab® spray ou autre en pharmacie/supermarché. Aucun n'est remboursé).  
+3. Acaricide  
+  Acaricide actif sur le sarcopte de la gale (type Enviroscab® spray ou autre en pharmacie/supermarché. Aucun n'est remboursé).  
   Pulvériser sur toute la surface du vêtement, à l'endroit et à l'envers, en insistant sur les coutures et plis, puis laisser agir dans des sacs fermés hermétiquement. Laisser agir le produit 3 heures. Enfin ressortir le linge pour un lavage machine à 30°C (ou laisser aérer 2 heures).  
   Si application sur literie, laisser reposer 12h.  
-  **NB.** Ne peut être manipulé par asthmatique/problème respiratoire (idem pour Spregal®).  
-  Tous les sprays ascaricides doivent être utilisés dans des pièces aérées (fenêtres ouvertes), quitter la pièce pendant 3 heures.
+  **NB.** Ne peut être manipulé par asthmatique/problème respiratoire.
+  Tous les sprays acaricides doivent être utilisés dans des pièces aérées (fenêtres ouvertes), quitter la pièce pendant 3 heures.
 
-### Fiche d'exemple d'une éradication de la gale par JB Fron
+### Fiche d'exemple d'une éradication de la gale
 
-#### Jour 0
+#### Jour 1
 
 **Le traitement doit être fait pour toute la famille en même temps.**
 
@@ -297,7 +297,7 @@ Afin d'éviter tout risque d'épidémie, nous vous demandons de bien vouloir con
 6. Prenez une douche, séchez vous avec une serviette propre, puis ne touchez plus la serviette, il faudra la laver à 60°C.
 7. Étalez le tube entier sur tout le corps sauf le visage (Topiscab)
     - Ne pas oublier: derrière les oreilles, la nuque, insistez sur les plis/aisselles et les organes, génitaux
-    - Attendez un peu que le produit sèche (si Spregal: ré-appliquez une 2e couche 15 minutes après).
+    - Attendez un peu que le produit sèche
 8. Enfilez un t-shirt à manches longues, pantalon, chaussettes propres, ne rien toucher !
 9. 22 heures: avalez le nombre de comprimés de Stromectol prescrit.
 10. Couchez vous dans les draps propres
@@ -309,7 +309,7 @@ Afin d'éviter tout risque d'épidémie, nous vous demandons de bien vouloir con
 1. prenez une douche, séchez-vous avec une serviette propre, vos vêtements de la nuit doivent être exclus 4 jours, lavez la serviette à 60°C.
 2. Mettre des vêtements propres, ou non touchés plus de 4 jours avant.
 3. Mettre des gants jetables: Retirez les draps et lavez les à 60°C  
-Ouvrez la fenêtre et aspergez la literie et les oreillers, la couette, les canapés, les tapis d' ascaricide de façon systématique.  
+Ouvrez la fenêtre et aspergez la literie et les oreillers, la couette, les canapés, les tapis d'acaricide de façon systématique.  
 Changez intégralement de vêtements tous les jours.  
 
 #### Jour 5
