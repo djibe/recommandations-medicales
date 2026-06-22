@@ -385,6 +385,7 @@ Les traitements d'intention moindre sont l'atovaquone-proguanil voire la quinine
 
 ### Bibliographie en attente
 
+- [OMS. Prise en charge des cas de paludisme à Plasmodium vivax : un guide de terrain. 2026.](https://iris.who.int/items/050e295f-9b4b-45a9-a8a7-e9910a80c69a)
 - [Touafek F, et al. Diagnostic du paludisme : recommandations françaises ANOFEL/LABAC [Malaria diagnosis: French recommendations ANOFEL/LABAC]. Ann Biol Clin. 2026.](https://www.jle.com/fr/revues/abc/e-docs/diagnostic_du_paludisme_recommandations_francaises_anofel_labac_355945/article.phtml)
 
 {{%/sources%}}

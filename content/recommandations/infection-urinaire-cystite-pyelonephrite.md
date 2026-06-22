@@ -149,7 +149,7 @@ Une BU peut être réalisée en pharmacie avec orientation vers le médecin en c
 
 ECBU en cas de {{< modal-btn modal-fdr-complication >}}facteur de risque de complication{{< /modal-btn >}} et antibiothérapie différée autant que possible.
 
-Antibiothérapie probabiliste uniquement en cas de symptômes marqués (*Info-antibio N°107*):
+Antibiothérapie probabiliste uniquement en cas de symptômes marqués (*SPILF Info-antibio 107*, remaniant *HAS 2024*):
 
 1. Fosfomycine trométamol 3g à J1, J3 et J5
 2. Triméthoprime/sulfaméthoxazole 80/400 mg ([Bactrim](https://base-donnees-publique.medicaments.gouv.fr/medicament/65181349/extrait#tab-rcp)) x 2/j pendant 5 jours

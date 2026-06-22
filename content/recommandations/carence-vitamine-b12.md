@@ -7,7 +7,7 @@ synonyms = ["Cobalamine", "cyanocobalamine"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-04-25T15:05:25+02:00"
 publishdate = "2025-05-09"
-lastmod = "2025-05-09"
+lastmod = "2026-06-22"
 specialites = ["endocrinologie"]
 annees = "2024"
 sources = ["NICE"]
@@ -18,7 +18,7 @@ icd10 = ["E53.8"]
 image = true
 imagePNG = true
 imageSrc = "Structure de la vitamine B12 (cobalamine ou cyanocobalamine). NEUROtiker, Public domain, via Wikimedia Commons"
-todo = "summary > liens | vegan 10 µg/j ou 2000 µg/sem "
+todo = "liens | vegan 10 µg/j ou 2000 µg/sem "
 flowchart = true
 +++
 
@@ -169,15 +169,16 @@ La prise en charge de la carence en vitamine B12 comprend un traitement:
 - Oral en cas de carence d'apports:  
   [vitamine B12 250 µg cp](https://base-donnees-publique.medicaments.gouv.fr/medicament/61247741/extrait#tab-rcp) (NR) 1 cp/j pendant 15 à 30 jours, puis 1 cp tous les 10 jours au long cours.
 - ==Intramusculaire en cas de défaut d'absorption== (Biermer, gastrectomie ou résection iléale complète):
-  - [Vitamine B12 1000 µg](https://base-donnees-publique.medicaments.gouv.fr/medicament/65647512/extrait#tab-rcp) 1 ampoule/j IM (ou 3/semaine) pour 10 ampoules, puis 1 ampoule/mois (1 mg/mois).
-  - En cas de gastrite ou de cause médicamenteuse, en entretien, le traitement peut être oral entre 1 à 2 mg/j
+  - [Vitamine B12 1000 µg](https://base-donnees-publique.medicaments.gouv.fr/medicament/65647512/extrait#tab-rcp) 1 ampoule/j IM (ou 3/semaine) pour 10 ampoules, puis 1 ampoule/mois (1 mg/mois -- *RCP*).
+  - En cas de gastrite ou de cause médicamenteuse, en entretien, le traitement peut être oral entre 1 à 2 mg/j (*Jaren et al 2026*)
 - **Réévaluation**
   - Dans les 3 mois (1 mois si grossesse/allaitement): signes, symptômes et doses réellement prises. Si aggravation ou nouveau symptômes sous traitement: considérer un dosage de l'homocystéine ou de la MMA si non fait, réévaluer un diagnostic différentiel et/ou augmenter les doses.
   - Occasionnelle pour vérifier l'absence de récidive
 
 ==**Poursuivre la supplémentation à vie**== sauf si la cause est résolue (ex. carence d'apports).
 
-En cas de grossesse ou allaitement: maintenir des apports quotidiens ≥ 1 mg.
+> [!INFO]
+> En cas de grossesse ou allaitement: maintenir des apports quotidiens d'au moins 1 mg.
 
 **Considérer le traitement intramusculaire** si: malabsorption, symptômes sévères (anémie, ataxie), difficultés d'observance ou échec par voie orale.
 
@@ -195,8 +196,8 @@ graph TB
   symptômes["<b>Signes ou symptômes<br>de carence en B12</b><br>—<br>- Anémie, macrocytose<br>- Trouble neurologiques<br>- Trouble psychiatrique<br>- Glossite<br>- Fatigue inexpliquée"] --> dosage
     dosage -- "&lt; 180 ng/mL<br>(133 pmol/L)" --> diagnostic["Carence en<br>vitamine B12"] -- FDR --> essai("- Correction FDR<br>- Supplémentation") -. Échec .-> gastro("Facteur intrinsèque et<br>avis gastro-entérologique")
       diagnostic -- "0 FDR" --> gastro
-    dosage -- "180-350" --> indetermine("Carence possible:<br>considérer dosage<br>homocystéine + B9<br>selon symptômes")
-    dosage -- "&gt; 350 ng/mL<br>(258 pmol/L)" --> différentiel("Carence<br>peu probable<br>—<br>Rechercher une<br>autre étiologie") -. "Persistance symptômes<br>à 3-6 mois" .-> controle(Contrôle)
+    dosage -- "180-350" --> indéterminé("Carence possible:<br>considérer dosage<br>homocystéine + B9<br>selon symptômes")
+    dosage -- "&gt; 350 ng/mL<br>(258 pmol/L)" --> différentiel("Carence<br>peu probable<br>—<br>Rechercher une<br>autre étiologie") -. "Persistance symptômes<br>à 3-6 mois" .-> contrôle(Contrôle)
   style diagnostic stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
@@ -205,10 +206,10 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Jaren L, et al. Carence en vitamine B12 schémas d'administration et formes disponibles. Pharmacie Interhospitalière de la Côte. 2026. (PDF)](https://pharmpic.ch/files/user/Documents/Points-therapeutiques/Vitamines-nutrition/Vitamine-B12.pdf)
 - [Anses. Avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail relatif à l'établissement de repères alimentaires destinés aux personnes suivant un régime d'exclusion de tout ou partie des aliments d'origine animale. 2025.](https://www.anses.fr/fr/content/regimes-vegetariens-effets-sur-la-sante-et-reperes-alimentaires)
 - [NICE. Vitamin B12 deficiency in over 16s: diagnosis and management. NICE guideline. 2024.](https://www.nice.org.uk/guidance/ng239)
 - [ANSM. Vitamine B12 injectable et buvable : préférez les comprimés aux ampoules pour l'usage par voie orale. 21/11/2024.](https://ansm.sante.fr/actualites/vitamine-b12-injectable-et-buvable-preferez-les-comprimes-aux-ampoules-pour-lusage-par-voie-orale)
-- [Masconi M. Carence en vitamine B12 schémas d'administration et formes disponibles. 2023. (PDF)](https://pharmpic.ch/files/user/Documents/Points-therapeutiques/Vitamines-nutrition/Vitamine-B12.pdf)
 - [Mazouri S, et al. Déficit en vitamine B12. HUG. 2017. (PDF)](https://www.hug.ch/sites/interhug/files/structures/medecine_de_premier_recours/Strategies/strategie_vit_b12.pdf)
 - [Chevalier P. Vitamine B12 par voie orale plutôt qu'intramusculaire ?. Minerva. 2007.](http://minerva-ebp.be/FR/Article/657)
 
