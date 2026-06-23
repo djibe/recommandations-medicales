@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T23:51:41+02:00"
 publishdate = "2020-09-29"
-lastmod = "2026-04-15"
+lastmod = "2026-06-23"
 specialites = ["hématologie", "infectiologie"]
-annees = "2025"
+annees = "2026"
 sources = ["MinSanté", "BSH", "HCSP"]
 tags = ["vaccin", "voyage"]
 english = ["Asplenia"]
@@ -145,10 +145,10 @@ Vaccins à réaliser avant voire après une splénectomie.
 | dTcaPolio       | Calendrier vaccinal          | Boostrix®/Repevax® tous les 10 ans |
 | Grippe          | 1 dose                       | Annuel           |
 | *H. influenzae* | ACT-HIB® dose unique (hors AMM) |               |
-| Méningocoque ACWY | Menquadfi®, Menveo® (sans aiguille) ou Nimenrix® à M0 et M6 | Tous les 5 ans |
-| Méningocoque B  | Bexsero®, Trumenba® à M0 et M2 | Tous les 5 ans |
-| {{< modal-btn modal-pneumocoque >}}Pneumocoque{{< /modal-btn >}} | Ancien schéma Prevenar13® et Pneumovax® | Capvaxive® ou<br>Prevenar 20® à 5 ans |
-{caption="Synthèse des vaccins à administrer en cas d'asplénie selon *Vaccination Info Service 2024*. Contrôler l'âge sur les RCP" class="table-wrap"}
+| Méningocoque ACWY | Menquadfi®, Menveo® (sans aiguille) ou Nimenrix® | Tous les 5 ans |
+| Méningocoque B  | Bexsero®, Trumenba® (2 doses) | Tous les 5 ans |
+| Pneumocoque | [Schéma selon l'âge](/images/photos/asplenie-pneumocoque.avif) | Capvaxive® ou<br> Prevenar 20® à 5 ans.<br> Enfants: [selon l'âge et schéma antérieur](/images/photos/asplenie-pneumocoque.avif) |
+{caption="Vaccinations recommandées chez l'asplénique selon le *Calendrier vaccinal*. Contrôler l'âge sur les RCP" class="table-wrap"}
 
 > << L'asplénie en elle même ne contre indique pas l'utilisation des vaccins vivants. >> -- *CEREDIH*
 
@@ -162,12 +162,6 @@ Vaccins à réaliser avant voire après une splénectomie.
 ### Vaccination du patient splénectomisé
 
 Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}}).
-
-#### Pneumocoque
-
-- Prevenar 20® ou Capvaxive® 1 dose
-- Enfant 2 à 5 ans non vaccinés: Prevenar 13® M0-M2 et Pneumovax® M4
-- Enfant < 2 ans: schéma nourrisson et rappel Pneumovax® après ses 2 ans
 
 #### Vaccination anti-méningococcique (*Neisseria meningitidis*)
 
@@ -193,6 +187,10 @@ Vaccin [ACT-HIB®](https://base-donnees-publique.medicaments.gouv.fr/medicament/
 #### Grippe saisonnière
 
 1 dose annuelle de rappel au moment de la campagne annuelle de vaccination (voir [Grippe]({{% relref "grippe.md" %}})).
+
+#### Pneumocoque
+
+![Schéma de la vaccination pneumocoque selon l'âge chez l'asplénique](/images/photos/asplenie-pneumocoque.avif)
 
 > [!INFO]
 > << Il n'existe aucune contre-indication vaccinale chez les sujets aspléniques >> (sauf les vaccins vivants en cas d'immunosuppression). -- *HCSP 2014*
@@ -237,7 +235,6 @@ graph TB
 - Collège des enseignants d'hématologie. Splénomégalie. Item 275. 2021.
 - [Lee GM. Preventing infections in children and adults with asplenia. Hematology Am Soc Hematol Educ Program. 2020.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33275684/)
 - [Medqual. Vaccination du patient immunodéprimé. 2019. (PDF)](https://medqual.fr/images/PRO/FORMATION/ATBR_Vaccin_04.pdf)
-- [Vaccination Info Service. Patient asplénique ou hyposplénique. 12/04/2018.](https://professionnels.vaccination-info-service.fr/Recommandations-vaccinales-specifiques/Patient-immunodeprime/Patient-asplenique-ou-hyposplenique)
 - [HCSP. Vaccination des personnes immunodéprimées ou aspléniques. Recommandations actualisées. 2014.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
 - [Aguilar C, et al. Recommandation sur les prophylaxies anti-infectieuses au cours des déficits immunitaires héréditaires. CEREDIH. 2013.](https://www.ceredih.fr/uploads/Reco_ProphylDIP_CEREDIH_2_Long.pdf)
 - [Dahyot-Fizelier C et Mimoz O. Gestion du patient splénectomisé. SFAR. 2010.](https://sfar.org/gestion-du-patient-splenectomise/)
