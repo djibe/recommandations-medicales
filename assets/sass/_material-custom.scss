@@ -8,6 +8,8 @@
  * Material UI by djibe, Maya, Geoff Bowers and Alex Skinner
  */
 
+// Compile: Node 20; Purge: Node 24
+
 @import '../../../material/assets/scss/colors';
 @import '../../../material/assets/scss/functions';
 @import '../../../material/assets/scss/variables';
@@ -53,8 +55,8 @@
 @import '../../../material/assets/scss/material/menu'; // dropdown
 @import '../../../material/assets/scss/material/navdrawer';
 // @import '../../../material/assets/scss/material/picker';
-// @import '../../../material/assets/scss/material/progress';
-// @import '../../../material/assets/scss/material/progress-circular'; // spinners
+@import '../../../material/assets/scss/material/progress';
+@import '../../../material/assets/scss/material/progress-circular'; // spinners
 @import '../../../material/assets/scss/material/selection-control'; // custom-forms
 // @import '../../../material/assets/scss/material/sliders';
 // @import '../../../material/assets/scss/material/snackbars';

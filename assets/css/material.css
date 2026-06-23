@@ -3510,6 +3510,7 @@ a.btn:not([class*='btn-flat']):not([class*='btn-outline']):enabled:hover, a.card
 
 .card-body + .card-actions {
   background-color: #ffffff;
+  border-radius: inherit;
   margin-top: -0.5rem;
   z-index: 2;
 }
@@ -6468,6 +6469,647 @@ input:disabled + .chip {
   max-width: none;
   position: absolute;
   width: 100%;
+}
+
+.progress {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+  /* @include font-size($progress-font-size);
+  background-color: $progress-bg; */
+}
+
+.progress-bar {
+  border-bottom: 0.25rem solid #4150f5;
+  transition: width 250ms cubic-bezier(0.4, 0, 0.6, 1);
+}
+
+.progress-bar.bg-primary {
+  background-color: transparent !important;
+  border-bottom-color: #4150f5;
+}
+
+.progress-bar.bg-primary::after {
+  background-color: #ecedfe;
+}
+
+.progress-bar.bg-secondary {
+  background-color: transparent !important;
+  border-bottom-color: #e87500;
+}
+
+.progress-bar.bg-secondary::after {
+  background-color: #ffca7f;
+}
+
+.progress-bar.bg-danger {
+  background-color: transparent !important;
+  border-bottom-color: #f54150;
+}
+
+.progress-bar.bg-danger::after {
+  background-color: #f194a6;
+}
+
+.progress-bar.bg-info {
+  background-color: transparent !important;
+  border-bottom-color: #41aaf5;
+}
+
+.progress-bar.bg-info::after {
+  background-color: #91cdf9;
+}
+
+.progress-bar.bg-success {
+  background-color: transparent !important;
+  border-bottom-color: #1dc198;
+}
+
+.progress-bar.bg-success::after {
+  background-color: #6bfbce;
+}
+
+.progress-bar.bg-warning {
+  background-color: transparent !important;
+  border-bottom-color: #e3cb53;
+}
+
+.progress-bar.bg-warning::after {
+  background-color: #ffc77d;
+}
+
+.progress-bar.bg-dark {
+  background-color: transparent !important;
+  border-bottom-color: #424242;
+}
+
+.progress-bar.bg-dark::after {
+  background-color: #757575;
+}
+
+.progress-bar.bg-light {
+  background-color: transparent !important;
+  border-bottom-color: #f5f5f5;
+}
+
+.progress-bar.bg-light::after {
+  background-color: #fafafa;
+}
+
+.progress-bar::after {
+  background-color: #e6e6e6;
+  content: '';
+  height: 0.25rem;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.progress-bar-animated::before {
+  animation-direction: reverse;
+  animation-duration: 300ms;
+  animation-iteration-count: infinite;
+  animation-name: progress-bar-animation;
+  animation-timing-function: linear;
+}
+
+@media (min-width: 576px) {
+  .progress-bar-animated::before {
+    animation-duration: 390ms;
+  }
+}
+
+@media (min-width: 992px) {
+  .progress-bar-animated::before {
+    animation-duration: 280ms;
+  }
+}
+
+.progress-bar-animated,
+.progress-bar-striped {
+  box-sizing: content-box;
+  position: relative;
+}
+
+.progress-bar-animated.bg-primary::before,
+.progress-bar-striped.bg-primary::before {
+  background-image: repeating-radial-gradient(0.125rem 0.125rem, #ecedfe, #ecedfe 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -webkit-repeating-radial-gradient(0.125rem 0.125rem, #ecedfe, #ecedfe 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -moz-repeating-radial-gradient(0.125rem 0.125rem, #ecedfe, #ecedfe 0.125rem, transparent 0.125rem, transparent 100%);
+}
+
+.progress-bar-animated.bg-secondary::before,
+.progress-bar-striped.bg-secondary::before {
+  background-image: repeating-radial-gradient(0.125rem 0.125rem, #ffca7f, #ffca7f 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -webkit-repeating-radial-gradient(0.125rem 0.125rem, #ffca7f, #ffca7f 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -moz-repeating-radial-gradient(0.125rem 0.125rem, #ffca7f, #ffca7f 0.125rem, transparent 0.125rem, transparent 100%);
+}
+
+.progress-bar-animated.bg-danger::before,
+.progress-bar-striped.bg-danger::before {
+  background-image: repeating-radial-gradient(0.125rem 0.125rem, #f194a6, #f194a6 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -webkit-repeating-radial-gradient(0.125rem 0.125rem, #f194a6, #f194a6 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -moz-repeating-radial-gradient(0.125rem 0.125rem, #f194a6, #f194a6 0.125rem, transparent 0.125rem, transparent 100%);
+}
+
+.progress-bar-animated.bg-info::before,
+.progress-bar-striped.bg-info::before {
+  background-image: repeating-radial-gradient(0.125rem 0.125rem, #91cdf9, #91cdf9 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -webkit-repeating-radial-gradient(0.125rem 0.125rem, #91cdf9, #91cdf9 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -moz-repeating-radial-gradient(0.125rem 0.125rem, #91cdf9, #91cdf9 0.125rem, transparent 0.125rem, transparent 100%);
+}
+
+.progress-bar-animated.bg-success::before,
+.progress-bar-striped.bg-success::before {
+  background-image: repeating-radial-gradient(0.125rem 0.125rem, #6bfbce, #6bfbce 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -webkit-repeating-radial-gradient(0.125rem 0.125rem, #6bfbce, #6bfbce 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -moz-repeating-radial-gradient(0.125rem 0.125rem, #6bfbce, #6bfbce 0.125rem, transparent 0.125rem, transparent 100%);
+}
+
+.progress-bar-animated.bg-warning::before,
+.progress-bar-striped.bg-warning::before {
+  background-image: repeating-radial-gradient(0.125rem 0.125rem, #ffc77d, #ffc77d 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -webkit-repeating-radial-gradient(0.125rem 0.125rem, #ffc77d, #ffc77d 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -moz-repeating-radial-gradient(0.125rem 0.125rem, #ffc77d, #ffc77d 0.125rem, transparent 0.125rem, transparent 100%);
+}
+
+.progress-bar-animated.bg-dark::before,
+.progress-bar-striped.bg-dark::before {
+  background-image: repeating-radial-gradient(0.125rem 0.125rem, #757575, #757575 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -webkit-repeating-radial-gradient(0.125rem 0.125rem, #757575, #757575 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -moz-repeating-radial-gradient(0.125rem 0.125rem, #757575, #757575 0.125rem, transparent 0.125rem, transparent 100%);
+}
+
+.progress-bar-animated.bg-light::before,
+.progress-bar-striped.bg-light::before {
+  background-image: repeating-radial-gradient(0.125rem 0.125rem, #fafafa, #fafafa 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -webkit-repeating-radial-gradient(0.125rem 0.125rem, #fafafa, #fafafa 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -moz-repeating-radial-gradient(0.125rem 0.125rem, #fafafa, #fafafa 0.125rem, transparent 0.125rem, transparent 100%);
+}
+
+.progress-bar-animated::after,
+.progress-bar-striped::after {
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+  right: -1.5rem;
+  bottom: -0.25rem;
+}
+
+.progress-bar-animated::before,
+.progress-bar-striped::before {
+  background-image: repeating-radial-gradient(0.125rem 0.125rem, #e6e6e6, #e6e6e6 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -webkit-repeating-radial-gradient(0.125rem 0.125rem, #e6e6e6, #e6e6e6 0.125rem, transparent 0.125rem, transparent 100%);
+  background-image: -moz-repeating-radial-gradient(0.125rem 0.125rem, #e6e6e6, #e6e6e6 0.125rem, transparent 0.125rem, transparent 100%);
+  background-position: 0 0;
+  background-repeat: repeat-x;
+  background-size: 0.75rem 0.75rem;
+  content: '';
+  display: block;
+  height: 0.25rem;
+  position: absolute;
+  right: -100vw;
+  bottom: -0.25rem;
+  left: 0;
+  z-index: -1;
+}
+
+@keyframes progress-bar-animation {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: 0.75rem 0;
+  }
+}
+
+.progress-bar-indeterminate {
+  border-bottom-color: #e6e6e6;
+  position: relative;
+  width: 100%;
+}
+
+.progress-bar-indeterminate.bg-primary {
+  border-bottom-color: #ecedfe;
+}
+
+.progress-bar-indeterminate.bg-primary::after, .progress-bar-indeterminate.bg-primary::before {
+  background-color: #4150f5;
+}
+
+.progress-bar-indeterminate.bg-primary::before {
+  background-image: none;
+}
+
+.progress-bar-indeterminate.bg-secondary {
+  border-bottom-color: #ffca7f;
+}
+
+.progress-bar-indeterminate.bg-secondary::after, .progress-bar-indeterminate.bg-secondary::before {
+  background-color: #e87500;
+}
+
+.progress-bar-indeterminate.bg-secondary::before {
+  background-image: none;
+}
+
+.progress-bar-indeterminate.bg-danger {
+  border-bottom-color: #f194a6;
+}
+
+.progress-bar-indeterminate.bg-danger::after, .progress-bar-indeterminate.bg-danger::before {
+  background-color: #f54150;
+}
+
+.progress-bar-indeterminate.bg-danger::before {
+  background-image: none;
+}
+
+.progress-bar-indeterminate.bg-info {
+  border-bottom-color: #91cdf9;
+}
+
+.progress-bar-indeterminate.bg-info::after, .progress-bar-indeterminate.bg-info::before {
+  background-color: #41aaf5;
+}
+
+.progress-bar-indeterminate.bg-info::before {
+  background-image: none;
+}
+
+.progress-bar-indeterminate.bg-success {
+  border-bottom-color: #6bfbce;
+}
+
+.progress-bar-indeterminate.bg-success::after, .progress-bar-indeterminate.bg-success::before {
+  background-color: #1dc198;
+}
+
+.progress-bar-indeterminate.bg-success::before {
+  background-image: none;
+}
+
+.progress-bar-indeterminate.bg-warning {
+  border-bottom-color: #ffc77d;
+}
+
+.progress-bar-indeterminate.bg-warning::after, .progress-bar-indeterminate.bg-warning::before {
+  background-color: #e3cb53;
+}
+
+.progress-bar-indeterminate.bg-warning::before {
+  background-image: none;
+}
+
+.progress-bar-indeterminate.bg-dark {
+  border-bottom-color: #757575;
+}
+
+.progress-bar-indeterminate.bg-dark::after, .progress-bar-indeterminate.bg-dark::before {
+  background-color: #424242;
+}
+
+.progress-bar-indeterminate.bg-dark::before {
+  background-image: none;
+}
+
+.progress-bar-indeterminate.bg-light {
+  border-bottom-color: #fafafa;
+}
+
+.progress-bar-indeterminate.bg-light::after, .progress-bar-indeterminate.bg-light::before {
+  background-color: #f5f5f5;
+}
+
+.progress-bar-indeterminate.bg-light::before {
+  background-image: none;
+}
+
+.progress-bar-indeterminate::after, .progress-bar-indeterminate::before {
+  border-radius: 0.25rem;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  background-color: #4150f5;
+  width: 0%;
+}
+
+.progress-bar-indeterminate::after {
+  animation-name: progress-bar-indeterminate-after;
+  bottom: -0.25rem;
+  z-index: 0;
+}
+
+.progress-bar-indeterminate::before {
+  animation-name: progress-bar-indeterminate-before;
+  content: '';
+  height: 0.25rem;
+  position: absolute;
+  bottom: -0.25rem;
+  z-index: 0;
+}
+
+@keyframes progress-bar-indeterminate-after {
+  0% {
+    left: 0%;
+    width: 0%;
+  }
+  50% {
+    left: 25%;
+    width: 75%;
+  }
+  75% {
+    left: 100%;
+    width: 0%;
+  }
+}
+
+@keyframes progress-bar-indeterminate-before {
+  0%,
+  62.5% {
+    left: 0%;
+    width: 0%;
+  }
+  71.875% {
+    left: 0%;
+    width: 25%;
+  }
+  81.25% {
+    left: 25%;
+    width: 50%;
+  }
+  100% {
+    left: 100%;
+    width: 25%;
+  }
+}
+
+.spinner-border {
+  animation: spinner-border 1.333s linear infinite;
+  border: 0.25rem solid currentColor;
+  border-right-color: transparent;
+  border-radius: 50%;
+  display: inline-block;
+  height: 2.5rem;
+  vertical-align: text-bottom;
+  width: 2.5rem;
+}
+
+.spinner-border-sm {
+  border-width: 0.15rem;
+  height: 1rem;
+  width: 1rem;
+}
+
+@keyframes spinner-grow {
+  0% {
+    transform: scale(0);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.spinner-grow {
+  animation: spinner-grow 0.75s linear infinite;
+  background-color: currentColor;
+  border-radius: 50%;
+  display: inline-block;
+  height: 2.5rem;
+  opacity: 0;
+  vertical-align: text-bottom;
+  width: 2.5rem;
+}
+
+.spinner-grow-sm {
+  height: 1rem;
+  width: 1rem;
+}
+
+.progress-circular {
+  height: 2.5rem;
+  position: relative;
+  width: 2.5rem;
+}
+
+.progress-circular-gap {
+  border-top: 0.125rem solid #4150f5;
+  position: absolute;
+  top: 0;
+  right: 1.1875rem;
+  bottom: 0;
+  left: 1.1875rem;
+}
+
+.progress-circular-inner {
+  animation: progress-circular-inner-rotate 5.332s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+  height: 2.5rem;
+  position: relative;
+  width: 2.5rem;
+}
+
+.progress-circular-left,
+.progress-circular-right {
+  height: 2.5rem;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1.25rem;
+}
+
+.progress-circular-left {
+  left: 0;
+}
+
+.progress-circular-right {
+  right: 0;
+}
+
+.progress-circular-spinner {
+  border: 0.25rem solid #4150f5;
+  border-bottom-color: transparent;
+  border-radius: 50%;
+  height: 2.5rem;
+  position: absolute;
+  top: 0;
+  width: 2.5rem;
+}
+
+.progress-circular-left .progress-circular-spinner {
+  animation: progress-circular-spinner-left 1.333s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+  border-right-color: transparent;
+  left: 0;
+}
+
+.progress-circular-right .progress-circular-spinner {
+  animation: progress-circular-spinner-right 1.333s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+  border-left-color: transparent;
+  right: 0;
+}
+
+.progress-circular-wrapper {
+  animation: spinner-border 2.666s linear infinite;
+}
+
+@keyframes progress-circular-inner-rotate {
+  12.5% {
+    transform: rotate(135deg);
+  }
+  25% {
+    transform: rotate(270deg);
+  }
+  37.5% {
+    transform: rotate(405deg);
+  }
+  50% {
+    transform: rotate(540deg);
+  }
+  62.5% {
+    transform: rotate(675deg);
+  }
+  75% {
+    transform: rotate(810deg);
+  }
+  87.5% {
+    transform: rotate(945deg);
+  }
+  100% {
+    transform: rotate(1080deg);
+  }
+}
+
+@keyframes progress-circular-spinner-left {
+  0%,
+  100% {
+    transform: rotate(130deg);
+  }
+  50% {
+    transform: rotate(-5deg);
+  }
+}
+
+@keyframes progress-circular-spinner-right {
+  0%,
+  100% {
+    transform: rotate(-130deg);
+  }
+  50% {
+    transform: rotate(5deg);
+  }
+}
+
+@keyframes spinner-border {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.progress-circular-primary .progress-circular-gap,
+.progress-circular-primary .progress-circular-spinner {
+  border-top-color: #4150f5;
+}
+
+.progress-circular-primary .progress-circular-left .progress-circular-spinner {
+  border-left-color: #4150f5;
+}
+
+.progress-circular-primary .progress-circular-right .progress-circular-spinner {
+  border-right-color: #4150f5;
+}
+
+.progress-circular-secondary .progress-circular-gap,
+.progress-circular-secondary .progress-circular-spinner {
+  border-top-color: #e87500;
+}
+
+.progress-circular-secondary .progress-circular-left .progress-circular-spinner {
+  border-left-color: #e87500;
+}
+
+.progress-circular-secondary .progress-circular-right .progress-circular-spinner {
+  border-right-color: #e87500;
+}
+
+.progress-circular-danger .progress-circular-gap,
+.progress-circular-danger .progress-circular-spinner {
+  border-top-color: #f54150;
+}
+
+.progress-circular-danger .progress-circular-left .progress-circular-spinner {
+  border-left-color: #f54150;
+}
+
+.progress-circular-danger .progress-circular-right .progress-circular-spinner {
+  border-right-color: #f54150;
+}
+
+.progress-circular-info .progress-circular-gap,
+.progress-circular-info .progress-circular-spinner {
+  border-top-color: #41aaf5;
+}
+
+.progress-circular-info .progress-circular-left .progress-circular-spinner {
+  border-left-color: #41aaf5;
+}
+
+.progress-circular-info .progress-circular-right .progress-circular-spinner {
+  border-right-color: #41aaf5;
+}
+
+.progress-circular-success .progress-circular-gap,
+.progress-circular-success .progress-circular-spinner {
+  border-top-color: #1dc198;
+}
+
+.progress-circular-success .progress-circular-left .progress-circular-spinner {
+  border-left-color: #1dc198;
+}
+
+.progress-circular-success .progress-circular-right .progress-circular-spinner {
+  border-right-color: #1dc198;
+}
+
+.progress-circular-warning .progress-circular-gap,
+.progress-circular-warning .progress-circular-spinner {
+  border-top-color: #e3cb53;
+}
+
+.progress-circular-warning .progress-circular-left .progress-circular-spinner {
+  border-left-color: #e3cb53;
+}
+
+.progress-circular-warning .progress-circular-right .progress-circular-spinner {
+  border-right-color: #e3cb53;
+}
+
+.progress-circular-dark .progress-circular-gap,
+.progress-circular-dark .progress-circular-spinner {
+  border-top-color: #424242;
+}
+
+.progress-circular-dark .progress-circular-left .progress-circular-spinner {
+  border-left-color: #424242;
+}
+
+.progress-circular-dark .progress-circular-right .progress-circular-spinner {
+  border-right-color: #424242;
+}
+
+.progress-circular-light .progress-circular-gap,
+.progress-circular-light .progress-circular-spinner {
+  border-top-color: #f5f5f5;
+}
+
+.progress-circular-light .progress-circular-left .progress-circular-spinner {
+  border-left-color: #f5f5f5;
+}
+
+.progress-circular-light .progress-circular-right .progress-circular-spinner {
+  border-right-color: #f5f5f5;
 }
 
 .custom-control {

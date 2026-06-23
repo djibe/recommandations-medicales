@@ -31,7 +31,19 @@ Consulter la monographie (indications, posologies, contre-indications ...) de to
 <div class="textfield-box form-ripple-nolabel form-ripple-bottom" style="position: sticky; top: 80px; backdrop-filter: blur(10px); z-index: 160">
   <input type="search" class="form-control form-group" id="search-input-med" placeholder="Rechercher un code médicament ..." autofocus>
 </div>
-<div id="spinner">Chargement...</div>
+<div id="spinner"><div class="progress-circular">
+  <div class="progress-circular-wrapper">
+    <div class="progress-circular-inner">
+      <div class="progress-circular-left">
+        <div class="progress-circular-spinner"></div>
+      </div>
+      <div class="progress-circular-gap"></div>
+      <div class="progress-circular-right">
+        <div class="progress-circular-spinner"></div>
+      </div>
+    </div>
+  </div>
+</div></div>
 <p><span id="result-count"></span> Médicaments</p>
 <div id="medication-list" class="list-group">
   <p id="no-results" class="list-group-item mb-0" style="display:none">Aucun résultat</p>
