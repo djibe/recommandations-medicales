@@ -63,7 +63,7 @@
     "hugo-extended": "^0.163.1",
     "instant.page": "^5.2.0",
     "linkinator": "^6.1.4",
-    "mermaid": "^11.15.0",
+    "mermaid": "^11.16.0",
     "node-sass": "9.0.0",
     "vnu-jar": "^25.12.31"
   },
