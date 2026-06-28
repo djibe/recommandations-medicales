@@ -18,6 +18,8 @@ sctid = "68566005"
 icd10 = ["N39.0", "N10", "N30"]
 image = true
 imageSrc = "Illustration des infections urinaires par Freepik"
+rank = "false"
+writing = "todo"
 todo = "flow, réécrire"
 +++
 
@@ -85,38 +87,38 @@ L'examen clinique est complet: température, pression artérielle, peau, gorge, 
 
 La cystite est une infection urinaire (pollakiurie, brûlures mictionnelles ...) **sans fièvre** et sans anomalie biologique (si réalisée). Elle survient le plus souvent chez les filles après 3 ans.
 
-Recommandations pour la prise en charge ambulatoire de la cystite aiguë (infection urinaire basse) immédiatement après ECBU:
+Recommandations pour la prise en charge ambulatoire de la cystite aiguë (infection urinaire basse), immédiatement après ECBU:
 
-- Fille pubère: traitement minute par fosfomycine sauf uropathie (voir [IU de l'adulte]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}))
 - ==[Amoxicilline/acide clavulanique](https://base-donnees-publique.medicaments.gouv.fr/medicament/64550843/extrait#tab-rcp) 1,5 dose-kg 2 fois par jour pendant 5 jours== (80 mg/kg/j, max 3 g/j)
-  - Pas d'adaptation à l'antibiogramme sauf évolution défavorable: cotrimoxazole préféré au céfixime
+  - Pas d'adaptation à l'antibiogramme sauf évolution défavorable
 - Mesures d'hygiène générales
-- Si allergie:
+- Si allergie à la pénicilline:
   - Préférer le [cotrimoxazole](https://base-donnees-publique.medicaments.gouv.fr/medicament/69464049/extrait#tab-rcp) 30 mg/kg/j (max 1,6 g/j) de SMX en 2 prises pendant 5 jours
-  - Puis le [céfixime](https://base-donnees-publique.medicaments.gouv.fr/medicament/67547553/extrait#tab-rcp) 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 5 jours  
-    ou à défaut céfpodoxime-proxétil 8 mg/kg/j en 2 prises sans dépasser la dose adulte (*GPIP 2025*)
+  - Voire le [céfixime](https://base-donnees-publique.medicaments.gouv.fr/medicament/67547553/extrait#tab-rcp) 8 mg/kg/j (max 400 mg/j) en 2 prises pendant 5 jours  
+    ou à défaut [céfpodoxime-proxétil](https://base-donnees-publique.medicaments.gouv.fr/medicament/67932983/extrait#tab-rcp) 8 mg/kg/j en 2 prises sans dépasser la dose adulte (*GPIP 2025*)
+- Chez la fille pubère: traitement minute par fosfomycine 3 g dose unique sauf uropathie (voir [IU de l'adulte]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}))
 
-Avis spécialisé en cas de: Pseudomonas sp, bactérie multi-résistante, bactérie productrice de carbapénémase, ou entérocoque résistant aux glycopeptides.
+**Avis spécialisé** en cas de: *Pseudomonas sp*, bactérie multi-résistante, bactérie productrice de carbapénémase, ou entérocoque résistant aux glycopeptides.
 
 {{% /collapse %}}
 {{%collapse "Pyélonéphrite aiguë de l'enfant" %}}
 
 > [!WARNING]
-> Toute fièvre inexpliquée avant 1 an doit faire rechercher une pyélonéphrite aiguë. *E. coli* pour 80 % (résistances ++) des infections urinaires de l'enfant. Autres germes: *Proteus mirabilis* (10 %), entérocoques et *Klebsiella*.
+> Toute fièvre inexpliquée avant 1 an doit faire rechercher une pyélonéphrite aiguë. *E. coli* est identifié dans 80 % des infections urinaires de l'enfant (avec souvent des résistances). Autres germes: *Proteus mirabilis* (10 %), entérocoques et *Klebsiella*.
 
 > Tous les épisodes d'infections urinaires fébriles devraient être pris en charge comme des pyélonéphrites. -- *GPIP 2023*
 
-Recommandations pour la prise en charge de la suspicion de pyélonéphrite aiguë (PNA):
+Recommandations pour la prise en charge de la suspicion de pyélonéphrite aiguë (PNA) de l'enfant:
 
 - ==Hospitalisation si: âge < 3 mois, uropathie, immunodépression, lithiase urinaire, AEG, suspicion de sepsis, mauvaise compréhension familiale, cocci Gram+==
-- Si 1^er^ épisode: échographie des voies urinaires
-- [Paracétamol]({{% relref "antalgie-enfant.md" %}})
-- Antibiothérapie ambulatoire probabiliste pendant 2-4 jours le temps d'obtenir l'ECBU (sans critère d'hospitalisation)
+- En cas de 1^er^ épisode: échographie des voies urinaires
+- Antipyrexie: [paracétamol]({{% relref "antalgie-enfant.md" %}})
+- **Antibiothérapie** ambulatoire probabiliste pendant 2-4 jours le temps d'obtenir l'ECBU (sauf critère d'hospitalisation)
   - ceftriaxone 50 mg/kg/j (max 2 g/j) **IM**
   - ou céfixime 8 mg/kg/j (max 400 mg/j) en 2 prises  
     ou à défaut céfpodoxime-proxétil 8 mg/kg/j en 2 prises sans dépasser la dose adulte (*GPIP 2025*)
 - Réévaluation systématique à 48 heures puis avec les résultats de l'ECBU
-- Information des parents: [mpedia](https://www.mpedia.fr/art-pyelonephrite/?sr=895)
+- Information des parents: [guide mpedia](https://www.mpedia.fr/art-pyelonephrite/?sr=895)
 
 Adaptation à l'antibiogramme dès le rendu des résultats pour une totale (probabiliste + adaptée) de traitement de **10 jours**:
 

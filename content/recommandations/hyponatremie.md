@@ -215,8 +215,8 @@ gravité -- Non --> clinique("<b>Clinique</b><br>—<br>- Traitement à risque (
         hypovolémie -- "NaU &gt; 30" --> rénal("Pertes rénales: diurétique,<br>insuff. surrénale,<br>cerebral salt wasting")
       extracellulaire -- Euvolémie --> euvolémie("Euvolémie et<br>NaU &gt; 30 mmol/L:<br>- SIADH<br>- Hypothyroïdie<br>- Insuffisance surrénale")
       extracellulaire -- Hypervolémie --> hypervolémie("Insuffisance d'organe:<br>cardiaque, hépatique,<br>rénale, sd néphrotique")
-    bilan -- Élevée --> élevée("&gt; 300 mOsm/kg<br>= Hyponatrémie hypertonique<br>—<br>- Hyperglycémie<br>- Solutés hyperosmolaires")
-  gravité -- Oui --> urgence("Urgences ± SAMU")
+    bilan -- Élevée --> élevée("&gt; 300 mOsm/kg<br>= Hyponatrémie hypertonique<br>—<br>- Hyperglycémie<br>- Solutés<br>hyperosmolaires")
+  gravité -- Oui --> urgence("Urgences<br>± SAMU")
 {{< /mermaid >}}
 
 > Osmolalité plasmatique (mOsm/kg H~2~O) = <code>natrémie x 2 + glycémie (mmol/L)</code> (CUEN)

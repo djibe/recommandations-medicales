@@ -90,7 +90,7 @@ Ces examens sont l'occasion de contrôler le bon déroulement des cinq axes de s
 Pour plus d'informations sur les vaccinations, dont les obligations vaccinales, lire [Vaccinations]({{% relref "vaccination.md" %}}).
 {.alert .alert-info}
 
-> Né depuis janvier 2023: ==rattrapage obligatoire des méningites B et ACWY==; et recommandés jusqu'à 4 ans révolus== (même si 2 doses de Neisvac reçues).
+> Enfant né depuis janvier 2023: ==rattrapage obligatoire des méningites B et ACWY== (et recommandés jusqu'à 4 ans révolus, même si 2 doses de Neisvac reçues).
 
 |          Âge          | Valences                                                                                  | Spécialités équivalentes                                                                                        |
 | :-------------------: | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
