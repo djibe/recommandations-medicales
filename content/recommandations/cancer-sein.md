@@ -18,6 +18,8 @@ sctid = "254837009"
 icd10 = ["C50", "C50.9", "D05", "Z12.3"]
 image = true
 imageSrc = "Le cancer du sein, illustration par Freepik"
+rank = "false"
+writing = "todo"
 todo = "revoir ttt > gg sentinelle, algorithme 2 et 3, EI hormonothérapie, perruque INCa, INCa autres guides"
 flowchart = true
 +++
@@ -444,7 +446,6 @@ graph TB
 - [Taux de participation au programme de dépistage organisé du cancer du sein 2022-2023 et évolution depuis 2005. Santé Publique France. 2024.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-sein/articles/taux-de-participation-au-programme-de-depistage-organise-du-cancer-du-sein-2022-2023-et-evolution-depuis-2005)
 - [Lavoué V, et al. Recommandations pour la pratique clinique du CNGOF. Place de l'auto-examen des seins dans les stratégies de dépistage [Place of breast self-examination in screening strategies. French College of Gynecologists and Obstetricians (CNGOF) recommendations for clinical practice]. Gynecol Obstet Fertil Senol. 2023. (PDF)](https://cngof.fr/app/uploads/2025/11/Auto-examen20des20seins202023-RPC-20stratC3A9gies20de20dC3A9pistage.pdf?x26468)
 - {{< references/beh-cancers-incidence >}}
-- {{< references/inca-cancers-mortalite >}}
 - [INCa. Dépistage du cancer du sein : orienter vos patientes en fonction de leur niveau de risque. 2022.](https://www.cancer.fr/professionnels-de-sante/prevention-et-depistages/depistage-et-detection-precoce/depistage-du-cancer-du-sein/orienter-vos-patientes)
 - [INCa. Traitements locorégionaux des cancers du sein infiltrants non métastatiques. 2022.](https://www.cancer.fr/catalogue-des-publications/traitements-locoregionaux-des-cancers-du-sein-infiltrants-non-metastatiques-synthese2)
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)

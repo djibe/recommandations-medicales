@@ -272,7 +272,6 @@ graph TB
 - [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [Hammel P, et al. Cancer du pancréas. Thésaurus National de Cancérologie Digestive (TNCD). 2024.](https://www.snfge.org/tncd/cancer-du-pancreas)
 - {{< references/beh-cancers-incidence >}}
-- {{< references/inca-cancers-mortalite >}}
 - {{< references/college-gastro >}}
 - Rebours V. Risque de cancer du pancréas : maigrir c'est bien, ne pas grossir c'est mieux. GastroScoop. 13/01/2022.
 - [Rebours V. Les chiffres du cancer du pancréas dans le monde : l'effroyable raz-de-marée. GastroScoop. 17/11/2021.

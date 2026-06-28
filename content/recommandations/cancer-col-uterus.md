@@ -358,7 +358,6 @@ Le marqueur tumoral **SCC** n'a pas d'intérêt au cours de la prise en charge.
 - [Inserm. Papillomavirus : faut-il généraliser la vaccination ?. 27/03/2023.](https://www.inserm.fr/actualite/papillomavirus-faut-il-generaliser-la-vaccination/)
 - [INCa. Le dépistage du cancer du col de l'utérus en pratique. Collection Outils pour la pratique. 2023. (PDF)](https://www.cancer.fr/catalogue-des-publications/depliant-depistage-du-cancer-du-col-de-l-uterus-guide-pratique)
 - {{< references/beh-cancers-incidence >}}
-- {{< references/inca-cancers-mortalite >}}
 - [Commission européenne. Union européenne de la santé: une nouvelle approche de l'UE en matière de détection du cancer - Un dépistage élargi et de meilleure qualité. Communiqué de presse. 20/09/2022.](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_5562)
 - [Hanguehard R, et al. Couverture vaccinale contre les infections à papillomavirus humain des filles âgées de 15 à 18 ans et déterminants de vaccination, France, 2021. BEH. 2022.](http://beh.santepubliquefrance.fr/beh/2022/24-25/2022_24-25_3.html)
 - [INCa. Cancers invasifs du col utérin - Du diagnostic au suivi. 2021.](https://www.cancer.fr/professionnels-de-sante/recommandations-et-aide-a-la-pratique/outils-pour-la-pratique-des-medecins-generalistes/outils-par-localisation-de-cancer/cancers-invasifs-du-col-uterin)

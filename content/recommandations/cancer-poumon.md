@@ -301,7 +301,6 @@ graph TB
 - [Wolf AMD, et al. Screening for lung cancer: 2023 guideline update from the American Cancer Society. CA Cancer J Clin. 2023.](https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21811)
 - [Collège des Enseignants de Pneumologie (CEP). Tumeurs du Poumon, primitives et secondaires. Item 309. 2023.](https://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/)
 - {{< references/beh-cancers-incidence >}}
-- {{< references/inca-cancers-mortalite >}}
 - [HAS. Dépistage du cancer bronchopulmonaire par scanner thoracique faible dose sans injection : actualisation de l'avis de 2016. 2022.](https://www.has-sante.fr/jcms/p_3310940/fr/depistage-du-cancer-bronchopulmonaire-par-scanner-thoracique-faible-dose-sans-injection-actualisation-de-l-avis-de-2016)
 - [Couraud S, et al. Recommandations de l'Intergroupe francophone de cancérologie thoracique, de la Société de pneumologie de langue française, et de la Société d'imagerie thoracique sur le dépistage du cancer bronchopulmonaire par tomodensitométrie à faible dose d'irradiation. Rev Mal Resp. 2021.](https://www.sciencedirect.com/science/article/pii/S0761842521000437) (SPLF)
 - [Delafosse P, et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Poumon. Santé Publique France. 2020.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-poumon)
