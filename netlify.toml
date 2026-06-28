@@ -104,6 +104,11 @@ HUGO_ENABLEGITINFO = "false"
   status = 301
 
 [[redirects]]
+  from = "https://recomedicales.fr/recommandations/perfusions-domicile/"
+  to = "https://recomedicales.fr/recommandations/perfusions-domicile-perfadom/"
+  status = 301
+
+[[redirects]]
   from = "https://recomedicales.fr/images/photos/osteoporose.webp"
   to = "https://recomedicales.fr/images/photos/osteoporose.jpg"
   status = 301
