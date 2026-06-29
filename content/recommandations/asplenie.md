@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-29T23:51:41+02:00"
 publishdate = "2020-09-29"
-lastmod = "2026-06-23"
+lastmod = "2026-06-29"
 specialites = ["hématologie", "infectiologie"]
 annees = "2026"
 sources = ["MinSanté", "BSH", "HCSP"]
@@ -30,7 +30,7 @@ flowchart = true
 - L'asplénie (et l'hyposplénie) -- absence de rate ou rate non fonctionnelle -- expose à des infections sévères et parfois foudroyantes (risque à vie mais maximal les 2 premières années), surtout par le pneumocoque
 - La prise en charge par antibioprophylaxie de l'asplénique comprend: pénicilline V Oracilline® 1 MUI 1 cp x 2/j pendant au moins 2 ans (5 ans chez l'enfant) ou à vie en cas de risque élevé (+65 ans, antécédent d'infection sévère ...)
 - En cas de fièvre ou de syndrome infectieux: antibiothérapie par ceftriaxone 1g IM immédiat et consultation médicale urgente
-- 6 vaccinations sont recommandées au cours de cette immunodépression: {{< modal-btn modal-pneumocoque >}}pneumocoque{{< /modal-btn >}} et *Haemophilus*, méningocoques B et ACWY, grippe et Covid 19. Les vaccins doivent être injectés dans les 2 semaines avant (chirurgie programmée) ou après la splénectomie
+- 6 vaccinations sont recommandées au cours de cette immunodépression: pneumocoque et *Haemophilus*, méningocoques B et ACWY, grippe et Covid 19. Les vaccins doivent être injectés dans les 2 semaines avant (chirurgie programmée) ou après la splénectomie
 - L'asplénie expose à une sensibilité majeure au [paludisme]({{% relref "paludisme.md" %}})
 
 {{%/article-summary%}}
@@ -133,11 +133,11 @@ Personnes à risque d'infection grave devant bénéficier d'un antibioprophylaxi
 > -- *BSH 2024*
 
 {{% /collapse %}}
-{{%collapse "Vaccinations au cours d'asplénie ou splénectomie" %}}
+{{%collapse "Vaccins pour l'asplénie ou la splénectomie" %}}
 
 ### Vaccins recommandés en cas d'asplénie
 
-Vaccins à réaliser avant voire après une splénectomie.
+Vaccinations à réaliser **avant** (voire juste après) une splénectomie.
 
 | Germe           | Primo-vaccination            | Rappel           |
 | --------------- | ---------------------------- | ---------------- |
@@ -147,7 +147,7 @@ Vaccins à réaliser avant voire après une splénectomie.
 | *H. influenzae* | ACT-HIB® dose unique (hors AMM) |               |
 | Méningocoque ACWY | Menquadfi®, Menveo® (sans aiguille) ou Nimenrix® | Tous les 5 ans |
 | Méningocoque B  | Bexsero®, Trumenba® (2 doses) | Tous les 5 ans |
-| Pneumocoque | [Schéma selon l'âge](/images/photos/asplenie-pneumocoque.avif) | Capvaxive® ou<br> Prevenar 20® à 5 ans.<br> Enfants: [selon l'âge et schéma antérieur](/images/photos/asplenie-pneumocoque.avif) |
+| Pneumocoque | [Schéma selon l'âge](#pneumocoque) | Selon l'âge |
 {caption="Vaccinations recommandées chez l'asplénique selon le *Calendrier vaccinal*. Contrôler l'âge sur les RCP" class="table-wrap"}
 
 > << L'asplénie en elle même ne contre indique pas l'utilisation des vaccins vivants. >> -- *CEREDIH*
@@ -190,7 +190,22 @@ Vaccin [ACT-HIB®](https://base-donnees-publique.medicaments.gouv.fr/medicament/
 
 #### Pneumocoque
 
-![Schéma de la vaccination pneumocoque selon l'âge chez l'asplénique](/images/photos/asplenie-pneumocoque.avif)
+Schéma de la vaccination anti-pneumococcique chez l'asplénique:
+
+- **Nourrisson < 2 ans:**
+  - 7-11 mois non vaccinés: 2 doses de Prevenar13/Vaxneuvance à 2 mois d'intervalle, avec 1 dose de rappel à 1 an
+  - 12-23 mois non vaccinés: 2 doses de Prevenar13/Vaxneuvance à ≥ 2 mois d'intervalle
+  - Prématurés et nourrissons à risque élevé d'IP: 1 dose de Prevenar13/Vaxneuvance à l'âge de 2 mois, 3 mois et 4 mois, avec rappel à 11 mois
+- **Enfant 2-5 ans à risque élevé d'IP:**
+  - Enfants antérieurement vaccinés par Prevenar13/Vaxneuvance (avant 24 mois): une dose de Pneumovax ≥ 2 mois après la précédente dose de vaccin conjugué.
+  - Enfants non vaccinés: 2 doses de Prevenar13/Vaxneuvance à 2 mois d'intervalle, avec 1 dose de Pneumovax au moins deux mois après la dernière dose
+- **Enfants 5-17 ans à risque élevé d'IP:**
+  - Non vaccinés: 1 dose de Prevenar13/Vaxneuvance avec 1 dose de Pneumovax ≥ 2 mois après
+  - Vaccinés avec la séquence Prevenar13/Vaxneuvance-Pneumovax: 1 nouvelle injection de Pneumovax au moins 5 ans après la dernière
+  - Vaccinés avec le Pneumovax: 1 injection de Prevenar13/Vaxneuvance si la vaccination antérieure remonte à +1 an; 1 injection ultérieure de Pneumovax ≥ 5 ans après le dernier Pneumovax
+- **Adulte:**
+  - À risque élevé d'IP n'ayant reçu qu'1 dose de Prevenar13/Pneumovax: dose unique de Prevenar20/Capvaxive (≥ 1 an après la dernière dose).
+  - À risque élevé d'IP vaccinés par la séquence Prevenar13-Pneumovax: 1 dose Prevenar20/Capvaxive (≥ 5 ans après la dernière dose)
 
 > [!INFO]
 > << Il n'existe aucune contre-indication vaccinale chez les sujets aspléniques >> (sauf les vaccins vivants en cas d'immunosuppression). -- *HCSP 2014*
@@ -241,8 +256,3 @@ graph TB
 - CMIT. Asplénie. ePopi.
 
 {{%/sources%}}
-{{% modal title="Vaccin pneumocoque" id="modal-pneumocoque"%}}
-
-{{< traitements/vaccin-pneumocoque >}}
-
-{{% /modal %}}
