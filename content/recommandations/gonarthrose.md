@@ -113,7 +113,7 @@ Autres diagnostics à étayer devant des douleurs des genoux.
   - Arthrite chronique  
   [Polyarthrite rhumatoïde]({{% relref "polyarthrite-rhumatoide.md" %}}), [spondyloarthrite]({{% relref "spondylarthrite-ankylosante.md" %}}), arthrite septique, arthropathie métabolique.
   - Ostéonécrose
-  - Maladie de Paget
+  - [Maladie de Paget]({{% relref "maladie-paget-osseuse.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

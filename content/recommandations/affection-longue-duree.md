@@ -101,7 +101,7 @@ Exemples:
 - [Embolie pulmonaire à répétition]({{% relref "embolie-pulmonaire.md" %}})
 - [DMLA]({{% relref "degenerescence-maculaire-age-dmla.md" %}})
 - [Asthme]({{% relref "asthme.md" %}})
-- Maladie de Paget, [maladie de Verneuil]({{% relref "maladie-verneuil.md" %}})
+- [Maladie de Paget]({{% relref "maladie-paget-osseuse.md" %}}), [maladie de Verneuil]({{% relref "maladie-verneuil.md" %}})
 - [Ulcère cutané chronique ou récidivant avec retentissement fonctionnel sévère]({{% relref "ulcere-veineux.md" %}})
 - Transidentité
 - [Infertilité]({{% relref "infertilite-couple.md" %}})

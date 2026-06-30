@@ -56,7 +56,7 @@ Canal lombaire étroit ou rétréci
   - Lipomatose épidurale
   - Hyperostose diffuse idiopathique
   - Ostéomalacie hypophosphatémique
-  - Maladie de Paget
+  - [Maladie de Paget]({{% relref "maladie-paget-osseuse.md" %}})
 - Infectieuse
   - Discite
   - Ostéomyélite

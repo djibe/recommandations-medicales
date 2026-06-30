@@ -70,7 +70,7 @@ Le diagnostic de coxarthrose est clinique et radiologique mais leur sévérité 
 
 L'arthrose de hanche atteint surtout les plus de 40 ans.
 
-- Antécédents: traumatismes du bassin et des jambes, [obésité]({{% relref "obesite-adulte.md" %}}), rhumatisme inflammatoire, maladie de Paget, [inégalité de longueur des membres inférieurs]({{% relref "inegalite-longueur-membres-inferieurs.md" %}})
+- Antécédents: traumatismes du bassin et des jambes, [obésité]({{% relref "obesite-adulte.md" %}}), rhumatisme inflammatoire, [maladie de Paget]({{% relref "maladie-paget-osseuse.md" %}}), [inégalité de longueur des membres inférieurs]({{% relref "inegalite-longueur-membres-inferieurs.md" %}})
 - Traitements en cours: [corticoïdes]({{% relref "corticoides.md" %}})
 - Alcool
 - **Signes et symptômes de la coxarthrose:**
