@@ -10,6 +10,7 @@ lastmod = "2025-09-09"
 specialites = []
 tags = []
 sctid = ""
+draft = true
 +++
 
 {{< scores/fsfi >}}
