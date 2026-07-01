@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-11-06T15:09:23+01:00"
 publishdate = "2025-11-06"
-lastmod = "2026-01-08"
+lastmod = "2026-07-01"
 specialites = ["dermatologie"]
 annees = "2026"
 sources = []
@@ -35,6 +35,7 @@ todo = "Kanban"
 | [BrownSkinMatters](https://www.instagram.com/brownskinmatters/) | Instagram |
 | [Danderm](https://www.danderm-pdv.is.kkh.dk/atlas/index.html) ||
 | [Dermatology Atlas](https://atlasdermatologico.com.br/browse.jsf) ||
+| [Derm1M](https://huggingface.co/datasets/redlessone/Derm1M) | 1 million de photos (35 Go) avec leur description. Sur HuggingFace 🤗 et pour les geeks. |
 | [BAD Dermatology Handbook](https://cdn.bad.org.uk/uploads/2024/04/15113327/Derm_Handbook_3rd-Edition-_Nov_2020.pdf) | Fichier PDF |
 | [DermIS](https://www.dermis.net/dermisroot/fr/home/index.htm) ||
 | [DermNet NZ](https://dermnetnz.org/topics) ||

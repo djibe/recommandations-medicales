@@ -393,6 +393,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Lafaurie M, et al. Updated guidelines for management of community-acquired urinary tract infections in adult men by the French infectious disease society (SPILF). Infectious Diseases Now. 2026.](https://www.sciencedirect.com/science/article/pii/S2666991926000692)
 - [Bonkat G, et al. EAU guidelines on urological infections. 2025.](https://uroweb.org/guidelines/urological-infections)
 - [Plateel T, et al. Nitrofurantoin failure in males with an uncomplicated urinary tract infection: a primary care observational cohort study. British Journal of General Practice. 2023.](https://bjgp.org/content/73/728/e204)
 - [NICE. Urinary tract infections in adults. Quality standard. 2023.](https://www.nice.org.uk/guidance/qs90/chapter/Quality-statements) (BU si < 2 sympt pour cystite)

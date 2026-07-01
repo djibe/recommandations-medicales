@@ -248,6 +248,8 @@ graph TB
 
 {{< card-link-external title="e-learning BENZOS" url="https://portail-addictions-occitanie.fr/directory-tutoriels/listing/reperage-precoce-et-lintervention-breve-rpib-benzos-addictutos/" subtitle="par Addictions Occitanie" >}}
 
+{{< youtube id="05nUNnI029o" title="Webinaire Déprescrire les benzodiazépines 18 juin 2026 (Omédit Normandie)" >}}
+
 {{< youtube id="Pl628stUti4" title="Déprescrire les sédatifs-hypnotiques (Réseau canadien pour la déprescription)" >}}
 
 - [Garcia Dos Santos C. Interventions autogérées par les patients pour réduire l'utilisation de sédatifs et améliorer le sommeil ?. Minerva. 2026.](https://minerva-ebp.be/FR/Analysis/961)

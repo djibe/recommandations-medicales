@@ -117,7 +117,7 @@ Recommandations concernant les mesures générales de prise en charge du vitilig
 - [Crème solaire IP50]({{% relref "cremes-solaires-evaluees.md" %}}) sur les zones atteintes  
   Sauf durant un traitement sur consignes du dermatologue.
 - Soutien psychologique: [parcours Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}) ou autre
-- Information du patient sur le vitiligo: [Dermato-Info](https://dermato-info.fr/fr/les-maladies-de-la-peau/vitiligo-quand-la-peau-perd-son-pigment)
+- Information du patient sur le vitiligo: [guide Dermato-Info](https://dermato-info.fr/fr/les-maladies-de-la-peau/vitiligo-quand-la-peau-perd-son-pigment)
 - Association de patients: [Association Française du Vitiligo](https://www.afvitiligo.com/comprendre-le-vitiligo/les-traitements-du-vitiligo/)
 - {{< references/compare >}}
 

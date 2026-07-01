@@ -38,7 +38,7 @@ Le formulaire de prescription **PERFADOM** est standardisé pour la réalisation
 
 {{< pdf "perfadom.pdf" "Liste des adresses des Caisses Primaires d'Assurance Maladie (CPAM) départementales du Régime Général pour l'envoi de documents" >}}
 
-> **NB.** Enregistrer le PDF et l'ajouter dans le dossier patient.
+> **NB.** Enregistrer le PDF et l'ajouter dans le dossier patient; ou télécharger le [formulaire papier](https://www.omedit-idf.fr/wp-content/uploads/formulaire-prescription_perfusions_urps-ph-paca-2016.pdf) complet à imprimer.
 
 ## Préconisations pour les perfusions à domicile {.mt-5}
 
