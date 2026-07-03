@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-09-25T21:22:41+02:00"
 publishdate = "2020-09-25"
-lastmod = "2026-03-13"
+lastmod = "2026-07-03"
 specialites = ["dermatologie", "infectiologie"]
 annees = "2023"
 sources = ["Collèges"]
@@ -18,6 +18,7 @@ icd10 = ["L02.4", "L03.0"]
 image = true
 imageSrc = "Panaris avec composantes inflammatoire et collectée. Uwe Jendricke, Public domain, via Wikimedia Commons"
 rank = "ok"
+writing = "todo"
 flowchart = true
 +++
 
@@ -113,9 +114,9 @@ Recommandations générales de prise en charge du panaris:
 Bains antiseptiques de chlorhexidine 2 à 3 fois par jour
 {.alert .alert-info}
 
-Selon Prescrire®: Bains dans l'eau chaude 10-15 minutes x 3-4/j.  
-Antibioclic: Bains antiseptiques pluriquotidiens (x 2-3/j)  
-{{%class%}}type povidone iodée Bétadine®, hexamidine Hexomédine®, chlorhexidine aqueuse Biseptine®{{%/class%}}
+- Selon Prescrire®: bains dans l'eau chaude 10-15 minutes x 3-4/j
+- Selon Antibioclic: bains antiseptiques pluriquotidiens (x 2-3/j)  
+  {{%class%}}Type povidone iodée Bétadine®, hexamidine Hexomédine®, chlorhexidine aqueuse Biseptine®.{{%/class%}}
 
 ### Antibiothérapie ambulatoire
 
@@ -123,36 +124,33 @@ Indications au traitement antibiotique d'un panaris: immunodépression (diabète
 
 #### Antibiothérapie du panaris de l'adulte
 
-Pristinamycine ([Pyostacine®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63728481/extrait#tab-rcp)) 1g x 2-3/j pendant 7 jours (couvre le SARM)
-{.alert .alert-info}
-
-ou [cloxacilline](https://base-donnees-publique.medicaments.gouv.fr/medicament/65542326/extrait#tab-rcp) 50 mg/kg/j en 3 prises (max 4 g/j) 7 jours  
-ou amoxicilline/acide clavulanique 1g x 3/j 7 jours
+- ==Pristinamycine ([Pyostacine®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63728481/extrait#tab-rcp)) 1 g x 2-3/j pendant 7 jours== (couvre le SARM)
+- ou [cloxacilline](https://base-donnees-publique.medicaments.gouv.fr/medicament/65542326/extrait#tab-rcp) 50 mg/kg/j en 3 prises (max 4 g/j) 7 jours
+- ou amoxicilline/acide clavulanique 1 g x 3/j 7 jours
 
 #### Antibiothérapie du panaris de l'enfant
 
-Pristinamycine (Pyostacine®) 50 mg/kg/j x 2-3/j pendant 7 jours (couvre le SARM)
-{.alert .alert-info}
-
-ou cloxacilline 50 mg/kg/j en 3 prises (max 4g/j) 7 jours  
-ou amoxicilline/acide clavulanique 1 dose-kg x 3/j 7 jours (seul traitement avant 6 ans)
+- ==Pristinamycine (Pyostacine®) 50 mg/kg/j x 2-3/j pendant 7 jours== (couvre le SARM)
+- ou cloxacilline 50 mg/kg/j en 3 prises (max 4g/j) 7 jours
+- ou amoxicilline/acide clavulanique 1 dose-kg x 3/j 7 jours (seul traitement **avant 6 ans**)
 
 ### Prise en charge du panaris au stade collecté
 
-Exérèse simple par incision ou chirurgicale ambulatoire sous anesthésie locale/loco-régionale avec prélèvements bactériologiques en cas de complications.
+Le panaris au stade collecté non grave peut être traité par une simple **incision** avec drainage et désinfection.
 
-Cicatrisation en 2-3 semaines selon la taille initiale.  
-Pansement à changer tous les jours pendant 1 semaine puis toutes les 48 heures jusqu'à cicatrisation complète.
+Pour les formes avancées ou compliquées, la chirurgie ambulatoire avec excision sous anesthésie locale/loco-régionale avec prélèvements bactériologiques est recommandée.
+
+Cicatrisation en 2-3 semaines selon la taille initiale. **Pansement** à changer tous les jours pendant 1 semaine puis toutes les 48 heures jusqu'à cicatrisation complète.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge d'un panaris" "show" %}}
 
 {{< mermaid title="Prise en charge d'un panaris. Dr JB Fron d'après Collèges" >}}
 graph TB
-  diagnostic[Diagnostic de panaris] --> inflammatoire(Inflammatoire) --> bains(Bains antiseptiques x 3/j) --> immunodepression("Immunodépression,<br>valuvulopathie, diabète,<br>complication,<br>évolution défavorable ?") -- Oui --> ATB(Antibiothérapie<br>Pristinamycine 1g x 2-3/j 7 jours)
+  diagnostic[Diagnostic de panaris] --> inflammatoire(Inflammatoire) --> bains(Bains antiseptiques x 3/j) --> immunodépression("Immunodépression,<br>valvulopathie, diabète,<br>complication,<br>évolution défavorable ?") -- Oui --> ATB(Antibiothérapie<br>Pristinamycine 1g x 2-3/j 7 jours)
   style diagnostic stroke:#4150f5, stroke-width:1px
-  diagnostic --> collecte(Collecté) --> chir(Incision<br>voire drainage chirurgical)
-  diagnostic -- Diagnostic différentiel --> differentiel("- Pseudo-panaris herpétique<br>- Faux panaris d'Osler<br>- Psoriasis, eczéma")
+  diagnostic --> collecte(Collecté) --> chirurgie(Incision<br>voire drainage chirurgical)
+  diagnostic -- Diagnostic différentiel --> différentiel("- Pseudo-panaris herpétique<br>- Faux panaris d'Osler<br>- Psoriasis, eczéma")
 {{< /mermaid >}}
 
 {{% /collapse %}}
