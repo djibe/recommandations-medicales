@@ -323,7 +323,7 @@ Le << Quickstart >> ou démarrage à tout moment du cycle peut être proposé à
 
 - Contraception la moins chère (28,37 € pour 5 ans, Mirena 97€ pour 8 ans)
 - Le DIU ne contre-indique pas les AINS
-- Un antécédent de GEU n'est pas une contre-indication
+- Un antécédent de [GEU]({{% relref "grossesse-extra-uterine.md" %}}) n'est pas une contre-indication
 - Cotation CCAM
   - Pose du stérilet JKLD001 (38,40 €)
   - Ablation non cotée sauf remplacement du stérilet JKKD001 (38,40 €)
@@ -343,7 +343,7 @@ Le << Quickstart >> ou démarrage à tout moment du cycle peut être proposé à
   Le stérilet n'augmente pas le risque de progression du virus ni le risque de transmission au partenaire.
 
 {{%info%}}
-La contraception intra-utérine ne constitue pas un facteur de risque de grossesse extra-utérine (GEU)
+La contraception intra-utérine ne constitue pas un facteur de risque de grossesse extra-utérine (GEU).
 
 ---
 

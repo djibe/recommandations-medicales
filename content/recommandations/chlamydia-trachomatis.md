@@ -130,7 +130,7 @@ Signes et symptômes des infections à *Chlamydia trachomatis* selon le sexe.
   Leucorrhées jaunes/blanches, cystalgies (douleurs de vessie), syndrome urétral, dyspareunie, spotting post-coïtaux.
 - [Salpingite]({{% relref "infections-genitales-hautes.md" %}}) et douleurs pelviennes chroniques  
   Majoritairement subaiguë ou chronique, douleurs abdominales augmentées pendant les règles.
-- Grossesse extra-utérine
+- [Grossesse extra-utérine]({{% relref "grossesse-extra-uterine.md" %}}) (GEU)
 - [Infertilité]({{% relref "infertilite-couple.md" %}})
 
 ### Signes de Chlamydia chez l'homme

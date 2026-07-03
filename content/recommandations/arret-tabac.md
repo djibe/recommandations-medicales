@@ -157,7 +157,7 @@ Complications du tabagisme:
 - Complications périopératoires
 - Réduit la fertilité chez les deux sexes, les chances en AMP
 - Femmes: [ostéoporose]({{% relref "osteoporose.md" %}}), [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}}), AVC par contraception combinée
-- Grossesse: GEU x2 (35 % des GEU), fausse-couche précoce x3, MFIU (+47%), accouchement prématuré, RCIU et petit poids de naissance (-300g), augmente morbi-mortalité péri-natales, réduction des capacités scolaires et cognitives de l'enfant, malformations congénitales, allonge le délai de conception, aggrave l'effet d'âge sur la fécondité
+- Grossesse: [GEU]({{% relref "grossesse-extra-uterine.md" %}}) x2 (35 % des GEU), fausse-couche précoce x3, MFIU (+47%), accouchement prématuré, RCIU et petit poids de naissance (-300g), augmente morbi-mortalité péri-natales, réduction des capacités scolaires et cognitives de l'enfant, malformations congénitales, allonge le délai de conception, aggrave l'effet d'âge sur la fécondité
 - Hommes: [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}})
 - Tabagisme passif
   - IDM, AVC (x2), [cancer du poumon]({{% relref "cancer-poumon.md" %}}) (+25 % si conjoint fume) ou maladie respiratoire, cancer des sinus

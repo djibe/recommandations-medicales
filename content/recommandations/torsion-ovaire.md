@@ -64,7 +64,7 @@ Principales causes de torsion ovarienne:
 > [!WARNING]
 > La torsion de l'ovaire est une urgence gynécologique et un diagnostic chirurgical.
 
-Les symptômes d'une torsion ovarienne **ne sont pas spécifiques** et le diagnostic doit être évoqué en priorité avec la **grossesse extra-utérine** (GEU), **l'[infection génitale haute]({{% relref "infections-genitales-hautes.md" %}}) et l'[appendicite aiguë]({{% relref "appendicite-aigue.md" %}})** devant des douleurs pelviennes aiguës (DPA).
+Les symptômes d'une torsion ovarienne **ne sont pas spécifiques** et le diagnostic doit être évoqué en priorité avec la **[grossesse extra-utérine]({{% relref "grossesse-extra-uterine.md" %}})** (GEU), **l'[infection génitale haute]({{% relref "infections-genitales-hautes.md" %}}) et l'[appendicite aiguë]({{% relref "appendicite-aigue.md" %}})** devant des douleurs pelviennes aiguës (DPA).
 
 ### Interrogatoire
 

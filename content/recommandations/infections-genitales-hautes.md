@@ -31,7 +31,7 @@ modele = true
 - Prise en charge des suspicions d'endométrite et salpingite par antibiothérapie après la réalisation des prélèvements:
   - Traitement par ceftriaxone 1g IM dose unique, doxycycline 200 mg et métronidazole 1g pendant 10 jours
   - Réévaluation systématique sous 3 à 5 jours pour réévaluation de l'efficacité et des résultats PCR et microbiologiques
-  - Informer sur les risques de récidive, d'[infertilité]({{% relref "infertilite-couple.md" %}}) et de grossesse extra-utérine (GEU)
+  - Informer sur les risques de récidive, d'[infertilité]({{% relref "infertilite-couple.md" %}}) et de [grossesse extra-utérine]({{% relref "grossesse-extra-uterine.md" %}}) (GEU)
 - En cas de facteurs de risque ou de positivité des IST, dépistage des autres IST, de la santé sexuelle et du partenaire
 
 Chapitres liés: [IST](/tags/ist/), [infections à Chlamydia trachomatis]({{% relref "chlamydia-trachomatis.md" %}}), [papillomavirus]({{% relref "cancer-col-uterus.md" %}}) (HPV)
