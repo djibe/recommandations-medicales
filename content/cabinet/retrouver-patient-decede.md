@@ -8,20 +8,20 @@ description = "Outil officiel matchID pour retrouver la trace ou savoir si une p
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-11-27T19:23:00+02:00"
 publishdate = "2023-11-27"
-lastmod = "2025-02-18"
-annees = "2025"
+lastmod = "2026-07-05"
+annees = "2026"
 sources = []
 tags = []
 image = true
 imageSrc = "matchID"
 +++
 
-Il peut être difficile de retrouver des patients de sa propre patientèle. Pourtant un outil officiel très puissant permet de retrouver tout décès d'un citoyen.
+Il peut être difficile de retrouver des patients de sa propre patientèle. Pourtant un outil officiel très puissant permet de retrouver tout décès d'un citoyen, avec un mois de délai.
 {.lead .mb-5}
 
-## Retrouver un patient est décédé
+## Retrouver un patient décédé
 
-Entrer le nom du patient pour retrouver les données d'enregistrement de son décès. Pour les femmes mariées, utiliser leur nom de jeune fille (nom de naissance).
+Entrer le nom du patient pour retrouver les données d'enregistrement de son décès. Pour les femmes mariées, utiliser leur nom de naissance (de jeune fille).
 
 Des méthodes de recherche avancée sont disponibles sur le [site matchID](https://deces.matchid.io/search?advanced=true) du Ministère de l'Intérieur.
 

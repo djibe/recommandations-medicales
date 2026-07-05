@@ -34,7 +34,7 @@ flowchart = true
   - Traitement des comorbidités (HTA, insuffisance cardiaque, diabète, ...)
   - Évaluation du {{< modal-btn modal-chads >}}risque embolique - score CHA~2~DS~2~-VA{{< /modal-btn >}} et du risque hémorragique, {{< modal-btn modal-aod >}}anticoagulation{{< /modal-btn >}} à vie
   - Contrôle des symptômes, du rythme cardiaque ({{< modal-btn modal-bradycardisant >}}bêtabloquant, inhibiteur calcique ND, digoxine{{< /modal-btn >}}, FC < 110 bpm voire moins) et antiarythmique
-  - Sur avis spécialisé: cardioversion
+  - Sur avis spécialisé: cardioversion. Après cardioversion, l'anticoagulation est poursuivie selon le score CHA~2~DS~2~-VA
 - En cas de FA mal tolérée, appeler le SAMU. La découverte d'une FA nécessite un avis cardiologique rapide et une anticoagulation
 
 {{%/article-summary%}}
@@ -261,7 +261,8 @@ Recommandations générales pour la prise en charge de la fibrillation atriale (
   Contre-indication aux AINS et antithrombotiques (aspirine ou clopidogrel sauf coronaropathie pendant 12 mois).
 - **Contrôle du rythme** (voir chapitre suivant)  
   Cible < 110 bpm par {{< modal-btn modal-bradycardisant >}}BB ou digoxine ou ICND{{< /modal-btn >}}, voire moins en cas de symptômes persistants.
-- La **cardioversion** n'est pas abordée: cardiologue uniquement
+- La **cardioversion** n'est pas abordée: cardiologue uniquement  
+  L'anticoagulant est poursuivi selon le score CHA~2~DS~2~-VA.
 - Hypertension artérielle
   - Cible de la population générale (< 130/80): 120-129 / 70-79 mmHg
   - FC ≥ 80 bpm: {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} + BB > + ICa-DHP/thiazidique > + ICa-DHP + thiazidique
@@ -401,6 +402,7 @@ graph TB
 
 {{< youtube id="3HeRh1Q25kQ" title="Parcours de soin chez un patient avec Fibrillation Atriale (Fréquence Médicale)" >}}
 
+- [Goncette V. Arrêt versus poursuite de l'anticoagulation après ablation de fibrillation auriculaire ?. Minerva. 2026.](https://minerva-ebp.be/FR/Analysis/973)
 - [CBIP. Fibrillation auriculaire chez les personnes âgées : quelle prise en charge ?. Folia. 2025.](https://www.cbip.be/fr/articles/4606?folia=4601)
 - [Van Gelder IC, et al. 2024 ESC Guidelines for the management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS). Eur Heart J. 2024.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae176/7738779)
 - [Kreutz R, et al. 2024 European Society of Hypertension clinical practice guidelines for the management of arterial hypertension. Eur J Intern Med. 2024.](https://www.ejinme.com/article/S0953-6205(24)00238-3/fulltext)

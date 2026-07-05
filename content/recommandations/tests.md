@@ -24,6 +24,12 @@ chart = true
 slider = true
 +++
 
+| Marque | Modèle | Connexion | Prix (€) | Description | Évaluations (/5) | Liens |
+| --- | --- | --- | --- | --- | --- | --- |
+| Biocare | iE 10 | WiFi | 1000 | Écran 7 pouces, pinces des membres, analyse | 4,6+ | |
+| éolys | ECG-PC | Bluetooth, USB | 1900 | Petit boîtier, analyse | ? | [Notice](https://www.eolys.fr/attachment.php?id_attachment=371) |
+| Edan | SE-1515 DP12                                           |||||
+
 ## Plan action asthme {.mt-5}
 
 <div class="form-group text-center my-4">

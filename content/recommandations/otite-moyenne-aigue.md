@@ -212,10 +212,10 @@ style OMAP stroke:#4150f5, stroke-width:1px
   OMAP --> adulte("<b>Adulte</b>") --> atb
 {{< /mermaid >}}
 
-{{< card-link-external title="Quiz sur l'otoscopie" url="https://docs.google.com/forms/d/e/1FAIpQLSfPLdMfKAuKyrIQI0pWI8w-v72YwYRYjhjxXmJvJUHnH-7nrQ/viewform" subtitle="par MedQual" >}}
-
 {{% /collapse %}}
 {{%sources%}}
+
+{{< card-link-external title="Quiz sur l'otoscopie" url="https://docs.google.com/forms/d/e/1FAIpQLSfPLdMfKAuKyrIQI0pWI8w-v72YwYRYjhjxXmJvJUHnH-7nrQ/viewform" subtitle="par MedQual" >}}
 
 - [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Otite moyenne aiguë purulente de l'enfant. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/c_2722749/fr/choix-et-durees-d-antibiotherapies-otite-moyenne-aigue-purulente-de-l-enfant)

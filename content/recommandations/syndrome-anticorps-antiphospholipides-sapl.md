@@ -146,6 +146,7 @@ Indications aux HBPM à dose préventive:
 - Collège cardio, Med Int
 - HAS
 - [Arachchillage DJ, et al. Guidelines on the investigation and management of antiphospholipid syndrome. Br J Haematol. 2024.](https://onlinelibrary.wiley.com/doi/10.1111/bjh.19635)
+- <https://www.has-sante.fr/jcms/p_3375791/fr/syndrome-des-anti-phospholipides-de-l-adulte-et-de-l-enfant>
 - Prescrire
 - Cochrane
 - [Minerva](https://minerva-ebp.be/)
