@@ -1,43 +1,46 @@
 +++
 id = "0190e8c6-3edf-7ccc-aebc-dbe77efc7856"
 title = "Infections génitales de l'homme: urétrite et orchiépididymite"
-titleSeo = "Urétrite et orchiépididymite"
+titleSeo = "Infections génitales de l'homme: urétrite et orchiépididymite"
 prefix = "les "
 description = "Recommandations pour la prise en charge des infections génitales de l'homme: urétrite et orchiépididymite. PCR, ECBU, antibiothérapie ceftriaxone et doxycycline"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-01-17T11:25:20+01:00"
 publishdate = "2023-01-19"
-lastmod = "2026-02-16"
+lastmod = "2026-07-05"
 specialites = ["urologie"]
-annees = "2025"
+annees = "2026"
 sources = ["SPILF", "HAS", "EAU"]
 tags = ["HSH", "IST"]
-english = ["Urethritis", "epididymitis"]
+english = ["Urethritis", "epididymitis", "orchitis"]
 sctid = "128478005"
 icd10 = ["N49", "N49.9", "N34", "N45", "N45.9", "R36", "A54.0", "A54.1", "N51.1"]
 image = true
 imageSrc = "Infiltration des polynucléaires neutrophiles par les gonocoques. Vue au microscope avec coloration de Gram signant une urétrite gonococcique. CDC / Joe Millar, Public domain, via Wikimedia Commons"
+rank = "false"
+writing = "todo"
 todo = "SEO, Balanite et balano-posthite, dépistages Ct homme | neisseria meningitidis + entérococcus faecalis; avec abcès N45.0"
 +++
 
 {{%article-summary%}}
 
 - L'urétrite est une inflammation de l'urètre le plus souvent infectieuse, donnant des douleurs mictionnelles et/ou un écoulement purulent
-- L'orchi-épididymite est une infection sur le trajet des testicules, par infection sexuelle ou parfois par une bactérie digestive à partir de 35 ans
+- L'orchi-épididymite est une infection sur le trajet des testicules, par infection sexuelle ou par une bactérie digestive (à partir de 35 ans)
 - Prélèvements devant une suspicion d'infection génitale masculine: PCR urine premier jet *Chlamydia*, gonocoque et *M. genitalium*, prélèvement d'un écoulement urétral, ECBU sur urine de milieu de jet, frottis endo-urétral si absence de PCR ou PCR gonocoque+
-- Si gonocoque: demander une culture avec antibiogramme pour tout test PCR positif
-- Prise en charge de l'urétrite:
-  - À gonocoque: ceftriaxone 1g IM dose unique, préservatif minimum 7 jours, traitement des partenaires des 14 jours précédents et dépistage des 6 mois
+- En cas d'infection gonococcique: demander une culture avec antibiogramme pour toute PCR positive
+- La prise en charge de l'urétrite dépend du germe:
+  - À gonocoque: ceftriaxone 1 g IM dose unique, préservatif minimum 7 jours, traitement des partenaires des 14 jours précédents et dépistage des 6 mois
   - À Chlamydia: doxycycline 100 mg x 2/j pendant 7 jours
-- Prise en charge de l'orchi-épididymite
+- La prise en charge de l'orchi-épididymite associe:
   - Toujours évoquer une torsion du testicule chez le jeune
-  - Ceftriaxone 1g IM dose unique  
+  - IST probable: ceftriaxone 1 g IM dose unique  
     \+ doxycycline 200 mg x 2/j à J1 puis 100 mg x 2/j pendant 10 jours
-  - Préservatif minimum 7 jours, notification des partenaires des 6 mois
-  - Faible suspicion de gonococcie: ciprofloxacine 500 mg x 2/j pendant 10 jours
+  - \+ préservatif pendant minimum 7 jours, notification des partenaires des 6 derniers mois
+  - En cas de faible suspicion de gonococcie: ceftriaxone 1 g/j ou ciprofloxacine 500 mg x 2/j ou lévofloxacine en attendant les résultats des prélèvements
+  - Consultation dès l'obtention des résultats
 - Consultation de contrôle à J7 avec les résultats
-- Bilan des autres [infections sexuellement transmissibles (IST)](/tags/ist/) et port du préservatif
+- Bilan des autres [infections sexuellement transmissibles (IST)](/tags/ist/) et protection par préservatif
 
 Chapitres liés: [infection urinaire de l'homme]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}), [hommes ayant des rapports avec des hommes]({{% relref "hsh.md" %}})
 
@@ -47,6 +50,9 @@ Chapitres liés: [infection urinaire de l'homme]({{% relref "infection-urinaire-
 EAU
 : Association européenne d'urologie ({{%lang%}}European Association of Urology{{%/lang%}})
 
+FQ
+: fluoroquinolone
+
 HAS
 : Haute Autorité de Santé
 
@@ -55,6 +61,9 @@ IST
 
 PNN
 : polynucléaire neutrophile (globule blanc)
+
+SPILF
+: Société de pathologie infectieuse de langue française
 
 UNG
 : urétrite non gonococcique
@@ -71,8 +80,9 @@ Urétrite
 
 ### Symptômes de l'urétrite
 
-- Incubation variable (gonocoque 4-6 jours)
-- Écoulement urétral (jaune ou blanchâtre) purulent, séreux voire hémorragique
+- Durée d'incubation variable  
+  Gonocoque: 4-6 jours.
+- **Écoulement urétral** (jaune ou blanchâtre) purulent, séreux voire hémorragique
 - Dysurie, brûlures mictionnelles
 - Prurit urétral
 - Auto-contamination: [conjonctivite]({{% relref "conjonctivite.md" %}}), pharyngite, proctite
@@ -118,7 +128,7 @@ Antibiothérapie probabiliste de l'urétrite sans attendre l'antibiogramme.
 
 Gonocoque:
 
-- [ceftriaxone 1g IM](https://base-donnees-publique.medicaments.gouv.fr/medicament/62676989/extrait#tab-rcp) dose unique*
+- [ceftriaxone 1 g](https://base-donnees-publique.medicaments.gouv.fr/medicament/62676989/extrait#tab-rcp) IM dose unique*
 - préservatif minimum 7 jours
 - traitement des partenaires des 14 jours précédents, dépistage des 6 mois précédents
 
@@ -138,9 +148,9 @@ Chlamydia: [doxycycline 100 mg](https://base-donnees-publique.medicaments.gouv.f
 
 Attendre la PCR pour une antibiothérapie guidée en cas de symptômes légers.
 
-Ceftriaxone 1g IM dose unique
+Ceftriaxone 1 g IM dose unique
 
-\+ azithromycine 1g dose unique
+\+ azithromycine 1 g dose unique
 
 > Voir l'onglet *Par Germe* en cas d'autre germe.
 
@@ -160,7 +170,7 @@ Après azithromycine: moxifloxacine 400 mg pendant 7 à 14 jours
 Traitement probabiliste dès les prélèvements effectués puis réévaluation avec les résultats.
 
 Traitement anti-*Chlamydia*: doxycycline 100 mg x 2/j pendant 7 jours  
-OU azithromycine 1g dose unique
+OU azithromycine 1 g dose unique
 
 \+ anti-gonocoque si écoulement urétral: Ceftriaxone 500 mg IM dose unique
 
@@ -174,7 +184,7 @@ Traitement par germe selon *EAU 2024*:
     OU azithromycine 1 - 1,5 g dose unique
   - Voire lévofloxacine 500 mg x 1/j ou ofloxacine 200 mg x 2/j pendant 7 jours
 - Gonocoque
-  - Ceftriaxone 1g IM + azithromycine 1g doses uniques
+  - Ceftriaxone 1 g IM + azithromycine 1 g en dose unique
 - *Mycoplasma genitalium*
   - À rechercher en cas de persistance après traitement d'une urétrite non gonococcique (UNG)
   - Azithromycine 500 mg J1 puis 250 mg pendant 4 jours
@@ -201,10 +211,10 @@ Mesures associées aux urétrites:
 
 - **Consultation de contrôle à J7**: contrôle clinique de la guérison, résultats des IST et prévention
 - Gonocoque:
-  - Au retour d'Asie-Pacifique: culture, ceftriaxone 1g IM + azithromycine 1g avec 2e prise 6 heures après
-  - Si allergie confirmée aux bêta-lactamines: gentamicine 240 mg IM  
+  - Au retour d'Asie-Pacifique: culture, ceftriaxone 1 g IM + azithromycine 1 g avec 2^e^ prise 6 heures après
+  - Si allergie prouvée aux bêta-lactamines: gentamicine 240 mg IM  
     Si CMI ciprofloxacine < 0,06 mg/L: ciprofloxacine 500 mg dose unique.
-  - Si troubles de coagulation: ceftriaxone 1g IV  
+  - Si troubles de coagulation: ceftriaxone 1 g IV  
     Voire ciprofloxacine si CMI < 0,06 mg/L; forme urogénitale ou rectale: céfixime 400 mg dose unique si CMI ≤ 0,125 mg/L
 - Si persistance des symptômes après 72 heures: consultation de contrôle avec les résultats
 - Si VIH: traitement identique
@@ -224,7 +234,7 @@ La ceftriaxone ne doit pas être injectée par voie sous-cutanée. L'injection I
 {{%collapse "Épididymite et orchi-épididymite" %}}
 
 > [!WARNING]
-> Toujours évoquer une torsion du testicule chez le jeune (urgence chirurgicale).
+> Toujours évoquer une torsion du testicule chez le sujet jeune (urgence chirurgicale).
 
 Orchiépididymite
 : Inflammation (douleur, œdème et chaleur locale) souvent infectieuse de l'épididyme et du testicule. Elle complique une urétrite non traitée (symptomatique ou non). Dans la forme chronique, évoquer une [tuberculose]({{% relref "tuberculose.md" %}}) en cas d'origine de pays endémique.
@@ -234,20 +244,31 @@ L'étiologie de l'orchi-épididymite dépend de l'âge:
 - Homme jeune: [IST](/tags/ist/) par *[Chlamydia trachomatis]({{% relref "chlamydia-trachomatis.md" %}})* le plus souvent, gonocoque (*N. gonorrhoeae*) ou *Mycoplasma genitalium* et les entérobactéries (surtout *E. coli*, par infection urinaire ou sexe anal)
 - Homme +35 ans: entérobactéries (surtout *E. coli*) par [infection urinaire]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}) ou geste urologique
 
-Traiter un tableau de prostatite à l'identique.
+### Symptômes de l'orchiépididymite
+
+Symptômes d'installation aiguë:
+
+- Douleur, œdème et chaleur scrotale spontanée ou provoquée (épididymaire ou testiculaire)
+- ± Écoulement urétral
+- ± Hydrocèle
+- Signes généraux possibles: fièvre
+- Signes de gravité: sepsis, obstruction urinaire, décompensation d'une comorbidité, fragilité, hyperalgie, voie orale impossible
 
 ### Examens complémentaires de l'orchiépididymite
 
 Prélèvements au laboratoire:
 
-- PCR urine premier jet *Chlamydia* et gonocoque  
+- **PCR urine** premier jet *Chlamydia* et gonocoque  
   Compléter avec *Mycoplasma genitalium* si négative.
 - ou frottis endo-urétral à la recherche de gonocoque
-- Prélèvement d'un écoulement urétral
-- ECBU sur urine de milieu de jet
+- **Prélèvement** d'un écoulement urétral
+- **ECBU** sur urine de milieu de jet  
+  La clinique l'emporte sur les seuils de leucocyturie > 30 x 10^6^ et germe unique ≥ 10^3^ UFC/mL.
 - ± Bilan des autres [infections sexuellement transmissibles (IST)](/tags/ist/)
 
-Gonocoque: culture et antibiogramme systématiques.
+En cas de test positif à gonocoque: culture et antibiogramme systématiques.
+
+Indications à l'**échographie scrotale**: doute diagnostique, suspicion d'abcès, fièvre persistante ou aggravation locale après 72 heures d'antibiothérapie adaptée.
 
 ### Prise en charge de l'épididymite et de l'orchiépididymite
 
@@ -256,7 +277,10 @@ Antibiothérapie probabiliste de l'orchi-épididymite selon les différentes rec
 <div class="card card-hover my-3 mb-xl-5 mw-640">
   <ul class="nav nav-tabs nav-justified" id="tabs-orchiepididymite" role="tablist">
   <li class="nav-item" role="presentation">
-    <button aria-controls="has-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#has-panel" id="has-tab" type="button" role="tab">HAS 2025</button>
+    <button aria-controls="spilf-panel" aria-selected="true" class="nav-link active" data-toggle="tab" data-target="#spilf-panel" id="spilf-tab" type="button" role="tab">SPILF 2026</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button aria-controls="has-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#has-panel" id="has-tab" type="button" role="tab">HAS 2025</button>
   </li>
   <li class="nav-item" role="presentation">
     <button aria-controls="eau-panel" aria-selected="false" class="nav-link" data-toggle="tab" data-target="#eau-panel" id="eau-tab" type="button" role="tab">EAU 2024</button>
@@ -266,11 +290,42 @@ Antibiothérapie probabiliste de l'orchi-épididymite selon les différentes rec
     </li>
   </ul>
   <div class="card-body tab-content">
-  <div aria-labelledby="has-tab" class="tab-pane fade show active" id="has-panel" role="tabpanel">
+  <div aria-labelledby="spilf-tab" class="tab-pane fade show active" id="spilf-panel" role="tabpanel">
+
+> [!WARNING]
+> Ces recommandations concernent les infections à germe non sexuellement transmissible. Pour les gonocoque, *Chlamydia*, *Mycoplasma genitalium*, voir *HAS 2025*.
+
+Traitement probabiliste de l'orchi-épididymite après les prélèvements:
+
+- [Ceftriaxone 1 g](https://base-donnees-publique.medicaments.gouv.fr/medicament/62676989/extrait#tab-rcp) x 1/j IM
+- Ou ciprofloxacine 500 mg x 2/j ou lévofloxacine 500 mg x 1/j  
+  En l'absence de FQ dans les 6 mois, de troubles digestifs et de mauvaise observance.
+
+Adaptation au germe dès que possible, selon sa sensibilité, avec pour choix préférentiel, pour une durée totale de ==**10 jours**==:
+
+1. **Cotrimoxazole** 800/160 mg ([Bactrim Forte](https://base-donnees-publique.medicaments.gouv.fr/medicament/64121235/extrait#tab-rcp)) x 2/j
+2. Fluoroquinolone
+    - ciprofloxacine 500 mg x 2/j
+    - ou lévofloxacine 500 mg x 1/j
+    - ou ofloxacine 200 mg x 2/j
+3. Bêtalactamine
+    1. amoxicilline 1 g x 3/j
+    2. amoxicilline/acide clavulanique 1 g x 3/j
+    3. céfixime 200 mg x 2/j
+4. Uropathogène résistant ou contre-indication
+    - Céfotaxime ou ceftriaxone 1 g
+    - Avis infectiologique hospitalier pour hospitaliser en cas d'entérobactéries résistantes aux C3G
+
+**NB.** En l'absence de documentation: poursuivre le traitement probabiliste ou considérer un relai oral (cotrimoxazole ou FQ).
+
+> -- *SPILF 2026*
+
+  </div>
+  <div aria-labelledby="has-tab" class="tab-pane fade" id="has-panel" role="tabpanel">
 
 Gonocoque:
 
-- ceftriaxone 1g IM dose unique
+- ceftriaxone 1 g IM dose unique
 - préservatif minimum 7 jours
 - dépistage des partenaires des 6 derniers mois
 
@@ -287,7 +342,7 @@ En l'absence de risque d'IST, voir *SFD 2016*.
 </div>
 <div aria-labelledby="eau-tab" class="tab-pane fade" id="eau-panel" role="tabpanel">
 
-Ceftriaxone 1g IM dose unique  
+Ceftriaxone 1 g IM dose unique  
 \+ doxycycline 200 mg dose unique à J1 puis 100 mg x 2/j pendant 10 à 14 jours
 {.alert .alert-info .mb-5}
 
@@ -314,9 +369,9 @@ Mesures associées au traitement de l'orchiépididymite:
 
 - Tableau très aigu: réévaluation à 72 heures voire hospitalisation
 - Gonocoque:
-  - Au retour d'Asie-Pacifique: culture, ceftriaxone 1g IM + azithromycine 1g avec 2e prise 6 heures après
+  - Au retour d'Asie-Pacifique: culture, ceftriaxone 1 g IM + azithromycine 1 g avec 2e prise 6 heures après
   - Si allergie confirmée aux bêta-lactamines: gentamicine 5 mg/kg IV dose unique
-  - Si troubles de coagulation: ceftriaxone 1g IV
+  - Si troubles de coagulation: ceftriaxone 1 g IV
 - Chlamydia:
   - Antibiothérapie de 2^e^ intention: azithromycine 1 g à J1 et J7
   - En 3^e^ intention: ofloxacine 200 mg x 2/j pendant 7 jours  
@@ -334,6 +389,7 @@ Antibiothérapie adaptée pour le sujet plus âgé et explorations urologiques e
 {{% /collapse %}}
 {{%sources%}}
 
+- [Lafaurie M, et al. Updated guidelines for management of community-acquired urinary tract infections in adult men by the French infectious disease society (SPILF). Infectious Diseases Now. 2026.](https://www.sciencedirect.com/science/article/pii/S2666991926000692)
 - [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [Sauvage C, et al. Prévalence de l'infection à Chlamydia trachomatis, Neisseria gonorrhoeae et Mycoplasma genitalium chez les femmes et les hommes de 18-59 ans, en France hexagonale, enquête PrévIST. Bull Epidemiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/19-20/2025_19-20_5.html)
 - [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
