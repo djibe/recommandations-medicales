@@ -30,7 +30,7 @@ slider = true
 - Après ce bilan initial, déterminer le risque cardiovasculaire (au moins élevé en cas de maladie cardiovasculaire ou déterminé par le SCORE2). Ce risque (de faible à extrême) doit être incrémenté ou affiné par le cardiologue en cas de facteur aggravant (VIH, obésité, maladie inflammatoire ...)
 - La présence d'une maladie cardiovasculaire -- ou le résultat du SCORE2 en prévention primaire -- détermine la cible de LDL et les traitements correspondant au niveau de risque (contrôle des facteurs de risque, mode de vie, statine)
 - Une statine est le traitement de référence de la dyslipidémie en cas de risque cardiovasculaire marqué. Sa titration est rapide jusqu'à l'atteinte des cibles de réduction du LDL et du taux de LDL (avec ajout d'ézétimibe ou autres si nécessaire)
-- Le suivi spécialisé cardiologique est systématique en cas de risque cardiovasculaire marqué, de cible lipidique non atteinte ou d'interrogation sur le risque cardiovasculaire
+- Le suivi spécialisé cardiologique est systématique en cas de risque cardiovasculaire élevé, de cible lipidique non atteinte ou d'interrogation sur le risque cardiovasculaire
 
 Chapitres liés: [SCORE2]({{% relref "score2.md" %}}), [statines]({{% relref "statines.md" %}}), [hypertriglycéridémie]({{% relref "hypertriglyceridemie.md" %}})
 
@@ -108,6 +108,11 @@ Le risque cardiovasculaire doit être réévalué régulièrement.
 
 {{% /collapse %}}
 {{%collapse "Prévention primaire - SCORE2 et SCORE2-OP" %}}
+
+> [!INFO]
+> L'arrêt du tabac, une tension < 140 mmHg (130 mmHg avant 70 ans si bien tolérée) et un LDL < 1,16 g/L est la cible de prévention à tous les âges.
+
+Le SCORE2 est également disponible sur [une page dédiée]({{% relref "score2.md" %}}).
 
 {{< scores/score2 >}}
 
