@@ -9,9 +9,9 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr P. DELOBEL (CMIT)"
 date = "2022-05-30T10:49:36+02:00"
 publishdate = "2022-05-30"
-lastmod = "2024-09-05"
+lastmod = "2026-07-08"
 specialites = ["infectiologie", "thérapeutique"]
-annees = "2024"
+annees = "2025"
 sources = ["HAS", "CNS", "ANSM"]
 tags = ["HSH", "IST", "prévention", "VIH"]
 english = ["Treatment as Prevention (TasP)"]
@@ -29,15 +29,14 @@ todo = "flowchart; gitgraph: Continu femme, Schéma continu homme, Schéma disco
 
 - Toutes les personnes exposées au VIH sont éligibles à la prophylaxie pré-exposition (PrEP) du VIH et doivent en être informées
 - La PrEP est gratuite, bien tolérée et prescriptible par tout médecin. Elle protège du [VIH]({{% relref "vih-sida.md" %}}) mais pas des autres [infections sexuellement transmissibles](/tags/ist/): encourager le préservatif
-- Vérifier les rares contre-indications et réaliser le bilan pré-thérapeutique (voir chapitres dédiés): [check-list ANSM pour le prescripteur (PDF)](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-checklist-pds-version3-2021-juin.pdf)
-- Prescription initiale de l'emtricitabine/tenofovir disoproxil 200/245 mg (Truvada®, certains gén) limitée à 1 mois avec sérologie VIH de moins de 15 jours, puis tous les 3 à 6 mois
+- Vérifier les rares contre-indications et réaliser le bilan pré-thérapeutique (voir *Bilan pré-thérapeutique*)
+- Prescription initiale de l'emtricitabine/tenofovir disoproxil 200/245 mg (Truvada®, certains gén) limitée à 1 mois avec sérologie VIH de moins de 15 jours (et le reste du bilan pré-thérapeutique), puis tous les 3 à 6 mois
 - Schéma continu
   - Initiation chez l'homme: 2 cp en 1 prise de 2 à 24h avant le rapport à risque
   - Initiation chez la femme: délai de 7 jours avant le 1^er^ rapport sexuel à protéger
   - ensuite Truvada® 1 cp/j à heure fixe pendant le repas
-- ou **schéma discontinu** uniquement en l'absence de VHB chez les HSH (ou transgenre avec sexe anal uniquement):
-  Truvada® 2 cp en 1 prise 2 à 24 heures avant le rapport à protéger, puis 1 cp 24 et 48h après la double prise
-- Arrêt du traitement: 1 cp/j pendant 2 jours après le dernier rapport non protégé puis arrêt
+- ou **schéma discontinu** uniquement en l'absence de VHB chez les HSH ou transgenre avec sexe anal uniquement:
+  Truvada® 2 cp en 1 prise 2 à 24 heures avant le rapport à protéger, puis 1 cp 24 et 48h après la double dose
 - Une PrEP injectable mensuelle est également disponible (cabotégravir)
 - En cas d'oubli de la PrEP, un traitement post-exposition pendant un mois est possible avec reprise de la PrEP à l'issue
 - Applis pour l'aide à l'observance (My PrEP ..., voir *Resources patients*)
@@ -118,7 +117,7 @@ Tout sujet de plus de 12 ans:
 La PrEP n'est pas indiquée pour le conjoint d'un couple stable exclusif avec charge virale VIH indétectable régulièrement contrôlée.
 {.alert .alert-info}
 
-Possible si: [infection hépatite B]({{% relref "hepatite-b.md" %}}) (avis de l'hépatologue), grossesse ou allaitement avec suivi coordonné, [contraception hormonale]({{% relref "contraception.md" %}}).
+La PrEP est possible en cas de: [hépatite B active]({{% relref "hepatite-b.md" %}}) sur avis de l'hépatologue (schéma continu), **grossesse** ou **allaitement** avec suivi coordonné, [contraception hormonale]({{% relref "contraception.md" %}}).
 
 {{% /collapse %}}
 {{%collapse "Contre-indications à la PrEP" %}}
@@ -165,7 +164,7 @@ Bilan avant l'instauration de la PrEP, en l'absence de suspicion de primo-infect
 > [!WARNING]
 > Ne pas prescrire la PrEP en cas de suspicion de primo-infection VIH.
 
-La PrEP est très bien tolérée. La prescription initiale est possible avec une **sérologie VIH de moins de 15 jours (et créatinine)** pour une durée initiale d'un mois [check-list ANSM (PDF) pour le médecin prescripteur](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-checklist-pds-version3-2021-juin.pdf). Puis **renouvellement tous les 2 à 6 mois**.
+La PrEP est très bien tolérée. La prescription initiale est possible avec une **sérologie VIH de moins de 15 jours (ALAT, créatinine)** pour une durée initiale d'un mois [check-list ANSM (PDF) pour le médecin prescripteur](https://ansm.sante.fr/uploads/2021/07/05/emtricitabine-et-tenofovir-disoproxil-checklist-pds-version3-2021-juin.pdf). Puis **renouvellement tous les 2 à 6 mois**.
 
 ### Ordonnance initiale de PrEP
 
@@ -185,29 +184,30 @@ Homme ou femme transgenre.
 
 #### Schéma continu
 
+Privilégier en cas de prise d'hormones féminisantes.
+
 - [Truvada®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69481664/extrait#tab-rcp-et-notice) (ou générique avec AMM) 2 cp en 1 prise entre 2 et 24h avant le rapport à protéger
 - Puis 1 cp/j à heure fixe pendant le repas en continu
-- Arrêt possible 2 jours après le dernier rapport à protéger
+- Arrêt possible 7 jours après le dernier rapport à protéger
 
 #### Schéma à la demande
 
-**NB.** Schéma non praticable en cas d'hépatite B active.
+Schéma **réservé** aux hommes cisgenres ou personnes transgenres avec des relations anales exclusives (et sans hépatite B active).
 
 - Truvada® 2 cp en 1 prise entre 2 et 24 heures avant le rapport à protéger (H0)
-- Puis 1 cp à H24 (± 2h) après la double prise
-- Reprendre 1 cp à H48
-- En cas de rapports répétés: poursuivre à 1 cp/j jusqu'à 2 jours après le dernier rapport
+- Puis 1 cp 24 heures (± 2h) après la dose initiale (H24)
+- Reprendre 1 cp 48 heures (± 2h) après la dose initiale (H48)
+- En cas de rapports répétés: poursuivre à 1 cp/j jusqu'à 48 heures après le dernier rapport
 
 </div><!-- No more than 2-spaces indentation to prevent code block declaration -->
 <div aria-labelledby="prep-f-tab" class="tab-pane fade" id="prep-f" role="tabpanel">
 
-[Truvada®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69481664/extrait#tab-rcp-et-notice) 1 cp/j à heure fixe pendant le repas en continu.
-
-Délai de **7 jours avant le premier rapport sexuel à protéger**.
+- [Truvada®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69481664/extrait#tab-rcp-et-notice) 2 cp en 1 prise le 1^er^ jour
+- Puis 1 cp/j
+- Délai de **7 jours avant le premier rapport sexuel à protéger**.
+- Arrêt possible 7 jours après le dernier rapport à protéger
 
   </div>
-
-Pour arrêter la PrEP: après le dernier rapport à risque, prendre 1cp 24h après puis 2^e^ cp 48h après puis arrêter.
 
 Traitement ==initial pour 30 jours== puis renouvellements tous les **2 à 6 mois**.
 
@@ -228,39 +228,44 @@ Autres éléments sur la prophylaxie pré-exposition:
 
 **NB.** En l'absence d'assurance maladie, le traitement est **gratuit** dans les {{< references/cegidd >}}.
 
-Applis pour l'aide à la prise du traitement: [My PrEP](https://myprep.app).
+Appli pour l'aide à la prise du traitement: [My PrEP](https://myprep.app).
 
-### Schéma continu de la PrEP
+### Schéma continu oral de la PrEP
 
 {{%info%}}
 
 [Emtricitabine/Ténofovir disoproxil 200/245 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/69481664/extrait#tab-rcp-et-notice) (Truvada® ou gén avec AMM) 1 cp/j à heure fixe pendant le repas.
 
-- **Femme: délai de 7 jours avant le premier rapport sexuel à protéger**
-- Homme: 2 cp en 1 prise entre 2 et 24h avant le rapport à protéger puis 1 cp/j à heure fixe pendant le repas
+Pour toute personne: débuter avec 2 cp le 1^er^ jour puis continuer avec 1 cp par jour à heure fixe. La protection des rapports vaginaux réceptifs n'est assurée qu'après 7 jours de traitement.
 {{%/info%}}
 
-### Schéma discontinu dit à la demande de la PrEP (hors AMM)
+### Schéma discontinu oral, dit à la demande de la PrEP
 
-Proposer chez l'homme hors hépatite B:
+Uniquement chez l'homme cisgenre ou la personne transgenre ayant des relations anales exclusives (sauf hépatite B chronique).
 
 {{%info%}}
 [Emtricitabine/Ténofovir disoproxil 200/245 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/69481664/extrait#tab-rcp-et-notice) (Truvada®)  
 2 cp en 1 prise entre 2 et 24 heures avant le rapport à protéger (H0),  
-puis 1 cp à H24 (± 2h) après la double prise, à renouveler à H48 (± 2h).
+puis 1 cp 24 heures (± 2h) après la première dose, à renouveler 48 heures après la première dose (± 2h).
 {{%/info%}}
 
-**En cas de rapports répétés:** poursuivre à 1 cp/j jusqu'à 2 jours après le dernier rapport.
+**En cas de rapports répétés:** poursuivre avec 1 cp/j jusqu'à 2 jours après le dernier rapport.
 
 ### La PrEP injectable d'action prolongée
 
-La PrEP par cabotégravir (CAB-LP, [Apretude®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62595850/extrait#tab-rcp-et-notice)) est disponible en 2^e^ intention en cas de nécessité d'une prise de longue durée ou de contre-indication au ténofovir (insuffisance rénale < 50 mL/min/1,73m²)
+La PrEP par ==**cabotégravir**== d'action prolongée par voie injectable (CAB-LP, [Apretude®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62595850/extrait#tab-rcp-et-notice)) est disponible en 2^e^ intention en cas de nécessité d'une prise de longue durée ou de contre-indication au ténofovir (insuffisance rénale < 50 mL/min/1,73m²).
+
+La prescription initiale nécessite la recherche de la **charge virale VIH**.
+
+Elle débute avec une dose de charge de 2 injections IM espacées d'1 mois (M0-M1), ensuite poursuivie tous les 2 mois (M3, M5, M7 ...) avec un délai de ± 7 jours pour les dates d'injections.
 
 ### Arrêt de la PrEP
 
-Rappeler l'importance du préservatif et des dépistages répétés des IST.
+Rappeler l'importance du **préservatif** et des dépistages répétés des infections sexuellement transmissibles (**IST**).
 
-Quel que soit le schéma: poursuivre 1 cp par jour pendant **2 jours** après le dernier rapport non protégé puis arrêt.
+- Schéma continu oral: poursuivre 7 jours après le dernier rapport
+- Schéma discontinu oral: poursuivre 48 heures (2 jours) après le dernier rapport
+- Schéma injectable: avis spécialisé
 
 {{% /collapse %}}
 {{%collapse "Suivi de la PrEP" %}}
@@ -278,6 +283,10 @@ Le suivi du patient avec PrEP est nécessaire tous les 2 à 6 mois. Le suivi est
 
 > Sites de dépistage des IST gonocoque + *Chlamydia* selon les pratiques  
 *Sérologie syphilis recommandée par l'EADV, sérologie VHC plus fréquente si UDI, chemsex ou pratiques traumatisantes
+
+### Suivi particulier sous cabotégravir
+
+Suivi rapproché avec la particularité suivante: **charge virale** à M1, puis tous les 2 mois jusqu'à la 5e injection (M7), puis tous les 4 mois.
 
 {{% /collapse %}}
 {{%collapse "Ressources patients" %}}
@@ -299,45 +308,44 @@ Collection de différents supports d'informations sur la PrEP à remettre au pat
 {{% /collapse %}}
 {{%collapse "Prise en charge avec la PrEP" "show" %}}
 
-{{< mermaid title="Instauration de la PrEP en continu chez la femme. Dr JB Fron d'après HAS 2024" >}}
+{{< mermaid title="Instauration de la PrEP orale en continu chez la femme. Dr JB Fron d'après HAS 2025" >}}
 %%{init: { 'gitGraph': { 'showBranches': false, 'mainBranchName': 'Femme en continu' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
 gitGraph
-  commit id: "J1" tag: "Initiation"
-  commit id: "J2"
-  commit id: "J3"
-  commit id: "J4"
-  commit id: "J5"
-  commit id: "J6"
-  commit id: "J7"
-  commit id: "J8" tag: "1er rapport" type: REVERSE
+  commit id: "J1: 2 cp" tag: "Initiation"
+  commit id: "J2: 1 cp"
+  commit id: "J3: 1 cp"
+  commit id: "J4: 1 cp"
+  commit id: "J5: 1 cp"
+  commit id: "J6: 1 cp"
+  commit id: "J7: 1 cp"
+  commit id: "J8: 1 cp" tag: "Rapport" type: REVERSE
   commit id: "1 cp/j" tag: "Poursuite"
 {{< /mermaid >}}
 
-{{< mermaid title="Instauration de la PrEP en continu avec démarrage immédiat (homme uniquement). Dr JB Fron d'après HAS 2024" >}}
+{{< mermaid title="Instauration de la PrEP orale en continu avec démarrage immédiat (homme cisgenre ou trans avec rapports anaux). Dr JB Fron d'après HAS 2025" >}}
 %%{init: { 'gitGraph': { 'showBranches': false }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
 gitGraph
-  commit id: "H0" tag: "2 cp"
-  commit id: "H2-H24" tag: "1er rapport" type: REVERSE
+  commit id: "H-24 à H-2" tag: "2 cp"
+  commit id: "H0" tag: "Rapport" type: REVERSE
   commit id: "H24" tag: "1 cp"
   commit id: "Ensuite" tag: "1 cp/j"
+  commit id: "..." tag: "1 cp/j"
 {{< /mermaid >}}
 
-{{< mermaid title="Utilisation de la PrEP en schéma discontinu (homme/femme transgenre uniquement hors VHB actif). Dr JB Fron d'après HAS 2024" >}}
-%%{init: { 'gitGraph': { 'mainBranchName': '' }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
+{{< mermaid title="Utilisation de la PrEP orale en schéma discontinu (homme cisgenre/femme transgenre uniquement hors VHB actif ou hormones féminisantes). Dr JB Fron d'après HAS 2025" >}}
+%%{init: { 'gitGraph': { 'showBranches': false }, 'themeVariables': { 'git0' : '#e87500', 'tagLabelBackground': '#FFF2E1', 'tagLabelBorder': '#fff' }}}%%
 gitGraph
-  commit id: "T0" tag: "2 cp"
-  commit id: "H2-H24" tag: "Rapport" type: REVERSE
-  commit id: "T0 + 24h" tag: "1 cp"
-  commit id: "T0 + 48h" tag: "1 cp"
+  commit id: "H-24 à H-2" tag: "2 cp"
+  commit id: "H0" tag: "Rapport" type: REVERSE
+  commit id: "H24" tag: "1 cp"
+  commit id: "H48" tag: "1 cp"
 {{< /mermaid >}}
-
-> 2 cp de 2 à 24h avant le rapport puis 1 cp 24 heures après cette double prise, 4^e^ cp 24h après la 2^e^ prise. En cas de rapports répétés, poursuivre 1 cp/j avec arrêt 2 jours après le dernier rapport sexuel.
 
 {{% /collapse %}}
 {{%sources%}}
 
 - [Améli Médecin. Utilisation de la PrEP : des initiations stabilisées mais une diffusion encore incomplète. 27/11/2025.](https://www.ameli.fr/medecin/actualites/utilisation-de-la-prep-des-initiations-stabilisees-mais-une-diffusion-encore-incomplete)
-- [HAS, ANRS, CNS. Traitement préventif pré-exposition de l'infection par le VIH. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3536524/fr/traitement-preventif-pre-exposition-de-l-infection-par-le-vih)
+- [HAS, ANRS, CNS. Traitement préventif pré-exposition de l'infection par le VIH. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/p_3536524/fr/traitement-preventif-pre-exposition-de-l-infection-par-le-vih)
 - [HAS. APRETUDE (cabotégravir). Avis sur les médicaments. 2024.](https://www.has-sante.fr/jcms/p_3526084/fr/apretude-cabotegravir-vih-/-prep)
 - [Chou R et al. Preexposure Prophylaxis for the Prevention of HIV: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2023.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prevention-of-human-immunodeficiency-virus-hiv-infection-pre-exposure-prophylaxis)
 - Ameli Médecin. Forte augmentation de la prescription de la PrEP en ville par des médecins généralistes. 29/11/2022.
