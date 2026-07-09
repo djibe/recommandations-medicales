@@ -8,7 +8,7 @@ synonyms = ["Fièvre amarile", "typhus amaril", "vomito negro"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-12T08:55:00+02:00"
 publishdate = "2021-02-12"
-lastmod = "2026-05-03"
+lastmod = "2026-07-09"
 specialites = ["infectiologie"]
 annees = "2026"
 sources = ["MinSanté", "HCSP"]
@@ -127,8 +127,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- {{< references/calendrier-vaccinal >}}
 - {{< references/voyageur >}}
+- {{< references/calendrier-vaccinal >}}
 - [Ministère de la Santé. Fièvre jaune. 2024.](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/la-fievre-jaune)
 - [Ministère de la Santé. Liste des centres de vaccination habilités à effectuer la vaccination contre la fièvre jaune (anti-amarile). Janvier 2024.](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination-fievre-jaune)
 - [OMS. Fièvre jaune. 31/05/2023.](https://www.who.int/fr/news-room/fact-sheets/detail/yellow-fever)

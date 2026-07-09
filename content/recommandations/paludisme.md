@@ -8,7 +8,7 @@ synonyms = ["Malaria"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-17T12:42:00+02:00"
 publishdate = "2021-02-17"
-lastmod = "2025-07-03"
+lastmod = "2026-07-09"
 specialites = ["infectiologie"]
 annees = "2018"
 sources = ["SPILF", "HCSP"]
@@ -82,11 +82,11 @@ Un accès palustre doit être éliminé avant d'étayer les autres causes de fi�
 
 ### Épidémiologie du paludisme en France
 
-- Incidence: 6160 cas estimés en 2024 (*CNR*)  
-  85 % contractés en **Afrique subsaharienne** et 88 % par *Plasmodium falciparum*, sans diminution.
+- Incidence: 4960 cas estimés en 2025  
+  87 % contractés en **Afrique subsaharienne** et 87 % par *Plasmodium falciparum*, sans diminution.
 - 87 % des patients sont des voyageurs retournant au pays
-- Formes graves: 17,7 %, par *P falciparum* +++
-- Décès en France: 19 (2023)
+- Formes graves: 16,4 % (97,3 % par *P falciparum* +++)
+- Décès en France: 8 (soit 3,2/1000)
 
 L'Afrique subsaharienne comptabilise 90 % des cas mondiaux de paludisme.
 
@@ -205,8 +205,8 @@ Ces 3 sites permettent d'évaluer les recommandations concernant la nécessité 
 | Séjour conventionnel | Pas de CPAP | CPAP¹ | Pas de CPAP | CPAP¹ |
 | Séjour non conventionnel<br>< 1m avec<br>nuitées en zone<br>rurale/forestière | Pas de CPAP³<br>TTR si isolé | CPAP¹ | Pas de CPAP³<br>TTR si isolé | CPAP¹ |
 | Séjour non conventionnel<br>+1m avec<br>nuitées en zone<br>rurale/forestière | Avis spé | CPAP¹ | Avis spé | CPAP¹ |
-| Expatriation prolongée | Avis spé | - Sahel: CPAP<br>en saison pluies²<br>- Forestière:<br>toute l'année | Avis spé | CPAP |
-{caption="Indication de la chimioprophylaxie du paludisme (CPAP) et des autres moyens de prévention en zone d'endémie de paludisme selon le continent et les conditions de séjour selon le *HCSP*"}
+| Expatriation prolongée | Avis spé | - Sahel: CPAP<br>en saison pluies²<br>- Afrique centrale forestière:<br>toute l'année | Avis spé | CPAP |
+{caption="Indication de la chimioprophylaxie du paludisme (CPAP) et des autres moyens de prévention en zone d'endémie de paludisme selon le continent et les conditions de séjour selon les *Recommandations aux voyageurs*"}
 
 > **Légende**: **CS si F** = Consultation sans délai si fièvre pendant le séjour ou dans les 3 mois qui suivent le retour et information sur la notion de voyage dans les 3 derniers mois ; **TTR** = traitement de réserve antipaludique  
 ¹ sauf les zones non à risque d'Afrique australe (Afrique du Sud hors région Nord Est, Sud de la Namibie et du Botswana)  

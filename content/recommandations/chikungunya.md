@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-08-03T11:12:31+02:00"
 publishdate = "2025-08-03"
-lastmod = "2026-04-15"
+lastmod = "2026-07-09"
 specialites = ["infectiologie"]
-annees = "2025"
-sources = ["OMS", "MinSanté", "SPILF"]
+annees = "2026"
+sources = ["MinSanté", "OMS", "SPILF"]
 tags = ["éruption fébrile", "vaccin", "voyage"]
 english = ["Chikungunya"]
 sctid = "111864006"
@@ -24,10 +24,9 @@ todo = "flow"
 {{%article-summary%}}
 
 - Le chikungunya est une arbovirose transmise par le moustique tigre (*Aedes albopictus*) et son cousin *Aedes aegypti* qui agissent comme vecteurs inter-humains. Les complications sont des arthralgies prolongées et des formes graves chez les immunodéprimés et les +65 ans
-- Une épidémie sévit à La Réunion
 - Les symptômes typiques du chikungunya sont un syndrome pseudo-grippal brutal avec fièvre élevée, arthralgies des extrémités et exanthème maculopapuleux. Les arthralgies persistent plus d'un mois dans la moitié des cas
 - Le bilan d'une suspicion de chikungunya comprend selon l'ancienneté des symptômes: un PCR jusqu'à J5, PCR et sérologie de J5 à J7 puis la sérologie avec IgG et IgM au-delà. Le bilan est couplé à la recherche de la dengue ± zika
-- La prévention du chikungunya comprend la vaccination des adultes avec comorbidité de plus de 18 ans et la protection anti-vectorielle (contre les piqûres de moustiques - PPAV)
+- La prévention du chikungunya comprend la protection anti-vectorielle (contre les piqûres de moustiques - PPAV) et parfois la vaccination des adultes avec comorbidité de 12 ans et plus
 - Les critères d'hospitalisation sont les formes graves, hyperalgiques et les comorbidités sévères
 - La prise en charge du chikungunya est symptomatique avec: antalgie/antipyrexie, hydratation et protection contre les piqûres de moustiques pour limiter la diffusion de la maladie
 - Le chikungunya est une maladie à signalement obligatoire à l'ARS
@@ -159,26 +158,25 @@ La prévention du chikungunya associe les mesures de prévention contre les piq�
 
 ### Vaccination contre le chikungunya des personnes à risque
 
-#### Vaccination Chikungunya pour La Réunion
+La vaccination chikungunya doit être considérée pour les +12 ans:
 
-> [!WARNING]
-> La vaccination chikungunya par le vaccin vivant (Ixchiq®) est contre-indiquée chez les personnes immunodéprimées.
+- pour les séjours en zone épidémique
+- pour les séjours répétés ou prolongés (> 1 mois) en zone de circulation active l'année précédente
+- et ce quelque soit les antécédents infectieux
 
-La vaccination anti-Chikungunya est réservée aux personnes à risque:
+Choix du vaccin selon le profil du patient:
 
-- Vivant ou se rendant à La Réunion de +18 ans avec des comorbidités et après un examen approfondi des bénéfices et des risques individuels (*ANSM*, 18-64 selon la *HAS*)
+- Sujet +65 ans (d'autant plus en cas de comorbidité ++): **différer le séjour**  
+  Sinon: Vimkunya® dose unique
+- Sujet de 12 à 65 ans avec des comorbidités: **différer le séjour**
+  - Sinon chez l'immunocompétent: Vimkunya® dose unique, Ixchiq® à défaut
+  - Chez l'immunodéprimé: Vimkunya® dose unique
+- Sujet de 12 à 65 ans sans comorbidité ni immunodépression: vaccination recommandée (Ixchiq® ou Vimkunya®)
+- Femme enceinte: envisager de différer le séjour: PPAV seule
 
-Le vaccin vivant [Ixchiq®](https://www.ema.europa.eu/fr/documents/product-information/ixchiq-epar-product-information_fr.pdf) est recommandé avec une ==**dose unique**== (remboursé par l'ARS de La Réunion).
+> -- *Recommandations aux voyageurs 2026*
 
-#### Vaccination Chikungunya pour la Guyane
-
-La vaccination anti-Chikungunya est réservée aux personnes à risque:
-
-- +65 ans
-- 12-64 ans avec comorbidité
-- Peut être proposé aux autres populations (sauf grossesse/allaitement)
-
-Le vaccin inactivé [Vimkunya®](https://base-donnees-publique.medicaments.gouv.fr/medicament/67392551/extrait#tab-rcp-et-notice) est recommandé avec une ==**dose unique**==. Le vaccin Ixchiq® peut être proposé.
+Avec les 2 vaccins disponibles (vaccin inactivé [Vimkunya®](https://base-donnees-publique.medicaments.gouv.fr/medicament/67392551/extrait#tab-rcp-et-notice) ou vivant [Ixchiq®](https://www.ema.europa.eu/fr/documents/product-information/ixchiq-epar-product-information_fr.pdf)), la vaccination comprend **une seule dose**, au mois **14 jours** avant le départ, et ce quels que soient les antécédents de Chikungunya. Ne pas co-administrer avec d'autres vaccins.
 
 ### Mesures de protection contre les moustiques
 
@@ -210,13 +208,13 @@ Avis spécialisé **rhumatologique** en cas de symptômes persistants plusieurs 
 {{% /collapse %}}
 {{%sources%}}
 
+- {{< references/voyageur >}}
 - [HAS. Avis n°2026.0022/AC/SESPEV du 9 avril 2026 du collège de la Haute Autorité de santé portant sur les vaccins IXCHIQ et VIMKUNYA dans un contexte de réémergence du chikungunya en Guyane. 14/04/2026.](https://www.has-sante.fr/jcms/p_3927570/fr/avis-n2026-0022/ac/sespev-du-9-avril-2026-du-college-de-la-haute-autorite-de-sante-portant-sur-les-vaccins-ixchiq-et-vimkunya-dans-un-contexte-de-reemergence-du-chikungunya-en-guyane)
 - [ANSM. Chikungunya : l'ANSM poursuit la surveillance des effets indésirables du vaccin Ixchiq. 23/03/2026.](https://ansm.sante.fr/actualites/chikungunya-lansm-poursuit-la-surveillance-des-effets-indesirables-du-vaccin-ixchiq)
 - [ANSM. Vaccin Ixchiq contre le chikungunya : levée de la contre-indication temporaire chez les adultes de 65 ans et plus ; mise en garde concernant les effets indésirables graves, notamment l'encéphalite. 22/09/2025.](https://ansm.sante.fr/informations-de-securite/vaccin-ixchiq-contre-le-chikungunya-levee-de-la-contre-indication-temporaire-chez-les-adultes-de-65-ans-et-plus-mise-en-garde-concernant-les-effets-indesirables-graves-notamment-lencephalite)
 - [WHO guidelines for clinical management of arboviral diseases: dengue, chikungunya, Zika and yellow fever. Geneva: World Health Organization; 2025. Licence: CC BY-NC-SA 3.0 IGO.](https://www.who.int/publications/i/item/9789240111110)
 - [Santé Publique France. Chikungunya. 06/08/2025.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-transmission-vectorielle/chikungunya/la-maladie/)
 - [ANSM. Campagne vaccinale contre le chikungunya : point de situation sur la surveillance du vaccin Ixchiq. 02/07/2025.](https://ansm.sante.fr/actualites/lansm-accompagne-la-campagne-vaccinale-contre-le-chikungunya-vaccin-ixchiq)
-- {{< references/voyageur >}}
 - [ANSM. Ixchiq, poudre et solvant pour solution injectable Vaccin contre le chikungunya (vivant) : nouvelle contre-indication chez les patients âgés de 65 ans et plus, mise en place pendant la réévaluation européenne du vaccin. 28/05/2025.](https://ansm.sante.fr/informations-de-securite/ixchiq-poudre-et-solvant-pour-solution-injectable-vaccin-contre-le-chikungunya-vivant-nouvelle-contre-indication-chez-les-patients-ages-de-65-ans-et-plus-mise-en-place-pendant-la-reevaluation-europeenne-du-vaccin)
 - [Ministère de la Santé. Chikungunya. 16/05/2025.](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/article/chikungunya)
 - [HAS. Épidémie de chikungunya : utilisation du vaccin IXCHIQ à La Réunion et à Mayotte. 26/04/2025.](https://www.has-sante.fr/jcms/p_3593981/fr/epidemie-de-chikungunya-utilisation-du-vaccin-ixchiq-a-la-reunion-et-a-mayotte)

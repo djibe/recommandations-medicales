@@ -351,8 +351,8 @@ risque["<b>Sujet à risque de mélanome</b><br>—<br>- Phototype clair<br>- Ép
 {{% /collapse %}}
 {{%sources%}}
 
-- [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - {{< references/voyageur >}}
+- [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [INCa. Mélanomes cutanés - Du diagnostic au suivi. 2024.](https://www.cancer.fr/catalogue-des-publications/melanomes-cutanes-du-diagnostic-au-suivi)
 - [INCa. Les mélanomes cutanés en 10 points clés. 2024.](https://www.cancer.fr/catalogue-des-publications/les-melanomes-cutanes-en-10-points-cles)
 - [Garbe C, et al; EDF, EADO, EORTC. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2022. European Journal of Cancer. 2022.](https://www.ejcancer.com/article/S0959-8049(22)00152-6/fulltext)

@@ -118,7 +118,7 @@ Pays ayant une forte endémie tuberculeuse (taux d'incidence > 40 cas de tubercu
 
 > -- *Recommandations sanitaires aux voyageurs*
 
-{{< csv-to-table file="/data/tuberculosis-incidence.csv" title="Incidence de la tuberculose pour 100.000 habitants par pays en 2023. Dr JB Fron d'après OMS et Nations Unies" >}}
+{{< csv-to-table file="/data/tuberculosis-incidence.csv" title="Incidence de la tuberculose pour 100.000 habitants par pays en 2024. Dr JB Fron d'après OMS et Nations Unies" >}}
 
 {{% /collapse %}}
 {{%collapse "Suivi thérapeutique de la tuberculose" %}}
@@ -225,10 +225,10 @@ L'IDR est en faveur de l'absence de primo-infection si elle est < 5 mm (10 mm en
 
 {{< youtube id="iL8yqB-TwvI" title="Tuberculose (Webinaires Actualités Infectiologie SOBEPIT/CMIT/SPILF)" >}}
 
+- {{< references/voyageur >}}
 - [ANSM. TUBERCULINE PPD RT 23 AJV 2T.U. / 0,1 mL, solution injectable - Fiche pratique pour les professionnels de santé. Avril 2026.](https://ansm.sante.fr/uploads/2026/04/21/20260421-tuberculine-fiche-pratique.pdf)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. ALD 29 - Tuberculose maladie. Actes et prestations Affection de longue durée. 2025.](https://www.has-sante.fr/jcms/c_482999/fr/ald-n-29-tuberculose-maladie)
-- {{< references/voyageur >}}
 - [HAS. Évaluation des stratégies de dépistage et de repérage précoce de la tuberculose pulmonaire. 2025.](https://has-sante.fr/jcms/p_3459735/fr/evaluation-des-strategies-de-depistage-et-de-reperage-precoce-de-la-tuberculose-pulmonaire)
 - [Ministère de la Santé. BCG - Questions/Réponses à destination des professionnels de santé. 2022. (PDF)](https://sante.gouv.fr/IMG/pdf/qr_bcg_ps_mars_2022.pdf)
 - [WHO. Global Programme on Tuberculosis & Lung Health](https://www.who.int/teams/global-tuberculosis-programme/data)

@@ -8,7 +8,7 @@ synonyms = ["Glaucome chronique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-05-23T11:26:02+02:00"
 publishdate = "2025-05-31"
-lastmod = "2026-02-12"
+lastmod = "2026-07-09"
 specialites = ["ophtalmologie"]
 annees = "2022"
 sources = ["HAS"]
@@ -18,6 +18,8 @@ sctid = "77075001"
 icd10 = ["H40", "H40.0", "H40.1", "H40.3", "H40.4", "H40.5", "H40.6", "H40.8", "H40.9"]
 image = true
 imageSrc = "Anomalies du champ visuel au cours du glaucome. Broadway DC, CC BY 2.0, via Wikimedia Commons"
+rank = "todo"
+writing = "ok"
 todo = "flow"
 +++
 
@@ -152,11 +154,11 @@ Le bilan du glaucome est **spécialisé** par l'ophtalmologue:
 {{% /collapse %}}
 {{%collapse "Traitement du glaucome" %}}
 
-La prise en charge du glaucome repose sur la ==réduction de la pression intraoculaire== (PIO) **à vie** pour stopper son évolution:
+La prise en charge du glaucome repose sur la **réduction de la pression intraoculaire** (PIO) **à vie** pour stopper son évolution:
 
 - Éducation thérapeutique, observance ++
 - **Collyres** oculaires antihypertenseurs:
-  - 1^re^ intention: **prostaglandine** (bimatoprost, **latanoprost**, **travoprost**) 1 goutte le soir
+  - 1^re^ intention: ==**prostaglandine**== (bimatoprost, **latanoprost**, **travoprost**) 1 goutte le soir
   - ou **bêta-bloquant** (bétaxolol, cartéolol, lévobunolol, **timolol**) 1 goutte 1 à 2 fois par jour selon la spécialité
   - Autres traitements: agoniste alpha-2-adrénergique (apraclonidine, brimonidine), inhibiteurs de l'anhydrase carbonique (brinzolamide, dorzolamide), inhibiteur de la Rho-kinase (nétarsudil)
   - Les associations sont possibles sans dépasser une trithérapie
@@ -170,14 +172,14 @@ La prise en charge du glaucome repose sur la ==réduction de la pression intraoc
 
 | Famille | Effets indésirables | Fréquence (/j) | Spécialités |
 | ------- | ------------------- | -------------- | ----------- |
-| ==**Prostaglandines**== | Rougeur/irritation oculaire, iris sombre, pousse de cils | 1 | multidose (Bimatoprost Idifarma, Latazed, Sinetrav, Vizilatan, Vizitrav), unidose (Catiolanze, Monoprost, Xiop) |
-| **Bêta-bloquants** | CI des BB | 1-2 | multidose Timabak, unidoses (Betagan, Gaoptol, Geltim LP) |
-| Alpha-2-adrénergiques | | 2 | unidoses Brimazed, Brimonidine Omnivision |
+| ==**Prostaglandines**== | Rougeur/irritation oculaire, iris sombre, pousse de cils | 1 | multidose (L: Latazed, Lifog, Vizilatan; T: Sinetrav, Vizitrav; B: Amiriox, Iricryn), unidose (L: Catiolanze, Monoprost, Xalatan, Xiop) |
+| **Bêta-bloquants** | CI des BB | 1-2 | multidose (Timabak), unidoses (Carteol LP; Ganfortprosta) |
+| Alpha-2-adrénergiques | | 2 | unidoses (Iopidine, Brimazed) |
 | Inh. anhydrase carbonique | | 2 | Aucun |
 | Inh. Rho-kinase | | 1 | Aucun |
 {caption="Spécialités de collyres anti-glaucomateux sans conservateurs, par classe thérapeutique, disponibles en 2026. Dr JB Fron, recherche avancée de *Thériaque*" class="table-wrap"}
 
-==**Collyres combinés**== (sans conservateurs): BB + prostaglandine x 1/j (Filiop, Fixapost, Ganfort, Kilatim, Kivizidiale, Vizimaco), BB + inh. anhydrase carbonique x 2/j (Cosidime, Costec, Dualkopt).
+==**Collyres combinés**== (sans conservateurs): BB + prostaglandine x 1/j (Ecbirio, Filiop, Fixapost, Ganfort, Kilatim, Kivizidiale, Vizimaco), BB + inh. anhydrase carbonique x 2/j (Cosidime, Costec, Dualkopt, Olatalin).
 
 ### Autres traitements du glaucome
 
