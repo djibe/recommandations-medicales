@@ -20,7 +20,7 @@ imageSrc = "Échographie montrant un lobe droit hétérogène diffus avec une va
 rank = "false"
 writing = "todo"
 flowchart = true
-todo = "SEO réécrire + TSH élevée > hypothyroidie traitement, grossesse et hypothyroïdie, infertilité et hypothyroïdie"
+todo = "TSH élevée > hypothyroidie traitement, grossesse et hypothyroïdie, infertilité et hypothyroïdie"
 +++
 
 {{%article-summary%}}
@@ -82,11 +82,14 @@ LT4
 SFE
 : Société française d'endocrinologie
 
+T3L
+: liothyronine
+
 T4
 : thyroxine (3-5-3'-5'tétra-iodothyronine, fT4 en anglais)
 
 T4L
-: T4 libre
+: T4 libre (lévothyroxine)
 {.dl-inline}
 
 {{% /collapse %}}
@@ -314,6 +317,10 @@ Surveillance au long cours une fois l'euthyroïdie obtenue: contrôle clinique +
 > [!WARNING]
 > Pas de surveillance de la T4L, des anticorps ou de l'iodémie/iodurie.
 
+#### Traitement par T3L liothyronine
+
+> << 5 à 10 % des patients, traités à des doses dites optimales associées à une normalisation des dosages de TSH et T4 libre, présentent des symptômes et une gêne persistante altérant leur qualité de vie. Lorsque les causes extrathyroïdiennes de la persistance de ces symptômes ont été éliminées, l'association lévothyroxine (LT4) et liothyronine (LT3) pourrait être envisagée après avis spécialisé. Il s'agit d'une indication d'exception n'ayant pas fait la démonstration de sa supériorité par comparaison au traitement conventionnel par la lévothyroxine.>> -- *HAS 2022*
+
 ### Avis endocrinologique
 
 Indications à une consultation par l'endocrinologue pour hypothyroïdie:
@@ -409,14 +416,14 @@ graph TB
   style decouverte stroke:#4150f5, stroke-width:1px
     TSH -- "TSH de 4 à 10<br>ou T4L normale" --> hTFruste("Hypothyroïdie fruste<br>(Cliquer pour le chapitre dédié)")
       click hTFruste "{{% relref "hypothyroidie-fruste.md" %}}" "Ouvrir dans un onglet" _blank
-    TSH -- "TSH &gt; 10 (20 si +65 ans)<br>et T4L basse" --> hT(Hypothyroïdie avérée)
+    TSH -- "TSH &gt; 10<br>(20 si +65 ans)<br>et T4L basse" --> hT(Hypothyroïdie avérée)
       hT --> bilan("<strong>Examens</strong><br>—<br>- Aucun si +65 ans<br>- Anticorps anti-TPO<br>± dépistage M. cœliaque<br>- Rarement échographie cervicale<br>- ECG")
         bilan --> traitement(Traitement par lévothyroxine)
           traitement --> adulte("<b>Adulte</b><br>- Débuter à 1,6 µg/kg/j<br>- Paliers de 12 µg<br>toutes les 6-8 semaines")
             adulte -. Fragilité .-> fragile("<b>+65 ans avec TSH &gt; 20</b>: Débuter à 1,1-1,3 µg/kg/j<br>TSH cible valeurs hautes<br>avis endoc entre 10 et 20 mUI/L<br>—<br><b>Cardiopathe</b>: Débuter 12,5-25 µg/j")
           traitement --> enfant("<b>Enfant</b><br>Débuter à 2 µg/kg/j")
   decouverte -- Grossesse ou désir --> chapitre(Section dédiée)
-  decouverte -. "TSH &gt; 10 et T4L basse<br>TSH &gt; 20 si +65 ans" .-> hT
+  decouverte -. "TSH &gt; 10 et T4L basse<br>(20 si +65 ans)" .-> hT
 {{< /mermaid >}}
 
 {{% /collapse %}}

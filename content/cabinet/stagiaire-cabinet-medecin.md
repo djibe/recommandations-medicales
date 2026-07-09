@@ -31,3 +31,5 @@ Tout au plus pourrait-il participer à l'accueil et au secrétariat, après avoi
 Mais sauf si la formation suivie (par exemple, secrétariat médical ...), est en relation avec l'activité d'un cabinet médical, le Conseil National est très réservé sur l'accueil d'un stagiaire au cabinet.
 
 Bien à vous, >>
+
+> -- *Courriel au CNOM*
