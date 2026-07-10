@@ -24,11 +24,35 @@ chart = true
 slider = true
 +++
 
+ECG connectés 12D
+
+Compatibilité électrodes
+
 | Marque | Modèle | Connexion | Prix (€) | Description | Évaluations (/5) | Liens |
 | --- | --- | --- | --- | --- | --- | --- |
-| Biocare | iE 10 | WiFi | 1000 | Écran 7 pouces, pinces des membres, analyse | 4,6+ | |
-| éolys | ECG-PC | Bluetooth, USB | 1900 | Petit boîtier, analyse | ? | [Notice](https://www.eolys.fr/attachment.php?id_attachment=371) |
-| Edan | SE-1515 DP12                                           |||||
+| Biocare | iE 10 | WiFi | 1000 | Écran 7 pouces, pinces des membres, analyse, export (ECG, XML, JPEG, DICOM, PDF) | 4,6+ (13 avis) | |
+| éolys | ECG-PC | Bluetooth, USB | 1900 | Petit boîtier, analyse , export (PDF, SCP) | ? | [Notice](https://www.eolys.fr/attachment.php?id_attachment=371) |
+| Edan | SE-1010 USB | USB | 1200 | Interprétation, export (PDF, FDA-XML, SCP, DICOM, JPG, BMP, DOC) |||
+| Edan | SE-1010 Bluetooth | Bluetooth | 1200 | Interprétation, export (PDF, FDA-XML, SCP, DICOM, JPG, BMP, DOC) |||
+| Edan | PadECG | Bluetooth | 1300 | Android, Interprétation, export (PDF, XML ou jpeg) | ||
+| Edan | SE-1515 DP12 | USB | 1155 | Electrodes, export (PDF, JPG, Word) | 5/5 (7 avis) | |
+| Edan | ISE-1210 | USB | 1200 ||||
+| Cardioline | TouchECG HD+ | Bluetooth | 2100 | Interprétation, export (pdf, scp, png, jpg, XML, GDT, DICOM), câbles banane/pince, intégration logiciel | | |
+| Cardioline | 200S | ? | 3115 ||||
+| Spengler | Cardiomate PC-ECG USB | USB | 1265 | export (PDF, JPEG, BMP, EM-XML, FDAXML, SCP, DICOM, BKG), intégration logiciel | ? | [Notice](https://www.spengler.fr/cardiologie/ecg/ecg-numerique/) |
+| Spengler | Cardiomate PC-ECG Bluetooth | Bluetooth | 1700 | Compatible Windows/Android, export (PDF, JPEG, BMP, EM-XML, FDAXML, SCP, DICOM, BKG), intégration logiciel | ? | [Notice](https://www.spengler.fr/cardiologie/ecg/ecg-numerique/) |
+| Spengler | Cardiomate EVI 7 ||||||
+| Spengler | Cardiomate EVI 10 | 2500 |||||
+| D-Heartcare | D-Heart | Bluetooth | 400 | Compatible Android/iOS, pas interprétation, 8D seulement, export (PDF) | ? | [Notice](https://www.d-heartcare.com/en) |
+| MESI | mTABLET ECG | 4800 | Tablette | Interprétation, intégration logiciel, export (PDF) | ? | [Notice](https://mesimedical.com/fr/mesures/ecg-12-derivations) |
+| Lepu Medical | NeoECG S-120 | 850 | Tablette, LAN, USB, WiFi | Interprétation, export (CarewellECG, PDF, BMP, HL7, DICOM, SCP) | ? | [Notice](https://www.lepucreative.com/products/lepu-medical-ai-analysis-diagnostic-smart-12-lead-ecg-monitor-tablet-s120-touch-screen-respiratory-rate-heart-rate-detection-with-wifi-wireless-transmission) |
+| Lepu Medical | NeoECG T180 | 1850 | Tablette, LAN, USB, WiFi | Interprétation, export (CarewellECG, PDF, BMP, HL7, DICOM, SCP) | ? | |
+| Lepu Medical | Cardio One Mini | 875 | Tablette, USB-C, WiFI | Interprétation, export (?) | 5/5 (3 avis) ||
+| Lepu Medical | PC-ECG 500 | 825 | Tablette, USB-C, e-mail | Interprétation, export (?) |||
+| Contec | 1212G | 1335 | LAN, USB | Interprétation, export (dat, pdf, xml, bmp, jpeg, png) |||
+| Schiller | CS104 MS12 | 3000 | Bluetooth | Interprétation (option), export ? | ? | ? |
+||||||||
+||||||||
 
 ## Plan action asthme {.mt-5}
 

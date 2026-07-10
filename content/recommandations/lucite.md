@@ -107,7 +107,7 @@ Recommandations pour la prévention des récidives de lucite:
 {{% /collapse %}}
 {{%sources%}}
 
-- [Académie de médecine. lucite estivale bénigne. 2020.](https://www.academie-medecine.fr/le-dictionnaire/index.php?q=lucite+estivale+b%C3%A9nigne)
+- [Académie de médecine. Lucite estivale bénigne. 2020.](https://www.academie-medecine.fr/le-dictionnaire/index.php?q=lucite+estivale+b%C3%A9nigne)
 - [Gruber-Wackernagel A, et al. Polymorphous Light Eruption: Clinic Aspects and Pathogenesis. Dermatologic Clinics. 2014.](https://www.sciencedirect.com/science/article/abs/pii/S0733863514000278) (payant)
 - [Rhodes L, et al. Polymorphic Light Eruption Occurs in 18% of Europeans and Does Not Show Higher Prevalence with Increasing Latitude: Multicenter Survey of 6,895 Individuals Residing from the Mediterranean to Scandinavia. Journal of Investigative Dermatology. 2010.](https://www.jidonline.org/article/S0022-202X(15)34705-9/fulltext)
 - [Jeanmougin M, et al. Lucites idiopathiques de l'enfant. Ann Dermatol Venerol. 2007. (PDF)](https://www.sfdermato.org/media/pdf/mini-site/lucites-idiopathiques-de-l-enfant-1a02b7bc180e3f87bee1c5e407497a4a.pdf)

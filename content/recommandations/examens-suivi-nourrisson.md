@@ -96,7 +96,7 @@ Pour plus d'informations sur les vaccinations, dont les obligations vaccinales, 
 | :-------------------: | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | Né après<br>le 1er février<br>(à partir de septembre) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus<br>± {{< modal-btn modal-bcg-indications >}}Tuberculose{{< /modal-btn >}} | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 1/3, Rotarix 1/2<br>± BCG en PMI |
-|   3 mois   | Méningo B<br>Rotavirus<br>—<br>Prématuré:<br>+ Pneumo 13/15<br>+ hexavalent *GPIP* | Bexsero 1/3<br>RotaTeq 2/3, Rotarix 2/2<br>—<br><br>Prevenar 13, Vaxneuvance<br><br> |
+|   3 mois   | Méningo B<br>Rotavirus<br>—<br>Prématuré:<br>+ Pneumo 13/15<br>+ hexavalent (*GPIP*) | Bexsero 1/3<br>RotaTeq 2/3, Rotarix 2/2<br>—<br><br>Prevenar 13, Vaxneuvance<br><br> |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 3/3 |
 |   5 mois   | Méningo B                                            | Bexsero 2/3                                                               |
 |   6 mois   | Méningo ACWY                                         | Nimenrix                                                                  |

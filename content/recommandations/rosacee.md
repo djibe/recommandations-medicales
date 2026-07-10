@@ -31,6 +31,8 @@ modele = true
 - La prise en charge initiale de la rosacée associe l'éviction des facteurs déclenchants et le métronidazole gel 0,75 % en 2 applications par jour pendant 3 mois
 - La rosacée est une contre-indication à l'utilisation des dermocorticoïdes
 
+[Photos de rosacée](https://dermnetnz.org/topics/rosacea)
+
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
@@ -95,6 +97,8 @@ Le diagnostic de la rosacée est clinique.
   Applications de dermocorticoïdes, atrophie, hyperkératose, photosensibilité, comédons, squames, respect péri-buccal.
 
 ### Les formes cliniques de la rosacée
+
+[Photos de rosacée](https://dermnetnz.org/topics/rosacea).
 
 #### Forme érythémato-télangiectasique (vasculaire)
 

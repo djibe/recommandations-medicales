@@ -80,6 +80,8 @@ Urétrite
 
 ### Symptômes de l'urétrite
 
+Symptômes de l'urétrite masculine:
+
 - Durée d'incubation variable  
   Gonocoque: 4-6 jours.
 - **Écoulement urétral** (jaune ou blanchâtre) purulent, séreux voire hémorragique

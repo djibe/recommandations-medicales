@@ -24,7 +24,7 @@ todo = "flow > Kanban"
 
 {{%article-summary%}}
 
-- La trichobactériose axillaire est une infection pilaire bactérienne superficielle à *Corynebacterium tenuis*, le plus souvent axillaire en contexte d'humidité locale
+- La trichobactériose axillaire est une infection pilaire bactérienne bénigne superficielle à *Corynebacterium tenuis*, le plus souvent axillaire en contexte d'humidité locale
 - Le diagnostic est majoritairement clinique: aspect d'engainement des poils par une substance de couleur blanc-jaunâtre sans prurit, douleur ou atteinte cutanée sous-jacente
 - La lampe de Wood révèle une faible fluorescence blanche (voire jaune à verte)
 - En cas de doute diagnostic ou de résistance au traitement, des prélèvements mycologiques et bactériologiques sont possibles
@@ -82,7 +82,7 @@ La prise en charge de la trichobactériose axillaire n'est pas formellement codi
 
 - Rasage local
 - Antiseptique moussant ou apparenté (1-2/j): [peroxyde de benzoyle 5%](https://base-donnees-publique.medicaments.gouv.fr/medicament/64600787/extrait#tab-rcp), Bétadine Scrub, Cytéal, Septivon
-- Lutte contre les zones humides: lavage et séchage minutieux, antitranspirant
+- Lutte contre les zones humides: lavage et séchage minutieux, antitranspirant (avec aluminium)
 - ± Crème antibiotique (pendant ~ 7-14 jours):
   - Clindamycine ([Zindacline 1%](https://base-donnees-publique.medicaments.gouv.fr/medicament/68943331/extrait#tab-rcp)) 1 application par jour
   - Érythromycine ([Erythrogel 4%](https://base-donnees-publique.medicaments.gouv.fr/medicament/65256289/extrait#tab-rcp)) 1 à 2 applications par jour
@@ -94,5 +94,7 @@ La prise en charge de la trichobactériose axillaire n'est pas formellement codi
 - [Bian K, et al. Trichobactériose axillaire. CMAJ. 2024.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11649321/)
 - [Murphy E, Maiberger M. Trichomycosis Axillaris. N Engl J Med. 2022.](https://www.nejm.org/doi/10.1056/NEJMicm2206453)
 - [Académie de médecine. Trichobactériose axillaire. 2020.](https://www.academie-medecine.fr/le-dictionnaire/index.php?q=lucite+estivale+b%C3%A9nigne)
+
+Mots-clé: poils aisselles
 
 {{%/sources%}}
