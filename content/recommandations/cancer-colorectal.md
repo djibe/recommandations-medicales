@@ -8,9 +8,9 @@ synonyms = ["Cancer du côlon", "cancer du rectum"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-08-31T18:55:37+02:00"
 publishdate = "2022-09-22"
-lastmod = "2025-08-05"
+lastmod = "2026-07-12"
 specialites = ["hépato-gastro-entérologie", "oncologie"]
-annees = "2025"
+annees = "2026"
 sources = ["SNFGE", "INCa", "HAS", "SFED"]
 tags = ["cancer", "dépistage", "fatigue", "obésité", "prévention", "tabac"]
 english = ["Colorectal cancer"]
@@ -19,6 +19,8 @@ icd10 = ["C18", "C18.9", "C20", "D01.0", "K62.1", "K63.5", "Z12.1"]
 image = true
 imageSrc = "Illustration du cancer colorectal. Blausen Medical Communications, Inc., CC BY 3.0, via Wikimedia Commons"
 rank = "ok"
+writing = "todo"
+todo = "update citations TNCD, relecture"
 flowchart = true
 +++
 
@@ -349,11 +351,11 @@ graph TB
 
 {{< youtube id="DV0PVuj4Ljw" title="Quelle surveillance endoscopique pour un cancer du côlon ? (TutoGastro SNFGE)" >}}
 
+- [Lecomte T, et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive. 2026.](https://www.snfge.org/tncd/cancer-du-colon-non-metastatique)
+- [Cotte E, et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive. 2026.](https://www.snfge.org/tncd/cancer-du-rectum)
 - [Traullé E, et al. Rôle des facteurs nutritionnels en prévention du cancer colorectal : niveaux de preuve et perspectives. Bull Epidemiol Hebd. 2026.](https://beh.santepubliquefrance.fr/beh/2026/3-4/2026_3-4_1.html)
 - [Kucharzik T, et al. ECCO-ESGAR-ESP-IBUS Guideline on Diagnostics and Monitoring of Patients with Inflammatory Bowel Disease: Part 1. J Crohns Colitis. 2025.](https://academic.oup.com/ecco-jcc/article/19/7/jjaf106/8219802)
-- [Lecomte T, et al. Cancer du côlon non métastatique. Thésaurus National de Cancérologie Digestive. 2025.](https://www.snfge.org/tncd/cancer-du-colon-non-metastatique)
 - [Phelip JM, et al. Cancer colorectal métastatique. Thésaurus National de Cancérologie Digestive. 2025.](https://www.snfge.org/tncd/cancer-colorectal-metastatique)
-- [Cotte E, et al. Cancer du rectum. Thésaurus National de Cancérologie Digestive. 2025.](https://www.snfge.org/tncd/cancer-du-rectum)
 - [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - {{< references/college-gastro >}}
 - [Cervantes A, et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. 2022.](https://www.annalsofoncology.org/article/S0923-7534(22)04192-8/fulltext)

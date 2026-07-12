@@ -19,6 +19,7 @@ icd10 = ["K57", "K57.9"]
 image = true
 imageSrc = "Diverticules coliques en coloscopie. Anpol42, CC BY-SA 4.0, via Wikimedia Commons"
 rank = "ok"
+writing = "ok"
 flowchart = true
 +++
 
@@ -27,7 +28,7 @@ flowchart = true
 - La diverticulose colique, fragilité colique, augmente avec l'âge et est asymptomatique dans 80 % des cas
 - La diverticulite sigmoïdienne aiguë (*ex* sigmoïdite diverticulaire) est une inflammation infectieuse colique d'origine diverticulaire, survenant surtout entre 50 et 70 ans
 - Un bilan systématique est nécessaire lors de la première poussée: diagnostic par scanner abdomino-pelvien
-- La prise en charge de la crise de diverticulite sigmoïdienne non compliquée sans gravité (hors grossesse) est symptomatique: pas d'antibiothérapie durant les 48 premières heures de la crise douloureuse. Au-delà: amoxicilline/acide clavulanique 3g/j pendant 7 jours
+- La prise en charge de la crise de diverticulite sigmoïdienne non compliquée sans gravité (hors grossesse) est symptomatique: pas d'antibiothérapie durant les 48 premières heures de la crise douloureuse. Au-delà de 48h: amoxicilline/acide clavulanique 3 g/j pendant 7 jours
 - Une chirurgie colique prophylactique des diverticules est programmée à distance en cas de comorbidités:  
   Immunodépression, [insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}), altération de la qualité de vie, fistule, abcès ou sténose symptomatique.
 
@@ -234,6 +235,8 @@ graph TB
 
 {{% /collapse %}}
 {{%sources%}}
+
+{{< youtube id="SE40hvK2dgY" title="Régime après diverticulite : prends en de la graine ! (TutoGastro SNFGE)" >}}
 
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Diverticulite aiguë sigmoïdienne non compliquée. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282886/fr/choix-et-durees-d-antibiotherapies-diverticulite-aigue-sigmoidienne-non-compliquee)
 - {{< references/college-gastro >}}

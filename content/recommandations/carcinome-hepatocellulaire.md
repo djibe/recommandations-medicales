@@ -143,6 +143,7 @@ Le CHC reste longtemps **asymptomatique**, aboutissant souvent à un diagnostic 
 - [Splénomégalie]({{% relref "splenomegalie.md" %}})
 - Score de {{< modal-btn modal-score-child >}}Child-Pugh{{< /modal-btn >}}
 - État général: {{< modal-btn modal-OMS >}}score OMS/ECOG-PS{{< /modal-btn >}}
+- À partir de 70 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}

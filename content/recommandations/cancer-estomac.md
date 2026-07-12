@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-02-16T20:52:00+02:00"
 publishdate = "2021-02-16"
-lastmod = "2025-08-05"
+lastmod = "2026-07-12"
 specialites = ["hépato-gastro-entérologie", "oncologie"]
-annees = "2025"
+annees = "2026"
 sources = ["SNFGE", "HAS"]
 tags = ["cancer", "EOGD", "ferritine", "gastrite"]
 english = ["Gastric cancer"]
@@ -18,17 +18,20 @@ sctid = "363349007"
 icd10 = ["C16", "C16.9"]
 image = true
 imageSrc = "Coupe histopathologique comparative d'adénocarcinome gastrique. Green, John et al. CC BY 4.0, via Wikimedia Commons"
+rank = "false"
+writing = "todo"
+todo = "relecture"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Le cancer de l'estomac atteint surtout l'homme de plus de 65 ans
-- Principaux facteurs de risque de cancer de l'estomac: [gastrite à *Helicobacter pylori*]({{% relref "helicobacter-pylori.md" %}}) (80 %), tabac, alimentation salée/fumée, antécédent familial de cancer gastrique, syndrome de Lynch/HNPCC
-- Signes d'alarmes devant des symptômes digestifs hauts: dysphagie, amaigrissement, anémie
-- Bilan initial: endoscopie œso-gastro-duodénale (EOGD), NFS, albuminémie, ASAT, ALAT, GGT, PAL, bilirubine totale, ionogramme, créatinine et scanner thoraco-abdomino-pelvien avec injection
-- Adresser en semi-urgence toute suspicion de cancer gastrique au gastro-entérologue d'un centre de lutte contre le cancer (CLCC)
-- Dépistage des apparentés au premier degré en cas de lésion cancéreuse de l'estomac: sérologie *Helicobacter pylori* chez un sujet de moins de 45 ans, fibroscopie gastrique au-delà
+- Le cancer de l'estomac (90 % d'adénocarcinomes) atteint surtout l'homme de plus de 65 ans
+- Les principaux facteurs de risque de cancer de l'estomac sont: [gastrite à *Helicobacter pylori*]({{% relref "helicobacter-pylori.md" %}}) (80 %), tabac, alimentation salée/fumée, antécédent familial de cancer gastrique, syndrome de Lynch/HNPCC
+- Rechercher des signes d'alarmes en cas de symptômes digestifs hauts: dysphagie, amaigrissement, anémie
+- Le bilan initial de la suspicion de cancer de l'estomac associe: endoscopie œso-gastro-duodénale (EOGD), bilan biologique général et hépatique. Selon l'appréciation clinique, le scanner thoraco-abdomino-pelvien avec injection peut être réalisé d'emblée
+- Adresser en semi-urgence toute suspicion de cancer gastrique au gastro-entérologue d'un centre de lutte contre le cancer (CLCC) pour la suite de la prise en charge
+- Dépister les apparentés au 1^er^ degré en cas de lésion cancéreuse de l'estomac: test respiratoire avant 45 ans, fibroscopie gastrique au-delà
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -43,15 +46,15 @@ Autres types rares: lymphomes (du MALT, *Helicobacter pylori* +++) > stromales (
 
 #### Le cancer de l'estomac en France
 
-- **Incidence**: 6600 cas (2017).  
+- **Incidence**: 6515 cas (2023, *Lapôtre-Ledoux 2023*).  
   La moitié après 75 ans, 2/3 d'hommes.
 - Mortalité: 4400 décès (2017)
 
 #### Le cancer de l'estomac dans le monde
 
 - 1 million de cas annuels
-- 5^e^ cancer le plus fréquent chez la femme, 4^e^ chez l'homme.
-- 5^e^ cause de mortalité chez la femme, 3^e^ chez l'homme.
+- 5^e^ cancer le plus fréquent
+- 5^e^ cause de mortalité chez la femme, 3^e^ chez l'homme (650.000 décès annuels)
 
 ### Abréviations
 
@@ -78,6 +81,9 @@ Premier degré
 
 SNFGE
 : Société Nationale Française de Gastro-Entérologie
+
+TAP
+: thoraco-abdomino-pelvien
 {.dl-inline}
 
 {{% /collapse %}}
@@ -134,7 +140,7 @@ Un cancer de l'estomac doit être évoqué et exploré devant:
 - Explorations réalisées
 - [Alcool]({{% relref "sevrage-alcool.md" %}}), tabagisme, alimentation fumée/salée
 - Évolution et ancienneté des symptômes
-- Score OMS
+- État général: {{< modal-btn modal-OMS >}}score OMS/ECOG-PS{{< /modal-btn >}}
 - À partir de 70 ans: dépistage gériatrique ({{< modal-btn modal-g8 >}}G8{{< /modal-btn >}}, VES13, FOG ...)
 
 ### Examen clinique
@@ -153,21 +159,20 @@ L'examen recherche:
 
 ### Bilan d'une suspicion de cancer de l'estomac
 
-Le bilan biologique recherche des signes de malignité:
-
 - NFS
 - Albuminémie
 - ASAT, ALAT, GGT, PAL, bilirubine totale
 - Ionogramme sanguin
 - Créatininémie
+- **Endoscopie œso-gastro-duodénale** (EOGD)
 
-En cas de symptômes évocateurs d'un cancer de l'estomac, adresser directement au gastro-entérologue pour **endoscopie** œso-gastro-duodénale (EOGD) avec biopsies.
+En cas de symptômes évocateurs d'un cancer de l'estomac, adresser directement au gastro-entérologue pour **endoscopie** œso-gastro-duodénale (EOGD) avec biopsies ([guide SFED, SNFGE d'info patient sur la gastroscopie diagnostique (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/information_patient_gastroscopie_diagnostique_sfed-snfge.pdf)).
 
-[SFED, SNFGE - informations médicales avant réalisation d'une gastroscopie diagnostique (PDF)](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/information_patient_gastroscopie_diagnostique_sfed-snfge.pdf)
+### Bilan complémentaire au diagnostic
 
-### Bilan au diagnostic
+Le bilan d'extension comporte toujours un **scanner thoraco-abdomino-pelvien (TAP) avec injection**.
 
-Le bilan d'extension comporte toujours un **scanner** thoraco-abdomino-pelvien avec injection.
+Autres bilans spécialisés possibles: écho-endoscopie digestive haute, IRM, Petscan, laparoscopie exploratrice.
 
 > [!INFO]
 > Les marqueurs tumoraux ACE et CA 19-9 ne sont pas utiles au diagnostic initial.
@@ -231,16 +236,16 @@ Le traitement du cancer gastrique décidé en RCP peut être: traitement endosco
 {{% /collapse %}}
 {{%collapse "Prise en charge du cancer de l'estomac" "show" %}}
 
-{{< mermaid title="Prise en charge du cancer de l'estomac par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après TNCD 2023 et INCa" >}}
+{{< mermaid title="Prise en charge du cancer de l'estomac par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après TNCD 2026 et INCa" >}}
 graph TB
-  suspicion["<b>Suspicion de cancer<br>de l'estomac</b><br>—<br>- Asymptomatique le + souvent<br>- Dyspepsie après 40 ans<br>- Anémie réfractaire<br>- Reflux après 50 ans<br>- Épigastralgies,<br>dysphagie<br>- AEG"] --> bilan("<b>Bilan</b><br>—<br>- NFS, albuminémie<br>- Bilan hépatique<br>- Iono, créatinine") -- Semi-urgence --> gastro("Gastro-entérologue<br>pour EOGD")
+  suspicion["<b>Suspicion de cancer<br>de l'estomac</b><br>—<br>- Asymptomatique le + souvent<br>- Dyspepsie après 40 ans<br>- Anémie réfractaire<br>- Reflux après 50 ans<br>- Épigastralgies,<br>dysphagie<br>- AEG"] --> bilan("<b>Bilan</b><br>—<br>- NFS, albuminémie<br>- Bilan hépatique<br>- Iono, créatinine") -- Semi-urgence --> gastro("Gastro-entérologue<br>pour EOGD et biopsies<br>± Scanner TAP d'emblée")
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
-- [Zaanan A, et al. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 2025.](https://www.snfge.org/tncd/cancer-lestomac)
+- [Zaanan A, et al. Cancer de l'estomac. Thésaurus National de Cancérologie Digestive. 2026.](https://www.snfge.org/tncd/cancer-lestomac)
 - {{< references/college-gastro >}}
 - [Chollet R, et al; SFED, CREGG. Prévention du cancer de l'estomac. 2021.](https://www.sfed.org/sites/www.sfed.org/files/2021-08/Cancerestomac_prevention.pdf)
 - [Nousbaum JB, et al. Survie des personnes atteintes de cancer en France métropolitaine 1989-2018 - Estomac. BEH. Santé Publique France. 2021.](https://www.santepubliquefrance.fr/docs/survie-des-personnes-atteintes-de-cancer-en-france-metropolitaine-1989-2018-estomac)
@@ -257,6 +262,11 @@ graph TB
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
 
 {{< scores/mna >}}
+
+{{% /modal %}}
+{{% modal title="État général OMS" id="modal-OMS"%}}
+
+{{< scores/oms-ecogps >}}
 
 {{% /modal %}}
 {{% modal title="Score G8" id="modal-g8"%}}

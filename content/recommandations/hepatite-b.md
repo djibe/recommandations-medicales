@@ -370,6 +370,8 @@ Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler.
 
 {{< youtube id="XfEdz-xm9qs" title="Sérologie de l'hépatite B autour de la vaccination (VacciNews)" >}}
 
+{{< youtube id="hExrMcWj1tc" title=" Hépatite B : qui et quand dépister pour le CHC ? (TutoGastro SNFGE)" >}}
+
 - {{< references/calendrier-vaccinal >}}
 - [Assenat E, et al; AFEF. Prise en charge du carcinome hépatocellulaire & outils pour la pratique. Recommandations de l'Association français pour l'étude du foie. 2025.](https://afef.asso.fr/recommandation/recommandations-afef-sur-la-prise-en-charge-du-carcinome-hepatocellulaire-outils-pour-la-pratique/)
 - [Service-Public. Infections sexuellement transmissibles : gratuité du dépistage en laboratoire. 02/09/2024.](https://www.service-public.fr/particuliers/actualites/A17530)

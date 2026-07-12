@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-12-16T15:41:56+01:00"
 publishdate = "2022-01-07"
-lastmod = "2024-07-18"
+lastmod = "2026-07-12"
 specialites = ["hépato-gastro-entérologie", "oncologie"]
 annees = "2024"
 sources = ["SNFGE", "INCa"]
@@ -18,17 +18,20 @@ sctid = "363418001"
 icd10 = ["C25", "C25.9"]
 image = true
 imageSrc = "Invasion du deuxième segment duodénal par une masse pancréatique au scanner. Cas d'Ahmed Abdrabou, Radiopaedia.org, rID: 35723"
-todo = "SEO"
+rank = "ok"
+writing = "ok"
+todo = "check Flowchart"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Suspecter un cancer du pancréas devant les symptômes suivants: ictère, douleurs abdominales, AEG
-- Bilan avec scanner abdomino-pelvien injecté en semi-urgence
+- L'adénocarcinome du pancréas représente 90 % des tumeurs du pancréas et demeure la tumeur digestive avec le plus mauvais pronostic
+- Suspecter un cancer du pancréas devant les symptômes suivants: ictère, douleurs abdominales, altération de l'état général (AEG)
+- Le bilan d'une suspicion de cancer du pancréas comprend un scanner abdomino-pelvien injecté en semi-urgence et un bilan biologique général et hépatique
 - La prise en charge du cancer du pancréas est une semi-urgence
 - Traquer un cancer du pancréas en cas de [pancréatite aiguë]({{% relref "pancreatite-aigue.md" %}}) idiopathique après 40 ans
-- Consultation d'oncogénétique et dépistage du cancer du pancréas si au moins 2 apparentés atteints d'adénocarcinome du pancréas dont au moins 1 au premier degré  
+- La consultation d'oncogénétique et le dépistage du cancer du pancréas est recommandé en présence d'au moins 2 apparentés atteints d'adénocarcinome du pancréas dont au moins 1^er^ au premier degré  
   ou certaines mutations génétiques (voir *Dépistage*)
 - Pour toute la population: prévention du cancer du pancréas par correction des facteurs de risque ([tabagisme]({{% relref "arret-tabac.md" %}}), [obésité]({{% relref "obesite-adulte.md" %}}) et [diabète]({{% relref "diabete-type-2.md" %}}))
 
@@ -96,6 +99,9 @@ RCP
 SNFGE
 : Société Nationale Française de Gastro-Entérologie
 
+TAP
+: thoraco-abdomino-pelvien
+
 TVP
 : thrombose veineuse profonde
 {.dl-inline}
@@ -106,12 +112,12 @@ TVP
 > [!INFO]
 > Le marqueur tumoral CA 19-9 n'a aucun intérêt pour le dépistage de l'adénocarcinome du pancréas.
 
-Pour toute la population: correction de [tabagisme]({{% relref "arret-tabac.md" %}}), [obésité]({{% relref "obesite-adulte.md" %}}) et [diabète]({{% relref "diabete-type-2.md" %}}).
+Pour toute la population, la prévention du cancer du pancréas passe par la correction des facteurs de risque ([tabagisme]({{% relref "arret-tabac.md" %}}), [obésité]({{% relref "obesite-adulte.md" %}}) et [diabète]({{% relref "diabete-type-2.md" %}})).
 
 ### Chez qui dépister le cancer du pancréas ?
 
-Adresser en consultation d'oncogénétique devant une suspicion de cancers familiaux.
-{.alert .alert-info}
+> [!INFO]
+> Une consultation d'oncogénétique est recommandée en cas de suspicion de cancers familiaux.
 
 Le dépistage du cancer du pancréas est réalisé par échoendoscopie couplée à l'IRM abdominale:
 
@@ -128,18 +134,18 @@ Le dépistage du cancer du pancréas est réalisé par échoendoscopie couplée 
   - Diabète récent (< 12 mois) après 50 ans sans antécédent familial de diabète ni surpoids OU amaigrissement > 10%
   - Pancréatite chronique et apparition ou décompensation de diabète
 
-Le dépistage débute à 40 ans en cas de pancréatite héréditaire et 50 ans (ou 10 ans avant le cas index) dans les cancers pancréatiques familiaux.
+Le dépistage débute à **40 ans** en cas de pancréatite héréditaire et **50 ans** (ou 10 ans avant le cas index) dans les cancers pancréatiques familiaux.
 
 > -- *INCa 2019*
 
 <details class="my-4">
-  <summary>Indications au dépistage de l'adénocarcinome du pancréas selon TNCD 2018</summary>
+  <summary>Indications au dépistage de l'adénocarcinome du pancréas selon TNCD 2024</summary>
 
-Dépister les personnes avec risque cumulé d'adénocarcinome du pancréas supérieur à 5 % ou risque relatif ≥ 5:
+Dépister les personnes avec risque cumulé d'adénocarcinome du pancréas supérieur à 5 % (vie entière) ou risque relatif ≥ 5:
 
 - ≥ 2 apparentés atteints d'adénocarcinome du pancréas (AP) dont ≥ 1 au premier degré
 - Mutation germinale d'un gène de prédisposition ET ≥ 2 apparentés atteints d'AP OU ≥ 1 au 1^er^ degré
-- Syndrome de Peutz-Jeghers
+- Syndrome de Peutz-Jeghers, mutation germinale de CDKN2A ou de PRSS1
 
 </details>
 
@@ -229,34 +235,31 @@ Bilan initial en cas de suspicion de cancer du pancréas:
 
 ### Scanner thoraco-abdomino-pelvien avec injection
 
-Le scanner thoraco-abdomino-pelvien est l'examen de référence en semi-urgence en cas de suspicion d'adénocarcinome du pancréas (protocole d'acquisition spécifique).
+Le **scanner thoraco-abdomino-pelvien** (TAP) est l'examen de référence en semi-urgence en cas de suspicion d'adénocarcinome du pancréas (protocole d'acquisition spécifique).
 
 Si le diagnostic de cancer du pancréas est évoqué sur l'imagerie, la RCP doit avoir lieu **dans les 4 semaines**.
 
-L'IRM a une performance diagnostique équivalente au scanner (et plus chère).
+L'**IRM** a une performance diagnostique équivalente au scanner.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
 Adresser en semi-urgence à l'équipe hospitalière de gastro-entérologie pour la suite de la prise en charge du cancer du pancréas. [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC).
 
-10 à 20 % des patients peuvent bénéficier d'une chirurgie d'exérèse à visée curative.  
-[Guide d'information patient SFCD/FCVD pancréatectomie (PDF)](https://www.fcvd.fr/wp-content/uploads/2022/01/FICHE-D_INFORMATION-PATIENT-PANCREATECTOMIE.pdf)
-
-La majorité reçoit aussi une chimiothérapie. Le taux de **récidive** est très élevé.
+10 à 20 % des patients peuvent bénéficier d'une **chirurgie d'exérèse** à visée curative ([guide SFCD/FCVD pancréatectomie (PDF)](https://www.fcvd.fr/wp-content/uploads/2022/01/FICHE-D_INFORMATION-PATIENT-PANCREATECTOMIE.pdf)). La majorité reçoit aussi une **chimiothérapie**. Le taux de **récidive** est très élevé.
 
 Mesures associées de prise en charge du cancer du pancréas:
 
-- Information du patient: [guide INCa Cancer du pancréas](https://www.cancer.fr/catalogue-des-publications/les-traitements-du-cancer-du-pancreas)
-- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 - Traitement de la douleur
 - Prise en charge de la dépression et de la dénutrition
+- Information du patient: [guide INCa](https://www.cancer.fr/catalogue-des-publications/les-traitements-du-cancer-du-pancreas)
 - Association de patients: [ESPOIR PANCRÉAS](https://www.espoir-pancreas.fr)
+- Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Prise en charge du cancer du pancréas" "show" %}}
 
-{{< mermaid title="Prise en charge du cancer du pancréas par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après INCa 2020 et 2019" >}}
+{{< mermaid title="Prise en charge du cancer du pancréas par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après INCa" >}}
 graph TB
   suspicion["<b>Suspicion de<br>cancer du pancréas</b><br>—<br>Après 50 ans surtout:<br>- Douleurs abdominales<br>- AEG<br>- Ictère"] --> bilan("<b>Bilan semi-urgent</b><br>—<br>- NFS ...<br>- Bilan hépatique<br>- Albuminémie<br>- Glycémie<br>- Scanner AP<br>avec injection") -- Anormal --> spécialiste("- Gastro-entérologue de CLCC<br>sous 4 semaines<br>- Scanner thoracique<br>- Dosage CA 19-9") -.-> familial("Dépistage familial<br>si ≥ 2 AP au 1er degré<br>ou 3 AP au 2e degré")
   bilan -- Normal --> prévention("- Explorer une<br>autre cause<br>- Prévention de l'AP:<br>Arrêt tabac,<br>correction surpoids,<br>activité physique") -.-> familial
@@ -268,6 +271,8 @@ graph TB
 {{%sources%}}
 
 {{< youtube id="BInhR4vlfH0" title="Cancer du pancréas : pourquoi ça augmente ? (TutoGastro SNFGE)" >}}
+
+{{< youtube id="BFAS3cKqc4o" title="Cancer du pancréas : une histoire de famille ? (TutoGastro SNFGE)" >}}
 
 - [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [Hammel P, et al. Cancer du pancréas. Thésaurus National de Cancérologie Digestive (TNCD). 2024.](https://www.snfge.org/tncd/cancer-du-pancreas)
