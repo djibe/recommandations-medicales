@@ -41,19 +41,6 @@ Sur la même période, 21 départements ont vu le nombre de médecins générali
 
 **NB.** Ces classements sont en valeur relative et ne prennent pas en compte la densité médicale des généralistes.
 
-#### Tableau des variations départementales de médecins généralistes en activité sur la période 2010 - 2022
-
-<script type="application/ld+json">{"@context": "https://schema.org","@type": "Table","about": "Variations selon les départements du nombre de généralistes en activité sur la période 2010-2022"}</script>
-<table id="department-variations" class="table table-sm">
-<caption><span class="font-weight-bold">Tableau.</span> Variations selon les départements du nombre de généralistes en activité sur la période 2010-2022.</caption>
-<thead>
-  <tr>
-    <th scope="col">Département</th>
-    <th scope="col">Variation (%)</th>
-  </tr>
-</thead>
-</table>
-
 ### Pyramide des âges des médecins généralistes en activité
 
 {{< figure-chart title="Pyramide des âges des médecins généralistes en activité régulière en 2025. Dr JB Fron d'après CNOM 2023" id="chart-2" >}}
@@ -136,21 +123,4 @@ const chartOptions2 = {
     }
   }
 }
-</script>
-<script>
-  // CNOM 2022 Tableau 16
-const dataSource = [{{< data/generalists-department >}}]
-window.addEventListener('load', () => {
-  $(function () {
-    $('#department-variations').DataTable({
-      data: dataSource,
-      dom: '<"top"f><rt<"bottom"Blip>>',
-      // paging: true,
-      pageLength: 25
-    })
-    .on('page.dt', () => {
-      $('[data-toggle="tooltip"]').tooltip({placement: 'bottom'})
-    })
-  })
-})
 </script>
