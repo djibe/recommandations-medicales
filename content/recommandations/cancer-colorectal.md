@@ -20,7 +20,7 @@ image = true
 imageSrc = "Illustration du cancer colorectal. Blausen Medical Communications, Inc., CC BY 3.0, via Wikimedia Commons"
 rank = "ok"
 writing = "todo"
-todo = "update citations TNCD, relecture"
+todo = "relecture"
 flowchart = true
 +++
 
@@ -151,7 +151,7 @@ Indications à une **consultation d'oncogénétique**:
 - Phénotype MSI ou dMMR
 - Suspicion de Polypose Adénomateuse Familiale (PAF)
 
-> -- *TNCD 2023*
+> -- *TNCD 2026*
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -311,24 +311,55 @@ Le traitement dépend de la décision de la réunion de concertation pluridiscip
   [France Côlon](https://www.france-colon.fr), [Mon réseau cancer colorectal](https://www.monreseau-cancercolorectal.com), [Crohn-RCH France](https://www.afa.asso.fr), [Ligue nationale contre le cancer](https://www.ligue-cancer.net), [Polyposes Familiales](https://www.polyposes-familiales.fr), [HNPCC - Lynch](http://www.hnpcc-lynch.com), [Ligue Cancer info](https://www.ligue-cancer.net) (ou {{<phone>}}0 805 123 124{{</phone>}})
 - Déclarer l'[ALD n°30]({{% relref "affection-longue-duree.md" %}})
 
-### Suivi après cancer du côlon ou rectum
-
-Pendant 5 ans: clinique (trimestrielle pendant 3 ans puis semestriel), scanner ou **échographie abdomino-pelvienne** (même rythme que la clinique), radiographie de thorax (semestrielle pendant 3 ans puis annuelle), coloscopie (annuelle).
-
-Après 5 ans: suivi du risque élevé avec coloscopie tous les 5 ans.
-
-> -- *TNCD 2023* et *INCa 2018*
-
 ### Pour en savoir: traitement du cancer du côlon et du haut rectum
 
 Le traitement principal du cancer colorectal est la chirurgie. Selon le stade, une chimiothérapie adjuvante, thérapie ciblée, radiothérapie (cancer du rectum) ou des soins palliatifs sont décidés.
 
-### Pour en savoir: traitement des cancers du moyen et bas rectum
+#### Traitement des cancers du moyen et bas rectum
 
 - Chirurgie
 - Stade I: radiothérapie ± chimiothérapie
 - Stade II et III: radio-chimiothérapie néo-adjuvante et chimiothérapie adjuvante
 - Stade IV: au cas par cas
+
+{{% /collapse %}}
+{{%collapse "Suivi" %}}
+
+> [!INFO]
+> <<  la surveillance de l'ACE, d'intérêt non démontré, n'est plus recommandée >>. -- *TNCD 2026*
+
+Suivi du cancer du côlon selon *TNCD 2026*.
+
+### Suivi après résection chirurgicale
+
+Les cancers de **stade I** ne nécessitent pas de surveillance de récidive à distance.
+
+Pour tous les stades I à III, ==**coloscopie**== (*ESGE 2019, 2020*, *SFED 2021*):
+
+- Coloscopie incomplète ou de mauvaise qualité avant la résection:  
+  coloscopie dans les 6 mois post-opératoires, puis à 1 an, 3 ans et 5 ans, si la coloscopie précédente est normale
+- Coloscopie complète et de bonne qualité en pré-opératoire:  
+  coloscopie à 1 an, 3 ans et 5 ans si la coloscopie précédente est normale.
+- Syndrome génétique: suivi intensifié
+- Après 5 ans: le rythme varie
+
+Suivi des cancers **stades II et III** (modulable):
+
+- Examen clinique tous les 3 mois pendant 3 ans, puis tous les 6 mois pendant 2 ans
+- Références:
+  - Échographie abdomino-pelvienne tous les 3 mois pendant 3 ans, puis tous les 6 mois pendant 2 ans
+  - Radiographie de thorax tous les 6 mois pendant 3 ans, puis annuelle pendant 2 ans
+- Alternatives à la référence:
+  - Scanner thoraco-abdomino-pelvien (TAP) chez le patient peu échogène ou de risque de récidive élevé (T4, N2)
+  - Petscan: suspicion de récidive ou élévation inexpliquée de l'ACE
+
+### Suivi après résection chirurgicale
+
+Selon ESGE 2020:
+
+- Tumeurs à très bas risque ganglionnaires (adénocarcinomes intra-muqueux purs (Tis)): contrôle endoscopique uniquement, à 3 ans si exérèse R0, à 6 mois si exérèse monobloc R1, à 6 et 18 mois si exérèse fragmentée.
+- Tumeurs à bas risque ganglionnaires (adénocarcinomes à envahissement sous-muqueux superficiel (sm1 = T1a) lorsque l'invasion sous-muqueuse est inférieure à 1000 microns et qu'aucun critère qualitatif de risque d'invasion ganglionnaire n'est présent) : TDM TAP d'extension en post-résection puis coloscopie à 1 an et 3 ans.
+- Tumeurs à haut risque ganglionnaires (en cas de présence d'un cancer T1 avec critères anatomopathologiques péjoratifs à risque d'invasion ganglionnaire) : surveillance oncologique selon les résultats de la chirurgie adjuvante, coloscopie à 1 an et à 3 ans.
 
 {{% /collapse %}}
 {{%collapse "Aide au dépistage adapté du cancer colorectal" "show" %}}
