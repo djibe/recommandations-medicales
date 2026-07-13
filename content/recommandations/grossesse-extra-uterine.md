@@ -8,10 +8,10 @@ synonyms = ["Grossesse ectopique"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-06-12T16:27:49+02:00"
 publishdate = "2026-07-03"
-lastmod = "2026-07-03"
+lastmod = "2026-07-13"
 specialites = ["gynécologie-obstétrique"]
 annees = "2026"
-sources = ["CNGOF"]
+sources = ["CNGOF", "ACOG"]
 tags = ["douleur pelvienne", "grossesse", "tabac"]
 english = ["Ectopic pregnancy"]
 sctid = "34801009"
@@ -118,12 +118,12 @@ Autres causes de douleurs pelviennes et de métrorragies:
 > [!WARNING]
 > Le diagnostic de GEU doit être évoqué chez toute femme en âge de procréer, se présentant aux urgences pour des douleurs pelviennes et/ou des métrorragies (*Collège*).
 
-À chaque grossesse, chez une femme présentant des facteurs de risques (FIV, antécédent de GEU, lésion tubaire, IGH), une grossesse extra-utérine doit être recherchée (*ACOG 2018*).
-
-Une grossesse extra-utérine peut être **asymptomatique**.
+À chaque grossesse, chez une femme présentant des **facteurs de risques** (FIV, antécédent de GEU, lésion tubaire, IGH), une grossesse extra-utérine doit être recherchée (*ACOG 2018*).
 
 > [!WARNING]
 > La GEU est dite << symptomatique >> en cas d'instabilité hémodynamique (pression artérielle, fréquence cardiaque) et/ou de symptômes (douleurs abdomino-pelviennes spontanée ou provoquée à l'examen, défense abdominale).
+
+Une grossesse extra-utérine peut être **asymptomatique**.
 
 ### Interrogatoire
 
@@ -173,7 +173,7 @@ Le bilan d'une GEU comprend en urgence:
 
 ### Dosage des ßhCG
 
-Le seuil de ß-hCG ≥ ==**1500 UI/L**== rend le diagnostic de GEU **très probable** en l'absence d'images de grossesse intra-utérine.
+Le seuil de ß-hCG ≥ ==**1500 UI/L**== rend le diagnostic de GEU **très probable** en l'absence d'image de grossesse intra-utérine.
 
 En cas de ß-hCG **< 1500 UI/L** sans signe de gravité, **répéter le dosage à 48 heures** pour évaluer son ascension et sa coordination avec les images échographiques. Ensuite si nécessaire, les ß-hCG sont contrôlés tous les **2 à 7 jours**.
 
@@ -185,7 +185,7 @@ L'**échographie pelvienne** en urgence est systématique en cas de suspicion de
 
 ==L'absence de sac gestationnel utérin pour des ß-HCG ≥ 1500 UI/L== est le principal signe indirect de GEU. Les autres signes sont une masse latéro-utérine douloureuse au passage de la sonde, un épanchement du cul-de-sac de Douglas. Un **hémopéritoine est un signe de gravité**.
 
-Les bilans doivent être répétés jusqu'à ce que la la **localisation de la grossesse** soit clairement identifiée.
+Les bilans doivent être répétés jusqu'à ce que la **localisation de la grossesse** soit clairement identifiée.
 
 > [!INFO]
 > Au cours d'une grossesse intra-utérine, le sac gestationnel doit être visible à partir de la 5^e^ (ou 6^e^) semaine de grossesse, et pour un taux de ßhCG supérieur à 3500 mUI/mL (*ACOG*).
@@ -266,6 +266,25 @@ La chirurgie essaie d'être conservatrice au maximum (**salpingotomie**). En cas
 Les taux d'ßhCG est également surveillé toutes les 48 heures pour vérifier l'efficacité du traitement.
 
 > En cas d'aspiration pour grossesse de **localisation indéterminée**, le suivi des ßhCG seul est possible si sa baisse à 12-24 heures est ≥ 50 %.
+
+{{% /collapse %}}
+{{%collapse "Prise en charge de la GEU" "show" %}}
+
+{{< mermaid title="Prise en charge de la grossesse extra-utérine (GEU). Dr JB Fron d'après CNGOF, ACOG" >}}
+graph TB
+  retard["Retard de règles"] --> hCG(ßhCG) -.-> échographie("Échographie") -- "Absence<br> de sac" --> choc
+    échographie -- "Activité<br>cardiaque" --> chirurgie("Chirurgie urgente,<br> et suivi.<br>(et à tout moment <br> si symptôme(s))")
+  suspicion["<b>Suspicion de GEU tubaire</b><br>—<br>- Douleurs abdominales / pelviennes<br>- Métrorragies<br>- ± Facteur de risque"] --> choc
+  choc("État de choc,<br> symptômes ?") -- Non --> bilan("<b>Bilan urgent</b><br>—<br>- ßhCG<br>- Échographie pelvienne<br> endovaginale et abdominale")
+    bilan --> choix("<b>Tous critères présents ?</b><br>- Asymptomatique<br>- ßhCG &lt; 1000<br>- Taille &lt; 35 mm<br>- 0 activité cardiaque<br>Pas d'épanchement<br>- Contexte socio-éco satisfaisant") -- Oui --> expectative("Approche expectative<br>possible") --> 72h(ßhCG à<br>48-72 h) -- "↗ ≥ 15 %" --> action(Chirurgie<br>ou MTX)
+      72h -- "Stagnation" --> contrôle(Contrôle<br>à 48 h<br> ou MTX) -. "↗ ≥ 15 %" .-> action
+      72h -- "↘ ≥ 15 %" --> décroissance("Suivi hebdo<br>jusqu'à<br>négativation")
+    choix -- Alternative --> MTX(Méthotrexate IM en CPC,<br>ßhCG) --> suiviMTX(ßhCG J4<br> et J7)
+    choix -- Alternative --> chirurgie
+  choc -- Oui --> SAMU(SAMU)
+  style retard stroke:#4150f5, stroke-width:1px
+  style suspicion stroke:#4150f5, stroke-width:1px
+{{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
