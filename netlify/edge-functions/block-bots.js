@@ -3,6 +3,7 @@
 // Watch: Observer
 const botUas = [
   '.fr crawler',
+  'AgentTimes',
   'aiohttp',
   'AIWebIndex',
   'Amzn-SearchBot',
