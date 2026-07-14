@@ -7,23 +7,27 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-25T16:39:18+02:00"
 publishdate = "2022-10-28"
-lastmod = "2025-10-04"
+lastmod = "2026-07-14"
 specialites = ["néphrologie"]
-annees = "2012"
-sources = ["KDIGO"]
+annees = "2024"
+sources = ["NICE", "KDIGO"]
 tags = ["AINS", "céphalées"]
 english = ["Acute kidney injury (AKI)"]
 sctid = "14669001"
 icd10 = ["N17", "N17.9"]
 image = true
 imageSrc = "Uronéphrose droite sur lithiase urinaire. Cas du Dr Sajoscha A. Sorrentino, Radiopaedia.org, rID: 15679"
+rank = "false"
+writing = "todo"
 todo = "IEC/ARA2/néphrotoxiques"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- L'insuffisance rénale aiguë (IRA) est une urgence médicale définie comme: {{< clinique/insuffisance-renale-aigue >}}
+- L'insuffisance rénale aiguë (IRA) est une diminution du débit de filtration glomérulaire (DFG) d'apparition rapide entraînant une urémie et des troubles hydroélectrolytiques mettant en jeu le pronostic vital à court terme.
+- L'insuffisance rénale aiguë est une urgence médicale définie comme: {{< clinique/insuffisance-renale-aigue >}}
+- Rechercher une insuffisance rénale aiguë en cas de pathologie aiguë chez un sujet à risque: insuffisant rénal, cardiaque, hépatique, diabétique ...
 - Évaluer la gravité clinique, rechercher un globe vésical, arrêter les IEC/ARA2/néphrotoxiques et adresser pour prise en charge aux Urgences (échographie pour recherche d'obstacle, biologie, ECG)  
   Fournir les antécédents et bilans rénaux pour aider à la recherche étiologique
 - Pour les informations sur les injections de produits de contraste iodé, voir *Rein et produits de contraste*
@@ -32,37 +36,26 @@ flowchart = true
 Chapitre lié: [insuffisance rénale chronique]({{% relref "insuffisance-renale-chronique.md" %}})
 
 {{%/article-summary%}}
-{{%collapse "Étiologie" %}}
-
-Causes d'insuffisance rénale aiguë:
-
-- Cause prérénale fonctionnelle (insuffisance rénale aiguë fonctionnelle - IRA F)  
-  Déshydratation extracellulaire (déshydratation, brûlure, diarrhées, diurétique, diabète décompensé, [insuffisance surrénale aiguë]({{% relref "insuffisance-surrenale.md" %}})), iatrogène (IEC, ARA2, AINS, inh. calcineurine) ou hypovolémie efficace (choc, insuffisance cardiaque, syndrome néphrotique, décompensation œdémato-ascitique).
-- Cause parenchymateuse  
-  Nécrose tubulaire aiguë (ischémique ou toxique), néphropathie interstitielle ou glomérulopathie.
-- Cause post-rénale (10%)  
-  Obstacle intratubulaire ou sur la voie excrétrice (lithiase, tumeur, HBP, sténose ou rétention aiguë d'urines).
-
-Toujours rechercher un obstacle devant une IRA.
-
-{{% /collapse %}}
 {{%collapse "Définition" %}}
 
 Insuffisance rénale aiguë (IRA)
-: L'insuffisance rénale aiguë est une diminution du débit de filtration glomérulaire d'apparition rapide entraînant une urémie et des troubles hydroélectrolytiques mettant en jeu le pronostic vital à court terme. Bilan urgent.
+: Diminution du débit de filtration glomérulaire (DFG) d'apparition rapide entraînant une urémie et des troubles hydroélectrolytiques mettant en jeu le pronostic vital à court terme.
 : Définition *KDIGO 2012*: {{< clinique/insuffisance-renale-aigue >}}
-: Préciser s'il s'agit d'une IRA à **diurèse conservée** (> 500 mL/24h), **oligoanurique** (100-500 mL/24h) ou **anurique** (< 100 mL/24h).
+: Préciser s'il s'agit d'une IRA à **diurèse conservée** (> 500 mL/24h), **oligoanurique** (200-500 mL/24h) ou **anurique** (< 200 mL/24h) chez un patient avec une vessie vide.
 : L'estimation du débit de filtration glomérulaire n'est pas réalisable lors d'une insuffisance rénale aiguë.  
 Valeurs normales de créatininémie: 60-107 µmol/L chez la femme et 80-115 chez l'homme.
 
 | Stade | Créatininémie | Diurèse |
-| ----: | :------------ | ------- |
-| 1     | Augmentation ≥ 26,5 µmol/L en 48h<br>ou ≥ 50 % en 7 jours | < 0,5 mL/kg/h pendant 6-12h |
-| 2     | Créatinine doublée* | < 0,5 mL/kg/h pendant ≥ 12h |
-| 3     | Créatinine triplée*<br>ou augmentation ≥ 353,6 µmol/L<br>ou nécessité de dialyse<br>ou DFG < 35 chez le -18 ans | < 0,3 mL/kg/h pendant ≥ 24h<br>ou anurie ≥ 12h |
+| :---: | :------------ | ------- |
+| 1     | Augmentation ≥ 26,5 µmol/L (3 mg/L) en 48 h<br>ou ≥ 50 % en 7 jours | < 0,5 mL/kg/h pendant 6-12 h |
+| 2     | Créatinine doublée* | < 0,5 mL/kg/h pendant ≥ 12 h |
+| 3     | Créatinine triplée*<br>ou augmentation ≥ 353,6 µmol/L (40 mg/L)<br>ou nécessité de dialyse<br>ou DFG < 35 chez le -18 ans | < 0,3 mL/kg/h pendant ≥ 24h<br>ou anurie ≥ 12 h |
 {caption="Stades de l'insuffisance rénale aiguë selon *KDIGO 2012*"}
 
-> \* par rapport à sa valeur de base | 26,5 µmol/L de créatininémie = 0,3 mg/dL | 353,6 µmol/L = 4 mg/dL
+> \* par rapport à sa valeur de base (en 7 jours) | 26,5 µmol/L de créatininémie = 3 mg/L | 353,6 µmol/L = 40 mg/L
+
+> [!INFO]
+> << En période de fonction rénale instable, ce qui est le cas lors de l'installation de l'IRA, il n'est pas possible d'estimer le débit de filtration glomérulaire (DFG) par les différentes formules de calcul, MDRD, CKD-EPI ... (*CUEN*).
 
 ### Abréviations
 
@@ -87,6 +80,9 @@ IRC
 KDIGO
 : {{%lang%}}Kidney Disease: Improving Global Outcomes{{%/lang%}}
 
+NICE
+: {{%lang%}}National Institute for Health and Care Excellence{{%/lang%}}
+
 PCI
 : produit de contraste iodé
 
@@ -98,36 +94,95 @@ SFR
 {.dl-inline}
 
 {{% /collapse %}}
+{{%collapse "Étiologie" %}}
+
+Principales causes d'insuffisance rénale aiguë (IRA):
+
+- **Cause prérénale: IRA fonctionnelle** (insuffisance rénale aiguë fonctionnelle)
+  - Déshydratation extracellulaire  
+    Déshydratation, brûlure, diarrhées, diurétique, diabète décompensé, [insuffisance surrénale aiguë]({{% relref "insuffisance-surrenale.md" %}}).
+  - Iatrogène  
+    IEC, ARA2, AINS, inhibiteur de la calcineurine.
+  - Hypovolémie efficace  
+    Choc, insuffisance cardiaque, syndrome néphrotique, décompensation œdémato-ascitique.
+- **Cause parenchymateuse**
+  - **Nécrose tubulaire aiguë** (ischémique ou toxique)
+  - Néphropathie interstitielle
+  - Glomérulopathie
+- **Cause post-rénale: IRA obstructive**  
+  Obstacle bilatéral intratubulaire ou sur la voie excrétrice (ou unilatéral sur rein unique): lithiase, tumeur, adénome prostatique, sténose ou rétention aiguë d'urines.
+
+{{% /collapse %}}
 {{%collapse "Clinique" %}}
+
+La prise en charge de l'insuffisance rénale aiguë est guidée par l'évolution de la **créatininémie** et le volume de la **diurèse**.
+
+### Interrogatoire
 
 Éléments à étayer devant une élévation de la créatinine ou d'une anurie:
 
-- Antécédents  
-  Urologiques, tabac, familiaux lithiasiques.
-- Traitements en cours: IEC, sartan, AINS
-- Fonctions rénales antérieures
-- Diurèse
-- Signes généraux: fièvre, douleurs
+- Antécédents: néphrologiques, urologiques, comorbidités (cardiaque, hépatique, diabète, neurologique)
+- Antécédents familiaux lithiasiques ou de néphropathie
+- Traitements en cours  
+  IEC/ARA2, iSGLT2, AINS, diurétique, inhibiteur de la calcineurine.
+- Valeurs de créatinine antérieures
+- Contexte d'apparition (déshydratation, fièvre ...)
+- ==**Diurèse**==
+- **Signes et symptômes d'une insuffisance rénale aiguë** (signes tardifs):
+  - Anurie
+  - Surcharge hydrosodée  
+    Dyspnée, œdèmes, [hyponatrémie]({{% relref "hyponatremie.md" %}}).
+  - Syndrome urémique  
+    Troubles digestifs (nausées, vomissements, diarrhées), anorexie, confusion, astérixis, réflexes vifs, épilepsie.
+  - [Céphalées](/tags/cephalees/)
+  - Troubles visuels
+- Signes d'orientation étiologique: douleurs, fièvre, hématurie
+
+### Examen clinique
+
+- Pression artérielle, fréquence cardiaque
+- Fréquence respiratoire, SpO~2~
+- Poids et variation
+- Signes de déshydratation  
+  {{< clinique/deshydratation >}}
+- Palpation abdominale et des fosses lombaires
+- Examen neurologique
+- Œdèmes
 - Rechercher un globe vésical, touchers pelviens
+- Bandelette urinaire
 
-Les symptômes et signes associés à la survenue d'une insuffisance rénale aiguë (IRA) sont tardifs:
+{{% /collapse %}}
+{{%collapse "Examens complémentaires" %}}
 
-- Anurie
-- Surcharge hydrosodée  
-  Dyspnée, œdèmes, [hyponatrémie]({{% relref "hyponatremie.md" %}}).
-- Syndrome urémique  
-  Troubles digestifs (nausées, vomissements, diarrhées), anorexie, confusion, astérixis, réflexes vifs, épilepsie.
-- [Céphalées](/tags/cephalees/)
-- Troubles visuels
+### Bilan de l'insuffisance rénale aiguë
+
+Le bilan d'une insuffisance rénale aiguë est urgent:
+
+- NFS, CRP
+- ==**Créatinine**==, urée
+- Ionogramme
+- Calcémie
+- ± Gaz du sang
+- Ionogramme urinaire, urée urinaire et créatininurie
+- **Échographie des voies urinaires**
+
+### Échographie des voies urinaires
+
+L'échographie des voies urinaires est indispensable devant toute insuffisance rénale aiguë (*CUEN*).
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'insuffisance rénale aiguë" %}}
 
-Rechercher un globe vésical et adresser aux Urgences pour la prise en charge de l'insuffisance rénale aiguë (biologie, ECG, échographie rénovésicale pour recherche d'obstacle).
+> [!INFO]
+> La prise en charge de l'insuffisance rénale aiguë est urgente et le traitement est étiologique, en parallèle du traitement des complications.
 
-Préciser les antécédents ([insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}), [HBP]({{% relref "hypertrophie-benigne-prostate.md" %}}) ...), les valeurs antérieures de créatinine et le niveau de diurèse.
+Rechercher un globe vésical et adresser aux Urgences pour la prise en charge de l'insuffisance rénale aiguë (biologie, ± ECG, échographie rénovésicale pour recherche d'obstacle).
 
-Consultation de contrôle à 3 mois après la correction de l'épisode d'insuffisance rénale aiguë.
+**Avis urologique** en urgence en cas de: obstruction des voies urinaires ou ses complications, pyélonéphrite obstructive, obstruction sur rein unique.
+
+**Avis néphrologique** urgent en cas de: vascularite, glomérulonéphrite, myélome, absence de cause retrouvée, résistance au traitement, complications de l'IRA, IRA stade 3, greffe rénale, MRC stade 4 ou 5 (DFG basal < 30)
+
+Consultation de contrôle à **3 mois** après la correction de l'épisode d'insuffisance rénale aiguë.
 
 {{% /collapse %}}
 {{%collapse "Rein et injections de produits de contraste" %}}
@@ -136,6 +191,7 @@ Consultation de contrôle à 3 mois après la correction de l'épisode d'insuffi
 > << il n'est pas recommandé de doser la créatininémie pour estimer le DFG avant une IRM injectée >> car << une insuffisance rénale aiguë avec les produits gadolinés en IRM, n'existe pas aux doses utilisées >>. -- *SFNDT 2020*
 
 Insuffisance rénale aiguë post-contraste (IRA-PC)
+: ou néphropathie des produits de contraste iodés (NPCI)
 : Même définition que l'insuffisance rénale aiguë, survenant dans les 48 à 72 heures suivant l'injection intravasculaire d'un produit de contraste iodé.
 : L'IRA-PC ne survient que sur un rein altéré et entraîne une surmortalité.
 
@@ -189,13 +245,13 @@ graph TB
 {{%sources%}}
 
 - [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale aiguë - Anurie. Item 348. Manuel de néphrologie 11ème édition. 2025.](https://manuel.cuen.fr/accueil-chapitres/)
+- [NICE. Acute kidney injury: prevention, detection and management. NICE guideline. 2024.](https://www.nice.org.uk/guidance/ng148)
 - [Collège Français des Enseignants en Urologie (CFEU). Insuffisance rénale aiguë - Anurie. Item 348. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/item-348-Insuffisance-renale-aigue.pdf)
 - [SFR, CIRTACI, SFNDT. Rein et produits de contraste. 2020. (PDF)](https://www.sfndt.org/sites/www.sfndt.org/files/medias/documents/Fiche%20de%20recommandation%20pour%20la%20pratique%20clinique_rein%20et%20produit%20de%20contraste.pdf)
 - [KDIGO. Clinical practice guideline for acute kidney injury. Kidney Inter. 2012.](https://kdigo.org/guidelines/acute-kidney-injury/)
 
 ### Bibliographie en attente
 
-- [NICE. Acute kidney injury: prevention, detection and management. NICE guideline. 2024.](https://www.nice.org.uk/guidance/ng148)
 - [Collège Universitaire des Enseignants de Néphrologie (CUEN). Élévation de la créatininémie. Manuel de néphrologie 11ème édition. 2025.](https://manuel.cuen.fr/accueil-chapitres/)
 - [ESUR](http://www.esur.org/fileadmin/content/2019/ESUR_Guidelines_10.0_Final_Version.pdf)
 - [EMA](https://www.ema.europa.eu/en/documents/referral/gadolinium-article-31-referral-prac-confirms-restrictions-use-linear-gadolinium-agents_en.pdf)
