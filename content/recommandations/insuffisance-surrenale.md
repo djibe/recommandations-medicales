@@ -7,7 +7,7 @@ synonyms = ["Maladie d'Addison"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-04-09T23:20:20+02:00"
 publishdate = "2026-04-17"
-lastmod = "2026-07-14"
+lastmod = "2026-07-16"
 specialites = ["endocrinologie"]
 annees = "2024"
 sources = ["NICE", "SFE"]
@@ -26,11 +26,12 @@ flowchart = true
 {{%article-summary%}}
 
 - L'insuffisance surrénale est une endocrinopathie rare liée à l'incapacité des surrénales à produire le cortisol. Les principales causes d'insuffisance surrénale primaire (ISP) sont auto-immunes chez l'adulte (maladie d'Addison) et génétiques chez l'enfant. La corticothérapie est la principale cause d'insuffisance corticotrope (IC)
-- Les signes clinico-biologiques de l'insuffisance surrénale ne sont pas spécifiques mais leur association a une valuer diagnostique forte: fatigue, anorexie, amaigrissement, hypotension, hyponatrémie, hyperkaliémie, appétence pour le sel, mélanodermie ...
+- Les signes clinico-biologiques de l'insuffisance surrénale primaire ne sont pas spécifiques mais leur concomitance a une valeur diagnostique forte: fatigue, anorexie, amaigrissement, hypotension, hyponatrémie, hyperkaliémie, appétence pour le sel, mélanodermie ...
 - Le diagnostic positif de l'insuffisance surrénale est basé en 1^re^ intention sur le dosage du cortisol à 8 heures:
-  - L'insuffisance surrénale primaire est caractérisée biologiquement par un taux de cortisol abaissé et un taux d'ACTH élevé au réveil. Son diagnostic impose de débuter rapidement le traitement
-  - L'insuffisance corticotrope (d'origine hypothalamo-hypophysaire) est caractérisée par un taux de cortisol abaissé et un taux  d'ACTH normal ou abaissé au réveil. En cas de déficit corticotrope incomplet, des explorations dynamiques en milieu spécialisé peuvent être nécessaires
-- La prise en charge thérapeutique de l'insuffisance surrénale est basée sur l'instauration d'un traitement substitutif par hydrocortisone (HC, glucocorticoïde) à la dose minimale efficace. La substitution d'un déficit corticotrope comprend aussi la fludrocortisone (minéralocorticoïde) et dans certains cas, la DHEA chez la femme en cas d'altération de la qualité de vie
+  - L'insuffisance surrénale primaire est caractérisée biologiquement par un taux de cortisol abaissé et un taux d'ACTH élevé au réveil. Son diagnostic impose de débuter rapidement le traitement par l'hydrocortisone
+  - L'insuffisance corticotrope (d'origine hypothalamo-hypophysaire) est caractérisée par un taux de cortisol abaissé et un taux d'ACTH normal ou abaissé au réveil. En cas de déficit corticotrope incomplet, des explorations dynamiques en milieu spécialisé peuvent être nécessaires
+- La prise en charge thérapeutique de l'insuffisance surrénale primaire et secondaire est basée sur l'instauration d'un traitement substitutif par hydrocortisone (HC, glucocorticoïde) à vie à la dose minimale efficace.
+  - La substitution de l'insuffisance surrénale primaire associe à l'hydrocortisone (glucocorticoïde) la fludrocortisone (minéralocorticoïde) et dans certains cas, la DHEA chez la femme en cas d'altération de la qualité de vie
 - L'éducation thérapeutique du patient insuffisant surrénalien est essentielle pour la détection, la prévention et le traitement des situations à risque d'insuffisance surrénale aiguë (urgence vitale)
 - Le patient insuffisant surrénalien doit bénéficier d'un suivi en consultation spécialisée d'endocrinologie
 
@@ -68,7 +69,7 @@ ISP
 : insuffisance surrénale primaire
 
 ISPC
-:  insuffisance surrénale post-corticothérapie
+: insuffisance surrénale post-corticothérapie
 
 NICE
 : {{%lang%}}National Institute for Health and Care Excellence{{%/lang%}}
@@ -98,14 +99,14 @@ Les principales causes d'insuffisance surrénale primaire sont auto-immunes chez
 - Nécrose hémorragique des surrénales au cours d'un état de choc
 - Iatrogène: surrénalectomie bilatérale, nécrose hémorragique sous anticoagulant, kétoconazole, mitotane, osilodrostat
 
-Chez l'**enfant**, les causes génétiques sont les plus fréquentes (l'**hyperplasie congénitale des surrénales** par déficit en 21-hydroxylase représente 90 % des causes et bénéficie d'un dépistage néonatal en France. Plus rare, l'adrénoleucodystrophie survient par accumulation d'acides gras à très longues chaînes dans les surrénales).
+Chez l'**enfant**, les causes génétiques sont les plus fréquentes (l'**hyperplasie congénitale des surrénales** par déficit en 21-hydroxylase représente 90 % des causes et bénéficie d'un dépistage néonatal en France. Moins fréquemment adrénoleucodystrophie survient par accumulation d'acides gras à très longues chaînes dans les surrénales).
 
 ### Causes d'insuffisance corticotrope
 
 La corticothérapie est la première cause d'insuffisance corticotrope.
 
 - ==**Corticothérapie**== à dose > 10 mg de prednisone pendant plus de 3-4 semaines (1^re^ cause)  
-  Une décompensation peut survenir après diminution de la corticothérapie < 5 mg d'équivalent prednisone ou lors d'une affection aiguë intercurrente.
+  Une décompensation surrénale aiguë peut survenir après diminution de la corticothérapie < 5 mg d'équivalent prednisone ou lors d'une affection aiguë intercurrente.
 - Après traitement curatif d'un syndrome de Cushing
 - Iatrogènes: morphiniques, imipramine, chlorpromazine
 - Tumeur hypothalamo-hypophysaire  
@@ -243,8 +244,9 @@ Le bilan du nourrisson et de l'enfant n'est pas détaillé ici.
 Recommandations pour la prise en charge de l'insuffisance surrénale (de l'adulte):
 
 - **Traitement hormonal substitutif** à vie:
-  - [Hydrocortisone 10 mg cp](https://base-donnees-publique.medicaments.gouv.fr/medicament/60997882/extrait#tab-rcp), 15-25 mg à la dose la plus faible possible, en 2 à 3 prises (souvent matin, midi ± après-midi); 10-20 mg/j en cas d'insuffisance corticotrope.
+  - [Hydrocortisone 10 mg cp](https://base-donnees-publique.medicaments.gouv.fr/medicament/60997882/extrait#tab-rcp), 15-25 mg à la dose la plus faible possible, en 2 à 3 prises (souvent matin, midi ± après-midi) en cas d'ISP; 10-20 mg/j en cas d'insuffisance corticotrope.
   - En cas d'ISP: associer la [fludrocortisone](https://base-donnees-publique.medicaments.gouv.fr/medicament/64199305/extrait#tab-rcp) cp, 50-150 µg/j en 1 prise
+  - Manger en salant normalement l'alimentation
 - Femme avec DHEA basse et altération de la qualité de vie, trouble de l'humeur ou de la libido malgré des traitements équilibrés:
   - DHEA 25-50 mg/j testée pendant 3-6 mois, prolongée si efficace
   - Suivi clinico-biologique (symptômes, taux de DHEA 24h après la dernière prise)
@@ -271,8 +273,8 @@ Mesures de suivi de l'insuffisance surrénale de l'adulte:
 - Enfant: croissance, puberté
 - Ionogramme sanguin
 - Biologie: ionogramme, glycémie à jeun, bilan lipidique
-  - Si Addison: dépistage auto-immun régulier (TSH, glycémie à jeun, NFS, vitamine B12)
-- Ostéodensitométrie: au moins 5 ans après le diagnostic (chez l'adulte)
+  - Si Addison: dépister l'auto-immunité (TSH, glycémie à jeun, NFS, vitamine B12)
+- Ostéodensitométrie: au moins 5 ans après le diagnostic chez l'adulte
 - Éducation thérapeutique (voir ci-dessous)
 
 ### Éducation thérapeutique
@@ -280,8 +282,9 @@ Mesures de suivi de l'insuffisance surrénale de l'adulte:
 - Traitement vital et à vie
 - Suivi spécialisé régulier à vie, au moins annuel
 - Avoir sur soi les outils de sécurité:
-  - Carte d'insuffisance surrénale, hydrocortisone injectable
+  - Carte d'insuffisance surrénalienne, hydrocortisone injectable
 - Médicaments: prudence avec les laxatifs et diurétiques
+- Manger en salant normalement les aliments, **pas de restriction sodée** +++
 - **Situations à risque d'insuffisance surrénale aiguë:**
   - Stress, infection (digestive +++), traumatisme, post-partum ...
   - Prendre immédiatement une dose doublée d'hydrocortisone, puis une double dose toutes les 6 heures jusqu'à résolution de l'épisode aigu.  
@@ -295,8 +298,8 @@ Mesures de suivi de l'insuffisance surrénale de l'adulte:
   - Coloscopie: HC 20 mg supplémentaire la veille au soir, HC 100 mg IM/IV juste avant l'endoscopie, endoscopie matinale.  
     En cas de symptômes durant la préparation: HC 100 mg IM (SC à défaut)
 - En cas d'insuffisance surrénale aiguë (ex. après 2e épisode de diarrhée ou de vomissement en moins d'1/2 journée):
-  - Disposer et s"avoir s'injecter de l'[hydrocortisone 100 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/62735380/extrait#tab-rcp) IM ou SC
-  - Et appeler le SAMU
+  - Disposer de l'[hydrocortisone 100 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/62735380/extrait#tab-rcp) soluble. Auto-injection en SC ou injection par l'IDE en IM
+  - Appeler le SAMU
   - Il n'y a pas de risque de surdosage
 - **Adaptation clinique des doses d'hydrocortisone:**
   - **Symptômes de sous-dosage** (signes d'IS): fatigue, perte de poids, hypotension artérielle
