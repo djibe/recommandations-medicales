@@ -21,19 +21,19 @@ imageSrc = ""
 rank = "false"
 writing = "ok"
 symptomes = ["douleurs diffuses"]
-todo = "photo | demander Pr Peter Kamenicky APHP ou francoise.borson-chazot@chu-lyon, calcul FeCa"
+todo = "photo | relecture demandée francoise.borson-chazot@chu-lyon; Pr Peter Kamenicky APHP, calcul FeCa"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
 - L'hyperparathyroïdie primaire (HPT1) est une endocrinopathie fréquente causée par une hypersécrétion inappropriée de la parathormone (PTH) par un adénome parathyroïdien bénin (80 % des cas)
-- Elle est le plus souvent asymptomatique, féminine (75 %) et survenant à un âge avancé et est la première cause d'hypercalcémie
+- Elle est le plus souvent asymptomatique, féminine (75 %), survenant à un âge avancé et est la première cause d'hypercalcémie
 - Les symptômes évocateurs sont osseux (douleurs osseuses, ostéoporose, fractures de fragilité), rénaux (coliques néphrétiques, néphrocalcinose) et neuro-musculaires (fatigabilité musculaire). Des douleurs diffuses sont possibles
 - Le bilan biologique ne peut être correctement interprété qu'en l'absence de carence en calcium et en vitamine D, d'insuffisance rénale, de malabsorption digestive et de médicament à risque (diurétique, dénosumab, biphosphonate, lithium, corticoïde)
 - Le diagnostic d'une hyperparathyroïdie primaire est biologique avec classiquement une hyperparathormonémie, une hypercalcémie (inadaptée) et une hypercalciurie. Si le patient est opérable, compléter avec une échographie parathyroïdienne
 - Adresser ensuite à l'endocrinologue pour la suite de la prise en charge ou en cas de bilan atypique
-- Le traitement de référence est la chirurgie de parathyroïdectomie
+- Le traitement de référence de l'hyperparathyroïdie primaire est la chirurgie de parathyroïdectomie
 
 Chapitre lié: [hypercalcémie]({{% relref "hypercalcemie.md" %}})
 
