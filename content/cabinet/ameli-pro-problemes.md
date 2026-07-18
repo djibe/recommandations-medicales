@@ -32,7 +32,7 @@ Ameli Pro et tous les services en ligne proposant une connexion avec la carte CP
 | Logiciel                | Version | Téléchargement                                                                      |
 | ----------------------- | ------: | ----------------------------------------------------------------------------------- |
 | ATSAM (Windows)         | 4.67.03 | [Lien](https://e.pcloud.link/publink/show?code=XZbXzNZEaVjeIPHBUu8Msy5TtGGBRu2hu37) |
-| ATSAM (MacOS)           | 4.67.03 | [Lien](https://e.pcloud.link/publink/show?code=XZQXzNZDd1cvTwy0J7fOKN9l3DaIQb43VsV) |
+| ATSAM (MacOS)           | 4.67.02 | [Lien](https://e.pcloud.link/publink/show?code=XZQXzNZDd1cvTwy0J7fOKN9l3DaIQb43VsV) |
 | Cryptolib CPS (Windows) |   5.2.6 | [Lien](https://esante.gouv.fr/sites/default/files/media/document/CryptolibCPS-5.2.6_x64.msi) |
 {caption="Logiciels nécessaires pour faire le fonctionnement de la carte CPS sur l'ordinateur du médecin"}
 
