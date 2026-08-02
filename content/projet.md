@@ -9,19 +9,19 @@ breadcrumbTitle = "Projet"
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-07-06T09:56:35+02:00"
 publishdate = "2021-07-07"
-lastmod = "2024-05-12"
+lastmod = "2026-08-02"
 todo = "https://ansm.sante.fr/actualites/lansm-publie-un-rapport-sur-la-consommation-des-antibiotiques-entre-2000-et-2020"
 chart = true
 +++
 
 <img class="figure-img img-fluid mb-5" src="/images/icons/projet.svg" decoding="async" importance="high" fetchpriority="high" alt="RecoMédicales: le projet" style="border-radius:24px">
 
-Je suis Jean-Baptiste Fron, médecin généraliste diplômé à Lille en 2014. En parallèle de mon activité de médecin généraliste, je maintiens depuis 2019 le projet RecoMédicales. Vous trouvez actuellement +250 fiches pratiques que j'ai compilées à partir des publications des sociétés savantes de référence et que j'essaie de faire valider par des spécialistes du domaine.
+Je suis Jean-Baptiste Fron, médecin généraliste diplômé à Lille en 2014 et fondateur de l'association RecoMédicales. En parallèle de notre activité de médecins généralistes, nous maintenons depuis 2019 le projet RecoMédicales. Vous trouvez actuellement +350 fiches pratiques rédigées à partir des publications des sociétés savantes de référence et que nous nous efforçons de faire valider par les auteurs ou référents du domaine.
 {.typography-body-1}
 
 ## Motivation du projet
 
-Comme tous mes confrères, je suis confronté chaque jour à la difficulté de connaître les **bonnes pratiques** pour réaliser des consultations de **médecine générale de qualité**. À cet effet, je me heurte à plusieurs obstacles, que je liste ci-dessous.
+Comme tous nos confrères, nous sommes confrontés chaque jour à la difficulté de connaître les **bonnes pratiques** pour réaliser des consultations de **médecine générale de qualité**. À cet effet, nous nous heurtons sur plusieurs obstacles, que nous détaillons ci-dessous.
 
 ### L'état de l'art évolue rapidement et sa diffusion aux généralistes est très limitée
 
@@ -31,7 +31,7 @@ L'**État de l'art** est dispersé sur internet (HAS, sociétés savantes ...), 
 
 ### Le généraliste ne peut tout savoir et ne peut souvent pas accéder aux informations pertinentes en temps utile pour la consultation
 
-Le médecin généraliste est le premier intervenant de la grande majorité des soins. Il est donc exposé à tous les motifs de consultation, sans avoir toujours accès aux informations nécessaires pour offrir un premier bilan optimal.
+Le médecin généraliste est le premier intervenant pour bon nombre de soins. Il est donc exposé à tous les motifs de consultation, sans avoir toujours accès aux informations nécessaires pour offrir un premier bilan optimal.
 
 Il ne peut pas tout savoir, et l'humain ne retient au mieux que 10 % de ce qu'il apprend. Seul un assistant informationnel permettrait de résoudre ce dilemme.
 
@@ -39,7 +39,7 @@ Il ne peut pas tout savoir, et l'humain ne retient au mieux que 10 % de ce qu'il
 
 ### La formation médicale continue (FMC) est peu efficace
 
-La FMC des médecins est obligatoire depuis le 24 avril 1996 ([CN FMCH. L'obligation de formation médicale continue (PDF)](https://sante.gouv.fr/IMG/pdf/diapos_fmcph.pdf)), et la loi a été renforcée plusieurs fois depuis lors.
+La FMC des médecins est obligatoire depuis le 24 avril 1996 ([CN FMCH. L'obligation de formation médicale continue (PDF)](https://sante.gouv.fr/IMG/pdf/rapport_cnfmcph.pdf)), et la loi a été renforcée plusieurs fois depuis lors.
 
 Pourtant, des exemples comme les *prescriptions d'antibiotiques* ou le *suivi du diabète* (voir ci-dessous) ne montrent pas de signes d'amélioration à la hauteur du temps de formation consacré.
 
@@ -117,11 +117,11 @@ const chartOptions3 = {
 
 ### Un texte ne suffit pas
 
-Comme tous les médecins, mes notes au format texte ne m'ont pas permis d'appréhender la complexité croissante de la médecine moderne: des scores, des arbres de décisions se décrivent difficilement avec des mots.
+Comme tous les médecins, nos notes au format texte ne nous ont pas permis d'appréhender la complexité croissante de la médecine moderne: des scores, des arbres de décisions se décrivent difficilement avec des mots.
 
 Cette limitation est récurrente sur les sites existants, pourtant d'une grande qualité: [Medg.fr](https://www.medg.fr), [ebmfrance](https://www.ebmfrance.net), [doctofiche](https://doctofiche.fr), [inanutshell](https://www.inanutshell.ch/fr/), [Ordotype](https://www.ordotype.fr), [Wikimedecine](https://www.wikimedecine.fr) (abandonné), [wikimedi.ca](https://wikimedi.ca/wiki/Accueil), [WeLinkCare](https://www.welinkcare.com).
 
-**RecoMédicales** n'est pas adapté aux étudiants (voir [EDN](https://www.edn.fr), [Freecn](https://www.freecn.io) et [DocSimulator](https://docsimulator.compuute.io/fr).
+**RecoMédicales** n'est pas adapté aux étudiants (voir [EDN](https://www.edn.fr), [Freecn](https://www.freecn.io) et [DocSimulator](https://docsimulator.ai/fr/).
 
 > L'outil doit être dynamique en cas de forte complexité (scores, escalade thérapeutique ...)
 
@@ -139,21 +139,20 @@ Le **contenu** de la plateforme opérationnelle suivant le démonstrateur devra 
 
 ## Résultats actuels et moyens mis en œuvre
 
-Chaque personne compétente pourra juger sur le site à quel point ces objectifs sont déjà atteints.
+Chaque praticien pourra juger sur le site à quel point ces objectifs sont déjà atteints.
 
-Il faut noter que le développement du démonstrateur a demandé un effort limité au regard des bénéfices attendus. Le démonstrateur disponible sur ce site a nécessité environ 4 ans de travail à temps partiel, avec des compétences médicales et informatiques.
+Il faut noter que le développement du démonstrateur a demandé un effort limité au regard des bénéfices attendus. Le démonstrateur disponible sur ce site a nécessité environ 6 ans de travail à temps partiel, avec des compétences médicales et informatiques.
 
 ## Prochaines étapes
 
-- Finalisation du démonstrateur (fiches, validation, etc.)
+- Perfectionnement du démonstrateur (fiches, validation, etc.)
 - Engagement d'agences de santé
 - Démonstrations aux praticiens, autorités et organisations compétentes, médias spécialisés
 
 ## Remerciements
 
-Je tiens ici à remercier tous ceux qui m'ont soutenu dans ce projet, mon épouse médecin généraliste, les spécialistes qui ont participé à la validation de différentes fiches, et tous ceux qui m'aident, me conseillent et m'encouragent.
+Nous tenons à remercier tous ceux qui nous soutiennent dans ce projet, nos épouses, les spécialistes qui ont participé à la validation de différentes fiches, et tous ceux qui nous conseillent et nous encouragent.
 
 Je vous remercie pour votre attention,
 
-*Dr Jean-Baptiste FRON*
-{.lead .mt-5}
+*Dr Jean-Baptiste FRON* et l'association RecoMédicales
