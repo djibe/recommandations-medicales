@@ -90,7 +90,6 @@ User-agent: iAskBot
 User-agent: iaskspider
 User-agent: iaskspider/2.0
 User-agent: IABot
-User-agent: IbouBot
 User-agent: ICC-Crawler
 User-agent: ImagesiftBot
 User-agent: imageSpider
@@ -122,6 +121,7 @@ User-agent: MistralAI-User
 User-agent: MistralAI-User/1.0
 User-agent: MJ12bot
 User-agent: ModerneBot
+User-agent: Mozilla-Tabstack
 User-agent: MyCentralAIScraperBot
 User-agent: NagetBot
 User-agent: netarkivindsamling
