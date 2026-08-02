@@ -616,6 +616,17 @@
       }
     }
   },
+  "Colistine": {
+    "IV": {
+      "IV": {
+        "stage_1": "DC 9 MUI en perfusion de 30 minutes, puis 9 MUI/24h en 2-3 perfusions",
+        "stage_2": "DC 9 MUI en perfusion de 30 minutes, puis 9 MUI/24h en 2-3 perfusions",
+        "stage_3": "Idem ci-dessus jusqu'à 50 mL/min, puis DC identique suivie de 5,5 - 7,5 MUI/24h en 2 perfusions",
+        "stage_4": "DC 9 MUI en perfusion de 30 minutes, puis 4,5 - 5,5 MUI/24h en 2 perfusions",
+        "stage_5": "Idem ci-dessus jusqu'à 10 mL/min, puis DC identique suivie de 3,5 MUI/24h en 2 perfusions"
+      }
+    }
+  },
   "Amikacine": {
     "IV": {
       "15-30 mg/kg/j": {
