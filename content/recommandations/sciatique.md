@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-10-28T12:41:21+01:00"
 publishdate = "2026-02-20"
-lastmod = "2026-02-20"
+lastmod = "2026-08-02"
 specialites = ["rhumatologie"]
-annees = "2020"
+annees = "2026"
 sources = ["NICE"]
 tags = []
 english = ["Sciatica", "sciatica neuralgia"]
@@ -120,7 +120,6 @@ Recommandations pour la prise en charge de la sciatique (ou lombosciatique):
   - Anti-inflammatoires **AINS**, palier 1 voire opioïdes de courte durée
   - Si intense: corticoïdes cure courte (NICE contre, Cochrane isole une efficacité), **infiltration épidurale de corticoïdes** (radiologue, orthopédiste, rhumatologue)
 - Poursuite et adaptation des activités
-- Essai possible: thérapie manuelle
 - Forme chronique:
   - kinésithérapie avec auto-exercices (application [Activ'Dos](https://www.ameli.fr/assure/sante/assurance-maladie/application-activ-dos))
   - avis de la médecine du travail pour adaptation du poste
@@ -139,13 +138,13 @@ En cas de douleurs séquellaires post-opératoires ou non opérables, avis du **
 
 {{< youtube id="Chs5Jgls7h0" title="Comment réaliser le signe de Lasègue ? (ITMP)" >}}
 
+- [NICE. Low back pain and sciatica in over 16s: assessment and management. NICE guideline. 2026.](https://www.nice.org.uk/guidance/ng59)
 - [Armon C, et al. Epidural Steroids for Cervical and Lumbar Radicular Pain and Spinal Stenosis Systematic Review Summary: Report of the AAN Guidelines Subcommittee. Neurology. 2025.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12289388/)
 - [Sculier JP. Un traitement chirurgical d'une sciatique n'est pas associé à une amélioration à long terme par rapport à une approche conservative. Minerva. 2024.](https://minerva-ebp.be/FR/Analysis/849)
 - Prescrire Redaction. Signes d'atteinte radiculaire par hernie discale en cas de lombosciatique récente. 2022.
 - [Chou R, et al. Systemic corticosteroids for radicular and non‐radicular low back pain. Cochrane Database of Systematic Reviews. 2022.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012450.pub2/full)
 - [Ailliet L. En cas de lombalgie aiguë avec sciatique, est-il utile que le médecin généraliste adresse le patient à un kinésithérapeute ?. Minerva. 2022.](https://minerva-ebp.be/FR/Analysis/773)
 - [Collège Français des Chirurgiens Orthopédistes et Traumatologues (CFCOT). Radiculalgie et syndrome canalaire. Orthopédie Traumatologie 3e édition. 2022. (PDF)](https://www.sofcot.fr/sites/www.sofcot.fr/files/medias/documents/CollegeOrthop%C3%A9dieTraumatologieELLIPSES%203%C3%A8me%20%C3%A9dition.pdf)
-- [NICE. Low back pain and sciatica in over 16s: assessment and management. NICE guideline. 2020.](https://www.nice.org.uk/guidance/ng59)
 - [Collège Français des Enseignants en Rhumatologie (COFER). Radiculalgie et syndrome canalaire. Item 95 UE 5. 7e édition. 2020.](https://www.lecofer.org/item-cours-1-4-0.php)
 - [Oliveira CB, et al. Epidural corticosteroid injections for lumbosacral radicular pain. Cochrane Database of Systematic Reviews. 2020.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013577/full)
 - [Jensen RK, et al. Diagnosis and treatment of sciatica. BMJ. 2019.](https://www.bmj.com/content/367/bmj.l6273.long) (payant)
