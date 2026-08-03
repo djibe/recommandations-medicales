@@ -27,7 +27,7 @@ flowchart = true
 - La vitamine B12 provient exclusivement des produits animaliers
 - La carence en vitamine B12 provient surtout d'une carence d'apports (régimes végétarien et vegan), d'une atteinte gastrique (gastrite auto-immune dite maladie de Biermer, gastrectomie, chirurgie bariatrique) ou iléale (résection, MICI, radiothérapie) ou d'une cause médicamenteuse (metformine, IPP ...)
 - Les signes et symptômes de la carence en B12 sont très variés: anémie, macrocytose, troubles neurologiques (marche, ataxie, paresthésies, mémoire, cognitifs) ou psychiatriques (dépression, anxiété, délire), visuels (vision floue, scotome) et fatigue inexpliquée
-- Le bilan comprend le dosage de la vitamine B12. La carence est affirmée pour un résultat inférieur à 180 ng/mL et peu probable au-delà de 350 ng/mL
+- Le bilan comprend le dosage de la vitamine B12. La carence est affirmée pour un résultat inférieur à 180 pg/mL (ng/L, 133 pmol/L) et peu probable au-delà de 350 pg/mL (258 pmol/L)
 - La prise en charge de la carence en vitamine B12 est une supplémentation intramusculaire voire orale (carence d'apports surtout, mais fortes doses pour Biermer possibles), avec dose de charge puis traitement d'entretien souvent à vie (malabsorption ++)
 
 {{%/article-summary%}}
@@ -105,10 +105,7 @@ Les signes et symptômes de la carence en vitamine B12 peuvent être extrêmemen
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-> [!INFO]
-> Pour le diagnostic, doser la vitamine B12 **avant** de débuter la supplémentation (*NICE*).
-
-Autres bilans: **NFS** (macrocytose)
+Autres bilans: **NFS** (macrocytose).
 
 ### Indications au dosage de la vitamine B12
 
@@ -130,10 +127,10 @@ En cas de grossesse, doser la vitamine B12 active (holotranscobalamine). Pour l'
 
 Diagnostic biologique de la carence en vitamine B12:
 
-- ==< 180 ng/L== (133 pmol): diagnostic de **carence** (< 25 pmol/L si B12 active)
+- ==< 180 ng/L== (133 pmol/L): diagnostic de **carence** (< 25 pmol/L si B12 active)
 - **180-350** ng/L: indéterminé, **carence possible**.  
   Considérer le dosage de la MMA (*NICE*, mais NR, homocystéine à défaut avec folates) en cas de signes ou symptômes de carence en B12.
-- \> **350 ng/mL** (258 pmol/L): carence peu probable (70 pmol/L si B12 active)  
+- \> **350 ng/L** (258 pmol/L): carence peu probable (70 pmol/L si B12 active)  
   Rechercher une autre étiologie. Contrôle à 3-6 mois si persistance des symptômes.
 
 ### Bilan complémentaire au diagnostic
@@ -194,10 +191,10 @@ La prise en charge de la carence en vitamine B12 comprend un traitement:
 graph TB
   risque["<b>Situation à risque<br>de carence en B12</b><br>—<br>- Carence d'apports: vegan, allergies,<br>régime non diversifié, anorexie<br>- Antécédents familiaux<br>- Biermer, auto-immunité<br>- Chirurgie gastro-intestinale<br>- Metformine ou autre"] --> dosage("Dosage de la<br>vitamine B12")
   symptômes["<b>Signes ou symptômes<br>de carence en B12</b><br>—<br>- Anémie, macrocytose<br>- Trouble neurologiques<br>- Trouble psychiatrique<br>- Glossite<br>- Fatigue inexpliquée"] --> dosage
-    dosage -- "&lt; 180 ng/mL<br>(133 pmol/L)" --> diagnostic["Carence en<br>vitamine B12"] -- FDR --> essai("- Correction FDR<br>- Supplémentation") -. Échec .-> gastro("Facteur intrinsèque et<br>avis gastro-entérologique")
+    dosage -- "&lt; 180 pg/mL<br>(133 pmol/L)" --> diagnostic["Carence en<br>vitamine B12"] -- FDR --> essai("- Correction FDR<br>- Supplémentation") -. Échec .-> gastro("Facteur intrinsèque et<br>avis gastro-entérologique")
       diagnostic -- "0 FDR" --> gastro
-    dosage -- "180-350" --> indéterminé("Carence possible:<br>considérer dosage<br>homocystéine + B9<br>selon symptômes")
-    dosage -- "&gt; 350 ng/mL<br>(258 pmol/L)" --> différentiel("Carence<br>peu probable<br>—<br>Rechercher une<br>autre étiologie") -. "Persistance symptômes<br>à 3-6 mois" .-> contrôle(Contrôle)
+    dosage -- "180-350 pg/mL<br>(ng/L)" --> indéterminé("Carence possible:<br>considérer dosage<br>homocystéine + B9<br>selon symptômes")
+    dosage -- "&gt; 350 pg/mL<br>(258 pmol/L)" --> différentiel("Carence<br>peu probable<br>—<br>Rechercher une<br>autre étiologie") -. "Persistance symptômes<br>à 3-6 mois" .-> contrôle(Contrôle)
   style diagnostic stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
