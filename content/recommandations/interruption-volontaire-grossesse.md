@@ -237,10 +237,10 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Service-Public. Interruption volontaire de grossesse (IVG). 07/10/2025.](https://www.service-public.gouv.fr/particuliers/vosdroits/F1551)
 - [Vilain A, Fresson J. En 2024, 251 270 IVG ont eu lieu en France, dont 80 % sont médicamenteuses. Drees. 2025.](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/250925-ER-ivg-en-france-en-2024)
 - [Atrio JM, et al. Surgical versus medical methods for second‐trimester induced abortion. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006714.pub3/full/fr)
 - [Drees. La hausse des IVG réalisées hors établissement de santé se poursuit en 2023. Études et résultats. 2024.](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/240924_ER_Nombre_IVG)
-- [Service-Public. Interruption volontaire de grossesse (IVG). 25/04/2024.](https://www.service-public.fr/particuliers/vosdroits/F1551)
 - [HAS. Interruption volontaire de grossesse par méthode médicamenteuse - Mise à jour. 12/04/2021.](https://www.has-sante.fr/jcms/p_3223429/fr/interruption-volontaire-de-grossesse-par-methode-medicamenteuse-mise-a-jour)
 - [HAS. La HAS valide l'extension de l'IVG médicamenteuse à domicile jusqu'à 9 semaines. 10/04/2020.](https://www.has-sante.fr/jcms/p_3179352/fr/la-has-valide-l-extension-de-l-ivg-medicamenteuse-a-domicile-jusqu-a-9-semaines)
 - [HAS. Réévaluation de la stratégie de dépistage des infections à Chlamydia trachomatis. 23/10/2018.](https://www.has-sante.fr/jcms/c_2879401/fr/reevaluation-de-la-strategie-de-depistage-des-infections-a-chlamydia-trachomatis)

@@ -189,7 +189,7 @@ Imagerie systématique par IRM cérébrale pour le bilan de démence.
 - Interventions non médicamenteuses  
   Art-thérapie, hortithérapie, interventions d'animaux, danse, musicothérapie, réhabilitation cognitive, stimulation multisensorielle, thérapie par réminiscence.
 - Mesures de protection
-  - [Protection juridique](https://www.service-public.fr/particuliers/vosdroits/N155) ([annuaire des tribunaux compétents](https://www.justice.fr/recherche/annuaires))
+  - [Protection juridique](https://www.service-public.gouv.fr/particuliers/vosdroits/N155) ([annuaire des tribunaux compétents](https://www.justice.fr/recherche/annuaires))
   - Permis de conduire: incompatibilité sauf avis du spécialiste (arrêté du 28 mars 2022)
   - Adaptation du logement (gaz, cuisson, armes, escalier)
   - État financier, assistant social ([APA]({{% relref "allocation-personnalisee-autonomie.md" %}}), MDPH)

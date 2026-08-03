@@ -25,7 +25,7 @@ todo = "demander relecture; https://www.has-sante.fr/jcms/c_272178/fr/depistage-
 
 {{%article-summary%}}
 
-- Bilan orthoptique systématique en cas de fatigue ou céphalées, retard scolaire ou troubles de l'attention
+- Bilan orthoptique systématique en cas de fatigue non expliquée ou céphalées, retard scolaire ou troubles de l'attention
 - Accès libre à l'orthoptiste pour la prescription de lunettes de 16 à 42 ans  
   Patient déjà porteur de lunettes: possible si bilan ophtalmologique dans les 5 ans (3 ans si lentilles de contact).
 - Accès direct à l'orthoptiste pour le dépistage de l'amblyopie et de troubles visuels entre 9 à 15 mois puis entre 30 mois et 5 ans
@@ -36,7 +36,7 @@ todo = "demander relecture; https://www.has-sante.fr/jcms/c_272178/fr/depistage-
 
 {{%info%}}
 
-### Prescription
+### Prescription du bilan orthoptique
 
 Bilan orthoptique et rééducation si nécessaire
 {{%/info%}}
@@ -73,7 +73,7 @@ Et chez l'enfant avec les signes suivant (+ ci-dessus):
 {{% /collapse %}}
 {{%sources%}}
 
-- [Service Public. Les orthoptistes peuvent désormais prescrire des premiers verres correcteurs. 01/02/2023.](https://www.service-public.fr/particuliers/actualites/A16344)
+- [Service Public. Les orthoptistes peuvent désormais prescrire des premiers verres correcteurs. 13/03/2026.](https://www.service-public.gouv.fr/particuliers/actualites/A16344)
 - [Syndicat National Autonome des Orthoptistes](https://www.orthoptiste.pro/l-orthoptie/ou-et-quand-consulter/)
 - [Godts D, et al. Binocular Vision in Chronic Fatigue Syndrome. Am Orthopt J. 2016.](https://pubmed.ncbi.nlm.nih.gov/27799582/)
 - [NHS Devon (PDF)](https://www.northdevonhealth.nhs.uk/wp-content/uploads/2014/06/Appendix-1.pdf)

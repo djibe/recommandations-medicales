@@ -44,7 +44,7 @@ La détection de fausses ordonnances à son nom nécessite d'être signalée à 
 
 ### C) Signaler la falsification à son ARS {.mt-5}
 
-Signaler la falsification à son ARS ([annuaire des ARS](https://lannuaire.service-public.fr/navigation/ars)).
+Signaler la falsification à son ARS ([annuaire des ARS](https://lannuaire.service-public.gouv.fr/navigation/ars)).
 
 ### D) Signalement obligatoire d'un détournement pour pharmacodépendance {.mt-5}
 

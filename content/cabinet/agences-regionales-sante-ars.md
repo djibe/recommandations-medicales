@@ -1,6 +1,6 @@
 +++
 title = "Les coordonnées des Agences Régionales de Santé (ARS)"
-titleSeo = "coordonnées des ARS"
+titleSeo = "Coordonnées des ARS"
 noindex = true
 noSearchContent = true
 description = "Les coordonnées de toutes les Agences Régionales de Santé (ARS) de France"
@@ -20,6 +20,6 @@ Page mémo pour retrouver les coordonnées de toutes les **Agences Régionales d
 
 Sur le site de votre Agence Régionale de Santé, vous retrouvez la liste des médecins agréés et parfois les programmes d'éducation thérapeutique disponibles.
 
-{{< card-link-external title="Agence régionale de santé (ARS) sur tout le territoire" url="https://lannuaire.service-public.fr/navigation/ars" subtitle="Service-Public.fr">}}
+{{< card-link-external title="Agence régionale de santé (ARS) sur tout le territoire" url="https://lannuaire.service-public.gouv.fr/navigation/ars" subtitle="service-public.gouv.fr">}}
 
 {{< card-link-external title="ars.sante.fr" url="https://www.ars.sante.fr" subtitle="Le site officiel des Agences Régionales de Santé" >}}

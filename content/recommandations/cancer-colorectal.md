@@ -245,7 +245,7 @@ Le kit du dépistage du cancer du côlon peut être remis par le médecin, retir
 {.alert .alert-info}
 
 - Commander des kits en tant que médecin: **Ameli Pro** > Commandes > Commande de dispositifs > Kit de Dépistage du Cancer Colorectal
-- Retirer le kit en pharmacie (*[Service-Public](https://www.service-public.fr/particuliers/actualites/A15541)*)
+- Retirer le kit en pharmacie (*[Service-Public](https://www.service-public.gouv.fr/particuliers/vosdroits/F218)*)
 - Commander des kits en tant que patient avec livraison gratuite à domicile: [monkit.depistage-colorectal.fr](https://monkit.depistage-colorectal.fr/#/invitation) (nécessite l'invitation de la Sécu)
   - Le site permet aussi au patient de consulter son résultat
   - Sans invitation sur son compte *Ameli* (via courrier en son absence), le patient contacte sa CPAM

@@ -27,7 +27,7 @@ flowchart = true
 
 {{%article-summary%}}
 
-- Le virus de la variole B (*ex* Mpox, Monkeypox ou variole du singe) est un poliovirus et donc une [maladie à signalement obligatoire](https://www.formulaires.service-public.fr/gf/cerfa_12218.do) avec Cerfa spécifique à déclarer au plus vite à l'ARS une fois confirmé
+- Le virus de la variole B (*ex* Mpox, Monkeypox ou variole du singe) est un poliovirus et donc une [maladie à signalement obligatoire](https://www.formulaires.service-public.gouv.fr/gf/cerfa_12218.do) avec Cerfa spécifique à déclarer au plus vite à l'ARS une fois confirmé
 - La variole B / Mpox doit être évoquée devant un contact rapproché à risque (contage, zone d'épidémie) et des lésions évocatrices: éruption vésiculeuse avec contenu liquidien (visage, génito-anale, paumes et plantes) avec dessèchement puis cicatrisation spontanée en 2 à 4 semaines
 - Bilan de la suspicion de variole B:
   - Mesures barrières
@@ -235,7 +235,7 @@ Utilisation le plus souvent de 2 doses de vaccin Mpox (vaccin **MVA-BN** de 3^e^
 {{%collapse "Traitement de la variole B" %}}
 
 > [!WARNING]
-> Tout poliovirus est une [maladie à signalement obligatoire]({{% relref "maladies-signalement-obligatoire.md" %}}). La variole B nécessite un [cerfa spécifique de déclaration](https://www.formulaires.service-public.fr/gf/cerfa_12218.do). Contacter l'ARS au plus vite en cas de femme ou d'enfant. Pas d'AINS (*SFD*).
+> Tout poliovirus est une [maladie à signalement obligatoire]({{% relref "maladies-signalement-obligatoire.md" %}}). La variole B nécessite un [cerfa spécifique de déclaration](https://www.formulaires.service-public.gouv.fr/gf/cerfa_12218.do). Contacter l'ARS au plus vite en cas de femme ou d'enfant. Pas d'AINS (*SFD*).
 
 Le traitement d'une variole B confirmée est symptomatique avec la prévention des surinfections cutanéo-muqueuses.
 

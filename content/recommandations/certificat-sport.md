@@ -28,8 +28,8 @@ flowchart = true
 {{%article-summary%}}
 
 - Personnes majeures: un certificat sportif est valable 3 ans sauf exceptions (voir *[Disciplines nécessitant un certificat](#disciplines-nécessitant-un-certificat-de-sport-annuel)*)
-- Pour les mineurs: [questionnaire de santé QS - Sport](https://www.formulaires.service-public.fr/gf/cerfa_15699.do) sauf exceptions (cf ci-dessus). Certificat médical requis uniquement si au moins 1 réponse positive.  
-  Pour les parents: [simulateur de Service-public.fr](https://www.service-public.fr/simulateur/calcul/certificatMedical) pour savoir si un certificat est requis.
+- Pour les mineurs: [questionnaire de santé QS - Sport](https://www.formulaires.service-public.gouv.fr/gf/cerfa_15699.do) sauf exceptions (cf ci-dessus). Certificat médical requis uniquement si au moins 1 réponse positive.  
+  Pour les parents: [simulateur de service-public.gouv.fr](https://www.service-public.gouv.fr/simulateur/calcul/certificatMedical) pour savoir si un certificat est requis.
 - Préciser l'accès aux compétitions le cas échéant
 - Pour les indications à l'ECG, au test d'effort et à l'échocardiographie: voir [Bilans](#bilans-chez-les-sportifs)
 - Informer systématiquement sur les *[10 règles d'or](#information-des-sportifs)* de la pratique sportive et l'intérêt de l'apprentissage du massage cardiaque
@@ -45,7 +45,7 @@ Chapitres liés: [certificats médicaux de l'adulte]({{% relref "certificats-med
 Certificat médical d'absence de contre-indication à la pratique sportive (CACI)
 : Réglementé par les dispositions du code du sport (L. 231-2 et L. 231-2-3) qui prévoient la présentation d'un license de moins d'un an pour l'inscription à une fédération sportive.
 : La présentation du certificat médical est exigée tous les 3 ans pour les adultes.  
-Les autres années, le licencié (ou son représentant légal) renseigne un questionnaire de santé [QS-SPORT](https://www.formulaires.service-public.fr/gf/cerfa_15699.do).
+Les autres années, le licencié (ou son représentant légal) renseigne un questionnaire de santé [QS-SPORT](https://www.formulaires.service-public.gouv.fr/gf/cerfa_15699.do).
 : Les mineurs complètent un [questionnaire de santé](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043486824) sauf sport à risque (voir *Disciplines nécessitant un certificat...*) ou réponse positive au *questionnaire de santé*.
 
 {{%info%}}

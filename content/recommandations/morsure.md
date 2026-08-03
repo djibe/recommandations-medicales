@@ -28,7 +28,7 @@ todo = "flow, relire, validation"
   - Lavage initial abondant à l'eau et au savon et antisepsie
   - Antibiothérapie par amoxicilline/acide clavulanique pendant 7 jours si: comorbidités (immunodépression, asplénie, diabète, alcool), érysipèle, plaie profonde ou délabrée, atteinte articulaire, proche de tendon ou os, main, atteinte de la face ou suture nécessaire
 - Adresser une plaie par morsure aux Urgences si: geste chirurgical ou suture envisagés, plaie grave (localisation, délabrement, animal suspect), immunothérapie antitétanique ou anti-venin nécessaire
-- Tout animal mordeur doit être signalé en mairie ([annuaire](https://www.service-public.fr/particuliers/vosdroits/F24028)) par le propriétaire ou le médecin et placé sous surveillance vétérinaire pendant 15 jours
+- Tout animal mordeur doit être signalé en mairie ([annuaire](https://www.service-public.gouv.fr/particuliers/vosdroits/F24028)) par le propriétaire ou le médecin et placé sous surveillance vétérinaire pendant 15 jours
 - [Annuaire des Centres antirabiques (PDF)](https://www.pasteur.fr/fr/file/54964/download)
 
 Chapitre lié: [érysipèle]({{% relref "erysipele.md" %}}), [maladie des griffes du chat]({{% relref "maladie-griffes-chat.md" %}})
@@ -149,7 +149,7 @@ Si vipère venimeuse: amoxicilline/ acide clavulanique 80 mg/kg/j (max 3 g/j) en
 > [!INFO]
 > << Un comportement normal et la bonne santé apparente d'un chien n'éliminent pas le risque de contamination rabique. >> -- *Prescrire Redaction*
 
-- Toute morsure par un chien doit être déclarée par son propriétaire à sa mairie de résidence ([annuaire](https://www.service-public.fr/particuliers/vosdroits/F24028))  
+- Toute morsure par un chien doit être déclarée par son propriétaire à sa mairie de résidence ([annuaire](https://www.service-public.gouv.fr/particuliers/vosdroits/F24028))  
   À défaut, par tout médecin ([art. L. 211-14-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022200148))
 - Tout animal mordeur ou griffeur (domestique ou sauvage) doit être surveillé par un *vétérinaire sanitaire* (homologué) pendant 15 jours ([Arrêté du 21 avril 1997](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000564885/))
   - Même si l'animal est vacciné contre la rage
@@ -158,15 +158,15 @@ Si vipère venimeuse: amoxicilline/ acide clavulanique 80 mg/kg/j (max 3 g/j) en
 - Le maire peut obliger le propriétaire à appliquer la loi sous 24 heures ([art. L. 223-10 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024395954/))
 - Le maire peut également ordonner le placement de l'animal voire son euthanasie ([art. L. 211-14-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022200148))
 
-> **NB.** Les chiens de 1^re^ et 2^e^ catégorie (ex: American Staffordshire terrier, Rottweiler, Tosa) doivent obligatoirement être assurés. (*[Service Public](https://www.service-public.fr/particuliers/vosdroits/F1839)*)
+> **NB.** Les chiens de 1^re^ et 2^e^ catégorie (ex: American Staffordshire terrier, Rottweiler, Tosa) doivent obligatoirement être assurés. (*[Service Public](https://www.service-public.gouv.fr/particuliers/vosdroits/F1839)*)
 
 En cas d'animal mordeur mort ou abattu, le cadavre doit être adressé au [CNR de la Rage](https://www.pasteur.fr/fr/sante-publique/cnr/les-cnr/rage).
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Service-Public. Que faire en cas de morsure par un chien ? 06/02/2026.](https://www.service-public.gouv.fr/particuliers/vosdroits/F24028)
 - [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
-- [Service-Public. Que faire en cas de morsure par un chien ? 05/07/2024.](https://www.service-public.fr/particuliers/vosdroits/F24028)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Prise en charge des dermohypodermites bactériennes non nécrosantes (DHBNN) chez l'adulte. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282443/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-dermohypodermites-bacteriennes-non-necrosantes-dhbnn-chez-l-adulte)
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Prise en charge des dermohypodermites bactériennes non nécrosantes (DHBNN) chez l'enfant. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3282445/fr/choix-et-durees-d-antibiotherapies-prise-en-charge-des-dermohypodermites-bacteriennes-non-necrosantes-dhbnn-chez-l-enfant)
 - [Gillet Y, et al; GPIP. Antimicrobial treatment of skin and soft tissue infections. Infect Dis Now. 2023.](https://www.sciencedirect.com/science/article/pii/S2666991923001495)

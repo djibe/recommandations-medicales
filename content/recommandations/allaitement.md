@@ -260,8 +260,8 @@ Les contre-indications au don de lait sont celles du don du sang.
 {{% /collapse %}}
 {{%sources%}}
 
+- [Service-Public. Une salariée peut-elle allaiter pendant les heures de travail ?. 11/08/2025.](https://www.service-public.gouv.fr/particuliers/vosdroits/F1769)
 - [Haut Conseil de la Santé Publique (HCSP). Rapport relatif à l'allaitement maternel. 2024.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1392)
-- [Service-Public. Une salariée peut-elle allaiter pendant les heures de travail ?. 14/02/2024.](https://www.service-public.fr/particuliers/vosdroits/F1769)
 - [ANSM. Candidose mammaire et allaitement : éviter le violet de gentiane. 22/06/2022.](https://ansm.sante.fr/actualites/candidose-mammaire-et-allaitement-eviter-le-violet-de-gentiane)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Allaitement maternel. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [Crepinsek MA, et al. Interventions for preventing mastitis after childbirth. Cochrane Database of Systematic Reviews. 2020.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007239.pub4/full/fr)

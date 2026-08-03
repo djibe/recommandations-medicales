@@ -176,7 +176,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Service-Public. Contraception d'urgence. 04/04/2025.](https://www.service-public.gouv.fr/particuliers/vosdroits/F1100)
+- [Service-Public. Contraception d'urgence. 29/06/2026.](https://www.service-public.gouv.fr/particuliers/vosdroits/F1100)
 - [HAS. Contraception d'urgence. 2019.](https://www.has-sante.fr/jcms/c_1754842/fr/contraception-d-urgence)
 - [Rahib D., Lydié N. Contraception. Baromètre de Santé Publique France 2016. Santé Publique France. 2019.](https://www.santepubliquefrance.fr/determinants-de-sante/sante-sexuelle/documents/rapport-synthese/barometre-de-sante-publique-france-2016.-contraception.-la-contraception-d-urgence-des-delais-de-prise-toujours-sous-estimes)
 - [CNGOF. Contraception. Recommandations pour la pratique clinique. 2018. (PDF)](https://cngof.fr/app/uploads/2025/11/Contraception202018_RPC.pdf?x26468)

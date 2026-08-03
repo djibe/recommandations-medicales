@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-20T12:27:50+02:00"
 publishdate = "2022-10-20"
-lastmod = "2026-04-15"
+lastmod = "2026-08-03"
 specialites = ["certificats"]
-annees = "2025"
+annees = "2026"
 sources = ["Service-Public"]
 tags = []
 english = ["Access to the medical file"]
@@ -224,8 +224,8 @@ Signature (mandant/patient)
 {{% /collapse %}}
 {{%sources%}}
 
-- [Service-Public. Santé d'une personne sous tutelle ou curatelle : quelles sont les règles ? 02/05/2025.](https://www.service-public.fr/particuliers/vosdroits/F33899)
-- [Service-Public. Dossier médical. 28/02/2025.](https://www.service-public.fr/particuliers/vosdroits/F12210)
+- [Service-Public. Santé d'une personne sous tutelle ou curatelle : quelles sont les règles ? 02/05/2025.](https://www.service-public.gouv.fr/particuliers/vosdroits/F33899)
+- [Service-Public. Dossier médical. 28/02/2025.](https://www.service-public.gouv.fr/particuliers/vosdroits/F12210)
 - [CNIL. L'accès au dossier médical. 28/08/2013.](https://www.cnil.fr/fr/lacces-au-dossier-medical)
 - [Commission d'accès aux documents administratifs (Cada). Dossier médical personnel.](https://www.cada.fr/administration/dossier-medical-personnel)
 - [Conseil national de l'Ordre des médecins. Accéder à mon dossier médical.](https://www.conseil-national.medecin.fr/patient/droits/acceder-dossier-medical)

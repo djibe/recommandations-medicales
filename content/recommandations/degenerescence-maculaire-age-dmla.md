@@ -143,7 +143,7 @@ La prise en charge de la DMLA est pluridisciplinaire:
 - Proposer un soutien psychologique et une psychothérapie
 - Associations de patients: [Retina France](https://www.retina.fr), [Association Valentin Haüy](https://www.avh.asso.fr/fr), [Fédération des Aveugles et Amblyopes de France](https://aveuglesdefrance.org)
 - Conduite automobile  
-  Possible si l'acuité visuelle binoculaire est supérieure ou égale à 5/10e et que le champ visuel binoculaire ne montre pas d'atteinte centrale ([la visite médicale](https://www.service-public.fr/particuliers/vosdroits/F2686#) et [Arrêté du 28/03/2022](https://www.legifrance.gouv.fr/download/pdf?id=8dD3wEzkeHMp59Q_y7Jrp2jXbwEqgi4p1G3fTjlpsFU=))
+  Possible si l'acuité visuelle binoculaire est supérieure ou égale à 5/10e et que le champ visuel binoculaire ne montre pas d'atteinte centrale ([la visite médicale](https://www.service-public.gouv.fr/particuliers/vosdroits/F2686) et [Arrêté du 28/03/2022](https://www.legifrance.gouv.fr/download/pdf?id=8dD3wEzkeHMp59Q_y7Jrp2jXbwEqgi4p1G3fTjlpsFU=))
 
 ### Le traitement de la DMLA exsudative
 

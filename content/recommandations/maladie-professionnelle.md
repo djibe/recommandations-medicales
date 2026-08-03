@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-13T19:55:16+01:00"
 publishdate = "2024-01-15"
-lastmod = "2025-06-24"
+lastmod = "2026-08-03"
 specialites = ["certificats"]
-annees = "2025"
+annees = "2026"
 sources = ["Ameli"]
 tags = []
 english = ["Occupational disorder", "occupational diseases"]
@@ -100,8 +100,8 @@ window.addEventListener('load', () => {
 {{%sources%}}
 
 - [Ameli Médecin. Maladies professionnelles : l'essentiel sur le certificat médical initial. 13/06/2025.](https://www.ameli.fr/medecin/actualites/maladies-professionnelles-l-essentiel-sur-le-certificat-medical-initial)
+- [Service-Public. Maladie professionnelle : démarches à effectuer. 06/05/2025.](https://www.service-public.gouv.fr/particuliers/vosdroits/F176)
 - [Ameli Médecin. Maladie professionnelle. 26/02/2025.](https://www.ameli.fr/val-de-marne/medecin/exercice-liberal/prise-charge-situation-type-soin/situation-patient-mp/maladies-professionnelles)
-- [Service-Public. Maladie professionnelle : démarches à effectuer. 17/10/2023.](https://www.service-public.fr/particuliers/vosdroits/F176)
 - [IRNS. Tableaux des maladies professionnelles.](https://www.inrs.fr/publications/bdd/mp.html)
 
 {{%/sources%}}

@@ -34,7 +34,7 @@ modele = true
   - Enfant: amoxicilline 50 mg/kg/j (max 2 g/j) en 2 prises pendant 6 jours
   - Antibiothérapie aussi indiquée pour l'angine de Vincent, la diphtérie, le gonocoque et le [chancre syphilitique]({{% relref "syphilis.md" %}})
   - La prise en charge de l'angine pédiatrique en cas de **pénurie d'antibiotiques** est détaillée dans la section *Traitement*
-- À partir de 10 ans, le TDR/Streptatest et la délivrance d'antibiotique peuvent être réalisés directement par le pharmacien formé (*[Service-Public](https://www.service-public.fr/particuliers/actualites/A17229)*)
+- À partir de 10 ans, le TDR/Streptatest et la délivrance d'antibiotique peuvent être réalisés directement par le pharmacien formé (*[Service-Public](https://www.service-public.gouv.fr/particuliers/actualites/A17229)*)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

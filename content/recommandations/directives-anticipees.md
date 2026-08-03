@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-21T09:49:49+02:00"
 publishdate = "2023-09-21"
-lastmod = "2025-10-10"
+lastmod = "2026-08-03"
 specialites = ["certificats", "oncologie"]
-annees = "2025"
+annees = "2026"
 sources = ["Service-Public"]
 tags = ["cancer", "gériatrie"]
 english = ["Advance directives"]
@@ -43,6 +43,6 @@ Intérêt de déposer les directives anticipées complétées sur [MonEspaceSant
 
 {{%sources%}}
 
-[Service-Public.fr. Directives anticipées : dernières volontés sur les soins en fin de vie. 06/09/2023.](https://www.service-public.fr/particuliers/vosdroits/F32010)
+[service-public.gouv.fr. Directives anticipées : dernières volontés sur les soins en fin de vie. 28/05/2026.](https://www.service-public.gouv.fr/particuliers/vosdroits/F32010)
 
 {{%/sources%}}

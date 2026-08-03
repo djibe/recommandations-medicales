@@ -374,7 +374,6 @@ Dépistage du CHC tous les 6 mois par échographie abdominale avec doppler.
 
 - {{< references/calendrier-vaccinal >}}
 - [Assenat E, et al; AFEF. Prise en charge du carcinome hépatocellulaire & outils pour la pratique. Recommandations de l'Association français pour l'étude du foie. 2025.](https://afef.asso.fr/recommandation/recommandations-afef-sur-la-prise-en-charge-du-carcinome-hepatocellulaire-outils-pour-la-pratique/)
-- [Service-Public. Infections sexuellement transmissibles : gratuité du dépistage en laboratoire. 02/09/2024.](https://www.service-public.fr/particuliers/actualites/A17530)
 - [HAS, ANRS, CNS. Recommandations de prise en charge des personnes infectées chroniquement par le virus de l'hépatite B +/- de l'hépatite delta. 2023.](https://www.has-sante.fr/jcms/p_3324682/fr/prise-en-charge-des-personnes-infectees-par-les-virus-de-l-hepatite-b-c-ou-d)
 - [CMIT. Hépatites virales. Item 167. ECN.Pilly. 2023. (PDF)](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-167.pdf)
 - {{< references/afef-foie-non-invasif >}}

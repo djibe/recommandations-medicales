@@ -200,7 +200,7 @@ Pas d'arrêt brutal d'une contraception de 3-4^e^ génération bien tolérée.
 
 Présenter les contraceptions par *[groupe d'efficacité](https://questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/tableau-comparatif-pour-vous-guider-dans-votre-choix-de-contraception)* (plutôt que par nombre de grossesses): hormonale (pilule 2^e^ génération, progestative, implant), DIU, [contraception d'urgence]({{% relref "contraception-urgence.md" %}}) et stérilisation.  
 Patch et anneau vaginal réservés en intolérance aux moyens déjà listés (sur-risque thrombo-embolique).
-Ces moyens efficaces sont **gratuits jusqu'à 25 ans révolus** (sauf patch et anneau qui ont risque de MVTE augmenté, *[Service public](https://www.service-public.fr/particuliers/actualites/A15158)*).
+Ces moyens efficaces sont **gratuits jusqu'à 25 ans révolus** (sauf patch et anneau qui ont risque de MVTE augmenté, *[Service public](https://www.service-public.gouv.fr/particuliers/vosdroits/F707)*).
 
 > Possibilité de faire renouveler une fois le contraceptif oral pour 6 mois en présentation d'une ordonnance de moins d'un an.
 

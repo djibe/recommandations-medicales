@@ -131,7 +131,7 @@ Préciser sur l'ordonnance:
 - Date du précédent dosage, traitements réalisés depuis le précédent dosage
 
 Prise en charge d'une plombémie chez l'enfant ≥ 50 µg/L:  
-Transmettre la fiche émise par le laboratoire ([Cerfa 12378*03](https://www.formulaires.service-public.fr/gf/cerfa_12378.do)) au médecin inspecteur de santé publique (MISP) de l'ARS sous pli confidentiel avec mention << secret médical >>.
+Transmettre la fiche émise par le laboratoire ([Cerfa 12378*03](https://www.formulaires.service-public.gouv.fr/gf/cerfa_12378.do)) au médecin inspecteur de santé publique (MISP) de l'ARS sous pli confidentiel avec mention << secret médical >>.
 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
