@@ -9,10 +9,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2024-06-28"
+lastmod = "2026-08-02"
 specialites = ["cardiologie"]
 annees = "2024"
-sources = ["ESH", "USPTF", "ESC"]
+sources = ["ESC", "ESH"]
 tags = ["céphalées", "démence", "dépistage", "épreuve effort", "grossesse", "HTA", "néphropathie", "obésité", "risque cardiovasculaire", "SAS", "vertige"]
 english = ["Arterial hypertension", "high blood pressure"]
 sctid = "38341003"
@@ -25,14 +25,15 @@ flowchart = true
 
 {{%article-summary%}}
 
+- L'hypertension artérielle est la maladie chronique la plus fréquente, définie une pression artérielle systolique (PAS) ≥ 140 mmHg et/ou diastolique ≥ 90 mmHg au cabinet (135/85 mmHg en automesure et 130/80 mmHg en MAPA) à partir de 16 ans
 - Dépister l'hypertension artérielle dès 3 ans, au moins tous les 3 ans après 40 ans (annuellement selon la *USPTF*, 1/3 des adultes sont hypertendus et les 3/4 ne sont pas contrôlés)
 - Mesurer la pression artérielle de façon standardisée avec un tensiomètre validé (voir *Mesure au cabinet* et [tensiomètres validés]({{% relref "tensiometres-electroniques-valides.md" %}}))
-- Confirmer le diagnostic par mesures et automesures ou MAPA répétées, conserver le grade et le stade d'hypertension au diagnostic
+- Confirmer le diagnostic par des mesures et automesures ou MAPA répétées
 - Rechercher des complications et calculer le {{%modal-btn "modal-rcv"%}}risque cardiovasculaire{{%/modal-btn%}} ([SCORE2]({{% relref "score2.md" %}}) en prévention primaire) pour déterminer la cible de LDL cholestérol
 - Traitement selon le grade d'hypertension (voir *Définitions*) et mesures hygiéno-diététiques systématiques
 - Les cibles tensionnelles dépendent du profil (120-129 / 70-79 mmHg avant 80 ans) et ne sont valables que pour les mesures de tension au cabinet
 - Objectif d'un seul comprimé antihypertenseur combiné et informer sur les conséquences d'une hypertension non traitée ([accidents cardiovasculaires](/tags/risque-cardiovasculaire/), démence)
-- Polythérapies antihypertensives de référence: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}, voire {{< modal-btn modal-triple >}}IEC/ARA2 + TZD + ICa{{< /modal-btn >}}
+- Bithérapies antihypertensives de référence: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
 
 Chapitres liés: [automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}}), [le carnet d'automesure tensionnelle à imprimer](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf)
 
@@ -53,40 +54,33 @@ Hypertension artérielle résistante
 
 ### Grades de l'hypertension artérielle
 
-> [!INFO]
-> << Un dépistage moins fréquent (*ex* tous les 3 à 5 ans) est approprié pour les adultes 18-39 ans sans surrisque d'hypertension ayant déjà eu une mesure de la pression artérielle >> (surrisque: origines Africaines, surpoids, tension normale haute). -- *USPTF 2021*
-
-| Catégorie                 | Systolique (mmHg) |       | Diastolique (mmHg) | Action                                                                        |
-| ------------------------- | :---------------: | :---: | :----------------: | ----------------------------------------------------------------------------- |
-| Optimale                  | < 120             | et    | < 80               | Surveillance min. /5 ans sans surrisque (*USPTF 2021*)                        |
-| Normale                   | 120-129           | et    | 80-84              | Surv. min. /3 ans (6 mois si FRCV, *ESC 2018*)                                |
-| Normale haute             | 130-139           | et/ou | 85-89              | Surv. **annuelle**, éliminer HTA masquée par AMT/MAPA, traiter si THRCV       |
-| Hypertension grade&nbsp;1 | 140-159           | et/ou | 90-99              | Éliminer blouse blanche par AMT/MAPA, essai RHD 3-6 mois, traiter si HRCV     |
-| Hypertension grade&nbsp;2 | 160-179           | et/ou | 100-109            | Confirmer par AMT/MAPA en qq j/sem, **traitement immédiat** et contrôle sous 3 mois |
-| Hypertension grade&nbsp;3 | ≥ 180             | et/ou | ≥ 110              | Traitement immédiat et cible atteinte sous 3 mois                             |
-| Hypertension systolique isolée | ≥ 140        | et    | < 90               | Traitement selon le grade de la PAS                                           |
-| Hypertension diastolique isolée | < 140       | et    | ≥ 90               | Traitement selon le grade de la PAD                                           |
-| Hypertension nocturne (MAPA) | ≥ 120          | et/ou | ≥ 70               | Suivi hypertensiologue                                                        |
-{caption="Grades d'hypertension artérielle selon les mesures de pression artérielle au cabinet à partir de 16 ans. Dr JB Fron d'après *ESH 2023* et *USPTF 2021*" class="table-wrap"}
+| Catégorie ESC 2024 | Systolique (mmHg) | | Diastolique (mmHg) | Action et Cible de traitement |
+| --- | :---: | :---: | :---: | --- |
+| **PA non élevée** <br> (anc. Optimale ESH 2023) | **< 120** | et | **< 70** | **Dépistage :** Tous les 3 ans avant 40 ans, annuel ensuite |
+| **PA élevée** <br> (anc. Normale / Normale haute ESH 2023) | **120-139** | et/ou | **70-89** | **RHD systématiques**. <br> **Médicaments si:** SCORE2 ≥ 10 % **et** PA confirmée ≥ 130/80 après 3 mois de RHD. |
+| **Hypertension** <br> (anc. Grades 1, 2 et 3 ESH 2023) | **≥ 140** | et/ou | **≥ 90** | **Confirmation:** AMT ou MAPA. <br> **Traitement:** antihypertenseur immédiat. **Cible:** 120-129 / 70-79 mmHg. |
+| **Hypertension isolée** <br> (systolique ou diastolique) | ≥ 140 | ou | ≥ 90 | **Systolique :** Éviter les bêtabloquants en routine (si rigidité artérielle). <br> **Diastolique :** Fréquent chez le sujet jeune/obèse. |
+| **PA Nocturne (MAPA)** <br> PA non élevée <br> PA élevée <br> Hypertension | <br> > 110 <br> 110-119 <br> ≥ 120 | <br> et/ou <br> | <br> < 60 <br> 60-69 <br> ≥ 70 | <br> À partir d'élevée: identifier le profil (raiser/non-diapper) et chercher une cause secondaire(ex :SAS, obésité). |
+{caption="Grades d'hypertension artérielle selon les mesures de pression artérielle au cabinet à partir de 16 ans. Drs JB Fron et S Baudrand d'après *ESC 2024*, *ESH 2023*" class="table-wrap"}
 
 > **AMT =** automesure tensionnelle ; **HRCV/THRCV =** {{%modal-btn "modal-rcv"%}}haut/très haut risque CV{{%/modal-btn%}}.  
 Utiliser la plus haute valeur des mesures standardisées effectuées au cabinet.  
-RHD pour tous dès tension *normale haute*.  
-Découverte ≥ 65 ans: traiter si antihypertenseurs bien tolérés. Sinon attendre grade 2.  
-Découverte ≥ 80 ans: traiter si ≥ grade 2.  
-L'HTA systolique isolée est gradée selon la même échelle des valeurs systoliques.  
-Dépistage rapproché chez le +50 ans.
+RHD pour tous dès que la *PA est élevée*.  
+Pour les 65-84 ans non fragiles: traitement si PA ≥ 140/90 ou dès une PA élevée avec SCORE2 ≥ 10 %. Traiter si antihypertenseurs bien tolérés. Sinon attendre grade 2.  
+À partir de 85 ans: traitement qu'au delà de 140/90 mmHg.  
+Pour l'HTA systolique/diastolique isolée, la cible est la même (120-129 / 70-79 mmHg).  
+Si la cible n'est pas atteinte avec un traitement bien toléré, s'en approcher au maximum (<< as low as reasonably achievable >>).
 
 4 situations après la réalisation des mesures standardisées au cabinet et au domicile (AMT et/ou MAPA):
 
 1. Normotension  
   Pressions au cabinet et ambulatoires normales. Rythme de surveillance selon le tableau ci-dessus.
-1. Hypertension permanente  
+2. Hypertension permanente  
   Hypertension au cabinet et au domicile. Traitement selon tableau ci-dessus.
-1. Hypertension blouse blanche (15-25 %)  
+3. Hypertension blouse blanche (15-25 %)  
   Hypertension au cabinet et absente au domicile. RHD et dépistage annuel. Envisager un traitement en {{%modal-btn "modal-rcv"%}}risque cardiovasculaire élevé ou très élevé{{%/modal-btn%}}
-1. Hypertension masquée (10-20 %)  
-  Hypertension absente au cabinet et observée au domicile. Automesures au moindre doute ([Hundemer et al 2025](https://www.sciencedirect.com/science/article/pii/S2589790X25000356)). RHD et traitement selon le grade de l'hypertension.
+4. Hypertension masquée (10-20 %)  
+  Hypertension absente au cabinet et observée au domicile. Automesures au moindre doute ([Hundemer et al 2025](https://www.sciencedirect.com/science/article/pii/S2589790X25000356)).
 
 ### Stades d'hypertension artérielle
 
@@ -102,7 +96,7 @@ AMT
 : automesure tensionnelle ({{%lang%}}home blood pressure monitoring - HBPM{{%/lang%}})
 
 ARA2
-: antagoniste des récepteurs de l'angiotensine 2 (ou sartan)
+: antagoniste des récepteurs de l'angiotensine 2
 
 CV
 : cardiovasculaire
@@ -227,13 +221,13 @@ Le brassard est spécifique de chaque appareil.
 > [!INFO]
 > Une diastolique entre 70 et 79 mmHg est la cible pour tout hypertendu. La pression cible doit être atteinte sous 3 mois.
 
-| Population          | Objectif (mmHg) | Source     |
-| ------------------- | --------------: | ---------- |
-| Cible minimale      | < 140/80        | ESH 2024   |
-| 18-79 ans           | 120-129/70-79   | ESH 2024   |
+| Population | Objectif (mmHg) | Source |
+| --- | ---: | --- |
+| Cible minimale | < 140/80 | ESH 2024 |
+| 18-79 ans | 120-129/70-79 | ESH 2024 |
 | +80 ans (min/max)   | 140-150/80<br>130-139/70-79 | ESH 2024 |
-| Fragilité           | Individualisé   | ESH 2024   |
-| HTA résistante      | idem générale   | ESH 2023   |
+| Fragilité | Individualisé   | ESH 2024   |
+| HTA résistante | idem générale   | ESH 2023   |
 | [AIT/AVC]({{% relref "accident-vasculaire-cerebral.md" %}}) | idem générale | ESH 2023 |
 | [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) | 120-140/90 | ESC 2017 LEAD |
 | [Coronaropathie]({{% relref "syndrome-coronarien-chronique.md" %}}) | idem générale | ESH 2023 |
@@ -241,9 +235,9 @@ Le brassard est spécifique de chaque appareil.
 | [Fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}) | idem générale | ESC 2024 |
 | [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) | idem générale | ESH 2023 |
 | [Insuffisance rénale]({{% relref "insuffisance-renale-chronique.md" %}}) | < 130/80<br>< 120/90 | ESH 2023<br>KDIGO 2021 |
-| Greffe rénale       | < 130/80        | ESH 2023, KDIGO 2021 |
-| Grossesse           | < 140/90        | ESH 2023   |
-{caption="Synthèse des cibles de pression artérielle au cabinet selon le profil de l'adulte de plus de 18 ans. Dr JB Fron d'après les dernières recommandations en vigueur"}
+| Greffe rénale | < 130/80 | ESH 2023, KDIGO 2021 |
+| Grossesse | < 140/90 | ESH 2023 |
+{caption="Synthèse des cibles de pression artérielle au cabinet selon le profil de l'adulte de plus de 18 ans. Drs JB Fron et S Baudrand d'après les dernières recommandations en vigueur"}
 
 Abaisser encore la cible systolique si bien tolérée sans passer sous 120/70 mmHg (*ESH 2024*). Détail pour chaque pathologie sur la page du chapitre concerné.
 
@@ -359,38 +353,6 @@ Mesures hygiéno-diétetiques au long cours pour la prise en charge de l'hyperte
 
 La prise en charge de l'hypertension est toujours associée aux [mesures hygiéno-diétetiques](#mesures-hygiéno-diétetiques) et la surveillance de l'observance.
 
-### Traitement de première intention de l'hypertension artérielle non compliquée
-
-Prise en charge de l'hypertension artérielle par bithérapie au choix parmi:
-
-<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-iec">IEC + TZD</button>
-<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-iec">IEC + ICa</button>
-<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + TZD</button>
-<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + ICa</button>
-
-- Envisager une **monothérapie** si: +80 ans, sujet fragile, HTA < 150/95 mmHg à faible risque cardiovasculaire ou tension normale haute avec maladie cardiovasculaire
-- Chez le sujet à peau noire: {{< modal-btn modal-tzd-ica >}}TZD + ICa{{< /modal-btn >}} aussi possible
-- L'ajout d'un IEC/ARA2 à l'anticalcique réduit la survenue d'œdèmes et l'association au thiazidique réduit la survenue d'hypokaliémie
-- Pas d'arrêt brutal des: BB, ICa, diurétique, antihypertenseur central
-
-La baisse de pression artérielle intervient en 1 à 2 semaines après l'introduction du traitement, pouvant se prolonger jusqu'à 2 mois.
-{.text-black-secondary}
-
-### Traitement de niveau 2
-
-> [!INFO]
-> L'hydrochlorothiazide nécessite un examen cutané et la recherche d'antécédent de carcinome cutané à l'instauration. Puis suivi cutané annuel (semestriel en cas d'antécédent -- *Académie de médecine 2025*).
-
-Trithérapie {{< modal-btn modal-triple >}}IEC/ARA2 + TZD + ICa{{< /modal-btn >}} en 1 seul comprimé (Triplixam seul remboursé). Ou associer <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-iec">IEC + ICa</button> ou <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + ICa</button> et hydrochlorothiazide (HCT).
-
-### Traitement de niveau 3
-
-Une hypertension non contrôlée par une trithérapie est une **hypertension résistante:** avis spécialisé + mesures hygiéno-diététiques + ajout de [spironolactone](https://base-donnees-publique.medicaments.gouv.fr/medicament/63145849/extrait#tab-rcp) 25-50 mg/j (ou bêtabloquant, alpha-bloquant, antihypertenseur central).
-
-En cas d'**hypertension artérielle résistante**, rechercher: défaut d'observance, effet blouse blanche, mesures de PA non standardisées, {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}, calcifications des artères brachiales, inertie du médecin, consommation de sel, HTA secondaire, [maladie rénale]({{% relref "insuffisance-renale-chronique.md" %}}).
-
-### Informations générales sur le traitement de l'hypertension artérielle
-
 - Privilégier une ==**bithérapie d'emblée**== en essayant de conserver un seul comprimé
 - Titration jusqu'à la **dose maximale tolérée** (diastolique minimale: 70 mmHg)
 - Aucune différence entre une prise le matin ou le soir (*étude TIME*) mais **observance meilleure le matin** (*ESH 2023*)
@@ -407,6 +369,39 @@ En cas d'**hypertension artérielle résistante**, rechercher: défaut d'observa
   - ==ECG tous les 3 à 5 ans==
   - Test d'effort: recommandé si angor et ECG normal, envisager pour activité physique adaptée APA (*SFC 2018*)
 - Réévaluation des complications au **minimum tous les 2 ans**
+
+### Traitement de première intention de l'hypertension artérielle non compliquée
+
+Prise en charge de l'hypertension artérielle par bithérapie au choix parmi:
+
+<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-iec">IEC + TZD</button>
+<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-iec">IEC + ICa</button>
+<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + TZD</button>
+<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + ICa</button>
+
+- Envisager une **monothérapie** si: +80 ans, sujet fragile, HTA < 150/95 mmHg à faible risque cardiovasculaire ou tension normale haute avec maladie cardiovasculaire
+- Chez le sujet à peau noire: {{< modal-btn modal-tzd-ica >}}TZD + ICa{{< /modal-btn >}} aussi possible
+- L'ajout d'un IEC/ARA2 à l'anticalcique réduit la survenue d'œdèmes et l'association au thiazidique réduit la survenue d'hypokaliémie
+- Pas d'arrêt brutal pour les classes suivantes: BB, ICa, diurétique, antihypertenseur central
+
+La baisse de pression artérielle intervient en 1 à 2 semaines après l'introduction du traitement, pouvant se prolonger jusqu'à 2 mois.
+{.text-black-secondary}
+
+### Traitement de niveau 2
+
+> [!INFO]
+> L'hydrochlorothiazide nécessite un examen cutané et la recherche d'antécédent de carcinome cutané à l'instauration. Puis suivi cutané annuel (semestriel en cas d'antécédent -- *Académie de médecine 2025*).
+
+Trithérapie {{< modal-btn modal-triple >}}IEC/ARA2 + TZD + ICa{{< /modal-btn >}} en 1 seul comprimé (Triplixam® seul remboursé). Ou associer <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-iec">IEC + ICa</button> ou <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + ICa</button> et hydrochlorothiazide (HCT).
+
+### Traitement de niveau 3
+
+**Hypertension résistante** (non contrôlée par une trithérapie): avis spécialisé, mesures hygiéno-diététiques rappelées, ajout de [spironolactone](https://base-donnees-publique.medicaments.gouv.fr/medicament/63145849/extrait#tab-rcp) 25-50 mg/j (ou bêtabloquant, alpha-bloquant, antihypertenseur central).
+
+Chez l'insuffisant rénal sévère: IEC/ARA2 + ICa + diurétique de l'anse + chlortalidone (ou BB ou alpha-bloquant ou antihypertenseur central).
+
+> [!INFO]
+> En cas d'**hypertension artérielle résistante**, éliminer: défaut d'observance, effet blouse blanche, mesures de PA non standardisées, {{< modal-btn modal-saos >}}apnées du sommeil{{< /modal-btn >}}, calcifications des artères brachiales, inertie du médecin, consommation de sel, HTA secondaire, [maladie rénale]({{% relref "insuffisance-renale-chronique.md" %}}).
 
 ### Améliorer l'observance du traitement antihypertenseur
 
@@ -433,7 +428,7 @@ En cas d'**hypertension artérielle résistante**, rechercher: défaut d'observa
 {{% /collapse %}}
 {{%collapse "Hypertension et grossesse" %}}
 
-Particularités de l'hypertension artérielle pendant la grossesse:
+Particularités de l'hypertension artérielle pendant la grossesse (hypertension artérielle gravidique):
 
 - Seuil diagnostique habituel  
   PAS ≥ 140 mmHg et/ou PAD ≥ 90 mmHg avec brassard manuel ou appareil validé.
@@ -477,7 +472,7 @@ graph TB
 
 ### Prise en charge après le diagnostic d'hypertension artérielle
 
-1. Confirmer le diagnostic par [automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}}) et/ou MAPA
+1. Confirmer le diagnostic par [automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}})/MAPA
 2. Noter dans le dossier les valeurs pré-traitement et le grade de l'hypertension (voir *Définitions*)
 3. Rechercher une *maladie cardiovasculaire* (MCV) et des complications de l'hypertension  
     - *ECG 12D*, *Fond d'œil* si HTA grade 2-3 ou diabète, {{< modal-btn modal-depistage-prevalent >}}recherche d'AOMI{{< /modal-btn >}}
