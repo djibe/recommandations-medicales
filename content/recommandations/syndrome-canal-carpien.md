@@ -165,9 +165,7 @@ Autres pathologies à étayer devant un tableau de syndrome du canal carpien:
 
 ### Électroneuromyogramme (ENMG)
 
-L'électroneuromyogramme (ENMG ou EMG) est indiqué en lorsque la chirurgie est envisagée (preuve médico-légale) ou en cas de doute diagnostique.
-
-L'ENMG est obligatoire pour la reconnaissance en **maladie professionnelle** du canal carpien. La **perte axonale** est le facteur pronostic essentiel.
+L'**électroneuromyogramme** (ENMG ou EMG) est indiqué pour les formes sévères, lorsque la **chirurgie** est envisagée (preuve médico-légale, *HAS 2013*) et en cas de **doute diagnostique** (ex. syndrome du défilé thoracobrachial). La **perte axonale** est le facteur pronostic essentiel.
 
 ### Échographie du poignet
 
@@ -188,7 +186,7 @@ Recommandations pour la prise en charge initiale du syndrome du canal carpien:
 - Si grossesse: la guérison est quasi systématique après l'accouchement. Privilégier l'orthèse exclusive.
 - Autres mesures ci-dessous en cas de tableau sévère ou d'échec du traitement médical (<< conservateur >>)
 - Information du patient: [guide Ameli](https://www.ameli.fr/assure/sante/themes/syndrome-canal-carpien)
-- Rechercher une maladie professionnelle
+- Rechercher une maladie professionnelle, évaluation du poste de travail par le médecin du travail
 
 La prise en charge d'un syndrome du canal carpien secondaire est spécialisée (rhumatologue, orthopédiste).
 
@@ -199,7 +197,7 @@ La prise en charge d'un syndrome du canal carpien secondaire est spécialisée (
 
 Infiltrations locales de méthylprednisolone, efficaces sous 4 heures. Le délai entre les 2 injections est de 3 à 6 mois (*Ameli*, *Cochrane*).
 
-**Essayer une seule infiltration selon *Prescrire***.
+**Essayer une seule infiltration selon *Prescrire*** (maximum 2-3 selon *HAS 2013*, 2 dans le référentiel *Ameli 2013*).
 
 > << Des preuves solides suggèrent que l'injection de corticoïdes n'apporte pas d'amélioration à long terme pour le syndrome du canal carpien. >> -- *AAOS 2024*. Même précision pour le PRP (plasma riche en plaquettes).
 
@@ -207,13 +205,13 @@ Infiltrations locales de méthylprednisolone, efficaces sous 4 heures. Le délai
 
 Prendre rapidement l'avis du **médecin du travail** pour l'adaptation du poste de travail.
 
-[Reconnaissance possible du syndrome du canal carpien en Maladie professionnelle dans le cadre du Tableau 57](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2057).
+[Reconnaissance possible du syndrome du canal carpien en Maladie professionnelle dans le cadre du Tableau 57](https://www.inrs.fr/publications/bdd/mp/tableau.html?refINRS=RG%2057): << Travaux comportant de façon habituelle, soit des mouvements répétés ou prolongés d'extension du poignet ou de préhension de la main, soit un appui carpien, soit une pression prolongée ou répétée sur le talon de la main. >>
 
 ### Chirurgie du canal carpien
 
 Indications à la chirurgie pour syndrome du canal carpien:
 
-- Échecs répétés des traitements fonctionnels (orthèse, infiltrations)
+- Échecs patents des traitements fonctionnels (orthèse, infiltrations)
 - Syndrome du canal carpien grave (déficit sensitif et/ou moteur)
 
 Technique chirurgicale par section du ligament annulaire antérieur du carpe en **chirurgie ambulatoire**.  
@@ -267,11 +265,11 @@ diagnostic -- Diagnostic différentiel --> différentiel("- Atteintes radiculair
 {{< youtube id="U8cPjPeZgFw" title="Le signe de Tinel" >}}
 
 - [CBIP. Syndrome du canal carpien: chirurgie ou infiltration locale?. Folia. 2026.](https://www.cbip.be/fr/articles/4723?folia=4726)
-- [Ameli. Aide à la pratique : syndrome du canal carpien. 26/02/2025.](https://www.ameli.fr/exercice-coordonne/exercice-professionnel/memos/aide-pratique-syndrome-canal-carpien)
 - [American Academy of Orthopaedic Surgeons. Management of Carpal Tunnel Syndrome Evidence-Based Clinical Practice Guideline. 2024. (PDF)](https://www.aaos.org/globalassets/quality-and-practice-resources/carpal-tunnel/carpal-tunnel-2024/cts-cpg.pdf)
 - [Santé Publique France. Syndrome du canal carpien. 02/04/2024.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-liees-au-travail/troubles-musculo-squelettiques/donnees/syndrome-du-canal-carpien)
 - [Ashworth NL, et al. Local corticosteroid injection versus placebo for carpal tunnel syndrome. Cochrane Database of Systematic Reviews. 2023.](https://www.cochrane.org/CD015148/NEUROMUSC_local-steroid-injection-carpal-tunnel-syndrome)
 - [HAS, Centre de référence des maladies rares de l'hypophyse. Acromégalie. Protocole National de Diagnostic et de Soins. 2021.](https://www.has-sante.fr/jcms/p_3292767/fr/acromegalie)
+- [Ameli. Aide à la pratique : syndrome du canal carpien. 2020.](https://www.ameli.fr/exercice-coordonne/exercice-professionnel/memos/aide-pratique-syndrome-canal-carpien)
 - Prescrire Redaction. Syndrome du canal carpien: parfois d'origine médicamenteuse. Rev Prescrire. 2019.
 - [Collège des Enseignants de Neurologie (CEN). Radiculalgies et syndromes canalaires. 2019.](https://www.cen-neurologie.fr/second-cycle/radiculalgies-syndromes-canalaires-neuropathies-peripheriques-polyradiculonevrite)
 - [Petrover D, Richette P. Prise en charge du syndrome du canal carpien: de l'échographie diagnostique à la libération percutanée sous échographie. Revue du Rhumatisme. 2018.](https://www.sciencedirect.com/science/article/pii/S1169833017303071)
