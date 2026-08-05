@@ -271,6 +271,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [NICE. Heavy menstrual bleeding: assessment and management. NICE guideline. 2026.](https://www.nice.org.uk/guidance/ng88)
 - [Vautier V; SFP. Saignements abondants d'origine utérine chez l'adolescente. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pap-detail/nso74e8dh)
 - Collège
 

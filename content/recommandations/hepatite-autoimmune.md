@@ -1,6 +1,6 @@
 +++
 id = "0190e8c4-39a3-7a2b-ad57-a3733616a476"
-title = "Hépatite auto-immune (HAI)"
+title = "Hépatite auto-immune"
 prefix = "l'"
 description = "Recommandations pour le diagnostic et la prise en charge de l'hépatite auto-immune HAI. Cytolyse, anticorps anti-muscle lisse et ponction-biopsie hépatique"
 synonyms = []
@@ -17,6 +17,8 @@ sctid = "408335007"
 icd10 = ["K75.4"]
 image = true
 imageSrc = "Hépatite auto-immune affirmée suite à la biopsie hépatique révélant une hépatite d'interface lymphoplasmocytaire. Nephron, CC BY-SA 3.0, via Wikimedia Commons"
+rank = "false"
+writing = "false"
 todo = "flow | relecture demandée cmr.mivbh"
 +++
 
@@ -70,7 +72,7 @@ TH
 {{%collapse "Clinique" %}}
 
 > [!INFO]
-> Le diagnostic doit être évoqué devant toute élévation chronique des transaminases ne relevant pas d'une cause habituelle, en particulier virale. >> -- *Filfoie*
+> << Le diagnostic doit être évoqué devant toute élévation chronique des transaminases ne relevant pas d'une cause habituelle, en particulier virale. >> -- *Filfoie*
 
 Signes et symptômes à rechercher en cas de suspicion d'hépatite auto-immune (cytolyse chronique).
 

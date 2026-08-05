@@ -195,4 +195,8 @@ graph TB
 - [SNFCP. Les hémorroïdes](https://www.snfcp.org/informations-maladies/hemorroides/les-hemorroides/)
 - [SNFCP. Hémorroïdes et Grossesse](https://www.snfcp.org/informations-maladies/pathologie-anale-grossesses-et-accouchement/hemorroides-et-grossesse/)
 
+### Bibliographie en attente
+
+- [Qureshi W, et al. AGA Clinical Practice Update on Diagnosis and Treatment of Hemorrhoids: Expert Review. Clinical Gastroenterology and Hepatology. 2026.](https://www.cghjournal.org/article/S1542-3565(26)00282-X/fulltext)
+
 {{%/sources%}}

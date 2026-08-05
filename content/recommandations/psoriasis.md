@@ -127,7 +127,7 @@ Le psoriasis peut prendre différentes formes cliniques:
 - Psoriasis du cuir chevelu  
   Plaques bien limitées de taille variable (lisière antérieure, occipitales) avec squames épaisses voire carapace squameuse en casque. [Alopécie]({{% relref "alopecie.md" %}}) temporaire possible.
 - Psoriasis unguéal  
-  Ongles en << dé à coudre >>, onycholyse avec décollement distal, zone proximal << saumonée >>, hyperkératose sous-unguéale, paronychie, perte de transparence de l'ongle.
+  Ongles en << dé à coudre >>, onycholyse distale, tâches saumonées prixomales, hyperkératose sous-unguéale, paronychie, perte de transparence de l'ongle.
 - Localisations plus rares
   - Psoriasis inversé  
     Atteinte bien limitée d'aspect érythémateux vernissé des plis non convexes: interfessier, axillaires, sous-mammaires, ombilical, inguinaux.
