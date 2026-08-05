@@ -27,13 +27,13 @@ Les artisans du site internet se réservent le droit de modifier unilatéralemen
 
 ## Article 1 : Les mentions légales
 
-L'édition et la direction de la publication du site <https://recomedicales.fr> (ci-après << le site >>) est assurée par Jean-Baptiste Fron (ci-après l'éditeur).
+L'édition et la direction de la publication du site <https://recomedicales.fr> (ci-après << le site >>) est assurée par l'Association RecoMédicales (ci-après l'éditeur).
 
 L'hébergeur du site est la société Netlify, Inc., domiciliée au 512 2nd Street, Suite 200 San Francisco, CA 94107.
 
 ## Article 2 : Accès au site
 
-Le site est destiné aux médecins généralistes et étudiants en santé. Les informations référencées sont susceptibles de ne pas être compréhensibles du grand public.
+Le site est destiné aux médecins généralistes et aux étudiants en médecine. Les informations référencées sont susceptibles de ne pas être compréhensibles du grand public.
 
 Le site internet propose les services suivants:
 
