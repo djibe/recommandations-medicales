@@ -2,14 +2,14 @@
 id = "01956ca2-40b0-73d7-b454-77250548bb05"
 aliases = ["infections-claustridium-difficile"]
 title = "Infection à Clostridioides difficile (*ex Clostridium difficile*)"
-titleSeo = "Infection Clostridium difficile"
+titleSeo = "Infection Clostridioides difficile / Clostridium difficile"
 prefix = "l'"
-description = "Recommandations pour le diagnostic et la prise en charge des infections à Clostridium difficile (Clostridioides difficile). Antibiothérapies répétées diarrhées, traitement par vancomycine"
+description = "Recommandations pour le diagnostic et la prise en charge de l'infection à Clostridioides difficile (ex Clostridium difficile). Antibiothérapie par fidaxomicine"
 synonyms = ["Peptoclostridium difficile"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-03-06T19:05:06+01:00"
 publishdate = "2025-03-20"
-lastmod = "2026-04-22"
+lastmod = "2026-08-04"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2025"
 sources = ["RéPia", "ESCMID", "ACG", "ASCRS"]
@@ -20,6 +20,7 @@ icd10 = ["A04.7"]
 image = true
 imageSrc = "Aspect coloscopique de colite pseudomembraneuse à *Clostridium difficile*. Klinikum Dritter Orden, München. Abteilung Innere Medizin I Vielen Dank an Christoph Kaiser für die Überlassung des Bildes zur Veröffentlichung!, CC0, via Wikimedia Commons"
 rank = "ok"
+writing = "ok"
 todo = "flow | Rechercher chez SII avec diarrhées aiguës profuses."
 +++
 
@@ -29,7 +30,7 @@ todo = "flow | Rechercher chez SII avec diarrhées aiguës profuses."
 - Le diagnostic d'infection à *Clostridioides difficile* est clinico-microbiologique: situation évocatrice (antibiothérapie, hospitalisation, immunodépression, intestin irritable), au moins 3 selles non moulées par 24 heures non glairo-sanglantes, et coproculture avec 2 tests positifs à *C. difficile*
 - Une fièvre modérée est possible. Un tableau brutal évoque une colite pseudomembraneuse dont le traitement est urgent
 - Le bilan biologique et la coproculture sur selles diarrhéiques sont systématiques: NFS, CRP, bilan rénal, hépatique et coproculture avec recherche de *C. difficile* mentionnée sur l'ordonnance
-- La prise en charge de l'infection à *Clostridium difficile* peut être ambulatoire en l'absence de signes de gravité (intensité, tolérance, comorbidités): antibiothérapie par vancomycine 125 mg x 4/j pendant 10 jours (14 jour si intestin irritable)
+- La prise en charge de l'infection à *Clostridium difficile* peut être ambulatoire en l'absence de signes de gravité (intensité, tolérance, comorbidités): antibiothérapie par fidaxomicine 200 mg x 2/j pendant 10 jours sur prescription hospitalière
 - Demander un avis infectiologique en cas de doute diagnostique ou de récidive
 
 {{%/article-summary%}}
@@ -128,7 +129,7 @@ Le tableau diarrhéique aigu apparaît souvent **à l'introduction d'une nouvell
 La prise en charge de l'infection à *Clostridioides difficile* (ICD, ex *Clostridium difficile*) est ambulatoire **en l'absence de signes de gravité** avec une antibiothérapie simple mais sur ==**prescription et dispensation hospitalière**==.
 
 > [!INFO]
-> Traitement de *Clostridium difficile* non sévère: [fidaxomicine 200 mg](https://www.ema.europa.eu/fr/documents/product-information/dificlir-epar-product-information_fr.pdf)** x 2/j (Dificlir®) pendant 10 jours et arrêt de l'antibiotique inducteur.
+> Traitement de *Clostridium difficile* non sévère: [fidaxomicine 200 mg](https://www.ema.europa.eu/fr/documents/product-information/dificlir-epar-product-information_fr.pdf)** x 2/j (Dificlir®) pendant 10 jours et arrêt de l'antibiotique inducteur (prescription hospitalière).
 
 En cas de récidive (dans les 8 semaines suivant la fin du traitement): demander un **avis infectiologique**.
 
@@ -166,5 +167,9 @@ Pour les cas les plus graves, une **colectomie subtotale** peut être envisagée
 - [Kelly CR, et al. ACG Clinical Guidelines: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections. Am J Gastroenterol. 2021.](https://journals.lww.com/ajg/fulltext/2021/06000/acg_clinical_guidelines__prevention,_diagnosis,.12.aspx)
 - [Poylin V, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Clostridioides difficile Infection. Dis Colon Rectum. 2021.](https://journals.lww.com/dcrjournal/fulltext/2021/06000/the_american_society_of_colon_and_rectal_surgeons.5.aspx)
 - [HAS. Modification de la nomenclature des actes de biologie médicale pour les actes de diagnostic biologique des infections à Clostridium difficile. 2016.](https://www.has-sante.fr/jcms/c_2607794/fr/modification-de-la-nomenclature-des-actes-de-biologie-medicale-pour-les-actes-de-diagnostic-biologique-des-infections-a-clostridium-difficile)
+
+### Bibliographie pour en savoir plus
+
+- [Khanna S, et al. AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review. Gastroenterology. 2026.](https://www.gastrojournal.org/article/S0016-5085(26)00245-3/fulltext)
 
 {{%/sources%}}
