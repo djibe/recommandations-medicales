@@ -7,16 +7,18 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-02-06T14:23:41+01:00"
 publishdate = "2023-02-09"
-lastmod = "2023-02-09"
+lastmod = "2026-08-06"
 specialites = ["gynécologie-obstétrique"]
-annees = "2022"
-sources = ["CNGOF"]
+annees = "2026"
+sources = ["NICE", "CNGOF"]
 tags = ["adolescent", "contraception"]
-english = ["Menorrhagia", "abnormal uterine bleeding"]
+english = ["Menorrhagia", "abnormal uterine bleeding", "heavy menstrual bleeding"]
 sctid = "386692008"
 icd10 = ["N92.0", "N92.1", "N92.2"]
 image = true
 imageSrc = "Score de PBAC / Higham pour objectiver les ménorragies par les HCL"
+rank = "false"
+writing = "ok"
 flowchart = true
 todo = "Collège, FIGO"
 +++
@@ -25,7 +27,7 @@ todo = "Collège, FIGO"
 
 - Les ménorragies sont des règles abondantes chez une femme d'âge compatible, d'un volume supérieur à 80 mL ou d'une durée supérieure à 6 jours, en dehors de la [grossesse](/tags/grossesse/)
 - Un examen clinique rigoureux avec examen gynécologique est nécessaire
-- Le bilan des ménorragies de première intention comprend: NFS ± hCG ± TSH et échographie pelvienne par un référent  
+- Le bilan des ménorragies de première intention comprend: NFS, ± hCG, ± TSH et échographie pelvienne par un référent  
   Pour l'adolescente: pas d'échographie en première intention mais bilan d'hémostase (TP, TCA, fibrinogène, Willebrand et Facteur VIII)
 - Le traitement des ménorragies peut être médical (acide tranexamique), hormonal (pilule œstroprogestative, progestatifs, stérilet hormonal, agonistes de la GnRH) ou chirurgical (conservateur ou hystérectomie)
 - La prise en charge des ménorragies idiopathiques de la femme comprend: acide tranexamique si désir de grossesse proche, sinon DIU au lévonorgestrel ou chirurgie conservatrice à partir de 42 ans. Hystérectomie si souhaitée.
@@ -45,11 +47,17 @@ Ménorragies
 aGnRH
 : agoniste de la GnRH
 
+CNGOF
+: Collège National des Gynécologues et Obstétriciens Français
+
 COP
 : contraception œstroprogestative (abréviation utilisée par le *CNGOF*)
 
 DIU-LNG
 : dispositif intra-utérin ou stérilet au lévonorgestrel
+
+NICE
+: {{%lang%}}National Institute for Health and Care Excellence{{%/lang%}}
 {.dl-inline}
 
 {{% /collapse %}}
@@ -61,20 +69,27 @@ Signes et symptômes à rechercher lors du bilan de ménorragies.
 
 - Antécédents (hémorragiques, pelviens)
 - Antécédents familiaux hémorragiques
+- Traitements en cours  
+  AINS, anticoagulant.
 - Contraception
-- Date des dernières règles, risque de grossesse.
-- Menstruations
+- Âge de la ménarche
+- Date des dernières règles, activité sexuelle
+- Caractères des menstruations:
   - Ancienneté des troubles
   - Rythme
   - Abondance  
     Si adolescente ou incertain: objectiver l'abondance avec le [score PBAC/Higham (PDF)](https://www.chu-lyon.fr/sites/default/files/score-higham.pdf)
+  - Symptômes associés: métrorragies, dysménorrhée, douleurs pelviennes, pesanteur pelvienne
 - Signes d'[hypothyroïdie]({{% relref "hypothyroidie.md" %}})
+- Qualité de vie
 
 ### Examen clinique
 
-- Signes d'[anémie]({{% relref "anemie-ferriprive.md" %}})
-- Examen gynécologique  
-  Pour différencier d'hémorragies génitales basses (vulvaire, vaginale, exocervicale).
+- Signes d'[anémie]({{% relref "anemie.md" %}})  
+  {{< clinique/anemie >}}.
+- Signes d'hyperandrogénie (hirsutisme, acné sévère, hyperséborrhée)
+- Palpation abdominale
+- Examen gynécologique
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -83,9 +98,9 @@ Signes et symptômes à rechercher lors du bilan de ménorragies.
 
 ### Bilan de ménorragies de première intention
 
-- Bilan biologique: NFS ± hCG ± TSH
+- Bilan biologique: **NFS**, ± hCG, ± TSH
 - Adulte: échographie pelvienne par un référent
-- Adolescente: ajouter les bilans hématologiques de 2^e^ intention
+- Adolescente, coagulopathie familiale, ménorragies depuis la ménarche: ajouter les bilans hématologiques de 2^e^ intention
 
 {{%/info%}}
 
@@ -93,9 +108,9 @@ Signes et symptômes à rechercher lors du bilan de ménorragies.
 
 En cas de bilan de première intention normal, compléter avec:
 
-- Bilan de coagulation: TP, TCA, fibrinogène
-- Maladie de Willebrand: dosage du VWF (antigène - VWF:Ag et activité - VWF:Act) et du Facteur VIII:C (dosage chronométrique)
-- Adolescente: échographie pelvienne par un référent
+- **Bilan de coagulation:** TP, TCA, fibrinogène
+- **Maladie de Willebrand:** dosage du VWF (antigène - VWF:Ag et activité - VWF:Act) et du Facteur VIII:C (dosage chronométrique)
+- Chez l'adolescente: échographie pelvienne par un référent
 
 ### IRM pelvienne
 
@@ -132,7 +147,7 @@ Le traitement médical est un anti-fibrinolytique:
 
 ### Traitement hormonal des ménorragies
 
-Le traitement hormonal préférentiel est un DIU (stérilet) au lévonorgestrel 52 mg (Donasert®, [Mirena®](https://base-donnees-publique.medicaments.gouv.fr/medicament/66349230/extrait#tab-rcp)).
+Le traitement hormonal préférentiel est un **DIU (stérilet) au lévonorgestrel** 52 mg (Donasert®, [Mirena®](https://base-donnees-publique.medicaments.gouv.fr/medicament/66349230/extrait#tab-rcp)).
 
 Autres traitements hormonaux:
 
@@ -146,44 +161,40 @@ Autres traitements hormonaux:
 
 La chirurgie conservatrice comprend les résections et destructions de l'endomètre et les myomectomies, qui sont possibles par hystéroscopie, thermocoagulation ou radiofréquence.
 
-Les myomes (fibromyomes ou fibromes) sont opérés par hystéroscopie, cœlioscopie ou laparotomie (FIGO type 3+).
+Les myomes (fibromyomes ou fibromes) sont opérés par **hystéroscopie**, cœlioscopie ou laparotomie (FIGO type 3+).
 
 > [!INFO]
 > << L'hystérectomie est le traitement le plus efficace pour traiter les ménorragies car il permet l'arrêt des saignements dans 100 % des cas >>. -- *CNGOF 2022*
 
 {{% /collapse %}}
-{{%collapse "Prise en charge des ménorragies" %}}
+{{%collapse "Traitement des ménorragies" %}}
 
-> Lire le chapitre dédié sur la [prise en charge de l'anémie par carence martiale]({{% relref "anemie-ferriprive.md" %}}).
-
-### Prise en charge des ménorragies de la femme
-
-#### Ménorragies idiopathiques de la femme
+### Traitement des ménorragies idiopathiques de la femme
 
 Traitement de première intention pour des ménorragies idiopathiques:
 
-- DIU au lévonorgestrel 52 mg (Donasert®, Mirena®)
+- **DIU au lévonorgestrel 52 mg** (Donasert®, Mirena®)
 - À partir de 42 ans: chirurgie conservatrice  
   Résection ou destruction endométriale entraînant une stérilisation.
 - Hystérectomie souhaitée: voie cœlioscopique ou vaginale
 - Désir de grossesse: acide tranexamique
 
-#### Ménorragies et hyperplasie endométriale non atypique
+### Traitement des ménorragies avec hyperplasie endométriale non atypique
 
 - DIU au lévonorgestrel 52 mg (Donasert®, Mirena®)
 - Préservation de la procréation non souhaitée: chirurgie conservatrice
 
-#### Ménorragies et hyperplasie endométriale atypique
+### Traitement des ménorragies avec hyperplasie endométriale atypique
 
-L'hystérectomie évite le risque d'évolution vers un [cancer de l'endomètre]({{% relref "cancer-endometre.md" %}}).
+L'**hystérectomie** évite le risque d'évolution vers un [cancer de l'endomètre]({{% relref "cancer-endometre.md" %}}).
 
 En cas de désir de grossesse, intérêt d'une concertation pluridisciplinaire dans le [réseau PREFERE](https://hopitauxnord-u-pariscite.aphp.fr//centre-prefere/prefere-centre-de-reference/) (PREservation de la FERtilité et cancer de l'Endomètre). Les traitements peuvent être un progestatif ou un analogue de la GnRH.
 
-#### Ménorragies et polype bénin
+### Ménorragies et polype bénin
 
 Si capacités de procréation non souhaitées: chirurgie conservatrice.
 
-#### Ménorragies et myomes
+### Traitement des ménorragies sur myomes
 
 Femme avec ≥ 1 myome de type 0 à 2:
 
@@ -205,7 +216,7 @@ Femme avec ≥ 1 myome de type 2 à 6:
 - Souhait de préservation de la fertilité: myomectomie ou embolisation des artères utérines (fertilité incertaine après embolisation et risque de fausse couche)
 - Hystérectomie envisagée: embolisation des artères utérines aussi possible (meilleure tolérance mais risque de réintervention)
 
-#### Ménorragies et adénomyose
+### Traitement des ménorragies avec adénomyose
 
 L'adénomyose est fréquente (25%) après 40 ans avec pour symptômes des ménorragies et des douleurs pelviennes.
 
@@ -221,7 +232,7 @@ Femme avec adénomyose et ménorragies:
 
 Les traitements médicaux et la radiologie interventionnelle sont aussi possibles.
 
-### Prise en charge des ménorragies de l'adolescente
+### Traitement des ménorragies de l'adolescente
 
 En cas de bilans d'hémostase et d'imagerie normaux: traitement par contraception hormonale (COP, DIU-LNG) ou anti-fibrinolytiques acide tranexamique.
 
@@ -230,9 +241,9 @@ En cas d'anomalie isolée à l'imagerie, prise en charge spécifique de la patho
 En cas de bilan d'hémostase anormal, adresser au [Centre de référence de pathologies gynécologiques rares](https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=fr&Expert=96431) (PGR).
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir selon le profil" "show" %}}
+{{%collapse "Prise en charge des ménorragies" "show" %}}
 
-{{< mermaid title="Prise en charge des ménorragies idiopathiques de la femme selon CNGOF 2022" >}}
+{{< mermaid title="Prise en charge des ménorragies idiopathiques de la femme. Dr JB Fron d'après CNGOF 2022" >}}
 graph TB
   idiopathique[Ménorragies idiopathiques] --> grossesse(Désir de grossesse<br>à court terme ?)
   style idiopathique stroke:#4150f5, stroke-width:1px
@@ -242,7 +253,7 @@ graph TB
 
 La figure suivante ne concerne pas directement notre pratique mais sert à guider notre patiente lors de la présence de fibromes.
 
-{{< mermaid title="Prise en charge des ménorragies en présence de myomes type 3 et plus selon CNGOF 2022" >}}
+{{< mermaid title="Prise en charge des ménorragies en présence de myomes type 3 et plus. Dr JB Fron d'après CNGOF 2022" >}}
 graph TB
   myome[Souhait de conservation<br>utérine ?]
   style myome stroke:#4150f5, stroke-width:1px
@@ -253,7 +264,7 @@ graph TB
     myome -- Non/indifférence --> hystérectomie(Hystérectomie)
 {{< /mermaid >}}
 
-{{< mermaid title="Prise en charge des ménorragies de l'adolescente selon CNGOF 2022" >}}
+{{< mermaid title="Prise en charge des ménorragies de l'adolescente. Dr JB Fron d'après CNGOF 2022" >}}
 graph TB
   adolescente[Ménorragies de l'adolescente] --> bilan("Bilan biologique<br>—<br>- NFS ± hCG ± TSH<br>- TP, TCA, fibrinogène<br>- VWF:Ag, VWF:Act, Facteur VIII:C")
   style adolescente stroke:#4150f5, stroke-width:1px
@@ -265,14 +276,14 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [NICE. Heavy menstrual bleeding: assessment and management. NICE guideline. 2026.](https://www.nice.org.uk/guidance/ng88)
 - Prescrire Redaction. Fibromyome utérin. Premiers Choix Prescrire. Rev Prescrire. 2025.
 - [Brun JL, et al. Prise en charge des ménorragies : recommandations pour la pratique clinique du Collège national des gynécologues et obstétriciens français (CNGOF). Gynécologie Obstétrique Fertilité & Sénologie. 2022.](https://cngof.fr/app/uploads/2025/11/Menorragies202022-RPC.pdf?x26468)
+- [Vautier V; SFP. Saignements abondants d'origine utérine chez l'adolescente. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pap-detail/nso74e8dh)
 - [ANSM. Troubles menstruels après la vaccination contre le Covid-19 : état des connaissances et conseils aux femmes concernées. 21/07/2022.](https://ansm.sante.fr/actualites/troubles-menstruels-apres-la-vaccination-contre-le-covid-19-etat-des-connaissances-et-conseils-aux-femmes-concernees)
 
 ### Bibliographie en attente
 
-- [NICE. Heavy menstrual bleeding: assessment and management. NICE guideline. 2026.](https://www.nice.org.uk/guidance/ng88)
-- [Vautier V; SFP. Saignements abondants d'origine utérine chez l'adolescente. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pap-detail/nso74e8dh)
 - Collège
 
 {{%/sources%}}
