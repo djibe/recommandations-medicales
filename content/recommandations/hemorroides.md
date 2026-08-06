@@ -10,23 +10,26 @@ date = "2023-05-08T18:23:04+02:00"
 publishdate = "2023-05-11"
 lastmod = "2025-01-21"
 specialites = ["hépato-gastro-entérologie"]
-annees = "2024"
-sources = ["ASCRS", "ESCP", "SNFGE", "SNFCP"]
+annees = "2026"
+sources = ["AGA", "ASCRS", "ESCP", "SNFGE", "SNFCP"]
 tags = ["grossesse"]
 english = ["Hemorrhoids", "haemorrhoidal disease (HD)"]
 sctid = "70153002"
 icd10 = ["K64", "K64.9"]
 image = true
 imageSrc = "Schéma des paquets hémorroïdaires. WikipedianProlific et Mikael Häggström, CC BY-SA 3.0, via Wikimedia Commons"
+rank = "false"
+writing = "ok"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
+- Les hémorroïdes sont des formations vasculaires superficielles de la muqueuse digestive terminale. Une irritation, le plus souvent mécanique, peut déclencher des poussées de douleurs voire des saignements
 - Le diagnostic d'hémorroïdes est clinique
-- L'examen clinique vise à éliminer un diagnostic différentiel ([fissure anale]({{% relref "fissure-anale.md" %}}), tumeur, condylomes ...)
-- Bilan avec coloscopie après 50 ans ou en cas d'antécédents de cancer colorectal
-- La prise en charge des hémorroïdes est surtout symptomatique avec: lutte contre la constipation (laxatifs ispaghul, hydratation ...), topiques (non remboursés: corticoïdes ± anesthésiques, carraghénates), veinotoniques voire traitement instrumental. Ces traitements sont globalement aussi utiles pendant la grossesse ([*CRAT*](https://www.lecrat.fr/12336/))
+- L'examen clinique vise à éliminer un diagnostic différentiel ([fissure anale]({{% relref "fissure-anale.md" %}}), tumeur, condylomes ...), l'anuscopie est à privilégier
+- Un bilan avec coloscopie est requis après 50 ans ou en cas d'antécédents de cancer colorectal
+- La prise en charge des hémorroïdes est symptomatique et contrôle les facteurs de risque: lutte contre la constipation (laxatifs ispaghul, hydratation ...), limiter le temps aux toilettes, traitements topiques (non remboursés: corticoïdes ± anesthésiques, carraghénates), veinotoniques voire traitement instrumental ou infrarouge. Ces traitements sont globalement aussi utiles pendant la grossesse ([*CRAT*](https://www.lecrat.fr/12336/))
 - L'incision de la thrombose hémorroïdaire externe n'est pas systématique
 - Avis proctologique en cas d'hémorroïdes chroniques, échec du traitement ou anomalie à l'examen
 
@@ -37,9 +40,12 @@ Chapitres liés: [fissure anale]({{% relref "fissure-anale.md" %}}), [incontinen
 
 Hémorroïdes
 : Formations vasculaires superficielles (souvent 3-4 éléments) de la muqueuse digestive terminale associés à des réseaux artériels et veineux présents depuis la naissance de part et d'autre de la ligne pectinée de l'anus (hémorroïdes internes et externes).
-: Une irritation le plus souvent mécanique peut déclencher des poussées de douleurs voire des saignements. La maladie hémorroïdaire est une pathologie très fréquente dans les pays développés (prévalence 4,4-45 %).
+: Une irritation le plus souvent mécanique peut déclencher des poussées de douleurs voire des saignements. La maladie hémorroïdaire est une pathologie très fréquente dans les pays développés (prévalence 4,4 - 45 %).
 
 ### Abréviations
+
+AGA
+: {{%lang%}}American Gastroenterological Association{{%/lang%}}
 
 ASCRS
 : {{%lang%}}American society of Colon and Rectal surgeons{{%/lang%}}
@@ -63,40 +69,42 @@ SNFGE
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-> [!INFO]
-> Le diagnostic d'hémorroïdes est clinique.
+Le diagnostic d'hémorroïdes est clinique.
 
 ### Interrogatoire
 
-- Grossesse
+- Grossesse en cours
 - Antécédents  
   Digestifs ([syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}), MICI, [diverticules]({{% relref "diverticulite-sigmoidienne.md" %}})), gynéco-obstétricaux, [infections sexuellement transmissibles (IST)](/tags/ist/).
 - Antécédents familiaux: [cancer colorectal]({{% relref "cancer-colorectal.md" %}})
 - Traitements en cours et essayés pour les hémorroïdes
 - Alimentation: contenu en fibres
-- Symptômes hémorroïdaires
-  - Ancienneté des problèmes anaux
-  - Examens déjà réalisés (coloscopie)
-  - [Constipation]({{% relref "constipation.md" %}})
-  - Prurit
-  - Rythme des poussées **douloureuses**
-  - Hémorroïdes internes: **rectorragies indolores suivants les selles**
+- Ancienneté des problèmes anaux
+- Examens déjà réalisés (dont coloscopie)
+- **Symptômes des hémorroïdes:**
+  - **Rectorragies indolores suivant les selles** (hémorroïdes internes)
+  - **Prurit** (hémorroïdes externes)
+  - Inconfort anal
+  - Prolapsus hémorroïdaire
   - Thrombose hémorroïdaire: tuméfaction douloureuse d'apparition brutale à l'entrée de l'anus  
     Tension et brûlure du canal anal en cas de thrombose interne (plus rare).
-  - Prolapsus hémorroïdaire
-- Rythme des selles, troubles du transit associés, modifications du transit
-- Symptômes à étayer: troubles du transit (intestin irritable, [cancer du côlon]({{% relref "cancer-colorectal.md" %}})), autres douleurs
+  - Rythme des poussées
+- Rythme des selles, troubles du transit associés (**[constipation]({{% relref "constipation.md" %}}))** ++, modifications du transit
 - Signes fonctionnels urinaires ou prolapsus associé
 - Qualité de vie
 
+> [!INFO]
+> En cas de douleurs anales vives, d'autant plus qu'elles sont rythmées par la défécation, la fissure anale doit être recherchée.
+
 ### Examen clinique
 
-L'examen est plus facile en décubitus latéral gauche (position de Sims):
+L'examen est plus facile en **décubitus latéral gauche** (position de Sims):
 
 - Inspection de la marge anale  
   Hémorroïdes externes, thrombose hémorroïdaire, marisques (bourrelet charnu séquellaire d'une thrombose hémorroïdaire) et diagnostic différentiel ([fissure anale]({{% relref "fissure-anale.md" %}}), [oxyurose]({{% relref "oxyurose.md" %}}) ...).
 - Prolapsus hémorroïdaire, rectal ou gynécologique
 - Toucher rectal (omis en cas de crise)
+- Anuscopie (autant que possible pour le diagnostic positif et différentiel)
 
 Les hémorroïdes internes ne sont visibles qu'en **anuscopie** et nécessitent donc un avis spécialisé proctologique.
 
@@ -117,17 +125,19 @@ Indications à la coloscopie:
 {{% /collapse %}}
 {{%collapse "Traitement des hémorroïdes" %}}
 
-Traitements anti-hémorroïdaires pendant la [grossesse](https://www.lecrat.fr/12336/) et l'[allaitement](https://www.lecrat.fr/8523/) (*CRAT*).
+Voir les traitements anti-hémorroïdaires possibles pendant [la grossesse](https://www.lecrat.fr/12336/) et [l'allaitement](https://www.lecrat.fr/8523/) selon le *CRAT*.
 {.alert .alert-info}
 
-L'objectif de la prise en charge médicale des hémorroïdes est de soulager les symptômes:
+L'objectif du traitement des hémorroïdes est de soulager les symptômes et de réduire les facteurs de risque (constipation, temps assis).
+
+Recommandations pour la prise en charge des hémorroïdes:
 
 - Antalgie: paracétamol, anti-inflammatoires AINS 5-10 jours  
-  Forme très œdémateuse: corticoïdes.
-- Bains de siège
-- Glaçage (ex petits pois congelés)
-- Topiques environ 7 jours
-  - Prescrire®: lubrifiant type vaseline
+  En cas de forme très œdémateuse: corticoïdes.
+- Bains de siège (données limitées)
+- Glaçage (ex. petits pois congelés)
+- Topiques environ 7 jours (maximum 2 semaines)
+  - Revue Prescrire®: lubrifiant type vaseline
   - Corticoïdes ± anesthésiques  
     Spécialités (NR): Deliproct®, Rectoquotane®, Sédorrhoïde crise hémorroïdaire®, Titanoréïne crème®, Titanoréïne lidocaïne 2%®, Tronothane 1%®, Ultraproct®.
   - Carraghénates NR ([Titanoréïne crème®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63802533/extrait#tab-rcp), [Titanoréïne lidocaïne 2%®](https://base-donnees-publique.medicaments.gouv.fr/medicament/61165034/extrait#tab-rcp))
@@ -137,8 +147,8 @@ L'objectif de la prise en charge médicale des hémorroïdes est de soulager les
   - Ginkgo Biloba, troxérutine cure courte (Rheoflux®, Veinamitol®)
 - Lutte contre la [constipation]({{% relref "constipation.md" %}}):
   - Boire 1,5 L/j
-  - Alimentation riche en fibre
-  - Ne pas se retenir, éviter les efforts de poussée, position adaptée (marchepied), limiter le temps aux toilettes
+  - Alimentation riche en ==**fibres**== (minimum 20-30 g/j)
+  - Ne pas se retenir, selles quotidiennes, éviter les efforts de poussée, limiter le temps aux toilettes (maximum 3 minutes), position adaptée (marchepied)
   - Éviter la station assise prolongée, activité physique régulière
   - Laxatifs mucilages ([ispaghul](https://base-donnees-publique.medicaments.gouv.fr/medicament/67437758/extrait#tab-rcp)) au long cours ou en cure courte lors des crises hémorroïdaires.
 - Information du patient: [information SNFCP](https://www.snfcp.org/informations-maladies/hemorroides/les-hemorroides/) et [FAQ Hémorroïdes](https://www.snfcp.org/informations-maladies/hemorroides/faq-hemorroides/)
@@ -148,7 +158,7 @@ L'objectif de la prise en charge médicale des hémorroïdes est de soulager les
 **NB.** La contre-indication aux épices est mal étayée.
 
 > [!INFO]
-> En cas d'échec des traitements médicamenteux, avis du proctologue pour envisager un traitement instrumental.
+> En cas d'échec des traitements médicamenteux, avis du proctologue pour envisager un traitement instrumental ou infrarouge.
 
 ### La thrombose hémorroïdaire externe
 
@@ -185,6 +195,7 @@ graph TB
 
 {{< youtube id="0L8aFHXeQrQ" title="Hémorroïdes : c'est la crise ! (TutoGastro SNFGE 2023)" >}}
 
+- [Qureshi W, et al. AGA Clinical Practice Update on Diagnosis and Treatment of Hemorrhoids: Expert Review. Clinical Gastroenterology and Hepatology. 2026.](https://www.cghjournal.org/article/S1542-3565(26)00282-X/fulltext)
 - [Hawkins AT, et al; Clinical Practice Guidelines Committee of the American Society of Colon and Rectal Surgeons. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Hemorrhoids. Dis Colon Rectum. 2024.](https://journals.lww.com/dcrjournal/citation/9900/the_american_society_of_colon_and_rectal_surgeons.541.aspx)
 - {{< references/college-gastro >}}
 - [Van Tol R, et al. European Society of ColoProctology: guideline for haemorrhoidal disease. Colorectal Dis. 2020.](https://onlinelibrary.wiley.com/doi/abs/10.1111/codi.14975) (payant)
@@ -194,9 +205,5 @@ graph TB
 - [Higuero T, et al. Recommandations pour la pratique clinique du traitement de la maladie hémorroïdaire (version courte). SNFCP. 2013. (PDF)](https://www.snfcp.org/wp-content/uploads/2017/Recommandations/RPC-MALADIE-HEMORROIDAIRE.pdf)
 - [SNFCP. Les hémorroïdes](https://www.snfcp.org/informations-maladies/hemorroides/les-hemorroides/)
 - [SNFCP. Hémorroïdes et Grossesse](https://www.snfcp.org/informations-maladies/pathologie-anale-grossesses-et-accouchement/hemorroides-et-grossesse/)
-
-### Bibliographie en attente
-
-- [Qureshi W, et al. AGA Clinical Practice Update on Diagnosis and Treatment of Hemorrhoids: Expert Review. Clinical Gastroenterology and Hepatology. 2026.](https://www.cghjournal.org/article/S1542-3565(26)00282-X/fulltext)
 
 {{%/sources%}}
