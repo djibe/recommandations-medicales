@@ -19,7 +19,7 @@ Le SCORE2 (Systematic Coronary Risk Estimation version 2) est le score de réfé
 
 Le **SCORE2** peut être calculé de 40 à 69 ans (appelé **SCORE2-OP** de 70 à 89 ans), en l'absence de toute maladie cardiovasculaire, d'hypertension sévère (≥ 180/110 mmHg) ou secondaire, de **LDL > 1,9 g/L** d'hypercholestérolémie familiale, de grossesse et de traitement hypolipémiant (statine ou autre). Il est ici calibré pour l'utilisation en **France** et dans les pays européens à plus faible risque cardiovasculaire.
 
-**En cas de diabète** ne relevant pas d'emblée d'un {{< modal-btn modal-rcv >}}risque marqué{{< /modal-btn >}}, utiliser le {{< scores/score2-diabetes >}}.
+> **En cas de diabète** ne relevant pas d'emblée d'un {{< modal-btn modal-rcv >}}risque marqué{{< /modal-btn >}}, utiliser le {{< scores/score2-diabetes >}}.
 
 Son utilisation est **recommandée en cas de présence de facteur de risque cardiovasculaire** (dyslipidémie, hypertension artérielle, tabagisme, hérédité cardiovasculaire, obésité ...) et devrait être répété, par exemple tous les 5 ans (*ESC 2021*).
 

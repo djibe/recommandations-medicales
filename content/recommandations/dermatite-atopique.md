@@ -208,7 +208,8 @@ Intolérance (prurit, brûlure, rougeur) de zone lésée: arrêt et changement d
 
 - Éviter les facteurs favorisants  
   - Stress, détergents, savons, laine. Préférer coton, soie, polyesters à fibres fines
-  - Bain ou douche bref avec température tiède, pains ou gels surgras sans savon ni allergènes (pH 5-6)
+  - Bain ou douche bref avec température tiède, pains ou gels surgras sans savon ni allergènes (pH 5-6).  
+    Pas de bénéfice à espacer les douches (*[Bradshaw et al 2026](https://pubmed.ncbi.nlm.nih.gov/41208015/)*).
   - Sécher en tamponnant plutôt que frottant
   - Pas d'intérêt de lessive spécifique
   - Ongles courts

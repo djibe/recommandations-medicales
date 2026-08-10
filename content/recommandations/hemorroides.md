@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-05-08T18:23:04+02:00"
 publishdate = "2023-05-11"
-lastmod = "2025-01-21"
+lastmod = "2026-08-06"
 specialites = ["hépato-gastro-entérologie"]
 annees = "2026"
 sources = ["AGA", "ASCRS", "ESCP", "SNFGE", "SNFCP"]
@@ -181,11 +181,11 @@ En cas d'échec une chirurgie hémorroïdaire par hémorroïdectomie pédiculair
 {{% /collapse %}}
 {{%collapse "Prise en charge des hémorroïdes" "show" %}}
 
-{{< mermaid title="Prise en charge des hémorroïdes par le médecin généraliste. Drs Alaedine Benani et JB Fron d'après ESCP 2020, SNFGE, SNFCP et ASCRS" >}}
+{{< mermaid title="Prise en charge des hémorroïdes par le médecin généraliste. Drs Alaedine Benani et JB Fron" >}}
 graph TB
-  symptômes["<b>Symptômes hémorroïdaires</b><br>—<br>- Prurit<br>- Poussées douloureuses<br>- Rectorragies<br>- Tuméfaction douloureuse<br>- Tension et brûlure du canal anal<br>- Trouble du transit<br>- Prolapsus"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements<br>- Alimentation<br>- Symptômes<br>- Qualité de vie<br>- Examen proctologique") --> coloscopie("<b>Indication à la coloscopie ?</b><br>—<br>- +50 ans sans coloscopie<br>dans les 10 ans<br>- ATCD familial de CCR<br>- TIF positif<br>- Diagnostic incertain") -- Oui --> spécialiste("Gastro-entérologue<br>pour coloscopie") --> traitement("<b>Prise en charge</b><br>—<br>- Topiques<br>- Veinotoniques<br>- Lutte constipation") -- Échec --> proctologue(Avis proctologique)
+  hémorroïdes["<b>Symptômes hémorroïdaires</b><br>—<br>- Prurit<br>- Poussées symptomatiques<br>- Rectorragies<br>- Tuméfaction douloureuse<br>- Tension et brûlure du canal anal<br>- Trouble du transit<br>- Prolapsus"] --> clinique("<b>Clinique</b><br>—<br>- Antécédents<br>- Traitements<br>- Alimentation<br>- Symptômes<br>- Qualité de vie<br>- Examen proctologique<br>- Anuscopie") --> coloscopie("<b>Indication à la coloscopie ?</b><br>—<br>- +50 ans sans coloscopie<br>dans les 10 ans<br>- ATCD familial de CCR<br>- TIF positif<br>- Diagnostic incertain") -- Oui --> spécialiste("Gastro-entérologue<br>pour coloscopie") --> traitement("<b>Prise en charge</b><br>—<br>- Topiques<br>- Veinotoniques<br>- Lutte constipation") -- Échec --> proctologue(Avis proctologique)
     coloscopie -- non --> traitement
-  style symptômes stroke:#4150f5, stroke-width:1px
+  style hémorroïdes stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{% /collapse %}}
