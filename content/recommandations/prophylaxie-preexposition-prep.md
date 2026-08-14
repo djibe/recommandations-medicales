@@ -253,7 +253,7 @@ puis 1 cp 24 heures (± 2h) après la première dose, à renouveler 48 heures ap
 
 ### La PrEP injectable d'action prolongée
 
-La PrEP par ==**cabotégravir**== d'action prolongée par voie injectable (CAB-LP, [Apretude®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62595850/extrait#tab-rcp-et-notice)) est disponible en 2^e^ intention en cas de nécessité d'une prise de longue durée ou de contre-indication au ténofovir (insuffisance rénale < 50 mL/min/1,73m²).
+La PrEP par ==**cabotégravir**== d'action prolongée par voie injectable (CAB-LP, [Apretude LP®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62595850/extrait#tab-rcp-et-notice)) est disponible en 2^e^ intention en cas de nécessité d'une prise de longue durée ou de contre-indication au ténofovir (insuffisance rénale < 50 mL/min/1,73m²).
 
 La prescription initiale nécessite la recherche de la **charge virale VIH**.
 

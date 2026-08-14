@@ -19,6 +19,8 @@ image = true
 imagePNG = true
 imageSrc = "Structure de la vitamine B12 (cobalamine ou cyanocobalamine). NEUROtiker, Public domain, via Wikimedia Commons"
 todo = "liens | vegan 10 µg/j ou 2000 µg/sem "
+rank = "false"
+writing = "ok"
 flowchart = true
 +++
 
@@ -203,6 +205,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Larvie DY, et al. Vitamin B12 supplementation for growth, development, and cognition in children. Cochrane Database of Systematic Reviews. 2026.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015264.pub2/full/fr)
 - [Jaren L, et al. Carence en vitamine B12 schémas d'administration et formes disponibles. Pharmacie Interhospitalière de la Côte. 2026. (PDF)](https://pharmpic.ch/files/user/Documents/Points-therapeutiques/Vitamines-nutrition/Vitamine-B12.pdf)
 - [Anses. Avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail relatif à l'établissement de repères alimentaires destinés aux personnes suivant un régime d'exclusion de tout ou partie des aliments d'origine animale. 2025.](https://www.anses.fr/fr/content/regimes-vegetariens-effets-sur-la-sante-et-reperes-alimentaires)
 - [NICE. Vitamin B12 deficiency in over 16s: diagnosis and management. NICE guideline. 2024.](https://www.nice.org.uk/guidance/ng239)

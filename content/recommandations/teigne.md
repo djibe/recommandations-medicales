@@ -55,7 +55,7 @@ Autres atteintes du cuir chevelu à évoquer devant une alopécie localisée:
 - [Eczéma]({{% relref "dermatite-atopique.md" %}})
 - [Dermatite séborrhéique]({{% relref "dermatite-seborrheique.md" %}})
 - [Pelade]({{% relref "alopecie.md" %}})
-- Folliculite bactérienne ou abcès
+- [Folliculite bactérienne ou abcès]({{% relref "infection-cutanee-bacterienne.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}

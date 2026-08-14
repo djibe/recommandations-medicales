@@ -333,7 +333,7 @@ Le reste du bilan est réalisé par l'endocrinologue.
 {{%/warning%}}
 
 {{% /collapse %}}
-{{%collapse "Traitement hormonal de la ménopause" %}}
+{{%collapse "Principes du traitement hormonal" %}}
 
 [Information de la patiente - GEMVI: Fiche info ménopause et THM (PDF)](http://gemvi.org/wp-content/uploads/2022/06/fiche-info-patiente-menopause-THM.pdf)
 
@@ -517,7 +517,7 @@ Prise en charge d'un nodule du sein sous traitement hormonal:
 - Reprise possible du THM si lésion bénigne ou contre-indication formelle si lésion maligne
 
 {{% /collapse %}}
-{{%collapse "Spécialités disponibles pour le traitement hormonal" "show" %}}
+{{%collapse "Traitement hormonal de la ménopause (THM)" "show" %}}
 
 {{%info%}}
 **Débuter:** estradiol transcutané 25-37,5 µg/j ou gel 0,5 mg/j  
@@ -535,7 +535,7 @@ Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch tous les 3-4 jours (s
 | Estradiol gel       | Estradiol                  | Estreva, Oestrodose                                                           |                        0,1 %, 0,6 % |
 | Progestatif         | Dydrogestérone             | Duphaston                                                                     |                               10 mg |
 |                     | Médrogestone (à éviter)    | Colprone                                                                      |                                5 mg |
-|                     | Progestérone               | Progesterone, Utrogestan                                                      |                         100, 200 mg |
+|                     | Progestérone               | Progesterone                                                                  |                         100, 200 mg |
 | Progestatif oral/vaginal | Progestérone          | Utrogestan                                                                    |                         100, 200 mg |
 | Association         | Estradiol + lévonorgestrel | Femseptevo                                                                    |                         50/7 µg/24h |
 {caption="Traitements hormonaux de la ménopause (THM) recommandés par le CNGOF disponibles seuls ou en association en France en 2026. Dr JB Fron d'après *BDPM*" class="table-wrap"}

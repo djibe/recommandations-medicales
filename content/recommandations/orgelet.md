@@ -23,8 +23,8 @@ flowchart = true
 {{%article-summary%}}
 
 - L'orgelet est un furoncle de la paupière
-- Le diagnostic d'orgelet est clinique: furoncle du bord libre de la paupière centré sur un cil
-- La prise en charge de l'orgelet consiste en un traitement antibiotique local pendant 8 jours
+- Le diagnostic d'orgelet est clinique: furoncle du bord libre de la paupière, centré sur un cil
+- La prise en charge de l'orgelet comprend un traitement antibiotique local pendant 8 jours
 - Ne pas porter de lentilles de contact pendant toute la durée du traitement
 
 Chapitres liés: [chalazion]({{% relref "chalazion.md" %}}), [furoncle]({{% relref "infection-cutanee-bacterienne.md" %}})
@@ -51,7 +51,7 @@ Recommandations pour la prise en charge de l'orgelet:
 
 ### Antibiothérapie dans le traitement de l'orgelet {.mt-5}
 
-Le traitement de l'orgelet par un collyre ou une pommade antibiotique **pendant 8 jours** est indiqué en cas d'échec des soins locaux.
+Le traitement de l'orgelet par un collyre ou une pommade antibiotique ==**pendant 8 jours**== est indiqué en cas d'échec des soins locaux.
 
 | Famille | Spécialité | Posologie |
 | ------- | ---------- | --------- |
