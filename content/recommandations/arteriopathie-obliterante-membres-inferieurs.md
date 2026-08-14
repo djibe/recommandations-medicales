@@ -280,9 +280,11 @@ Recommandations pour la prise en charge de l'artériopathie (AOMI):
 - [Rivaroxaban 2,5 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/62533076/extrait#tab-rcp-et-notice) x 2/j + [aspirine](https://base-donnees-publique.medicaments.gouv.fr/medicament/61946403/extrait#tab-rcp) 100 mg/j
   - Considérer si: haut risque ischémique (antécédents de revascularisation ou d'amputation, ischémie critique menaçant l'intégrité du membre, comorbidité à haut risque -- insuffisance rénale, cardiaque, diabète, maladie vasculaire touchant au moins deux voies vasculaires), sans risque hémorragique élevé
 - {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} systématique (voire ARA2, *SFMV 2020*).
-- Pression artérielle cible 120-139/90 mmHg
-  - Cible moindre en atteinte sévère pour maintien de pression distale
-  - Classes possibles: TZD, IEC/ARA2, anticalcique voire BB
+- Hypertension artérielle:
+  - Seuil diagnostique de la maladie cardiovasculaire: ≥ 130/80 mmHg
+  - Cible générale: 120-129 / 70-79 mmHg
+  - Cible moindre en cas d'atteinte sévère (pour maintien de pression distale)
+  - Classes possibles: TZD, IEC/ARA2, inhibiteur calcique voire BB
   - Précautions avec les BB en ischémie chronique
   - Apports sodés < 5 g/j
 - **Mesures hygiéno-diététiques:**

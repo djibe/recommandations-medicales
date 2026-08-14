@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-18T17:12:47+02:00"
 publishdate = "2023-09-19"
-lastmod = "2026-03-20"
+lastmod = "2026-08-14"
 specialites = ["gynécologie-obstétrique"]
 annees = "2024"
-sources = ["CNGOF", "SFAR", "USPTF"]
+sources = ["CNGOF", "SFAR", "ESC"]
 tags = ["antiplaquettaire", "céphalées", "dépistage", "diabète", "HTA", "grossesse", "néphropathie", "obésité", "risque cardiovasculaire"]
 english = ["Pre-eclampsia"]
 sctid = "398254007"
@@ -19,6 +19,7 @@ image = true
 imageSrc = "Découverte d'une vascularite placentaire après délivrance dans les suites d'une pré-éclampsie. Nephron, CC BY-SA 3.0, via Wikimedia Commons"
 todo = "RELECTURE, weeks of gestation = SA ou SG ?"
 rank = "ok"
+writing = "ok"
 flowchart = true
 +++
 
@@ -82,6 +83,9 @@ Pré-éclampsie (ou prééclampsie)
 CNGOF
 : Collège National des Gynécologues et Obstétriciens
 
+ESC
+: {{%lang%}}European Society of Cardiology{{%/lang%}}
+
 PAS
 : pression artérielle systolique
 
@@ -107,8 +111,8 @@ SFAR
 {{% /collapse %}}
 {{%collapse "Critères de gravité et de sévérité de la pré-éclampsie" %}}
 
-Une pré-éclampsie grave ou sévère nécessite l'appel du SAMU.
-{.alert .alert-warning}
+> [!WARNING]
+> Une pré-éclampsie grave ou sévère nécessite l'appel du SAMU.
 
 ### Critères de gravité de la pré-éclampsie
 
@@ -199,13 +203,13 @@ En cas d'antécédent unique de prééclampsie et de **thrombophilie**, un trait
 > [!WARNING]
 > << L'hospitalisation est systématique lors de la découverte d'une prééclampsie >>. -- *Collège*
 
-Toute suspicion de pré-éclampsie doit être prise en charge dans des **urgences obstétricales**.
+Toute suspicion de pré-éclampsie doit être prise en charge dans des **urgences obstétricales**. La tension doit être diminuée sous 3 heures (*ESC 2024*) par **labétalol IV** (ou nicardipine) et sulfate de magnésium.
 
 Si un traitement antihypertenseur intraveineux est impossible dans l'heure, voir avec la régulation pour l'administrer par voie orale: bêtabloquant [labétalol 200 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/65193337/extrait#tab-rcp) (Trandate®) en première intention.
 
-Nifédipine ou nicardipine si le bêtabloquant seul est insuffisant ou contre-indiqué.
+Inhibiteurs calciques nifédipine ou nicardipine si le bêtabloquant seul est insuffisant ou contre-indiqué.
 
-Prise d'aspirine faible dose avant 16 SA durant toutes les grossesses ultérieures (voir *Prévention*).
+Prise d'**aspirine faible dose** avant 16 SA durant toutes les grossesses ultérieures (voir *Prévention*).
 
 ### Pour en savoir plus: prise en charge de la pré-éclampsie
 
@@ -217,8 +221,6 @@ Pré-éclampsie non sévère (< 160/110 mmHg):
 - Pas de déclenchement systématique entre 34 et 37 SA
 
 Le recours au traitement antihypertenseur est systématique en cas de **pré-éclampsie sévère** (≥ 160/110 mmHg) au repos et persistant plus de 15 minutes pour maintenir la pression sous ces seuils. Pour une pré-éclampsie sévère entre 24 et 34 SA sans signes de gravité materno-fœtaux, la grossesse peut être poursuivie jusqu'à 34 SA.
-
-Le sulfate de magnésium est un traitement hospitalier.
 
 {{% /collapse %}}
 {{%collapse "Suivi après l'accouchement" %}}
@@ -251,6 +253,7 @@ graph TB
 {{%sources%}}
 
 - [Sentilhes L, et al. La pré-éclampsie : recommandations pour la pratique clinique du Collège national des gynécologues obstétriciens français. Gynecol Obstet Fertil Senol. 2024. (PDF)](https://cngof.fr/app/uploads/2025/11/PrC3A920C3A9clampsie2020202320RPC.pdf?x26468) (CNGOF)
+- [McEvoy J, et al, ESC Scientific Document Group. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension: Developed by the task force on the management of elevated blood pressure and hypertension of the European Society of Cardiology (ESC) and endorsed by the European Society of Endocrinology (ESE) and the European Stroke Organisation (ESO). European Heart Journal. 2024.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae178/7741010)
 - [US Preventive Services Task Force. Screening for Hypertensive Disorders of Pregnancy: US Preventive Services Task Force Final Recommendation Statement. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2809680)
 - {{< references/esh-2023 >}}
 - [Bonnet MP, et al. Republication de : recommandations formalisées d'experts. Prise en charge de la patiente avec une pré-éclampsie sévère - RFE communes Société française d'anesthésie-réanimation (SFAR) - Collège national des gynécologues et obstétriciens français (CGNOF). Gynécologie Obstétrique Fertilité & Sénologie. 2022. (PDF)](https://cngof.fr/app/uploads/2025/11/PrC3A920C3A9clampsie202022-severe20RFE.pdf?x26468)

@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-07-10T17:55:44+02:00"
 publishdate = "2025-07-10"
-lastmod = "2026-04-21"
+lastmod = "2026-08-14"
 specialites = ["cardiologie"]
 annees = "2024"
 sources = ["ESC", "ESH"]
@@ -25,6 +25,7 @@ writing = "ok"
 
 - L'automesure tensionnelle (AMT) est un relevé de mesures répétées de tension artérielle réalisées de façon standardisée
 - Elle est recommandée pour la confirmation du diagnostic d'hypertension artérielle (HTA) ainsi que pour le suivi de son contrôle
+- La pression artérielle est dite élevée pour des valeurs de 120-134 / 70-84 mmHg et l'hypertension a comme seuil ≥ 135/85 mmHg en automesure
 - [Carnet d'automesure tensionnelle à imprimer](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf)
 - [Liste de tensiomètres électroniques validés pour le domicile]({{% relref "tensiometres-electroniques-valides.md" %}})
 
@@ -33,7 +34,7 @@ writing = "ok"
 
 Automesure tensionnelle
 : Mesure standardisée de la pression artérielle à domicile pendant 3 à 7 jours avec un tensiomètre validé.
-: Elle fait partie du suivi chronique recommandé au cours de l'hypertension artérielle pour s'assurer de son contrôle.
+: Elle fait partie de la confirmation du diagnostic et du suivi chronique recommandé au cours de l'hypertension artérielle pour s'assurer de son contrôle.
 
 ### Abréviations
 
@@ -63,7 +64,7 @@ L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'[hy
 - Conditions de mesure
   - Pièce calme avec température confortable
   - Pas de tabac, café, alimentation ou exercice physique dans les 30 minutes qui précèdent
-  - Assis et détendu depuis 3 à 5 minutes
+  - Assis et détendu depuis 5 minutes
   - En silence pendant les mesures
 - Posture
   - Assis et adossé
@@ -81,6 +82,7 @@ L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'[hy
   - Avant la prise des traitements et des repas
   - Moyenne des valeurs des 6 derniers jours (ignorer le J1)
   - Diagnostic d'hypertension si moyenne ≥ 135/85 mmHg
+  - Diagnostic de pression artérielle élevée pour une moyenne systolique 120-134 mmHg ou une diastolique de 70-84 mmHg
 - Mesures avec antihypertenseurs
   - 2 mesures consécutives
   - 1 à 2 fois par semaine et minimum 1 fois par mois

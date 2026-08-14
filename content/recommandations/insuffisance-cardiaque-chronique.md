@@ -9,7 +9,7 @@ synonyms = ["Insuffisance cardiaque à FEVG altérée", "insuffisance cardiaque 
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-17T14:12:00+02:00
 publishdate = "2021-06-03"
-lastmod = "2024-08-29"
+lastmod = "2026-08-14"
 specialites = ["cardiologie"]
 annees = "2023"
 sources = ["ESC", "HAS"]
@@ -19,6 +19,8 @@ sctid = "48447003"
 icd10 = ["I50", "I50.9"]
 image = true
 imageSrc = "Illustration de l'insuffisance cardiaque par vectorjuice / Freepik"
+rank = "false"
+writing = "todo"
 flowchart = true
 todo = "sup. Table 4 MRA+5Sacu+7Diur, depression Beck"
 +++
@@ -271,15 +273,14 @@ Indications à une consultation génétique: cardiomyopathie hypertrophique (CMH
 
 Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaque:
 
-- Diurétiques de l'anse à visée symptomatique
+- **Diurétiques** de l'anse à visée symptomatique
   - [Furosémide](https://base-donnees-publique.medicaments.gouv.fr/medicament/68009803/extrait#tab-rcp) 20 à 40 mg jusqu'à 1000 mg/j. Fractionner à partir de 40 mg
   - ou [bumétanide](https://base-donnees-publique.medicaments.gouv.fr/medicament/68232635/extrait#tab-rcp) 0,5 à 1 mg jusqu'à 5 mg/j. Fractionner à partir de 1 mg
   - Augmenter dès **prise de 2 kg en 3 jours**
-- Hypertension artérielle
-  - Seuil diagnostique identique à l'[hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
-  - Cible identique à la population: globalement 120-129 / 70-79 mmHg
-  - Auto-surveillance 1-2/semaine
-  - Escalade thérapeutique: ajouter amlodipine/félodipine si non contrôlée
+- **Hypertension artérielle**
+  - Seuil diagnostique de la maladie cardiovasculaire: ≥ 130/80 mmHg
+  - Cible générale: **120**-129 / 70-79 mmHg
+  - Automesure tensionnelle
 - LDL cible selon les {{< modal-btn modal-rcv >}}comorbidités cardiovasculaires{{< /modal-btn >}}
 - Activité physique
   - 30 minutes d'activité physique quotidienne (min 20 min x 3/sem), [guide patient HAS ICC](https://www.has-sante.fr/upload/docs/application/pdf/2022-11/ap_fiche_icc.pdf) (PDF)  
@@ -314,7 +315,7 @@ Mesures hygiéno-diététiques pour la prise en charge de l'insuffisance cardiaq
 **La prise en charge de l'insuffisance cardiaque à fraction d'éjection diminuée a 3 objectifs:** réduire la mortalité, les hospitalisations pour décompensation, améliorer les capacités fonctionnelles et la qualité de vie.
 
 - {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} dose maximale  
-  Remplacé par [valsartan/sacubitril](https://base-donnees-publique.medicaments.gouv.fr/medicament/61816438/extrait#tab-rcp-et-notice) (Entresto®) si insuffisant ou mal toléré.
+  Remplacé par [valsartan/sacubitril](https://base-donnees-publique.medicaments.gouv.fr/medicament/61816438/extrait#tab-rcp-et-notice) (Entresto®) si insuffisant ou mal toléré. Ajouter amlodipine/félodipine si non contrôlée.
 - {{< modal-btn modal-bb >}}Bêta-bloquant{{< /modal-btn >}} dose maximale  
   En maintenant la FC ≥ 50/min ou sur avis cardiologique en-dessous.
 - Anti-aldostérone spironolactone ou éplérénone
@@ -551,6 +552,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 - [Sculier JP. Pas d'argument pour la restriction hydrique chez l'insuffisant cardiaque chronique. Minerva. 2025.](https://minerva-ebp.be/FR/Analysis/933)
 - [HAS. ALD 5 - Insuffisance cardiaque. Actes et prestations Affection de longue durée. 2025.](https://www.has-sante.fr/jcms/c_534673/fr/ald-n-5-insuffisance-cardiaque-grave)
 - [Gabet A, et al. Épidémiologie de l'insuffisance cardiaque en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_4.html)
+- [McEvoy J, et al, ESC Scientific Document Group. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension: Developed by the task force on the management of elevated blood pressure and hypertension of the European Society of Cardiology (ESC) and endorsed by the European Society of Endocrinology (ESE) and the European Stroke Organisation (ESO). European Heart Journal. 2024.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae178/7741010)
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
 - [Mullens W, et al. Dietary sodium and fluid intake in heart failure. A clinical consensus statement of the Heart Failure Association of the ESC. Eur J Heart Fail. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/ejhf.3244)
 - [McDonagh T, et al. 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad195/7246292)

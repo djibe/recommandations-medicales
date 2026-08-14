@@ -186,7 +186,7 @@ Hors chirurgie, la prise en charge de l'hyperaldostéronisme primaire consiste e
   - Débuter à 12,5 à 25 mg x 1/j
   - Si HTA sévère ou hypokaliémie profonde: double dose
   - Titration par paliers de 25-50 mg tous les 2-3 mois, jusqu'à normalisation de la rénine
-  - Cible souvent 50-100 mg/j (max 200 mg/j)
+  - Cible souvent 50-100 mg/j (max 200 mg/j, 300-400 selon *ESC 2024*)
   - Ensuite, si nécessaire, introduire un autre antihypertenseur
   - Si contre-indication: [éplérénone 25 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/61124589/extrait#tab-rcp) x 1-2/j (max 200 mg/j), amiloride
 - Potassium: arrêter la supplémentation sous 2 à 4 jours, sous contrôle biologique

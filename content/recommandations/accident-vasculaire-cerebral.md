@@ -207,12 +207,11 @@ La prise en charge est identique après un accident ischémique transitoire (AIT
 
 - **Aspirine 75-150 mg/j** (*ESC 2021*)  
   Seulement pour l'AIC non cardioembolique. Clopidogrel 75 mg/j si allergie. Bithérapie les 90 premiers jours.
-- Hypertension artérielle (*ESH 2023*, *ESO 2022*, *ESC 2021*)
-  - Seuil diagnostique ≥ 140/90 mmHg
-  - Cible générale de 120-130 / 70-79 mmHg
-  - +80 ans: 130-139 / 70-79 mmHg
+- **Hypertension artérielle** (*ESC 2024*, *ESH 2023*, *ESO 2022*)
+  - Seuil diagnostique de la maladie cardiovasculaire: ≥ 130/80 mmHg
+  - Cible générale de 120-129 / 70-79 mmHg
   - Cible non connue pour l'AVC hémorragique
-  - Molécules: thiazidiques, {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}}
+  - Bithérapie avec {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}} + ICa ou thiazidique
   - [Automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}})
 - {{< modal-btn modal-statine-intensite >}}Statine systématique{{< /modal-btn >}} pour LDL < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} (et réduction ≥ 50 %)
 - Mesures hygiéno-diététiques associées

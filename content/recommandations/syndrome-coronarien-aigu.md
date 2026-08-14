@@ -240,8 +240,9 @@ Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut 
   - Si [fibrillation atriale]({{% relref "fibrillation-atriale.md" %}}): AOD + clopidogrel pendant 12 mois  
     AOD à dose réduite si risque de saignement. Si AVK indiqué: INR cible 2 - 2,5.
 - [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
-  - Cible tensionnelle < 130/80 mmHg
-  - Privilégier {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} (ARA2 si mal toléré) + BB dose maximale
+  - Seuil diagnostique de la maladie cardiovasculaire: ≥ 130/80 mmHg
+  - Cible tensionnelle **120**-129 / **70**-79 mmHg
+  - Privilégier {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} (ARA2 si mal toléré) + bêtabloquant dose maximale (carvédilol et nébivolol sont hypotenseurs)
   - Trithérapie: + ICa-DHP ou thiazidique
 - [Vaccin grippe]({{% relref "grippe.md" %}}) annuel
 - Développement d'un syndrome coronarien chronique: voir [chapitre dédié]({{% relref "syndrome-coronarien-chronique.md" %}})

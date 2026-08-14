@@ -8,22 +8,24 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-09-21T10:49:58+02:00"
 publishdate = "2023-09-22"
-lastmod = "2023-11-27"
+lastmod = "2026-08-14"
 specialites = ["cardiologie"]
-annees = "2023"
-sources = ["ESH", "ESC", "SFC"]
+annees = "2024"
+sources = ["ESC", "ESH", "SFC"]
 tags = []
 english = ["Orthostatic hypotension"]
 sctid = "28651003"
 icd10 = ["I95.1"]
 image = true
 imageSrc = "Illustration de l'hypotension orthostatique. pch.vector / Freepik"
+rank = "false"
+writing = "ok"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- L'hypotension orthostatique (hO) est une baisse de la pression artérielle d'au moins 20 mmHg de la systolique et/ou 10 mmHg de la diastolique, à 1 minute et/ou 3 minutes après le lever (depuis la position assise)
+- L'hypotension orthostatique (hO) est une baisse de la pression artérielle d'au moins 20 mmHg de la systolique et/ou 10 mmHg de la diastolique, à 1 minute et/ou 3 minutes après le lever, après 5 minutes passées en position assise ou allongée
 - L'hypotension orthostatique est souvent iatrogène et est à l'origine d'un surrisque de mortalité, d'événements cardiovasculaires et de {{< modal-btn modal-risque-chute >}}chutes{{< /modal-btn >}}
 - Rechercher une hypotension orthostatique régulièrement en cas de: [diabète](/tags/diabete/), après 65 ans, maladie neurologique, traitement antihypertenseur ou à risque ...
 - La prise en charge et le traitement de l'hypotension orthostatique associent: éducation du patient, substituer un traitement à risque, contention veineuse et mesures hygiéno-diététiques
@@ -34,8 +36,8 @@ Articles liés: [hypertension artérielle]({{% relref "hypertension-arterielle.m
 {{%collapse "Définition" %}}
 
 Hypotension orthostatique
-: Baisse de la PAS ≥ 20 mmHg et/ou de la PAD ≥ 10 mmHg, à 1 minute et/ou 3 minutes après le lever depuis la position assise.
-: L'hypotension orthostatique atteint 7 % de la population (16 % après 65 ans), est souvent **iatrogène** et est associée à un surrisque de: mortalité, d'événements cardiovasculaires, de {{< modal-btn modal-risque-chute >}}chutes{{< /modal-btn >}} (vasodilatateurs ++).
+: Baisse de la PAS ≥ 20 mmHg et/ou de la PAD ≥ 10 mmHg, à 1 minute et/ou 3 minutes après le lever depuis la position assise ou allongée maintenue depuis 5 minutes.
+: L'hypotension orthostatique atteint 7 % de la population (16 % après 65 ans), est souvent **iatrogène** et est associée à un surrisque de mortalité, d'événements cardiovasculaires et de {{< modal-btn modal-risque-chute >}}chutes{{< /modal-btn >}} (vasodilatateurs ++).
 
 ### Abréviations
 
@@ -84,7 +86,7 @@ Signes et symptômes à rechercher lorsqu'une hypotension orthostatique est susp
 - Antécédents  
   [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}), [diabète](/tags/diabete/), [maladie de Parkinson]({{% relref "maladie-parkinson.md" %}}), [maladie cardiovasculaire](/tags/risque-cardiovasculaire/).
 - **Traitements en cours**  
-  Antihypertenseur, diurétique, psychotrope, vasodilatateur, anticholinergique, morphinique, SGLT2.
+  Antihypertenseur à risque (alpha-bloquant, bêtabloquant, dérivés nitrés), diurétique, antidépresseur, antipsychotique, vasodilatateur, anticholinergique, morphinique, iSGLT2.
 - Toxiques
 - Apports hydriques
 - Contexte de déshydratation
@@ -95,26 +97,35 @@ Signes et symptômes à rechercher lorsqu'une hypotension orthostatique est susp
 
 ### Examen clinique
 
-- Pression artérielle assis puis debout à 1 et 3 minutes (*ESH 2023*), fréquence cardiaque
+- Pression artérielle assis/allongé puis debout à 1 et 3 minutes (*ESC 2024*), fréquence cardiaque
 - Poids et variations, taille, IMC
 - Examen cardiorespiratoire
 - Examen neurologique
-- Signes de déshydratation  
+- Signes de déshydratation:  
   {{< clinique/deshydratation >}}.
-- [Dénutrition]({{% relref "denutrition.md" %}})
+- {{< modal-btn modal-mna >}}Rechercher une dénutrition{{< /modal-btn >}}
 - Signes d'anémie:  
   {{< clinique/anemie >}}.
 
 Envisager une MAPA en cas de doute.
 
 {{% /collapse %}}
+{{%collapse "Examens complémentaires" %}}
+
+### Bilan de l'hypotension orthostatique
+
+- Glycémie à jeun
+- Créatinine, DFG
+- Vitamine B12
+
+{{% /collapse %}}
 {{%collapse "Traitement de l'hypotension orthostatique" %}}
 
 La prise en charge et le traitement de l'hypotension orthostatique associent:
 
-- Substitution des traitements à risque: alpha1-bloquant, tricyclique, diurétiques, vasodilatateurs
+- Substitution des traitements à risque: diurétique, alpha1-bloquant, tricyclique, vasodilatateur
 - **Contention veineuse:** chaussettes ou bas de contention classe 2
-- **Mesures hygiéno-diététiques**
+- **Mesures hygiéno-diététiques**:
   - Hydratation adaptée
   - Limiter la consommation d'alcool
   - Augmentation des apports sodés
@@ -125,11 +136,14 @@ La prise en charge et le traitement de l'hypotension orthostatique associent:
   - Miction et douche assis
   - Activité physique quotidienne
   - Si post-prandiale: boire 400 mL avant le repas
-- Envisager la prise du traitement antihypertenseur le soir
+- Hypertension artérielle:
+  - Envisager de ne traiter qu'à partir de 140/90 mmHg (*ESC 2024*)
+  - Privilégier les IEC/ARA2, inhibiteur calcique dihydropyridine
+  - Envisager la prise du traitement antihypertenseur le soir
 - Rechercher et corriger les autres facteurs de {{< modal-btn modal-risque-chute >}}risque de chute{{< /modal-btn >}}
 - Si HTO sévère: réduire le traitement antihypertenseur
 
-> -- *ESH 2023, ESC 2018 et SFHTA 2014*
+> -- *ESC 2024, ESH 2023 et SFHTA 2014*
 
 En cas d'hypotension orthostatique résistante, avis cardiologique pour envisager un traitement spécifique (==**midodrine**==, **fludrocortisone**).
 
@@ -164,6 +178,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [McEvoy J, et al, ESC Scientific Document Group. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension: Developed by the task force on the management of elevated blood pressure and hypertension of the European Society of Cardiology (ESC) and endorsed by the European Society of Endocrinology (ESE) and the European Stroke Organisation (ESO). European Heart Journal. 2024.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae178/7741010)
 - {{< references/esh-2023 >}}
 - {{< references/esc-hta >}}
 - [Pathak et al; SFC. Prise en charge de l'hypotension orthostatique. Consensus d'experts de la Société Française d'Hypertension Artérielle (SFHTA), Société Française de Gériatrie et Gérontologie (SFGG), European Federation of Autonomic Societies (EFAS). 2014. (PDF)](https://sfhta.eu/wp-content/uploads/2012/07/Consensus_d_experts_decembre_2014_SFHTA.pdf)
@@ -176,5 +191,10 @@ graph TB
 {{% modal title="Facteurs de risque de chute" id="modal-risque-chute"%}}
 
 {{< clinique/facteur-risque-chute >}}
+
+{{% /modal %}}
+{{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}
+
+{{< scores/mna >}}
 
 {{% /modal %}}

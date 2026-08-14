@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2026-03-12"
+lastmod = "2026-08-14"
 specialites = ["néphrologie"]
 annees = "2024"
 sources = ["KDIGO", "HAS", "ESH", "ADA", "ESC"]
@@ -294,7 +294,8 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
 - **Gliflozine** ({{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}) recommandée si:
   - Albuminurie ≥ 20 mg/mmol (soit stade A2 ou A3; *KDIGO 2024*)
   - DFG 20-45 mL/min/1,73 m² (*KDIGO 2024* suggère)
-  - Diabète type 2 avec MRC (*SFD 2025*, *KDIGO 2024*); insuffisance cardiaque
+  - HTA et DFG > 20 (*ESC 2024* recommande)
+  - Diabète type 2 avec MRC (*SFD 2025*, *KDIGO 2024*) ou insuffisance cardiaque
 - **Le {{< modal-btn modal-rcv >}}risque cardiovasculaire (RCV) est au moins élevé{{< /modal-btn >}}**
   - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
   - **{{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} systématique** pour {{< modal-btn modal-rcv >}}LDL < 0,7 g/L{{< /modal-btn >}} si IRC modérée et 0,55 g/L pour IRC sévère (et réduction ≥ 50 %)  
@@ -306,9 +307,9 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
   - Correction d'un surpoids
   - {{< modal-btn modal-sel >}}Régime désodé cible < 5 g/j{{< /modal-btn >}} (max 6-8 g/j) et hydrique ~1,5 L/j (ni restreint ni forcé)
 - **Hypertension artérielle**
-  - Traitement si PA ≥ 140/90 (*HAS* et *ESH 2023*) ou n'est pas dans la cible (*KDIGO 2021*)
-  - Pression artérielle cible < 120/90 mmHg (*KDIGO 2024*, si possible pour *HAS 2023*)
-  - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale tolérée avec anticalcique ou thiazidique (de l'anse à partir de 30 mL/min)
+  - Traitement si PA ≥ 130/80 mmHg (*ESC 2024*)
+  - Pression artérielle cible 120-129 / < 80 mmHg (hors stade 4-5, *ESC 2024*)
+  - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} ({{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}) dose maximale tolérée avec inhibiteur calcique ou thiazidique (diurétique de l'anse à partir de 30 mL/min)
   - Puis trithérapie si nécessaire
   - Si greffe rénale: MAPA, cible < 130/80 mmHg (*ESH 2023* et *KDIGO 2021*)  
    par anticalcique dihydropyridine ou thiazidique.
@@ -511,6 +512,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 - [Mach F, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/article/46/42/4359/8234482)
 - [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale chronique chez l'adulte et chez l'enfant. Item 264. Manuel de néphrologie 11ème édition. 2025.](https://manuel.cuen.fr/accueil-chapitres/)
 - [HAS. ALD n° 19 - Néphropathie chronique grave. Guide des actes et prestations. 2024.](https://www.has-sante.fr/jcms/c_565906/fr/ald-n-19-nephropathie-chronique-grave)
+- [McEvoy J, et al, ESC Scientific Document Group. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension: Developed by the task force on the management of elevated blood pressure and hypertension of the European Society of Cardiology (ESC) and endorsed by the European Society of Endocrinology (ESE) and the European Stroke Organisation (ESO). European Heart Journal. 2024.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae178/7741010)
 - [Académie nationale de pharmacie. Le dépistage précoce, la solution pour freiner la progression des insuffisances rénales chroniques terminales. 2024. (PDF)](https://www.acadpharm.org/dos_public/COMMUNIQUE_MALADIES_RENALES_CHRONIQUES_VF.PDF)
 - [Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024.](https://kdigo.org/guidelines/ckd-evaluation-and-management/)
 - [Kreutz R, et al. 2024 European Society of Hypertension clinical practice guidelines for the management of arterial hypertension. Eur J Intern Med. 2024.](https://www.ejinme.com/article/S0953-6205(24)00238-3/fulltext)
