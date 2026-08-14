@@ -20,7 +20,8 @@ sctid = ""
 icd10 = []
 image = true
 imageSrc = "L'écoprescription médicamenteuse. zirconicusso / Freepik"
-rank = "false"
+rank = "ok"
+writing = "ok"
 todo = "liens > Kanban"
 +++
 

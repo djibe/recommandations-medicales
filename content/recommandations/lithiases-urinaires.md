@@ -253,7 +253,7 @@ La prise en charge urologique d'une lithiase des voies urinaires peut relever d'
 | Rénale | > 20 mm | 1. Néphrolithotomie percutanée<br>2. chirurgie ou lithotritie |
 | Rénale | 10-20 mm | Lithotritie, néphrolithotomie<br> percutanée ou urétéroscopie |
 | Rénale | < 10 mm | 1. Lithotritie ou chirurgie endoscopique |
-{caption="Traitement de référence selon la localisation et la taille de la la lithiase urinaire chez l'adulte"}
+{caption="Traitement de référence selon la localisation et la taille de la lithiase urinaire chez l'adulte"}
 
 > Pour les interventions urologiques en cas de traitement par anticoagulant, lire EAU Urolithiasis Table 3.10.
 

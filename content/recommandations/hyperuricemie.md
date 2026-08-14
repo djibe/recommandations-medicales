@@ -17,8 +17,8 @@ sctid = "35885006"
 icd10 = ["E79.0"]
 image = false
 imageSrc = ""
-rank = "false"
-writing = "todo"
+rank = "ok"
+writing = "ok"
 todo = "liens > photo > flow > Kanban"
 +++
 

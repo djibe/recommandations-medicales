@@ -17,6 +17,8 @@ sctid = "16617009"
 icd10 = ["R49.0"]
 image = false
 imageSrc = ""
+rank = "ok"
+writing = "ok"
 todo = "photo"
 flowchart = true
 +++

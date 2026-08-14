@@ -17,6 +17,8 @@ sctid = "203045001"
 icd10 = ["M72.0"]
 image = true
 imageSrc = "Maladie de Dupuytren atteignant l'annulaire droit. Frank C. Müller, CC BY-SA 4.0, via Wikimedia Commons"
+rank = "ok"
+writing = "ok"
 todo = "flow"
 +++
 

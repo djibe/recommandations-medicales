@@ -18,8 +18,9 @@ sctid = ""
 icd10 = []
 image = true
 imageSrc = "Illustration de l'adaptation des posologies antibiotiques à la fonction rénale. pch.vector / Freepik"
-rank = "false"
-todo = "liens > flow > Kanban | update 2027"
+rank = "ok"
+writing = "ok"
+todo = "liens > flow > Kanban | design, update 2027"
 +++
 
 {{%article-summary%}}

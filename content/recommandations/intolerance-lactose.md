@@ -18,6 +18,8 @@ icd10 = ["E73", "E73.9"]
 image = true
 imagePNG = true
 imageSrc = "Le lactose C~12~H~22~O~11~. Benjah-bmm27, Public domain, via Wikimedia Commons"
+rank = "ok"
+writing = "todo"
 todo = "SEO 'test intolérance lactose remboursement', diarrhée chro, https://doi.org/10.1016/j.mmm.2020.10.008"
 flowchart = true
 +++
@@ -142,9 +144,9 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Catanzonaro R et al. Lactose intolerance: An update on its pathogenesis, diagnosis, and treatment. Nutrition Research. 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0271531721000129)
-- [Lule VK. et al. Food Intolerance: Lactose Intolerance. Encyclopedia of Food and Health. 2016.](https://www.sciencedirect.com/science/article/pii/B9780123849472003123)
-- [Roy ME et al. Diagnostic de l'intolérance au lactose dans un contexte pédiatrique. 2016.](https://www.chusj.org/CORPO/files/81/81da31b9-c18b-44b7-9b9f-eaa5a4c6cb8f.pdf)
+- [Catanzonaro R, et al. Lactose intolerance: An update on its pathogenesis, diagnosis, and treatment. Nutrition Research. 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0271531721000129)
+- [Lule VK, et al. Food Intolerance: Lactose Intolerance. Encyclopedia of Food and Health. 2016.](https://www.sciencedirect.com/science/article/pii/B9780123849472003123)
+- [Roy ME, et al. Diagnostic de l'intolérance au lactose dans un contexte pédiatrique. 2016.](https://www.chusj.org/CORPO/files/81/81da31b9-c18b-44b7-9b9f-eaa5a4c6cb8f.pdf)
 
 {{%/sources%}}
 {{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}

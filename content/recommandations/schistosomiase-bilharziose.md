@@ -17,7 +17,7 @@ sctid = "10087007"
 icd10 = ["B65", "B65.9"]
 image = true
 imageSrc = "Zones d'endémie de la schistosomiase (bilharziose) en 2024 (OMS)"
-rank = "false"
+rank = "ok"
 writing = "ok"
 todo = "flow > Kanban"
 +++

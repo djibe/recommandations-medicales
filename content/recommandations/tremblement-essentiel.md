@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-02-15T14:15:11+01:00"
 publishdate = "2025-03-06"
-lastmod = "2025-12-30"
+lastmod = "2026-08-14"
 specialites = ["neurologie"]
 annees = "2026"
 sources = ["IETF", "EAN"]
@@ -18,6 +18,7 @@ icd10 = ["G25.0"]
 image = true
 imageSrc = "Reproduction d'une spirale par un patient atteint de tremblement essentiel: le tremblement est unidirectionnel. Undescribed, CC BY-SA 4.0, via Wikimedia Commons"
 rank = "ok"
+writing = "ok"
 todo = "flow"
 +++
 

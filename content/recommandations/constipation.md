@@ -18,6 +18,7 @@ icd10 = ["K59.0"]
 image = true
 imageSrc = "Illustration de la constipation par storyset / Freepik"
 rank = "ok"
+writing = "ok"
 todo = "nourrisson, Rome IV"
 flowchart = true
 +++

@@ -20,6 +20,7 @@ image = false
 imageSrc = ""
 todo = "photo | score ADAM, demander relecture"
 rank = "ok"
+writing = "ok"
 flowchart = true
 +++
 

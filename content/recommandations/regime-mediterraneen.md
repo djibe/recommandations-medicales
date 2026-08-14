@@ -19,6 +19,7 @@ image = true
 imageSrc = "Illustration du régime méditerranéen. jcomp / Freepik"
 todo = "liens"
 rank = "ok"
+writing = "ok"
 +++
 
 {{%article-summary%}}

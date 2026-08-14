@@ -9,14 +9,16 @@ date = "2024-11-29T16:07:09+01:00"
 publishdate = "2024-12-06"
 lastmod = "2025-10-03"
 specialites = ["hépato-gastro-entérologie"]
-annees = "2020"
-sources = ["ACG", "BSG"]
+annees = "2024"
+sources = ["Bibliographie", "ACG", "BSG"]
 tags = ["diabète", "douleur", "insuline", "risque cardiovasculaire", "tabac", "vitamine D"]
 english = ["Chronic pancreatitis (CP)"]
 sctid = "235494005"
 icd10 = ["K86.1", "K86.0"]
 image = true
 imageSrc = "Calcifications pancréatiques et dilatation des canaux signant une pancréatite chronique chez une homme de 40 ans atteint de douleurs abdominales. Cas de Mohammad Taghi Niknejad, Radiopaedia.org, rID: 93929"
+rank = "ok"
+writing = "ok"
 todo = ""
 flowchart = true
 +++
@@ -229,7 +231,7 @@ graph TB
 
 ### Bibliographie en attente
 
-[Arvanitakis M, et al. ESPEN guideline on clinical nutrition in acute and chronic pancreatitis. Clin Nutr. 2020.](https://www.espen.org/files/ESPEN-Guidelines/ESPEN_guideline_on_Clinical_Nutrition_in_acute_and_chronic_pancreatitis.pdf)
+- [Arvanitakis M, et al. ESPEN guideline on clinical nutrition in acute and chronic pancreatitis. Clin Nutr. 2020.](https://www.espen.org/files/ESPEN-Guidelines/ESPEN_guideline_on_Clinical_Nutrition_in_acute_and_chronic_pancreatitis.pdf)
 
 {{%/sources%}}
 {{% modal title="Questionnaire AUDIT-C" id="modal-auditc"%}}

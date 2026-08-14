@@ -18,6 +18,7 @@ icd10 = ["M92.5", "M92.9"]
 image = true
 imageSrc = "Ossification irrégulière de la tubérosité tibiale et tuméfaction des tissus mous signant un Osgood-Schlatter chez un adolescent sportif de 15 ans avec gonalgies antérieures. Cas d'Adam Eid Ramsey, MD, Radiopaedia.org, rID: 70861"
 rank = "ok"
+writing = "ok"
 todo = "flow"
 +++
 

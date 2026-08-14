@@ -18,6 +18,8 @@ icd10 = ["E87.5"]
 image = true
 imagePNG = true
 imageSrc = "Signes ECG de l'hyperkaliémie. Mikael Häggström, Public domain, via Wikimedia Commons"
+rank = "ok"
+writing = "ok"
 todo = "update 2026, demander relecture"
 flowchart = true
 +++

@@ -18,6 +18,7 @@ icd10 = ["F52.4"]
 image = false
 imageSrc = ""
 rank = "ok"
+writing = "ok"
 todo = "photo, calc PEP, conseils, update 2026, relecture demandée eric.huyghe"
 flowchart = true
 +++

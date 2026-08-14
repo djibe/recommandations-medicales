@@ -18,7 +18,7 @@ sctid = "2089002"
 icd10 = ["M88", "M88.9"]
 image = true
 imageSrc = "Radiographie révélant des anomalies fémorales trabéculaires et un élargissement de la tête fémorale. La corticale diaphysaire est épaissie et irrégulière avec plusieurs fractures, signant une maladie de Paget. Cas de Derek Smith, Radiopaedia.org, rID: 40489"
-rank = "false"
+rank = "ok"
 writing = "ok"
 todo = "flow > Kanban"
 +++

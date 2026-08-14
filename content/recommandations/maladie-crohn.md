@@ -17,8 +17,8 @@ sctid = "34000006"
 icd10 = ["K50.9"]
 image = false
 imageSrc = ""
-rank = "false"
-writing = "todo"
+rank = "ok"
+writing = "ok"
 todo = "liens > photo | demander relecture David Laharie"
 flowchart = true
 +++

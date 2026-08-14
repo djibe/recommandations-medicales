@@ -17,7 +17,7 @@ sctid = "51212009"
 icd10 = ["A42.8"]
 image = true
 imageSrc = "Érosions en puits ou << balle de golf >> plantaire typique de kératolyse ponctuée à *Corynebacterium*. Evan Saap, CC BY-SA 4.0, via Wikimedia Commons"
-rank = "false"
+rank = "ok"
 writing = "ok"
 todo = "flow > Kanban"
 +++

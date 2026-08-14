@@ -18,6 +18,8 @@ sctid = "36118008"
 icd10 = ["J93", "J93.9"]
 image = true
 imageSrc = "Pneumothorax supérieur gauche chez une jeune femme de 20 ans. Cas de Chris O'Donnell, Radiopaedia.org, rID: 34235"
+rank = "ok"
+writing = "ok"
 todo = "flow | https://www.sciencedirect.com/science/article/abs/pii/S0761842523002930"
 +++
 

@@ -17,6 +17,8 @@ sctid = "277802001"
 icd10 = ["G58.8"]
 image = true
 imageSrc = "Zone prurigineuse dorsale interscapulaire avec hyperpigmentation au cours d'une notalgie paresthésique chez une femme de 54 ans. Dr JB Fron, CC BY-NC 4.0"
+rank = "ok"
+writing = "ok"
 todo = "photo wiki > flow"
 +++
 

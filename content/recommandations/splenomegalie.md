@@ -18,13 +18,14 @@ icd10 = ["R16.1"]
 image = true
 imageSrc = "Splénomégalie modérée (22 cm de grand axe) chez un patient de 60 ans avec cirrhose hépatique connue. Cas de Bickle I. sur Radiopaedia.org rID-52825"
 rank = "ok"
+writing = "todo"
 todo = "biblio"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Une rate palpable est pathologique et nécessite systématiquement un bilan
+- La splénomégalie correspond à une rate palpable est pathologique et justifie toujours un bilan
 - Interrogatoire et examen clinique d'orientation étiologique de la splénomégalie
 - Échographie abdominale et bilan biologique: NFS, CRP, fibrinogène, frottis sanguin, réticulocytes, bilan hépatique, bilirubine totale et libre, haptoglobine, LDH, test de Coombs direct, TP, électrophorèse des protéines sériques
 - La prise en charge de la splénomégalie est celle de la maladie causale

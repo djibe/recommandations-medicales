@@ -18,6 +18,7 @@ icd10 = []
 image = false
 imageSrc = ""
 rank = "ok"
+writing = "ok"
 todo = "photo, flow | pastèque, abricot, kaki, cerise, figue, mûre, nectarine pêche, prune, brocoli, asperge, betterave, chou de Bruxelles, aubergine, fenouil, poireau, échalote, poivron, maïs, petit pois, topinambour, Pois chiche, haricot rouge, lentille, fève de soja,flageolet, gourgane, pois vert sec"
 +++
 

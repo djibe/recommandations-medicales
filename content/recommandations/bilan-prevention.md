@@ -9,9 +9,9 @@ synonyms = ["Bilan de prévention"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-08-23T13:56:41+02:00"
 publishdate = "2024-08-29"
-lastmod = "2025-12-23"
+lastmod = "2026-08-14"
 specialites = ["certificats"]
-annees = "2025"
+annees = "2026"
 sources = ["MinSanté"]
 tags = ["prévention"]
 english = []
@@ -19,6 +19,8 @@ sctid = ""
 icd10 = []
 image = true
 imageSrc = "La prévention en santé. macrovector / Freepik"
+rank = "ok"
+writing = "ok"
 todo = "Autonomie (TODO: ICOPE partie 1 p.17)"
 +++
 

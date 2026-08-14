@@ -7,7 +7,7 @@ synonyms = ["Syndrome de compression du nerf pudendal", "neuropathie pudendale",
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-02-13T17:18:01+01:00"
 publishdate = "2025-02-14"
-lastmod = "2025-03-05"
+lastmod = "2026-08-14"
 specialites = ["neurologie"]
 annees = "2022"
 sources = ["Bibliographie"]
@@ -19,6 +19,7 @@ image = true
 imageWEBP = true
 imageSrc = "Trajet du nerf pudendal. Medical gallery of Mikael Häggström 2014. WikiJournal of Medicine 1. DOI:10.15347/wjm/2014.008. Public domain, via Wikimedia Commons"
 rank = "ok"
+writing = "ok"
 todo = "flow"
 +++
 

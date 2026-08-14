@@ -17,6 +17,8 @@ sctid = "15555002"
 icd10 = ["I30", "I30.9"]
 image = true
 imageSrc = "Signes ECG possibles au cours d'une péricardite aiguë: sous-décalage du segment PR, sus-décalage diffus du segment ST sans miroir. Dr Ihab Suliman, CC BY-SA 4.0, via Wikimedia Commons"
+rank = "ok"
+writing = "ok"
 flowchart = true
 +++
 

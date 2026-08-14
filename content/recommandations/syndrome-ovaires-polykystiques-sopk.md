@@ -1,11 +1,11 @@
 +++
 id = "0190e8cc-f261-70f5-9766-e7e3a7a13270"
-title = "Syndrome des ovaires polykystiques (SOPK)"
+title = "Syndrome métabolique ovarien polyendocrinien (SMOP) ou Syndrome des ovaires polykystiques (SOPK)"
 titleSeo = "Syndrome ovaires polykystiques SOPK"
 prefix = "le "
 description = "Recommandations pour le diagnostic et la prise en charge du syndrome des ovaires polykystiques (SOPK). Echographie pelvienne, bilan hormonal, metformine"
 longHtml = true
-synonyms = ["Syndrome ovarien polyendocrinien métabolique (SOPM)", "Syndrome des ovaires micropolykystiques"]
+synonyms = ["Syndrome des ovaires micropolykystiques"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-12-11T21:36:45+01:00"
 publishdate = "2023-11-16"

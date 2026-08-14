@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-01-17T15:08:44+01:00"
 publishdate = "2025-01-19"
-lastmod = "2025-01-19"
+lastmod = "2026-08-14"
 specialites = ["ORL"]
 annees = "2017"
 sources = ["AAO-HNS"]
@@ -17,6 +17,8 @@ sctid = "18070006"
 icd10 = ["H61.2"]
 image = true
 imageSrc = "Bouchon de cérumen du conduit auditif externe. Didier Descouens, CC BY-SA 3.0, via Wikimedia Commons"
+rank = "ok"
+writing = "ok"
 todo = "flow p8"
 +++
 

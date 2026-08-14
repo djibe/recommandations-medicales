@@ -18,8 +18,8 @@ sctid = "6631009"
 icd10 = ["D75.8", "D47.3"]
 image = true
 imageSrc = "Mégacaryocyte avec quelques plaquettes sur une étude de biopsie ostéomédullaire (BOM). Animalculist, CC BY-SA 4.0, via Wikimedia Commons"
-rank = "false"
-writing = "todo"
+rank = "ok"
+writing = "ok"
 todo = "liens > flow > Kanban"
 +++
 

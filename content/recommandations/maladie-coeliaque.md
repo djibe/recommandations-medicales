@@ -22,6 +22,7 @@ image = true
 imageWEBP = true
 imageSrc = "Illustration de la maladie cœliaque. scientificanimations.com, CC BY-SA 4.0"
 rank = "ok"
+writing = "ok"
 flowchart = true
 todo = "relecture"
 +++

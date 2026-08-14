@@ -19,7 +19,7 @@ image = true
 imagePNG = true
 imageSrc = "Structure de la vitamine B12 (cobalamine ou cyanocobalamine). NEUROtiker, Public domain, via Wikimedia Commons"
 todo = "liens | vegan 10 µg/j ou 2000 µg/sem "
-rank = "false"
+rank = "ok"
 writing = "ok"
 flowchart = true
 +++

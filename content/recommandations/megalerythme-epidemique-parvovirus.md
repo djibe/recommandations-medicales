@@ -18,6 +18,7 @@ icd10 = ["B08.3"]
 image = true
 imageSrc = "Aspect souffleté des joues chez l'enfant en phase éruptive d'un mégalérythème épidémique ou cinquième maladie (infection à parvovirus B19). Gzzz, CC BY-SA 4.0, via Wikimedia Commons"
 rank = "ok"
+writing = "ok"
 todo = "flow, relecture Chavigny JM demandée | https://www.cdc.gov/parvovirus-b19/about/parvovirus-b19-in-pregnancy.html"
 +++
 

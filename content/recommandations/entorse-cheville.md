@@ -19,6 +19,7 @@ icd10 = ["S93.4"]
 image = true
 imageSrc = "Ligaments de la cheville et du pied. Henry Vandyke Carter, Public domain, via Wikimedia Commons"
 rank = "ok"
+writing = "ok"
 todo = "relecture"
 flowchart = true
 modele = true

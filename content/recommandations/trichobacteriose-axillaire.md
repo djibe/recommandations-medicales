@@ -17,7 +17,7 @@ sctid = "49894005"
 icd10 = ["A48.8"]
 image = true
 imageSrc = "Poils avec une gaine banc-jaune et peau saine signant une trichobactériose. Aezram, CC BY 3.0, via Wikimedia Commons"
-rank = "false"
+rank = "ok"
 writing = "ok"
 todo = "flow > Kanban"
 +++
