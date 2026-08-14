@@ -78,6 +78,28 @@ Un **peptide C** > 600 pmol/L affirme un [diabète de type 2]({{% relref "diabet
 [Calcul du risque de diabète MODY](https://www.diabetesgenes.org/exeter-diabetes-app/).
 
 {{% /collapse %}}
+{{% collapse "Dépistage du diabète type 1" %}}
+
+Un dépistage familial précoce du diabète est recommandé par la SFD 2024 afin de réduire la survenue de l'acido-cétose et ralentir/préparer la prise en charge. 5 % des proches ont un diabète de type 1.
+
+Conditions du dépistage du diabète de type 1:
+
+- Apparentés au 1^er^ degré (enfants, parents, (demi-)frères/soeurs) asymptomatiques d'un sujet atteint de DT1
+- De 2 à 45 ans
+  - Dosages répétés jusqu'à 12 ans: tous les 4 ans jusqu'à 12 ans (surveillance des 4 anticorps)
+- Par bilan biologique:
+  - glycémie à jeun
+  - ≥ 2 auto-anticorps parmi: **IAA**, **anti-GAD**, anti-IA-2
+  - ou kits couplés (IA-2, GAD, IAA, ZnT8)
+  - avec confirmation à 3 mois: contrôle des 4 anticorps (IA-2, GAD, IAA, ZnT8) + HGPO et HbA1c
+- Après information du patient, en connaissance du parcours local de diabétologie
+- Prescrit par centre hospitalier, endocrinologue/diabétologue, médecin généraliste, pédiatre
+- En cas de dépistage positif d'au moins 1 auto-anticorps: suivi par un centre expert
+- Essayer de repousser le dépistage en cas de: DT1 de diagnostic très récent, grossesse en cours (pour éviter un sur-stress familial)
+
+> IAA = autoanticorps anti-insuline
+
+{{% /collapse %}}
 {{% collapse "Dossier médical spécifique pour le diabète type 1" %}}
 
 Trame des éléments à relever pour un dossier médical complet.
