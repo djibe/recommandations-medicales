@@ -33,6 +33,7 @@ const botUas = [
   'iAskBot',
   'kChatBot',
   'LamarkBot',
+  'Lightpanda',
   'LinkupBot',
   'Manus-User',
   'MistralAI-Index',
