@@ -19,6 +19,7 @@ atc = "C10AA"
 image = true
 imageSrc = "Illustration des statines par macrovector / Freepik"
 rank = "ok"
+writing = "ok"
 todo = "photo"
 slider = true
 +++

@@ -16,6 +16,8 @@ sctid = "1482004"
 icd10 = ["H00.1"]
 image = true
 imageSrc = "Chalazion de la paupière supérieure gauche. jd, via Wikimedia Commons"
+rank = "ok"
+writing = "ok"
 todo = "HAS troubles oculaires"
 flowchart = true
 +++

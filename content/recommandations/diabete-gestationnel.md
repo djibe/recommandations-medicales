@@ -19,6 +19,8 @@ icd10 = ["O24", "O24.4"]
 flowchart = true
 image = true
 imageSrc = "Illustration du diabète gestationnel par vectorjuice / Freepik"
+rank = "ok"
+writing = "ok"
 +++
 
 {{%article-summary%}}

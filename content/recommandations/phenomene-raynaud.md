@@ -1,9 +1,9 @@
 +++
 id = "0190e8ca-0786-785d-9027-71990a8408f4"
-title = "Phénomène de Raynaud ou syndrome de Raynaud"
+title = "Phénomène de Raynaud (ou syndrome de Raynaud)"
 prefix = "le "
 titleSeo = "Syndrome de Raynaud"
-description = "Recommandations pour le traitement et la prise en charge du syndrome de Raynaud. Examen clinique et bilan systématique: capillaroscopie, anticorps ADN natifs"
+description = "Recommandations pour le traitement et la prise en charge du phénomène ou syndrome de Raynaud. Examen et bilan systématique: capillaroscopie, anticorps ADN natifs"
 synonyms = ["Maladie de Raynaud"]
 auteurs = ["Jean-Baptiste FRON"]
 date = 2021-05-04T10:57:00+02:00
@@ -18,14 +18,15 @@ sctid = "266261006"
 icd10 = ["I73.0"]
 flowchart = true
 image = true
-imageSrc = "Syndrome de Raynaud des doigts. Par Tcal via wikipedia, CC BY-SA 3.0"
+imageSrc = "Syndrome de Raynaud des doigts. Tcal via wikipedia, CC BY-SA 3.0"
 rank = "ok"
+writing = "todo"
 modele = true
 +++
 
 {{%article-summary%}}
 
-- Le phénomène de Raynaud (PR) ou *syndrome de Raynaud* est un acrosyndrome vasculaire paroxystique fréquent, déclanché au froid et secondaire à une maladie de système dans 10 % des cas
+- Le phénomène de Raynaud (PR) ou syndrome de Raynaud est un acrosyndrome vasculaire paroxystique fréquent, déclenché au froid et secondaire à une maladie de système dans 10 % des cas
 - L'examen clinique recherche des signes d'alerte: début tardif, caractère invalidant sans amélioration estivale, atteinte des pouces ... (voir [Signes d'alerte](#signes-dalerte))
 - Un bilan est systématique devant tout syndrome de Raynaud: anticorps anti-nucléaires et capillaroscopie
 - Lorsque le bilan est négatif, la forme idiopathique est appelée Maladie de Raynaud

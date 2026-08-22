@@ -19,6 +19,8 @@ icd10 = ["G56.0"]
 image = true
 imageWEBP = true
 imageSrc = "Illustration du syndrome du canal carpien. scientificanimations.com, CC BY-SA 4.0"
+rank = "ok"
+writing = "ok"
 flowchart = true
 +++
 

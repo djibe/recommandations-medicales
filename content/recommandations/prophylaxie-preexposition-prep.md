@@ -22,6 +22,7 @@ flowchart = true
 image = true
 imageSrc = "Illustration de la Prophylaxie pré-exposition (PrEP). pikisuperstar / Freepik"
 rank = "ok"
+writing = "ok"
 todo = "flowchart; gitgraph: Continu femme, Schéma continu homme, Schéma discontinu homme; https://mermaid.js.org/syntax/timeline.html"
 +++
 

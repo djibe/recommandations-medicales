@@ -1,10 +1,10 @@
 +++
 id = "0190e8ba-956d-77b9-a608-669fcca2c68e"
-title = "Anévrisme de l'aorte abdominale (AAA)"
+title = "Anévrysme de l'aorte abdominale (AAA)"
 prefix = "l'"
-titleSeo = "Anévrisme aorte abdominale"
+titleSeo = "Anévrysme de l'aorte abdominale AAA"
 description = "Recommandations pour le dépistage de l'anévrysme de l'aorte abdominale (AAA). Qui dépister (homme, tabagisme, AOMI), indications de l'échodoppler et suivi"
-synonyms = ["Anévrysme aortique"]
+synonyms = ["Anévrysme aortique", "anévrisme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-07-29T17:51:41+02:00"
 publishdate = "2020-07-29"
@@ -19,6 +19,7 @@ icd10 = ["I71"]
 image = true
 imageSrc = "Illustration de l'anévrysme de l'aorte abdominale (AAA). loudista / Foter.com"
 rank = "ok"
+writing = "ok"
 flowchart = true
 +++
 
@@ -32,15 +33,15 @@ flowchart = true
   - +50 ans avec antécédent familial d'AAA au 1^er^ degré
   - En cas d'artériopathie des membres inférieurs ou d'autre localisation d'athérome périphérique
 - Une angioscanner aortique complète le bilan initial de l'AAA
-- Le traitement de l'AAA comprend une surveillance par échodoppler adaptée à la taille de l'anévrysme et au sexe, la prise en charge de l'ensemble des facteurs de risque cardiovasculaire
+- Le traitement de l'anévrysme de l'aorte abdominale comprend une surveillance par échodoppler adaptée à la taille de l'anévrisme et au sexe, la prise en charge de l'ensemble des facteurs de risque cardiovasculaire
 - L'intervention (chirurgie, endoprothèse) est recommandée pour les anévrysmes abdominaux de diamètre ≥ 55 mm (50 mm chez la femme) ou de croissance rapide
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
-Anévrisme de l'aorte abdominale (AAA)
+Anévrysme de l'aorte abdominale (AAA)
 : Dilatation localisée (1,5 x le diamètre attendu, souvent ≥ 30 mm) d'un segment de l'aorte abdominale (le plus souvent sous-rénale) amenant à une perte de parallélisme des bords, des turbulences du flux sanguin et ainsi la formation d'un caillot.
-: 80 % des anévrismes (ou anévrysmes) sont de forme fusiforme, parfois sacciforme.
+: 80 % des anévrysmes (ou anévrismes) sont de forme fusiforme, parfois sacciforme.
 : Atteint surtout les hommes (80 %). **80 % de mortalité** en cas de rupture d'un AAA contre 5 % en intervention programmée.  
 2000 morts/an et 10.000 hospitalisations annuelles.
 : Pour l'histoire: *Einstein* et *de Gaulle* en sont morts.
@@ -57,7 +58,7 @@ Anévrisme de l'aorte abdominale (AAA)
 ### Abréviations
 
 AAA
-: anévrisme de l'aorte abdominale
+: anévrysme de l'aorte abdominale
 
 ACC
 {{%lang%}}American College of Cardiology{{%/lang%}}
@@ -74,7 +75,7 @@ AHA
 {{% /collapse %}}
 {{%collapse "Dépistage de l'anévrysme de l'aorte abdominale" %}}
 
-Le dépistage de l'anévrisme de l'aorte abdominale est réalisé par échodoppler artériel aortique chez:
+Le dépistage de l'anévrysme de l'aorte abdominale est réalisé par échodoppler artériel aortique chez:
 
 1. Homme +65 ans ayant fumé (recommandé)
 2. Homme +75 ans (peut être considéré)
@@ -102,12 +103,12 @@ L'échodoppler de l'aorte est l'examen de référence pour le dépistage et la s
 L'angioscanner (voire angio-IRM) peut compléter l'évaluation du doppler, notamment lors du bilan pré-opératoire. Il relève de la prescription spécialisée (angiologue, chirurgien vasculaire, cardiologue).
 
 {{% /collapse %}}
-{{%collapse "Traitement de l'anévrisme de l'aorte abdominale" %}}
+{{%collapse "Traitement de l'anévrysme de l'aorte abdominale" %}}
 
 > [!INFO]
 > Un diamètre aortique < 25 mm est à faible risque d'évolution vers in AAA volumineux à 10 ans. Un diamètre 25-29 mm nécessite un suivi sous 4 ans.
 
-Recommandations pour la prise en charge de l'anévrisme de l'aorte abdominale (AAA):
+Recommandations pour la prise en charge de l'anévrysme de l'aorte abdominale (AAA):
 
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) +++
 - [Correction d'une hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})  
@@ -131,7 +132,7 @@ La chirurgie peut être considérée en cas de **croissance rapide** (≥ 10 mm/
 Le traitement est chirurgical ou endovasculaire.
 
 > [!INFO]
-> Le traitement des anévrismes de l'aorte abdominale de moins de 50 mm n'a montré aucun bénéfice par rapport à l'abstention. Idem en cas de d'espérance de vie < 2 ans.
+> Le traitement des anévrysmes de l'aorte abdominale de moins de 50 mm n'a montré aucun bénéfice par rapport à l'abstention. De même en cas de d'espérance de vie inférieure à 2 ans.
 
 {{% /collapse %}}
 {{% collapse "Suivi" %}}
@@ -152,11 +153,11 @@ L'anévrysme de l'aorte abdominale (AAA) nécessite une surveillance spécialis�
 - Intervalles rapprochés en cas de croissance rapide (≥ 10 mm/an ou ≥ 5 mm/6 mois)
 
 {{% /collapse %}}
-{{% collapse "Prise en charge de l'anévrisme de l'aorte abdominale" "show" %}}
+{{% collapse "Prise en charge de l'anévrysme de l'aorte abdominale" "show" %}}
 
-{{< mermaid title="Conduite à tenir pour le dépistage de l'anévrisme de l'aorte abdominale. Drs Alaedine Benani et JB Fron d'après ESC 2024, ACC/AHA">}}
+{{< mermaid title="Recommandations pour le dépistage et le diagnostic de l'anévrysme de l'aorte abdominale (AAA). Drs Alaedine Benani et JB Fron d'après ESC 2024, ACC/AHA">}}
 graph TB
-  dépistage["Indications au dépistage de<br>l'anévrisme de l'aorte abdominale<br>—<br>1. Homme +65 ans ayant fumé<br>2. Homme +75 ans<br>3. Femme +75 ans<br>4. +50 ans avec antécédent<br> familial d'AAA au 1^er^ degré<br>5. AOMI ou athérome périphérique"] --> échodoppler("Échodoppler artériel<br>aortique") -- Normal --> arrêt("- Pas de suivi spécifique<br>(répétition possible si<br>sujet relativement<br> jeune)<br>- Correction du risque<br>cardiovasculaire")
+  dépistage["Indications au dépistage de<br>l'anévrysme de l'aorte abdominale<br>—<br>1. Homme +65 ans ayant fumé<br>2. Homme +75 ans<br>3. Femme +75 ans<br>4. +50 ans avec antécédent<br> familial d'AAA au 1^er^ degré<br>5. AOMI ou athérome périphérique"] --> échodoppler("Échodoppler artériel<br>aortique") -- Normal --> arrêt("- Pas de suivi spécifique<br>(répétition possible si<br>sujet relativement<br> jeune)<br>- Correction du risque<br>cardiovasculaire")
   style dépistage stroke:#4150f5, stroke-width:1px
     échodoppler -- Anormal --> imagerie("Angio-scanner ou<br>angio-IRM aortique") --> spécialiste("Avis spécialisé:<br>angiologue ou cardiologue") --> pec("Correction du risque<br>cardiovasculaire:<br>tabac, HTA, dyslipidémie,<br>régime méditerranéen,<br>activité physique, surpoids") --> suivi(Surveillance doppler)
 {{< /mermaid >}}

@@ -18,6 +18,7 @@ icd10 = ["Q67.3"]
 image = true
 imageSrc = "Plagiocéphalie positionnelle postérieure gauche chez un nourrisson. Gzzz, CC BY-SA 4.0, via Wikimedia Commons"
 rank = "ok"
+writing = "todo"
 flowchart = true
 +++
 

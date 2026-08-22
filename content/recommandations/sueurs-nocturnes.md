@@ -17,6 +17,8 @@ sctid = "42984000"
 icd10 = ["R61", "R61.9"]
 image = false
 imageSrc = ""
+rank = "ok"
+writing = "ok"
 todo = "photo > flow > Kanban"
 +++
 

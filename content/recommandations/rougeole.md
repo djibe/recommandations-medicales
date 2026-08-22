@@ -17,20 +17,22 @@ sctid = "14189004"
 icd10 = ["B05", "B05.9"]
 image = true
 imageSrc = "Le signe de Koplik: papules jugales blanchâtres en regard de la première molaire. Heinz F. Eichenwald, MD / CDC PHIL 24424"
+rank = "ok"
+writing = "ok"
 todo = "flow"
 +++
 
 {{%article-summary%}}
 
 - La rougeole est une infection virale grave transmise par voie aérienne
-- La prévention passe par la [vaccination]({{% relref "vaccination.md" %}}) ROR (rougeole-oreillons-rubéole; MMRvaxPro® ou Priorix®) double dose de tous les sujets nés depuis 1980
+- La prévention passe par la vaccination ROR (rougeole-oreillons-rubéole; MMRvaxPro® ou Priorix®) double dose de tous les sujets nés depuis 1980
 - Signes et symptômes de la rougeole: fièvre élevée avec catarrhe oculorespiratoire (larmoiement, conjonctivite, rhinorrhée) et signe de Köplik pendant 3 jours suivie d'une éruption cutanée avec exanthème maculo-papuleux (dit morbilliforme), de début rétro-auriculaire puis étendu à tout le corps en une seule poussée
 - Rechercher des signes de complications par un examen clinique complet
-- Le bilan nécessite toujours une RT-PCR rougeole urgente pour la [signalement obligatoire]({{% relref "maladies-signalement-obligatoire.md" %}}) (DO)
+- Le bilan nécessite toujours une RT-PCR rougeole urgente pour le [signalement obligatoire]({{% relref "maladies-signalement-obligatoire.md" %}})
 - Hospitalisation en urgence des femmes enceintes non immunes et des immunodéprimés, en cas de signes de gravité ou de complications
 - La prise en charge de la rougeole associe: éviction jusqu'à 5 jours après le début de l'éruption cutanée, isolement, traitement symptomatique et enquête vaccinale des sujets contact et vaccination post-exposition
 
-Chapitres liés: [éruption fébrile](/tags/eruption-febrile/)
+Chapitres liés: [éruption fébrile](/tags/eruption-febrile/), [vaccination]({{% relref "vaccination.md" %}})
 
 {{%/article-summary%}}
 
@@ -65,7 +67,7 @@ SPF
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-La rougeole est un **diagnostic clinique** mais une **confirmation biologique** est nécessaire pour la [signalement obligatoire]({{< relref "maladies-signalement-obligatoire.md" >}}).
+La rougeole est un **diagnostic clinique** mais une **confirmation biologique** est nécessaire pour le [signalement obligatoire]({{< relref "maladies-signalement-obligatoire.md" >}}).
 
 Dès suspicion de rougeole, mesures barrières de type air (masque chirurgical et FFP2 pour le médecin, gants, désinfection des mains et du matériel, isolement, aération).
 
@@ -101,9 +103,9 @@ L'incubation de la rougeole dure de 10 à 12 jours et la contagiosité perdure 5
 {{%collapse "Examens complémentaires" %}}
 
 > [!INFO]
-> La PCR rougeole est systématique pour la signalement obligatoire.
+> La PCR rougeole est systématique pour le signalement obligatoire.
 
-==RT-PCR rougeole== sur prélèvement salivaire ou sanguin systématique pour le diagnostic de certitude et la signalement obligatoire.
+==RT-PCR rougeole== sur prélèvement salivaire ou sanguin systématique pour le diagnostic de certitude et le signalement obligatoire.
 
 À défaut: sérologie rougeole IgM (dès 3 jours suivant l'éruption cutanée et jusqu'à 2 mois).
 

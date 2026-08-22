@@ -19,7 +19,7 @@ sctid = "765021002"
 icd10 = []
 image = true
 imageSrc = "Les régimes végétariens et végétaliens. jcomp / Freepik"
-rank = "false"
+rank = "ok"
 writing = "ok"
 todo = ""
 +++

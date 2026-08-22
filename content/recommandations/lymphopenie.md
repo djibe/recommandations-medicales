@@ -18,6 +18,7 @@ icd10 = ["D72.8"]
 image = false
 imageSrc = ""
 rank = "ok"
+writing = "todo"
 flowchart = true
 modele = true
 +++

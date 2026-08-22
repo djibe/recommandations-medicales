@@ -18,6 +18,8 @@ sctid = "422588002"
 icd10 = ["J69.0"]
 image = true
 imageSrc = "Pneumonie d'inhalation droite de diagnostic tardif post-interventionnelle chez une femme de 45 ans. Cas de Yi-Jin Kuok, Radiopaedia.org, rID: 18345"
+rank = "ok"
+writing = "ok"
 todo = "flow > Kanban | maj autres fiches, relecture demandée sylvain.diamantis@ghsif"
 +++
 

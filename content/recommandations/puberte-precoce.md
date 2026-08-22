@@ -17,16 +17,17 @@ icd10 = ["E30.1"]
 image = true
 imageSrc = "Stades de Tanner pour le développement mammaire. The Adolescent Period, 1951Frank Kayley Shuttleworth, Public domain, via Wikimedia Commons"
 rank = "ok"
+writing = "ok"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
 - La puberté précoce est définie par l'apparition des seins (thélarche) chez une fille avant 8 ans (90 % des cas) et l'augmentation de volume des testicules du garçon avant 9 ans avec accélération de la vitesse de croissance et avance de l'âge osseux
-- Bilan d'une puberté précoce: âge osseux et échographie pelvienne (chez la fille)
-- Si troubles visuels ou syndrome polyuro-polydipsique: bilan avec IRM cérébrale semi-urgente
-- Suivi de la puberté précoce: tracer les courbes de croissance à chaque consultation
-- Prise en charge spécialisée de la puberté précoce avec avis de l'endocrinologue pédiatrique systématique
+- Le bilan d'une puberté précoce comprend: âge osseux et échographie pelvienne (chez la fille)
+- En cas de troubles visuels ou de syndrome polyuro-polydipsique: bilan complémentaire avec une IRM cérébrale semi-urgente
+- Au cours du suivi d'un enfant avec puberté précoce: tracer les courbes de croissance à chaque consultation
+- La prise en charge de la puberté précoce est toujours spécialisée avec suivi en endocrinologie pédiatrique
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -84,13 +85,14 @@ SFP
 
 ### Pubertés précoces centrales (PPC)
 
-Origine hypothalamo-hypophysaire par activation précoce de la sécrétion de hypothalamique GnRH:
+Origine hypothalamo-hypophysaire par activation précoce de la sécrétion hypothalamique de **GnRH**:
 
 - **Idiopathique** (92 % des filles, 50 % des garçons)
-- Tumeurs du SNC  
+- Tumeurs du système nerveux central  
   **Hamartome hypothalamique**, gliome du chiasma, astrocytome, autres (50 % des garçons).
 - Radiothérapie cérébrale
-- Infections: [méningite]({{% relref "meningite.md" %}})
+- Infections  
+  [Méningite]({{% relref "meningite.md" %}}).
 - Pathologie inflammatoire  
   Neurofibromatose de type 1, sclérose tubéreuse de Bourneville.
 - Congénitale et malformative  
@@ -98,7 +100,7 @@ Origine hypothalamo-hypophysaire par activation précoce de la sécrétion de hy
 
 ### Pubertés précoces périphériques
 
-Sécrétion de stéroïdes sexuels par une gonade autonome.
+Sécrétion de **stéroïdes sexuels** par une gonade autonome.
 
 - **Tumeurs ovariennes**
 - Kystes folliculaires
@@ -113,20 +115,18 @@ Sécrétion de stéroïdes sexuels par une gonade autonome.
 
 ### Interrogatoire
 
-Interrogatoire à mener en cas de puberté précoce:
-
 - Taille des parents et calcul de la taille cible
 - Âge de puberté des parents et de la fratrie
 - Chronologie d'apparition des caractères sexuels
 - Antécédents personnels et familiaux
 - Médicaments pris
-- Céphalées
-- Troubles visuels  
-  Baisse d'acuité visuelle, scotome.
-- Syndrome polyuro-polydipsique
-- Symptômes digestifs
-- Crises de rires immotivés  
-  Crises épileptiques dites gélastiques de l'hamartome hypothalamique.
+- **Signes et symptômes de puberté précoce:**
+  - **Céphalées**
+  - **Troubles visuels**: baisse d'acuité visuelle, scotome
+  - Syndrome polyuro-polydipsique
+  - Symptômes digestifs
+  - Crises de rires immotivés  
+    Crises épileptiques dites gélastiques de l'hamartome hypothalamique.
 - Fille: prise de la pilule de la mère, crème avec œstrogènes
 
 ### Examen clinique
@@ -184,7 +184,7 @@ window.addEventListener('load', () => {
 
 ### Bilan de la puberté précoce
 
-Le bilan est réservé au spécialiste avec **test LHRH**.
+Le bilan d'une puberté précoce est réservé au spécialiste avec **test LHRH**.
 
 ### Âge osseux
 
@@ -257,6 +257,6 @@ graph TB
 - Prescrire Redaction. Puberté précoce chez les filles. Rev Prescrire. 2023.
 - [Haïne E. Puberté précoce. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pap-detail/aqycf1g8)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Puberté normale et pathologique. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/croissance-developpement/puberte-normale-pathologique)
-- Pienkowski C et al. La puberté avant l'âge - Nouveaux aspects.
+- Pienkowski C, et al. La puberté avant l'âge - Nouveaux aspects.
 
 {{%/sources%}}

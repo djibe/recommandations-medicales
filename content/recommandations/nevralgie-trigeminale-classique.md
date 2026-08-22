@@ -21,6 +21,7 @@ image = true
 imageWEBP = true
 imageSrc = "Territoires sensitifs (dermatomes) des trois branches du nerf trijumeau (nerf V). BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
 rank = "ok"
+writing = "ok"
 flowchart = true
 todo = "palier avant envisager décroissance"
 +++
@@ -31,7 +32,7 @@ todo = "palier avant envisager décroissance"
 - Le diagnostic de névralgie du trijumeau est clinico-radiologique selon les critères ICHD-3 avec une IRM cérébrale normale
 - Les symptômes de l'atteinte trigéminale sont des douleurs neuropathiques unilatérales du visage évoluant par poussées douloureuses chez des sujets d'âge moyen (60 ans, principalement des femmes)
 - L'examen neurologique est strictement normal entre les crises
-- Le bilan comporte toujours une IRM cérébrale 3T pour éliminer un diagnostic différentiel
+- Le bilan comporte toujours une IRM cérébrale 3 Tesla pour éliminer un diagnostic différentiel
 - La prise en charge de la névralgie du trijumeau repose sur les antiépileptiques: carbamazépine ou oxcarbazépine
 
 {{%/article-summary%}}

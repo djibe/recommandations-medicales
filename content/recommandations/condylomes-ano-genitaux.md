@@ -18,6 +18,7 @@ icd10 = ["A63.0"]
 image = true
 imageSrc = "Condylomes acuminés péri-anaux de la femme. SOA-AIDS Amsterdam, CC BY-SA 3.0, via Wikimedia Commons"
 rank = "ok"
+writing = "ok"
 todo = "flow > Kanban | relecture demandée Pr Antoine Bertolotti, dermatologue, La Réunion | reco dépistage chez VIH"
 modele = true
 +++

@@ -17,17 +17,19 @@ sctid = "13746004"
 icd10 = ["F31", "F31.9"]
 image = false
 imageSrc = ""
+rank = "ok"
+writing = "ok"
 todo = "photo > flow | HASp1 | hospi sous contrainte | Coder MDQ"
 +++
 
 {{%article-summary%}}
 
-- Le trouble bipolaire est un trouble fréquent et très grave de l'humeur débutant tôt, entre 15 et 25 ans. Des épisodes des 2 extrêmes de spectre des troubles de l'humeur alternent: épisodes maniaques ou hypomaniaques et épisodes dépressifs caractérisés, entrecoupés d'intervalles libres
-- L'épisode maniaque ou mixte sont des urgences psychiatriques
+- Le trouble bipolaire est un trouble fréquent et très grave de l'humeur débutant tôt, entre 15 et 25 ans. Des épisodes des 2 extrêmes de spectre des troubles de l'humeur alternent: épisodes maniaques ou hypomaniaques et épisodes dépressifs caractérisés (EDC), entrecoupés d'intervalles libres
+- L'épisode maniaque ou mixte est une urgence psychiatrique
 - Toujours rechercher des symptômes maniaques en cas de dépression atypique: avant 25 ans ou dans le post-partum, dépressions multiples (3 ou plus), réponse atypique au traitement antidépresseur, absence de facteur déclenchant, hypersomnie, agitation
 - Devant une suspicion de trouble bipolaire, l'avis psychiatrique est impératif pour porter le diagnostic et démarrer un traitement adapté
 - La prise en charge du trouble bipolaire associe:
-  - Traitement médicamenteux prophylactique thymorégulateur: lithium surtout avec surveillance biologique rigoureuse (voire divalproate de sodium ou carbamazépine)
+  - Le traitement médicamenteux prophylactique thymorégulateur: lithium surtout, avec surveillance biologique rigoureuse (voire divalproate de sodium ou carbamazépine)
   - Ne pas utiliser les antidépresseurs au cours du trouble bipolaire (ou sur prescription spécialisée uniquement)
   - Psychothérapie: de soutien, TCC, thérapie interpersonnelle
 

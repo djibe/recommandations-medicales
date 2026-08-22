@@ -17,6 +17,8 @@ sctid = "1489008"
 icd10 = ["H00.0"]
 image = true
 imageSrc = "Orgelet de la paupière supérieure droite. Andre Riemann, domaine public, via Wikimedia Commons"
+rank = "ok"
+writing = "ok"
 flowchart = true
 +++
 

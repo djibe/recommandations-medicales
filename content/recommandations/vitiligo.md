@@ -18,6 +18,7 @@ icd10 = ["L80"]
 image = true
 imageSrc = "Vitiligo des mains. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
 rank = "ok"
+writing = "ok"
 todo = "BAD Figure 1, demander relecture julien.seneschal@chu-bordeaux"
 flowchart = true
 +++
@@ -25,7 +26,7 @@ flowchart = true
 {{%article-summary%}}
 
 - Le vitiligo est une dermatose chronique autoimmune à l'origine d'une dépigmentation cutanée progressive avec des tâches blanc-ivoire. Le diagnostic relève du dermatologue
-- Le bilan du vitiligo recherche une [dysthyroïdie](/tags/tsh/) par TSH + anticorps anti-TPO
+- Le bilan du vitiligo recherche une [dysthyroïdie](/tags/tsh/) par TSH et anticorps anti-TPO
 - La prise en charge du vitiligo associe: information, photoprotection des zones dépigmentées, possible traitement médicamenteux, évaluation psychologique et suivi dermatologique
 - Les traitements de première intention du vitiligo sont les {{< modal-btn modal-dc >}}dermocorticoïdes{{< /modal-btn >}}, le tacrolimus et la photothérapie UVB
 - Un suivi spécialisé par le dermatologue est recommandé tous les 3 à 6 mois tant que le vitiligo est actif

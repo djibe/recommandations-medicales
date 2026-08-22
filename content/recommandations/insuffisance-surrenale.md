@@ -19,6 +19,7 @@ icd10 = ["E27.4"]
 image = true
 imageSrc = "Mélanodermie révélant une maladie d'Addison (insuffisance surrénale primaire) chez une femme. James Heilman, MD, CC BY-SA 4.0, via Wikimedia Commons"
 rank = "ok"
+writing = "ok"
 todo = "liens, changer étiologieS | relecture faite reznik-y@chu-caen"
 flowchart = true
 +++

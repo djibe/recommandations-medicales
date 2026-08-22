@@ -17,6 +17,8 @@ sctid = "89627008"
 icd10 = ["E87.1"]
 image = false
 imageSrc = ""
+rank = "ok"
+writing = "ok"
 flowchart = true
 +++
 

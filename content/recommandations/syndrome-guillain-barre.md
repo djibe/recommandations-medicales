@@ -19,6 +19,7 @@ icd10 = ["G61.0"]
 image = false
 imageSrc = ""
 rank = "ok"
+writing = "ok"
 todo = "photo > flow | relecture Filnemus demandée"
 +++
 

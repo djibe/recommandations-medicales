@@ -19,6 +19,7 @@ image = true
 imageSrc = "Le calendrier mictionnel"
 todo = "info parents, https://afpa.org/content/uploads/2018/11/Enur%C3%A9sie-Dr-Desvignes.pdf"
 rank = "ok"
+writing = "ok"
 flowchart = true
 +++
 

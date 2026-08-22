@@ -17,10 +17,9 @@ sctid = "386692008"
 icd10 = ["N92.0", "N92.1", "N92.2"]
 image = true
 imageSrc = "Score de PBAC / Higham pour objectiver les ménorragies par les HCL"
-rank = "false"
+rank = "ok"
 writing = "ok"
 flowchart = true
-todo = "Collège, FIGO"
 +++
 
 {{%article-summary%}}
@@ -285,5 +284,6 @@ graph TB
 ### Bibliographie en attente
 
 - Collège
+- FIGO
 
 {{%/sources%}}

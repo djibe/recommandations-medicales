@@ -19,6 +19,7 @@ image = true
 imageSrc = "Poux de tête extraits du crâne. CC BY-SA 3.0 via Wikimedia Commons"
 todo = "modèle école"
 rank = "ok"
+writing = "todo"
 flowchart = true
 modele = true
 +++
