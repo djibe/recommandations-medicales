@@ -158,6 +158,9 @@ La prévention du chikungunya associe les mesures de prévention contre les piq�
 
 ### Vaccination contre le chikungunya des personnes à risque
 
+> [!INFO]
+> Été 2026: la vaccination est recommandée pour les personnes à risque (+65 ans, +12 ans avec comorbidité) dans les DROM: Guadeloupe, Guyane, La Réunion, Martinique, Mayotte, Saint-Barthélemy et Saint-Martin.
+
 La vaccination chikungunya doit être considérée pour les +12 ans:
 
 - pour les séjours en zone épidémique
