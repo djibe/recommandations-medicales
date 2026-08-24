@@ -3,11 +3,11 @@ id = "019600fe-3029-7c6f-84e1-adc366840c40"
 title = "Mégalérythème épidémique (parvovirus B19)"
 prefix = "le "
 description = "Recommandations pour le diagnostic et la prise en charge du mégalérythème épidémique (infection à parvovirus B19). Traitement symptomatique, éviter les sujets à risque"
-synonyms = ["Cinquième maladie"]
+synonyms = ["Cinquième maladie (5e maladie)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-04-04T15:29:18+02:00"
 publishdate = "2025-04-04"
-lastmod = "2025-04-23"
+lastmod = "2026-08-24"
 specialites = ["infectiologie", "pédiatrie"]
 annees = "2021"
 sources = ["CNPU"]
@@ -25,9 +25,9 @@ todo = "flow, relecture Chavigny JM demandée | https://www.cdc.gov/parvovirus-b
 {{%article-summary%}}
 
 - Le mégalérythème épidémique (ou cinquième maladie) est une infection virale à parvovirus B19 touchant surtout l'enfant avec un aspect classique << souffleté >> des joues
-- Elle est bénigne avec une immunité durable sauf chez l'enfant ayant une hémolyse chronique et chez les femmes enceintes non immunisées
+- Elle est bénigne avec une immunité durable sauf chez l'enfant ayant une hémolyse chronique et chez les femmes enceintes non immunisées (personnes à risque)
 - Le diagnostic d'infection à parvovirus B19 est clinique chez l'enfant avec une éruption fébrile de type exanthème maculopapuleux débutant aux joues puis étendu au tronc et aux extrémités
-- La prise en charge du mégalérythème épidémique est symptomatique avec un traitement par paracétamol, en évitant tout contact avec ces personnes à risque
+- La prise en charge du mégalérythème épidémique est symptomatique avec un traitement par paracétamol, en évitant tout contact avec les personnes à risque
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -45,7 +45,7 @@ CNPU
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
-L'infection à parvovirus B19 est souvent peu symptomatique ou asymptomatique.
+L'infection à parvovirus B19 est souvent **peu symptomatique** ou asymptomatique.
 
 ### Interrogatoire
 
@@ -56,7 +56,7 @@ L'incubation dure de **4 à 21 jours**. Le diagnostic de mégalérythème épid�
 - Traitements
 - Notion d'épidémie scolaire ou familiale
 - Femme enceinte dans l'entourage
-- Symptômes à la phase d'invasion (2 jours):
+- Signes et symptômes à la phase d'invasion du parvovirus (pendant 2 jours):
   - **Syndrome pseudo-grippal**: fièvre modérée, céphalées, myalgies
   - État général conservé
   - Risque d'anémie chez les sujets atteints de pathologie de l'hémoglobine ou immunodéprimés
@@ -70,8 +70,9 @@ L'incubation dure de **4 à 21 jours**. Le diagnostic de mégalérythème épid�
 ### Examen clinique
 
 - État général, température, temps de recoloration cutanée
+- Pression artérielle
 - Auscultation cardio-respiratoire
-- Examen cutanéo-muqueux
+- Examen cutanéo-muqueux (dont absence de purpura)
 - Signes d'anémie (anémie aiguë érythroblastopénique):  
   {{< clinique/anemie >}}.
 - Palpation des aires ganglionnaires
@@ -116,6 +117,7 @@ Chez l'enfant avec hémolyse chronique déclarant une **anémie mal tolérée**,
 {{%sources%}}
 
 - Collège Français d'Échographie Fœtale (CFEF). Épidémie parvovirus B19 2024. 2024.
+- [Kiener M, Romain AS. Éruption cutanée fébrile de l'enfant. Pas à Pas en Pédiatrie. 2023.](https://pap-pediatrie.fr/pap-detail/j1gg)
 - [CRATB. Le mégalérythème épidémique chez l'enfant. 2022. (PDF)](https://medqual.fr/images/GP/POP_PARTICULIERES/NOURRISSONS_ENFANTS/2022-MEGALERYTHEME-EPIDEMIQUE-ENFANT.pdf)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Éruptions fébriles. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/eruptions-febriles)
 - Collège des enseignants de dermatologie de France (CEDEF). Exanthème et érythrodermie de l'enfant et l'adulte. 2017.
@@ -123,9 +125,5 @@ Chez l'enfant avec hémolyse chronique déclarant une **anémie mal tolérée**,
 - [Chavigny JM, Ronjat L. Tout savoir sur le Parvovirus B19. Dermato-Info. 05/07/2025.](https://dermato-info.fr/les-maladies-de-la-peau/parvovirus-b19)
 
 Mot-clé: 5^e^ maladie
-
-### Bibliographie en attente
-
-- [Kiener M, Romain AS. Éruption cutanée fébrile de l'enfant. Pas à Pas en Pédiatrie. 2023.](https://pap-pediatrie.fr/pap-detail/j1gg)
 
 {{%/sources%}}
