@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-11-16T08:08:41+02:00"
 publishdate = "2020-11-16"
-lastmod = "2026-05-03"
+lastmod = "2026-08-24"
 specialites = ["pédiatrie"]
 annees = "2023"
 sources = ["HAS", "SFP"]
@@ -276,7 +276,7 @@ Hors grossesse, le vaccin anti-VRS est recommandé à partir de **75 ans** ou ch
 
 Indications à la prévention de la bronchiolite par une immunisation passive avec l'anticorps monoclonal nirsévimab:
 
-- Pour 2025-2026: la **campagne** est terminée (de septembre à janvier-février, pour 2026: 20 février)  
+- Pour 2026-2027: la **campagne** s'étale du 14 septembre 2026 au 28 février 2027
   Au mieux avant la sortie de maternité (rattrapage en ville sinon).
 - Pour tous les nourrissons nés depuis février 2025 sauf vaccination maternelle anti-VRS
 - Une seule injection IM de nirsévimab (Beyfortus® ou Synagis® si prématuré ou nourrisson à haut risque -- renouvelé la 2^e^ année chez ces sujets)
