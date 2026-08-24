@@ -7,24 +7,26 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-12-04T15:39:22+01:00"
 publishdate = "2023-12-07"
-lastmod = "2025-08-26"
+lastmod = "2026-08-23"
 specialites = ["hépato-gastro-entérologie", "thérapeutique"]
-annees = "2017"
-sources = ["SNFGE", "CREGG"]
+annees = "2024"
+sources = ["CREGG", "SNFGE"]
 tags = []
 english = ["Low residue diet"]
 sctid = "160675002"
 icd10 = []
 image = true
 imageSrc = "Le régime sans résidu. brgfx / Freepik"
+rank = "ok"
+writing = "ok"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- Le régime sans résidu évince les fibres végétales et les résidus de viande
-- Ce régime est utilisé avant une coloscopie, au cours d'une maladie inflammatoire intestinale ou en post-opératoire
-- Pour une coloscopie, le régime sans résidus est à démarrer 3 jours avant l'examen (la veille selon *ESGE 2019*)
+- Le régime sans résidu évince les fibres végétales et les résidus de viande du régime alimentaire
+- Ce régime est utilisé avant une coloscopie, au cours d'une maladie inflammatoire intestinale (MICI) ou en contexte post-opératoire
+- Pour une coloscopie, le régime sans résidus est à démarrer 1 à 3 jours avant l'examen (1 selon *ESGE 2019*)
 - Aliments proscrits lors du régime sans résidu: viandes fumées grasses, charcuterie, poissons fumés ou séchés, fruits et légumes, pain complet, fromages fermentés ... (voir *Aliments interdits*)
 
 {{%/article-summary%}}
@@ -37,7 +39,7 @@ Régime sans résidus
 ### Abréviations
 
 CREGG
-: Club de Réflexion des Cabinets et Groupes d'Hépato‑Gastroentérologie
+: Club de Réflexion des Cabinets et Groupes d'Hépato‑Gastroentérologie, renommé SFHGL
 
 SNFGE
 : Société Nationale Française de Gastro-Entérologie
@@ -120,6 +122,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Grunberg B, et al; CREGG. Alimentation sans résidus. CREGG. 2024. (PDF)](https://www.sfhgl.org/wordpress/wp-content/uploads/2018/09/Fiche-alim-MBinnBGrun24.pdf)
 - [Hassan C, et al. Bowel preparation for colonoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2019. Endoscopy. 2019.](https://www.thieme-connect.de/products/ejournals/html/10.1055/a-0959-0505)
 - [Coulom P, Grunberg B. Régime sans résidus. SNFGE, CREGG. 2017.](https://www.snfge.org/sites/www.snfge.org/files/medias/documents/regime_sans_residus_snfge-cregg_2017.pdf)
 
