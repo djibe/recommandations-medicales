@@ -3,12 +3,12 @@ id = "0190e8cb-7d96-77fb-8ad8-0aaafb11eb9c"
 title = "Scoliose structurale idiopathique"
 prefix = "la "
 titleSeo = "scoliose"
-description = "Recommandations pour la prise en charge d'un scoliose. Dépistage d'une gibbosité chez l'enfant, radiographies du rachis EOS, kinésithérapie, avis orthopédique"
+description = "Recommandations pour le diagnostic et la prise en charge de la scoliose. Dépistage d'une gibbosité chez l'enfant, radiographies du rachis EOS, kinésithérapie, avis orthopédique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-03-20T16:29:04+01:00"
 publishdate = "2023-03-27"
-lastmod = "2025-10-04"
+lastmod = "2026-08-24"
 specialites = ["orthopédie", "pédiatrie"]
 annees = "2022"
 sources = ["PNDS", "AAFP", "HAS"]
@@ -18,12 +18,14 @@ sctid = "298382003"
 icd10 = ["M41", "M41.9"]
 image = true
 imageSrc = "Scolioses d'aspect différent avec un même angle de Cobb de 40°. Weiss HR, Goodall D, CC BY 2.0, via Wikimedia Commons"
+rank = "false"
+writing = "false"
 todo = "flowchart"
 +++
 
 {{%article-summary%}}
 
-- La scoliose est une courbure rachidienne dans le plan frontal supérieure à 10° (dit angle de Cobb)
+- La scoliose est une déformation tridimensionnelle du rachis avec courbure dans le plan frontal supérieure à 10° (dit angle de Cobb)
 - Le dépistage de la scoliose par recherche d'une gibbosité doit être systématique durant les [examens de l'enfant et de l'adolescent]({{% relref "examens-suivi-nourrisson.md" %}}) où le risque évolutif est majeur
 - L'examen clinique recherche des complications et des arguments pour une pathologie (neuro-musculaire, génétique ...)
 - Bilan par radiographies du rachis complet EOS (mesure de l'angle de Cobb) en cas de gibbosité  
@@ -75,31 +77,29 @@ La scoliose apparaît et évolue au cours de l'enfance (filles +++).
 
 - Antécédents, dont prénataux
 - Antécédents familiaux rachidiens et neuromusculaires
-- Scoliose
-  - Âge de découverte, date des premières règles
+- Âge des premières règles (ménarche)
+- Caractères de la scoliose:
+  - Âge de découverte
   - Taille maximale
   - Topographie
   - Angulation
-  - Symptômes, gêne fonctionnelle
+  - Symptômes (douleurs), gêne fonctionnelle
   - Retentissement social et psychologique
 
 ### Examen clinique
 
-L'examen clinique à la recherche d'une scoliose est réalisé debout, torse dévêtu, avec observation de face, de profil, de dos et en antéflexion.
+L'examen clinique à la recherche d'une scoliose est réalisé debout, en sous-vêtements torse dévêtu, avec observation de face, de profil, de dos et en antéflexion.
 
 - Taille, poids
+- Courbes de croissance
 - Asymétrie des épaules, des épines iliaques
 - **Gibbosité**: asymétrie du tronc pathognomonique  
   Test de flexion d'Adams: le sujet est observé de dos, debout pieds et mains joints. Il va courber le dos pour aller toucher ses pieds sans plier les genoux. Une asymétrie peut être observée (gibbosité).
 - Examen neurologique (réflexes), musculaire et articulaire (points douloureux, amplitudes)
 - Stade de développement pubertaire (classification de Tanner)
 - Signes d'orientation:
-  - Tâches café au lait, pectus excavatum, fossette sacro-coxygienne, hyperlaxité articulaire généralisée
+  - Tâches café au lait, pectus excavatum, fossette sacro-coccygienne, hyperlaxité articulaire généralisée
   - Douleurs: spondylodiscite, tumeur osseuse ou intracanalaire
-
-{{< clinique/tanner-sein >}}
-
-{{< clinique/tanner-pilosite >}}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires de la scoliose" %}}
@@ -148,6 +148,7 @@ La prise en charge de la scoliose est pluridisciplinaire:
   << La dispense de sport est rarement justifiée >> (*HAS 2008*).
 - Correction d'un surpoids
 - Prévention de l'ostéoporose
+- Information du patient: [guide Ameli](https://www.aafp.org/afp/2002/0501/p1817)
 - Associations de patients: [Scoliose & partage](https://www.scoliose.org/silverstripe/), [Fondation Cotrel](https://www.fondationcotrel.org)
 - Surveillance à vie
   - Consultations tous les 3 à 12 mois
@@ -203,6 +204,7 @@ Informations sur la scoliose:
 - HAS. Scoliose structurale évolutive (dont l'angle est égal ou supérieur à 25°) jusqu'à maturation rachidienne. Guide Affection de longue durée. 2008.
 - Prescrire Redaction. Histoire naturelle de la scoliose idiopathique. Rev Prescrire. 2006.
 - [HAS. Propositions portant sur le dépistage individuel chez l'enfant de 7 à 18 ans, destinées aux médecins généralistes, pédiatres et médecins scolaires. 2005.](https://www.has-sante.fr/jcms/c_451142/fr/propositions-portant-sur-le-depistage-individuel-chez-l-enfant-de-7-a-18-ans-destinees-aux-medecins-generalistes-pediatres-et-medecins-scolaires)
+- [Greiner KA. Adolescent idiopathic scoliosis: radiologic decision-making. Am Fam Physician. 2002.](https://www.aafp.org/afp/2002/0501/p1817)
 
 ### Bibliographie en attente
 

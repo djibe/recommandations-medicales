@@ -3,7 +3,7 @@ id = "0190e8c8-e80c-7b03-8725-fa296fdb667b"
 title = "Mononucléose infectieuse (MNI)"
 titleSeo = "Mononucléose infectieuse (MNI)"
 prefix = "la "
-description = "Recommandations pour le diagnostic et la prise en charge de la mononucléose infectieuse (MNI). Fièvre prolongée, fatigue, MNI test et syndrome mononucléosique"
+description = "Recommandations pour le diagnostic et la prise en charge de la mononucléose infectieuse (MNI) à EBV. Fièvre prolongée, MNI test et syndrome mononucléosique"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-07-24T11:29:36+02:00"
@@ -19,6 +19,7 @@ icd10 = ["B27", "B27.9"]
 image = true
 imageSrc = "Angine pseudomembraneuse au cours d'une mononucléose infectieuse. James Heilman, MD, CC BY-SA 3.0, via Wikimedia Commons"
 rank = "ok"
+writing = "ok"
 flowchart = true
 +++
 
@@ -111,7 +112,7 @@ Autres anomalies plus rares: anémie hémolytique, thrombopénie auto-immune.
 {{% /collapse %}}
 {{%collapse "Traitement de la mononucléose infectieuse" %}}
 
-La prise en charge d'une mononucléose infectieuse est purement symptomatique:
+La prise en charge d'une mononucléose infectieuse est **symptomatique**:
 
 - Pas d'éviction de la collectivité (*CNPU*)
 - Absence de mesure prophylactique pour les contacts

@@ -237,6 +237,8 @@ Diminution des paresthésies et douleurs dès le lendemain de l'intervention, pe
 
 ### Informations du patient post-chirurgie du canal carpien
 
+{{< youtube id="pab3o0ccmzU" title="Consignes post opératoires après une intervention du canal carpien (Institut de la main Nantes Atlantique)" >}}
+
 La douleur liée à l'intervention peut persister quelques jours mais peut être soulagée par des médicaments.
 
 Il est déconseillé pendant qq jours de laisser pendre sa main au bout du bras. Il est au contraire recommandé de placer la main au-dessus du niveau du cœur (soit sur un oreiller lorsqu'on est allongé, soit sur l'épaule opposée lorsqu'on est assis ou debout). D'autre part, et afin d'éviter un engourdissement, il est recommandé une ou deux fois par heure de lever la main très haut au-dessus de la tête, et de faire bouger les doigts en les ouvrant et en les fermant. Malgré leur simplicité, ces petits moyens sont très efficaces pour éviter un œdème et des douleurs pulsatiles.

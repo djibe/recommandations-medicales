@@ -421,7 +421,7 @@ En l'absence de contrôle à **1 mois** (1 à 3 mois): substituer par une **trit
 
 ### Traitement de niveau 3
 
-En l'absence de contrôle à **1 mois** (1 à 3 mois): augmenter la la **trithérapie à dose maximale tolérée**.
+En l'absence de contrôle à **1 mois** (1 à 3 mois): augmenter la **trithérapie à dose maximale tolérée**.
 
 ### Hypertension résistante
 
