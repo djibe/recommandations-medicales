@@ -35,7 +35,7 @@ flowchart = true
 - Traitement selon la catégorie d'HTA (voir *Définitions*) et mesures hygiéno-diététiques systématiques
 - Les cibles tensionnelles dépendent du profil (le plus souvent 120-129 / 70-79 mmHg avant 80 ans) et ne sont valables que pour les mesures de tension au cabinet
 - Objectif d'un seul comprimé antihypertenseur combiné (<< polypill >>) et informer sur les conséquences d'une hypertension non traitée ([accidents cardiovasculaires](/tags/risque-cardiovasculaire/), démence)
-- Bithérapies antihypertensives de référence: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}
+- Bithérapies antihypertensives de référence: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}} (autres: {{%modal-btn "modal-ica"%}}ICa{{%/modal-btn%}}, {{%modal-btn "modal-triple"%}}trithérapies{{%/modal-btn%}})
 
 Chapitres liés: [automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}}), [le carnet d'automesure tensionnelle à imprimer](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf)
 
@@ -586,6 +586,11 @@ graph TB
 {{% modal title="ARA2 dans l'hypertension" id="modal-ara2" %}}
 
 {{< traitements/ara2 >}}
+
+{{% /modal %}}
+{{% modal title="Inhibiteurs calciques dans l'hypertension" id="modal-ica"%}}
+
+{{< traitements/ica >}}
 
 {{% /modal %}}
 {{% modal title="Trithérapies dans l'hypertension" id="modal-triple"%}}
