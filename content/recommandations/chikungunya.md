@@ -25,7 +25,7 @@ todo = "flow"
 
 - Le chikungunya est une arbovirose transmise par le moustique tigre (*Aedes albopictus*) et son cousin *Aedes aegypti* qui agissent comme vecteurs inter-humains. Les complications sont des arthralgies prolongées et des formes graves chez les immunodéprimés et les +65 ans
 - Les symptômes typiques du chikungunya sont un syndrome pseudo-grippal brutal avec fièvre élevée, arthralgies des extrémités et exanthème maculopapuleux. Les arthralgies persistent plus d'un mois dans la moitié des cas
-- Le bilan d'une suspicion de chikungunya comprend selon l'ancienneté des symptômes: un PCR jusqu'à J5, PCR et sérologie de J5 à J7 puis la sérologie avec IgG et IgM au-delà. Le bilan est couplé à la recherche de la dengue ± zika
+- Le bilan d'une suspicion de chikungunya comprend selon l'ancienneté des symptômes: un PCR jusqu'à J5, PCR et sérologie de J5 à J7 puis la sérologie avec IgG et IgM au-delà. Le bilan est couplé à la recherche de la dengue, zika (± paludisme selon le pays)
 - La prévention du chikungunya comprend la protection anti-vectorielle (contre les piqûres de moustiques - PPAV) et parfois la vaccination des adultes avec comorbidité de 12 ans et plus
 - Les critères d'hospitalisation sont les formes graves, hyperalgiques et les comorbidités sévères
 - La prise en charge du chikungunya est symptomatique avec: antalgie/antipyrexie, hydratation et protection contre les piqûres de moustiques pour limiter la diffusion de la maladie
@@ -128,7 +128,7 @@ Le tableau clinique est très proche de la dengue et de zika.
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Les recherches de la dengue ± zika sont couplés du fait d'une sémiologie et de moustiques communs.
+Les recherches de la dengue, zika (± paludisme selon le pays) sont couplés du fait d'une sémiologie et de moustiques communs.
 {.alert .alert-info}
 
 Le bilan pour la suspicion du chikungunya dépend de l'ancienneté des symptômes:

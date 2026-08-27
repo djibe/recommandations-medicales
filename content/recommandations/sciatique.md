@@ -61,7 +61,7 @@ La sciatique est un **diagnostic clinique**. La durée de l'évolution des sympt
 
 ### Interrogatoire
 
-- Antécédents: [lombalgie]({{% relref "lombalgie-commune.md" %}}), [scoliose]({{% relref "scoliose.md" %}}), arthrose, traumatisme rachidien, [cancer](/tags/cancer/)
+- Antécédents: [lombalgie]({{% relref "lombalgie-commune.md" %}}), [scoliose]({{% relref "scoliose.md" %}}), arthrose, traumatisme rachidien, [cancer](/tags/cancer/), déficits neurologiques (penser à la SEP)
 - Facteurs de risque: obésité, tabagisme, profession manuelle
 - Traitements en cours
 - Mode d'installation et évolution de la radiculalgie
@@ -81,9 +81,12 @@ La sciatique est un **diagnostic clinique**. La durée de l'évolution des sympt
 - Température
 - Syndrome rachidien: attitude scoliotique par contracture lombaire (origine discale ++), douleurs en palpation lombaire, raideur rachidienne
 - Syndrome radiculaire: signe de la sonnette, signe de **Lasègue** (sensible, peu spécifique, déclenchement < 60°), Lasègue inversé (peu sensible, spécifique) voire déficit moteur (voir ci-dessous)
-- Examen neurologique
+- Examen neurologique (réflexes +++)
 - ==**Signes de gravité**==: **hyperalgie**, **déficit moteur grave** ({{< modal-btn modal-mrc >}}force motrice{{< /modal-btn >}} ≤ 3) lors de la marche sur les talons (L5) ou sur les pointes (S1), **syndrome de la queue de cheval** (anesthésie en selle, troubles sphinctériens), globe urinaire, hypotonie du sphincter anal
 - **Signes différentiels:** syndrome méningé, syndrome pyramidal (spasticité, réflexes polycinétiques et diffusés), raideur multidirectionnelle (tumeur intrarachidienne), douleur sacro-iliaque
+
+> [!WARNING]
+> En cas de paresthésies mal limitées (débordant du territoire), ne pas méconnaître une atteinte du système nerveux central (ex. SEP).
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -94,7 +97,7 @@ Les indications de l'**IRM lombaire** sont les drapeaux rouges au cours d'une sc
 
 - Déficit neurologique
 - Suspicion de syndrome de la queue de cheval
-- Suspicion de cancer ou d'infection
+- Suspicion de cancer, d'infection ou d'atteinte centrale
 - Antécédent traumatique
 - Infiltration de corticoïde
 - Persistance plus de 6-8 semaines
