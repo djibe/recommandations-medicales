@@ -5,12 +5,11 @@ prefix = "le "
 description = "Recommandations pour la prise en charge du cancer de la prostate. Indications au dépistage et conduite à tenir selon le PSA, toucher rectal et avis urologique"
 synonyms = ["Adénocarcinome prostatique"]
 auteurs = ["Jean-Baptiste FRON"]
-relecteur = "Dr J. OLIVIER (AFU)"
 date = "2020-09-27T19:51:30+02:00"
 publishdate = "2020-09-27"
-lastmod = "2024-11-27"
+lastmod = "2026-08-27"
 specialites = ["oncologie", "urologie"]
-annees = "2025"
+annees = "2026"
 sources = ["EAU", "AFU", "HAS", "USPTF"]
 tags = ["cancer", "dépistage"]
 english = ["Prostate cancer (PCa)"]
@@ -18,6 +17,9 @@ sctid = "254900004"
 icd10 = ["C61", "D0.5", "N42.3"]
 image = true
 imageSrc = "Illustration du cancer de la prostate par brgfx / Freepik"
+rank = "false"
+writing = "false"
+todo = "update FLOW; update AFU"
 flowchart = true
 +++
 
@@ -149,12 +151,29 @@ La plupart des hommes atteints par le cancer de la prostate sont asymptomatiques
 **NB.** Toute anomalie au toucher rectal doit conduire à une consultation d'urologie.
 
 {{% /collapse %}}
+{{%collapse "Examens complémentaires" %}}
+
+### Dosage du PSA
+
+Le dosage du **PSA** est indiqué en cas de symptômes prostatiques, de dépistage précoce ou pour le suivi après cancer ou de lésion prostatique de faible PI-RADS.
+
+En cas de symptômes, le seuil de **4 ng/mL** est retenu pour rechercher un cancer de la prostate (sensibilité 0,93; spécificité 0,20).
+
+### IRM de la prostate
+
+L'**IRM prostatique** est la référence pour l'exploration en cas d'anomalie clinique et/ou biologique. Évaluation **PI-RADS** et de la densité du PSA.
+
+### Biopsies prostatiques
+
+La **biopsie prostatique** est un examen de 2^e^ ligne, après l'IRM prostatique (et le score PI-RADS) sauf en cas de tumeur localement avancée au toucher rectal.
+
+{{% /collapse %}}
 {{%collapse "Dépistage du cancer de la prostate" %}}
 
 ### Dépistage du cancer de la prostate par mesure du PSA
 
 {{%warning%}}
-**Hommes à risque augmenté de cancer de la prostate:** +50 ans, +45 ans avec antécédent familial de CaP ou d'origine africaine, +40 ans avec BRCA2 (*EAU 2025*, *AFU*).
+**Hommes à risque augmenté de cancer de la prostate:** +50 ans, +45 ans avec antécédent familial de CaP avant 60 ans ou d'origine africaine, +40 ans avec BRCA2 (*EAU 2026*, *AFU*).
 
 Risque diminué de cancer de la prostate si PSA < 1 ng/mL à 40 ans et < 2 à 60 ans.
 {{%/warning%}}
@@ -173,7 +192,7 @@ Positions des différents comités sur la détection précoce du cancer de la pr
   Pas de dépistage systématique en population générale ni à haut risque ([INCa 2016. Le dépistage du cancer de la prostate - s'informer avant de décider](https://www.cancer.fr/catalogue-des-publications/le-depistage-du-cancer-de-la-prostate-s-informer-avant-de-decider)).
 - Commission européenne 2022  
   PSA jusqu'à 70 ans.
-- EAU 2025  
+- EAU 2026  
   Intérêt d'une détection précoce des *hommes à risque* ayant une [espérance de vie (EV) de +15 ans]({{% relref "esperance-vie-age-france.md" %}}) (71 ans en France)
 - AFU 2022  
   Hommes de 50 (40 à 45 si *à risque*) à 70 ans avec espérance de vie de +10 ans, tous les 2 à 4 ans.
@@ -183,18 +202,20 @@ Positions des différents comités sur la détection précoce du cancer de la pr
 
 #### Prise en charge selon le résultat du PSA
 
-Patient à risque **asymptomatique** informé demandant une détection précoce, dépistage par **toucher rectal et mesure du PSA total**:
+**Patient à risque asymptomatique** informé demandant une détection précoce, dépistage par **toucher rectal et mesure du PSA total**:
 
 - Toucher rectal normal
-  - PSA < 1 ng/mL à 40 ans ou < 2 à 60 ans: répéter le dosage dans 8 ans
-  - PSA 1^er^ dosage de 3-10 ng/mL: refaire le dosage à 4 semaines (fluctuations de 15%)  
+  - PSA < 1 ng/mL à 40 ans ou < 2 à 60 ans: répéter le dosage à 8 ans
+  - PSA 1 - 2,9 ng/mL à 40 ans: répéter à 2 ans
+  - PSA 2 - 2,9 ng/mL à 60 ans: répéter à 2 ans
+  - PSA 1^er^ dosage de 3-10 ng/mL: refaire le dosage à 4 semaines (fluctuations de 15 %)  
     Si normalisation: contrôle à 1 an.
-  - PSA 2^e^ dosage de 2-10 ng/mL: avis urologique pour utilisation d'un score ou IRM prostatique (seuil de 4 ng/mL selon *AFU 2022*)
+  - PSA 2^e^ dosage de 3-20 ng/mL: avis urologique pour utilisation d'un score ou IRM prostatique (seuil de 4 ng/mL selon *AFU 2022*)
   - PSA > 10 ng/mL: avis urologique
   - PSA en augmentation > 30%: avis urologique (*AFU*)
 - Toucher rectal anormal: avis urologique
 
-> -- *EAU 2025*
+> -- *EAU 2026*
 
 Le bilan diagnostique est aujourd'hui dominé par des scores permettant de stratifier le recours à l'IRM prostatique avant la biopsie de prostate.
 
@@ -204,11 +225,11 @@ Répéter le dépistage par toucher rectal et dosage du PSA:
 
 - Tous les 2 ans si:
   - PSA > 1 ng/mL à 40 ans
-  - PSA > 1-2 ng/mL à 60 ans
+  - PSA > 2 ng/mL à 60 ans
 - Tous les 8-10 ans sous ces seuils (**4 ans** pour l'AFU)
 - Arrêt du dépistage: [espérance de vie < 15 ans]({{% relref "esperance-vie-age-france.md" %}}) (10 ans selon *AFU*)
 
-> -- *EAU 2025 5.1.3*
+> -- *EAU 2026 5.2.8*
 
 ### Pour en savoir plus: la biopsie de prostate
 
@@ -288,16 +309,16 @@ Complications fréquentes survenant dans les suites d'une prostatectomie (PT) ra
 {{% /collapse %}}
 {{%collapse "Prise en charge par le dépistage du cancer de la prostate" "show" %}}
 
-{{< mermaid title="Dépistage du cancer de la prostate et conduite à tenir devant une augmentation du PSA. Dr JB Fron d'après EAU 2025 et AFU" >}}
+{{< mermaid title="Détection précoce du cancer de la prostate et conduite à tenir devant une augmentation du PSA. Dr JB Fron d'après EAU 2026" >}}
 graph TB
-  homme["Homme asymptomatique<br>avec Espérance de vie +15 ans<br>—<br>+50 ans<br>+45 ans avec antécédent familial<br>ou origine Africaine<br>+40 ans avec BRCA2"] -- Information éclairée --> depistage(TR + PSA<br>tous les 2 ans)
+  homme["Homme asymptomatique<br>avec espérance de vie +15 ans<br>—<br>- +50 ans<br>- +45 ans avec antécédent familial avant 60 ans<br>ou origine Africaine<br>- +40 ans avec BRCA2"] -- Information éclairée --> depistage(TR + PSA<br>tous les 2 ans)
   style homme stroke:#4150f5, stroke-width:1px
     depistage ==> normal("<b>TR normal</b>")
       normal --> bas(PSA &lt; 1 à 40 ans<br>ou &lt; 2 à 60 ans) -- Répéter à 8 ans --> depistage
-      normal --> intermediaire(PSA 3-10) --> controle("Contrôler le PSA<br>Intervalle ≥ 2 semaines")
-        controle --> sup("PSA ≥ 2<br>(4 selon l'AFU)") --> urologue
-        controle --> inf("PSA &lt; 2") --> depistage
-      normal --> autre(Autre valeur) --> depistage
+      normal --> intermediaire(PSA 3-10) --> controle("Contrôler le PSA<br>à 1 mois")
+        controle --> sup("PSA ≥ 3") --> urologue
+        controle --> autre
+      normal --> autre("PSA &lt; 3") --> depistage
     depistage --> anormal(TR anormal<br>ou PSA +10 ng/mL) --> urologue(Avis urologique)
 {{< /mermaid >}}
 
@@ -310,9 +331,9 @@ graph TB
 
 {{< youtube id="szF2WjhtRE4" title="Cancer de la prostate et pesticides : procédure de reconnaissance (Assurance Maladie)" >}}
 
+- [Cornford P, et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2026.](https://uroweb.org/guidelines/prostate-cancer)
 - [Franco JVA, et al. Prostate‐specific antigen (PSA) test for prostate cancer screening. Cochrane Database of Systematic Reviews. 2026.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004720.pub4/full/fr)
 - [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
-- [Cornford P, et al; EAU, EANM, ESTRO, ESUR, ISUP, SIOG. Guidelines on Prostate Cancer. 2025.](https://uroweb.org/guidelines/prostate-cancer)
 - [Ploussard G, et al. French AFU Cancer Committee Guidelines - Update 2024-2026: Prostate cancer - Management of metastatic disease and castration resistance. Fr J Urol. 2024.](https://www.sciencedirect.com/science/article/pii/S2950393024001670)
 - {{< references/beh-cancers-incidence >}}
 - [Ploussard G, et al. French AFU Cancer Committee Guidelines - Update 2022-2024: prostate cancer - Diagnosis and management of localised disease. Progrès en Urologie. 2022.](https://www.sciencedirect.com/science/article/pii/S116670872200344X)
@@ -330,6 +351,8 @@ graph TB
 
 ### Bibliographie en attente
 
+- [AFU. French recommendations from the AFU Cancer Committee for prostate cancer: 2025 summary of changes. 2025.](https://www.urofrance.org/recommandation/french-recommendations-from-the-afu-cancer-committee-for-prostate-cancer-2025-summary-of-changes/?date=&themes=&search=)
+- [AFU](https://www.urofrance.org/publications/recommandations/?date=&themes=1342&type=Ann%C3%A9e&search=&action=myfilter)
 - [Breyer BN, et al. Updates to Incontinence After Prostate Treatment: AUA/GURS/SUFU Guideline (2024). J Urol. 2024.](https://www.auajournals.org/doi/10.1097/JU.0000000000004088)
 - [Hamdy FC, et al. Fifteen-Year Outcomes after Monitoring, Surgery, or Radiotherapy for Prostate Cancer. N Engl J Med. 2023.](https://www.nejm.org/doi/10.1056/NEJMoa2214122)
 
