@@ -241,7 +241,7 @@ Conduite à tenir selon les résultats du bilan:
 
 - **Hyperprolactinémie**  
   **Prolactine élevée**, E2 et LH bas, FSH basse ou normale.
-- **SOPK**  
+- **SOPK**/SMOP  
   E2 d'une phase folliculaire (~ 30-70 pg/mL), LH normale/augmentée, FSH basse/normale, testostérone totale normale/augmentée
 - **Déficit gonadotrope**  
   E2 bas, LH et FSH basses ou anormalement normales.

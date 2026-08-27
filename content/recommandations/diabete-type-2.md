@@ -457,7 +457,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 | Rétinopathie | Dépistage annuel. Tous les 2 ans si: pas d'insuline, équilibre tensionnel et glycémique optimaux. Grossesse: avant, trimestrielle puis post-partum. Post-cataracte: intensifiée durant 12 mois | HAS 2025 |
 | Risque cardiovasculaire | En l'absence de {{< modal-btn modal-rcv >}}risque marqué{{< /modal-btn >}}, {{< scores/score2-diabetes >}} annuel en prévention primaire chez le 40-69 ans | HAS, ESC 2025 |
 | Score calcique | Pas d'argument pour l'utiliser pour la classification du RCV<br>{{< modal-btn modal-coronaire-diabete >}}≥ 2 facteurs de haut risque coronaire{{< /modal-btn >}} ± test d'effort | ESC 2023 diabetes<br>SFD 2021 CAD |
-| [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) | Envisager le dépistage chez la femme          | ESHRE 2023               |
+| [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}})/SMOP | Envisager le dépistage chez la femme          | ESHRE 2023               |
 | Statine, LDL | Voir la section *Les points vitaux*                                                              |                          |
 | [Syndrome de Cushing]({{% relref "syndrome-cushing.md" %}}) | Étayer si: syndrome plurimétabolique, diabète déséquilibré sans cause évidente, symptômes | PNDS Cushing 2022 |
 | [Vitamine B12]({{% relref "carence-vitamine-b12.md" %}}) | Si metformine depuis +4 ans: dosage et surveillance régulière | KDIGO 2022 diabetes<br>ADA/EASD 2022 |

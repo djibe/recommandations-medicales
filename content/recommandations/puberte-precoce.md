@@ -237,7 +237,7 @@ Les effets indésirables des analogues du GnRH disparaissent après quelques sem
 - Courbes de croissance
 - Activité physique soutenue en cas de surpoids
 - Enquête diététique des apports calciques
-- Signes de [syndrome des ovaires polykystiques]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (SOPK)  
+- Signes de [syndrome des ovaires polykystiques]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (SOPK/SMOP)  
   Surveillance des signes d'hyperandrogénie.
 
 {{% /collapse %}}

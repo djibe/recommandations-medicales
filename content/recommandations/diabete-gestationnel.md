@@ -108,7 +108,7 @@ Indication au dépistage du diabète gestationnel en présence d'au moins un fac
 4. Antécédent personnel de diabète gestationnel ou de chirurgie bariatrique
 5. Antécédent de macrosomie  
   Poids de naissance ≥ 4 kg.
-6. [Syndrome des ovaires polykystiques]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (SOPK, *ESHRE 2023*)  
+6. [Syndrome des ovaires polykystiques]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (SOPK/SMOP, *ESHRE 2023*)  
   Dès le désir de grossesse ou rattrapage à 24-28 SA.
 
 > -- *HAS 2025* reprenant *CNGOF, SFD 2010*, *BARIA-MAT*

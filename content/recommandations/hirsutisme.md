@@ -79,7 +79,7 @@ SOPK
 Les causes d'hirsutisme sont **endocriniennes** (80 %), gynécologiques et idiopathique:
 
 - Hirsutisme avec hyperandrogénie
-  - **[Syndrome des ovaires polykystiques]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}})** (**SOPK**). Première cause (70-80%).  
+  - **[Syndrome des ovaires polykystiques]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}})** (**SOPK**/SMOP). Première cause (70-80%).  
     Défini par la présence ≥ 2 critères: hyperandrogénie chronique non expliquée autrement, oligoovulation, aspect échographique d'ovaires polykystiques.
 - Hirsutisme sans hyperandrogénie
   - [Syndrome de Cushing]({{% relref "syndrome-cushing.md" %}})
