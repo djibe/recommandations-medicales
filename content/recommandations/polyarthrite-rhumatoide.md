@@ -20,6 +20,7 @@ image = true
 imageWEBP = true
 imageSrc = "Illustration de la polyarthrite rhumatoïde par scientificanimations.com, CC BY-SA 4.0"
 rank = "ok"
+writing = "ok"
 flowchart = true
 todo = "simplifier, bilan pré-MTX"
 modele = true
@@ -30,9 +31,9 @@ modele = true
 - La polyarthrite rhumatoïde (PR) est le premier rhumatisme inflammatoire de l'adulte, donnant des arthrites évoluant par poussées
 - Évoquer une polyarthrite devant toute arthrite, dérouillage de plus de 30 minutes, douleurs en pression des mains ou pieds (métacarpophalangiennes, métatarsophalangiennes)
 - Une suspicion de polyarthrite rhumatoïde nécessite un diagnostic par le rhumatologue et un traitement rapide
-- Prescrire le bilan biologique avec les radiographies pour adresser au rhumatologue dans les 6 semaines (voir *Examens complémentaires*)
+- Prescrire le bilan biologique et les radiographies pour adresser au rhumatologue dans les 6 semaines (voir *Examens complémentaires*)
 - La prise en charge de la polyarthrite rhumatoïde par un traitement spécifique relève exclusivement du rhumatologue
-- Le méthotrexate doit être pris un jour fixe de la semaine avec prise de 10 mg d'acide folinique 48 heures après
+- Le méthotrexate doit être pris un jour fixe de la semaine, suivi de 10 mg d'acide folique 48 heures après
 - Mesures associées au traitement: dépistage des [cancers](/tags/cancer/), contrôle de risque cardiovasculaire et évaluation au moins tous les 5 ans, rappels vaccinaux (dTP tous les 10 ans, pneumocoque, grippe, covid)
 
 {{%/article-summary%}}
@@ -98,13 +99,13 @@ Autres diagnostics à évoquer devant des polyarthralgies:
 
 - Connectivite: lupus, Gougerot-Sjögren
 - [Spondylarthrite]({{% relref "spondylarthrite-ankylosante.md" %}})
-- Arthrose digitale
+- [Arthrose digitale]({{% relref "arthrose-main.md" %}})
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
 
 > [!WARNING]
-Arthrite atteignant plus d'une articulation: avis rhumatologique sous 6 semaines (à compter de l'apparition des symptômes).
+En cas d'arthrite atteignant plus d'une articulation (polyarthrite): avis rhumatologique sous 6 semaines (à compter de l'apparition des symptômes).
 
 > [!INFO]
 > Évoquer une polyarthrite rhumatoïde devant toute arthrite clinique, raideur matinale dépassant 30 minutes, douleurs à la pression transverse des mains (MCP) ou avant-pieds (MTP), évolution de plus de 6 semaines, antécédent de PR chez un parent au 1^er^ degré, difficultés à fermer le poing.
@@ -241,7 +242,7 @@ Prévention des complications: cardiovasculaires, respiratoires, infectieuses, l
 
 ### Traitement de fond conventionnel de la polyarthrite rhumatoïde
 
-Le traitement de la polyarthrite rhumatoïde est systématique, **<< en urgence >>** dès le diagnostic, même s'il ne remplit pas encore les critères de rhumatisme défini. Il est modifié en cas d'**inefficacité à 3 mois** (ou objectif thérapeutique non atteint à 6 mois).
+Le traitement de la polyarthrite rhumatoïde est systématique, **<< en urgence >>** dès le diagnostic, même s'il ne remplit pas encore les critères de rhumatisme défini. Il est modifié en cas d'**inefficacité à 3 mois** (ou objectif thérapeutique non atteint à 6 mois). Il est souvent maintenu au long cours à la plus faible dose efficace.
 
 {{%info%}}
 [Méthotrexate](https://base-donnees-publique.medicaments.gouv.fr/medicament/65787731/extrait#tab-rcp) (MTX) en première intention, dose optimale (25-30 mg/semaine) à atteindre en 4-8 semaines.
@@ -250,13 +251,14 @@ Débuter à **15 mg** en prise unique (ou scindée en 2 doses, étude *SMART*) p
 
 ---
 
-- Au moins 10 mg/semaine d'acide folinique systématique ([Folinoral 5 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/67479020/extrait#tab-rcp), [Lederfoline 15 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/66335946/extrait#tab-rcp))
+- Au moins 10 mg/semaine d'acide folique systématique ([acide folique 5 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/67320915/extrait#tab-rcp), 2 cp 48h après le méthotrexate)
+- En cas d'échec, utiliser l'acide folinique ([Folinoral 5 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/67479020/extrait#tab-rcp), [Lederfoline 15 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/66335946/extrait#tab-rcp))
 - Corticothérapie initiale associée (maximum 6 mois)
 {{%/info%}}
 
-Voie sous-cutanée selon tolérance ou si efficacité insuffisante (Imeth injectable®, Metoject®, Nordimet®, génériques).
+La voie sous-cutanée peut être utilisée en cas de tolérance ou d'efficacité insuffisante (Imeth injectable®, Metoject®, Nordimet®, génériques).
 
-Décroissance de dose seulement après rémission persistante et prolongée.
+La **décroissance de dose** intervient seulement après une rémission persistante et prolongée.
 
 En cas de contre-indication ou intolérance au méthotrexate, considérer un traitement par **léflunomide** (Arava®, générique) 10-20 mg/j ou **sulfasalazine** (Salazopyrine®) 2-3 g/j.
 
