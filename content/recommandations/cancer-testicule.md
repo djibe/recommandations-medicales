@@ -8,9 +8,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2023-11-06T16:37:01+01:00"
 publishdate = "2023-11-07"
-lastmod = "2025-04-23"
+lastmod = "2026-08-27"
 specialites = ["oncologie", "urologie"]
-annees = "2025"
+annees = "2026"
 sources = ["EAU", "HAS", "INCa"]
 tags = ["cancer", "dépistage", "infertilité"]
 english = ["Testicular cancer (TC)"]
@@ -18,6 +18,8 @@ sctid = "363449006"
 icd10 = ["C62", "C62.9"]
 image = true
 imageSrc = "Masse hétérogène hypoéchogène du testicule gauche. Cancer du testicule de type séminome. Cas d'Andrew Dixon, Radiopaedia.org, rID: 9886"
+rank = "false"
+writing = "ok"
 flowchart = true
 +++
 
@@ -179,13 +181,13 @@ graph TB
 
 {{< youtube id="teL-GFw-IQs" title="Testicular palpation (OSCE Guide)" >}}
 
-- [Nicole D, et al. EAU Guidelines on Testicular Cancer. 2025.](https://uroweb.org/guidelines/testicular-cancer)
+- [Nicole D, et al. EAU Guidelines on Testicular Cancer. 2026.](https://uroweb.org/guidelines/testicular-cancer)
 - [Collège Français des Enseignants en Urologie (CFEU). Tumeur du testicule. Item 313. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-313-Tumeur-testicule.pdf)
 - [HAS, INCa. Cancers du testicule Tumeurs germinales. Guide Affection de longue durée. 2011. (PDF)](https://www.cancer.fr/Media/files/ald-n-30-guide-medecin-mai-2011)
 - [HAS, INCa. Cancer du testicule Tumeurs germinales. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_1061933/fr/ald-n-30-cancer-du-testicule)
 
 ### Bibliographie en attente
 
-[Murez T, et al. Recommandations françaises du comité de cancérologie de l'AFU - Actualisation 2024-2026 : tumeurs germinales du testicule. Progrès en Urologie - FMC. 2024.](https://www.urofrance.org/recommandation/recommandations-du-comite-de-cancerologie-de-lassociation-francaise-durologie-actualisation-2022-2024-tumeurs-germinales-du-testicule/?date=&themes=&search=)
+- [Murez T, et al. Recommandations françaises du comité de cancérologie de l'AFU - Actualisation 2024-2026 : tumeurs germinales du testicule. Progrès en Urologie - FMC. 2024.](https://www.urofrance.org/recommandation/recommandations-du-comite-de-cancerologie-de-lassociation-francaise-durologie-actualisation-2022-2024-tumeurs-germinales-du-testicule/?date=&themes=&search=)
 
 {{%/sources%}}

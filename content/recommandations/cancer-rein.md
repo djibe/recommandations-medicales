@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-01-02T12:40:26+01:00"
 publishdate = "2024-01-04"
-lastmod = "2025-08-13"
+lastmod = "2026-08-27"
 specialites = ["oncologie", "urologie"]
-annees = "2025"
+annees = "2026"
 sources = ["EAU", "AFU"]
 tags = ["cancer", "tabac"]
 english = ["Renal cancer", "renal cell carcinoma"]
@@ -17,7 +17,8 @@ sctid = "363518003"
 icd10 = ["C64", "N28.1"]
 image = true
 imageSrc = "Cancer du pôle supérieur du rein gauche suspecté lors d'une échographie abdominale chez un homme de 55 ans. Cas de Bálint Botz, Radiopaedia.org, rID: 61449"
-todo = "rank"
+rank = "false"
+writing = "ok"
 flowchart = true
 +++
 
@@ -75,7 +76,7 @@ La découverte du cancer du rein est le plus souvent fortuite.
 - Antécédents familiaux de cancers urologiques
 - Tabac
 - Exposition professionnelle au trichloroéthylène
-- Signes et symptômes de cancer du rein:
+- **Signes et symptômes de cancer du rein:**
   - **[Hématurie]({{% relref "hematurie.md" %}})** totale, indolore, spontanée, récidivante
   - Douleur du flanc
   - Masse lombaire palpée
@@ -117,10 +118,11 @@ Compléter avec un **scanner thoracique** injecté en cas d'images typiques de c
 {{% /collapse %}}
 {{%collapse "Prévention" %}}
 
-La prévention du cancer du rein repose sur la correction des facteurs de risque modifiables (*AFU*):
+La prévention du cancer du rein repose sur la correction des facteurs de risque modifiables (*AFU*, *EAU*):
 
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
-- Correction du surpoids et de l'[obésité]({{% relref "obesite-adulte.md" %}}) (activité physique et perte de poids)
+- Correction du surpoids et de l'[obésité]({{% relref "obesite-adulte.md" %}})
+- Activité physique renforcée
 - Contrôle de l'[hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
 
 {{% /collapse %}}
@@ -164,7 +166,7 @@ Le suivi et son rythme après cancer du rein est décidé par l'équipe spécial
 {{% /collapse %}}
 {{%collapse "Prise en charge du cancer du rein" "show" %}}
 
-{{< mermaid title="Prise en charge de la suspicion de cancer du rein par le médecin généraliste. Dr JB Fron d'après EAU 2025 et HAS/INCa" >}}
+{{< mermaid title="Prise en charge de la suspicion de cancer du rein par le médecin généraliste. Dr JB Fron d'après EAU 2026 et HAS/INCa" >}}
 graph TB
   suspicion["<b>Suspicion de cancer du rein</b><br>—<br>- Incidentalome ++<br>- Hématurie totale<br>- Douleur du flanc<br>- Masse lombaire"] --> bilan("<b>Bilan</b><br>—<br>- NFS, créatininémie<br>- Scanner abdomino-pelvien injecté") --"Aspect de<br>cancer du rein,<br>± scanner thoracique"--> urologue("Urologue du CLCC")
     bilan -- Autre diagnostic --> autre("Prise en charge<br>adaptée")
@@ -175,7 +177,7 @@ graph TB
 {{%sources%}}
 
 - [Association Française d'Urologie. Cancer du rein. Fiches préventions. 2026.](https://www.urofrance.org/patient/fiches-prevention/fiches-preventions/)
-- [Ljungberg B, et al. EAU guidelines on renal cancer carcinoma. 2025.](https://uroweb.org/guidelines/renal-cell-carcinoma)
+- [Ljungberg B, et al. EAU guidelines on renal cancer carcinoma. 2026.](https://uroweb.org/guidelines/renal-cell-carcinoma)
 - {{< references/beh-cancers-incidence >}}
 - [Bigot P, et al. Recommandations françaises du Comité de cancérologie de l'AFU - Actualisation 2024–2026 : cancer du rein French AFU Cancer Committee Guidelines - Update 2024–2026: Management of kidney cancer. Progrès en Urologie. 2024.](https://www.sciencedirect.com/science/article/pii/S295039302400192X) ([version anglaise gratuite](https://www.sciencedirect.com/science/article/pii/S295039302400192X))
 - [HAS, INCa. Cancer du rein de l'adulte. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_985455/fr/ald-n-30-cancer-du-rein-de-l-adulte)

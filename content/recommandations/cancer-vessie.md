@@ -7,9 +7,9 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2024-04-04T21:20:18+02:00"
 publishdate = "2024-04-07"
-lastmod = "2025-04-23"
+lastmod = "2026-08-27"
 specialites = ["oncologie", "urologie"]
-annees = "2025"
+annees = "2026"
 sources = ["EAU", "HAS", "INCa"]
 tags = ["cancer", "tabac"]
 english = ["Bladder cancer (BC)"]
@@ -17,6 +17,8 @@ sctid = "399326009"
 icd10 = ["C67", "C67.9", "D09.0"]
 image = true
 imageSrc = "Lésion festonnée vésicale en échographie chez un homme de 70 ans. Cas de Craig Hacking, Radiopaedia.org, rID: 173374"
+rank = "false"
+writing = "ok"
 todo = "flow"
 +++
 
@@ -85,14 +87,11 @@ Signes et symptômes à rechercher devant une suspicion de [cancer](/tags/cancer
 - Antécédents: radiothérapie pelvienne ou chimiothérapie au cyclophosphamide, bilharziose urinaire, tumeur de l'uretère ou du bassinet
 - Tabagisme, cannabis
 - Expositions professionnelles: peintures, métal, pétrole, charbon ([tableaux](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=R&motsCles=&planPatho=TABMALPRO_Pathologie%20r%C3%A9nale%2C%20v%C3%A9sicale%20et%20g%C3%A9nitale%2FPathologie%20des%20voies%20urinaires%2FTumeur%20de%20vessie)).
-- Symptômes et ancienneté
+- Signes et symptômes évocateurs de cancer de la vessie:
   - **[Hématurie]({{% relref "hematurie.md" %}})** (macroscopique 80 %, terminale et indolore)
   - Symptômes irritatifs de la vessie: pollakiurie, impériosité/urgenturie, brûlures mictionnelles
-- Complications
-  - AEG: amaigrissement, [fatigue](/tags/fatigue/), anorexie
   - Douleurs pelviennes ou lombaires
-  - Signes de thromboembolie
-  - Cardiovasculaires liées au tabac
+  - AEG: amaigrissement, [fatigue](/tags/fatigue/), anorexie
 
 ### Examen clinique
 
@@ -117,7 +116,7 @@ Le bilan est semi-urgent:
 - NFS
 - Créatininémie, DFG
 - Cytologie urinaire (hors urines du matin)
-- Échographie des voies urinaires par voie sus-pubienne (ou uroscanner selon l'*EAU 2024*)
+- Échographie des voies urinaires par voie sus-pubienne (ou uroscanner selon l'*EAU 2026*)
 {{%/info%}}
 
 > Une cytologie ou une échographie normales n'éliminent pas le diagnostic.
@@ -134,7 +133,7 @@ Le bilan d'extension du cancer comporte:
 {{% /collapse %}}
 {{%collapse "Traitement du cancer de la vessie" %}}
 
-La prise en charge du cancer de la vessie est semi-urgente et spécialisée après RCP. [Annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) (CLCC).
+La prise en charge du cancer de la vessie est semi-urgente et spécialisée après RCP ([annuaire des Centres de Lutte contre le Cancer](https://www.cancer.fr/personnes-malades/carte-des-etablissements-de-soins-en-cancerologie) -- CLCC).
 
 Mesures associées à la prise en charge des cancers:
 
@@ -153,15 +152,15 @@ Surveillance rapprochée du fait des récidives fréquentes (urologue, cystoscop
 
 ### Pour en savoir plus: traitements du cancer de la vessie
 
-Le traitement décidé en RCP peut être: résection transurétrale de vessie (RTUV) avec instillation postopératoire précoce (IPOP), instillations endovésicales (mitomycine C, BCG qui nécessite une surveillance), cystectomie partielle, cystectomie totale (reconstruction, dérivation urinaire externe), chimiothérapie, radiochimiothérapie, soins de support.
+Le traitement décidé en RCP peut être: résection transurétrale de vessie (**RTUV**) avec instillation postopératoire précoce (IPOP), instillations endovésicales (mitomycine C, **BCG** qui nécessite une surveillance), **cystectomie** partielle, cystectomie totale (reconstruction, dérivation urinaire externe), chimiothérapie, radiochimiothérapie, soins de support.
 
 La cystectomie totale comprend chez l'homme une cystoprostatectomie et chez la femme une pelvectomie antérieure (hystérectomie totale et urétrectomie).
 
 {{% /collapse %}}
 {{%sources%}}
 
-- [Gontero P, et al. EAU Guidelines on Non-muscle-invasive Bladder Cancer (TaT1 and CIS). 2025.](https://uroweb.org/guidelines/non-muscle-invasive-bladder-cancer)
-- [Witjes JA, et al. EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer. 2025.](https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer)
+- [Gontero P, et al. EAU Guidelines on Non-muscle-invasive Bladder Cancer (TaT1 and CIS). 2026.](https://uroweb.org/guidelines/non-muscle-invasive-bladder-cancer)
+- [Witjes JA, et al. EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer. 2026.](https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer)
 - {{< references/beh-cancers-incidence >}}
 - [Collège Français des Enseignants en Urologie (CFEU). Tumeurs vésicales. Item 314. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-314-Tumeurs-de-vessie.pdf)
 - [HAS. Cancer de la vessie. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_969326/fr/ald-n-30-cancer-de-la-vessie)
