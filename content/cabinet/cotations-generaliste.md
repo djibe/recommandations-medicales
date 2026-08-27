@@ -5,14 +5,14 @@ description = "Aide à la cotation des consultations en médecine générale: co
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2026-06-16"
+lastmod = "2026-08-28"
 annees = "2026"
 sources = ["Assurance Maladie"]
 tags = []
 image = true
 imageSrc = "unDraw"
 style = "thead > tr > th:first-of-type {width: 110px}"
-todo = "GL1, GL2, GL3 | FS exemple frottis, jour férié, routexl, MPH aussi quand change de MT ?"
+todo = "FS exemple frottis, jour férié, routexl, MPH aussi quand change de MT ?"
 +++
 
 Liste des codes pour les actes et les consultations des adultes et des enfants en médecine générale.
@@ -22,7 +22,9 @@ Liste des codes pour les actes et les consultations des adultes et des enfants e
 
 - La spirométrie (GLQP012 41,08 €) peut être couplée à la consultation (G)
 - COE à 60 €
-- Nouvelles consultations GL1, GL2 et GL3 (détail à venir)
+- Nouvelles consultations longues pour les +80 ans GL1 (sortie d'hospit dans les 45j), GL2 (déprescription d'ordo ≥ 10 lignes) et GL3 (dossier APA), 60 €, 1 fois par an
+
+{{%collapse "Autres mises à jour" %}}
 
 ## Les nouvelles cotations en 2025
 
@@ -33,6 +35,8 @@ Liste des codes pour les actes et les consultations des adultes et des enfants e
 - Majoration MOP de 5 € pour les +80 ans qui ne font pas partie de la patientèle (valable en (télé)consultation ou visite)
 - La cotation RDV (30 €) est à 100 % pour le [rendez-vous de prévention]({{% relref "bilan-prevention.md" %}}) à réaliser à 18-25, 45-50, 60-65 et 70-75 ans (1 fois par tranche d'âge)
 - Le G passé à 30 € le 22 décembre (GS disparu; 23 € en Secteur 2), le COE à 54 €
+
+{{% /collapse %}}
 
 ## Les outils d'aide à la cotation du généraliste
 
@@ -73,6 +77,9 @@ Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 | RQD       | Demande de téléexpertise (FSE Sesam sans vitale dédiée en TP AMO)                             |             10 |
 | MPH       | Premier remplissage du dossier MDPH ou APA de la personne avec handicap                       |             60 |
 | IMT       | Déclaration MT d'un patient en ALD 30 (à 100 %). Cocher Nouveau médecin traitant sur la FS    |             60 |
+| GL1       | Consultation longue du +80 ans sortant d'hospitalisation (sous 45j, max 1/an par le MT)       |             60 |
+| GL2       | Consultation longue de déprescription du +80 ans polymédiqué (≥ 10 lignes, max 1/an par le MT) |            60 |
+| GL3       | Remplissage du dossier d'APA du +80 ans (max 1/an par le MT, GL3 ou MPH sur l'année)          |             60 |
 | CCP       | 1^re^ consultation contraception avant 26 ans (à 100 %, anonymisable)                         |           47,5 |
 | CTE       | Consultation repérage trouble neurodéveloppement ou de la relation précoce parents-enfants    |             60 |
 | G         | Consultation contraception annuelle avant 26 ans (à 100 % en EXO3)                            |             30 |
