@@ -128,7 +128,7 @@ Recommandations pour la prise en charge de l'otite externe:
 
 - **Antibiothérapie auriculaire:** Antibio synalar®, Auricularum®, [Ciloxadex®](https://base-donnees-publique.medicaments.gouv.fr/medicament/68601502/extrait#tab-rcp), Framyxone®, [ofloxacine instillations](https://base-donnees-publique.medicaments.gouv.fr/medicament/66256370/extrait#tab-rcp) (traitement de référence selon Prescrire®), Panotile® ou Polydexa®.
   - Pendant 5 à 10 jours
-  - Si **perforation tympanique**, tympan non vu ou grossesse ([CRAT](https://www.lecrat.fr/6625/)): ofloxacine (Ciloxadex®, générique) uniquement
+  - Si **perforation tympanique**, tympan non vu ou grossesse ([CRAT](https://www.lecrat.fr/6625/)): ofloxacine seule uniquement
   - Si **otomycose**: aspiration des sécrétions, nystatine associée [Auricularum](https://base-donnees-publique.medicaments.gouv.fr/medicament/66592652/extrait#tab-rcp) 5-10 gouttes x 2/j pendant 15 jours (21 jours si nécessaire -- *SFORL 2001*)
 - **Antalgie:** palier 1 voire 2, voire AINS (*AAO-HNS*)
 - Ablation de tout dépôt du conduit auditif: débris inflammatoire, cérumen, corps étranger
