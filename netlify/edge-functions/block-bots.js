@@ -2,6 +2,7 @@
 // inspired (and taken) from ethan marcotte's blog post: https://ethanmarcotte.com/wrote/blockin-bots/
 // Watch: Observer
 const botUas = [
+  '20100101',
   '.fr crawler',
   'AchylBot',
   'AgentTimes',
@@ -15,11 +16,6 @@ const botUas = [
   'AwarioSmartBot',
   'AzureAI-SearchBot',
   'axios',
-  'Claude-SearchBot',
-  'Claude-User',
-  'Claude-User/',
-  'Claude-Web',
-  'ClaudeBot',
   'Clinicia-Medical-Assistant',
   'CopyousBot',
   'curl',
@@ -43,7 +39,6 @@ const botUas = [
   'LinkupBot',
   'MachineWitnessBot',
   'Manus-User',
-  'MistralAI-Index',
   'MJ12bot',
   'node',
   'okhttp',
@@ -74,16 +69,13 @@ export default async (request, context) => {
     return context.next();
   }
 
-  const forbiddenBots = ['ChatGPT', 'ChatGPT-User', 'Claude-User', 'ClaudeBot', 'Google-NotebookLM', 'GPTBot', 'OAI-SearchBot'];
+  const forbiddenBots = ['ChatGPT', 'ChatGPT-User', 'Claude-User', 'ClaudeBot', 'Claude-SearchBot', 'Claude-Web', 'Google-NotebookLM', 'GPTBot', 'MistralAI-Index', 'OAI-SearchBot'];
   const isForbiddenBot = forbiddenBots.some(u =>
     ua.toLowerCase().includes(u.toLowerCase())
   );
 
   if (isForbiddenBot) {
-    return new Response('403 Forbidden: AI bots are not permitted.', {
-      status: 403,
-      headers: { 'content-type': 'text/plain' }
-    });
+    return new Response(null, { status: 403 });
   }
 
   const isBot = botUas.some(u =>
