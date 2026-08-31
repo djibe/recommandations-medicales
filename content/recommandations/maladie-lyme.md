@@ -333,8 +333,8 @@ L'antibiothérapie de référence de l'érythème migrant est la **doxycycline**
 
 Recommandations pour la prise en charge de l'érythème migrans après piqûre de tique:
 
-- Auto-surveillance de la lésion pendant 1 et consultation si persistance  
-  Persistance à 1 mois: observance de l'antibiotique, étude d'un diagnostic différentiel, **avis dermatologique**.
+- Auto-surveillance de la lésion pendant 1 mois et consultation si persistance  
+  En cas de persistance à 1 mois: vérifier l'observance de l'antibiotique, rechercher un diagnostic différentiel et demander un **avis dermatologique**.
 - Photos avant et évolution sous traitement  
 
 {{%info%}}
