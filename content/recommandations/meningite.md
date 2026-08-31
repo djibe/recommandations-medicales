@@ -147,7 +147,7 @@ Prévention primaire de la méningite bactérienne: [vaccinations]({{% relref "v
 
 ### Vaccin pneumocoque
 
-3 doses de Prevenar13® ou Vaxneuvance® de tous les nourrissons à M2, M4 et rappel à 11 mois. Rattrapage jusqu'à 23 mois.
+4 doses de Prevenar 20® de tous les nourrissons à M2, M4, M6 et rappel à 11 mois. Rattrapage jusqu'à 23 mois.
 
 Pas de vaccination anti-pneumococcique autour d'un cas de méningite bactérienne à pneumocoque.
 

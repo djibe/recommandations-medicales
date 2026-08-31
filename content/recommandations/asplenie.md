@@ -193,19 +193,16 @@ Vaccin [ACT-HIB®](https://base-donnees-publique.medicaments.gouv.fr/medicament/
 Schéma de la vaccination anti-pneumococcique chez l'asplénique:
 
 - **Nourrisson < 2 ans:**
-  - 7-11 mois non vaccinés: 2 doses de Prevenar13/Vaxneuvance à 2 mois d'intervalle, avec 1 dose de rappel à 1 an
-  - 12-23 mois non vaccinés: 2 doses de Prevenar13/Vaxneuvance à ≥ 2 mois d'intervalle
-  - Prématurés et nourrissons à risque élevé d'IP: 1 dose de Prevenar13/Vaxneuvance à l'âge de 2 mois, 3 mois et 4 mois, avec rappel à 11 mois
-- **Enfant 2-5 ans à risque élevé d'IP:**
-  - Enfants antérieurement vaccinés par Prevenar13/Vaxneuvance (avant 24 mois): une dose de Pneumovax ≥ 2 mois après la précédente dose de vaccin conjugué.
-  - Enfants non vaccinés: 2 doses de Prevenar13/Vaxneuvance à 2 mois d'intervalle, avec 1 dose de Pneumovax au moins deux mois après la dernière dose
+  - 7-11 mois non vaccinés: 2 doses de ==Prevenar 20®== (≥ 4 semaines d'intervalle), avec 1 dose de rappel durant le 2e année
+  - 12-23 mois non vaccinés: 2 doses de Prevenar 20® (≥ 8 semaines d'intervalle)
+  - Prématurés et nourrissons à risque élevé d'IP: 1 dose de Prevenar 20® à l'âge de 2 mois, 3 mois, 4 mois et 6 mois, avec rappel à 11 mois
+- **Enfant 2-4 ans à risque élevé d'IP:**  
+  Dose unique de Prevenar 20®
 - **Enfants 5-17 ans à risque élevé d'IP:**
-  - Non vaccinés: 1 dose de Prevenar13/Vaxneuvance avec 1 dose de Pneumovax ≥ 2 mois après
-  - Vaccinés avec la séquence Prevenar13/Vaxneuvance-Pneumovax: 1 nouvelle injection de Pneumovax au moins 5 ans après la dernière
-  - Vaccinés avec le Pneumovax: 1 injection de Prevenar13/Vaxneuvance si la vaccination antérieure remonte à +1 an; 1 injection ultérieure de Pneumovax ≥ 5 ans après le dernier Pneumovax
-- **Adulte:**
-  - À risque élevé d'IP n'ayant reçu qu'1 dose de Prevenar13/Pneumovax: dose unique de Prevenar20/Capvaxive (≥ 1 an après la dernière dose).
-  - À risque élevé d'IP vaccinés par la séquence Prevenar13-Pneumovax: 1 dose Prevenar20/Capvaxive (≥ 5 ans après la dernière dose)
+  - Non vaccinés: consignes non précisées par la HAS 2026
+  - Vaccinés: dose unique de Prevenar 20® (≥ 8 semaines après la précédente dose de vaccin IP)
+- **+18 ans à risque élevé d'IP, +65 ans:**  
+  Dose unique de ==Capvaxive®== (≥ 1 an après la dernière dose)
 
 > [!INFO]
 > << Il n'existe aucune contre-indication vaccinale chez les sujets aspléniques >> (sauf les vaccins vivants en cas d'immunosuppression). -- *HCSP 2014*

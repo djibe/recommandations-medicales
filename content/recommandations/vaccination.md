@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2026-05-03"
+lastmod = "2026-08-31"
 specialites = ["infectiologie", "pédiatrie", "thérapeutique"]
 annees = "2026"
 sources = ["MinSanté", "HAS", "HCSP"]
@@ -18,6 +18,8 @@ sctid = "33879002"
 icd10 = []
 image = true
 imageSrc = "La vaccination. Freepik"
+rank = "false"
+writing = "false"
 todo = "nb max vaccins d'un coup, HAS EMLA, Vaccins cancer, texte SEO, choc anaphylactique, Rattrapage vaccinal https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Rattrapages, https://publications.aap.org/pediatrics/article/150/3/e2021056007/188497/Value-of-the-Immunization-Program-for-Children-in"
 +++
 
@@ -63,12 +65,12 @@ VVA
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 | :--------: | ---------------------------------------------------- | ------------------------------------------------------------------------- |
 | Né après<br>la campagne précédente<br>(remb. du 14/9 au 28/2) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
-|   2 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus<br>± {{< modal-btn modal-bcg-indications >}}Tuberculose{{< /modal-btn >}} | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 1/3, Rotarix 1/2<br>± BCG en PMI |
-|   3 mois   | Méningo B<br>Rotavirus<br>—<br>Prématuré:<br>+ Pneumo 13/15<br>+ hexavalent (*GPIP*) | Bexsero 1/3<br>RotaTeq 2/3, Rotarix 2/2<br>—<br><br>Prevenar 13, Vaxneuvance<br><br> |
-|   4 mois   | DTCaP-Hib-HB<br>Pneumo 13/15<br>Rotavirus            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance<br>RotaTeq 3/3 |
+|   2 mois   | DTCaP-Hib-HB<br>Pneumo 20<br>Rotavirus<br>± {{< modal-btn modal-bcg-indications >}}Tuberculose{{< /modal-btn >}} | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 20<br>RotaTeq 1/3, Rotarix 1/2<br>± BCG en PMI |
+|   3 mois   | Méningo B<br>Rotavirus<br>—<br>Prématuré:<br>+ Pneumo 20<br>+ hexavalent (*GPIP*) | Bexsero 1/3<br>RotaTeq 2/3, Rotarix 2/2<br>—<br><br>Prevenar 20<br><br> |
+|   4 mois   | DTCaP-Hib-HB<br>Pneumo 20<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 20<br>RotaTeq 3/3              |
 |   5 mois   | Méningo B                                            | Bexsero 2/3                                                               |
-|   6 mois   | Méningo ACWY                                         | Nimenrix                                                                  |
-|  11 mois   | DTCaP-Hib-HB<br>Pneumo 13/15                         | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 13, Vaxneuvance                |
+|   6 mois   | Méningo ACWY<br>Pneumo 20                            | Nimenrix<br>Prevenar 20                                                   |
+|  11 mois   | DTCaP-Hib-HB<br>Pneumo 20                            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 20                             |
 |  12 mois   | Méningo ACWY<br>Méningo B<br>ROR                     | MenQuadfi, Nimenrix<br>Bexsero 3/3<br>MMRvaxPro, Priorix                  |
 | 16-18 mois | ROR                                                  | MMRvaxPro, Priorix                                                        |
 |   6 ans    | DTCaPolio                                            | ~~InfanrixTetra~~, Tetravac-acellulaire                                   |
@@ -77,7 +79,7 @@ VVA
 | 15-24 ans  | Méningo B (proposé)                                  | Bexsero, Trumenba                                                         |
 |   25 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
 |   45 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
-|  +65 ans   | dTcaPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Pneumo 20 + Zona | BoostrixTetra, Repevax<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>Prevenar 20, Capvaxive + Shingrix M0-M2 |
+|  +65 ans   | dTcaPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Pneumo 21 + Zona | BoostrixTetra, Repevax<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>Capvaxive + Shingrix M0-M2 |
 |  +75 ans   | + VRS annuel (NR)                                    | Arexvy, Abrysvo, mRESVIA                                                  |
 | [Grossesse]({{% relref "grossesse.md" %}}) | Coqueluche, Covid, grippe, VRS | BoostrixTetra, Repevax, Abrysvo ...                             |
 | Médecin généraliste | Covid-19, grippe, ROR,<br>varicelle, VHB    |                                                                           |
@@ -310,6 +312,7 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Révision de la stratégie de vaccination contre les infections invasives à pneumocoques - Place des vaccins à haute valence PREVENAR 20 chez les nourrissons, les enfants et les adultes, et CAPVAXIVE chez les adultes. 2026.](https://www.has-sante.fr/jcms/p_3601959/fr/revision-de-la-strategie-de-vaccination-contre-les-infections-invasives-a-pneumocoques-place-des-vaccins-a-haute-valence-prevenar-20-chez-les-nourrissons-les-enfants-et-les-adultes-et-capvaxive-chez-les-adultes)
 - [Davies S. Effectiveness of interventions to increase vaccine uptake: component network meta-analysis. BMJ. 2026.](https://www.bmj.com/content/393/bmj-2025-087578)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Stratégie de vaccination contre les infections invasives à pneumocoques : Place du vaccin CAPVAXIVE chez l'adulte. 2025.](https://www.has-sante.fr/jcms/p_3634637/fr/strategie-de-vaccination-contre-les-infections-invasives-a-pneumocoques-place-du-vaccin-capvaxive-chez-l-adulte)
