@@ -2,7 +2,6 @@
 // inspired (and taken) from ethan marcotte's blog post: https://ethanmarcotte.com/wrote/blockin-bots/
 // Watch: Observer
 const botUas = [
-  '20100101',
   '.fr crawler',
   'AchylBot',
   'AgentTimes',
