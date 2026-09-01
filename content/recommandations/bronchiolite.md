@@ -33,8 +33,8 @@ todo = "SpO2 selon l'âge, https://www.revmed.ch/revue-medicale-suisse/2005/revu
 - Critères d'hospitalisation de la bronchiolite: voir *Signes de gravité et hospitalisation*
 - La dyspnée dure de 3 à 10 jours (voire 6 semaines)
 - Recommandations de prise en charge de la bronchiolite: éviction en phase aiguë - DRP - fractionner les repas - surveillance - aucune exposition au tabac
-- Prévention de la bronchiolite: mesures barrières, injection IM d'anticorps **nirsévimab** Beyfortus® avant la sortie de maternité (plus efficace) ou vaccin anti-VRS en fin de grossesse de septembre à fin janvier (ou février). Rattrapage pour ceux nés après le 1^er^ février avec 1 seule injection selon le poids (voir *[Prévention](#prévention-de-la-bronchiolite))* en l'absence de test VRS positif
-- Chez les nourrissons à risque d'infection sévère, les anticorps monoclonaux (Beyfortus ou Synagis) sont renouvelés durant leur 2^e^ saison épidémique
+- Prévention de la bronchiolite: mesures barrières, injection IM d'anticorps anti-VRS (Beyfortus®, Enflonsia®) avant la sortie de maternité (plus efficace) ou vaccin anti-VRS en fin de grossesse de septembre à fin janvier (ou février). Rattrapage pour ceux nés après le 1^er^ février avec 1 seule injection selon le poids (voir *[Prévention](#prévention-de-la-bronchiolite))* en l'absence de test VRS positif
+- Chez les nourrissons à risque d'infection sévère, les anticorps monoclonaux (Beyfortus, Enflonsia ou Synagis) sont renouvelés durant leur 2^e^ saison épidémique
 
 Information: [guide des conseils aux parents de la HAS (PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf).
 
@@ -241,8 +241,8 @@ Indications à la radiographie thoracique devant un épisode évocateur de bronc
 
 Recommandations pour la prévention de la bronchiolite:
 
-- Vaccination anti-VRS pendant la grossesse (voir section plus bas)  
-  ou immunoglobulines anti-VRS Beyfortus® à défaut (voir plus bas)
+- Vaccination anti-VRS pendant la grossesse  
+  ou immunoglobulines anti-VRS Beyfortus®/Enflonsia® (voir plus bas)
 - [Allaitement maternel]({{% relref "allaitement.md" %}})
 - Retarder la mise en collectivité
 - Nourrisson à haut risque de forme grave: ne pas fréquenter la collectivité en période épidémique
@@ -260,7 +260,7 @@ Recommandations pour la prévention de la bronchiolite:
 
 [Guide info vaccination VRS HAS (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2025-08/bronchiolite_comment_proteger_votre_futur_bebe_dune_forme_grave_-_actualisation_aout_2025.pdf)
 
-Le vaccin **anti-VRS Abrysvo** est recommandé en fin de grossesse entre 32 et 36 SA de septembre à janvier. Aucune dose ultérieure lors des grossesses suivantes. Le vaccin est moins efficace que les anticorps monoclonaux ([ANSM](https://ansm.sante.fr/actualites/prevention-des-hospitalisations-pour-bronchiolite-chez-le-nouveau-ne-beyfortus-montre-une-efficacite-superieure-a-celle-offerte-par-abrysvo)).
+Le vaccin **anti-VRS Abrysvo** est recommandé en fin de grossesse entre **32** et 36 SA (privilégier 32 SA -- *Infovac*) de septembre à janvier. Aucune dose ultérieure lors des grossesses suivantes. Le vaccin est moins efficace que les anticorps monoclonaux ([ANSM](https://ansm.sante.fr/actualites/prevention-des-hospitalisations-pour-bronchiolite-chez-le-nouveau-ne-beyfortus-montre-une-efficacite-superieure-a-celle-offerte-par-abrysvo)).
 
 Il peut être co-administré avec les vaccins **grippe et Covid-19** mais doit être espacé de 2 semaines avec la rappel de coqueluche.
 
@@ -272,15 +272,15 @@ Hors grossesse, le vaccin anti-VRS est recommandé à partir de **75 ans** ou ch
 
 ### Anticorps monoclonaux anti-VRS
 
-#### Nirsévimab (Beyfortus®)
+#### Clesrovimab (Enflonsia®) Nirsévimab (Beyfortus®)
 
 Indications à la prévention de la bronchiolite par une immunisation passive avec l'anticorps monoclonal nirsévimab:
 
 - Pour 2026-2027: la **campagne** s'étale du 14 septembre 2026 au 28 février 2027
   Au mieux avant la sortie de maternité (rattrapage en ville sinon).
-- Pour tous les nourrissons nés depuis février 2025 sauf vaccination maternelle anti-VRS
-- Une seule injection IM de nirsévimab (Beyfortus® ou Synagis® si prématuré ou nourrisson à haut risque -- renouvelé la 2^e^ année chez ces sujets)
-- ==De 0,5 mL (50 mg) pour les moins de 5 kg de poids puis 1 mL (100 mg) au-delà==
+- Pour tous les nourrissons nés depuis la fin de la campagne anti-VRS (février 2026) sauf vaccination maternelle anti-VRS
+- Une seule injection IM (Synagis® si prématuré ou nourrisson à haut risque, renouvelé la 2^e^ année chez ces sujets)
+- Entière pour Enflonsia®, Beyfortus® selon l'âge: ==0,5 mL (50 mg) pour les moins de 5 kg de poids puis 1 mL (100 mg) au-delà==
 - Dans la face antéro-latérale de **cuisse**
 - Le même jour que des vaccins ou anticorps si besoin (mais administrés sur d'autres sites)
 - **Contre-indiquée** uniquement en cas d'infection **documentée** à VRS ou d'hypersensibilité connue à un des composants du produit
@@ -288,9 +288,9 @@ Indications à la prévention de la bronchiolite par une immunisation passive av
 - Avec mention dans le Carnet de santé à la section << Statut clinique ou immunitaire pour les maladies à prévention vaccinale >>
 - Par un généraliste, pédiatre (~~sage-femme~~ ou infirmier sur prescription)
 - Effets indésirables possibles: rash, induration, fièvre
-- Remboursé à 30 % (401,80 €)
+- Remboursé
 
-Le nirsévimab est efficace au moins 5 mois.
+Les anticorps sont efficaces au moins 5 mois.
 
 #### Autres immunoglobulines anti-VRS
 

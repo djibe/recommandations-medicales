@@ -62,9 +62,14 @@ VVA
 {{% /collapse %}}
 {{%collapse "Calendrier vaccinal 2026" "show" %}}
 
+> Enfant né depuis janvier 2023: ==rattrapage obligatoire des méningites B et ACWY== (et recommandés jusqu'à 4 ans révolus, même si 2 doses de Neisvac reçues).
+
+> [!INFO]
+> En cas de difficultés (temporaires) de remboursement du Prevenar 20, continuer avec le Prevenar 13/Vaxneuvance.
+
 |    Âge     | Valences                                             | Spécialités équivalentes                                                  |
 | :--------: | ---------------------------------------------------- | ------------------------------------------------------------------------- |
-| Né après<br>la campagne précédente<br>(remb. du 14/9 au 28/2) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus au mieux avant la sortie de maternité |
+| Né après<br>la campagne précédente<br>(remb. du 14/9 au 28/2) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus/Enflonsia au mieux avant la sortie de maternité |
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 20<br>Rotavirus<br>± {{< modal-btn modal-bcg-indications >}}Tuberculose{{< /modal-btn >}} | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 20<br>RotaTeq 1/3, Rotarix 1/2<br>± BCG en PMI |
 |   3 mois   | Méningo B<br>Rotavirus<br>—<br>Prématuré:<br>+ Pneumo 20<br>+ hexavalent (*GPIP*) | Bexsero 1/3<br>RotaTeq 2/3, Rotarix 2/2<br>—<br><br>Prevenar 20<br><br> |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 20<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 20<br>RotaTeq 3/3              |
@@ -85,7 +90,7 @@ VVA
 | Médecin généraliste | Covid-19, grippe, ROR,<br>varicelle, VHB    |                                                                           |
 {caption="Calendrier des vaccins et anticorps recommandés en France en 2026. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention *NR*. Dr JB Fron d'après *Calendrier vaccinal 2026*, *HAS 2025.0040/AC/SESPEV*, *HAS 2025* et *2024*, DGS Urgent 2025-15." class="table-wrap"}
 
-> Les consultations à 25, 45, 65 et 75 ans sont gratuites avec la **cotation RDV** (30€).
+> Les consultations à 25, 45, 65 et 75 ans sont gratuites avec la **cotation RDV** (30 €).
 
 {{< card-link-external title="Disponibilité des vaccins" url="https://www.infovac.fr/vaccins/disponibilite-des-vaccins" subtitle="Par Infovac">}}
 

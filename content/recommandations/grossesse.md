@@ -198,8 +198,7 @@ const chartOptions3 = {
 - **Vaccinations**
   - Covid-19 et grippe d'octobre à janvier (possibles quel que soit le terme)
   - Coqueluche entre 20 et 36 SA à chaque grossesse
-  - Anti-VRS par Abrysvo une seule fois si terme de 32 à 36 SA de septembre à janvier  
-    ou Beyfortus chez le nouveau-né à défaut.
+  - Abrysvo une seule fois si terme de 32 à 36 SA de septembre à janvier (à défaut d'anticorps anti-VRS Beyfortus/Enflonsia chez le nouveau-né)
   - Avant la grossesse: rattrapage rubéole et varicelle
 - **Activité physique**  
   30 minutes à 1 heure d'intensité modérée à intense au moins 5 jours par semaine, sédentarité < 7 heures/j (*CNSFF*).
@@ -214,7 +213,7 @@ const chartOptions3 = {
 | 5e mois<br>20-24 SA | | {{%tooltip "22 SA (20-25)"%}}Écho T2{{%/tooltip%}} | Vaccin coqueluche |
 | 6e mois<br>24-28 SA | | {{%tooltip "L'USPTF trouve le dépistage inutile si asymptomatique"%}}NFS{{%/tooltip%}}, AgHBs, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}} | ± Rattrapage coqueluche |
 | 7e mois<br>28-32 SA | | {{%tooltip "32 SA (30-35)"%}}Écho T3{{%/tooltip%}} | {{%tooltip "28 SA: si mère RH-1- et fœtus RH-1+"%}}± Rhophylac® 300{{%/tooltip%}} ± Rattrapage coqueluche |
-| 8e mois<br>32-37 SA | | {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, {{%tooltip "Entre 35 et 38 SA"%}}prélèvement vaginal (strepto B){{%/tooltip%}}, chir bariatrique: {{%tooltip "Échographie supplémentaire à 37 SA"%}}écho{{%/tooltip%}} | VitD 100.000 UI, {{%tooltip "Du 14/9 au 28/2"%}}Abrysvo{{%/tooltip%}}, ± rattrapage coqueluche, ± {{%tooltip "Herpès génital pdt la gs"%}}valaciclovir{{%/tooltip%}} |
+| 8e mois<br>32-37 SA | | {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, {{%tooltip "Entre 35 et 38 SA"%}}prélèvement vaginal (strepto B){{%/tooltip%}}, chir bariatrique: {{%tooltip "Échographie supplémentaire à 37 SA"%}}écho{{%/tooltip%}} | VitD 100.000 UI, {{%tooltip "Du 14/9 au 28/2, 32 SA ++"%}}Abrysvo{{%/tooltip%}}, ± rattrapage coqueluche, ± {{%tooltip "Herpès génital pdt la gs"%}}valaciclovir{{%/tooltip%}} |
 | 9e mois<br>37-42 SA | | | |
 {caption="Suivi simplifié de la grossesse. Dr JB Fron d'après *HAS* et *Collège*" class="table-wrap"}
 
