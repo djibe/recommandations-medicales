@@ -1,9 +1,9 @@
 +++
 id = "0190e8c6-4ec2-7d50-86f6-d37293ff8ba6"
-title = "Infections urinaires communautaires : cystite, pyélonéphrite et infection urinaire masculine"
-prefix = "les "
-titleSeo = "Infections urinaires pyélonéphrite"
-description = "Recommandations pour la prise en charges des infections urinaires: colonisation urinaire, cystite, pyélonéphrite et infection urinaire masculine ..."
+title = "Infection urinaire de la femme : cystite, pyélonéphrite"
+prefix = "l'"
+titleSeo = "Infection urinaire de la femme: cystite, pyélonéphrite"
+description = "Recommandations pour la prise en charges des infections urinaires: colonisation urinaire, cystite, pyélonéphrite. BU et ECBU, antibiothérapie ..."
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-10T13:36:06+02:00"
@@ -15,7 +15,7 @@ sources = ["HAS", "SPILF"]
 tags = ["douleur pelvienne", "fièvre", "grossesse"]
 english = ["Urinary tract infections"]
 sctid = "68566005"
-icd10 = ["N39.0", "N10", "N11", "N12", "N30", "N30.0", "N30.9", "N41", "R39.8"]
+icd10 = ["N39.0", "N10", "N11", "N12", "N30", "N30.0", "N30.9"]
 image = true
 imageSrc = "Illustration des infections urinaires par Freepik"
 flowchart = true
@@ -24,7 +24,7 @@ todo = "flowchart Figure 1 et 5, revoir uroscanner p. 23, améliorer pec ECBU+, 
 
 {{%article-summary%}}
 
-Recommandations pour le traitement des infections urinaires communautaires de l'adulte à partir de 16 ans:
+Recommandations pour le traitement des infections urinaires communautaires de la femme pubère:
 
 - Préciser sur l'ECBU la suspicion clinique (cystite, pyélonéphrite)
 - **Colonisation urinaire**  
@@ -32,20 +32,19 @@ Recommandations pour le traitement des infections urinaires communautaires de l'
 - **Cystite aiguë simple**
   - Fosfomycine trométamol 3g dose unique
   - De 16 à 65 ans, la BU et la délivrance d'antibiotique peuvent être réalisés directement par le pharmacien formé (*[Service-Public](https://www.service-public.gouv.fr/particuliers/actualites/A17229)*)
-- **Cystite aiguë à {{< modal-btn modal-fdr-complication >}}risque de complication{{< /modal-btn >}} ou infection urinaire masculine pauci-symptomatique**  
+- **Cystite aiguë à {{< modal-btn modal-fdr-complication >}}risque de complication{{< /modal-btn >}}**  
   Privilégier si possible un traitement différé adapté à l'antibiogramme.
 - **Pyélonéphrite aiguë simple**  
   Vérifier les critères d'hospitalisation, ECBU en urgence puis ciprofloxacine 500 mg x 2/j et réadaptation avec l'antibiogramme.
 - **Pyélonéphrite avec {{< modal-btn modal-fdr-complication >}}facteur de risque de complication{{< /modal-btn >}} sans signe de gravité**  
   Bilan biologique, uroscanner et antibiothérapie probabiliste identique à la PNA simple.
-- **Infection urinaire masculine** (voir section dédiée plus bas)
 - **Infection urinaire pendant la grossesse**
   - BU mensuelle à partir du 4^e^ mois pour toutes (ou ECBU mensuel en cas d'antécédent d'IU pendant la grossesse, uropathie, diabète, antécédent de cystites récidivantes)
   - Colonisation urinaire: antibiothérapie d'emblée adaptée et ECBU de contrôle J8-J10
   - Cystite: ECBU, antibiothérapie probabiliste puis ECBU de contrôle et mensuel
   - Pyélonéphrite: *Urgences*
 
-Chapitres liés: [infections urinaires chez l'enfant]({{% relref "infection-urinaire-enfant.md" %}}), [infections génitales de l'homme]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}}) et [urétrite de la femme]({{% relref "uretrite-vaginite.md" %}})
+Chapitres liés: [infections urinaires de l'homme]({{% relref "infection-urinaire-homme.md" %}}) et de [l'enfant]({{% relref "infection-urinaire-enfant.md" %}}), [urétrite de la femme]({{% relref "uretrite-vaginite.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "BU et ECBU" %}}
@@ -63,7 +62,7 @@ Devant des signes évocateurs d'infection urinaire (IU) chez l'immunocompétent 
 
 **Indications à l'ECBU:** toute suspicion clinique d'infection urinaire sauf cystite simple ou colonisation urinaire nécessitant un traitement (grossesse ou geste urologique programmé).
 
-L'ECBU est réalisé avant l'antibiothérapie, sur milieu de jet (décalottage chez l'homme, toilette et écartement des lèvres chez la femme).
+L'ECBU est réalisé avant l'antibiothérapie, sur milieu de jet (toilette et écartement des lèvres chez la femme).
 
 **NB.** Conservation possible des urines 12 heures à 4°C. -- *Collège*
 
@@ -87,10 +86,10 @@ Bactéries contaminantes: *Lactobacillus*, *Gardnerella vaginalis*, Streptocoque
 > [!INFO]
 > << les seuils sont donnés à titre indicatif; en cas de discordance entre un tableau clinique évident d'infection urinaire et une bactériurie ou leucocyturie inférieure au seuil, c'est le tableau clinique prime >>. -- *HAS, SPILF 2024*
 
-| Bactérie                                                                                              | Seuil femme (≥ UFC/mL) | Seuil homme |
-| ----------------------------------------------------------------------------------------------------- | ---------------------: | ----------: |
-| *E. coli*, *S. saprophyticus*                                                                         |                    10³ |         10³ |
-| Entérobactérie autre que *E. coli*,<br>entérocoque, *C. urealyticum*,<br>*P. aeruginosa*, *S. aureus* |                  10^4^ |         10³ |
+| Bactérie                                                                                              | Seuil femme (≥ UFC/mL) |
+| ----------------------------------------------------------------------------------------------------- | ---------------------: |
+| *E. coli*, *S. saprophyticus*                                                                         |                    10³ |
+| Entérobactérie autre que *E. coli*,<br>entérocoque, *C. urealyticum*,<br>*P. aeruginosa*, *S. aureus* |                  10^4^ |
 {caption="Seuils de bactériurie à l'ECBU selon le germe et le sexe pour le diagnostic d'infection urinaire selon *SPILF 2018*"}
 
 {{% /collapse %}}
@@ -203,7 +202,7 @@ Prophylaxie des cystites récidivantes:
 {{% /collapse %}}
 {{%collapse "Pyélonéphrite aiguë de la femme" %}}
 
-Cette section concerne uniquement la femme non enceinte (la femme enceinte et l'homme ont une section dédiée).
+Cette section concerne uniquement la femme non enceinte.
 
 Pyélonéphrite aiguë (PNA)
 : Infection urinaire le plus souvent bactérienne atteignant le rein, l'ECBu est systématique.
@@ -312,64 +311,14 @@ Prise en charge initiale aux *Urgences gynécologiques* pour une pyélonéphrite
 Ensuite **ECBU mensuel** jusqu'à l'accouchement.
 
 {{% /collapse %}}
-{{%collapse "Infections urinaires de l'homme" %}}
+{{%collapse "Prise en charge de la pyélonéphrite aiguë" "show" %}}
 
-Cystite aiguë de l'homme
-: Signes fonctionnels urinaires en l'absence de fièvre. Elle est réintroduite en France par la SPILF en décembre 2025 (*Info-antibio N°107*).
-
-Infection urinaires masculine (IU masculine)
-: *ex prostatite*, trop réductrice (prostatite, pyélonéphrite aiguë). Symptômes évocateurs: [douleurs pelviennes](/tags/douleur-pelvienne/), périnéales, urétrales ou rectales intenses indépendantes de la miction, dysurie, rétention d'urines, douleurs lombaires, signes généraux.
-: **Bandelette urinaire conseillée et ECBU systématique**. Positive, la BU conforte la suspicion diagnostique (une BU négative ne permet pas d'éliminer le diagnostic).
-: Premier épisode, rechercher une uropathie: pollakiurie, miction impérieuse, diminution de la force du jet, nycturie, dysurie ou anomalie au toucher rectal.
-: Les critères d'hospitalisation sont ceux de la pyélonéphrite.
-: Hémocultures si fièvre. Le PSA peut être perturbé jusqu'à 6 mois après l'infection.
-: Échographie des voies urinaires sous 24h si sepsis grave, suspicion de rétention ou de lithiase.  
-Sinon avec mesure du résidu post-mictionnel, dès le 2^e^ épisode ou en cas de suspicion d'anomalie des voies urinaires (+50 ans).
-
-### Cystite aiguë de l'homme
-
-En cas de cystite aiguë masculine (*Info-antibio N°107*):
-
-1. Fosfomycine trométamol 3g à J1, J3 et J5
-
-### Infection urinaire de l'homme symptomatique
-
-Recommandations en cas de signes généraux ou de douleurs de type prostatite.
-
-{{%info%}}
-Prise en charge par antibiothérapie probabiliste d'une infection urinaire masculine très symptomatique:
-
-1. Ciprofloxacine 500 mg x 2/j ou lévofloxacine 500 mg/j  
-  Sauf fluoroquinolone dans les 6 mois.
-2. Ceftriaxone IM 1 g/j (2g si obèse)
-3. Hospitalisation
-{{%/info%}}
-
-Adaptation à l'antibiogramme dès le rendu des résultats:
-
-1. Ciprofloxacine 500 mg x 2/j ou lévofloxacine 500 mg/j ou ofloxacine 200 mg x 2/j pendant 14 jours
-2. Cotrimoxazole 800/160 mg x 2/j pendant 14 jours
-3. Ceftriaxone IM 1 g/j pendant 14 jours (2g si obèse)
-4. Entérobactérie productrice d'E-BLSE
-    1. Ciprofloxacine ou lévofloxacine ou ofloxacine
-    2. Cotrimoxazole
-    3. Hospitalisation
-
-> -- *SPILF 2018*
-
-Traitement prolongé 21 jours si uropathie non corrigée ou autre antibiotique.
-
-{{% /collapse %}}
-{{%collapse "Prise en charge des infections urinaires" "show" %}}
-
-{{< mermaid title="Prise en charge d'une pyélonéphrite en ambulatoire. Dr JB Fron d'après HAS/SPILF 2025. L'ECBU est systématique" >}}
+{{< mermaid title="Prise en charge d'une pyélonéphrite aiguë de la femme pubère en ambulatoire. Dr JB Fron d'après HAS/SPILF 2025. L'ECBU est systématique" >}}
 graph TB
   pna["Pyélonéphrite aiguë (PNA)"] --> gravite("Gravité, grossesse ou obstacle ?<br>- qSOFA ≥ 2<br>- Choc septique")
-  gravite -- Non --> homme(Homme ?)
-    homme -- Non --> complication("<b>Facteur de risque<br>de complication ?</b><br>—<br>- +75 ans<br>- +65 ans avec 3 fragilités<br>- Uropathie<br>- Acte urologique récent<br>- IRC sévère<br>- Immunodépression grave")
+  gravite -- Non --> complication("<b>Facteur de risque<br>de complication ?</b><br>—<br>- +75 ans<br>- +65 ans avec 3 fragilités<br>- Uropathie<br>- Acte urologique récent<br>- IRC sévère<br>- Immunodépression grave")
       complication -- Non --> simple(PNA simple) --> antibiotique("ECBU, antibiothérapie<br>probabiliste puis adaptée")
       complication -- Oui --> arisque("PNA à risque de complication<br>—<br>- CRP, créatinine, ECBU<br>- Uroscanner urgent") --> antibiotique
-    homme -- Oui --> masculine(IU masculine)
   gravite -- Oui --> urgences(Urgences)
   style pna stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
