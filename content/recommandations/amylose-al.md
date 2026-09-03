@@ -106,9 +106,9 @@ Adresser au spécialiste (interniste, hématologue, néphrologue) pour affirmer 
 {{% /collapse %}}
 {{%collapse "Traitement" %}}
 
-La prise en charge de l'amylose AL est spécialisée et **pluridisciplinaire** (interniste, hématologue, cardiologue, néphrologue, neurologue) après RCP ([annuaire des centres de référence](https://www.unilim.fr/cr-amylose-al/centre_reference_amylose/presentation_cmr_amylose/)).
+La prise en charge de l'amylose AL est spécialisée et **pluridisciplinaire** (interniste, hématologue, cardiologue, néphrologue, neurologue) après RCP ([annuaire des centres de référence](https://www.unilim.fr/cr-amylose-al/centre-reference-amylose-al/expert-amylose-al-mgrs-mgcs/)).
 
-- Information du patient: [guide CNR amylose AL](https://www.unilim.fr/cr-amylose-al/patients/generalites_amylose/)
+- Information du patient: [guide CNR amylose AL](https://www.unilim.fr/cr-amylose-al/patients/generalites-amylose-al/)
 - Association de patients: [Association française contre l'amylose](https://amylose.asso.fr)
 
 Le suivi est rapproché (souvent trimestriel) avec surveillance des chaînes légères libres sériques. Les rechutes sont possibles.

@@ -78,7 +78,7 @@ Les substances les plus toxiques dans ce contexte PBT sont les antibiotiques, le
 
 ## Émissions du secteur des médicaments {.mt-5}
 
-Le secteur de la santé représente [8 % des émissions nationales](https://www.sciencedirect.com/science/article/abs/pii/S2772953225005386) et les médicaments, [1/3 de ces émissions](https://theshiftproject.org/article/decarbonons-la-sante-rapport-intermediaire-shift/).
+Le secteur de la santé représente [8 % des émissions nationales](https://www.sciencedirect.com/science/article/abs/pii/S2772953225005386) et les médicaments, [1/3 de ces émissions](https://theshiftproject.org/thematiques/sante/).
 
 En France, les émissions pour la fabrication de principe actif sont estimées à **65 kgCO2e/kg**. La consommation annuelle de médicaments d'un Français équivaudrait à **140 kgCO2e**. Ces émissions très élevées sont notamment liées au gâchis de médicaments à hauteur de 13.443 tonnes chaque année.
 

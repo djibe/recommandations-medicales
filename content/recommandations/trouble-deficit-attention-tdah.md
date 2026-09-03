@@ -251,7 +251,7 @@ Les **prises en charge non médicamenteuses** sont systématiques et le **suivi 
 - **Psychothérapie**: thérapies comportementales, cognitives et émotionnelles (TCCE)
 - Prise en charge des comorbidités: orthophonie, psychomotricité, ergothérapie ...
 - Accompagnement scolaire et pédagogique ([guide info enseignant HAS](/print/tdah-guide-enseignant.pdf) et [guide de l'académie (PDF)](https://www.tdahegalitedeschances.com/_files/ugd/1120d1_f11ae21195644bc4859cd610c34b2131.pdf))
-- Aménagements scolaires (des examens, programme Personnalisé de Réussite Éducative, Plan d'Accompagnement Personnalisé, voir [education.gouv](https://www.education.gouv.fr/la-scolarisation-des-eleves-en-situation-de-handicap-1022)), Projet d'Accueil Individualisé (PAI)
+- Aménagements scolaires (des examens, programme Personnalisé de Réussite Éducative, Plan d'Accompagnement Personnalisé, voir [education.gouv](https://www.education.gouv.fr/la-scolarisation-des-eleves-besoins-educatifs-particuliers-452877)), Projet d'Accueil Individualisé (PAI)
 - Si intensité nécessitant des aménagements scolaires: dossier **MDPH**  
   Peut apporter: matériel et aménagements pédagogiques (Plan Personnalisé de Scolarisation), Allocation Education Enfant Handicapé (AEEH), aide par un accompagnant d'élève en situation de handicap (AESH).
 - Associations de patients: [HyperSupers TDAH France](https://www.tdah-france.fr), [TDAH Pour une égalité des chances](https://www.tdahegalitedeschances.com) et [TDAH Partout Pareil](https://tdah-partout-pareil.info)
@@ -309,7 +309,7 @@ D'autres traitements médicamenteux sont possibles: stimulants (amphétamine) ou
 
 - [Société Française du TDAH](https://sftdah.fr)
 - ADHD Federation. Guide pour le Trouble Déficit de l'Attention/Hyperactivité TDAH.
-- [Willig TN, et al; SFP. Trouble déficitaire d'attention. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pap-detail/awnr)
+- Willig TN, et al; SFP. Trouble déficitaire d'attention. Pas à Pas en Pédiatrie. 2022. (révision en cours)
 - [Kazda L, et al. Attention deficit/hyperactivity disorder (ADHD) in children: more focus on care and support, less on diagnosis. BMJ. 2024.](https://www.bmj.com/content/384/bmj-2022-073448)
 - [Collège National Universitaire de Psychiatrie (CNUP). Principaux troubles du neurodéveloppement Item 67. Référentiel de Psychiatrie et Addictologie. 2021. (PDF)](https://www.cunea.fr/sites/default/files/ref_psy_add_4ed.pdf)
 - [ANSM. Méthylphénidate : données d'utilisation et de sécurité d'emploi en France. 2021.](https://ansm.sante.fr/actualites/methylphenidate-donnees-dutilisation-et-de-securite-demploi-en-france)

@@ -555,6 +555,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 - [McEvoy J, et al, ESC Scientific Document Group. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension: Developed by the task force on the management of elevated blood pressure and hypertension of the European Society of Cardiology (ESC) and endorsed by the European Society of Endocrinology (ESE) and the European Stroke Organisation (ESO). European Heart Journal. 2024.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae178/7741010)
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
 - [Mullens W, et al. Dietary sodium and fluid intake in heart failure. A clinical consensus statement of the Heart Failure Association of the ESC. Eur J Heart Fail. 2024.](https://onlinelibrary.wiley.com/doi/10.1002/ejhf.3244)
+- [Agence de la Biomédecine. Greffe cardiaque. 2024.](https://rams.agence-biomedecine.fr/2024/organes-tissus/greffe-cardiaque)
 - [McDonagh T, et al. 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2023.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad195/7246292)
 - {{< references/esh-2023 >}}
 - [Taylor C et al. Natriuretic peptide testing and heart failure diagnosis in primary care: diagnostic accuracy study. British Journal of General Practice. 2023.](https://bjgp.org/content/73/726/e1)
@@ -566,7 +567,6 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 - Prescrire Redaction. Insuffisances cardiaques médicamenteuses en bref, Patients insuffisants cardiaques chroniques. Rev Prescrire. 2021.
 - [Fervers B, et al; Santé Publique France. Indications d'un programme d'activité physique, en complément au traitement médical. BEH. 2020.](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/documents/article/indications-d-un-programme-d-activite-physique-en-complement-au-traitement-medical)
 - Collège National des Enseignants de Cardiologie. Insuffisance cardiaque. Item 232 UE8. Cardiologie 2e édition. 2019.
-- [Agence de la Biomédecine. Organes - Greffe cardiaque. 29/09/2019.](https://rams.agence-biomedecine.fr/greffe-cardiaque-0)
 - [Santé Publique France. Insuffisance cardiaque. 17/06/2019.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-cardiovasculaires-et-accident-vasculaire-cerebral/insuffisance-cardiaque)
 - {{< references/esc-hta >}}
 - [SFC. Recommandations de la Société Française de Cardiologie pour les épreuves d'effort. 2018.](https://sfcardio.fr/publication/recommandations-pour-les-epreuves-deffort)
@@ -575,6 +575,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
+- [Køber L, et al. 2026 ESC Guidelines for the management of heart failure. Eur Heart J. 2026.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag100/8766302)
 - [Chow SL, et al. Complementary and Alternative Medicines in the Management of Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2023.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001110)
 - [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Insuffisance cardiaque de l'adulte. Item 234. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
 

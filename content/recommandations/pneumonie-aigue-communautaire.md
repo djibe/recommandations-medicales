@@ -496,8 +496,8 @@ graph TB
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pneumonies aiguës communautaires. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/pneumonies-aigues-communautaires)
 - [Kucharzik T, et al. ECCO Guidelines on the Prevention, Diagnosis, and Management of Infections in Inflammatory Bowel Disease. J Crohns Colitis. 2021.](https://academic.oup.com/ecco-jcc/article/15/6/879/6175313)
 - {{< references/spilf-2020 >}}
-- [Fleurence E; SFP. Toux fébrile. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/2qkkqfucb)
-- [Houdouin V; SFP. Pneumonies : du diagnostic au traitement. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/0xuz)
+- Fleurence E; SFP. Toux fébrile. Pas à Pas en Pédiatrie. 2017. (révision en cours)
+- Houdouin V; SFP. Pneumonies : du diagnostic au traitement. Pas à Pas en Pédiatrie. 2017. (révision en cours)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [Afssaps. Antibiothérapie par voie générale dans les infections respiratoires basses de l'adulte. Mise au point. 2010. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/recos/2010-infvrb-spilf-afssaps.pdf)
 

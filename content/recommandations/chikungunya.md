@@ -211,12 +211,12 @@ Avis spécialisé **rhumatologique** en cas de symptômes persistants plusieurs 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Santé Publique France. Chikungunya. 02/09/2026.](https://www.santepubliquefrance.fr/maladies-a-transmission-vectorielle/chikungunya)
 - {{< references/voyageur >}}
 - [HAS. Avis n°2026.0022/AC/SESPEV du 9 avril 2026 du collège de la Haute Autorité de santé portant sur les vaccins IXCHIQ et VIMKUNYA dans un contexte de réémergence du chikungunya en Guyane. 14/04/2026.](https://www.has-sante.fr/jcms/p_3927570/fr/avis-n2026-0022/ac/sespev-du-9-avril-2026-du-college-de-la-haute-autorite-de-sante-portant-sur-les-vaccins-ixchiq-et-vimkunya-dans-un-contexte-de-reemergence-du-chikungunya-en-guyane)
 - [ANSM. Chikungunya : l'ANSM poursuit la surveillance des effets indésirables du vaccin Ixchiq. 23/03/2026.](https://ansm.sante.fr/actualites/chikungunya-lansm-poursuit-la-surveillance-des-effets-indesirables-du-vaccin-ixchiq)
 - [ANSM. Vaccin Ixchiq contre le chikungunya : levée de la contre-indication temporaire chez les adultes de 65 ans et plus ; mise en garde concernant les effets indésirables graves, notamment l'encéphalite. 22/09/2025.](https://ansm.sante.fr/informations-de-securite/vaccin-ixchiq-contre-le-chikungunya-levee-de-la-contre-indication-temporaire-chez-les-adultes-de-65-ans-et-plus-mise-en-garde-concernant-les-effets-indesirables-graves-notamment-lencephalite)
 - [WHO guidelines for clinical management of arboviral diseases: dengue, chikungunya, Zika and yellow fever. Geneva: World Health Organization; 2025. Licence: CC BY-NC-SA 3.0 IGO.](https://www.who.int/publications/i/item/9789240111110)
-- [Santé Publique France. Chikungunya. 06/08/2025.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-transmission-vectorielle/chikungunya/la-maladie/)
 - [ANSM. Campagne vaccinale contre le chikungunya : point de situation sur la surveillance du vaccin Ixchiq. 02/07/2025.](https://ansm.sante.fr/actualites/lansm-accompagne-la-campagne-vaccinale-contre-le-chikungunya-vaccin-ixchiq)
 - [ANSM. Ixchiq, poudre et solvant pour solution injectable Vaccin contre le chikungunya (vivant) : nouvelle contre-indication chez les patients âgés de 65 ans et plus, mise en place pendant la réévaluation européenne du vaccin. 28/05/2025.](https://ansm.sante.fr/informations-de-securite/ixchiq-poudre-et-solvant-pour-solution-injectable-vaccin-contre-le-chikungunya-vivant-nouvelle-contre-indication-chez-les-patients-ages-de-65-ans-et-plus-mise-en-place-pendant-la-reevaluation-europeenne-du-vaccin)
 - [Ministère de la Santé. Chikungunya. 16/05/2025.](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/article/chikungunya)

@@ -172,7 +172,7 @@ Les rechutes répétées d'une même localisation sont une indication opératoir
 {{% /collapse %}}
 {{%collapse "Information du patient" %}}
 
-[Orphanet. La maladie de Verneuil. (PDF)](https://www.orpha.net/data/patho/Pub/fr/Verneuil-FRfrPub2049v01.pdf) et [RésoVerneuil: La maladie de Verneuil](https://resoverneuil.com/la-maladie-de-verneuil/)
+[Orphanet. La maladie de Verneuil. (PDF)](https://www.orpha.net/data/patho/Pub/fr/Verneuil-FRfrPub2049v01.pdf).
 
 Maladie chronique, non contagieuse, de cause inconnue, évoluant par poussées.  
 L'évolution de la maladie n'est pas prévisible.

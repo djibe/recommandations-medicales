@@ -289,6 +289,7 @@ Mots-clé: cardiopathie ischémique, post infarctus
 
 ### Bibliographie en attente
 
+- [Mills NL, et al. Fifth Universal Definition of Myocardial Infarction (2026). Eur Heart J. 2026.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag101/8766309)
 - [Collège National des Enseignants de Cardiologie (CNEC). Syndromes coronariens aigus. Item 339. Cardiologie 2e édition. 2022.](https://www.sfcardio.fr/publication/chapitre-05-item-339-syndromes-coronariens-aigus/)
 - [Thygesen K, et al; ESC Scientific Document Group. Fourth universal definition of myocardial infarction (2018). Eur Heart J. 2019.](https://academic.oup.com/eurheartj/article/40/3/237/5079081)
 

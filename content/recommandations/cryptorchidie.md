@@ -129,7 +129,7 @@ graph TB
 - [Collège Français des Enseignants en Urologie (CFEU). Pathologie génito-scrotale chez le garçon et chez l'homme. Item 50. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-50-Pathologies-genito-scrotale.pdf)
 - {{< references/college-endocrino >}}
 - [Le Moal J, et al. Variations spatiotemporelles du risque de cryptorchidies opérées en France et hypothèses environnementales. Santé publique France. 2021.](https://www.santepubliquefrance.fr/docs/variations-spatiotemporelles-du-risque-de-cryptorchidies-operees-en-france-et-hypotheses-environnementales)
-- [Gueorguieva I, Bouvattier C. Cryptorchidie. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/hhw0vmi) (SFP)
+- Gueorguieva I, Bouvattier C. Cryptorchidie. Pas à Pas en Pédiatrie. 2017. (révision en cours) (SFP)
 - [Merrot T. Prise en charge des testicules non descendus. Progrès en Urologie. 2009. (PDF)](https://www.urofrance.org/sites/default/files/fileadmin/documents/data/PU/2009/3247/38905/FR/206489/main.pdf)
 
 ### Bibliographie en attente

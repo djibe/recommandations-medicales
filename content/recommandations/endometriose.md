@@ -302,7 +302,7 @@ graph TB
 
 ### Applications
 
-[Ziwig](https://endo.ziwig.com/main/home), [easyendo](https://www.easyendo.fr/), [Follow Metrios](https://followmetrios.com/application-endometriose/).
+[Ziwig](https://endo.ziwig.com/main/home), [easyendo](https://www.easyendo.fr/).
 
 ### Documents
 

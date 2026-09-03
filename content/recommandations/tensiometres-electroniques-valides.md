@@ -37,7 +37,7 @@ datatable = true
 
 Liste des brassards électroniques **validés par les sociétés savantes d'hypertension artérielle** pour la mesure de la pression artérielle au cabinet du médecin. Le modèle doit être **adapté au patient** (adulte, grossesse, enfant) et à sa corpulence.
 
-La gamme de prix est très variable (de 33 à 650 €) et parmi les tensiomètres (ou sphygmomanomètres) validés les moins chers disponibles en France on peut citer les marques: Andon ([iHealth Track KN-550BT](https://www.idealo.fr/prix/5440072/ihealth-track-wireless-kn-550bt.html) ou [Ease BP3L](https://ihealthlabs.eu/fr/tensiometres/39-ihealth-ease.html) 50€, KD-5923 33€), [Fitage tensiomètre](https://www.bol.com/be/fr/p/fitage-bovenarm-bloeddrukmeter-bloeddrukmeters-hartslagmeter-blood-pressure-monitor-opbergtas-omtrek-manchet-22-36cm/9300000044879966/?bltgh=6b3f8ea9-136f-425d-a772-12ba96973884.ProductList.8.ProductTitle) 34 €, Omron ([M7](https://www.idealo.fr/prix/200675780/omron-m7-intelli-it-edition-2020.html) 80€).
+La gamme de prix est très variable (de 33 à 650 €) et parmi les tensiomètres (ou sphygmomanomètres) validés les moins chers disponibles en France on peut citer les marques: Andon ([iHealth Track KN-550BT](https://www.idealo.fr/prix/5440072/ihealth-track-wireless-kn-550bt.html) ou [Ease BP3L](https://ihealthlabs.eu/fr/tensiometres/39-ihealth-ease.html) 50€, KD-5923 33€), Fitage tensiomètre 34 €, Omron ([M7](https://www.idealo.fr/prix/200675780/omron-m7-intelli-it-edition-2020.html) 80€).
 {.alert .alert-info}
 
 {{< csv-to-table file="/data/tensiometres-valides.csv" title="Tensiomètres électroniques validés pour la mesure de la pression artérielle en consultation. Dr JB Fron d'après Sociétés savantes citées." >}}

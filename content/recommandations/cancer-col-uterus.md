@@ -36,7 +36,7 @@ todo = "pharynx, source: Les infections a HPV deviennent indétectables au bout 
   - Dépistage organisé du cancer du col de l'utérus de 25 à 65 ans (test HPV haut risque tous les 5 ans après 30 ans)
   - En cas de portage d'HPV: dépistage ciblé du cancer anal
 
-Documents patient: [INCa: dépistage du cancer du col (PDF)](https://www.cancer.fr/content/download/7426/file/DEPLIANT_UTERUS_148x210%20_DEPCCU23_BD-Octobre2023.pdf?version=7) et [SPF: vaccination HPV](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/depliant-flyer/infections-a-papillomavirus-humains-les-5-bonnes-raisons-de-se-faire-vacciner)
+Documents patient: [INCa: dépistage du cancer du col (PDF)](https://www.cancer.fr/content/download/7426/file/DEPLIANT_UTERUS_148x210%20_DEPCCU23_BD-Octobre2023.pdf?version=7) et [SPF: vaccination HPV](https://www.santepubliquefrance.fr/cancers/cancer-du-col-de-luterus/depliantflyer/infections-a-papillomavirus-humains-les-5-bonnes-raisons-de-se-faire-vacciner)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -256,7 +256,7 @@ La vaccination HPV peut être réalisée par un pharmacien ou un infirmier sans 
 La vaccination conte les papillomavirus prévient des lésions précancéreuses de tous les sites atteints (voir *Complications*).
 
 - [INCa. Les arguments clés sur la vaccination contre les cancers liés aux papillomavirus humains (HPV)](https://www.cancer.fr/professionnels-de-sante/prevention-et-depistages/prevention/agents-infectieux/prevenir-les-cancers-lies-aux-hpv/arguments-cles-sur-la-vaccination-contre-les-cancers-hpv)
-- [SPF. Dépliant sur la vaccination contre les cancers HPV](https://www.santepubliquefrance.fr/determinants-de-sante/vaccination/documents/depliant-flyer/infections-a-papillomavirus-humains-les-5-bonnes-raisons-de-se-faire-vacciner)
+- [SPF. Dépliant sur la vaccination contre les cancers HPV](https://www.santepubliquefrance.fr/cancers/cancer-du-col-de-luterus/depliantflyer/infections-a-papillomavirus-humains-les-5-bonnes-raisons-de-se-faire-vacciner)
 
 > En Australie, où la recommandation de vacciner les filles date de 2007 et celle des garçons de 2013, la couverture vaccinale d'au moins 80 % a permis:  
 Une réduction de plus de 77 % des génotypes responsables de 75 % des cancers du col de l'utérus;  

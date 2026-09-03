@@ -304,7 +304,7 @@ graph TB
 - [Gordon CM, et al. Functional Hypothalamic Amenorrhea: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2017.](https://academic.oup.com/jcem/article/102/5/1413/3077281)
 - [American College of Obstetricians and Gynecologists Committee Opinion No. 651. Menstruation in girls and adolescents: using the menstrual cycle as a vital sign.  Obstet Gynecol. 2015.](https://journals.lww.com/greenjournal/fulltext/2015/12000/committee_opinion_no__651_summary__menstruation_in.54.aspx)
 - [Gaudineau A, et al. Âge à la ménarche : résultats français de l'étude Health Behaviour in School-aged Children. Gynécologie Obstétrique & Fertilité. 2010.](https://www.em-consulte.com/article/256456/resume/age-a-la-menarche-resultats-francais-de-letude-)
-- [de Tournemire R, Crosnier H. Pas à Pas en Pédiatrie. 2010.](https://pap-pediatrie.fr/pap-detail/i63n)
+- de Tournemire R, Crosnier H. Pas à Pas en Pédiatrie. 2010. (révision en cours)
 - [Petit A, et al. Hyperprolactinémies d'origine médicamenteuse: étude cas/non-cas dans la banque nationale de pharmacovigilance [Drug-induced hyperprolactinemia: a case-non-case study from the national pharmacovigilance database]. Therapie. 2003.](https://www.sciencedirect.com/science/article/abs/pii/S0040595716300804)
 
 ### Bibliographie en attente

@@ -531,6 +531,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
+- [Damman K, et al. 2026 ESC Guidelines for the management of cardiovascular disease and chronic kidney disease, in collaboration with the European Renal Association (ERA). Eur Heart J. 2026.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag098/8766283)
 - [Astley ME, et al. Age- and sex-specific reference values of estimated glomerular filtration rate for European adults. Kidney Int. 2025.](https://linkinghub.elsevier.com/retrieve/pii/S0085-2538(25)00252-2)
 - [HAS. Suivi ambulatoire de l'adulte transplanté rénal au-delà de 3 mois après transplantation. Recommandations de bonne pratique. 2007.](https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation)
 

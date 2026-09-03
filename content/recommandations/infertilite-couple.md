@@ -18,7 +18,9 @@ sctid = "8619003"
 icd10 = ["N97", "N97.9", "N46"]
 image = true
 imageSrc = "L'infertilité du couple. vectorjuice / Freepik"
-todo = "relecture demandée"
+rank = "false"
+writing = "false"
+todo = "relecture demandée, update 2027"
 chart = true
 flowchart = true
 +++
@@ -91,13 +93,13 @@ SALF
 
 La fertilité est maximale avant 25 ans, diminue dès 31 ans, chute après 35 ans, dépasse 50 % à partir de 40 ans et devient quasi nulle à 45 ans (où la grossesse devient à très haut risque).
 
-En *AMP* les chances de grossesse avec naissance vivante sont très diminuées à partir de 40 ans et quasi nulles à partir de 43 ans. L'Assurance Maladie prend en charge l'AMP jusqu'au premier jour des 43 ans.
+En *AMP* les chances de grossesse avec naissance vivante sont très diminuées à partir de 40 ans et quasi nulles à partir de 43 ans. L'Assurance Maladie prend en charge l'AMP (IU, FIV et transferts d'embryons) jusqu'à 44 ans.
 
 Chaque femme a une réserve ovarienne différente, maximale à la naissance.
 
 Les marqueurs de **réserve ovarienne** sont: âge de la patiente, FSH et E2, AMH et compte des follicules antraux.
 
-{{< figure-chart title="Taux d'accouchement par ponction en FIV (ICSI) en intraconjugal selon l'âge de la femme à la ponction en 2022 (Tableaux AMP15 et AMP23). Dr JB Fron d'après [Agence de la Biomédecine](https://rams.agence-biomedecine.fr/amp-avec-ovocytes-et-spermatozoides-du-couple)" >}}
+{{< figure-chart title="Taux d'accouchement par ponction en FIV (ICSI) en intraconjugal selon l'âge de la femme à la ponction en 2022 (Tableaux AMP15 et AMP23). Dr JB Fron d'après [Agence de la Biomédecine](https://rams.agence-biomedecine.fr/2023/amp-dpi/principaux-chiffres-de-l-activite)" >}}
 
 <script>
 const chartOptions1 = {
@@ -155,7 +157,7 @@ L'examen clinique concerne chaque membre du couple.
 - Antécédents gynécologiques  
   Gestité, parité, [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}})/SMOP, hyperprolactinémie, [aménorrhée]({{% relref "amenorrhee.md" %}}), infections génitales dont IST, [salpingite]({{% relref "infections-genitales-hautes.md" %}}), [endométriose]({{% relref "endometriose.md" %}}), [IVG]({{% relref "interruption-volontaire-grossesse.md" %}}), [GEU]({{% relref "grossesse-extra-uterine.md" %}}), chirurgies pelviennes ([appendicectomie]({{% relref "appendicite-aigue.md" %}}), myomectomie).
 - Antécédents masculins  
-  Fertilité antérieure, [cryptorchidie]({{% relref "cryptorchidie.md" %}}), [épididymite]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}}), torsion du testicule, traumatisme ou [cancer du testicule]({{% relref "cancer-testicule.md" %}}), [hernie inguinale]({{% relref "hernie-parietale.md" %}}) dans l'enfance, oreillons, infections génito-urinaires, [IST](/tags/ist/), chimiothérapie, expositions professionnelles (boulanger, cuisinier, pesticides, solvants, radiations, sauna, hammam).
+  Troubles sexuels et excrétoires, fertilité antérieure, [cryptorchidie]({{% relref "cryptorchidie.md" %}}), [épididymite]({{% relref "infection-genitale-uretrite-orchiepididymite.md" %}}), torsion du testicule, traumatisme ou [cancer du testicule]({{% relref "cancer-testicule.md" %}}), [hernie inguinale]({{% relref "hernie-parietale.md" %}}) dans l'enfance, oreillons, infections génito-urinaires, [IST](/tags/ist/), chimiothérapie, expositions professionnelles (boulanger, cuisinier, pesticides, solvants, radiations, sauna, hammam).
 - Antécédents familiaux (consanguinité, hypofertilité, médicaments pendant la grossesse, thrombophilie, [ménopause précoce]({{% relref "insuffisance-ovarienne-prematuree.md" %}}), mucoviscidose)
 - Traitements en cours
 - Toxiques: [alcool]({{% relref "sevrage-alcool.md" %}}), [tabac]({{% relref "arret-tabac.md" %}}) (consommation, paquets-années), cannabis, autres
@@ -180,7 +182,7 @@ L'examen clinique concerne chaque membre du couple.
   - Signes d'hyperandrogénie  
     {{< clinique/hyperandrogenie >}}.
   - Examen des seins, galactorrhée
-  - Examen gynécologique
+  - Examen gynécologique (spéculum, toucher vaginal)
 - Homme
   - Hypogonadisme: pilosité, [gynécomastie]({{% relref "gynecomastie.md" %}})
   - L'examen physique par un urologue ou andrologue: hypospadias, varicocèle, verge, volume testiculaire et consistance, épididyme, canaux déférents
@@ -190,7 +192,7 @@ L'examen clinique concerne chaque membre du couple.
 
 > << Aucune exploration invasive ne doit avoir lieu tant que les investigations de base, moins invasives, n'ont pas été réalisées >>. -- *CNGOF 2010*
 
-L'*OMS* préconise le bilan **à partir du stade d'infertilité** (12 mois de rapports réguliers sans contraception). Le *CNGOF* 6 mois après 35 ans et 12 mois avant.
+L'*OMS* préconise le bilan **à partir du stade d'infertilité** (12 mois de rapports réguliers sans contraception). Les *CNGOF*, *ABM/CMG* dès ==6 mois après 35 ans== et 12 mois avant 35 ans.
 
 Évaluation selon les facteurs de risque chez la femme après **35 ans** ou en cas de facteur spécifique (traitement gonadotoxique, salpingite, ou de l'homme: cryptorchidie, épididymite, torsion aiguë du cordon spermatique, traumatisme testiculaire, cure de hernie inguinale dans l'enfance, monorchidie, varicocèle).
 
@@ -200,8 +202,8 @@ L'*OMS* préconise le bilan **à partir du stade d'infertilité** (12 mois de ra
 - Sérologies [VIH]({{% relref "vih-sida.md" %}}), [VHB]({{% relref "hepatite-b.md" %}}), [VHC]({{% relref "hepatite-c.md" %}}), [syphilis]({{% relref "syphilis.md" %}}), rubéole, toxoplasmose ± [varicelle]({{% relref "varicelle.md" %}})
 - Prélèvement vaginal
 - Échographie pelvienne endo-vaginale 3D à J2-J3
-- Si {{< modal-btn modal-reserve-ovarienne >}}signe de baisse de la réserve ovarienne{{< /modal-btn >}}: bilan hormonal (de J2 à J4): **FSH**, LH, œstradiol, AMH
-- Si AMP: bilan hormonal AMH de J2 à J4
+- Si {{< modal-btn modal-reserve-ovarienne >}}signe de baisse de la réserve ovarienne{{< /modal-btn >}}: bilan hormonal (à J3 du cycle): **FSH**, LH, œstradiol, AMH
+- **Si AMP** (à J3 du cycle): FSH, LH, œstradiol, TSH, prolactine (*ABM/CMG*)
 - [Sérologie cœliaque]({{% relref "maladie-coeliaque.md" %}}): IgA totales, IgA anti-transglutaminase (*ESsCD*)
 - Considérer: [sérologie *Chlamydia*]({{% relref "chlamydia-trachomatis.md" %}})
 - Suspicion de pathologie tubo-pelvienne (GEU, appendicite compliquée, chirurgie pelvienne, maladie inflammatoire pelvienne, endométriose, *Chlamydia* ou hydrosalpynx):
@@ -231,7 +233,7 @@ Consultation d'andrologie en cas d'anomalie du spermogramme.
 {{%collapse "Traitement de l'infertilité" %}}
 
 > [!WARNING]
-> << Il est donc recommandé de ne pas proposer de prise en charge médicale d'infécondité à une patiente au-delà de 43 ans >>. -- *CNGOF 2010*
+> << Il est donc recommandé de ne pas proposer de prise en charge médicale d'infécondité à une patiente au-delà de 45 ans >>. -- *CNGOF 2010* (évolution depuis les 43 ans du texte original)
 > << Il est recommandé de discuter au cas par cas la prise en charge de l'homme infécond à partir de l'âge de 60 ans >>. -- *CNGOF 2010*
 
 Informer sur la chute de la fertilité liée à l'âge.
@@ -278,6 +280,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Collège de la médecine générale, Agence de la Biomédecine. Accompagner nos patients dans les étapes du parcours AMP. 2026. (PDF)](https://www.cmg.fr/wp-content/uploads/2026/05/EtapesduparcoursAMP2026.pdf) (CMG)
 - [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [Sonigo C, et al. Prise en charge de première intention du couple infertile: Mise à jour des RPC 2010 du CNGOF [First line management of infertile couple. Guidelines for Clinical Practice of the French College of Obstetricians and Gynecologists 2022.]. Gynecol Obstet Fertil Senol. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2468718924000370)
 - [Gibbons T, et al. Timed intercourse for couples trying to conceive. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011345.pub3/full/fr)
@@ -292,7 +295,7 @@ graph TB
 - [Collège Français des Enseignants en Urologie (CFEU). Stérilité du couple : conduite de la première consultation Item 38. Référentiel du collège d'urologie 5ème édition. 2021.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/chapitre-02-sterilite-du-couple-conduite-de-la-premiere-consultation/)
 - [Wang R, et al. Interventions for unexplained infertility: a systematic review and network meta‐analysis. Cochrane Database of Systematic Reviews. 2019.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012692.pub2/full/fr)
 - [Hédon B, et al; CNGOF. La prise en charge du couple infertile. Recommandations pour la pratique clinique. 2010. (PDF)](https://cngof.fr/app/uploads/2025/11/InfertilitC3A9202010-RPC.pdf?x26468)
-- [Agence de la Biomédecine. Assistance médicale à la procréation - Principaux chiffres de l'activité.](https://rams.agence-biomedecine.fr/principaux-chiffres-de-lactivite)
+- [Agence de la Biomédecine. Assistance médicale à la procréation - Principaux chiffres de l'activité.](https://rams.agence-biomedecine.fr/2023/amp-dpi/principaux-chiffres-de-l-activite)
 
 ### Bibliographie en attente
 

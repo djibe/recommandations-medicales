@@ -674,7 +674,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
-- [Ameli Médecin. Des préservatifs sans latex pris en charge par l'Assurance Maladie. 27/03/2025.](https://www.ameli.fr/medecin/actualites/des-preservatifs-sans-latex-pris-en-charge-par-l-assurance-maladie)
+- Ameli Médecin. Des préservatifs sans latex pris en charge par l'Assurance Maladie. 27/03/2025.
 - [ANSM. Progestatifs et risque de méningiome : recommandations pour limiter ce risque. 18/12/2023.](https://ansm.sante.fr/actualites/progestatifs-et-risque-de-meningiome-recommandations-pour-limiter-ce-risque)
 - [ANSM. Les stérilets contenant le plus d'hormone présenteraient davantage de risque de troubles dépressifs. 14/02/2023.](https://ansm.sante.fr/actualites/les-sterilets-contenant-le-plus-dhormone-presenteraient-davantage-de-risque-de-troubles-depressifs)
 - [Collège Français des Enseignants en Urologie (CFEU). Contraception. Item 36. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-36-Contraception-.pdf)

@@ -45,7 +45,7 @@ Nourrisson prématuré
 : Naissance avant 37 semaines d'aménorrhée (SA).
 
 > [!INFO]
-> << Les vaccins de manière générale ne sont pas associés à un risque accru de survenue d'une sclérose en plaques >>. -- *[SFSEP 2024](https://sfsep.org/wp-content/uploads/2019/01/Presentation-Vaccinations-et-SEP-revision_Avril_2024.pdf)*
+> << Les vaccins de manière générale ne sont pas associés à un risque accru de survenue d'une sclérose en plaques >>. -- *[SFSEP 2024](https://sfsep.org/wp-content/uploads/2026/05/Presentation-Vaccinations-et-SEP-revision_Avril_2024.pdf)*
 
 ### Abréviations
 
@@ -300,7 +300,6 @@ Le don du sang est contre-indiqué durant quatre semaines après les vaccination
 Documents pour informer sur la vaccination:
 
 - [Information du patient - Santé BD: La vaccination](https://santebd.org/les-fiches-santebd/docteur-generaliste/la-vaccination-mieux-comprendre-la-vaccination)
-- [CRES PACA. Des outils de promotion de la vaccination](http://www.cres-paca.org/a/157/des-outils-de-promotion-de-la-vaccination/?utm_source=phplist785&utm_medium=email&utm_content=HTML&utm_campaign=Vaccination+%3A+des+outils+pour+les+professionnels+de+sant%C3%A9+)
 - [Guide info parent rotavirus (PDF)](https://sante.gouv.fr/IMG/pdf/rotavirus-vaccination-qr-public_nov22.pdf)
 
 {{% /collapse %}}

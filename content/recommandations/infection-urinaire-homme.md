@@ -106,7 +106,7 @@ Recommandations pour l'antibiothérapie de la cystite aiguë de l'homme:
   - ou fosfomycine-trométamol
   - ou nitrofurantoïne
   - ou pivmécillinam
-  - ou [triméthoprime 300 mg]([triméthoprime](https://base-donnees-publique.medicaments.gouv.fr/medicament/66142235/extrait#tab-rcp)) (Delprim®) x 1/j
+  - ou [triméthoprime 300 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/66142235/extrait#tab-rcp) (Delprim®) x 1/j
 
 {{% /collapse %}}
 {{%collapse "Prostatite aiguë" %}}

@@ -180,7 +180,7 @@ graph TB
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Pathologies courantes de la région inguino-scrotale et du pénis. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/gastroenterologie-nutrition-chirurgie-abdominopelvienne/pathologies)
 - [HAS. Pertinence des soins en chirurgie pédiatrique. 06/03/2018.](https://www.has-sante.fr/jcms/c_2831488/fr/pertinence-des-soins-en-chirurgie-pediatrique)
 - CHUCP. Hernie pariétale chez l'enfant. 286. 2014.
-- [Faucheron JL. Hernie inguinale de l'adulte. Item 245. Mars 2005.](https://doczz.fr/doc/2579938/hernie-inguinale-de-l-adulte--245a-)
+- Faucheron JL. Hernie inguinale de l'adulte. Item 245. 2005.
 - [Sauvat F. Urgences en chirurgie viscérale pédiatrique. (PDF)](https://urgences-serveur.fr/IMG/pdf/Urg_chir_pediatriques.pdf)
 - {{< references/aderim >}}
 

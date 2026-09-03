@@ -400,7 +400,7 @@ graph TB
 {{%collapse "Information des parents" %}}
 
 - [Fiche conseils aux parents (HAS/CNPP, PDF)](https://www.sfpediatrie.com/sites/www.sfpediatrie.com/files/medias/documents/hascnpp_bronchiolite_fiche_outil_conseils_surveillance_parents_2019.pdf)
-- [Santé Publique France. Votre enfant a la bronchiolite](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bronchiolite/documents/depliant-flyer/votre-enfant-et-la-bronchiolite)
+- [Santé Publique France. Votre enfant et la bronchiolite](https://www.santepubliquefrance.fr/index.php/infections-respiratoires-aigues/bronchiolite/depliantflyer/votre-enfant-et-la-bronchiolite/documents/depliant-flyer/votre-enfant-et-la-bronchiolite)
 - [Ameli. Bronchiolite](https://www.ameli.fr/yvelines/assure/sante/themes/bronchiolite)
 - [MPedia. Mon enfant a une bronchiolite, que faire ? (PDF)](https://afpa.org/content/uploads/2021/11/mpedia-Infographie-bronchiolite-octobre21.pdf)
 - [Fiche info vaccination VRS HAS (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2025-08/bronchiolite_comment_proteger_votre_futur_bebe_dune_forme_grave_-_actualisation_aout_2025.pdf)
@@ -460,7 +460,7 @@ Les autres traitements exposent à des effets indésirables parfois graves.
 - [CNP de Pédiatrie. Stratégie de prévention des bronchiolites à VRS des nourrissons. 2023. (PDF)](https://afpa.org/content/uploads/2023/08/Reco-CNP-Pe%CC%81diatrie-21-08-2023.pdf)
 - [HAS. nirsévimab Beyfortus. Avis sur les médicaments. 2023. (PDF)](https://www.has-sante.fr/upload/docs/evamed/CT-20356_BEYFORTUS_PIC_INS_AvisDef_CT20356.pdf)
 - [Roqué-Figuls M, et al. Chest physiotherapy for acute bronchiolitis in paediatric patients between 0 and 24 months old. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004873.pub6/full/fr#pico)
-- [Santé Publique France. Bronchiolite. 20/04/2022.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/bronchiolite)
+- [Santé Publique France. Bronchiolite.](https://www.santepubliquefrance.fr/infections-respiratoires-aigues/bronchiolite)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Bronchiolite aiguë du nourrisson. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/bronchiolite-aigue-du-nourrisson)
 - [Société Canadienne de Pédiatrie. Recommandations pour le diagnostic, la surveillance et les prise en charge des enfants de un à 24 mois. 30/11/2021.](https://www.cps.ca/fr/documents/position/bronchiolitis1)
 - [HAS, Collège National Professionnel de Pédiatrie (CNPP). Prise en charge du premier épisode de bronchiolite aiguë chez le nourrisson de moins de 12 mois. 2019.](https://www.has-sante.fr/jcms/p_3118113/fr/prise-en-charge-du-1er-episode-de-bronchiolite-aigue-chez-le-nourrisson-de-moins-de-12-mois)

@@ -185,14 +185,6 @@ Débuter avec ces dosages le premier mois.
 </ul>
 </div>
 </div>
-<blockquote class="blockquote mt-5">
-  <h3 class="typography-body-2 mb-0">Liste des substituts nicotiniques pris en charge par l'Assurance Maladie depuis le 31/12/2023. (PDF)</h3>
-  <footer class="blockquote-footer">
-    <cite title="Ameli"><a
-        href="https://www.ameli.fr/content/liste-des-substituts-nicotiniques-pris-en-charge-par-l-assurance-maladie"
-        rel="external">L'Assurance Maladie</a></cite>
-  </footer>
-</blockquote>
 
 {{< references/tabac-info-service >}}
 

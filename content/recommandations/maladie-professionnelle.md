@@ -99,7 +99,7 @@ window.addEventListener('load', () => {
 {{% /collapse %}}
 {{%sources%}}
 
-- [Ameli Médecin. Maladies professionnelles : l'essentiel sur le certificat médical initial. 13/06/2025.](https://www.ameli.fr/medecin/actualites/maladies-professionnelles-l-essentiel-sur-le-certificat-medical-initial)
+- Ameli Médecin. Maladies professionnelles : l'essentiel sur le certificat médical initial. 13/06/2025.
 - [Service-Public. Maladie professionnelle : démarches à effectuer. 06/05/2025.](https://www.service-public.gouv.fr/particuliers/vosdroits/F176)
 - [Ameli Médecin. Maladie professionnelle. 26/02/2025.](https://www.ameli.fr/val-de-marne/medecin/exercice-liberal/prise-charge-situation-type-soin/situation-patient-mp/maladies-professionnelles)
 - [IRNS. Tableaux des maladies professionnelles.](https://www.inrs.fr/publications/bdd/mp.html)

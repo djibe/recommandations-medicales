@@ -310,7 +310,7 @@ style grossesse stroke:#4150f5, stroke-width:1px
 - [ANSM. Varitect CP. 2023.](https://ansm.sante.fr/tableau-acces-derogatoire/varitect-cp)
 - [Grimprel E, Launay E, Bruel H, Pinquier D; SFP. Contage varicelleux chez l'enfant. Pas à Pas en Pédiatrie. 2022.](https://pap-pediatrie.fr/pap-detail/g2nyrb)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Éruptions fébriles. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/eruptions-febriles)
-- [Floret D; SFP. Conduite à tenir devant un contage varicelleux chez une femme enceinte ou un nouveau-né. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/cffti3dyh)
+- Floret D; SFP. Conduite à tenir devant un contage varicelleux chez une femme enceinte ou un nouveau-né. Pas à Pas en Pédiatrie. 2017. (révision en cours)
 - [HCSP. Avis relatif aux recommandations de vaccination contre la varicelle. 2007.](https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcsp045a20070705_Varicelle.pdf)
 - [Assurance Maladie. Collectivités et jeunes enfants et maladies infectieuses. Guide pratique. 2006. (PDF)](https://www.ameli.fr/sites/default/files/Documents/4900/document/collectivites-maladies-infectieuses_assurance-maladie.pdf)
 - [SPILF. Prise en charge des infections à VZV. Méd Mal Infect. 1998.](https://www.infectiologie.com/UserFiles/File/medias/Recos/vzv98.pdf)

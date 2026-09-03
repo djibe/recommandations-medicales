@@ -253,7 +253,7 @@ Les anticorps ne protègent pas contre une nouvelle infection à *Borrelia burgd
 {{% /collapse %}}
 {{%collapse "Prévention de la maladie de Lyme" %}}
 
-[Ministère de la Santé: Maladie de Lyme et prévention des piqûres de tiques (PDF)](https://sante.gouv.fr/IMG/pdf/maladie_de_lyme_depliant_gp.pdf) et [Santé Publique France. Prévention de la borréliose de Lyme (PDF)](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-transmission-vectorielle/borreliose-de-lyme/documents/depliant-flyer/maladie-de-lyme-et-prevention-des-piqures-de-tiques)
+[Ministère de la Santé: Maladie de Lyme et prévention des piqûres de tiques (PDF)](https://sante.gouv.fr/IMG/pdf/maladie_de_lyme_depliant_gp.pdf) et [Santé Publique France. Maladie de Lyme et prévention des piqûres de tiques (PDF)](https://www.santepubliquefrance.fr/maladies-a-transmission-vectorielle/borreliose-de-lyme/depliantflyer/maladie-de-lyme-et-prevention-des-piqures-de-tiques)
 
 Les tiques sont cachées dans les hautes herbes, buissons et branches basses à toutes les altitudes et aussi dans les jardins (25 % des piqûres).
 
@@ -379,6 +379,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+pfffff
+
 {{< vimeo 314795586 >}}
 
 {{< card-link-external title="Vrai et faux Lyme en 2022, comment faire ?" subtitle="par La Minute Rhumato" url="https://podcastaddict.com/episode/https%3A%2F%2Ftrack.podcastics.com%2F3584%2F138491.mp3&podcastId=3741301" image="podcast" >}}
@@ -395,14 +397,14 @@ graph TB
 - [Anses. En forêt ou dans le jardin, attention aux tiques. 2022.](https://www.anses.fr/fr/content/en-for%C3%AAt-ou-dans-le-jardin-attention-aux-tiques)
 - [Gocko X, et al. Lyme borreliosis and other tick-borne diseases. Guidelines from the French scientific societies. Médecine et Maladies Infectieuses. 2019.](https://www.sciencedirect.com/science/article/pii/S0399077X19306201)
 - [HAS. Borréliose de Lyme et autres maladies vectorielles à tiques. Recommandations de bonne pratique. 2018.](https://www.has-sante.fr/jcms/c_2857558/fr/borreliose-de-lyme-et-autres-maladies-vectorielles-a-tiques)
-- [Quinet B; SFP. Conduite à tenir devant une piqûre de tique chez l'enfant. Pas à Pas en Pédiatrie. 2017.](https://pap-pediatrie.fr/pap-detail/eelosn08s)
+- Quinet B; SFP. Conduite à tenir devant une piqûre de tique chez l'enfant. Pas à Pas en Pédiatrie. 2017. (révision en cours)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
-- [Santé Publique France. Borréliose de Lyme.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-a-transmission-vectorielle/borreliose-de-lyme)
+- [Santé Publique France. Borréliose de Lyme.](https://www.santepubliquefrance.fr/maladies-a-transmission-vectorielle/borreliose-de-lyme)
 - [Centres de Référence des Maladies Vectorielles liées aux Tiques (CRMVT)](https://crmvt.fr)
 
 ### Bibliographie pour en savoir plus
 
-- [Dollat M, et al. Le point sur la borréliose de Lyme en 2026An update on Lyme disease in 2026. Revue Francophone des Laboratoires. 2026.](https://www.sciencedirect.com/science/article/abs/pii/S1773035X26766338) (payant)
+- [Dollat M, et al. Le point sur la borréliose de Lyme en 2026 - An update on Lyme disease in 2026. Revue Francophone des Laboratoires. 2026.](https://www.sciencedirect.com/science/article/abs/pii/S1773035X26766338) (payant)
 - [Lantos PM, et al. Clinical Practice Guidelines by the Infectious Diseases Society of America, American Academy of Neurology, and American College of Rheumatology: 2020 Guidelines for the Prevention, Diagnosis, and Treatment of Lyme Disease. Neurology. 2021.](https://pubmed.ncbi.nlm.nih.gov/33257476/)
 - [Mygland Å, et al. EFNS guidelines on the diagnosis and management of European Lyme neuroborreliosis. European Journal of Neurology. 2010.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-1331.2009.02862.x)
 

@@ -369,7 +369,7 @@ risque["<b>Sujet à risque de mélanome</b><br>—<br>- Phototype clair<br>- Ép
 
 ### Bibliographie en attente
 
-- [Funck-Brentano E, Montaudié H. Algorithmes de prise en charge des mélanomes. Oncologik. Novembre 2025.](https://www.cancer-et-peau.com/espace-medecins/algorithme-prise-charge-melanomes)
+- [Funck-Brentano E, Montaudié H. Algorithmes de prise en charge des mélanomes. Oncologik. Novembre 2025.](https://www.cancerdelapeau.org/professionnels/ressources/algorithme-prise-charge-melanomes)
 - [Oncologik. Mélanomes vulvaires et vaginaux. 2024.](http://oncologik.fr/referentiels/rrc/melanomes-vulvaires-et-vaginaux)
 - [Garbe C, et al. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics - Update 2024. Eur J Cancer. 2024.](https://www.ejcancer.com/article/S0959-8049(24)01759-3/abstract)
 - [Garbe C, et al. European consensus-based interdisciplinary guideline for melanoma. Part 2: Treatment - Update 2024. Eur J Cancer. 2025.](https://www.ejcancer.com/article/S0959-8049(24)01760-X/abstract)
