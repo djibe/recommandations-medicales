@@ -55,10 +55,12 @@ User-agent: cohere-training-data-crawler
 User-agent: Cotoyogi
 User-agent: Crawl4AI
 User-agent: Crawlspace
+User-agent: CreoScopeBot
 User-agent: Dark Visitor
 User-agent: DataForSeoBot
 User-agent: Datenbank Crawler
 User-agent: DeepSeekBot
+User-agent: DefaultLangchainUserAgent
 User-agent: Devin
 User-agent: Diffbot
 User-agent: DuckAssistBot
@@ -106,6 +108,7 @@ User-agent: LAIONDownloader
 User-agent: LamarkBot
 User-agent: LCC
 User-agent: Lightpanda
+User-agent: LimbesBot
 User-agent: LinerBot
 User-agent: Linguee Bot
 User-agent: LinkupBot
@@ -142,10 +145,12 @@ User-agent: Operator
 User-agent: PanguBot
 User-agent: Panscient
 User-agent: panscient.com
+User-agent: PeekixBot
 User-agent: peer39_crawler
 User-agent: Perplexity-User
 User-agent: PerplexityBot
 User-agent: PetalBot
+User-agent: psprospect
 User-agent: PhindBot
 User-agent: PickaxeBot
 User-agent: Poggio-Citations
