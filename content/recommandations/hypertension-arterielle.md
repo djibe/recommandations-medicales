@@ -404,7 +404,7 @@ La prise en charge initiale de l'hypertension artérielle est une ==**bithérapi
 - Une **monothérapie** est recommandée pour le traitement d'une pression artérielle élevée
 - Préférer une **monothérapie** si: +85 ans, sujet fragile, hypotension orthostatique symptomatique
 - Chez le sujet à peau noire: {{< modal-btn modal-tzd-ica >}}TZD + ICa{{< /modal-btn >}} aussi possible
-- Chez le +85 ans ou fragile: privilégier un ICa dihydropyridine LP
+- Chez le +85 ans ou fragile: privilégier un {{%modal-btn "modal-ica"%}}ICa dihydropyridine LP{{%/modal-btn%}}
 - L'association IEC/ARA2-ICa réduit la survenue d'**œdèmes**; l'association ICa-thiazidique réduit la survenue de l'**hypokaliémie**
 - Un bêtabloquant (BB) peut être adjoint à tout moment en cas de cardiopathie (coronaropathie, insuffisance cardiaque)
 - Pas d'arrêt brutal pour les classes suivantes: BB, ICa, diurétique, antihypertenseur central

@@ -18,6 +18,8 @@ sctid = "237036002"
 icd10 = ["N96"]
 image = false
 imageSrc = ""
+rank = "false"
+writing = "false"
 todo = "flow"
 +++
 
@@ -99,7 +101,7 @@ Bilan complémentaire à considérer:
 Une **analyse génétique du fœtus** pourrait être réalisée à visée étiologique avec conseil génétique du couple en cas d'anomalie.
 
 > [!WARNING]
-> Bilans **non recommandés** pour les fausses couches répétées: typage HLA, dépistage de [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}), glycémie à jeun, androgènes, évaluation de la réserve ovarienne, d'une insuffisance lutéale, thrombophilie (non suggéré sauf facteurs de risque).
+> Bilans **non recommandés** pour les fausses couches répétées: typage HLA, dépistage de [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}})/SMOP, glycémie à jeun, androgènes, évaluation de la réserve ovarienne, d'une insuffisance lutéale, thrombophilie (non suggéré sauf facteurs de risque).
 
 {{% /collapse %}}
 {{%collapse "Traitement des fausses couches répétées" %}}
@@ -138,6 +140,6 @@ Manque de preuves pour: progestérone ou hCG en cas d'insuffisance lutéale, met
 {{% /collapse %}}
 {{%sources%}}
 
-[Goddijn M, et al; ESHRE Guideline Group on RPL. Recurrent pregnancy loss. Guideline of European Society of Human Reproduction and Embryology Update 2022. 2023.](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Recurrent-pregnancy-loss)
+- [Goddijn M, et al; ESHRE Guideline Group on RPL. Recurrent pregnancy loss. Guideline of European Society of Human Reproduction and Embryology Update 2022. 2023.](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Recurrent-pregnancy-loss)
 
 {{%/sources%}}

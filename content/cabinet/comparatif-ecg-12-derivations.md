@@ -14,13 +14,14 @@ tags = []
 image = true
 imageSrc = "kerfin7 / Freepik"
 datatable = true
+todo = "Bionet Cardio Q50, "
 +++
 
 L'électrocardiogramme (ECG) est un examen indispensable au cabinet du médecin généraliste pour le bilan initial et le suivi des maladies cardiovasculaires (diabète, hypertension artérielle ...), ainsi que pour le dépistage et le diagnostic des troubles du rythme (ACFA, sportif) et métaboliques (hypercalcémie, hypokaliémie ...).  
 Pour choisir un ECG adapté à son activité, RecoMédicales recense les ECG connectés dans un comparatif.
 {.lead .mb-5}
 
-Le **comparatif** suivant (en version préliminaire) évalue l'ensemble des **électrocardiogrammes** (ECG de repos) **connectés** à **12 dérivations** pour le médecin généraliste: connexions (USB, Bluetooth ...), prix, type de câbles, analyse automatique, format d'export (PDF, numérique), brochure et notice.
+Le **comparatif** suivant (en version préliminaire) évalue l'ensemble des **électrocardiogrammes** (ECG de repos) **connectés** à **12 dérivations** pour le médecin généraliste: connexions (USB, Bluetooth ...), prix, type de câbles (poires ou électrodes), analyse automatique, format d'export (PDF, numérique), brochure et notice.
 
 > [!INFO]
 > Pour apprendre à lire l'ECG et s'entraîner à la lecture sur des centaines d'ECG, lire l'article [électrocardiogramme]({{% relref "electrocardiogramme.md" %}}).
@@ -42,7 +43,6 @@ Le **comparatif** suivant (en version préliminaire) évalue l'ensemble des **é
 | Spengler | Cardiomate PC-ECG Bluetooth | Bluetooth | 1700 | Électrodes et pinces | oui | PDF, JPEG, BMP, EM-XML, FDA-XML, SCP, DICOM, BKG | Compatible Windows/Android, intégration logiciels | ? | [brochure](https://www.spengler.fr/cardiologie/ecg/ecg-numerique/) | ![Spengler Cardiomate PC ECG Bluetooth](https://raw.githubusercontent.com/djibe/storage/main/ecg/spengler-cardiomatepcecg.avif) |
 | Spengler | Cardiomate EVI 7 | USB, WiFi | 1950 | Électrodes et pinces | oui | PDF, XML | Tablette 7' | ? | [brochure](https://www.spengler.fr/cardiologie/ecg/appareil-ecg-electrocardiographe-cardiomate-evi/) | ![Spengler Cardiomate EVI 7](https://raw.githubusercontent.com/djibe/storage/main/ecg/spengler-cardiomateevi7.avif) |
 | Spengler | Cardiomate EVI 10 | USB, WiFi | 2500 | Électrodes et pinces | oui | PDF, XML | Tablette 10' | ? | [brochure](https://www.spengler.fr/cardiologie/ecg/appareil-ecg-electrocardiographe-cardiomate-evi/) | ![Spengler Cardiomate EVI 10](https://raw.githubusercontent.com/djibe/storage/main/ecg/spengler-cardiomateevi10.avif) |
-| D-Heartcare | D-Heart | Bluetooth | 400 | Électrodes | non | PDF | Compatible Android/iOS, 8D seulement | ? | [brochure](https://www.d-heartcare.com/) | ![D-Heartcare D-Heart](https://raw.githubusercontent.com/djibe/storage/main/ecg/dheartcare-dheart.webp) |
 | MESI | mTABLET ECG | Tablette | 4800 | Électrodes | oui | PDF | Intégration logiciels | ? | [brochure](https://mesimedical.com/fr/mesures/ecg-12-derivations) | ![MESI mTABLET ECG](https://raw.githubusercontent.com/djibe/storage/main/ecg/mesi-mtabletecg.webp) |
 | Lepu Medical | NeoECG S-120 | Tablette, LAN, USB, WiFi | 850 | Poires, câbles et pinces | oui | Carewell ECG, PDF, BMP, HL7, DICOM, SCP || ? | [brochure](https://en.lepumedical.com/products/neo-ecg-s120/), [notice](https://www.lepucreative.com/products/lepu-medical-ai-analysis-diagnostic-smart-12-lead-ecg-monitor-tablet-s120-touch-screen-respiratory-rate-heart-rate-detection-with-wifi-wireless-transmission) | ![Lepu Medical NeoECG S-120](https://raw.githubusercontent.com/djibe/storage/main/ecg/lepumedical-neoecgs120.avif) |
 | Lepu Medical | NeoECG T180 | Tablette, LAN, USB, WiFi | 1850 | Poires, câbles et pinces | oui | Carewell ECG, PDF, BMP, HL7, DICOM, SCP || 4,4 (28 avis) | [brochure](https://en-cdn.lepumedical.com/products/neo-ecg-t180/.html), [notice](https://raw.githubusercontent.com/djibe/storage/main/ecg/lepumedical-neoecgt180-notice.pdf) | ![Lepu Medical NeoECG T180](https://raw.githubusercontent.com/djibe/storage/main/ecg/lepumedical-neoecgt180.avif) |
@@ -51,4 +51,6 @@ Le **comparatif** suivant (en version préliminaire) évalue l'ensemble des **é
 | Schiller | MS-12 | Bluetooth | 3000 | Électrodes | option | ? | ? | ? | [brochure](https://raw.githubusercontent.com/djibe/storage/main/ecg/schiller-ms12-brochure.pdf) | ![Schiller MS-12](https://raw.githubusercontent.com/djibe/storage/main/ecg/schiller-ms12.avif) |
 | Schiller | Cardiovit FT-1 | LAN, WiFi | 3450-3700 | Électrodes | option | PDF | Tablette 8', imprimante | ? | [brochure](https://raw.githubusercontent.com/djibe/storage/main/ecg/schiller-cardiovitft1-brochure.pdf), [notice](https://raw.githubusercontent.com/djibe/storage/main/ecg/schiller-cardiovitft1-notice.pdf) | ![Schiller Cardiovit FT-1](https://raw.githubusercontent.com/djibe/storage/main/ecg/schiller-cardiovitft1.avif) |
 | Schiller | AT-102 G2 | USB, WiFi, LAN | 4100 | Électrodes | oui | PDF | Imprimante, vieillot | ? | [brochure](https://www.schiller.ch/fr-fr/produits/cardiovit-at-102-g2-p190) | ![Schiller AT-102 G2](https://raw.githubusercontent.com/djibe/storage/main/ecg/schiller-at102g2.avif) |
+| Nomix! | Nomix | Bluetooth | 1995-2345 | Électrodes | option | ? | Android/iOS | ? | [brochure](https://www.nomix.fr/) | ![Nomix! Nomix](https://raw.githubusercontent.com/djibe/storage/main/ecg/nomix-nomix.avif) |
+| AliveCor | Kardia 12L | Bluetooth | 2135 | Électrodes | oui | ? | Android/iOS | ? | [brochure](https://raw.githubusercontent.com/djibe/storage/main/ecg/alivecor-kardia12l-brochure.pdf) | ![Nomix! Nomix](https://raw.githubusercontent.com/djibe/storage/main/ecg/alivecor-kardia12l.avif) |
 {class="datatable"}

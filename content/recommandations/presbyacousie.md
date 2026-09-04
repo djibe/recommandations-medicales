@@ -176,7 +176,7 @@ graph TB
 - Collège Français d'ORL et de Chirurgie Cervico-faciale. Surdité et handicap. 2022.
 - [Thai-Van H, et al; SFORL. Parcours de soins du patient presbyacousique. Recommandation pour la pratique clinique. 2021. (PDF)](https://www.sforl.org/wp-content/uploads/2022/03/Reco-Parcours-de-soins-du-patient-presbyacousique_2022.pdf)
 - [Arrêté du 14 novembre 2018 portant modification des modalités de prise en charge des aides auditives et prestations associées au chapitre 3 du titre II de la liste des produits et prestations prévue à l'article L. 165-1 du code de la sécurité sociale.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037615111)
-- [Bureau international d'audiophonologie (biap). Recommandation biap 02/1 bis - Classification audiométrique des déficiences auditives. 1997. (PDF)](https://www.biap.org/fr/recommandations/recommandations/ct-02-classification-des-deficiences-auditives/149-rec-02-01-fr-classification-audiometrique-des-deficiences-auditives/file)
+- [Bureau international d'audiophonologie (biap). Recommandation biap 02/1 bis - Classification audiométrique des déficiences auditives. 1997. (PDF)](https://raw.githubusercontent.com/djibe/storage/main/documents/biap-audiometrique-2017.pdf)
 
 ### Bibliographie en attente
 
