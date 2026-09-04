@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2020-06-02T11:57:29+02:00"
 publishdate = "2020-06-02"
-lastmod = "2026-08-31"
+lastmod = "2026-09-04"
 specialites = ["pédiatrie"]
 annees = "2026"
 sources = ["MinSanté", "Service-Public"]
@@ -104,7 +104,7 @@ Pour plus d'informations sur les vaccinations, dont les obligations vaccinales, 
 |   3 mois   | Méningo B<br>Rotavirus<br>—<br>Prématuré:<br>+ Pneumo 20<br>+ hexavalent (*GPIP*) | Bexsero 1/3<br>RotaTeq 2/3, Rotarix 2/2<br>—<br><br>Prevenar 20<br><br> |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 20<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 20<br>RotaTeq 3/3              |
 |   5 mois   | Méningo B                                            | Bexsero 2/3                                                               |
-|   6 mois   | Méningo ACWY<br>Pneumo 20                            | Nimenrix<br>Prevenar 20                                                   |
+|   6 mois   | Méningo ACWY<br>Pneumo 20                            | Nimenrix<br>Prevenar 20 ([Nouveau](https://www.has-sante.fr/jcms/p_3601959/fr/revision-de-la-strategie-de-vaccination-contre-les-infections-invasives-a-pneumocoques-place-des-vaccins-a-haute-valence-prevenar-20-chez-les-nourrissons-les-enfants-et-les-adultes-et-capvaxive-chez-les-adultes#:~:text=Sch%C3%A9ma%203%2B1%C2%A0%3A%203%20doses%20de%20primovaccination%20%282%2C%204%20et%206%20mois%29)) |
 |  11 mois   | DTCaP-Hib-HB<br>Pneumo 20                            | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 20                             |
 |  12 mois   | Méningo ACWY<br>Méningo B<br>ROR                     | MenQuadfi, Nimenrix<br>Bexsero 3/3<br>MMRvaxPro, Priorix                  |
 | 16-18 mois | ROR                                                  | MMRvaxPro, Priorix                                                        |
