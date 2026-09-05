@@ -9,7 +9,7 @@ synonyms = ["Hypertension et pression artérielle élevée"]
 auteurs = ["Jean-Baptiste FRON", "Sylvestre BAUDRAND"]
 date = "2021-09-28T19:13:55+02:00"
 publishdate = "2021-10-03"
-lastmod = "2026-08-14"
+lastmod = "2026-09-05"
 specialites = ["cardiologie"]
 annees = "2024"
 sources = ["ESC", "ESH"]
@@ -302,7 +302,8 @@ Le brassard est spécifique de chaque appareil.
 - NFS
 - Glycémie à jeun
 - Bilan lipidique: Cholestérol LDL, HDL, CT, TG
-- Rénine, aldostérone, rapport aldostérone / rénine (le matin, prélevé assis et sans restriction sodée)
+- Rénine, aldostérone, rapport aldostérone / rénine (le matin, prélevé assis et sans restriction sodée)  
+  (suggestion *[ES 2025](https://academic.oup.com/jcem/article/110/9/2453/8196671#:~:text=We%20suggest%20that%20all%20individuals%20with%20hypertension%20be%20screened%20for%20PA%20by%20measuring%20aldosterone%20and%20renin%20and%20determining%20the%20aldosterone%20to%20renin%20ratio)*, considérer *ESC 2024*)
 - Calcémie
 - TSH
 - En cas de risque cardiovasculaire **modéré** mésestimé (hérédité, maladie inflammatoire, antécédents gravidiques, VIH, Asie du sud est ...), adresser au spécialiste pour envisager un coroscanner (risque supérieur pour score CAC > 100 Agatston) et/ou des dopplers artériels
@@ -401,16 +402,22 @@ La prise en charge initiale de l'hypertension artérielle est une ==**bithérapi
 <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + TZD</button>
 <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-ara2">ARA2 + ICa</button>
 
-- Une **monothérapie** est recommandée pour le traitement d'une pression artérielle élevée
-- Préférer une **monothérapie** si: +85 ans, sujet fragile, hypotension orthostatique symptomatique
 - Chez le sujet à peau noire: {{< modal-btn modal-tzd-ica >}}TZD + ICa{{< /modal-btn >}} aussi possible
-- Chez le +85 ans ou fragile: privilégier un {{%modal-btn "modal-ica"%}}ICa dihydropyridine LP{{%/modal-btn%}}
 - L'association IEC/ARA2-ICa réduit la survenue d'**œdèmes**; l'association ICa-thiazidique réduit la survenue de l'**hypokaliémie**
-- Un bêtabloquant (BB) peut être adjoint à tout moment en cas de cardiopathie (coronaropathie, insuffisance cardiaque)
+- Un bêtabloquant (BB) peut être couplé à tout moment en cas de cardiopathie (coronaropathie, insuffisance cardiaque)
 - Pas d'arrêt brutal pour les classes suivantes: BB, ICa, diurétique, antihypertenseur central
 
-La baisse de pression artérielle intervient en 1 à 2 semaines après l'introduction du traitement, voire plus.
-{.text-black-secondary}
+#### Quand introduire une monothérapie en première intention ?
+
+L'initiation du traitement par une monothérapie (une seule substance) est recommandée pour certains profils:
+
+- Pression artérielle élevée (120–139 / 70–89 mmHg) et risque cardiovasculaire élevé
+- +85 ans (privilégier un {{%modal-btn "modal-ica"%}}ICa dihydropyridine LP{{%/modal-btn%}})
+- Fragilité modérée à sévère (ICa également)
+- Hypotension orthostatique symptomatique préexistante
+
+> [!INFO]
+> La baisse de pression artérielle intervient en 1 à 2 semaines après l'introduction du traitement, voire plus.
 
 ### Traitement de niveau 2
 
@@ -484,7 +491,7 @@ Particularités de l'hypertension artérielle pendant la grossesse (**hypertensi
   - Mesures quotidiennes pendant au moins 1 semaine après la sortie
   - Contrôle à 6-12 semaines, **6 mois**, **12 mois**: PA, BU, risque cardiovasculaire
 
-Traitements de préférence: bêtabloquant [labétalol](https://base-donnees-publique.medicaments.gouv.fr/medicament/65193337/extrait#tab-rcp) (Trandate® 2/j, [CRAT](http://www.lecrat.fr/7158/)) (métoprolol et bisoprolol sont aussi considérés comme sûrs -- *ESC*), inhibiteur calcique [nifédipine LP](https://base-donnees-publique.medicaments.gouv.fr/medicament/66932763/extrait#tab-rcp) 1/j - [CRAT](http://www.lecrat.fr/7173/) (voire nicardipine) voir antihypertenseur central [méthyldopa](https://base-donnees-publique.medicaments.gouv.fr/medicament/60578560/extrait#tab-rcp) (Aldomet®; nombreux comprimés, préviendrait moins l'HTA sévère; [CRAT](http://www.lecrat.fr/7193/)).
+Traitements de préférence: bêtabloquant [labétalol](https://base-donnees-publique.medicaments.gouv.fr/medicament/65193337/extrait#tab-rcp) (Trandate® 2/j, [CRAT](http://www.lecrat.fr/7158/)) (métoprolol et bisoprolol sont aussi considérés comme sûrs -- *ESC*), inhibiteur calcique [nifédipine LP](https://base-donnees-publique.medicaments.gouv.fr/medicament/66932763/extrait#tab-rcp) 1/j - [CRAT](http://www.lecrat.fr/7173/) (nicardipine moins évaluée) voire antihypertenseur central [méthyldopa](https://base-donnees-publique.medicaments.gouv.fr/medicament/60578560/extrait#tab-rcp) (Aldomet®; nombreux comprimés, préviendrait moins l'HTA sévère; [CRAT](http://www.lecrat.fr/7193/)).
 
 > [!WARNING]
 > Contre-indication aux IEC/ARA2 et inhibiteurs de la rénine pendant la grossesse.
@@ -526,6 +533,7 @@ graph TB
 
 - [Spary-Kainz U, et al. Long‐term effects of weight‐reducing drugs in people with hypertension. Cochrane Database of Systematic Reviews. 2026.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007654.pub6/full/fr)
 - [Cohen JB, et al. Cuffless Devices for the Measurement of Blood Pressure: A Scientific Statement From the American Heart Association. Hypertension. 2026.](https://www.ahajournals.org/doi/10.1161/HYP.0000000000000254)
+- [Adler GK, et al. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2025.](https://academic.oup.com/jcem/article/110/9/2453/8196671)
 - [Académie de médecine. Hydrochlorothiazide et cancers cutanés : prévenir avant tout ! 13/11/2025.](https://www.academie-medecine.fr/hydrochlorothiazide-et-cancers-cutanes-prevenir-avant-tout/)
 - [Tock R. Impact d'un modèle de soins infirmiers assisté par Internet, dirigé par des infirmières spécialisées dans un cadre de collaboration multidisciplinaire sur la gestion de l'hypertension artérielle. Minerva. 2025.](https://minerva-ebp.be/FR/Analysis/913)
 - [Grave C, et al. Le fardeau de l'hypertension artérielle en France en 2021. Bull Epidemiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/12/2025_12_1.html)
