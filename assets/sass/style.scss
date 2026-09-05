@@ -725,6 +725,11 @@ article {
   padding: 1rem;
   margin-bottom: 1rem;
 
+    * {
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
   .typography-overline {
     color: #616161;
     margin-bottom: 0;
