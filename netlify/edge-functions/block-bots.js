@@ -19,6 +19,8 @@ const botUas = [
   'CopyousBot',
   'curl',
   'DefaultLangchainUserAgent',
+  'Diffbot',
+  'Diffbot-User',
   'docling-core',
   'ExaSearchBot',
   'Go-http-client',
@@ -72,7 +74,7 @@ export default async (request, context) => {
     return context.next();
   }
 
-  const forbiddenBots = ['ChatGPT', 'ChatGPT-User', 'Claude-User', 'ClaudeBot', 'Claude-SearchBot', 'Claude-Web', 'Google-NotebookLM', 'GPTBot', 'MistralAI-Index', 'OAI-SearchBot'];
+  const forbiddenBots = ['ChatGPT', 'ChatGPT-User', 'Claude-User', 'ClaudeBot', 'Claude-SearchBot', 'Claude-Web', 'DoubaoBot', 'ERNIEBot', 'Google-NotebookLM', 'GPTBot', 'KimiBot', 'Kimi-SearchBot', 'MistralAI-Index', 'OAI-AdsBot', 'OAI-SearchBot', 'QwenBot'];
   const isForbiddenBot = forbiddenBots.some(u =>
     ua.toLowerCase().includes(u.toLowerCase())
   );
