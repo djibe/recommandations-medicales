@@ -320,7 +320,7 @@ les **IMAO B et agonistes dopaminergiques** sont les traitements de première in
   - Dérivés de l'ergot de seigle: bromocriptine (Parlodel®), lisuride (Arolac®)
 - Amantadine (Mantadix® pour les dyskinésies)
 - **L-Dopa** (lévodopa)  
-  Retarder l'instauration pour épargner son efficacité (apparition de fluctuations et dyskinésies à terme sous traitement).
+  Retarder l'instauration pour épargner son efficacité (apparition de fluctuations et dyskinésies à terme sous traitement). Surveiller la vitamine B6.
 - Anticholinergiques bipéridène (tremblement uniquement)
 - Inhibiteurs de la catéchol-O-méthyl transférase (inhibition du métabolisme périphérique)  
   **Entacapone** (Comtan®), tolcapone (Tasmar®).
@@ -363,6 +363,7 @@ L'indication principale à la stimulation cérébrale est une qualité de vie al
   - Réponse au traitement et effets indésirables (dont modifications du comportement)
   - Observance
   - Jamais d'arrêt brutal
+  - En cas de Lévodopa: dosage régulier de la vitamine B6 (*Prescrire*)
 - Troubles moteurs
   - Aggravation: rechercher une pathologie intercurrente (infection, constipation), l'observance (horaire, posologie).  
     Peut être liée à la maladie ou aux traitements et nécessite un avis neurologique.
@@ -494,6 +495,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- Prescrire Redaction. Lévodopa : convulsions par carence en vitamine B6. Revue Prescrire. 2026.
 - [Battel I, et al. Rehabilitation interventions for oropharyngeal dysphagia in people with Parkinson's disease. Cochrane Database of Systematic Reviews. 2026.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015816.pub2/full/fr)
 - [Santé Publique France. Maladie de Parkinson : quelle évolution entre 2016 et 2020 ?. 11/04/2023.](https://www.santepubliquefrance.fr/les-actualites/2023/maladie-de-parkinson-quelle-evolution-entre-2016-et-2020)
 - [Ernst M, et al. Physical exercise for people with Parkinson's disease: a systematic review and network meta‐analysis. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013856.pub2/full/fr)

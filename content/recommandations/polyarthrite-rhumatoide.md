@@ -128,6 +128,7 @@ L'examen clinique a une place primordiale dans la détection et le traitement de
   - ET douleurs inflammatoires
   - OU raideur matinale > 30 minutes
   - Ténosynovite (inflammation des gaines tendineuses) peut être associée
+  - Localisations préférentielles: mains, poignets et pieds. Autres localisations: genoux, coudes, épaules
 
 ### Examen clinique
 
@@ -358,6 +359,7 @@ graph TB
 - [Smolen JS, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biologic disease-modifying antirheumatic drugs: 2025 update. Ann Rheum Dis. 2026.](https://ard.eular.org/article/S0003-4967(26)00075-0/fulltext)
 - [Fautrel B, et al. 2024 update of the recommendations of the French Society of Rheumatology for the diagnosis and management of patients with rheumatoid arthritis. Joint Bone Spine. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S1297319X24001015)
 - [England BR, et al. 2022 American College of Rheumatology Guideline for Exercise, Rehabilitation, Diet, and Additional Integrative Interventions for Rheumatoid Arthritis. Arthritis Rheumatol. 2023.](https://rheumatology.org/integrative-ra-treatment-guideline)
+- [Organisation Mondiale de la Santé. Polyarthrite rhumatoïde. 2023.](https://www.who.int/fr/news-room/fact-sheets/detail/rheumatoid-arthritis)
 - {{< references/esh-2023 >}}
 - [Smolen JS, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. Annals of the Rheumatic Diseases. 2022.](https://ard.bmj.com/content/early/2022/11/10/ard-2022-223356)
 - [Fragoulis GE, et al. 2022 EULAR recommendations for screening and prophylaxis of chronic and opportunistic infections in adults with autoimmune inflammatory rheumatic diseases. Annals of the Rheumatic Diseases. 2023.](https://ard.bmj.com/content/82/6/742)

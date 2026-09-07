@@ -123,7 +123,7 @@ Signes et symptômes de l'atteinte axiale d'une spondyloarthrite:
 ### Syndrome articulaire périphérique
 
 - Oligo-arthrite des membres inférieurs  
-  Genou > cheville et coxo-fémorale.
+  Genou > cheville et coxo-fémorale (hanche).
 - Atteinte inter-phalangienne distale (IPD) ou de l'ensemble de l'extrémité (**dactylite, doigt en saucisse**).  
   Examen systématique des pieds.
 
