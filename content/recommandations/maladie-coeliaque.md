@@ -338,8 +338,8 @@ Recommandations pour la prise en charge de la maladie cœliaque:
 - Vaccin pneumocoque si: asplénie fonctionnelle, autre maladie auto-immune, maladie cœliaque résistante ou +65 ans.
 - **Recontrôler la sérologie initiale à 6 et 12 mois pour encourager le patient dans son régime**
 - **Dépister l'entourage** au premier degré et suivi sérologique
-- Association de patients  
-  [Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil)
+- Associations de patients  
+  [Association Française Des Intolérants Au Gluten (AFDIAG)](https://www.afdiag.fr/accueil), [COELIAC ACTION](https://www.coeliac-action.fr)
 
 En cas d'amélioration seulement partielle: essayer une [éviction du lactose]({{% relref "intolerance-lactose.md" %}}) (adulte/enfant -- *ESsCD 2025*, *ESPGHAN 2022*) et chez l'adulte, également un [régime pauvre en FODMAPs]({{% relref "regime-fodmaps.md" %}}). Bilan spécialisé systématique si les symptômes persistent à 1 an.
 
