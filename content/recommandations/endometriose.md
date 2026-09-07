@@ -18,7 +18,9 @@ icd10 = ["N80", "N80.9"]
 image = true
 imageSrc = "Illustration de l'endométriose par vectorjuice / Freepik"
 flowchart = true
-todo = "seo | https://endometriose-affairedetous.com/fiches-a-telecharger/, activité physique bassin, quid bilan IST/salpingite ?"
+rank = "false"
+writing = "false"
+todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité physique bassin, quid bilan IST/salpingite ?"
 +++
 
 {{%article-summary%}}
@@ -64,7 +66,7 @@ Dysménorrhée
 1. Une part importante des douleurs est *neuropathique* par l'atteinte des nerfs par l'endométriose  
   Ce sont des douleurs à type de coups d'aiguille ou d'étau irradiant le long des structures pelviennes.
 2. La fibrose endométriale entraîne une immobilité tissulaire douloureuse avec perte de fonction des organes  
-  Traitée par auto-exercices, acupuncture, ostéopathie, yoga.
+  Traitée par auto-exercices, acupuncture, yoga.
 3. Hypersensibilité centrale  
   Accessible à l'hypnose, psychothérapie, sexologie.
 4. Les douleurs inflammatoires sont surtout liées aux règles  
@@ -211,7 +213,7 @@ La prise en charge de l'endométriose en première intention comprend:
   - Évaluation spécialisée en cas de douleurs chroniques ([neuropathiques]({{% relref "douleur-neuropathique.md" %}}) ++)  
     Spécialistes: gynécologue, médecine de la douleur, sexologue, psychologue, assistant social.
 - Autres traitements
-  - Acupuncture, ostéopathie, yoga
+  - Acupuncture, yoga (ostéopathie pas meilleure que le placebo -- *Prescrire*)
   - Activité physique quotidienne avec exercices du bassin
   - Aucun régime ou supplémentation n'a de bénéfice prouvé
 - Association de patientes: [EndoFrance](https://www.endofrance.org)
@@ -302,7 +304,7 @@ graph TB
 
 ### Applications
 
-[Ziwig](https://endo.ziwig.com/main/home), [easyendo](https://www.easyendo.fr/).
+[Ziwig](https://endo.ziwig.com), [easyendo](https://www.easyendo.fr).
 
 ### Documents
 
@@ -320,10 +322,10 @@ graph TB
 {{< card-link-external title="Endométriose : l'affaire de tous" url="https://endometriose-affairedetous.com" subtitle="CNGOF, ARS IDF, PNS-MOOC">}}
 
 - [SIFEM, SFR, CNGOF. Actualisation de la place des différents examens d'imagerie pour le diagnostic d'endométriose. 2025.](https://www.has-sante.fr/jcms/p_3524940/fr/label-prise-en-charge-de-l-endometriose-actualisation-de-la-place-des-examens-d-imagerie-et-fiches-pratiques-en-echographie-et-irm-note-de-cadrage)
+- Prescrire Redaction. Douleurs liées à une endométriose pelvienne. Premiers Choix Prescrire. Rev Prescrire. 2025.
 - [Bushnell C, et al. 2024 Guideline for the Primary Prevention of Stroke: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2024.](https://www.ahajournals.org/doi/abs/10.1161/STR.0000000000000475)
-- Prescrire Redaction. Douleurs liées à une endométriose pelvienne. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [ANSM. Troubles menstruels après la vaccination contre le Covid-19 : état des connaissances et conseils aux femmes concernées. 21/07/2022.](https://ansm.sante.fr/actualites/troubles-menstruels-apres-la-vaccination-contre-le-covid-19-etat-des-connaissances-et-conseils-aux-femmes-concernees)
-- [ACOG. Dysmenorrhea and Endometriosis in the Adolescent. 2018.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/12/dysmenorrhea-and-endometriosis-in-the-adolescent)
+- ACOG. Dysmenorrhea and Endometriosis in the Adolescent. 2018. (inaccessible)
 - Prescrire Rédaction. Endométriose douloureuse. En absence de projet de grossesse : paracétamol et AINS, voire estroprogestatif ou DIU au lévonorgestrel. Prescrire. 2019.
 - [Inserm. Endométriose. Dossiers d'information. 11/12/2018.](https://www.inserm.fr/information-en-sante/dossiers-information/endometriose)
 - [HAS, CNGOF. Prise en charge de l'endométriose. Recommandation de bonne pratique. 2017.](https://www.has-sante.fr/jcms/c_2819733/fr/prise-en-charge-de-l-endometriose)
@@ -331,7 +333,9 @@ graph TB
 
 ### Bibliographie en attente
 
+- [ACOG. Diagnosis of Endometriosis. 2026.](https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2026/03/diagnosis-of-endometriosis) (payant)
 - [Fritel X, et al. Douleurs pelviennes associées à l'Endométriose, conseils pour la pratique clinique. Un consensus formalisé d'experts par le CNGOF & Convergences PP. Gynécologie Obstétrique Fertilité & Sénologie. 2025.](https://www.sciencedirect.com/science/article/abs/pii/S2468718925001527) (payant)
+- [NICE. Endometriosis: diagnosis and management. NICE guideline. 2024.](https://www.nice.org.uk/guidance/ng73)
 - [ESHRE Guideline Endometriosis. 2022.](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Endometriosis-guideline)
 
 {{%/sources%}}
