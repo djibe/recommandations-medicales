@@ -606,7 +606,7 @@ graph TB
       générales --> crise("<strong>Traitement de la crise</strong><br>—<br>- Légère: AINS ± triptan H1<br>- Modérée à sévère<br>triptan ± AINS H1")
       crise -- Réévaluation --> reevaluation("Après 3 crises:<br>M-TOQ et<br>adaptation du traitement") --> crise
       reevaluation --> chronique("≥ 1 parmi: <br>- Crise ou traitement de crise ≥ 8 j/mois <br>- HIT-6 ≥ 60 avec arrêt total des activités ≥ 50 %<br>- HIT-6 ≥ 65") -- Non --> pasFond(Pas de traitement<br>de fond)
-        chronique -- Oui --> fond("<strong>Traitement de fond</strong><br>—<br>Essayer ≥ 3 mois:<br>propranolol <br>pour réduire le nb de jours<br>de céphalées ≥ 50 %<hr>ou neurologue d'emblée") --> neuro("Suivi neurologique")
+        chronique -- Oui --> fond("<strong>Traitement de fond</strong><br>—<br>Essayer ≥ 3 mois:<br>propranolol <br>pour réduire le nb de jours<br>de céphalées ≥ 50 %<br>ou neurologue d'emblée") --> neuro("Suivi neurologique")
     ichd3 -- Migraine avec aura --> aura("- Contre-indication<br>aux estrogènes<br>- Mesures générales: idem<br>- Crise: AINS dès aura<br>et triptan dès céphalée<br>- Traitement de fond idem<br>- IRM si aura atypique<br>- Suivi neuro si aura atypique/sévère<br>ou migraine sévère")
     ichd3 -- Diagnostic différentiel --> differentiel("- Abus médicamenteux<br>- Céphalées de tension<br>- Névralgie Arnold<br>- Sinusite aiguë<br>- Orthoptie<br>- Algies vasculaires<br>- Névralgie du trijumeau<br>- Autres")
 {{< /mermaid >}}

@@ -166,7 +166,7 @@ Avis allergologique:
 - {{< modal-btn modal-allergie-severe >}}Réaction sévère{{< /modal-btn >}} à un antibiotique non-bêtalactamine
 
 {{% /collapse %}}
-{{%collapse "Prise en charge de l'allergie aux antibiotiques" %}}
+{{%collapse "Allergie aux antibiotiques" %}}
 
 > [!WARNING]
 > Contre-indication à vie à la bêtalactamine responsable d'une réaction retardée **sévère** ou d'une allergie avérée.

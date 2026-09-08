@@ -541,7 +541,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 
 ### Bibliographie en attente
 
-- [Garabedian C, et al. Diabète antérieur à la grossesse : consensus formalisé d'experts du collège national des gynécologues et obstétriciens français et de la société française de diabétologie. Gynecol Obstet Fertil Senol. 2026. (PDF)](https://cngof.fr/app/uploads/2026/05/CFE-diabete-anterieur-2026.pdf)
+- [Garabedian C, et al. Diabète antérieur à la grossesse : consensus formalisé d'experts du collège national des gynécologues et obstétriciens français et de la société française de diabétologie. Gynecol Obstet Fertil Senol. 2026. (PDF)](https://cngof.fr/app/uploads/2026/05/CFE-diabete-anterieur-2026.pdf)
 - [NICE. Diabetic retinopathy: management and monitoring. NICE guideline. 2024.](https://www.nice.org.uk/guidance/ng242)
 - [Sultan A, et al. Référentiel pied diabétique SFD 2024. Med Mal Metab. 2024. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/referentiel_sfd_2024_0.pdf)
 - [The Diabetes and Nutrition Study Group (DNSG) of the European Association for the Study of Diabetes (EASD). Evidence-based European recommendations for the dietary management of diabetes. Diabetologia 66. 2023.](https://link.springer.com/article/10.1007/s00125-023-05894-8)

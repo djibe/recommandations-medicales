@@ -20,6 +20,8 @@ Le recours à un assistant médical est soutenu par l'Assurance Maladie depuis 2
 
 Les assistants médicaux permettent de déléguer les appels et les demandes administratives, installer le patient et préparer la consultation, faire le point sur les dépistages, aider pour certains actes ou toute autre tâche améliorant la pratique quotidienne.
 
+La subvention peut désormais être allouée à une SCM/SCP ou SISA.
+
 {{< card-link title="Aides à l'installation du généraliste" url="/cabinet/aides-installation-generaliste/">}}
 
 {{%collapse "Conditions d'accès à un assistant médical" %}}
@@ -110,6 +112,7 @@ Toutefois, toute personne peut commencer la collaboration sous réserve de passe
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ameli Médecin. Assistant médical : les médecins peuvent bénéficier d'une aide collective à l'emploi. 24/06/2026.](https://www.ameli.fr/medecin/actualites/assistant-medical-les-medecins-peuvent-beneficier-d-une-aide-collective-l-emploi)
 - [Ameli Médecin. Aide à l'emploi d'un assistant médical : ce qui change dès juin 2024. 27/06/2024.](https://www.ameli.fr/medecin/actualites/aide-l-emploi-d-un-assistant-medical-ce-qui-change-des-juin-2024)
 - [Ameli Médecin. Assistant médical : simplifier ses démarches de recrutement avec le Titre emploi service entreprise. 25/01/2024.](https://www.ameli.fr/medecin/actualites/assistant-medical-simplifier-ses-demarches-de-recrutement-avec-le-titre-emploi-service-entreprise)
 - [Ameli Médecin. L'aide à l'emploi d'assistants médicaux dans les cabinets libéraux. 14/11/2023.](https://www.ameli.fr/hauts-de-seine/medecin/exercice-liberal/vie-cabinet/aides-financieres/aide-emploi-assistants-medicaux)

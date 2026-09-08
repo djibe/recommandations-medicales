@@ -75,10 +75,10 @@ Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 | RDV       | Consultation du [bilan de prévention]({{% relref "bilan-prevention.md" %}}) (à 100 %)         |             30 |
 | COB       | Consultation de l'enfant à 6, 8-9, 11-13 et 15-16 ans (à 100 %)                               |             30 |
 | RQD       | Demande de téléexpertise (FSE Sesam sans vitale dédiée en TP AMO)                             |             10 |
-| MPH       | Premier remplissage du dossier MDPH ou APA de la personne avec handicap                       |             60 |
+| MPH       | Premier remplissage du dossier MDPH ou APA de la personne avec handicap (MT ou non)           |             60 |
 | IMT       | Déclaration MT d'un patient en ALD 30 (à 100 %). Cocher Nouveau médecin traitant sur la FS    |             60 |
 | GL1       | Consultation longue du +80 ans sortant d'hospitalisation (sous 45j, max 1/an par le MT)       |             60 |
-| GL2       | Consultation longue de déprescription du +80 ans polymédiqué (≥ 10 lignes, max 1/an par le MT) |            60 |
+| GL2       | Consultation longue de déprescription du +80 ans polymédiqué (≥ 10 lignes, max 1/an par le MT), APRÈS bilan de médication prescrit et réalisé en pharmacie | 60 |
 | GL3       | Remplissage du dossier d'APA du +80 ans (max 1/an par le MT, GL3 ou MPH sur l'année)          |             60 |
 | CCP       | 1^re^ consultation contraception avant 26 ans (à 100 %, anonymisable)                         |           47,5 |
 | CTE       | Consultation repérage trouble neurodéveloppement ou de la relation précoce parents-enfants    |             60 |
@@ -209,10 +209,10 @@ L'extraction de cérumen (CAGD001) à 19,63 € n'a pas d'intérêt.
 
 ## Sources
 
+- [Ameli Médecin. Patients âgés de plus de 80 ans : la consultation longue valorise leur prise en charge. 24/06/2026.](https://www.ameli.fr/medecin/actualites/patients-ages-de-plus-de-80-ans-la-consultation-longue-valorise-leur-prise-en-charge)
 - [Ameli. Tarifs conventionnels des médecins généralistes et spécialistes. 30/06/2025.](https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/consultations-actes/tarifs/tarifs-conventionnels-medecins-generalistes-specialistes)
 - [Ameli. La revalorisation des consultations et des actes.](https://www.ameli.fr/medecin/textes-reference/convention-medicale-2024-2029/grands-axes-convention-detail/mesures-attractivite-exercice-liberal/revalorisation-consultations-actes)
-- [Ameli. Tarifs des consultations : ce qui change au 1er novembre. 30/10/2023.](https://www.ameli.fr/hauts-de-seine/medecin/actualites/tarifs-des-consultations-ce-qui-change-au-1er-novembre)
-- [Ameli. Convention médicale 2016 et règlement arbitral 2023.](https://www.ameli.fr/hauts-de-seine/medecin/textes-reference/convention-medicale-2016)
+- Ameli. Convention médicale 2016 et règlement arbitral 2023.
 - [MG France. Plaquettes tarifaires. 2023.](https://www.mgfrance.org/telechargements/guides-et-plaquettes-publics/2363-plaquettes-tarifaires)
 - Assurance Maladie. La convention nationale 2016-2021 entre les médecins libéraux et l'Assurance Maladie synthèse
 

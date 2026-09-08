@@ -411,7 +411,7 @@ graph TB
         antibiogramme -- Résistant --> bismuthCI("Bismuth CI ?")
           bismuthCI -- Oui --> levofloS(Lévoflo-S ?) -- Oui --> levoflo("<b>Trithérapie 14j</b><br>IPP + amoxicilline<br>+ lévofloxacine") --> controle
             levofloS -- "Non<br>(Lévo-R ou<br>inconnue)" --> RCP(Avis du GEFH)
-          bismuthCI -- Non --> bismuth1("<b>Quadrithérapie 10j</b><br>Oméprazole + Pylera<hr>Avis GEFH<br>si CI péni et Pylera") --> controle
+          bismuthCI -- Non --> bismuth1("<b>Quadrithérapie 10j</b><br>Oméprazole + Pylera<br>Avis GEFH<br>si CI péni et Pylera") --> controle
           controle -- Négatif --> ok(Bactérie<br>éradiquée)
           controle -- Positif --> autres("Voir la section<br><em>Traitement guidé</em>")
         antibiogramme -- Allergie péni --> bismuth1
