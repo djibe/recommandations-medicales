@@ -86,26 +86,29 @@
 </blockquote>
 {{ $script := `
   // Score ADRS by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
-    const scoreAdrs = document.getElementById('adrsScore');
-    const textAdrs = document.getElementById('adrsText');
-    [...document.querySelectorAll('#score-adrs input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { calcAdrs() }) });
-    const calcAdrs = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('#score-adrs input[type=\"radio\"]:checked')
-      elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-        if (elemsChecked.length === 10) {
-          scoreAdrs.innerHTML = score
-          if (score <= 3) {
-            textAdrs.innerHTML = 'Absence de souffrance psychologique'
-          } else if (score >= 4 && score < 7) {
-            textAdrs.innerHTML = 'État de souffrance psychologique'
-          } else if (score >= 7) {
-            textAdrs.innerHTML = 'État de dépression'
-          }
-        }
-      })
+document.addEventListener('DOMContentLoaded', event => {
+  const scoreAdrs = document.getElementById('adrsScore');
+  const textAdrs = document.getElementById('adrsText');
+  const radios = document.querySelectorAll('#score-adrs input[type="radio"]');
+  radios.forEach((elem) => {
+    elem.addEventListener('click', () => calcAdrs() )
+  });
+  const calcAdrs = () => {
+    let score = 0;
+    const elemsChecked = document.querySelectorAll('#score-adrs input[type="radio"]:checked');
+    elemsChecked.forEach(elemChecked => {
+      score += parseInt(elemChecked.value, 10);
+    });
+    if (elemsChecked.length === 10) {
+      scoreAdrs.innerHTML = score;
+      if (score <= 3) {
+        textAdrs.innerHTML = 'Absence de souffrance psychologique';
+      } else if (score >= 4 && score < 7) {
+        textAdrs.innerHTML = 'État de souffrance psychologique';
+      } else if (score >= 7) {
+        textAdrs.innerHTML = 'État de dépression';
+      }
     }
-  })` }}
+  };
+});` }}
 <script>{{ $script | safeJS }}</script>

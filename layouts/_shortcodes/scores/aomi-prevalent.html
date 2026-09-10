@@ -57,41 +57,39 @@
 </blockquote>
 {{ $script := `
   // Score PREVALENT by djibe
-  window.addEventListener( 'load', event => {
-    const scorePREVALENT = document.getElementById('prevalentScore')
-    const textPREVALENT = document.getElementById('prevalentText');
-    [...document.querySelectorAll('#score-prevalent input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcPrevalent() ) })
-    const calcPrevalent = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('#score-prevalent input[type=\"radio\"]:checked')
-        elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-        if (elemsChecked.length === 3) {
-          scorePREVALENT.innerHTML = score
-          let explainPrevalent = "<span class='d-block text-muted mt-2'>Risque d’AOMI de " + findPrevalence(score) + "%</span>"
-          if (score <= 7) {
-            textPREVALENT.innerHTML = "Pas de dépistage de l’AOMI sauf comorbidités" + explainPrevalent
-          }
-          else if (score > 7) {
-            textPREVALENT.innerHTML = "Adresser à l’angiologue pour la mesure de l’IPS" + explainPrevalent
-          }
-        } else {
-          textPREVALENT.innerHTML = "Veuillez répondre à toutes les questions"
-        }
-      })
+  document.addEventListener('DOMContentLoaded', () => {
+  const scorePREVALENT = document.getElementById('prevalentScore');
+  const textPREVALENT = document.getElementById('prevalentText');
+  const radios = document.querySelectorAll('#score-prevalent input[type="radio"]');
+  radios.forEach(elem => {
+    elem.addEventListener('click', calcPrevalent);
+  });
+  const prevalenceData = {
+    4: 11.9, 5: 14.5, 6: 17.5, 7: 19.3, 8: 23.5,
+    9: 25.9, 10: 24.3, 11: 25.1, 12: 31.1
+  };
+  const findPrevalence = (score) => {
+    if (score <= 3) return 7;
+    if (score >= 13) return 40.6;
+    return prevalenceData[score];
+  };
+  function calcPrevalent() {
+    const elemsChecked = document.querySelectorAll('#score-prevalent input[type="radio"]:checked');
+    if (elemsChecked.length < 3) {
+      textPREVALENT.innerHTML = "Veuillez répondre à toutes les questions";
+      return;
     }
-    const findPrevalence = (score) => {
-      if (score <= 3) { return 7 }
-      else if (score === 4) { return 11.9 }
-      else if (score === 5) { return 14.5 }
-      else if (score === 6) { return 17.5 }
-      else if (score === 7) { return 19.3 }
-      else if (score === 8) { return 23.5 }
-      else if (score === 9) { return 25.9 }
-      else if (score === 10) { return 24.3 }
-      else if (score === 11) { return 25.1 }
-      else if (score === 12) { return 31.1 }
-      else if (score >= 13) { return 40.6 }
+    let score = 0;
+    elemsChecked.forEach(elemChecked => {
+      score += parseInt(elemChecked.value, 10);
+    });
+    scorePREVALENT.innerHTML = score;
+    const explainPrevalent = '<span class="d-block text-muted mt-2">Risque d’AOMI de ' + findPrevalence(score) + '%</span>';
+    if (score <= 7) {
+      textPREVALENT.innerHTML = 'Pas de dépistage de l’AOMI sauf comorbidités' + explainPrevalent;
+    } else {
+      textPREVALENT.innerHTML = 'Adresser à l’angiologue pour la mesure de l’IPS' + explainPrevalent;
     }
-  })` }}
+  }
+});` }}
 <script type="module">{{ $script | safeJS }}</script>
