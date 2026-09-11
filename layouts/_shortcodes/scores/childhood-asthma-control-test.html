@@ -98,7 +98,7 @@
 <div class="alert bg-light d-flex mt-4">
   <div class="d-flex flex-column align-items-center justify-content-evenly">
   <p class="typography-overline score-output-title">Score C-ACT™</p>
-  <output class="score-output" id="cactScore">0</output>
+  <output class="score-output" id="cactScore">-</output>
   </div>
   <p id="cactText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
 </div>
@@ -111,27 +111,40 @@
 </blockquote>
 {{ $script := `
   // Score Childhood Asthma Control Test adapted by djibe
-  document.addEventListener( 'DOMContentLoaded', event => {
-    const scoreAct = document.getElementById('cactScore')
-    const textAct = document.getElementById('cactText');
-    [...document.querySelectorAll('#score-cact input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcCAct() ) })
-    const calcCAct = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('#score-cact input[type=\"radio\"]:checked')
-        elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-        if (elemsChecked.length === 7) {
-          scoreAct.innerHTML = score
-          if (score > 19) {
-            textAct.innerHTML = 'Asthme contrôlé'
-          }
-          else if (score <= 19) {
-            textAct.innerHTML = 'Asthme non contrôlé<br><span class="text-muted">Intensifier le traitement (augmenter le CSI ± LABA)</span><br>Avis pneumopédiatrique si besoin'
-          }
-        } else {
-          textAct.innerHTML = 'Veuillez répondre à toutes les questions'
-        }
-      })
+document.addEventListener('DOMContentLoaded', () => {
+  const scoreAct = document.getElementById('cactScore');
+  const textAct = document.getElementById('cactText');
+  const container = document.getElementById('score-cact');
+
+  if (!scoreAct || !textAct || !container) return;
+
+  const calcCAct = () => {
+    const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (elemsChecked.length < 7) {
+      scoreAct.textContent = '-';
+      textAct.textContent = 'Veuillez répondre à toutes les questions';
+      return;
     }
-  })` }}
+
+    let score = 0;
+    elemsChecked.forEach(elem => {
+      score += parseInt(elem.value, 10) || 0;
+    });
+
+    scoreAct.textContent = score;
+
+    if (score > 19) {
+      textAct.textContent = 'Asthme contrôlé';
+    } else {
+      textAct.innerHTML = 'Asthme non contrôlé<br><span class="text-muted">Intensifier le traitement (augmenter le CSI ± LABA)</span><br>Avis pneumopédiatrique si besoin';
+    }
+  };
+
+  container.addEventListener('change', event => {
+    if (event.target.matches('input[type="radio"]')) {
+      calcCAct();
+    }
+  });
+});` }}
 <script>{{ $script | safeJS }}</script>

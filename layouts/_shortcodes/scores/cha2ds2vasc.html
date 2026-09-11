@@ -50,33 +50,39 @@
 </blockquote>
 {{ $script := `
   // Score CHA2DS2-VASc by djibe
-  window.addEventListener( 'load', event => {
-    const textChads = document.getElementById('chadsText')
-    const scoreChads = document.getElementById('chadsScore');
-    [...document.querySelectorAll('#score-cha2ds2vasc input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => calcChads() ) })
-    const calcChads = () => {
-      let score = 0
-      const checkboxFemme = document.getElementById('check-femme')
-      const elemsChecked = document.querySelectorAll('#score-cha2ds2vasc input[type=\"checkbox\"]:checked');
-      elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-        scoreChads.innerHTML = score
-        if (score === 0 && checkboxFemme.checked === false) {
-          textChads.innerHTML = "Risque d’AVC faible<br>Pas d’antithrombotique"
-        } else if (score === 1 && checkboxFemme.checked) {
-          textChads.innerHTML = "Risque d’AVC faible<br>Pas d’antithrombotique"
-        } else if (score === 1 && checkboxFemme.checked === false) {
-          textChads.innerHTML = 'Anticoagulation à considérer<br>Évaluer le risque hémorragique avec HAS-BLED'
-        } else if (score === 2 && checkboxFemme.checked) {
-          textChads.innerHTML = 'Anticoagulation à considérer<br>Évaluer le risque hémorragique avec HAS-BLED'
-        } else {
-          textChads.innerHTML = 'Anticoagulation recommandée<br>Évaluer le risque hémorragique avec HAS-BLED'
-        }
-      })
-      if (elemsChecked.length === 0) {
-        scoreChads.innerHTML = 0
-        textChads.innerHTML = "Risque d’AVC faible<br>Pas d’antithrombotique"
-      }
+document.addEventListener('DOMContentLoaded', () => {
+  const textChads = document.getElementById('chadsText');
+  const scoreChads = document.getElementById('chadsScore');
+  const container = document.getElementById('score-cha2ds2vasc');
+
+  if (!textChads || !scoreChads || !container) return;
+
+  const calcChads = () => {
+    const checkboxFemme = document.getElementById('check-femme');
+    const elemsChecked = container.querySelectorAll('input[type="checkbox"]:checked');
+
+    let score = 0;
+    elemsChecked.forEach(elem => {
+      score += parseInt(elem.value, 10) || 0;
+    });
+
+    scoreChads.textContent = score;
+
+    const isFemme = checkboxFemme && checkboxFemme.checked;
+
+    if (score === 0 || (score === 1 && isFemme)) {
+      textChads.innerHTML = 'Risque d’AVC faible<br>Pas d’antithrombotique';
+    } else if ((score === 1 && !isFemme) || (score === 2 && isFemme)) {
+      textChads.innerHTML = 'Anticoagulation à considérer<br>Évaluer le risque hémorragique';
+    } else {
+      textChads.innerHTML = 'Anticoagulation recommandée<br>Évaluer le risque hémorragique';
     }
-  })` }}
+  };
+
+  container.addEventListener('change', event => {
+    if (event.target.matches('input[type="checkbox"]')) {
+      calcChads();
+    }
+  });
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

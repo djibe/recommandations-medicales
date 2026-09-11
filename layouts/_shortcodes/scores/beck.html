@@ -1,3 +1,4 @@
+<!-- TODO: -->
 <div class="mt-4" id="score-beck">
   <p>Le questionnaire abrégé de Beck (<dfn><abbr title="Beck depressive inventory" lang="en">BDI-13</abbr></dfn>) est un test validé de référence pour le dépistage d’une dépression en 13 questions.</p>
   <p>Ce questionnaire comporte 13 séries de quatre propositions. Pour chaque série, lisez les quatre propositions,
@@ -109,30 +110,50 @@
 </blockquote>
 {{ $script := `
   // Score Beck FR by djibe
-  window.addEventListener( 'load', event => {
-    const scorebeck = document.getElementById('beckScore')
-    const textbeck = document.getElementById('beckText');
-    [...document.querySelectorAll('#score-beck input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcbeck() ) })
-    const calcbeck = () => {
-      let scoreAnxiete = 0
-      const anxieteElems = document.querySelectorAll('#score-beck .anxiete:checked')
-      if (anxieteElems.length + depressionElems.length === 14) {
-        anxieteElems.forEach(anxieteElem => { scoreAnxiete += parseInt(anxieteElem.value, 10) })
-        depressionElems.forEach(depressionElem => { scoreDepression += parseInt(depressionElem.value, 10) })
-        scorebeck.innerHTML = scoreAnxiete + scoreDepression
-        textbeck.innerHTML = 'Anxiété: ' + beckExplain(scoreAnxiete) + '<br>Dépression: ' + beckExplain(scoreDepression)
-      }
+document.addEventListener('DOMContentLoaded', () => {
+  const scoreBeck = document.getElementById('beckScore');
+  const textBeck = document.getElementById('beckText');
+  const container = document.getElementById('score-beck');
+
+  if (!scoreBeck || !textBeck || !container) return;
+
+  const beckExplain = score => {
+    if (score <= 7) return 'absence (' + score + ' pts)';
+    if (score <= 10) return 'doute (' + score + ' pts)';
+    return 'certaine (' + score + ' pts)';
+  };
+
+  const calcBeck = () => {
+    const anxieteElems = container.querySelectorAll('.anxiete:checked');
+    const depressionElems = container.querySelectorAll('.depression:checked');
+    const totalChecked = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (totalChecked.length < 14) {
+      scoreBeck.textContent = '-';
+      textBeck.textContent = 'Veuillez répondre à toutes les questions';
+      return;
     }
-    const beckExplain = (score) => {
-      let explain = '';
-      if (score <= 7) {
-        explain = 'absence (' + score + ' pts)'
-      } else if (score >= 8 && score <= 10) {
-        explain = 'doute (' + score + ' pts)'
-      } else if (score >= 11) {
-        explain = 'certaine (' + score + ' pts)'
-      }
-      return explain;
+
+    let scoreAnxiete = 0;
+    anxieteElems.forEach(elem => {
+      scoreAnxiete += parseInt(elem.value, 10) || 0;
+    });
+
+    let scoreDepression = 0;
+    depressionElems.forEach(elem => {
+      scoreDepression += parseInt(elem.value, 10) || 0;
+    });
+
+    const totalScore = scoreAnxiete + scoreDepression;
+    scoreBeck.textContent = totalScore;
+
+    textBeck.innerHTML = 'Anxiété: ' + beckExplain(scoreAnxiete) + '<br>Dépression: ' + beckExplain(scoreDepression);
+  };
+
+  container.addEventListener('change', event => {
+    if (event.target.matches('input[type="radio"]')) {
+      calcBeck();
     }
-  })` }}
+  });
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

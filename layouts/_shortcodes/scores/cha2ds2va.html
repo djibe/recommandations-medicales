@@ -47,27 +47,37 @@
   <p lang="en"><a href="https://journal.chestnet.org/article/S0012-3692(10)60067-0/fulltext" rel="external nofollow noopener">Lip GY et al. Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor-based approach: The euro heart survey on atrial fibrillation. Chest. 2010;137(2):263-72.</a></p>
 </blockquote>
 {{ $script := `
-  // Score CHA2DS2-VA by djibe
-  window.addEventListener( 'load', event => {
-    const textChads = document.getElementById('chadsText')
-    const scoreChads = document.getElementById('chadsScore');
-    [...document.querySelectorAll('#score-cha2ds2va input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => calcChads() ) })
-    const calcChads = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('#score-cha2ds2va input[type=\"checkbox\"]:checked');
-      elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-        scoreChads.innerHTML = score
-        if (score === 1) {
-          textChads.innerHTML = 'Anticoagulation à considérer<br>Évaluer le risque hémorragique avec HAS-BLED'
-        } else if (score > 1) {
-          textChads.innerHTML = 'Anticoagulation recommandée<br>Évaluer le risque hémorragique avec HAS-BLED'
-        }
-      })
-      if (elemsChecked.length === 0) {
-        scoreChads.innerHTML = 0
-        textChads.innerHTML = 'Risque d’AVC faible<br>Pas d’anticoagulation'
-      }
+  // // Score CHA2DS2-VA by djibe
+document.addEventListener('DOMContentLoaded', () => {
+  const textChads = document.getElementById('chadsText');
+  const scoreChads = document.getElementById('chadsScore');
+  const container = document.getElementById('score-cha2ds2va');
+
+  if (!textChads || !scoreChads || !container) return;
+
+  const calcChads = () => {
+    const elemsChecked = container.querySelectorAll('input[type="checkbox"]:checked');
+
+    let score = 0;
+    elemsChecked.forEach(elem => {
+      score += parseInt(elem.value, 10) || 0;
+    });
+
+    scoreChads.textContent = score;
+
+    if (score > 1) {
+      textChads.innerHTML = 'Anticoagulation recommandée<br>(Évaluer le risque hémorragique)';
+    } else if (score === 1) {
+      textChads.innerHTML = 'Anticoagulation à considérer<br>Évaluer le risque hémorragique';
+    } else {
+      textChads.innerHTML = 'Risque d’AVC faible<br>Pas d’anticoagulation';
     }
-  })` }}
+  };
+
+  container.addEventListener('change', event => {
+    if (event.target.matches('input[type="checkbox"]')) {
+      calcChads();
+    }
+  });
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

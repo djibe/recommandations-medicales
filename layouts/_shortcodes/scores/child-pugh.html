@@ -49,7 +49,7 @@
   <div class="alert bg-light d-flex my-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score Child-Pugh</p>
-      <output class="score-output" id="childScore">0</output>
+      <output class="score-output" id="childScore">-</output>
     </div>
   <p id="childText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -60,29 +60,42 @@
 </blockquote>
 {{ $script := `
   // Score Child-Pugh by djibe
-  window.addEventListener( 'load', event => {
-    const scorechild = document.getElementById('childScore')
-    const textchild = document.getElementById('childText');
-    [...document.querySelectorAll('#score-child input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcchild() ) })
-    const calcchild = () => {
-      let score = 0
-      const sexe = document.querySelector('input[name=\"child-sexe\"]:checked')
-      const elemsChecked = document.querySelectorAll('#score-child input[type=\"radio\"]:checked')
-        elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-        if (elemsChecked.length === 5) {
-          scorechild.innerHTML = score
-          if (score >= 5 && score <= 6) {
-            textchild.innerHTML = "Child A"
-          } else if (score >= 7 && score < 9) {
-            textchild.innerHTML = "Child B"
-          } else if (score >= 10) {
-            textchild.innerHTML = "Child C"
-          }
-        } else {
-          textchild.innerHTML = 'Veuillez répondre à toutes les questions'
-        }
-      })
+document.addEventListener('DOMContentLoaded', () => {
+  const scoreChild = document.getElementById('childScore');
+  const textChild = document.getElementById('childText');
+  const container = document.getElementById('score-child');
+
+  if (!scoreChild || !textChild || !container) return;
+
+  const calcChild = () => {
+    const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (elemsChecked.length < 5) {
+      scoreChild.textContent = '-';
+      textChild.textContent = 'Veuillez répondre à toutes les questions';
+      return;
     }
-  })` }}
+
+    let score = 0;
+    elemsChecked.forEach(elem => {
+      score += parseInt(elem.value, 10) || 0;
+    });
+
+    scoreChild.textContent = score;
+
+    if (score <= 6) {
+      textChild.textContent = 'Child A';
+    } else if (score <= 9) {
+      textChild.textContent = 'Child B';
+    } else {
+      textChild.textContent = 'Child C';
+    }
+  };
+
+  container.addEventListener('change', event => {
+    if (event.target.matches('input[type="radio"]')) {
+      calcChild();
+    }
+  });
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

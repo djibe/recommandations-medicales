@@ -160,29 +160,46 @@
 </blockquote>
 {{ $script := `
   // Score AUDIT by djibe
-  window.addEventListener( 'load', event => {
-    const scoreAudit = document.getElementById('auditScore')
-    const textAudit = document.getElementById('auditText');
-    [...document.querySelectorAll('#score-audit input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcAudit() ) })
-    const calcAudit = () => {
-      let score = 0
-      const sexe = document.querySelector('input[name=\"audit-sexe\"]:checked')
-      const elemsChecked = document.querySelectorAll('#score-audit input[type=\"radio\"]:checked')
-        elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-        if (elemsChecked.length === 11) {
-          scoreAudit.innerHTML = score
-          if (score >= 11) {
-            textAudit.innerHTML = "<strong>Dépendance probable</strong><br>Proposer une consultation d’addictologie"
-          } else if ((score >= 7 && score < 11 && sexe.id === 'audit-homme') || (score >= 6 && score < 11 && sexe.id === 'audit-femme')) {
-            textAudit.innerHTML = "<strong>Mésusage probable</strong><br>Intervention brève"
-          } else {
-            textAudit.innerHTML = "<strong>Risque faible ou nul de mésusage</strong><br>Renforcement des conduites favorables à la santé"
-          }
-        } else {
-          textAudit.innerHTML = 'Veuillez répondre à toutes les questions'
-        }
-      })
+document.addEventListener('DOMContentLoaded', () => {
+  const scoreAudit = document.getElementById('auditScore');
+  const textAudit = document.getElementById('auditText');
+  const container = document.getElementById('score-audit');
+
+  if (!scoreAudit || !textAudit || !container) return;
+
+  const calcAudit = () => {
+    const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
+    const sexe = document.querySelector('input[name="audit-sexe"]:checked');
+
+    if (elemsChecked.length < 11) {
+      scoreAudit.textContent = '-';
+      textAudit.textContent = 'Veuillez répondre à toutes les questions';
+      return;
     }
-  })` }}
+
+    let score = 0;
+    elemsChecked.forEach(elem => {
+      score += parseInt(elem.value, 10) || 0;
+    });
+
+    scoreAudit.textContent = score;
+
+    const isHomme = sexe && sexe.id === 'audit-homme';
+    const isFemme = sexe && sexe.id === 'audit-femme';
+
+    if (score >= 11) {
+      textAudit.innerHTML = '<strong>Dépendance probable</strong><br>Proposer une consultation d’addictologie';
+    } else if ((isHomme && score >= 7) || (isFemme && score >= 6)) {
+      textAudit.innerHTML = '<strong>Mésusage probable</strong><br>Intervention brève';
+    } else {
+      textAudit.innerHTML = '<strong>Risque faible ou nul de mésusage</strong><br>Renforcement des conduites favorables à la santé';
+    }
+  };
+
+  container.addEventListener('change', event => {
+    if (event.target.matches('input[type="radio"]')) {
+      calcAudit();
+    }
+  });
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

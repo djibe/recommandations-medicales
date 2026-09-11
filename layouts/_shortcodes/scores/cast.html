@@ -64,21 +64,42 @@
 </blockquote>
 {{ $script := `
   // Score CAST by djibe
-  window.addEventListener( 'load', event => {
-    const scoreCast = document.getElementById('castScore')
-    const textCast = document.getElementById('castText');
-    [...document.querySelectorAll('#score-cast input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcCast() ) })
-    const calcCast = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('#score-cast input[type=\"radio\"]:checked')
-      elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-        if (elemsChecked.length === 6) {
-          scoreCast.innerHTML = score
-          if (score >= 2) { textCast.innerHTML = "Risque élevé d’usage problématique" }
-          if (score >= 3) { textCast.innerHTML += "<br>Proposer un accompagnement pour l’arrêt" }
-        }
-      })
+document.addEventListener('DOMContentLoaded', () => {
+  const scoreCast = document.getElementById('castScore');
+  const textCast = document.getElementById('castText');
+  const container = document.getElementById('score-cast');
+
+  if (!scoreCast || !textCast || !container) return;
+
+  const calcCast = () => {
+    const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (elemsChecked.length < 6) {
+      scoreCast.textContent = '-';
+      textCast.textContent = 'Veuillez répondre à toutes les questions';
+      return;
     }
-  })` }}
+
+    let score = 0;
+    elemsChecked.forEach(elem => {
+      score += parseInt(elem.value, 10) || 0;
+    });
+
+    scoreCast.textContent = score;
+
+    if (score >= 3) {
+      textCast.innerHTML = 'Risque élevé d’usage problématique<br>Proposer un accompagnement pour l’arrêt';
+    } else if (score === 2) {
+      textCast.textContent = 'Risque élevé d’usage problématique';
+    } else {
+      textCast.textContent = 'Risque faible d’usage problématique';
+    }
+  };
+
+  container.addEventListener('change', event => {
+    if (event.target.matches('input[type="radio"]')) {
+      calcCast();
+    }
+  });
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

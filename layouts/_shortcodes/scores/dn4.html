@@ -41,20 +41,31 @@
   </div>
 </div>
 <blockquote class="mt-4">
-  <p>Sensibilité 82,9% et spécificité 89,9%</p>
+  <p>Sensibilité 82,9 % et spécificité 89,9 %</p>
   <p lang="en"><a href="https://doi.org/10.1016/j.pain.2003.12.024" rel="external nofollow noopener">Bouhassira D. et al. Development and validation of the Neuropathic Pain Symptom Inventory. Pain. 2004 Apr;108(3):248-257.</a></p>
 </blockquote>
 {{ $script := `
-  // Questionnaire DN4 by djibe
-  let score = 0;
-  window.addEventListener( 'load', event => {
-    const Text = document.getElementById('dn4Text');
-    [...document.querySelectorAll('#score-dn4 input[type=\"checkbox\"]')].forEach(function(checkbox) {
-      checkbox.addEventListener('change', function(e) {
-        e.target.checked ? score += parseInt(e.target.value, 10) : score -= parseInt(e.target.value, 10)
-        document.getElementById('dn4Score').innerHTML = score
-        score >= 4 ? Text.innerHTML = 'Douleur neuropathique' : Text.innerHTML = 'Douleur nociceptive'
-      })
-    })
-  })` }}
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoreElement = document.getElementById('dn4Score');
+  const textElement = document.getElementById('dn4Text');
+  const checkboxes = document.querySelectorAll('#score-dn4 input[type="checkbox"]');
+
+  if (!scoreElement || !textElement) return;
+
+  function updateScore() {
+    let score = 0;
+    checkboxes.forEach(checkbox => {
+      if (checkbox.checked) {
+        score += parseInt(checkbox.value, 10) || 0;
+      }
+    });
+
+    scoreElement.textContent = score;
+    textElement.textContent = score >= 4 ? 'Douleur neuropathique' : 'Douleur nociceptive';
+  }
+
+  checkboxes.forEach(checkbox => {
+    checkbox.addEventListener('change', updateScore);
+  });
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

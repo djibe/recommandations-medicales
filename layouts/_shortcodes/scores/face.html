@@ -71,29 +71,44 @@
 </blockquote>
 {{ $script := `
   // Score FACE by djibe
-  window.addEventListener( 'load', event => {
-    const scoreFace = document.getElementById('faceScore')
-    const textFace = document.getElementById('faceText');
-    [...document.querySelectorAll('#score-face input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcFace() ) })
-    const calcFace = () => {
-      let score = 0
-      const sexe = document.querySelector('input[name=\"sexe\"]:checked')
-      const faceElemsChecked = document.querySelectorAll('#score-face input[type=\"radio\"]:checked')
-        faceElemsChecked.forEach(faceElemChecked => {
-        score += parseInt(faceElemChecked.value, 10)
-        if (faceElemsChecked.length === 6) {
-          scoreFace.innerHTML = score
-          if ((score < 5 && sexe.id === 'homme') || (score < 4 && sexe.id === 'femme')) {
-            textFace.innerHTML = "<strong>Risque faible ou nul</strong><br>Renforcement des conduites favorables à la santé"
-          } else if ((score >= 5 && score <= 8 && sexe.id === 'homme') || (score >= 4 && score <= 8 && sexe.id === 'femme')) {
-            textFace.innerHTML = "<strong>Consommation excessive probable</strong><br>Intervention brève"
-          } else if (score > 8) {
-            textFace.innerHTML = "<strong>Dépendance probable</strong><br>Proposer une consultation d'addictologie"
-          }
-        } else {
-          textFace.innerHTML = 'Veuillez répondre à toutes les questions'
-        }
-      })
+window.addEventListener('DOMContentLoaded', () => {
+  const scoreFace = document.getElementById('faceScore');
+  const textFace = document.getElementById('faceText');
+  const radioButtons = document.querySelectorAll('#score-face input[type="radio"]');
+
+  if (!scoreFace || !textFace) return;
+
+  function calcFace() {
+    const checkedRadios = document.querySelectorAll('#score-face input[type="radio"]:checked');
+    const sexeElem = document.querySelector('input[name="sexe"]:checked');
+
+    if (checkedRadios.length < 6 || !sexeElem) {
+      scoreFace.textContent = '-';
+      textFace.textContent = 'Veuillez répondre à toutes les questions';
+      return;
     }
-  })` }}
+
+    let score = 0;
+    checkedRadios.forEach(radio => {
+      score += parseInt(radio.value, 10) || 0;
+    });
+
+    scoreFace.textContent = score;
+
+    const isMale = sexeElem.id === 'homme';
+    const lowRiskLimit = isMale ? 5 : 4;
+
+    if (score < lowRiskLimit) {
+      textFace.innerHTML = '<strong>Risque faible ou nul</strong><br>Renforcement des conduites favorables à la santé';
+    } else if (score <= 8) {
+      textFace.innerHTML = '<strong>Consommation excessive probable</strong><br>Intervention brève';
+    } else {
+      textFace.innerHTML = '<strong>Dépendance probable</strong><br>Proposer une consultation d\'addictologie';
+    }
+  }
+
+  radioButtons.forEach(radio => {
+    radio.addEventListener('change', calcFace);
+  });
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

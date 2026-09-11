@@ -149,7 +149,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score EHP-5</p>
-      <output class="score-output" id="ehp5Score">0</output>
+      <output class="score-output" id="ehp5Score">-</output>
     </div>
     <p id="ehp5Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -167,20 +167,32 @@
 </blockquote>
 {{ $script := `
   // Score EHP-5 FR by djibe
-  window.addEventListener( 'load', event => {
-    const scoreEHP5 = document.getElementById('ehp5Score')
-    const textEHP5 = document.getElementById('ehp5Text');
-    [...document.querySelectorAll('#score-ehp5 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcEhp5() ) })
-    const calcEhp5 = () => {
-      let score = 0
-      const EHP5ElemsChecked = document.querySelectorAll('#score-ehp5 input[type=\"radio\"]:checked')
-      EHP5ElemsChecked.forEach(EHP5ElemChecked => {
-        score += parseInt(EHP5ElemChecked.value, 10)
-        if (EHP5ElemsChecked.length >= 10) {
-          scoreEHP5.innerHTML = score
-          textEHP5.innerHTML = 'Score de ' + score
-        }
-      })
+window.addEventListener('DOMContentLoaded', () => {
+  const scoreEHP5 = document.getElementById('ehp5Score');
+  const textEHP5 = document.getElementById('ehp5Text');
+  const radioButtons = document.querySelectorAll('#score-ehp5 input[type="radio"]');
+
+  if (!scoreEHP5 || !textEHP5) return;
+
+  function calcEhp5() {
+    let score = 0;
+    const checkedRadios = document.querySelectorAll('#score-ehp5 input[type="radio"]:checked');
+
+    checkedRadios.forEach(radio => {
+      score += parseInt(radio.value, 10) || 0;
+    });
+
+    if (checkedRadios.length >= 10) {
+      scoreEHP5.textContent = score;
+      textEHP5.textContent = 'Score de ' + score;
+    } else {
+      scoreEHP5.textContent = '-';
+      textEHP5.textContent = 'Veuillez répondre à toutes les questions';
     }
-  })` }}
+  }
+
+  radioButtons.forEach(radio => {
+    radio.addEventListener('change', calcEhp5);
+  });
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

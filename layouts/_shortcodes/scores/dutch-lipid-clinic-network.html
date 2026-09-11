@@ -71,32 +71,42 @@
 </blockquote>
 {{ $script := `
   // Score Dutch Lipid Clinic Network by djibe
-  window.addEventListener( 'load', event => {
-    const scoreDlcn = document.getElementById('dlcnScore')
-    const textDlcn = document.getElementById('dlcnText')
-    const tendinousElem = document.getElementById('dutch-hyperchol-31')
-    const arcusElem = document.getElementById('dutch-hyperchol-32')
-    var dlcnElems = document.querySelectorAll('#score-dutch-hyperchol input.elem-dlcn');
-    dlcnElems.forEach((elem) => { elem.addEventListener('change', () => calcDlcn() ) })
-    const calcDlcn = () => {
-      let score = 0
-      const dlcnElemsChecked = document.querySelectorAll('#score-dutch-hyperchol input.elem-dlcn:checked')
-      if (tendinousElem.checked && arcusElem.checked){
-        score -= parseInt(arcusElem.value, 10)
-      }
-      dlcnElemsChecked.forEach(dlcnElem => {
-        score += parseInt(dlcnElem.value, 10)
-        scoreDlcn.innerHTML = score
-        if (score < 3) {
-          textDlcn.innerHTML = 'Pas d’argument diagnostique d’HF'
-        } else if (score >= 3 && score <= 5) {
-          textDlcn.innerHTML = 'HF possible'
-        } else if (score >= 6 && score <= 8) {
-          textDlcn.innerHTML = 'HF probable'
-        } else if (score > 8) {
-          textDlcn.innerHTML = 'HF certaine'
-        }
-      })
+window.addEventListener('DOMContentLoaded', () => {
+  const scoreDlcn = document.getElementById('dlcnScore');
+  const textDlcn = document.getElementById('dlcnText');
+  const tendinousElem = document.getElementById('dutch-hyperchol-31');
+  const arcusElem = document.getElementById('dutch-hyperchol-32');
+  const dlcnElems = document.querySelectorAll('#score-dutch-hyperchol input.elem-dlcn');
+
+  if (!scoreDlcn || !textDlcn) return;
+
+  function calcDlcn() {
+    let score = 0;
+    const dlcnElemsChecked = document.querySelectorAll('#score-dutch-hyperchol input.elem-dlcn:checked');
+
+    dlcnElemsChecked.forEach(dlcnElem => {
+      score += parseInt(dlcnElem.value, 10) || 0;
+    });
+
+    if (tendinousElem && arcusElem && tendinousElem.checked && arcusElem.checked) {
+      score -= parseInt(arcusElem.value, 10) || 0;
     }
-  })` }}
+
+    scoreDlcn.textContent = score;
+
+    if (score < 3) {
+      textDlcn.textContent = "Pas d’argument diagnostique d’HF";
+    } else if (score <= 5) {
+      textDlcn.textContent = "HF possible";
+    } else if (score <= 8) {
+      textDlcn.textContent = "HF probable";
+    } else {
+      textDlcn.textContent = "HF certaine";
+    }
+  }
+
+  dlcnElems.forEach(elem => {
+    elem.addEventListener('change', calcDlcn);
+  });
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

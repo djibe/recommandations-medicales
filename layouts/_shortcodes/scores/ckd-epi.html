@@ -38,39 +38,52 @@
 </blockquote>
 {{ $script := `
   // Outil de calcul du DFG CKD-EPI 2021 by djibe
-  // Formula from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8822996/bin/NIHMS1763303-supplement-Supplement__2_.pdf>
-  window.addEventListener( 'load', event => {
-    const age = document.getElementById('gfr-age');
-    const creatinineEl = document.getElementById('gfr-creatinine');
-    const gfrEl = document.getElementById('input-gfr');
-    [age, creatinineEl].forEach(elem => elem.addEventListener('input', () => calcGFR() ));
-    [...document.querySelectorAll('#form-gfr input[type="radio"]')].forEach(elem => elem.addEventListener('change', () => calcGFR() ));
-    const calcGFR = () => {
-      const unit = document.querySelector('input[name="gfr-unit"]:checked');
-      const sex = document.querySelector('input[name="gfr-sex"]:checked');
-      const ageVal = parseInt(age.value);
-      let creatinineVal = parseFloat(creatinineEl.value);
-      let creatinine;
-      let alpha, beta, kappa;
-      if (sex.value === 'man') {
-        alpha = -0.302;
-        beta = 1;
-        kappa = 0.9;
-      } else {
-        alpha = -0.241;
-        beta = 1.012;
-        kappa = 0.7;
-      }
-      if (unit.value === 'mol') {
-        // Convert µmol/L to mg/L
-        creatinineVal *= 0.1131;
-      }
-      if (ageVal > 0 && creatinineVal > 0) {
-        // Convert mg/L to mg/dL
-        creatinine = creatinineVal / 10
-        let gfr = 142 * Math.min(creatinine / kappa, 1) ** alpha * Math.max(creatinine / kappa, 1) ** -1.200 * 0.9938 ** ageVal * beta
-        gfrEl.value = Math.round(gfr);
-      }
+// Formula ref: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8822996/
+document.addEventListener('DOMContentLoaded', () => {
+  const ageEl = document.getElementById('gfr-age');
+  const creatinineEl = document.getElementById('gfr-creatinine');
+  const gfrEl = document.getElementById('input-gfr');
+  const container = document.getElementById('form-gfr');
+
+  if (!ageEl || !creatinineEl || !gfrEl || !container) return;
+
+  const calcGFR = () => {
+    const unitEl = container.querySelector('input[name="gfr-unit"]:checked');
+    const sexEl = container.querySelector('input[name="gfr-sex"]:checked');
+
+    const ageVal = parseInt(ageEl.value, 10);
+    let creatinineVal = parseFloat(creatinineEl.value);
+
+    if (!unitEl || !sexEl || isNaN(ageVal) || isNaN(creatinineVal) || ageVal <= 0 || creatinineVal <= 0) {
+      gfrEl.value = '';
+      return;
     }
-  })` }}
+
+    // Convert µmol/L to mg/dL (1 mg/dL = 88.4 µmol/L)
+    const creatinine = unitEl.value === 'mol' ? creatinineVal / 88.4 : creatinineVal / 10;
+
+    let alpha, beta, kappa;
+    if (sexEl.value === 'man') {
+      alpha = -0.302;
+      beta = 1.0;
+      kappa = 0.9;
+    } else {
+      alpha = -0.241;
+      beta = 1.012;
+      kappa = 0.7;
+    }
+
+    const scrOverKappa = creatinine / kappa;
+    const minPart = Math.pow(Math.min(scrOverKappa, 1), alpha);
+    const maxPart = Math.pow(Math.max(scrOverKappa, 1), -1.200);
+    const agePart = Math.pow(0.9938, ageVal);
+
+    const gfr = 142 * minPart * maxPart * agePart * beta;
+
+    gfrEl.value = Math.round(gfr);
+  };
+
+  container.addEventListener('input', calcGFR);
+  container.addEventListener('change', calcGFR);
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

@@ -56,22 +56,29 @@
 </blockquote>
 {{ $script := `
   // Score ECAB by djibe
-  window.addEventListener( 'load', event => {
-    const scoreecab = document.getElementById('ecabScore')
-    const textecab = document.getElementById('ecabText');
-    [...document.querySelectorAll('#score-ecab input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => calcEcab() ) })
-    const calcEcab = () => {
-      let score = 0
-      const ecabElemsChecked = document.querySelectorAll('#score-ecab input[type=\"checkbox\"]:checked')
-      ecabElemsChecked.forEach(ecabElemChecked => {
-        score += parseInt(ecabElemChecked.value, 10)
-        scoreecab.innerHTML = score
-        if (score >= 6) {
-          textecab.innerHTML = 'Dépendance aux benzodiazépines (Se 94%, Spe 81%)'
-        } else {
-          textecab.innerHTML = 'Pas de dépendance'
-        }
-      })
-    }
-  })` }}
+window.addEventListener('DOMContentLoaded', () => {
+  const scoreEcab = document.getElementById('ecabScore');
+  const textEcab = document.getElementById('ecabText');
+  const checkboxes = document.querySelectorAll('#score-ecab input[type="checkbox"]');
+
+  if (!scoreEcab || !textEcab) return;
+
+  function calcEcab() {
+    let score = 0;
+    const checkedElems = document.querySelectorAll('#score-ecab input[type="checkbox"]:checked');
+
+    checkedElems.forEach(elem => {
+      score += parseInt(elem.value, 10) || 0;
+    });
+
+    scoreEcab.textContent = score;
+    textEcab.textContent = score >= 6
+      ? 'Dépendance aux benzodiazépines (Se 94%, Spe 81%)'
+      : 'Pas de dépendance';
+  }
+
+  checkboxes.forEach(checkbox => {
+    checkbox.addEventListener('change', calcEcab);
+  });
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

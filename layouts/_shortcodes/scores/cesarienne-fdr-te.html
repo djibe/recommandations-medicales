@@ -92,27 +92,41 @@
   <p><a href="https://cngof.fr/app/uploads/2025/11/Postpartum202015-RPC.pdf?x26468" rel="external nofollow noopener">CNGOF. Post-partum. Recommandations pour la pratique clinique. 2015. (PDF)</a></p>
 </blockquote>
 {{ $script := `
-  // Score Thrombophylaxis after cesarean section by djibe
-  window.addEventListener( 'load', event => {
-    const textCesarRf = document.getElementById('cesarFdrText')
-    const scoreCesarRf = document.getElementById('cesarScore');
-    [...document.querySelectorAll('#score-cesarienne-fdr input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => calcCesarFdr() ) })
-    const calcCesarFdr = () => {
-      let score = 1
-      const elemsChecked = document.querySelectorAll('#score-cesarienne-fdr input[type=\"checkbox\"]:checked');
-      elemsChecked.forEach(elemChecked => {
-        score *= parseFloat(elemChecked.value)
-        scoreCesarRf.innerHTML = score
-        if (score >= 10) {
-          textCesarRf.innerHTML = 'HBPM à dose préventive pendant 7-14 jours<br>Risque thromboembolique &gt; 3%'
-        } else {
-          textCesarRf.innerHTML = 'Risque thrombotique faible<br>Pas d’antithrombotique'
-        }
-      })
-      if (elemsChecked.length === 0) {
-        scoreCesarRf.innerHTML = 0
-        textCesarRf.innerHTML = "Risque thrombotique faible<br>Pas d’antithrombotique"
-      }
+  // Score Thromboprophylaxis after cesarean section by djibe
+document.addEventListener('DOMContentLoaded', () => {
+  const textCesarRf = document.getElementById('cesarFdrText');
+  const scoreCesarRf = document.getElementById('cesarScore');
+  const container = document.getElementById('score-cesarienne-fdr');
+
+  if (!textCesarRf || !scoreCesarRf || !container) return;
+
+  const calcCesarFdr = () => {
+    const elemsChecked = container.querySelectorAll('input[type="checkbox"]:checked');
+
+    if (elemsChecked.length === 0) {
+      scoreCesarRf.textContent = '0';
+      textCesarRf.innerHTML = 'Risque thrombotique faible<br>Pas d’antithrombotique';
+      return;
     }
-  })` }}
+
+    let score = 1;
+    elemsChecked.forEach(elem => {
+      score *= parseFloat(elem.value) || 1;
+    });
+
+    scoreCesarRf.textContent = score;
+
+    if (score >= 10) {
+      textCesarRf.innerHTML = 'HBPM à dose préventive pendant 7-14 jours<br>Risque thromboembolique > 3%';
+    } else {
+      textCesarRf.innerHTML = 'Risque thrombotique faible<br>Pas d’antithrombotique';
+    }
+  };
+
+  container.addEventListener('change', event => {
+    if (event.target.matches('input[type="checkbox"]')) {
+      calcCesarFdr();
+    }
+  });
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

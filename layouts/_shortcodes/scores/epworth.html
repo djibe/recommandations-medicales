@@ -109,24 +109,34 @@
 </blockquote>
 {{ $script := `
   // Score Epworth by djibe
-  window.addEventListener( 'load', event => {
-    const scoreEPWORTH = document.getElementById('epworthScore')
-    const textEPWORTH = document.getElementById('epworthText');
-    [...document.querySelectorAll('#score-epworth input[type=\"radio\"]')].forEach((EPWORTHElem) => { EPWORTHElem.addEventListener('click', () => calcEpworth() ) })
-    const calcEpworth = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('#score-epworth input[type=\"radio\"]:checked')
-        elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-          scoreEPWORTH.innerHTML = score
-          if (score <= 10) {
-            textEPWORTH.innerHTML = "Niveau normal de somnolence"
-          } else if (score > 10 && score <= 15) {
-            textEPWORTH.innerHTML = "Somnolence faible à modérée"
-          } else if (score >= 16) {
-            textEPWORTH.innerHTML = "Somnolence modérée à sévère"
-          }
-      })
+window.addEventListener('DOMContentLoaded', () => {
+  const scoreEPWORTH = document.getElementById('epworthScore');
+  const textEPWORTH = document.getElementById('epworthText');
+  const radioButtons = document.querySelectorAll('#score-epworth input[type="radio"]');
+
+  if (!scoreEPWORTH || !textEPWORTH) return;
+
+  function calcEpworth() {
+    let score = 0;
+    const elemsChecked = document.querySelectorAll('#score-epworth input[type="radio"]:checked');
+
+    elemsChecked.forEach(elemChecked => {
+      score += parseInt(elemChecked.value, 10) || 0;
+    });
+
+    scoreEPWORTH.textContent = score;
+
+    if (score <= 10) {
+      textEPWORTH.textContent = "Niveau normal de somnolence";
+    } else if (score <= 15) {
+      textEPWORTH.textContent = "Somnolence faible à modérée";
+    } else {
+      textEPWORTH.textContent = "Somnolence modérée à sévère";
     }
-  })` }}
+  }
+
+  radioButtons.forEach(radio => {
+    radio.addEventListener('change', calcEpworth);
+  });
+});` }}
 <script type="module">{{ $script | safeJS }}</script>
