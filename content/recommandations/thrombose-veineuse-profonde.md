@@ -9,7 +9,7 @@ synonyms = ["Phlébite profonde"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-19T18:21:00+02:00"
 publishdate = "2021-03-19"
-lastmod = "2023-03-27"
+lastmod = "2026-09-11"
 specialites = ["cardiologie"]
 annees = "2019"
 sources = ["SPLF", "SFC", "SFMV"]
@@ -148,7 +148,7 @@ L'hospitalisation est recommandée en cas de phlébite avec:
 - Symptômes mal tolérés après 15 jours d'anticoagulation efficace
 - Survenue sous anticoagulants ou suspicion de TIH
 - Hémorragie active ou risque hémorragique élevé  
-{{%class "text-black-secondary"%}}RIETE > 4, voir *Score hémorragique RIETE* plus bas.{{%/class%}}
+  RIETE > 4, voir *Score hémorragique RIETE* plus bas.
 - Insuffisance rénale sévère (Cockroft {{< modal-btn modal-score-cockroft >}}< 30 mL/min{{< /modal-btn >}})
 - [Cancer](/tags/cancer/) ou comorbidités à risque de décompensation
 - Contexte médico-social ou géographique défavorable
@@ -158,8 +158,7 @@ L'hospitalisation est recommandée en cas de phlébite avec:
 
 En l'absence de ces signes, la prise en charge préconisée de la TVP est ambulatoire.
 
-{{% /collapse %}}
-{{%collapse "Score hémorragique RIETE" %}}
+### Score hémorragique RIETE
 
 Un score hémorragique de RIETE élevé impose une hospitalisation.
 
@@ -170,41 +169,99 @@ Un score hémorragique de RIETE élevé impose une hospitalisation.
 </div>
 
 {{% /collapse %}}
-{{%collapse "Bilan étiologique de la thrombose veineuse" %}}
+{{%collapse "Traitement de la thrombose veineuse profonde TVP" %}}
+
+La prise en charge de la thrombose veineuse profonde (TVP) est un traitement anticoagulant:
+
+- **Indications à l'anticoagulation:**
+  - TVP proximale ou probabilité clinique **forte**
+  - Probabilité intermédiaire avec délai prévisible des résultats > **4 heures** (ex. du vendredi soir)
+  - Probabilité faible avec délai prévisible des résultats > **24 heures**
+- **Anticoagulant:** ==**apixaban 5 mg**== ([Eliquis®](https://base-donnees-publique.medicaments.gouv.fr/medicament/61902218/extrait#tab-rcp-et-notice)) 2 cp matin et soir pendant 7 jours puis 1 cp matin et soir pendant **3 mois**
+  - Possible jusqu'à **15** mL/min/1,73 m² de DFG (*ESC/ERA 2026*)
+  - Sous 15 de DFG ou dialyse: HBPM pendant 7 jours dose réduite + anti-Xa (ou HNF) puis apixaban 2,5 ou 5 mg x 2/j (*ESC/ERA 2026*)
+  - Sauf cancer actif, grossesse
+- **Chaussettes de contention classe III** au moins 6 mois
+- Si TVP stable: mobilisation précoce
+- **Surveillance**: NFS, ionogramme, créatinine, bilan hépatique
+- **Réévaluation** systématique **sous 3 mois** (voir *[Suivi](#suivi)*) pour déterminer la durée totale de l'anticoagulation
+
+### Autres anticoagulants
+
+En cas de **contre-indication à l'apixaban** (grossesse, cancer, autre): anticoagulation par héparine et apparentés (==**HPBM**==, fondaparinux).
+
+- **HBPM** (choix si **grossesse** -- [CRAT](https://www.lecrat.fr/6146/))
+  - Doses réduites si DFG < 30; avec suivi de l'anti-Xa si DFG < 15 (*ESC/ERA 2026*, << n'est pas recommandée >> dans le RCP)
+  - Daltéparine 100 UI/kg/12h (Fragmine®)
+  - [Énoxaparine](https://base-donnees-publique.medicaments.gouv.fr/medicament/66760541/extrait#tab-rcp) 100 UI/kg/12h ou 150 UI/kg/24h (Enoxaparine®, Inhixa®, Lovenox®)
+  - Nadroparine 85 UI/kg/12h ou 170 UI/kg/24h (Fraxiparine®)
+  - Tinzaparine 175 UI/kg/24h (Innohep®)
+- Fondaparinux (Arixtra®, choix si cancer)
+  - CI pour clairance < 20 mL/min
+  - < 50 kg: fondaparinux 5 mg x 1/j
+  - 50 à 100 kg: 7,5 mg x 1/j
+  - \> 100 kg: 10 mg x 1/j
+- **HNF** (choix si TIH ou IRC terminale)
+  - Surveillance des plaquettes
+  - Suivi du TCA 6h après la 1^re^ injection et chaque changement de doses (4h si 3 injections)
+  - [Héparine calcique SC](https://base-donnees-publique.medicaments.gouv.fr/medicament/66977349/extrait#tab-rcp) 250 UI/kg/12h (3 injections au-delà de 15.000 UI/injection, total de 500 UI/kg/j)
+
+Poursuivre **au moins 5 jours**.
+
+#### Autres anticoagulants oraux directs (AOD)
+
+3 AOD ont l'AMM pour la TVP (DFG jusqu'à 15), recommandés hors AMM jusqu'à la dialyse (*ESC/ERA 2026*):
+
+- **[Apixaban 5 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/61902218/extrait#tab-rcp-et-notice)** 2 cp x 2/j pendant 7 jours puis 1 cp x 2/j (préféré par Prescrire®)
+  - DFG 15-29: un inhibiteur du FXa peut être considéré en remplacement de l'HBPM et de l'AVK
+  - DFG < 15 ou dialyse: HBPM pendant 7 jours puis apixaban 2,5 ou 5 mg x 2/j préféré au traitement HNF-AVK
+- Rivaroxaban 15 mg x 2/j pendant 21 jours puis 20 mg x 1/j
+- HBPM pendant 5-10 jours puis dabigatran 150 mg x 2/j (si DFG > 30, inhibiteur direct de la thrombine)
+
+Les AOD sont contre-indiqués en cas d'instabilité hémodynamique.
+
+### Filtre cave
+
+Le **filtre cave** est indiqué en cas de TVP proximale diagnostiquée dans les 30 jours (avec ou sans embolie pulmonaire) avec **contre-indication à l'anticoagulation curative**.
+
+{{% /collapse %}}
+{{%collapse "Suivi" %}}
+
+> [!INFO]
+> Le bilan à distance de la thrombose veineuse profonde (TVP) est essentiel pour déterminer la cause (voir 1)) et donc le choix de l'anticoagulant et sa durée (voir 2)).
+
+### 1) Bilan étiologique de la thrombose veineuse
 
 {{%info%}}
-Pour toute survenue de MVTE, il faut rechercher la présence de {{< modal-btn modal-mvte-fdr >}}facteurs de risque cliniques de MVTE{{< /modal-btn >}}
+Pour toute survenue de MVTE, il faut rechercher la présence de {{< modal-btn modal-mvte-fdr >}}facteurs de risque cliniques de MVTE{{< /modal-btn >}}.
 
-La MVTE est *non provoquée* en l'absence de {{< modal-btn modal-mvte-fdr >}}facteur de risque clinique majeur{{< /modal-btn >}}
+La MVTE est *non provoquée* en l'absence de {{< modal-btn modal-mvte-fdr >}}facteur de risque clinique majeur{{< /modal-btn >}}.
 {{%/info%}}
 
-### Enquête étiologique
-
-- Pas de recherche systématique de cancer en cas de {{< modal-btn modal-mvte-fdr >}}facteur de risque majeur transitoire{{< /modal-btn >}}
-- EP avec *nécrose cutanée* ou antécédent de pathologie vasculaire placentaire: rechercher un *SAPL*
-- EP avec *signes d'hémolyse* ou *cytopénie*: rechercher une *hémoglobinurie paroxystique nocturne* (HPN)
+> Pas de recherche systématique de cancer en cas de {{< modal-btn modal-mvte-fdr >}}facteur de risque majeur transitoire{{< /modal-btn >}}.
 
 #### 1^er^ épisode de MVTE non provoquée (= pas de facteur majeur)
 
 - Antécédents personnels et familiaux, symptômes, examen physique complet
 - Dépistages des cancers à jour, répéter si ancienneté > 1 an
-- Radio de thorax (en l'absence d'angioscanner thoracique)
+- Radiographie thoracique
 - NFS, calcémie
 - < 50 ans avec TVP proximale, digestive, membre supérieur ou cérébrale:  
-Rechercher un *SAPL*.
+  Rechercher un *SAPL*.
 - < 50 ans et antécédent familial de thrombose:  
-Rechercher une {{< modal-btn modal-thrombophilie >}}thrombophilie constitutionnelle{{< /modal-btn >}}.
-- TVP non provoquée digestive, membre supérieur ou cérébrale:
-Rechercher une {{< modal-btn modal-thrombophilie >}}thrombophilie constitutionnelle{{< /modal-btn >}}.
-- NFS anormale, TVP digestive, membre supérieur ou cérébrale:
-Rechercher un syndrome myéloprolifératif.
+  Rechercher une {{< modal-btn modal-thrombophilie >}}thrombophilie constitutionnelle{{< /modal-btn >}}.
+- TVP non provoquée digestive, membre supérieur ou cérébrale:  
+  Rechercher une {{< modal-btn modal-thrombophilie >}}thrombophilie constitutionnelle{{< /modal-btn >}}.
+- NFS anormale, TVP digestive, membre supérieur ou cérébrale:  
+  Rechercher un syndrome myéloprolifératif.
 - TVP digestive ou cérébrale associée à hémolyse/cytopénie:  
-Rechercher une hémoglobinurie paroxystique nocturne (HPN).
+  Rechercher une hémoglobinurie paroxystique nocturne (HPN).
 - Répéter à 6 mois ce bilan
 
 #### Récidive de MVTE
 
 - < 50 ans: rechercher un *SAPL* et une {{< modal-btn modal-thrombophilie >}}thrombophilie constitutionnelle{{< /modal-btn >}}
+- Mise à jour du dépistage recommandé des cancers
 
 #### Récidive de MVTE sous anticoagulant bien conduit
 
@@ -213,28 +270,13 @@ Rechercher une hémoglobinurie paroxystique nocturne (HPN).
 - Recherche mutation JAK-2
 - Scanner thoraco-abdomino-pelvien ou PETscan
 
-{{% /collapse %}}
-{{%collapse "Traitement de la thrombose veineuse profonde" %}}
+### 2) Durée de l'anticoagulation de la thrombose veineuse profonde
 
-### Anticoagulation
+> [!INFO]
+> L'anticoagulation doit durer **3 à 6 mois**, voire une durée **non limitée** et prend en compte le risque hémorragique.
 
-#### Indications à l'anticoagulation immédiate dans la thrombose veineuse profonde
-
-- TVP proximale
-- Probabilité clinique forte de TVP
-- Probabilité clinique intermédiaire de TVP et délai prévisible des résultats > 4 heures
-- Probabilité clinique faible de TVP et délai prévisible des résultats > 24 heures
-
-Avec surveillance NFS, ionogramme, créatininémie, bilan hépatique.
-
-#### Durée de l'anticoagulation de la thrombose veineuse profonde
-
-Le traitement doit durer **3 à 6 mois**, voire une durée non limitée et prend en compte le risque hémorragique.
-
-1^re^ TVP proximale provoquée par {{< modal-btn modal-mvte-fdr >}}facteur majeur transitoire{{< /modal-btn >}}: 3 à 6 mois.
-
-1^re^ TVP proximale non provoquée par {{< modal-btn modal-mvte-fdr >}}facteur majeur transitoire{{< /modal-btn >}} et sans {{< modal-btn modal-mvte-recidive >}}facteur persistant majeur{{< /modal-btn >}}:
-
+- 1^re^ TVP proximale provoquée par {{< modal-btn modal-mvte-fdr >}}facteur majeur transitoire{{< /modal-btn >}}: 3 à 6 mois
+- 1^re^ TVP proximale non provoquée par {{< modal-btn modal-mvte-fdr >}}facteur majeur transitoire{{< /modal-btn >}} et sans {{< modal-btn modal-mvte-recidive >}}facteur persistant majeur{{< /modal-btn >}}:
 - Maximum 6 mois si:
   - Règle HERDOO2 ≤ 1
   - Femme < 50 ans
@@ -244,66 +286,13 @@ Le traitement doit durer **3 à 6 mois**, voire une durée non limitée et prend
   - Thrombophilie majeure  
     Déficit AT, SAPL, certains déficits protéines C ou S.
 
-#### Anticoagulation par AOD
-
-En 1^re^ intention en TVP proximale pour les 3 premiers mois de traitement.  
-Contre-indiqué pendant la grossesse.
-
-Apixaban 5 mg 2 cp matin et soir pendant 7 jours  
-puis 5 mg x 2/j au moins 3 mois
-{.alert .alert-info}
-
-2 AOD ont l'AMM pour la TVP:
-
-- **[Apixaban 5 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/61902218/extrait#tab-rcp-et-notice)** 2 cp x 2/j 7 jours puis 5 mg x 2/j (préféré par Prescrire®)  
-  CI quand {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 25 mL/min.
-- Rivaroxaban 15 mg x 2/j 21 jours puis 20 mg x 1/j  
-  CI quand {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 30 mL/min.
-
-Pas de traitement héparinique préalable, posologie fixe sans adaptation.  
-Avec éducation thérapeutique.  
-Contre-indiqués en instabilité hémodynamique.
-
-#### Anticoagulation par héparine et apparentés
-
-- HBPM
-  - Daltéparine 100 UI/kg/12h (Fragmine)
-  - Énoxaparine 100 UI/kg/12h (Enoxaparine, Inhixa, Lovenox)
-  - Nadroparine 85 UI/kg/12h ou 170 UI/kg/24h (Fraxiparine)
-  - Tinzaparine 175 UI/kg/24h (Innohep)
-- Fondaparinux (Arixtra, gén 🌍)
-  - < 50 kg: 5 mg/24h
-  - 50 à 100 kg: 7,5 mg/24h
-  - \> 100 kg: 10 mg/24h
-- Voire HNF  
-  Si allergie aux autres produits ou clairance < 30.
-
-Pas d'adaptation des doses ni tests d'hémostase (sauf HNF avec l'anti-Xa).  
-Poursuivre **au moins 5 jours**.  
-Arrêt lorsque 2 INR consécutifs à 24h d'intervalle entre 2 et 3.
-
-**Relais AVK** le + précoce possible, sans dose de charge (par warfarine uniquement) avec **INR cible de 2,5** (entre 2 et 3).  
-Avec éducation thérapeutique et carnet de suivi.
-
-### Autres soins
-
-- **Chaussettes de contention classe III** ≥ 6 mois
-- Si TVP stable: mobilisation précoce
-- Expliquer la cause de survenue de la thrombose
-- Consultation de suivi
-- À distance: rechercher une dyspnée d'effort (({{< modal-btn score-nyha >}}score NYHA{{< /modal-btn >}} ou {{< modal-btn score-mmrc >}}mMRC{{< /modal-btn >}}) )
-
-### Filtre cave
-
-Indication: TVP proximale diagnostiquée dans les 30 jours (avec ou sans EP) avec contre-indication à l'anticoagulation curative.
-
 {{% /collapse %}}
 {{%collapse "Phlébite et voyage" %}}
 
-Voir [Voyage]({{% relref "voyage.md" %}}) (section *Voyage en avion*).
+Voir le chapitre [Voyage]({{% relref "voyage.md" %}}) (section *Voyage en avion*).
 
 {{% /collapse %}}
-{{%collapse "Conduite à tenir devant une TVP" "show" %}}
+{{%collapse "Prise en charge de la TVP" "show" %}}
 
 {{< mermaid title="Prise en charge d'une suspicion de thrombose veineuse profonde (TVP). Dr JB Fron d'après Sanchez 2019" >}}
 graph TB
@@ -328,6 +317,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Damman K, et al. 2026 ESC Guidelines for the management of cardiovascular disease and chronic kidney disease, in collaboration with the European Renal Association (ERA). Eur Heart J. 2026.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag098/8766283)
 - [Le Gal G, et al. Age-Adjusted D-Dimer Cutoff Levels to Rule Out Deep Vein Thrombosis. JAMA. 2026.](https://jamanetwork.com/journals/jama/article-abstract/2843503)
 - [SFMV, GFHT. La place du dosage des d-dimères en médecine. Communiqué. 2021.](https://www.innovte-thrombosisnetwork.eu/sites/innovte/files/brique/fichier/02-2024/Com_dosage%20des%20d-dimeres%20en%20VF.pdf)
 - [Sanchez O, et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://www.sciencedirect.com/science/article/pii/S0761842519300051) (SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR)

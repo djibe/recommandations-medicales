@@ -235,6 +235,8 @@ Réévaluer régulièrement les risques emboliques et de saignement.
 
 {{< modal-btn modal-chads >}}Calculer le score CHA~2~DS~2~-VA{{< /modal-btn >}} quel que soit le type de FA (sauf valve mécanique ou sténose mitrale modérée à sévère où un AVK est systématique).
 
+En cas d'IRC sévère, le risque embolique est d'emblée élevé (*ESC/ERA 2026*).
+
 ### Évaluer le risque hémorragique
 
 Si un traitement anticoagulant est indiqué, estimer le risque hémorragique avec un score (ex {{< modal-btn modal-hasbled >}}score HAS-BLED{{< /modal-btn >}}).
@@ -277,7 +279,7 @@ Recommandations générales pour la prise en charge de la fibrillation atriale (
 
 ### Anticoagulation
 
-Si {{< modal-btn modal-chads >}}indiqués{{< /modal-btn >}}, les anticoagulants oraux directs (**AOD**) sont recommandés en 1^re^ intention ({{< modal-btn modal-aod >}}liste des anticoagulants oraux directs{{< /modal-btn >}}).
+Si {{< modal-btn modal-chads >}}indiqués{{< /modal-btn >}}, les anticoagulants oraux directs (**AOD**) sont recommandés en 1^re^ intention ({{< modal-btn modal-aod >}}liste des anticoagulants oraux directs{{< /modal-btn >}}) pour un DFG ≥ 30. Un inhibiteur du FXa est préféré aux AVK en cas de DFG de 15-29 ou de dialyse. Individualiser le choix sous 15 de DFG (*ESC/ERA 2026*).
 
 Les [AVK]({{% relref "avk.md" %}}) sont réservés aux patients porteurs de valve mécanique ou de sténose mitrale modérée à sévère.
 

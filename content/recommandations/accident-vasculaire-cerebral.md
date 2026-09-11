@@ -205,15 +205,16 @@ Liste des contre-indications à la thrombolyse par balance bénéfice-risque dé
 
 La prise en charge est identique après un accident ischémique transitoire (AIT) et un accident vasculaire cérébral (AVC).
 
-- **Aspirine 75-150 mg/j** (*ESC 2021*)  
-  Seulement pour l'AIC non cardioembolique. Clopidogrel 75 mg/j si allergie. Bithérapie les 90 premiers jours.
+- **Aspirine 75-150 mg/j** (*ESC 2021*)
+  - Seulement pour l'AIC non cardioembolique. Clopidogrel 75 mg/j si allergie. Bithérapie les 90 premiers jours.
+  - Peut être considéré en supplément si MRC et risque faible de saignement: rivaroxaban 2,5 mg x 2/j (*ESC 2026*)
 - **Hypertension artérielle** (*ESC 2024*, *ESH 2023*, *ESO 2022*)
   - Seuil diagnostique de la maladie cardiovasculaire: ≥ 130/80 mmHg
   - Cible générale de 120-129 / 70-79 mmHg
   - Cible non connue pour l'AVC hémorragique
-  - Bithérapie avec {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}} + ICa ou thiazidique
+  - Bithérapie avec {{%modal-btn "modal-iec"%}}IEC{{%/modal-btn%}}/{{%modal-btn "modal-ara2"%}}ARA2{{%/modal-btn%}} (dose maximale si MRC) + ICa ou thiazidique
   - [Automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}})
-- {{< modal-btn modal-statine-intensite >}}Statine systématique{{< /modal-btn >}} pour LDL < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} (et réduction ≥ 50 %)
+- **{{< modal-btn modal-statine-intensite >}}Statine systématique{{< /modal-btn >}}** pour LDL < {{< modal-btn modal-rcv >}}0,55 g/L{{< /modal-btn >}} (et réduction ≥ 50 %)
 - Mesures hygiéno-diététiques associées
   - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
   - [Arrêt de l'alcool]({{% relref "sevrage-alcool.md" %}})
@@ -369,6 +370,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Damman K, et al. 2026 ESC Guidelines for the management of cardiovascular disease and chronic kidney disease, in collaboration with the European Renal Association (ERA). Eur Heart J. 2026.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag098/8766283)
 - [HAS. Accident vasculaire cérébral : prise en charge précoce. 2025.](https://www.has-sante.fr/jcms/c_830203/fr/accident-vasculaire-cerebral-prise-en-charge-precoce-alerte-phase-prehospitaliere-phase-hospitaliere-initiale-indications-de-la-thrombolyse-intraveineuse-et-de-la-thrombectomie-mecanique)
 - [Mach F, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/article/46/42/4359/8234482)
 - [Gabet A, et al. Épidémiologie des accidents vasculaires cérébraux en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_3.html)

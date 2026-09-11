@@ -252,6 +252,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Damman K, et al. 2026 ESC Guidelines for the management of cardiovascular disease and chronic kidney disease, in collaboration with the European Renal Association (ERA). Eur Heart J. 2026.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag098/8766283) (voir Chapitre 11 p65)
 - [Collège Universitaire des Enseignants de Néphrologie (CUEN). Élévation de la créatininémie. Manuel de néphrologie 11ème édition. 2025.](https://manuel.cuen.fr/accueil-chapitres/)
 - [ESUR](http://www.esur.org/fileadmin/content/2019/ESUR_Guidelines_10.0_Final_Version.pdf)
 - [EMA](https://www.ema.europa.eu/en/documents/referral/gadolinium-article-31-referral-prac-confirms-restrictions-use-linear-gadolinium-agents_en.pdf)

@@ -9,7 +9,7 @@ synonyms = ["Coronaropathie", "angor", "angine de poitrine"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-10-28T16:29:03+02:00"
 publishdate = "2023-04-04"
-lastmod = "2025-06-24"
+lastmod = "2026-09-10"
 specialites = ["cardiologie"]
 annees = "2024"
 sources = ["ESC", "HAS"]
@@ -178,7 +178,7 @@ Coronaropathie confirmée: échodoppler des troncs supra-aortiques (TSA) et de l
 > [!INFO]
 > La normalité du tracé ECG ne permet pas d'exclure un syndrome coronarien chronique.
 
-L'électrocardiogramme 12 dérivations est systématique.
+L'ECG 12 dérivations est systématique.
 
 {{% /collapse %}}
 {{%collapse "Traitement du syndrome coronarien chronique" %}}
@@ -193,12 +193,12 @@ Réévaluation du traitement à chaque consultation:
 
 - [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) (réduit la mortalité de 36%)
 - Réduction de l'alcool (< 10 verres par semaine)
-- Statine systématique ± ézétimibe
+- **Statine systématique** ± ézétimibe
   - Cible: {{< modal-btn modal-rcv >}}LDL < 0,55 g/L et réduction ≥ 50 %{{< /modal-btn >}}
-  - Si insuffisants: anti-PCSK9 (évolocumab SC Repatha®, alirocumab SC Praluent® sur prescription spécialisée)
+  - Si insuffisants: anti-PCSK9 (évolocumab SC Repatha®, alirocumab SC Praluent® sur prescription spécialisée), ~~icosapent éthyl~~ (Vazkepa® NR)
   - Si récidive sous dose maximale: considérer une cible < 0,4 g/L
 - [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) (*ESH 2023*)
-  - Seuil d'initiation de 130/80 mmHg (dite normale haute)
+  - Seuil d'initiation de 130/80 mmHg (dite PA élevée)
   - Cible de la population générale: 120-129 / 70-79 mmHg (*ESC 2024*)
   - Si prévention secondaire: privilégier les {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} voire ARA2
   - Limiter les apports en sel à 5 g/j
@@ -222,7 +222,7 @@ Mesures spécifiques pour la prise en charge de la cardiopathie ischémique stab
   - Réévaluation toutes les 2-4 semaines initialement; jamais d'arrêt brutal
   - Si symptômes persistants: nitré d'action longue [patch](https://base-donnees-publique.medicaments.gouv.fr/medicament/63785468/extrait#tab-rcp) ou [oral](https://base-donnees-publique.medicaments.gouv.fr/medicament/66327091/extrait#tab-rcp) (pour lesquels une tolérance s'installe, nécessitant une période libre de 10-14 h/j)  
   ou [ivabradine](https://base-donnees-publique.medicaments.gouv.fr/medicament/60549911/extrait#tab-rcp-et-notice) (FEVG < 40%), [nicorandil](https://base-donnees-publique.medicaments.gouv.fr/medicament/66925249/extrait#tab-rcp), [trimétazidine](https://base-donnees-publique.medicaments.gouv.fr/medicament/61020245/extrait#tab-rcp) (ranolazine non disponible en France), voir tableau plus bas
-- **Prévention secondaire** (ou obstruction significative): aspirine 75-100 mg/j ou clopidogrel 75 mg/j (choix si [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) ou [AIC/AIT]({{% relref "accident-vasculaire-cerebral.md" %}})) voire ticagrelor
+- **Prévention secondaire** (ou obstruction significative): aspirine 75-100 mg/j ou clopidogrel 75 mg/j (choix si MRC, [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}), [AIC/AIT]({{% relref "accident-vasculaire-cerebral.md" %}})) voire ticagrelor
   - Si haut risque ischémique sans risque élevé de saignement: aspirine 100 mg/j avec ticagrelor 60 mg x 2/j ou rivaroxaban 2,5 mg x 2/j
   - IPP si haut risque de saignement: score PRECISE-DAPT, ARC-HBR
   - Considérer: colchicine 0,5 mg/j
@@ -335,6 +335,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Damman K, et al. 2026 ESC Guidelines for the management of cardiovascular disease and chronic kidney disease, in collaboration with the European Renal Association (ERA). Eur Heart J. 2026.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag098/8766283)
 - [Vrints C, et al. 2024 ESC Guidelines for the management of chronic coronary syndromes. Eur Heart J. 2024.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae177/7743115)
 - [Grave C, et al. Épidémiologie des cardiopathies ischémiques en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_2.html)
 - {{< references/esh-2023 >}}

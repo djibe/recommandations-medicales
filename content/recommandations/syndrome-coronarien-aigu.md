@@ -242,7 +242,7 @@ Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut 
 - [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
   - Seuil diagnostique de la maladie cardiovasculaire: ≥ 130/80 mmHg
   - Cible tensionnelle **120**-129 / **70**-79 mmHg
-  - Privilégier {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} (ARA2 si mal toléré) + bêtabloquant dose maximale (carvédilol et nébivolol sont hypotenseurs)
+  - Privilégier **{{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}** (ARA2 si mal toléré) + bêtabloquant dose maximale (carvédilol et nébivolol sont hypotenseurs)
   - Trithérapie: + ICa-DHP ou thiazidique
 - [Vaccin grippe]({{% relref "grippe.md" %}}) annuel
 - Développement d'un syndrome coronarien chronique: voir [chapitre dédié]({{% relref "syndrome-coronarien-chronique.md" %}})
@@ -274,6 +274,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Damman K, et al. 2026 ESC Guidelines for the management of cardiovascular disease and chronic kidney disease, in collaboration with the European Renal Association (ERA). Eur Heart J. 2026.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag098/8766283)
 - [Mach F, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/article/46/42/4359/8234482)
 - [Grave C, et al. Épidémiologie des cardiopathies ischémiques en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_2.html)
 - [Kreutz R, et al. 2024 European Society of Hypertension clinical practice guidelines for the management of arterial hypertension. Eur J Intern Med. 2024.](https://www.ejinme.com/article/S0953-6205(24)00238-3/fulltext)
