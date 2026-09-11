@@ -1,5 +1,6 @@
 +++
 title = "Questionnaire HHIES (Hearing handicap inventory for the elderly - screening)"
+titleSeo = "Questionnaire HHIES (hypoacousie)"
 description = "Le questionnaire HHIES (Hearing handicap inventory for the elderly - screening) est validé pour le repérage de la presbyacousie à partir de 60 ans."
 longHtml = true
 noSearchContent = true

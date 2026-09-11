@@ -1,5 +1,6 @@
 +++
-title = "Échelle de sévérité de la BPCO GOLD (Global initiative for chronic Obstructive Lung Disease)"
+title = "Échelle GOLD de sévérité de la BPCO (Global initiative for chronic Obstructive Lung Disease)"
+titleSeo = "Échelle GOLD de sévérité de la BPCO"
 description = "L'échelle GOLD est une référence pour exprimer la sévérité de l'obstruction bronchique pour un trouble ventilatoire obstructif non réversible."
 longHtml = true
 noSearchContent = true

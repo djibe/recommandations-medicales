@@ -1,5 +1,6 @@
 +++
 title = "Questionnaire FACE (Formule pour approcher la consommation d'alcool par entretien)"
+titleSeo = "Questionnaire FACE (alcool)"
 description = "Le questionnaire FACE (Formule pour approcher la consommation d'alcool par entretien) est un test validé pour le repérage d'un mésusage de l'alcool."
 longHtml = true
 noSearchContent = true

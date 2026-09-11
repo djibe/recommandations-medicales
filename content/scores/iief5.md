@@ -1,5 +1,6 @@
 +++
 title = "Questionnaire IIEF-5 (Simplified International Index of Erectile Function)"
+titleSeo = "Questionnaire IIEF-5"
 description = "Le questionnaire IIEF-5 (Simplified International Index of Erectile Function) est validé pour l'évaluation de la dysfonction érectile chez l'adulte."
 longHtml = true
 noSearchContent = true

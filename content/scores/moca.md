@@ -1,6 +1,6 @@
 +++
 title = "Échelle MoCA (Montreal Cognitive Assessment)"
-description = "Le MOCA."
+description = "Le MoCA est un test de référence pour le dépistage de la démence."
 longHtml = true
 noSearchContent = true
 noindex = true

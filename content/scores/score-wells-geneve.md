@@ -1,5 +1,6 @@
 +++
 title = "Scores de probabilité clinique de l'embolie pulmonaire (EP): score de Wells, score révisé de Genève"
+titleSeo = "Scores de Wells, score révisé de Genève de l'embolie pulmonaire"
 description = "Les scores de Wells et révisé de Genève sont les scores de référence pour le calcul de la probabilité clinique d'une embolie pulmonaire (EP)."
 longHtml = true
 noSearchContent = true

@@ -1,5 +1,6 @@
 +++
 title = "Questionnaire AUDIT-C (Alcohol Use Disorders Identification Test Consumption)"
+titleSeo = "Questionnaire AUDIT-C"
 description = "Le questionnaire AUDIT-C (Questionnaire Alcohol Use Disorders Identification Test Consumption) est un test validé pour le repérage d'un mésusage de l'alcool"
 longHtml = true
 noSearchContent = true

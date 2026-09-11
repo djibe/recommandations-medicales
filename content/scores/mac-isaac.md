@@ -1,5 +1,5 @@
 +++
-title = "Score de Mac-Isaac"
+title = "Score de Mac-Isaac (angine)"
 description = "Le score de Mac-Isaac est validé à partir de 15 ans pour dispenser la réalisation d'un test de dépistage rapide du streptocoque pour l'angine aiguë"
 longHtml = true
 noSearchContent = true

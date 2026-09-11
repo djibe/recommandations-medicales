@@ -1,5 +1,6 @@
 +++
 title = "Questionnaire AUDIT (Alcohol Use Disorders Identification Test Consumption)"
+titleSeo = "Questionnaire AUDIT"
 description = "Questionnaire Alcohol Use Disorders Identification Test Consumption pour le repérage d'un mésusage de l'alcool"
 longHtml = true
 noSearchContent = true

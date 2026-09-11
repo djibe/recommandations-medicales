@@ -1,5 +1,6 @@
 +++
 title = "Questionnaire M-TOQ (Migraine Treatment Optimization Questionnaire)"
+titleSeo = "Questionnaire M-TOQ (migraine)"
 description = "Le questionnaire M-TOQ est une échelle de référence pour évaluer le contrôle de la migraine."
 longHtml = true
 noSearchContent = true

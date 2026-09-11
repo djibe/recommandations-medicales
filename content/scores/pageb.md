@@ -1,5 +1,5 @@
 +++
-title = "Score PAGE-B (Plaquettes, âge, genre)"
+title = "Score PAGE-B (risque de CHC)"
 description = "Le score PAGE-B (Plaquettes, âge, genre) est validé pour le repérage des personnes à risque de carcinome hépatocellulaire (CHC)."
 longHtml = true
 noSearchContent = true

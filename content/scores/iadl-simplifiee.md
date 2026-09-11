@@ -1,5 +1,6 @@
 +++
 title = "Échelle d'autonomie IADL simplifiée (Instrumental Activities of Daily Living)"
+titleSeo = "Échelle d'autonomie IADL simplifiée"
 description = "L'échelle IADL simplifiée (Instrumental Activities of Daily Living) est validée pour l'évaluation de l'autonomie."
 longHtml = true
 noSearchContent = true

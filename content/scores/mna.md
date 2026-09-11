@@ -1,5 +1,6 @@
 +++
 title = "Questionnaire MNA version courte (Mini Nutritional Assessment Short Form)"
+titleSeo = "Questionnaire MNA version courte (Mini Nutritional Assessment)"
 description = "Le questionnaire MNA (Mini Nutritional Assessment Short Form) est validé pour le dépistage de la dénutrition."
 longHtml = true
 noSearchContent = true

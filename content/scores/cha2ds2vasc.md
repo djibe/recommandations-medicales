@@ -1,6 +1,7 @@
 +++
-title = "Score CHA~2~DS~2~-VASc"
-description = "Score CHA2DS2-VASc pour le calcul du risque d'AVC chez les patients ayant une fibrillation atriale (FA)."
+title = "Score embolique CHA~2~DS~2~-VASc"
+titleSeo = "Score embolique CHA2DS2-VASc"
+description = "Score CHA2DS2-VASc pour le calcul du risque d'AVC chez les patients atteint de fibrillation atriale (FA)."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]

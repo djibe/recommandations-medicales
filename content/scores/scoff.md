@@ -1,5 +1,5 @@
 +++
-title = "Questionnaire SCOFF (Sick - Control - One - Fat - Food)"
+title = "Questionnaire SCOFF (conduites alimentaires)"
 description = "Le questionnaire SCOFF (Sick - Control - One - Fat - Food) est validé pour le dépistage des troubles des conduites alimentaires (TCA)."
 longHtml = true
 noSearchContent = true

@@ -1,6 +1,6 @@
 +++
 title = "Questionnaire GRIO des apports en calcium"
-description = "Le questionnaire du GRIO (Groupe de Recherche et d’Information sur les Ostéoporoses) permet d'évaluer les apports alimentaires en calcium"
+description = "Le questionnaire du GRIO (Groupe de Recherche et d'Information sur les Ostéoporoses) permet d'évaluer les apports alimentaires en calcium"
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
@@ -12,7 +12,7 @@ tags = []
 sctid = ""
 +++
 
-Le questionnaire du GRIO (Groupe de Recherche et d’Information sur les Ostéoporoses) permet d'évaluer les apports alimentaires en calcium.
+Le questionnaire du GRIO (Groupe de Recherche et d'Information sur les Ostéoporoses) permet d'évaluer les apports alimentaires en calcium.
 
 Chapitre lié: [Apports en calcium]({{% relref "apports-calcium.md" %}})
 
