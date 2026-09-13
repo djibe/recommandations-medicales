@@ -22,7 +22,7 @@
 <div class="alert bg-light d-flex mt-md-4">
   <div class="d-flex flex-column align-items-center justify-content-evenly">
     <p class="typography-overline score-output-title">FIB-4</p>
-    <output class="score-output" id="fib4Score">0</output>
+    <output class="score-output" id="fib4Score">-</output>
   </div>
   <p id="fib4Text" class="lead m-auto">Veuillez compléter les informations clinico-biologiques</p>
 </div>
@@ -37,33 +37,43 @@
 </blockquote>
 {{ $script := `
   // Score FIB-4 by djibe
-  window.addEventListener( 'load', event => {
+  window.addEventListener('DOMContentLoaded', () => {
     const scoreFib4 = document.getElementById('fib4Score')
     const textFib4 = document.getElementById('fib4Text')
-    const ageElem = document.getElementById('fib4-1')
-    const plaqElem = document.getElementById('fib4-2')
-    const asatElem = document.getElementById('fib4-3')
-    const alatElem = document.getElementById('fib4-4');
-    [...document.querySelectorAll('#score-fib4 input[type=\"number\"]')].forEach((elem) => { elem.addEventListener('change', () => calcFib4() ) })
+    const inputs = [...document.querySelectorAll('#score-fib4 input[type="number"]')]
+
+    const [ageElem, plaqElem, asatElem, alatElem] = inputs
+
     const calcFib4 = () => {
-      let score = 0
-      const age = parseInt(ageElem.value, 10)
-      const plaq = parseInt(plaqElem.value, 10)
-      const asat = parseInt(asatElem.value, 10)
-      const alat = parseInt(alatElem.value, 10)
-      score = (age * asat) / (plaq *  Math.sqrt(alat))
-      /* If all inputs are filled */
-      if ([...document.querySelectorAll('#score-fib4 input[type=\"number\"]')].every((e) => e.value > 0)) {
-        if ( (age < 65 && score < 1.3) || (age >= 65 && score < 2) ) {
-          textFib4.innerHTML = 'Pas de fibrose hépatique'
-        } else if ( (age < 65 && score >= 1.3) || (age >= 65 && score >= 2) ) {
-          textFib4.innerHTML = '<strong>Fibrose hépatique probable</strong><br>Prescrire pour le laboratoire:<br>Fibromètre®, Fibrotest® ou ELF®'
-        }
-        scoreFib4.innerHTML = score.toPrecision(4)
-      } else {
-        scoreFib4.innerHTML = 0
-        textFib4.innerHTML = 'Veuillez compléter les informations clinico-biologiques'
-      }
+      const age = Number(ageElem.value)
+      const plaq = Number(plaqElem.value)
+      const asat = Number(asatElem.value)
+      const alat = Number(alatElem.value)
+
+      const allInputsValid = [age, plaq, asat, alat].every(value => value > 0)
+
+      if (!allInputsValid) {
+        scoreFib4.textContent = '0'
+        textFib4.textContent = 'Veuillez compléter les informations clinico-biologiques'
+        return
     }
-  })` }}
+
+    const score = (age * asat) / (plaq * Math.sqrt(alat))
+    const fibrosisLikely = age < 65 ? score >= 1.3 : score >= 2
+
+    scoreFib4.textContent = score.toPrecision(4)
+
+    if (fibrosisLikely) {
+      textFib4.innerHTML = '<strong>Fibrose hépatique probable</strong><br>Prescrire pour le laboratoire:<br>Fibromètre®, Fibrotest® ou ELF®'
+    } else {
+      textFib4.textContent = 'Pas de fibrose hépatique'
+    }
+  }
+
+  inputs.forEach(input => {
+    input.addEventListener('input', calcFib4)
+  })
+
+  calcFib4()
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

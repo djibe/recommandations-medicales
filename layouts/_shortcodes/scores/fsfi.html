@@ -70,7 +70,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score FSFI</p>
-      <output class="score-output" id="fsfiScore">0</output>
+      <output class="score-output" id="fsfiScore">-</output>
     </div>
     <p id="fsfiText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -80,31 +80,47 @@
 </blockquote>
 {{ $script := `
   // Score FSFI by djibe
-  window.addEventListener( 'load', event => {
-    const scorefsfi = document.getElementById('fsfiScore')
-    const textfsfi = document.getElementById('fsfiText');
-    [...document.querySelectorAll('#score-fsfi input[type="radio"]')].forEach((elem) => { elem.addEventListener('click', () => calcfsfi() ) })
-    const calcfsfi = () => {
-      let score = 0
-      let anxietyText = ''
-      let depressionText = ''
-      const checkedElems = document.querySelectorAll('#score-fsfi input[type="radio"]:checked')
-      if (checkedElems.length === 4) {
-        const checkedAnxiety1 = document.querySelector('#score-fsfi input[name="radio-anxiety-1"]:checked')
-        const checkedAnxiety2 = document.querySelector('#score-fsfi input[name="radio-anxiety-2"]:checked')
-        let anxietyValue = parseInt(checkedAnxiety1.value, 10) + parseInt(checkedAnxiety2.value, 10)
-        if (anxietyValue >= 3) { anxietyText = '<br>Anxiété probable'}
-        const checkedDepression1 = document.querySelector('#score-fsfi input[name="radio-depression-1"]:checked')
-        const checkedDepression2 = document.querySelector('#score-fsfi input[name="radio-depression-2"]:checked')
-        let depressionValue = parseInt(checkedDepression1.value, 10) + parseInt(checkedDepression2.value, 10)
-        if (depressionValue >= 3) { depressionText = '<br>Dépression probable'}
-        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
-        scorefsfi.innerHTML = score
-        if (score <= 2) { textfsfi.innerHTML = "Pas de détresse psychologique" }
-        else if (score >= 3 && score <= 5) { textfsfi.innerHTML = "Détresse psychologique légère" + anxietyText + depressionText}
-        else if (score >= 6 && score <= 8) { textfsfi.innerHTML = "<strong>Détresse psychologique modérée</strong>" + anxietyText + depressionText }
-        else if (score >= 9 && score <= 12) { textfsfi.innerHTML = "<strong>Détresse psychologique grave</strong>" + anxietyText + depressionText}
+ window.addEventListener('DOMContentLoaded', () => {
+  const container = document.getElementById('score-fsfi');
+  const scoreElement = document.getElementById('fsfiScore');
+  const textElement = document.getElementById('fsfiText');
+
+  if (!container || !scoreElement || !textElement) return;
+
+  const calculateScore = () => {
+    const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (checkedElems.length !== 4) return;
+
+    let anxietyValue = 0;
+    let depressionValue = 0;
+
+    checkedElems.forEach(radio => {
+      const value = parseInt(radio.value, 10);
+      if (radio.name.includes('anxiety')) {
+        anxietyValue += value;
+      } else if (radio.name.includes('depression')) {
+        depressionValue += value;
       }
+    });
+
+    const score = anxietyValue + depressionValue;
+    const anxietyText = anxietyValue >= 3 ? '<br>Anxiété probable' : '';
+    const depressionText = depressionValue >= 3 ? '<br>Dépression probable' : '';
+
+    scoreElement.textContent = score;
+
+    if (score <= 2) {
+      textElement.innerHTML = "Pas de détresse psychologique";
+    } else if (score <= 5) {
+      textElement.innerHTML = "Détresse psychologique légère" + anxietyText + depressionText;
+    } else if (score <= 8) {
+      textElement.innerHTML = "<strong>Détresse psychologique modérée</strong>" + anxietyText + depressionText;
+    } else {
+      textElement.innerHTML = "<strong>Détresse psychologique grave</strong>" + anxietyText + depressionText;
     }
-  })` }}
+  };
+
+  container.addEventListener('change', calculateScore);
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

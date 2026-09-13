@@ -54,7 +54,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score Fagerström-6</p>
-      <output class="score-output" id="fager6Score">0</output>
+      <output class="score-output" id="fager6Score">-</output>
     </div>
     <p id="fager6Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -64,21 +64,40 @@
 </blockquote>
 {{ $script := `
   // Score Fagerström-6 by djibe
-  window.addEventListener( 'load', event => {
-    const scorefager6 = document.getElementById('fager6Score')
-    const textfager6 = document.getElementById('fager6Text');
-    [...document.querySelectorAll('#score-fager6 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcFager6() ) })
+  window.addEventListener('DOMContentLoaded', () => {
+    const container = document.getElementById('score-fager6');
+    const scoreElement = document.getElementById('fager6Score');
+    const textElement = document.getElementById('fager6Text');
+
+    if (!container || !scoreElement || !textElement) return;
+
     const calcFager6 = () => {
-      let score = 0
-      const checkedElems = document.querySelectorAll('#score-fager6 input[type=\"radio\"]:checked')
-      if (checkedElems.length === 6) {
-        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
-        scorefager6.innerHTML = score
-        if (score <= 2) { textfager6.innerHTML = "Pas de dépendance" }
-        else if (score >= 3 && score <= 4) { textfager6.innerHTML = "Dépendance faible" }
-        else if (score >= 5 && score <= 6) { textfager6.innerHTML = "Dépendance moyenne" }
-        else if (score >= 7) { textfager6.innerHTML = "Dépendance forte ou très forte" }
-      }
-    }
-  })` }}
+        const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
+
+        if (checkedElems.length === 6) {
+            let score = 0;
+            checkedElems.forEach(elem => {
+                score += parseInt(elem.value, 10);
+            });
+
+            scoreElement.textContent = score;
+
+            if (score <= 2) {
+                textElement.textContent = 'Pas de dépendance';
+            } else if (score <= 4) {
+                textElement.textContent = 'Dépendance faible';
+            } else if (score <= 6) {
+                textElement.textContent = 'Dépendance moyenne';
+            } else {
+                textElement.textContent = 'Dépendance forte ou très forte';
+            }
+        }
+    };
+
+    container.addEventListener('change', (event) => {
+        if (event.target.type === 'radio') {
+            calcFager6();
+        }
+    });
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

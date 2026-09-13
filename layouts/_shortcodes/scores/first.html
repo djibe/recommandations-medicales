@@ -51,31 +51,49 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score FiRST</p>
-      <output class="score-output" id="firstScore">0</output>
+      <output class="score-output" id="firstScore">-</output>
     </div>
     <p id="firstText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
 </div>
 <blockquote lang="en" class="blockquote my-4">
-  <p class="mb-0"><a href="https://pubmed.ncbi.nlm.nih.gov/20488620/" rel="external nofollow noopener">Perrot S, Bouhassira D, Fermanian J; CEDR (Cercle d’Etude de la Douleur en Rhumatologie). Development and validation of the Fibromyalgia Rapid Screening Tool (FiRST). Pain. 2010;150(2):250-256. doi:10.1016/j.pain.2010.03.034</a></p>
+  <p class="small mb-0"><a href="https://pubmed.ncbi.nlm.nih.gov/20488620/" rel="external nofollow noopener">Perrot S, Bouhassira D, Fermanian J; CEDR (Cercle d’Etude de la Douleur en Rhumatologie). Development and validation of the Fibromyalgia Rapid Screening Tool (FiRST). Pain. 2010;150(2):250-256. doi:10.1016/j.pain.2010.03.034</a></p>
   <p>Un score ≥ 5 a une sensibilité de 90,5 % et spécificité de 85,7 % pour un diagnostic de syndrome fibromyalgique
     (VPP 89,5 % et VPN 87,5 %).</p>
 </blockquote>
 {{ $script := `
   // Score FiRST (Fibromyalgia Rapid Screening Tool) by djibe
-  window.addEventListener( 'load', event => {
+  window.addEventListener('DOMContentLoaded', () => {
     const scoreFirst = document.getElementById('firstScore')
-    const textFirst = document.getElementById('firstText');
-    [...document.querySelectorAll('#score-first input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcFirst() ) })
+    const textFirst = document.getElementById('firstText')
+    const radios = [...document.querySelectorAll('#score-first input[type="radio"]')]
+
     const calcFirst = () => {
-      let score = 0
-      const checkedElems = document.querySelectorAll('#score-first input[type=\"radio\"]:checked')
-      if (checkedElems.length === 6) {
-        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
-        scoreFirst.innerHTML = score
-        if (score < 5) { textFirst.innerHTML = "Rechercher un autre diagnostic" }
-        else if (score >= 5) { textFirst.innerHTML = "Syndrome fibromyalgique très probable" }
-      }
+    const checkedRadios = radios.filter(radio => radio.checked)
+
+    if (checkedRadios.length !== 6) {
+      scoreFirst.textContent = '-'
+      textFirst.textContent = 'Veuillez compléter les informations'
+      return
     }
-  })` }}
+
+    const score = checkedRadios.reduce(
+      (total, radio) => total + Number(radio.value),
+      0
+    )
+
+    scoreFirst.textContent = score
+    textFirst.textContent = score >= 5
+      ? 'Syndrome fibromyalgique très probable'
+      : 'Rechercher un autre diagnostic'
+
+
+    }
+
+    radios.forEach(radio => {
+    radio.addEventListener('change', calcFirst)
+    })
+
+    calcFirst()
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

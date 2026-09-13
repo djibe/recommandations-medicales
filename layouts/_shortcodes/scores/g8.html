@@ -82,7 +82,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score G8</p>
-      <output class="score-output" id="g8Score">0</output>
+      <output class="score-output" id="g8Score">-</output>
     </div>
     <p id="g8Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -94,19 +94,32 @@
 </blockquote>
 {{ $script := `
   // Score G8 - Oncodage by djibe
-  window.addEventListener( 'load', event => {
-    const scoreg8 = document.getElementById('g8Score')
-    const textg8 = document.getElementById('g8Text');
-    [...document.querySelectorAll('#score-g8 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcG8() ) })
-    const calcG8 = () => {
-      let score = 0
-      const checkedElems = document.querySelectorAll('#score-g8 input[type=\"radio\"]:checked')
-      if (checkedElems.length === 8) {
-        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
-        scoreg8.innerHTML = score
-        if (score <= 14) { textg8.innerHTML = "Fragilité. Nécessité d’une évaluation gériatrique" }
-        else { textg8.innerHTML = "Pas d’évaluation complémentaire nécessaire" }
-      }
+  window.addEventListener('DOMContentLoaded', () => {
+  const container = document.getElementById('score-g8');
+  const scoreElement = document.getElementById('g8Score');
+  const textElement = document.getElementById('g8Text');
+
+  if (!container || !scoreElement || !textElement) return;
+
+  const calcG8 = () => {
+    const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (checkedElems.length !== 8) return;
+
+    let score = 0;
+    checkedElems.forEach(radio => {
+      score += parseInt(radio.value, 10);
+    });
+
+    scoreElement.textContent = score;
+
+    if (score <= 14) {
+      textElement.textContent = "Fragilité. Nécessité d’une évaluation gériatrique";
+    } else {
+      textElement.textContent = "Pas d’évaluation complémentaire nécessaire";
     }
-  })` }}
+  };
+
+  container.addEventListener('change', calcG8);
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

@@ -25,7 +25,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Fagerström-2</p>
-      <output class="score-output" id="fagerstromShortScore">0</output>
+      <output class="score-output" id="fagerstromShortScore">-</output>
     </div>
     <p id="fagerstromShortText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -41,23 +41,40 @@
   </p>
 </blockquote>
 {{ $script := `
-  // Score de Fagerström simplifié by djibe
-  window.addEventListener( 'load', event => {
-    const scoreFagerstromShort = document.getElementById('fagerstromShortScore')
-    const textFagerstrom = document.getElementById('fagerstromShortText');
-    [...document.querySelectorAll('#score-fagerstrom-short input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcFagerstromShort() ) })
-    const calcFagerstromShort = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('#score-fagerstrom-short input[type=\"radio\"]:checked')
-      elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-        if (elemsChecked.length >= 2) {
-          scoreFagerstromShort.innerHTML = score
-          if (score <= 1) { textFagerstrom.innerHTML = 'Pas de dépendance' }
-          else if (score >= 2 && score <= 3) { textFagerstrom.innerHTML = 'Dépendance modérée' }
-          else if (score >= 4) { textFagerstrom.innerHTML = 'Dépendance forte' }
-        }
-      })
+  // Score de Fagerström simplifié par djibe
+window.addEventListener('DOMContentLoaded', () => {
+  const scoreFagerstromShort = document.getElementById('fagerstromShortScore');
+  const textFagerstrom = document.getElementById('fagerstromShortText');
+  const radioInputs = document.querySelectorAll('#score-fagerstrom-short input[type="radio"]');
+
+  const calcFagerstromShort = () => {
+    const elemsChecked = document.querySelectorAll('#score-fagerstrom-short input[type="radio"]:checked');
+
+    // Return early if not all required questions are answered
+    if (elemsChecked.length < 2) return;
+
+    let score = 0;
+    elemsChecked.forEach(elemChecked => {
+      score += parseInt(elemChecked.value, 10) || 0;
+    });
+
+    scoreFagerstromShort.textContent = score;
+
+    if (score <= 1) {
+      textFagerstrom.textContent = 'Pas de dépendance';
+    } else if (score <= 3) {
+      textFagerstrom.textContent = 'Dépendance modérée';
+    } else {
+      textFagerstrom.textContent = 'Dépendance forte';
     }
-  })` }}
+  };
+
+  // Event Delegation: single listener on the container instead of looping over every input
+  const container = document.getElementById('score-fagerstrom-short');
+  if (container) {
+    container.addEventListener('change', calcFagerstromShort);
+  } else {
+    radioInputs.forEach(elem => elem.addEventListener('change', calcFagerstromShort));
+  }
+});` }}
 <script type="module">{{ $script | safeJS }}</script>
