@@ -9,10 +9,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2026-08-14"
+lastmod = "2026-09-11"
 specialites = ["néphrologie"]
-annees = "2024"
-sources = ["KDIGO", "HAS", "ESH", "ADA", "ESC"]
+annees = "2026"
+sources = ["ESC", "ERA", "KDIGO", "HAS"]
 tags = ["dépistage", "diabète", "dyspnée", "fatigue", "ferritine", "HTA", "néphropathie", "obésité", "risque cardiovasculaire", "vaccin", "vitamine d"]
 english = ["Chronic kidney disease (CKD)", "chronic renal insufficiency"]
 sctid = "709044004"
@@ -29,7 +29,7 @@ todo = "SEO, Albuminurie perturbée, aliments riches K/P (HAS2023p71), désindex
 
 - Dépistage annuel des populations à risque d'insuffisance rénale chronique par créatininémie et albuminurie sur échantillon
 - 3 piliers de l'évaluation de la maladie rénale chronique: étiologie, estimation du débit de filtration glomérulaire (DFG) selon CKD-EPI et rapport albuminurie/créatininurie (RAC)
-- Toute personne avec une insuffisance rénale chronique est à {{< modal-btn modal-rcv >}}risque cardiovasculaire élevé ou très élevé{{< /modal-btn >}}
+- Toute personne avec une insuffisance rénale chronique est à {{< modal-btn modal-rcv >}}risque cardiovasculaire ou{{< /modal-btn >}}
 - Néphroprotection et prise en charge de l'insuffisance rénale:  
   Arrêt du tabac, {{< modal-btn modal-nephrotoxiques >}}éviter les néphrotoxiques{{< /modal-btn >}}, tension cible < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale tolérée, souvent {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, vaccinations, activité physique
 - Adaptation des traitements selon le DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
@@ -68,6 +68,12 @@ CKD-EPI
 
 DFG
 : débit de filtration glomérulaire estimé (ou DFGe, remplace le calcul de la clairance de la créatinine Cockroft)
+
+ERA
+: {{%lang%}}European Renal Association{{%/lang%}}
+
+ESC
+: {{%lang%}}European Society of Cardiology{{%/lang%}}
 
 FRCV
 : facteurs de risque cardiovasculaire
@@ -187,8 +193,8 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 | :---: | :---: | ------------------------------- |
 |   1   | ≥ 90  | MRC avec DFG normal ou augmenté |
 |   2   | 60-89 | MRC avec DFG légèrement diminué |
-|  3A   | 45-59 | IRC modérée                     |
-|  3B   | 30-44 | IRC modérée                     |
+|  3A   | 45-59 | IRCe                     |
+|  3B   | 30-44 | IRCe                     |
 |   4   | 15-29 | IRC sévère                      |
 |   5   | < 15  | IRC terminale                   |
 {caption="Stades de la maladie rénale chronique et de l'insuffisance rénale chronique selon *KDIGO 2024* (depuis 2012; à partir de 2 ans)"}
@@ -198,7 +204,7 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 | Stade | mg/mmol |   mg/g | mg/24h | Définition                      |
 | ----- | ------: | -----: | -----: | ------------------------------- |
 | A1    |     < 3 |   < 30 |   < 30 | Normale ou légèrement augmentée |
-| A2    |    3-30 | 30-300 | 30-300 | Modérément augmentée            |
+| A2    |    3-30 | 30-300 | 30-300 |ment augmentée            |
 | A3    |    > 30 |  > 300 |  > 300 | Sévèrement augmentée            |
 {caption="Classification de l'albuminurie selon *KDIGO 2024* (depuis 2012)"}
 
@@ -212,7 +218,7 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 Recherche de signes étiologiques et du retentissement de la maladie rénale:
 
 - Poids, taille, IMC, tour de taille
-- Pression artérielle ± [automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}}) (MAPA si greffe rénale)
+- Pression artérielle, fréquence cardiaque et régularité ± [automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}}) (MAPA si greffe rénale)
 - Auscultation cardiaque, souffle carotidien/rénal, pouls périphériques
 - Œdèmes, hydratation, reins palpables, signes de maladie de système
 - Signes urologiques  
@@ -222,20 +228,31 @@ Recherche de signes étiologiques et du retentissement de la maladie rénale:
 - Stade avancé: syndrome urémique  
   Fatigue, dyspnée, anorexie, nausées, vomissements, prurit, syndrome des jambes sans repos, crampes nocturnes, nycturie, troubles cognitifs, somnolence, hémorragies, troubles endocriniens, hypertension sévère.
 - Sujet âgé: évaluation gériatrique
+- Évaluation du **risque cardiovasculaire**: [SCORE2 CKD Add-On](https://ckdpcrisk.org/ckdpatchscore/) en prévention primaire ou grille pour le {{< modal-btn modal-rcv >}}risque secondaire{{< /modal-btn >}}
 
 ### 4) Critères pour apprécier l'évolutivité de la MRC
 
-La maladie rénale est considérée comme évolutive en cas de présence de facteur ci-dessous (déclin annuel rapide du DFG, différence entre 2 annnées calculé par: DFGe année n - DFGe année n+1)
+La maladie rénale est considérée comme **évolutive** en cas de présence de facteur ci-dessous (déclin annuel rapide du DFG, différence entre 2 annnées calculé par: DFGe année n - DFGe année n+1)
 
-- {{%class%}}Déclin annuel modéré si ≥ 2 et < 5{{%/class%}}
-- [Score KFRE > 3 % à 5 ans](https://kidneyfailurerisk.com)
+- {{%class%}}Déclin annuel si ≥ 2 et < 5 mL/min/1,73m²{{%/class%}}
+- Stade G3-G: calcul du [score KFRE](https://kidneyfailurerisk.com) (évolutif si > 3 % à 5 ans)
 - **Déclin rapide** si variation annuelle du DFG ≥ -5 mL/min/1,73m²
 - Présence d'une albuminurie (surtout si sévère > 500 mg/g)
 - Hypertension artérielle non contrôlée
 
-Quel que soit le stade de la MRC, ces situations nécessitent un avis néphrologique.
+Quel que soit le stade de la MRC, ces situations nécessitent un **avis néphrologique**.
 
 Le déclin annuel est **physiologique** quand < 2 mL/min/1,73m²/an.
+
+| DFG | A1 < 3 mg/mmol | A2 3-30 | A3 > 30 |
+| --- | --- | --- | --- |
+| ≥ 90 (G1) | 🟢 | 🟡 | 🟠 |
+| 60-89 (G2) | 🟢 | 🟡 | 🟠 |
+| 45-59 (G3a) | 🟡 | 🟠 | 🔴 |
+| 30-44 (G3b) | 🟡 | 🔴 | 🔴 |
+| 15-29 (G4) | 🟠 | 🔴 | 🔴 |
+| < 15 (G5) | 🔴 | 🔴 | 🔴 |
+{caption="Risque de défaillance rénale et de complications selon le DFG et l'albuminurie. Dr JB Fron d'après KDIGO. 🟢 Faible, 🟡 Modéré, 🟠 Élevé, 🔴 Très élevé"}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
@@ -256,6 +273,8 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
 
 #### Examens supplémentaires selon le terrain
 
+- Dépistage de l'insuffisance cardiaque ("peut être considéré"): NT-proBNP ≥ 500 pg/mL (éliminée si < 125 pg/mL)
+- Dépistage de la fibrillation atriale ("peut être considéré"): pouls, ECG
 - DFG < 60:
   - Albumine, calcémie, phosphorémie, PTH
   - Sérologies VHA, VHB, VHC
@@ -292,27 +311,26 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
   - {{< modal-btn modal-nephrotoxiques >}}Éviction des néphrotoxiques{{< /modal-btn >}}
   - Pas d'automédication ou herbes chinoises
 - **Gliflozine** ({{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}) recommandée si:
-  - Albuminurie ≥ 20 mg/mmol (soit stade A2 ou A3; *KDIGO 2024*)
-  - DFG 20-45 mL/min/1,73 m² (*KDIGO 2024* suggère)
-  - HTA et DFG > 20 (*ESC 2024* recommande)
-  - Diabète type 2 avec MRC (*SFD 2025*, *KDIGO 2024*) ou insuffisance cardiaque
-- **Le {{< modal-btn modal-rcv >}}risque cardiovasculaire (RCV) est au moins élevé{{< /modal-btn >}}**
+  - RAC ("albuminurie") ≥ 20 mg/mmol et DFG ≥ 20 (soit stade A2 ou A3; *ESC/ERA 2026*, *KDIGO 2024*)
+  - DFG 20-44 mL/min/1,73 m² et RAC < 20 mg/mmol (*ESC/ERA 2026* doit être considéré, *KDIGO 2024* suggère)
+  - HTA et DFG ≥ 20 (*ESC 2024* recommande)
+  - Diabète type 2 avec MRC et DFG ≥ 20 (*ESC/ERA 2026*, *SFD 2025*, *KDIGO 2024*) ou insuffisance cardiaque
+- Suivi du **risque cardiovasculaire**: [SCORE2 CKD Add-On](https://ckdpcrisk.org/ckdpatchscore/) en prévention primaire ou grille pour le {{< modal-btn modal-rcv >}}risque secondaire{{< /modal-btn >}}
   - [Arrêt du tabac]({{% relref "arret-tabac.md" %}})
-  - **{{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} systématique** pour {{< modal-btn modal-rcv >}}LDL < 0,7 g/L{{< /modal-btn >}} si IRC modérée et 0,55 g/L pour IRC sévère (et réduction ≥ 50 %)  
+  - **{{< modal-btn modal-statine-intensite >}}Statine{{< /modal-btn >}} systématique** intensive dès la MRC pour {{< modal-btn modal-rcv >}}LDL < 0,7 g/L{{< /modal-btn >}} si IRCe et 0,55 g/L pour IRC sévère (et réduction ≥ 50 %)  
     Ne pas introduire au stade terminal, évaluer la poursuite à ce stade.
   - Réduction de l'alcool
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}} ou DASH
-  - Activité physique d'intensité modérée ≥ 150 minutes par semaine
+  - Activité physique d'intensitée ≥ 150 minutes par semaine
   - Lutte contre la sédentarité
   - Correction d'un surpoids
-  - {{< modal-btn modal-sel >}}Régime désodé cible < 5 g/j{{< /modal-btn >}} (max 6-8 g/j) et hydrique ~1,5 L/j (ni restreint ni forcé)
+  - {{< modal-btn modal-sel >}}Régime désodé cible < 5 g/j{{< /modal-btn >}} et hydrique ~1,5 L/j (ni restreint ni forcé)
 - **Hypertension artérielle**
-  - Traitement si PA ≥ 130/80 mmHg (*ESC 2024*)
-  - Pression artérielle cible 120-129 / < 80 mmHg (hors stade 4-5, *ESC 2024*)
-  - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} ({{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}) dose maximale tolérée avec inhibiteur calcique ou thiazidique (diurétique de l'anse à partir de 30 mL/min)
+  - Traitement si PA ≥ 130/80 mmHg (*ESC/ERA 2026*)
+  - Pression artérielle cible 120-129 / < 80 mmHg (individualisée pour les stades 4-5 mais la même cible est raisonnable -- *ESC/ERA 2026*)
+  - Par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale tolérée, avec inhibiteur calcique dihydropyridine ou thiazidique (diurétique de l'anse à partir de 30 mL/min)
   - Puis trithérapie si nécessaire
-  - Si greffe rénale: MAPA, cible < 130/80 mmHg (*ESH 2023* et *KDIGO 2021*)  
-   par anticalcique dihydropyridine ou thiazidique.
+  - Si greffe rénale: MAPA, cible < 130/80 mmHg (*ESH 2023* et *KDIGO 2021*)
   - [Automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}})
 - **Albuminurie**
   - Albuminurie cible < 30 mg/mmol par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} pleine dose
@@ -454,7 +472,7 @@ Tant que le DFGe est ≥ 45 mL/min/1,73 m² (20 chez le sujet âgé), stable, sa
 - Précautions professionnelles (médecin du travail)
 - Risques d'accumulation des médicaments à élimination rénale
 - Aggravation par le tabac
-- Suspension des traitements à élimination rénale en pathologie aiguë
+- Suspension des traitements à élimination rénale en cas de pathologie aiguë
   - Diarrhées, vomissements, fièvre, canicule, sport intense
   - IEC/ARA2, diurétiques, AINS, metformine, lithium, digoxine.
 
@@ -500,13 +518,14 @@ style fdr stroke:#4150f5, stroke-width:1px
     Normal --> 2
   4 --> Anormal
   Anormal --> bilan("Bilan initial de la MRC + Stade<br>voir Examens complémentaires")
-  bilan --> nephroprotection("<strong>Néphroprotection maximale</strong><br>—<br>- Éviction néphrotoxiques<br>- Adaptation des posologies<br>- IEC/ARA2 dose max<br>- iSGLT2 si: DT2, DFG 20-45,<br> albU ≥ 20 mg/mmol<br>- Vaccins grippe, covid, pneumo, VHB<br>- Risque cardiovasculaire (très) élevé<br>- Tension &lt; 120/90 mmHg<br>- Albuminurie cible &lt; 30 mg/mmol<br>- LDL &lt; 0,7 g/L (voire 0,55)<br>- Sel &lt; 5g/j<br>- Ferritinémie +100 ng/mL")
+  bilan --> nephroprotection("<strong>Néphroprotection maximale</strong><br>—<br>- Éviction néphrotoxiques<br>- Adaptation des posologies<br>- IEC/ARA2 dose max<br>- iSGLT2 si: DT2, DFG 20-45,<br> albU ≥ 20 mg/mmol<br>- Vaccins grippe, covid, pneumo, VHB<br>- Risque cardiovasculaire (très)<br>- Tension &lt; 120/90 mmHg<br>- Albuminurie cible &lt; 30 mg/mmol<br>- LDL &lt; 0,7 g/L (voire 0,55)<br>- Sel &lt; 5g/j<br>- Ferritinémie +100 ng/mL")
   nephroprotection -- stade 3B+ --> avis(Suivi néphrologique)
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Damman K, et al. 2026 ESC Guidelines for the management of cardiovascular disease and chronic kidney disease, in collaboration with the European Renal Association (ERA). Eur Heart J. 2026.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag098/8766283)
 - [HAS. Actualisation des indications des tests de détection de l'infection tuberculeuse latente par mesure de la production d'interféron gamma (tests IGRA) - Patients immunodéprimés ou avant instauration d’un traitement immunosuppresseur. Évaluation des technologies de santé. 2026.](https://www.has-sante.fr/jcms/p_4015118/fr/actualisation-des-indications-des-tests-de-detection-de-l-infection-tuberculeuse-latente-par-mesure-de-la-production-d-interferon-gamma-tests-igra-patients-immunodeprimes-ou-avant-instauration-d-un-traitement-immunosuppresseur)
 - [Ameli Médecin. Maladie rénale chronique. 06/03/2026.](https://www.ameli.fr/medecin/sante-prevention/pathologies/maladie-renale-chronique)
 - [Mach F, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2025.](https://academic.oup.com/eurheartj/article/46/42/4359/8234482)
@@ -531,7 +550,6 @@ style fdr stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
-- [Damman K, et al. 2026 ESC Guidelines for the management of cardiovascular disease and chronic kidney disease, in collaboration with the European Renal Association (ERA). Eur Heart J. 2026.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag098/8766283)
 - [Astley ME, et al. Age- and sex-specific reference values of estimated glomerular filtration rate for European adults. Kidney Int. 2025.](https://linkinghub.elsevier.com/retrieve/pii/S0085-2538(25)00252-2)
 - [HAS. Suivi ambulatoire de l'adulte transplanté rénal au-delà de 3 mois après transplantation. Recommandations de bonne pratique. 2007.](https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation)
 
