@@ -2,9 +2,8 @@
 <div class="mt-4" id="score-hamilton">
   <p>Échelle de dépression de Hamilton (<dfn><abbr title="Hamilton Rating Scale for Depression" lang="en">HDRS, HRSD ou HAM-D</abbr></dfn>) en 17 items qui reflètent
     des symptômes de la dépression de l’adulte.</p>
-  <p>Cette échelle hétéro-administrée est le test le plus utilisé pour évaluer <strong>l’intensité des symptômes dépressifs</strong> et leur évolution. Il a une forte corrélation avec
-    une autre échelle de dépression, le MADRS (Montgomery et Asberg).
-  </p>
+  <p>Cette échelle hétéro-administrée est le test de référence le plus utilisé pour évaluer <strong>l’intensité des symptômes dépressifs</strong> et leur <strong>évolution</strong>. Elle a une forte corrélation avec
+    une autre échelle de dépression, le MADRS (Montgomery et Asberg).</p>
   <p>Plus le score est élevé, plus la dépression est grave.</p>
   <p>L’évaluation de la dépression avec l’échelle de Hamilton peut être cotée annuellement avec le
     <b>code CCAM ALQP003</b> (69,12 €, soit 20,74€ en tiers payant).</p>
@@ -356,21 +355,34 @@
 </blockquote>
 {{ $script := `
   // Score Hamilton FR by djibe
-  window.addEventListener( 'load', event => {
-    const scoreHamilton = document.getElementById('hamiltonScore')
-    const textHamilton = document.getElementById('hamiltonText');
-    [...document.querySelectorAll('#score-hamilton input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcHamilton() ) })
-    const calcHamilton = () => {
-      let score = 0
-      const checkedElems = document.querySelectorAll('#score-hamilton input[type=\"radio\"]:checked')
-      if (checkedElems.length === 17) {
-        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
-        scoreHamilton.innerHTML = score
-        if (score <= 9) { textHamilton.innerHTML = "Pas de syndrome dépressif" }
-        else if (score >= 10 && score <= 13) { textHamilton.innerHTML = "Symptômes dépressifs légers" }
-        else if (score >= 14 && score <= 17) { textHamilton.innerHTML = "Symptômes dépressifs légers à modérés" }
-        else if (score >= 18) { textHamilton.innerHTML = "Symptômes dépressifs modérés à sévères" }
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoreHamilton = document.getElementById('hamiltonScore');
+  const textHamilton = document.getElementById('hamiltonText');
+  const container = document.getElementById('score-hamilton');
+
+  const TOTAL_QUESTIONS = 17;
+
+  const calcHamilton = () => {
+    const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (checkedElems.length === TOTAL_QUESTIONS) {
+      let score = 0;
+      checkedElems.forEach(checkedElem => score += parseInt(checkedElem.value, 10) || 0);
+
+      scoreHamilton.textContent = score;
+
+      if (score <= 9) {
+        textHamilton.textContent = 'Pas de syndrome dépressif';
+      } else if (score <= 13) {
+        textHamilton.textContent = 'Symptômes dépressifs légers';
+      } else if (score <= 17) {
+        textHamilton.textContent = 'Symptômes dépressifs légers à modérés';
+      } else {
+        textHamilton.textContent = 'Symptômes dépressifs modérés à sévères';
       }
     }
-  })` }}
+  };
+
+  container.addEventListener('change', calcHamilton);
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

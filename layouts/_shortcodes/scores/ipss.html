@@ -1,6 +1,6 @@
 <div class="mt-4" id="score-ipss">
-  <p>Le questionnaire <dfn><abbr title="International Prostate Score Symptom" lang="en">IPSS</abbr></dfn> (<span lang="en">International Prostate Score Symptom</span>)
-    pour l’évaluation d’un adulte présentant une hypertrophie bénigne de la prostate.</p>
+  <p>Le questionnaire <dfn><abbr title="International Prostate Score Symptom" lang="en">IPSS</abbr></dfn> (<span lang="en">International Prostate Score Symptom</span>) est un test de référence,
+    validé pour l’évaluation d’un adulte présentant une hypertrophie bénigne de la prostate.</p>
   <p>Au cours du dernier mois:</p>
   <fieldset>
     <legend>1. Avec quelle fréquence avez-vous eu la sensation que votre vessie n’était pas complètement vidée après avoir uriné ?</legend>
@@ -142,20 +142,32 @@
 </blockquote>
 {{ $script := `
   // Score IPSS by djibe
-  window.addEventListener( 'load', event => {
-    const scoreIpss = document.getElementById('ipssScore')
-    const textIpss = document.getElementById('ipssText');
-    [...document.querySelectorAll('#score-ipss input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcIpss() ) })
-    const calcIpss = () => {
-      let score = 0
-      const checkedElems = document.querySelectorAll('#score-ipss input[type=\"radio\"]:checked')
-      if (checkedElems.length === 7) {
-        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
-        scoreIpss.innerHTML = score
-        if (score <= 7) { textIpss.innerHTML = "Symptômes légers" }
-        else if (score >= 8 && score <= 19) { textIpss.innerHTML = "Symptômes modérés" }
-        else if (score >= 20) { textIpss.innerHTML = "Symptômes sévères" }
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoreIpss = document.getElementById('ipssScore');
+  const textIpss = document.getElementById('ipssText');
+  const container = document.getElementById('score-ipss');
+
+  const TOTAL_QUESTIONS = 7;
+
+  const calcIpss = () => {
+    const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (checkedElems.length === TOTAL_QUESTIONS) {
+      let score = 0;
+      checkedElems.forEach(checkedElem => score += parseInt(checkedElem.value, 10) || 0);
+
+      scoreIpss.textContent = score;
+
+      if (score <= 7) {
+        textIpss.textContent = 'Symptômes légers';
+      } else if (score <= 19) {
+        textIpss.textContent = 'Symptômes modérés';
+      } else {
+        textIpss.textContent = 'Symptômes sévères';
       }
     }
-  })` }}
+  };
+
+  container.addEventListener('change', calcIpss);
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

@@ -165,8 +165,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const textAudit = document.getElementById('auditText');
   const container = document.getElementById('score-audit');
 
-  if (!scoreAudit || !textAudit || !container) return;
-
   const calcAudit = () => {
     const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
     const sexe = document.querySelector('input[name="audit-sexe"]:checked');
@@ -178,9 +176,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     let score = 0;
-    elemsChecked.forEach(elem => {
-      score += parseInt(elem.value, 10) || 0;
-    });
+    elemsChecked.forEach(elem => score += parseInt(elem.value, 10) || 0);
 
     scoreAudit.textContent = score;
 

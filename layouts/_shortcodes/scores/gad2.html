@@ -1,5 +1,5 @@
 <div id="score-gad2">
-  <p>Le score <dfn><abbr title="Generalized Anxiety Disorder 2-item" lang="en">GAD-2</abbr></dfn> (<span lang="en">Generalized Anxiety Disorder-2</span>) pour l’évaluation d’un adulte présentant des symptômes anxieux.</p>
+  <p>Le score <dfn><abbr title="Generalized Anxiety Disorder 2-item" lang="en">GAD-2</abbr></dfn> (<span lang="en">Generalized Anxiety Disorder-2</span>) est un score validé de référence pour le repérage des symptômes anxieux chez l’adulte.</p>
   <p>Pas de différence significative avec le GAD-7 en soins primaires.</p>
   <p>Au cours des 2 dernières semaines, à quelle fréquence avez-vous été gêné(e) par les problèmes suivants ?</p>
   <fieldset>
@@ -27,7 +27,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score GAD-2</p>
-      <output class="score-output" id="gad2Score">0</output>
+      <output class="score-output" id="gad2Score">-</output>
     </div>
     <p id="gad2Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -38,19 +38,28 @@
 </blockquote>
 {{ $script := `
   // Score GAD-2 by djibe
-  window.addEventListener( 'load', event => {
-    const scoregad2 = document.getElementById('gad2Score')
-    const textgad2 = document.getElementById('gad2Text');
-    [...document.querySelectorAll('#score-gad2 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcgad2() ) })
-    const calcgad2 = () => {
-      let score = 0
-      const checkedElems = document.querySelectorAll('#score-gad2 input[type=\"radio\"]:checked')
-      if (checkedElems.length === 2) {
-        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
-        scoregad2.innerHTML = score
-        if (score <= 2) { textgad2.innerHTML = "Absence de TAG" }
-        else if (score >= 3) { textgad2.innerHTML = "Trouble anxieux généralisé très probable" }
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoregad2 = document.getElementById('gad2Score');
+  const textgad2 = document.getElementById('gad2Text');
+  const container = document.getElementById('score-gad2');
+
+  const calcgad2 = () => {
+    const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (checkedElems.length === 2) {
+      let score = 0;
+      checkedElems.forEach(checkedElem => score += parseInt(checkedElem.value, 10) || 0 );
+
+      scoregad2.textContent = score;
+
+      if (score <= 2) {
+        textgad2.textContent = 'Absence de TAG';
+      } else {
+        textgad2.textContent = 'Trouble anxieux généralisé très probable';
       }
     }
-  })` }}
+  };
+
+  container.addEventListener('change', calcgad2);
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

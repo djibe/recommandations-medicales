@@ -1,7 +1,7 @@
 <div class="my-4" id="score-deta">
   <h3 class="card-title">Questionnaire DETA pour le repérage d’un problème de consommation d’alcool</h3>
-  <p>Le questionnaire <dfn><abbr title="Diminuer, Entourage, Trop, Alcool">DETA</abbr></dfn> est un test validé pour le repérage d’un mésusage de l’alcool.
-    Il s’agit d’une adaptation du questionnaire <abbr lang="en" title="Cutting down, Annoyance by criticism, Guilty feeling, Eye-openers">CAGE</abbr>.</p>
+  <p>Le questionnaire <dfn><abbr title="Diminuer, Entourage, Trop, Alcool">DETA</abbr></dfn> est un test de référence, validé pour le repérage d’un mésusage de l’alcool.
+    Il s’agit d’une adaptation du questionnaire de référence anglo-saxon <abbr lang="en" title="Cutting down, Annoyance by criticism, Guilty feeling, Eye-openers">CAGE</abbr>.</p>
   <fieldset class="mt-4">
     <legend>1. Avez-vous déjà ressenti le besoin de diminuer votre consommation de boissons alcoolisées ?</legend>
     <input type="radio" id="deta-11" name="radio-deta-1" class="d-input-none" value="1" required>
@@ -49,8 +49,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const scoreDeta = document.getElementById('detaScore');
   const textDeta = document.getElementById('detaText');
   const container = document.getElementById('score-deta');
-
-  if (!scoreDeta || !textDeta || !container) return;
 
   const calcDeta = () => {
     const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');

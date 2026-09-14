@@ -1,5 +1,5 @@
 <div id="score-hhies">
-  <p>Questionnaire <dfn><abbr title="Hearing handicap inventory for the elderly - screening">HHIE-S</abbr></dfn> (Hearing handicap inventory for the elderly - screening) pour le repérage de la presbyacousie
+  <p>Le questionnaire <dfn><abbr title="Hearing handicap inventory for the elderly - screening">HHIE-S</abbr></dfn> (Hearing handicap inventory for the elderly - screening) est un test de référence, validé pour le repérage de la presbyacousie
     à partir de 60 ans.</p>
   <fieldset>
     <legend>1. Vous sentez-vous mal à l’aise à cause d’un problème d’audition lorsque vous rencontrez de nouvelles personnes ?</legend>
@@ -111,22 +111,32 @@
 </blockquote>
 {{ $script := `
   // Score HHIE-S by djibe
-  window.addEventListener( 'load', event => {
-    const scorehhies = document.getElementById('hhiesScore')
-    const texthhies = document.getElementById('hhiesText');
-    [...document.querySelectorAll('#score-hhies input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calchhies() ) })
-    const calchhies = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('#score-hhies input[type=\"radio\"]:checked')
-      elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-        if (elemsChecked.length === 10) {
-          scorehhies.innerHTML = score
-          if (score <= 8) { texthhies.innerHTML = 'Pas de déficience auditive' }
-          else if (score >= 10 && score <= 16) { texthhies.innerHTML = 'Proposer un bilan auditif<br>Risque de déficience: 74,5 %<br>61 % de risque qu’il soit appareillable' }
-          else if (score >= 18) { texthhies.innerHTML = 'Proposer une consultation ORL sans délai<br>Risque de déficience: 94 %<br>88 % de risque qu’il soit appareillable' }
-        }
-      })
+  window.addEventListener('DOMContentLoaded', () => {
+  const scorehhies = document.getElementById('hhiesScore');
+  const texthhies = document.getElementById('hhiesText');
+  const container = document.getElementById('score-hhies');
+
+  const TOTAL_QUESTIONS = 10;
+
+  const calchhies = () => {
+    const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (elemsChecked.length === TOTAL_QUESTIONS) {
+      let score = 0;
+      elemsChecked.forEach(elemChecked => score += parseInt(elemChecked.value, 10) || 0);
+
+      scorehhies.textContent = score;
+
+      if (score <= 8) {
+        texthhies.textContent = 'Pas de déficience auditive';
+      } else if (score <= 16) {
+        texthhies.innerHTML = 'Proposer un bilan auditif<br>Risque de déficience: 74,5 %<br>61 % de risque qu’il soit appareillable';
+      } else {
+        texthhies.innerHTML = 'Proposer une consultation ORL sans délai<br>Risque de déficience: 94 %<br>88 % de risque qu’il soit appareillable';
+      }
     }
-  })` }}
+  };
+
+  container.addEventListener('change', calchhies);
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

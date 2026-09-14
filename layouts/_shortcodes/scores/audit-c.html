@@ -68,8 +68,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const textAuditc = document.getElementById('auditcText');
   const container = document.getElementById('score-auditc');
 
-  if (!scoreAuditc || !textAuditc || !container) return;
-
   const calcAuditc = () => {
     const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
     const sexe = document.querySelector('input[name="auditc-sexe"]:checked');
@@ -81,9 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     let score = 0;
-    elemsChecked.forEach(elem => {
-      score += parseInt(elem.value, 10) || 0;
-    });
+    elemsChecked.forEach(elem => score += parseInt(elem.value, 10) || 0);
 
     scoreAuditc.textContent = score;
 

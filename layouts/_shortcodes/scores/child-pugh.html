@@ -65,8 +65,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const textChild = document.getElementById('childText');
   const container = document.getElementById('score-child');
 
-  if (!scoreChild || !textChild || !container) return;
-
   const calcChild = () => {
     const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
 

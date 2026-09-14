@@ -115,8 +115,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const textBeck = document.getElementById('beckText');
   const container = document.getElementById('score-beck');
 
-  if (!scoreBeck || !textBeck || !container) return;
-
   const beckExplain = score => {
     if (score <= 7) return 'absence (' + score + ' pts)';
     if (score <= 10) return 'doute (' + score + ' pts)';

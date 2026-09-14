@@ -45,8 +45,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const gfrEl = document.getElementById('input-gfr');
   const container = document.getElementById('form-gfr');
 
-  if (!ageEl || !creatinineEl || !gfrEl || !container) return;
-
   const calcGFR = () => {
     const unitEl = container.querySelector('input[name="gfr-unit"]:checked');
     const sexEl = container.querySelector('input[name="gfr-sex"]:checked');

@@ -1,6 +1,6 @@
 <div class="mt-4" id="score-fager6">
   <h3 class="card-title">Test de Fagerström</h3>
-  <p>Test de Fagerström en 6 questions pour l’évaluation de la dépendance d’un adulte consommant du tabac.</p>
+  <p>Le test de Fagerström (version originale à 6 questions) est un test validé de référence pour l’évaluation de la dépendance d’un adulte consommant du tabac.</p>
   <fieldset class="mt-4">
     <legend>1. Le matin, combien de temps après être réveillé(e) fumez-vous votre première cigarette ?</legend>
     <input type="radio" id="fager6-11" name="radio-fager6-1" class="d-input-none" value="3" required>
@@ -68,8 +68,6 @@
     const container = document.getElementById('score-fager6');
     const scoreElement = document.getElementById('fager6Score');
     const textElement = document.getElementById('fager6Text');
-
-    if (!container || !scoreElement || !textElement) return;
 
     const calcFager6 = () => {
         const checkedElems = container.querySelectorAll('input[type="radio"]:checked');

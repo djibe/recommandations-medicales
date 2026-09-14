@@ -98,8 +98,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const scoreCesarRf = document.getElementById('cesarScore');
   const container = document.getElementById('score-cesarienne-fdr');
 
-  if (!textCesarRf || !scoreCesarRf || !container) return;
-
   const calcCesarFdr = () => {
     const elemsChecked = container.querySelectorAll('input[type="checkbox"]:checked');
 

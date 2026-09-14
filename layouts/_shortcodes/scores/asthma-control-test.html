@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const scoreAct = document.getElementById('actScore');
   const textAct = document.getElementById('actText');
   const container = document.getElementById('score-act');
-  if (!scoreAct || !textAct || !container) return;
+
   const calcAct = () => {
     const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
 
@@ -96,9 +96,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     let score = 0;
-    elemsChecked.forEach(elem => {
-      score += parseInt(elem.value, 10) || 0;
-    });
+    elemsChecked.forEach( elem => score += parseInt(elem.value, 10) || 0 );
 
     scoreAct.textContent = score;
 

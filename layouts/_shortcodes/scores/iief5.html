@@ -1,6 +1,6 @@
 <div id="score-iief5">
   <p>Le questionnaire <dfn><abbr title="Simplified International Index of Erectile Function" lang="en">IIEF-5</abbr></dfn> (<span lang="en">Simplified International Index of Erectile Function</span>)
-    pour l’évaluation d’un adulte présentant une dysfonction érectile.<br>
+    est un test de référence, validé pour l’évaluation d’un homme adulte présentant une dysfonction érectile.<br>
   Le questionnaire peut être utilisé pour une auto-évaluation.</p>
   <p>Ce questionnaire <abbr>IIEF-5</abbr> permet d’évaluer votre fonction sexuelle au cours des six derniers mois.</p>
   <hr>
@@ -93,22 +93,36 @@
 </blockquote>
 {{ $script := `
   // Score IIEF-5 by djibe
-  window.addEventListener( 'load', event => {
-    const scoreiief5 = document.getElementById('iief5Score')
-    const textiief5 = document.getElementById('iief5Text');
-    [...document.querySelectorAll('#score-iief5 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcIief5() ) })
-    const calcIief5 = () => {
-      let score = 0
-      const checkedElems = document.querySelectorAll('#score-iief5 input[type=\"radio\"]:checked')
-      if (checkedElems.length === 5) {
-        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
-        scoreiief5.innerHTML = score
-        if (score <= 4) { textiief5.innerHTML = "Non interprétable" }
-        else if (score >= 5 && score <= 10) { textiief5.innerHTML = "Trouble de l'érection sévère" }
-        else if (score >= 11 && score <= 15) { textiief5.innerHTML = "Trouble de l'érection modéré" }
-        else if (score >= 16 && score <= 20) { textiief5.innerHTML = "Trouble de l'érection léger" }
-        else if (score >= 21) { textiief5.innerHTML = "Fonction érectile normale" }
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoreiief5 = document.getElementById('iief5Score');
+  const textiief5 = document.getElementById('iief5Text');
+  const container = document.getElementById('score-iief5');
+
+  const TOTAL_QUESTIONS = 5;
+
+  const calcIief5 = () => {
+    const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (checkedElems.length === TOTAL_QUESTIONS) {
+      let score = 0;
+      checkedElems.forEach(checkedElem => score += parseInt(checkedElem.value, 10) || 0);
+
+      scoreiief5.textContent = score;
+
+      if (score <= 4) {
+        textiief5.textContent = 'Non interprétable';
+      } else if (score <= 10) {
+        textiief5.textContent = "Trouble de l'érection sévère";
+      } else if (score <= 15) {
+        textiief5.textContent = "Trouble de l'érection modéré";
+      } else if (score <= 20) {
+        textiief5.textContent = "Trouble de l'érection léger";
+      } else {
+        textiief5.textContent = 'Fonction érectile normale';
       }
     }
-  })` }}
+  };
+
+  container.addEventListener('change', calcIief5);
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

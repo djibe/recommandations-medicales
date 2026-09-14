@@ -99,17 +99,13 @@
   const scoreElement = document.getElementById('g8Score');
   const textElement = document.getElementById('g8Text');
 
-  if (!container || !scoreElement || !textElement) return;
-
   const calcG8 = () => {
     const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
 
     if (checkedElems.length !== 8) return;
 
     let score = 0;
-    checkedElems.forEach(radio => {
-      score += parseInt(radio.value, 10);
-    });
+    checkedElems.forEach(radio => score += parseInt(radio.value, 10));
 
     scoreElement.textContent = score;
 

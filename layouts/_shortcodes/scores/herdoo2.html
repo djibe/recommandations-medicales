@@ -1,3 +1,4 @@
+<p>Le score HERDOO2 est un test validé pour évaluer la nécessité de poursuivre ou non un traitement anticoagulant oral chez une femme traitée pour une première maladie thromboembolique veineuse (MTEV) idiopathique.</p>
 <p class="mt-4"><strong>NB.</strong> Un homme a d’emblée un risque non faible de récidive et n’est pas concerné<span class="text-muted">(7-8 % de risque annuel)</span>.</p>
 <div class="pt-3">
   <div class="form-group" id="score-herdoo2">
@@ -35,26 +36,26 @@
 </div>
 {{ $script := `
   // Score HERDOO2 by djibe
-  window.addEventListener( 'load', event => {
-    const scoreHerdoo2 = document.getElementById('herdoo2Score')
-    const textHerdoo2 = document.getElementById('herdoo2Text');
-    [...document.querySelectorAll('#score-herdoo2 input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => calcHerdoo2() ) })
-    const calcHerdoo2 = () => {
-      let score = 0
-      const herdoo2ElemsChecked = document.querySelectorAll('#score-herdoo2 input[type=\"checkbox\"]:checked')
-      herdoo2ElemsChecked.forEach(herdoo2ElemChecked => {
-        score += parseInt(herdoo2ElemChecked.value, 10)
-        scoreHerdoo2.innerHTML = score
-        if (score <= 1) {
-          textHerdoo2.innerHTML = 'Risque de récidive <strong>faible</strong>'
-        } else if (score >= 2) {
-          textHerdoo2.innerHTML = 'Risque de récidive <strong>non faible</strong>'
-        }
-      })
-      if (herdoo2ElemsChecked.length === 0) {
-        scoreHerdoo2.innerHTML = 0
-        textHerdoo2.innerHTML = 'Risque de récidive <strong>faible</strong>'
-      }
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoreHerdoo2 = document.getElementById('herdoo2Score');
+  const textHerdoo2 = document.getElementById('herdoo2Text');
+  const container = document.getElementById('score-herdoo2');
+
+  const calcHerdoo2 = () => {
+    let score = 0;
+    const herdoo2ElemsChecked = container.querySelectorAll('input[type="checkbox"]:checked');
+
+    herdoo2ElemsChecked.forEach(herdoo2ElemChecked => score += parseInt(herdoo2ElemChecked.value, 10) || 0);
+
+    scoreHerdoo2.textContent = score;
+
+    if (score <= 1) {
+      textHerdoo2.innerHTML = 'Risque de récidive <strong>faible</strong>';
+    } else {
+      textHerdoo2.innerHTML = 'Risque de récidive <strong>non faible</strong>';
     }
-  })` }}
+  };
+
+  container.addEventListener('change', calcHerdoo2);
+});` }}
 <script type="module">{{ $script | safeJS }}</script>
