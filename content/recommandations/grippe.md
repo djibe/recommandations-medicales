@@ -2,12 +2,12 @@
 id = "0190e8c3-a9c6-73e6-b231-522bbe45827c"
 title = "Grippe saisonnière"
 prefix = "la "
-description = "Recommandations pour la prise en charge de la grippe. Indications à la vaccination et aux antiviraux, personne à risque de forme grave, grippe pendant grossesse"
+description = "Recommandations pour le diagnostic et la prise en charge de la grippe. Indications à la vaccination et aux antiviraux, personne à risque de forme grave"
 synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2026-05-03"
+lastmod = "2026-09-14"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2026"
 sources = ["MinSanté", "HAS"]
@@ -147,36 +147,35 @@ Signes et symptômes de la grippe:
 **Aucun examen complémentaire** devant un tableau de grippe saisonnière non compliquée.
 
 {{% /collapse %}}
-{{%collapse "Vaccins disponibles pour la campagne de vaccination 2023-2024" %}}
+{{%collapse "Vaccins disponibles pour la campagne de vaccination 2026-2027" %}}
 
 Vaccination annuelle en octobre pour les personnes à risque de grippe grave (Bon de prise en charge à 100 % Cerfa n°610e sur *Ameli pro*).
 {.alert .alert-info}
 
 Vaccins contre la grippe disponibles en France pour la campagne vaccinale pour les adultes et les enfants:
 
-- Efluelda (à partir de et préféré chez le +65 ans)
+- Efluelda (à partir de et préféré chez le **+65 ans**)
 - Fluad (à partir de et préféré chez le +65 ans)
-- FlucelvaxTetra® (à partir de 6 mois)
-- Influvac Trivalent® (à partir de 6 mois)
-- Vaxigrip Trivalent® (à partir de 6 mois)
-- Chez les +65 ans, privilégier Efluelda et Fluad
+- Flucelvax (à partir de 6 mois)
+- Influvac (à partir de 6 mois)
+- Vaxigrip (à partir de 6 mois)
 
 Le vaccin nasal Fluenz Tetra® n'est pas disponible en France.
 
-La campagne de vaccination 2025-2026 s'étala du ==14 octobre 2025== (*DGS Urgent 2025-24*) au 28 février 2026.
+Les dates de la campagne de vaccination 2026-2027 ne sont pas encore connues. Elle s'étale chaque année de la mi octobre à février.
 
 Pas de délai à respecter entre les vaccins anti-grippaux et anti Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
 
-La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance. En dehors des sujets à risque de forme grave, la vaccination est disponible sans ordonnance mais n'est pas remboursée.
+La vaccination peut être réalisée par un pharmacien ou un infirmier sans ordonnance (le vaccin en nécessite une).
 
 ### Pour en savoir plus: Bénéfices de la vaccination antigrippale
 
 > [!WARNING]
-> Le vaccin anti-grippal ne donne pas de syndrome grippal (ce n'est pas un vaccin vivant).
+> Le vaccin anti-grippal ne donne pas de syndrome grippal (ce n'est pas un vaccin vivant) et [Idées reçues sur le vaccin grippe (PDF)](https://www.bretagne.ars.sante.fr/media/131774/download?inline).
 
 Chez l'adulte sain, la vaccination antigrippale réduit de 29 % (65 % chez +60 ans) le nombre de cas de syndromes grippaux et de 65 % le nombre de cas de grippes.
 
-Chez le sujet vivant en établissement, la vaccination réduit la survenue de pathologie respiratoire (56%), [pneumonie]({{% relref "pneumonie-aigue-communautaire.md" %}}) (53%), hospitalisation (50%) et décès (68%).
+Chez le sujet vivant en établissement, la vaccination réduit la survenue de pathologie respiratoire (56%), [pneumonie]({{% relref "pneumonie-aigue-communautaire.md" %}}) (53 %), hospitalisation (50 %) et décès (68 %).
 
 {{% /collapse %}}
 {{%collapse "Traitement de la grippe" %}}
