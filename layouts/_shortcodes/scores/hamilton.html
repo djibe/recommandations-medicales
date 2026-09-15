@@ -340,13 +340,16 @@
       <label for="hamilton-173" class="custom-control-label">Nie qu’il est malade</label>
     </div>
   </fieldset>
-  <div class="alert bg-light d-flex mt-md-4">
-    <div class="d-flex flex-column align-items-center justify-content-evenly">
-      <p class="typography-overline score-output-title">Score Hamilton</p>
-      <output class="score-output" id="hamiltonScore">-</output>
-    </div>
-    <p id="hamiltonText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+  <div class="alert bg-light d-flex flex-column flex-md-row align-items-center justify-content-between mt-md-4">
+  <div class="d-flex flex-column align-items-center justify-content-evenly me-md-3">
+    <p class="typography-overline score-output-title mb-0">Score Hamilton</p>
+    <output class="score-output" id="hamiltonScore">-</output>
   </div>
+  <p id="hamiltonText" class="lead m-auto text-center text-md-start">Veuillez répondre à toutes les questions</p>
+  <button type="button" id="copyHamiltonBtn" class="btn btn-outline-primary m-3" disabled>
+    Copier le bilan
+  </button>
+</div>
 </div>
 <blockquote class="blockquote my-4">
   <p class="mb-0"><a href="https://pubmed.ncbi.nlm.nih.gov/14399272/" rel="external nofollow noopener">
@@ -354,16 +357,17 @@
   </a></p>
 </blockquote>
 {{ $script := `
-  // Score Hamilton FR by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+  //  Score Hamilton by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scoreHamilton = document.getElementById('hamiltonScore');
   const textHamilton = document.getElementById('hamiltonText');
   const container = document.getElementById('score-hamilton');
+  const copyBtn = document.getElementById('copyHamiltonBtn');
 
   const TOTAL_QUESTIONS = 17;
 
   const calcHamilton = () => {
-    const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
+    const checkedElems = container.querySelectorAll('input[type=\"radio\"]:checked');
 
     if (checkedElems.length === TOTAL_QUESTIONS) {
       let score = 0;
@@ -380,9 +384,46 @@
       } else {
         textHamilton.textContent = 'Symptômes dépressifs modérés à sévères';
       }
+
+      if (copyBtn) copyBtn.disabled = false;
+    } else {
+      if (copyBtn) copyBtn.disabled = true;
+    }
+  };
+
+  const copyResults = async () => {
+    const checkedElems = container.querySelectorAll('input[type=\"radio\"]:checked');
+    if (checkedElems.length !== TOTAL_QUESTIONS) return;
+
+    let details = [];
+    checkedElems.forEach(input => {
+      const fieldset = input.closest('fieldset');
+      const questionTitle = fieldset ? fieldset.querySelector('legend').textContent.trim() : '';
+      details.push(questionTitle + ' : ' + input.value);
+    });
+
+    const report = [
+      'Score de dépression d’Hamilton (HDRS-17) : ' + scoreHamilton.textContent + '/52',
+      'Interprétation : ' + textHamilton.textContent,
+      '---',
+      ...details
+    ].join('\n');
+
+    try {
+      await navigator.clipboard.writeText(report);
+      const originalText = copyBtn.textContent;
+      copyBtn.textContent = 'Copié !';
+      copyBtn.classList.replace('btn-outline-primary', 'btn-success');
+      setTimeout(() => {
+        copyBtn.textContent = originalText;
+        copyBtn.classList.replace('btn-success', 'btn-outline-primary');
+      }, 2000);
+    } catch (err) {
+      console.error('Erreur lors de la copie :', err);
     }
   };
 
   container.addEventListener('change', calcHamilton);
-});` }}
+  if (copyBtn) copyBtn.addEventListener('click', copyResults);
+})` }}
 <script type="module">{{ $script | safeJS }}</script>
