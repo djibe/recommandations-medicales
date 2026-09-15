@@ -1,8 +1,8 @@
 <!-- TODO: invert order -->
 <div class="mt-4" id="score-DLQI">
   <h3 class="card-title">Score DLQI - Dermatology Life Quality Index</h3>
-  <p class="card-subtitle">Le score <abbr title="Dermatology Life Quality Index" lang="en">DLQI</abbr> (<span lang="en">Dermatology Life Quality Index</span>) est un test de référence,
-    validé pour évaluer le retentissement d’une dermatose sur la <strong>qualité de vie</strong></p>
+  <p class="card-subtitle">Le score <abbr title="Dermatology Life Quality Index" lang="en">DLQI</abbr> (<span lang="en">Dermatology Life Quality Index</span>) est un questionnaire de référence,
+    validé pour évaluer le <strong>retentissement d’une dermatose sur la qualité de vie</strong></p>
   <p>Au cours des 7 derniers jours:</p>
   <fieldset>
     <legend>1. Votre peau vous a-t-elle démangé(e), fait souffrir ou brûlé(e) ?</legend>
@@ -133,28 +133,40 @@
 </blockquote>
 {{ $script := `
   // Score DLQI by MF
-  window.addEventListener( 'load', event => {
-    const scoreDLQI = document.getElementById('DLQIScore')
-    const textDLQI = document.getElementById('DLQIText');
-    [...document.querySelectorAll('#score-DLQI input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { calcDLQI() }) })
-    const calcDLQI = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('#score-DLQI input[type=\"radio\"]:checked')
-      elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-        if (elemsChecked.length === 11) {
-          scoreDLQI.innerHTML = score
-          if (score <= 1) {
-            textDLQI.innerHTML = "Absence d’impact sur la vie quotidienne"
-          } else if (score >= 2 && score <= 10) {
-            textDLQI.innerHTML = 'Effet faible à modéré sur la vie du patient'
-          } else if (score >= 11) {
-            textDLQI.innerHTML = 'Effet important ou extrêmement important'
-          }
-        } else {
-          textDLQI.innerHTML = 'Veuillez répondre à toutes les questions'
-        }
-      })
+  document.addEventListener('DOMContentLoaded', () => {
+  const scoreDLQI = document.getElementById('DLQIScore');
+  const textDLQI = document.getElementById('DLQIText');
+  const container = document.getElementById('score-DLQI');
+
+  const calcDLQI = () => {
+    const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (elemsChecked.length < 11) {
+      if (scoreDLQI) scoreDLQI.textContent = '0';
+      if (textDLQI) textDLQI.textContent = 'Veuillez répondre à toutes les questions.';
+      return;
     }
-  })` }}
+
+    let score = 0;
+    elemsChecked.forEach(elemChecked => score += parseInt(elemChecked.value, 10) || 0);
+
+    if (scoreDLQI) scoreDLQI.textContent = score;
+
+    if (score <= 1) {
+      textDLQI.textContent = 'Absence d’impact sur la vie quotidienne';
+    } else if (score <= 10) {
+      textDLQI.textContent = 'Effet faible à modéré sur la vie du patient';
+    } else {
+      textDLQI.textContent = 'Effet important ou extrêmement important';
+    }
+  };
+
+  if (container) {
+    container.addEventListener('change', event => {
+      if (event.target.matches('input[type="radio"]')) {
+        calcDLQI();
+      }
+    });
+  }
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

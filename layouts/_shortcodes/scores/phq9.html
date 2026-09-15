@@ -1,7 +1,7 @@
 <div id="score-phq9">
-  <p>L’auto-questionnaire <dfn><abbr title="9-Item Patient Health Questionnaire for Depression" lang="en">PHQ-9</abbr></dfn> (<span lang="en">9-Item Patient Health Questionnaire</span>) est validé
-    pour l’évaluation d’un adulte présentant des symptômes dépressifs.</p>
-  <p>Ce questionnaire peut: aider à identifier une dépression (dont post-partum), évaluer la sévérité de l’EDC (épisode dépressif caractérisé) et réadapter le traitement.</p>
+  <p>L’auto-questionnaire <dfn><abbr title="9-Item Patient Health Questionnaire for Depression" lang="en">PHQ-9</abbr></dfn> (<span lang="en">9-Item Patient Health Questionnaire</span>)
+    est un score validé pour l’évaluation des <strong>symptômes dépressifs</strong> chez l’adulte.</p>
+  <p>Ce questionnaire peut: aider à identifier une dépression (dont post-partum), évaluer la sévérité de l’ <dfn><abbr title="épisode dépressif caractérisé">EDC</abbr></dfn> (épisode dépressif caractérisé) et réadapter le traitement.</p>
   <p>Au cours des 2 dernières semaines, selon quelle fréquence avez-vous été gêné(e) par les problèmes suivants ?</p>
   <fieldset>
     <legend>1. Peu d’intérêt ou de plaisir à faire les choses</legend>
@@ -116,7 +116,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score PHQ-9</p>
-      <output class="score-output" id="phq9Score">0</output>
+      <output class="score-output" id="phq9Score">-</output>
     </div>
     <p id="phq9Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -127,22 +127,42 @@
 </blockquote>
 {{ $script := `
   // Questionnaire PHQ-9 by djibe
-  window.addEventListener( 'load', event => {
-    const scorephq9 = document.getElementById('phq9Score')
-    const textphq9 = document.getElementById('phq9Text');
-    [...document.querySelectorAll('#score-phq9 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcPhq9() ) })
-    const calcPhq9 = () => {
-      let score = 0
-      const checkedElems = document.querySelectorAll('#score-phq9 input[type=\"radio\"]:checked')
-      if (checkedElems.length === 9) {
-        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
-        scorephq9.innerHTML = score
-        if (score <= 4) { textphq9.innerHTML = "Absence de dépression" }
-        else if (score >= 5 && score <= 9) { textphq9.innerHTML = "Dépression légère" }
-        else if (score >= 10 && score <= 14) { textphq9.innerHTML = "Dépression modérée" }
-        else if (score >= 15 && score <= 19) { textphq9.innerHTML = "Dépression modérément sévère" }
-        else if (score >= 20) { textphq9.innerHTML = "Dépression sévère" }
-      }
+  window.addEventListener('DOMContentLoaded', () => {
+  const scorephq9 = document.getElementById('phq9Score');
+  const textphq9 = document.getElementById('phq9Text');
+  const container = document.getElementById('score-phq9');
+
+  const calcPhq9 = () => {
+    const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
+    if (checkedElems.length !== 9) return;
+
+    let score = 0;
+    checkedElems.forEach(elem => {
+      score += parseInt(elem.value, 10) || 0;
+    });
+
+    scorephq9.textContent = score;
+
+    let text = '';
+    if (score <= 4) {
+      text = 'Absence de dépression';
+    } else if (score <= 9) {
+      text = 'Dépression légère';
+    } else if (score <= 14) {
+      text = 'Dépression modérée';
+    } else if (score <= 19) {
+      text = 'Dépression modérément sévère';
+    } else {
+      text = 'Dépression sévère';
     }
-  })` }}
+
+    textphq9.textContent = text;
+  };
+
+  container.addEventListener('change', event => {
+    if (event.target.matches('input[type="radio"]')) {
+      calcPhq9();
+    }
+  });
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

@@ -1,7 +1,7 @@
 <div class="pt-3">
   <div class="form-group" id="score-ecab">
-    <p class="mb-4">L’échelle <dfn><abbr title="Échelle cognitive d’attachement aux benzodiazépines">ECAB</abbr></dfn> (Échelle cognitive d’attachement aux benzodiazépines) est une grille validée pour
-      l’évaluation de la dépendance aux benzodiazépines.</p>
+    <p class="mb-4">L’échelle <dfn><abbr title="Échelle cognitive d’attachement aux benzodiazépines">ECAB</abbr></dfn> (Échelle cognitive d’attachement aux benzodiazépines) est un score validé pour
+      l’évaluation de la <strong>dépendance aux benzodiazépines</strong>.</p>
     <div class="custom-control custom-checkbox">
       <input type="checkbox" id="ecab-1" class="custom-control-input" value="1">
       <label class="custom-control-label" for="ecab-1">Où que j’aille, j’ai besoin d’avoir ce médicament avec moi</label>
@@ -60,8 +60,6 @@ window.addEventListener('DOMContentLoaded', () => {
   const scoreEcab = document.getElementById('ecabScore');
   const textEcab = document.getElementById('ecabText');
   const checkboxes = document.querySelectorAll('#score-ecab input[type="checkbox"]');
-
-  if (!scoreEcab || !textEcab) return;
 
   function calcEcab() {
     let score = 0;

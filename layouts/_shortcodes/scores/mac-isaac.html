@@ -1,6 +1,6 @@
-<p>Le score de Mac Isaac doit être utilisé à partir de 15 ans.<br>
-  Réaliser le test de diagnostic rapide du streptocoque (TDR) si le score est ≥ 2 <span class="text-muted">(VPN 95%)</span>.
-</p>
+<p>Le score de <strong>Mac Isaac</strong> est un test de référence,
+  validé pour repérer une <strong>angine aiguë streptococcique</strong> à partir de 15 ans.</p>
+<p>Réaliser le test de diagnostic rapide du streptocoque (TDR) si le score est ≥ 2 <span class="text-muted">(VPN 95 %)</span>.</p>
 <div class="alert border rounded-lg mb-4 mb-lg-5" id="score-mcisaac" style="max-width: 768px">
   <div class="row">
     <div class="col-12 col-md-9">
@@ -24,13 +24,25 @@
 </div>
 {{ $script := `
   // Score de Mac Isaac by djibe
-  let score = 0;
-  const Text = document.getElementById('explainMcIsaac');
-  [...document.querySelectorAll('#score-mcisaac input[type=\"checkbox\"]')].forEach(function(checkbox) {
-    checkbox.addEventListener('change', function(e) {
-      e.target.checked ? score += parseInt(e.target.value, 10) : score -= parseInt(e.target.value, 10)
-      document.getElementById('counter').innerHTML = score
-      score >= 2 ? Text.innerHTML = 'Faire un TDR' : Text.innerHTML = 'Origine virale'
-    })
-  })` }}
+  document.addEventListener('DOMContentLoaded', () => {
+  const scoreElement = document.getElementById('counter');
+  const textElement = document.getElementById('explainMcIsaac');
+  const checkboxes = document.querySelectorAll('#score-mcisaac input[type="checkbox"]');
+
+  const updateScore = () => {
+    let score = 0;
+    checkboxes.forEach(checkbox => {
+      if (checkbox.checked) {
+        score += parseInt(checkbox.value, 10) || 0;
+      }
+    });
+
+    scoreElement.textContent = score;
+    textElement.textContent = score >= 2 ? 'Faire un TDR' : 'Origine virale';
+  };
+
+  checkboxes.forEach(checkbox => {
+    checkbox.addEventListener('change', updateScore);
+  });
+})` }}
 <script>{{ $script | safeJS }}</script>

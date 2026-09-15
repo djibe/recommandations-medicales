@@ -1,7 +1,7 @@
 <div class="form-group" id="score-riete">
   <h3 class="card-title text-reset mb-lg-4">Score hémorragique RIETE</h3>
-  <p>Le score hémorragique RIETE (du nom de la cohorte étudiée) est validé pour pour
-    identifier les patients à risque élevé de saignement en cas d’anticoagulation pour
+  <p>Le score hémorragique RIETE (du nom de la cohorte étudiée) est un test validé pour
+    identifier les patients à <strong>risque élevé de saignement</strong> en cas d’anticoagulation pour
     embolie pulmonaire (EP) ou thrombose veineuse profonde (TVP).</p>
     <p>Il n’a pas été étudié avec les anticoagulants oraux directs (AOD).</p>
     <div class="custom-control custom-checkbox">
@@ -60,28 +60,35 @@
 </blockquote>
 {{ $script := `
   // Score RIETE by djibe
-  window.addEventListener( 'load', event => {
-    const scoreRiete = document.getElementById('rieteScore')
-    const textRiete = document.getElementById('rieteText');
-    [...document.querySelectorAll('#score-riete input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => calcRiete() ) })
-    const calcRiete = () => {
-      let score = 0
-      const rieteElemsChecked = document.querySelectorAll('#score-riete input[type=\"checkbox\"]:checked')
-        rieteElemsChecked.forEach(rieteElemChecked => {
-        score += parseInt(rieteElemChecked.value, 10)
-        scoreRiete.innerHTML = score
-        if (score === 0) {
-          textRiete.innerHTML = 'Risque hémorragique <strong>faible</strong>'
-        } else if (score >= 1 && score <= 4) {
-          textRiete.innerHTML = 'Risque hémorragique <strong>intermédiaire</strong>'
-        } else if (score > 4) {
-          textRiete.innerHTML = 'Risque hémorragique <strong>élevé</strong><br>Hospitalisation si TVP/EP'
-        }
-      })
-      if (rieteElemsChecked.length === 0) {
-        scoreRiete.innerHTML = 0
-        textRiete.innerHTML = 'Risque hémorragique <strong>faible</strong>'
-      }
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoreRiete = document.getElementById('rieteScore');
+  const textRiete = document.getElementById('rieteText');
+  const container = document.getElementById('score-riete');
+
+  const calcRiete = () => {
+    const rieteElemsChecked = container.querySelectorAll('input[type="checkbox"]:checked');
+
+    let score = 0;
+    rieteElemsChecked.forEach(rieteElemChecked => score += parseInt(rieteElemChecked.value, 10) || 0);
+
+    scoreRiete.textContent = score;
+
+    let text = '';
+    if (score === 0) {
+      text = 'Risque hémorragique <strong>faible</strong>';
+    } else if (score <= 4) {
+      text = 'Risque hémorragique <strong>intermédiaire</strong>';
+    } else {
+      text = 'Risque hémorragique <strong>élevé</strong><br>Hospitalisation si TVP/EP';
     }
-  })` }}
+
+    textRiete.innerHTML = text;
+  };
+
+  container.addEventListener('change', event => {
+    if (event.target.matches('input[type="checkbox"]')) {
+      calcRiete();
+    }
+  });
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

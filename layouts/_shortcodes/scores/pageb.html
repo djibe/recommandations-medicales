@@ -1,7 +1,8 @@
+<!--TODO: biblio-->
 <div class="my-4" id="score-pageb">
   <h3 class="card-title mb-2">Score PAGE-B</h3>
-  <p>Le score <dfn><abbr title="Plaquettes, âge, genre">PAGE-B</abbr></dfn> (Plaquettes, âge, genre) est validé pour le repérage des personnes à
-    risque de carcinome hépatocellulaire (<dfn><abbr title="carcinome hépatocellulaire">CHC</abbr></dfn>).</p>
+  <p>Le score <dfn><abbr title="Plaquettes, âge, genre">PAGE-B</abbr></dfn> (Plaquettes, âge, genre) est un test validé pour le
+    <strong>repérage des personnes à risque de carcinome hépatocellulaire</strong> (<dfn><abbr title="carcinome hépatocellulaire">CHC</abbr></dfn>).</p>
   <fieldset class="mt-4">
     <legend>1. Âge (années)</legend>
     <input type="radio" id="pageb-11" name="radio-pageb-1" class="d-input-none" value="0" required>
@@ -36,34 +37,45 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">PAGE-B</p>
-      <output class="score-output" id="pagebScore">0</output>
+      <output class="score-output" id="pagebScore">-</output>
     </div>
     <p id="pagebText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
 </div>
-<blockquote>
-  <p>
-    <a href="" rel="external nofollow noopener"></a>
-  </p>
-</blockquote>
 {{ $script := `
   // Score PAGE-B by djibe
-  window.addEventListener( 'load', event => {
-    const scorePageb = document.getElementById('pagebScore')
-    const textPageb = document.getElementById('pagebText');
-    [...document.querySelectorAll('#score-pageb input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcPageb() ) })
-    const calcPageb = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('#score-pageb input[type=\"radio\"]:checked')
-      elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-        if (elemsChecked.length === 3) {
-          scorePageb.innerHTML = score
-          if (score <= 9) { textPageb.innerHTML = "Risque de CHC quasi nul (à 5 ans)" }
-          else if (score >= 10 && score <= 17) { textPageb.innerHTML = "Risque de CHC intermédiaire (3% à 5 ans)" }
-          else if (score >= 18) { textPageb.innerHTML = "Risque de CHC élevé (17% à 5 ans)" }
-        }
-      })
+  window.addEventListener('DOMContentLoaded', () => {
+  const scorePageb = document.getElementById('pagebScore');
+  const textPageb = document.getElementById('pagebText');
+  const container = document.getElementById('score-pageb');
+
+  const calcPageb = () => {
+    const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (elemsChecked.length !== 3) {
+      scorePageb.textContent = '';
+      textPageb.textContent = 'Veuillez répondre à toutes les questions';
+      return;
     }
-  })` }}
+
+    let score = 0;
+    elemsChecked.forEach(elemChecked => score += parseInt(elemChecked.value, 10) || 0);
+
+    scorePageb.textContent = score;
+
+    if (score <= 9) {
+      textPageb.textContent = 'Risque de CHC quasi nul (à 5 ans)';
+    } else if (score <= 17) {
+      textPageb.textContent = 'Risque de CHC intermédiaire (3 % à 5 ans)';
+    } else {
+      textPageb.textContent = 'Risque de CHC élevé (17 % à 5 ans)';
+    }
+  };
+
+  container.addEventListener('change', (event) => {
+    if (event.target.matches('input[type="radio"]')) {
+      calcPageb();
+    }
+  });
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

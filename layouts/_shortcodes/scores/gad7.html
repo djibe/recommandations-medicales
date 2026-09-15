@@ -1,6 +1,6 @@
 <div id="score-gad7">
-  <p>Le score <dfn><abbr title="Generalized Anxiety Disorder 7-item" lang="en">GAD-7</abbr></dfn> (<span lang="en">Generalized Anxiety Disorder-7</span>) est un score validé de référence
-    pour l’évaluation d’un adulte présentant des symptômes anxieux.</p>
+  <p>Le score <dfn><abbr title="Generalized Anxiety Disorder 7-item" lang="en">GAD-7</abbr></dfn> (<span lang="en">Generalized Anxiety Disorder-7</span>) est un questionnaire validé de référence
+    pour l’évaluation d’un adulte présentant des <strong>symptômes anxieux</strong>.</p>
   <p>Au cours des 2 dernières semaines, à quelle fréquence avez-vous été gêné(e) par les problèmes suivants ?</p>
   <fieldset>
     <legend>1. Sentiment de nervosité, d’anxiété ou de tension</legend>
@@ -82,7 +82,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score GAD-7</p>
-      <output class="score-output" id="gad7Score">0</output>
+      <output class="score-output" id="gad7Score">-</output>
     </div>
     <p id="gad7Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -93,21 +93,44 @@
 </blockquote>
 {{ $script := `
   // Score GAD-7 by djibe
-  window.addEventListener( 'load', event => {
-    const scoregad7 = document.getElementById('gad7Score')
-    const textgad7 = document.getElementById('gad7Text');
-    [...document.querySelectorAll('#score-gad7 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcGad7() ) })
-    const calcGad7 = () => {
-      let score = 0
-      const checkedElems = document.querySelectorAll('#score-gad7 input[type=\"radio\"]:checked')
-      if (checkedElems.length === 7) {
-        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
-        scoregad7.innerHTML = score
-        if (score <= 4) { textgad7.innerHTML = "Absence d’anxiété" }
-        else if (score >= 5 && score <= 9) { textgad7.innerHTML = "Anxiété légère<br>Patient éligible à Mon soutien psy" }
-        else if (score >= 10 && score <= 14) { textgad7.innerHTML = "Anxiété modérée<br>Patient éligible à Mon soutien psy" }
-        else if (score >= 15) { textgad7.innerHTML = "Anxiété sévère<br>Suivi psychiatrique" }
-      }
+  document.addEventListener('DOMContentLoaded', () => {
+  const scoregad7 = document.getElementById('gad7Score');
+  const textgad7 = document.getElementById('gad7Text');
+  const container = document.getElementById('score-gad7');
+
+  const calcGad7 = () => {
+    const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (checkedElems.length < 7) {
+      if (scoregad7) scoregad7.textContent = '-';
+      if (textgad7) textgad7.textContent = 'Compléter les 7 questions.';
+      return;
     }
-  })` }}
+
+    let score = 0;
+    checkedElems.forEach(checkedElem => {
+      score += parseInt(checkedElem.value, 10) || 0;
+    });
+
+    if (scoregad7) scoregad7.textContent = score;
+
+    if (score <= 4) {
+      textgad7.innerHTML = 'Absence d’anxiété';
+    } else if (score <= 9) {
+      textgad7.innerHTML = 'Anxiété légère<br>Patient éligible à Mon soutien psy';
+    } else if (score <= 14) {
+      textgad7.innerHTML = 'Anxiété modérée<br>Patient éligible à Mon soutien psy';
+    } else {
+      textgad7.innerHTML = 'Anxiété sévère<br>Suivi psychiatrique';
+    }
+  };
+
+  if (container) {
+    container.addEventListener('change', event => {
+      if (event.target.matches('input[type="radio"]')) {
+        calcGad7();
+      }
+    });
+  }
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

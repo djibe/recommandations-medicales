@@ -1,5 +1,5 @@
 <div class="mt-4" id="score-grio">
-  <h3 class="card-title mb-3">Questionnaire des apports en calcium</h3>
+  <h3 class="card-title mb-3">Questionnaire des apports en calcium (GRIO)</h3>
   <p>Seuls les aliments riches en calcium les plus couramment consommés figurent dans ce questionnaire.
     Ce sont le lait, les fromages, les yaourts et les plats ou desserts à base de fromage ou de lait.</p>
   <p>Essayer de répondre en vous basant sur votre alimentation moyenne.</p>
@@ -107,20 +107,36 @@
 </blockquote>
 {{ $script := `
   // Score CocoNut Ca by djibe
-  window.addEventListener( 'load', event => {
-    const scoregrio = document.getElementById('grioScore')
-    const textgrio = document.getElementById('grioText');
-    [...document.querySelectorAll('#score-grio input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcgrio() ) })
-    const calcgrio = () => {
-      let score = 0
-      const text = "Apports couverts si:<br><br>- 10-18 ans ou ménopause ou homme +65 ans: 15 pts<br>- Grossesse: 12 pts<br>- Autres adultes: 10 pts"
-      const checkedElems = document.querySelectorAll('#score-grio input[type=\"radio\"]:checked')
-      if (checkedElems.length >= 1) {
-        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
-        scoregrio.innerHTML = score
-        if (score < 10) { textgrio.innerHTML = text + " <br><p>Score &lt; 10: risque de carence chez l’adolescente<br>ou la femme ménopausée.</p>" }
-        else { textgrio.innerHTML = text }
-      }
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoregrio = document.getElementById('grioScore');
+  const textgrio = document.getElementById('grioText');
+  const container = document.getElementById('score-grio');
+
+  const baseText = 'Apports couverts si:<br><br>- 10-18 ans ou ménopause ou homme +65 ans: 15 pts<br>- Grossesse: 12 pts<br>- Autres adultes: 10 pts';
+
+  const calcgrio = () => {
+    const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
+    if (checkedElems.length === 0) return;
+
+    let score = 0;
+    checkedElems.forEach(checkedElem => {
+      score += parseInt(checkedElem.value, 10) || 0;
+    });
+
+    scoregrio.textContent = score;
+
+    let extraText = '';
+    if (score < 10) {
+      extraText = ' <br><p>Score &lt; 10: risque de carence chez l’adolescente<br>ou la femme ménopausée.</p>';
     }
-  })` }}
+
+    textgrio.innerHTML = baseText + extraText;
+  };
+
+  container.addEventListener('change', event => {
+    if (event.target.matches('input[type="radio"]')) {
+      calcgrio();
+    }
+  });
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

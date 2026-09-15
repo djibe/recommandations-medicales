@@ -46,26 +46,30 @@
 </div>
 {{ $script := `
   // Score depistage SAOS diabete by djibe
-  window.addEventListener( 'load', event => {
-    const scoreSaosDiabete = document.getElementById('saosDiabeteScore')
-    const textSaosDiabete = document.getElementById('saosDiabeteText');
-    [...document.querySelectorAll('#score-saos-diabete input[type="checkbox"]')].forEach((elem) => { elem.addEventListener('click', () => calcSaosDiabete() ) })
-    const calcSaosDiabete = () => {
-      let score = 0
-      const saosDiabeteElemsChecked = document.querySelectorAll('#score-saos-diabete input[type="checkbox"]:checked')
-        saosDiabeteElemsChecked.forEach(saosDiabeteElemChecked => {
-        score += parseInt(saosDiabeteElemChecked.value, 10)
-        saosDiabeteScore.innerHTML = score
-        if (score >= 3) {
-          saosDiabeteText.innerHTML = 'Enregistrement du sommeil nécessaire'
-        } else if (score < 3) {
-          saosDiabeteText.innerHTML = 'Pas de recherche de SAOS'
-        }
-      })
-      if (saosDiabeteElemsChecked.length === 0) {
-        saosDiabeteScore.innerHTML = 0
-        saosDiabeteText.innerHTML = 'Pas de recherche de SAOS'
-      }
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoreSaosDiabete = document.getElementById('saosDiabeteScore');
+  const textSaosDiabete = document.getElementById('saosDiabeteText');
+  const container = document.getElementById('score-saos-diabete');
+
+  const calcSaosDiabete = () => {
+    const checkedElems = container.querySelectorAll('input[type="checkbox"]:checked');
+
+    let score = 0;
+    checkedElems.forEach(elem => score += parseInt(elem.value, 10) || 0);
+
+    scoreSaosDiabete.textContent = score;
+
+    if (score >= 3) {
+      textSaosDiabete.textContent = 'Enregistrement du sommeil nécessaire';
+    } else {
+      textSaosDiabete.textContent = 'Pas de recherche de SAOS';
     }
-  })` }}
+  };
+
+  container.addEventListener('change', event => {
+    if (event.target.matches('input[type="checkbox"]')) {
+      calcSaosDiabete();
+    }
+  });
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

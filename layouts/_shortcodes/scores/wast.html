@@ -1,6 +1,6 @@
 <div class="my-4">
   <p>Le questionnaire <dfn><abbr lang="en" title="Woman Abuse Screening Tool">WAST</abbr></dfn> (Woman Abuse Screening Tool)
-    est validé pour le repérage des des violences faites aux femmes.<br>
+    est un score validé pour le <strong>repérage des des violences faites aux femmes</strong>.<br>
     Pour un score ≥ 5, la sensibilité et la spécificité sont
     supérieures à 95 %.</p>
   <p class="mb-4">Ces questions portent sur les 12 derniers mois.</p>
@@ -79,7 +79,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score WAST</p>
-      <output class="score-output" id="wastScore">0</output>
+      <output class="score-output" id="wastScore">-</output>
     </div>
     <p id="wastText" class="lead m-auto">Veuillez répondre aux 8 questions.</p>
   </div>
@@ -98,25 +98,29 @@
 </blockquote>
 {{ $script := `
   // Score WAST by djibe
-  window.addEventListener( 'load', event => {
-    const scoreElem = document.getElementById('wastScore')
-    const textElem = document.getElementById('wastText')
-    const radioElems = document.querySelectorAll('input[type="radio"]')
-    radioElems.forEach((radioElem) => { radioElem.addEventListener('change', () => { countWast() }) })
-    const countWast = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('input[type="radio"]:checked')
-      if (elemsChecked.length >= 8) {
-        elemsChecked.forEach(radioChecked => {
-        score += parseInt(radioChecked.value, 10)
-        scoreElem.innerHTML = score
-        if (score >= 5) {
-          textElem.innerHTML = 'Vous êtes potentiellement victime de violences conjugales'
-        } else {
-          textElem.innerHTML = 'Pas de signes de violences repérés'
-        }
-        })
-      }
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoreElem = document.getElementById('wastScore');
+  const textElem = document.getElementById('wastText');
+  const radioInputs = document.querySelectorAll('input[type="radio"]');
+
+  const countWast = () => {
+    const elemsChecked = document.querySelectorAll('input[type="radio"]:checked');
+
+    if (elemsChecked.length < 8) {
+      return;
     }
-  })` }}
+
+    const score = Array.from(elemsChecked).reduce(
+      (sum, elem) => sum + (parseInt(elem.value, 10) || 0),
+      0
+    );
+
+    scoreElem.textContent = score;
+    textElem.textContent = score >= 5
+      ? 'Vous êtes potentiellement victime de violences conjugales'
+      : 'Pas de signes de violences repérés';
+  };
+
+  radioInputs.forEach(input => input.addEventListener('change', countWast));
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

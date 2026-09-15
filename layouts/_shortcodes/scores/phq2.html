@@ -1,8 +1,8 @@
 <div id="score-phq2">
-  <p>L’auto-questionnaire <dfn><abbr title="2-Item Patient Health Questionnaire for Depression" lang="en">PHQ-2</abbr></dfn> (<span lang="en">Patient Health Questionnaire 2</span>) est validé
-    pour le repérage d’un adulte présentant des symptômes dépressifs.</p>
+  <p>L’auto-questionnaire <dfn><abbr title="2-Item Patient Health Questionnaire for Depression" lang="en">PHQ-2</abbr></dfn> (<span lang="en">Patient Health Questionnaire 2</span>) est un score validé
+    pour le <strong>repérage des symptômes dépressifs</strong> chez un adulte.</p>
   <p>En cas de repérage ≥ 2 points, il peut être complété par le <a href="/scores/phq-9/">PHQ-9</a>.</p>
-  <p>Au cours des 2 dernières semaines, selon quelle fréquence avez-vous été gêné(e) par les problèmes suivants ?</p>
+  <p>Au cours des 2 dernières semaines, à quelle fréquence avez-vous été gêné(e) par les problèmes suivants ?</p>
   <fieldset>
     <legend>1. Peu d’intérêt ou de plaisir à faire les choses</legend>
     <input type="radio" id="phq2-11" name="radio-phq2-1" class="d-input-none" value="0" required>
@@ -28,30 +28,41 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score PHQ-2</p>
-      <output class="score-output" id="phq2Score">0</output>
+      <output class="score-output" id="phq2Score">-</output>
     </div>
     <p id="phq2Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
 </div>
 <blockquote class="blockquote my-4">
-  <p class="mb-0"><a href="https://journals.lww.com/lww-medicalcare/abstract/2003/11000/the_patient_health_questionnaire_2__validity_of_a.8.aspx" rel="external nofollow noopener">Kroenke K, Spitzer RL, Williams JB. The Patient Health Questionnaire-2: validity of a two-item depression screener. Med Care. 2003;41(11):1284-1292. doi:10.1097/01.MLR.0000093487.78664.3C</a></p>
+  <p class="mb-0"><a href="https://journals.lww.com/lww-medicalcare/abstract/2003/11000/the_patient_health_questionnaire_2__validity_of_a.8.aspx" rel="external nofollow noopener">
+    Kroenke K, Spitzer RL, Williams JB. The Patient Health Questionnaire-2: validity of a two-item depression screener. Med Care. 2003;41(11):1284-1292. doi:10.1097/01.MLR.0000093487.78664.3C</a></p>
   <p>Un score ≥ 3 a une sensibilité de 83% et spécificité de 92% pour un épisode dépressif majeur.</p>
 </blockquote>
 {{ $script := `
   // Score PHQ-2 by djibe
-  window.addEventListener( 'load', event => {
-    const scorephq2 = document.getElementById('phq2Score')
-    const textphq2 = document.getElementById('phq2Text');
-    [...document.querySelectorAll('#score-phq2 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcphq2() ) })
-    const calcphq2 = () => {
-      let score = 0
-      const checkedElems = document.querySelectorAll('#score-phq2 input[type=\"radio\"]:checked')
-      if (checkedElems.length === 2) {
-        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
-        scorephq2.innerHTML = score
-        if (score < 3) { textphq2.innerHTML = "Absence de dépression" }
-        else if (score >= 3) { textphq2.innerHTML = "Épisode dépressif majeur probable" }
-      }
+  window.addEventListener('DOMContentLoaded', () => {
+  const scorephq2 = document.getElementById('phq2Score');
+  const textphq2 = document.getElementById('phq2Text');
+  const radios = document.querySelectorAll('#score-phq2 input[type="radio"]');
+
+  const calcphq2 = () => {
+    const checkedElems = document.querySelectorAll('#score-phq2 input[type="radio"]:checked');
+
+    if (checkedElems.length === 2) {
+      const score = Array.from(checkedElems).reduce(
+        (acc, elem) => acc + parseInt(elem.value, 10),
+        0
+      );
+
+      scorephq2.textContent = score;
+      textphq2.textContent = score < 3
+        ? "Absence de dépression"
+        : "Épisode dépressif majeur probable";
     }
-  })` }}
+  };
+
+  radios.forEach((elem) => {
+    elem.addEventListener('change', calcphq2);
+  });
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

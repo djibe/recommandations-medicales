@@ -1,7 +1,7 @@
 <div class="my-4" id="score-puqe">
   <h3 class="card-title">Score PUQE modifié (Pregnancy Unique Quantification of Emesis and nausea)</h3>
-  <p>Le score <abbr title="Pregnancy Unique Quantification of Emesis and nausea" lang="en">PUQE</abbr> (Pregnancy Unique Quantification of Emesis and nausea) est validé
-    pour estimer la sévérité des vomissements et nausées gravidiques.</p>
+  <p>Le score <abbr title="Pregnancy Unique Quantification of Emesis and nausea" lang="en">PUQE</abbr> (Pregnancy Unique Quantification of Emesis and nausea) est un questionnaire validé
+    pour estimer la sévérité des <strong>nausées et vomissements</strong> gravidiques.</p>
   <p>Choisir la réponse qui correspond le mieux à votre situation depuis le début de la grossesse.</p>
   <fieldset class="mt-4">
     <legend>1. En moyenne durant une journée, combien de temps vous sentez-vous nauséeuse ou avez-vous "mal au cœur" ?</legend>
@@ -46,7 +46,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">PUQE</p>
-      <output class="score-output" id="puqeScore">0</output>
+      <output class="score-output" id="puqeScore">-</output>
     </div>
     <p id="puqeText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -54,30 +54,44 @@
 <blockquote lang="en">
   <p>
     <a href="https://pubmed.ncbi.nlm.nih.gov/12011891/" rel="external nofollow noopener">
-      Koren G. et al. Motherisk-PUQE (pregnancy-unique quantification of emesis and nausea) scoring system for nausea and vomiting of pregnancy. Am J Obstet Gynecol. 2002;186(5 Suppl Understanding):S228-S231. doi:10.1067/mob.2002.123054</a>
+      Koren G, et al. Motherisk-PUQE (pregnancy-unique quantification of emesis and nausea) scoring system for nausea and vomiting of pregnancy. Am J Obstet Gynecol. 2002;186(5 Suppl Understanding):S228-S231. doi:10.1067/mob.2002.123054</a>
       et
     <a href="https://pubmed.ncbi.nlm.nih.gov/18166311/" rel="external nofollow noopener">
-      Lacasse A. et al. Validity of a modified Pregnancy-Unique Quantification of Emesis and Nausea (PUQE) scoring index to assess severity of nausea and vomiting of pregnancy. Am J Obstet Gynecol. 2008;198(1):71.e1-71.e717. doi:10.1016/j.ajog.2007.05.051</a>
+      Lacasse A, et al. Validity of a modified Pregnancy-Unique Quantification of Emesis and Nausea (PUQE) scoring index to assess severity of nausea and vomiting of pregnancy. Am J Obstet Gynecol. 2008;198(1):71.e1-71.e717. doi:10.1016/j.ajog.2007.05.051</a>
   </p>
 </blockquote>
 {{ $script := `
   // Score PUQE modifié by djibe
-  window.addEventListener( 'load', event => {
-    const scorePuqe = document.getElementById('puqeScore')
-    const textPuqe = document.getElementById('puqeText');
-    [...document.querySelectorAll('#score-puqe input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcPuqe() ) })
-    const calcPuqe = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('#score-puqe input[type=\"radio\"]:checked')
-      elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-        if (elemsChecked.length >= 3) {
-          scorePuqe.innerHTML = score
-          if (score <= 6) { textPuqe.innerHTML = 'Vomissements légers' }
-          else if (score >= 7 && score <= 12) { textPuqe.innerHTML = 'Vomissements modérés<br>= hyperémèse gravidique' }
-          else if (score >= 13) { textPuqe.innerHTML = 'Vomissements sévères<br>Hospitalisation indiquée' }
-        }
-      })
+  window.addEventListener('DOMContentLoaded', () => {
+  const scorePuqe = document.getElementById('puqeScore');
+  const textPuqe = document.getElementById('puqeText');
+  const container = document.getElementById('score-puqe');
+
+  const calcPuqe = () => {
+    const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
+    if (elemsChecked.length < 3) return;
+
+    let score = 0;
+    elemsChecked.forEach(elemChecked => score += parseInt(elemChecked.value, 10) || 0);
+
+    scorePuqe.textContent = score;
+
+    let text = '';
+    if (score <= 6) {
+      text = 'Vomissements légers';
+    } else if (score <= 12) {
+      text = 'Vomissements modérés<br>= hyperémèse gravidique';
+    } else {
+      text = 'Vomissements sévères<br>Hospitalisation indiquée';
     }
-  })` }}
+
+    textPuqe.innerHTML = text;
+  };
+
+  container.addEventListener('change', event => {
+    if (event.target.matches('input[type="radio"]')) {
+      calcPuqe();
+    }
+  });
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

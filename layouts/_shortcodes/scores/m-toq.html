@@ -1,5 +1,6 @@
 <div id="score-mtoq">
-<p>Le questionnaire <dfn><abbr title="Migraine Treatment Optimization Questionnaire" lang="en">M-TOQ-5</abbr></dfn> (Migraine Treatment Optimization Questionnaire in primary care) est validé pour l’évaluation du contrôle de la maladie migraineuse.
+<p>Le questionnaire <dfn><abbr title="Migraine Treatment Optimization Questionnaire" lang="en">M-TOQ-5</abbr></dfn> (Migraine Treatment Optimization Questionnaire in primary care)
+  est un score validé pour l’évaluation du <strong>contrôle de la maladie migraineuse</strong>.
   Traduction non officielle par Dr JB Fron.</p>
 <p>Évaluer chaque type de traitement pris après 3 crises différentes (AINS, triptan voire paracétamol, aspirine).<br>
 Cocher chaque case ci-dessous en cas de réponse positive.</p>
@@ -44,28 +45,37 @@ Cocher chaque case ci-dessous en cas de réponse positive.</p>
 </blockquote>
 {{ $script := `
   // Score M-TOQ by djibe
-  window.addEventListener( 'load', event => {
-    const scoreMtoq = document.getElementById('mtoqScore')
-    const textMtoq = document.getElementById('mtoqText');
-    [...document.querySelectorAll('#score-mtoq input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('change', () => calcMtoq() ) })
-    const calcMtoq = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('#score-mtoq input[type=\"checkbox\"]:checked')
-      elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-        scoreMtoq.innerHTML = score
-        if (score === 5) {
-          textMtoq.innerHTML = 'Poursuivre le traitement actuel'
-        } else {
-          textMtoq.innerHTML = 'Voir les adaptations préconisées sous chaque question'
-        }
-        elemChecked.nextElementSibling.nextElementSibling.classList.add('d-none')
-      })
-      if (elemsChecked.length === 0) {
-        scoreMtoq.innerHTML = 0
-        textMtoq.innerHTML = 'Propositions détaillées sous chaque question'
-      }
-      [...document.querySelectorAll('#score-mtoq input[type=\"checkbox\"]:not(:checked)')].forEach(elemUnchecked => { elemUnchecked.nextElementSibling.nextElementSibling.classList.remove('d-none') })
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoreMtoq = document.getElementById('mtoqScore');
+  const textMtoq = document.getElementById('mtoqText');
+  const checkboxes = document.querySelectorAll('#score-mtoq input[type="checkbox"]');
+
+  const calcMtoq = () => {
+    const elemsChecked = document.querySelectorAll('#score-mtoq input[type="checkbox"]:checked');
+    let score = 0;
+
+    elemsChecked.forEach(elemChecked => score += parseInt(elemChecked.value, 10) || 0);
+
+    scoreMtoq.textContent = score;
+
+    if (elemsChecked.length === 0) {
+      textMtoq.textContent = 'Propositions détaillées sous chaque question';
+    } else if (score === 5) {
+      textMtoq.textContent = 'Poursuivre le traitement actuel';
+    } else {
+      textMtoq.textContent = 'Voir les adaptations préconisées sous chaque question';
     }
-  })` }}
+
+    checkboxes.forEach(checkbox => {
+      const targetElem = checkbox.nextElementSibling && checkbox.nextElementSibling.nextElementSibling;
+      if (targetElem) {
+        targetElem.classList.toggle('d-none', checkbox.checked);
+      }
+    });
+  };
+
+  checkboxes.forEach(elem => {
+    elem.addEventListener('change', calcMtoq);
+  });
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

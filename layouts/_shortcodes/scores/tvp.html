@@ -1,5 +1,5 @@
-<p>Les scores de Wells et de Constans sont les scores de référence pour le calcul de la probabilité clinique d’une
-  thrombose veineuse profonde (TVP). En cas de grossesse, le score LEFt qui est utilisé.
+<p>Les scores de <strong>Wells</strong> et de <strong>Constans</strong> sont les scores de référence pour le calcul de la
+  <strong>probabilité clinique d’une thrombose veineuse profonde</strong> (TVP). En cas de grossesse, utiliser le score <strong>LEFt</strong>.
 </p>
 <div class="card card-tab my-3 mb-xl-5 mw-640">
   <ul class="nav nav-tabs nav-justified" id="justifiedTab" role="tablist">
@@ -74,7 +74,7 @@
         </div>
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="constans2" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="constans2">Paralysie ou immobilisation du MI</label>
+          <label class="custom-control-label" for="constans2">Paralysie ou immobilisation du membre inférieur</label>
         </div>
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="constans3" class="custom-control-input" value="1">
@@ -82,11 +82,11 @@
         </div>
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="constans4" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="constans4">Augmentation de volume du MI</label>
+          <label class="custom-control-label" for="constans4">Augmentation de volume du membre inférieur</label>
         </div>
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="constans5" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="constans5">Douleur unilatérale du MI</label>
+          <label class="custom-control-label" for="constans5">Douleur unilatérale du membre inférieur</label>
         </div>
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="constans6" class="custom-control-input" value="-1">
@@ -107,7 +107,7 @@
       <h5 class="card-subtitle mb-lg-4" lang="en">Score Left Edema First trimester</h5>
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="left1" class="custom-control-input" value="1">
-          <label class="custom-control-label" for="left1">Symptômes au MI gauche</label>
+          <label class="custom-control-label" for="left1">Symptômes au membre inférieur gauche</label>
         </div>
         <div class="custom-control custom-checkbox">
           <input type="checkbox" id="left2" class="custom-control-input" value="1">
@@ -130,87 +130,62 @@
 </div>
 {{ $script := `
   // Score de Wells modifié/Constans/LEFt by djibe
-  window.addEventListener( 'load', event => {
-    const scoreElem = document.getElementById('wellsScore')
-    const textElem = document.getElementById('wellsText')
-    const scoreConstans = document.getElementById('constansScore')
-    const textConstans = document.getElementById('constansText')
-    const scoreLeft = document.getElementById('leftScore')
-    const textLeft = document.getElementById('leftText')
-    const radioElems = document.querySelectorAll('#score-clinique-tvp input[type=\"checkbox\"]')
-    const panels = document.querySelectorAll('.nav-tabs .nav-link')
-    const textDefault = '<strong>Probabilité faible</strong><br>Doser les D-dimères'
-    const textFort = '<strong>Probabilité forte</strong><br>Écho-doppler veineux<br>Anticoagulation immédiate'
-    radioElems.forEach((radioElem) => { radioElem.addEventListener('click', () => {
-      wells()
-      constans()
-      left()
-    }) })
-    // Reset counter on tab switch
-    panels.forEach((panel) => { panel.addEventListener('click', () => reset() )})
-    const reset = () => {
-      radioElems.forEach(radio => {
-        radio.checked = false
-        scoreElem.innerHTML = 0
-        textElem.innerHTML = textDefault
-        scoreConstans.innerHTML = 0
-        textConstans.innerHTML = textDefault
-        scoreLeft.innerHTML = 0
-        textLeft.innerHTML = textDefault
-      })
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoreElem = document.getElementById('wellsScore');
+  const textElem = document.getElementById('wellsText');
+  const scoreConstans = document.getElementById('constansScore');
+  const textConstans = document.getElementById('constansText');
+  const scoreLeft = document.getElementById('leftScore');
+  const textLeft = document.getElementById('leftText');
+  const checkboxes = document.querySelectorAll('#score-clinique-tvp input[type="checkbox"]');
+  const panels = document.querySelectorAll('.nav-tabs .nav-link');
+
+  const textDefault = '<strong>Probabilité faible</strong><br>Doser les D-dimères';
+  const textFort = '<strong>Probabilité forte</strong><br>Écho-doppler veineux<br>Anticoagulation immédiate';
+  const textIntermediaire = '<strong>Probabilité intermédiaire</strong><br>Doser les D-dimères';
+
+  const reset = () => {
+    checkboxes.forEach(radio => {
+      radio.checked = false;
+    });
+    scoreElem.textContent = 0;
+    textElem.innerHTML = textDefault;
+    scoreConstans.textContent = 0;
+    textConstans.innerHTML = textDefault;
+    scoreLeft.textContent = 0;
+    textLeft.innerHTML = textDefault;
+  };
+
+  const calculateScore = () => {
+    const checkedElems = document.querySelectorAll('#score-clinique-tvp input[type="checkbox"]:checked');
+
+    const totalScore = Array.from(checkedElems).reduce(
+      (sum, elem) => sum + (parseInt(elem.value, 10) || 0),
+      0
+    );
+
+    scoreElem.textContent = totalScore;
+    textElem.innerHTML = totalScore >= 2 ? textFort : textDefault;
+
+    scoreConstans.textContent = totalScore;
+    if (totalScore >= 3) {
+      textConstans.innerHTML = textFort;
+    } else if (totalScore >= 1) {
+      textConstans.innerHTML = textIntermediaire;
+    } else {
+      textConstans.innerHTML = textDefault;
     }
-    const wells = () => {
-      let score = 0
-      const radioElemsChecked = document.querySelectorAll('#score-clinique-tvp input[type=\"checkbox\"]:checked')
-        radioElemsChecked.forEach(radioChecked => {
-        score += parseInt(radioChecked.value, 10)
-        scoreElem.innerHTML = score
-        if (score <= 1) {
-          textElem.innerHTML = textDefault
-        } else if (score >= 2) {
-          textElem.innerHTML = textFort
-        }
-      })
-      if (radioElemsChecked.length === 0) {
-        scoreElem.innerHTML = 0
-        textElem.innerHTML = textDefault
-      }
-    }
-    const constans = () => {
-      let score = 0
-      const radioElemsChecked = document.querySelectorAll('#score-clinique-tvp input[type=\"checkbox\"]:checked')
-        radioElemsChecked.forEach(radioChecked => {
-        score += parseInt(radioChecked.value, 10)
-        scoreConstans.innerHTML = score
-        if (score <= 0) {
-          textConstans.innerHTML = textDefault
-        } else if (score >= 1 && score < 3) {
-          textConstans.innerHTML = '<strong>Probabilité intermédiaire</strong><br>Doser les D-dimères'
-        } else if (score >= 3) {
-          textConstans.innerHTML = textFort
-        }
-        })
-      if (radioElemsChecked.length === 0) {
-        scoreConstans.innerHTML = 0
-        textConstans.innerHTML = textDefault
-      }
-    }
-    const left = () => {
-      let score = 0
-      const radioElemsChecked = document.querySelectorAll('#score-clinique-tvp input[type=\"checkbox\"]:checked')
-        radioElemsChecked.forEach(radioChecked => {
-        score += parseInt(radioChecked.value, 10)
-        scoreLeft.innerHTML = score
-        if (score === 0) {
-          textLeft.innerHTML = textDefault
-        } else if (score >= 1) {
-          textLeft.innerHTML = textFort
-        }
-        })
-      if (radioElemsChecked.length === 0) {
-        scoreLeft.innerHTML = 0
-        textLeft.innerHTML = textDefault
-      }
-    }
-  })` }}
+
+    scoreLeft.textContent = totalScore;
+    textLeft.innerHTML = totalScore >= 1 ? textFort : textDefault;
+  };
+
+  checkboxes.forEach(checkbox => {
+    checkbox.addEventListener('change', calculateScore);
+  });
+
+  panels.forEach(panel => {
+    panel.addEventListener('click', reset);
+  });
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

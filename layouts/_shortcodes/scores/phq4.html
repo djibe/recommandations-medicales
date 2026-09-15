@@ -1,6 +1,6 @@
 <div id="score-phq4">
-  <p>L’auto-questionnaire <dfn><abbr title="4-Item Patient Health Questionnaire for Depression and Anxiety" lang="en">PHQ-4</abbr></dfn> (<span lang="en">Patient Health Questionnaire 4</span>) est validé
-    pour l’évaluation d’un adulte présentant des symptômes dépressifs et anxieux.
+  <p>L’auto-questionnaire <dfn><abbr title="4-Item Patient Health Questionnaire for Depression and Anxiety" lang="en">PHQ-4</abbr></dfn> (<span lang="en">Patient Health Questionnaire 4</span>)
+    est un score validé pour l’évaluation des <strong>symptômes dépressifs et anxieux</strong> chez l’adulte.
     Il combine les questionnaires PHQ-2 et GAD-2.</p>
   <p>Au cours des 2 dernières semaines, à quelle fréquence avez-vous été dérangé(e) par les problèmes suivants ?</p>
   <fieldset>
@@ -50,7 +50,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score PHQ-4</p>
-      <output class="score-output" id="phq4Score">0</output>
+      <output class="score-output" id="phq4Score">-</output>
     </div>
     <p id="phq4Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -60,31 +60,55 @@
 </blockquote>
 {{ $script := `
   // Questionnaire PHQ-4 by djibe
-  window.addEventListener( 'load', event => {
-    const scorephq4 = document.getElementById('phq4Score')
-    const textphq4 = document.getElementById('phq4Text');
-    [...document.querySelectorAll('#score-phq4 input[type="radio"]')].forEach((elem) => { elem.addEventListener('click', () => calcphq4() ) })
-    const calcphq4 = () => {
-      let score = 0
-      let anxietyText = ''
-      let depressionText = ''
-      const checkedElems = document.querySelectorAll('#score-phq4 input[type="radio"]:checked')
-      if (checkedElems.length === 4) {
-        const checkedAnxiety1 = document.querySelector('#score-phq4 input[name="radio-anxiety-1"]:checked')
-        const checkedAnxiety2 = document.querySelector('#score-phq4 input[name="radio-anxiety-2"]:checked')
-        let anxietyValue = parseInt(checkedAnxiety1.value, 10) + parseInt(checkedAnxiety2.value, 10)
-        if (anxietyValue >= 3) { anxietyText = '<br>Anxiété probable'}
-        const checkedDepression1 = document.querySelector('#score-phq4 input[name="radio-depression-1"]:checked')
-        const checkedDepression2 = document.querySelector('#score-phq4 input[name="radio-depression-2"]:checked')
-        let depressionValue = parseInt(checkedDepression1.value, 10) + parseInt(checkedDepression2.value, 10)
-        if (depressionValue >= 3) { depressionText = '<br>Dépression probable'}
-        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
-        scorephq4.innerHTML = score
-        if (score <= 2) { textphq4.innerHTML = "Pas de détresse psychologique" }
-        else if (score >= 3 && score <= 5) { textphq4.innerHTML = "Détresse psychologique légère" + anxietyText + depressionText}
-        else if (score >= 6 && score <= 8) { textphq4.innerHTML = "<strong>Détresse psychologique modérée</strong>" + anxietyText + depressionText }
-        else if (score >= 9 && score <= 12) { textphq4.innerHTML = "<strong>Détresse psychologique grave</strong>" + anxietyText + depressionText}
+ window.addEventListener('DOMContentLoaded', () => {
+  const scorephq4 = document.getElementById('phq4Score');
+  const textphq4 = document.getElementById('phq4Text');
+  const container = document.getElementById('score-phq4');
+
+  const calcphq4 = () => {
+    const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
+    if (checkedElems.length !== 4) return;
+
+    let score = 0;
+    let anxietyValue = 0;
+    let depressionValue = 0;
+
+    checkedElems.forEach(elem => {
+      const val = parseInt(elem.value, 10) || 0;
+      score += val;
+
+      if (elem.name === 'radio-anxiety-1' || elem.name === 'radio-anxiety-2') {
+        anxietyValue += val;
+      } else if (elem.name === 'radio-depression-1' || elem.name === 'radio-depression-2') {
+        depressionValue += val;
       }
+    });
+
+    let anxietyText = anxietyValue >= 3 ? '<br>Anxiété probable' : '';
+    let depressionText = depressionValue >= 3 ? '<br>Dépression probable' : '';
+
+    scorephq4.textContent = score;
+
+    let severityText = '';
+    if (score <= 2) {
+      severityText = 'Pas de détresse psychologique';
+      anxietyText = '';
+      depressionText = '';
+    } else if (score <= 5) {
+      severityText = 'Détresse psychologique légère';
+    } else if (score <= 8) {
+      severityText = '<strong>Détresse psychologique modérée</strong>';
+    } else {
+      severityText = '<strong>Détresse psychologique grave</strong>';
     }
-  })` }}
+
+    textphq4.innerHTML = severityText + anxietyText + depressionText;
+  };
+
+  container.addEventListener('change', event => {
+    if (event.target.matches('input[type="radio"]')) {
+      calcphq4();
+    }
+  });
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

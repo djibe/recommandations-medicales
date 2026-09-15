@@ -1,6 +1,7 @@
 <div class="my-4" id="score-irls">
   <h4>Score IRLS</h4>
-  <p>L’<dfn><abbr title="IRLSSSG rating scale" lang="en">IRLS</abbr></dfn> (<span lang="en">IRLSSSG rating scale</span>) permet de quantifier la sévérité du syndrome des jambes sans repos.</p>
+  <p>Le score <dfn><abbr title="IRLSSSG rating scale" lang="en">IRLS</abbr></dfn> (<span lang="en">IRLSSSG rating scale</span>) est un score de référence,
+    validé pour quantifier la <strong>sévérité du syndrome des jambes sans repos</strong>.</p>
   <fieldset>
     <legend>1. Quelle est votre appréciation du désagrément provoqué par le syndrome des jambes sans repos ?</legend>
     <input type="radio" id="radio-irls-11" name="radio-irls-1" class="d-input-none" value="4" required>
@@ -132,37 +133,45 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score IRLS</p>
-      <output class="score-output" id="irlsScore">0</output>
+      <output class="score-output" id="irlsScore">-</output>
     </div>
     <p id="irlsText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
 </div>
 {{ $script := `
   // Score IRLS by djibe
-  window.addEventListener( 'load', event => {
-    const scoreIRLS = document.getElementById('irlsScore')
-    const textIRLS = document.getElementById('irlsText');
-    [...document.querySelectorAll('#score-irls input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcIrls() ) })
-    const calcIrls = () => {
-      let score = 0
-      const irlsElemsChecked = document.querySelectorAll('#score-irls input[type=\"radio\"]:checked')
-        irlsElemsChecked.forEach(irlsElemChecked => {
-        score += parseInt(irlsElemChecked.value, 10)
-        if (irlsElemsChecked.length === 10) {
-          scoreIRLS.innerHTML = score
-          if (score <= 10) {
-            textIRLS.innerHTML = "<strong>SJSR léger</strong><br>Règles d’hygiène<br>et traitement opiacé à la demande"
-          } else if (score >= 11 && score <= 20) {
-            textIRLS.innerHTML = "<strong>SJSR modéré</strong><br>Règles d’hygiène<br>et avis du médecin du sommeil"
-          } else if (score >= 21 && score <= 30) {
-            textIRLS.innerHTML = "<strong>SJSR sévère</strong><br>Règles d’hygiène<br>et avis du médecin du sommeil"
-          } else if (score >= 31) {
-            textIRLS.innerHTML = "<strong>SJSR très sévère</strong><br>Règles d’hygiène<br>et avis du médecin du sommeil"
-          }
-        } else {
-          textIRLS.innerHTML = 'Veuillez répondre à toutes les questions'
-        }
-      })
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoreIRLS = document.getElementById('irlsScore');
+  const textIRLS = document.getElementById('irlsText');
+  const radios = document.querySelectorAll('#score-irls input[type="radio"]');
+
+  const calcIrls = () => {
+    const irlsElemsChecked = document.querySelectorAll('#score-irls input[type="radio"]:checked');
+
+    if (irlsElemsChecked.length < 10) {
+      textIRLS.textContent = 'Veuillez répondre à toutes les questions';
+      scoreIRLS.textContent = '-';
+      return;
     }
-  })` }}
+
+    let score = 0;
+    irlsElemsChecked.forEach(irlsElemChecked => score += parseInt(irlsElemChecked.value, 10) || 0);
+
+    scoreIRLS.textContent = score;
+
+    if (score <= 10) {
+      textIRLS.innerHTML = '<strong>SJSR léger</strong><br>Règles d’hygiène<br>et traitement opiacé à la demande';
+    } else if (score <= 20) {
+      textIRLS.innerHTML = '<strong>SJSR modéré</strong><br>Règles d’hygiène<br>et avis du médecin du sommeil';
+    } else if (score <= 30) {
+      textIRLS.innerHTML = '<strong>SJSR sévère</strong><br>Règles d’hygiène<br>et avis du médecin du sommeil';
+    } else {
+      textIRLS.innerHTML = '<strong>SJSR très sévère</strong><br>Règles d’hygiène<br>et avis du médecin du sommeil';
+    }
+  };
+
+  radios.forEach(elem => {
+    elem.addEventListener('change', calcIrls);
+  });
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

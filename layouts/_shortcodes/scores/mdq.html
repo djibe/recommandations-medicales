@@ -1,6 +1,7 @@
 <div id="score-mdq">
-  <h4 class="typography-headline-6">Mood Disorder Questionnaire <abbr lang="en" title="Mood Disorder Questionnaire">MDQ</abbr> la maladie bipolaire</h4>
-  <p>Questionnaire couramment utilisé lorsqu’on soupçonne la présence de bipolarité de type I ou II.</p>
+  <h4 class="typography-headline-6">Mood Disorder Questionnaire de la maladie bipolaire</h4>
+  <p>Le Mood Disorder Questionnaire (<dfn><abbr lang="en" title="Mood Disorder Questionnaire">MDQ</abbr></dfn>)
+    est un score validé pour <strong>repérer un trouble bipolaire</strong> de type I ou II.</p>
   <p>Avez-vous déjà connu une période dans votre vie où vous n’avez pas été comme vous êtes d’habitude, et où …</p>
   <fieldset class="mt-4">
     <legend>1. Vous vous êtes senti tellement bien, tellement excité que les autres ont
@@ -102,7 +103,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">mdq</p>
-      <output class="score-output" id="mdqScore">0</output>
+      <output class="score-output" id="mdqScore">-</output>
     </div>
     <p id="mdqText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -115,21 +116,40 @@
 </blockquote>
 {{ $script := `
   // Score mdq by djibe
-  window.addEventListener( 'load', event => {
-    const scoremdq = document.getElementById('mdqScore')
-    const textmdq = document.getElementById('mdqText');
-    [...document.querySelectorAll('#score-mdq input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcmdq() ) })
-    const calcmdq = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('#score-mdq input[type=\"radio\"]:checked')
-      elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-        if (elemsChecked.length === 6) {
-          scoremdq.innerHTML = score
-          if (score >= 2) { textmdq.innerHTML = "Risque élevé d’usage problématique" }
-          if (score >= 3) { textmdq.innerHTML += "<br>Proposer un accompagnement pour l’arrêt" }
-        }
-      })
+  document.addEventListener('DOMContentLoaded', () => {
+  const scoremdq = document.getElementById('mdqScore');
+  const textmdq = document.getElementById('mdqText');
+  const container = document.getElementById('score-mdq');
+
+  const calcmdq = () => {
+    const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (elemsChecked.length < 6) {
+      if (scoremdq) scoremdq.textContent = '0';
+      if (textmdq) textmdq.textContent = 'Veuillez répondre aux 6 questions.';
+      return;
     }
-  })` }}
+
+    let score = 0;
+    elemsChecked.forEach(elemChecked => {
+      score += parseInt(elemChecked.value, 10) || 0;
+    });
+
+    if (scoremdq) scoremdq.textContent = score;
+
+    if (score >= 3) {
+      textmdq.innerHTML = 'Risque élevé d’usage problématique<br>Proposer un accompagnement pour l’arrêt';
+    } else if (score >= 2) {
+      textmdq.innerHTML = 'Risque élevé d’usage problématique';
+    } else {
+      textmdq.textContent = 'Risque faible d’usage problématique';
+    }
+  };
+
+    container.addEventListener('change', event => {
+      if (event.target.matches('input[type="radio"]')) {
+        calcmdq();
+      }
+    });
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

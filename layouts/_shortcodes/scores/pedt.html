@@ -1,7 +1,10 @@
 <div id="score-pedt">
   <h3 class="card-title mb-2">Score PEDT - Premature Ejaculation Diagnostic Tool</h3>
-  <p>Le score <abbr title="Premature Ejaculation Diagnostic Tool" lang="en">PEDT</abbr> (<span lang="en">Premature Ejaculation Diagnostic Tool</span>) est validé pour la recherche d’une éjaculation précoce.</p>
-  <p>Ce questionnaire analyse la présence d’éjaculation précoce pendant les rapports sexuels. L’éjaculation précoce est la dysfonction sexuelle masculine la plus répandue. Ce questionnaire ne remplace pas un examen médical et ne doit pas être considéré comme définitif. Les résultats du test doivent toujours être discutés avec un professionnel de santé.</p>
+  <p>Le score <abbr title="Premature Ejaculation Diagnostic Tool" lang="en">PEDT</abbr> (<span lang="en">Premature Ejaculation Diagnostic Tool</span>)
+    est un questionnaire validé pour la recherche d’une <strong>éjaculation précoce</strong>.</p>
+  <p>Ce questionnaire analyse la présence d’éjaculation précoce pendant les rapports sexuels. L’éjaculation précoce est la dysfonction sexuelle masculine la plus répandue.
+    Il ne remplace pas un examen médical et ne doit pas être considéré comme définitif.
+    Les résultats du test doivent toujours être discutés avec un professionnel de santé.</p>
   <fieldset>
     <legend>1. À quel point vous est-il difficile de retarder votre éjaculation ?</legend>
     <input type="radio" id="pedt-11" name="radio-pedt-1" class="d-input-none" value="0" required>
@@ -70,7 +73,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score PEDT</p>
-      <output class="score-output" id="pedtScore">0</output>
+      <output class="score-output" id="pedtScore">-</output>
     </div>
     <p id="pedtText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -81,29 +84,38 @@
 </blockquote>
 {{ $script := `
   // Score PEDT by djibe
-  window.addEventListener( 'load', event => {
-    const scorepedt = document.getElementById('pedtScore')
-    const textpedt = document.getElementById('pedtText');
-    [...document.querySelectorAll('#score-pedt input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => { calcpedt() }) })
-    const calcpedt = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('#score-pedt input[type=\"radio\"]:checked')
-      elemsChecked.forEach(elemChecked => {
-        score += parseInt(elemChecked.value, 10)
-        if (elemsChecked.length === 5) {
-          scorepedt.innerHTML = score
-          // TODO:
-          if (score <= 8) {
-            textpedt.innerHTML = "Absence d’éjaculation précoce"
-          } else if (score >= 9 && score <= 10) {
-            textpedt.innerHTML = 'Éjaculation précoce probable'
-          } else if (score >= 11) {
-            textpedt.innerHTML = 'Éjaculation précoce'
-          }
-        } else {
-          textpedt.innerHTML = 'Veuillez répondre à toutes les questions'
-        }
-      })
+  window.addEventListener('DOMContentLoaded', () => {
+  const scorepedt = document.getElementById('pedtScore');
+  const textpedt = document.getElementById('pedtText');
+  const container = document.getElementById('score-pedt');
+
+  const calcpedt = () => {
+    const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (elemsChecked.length !== 5) {
+      scorepedt.textContent = '-';
+      textpedt.textContent = 'Veuillez répondre à toutes les questions';
+      return;
     }
-  })` }}
+
+    let score = 0;
+    elemsChecked.forEach(elemChecked => score += parseInt(elemChecked.value, 10) || 0);
+
+    scorepedt.textContent = score;
+
+    if (score <= 8) {
+      textpedt.textContent = 'Absence d’éjaculation précoce';
+    } else if (score <= 10) {
+      textpedt.textContent = 'Éjaculation précoce probable';
+    } else {
+      textpedt.textContent = 'Éjaculation précoce';
+    }
+  };
+
+  container.addEventListener('change', (event) => {
+    if (event.target.matches('input[type="radio"]')) {
+      calcpedt();
+    }
+  });
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

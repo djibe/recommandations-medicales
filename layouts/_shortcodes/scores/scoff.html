@@ -1,6 +1,6 @@
 <div class="my-4" id="score-scoff">
   <p>Le questionnaire <dfn><abbr title="Sick - Control - One - Fat - Food" lang="en">SCOFF</abbr></dfn> (Sick - Control - One - Fat - Food)
-    est validé pour le dépistage des troubles des conduites alimentaires (<dfn><abbr title="Trouble des conduites alimentaires">TCA</abbr></dfn>).</p>
+    est un score de référence, validé pour le <strong>dépistage des troubles des conduites alimentaires</strong> (<dfn><abbr title="Trouble des conduites alimentaires">TCA</abbr></dfn>).</p>
   <fieldset>
     <legend>1. Vous êtes-vous déjà fait vomir parce que vous ne vous sentiez pas bien « l’estomac plein » </legend>
     <input type="radio" id="scoff-11" name="radio-scoff-1" class="d-input-none" value="1" required>
@@ -39,7 +39,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score SCOFF-F</p>
-      <output class="score-output" id="scoffScore">0</output>
+      <output class="score-output" id="scoffScore">-</output>
     </div>
     <p id="scoffText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -49,24 +49,27 @@
 </blockquote>
 {{ $script := `
   // Score SCOFF-F by djibe
-  window.addEventListener( 'load', event => {
-    const scorescoff = document.getElementById('scoffScore')
-    const textscoff = document.getElementById('scoffText');
-    [...document.querySelectorAll('#score-scoff input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcScoff() ) })
-    const calcScoff = () => {
-      let score = 0
-      const scoffElemsChecked = document.querySelectorAll('#score-scoff input[type=\"radio\"]:checked')
-      scoffElemsChecked.forEach(scoffElemChecked => {
-        score += parseInt(scoffElemChecked.value, 10)
-        if (scoffElemsChecked.length === 5) {
-          scorescoff.innerHTML = score
-          if (score >= 2) {
-            textscoff.innerHTML = 'TCA possible'
-          } else {
-            textscoff.innerHTML = 'Pas de TCA'
-          }
-        }
-      })
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoreScoff = document.getElementById('scoffScore');
+  const textScoff = document.getElementById('scoffText');
+  const scoffInputs = document.querySelectorAll('#score-scoff input[type="radio"]');
+
+  const calcScoff = () => {
+    const scoffElemsChecked = document.querySelectorAll('#score-scoff input[type="radio"]:checked');
+
+    if (scoffElemsChecked.length < 5) {
+      return;
     }
-  })` }}
+
+    const score = Array.from(scoffElemsChecked).reduce(
+      (sum, elem) => sum + parseInt(elem.value, 10),
+      0
+    );
+
+    scoreScoff.textContent = score;
+    textScoff.textContent = score >= 2 ? 'TCA possible' : 'Pas de TCA';
+  };
+
+  scoffInputs.forEach(input => input.addEventListener('change', calcScoff));
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

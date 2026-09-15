@@ -1,5 +1,7 @@
 <div class="mt-4" id="score-hit6">
-  <p>Le questionnaire <dfn><abbr title="Headache Impact Test" lang="en">HIT-6™</abbr></dfn> (<span lang="en">Headache Impact Test 6</span>) est un test validé pour aider à décrire et à exprimer
+  <p>Le questionnaire <dfn><abbr title="Headache Impact Test" lang="en">HIT-6™</abbr></dfn> (<span lang="en">Headache Impact Test 6</span>) est un score de référence,
+    validé pour l’évaluation du <strong>retentissement des migraines</strong> (épisodiques et chroniques).
+  <p>Ce test est construit pour pour aider à décrire et à exprimer
     ce que vous ressentez et ce que vous ne pouvez pas faire à cause de vos maux de tête.</p>
   <fieldset>
     <legend>1. Lorsque vous avez des maux de tête, la douleur est-elle intense ?</legend>
@@ -82,7 +84,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score HIT-6™</p>
-      <output class="score-output" id="hit6Score">0</output>
+      <output class="score-output" id="hit6Score">-</output>
     </div>
     <p id="hit6Text" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -93,18 +95,36 @@
 </blockquote>
 {{ $script := `
   // Score HIT-6™ by djibe
-  window.addEventListener( 'load', event => {
-    const scoreHit6 = document.getElementById('hit6Score')
-    const textHit6 = document.getElementById('hit6Text');
-    [...document.querySelectorAll('#score-hit6 input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcHit6() ) })
-    const calcHit6 = () => {
-      let score = 0
-      const checkedElems = document.querySelectorAll('#score-hit6 input[type=\"radio\"]:checked')
-      if (checkedElems.length === 6) {
-        checkedElems.forEach(checkedElem => { score += parseInt(checkedElem.value, 10) })
-        scoreHit6.innerHTML = score
-        textHit6.innerHTML = score + ' points (min 36, max 78)<br>Un score plus élevé objective<br>un impact marqué sur la qualité de vie'
-      }
+  document.addEventListener('DOMContentLoaded', () => {
+  const scoreHit6 = document.getElementById('hit6Score');
+  const textHit6 = document.getElementById('hit6Text');
+  const container = document.getElementById('score-hit6');
+
+  const calcHit6 = () => {
+    const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (checkedElems.length < 6) {
+      if (scoreHit6) scoreHit6.textContent = '0';
+      if (textHit6) textHit6.textContent = 'Veuillez répondre aux 6 questions.';
+      return;
     }
-  })` }}
+
+    let score = 0;
+    checkedElems.forEach(checkedElem => {
+      score += parseInt(checkedElem.value, 10) || 0;
+    });
+
+    if (scoreHit6) scoreHit6.textContent = score;
+
+    if (textHit6) {
+      textHit6.innerHTML = score + ' points (min 36, max 78)<br>Un score plus élevé objective<br>un impact marqué sur la qualité de vie';
+    }
+  };
+
+  container.addEventListener('change', event => {
+    if (event.target.matches('input[type="radio"]')) {
+      calcHit6();
+    }
+  });
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

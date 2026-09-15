@@ -1,6 +1,6 @@
-<p>Les scores de Wells et de Genève sont les scores de référence pour le calcul de la probabilité clinique d’une
-  embolie pulmonaire (EP) en l’absence de grossesse ou de post-partum.
-  Ils ont les mêmes performances (<a href="https://www.acpjournals.org/doi/10.7326/0003-4819-154-11-201106070-00002" rel="external nofollow noopener">Douma et al 2011</a>).
+<p>Les scores de <strong>Wells</strong> et de <strong>Genève</strong> sont les scores de référence pour le calcul de la
+  <strong>probabilité clinique d’une embolie pulmonaire</strong> (EP), en l’absence de grossesse ou de post-partum.
+  Ils ont les mêmes performances (<em><a href="https://www.acpjournals.org/doi/10.7326/0003-4819-154-11-201106070-00002" rel="external nofollow noopener">Douma et al 2011</a></em>).
 </p>
 <div class="card card-tab my-3 my-xl-5 mw-640">
   <ul class="nav nav-tabs nav-justified" id="justifiedTab" role="tablist">
@@ -108,69 +108,61 @@
 </div>
 {{ $script := `
   // Score de Wells/Révisé de Genève by djibe
-  window.addEventListener( 'load', event => {
-    const scoreElem = document.getElementById('wellsEpScore')
-    const textElem = document.getElementById('wellsEpText')
-    const scoreGeneve = document.getElementById('geneveEpScore')
-    const textGeneve = document.getElementById('geneveEpText')
-    const radioElems = document.querySelectorAll('#score-clinique-ep input[type=\"checkbox\"]')
-    const panels = document.querySelectorAll('.nav-tabs .nav-link')
-    const textFaible = '<strong>Probabilité clinique faible</strong><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences'
-    const textModeree = '<strong>Probabilité clinique intermédiaire</strong><br>Anticoagulation et D-dimères aux Urgences'
-    const textElevee = '<strong>Probabilité clinique forte</strong><br>Anticoagulation et angioscanner aux Urgences'
-    radioElems.forEach((radioElem) => { radioElem.addEventListener('click', () => {
-      wellsEp()
-      geneveRevise()
-    }) })
-    // Reset counter on tab switch
-    panels.forEach((panel) => { panel.addEventListener('click', () => { reset() })
-    })
-    const reset = () => {
-      radioElems.forEach(radio => {
-        radio.checked = false
-        scoreElem.innerHTML = 0
-        textElem.innerHTML = textFaible
-        scoreGeneve.innerHTML = 0
-        textGeneve.innerHTML = textFaible
-      })
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoreElem = document.getElementById('wellsEpScore');
+  const textElem = document.getElementById('wellsEpText');
+  const scoreGeneve = document.getElementById('geneveEpScore');
+  const textGeneve = document.getElementById('geneveEpText');
+  const checkboxes = document.querySelectorAll('#score-clinique-ep input[type="checkbox"]');
+  const panels = document.querySelectorAll('.nav-tabs .nav-link');
+
+  const textFaible = '<strong>Probabilité clinique faible</strong><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences';
+  const textModeree = '<strong>Probabilité clinique intermédiaire</strong><br>Anticoagulation et D-dimères aux Urgences';
+  const textElevee = '<strong>Probabilité clinique forte</strong><br>Anticoagulation et angioscanner aux Urgences';
+
+  const reset = () => {
+    checkboxes.forEach(checkbox => {
+      checkbox.checked = false;
+    });
+    scoreElem.textContent = 0;
+    textElem.innerHTML = textFaible;
+    scoreGeneve.textContent = 0;
+    textGeneve.innerHTML = textFaible;
+  };
+
+  const calculateScores = () => {
+    const checkedElems = document.querySelectorAll('#score-clinique-ep input[type="checkbox"]:checked');
+
+    const totalScore = Array.from(checkedElems).reduce(
+      (sum, elem) => sum + (parseInt(elem.value, 10) || 0),
+      0
+    );
+
+    scoreElem.textContent = totalScore;
+    if (totalScore > 6) {
+      textElem.innerHTML = textElevee;
+    } else if (totalScore >= 2) {
+      textElem.innerHTML = textModeree;
+    } else {
+      textElem.innerHTML = textFaible;
     }
-    const wellsEp = () => {
-      let score = 0
-      let radioElemsChecked = document.querySelectorAll('#score-clinique-ep input[type=\"checkbox\"]:checked');
-      radioElemsChecked.forEach(radioChecked => {
-        score += parseInt(radioChecked.value, 10)
-        scoreElem.innerHTML = score
-        if (score < 2) {
-          textElem.innerHTML = textFaible
-        } else if (score >= 2 && score <= 6) {
-          textElem.innerHTML = textModeree
-        } else if (score >  6) {
-          textElem.innerHTML = textElevee
-        }
-      })
-    if (radioElemsChecked.length === 0) {
-      scoreElem.innerHTML = 0
-      textElem.innerHTML = textFaible
+
+    scoreGeneve.textContent = totalScore;
+    if (totalScore >= 11) {
+      textGeneve.innerHTML = textElevee;
+    } else if (totalScore >= 4) {
+      textGeneve.innerHTML = textModeree;
+    } else {
+      textGeneve.innerHTML = textFaible;
     }
-    }
-    const geneveRevise = () => {
-      let score = 0
-      let radioElemsChecked = document.querySelectorAll('#score-clinique-ep input[type=\"checkbox\"]:checked');
-      radioElemsChecked.forEach(radioChecked => {
-        score += parseInt(radioChecked.value, 10)
-        scoreGeneve.innerHTML = score
-        if (score <= 3) {
-          textGeneve.innerHTML = textFaible
-        } else if (score >= 4 && score <= 10) {
-          textGeneve.innerHTML = textModeree
-        } else if (score >= 11) {
-          textGeneve.innerHTML = textElevee
-        }
-        })
-      if (radioElemsChecked.length === 0) {
-        scoreGeneve.innerHTML = 0
-        textGeneve.innerHTML = textFaible
-      }
-    }
-  })` }}
+  };
+
+  checkboxes.forEach(checkbox => {
+    checkbox.addEventListener('change', calculateScores);
+  });
+
+  panels.forEach(panel => {
+    panel.addEventListener('click', reset);
+  });
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

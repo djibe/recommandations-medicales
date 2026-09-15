@@ -1,6 +1,6 @@
-<!-- TODO: either 65 or 75-->
 <div class="card-body" id="score-cha2ds2vasc">
-  <p>Décider d’une anticoagulation de la fibrillation atriale pour prévenir les thrombo-embolies selon la <dfn><abbr title="European Society of Cardiology" lang="en">ESC</abbr></dfn> 2020.</p>
+  <p>Le score CHA2DS2-VASc est l’ancien score de référence pour évaluer le <strong>risque de thrombo-embolie</strong> au cours de la fibrillation atriale (FA) et décider d’une <strong>anticoagulation</strong>.</p>
+  <p>Il fut recommandé par l’<dfn><abbr title="European Society of Cardiology" lang="en">ESC</abbr></dfn> en 2020 et désormais remplacé par le score <a href="/scores/cha2ds2va/">CHA<sub>2</sub>DS<sub>2</sub>-VA</a>.</p>
   <p>Le score n’est pas fiable en cas d’insuffisance rénale sévère (où le risque ischémique devrait être considéré comme élevé<em>ESC/ERA 2026</em>).</p>
   <div class="custom-control custom-checkbox">
     <input type="checkbox" id="check-femme" class="custom-control-input" value="1">
@@ -12,7 +12,7 @@
   </div>
   <div class="custom-control custom-checkbox">
     <input type="checkbox" id="check-age65" class="custom-control-input" value="1">
-    <label class="custom-control-label" for="check-age65">Âge 65 à 74</label>
+    <label class="custom-control-label" for="check-age65">Âge de 65 à 74 ans</label>
     <p class="typography-caption text-black-secondary">voire ≥ 55 ans chez les asiatiques (<a href="https://pubmed.ncbi.nlm.nih.gov/30012820/" rel="external nofollow noopener">Kim TH 2018</a>).</p>
   </div>
   <div class="custom-control custom-checkbox">
@@ -56,6 +56,9 @@ document.addEventListener('DOMContentLoaded', () => {
   const scoreChads = document.getElementById('chadsScore');
   const container = document.getElementById('score-cha2ds2vasc');
 
+  const age75 = document.getElementById('check-age75');
+  const age65 = document.getElementById('check-age65');
+
   const calcChads = () => {
     const checkboxFemme = document.getElementById('check-femme');
     const elemsChecked = container.querySelectorAll('input[type="checkbox"]:checked');
@@ -79,9 +82,17 @@ document.addEventListener('DOMContentLoaded', () => {
   };
 
   container.addEventListener('change', event => {
-    if (event.target.matches('input[type="checkbox"]')) {
+    const target = event.target;
+    if (target.matches('input[type="checkbox"]')) {
+      // Exclusivité mutuelle entre age75 et age65
+      if (target === age75 && age75.checked) {
+        age65.checked = false;
+      } else if (target === age65 && age65.checked) {
+        age75.checked = false;
+      }
+
       calcChads();
     }
   });
-});` }}
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

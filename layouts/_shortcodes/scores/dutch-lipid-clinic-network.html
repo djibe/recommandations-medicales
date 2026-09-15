@@ -1,6 +1,6 @@
 <div class="card-body" id="score-dutch-hyperchol">
   <p>Les critères diagnostiques du <span lang="en">Dutch Lipid Clinic Network</span> (<dfn><abbr title="Dutch Lipid Clinic Network">DLCN</abbr></dfn>)
-    sont une référence pour le diagnostic de l’hypercholestérolémie familiale hétérozygote de l’adulte,
+    sont une référence pour le <strong>diagnostic de l’hypercholestérolémie familiale hétérozygote</strong> de l’adulte,
     promus par l’<dfn><abbr title="Société Européenne de Cardiologie">ESC</abbr></dfn>.</p>
   <fieldset>
     <legend>1. Antécédents familiaux</legend>
@@ -77,8 +77,6 @@ window.addEventListener('DOMContentLoaded', () => {
   const tendinousElem = document.getElementById('dutch-hyperchol-31');
   const arcusElem = document.getElementById('dutch-hyperchol-32');
   const dlcnElems = document.querySelectorAll('#score-dutch-hyperchol input.elem-dlcn');
-
-  if (!scoreDlcn || !textDlcn) return;
 
   function calcDlcn() {
     let score = 0;

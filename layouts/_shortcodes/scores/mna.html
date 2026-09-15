@@ -1,5 +1,6 @@
 <div class="my-4" id="score-mna">
-  <p>Le <dfn><abbr title="Mini Nutritional Assessment Short Form">MNA-SF®</abbr></dfn> (Mini Nutritional Assessment Short Form) est validé pour le dépistage de la dénutrition.</p>
+  <p>Le questionnaire <dfn><abbr title="Mini Nutritional Assessment Short Form">MNA-SF®</abbr></dfn> (<span lang="en">Mini Nutritional Assessment Short Form</span>)
+    est un score validé pour le <strong>dépistage de la dénutrition</strong>.</p>
   <fieldset>
     <legend>A. Le patient présente-t-il une perte d’appétit? A-t-il moins mangé ces 3 derniers mois par manque d’appétit, problèmes digestifs, difficultés de mastication ou de déglutition ?</legend>
     <p class="typography-caption">Pour les prises alimentaires:</p>
@@ -60,36 +61,44 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score MNA</p>
-      <output class="score-output" id="mnaScore">0</output>
+      <output class="score-output" id="mnaScore">-</output>
     </div>
     <p id="mnaText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
 </div>
 <blockquote class="mt-4">
-  <p lang="en">Rubenstein LZ et al. Screening for Undernutrition in Geriatric Practice: Developing the Short-Fom Mini Nutritional Assessment (MNA-SF). J. Geront 2001;56A: M366-377.</p>
+  <p lang="en">Rubenstein LZ, et al. Screening for Undernutrition in Geriatric Practice: Developing the Short-Fom Mini Nutritional Assessment (MNA-SF). J. Geront 2001;56A: M366-377.</p>
 </blockquote>
 {{ $script := `
   // Score MNA by djibe
-  window.addEventListener( 'load', event => {
-    const scoremna = document.getElementById('mnaScore')
-    const textmna = document.getElementById('mnaText');
-    [...document.querySelectorAll('#score-mna input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calcMna() ) })
-    const calcMna = () => {
-      let score = 0
-      const mnaElemsChecked = document.querySelectorAll('#score-mna input[type=\"radio\"]:checked')
-      mnaElemsChecked.forEach(mnaElemChecked => {
-        score += parseInt(mnaElemChecked.value, 10)
-        if (mnaElemsChecked.length === 6) {
-          scoremna.innerHTML = score
-          if (score <= 7) {
-            textmna.innerHTML = 'Dénutrition avérée'
-          } else if (score >= 8 && score <= 11) {
-            textmna.innerHTML = 'À risque de dénutrition'
-          } else {
-            textmna.innerHTML = 'État nutritionnel normal'
-          }
-        }
-      })
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoremna = document.getElementById('mnaScore');
+  const textmna = document.getElementById('mnaText');
+  const container = document.getElementById('score-mna');
+
+  const calcMna = () => {
+    const checkedBoxes = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (checkedBoxes.length !== 6) return;
+
+    let score = 0;
+    checkedBoxes.forEach(radio => score += parseInt(radio.value, 10) || 0);
+
+    scoremna.textContent = score;
+
+    if (score <= 7) {
+      textmna.textContent = 'Dénutrition avérée';
+    } else if (score <= 11) {
+      textmna.textContent = 'À risque de dénutrition';
+    } else {
+      textmna.textContent = 'État nutritionnel normal';
     }
-  })` }}
+  };
+
+  container.addEventListener('change', (event) => {
+    if (event.target.matches('input[type="radio"]')) {
+      calcMna();
+    }
+  });
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

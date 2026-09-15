@@ -265,43 +265,58 @@
 </div>
 {{ $script := `
   // Score de Glasgow by djibe
-  window.addEventListener( 'load', event => {
-    const scoreElem = document.getElementById('glasgowScore')
-    const textElem = document.getElementById('glasgowText')
-    const radioElems = document.querySelectorAll('#score-glasgow input[type=\"radio\"]')
-    const panels = document.querySelectorAll('.nav-tabs .nav-link')
-    const forms = document.getElementsByClassName('form')
-    radioElems.forEach((radioElem) => { radioElem.addEventListener('change', () => count() )})
-    // Reset counter on tab switch
-    panels.forEach((panel) => { panel.addEventListener('click', () => reset() )
-    })
-    const reset = () => {
-      radioElems.forEach(radio => {
-        radio.checked = false
-        scoreElem.innerHTML = 0
-        textElem.innerHTML = 'Compléter les 3 parties.'
-      })
+  document.addEventListener('DOMContentLoaded', () => {
+  const scoreElem = document.getElementById('glasgowScore');
+  const textElem = document.getElementById('glasgowText');
+  const container = document.getElementById('score-glasgow');
+  const radioElems = container ? container.querySelectorAll('input[type="radio"]') : [];
+  const panels = document.querySelectorAll('.nav-tabs .nav-link');
+
+  const reset = () => {
+    radioElems.forEach(radio => {
+      radio.checked = false;
+    });
+    scoreElem.textContent = '0';
+    textElem.textContent = 'Compléter les 3 parties.';
+  };
+
+  const count = () => {
+    const checkedRadios = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (checkedRadios.length < 3) {
+      scoreElem.textContent = '0';
+      textElem.textContent = 'Compléter les 3 parties.';
+      return;
     }
-    const count = () => {
-      let score = 0
-      const radioElemsChecked = document.querySelectorAll('input[type=\"radio\"]:checked')
-      if (radioElemsChecked.length >= 3) {
-        radioElemsChecked.forEach(radioChecked => {
-        score += parseInt(radioChecked.value, 10)
-        scoreElem.innerHTML = score
-        if (score === 15) {
-          textElem.innerHTML = 'Conscience normale'
-        } else if (score >= 10 && score <= 14) {
-          textElem.innerHTML = 'Somnolence ou coma léger'
-        } else if (score >= 7 && score <= 9) {
-          textElem.innerHTML = 'Coma lourd'
-        } else if (score >= 3 && score <= 6) {
-          textElem.innerHTML = 'Coma profond'
-        } else {
-          textElem.innerHTML = 'Compléter les 3 parties.'
-        }
-        })
+
+    let score = 0;
+    checkedRadios.forEach(radio => {
+      score += parseInt(radio.value, 10) || 0;
+    });
+
+    scoreElem.textContent = score;
+
+    if (score === 15) {
+      textElem.textContent = 'Conscience normale';
+    } else if (score >= 10) {
+      textElem.textContent = 'Somnolence ou coma léger';
+    } else if (score >= 7) {
+      textElem.textContent = 'Coma lourd';
+    } else {
+      textElem.textContent = 'Coma profond';
+    }
+  };
+
+  if (container) {
+    container.addEventListener('change', event => {
+      if (event.target.matches('input[type="radio"]')) {
+        count();
       }
-    }
-  })` }}
+    });
+  }
+
+  panels.forEach(panel => {
+    panel.addEventListener('click', reset);
+  });
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

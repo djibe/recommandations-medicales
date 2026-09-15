@@ -1,4 +1,4 @@
-<p>Le questionnaire DN4 est un test de référence validé, en médecine de la douleur (algologie), pour l’aide au diagnostic de la douleur neuropathique.</p>
+<p>Le questionnaire DN4 est un score de référence, validé en médecine de la douleur (algologie), pour l’<strong>aide au diagnostic de la douleur neuropathique</strong>.</p>
 <div class="card-body" id="score-dn4">
   <fieldset>
     <legend>1. La douleur présente-t-elle une ou plusieurs des caractéristiques suivantes ?</legend>
@@ -49,8 +49,6 @@
   const scoreElement = document.getElementById('dn4Score');
   const textElement = document.getElementById('dn4Text');
   const checkboxes = document.querySelectorAll('#score-dn4 input[type="checkbox"]');
-
-  if (!scoreElement || !textElement) return;
 
   function updateScore() {
     let score = 0;

@@ -1,5 +1,6 @@
 <div class="my-4" id="score-lequesne">
-  <p>L’indice algo-fonctionnel de Lequesne pour le genou est une échelle de référence en rhumatologie pour l’évaluation du retentissement fonctionnel de la gonarthrose (arthrose du genou),
+  <p>L’indice algo-fonctionnel de Lequesne pour le <strong>genou</strong> est une échelle de référence en rhumatologie,
+    validée en rhumatologie pour l’évaluation du <strong>retentissement fonctionnel de la gonarthrose</strong> (arthrose du genou),
     son suivi et pour envisager une prothèse de genou (seuil ≥ 10-12 - Académie de médecine).</p>
   <hr>
   <p class="lead">I - Douleur ou gêne</p>
@@ -128,7 +129,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score</p>
-      <output class="score-output" id="lequesneScore">0</output>
+      <output class="score-output" id="lequesneScore">-</output>
     </div>
     <p id="lequesneText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -140,39 +141,40 @@
 </blockquote>
 {{ $script := `
   // Score Lequesne-hip by djibe
-  window.addEventListener( 'load', event => {
-    const scorelequesne = document.getElementById('lequesneScore')
-    const textlequesne = document.getElementById('lequesneText');
-    [...document.querySelectorAll('#score-lequesne input[type=\"radio\"]')].forEach((elem) => { elem.addEventListener('click', () => calclequesne() ) })
-    const calclequesne = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('#score-lequesne input[type=\"radio\"]:checked')
-        elemsChecked.forEach(elemChecked => {
-        score += parseFloat(elemChecked.value, 10)
-        if (elemsChecked.length === 11) {
-          scorelequesne.innerHTML = score
-          if (score <= 4) {
-            textlequesne.innerHTML = "Handicap modeste ou pas de handicap"
-          }
-          else if (score >= 5 && score <= 7) {
-            textlequesne.innerHTML = "Handicap modeste ou pas de handicap"
-          }
-          else if (score >= 8 && score <= 9) {
-            textlequesne.innerHTML = "Handicap important"
-          }
-          else if (score == 10) {
-            textlequesne.innerHTML = "Handicap important<br>Une chirurgie peut être indiquée"
-          }
-          else if (score >= 11 && score <= 13) {
-            textlequesne.innerHTML = "Handicap très important<br>Avis orthopédique pour prothèse"
-          }
-          else if (score >= 14) {
-            textlequesne.innerHTML = "Handicap extrême, insupportable<br>Avis orthopédique pour prothèse"
-          }
-        } else {
-          textlequesne.innerHTML = "Veuillez répondre à toutes les questions"
-        }
-      })
+  window.addEventListener('DOMContentLoaded', () => {
+  const scorelequesne = document.getElementById('lequesneScore');
+  const textlequesne = document.getElementById('lequesneText');
+  const radios = document.querySelectorAll('#score-lequesne input[type="radio"]');
+
+  const calclequesne = () => {
+    const elemsChecked = document.querySelectorAll('#score-lequesne input[type="radio"]:checked');
+
+    if (elemsChecked.length < 11) {
+      textlequesne.textContent = 'Veuillez répondre à toutes les questions';
+      scorelequesne.textContent = '-';
+      return;
     }
-  })` }}
+
+    let score = 0;
+    elemsChecked.forEach(elemChecked => score += parseFloat(elemChecked.value) || 0);
+
+    scorelequesne.textContent = score;
+
+    if (score <= 7) {
+      textlequesne.textContent = 'Handicap modeste ou pas de handicap';
+    } else if (score <= 9) {
+      textlequesne.textContent = 'Handicap important';
+    } else if (score === 10) {
+      textlequesne.innerHTML = 'Handicap important<br>Une chirurgie peut être indiquée';
+    } else if (score <= 13) {
+      textlequesne.innerHTML = 'Handicap très important<br>Avis orthopédique pour prothèse';
+    } else {
+      textlequesne.innerHTML = 'Handicap extrême, insupportable<br>Avis orthopédique pour prothèse';
+    }
+  };
+
+  radios.forEach(elem => {
+    elem.addEventListener('change', calclequesne);
+  });
+});` }}
 <script type="module">{{ $script | safeJS }}</script>

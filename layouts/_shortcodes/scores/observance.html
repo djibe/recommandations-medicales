@@ -1,5 +1,5 @@
 <div class="my-4" id="score-observance">
-  <p>Évaluation de l’observance d’un traitement médicamenteux.</p>
+  <p>Évaluation de l’observance d’un traitement médicamenteux (Girerd X et al 2001).</p>
   <fieldset>
     <legend>Ce matin avez-vous oublié de prendre votre traitement ?</legend>
     <input type="radio" id="observance-11" name="observance-1" class="d-input-none" value="1" required>
@@ -47,7 +47,7 @@
   <div class="alert bg-light d-flex mt-md-4">
     <div class="d-flex flex-column align-items-center justify-content-evenly">
       <p class="typography-overline score-output-title">Score</p>
-      <output class="score-output" id="observanceScore">0</output>
+      <output class="score-output" id="observanceScore">-</output>
     </div>
     <p id="observanceText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
@@ -57,36 +57,44 @@
     <a
       href="https://www.ameli.fr/sites/default/files/Documents/5074/document/evaluation-observance-traitement_assurance-maladie.pdf"
       rel="external nofollow noopener"
-      >Girerd X. et al. Évaluation de l’observance par l’interrogatoire au cours du suivi des hypertendus
+      >Girerd X, et al. Évaluation de l’observance par l’interrogatoire au cours du suivi des hypertendus
       dans des consultations spécialisées - Arch Mal Cœur Vaiss. 2001 Aug ; 94 (8) : 839-42 (PDF)</a>
   </p>
 </blockquote>
 {{ $script := `
   // Score Observance by djibe
-  window.addEventListener( 'load', event => {
-    const scoreObservance = document.getElementById('observanceScore')
-    const textObservance = document.getElementById('observanceText');
-    [...document.querySelectorAll('#score-observance input[type=\"radio\"]')].forEach((observanceElem) => { observanceElem.addEventListener('click', () => calcObservanceScore() ) })
-    const calcObservanceScore = () => {
-      let score = 0
-      const elemsChecked = document.querySelectorAll('#score-observance input[type=\"radio\"]:checked')
-        elemsChecked.forEach(observanceElemChecked => {
-        score += parseInt(observanceElemChecked.value, 10)
-        if (elemsChecked.length === 6) {
-          scoreObservance.innerHTML = score
-          if (score === 0) {
-            textObservance.innerHTML = "Bonne observance"
-          }
-          else if (score >= 1 && score <= 2) {
-            textObservance.innerHTML = "Non observant mineur"
-          }
-          else if (score >= 3) {
-            textObservance.innerHTML = "Non observant"
-          }
-        } else {
-          textObservance.innerHTML = "Veuillez répondre à toutes les questions"
-        }
-      })
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoreObservance = document.getElementById('observanceScore');
+  const textObservance = document.getElementById('observanceText');
+  const container = document.getElementById('score-observance');
+
+  const calcObservanceScore = () => {
+    const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
+
+    if (elemsChecked.length !== 6) {
+      scoreObservance.textContent = '-';
+      textObservance.textContent = 'Veuillez répondre à toutes les questions';
+      return;
     }
-  })` }}
+
+    let score = 0;
+    elemsChecked.forEach(observanceElemChecked => score += parseInt(observanceElemChecked.value, 10) || 0);
+
+    scoreObservance.textContent = score;
+
+    if (score === 0) {
+      textObservance.textContent = 'Bonne observance';
+    } else if (score <= 2) {
+      textObservance.textContent = 'Non observant mineur';
+    } else {
+      textObservance.textContent = 'Non observant';
+    }
+  };
+
+  container.addEventListener('change', (event) => {
+    if (event.target.matches('input[type="radio"]')) {
+      calcObservanceScore();
+    }
+  });
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

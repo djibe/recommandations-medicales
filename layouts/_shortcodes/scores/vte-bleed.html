@@ -1,6 +1,7 @@
 <div class="card-body" id="score-vte-bleed">
-  <p>Évaluation du risque hémorragique sous anticoagulant recommandée par la <dfn><abbr title="Société Européenne de Cardiologie">ESC</abbr></dfn> 2019. Il doit être réévalué régulièrement chez les patients anticoagulés.</p>
-  <p>Il a été validé pour évaluer le risque hémorragique sous AVK et AOD après anticoagulation
+  <p>Le score VTE-BLEED est un questionnaire validé pour l’évaluation du <strong>risque hémorragique sous anticoagulant</strong>.
+    Il est recommandé par la <dfn><abbr title="Société Européenne de Cardiologie">ESC</abbr></dfn> 2019. Il doit être réévalué régulièrement chez les patients anticoagulés.</p>
+  <p><strong>NB.</strong> Il a été validé pour évaluer le risque hémorragique sous AVK et AOD après anticoagulation
     initiale par HBPM.</p>
   <div class="custom-control custom-checkbox">
     <input type="checkbox" id="vte-bleed-1" class="custom-control-input" value="1.5">
@@ -41,24 +42,29 @@
 </blockquote>
 {{ $script := `
   // Score VTE-BLEED by djibe
-  window.addEventListener( 'load', event => {
-    const scoreVteBleed = document.getElementById('vtebleedScore')
-    const textVteBleed = document.getElementById('vtebleedText');
-    var vteBleedElems = document.querySelectorAll('#score-vte-bleed input');
-    vteBleedElems.forEach((elem) => { elem.addEventListener('change', () => calcVteBleed() ) })
-    const calcVteBleed = () => {
-      let score = 0
-      vteBleedElems.forEach(bledElem => {
-        if (bledElem.checked) {
-          score += parseInt(bledElem.value, 10)
-          scoreVteBleed.innerHTML = score
-          if (score < 2) {
-            textVteBleed.innerHTML = 'Risque hémorragique <strong>faible</strong>'
-          } else if (score >= 2) {
-            textVteBleed.innerHTML = 'Risque hémorragique <strong>élevé</strong>'
-          }
-        }
-      })
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoreVteBleed = document.getElementById('vtebleedScore');
+  const textVteBleed = document.getElementById('vtebleedText');
+  const vteBleedInputs = document.querySelectorAll('#score-vte-bleed input');
+
+  const calcVteBleed = () => {
+    let score = 0;
+
+    vteBleedInputs.forEach(input => {
+      if (input.checked) {
+        score += parseInt(input.value, 10) || 0;
+      }
+    });
+
+    scoreVteBleed.textContent = score;
+
+    if (score >= 2) {
+      textVteBleed.innerHTML = 'Risque hémorragique <strong>élevé</strong>';
+    } else {
+      textVteBleed.innerHTML = 'Risque hémorragique <strong>faible</strong>';
     }
-  })` }}
+  };
+
+  vteBleedInputs.forEach(input => input.addEventListener('change', calcVteBleed));
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

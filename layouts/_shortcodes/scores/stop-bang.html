@@ -1,6 +1,6 @@
 <div class="card-body" id="score-stop-bang">
-  <p class="mt-2 mb-4">Le score <dfn><abbr title="Snoring-Tired-Observed-Pressure - BMI-Age-Neck size-Gender" lang="en">STOP-BANG</abbr></dfn> est le score validé
-    le plus puissant pour le dépistage du syndrome d’apnées obstructives du sommeil (SAHOS).</p>
+  <p class="mt-2 mb-4">Le score <dfn><abbr title="Snoring-Tired-Observed-Pressure - BMI-Age-Neck size-Gender" lang="en">STOP-BANG</abbr></dfn> est le questionnaire validé
+    le plus puissant pour le <strong>dépistage du syndrome d’apnées obstructives du sommeil</strong> (SAHOS).</p>
   <p><strong>NB. Il ne doit pas être utilisé en cas de diabète.</strong></p>
   <div class="custom-control custom-checkbox">
     <input type="checkbox" id="stopbang1" class="custom-control-input stopbang-majeur" value="1">
@@ -47,49 +47,58 @@
 </div>
 <blockquote class="blockquote my-2 my-lg-4">
   <small class="mb-0" lang="en">
-    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4153119/" rel="external nofollow noopener">Chung F et al. J Clin Sleep Med. 2014 Sep 15; 10(9): 951–958.</a>
+    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4153119/" rel="external nofollow noopener">Chung F, et al. J Clin Sleep Med. 2014 Sep 15; 10(9): 951–958.</a>
     et STOP-BANG (BE-fre) 22MAY2015 FINAL (PDF)</small>
 </blockquote>
 {{ $script := `
   // Score STOP-BANG by djibe
-  window.addEventListener( 'load', event => {
-    const scoreStopBang = document.getElementById('stopbangScore')
-    const textStopBang = document.getElementById('stopbangText')
-    const checkboxHomme = document.getElementById('stopbang7')
-    const checkboxObesite = document.getElementById('stopbang5')
-    const checkboxTourCou = document.getElementById('stopbang8')
-    const messageTourCou = document.getElementById('message-tour-cou');
-    [...document.querySelectorAll('#score-stop-bang input[type=\"checkbox\"]')].forEach((elem) => { elem.addEventListener('click', () => {
-      messageSexe()
-      stopBang()
-    }) })
-    const messageSexe = () => {
-      checkboxHomme.checked ? messageTourCou.innerHTML = 43 : messageTourCou.innerHTML = 41
-    }
-    const stopBang = () => {
-      let score = 0
-      let majeur = 0
-      const elemsChecked = document.querySelectorAll('#score-stop-bang input[type=\"checkbox\"]:checked')
-      elemsChecked.forEach(elemChecked => {
-        if (elemChecked.classList.contains('stopbang-majeur')) {
-          majeur += 1
-        }
-        score += parseInt(elemChecked.value, 10)
-        scoreStopBang.innerHTML = score
-        if (majeur >= 2 && checkboxHomme.checked
-        || majeur >= 2 && checkboxObesite.checked
-        || majeur >= 2 && checkboxTourCou.checked
-        || score >= 5 && score <= 8) {
-          textStopBang.innerHTML = '<strong>Risque élevé</strong> de SAOS'
-        } else if (score <= 2) {
-          textStopBang.innerHTML = '<strong>Faible risque</strong> de SAOS'
-        } else if (score >= 3 && score <= 4) {
-          textStopBang.innerHTML = '<strong>Risque moyen</strong> de SAOS'
-        }
-      })
-      if (elemsChecked.length === 0) {
-        scoreStopBang.innerHTML = 0
+  window.addEventListener('DOMContentLoaded', () => {
+  const scoreStopBang = document.getElementById('stopbangScore');
+  const textStopBang = document.getElementById('stopbangText');
+  const checkboxHomme = document.getElementById('stopbang7');
+  const checkboxObesite = document.getElementById('stopbang5');
+  const checkboxTourCou = document.getElementById('stopbang8');
+  const messageTourCou = document.getElementById('message-tour-cou');
+  const checkboxes = document.querySelectorAll('#score-stop-bang input[type="checkbox"]');
+
+  const updateNeckMessage = () => {
+    messageTourCou.textContent = checkboxHomme.checked ? '43' : '41';
+  };
+
+  const calculateStopBang = () => {
+    const elemsChecked = document.querySelectorAll('#score-stop-bang input[type="checkbox"]:checked');
+
+    let score = 0;
+    let majeur = 0;
+
+    elemsChecked.forEach(elem => {
+      score += parseInt(elem.value, 10) || 0;
+      if (elem.classList.contains('stopbang-majeur')) {
+        majeur += 1;
       }
+    });
+
+    scoreStopBang.textContent = score;
+
+    const hasHighRiskFactors = checkboxHomme.checked || checkboxObesite.checked || checkboxTourCou.checked;
+
+    if (score >= 5 || (majeur >= 2 && hasHighRiskFactors)) {
+      textStopBang.innerHTML = '<strong>Risque élevé</strong> de SAOS';
+    } else if (score >= 3) {
+      textStopBang.innerHTML = '<strong>Risque moyen</strong> de SAOS';
+    } else {
+      textStopBang.innerHTML = '<strong>Faible risque</strong> de SAOS';
     }
-  })` }}
+  };
+
+  checkboxes.forEach(checkbox => {
+    checkbox.addEventListener('change', () => {
+      updateNeckMessage();
+      calculateStopBang();
+    });
+  });
+
+  updateNeckMessage();
+  calculateStopBang();
+})` }}
 <script type="module">{{ $script | safeJS }}</script>

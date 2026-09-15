@@ -1,6 +1,7 @@
 <div class="my-4" id="score-ehp5">
   <h3 class="card-title">Échelle EHP 5</h3>
-  <p>L’échelle <dfn><abbr title="Endometriosis health profile 5" lang="en">EHP-5</abbr></dfn> (Endometriosis health profile 5) est un test validé de référence pour explorer la qualité de vie chez la femme atteinte d’endométriose.</p>
+  <p>L’échelle <dfn><abbr title="Endometriosis health profile 5" lang="en">EHP-5</abbr></dfn> (Endometriosis health profile 5) est un test de référence,
+    validé pour explorer la <strong>qualité de vie chez la femme atteinte d’endométriose</strong>.</p>
   <p class="my-3">Au cours des 4 dernières semaines, combien de fois, du fait de votre endométriose...</p>
   <fieldset>
     <legend>1. Avez-vous éprouvé des difficultés à marcher à cause des douleurs ?</legend>
@@ -171,8 +172,6 @@ window.addEventListener('DOMContentLoaded', () => {
   const scoreEHP5 = document.getElementById('ehp5Score');
   const textEHP5 = document.getElementById('ehp5Text');
   const radioButtons = document.querySelectorAll('#score-ehp5 input[type="radio"]');
-
-  if (!scoreEHP5 || !textEHP5) return;
 
   function calcEhp5() {
     let score = 0;
