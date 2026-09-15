@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-04-27T13:31:56+02:00"
 publishdate = "2020-04-27"
-lastmod = "2026-09-11"
+lastmod = "2026-09-15"
 specialites = ["néphrologie"]
 annees = "2026"
 sources = ["ESC", "ERA", "KDIGO", "HAS"]
@@ -29,7 +29,7 @@ todo = "SEO, Albuminurie perturbée, aliments riches K/P (HAS2023p71), désindex
 
 - Dépistage annuel des populations à risque d'insuffisance rénale chronique par créatininémie et albuminurie sur échantillon
 - 3 piliers de l'évaluation de la maladie rénale chronique: étiologie, estimation du débit de filtration glomérulaire (DFG) selon CKD-EPI et rapport albuminurie/créatininurie (RAC)
-- Toute personne avec une insuffisance rénale chronique est à {{< modal-btn modal-rcv >}}risque cardiovasculaire ou{{< /modal-btn >}}
+- Toute personne avec une insuffisance rénale chronique est à {{< modal-btn modal-rcv >}}risque cardiovasculaire au moins élevé{{< /modal-btn >}} (voire modéré en prévention primaire, utiliser le [SCORE2 CKD Add-On](https://ckdpcrisk.org/ckdpatchscore/) en prévention primaire)
 - Néphroprotection et prise en charge de l'insuffisance rénale:  
   Arrêt du tabac, {{< modal-btn modal-nephrotoxiques >}}éviter les néphrotoxiques{{< /modal-btn >}}, tension cible < 120/90 mmHg, {{< modal-btn modal-rcv >}}LDL < 0,7 voire 0,55 g/L{{< /modal-btn >}}, {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} dose maximale tolérée, souvent {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}}, vaccinations, activité physique
 - Adaptation des traitements selon le DFG {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
@@ -193,8 +193,8 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 | :---: | :---: | ------------------------------- |
 |   1   | ≥ 90  | MRC avec DFG normal ou augmenté |
 |   2   | 60-89 | MRC avec DFG légèrement diminué |
-|  3A   | 45-59 | IRCe                     |
-|  3B   | 30-44 | IRCe                     |
+|  3A   | 45-59 | IRC modérée                     |
+|  3B   | 30-44 | IRC modérée                     |
 |   4   | 15-29 | IRC sévère                      |
 |   5   | < 15  | IRC terminale                   |
 {caption="Stades de la maladie rénale chronique et de l'insuffisance rénale chronique selon *KDIGO 2024* (depuis 2012; à partir de 2 ans)"}
@@ -204,7 +204,7 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 | Stade | mg/mmol |   mg/g | mg/24h | Définition                      |
 | ----- | ------: | -----: | -----: | ------------------------------- |
 | A1    |     < 3 |   < 30 |   < 30 | Normale ou légèrement augmentée |
-| A2    |    3-30 | 30-300 | 30-300 |ment augmentée            |
+| A2    |    3-30 | 30-300 | 30-300 | Modérément augmentée            |
 | A3    |    > 30 |  > 300 |  > 300 | Sévèrement augmentée            |
 {caption="Classification de l'albuminurie selon *KDIGO 2024* (depuis 2012)"}
 
@@ -228,14 +228,17 @@ Recherche de signes étiologiques et du retentissement de la maladie rénale:
 - Stade avancé: syndrome urémique  
   Fatigue, dyspnée, anorexie, nausées, vomissements, prurit, syndrome des jambes sans repos, crampes nocturnes, nycturie, troubles cognitifs, somnolence, hémorragies, troubles endocriniens, hypertension sévère.
 - Sujet âgé: évaluation gériatrique
-- Évaluation du **risque cardiovasculaire**: [SCORE2 CKD Add-On](https://ckdpcrisk.org/ckdpatchscore/) en prévention primaire ou grille pour le {{< modal-btn modal-rcv >}}risque secondaire{{< /modal-btn >}}
+- Évaluation du **risque cardiovasculaire**: ==**[SCORE2 CKD Add-On](https://ckdpcrisk.org/ckdpatchscore/)**== en prévention primaire ou grille pour le {{< modal-btn modal-rcv >}}risque secondaire{{< /modal-btn >}}
+- Évaluation du risque d'insuffisance cardiaque à 10 ans: SCORE2-HF
+
+Puis évaluer le risque de progression (score KFRE, et stade G-A).
 
 ### 4) Critères pour apprécier l'évolutivité de la MRC
 
 La maladie rénale est considérée comme **évolutive** en cas de présence de facteur ci-dessous (déclin annuel rapide du DFG, différence entre 2 annnées calculé par: DFGe année n - DFGe année n+1)
 
 - {{%class%}}Déclin annuel si ≥ 2 et < 5 mL/min/1,73m²{{%/class%}}
-- Stade G3-G: calcul du [score KFRE](https://kidneyfailurerisk.com) (évolutif si > 3 % à 5 ans)
+- **Stade G3-G5**: calcul du ==**[score KFRE](https://kidneyfailurerisk.com)**== (évolutif si > 3 % à 5 ans)
 - **Déclin rapide** si variation annuelle du DFG ≥ -5 mL/min/1,73m²
 - Présence d'une albuminurie (surtout si sévère > 500 mg/g)
 - Hypertension artérielle non contrôlée
