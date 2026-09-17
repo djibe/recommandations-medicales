@@ -54,8 +54,9 @@ Maladie cardiovasculaire, risque d'infarctus du myocarde multiplié par 6-10 dan
 ### Épidémiologie de la grippe en France
 
 - 10.000 morts/an dont +90 % chez les +65 ans.
-- Couverture vaccinale 2019-2020 des personnes à risque: 45 % (objectif *OMS* de 75%), 21 % chez les femmes enceintes (*BEH 2023*)
-- Admis en réanimation pour grippe: mortalité de 20%.
+- Couverture vaccinale 2024-2025 des personnes à risque: 54 % après 65 ans (objectif *OMS* de 75 %), 25 % avant 65 ans (*BEH 2026*) et 21 % chez les femmes enceintes (*BEH 2023*)
+- Couverture vaccinale des professionnels de santé en EHPAD: 24,2 %
+- Admis en réanimation pour grippe: mortalité de 20 %
 
 {{% /collapse %}}
 {{%collapse "Personnes à risque de grippe grave" %}}
@@ -220,6 +221,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Vaux S, et al. Évolution des couvertures vaccinales nationales contre la grippe saisonnière chez les personnes à risque et les professionnels de santé en France, 2007-2025. Bull Epidemiol Hebd. 2026.](https://beh.santepubliquefrance.fr/beh/2026/18/2026_18_2.html)
 - {{< references/calendrier-vaccinal >}}
 - [CBIP. Nouvelles données sur le vaccin antigrippal à haute dose. Folia. 2025.](https://www.cbip.be/fr/articles/4625?folia=4621)
 - [HAS. Vaccination contre la grippe saisonnière des personnes de 65 ans et plus. Place des vaccins Efluelda et Fluad. 2025.](https://www.has-sante.fr/jcms/p_3604446/fr/vaccination-contre-la-grippe-saisonniere-des-personnes-de-65-ans-et-plus-place-des-vaccins-efluelda-et-fluad)

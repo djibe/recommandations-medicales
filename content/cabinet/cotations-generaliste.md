@@ -5,7 +5,7 @@ description = "Aide à la cotation des consultations en médecine générale: co
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2026-08-28"
+lastmod = "2026-09-16"
 annees = "2026"
 sources = ["Assurance Maladie"]
 tags = []
@@ -18,17 +18,14 @@ todo = "FS exemple frottis, jour férié, routexl, MPH aussi quand change de MT 
 Liste des codes pour les actes et les consultations des adultes et des enfants en médecine générale.
 {.lead}
 
-## Les nouvelles cotations en 2026
+{{%collapse "Les nouvelles cotations en 2026" %}}
 
 - La spirométrie (GLQP012 41,08 €) peut être couplée à la consultation (G)
 - COE à 60 €
 - Nouvelles consultations longues pour les +80 ans GL1 (sortie d'hospit dans les 45j), GL2 (déprescription d'ordo ≥ 10 lignes) et GL3 (dossier APA), 60 €, 1 fois par an
 
+{{% /collapse %}}
 {{%collapse "Autres mises à jour" %}}
-
-## Les nouvelles cotations en 2025
-
-- Les certificats obligatoires du nourrisson (COE) ne sont finalement pas passés à 60 € le 1^er^ juillet
 
 ## Les cotations de 2024 à ne pas oublier
 
@@ -37,8 +34,7 @@ Liste des codes pour les actes et les consultations des adultes et des enfants e
 - Le G passé à 30 € le 22 décembre (GS disparu; 23 € en Secteur 2), le COE à 54 €
 
 {{% /collapse %}}
-
-## Les outils d'aide à la cotation du généraliste
+{{%collapse "Les outils d'aide à la cotation du généraliste" %}}
 
 Les outils *OMNIPrat* et *CotaMG* permettent aux jeunes médecins d'apprendre à compléter les feuilles de soins et de connaître la cotation des actes en médecine générale (*NGAP* = Nomenclature Générale des Actes Professionnels)
 
@@ -46,7 +42,8 @@ Les outils *OMNIPrat* et *CotaMG* permettent aux jeunes médecins d'apprendre à
 
 {{< card-link-external title="Outil d'aide à la cotation et au remplissage des feuilles de soins" url="https://www.cotamg.fr" subtitle="CotaMG">}}
 
-## Les cotations pour les médecins généralistes {.text-primary .mt-5}
+{{% /collapse %}}
+{{%collapse "Les cotations pour les médecins généralistes" "show" %}}
 
 <div class="card card-hover my-3 mb-xl-5">
   <ul class="nav nav-tabs nav-justified" id="tabs-cotations" role="tablist" style="overflow-x: hidden">
@@ -188,8 +185,8 @@ Pour les sutures, voir la [fiche Omniprat](https://omniprat.org/fiches-pratiques
 | ----------- | ----------- | -------------: |
 | + DEQP003   | ECG 12 dérivations | 14,52   |
 | + JKHD001   | Frottis cervico-vaginal | 12,73 |
-| ALQP003     | Test standardisé d'évaluation d'une dépression: {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, Beck, MADRS, MMPI et STAI (max 1/an) | 69,12 |
-| ALQP006     | Test standardisé d'évaluation d'un déficit cognitif: [MMSE](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/mmse.pdf), {{< scores/moca >}}, GP-COG, MIS, Codex, 5 mots de Dubois (max 1/an) | 69,12 |
+| ALQP003     | Test standardisé d'évaluation d'une dépression: [Hamilton]({{% relref "hamilton.md" %}}),<br> Beck, MADRS, MMPI et STAI (max 1/an) | 69,12 |
+| ALQP006     | Test standardisé d'évaluation d'un déficit cognitif: [MMSE](https://www.has-sante.fr/upload/docs/application/pdf/2012-04/mmse.pdf),<br> {{< scores/moca >}}, GP-COG, MIS, Codex, 5 mots de Dubois (max 1/an) | 69,12 |
 | JKLD001     | Pose d'un stérilet | 38,40 |
 | JKKD001     | Changement d'un stérilet | 38,40 |
 | QZGA002     | Ablation ou changement d'un implant | 41,80 |
@@ -207,7 +204,8 @@ L'extraction de cérumen (CAGD001) à 19,63 € n'a pas d'intérêt.
   </div>
 </div>
 
-## Sources
+{{% /collapse %}}
+{{% sources %}}
 
 - [Ameli Médecin. Patients âgés de plus de 80 ans : la consultation longue valorise leur prise en charge. 24/06/2026.](https://www.ameli.fr/medecin/actualites/patients-ages-de-plus-de-80-ans-la-consultation-longue-valorise-leur-prise-en-charge)
 - [Ameli. Tarifs conventionnels des médecins généralistes et spécialistes. 30/06/2025.](https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/consultations-actes/tarifs/tarifs-conventionnels-medecins-generalistes-specialistes)
@@ -221,8 +219,4 @@ L'extraction de cérumen (CAGD001) à 19,63 € n'a pas d'intérêt.
 - G, APC, MHP, [Article 50 (PDF)](https://www.fmfpro.org/wp-content/uploads/2024/12/Article_50.pdf)
 - [Suhard V. Historique des conventions médicales. IRDES. 2022. (PDF)](https://www.irdes.fr/documentation/syntheses/historique-des-conventions-medicales.pdf)
 
-{{% modal title="Echelle de depression de Hamilton" id="modal-hamilton"%}}
-
-{{< scores/hamilton >}}
-
-{{% /modal %}}
+{{% /sources %}}

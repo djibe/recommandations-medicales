@@ -390,7 +390,7 @@ Interrogatoire policier pour rechercher des signes et symptômes d'asthme:
   - {{< modal-btn modal-score-act >}}Contrôle de l'asthme{{< /modal-btn >}}
   - Suivi médical
 - Exacerbation  
-  Facteur déclenchant: virose, allergène, fumée, exercice, stress, traitement (BB, aspirine, AINS).
+  Facteur déclenchant parmi: virose, allergène, fumée, exercice, stress, traitement (bêtabloquant; aspirine ou AINS).
 
 ### Examen clinique
 

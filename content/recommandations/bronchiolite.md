@@ -450,6 +450,7 @@ Les autres traitements exposent à des effets indésirables parfois graves.
 {{%sources%}}
 
 - {{< references/calendrier-vaccinal >}}
+- [ANSM. Prévention des hospitalisations pour bronchiolite chez le nouveau né : Beyfortus montre une efficacité supérieure à celle offerte par Abrysvo. 22/12/2025.](https://ansm.sante.fr/actualites/prevention-des-hospitalisations-pour-bronchiolite-chez-le-nouveau-ne-beyfortus-montre-une-efficacite-superieure-a-celle-offerte-par-abrysvo)
 - [DGS-Urgent 2025_15. Modalités de mise en œuvre de la campagne d'immunisation des nourrissons et nouveau-nés contre les infections à virus respiratoire syncitial (VRS). 28/01/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
 - [HAS. Recommandation vaccinale contre les infections à VRS chez les femmes enceintes. 2024.](https://has-sante.fr/jcms/p_3505344/fr/recommandation-vaccinale-contre-les-infections-a-vrs-chez-les-femmes-enceintes)
