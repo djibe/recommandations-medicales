@@ -247,6 +247,7 @@ Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut 
 - [Vaccin grippe]({{% relref "grippe.md" %}}) annuel
 - Développement d'un syndrome coronarien chronique: voir [chapitre dédié]({{% relref "syndrome-coronarien-chronique.md" %}})
 - Bilan complémentaire
+  - Créatinine, DFG, rapport albuminurie/créatininurie (RAC)
   - Échodopplers des TSA, AAA et membres inférieurs
   - Suivi cardiologique spécialisé au moins annuel
   - Épreuve d'effort tous les 2 ans (*HAS 2016*)

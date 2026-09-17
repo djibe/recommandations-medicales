@@ -438,7 +438,7 @@ Suivi après la sortie d'hospitalisation pour insuffisance cardiaque:
   - Activité physique
   - Vaccinations
 - Suivi paraclinique
-  - Suivi ionogramme et créatinine, NFS (min. 2/an), ferritinémie (≥ 100 ng/mL)
+  - Suivi ionogramme et créatinine, rapport albuminurie/créatininurie (RAC), NFS (min. 2/an), ferritinémie (≥ 100 ng/mL)
   - ECG annuel
   - ETT si symptômes (NYHA II 1-2 ans, + si aggravation)
 - Dépister annuellement anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}

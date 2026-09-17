@@ -211,7 +211,7 @@ Envisager un ECG de dépistage systématique à partir de 75 ans (ou avec dispos
 
 - NFS
 - Ionogramme sanguin
-- Créatininémie, DFG selon {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}
+- Créatinine, DFG selon {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}, rapport albuminurie/créatininurie (RAC)
 - Glycémie à jeun
 - TP, TCA
 - TSH
@@ -352,7 +352,7 @@ ECG de contrôle à 1-2 semaines (1 mois pour l'amiodarone).
 - FC au repos < 80 bpm
 - {{< modal-btn modal-observance >}}Observance{{< /modal-btn >}}
 - Complications: AVC/AIT, saignements
-- NFS, créatininémie, bilan hépatique (AOD)
+- NFS, créatininémie, rapport albuminurie/créatininurie (RAC), bilan hépatique (si AOD)
 - Cardiologique, ECG, Holter
 
 ### Suivi des traitements

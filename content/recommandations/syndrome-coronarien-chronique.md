@@ -260,6 +260,7 @@ Ensuite, le suivi proposé pour un sujet asymptomatique est:
 
 - Suivi cardiologique annuel
 - ECG à chaque visite
+- Créatinine, rapport albuminurie/créatininurie (RAC) annuel
 - Bilan lipidique tous les 1-2 ans
 - Échocardiographie et épreuve d'effort tous les 3-5 ans
 - Réadaptation cardiaque si baisse des performances

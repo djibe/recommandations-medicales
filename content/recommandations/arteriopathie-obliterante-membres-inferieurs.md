@@ -245,7 +245,7 @@ L'*ESC* encourage la **mesure de l'index de pression systolique** (IPS) par tout
   - ASAT ALAT
   - Glycémie à jeun
   - Bilan lipidique
-  - Créatininémie, {{< modal-btn modal-ckd-epi >}}DFG CKD-EPI{{< /modal-btn >}}, albuminurie sur échantillon
+  - Créatininémie, {{< modal-btn modal-ckd-epi >}}DFG CKD-EPI{{< /modal-btn >}}, albuminurie/créatininurie
 - ==Échodoppler artériel== des membres inférieurs, aorte et TSA
 - ECG de repos
 - Consultation de cardiologie
@@ -296,7 +296,7 @@ Recommandations pour la prise en charge de l'artériopathie (AOMI):
   - Vaccins: [grippe annuelle]({{% relref "grippe.md" %}}) (*SFMV 2020*), tétanos
 - Information du patient: [guide Ameli](https://www.ameli.fr/assure/sante/themes/arteriopathie-obliterante-arterite-des-membres-inferieurs/definition-causes-facteurs-risque)
 - **Suivi:**
-  - Suivi au moins annuel, IPS et doppler recontrôlés en cas de modification des symptômes
+  - Suivi au moins annuel, IPS et doppler recontrôlés en cas de modification des symptômes, rapport albuminurie/créatininurie (RAC)
   - Cardiologique systématique  
     Par {{< modal-btn modal-rcv >}}très haut risque cardiovasculaire{{< /modal-btn >}} pour évaluer le risque coronarien et d'insuffisance cardiaque.
   - Suivi angiologique
