@@ -1,12 +1,13 @@
-<!-- TODO: -->
 <div class="mt-4" id="score-beck">
-  <p>Le questionnaire abrégé de Beck (<dfn><abbr title="Beck depressive inventory" lang="en">BDI-13</abbr></dfn>) est un score de référence,
-    validé pour le <strong>dépistage d’une dépression</strong> en 13 questions.</p>
+  <p>L’échelle de dépression de Beck (<dfn><abbr title="Beck depressive inventory" lang="en">BDI-13</abbr></dfn> ou auto-questionnaire BDI) est un score de référence,
+    validé pour l’<strong>aide au diagnostic et à l’appréciation de la sévérité de la dépression</strong> de l’adulte en 13 questions.</p>
+    <hr>
   <p>Ce questionnaire comporte 13 séries de quatre propositions. Pour chaque série, lisez les quatre propositions,
     puis choisissez celle qui décrit le mieux votre état actuel de ces deux dernières semaines.
-    Entourez le numéro qui correspond à la proposition choisie</p>
+    Entourez le numéro qui correspond à la proposition choisie.</p>
+  <p><a href="http://www.amiform.com/web/documents-patients-douloureux/questionnaire_abrege_de_beck.pdf" rel="external nofollow noopener">Version imprimable</a></p>
   <fieldset>
-    <legend>A.</legend>
+    <legend class="font-weight-bold">A.</legend>
     <div class="custom-control custom-radio">
       <input type="radio" id="beck-11" name="radio-beck-1" class="custom-control-input" value="0" required>
       <label for="beck-11" class="custom-control-label">Je ne me sens pas triste</label>
@@ -15,144 +16,348 @@
       <input type="radio" id="beck-12" name="radio-beck-1" class="custom-control-input" value="1">
       <label for="beck-12" class="custom-control-label">Je me sens cafardeux ou triste</label>
     </div>
-    <input type="radio" id="beck-13" name="radio-beck-1" class="d-input-none" value="2">
-    <label for="beck-13" class="chip chip-action chip-sm chip-choice">Je me sens tout le temps cafardeux ou triste, et je n’arrive pas à en sortir</label>
-    <input type="radio" id="beck-14" name="radio-beck-1" class="d-input-none" value="3">
-    <label for="beck-14" class="chip chip-action chip-sm chip-choice">Je suis si triste et si malheureux, que je ne peux pas le supporter</label>
-  </fieldset>
-  <fieldset>
-    <legend>B.</legend>
-    <input type="radio" id="beck-21" name="radio-beck-2" class="d-input-none" value="0" required>
-    <label for="beck-21" class="chip chip-action chip-sm chip-choice">Je ne suis pas particulièrement découragé, ni pessimiste au sujet de l’avenir</label>
-    <input type="radio" id="beck-22" name="radio-beck-2" class="d-input-none" value="1">
-    <label for="beck-22" class="chip chip-action chip-sm chip-choice">J’ai un sentiment de découragement au sujet de l’avenir</label>
-    <input type="radio" id="beck-23" name="radio-beck-2" class="d-input-none" value="2">
-    <label for="beck-23" class="chip chip-action chip-sm chip-choice">Pour mon avenir, je n’ai aucun motif d’espérer</label>
-    <input type="radio" id="beck-24" name="radio-beck-2" class="d-input-none" value="3">
-    <label for="beck-24" class="chip chip-action chip-sm chip-choice">Je sens qu’il n’y a aucun espoir pour mon avenir, et que la situation ne peut s’améliorer</label>
-  </fieldset>
-  <fieldset>
-    <legend>C.</legend>
-    <input type="radio" id="beck-31" name="radio-beck-3" class="d-input-none" value="0" required>
-    <label for="beck-31" class="chip chip-action chip-sm chip-choice">Je n’ai aucun sentiment d’échec de ma vie</label>
-    <input type="radio" id="beck-32" name="radio-beck-3" class="d-input-none" value="1">
-    <label for="beck-32" class="chip chip-action chip-sm chip-choice">J’ai l’impression que j’ai échoué dans ma vie plus que la plupart des gens.</label>
-    <input type="radio" id="beck-33" name="radio-beck-3" class="d-input-none" value="2">
-    <label for="beck-33" class="chip chip-action chip-sm chip-choice">Quand je regarde ma vie passée, tout ce que j’y découvre n’est qu’échecs</label>
-    <input type="radio" id="beck-34" name="radio-beck-3" class="d-input-none" value="3">
-    <label for="beck-34" class="chip chip-action chip-sm chip-choice">J’ai un sentiment d’échec complet dans toute ma vie personnelle (dans mes relations avec mes parents, mon mari, ma femme mes enfants)</label>
-  </fieldset>
-  <fieldset>
-    <legend>D.</legend>
-    <input type="radio" id="beck-41" name="radio-beck-4" class="d-input-none" value="0" required>
-    <label for="beck-41" class="chip chip-action chip-sm chip-choice">Je ne me sens pas particulièrement insatisfait</label>
-    <input type="radio" id="beck-42" name="radio-beck-4" class="d-input-none" value="1">
-    <label for="beck-42" class="chip chip-action chip-sm chip-choice">Je ne sais pas profiter agréablement des circonstances</label>
-    <input type="radio" id="beck-43" name="radio-beck-4" class="d-input-none" value="2">
-    <label for="beck-43" class="chip chip-action chip-sm chip-choice">Je ne tire plus aucune satisfaction de quoi que ce soit</label>
-    <input type="radio" id="beck-44" name="radio-beck-4" class="d-input-none" value="3">
-    <label for="beck-44" class="chip chip-action chip-sm chip-choice">Je suis mécontent de tout</label>
-  </fieldset>
-  <fieldset>
-    <legend>E.</legend>
-    <input type="radio" id="beck-51" name="radio-beck-5" class="d-input-none" value="0" required>
-    <label for="beck-51" class="chip chip-action chip-sm chip-choice">Je ne me sens pas coupable</label>
-    <input type="radio" id="beck-52" name="radio-beck-5" class="d-input-none" value="1">
-    <label for="beck-52" class="chip chip-action chip-sm chip-choice">Je me sens mauvais ou indigne une bonne partie du temps</label>
-    <input type="radio" id="beck-53" name="radio-beck-5" class="d-input-none" value="2">
-    <label for="beck-53" class="chip chip-action chip-sm chip-choice">Je me sens coupable</label>
-    <input type="radio" id="beck-54" name="radio-beck-5" class="d-input-none" value="3">
-    <label for="beck-54" class="chip chip-action chip-sm chip-choice">Je me juge très mauvais, et j’ai l’impression que je ne vaux rien</label>
-  </fieldset>
-  <fieldset>
-    <legend>F.</legend>
-    <input type="radio" id="beck-61" name="radio-beck-6" class="d-input-none" value="0" required>
-    <label for="beck-61" class="chip chip-action chip-sm chip-choice">Je ne suis pas déçu par moi-même</label>
-    <input type="radio" id="beck-62" name="radio-beck-6" class="d-input-none" value="1">
-    <label for="beck-62" class="chip chip-action chip-sm chip-choice">Je suis déçu par moi-même</label>
-    <input type="radio" id="beck-63" name="radio-beck-6" class="d-input-none" value="2">
-    <label for="beck-63" class="chip chip-action chip-sm chip-choice">Je me dégoûte moi-même</label>
-    <input type="radio" id="beck-64" name="radio-beck-6" class="d-input-none" value="3">
-    <label for="beck-64" class="chip chip-action chip-sm chip-choice">Je me hais</label>
-  </fieldset>
-  <fieldset>
-    <legend>G.</legend>
-    <input type="radio" id="beck-71" name="radio-beck-7" class="d-input-none" value="0" required>
-    <label for="beck-71" class="chip chip-action chip-sm chip-choice">Je ne pense pas à me faire du mal</label>
-    <input type="radio" id="beck-72" name="radio-beck-7" class="d-input-none" value="1">
-    <label for="beck-72" class="chip chip-action chip-sm chip-choice">Je pense que la mort me libérerait</label>
-    <input type="radio" id="beck-73" name="radio-beck-7" class="d-input-none" value="2">
-    <label for="beck-73" class="chip chip-action chip-sm chip-choice">J’ai des plans précis pour me suicider</label>
-    <input type="radio" id="beck-74" name="radio-beck-7" class="d-input-none" value="3">
-    <label for="beck-74" class="chip chip-action chip-sm chip-choice">Si je le pouvais, je me tuerais</label>
-  </fieldset>
-  <fieldset>
-    <legend>G.</legend>
-    <input type="radio" id="beck-71" name="radio-beck-7" class="d-input-none" value="0" required>
-    <label for="beck-71" class="chip chip-action chip-sm chip-choice">Je ne pense pas à me faire du mal</label>
-    <input type="radio" id="beck-72" name="radio-beck-7" class="d-input-none" value="1">
-    <label for="beck-72" class="chip chip-action chip-sm chip-choice">Je pense que la mort me libérerait</label>
-    <input type="radio" id="beck-73" name="radio-beck-7" class="d-input-none" value="2">
-    <label for="beck-73" class="chip chip-action chip-sm chip-choice">J’ai des plans précis pour me suicider</label>
-    <input type="radio" id="beck-74" name="radio-beck-7" class="d-input-none" value="3">
-    <label for="beck-74" class="chip chip-action chip-sm chip-choice">Si je le pouvais, je me tuerais</label>
-  </fieldset>
-  <div class="alert bg-light d-flex mt-md-4">
-    <div class="d-flex flex-column align-items-center justify-content-evenly">
-      <p class="typography-overline score-output-title">Score Beck</p>
-      <output class="score-output" id="beckScore">-</output>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-13" name="radio-beck-1" class="custom-control-input" value="2">
+    <label for="beck-13" class="custom-control-label">Je me sens tout le temps cafardeux ou triste, et je n’arrive pas à en sortir</label>
     </div>
-    <p id="beckText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-14" name="radio-beck-1" class="custom-control-input" value="3">
+    <label for="beck-14" class="custom-control-label">Je suis si triste et si malheureux, que je ne peux pas le supporter</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend class="font-weight-bold">B.</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-21" name="radio-beck-2" class="custom-control-input" value="0" required>
+    <label for="beck-21" class="custom-control-label">Je ne suis pas particulièrement découragé, ni pessimiste au sujet de l’avenir</label>
+    </div>
+    <div class="custom-control custom-radio">
+    <input type="radio" id="beck-22" name="radio-beck-2" class="custom-control-input" value="1">
+    <label for="beck-22" class="custom-control-label">J’ai un sentiment de découragement au sujet de l’avenir</label>
+    </div>
+    <div class="custom-control custom-radio">
+    <input type="radio" id="beck-23" name="radio-beck-2" class="custom-control-input" value="2">
+    <label for="beck-23" class="custom-control-label">Pour mon avenir, je n’ai aucun motif d’espérer</label>
+    </div>
+    <div class="custom-control custom-radio">
+    <input type="radio" id="beck-24" name="radio-beck-2" class="custom-control-input" value="3">
+    <label for="beck-24" class="custom-control-label">Je sens qu’il n’y a aucun espoir pour mon avenir, et que la situation ne peut s’améliorer</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend class="font-weight-bold">C.</legend>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-31" name="radio-beck-3" class="custom-control-input" value="0" required>
+    <label for="beck-31" class="custom-control-label">Je n’ai aucun sentiment d’échec de ma vie</label>
+    </div>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-32" name="radio-beck-3" class="custom-control-input" value="1">
+    <label for="beck-32" class="custom-control-label">J’ai l’impression que j’ai échoué dans ma vie plus que la plupart des gens.</label>
+    </div>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-33" name="radio-beck-3" class="custom-control-input" value="2">
+    <label for="beck-33" class="custom-control-label">Quand je regarde ma vie passée, tout ce que j’y découvre n’est qu’échecs</label>
+    </div>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-34" name="radio-beck-3" class="custom-control-input" value="3">
+    <label for="beck-34" class="custom-control-label">J’ai un sentiment d’échec complet dans toute ma vie personnelle (dans mes relations avec mes parents, mon mari, ma femme mes enfants)</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend class="font-weight-bold">D.</legend>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-41" name="radio-beck-4" class="custom-control-input" value="0" required>
+    <label for="beck-41" class="custom-control-label">Je ne me sens pas particulièrement insatisfait</label>
+    </div>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-42" name="radio-beck-4" class="custom-control-input" value="1">
+    <label for="beck-42" class="custom-control-label">Je ne sais pas profiter agréablement des circonstances</label>
+    </div>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-43" name="radio-beck-4" class="custom-control-input" value="2">
+    <label for="beck-43" class="custom-control-label">Je ne tire plus aucune satisfaction de quoi que ce soit</label>
+    </div>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-44" name="radio-beck-4" class="custom-control-input" value="3">
+    <label for="beck-44" class="custom-control-label">Je suis mécontent de tout</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend class="font-weight-bold">E.</legend>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-51" name="radio-beck-5" class="custom-control-input" value="0" required>
+    <label for="beck-51" class="custom-control-label">Je ne me sens pas coupable</label>
+    </div>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-52" name="radio-beck-5" class="custom-control-input" value="1">
+    <label for="beck-52" class="custom-control-label">Je me sens mauvais ou indigne une bonne partie du temps</label>
+    </div>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-53" name="radio-beck-5" class="custom-control-input" value="2">
+    <label for="beck-53" class="custom-control-label">Je me sens coupable</label>
+    </div>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-54" name="radio-beck-5" class="custom-control-input" value="3">
+    <label for="beck-54" class="custom-control-label">Je me juge très mauvais, et j’ai l’impression que je ne vaux rien</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend class="font-weight-bold">F.</legend>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-61" name="radio-beck-6" class="custom-control-input" value="0" required>
+    <label for="beck-61" class="custom-control-label">Je ne suis pas déçu par moi-même</label>
+    </div>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-62" name="radio-beck-6" class="custom-control-input" value="1">
+    <label for="beck-62" class="custom-control-label">Je suis déçu par moi-même</label>
+    </div>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-63" name="radio-beck-6" class="custom-control-input" value="2">
+    <label for="beck-63" class="custom-control-label">Je me dégoûte moi-même</label>
+    </div>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-64" name="radio-beck-6" class="custom-control-input" value="3">
+    <label for="beck-64" class="custom-control-label">Je me hais</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend class="font-weight-bold">G.</legend>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-71" name="radio-beck-7" class="custom-control-input" value="0" required>
+    <label for="beck-71" class="custom-control-label">Je ne pense pas à me faire du mal</label>
+    </div>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-72" name="radio-beck-7" class="custom-control-input" value="1">
+    <label for="beck-72" class="custom-control-label">Je pense que la mort me libérerait</label>
+    </div>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-73" name="radio-beck-7" class="custom-control-input" value="2">
+    <label for="beck-73" class="custom-control-label">J’ai des plans précis pour me suicider</label>
+    </div>
+    <div class="custom-control custom-radio">
+<input type="radio" id="beck-74" name="radio-beck-7" class="custom-control-input" value="3">
+    <label for="beck-74" class="custom-control-label">Si je le pouvais, je me tuerais</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend class="font-weight-bold">H.</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-81" name="radio-beck-8" class="custom-control-input" value="0" required>
+      <label for="beck-81" class="custom-control-label">Je n’ai pas perdu l’intérêt pour les autres gens</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-82" name="radio-beck-8" class="custom-control-input" value="1">
+      <label for="beck-82" class="custom-control-label">Maintenant je m’intéresse moins aux autres gens qu’autrefois</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-83" name="radio-beck-8" class="custom-control-input" value="2">
+      <label for="beck-83" class="custom-control-label">J’ai perdu tout l’intérêt que je portais aux gens et j’ai peu de sentiments pour eux</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-84" name="radio-beck-8" class="custom-control-input" value="3">
+      <label for="beck-84" class="custom-control-label">J’ai perdu tout l’intérêt pour les autres, et ils m’indiffèrent totalement</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend class="font-weight-bold">I.</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-91" name="radio-beck-9" class="custom-control-input" value="0" required>
+      <label for="beck-91" class="custom-control-label">Je suis capable de me décider aussi facilement que de coutume</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-92" name="radio-beck-9" class="custom-control-input" value="1">
+      <label for="beck-92" class="custom-control-label">J’essaie de ne pas avoir à prendre de décision</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-93" name="radio-beck-9" class="custom-control-input" value="2">
+      <label for="beck-93" class="custom-control-label">J’ai de grandes difficultés à prendre des décisions</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-94" name="radio-beck-9" class="custom-control-input" value="3">
+      <label for="beck-94" class="custom-control-label">Je ne suis plus capable de prendre la moindre décision</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend class="font-weight-bold">J.</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-101" name="radio-beck-10" class="custom-control-input" value="0" required>
+      <label for="beck-101" class="custom-control-label">Je n’ai pas le sentiment d’être plus laid qu’avant</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-102" name="radio-beck-10" class="custom-control-input" value="1">
+      <label for="beck-102" class="custom-control-label">J’ai peur de paraître vieux ou disgracieux</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-103" name="radio-beck-10" class="custom-control-input" value="2">
+      <label for="beck-103" class="custom-control-label">J’ai l’impression qu’il y a un changement permanent dans mon apparence physique, qui me fait paraître disgracieux</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-104" name="radio-beck-10" class="custom-control-input" value="3">
+      <label for="beck-104" class="custom-control-label">J’ai l’impression d’être laid et repoussant</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend class="font-weight-bold">K.</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-111" name="radio-beck-11" class="custom-control-input" value="0" required>
+      <label for="beck-111" class="custom-control-label">Je travaille aussi facilement qu’auparavant</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-112" name="radio-beck-11" class="custom-control-input" value="1">
+      <label for="beck-112" class="custom-control-label">Il me faut faire un effort supplémentaire pour commencer à faire quelque chose</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-113" name="radio-beck-11" class="custom-control-input" value="2">
+      <label for="beck-113" class="custom-control-label">Il faut que je fasse un très grand effort pour faire quoi que ce soit</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-114" name="radio-beck-11" class="custom-control-input" value="3">
+      <label for="beck-114" class="custom-control-label">Je suis incapable de faire le moindre travail</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend class="font-weight-bold">L.</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-121" name="radio-beck-12" class="custom-control-input" value="0" required>
+      <label for="beck-121" class="custom-control-label">Je ne suis pas plus fatigué que d’habitude</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-122" name="radio-beck-12" class="custom-control-input" value="1">
+      <label for="beck-122" class="custom-control-label">Je suis fatigué plus facilement que d’habitude</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-123" name="radio-beck-12" class="custom-control-input" value="2">
+      <label for="beck-123" class="custom-control-label">Faire quoi que ce soit me fatigue</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-124" name="radio-beck-12" class="custom-control-input" value="3">
+      <label for="beck-124" class="custom-control-label">Je suis incapable de faire le moindre travail</label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend class="font-weight-bold">M.</legend>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-131" name="radio-beck-13" class="custom-control-input" value="0" required>
+      <label for="beck-131" class="custom-control-label">Mon appétit est toujours aussi bon</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-132" name="radio-beck-13" class="custom-control-input" value="1">
+      <label for="beck-132" class="custom-control-label">Mon appétit n’est pas aussi bon que d’habitude</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-133" name="radio-beck-13" class="custom-control-input" value="2">
+      <label for="beck-133" class="custom-control-label">Mon appétit est beaucoup moins bon maintenant</label>
+    </div>
+    <div class="custom-control custom-radio">
+      <input type="radio" id="beck-134" name="radio-beck-13" class="custom-control-input" value="3">
+      <label for="beck-134" class="custom-control-label">Je n’ai plus du tout d’appétit</label>
+    </div>
+  </fieldset>
+  <div class="alert bg-light d-flex flex-column align-items-center mt-md-4">
+      <p class="typography-overline score-output-title">Score</p>
+      <output class="score-output" id="beckScore">-</output>
+      <p id="beckText" class="lead m-2">Veuillez répondre à toutes les questions</p>
+      <button type="button" id="copyBtn" class="btn btn-outline-primary m-3" disabled>
+        Copier le bilan
+      </button>
   </div>
 </div>
 <blockquote class="blockquote my-4">
-  <p class="mb-0"><a href="https://pubmed.ncbi.nlm.nih.gov/6880820/" rel="external nofollow noopener">TODO:</a> et
-    <a href="http://www.amiform.com/web/documents-patients-douloureux/questionnaire_abrege_de_beck.pdf" rel="external nofollow noopener">traduction française de P. Pichot</a></p>
+  <p class="small mb-0"><a href="https://pubmed.ncbi.nlm.nih.gov/6880820/" rel="external nofollow noopener">Zigmond AS, Snaith RP. The hospital anxiety and depression scale. Acta Psychiatr Scand. 1983;67(6):361-370. doi:10.1111/j.1600-0447.1983.tb09716.x</a> et
+    <a href="http://www.amiform.com/web/documents-patients-douloureux/questionnaire_abrege_de_beck.pdf" rel="external nofollow noopener">traduction française du Pr P. Pichot</a></p>
 </blockquote>
 {{ $script := `
   // Score Beck FR by djibe
 document.addEventListener('DOMContentLoaded', () => {
-  const scoreBeck = document.getElementById('beckScore');
-  const textBeck = document.getElementById('beckText');
   const container = document.getElementById('score-beck');
+  const scoreOutput = document.getElementById('beckScore');
+  const textOutput = document.getElementById('beckText');
+  const copyBtn = document.getElementById('copyBtn');
 
-  const beckExplain = score => {
-    if (score <= 7) return 'absence (' + score + ' pts)';
-    if (score <= 10) return 'doute (' + score + ' pts)';
-    return 'certaine (' + score + ' pts)';
-  };
+  // Total number of fieldsets/questions (13 questions: A to M)
+  const fieldsets = container.querySelectorAll('fieldset');
+  const totalQuestions = fieldsets.length;
 
-  const calcBeck = () => {
-    const anxieteElems = container.querySelectorAll('.anxiete:checked');
-    const depressionElems = container.querySelectorAll('.depression:checked');
-    const totalChecked = container.querySelectorAll('input[type="radio"]:checked');
+  container.addEventListener('change', () => {
+    // Select all currently checked radio buttons within the container
+    const checkedInputs = container.querySelectorAll('input[type="radio"]:checked');
 
-    if (totalChecked.length < 14) {
-      scoreBeck.textContent = '-';
-      textBeck.textContent = 'Veuillez répondre à toutes les questions';
-      return;
-    }
-
-    let scoreAnxiete = 0;
-    anxieteElems.forEach(elem => {
-      scoreAnxiete += parseInt(elem.value, 10) || 0;
+    // Calculate total score
+    let totalScore = 0;
+    checkedInputs.forEach(input => {
+      totalScore += parseInt(input.value, 10);
     });
 
-    let scoreDepression = 0;
-    depressionElems.forEach(elem => {
-      scoreDepression += parseInt(elem.value, 10) || 0;
-    });
-
-    const totalScore = scoreAnxiete + scoreDepression;
-    scoreBeck.textContent = totalScore;
-
-    textBeck.innerHTML = 'Anxiété: ' + beckExplain(scoreAnxiete) + '<br>Dépression: ' + beckExplain(scoreDepression);
-  };
-
-  container.addEventListener('change', event => {
-    if (event.target.matches('input[type="radio"]')) {
-      calcBeck();
+    // Check if all questions have been answered
+    if (checkedInputs.length === totalQuestions) {
+      scoreOutput.textContent = totalScore;
+      textOutput.textContent = getBeckInterpretation(totalScore);
+      copyBtn.disabled = false;
+    } else {
+      scoreOutput.textContent = '-';
+      textOutput.textContent = 'Veuillez répondre à toutes les questions';
+      copyBtn.disabled = true;
     }
   });
+
+  // Copy button action
+  copyBtn.addEventListener('click', () => {
+    const results = [];
+
+    fieldsets.forEach(fieldset => {
+      const legendText = fieldset.querySelector('legend').textContent.trim().replace(/\.$/, '');
+      const selectedInput = fieldset.querySelector('input[type="radio"]:checked');
+      if (selectedInput) {
+        results.push(legendText + selectedInput.value);
+      }
+    });
+
+    const totalScore = scoreOutput.textContent;
+    const interpretation = textOutput.textContent;
+
+    // Format according to requested pattern
+    const clipboardText = 'Score de Beck : ' + totalScore + '\nInterprétation : ' + interpretation + '\n---\n' + results.join('\n');
+
+    if (navigator.clipboard && window.isSecureContext) {
+      navigator.clipboard.writeText(clipboardText).then(() => {
+        showCopyFeedback();
+      }).catch(err => {
+        console.error('Erreur lors de la copie :', err);
+      });
+    } else {
+      // Fallback for non-secure contexts
+      const textArea = document.createElement('textarea');
+      textArea.value = clipboardText;
+      document.body.appendChild(textArea);
+      textArea.select();
+      try {
+        document.execCommand('copy');
+        showCopyFeedback();
+      } catch (err) {
+        console.error('Erreur lors de la copie :', err);
+      }
+      document.body.removeChild(textArea);
+    }
+  });
+
+  function showCopyFeedback() {
+    const originalText = copyBtn.textContent;
+    copyBtn.textContent = 'Copié !';
+    setTimeout(() => {
+      copyBtn.textContent = originalText;
+    }, 2000);
+  }
+
+  function getBeckInterpretation(score) {
+    if (score <= 4) {
+      return "Pas de dépression";
+    } else if (score <= 7) {
+      return "Dépression légère";
+    } else if (score <= 15) {
+      return "Dépression modérée";
+    } else {
+      return "Dépression sévère";
+    }
+  }
 })` }}
 <script type="module">{{ $script | safeJS }}</script>

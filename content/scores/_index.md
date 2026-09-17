@@ -85,8 +85,8 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 
 - Dépression
   - Repérage d'une dépression: {{< modal-btn modal-phq2 >}}PHQ-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}}
-  - Aide au diagnostic d'une dépression: {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HAD{{< /modal-btn >}}, {{< modal-btn modal-gds15 >}}GDS-15{{< /modal-btn >}} (sujet âgé)
-  - Aide à la sévérité de la dépression: {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}
+  - Aide au diagnostic d'une dépression: {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, [Beck]({{% relref "beck.md" %}}), [Hamilton]({{% relref "hamilton.md" %}}), {{< modal-btn modal-hads >}}HAD{{< /modal-btn >}}, {{< modal-btn modal-gds15 >}}GDS-15{{< /modal-btn >}} (sujet âgé)
+  - Aide à la sévérité de la dépression: {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, [Beck]({{% relref "beck.md" %}}), [Hamilton]({{% relref "hamilton.md" %}})
 - Repérage d'une anxiété: {{< modal-btn modal-gad2 >}}GAD-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}}. Sévérité: {{< modal-btn modal-gad7 >}}GAD-7{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HAD{{< /modal-btn >}}
 - Troubles du comportement alimentaire: {{< modal-btn modal-scoff >}}dépistage (score SCOFF-F){{< /modal-btn >}}
 - Alcool recherche de mésusage: {{< modal-btn modal-audit >}}questionnaire AUDIT{{< /modal-btn >}}, {{< modal-btn modal-deta >}}CAGE/DETA{{< /modal-btn >}}, {{< modal-btn modal-face >}}FACE{{< /modal-btn >}}
@@ -285,11 +285,6 @@ Douleurs neuropathiques: {{< modal-btn modal-score-dn4 >}}questionnaire DN4{{< /
 {{% modal title="Questionnaire FACE de mésusage de l'alcool" id="modal-face"%}}
 
 {{< scores/face >}}
-
-{{% /modal %}}
-{{% modal title="Echelle de depression de Hamilton" id="modal-hamilton"%}}
-
-{{< scores/hamilton >}}
 
 {{% /modal %}}
 {{% modal title="Score PHQ-2" id="modal-phq2"%}}
