@@ -131,6 +131,8 @@ Essai possible des traitements suivants pour l'épicondylite (efficacité très 
 
 ### Travaux en cours
 
+- [Dejnek M, et al. Comparative Efficacy of Platelet-Rich Plasma, Corticosteroid, Hyaluronic Acid, and Placebo (Saline) Injections in Patients with Lateral Elbow Tendinopathy: A Randomized Controlled Trial. Journal of Clinical Medicine. 2025.](https://www.mdpi.com/2077-0383/14/2/472)
 - [HAS. Épicondylite latérale du coude : diagnostic et traitement médical de première intention - Note de cadrage. 2025.](https://www.has-sante.fr/jcms/p_3577763/fr/epicondylite-laterale-du-coude-diagnostic-et-traitement-medical-de-premiere-intention-note-de-cadrage)
+- [Ahmed AF, et al. Lateral epicondylitis of the elbow: an up-to-date review of management. Eur J Orthop Surg Traumatol. 2023.](https://pubmed.ncbi.nlm.nih.gov/35031850/) (payant)
 
 {{%/sources%}}

@@ -28,8 +28,8 @@ flowchart = true
 
 - La dépression ou épisode dépressif caractérisé (EDC) est fréquente, avec la persistance pendant plus de 2 semaines de plusieurs symptômes parmi: humeur dépressive, perte de plaisir, modifications du poids, troubles du sommeil, agitation ou ralentissement psychomoteur, fatigue persistante, dévalorisation (voir *Critères diagnostiques* et *Échelles de dépression*)
 - Dépister la dépression à partir de 12 ans (grossesse ++) et en cas de trouble cognitif: {{< modal-btn modal-phq2 >}}questionnaire PHQ-2{{< /modal-btn >}} ou {{< modal-btn modal-phq4 >}}PHQ-4{{< /modal-btn >}} (couplé au repérage d'une anxiété)
-- Questionnaires pour l'aide au diagnostic de la dépression chez l'adulte: {{< modal-btn modal-phq9 >}}questionnaire PHQ-9{{< /modal-btn >}}, Beck, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, {{< modal-btn modal-gds15 >}}GDS-15{{< /modal-btn >}} (sujet âgé)
-- En cas de diagnostic d'épisode dépressif caractérisé: évaluer la sévérité ({{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, Beck, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}), le risque suicidaire, les comorbidités (et dépister une {{< modal-btn modal-gad2 >}}anxiété{{< /modal-btn >}}), toxiques, le handicap.  
+- Questionnaires pour l'aide au diagnostic de la dépression chez l'adulte: {{< modal-btn modal-phq9 >}}questionnaire PHQ-9{{< /modal-btn >}}, Beck, [Hamilton]({{% relref "hamilton.md" %}}), {{< modal-btn modal-gds15 >}}GDS-15{{< /modal-btn >}} (sujet âgé)
+- En cas de diagnostic d'épisode dépressif caractérisé: évaluer la sévérité ({{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, Beck, [Hamilton]({{% relref "hamilton.md" %}})), le risque suicidaire, les comorbidités (et dépister une {{< modal-btn modal-gad2 >}}anxiété{{< /modal-btn >}}), toxiques, le handicap.  
   Avec l'accord du patient, interroger l'entourage.
 - Le bilan d'une dépression comprend: NFS, ionogramme, calcémie, bilan hépatique, glycémie, TSH, ± toxiques urinaires, apnées du sommeil
 - La prise en charge de la dépression associe toujours {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} et/ou thérapies cognitivo-comportementales (TCC) (voir [Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}) pour le remboursement), activités physiques et sociales, rythme de vie, information du patient (dont lignes d'écoute)
@@ -121,7 +121,7 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{%
   <div class="card-body tab-content">
   <div class="tab-pane fade show active" id="nav-depistage" role="tabpanel" aria-labelledby="nav-tab-depistage">
 
-#### Échelles d'aide au dépistage de la dépression de l'adulte {.typography-headline-6}
+#### Échelles d'aide au dépistage/repérage de la dépression de l'adulte {.typography-headline-6}
 
 - {{< modal-btn modal-phq2 >}}Questionnaire PHQ-2{{< /modal-btn >}}
 - {{< modal-btn modal-phq4 >}}Questionnaire PHQ-4{{< /modal-btn >}} (couplé au repérage d'une anxiété -- *ACP 2019*)
@@ -134,9 +134,9 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{%
 #### Échelles d'aide au diagnostic de la dépression de l'adulte {.typography-headline-6}
 
 - {{< modal-btn modal-phq9 >}}Questionnaire PHQ-9{{< /modal-btn >}}
-- **Échelle de dépression de Beck** (auto-questionnaire BDI)
+- **[Échelle de dépression de Beck]({{% relref "beck.md" %}})** (auto-questionnaire BDI)
 - {{< modal-btn modal-hads >}}Échelle HADS{{< /modal-btn >}} (intérêt en cas de comorbidités somatiques)
-- {{< modal-btn modal-hamilton >}}**Échelle d'Hamilton**{{< /modal-btn >}} (HDRS ou HAM-D, suivi de l'évolution ++)
+- **[Échelle d'Hamilton]({{% relref "hamilton.md" %}})** (HDRS ou HAM-D, suivi de l'évolution ++)
 - Sujet âgé: {{< modal-btn modal-gds15 >}}échelle GDS-15{{< /modal-btn >}} (variantes 4 ou 30 questions, et {{< scores/mmse >}})
 
 </div>
@@ -145,8 +145,8 @@ En **gras**, échelles pouvant donner lieu à la [cotation annuelle ALQP003]({{%
 #### Échelles d'aide pour grader la sévérité de la dépression {.typography-headline-6}
 
 - {{< modal-btn modal-phq9 >}}Questionnaire PHQ-9{{< /modal-btn >}}
-- {{< modal-btn modal-hamilton >}}**Échelle d'Hamilton**{{< /modal-btn >}} (HDRS ou HAM-D, suivi de l'évolution ++)
-- **Échelle de dépression de Beck** (auto-questionnaire)
+- [Échelle d'Hamilton]({{% relref "hamilton.md" %}}) (HDRS ou HAM-D, suivi de l'évolution ++)
+- **[Échelle de dépression de Beck]({{% relref "beck.md" %}})** (auto-questionnaire)
 - **[Échelle MADRS](https://www.psychiaclic.fr/media/pages/ressources/ressource-lien/82949d2960-1633341129/madrs.pdf)** (Montgomery Asberg depression rating Scale)
 
 </div>
@@ -308,7 +308,7 @@ Avec l'accord du patient, interroger l'entourage.
 > [!INFO]
 > Particularités de la dépression de l'adolescent: irritabilité, agressivité, troubles des conduites et plaintes somatiques au 1^er^ plan.
 
-Questionnaires d'aide au diagnostic de la dépression (voir la section dédiée): {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HADS{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}}Hamilton{{< /modal-btn >}}, adolescent {{< modal-btn modal-adrs >}}ADRS{{< /modal-btn >}} (13-20 ans), sujet âgé: {{< modal-btn modal-gds15 >}}échelle GDS-15{{< /modal-btn >}} couplé au MoCa ou {{< scores/mmse >}}.
+Questionnaires d'aide au diagnostic de la dépression (voir la section dédiée): {{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hads >}}HADS{{< /modal-btn >}}, [Hamilton]({{% relref "hamilton.md" %}}), adolescent {{< modal-btn modal-adrs >}}ADRS{{< /modal-btn >}} (13-20 ans), sujet âgé: {{< modal-btn modal-gds15 >}}échelle GDS-15{{< /modal-btn >}} couplé au MoCa ou {{< scores/mmse >}}.
 
 > << Le diagnostic de l'épisode dépressif caractérisé est clinique. >> -- *HAS 2017*
 
@@ -432,7 +432,7 @@ Bilan d'un épisode dépressif:
 ##### Épisode dépressif caractérisé d'intensité légère
 
 - {{< modal-btn modal-soutien >}}Psychothérapie de soutien{{< /modal-btn >}} ou thérapie cognitive et comportementale (TCC, suggérée par l'*ACP*)
-- Réévaluation à 4-8 semaines ({{< modal-btn modal-phq9 >}}questionnaire PHQ-9{{< /modal-btn >}}, {{< modal-btn modal-hamilton >}} d'Hamilton{{< /modal-btn >}}):
+- Réévaluation à 4-8 semaines ({{< modal-btn modal-phq9 >}}questionnaire PHQ-9{{< /modal-btn >}}, [échelle d'Hamilton]({{% relref "hamilton.md" %}}):
   - Rémission partielle: poursuite et réévaluation 4-8 semaines.  
     Si persistance: envisager EDC d'intensité modérée ou avis psychiatrique.
   - Persistance ou aggravation: réévaluer le diagnostic et envisager un EDC d'intensité modérée
@@ -585,11 +585,6 @@ graph TB
 - [Williams JB. A structured interview guide for the Hamilton Depression Rating Scale. Arch Gen Psychiatry. 1988;45(8):742-747. doi:10.1001/archpsyc.1988.01800320058007](https://pubmed.ncbi.nlm.nih.gov/3395203/)
 
 {{%/sources%}}
-{{% modal title="Echelle de depression de Hamilton" id="modal-hamilton"%}}
-
-{{< scores/hamilton >}}
-
-{{% /modal %}}
 {{% modal title="Questionnaire PHQ-2" id="modal-phq2"%}}
 
 {{< scores/phq2 >}}

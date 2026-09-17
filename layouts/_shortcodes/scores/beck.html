@@ -309,7 +309,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const totalScore = scoreOutput.textContent;
     const interpretation = textOutput.textContent;
 
-    // Format according to requested pattern
     const clipboardText = 'Score de Beck : ' + totalScore + '\nInterprétation : ' + interpretation + '\n---\n' + results.join('\n');
 
     if (navigator.clipboard && window.isSecureContext) {
