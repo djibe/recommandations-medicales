@@ -274,21 +274,15 @@ document.addEventListener('DOMContentLoaded', () => {
   const textOutput = document.getElementById('beckText');
   const copyBtn = document.getElementById('copyBtn');
 
-  // Total number of fieldsets/questions (13 questions: A to M)
   const fieldsets = container.querySelectorAll('fieldset');
   const totalQuestions = fieldsets.length;
 
   container.addEventListener('change', () => {
-    // Select all currently checked radio buttons within the container
     const checkedInputs = container.querySelectorAll('input[type="radio"]:checked');
 
-    // Calculate total score
     let totalScore = 0;
-    checkedInputs.forEach(input => {
-      totalScore += parseInt(input.value, 10);
-    });
+    checkedInputs.forEach(input => totalScore += parseInt(input.value, 10));
 
-    // Check if all questions have been answered
     if (checkedInputs.length === totalQuestions) {
       scoreOutput.textContent = totalScore;
       textOutput.textContent = getBeckInterpretation(totalScore);
@@ -308,7 +302,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const legendText = fieldset.querySelector('legend').textContent.trim().replace(/\.$/, '');
       const selectedInput = fieldset.querySelector('input[type="radio"]:checked');
       if (selectedInput) {
-        results.push(legendText + selectedInput.value);
+        results.push(legendText + ' : ' + selectedInput.value);
       }
     });
 
