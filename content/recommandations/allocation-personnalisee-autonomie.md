@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-11-25T11:57:30+01:00"
 publishdate = "2021-11-25"
-lastmod = "2026-08-03"
+lastmod = "2026-09-16"
 specialites = ["social"]
 annees = "2026"
 sources = ["Service-Public"]
@@ -23,11 +23,15 @@ imageSrc = "L'Allocation Personnalisée d'Autonomie (APA). storyset / Freepik"
 
 {{%article-summary%}}
 
-- L'Allocation Personnalisée d'Autonomie (APA) est accessible à toutes les personnes de +60 ans ayant un niveau de dépendance GIR 1 à 4 afin d'aider au maintien à domicile
-- Selon le degré du GIR (grille de cotation de la dépendance), l'allocation mensuelle versée varie de 746 à 1914€
-- Le dossier de demande d'APA est à retirer en mairie, au CLIC ou au Conseil départemental
+- L'Allocation Personnalisée d'Autonomie (APA) est accessible à toutes les personnes de +60 ans ayant un niveau de dépendance coté GIR 1 à 4 afin d'aider au maintien à domicile (APA à domicile) ou en établissement (APA en établissement)
+  - Les personnes en GIR 5 et 6 ne sont pas éligibles à l'APA. Elles peuvent solliciter une [aide-ménagère](https://www.pour-les-personnes-agees.gouv.fr/vivre-a-domicile/aides-financieres/laide-menagere-a-domicile) ou une aide de leur [caisse de retraite](https://www.pour-les-personnes-agees.gouv.fr/vivre-a-domicile/aides-financieres/les-aides-des-caisses-de-retraite).
+  - Selon le degré du GIR (grille de cotation de la dépendance AGGIR) et des revenus, l'allocation mensuelle versée par le département varie de 811 à 2080 €
+  - Une demande de Carte Mobilité Inclusion (CMI) peut être couplée (partie 7 du dossier)
+- Le dossier de demande d'APA est à retirer en mairie, au CLIC, au Conseil départemental ou complété directement sur [demande-autonomie.gouv.fr](https://demande-autonomie.gouv.fr/?service=DUAPA&portail=3177&modeOuverture=onglet). La rédaction du certificat médical ([Cerfa en PDF](/print/APA.pdf)) se cote MPH ou GL3 (60 €)
 - Les droits à l'APA sont ouverts pour 5 ans renouvelables
-- Si le maintien à domicile n'est plus possible: [Liste de tous les EHPAD avec les grilles tarifaires](https://www.pour-les-personnes-agees.gouv.fr/)
+- Si le maintien à domicile n'est plus possible: [annuaire des EHPAD avec les grilles tarifaires](https://www.pour-les-personnes-agees.gouv.fr)
+
+Télécharger le [certificat médical du dossier APA](/print/APA.pdf).
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -37,10 +41,10 @@ Allocation personnalisée d'autonomie (APA)
     - De plus de 60 ans
     - GIR 1 à 4
     - Résidant en France de manière stable et régulière
-    - Vivant à domicile, chez un proche, un accueillant familial, un établissement de moins de 25 places ou en résidence autonomie (ancien foyer-logement)
+    - Vivant à domicile, chez un proche, un accueillant familial ou en établissement
 : Droits ouverts pour 5 ans, renouvellement automatique.  
 1,2 millions de bénéficiaires.
-: Autres aides: Aide sociale à l'hébergement (ASH), Aide personnalisée au logement (APL), Allocation de logement social (ALS)
+: Autres aides: Aide sociale à l'hébergement (ASH), Aide personnalisée au logement (APL), Allocation de logement social (ALS).
 
 ### Abréviations
 
@@ -52,12 +56,14 @@ APA
 
 GIR
 : groupe iso ressources
+{.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Demande d'APA à domicile" %}}
 
 Le dossier d'APA est disponible sur place ou sur le site internet du:
 
+- [demande-autonomie.gouv.fr](https://demande-autonomie.gouv.fr/?service=DUAPA&portail=3177&modeOuverture=onglet)
 - Centre communal d'action sociale (CCAS, qui dépend de la mairie)
 - Centre local d'information et de coordination gérontologique (CLIC)
 - Conseil départemental
@@ -89,7 +95,7 @@ L'APA est versé à la personne ou directement au prestataire.
 | Confinement lit/fauteuil mais certaines fonctions mentales conservées, nécessite aide pour plupart des activités courantes | GIR 2 | 1682,30 |
 | Autonomie mentale conservée, motrice partielle, aides tous les jours plusieurs fois pour autonomie corporelle | GIR 3 | 1215,99 |
 | Aide pour transferts mais autonome pour déplacement une fois levé, ou aide pour aide corporelle ou repas sans difficultés pour se déplacer | GIR 4 | 811,52 |
-{caption="Montants de l'Allocation Personnalisée d'Autonomie (APA) en 2026. Dr JB Fron d'après *Service-Public*" class="table-wrap}
+{caption="Montants de l'Allocation Personnalisée d'Autonomie (APA) en 2026. Dr JB Fron d'après *Service-Public*" class="table-wrap"}
 
 {{% /collapse %}}
 {{%collapse "Le rendez-vous d'évaluation d'APA" %}}
@@ -124,4 +130,4 @@ La prestation est accordée pour 5 ans, automatiquement renouvelable.
 
 {{%/sources%}}
 
-{{< card-link-external title="pourlesPersonnesâgées.gouv.fr" url="https://www.pour-les-personnes-agees.gouv.fr" subtitle="Site Officiel" >}}
+{{< card-link-external title="pour-les-personnes-agees.gouv.fr" url="https://www.pour-les-personnes-agees.gouv.fr" subtitle="Site Officiel" image="ministere" >}}
