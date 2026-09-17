@@ -1,13 +1,13 @@
 +++
 title = "Questionnaire M-TOQ (Migraine Treatment Optimization Questionnaire)"
 titleSeo = "Questionnaire M-TOQ (migraine)"
-description = "Le questionnaire M-TOQ est une échelle de référence pour évaluer le contrôle de la migraine."
+description = "Le questionnaire M-TOQ (Migraine Treatment Optimization Questionnaire) est une échelle de référence pour évaluer le contrôle de la migraine."
 longHtml = true
-noSearchContent = true
+noSearch = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-09-13T19:05:00+02:00"
 publishdate = "2025-09-13"
-lastmod= "2026-09-15"
+lastmod = "2026-09-15"
 specialites = []
 tags = []
 sctid = ""

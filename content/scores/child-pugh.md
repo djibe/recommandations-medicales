@@ -1,12 +1,12 @@
 +++
 title = "Score de Child-Pugh"
-description = "Score de Child-Pugh pour l'évaluation clinique de la sévérité de la cirrhose au moment de l'examen"
+description = "Score de Child-Pugh pour l'évaluation clinique de la sévérité de la cirrhose"
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-09-09T10:09:00+02:00"
 publishdate = "2025-09-09"
-lastmod= "2026-09-15"
+lastmod = "2026-09-15"
 specialites = []
 tags = []
 sctid = ""

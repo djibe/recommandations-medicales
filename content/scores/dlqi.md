@@ -2,11 +2,11 @@
 title = "Score DLQI (Dermatology Life Quality Index)"
 description = "Le score DLQI (Dermatology Life Quality Index) est utilisé pour évaluer le retentissement d'une dermatose sur la qualité de vie"
 longHtml = true
-noSearchContent = true
+noSearch = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-09-09T10:25:00+02:00"
 publishdate = "2025-09-09"
-lastmod= "2026-09-15"
+lastmod = "2026-09-15"
 specialites = []
 tags = []
 sctid = "273408008"

@@ -1,12 +1,12 @@
 +++
 title = "Questionnaire PHQ-4 (Patient Health Questionnaire-4)"
-description = "L'auto-questionnaire PHQ-4 (Patient Health Questionnaire 4) est un test de référence validé pour l'évaluation d'un adulte présentant des symptômes dépressifs et anxieux."
+description = "L'auto-questionnaire PHQ-4 (Patient Health Questionnaire 4) est un score de référence validé pour l'évaluation d'un adulte présentant des symptômes dépressifs et anxieux."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-09-08T19:54:00+02:00"
 publishdate = "2025-09-08"
-lastmod= "2026-09-15"
+lastmod = "2026-09-15"
 specialites = []
 tags = []
 sctid = "865935003"
