@@ -26,6 +26,7 @@ imageSrc = "L'Allocation Personnalisée d'Autonomie (APA). storyset / Freepik"
 - L'Allocation Personnalisée d'Autonomie (APA) est accessible à toutes les personnes de +60 ans ayant un niveau de dépendance coté GIR 1 à 4 afin d'aider au maintien à domicile (APA à domicile) ou en établissement (APA en établissement)
   - Les personnes en GIR 5 et 6 ne sont pas éligibles à l'APA. Elles peuvent solliciter une [aide-ménagère](https://www.pour-les-personnes-agees.gouv.fr/vivre-a-domicile/aides-financieres/laide-menagere-a-domicile) ou une aide de leur [caisse de retraite](https://www.pour-les-personnes-agees.gouv.fr/vivre-a-domicile/aides-financieres/les-aides-des-caisses-de-retraite).
   - Selon le degré du GIR (grille de cotation de la dépendance AGGIR) et des revenus, l'allocation mensuelle versée par le département varie de 811 à 2080 €
+  - [Simuler le GIR](https://www.grille-aggir.fr)
   - Une demande de Carte Mobilité Inclusion (CMI) peut être couplée (partie 7 du dossier)
 - Le dossier de demande d'APA est à retirer en mairie, au CLIC, au Conseil départemental ou complété directement sur [demande-autonomie.gouv.fr](https://demande-autonomie.gouv.fr/?service=DUAPA&portail=3177&modeOuverture=onglet). La rédaction du certificat médical ([Cerfa en PDF](/print/APA.pdf)) se cote MPH ou GL3 (60 €)
 - Les droits à l'APA sont ouverts pour 5 ans renouvelables
@@ -60,6 +61,9 @@ GIR
 
 {{% /collapse %}}
 {{%collapse "Demande d'APA à domicile" %}}
+
+> [!INFO]
+> Le GIR peut être simulé [ici](https://www.grille-aggir.fr). La formule de calcul n'est pas publique.
 
 Le dossier d'APA est disponible sur place ou sur le site internet du:
 
@@ -127,6 +131,7 @@ La prestation est accordée pour 5 ans, automatiquement renouvelable.
 - 60 Millions de consommateurs n°520. Novembre 2016.
 - DGCCRF. Contrôle de l'information des consommateurs sur les prix des produits et services d'aide à l'autonomie. 28 octobre 2016.
 - Fizzala A. Autonomix, un outil d'évaluation de mesures portant sur les personnes âgées dépendantes. DREES Économie et statistique n°481-482. 2015.
+- [CNAMTS. Le modèle << AGGIR >>. 2008. (PDF)](https://www.ehpad.fr/wp-content/uploads/2016/01/Guide-grille-AGGIR.pdf)
 
 {{%/sources%}}
 
