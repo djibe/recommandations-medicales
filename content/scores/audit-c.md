@@ -11,6 +11,8 @@ lastmod = "2026-09-15"
 specialites = []
 tags = []
 sctid = ""
+rank = "ok"
+writing = "ok"
 +++
 
 {{< scores/audit-c >}}

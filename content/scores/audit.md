@@ -1,7 +1,7 @@
 +++
 title = "Questionnaire AUDIT (Alcohol Use Disorders Identification Test Consumption)"
-titleSeo = "Questionnaire AUDIT"
-description = "Questionnaire Alcohol Use Disorders Identification Test Consumption pour le repérage d'un mésusage de l'alcool"
+titleSeo = "Questionnaire AUDIT (alcool)"
+description = "Le questionnaire AUDIT est un score de référence, validé pour le repérage d'un mésusage de l'alcool chez l'adolescent"
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
@@ -11,6 +11,9 @@ lastmod = "2026-09-15"
 specialites = []
 tags = []
 sctid = "273265007"
+rank = "false"
+writing = "ok"
+todo = "seo score audit"
 +++
 
 {{< scores/audit >}}

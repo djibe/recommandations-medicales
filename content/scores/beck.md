@@ -10,6 +10,8 @@ lastmod = "2026-09-17"
 specialites = []
 tags = []
 sctid = "273306008"
+rank = "false"
+writing = "ok"
 +++
 
 {{< scores/beck >}}

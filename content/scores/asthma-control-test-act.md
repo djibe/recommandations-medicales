@@ -12,7 +12,8 @@ annees = "2025"
 sources = []
 tags = []
 sctid = "443450003"
-todo = "G indexing requested"
+rank = "ok"
+writing = "ok"
 +++
 
 {{< scores/asthma-control-test >}}

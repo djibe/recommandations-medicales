@@ -1,6 +1,6 @@
 +++
 title = "Échelle ASA (ASA Physical Status Classification System)"
-description = "Échelle ASA (ASA Physical Status Classification System) pour exprimer l'état de santé pré-opératoire d'un patient."
+description = "L'échelle ASA (Physical Status Classification System) est un score médical de référence pour exprimer l'état de santé pré-opératoire d'un patient."
 longHtml = true
 noSearch = true
 auteurs = ["Jean-Baptiste FRON"]
@@ -14,6 +14,8 @@ tags = []
 sctid = "273270000"
 image = false
 imageSrc = ""
+rank = "false"
+writing = "ok"
 +++
 
 {{< scores/asa >}}
