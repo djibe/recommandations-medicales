@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-03T13:12:00+02:00"
 publishdate = "2021-04-05"
-lastmod = "2025-06-24"
+lastmod = "2026-09-18"
 specialites = ["gynécologie-obstétrique"]
-annees = "2018"
-sources = ["ACOG", "HAS", "CNGOF"]
+annees = "2024"
+sources = ["NICE", "ACOG", "HAS", "CNGOF"]
 tags = ["contraception", "douleur pelvienne"]
 english = ["Endometriosis"]
 sctid = "129103003"
@@ -104,6 +104,9 @@ EHP-5
 LNG
 : lévonorgestrel
 
+NICE
+: {{%lang%}}National Institute for Health and Care Excellence{{%/lang%}}
+
 TV
 : toucher vaginal
 {.dl-inline}
@@ -133,24 +136,25 @@ La prise en charge de l'endométriose nécessite une consultation dédiée.
 
 ### Interrogatoire
 
-Évoquer une endométriose devant des douleurs pelviennes chroniques:
-
 - Antécédents
-- Traitements en cours, contraception
-- ==**Dysménorrhées intenses**==
-  - [Douleurs pelviennes](/tags/douleur-pelvienne/) cycliques péri-menstruelles
+- Traitements en cours
+- Contraception
+- Signes et symptômes d'endométriose:
+  - ==**[Douleurs pelviennes chroniques](/tags/douleur-pelvienne/)**==, notamment cycliques péri-menstruelles
+  - ==**Dysménorrhées intenses**==
+  - Dyspareunies
   - Type des douleurs (parts nociceptive ou neuropathique)
   - Intensité ≥ 8, résistance aux paliers 1, absentéisme scolaire/professionnel
   - Qualité de vie: {{< modal-btn modal-score-ehp5 >}}échelle EHP-5{{< /modal-btn >}}
-  - Agenda des symptômes
+  - **Agenda** des symptômes
 - Signes de lésions profondes:
   - **Dyspareunies profondes**
-  - **Douleurs à la défécation** à recrudescence cataméniale
+  - **Douleurs pelviennes à la défécation**, à recrudescence cataméniale
   - Signes fonctionnels urinaires à recrudescence cataméniale  
-    Dysurie, pollakiurie.
+    Dysurie, pollakiurie, hématurie.
 - Troubles digestifs récurrents
 - **[Infertilité]({{% relref "infertilite-couple.md" %}})**
-- Chez l'adolescente: temps sans les parents, recherche de violences
+- Chez l'adolescente: temps d'entretien sans les parents, recherche de violences
 
 ### Examen clinique
 
@@ -168,19 +172,19 @@ La prise en charge de l'endométriose nécessite une consultation dédiée.
 {{%collapse "Examens complémentaires" %}}
 
 > [!INFO]
-> Une imagerie normale n'élimine pas le diagnostic d'endométriose (20 % de faux négatifs).
+> **NB.** Une imagerie normale n'élimine pas le diagnostic d'endométriose (20 % de faux négatifs).
 
-Pas de bilan biologique systématique pour l'endométriose.
+Le bilan biologique n'est pas systématique en cas de suspicion d'endométriose.
 
 ### Échographie pelvienne
 
-L'échographie endovaginale (EEV) est recommandée en première intention (*SIFEM/SFR/CNGOF 2025*), sauf dysménorrhée isolée bien contrôlée sans désir de grossesse.
+L'==**échographie pelvienne**== endovaginale (EEV) est recommandée en première intention (*SIFEM/SFR/CNGOF 2025*), sauf dysménorrhée isolée bien contrôlée sans désir de grossesse.
 
 L'échographie pelvienne ne permet pas d'éliminer une atteinte profonde touchant les ligaments utéro-sacrés, les paramètres ou les localisations extra-pelviennes, ni d'exclure une endométriose superficielle.
 
 Après la [ménopause]({{% relref "menopause.md" %}}), avis gynécologique systématique en cas d'endométriome.
 
-**NB.** Pas de surveillance par imagerie des patientes asymptomatiques.
+> Pas de surveillance par imagerie des patientes asymptomatiques.
 
 ### IRM pelvienne
 
@@ -193,7 +197,7 @@ Indications à l'IRM lombo-pelvienne sans injection pour endométriose:
 - Résistance au traitement médical
 - Masse ovarienne indéterminée
 
-Pour le bilan d'extension en vue d'un suivi gynécologique.
+L'IRM réalise le bilan d'extension de l'endométriose en vue du suivi spécialisé gynécologique.
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'endométriose" %}}
@@ -205,15 +209,17 @@ Pour le bilan d'extension en vue d'un suivi gynécologique.
 
 La prise en charge de l'endométriose en première intention comprend:
 
-- Antalgie
-  - Paliers 1 pendant +3 mois
+- **Antalgie**
+  - Paliers 1 pendant 3 mois en 1^re^ intention
   - **Paracétamol** et **AINS** en péri-menstruel uniquement  
     Ibuprofène ou naproxène voire opioïdes si insuffisants.
   - Éviter les AINS au long cours
-  - Évaluation spécialisée en cas de douleurs chroniques ([neuropathiques]({{% relref "douleur-neuropathique.md" %}}) ++)  
+  - Évaluation spécialisée en cas de douleurs chroniques ([neuropathiques]({{% relref "douleur-neuropathique.md" %}}) ++), endométriome, endométriose profonde ou extra-pelvienne, infertilité ...  
     Spécialistes: gynécologue, médecine de la douleur, sexologue, psychologue, assistant social.
 - Autres traitements
-  - Acupuncture, yoga (ostéopathie pas meilleure que le placebo -- *Prescrire*)
+  - Acupuncture, yoga  
+    L'ostéopathie ne dépasse pas le placebo (*Prescrire*).
+  - Ne pas utiliser d'herbes ou médecine chinoise (*NICE*)
   - Activité physique quotidienne avec exercices du bassin
   - Aucun régime ou supplémentation n'a de bénéfice prouvé
 - Association de patientes: [EndoFrance](https://www.endofrance.org)
@@ -221,7 +227,7 @@ La prise en charge de l'endométriose en première intention comprend:
 
 ### Traitements hormonaux de première intention pour l'endométriose
 
-La contraception orale œstroprogestative ou le stérilet au lévonorgestrel sont les traitements de première intention de l'endométriose insuffisamment soulagée par les antalgiques de palier 1.
+La **contraception orale œstroprogestative** ou le **stérilet** au lévonorgestrel sont les traitements de première intention de l'endométriose insuffisamment soulagée par les antalgiques de palier 1.
 
 {{%info%}}
 
@@ -323,6 +329,7 @@ graph TB
 
 - [SIFEM, SFR, CNGOF. Actualisation de la place des différents examens d'imagerie pour le diagnostic d'endométriose. 2025.](https://www.has-sante.fr/jcms/p_3524940/fr/label-prise-en-charge-de-l-endometriose-actualisation-de-la-place-des-examens-d-imagerie-et-fiches-pratiques-en-echographie-et-irm-note-de-cadrage)
 - Prescrire Redaction. Douleurs liées à une endométriose pelvienne. Premiers Choix Prescrire. Rev Prescrire. 2025.
+- [NICE. Endometriosis: diagnosis and management. NICE guideline. 2024.](https://www.nice.org.uk/guidance/ng73)
 - [Bushnell C, et al. 2024 Guideline for the Primary Prevention of Stroke: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2024.](https://www.ahajournals.org/doi/abs/10.1161/STR.0000000000000475)
 - [ANSM. Troubles menstruels après la vaccination contre le Covid-19 : état des connaissances et conseils aux femmes concernées. 21/07/2022.](https://ansm.sante.fr/actualites/troubles-menstruels-apres-la-vaccination-contre-le-covid-19-etat-des-connaissances-et-conseils-aux-femmes-concernees)
 - ACOG. Dysmenorrhea and Endometriosis in the Adolescent. 2018. (inaccessible)
@@ -333,10 +340,9 @@ graph TB
 
 ### Bibliographie en attente
 
-- [ACOG. Diagnosis of Endometriosis. 2026.](https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2026/03/diagnosis-of-endometriosis) (payant)
+- [ACOG. Diagnosis of Endometriosis. 2026.](https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2026/03/diagnosis-of-endometriosis)
 - [Fritel X, et al. Douleurs pelviennes associées à l'Endométriose, conseils pour la pratique clinique. Un consensus formalisé d'experts par le CNGOF & Convergences PP. Gynécologie Obstétrique Fertilité & Sénologie. 2025.](https://www.sciencedirect.com/science/article/abs/pii/S2468718925001527) (payant)
-- [NICE. Endometriosis: diagnosis and management. NICE guideline. 2024.](https://www.nice.org.uk/guidance/ng73)
-- [ESHRE Guideline Endometriosis. 2022.](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Endometriosis-guideline)
+- [Becker C, et al, ESHRE Endometriosis Guideline Group. ESHRE guideline: endometriosis. Human Reproduction Open. 2022.](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Endometriosis-guideline)
 
 {{%/sources%}}
 {{% modal title="Échelle EHP-5" id="modal-score-ehp5"%}}
