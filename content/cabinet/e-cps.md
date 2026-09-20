@@ -7,8 +7,8 @@ description = "Apprendre à créer sa carte e CPS afin de bénéficier de connex
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-20T09:00:00+02:00"
 publishdate = "2022-01-20"
-lastmod = "2024-05-21"
-annees = "2024"
+lastmod = "2026-09-20"
+annees = "2026"
 sources = ["ANS"]
 tags = []
 image = true
@@ -16,7 +16,7 @@ imageSrc = "slidesgo / Freepik"
 todo = "écriture SEO + liens"
 +++
 
-La e-CPS est un service d'authentification forte du médecin en mobilité. Au lieu d'utiliser un objet dont on dispose pour la connexion sécurisée (la carte CPS), on couple un numéro de téléphone à cette carte CPS, assortie d'un mot de passe.
+La e-CPS est un service d'authentification forte du médecin en mobilité ou sans sa carte CPS. Au lieu d'utiliser un objet dont on dispose pour la connexion sécurisée (la carte CPS), on couple un numéro de téléphone à cette carte CPS, assortie d'un mot de passe.
 {.lead}
 
 La protection des données de santé impose un haut niveau de sécurité. L'authentification forte répond à cette nécessité et correspond à une connexion avec l'association d'un élément dont je dispose (la carte CPS) et un élément que je connais (le mot de passe).
@@ -43,7 +43,7 @@ Télécharger l'appli e-CPS sur l'[App Store](https://apps.apple.com/fr/app/e-cp
 ### Créer sa e-CPS avec sa CPS
 
 1. Depuis l'ordinateur avec la CPS branchée, aller sur <https://wallet.esw.esante.gouv.fr>
-2. Cliquer sur le bouton **PROSANTECONNECT**
+2. Cliquer sur le bouton **s'identifier avec PROSANTECONNECT**
 3. À l'étape *Connectez-vous*, cliquer sur l'onglet **Carte CPS** puis **Se connecter avec la carte CPS**
 4. Cliquer sur **J'accepte les CGU** et **Commencer l'activation**
 5. À l'étape suivante, scanner le QR code affiché sur l'écran du PC avec l'appli e-CPS
@@ -59,13 +59,17 @@ Cette étape va passer par l'adresse de courriel associée à votre compte ordin
 1. Depuis le store, télécharger l'application e-CPS et la lancer
 2. Appuyer sur **Commencer l'activation**
 3. Faire défiler le texte de la license puis appuyer sur **Accepter**
-4. Appuyer sur le bouton **Envoyer une demande d'activation**
-5. Entrez votre numéro RPPS **précédé d'un 8** puis confirmer en appuyant sur l'icône loupe
-6. Les coordonnées personnelles renseignées auprès du CNOM apparaissent, confirmer en appuyant sur **Envoyer ma demande d'activation**
-7. Consulter le mail sur le 2^e^ appareil
-8. Sur l'appli e-CPS, appuyer sur **Scanner un QR code** et scanner le QR code
-9. Demander la réception du SMS, l'activation est normalement automatique
-10. Choisir un code PIN et le confirmer
+4. Appuyer sur le bouton **Recevoir le courriel d'activation**
+5. Dans le champ **Votre mode d'activation**, sélectionner **Identifiant RPPS**
+6. Entrez votre numéro RPPS **précédé d'un 8** puis **confirmer en appuyant sur l'icône loupe**
+7. Les coordonnées personnelles renseignées auprès du CNOM apparaissent, confirmer en appuyant sur **Envoyer ma demande d'activation**
+8. Consulter la boîte mail sur le 2^e^ appareil
+9. Sur l'appli e-CPS, appuyer sur **Scanner un QR code** et scanner le QR code
+10. Demander la réception du SMS, l'activation est normalement automatique dès la réception du SMS
+11. Choisir un code PIN et le confirmer
+
+> [!WARNING]
+> Si le numéro de téléphone portable à l'étape 7 n'est pas le bon, appeler le CNOM.
 
 ### Le guide d'installation en vidéo
 
