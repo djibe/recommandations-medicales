@@ -152,7 +152,7 @@ Signes en faveur d'une **origine virale**: rhinite, fièvre, fatigue.
 > L'examen ORL avec endoscopie laryngée est nécessaire lorsque la dysphonie persiste **4 semaines** (avant en cas de **profession** affectée ou de point d'appel: fumeur, chirurgie ou irradiation cervicale, dysphagie/dyspnée/stridor, signe neurologique ...); 8-15 jours selon le Collège.
 
 - Poids et variations, taille, IMC
-- Pression artérielle, fréquence cardiaque, SpO~2~
+- Pression artérielle, fréquence cardiaque, SpO₂
 - Auscultation cardiorespiratoire
 - Évaluation de la phonation, respiration, déglutition
 - Examen crânio-cervical et pharyngé, otoscopie

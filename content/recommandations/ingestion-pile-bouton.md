@@ -77,7 +77,7 @@ Selon la localisation du patient: appel du SAMU dès la suspicion d'ingestion de
 > [!WARNING]
 > Signes de gravité nécessitant l'appel du SAMU: signes respiratoires, saignement digestif, anémie aiguë, instabilité hémodynamique.
 
-- Pression artérielle, fréquence cardiaque, fréquence respiratoire, SpO~2~
+- Pression artérielle, fréquence cardiaque, fréquence respiratoire, SpO₂
 - Signes d'anémie  
   {{< clinique/anemie >}}.
 - Auscultation cardio-respiratoire

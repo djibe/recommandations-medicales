@@ -85,4 +85,4 @@ La qualité des produits est très variable
 
 {{%/sources%}}
 
-’≤≥±®æœŒÈ⅓¼½¾¹²³^4^ÂSpO~2~ -- ‰
+’≤≥±®æœŒÈ⅓¼½¾¹²³^4^ÂSpO₂ -- ‰

@@ -44,7 +44,7 @@ Angor peu probable
 EE
 : épreuve d'effort
 
-EEVO~2~
+EEVO₂
 : épreuve d'effort cardiorespiratoire
 
 HTAP
@@ -103,7 +103,7 @@ RCV
 
 Épreuve d'effort doit être envisagée
 : Enfant avec cardiopathie congénitale.
-: Adulte avec cardiopathie congénitale (EEVO~2~).
+: Adulte avec cardiopathie congénitale (EEVO₂).
 
 </div>
 <div class="collapse" id="collapse-chir">
@@ -159,10 +159,10 @@ RCV
 #### HTAP {.typography-headline-6 .mt-5}
 
 Épreuve d'effort recommandée
-: Au diagnostic puis tous les 6 à 12 mois (EEVO~2~).
+: Au diagnostic puis tous les 6 à 12 mois (EEVO₂).
 
 Épreuve d'effort doit être envisagée
-: Aggravation des symptômes (EEVO~2~).
+: Aggravation des symptômes (EEVO₂).
 
 </div>
 <div class="collapse" id="collapse-hypertrophie">
@@ -170,7 +170,7 @@ RCV
 #### Cardiomyopathie hypertrophique {.typography-headline-6 .mt-5}
 
 Épreuve d'effort doit être envisagée
-: Pour évaluer la capacité fonctionnelle et les marqueurs pronostiques (arythmie ventriculaire, réponse tensionnelle à l'effort)(EEVO~2~).  
+: Pour évaluer la capacité fonctionnelle et les marqueurs pronostiques (arythmie ventriculaire, réponse tensionnelle à l'effort)(EEVO₂).  
 Répéter tous les 1-2 ans pour évaluer la réponse tensionnelle et l'efficacité du traitement.
 
 </div>
@@ -179,11 +179,11 @@ Répéter tous les 1-2 ans pour évaluer la réponse tensionnelle et l'efficacit
 #### Insuffisance cardiaque {.typography-headline-6 .mt-5}
 
 Épreuve d'effort recommandée
-: Pour optimiser l'entraînement à l'effort (EEVO~2~).
-: Pour évaluer la capacité fonctionnelle et préciser l'indication d'une assistance ventriculaire ou transplantation cardiaque (EEVO~2~).
+: Pour optimiser l'entraînement à l'effort (EEVO₂).
+: Pour évaluer la capacité fonctionnelle et préciser l'indication d'une assistance ventriculaire ou transplantation cardiaque (EEVO₂).
 
 Épreuve d'effort doit être envisagée
-: Dyspnée inexpliquée ou ischémie myocardique (EEVO~2~).
+: Dyspnée inexpliquée ou ischémie myocardique (EEVO₂).
 
 </div>
 <div class="collapse" id="collapse-pm">
@@ -231,8 +231,8 @@ Ex: athlète, pilote de ligne, chauffeur routier ou de bus.
 #### Valvulopathie {.typography-headline-6 .mt-5}
 
 Épreuve d'effort doit être envisagée
-: Sténose aortique sévère asymptomatique (EEVO~2~).
-: Valvulopathie (hors sténose aortique) avec discordance clinique-échocardiographie (EEVO~2~).
+: Sténose aortique sévère asymptomatique (EEVO₂).
+: Valvulopathie (hors sténose aortique) avec discordance clinique-échocardiographie (EEVO₂).
 
 </div>
 
@@ -266,10 +266,10 @@ window.addEventListener('load', () => {
 - Symptômes à l'effort  
   Syncope, fatigue anormale, palpitations.
 - Insuffisance cardiaque
-  - Pour optimiser l'entraînement à l'effort (EEVO~2~).
-  - Pour évaluer la capacité fonctionnelle et préciser l'indication d'une assistance ventriculaire ou d'une transplantation cardiaque (EEVO~2~).
+  - Pour optimiser l'entraînement à l'effort (EEVO₂).
+  - Pour évaluer la capacité fonctionnelle et préciser l'indication d'une assistance ventriculaire ou d'une transplantation cardiaque (EEVO₂).
 - HTAP  
-  Au diagnostic puis tous les 6 à 12 mois (EEVO~2~).
+  Au diagnostic puis tous les 6 à 12 mois (EEVO₂).
 - AOMI
 - HTA avec angor et ECG normal
 - Diabète avec angor, dyspnée inexpliquée, réduction des performances, {{< modal-btn modal-coronaire-diabete >}}très haut risque coronaire (répétée tous les 3-5 ans){{< /modal-btn >}}.  
@@ -286,20 +286,20 @@ window.addEventListener('load', () => {
 - Évaluer la revascularisation coronarienne et référence pour le suivi
 - Efficacité de traitement anti-arythmique (médicament, ablation)
 - Réglage fin des stimulateurs cardiaques implantés ou défibrillateurs
-- Sténose aortique sévère asymptomatique (EEVO~2~)
-- Valvulopathie (hors sténose aortique) avec discordance clinique - échocardiographie (EEVO~2~)
-- Insuffisant cardiaque avec dyspnée inexpliquée ou ischémie myocardique (EEVO~2~)
+- Sténose aortique sévère asymptomatique (EEVO₂)
+- Valvulopathie (hors sténose aortique) avec discordance clinique - échocardiographie (EEVO₂)
+- Insuffisant cardiaque avec dyspnée inexpliquée ou ischémie myocardique (EEVO₂)
 - Cardiomyopathie hypertrophique
-  - Pour évaluer la capacité fonctionnelle et les marqueurs pronostiques (arythmie ventriculaire, réponse tensionnelle à l'effort)(EEVO~2~).
+  - Pour évaluer la capacité fonctionnelle et les marqueurs pronostiques (arythmie ventriculaire, réponse tensionnelle à l'effort)(EEVO₂).
   - Répéter tous les 1-2 ans pour évaluer la réponse tensionnelle et l'efficacité du traitement
-- HTAP avec aggravation des symptômes (EEVO~2~).
+- HTAP avec aggravation des symptômes (EEVO₂).
 - HTA  
   Pour préciser le pronostic ou prescrire un programme d'entraînement physique adapté
 - Avant chirurgie cardiaque si {{< modal-btn modal-met >}}faible capacité fonctionnelle{{< /modal-btn >}} (< 4 METs)  
   et/ou haut RCV
 - Diabète type 2 avant reprise d'effort intense (*HAS 2024*)
 - Enfant avec cardiopathie congénitale
-- Cardiopathie congénitale (enfant/adulte)(EEVO~2~).
+- Cardiopathie congénitale (enfant/adulte)(EEVO₂).
 
 ### Épreuve d'effort peut être envisagée
 

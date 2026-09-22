@@ -174,7 +174,7 @@ Autres diagnostics à rechercher devant un épisode de douleurs thoraciques:
 ### Examen clinique
 
 - Pression artérielle aux 2 bras, fréquence cardiaque
-- SpO~2~
+- SpO₂
 - Tracé ECG antérieur
 - Auscultation cardio-respiratoire
 - Signes d'insuffisance cardiaque droite  

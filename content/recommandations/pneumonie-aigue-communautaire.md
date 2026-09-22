@@ -70,7 +70,7 @@ ou [spiramycine](https://base-donnees-publique.medicaments.gouv.fr/medicament/66
 
 - Échec à 72 heures: substituer par l'autre classe (macrolide ou amoxicilline) avec nouvelle réévaluation à 72 heures
 - Si 2^e^ échec ou aggravation rapide: avis infectiologique ou discuter l'hospitalisation
-- Arrêt possible chez l'adulte à partir de J3 si: ≤ 37,8 °C, PAS ≥ 90 mmHg, FC ≤ 100/min, FR ≤ 24/min et SpO~2~ ≥ 90 %
+- Arrêt possible chez l'adulte à partir de J3 si: ≤ 37,8 °C, PAS ≥ 90 mmHg, FC ≤ 100/min, FR ≤ 24/min et SpO₂ ≥ 90 %
 
 Arrêt du tabac et vérification des vaccinations (grippe, covid, pneumocoque, VRS).
 
@@ -207,7 +207,7 @@ Signes et symptômes de pneumonie à rechercher à l'examen.
 > Une auscultation normale n'élimine pas le diagnostic de pneumonie.
 
 - Pression artérielle, fréquence cardiaque, température, TRC
-- Fréquence respiratoire, SpO~2~
+- Fréquence respiratoire, SpO₂
 - Examen pulmonaire  
   - Syndrome de condensation alvéolaire: crépitants localisés, diminution du murmure vésiculaire, souffle tubaire, augmentation de la transmission des vibrations vocales
   - Syndrome pleural: abolition du murmure vésiculaire, matité à la percussion
@@ -371,7 +371,7 @@ En l'absence de [critères d'hospitalisation](#critères-dhospitalisation-pour-p
 
 ---
 
-Critères de stabilité clinique pour l'arrêt de l'antibiotique: apyrexie, PAS ≥ 90 mmHg, FC ≤ 100/min, FR ≤ 24/min et SPO~2~ ≥ 90 %.
+Critères de stabilité clinique pour l'arrêt de l'antibiotique: apyrexie, PAS ≥ 90 mmHg, FC ≤ 100/min, FR ≤ 24/min et SPO₂ ≥ 90 %.
 {{%/warning%}}
 
 > Information du patient: **consultation urgente** en cas de dégradation avant la réévaluation clinique. La guérison (toux, expectoration, asthénie) peut prendre **plusieurs semaines** (adulte et enfant).
@@ -483,6 +483,7 @@ graph TB
 - [HAS, SPILF, GPIP. Choix et durées d'antibiothérapies : Pneumonie Aiguë Communautaire chez l'enfant. Recommander les bonnes pratiques. 2025.](https://www.has-sante.fr/jcms/p_3575612/fr/choix-et-durees-d-antibiotherapie-pneumonie-aigue-communautaire-chez-l-enfant)
 - [Dinh A, et al. Update of guidelines for management of community acquired pneumonia in adults by the French infectious disease society (SPILF) and the French-speaking society of respiratory diseases (SPLF). Endorsed by the French intensive care society (SRLF), the French microbiology society (SFM), the French radiology society (SFR) and the French emergency society (SFMU). Infect Dis Now. 2025.](https://www.sciencedirect.com/science/article/pii/S2666991925000132) ([version française (PDF)](https://docs.splf.fr/divers/docs-gen/recos/actualisation-PAC2025.pdf))
 - [NICE. Pneumonia: diagnosis and management. NICE guideline. 2025.](https://www.nice.org.uk/guidance/ng250)
+- [Infovac France. Vaccins conjugués contre le pneumocoque. Mars 2025. (PDF)](https://www.infovac.fr/~documents/route%3A/download/1398/)
 - [HAS, SPILF. Choix et durées d'antibiothérapies : Pneumonie Aiguë Communautaire de l'adulte en ambulatoire. Recommander les bonnes pratiques. 2024.](https://www.has-sante.fr/jcms/p_3575597/fr/choix-et-durees-d-antibiotherapies-pneumonie-aigue-communautaire-de-l-adulte-en-ambulatoire)
 - [Martin-Loeches I, et al. ERS/ESICM/ESCMID/ALAT guidelines for the management of severe community-acquired pneumonia. Eur Respir J. 2023.](https://erj.ersjournals.com/content/61/4/2200735)
 - [HAS. Réponse rapide sur la prise en charge diagnostique et thérapeutique des pneumonies atypiques à Mycoplasma pneumoniae en ambulatoire chez l'enfant et l'adulte. 22/12/2023.](https://www.has-sante.fr/jcms/p_3482996/fr/reponse-rapide-sur-la-prise-en-charge-diagnostique-et-therapeutique-des-pneumonies-atypiques-a-mycoplasma-pneumoniae-en-ambulatoire-chez-l-enfant-et-l-adulte)

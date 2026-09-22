@@ -1,34 +1,22 @@
-/*
 :root {
-  color-scheme: dark;
-  --primary: #bdc2ff;
-  --background: ##1b1b1f;
-  --surface: #1c1b1f;
-  --surface-1: #1b1b1f;
-  --text: #fff;
-  --text-black-primary: rgba(255,255,255,.87);
-  --text-half: rgba(255,255,255, 0.54);
+  //color-scheme: dark;
 }
 
 /* In main CSS
-html {
-  color-scheme: light dark;
-}
-
 html:has([value="light"]:checked {
   color-scheme: light;
 }
 
 html:has([value="dark"]:checked {
   color-scheme: dark;
-}
+}*/
 
 html:has(#mode-switcher [value="light"]:checked) { color-scheme: light }
 
 html:has(#mode-switcher [value="light"]:checked) { color-scheme: light }
 
-body {
-  background-color: var(--surface);
-  color: var(--text);
+/*
+.chip {
+  color: contrast-color(var(--surface));
 }
 */

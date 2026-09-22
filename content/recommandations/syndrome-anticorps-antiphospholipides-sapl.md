@@ -156,4 +156,4 @@ Indications aux HBPM à dose préventive:
 
 {{%/sources%}}
 
-’≤≥±®æœŒÈ⅓¼½¾¹²³^4^ÂSpO~2~ -- ‰
+’≤≥±®æœŒÈ⅓¼½¾¹²³^4^ÂSpO₂ -- ‰

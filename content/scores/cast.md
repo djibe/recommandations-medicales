@@ -1,6 +1,6 @@
 +++
 title = "Questionnaire CAST (Cannabis Abuse Screening Tool)"
-description = "Le questionnaire CAST est un test validé pour le repérage d'un problème de consommation de cannabis"
+description = "Le questionnaire CAST est un score de référence, validé pour le repérage d'une consommation problématique de cannabis."
 longHtml = true
 noSearch = true
 auteurs = ["Jean-Baptiste FRON"]
@@ -10,6 +10,8 @@ lastmod = "2026-09-15"
 specialites = []
 tags = []
 sctid = ""
+rank = "false"
+writing = "ok"
 +++
 
 {{< scores/cast >}}

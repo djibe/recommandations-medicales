@@ -166,7 +166,7 @@ AIE
 : asthme induit par l'exercice
 
 BACA
-: bêta~2~-agoniste de courte durée d'action
+: bêta₂-agoniste de courte durée d'action
 
 CSI
 : corticostéroïde inhalé (ou corticoïde inhalé)
@@ -199,7 +199,7 @@ ITSL
 : immunothérapie par voie sublinguale
 
 LABA
-: bêta~2~-agoniste de longue durée d'action
+: bêta₂-agoniste de longue durée d'action
 
 SC
 : sous-cutané
@@ -207,7 +207,7 @@ SC
 SPLF
 : Société de Pneumologie de Langue Française
 
-SpO~2~
+SpO₂
 : oxymétrie de pouls
 
 TVO
@@ -251,7 +251,7 @@ Appel du SAMU en présence chez l'adulte d'au moins un signe parmi:
 - Fréquence respiratoire ≥ 25/min ou pauses respiratoires
 - Impossibilité de terminer les phrases en une inspiration
 - DEP ≤ 50 % de la théorique ou de la meilleure valeur connue du patient
-- SpO~2~ < 92%
+- SpO₂ < 92%
 - Bradycardie
 - Hypotension
 - Silence auscultatoire
@@ -268,7 +268,7 @@ Appel du SAMU en présence chez l'adulte d'au moins un signe parmi:
 - Non agité
 - Augmentation de la fréquence respiratoire
 - Pouls > 100/min
-- SpO~2~ < 95%
+- SpO₂ < 95%
 - DEP > 50 % de la meilleure valeur connue
 
 {{%/warning%}}
@@ -403,7 +403,7 @@ Mesure du DEP pour les personnes percevant mal leurs symptômes.
 
 - Fréquence cardiaque
 - Fréquence respiratoire
-- ==SpO~2~ cible 93-95 % (6-12 ans: 94-98 %)==  
+- ==SpO₂ cible 93-95 % (6-12 ans: 94-98 %)==  
   Surestimation possible chez le sujet à peau noire.
 - Écarter une anaphylaxie
 - Étayer un diagnostic différentiel: insuffisance cardiaque, corps étranger, [embolie pulmonaire]({{% relref "embolie-pulmonaire.md" %}})

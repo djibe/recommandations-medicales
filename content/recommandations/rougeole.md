@@ -93,7 +93,7 @@ L'incubation de la rougeole dure de 10 à 12 jours et la contagiosité perdure 5
 ### Examen clinique
 
 - Pression artérielle, fréquence cardiaque, température
-- Fréquence respiratoire, SpO~2~
+- Fréquence respiratoire, SpO₂
 - Nourrisson: temps de recoloration cutanée, alimentation, pli cutané
 - Auscultation cardio-respiratoire
 - Examen cutanéo-muqueux et recherche du signe de Köplik (non pathognomonique)

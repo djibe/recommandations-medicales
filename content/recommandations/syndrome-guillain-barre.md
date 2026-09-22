@@ -193,7 +193,7 @@ Le diagnostic de syndrome de Guillain-Barré est **clinico-électroneuromyograph
 
 ### Examen clinique
 
-- **Fréquence respiratoire**, SpO~2~
+- **Fréquence respiratoire**, SpO₂
 - Pression artérielle, fréquence cardiaque
 - **Température**
 - Glycémie capillaire

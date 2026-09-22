@@ -134,7 +134,7 @@ Facteurs pronostiques défavorables dans l'évolution de l'insuffisance cardiaqu
 - Démographiques  
   Âge, homme, bas niveau socio-économique.
 - Sévérité de l'insuffisance cardiaque  
-  {{< modal-btn score-nyha >}}Dyspnée NYHA III-IV{{< /modal-btn >}}, ancienneté de l'IC, VO~2~max basse, respiration de Cheyne-Stokes, performances limitées (test de marche de 6 minutes), hospitalisations, activité du DAI.
+  {{< modal-btn score-nyha >}}Dyspnée NYHA III-IV{{< /modal-btn >}}, ancienneté de l'IC, VO₂max basse, respiration de Cheyne-Stokes, performances limitées (test de marche de 6 minutes), hospitalisations, activité du DAI.
 - Clinique  
   Fréquence cardiaque de repos élevée, pression artérielle basse basse, rétention hydro-sodée, {{< modal-btn modal-mna >}}dénutrition{{< /modal-btn >}}.
 - Dysfonction cardiaque  
@@ -262,7 +262,7 @@ Utiliser toujours le même marqueur au cours du suivi.
 
 La sensibilité de l'ECG est de 89%: << L'IC est peu probable en cas d'ECG totalement normal >>. -- *ESC 2021*
 
-L'**[épreuve d'effort]({{% relref "epreuve-effort.md" %}})** (EEVO~2~) est systématique au diagnostic d'insuffisance cardiaque (*SFC 2018*).
+L'**[épreuve d'effort]({{% relref "epreuve-effort.md" %}})** (EEVO₂) est systématique au diagnostic d'insuffisance cardiaque (*SFC 2018*).
 
 ### Examen génétique
 

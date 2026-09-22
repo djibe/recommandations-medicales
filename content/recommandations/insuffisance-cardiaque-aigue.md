@@ -48,7 +48,7 @@ Insuffisance cardiaque aiguë
 En attendant le SAMU, étayer les tableaux cliniques cardiaques possibles et renseigner pour le SAMU:
 
 - Pression artérielle monitorée, fréquence cardiaque
-- Fréquence respiratoire, SpO~2~
+- Fréquence respiratoire, SpO₂
 - Glycémie capillaire si troubles neurologiques
 - Auscultation cardiorespiratoire
 - ECG si disponible
@@ -93,7 +93,7 @@ La prise en charge d'une insuffisance cardiaque aiguë est une urgence:
 
 {{< mermaid title="Prise en charge de l'insuffisance cardiaque aiguë par le médecin généraliste. Dr JB Fron d'après ESC 2023 et 2021" >}}
 graph TB
-  suspicion["<b>Suspicion d'insuffisance<br>cardiaque aiguë</b><br>—<br>Apparition ou aggravation<br>de signes d'IC:<br>- Dyspnée, orthopnée<br>- Œdèmes des membres inférieurs<br>- Hypotension<br>- Cyanose, marbrures<br>- Oligurie, sueurs<br>- Confusion"] --> clinique("<b>Évaluation clinique rapide</b><br>—<br>- Constantes<br>- SpO<sub>2</sub><br>- Glycémie capillaire<br>- Examen cardiovasculaire") --> SAMU(Appel du SAMU) --> attente("Dans l'attente:<br>- Position adaptée<br>- Monitoring<br>- ECG si disponible<br>- Étayer le tableau clinique:<br>coronarien, OAP, tamponnade,<br>infection, anémie ...<br>- Bilans récents")
+  suspicion["<b>Suspicion d'insuffisance<br>cardiaque aiguë</b><br>—<br>Apparition ou aggravation<br>de signes d'IC:<br>- Dyspnée, orthopnée<br>- Œdèmes des membres inférieurs<br>- Hypotension<br>- Cyanose, marbrures<br>- Oligurie, sueurs<br>- Confusion"] --> clinique("<b>Évaluation clinique rapide</b><br>—<br>- Constantes<br>- SpO₂<br>- Glycémie capillaire<br>- Examen cardiovasculaire") --> SAMU(Appel du SAMU) --> attente("Dans l'attente:<br>- Position adaptée<br>- Monitoring<br>- ECG si disponible<br>- Étayer le tableau clinique:<br>coronarien, OAP, tamponnade,<br>infection, anémie ...<br>- Bilans récents")
   style suspicion stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 

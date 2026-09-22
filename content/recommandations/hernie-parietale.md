@@ -19,7 +19,8 @@ icd10 = ["K43", "K43.9", "K40", "K41", "K42"]
 flowchart = true
 image = true
 imageSrc = "Hernie inguinale de l'homme, myupchar.com, CC BY-SA 4.0, via Wikimedia Commons"
-todo = "SEO"
+rank = "false"
+writing = "false"
 +++
 
 {{%article-summary%}}
@@ -29,6 +30,8 @@ todo = "SEO"
 - Proposition d'une chirurgie puisque toute hernie peut s'étrangler
 - Toute hernie étranglée est une urgence chirurgicale
 - Guide d'information patient SFCD/FCVD: [éventration (PDF)](https://www.fcvd.fr/wp-content/uploads/2022/01/FICHE-D_INFORMATION-PATIENT-EVENTRATIONS.pdf), [hernie de l'aine (PDF)](https://www.fcvd.fr/wp-content/uploads/2022/01/FICHE-D_INFORMATION-PATIENT-EVENTRATIONS.pdf), [hernie ventrale (PDF)](https://www.fcvd.fr/wp-content/uploads/2022/01/FICHE-D_INFORMATION-PATIENT-HERNIES-VENTRALES.pdf)
+
+Chapitre lié: [hernie ombilicale de l'adulte]({{% relref "hernie-ombilicale-adulte.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -139,9 +142,11 @@ La hernie crurale atteinte surtout les femmes:
 {{% /collapse %}}
 {{%collapse "Hernie ombilicale de l'enfant" %}}
 
-La hernie ombilicale de l'enfant:
+Voir [hernie ombilicale de l'adulte]({{% relref "hernie-ombilicale-adulte.md" %}}) (hernie de la ligne blanche).
 
-- Très fréquente (15-20 %, prématuré +++) par hernie au travers de l'orifice ombilical
+Précisions sur la hernie ombilicale de l'enfant:
+
+- Très fréquente (15-20 %, surtout chez le prématuré) par hernie au travers de l'orifice ombilical
 - Apparaît souvent les premières semaines de vie et augmente en volume durant 6 mois
 - Guérison spontanée sous 3 ans le plus souvent (7 ans chez l'enfant à peau noire)
 - Le diagnostic est clinique avec tuméfaction aux caractères herniaires centrée sur l'ombilic

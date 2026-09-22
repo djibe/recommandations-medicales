@@ -317,4 +317,4 @@ Orientation étiologique selon le **bilan urinaire** après lithiase d'oxalate d
 
 {{%/sources%}}
 
-’≤≥±®æœŒÈ¹²³^4^ÂSpO~2~ -- ‰↑↓↗↘ß </b><br>—<br>
+’≤≥±®æœŒÈ¹²³^4^ÂSpO₂ -- ‰↑↓↗↘ß </b><br>—<br>

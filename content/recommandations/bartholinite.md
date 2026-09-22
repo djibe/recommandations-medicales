@@ -109,7 +109,7 @@ La prise en charge de la bartholinite est **uniquement chirurgicale** et l'évol
 
 ### Pour en savoir plus: alternatives à la chirurgie
 
-Le laser CO~2~ peut être utilisé pour détruire la paroi du kyste.
+Le laser CO₂ peut être utilisé pour détruire la paroi du kyste.
 
 Les méthodes suivantes **ne sont pas validées:** cathéter de Word, nitrate d'argent intracavitaire, fenestration large de la paroi de l'abcès, curetage intracavitaire, sclérothérapie à l'alcool.
 

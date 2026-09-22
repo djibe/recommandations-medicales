@@ -28,7 +28,7 @@ todo = "flow | relecture pratique"
 - Chez l'adulte, la laryngite glottique prédomine: infection ORL suivie de dysphonie ou d'aphonie transitoire. Un traitement par aérosols de corticoïdes est possible
   - Les autres formes de laryngite sont rares
 - L'épiglottite est une urgence médicale rare: début brutal, patient assis, penché en avant, bouche demi-ouverte, nuque en hyperextension, refusant la position allongée
-- L'examen clinique recherche des signes de gravité: SpO~2~, fréquence respiratoire, temps de recoloration cutanée, tirage, état général, compréhension des parents, comorbidités ... (voir *Examen du patient*)
+- L'examen clinique recherche des signes de gravité: SpO₂, fréquence respiratoire, temps de recoloration cutanée, tirage, état général, compréhension des parents, comorbidités ... (voir *Examen du patient*)
 - La prise en charge de la laryngite aiguë non grave est surtout symptomatique: repos vocal, arrêt du tabac, antalgie par paracétamol, humidification de l'air
 - Une consultation d'ORL est indiquée chez le moins de 6 mois, en cas de persistance, de récidives. Avis du pneumopédiatre en cas de récidives avant 3 ans
 
@@ -117,7 +117,7 @@ Les autres laryngites de l'adulte sont:
 
 ### Examen clinique
 
-- Fréquence respiratoire, SpO~2~
+- Fréquence respiratoire, SpO₂
 - Pression artérielle, fréquence cardiaque, température
 - Signes de lutte  
   Balancement thoraco-abdominal, tirage, battement des ailes du nez, entonnoir xiphoïdien, geignement expiratoire.

@@ -99,7 +99,7 @@ Le diagnostic de pneumonie d'inhalation est le plus souvent **présomptif**, les
 ### Examen clinique
 
 - Pression artérielle, fréquence cardiaque
-- Fréquence respiratoire, SpO~2~
+- Fréquence respiratoire, SpO₂
 - Auscultation cardio-respiratoire
 - Examen neurologique et des paires crâniennes (dont réflexe nauséeux)
 - État bucco-dentaire
@@ -215,7 +215,7 @@ Recommandations pour la prise en charge de la pneumonie d'inhalation en l'absenc
 - PA systolique ≥ 90 mmHg
 - Fréquence cardiaque ≤ 100/min
 - Fréquence respiratoire ≤ 24/min
-- SpO~2~ ≥ 90 % (ou PaO2 ≥ 60 mmHg)
+- SpO₂ ≥ 90 % (ou PaO2 ≥ 60 mmHg)
 
 Prise en charge à 72 heures du début du traitement de la pneumonie d'inhalation:
 

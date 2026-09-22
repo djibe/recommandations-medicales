@@ -167,6 +167,7 @@ Pour les cas les plus graves, une **colectomie subtotale** peut être envisagée
 - [Kelly CR, et al. ACG Clinical Guidelines: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections. Am J Gastroenterol. 2021.](https://journals.lww.com/ajg/fulltext/2021/06000/acg_clinical_guidelines__prevention,_diagnosis,.12.aspx)
 - [Poylin V, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Clostridioides difficile Infection. Dis Colon Rectum. 2021.](https://journals.lww.com/dcrjournal/fulltext/2021/06000/the_american_society_of_colon_and_rectal_surgeons.5.aspx)
 - [HAS. Modification de la nomenclature des actes de biologie médicale pour les actes de diagnostic biologique des infections à Clostridium difficile. 2016.](https://www.has-sante.fr/jcms/c_2607794/fr/modification-de-la-nomenclature-des-actes-de-biologie-medicale-pour-les-actes-de-diagnostic-biologique-des-infections-a-clostridium-difficile)
+- [Debast SB, et al; European Society of Clinical Microbiology and Infectious Diseases. European Society of Clinical Microbiology and Infectious Diseases: update of the treatment guidance document for Clostridium difficile infection. Clin Microbiol Infect. 2014.](https://www.clinicalmicrobiologyandinfection.org/article/S1198-743X(14)60002-1/fulltext)
 
 ### Bibliographie pour en savoir plus
 

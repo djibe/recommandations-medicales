@@ -103,7 +103,7 @@ Recommandations pour la prise en charge de la bactériurie d'importance clinique
   - Température > 38°C
   - Pression artérielle systolique ≤ 110 mmHg
   - Fréquence cardiaque > 110/min
-  - SpO~2~ ≤ 95 %
+  - SpO₂ ≤ 95 %
   - Altération récente de l'état mental
 
 {{% /collapse %}}

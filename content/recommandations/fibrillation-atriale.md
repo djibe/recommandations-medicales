@@ -32,9 +32,9 @@ flowchart = true
 - La prise en charge de la fibrillation atriale est cardiologique spécialisée et comprend de façon répétée:
   - Type de fibrillation (paroxystique, permanente ...)
   - Traitement des comorbidités (HTA, insuffisance cardiaque, diabète, ...)
-  - Évaluation du {{< modal-btn modal-chads >}}risque embolique - score CHA~2~DS~2~-VA{{< /modal-btn >}} et du risque hémorragique, {{< modal-btn modal-aod >}}anticoagulation{{< /modal-btn >}} à vie
+  - Évaluation du {{< modal-btn modal-chads >}}risque embolique - score CHA₂DS₂-VA{{< /modal-btn >}} et du risque hémorragique, {{< modal-btn modal-aod >}}anticoagulation{{< /modal-btn >}} à vie
   - Contrôle des symptômes, du rythme cardiaque ({{< modal-btn modal-bradycardisant >}}bêtabloquant, inhibiteur calcique ND, digoxine{{< /modal-btn >}}, FC < 110 bpm voire moins) et antiarythmique
-  - Sur avis spécialisé: cardioversion. Après cardioversion, l'anticoagulation est poursuivie selon le score CHA~2~DS~2~-VA
+  - Sur avis spécialisé: cardioversion. Après cardioversion, l'anticoagulation est poursuivie selon le score CHA₂DS₂-VA
 - En cas de FA mal tolérée, appeler le SAMU. La découverte d'une FA nécessite un avis cardiologique rapide et une anticoagulation
 
 {{%/article-summary%}}
@@ -231,9 +231,9 @@ Envisager un ECG de dépistage systématique à partir de 75 ans (ou avec dispos
 
 Réévaluer régulièrement les risques emboliques et de saignement.
 
-### Évaluer le risque embolique: score CHA~2~DS~2~-VA
+### Évaluer le risque embolique: score CHA₂DS₂-VA
 
-{{< modal-btn modal-chads >}}Calculer le score CHA~2~DS~2~-VA{{< /modal-btn >}} quel que soit le type de FA (sauf valve mécanique ou sténose mitrale modérée à sévère où un AVK est systématique).
+{{< modal-btn modal-chads >}}Calculer le score CHA₂DS₂-VA{{< /modal-btn >}} quel que soit le type de FA (sauf valve mécanique ou sténose mitrale modérée à sévère où un AVK est systématique).
 
 En cas d'IRC sévère, le risque embolique est d'emblée élevé (*ESC/ERA 2026*).
 
@@ -264,7 +264,7 @@ Recommandations générales pour la prise en charge de la fibrillation atriale (
 - **Contrôle du rythme** (voir chapitre suivant)  
   Cible < 110 bpm par {{< modal-btn modal-bradycardisant >}}BB ou digoxine ou ICND{{< /modal-btn >}}, voire moins en cas de symptômes persistants.
 - La **cardioversion** n'est pas abordée: cardiologue uniquement  
-  L'anticoagulant est poursuivi selon le score CHA~2~DS~2~-VA.
+  L'anticoagulant est poursuivi selon le score CHA₂DS₂-VA.
 - Hypertension artérielle
   - Cible de la population générale (< 130/80): 120-129 / 70-79 mmHg
   - FC ≥ 80 bpm: {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}} + BB > + ICa-DHP/thiazidique > + ICa-DHP + thiazidique
@@ -348,7 +348,7 @@ ECG de contrôle à 1-2 semaines (1 mois pour l'amiodarone).
   Alcool, tabac, hypertension artérielle, apnées du sommeil, diabète, activité physique, surpoids.
 - Symptômes et {{< modal-btn modal-mehra >}}impact sur les activités{{< /modal-btn >}}  
   Type, durée quotidienne.
-- {{< modal-btn modal-chads >}}Réévaluation CHA~2~DS~2~-VA{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}HAS-BLED{{< /modal-btn >}}
+- {{< modal-btn modal-chads >}}Réévaluation CHA₂DS₂-VA{{< /modal-btn >}} et {{< modal-btn modal-hasbled >}}HAS-BLED{{< /modal-btn >}}
 - FC au repos < 80 bpm
 - {{< modal-btn modal-observance >}}Observance{{< /modal-btn >}}
 - Complications: AVC/AIT, saignements

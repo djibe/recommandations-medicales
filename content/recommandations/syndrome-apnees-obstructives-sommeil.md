@@ -271,7 +271,7 @@ Les apnées du sommeil sont fréquentes et très rarement diagnostiquées:
 
 - Poids, taille, IMC
 - Périmètre abdominal et cervical
-- Pression artérielle aux 2 bras avec pouls, fréquence cardiaque, SpO~2~
+- Pression artérielle aux 2 bras avec pouls, fréquence cardiaque, SpO₂
 - Examen ORL
   - Rétrognatisme
   - Macroglossie
@@ -319,7 +319,7 @@ Indications aux gaz du sang au cours du bilan d'apnées du sommeil:
 
 - BPCO, trouble ventilatoire obstructif
 - Obésité ≥ grade 2 (35 kg/m²)
-- Sp0~2~ éveil < 94 %
+- Sp0₂ éveil < 94 %
 
 ### Épreuves fonctionnelles respiratoires (EFR)
 

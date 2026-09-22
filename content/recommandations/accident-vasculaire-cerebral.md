@@ -149,7 +149,7 @@ Et déficit sensitif brutal (35%)
   - Allergies
   - Traitements en cours
   - Constantes
-  - SpO~2~
+  - SpO₂
   - Glycémie capillaire
   - ECG si disponible
   - [Score NIHSS](https://www.sfmu.org/calculateurs/NIHSS.html)
@@ -241,7 +241,7 @@ Prise en charge de l'AVC selon certaines comorbidités.
 
 Pour l'AIC sans étiologie retrouvée, dépistage de troubles du rythme par Holter-ECG implantable pendant +48 heures (*ESO 2022*).
 
-Anticoagulation au long cours par [AVK warfarine]({{% relref "avk.md" %}}) ou anticoagulant oral (AOD) selon le {{< modal-btn modal-chads >}}score CHA~2~DS~2~-VASc{{< /modal-btn >}}.
+Anticoagulation au long cours par [AVK warfarine]({{% relref "avk.md" %}}) ou anticoagulant oral (AOD) selon le {{< modal-btn modal-chads >}}score CHA₂DS₂-VASc{{< /modal-btn >}}.
 
 ### Prothèse valvulaire mécanique et AVC
 

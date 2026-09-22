@@ -16,7 +16,7 @@ Sélection de grilles et scores essentiels en pratique quotidienne de médecine 
 
 HTA: [carnet d'automesure tensionnelle à imprimer](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf)
 
-- ACFA: {{< modal-btn modal-chadsva >}}score CHA~2~DS~2~-VA{{< /modal-btn >}}
+- ACFA: {{< modal-btn modal-chadsva >}}score CHA₂DS₂-VA{{< /modal-btn >}}
 - AOMI: {{< modal-btn modal-depistage-prevalent >}}critères de dépistage chez le +55 ans{{< /modal-btn >}}
 - Apnées du sommeil: {{< modal-btn modal-saos >}}STOP-BANG{{< /modal-btn >}}
 - Phlébite: {{< modal-btn modal-tvp >}}scores de Wells, Constans et LEFt pour la grossesse{{< /modal-btn >}}

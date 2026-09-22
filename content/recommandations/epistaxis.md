@@ -85,7 +85,7 @@ La plupart des épistaxis sont spontanément résolutives ou s'arrêtent avec de
 
 ### Examen clinique
 
-- Pression artérielle, fréquence cardiaque, SpO~2~ et **surveillance**
+- Pression artérielle, fréquence cardiaque, SpO₂ et **surveillance**
 - Détresse respiratoire
 - Signes de choc  
   {{< clinique/choc >}}.

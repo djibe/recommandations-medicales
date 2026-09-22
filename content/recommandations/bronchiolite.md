@@ -128,7 +128,7 @@ Diagnostics à étayer devant un épisode de dyspnée du nourrisson:
 | FR (/min)                           | < 60                  | 60-69                          | ≥ 70 ou < 30<br>ou respiration superficielle |
 | FC (> 180 ou < 80/min)              | Non                   | Non                            | Oui                                          |
 | Utilisation des muscles accessoires | Légère                | Modérée                        | Intense                                      |
-| SpO~2~ (%)                 | > 92                  | 90 < SpO~2~ ≤ 92      | ≤ 90 ou cyanose                              |
+| SpO₂ (%)                 | > 92                  | 90 < SpO₂ ≤ 92      | ≤ 90 ou cyanose                              |
 | Alimentation (%)                    | > 50                  | < 50 sur 3 prises consécutives | Réduction importante<br>ou refus             |
 | Interprétation                      | Critères tous remplis | ≥ 1 critère<br>(et non grave)  | ≥ 1 critère                                  |
 {caption="Formes cliniques de la bronchiolite avec les signes cliniques de gravité selon *HAS/CNPP 2019*" class="table-wrap"}
@@ -151,7 +151,7 @@ L'hospitalisation est la règle en présence de signe de gravité (*forme grave*
   Mise en jeu des muscles accessoires intercostaux inférieurs, SCM, balancement thoraco-abdominal, battement des ailes du nez.
   - Alimentation  
     < 50 % de la quantité habituelle sur 3 prises consécutives ou refus alimentaire.
-  - SpO~2~ < 92%
+  - SpO₂ < 92%
   - Prématuré ≤ 34 SA avec oxygéno-dépendance néonatale > 28j ET < 6 mois en début d'épidémie de VRS (indication palivizumab)
 - Forme modérée avec
   - Âge corrigé < 2 mois
@@ -202,7 +202,7 @@ Toujours rechercher une hépatomégalie, seul signe permettant d'éliminer une i
 - Désinfection des mains et matériel et masque FFP2
 - Constantes
   - Fréquence cardiaque (> 180 ou < 80/min), température
-  - Rythme respiratoire, fréquence respiratoire (sur 1 minute), SpO~2~ (éveil et air ambiant)
+  - Rythme respiratoire, fréquence respiratoire (sur 1 minute), SpO₂ (éveil et air ambiant)
   - Rechercher une fièvre pour éliminer une surinfection pulmonaire
   - Noter les valeurs dans le dossier
 - AEG
@@ -318,7 +318,7 @@ Recommandations de prise en charge d'un épisode de bronchiolite:
   - << Les aspirations nasopharyngées ont plus d'effets secondaires et ne sont pas recommandées >>
 - Couchage habituel sur le dos à plat
 - Surveillance régulière de la gêne respiratoire et de l'alimentation  
-  - Si possible: Fréquence respiratoire, SpO~2~, température, alimentation, poids, comportement
+  - Si possible: Fréquence respiratoire, SpO₂, température, alimentation, poids, comportement
   - Guérison complète sous 4-6 semaines  
   Bilan spécialisé si persistance au-delà.
 - Hydratation
@@ -353,8 +353,8 @@ Selon la Revue Prescrire: peu de place pour la kinésithérapie respiratoire sau
 Indications spécifiques au cours d'un épisode de bronchiolite:
 
 - Oxygénothérapie  
-  - Forme grave: SpO~2~ > 94%
-  - Forme modérée avec SpO~2~ ≤ 92%: cible > 92 % éveil et 90 % sommeil
+  - Forme grave: SpO₂ > 94%
+  - Forme modérée avec SpO₂ ≤ 92%: cible > 92 % éveil et 90 % sommeil
   - Cardiopathie: cible habituelle ou > 92 % par défaut
 - Discuter une antibiothérapie si:
   fièvre ≥ 38,5°C pendant +48 heures, [otite associée]({{% relref "otite-moyenne-aigue.md" %}}), pathologie pulmonaire ou cardiaque sous-jacente, foyer pulmonaire radiologiquement documenté, élévation de la CRP ou hyperleucocytose.

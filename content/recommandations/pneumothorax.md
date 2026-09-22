@@ -100,7 +100,7 @@ Le pneumothorax peut être asymptomatique.
 ### Examen clinique
 
 - Pression artérielle fréquence cardiaque
-- Fréquence respiratoire, **SpO~2~**
+- Fréquence respiratoire, **SpO₂**
 - Signes de détresse respiratoire  
   {{< clinique/detresse-respiratoire >}}.
 - Signes d'hypoxémie  

@@ -164,7 +164,7 @@ Traitements de première intention des condylomes (par ordre coût-efficacité):
   - Si besoin: répéter chaque semaine pendant maximum 5 semaines
   - ± associée à la vaseline et/ou la cryothérapie.
 - **Imiquimod 5 % crème** ([Aldara®](https://www.ema.europa.eu/fr/documents/product-information/aldara-epar-product-information_fr.pdf), lire la notice), 1 application pendant 6 à 10 heures puis rincer, 1 jour sur 2 pendant maximum 16 semaines.  
-  Peut être couplé au **traitement ablatif** (cryothérapie, (électro)chirurgie, laser CO~2~)
+  Peut être couplé au **traitement ablatif** (cryothérapie, (électro)chirurgie, laser CO₂)
 - **Cryothérapie**
 - Chirurgie: condylomes volumineux
 - Populations spécifiques:
@@ -176,17 +176,17 @@ Traitements de première intention des condylomes (par ordre coût-efficacité):
 #### Traitements préférentiels selon la localisation
 
 - **Condylomes urétraux:**  
-  Podophyllotoxine, cryothérapie, laser CO~2~.
+  Podophyllotoxine, cryothérapie, laser CO₂.
 - **Condylomes anaux:**  
-  Examen proctologique, cryothérapie, imiquimod (sur suppositoire), électrocoagulation, laser CO~2~.
+  Examen proctologique, cryothérapie, imiquimod (sur suppositoire), électrocoagulation, laser CO₂.
 - **Condylomes vaginaux:**  
-  Imiquimod (sur tampon), laser CO~2~, cryothérapie, tous les autres.
+  Imiquimod (sur tampon), laser CO₂, cryothérapie, tous les autres.
 
 #### Traitements des condylomes de 2e ligne
 
 - Chirurgie: condylomes résistants
 - Électrochirurgie
-- Laser CO~2~
+- Laser CO₂
 - Acide trichloracétique (TCA). Application médicale hebdomadaire.
 - 5-fluorouracile 5 % crème (5-FU; [Efudix®](https://base-donnees-publique.medicaments.gouv.fr/medicament/60627235/extrait#tab-rcp))
 - Hydroxyde de potassium (KOH, parapharmacie hors AMM; Molusderm®, Molutrex®)

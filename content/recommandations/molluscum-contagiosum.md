@@ -89,7 +89,7 @@ Une anesthésie locale est possible (crème de lidocaïne).
 > << l'imiquimod topique à 5 % n'est pas plus efficace que le placebo >> -- *Cochrane 2017*
 
 > [!WARNING]
-> L'électrocoagulation et le laser CO~2~ ne sont pas recommandés (*SFD 2016*).
+> L'électrocoagulation et le laser CO₂ ne sont pas recommandés (*SFD 2016*).
 
 {{% /collapse %}}
 {{% collapse "Prise en charge des molluscum contagiosum" "show" %}}

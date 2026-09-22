@@ -130,7 +130,7 @@ L'interrogatoire est essentiel pour différencier la dysphagie d'un diagnostic d
 ### Examen clinique
 
 - Poids et variations, taille, IMC
-- ± SpO~2~
+- ± SpO₂
 - Auscultation cardio-respiratoire
 - Examen buccal et pharyngé
 - Palpation cervicale et de thyroïdienne

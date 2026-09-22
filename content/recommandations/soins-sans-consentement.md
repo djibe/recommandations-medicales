@@ -45,4 +45,4 @@ article R. 3213-3 du code de la santé publique: <https://www.legifrance.gouv.fr
 
 {{%/sources%}}
 
-≤≥±®æœŒÈ³ÂSpO~2~
+≤≥±®æœŒÈ³ÂSpO₂

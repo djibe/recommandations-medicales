@@ -1,7 +1,6 @@
 +++
-title = "Score embolique CHA~2~DS~2~-VA"
-titleSeo = "Score embolique CHA2DS2-VA"
-description = "Score CHA2DS2-VA recommandé pour le calcul du risque d'AVC chez les patients atteint de fibrillation atriale (FA)."
+title = "Score embolique CHA₂DS₂-VA"
+description = "Le score CHA₂DS₂-VA est le test de référence pour évaluer le risque de thrombo-embolie au cours de la fibrillation atriale (FA) et décider d'une anticoagulation."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
@@ -11,6 +10,8 @@ lastmod = "2026-09-15"
 specialites = []
 tags = []
 sctid = ""
+rank = "ok"
+writing = "ok"
 +++
 
 {{< scores/cha2ds2va >}}

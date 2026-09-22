@@ -141,7 +141,7 @@ La prise en charge de l'insuffisance rénale aiguë est guidée par l'évolution
 ### Examen clinique
 
 - Pression artérielle, fréquence cardiaque
-- Fréquence respiratoire, SpO~2~
+- Fréquence respiratoire, SpO₂
 - Poids et variation
 - Signes de déshydratation  
   {{< clinique/deshydratation >}}
