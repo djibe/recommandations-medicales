@@ -23,6 +23,7 @@ image = true
 imageWEBP = true
 imageSrc = "Composants toxiques de la cigarette par La Ligue contre le cancer"
 rank = "ok"
+writing = "false"
 todo = "bénéfices de l'arrêt, aider à gérer la rechute: HAS p.33+35+36; Arret avant 30ans : élimine 100 % du risque de décès par coro. Avant 40 ans : élimine 90 % du risque (Pirie Ket al. Lancet 2013 ; 381:133-41)"
 +++
 
@@ -365,12 +366,13 @@ Possible en cas d'antécédents neuro-psychiatriques.
 {{%collapse "Place de la cigarette électronique" %}}
 
 {{%info%}}
-Injonctions paradoxales pour le généraliste:
+Injonctions paradoxales pour le généraliste pour le recours à la cigarette électronique pour le sevrage tabagique:
 
-- << L'efficacité du vapotage dans le cadre du sevrage tabagique reste controversée. >> -- *GOLD 2024*
+- << (...) il convient d'inclure les cigarettes électroniques dans les débats sur les traitements pharmacologiques fondés sur des données probantes visant à aider à arrêter de fumer, afin de réduire les effets nocifs du tabagisme.>> -- *International Society for Research on Nicotine and Tobacco 2026*
+- << L'efficacité du vapotage dans le cadre du sevrage tabagique reste controversée. >> -- *GOLD 2026*
 - << Les connaissances fondées sur les preuves sont insuffisantes pour proposer les SEDEN comme aides au sevrage tabagique dans la prise en charge des fumeurs par les professionnels de santé >> -- *HCSP 2022*
 - << La cigarette électronique peut être considérée comme une aide au sevrage tabagique (*Collège*) >>
-- << les CE [NDLR cigarettes électroniques] avec nicotine aident plus de personnes à arrêter de fumer que les TSN. Les CE avec nicotine aident probablement plus de personnes à arrêter de fumer que les CE sans nicotine, mais d'autres études sont encore nécessaires pour le confirmer. >> -- *Cochrane 2022*
+- << les CE [cigarettes électroniques] avec nicotine aident plus de personnes à arrêter de fumer que les TSN. Les CE avec nicotine aident probablement plus de personnes à arrêter de fumer que les CE sans nicotine, mais d'autres études sont encore nécessaires pour le confirmer. >> -- *Cochrane 2022*
 {{%/info%}}
 
 Synthèse des 13 recommandations du *Haut Conseil de la Santé Publique* pour la prise en charge par cigarette électronique (SEDEN) du sevrage tabagique (les 5 premières nous concernent):
@@ -457,6 +459,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Observatoire français des drogues et des tendances addictives (OFDT). Tabagisme et arrêt du tabac en 2025. 2026.](https://www.ofdt.fr/actualite/tabagisme-et-arret-du-tabac-en-2025-2683)
 - [Lindson N, et al. Electronic cigarettes for smoking cessation. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010216.pub9/full/fr)
 - [Santé Publique France. Tabagisme en France : 68 000 décès évitables en 2023, une baisse encourageante mais un fardeau toujours trop important. 16/02/2026.](https://www.santepubliquefrance.fr/presse/2026/tabagisme-en-france-68-000-deces-evitables-en-2023-une-baisse-encourageante-mais-un-fardeau-toujours-trop-important)
 - [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
@@ -479,7 +482,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Observatoire français des drogues et des tendances addictives (OFDT). Tabagisme et arrêt du tabac en 2023. 2024.](https://www.ofdt.fr/publication/2024/tabagisme-et-arret-du-tabac-en-2023-2093)
+- [Leavens ELS, et al. Nicotine E-Cigarettes for Cigarette Smoking Cessation: Recommendations to US-Based Clinicians. JAMA. 2026. 10.1001/jama.2026.13087](payant)
 - [Cho ER, et al. Smoking Cessation and Short- and Longer-Term Mortality. NEJM Evid. 2024.](https://evidence.nejm.org/doi/abs/10.1056/EVIDoa2300272)
 
 {{%/sources%}}
