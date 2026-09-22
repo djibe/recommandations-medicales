@@ -110,305 +110,179 @@
   // Ce script implémente le calcul du risque cardiovasculaire selon l'algorithme SCORE2
   // pour les régions à faible risque.
   // Source: SCORE2 risk prediction algorithms, ESC European Heart Journal, 2021.
+  // Thresholds updated with ESC 2025 dyslipidemia
 
   document.addEventListener("DOMContentLoaded", function () {
-    const calculateBtn = document.getElementById("calculate-btn");
-    const form = document.getElementById("score-form");
-    const resultSection = document.getElementById("result-section");
-    const resultDisplay = document.getElementById("result-display");
-    const riskScoreEl = document.getElementById("risk-score");
-    const riskCategoryEl = document.getElementById("risk-category");
-    const riskDescriptionEl = document.getElementById("risk-description");
-    const errorSection = document.getElementById("error-section");
-    const errorMessageEl = document.getElementById("error-message");
 
-    calculateBtn.addEventListener("click", calculateScore);
+  const calculateBtn = document.getElementById("calculate-btn");
+  const form = document.getElementById("score-form");
+  const resultSection = document.getElementById("result-section");
+  const resultDisplay = document.getElementById("result-display");
+  const riskScoreEl = document.getElementById("risk-score");
+  const riskCategoryEl = document.getElementById("risk-category");
+  const riskDescriptionEl = document.getElementById("risk-description");
+  const errorSection = document.getElementById("error-section");
+  const errorMessageEl = document.getElementById("error-message");
 
-    function calculateScore() {
-      // Masquer les anciens résultats et erreurs
-      resultSection.classList.add("d-none");
-      errorSection.classList.add("d-none");
-
-      // Récupérer les valeurs du formulaire
-      // LDL-C = TC - HDL-C - (TG/2.2) in mmol/L
-      const gender = form.elements["gender"].value;
-      const age = parseFloat(form.elements["age"].value);
-      const isSmoker = parseInt(form.elements["smoker"].value);
-      const sbp = parseInt(form.elements["sbp"].value);
-      const tchol = parseFloat(form.elements["cht"].value);
-      const thdl = parseFloat(form.elements["hdl"].value);
-
-      // Coefficients SCORE2 pour les pays à faible risque (ex: France)
-    let coeffs;
-
-    if (age < 70) {
-      coeffs = {
-      female: {
-        age: 0.4648,
-        smoker: 0.7744,
-        sbp: 0.3131,
-        tchol: 0.1002,
-        thdl: -0.2606,
-        smoker_age: -0.1088,
-        sbp_age: -0.0277,
-        tchol_age: -0.0226,
-        thdl_age: 0.0613,
-        basesurv: 0.9776,
-        scale1: -0.738,
-        scale2: 0.7019,
-      },
-      male: {
-        age: 0.3742,
-        smoker: 0.6012,
-        sbp: 0.2777,
-        tchol: 0.1458,
-        thdl: -0.2698,
-        smoker_age: -0.0755,
-        sbp_age: -0.0255,
-        tchol_age: -0.0281,
-        thdl_age: 0.0426,
-        basesurv: 0.9605,
-        scale1: -0.5699,
-        scale2: 0.7476,
-      }
+  // --- Constants & Coefficients (Low Risk Region) ---
+  const COEFFS = {
+    under70: {
+      female: { age: 0.4648, smoker: 0.7744, sbp: 0.3131, tchol: 0.1002, thdl: -0.2606, smoker_age: -0.1088, sbp_age: -0.0277, tchol_age: -0.0226, thdl_age: 0.0613, basesurv: 0.9776, scale1: -0.738, scale2: 0.7019 },
+      male: { age: 0.3742, smoker: 0.6012, sbp: 0.2777, tchol: 0.1458, thdl: -0.2698, smoker_age: -0.0755, sbp_age: -0.0255, tchol_age: -0.0281, thdl_age: 0.0426, basesurv: 0.9605, scale1: -0.5699, scale2: 0.7476 }
+    },
+    over70: {
+      female: { age: 0.0789, smoker: 0.4921, sbp: 0.0102, tchol: 0.0605, thdl: -0.304, smoker_age: -0.0255, sbp_age: -0.0004, tchol_age: -0.0009, thdl_age: 0.0154, basesurv: 0.8082, meanLP: 0.229, scale1: -0.516054, scale2: 1.007238 },
+      male: { age: 0.0634, smoker: 0.3524, sbp: 0.0094, tchol: 0.085, thdl: -0.3564, smoker_age: -0.0247, sbp_age: -0.0005, tchol_age: 0.0073, thdl_age: 0.0091, basesurv: 0.7576, meanLP: 0.0929, scale1: -0.343484, scale2: 1.193038 }
     }
-    } else {
-      // SCORE2-OP; see https://github.com/djibe/recommandations-medicales/issues/24
-        coeffs = {
-          female: {
-            age: 0.0789,
-            smoker: 0.4921,
-            sbp: 0.0102,
-            tchol: 0.0605,
-            thdl: -0.304,
-            smoker_age: -0.0255,
-            sbp_age: -0.0004,
-            tchol_age: -0.0009,
-            thdl_age: 0.0154,
-            basesurv: 0.8082,
-            meanLP: 0.229,
-            scale1: -0.516054,
-            scale2: 1.007238,
-          },
-          male: {
-            age: 0.0634,
-            smoker: 0.3524,
-            sbp: 0.0094,
-            tchol: 0.085,
-            thdl: -0.3564,
-            smoker_age: -0.0247,
-            sbp_age: -0.0005,
-            tchol_age: 0.0073,
-            thdl_age: 0.0091,
-            basesurv: 0.7576,
-            meanLP: 0.0929,
-            scale1: -0.343484,
-            scale2: 1.193038,
-          },
-        };
-      }
+  };
 
-      let c = coeffs[gender];
-      let cage;
-      let csbp;
-      let ctchol;
-      let cthdl;
-      let csmoker_age;
-      let csbp_age;
-      let ctchol_age;
-      let cthdl_age;
+  // --- Event Listeners ---
+  calculateBtn.addEventListener("click", handleCalculateClick);
 
-      // Calcul du prédicteur linéaire (LP)
-      if (age < 70) {
-        cage = (age - 60) / 5;
-        csbp = (sbp - 120) / 20;
-        ctchol = tchol - 6;
-        cthdl = (thdl - 1.3) / 0.5;
-        csmoker_age = cage * isSmoker;
-        csbp_age = cage * csbp;
-        ctchol_age = cage * ctchol;
-        cthdl_age = cage * cthdl;
-      } else {
-        cage = age - 73;
-        csbp = sbp - 150;
-        ctchol = tchol - 6;
-        cthdl = thdl - 1.4;
-        csmoker_age = cage * isSmoker;
-        csbp_age = cage * csbp;
-        ctchol_age = cage * ctchol;
-        cthdl_age = cage * cthdl;
-      }
+  // --- Main Handler ---
+  function handleCalculateClick() {
+    // Reset UI
+    resultSection.classList.add("d-none");
+    errorSection.classList.add("d-none");
 
-      let ctchol_calc = ctchol * c.tchol;
-      let ctchol_rounded = ctchol_calc;
-      let cthdl_calc = cthdl * c.thdl;
-      let cthdl_rounded = cthdl_calc;
+    // Gather inputs
+    const gender = form.elements["gender"].value;
+    const age = parseFloat(form.elements["age"].value);
+    const isSmoker = parseInt(form.elements["smoker"].value, 10);
+    const sbp = parseInt(form.elements["sbp"].value, 10);
+    const tchol = parseFloat(form.elements["cht"].value);
+    const thdl = parseFloat(form.elements["hdl"].value);
 
-      console.log("cage: " + cage);
-      console.log("Age (per year) c.age: " + c.age);
-      console.log("Age calc: " + cage * c.age);
-      console.log("Smoking calc: " + isSmoker * c.smoker);
-      console.log("csbp: " + csbp);
-      console.log("SBP calc: " + csbp * c.sbp);
-      console.log("ctchol: " + ctchol);
-      console.log("cTchol calc: " + ctchol_calc);
-      console.log("cTchol calc rounded: " + ctchol_rounded);
-      console.log("cthdl: " + cthdl);
-      console.log("cThdl calc: " + cthdl_calc);
-      console.log("cThdl calc rounded: " + cthdl_rounded);
-      console.log("smoker_age: " + csmoker_age);
-      console.log("smoker_age calc: " + csmoker_age * c.smoker_age);
-      console.log("sbp_age calc: " + csbp_age * c.sbp_age);
-      console.log("tchol_age calc: " + ctchol_age * c.tchol_age);
-      console.log("thdl_age calc: " + cthdl_age * c.thdl_age);
-      console.log("basesurv: " + c.basesurv);
-
-      let linearPredictor =
-        cage * c.age +
-        isSmoker * c.smoker +
-        csbp * c.sbp +
-        ctchol_rounded +
-        cthdl_rounded +
-        csmoker_age * c.smoker_age +
-        csbp_age * c.sbp_age +
-        ctchol_age * c.tchol_age +
-        cthdl_age * c.thdl_age;
-
-      console.log("linearPredictor: " + linearPredictor);
-
-      // Calcul du risque à 10 ans non calibré
-      let uncalibrated_risk;
-
-      if (age < 70) {
-        uncalibrated_risk = 1 - c.basesurv ** Math.exp(linearPredictor);
-      } else {
-        uncalibrated_risk = 1 - c.basesurv ** Math.exp(linearPredictor - c.meanLP);
-      }
-
-      console.log("uncalibrated: " + uncalibrated_risk);
-
-      // Calibration pays à bas risque
-      let calibrated_10y_risk;
-
-      if (age < 70) {
-        calibrated_10y_risk =
-        1 -
-        Math.exp(
-          -Math.exp(
-            c.scale1 + c.scale2 * Math.log(-Math.log(1 - uncalibrated_risk)),
-          ),
-        );
-      } else {
-        // SCORE2 OP
-        calibrated_10y_risk =
-        1 -
-        Math.exp(
-          -Math.exp(
-            c.scale1 + c.scale2 * Math.log(-Math.log(1 - uncalibrated_risk)),
-          ),
-        );
-      }
-
-      console.log("calibrated: " + calibrated_10y_risk);
-
-      // Conversion en pourcentage
-      const riskPercent = (calibrated_10y_risk * 100).toFixed(0);
-
-      displayResult(riskPercent, age, tchol, sbp);
+    // Validation
+    if (isNaN(age) || isNaN(sbp) || isNaN(tchol) || isNaN(thdl) || !gender) {
+      showError("Veuillez remplir tous les champs avec des valeurs valides.");
+      return;
     }
 
-    function displayResult(risk, age, tchol, sbp) {
-      let category = "";
-      let alertClass = "";
+    // Calculation
+    const riskPercent = computeRisk(gender, age, isSmoker, sbp, tchol, thdl);
 
-      const thresholds = { low: 2, moderate: 10, high: 20 };
+    // Display
+    displayResult(riskPercent, age, tchol, sbp);
+  }
 
-      // 1. Determine the calculated risk tier
-      let riskTier = "";
-      if (risk < thresholds.low) {
-        riskTier = "low";
-      } else if (risk < thresholds.moderate) {
-        riskTier = "moderate";
-      } else if (risk < thresholds.high) {
-        riskTier = "high";
-      } else {
-        riskTier = "very_high";
-      }
+  // --- Calculation Logic (Pure Function) ---
+  function computeRisk(gender, age, isSmoker, sbp, tchol, thdl) {
+    const isOver70 = age >= 70;
+    const c = isOver70 ? COEFFS.over70[gender] : COEFFS.under70[gender];
 
-      // 2. Override to "High Risk" if conditions are met
-      let isForcedHighRisk = false;
-      if ((tchol > 8 || sbp >= 180) && (riskTier === "low" || riskTier === "moderate")) {
-        riskTier = "high";
-        isForcedHighRisk = true;
-      }
+    // Center variables based on age group
+    const cage = isOver70 ? (age - 73) : ((age - 60) / 5);
+    const csbp = isOver70 ? (sbp - 150) : ((sbp - 120) / 20);
+    const ctchol = tchol - 6;
+    const cthdl = isOver70 ? (thdl - 1.4) : ((thdl - 1.3) / 0.5);
 
-      // 3. Assign content based on the final risk tier
-      if (riskTier === "low") {
-        category = '<span class="font-weight-bold">Risque cardiovasculaire faible</span> <br> Mesures d’hygiène universelles';
+    // Interaction terms
+    const csmoker_age = cage * isSmoker;
+    const csbp_age = cage * csbp;
+    const ctchol_age = cage * ctchol;
+    const cthdl_age = cage * cthdl;
+
+    // Linear Predictor (LP)
+    const linearPredictor = (cage * c.age) + (isSmoker * c.smoker) + (csbp * c.sbp) +
+                            (ctchol * c.tchol) + (cthdl * c.thdl) +
+                            (csmoker_age * c.smoker_age) + (csbp_age * c.sbp_age) +
+                            (ctchol_age * c.tchol_age) + (cthdl_age * c.thdl_age);
+
+    // Uncalibrated Risk
+    const lpAdjusted = isOver70 ? (linearPredictor - c.meanLP) : linearPredictor;
+    const uncalibrated_risk = 1 - Math.pow(c.basesurv, Math.exp(lpAdjusted));
+
+    // Calibrated 10-year risk
+    const calibrated_10y_risk = 1 - Math.exp(-Math.exp(c.scale1 + c.scale2 * Math.log(-Math.log(1 - uncalibrated_risk))));
+
+    return parseFloat((calibrated_10y_risk * 100).toFixed(0));
+  }
+
+  // --- UI Update Logic ---
+  function displayResult(risk, age, tchol, sbp) {
+    let category = "";
+    let alertClass = "";
+    let riskTier = "";
+
+    const thresholds = { low: 2, moderate: 10, high: 20 };
+
+    // 1. Determine base risk tier
+    if (risk < thresholds.low) riskTier = "low";
+    else if (risk < thresholds.moderate) riskTier = "moderate";
+    else if (risk < thresholds.high) riskTier = "high";
+    else riskTier = "very_high";
+
+    // 2. Override check for extreme values
+    const isForcedHighRisk = (tchol > 8 || sbp >= 180) && (riskTier === "low" || riskTier === "moderate");
+    if (isForcedHighRisk) {
+      riskTier = "high";
+    }
+
+    // 3. Assign specific guidelines based on tier
+    switch(riskTier) {
+      case "low":
+        category = '<span class="font-weight-bold">Risque cardiovasculaire faible</span><br>Mesures d’hygiène universelles';
         alertClass = "alert-success";
         if (age < 70) {
-          category += '<br> LDL cible &lt; 1,16 g/L';
-          category += ' <hr> Mesures hygiéno-diététiques de réduction du LDL en cas de LDL ≥ 1,16 g/L. <br> Considérer une statine en cas de persistance.';
+          category += '<br>LDL cible &lt; 1,16 g/L<hr>Mesures hygiéno-diététiques de réduction du LDL en cas de LDL ≥ 1,16 g/L.<br>Considérer une statine en cas de persistance.';
         }
-      } else if (riskTier === "moderate") {
-        category = '<span class="font-weight-bold">Risque cardiovasculaire modéré</span> <br> Mesures d’hygiène universelles';
+        break;
+      case "moderate":
+        category = '<span class="font-weight-bold">Risque cardiovasculaire modéré</span><br>Mesures d’hygiène universelles';
         alertClass = "alert-warning";
         if (age < 70) {
-          category += '<br> LDL cible &lt; 1 g/L';
-          category += ' <hr> Mesures hygiéno-diététiques en cas de LDL ≥ 1 g/L. <br> Considérer une statine en cas de persistance.';
+          category += '<br>LDL cible &lt; 1 g/L<hr>Mesures hygiéno-diététiques en cas de LDL ≥ 1 g/L.<br>Considérer une statine en cas de persistance.';
         }
         if (tchol > 7) {
-          category += '<hr> NB. Le cholestérol total est élevé. Un LDL &gt; 1,9 g/L détermine d’emblée un risque CV élevé !';
+          category += '<hr>NB. Le cholestérol total est élevé. Un LDL &gt; 1,9 g/L détermine d’emblée un risque CV élevé !';
         }
-      } else if (riskTier === "high") {
-        category = '<span class="font-weight-bold">Risque cardiovasculaire élevé</span> <br> Mesures d’hygiène universelles';
+        break;
+      case "high":
+        category = '<span class="font-weight-bold">Risque cardiovasculaire élevé</span><br>Mesures d’hygiène universelles';
         alertClass = "alert-danger";
         if (age < 70) {
-          category += '<br> LDL cible &lt; 0,7 g/L et réduction ≥ 50 %. <br> Statine d’emblée si LDL ≥ 1 g/L.';
-          category += '<hr> Mesures hygiéno-diététiques en cas de LDL de 0,7 à 0,99 g/L, considérer une statine en cas de persistance.'
+          category += '<br>LDL cible &lt; 0,7 g/L et réduction ≥ 50 %.<br>Statine d’emblée si LDL ≥ 1 g/L.<hr>Mesures hygiéno-diététiques en cas de LDL de 0,7 à 0,99 g/L, considérer une statine en cas de persistance.';
         } else {
-          category += '<br> Une statine peut être envisagée chez le sujet en bonne santé. <br> Un objectif &lt; 1 g/L peut sembler raisonnable.';
+          category += '<br>Une statine peut être envisagée chez le sujet en bonne santé.<br>Un objectif &lt; 1 g/L peut sembler raisonnable.';
         }
-      } else if (riskTier === "very_high") {
-        category = '<span class="font-weight-bold">Risque cardiovasculaire très élevé</span> <br> Mesures d’hygiène universelles';
+        break;
+      case "very_high":
+        category = '<span class="font-weight-bold">Risque cardiovasculaire très élevé</span><br>Mesures d’hygiène universelles';
         alertClass = "alert-danger";
         if (age < 70) {
-          category += '<br> LDL cible &lt; 0,55 g/L et réduction ≥ 50 %. <br> Statine d’emblée si LDL ≥ 0,7 g/L.';
-          category += '<br> Mesures hygiéno-diététiques en cas de LDL de 0,55 à 0,69 g/L, considérer une statine en cas de persistance.';
+          category += '<br>LDL cible &lt; 0,55 g/L et réduction ≥ 50 %.<br>Statine d’emblée si LDL ≥ 0,7 g/L.<br>Mesures hygiéno-diététiques en cas de LDL de 0,55 à 0,69 g/L, considérer une statine en cas de persistance.';
         } else {
-          category += '<br> Une statine peut être envisagée chez le sujet en bonne santé. <br> Un objectif &lt; 1 g/L peut sembler raisonnable.';
+          category += '<br>Une statine peut être envisagée chez le sujet en bonne santé.<br>Un objectif &lt; 1 g/L peut sembler raisonnable.';
         }
-      }
-
-      // Render SCORE2
-      riskScoreEl.textContent = `${Intl.NumberFormat("fr-FR").format(risk)} %`;
-
-      // 4. Add threshold warnings or override explanations
-      if (isForcedHighRisk) {
-        riskScoreEl.textContent = 'SCORE2 non applicable';
-        category += '<br><br><strong>NB.</strong> Le risque est d’emblée Élevé en raison d’un cholestérol total &gt; 8 mmol/L ou d’une tension artérielle ≥ 180 mmHg.';
-      } else {
-        for (const [level, value] of Object.entries(thresholds)) {
-          // Check if the difference between the risk and the threshold is 2 or less
-          if (value - risk <= 2 && value - risk > 0) {
-            category += '<br><strong>NB.</strong> Le SCORE2 est à moins de 2 points du niveau de risque plus élevé !';
-          }
-        }
-      }
-
-      riskCategoryEl.innerHTML = category;
-      riskDescriptionEl.textContent = `Risque de développer une maladie cardiovasculaire fatale ou non fatale dans les 10 prochaines années.`;
-
-      // Mise à jour des classes de l'alerte
-      resultDisplay.className = "alert"; // Réinitialiser les classes
-      resultDisplay.classList.add(alertClass);
-
-      resultSection.classList.remove("d-none");
+        break;
     }
 
-    function showError(message) {
-      errorMessageEl.textContent = message;
-      errorSection.classList.remove("d-none");
+    // 4. Render output and handle warnings
+    riskScoreEl.textContent = isForcedHighRisk ? 'SCORE2 non applicable' : `${Intl.NumberFormat("fr-FR").format(risk)} %`;
+
+    if (isForcedHighRisk) {
+      category += '<br><br><strong>NB.</strong> Le risque est d’emblée Élevé en raison d’un cholestérol total &gt; 8 mmol/L ou d’une tension artérielle ≥ 180 mmHg.';
+    } else {
+      // Proximity warning
+      for (const threshold of Object.values(thresholds)) {
+        if (threshold - risk <= 2 && threshold - risk > 0) {
+          category += '<br><strong>NB.</strong> Le SCORE2 est à moins de 2 points du niveau de risque plus élevé !';
+          break; // Stop at the first threshold they are close to
+        }
+      }
     }
-  });
+
+    riskCategoryEl.innerHTML = category;
+    riskDescriptionEl.textContent = `Risque de développer une maladie cardiovasculaire fatale ou non fatale dans les 10 prochaines années.`;
+
+    resultDisplay.className = `alert ${alertClass}`;
+    resultSection.classList.remove("d-none");
+  }
+
+  function showError(message) {
+    errorMessageEl.textContent = message;
+    errorSection.classList.remove("d-none");
+  }
+});
 </script>
