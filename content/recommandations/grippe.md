@@ -163,7 +163,7 @@ Vaccins contre la grippe disponibles en France pour la campagne vaccinale pour l
 
 Le vaccin nasal Fluenz Tetra® n'est pas disponible en France.
 
-Les dates de la campagne de vaccination 2026-2027 ne sont pas encore connues. Elle s'étale chaque année de la mi octobre à février.
+La campagne de vaccination antigrippale 2026-2027 débutera le 13 octobre (DGS Urgent 2026_12). Elle s'étale chaque année de la mi octobre à février.
 
 Pas de délai à respecter entre les vaccins anti-grippaux et anti Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
 
