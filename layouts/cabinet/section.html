@@ -17,6 +17,11 @@
           </ol>
         </nav>
       </div>
+      <div class="col-12 mb-4">
+        <a class="chip chip-outline chip-action" href="/cabinet/cotations-generaliste/">Cotations du généraliste</a>
+        <a class="chip chip-outline chip-action" href="/cabinet/generateur-contrat-remplacement-medecin/">Contrat de remplacement</a>
+        <a class="chip chip-outline chip-action" href="/cabinet/colleges-enseignants-medecine/">Livres des Collèges</a>
+      </div>
       <div class="col-12 grid-list">
       {{ range $index, $page := .Pages.ByPublishDate.Reverse }}
         <div class="card card-list">
