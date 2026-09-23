@@ -18,26 +18,28 @@ sctid = "29303009"
 icd10 = []
 image = true
 imageSrc = "L'électrocardiogramme. pch.vector / Freepik"
-todo = "liens | indications ECG, ECG connectés"
+rank = "false"
+writing = "false"
+todo = "liens | indications ECG"
 +++
 
 {{%article-summary%}}
 
 Cette page vise à rassembler un certain nombre de formations et entraînements gratuits à la lecture d'ECG.
 
-Les ressources manquantes peuvent être signalées par les boutons de **Contact**.
-
 {{%/article-summary%}}
 {{%collapse "Cotation des ECG" %}}
 
-L'ECG 12 dérivations (DEQP003 = 14,77 €) est cumulable avec la consultation du généraliste *G* (et *APC*).
+L'ECG 12 dérivations a le code CCAM **DEQP003** (**14,77** €). Il est cumulable avec la consultation du généraliste *G* (et *APC*).
 
-Le modificateur (jour férié, nuit) est applicable en cas d'urgence ou de garde régulée.
+Le modificateur (jour férié, nuit) est applicable en cas d'**urgence** ou de garde régulée.
 
 {{% /collapse %}}
 {{%collapse "Téléexpertise des ECG" %}}
 
-L'ECG annuel est requis en cas de diabète type 2, au diagnostic puis tous les 3 à 5 ans pour l'hypertension artérielle, avant un traitement allongeant le QT ... Ainsi, en dehors de situations d'urgence, cet ECG de routine peut être réalisé au cabinet puis envoyé en [téléexpertise]({{% relref "teleexpertise.md" %}}) (RQD: 10€) pour s'assurer de l'absence d'anomalies.
+L'ECG annuel est requis en cas de diabète type 2, au diagnostic puis tous les 3 à 5 ans pour l'hypertension artérielle, avant un traitement allongeant le QT ...
+
+Ainsi, en dehors de situations d'urgence, cet ECG de routine peut être réalisé au cabinet puis envoyé en [téléexpertise]({{% relref "teleexpertise.md" %}}) (RQD: 10€) pour s'assurer de l'absence d'anomalies.
 
 Sur Omnidoc, le groupe *SOS ECG* offre à tous les confrères cette expertise.
 
@@ -71,3 +73,5 @@ Particularités de l'[ECG pédiatrique](https://fr.my-ekg.com/ecg-pediatrique/ec
 - Skillstat: [ECG Sim](https://www.skillstat.com/ecg-sim/) et [6 Second ECG](https://www.skillstat.com/tools/ecg-simulator/#/-home)
 
 {{% /collapse %}}
+
+{{< card-link title="Article lié: Comparatif des ECG connectés" url="/cabinet/comparatif-ecg-12-derivations/" class="my-5">}}
