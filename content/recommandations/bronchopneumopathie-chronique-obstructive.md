@@ -29,15 +29,16 @@ todo = "PLAN D'ACTION - TargetCOPD, action plan <https://www.livingwellwithcopd.
 
 {{%article-summary%}}
 
-- {{< modal-btn modal-depistage-bpco >}}Dépistage systématique des facteurs de risque de BPCO{{< /modal-btn >}} (tabagisme +20 PA, infections respiratoires récidivantes) et prévention par sevrage tabagique pour tout le monde
-- Le diagnostic de bronchopneumopathie chronique obstructive (BPCO) est spirométrique: trouble ventilatoire obstructif non réversible. Le VEMS est le facteur pronostique majeur ({{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}})
-- Le suivi de la BPCO nécessite un suivi annuel par EFR/spirométrie
-- La prise en charge de la BPCO associe: arrêt du tabac (facteur principal du déclin du VEMS), réhabilitation respiratoire, vaccinations (covid-19, grippe, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, VRS si +65 ans (NR)), activité physique et prévention cardiovasculaire
-- Suivi des symptômes et exacerbations de BPCO: {{< modal-btn modal-score-caat >}}questionnaire CAAT™/CAT™{{< /modal-btn >}} voire {{< modal-btn modal-score-mmrc >}}mMRC{{< /modal-btn >}} pour déterminer la sévérité
-- Bronchodilatateurs de longue durée d'action selon le groupe GOLD ABE: {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}}, {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}} si nécessaire avec {{< modal-btn modal-ttt-bdca >}}bronchodilatateurs de courte durée{{< /modal-btn >}} en cas de gêne respiratoire. Augmenter les doses si besoin voire avis pneumologique pour {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + corticoïdes inhalés CSI{{< /modal-btn >}}
-- Hospitalisation pour exacerbation de BPCO: réévaluation clinique dans les 7 jours, dans les 2 mois par le pneumologue, suivi PRADO, réhabilitation respiratoire
-- [Vidéos des techniques d'inhalation](https://splf.fr/videos-zephir/) ([autre set de vidéos](https://www.asthmaandlung.org.uk/living-with/inhaler-videos))
-- **NB.** La BPCO n'est pas une contre-indication aux bêtabloquants (*ESC 2016 IC*)
+- La bronchopneumopathie chronique obstructive (BPCO) est une maladie respiratoire fréquente, grave et d'aggravation progressive, caractérisée par un trouble ventilatoire obstructif non réversible
+- {{< modal-btn modal-depistage-bpco >}}Dépister systématiquement les facteurs de risque de BPCO{{< /modal-btn >}} (tabagisme +20 PA, infections respiratoires récidivantes) et sevrage tabagique pour tout le monde
+- Le diagnostic de BPCO est spirométrique: VEMS/CV < 0,7 et non réversible. Le VEMS est le facteur pronostique majeur ({{< modal-btn modal-severite-bpco >}}classification GOLD{{< /modal-btn >}})
+- Le suivi des symptômes est facilité par le {{< modal-btn modal-score-caat >}}questionnaire CAAT™/CAT™{{< /modal-btn >}}, la dyspnée par le {{< modal-btn modal-score-mmrc >}}mMRC{{< /modal-btn >}}
+- La prise en charge de la BPCO associe: spirométrie annuelle, bronchodilatateurs (ci-dessous), arrêt du tabac (facteur principal du déclin du VEMS), réhabilitation respiratoire, vaccinations (covid-19, grippe, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, VRS si +65 ans (NR)), activité physique et prévention cardiovasculaire
+- Le choix des bronchodilatateurs de longue durée d'action dépend du groupe GOLD ABE (tableau ci-dessous): {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}}, trithérapie {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + corticoïdes inhalés CSI{{< /modal-btn >}} (guidée par les EFR, les exacerbations)
+- En cas d'exacerbation: évaluation des paramètres vitaux, {{< modal-btn modal-ttt-bdca >}}bronchodilatateurs de courte durée{{< /modal-btn >}}, surveillance
+- La BPCO n'est pas une contre-indication aux bêtabloquants (*ESC 2016 IC*)
+
+Supports: [vidéos des techniques d'inhalation](https://splf.fr/videos-zephir/) ([autre set de vidéos](https://www.asthmaandlung.org.uk/living-with/inhaler-videos))
 
 {{%/article-summary%}}
 
@@ -234,6 +235,7 @@ Tabagisme, âge +35 ans, dyspnée persistante et progressive, décrite comme né
   - [Obésité]({{% relref "obesite-adulte.md" %}}), [dénutrition]({{% relref "denutrition.md" %}}), anémie et polyglobulie
   - [Apnées du sommeil]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}}), dilatation des bronches
   - [Reflux gastrique]({{% relref "reflux-gastro-oesophagien.md" %}})
+  - Parodontopathie
 - Antécédents familiaux  
   Tabagisme, BPCO et maladies respiratoires.
 - Terrain  
@@ -347,7 +349,7 @@ Indications aux **gaz du sang**: SpO₂ ≤ 92 %, {{< modal-btn modal-score-mmrc
 - L'hôpital inclut dans le [programme Prado BPCO](https://www.ameli.fr/medecin/exercice-liberal/services-patients/prado#text_19402)
 - Consultation du médecin traitant dans la semaine  
   Puis suivi à 1 mois, 3 mois, 6 mois et 1 an.
-- Contrôle de la [technique d'inhalation](https://splf.fr/videos-zephir/) de la {{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}})
+- Contrôle de la [technique d'inhalation](https://splf.fr/videos-zephir/) de la {{< modal-btn modal-ttt-laba-lama-csi >}}trithérapie LABA + LAMA + CSI{{< /modal-btn >}}) (groupe GOLD E)
 - Consultation du **pneumologue** dans les 2 mois  
   {{%class%}}Avec EFR et gaz du sang.{{%/class%}}
 - **Réhabilitation respiratoire** dans les 2 à 4 semaines  
@@ -388,7 +390,7 @@ Joindre le courrier détaillé des traitements en cours, contexte social, dernie
 ### 4. Examens complémentaires lors d'une exacerbation
 
 - Biologie selon comorbidités et examen  
-  - Urémie, créatininémie, NT-proBNP, d-dimères
+  - Urée, créatinine, NT-proBNP
   - Les CRP et PCT ne sont pas fiables pour étayer une surinfection (*GOLD 2025* et *SPLF 2017*)
 - ECG si FC > 100 ou < 60/min (*SPLF 2017*)
 - Radiographie thoracique en cas d'incertitude
@@ -397,20 +399,21 @@ Joindre le courrier détaillé des traitements en cours, contexte social, dernie
 
 - **Bronchodilatateurs**
   - Augmenter la dose et la fréquence des {{< modal-btn modal-ttt-bdca >}}BDCA{{< /modal-btn >}} jusqu'à l'amélioration des symptômes (ex: 1-2 bouffées toutes les 2-4 heures) et du traitement de fond
+  - avec ou sans anticholinergiques de courte durée d'action (uniquement disponible dans le {{< modal-btn modal-ttt-baca-sama >}}Bronchodual{{< /modal-btn >}})
   - Envisager l'utilisation d'une chambre d'inhalation (3-5 inspirations par dose de BDCA)
 - Si encombrement: kinésithérapie respiratoire
 - ==Antibiothérapie 5 jours si: aggravation de la dyspnée et augmentation du volume et de la purulence des crachats pendant ≥ 48 heures OU BPCO très sévère== (*HAS 2024*)
-  - **Amoxicilline 1g x 3/j pendant maximum 5 jours**
+  - **Amoxicilline 1 g x 3/j pendant maximum 5 jours**
   - Si allergie aux pénicillines: pristinamycine 1g x 3/j pendant 4 jours
   - Si pénurie: clarithromycine 500 mg x 2/j, roxithromycine 150 mg x 2/j, spiramycine 6-9 MUI/j ou doxycycline 200 mg x 1/j
-  - ECBC en cas d'exacerbations fréquentes (*GOLD*)
+  - ECBC, vitamine D en cas d'exacerbations fréquentes (*GOLD*)
 - **Antibiothérapie adaptée** si critères ci-dessus avec facteur de risque d'échec ou de complication:  
-  +65 ans, échec de la 1re ligne, ≥ 2 exacerbations par an ou 1 hospitalisation, VEMS < 50%, insuffisance cardiaque ou SCA, désaturation/oxygénothérapie.
-  - Amoxicilline/acide clavulanique 1g x 3/j pendant 5 jours
+  +65 ans, échec de la 1^re^ ligne, ≥ 2 exacerbations par an ou 1 hospitalisation, VEMS < 50 %, insuffisance cardiaque ou SCA, désaturation/oxygénothérapie.
+  - ==Amoxicilline/acide clavulanique 1 g== x 3/j pendant 5 jours
   - Si allergie aux pénicillines: triméthoprime/sulfaméthoxazole 800/160 mg x 2/j ou ceftriaxone 1-2 g x 1/j IV ou SC
   - Si pénurie: idem absence de facteur de risque
   - En dernier recours: lévofloxacine 500 mg x 1/j (ne pas utiliser si *Pseudomonas aeruginosa* connu)
-- Corticothérapie orale si exacerbation marquée  
+- **Corticothérapie** orale si exacerbation marquée  
   ==Prednisone 40 mg x 1/j pendant 5 jours== (*GOLD*)
 - Réévaluation clinique toutes les 24-72 heures
 - Avis pneumologique
@@ -528,9 +531,9 @@ Seul le **pneumologue** peut prescrire des **nébulisations** et les traitements
 - Anticorps monoclonal IgG4 dupilumab (Dupixent), mépolizumab (Nucala)
 - Azithromycine 250 mg/j ou 500 mg 3 jours par semaine
 - N-acétylcystéine 600 mg x 2/j
-- Ventilation mécanique ± Pression Positive Continue (PPC)
+- Ventilation mécanique ± pression positive continue (PPC)
 - Pour certains emphysèmes: chirurgie de réduction volumique
-- Si dyspnée réfractaire: opioïdes faible dose (*SPLF 2021*)
+- Si dyspnée réfractaire: opioïdes faible dose (*GOLD 2026*, *SPLF 2021*)
 
 {{%warning%}}
 Ne jamais utiliser:
@@ -592,8 +595,6 @@ Reprendre régulièrement tous les points du *Traitement de fond* ainsi que les 
   - {{< modal-btn modal-score-mmrc >}}Dyspnée selon l'échelle mMRC{{< /modal-btn >}}
   - Test de marche de 6 minutes, lever de chaise ou stepper test
 - **Éosinophilie** (NFS)
-- [État nutritionnel]({{% relref "denutrition.md" %}})  
-  IMC (< 21), perte de poids, santé bucco-dentaire.
 - Retentissement de la maladie
   - Nombre d'**exacerbations** annuelles
   - Nombre d'hospitalisations
@@ -603,8 +604,13 @@ Reprendre régulièrement tous les points du *Traitement de fond* ainsi que les 
   - Gaz du sang annuel si {{< modal-btn modal-severite-bpco >}}GOLD 4{{< /modal-btn >}}
   - **Symptômes et limitation des activités**  
     Fatigue, activités quotidiennes et sociales, qualité de vie, {{< modal-btn modal-score-caat >}}évaluation CAAT™/CAT™{{< /modal-btn >}}.
-- **Recherche de comorbidités aggravantes**  
-  [Anémie]({{% relref "anemie-ferriprive.md" %}}), [asthme]({{% relref "asthme.md" %}}), cancer, [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}), surpoids, troubles du sommeil, troubles anxieux/dépressifs, troubles musculosquelettiques, [hypertension pulmonaire]({{% relref "hypertension-arterielle-pulmonaire.md" %}}).
+- Bronchodilatateurs et consommation
+- **Recherche de comorbidités aggravantes**
+  - [Anémie]({{% relref "anemie-ferriprive.md" %}}), [asthme]({{% relref "asthme.md" %}}), cancer, [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}), surpoids, troubles du sommeil, troubles anxieux/dépressifs, troubles musculosquelettiques, [hypertension pulmonaire]({{% relref "hypertension-arterielle-pulmonaire.md" %}}).
+  - [État nutritionnel]({{% relref "denutrition.md" %}})  
+    IMC, perte de poids, santé bucco-dentaire.
+  - ECG, NTproBNP annuels (*GOLD*)
+  - Ostéodensitométrie tous les 3-5 ans (*GOLD*)
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de la BPCO" "show" %}}
@@ -724,9 +730,10 @@ spirométrie -- Diagnostic différentiel --> differentiel("- Asthme<br>- Cancer 
 
 {{< traitements/baca >}}
 
-Un anticholinergique de courte durée d'action peut être ajouté en cas d'exacerbation:
+{{% /modal %}}
+{{% modal title="Bêta2-agonistes et anticholinergiques de courte durée d'action" id="modal-ttt-baca-sama"%}}
 
-{{< traitements/sama >}}
+{{< traitements/baca-sama >}}
 
 {{% /modal %}}
 {{% modal title="Bêta2-agonistes de longue durée d'action" id="modal-ttt-laba"%}}
