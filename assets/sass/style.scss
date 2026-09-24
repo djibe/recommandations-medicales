@@ -1349,7 +1349,7 @@ legend {
 
 .btn-primary {
   background-color: var(--primary);
-  color: contrast-color(--var(--primary));
+  color: contrast-color(var(--primary));
 }
 
 .btn:not(.btn-icon):not(.btn-float) {
