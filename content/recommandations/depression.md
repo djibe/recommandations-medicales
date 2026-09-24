@@ -32,7 +32,7 @@ flowchart = true
 - En cas de diagnostic d'épisode dépressif caractérisé: évaluer la sévérité ({{< modal-btn modal-phq9 >}}PHQ-9{{< /modal-btn >}}, Beck, [Hamilton]({{% relref "hamilton.md" %}})), le risque suicidaire, les comorbidités (et dépister une {{< modal-btn modal-gad2 >}}anxiété{{< /modal-btn >}}), toxiques, le handicap.  
   Avec l'accord du patient, interroger l'entourage.
 - Le bilan d'une dépression comprend: NFS, ionogramme, calcémie, bilan hépatique, glycémie, TSH, ± toxiques urinaires, apnées du sommeil
-- La prise en charge de la dépression associe toujours {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} et/ou thérapies cognitivo-comportementales (TCC) (voir [Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}) pour le remboursement), activités physiques et sociales, rythme de vie, information du patient (dont lignes d'écoute)
+- La prise en charge de la dépression associe toujours {{< modal-btn modal-soutien >}}psychothérapie de soutien{{< /modal-btn >}} et/ou thérapies cognitivo-comportementales (TCC) (voir [Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}) pour le remboursement, également [Santé psy étudiant](https://santepsy.etudiant.gouv.fr) pour les étudiants), activités physiques et sociales, rythme de vie, information du patient (dont lignes d'écoute)
 - Le traitement médicamenteux antidépresseur de la dépression est un {{< modal-btn modal-isrs >}}inhibiteur sélectif de la recapture de la sérotonine{{< /modal-btn >}} (ISRS) ou {{< modal-btn modal-irsna >}}IRSNA{{< /modal-btn >}} en première intention, à envisager pour une dépression modérée et systématique si sévère
 - Adresser au psychiatre en cas de doute diagnostique, de comorbidités psychiatriques, de suspicion de trouble bipolaire, psychose, dépression sévère ou résistante
 
@@ -425,7 +425,7 @@ Bilan d'un épisode dépressif:
 {{%collapse "Traitement de la dépression de l'adulte" %}}
 
 > [!INFO]
-> La prise en charge de la dépression nécessite des consultations dédiées. Pour le remboursement (rare) de la prise en charge de la psychothérapie, voir [Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}).
+> La prise en charge de la dépression nécessite des consultations dédiées. Pour le remboursement de la prise en charge de la psychothérapie, voir [Mon soutien psy]({{% relref "remboursement-psychologue-monsoutienpsy.md" %}}). Chez les étudiants, le dispositif [Santé psy étudiant](https://santepsy.etudiant.gouv.fr) peut être cumulé à Mon soutien psy.
 
 #### Recommandations pour la prise en charge de la dépression selon sa sévérité
 

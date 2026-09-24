@@ -553,6 +553,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
+- [Hedayati SS, et al. Evaluation and Management of Anemia in Chronic Kidney Disease: Synopsis of the Kidney Disease: Improving Global Outcomes 2026 Clinical Practice Guideline. Ann Intern Med. 2026.](https://www.acpjournals.org/doi/10.7326/ANNALS-26-02326)
 - [Astley ME, et al. Age- and sex-specific reference values of estimated glomerular filtration rate for European adults. Kidney Int. 2025.](https://linkinghub.elsevier.com/retrieve/pii/S0085-2538(25)00252-2)
 - [HAS. Suivi ambulatoire de l'adulte transplanté rénal au-delà de 3 mois après transplantation. Recommandations de bonne pratique. 2007.](https://www.has-sante.fr/jcms/c_629812/fr/suivi-ambulatoire-de-l-adulte-transplante-renal-au-dela-de-3-mois-apres-transplantation)
 
