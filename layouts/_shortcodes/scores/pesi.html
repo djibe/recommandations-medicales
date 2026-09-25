@@ -1,0 +1,108 @@
+<div class="card-body" id="score-pesi">
+  <p>Le score <dfn><abbr title="Pulmonary Embolism Severity Index">PESI</abbr></dfn> (Pulmonary Embolism Severity Index) est un test de référence
+    pour évaluer le risque de <strong>complication</strong> au cours d’une embolie pulmonaire aiguë et décider d’une <strong>hospitalisation</strong>.</p>
+  <p>Il est recommandé par l’<dfn><abbr title="European Society of Cardiology" lang="en">ESC</abbr></dfn> et l’AHA/ACC 2026.</p>
+  <div class="form-group floating-label textfield-box form-ripple">
+  <label for="pesi-age">Âge</label>
+  <input class="form-control" id="pesi-age" type="number" min="18" max="110">
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="pesi-male" class="custom-control-input" value="10">
+    <label class="custom-control-label" for="pesi-male">Homme</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="pesi-cancer" class="custom-control-input" value="30">
+    <label class="custom-control-label" for="pesi-cancer">Antécédent de cancer</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="pesi-hf" class="custom-control-input" value="10">
+    <label class="custom-control-label" for="pesi-hf">Insuffisance cardiaque</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="pesi-pulm" class="custom-control-input" value="10">
+    <label class="custom-control-label" for="pesi-pulm">Maladie respiratoire</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="pesi-ic" class="custom-control-input" value="20">
+    <label class="custom-control-label" for="pesi-ic">Tachycardie ≥ 110 bpm</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="pesi-bp" class="custom-control-input" value="30">
+    <label class="custom-control-label" for="pesi-bp">Systolique &lt; 100 mmHg</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="pesi-rr" class="custom-control-input" value="20">
+    <label class="custom-control-label" for="pesi-rr">Fréquence respiratoire ≥ 30/min</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="pesi-temp" class="custom-control-input" value="20">
+    <label class="custom-control-label" for="pesi-temp">Température &lt; 36°C</label>
+  </div>
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="pesi-cs" class="custom-control-input" value="60">
+    <label class="custom-control-label" for="pesi-cs">Altération de la conscience</label>
+  </div>
+   <div class="custom-control custom-checkbox">
+    <input type="checkbox" id="pesi-oxy" class="custom-control-input" value="20">
+    <label class="custom-control-label" for="pesi-oxy">SpO₂ &lt; 90 %</label>
+  </div>
+</div>
+<div class="alert bg-light d-md-flex">
+  <div class="d-flex flex-column align-items-center justify-content-evenly">
+    <p class="typography-overline score-output-title">PESI</p>
+    <output class="score-output" id="pesiScore">-</output>
+  </div>
+  <p id="pesiText" class="lead m-auto">Veuillez compléter l’âge</p>
+</div>
+<blockquote class="blockquote">
+  <p lang="en"><a href="" rel="external nofollow noopener"></a></p>
+</blockquote>
+{{ $script := `
+  // Score PESI by djibe
+  document.addEventListener('DOMContentLoaded', function() {
+const scoreContainer = document.getElementById('score-pesi');
+const ageInput = document.getElementById('pesi-age');
+const scoreOutput = document.getElementById('pesiScore');
+const textOutput = document.getElementById('pesiText');
+const checkboxes = scoreContainer.querySelectorAll('input[type="checkbox"]');
+
+function calculatePESI() {
+    const ageValue = ageInput.value;
+
+    if (!ageValue || ageValue === '') {
+        scoreOutput.textContent = '-';
+        textOutput.textContent = 'Veuillez compléter l’âge';
+        return;
+    }
+
+    let totalScore = parseInt(ageValue, 10);
+
+    checkboxes.forEach(function(checkbox) {
+        if (checkbox.checked) {
+            totalScore += parseInt(checkbox.value, 10);
+        }
+    });
+
+    scoreOutput.textContent = totalScore;
+
+    let riskCategory = '';
+
+    if (totalScore <= 65) {
+        riskCategory = 'Classe I (risque le plus faible)';
+    } else if (totalScore >= 66 && totalScore <= 85) {
+        riskCategory = 'Classe II';
+    } else if (totalScore >= 86 && totalScore <= 105) {
+        riskCategory = 'Classe III';
+    } else if (totalScore >= 106 && totalScore <= 125) {
+        riskCategory = 'Classe IV';
+    } else if (totalScore >= 126) {
+        riskCategory = 'Classe V (risque le plus élevé)';
+    }
+
+    textOutput.textContent = riskCategory;
+}
+
+scoreContainer.addEventListener('input', calculatePESI);
+
+});` }}
+<script type="module">{{ $script | safeJS }}</script>
