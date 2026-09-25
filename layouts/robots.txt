@@ -1,3 +1,4 @@
+User-agent: ABEvalBot
 User-agent: AddSearchBot
 User-agent: admantx
 User-agent: AgentTimes
@@ -5,6 +6,7 @@ User-agent: AI2Bot
 User-agent: AI2Bot-DeepResearchEval
 User-agent: Ai2Bot-Dolma
 User-agent: aiHitBot
+User-agent: AionBot
 User-agent: AIWebIndex
 User-agent: Amzn-User
 User-agent: amazon-kendra
@@ -20,6 +22,7 @@ User-agent: archive.org_bot
 User-agent: Archive-It
 User-agent: ArenaUnfurlBot
 User-agent: Arquivo-web-crawler
+User-agent: ArticleScraperBot
 User-agent: atlassian-bot
 User-agent: Authory
 User-agent: Awario
@@ -68,6 +71,7 @@ User-agent: DoubaoBot
 User-agent: DuckAssistBot
 User-agent: Echobot Bot
 User-agent: EchoboxBot
+User-agent: ElgooResearch
 User-agent: ERNIEBot
 User-agent: ExaBot
 User-agent: ExaSearchBot
@@ -86,6 +90,8 @@ User-agent: GoogleOther-Image
 User-agent: GoogleOther-Video
 User-agent: GPTBot
 User-agent: Grok
+User-agent: HaloBot
+User-agent: HanaleiBot
 User-agent: HCP Analyzer
 User-agent: heritrix
 User-agent: HubSeedsBot
@@ -104,6 +110,7 @@ User-agent: Internet Archive
 User-agent: ISSCyberRiskCrawler
 User-agent: kagi-fetcher
 User-agent: Kangaroo Bot
+User-agent: KeenableBot
 User-agent: KimiBot
 User-agent: Kimi-SearchBot
 User-agent: KlaviyoAIBot
@@ -162,6 +169,7 @@ User-agent: PickaxeBot
 User-agent: Poggio-Citations
 User-agent: Poseidon Research Crawler
 User-agent: proximic
+User-agent: QlyzeBot
 User-agent: QualifiedBot
 User-agent: QuillBot
 User-agent: quillbot.com
@@ -181,9 +189,11 @@ User-agent: SeznamBot
 User-agent: ShapBot
 User-agent: Sidetrade indexer bot
 User-agent: sitesnagger
+User-agent: SofyaBot
 User-agent: sogou spider
 User-agent: Spider
 User-agent: SummalyBot
+User-agent: SupaBrainBot
 User-agent: TavilyBot
 User-agent: teleport
 User-agent: teleportpro
@@ -192,6 +202,7 @@ User-agent: The Knowledge AI
 User-agent: Thinkbot
 User-agent: TikTokSpider
 User-agent: Timpibot
+User-agent: trafilatura
 User-agent: Turnitin
 User-agent: TwinAgent
 User-agent: VelenPublicWebCrawler
@@ -203,7 +214,9 @@ User-agent: webstripper
 User-agent: webzio-extended
 User-agent: Webzio-Extended
 User-agent: webzip
+User-agent: WellKnownBot
 User-agent: wget
+User-agent: What10Bot
 User-agent: wpbot
 User-agent: WRTNBot
 User-agent: XY-Archive-Compliance
