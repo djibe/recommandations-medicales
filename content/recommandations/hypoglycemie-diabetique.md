@@ -17,7 +17,7 @@ sctid = "302866003"
 icd10 = ["E16.2"]
 image = true
 imageSrc = "L'hypoglycémie diabétique. JB Fron, CC-BY-NC-SA-4.0"
-rank = false"
+rank = "false"
 writing = "false"
 todo = "liens > photo > Kanban | délai 30 minutes capteur, hypoglycémie sévère"
 +++
