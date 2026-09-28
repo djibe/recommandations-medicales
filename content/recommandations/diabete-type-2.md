@@ -19,12 +19,14 @@ sctid = "44054006"
 icd10 = ["E11", "E11.9", "E14", "O24.1"]
 image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
-todo = "hypoglycémies HAS25p58; indications diabeto, permis conduire, urgences hypergly HAS25p60; fragilité HAS25p65; alimentation HAS25p26; dysautonomie HAS25p44; pied HAS25p47 | maisons sport-santé, WATCH-DM ESC2023 src480; EASD 2021 Table 2.3 et 2.4, https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit, indications fructosamine, https://www.ameli.fr/sites/default/files/Documents/Memo-diabete-complication-podologue.PDF | https://diabetesjournals.org/care/issue/47/Supplement_1"
+rank = "false"
+writing = "false"
+todo = "permis conduire, urgences hypergly HAS25p60; fragilité HAS25p65; alimentation HAS25p26; dysautonomie HAS25p44; pied HAS25p47 | maisons sport-santé, WATCH-DM ESC2023 src480; https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit, indications fructosamine, https://www.ameli.fr/sites/default/files/Documents/Memo-diabete-complication-podologue.PDF | https://diabetesjournals.org/care/issue/47/Supplement_1"
 +++
 
 {{%article-summary%}}
 
-Ce chapitre intègre les dernières recommandations SFD, HAS, ADA, ESC et ADA/EASD pour la prise en charge du diabète de type 2.
+Ce chapitre intègre les dernières recommandations SFD, HAS, ADA, ESC et ADA/EASD pour la prise en charge du diabète du type 2.
 
 - Dépister tous 3 ans un diabète en cas de facteurs de risque (1 à 2 en cas de facteurs multiples):
   - facteur de risque cardiovasculaire
@@ -36,7 +38,7 @@ Ce chapitre intègre les dernières recommandations SFD, HAS, ADA, ESC et ADA/EA
 - [Dépistage des complications du diabète](#dépistage-des-complications-du-diabète) et des comorbidités
 - Éducation thérapeutique du patient diabétique
 
-Articles liés: [diabète type 1]({{% relref "diabete-type-1.md" %}}), [diabète gestationnel]({{% relref "diabete-gestationnel.md" %}})
+Articles liés: [diabète type 1]({{% relref "diabete-type-1.md" %}}), [diabète gestationnel]({{% relref "diabete-gestationnel.md" %}}), [hypoglycémie chez le diabétique]({{% relref "hypoglycemie-diabetique.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions"%}}
@@ -120,12 +122,15 @@ SFD
   - Enfant/adolescent: ≥ 1 h/j (modérée à intense) et renforcement musculaire/squelette 3 j/sem
   - Avec l'âge, favoriser la souplesse 2 à 3 jours par semaine (yoga, Thai-chi)
 - Surpoids  
-  Suivi poids et  trimestriel, perte de poids (5-15 %), {{< modal-btn modal-glp1 >}}AR GLP-1{{< /modal-btn >}} (sémaglutide) voire [chirurgie bariatrique]({{% relref "obesite-adulte.mdn" %}}).
-- Alimentation équilibrée et {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}
+  Suivi poids et  trimestriel, perte de poids (5-15 %), {{< modal-btn modal-glp1 >}}AR GLP-1{{< /modal-btn >}} (± GIP) voire [chirurgie bariatrique]({{% relref "obesite-adulte.mdn" %}}).
+- Alimentation avec 3 repas équilibrée, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}
+- Vaccinations  
+  [Covid-19]({{% relref "covid-19.md" %}}) et [grippe]({{% relref "grippe.md" %}}) annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}.
 - Dépistages recommandés
   - Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
   - {{< modal-btn modal-saos-diabete >}}Apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85 %){{%/class%}}
   - [Dysfonction érectile]({{% relref "dysfonction-erectile.md" %}}) (50 %) ou de la femme (IFSF)
+  - Insuffisance cardiaque ([questionnaire EPOF](https://www.vaincrelinsuffisancecardiaque.org/wp-content/uploads/2023/04/IC-EPOF-BNP-1.pdf))
   - Dépistage organisé des [cancers](/tags/cancer/)
 - Symptômes  
   Hypoglycémies, polyuro-polydipsie, angor, claudication, dyspnée, AIT, troubles visuels ou sensitifs, digestifs.
@@ -135,7 +140,7 @@ SFD
   - Diabète avec complication micro ou macrovasculaire
   - Survenue avant 40 ans, avant 30 ans sur 3 générations
   - IMC normal, AEG, amaigrissement, hyperglycémie inaugurale majeure, obésité grade 3
-  - Échec des premières lignes de traitement, insulinothérapie poly-injections, hypoglycémies, souhait du praticien
+  - Échec des premières lignes de traitement, insulinothérapie poly-injections, [hypoglycémies]({{% relref "hypoglycemie-diabetique.md" %}}), souhait du praticien
 - Si maladie rénale chronique: {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} systématique  
   {{%class%}}et finérénone (Kerendia® en [AAC](https://ansm.sante.fr/tableau-acces-derogatoire/kerendia)){{%/class%}}
 - Soutien psychologique
@@ -153,7 +158,7 @@ SFD
 - {{< modal-btn modal-hba1c >}}Cible d'HbA1c personnalisée{{< /modal-btn >}}
 - Cliquer sur la classe thérapeutique pour afficher plus d'informations sur la prise en charge  
   Les classes préférentielles ont une <span class="border border-primary p-1">bordure bleue</span>.
-- **Objectif 0 hypoglycémie !**
+- **Objectif 0 [hypoglycémie]({{% relref "hypoglycemie-diabetique.md" %}}) !**
 - Réévaluation de l'efficacité et de la tolérance **3-6 mois** après chaque modification
 - En cas de grossesse: les objectifs glycémiques sont identiques au [diabète gestationnel]({{% relref "diabete-gestationnel.md" %}})
 
@@ -201,7 +206,7 @@ Réévaluation à 3-6 mois.
 <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-metformine">Metformine</button>
 <button class="chip chip-action choix-mrc choix-ic choix-mcv" type="button" data-toggle="modal" data-target="#modal-isglt2">+ iSGLT2</button>
 <button class="chip chip-action choix-mcv" type="button" data-toggle="modal" data-target="#modal-glp1">ou AR GLP-1</button>
-<button class="chip chip-action choix-obese" type="button" data-toggle="modal" data-target="#modal-glp1">± AR GLP-1</button>
+<button class="chip chip-action choix-obese" type="button" data-toggle="modal" data-target="#modal-glp1">± AR GLP-1 (± GIP)</button>
 
 Suspendre la metformine en cas de décompensation.
 {.my-2 .choix-ic}
@@ -218,7 +223,7 @@ Deuxième ligne - Ajouter au choix
 
 <div class="mb-2 choix-standard">
   <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button> ou 
-  <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1">AR GLP-1</button>
+  <button class="chip chip-action border border-primary" type="button" data-toggle="modal" data-target="#modal-glp1">AR GLP-1 (± GIP)</button>
   
   <p class="my-3">Moins bénéfiques:<button class="chip chip-action border" type="button" data-toggle="modal" data-target="#modal-idpp4">iDPP4</button>, préférable à un <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-su">SU</button>.</p>
 
@@ -240,7 +245,7 @@ Deuxième ligne - Ajouter au choix
 Deuxième ligne
 {.text-primary .typography-overline .mt-3}
 
-<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button> + <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-glp1">AR GLP-1</button>
+<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button> + <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-glp1">AR GLP-1 (± GIP)</button>
 
 Suivi spécialisé endocrinologique.
 {.mt-3}
@@ -259,7 +264,7 @@ Maintenir les traitements en cas d'introduction d'insuline.
 Troisième ligne
 {.text-primary .typography-overline .mt-3}
 
-<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button> + <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-glp1">AR GLP-1</button> + <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-insuline">Insuline basale</button>
+<button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-isglt2">iSGLT2</button> + <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-glp1">AR GLP-1 (± GIP)</button> + <button class="chip chip-action" type="button" data-toggle="modal" data-target="#modal-insuline">Insuline basale</button>
 </div>
 <div class="mb-2 choix-age">
 
@@ -447,8 +452,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 | Gynécologie  | Suivi annuel                                                                                     | HAS 2025                 |
 | [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) | Dépistage avec brassard adapté tous les 1 à 3 ans | ESH 2024      |
 | [Incontinence urinaire]({{% relref "incontinence-urinaire-femme.md" %}}) | Dépistage à l'interrogatoire         | ANAES 2003               |
-| Infections sévères | Vaccins [covid-19]({{% relref "covid-19.md" %}}) et [grippe]({{% relref "grippe.md" %}}) annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}} | Calendrier vaccinal |
-| [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) | Dépistage systématique des symptômes et signes et (NT-pro)BNP si suspicion<br>(NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ESC 2023 diabetes<br>ADA 2022 |
+| [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) | Dépister avec le [questionnaire EPOF](https://www.vaincrelinsuffisancecardiaque.org/wp-content/uploads/2023/04/IC-EPOF-BNP-1.pdf) et (NT-pro)BNP si suspicion<br>(NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ESC 2023 diabetes, SFC 2023<br>ADA 2022 |
 | [Stéatopathie métabolique]({{% relref "steatose-hepatique-et-nash.md" %}}) | Dépistage par échographie abdominale | AFEF 2020              |
 | [Stéatohépatite]({{% relref "steatose-hepatique-et-nash.md" %}}) (NASH) | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}} annuel | HAS 2025 |
 | [Néphropathie]({{% relref "insuffisance-renale-chronique.md" %}}) | Créatininémie et ratio albuminurie/créatininurie (RAC) annuels | HAS 2025 |
@@ -489,7 +493,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 | Situation | Temps dans la cible<br>TIR<br>0,7-1,8 g/L | Temps en dessous<br>de la cible TBR<br>< 0,7 g/L | <br><br>< 0,54 g/L | Temps au dessus<br>de la cible TAR<br>> 1,8 g/L | <br><br>> 2,5 g/L |
 | - | - | - | - | - | - |
 | Cas général (hors grossesse) | > 70 % | < 4 % | < 1 % | < 25 % | < 5 % |
-| Personne âge et/ou <br>risque hypoglycémique<br>sévère | > 50 % | < 1 % | 0 % | < 50 % | < 10 % |
+| Personne âge et/ou <br>[risque hypoglycémique]({{% relref "hypoglycemie-diabetique.md" %}})<br>sévère | > 50 % | < 1 % | 0 % | < 50 % | < 10 % |
 {caption="Objectifs glycémiques avec un capteur de glucose interstitiel selon SFD 2025" class="table-wrap"}
 
 {{% /collapse %}}
@@ -513,6 +517,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 - {{< references/esc-diabetes-2023 >}}
 - {{< references/esh-2023 >}}
 - [Holt A, et al. Heart Failure Following Anti-Inflammatory Medications in Patients With Type 2 Diabetes Mellitus. JACC. 2023.](https://www.jacc.org/doi/10.1016/j.jacc.2023.02.027)
+- [Société Française de Cardiologie. Insuffisance cardiaque, mieux informer pour mieux la détecter. 2023.](https://www.sfcardio.fr/insuffisance-cardiaque-mieux-informer-pour-mieux-la-detecter/) (SFC)
 - {{< references/ada-soc >}}
 - [Davies MJ, et al. Management of hyperglycaemia in type 2 diabetes, 2022. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2022.](https://link.springer.com/article/10.1007/s00125-022-05787-2)
 - [US Preventive Services Task Force. Screening for Prediabetes and Type 2 Diabetes in Children and Adolescents: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2022.14543)

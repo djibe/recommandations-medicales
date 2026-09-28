@@ -550,7 +550,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 {{< youtube id="60VQUo3xqAw" title="Insuffisance cardiaque, encore un effort! (Fréquence Médicale)" >}}
 
 - [Sculier JP. Pas d'argument pour la restriction hydrique chez l'insuffisant cardiaque chronique. Minerva. 2025.](https://minerva-ebp.be/FR/Analysis/933)
-- [HAS. ALD 5 - Insuffisance cardiaque. Actes et prestations Affection de longue durée. 2025.](https://www.has-sante.fr/jcms/c_534673/fr/ald-n-5-insuffisance-cardiaque-grave)
+- [HAS. ALD 5 - Insuffisance cardiaque grave. Actes et prestations Affection de longue durée. 2025.](https://www.has-sante.fr/jcms/c_534673/fr/ald-n-5-insuffisance-cardiaque-grave)
 - [Gabet A, et al. Épidémiologie de l'insuffisance cardiaque en France. Bull Épidémiol Hebd. 2025.](https://beh.santepubliquefrance.fr/beh/2025/HS/2025_HS_4.html)
 - [McEvoy J, et al, ESC Scientific Document Group. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension: Developed by the task force on the management of elevated blood pressure and hypertension of the European Society of Cardiology (ESC) and endorsed by the European Society of Endocrinology (ESE) and the European Stroke Organisation (ESO). European Heart Journal. 2024.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae178/7741010)
 - [HAS. Stratégie vaccinale de prévention des infections par le VRS chez l'adulte âgé de 60 ans et plus. 2024.](https://www.has-sante.fr/jcms/p_3460918/fr/strategie-vaccinale-de-prevention-des-infections-par-le-vrs-chez-l-adulte-age-de-60-ans-et-plus)
@@ -578,6 +578,10 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 - [Køber L, et al. 2026 ESC Guidelines for the management of heart failure. Eur Heart J. 2026.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag100/8766302)
 - [Chow SL, et al. Complementary and Alternative Medicines in the Management of Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2023.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001110)
 - [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Insuffisance cardiaque de l'adulte. Item 234. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
+
+### Bibliographie à venir
+
+- [HAS. Prise en charge médicamenteuse de l'insuffisance cardiaque. Note de cadrage. 2026.](https://www.has-sante.fr/jcms/p_4015187/fr/prise-en-charge-medicamenteuse-de-l-insuffisance-cardiaque-note-de-cadrage)
 
 {{%/sources%}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}
