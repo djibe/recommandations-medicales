@@ -21,18 +21,20 @@ image = true
 imageSrc = "Illustration du diabète gestationnel par vectorjuice / Freepik"
 rank = "ok"
 writing = "ok"
+todo = "garabedjan, on ne suit pas hba1c trop tard, capteur possible, autre plateforme TLS, retirer détémir, pas de risque si démarrage sous metformine, cible H1, HGPO à M3 post partum (OMS), MAJ collège; MAJ src SFD 2025; lien DT2 pré-existant"
 +++
 
 {{%article-summary%}}
 
 - Le diabète gestationnel (DG) est une hyperglycémie transitoire à jeun pendant la grossesse (absence d'hyperglycémie pré-existante)
 - Dépistage du diabète gestationnel:
+  - TODO: TOUTES AU 1er TRI EN FRANCE
   - Indications au dépistage du DG: âge ≥ 35 ans, surpoids, antécédent familial au 1^er^ degré de diabète type 2, antécédent de macrosomie, de diabète gestationnel ou de chirurgie bariatrique, [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (nécessite une HGPO)
   - Dépister par glycémie à jeun au premier trimestre puis par hyperglycémie provoquée par voie orale 75g (HGPO) entre 24 et 28 semaines d'aménorrhée (SA)
-- Le diagnostic de diabète gestationnel est biologique: glycémie à jeun ≥ 0,92 g/L ou HGPO H0 ≥ 0,92 g/L et/ou H2 ≥ 1,53 g/L
+- Le diagnostic de diabète gestationnel est biologique: glycémie à jeun ≥ 0,92 g/L ou HGPO H0 ≥ 0,92 g/L et/ou H1 > 1,83 TODO: et/ou H2 ≥ 1,53 g/L
 - La prise en charge du diabète gestationnel est spécialisée en diabétologie ou à la maternité:
   - Autosurveillance glycémique et diététique
-  - Objectifs glycémiques du diabète gestationnel: glycémie à jeun < 0,95 g/L et post-prandiale H2 < 1,20 g/L
+  - Objectifs glycémiques du diabète gestationnel: glycémie à jeun < 0,7 - 0,95 g/L et post-prandiale H2 < 1,20 g/L
   - Objectif de terme de grossesse: 39 SA
   - Surveillance de la glycémie à la consultation post-natale puis tous les 1 à 3 ans à vie
 
@@ -219,7 +221,7 @@ graph TB
 fdr["<b>Facteurs de risque de<br>diabète gestationnel</b><br>—<br>1. Âge ≥ 35 ans<br>2. IMC ≥ 25 kg/m²<br>3. ATCD familial 1<sup>er</sup> degré de DT2<br>4. ATCD de DG<br>5. ATCD de macrosomie<br>6. SOPK (HGPO)"]
 style fdr stroke:#4150f5, stroke-width:1px
   fdr -- Oui --> gaj("<b>1<sup>er</sup> trimestre de grossesse</b><br>Glycémie à jeun")
-    gaj -- "&lt; 0,92 g/L" --> hgpo("<b>24-28 SA: HGPO 75 g</b><br>—<br>≥ 1 critère mesuré ?<br>- H0 ≥ 0,92 g/L<br>- H1 ≥ 1,8 g/L<br>- H2 ≥ 1,53 g/L")
+    gaj -- "&lt; 0,92 g/L" --> hgpo("<b>24-28 SA: HGPO 75 g</b><br>—<br>≥ 1 critère mesuré ?<br>- H0 ≥ 0,92 g/L<br>- H1 ≥ 1,83 g/L<br>- H2 ≥ 1,53 g/L")
       hgpo -- Non --> arret2(Arrêt des bilans)
       hgpo -- Oui --> DG
     gaj -- "≥ 0,92 g/L" --> DG(Diabète gestationnel)

@@ -19,7 +19,7 @@ image = true
 imageSrc = "L'hypoglycémie diabétique. JB Fron, CC-BY-NC-SA-4.0"
 rank = "false"
 writing = "false"
-todo = "liens > photo > Kanban | délai 30 minutes capteur, hypoglycémie sévère"
+todo = "revoir le médecin;inciter mettre des alarmes 0,7 (allégé avec l'âge);HAS reprend ADA; femme enceinte 0,63 +++ avec biblio; glucagon nasal; CI glucagon; remonter 0,5 g/L; a chaque cs; sympt variables selon patients;confirmation avec veineux;sucre 5g; collations SYS si > 15 min; retirer bonbons; liens > photo > Kanban | délai 30 minutes capteur, hypoglycémie sévère; metformine début de grossesse et réintroduire allaitement"
 +++
 
 {{%article-summary%}}

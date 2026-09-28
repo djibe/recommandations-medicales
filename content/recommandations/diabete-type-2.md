@@ -21,7 +21,7 @@ image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
 rank = "false"
 writing = "false"
-todo = "permis conduire, urgences hypergly HAS25p60; fragilité HAS25p65; alimentation HAS25p26; dysautonomie HAS25p44; pied HAS25p47 | maisons sport-santé, WATCH-DM ESC2023 src480; https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit, indications fructosamine, https://www.ameli.fr/sites/default/files/Documents/Memo-diabete-complication-podologue.PDF | https://diabetesjournals.org/care/issue/47/Supplement_1"
+todo = "Deuxième ligne préférer SGLT2 retirer bordure bleue, SGLT2+++, statine/ezetimibe, Shingrix, projet de gs AVANT; ECG/FO en gras AMT, renommer NASH; SOMP; KDIGO vitB12 que MRC?, acanthosis nigricans signe insulinoR inidcateur tour de taille; Ajouter algo Haut risque; Mounjaro remb pour diab;  permis conduire, urgences hypergly HAS25p60; fragilité HAS25p65; alimentation HAS25p26; dysautonomie HAS25p44; pied HAS25p47 | maisons sport-santé, WATCH-DM ESC2023 src480; https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit, indications fructosamine, https://www.ameli.fr/sites/default/files/Documents/Memo-diabete-complication-podologue.PDF | https://diabetesjournals.org/care/issue/47/Supplement_1"
 +++
 
 {{%article-summary%}}
@@ -160,7 +160,7 @@ SFD
   Les classes préférentielles ont une <span class="border border-primary p-1">bordure bleue</span>.
 - **Objectif 0 [hypoglycémie]({{% relref "hypoglycemie-diabetique.md" %}}) !**
 - Réévaluation de l'efficacité et de la tolérance **3-6 mois** après chaque modification
-- En cas de grossesse: les objectifs glycémiques sont identiques au [diabète gestationnel]({{% relref "diabete-gestationnel.md" %}})
+- En cas de grossesse: les objectifs glycémiques sont identiques au [diabète gestationnel]({{% relref "diabete-gestationnel.md" %}}) TODO:
 
 <div class="card-util">
 <div class="bg-primary-light rounded-lg p-4 my-4">
