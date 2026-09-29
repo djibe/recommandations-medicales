@@ -7,7 +7,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-02-05T15:16:05+01:00"
 publishdate = "2026-02-05"
-lastmod = "2026-02-05"
+lastmod = "2026-09-29"
 specialites = ["endocrinologie"]
 annees = "2026"
 sources = ["ADA", "HAS"]
@@ -19,7 +19,7 @@ image = true
 imageSrc = "L'hypoglycémie diabétique. JB Fron, CC-BY-NC-SA-4.0"
 rank = "false"
 writing = "false"
-todo = "revoir le médecin;inciter mettre des alarmes 0,7 (allégé avec l'âge);HAS reprend ADA; femme enceinte 0,63 +++ avec biblio; glucagon nasal; CI glucagon; remonter 0,5 g/L; a chaque cs; sympt variables selon patients;confirmation avec veineux;sucre 5g; collations SYS si > 15 min; retirer bonbons; liens > photo > Kanban | délai 30 minutes capteur, hypoglycémie sévère; metformine début de grossesse et réintroduire allaitement"
+todo = "femme enceinte 0,63 +++ avec biblio; CI glucagon; collations SYS si > 15 min; Kanban | src délai 30 minutes capteur"
 +++
 
 {{%article-summary%}}
@@ -28,7 +28,7 @@ todo = "revoir le médecin;inciter mettre des alarmes 0,7 (allégé avec l'âge)
 - Les facteurs de risque d'hypoglycémie sont un traitement par insuline ou insulinosécréteur (sulfamide, glinide), l'activité physique intense, le jeûne, les horaires décalés, l'insuffisance rénale ...
 - La prise en charge de l'hypoglycémie chez le diabétique est continue:
   - En phase aiguë, évaluer la conscience pour le resucrage avec 15 à 20 grammes de glucides toutes les 15 minutes jusqu'à obtenir une glycémie > 0,7 g/L (ou l'arrêt des symptômes en l'absence de mesure de glycémie), arrêt des activités et mise en sécurité pendant ce temps
-  - En cas de troubles de conscience, administrer une dose de glucagon nasale. Appeler le SAMU en l'absence de glucagon ou d'effet du glucagon sous 10-15 minutes
+  - En cas de troubles de conscience, administrer une dose de glucagon nasal. Appeler le SAMU en l'absence de glucagon ou d'effet du glucagon sous 10-15 minutes
   - Après une hypoglycémie: évaluer l'épisode pour prévenir les récidives, reprendre l'éducation thérapeutique, le traitement et les objectifs glycémiques
 
 {{%/article-summary%}}
@@ -43,7 +43,7 @@ Hypoglycémie
 2. Hypoglycémie de niveau 2: glycémie < 0,54 g/L (3 mmol/L), seuil d'installation des symptômes neuroglucopéniques
 3. Hypoglycémie de niveau 3: évènement **sévère** caractérisé par une altération mentale et/ou physique qui nécessite une assistance pour le traitement de l'hypoglycémie
 
-> -- *[Agiostratidou et al; ADA](https://pmc.ncbi.nlm.nih.gov/articles/PMC5864122/)*
+> -- *[Agiostratidou G et al; ADA](https://pmc.ncbi.nlm.nih.gov/articles/PMC5864122/)*, repris pas la *HAS 2025*
 
 ### Abréviations
 
@@ -65,7 +65,7 @@ HAS
 
 L'hypoglycémie est une **urgence diagnostique et thérapeutique**.
 
-Le risque d'hypoglycémies doit être revu à chaque consultation et investigué. L'objectif du traitement anti-hyperglycémique est d'**éviter au maximum les hypoglycémies**.
+Le risque d'hypoglycémies doit être revu **à chaque consultation** et investigué. L'objectif du traitement anti-hyperglycémique est d'**éviter au maximum les hypoglycémies**.
 
 ### Interrogatoire
 
@@ -81,6 +81,7 @@ Le risque d'hypoglycémies doit être revu à chaque consultation et investigué
   - Interaction médicamenteuse avec les sulfamides hypoglycémiants: sulfamides, AINS, fibrates, dérivés coumariniques
   - Hypoglycémies répétées
 - **Signes et symptômes de l'hypoglycémie:**
+  - Les symptômes sont variables selon les patients
   - **Symptômes adrénergiques:** pâleur cutanée, transpiration (sueur dont [sueurs nocturnes]({{% relref "sueurs-nocturnes.md" %}})), palpitations, anxiété, tremblements, étourdissements
   - **Symptômes neuroglucopéniques:** faim, troubles de la concentration, confusion, changement de comportement, paresthésies ou parésie, modification de la conscience, coma, tableau mimant un AVC ou tout trouble neurologique
 - Connaissance des signes d'hypoglycémie, du seuil d'hypoglycémie, de la technique de resucrage
@@ -100,12 +101,12 @@ Aucun examen complémentaire n'est nécessaire pour un hypoglycémie, hormis la 
 
 Le bilan à distance est celui du suivi du diabète avec reprise de l'éducation thérapeutique et l'adaptation du traitement.
 
-En cas d'**hypoglycémies répétées**, un bilan spécialisé **endocrinologique** est recommandé (urgent en cas d'hypoglycémies niveau 2 -- < 0,54 g/L et 3).
+En cas d'**hypoglycémies répétées**, la confirmation sur **glycémie veineuse** et un bilan spécialisé **endocrinologique** sont recommandés (urgent en cas d'hypoglycémies niveau 2 -- < 0,54 g/L et 3).
 
 {{% /collapse %}}
 {{%collapse "Traitement de l'hypoglycémie" %}}
 
-### En phase aiguë: correction de l'hypoglycémie, le resucrage
+### En phase aiguë: correction de l'hypoglycémie avec le resucrage
 
 > [!INFO]
 > En cas de malaise, sueurs, pâleur, vision floue, faiblesse ou autre signe évocateur d'hypoglycémie: **contrôler la glycémie**.
@@ -114,10 +115,11 @@ Recommandations pour la prise en charge d'une hypoglycémie:
 
 - Arrêt de l'injection d'insuline
 - Arrêt de l'activité physique
-- ==Administrer **15 à 20 g de glucose** sous forme liquide toutes les 15 minutes jusqu'à obtenir une glycémie > 0,7 g/L== (ou à défaut la disparition des symptômes)
-  - Si glycémie interstitielle: toutes 30 minutes (*source manquante*)
+- ==Administrer **15 à 20 g de glucose** sous forme liquide (ou 3-4 sucres) toutes les 15 minutes jusqu'à obtenir une glycémie > 0,7 g/L== (ou à défaut la disparition des symptômes)
+  - 1 carré de sucre contient 5 g de glucose. 15-20 g font remonter la glycémie de **0,5 g/L**
+  - Si glycémie interstitielle: toutes les 30 minutes (*source manquante*)
   - Si pompe à insuline: 5-10 g (sauf sport intense ou surestimation de l'insulinothérapie fonctionnelle)
-  - Soit 15 cL de cola (non light), 1 verre ou briquette de jus de fruit (15-20 cL), 3 sucres, 1 cuillère à soupe de confiture, de miel ou de sirop, 3 bonbons ... (pour une correction de 0,5 g/L)
+  - Soit 15 cL de cola (non light), 1 verre ou briquette de jus de fruit (15-20 cL), 3 sucres, 1 cuillère à soupe de confiture, de miel ou de sirop ...
   - Appel du SAMU en cas d'aggravation
 - Après resucrage, si le prochain repas est prévu au-delà de 2 heures: prendre une **collation** (1 morceau de pain, 2 biscottes ...)
 
@@ -149,7 +151,8 @@ Lorsque l'hypoglycémie est terminée, analyser la situation pour comprendre les
 ### À distance, l'adaptation du traitement
 
 - Toujours disposer sur soi de resucrage
-- Signaler tout épisode hypoglycémique ([document Sophia (PDF)](https://www.ameli.fr/sites/default/files/Documents/4825/document/diabete-hypoglycemie-consultation_assurance-maladie.pdf))
+- **Reconsulter** le médecin et **signaler tout épisode hypoglycémique** ([document Sophia (PDF)](https://www.ameli.fr/sites/default/files/Documents/4825/document/diabete-hypoglycemie-consultation_assurance-maladie.pdf))
+- En cas de capteur de glycémie: inciter à définir une alarme à 0,7 g/L (seuil modulé selon l'âge)
 - Correction des facteurs de risque d'hypoglycémie
 - Insulinosécréteurs: adaptation ou substitution du traitement
 - Insuline: réévaluer les doses voire revoir les objectifs glycémiques
