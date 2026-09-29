@@ -1,5 +1,0 @@
-allowBuilds:
-  canvas: false
-  hugo-extended: true
-  node-sass: false
-  vnu-jar: true

@@ -91,16 +91,15 @@ Le plus simple est de communiquer par le formulaire de contact du site. Si vous 
 <details>
   <summary>Sous Windows</summary>
 
-1. Sur le PC, aller dans le dossier (au choix) où placer le projet et lancer _Powershell_ ou le _Terminal_ de Windows en **mode administrateur**
-2. Entrer les commandes suivantes: (python doit être installé, sinon `winget install --id=Python.Python.3.15  -e` ou installer UV)
-3. `winget install --id=Git.Git -e`
-4. puis `Invoke-WebRequest https://get.pnpm.io/install.ps1 -UseBasicParsing | Invoke-Expression`
-5. Fermer la commande et la relancer
-6. `git clone https://github.com/djibe/recommandations-medicales.git`
-7. puis placer la _Commande_ dans le dossier `/recommandations-medicales`: `cd /recommandations-medicales`
-8. puis `pnpm env use --global lts`
-9. puis `pnpm install`
-10. puis `pnpm run start:dev`, le site est accessible sur `http://localhost:1313/`
+1. Sur le PC, aller dans le dossier (au choix) où placer le projet et lancer l'_Invite de commandes_ ou le _Terminal_ de Windows en **mode administrateur**
+2. Entrer les commandes suivantes: (python doit être installé, sinon `winget install --id=Python.Python.3.13 -e`)
+3. `winget install --id=Git.Git -e && winget install --id=CoreyButler.NVMforWindows -e`
+4. Fermer la commande et la relancer
+5. `git clone https://github.com/djibe/recommandations-medicales.git`
+6. puis placer la _Commande_ dans le dossier `/recommandations-medicales`: `cd /recommandations-medicales`
+7. puis `nvm install 22`
+8. puis `npm install`
+9. puis `npm run start:dev`, le site est accessible sur `http://localhost:1313/`
 
 </details>
 
@@ -109,15 +108,15 @@ Le plus simple est de communiquer par le formulaire de contact du site. Si vous 
 
 Désinstaller Hugo si déjà installé et entrer les commandes dans l'ordre:
 
-1. `sudo apt install wget curl git-all golang-go -y`
-2. `curl -fsSL https://get.pnpm.io/install.sh | sh -`
+1. `sudo apt install wget curl nodejs npm git-all golang-go -y`
+2. `wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.8/install.sh | bash`
 3. Fermer le terminal
-4. Ouvrir le terminal et entrer: `pnpm env use --global lts`
+4. Ouvrir le terminal et entrer: `nvm install 22`
 5. Positionner le terminal sur le dossier souhaité
 6. `git clone https://github.com/djibe/recommandations-medicales.git`
 7. `cd recommandations-medicales`
-8. puis `pnpm install`
-9. puis `pnpm run start:dev`, le site est accessible sur `http://localhost:1313/`
+8. puis `npm install`
+9. puis `npm run start:dev`, le site est accessible sur `http://localhost:1313/`
 
 </details>
 
