@@ -79,6 +79,6 @@
   "engines": {
     "node": ">=22"
   },
-  "packageManager": "^pnpm@12.6"
+  "packageManager": "pnpm@12.6.0"
 
 }
