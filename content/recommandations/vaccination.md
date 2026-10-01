@@ -85,8 +85,8 @@ VVA
 |   25 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
 |   45 ans   | dTcaPolio                                            | BoostrixTetra, Repevax                                                    |
 |  +65 ans   | dTcaPolio tous les 10 ans<br>Grippe annuelle<br>Covid-19 annuel<br>Pneumo 21 + Zona | BoostrixTetra, Repevax<br>Flurarix-Influvac-Vaxigrip Tetra<br>ARNm Covid-19<br>Capvaxive + Shingrix M0-M2 |
-|  +75 ans   | + VRS annuel (NR)                                    | Arexvy, Abrysvo, mRESVIA                                                  |
-| [Grossesse]({{% relref "grossesse.md" %}}) | Coqueluche, Covid, grippe, VRS | BoostrixTetra, Repevax, Abrysvo ...                             |
+|  +75 ans   | + VRS (NR)                                           | Arexvy, Abrysvo, mRESVIA                                                  |
+| [Grossesse]({{% relref "grossesse.md" %}}) | Coqueluche, Covid, grippe, ± VRS | BoostrixTetra, Repevax, Abrysvo ...                           |
 | Médecin généraliste | Covid-19, grippe, ROR,<br>varicelle, VHB    |                                                                           |
 {caption="Calendrier des vaccins et anticorps recommandés en France en 2026. Tous les vaccins sont remboursés par l'Assurance Maladie sauf mention *NR*. Dr JB Fron d'après *Calendrier vaccinal 2026*, *HAS 2025.0040/AC/SESPEV*, *HAS 2025* et *2024*, DGS Urgent 2025-15." class="table-wrap"}
 

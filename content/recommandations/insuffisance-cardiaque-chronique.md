@@ -528,7 +528,7 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 - Activité sexuelle
   - Ne pas craindre les rapports sexuels et discuter des problèmes avec les professionnels de santé
   - Comprendre les problèmes sexuels spécifiques et développer des stratégies permettant de les surmonter
-- Vaccinations grippe, Covid 19, pneumocoque, VRS (NR)
+- Vaccinations grippe, Covid 19, pneumocoque, VRS si +65 ans (NR)
 - Si Covid-19: [antiviral en urgence]({{% relref "covid-19.md" %}})
 - Troubles du sommeil et de la respiration
   - Correction des FRCV, obésité, alcool

@@ -456,7 +456,7 @@ Mesures générales de prise en charge de la BPCO:
 - ==**Vaccinations**==
   - Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}}) avec la coqueluche
   - Covid-19 et grippe annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}
-  - +65 ans: VRS 1 fois (NR -- *GOLD 2026*, *HAS 2024*)
+  - +65 ans: VRS 1 fois (NR -- *GOLD 2026*, *Calendrier vaccinal*)
   - +50 ans: [zona]({{% relref "zona.md" %}}) (*GOLD 2026*, 65 ans dans le Calendrier vaccinal)
 - ==**Réhabilitation respiratoire**==
   - Essentielle pour quasi tous (GOLD B et E) pour réduire la dyspnée, le stress et améliorer la qualité de vie
@@ -586,6 +586,7 @@ Suivi tous les 1 à 3 mois après chaque modification de traitement et 1 à 4 fo
 
 Reprendre régulièrement tous les points du *Traitement de fond* ainsi que les mesures suivantes.:
 
+- [Carnet de suivi de la BPCO](https://splf.fr/wp-content/uploads/2015/01/Carnet-de-suivi_BPCO-SPLF-r.pdf) (SPLF)
 - Date du diagnostic de la BPCO
 - Statut tabagique et traitements de sevrage essayés
 - Expositions professionnelles et domestiques
