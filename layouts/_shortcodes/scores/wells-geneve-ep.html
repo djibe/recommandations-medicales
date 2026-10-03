@@ -1,4 +1,4 @@
-<p>Les scores de <strong>Wells</strong> et de <strong>Genève</strong> sont les scores de référence pour le calcul de la
+<p>Les scores de <strong>Wells</strong> et de <strong>Genève révisé</strong> sont les scores de référence pour le calcul de la
   <strong>probabilité clinique d’une embolie pulmonaire</strong> (EP), en l’absence de grossesse ou de post-partum.
   Ils ont les mêmes performances (<em><a href="https://www.acpjournals.org/doi/10.7326/0003-4819-154-11-201106070-00002" rel="external nofollow noopener">Douma et al 2011</a></em>).
 </p>
@@ -154,6 +154,11 @@
       textGeneve.innerHTML = textModeree;
     } else {
       textGeneve.innerHTML = textFaible;
+    }
+    if (totalScore >= 3) {
+      textGeneve.innerHTML += "<br><br><strong>EP probable</strong> (Genève simplifié)";
+    } else {
+      textGeneve.innerHTML += "<br><br><strong>EP peu probable</strong> (Genève simplifié)";
     }
   };
 

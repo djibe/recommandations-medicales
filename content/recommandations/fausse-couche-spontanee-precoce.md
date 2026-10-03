@@ -4,7 +4,7 @@ title = "Fausse couche spontanée précoce (FCS)"
 titleSeo = "Fausse couche spontanée précoce"
 prefix = "la "
 description = "Recommandations pour le diagnostic et la prise en charge de la fausse couche spontanée précoce (FCS). ß-hCG, échographie pelvienne et surveillance, misoprostol ou aspiration"
-synonyms = []
+synonyms = ["Avortement spontané"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-07-10T16:27:53+02:00"
 publishdate = "2026-07-10"
@@ -52,10 +52,16 @@ Fausse couche spontanée précoce
 
 ACOG
 : {{%lang%}}American College of Obstetricians and Gynecologists{{%/lang%}}
+
+FCS
+: fausse couche spontanée
 {.dl-inline}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
+
+> [!WARNING]
+> Le diagnostic de GEU doit être évoqué chez toute femme en âge de procréer, se présentant aux urgences pour des douleurs pelviennes et/ou des métrorragies (*Collège*).
 
 ### Interrogatoire
 
@@ -89,7 +95,7 @@ Bilan d'une suspicion de fausse couche spontanée (douleurs utérines, saignemen
 
 - ßhCG
 - Sauf carte de groupe sanguin: groupe sanguin rhésus D (double détermination) et RAI si rhésus négatif ou antécédent de transfusion dès le premier trimestre de grossesse
-- Échographie pelvienne
+- Échographie pelvienne par voie vaginale
 
 ### Échographie pelvienne
 
@@ -120,7 +126,10 @@ Autres signes en faveur d'une fausse couche: RCF < 100/min à 5-7 semaines gesta
 {{% /collapse %}}
 {{%collapse "Traitement de la fausse couche spontanée" %}}
 
-Selon les signes clinico-bio-échographiques et le choix de la patiente, le traitement de la fausse couche spontanée précoce peut être une **surveillance** (pas d'intervention mais suivi répété), un **traitement médical** (suivi raccourci) ou **chirurgical** (invasif mais efficace).
+> [!INFO]
+> L'échographie pelvienne est urgente chez une femme présentant des douleurs pelviennes et des métrorragies.
+
+Selon les signes clinico-bio-échographiques et le choix de la patiente, le traitement de la fausse couche spontanée précoce peut être **expectative** (pas d'intervention mais suivi répété), un **traitement médical** (suivi raccourci) ou **chirurgical** (invasif mais efficace), par un gynécologue. Proposer un **accompagnement psychologique** (*[Loi 2023-567](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047799541)*).
 
 Les **complications** sont rares similaires avec les différents traitements: synéchies, hémorragies, infections.
 
@@ -133,9 +142,9 @@ Avant 12 SA avec géniteur rhésus 1 (rhésus D) positif ou inconnu: **pas d'imm
 > [!INFO]
 > Sauf syndrome des anticorps anti-phospholipides (SAPL), aucun traitement n'est efficace pour réduire la survenue de fausses couches ultérieures. Voir [fausses couches répétées]({{% relref "fausses-couches-repetees.md" %}}).
 
-### Surveillance active de la fausse couche spontanée
+### Attitude expectative de la fausse couche spontanée
 
-- La surveillance est restreinte au 1^er^ trimestre avec 80 % de succès jusqu'à 8 semaines
+- La méthode expectative est restreinte au 1^er^ trimestre avec 80 % de succès jusqu'à 8 semaines
 - Les saignements et crampes peuvent être modérés à intenses
 - Critères échographiques d'expulsion: absence de sac gestationnel et épaisseur endométriale < 30 mm
   - En cas d'accès difficile à l'échographie: suivi (téléphonique) et des ßhCG
@@ -147,7 +156,7 @@ Avant 12 SA avec géniteur rhésus 1 (rhésus D) positif ou inconnu: **pas d'imm
 Le traitement médical peut être considéré en l'absence d'infection, d'hémorragie, d'anémie sévère ou de troubles de la coagulation pour **réduire la durée** et augmenter le taux de succès de l'expulsion en évitant une chirurgie.
 
 - ± Mifépristone 200 mg 24h avant l'insertion de misoprostol
-- Misoprostol 800 µg par voie vaginale  
+- Misoprostol 800 µg par voie vaginale (*ex* Cytotec)  
   Renouveler en l'absence d'efficacité (minimum 3h après la 1^re^ dose, typiquement sous 7 jours).
 - Antalgie
 - Information de la patiente: TODO:
@@ -170,20 +179,16 @@ Un **dispositif intra-utérin** (DIU) peut être installé dans le même temps e
 {{%sources%}}
 
 - [Vigoureux S, et al; CNGOF. Prévention de l'allo-immunisation anti-RH1 au premier trimestre de la grossesse: recommandations pour la pratique clinique du Collège National des Gynécologues-Obstétriciens Français. Gynécologie Obstétrique Fertilité & Sénologie. 2024. (PDF)](https://cngof.fr/app/uploads/2025/11/Allo-immunisation20-20RhC3A9sus20D202024-Prevention20de20l27allo-immunisation20anti20RH1.pdf?x26468)
+- [Devall AJ, et al. Progestogens for preventing miscarriage: a network meta‐analysis. Cochrane Database of Systematic Reviews. 2021.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013792.pub2/full/fr)
 - [Lemmers M, et al. Medical treatment for early fetal death (less than 24 weeks). Cochrane Database of Systematic Reviews. 2019.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002253.pub4/full/fr)
 - [American College of Obstetricians and Gynecologists' Committee on Practice Bulletins-Gynecology. ACOG Practice Bulletin No. 200: Early Pregnancy Loss. Obstet Gynecol. 2018.](https://journals.lww.com/greenjournal/fulltext/2018/11000/acog_practice_bulletin_no__200__early_pregnancy.41.aspx)
+- [Drakeley AJ, et al. Cervical stitch (cerclage) for preventing pregnancy loss in women. Cochrane Database of Systematic Reviews. 2003.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003253/full/fr)
 
 ### Bibliographie en attente
 
 - [NICE. Ectopic pregnancy and miscarriage: diagnosis and initial management. NICE guideline. 2026.](https://www.nice.org.uk/guidance/ng126)
-- [Drakeley AJ, et al. Cervical stitch (cerclage) for preventing pregnancy loss in women. Cochrane Database of Systematic Reviews. 2003.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003253/full/fr)
-- [Devall AJ, et al. Progestogens for preventing miscarriage: a network meta‐analysis. Cochrane Database of Systematic Reviews. 2021.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013792.pub2/full/fr)
 - Collège
-- Prescrire
-- Cochrane
-- [Minerva](https://minerva-ebp.be/)
-- [Cismef](https://www.cismef.org/cismef/)
 
 {{%/sources%}}
 
-'≤≥±®æœŒÈ¹²³^4^ÂSpO~2~ -- ‰↑↓↗↘ß </b><br>—<br>
+'≤≥±®æœŒÈ¹²³^4^ÂSpO₂ -- ‰↑↓↗↘ß </b><br>—<br>

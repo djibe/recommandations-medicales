@@ -24,6 +24,21 @@ chart = true
 slider = true
 +++
 
+## Plan action BPCO {.mt-5}
+
+Modèles:
+
+- <https://www.livingwellwithcopd.com/DATA/DOCUMENT/64_en~v~plan-of-action.pdf>
+- <https://cdn2.splf.fr/wp-content/uploads/2022/12/PA-Adulte-SSRBichat.pdf>
+- <https://www.ghbs.bzh/fileadmin/03-Professionnels_de_sante/01-Education_Therapeutique_du_Patient/les_plans_d_actions/2023_11_10_Plan_action_BPCO.pdf>
+
+#### Zone verte: je me sens bien
+
+- Respiration normale
+- Pas de toux ni de sifflement
+- Je dors bien
+- Je peux faire toutes mes activités habituelles
+
 ## Plan action asthme {.mt-5}
 
 <div class="form-group text-center my-4">

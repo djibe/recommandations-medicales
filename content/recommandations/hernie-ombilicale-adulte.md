@@ -30,7 +30,7 @@ todo = "liens > flow > Kanban"
 - Le bilan par échographie abdominale est réservé aux présentations atypiques (dont douloureuses)
 - La prise en charge chirurgicale de la hernie ombilicale (ou épigastrique) est indiquée en cas de symptômes ou de hernie apparente. La réparation par filet est la norme au dessus de 1 cm.
 - Adresser au chirurgien digestif pour la réparation herniaire
-- L'abstention est possible dans les autres cas, réévaluée en fonction de l'évolution de la hernie
+- L'abstention est possible dans les autres cas, réévaluer en cas d'évolution de la hernie
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}

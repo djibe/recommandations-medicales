@@ -174,6 +174,7 @@ Le suivi de la coxarthrose est réalisé à la demande du patient, avec pour ré
 {{% /collapse %}}
 {{%sources%}}
 
+- [Hall M, et al. Exercise for osteoarthritis of the hip. Cochrane Database of Systematic Reviews. 2026.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007912.pub3/full/fr)
 - Prescrire Redaction. Douleurs liées à une arthrose du genou ou de la hanche. Premiers Choix Prescrire. Rev Prescrire. 2024.
 - [American Academy of Orthopaedic Surgeons. Management of Osteoarthritis of the Hip Evidence-Based Clinical Practice Guideline. 2023. (PDF)](http://www.aaos.org/oahcpg2)
 - [NICE. Osteoarthritis in over 16s: diagnosis and management. NICE guideline. 2022.](https://www.nice.org.uk/guidance/ng226)
