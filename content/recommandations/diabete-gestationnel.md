@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-30T19:57:00+02:00"
 publishdate = "2021-05-01"
-lastmod = "2025-10-19"
+lastmod = "2026-10-03"
 specialites = ["endocrinologie", "gynécologie-obstétrique"]
 annees = "2025"
 sources = ["HAS", "SFD", "CNGOF"]
@@ -21,22 +21,23 @@ image = true
 imageSrc = "Illustration du diabète gestationnel par vectorjuice / Freepik"
 rank = "ok"
 writing = "ok"
-todo = "garabedjan, on ne suit pas hba1c trop tard, capteur possible, autre plateforme TLS, retirer détémir, pas de risque si démarrage sous metformine, cible H1, HGPO à M3 post partum (OMS), MAJ collège; MAJ src SFD 2025; lien DT2 pré-existant"
+todo = "garabedjan, TODO: TOUTES AU 1er TRI EN FRANCE, capteur possible, pas de risque si démarrage sous metformine, HGPO à M3 post partum (OMS)"
 +++
 
 {{%article-summary%}}
 
 - Le diabète gestationnel (DG) est une hyperglycémie transitoire à jeun pendant la grossesse (absence d'hyperglycémie pré-existante)
 - Dépistage du diabète gestationnel:
-  - TODO: TOUTES AU 1er TRI EN FRANCE
   - Indications au dépistage du DG: âge ≥ 35 ans, surpoids, antécédent familial au 1^er^ degré de diabète type 2, antécédent de macrosomie, de diabète gestationnel ou de chirurgie bariatrique, [SOPK]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (nécessite une HGPO)
   - Dépister par glycémie à jeun au premier trimestre puis par hyperglycémie provoquée par voie orale 75g (HGPO) entre 24 et 28 semaines d'aménorrhée (SA)
-- Le diagnostic de diabète gestationnel est biologique: glycémie à jeun ≥ 0,92 g/L ou HGPO H0 ≥ 0,92 g/L et/ou H1 > 1,83 TODO: et/ou H2 ≥ 1,53 g/L
+- Le diagnostic de diabète gestationnel est biologique: glycémie à jeun ≥ 0,92 g/L ou HGPO H0 ≥ 0,92 g/L et/ou H1 > 1,80 g/L et/ou H2 ≥ 1,53 g/L
 - La prise en charge du diabète gestationnel est spécialisée en diabétologie ou à la maternité:
-  - Autosurveillance glycémique et diététique
+  - Autosurveillance glycémique et diététique, capteur possible
   - Objectifs glycémiques du diabète gestationnel: glycémie à jeun < 0,7 - 0,95 g/L et post-prandiale H2 < 1,20 g/L
   - Objectif de terme de grossesse: 39 SA
   - Surveillance de la glycémie à la consultation post-natale puis tous les 1 à 3 ans à vie
+
+Chapitre lié: [diabète type 2 pré-existant]({{% relref "diabete-type-2.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -106,22 +107,22 @@ Indication au dépistage du diabète gestationnel en présence d'au moins un fac
 
 1. Âge maternel ≥ 35 ans
 2. IMC ≥ 25 kg/m²
-3. Antécédent familial de [diabète type 2]({{% relref "diabete-type-2.md" %}}) au 1^er^ degré
+3. Antécédent familial de [diabète](/tags/diabete/) au 1^er^ degré
 4. Antécédent personnel de diabète gestationnel ou de chirurgie bariatrique
 5. Antécédent de macrosomie  
   Poids de naissance ≥ 4 kg.
-6. [Syndrome des ovaires polykystiques]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (SOPK/SMOP, *ESHRE 2023*)  
+6. [Syndrome des ovaires polykystiques]({{% relref "syndrome-ovaires-polykystiques-sopk.md" %}}) (SOPK/SMOP -- *ESHRE 2023*)  
   Dès le désir de grossesse ou rattrapage à 24-28 SA.
 
-> -- *HAS 2025* reprenant *CNGOF, SFD 2010*, *BARIA-MAT*
+> -- *HAS 2025*, reprenant *CNGOF/SFD 2010*, *BARIA-MAT*
 {{%/info%}}
 
 ### Critères diagnostiques du diabète gestationnel
 
 Recommandations pour le diagnostic du diabète gestationnel:
 
-- Au premier trimestre: **glycémie à jeun ≥ 0,92 g/L** (*IADPSG*)
-- Entre 24 et 28 semaines d'aménorrhée (SA) ou **HGPO 75 g**:  
+- Au premier trimestre: **glycémie à jeun ≥ 0,92 g/L** (*HAS 2025* reprenant *IADPSG*)
+- Entre 24 et 28 semaines d'aménorrhée (SA) par l'**HGPO 75 g**:  
   Glycémie H0 ≥ ==0,92 g/L== et/ou H1 ≥ 1,80 g/L et/ou ==H2 ≥ 1,53 g/L==.
 
 ---
@@ -136,8 +137,8 @@ Au diagnostic, adresser en diabétologie ou à la maternité de son choix pour l
 {{% /collapse %}}
 {{%collapse "Traitement du diabète gestationnel" %}}
 
-Objectifs glycémiques du diabète gestationnel ou d'une grossesse chez la diabétique: glycémie à jeun < 0,95 g/L et 2 heures après le début du repas < 1,20 g/L (soit HbA1c < 6,5 %).
-{.alert .alert-info}
+> [!INFO]
+> Objectifs glycémiques du diabète gestationnel ou d'une grossesse chez la diabétique: glycémie à jeun < 0,95 g/L et 2 heures après le début du repas < 1,20 g/L.
 
 ### Mesures hygiéno-diététiques (RHD)
 
@@ -151,7 +152,7 @@ Prise en charge hygiéno-diététique recommandée pour toutes les femmes ayant 
 
 ### Auto-surveillance glycémique (ASG)
 
-- Surveillance glycémique à jeun et post-prandiale (H2)
+- Capteur de glycémie ou autosurveillance pour suivi de la glycémie à jeun et post-prandiale (H2)
 - Si glycémie à jeun (GAJ) ≥ 0,95 g/L à jeun ou ≥ 1,20 g/L 2 heures après le repas pendant 7 à 10 jours malgré les mesures hygiéno-diététiques: recours à l'insulinothérapie
 - Auto-surveillance glycémique poursuivie en [post-partum]({{% relref "post-partum.md" %}}) immédiat
 
@@ -162,14 +163,14 @@ Prise en charge du diabète gestationnel par insuline lorsque les glycémies dé
 La prise en charge par insuline du diabète gestationnel est spécialisée par le diabétologue:
 
 - Autosurveillance glycémique systématique 4 à 6 fois par jour (à jeun, pré-prandiale et H2 post-prandiale)
-- Télésurveillance ([MyDiabby](https://www.mydiabby.com), [Glooko XT](https://glookoxt.com) ...)
+- Télésurveillance ([MyDiabby](https://www.mydiabby.com), [Glooko XT](https://glookoxt.com))
 
 #### Insulines autorisées pendant la grossesse
 
-Insulines utilisées en sécurité pour le traitement du diabète gestationnel: NPH, glargine U100, détémir, insuline rapide humaine, asparte, lispro (glargine U300 si nécessaire).
+Insulines utilisées en sécurité pour le traitement du diabète gestationnel: NPH, glargine U100, insuline rapide humaine, asparte, lispro (glargine U300 si nécessaire).
 
 > [!WARNING]
-> >Pas d'antidiabétiques oraux (ADO) pendant la grossesse.
+> >Arrêter tous les antidiabétiques oraux (ADO) pendant la grossesse, hormis la metformine en début de grossesse.
 
 ### Pour en savoir plus: surveillance obstétricale périnatale du diabète gestationnel
 
@@ -179,7 +180,7 @@ Insulines utilisées en sécurité pour le traitement du diabète gestationnel: 
   Renforcer la surveillance fœtale après 32 semaines d'aménorrhée (SA).
 - Si maturation pulmonaire fœtale par corticoïdes:  
   Auto-surveillance glycémique stricte ± insuline.
-- Objectif de terme: 39 SA
+- Objectif de terme: **39 SA**
 - Césarienne proposée quand poids fœtal > 4250-4500 g (grade C)
 - Si DG + ATCD césarienne:  
   Césarienne non systématique (grade C)
@@ -236,10 +237,11 @@ style fdr stroke:#4150f5, stroke-width:1px
 
 {{< card-link-external title="e-learning EASD" url="https://easd-elearning.eu/courses/gestational-diabetes-mellitus/">}}
 
+- [Ministère de la Santé. Arrêté du 12 février 2026 portant modification des conditions d'inscription des activités de télésurveillance médicale de diabète gestationnel inscrite sur la liste prévue à l'article L. 162-52 du code de la sécurité sociale. Legifrance. 2026.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053494253)
+- {{< references/sfd-dt2-2025 >}}
 - [HAS. Parcours de soins du patient adulte vivant avec un diabète de type 2. 2025.](https://www.has-sante.fr/jcms/p_3634754/fr/parcours-de-soins-du-patient-adulte-vivant-avec-un-diabete-de-type-2)
 - [ESHRE. International evidence-based guideline for the assessment and management of polycystic ovary syndrome - Summary. 2023.](https://www.monash.edu/medicine/mchri/pcos/guideline)
 - {{< references/ada-soc >}}
-- {{< references/sfd-dt2-2023 >}}
 - {{< references/college-endocrino >}}
 - [Vambergue A, et al; SFD, Collège National des Gynécologues et Obstétriciens Français (CNGOF). Diabète gestationnel et pandémie SARS-Cov2 (COVID-19). Avril 2020. (PDF)](https://www.sfdiabete.org/files/files/Divers/diabete_gestationel_et_pandemie_covid-19.pdf)
 - [Quilliot D, et al. Grossesses après chirurgie bariatrique: recommandations pour la pratique clinique (groupe BARIA-MAT). Nutrition Clinique et Métabolisme. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S098505621930528X) (payant)
@@ -251,6 +253,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
+- [Garabedian C, Sénat MV, Sananès N, et al. Diabète antérieur à la grossesse : consensus formalisé d'experts du collège national des gynécologues et obstétriciens français et de la société française de diabétologie. Gynecol Obstet Fertil Senol. 2026.](https://www.sciencedirect.com/science/article/pii/S2468718925004088)
 - [Louvet et al; SFD. Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022_v2_0.pdf)
 - Collège gynéco
 
