@@ -96,8 +96,8 @@ Le plus simple est de communiquer par le formulaire de contact du site. Si vous 
 3. `winget install --id=Git.Git -e && winget install --id=CoreyButler.NVMforWindows -e`
 4. Fermer la commande et la relancer
 5. `git clone https://github.com/djibe/recommandations-medicales.git`
-6. puis placer la _Commande_ dans le dossier `/recommandations-medicales`: `cd /recommandations-medicales`
-7. puis `nvm install 22`
+6. puis placer la _Commande_ dans le dossier **/recommandations-medicales**: `cd /recommandations-medicales`
+7. puis `nvm install 22` et `nvm use 22`
 8. puis `npm install`
 9. puis `npm run start:dev`, le site est accessible sur `http://localhost:1313/`
 
@@ -111,7 +111,7 @@ Désinstaller Hugo si déjà installé et entrer les commandes dans l'ordre:
 1. `sudo apt install wget curl nodejs npm git-all golang-go -y`
 2. `wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.8/install.sh | bash`
 3. Fermer le terminal
-4. Ouvrir le terminal et entrer: `nvm install 22`
+4. Ouvrir le terminal et entrer: `nvm install 22` puis `nvm use 22`
 5. Positionner le terminal sur le dossier souhaité
 6. `git clone https://github.com/djibe/recommandations-medicales.git`
 7. `cd recommandations-medicales`
@@ -124,7 +124,7 @@ Désinstaller Hugo si déjà installé et entrer les commandes dans l'ordre:
 
 ### Créer un nouvel article
 
-Entrer la commande `pnpm run recommandations:new` (ou juste `npm` si NodeJS seul).
+Entrer la commande `npm run recommandations:new`.
 
 Le fichier `article.md` est créé dans le dossier `/content/recommandations/`.
 
