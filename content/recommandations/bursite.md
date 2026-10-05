@@ -18,6 +18,7 @@ icd10 = ["M71.9", "M71", "M70"]
 image = true
 imageSrc = "Bursite typique du coude gauche de l'homme. Photo de NJC123, Public domain, via Wikimedia Commons"
 rank = "ok"
+writing = "ok"
 todo = "relecture"
 flowchart = true
 +++

@@ -291,6 +291,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Holt R et al. The management of type 1 diabetes in adults. The updated 2026 consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2026.](https://link.springer.com/article/10.1007/s00125-026-06833-z)
 - [Mallone R, et al. Dépistage et prise en charge du diabète de type 1 préclinique, stade 1-2. Prise de position d'experts français. Med Mal Metab. 2024. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/depistage_prise_en_charge_dt1.pdf)
 - [D'Souza D, et al. Incidence of Diabetes in Children and Adolescents During the COVID-19 Pandemic: A Systematic Review and Meta-Analysis. JAMA Netw Open. 2023.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2806712)
 - [Dreves B, et al. GluciQuizz : un nouvel outil validé pour évaluer les connaissances diététiques des patients vivant avec un diabète de type 1. 2024.](https://www.em-consulte.com/article/1651313/)

@@ -21,7 +21,7 @@ Le **SCORE2** peut être calculé de 40 à 69 ans (appelé **SCORE2-OP** de 70 �
 
 > **En cas de diabète** ne relevant pas d'emblée d'un {{< modal-btn modal-rcv >}}risque marqué{{< /modal-btn >}}, utiliser le {{< scores/score2-diabetes >}}.
 
-Son utilisation est **recommandée en cas de présence de facteur de risque cardiovasculaire** (dyslipidémie, hypertension artérielle, tabagisme, hérédité cardiovasculaire, obésité ...) et devrait être répété, par exemple tous les 5 ans (*ESC 2021*).
+Le SCORE2 est **recommandé en cas de présence de facteur de risque cardiovasculaire** (dyslipidémie, hypertension artérielle, tabagisme, hérédité cardiovasculaire, obésité ...) et devrait être répété, par exemple tous les 5 ans (*ESC 2021*).
 
 Le calcul SCORE2 pourrait également être **considéré** dès 40 ans chez l'homme ou 50 ans chez la femme, ou dès la ménopause (*ESC 2021*).
 

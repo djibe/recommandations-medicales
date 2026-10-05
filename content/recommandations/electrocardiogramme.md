@@ -20,7 +20,7 @@ image = true
 imageSrc = "L'électrocardiogramme. pch.vector / Freepik"
 rank = "false"
 writing = "false"
-todo = "liens | indications ECG"
+todo = "liens | indications ECG | datasets: "
 +++
 
 {{%article-summary%}}
@@ -71,6 +71,20 @@ Particularités de l'[ECG pédiatrique](https://fr.my-ekg.com/ecg-pediatrique/ec
 - [Dr Smith's ECG Blog](http://hqmeded-ecg.blogspot.com/)
 - [ECG Library](https://ecglibrary.com/ecghome.php)
 - Skillstat: [ECG Sim](https://www.skillstat.com/ecg-sim/) et [6 Second ECG](https://www.skillstat.com/tools/ecg-simulator/#/-home)
+
+{{% /collapse %}}
+{{%collapse "Datasets d'électrocardiogrammes" %}}
+
+Datasets publiques de référence pour le machine learning (ML) sur les électrocardiogrammes (ECG):
+
+- MIMIC-IV-ECG ([publication](https://doi.org/10.1038/s41597-022-01899-x), [publication v3.1](https://doi.org/10.13026/kpb9-mt58), [dataset](https://physionet.org/content/mimiciv/3.1/))
+- Ribeiro/CPSC ([publication](https://pubmed.ncbi.nlm.nih.gov/32273514/), [dataset](https://zenodo.org/records/3765780))
+- PTB ([publication](https://scholar.google.com/scholar_lookup?author=R.+Bousseljot&author=D.+Kreiseler&author=A+Schnabel&title=Nutzung+der+EKG-Signaldatenbank+CARDIODAT+der+PTB+%C3%BCber+das+Internet&publication_year=2009&journal=Biomedizinische+Technik%2FBiomedical+Engineering&pages=317-318), [dataset](https://physionet.org/content/ptbdb/))
+- PTB-XL ([publication](https://pubmed.ncbi.nlm.nih.gov/32451379/), [dataset](https://physionet.org/content/ptb-xl/))
+- PTB-XL+ ([publication](https://doi.org/10.1038/s41597-023-02153-8), [dataset](https://physionet.org/content/ptb-xl-plus/))
+- Hefei
+- SPH
+- Ningbo ([publication](https://doi.org/10.13026/wgex-er52), [dataset](https://physionet.org/content/ecg-arrhythmia/))
 
 {{% /collapse %}}
 
