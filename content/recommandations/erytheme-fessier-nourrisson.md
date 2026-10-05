@@ -17,6 +17,8 @@ sctid = "91487003"
 icd10 = []
 image = true
 imageSrc = "Erythème fessier de la petite fille. DermNet"
+rank = "ok"
+writing = "ok"
 todo = "flow"
 +++
 

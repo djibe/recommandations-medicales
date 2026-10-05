@@ -10,7 +10,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-01-11T10:55:00+02:00"
 publishdate = "2026-01-11"
-lastmod = "2026-01-11"
+lastmod = "2026-10-05"
 specialites = ["gynécologie-obstétrique"]
 annees = "2024"
 sources = ["Dress"]
@@ -20,6 +20,8 @@ sctid = ""
 icd10 = []
 image = true
 imageSrc = "Liste des maternités de France. pikisuperstar / Freepik"
+rank = "ok"
+writing = "ok"
 todo = "update 2027"
 datatable = true
 +++

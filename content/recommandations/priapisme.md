@@ -17,12 +17,14 @@ sctid = "6273006"
 icd10 = ["N48.3"]
 image = false
 imageSrc = ""
+rank = "ok"
+writing = "ok"
 todo = "photo > flow | demander relecture akakpowilliam@gmail"
 +++
 
 {{%article-summary%}}
 
-- Le priapisme est une érection survenant en l'absence de stimulation ou de désir sexuel et persistant plus de 4 heures
+- Le priapisme est une érection qui survient en l'absence de stimulation ou de désir sexuel et persiste plus de 4 heures
 - 95 % des cas sont de type ischémique avec risque de dysfonction érectile séquellaire
 - Les facteurs de risque sont la consommation de drogues, des médicaments (injections intracaverneuses, papavérine, antipsychotiques) et la drépanocytose
 - Les symptômes du priapisme sont une érection involontaire dure et douloureuse (forme ischémique) persistante. Elle peut être incomplète et indolore (forme non ischémique moins urgente)
@@ -60,7 +62,7 @@ Principales causes de priapisme:
 - **Drogues**  
   Alcool, cocaïne, cannabis.
 - **Cancers infiltrants**  
-  Prostate, urètre, testicule, vessie, recutom, poumon, rein.
+  Prostate, urètre, testicule, vessie, rectum, poumon, rein.
 - **Neurologique**  
   Syphilis, atteinte médullaire, syndrome de la queue de cheval ou canal lombaire rétréci, hernie discale, tumeur cérébrale, AVC.
 - **Infectieux et toxinique**  

@@ -17,7 +17,8 @@ sctid = "4754008"
 icd10 = ["N62"]
 image = true
 imageSrc = "Gynécomastie bénigne de l'adolescent et régression spontanée. David Andrew Copeland, Dr. Mordcai Blau gynecomastia-md.com, CC BY-SA 3.0, via Wikimedia Commons"
-rank = "false"
+rank = "ok"
+writing = "ok"
 todo = "liens > Kanban"
 flowchart = true
 +++
@@ -25,7 +26,7 @@ flowchart = true
 {{%article-summary%}}
 
 - La gynécomastie est une prolifération bénigne et fréquente du tissu glandulaire mammaire chez l'homme
-- Elle est physiologique chez le nourrisson (sauf après 6 mois) et chez l'adolescent (disparition spontanée sous 24 mois). En dehors de ces âges, l'exploration doit être systématique
+- Elle est physiologique chez le nourrisson de moins de 6 mois et chez l'adolescent (disparition spontanée sous 24 mois). En dehors de ces âges, l'exploration doit être systématique
 - La gynécomastie doit être différenciée d'une simple adipomastie, sans glande mammaire palpable (mammographie en cas de doute ou de signe d'alarme)
 - L'examen recherche des traitements à risque (spironolactone, anti-androgènes, anabolisants ...), des toxiques (alcool, cannabis, morphinique), l'évaluation du développement pubertaire et de la fertilité et des signes d'orientation étiologique (dépilation, dysfonction érectile, thyrotoxicose ...) avec palpation des testicules
 - Le bilan d'une gynécomastie, hors période physiologique ou prise d'anabolisants, débute par une échographie testiculaire. En cas de normalité, compléter avec testostérone, LH, FSH, œstradiol, SHBG, hCG, prolactine, TSH, T4L, bilan hépatique, rénale, AFP

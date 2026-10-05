@@ -208,7 +208,7 @@ Un médecin peut apparaître dans l'annuaire de *Sante.fr* s'il souhaite réalis
 - [Ministère de la Santé. Livret de présentation du dispositif << Mon Bilan Prévention >>. 2024. (PDF)](https://sante.gouv.fr/IMG/pdf/mon_bilan_prevention_livret.pdf)
 - [Ministère de la Santé. Mon Bilan Prévention pour les professionnels de santé. 13/10/2023.](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/espace-professionnels/article/mon-bilan-prevention-pour-les-professionnels-de-sante)
 - [Ameli Médecin. Mon bilan prévention, un temps d'échange dédié à la prévention. 25/06/2024.](https://www.ameli.fr/medecin/sante-prevention/bilan-prevention-ages-cles)
-- [Mon Bilan Prévention](https://monbilanprevention.sante.gouv.fr)
+- [Mon Bilan Prévention](https://www.sante.fr/mon-bilan-prevention)
 
 {{%/sources%}}
 {{% modal title="Mini Nutritional Assessment version courte" id="modal-mna"%}}

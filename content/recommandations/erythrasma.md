@@ -17,6 +17,8 @@ sctid = "238418005"
 icd10 = ["L08.1"]
 image = true
 imageSrc = "Érythrasma. Mohammad2018, CC BY-SA 4.0, via Wikimedia Commons"
+rank = "ok"
+writing = "ok"
 todo = "liens > flow"
 modele = true
 +++

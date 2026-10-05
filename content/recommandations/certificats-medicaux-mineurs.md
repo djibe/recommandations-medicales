@@ -18,6 +18,8 @@ sctid = "772786005"
 icd10 = []
 image = true
 imageSrc = "Le certificat médical. unDraw"
+rank = "ok"
+writing = "ok"
 todo = "liens, comment savoir ce qui change dans publi CNOM ?"
 tableFilter = true
 +++

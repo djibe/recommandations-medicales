@@ -17,6 +17,8 @@ sctid = "699373005"
 icd10 = ["Z58.1"]
 image = true
 imageSrc = "Plaques pleurales calcifiées chez un travailleur ayant été exposé à l'amiante. Cas de Frank Gaillard, Radiopaedia.org, rID: 8537"
+rank = "ok"
+writing = "ok"
 todo = "flow | relecture"
 +++
 

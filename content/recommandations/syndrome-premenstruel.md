@@ -17,6 +17,8 @@ sctid = "106002000"
 icd10 = []
 image = false
 imageSrc = ""
+rank = "ok"
+writing = "ok"
 todo = "photo | risque méningiome"
 flowchart = true
 +++

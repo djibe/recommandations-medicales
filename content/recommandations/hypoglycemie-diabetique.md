@@ -17,8 +17,8 @@ sctid = "302866003"
 icd10 = ["E16.2"]
 image = true
 imageSrc = "L'hypoglycémie diabétique. JB Fron, CC-BY-NC-SA-4.0"
-rank = "false"
-writing = "false"
+rank = "ok"
+writing = "ok"
 todo = "femme enceinte 0,63 +++ avec biblio; CI glucagon; collations SYS si > 15 min; Kanban | src délai 30 minutes capteur"
 +++
 

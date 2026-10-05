@@ -18,13 +18,15 @@ sctid = "42942008"
 icd10 = ["T08.X0"]
 image = true
 imageSrc = "Fracture vertébrale << bénigne >> ostéoporotique de T12 à la radiographie de profil chez une femme de 80 ans. Cas d'Usman Bashir, Radiopaedia.org, rID: 19198"
+rank = "ok"
+writing = "ok"
 todo = "relecture demandée thomas.funck-brentano@aphp"
 flowchart = true
 +++
 
 {{%article-summary%}}
 
-- La fracture vertébrale non traumatique est très fréquente (20 % après 50 ans), le plus souvent asymptomatique et demeure donc ignorée
+- La fracture vertébrale non traumatique est très fréquente (20 % après 50 ans), le plus souvent asymptomatique et demeure donc méconnue
 - Les signes et symptômes d'une fracture vertébrale (tassement vertébral) peuvent être: perte de taille, rachialgies (caractériser les douleurs, le déclenchement, l'évolution), une cyphose ou une déformation rachidienne
 - Les signes de malignité sont systématiquement recherchés: immunodépression, antécédent de cancer, douleurs inflammatoires, fièvre, AEG, sueurs nocturnes, syndrome inflammatoire biologique, déficit neurologique
 - Le bilan d'une suspicion de fracture vertébrale comprend des radiographies du rachis dorso-lombaire de face et de profil. En cas de fracture confirmée, le bilan biologique est systématique

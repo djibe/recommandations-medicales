@@ -17,6 +17,8 @@ sctid = "302870006"
 icd10 = ["E78.1"]
 image = false
 imageSrc = ""
+rank = "ok"
+writing = "ok"
 todo = "photo > flow"
 +++
 

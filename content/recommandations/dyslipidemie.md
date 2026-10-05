@@ -18,6 +18,8 @@ sctid = "370992007"
 icd10 = ["E78.8", "E11.6"]
 image = true
 imageSrc = "Les classes de lipoprotéines de la dyslipidémie. macrovector / Freepik"
+rank = "ok"
+writing = "ok"
 todo = "flow"
 slider = true
 +++

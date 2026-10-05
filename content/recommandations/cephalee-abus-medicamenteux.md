@@ -18,6 +18,8 @@ sctid = "698803006"
 icd10 = ["G44.4", "Y57.9"]
 image = false
 imageSrc = ""
+rank = "ok"
+writing = "ok"
 todo = "photo > flow | AMM ? | relecture demandée Pr MOISSET"
 +++
 

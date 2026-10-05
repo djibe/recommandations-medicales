@@ -18,6 +18,8 @@ sctid = "17425008"
 icd10 = ["B78", "B78.9"]
 image = true
 imageSrc = "Larve de Strongyloides stercoralis (à l'origine de l'anguillulose ou strongyloïdose). US Federal Government public domain image / CDC"
+rank = "ok"
+writing = "ok"
 todo = "flow, relecture demandée christian.chidiac"
 +++
 

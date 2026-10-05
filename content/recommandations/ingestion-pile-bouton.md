@@ -18,6 +18,8 @@ sctid = ""
 icd10 = ["W80", "W80.9"]
 image = true
 imageSrc = "Radiographie thoracique révélant une pile bouton enclavée dans l'œsophage d'une fille de 20 moins amenée par son père aux Urgences pour ingestion de pile plate. Cas d'Ashmitha Kumar, Radiopaedia.org, rID: 164310"
+rank = "ok"
+writing = "ok"
 todo = "flow"
 +++
 

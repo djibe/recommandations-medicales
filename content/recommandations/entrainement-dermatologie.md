@@ -18,6 +18,8 @@ sctid = ""
 icd10 = []
 image = true
 imageSrc = "Banques d'images de tests en dermatologie. pch.vector / Freepik"
+rank = "ok"
+writing = "ok"
 todo = "Kanban"
 +++
 

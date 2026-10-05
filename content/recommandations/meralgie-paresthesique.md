@@ -19,6 +19,8 @@ icd10 = ["G57.1"]
 image = true
 imagePNG = true
 imageSrc = "En rouge, dermatome du nerf cutané latérale de la cuisse (nerf fémoro-cutané -- noté Lat. fem. cut. L2-3 sur le schéma) et autres dermatomes de la jambe. Henry Vandyke Carter, Public domain, via Wikimedia Commons"
+rank = "ok"
+writing = "ok"
 todo = "flow"
 +++
 
