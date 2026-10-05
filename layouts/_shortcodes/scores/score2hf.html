@@ -6,9 +6,7 @@
     </div>
     <h3 class="typography-headline-5 ml-3 mb-0">Terrain</h3>
   </div>
-  <div class="custom-hf" style="display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: .5rem;
-  }
-}">
+  <div class="custom-hf" style="display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: .5rem;">
   <div class="form-group"><!-- Sexe -->
     <p class="typography-overline text-black-secondary mb-0">Sexe</p>
     <input type="radio" id="score2hf-female" name="gender" class="d-none" value="female" checked required>
@@ -23,11 +21,11 @@
     <input type="radio" id="score2hf-smoker" name="smoker" class="d-none" value="1">
     <label for="score2hf-smoker" class="chip chip-action chip-choice">Fumeur</label>
   </div>
-  <div class="form-group"><!-- Diabète -->
-    <p class="typography-overline text-black-secondary mb-0">Diabète</p>
-    <input type="radio" id="score2hf-nodiabetes" name="diabetes" class="d-none" value="0" checked disabled>
+  <div class="form-group"><!-- DT2 -->
+    <p class="typography-overline text-black-secondary mb-0">Diabète type 2</p>
+    <input type="radio" id="score2hf-nodiabetes" name="diabetes" class="d-none" value="0" checked required>
     <label for="score2hf-nodiabetes" class="chip chip-action chip-choice">Non</label>
-    <input type="radio" id="score2hf-diabetes" name="diabetes" class="d-none" value="1" disabled>
+    <input type="radio" id="score2hf-diabetes" name="diabetes" class="d-none" value="1">
     <label for="score2hf-diabetes" class="chip chip-action chip-choice">Oui</label>
   </div>
   <div class="form-group"><!-- AntiHTA -->
@@ -63,11 +61,29 @@
       <input type="number" class="form-alternative ml-3" id="sbp" value="130" min="100" max="200" required>
     </div>
   </div>
-  <div class="form-group"><!-- HDL -->
+  <div class="form-group"><!-- GFR -->
     <p class="typography-overline text-black-secondary mb-1">DFG</p>
     <div class="d-flex align-items-center">
       <input type="text" value="60" id="gfrSlider" oninput="gfr.value = this.value" required>
       <input type="number" class="form-alternative ml-3" id="gfr" value="60" min="30" max="150" required>
+    </div>
+    <small class="form-text">Formule <a href="/scores/ckd-epi-2021/" target="_blank">CKD-EPI 2021</a></small>
+  </div>
+  <div id="div-diabete" class="collapse">
+    <hr>
+    <div class="form-group"><!-- Age diag -->
+      <p class="typography-overline text-black-secondary mb-0">Âge au diagnostic du diabète</p>
+      <div class="d-flex align-items-center mt-2">
+      <input type="text" value="50" id="agediabSlider" oninput="agediab.value = this.value">
+      <input type="number" class="form-alternative ml-3" id="agediab" value="50" required>
+    </div>
+    </div>
+    <div class="form-group"><!-- HbA1c -->
+      <p class="typography-overline text-black-secondary mb-1">HbA1c</p>
+      <div class="d-flex align-items-center">
+        <input type="text" value="100" id="hba1cSlider" oninput="hba1c.value = this.value" required>
+        <input type="number" class="form-alternative ml-3" id="hba1c" value="100" min="10" max="250" required>
+      </div>
     </div>
   </div>
   </div>
@@ -81,8 +97,6 @@
     <div id="result-display" class="alert" role="alert">
         <p class="font-weight-bold mb-1" id="risk-score" style="font-size: 2rem"></p>
         <p class="h5" id="risk-category" style="font-size: 1.25rem; line-height: 2rem"></p>
-        <hr>
-        <p class="mb-0 small" id="risk-description" style="color: var(--text-black-secondary)"></p>
     </div>
      <!-- Disclaimer -->
 </div>
