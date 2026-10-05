@@ -1,0 +1,279 @@
+<script>
+  // Sliders
+  // TODO: rounding issues, limit input, g/L
+  window.addEventListener("load", () => {
+    // Age
+    $(function () {
+      const Slider = $("#ageHFSlider");
+      const Input = $("#ageHF");
+      const min = 40;
+      const max = 84;
+      Slider.ionRangeSlider({
+        skin: "material",
+        min: min,
+        max: max,
+        postfix: " ans",
+        extra_classes: "flex-fill",
+      });
+      let sliderInstance = Slider.data("ionRangeSlider");
+      Input.on("input", function () {
+        let val = this.value;
+        // Validate Slider
+        if (val < min) {
+          val = min;
+        } else if (val > max) {
+          val = max;
+        }
+        sliderInstance.update({ from: val });
+      });
+    });
+    // SBP
+    $(function () {
+      const Slider = $("#sbpSlider");
+      const Input = $("#sbp");
+      const min = 100;
+      const max = 200;
+      Slider.ionRangeSlider({
+        skin: "material",
+        min: min,
+        max: max,
+        postfix: " mmHg",
+        extra_classes: "flex-fill",
+      });
+      let sliderInstance = Slider.data("ionRangeSlider");
+      Input.on("input", function () {
+        let val = this.value;
+        // Validate Slider
+        if (val < min) {
+          val = min;
+        } else if (val > max) {
+          val = max;
+        }
+        sliderInstance.update({ from: val });
+      });
+    });
+    // Bmi
+    $(function () {
+      const Slider = $("#bmiSlider");
+      const Input = $("#bmi");
+      const min = 15;
+      const max = 65;
+      Slider.ionRangeSlider({
+        skin: "material",
+        min: min,
+        max: max,
+        step: 1,
+        postfix: " kg/m²",
+        extra_classes: "flex-fill",
+      });
+      let sliderInstance = Slider.data("ionRangeSlider");
+      Input.on("input", function () {
+        let val = this.value;
+        // Validate Slider
+        if (val < min) {
+          val = min;
+        } else if (val > max) {
+          val = max;
+        }
+        sliderInstance.update({ from: val });
+      });
+    });
+    // eGFR
+    $(function () {
+      const Slider = $("#gfrSlider");
+      const Input = $("#gfr");
+      const min = 30;
+      const max = 150;
+      Slider.ionRangeSlider({
+        skin: "material",
+        min: min,
+        max: max,
+        postfix: " mL/min/1,73 m²",
+        extra_classes: "flex-fill",
+      });
+      let sliderInstance = Slider.data("ionRangeSlider");
+      Input.on("input", function () {
+        let val = this.value;
+        // Validate Slider
+        if (val < min) {
+          val = min;
+        } else if (val > max) {
+          val = max;
+        }
+        sliderInstance.update({ from: val });
+      });
+    });
+  });
+</script>
+<script>
+  // Ce script implémente le calcul du risque cardiovasculaire selon l'algorithme SCORE2-HF
+  // pour les régions à faible risque.
+
+  document.addEventListener("DOMContentLoaded", function () {
+
+  const calculateBtn = document.getElementById("calculate-btn");
+  const form = document.getElementById("score-form");
+  const resultSection = document.getElementById("result-section");
+  const resultDisplay = document.getElementById("result-display");
+  const riskScoreEl = document.getElementById("risk-score");
+  const riskCategoryEl = document.getElementById("risk-category");
+  const riskDescriptionEl = document.getElementById("risk-description");
+  const errorSection = document.getElementById("error-section");
+  const errorMessageEl = document.getElementById("error-message");
+
+  // --- Constants & Coefficients (Low Risk Region) ---
+  const COEFFS = {
+    // smoker = smallbin; Antihypertensive medication = hypdbin; Diabetes = hxdiabbin
+    score2HF: {
+      female: { age: 0.5298, smoker: 0.7219, hypdbin: 0.542, sbp: 0.146, bmi: 0.31, hxdiabbin: 0.2690, lnegfr: -0.0528, smallbin: -0.1064, sbp_age: -0.0277, tchol_age: -0.0226, thdl_age: 0.0613, basesurv: 0.9776, scale1: -0.738, scale2: 0.7019 },
+      male: { age: 0.4578, smoker: 0.4956, hypdbin: 0.4629, sbp: 0.1456, bmi: 0.3065, hxdiabbin: .1493, lnegfr: -0.0298, basesurv: 0.9605, scale1: -0.5699, scale2: 0.7476 }
+    }
+  };
+
+  calculateBtn.addEventListener("click", handleCalculateClick);
+
+  // --- Main Handler ---
+  function handleCalculateClick() {
+
+    resultSection.classList.add("d-none");
+    errorSection.classList.add("d-none");
+
+    // Gather inputs
+    const gender = form.elements["gender"].value;
+    const age = parseFloat(form.elements["ageHF"].value);
+    const isSmoker = parseInt(form.elements["smoker"].value, 10);
+    const isDiabetic = parseInt(form.elements["diabetes"].value, 10);
+    const hasDrug = parseInt(form.elements["hbp-pill"].value, 10);
+    const bmi = parseInt(form.elements["bmi"].value, 10);
+    const sbp = parseInt(form.elements["sbp"].value, 10);
+    const gfr = parseFloat(form.elements["gfr"].value);
+
+    // Validation
+    if (isNaN(age) || isNaN(bmi) || isNaN(sbp) || isNaN(gfr) || !gender) {
+      showError("Veuillez remplir tous les champs avec des valeurs valides.");
+      return;
+    }
+
+    // Calculation
+    const riskPercent = computeRisk(gender, age, isSmoker, isDiabetic, hasDrug, sbp);
+
+    // Display
+    displayResult(riskPercent, age, bmi, sbp);
+  }
+
+  // --- Calculation Logic (Pure Function) ---
+  function computeRisk(gender, age, isSmoker, isDiabetic, hasDrug, bmi, sbp, gfr) {
+    const c = COEFFS.score2HF[gender];
+
+    const cage = (age - 60) / 5;
+    const csbp = (sbp - 120) / 20;
+    const cbmi = (bmi - 25) / 5;
+    const clnegfr = (lnegfr - 4,5) / 0.15;
+
+
+    // Interaction terms
+    const csmoker_age = cage * isSmoker;
+    const csbp_age = cage * csbp;
+
+    // Linear Predictor (LP)
+    const linearPredictor = (cage * c.age) + (isSmoker * c.smoker) + (csbp * c.sbp) +
+                            (ctchol * c.tchol) + (cthdl * c.thdl) +
+                            (csmoker_age * c.smoker_age) + (csbp_age * c.sbp_age) +
+                            (ctchol_age * c.tchol_age) + (cthdl_age * c.thdl_age);
+
+    // Uncalibrated Risk
+    const uncalibrated_risk = 1 - Math.pow(c.basesurv, Math.exp(lpAdjusted));
+
+    // Calibrated 10-year risk
+    const calibrated_10y_risk = 1 - Math.exp(-Math.exp(c.scale1 + c.scale2 * Math.log(-Math.log(1 - uncalibrated_risk))));
+
+    return parseFloat((calibrated_10y_risk * 100).toFixed(0));
+  }
+
+  // --- UI Update Logic ---
+  function displayResult(risk, age, tchol, sbp) {
+    let category = "";
+    let alertClass = "";
+    let riskTier = "";
+
+    const thresholds = { low: 2, moderate: 10, high: 20 };
+
+    // 1. Determine base risk tier
+    if (risk < thresholds.low) riskTier = "low";
+    else if (risk < thresholds.moderate) riskTier = "moderate";
+    else if (risk < thresholds.high) riskTier = "high";
+    else riskTier = "very_high";
+
+    // 2. Override check for extreme values
+    const isForcedHighRisk = (tchol > 8 || sbp >= 180) && (riskTier === "low" || riskTier === "moderate");
+    if (isForcedHighRisk) {
+      riskTier = "high";
+    }
+
+    // 3. Assign specific guidelines based on tier
+    switch(riskTier) {
+      case "low":
+        category = '<span class="font-weight-bold">Risque cardiovasculaire faible</span><br>Mesures d’hygiène universelles';
+        alertClass = "alert-success";
+        if (age < 70) {
+          category += '<br>LDL cible &lt; 1,16 g/L<hr>Mesures hygiéno-diététiques de réduction du LDL en cas de LDL ≥ 1,16 g/L.<br>Considérer une statine en cas de persistance.';
+        }
+        break;
+      case "moderate":
+        category = '<span class="font-weight-bold">Risque cardiovasculaire modéré</span><br>Mesures d’hygiène universelles';
+        alertClass = "alert-warning";
+        if (age < 70) {
+          category += '<br>LDL cible &lt; 1 g/L<hr>Mesures hygiéno-diététiques en cas de LDL ≥ 1 g/L.<br>Considérer une statine en cas de persistance.';
+        }
+        if (tchol > 7) {
+          category += '<hr>NB. Le cholestérol total est élevé. Un LDL &gt; 1,9 g/L détermine d’emblée un risque CV élevé !';
+        }
+        break;
+      case "high":
+        category = '<span class="font-weight-bold">Risque cardiovasculaire élevé</span><br>Mesures d’hygiène universelles';
+        alertClass = "alert-danger";
+        if (age < 70) {
+          category += '<br>LDL cible &lt; 0,7 g/L et réduction ≥ 50 %.<br>Statine d’emblée si LDL ≥ 1 g/L.<hr>Mesures hygiéno-diététiques en cas de LDL de 0,7 à 0,99 g/L, considérer une statine en cas de persistance.';
+        } else {
+          category += '<br>Une statine peut être envisagée chez le sujet en bonne santé.<br>Un objectif &lt; 1 g/L peut sembler raisonnable.';
+        }
+        break;
+      case "very_high":
+        category = '<span class="font-weight-bold">Risque cardiovasculaire très élevé</span><br>Mesures d’hygiène universelles';
+        alertClass = "alert-danger";
+        if (age < 70) {
+          category += '<br>LDL cible &lt; 0,55 g/L et réduction ≥ 50 %.<br>Statine d’emblée si LDL ≥ 0,7 g/L.<br>Mesures hygiéno-diététiques en cas de LDL de 0,55 à 0,69 g/L, considérer une statine en cas de persistance.';
+        } else {
+          category += '<br>Une statine peut être envisagée chez le sujet en bonne santé.<br>Un objectif &lt; 1 g/L peut sembler raisonnable.';
+        }
+        break;
+    }
+
+    // 4. Render output and handle warnings
+    riskScoreEl.textContent = isForcedHighRisk ? 'SCORE2 non applicable' : `${Intl.NumberFormat("fr-FR").format(risk)} %`;
+
+    if (isForcedHighRisk) {
+      category += '<br><br><strong>NB.</strong> Le risque est d’emblée Élevé en raison d’un cholestérol total &gt; 8 mmol/L ou d’une tension artérielle ≥ 180 mmHg.';
+    } else {
+      // Proximity warning
+      for (const threshold of Object.values(thresholds)) {
+        if (threshold - risk <= 2 && threshold - risk > 0) {
+          category += '<br><strong>NB.</strong> Le SCORE2 est à moins de 2 points du niveau de risque plus élevé !';
+          break; // Stop at the first threshold they are close to
+        }
+      }
+    }
+
+    riskCategoryEl.innerHTML = category;
+    riskDescriptionEl.textContent = `Risque de développer une insuffisance cardiaque.`;
+
+    resultDisplay.className = `alert ${alertClass}`;
+    resultSection.classList.remove("d-none");
+  }
+
+  function showError(message) {
+    errorMessageEl.textContent = message;
+    errorSection.classList.remove("d-none");
+  }
+});
+</script>
