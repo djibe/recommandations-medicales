@@ -229,7 +229,7 @@ Recherche de signes étiologiques et du retentissement de la maladie rénale:
   Fatigue, dyspnée, anorexie, nausées, vomissements, prurit, syndrome des jambes sans repos, crampes nocturnes, nycturie, troubles cognitifs, somnolence, hémorragies, troubles endocriniens, hypertension sévère.
 - Sujet âgé: évaluation gériatrique
 - Évaluation du **risque cardiovasculaire**: ==**[SCORE2 CKD Add-On](https://ckdpcrisk.org/ckdpatchscore/)**== en prévention primaire ou grille pour le {{< modal-btn modal-rcv >}}risque secondaire{{< /modal-btn >}}
-- Évaluation du risque d'insuffisance cardiaque à 10 ans: SCORE2-HF
+- Évaluation du risque d'insuffisance cardiaque à 10 ans: [SCORE2-HF]({{% relref "score2-hf.md" %}})
 
 Puis évaluer le risque de progression (score KFRE, et stade G-A).
 

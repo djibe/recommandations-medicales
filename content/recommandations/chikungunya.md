@@ -18,6 +18,7 @@ icd10 = ["A92.0"]
 image = true
 imageSrc = "Moustique du chikungunya, *Aedes albopictus* (moustique tigre). James Gathany, CDC, Public domain, via Wikimedia Commons"
 rank = "ok"
+writing = "ok"
 todo = "flow"
 +++
 
