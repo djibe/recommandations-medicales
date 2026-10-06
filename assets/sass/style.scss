@@ -231,6 +231,10 @@ mark {
   line-height: 1.5;
 }
 
+ul:not([class]) li {
+  font-size: initial;
+}
+
 .taxonomyTerms {
   padding-top: 6rem;
 
