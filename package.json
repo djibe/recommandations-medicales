@@ -5,12 +5,12 @@
   "scripts": {
     "recommandations:new": "hugo new recommandations/article.md",
     "css:update-browserslist": "npx update-browserslist-db@latest",
-    "css:compile": "node-sass --output-style expanded --precision 6 assets/sass/_material-custom.scss assets/css/material.css",
-    "docker:build": "hugo --environment development --buildDrafts && docker build -t recomed-image:v1 .",
-    "docker:run": "docker run --name recomed -d -p 8080:80 recomed-image:v1",
-    "print:compile": "node-sass --output-style expanded --precision 6 assets/sass/_print-material.scss assets/css/print-material.css",
+    "css:compile": "sass --quiet assets/sass/_material-custom.scss assets/css/material.css --error-css --no-source-map --precision=6",
+    "css:print:compile": "sass --quiet assets/sass/_print-material.scss assets/css/print-material.css --no-source-map --precision=6",
     "css:purge": "hugo && purgecss --css assets/css/material.css --content public/**/*.html --output assets/css/material-purge.css --safelist text-danger pagination page-link is-focused has-value close collapse collapsing modal fade modal-open modal-backdrop modal-scrollbar-measure nav-tabs-material nav-tabs-indicator animate show active tooltip tooltip-inner irs irs--material irs-line irs-min irs-max irs-from irs-to irs-single irs-grid irs-bar irs-bar--single irs-handle single state_hover irs-hidden-input",
     "css:purge-preview": "hugo --buildDrafts && purgecss --css assets/css/material.css --content public/**/*.html --output assets/css/material-purge.css --safelist text-danger pagination page-link is-focused has-value close collapse collapsing modal fade modal-open modal-backdrop modal-scrollable-measure nav-tabs-material nav-tabs-indicator animate show active tooltip tooltip-inner irs irs--material irs-line irs-min irs-max irs-from irs-to irs-single irs-grid irs-bar irs-bar--single irs-handle single state_hover irs-hidden-input",
+    "docker:build": "hugo --environment development --buildDrafts && docker build -t recomed-image:v1 .",
+    "docker:run": "docker run --name recomed -d -p 8080:80 recomed-image:v1",
     "favicon": "real-favicon generate \"./build/faviconDescription.json\" \"./build/favicons/\"",
     "html:lint-vnu": "hugo && node build/vnu-jar.mjs",
     "html:lint-validate": "hugo && npm exec html-validate \"public/**/*.html\"",
@@ -64,6 +64,7 @@
     "instant.page": "^5.2.0",
     "linkinator": "^6.1.4",
     "mermaid": "^11.17.0",
+    "sass": "^1.105.1",
     "vnu-jar": "^25.12.31"
   },
   "dependencies": {
