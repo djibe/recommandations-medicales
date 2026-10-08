@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-20T22:32:54+02:00"
 publishdate = "2022-06-21"
-lastmod = "2026-04-15"
+lastmod = "2026-10-05"
 specialites = ["hépato-gastro-entérologie"]
-annees = "2021"
-sources = ["SPILF", "SFCD", "WSES"]
+annees = "2026"
+sources = ["Bibliographie", "SPILF", "SFCD", "WSES"]
 tags = ["adolescent", "enfant"]
 english = ["Acute appendicitis (AA)"]
 sctid = "85189001"
@@ -28,7 +28,7 @@ flowchart = true
 - L'appendicite aiguë est une inflammation de l'appendice du cæcum (côlon droit) pouvant survenir à tout âge
 - Les symptômes évocateurs d'appendicite sont un fébricule avec nausées, des douleurs abdominales en fosse iliaque droite (FID), maximales au point de Mc Burney, mais des présentations très atypiques sont possibles
 - Le diagnostic d'appendicite aiguë est délicat (fréquents diagnostics différentiels) et nécessite un bilan en urgence: bandelette urinaire, bilan biologique et échographie abdominale
-- L'appendicite aiguë est une urgence chirurgicale (pouvant être différée jusqu'à 24 heures du diagnostic)
+- L'appendicite aiguë est une urgence chirurgicale (pouvant être différée jusqu'à 24 heures du diagnostic). Une antibiothérapie est envisageable chez l'adulte immunocompétent pour les formes non compliquées
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
@@ -56,6 +56,9 @@ FID
 
 MICI
 : maladie inflammatoire chronique de l'intestin
+
+SFAR
+: Société Française d'Anesthésie et Réanimation
 
 SFCD
 : Société française de chirurgie digestive
@@ -181,13 +184,13 @@ Chez la femme enceinte: échographie abdominale ou IRM abdominale sans injection
 
 ### Traitement chirurgical par appendicectomie
 
-La chirurgie est le traitement de référence de l'appendicite aiguë non compliquée (par cœlioscopie principalement, même chez la femme enceinte). Elle peut être différée jusqu'à 24 heures après le diagnostic. 30 à 50 % pourraient être réalisées en ambulatoire.
+La **chirurgie** est le **traitement de référence** de l'appendicite aiguë non compliquée (par cœlioscopie principalement, même chez la femme enceinte). Elle peut être différée jusqu'à 24 heures après le diagnostic. 30 à 50 % pourraient être réalisées en ambulatoire.
 
 Le traitement chirurgical par cœlioscopie est également la référence en cas d'appendicite aiguë compliquée mais une antibiothérapie peut être discutée en première ligne (sauf péritonite), suivie d'une chirurgie à froid.
 
 L'examen anatomopathologique de l'appendice est systématique.
 
-Pas d'antibiothérapie post-opératoire pour une appendicite non compliquée (ou durée ≤ 24 h). Si compliquée: C3G + imidazolé pendant 3 jours (parfois prolongée).
+Pas d'antibiothérapie post-opératoire pour une appendicite non compliquée (ou durée ≤ 24 h). Si compliquée: antibiothérapie probabiliste pendant 2 jours (parfois prolongée).
 
 ### Appendicite aiguë et antibiothérapie
 
@@ -195,14 +198,14 @@ En cas de contre-indication ou d'impossibilité de la chirurgie, l'antibiothéra
 
 La voie orale est recommandée en l'absence de nausées ou vomissements.
 
-Antibiothérapie type amoxicilline/acide clavulanique ou fluoroquinolone + imidazolé pendant 7 jours (*SPILF* 2025 et 2020).
+Antibiothérapie type amoxicilline/acide clavulanique ou fluoroquinolone + imidazolé pendant 7 jours (*SPILF 2025* et *2020*).
 
 Lors du traitement de l'appendicite par antibiothérapie, le risque de récidive peut atteindre 39 % à 5 ans (*WSES*).
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'appendice aiguë" "show" %}}
 
-{{< mermaid title="Prise en charge de la suspicion d'appendice aiguë par le médecin généraliste. Dr JB Fron d'après SFCD 2021 et WSES 2020" >}}
+{{< mermaid title="Prise en charge de la suspicion d'appendice aiguë par le médecin généraliste. Dr JB Fron d'après Prescrire, SFAR, SFCD et WSES" >}}
 graph TB
   suspicion["<b>Suspicion d'appendicite aiguë</b><br>—<br>À tout âge:<br>- Douleurs en FID persistantes<br>- Sensibilité ou défense<br>en FID<br>- ± Fièvre, tbles transit"] --> urgences("Bilan aux Urgences<br>ou échographie abdominale<br>+ bilan<br>en filière rapide")
   style suspicion stroke:#4150f5, stroke-width:1px
@@ -211,6 +214,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Montravers P, et al. Recommandations formalisées d'experts de la Société Française d'Anesthésie et Réanimation (SFAR) en association avec les Fédération de Chirurgie Viscérale et Digestive (FCVD), Société Française de Chirurgie Digestive (SFCD), Société Française d'Endoscopie Digestive (SFED), Société Française de Microbiologie (SFM), Société Française de Radiologie (SFR), Société de Pathologie Infectieuse de Langue Française (SPILF), Société Française de Pharmacologie et de Thérapeutique (SFPT) - Prise en charge thérapeutique des Infections intra-abdominales de l'adulte. 2026.](https://sfar.org/download/prise-en-charge-therapeutique-des-infections-intra-abdominales-de-ladulte/?wpdmdl=145222&refresh=6ac36ff72d36b1791193079)
+- Prescrire Redaction. Antibiothérapie des appendicites aiguës chez les adultes. Rev Prescrire. 2026.
 - [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [Salminen P, et al. Antibiotic Therapy for Uncomplicated Acute Appendicitis: Ten-Year Follow-Up of the APPAC Randomized Clinical Trial. JAMA. 2026.](https://jamanetwork.com/journals/jama/article-abstract/2844116)
 - [CBIP. Appendicectomie vs antibiotiques en cas d'appendicite aiguë chez l'enfant. Folia. 2025.](https://www.cbip.be/fr/articles/4538?folia=4535)
@@ -228,6 +233,6 @@ graph TB
 
 ### Bibliographie en attente
 
-[Kumar SS, et al. SAGES guideline for the diagnosis and treatment of appendicitis. Surg Endosc. 2024.](https://link.springer.com/article/10.1007/s00464-024-10813-y) (payant)
+- [Kumar SS, et al. SAGES guideline for the diagnosis and treatment of appendicitis. Surg Endosc. 2024.](https://link.springer.com/article/10.1007/s00464-024-10813-y) (payant)
 
 {{%/sources%}}
