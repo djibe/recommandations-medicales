@@ -276,6 +276,7 @@ Posologies chez l'enfant, traitement de 3 jours:
     ERS, SFMU: dans les 7-14 jours suivant le diagnostic radiologique de pneumothorax spontané primaire guéri.
   - Drépanocytose
   - Trouble psychotique (sauf totalement maîtrisé)
+  - Embolie pulmonaire C2 à E (au moins symptomatique avec anomalie échographique VD ou de biomarqueur), pendant 4 semaines après le début du traitement ou après la résolution des symptômes
 
 > -- *HCSP*
 
@@ -283,7 +284,7 @@ L'avion est autorisé pour un nouveau-né né à terme à partir de 48 heures de
 
 ### Prévention des thromboses veineuses profondes
 
-> Risque de thrombose (TVP) x 2-3 dès 4 heures de vol.
+> Risque de thrombose veineuse (TVP) x 2-3 dès 4 heures de vol.
 
 Mesures de prévention des thromboses veineuses profondes liées à un voyage aérien:
 
@@ -291,7 +292,7 @@ Mesures de prévention des thromboses veineuses profondes liées à un voyage a�
 - Bouger fréquemment les jambes, se déplacer dans l'avion
 - Programmes d'exercices sans quitter sa place
 - Boissons sans alcool régulières
-- Si facteur de risque de phlébite: bas mi-cuisse classe 2  
+- Si facteur de risque de phlébite: bas ou chaussettes classe 2  
   **Facteurs de risque de TVP:** antécédents personnels ou familiaux de MVTE, thrombophilie, [cancer actif](/tags/cancer/), grossesse ou [post-partum]({{% relref "post-partum.md" %}}), contraception œstroprogestative ou THM, [obésité]({{% relref "obesite-adulte.md" %}}), âge avancé, tailles extrêmes, hospitalisation pour traumatisme ou anesthésie générale récente (< 4 semaines), tabac.
 - Si risque élevé de MVTE: évaluer un anticoagulant  
   **Facteurs de risque élevé de TVP:** antécédent personnel de MVTE non provoquée ou liée à un voyage, chirurgie à risque (abdomen, bassin, jambes) ou traumatisme récent, cancer actif, 2 facteurs de risque.
@@ -307,7 +308,7 @@ En cas de risque élevé de thrombo-embolie veineuse, une injection sous-cutané
 | Tinzaparine  |  4500 UI  |
 | Nadroparine  |  2500 UI  |
 | Fondaparinux |  2,5 mg   |
-{caption="Principaux schémas d'anticoagulants à dose préventive pour les vols long courrier selon *HCSP 2023*"}
+{caption="Principaux schémas d'anticoagulants à dose préventive pour les vols long courrier selon *HCSP 2026*"}
 
 ### Prévention du jet lag
 
