@@ -323,7 +323,7 @@ Le reste du bilan est réalisé par l'endocrinologue.
   - Exploration de masse mammaire
   - Exploration de saignements utérins anormaux
 - Contre-indications à l'estradiol par voie orale
-  - [Antécédent de thrombo-embolie (MVTE)](/tags/mvte/)
+  - [Antécédent de thrombo-embolie veineuse (MVTE)](/tags/mvte/) (EP, TVP)
   - [Obésité]({{% relref "obesite-adulte.md" %}})
   - Thrombophilie
   - Risque cardiovasculaire marqué
@@ -370,7 +370,7 @@ Recommandations pour le traitement hormonal de la ménopause (THM) en pratique:
 - Délai d'efficacité sur les bouffées vasomotrices: 2-6 semaines.  
   L'absence d'efficacité doit faire rechercher des BVM atypiques (voir *Clinique*).
 - Contre-indications à l'estradiol par voie orale
-  - Antécédent de MVTE
+  - Antécédent de MVTE (EP, TVP)
   - Obésité
   - Thrombophilie
 - Réévaluation annuelle du THM

@@ -18,7 +18,7 @@ icd10 = ["R04.0"]
 image = true
 imageSrc = "La compression bidigitale de l'épistaxis. TenarAiuola, CC BY-SA 3.0, via Wikimedia Commons"
 rank = "false"
-writing = "todo"
+writing = "ok"
 flowchart = true
 +++
 

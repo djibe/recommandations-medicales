@@ -145,7 +145,7 @@ Créer un contrat de remplacement pour le médecin libéral depuis le navigateur
             document.getElementById('nomRemplace').value = savedData.nomRemplace || '';
             document.getElementById('numOrdreRemplace').value = savedData.numOrdreRemplace || '';
             document.getElementById('adresseCabinet').value = savedData.adresseCabinet || '';
-            document.getElementById('tauxRetrocession').value = savedData.tauxRetrocession || '70';
+            document.getElementById('tauxRetrocession').value = savedData.tauxRetrocession || '';
         }
     };
     // Sauvegarder les informations
