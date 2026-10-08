@@ -21,7 +21,7 @@ La priorisation sera faite en fonction de la fréquence des courriers à ce suje
   <div class="form-group my-5">
     <div class="floating-label textfield-box">
       <label for="soumission-text">Soumettre un chapitre</label>
-      <textarea class="form-control" id="soumission-text" rows="3" required autocomplete="off" minlength="5" required oninvalid="setCustomValidity('Merci de préciser votre besoin')" onchange="this.setCustomValidity('')"></textarea>
+      <textarea class="form-control" name="submission" id="soumission-text" rows="3" required autocomplete="off" minlength="5" required oninvalid="setCustomValidity('Merci de préciser votre besoin')" onchange="this.setCustomValidity('')"></textarea>
     </div>
   </div>
   <button type="submit" form="submission-form" class="btn btn-primary">Envoyer</button>
