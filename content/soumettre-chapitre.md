@@ -16,7 +16,7 @@ Un sujet vous manque cruellement et pourrait bénéficier à tous les générali
 
 La priorisation sera faite en fonction de la fréquence des courriers à ce sujet.
 
-<form id="submission-form" style="margin-bottom: 8rem;" name="submission" method="POST" data-netlify="true" netlify-honeypot="username">
+<form id="submission-form" name="submission-form" style="margin-bottom: 8rem;" method="POST" data-netlify="true" netlify-honeypot="username">
   <input name="username" class="d-username" type="text">
   <div class="form-group my-5">
     <div class="floating-label textfield-box">
