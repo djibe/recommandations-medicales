@@ -22,7 +22,7 @@
       <label class="custom-control-label" for="cb-enceinte">Patiente enceinte</label>
     </div>
     <div class="form-group floating-label textfield-box form-ripple mt-3">
-      <label for="input-ddimeres">D-dimères (ng/mL FEU) <span class="text-danger">*</span></label>
+      <label for="input-ddimeres">D-dimères (ng/mL FEU)</label>
       <input class="form-control" id="input-ddimeres" type="number" min="0">
     </div>
     <button
@@ -68,8 +68,13 @@
       const inputDdimeres = document.getElementById('input-ddimeres').value;
       const resultContainer = document.getElementById('result-container');
       const dDimeres = parseFloat(inputDdimeres);
+      let htmlResultat = '';
 
-      if (inputDdimeres === null || inputDdimeres.trim() === '') {
+      if (isPregnant && DVTsuspected) {
+        htmlResultat = `<div class="alert alert-warning mb-3" role="alert"><strong>Attention :</strong>
+            Un doppler veineux est recommandé en premier du fait de la suspicion de TVP.
+            <br>Si TVP: anticoaguler, sinon effectuer la prise en charge ci-dessous.</div>`
+      } else if (inputDdimeres === null || inputDdimeres.trim() === '') {
         resultContainer.innerHTML = '<div class="alert alert-danger" role="alert">Préciser le résultat des D-dimères.</div>';
         resultContainer.style.display = 'block';
         return;
@@ -82,15 +87,6 @@
 
       const ceil = (score === 0) ? 1000 : 500;
 
-      let htmlResultat = '';
-
-      // Vérification du cas spécifique : Patiente enceinte + Signes de TVP
-      if (isPregnant && DVTsuspected) {
-          htmlResultat += `<div class="alert alert-warning mb-3" role="alert"><strong>Attention :</strong>
-            Un doppler veineux doit être réalisée en premier du fait de la suspicion de TVP; si positive, anticoaguler;
-            si négative, effectuer la prise en charge ci-dessous.</div>`;
-      }
-
       // Évaluation des D-dimères par rapport au seuil
       const epExclue = dDimeres < ceil;
       const resultClass = epExclue ? 'alert-success' : 'alert-danger';
@@ -98,8 +94,8 @@
 
       htmlResultat += `<div class="alert ${resultClass}" role="alert"><h4 class="alert-heading">${resultText}</h4><hr><p class="mb-0"><strong>Explication :</strong><br>
         Score = ${score}<br>
-        ceil applicable = ${ceil} ng/mL<br>
-        Valeur saisie = ${dDimeres} ng/mL</p></div>`;
+        Seuil de d-dimères : ${ceil} ng/mL<br>
+        D-dimères renseignés : ${dDimeres} ng/mL</p></div>`;
 
       resultContainer.innerHTML = htmlResultat;
       resultContainer.style.display = 'block';
