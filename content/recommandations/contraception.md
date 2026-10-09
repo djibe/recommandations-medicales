@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-09-19T20:09:50+02:00"
 publishdate = "2021-09-21"
-lastmod = "2025-04-06"
+lastmod = "2026-10-09"
 specialites = ["gynécologie-obstétrique", "thérapeutique", "urologie"]
 annees = "2019"
 sources = ["CNGOF", "HAS"]
@@ -125,15 +125,14 @@ Les œstroprogestatifs augmentent le risque de [thromboembolie veineuse](/tags/m
 - Grossesse (*[CRAT](https://www.lecrat.fr/6225/)*)
 - Allaitement: les 6 premières semaines (*[CRAT](https://www.lecrat.fr/6211/)*)
 - Antécédent personnel de thrombose veineuse superficielle selon *SFMV 2019*
-- Antécédent familial au 1^er^ degré
+- Antécédent personnel ou familial au 1^er^ degré
   - [Infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}) ou AVC chez homme -55 ans ou femme -65 ans
   - MVTE (thrombose veineuse profonde, embolie pulmonaire) avant 50 ans  
     Ou nombre élevé d'apparentés quel que soit le degré.
 - [Hypertension artérielle]({{% relref "hypertension-arterielle.md" %}})
 - [Dyslipidémie]({{% relref "dyslipidemie.md" %}}) non contrôlée
 - [Diabète type 1]({{% relref "diabete-type-1.md" %}}) depuis +20 ans ou compliqué
-- [Migraine avec aura]({{% relref "migraine.md" %}})  
-  (Pourrait être considérée selon l'*ESC 2021*)
+- [Migraine avec aura]({{% relref "migraine.md" %}}) (CNGOF + *SFEMC 2021*, mais pourrait être considérée selon *ESC 2021*)
 - Migraine de novo ou aggravation des migraines sous œstroprogestatifs
 - Thrombophilie
 - {{< modal-btn modal-rcv >}}Risque cardiovasculaire élevé{{< /modal-btn >}}
@@ -153,9 +152,9 @@ Possibles seulement si 1 seul facteur de risque cardiovasculaire isolé parmi:
 - [Tabac > 15 cig/j]({{% relref "arret-tabac.md" %}})
 - Dyslipidémie contrôlée
 - [Diabète type 2]({{% relref "diabete-type-2.md" %}})
-- [Migraine sans aura]({{% relref "migraine.md" %}})
+- [Migraine sans aura]({{% relref "migraine.md" %}}) (*SFEMC 2021*)
 
-> -- *CNGOF 2018 et SFEMC 2021*
+> -- *CNGOF 2018*
 {{%/info%}}
 
 La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas les risques veineux et artériels (sauf acétate de médroxyprogestérone intramusculaire). Elle est recommandée en cas de contre-indication figurant ci-dessus.
@@ -172,6 +171,8 @@ La contraception *progestative seule* (pilule, implant ou DIU) ne modifie pas le
 
 > [!INFO]
 > La contraception intra-utérine peut être proposée aux adolescentes et aux nullipares (*CNGOF 2018*). Le risque d'infection haute est < 1%, même en cas de portage de gonocoque ou Chlamydia (*CNGOF 2018 IGH*).
+
+> << Le CNGOF réaffirme que le désogestrel (et son métabolite l'étonogestrel) reste une option thérapeutique et contraceptive sûre, dont les bénéfices dépassent largement les risques pour l'immense majorité des femmes. >> -- *CNGOF 2026*
 
 | Type        | EE (µg)  | Progestatif (mg) | Spécialités     |
 | ----------- | -------: | ---------------- | --------------- |
@@ -674,6 +675,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Société Française d'Hypertension Artérielle (SFHTA). Contraception contenant du désogestrel, risque de méningiomes et femmes à risque cardiovasculaire. Communiqué. 02/10/2026. (PDF)](https://www.sfhta.eu/wp-content/uploads/2026/10/Communique-SFHTA-Desogestrel-1-2.pdf)
+- [Collège National des Gynécologues et Obstétriciens Français (CNGOF). Désogestrel et méningiomes : les précisions du Collège National des Gynécologues et Obstétriciens Français. Communiqué de presse. 15/09/2026. (PDF)](https://cngof.fr/app/uploads/2026/09/2026-09-15-CP-CNGOF-Desogestrel-et-Meningiomes-1.pdf?x92631)
 - Ameli Médecin. Des préservatifs sans latex pris en charge par l'Assurance Maladie. 27/03/2025.
 - [ANSM. Progestatifs et risque de méningiome : recommandations pour limiter ce risque. 18/12/2023.](https://ansm.sante.fr/actualites/progestatifs-et-risque-de-meningiome-recommandations-pour-limiter-ce-risque)
 - [ANSM. Les stérilets contenant le plus d'hormone présenteraient davantage de risque de troubles dépressifs. 14/02/2023.](https://ansm.sante.fr/actualites/les-sterilets-contenant-le-plus-dhormone-presenteraient-davantage-de-risque-de-troubles-depressifs)
