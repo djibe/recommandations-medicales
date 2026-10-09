@@ -7,10 +7,10 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-04-03T13:12:00+02:00"
 publishdate = "2021-04-05"
-lastmod = "2026-09-18"
+lastmod = "2026-10-09"
 specialites = ["gynécologie-obstétrique"]
-annees = "2024"
-sources = ["NICE", "ACOG", "HAS", "CNGOF"]
+annees = "2026"
+sources = ["ACOG", "NICE", "HAS", "CNGOF"]
 tags = ["contraception", "douleur pelvienne"]
 english = ["Endometriosis"]
 sctid = "129103003"
@@ -25,7 +25,7 @@ todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité 
 
 {{%article-summary%}}
 
-- L'endométriose est fréquente avec un retentissement marqué sur la qualité de vie
+- L'endométriose est la présence de tissu endométrial en dehors de l'utérus. Elle est pathologique lorsqu'elle entraîne des symptômes ou des complications.
 - Les symptômes d'endométriose sont principalement des dysménorrhées intenses (dites règles douloureuses) chroniques, une infertilité. Les signes d'atteinte profonde sont les dyspareunies profondes, les douleurs à la défécation ou les symptômes urinaires à recrudescence cataméniale
 - Le bilan initial de l'endométriose comprend un examen gynécologique et une échographie endo-pelvienne
 - En cas de dysménorrhée isolée, contrôlée par la contraception et sans désir de grossesse, le bilan n'est pas systématique
@@ -38,14 +38,13 @@ Chapitre lié: [infertilité]({{% relref "infertilite-couple.md" %}})
 {{%collapse "Définitions" %}}
 
 Endométriose
-: Maladie pelvienne féminine fréquente (10 % des femmes en âge de procréer) avec retentissement sur la qualité de vie des patientes.
-: La définition de l'endométriose est histologique avec la présence de glandes ou stroma endométrial en dehors de l'utérus.  
+: Maladie pelvienne chronique féminine fréquente (10 % des femmes en âge de procréer), œstrogéno-dépendante, retentissant sur la qualité de vie.
+: La définition de l'endométriose est histologique avec la présence de tissu endométrial en dehors de l'utérus.  
 Elle est pathologique lorsqu'elle entraîne une **dysménorrhée**, des **douleurs pelviennes chroniques** ou une **infertilité**. L'endométriose est la 1^re^ cause de dysménorrhée secondaire de l'adolescente.  
 Les douleurs sont souvent améliorées pendant les grossesses et après la [ménopause]({{% relref "menopause.md" %}}).
-: L'origine de l'endométriose est multifactorielle avec l'action de facteurs génétiques (hérédité), environnementaux et liés aux menstruations (ménarche précoce, volume important, cycles courts).  
+: L'origine de l'endométriose est multifactorielle avec l'action de facteurs génétiques (hérédité), environnementaux et liés aux menstruations (ménarche précoce, nulliparité, cycles courts, maigreur).  
 Il n'existe pas d'arguments pour une aggravation de l'importance et l'étendue des lésions de la maladie endométriosiques avec le temps.
-: Aucune association endométriose - [cancer de l'ovaire]({{% relref "cancer-ovaire.md" %}}) n'est prouvée.  
-Des complications obstructives (occlusion digestive ou urétérale) sont exceptionnelles. L'endométriose est un facteur de risque d'[AVC]({{% relref "accident-vasculaire-cerebral.md" %}}).
+: Des complications obstructives (occlusion digestive ou urétérale) sont exceptionnelles. L'endométriose est un facteur de risque d'[AVC]({{% relref "accident-vasculaire-cerebral.md" %}}).
 
 Endométriose superficielle
 : Endométriose limitée au péritoine.
@@ -79,9 +78,14 @@ Dysménorrhée
 - L'endométriose est responsable de 30 % des infertilités féminines
 - et 30 % des douleurs pelviennes chroniques féminines
 - 75 % des douleurs pelviennes chroniques résistantes sont endométriosiques
-- 70 % des adolescentes avec dysménorrhées
+- 70 % des adolescentes ont des dysménorrhées
+- Le délai diagnostique est de 4 à 11 ans
+- Les femmes à peau noire sont 2x plus sous-diagnostiquées
 
 ### Abréviations
+
+ACOG
+: {{%lang%}}The American College of Obstetricians and Gynecologists{{%/lang%}}
 
 AMP
 : assistance médicale à la procréation
@@ -114,16 +118,19 @@ TV
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-Autres diagnostics à étayer devant des douleurs pelviennes de la femme:
+Autres diagnostics à étayer devant des troubles pelviens de la femme:
 
-- Adénomyose
-- [Salpingite]({{% relref "infections-genitales-hautes.md" %}}) et inflammation pelvienne chronique
-- Fibromyomes utérins
-- Kyste ovarien
-- [Cancer de l'ovaire]({{% relref "cancer-ovaire.md" %}})
-- Douleurs d'origine digestive
-- [Douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}})
-- Violences sexuelles
+- **Douleurs abdomino-pelviennes non menstruelles**  
+  [Syndrome de l'intestin irritable]({{% relref "syndrome-intestin-irritable.md" %}}), [douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}}), adhérences, syndromes de compression nerveuse de la paroi abdominale, maladie inflammatoire pelvienne, [salpingite]({{% relref "infections-genitales-hautes.md" %}}) et inflammation pelvienne chronique, fibromyomes utérins, masse annexielle, kyste ovarien, [cancer de l'ovaire]({{% relref "cancer-ovaire.md" %}})
+- **Dysménorrhée**  
+  Dysménorrhée primaire, adénomyose, anomalies de l'appareil reproducteur chez les adolescentes (ex anomalies müllériennes obstructives), léiomyomes
+- **Dyspareunies**  
+  Dysfonctionnements sexuels, troubles du plancher pelvien, antécédents de traumatismes ou d'abus sexuels, problèmes psychosociaux (par exemple, anxiété, dépression)
+- **Dyschézie ou symptômes gastro-intestinaux** (diarrhée, crampes, constipation)  
+  [Hémorroïdes]({{% relref "hemorroides.md" %}}), constipation, syndrome de l'intestin irritable, MICI, fissures anales, troubles du plancher pelvien.
+- **Dysurie**  
+  Cystite interstitielle, syndrome de la vessie douloureuse, troubles du plancher pelvien.
+- Infertilité inexpliquée
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -137,23 +144,28 @@ La prise en charge de l'endométriose nécessite une consultation dédiée.
 ### Interrogatoire
 
 - Antécédents
+- Antécédents familiaux d'endométriose (OR 3-9)
+- Facteurs de risque  
+  Ménarche précoce (avant 10 ans), cycles courts (< 26 jours), nulliparité, maigreur
 - Traitements en cours
+- Absentéisme scolaire/professionnel
 - Contraception
+- Cycles
 - Signes et symptômes d'endométriose:
-  - ==**[Douleurs pelviennes chroniques](/tags/douleur-pelvienne/)**==, notamment cycliques péri-menstruelles
+  - ==**[Douleurs pelviennes chroniques](/tags/douleur-pelvienne/)**== (+6 mois), notamment cycliques péri-menstruelles
   - ==**Dysménorrhées intenses**==
   - Dyspareunies
   - Type des douleurs (parts nociceptive ou neuropathique)
-  - Intensité ≥ 8, résistance aux paliers 1, absentéisme scolaire/professionnel
-  - Qualité de vie: {{< modal-btn modal-score-ehp5 >}}échelle EHP-5{{< /modal-btn >}}
+  - Intensité ≥ 8, résistance aux paliers 1
   - **Agenda** des symptômes
 - Signes de lésions profondes:
   - **Dyspareunies profondes**
   - **Douleurs pelviennes à la défécation**, à recrudescence cataméniale
   - Signes fonctionnels urinaires à recrudescence cataméniale  
     Dysurie, pollakiurie, hématurie.
-- Troubles digestifs récurrents
-- **[Infertilité]({{% relref "infertilite-couple.md" %}})**
+  - Troubles digestifs récurrents
+  - **[Infertilité]({{% relref "infertilite-couple.md" %}})**
+- Qualité de vie: {{< modal-btn modal-score-ehp5 >}}échelle EHP-5{{< /modal-btn >}}
 - Chez l'adolescente: temps d'entretien sans les parents, recherche de violences
 
 ### Examen clinique
@@ -199,6 +211,9 @@ Indications à l'IRM lombo-pelvienne sans injection pour endométriose:
 
 L'IRM réalise le bilan d'extension de l'endométriose en vue du suivi spécialisé gynécologique.
 
+> [!INFO]
+> << L'ACOG déconseille l'utilisation de biomarqueurs sanguins, urinaires, endométriaux ou autres pour diagnostiquer l'endométriose. >> -- *ACOG 2026*
+
 {{% /collapse %}}
 {{%collapse "Traitement de l'endométriose" %}}
 
@@ -209,6 +224,7 @@ L'IRM réalise le bilan d'extension de l'endométriose en vue du suivi spéciali
 
 La prise en charge de l'endométriose en première intention comprend:
 
+- Traitement hormonal (voir section suivante)
 - **Antalgie**
   - Paliers 1 pendant 3 mois en 1^re^ intention
   - **Paracétamol** et **AINS** en péri-menstruel uniquement  
@@ -224,6 +240,9 @@ La prise en charge de l'endométriose en première intention comprend:
   - Aucun régime ou supplémentation n'a de bénéfice prouvé
 - Association de patientes: [EndoFrance](https://www.endofrance.org)
 - {{< references/compare >}}
+
+> [!INFO]
+> Aucune association n'est prouvée entre endométriose et [cancer de l'ovaire]({{% relref "cancer-ovaire.md" %}}).
 
 ### Traitements hormonaux de première intention pour l'endométriose
 
@@ -265,8 +284,6 @@ Mise en place en cours des [Centres experts de l'endométriose](https://www.endo
   - 92 Centre et Nord: Beaujon, Ambroisé Paré, Foch, GHEM Simone Veil
   - 92 Sud, 91 et 94: Cochin, Saint-Joseph, Hôpital privé d'Antony et Institut de la femme et de l'endométriose
   - 93, 77 et 95 Est: Diaconesses Croix Saint-Simon, Tenon, Clinique de l'Estrée
-
-*Merci de m'aider à compléter cette liste*
 
 {{% /collapse %}}
 {{%collapse "FMC gratuites" %}}
@@ -327,6 +344,7 @@ graph TB
 
 {{< card-link-external title="Endométriose : l'affaire de tous" url="https://endometriose-affairedetous.com" subtitle="CNGOF, ARS IDF, PNS-MOOC">}}
 
+- [ACOG. Diagnosis of Endometriosis. 2026.](https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2026/03/diagnosis-of-endometriosis)
 - [SIFEM, SFR, CNGOF. Actualisation de la place des différents examens d'imagerie pour le diagnostic d'endométriose. 2025.](https://www.has-sante.fr/jcms/p_3524940/fr/label-prise-en-charge-de-l-endometriose-actualisation-de-la-place-des-examens-d-imagerie-et-fiches-pratiques-en-echographie-et-irm-note-de-cadrage)
 - Prescrire Redaction. Douleurs liées à une endométriose pelvienne. Premiers Choix Prescrire. Rev Prescrire. 2025.
 - [NICE. Endometriosis: diagnosis and management. NICE guideline. 2024.](https://www.nice.org.uk/guidance/ng73)
@@ -340,7 +358,6 @@ graph TB
 
 ### Bibliographie en attente
 
-- [ACOG. Diagnosis of Endometriosis. 2026.](https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2026/03/diagnosis-of-endometriosis)
 - [Fritel X, et al. Douleurs pelviennes associées à l'Endométriose, conseils pour la pratique clinique. Un consensus formalisé d'experts par le CNGOF & Convergences PP. Gynécologie Obstétrique Fertilité & Sénologie. 2025.](https://www.sciencedirect.com/science/article/abs/pii/S2468718925001527) (payant)
 - [Becker C, et al, ESHRE Endometriosis Guideline Group. ESHRE guideline: endometriosis. Human Reproduction Open. 2022.](https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Endometriosis-guideline)
 
