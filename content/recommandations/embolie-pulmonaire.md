@@ -7,10 +7,10 @@ description = "Recommandations pour le diagnostic et la prise en charge d'une su
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-03-18T20:16:00+02:00"
 publishdate = "2021-04-02"
-lastmod = "2025-12-29"
+lastmod = "2026-10-09"
 specialites = ["cardiologie"]
-annees = "2019"
-sources = ["ESC", "ERS"]
+annees = "2026"
+sources = ["AHA", "ESC"]
 tags = ["anticoagulant", "dyspnée", "MVTE"]
 english = ["Pulmonary embolism"]
 sctid = "59282003"
@@ -18,7 +18,7 @@ icd10 = []
 image = true
 imageSrc = "Embolie pulmonaire à l'angioscanner thoracique. Embole non occlusif recouvrant la bifurcation de l'artère pulmonaire. Cas de Jeremy Jones, Radiopaedia.org, rID: 6120"
 flowchart = true
-todo = "Figure 11, p.21, flowchart duree, def cancer actif | HNF"
+todo = "vérif Clinique > Facteurs de risque d'embolie pulmonaire"
 +++
 
 {{%article-summary%}}
@@ -42,7 +42,21 @@ Embolie pulmonaire
 : Les complications sont le choc cardiogénique avec risque de décès, la récidive et l'hypertension artérielle pulmonaire chronique post-embolique.
 : L'incidence est estimée à 39-115 / 100.000 cas annuels (1,4 - 4,9 chez l'enfant). Elle cause 35.000 hospitalisations annuelles avec une mortalité hospitalière de 5 %. Les évènements thromboemboliques veineux sont 8 fois plus fréquents après 80 ans.
 
+### Pour en savoir plus : nouvelle classification de l'EP aiguë
+
+| Catégorie | Description |
+| --- | --- |
+| A | Sous-clinique - embolie pulmonaire fortuite et asymptomatique |
+| B | EP symptomatique avec faible score de gravité clinique (ex. PESI I-II, sPESI 0, Hestia 0) |
+| C | EP symptomatique avec score de gravité clinique élevé (ex. PESI III-V, sPESI ≥ 1, Hestia ≥ 1) |
+| D | Insuffisance cardiopulmonaire naissante (ex. choc normotensif) |
+| E | Insuffisance cardiopulmonaire |
+{caption="Catégories cliniques de l'embolie pulmonaire aiguë selon AHA/ACC 2026"}
+
 ### Abréviations
+
+AHA
+: {{%lang%}}American Heart Association{{%/lang%}}
 
 AOD
 : anticoagulant oral direct
@@ -50,11 +64,11 @@ AOD
 AVK
 : anti-vitamine K
 
+DFG
+: débit de filtration glomérulaire (mL/min/1,73 m²)
+
 EP
 : embolie pulmonaire
-
-ERS
-: {{%lang%}}European Respiratory Society{{%/lang%}}
 
 ESC
 : {{%lang%}}European Society of Cardiology{{%/lang%}}
@@ -65,8 +79,8 @@ HPN
 MICI
 : maladies inflammatoires chroniques intestinales
 
-MVTE (ou MTEV ou ETEV)
-: maladie veineuse thromboembolique (ou maladie thromboembolique veineuse)
+MVTE
+: maladie veineuse thromboembolique (ou maladie thromboembolique veineuse MTEV)
 
 SAPL
 : syndrome des anticorps anti-phospholipides
@@ -82,34 +96,16 @@ TVP
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Signes de gravité" %}}
-
-{{%warning%}}
-
-### Signes de gravité d'une embolie pulmonaire
-
-Appel immédiat du SAMU (Centre {{<phone>}}15{{</phone>}}) en présence d'au moins un signe parmi:
-
-- Hypotension artérielle (< 90 mmHg)
-- État de choc
-- Détresse respiratoire
-{{%/warning%}}
-
-La suspicion d'embolie pulmonaire nécessite l'appel du SAMU.
-
-{{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
 
-### Diagnostic différentiel de l'embolie pulmonaire
-
-Autres causes de douleurs thoraciques:
+Autres causes de **douleurs thoraciques**:
 
 - [Infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}})
 - [Péricardite aiguë]({{% relref "pericardite-aigue.md" %}})
 - Dissection aortique
 - [Pneumothorax]({{% relref "pneumothorax.md" %}})
 
-Autres causes de dyspnée aiguë:
+Autres causes de **dyspnée aiguë**:
 
 - Œdème aigu du poumon (OAP)
 - [Exacerbation d'asthme]({{% relref "asthme.md" %}})
@@ -118,6 +114,9 @@ Autres causes de dyspnée aiguë:
 
 {{% /collapse %}}
 {{%collapse "Clinique et probabilité pré-test" %}}
+
+> [!WARNING]
+> Appel immédiat du SAMU en présence d'au moins un signe parmi: hypotension artérielle (< 90 mmHg), état de choc, détresse respiratoire.
 
 Pour le [calcul du score de Wells / Genève](#probabilité-pré-test-dembolie-pulmonaire), voir plus bas.
 
@@ -135,33 +134,40 @@ L'embolie pulmonaire peut être **asymptomatique** et donc de découverte fortui
   - **Facteurs de risque modérés** (RR 2-9):  
     Arthroscopie du genou, maladie auto-immune, transfusion sanguine, KTC, cathéter intraveineux, chimiothérapie, insuffisance cardiaque ou respiratoire, EPO, stimulation pour FIV, contraception orale combinée, post-partum, infection, MICI, cancer, AVC ischémique paralysant, thrombose veineuse superficielle, thrombophilie.
   - **Facteurs de risque faible** (RR < 2):  
-    Alitement > 3 jours, diabète, hypertension artérielle, immobilisation (ex. voyage), cœlioscopie, obésité, grossesse, varices.
+    Alitement ambulatoire > 3 jours, diabète, hypertension artérielle, immobilisation (ex. voyage), cœlioscopie, obésité, grossesse, varices.
   - Aucun facteur prédisposant pour 40 % des cas
 - Traitements en cours
-- Symptômes d'embolie pulmonaire:
+- **Signes et symptômes d'embolie pulmonaire:**
   - **Dyspnée** brutale (ou aggravation d'une dyspnée en cas de maladie respiratoire)
-  - **Douleur thoracique**, typiquement pleurale (point de côté brutal), ou atypique
-  - **Malaise**, **syncope** (rare)
+  - **Douleur thoracique**, typiquement **pleurale** (point de côté brutal), ou atypique
+  - Malaise, syncope (rare)
   - Crachats hémoptoïques, hémoptysie
   - Autres signes: tachycardie, anxiété
+  - **Signes de gravité:** hypotension artérielle (< 90 mmHg), état de choc, détresse respiratoire
 
 ### Examen clinique
 
 - Pression artérielle répétée, fréquence cardiaque (tachycardie)
-- SpO~2~
-- Auscultation cardiorespiratoire
+- Fréquence respiratoire, SpO₂
+- Auscultation cardiorespiratoire  
+  Signes d'embolie pulmonaire: diminution des bruits respiratoires, frottement pleural, éclat du B2 pulmonaire.
 - Signes d'insuffisance cardiaque droite:  
   {{< clinique/insuffisance-cardiaque-droite >}}.
-- Palpation des membres inférieurs
+- Recherche de thrombose veineuse profonde (TVP)
 - Si disponible: ECG 12 dérivations
 
-> [!INFO]
-> Signes de l'embolie pulmonaire à l'électrocardiogramme: tachycardie sinusale (40 %), surcharge droite avec inversion des ondes T de V1 à V4 et aspect S1Q3T2, aspect QR en V1, bloc de branche droit, arythmie supraventriculaire.
+### Signes de l'embolie pulmonaire à l'électrocardiogramme (ECG)
+
+- Tachycardie sinusale (40 %)
+- Surcharge droite avec inversion des ondes T de V1 à V4 et aspect S1Q3T2
+- Aspect QR en V1
+- Bloc de branche droit
+- Arythmie supraventriculaire
 
 ### Probabilité pré-test d'embolie pulmonaire
 
-+50 ans, grossesse ou post-partum = *Urgences* car un bilan est systématique.
-{.alert .alert-warning}
+> [!WARNING]
+> +50 ans, grossesse ou post-partum = *Urgences* car un bilan est systématique.
 
 Sauf critères de gravité ou profil cité ci-dessus, utiliser l'un de ces scores validés pour déterminer la probabilité clinique d'embolie pulmonaire (dite probabilité pré-test).
 
@@ -171,13 +177,13 @@ Sauf critères de gravité ou profil cité ci-dessus, utiliser l'un de ces score
 {{%collapse "Éliminer une embolie pulmonaire - Règle PERC" %}}
 
 > [!INFO]
-> La **règle PERC** permet d'éliminer une **suspicion faible d'embolie pulmonaire aiguë avant 50 ans, en-dehors de la grossesse et du post-partum** (l'hémodynamique doit être stable).
+> La **règle PERC** permet d'éliminer une **suspicion faible** d'embolie pulmonaire aiguë avant 50 ans, en-dehors de la grossesse et du post-partum (l'hémodynamique doit être stable).
 
-La réponse aux 8 questions suivantes doit être négative pour infirmer une *suspicion faible* d'embolie pulmonaire:
+La réponse aux 8 questions suivantes doit être négative pour infirmer une **suspicion faible** d'embolie pulmonaire:
 
 1. Âge ≥ 50 ans ?
 2. Fréquence cardiaque ≥ 100/min ?
-3. SpO~2~ < 95 % ?
+3. SpO₂ < 95 % ?
 4. Hémoptysie ?
 5. Œdème unilatéral d'un membre inférieur ?
 6. Traitement œstrogénique ?
@@ -190,22 +196,30 @@ La réponse aux 8 questions suivantes doit être négative pour infirmer une *su
 {{%collapse "Examens complémentaires" %}}
 
 > [!WARNING]
-> Toute suspicion d'embolie pulmonaire doit être explorée aux urgences (sauf probabilité faible infirmée par la règle PERC).
+> Toute suspicion d'embolie pulmonaire doit être explorée aux urgences (sauf probabilité faible infirmée par la [règle PERC](#éliminer-une-embolie-pulmonaire---règle-perc)).
 
 {{%info%}}
 Si réception de D-dimères pour suspicion d'EP au cabinet:
 
-- Le diagnostic d'EP est infirmé quand les D-dimères sont négatifs
-- Le seuil de positivité des D-dimères est habituellement de 500 µg/L. À partir de 50 ans, il est ajusté avec le calcul âge x 10 µg/L
+- Le diagnostic d'EP est infirmé:
+  - quand les D-dimères sont négatifs (ajustés sur l'âge)
+  - quand les D-dimères sont couplés à l'[algorithme YEARS]({{% relref "years.md" %}}) négatif
 - Adresser aux urgences en cas D-dimères positifs pour angioscanner thoracique
 {{%/info%}}
 
 ### D-dimères
 
-Indications au d-dimères pour une suspicion d'embolie pulmonaire:
+> [!INFO]
+> Le seuil de positivité des D-dimères est habituellement de 500 µg/L. À partir de 50 ans, il est ajusté avec le calcul âge x 10 µg/L.
+
+Indications au d-dimères pour une suspicion d'embolie pulmonaire (sauf patient anticoagulé):
 
 - Probabilité pré-test faible non écartée par la règle PERC
 - Probabilité pré-test intermédiaire
+
+> **NB.** Le bilan doit être réalisé aux Urgences.
+
+Dans ces 2 indications, des d-dimères normaux (pour l'âge ou ajustés avec [l'algorithme YEARS]({{% relref "years.md" %}}) infirment le diagnostic d'embolie pulmonaire. Récemment, l'exploration par les d-dimères s'est aussi montrée **valable au cours de la grossesse** (toujours avec [YEARS] -- *AHA 2026*).
 
 Une **radiographie thoracique** peut être utile aux Urgences dans le cadre du bilan de douleur thoracique et/ou dyspnée.
 
@@ -216,14 +230,14 @@ Une **radiographie thoracique** peut être utile aux Urgences dans le cadre du b
 
 ### Angioscanner pulmonaire
 
-Indications à l'angioscanner thoracique:
+Indications à l'**angioscanner thoracique**:
 
 - D-dimères augmentés  
-  En prenant en compte l'adaptation de l'âge après 50 ans.
-- Probabilité pré-test forte
+  En prenant en compte l'adaptation de l'âge après 50 ans ou score YEARS positif.
+- Probabilité pré-test forte (Wells, Genève ...)
 - Suspicion d'[hypertension artérielle pulmonaire thromboembolique]({{% relref "hypertension-arterielle-pulmonaire.md" %}})
 
-> L'angioscanner est possible pendant la grossesse: << S'il est non contributif, le scanner comme la scintigraphie peuvent être utilisés sans risque pour le fœtus. >> -- *CNEC 2022*
+> L'angioscanner faible dose est possible pendant la grossesse: << S'il est non contributif, le scanner comme la scintigraphie peuvent être utilisés sans risque pour le fœtus. >> -- *CNEC 2022*
 
 La **scintigraphie pulmonaire** de ventilation-perfusion est indiquée en cas de contre-indication à l'angioscanner.
 
@@ -235,26 +249,28 @@ La **scintigraphie pulmonaire** de ventilation-perfusion est indiquée en cas de
 > [!WARNING]
 > Toute suspicion d'embolie pulmonaire doit être explorée aux Urgences (sauf probabilité pré-test faible infirmée par la règle PERC). **Anticoagulation immédiate** en cas de probabilité pré-test **intermédiaire** (si résultats attendus en +4 heures) ou **élevée**.
 
-En cas de suspicion d'embolie pulmonaire au cabinet: appel du SAMU, installer semi-assis, empêchez-le de bouger (pour éviter une migration du caillot -- *Ameli*).
+En cas de suspicion d'embolie pulmonaire au cabinet: appeler le SAMU, installer le patient semi-assis et l'empêcher de de bouger (pour éviter une migration du caillot -- *Ameli*).
 
-### Critères de prise en charge ambulatoire post-hospitalière de l'embolie pulmonaire
+### Critères de prise en charge ambulatoire post-urgences de l'embolie pulmonaire
 
-La prise en charge ambulatoire de l'embolie pulmonaire est possible après l'exploration aux **Urgences**. Le patient doit être stable et avec une réponse négative aux 11 **[critères Hestia](https://www.jthjournal.org/article/S1538-7836(22)07043-X/fulltext)** (dite *EP à faible risque de mortalité précoce*, autres critères possibles *PESI* ou *sPESI*):
+La prise en charge **ambulatoire** de l'embolie pulmonaire est possible **après l'exploration aux Urgences**. Le patient doit être stable et avec une réponse négative aux 11 **[critères Hestia](https://www.jthjournal.org/article/S1538-7836(22)07043-X/fulltext)** (dite *EP à faible risque de mortalité précoce*):
 
-1. Instabilité hémodynamique  
+1. Instabilité hémodynamique ?  
   Avis du clinicien, PAS < 100 mmHg et FC > 100/min.
-2. Thrombolyse ou embolectomie nécessaire
-3. Hémorragie active ou risque élevé d'hémorragie  
-  Hémorragie digestive dans les 14j précédents, AVC < 4 semaines, chirurgie < 2 semaines, pathologie hémorragique, thrombopénie < 75.000, HTA > 180 et/ou 110 mmHg.
-4. Besoin de > 24h d'oxygénothérapie pour SpO~2~ > 90%
-5. Diagnostic posé sous anticoagulant curatif
-6. Douleur intense nécessitant antalgie IV > 24h
-7. Clairance selon {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 30 mL/min
-8. Insuffisance hépatique sévère
-9. Grossesse
-10. Antécédent documenté de TIH  
+2. Thrombolyse ou embolectomie nécessaire ?
+3. Hémorragie active ou risque élevé d'hémorragie ?  
+  Hémorragie digestive dans les 14 jours précédents, AVC < 4 semaines, chirurgie < 2 semaines, pathologie hémorragique, thrombopénie < 75.000, HTA > 180 et/ou 110 mmHg.
+4. Besoin de > 24h d'oxygénothérapie pour SpO₂ > 90% ?
+5. Diagnostic posé sous anticoagulation curative ?
+6. Douleur intense nécessitant une antalgie IV > 24h ?
+7. Raison médicale ou sociale pour hospitalisation > 24 heures ?
+8. Clairance selon {{< modal-btn modal-score-cockroft >}}Cockroft{{< /modal-btn >}} < 30 mL/min ?
+9. Insuffisance hépatique sévère ?
+10. Grossesse ?
+11. Antécédent documenté de TIH ?  
   Non pertinent si traitement possible par AOD.
-11. Raison médicale ou sociale pour hospitalisation > 24 heures
+
+> Autres scores possibles: *[PESI]({{% relref "pesi.md" %}})* ou *sPESI* (*AHA/ACC 2026*). Traitement ambulatoire possible pour les Catégories de l'EP AHA/ACC **A et B**
 
 ### Anticoagulation curative de l'embolie pulmonaire
 
@@ -264,31 +280,53 @@ Sur avis du SAMU, l'anticoagulation doit être débutée **dès la suspicion** c
 - Probabilité pré-test intermédiaire et délai pour les résultats supérieur à 4 heures
 - Probabilité pré-test faible et délai pour les résultats supérieur à 24 heures
 
-TODO: fondaparinux ou enoxaparine.
+> -- *SFMV 2020*, *AHA/ACC 2026* (qui dit: << il est raisonnable d'anticoaguler ...>>)
 
-#### Anticoagulants
+Sur avis du SAMU, utiliser le fondaparinux (selon le poids) ou l'énoxaparine (100 UI/kg) en sous-cutané, surlignés plus bas.
 
-La clairance de la créatinine doit être connue.
+#### Anticoagulation à la sortie de l'hôpital
+
+Les **AOD** sont la référence pour le traitement anticoagulant de l'embolie pulmonaire.
 
 - **Anticoagulant oral direct (AOD):**
   - Indication: embolie pulmonaire avérée
-  - **Apixaban** ([Eliquis®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69340279/extrait#tab-rcp-et-notice), préférence de *Prescrire*)  
-    10 mg x 2/j pendant 7 jours, puis 5 mg x 2/j pendant 3 mois | 2,5 mg x 2/j après 6 mois.
-  - Dabigatran
+  - Peut être considéré en cas de cancer du cerveau (primaire ou métastases)
+  - **Apixaban** ([Eliquis®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69340279/extrait#tab-rcp-et-notice), préférence de *Prescrire* et du *CBIP*)  
+    10 mg x 2/j pendant 7 jours, puis 5 mg x 2/j pendant 3 mois | 2,5 mg x 2/j après 6 mois.  
+    Sans adaptation jusqu'à 15 de DFG (*ESC 2026 CKD*).
   - [Rivaroxaban](https://base-donnees-publique.medicaments.gouv.fr/medicament/67336111/extrait#tab-rcp): alternative aux HBPM en cas de **cancer** (sauf gastro-intestinal)  
     15 mg x 2/j pendant 3 semaines puis 20 mg x 1/j pour 3 mois | 10 mg/j après 6 mois en l'absence de cancer.
+  - Dabigatran
+
+##### Anticoagulation des terrains particuliers
+
+- Grossesse: fondaparinux/HBPM
+- Allaitement: fondaparinux/HBPM, warfarine
+- Cancer
+  - cérébral: AOD peut être considéré
+  - digestif ou autre: fondaparinux/HBPM
+- Insuffisance rénale sévère: HNF voire AOD
+- Insuffisance hépatique:
+  - {{< modal-btn modal-score-child >}}Child-Pugh B{{< /modal-btn >}}: AOD pourrait être raisonnable
+  - Child-Pugh C: AVK
+
+##### Autres anticoagulants de l'embolie pulmonaire
+
 - **Fondaparinux ou héparines HBPM sous-cutanées**
   - Indications: **grossesse** (HBPM au poids pré-grossesse), **cancer** (gastro-intestinal ++), probabilité pré-test élevée, intermédiaire (si délai > 4h) ou faible (si délai > 24h)
-  - [Enoxaparine](https://base-donnees-publique.medicaments.gouv.fr/medicament/61679306/extrait#tab-rcp): 100 UI/kg/12h ou 150 UI/kg x 1/j
+  - ==[Enoxaparine](https://base-donnees-publique.medicaments.gouv.fr/medicament/61679306/extrait#tab-rcp)==: 100 UI/kg/12h ou 150 UI/kg x 1/j
   - Tinzaparine ([Innohep®](https://base-donnees-publique.medicaments.gouv.fr/medicament/67167017/extrait#tab-rcp)): 175 U/kg x 1/j
-  - Fondaparinux ([Arixtra®](https://www.ema.europa.eu/fr/documents/product-information/arixtra-epar-product-information_fr.pdf) 🌍): 5 mg x 1/j (< 50 kg), 7,5 mg x 1/j (50-100 kg), 10 mg x 1/j (> 100 kg)
+  - ==Fondaparinux== ([Arixtra®](https://www.ema.europa.eu/fr/documents/product-information/arixtra-epar-product-information_fr.pdf) 🌍): 5 mg x 1/j (< 50 kg), 7,5 mg x 1/j (50-100 kg), 10 mg x 1/j (> 100 kg)
+  - Adaptation des doses: obésité morbide ou +150 kg (réduction et/ou suivi anti-Xa)
+  - En cas de suivi de l'anti-Xa: dosage 3-5 heures après au moins 3 injections (*AHA/ACC 2026*)
   - Indications au suivi des **plaquettes**: administration préalable d'HNF, nouvel épisode thromboembolique artériel/veineux, lésion cutanée douloureuse au point d'injection
 - [Héparine non fractionnée](https://base-donnees-publique.medicaments.gouv.fr/medicament/60852495/extrait#tab-rcp) (HNF)
-  - Indication: insuffisance rénale sévère, instabilité hémodynamique, obésité sévère
+  - Indication: insuffisance rénale ou hépatique sévère, instabilité hémodynamique, obésité sévère
   - 500 UI/kg/j en 2-3 injections SC
   - Adaptation au TCA à mi chemin entre les 2 injections, surveillance des plaquettes x 2/semaine pendant 21 jours
 - Antivitamine K (AVK) en relais (≥ 5 jours d'anticoagulant)
-  - Indication: SAPL (à vie)
+  - Indication: SAPL (à vie)  
+    Si 1 seul anticorps anticardiolipine ou anti-β2gp1, un AOD pourrait être une alternative raisonnable à l'AVK (*AHA/ACC 2026*).
   - Warfarine pour INR cible 2,5 (2 - 3): débuter à 10 mg/j (≤ 5 mg/j si +60 ans)
   - Mesures de prise en charge sous [AVK]({{% relref "avk.md" %}}): INR, éducation du patient, carnet de suivi
 
@@ -297,11 +335,45 @@ La clairance de la créatinine doit être connue.
 Si un **filtre cave** est posé temporairement (indiqué en cas d'hémorragie ou de risque hémorragique majeur), le retrait doit être programmé dès la reprise de l'anticoagulation curative.
 
 {{% /collapse %}}
-{{%collapse "Embolie pulmonaire provoquée ou spontanée ?" %}}
+{{%collapse "Suivi" %}}
 
 > [!INFO]
-> Pour toute survenue d'embolie pulmonaire, il faut rechercher la présence de {{< modal-btn modal-mvte-fdr >}}facteurs de risque clinique{{< /modal-btn >}} de maladie thromboembolique veineuse (MVTE). La MVTE est dite **non provoquée** en l'absence de facteur de risque clinique majeur.
+> L'anticoagulation initiale de l'embolie pulmonaire dure 3 à 6 mois, temps consacré à réaliser le bilan étiologique (voir section suivante).
+
+Une consultation de suivi est systématique **dans la semaine** qui suit la sortie de l'hôpital (éléments ci-dessous, sans encore aborder le bilan étiologique).
+
+D'**autres consultations** de suivi sont nécessaires à au moins **3, 6 et 12** mois pour réévaluer:
+
+- Efficacité et tolérance du traitement, saignements
+- TVP proximale associée: chaussettes de contention classe 3 pendant au moins 6 mois
+- Arrêt du tabac, activité physique
+- Biologie  
+  Créatinine, ionogramme sanguin, bilan hépatique.
+- Observance
+- Adéquation du traitement  
+  {{< modal-btn modal-vte-bleed >}}Risque hémorragique{{< /modal-btn >}}, posologie.
+- Bilan étiologique (voir section suivante)  
+  Indication à la recherche de cancer, thrombophilie, SAPL.
+- Argumenter la poursuite ou l'arrêt des anticoagulants (après les 3-6 premiers mois)
+- Rechercher une **dyspnée d'effort** ({{< modal-btn score-nyha >}}score NYHA{{< /modal-btn >}}, {{< modal-btn score-mmrc >}}score mMRC{{< /modal-btn >}})
+- Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
+- En cas de vol long courrier (≥ 4 h): [bas ou chaussettes classe 2 et HBPM]({{% relref "voyage.md" %}}#prévention-des-thromboses-veineuses-profondes) (*HCSP 2026*)
+  - Contre-indication pendant ≥ 4 semaines en cas d'EP classe ≥ C2
+- En cas de survenue pendant la **grossesse**: HBPM et suivi spécialisé pour les futures grossesses
+
+**Suivi spécialisé** (cardiologue ou médecin vasculaire) en cas de terrain particulier (cancer, comorbidité complexe), de symptômes persistants (dyspnée à 3 mois) ou récidivants, d'anticoagulation compliquée.
+
+> [!WARNING]
+> La contraception œstroprogestative est contre-indiquée après un accident thrombo-embolique (EP, TVP) et détermine une contre-indication familiale au 1^er^ degré (*CNGOF 2018*).
+
+{{% /collapse %}}
+{{%collapse "Étiologie et durée du traitement" %}}
+
+> [!INFO]
+> Pour toute embolie pulmonaire, il faut rechercher la présence de {{< modal-btn modal-mvte-fdr >}}facteurs de risque clinique{{< /modal-btn >}} de maladie thromboembolique veineuse (MVTE). La MVTE est dite **non provoquée** en l'absence de facteur de risque clinique majeur.
 {.alert .alert-info}
+
+La présence de situation à risque de récidive (cancer, SAPL, déficit en antithrombine, protéine C et protéine S) nécessite un suivi spécialisé pour déterminer.
 
 ### Bilan étiologique
 
@@ -315,13 +387,13 @@ Si un **filtre cave** est posé temporairement (indiqué en cas d'hémorragie ou
 - Dépistages des cancers à jour, répéter si ancienneté > 1 an
 - Radio de thorax (en l'absence d'angioscanner thoracique)
 - NFS, ionogramme, calcémie
-- < 50 ans: rechercher un *SAPL*
-- < 50 ans et antécédent familial de thrombose: rechercher une thrombophilie constitutionnelle
+- < 50 ans: rechercher un SAPL
+- < 55 ans ou antécédent familial de thrombose: rechercher une thrombophilie (*AHA/ACC 2026*)
 - Répéter à 6 mois ce bilan
 
 #### Récidive de MVTE
 
-- Rechercher un *SAPL*
+- Rechercher un SAPL
 - < 50 ans: rechercher une thrombophilie constitutionnelle
 
 #### Récidive de MVTE sous anticoagulant bien conduit
@@ -335,92 +407,67 @@ Si un **filtre cave** est posé temporairement (indiqué en cas d'hémorragie ou
 Si indiqué, le bilan de thrombophilie est réalisé à 3-6 mois comporte:
 
 - Déficit en antithrombine, protéine C et protéine S
-- Mutations Leiden du facteur V
+- Mutations Leiden du Facteur V
 - Mutation G20210A du Facteur II
 {{%/info%}}
 
-{{% /collapse %}}
-{{%collapse "Suivi de l'embolie pulmonaire" %}}
+### Durée de l'anticoagulation d'une embolie pulmonaire
 
-Consultation de suivi dans les 30 jours de la sortie:
+Les recommandations pour la durée de l'anticoagulation dépendent de la présence de {{< modal-btn clinique-mvte-facteur-risque-traitement >}}facteurs de risque de récidive thromboembolique{{< /modal-btn >}}.
 
-- Efficacité et tolérance du traitement
-- Biologie  
-  Créatinine, ionogramme sanguin, bilan hépatique.
-- Observance
-- Adéquation du traitement  
-  {{< modal-btn modal-vte-bleed >}}risque hémorragique{{< /modal-btn >}}, posologie
-- Bilan étiologique  
-  Indication à la recherche de cancer, thrombophilie, SAPL.
-- Rechercher une dyspnée d'effort ({{< modal-btn score-nyha >}}score NYHA{{< /modal-btn >}}, {{< modal-btn score-mmrc >}}score mMRC{{< /modal-btn >}})  
-  Adresser au cardiologue en cas de persistance.
+L'anticoagulation de l'embolie pulmonaire **dure au moins 3 voire 6 mois** (voire illimitée):
 
-Consultation de suivi à 3 et 6 mois:
+- **1^re^ EP non provoquée** (absence de {{< modal-btn modal-mvte-fdr >}}facteur de risque{{< /modal-btn >}}): bénéfice de **prolonger** au-delà de la phase initiale de 3-6 mois
+- **1^re^ EP provoquée** par un {{< modal-btn modal-mvte-fdr >}}facteur de risque majeur transitoire{{< /modal-btn >}}: arrêt à 3 à 6 mois recommandé
+- **1^re^ EP provoquée** par un {{< modal-btn modal-mvte-fdr >}}facteur de risque persistant{{< /modal-btn >}}: il est raisonnable de **prolonger** au-delà de la phase initiale de 3-6 mois
+- **1^re^ EP provoquée** par un {{< modal-btn modal-mvte-fdr >}}facteur de risque mineur transitoire{{< /modal-btn >}}: discussion partagée d'arrêt à 3-6 mois ou de prolongation
+- En cas de prolongation du traitement:
+  - par un AOD: diviser par deux la dose d'apixaban/rivaroxaban
+  - pour cancer: utiliser un AOD ou une HBPM
+  - sans cancer et contre-indication aux AOD: utiliser un AVK
+- En cas d'indication à la prolongation du traitement mais contre-indication ou refus: il est raisonnable d'utiliser l'aspirine faible dose
+- SAPL: warfarine à vie
 
-- Efficacité et tolérance du traitement
-- Synthèse du bilan étiologique
-- Argumenter la poursuite ou l'arrêt des anticoagulants
-- TVP proximale associée: chaussettes de contention classe 3 au moins 6 mois
-- Arrêt du tabac, activité physique
-
-Grossesse: HBPM pour les futures grossesse
-
-contraception oestroprogestative: CI aux oestrogènes
-
-#### Durée de l'anticoagulation d'une embolie pulmonaire
-
-La durée de l'anticoagulation dépend de la présence de {{< modal-btn clinique-mvte-facteur-risque-traitement >}}facteurs de risque de récidive thromboembolique{{< /modal-btn >}}.
-
-L'anticoagulation de l'embolie pulmonaire **dure au moins 3 voire 6 mois** (voire pour une durée illimitée):
-
-- 1^re^ EP provoquée par un {{< modal-btn modal-mvte-fdr >}}facteur transitoire majeur{{< /modal-btn >}}: 3 mois (6 mois maximum)
-- 1^re^ EP non provoquée, en l'absence de {{< modal-btn modal-mvte-fdr >}}facteur facteur majeur persistant{{< /modal-btn >}} avec ≥ 1 parmi:
-  - Femme avec {{< modal-btn modal-score-herdoo2 >}}règle HERDOO2{{< /modal-btn >}} ≤ 1
-  - Femme < 50 ans
-  - {{< modal-btn modal-vte-bleed >}}Risque hémorragique élevé{{< /modal-btn >}}
-  - Persistance d'un facteur de risque mineur transitoire
-  - Alors durée de 3 à 6 mois maximum.
-- 1^re^ EP non provoquée, en l'absence de {{< modal-btn modal-mvte-fdr >}}facteur majeur persistant{{< /modal-btn >}} avec ≥ 1 parmi:
-  - Thrombophilie majeure identifiée (voir *facteurs de risque plus haut*)
-  - EP à haut risque
-  - Alors durée non limitée (selon risque hémorragique)
-- Cancer: jusqu'à la guérison
-- SAPL: à vie
-- Grossesse: ≥ 3 mois et ≥ 6 semaines post-partum
+> -- *AHA/ACC 2026*
 
 Demander une **téléexpertise** au moindre doute sur la durée d'anticoagulation requise.
+
+> [!INFO]
+> Le risque de récidive à 10 ans est élevé (30 à 40 %) en cas d'épisode thromboembolique veineux sans facteur de risque.
 
 {{% /collapse %}}
 {{%collapse "Prise en charge de l'embolie pulmonaire" "show" %}}
 
-{{< mermaid title="Prise en charge d'une suspicion d'embolie pulmonaire en ville. Dr JB Fron d'après ESC/ERS 2019, Ameli" >}}
+{{< mermaid title="Prise en charge d'une suspicion d'embolie pulmonaire en ville. Dr JB Fron d'après AHA/ACC 2026, SFMV, ESC/ERS 2019" >}}
 graph TB
-  ep[Suspicion d'embolie<br>pulmonaire] --> gravité("Signes de gravité ?<br>- Hypotension<br>- Choc<br>- Détresse respiratoire")
-    gravité -- Non --> probaClin("<b>Probabilité pré-test</b><br>Score de Wells ou Genève")
+  ep[Suspicion d'embolie<br>pulmonaire] --> gravité("<b>Signes de gravité ?</b><br>- Hypotension<br>- Choc<br>- Détresse respiratoire")
+    gravité -- Non --> probaClin("<b>Probabilité pré-test</b><br>Score de Wells ou<br>Genève révisé")
       probaClin --> faible(Faible) --> age("Âge &lt; 50 ans et<br>pas de grossesse/post-partum ?")
         age -- Oui --> perc(Règle PERC)
-          perc -- Remplie --> inval("- EP invalidée<br>- Étayer autre diagnostic") -. "Suspicion SCA<br>ou autre urgence" .-> SAMU
+          perc -- Remplie --> inval("- EP invalidée<br>- Étayer un<br>autre diagnostic") -. "Suspicion SCA<br>ou autre urgence" .-> SAMU
           perc -- "En défaut" --> SAMU
         age -- Non --> SAMU
-      probaClin --> Intermédiaire(Intermédiaire<br>ou élevée) -- "Proposition" --> SAMU
-    gravité -- Oui --> SAMU("- Appeler le SAMU<br>- Semi-assis<br>- Ne pas bouger<br>- Sur avis SAMU:<br>HBPM si proba élevée<br>ou intermédiaire avec<br>résultats +4h")
+      probaClin --> Intermédiaire(Intermédiaire<br>ou élevée) --> SAMU
+    gravité -- Oui --> SAMU("- Appeler le SAMU<br>- Semi-assis<br>- Ne pas bouger<br>- Sur avis SAMU:<br>HBPM si proba élevée<br>ou intermédiaire avec<br>résultats attendus &gt; 4h") -- "Post-Urgences" --> ambulatoire(Traitement ambulatoire<br>- AOD pendant au moins<br>3-6 mois<br>- Surveillance<br>- Bilan étiologique)
     style ep stroke:#4150f5, stroke-width:1px
 {{< /mermaid >}}
 
 {{% /collapse %}}
 {{%sources%}}
 
+- [Damman K, et al. 2026 ESC Guidelines for the management of cardiovascular disease and chronic kidney disease, in collaboration with the European Renal Association (ERA). Eur Heart J. 2026.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag098/8766283)
+- [Writing Committee Members*, Creager MA, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2026.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001415)
+- {{< references/voyageur >}}
 - [CBIP. L'apixaban plus sûr que le rivaroxaban ?. Folia Pharmacotherapeutica. 2026.](https://www.cbip.be/fr/articles/4839?folia=4848)
 - [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Thrombose veineuse profonde et embolie pulmonaire. Item 226. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
+- [SFMV, GFHT. La place du dosage des d-dimères en médecine. Communiqué. 2021.](https://www.innovte-thrombosisnetwork.eu/sites/innovte/files/brique/fichier/02-2024/Com_dosage%20des%20d-dimeres%20en%20VF.pdf)
 - [Konstantinides SV, et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC). Eur Respir J. 2019.](https://erj.ersjournals.com/content/54/3/1901647) + supp
+- [Sculier J.P. Algorithme YEARS pour éviter, sans risque majoré, l'angioTDM dans le diagnostic initial de l'embolie pulmonaire ? Minerva. 2018.](https://minerva-ebp.be/FR/Article/2174)
 - [Ameli. Embolie pulmonaire.](https://www.ameli.fr/assure/sante/urgence/pathologies/embolie-pulmonaire)
 
 ### Bibliographie en attente
-
-- [Writing Committee Members*, Creager MA, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2026.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001415)
-- [SFMV, GFHT. La place du dosage des d-dimères en médecine. Communiqué. 2021.](https://www.innovte-thrombosisnetwork.eu/sites/innovte/files/brique/fichier/02-2024/Com_dosage%20des%20d-dimeres%20en%20VF.pdf)
+ 
 - [Sanchez O, et al. Recommandations de bonne pratique pour la prise en charge de la maladie veineuse thromboembolique chez l'adulte. Version courte. Revue des Maladies Respiratoires. 2019.](https://www.sciencedirect.com/science/article/abs/pii/S0761842519300051) (SPLF, SFAR, SFC, SFH, GEHT, SNFMI, SFMN, SFMU, SFMV, SFPT, SFR)
-- [Wang X, et al. Oral direct thrombin inhibitors or oral factor Xa inhibitors versus conventional anticoagulants for the treatment of deep vein thrombosis. Cochrane Database Syst Rev. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010956.pub3/full)
 - [Collège des Enseignants de Pneumologie (CEP). Embolie pulmonaire et thrombose veineuse profonde. Item 226. 2023.](https://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/)
 
 {{%/sources%}}
@@ -457,5 +504,15 @@ graph TB
 {{% modal title="Risque hémorragique VTE-BLEED" id="modal-vte-bleed"%}}
 
 {{< scores/vte-bleed >}}
+
+{{% /modal %}}
+{{% modal title="Score de Child-Pugh" id="modal-score-child"%}}
+
+{{< scores/child-pugh >}}
+
+{{% /modal %}}
+{{% modal title="Questionnaire PHQ-4" id="modal-phq4"%}}
+
+{{< scores/phq4 >}}
 
 {{% /modal %}}

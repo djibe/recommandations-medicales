@@ -1,6 +1,6 @@
 +++
 title = "Score YEARS (embolie pulmonaire)"
-description = "L'algorithme YEARS est un score de référence, validé pour déterminer le bilan initial d'une suspicion d'embolie pulmonaire chez l'adulte."
+description = "L'algorithme YEARS est un score de référence, validé pour réfuter une suspicion d'embolie pulmonaire ou demander un angioscanner chez l'adulte, même pendant la grossesse."
 longHtml = true
 noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
