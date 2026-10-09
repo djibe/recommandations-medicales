@@ -219,8 +219,8 @@ Le bilan différentiel doit être systématique (voir *Examens complémentaires*
 
 ### Syndrome douloureux mammaire (SDM)
 
-Le THM entraîne la persistance des douleurs des seins associées à la ménopause.  
-Le risque de cancer du sein est augmenté en SDM modéré à intense.  
+Le THM entraîne la persistance des [douleurs des seins]({{% relref "syndrome-douloureux-mammaire.md" %}}) associées à la ménopause.  
+Le risque de cancer du sein est augmenté en cas de SDM modéré à intense.  
 Informer les patientes lors de la prescription.
 
 En SDM bilatéral en contexte de ménopause récente, il est proposé de réduire ou d'interrompre le THM.
@@ -495,7 +495,7 @@ const chartOptions1 = {
 Adaptation du traitement hormonal selon les signes estrogéniques:
 
 - Signes d'**hyper-estrogénie**: réduire les doses  
-  Mastodynies, gonflement abdominal, prise de poids, nervosité/irritabilité.
+  [Mastodynies]({{% relref "syndrome-douloureux-mammaire.md" %}}), gonflement abdominal, prise de poids, nervosité/irritabilité.
 - Signes d'**hypo-estrogénie**: augmenter les doses  
   Bouffées vasomotrices, sécheresse vaginale, troubles du sommeil, asthénie, frilosité, douleurs articulaires.
 
