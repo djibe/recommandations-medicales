@@ -136,8 +136,7 @@ Autres diagnostics à étayer devant des troubles pelviens de la femme:
 {{%collapse "Clinique" %}}
 
 > [!INFO]
-> << Il n'y a pas lieu de rechercher une endométriose en cas de dysménorrhée isolée et contrôlée par une contraception
-hormonale, sans autre symptôme douloureux ni souhait de grossesse immédiat. >> -- *HAS/CNGOF 2017*
+> << Il n'y a pas lieu de rechercher une endométriose en cas de dysménorrhée isolée et contrôlée par une contraception hormonale, sans autre symptôme douloureux ni souhait de grossesse immédiat. >> -- *HAS/CNGOF 2017*
 
 La prise en charge de l'endométriose nécessite une consultation dédiée.
 
