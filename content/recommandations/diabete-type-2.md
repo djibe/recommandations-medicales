@@ -21,20 +21,20 @@ image = true
 imageSrc = "Illustration du diabète par vectorjuice / Freepik"
 rank = "false"
 writing = "false"
-todo = "Deuxième ligne préférer SGLT2 retirer bordure bleue, SGLT2+++, statine/ezetimibe, Shingrix, projet de gs AVANT; ECG/FO en gras AMT, renommer NASH; SOMP; KDIGO vitB12 que MRC?, acanthosis nigricans signe insulinoR inidcateur tour de taille; Ajouter algo Haut risque; Mounjaro remb pour diab;  permis conduire, urgences hypergly HAS25p60; fragilité HAS25p65; alimentation HAS25p26; dysautonomie HAS25p44; pied HAS25p47 | maisons sport-santé, WATCH-DM ESC2023 src480; https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Post-IDM + diabète: simva + ezetimibe, https://professional.diabetes.org/meetings/mental-health-toolkit, indications fructosamine, https://www.ameli.fr/sites/default/files/Documents/Memo-diabete-complication-podologue.PDF | https://diabetesjournals.org/care/issue/47/Supplement_1"
+todo = "summary suivi; metformine début de grossesse et réintroduire allaitement; Deuxième ligne préférer SGLT2 retirer bordure bleue, Shingrix, projet de gs AVANT;  renommer SOMP; KDIGO vitB12 que MRC?, Ajouter algo Haut risque; permis conduire, urgences hypergly HAS25p60; fragilité HAS25p65; alimentation HAS25p26; dysautonomie HAS25p44; pied HAS25p47 | maisons sport-santé, WATCH-DM ESC2023 src480; https://assurance-maladie.ameli.fr/sites/default/files/2020-09-22-cp-signature-avenant-4-pedicures-podologues.pdf | Post-IDM + diabète: simva + ézétimibe, https://professional.diabetes.org/meetings/mental-health-toolkit, indications fructosamine, https://www.ameli.fr/sites/default/files/Documents/Memo-diabete-complication-podologue.PDF | https://diabetesjournals.org/care/issue/47/Supplement_1"
 +++
 
 {{%article-summary%}}
 
 Ce chapitre intègre les dernières recommandations SFD, HAS, ADA, ESC et ADA/EASD pour la prise en charge du diabète du type 2.
 
-- Dépister tous 3 ans un diabète en cas de facteurs de risque (1 à 2 en cas de facteurs multiples):
+- Dépister tous 3 ans le diabète en cas de facteurs de risque (1-2 ans en cas de facteurs multiples):
   - facteur de risque cardiovasculaire
   - +45 ans avec: surpoids/obésité, origines non caucasiennes, antécédent personnel de diabète gestationnel ou de macrosomie, antécédent familial de diabète au 1^er^ degré, traitement à risque (antipsychotique, corticoïde, VIH ...), hypertension artérielle, HDL bas ≤ 0,35 g/L ou triglycérides ≥ 2 g/L, précarité sociale
-  - Prédiabète (annuel), acanthosis nigricans
+  - Prédiabète (dépistage annuel), acanthosis nigricans
 - Pour chaque personne vivant avec un diabète: changement du mode de vie, définir le {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}}, sevrage tabagique obligatoire et prise en charge des points vitaux obligatoires (voir plus bas)
-- {{< modal-btn modal-hba1c >}}Cible personnalisée d'hémoglobine glyquée{{< /modal-btn >}} (globalement 7%) et {{< modal-btn modal-hba1c-faussee >}}situations où l'HbA1c n'est pas fiable{{< /modal-btn >}}
-- Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-glp1 >}}AR GLP-1{{< /modal-btn >}} (AR GLP1-GIP NR), {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}} rarement
+- {{< modal-btn modal-hba1c >}}Cible personnalisée d'hémoglobine glyquée{{< /modal-btn >}} (globalement 7 %) ({{< modal-btn modal-hba1c-faussee >}}situations où l'HbA1c n'est pas fiable{{< /modal-btn >}})
+- Traitements du diabète: {{< modal-btn modal-metformine >}}metformine{{< /modal-btn >}}, {{< modal-btn modal-isglt2 >}}iSGLT2{{< /modal-btn >}} (oral, moins cher), {{< modal-btn modal-glp1 >}}AR GLP-1{{< /modal-btn >}} (± GIP) voire {{< modal-btn modal-idpp4 >}}iDPP4{{< /modal-btn >}}, {{< modal-btn modal-su >}}sulfamides{{< /modal-btn >}}, {{< modal-btn modal-insuline >}}insuline{{< /modal-btn >}} rarement, vaccinations
 - [Dépistage des complications du diabète](#dépistage-des-complications-du-diabète) et des comorbidités
 - Éducation thérapeutique du patient diabétique
 
@@ -113,7 +113,7 @@ SFD
   - Bithérapie faible dose (après échec des RHD pendant 3 mois si PA élevée): {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}}, titration mensuelle  
   {{%class%}}Considérer si albuminurie sans hypertension.{{%/class%}}
 - Définir le {{< modal-btn modal-rcv >}}risque cardiovasculaire{{< /modal-btn >}} (avec le {{< scores/score2-diabetes >}} en prévention primaire chez le 40-69 ans) ...
-- Afin de déterminer le LDL cible (souvent < 0,7 g/L) par {{< modal-btn modal-statine-intensite >}}statine de haute intensité{{< /modal-btn >}}
+- Afin de déterminer le LDL cible (souvent < 0,7 g/L) par {{< modal-btn modal-statine-intensite >}}statine de haute intensité{{< /modal-btn >}} (± ézétimibe)
 - Activité physique adaptée
   - Lutte contre la sédentarité: bouger 1-5 minutes chaque heure
   - **Prescrire** une activité physique adaptée d'endurance et de renforcement musculaire pendant 3 mois, renouvelable, à raison de 2 à 3 séances par semaine ([ONAPS](https://onaps.fr/boite-a-outils/sensibiliser/))
@@ -125,7 +125,7 @@ SFD
   Suivi poids et  trimestriel, perte de poids (5-15 %), {{< modal-btn modal-glp1 >}}AR GLP-1{{< /modal-btn >}} (± GIP) voire [chirurgie bariatrique]({{% relref "obesite-adulte.mdn" %}}).
 - Alimentation avec 3 repas équilibrée, {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}}
 - Vaccinations  
-  [Covid-19]({{% relref "covid-19.md" %}}) et [grippe]({{% relref "grippe.md" %}}) annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}.
+  [Covid-19]({{% relref "covid-19.md" %}}) et [grippe]({{% relref "grippe.md" %}}) annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, zona (Shingrix).
 - Dépistages recommandés
   - Dépister anxiété et [dépression]({{% relref "depression.md" %}}): {{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}
   - {{< modal-btn modal-saos-diabete >}}Apnées du sommeil{{< /modal-btn >}} {{%class%}}(65-85 %){{%/class%}}
@@ -420,7 +420,7 @@ window.addEventListener('load', () => {
 - Si obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme ou bas socio-éco: (NT-pro)BNP
 {{%/info%}}
 
-Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contrôlé).
+Autres examens **annuels** de suivi: **ECG**, **fond d'œil** (tous les 2 ans si bien contrôlé).
 
 ### Les complications et comorbidités du diabète à dépister
 
@@ -433,12 +433,12 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 | [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) | Symptômes + pouls + cutané et IPS annuels. IPS si ulcération | HAS 2025 |
 | Aspirine prev primaire | 75-100 mg/j pourrait être considéré (sauf CI)<br>75-160 mg/j envisageable si {{< modal-btn modal-rcv >}}(très) haut risque CV{{< /modal-btn >}} ou {{< modal-btn modal-coronaire-diabete >}}coronaire{{< /modal-btn >}} sans risque de saignement | ESC 2023<br>ADA 2023, ESC 2021 |
 | Aspirine prev secondaire | 75-100 mg/j si coronarien ou revascularisation<br>75-160 mg/j ± associé selon la pathologie, prolonger bi-antiagrégants si bien toléré (max 3 ans) | ESC 2023 diabetes<br>ADA 2023, ESC 2019 diabetes |
-| [Automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}}) | Trimestrielle, au mieux mensuelle si HTA | HAS 2025, ESC 2024 HTA |
+| ==[Automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}})== | Trimestrielle, au mieux mensuelle si HTA | HAS 2025, ESC 2024 HTA |
 | [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}) | Femmes à haut risque: éducation, correction des FRCV  | ESC 2023 diabetes        |
 | Boulimie et TCA | {{< modal-btn modal-scoff >}}Questionnaire SCOFF{{< /modal-btn >}} pour le dépistage          | HAS 2019                 |
 | [Cancer du pancréas]({{% relref "cancer-pancreas.md" %}}) | Scanner AP injecté si:<br>- Diabète < 12 mois: ≥ 50 ans sans ATCD familial ni surpoids OU amaigrissement > 10%<br>- Pancréatite chronique + apparition ou décompensation de diabète | INCa 2019 |
 | Cardiologue  | Si ECG anormal, symptômes, risque cardiovasculaire élevé/très élevé: suivi annuel                | HAS 2025                 |
-| Chirurgie bariatrique | < 65 ans avec IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, apnées du sommeil ou autres, diabète type 2, ostéo-articulaires invalidantes, NASH OU IMC ≥ 30 en dernier recours | HAS 2022 et 2009 obésité |
+| Chirurgie bariatrique | < 65 ans avec IMC ≥ 40 OU IMC ≥ 35 avec ≥ 1: HTA, apnées du sommeil ou autres, diabète type 2, ostéo-articulaires invalidantes, MASH OU IMC ≥ 30 en dernier recours | HAS 2022 et 2009 obésité |
 | [Covid-19]({{% relref "covid-19.md" %}}) | Antiviral en urgence si infection Covid-19                           | HAS 2023                 |
 | Dentaire     | Suivi annuel                                                                                     | HAS 2025                 |
 | [Douleurs neuropathiques]({{% relref "douleur-neuropathique.md" %}}) | Chapitre dédié                           | SFETD 2021               |
@@ -454,7 +454,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 | [Incontinence urinaire]({{% relref "incontinence-urinaire-femme.md" %}}) | Dépistage à l'interrogatoire         | ANAES 2003               |
 | [Insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) | Dépister avec le [questionnaire EPOF](https://www.vaincrelinsuffisancecardiaque.org/wp-content/uploads/2023/04/IC-EPOF-BNP-1.pdf) et (NT-pro)BNP si suspicion<br>(NT-pro)BNP annuel si: obésité, HTA, dyslipidémie, maladie rénale, coronaropathie, femme, bas socio-éco | ESC 2023 diabetes, SFC 2023<br>ADA 2022 |
 | [Stéatopathie métabolique]({{% relref "steatose-hepatique-et-nash.md" %}}) | Dépistage par échographie abdominale | AFEF 2020              |
-| [Stéatohépatite]({{% relref "steatose-hepatique-et-nash.md" %}}) (NASH) | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}} annuel | HAS 2025 |
+| [Stéatohépatite]({{% relref "steatose-hepatique-et-nash.md" %}}) (MASH) | {{< modal-btn modal-fib4 >}}Score FIB-4{{< /modal-btn >}} annuel | HAS 2025 |
 | [Néphropathie]({{% relref "insuffisance-renale-chronique.md" %}}) | Créatininémie et ratio albuminurie/créatininurie (RAC) annuels | HAS 2025 |
 | Neuropathie  | Dépistage annuel: ROT, diapason, podologue: {{< modal-btn modal-monofilament >}}monofilament{{< /modal-btn >}} et {{< modal-btn modal-grade-podologique >}}grade podologique{{< /modal-btn >}}, pic-touche, diapason, [hypotension orthostatique]({{% relref "hypotension-orthostatique.md" %}}), sécheresse cutanée | HAS 2025, ADA 2023 et ESC 2019 diabetes |
 | Permis de conduire | Voir [permis de conduire]({{% relref "pathologies-permis-conduire.md" %}})                 | HAS 2025                 |
@@ -468,7 +468,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 {caption="Rythme de dépistage des complications et comorbidités du diabète. Dr JB Fron d'après Sociétés Savantes mentionnées" class="table-wrap"}
 
 > **AAA** = anévrysme de l'aorte abdominale ; **MRC** = maladie rénale chronique ; **aspirine:** IPP si risque élevé de saignement digestif ;  
-Épreuve d'effort: évaluer les facteurs de risque: FRCV usuels, tour de taille, ancienneté du diabète, HbA~1c~, complications, dysfonction érectile, SAHOS, NASH
+Épreuve d'effort: évaluer les facteurs de risque: FRCV usuels, tour de taille, ancienneté du diabète, HbA~1c~, complications, dysfonction érectile, SAHOS, MASH
 
 {{% /collapse %}}
 {{%collapse "Appareillage" %}}
@@ -507,6 +507,7 @@ Autres examens annuels de suivi: ECG, fond d'œil (tous les 2 ans si bien contr�
 
 {{< video poster="https://www.sfdiabete.org/files/files/Vidéo/2024/20240124_sfd_dt2_2024.png" mp4="https://www.sfdiabete.org/files/files/Vidéo/2024/20240124_sfd_dt2_2024.mp4" description="Prise de position de la SFD sur le traitement du DT2 : quoi de neuf en 2024 ? (Fréquence Médicale)" >}}
 
+- [Référentiel de la Société francophone du diabète (SFD) : vaccination chez la personne vivant avec un diabète - 2025. Médecine des Maladies Métaboliques. 2026.](https://www.sciencedirect.com/science/article/abs/pii/S1957255725003657)
 - {{< references/sfd-dt2-2025 >}}
 - [HAS. Parcours de soins du patient adulte vivant avec un diabète de type 2. 2025.](https://www.has-sante.fr/jcms/p_3634754/fr/parcours-de-soins-du-patient-adulte-vivant-avec-un-diabete-de-type-2)
 - {{< references/calendrier-vaccinal >}}
