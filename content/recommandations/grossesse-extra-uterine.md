@@ -293,6 +293,7 @@ graph TB
 - [ANSM. Décision du 16/05/2025 - Modification du cadre de prescription compassionnelle des médicaments Méthotrexate*. 26/06/2025.](https://ansm.sante.fr/actualites/decision-du-16-05-2025-modification-du-cadre-de-prescription-compassionnelle-des-medicaments-methotrexate)
 - [Vigoureux S, et al; CNGOF. Prévention de l'allo-immunisation anti-RH1 au premier trimestre de la grossesse: recommandations pour la pratique clinique du Collège National des Gynécologues-Obstétriciens Français. Gynécologie Obstétrique Fertilité & Sénologie. 2024. (PDF)](https://cngof.fr/app/uploads/2025/11/Allo-immunisation20-20RhC3A9sus20D202024-Prevention20de20l27allo-immunisation20anti20RH1.pdf?x26468)
 - Collège national des gynécologues et obstétriciens français (CNGOF). Grossesse extra-utérine. Gynécologie obstétrique Réussir son DFASM. 2021.
+- [ESHRE working group on Ectopic Pregnancy, Kirk E, Ankum P, et al. Terminology for describing normally sited and ectopic pregnancies on ultrasound: ESHRE recommendations for good practice. Hum Reprod Open. 2020.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7738750/)
 - [American College of Obstetricians and Gynecologists' Committee on Practice Bulletins-Gynecology. ACOG Practice Bulletin No. 193: Tubal Ectopic Pregnancy. Obstet Gynecol. 2018.](https://journals.lww.com/greenjournal/abstract/2018/03000/acog_practice_bulletin_no__193__tubal_ectopic.46.aspx) (payant)
 - {{< references/aderim >}}
 
