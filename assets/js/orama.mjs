@@ -51,7 +51,7 @@ async function initializeClient() {
 initializeClient();
 
 const searchInput = document.getElementById("search-input");
-["change", "cut", "focus", "input", "paste", "search"].forEach((type) =>
+["input"].forEach((type) =>
   searchInput.addEventListener(type, query),
 );
 
