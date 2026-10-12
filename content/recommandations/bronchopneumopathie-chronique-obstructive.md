@@ -267,7 +267,7 @@ Tabagisme, âge +35 ans, dyspnée persistante et progressive, décrite comme né
 
 ### Classification de Rome de la sévérité de l'exacerbation
 
-En cas d'**exacerbation de BPCO**, la **sévérité** est évaluée selon la **classification de Rome**.
+En cas d'**exacerbation de BPCO**, la **sévérité** est évaluée selon la **classification de Rome** selon le nombre de critères présents.
 
 | Critère | Légère | Modérée (≥ 3 critères) | Sévère (5 critères) |
 | --- | --- | --- | --- |
@@ -277,7 +277,7 @@ En cas d'**exacerbation de BPCO**, la **sévérité** est évaluée selon la **c
 | **SpO₂ au repos** | ≥ 92 % AA (ou O₂ habituelle) **et** variation ≤ 3 % (si connue) | < 92 % AA (ou O₂ habituelle) **et/ou** variation > 3 % (si connue) | Idem |
 | **CRP** | < 10 mg/L (si disponible) | ≥ 10 mg/L (si disponible) | Idem |
 | Gaz du sang artériel | | Peut montrer une hypoxémie (PaO₂ 70-80 mmHg) | Peut montrer une hypoxémie (PaO₂ ≤ 60 mmHg) et/ou une hypercapnie avec acidose (PaCO₂ > 45 mmHg et pH < 7,35) |
-{caption="Classification de Rome de la sévérité de l'exacerbation de BPCO. Dr JB Fron d'après GOLD 2026"}
+{caption="Classification de Rome de la sévérité de l'exacerbation de BPCO. Dr JB Fron d'après GOLD 2026" class="table-wrap"}
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
