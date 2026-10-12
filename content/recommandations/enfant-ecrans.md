@@ -19,6 +19,8 @@ sctid = ""
 icd10 = []
 image = true
 imageSrc = "Illustration de l'exposition aux écrans des enfants par studio4rt / Freepik"
+rank = "false"
+writing = "false"
 todo = "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2808593"
 +++
 

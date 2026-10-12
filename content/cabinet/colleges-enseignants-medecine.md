@@ -46,7 +46,7 @@ Le tableau ci-dessous liste tous les référentiels des Collèges de médecine d
 | Radiologie | CERF <br><span class="typography-caption">Collège des Enseignants de Radiologie de France</span> | 2022 | [lien](https://cerf-edu-site.com/) |
 | Réanimation, médecine intensive | CE-MIR <br><span class="typography-caption">Collège des Enseignants de Médecine Intensive Réanimation</span> | 2024 | [lien](https://www.ce-mir.fr/livre-referentiel-deuxieme-cycle-r2c-8eme-edition) |
 | Rhumatologie | COFER <br><span class="typography-caption">Collège Français des Enseignants en Rhumatologie</span> | 2020 | [lien](http://www.lecofer.org/liste-des-items-ecn.php) |
-| Urologie | CFEU <br><span class="typography-caption">Collège Français des Enseignants en Urologie</span> | 2021 | [lien](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/) |
+| Urologie | CFEU <br><span class="typography-caption">Collège Français des Enseignants en Urologie</span> | 2024 | [lien](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-5eme-edition/) |
 {caption="Livres gratuits des Collèges des enseignants de médecine pour le deuxième cycle en 2026" class="table-wrap"}
 
 Malheureusement, les livres des autres spécialités des Collèges d'enseignants ne sont disponibles qu'à la vente ou via les identifiants universitaires.

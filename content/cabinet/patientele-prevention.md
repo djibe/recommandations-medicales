@@ -43,7 +43,7 @@ Pour la télécharger, cliquer sur le bouton vert **XLS** en haut à gauche.
 
 Après le téléchargement, ouvrir la liste avec Excel ou [LibreOffice Calc](https://fr.libreoffice.org/download/) (gratuit).
 
-Dans la colone **STATUT**, sélectionner uniquement le statut **A vérifier**. Puis enregistrer la feuille.
+Dans la colone **STATUT**, sélectionner uniquement le statut **A vérifier**. Puis enregistrer le fichier.
 
 Ainsi, patient par patient, un mémo peut être ajouté au dossier pour mettre à jour ce dépistage, en retirant ensuite le patient de cette liste de rattrapage.
 

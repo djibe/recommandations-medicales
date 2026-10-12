@@ -57,7 +57,7 @@ Fibrose hépatique avec {{< modal-btn modal-fib4 >}}score FIB-4{{< /modal-btn >}
 
 ## Néphrologie {.typography-overline}
 
-DFG selon {{< modal-btn modal-ckd-epi >}}CKD-EPI 2021{{< /modal-btn >}}.
+DFG selon {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}.
 
 </article>
 <article class="card card-body border shadow-none">

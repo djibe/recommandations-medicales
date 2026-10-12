@@ -19,6 +19,8 @@ sctid = "46635009"
 icd10 = []
 image = true
 imageSrc = "Illustration du diabète type 1 par macrovector / Freepik"
+rank = "false"
+writing = "false"
 todo = "A REPRENDRE +++, EASD 2021 Fig 1 | Table 5, SFD capteur, glucagon, ADA 2023 p.8+, hypoglycémie Gold and Clarke questionnaires showing a score equal or above 4 are indicative of IAH (100, 103)"
 flowchart = true
 +++

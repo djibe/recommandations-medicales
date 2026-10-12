@@ -256,6 +256,7 @@ L'aura peut être suivie: d'une céphalée typique de migraine sans aura, de cé
 - Pression artérielle (aura ++), fréquence cardiaque **à chaque consultation**
 - Poids, taille, IMC
 - Examen neurologique
+- Au moindre doute (*ex.* début tardif): automesure tensionnelle
 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
