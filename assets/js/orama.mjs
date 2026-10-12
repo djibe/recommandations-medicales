@@ -61,20 +61,52 @@ async function query(event) {
     return;
   }
 
-  const searchResponse = await client.search({
-    term: event.target.value,
-    properties: "*",
-    mode: "fulltext",
-    boost: {
-      title: 5,
-      content: 2,
-    },
-  });
+  const results = document.getElementById("search-results");
+  const term = event.target.value.trim();
 
-  document.getElementById("search-results").innerHTML = searchResponse.hits
-    .map(
-      (i) =>
-        `<a href='${i.document.uri}' class='list-group-item list-group-item-action' role='listitem'>${i.document.title}</a>`,
-    )
-    .join("");
+  if (!term) {
+    results.innerHTML = "";
+    return;
+  }
+
+  try {
+    const searchResponse = await client.search({
+      term,
+      properties: "*",
+      mode: "fulltext",
+      boost: {
+        title: 5,
+        content: 2,
+      },
+    });
+
+    if (searchResponse.hits.length === 0) {
+      results.innerHTML = `
+        <p class="list-group-item">
+          Aucun résultat trouvé pour « ${term.replace(/[&<>"']/g, char => ({
+            "&": "&amp;",
+            "<": "&lt;",
+            ">": "&gt;",
+            '"': "&quot;",
+            "'": "&#39;",
+          })[char])} ».<br><a href="/soumettre-chapitre/">Proposer un sujet</a>.
+        </p>
+      `;
+      return;
+    }
+
+    results.innerHTML = searchResponse.hits
+      .map(
+        (i) =>
+          `<a href="${i.document.uri}" class="list-group-item list-group-item-action" role="listitem">${i.document.title}</a>`,
+      )
+      .join("");
+  } catch (error) {
+    console.error("Erreur lors de la recherche Orama :", error);
+    results.innerHTML = `
+      <p class="list-group-item">
+        Une erreur est survenue lors de la recherche.
+      </p>
+    `;
+  }
 }
