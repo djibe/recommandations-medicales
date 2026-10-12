@@ -285,11 +285,11 @@ L'auto-examen des seins (AES) n'est pas recommandé pour les femmes de 25 à 74 
 Dépistage par mammographies avec double lecture tous les 2 ans chez les femmes de 50 à 74 ans asymptomatiques (sans facteur de risque élevé ou très élevé de cancer du sein): [annuaire des radiologues conventionnés](https://www.ameli.fr/assure/sante/assurance-maladie/prevention-depistages/depistages-organises-cancer/depistage-organise-50-74-ans#text_209125)
 {.alert .alert-info}
 
-> Les invitations aux dépistages organisés du col et du sein peuvent être réédités sur Amelipro (Patientèle médecin traitant > onglet Prévention).
+> L'invitation au dépistage organisé du cancer du sein peut être rééditée sur Amelipro depuis un navigateur uniquement > Patientèle prévention > Dépistage organisé du cancer du sein - Détails. Chez les patientes au Statut A vérifier (mammographie probablement non faite), cliquer sur Imprimer dans la colonne Invitation.
 
 [Guide patiente INCa : le dépistage des cancers du sein](https://www.cancer.fr/toute-l-information-sur-les-cancers/se-faire-depister/les-depistages/depistage-du-cancer-du-sein)
 
-Dépistage identique en cas de prothèses mammaires (*INCa 2019*).
+Le dépistage est identique en cas de prothèses mammaires (*INCa 2019*).
 
 Les mammographies sont remboursées à 100 % (les examens supplémentaires ne le sont pas) dans le cadre du Programme national de dépistage organisé du cancer du sein (introduit en 2001, modifié en 2006, géré par DGS et INCa).
 
