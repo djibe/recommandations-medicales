@@ -253,7 +253,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 
 ### Bibliographie en attente
 
-- [Garabedian C, Sénat MV, Sananès N, et al. Diabète antérieur à la grossesse : consensus formalisé d'experts du collège national des gynécologues et obstétriciens français et de la société française de diabétologie. Gynecol Obstet Fertil Senol. 2026.](https://www.sciencedirect.com/science/article/pii/S2468718925004088)
+- [Garabedian C, et al. Diabète antérieur à la grossesse : consensus formalisé d'experts du collège national des gynécologues et obstétriciens français et de la société française de diabétologie. Gynecol Obstet Fertil Senol. 2026. (PDF)](https://cngof.fr/app/uploads/2026/05/CFE-diabete-anterieur-2026.pdf)
 - [Louvet et al; SFD. Nutrition et diabète gestationnel. Recommandations de bonnes pratiques. 2022. (PDF)](https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/reco_nutrition_diabete_gestationnel_2022_v2_0.pdf)
 - Collège gynéco
 

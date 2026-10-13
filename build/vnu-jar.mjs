@@ -43,7 +43,8 @@ execFile('java', ['-version'], (error, stdout, stderr) => {
     'Attribute “mozallowfullscreen” not allowed on element “iframe” at this point.*',
     'Attribute “netlify-honeypot” not allowed on element “form” at this point.*',
     'The “inputmode” attribute is not supported in all browsers. Please be sure to test, and consider using a polyfill.*',
-    'Attribute “loading” not allowed on element “video” at this point.*'
+    'Attribute “loading” not allowed on element “video” at this point.*',
+    'Attribute “loading” not allowed on element “audio” at this point.*'
   ].join('|')
 
   const args = [
