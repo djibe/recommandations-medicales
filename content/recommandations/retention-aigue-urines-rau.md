@@ -16,11 +16,10 @@ tags = []
 english = ["Acute urinary retention (AUR)"]
 sctid = "236648008"
 icd10 = ["R33"]
-image = false
-imageSrc = ""
+image = true
+imageSrc = "Vessie pleine avec dilatation extrême signant une rétention aiguë d'urines (RAU) au scanner. RétentioHellerhoff, CC BY-SA 3.0, via Wikimedia Commons"
 rank = "false"
 writing = "ok"
-todo = "liens > photo > flow > Kanban"
 flowchart = true
 +++
 
