@@ -163,7 +163,7 @@ Antibiotique de préférence **adapté à l'antibiogramme**:
   
 ECBU de contrôle uniquement en l'absence d'amélioration à 72 heures ou récidive précoce dans les 2 semaines.
 
-Bladder-scan si suspicion de rétention aiguë d'urines.
+Bladder-scan si suspicion de [rétention aiguë d'urines]({{% relref "retention-aigue-urines-rau.md" %}}) (RAU).
 
 ### Cystite aiguë récidivante
 

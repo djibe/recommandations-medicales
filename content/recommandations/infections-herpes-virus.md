@@ -143,7 +143,7 @@ Les femmes sont atteintes plus fréquemment et plus sévèrement au niveau géni
 - Signes généraux: fièvre, myalgies, syndrome méningé
 - Femme:
   - **Vulvite aiguë** œdémateuse ou vulvo-vaginite, érosive, hyperalgique (20-60 %)  
-    Rétention aiguë d'urines fréquente.
+    Rétention aiguë d'urines (RAU) fréquente.
   - Cervicite (80%)
 - Homme: balanite œdémateuse avec érosions polycycliques
 - Selon les pratiques: pharyngite, rectite, anite

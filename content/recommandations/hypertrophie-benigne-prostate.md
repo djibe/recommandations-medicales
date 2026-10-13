@@ -110,7 +110,7 @@ Le diagnostic d'hypertrophie bénigne de prostate est clinique.
 - Traitements en cours
 - Tabagisme
 - Recherche de complications  
-  Rétention aiguë d'urines, [infections urinaires récidivantes]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}), hématurie macroscopique, diverticule vésical symptomatique, lithiase vésicale, douleurs pelviennes.
+  [Rétention aiguë d'urines (RAU)]({{% relref "retention-aigue-urines-rau.md" %}}), [infections urinaires récidivantes]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}), hématurie macroscopique, diverticule vésical symptomatique, lithiase vésicale, douleurs pelviennes.
 - Terminologie des symptômes du bas appareil selon l'*International Continence Society* (ICS):
   - Phase de remplissage  
     Pollakiurie diurne et nocturne, urgenturie (impériosité mictionnelle), nycturie, incontinence urinaire.

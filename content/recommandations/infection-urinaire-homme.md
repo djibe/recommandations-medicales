@@ -65,7 +65,7 @@ Particularités de l'infection urinaire chez l'homme:
   - L'ECBU n'est pas recontrôlé (sauf échec du traitement)
 - Au **premier épisode** d'infection urinaire, rechercher une uropathie: pollakiurie, miction impérieuse, diminution de la force du jet, nycturie, dysurie ou anomalie au toucher rectal (HBP ++).
   - Une **échographie** des voies urinaires est requise, avec mesure du résidu post-mictionnel (RPM)
-- **Avis urologique** systématique si: pyélonéphrite, rétention aiguë d'urines, hématurie macroscopique, {{< modal-btn modal-ipss >}}IPSS{{< /modal-btn >}} > 7, prostate dure, RPM > 100 mL, infections récidivantes, âge < 40 ans, anomalies à l'imagerie
+- **Avis urologique** systématique si: pyélonéphrite, [rétention aiguë d'urines (RAU)]({{% relref "retention-aigue-urines-rau.md" %}}), [hématurie]({{% relref "hematurie.md" %}}) macroscopique, {{< modal-btn modal-ipss >}}IPSS{{< /modal-btn >}} > 7, prostate dure, RPM > 100 mL, infections récidivantes, âge < 40 ans, anomalies à l'imagerie
 
 > [!WARNING]
 > Après 75 ans, la fièvre et les signes cliniques d'infection urinaire sont souvent absents.
