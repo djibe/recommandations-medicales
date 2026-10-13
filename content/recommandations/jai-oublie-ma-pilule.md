@@ -29,7 +29,7 @@ Aide à la prise en charge et au rattrapage d'un oubli de pilule contraceptive e
 Chapitres liés: [contraception d'urgence]({{% relref "contraception-urgence.md" %}}), [contraception]({{% relref "contraception.md" %}})
 
 > [!INFO]
-> Le site officiel **[QuestionSexualité](https://www.questionsexualite.fr)** dispose de l'outil [Que faire en cas d'oubli de pilule ?](https://www.questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/que-faire-en-cas-d-oubli-de-pilule), pour guide la prise en charge.
+> Le site officiel **[QuestionSexualité](https://www.questionsexualite.fr)** dispose de l'outil [Que faire en cas d'oubli de pilule ?](https://www.questionsexualite.fr/choisir-sa-contraception/ma-contraception-et-moi/que-faire-en-cas-d-oubli-de-pilule), pour guider la prise en charge.
 
 ## Autres sources {.mt-5}
 
