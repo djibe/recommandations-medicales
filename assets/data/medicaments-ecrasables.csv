@@ -25,6 +25,7 @@ ACIDE FUSIDIQUE 250 mg (Fucidine);Antibactériens stéroïdiens;Comprimé;;Écra
 ACIDE MEFENAMIQUE 250 mg (Ponstyl);Fénamates;Gélule;;Ne pas ouvrir;;;Non;RCP;;A prendre pendant les repas.;Pfizer 14-03-2023 : écrasement déconseillé car pas d'étude.
 ACIDE NIFLUMIQUE 250 mg (Nifluril);Autres anti-inflammatoires antirhumatismaux non stéroïdiens;Gélule;;Ne pas ouvrir;;;Suppositoires;RCP;;A prendre pendant les repas.;
 ACIDE PARA-AMINOSALICYLIQUE 4 g (Granupas);Acide aminosalicylique et dérivés;Granulés GR;;Ne pas écraser ni croquer;;Prise possible avec de l’eau<br>Prise possible avec un jus d’orange<br>Prise possible avec du lait<br>Prise possible avec de la compote<br>Prise possible avec un yaourt<br>;Non;RCP;;Peut être mélangé à un jus d'orange ou de tomate, de la compote ou un yaourt, tant que les granulés restent intacts.;
+ACIDE RISEDRONIQUE 35 mg (Actonel);Biphosphonates;Comprimé gastro-résistant;;Ne pas écraser ni croquer;;;Non;RCP;;PA très irritant (risque d'ulcération). A prendre avec un grand verre d'eau (≥ 200 mL) peu minéralisée immédiatement après le petit-déjeuner. Patienter ensuite ≥ 30 min avant de manger, boire, s’allonger ou prendre d’autres médicaments.;Theramex 17-02-2022 : cf RCP
 ACIDE RISEDRONIQUE 5, 30, 35 et 75 mg (Actonel);Biphosphonates;Comprimé;;Ne pas écraser ni croquer;;;Non;RCP;;PA très irritant (risque d'ulcération). A prendre avec un grand verre d'eau (≥ 200 mL) peu minéralisée le matin à jeun. Patienter ensuite ≥ 30 min avant de manger, boire, s’allonger ou prendre d’autres médicaments.;Theramex 17-02-2022 : cf RCP
 ACIDE TIAPROFENIQUE 100 et 200 mg (Surgam);Dérivés de l'acide propionique;Comprimé sécable;;Délitement possible;;Prise possible avec de l’eau<br>;Non;RCP;;Peut être dissout sans l'écraser dans un grand verre d'eau.;
 ACIDE TRANEXAMIQUE 500 mg (Exacyl);Acides aminés;Comprimé;;Ne pas écraser ni croquer;Goût désagréable;;Solution buvable;Réponse laboratoire;;;Cheplapharm 14-03-2022 : écrasement déconseillé car pas d'étude.
@@ -338,7 +339,8 @@ LEVETIRACETAM 250, 500 et 1000 mg (Keppra);Autres antiépileptiques;Comprimé ou
 LEVOCETIRIZINE 5 mg (Xyzall);Dérivés de la pipérazine;Comprimé;;Ne pas écraser ni croquer;;;Non;RCP;;;UCB Pharma 24-02-2022 : écrasement déconseillé car pas d'étude. 
 "LEVODOPA / BENSERAZIDE 50/12,5 ; 100/25 et 200/50 mg (Modopar)";Dopa et dérivés;Gélule;;Ne pas ouvrir;;;Comprimés dispersibles;RCP;Ouvrable selon HUG 03/2023;A prendre ≥ 30 min avant les repas ou ≥ 2h après.;
 LEVODOPA / BENSERAZIDE LP 100/25 mg (Modopar LP);Dopa et dérivés;Gélule LP;;Ne pas ouvrir;;;"⚠ Non LP ⚠
-Comprimés dispersibles";RCP;;A prendre ≥ 30 min avant les repas ou ≥ 2h après.;
+Comprimés dispersibles";RCP;;"La libération prolongée repose sur les capsules HBS contenues dans la gélule, dont l’enveloppe n’est pas gastro-résistante. 
+ A prendre ≥ 30 min avant les repas ou ≥ 2h après.";
 LEVODOPA / CARBIDOPA / ENTACAPONE tous dosages (Stalevo);Dopa et dérivés;Comprimé;;Ne pas écraser ni croquer;;;Non;Notice patient;Ecrasable selon HUG 03/2023;Notice patient : ne pas écraser;
 LEVODOPA / CARBIDOPA 100/10 et 250/25 mg (Sinemet);Dopa et dérivés;Comprimé ;;Ne pas écraser ni croquer;;;Gel intestinal (pour stades avancés);RCP;Ecrasable selon HUG 03/2023;A prendre en fin de repas, ou avec un peu de nourriture.;
 LEVODOPA / CARBIDOPA LP 100/25 et 200/50 mg (Sinemet LP);Dopa et dérivés;Comprimé LP;;Ne pas écraser ni croquer;;;"⚠ Non LP ⚠

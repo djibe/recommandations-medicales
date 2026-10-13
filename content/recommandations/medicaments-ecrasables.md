@@ -11,7 +11,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-06-05T22:27:15+02:00"
 publishdate = "2025-06-06"
-lastmod = "2026-10-05"
+lastmod = "2026-10-13"
 specialites = ["thérapeutique"]
 annees = "2026"
 sources = ["SFPC", "Omedit Normandie"]
@@ -35,11 +35,11 @@ datatable = true
 
 {{%/article-summary%}}
 
-{{< csv-to-table file="/data/medicaments-ecrasables.csv" title="Liste des médicaments pouvant être écrasés ou non, avec leurs conditions de prise et de manipulation. Dr JB Fron d'après Omedit Normandie et SFPC septembre 2026" >}}
+{{< csv-to-table file="/data/medicaments-ecrasables.csv" title="Liste des médicaments pouvant être écrasés ou non, avec leurs conditions de prise et de manipulation. Dr JB Fron d'après Omedit Normandie et SFPC octobre 2026" >}}
 
 {{%sources%}}
 
-- [Société Française de Pharmacie Clinique (SFPC), OMéDIT Normandie. Liste nationale des médicaments concernant l'écrasement des comprimés et l'ouverture des gélules. Septembre 2026.](https://www.omedit-normandie.fr/boite-a-outils/bon-usage/liste-des-medicaments-ecrasables/liste-des-medicaments-ecrasables,3184,3511.html)
+- [Société Française de Pharmacie Clinique (SFPC), OMéDIT Normandie. Liste nationale des médicaments concernant l'écrasement des comprimés et l'ouverture des gélules. Octobre 2026.](https://www.omedit-normandie.fr/boite-a-outils/bon-usage/liste-des-medicaments-ecrasables/liste-des-medicaments-ecrasables,3184,3511.html)
 - [Dauverné N, et al. Écrasement des médicaments à l'hôpital amélioration des pratiques ou non 15 ans plus tard ?. Le Pharmacien Clinicien. 2026.](https://www.sciencedirect.com/science/article/abs/pii/S277295322500677X) (payant)
 
 {{%/sources%}}
