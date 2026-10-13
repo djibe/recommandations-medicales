@@ -96,31 +96,25 @@
       >Brown JB, Schmidt G, Lent B, Sas G, Lemelin J. Dépistage de la violence faite aux femmes. Epreuves de validation et de fiabilité d'un instrument de mesure français [Screening for violence against women. Validation and feasibility studies of a French screening tool]. Can Fam Physician. 2001 May;47:988-95. PMID: 11398732; PMCID: PMC2018499.</a>
   </p>
 </blockquote>
-{{ $script := `
-  // Score WAST by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score WAST by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scoreElem = document.getElementById('wastScore');
   const textElem = document.getElementById('wastText');
   const radioInputs = document.querySelectorAll('input[type="radio"]');
-
   const countWast = () => {
     const elemsChecked = document.querySelectorAll('input[type="radio"]:checked');
-
     if (elemsChecked.length < 8) {
       return;
     }
-
     const score = Array.from(elemsChecked).reduce(
       (sum, elem) => sum + (parseInt(elem.value, 10) || 0),
       0
     );
-
     scoreElem.textContent = score;
     textElem.textContent = score >= 5
       ? 'Vous êtes potentiellement victime de violences conjugales'
       : 'Pas de signes de violences repérés';
   };
-
   radioInputs.forEach(input => input.addEventListener('change', countWast));
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

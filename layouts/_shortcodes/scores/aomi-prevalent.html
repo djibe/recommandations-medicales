@@ -55,9 +55,8 @@
       doi:10.1177/1358863X07076827</a>
   </p>
 </blockquote>
-{{ $script := `
-  // Score PREVALENT by djibe
-  document.addEventListener('DOMContentLoaded', () => {
+<script>// Score PREVALENT by djibe
+document.addEventListener('DOMContentLoaded', () => {
   const scorePREVALENT = document.getElementById('prevalentScore');
   const textPREVALENT = document.getElementById('prevalentText');
   const radios = document.querySelectorAll('#score-prevalent input[type="radio"]');
@@ -91,5 +90,5 @@
       textPREVALENT.innerHTML = 'Adresser à l’angiologue pour la mesure de l’IPS' + explainPrevalent;
     }
   }
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

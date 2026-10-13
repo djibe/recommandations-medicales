@@ -263,15 +263,13 @@
     <p id="glasgowText" class="lead m-auto">Compléter les 3 parties.</p>
   </div>
 </div>
-{{ $script := `
-  // Score de Glasgow by djibe
-  document.addEventListener('DOMContentLoaded', () => {
+<script>// Score de Glasgow by djibe
+document.addEventListener('DOMContentLoaded', () => {
   const scoreElem = document.getElementById('glasgowScore');
   const textElem = document.getElementById('glasgowText');
   const container = document.getElementById('score-glasgow');
   const radioElems = container ? container.querySelectorAll('input[type="radio"]') : [];
   const panels = document.querySelectorAll('.nav-tabs .nav-link');
-
   const reset = () => {
     radioElems.forEach(radio => {
       radio.checked = false;
@@ -279,23 +277,16 @@
     scoreElem.textContent = '0';
     textElem.textContent = 'Compléter les 3 parties.';
   };
-
   const count = () => {
     const checkedRadios = container.querySelectorAll('input[type="radio"]:checked');
-
     if (checkedRadios.length < 3) {
       scoreElem.textContent = '0';
       textElem.textContent = 'Compléter les 3 parties.';
       return;
     }
-
     let score = 0;
-    checkedRadios.forEach(radio => {
-      score += parseInt(radio.value, 10) || 0;
-    });
-
+    checkedRadios.forEach(radio => score += parseInt(radio.value, 10) || 0);
     scoreElem.textContent = score;
-
     if (score === 15) {
       textElem.textContent = 'Conscience normale';
     } else if (score >= 10) {
@@ -306,7 +297,6 @@
       textElem.textContent = 'Coma profond';
     }
   };
-
   if (container) {
     container.addEventListener('change', event => {
       if (event.target.matches('input[type="radio"]')) {
@@ -314,9 +304,8 @@
       }
     });
   }
-
   panels.forEach(panel => {
     panel.addEventListener('click', reset);
   });
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

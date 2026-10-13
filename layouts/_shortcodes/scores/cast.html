@@ -63,29 +63,23 @@
       S. Legleye, L. Karila, F. Beck & M. Reynaud (2007) Validation of the CAST, a general population Cannabis Abuse Screening Test, Journal of Substance Use, 12:4, 233-242, DOI: 10.1080/14659890701476532</a>
   </p>
 </blockquote>
-{{ $script := `
-  // Score CAST by djibe
+<script>// Score CAST by djibe
 document.addEventListener('DOMContentLoaded', () => {
   const scoreCast = document.getElementById('castScore');
   const textCast = document.getElementById('castText');
   const container = document.getElementById('score-cast');
-
   const calcCast = () => {
     const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
-
     if (elemsChecked.length < 6) {
       scoreCast.textContent = '-';
       textCast.textContent = 'Veuillez répondre à toutes les questions';
       return;
     }
-
     let score = 0;
     elemsChecked.forEach(elem => {
       score += parseInt(elem.value, 10) || 0;
     });
-
     scoreCast.textContent = score;
-
     if (score >= 3) {
       textCast.innerHTML = 'Risque élevé d’usage problématique<br>Proposer un accompagnement pour l’arrêt';
     } else if (score === 2) {
@@ -94,11 +88,10 @@ document.addEventListener('DOMContentLoaded', () => {
       textCast.textContent = 'Risque faible d’usage problématique';
     }
   };
-
   container.addEventListener('change', event => {
     if (event.target.matches('input[type="radio"]')) {
       calcCast();
     }
   });
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

@@ -69,44 +69,34 @@
   <small>Repérage d’une consommation excessive: Femmes (Se 84,4%; Spe 84%), Hommes (Se 87,8%; Spe 74%)</small>
   <p>Arfaoui S. et al. Repérage précoce du risque alcool: savoir faire «FACE». Rev Prat Med Gen. 2004 ; 18 (641) : 201-5.</p>
 </blockquote>
-{{ $script := `
-  // Score FACE by djibe
+<script>// Score FACE by djibe
 window.addEventListener('DOMContentLoaded', () => {
   const scoreFace = document.getElementById('faceScore');
   const textFace = document.getElementById('faceText');
   const radioButtons = document.querySelectorAll('#score-face input[type="radio"]');
-
   function calcFace() {
     const checkedRadios = document.querySelectorAll('#score-face input[type="radio"]:checked');
     const sexeElem = document.querySelector('input[name="sexe"]:checked');
-
     if (checkedRadios.length < 6 || !sexeElem) {
       scoreFace.textContent = '-';
       textFace.textContent = 'Veuillez répondre à toutes les questions';
       return;
     }
-
     let score = 0;
     checkedRadios.forEach(radio => {
       score += parseInt(radio.value, 10) || 0;
     });
-
     scoreFace.textContent = score;
-
     const isMale = sexeElem.id === 'homme';
     const lowRiskLimit = isMale ? 5 : 4;
-
     if (score < lowRiskLimit) {
       textFace.innerHTML = '<strong>Risque faible ou nul</strong><br>Renforcement des conduites favorables à la santé';
     } else if (score <= 8) {
       textFace.innerHTML = '<strong>Consommation excessive probable</strong><br>Intervention brève';
     } else {
-      textFace.innerHTML = '<strong>Dépendance probable</strong><br>Proposer une consultation d\'addictologie';
+      textFace.innerHTML = '<strong>Dépendance probable</strong><br>Proposer une consultation d’addictologie';
     }
   }
-
-  radioButtons.forEach(radio => {
-    radio.addEventListener('change', calcFace);
-  });
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+  radioButtons.forEach(radio => radio.addEventListener('change', calcFace));
+});
+</script>

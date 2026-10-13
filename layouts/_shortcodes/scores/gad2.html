@@ -37,22 +37,17 @@
   <p>Score ≥ 3: sensibilité de 86% et spécificité de 83% pour le diagnostic de trouble anxieux généralisé.</p>
   <p class="mb-0" lang="en"><a href="https://pubmed.ncbi.nlm.nih.gov/17339617/" rel="external nofollow noopener">Kroenke K, Spitzer RL, Williams JB, Monahan PO, Löwe B. Anxiety disorders in primary care: prevalence, impairment, comorbidity, and detection. Ann Intern Med. 2007;146(5):317-325. doi:10.7326/0003-4819-146-5-200703060-00004</a></p>
 </blockquote>
-{{ $script := `
-  // Score GAD-2 by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score GAD-2 by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scoregad2 = document.getElementById('gad2Score');
   const textgad2 = document.getElementById('gad2Text');
   const container = document.getElementById('score-gad2');
-
   const calcgad2 = () => {
     const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
-
     if (checkedElems.length === 2) {
       let score = 0;
       checkedElems.forEach(checkedElem => score += parseInt(checkedElem.value, 10) || 0 );
-
       scoregad2.textContent = score;
-
       if (score <= 2) {
         textgad2.textContent = 'Absence de TAG';
       } else {
@@ -60,7 +55,6 @@
       }
     }
   };
-
   container.addEventListener('change', calcgad2);
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

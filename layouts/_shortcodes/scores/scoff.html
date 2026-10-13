@@ -47,29 +47,23 @@
 <blockquote class="mt-4">
   <p lang="en"><a href="https://pubmed.ncbi.nlm.nih.gov/12364305/" rel="external nofollow noopener">Luck AJ. et al. The SCOFF questionnaire and clinical interview for eating disorders in general practice: comparative study. BMJ. 2002;325(7367):755-756.</a> et <a href="https://pubmed.ncbi.nlm.nih.gov/20509759/" rel="external nofollow noopener">Garcia FD. et al. Validation of the French version of SCOFF questionnaire for screening of eating disorders among adults. World J Biol Psychiatry. 2010 Oct;11(7):888-93.</a></p>
 </blockquote>
-{{ $script := `
-  // Score SCOFF-F by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score SCOFF-F by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scoreScoff = document.getElementById('scoffScore');
   const textScoff = document.getElementById('scoffText');
   const scoffInputs = document.querySelectorAll('#score-scoff input[type="radio"]');
-
   const calcScoff = () => {
     const scoffElemsChecked = document.querySelectorAll('#score-scoff input[type="radio"]:checked');
-
     if (scoffElemsChecked.length < 5) {
       return;
     }
-
     const score = Array.from(scoffElemsChecked).reduce(
       (sum, elem) => sum + parseInt(elem.value, 10),
       0
     );
-
     scoreScoff.textContent = score;
     textScoff.textContent = score >= 2 ? 'TCA possible' : 'Pas de TCA';
   };
-
   scoffInputs.forEach(input => input.addEventListener('change', calcScoff));
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

@@ -166,21 +166,17 @@
     </a>
   </p>
 </blockquote>
-{{ $script := `
-  // Score EHP-5 FR by djibe
+<script>// Score EHP-5 FR by djibe
 window.addEventListener('DOMContentLoaded', () => {
   const scoreEHP5 = document.getElementById('ehp5Score');
   const textEHP5 = document.getElementById('ehp5Text');
   const radioButtons = document.querySelectorAll('#score-ehp5 input[type="radio"]');
-
   function calcEhp5() {
     let score = 0;
     const checkedRadios = document.querySelectorAll('#score-ehp5 input[type="radio"]:checked');
-
     checkedRadios.forEach(radio => {
       score += parseInt(radio.value, 10) || 0;
     });
-
     if (checkedRadios.length >= 10) {
       scoreEHP5.textContent = score;
       textEHP5.textContent = 'Score de ' + score;
@@ -189,9 +185,8 @@ window.addEventListener('DOMContentLoaded', () => {
       textEHP5.textContent = 'Veuillez répondre à toutes les questions';
     }
   }
-
   radioButtons.forEach(radio => {
     radio.addEventListener('change', calcEhp5);
   });
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

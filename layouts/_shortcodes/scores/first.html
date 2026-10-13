@@ -61,39 +61,30 @@
   <p>Un score ≥ 5 a une sensibilité de 90,5 % et spécificité de 85,7 % pour un diagnostic de syndrome fibromyalgique
     (VPP 89,5 % et VPN 87,5 %).</p>
 </blockquote>
-{{ $script := `
-  // Score FiRST (Fibromyalgia Rapid Screening Tool) by djibe
-  window.addEventListener('DOMContentLoaded', () => {
-    const scoreFirst = document.getElementById('firstScore')
-    const textFirst = document.getElementById('firstText')
-    const radios = [...document.querySelectorAll('#score-first input[type="radio"]')]
-
-    const calcFirst = () => {
+<script>// Score FiRST (Fibromyalgia Rapid Screening Tool) by djibe
+window.addEventListener('DOMContentLoaded', () => {
+  const scoreFirst = document.getElementById('firstScore')
+  const textFirst = document.getElementById('firstText')
+  const radios = [...document.querySelectorAll('#score-first input[type="radio"]')]
+  const calcFirst = () => {
     const checkedRadios = radios.filter(radio => radio.checked)
-
     if (checkedRadios.length !== 6) {
       scoreFirst.textContent = '-'
       textFirst.textContent = 'Veuillez compléter les informations'
       return
     }
-
     const score = checkedRadios.reduce(
       (total, radio) => total + Number(radio.value),
       0
     )
-
     scoreFirst.textContent = score
     textFirst.textContent = score >= 5
       ? 'Syndrome fibromyalgique très probable'
       : 'Rechercher un autre diagnostic'
-
-
     }
-
     radios.forEach(radio => {
     radio.addEventListener('change', calcFirst)
     })
-
     calcFirst()
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

@@ -114,7 +114,7 @@
       </a>
   </p>
 </blockquote>
-{{ $script := `
+<script>
   // Score mdq by djibe
   document.addEventListener('DOMContentLoaded', () => {
   const scoremdq = document.getElementById('mdqScore');
@@ -151,5 +151,5 @@
         calcmdq();
       }
     });
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

@@ -57,7 +57,7 @@
 <blockquote class="blockquote">
   <p lang="en"><a href="" rel="external nofollow noopener"></a></p>
 </blockquote>
-{{ $script := `
+<script>
   // Score PESI by djibe
   document.addEventListener('DOMContentLoaded', function() {
 const scoreContainer = document.getElementById('score-pesi');
@@ -104,5 +104,5 @@ function calculatePESI() {
 
 scoreContainer.addEventListener('input', calculatePESI);
 
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

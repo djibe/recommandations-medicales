@@ -91,24 +91,18 @@
   <p class="mb-0"><a href="https://www.nature.com/articles/3900472" rel="external nofollow noopener">Rosen RC. et al. Development and evaluation of an abridged, 5-item version of the International Index of Erectile Function (IIEF-5) as a diagnostic tool for erectile dysfunction. Int J Impot Res. 1999.</a></p>
   <small>D’après Urofrance score IIEF5</small>
 </blockquote>
-{{ $script := `
-  // Score IIEF-5 by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score IIEF-5 by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scoreiief5 = document.getElementById('iief5Score');
   const textiief5 = document.getElementById('iief5Text');
   const container = document.getElementById('score-iief5');
-
   const TOTAL_QUESTIONS = 5;
-
   const calcIief5 = () => {
     const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
-
     if (checkedElems.length === TOTAL_QUESTIONS) {
       let score = 0;
       checkedElems.forEach(checkedElem => score += parseInt(checkedElem.value, 10) || 0);
-
       scoreiief5.textContent = score;
-
       if (score <= 4) {
         textiief5.textContent = 'Non interprétable';
       } else if (score <= 10) {
@@ -122,7 +116,6 @@
       }
     }
   };
-
   container.addEventListener('change', calcIief5);
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

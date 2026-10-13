@@ -266,7 +266,7 @@
   <p class="small mb-0"><a href="https://pubmed.ncbi.nlm.nih.gov/6880820/" rel="external nofollow noopener">Zigmond AS, Snaith RP. The hospital anxiety and depression scale. Acta Psychiatr Scand. 1983;67(6):361-370. doi:10.1111/j.1600-0447.1983.tb09716.x</a> et
     <a href="http://www.amiform.com/web/documents-patients-douloureux/questionnaire_abrege_de_beck.pdf" rel="external nofollow noopener">traduction française du Pr P. Pichot</a></p>
 </blockquote>
-{{ $script := `
+<script>
   // Score Beck FR by djibe
 document.addEventListener('DOMContentLoaded', () => {
   const container = document.getElementById('score-beck');
@@ -302,7 +302,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const legendText = fieldset.querySelector('legend').textContent.trim().replace(/\.$/, '');
       const selectedInput = fieldset.querySelector('input[type="radio"]:checked');
       if (selectedInput) {
-        results.push(legendText + ' : ' + selectedInput.value);
+        results.push(`${legendText} : ${selectedInput.value}`);
       }
     });
 
@@ -352,5 +352,5 @@ document.addEventListener('DOMContentLoaded', () => {
       return "Dépression sévère";
     }
   }
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

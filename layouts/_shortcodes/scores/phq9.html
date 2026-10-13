@@ -125,24 +125,19 @@
   <p class="mb-0"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1495268/" rel="external nofollow noopener">Kroenke K, Spitzer RL, Williams JBW. The PHQ-9: Validity of a brief depression severity measure. J G en Intern Med 2001;16:606-613</a></p>
   <p>Un score ≥ 10 a une sensibilité et une spécificité de 88 % pour le diagnostic d’épisode dépressif majeur.</p>
 </blockquote>
-{{ $script := `
-  // Questionnaire PHQ-9 by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Questionnaire PHQ-9 by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scorephq9 = document.getElementById('phq9Score');
   const textphq9 = document.getElementById('phq9Text');
   const container = document.getElementById('score-phq9');
-
   const calcPhq9 = () => {
     const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
     if (checkedElems.length !== 9) return;
-
     let score = 0;
     checkedElems.forEach(elem => {
       score += parseInt(elem.value, 10) || 0;
     });
-
     scorephq9.textContent = score;
-
     let text = '';
     if (score <= 4) {
       text = 'Absence de dépression';
@@ -155,14 +150,12 @@
     } else {
       text = 'Dépression sévère';
     }
-
     textphq9.textContent = text;
   };
-
   container.addEventListener('change', event => {
     if (event.target.matches('input[type="radio"]')) {
       calcPhq9();
     }
   });
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

@@ -93,38 +93,29 @@
   <p class="mb-0"><a href="https://pubmed.ncbi.nlm.nih.gov/14651414/" rel="external nofollow noopener">Bayliss MS, Dewey JE, Dunlap I, et al. A study of the feasibility of Internet administration of a computerized health survey: the headache impact test (HIT). Qual Life Res. 2003;12(8):953-961. doi:10.1023/a:1026167214355</a> et
   <a href="https://pubmed.ncbi.nlm.nih.gov/20819842/" rel="external nofollow noopener">Yang M, Rendas-Baum R, Varon SF, Kosinski M. Validation of the Headache Impact Test (HIT-6™) across episodic and chronic migraine. Cephalalgia. 2011;31(3):357-367. doi:10.1177/0333102410379890</a></p>
 </blockquote>
-{{ $script := `
-  // Score HIT-6™ by djibe
-  document.addEventListener('DOMContentLoaded', () => {
+<script>// Score HIT-6™ by djibe
+document.addEventListener('DOMContentLoaded', () => {
   const scoreHit6 = document.getElementById('hit6Score');
   const textHit6 = document.getElementById('hit6Text');
   const container = document.getElementById('score-hit6');
-
   const calcHit6 = () => {
     const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
-
     if (checkedElems.length < 6) {
       if (scoreHit6) scoreHit6.textContent = '0';
       if (textHit6) textHit6.textContent = 'Veuillez répondre aux 6 questions.';
       return;
     }
-
     let score = 0;
-    checkedElems.forEach(checkedElem => {
-      score += parseInt(checkedElem.value, 10) || 0;
-    });
-
+    checkedElems.forEach(checkedElem => score += parseInt(checkedElem.value, 10) || 0);
     if (scoreHit6) scoreHit6.textContent = score;
-
     if (textHit6) {
       textHit6.innerHTML = score + ' points (min 36, max 78)<br>Un score plus élevé objective<br>un impact marqué sur la qualité de vie';
     }
   };
-
   container.addEventListener('change', event => {
     if (event.target.matches('input[type="radio"]')) {
       calcHit6();
     }
   });
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

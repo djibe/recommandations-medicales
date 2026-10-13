@@ -44,12 +44,11 @@
   <p>Sensibilité 82,9 % et spécificité 89,9 %</p>
   <p lang="en"><a href="https://doi.org/10.1016/j.pain.2003.12.024" rel="external nofollow noopener">Bouhassira D. et al. Development and validation of the Neuropathic Pain Symptom Inventory. Pain. 2004 Apr;108(3):248-257.</a></p>
 </blockquote>
-{{ $script := `
+<script>
   window.addEventListener('DOMContentLoaded', () => {
   const scoreElement = document.getElementById('dn4Score');
   const textElement = document.getElementById('dn4Text');
   const checkboxes = document.querySelectorAll('#score-dn4 input[type="checkbox"]');
-
   function updateScore() {
     let score = 0;
     checkboxes.forEach(checkbox => {
@@ -57,13 +56,11 @@
         score += parseInt(checkbox.value, 10) || 0;
       }
     });
-
     scoreElement.textContent = score;
     textElement.textContent = score >= 4 ? 'Douleur neuropathique' : 'Douleur nociceptive';
   }
-
   checkboxes.forEach(checkbox => {
     checkbox.addEventListener('change', updateScore);
   });
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

@@ -82,27 +82,21 @@
   <p><a href="https://pubmed.ncbi.nlm.nih.gov/17275165/" rel="external nofollow noopener">Symonds T, Perelman MA, Althof S, et al. Development and validation of a premature ejaculation diagnostic tool. Eur Urol. 2007;52(2):565-573. doi:10.1016/j.eururo.2007.01.028</a>
   </p>
 </blockquote>
-{{ $script := `
-  // Score PEDT by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score PEDT by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scorepedt = document.getElementById('pedtScore');
   const textpedt = document.getElementById('pedtText');
   const container = document.getElementById('score-pedt');
-
   const calcpedt = () => {
     const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
-
     if (elemsChecked.length !== 5) {
       scorepedt.textContent = '-';
       textpedt.textContent = 'Veuillez répondre à toutes les questions';
       return;
     }
-
     let score = 0;
     elemsChecked.forEach(elemChecked => score += parseInt(elemChecked.value, 10) || 0);
-
     scorepedt.textContent = score;
-
     if (score <= 8) {
       textpedt.textContent = 'Absence d’éjaculation précoce';
     } else if (score <= 10) {
@@ -111,11 +105,10 @@
       textpedt.textContent = 'Éjaculation précoce';
     }
   };
-
   container.addEventListener('change', (event) => {
     if (event.target.matches('input[type="radio"]')) {
       calcpedt();
     }
   });
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

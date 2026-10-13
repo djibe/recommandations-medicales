@@ -131,27 +131,21 @@
   <p><a href="https://pubmed.ncbi.nlm.nih.gov/8033378/" rel="external nofollow noopener">Finlay AY, Khan GK. Dermatology Life Quality Index (DLQI)--a simple practical measure for routine clinical use. Clin Exp Dermatol. 1994.</a>
   </p>
 </blockquote>
-{{ $script := `
-  // Score DLQI by MF
-  document.addEventListener('DOMContentLoaded', () => {
+<script>// Score DLQI by MF
+document.addEventListener('DOMContentLoaded', () => {
   const scoreDLQI = document.getElementById('DLQIScore');
   const textDLQI = document.getElementById('DLQIText');
   const container = document.getElementById('score-DLQI');
-
   const calcDLQI = () => {
     const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
-
     if (elemsChecked.length < 11) {
       if (scoreDLQI) scoreDLQI.textContent = '0';
       if (textDLQI) textDLQI.textContent = 'Veuillez répondre à toutes les questions.';
       return;
     }
-
     let score = 0;
     elemsChecked.forEach(elemChecked => score += parseInt(elemChecked.value, 10) || 0);
-
     if (scoreDLQI) scoreDLQI.textContent = score;
-
     if (score <= 1) {
       textDLQI.textContent = 'Absence d’impact sur la vie quotidienne';
     } else if (score <= 10) {
@@ -160,7 +154,6 @@
       textDLQI.textContent = 'Effet important ou extrêmement important';
     }
   };
-
   if (container) {
     container.addEventListener('change', event => {
       if (event.target.matches('input[type="radio"]')) {
@@ -168,5 +161,5 @@
       }
     });
   }
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

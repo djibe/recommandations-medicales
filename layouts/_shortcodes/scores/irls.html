@@ -138,27 +138,21 @@
     <p id="irlsText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
 </div>
-{{ $script := `
-  // Score IRLS by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score IRLS by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scoreIRLS = document.getElementById('irlsScore');
   const textIRLS = document.getElementById('irlsText');
   const radios = document.querySelectorAll('#score-irls input[type="radio"]');
-
   const calcIrls = () => {
     const irlsElemsChecked = document.querySelectorAll('#score-irls input[type="radio"]:checked');
-
     if (irlsElemsChecked.length < 10) {
       textIRLS.textContent = 'Veuillez répondre à toutes les questions';
       scoreIRLS.textContent = '-';
       return;
     }
-
     let score = 0;
     irlsElemsChecked.forEach(irlsElemChecked => score += parseInt(irlsElemChecked.value, 10) || 0);
-
     scoreIRLS.textContent = score;
-
     if (score <= 10) {
       textIRLS.innerHTML = '<strong>SJSR léger</strong><br>Règles d’hygiène<br>et traitement opiacé à la demande';
     } else if (score <= 20) {
@@ -169,9 +163,8 @@
       textIRLS.innerHTML = '<strong>SJSR très sévère</strong><br>Règles d’hygiène<br>et avis du médecin du sommeil';
     }
   };
-
   radios.forEach(elem => {
     elem.addEventListener('change', calcIrls);
   });
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

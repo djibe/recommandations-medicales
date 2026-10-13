@@ -68,7 +68,7 @@
   et <a href="https://pubmed.ncbi.nlm.nih.gov/16422867/" rel="external nofollow noopener">Patrick DL, Althof SE, Pryor JL, et al. Premature ejaculation: an observational study of men and their partners. J Sex Med. 2005;2(3):358-367. doi:10.1111/j.1743-6109.2005.20353.x</a>
   </p>
 </blockquote>
-{{ $script := `
+<script>
   // Score PEP by djibe
   window.addEventListener('DOMContentLoaded', () => {
   const scorePEP = document.getElementById('PEPScore');
@@ -96,5 +96,5 @@
       calcPEP();
     }
   });
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

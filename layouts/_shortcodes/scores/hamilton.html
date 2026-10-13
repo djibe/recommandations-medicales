@@ -356,7 +356,7 @@
     HAMILTON M. A rating scale for depression. J Neurol Neurosurg Psychiatry. 1960;23(1):56-62. doi:10.1136/jnnp.23.1.56
   </a></p>
 </blockquote>
-{{ $script := `
+<script>
   //  Score Hamilton by djibe
 window.addEventListener('DOMContentLoaded', () => {
   const scoreHamilton = document.getElementById('hamiltonScore');
@@ -425,5 +425,5 @@ window.addEventListener('DOMContentLoaded', () => {
 
   container.addEventListener('change', calcHamilton);
   if (copyBtn) copyBtn.addEventListener('click', copyResults);
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

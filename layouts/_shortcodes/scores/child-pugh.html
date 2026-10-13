@@ -58,29 +58,23 @@
   <p class="small" lang="en">Child CG, Turcotte JG. Surgery and portal hypertension. Major Probl Clin Surg. 1964;1:1-85.<br>
   et Pugh RN, Murray-Lyon IM, Dawson JL, Pietroni MC, Williams R (1973). "Transection of the oesophagus for bleeding oesophageal varices". The British journal of surgery, 60 (8): 646-9.</p>
 </blockquote>
-{{ $script := `
-  // Score Child-Pugh by djibe
+<script>// Score Child-Pugh by djibe
 document.addEventListener('DOMContentLoaded', () => {
   const scoreChild = document.getElementById('childScore');
   const textChild = document.getElementById('childText');
   const container = document.getElementById('score-child');
-
   const calcChild = () => {
     const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
-
     if (elemsChecked.length < 5) {
       scoreChild.textContent = '-';
       textChild.textContent = 'Veuillez répondre à toutes les questions';
       return;
     }
-
     let score = 0;
     elemsChecked.forEach(elem => {
       score += parseInt(elem.value, 10) || 0;
     });
-
     scoreChild.textContent = score;
-
     if (score <= 6) {
       textChild.textContent = 'Child A';
     } else if (score <= 9) {
@@ -89,11 +83,10 @@ document.addEventListener('DOMContentLoaded', () => {
       textChild.textContent = 'Child C';
     }
   };
-
   container.addEventListener('change', event => {
     if (event.target.matches('input[type="radio"]')) {
       calcChild();
     }
   });
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

@@ -92,30 +92,23 @@
     d’une vulnérabilité ou d’une fragilité gériatrique.</p>
   <p class="mb-0"><a href="https://ascopubs.org/doi/abs/10.1200/jco.2011.29.15_suppl.9001" rel="external nofollow noopener">Soubeyran P. et al. Validation of the G8 screening tool in geriatric oncology: The ONCODAGE project. Journal of Clinical Oncology. 2011. 29:15_suppl, 9001-9001.</a></p>
 </blockquote>
-{{ $script := `
-  // Score G8 - Oncodage by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score G8 - Oncodage by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const container = document.getElementById('score-g8');
   const scoreElement = document.getElementById('g8Score');
   const textElement = document.getElementById('g8Text');
-
   const calcG8 = () => {
     const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
-
     if (checkedElems.length !== 8) return;
-
     let score = 0;
     checkedElems.forEach(radio => score += parseInt(radio.value, 10));
-
     scoreElement.textContent = score;
-
     if (score <= 14) {
       textElement.textContent = "Fragilité. Nécessité d’une évaluation gériatrique";
     } else {
       textElement.textContent = "Pas d’évaluation complémentaire nécessaire";
     }
   };
-
   container.addEventListener('change', calcG8);
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

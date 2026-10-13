@@ -43,40 +43,33 @@
     <a href="https://pubmed.ncbi.nlm.nih.gov/4416585/" rel="external nofollow noopener">Mayfield D, McLeod G, Hall P. The CAGE questionnaire: validation of a new alcoholism screening instrument. Am J Psychiatry. 1974;131(10):1121-1123.</a>
   </p>
 </blockquote>
-{{ $script := `
-  // Score CAGE-DETA by djibe
+<script>// Score CAGE-DETA by djibe
 document.addEventListener('DOMContentLoaded', () => {
   const scoreDeta = document.getElementById('detaScore');
   const textDeta = document.getElementById('detaText');
   const container = document.getElementById('score-deta');
-
   const calcDeta = () => {
     const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
-
     if (elemsChecked.length < 4) {
       scoreDeta.textContent = '-';
       textDeta.textContent = 'Veuillez répondre à toutes les questions';
       return;
     }
-
     let score = 0;
     elemsChecked.forEach(elem => {
       score += parseInt(elem.value, 10) || 0;
     });
-
     scoreDeta.textContent = score;
-
     if (score >= 2) {
       textDeta.textContent = 'Problème de consommation d’alcool';
     } else {
       textDeta.textContent = 'Pas de problème évident';
     }
   };
-
   container.addEventListener('change', event => {
     if (event.target.matches('input[type="radio"]')) {
       calcDeta();
     }
   });
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

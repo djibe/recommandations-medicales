@@ -44,32 +44,26 @@
   </div>
   <p id="saosDiabeteText" class="lead m-auto">Pas de recherche de SAOS</p>
 </div>
-{{ $script := `
-  // Score depistage SAOS diabete by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score depistage SAOS diabete by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scoreSaosDiabete = document.getElementById('saosDiabeteScore');
   const textSaosDiabete = document.getElementById('saosDiabeteText');
   const container = document.getElementById('score-saos-diabete');
-
   const calcSaosDiabete = () => {
     const checkedElems = container.querySelectorAll('input[type="checkbox"]:checked');
-
     let score = 0;
     checkedElems.forEach(elem => score += parseInt(elem.value, 10) || 0);
-
     scoreSaosDiabete.textContent = score;
-
     if (score >= 3) {
       textSaosDiabete.textContent = 'Enregistrement du sommeil nécessaire';
     } else {
       textSaosDiabete.textContent = 'Pas de recherche de SAOS';
     }
   };
-
   container.addEventListener('change', event => {
     if (event.target.matches('input[type="checkbox"]')) {
       calcSaosDiabete();
     }
   });
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

@@ -29,28 +29,22 @@
 <blockquote class="blockquote">
   <p>Revue 2015 des versions consensuelles des outils cognitifs selon le GRECO (Groupe de Réflexion sur les Evaluations Cognitives)</p>
 </blockquote>
-{{ $script := `
-  // Score IADL simplifiée by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score IADL simplifiée by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scoreiadlSimpl = document.getElementById('iadl-simplScore');
   const textiadlSimpl = document.getElementById('iadl-simplText');
   const container = document.getElementById('score-iadl-simplifiee');
-
   const calcIadlSimpl = () => {
     let score = 0;
     const checkedElems = container.querySelectorAll('input:checked');
-
     checkedElems.forEach(checkedElem => score += parseInt(checkedElem.value, 10) || 0);
-
     scoreiadlSimpl.textContent = score;
-
     if (score === 4) {
       textiadlSimpl.textContent = 'Pas d’élément inquiétant dans la vie quotidienne';
     } else {
       textiadlSimpl.textContent = 'Poursuivre le bilan mémoire';
     }
   };
-
   container.addEventListener('change', calcIadlSimpl);
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

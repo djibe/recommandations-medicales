@@ -107,23 +107,16 @@
       >Murray W. Johns. A New Method for Measuring Daytime Sleepiness: The Epworth Sleepiness Scale. Sleep. Volume 14. Issue 6. November 1991. Pages 540-545.</a>
   </p>
 </blockquote>
-{{ $script := `
-  // Score Epworth by djibe
+<script>// Score Epworth by djibe
 window.addEventListener('DOMContentLoaded', () => {
   const scoreEPWORTH = document.getElementById('epworthScore');
   const textEPWORTH = document.getElementById('epworthText');
   const radioButtons = document.querySelectorAll('#score-epworth input[type="radio"]');
-
   function calcEpworth() {
     let score = 0;
     const elemsChecked = document.querySelectorAll('#score-epworth input[type="radio"]:checked');
-
-    elemsChecked.forEach(elemChecked => {
-      score += parseInt(elemChecked.value, 10) || 0;
-    });
-
+    elemsChecked.forEach(elemChecked => score += parseInt(elemChecked.value, 10) || 0);
     scoreEPWORTH.textContent = score;
-
     if (score <= 10) {
       textEPWORTH.textContent = "Niveau normal de somnolence";
     } else if (score <= 15) {
@@ -132,9 +125,6 @@ window.addEventListener('DOMContentLoaded', () => {
       textEPWORTH.textContent = "Somnolence modérée à sévère";
     }
   }
-
-  radioButtons.forEach(radio => {
-    radio.addEventListener('change', calcEpworth);
-  });
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+  radioButtons.forEach(radio => radio.addEventListener('change', calcEpworth));
+});
+</script>

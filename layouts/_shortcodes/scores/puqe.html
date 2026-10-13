@@ -60,22 +60,17 @@
       Lacasse A, et al. Validity of a modified Pregnancy-Unique Quantification of Emesis and Nausea (PUQE) scoring index to assess severity of nausea and vomiting of pregnancy. Am J Obstet Gynecol. 2008;198(1):71.e1-71.e717. doi:10.1016/j.ajog.2007.05.051</a>
   </p>
 </blockquote>
-{{ $script := `
-  // Score PUQE modifié by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score PUQE modifié by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scorePuqe = document.getElementById('puqeScore');
   const textPuqe = document.getElementById('puqeText');
   const container = document.getElementById('score-puqe');
-
   const calcPuqe = () => {
     const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
     if (elemsChecked.length < 3) return;
-
     let score = 0;
     elemsChecked.forEach(elemChecked => score += parseInt(elemChecked.value, 10) || 0);
-
     scorePuqe.textContent = score;
-
     let text = '';
     if (score <= 6) {
       text = 'Vomissements légers';
@@ -84,14 +79,12 @@
     } else {
       text = 'Vomissements sévères<br>Hospitalisation indiquée';
     }
-
     textPuqe.innerHTML = text;
   };
-
   container.addEventListener('change', event => {
     if (event.target.matches('input[type="radio"]')) {
       calcPuqe();
     }
   });
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

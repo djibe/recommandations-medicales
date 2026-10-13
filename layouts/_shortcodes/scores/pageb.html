@@ -42,27 +42,21 @@
     <p id="pagebText" class="lead m-auto">Veuillez répondre à toutes les questions</p>
   </div>
 </div>
-{{ $script := `
-  // Score PAGE-B by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score PAGE-B by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scorePageb = document.getElementById('pagebScore');
   const textPageb = document.getElementById('pagebText');
   const container = document.getElementById('score-pageb');
-
   const calcPageb = () => {
     const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
-
     if (elemsChecked.length !== 3) {
       scorePageb.textContent = '';
       textPageb.textContent = 'Veuillez répondre à toutes les questions';
       return;
     }
-
     let score = 0;
     elemsChecked.forEach(elemChecked => score += parseInt(elemChecked.value, 10) || 0);
-
     scorePageb.textContent = score;
-
     if (score <= 9) {
       textPageb.textContent = 'Risque de CHC quasi nul (à 5 ans)';
     } else if (score <= 17) {
@@ -71,11 +65,10 @@
       textPageb.textContent = 'Risque de CHC élevé (17 % à 5 ans)';
     }
   };
-
   container.addEventListener('change', (event) => {
     if (event.target.matches('input[type="radio"]')) {
       calcPageb();
     }
   });
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

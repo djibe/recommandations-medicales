@@ -105,38 +105,30 @@
   <p class="mb-0"><a href="https://www.larevuedupraticien.fr/archive/elaboration-et-validation-dun-questionnaire-rapide-coconut-ca-destimation-des-apports" rel="external nofollow noopener">
     Archembault P, et al. Elaboration et validation d’un questionnaire rapide (CocoNut Ca) d’estimation des apports calciques (valeur informationnelle et calcul de corrélation) comparativement à un entretien nutritionnel stand. La Revue du praticien Médecine générale 2005 ; 19 : 972-75.</a></p>
 </blockquote>
-{{ $script := `
-  // Score CocoNut Ca by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score CocoNut Ca by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scoregrio = document.getElementById('grioScore');
   const textgrio = document.getElementById('grioText');
   const container = document.getElementById('score-grio');
-
   const baseText = 'Apports couverts si:<br><br>- 10-18 ans ou ménopause ou homme +65 ans: 15 pts<br>- Grossesse: 12 pts<br>- Autres adultes: 10 pts';
-
   const calcgrio = () => {
     const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
     if (checkedElems.length === 0) return;
-
     let score = 0;
     checkedElems.forEach(checkedElem => {
       score += parseInt(checkedElem.value, 10) || 0;
     });
-
     scoregrio.textContent = score;
-
     let extraText = '';
     if (score < 10) {
       extraText = ' <br><p>Score &lt; 10: risque de carence chez l’adolescente<br>ou la femme ménopausée.</p>';
     }
-
     textgrio.innerHTML = baseText + extraText;
   };
-
   container.addEventListener('change', event => {
     if (event.target.matches('input[type="radio"]')) {
       calcgrio();
     }
   });
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

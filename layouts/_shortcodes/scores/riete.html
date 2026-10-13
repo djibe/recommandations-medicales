@@ -58,21 +58,16 @@
       >Ruíz-Giménez N, Suárez C, González R, et al. Predictive variables for major bleeding events in patients presenting with documented acute venous thromboembolism. Findings from the RIETE Registry. Thromb Haemost. 2008;100(1):26-31. doi:10.1160/TH08-03-0193</a>
   </p>
 </blockquote>
-{{ $script := `
-  // Score RIETE by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score RIETE by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scoreRiete = document.getElementById('rieteScore');
   const textRiete = document.getElementById('rieteText');
   const container = document.getElementById('score-riete');
-
   const calcRiete = () => {
     const rieteElemsChecked = container.querySelectorAll('input[type="checkbox"]:checked');
-
     let score = 0;
     rieteElemsChecked.forEach(rieteElemChecked => score += parseInt(rieteElemChecked.value, 10) || 0);
-
     scoreRiete.textContent = score;
-
     let text = '';
     if (score === 0) {
       text = 'Risque hémorragique <strong>faible</strong>';
@@ -81,14 +76,12 @@
     } else {
       text = 'Risque hémorragique <strong>élevé</strong><br>Hospitalisation si TVP/EP';
     }
-
     textRiete.innerHTML = text;
   };
-
   container.addEventListener('change', event => {
     if (event.target.matches('input[type="checkbox"]')) {
       calcRiete();
     }
   });
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

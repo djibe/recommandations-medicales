@@ -38,31 +38,24 @@
     Kroenke K, Spitzer RL, Williams JB. The Patient Health Questionnaire-2: validity of a two-item depression screener. Med Care. 2003;41(11):1284-1292. doi:10.1097/01.MLR.0000093487.78664.3C</a></p>
   <p>Un score ≥ 3 a une sensibilité de 83% et spécificité de 92% pour un épisode dépressif majeur.</p>
 </blockquote>
-{{ $script := `
-  // Score PHQ-2 by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score PHQ-2 by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scorephq2 = document.getElementById('phq2Score');
   const textphq2 = document.getElementById('phq2Text');
   const radios = document.querySelectorAll('#score-phq2 input[type="radio"]');
-
   const calcphq2 = () => {
     const checkedElems = document.querySelectorAll('#score-phq2 input[type="radio"]:checked');
-
     if (checkedElems.length === 2) {
       const score = Array.from(checkedElems).reduce(
         (acc, elem) => acc + parseInt(elem.value, 10),
         0
       );
-
       scorephq2.textContent = score;
       textphq2.textContent = score < 3
         ? "Absence de dépression"
         : "Épisode dépressif majeur probable";
     }
   };
-
-  radios.forEach((elem) => {
-    elem.addEventListener('change', calcphq2);
-  });
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+  radios.forEach((elem) => elem.addEventListener('change', calcphq2));
+})
+</script>

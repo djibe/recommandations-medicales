@@ -139,27 +139,21 @@
     <a href="https://www.tandfonline.com/doi/abs/10.3109/03009748709102182" rel="external nofollow noopener">Lequesne MG, Mery C, Samson M, Gerard P. Indexes of severity for osteoarthritis of the hip and knee. Validation--value in comparison with other assessment tests. Scand J Rheumatol Suppl. 1987;65:85-89. doi:10.3109/03009748709102182</a>
   </p>
 </blockquote>
-{{ $script := `
-  // Score Lequesne-hip by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score Lequesne-hip by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scorelequesne = document.getElementById('lequesneScore');
   const textlequesne = document.getElementById('lequesneText');
   const radios = document.querySelectorAll('#score-lequesne input[type="radio"]');
-
   const calclequesne = () => {
     const elemsChecked = document.querySelectorAll('#score-lequesne input[type="radio"]:checked');
-
     if (elemsChecked.length < 11) {
       textlequesne.textContent = 'Veuillez répondre à toutes les questions';
       scorelequesne.textContent = '';
       return;
     }
-
     let score = 0;
     elemsChecked.forEach(elemChecked => score += parseFloat(elemChecked.value) || 0);
-
     scorelequesne.textContent = score;
-
     if (score <= 7) {
       textlequesne.textContent = 'Handicap modeste ou pas de handicap';
     } else if (score <= 9) {
@@ -172,9 +166,8 @@
       textlequesne.innerHTML = 'Handicap extrême, insupportable<br>Avis orthopédique pour prothèse';
     }
   };
-
   radios.forEach(elem => {
     elem.addEventListener('change', calclequesne);
   });
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

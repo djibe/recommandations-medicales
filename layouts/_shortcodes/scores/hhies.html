@@ -109,24 +109,18 @@
       chez l’adulte de plus de 60 ans. Sciences du Vivant [q-bio]. 2020. dumas-03019986</a>
   </p>
 </blockquote>
-{{ $script := `
-  // Score HHIE-S by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score HHIE-S by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scorehhies = document.getElementById('hhiesScore');
   const texthhies = document.getElementById('hhiesText');
   const container = document.getElementById('score-hhies');
-
   const TOTAL_QUESTIONS = 10;
-
   const calchhies = () => {
     const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
-
     if (elemsChecked.length === TOTAL_QUESTIONS) {
       let score = 0;
       elemsChecked.forEach(elemChecked => score += parseInt(elemChecked.value, 10) || 0);
-
       scorehhies.textContent = score;
-
       if (score <= 8) {
         texthhies.textContent = 'Pas de déficience auditive';
       } else if (score <= 16) {
@@ -136,7 +130,6 @@
       }
     }
   };
-
   container.addEventListener('change', calchhies);
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

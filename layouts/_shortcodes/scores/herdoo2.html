@@ -35,28 +35,22 @@
     </p>
   </blockquote>
 </div>
-{{ $script := `
-  // Score HERDOO2 by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score HERDOO2 by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scoreHerdoo2 = document.getElementById('herdoo2Score');
   const textHerdoo2 = document.getElementById('herdoo2Text');
   const container = document.getElementById('score-herdoo2');
-
   const calcHerdoo2 = () => {
     let score = 0;
     const herdoo2ElemsChecked = container.querySelectorAll('input[type="checkbox"]:checked');
-
     herdoo2ElemsChecked.forEach(herdoo2ElemChecked => score += parseInt(herdoo2ElemChecked.value, 10) || 0);
-
     scoreHerdoo2.textContent = score;
-
     if (score <= 1) {
       textHerdoo2.innerHTML = 'Risque de récidive <strong>faible</strong>';
     } else {
       textHerdoo2.innerHTML = 'Risque de récidive <strong>non faible</strong>';
     }
   };
-
   container.addEventListener('change', calcHerdoo2);
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

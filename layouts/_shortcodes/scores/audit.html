@@ -158,31 +158,24 @@
     <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1360-0443.1993.tb02093.x" rel="external nofollow noopener">Saunders JB, et al. Development of the Alcohol Use Disorders Identification Test (AUDIT): WHO Collaborative Project on Early Detection of Persons with Harmful Alcohol Consumption--II. Addiction. 1993.</a>
     et les bornes sont celles utilisées par la Société Française d’Alcoologie 2023</p>
 </blockquote>
-{{ $script := `
-  // Score AUDIT by djibe
+<script>// Score AUDIT by djibe
 document.addEventListener('DOMContentLoaded', () => {
   const scoreAudit = document.getElementById('auditScore');
   const textAudit = document.getElementById('auditText');
   const container = document.getElementById('score-audit');
-
   const calcAudit = () => {
     const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
     const sexe = document.querySelector('input[name="audit-sexe"]:checked');
-
     if (elemsChecked.length < 11) {
       scoreAudit.textContent = '-';
       textAudit.textContent = 'Veuillez répondre à toutes les questions';
       return;
     }
-
     let score = 0;
     elemsChecked.forEach(elem => score += parseInt(elem.value, 10) || 0);
-
     scoreAudit.textContent = score;
-
     const isHomme = sexe && sexe.id === 'audit-homme';
     const isFemme = sexe && sexe.id === 'audit-femme';
-
     if (score >= 11) {
       textAudit.innerHTML = '<strong>Dépendance probable</strong><br>Proposer une consultation d’addictologie';
     } else if ((isHomme && score >= 7) || (isFemme && score >= 6)) {
@@ -191,11 +184,10 @@ document.addEventListener('DOMContentLoaded', () => {
       textAudit.innerHTML = '<strong>Risque faible ou nul de mésusage</strong><br>Renforcement des conduites favorables à la santé';
     }
   };
-
   container.addEventListener('change', event => {
     if (event.target.matches('input[type="radio"]')) {
       calcAudit();
     }
   });
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

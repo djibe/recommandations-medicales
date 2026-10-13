@@ -69,29 +69,23 @@
 <blockquote class="blockquote">
   <p lang="en"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23956253/" rel="external nofollow noopener">Nordestgaard BG et al. Familial hypercholesterolaemia is underdiagnosed and undertreated in the general population: guidance for clinicians to prevent coronary heart disease: consensus statement of the European Atherosclerosis Society. Eur Heart J. 2013.</a></p>
 </blockquote>
-{{ $script := `
-  // Score Dutch Lipid Clinic Network by djibe
+<script>// Score Dutch Lipid Clinic Network by djibe
 window.addEventListener('DOMContentLoaded', () => {
   const scoreDlcn = document.getElementById('dlcnScore');
   const textDlcn = document.getElementById('dlcnText');
   const tendinousElem = document.getElementById('dutch-hyperchol-31');
   const arcusElem = document.getElementById('dutch-hyperchol-32');
   const dlcnElems = document.querySelectorAll('#score-dutch-hyperchol input.elem-dlcn');
-
   function calcDlcn() {
     let score = 0;
     const dlcnElemsChecked = document.querySelectorAll('#score-dutch-hyperchol input.elem-dlcn:checked');
-
     dlcnElemsChecked.forEach(dlcnElem => {
       score += parseInt(dlcnElem.value, 10) || 0;
     });
-
     if (tendinousElem && arcusElem && tendinousElem.checked && arcusElem.checked) {
       score -= parseInt(arcusElem.value, 10) || 0;
     }
-
     scoreDlcn.textContent = score;
-
     if (score < 3) {
       textDlcn.textContent = "Pas d’argument diagnostique d’HF";
     } else if (score <= 5) {
@@ -102,9 +96,8 @@ window.addEventListener('DOMContentLoaded', () => {
       textDlcn.textContent = "HF certaine";
     }
   }
-
   dlcnElems.forEach(elem => {
     elem.addEventListener('change', calcDlcn);
   });
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

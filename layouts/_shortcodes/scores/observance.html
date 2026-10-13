@@ -61,27 +61,21 @@
       dans des consultations spécialisées - Arch Mal Cœur Vaiss. 2001 Aug ; 94 (8) : 839-42 (PDF)</a>
   </p>
 </blockquote>
-{{ $script := `
-  // Score Observance by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script>// Score Observance by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scoreObservance = document.getElementById('observanceScore');
   const textObservance = document.getElementById('observanceText');
   const container = document.getElementById('score-observance');
-
   const calcObservanceScore = () => {
     const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
-
     if (elemsChecked.length !== 6) {
       scoreObservance.textContent = '-';
       textObservance.textContent = 'Veuillez répondre à toutes les questions';
       return;
     }
-
     let score = 0;
     elemsChecked.forEach(observanceElemChecked => score += parseInt(observanceElemChecked.value, 10) || 0);
-
     scoreObservance.textContent = score;
-
     if (score === 0) {
       textObservance.textContent = 'Bonne observance';
     } else if (score <= 2) {
@@ -90,11 +84,10 @@
       textObservance.textContent = 'Non observant';
     }
   };
-
   container.addEventListener('change', (event) => {
     if (event.target.matches('input[type="radio"]')) {
       calcObservanceScore();
     }
   });
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

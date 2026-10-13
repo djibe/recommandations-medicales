@@ -62,40 +62,30 @@
 <blockquote lang="en" class="blockquote my-4">
   <p class="mb-0"><a href="https://pubmed.ncbi.nlm.nih.gov/1932883/" rel="external nofollow noopener">Heatherton TF et al. The Fagerström Test for Nicotine Dependence: a revision of the Fagerström Tolerance Questionnaire. Br J Addict. 1991.</a></p>
 </blockquote>
-{{ $script := `
-  // Score Fagerström-6 by djibe
-  window.addEventListener('DOMContentLoaded', () => {
-    const container = document.getElementById('score-fager6');
-    const scoreElement = document.getElementById('fager6Score');
-    const textElement = document.getElementById('fager6Text');
-
-    const calcFager6 = () => {
-        const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
-
-        if (checkedElems.length === 6) {
-            let score = 0;
-            checkedElems.forEach(elem => {
-                score += parseInt(elem.value, 10);
-            });
-
-            scoreElement.textContent = score;
-
-            if (score <= 2) {
-                textElement.textContent = 'Pas de dépendance';
-            } else if (score <= 4) {
-                textElement.textContent = 'Dépendance faible';
-            } else if (score <= 6) {
-                textElement.textContent = 'Dépendance moyenne';
-            } else {
-                textElement.textContent = 'Dépendance forte ou très forte';
-            }
+<script>// Score Fagerström-6 by djibe
+window.addEventListener('DOMContentLoaded', () => {
+  const container = document.getElementById('score-fager6');
+  const scoreElement = document.getElementById('fager6Score');
+  const textElement = document.getElementById('fager6Text');
+  const calcFager6 = () => {
+    const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
+      if (checkedElems.length === 6) {
+        let score = 0;
+        checkedElems.forEach(elem => score += parseInt(elem.value, 10));
+        scoreElement.textContent = score;
+        if (score <= 2) {
+            textElement.textContent = 'Pas de dépendance';
+        } else if (score <= 4) {
+            textElement.textContent = 'Dépendance faible';
+        } else if (score <= 6) {
+            textElement.textContent = 'Dépendance moyenne';
+        } else {
+            textElement.textContent = 'Dépendance forte ou très forte';
         }
+      }
     };
-
     container.addEventListener('change', (event) => {
-        if (event.target.type === 'radio') {
-            calcFager6();
-        }
+        if (event.target.type === 'radio') { calcFager6() }
     });
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

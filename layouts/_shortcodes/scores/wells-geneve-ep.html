@@ -116,26 +116,20 @@
     </div>
   </div>
 </div>
-<script type="module">
-// Score de Wells/Révisé de Genève by djibe
+<script>// Score de Wells/Révisé de Genève by djibe
 window.addEventListener('DOMContentLoaded', () => {
   const wellsPanel = document.getElementById('wells-ep-tab');
   const genevePanel = document.getElementById('geneve-ep-tab');
-
   const scoreElem = document.getElementById('wellsEpScore');
   const textElem = document.getElementById('wellsEpText');
   const scoreGeneve = document.getElementById('geneveEpScore');
   const textGeneve = document.getElementById('geneveEpText');
-
   const copyWellsBtn = document.getElementById('copyWellsBtn');
   const copyGeneveBtn = document.getElementById('copyGeneveBtn');
-
   const panels = document.querySelectorAll('.nav-tabs .nav-link');
-
   const textFaible = '<strong>Probabilité clinique faible</strong><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences';
   const textModeree = '<strong>Probabilité clinique intermédiaire</strong><br>Anticoagulation et D-dimères aux Urgences';
   const textElevee = '<strong>Probabilité clinique forte</strong><br>Anticoagulation et angioscanner aux Urgences';
-
   const getCheckedCriteria = panel => {
     return Array.from(panel.querySelectorAll('input[type="checkbox"]:checked'))
       .map(checkbox => {
@@ -143,16 +137,12 @@ window.addEventListener('DOMContentLoaded', () => {
         return label ? label.textContent.trim() : checkbox.id;
       });
   };
-
   const getScore = panel => {
     return Array.from(panel.querySelectorAll('input[type="checkbox"]:checked'))
       .reduce((sum, checkbox) => sum + (Number(checkbox.value) || 0), 0);
   };
-
-
 const getInterpretation = (score, type) => {
   let interpretation = textFaible;
-
   if (type === 'wells') {
     if (score > 6) {
       interpretation = textElevee;
@@ -165,38 +155,28 @@ const getInterpretation = (score, type) => {
     } else if (score >= 4) {
       interpretation = textModeree;
     }
-
     const epProbability = score >= 3
       ? 'EP probable'
       : 'EP peu probable';
-
     interpretation += '<br><br><strong>' + epProbability + '</strong> (Genève simplifié)';
   }
-
   return interpretation;
 };
-
-
   const calculateScores = () => {
     const wellsScore = getScore(wellsPanel);
     const geneveScore = getScore(genevePanel);
-
     scoreElem.textContent = wellsScore;
     textElem.innerHTML = getInterpretation(wellsScore, 'wells');
-
     scoreGeneve.textContent = geneveScore;
     textGeneve.innerHTML = getInterpretation(geneveScore, 'geneve');
   };
-
   const copyAssessment = async (panel, scoreElement, textElement, type) => {
     const score = scoreElement.textContent.trim();
     const criteria = getCheckedCriteria(panel);
     const interpretation = textElement.innerText.trim();
-
     const title = type === 'wells'
       ? 'Score de Wells pour l’embolie pulmonaire'
       : 'Score révisé de Genève pour l’embolie pulmonaire';
-
     const result = [
       title,
       'Score : ' + score,
@@ -207,7 +187,6 @@ const getInterpretation = (score, type) => {
       'Interprétation :',
       interpretation
     ].join('\n');
-
     try {
       if (navigator.clipboard && window.isSecureContext) {
         await navigator.clipboard.writeText(result);
@@ -219,20 +198,15 @@ const getInterpretation = (score, type) => {
         textarea.style.opacity = '0';
         document.body.appendChild(textarea);
         textarea.select();
-
         const copied = document.execCommand('copy');
         textarea.remove();
-
         if (!copied) {
           throw new Error('Copie impossible');
         }
       }
-
       const button = type === 'wells' ? copyWellsBtn : copyGeneveBtn;
       const originalText = button.textContent.trim();
-
       button.textContent = 'Bilan copié !';
-
       window.setTimeout(() => {
         button.textContent = originalText;
       }, 2000);
@@ -240,31 +214,25 @@ const getInterpretation = (score, type) => {
       console.error('Erreur lors de la copie du bilan :', error);
     }
   };
-
   document.querySelectorAll('#score-clinique-ep input[type="checkbox"]')
     .forEach(checkbox => {
       checkbox.addEventListener('change', calculateScores);
     });
-
   copyWellsBtn.addEventListener('click', () => {
     copyAssessment(wellsPanel, scoreElem, textElem, 'wells');
   });
-
   copyGeneveBtn.addEventListener('click', () => {
     copyAssessment(genevePanel, scoreGeneve, textGeneve, 'geneve');
   });
-
   panels.forEach(panel => {
     panel.addEventListener('click', () => {
       document.querySelectorAll('#score-clinique-ep input[type="checkbox"]')
         .forEach(checkbox => {
           checkbox.checked = false;
         });
-
       calculateScores();
     });
   });
-
   calculateScores();
 });
 </script>

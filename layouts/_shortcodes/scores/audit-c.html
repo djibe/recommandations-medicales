@@ -62,31 +62,24 @@
 <blockquote class="blockquote">
   <p lang="en"><a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1530-0277.2007.00403.x" rel="external nofollow noopener">Bradley KA et al. auditc-C as a brief screen for alcohol misuse in primary care. Alcohol Clin Exp Res. 2007.</a></p>
 </blockquote>
-{{ $script := `
-  // Score AUDIT-C by djibe
+<script>// SCORE AUDIT by djibe
 document.addEventListener('DOMContentLoaded', () => {
   const scoreAuditc = document.getElementById('auditcScore');
   const textAuditc = document.getElementById('auditcText');
   const container = document.getElementById('score-auditc');
-
   const calcAuditc = () => {
     const elemsChecked = container.querySelectorAll('input[type="radio"]:checked');
     const sexe = document.querySelector('input[name="auditc-sexe"]:checked');
-
     if (elemsChecked.length < 4) {
       scoreAuditc.textContent = '-';
       textAuditc.textContent = 'Veuillez répondre à toutes les questions';
       return;
     }
-
     let score = 0;
     elemsChecked.forEach(elem => score += parseInt(elem.value, 10) || 0);
-
     scoreAuditc.textContent = score;
-
     const isHomme = sexe && sexe.id === 'auditc-homme';
     const isFemme = sexe && sexe.id === 'auditc-femme';
-
     if (score >= 10) {
       textAuditc.innerHTML = '<strong>Dépendance probable</strong><br>Proposer une consultation d’addictologie';
     } else if ((isHomme && score >= 4) || (isFemme && score >= 3)) {
@@ -95,11 +88,10 @@ document.addEventListener('DOMContentLoaded', () => {
       textAuditc.innerHTML = '<strong>Risque faible ou nul de mésusage</strong><br>Renforcement des conduites favorables à la santé';
     }
   };
-
   container.addEventListener('change', event => {
     if (event.target.matches('input[type="radio"]')) {
       calcAuditc();
     }
   });
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

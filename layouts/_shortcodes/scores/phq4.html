@@ -58,37 +58,29 @@
 <blockquote class="blockquote my-4">
   <p class="mb-0"><a href="https://pubmed.ncbi.nlm.nih.gov/19616305/" rel="external nofollow noopener">Löwe B, Wahl I, Rose M, et al. A 4-item measure of depression and anxiety: validation and standardization of the Patient Health Questionnaire-4 (PHQ-4) in the general population. J Affect Disord. 2010;122(1-2):86-95. doi:10.1016/j.jad.2009.06.019</a></p>
 </blockquote>
-{{ $script := `
-  // Questionnaire PHQ-4 by djibe
- window.addEventListener('DOMContentLoaded', () => {
+<script>// Questionnaire PHQ-4 by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scorephq4 = document.getElementById('phq4Score');
   const textphq4 = document.getElementById('phq4Text');
   const container = document.getElementById('score-phq4');
-
   const calcphq4 = () => {
     const checkedElems = container.querySelectorAll('input[type="radio"]:checked');
     if (checkedElems.length !== 4) return;
-
     let score = 0;
     let anxietyValue = 0;
     let depressionValue = 0;
-
     checkedElems.forEach(elem => {
       const val = parseInt(elem.value, 10) || 0;
       score += val;
-
       if (elem.name === 'radio-anxiety-1' || elem.name === 'radio-anxiety-2') {
         anxietyValue += val;
       } else if (elem.name === 'radio-depression-1' || elem.name === 'radio-depression-2') {
         depressionValue += val;
       }
     });
-
     let anxietyText = anxietyValue >= 3 ? '<br>Anxiété probable' : '';
     let depressionText = depressionValue >= 3 ? '<br>Dépression probable' : '';
-
     scorephq4.textContent = score;
-
     let severityText = '';
     if (score <= 2) {
       severityText = 'Pas de détresse psychologique';
@@ -101,14 +93,12 @@
     } else {
       severityText = '<strong>Détresse psychologique grave</strong>';
     }
-
     textphq4.innerHTML = severityText + anxietyText + depressionText;
   };
-
   container.addEventListener('change', event => {
     if (event.target.matches('input[type="radio"]')) {
       calcphq4();
     }
   });
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>

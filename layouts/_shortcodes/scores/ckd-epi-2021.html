@@ -36,7 +36,7 @@
     Inker LA, Eneanya ND, Coresh J, et al. New Creatinine- and Cystatin C-Based Equations to Estimate GFR without Race. N Engl J Med. 2021;385(19):1737-1749. doi:10.1056/NEJMoa2102953
     </a></p>
 </blockquote>
-{{ $script := `
+<script>
   // Outil de calcul du DFG CKD-EPI 2021 by djibe
 // Formula ref: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8822996/
 document.addEventListener('DOMContentLoaded', () => {
@@ -83,5 +83,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
   container.addEventListener('input', calcGFR);
   container.addEventListener('change', calcGFR);
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

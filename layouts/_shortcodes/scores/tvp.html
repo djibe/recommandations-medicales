@@ -57,11 +57,9 @@
           <label class="custom-control-label" for="wells10">Alternative diagnostique au moins aussi probable que celui de TVP</label>
         </div>
       </div>
-      <div class="alert bg-light d-flex mt-md-4 mb-0">
-        <div class="d-flex flex-column align-items-center justify-content-evenly">
-          <p class="typography-overline score-output-title">Score de Wells</p>
-          <output class="score-output" id="wellsScore">0</output>
-        </div>
+      <div class="alert bg-light d-flex flex-column align-items-center mt-md-4 mb-0">
+        <p class="typography-overline score-output-title">Score de Wells</p>
+        <output class="score-output" id="wellsScore">0</output>
         <p id="wellsText" class="lead m-auto"><strong>Probabilité faible</strong><br>Doser les D-dimères</p>
       </div>
     </div>
@@ -93,11 +91,9 @@
           <label class="custom-control-label" for="constans6">Autre diagnostic au moins aussi plausible</label>
         </div>
       </div>
-      <div class="alert bg-light d-flex mt-md-4 mb-0">
-        <div class="d-flex flex-column align-items-center justify-content-evenly">
-          <p class="typography-overline score-output-title">Score de Constans</p>
-          <output class="score-output" id="constansScore">0</output>
-        </div>
+      <div class="alert bg-light d-flex flex-column align-items-center mt-md-4 mb-0">
+        <p class="typography-overline score-output-title">Score de Constans</p>
+        <output class="score-output" id="constansScore">0</output>
         <p id="constansText" class="lead m-auto"></p>
       </div>
     </div>
@@ -118,19 +114,16 @@
           <label class="custom-control-label" for="left3">Premier trimestre de grossesse</label>
         </div>
       </div>
-      <div class="alert bg-light d-flex mt-md-4 mb-0">
-        <div class="d-flex flex-column align-items-center justify-content-evenly">
-          <p class="typography-overline score-output-title">Score LEFt</p>
-          <output class="score-output" id="leftScore">0</output>
-        </div>
+      <div class="alert bg-light d-flex flex-column align-items-center mt-md-4 mb-0">
+        <p class="typography-overline score-output-title">Score LEFt</p>
+        <output class="score-output" id="leftScore">0</output>
         <p id="leftText" class="lead m-auto"><strong>Probabilité faible</strong><br>Doser les D-dimères</p>
       </div>
     </div>
   </div>
 </div>
-{{ $script := `
-  // Score de Wells modifié/Constans/LEFt by djibe
-  window.addEventListener('DOMContentLoaded', () => {
+<script> // Score de Wells modifié/Constans/LEFt by djibe
+window.addEventListener('DOMContentLoaded', () => {
   const scoreElem = document.getElementById('wellsScore');
   const textElem = document.getElementById('wellsText');
   const scoreConstans = document.getElementById('constansScore');
@@ -139,53 +132,101 @@
   const textLeft = document.getElementById('leftText');
   const checkboxes = document.querySelectorAll('#score-clinique-tvp input[type="checkbox"]');
   const panels = document.querySelectorAll('.nav-tabs .nav-link');
-
+  const copyTvpBtn = document.createElement('button');
   const textDefault = '<strong>Probabilité faible</strong><br>Doser les D-dimères';
   const textFort = '<strong>Probabilité forte</strong><br>Écho-doppler veineux<br>Anticoagulation immédiate';
   const textIntermediaire = '<strong>Probabilité intermédiaire</strong><br>Doser les D-dimères';
-
   const reset = () => {
-    checkboxes.forEach(radio => {
-      radio.checked = false;
-    });
-    scoreElem.textContent = 0;
-    textElem.innerHTML = textDefault;
-    scoreConstans.textContent = 0;
-    textConstans.innerHTML = textDefault;
-    scoreLeft.textContent = 0;
-    textLeft.innerHTML = textDefault;
-  };
-
-  const calculateScore = () => {
-    const checkedElems = document.querySelectorAll('#score-clinique-tvp input[type="checkbox"]:checked');
-
-    const totalScore = Array.from(checkedElems).reduce(
-      (sum, elem) => sum + (parseInt(elem.value, 10) || 0),
-      0
-    );
-
-    scoreElem.textContent = totalScore;
-    textElem.innerHTML = totalScore >= 2 ? textFort : textDefault;
-
-    scoreConstans.textContent = totalScore;
-    if (totalScore >= 3) {
-      textConstans.innerHTML = textFort;
-    } else if (totalScore >= 1) {
-      textConstans.innerHTML = textIntermediaire;
-    } else {
+     checkboxes.forEach(checkbox => {
+        checkbox.checked = false;
+      });
+      scoreElem.textContent = 0;
+      textElem.innerHTML = textDefault;
+      scoreConstans.textContent = 0;
       textConstans.innerHTML = textDefault;
+      scoreLeft.textContent = 0;
+      textLeft.innerHTML = textDefault;
+    };
+    const calculateScore = (prefix) => {
+      const checkedElems = document.querySelectorAll(
+        '#score-clinique-tvp input[type="checkbox"][id^="' + prefix + '"]:checked'
+      );
+      return Array.from(checkedElems).reduce(
+        (sum, elem) => sum + (parseInt(elem.value, 10) || 0),
+        0
+      );
+    };
+const calculateScores = () => {
+  const wellsTotal = calculateScore('wells');
+  scoreElem.textContent = wellsTotal;
+  textElem.innerHTML = wellsTotal >= 2 ? textFort : textDefault;
+  const constansTotal = calculateScore('constans');
+    scoreConstans.textContent = constansTotal;
+      if (constansTotal >= 3) {
+        textConstans.innerHTML = textFort;
+      } else if (constansTotal >= 1) {
+        textConstans.innerHTML = textIntermediaire;
+      } else {
+        textConstans.innerHTML = textDefault;
+      }
+      const leftTotal = calculateScore('left');
+      scoreLeft.textContent = leftTotal;
+      textLeft.innerHTML = leftTotal >= 1 ? textFort : textDefault;
+    };
+  const copyResults = async () => {
+    const activePanel = document.querySelector('#score-clinique-tvp .tab-pane.active');
+    if (!activePanel) return;
+    const scoreTitle = activePanel.querySelector('.score-output-title').textContent.trim();
+    const score = activePanel.querySelector('.score-output').textContent.trim();
+    const interpretation = activePanel.querySelector('.lead').innerText.trim();
+    const selectedCriteria = Array.from(
+      activePanel.querySelectorAll('input[type="checkbox"]:checked')
+    ).map(checkbox => checkbox.labels[0].textContent.trim());
+    const results = [
+      scoreTitle + ' : ' + score,
+      'Interprétation : ' + interpretation,
+      'Critères retenus : ' + (selectedCriteria.join(', ') || 'Aucun')
+    ].join('\n');
+    const button = activePanel.querySelector('#copyTvpBtn') ||
+      document.activeElement;
+    try {
+      await navigator.clipboard.writeText(results);
+      if (button) button.textContent = 'Bilan copié !';
+    } catch (error) {
+      const textarea = document.createElement('textarea');
+      textarea.value = results;
+      textarea.style.position = 'fixed';
+      textarea.style.opacity = '0';
+      document.body.appendChild(textarea);
+      textarea.select();
+      try {
+        const copied = document.execCommand('copy');
+        if (button) {
+          button.textContent = copied ? 'Bilan copié !' : 'Copie impossible';
+        }
+      } finally {
+        textarea.remove();
+      }
     }
-
-    scoreLeft.textContent = totalScore;
-    textLeft.innerHTML = totalScore >= 1 ? textFort : textDefault;
+    window.setTimeout(() => {
+      if (button) button.textContent = 'Copier le bilan';
+    }, 2000);
   };
-
-  checkboxes.forEach(checkbox => {
-    checkbox.addEventListener('change', calculateScore);
+  document.querySelectorAll('#score-clinique-tvp .alert.bg-light').forEach((alert, index) => {
+      const copyTvpBtn = document.createElement('button');
+      copyTvpBtn.type = 'button';
+      copyTvpBtn.id = 'copyTvpBtn' + index;
+      copyTvpBtn.className = 'btn btn-outline-primary m-3';
+      copyTvpBtn.textContent = 'Copier le bilan';
+      alert.append(copyTvpBtn);
+      copyTvpBtn.addEventListener('click', copyResults);
+    });
+    checkboxes.forEach(checkbox => {
+      checkbox.addEventListener('change', calculateScores);
+    });
+    panels.forEach(panel => {
+      panel.addEventListener('click', reset);
+    });
+    copyTvpBtn.addEventListener('click', copyResults);
   });
-
-  panels.forEach(panel => {
-    panel.addEventListener('click', reset);
-  });
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+</script>

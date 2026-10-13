@@ -36,31 +36,23 @@
     Levey AS, Stevens LA, Schmid CH, Zhang YL, Castro AF 3rd, Feldman HI, Kusek JW, Eggers P, Van Lente F, Greene T, Coresh J; CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration). A new equation to estimate glomerular filtration rate. Ann Intern Med. 2009 May 5;150(9):604-12. doi: 10.7326/0003-4819-150-9-200905050-00006. Erratum in: Ann Intern Med. 2011 Sep 20;155(6):408. PMID: 19414839; PMCID: PMC2763564.
     </a></p>
 </blockquote>
-{{ $script := `
-  // Outil de calcul du DFG CKD-EPI 2009 by djibe
-// Formula ref: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8822996/
+<script>// DFG CKD-EPI 2009 by djibe - Formula ref: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8822996/
 document.addEventListener('DOMContentLoaded', () => {
   const ageEl = document.getElementById('gfr-age');
   const creatinineEl = document.getElementById('gfr-creatinine');
   const gfrEl = document.getElementById('input-gfr');
   const container = document.getElementById('form-gfr');
-
   const calcGFR = () => {
     const unitEl = container.querySelector('input[name="gfr-unit"]:checked');
     const sexEl = container.querySelector('input[name="gfr-sex"]:checked');
-
     const ageVal = parseInt(ageEl.value, 10);
     let creatinineVal = parseFloat(creatinineEl.value);
-
     if (!unitEl || !sexEl || isNaN(ageVal) || isNaN(creatinineVal) || ageVal <= 0 || creatinineVal <= 0) {
       gfrEl.value = '';
       return;
     }
-
-    // Convert µmol/L to mg/dL (1 mg/dL = 88.4 µmol/L)
-    const creatinine = unitEl.value === 'mol' ? creatinineVal / 88.4 : creatinineVal / 10;
-
-    let alpha, beta, kappa;
+  const creatinine = unitEl.value === 'mol' ? creatinineVal / 88.4 : creatinineVal / 10; // Convert µmol/L to mg/dL (1 mg/dL = 88.4 µmol/L)
+  let alpha, beta, kappa;
     if (sexEl.value === 'man') {
       alpha = -0.411;
       beta = 1.0;
@@ -70,18 +62,14 @@ document.addEventListener('DOMContentLoaded', () => {
       beta = 1.018;
       kappa = 0.7;
     }
-
     const scrOverKappa = creatinine / kappa;
     const minPart = Math.pow(Math.min(scrOverKappa, 1), alpha);
     const maxPart = Math.pow(Math.max(scrOverKappa, 1), -1.209);
     const agePart = Math.pow(0.9938, ageVal);
-
     const gfr = 141 * minPart * maxPart * agePart * beta;
-
     gfrEl.value = Math.round(gfr);
   };
-
   container.addEventListener('input', calcGFR);
   container.addEventListener('change', calcGFR);
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

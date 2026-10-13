@@ -79,7 +79,7 @@
 <blockquote class="blockquote my-4">
   <p class="mb-0"><a href="" rel="external nofollow noopener"></a></p>
 </blockquote>
-{{ $script := `
+<script>
   // Score FSFI by djibe
  window.addEventListener('DOMContentLoaded', () => {
   const container = document.getElementById('score-fsfi');
@@ -121,5 +121,5 @@
   };
 
   container.addEventListener('change', calculateScore);
-});` }}
-<script type="module">{{ $script | safeJS }}</script>
+});
+</script>

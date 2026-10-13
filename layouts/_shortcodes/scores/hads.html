@@ -168,45 +168,37 @@
   <p class="mb-0"><a href="https://pubmed.ncbi.nlm.nih.gov/6880820/" rel="external nofollow noopener">Zigmond AS, Snaith RP. The hospital anxiety and depression scale. Acta Psychiatr Scand. 1983;67(6):361-370.</a> et
     <a href="https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil__echelle_had.pdf" rel="external nofollow noopener">traduction française JF Lépine</a></p>
 </blockquote>
-{{ $script := `
-  // Score HADS FR by djibe
-  document.addEventListener('DOMContentLoaded', () => {
+<script>// Score HADS FR by djibe
+document.addEventListener('DOMContentLoaded', () => {
   const scoreHad = document.getElementById('hadScore');
   const textHad = document.getElementById('hadText');
   const container = document.getElementById('score-had');
-
   const hadExplain = score => {
     if (score <= 7) return 'absence (' + score + ' pts)';
     if (score <= 10) return 'doute (' + score + ' pts)';
     return 'certaine (' + score + ' pts)';
   };
-
   const calcHad = () => {
     const anxieteElems = container.querySelectorAll('.anxiete:checked');
     const depressionElems = container.querySelectorAll('.depression:checked');
-
     if (anxieteElems.length + depressionElems.length < 14) {
       if (scoreHad) scoreHad.textContent = '0';
       if (textHad) textHad.textContent = 'Veuillez répondre à l’ensemble des 14 questions.';
       return;
     }
-
     let scoreAnxiete = 0;
     anxieteElems.forEach(elem => {
       scoreAnxiete += parseInt(elem.value, 10) || 0;
     });
-
     let scoreDepression = 0;
     depressionElems.forEach(elem => {
       scoreDepression += parseInt(elem.value, 10) || 0;
     });
-
     if (scoreHad) scoreHad.textContent = scoreAnxiete + scoreDepression;
     if (textHad) {
       textHad.innerHTML = 'Anxiété : ' + hadExplain(scoreAnxiete) + '<br>Dépression : ' + hadExplain(scoreDepression);
     }
   };
-
   if (container) {
     container.addEventListener('change', event => {
       if (event.target.matches('input[type="radio"]')) {
@@ -214,5 +206,5 @@
       }
     });
   }
-})` }}
-<script type="module">{{ $script | safeJS }}</script>
+})
+</script>
