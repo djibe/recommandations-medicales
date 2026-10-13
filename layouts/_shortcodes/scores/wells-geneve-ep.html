@@ -45,15 +45,17 @@
           <p class="typography-caption text-black-secondary">Traitement en cours, récent &lt; 6 mois ou palliatif</p>
         </div>
       </fieldset>
-      <div class="alert bg-light d-flex mt-md-4">
-        <div class="d-flex flex-column align-items-center justify-content-evenly">
+      <div class="alert bg-light d-flex justify-content-evenly mt-md-4">
+        <div class="d-flex flex-column align-items-center" justify-content-evenly>
           <p class="typography-overline score-output-title">Score de Wells</p>
           <output class="score-output" id="wellsEpScore">0</output>
         </div>
-        <p id="wellsEpText" class="lead m-auto"><strong>Probabilité clinique faible</strong><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences</p>
-        <button type="button" id="copyWellsBtn" class="btn btn-outline-primary m-3">
-          Copier le bilan
-        </button>
+        <div class="d-flex flex-column">
+          <p id="wellsEpText" class="lead m-auto"><strong>Probabilité clinique faible</strong><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences</p>
+          <button type="button" id="copyWellsBtn" class="btn btn-outline-primary m-3">
+            Copier le bilan
+          </button>
+        </div>
       </div>
     </div>
     <div aria-labelledby="geneve-ep-nav" class="tab-pane fade" id="geneve-ep-tab" role="tabpanel">
@@ -99,15 +101,17 @@
           <label class="custom-control-label" for="geneve-ep-9">Douleur à la palpation veineuse profonde et œdème unilatéral de jambe</label>
         </div>
       </div>
-      <div class="alert bg-light d-flex mt-md-4">
+      <div class="alert bg-light d-flex justify-content-evenly mt-md-4">
         <div class="d-flex flex-column align-items-center justify-content-evenly">
           <p class="typography-overline score-output-title">Score de Genève</p>
           <output class="score-output" id="geneveEpScore">0</output>
         </div>
-        <p id="geneveEpText" class="lead m-auto"><strong>Probabilité clinique faible</strong><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences</p>
-        <button type="button" id="copyGeneveBtn" class="btn btn-outline-primary m-3">
+        <div class="d-flex flex-column">
+          <p id="geneveEpText" class="lead m-auto"><strong>Probabilité clinique faible</strong><br>Infirmer avec la règle PERC<br>ou D-dimères aux Urgences</p>
+          <button type="button" id="copyGeneveBtn" class="btn btn-outline-primary m-3">
           Copier le bilan
         </button>
+        </div>
       </div>
     </div>
   </div>
@@ -145,23 +149,33 @@ window.addEventListener('DOMContentLoaded', () => {
       .reduce((sum, checkbox) => sum + (Number(checkbox.value) || 0), 0);
   };
 
-  const getInterpretation = (score, type) => {
-    let interpretation;
 
-    if (type === 'wells') {
-      interpretation = score > 6 ? textElevee :
-        score >= 2 ? textModeree : textFaible;
-    } else {
-      interpretation = score >= 11 ? textElevee :
-        score >= 4 ? textModeree : textFaible;
+const getInterpretation = (score, type) => {
+  let interpretation = textFaible;
 
-      interpretation += score >= 3
-        ? '<br><br><strong>EP probable</strong> (Genève simplifié)'
-        : '<br><br><strong>EP peu probable</strong> (Genève simplifié)';
+  if (type === 'wells') {
+    if (score > 6) {
+      interpretation = textElevee;
+    } else if (score >= 2) {
+      interpretation = textModeree;
+    }
+  } else {
+    if (score >= 11) {
+      interpretation = textElevee;
+    } else if (score >= 4) {
+      interpretation = textModeree;
     }
 
-    return interpretation;
-  };
+    const epProbability = score >= 3
+      ? 'EP probable'
+      : 'EP peu probable';
+
+    interpretation += '<br><br><strong>' + epProbability + '</strong> (Genève simplifié)';
+  }
+
+  return interpretation;
+};
+
 
   const calculateScores = () => {
     const wellsScore = getScore(wellsPanel);
