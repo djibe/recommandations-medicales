@@ -6,18 +6,18 @@
     loading="lazy"
     controls
     onmouseenter="event.target.setAttribute('preload','metadata')"
-  >{{ with .Get "mp4" }}
+  >{{- with .Get "mp4" -}}
     <source
       src="{{ . }}"
       type="video/mp4"
     >
-    {{ end }}
-    {{ with .Get "webm" }}
+    {{- end -}}
+    {{- with .Get "webm" -}}
     <source
       src="{{ . }}"
       type="video/webm"
     >
-    {{ end }}Votre navigateur ne lit pas les vidéos.
+    {{- end -}}Votre navigateur ne lit pas les vidéos.
   </video>
-  {{ with .Get "description" }}<figcaption class="figure-caption">{{ . }}</figcaption>{{ end }}
+  {{- with .Get "description" }}<figcaption class="figure-caption">{{ . }}</figcaption>{{ end -}}
 </figure>
