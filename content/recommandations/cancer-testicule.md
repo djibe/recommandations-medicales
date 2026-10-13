@@ -182,7 +182,7 @@ graph TB
 {{< youtube id="teL-GFw-IQs" title="Testicular palpation (OSCE Guide)" >}}
 
 - [Nicole D, et al. EAU Guidelines on Testicular Cancer. 2026.](https://uroweb.org/guidelines/testicular-cancer)
-- [Collège Français des Enseignants en Urologie (CFEU). Tumeur du testicule. Item 313. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-313-Tumeur-testicule.pdf)
+- [Collège Français des Enseignants en Urologie (CFEU). Tumeurs du testicule. Référentiel du collège d'urologie 6ème édition. 2024.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-6eme-edition/chapitre-18-item-313-tumeurs-du-testicule/) ([2021 (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-313-Tumeur-testicule.pdf))
 - [HAS, INCa. Cancers du testicule Tumeurs germinales. Guide Affection de longue durée. 2011. (PDF)](https://www.cancer.fr/Media/files/ald-n-30-guide-medecin-mai-2011)
 - [HAS, INCa. Cancer du testicule Tumeurs germinales. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_1061933/fr/ald-n-30-cancer-du-testicule)
 

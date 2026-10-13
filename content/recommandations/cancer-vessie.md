@@ -162,7 +162,7 @@ La cystectomie totale comprend chez l'homme une cystoprostatectomie et chez la f
 - [Gontero P, et al. EAU Guidelines on Non-muscle-invasive Bladder Cancer (TaT1 and CIS). 2026.](https://uroweb.org/guidelines/non-muscle-invasive-bladder-cancer)
 - [Witjes JA, et al. EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer. 2026.](https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer)
 - {{< references/beh-cancers-incidence >}}
-- [Collège Français des Enseignants en Urologie (CFEU). Tumeurs vésicales. Item 314. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-314-Tumeurs-de-vessie.pdf)
+- [Collège Français des Enseignants en Urologie (CFEU). Tumeurs vésicales. Référentiel du collège d'urologie 6ème édition. 2024.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-6eme-edition/chapitre-19-item-314-tumeurs-vesicales/) ([2021 (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-314-Tumeurs-de-vessie.pdf))
 - [HAS. Cancer de la vessie. Actes et prestations Affection de longue durée. 2012.](https://www.has-sante.fr/jcms/c_969326/fr/ald-n-30-cancer-de-la-vessie)
 - [HAS, INCa. Cancer de la vessie. Guide Affection longue durée. 2010.](https://www.cancer.fr/catalogue-des-publications/guide-ald-cancer-de-la-vessie)
 

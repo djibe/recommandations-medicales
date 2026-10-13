@@ -126,7 +126,7 @@ graph TB
 {{%sources%}}
 
 - [Ameli. Comprendre la cryptorchidie ou testicule non descendu. 05/12/2025.](https://www.ameli.fr/assure/sante/themes/cryptorchidie-testicule-non-descendu-ectopie-testiculaire/comprendre-cryptorchidie)
-- [Collège Français des Enseignants en Urologie (CFEU). Pathologie génito-scrotale chez le garçon et chez l'homme. Item 50. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-50-Pathologies-genito-scrotale.pdf)
+- [Collège Français des Enseignants en Urologie (CFEU). Pathologie génito-scrotale chez le garçon et chez l'homme. Référentiel du collège d'urologie 6ème édition. 2024.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-6eme-edition/chapitre-5-item-50-pathologie-genitoscrotale-chez-le-garcon-et-chez-lhomme/) ([2021 (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-50-Pathologies-genito-scrotale.pdf))
 - {{< references/college-endocrino >}}
 - [Le Moal J, et al. Variations spatiotemporelles du risque de cryptorchidies opérées en France et hypothèses environnementales. Santé publique France. 2021.](https://www.santepubliquefrance.fr/docs/variations-spatiotemporelles-du-risque-de-cryptorchidies-operees-en-france-et-hypotheses-environnementales)
 - Gueorguieva I, Bouvattier C. Cryptorchidie. Pas à Pas en Pédiatrie. 2017. (révision en cours) (SFP)

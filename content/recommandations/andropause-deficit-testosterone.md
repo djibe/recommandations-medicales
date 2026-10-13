@@ -260,8 +260,8 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Collège Français des Enseignants en Urologie (CFEU). Andropause (syndrome de déficit en testostérone lié à l'âge). Référentiel du collège d'urologie 6ème édition. 2024.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-6eme-edition/chapitre-7-item-124-andropause-syndrome-de-deficit-en-testosterone-lie-a-lage/) ([2021 (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-124-Andropause.pdf))
 - [Burte C, et al; SFMS, AFU. Recommandations pratiques pour la prise en charge du déficit en testostérone. Prog Urol. 2021.](https://www.sciencedirect.com/science/article/pii/S1166708720307430)
-- [Collège Français des Enseignants en Urologie (CFEU). Andropause. Item 124. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-124-Andropause.pdf)
 - {{< references/college-endocrino >}}
 - Prescrire Redaction. Hypogonadismes masculins médicamenteux. Rev Prescrire. 2021.
 

@@ -93,7 +93,7 @@ TR
 | Nycturie prédominante<br>ou isolée | Polyurie nocturne (diurétiques, modification du rythme nycthéméral, [SAOS]({{% relref "syndrome-apnees-obstructives-sommeil.md" %}})), polyurie des 24 heures ([diabète](/tags/diabete/), potomanie) et troubles du sommeil. Agenda mictionnel |
 | Phase de remplissage               | [Tumeur de vessie]({{% relref "cancer-vessie.md" %}}), vessie neurologique centrale, prostatite, calcul ou corps étranger vésical |
 | Mictionnels ou post-mictionnels    | [Cancer de la prostate]({{% relref "cancer-prostate.md" %}}), sténose de l'urètre, maladie du col vésical, hypotonie détrusorienne (+80 ans ou RPM > 300 mL) |
-{caption="Diagnostic différentiel de l'hypertrophie bénigne de la prostate selon le *Collège Français des Enseignants en Urologie (CFEU) 2021*" class="table-wrap"}
+{caption="Diagnostic différentiel de l'hypertrophie bénigne de la prostate selon le *Collège Français des Enseignants en Urologie (CFEU) 2024*" class="table-wrap"}
 
 {{% /collapse %}}
 {{%collapse "Clinique" %}}
@@ -338,13 +338,13 @@ graph TB
 {{%sources%}}
 
 - [Cornu JN, et al. EAU guidelines on management of non-neurogenic male lower urinary tract symptoms (LUTS). 2026.](https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts)
+- [Collège Français des Enseignants en Urologie (CFEU). Hypertrophie bénigne de la prostate. Référentiel du collège d'urologie 6ème édition. 2024.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-6eme-edition/chapitre-10-item-127-hypertrophie-benigne-de-la-prostate/) ([2021 (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-127-Hypertrophie-benigne-de-prostate.pdf))
 - [AFU. Bilans pré-thérapeutiques des troubles mictionnels de l'homme adulte. Recommander les bonnes pratiques. 2023.](https://www.has-sante.fr/jcms/p_3323646/fr/label-bilans-pre-therapeutiques-des-troubles-mictionnels-de-l-homme-adulte-modalites-et-acteurs)
 - Prescrire Redaction. Hypertrophie bénigne de la prostate. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [Franco JVA et al. Serenoa repens for the treatment of lower urinary tract symptoms due to benign prostatic enlargement. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001423.pub4/full/fr)
 - Prescrire Redaction. Traitement de l'hypertrophie bénigne de la prostate. Rev Prescrire. 2023.
 - [Jayaswal A. Quelle est la place des exercices de renforcement des muscles du plancher pelvien dans le traitement de l'incontinence urinaire suite à une prostatectomie ?. Minerva. 2023.](https://minerva-ebp.be/FR/Analysis/824)
 - [ANSM. Finastéride (Propecia, Chibro-Proscar, génériques) : rappel sur les risques de troubles de la fonction sexuelle et de troubles psychiatriques. 15/04/2021.](https://ansm.sante.fr/informations-de-securite/finasteride-propecia-chibro-proscar-generiques-rappel-sur-les-risques-de-troubles-de-la-fonction-sexuelle-et-de-troubles-psychiatriques)
-- [Collège Français des Enseignants en Urologie (CFEU). Hypertrophie bénigne de la prostate. Item 127. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-127-Hypertrophie-benigne-de-prostate.pdf)
 - [Descazeaud A et al. Guide de prise en charge en médecine générale des symptômes du bas appareil urinaire de l'homme liés à une hyperplasie bénigne de la prostate. Prog Urol. 2015.](https://www.sciencedirect.com/science/article/pii/S1166708715000810)
 - [Descazeaud A et al. Bilan initial, suivi et traitement des troubles mictionnels en rapport avec hyperplasie bénigne de prostate : recommandations du CTMH de l'AFU. 2012.](https://www.urofrance.org/recommandation/bilan-initial-suivi-et-traitement-des-troubles-mictionnels-en-rapport-avec-hyperplasie-benigne-de-prostate-recommandations-du-ctmh-de-lafu/)
 - [McConnell JD et al. The long-term effect of doxazosin, finasteride, and combination therapy on the clinical progression of benign prostatic hyperplasia. N Engl J Med. 2003.](https://www.nejm.org/doi/10.1056/NEJMoa030656)

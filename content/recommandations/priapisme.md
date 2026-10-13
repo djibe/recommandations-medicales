@@ -131,7 +131,7 @@ Un œdème résiduel du pénis peut persister après le traitement. Il ne doit p
 
 - Prescrire Redaction. Érections prolongées du pénis et priapismes médicamenteux en bref. Rev Prescrire. 2026.
 - [Salonia A, et al. EAU Guidelines on Sexual and Reproductive Health. 2025.](https://uroweb.org/guidelines/sexual-and-reproductive-health/chapter/priapism)
-- [Collège Français des Enseignants en Urologie (CFEU). Troubles de l'érection. Item 126. Référentiel du collège d'urologie 5ème édition. 2021.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-6eme-edition/chapitre-9-item-126-troubles-de-lerection/)
+- [Collège Français des Enseignants en Urologie (CFEU). Trouble de l'érection. Item 126. Référentiel du collège d'urologie 6ème édition. 2024.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-6eme-edition/chapitre-9-item-126-troubles-de-lerection/) ([2021 (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-126-Troubles-de-lerection.pdf)
 - [Carnicelli D, Akakpo W. Le priapisme : diagnostic et prise en charge. Progrès en Urologie. 2018.](https://www.sciencedirect.com/science/article/pii/S1166708718304597)
 
 {{%/sources%}}

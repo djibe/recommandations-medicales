@@ -246,7 +246,7 @@ graph TB
 
 - [Collège Universitaire des Enseignants de Néphrologie (CUEN). Insuffisance rénale aiguë - Anurie. Item 348. Manuel de néphrologie 11ème édition. 2025.](https://manuel.cuen.fr/accueil-chapitres/)
 - [NICE. Acute kidney injury: prevention, detection and management. NICE guideline. 2024.](https://www.nice.org.uk/guidance/ng148)
-- [Collège Français des Enseignants en Urologie (CFEU). Insuffisance rénale aiguë - Anurie. Item 348. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/item-348-Insuffisance-renale-aigue.pdf)
+- [Collège Français des Enseignants en Urologie (CFEU). Insuffisance rénale aiguë - Anurie. Référentiel du collège d'urologie 6ème édition. 2024.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-6eme-edition/chapitre-21-item-348-insuffisance-renale-aigue-anurie/) ([2021 (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/item-348-Insuffisance-renale-aigue.pdf))
 - [SFR, CIRTACI, SFNDT. Rein et produits de contraste. 2020. (PDF)](https://www.sfndt.org/sites/www.sfndt.org/files/medias/documents/Fiche%20de%20recommandation%20pour%20la%20pratique%20clinique_rein%20et%20produit%20de%20contraste.pdf)
 - [KDIGO. Clinical practice guideline for acute kidney injury. Kidney Inter. 2012.](https://kdigo.org/guidelines/acute-kidney-injury/)
 

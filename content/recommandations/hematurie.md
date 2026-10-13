@@ -38,7 +38,7 @@ Chapitre lié: [cancer de la vessie]({{% relref "cancer-vessie.md" %}})
 {{%collapse "Définition" %}}
 
 Hématurie
-: Présence anormale d'hématies dans les urines. À l'ECBU: ≥ **10 hématies/mm³** ou ≥ 10^4^/mL.
+: Présence anormale d'hématies dans les urines avec à l'ECBU au moins **10 hématies/mm³** (ou ≥ 10^4^/mL).
 : Elle peut être visible à l'œil nu (**hématurie macroscopique**) ou non (**hématurie microscopique**). Elle est d'origine urologique ou néphrologique. L'**hématurie d'effort** est un diagnostic d'élimination.
 : Il n'existe pas de corrélation entre le type d'hématurie et la gravité de la maladie causale.
 
@@ -58,7 +58,7 @@ SFU
 {.dl-inline}
 
 {{% /collapse %}}
-{{%collapse "Étiologie des hématuries" %}}
+{{%collapse "Étiologie" %}}
 
 ### Hématuries d'origine néphrologique
 
@@ -228,7 +228,7 @@ graph TB
 {{%sources%}}
 
 - [Collège Universitaire des Enseignants de Néphrologie (CUEN). Hématurie. Item 260. Manuel de néphrologie 11ème édition. 2025.](https://manuel.cuen.fr/accueil-chapitres/)
-- [Collège Français des Enseignants en Urologie (CFEU). Hématurie. Item 260. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-260-Hematurie.pdf)
+- [Collège Français des Enseignants en Urologie (CFEU). Hématurie. Référentiel du collège d'urologie 6ème édition. 2024.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-6eme-edition/chapitre-13-item-260-hematurie/) ([2021 (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-260-Hematurie.pdf))
 
 ### Bibliographie en attente
 

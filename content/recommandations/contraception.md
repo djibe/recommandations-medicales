@@ -680,7 +680,6 @@ graph TB
 - Ameli Médecin. Des préservatifs sans latex pris en charge par l'Assurance Maladie. 27/03/2025.
 - [ANSM. Progestatifs et risque de méningiome : recommandations pour limiter ce risque. 18/12/2023.](https://ansm.sante.fr/actualites/progestatifs-et-risque-de-meningiome-recommandations-pour-limiter-ce-risque)
 - [ANSM. Les stérilets contenant le plus d'hormone présenteraient davantage de risque de troubles dépressifs. 14/02/2023.](https://ansm.sante.fr/actualites/les-sterilets-contenant-le-plus-dhormone-presenteraient-davantage-de-risque-de-troubles-depressifs)
-- [Collège Français des Enseignants en Urologie (CFEU). Contraception. Item 36. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-36-Contraception-.pdf)
 - {{< references/college-endocrino >}}
 - [HAS. Contraception : consultations initiale et de suivi. 2020.](https://www.has-sante.fr/jcms/p_3122291/fr/contraception-consultations-initiale-et-de-suivi)
 - [HAS. Contraception chez la femme à risque cardiovasculaire. Recommandation de bonne pratique. 2019.](https://www.has-sante.fr/jcms/c_1638478/fr/contraception-chez-la-femme-a-risque-cardiovasculaire)
@@ -695,6 +694,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Collège Français des Enseignants en Urologie (CFEU). Contraception masculine. Référentiel du collège d'urologie 6ème édition. 2024.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-6eme-edition/chapitre-1-item-36-contraception-masculine/) ([2021 (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-36-Contraception-.pdf))
 - [Ovsepyan V, et al. Practical Recommendations for Minimizing Pain and Anxiety with IUD Insertion. J Am Board Fam Med. 2024.](https://www.jabfm.org/content/37/6/1150)
 - [Ciangura C, et al. Clinical Practice Guidelines for Childbearing Female Candidates for Bariatric Surgery, Pregnancy, and Post-partum Management After Bariatric Surgery. OBES SURG. 2019.](https://link.springer.com/article/10.1007/s11695-019-04093-y)
 - [The College of Sexual & Reproductive Healthcare (CoSRH). CoSRH CEU Guidance: Recommended Actions after incorrect Use of Combined Hormonal Contraception (e.g. late or missed pills, ring and patch). 2020.](https://www.cosrh.org/Public/Documents/fsrh-ceu-guidance-recommended-actions-after-incorrect-use.aspx)

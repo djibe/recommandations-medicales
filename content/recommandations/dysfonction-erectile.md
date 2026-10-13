@@ -442,8 +442,8 @@ Explications devant toujours accompagner la prescription d'un traitement sexo-ac
 
 ### Bibliographie en attente
 
-- [Collège Français des Enseignants en Urologie (CFEU). Sexualité normale et ses troubles. Item 50. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-58-Sexualite-normale-et-ses-troubles.pdf)
-- [Collège Français des Enseignants en Urologie (CFEU). Trouble de l'érection. Item 126. Référentiel du collège d'urologie 5ème édition. 2021. (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-126-Troubles-de-lerection.pdf)
+- [Collège Français des Enseignants en Urologie (CFEU). Sexualité normale et ses troubles. Référentiel du collège d'urologie 6ème édition. 2024.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-6eme-edition/chapitre-6-item-58-sexualite-normale-et-ses-troubles/) ([2021 (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-58-Sexualite-normale-et-ses-troubles.pdf))
+- [Collège Français des Enseignants en Urologie (CFEU). Trouble de l'érection. Item 126. Référentiel du collège d'urologie 6ème édition. 2024.](https://www.urofrance.org/lafu-academie/formation-du-college/referentiel-du-college-durologie-6eme-edition/chapitre-9-item-126-troubles-de-lerection/) ([2021 (PDF)](https://www.urofrance.org/wp-content/uploads/2021/11/Item-126-Troubles-de-lerection.pdf)
 - {{< references/college-endocrino >}}
 - [Colson MH, et al; SFHTA. Chemin clinique pour le dépistage et la prise en charge de la dysfonction érectile des hypertendus. 2019.](https://www.sfcardio.fr/publication/chemin-clinique-pour-le-depistage-et-la-prise-en-charge-de-la-dysfonction-erectile-des)
 
