@@ -31,6 +31,8 @@ todo = "flow"
 - D'autres examens peuvent être associés
 - La prise en charge de fausses couches répétées associe mesures hygiéno-diététiques (tabac, alcool, correction d'un surpoids), soutien psychologique et traitements spécifiques (aspirine en cas de SAPL, progestérone vaginale)
 
+Chapitre lié: [fausse couche spontanée]({{% relref "fausse-couche-spontanee-precoce.md" %}})
+
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
