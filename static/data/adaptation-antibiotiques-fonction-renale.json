@@ -560,6 +560,17 @@
       }
     }
   },
+  "Clindamycine": {
+    "PO": {
+      "600 mg/6-8h": {
+        "stage_1": "Pas d’adaptation",
+        "stage_2": "Pas d’adaptation",
+        "stage_3": "Pas d’adaptation",
+        "stage_4": "Pas d’adaptation",
+        "stage_5": "Pas d’adaptation"
+      }
+    }
+  },
   "Pristinamycine": {
     "PO": {
       "1 g/8-12h": {

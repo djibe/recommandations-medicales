@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-04-24T15:04:42+02:00"
 publishdate = "2026-04-24"
-lastmod = "2026-10-05"
+lastmod = "2026-10-18"
 specialites = ["thérapeutique"]
 annees = "2026"
 sources = ["Omedit PDL"]
@@ -25,7 +25,7 @@ todo = "liens > flow > Kanban | design, update 2027"
 
 {{%article-summary%}}
 
-- Les antibiotiques, comme les autres médicaments, doivent être adaptés à la fonction rénale, estimée par le débit de filtration glomérulaire (ou DFG)
+- Les antibiotiques, comme les autres médicaments, doivent être adaptés à la fonction rénale, estimée par le débit de filtration glomérulaire (DFG)
 - Les valeurs disponibles pour les antibiotiques usuels en ville présentées ici ne concernent que l'adulte (non dialysé). Ces données ont été publiées par l'Omedit Pays de la Loire
 - Pour chaque stade de la maladie rénale chronique (MRC) -- dont l'insuffisance rénale sévère ou terminale -- les ajustements de posologie nécessaires sont précisés
 
@@ -44,7 +44,7 @@ todo = "liens > flow > Kanban | design, update 2027"
 <div id="resultats-container">
 <p>Chargement des données en cours...</p>
 </div>
-<script>
+<script defer>
     const jsonUrl = '/data/adaptation-antibiotiques-fonction-renale.json';
     // Formater le nom des stades
     function formaterStade(stadeKey) {
@@ -78,7 +78,8 @@ todo = "liens > flow > Kanban | design, update 2027"
                 // Ignorer les propriétés qui ne sont pas des objets (sécurité)
                 if (typeof voies !== 'object' || voies === null) continue;
                 let antibioHTML = `
-                    <div class="card card-body m-2">
+                    <hr>
+                    <div class="card-body m-2">
                         <h3 class="typography-headline-4">${nomAntibio}</h3>
                 `;
                 // Niveau 2 : Parcourir les voies d'administration (PO, IV, etc.)
@@ -129,7 +130,7 @@ todo = "liens > flow > Kanban | design, update 2027"
     }
     document.addEventListener('DOMContentLoaded', chargerEtAfficherDonnees);
 </script>
-<script>
+<script defer>
         const searchInput = document.getElementById('search-input-atb');
         const container = document.getElementById('resultats-container');
         // We target the parent items of the h3 tags to hide the whole block
