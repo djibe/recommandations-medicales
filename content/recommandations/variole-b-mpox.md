@@ -97,7 +97,7 @@ Personnes à risque de forme grave de variole B (Mpox):
 
 - Immunodéprimés (dont [PVVIH]({{% relref "vih-sida.md" %}}))
 - Grossesse  
-  Risque mort fœtale in utero, fausse couche spontanée, transmission materno-fœtale ou périnatale
+  Risque mort fœtale in utero, [fausse couche spontanée]({{% relref "fausse-couche-spontanee-precoce.md" %}}), transmission materno-fœtale ou périnatale
 - Enfants et adolescents de moins de 18 ans
 
 > -- *HCSP mai 2022*

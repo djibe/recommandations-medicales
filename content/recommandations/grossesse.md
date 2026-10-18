@@ -413,7 +413,7 @@ Il est déconseillé de descendre sous **1600 kcal/j** (même en situation d'[ob
 - ± TSH si symptômes aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et facteurs de risque{{< /modal-btn >}}
 - Rattrapage du frottis cervico-vaginal
 - ± Prélèvement vaginal  
-  Si prématurité, chorioamniotite, fausse couche spontanée.
+  Indiqué en cas d'antécédent de prématurité, chorioamniotite, [fausse couche spontanée]({{% relref "fausse-couche-spontanee-precoce.md" %}}).
 
 #### Ordonnance de la première consultation
 

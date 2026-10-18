@@ -182,6 +182,8 @@ Le traitement médical peut être considéré en l'absence d'infection, d'hémor
 - Antalgie, anti-émétiques
 - Test urinaire de grossesse à 3 semaines (sauf symptômes intercurrents)
 - Information de la patiente
+- Avant la prochaine grossesse: bilan avec TSH, prélèvement vaginal
+- En cas de fausses couches répétées, voir [le chapitre dédié]({{% relref "fausses-couches-repetees.md" %}})
 
 ### Traitement chirurgical de la fausse couche
 

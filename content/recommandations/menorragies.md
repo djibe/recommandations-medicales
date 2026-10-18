@@ -213,7 +213,7 @@ Femme avec ≥ 1 myome de type 2 à 6:
 
 - Traitement médicamenteux ou radiologie interventionnelle (EAU, HIFU) sont aussi possibles
 - Souhait de préservation de la fertilité: myomectomie ou embolisation des artères utérines (fertilité incertaine après embolisation et risque de fausse couche)
-- Hystérectomie envisagée: embolisation des artères utérines aussi possible (meilleure tolérance mais risque de réintervention)
+- Hystérectomie envisagée: embolisation des artères utérines aussi possible (meilleure tolérance mais risque de ré-intervention)
 
 ### Traitement des ménorragies avec adénomyose
 
