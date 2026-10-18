@@ -131,7 +131,7 @@ Indications au traitement antibiotique d'un panaris: immunodépression (diabète
 #### Antibiothérapie du panaris de l'enfant
 
 - ==Pristinamycine (Pyostacine®) 50 mg/kg/j x 2-3/j pendant 7 jours== (couvre le SARM)
-- ou cloxacilline 50 mg/kg/j en 3 prises (max 4g/j) 7 jours
+- ou cloxacilline 50 mg/kg/j en 3 prises (max 4 g/j) 7 jours
 - ou amoxicilline/acide clavulanique 1 dose-kg x 3/j 7 jours (seul traitement **avant 6 ans**)
 
 ### Prise en charge du panaris au stade collecté

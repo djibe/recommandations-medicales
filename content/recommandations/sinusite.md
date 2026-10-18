@@ -277,4 +277,6 @@ graph TB
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Sinusites. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/infectiologie/sinusites)
 - [Collège Français d'ORL & CCF. Infections nasosinusiennes de l'enfant et de l'adulte. Item 145 UE6. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/Item-145-Infections-nasosinusiennes-de-lenfant-et-ladulte.pdf)
 
+Mot-clé: sinsuite
+
 {{%/sources%}}

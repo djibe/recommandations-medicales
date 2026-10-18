@@ -19,6 +19,7 @@ image = true
 imageSrc = "Audiogramme de la presbyacousie avec hypoacousie symétrique prédominant sur les aigus. Sarang, Public domain, via Wikimedia Commons"
 todo = "relecture"
 rank = "ok"
+writing = "false"
 flowchart = true
 +++
 
@@ -139,10 +140,13 @@ Proposer le conseil génétique en cas d'antécédents familiaux et de presbyaco
 {{% /collapse %}}
 {{%collapse "Traitement de la presbyacousie" %}}
 
-Mesures de prise en charge de la presbyacousie:
+> [!INFO]
+> << Ces données probantes justifient la généralisation de la prescription d'appareils auditifs comme prise en charge clinique de première intention chez les personnes sollicitant une aide pour des difficultés auditives. >> -- *Ferguson et al, Cochrane 2026*
+
+Recommandations pour la prise en charge de la presbyacousie:
 
 - Information du patient: retentissement sur l'humeur et les activités ([guide Ameli](https://www.ameli.fr/assure/sante/themes/perte-acuite-auditive/presbyacousie))
-- Audioprothèse bilatérale (stéréophonique)
+- **Audioprothèses bilatérales** (stéréophonique, appareils auditifs)
   - Indications: perte auditive moyenne ou seuil d'intelligibilité dans le silence > 30 dB, dégradation significative de l'intelligibilité dans le bruit
   - Prescription possible par un généraliste formé à l'otologie médicale
   - Suivi otoscopique tous les 3-6 mois (voir [bouchons de cérumen]({{% relref "bouchon-cerumen.md" %}}))
@@ -169,6 +173,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [Ferguson MA, et al. Hearing aids for mild to moderate hearing loss in adults. Cochrane Database of Systematic Reviews. 2026.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012023.pub3/full/fr)
 - [Vanhoof E. La perte auditive et le port d'aides auditives sont-elles associées à la démence chez les personnes âgées ?. Minerva. 2024.](https://minerva-ebp.be/FR/Article/2397)
 - Prescrire Redaction. Pertes d'audition médicamenteuses. Rev Prescrire. 2024.
 - [NICE. Hearing loss in adults: assessment and management. NICE guideline. 2023.](https://www.nice.org.uk/guidance/ng98)
@@ -180,7 +185,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- [Tsai Do BS, et al. Clinical Practice Guideline: Age-Related Hearing Loss. Otolaryngol Head Neck Surg. 2024.](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1002/ohn.750)
+- [Tsai Do BS, et al. Clinical Practice Guideline: Age-Related Hearing Loss. Otolaryngol Head Neck Surg. 2024.](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1002/ohn.750) (AAO-HNSF)
 - [Collège Français d'ORL & CCF. Évaluation clinique et fonctionnelle d'un handicap sensoriel : la surdité. Item 115 UE5. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/Item-115-Evaluation-clinique-et-fonctionnelle-d%e2%80%99un-handicap-sensoriel-la-surdite%cc%81.pdf)
 - [Collège Français d'ORL & CCF. Déficit neurosensoriel chez le sujet âgé : surdité et vertige. Item 127 UE5. 2017. (PDF)](https://campusorl.fr/wp-content/uploads/2017/12/Item-127-De%cc%81ficit-neurosensoriel-chez-le-sujet-a%cc%82ge%cc%81-surdite%cc%81-et-vertige.pdf)
 

@@ -18,6 +18,8 @@ sctid = "414916001"
 icd10 = ["E66", "E66.9"]
 image = true
 imageSrc = "L'obésité par pch.vector / Freepik"
+rank = "false"
+writing = "false"
 todo = "FLI, GPAQ https://www.who.int/fr/publications/m/item/global-physical-activity-questionnaire et https://www.sciencedirect.com/science/article/pii/S2095254616300631, HAS 23 screenshots, obésité et Grossesse HAS 23 p23, relation IMC-mortalité Bray 1985"
 chart = true
 flowchart = true
@@ -354,8 +356,8 @@ L'anneau gastrique est désormais très peu utilisé (complications, ré-interve
 {{% /collapse %}}
 {{%collapse "Traitement de l'obésité de l'adulte" %}}
 
-Les prescriptions médicamenteuses (GLP-1) relèvent exclusivement des spécialistes de l'obésité.
-{.alert .alert-info}
+> [!INFO]
+> Les traitements médicamenteux (AR GLP-1) sans accompagnement entraînent une reprise totale du poids sous 2 ans à leur arrêt (*West et al 2026*).
 
 Un objectif doit être précis, atteignable, progressif, facile à mettre en œuvre, accepté et révisable.
 
@@ -447,6 +449,8 @@ graph TB
 
 {{< youtube id="Uyel7_curVU" title="Que faire face à un patient en situation d'obésité ? (HAS)" >}}
 
+- [Kiesswetter E, et al. Metabolic and bariatric surgery in adults with obesity and diabetes mellitus: a network meta‐analysis. Cochrane Database of Systematic Reviews. 2026.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015622.pub2/full/fr)
+- [West S, et al. Weight regain after cessation of medication for weight management: systematic review and meta-analysis BMJ. 2026.](https://www.bmj.com/content/392/bmj-2025-085304)
 - [ANSM. Analogues du GLP-1 indiqués dans le traitement de l'obésité : l'ANSM fait évoluer leurs conditions de prescription et de délivrance. 20/06/2025.](https://ansm.sante.fr/actualites/analogues-du-glp-1-indiques-dans-le-traitement-de-lobesite-lansm-fait-evoluer-leurs-conditions-de-prescription-et-de-delivrance)
 - [HAS, ANRS. Traitement de la Covid-19. 22/12/2023.](https://www.has-sante.fr/jcms/p_3447571/fr/traitement-de-la-covid-19)
 - [HAS. Guide du parcours de soins : surpoids et obésité de l'adulte. Guide parcours de soins. 2023.](https://www.has-sante.fr/jcms/p_3408871/fr/guide-du-parcours-de-soins-surpoids-et-obesite-de-l-adulte)
@@ -461,8 +465,7 @@ graph TB
 
 ### Bibliographie en attente
 
-- [West S, et al. Weight regain after cessation of medication for weight management: systematic review and meta-analysis BMJ 2026.](https://www.bmj.com/content/392/bmj-2025-085304)
-- [Aron-Wisnewsky J, et al. Prise de position du GCC-CSO sur les traitements médicamenteux de l'obésité (TMO) chez l'adulte et leur accompagnement en pratique. Médecine des Maladies Métaboliques. 2025.](https://www.em-consulte.com/article/1780511/prise-de-position-du-gcc-cso-sur-les-traitements-m) (payant)
+- [Aron-Wisnewsky J, et al. Prise de position du GCC-CSO sur les traitements médicamenteux de l'obésité (TMO) chez l'adulte et leur accompagnement en pratique. Médecine des Maladies Métaboliques. 2025.](https://www.em-consulte.com/article/1780511/prise-de-position-du-gcc-cso-sur-les-traitements-m) (payant, [version gratuite](https://www.cso-fc.fr/content/uploads/2025/12/article-prise-de-position-du-gcc-sur-les-tmo.pdf))
 - [Paccou J, et al. Recommandations françaises en matière de prévention et de traitement de l'ostéoporose secondaire à la chirurgie bariatrique. Revue du Rhumatisme. 2022. (PDF)](https://www.grio.org/documents/page246/9-reco-op-bariatrique.pdf)
 - [Ciangura C, et al. Clinical Practice Guidelines for Childbearing Female Candidates for Bariatric Surgery, Pregnancy, and Post-partum Management After Bariatric Surgery. OBES SURG. 2019.](https://link.springer.com/article/10.1007/s11695-019-04093-y)
 - [Matta J, et al. Prévalence du surpoids, de l'obésité et des facteurs de risque cardio-métaboliques dans la cohorte Constances. Bull Epidémiol Hebd. 2016.](http://beh.santepubliquefrance.fr/beh/2016/35-36/2016_35-36_5.html)

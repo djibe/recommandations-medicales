@@ -372,7 +372,7 @@ Injonctions paradoxales pour le généraliste pour le recours à la cigarette é
 - << L'efficacité du vapotage dans le cadre du sevrage tabagique reste controversée. >> -- *GOLD 2026*
 - << Les connaissances fondées sur les preuves sont insuffisantes pour proposer les SEDEN comme aides au sevrage tabagique dans la prise en charge des fumeurs par les professionnels de santé >> -- *HCSP 2022*
 - << La cigarette électronique peut être considérée comme une aide au sevrage tabagique (*Collège*) >>
-- << les CE [cigarettes électroniques] avec nicotine aident plus de personnes à arrêter de fumer que les TSN. Les CE avec nicotine aident probablement plus de personnes à arrêter de fumer que les CE sans nicotine, mais d'autres études sont encore nécessaires pour le confirmer. >> -- *Cochrane 2022*
+- << Des données probantes d'un niveau de confiance élevé indiquent que les cigarettes électroniques (CE) avec nicotine augmentent les taux d'abstinence par rapport aux traitements de substitution nicotiniques (TSN), et des données probantes d'un niveau de confiance modéré indiquent qu'elles augmentent probablement les taux d'abstinence par rapport aux CE sans nicotine. >> -- *Cochrane 2026*
 {{%/info%}}
 
 Synthèse des 13 recommandations du *Haut Conseil de la Santé Publique* pour la prise en charge par cigarette électronique (SEDEN) du sevrage tabagique (les 5 premières nous concernent):
@@ -460,7 +460,7 @@ graph TB
 {{%sources%}}
 
 - [Observatoire français des drogues et des tendances addictives (OFDT). Tabagisme et arrêt du tabac en 2025. 2026.](https://www.ofdt.fr/actualite/tabagisme-et-arret-du-tabac-en-2025-2683)
-- [Lindson N, et al. Electronic cigarettes for smoking cessation. Cochrane Database of Systematic Reviews. 2025.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010216.pub9/full/fr)
+- [Lindson N, et al. Electronic cigarettes for smoking cessation. Cochrane Database of Systematic Reviews. 2026.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010216.pub11/full/fr)
 - [Santé Publique France. Tabagisme en France : 68 000 décès évitables en 2023, une baisse encourageante mais un fardeau toujours trop important. 16/02/2026.](https://www.santepubliquefrance.fr/presse/2026/tabagisme-en-france-68-000-deces-evitables-en-2023-une-baisse-encourageante-mais-un-fardeau-toujours-trop-important)
 - [INCa. Panorama des cancers en France 2025, édition spéciale 20 ans. 2025.](https://www.cancer.fr/catalogue-des-publications/panorama-des-cancers-en-france-2025-edition-speciale-20-ans)
 - [Theodoulou A, et al. Different doses, durations and modes of delivery of nicotine replacement therapy for smoking cessation. Cochrane Database of Systematic Reviews. 2023.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013308.pub2/full/fr)
