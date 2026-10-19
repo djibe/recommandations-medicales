@@ -7,7 +7,7 @@ synonyms = ["Influenza"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-08-23T10:34:41+02:00"
 publishdate = "2020-08-23"
-lastmod = "2026-09-14"
+lastmod = "2026-10-19"
 specialites = ["infectiologie", "pneumologie"]
 annees = "2026"
 sources = ["MinSanté", "HAS"]
@@ -17,6 +17,8 @@ sctid = "6142004"
 icd10 = ["J09", "J10", "J11"]
 image = true
 imageSrc = "Particules de virus grippal H1N1 en microscopie électronique: les protéines de surface sont en noir. NIAID, CC BY 2.0 via Wikimedia Commons"
+rank = "false"
+writing = "false"
 todo = "SEO, flowchart, grippe grossesse | Autres stats: Odisse"
 flowchart = true
 chart = true
@@ -25,7 +27,7 @@ chart = true
 {{%article-summary%}}
 
 - La grippe est une maladie infectieuse respiratoire fréquente, très contagieuse, interhumaine stricte, due au virus à ARN *Myxovirus influenzae*
-- Prévention des formes graves de la grippe par la vaccination annuelle des personnes à risque (+65 ans, grossesse, ...) à partir de mi-octobre (en métropole)
+- Prévention des formes graves de la grippe par la vaccination annuelle des personnes à risque (+65 ans, grossesse, diabète, maladie respiratoire, cardiovasculaire ...) à partir de mi-octobre (en métropole)
 - Le vaccin ne donne pas de syndrome grippal puisqu'il ne contient que quelques protéines de surface virales
 - Le rappel antigrippal est couplé à la vaccination Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*)
 - L'antiviral oseltamivir n'est pas remboursé, faute d'efficacité suffisante
@@ -33,6 +35,13 @@ chart = true
 {{%/article-summary%}}
 
 {{< widgets/grippe >}}
+
+| Âge | ALD | Sans ALD |
+| --- | --- | --- |
+| +11 ans à risque | [610d-ALD](/print/610d-ALD.pdf) | [610d](/print/610d.pdf) |
+| 6 mois - 10 ans à risque | [610e-ALD](/print/610e-ALD.pdf) | [610e](/print/610e.pdf) |
+| 2-17 ans sans comorbidité* | NC | [610f](/print/610f.pdf) |
+{caption="Bons de prise en charge pour le vaccin anti-grippal adaptés selon l'âge et le statut ALD. (* remb. à 65 %)"}
 
 {{%collapse "Définitions" %}}
 
@@ -78,7 +87,7 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
   - [Asthme]({{% relref "asthme.md" %}}), [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}), emphysème, dilatation des bronches
   - Mucoviscidose, silicose
 - Maladie cardiovasculaire  
-  Cardiopathies congénitale, insuffisance cardiaque, valvulopathie grave, trouble du rythme cardiaque avec traitement, coronaropathie, [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), IDM, [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) (SFMV 2020)
+  Cardiopathies congénitale, insuffisance cardiaque, valvulopathie grave, trouble du rythme cardiaque avec traitement, coronaropathie, [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), IDM, [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) (*SFMV 2020*)
 - Maladies neurologiques et neuromusculaires  
   Formes graves des affections neurologiques et musculaires (dont myopathie, poliomyélite, myasthénie et maladie de Charcot), paraplégies et tétraplégies avec atteinte diaphragmatique.
 - Néphropathies  
@@ -108,6 +117,8 @@ Sujets à risque de forme grave de grippe saisonnière pour qui la vaccination a
 ### Vaccination anti-grippale des enfants
 
 > La vaccination contre la grippe << peut être proposée chaque année à tous les enfants âgés de 2 à 17 ans révolus. >> -- *Calendrier vaccinal*
+
+Elle est remboursée à 65 % en l'absence de comorbidité.
 
 {{% /collapse %}}
 {{%collapse "Diagnostic différentiel" %}}
@@ -150,8 +161,8 @@ Signes et symptômes de la grippe:
 {{% /collapse %}}
 {{%collapse "Vaccins disponibles pour la campagne de vaccination 2026-2027" %}}
 
-Vaccination annuelle en octobre pour les personnes à risque de grippe grave (Bon de prise en charge à 100 % Cerfa n°610e sur *Ameli pro*).
-{.alert .alert-info}
+> [!INFO]
+> Vaccination annuelle en octobre pour les personnes à risque de grippe grave (Bon de prise en charge à 100 % Cerfa n°610x sur *Ameli pro*, voir en haut de page).
 
 Vaccins contre la grippe disponibles en France pour la campagne vaccinale pour les adultes et les enfants:
 
@@ -163,7 +174,7 @@ Vaccins contre la grippe disponibles en France pour la campagne vaccinale pour l
 
 Le vaccin nasal Fluenz Tetra® n'est pas disponible en France.
 
-La campagne de vaccination antigrippale 2026-2027 débutera le 13 octobre (DGS Urgent 2026_12). Elle s'étale chaque année de la mi octobre à février.
+La campagne de vaccination antigrippale 2026-2027 a débuté le 13 octobre (DGS Urgent 2026_12 REPLY). Elle s'étale chaque année de la mi octobre à février.
 
 Pas de délai à respecter entre les vaccins anti-grippaux et anti Covid-19 (*[HAS 27/9/21](https://www.has-sante.fr/jcms/p_3288855/fr/covid-19-et-grippe-la-has-precise-les-conditions-d-une-co-administration-des-vaccins)*).
 
