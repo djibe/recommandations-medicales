@@ -59,7 +59,7 @@ Liste établie par décret [révision 2011-77 (PDF)](https://www.ameli.fr/sites/
   {{< list-item-counter "Déficit immunitaire primitif grave nécessitant un traitement prolongé, infection VIH" >}}
   {{< list-item-counter "Diabète type 1 et 2" >}}
   {{< list-item-counter "Formes graves des affections neurologiques et musculaires (dont myopathie), épilepsie grave" >}}
-  {{< list-item-counter "Hémoglobinopathie, hémolyse chronique constitutionnelle ou acquise sévère" >}}
+  {{< list-item-counter "Hémoglobinopathie (drépanocytose SS ...), hémolyse chronique constitutionnelle ou acquise sévère" >}}
   {{< list-item-counter "Hémophilie et autres affections constitutionnelles de l'hémostase grave" >}}
   {{< list-item-counter "Hypertension artérielle sévère (retirée 27/06/2011)" >}}
   {{< list-item-counter "Maladie coronaire" >}}

@@ -18,9 +18,10 @@ icd10 = ["J03", "J03.9"]
 image = true
 imageSrc = "Angine érythémateuse gauche. Fireflyez76 sur Foter.com / CC BY-ND"
 rank = "ok"
-writing = "ok"
+writing = "false"
 flowchart = true
 modele = true
+todo = "angine de vincent"
 +++
 
 {{%article-summary%}}
@@ -28,6 +29,7 @@ modele = true
 - Une angine est une amygdalite aiguë, toujours virale avant 3 ans (et pour 80 % des cas au-delà)
 - Les symptômes de l'angine ont un début brutal avec douleur pharyngée spontanée, otalgie réflexe, fièvre et amygdalite érythémateuse ou érythémato-pultacée
 - Le test de diagnostic rapide (TDR ou TROD) du streptocoque est systématique devant toute angine érythémateuse ou érythémato-pultacée de 3 à 14 ans et lorsque le score clinique de Mac Isaac est ≥ 2 à partir de 15 ans
+- Avis urgent en cas de suspicion de phlegmon ou d'abcès (trismus, hyperalgie ...)
 - La prise en charge de l'angine streptococcique par traitement antibiotique (TDR positif) comprend:
   - Éviction scolaire les 48 premières heures suivant l'instauration de l'antibiothérapie (*CMIT 2023*)
   - Adulte: amoxicilline 1g 2 fois par jour pendant 6 jours
@@ -53,7 +55,7 @@ Les complications sont locales voire générales:
 
 - Phlegmon péri-amygdalien
 - Abcès rétro-pharyngé
-- Adénophlegmon cervical (ou Adénite cervicale suppurative)
+- Adénophlegmon cervical (ou adénite cervicale suppurative)
 - Cellulite cervicale
 - Complications générales
   - [Psoriasis en goutte]({{% relref "psoriasis.md" %}})
@@ -123,7 +125,7 @@ Autres formes cliniques d'angine:
   - Diphtérie: urgence thérapeutique. Voyage en Europe de l'Est ou en développement, absence de vaccination, fausses membranes extensives
 - Angine gonococcique
 - Angine ulcéreuse ou ulcéro-nécrotique: angine de Vincent, syphilis, hémopathie
-  - Angine de Vincent: haleine fétide, ulcération unilatérale profonde avec membranes grisâtres non adhérentes
+  - **Angine de Vincent:** mauvais état dentaire, **haleine fétide**, ulcération unilatérale profonde avec membranes grisâtres non adhérentes
   - Caractère traînant, rebelle: éliminer agranulocytose, hémopathie/cancer par une NFS
   - [Chancre syphilitique]({{% relref "syphilis.md" %}})
 
@@ -160,7 +162,7 @@ La sensibilité du TDR chez l'enfant est de 85%.
 {{% /collapse %}}
 {{%collapse "Traitement de l'angine" %}}
 
-La prise en charge de l'angine associe:
+Recommandations pour la prise en charge de l'angine:
 
 - Angine streptococcique: éviction scolaire les 48 premières heures suivant l'instauration de l'antibiothérapie
 - Antalgique, antipyrétique  
@@ -174,7 +176,7 @@ La prise en charge de l'angine associe:
 
 ### Angine érythémateuse ou érythématopultacée et antibiothérapie
 
-Une angine streptococcique est le plus souvent favorable en 3-4 jours.
+Une angine streptococcique est le plus souvent favorable en 3 à 4 jours.
 
 **Seule indication à une prise en charge de l'angine par antibiotique:** angine chez les +3 ans avec TDR positif. Le *CNGE* ne préconise une antibiothérapie qu'en cas de scarlatine ou de symptômes intenses.
 

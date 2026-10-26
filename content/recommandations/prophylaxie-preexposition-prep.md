@@ -18,12 +18,12 @@ english = ["Treatment as Prevention (TasP)"]
 sctid = "1287783000"
 icd10 = ["Z71.7"]
 atc = "J05AR03"
-flowchart = true
 image = true
 imageSrc = "Illustration de la Prophylaxie pré-exposition (PrEP). pikisuperstar / Freepik"
 rank = "ok"
 writing = "ok"
-todo = "flowchart; gitgraph: Continu femme, Schéma continu homme, Schéma discontinu homme; https://mermaid.js.org/syntax/timeline.html"
+todo = "gitgraph: Continu femme, Schéma continu homme, Schéma discontinu homme; https://mermaid.js.org/syntax/timeline.html; Cores + global que COREVIH (4 territoires en IDF); Victoria MANDA (Infectio St Louis) - Flavien LORHO - David LEOPOLD"
+flowchart = true
 +++
 
 {{%article-summary%}}
@@ -357,5 +357,9 @@ gitGraph
 - [CNS. Avis sur la place de la PrEP dans la prévention du VIH en France : changer de paradigme, changer d'échelle. 2021.](https://cns.sante.fr/rapports-et-avis/prevention/avis-prep-2021)
 - [Janier M et al. 2020 European guideline on the management of syphilis. J Eur Acad Dermatol Venereol. 2021.](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16946)
 - [AIDES. La PrEP](https://www.aides.org/prep)
+
+### Bibliographie en attente
+
+- Position SFLS
 
 {{%/sources%}}
