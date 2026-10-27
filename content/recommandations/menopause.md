@@ -172,8 +172,8 @@ Diagnostics à évoquer devant des sueurs et des cycles irréguliers:
 
 Évaluer les symptômes de la ménopause, la qualité de vie, le risque cardiovasculaire, fracturaire et oncologique de la patiente.
 
-- Antécédents  
-  Cardiovasculaires, fracturaires, chirurgicaux.
+- Antécédents: cardiovasculaires, fracturaires, chirurgicaux
+- Antécédents familiaux: cancers
 - Facteurs de risque cardiovasculaire  
   +60 ans, ancienneté de la ménopause (dernières règles), antécédent de prééclampsie ou diabète gestationnel.
 - Poids, taille, IMC, pression artérielle aux 2 bras, pouls périphériques
@@ -188,8 +188,8 @@ Diagnostics à évoquer devant des sueurs et des cycles irréguliers:
 - Toxiques  
   Alcool, tabac, autres.
 - Suivi des dépistages organisés des cancers
-- Palpation des seins
-- Examen gynécologique complet
+- **Palpation des seins**
+- **Examen gynécologique complet**
 - **Syndrome climatérique:**
   - Bouffées vasomotrices (BVM, 80 %)  
     Elles durent 5 à 7 ans (voire +15 ans).
@@ -318,7 +318,7 @@ Le reste du bilan est réalisé par l'endocrinologue.
 - Antécédent d'[infarctus du myocarde]({{% relref "syndrome-coronarien-aigu.md" %}}) ou d'[AVC ischémique]({{% relref "accident-vasculaire-cerebral.md" %}})
 - [Maladie d'Alzheimer]({{% relref "maladie-alzheimer.md" %}})
 - Contre-indication relative
-  - Syndrome douloureux mammaire
+  - [Syndrome douloureux mammaire]({{% relref "syndrome-douloureux-mammaire.md" %}})
 - Contre-indications temporaires
   - Exploration de masse mammaire
   - Exploration de saignements utérins anormaux
@@ -534,13 +534,12 @@ Ex: Estradiol patch 25 µg/j (Dermestril ou autre) 1 patch tous les 3-4 jours (s
 | Estradiol patch     | Estradiol                  | Dermestril (-Septem), Estrapatch, Femsept, Oesclim, Thais (-sept), Vivelledot |25, 37,5, 40, 50, 60, 75, 100 µg/24h |
 | Estradiol gel       | Estradiol                  | Estreva, Oestrodose                                                           |                        0,1 %, 0,6 % |
 | Progestatif         | Dydrogestérone             | Duphaston                                                                     |                               10 mg |
-|                     | Médrogestone (à éviter)    | Colprone                                                                      |                                5 mg |
 |                     | Progestérone               | Progesterone                                                                  |                         100, 200 mg |
 | Progestatif oral/vaginal | Progestérone          | Utrogestan                                                                    |                         100, 200 mg |
 | Association         | Estradiol + lévonorgestrel | Femseptevo                                                                    |                         50/7 µg/24h |
-{caption="Traitements hormonaux de la ménopause (THM) recommandés par le CNGOF disponibles seuls ou en association en France en 2026. Dr JB Fron d'après *BDPM*" class="table-wrap"}
+{caption="Traitements hormonaux de la ménopause (THM) recommandés par les HAS et CNGOF disponibles seuls ou en association en France en 2026. Dr JB Fron d'après *BDPM*" class="table-wrap"}
 
-Pour l'insuffisance ovarienne prématurée, viser au moins 100 µg d'estradiol transdermique (*ESHRE 2024*).
+Pour l'[insuffisance ovarienne prématurée]({{% relref "insuffisance-ovarienne-prematuree.md" %}}), viser au moins 100 µg d'estradiol transdermique (*ESHRE 2024*).
 
 **NB.** Risque de décollement des patchs en cas de sueurs profuses.
 
@@ -619,6 +618,7 @@ Le traitement hormonal de la ménopause (THM):
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Réévaluation des spécialités indiquées dans le traitement hormonal de la ménopause (estradiol, estriol, tibolone, acétate de cyprotérone, dydrogestérone, lévonorgestrel, médrogestone, médroxyprogestérone, acétate de noréthistérone, progestérone). 2025.](https://www.has-sante.fr/jcms/p_3689712/fr/reevaluation-des-specialites-indiquees-dans-le-traitement-hormonal-de-la-menopause-estradiol-estriol-tibolone-acetate-de-cyproterone-dydrogesterone-levonorgestrel-medrogestone-medroxyprogesterone-acetate-de-norethisterone-progesterone)
 - [ANSM. Progestatifs et risque de méningiome : recommandations pour limiter ce risque. 18/12/2023.](https://ansm.sante.fr/actualites/progestatifs-et-risque-de-meningiome-recommandations-pour-limiter-ce-risque)
 - Prescrire Redaction. Troubles liés à la ménopause. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [US Preventive Services Task Force. Hormone Therapy for the Primary Prevention of Chronic Conditions in Postmenopausal Persons: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2797867)
@@ -629,11 +629,11 @@ Le traitement hormonal de la ménopause (THM):
 
 ### Bibliographie en attente
 
-- [HAS. Réévaluation des spécialités indiquées dans le traitement hormonal de la ménopause (estradiol, estriol, tibolone, acétate de cyprotérone, dydrogestérone, lévonorgestrel, médrogestone, médroxyprogestérone, acétate de noréthistérone, progestérone). 2025.](https://www.has-sante.fr/jcms/p_3689712/fr/reevaluation-des-specialites-indiquees-dans-le-traitement-hormonal-de-la-menopause-estradiol-estriol-tibolone-acetate-de-cyproterone-dydrogesterone-levonorgestrel-medrogestone-medroxyprogesterone-acetate-de-norethisterone-progesterone)
+- [Qaseem A, et al. Pharmacologic Treatments for Females With Menopausal Vasomotor Symptoms: A Clinical Guideline From the American College of Physicians. Ann Intern Med. 2026.](https://www.acpjournals.org/doi/10.7326/ANNALS-26-01205) (payant)
+- [NICE. Menopause: identification and management. NICE guideline. 2026.](https://www.nice.org.uk/guidance/ng23/chapter/Recommendations)
 - [Lumsden MA, et al. European society of endocrinology clinical practice guideline for evaluation and management of menopause and the perimenopause. Eur J Endocrinol. 2025.](https://academic.oup.com/ejendo/article-abstract/193/4/G49/8281862)
 - [Huang AJ, et al. Nonhormonal Treatment of Menopausal Vasomotor Symptoms. JAMA Intern Med. 2025.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2833235) (payant)
-- [NICE. Menopause: identification and management. NICE guideline. 2024.](https://www.nice.org.uk/guidance/ng23/chapter/Recommendations)
-- [Crandall CJ, et al. Management of Menopausal Symptoms: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2801054)
+- [Crandall CJ, et al. Management of Menopausal Symptoms: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2801054) (payant)
 - [Hocke C, et al. Syndrome génito-urinaire de la ménopause (SGUM). RPC les femmes ménopausées du CNGOF et du GEMVi. Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000775)
 - [ACOG. Treatment of Urogenital Symptoms in Individuals With a History of Estrogen-dependent Breast Cancer. 2021.](https://www.acog.org/clinical/clinical-guidance/clinical-Consensus/articles/2021/12/Treatment-of-Urogenital-Symptoms-in-Individuals-With-a-History-of-Estrogen-dependent-Breast-Cancer)
 - {{< references/college-endocrino >}}

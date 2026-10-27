@@ -218,7 +218,8 @@ graph TB
 
 ### Bibliographie en attente
 
-[Delcroix M, et al. ERS statement on chronic thromboembolic pulmonary hypertension. European Respiratory Journal. 2021.](https://erj.ersjournals.com/content/57/6/2002828)
+- [Kovacs G, et al. European Respiratory Society clinical practice guidelines update for the treatment of pulmonary arterial hypertension. Eur Respir J. 2026.](https://publications.ersnet.org/content/erj/early/2026/09/03/1399300301178-2026)
+- [Delcroix M, et al. ERS statement on chronic thromboembolic pulmonary hypertension. European Respiratory Journal. 2021.](https://erj.ersjournals.com/content/57/6/2002828)
 
 {{%/sources%}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}

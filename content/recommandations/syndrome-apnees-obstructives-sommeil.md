@@ -573,6 +573,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Testelmans D, et al. ERS/ESRS clinical practice guideline for continuous positive airway pressure for the treatment of adult obstructive sleep apnoea. Eur Respir J. 2026.](https://publications.ersnet.org/content/erj/early/2026/10/01/1399300301186-2026)
 - [Barateau L, et al. Guidelines for the assessment and management of residual sleepiness in obstructive apnea-hypopnea syndrome: Endorsed by the French Sleep Research and Medicine Society (SFRMS) and the French Speaking Society of Respiratory Diseases (SPLF). Respir Med Res. 2024.](https://www.sciencedirect.com/science/article/abs/pii/S2590041224000217)
 - [Collège des Enseignants de Pneumologie (CEP). Troubles du sommeil. Item 110. 2023.](https://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/)
 - [Collège National des Pédiatres Universitaires (CNPU), Collège National Hospitalier et Universitaire de Chirurgie Pédiatrique (CNHUCP). Troubles du sommeil - SAOS. Pédiatrie Réussir son DFASM. 2021.](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/pneumologie-cardiologie/troubles-du-sommeil-saos)

@@ -181,6 +181,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Serefoglu EC, et al. Contemporary consensus and emerging directions in premature and delayed ejaculation: recommendations from the 5th International Consultation on Sexual Medicine. Sex Med Rev. 2026.](https://academic.oup.com/smr/article/14/4/qeag068/8899272)
 - [Boulenger de Hauteclocque A. Éjaculation prématurée : le point sur les recommandations. Progrès en Urologie - FMC. 2025.](https://www.sciencedirect.com/science/article/abs/pii/S1761676X2500094X) (payant)
 - [Romano L, et al. Comparison of Current International Guidelines on Premature Ejaculation: 2024 Update. Diagnostics (Basel). 2024.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11353472/)
 
