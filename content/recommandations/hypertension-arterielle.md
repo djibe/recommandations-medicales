@@ -37,7 +37,7 @@ flowchart = true
 - Objectif d'un seul comprimé antihypertenseur combiné (<< polypill >>) et informer sur les conséquences d'une hypertension non traitée ([accidents cardiovasculaires](/tags/risque-cardiovasculaire/), démence)
 - Bithérapies antihypertensives de référence: {{%modal-btn "modal-iec"%}}IEC + TZD/ICa{{%/modal-btn%}} ou {{%modal-btn "modal-ara2"%}}ARA2 + TZD/ICa{{%/modal-btn%}} (autres: {{%modal-btn "modal-ica"%}}ICa{{%/modal-btn%}}, {{%modal-btn "modal-triple"%}}trithérapies{{%/modal-btn%}})
 
-Chapitres liés: [automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}}), [le carnet d'automesure tensionnelle à imprimer](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf)
+Chapitres liés: [automesure tensionnelle]({{% relref "automesure-tensionnelle.md" %}}), [le carnet d'automesure tensionnelle à imprimer](/print/amt.pdf)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}

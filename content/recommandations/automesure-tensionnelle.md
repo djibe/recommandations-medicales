@@ -25,9 +25,10 @@ writing = "ok"
 
 - L'automesure tensionnelle (AMT) est un relevé de mesures répétées de tension artérielle réalisées de façon standardisée
 - Elle est recommandée pour la confirmation du diagnostic d'hypertension artérielle (HTA) ainsi que pour le suivi de son contrôle
-- La pression artérielle est dite élevée pour des valeurs de 120-134 / 70-84 mmHg et l'hypertension a comme seuil ≥ 135/85 mmHg en automesure
-- [Carnet d'automesure tensionnelle à imprimer](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf)
-- [Liste de tensiomètres électroniques validés pour le domicile]({{% relref "tensiometres-electroniques-valides.md" %}})
+- La pression artérielle est dite élevée pour des valeurs de 120-134 / 70-84 mmHg et l'hypertension a pour seuil diagnostic ≥ 135/85 mmHg en automesure (sauf risque cardiovasculaire élevé)
+- [Carnet d'automesure tensionnelle à imprimer](/print/amt.pdf) (version RecoMédicales)
+
+Chapitre lié: [liste de tensiomètres électroniques validés pour le domicile]({{% relref "tensiometres-electroniques-valides.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
@@ -57,7 +58,7 @@ PAS
 > [!INFO]
 > Le seuil diagnostique de l'hypertension artérielle en automesure tensionnelle est de 135/85 mmHg.
 
-[Carnet d'automesure tensionnelle (PDF)](https://www.stridebp.org/wp-content/uploads/HBPM_Form_for_patients.pdf) et les [appareils validés pour l'automesure tensionnelle]({{% relref "tensiometres-electroniques-valides.md" %}}).
+[Carnet d'automesure tensionnelle par RecoMédicales (PDF FR)](/print/amt.pdf) et les [appareils validés pour l'automesure tensionnelle]({{% relref "tensiometres-electroniques-valides.md" %}}).
 
 L'automesure tensionnelle est nécessaire pour confirmer la persistance de l'[hypertension artérielle]({{% relref "hypertension-arterielle.md" %}}) en vie quotidienne et démasquer une **hypertension masquée**:
 
