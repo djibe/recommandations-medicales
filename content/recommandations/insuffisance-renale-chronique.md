@@ -187,6 +187,8 @@ Le suivi par le néphrologue est recommandé en cas de doute sur la nature de la
 > [!WARNING]
 > Confirmer une albuminurie anormale par un contrôle le matin à jeun.
 
+> Calculer le DFG selon {{< modal-btn modal-ckd-epi >}}CKD-EPI{{< /modal-btn >}}.
+
 Stades de l'insuffisance rénale chronique selon le débit de filtration glomérulaire et de l'albuminurie.
 
 | Stade | DFGe  | Définition                      |
@@ -197,9 +199,7 @@ Stades de l'insuffisance rénale chronique selon le débit de filtration glomér
 |  3B   | 30-44 | IRC modérée                     |
 |   4   | 15-29 | IRC sévère                      |
 |   5   | < 15  | IRC terminale                   |
-{caption="Stades de la maladie rénale chronique et de l'insuffisance rénale chronique selon *KDIGO 2024* (depuis 2012; à partir de 2 ans)"}
-
-> **DFGe =** DFG estimé selon CKD-EPI en mL/min/1,73 m². Ajouter un T au stade quand patient greffé (ex: 4T)
+{caption="Stades de la maladie rénale chronique et de l'insuffisance rénale chronique selon *KDIGO 2024* (depuis 2012; à partir de 2 ans). **DFGe =** DFG estimé selon CKD-EPI en mL/min/1,73 m². Ajouter un T au stade chez le greffé (ex: 4T)"}
 
 | Stade | mg/mmol |   mg/g | mg/24h | Définition                      |
 | ----- | ------: | -----: | -----: | ------------------------------- |
