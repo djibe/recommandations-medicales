@@ -145,12 +145,14 @@ Ulcérations pseudo-membraneuses et vésicules de l'hémilangue.
 
 ### Vaccination contre le zona
 
-> Shingrix 2 injections IM espacées de 2 mois.
+> Shingrix 2 injections IM espacées de 2 mois (au moins 1 an après la dernière poussée).
 {.alert .alert-info}
 
 La vaccination zona est recommandée chez les **+18 ans avec déficit immunitaire ou une immunodépression** et les **+65** immunocompétents (y compris en cas d'antécédents de zona, de Zostavax de +1 an) avec 2 injections à M0-M2.
 
-Le *GOLD 2022* propose aussi de vacciner en cas de [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}).
+La vaccination est possible au moins 1 an après la dernière poussée de zona (HAS 2024).
+
+Le *GOLD* propose aussi de vacciner en cas de [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}}).
 
 En cas de zona, décaler l'injection: << La vaccination doit être différée en cas de maladie aiguë avec fièvre. >> (*Vaccination Info Service*)
 
