@@ -1,6 +1,6 @@
 +++
 id = "0197f50c-f1a2-72f5-93cd-f01c72af9616"
-title = "Automesure tensionnelle"
+title = "Automesure tensionnelle (AMT)"
 prefix = "l'"
 description = "Recommandations pour l'automesure tensionnelle (AMT): mesures standardisées de la pression artérielle pour le diagnostic et le suivi de l'hypertension artérielle"
 synonyms = []
@@ -26,7 +26,7 @@ writing = "ok"
 - L'automesure tensionnelle (AMT) est un relevé de mesures répétées de tension artérielle réalisées de façon standardisée
 - Elle est recommandée pour la confirmation du diagnostic d'hypertension artérielle (HTA) ainsi que pour le suivi de son contrôle
 - La pression artérielle est dite élevée pour des valeurs de 120-134 / 70-84 mmHg et l'hypertension a pour seuil diagnostic ≥ 135/85 mmHg en automesure (sauf risque cardiovasculaire élevé)
-- [Carnet d'automesure tensionnelle à imprimer](/print/amt.pdf) (version RecoMédicales)
+- [Carnet d'automesure tensionnelle à imprimer](/print/amt.pdf)
 
 Chapitre lié: [liste de tensiomètres électroniques validés pour le domicile]({{% relref "tensiometres-electroniques-valides.md" %}})
 

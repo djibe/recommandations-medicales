@@ -1,8 +1,8 @@
 +++
 id = "0190e8c2-50f7-789f-8e68-2f53287f0e58"
-title = "Enthésopathie calcanéenne"
+title = "Enthésopathie calcanéenne (épine calcanéenne)"
 prefix = "l'"
-titleSeo = "Épine calcanéenne"
+titleSeo = "Enthésopathie épine calcanéenne"
 description = "Recommandations pour la prise en charge de l'épine calcanéenne. Radiographies, repos, talonnettes ou semelles orthopédiques voire kinésithérapie"
 synonyms = ["Aponévrosite plantaire", "épine calcanéenne", "fasciite plantaire"]
 auteurs = ["Jean-Baptiste FRON"]
@@ -18,6 +18,8 @@ sctid= "202882003"
 icd10 = ["M72.27"]
 image = true
 imageSrc = "Illustration de l'épine calcanéenne par Injurymap, CC BY 4.0, via Wikimedia Commons"
+rank = "false"
+writing = "false"
 todo = "TODO: aponévrosite plantaire"
 flowchart = true
 +++

@@ -5,7 +5,7 @@ description = "Aide à la cotation des consultations en médecine générale: co
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-01-23T19:15:41+02:00"
 publishdate = "2023-06-06"
-lastmod = "2026-09-16"
+lastmod = "2026-11-02"
 annees = "2026"
 sources = ["Assurance Maladie"]
 tags = []
@@ -82,12 +82,12 @@ Cotations pour la consultation d'un adulte ou d'un enfant à partir de 6 ans.
 | G         | Consultation contraception annuelle avant 26 ans (à 100 % en EXO3)                            |             30 |
 | APC       | Adressé par son MT pour une compétence explicite avec compte-rendu (ex addictologie, nutrition, sport;ne pas revoir à ± 4 mois -- [fiche OMNIPrat](https://omniprat.org/fiches-pratiques/apc/)) | 60 |
 | G + MHP   | Consultation (ou visite ou TLC) non urgente non régulée 20h-8h, dimanche ou jour férié        |         30 + 5 |
-| G + F     | Consultation "urgente" non régulée dimanche et jours fériés                                   |     30 + 19,06 |
-| G + MN    | Consultation "urgente" non régulée 20-24h (appel après 19h) et 6-8h                           |        30 + 35 |
-| G + MM    | Consultation "urgente" non régulée 0-6h                                                       |        30 + 40 |
-| G + CRN   | Consultation régulée 20-24h et 6-8h                                                           |      30 + 42,5 |
-| G + CRM   | Consultation régulée 0-6h                                                                     |      30 + 51,5 |
-| G + CRD   | Consultation régulée dimanche et jours fériés                                                 |      30 + 26,5 |
+| G compl. F | Consultation "urgente" non régulée dimanche et jours fériés (cocher urgence)                 |          49,06 |
+| G compl. N | Consultation "urgente" non régulée 20-24h (appel après 19h) et 6-8 h (cocher urgence)        |             65 |
+| G + MM    | Consultation "urgente" non régulée 0-6h (cocher urgence)                                      |        30 + 40 |
+| G + CRN   | Consultation régulée 20-24 h et 6-8 h (cocher urgence)                                        |      30 + 42,5 |
+| G + CRM   | Consultation régulée 0-6 h (cocher urgence)                                                   |      30 + 51,5 |
+| G + CRD   | Consultation régulée dimanche et jours fériés (cocher urgence)                                |      30 + 26,5 |
 {class="table-wrap" caption="Cotations du médecin généraliste pour la consultation de l'adulte et de l'enfant de plus de 6 ans"}
 
 > A = année ; M = mois

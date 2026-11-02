@@ -326,7 +326,7 @@ Selon l'*ESPGHAN 2024*, l'[allaitement maternel]({{% relref "allaitement.md" %}}
 Recommandations pour la prise en charge de la maladie cœliaque:
 
 - **Régime sans gluten à vie**
-  - Blé, épeautre, froment, orge, seigle (avoine parfois)
+  - Blé, épeautre (et petit épeautre << engrain >>), froment, orge, seigle (avoine parfois)
   - Indications: adulte avec biopsie positive, enfant avec sérologie positive
   - Amélioration des symptômes à partir de 2 semaines d'éviction
   - Les symptômes disparaissent le plus souvent après 4 à 12 mois de traitement
