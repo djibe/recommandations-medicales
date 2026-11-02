@@ -90,6 +90,8 @@ User-agent: GoogleOther-Image
 User-agent: GoogleOther-Video
 User-agent: GPTBot
 User-agent: Grok
+User-agent: GrokAppAndroid
+User-agent: GrokBot
 User-agent: HaloBot
 User-agent: HanaleiBot
 User-agent: HCP Analyzer
@@ -141,6 +143,7 @@ User-agent: ModerneBot
 User-agent: Mozilla-Tabstack
 User-agent: MyCentralAIScraperBot
 User-agent: NagetBot
+User-agent: nbot
 User-agent: netarkivindsamling
 User-agent: netEstate Imprint Crawler
 User-agent: newsai
