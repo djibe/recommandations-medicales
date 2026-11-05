@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-06-27T13:48:14+02:00"
 publishdate = "2023-02-06"
-lastmod = "2026-05-05"
+lastmod = "2026-11-03"
 specialites = ["gynécologie-obstétrique"]
 annees = "2022"
 sources = ["CNGOF", "HAS"]
@@ -208,13 +208,13 @@ const chartOptions3 = {
 | Moment | Clinique | Examen | Traitement |
 | --- | --- | --- | --- |
 | Chaque consultation | PA, poids, signes de grossesse | {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}ECBU{{%/tooltip%}} si ATCD, toxoplasmose si -, {{%tooltip "Jusqu'à 18 SA"%}}rubéole si -{{%/tooltip%}}, TSH si sympt. aspécifiques | Arrêt alcool/tabac et {{%tooltip "lecrat.fr"%}}automédication{{%/tooltip%}}, vaccin grippe et Covid, {{%tooltip "mangerbouger.fr"%}}alimentation{{%/tooltip%}} (listériose ++) |
-| Préconceptionnelle<br>ou 1^re^ consultation (< 10 SA) | ATCD (gynéco, varicelle), toxiques, profession, vaccinations, précarité, maltraitance, DDR, {{%tooltip "Bandelette urinaire: glycosurie et protéinurie"%}}BU{{%/tooltip%}} | NFS, ferritine, {{%tooltip "1re grossesse sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}}, ± {{%tooltip "Si mère RH-1- et terme ≥ 11 SA"%}}Gpe ABO Rh de l'homme{{%/tooltip%}}<br>Sérologies {{%tooltip "Sauf vaccination double dose documentée"%}}rubéole{{%/tooltip%}}, toxoplasmose, VIH, ± syphilis, ± VHC, ± {{%tooltip "AgHBs sans vaccination"%}}Ac anti-HBs{{%/tooltip%}}, ± {{%tooltip "≥ 35 ans, surpoids, ATCD DG/macrosomie ou fam DT2"%}}glycémie{{%/tooltip%}}, TSH si sympt. aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et FDR{{< /modal-btn >}}, ± frottis, ± {{%tooltip "Si prématurité, chorioamniotite, FCS"%}}prélèvement vaginal{{%/tooltip%}}, ± {{%tooltip "Avant 25 ans"%}}PCR Chlamydia{{%/tooltip%}} | {{%tooltip "Jusqu'à 8 SA (HAS 2016), 14 SA (USPTF)"%}}acide folique{{%/tooltip%}} 0,4 mg/j, {{%tooltip "De 11 à 13 SA + 6j"%}}écho T1{{%/tooltip%}} + {{%tooltip "βhCG libre + PAPP-A"%}}dépistage T21{{%/tooltip%}} |
-| 4e mois<br>16-20 SA | {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}BU{{%/tooltip%}} (HAS 2024) | {{%tooltip "Gratuite jusqu'à 6 mois après l'accouchement"%}}Cs dentaire{{%/tooltip%}} ||
-| 5e mois<br>20-24 SA | | {{%tooltip "22 SA (20-25)"%}}Écho T2{{%/tooltip%}} | Vaccin coqueluche |
-| 6e mois<br>24-28 SA | | {{%tooltip "L'USPTF trouve le dépistage inutile si asymptomatique"%}}NFS{{%/tooltip%}}, AgHBs, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}} | ± Rattrapage coqueluche |
-| 7e mois<br>28-32 SA | | {{%tooltip "32 SA (30-35)"%}}Écho T3{{%/tooltip%}} | {{%tooltip "28 SA: si mère RH-1- et fœtus RH-1+"%}}± Rhophylac® 300{{%/tooltip%}} ± Rattrapage coqueluche |
-| 8e mois<br>32-37 SA | | {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, {{%tooltip "Entre 35 et 38 SA"%}}prélèvement vaginal (strepto B){{%/tooltip%}}, chir bariatrique: {{%tooltip "Échographie supplémentaire à 37 SA"%}}écho{{%/tooltip%}} | VitD 100.000 UI, {{%tooltip "Du 14/9 au 28/2, 32 SA ++"%}}Abrysvo{{%/tooltip%}}, ± rattrapage coqueluche, ± {{%tooltip "Herpès génital pdt la gs"%}}valaciclovir{{%/tooltip%}} |
-| 9e mois<br>37-42 SA | | | |
+| Préconceptionnelle<br>ou 1^re^ consultation (< 10 SA) | ATCD (gynéco, varicelle), toxiques, profession, vaccinations, précarité, maltraitance, DDR, {{%tooltip "Bandelette urinaire: glycosurie et protéinurie"%}}BU{{%/tooltip%}} | NFS, ferritine, {{%tooltip "1re grossesse sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}}, ± {{%tooltip "Si mère RH-1- et terme ≥ 11 SA"%}}Gpe ABO Rh de l'homme{{%/tooltip%}}<br>Sérologies {{%tooltip "Sauf vaccination double dose documentée"%}}rubéole{{%/tooltip%}}, toxoplasmose, {{%tooltip "Sauf IgG+ connues (HAS 2025)"%}}CMV{{%/tooltip%}}, VIH, ± syphilis, ± VHC, ± {{%tooltip "AgHBs sans vaccination"%}}Ac anti-HBs{{%/tooltip%}}, ± {{%tooltip "≥ 35 ans, surpoids, ATCD DG/macrosomie ou fam DT2"%}}glycémie{{%/tooltip%}}, TSH si sympt. aspécifiques {{< modal-btn modal-fdr-hypothyroidie >}}et FDR{{< /modal-btn >}}, ± frottis, ± {{%tooltip "Si prématurité, chorioamniotite, FCS"%}}prélèvement vaginal{{%/tooltip%}}, ± {{%tooltip "Avant 25 ans"%}}PCR Chlamydia{{%/tooltip%}} | {{%tooltip "Jusqu'à 8 SA (HAS 2016), 14 SA (USPTF)"%}}acide folique{{%/tooltip%}} 0,4 mg/j, {{%tooltip "De 11 à 13 SA + 6j"%}}écho T1{{%/tooltip%}} + {{%tooltip "βhCG libre + PAPP-A"%}}dépistage T21{{%/tooltip%}} |
+| 4^e^ mois<br>16-20 SA | {{%tooltip "ECBU si IU pendant la grossesse, uropathie, diabète, cystites récidivantes"%}}BU{{%/tooltip%}} (HAS 2024) | {{%tooltip "Gratuite jusqu'à 6 mois après l'accouchement"%}}Cs dentaire{{%/tooltip%}} | |
+| 5^e^ mois<br>20-24 SA | | {{%tooltip "22 SA (20-25)"%}}Écho T2{{%/tooltip%}} | Vaccin coqueluche |
+| 6^e^ mois<br>24-28 SA | | {{%tooltip "L'USPTF trouve le dépistage inutile si asymptomatique"%}}NFS{{%/tooltip%}}, AgHBs, ± {{%tooltip "Si Rh- ou antécédent de transfusion"%}}RAI{{%/tooltip%}} | ± Rattrapage coqueluche |
+| 7^e^ mois<br>28-32 SA | | {{%tooltip "32 SA (30-35)"%}}Écho T3{{%/tooltip%}} | {{%tooltip "28 SA: si mère RH-1- et fœtus RH-1+"%}}± Rhophylac® 300{{%/tooltip%}} ± Rattrapage coqueluche |
+| 8^e^ mois<br>32-37 SA | | {{%tooltip "Sauf carte de groupe"%}}Gpe ABO Rh{{%/tooltip%}}, {{%tooltip "Entre 35 et 38 SA"%}}prélèvement vaginal (strepto B){{%/tooltip%}}, chir bariatrique: {{%tooltip "Échographie supplémentaire à 37 SA"%}}écho{{%/tooltip%}} | VitD 100.000 UI, {{%tooltip "Du 14/9 au 28/2, 32 SA ++"%}}Abrysvo{{%/tooltip%}}, ± rattrapage coqueluche, ± {{%tooltip "Herpès génital pdt la gs"%}}valaciclovir{{%/tooltip%}} |
+| 9^e^ mois<br>37-42 SA | | | |
 {caption="Suivi simplifié de la grossesse. Dr JB Fron d'après *HAS* et *Collège*" class="table-wrap"}
 
 > -- *Service-Public*, *HAS 2016*, *HAS 2009*, *USPTF 2023*, *Calendrier vaccinal 2025*
@@ -356,6 +356,7 @@ Il est déconseillé de descendre sous **1600 kcal/j** (même en situation d'[ob
 - {{< references/calendrier-vaccinal >}}
 - [Vaccination Info Service. Femmes enceintes. 13/04/2026.](https://professionnels.vaccination-info-service.fr/Recommandations-vaccinales-specifiques/Personnes-exposees-a-des-risques-specifiques/Femmes-enceintes)
 - [Service Public. Grossesse : examens médicaux. 16/03/2026.](https://www.service-public.gouv.fr/particuliers/vosdroits/F963)
+- [HAS. Évaluation de la pertinence d'un dépistage systématique de l'infection à cytomégalovirus (CMV) au cours de la grossesse. 2025.](https://www.has-sante.fr/jcms/p_3587389/fr/evaluation-de-la-pertinence-d-un-depistage-systematique-de-l-infection-a-cytomegalovirus-cmv-au-cours-de-la-grossesse) ([prise en charge de la séroconversion](https://www.unilim.fr/cnr-herpesvirus/wp-content/uploads/sites/18/2026/04/Algorithmes-CMV-clinicien-version-14SA-version-2026-04-02.pdf))
 - [DGS-Urgent 2025_15. Modalités de mise en œuvre de la campagne d'immunisation des nourrissons et nouveau-nés contre les infections à virus respiratoire syncitial (VRS). 28/01/2025.](https://sante.gouv.fr/professionnels/article/dgs-urgent)
 - [HAS, ANRS, CNS. Traitement curatif des personnes infectées par Chlamydia trachomatis. 2025.](https://www.has-sante.fr/jcms/p_3604614/fr/traitement-curatif-des-personnes-infectees-par-chlamydia-trachomatis)
 - [Anses. (2024). Avis de l'Anses relatif à l'actualisation de l'état des connaissances sur la prévention des anomalies de fermeture du tube neural par l'acide folique (saisine 2023-SA0019). Maisons-Alfort : Anses, 29 p. (PDF)](https://www.anses.fr/system/files/NUT2023SA0019RA.pdf)
@@ -385,7 +386,6 @@ Il est déconseillé de descendre sous **1600 kcal/j** (même en situation d'[ob
 ### Bibliographie en attente
 
 - [Echarfaoui O, et al. Activité physique pendant la grossesse : revue systématique 2015-2025 et synthèse dose-réponse des bénéfices materno-fœtaux. Gynécologie Obstétrique Fertilité & Sénologie. 2025.](https://www.sciencedirect.com/science/article/abs/pii/S2468718925002661) (payant)
-- [HAS. Évaluation de la pertinence d'un dépistage systématique de l'infection à cytomégalovirus (CMV) au cours de la grossesse. 2025.](https://www.has-sante.fr/jcms/p_3587389/fr/evaluation-de-la-pertinence-d-un-depistage-systematique-de-l-infection-a-cytomegalovirus-cmv-au-cours-de-la-grossesse)
 - [Cour des Comptes. La politique de périnatalité. 2024.](https://www.ccomptes.fr/fr/publications/la-politique-de-perinatalite)
 - [HAS. Accompagnement médico-psycho-social des femmes, des parents et de leur enfant, en situation de vulnérabilité, pendant la grossesse et en postnatal. 2024.](https://www.has-sante.fr/jcms/p_3271226/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal)
 - [HAS. Situations pathologiques pouvant relever de l'hospitalisation à domicile au cours de l'ante et du post-partum. 2011.](https://www.has-sante.fr/jcms/c_1066375/fr/situations-pathologiques-pouvant-relever-de-l-hospitalisation-a-domicile-au-cours-de-l-ante-et-du-post-partum)
