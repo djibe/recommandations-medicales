@@ -198,7 +198,7 @@ const chartOptions3 = {
 - **Vaccinations**
   - Covid-19 et grippe d'octobre à janvier (possibles quel que soit le terme)
   - Coqueluche entre 20 et 36 SA à chaque grossesse
-  - Abrysvo une seule fois si terme de 32 à 36 SA de septembre à janvier (à défaut d'anticorps anti-VRS Beyfortus/Enflonsia chez le nouveau-né)
+  - Abrysvo une seule fois si terme de 32 à 36 SA (32 SA pour la meilleure protection) de septembre à janvier (à défaut d'anticorps anti-VRS Beyfortus/Enflonsia chez le nouveau-né)
   - Avant la grossesse: rattrapage rubéole et varicelle
 - **Activité physique**  
   30 minutes à 1 heure d'intensité modérée à intense au moins 5 jours par semaine, sédentarité < 7 heures/j (*CNSFF*).
@@ -231,7 +231,7 @@ Vaccins à réaliser pendant la grossesse ([chapitre dédié Vaccination]({{% re
 - Covid-19 ARNm et grippe quel que soit le terme (RR de réanimation sans vaccination: 18)
 - dTcaPolio à chaque grossesse entre 20 et 36 SA (BoostrixTetra, Repevax)  
   Délai minimal entre 2 doses de 4 semaines.
-- Anti-VRS (Abrysvo) de septembre à janvier entre 32 et 36 SA (DGS Urgent 2025-15)
+- Anti-VRS (Abrysvo) de septembre à janvier entre **32** (meilleure protection -- *Infovac*) et 36 SA (DGS Urgent 2025-15)
 
 > -- {{< references/calendrier-vaccinal >}} et *Vaccination Info Service*
 
