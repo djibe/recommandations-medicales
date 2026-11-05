@@ -29,7 +29,7 @@ flowchart = true
 - La méningite est une urgence vitale du fait de l'extrême gravité de toute atteinte infectieuse méningée
 - Signes et symptômes de méningite bactérienne: fièvre élevée, raideur de la nuque, céphalées, troubles de conscience, purpura, convulsions
 - Évaluation rapide des paramètres vitaux et rechercher un purpura chez le patient déshabillé
-- Devant un purpura fulminans: appel immédiat du SAMU et antibiothérapie par ceftriaxone 1g IM (50/mg/kg chez l'enfant, max 1g), port du masque
+- Devant un purpura fulminans: appel immédiat du SAMU, antibiothérapie par ceftriaxone 1g IM (50/mg/kg chez l'enfant, max 1g) et port du masque
 - Transport immédiat si délai d'intervention du SAMU supérieur à 20 minutes (prévenir les *Urgences*)
 - En cas de méningocoque: prise en charge des sujets contacts par antibioprophylaxie, signalement obligatoire et vaccination (sauf sérogroupe B)
 - Suivi après méningite bactérienne: suivi neurologique, auditif et du développement chez l'enfant
@@ -291,6 +291,10 @@ graph TB
 - [Instruction No DGS/SP/2018/163 du 27 juillet 2018 relative à la prophylaxie des infections invasives à méningocoque. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/recos/1-iim-instruction-dgs-07-2018.pdf)
 - [Société Française de Pédiatrie. Guide de prescription d'antibiotique en pédiatrie. Archives de Pédiatrie. 2016. (PDF)](https://www.sfmu.org/upload/consensus/arcped_gpip_15_juin_new_couv_bs.pdf)
 - [Meningitis.org](https://www.meningitis.org)
+
+### Bibliographie en attente
+
+- [NICE. Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management . NICE guideline. 2024.](https://www.nice.org.uk/guidance/ng240)
 
 {{%/sources%}}
 {{% modal title="Score de Glasgow" id="modal-glasgow" size="lg" %}}

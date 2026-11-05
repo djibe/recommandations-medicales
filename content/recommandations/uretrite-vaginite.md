@@ -18,20 +18,22 @@ sctid = "37610005"
 icd10 = ["N34", "N37.0", "A54.0", "A54.1", "A56.0", "N72", "N76.0"]
 image = false
 imageSrc = ""
+rank = "false"
+writing = "false"
 todo = "seo | photo > flow"
 modele = true
 +++
 
 {{%article-summary%}}
 
-- Les infections génitales basses comprennent les urétrite, cervicite, vaginose et vaginite, souvent par germe sexuellement transmissible (IST)
-- Les symptômes sont dominés par les leucorrhées, un prurit vaginal ou une urétrite
-- Bilan par PCR gonocoque/Chlamydia et prélèvement vaginal avant toute antibiothérapie  
+- Les infections génitales basses comprennent les vaginose et vaginite, urétrite et cervicite (les 2 dernières souvent par germe sexuellement transmissible -- IST)
+- Les symptômes génito-urinaires sont dominés par les leucorrhées, un prurit vaginal ou une urétrite
+- Le bilan de symptômes génito-urinaires comprend un prélèvement vaginal avec PCR gonocoque/Chlamydia avant toute antibiothérapie  
   Préciser la recherche de *Trichomonas vaginalis* en cas de leucorrhées jaunes-vertes, spumeuses avec odeur de plâtre frais.
-- Prise en charge et traitement des infections génitales basses:
+- La prise en charge des infections génitales basses dépend du type clinico-bactériologique:
   - Vaginose et vaginite (*Gardnerella vaginalis*, *Trichomonas vaginalis*): métronidazole 500 mg x 2/j pendant 7 jours
   - Urétrite et cervicite: ceftriaxone 1g IM dose unique + doxycycline 100 mg x 2/j pendant 7 jours et consultation à J7 (J3 si échec)
-- Dépistage des autres IST, du partenaire et évaluation de la santé sexuelle
+- En cas d'IST: dépister les autres IST, le partenaire et évaluer la santé sexuelle
 
 Chapitres liés: [infections génitales hautes]({{% relref "infections-genitales-hautes.md" %}}), [mycose vaginale]({{% relref "mycoses-dermatophytes-candidoses.md" %}}), [infections urinaires]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}}), [herpès génital]({{% relref "infections-herpes-virus.md" %}}), [infections à Chlamydia trachomatis]({{% relref "chlamydia-trachomatis.md" %}}) et [papillomavirus]({{% relref "cancer-col-uterus.md" %}}) (HPV), [syphilis]({{% relref "syphilis.md" %}})
 
@@ -96,8 +98,8 @@ Un dépistage est recommandé chez la femme enceinte au premier trimestre en cas
 
 ### *Gardnerella vaginalis* et vaginite bactérienne (VB)
 
-Selon *SFD 2016*: [métronidazole 500 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/60416081/extrait#tab-rcp) x 2/j pendant 7 jours (possible [pendant la grossesse](https://www.lecrat.fr/10412/))
-{.alert .alert-info}
+> [!INFO]
+> [Métronidazole 500 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/60416081/extrait#tab-rcp) x 2/j pendant 7 jours (*SFD 2016*; possible [pendant la grossesse](https://www.lecrat.fr/10412/).)
 
 Leucorrhées malodorantes (odeur de poisson pourri) grisâtres fluides.
 

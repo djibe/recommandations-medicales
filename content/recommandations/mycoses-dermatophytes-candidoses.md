@@ -370,12 +370,12 @@ Traitement des onychomycoses:
 - Contrôle des facteurs de risque  
   Séchage, ongles courts, limiter les contacts avec le sucre, les acides, les [corticoïdes]({{% relref "corticoides.md" %}}), les soins de manucure, protection en piscine.
 - Matrice épargnée
-  1. Pédicure-podologue pour limage ou meulage initial
-  2. Vernis unguéal [amorolfine 5%](https://base-donnees-publique.medicaments.gouv.fr/medicament/68805138/extrait#tab-rcp) x 1-2/semaine ou [ciclopirox 8%](https://base-donnees-publique.medicaments.gouv.fr/medicament/66640136/extrait#tab-rcp) x 1/j pendant 3 à 6 mois
-  3. Éconazole des espaces interdigitoplantaires pour éviter une réinfection
-  4. Périonyxis important: prélèvement, imidazolé local voire fluconazole
-  5. Si échec: avulsion chimique par bifonazole 1 % + urée 40 % (Amycor Onychoset®) sous pansement occlusif x 1/j pendant 1-3 semaines  
-    et relais par bifonazole seul 1 % crème (Amycor®) pendant 4-8 semaines (ou jusqu'à repousse complète de l'ongle).
+  1. **Pédicure-podologue** pour limage ou meulage initial
+  2. **Vernis unguéal** [amorolfine 5%](https://base-donnees-publique.medicaments.gouv.fr/medicament/68805138/extrait#tab-rcp) x 1-2/semaine ou [ciclopirox 8%](https://base-donnees-publique.medicaments.gouv.fr/medicament/66640136/extrait#tab-rcp) x 1/j pendant 3 à 6 mois
+  3. **Éconazole** des espaces interdigitaux plantaires pour éviter une réinfection
+  4. En cas de périonyxis important: prélèvement, imidazolé local (ex. éconazole) voire fluconazole
+  5. **En cas d'échec:** **avulsion chimique** par bifonazole 1 % + urée 40 % ([Amycor Onychoset®](https://base-donnees-publique.medicaments.gouv.fr/medicament/67886607/extrait#tab-rcp)) sous pansement occlusif x 1/j pendant 1-3 semaines  
+    et relais par bifonazole seul 1 % crème ([Amycor®](https://base-donnees-publique.medicaments.gouv.fr/medicament/61189366/extrait#tab-rcp)) pendant 4-8 semaines (ou jusqu'à repousse complète de l'ongle).
 - Atteinte matricielle
   - Traitement ci-dessus en complément des mesures suivantes
   - Avulsion chimique comme ci-dessus selon Prescrire

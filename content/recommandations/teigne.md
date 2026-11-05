@@ -32,6 +32,8 @@ flowchart = true
 - Une consultation de suivi est réalisée après les 4 semaines de traitement avec les résultats de la culture
 - En cas de poids inadapté au traitement, demander une téléexpertise spécialisée (dermatologie, infectiologie) avec les photos et les résultats
 
+Chapitre lié: [mycoses]({{% relref "mycoses-dermatophytes-candidoses.md" %}})
+
 {{%/article-summary%}}
 {{%collapse "Définition" %}}
 
