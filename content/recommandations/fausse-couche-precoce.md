@@ -28,7 +28,7 @@ todo = "liens > photo > flow > Kanban | SAPL"
 - La fausse couche précoce (FCP) est une expulsion spontanée d'une grossesse intra-utérine durant le premier trimestre (avant 14 semaines d'aménorrhée)
 - Les symptômes de fausse couche et de grossesse extra-utérines étant similaires (saignements, douleurs pelviennes), en l'absence de connaissance de grossesse intra-utérine, la prise en charge est urgente (voire appel du SAMU)
 - Le bilan de fausse couche comprend le dosage des ß-hCG, le groupe sanguin et l'échographie pelvienne endovaginale
-- La prise en charge de la fausse couche spontanée peut être expectative (suivi répété), médicale (avec mifépristone et misoprostol) ou chirurgicale selon les symptômes, le terme et l'évolution de la fausse couche
+- La prise en charge de la fausse couche précoce peut être expectative (suivi répété), médicale (avec mifépristone et misoprostol) ou chirurgicale selon les symptômes, le terme et l'évolution de la fausse couche
 - Le traitement est toujours associé au soutien psychologique et à la prévention de l'allo-immunisation rhésus (à partir de 12 SA)
 
 Chapitres liés: [grossesse extra-utérine]({{% relref "grossesse-extra-uterine.md" %}}), [fausses couches répétés]({{% relref "fausses-couches-repetees.md" %}})
@@ -42,6 +42,8 @@ Fausse couche précoce (FCP)
 : La fausse couche est fréquente (10 % des grossesses identifiées) et 80 % surviennent durant le premier trimestre. La moitié est due à des anomalies chromosomiques.
 
 ---
+
+### Définitions CNGOF 2014
 
 Fausse couche
 : Expulsion spontanée du contenu utérin avant 22 SA.
