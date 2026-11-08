@@ -1,9 +1,9 @@
 +++
 id = "019f4c6e-deab-7ce1-93f8-82bfe2657b77"
-title = "Fausse couche spontanée précoce (FCS)"
-titleSeo = "Fausse couche spontanée précoce"
+title = "Fausse couche précoce"
+titleSeo = "Fausse couche précoce (FCP)"
 prefix = "la "
-description = "Recommandations pour le diagnostic et la prise en charge de la fausse couche spontanée précoce (FCS). ß-hCG, échographie pelvienne et surveillance, misoprostol ou aspiration"
+description = "Recommandations pour le diagnostic et la prise en charge de la fausse couche précoce (FCP). ß-hCG, échographie pelvienne et surveillance, misoprostol ou aspiration"
 synonyms = ["Avortement spontané"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-07-10T16:27:53+02:00"
@@ -25,19 +25,19 @@ todo = "liens > photo > flow > Kanban | SAPL"
 
 {{%article-summary%}}
 
-- La fausse couche spontanée précoce (FCS), ou avortement spontané, est une expulsion spontanée d'une grossesse intra-utérine durant le premier trimestre (avant 14 semaines d'aménorrhée)
+- La fausse couche précoce (FCP) est une expulsion spontanée d'une grossesse intra-utérine durant le premier trimestre (avant 14 semaines d'aménorrhée)
 - Les symptômes de fausse couche et de grossesse extra-utérines étant similaires (saignements, douleurs pelviennes), en l'absence de connaissance de grossesse intra-utérine, la prise en charge est urgente (voire appel du SAMU)
 - Le bilan de fausse couche comprend le dosage des ß-hCG, le groupe sanguin et l'échographie pelvienne endovaginale
 - La prise en charge de la fausse couche spontanée peut être expectative (suivi répété), médicale (avec mifépristone et misoprostol) ou chirurgicale selon les symptômes, le terme et l'évolution de la fausse couche
 - Le traitement est toujours associé au soutien psychologique et à la prévention de l'allo-immunisation rhésus (à partir de 12 SA)
 
-Chapitres liés: grossesse extra-utérine, [fausses couches répétés]({{% relref "fausses-couches-repetees.md" %}})
+Chapitres liés: [grossesse extra-utérine]({{% relref "grossesse-extra-uterine.md" %}}), [fausses couches répétés]({{% relref "fausses-couches-repetees.md" %}})
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
-Fausse couche spontanée précoce
-: Grossesse intra-utérine non viable avec un sac gestationnel vide ou l'absence de rythme cardiaque durant le premier trimestre (14 semaines d'aménorrhée, 12 semaines de grossesse pour les anglo-saxons).
+Fausse couche précoce (FCP)
+: Expulsion d'une grossesse intra-utérine durant le premier trimestre (14 semaines d'aménorrhée, 12 semaines de grossesse pour les anglo-saxons).
 : Les principaux facteurs de risque sont l'âge maternel avancé et l'antécédent de fausse couche précoce.
 : La fausse couche est fréquente (10 % des grossesses identifiées) et 80 % surviennent durant le premier trimestre. La moitié est due à des anomalies chromosomiques.
 
@@ -71,7 +71,7 @@ Mort fœtale in utero
 : Arrêt spontané de l'activité cardiaque à partir de 14 SA.
 {.dl-inline}
 
-### Incidence des fausses couches spontanées selon l'âge de la femme
+### Incidence des fausses couches précoces selon l'âge de la femme
 
 | Âge de la femme | Incidence (%) |
 | :---: | :---: |
@@ -86,8 +86,11 @@ Mort fœtale in utero
 ACOG
 : {{%lang%}}American College of Obstetricians and Gynecologists{{%/lang%}}
 
-FCS
-: fausse couche spontanée
+FCP
+: fausse couche précoce
+
+NICE
+: {{%lang%}}National Institute for Health and Care Excellence{{%/lang%}}
 {.dl-inline}
 
 {{% /collapse %}}
@@ -131,11 +134,11 @@ Les symptômes de fausse couche et de grossesse extra-utérines étant similaire
 > [!INFO]
 > Dans une grossesse normale, le sac ovulaire est visible dès 5 SA. L'embryon et son activité cardiaque deviennent visibles entre 5,5 et 6 SA.
 
-La fausse couche spontanée doit être différenciée de la GEU et d'autres complications gravidiques.
+La fausse couche précoce doit être différenciée de la GEU et d'autres complications gravidiques.
 
 ### Bilan de la fausse couche précoce
 
-Bilan d'une suspicion de fausse couche spontanée (douleurs utérines, saignements vaginaux):
+Bilan d'une suspicion de fausse couche précoce (douleurs utérines, saignements vaginaux):
 
 - **ßhCG**
 - Sauf carte de groupe sanguin: **groupe sanguin** rhésus D (double détermination) et RAI si rhésus négatif ou antécédent de transfusion dès le premier trimestre de grossesse
@@ -172,14 +175,14 @@ L'échographie peut être indécise, d'autant plus que le terme est précoce.
 Autres signes en faveur d'une fausse couche: RCF < 100/min à 5-7 semaines gestationnelles, hémorragies sous-chorioniques.
 
 {{% /collapse %}}
-{{%collapse "Traitement de la fausse couche spontanée" %}}
+{{%collapse "Traitement de la fausse couche précoce" %}}
 
 > [!INFO]
 > L'échographie pelvienne est urgente chez une femme présentant des douleurs pelviennes et des métrorragies.
 
 Les symptômes de fausse couche et de grossesse extra-utérines étant similaires (saignements, douleurs pelviennes), en l'absence de **connaissance de grossesse intra-utérine**, la prise en charge est urgente (voire appel du SAMU).
 
-Selon les signes clinico-bio-échographiques et le choix de la patiente, le traitement de la fausse couche spontanée précoce peut être **expectative** (pas d'intervention mais suivi répété), un **traitement médical** (suivi raccourci) ou **chirurgical** (invasif mais efficace), par un gynécologue. Proposer un **accompagnement psychologique** (*[Loi 2023-567](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047799541)*).
+Selon les signes clinico-bio-échographiques et le choix de la patiente, le traitement de la fausse couche précoce peut être **expectative** (pas d'intervention mais suivi répété), un **traitement médical** (suivi raccourci) ou **chirurgical** (invasif mais efficace), par un gynécologue. Proposer un **accompagnement psychologique** (*[Loi 2023-567](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047799541)*).
 
 > **NB.** En cas de grossesse intra-utérine évolutive avec saignements et antécédent de fausse couche, prescrire de la progestérone vaginale 400 mg x 2/j (*NICE*). En présence de rythme cardiaque, poursuivre jusqu'à 16 semaines de grossesse.
 
@@ -192,7 +195,7 @@ La **prévention de l'allo-immunisation** Rhésus D anti-RH1 chez la femme Rh- a
 > [!INFO]
 > Sauf syndrome des anticorps anti-phospholipides (SAPL), aucun traitement n'est efficace pour réduire la survenue de fausses couches ultérieures. Voir [fausses couches répétées]({{% relref "fausses-couches-repetees.md" %}}).
 
-### Attitude expectative de la fausse couche spontanée
+### Attitude expectative de la fausse couche précoce
 
 - La méthode **expectative** est restreinte au 1^er^ trimestre (80 % de succès jusqu'à 8 semaines) et durant 7 à 14 jours
 - Les saignements et crampes peuvent être modérés à intenses
@@ -238,7 +241,7 @@ Un **dispositif intra-utérin** (DIU) peut être installé dans le même temps e
 - Collège national des gynécologues et obstétriciens français (CNGOF). Hémorragie. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [Lemmers M, et al. Medical treatment for early fetal death (less than 24 weeks). Cochrane Database of Systematic Reviews. 2019.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002253.pub4/full/fr)
 - [American College of Obstetricians and Gynecologists' Committee on Practice Bulletins-Gynecology. ACOG Practice Bulletin No. 200: Early Pregnancy Loss. Obstet Gynecol. 2018.](https://journals.lww.com/greenjournal/fulltext/2018/11000/acog_practice_bulletin_no__200__early_pregnancy.41.aspx)
-- [Delabaere A, et al. Standardisation de la terminologie des pertes de grossesse : consensus d'experts du Collège national des gynécologues et obstétriciens français (CNGOF). Journal de Gynécologie Obstétrique et Biologie de la Reproduction. 2014.](https://www.sciencedirect.com/science/article/abs/pii/S0368231514002361)
+- [Delabaere A, et al. Standardisation de la terminologie des pertes de grossesse : consensus d'experts du Collège national des gynécologues et obstétriciens français (CNGOF). Journal de Gynécologie Obstétrique et Biologie de la Reproduction. 2014.](https://www.sciencedirect.com/science/article/abs/pii/S0368231514002361) ([version gratuite](https://cngof.fr/app/uploads/2025/11/Perte20de20grossesse202014.pdf?x92631))
 - [Drakeley AJ, et al. Cervical stitch (cerclage) for preventing pregnancy loss in women. Cochrane Database of Systematic Reviews. 2003.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003253/full/fr)
 
 Mots-clé: hémorragies génitales, grossesse intra-utérine non évolutive

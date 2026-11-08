@@ -124,6 +124,11 @@ HUGO_ENABLEGITINFO = "false"
   status = 301
 
 [[redirects]]
+  from = "https://recomedicales.fr/recommandations/fausse-couche-spontanee-precoce/"
+  to = "https://recomedicales.fr/recommandations/fausse-couche-precoce/"
+  status = 301
+
+[[redirects]]
   from = "https://recomedicales.fr/login/"
   to = "http://127.0.0.1"
   status = 301
