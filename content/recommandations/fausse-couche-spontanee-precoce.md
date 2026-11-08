@@ -8,7 +8,7 @@ synonyms = ["Avortement spontané"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-07-10T16:27:53+02:00"
 publishdate = "2026-10-16"
-lastmod = "2026-10-16"
+lastmod = "2026-11-08"
 specialites = ["gynécologie-obstétrique"]
 annees = "2026"
 sources = ["NICE", "ACOG"]
@@ -25,7 +25,7 @@ todo = "liens > photo > flow > Kanban | SAPL"
 
 {{%article-summary%}}
 
-- La fausse couche spontanée précoce (FCS), ou avortement spontané, est une grossesse intra-utérine non viable avec un sac gestationnel vide ou sans activité cardiaque durant le premier trimestre (12 semaines de grossesse)
+- La fausse couche spontanée précoce (FCS), ou avortement spontané, est une expulsion spontanée d'une grossesse intra-utérine durant le premier trimestre (avant 14 semaines d'aménorrhée)
 - Les symptômes de fausse couche et de grossesse extra-utérines étant similaires (saignements, douleurs pelviennes), en l'absence de connaissance de grossesse intra-utérine, la prise en charge est urgente (voire appel du SAMU)
 - Le bilan de fausse couche comprend le dosage des ß-hCG, le groupe sanguin et l'échographie pelvienne endovaginale
 - La prise en charge de la fausse couche spontanée peut être expectative (suivi répété), médicale (avec mifépristone et misoprostol) ou chirurgicale selon les symptômes, le terme et l'évolution de la fausse couche
@@ -34,12 +34,42 @@ todo = "liens > photo > flow > Kanban | SAPL"
 Chapitres liés: grossesse extra-utérine, [fausses couches répétés]({{% relref "fausses-couches-repetees.md" %}})
 
 {{%/article-summary%}}
-{{%collapse "Définition" %}}
+{{%collapse "Définitions" %}}
 
 Fausse couche spontanée précoce
-: Grossesse intra-utérine non viable avec un sac gestationnel vide ou l'absence de rythme cardiaque durant le premier trimestre (12 semaines de grossesse).
+: Grossesse intra-utérine non viable avec un sac gestationnel vide ou l'absence de rythme cardiaque durant le premier trimestre (14 semaines d'aménorrhée, 12 semaines de grossesse pour les anglo-saxons).
 : Les principaux facteurs de risque sont l'âge maternel avancé et l'antécédent de fausse couche précoce.
 : La fausse couche est fréquente (10 % des grossesses identifiées) et 80 % surviennent durant le premier trimestre. La moitié est due à des anomalies chromosomiques.
+
+---
+
+Fausse couche
+: Expulsion spontanée du contenu utérin avant 22 SA.
+
+Grossesse arrêtée précoce
+: Arrêt de développement (stagnation de la taille du sac gestationnel et/ou de la longueur crânio-caudale et/ou disparition d'une activité cardiaque) avant 14 SA.
+
+Fausse couche précoce
+: Expulsion spontanée d'une grossesse intra-utérine avant 14 SA.
+
+Fausse couche précoce complète
+: Fausse couche précoce pour laquelle il y a une vacuité utérine échographique et une absence de symptôme clinique.
+
+Fausse couche précoce incomplète
+: Fausse couche précoce avec persistance de matériel intra-utérin à l'échographie.
+
+Fausses couches précoces à répétition
+: Histoire de 3 fausses couches précoces (ou plus) consécutives avant 14 SA.
+
+Fausse couche tardive
+: Expulsion spontanée d'une grossesse ≥ 14 SA et < 22 SA.
+
+Menace de fausse couche tardive
+: Modifications cervicales ± contractions utérines ≥ 14 SA et < 22 SA.
+
+Mort fœtale in utero
+: Arrêt spontané de l'activité cardiaque à partir de 14 SA.
+{.dl-inline}
 
 ### Incidence des fausses couches spontanées selon l'âge de la femme
 
@@ -208,6 +238,7 @@ Un **dispositif intra-utérin** (DIU) peut être installé dans le même temps e
 - Collège national des gynécologues et obstétriciens français (CNGOF). Hémorragie. Gynécologie obstétrique Réussir son DFASM. 2021.
 - [Lemmers M, et al. Medical treatment for early fetal death (less than 24 weeks). Cochrane Database of Systematic Reviews. 2019.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002253.pub4/full/fr)
 - [American College of Obstetricians and Gynecologists' Committee on Practice Bulletins-Gynecology. ACOG Practice Bulletin No. 200: Early Pregnancy Loss. Obstet Gynecol. 2018.](https://journals.lww.com/greenjournal/fulltext/2018/11000/acog_practice_bulletin_no__200__early_pregnancy.41.aspx)
+- [Delabaere A, et al. Standardisation de la terminologie des pertes de grossesse : consensus d'experts du Collège national des gynécologues et obstétriciens français (CNGOF). Journal de Gynécologie Obstétrique et Biologie de la Reproduction. 2014.](https://www.sciencedirect.com/science/article/abs/pii/S0368231514002361)
 - [Drakeley AJ, et al. Cervical stitch (cerclage) for preventing pregnancy loss in women. Cochrane Database of Systematic Reviews. 2003.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003253/full/fr)
 
 Mots-clé: hémorragies génitales, grossesse intra-utérine non évolutive
