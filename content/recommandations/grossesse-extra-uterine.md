@@ -105,7 +105,7 @@ Autres causes de douleurs pelviennes et de métrorragies:
 
 - **ß-hCG positifs:**
   - Grossesse intra-utérine
-  - [Fausse couche spontanée]({{% relref "fausse-couche-spontanee-precoce.md" %}})
+  - [Fausse couche spontanée]({{% relref "fausse-couche-precoce.md" %}})
   - Môle hydatiforme
 - **ß-hCG négatifs:**
   - Kyste hémorragique du corps jaune
