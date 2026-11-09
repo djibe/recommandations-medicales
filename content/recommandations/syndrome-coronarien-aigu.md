@@ -232,7 +232,7 @@ Mesures de prévention secondaire pour le {{< modal-btn modal-rcv >}}très haut 
   - Correction d'un surpoids
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
 - Antiagrégants plaquettaires
-  - Bi-antiaggrégants [aspirine](https://base-donnees-publique.medicaments.gouv.fr/medicament/68881730/extrait#tab-rcp) 75-100 mg/j + [prasugrel](https://base-donnees-publique.medicaments.gouv.fr/medicament/61374393/extrait#tab-rcp)/ticagrelor (voire clopidogrel 75) ...
+  - Bi-antiagrégants [aspirine](https://base-donnees-publique.medicaments.gouv.fr/medicament/68881730/extrait#tab-rcp) 75-100 mg/j + [prasugrel](https://base-donnees-publique.medicaments.gouv.fr/medicament/61374393/extrait#tab-rcp)/ticagrelor (voire clopidogrel 75) ...
   - pendant **minimum 12 mois**  
     Considérer une monothérapie après 3-6 mois sauf haut risque ischémique; après 1 mois si haut risque de saignement. Une trithérapie est possible.
   - Puis **[aspirine seule](https://base-donnees-publique.medicaments.gouv.fr/medicament/68881730/extrait#tab-rcp) 75-100 mg/j** (prasugrel/ticagrelor possibles)

@@ -274,7 +274,7 @@ Recommandations pour la prise en charge de l'artériopathie (AOMI):
 - **Réadaptation vasculaire** en centre voire par kinésithérapeute
 - {{< modal-btn modal-statine-intensite >}}Statine systématique{{< /modal-btn >}}  
   {{< modal-btn modal-rcv >}}LDL cible < 0,55 g/L{{< /modal-btn >}} (et réduction ≥ 50 %) avec contrôle annuel.
-- **Antiaggrégants plaquettaires**
+- **Antiagrégants plaquettaires**
   - Indications: symptomatique ou AOMI masquée, maladie cardiovasculaire, revascularisation du MI; considérer si diabétique asymptomatique (aspirine 75-100 mg/j)
   - [Clopidogrel](https://base-donnees-publique.medicaments.gouv.fr/medicament/67971897/extrait#tab-rcp) 75 mg/j (ou aspirine 75-160 mg/j)
 - [Rivaroxaban 2,5 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/62533076/extrait#tab-rcp-et-notice) x 2/j + [aspirine](https://base-donnees-publique.medicaments.gouv.fr/medicament/61946403/extrait#tab-rcp) 100 mg/j
