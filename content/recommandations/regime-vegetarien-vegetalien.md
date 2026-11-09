@@ -9,8 +9,8 @@ synonyms = ["Régime lacto-ovovégétarien", "véganisme"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-04-21T16:47:17+02:00"
 publishdate = "2025-04-24"
-lastmod = "2025-04-24"
-specialites = ["endocrinologie"]
+lastmod = "2026-11-09"
+specialites = ["endocrinologie", "pédiatrie"]
 annees = "2025"
 sources = ["Anses"]
 tags = ["B12", "dépistage", "vitamine D"]
@@ -27,16 +27,15 @@ todo = ""
 {{%article-summary%}}
 
 - Le régime végétarien exclut la consommation de chair animale et le régime végétalien exclut l'ensemble des aliments d'origine animale
-- Les régimes végétariens et végétaliens (vegan) doivent être optimisés pour limiter les carences nutritionnelles et les excès de contaminations
-- Les carences sont inévitables (vitamine D, omégas 3 EPA et DHA voire vitamine B12 et zinc) et doivent être surveillées et supplémentées
+- Les régimes végétariens et végétaliens (végane, vegan) doivent être optimisés pour limiter les carences nutritionnelles et les excès de contaminations chez les adultes en bonne santé
+- Les carences sont inévitables (vitamine D, oméga 3 EPA et DHA voire vitamine B12 et zinc) et doivent être surveillées et supplémentées
 - Ces régimes ne peuvent être utilisés que chez les adultes en bonne santé, faute de données physiologiques chez les autres populations (enfants, femmes enceintes et allaitantes, athlètes, personnes âgées)
 
 {{%/article-summary%}}
 {{%collapse "Définitions" %}}
 
 > [!INFO]
-> << Ainsi, les régimes optimisés proposés ne permettent pas de rester en deçà de l'exposition maximale retenue
-pour 21 contaminants ou groupes de contaminants. >> -- *Anses 2025*
+> << Ainsi, les régimes optimisés proposés ne permettent pas de rester en deçà de l'exposition maximale retenue pour 21 contaminants ou groupes de contaminants. >> -- *Anses 2025*
 
 Régime végétarien
 : Régime alimentaire excluant la consommation de chair animale.
@@ -112,7 +111,7 @@ L'*Anses* insiste sur le fait que les données sont insuffisantes pour garantir 
 > [!WARNING]
 > Les carences en **vitamine D**, **omégas 3 EPA et DHA** et **vitamine B12** -- et chez l'homme, le **zinc** -- sont inévitables chez les végétaliens (vegans) malgré un régime optimisé.
 
-Ces recommandations concernent le ==régime végétalien== de l'adulte en bonne santé (hors femmes enceintes ou allaitantes, athlètes et personnes âgées ). Les apports recommandés sont optimisés pour **limiter les carences** et les **excès de contaminations**.
+Ces recommandations concernent le ==régime végétalien== de l'**adulte en bonne santé** (hors femmes enceintes ou allaitantes, athlètes et personnes âgées). Les apports recommandés sont optimisés pour **limiter les carences** et les **excès de contaminations**.
 
 Apports alimentaires quotidiens recommandés chez l'adulte végétalien (en moyenne):
 
@@ -132,6 +131,9 @@ Apports alimentaires quotidiens recommandés chez l'adulte végétalien (en moye
   Calcium, iode et sélénium.
 - Levure alimentaire et apparentés: 15 g/j  
   Vitamines B1, B2, B12, B3, B9 et zinc.
+
+> [!WARNING]
+> << Les régimes végétaliens, qui excluent tous les produits d'origine animale de l'alimentation, ne sont pas adaptés à l'espèce humaine. Les carences nutritionnelles inévitables qu'ils entraînent sont particulièrement graves chez les enfants, car celles-ci auront des répercussions négatives tout au long de leur vie. Il est donc essentiel que les enfants suivant ce type de régime soient orientés vers des professionnels de santé compétents qui leur prescriront les compléments alimentaires indispensables à leur équilibre nutritionnel. >> -- *GFHGNP*
 
 {{% /collapse %}}
 {{%collapse "Bénéfices des régimes végétariens" %}}
@@ -165,6 +167,7 @@ Les carences sont plus fréquentes en **fer, iode, vitamines B12 et D, phosphoca
 {{% /collapse %}}
 {{%sources%}}
 
-[Anses. Avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail relatif à l'établissement de repères alimentaires destinés aux personnes suivant un régime d'exclusion de tout ou partie des aliments d'origine animale. 2025.](https://www.anses.fr/fr/content/regimes-vegetariens-effets-sur-la-sante-et-reperes-alimentaires)
+- [Anses. Avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail relatif à l'établissement de repères alimentaires destinés aux personnes suivant un régime d'exclusion de tout ou partie des aliments d'origine animale. 2025.](https://www.anses.fr/fr/content/regimes-vegetariens-effets-sur-la-sante-et-reperes-alimentaires)
+- [Lemale J, et al. Vegan diet in children and adolescents. Recommendations from the French-speaking Pediatric Hepatology, Gastroenterology and Nutrition Group (GFHGNP). Archives de Pédiatrie. 2019. (PDF)](https://www.gfhgnp.org/wp-content/uploads/kdocuments/Recos-v%C3%A9g%C3%A9talisme-Arch-P%C3%A9diatr-19.pdf)
 
 {{%/sources%}}
