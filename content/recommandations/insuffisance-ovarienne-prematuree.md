@@ -8,10 +8,10 @@ synonyms = ["Insuffisance ovarienne précoce", "ménopause prématurée"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2022-01-07T12:11:02+01:00"
 publishdate = "2022-01-10"
-lastmod = "2025-01-21"
+lastmod = "2026-11-10"
 specialites = ["gynécologie-obstétrique"]
-annees = "2024"
-sources = ["ESHRE", "PNDS", "CNGOF"]
+annees = "2026"
+sources = ["NICE", "ESHRE", "PNDS", "CNGOF"]
 tags = ["coeliaque", "infertilité", "sueurs nocturnes", "TSH"]
 english = ["Premature ovarian insufficiency (POI)"]
 sctid = "237788002"
@@ -78,8 +78,14 @@ ESHRE
 IOP
 : insuffisance ovarienne prématurée (ex ménopause précoce)
 
+NICE
+: {{%lang%}}National Institute for Health and Care Excellence{{%/lang%}}
+
 PNDS
 : protocole national de diagnostic et de soins
+
+SGUM
+: syndrome génito-urinaire de la ménopause
 
 THS
 : traitement hormonal substitutif
@@ -138,7 +144,7 @@ Signes et symptômes de ménopause précoce à rechercher avant 40 ans:
   - Troubles du sommeil
   - Troubles de l'humeur
   - Douleurs articulaires
-- Syndrome génito-urinaire de la ménopause  
+- **Syndrome génito-urinaire de la ménopause** (SGUM)  
   Diagnostic clinique si ≥ 1 parmi: symptômes vulvuvaginaux (sécheresse, douleurs, brûlures, irritation, prurit), sexuels (dyspareunie d'intromission, sténose), urinaires (signes fonctionnels, [cystites récidivantes]({{% relref "infection-urinaire-cystite-pyelonephrite.md" %}})).
 - [Infertilité]({{% relref "infertilite-couple.md" %}})
 - Chez l'enfant: impubérisme
@@ -155,22 +161,23 @@ L'**infertilité** est le plus souvent définitive mais pas toujours (4 à 10 % 
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Le critère diagnostique biologique d'insuffisance ovarienne prématurée est une **FSH > 25 UI/L**.
+> [!INFO]
+> Le critère diagnostique biologique d'insuffisance ovarienne prématurée est une **FSH > 25 UI/L**.
 
 ### Bilan de la ménopause précoce
 
-En première intention, bêta-HCG avec bilan complémentaire si négative.
+En première intention, bêta-HCG avec bilan complémentaire si négatifs.
 {.alert .alert-info}
 
 **Bilan en cas de β-hCG négative:**
 
-- FSH, TSH  
+- **FSH**, TSH  
 - Ferritine (voir [hémochromatose]({{% relref "hemochromatose.md" %}}))
 
 Précisions sur le bilan hormonal:
 
 - Doser sans contraception hormonale, à **tout moment du cycle**
-- Répéter la FSH à 4-6 semaines en cas de valeurs limites. En cas de doute persistant, l'AMH peut être mesurée.
+- **Répéter la FSH à 4-6 semaines** en cas de valeurs limites. En cas de doute persistant, l'AMH peut être mesurée.
 - L'estradiol n'est pas dosé, mais si mesuré bas, il s'agit d'une preuve supplémentaire
 
 ### Bilan en cas de diagnostic de ménopause précoce confirmé
@@ -207,7 +214,7 @@ Recommandations pour la prise en charge de l'insuffisance ovarienne prématurée
   - Par [contraceptif estroprogestatif]({{% relref "contraception.md" %}}) en continu
   - ou **traitement hormonal substitutif** (voir [spécialités disponibles pour le THM]({{% relref "menopause.md#spécialités-disponibles-pour-le-thm" %}}))
   - Préférer le schéma de THS combiné discontinu (afin de détecter une aménorrhée/grossesse), mais au choix de la patiente
-  - Viser au moins 100 µg d'estradiol transdermique
+  - Viser au moins 100 µg d'estradiol transdermique (*PNDS*)
   - Test de grossesse en l'absence d'hémorragie de privation
 - Traitement des troubles sexuels (voir *[Ménopause]({{% relref "menopause.md" %}})*)  
   Notamment ovule/gel estrogénique vaginal.
@@ -279,6 +286,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [NICE. Menopause: identification and management. NICE guideline. 2026.](https://www.nice.org.uk/guidance/ng23/chapter/Recommendations)
 - [Al-Toma A, et al. European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach. United European Gastroenterol J. 2025.](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.70119)
 - [Panay N, et al. Evidence-based guideline: premature ovarian insufficiency. Hum Reprod Open. 2024.](https://academic.oup.com/hropen/article/2024/4/hoae065/7918369)
 - [Bushnell C, et al. 2024 Guideline for the Primary Prevention of Stroke: A Guideline From the American Heart Association/American Stroke Association. Stroke. 2024.](https://www.ahajournals.org/doi/abs/10.1161/STR.0000000000000475)
