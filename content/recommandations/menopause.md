@@ -9,10 +9,10 @@ synonyms = ["Syndrome climatérique", "traitement hormonal substitutif (THS)"]
 auteurs = ["Jean-Baptiste FRON"]
 date = "2021-10-17T17:44:58+02:00"
 publishdate = "2021-10-19"
-lastmod = "2024-02-15"
+lastmod = "2026-11-10"
 specialites = ["gynécologie-obstétrique"]
-annees = "2021"
-sources = ["CNGOF"]
+annees = "2026"
+sources = ["NICE", "CNGOF"]
 tags = ["infertilité", "MVTE", "sueurs nocturnes"]
 english = ["Menopause", "Postmenopausal hormone replacement therapy"]
 sctid = "276477006"
@@ -114,6 +114,9 @@ IOP
 MVTE
 : maladie veineuse thromboembolique (embolie pulmonaire ou thrombose veineuse profonde)
 
+NICE
+: {{%lang%}}National Institute for Health and Care Excellence{{%/lang%}}
+
 SDM
 : syndrome douloureux mammaire
 
@@ -191,7 +194,7 @@ Diagnostics à évoquer devant des sueurs et des cycles irréguliers:
 - **Palpation des seins**
 - **Examen gynécologique complet**
 - **Syndrome climatérique:**
-  - Bouffées vasomotrices (BVM, 80 %)  
+  - Bouffées vasomotrices (BVM, prévalence de 80 %)  
     Elles durent 5 à 7 ans (voire +15 ans).
   - [Sueurs nocturnes]({{% relref "sueurs-nocturnes.md" %}})
   - Troubles du sommeil
@@ -232,6 +235,10 @@ Le rythme des mammographies est inchangé lorsque les douleurs sont diffuses.
 
 > [!INFO]
 > Aucun examen n'est recommandé pour le diagnostic de ménopause.
+
+Selon le NICE, le dosage de la FSH peut être considéré en cas de suspicion de 40 à 45 ans (voir le [chapitre IOP]({{% relref "insuffisance-ovarienne-prematuree.md" %}}) avant 40 ans).
+
+> Ne pas doser: AMH, inhibine A/B, œstradiol.
 
 ### Bilan pré-thérapeutique pour le THM
 
@@ -277,30 +284,36 @@ Le reste du bilan est réalisé par l'endocrinologue.
 
 **Objectifs:** amélioration de la santé, des signes climatériques, du risque cardiovasculaire et [prévention de l'ostéoporose]({{% relref "osteoporose.md" %}}).
 
-- Contrôle du risque cardiovasculaire
+- **Contrôle du risque cardiovasculaire**
   - [Arrêt du tabac]({{% relref "arret-tabac.md" %}}) et de l'alcool
   - {{< modal-btn modal-regime >}}Régime méditerranéen{{< /modal-btn >}}
   - Correction d'un surpoids  
-    Perte de 5 à 10 % par réduction glucido-lipidique.
+    Perte de 5-10 % par réduction glucido-lipidique.
   - Lutte contre la sédentarité
-  - Activité physique quotidienne (30 minutes)  
+  - **Activité physique quotidienne** (30 minutes)  
     Intensité faible à modérée, avec impact (marche, course à pied) et renforcement musculaire.
+- Soutien psychologique, voire TCC
 - Dépistages organisés des cancers
-- Supplémentation vitamino-calcique  
-  Globalement cible de vitamine D > 75 nmol/L (détail au chapitre [Vitamine D]({{% relref "vitamine-d.md" %}}), *Souberbielle 2019*)
-- **Bouffées vasomotrices**
+- [Supplémentation vitamino-calcique]({{% relref "apports-calcium.md" %}})  
+  Globalement cible de vitamine D > 75 nmol/L (détail au chapitre [Vitamine D]({{% relref "vitamine-d.md" %}}), *Souberbielle 2019*).
+- ==**Traitements des bouffées vasomotrices:**==
   - Yoga
   - Hypnose, acupuncture, homéopathie
   - Limiter les boissons chaudes
   - Vêtements légers et chauffage limité
-  - Antidépresseur IRS (paroxétine, citalopram, escitalopram avec interactions tamoxifène) ou IRSNA (venlafaxine)
+  - Fézolinétant 45 mg x 1/j ([Veoza®](https://base-donnees-publique.medicaments.gouv.fr/medicament/66063738/extrait#tab-rcp-et-notice), prix libre, sauf cancer hormonodépendant -- *NICE 2026*)
+  - Envisager: antidépresseur IRS (paroxétine, citalopram, escitalopram avec interactions tamoxifène) ou IRSNA (venlafaxine)
   - Autres traitements: gabapentine, prégabaline, clonidine
-- **Syndrome génito-urinaire** de la ménopause
+- ==**Traitements du syndrome génito-urinaire** de la ménopause (SGUM):==
   - Augmentation de la fréquence des rapports sexuels
   - Hydratants ou lubrifiants locaux (en pharmacie: "hydratant vaginal", "gel calmant/intime/vaginal", "sécheresse intime")
   - Acide hyaluronique local
-  - Œstrogènes locaux ([Blissel](https://base-donnees-publique.medicaments.gouv.fr/medicament/61797183/extrait#tab-rcp) NR)
+  - Œstrogènes locaux ([Blissel®](https://base-donnees-publique.medicaments.gouv.fr/medicament/61797183/extrait#tab-rcp) NR, passage systémique mineur). Avis oncologique en cas de cancer hormonodépendant.
+  - En cas d'échec: considérer la prastérone vaginale 6,5 mg 1 ovule au coucher ([Intrarosa®](https://base-donnees-publique.medicaments.gouv.fr/medicament/60073960/extrait#tab-rcp-et-notice), NR -- *NICE 2026*). L'ospémifène n'est pas disponible en France.
   - Sténose vaginale: dilatateurs de taille croissante
+  - Ne pas utiliser: laser vaginal (*NICE*)
+- Traitement de la baisse de libido:
+  - En cas de THM insuffisant: considérer la testostérone (*NICE 2026*)
 - Si antécédent de cancer du sein: contre-indication aux phytoœstrogènes
 
 > [!INFO]
@@ -359,10 +372,10 @@ Le THM peut être proposé en cas de ménopause **récente** (moins de 10 ans) s
 Recommandations pour le traitement hormonal de la ménopause (THM) en pratique:
 
 - Le THM est débuté seulement après diagnostic clinique certain et moins de 10 ans après le début de la ménopause
-- Association: estradiol par voie cutanée 17bêta-estradiol ou valérate d'estradiol + progestérone micronisée ou dydrogestérone au moins 12 jours par mois
+- Le THM est utilisé en association: **estradiol** par voie cutanée 17bêta-estradiol ou valérate d'estradiol + **progestérone** micronisée ou dydrogestérone au moins 12 jours par mois
 - Utiliser les doses minimales efficaces
 - Si hystérectomie: estradiol cutané seul
-- Schéma de THM
+- **Schéma de THM**
   - *Combiné continu* privilégié  
     Évite hémorragies de privation et BVM concomitantes, [migraines]({{% relref "migraine.md" %}}), simplicité.
   - ou *séquentiel* (hémorragies de privation)
@@ -618,27 +631,27 @@ Le traitement hormonal de la ménopause (THM):
 {{% /collapse %}}
 {{%sources%}}
 
+- [NICE. Menopause: identification and management. NICE guideline. 2026.](https://www.nice.org.uk/guidance/ng23/chapter/Recommendations)
 - [HAS. Réévaluation des spécialités indiquées dans le traitement hormonal de la ménopause (estradiol, estriol, tibolone, acétate de cyprotérone, dydrogestérone, lévonorgestrel, médrogestone, médroxyprogestérone, acétate de noréthistérone, progestérone). 2025.](https://www.has-sante.fr/jcms/p_3689712/fr/reevaluation-des-specialites-indiquees-dans-le-traitement-hormonal-de-la-menopause-estradiol-estriol-tibolone-acetate-de-cyproterone-dydrogesterone-levonorgestrel-medrogestone-medroxyprogesterone-acetate-de-norethisterone-progesterone)
+- [ACOG. Postmenopausal Estrogen Therapy Route of Administration and Risk of Venous Thromboembolism. 2013, reaffirmed 2024.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2013/04/postmenopausal-estrogen-therapy-route-of-administration-and-risk-of-venous-thromboembolism)
 - [ANSM. Progestatifs et risque de méningiome : recommandations pour limiter ce risque. 18/12/2023.](https://ansm.sante.fr/actualites/progestatifs-et-risque-de-meningiome-recommandations-pour-limiter-ce-risque)
 - Prescrire Redaction. Troubles liés à la ménopause. Premiers Choix Prescrire. Rev Prescrire. 2023.
 - [US Preventive Services Task Force. Hormone Therapy for the Primary Prevention of Chronic Conditions in Postmenopausal Persons: US Preventive Services Task Force Recommendation Statement. JAMA. 2022.](https://jamanetwork.com/journals/jama/fullarticle/2797867)
 - [Kremer C, et al. European Stroke Organisation guidelines on stroke in women: Management of menopause, pregnancy and postpartum. European Stroke Journal. 2022.](https://journals.sagepub.com/doi/full/10.1177/23969873221078696)
 - [Trémollieres F, et al. Les femmes ménopausées : recommandations pour la pratique clinique du CNGOF et du GEMVi (Texte court). Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000593)
 - [Saxon GDGC, et al. British Association for Sexual Health and HIV national guideline for the management of vulvovaginal candidiasis (2019). International Journal of STD & AIDS. 2020.](https://journals.sagepub.com/doi/10.1177/0956462420943034)
+- [HAS. Traitements hormonaux de la ménopause. Communiqués de presse. 16/07/2014.](https://www.has-sante.fr/jcms/c_1754596/fr/traitements-hormonaux-de-la-menopause)
 - [HAS. Les traitements hormonaux substitutifs de la ménopause. 2004.](https://www.has-sante.fr/jcms/c_272308/fr/les-traitements-hormonaux-substitutifs-de-la-menopause)
 
 ### Bibliographie en attente
 
 - [Qaseem A, et al. Pharmacologic Treatments for Females With Menopausal Vasomotor Symptoms: A Clinical Guideline From the American College of Physicians. Ann Intern Med. 2026.](https://www.acpjournals.org/doi/10.7326/ANNALS-26-01205) (payant)
-- [NICE. Menopause: identification and management. NICE guideline. 2026.](https://www.nice.org.uk/guidance/ng23/chapter/Recommendations)
 - [Lumsden MA, et al. European society of endocrinology clinical practice guideline for evaluation and management of menopause and the perimenopause. Eur J Endocrinol. 2025.](https://academic.oup.com/ejendo/article-abstract/193/4/G49/8281862)
 - [Huang AJ, et al. Nonhormonal Treatment of Menopausal Vasomotor Symptoms. JAMA Intern Med. 2025.](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2833235) (payant)
 - [Crandall CJ, et al. Management of Menopausal Symptoms: A Review. JAMA. 2023.](https://jamanetwork.com/journals/jama/article-abstract/2801054) (payant)
 - [Hocke C, et al. Syndrome génito-urinaire de la ménopause (SGUM). RPC les femmes ménopausées du CNGOF et du GEMVi. Gynécologie Obstétrique Fertilité & Sénologie. 2021.](https://www.sciencedirect.com/science/article/pii/S2468718921000775)
 - [ACOG. Treatment of Urogenital Symptoms in Individuals With a History of Estrogen-dependent Breast Cancer. 2021.](https://www.acog.org/clinical/clinical-guidance/clinical-Consensus/articles/2021/12/Treatment-of-Urogenital-Symptoms-in-Individuals-With-a-History-of-Estrogen-dependent-Breast-Cancer)
 - {{< references/college-endocrino >}}
-- [ACOG. Postmenopausal Estrogen Therapy Route of Administration and Risk of Venous Thromboembolism. 2020.](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2013/04/postmenopausal-estrogen-therapy-route-of-administration-and-risk-of-venous-thromboembolism)
-- [HAS. Traitements hormonaux de la ménopause. Communiqués de presse. 16/07/2014.](https://www.has-sante.fr/jcms/c_1754596/fr/traitements-hormonaux-de-la-menopause)
 - [International Menopause Society. Papers, Recommendations & Statements](https://www.imsociety.org/statements/)
 
 {{%/sources%}}
