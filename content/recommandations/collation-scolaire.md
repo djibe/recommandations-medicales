@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-11-09T21:47:56+01:00"
 publishdate = "2026-11-10"
-lastmod = "2026-11-10"
+lastmod = "2026-11-11"
 specialites = ["endocrinologie", "pédiatrie"]
 annees = "2026"
 sources = ["SPF", "SFP"]
@@ -18,7 +18,7 @@ sctid = "1290440006"
 icd10 = []
 image = false
 imageSrc = ""
-rank = "false"
+rank = "ok"
 writing = "ok"
 todo = "photo > Kanban"
 +++
@@ -46,11 +46,13 @@ La collation de 10 heures (en milieu scolaire ou ailleurs) est apparentée au **
 
 > << La pratique de la collation matinale entre le petit déjeuner et le repas de midi ou en début d'après-midi (à 15h) organisée à l'école, n'est pas recommandée. >> -- *Haut Conseil de la Santé Publique*
 
+> << D'une manière générale, l'Anses estime qu'il n'est pas souhaitable d'introduire des occasions de prises alimentaires en dehors des repas structurés (petit-déjeuner, déjeuner, goûter, dîner) afin notamment de limiter le risque d'apports énergétiques quotidiens excessifs. >> -- *Anses*
+
 ### Votre enfant refuse de prendre un petit-déjeuner ? {.mt-5 .mb-4}
 
 Cherchez-en d'abord la raison pour trouver la bonne solution (*RePPOP Aquitaine*).
 
-> << actuellement plus de 90 % des enfants prennent un petit-déjeuner >> -- *RePPOP Aquitaine*
+> Une minorité d'enfants ne prend pas de petit-déjeuner -- *Anses*
 
 ### Il n'a jamais le temps de prendre un petit-déjeuner ? {.mt-5 .mb-4}
 
@@ -78,15 +80,17 @@ Laissez-le se préparer tranquillement avant de prendre le petit déjeuner. S'il
 
 {{%sources%}}
 
-> << La prévalence du surpoids (obésité incluse) des enfants est restée stable entre 2006 et 2015. Elle était estimée à 18 % en 2006 et 17 % en 2015 (l’obésité seule étant passée de 3 % à 4 %). (*[SPF 2017](https://www.apop-france.com/uploads/elfinder/doc-telecharger/ESTEBAN.pdf)*)
+> << La prévalence du surpoids (obésité incluse) des enfants est restée stable entre 2006 et 2015. Elle était estimée à 18 % en 2006 et 17 % en 2015 (l'obésité seule étant passée de 3 % à 4 %). (*[SPF 2017](https://www.apop-france.com/uploads/elfinder/doc-telecharger/ESTEBAN.pdf)*)
 
 - [Santé Publique France. Le guide Manger-Bouger pour les parents d'enfants de 4 à 11 ans. (PDF)](https://www.mangerbouger.fr/content/show/2132/file/DT05-414-24B%20148-5fx210_GUIDE_40P_MANGER_BOUGER_4-11_ANS_bd_v2.pdf)
+- [Ministère de l'Éducation Nationale. Éducation à l'alimentation et au goût. 2025.](https://www.education.gouv.fr/education-l-alimentation-et-au-gout-7616)
 - [RePPOP Aquitaine. Pourquoi est-il préférable de supprimer la collation à l'école ? 2022. (PDF)](https://www.reppop-aquitaine.org/sites/default/files/public/2022-08/pourquoi_est-il_preferable_de_supprimer_la_collation.pdf), [RePPOP Franche-Comté. Pourquoi est-il préférable de supprimer la collation matinale à l'école ? (PDF)](https://www.ceronpaca.fr/content/uploads/2020/09/argumentaire-collation-ecole_FC.pdf)
-- [Haut Conseil de la santé publique. Avis relatif à la révision des repères alimentaires pour les enfants âgés de 0-36 mois et de 3-17 ans. 30/06/202.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=924)
+- [Haut Conseil de la santé publique. Avis relatif à la révision des repères alimentaires pour les enfants âgés de 0-36 mois et de 3-17 ans. 30/06/2020.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=924)
+- [Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (Anses). Les collations à l'école. 2012.](https://www.anses.fr/fr/article/collations-lecole)
 - [Bocquet A, et al; Comité de Nutrition de la Société française de pédiatrie. La collation de 10 heures en milieu scolaire : un apport alimentaire inadapté et superflu. Archives de Pédiatrie. 2003. (PDF)](https://pedagogie.ac-strasbourg.fr/fileadmin/pedagogie/nutrition/Collation_ARS/SFP-CN.pdf)
 
 ### Bibliographie en attente
 
-- [calendrier des saisons](https://www.mangerbouger.fr/content/show/2132/file/DT05-414-24B%20148-5fx210_GUIDE_40P_MANGER_BOUGER_4-11_ANS_bd_v2.pdf?request%5Bheaders%5D=)
+- [Calendrier des saisons](https://www.mangerbouger.fr/content/show/2132/file/DT05-414-24B%20148-5fx210_GUIDE_40P_MANGER_BOUGER_4-11_ANS_bd_v2.pdf?request%5Bheaders%5D=)
 
 {{%/sources%}}
