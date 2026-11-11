@@ -17,7 +17,7 @@ sctid = "399326009"
 icd10 = ["C67", "C67.9", "D09.0"]
 image = true
 imageSrc = "Lésion festonnée vésicale en échographie chez un homme de 70 ans. Cas de Craig Hacking, Radiopaedia.org, rID: 173374"
-rank = "false"
+rank = "ok"
 writing = "ok"
 todo = "flow"
 +++

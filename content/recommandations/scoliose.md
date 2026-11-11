@@ -18,7 +18,7 @@ sctid = "298382003"
 icd10 = ["M41", "M41.9"]
 image = true
 imageSrc = "Scolioses d'aspect différent avec un même angle de Cobb de 40°. Weiss HR, Goodall D, CC BY 2.0, via Wikimedia Commons"
-rank = "false"
+rank = "ok"
 writing = "false"
 todo = "flowchart"
 +++

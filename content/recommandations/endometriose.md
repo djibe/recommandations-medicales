@@ -18,7 +18,7 @@ icd10 = ["N80", "N80.9"]
 image = true
 imageSrc = "Illustration de l'endométriose par vectorjuice / Freepik"
 flowchart = true
-rank = "false"
+rank = "ok"
 writing = "false"
 todo = "https://endometriose-affairedetous.com/fiches-a-telecharger/, activité physique bassin, quid bilan IST/salpingite ?"
 +++

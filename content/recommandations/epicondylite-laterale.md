@@ -17,7 +17,7 @@ sctid = "202855006"
 icd10 = ["M77.1"]
 image = true
 imageSrc = "Illustration de l'épicondylite latérale du coude (tennis elbow). BruceBlaus, CC BY-SA 4.0, via Wikimedia Commons"
-rank = "false"
+rank = "ok"
 writing = "ok"
 todo = "flow > Kanban"
 +++

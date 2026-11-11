@@ -18,7 +18,7 @@ sctid = "236648008"
 icd10 = ["R33"]
 image = true
 imageSrc = "Vessie pleine avec dilatation extrême signant une rétention aiguë d'urines (RAU) au scanner. RétentioHellerhoff, CC BY-SA 3.0, via Wikimedia Commons"
-rank = "false"
+rank = "ok"
 writing = "ok"
 flowchart = true
 +++

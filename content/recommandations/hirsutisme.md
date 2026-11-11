@@ -17,7 +17,7 @@ sctid = "399939002"
 icd10 = ["L68.0"]
 image = true
 imageSrc = "Femme hirsute. Charles Eisenmann, Wikimedia Commons"
-rank = "false"
+rank = "ok"
 writing = "todo"
 todo = "flowchart Figure 2"
 +++
