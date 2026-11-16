@@ -8,15 +8,15 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-11-03T15:10:04+01:00"
 publishdate = "2026-11-12"
-lastmod = "2026-11-12"
+lastmod = "2026-11-16"
 specialites = ["gynécologie-obstétrique", "infectiologie"]
 annees = "2026"
-sources = ["CNR", "HAS"]
+sources = ["HAS", "CNR"]
 tags = []
 english = ["Cytomegalovirus infection (CMV)"]
 sctid = "28944009"
 icd10 = ["B25", "B25.9"]
-image = false
+image = true
 imageSrc = "Pneumocyte infecté par le cytomégalovirus (CMV). CDC, via Wikimedia Commons"
 rank = "false"
 writing = "ok"
@@ -27,9 +27,9 @@ flowchart = true
 {{%article-summary%}}
 
 - Le cytomégalovirus (CMV) est un virus de la famille des herpès virus, dont le réservoir est l'homme. Il est le plus souvent asymptomatique chez l'immunocompétent
-- Les complications sont liées à la (ré)-infection chez l'immunodéprimé et la transmission materno-fœtale
-- Les symptômes sont non spécifiques: fièvre, malaise, toux et dyspnée, douleurs abdominales, diarrhées
-- Le dépistage du CMV précoce pendant la grossesse (avant 14 SA, en l'absence d'immunité prouvée IgG+ et IgM-) et les mesures de prévention doivent être poursuivies pendant chaque grossesse
+- Les complications sont liées à la (ré)-infection chez l'immunodéprimé et la transmission materno-fœtale durant la phase périconceptionnelle
+- Les symptômes de l'infection par le CMV ne sont non spécifiques: fièvre, malaise, toux et dyspnée, douleurs abdominales, diarrhées
+- Le dépistage du CMV précoce, dès le désir de grossesse et au plus tôt en début de grossesse (avant 14 SA, en l'absence d'immunité prouvée IgG+/IgM-) et les mesures de prévention doivent être poursuivies pendant chaque grossesse
 - En cas contamination en début de grossesse, d'infection sévère ou chez le sujet immunodéprimé, obtenir un avis urgent du centre expert (diagnostic anténatal, infectiologue ...)
 
 {{%/article-summary%}}
@@ -37,9 +37,9 @@ flowchart = true
 
 Infection à cytomégalovirus (CMV)
 : Le cytomégalovirus (CMV) est un virus ubiquitaire à ADN, de la famille des herpès virus, dont le réservoir est l'homme. Chez le sujet infecté, il est majoritairement asymptomatique (90 %) chez l'immunocompétent. Il est excrété dans la salive, le mucus nasal, les sécrétions cervico-vaginales, le sperme, les urines et le lait maternel.
-: La transmission materno-fœtale est fréquente (1-4 %, 1^re^ infection congénitale) et peut être transplacentaire, pendant l'accouchement ou l'allaitement, par primo-infection ou réactivation. Les séquelles sont auditives et neurologiques. Une primo-infection au 1^er^ trimestre expose au risque d'embryofœtopathie dans 54 % des cas (70 % durant la période périconceptionnelle).
-: Le CMV est également grave chez l'immunodéprimé, justifiant une prophylaxie ou le nouveau-né.
-: Le CMV est impliqué dans d'autres pathologies: glioblastomes ([coordination française](https://www.jim.fr/viewarticle/cytom%C3%A9galovirus-et-glioblastome-causalit%C3%A9-2024a1000c0e)).
+: La transmission materno-fœtale est fréquente (1-4 %, 1^re^ infection congénitale) et peut être transplacentaire, pendant l'accouchement ou l'allaitement, par primo-infection ou réactivation. Une primo-infection au 1^er^ trimestre expose au risque d'embryofœtopathie dans 54 % des cas (70 % durant la période périconceptionnelle), avec des séquelles auditives et neurologiques.
+: Le CMV est également grave chez l'immunodéprimé (justifiant une prophylaxie) ou le nouveau-né.
+: Il est impliqué dans d'autres pathologies: glioblastomes ([coordination française](https://www.jim.fr/viewarticle/cytom%C3%A9galovirus-et-glioblastome-causalit%C3%A9-2024a1000c0e)).
 
 ### Abréviations
 
@@ -51,6 +51,12 @@ CNR
 
 HAS
 : Haute Autorité de Santé
+
+période périconceptionnelle
+: de 8 semaines avant la conception à 14 SA
+
+SA
+: semaines d'aménorrhée
 {.dl-inline}
 
 {{% /collapse %}}
@@ -87,27 +93,32 @@ L'infection est souvent **asymptomatique** et les symptômes sont extrêmement v
 {{% /collapse %}}
 {{%collapse "Examens complémentaires" %}}
 
-Le bilan de la suspicion d'infection à cytomégalovirus (CMV) comprend la **sérologie CMV**, voire une PCR sanguine CMV d'emblée associée.
+Le bilan diagnostique de la suspicion d'infection à cytomégalovirus (CMV) comprend la **sérologie CMV**, voire une PCR sanguine CMV d'emblée associée.
 
 Les autres tests diagnostiques sont l'immunohistochimie et la PCR sur des prélèvements de fluides ou tissulaires, l'histologie.
+
+### Amniocentèse
+
+En cas de primo-infection durant la période périconceptionnelle (de 8 semaines avant la conception à 14 SA), une amniocentèse dans un centre expert est recommandée le plus tôt possible à partir de 18 SA.
 
 {{% /collapse %}}
 {{%collapse "Dépistage du CMV pendant la grossesse" %}}
 
 > [!INFO]
-> Le dépistage de l'infection à CMV est recommandé par la HAS au premier trimestre de grossesse (dès que possible et avant 14 SA) en l'absence de séropositivité connue (IgG+ et IgM-). Il vise à instaurer le valaciclovir en cas de contamination.
+> Le dépistage de l'infection à CMV est recommandé par la HAS au mieux dès le désir de grossesse et au premier trimestre de grossesse (dès que possible et avant 14 SA) en l'absence de séropositivité connue (IgG+ et IgM-). Il vise à instaurer le valaciclovir en cas de contamination.
 
-**Indications au dépistage du CMV pendant la grossesse:**
+### Indications au dépistage du CMV pendant la grossesse
 
-- Toute femme sans immunité CMV prouvée (IgG+ et IgM-)
-- Dès que possible au premier trimestre de grossesse (< 14 SA)
-- En cas de suivi: dans le même laboratoire
+- Toute femme sans immunité CMV prouvée: IgG+ et IgM-
+- Dès le désir de grossesse et le plus tôt possible au premier trimestre de grossesse (< 14 SA)
+- Préciser sur l'ordonnance: grossesse/non, date des dernières règles ou de début de grossesse
+- En cas de suivi: répéter les examens dans le même laboratoire
 
-En cas de primo-infection pendant la grossesse, un **traitement antiviral** par **valaciclovir** est instauré en lien avec la maternité.
+> En cas de primo-infection pendant la grossesse, un **traitement antiviral** par **valaciclovir** est instauré en lien avec la maternité.
 
-**Dépistage par sérologie CMV IgM + IgG:**
+### Conduite à tenir selon les résultats du dépistage par sérologie CMV
 
-- IgG-/équivoques et IgM-: sérologie mensuelle (dernière entre 13 et 14 SA)
+- IgG-/équivoques et IgM-: sérologie toutes les 4 semaines (dernière entre 13 et 14 SA)
 - IgG-/équivoques et IgM+/équivoques: début de primo-infection ou IgM non spécifiques
   - Confirmer par PCR sanguine sur le même prélèvement
   - Et contrôle sérologie 5-10 jours après
@@ -120,21 +131,23 @@ En cas de primo-infection pendant la grossesse, un **traitement antiviral** par 
   - Avidité intermédiaire: datation immédiate en centre expert
   - Avidité élevée: infection ancienne, pas de suivi
 
+La prise en charge en de **primo-infection CMV** au premier trimestre associe: centre expert ([annuaire](https://www.ffcpdpn.fr/systeme/plan-interactif/)), antiviral valaciclovir 2g x 4/j, psychothérapie, [déclaration au CNR](https://www.unilim.fr/cnr-herpesvirus/surveillances/recensement-maternofoetal/infection-congenitale-a-cmv/).
+
 ### Sérologie CMV avant la conception
 
-En cas de sérologie CMV réalisée avant la conception, la prise en charge est la suivante (CNR):
+En cas de **sérologie CMV réalisée avant la conception** (objectif pour toutes les femmes sans immunité connue), la prise en charge est la suivante (*HAS*, *CNR*):
 
 - IgG- et IgM-: sérologie complète dès que possible en début de grossesse
-- IgG+ et IgM-: pas de nouvelle sérologie (immunisée)
+- IgG+ et IgM-: pas de suivi ultérieur (immunisée)
 - IgG- et IgM+ et séroconversion ou PCR CMV+  
-  ou IgG+ et IgM+/équivoque et avidité faible: reporter le projet de grossesse de 2 mois
+  ou IgG+ et IgM+/équivoque et avidité faible: reporter le projet de grossesse de 2 mois, pas de suivi ultérieur
 
 ### Sérologie manquée avant 14 SA
 
-En cas de grossesse évolutive après 14 SA et de volonté de rattrapage, une sérologie peut être effectuée sur un sérum de début de grossesse.
+En cas de grossesse évolutive **après 14 SA** et de volonté de **rattrapage**, une sérologie peut être effectuée sur un sérum de début de grossesse (*HAS*, *CNR*).
 
 {{% /collapse %}}
-{{%collapse "Prévention CMV pendant la grossesse" %}}
+{{%collapse "Prévention du CMV pendant la grossesse" %}}
 
 > [!INFO]
 > << La promotion de l'hygiène permettrait de diminuer de 25 % les conséquences graves liées au CMV congénital. >> -- *CNGOF 2025*
@@ -161,9 +174,12 @@ Autres antiviraux: foscarnet, cidofovir (valaciclovir pendant la grossesse). La 
 {{% /collapse %}}
 {{%collapse "Prise en charge du dépistage du CMV" "show" %}}
 
-{{< mermaid title="Prise en charge du dépistage du CMV pendant la grossesse. Dr JB Fron d'après CNR 2026, HAS. **Eqv =** équivoque; **PI =** primo-infection" >}}
+{{< mermaid title="Prise en charge du dépistage du CMV pendant la grossesse. Dr JB Fron d'après HAS et CNR 2026. **Eqv =** équivoque; **PI =** primo-infection" >}}
 graph TB
-  indication["Critères: <br>- Femme enceinte<br>avant 14 SA<br>- Absence d'immunité<br>ou inconnue"] --> dépistage("Sérologie CMV<br>IgG et IgM<br>dès que possible") --> 1("IgG-/Eqv et<br>IgM-") ----> naive("Absence d'immunité:<br>Sérologie mensuelle<br>(dernière entre 13 et 14 SA)")
+désir(Désir de grossesse) --> séro("- Mesures de prévention<br>- Sérologie CMV") -- "IgG-/IgM-" --> indication
+  séro -- "IgG+/IgM-" --> pas(Pas de suivi)
+  séro -- IgG-/IgM+<br>ou PCR+ --> reporter(Reporter projet<br>gs de 2 mois) --> pas
+  indication["<b>Critères de dépistage</b>: <br>- Femme enceinte<br>avant 14 SA<br>(+ tôt possible)<br>- Absence d'immunité<br>ou inconnue"] --> dépistage("<b>Sérologie CMV</b><br>IgG et IgM<br>dès que possible") --> 1("IgG-/Eqv et<br>IgM-") ----> naive("Absence d'immunité:<br>Sérologie/4 sem.<br>(dernière entre<br> 13 et 14 SA)")
     dépistage --> 2("IgG-/Eqv et<br>IgM +/Eqv") --> 2PI("Debut de PI ou<br>IgM non spécifiques<br>—<br>- PCR sur le prélèvement<br>- Sérologie à J5-J10") -- "PCR- ou<br>non réalisée" --> sérologie("Sérologie<br> à J5-J10") -- "IgG-<br>IgM+" --> naive
       sérologie -- "IgG+<br>IgM+" --> PI
       2PI -- "PCR+" --> PI("Primo-infection<br>&lt; 1 mois") --> centre(Centre expert<br>urgent)
@@ -177,6 +193,7 @@ graph TB
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Dépistage du cytomégalovirus au premier trimestre de la grossesse : prise en charge et suivi. 2026.](https://www.has-sante.fr/jcms/p_3748990/fr/depistage-du-cytomegalovirus-au-1er-trimestre-de-la-grossesse-prise-en-charge-et-suivi)
 - [Centre National de Référence des Herpèsvirus (CNR HERPESVIRUS). Recommandations du CNR - Algorithmes CMV clinicien. 2026.](https://www.unilim.fr/cnr-herpesvirus/recommandations/recommandations-du-cnr/)
 - [HAS. Évaluation de la pertinence d'un dépistage systématique de l'infection à cytomégalovirus (CMV) au cours de la grossesse. 2025.](https://www.has-sante.fr/jcms/p_3587389/fr/evaluation-de-la-pertinence-d-un-depistage-systematique-de-l-infection-a-cytomegalovirus-cmv-au-cours-de-la-grossesse)
 - [Collège national des gynécologues et obstétriciens français (CNGOF). Prévention primaire de l'infection à CMV pendant la grossesse. 2025. (PDF)](https://cngof.fr/app/uploads/2025/12/CMV-prevention-hygienique.pdf)
