@@ -173,4 +173,9 @@ graph TB
 - [Okeahialam NA, et al. Pelvic floor muscle training: a practical guide. BMJ. 2022. (payant)](https://www.bmj.com/content/378/bmj-2022-070186)
 - [Harding CK, et al. EAU guidelines on management of non-neurogenic female lower urinary tract symptoms. 2026.](https://uroweb.org/guidelines/non-neurogenic-female-luts)
 
+### Travaux en cours
+
+- [HAS. Traitement de l'incontinence urinaire d'effort de la femme - Note de cadrage. 2026.](https://www.has-sante.fr/jcms/p_3921747/)
+- [Label HAS. Traitement de l’hyperactivité vésicale et de l'incontinence urinaire non neurologique par urgenturie - Note de cadrage. 2025.](https://www.has-sante.fr/jcms/p_3700450/)
+
 {{%/sources%}}

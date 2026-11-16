@@ -235,6 +235,7 @@ L'IDR est en faveur de l'absence de primo-infection si elle est < 5 mm (10 mm en
 
 ### Bibliographie en attente
 
+- [HAS. Actualisation des indications des tests de détection de l'infection tuberculeuse latente par mesure de la production d'interféron gamma (tests IGRA) - Patients immunodéprimés ou avant instauration d'un traitement immunosuppresseur. Évaluation des technologies de santé. 2026.](https://www.has-sante.fr/jcms/p_4015118/fr/actualisation-des-indications-des-tests-de-detection-de-l-infection-tuberculeuse-latente-par-mesure-de-la-production-d-interferon-gamma-tests-igra-patients-immunodeprimes-ou-avant-instauration-d-un-traitement-immunosuppresseur)
 - [Vaccinews](https://d78k9.r.sp1-brevo.net/mk/mr/sh/SMJz09SDriOHW09HrnpAgAddjvZn/CQpmyO0rmTVM)
 - [Kim S, et al. Management of Latent Tuberculosis Infection. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2800774)
 - [Collège des Enseignants de Pneumologie (CEP). Tuberculose. Item 159. 2023.](https://cep.splf.fr/8eme-edition-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-epreuves-dematerialisees-nationales-edn/)

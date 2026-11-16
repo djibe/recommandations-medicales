@@ -152,7 +152,7 @@ Le diagnostic de fausse couche est certain en cas de grossesse intra-utérine co
 
 L'échographie peut être indécise, d'autant plus que le terme est précoce.
 
-#### Signes échographiques diagnostiques de fausse couche d'une grossesse intra-utérine
+#### Signes échographiques diagnostiques de fausse couche
 
 - Longueur crânio-caudale ≥ 7 mm et absence de battements cardiaques  
   Répéter l'échographie à au moins 7 jours ou demander un contre-avis (*NICE 2026*).

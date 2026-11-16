@@ -322,4 +322,8 @@ style grossesse stroke:#4150f5, stroke-width:1px
 
 - [HCSP. Guide pour l'immunisation en post-exposition : vaccination et immunoglobulines. 2016.](https://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=548)
 
+### Travaux en cours
+
+- [HAS. Recommandation vaccinale contre la varicelle chez les nourrissons de 12 mois et plus - Note de cadrage. 2025.](https://www.has-sante.fr/jcms/p_3777770/)
+
 {{%/sources%}}

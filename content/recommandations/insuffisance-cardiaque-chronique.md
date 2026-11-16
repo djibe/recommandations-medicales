@@ -579,9 +579,9 @@ style ICFEd stroke:#4150f5, stroke-width:1px
 - [Chow SL, et al. Complementary and Alternative Medicines in the Management of Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2023.](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001110)
 - [Collège National des Enseignants de Cardiologie, Société Française de Cardiologie. Insuffisance cardiaque de l'adulte. Item 234. Médecine cardiovasculaire - Réussir son DFASM. 2022.](https://www.sfcardio.fr/formation/dfasm/)
 
-### Bibliographie à venir
+### Travaux en cours
 
-- [HAS. Prise en charge médicamenteuse de l'insuffisance cardiaque. Note de cadrage. 2026.](https://www.has-sante.fr/jcms/p_4015187/fr/prise-en-charge-medicamenteuse-de-l-insuffisance-cardiaque-note-de-cadrage)
+- [HAS. Prise en charge médicamenteuse de l'insuffisance cardiaque - Note de cadrage. 2026.](https://www.has-sante.fr/jcms/p_4015187/fr/prise-en-charge-medicamenteuse-de-l-insuffisance-cardiaque-note-de-cadrage)
 
 {{%/sources%}}
 {{% modal title="Échelle NYHA" id="score-nyha"%}}

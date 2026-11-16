@@ -253,4 +253,8 @@ graph TB
 - [Tessema GA, et al. Interpregnancy interval and adverse pregnancy outcomes among pregnancies following miscarriages or induced abortions in Norway (2008-2016): A cohort study. PLOS Medicine. 2022.](https://doi.org/10.1371/journal.pmed.1004129)
 - [HAS. Contraception chez la femme après une interruption volontaire de grossesse (IVG). 2019.](https://www.has-sante.fr/jcms/c_1753312/fr/contraception-chez-la-femme-apres-une-interruption-volontaire-de-grossesse-ivg)
 
+### Travaux en cours
+
+- [HAS. Interruption volontaire de grossesse par méthode instrumentale - Note de cadrage. 2026.](https://www.has-sante.fr/jcms/p_4015165/)
+
 {{%/sources%}}

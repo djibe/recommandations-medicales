@@ -80,7 +80,11 @@ Toutefois, ces valeurs ne sont que des moyennes de la mortalité en France métr
 
 ## Source
 
-[Insee. Espérances de vie - France métropolitaine. Bilan démographique 2023. 2024.](https://www.insee.fr/fr/statistiques/7746170?sommaire=7746197)
+- [Insee. Espérances de vie - France métropolitaine. Bilan démographique 2023. 2024.](https://www.insee.fr/fr/statistiques/7746170?sommaire=7746197)
+
+### Bibliographie en attente
+
+- [Drees. L'espérance de vie sans incapacité à 65 ans est de 11,8 ans pour les femmes et de 10,5 ans pour les hommes en 2024. 2026.](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/260122-ER-esperance-de-vie-sans-incapacite)
 
 <script>
 window.addEventListener('load', () => {

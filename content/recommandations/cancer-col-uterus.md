@@ -371,6 +371,10 @@ Le marqueur tumoral **SCC** n'a pas d'intérêt au cours de la prise en charge.
 - [HAS. Cancer invasif du col utérin. Janvier 2010. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2010-02/ald_30_gm_col_uterin_web_2010-02-12_09-57-34_599.pdf)
 - [Vaccination Info Service. Les infections à papillomavirus humains (HPV).](https://vaccination-info-service.fr/Les-maladies-et-leurs-vaccins/Les-Infections-a-Papillomavirus-humains-HPV)
 
+### Bibliographie en attente
+
+- [Cibula D, et al. European Society of Gynaecological Oncology resource-stratified guidelines for the management of patients with cervical cancer. Int J Gynecol Cancer. 2026.](https://www.international-journal-of-gynecological-cancer.com/article/S1048-891X(25)01867-5/abstract)
+
 {{%/sources%}}
 {{% modal title="Score G8" id="modal-g8"%}}
 

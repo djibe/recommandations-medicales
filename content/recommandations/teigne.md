@@ -117,6 +117,7 @@ Recommandations pour la prise en charge et le traitement de la teigne:
 
 - Raser les cheveux autour
 - Traitement probabiliste par ==**terbinafine x 1/j pendant 28 jours**==
+  - ==Avant 12 ans, hors AMM, téléexpertise pour prescription hospitalière/infectiologique==
   - \> 40 kg: [250 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/64309326/extrait#tab-rcp)
   - 21-40 kg: 125 mg (1/2 cp de 250 mg)
   - 10-20 kg: 62,5 mg (1/4 cp)

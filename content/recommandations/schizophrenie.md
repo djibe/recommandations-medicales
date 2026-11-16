@@ -27,4 +27,8 @@ todo = "fiche > photo > newsletter > flow > Kanban"
 
 Voir [Psychiaclic: schizophrénie](https://www.psychiaclic.fr/troubles-psychiatriques/schizophrenie)
 
+### Travaux en cours
+
+- [HAS. Diagnostic et évaluation des troubles schizophréniques - Note de cadrage. 2026.](https://www.has-sante.fr/jcms/p_3953998/)
+
 {{%/article-summary%}}

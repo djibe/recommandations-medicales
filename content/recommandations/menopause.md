@@ -654,6 +654,10 @@ Le traitement hormonal de la ménopause (THM):
 - {{< references/college-endocrino >}}
 - [International Menopause Society. Papers, Recommendations & Statements](https://www.imsociety.org/statements/)
 
+### Travaux en cours
+
+- [HAS. Prise en charge de la femme en période de péri-ménopause/ménopause en soins de premier recours - Note de cadrage. 2025.](https://www.has-sante.fr/jcms/p_3737819/)
+
 {{%/sources%}}
 {{% modal title="Dépistage des apnées par le score STOP-BANG" id="modal-saos"%}}
 

@@ -120,7 +120,7 @@ Recommandations pour la prise en charge de l'hypertriglycéridémie:
 - **Mesures hygiéno-diététiques pour la réduction des triglycérides:** {{< modal-btn modal-regime >}}régime méditerranéen{{< /modal-btn >}} ou DASH
   - Perte de poids, réduire l'alcool et les sucres (dont le fructose)
   - Réduire les graisses saturées  
-    Arachide, tournesol avocat, gras de volailles, cacahuète et fruits à coque, pâte à tartiner, chocolat ... ([Table ciqual](https://ciqual.anses.fr))
+    Arachide, tournesol, avocat, gras de volailles, cacahuète et fruits à coque, pâte à tartiner, chocolat ... ([Table ciqual](https://ciqual.anses.fr))
   - Augmenter les apports en oméga 3
   - Augmenter les apports en fibres
   - Activité physique
