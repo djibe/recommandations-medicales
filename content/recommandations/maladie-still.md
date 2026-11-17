@@ -1,11 +1,11 @@
 +++
 id = "2b404495-70cb-49d0-8c3a-25aed834f9e5"
-title = "Maladie de Still"
+title = "Maladie de Still de l'adulte"
 prefix = "l'"
 noindex = true
 noSApi = true
 noSearchContent = true
-description = "Recommandations pour le diagnostic et la prise en charge de la maladie de Still"
+description = "Recommandations pour le diagnostic et la prise en charge de la maladie de Still de l'adulte"
 synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-10-02T20:06:00+01:00"
@@ -17,7 +17,7 @@ sources = ["FAI2R"]
 tags = []
 english = ["Adult onset Still's disease"]
 sctid = "239920006"
-icd10 = []
+icd10 = ["M06.1", "M06.19"]
 image = false
 imageSrc = ""
 todo = "fiche > photo > newsletter > flow > Kanban"

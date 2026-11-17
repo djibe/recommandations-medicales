@@ -1,6 +1,7 @@
 +++
 id = "0197f50c-f1a2-72f5-93cd-f01c72af9616"
 title = "Automesure tensionnelle (AMT)"
+titleSeo = "Automesure tensionnelle"
 prefix = "l'"
 description = "Recommandations pour l'automesure tensionnelle (AMT): mesures standardisées de la pression artérielle pour le diagnostic et le suivi de l'hypertension artérielle"
 synonyms = []
