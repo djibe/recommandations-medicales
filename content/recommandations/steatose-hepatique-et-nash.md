@@ -254,6 +254,7 @@ graph TB
 
 ### Bibliographie en attente
 
+- [Szilagyi A, Hilzenrat N. Approche de la stéatose hépatique en clinique. Canadian Family Physician. 2025.](https://www.cfp.ca/content/71/4/e56)
 - [European Association for the Study of the Liver (EASL); European Association for the Study of Diabetes (EASD); European Association for the Study of Obesity (EASO). EASL-EASD-EASO Clinical Practice Guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD). J Hepatol. 2024.](https://www.journal-of-hepatology.eu/article/S0168-8278(24)00329-5/fulltext)
 - [Newsome PN, et al; BSG. Guidelines on the management of abnormal liver blood tests. Gut. 2018.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5754852/)
 - [Leung PB, et al. Diagnosis and Management of Nonalcoholic Fatty Liver Disease. JAMA. 2023.](https://jamanetwork.com/journals/jama/fullarticle/2810964)

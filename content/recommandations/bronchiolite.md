@@ -468,4 +468,8 @@ Les autres traitements exposent à des effets indésirables parfois graves.
 - [HAS, Collège National Professionnel de Pédiatrie (CNPP). Prise en charge du premier épisode de bronchiolite aiguë chez le nourrisson de moins de 12 mois. 2019.](https://www.has-sante.fr/jcms/p_3118113/fr/prise-en-charge-du-1er-episode-de-bronchiolite-aigue-chez-le-nourrisson-de-moins-de-12-mois)
 - [HAS. Synagis. Commission de la transparence. 05/04/2017.](https://www.has-sante.fr/jcms/c_2756580/fr/synagis-palivizumab)
 
+### Bibliographie en attente
+
+- [Siu W, et al. Prévention par immunisation passive de l'infection au virus respiratoire syncytial chez les nourrissons. Canadian Family Physician. 2024.](https://www.cfp.ca/content/70/11-12/e187)
+
 {{%/sources%}}

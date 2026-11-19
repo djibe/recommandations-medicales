@@ -507,6 +507,11 @@ graph TB
 - [Berardelli A, et al. EFNS/MDS-ES recommendations for the diagnosis of Parkinson's disease. Eur J Neurol. 2013.](https://onlinelibrary.wiley.com/doi/10.1111/ene.12022)
 - [Santé Publique France. Maladie de Parkinson.](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-neurodegeneratives/maladie-de-parkinson)
 
+### Bibliographie en attente
+
+- [Frank C, et al. Abécédaire de la maladie de Parkinson, partie 1 : le diagnostic. Canadian Family Physician. 2023.](https://www.cfp.ca/content/69/1/e8)
+- [Franck C, et al. Abécédaire de la maladie de Parkinson, partie 2 : prise en charge des symptômes moteurs et non moteurs. Canadian Family Physician. 2023.](https://www.cfp.ca/content/69/2/e26)
+
 ### Bibliographie pour en savoir plus
 
 - [Pringsheim T, et al. Dopaminergic Therapy for Motor Symptoms in Early Parkinson Disease Practice Guideline Summary. A Report of the AAN Guideline Subcommittee. Neurology. 2021.](https://www.neurology.org/doi/10.1212/wnl.0000000000012868)
