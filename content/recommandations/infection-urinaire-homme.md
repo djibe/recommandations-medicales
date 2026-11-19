@@ -36,7 +36,7 @@ Recommandations pour les infections urinaires communautaires de l'homme immunoco
 - La prise en charge de l'infection urinaire de l'homme dépend du tableau clinique: cystite (IU non fébrile), prostatite (IU fébrile avec symptômes de cystite) ou pyélonéphrite (IU fébrile avec douleurs lombaires ± symptômes de cystite) avec ECBU positif
 - Traitement de la **cystite aiguë**:
   - Attente de l'ECBU en cas de symptômes bien tolérés et de diagnostic incertain
-  - Sinon traitement probabiliste par fosfomycine-trométamol 3 g à J1-J3-J5, nitrofurantoïne 50 mg x 3/j ou pivmécillinam 200 mg 2 cp x 2/j
+  - Sinon traitement probabiliste par fosfomycine-trométamol 3 g à J1-J3-J5, nitrofurantoïne 100 mg x 3/j ou pivmécillinam 400 mg x 2/j
   - Poursuivre si le germe est sensible pour un total de 7 jours (sauf fosfomycine en 3 doses), sinon relayer par amoxicilline ou triméthoprime ou autre traitement probabiliste
 - Traitement de la **prostatite aiguë**:
   - Probabiliste par ceftriaxone 1g/j ou ciprofloxacine 500 mg x 2/j (ou lévofloxacine 500 mg/j, sauf FQ dans les 6 mois)
@@ -120,13 +120,13 @@ Recommandations pour l'antibiothérapie de la cystite aiguë de l'homme:
 - En cas de symptômes bien tolérés et de diagnostic incertain, essayer de différer le traitement jusqu'à l'antibiogramme
 - Sinon, **traitement probabiliste:**
   - [fosfomycine-trométamol 3 g](https://base-donnees-publique.medicaments.gouv.fr/medicament/66430643/extrait#tab-rcp) 1 sachet à J1-J3-J5
-  - ou [nitrofurantoïne 50 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/62013296/extrait#tab-rcp) (Furadantine®) 1 gél x 3/j
+  - ou [nitrofurantoïne 50 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/62013296/extrait#tab-rcp) (Furadantine®) 2 gél x 3/j
   - ou [pivmécillinam 200 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/60670489/extrait#tab-rcp) (Selexid®) 2 cp x 2/j
 - Traitement guidé:
   - **Poursuivre le traitement probabiliste si le germe est sensible** et la tolérance est bonne, sinon, substituer pour un traitement ==total de **7 jours**== (sauf fosfomycine en 3 doses)
   - [amoxicilline 1 g](https://base-donnees-publique.medicaments.gouv.fr/medicament/60151544/extrait#tab-rcp) x 3/j
-  - ou fosfomycine-trométamol 3g 1 sachet à J1-J3-J5
-  - ou nitrofurantoïne 1 gél x 3/j
+  - ou fosfomycine-trométamol 3 g 1 sachet à J1-J3-J5
+  - ou nitrofurantoïne 50 mg 2 gél x 3/j
   - ou pivmécillinam 200 mg 2 cp x 2/j
   - ou [triméthoprime 300 mg](https://base-donnees-publique.medicaments.gouv.fr/medicament/66142235/extrait#tab-rcp) (Delprim®) x 1/j
 
