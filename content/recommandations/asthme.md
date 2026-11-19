@@ -44,7 +44,7 @@ flowchart = true
   - Vaccination grippe annuelle; {{< modal-btn modal-vaccin-pneumocoque >}}vaccin pneumocoque polysaccharidique{{< /modal-btn >}} chez l'adulte et l'enfant avec ALD asthme
 - [Vidéos des techniques d'inhalation](https://splf.fr/videos-zephir/) des bronchodilatateurs
 
-Pour la pratique: [modèle de PAI de l'asthme avant 12 ans](/print/pai-asthme.pdf) et [+12 ans](/print/pai-asthme+12.pdf) (PDF) et [annuaire des Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/).
+Pour la pratique: [modèle de PAI de l'asthme 6-12 ans](/print/pai-asthme.pdf) et [+12 ans](/print/pai-asthme+12.pdf) (PDF) et [annuaire des Écoles de l'asthme](https://asthme-allergies.org/liste-officielle-ecoles-de-lasthme-france/).
 
 Chapitres liés: [corticoïdes inhalés]({{% relref "corticoides-inhales.md" %}}) (CSI), [rhinite allergique]({{% relref "rhinite-allergique.md" %}}), [BPCO]({{% relref "bronchopneumopathie-chronique-obstructive.md" %}})
 
@@ -74,7 +74,7 @@ Chapitres liés: [corticoïdes inhalés]({{% relref "corticoides-inhales.md" %}}
 - Enfant:
   - Bilan allergologique fait
   - Privilégier aérosol-doseur avec chambre d'inhalation sans masque
-  - [PAI de l'asthme avant 12 ans](/print/pai-asthme.pdf) (*SP2A/AFPA/... 2025*) et [+12 ans](/print/pai-asthme+12.pdf)
+  - [PAI de l'asthme 6-12 ans](/print/pai-asthme.pdf) (*SP2A/AFPA/... 2025*) et [+12 ans](/print/pai-asthme+12.pdf)
   - Vaccination antigrippale annuelle
 - Plan d'action connu et remis
 - Activité physique quotidienne
