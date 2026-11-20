@@ -71,6 +71,7 @@ User-agent: DoubaoBot
 User-agent: DuckAssistBot
 User-agent: Echobot Bot
 User-agent: EchoboxBot
+User-agent: ElevenlabsCrawler
 User-agent: ElgooResearch
 User-agent: ERNIEBot
 User-agent: ExaBot
@@ -94,6 +95,7 @@ User-agent: GrokAppAndroid
 User-agent: GrokBot
 User-agent: HaloBot
 User-agent: HanaleiBot
+User-agent: HatchFeed
 User-agent: HCP Analyzer
 User-agent: heritrix
 User-agent: HubSeedsBot
@@ -133,6 +135,7 @@ User-agent: meta-externalagent
 User-agent: Meta-ExternalAgent
 User-agent: meta-externalfetcher
 User-agent: Meta-ExternalFetcher
+User-agent: Meta-WebIndexer
 User-agent: meta-webindexer
 User-agent: mirrorweb
 User-agent: MistralAI-Index
@@ -141,6 +144,7 @@ User-agent: MistralAI-User/1.0
 User-agent: MJ12bot
 User-agent: ModerneBot
 User-agent: Mozilla-Tabstack
+User-agent: muse-
 User-agent: MyCentralAIScraperBot
 User-agent: NagetBot
 User-agent: nbot
@@ -181,6 +185,7 @@ User-agent: Reflectionbot
 User-agent: SBIntuitionsBot
 User-agent: Scrapy
 User-agent: Screaming Frog SEO Spider
+User-agent: ScryBot
 User-agent: SEBot-WA
 User-agent: Seekport Crawler
 User-agent: SleepBot
