@@ -42,7 +42,7 @@ modele = true
   - Réévaluer le traitement après 3 crises ({{< modal-btn modal-mtoq >}}score M-TOQ{{< /modal-btn >}})
 - Le traitement de fond de la migraine est envisageable après 3 mois de céphalées:
   - Indications: crises ou traitement de crise ≥ 8 j/mois depuis ≥ 3 mois ou {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 60 et intensité imposant un arrêt total des activités pour ≥ 50 % des épisodes ou {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 65
-  - < 15 j/mois (dite épisodique): propranolol ou métoprolol ≥ 3 mois. Si échec ou contre-indication: amitriptyline, candésartan ou avis spécialisé d'emblée
+  - < 15 j/mois (dite épisodique): propranolol ou métoprolol (prescription spécialisée) ≥ 3 mois. Si échec ou contre-indication: amitriptyline, candésartan ou avis spécialisé d'emblée
   - En cas de migraine chronique (≥ 15 jours/mois): propranolol possible ou avis spécialisé d'emblée pour anti-CGRP, atogépant ou autre
 - Le suivi neurologique est systématique en cas d'aura atypique ou sévère, d'inefficacité du traitement de crise ou de migraine sévère: ≥ 8 jours/mois ou {{< modal-btn modal-hit6 >}}score HIT-6{{< /modal-btn >}} ≥ 65
 
@@ -436,7 +436,7 @@ Prise en charge par traitement de fond au moins 3 mois avant de conclure à une 
   - [Propranolol](https://base-donnees-publique.medicaments.gouv.fr/medicament/65135519/extrait#tab-rcp) 20-240 mg/j en 2 prises ou LP matin.  
   Débuter à 40 mg x 2-3/j avec paliers de 40 mg/semaine (*Prescrire*). Pas d'arrêt brutal.
   Effets indésirables: asthénie, mauvaise tolérance à l'effort; Contre-indications des BB.
-  - [Métoprolol](https://base-donnees-publique.medicaments.gouv.fr/medicament/62837759/extrait#tab-rcp) LP 50-200 mg le matin
+  - [Métoprolol](https://base-donnees-publique.medicaments.gouv.fr/medicament/62837759/extrait#tab-rcp) LP 50-200 mg le matin (prescription spécialisée)
   - Alternatives aux bêtabloquants: amitriptyline 25-150 mg/j, candésartan 16 mg/j
   - Avis spécialisé pour anti-CGRP, gépant (voire topiramate)
 - **Migraine chronique** {{%class%}}(≥ 15 j/mois){{%/class%}}
@@ -580,7 +580,7 @@ Informer:
 Si crises invalidantes persistantes:
 
 - Traitements non pharmacologiques: activité physique, acupuncture, TENs
-- [Propranolol](https://www.lecrat.fr/4317/) ou métoprolol en 1^re^ intention
+- [Propranolol](https://www.lecrat.fr/4317/) ou métoprolol (prescription spécialisée) en 1^re^ intention
 - Amitriptyline en 2^e^ intention
 
 Utiliser les doses minimales efficaces et arrêter les traitements avant l'accouchement.  
