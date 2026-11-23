@@ -10,9 +10,9 @@ auteurs = ["Jean-Baptiste FRON"]
 relecteur = "Pr B. HOUSSET (SPLF)"
 date = "2021-03-28T23:07:00+02:00"
 publishdate = "2021-04-14"
-lastmod = "2026-09-22"
+lastmod = "2026-11-23"
 specialites = ["pneumologie"]
-annees = "2026"
+annees = "2027"
 sources = ["GOLD", "ERS", "HAS", "SPLF"]
 tags = ["asthme", "BPCO", "dépistage", "dyspnée", "fatigue", "tabac", "toux", "vaccin"]
 english = ["Chronic obstructive pulmonary disease (COPD)"]
@@ -36,7 +36,7 @@ todo = "PLAN D'ACTION - TargetCOPD, action plan <https://www.livingwellwithcopd.
 - La prise en charge de la BPCO associe: spirométrie annuelle, bronchodilatateurs (ci-dessous), arrêt du tabac (facteur principal du déclin du VEMS), réhabilitation respiratoire, vaccinations (covid-19, grippe, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}, VRS si +65 ans (NR)), activité physique et prévention cardiovasculaire
 - Le choix des bronchodilatateurs de longue durée d'action dépend du groupe GOLD ABE (tableau ci-dessous): {{< modal-btn modal-ttt-laba >}}LABA{{< /modal-btn >}} ou {{< modal-btn modal-ttt-lama >}}LAMA{{< /modal-btn >}}, {{< modal-btn modal-ttt-laba-lama >}}bithérapie LABA + LAMA{{< /modal-btn >}}, trithérapie {{< modal-btn modal-ttt-laba-lama-csi >}}LABA + LAMA + corticoïdes inhalés CSI{{< /modal-btn >}} (guidée par les EFR, les exacerbations)
 - En cas d'exacerbation: évaluation des paramètres vitaux, {{< modal-btn modal-ttt-bdca >}}bronchodilatateurs de courte durée{{< /modal-btn >}}, surveillance
-- La BPCO n'est pas une contre-indication aux bêtabloquants (*ESC 2016 IC*)
+- La BPCO n'est pas une contre-indication aux bêtabloquants (*GOLD 2027*, *ESC 2016 IC*)
 
 Supports: [vidéos des techniques d'inhalation](https://splf.fr/videos-zephir/) ([autre set de vidéos](https://www.asthmaandlung.org.uk/living-with/inhaler-videos))
 
@@ -45,7 +45,7 @@ Supports: [vidéos des techniques d'inhalation](https://splf.fr/videos-zephir/) 
 <div class="alert">
 {{< traitements/gold-groupe >}}
 
-<small>Aide au choix du traitement bronchodilatateur de la BPCO (*GOLD 2026*).</small>
+> Aide au choix du traitement bronchodilatateur initial de la BPCO (*GOLD 2027*).
 
 </div>
 
@@ -175,11 +175,11 @@ Dépister par **spirométrie** tout sujet de plus de 40 ans avec au moins 1 fact
 - [Toux chronique]({{% relref "toux-chronique.md" %}})
 - Expectoration fréquente
 - Dyspnée
-- Infections pulmonaires récidivantes (*GOLD 2025*)
-- Sujets éligibles au dépistage du cancer du poumon (*GOLD 2026*)
-- *GOLD 2026*:
+- Infections pulmonaires récidivantes (*GOLD 2027*)
+- Sujets éligibles au dépistage du cancer du poumon (*GOLD 2027*)
+- *GOLD 2027*:
   - +35 ans avec exposition aux facteurs de risque (tabac, pollution, profession), prédisposition génétique, prématurité, symptômes respiratoires
-  - Réaliser un test de dépistage: LFQ, CDQ, COPD-PS, PUMA, CAPTURE et une spirométrie si le test est positif
+  - Réaliser un questionnaire parmi: [LFQ](/scores/lfq/), CDQ, [COPD-PS](https://www-copdfoundation-org.translate.goog/Screener.aspx?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_pto=wapp), PUMA, CAPTURE et une spirométrie si le test est positif
 
 > -- *HAS 2019*
 
@@ -228,7 +228,7 @@ Tabagisme, âge +35 ans, dyspnée persistante et progressive, décrite comme né
   Asthme, allergie, atopie, sinusite, polypes du rhinopharynx, infections respiratoires infantiles, hospitalisations pour pathologies respiratoires.
 - Comorbidités  
   - Cardiovasculaires  
-    [Hypertension]({{% relref "hypertension-arterielle.md" %}}), coronaropathie, [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) (8,8 %), [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) (20-70 %), [arythmie]({{% relref "fibrillation-atriale.md" %}}), [diabète]({{% relref "diabete-type-2.md" %}})
+    [Hypertension]({{% relref "hypertension-arterielle.md" %}}) (50 %), coronaropathie (20 %), [AVC]({{% relref "accident-vasculaire-cerebral.md" %}}), [AOMI]({{% relref "arteriopathie-obliterante-membres-inferieurs.md" %}}) (8,8 %), [insuffisance cardiaque]({{% relref "insuffisance-cardiaque-chronique.md" %}}) (30 %), arythmie (jusqu'à 30 %), valvulopathie (~40 %), [diabète]({{% relref "diabete-type-2.md" %}})
   - Cancers liés au tabac ([poumon]({{% relref "cancer-poumon.md" %}}), [vessie]({{% relref "cancer-vessie.md" %}}), digestifs)
   - Dépister anxiété et [dépression]({{% relref "depression.md" %}}) ({{< modal-btn modal-phq4 >}}questionnaire PHQ-4{{< /modal-btn >}}), troubles cognitifs
   - [Ostéoporose]({{% relref "osteoporose.md" %}}) et amyotrophie
@@ -293,8 +293,10 @@ En cas d'**exacerbation de BPCO**, la **sévérité** est évaluée selon la **c
 - Selon le contexte: CRP, NT-proBNP
 - Radiographie de thorax  
   Répétée lors des exacerbations (*SFR*).
+- **Scanner thoracique**  
+  Indications: au moins 1 fois, exacerbations ou hospitalisations fréquentes, symptômes discordants avec la spirométrie.
 - Consultation de cardiologie
-- Consultation de pneumologie
+- **Consultation de pneumologie**
 
 ### Spirométrie
 
@@ -308,10 +310,8 @@ Indications aux **gaz du sang**: SpO₂ ≤ 92 %, {{< modal-btn modal-score-mmrc
 
 ### Autres examens
 
-- **Scanner thoracique**  
-  Indications: exacerbations ou hospitalisations fréquentes, symptômes discordants avec la spirométrie.
 - Déficit en alpha-1 antitrypsine  
-  Dosage unique au diagnostic. Une concentration < 20 % évoque un déficit homozygote. (*GOLD 2026*)
+  Dosage unique au diagnostic. Une concentration < 20 % évoque un déficit homozygote. Suivi pneumologique. (*GOLD 2027*)
 - ECBC selon le pneumologue
 - Envisager un suivi par scanner faible dose pour le [dépistage de cancer du poumon]({{% relref "cancer-poumon.md" %}})
 - NT-proBNP, D-dimères pour éliminer une part cardiaque
@@ -456,19 +456,19 @@ Mesures générales de prise en charge de la BPCO:
 - ==**Vaccinations**==
   - Mise à jour du [calendrier vaccinal]({{% relref "vaccination.md" %}}) avec la coqueluche
   - Covid-19 et grippe annuels, {{< modal-btn modal-vaccin-pneumocoque >}}pneumocoque{{< /modal-btn >}}
-  - +65 ans: VRS 1 fois (NR -- *GOLD 2026*, *Calendrier vaccinal*)
-  - +50 ans: [zona]({{% relref "zona.md" %}}) (*GOLD 2026*, 65 ans dans le Calendrier vaccinal)
+  - [Zona]({{% relref "zona.md" %}}) et VRS NR (pour tous selon *GOLD 2027*, +65 ans selon *Calendrier vaccinal*)
 - ==**Réhabilitation respiratoire**==
-  - Essentielle pour quasi tous (GOLD B et E) pour réduire la dyspnée, le stress et améliorer la qualité de vie
+  - Essentielle pour tous (sauf GOLD A) pour réduire la dyspnée, le stress et améliorer la qualité de vie
   - Dès 1 mois post-hospitalisation, durée 6-8 semaines, répétée si besoin
   - [Liste des centres de réhabilitation respiratoire (RR)](https://umap.openstreetmap.fr/fr/map/carte-de-la-readaptation-respiratoire-alveole_465719)
   - Voire kinésithérapie respiratoire à domicile  
     Ordonnance: "Séances de réadaptation respiratoire kinésithérapique pour maladie respiratoire chronique obstructive".
-- Activité physique quotidienne
+- **Activité physique quotidienne**
   - Augmenter le temps de marche quotidien, escaliers, vélo  
     Favoriser avec podomètre, appli (Google Fit ...)
   - [Guide patient APA (HAS)](https://www.has-sante.fr/jcms/p_3391313/fr/l-activite-physique-pour-votre-sante-bpco-broncho-pneumopathie-chronique-obstructive)
   - [Annuaire pour l'Activité Physique Adaptée (APA)](https://www.sfp-apa.fr/annuaire/)
+- Garder la chambre à 18-24 °C et l'habitation sous 32°C
 - [ALD n°14]({{% relref "affection-longue-duree.md" %}})  
   Indications: insuffisance respiratoire chronique, hypercapnie > 50 mmHg, {{< modal-btn modal-severite-bpco >}}VEMS < 50%{{< /modal-btn >}}
 - Évaluation nutritionnelle  
@@ -670,7 +670,7 @@ spirométrie -- Diagnostic différentiel --> differentiel("- Asthme<br>- Cancer 
 {{% /collapse %}}
 {{%sources%}}
 
-- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease: 2026 Report. 2025.](https://goldcopd.org/2026-gold-report-and-pocket-guide/)
+- [GOLD. Global strategy for the diagnosis, management and prevention of Chronic obstructive pulmonary disease: 2027 Report. 2026.](https://goldcopd.org/2027-gold-report-and-pocket-guide/)
 - [SPILF. Info-antibio N°107. 25/12/2025. (PDF)](https://www.infectiologie.com/UserFiles/File/spilf/atb/info-antibio/info-antibio-dureeatb.pdf)
 - [Williamson A, et al. Vitamin D for the management of chronic obstructive pulmonary disease. Cochrane Database of Systematic Reviews. 2024.](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013284.pub2/full/fr)
 - [CBIP. Gabapentine et prégabaline : risque d'exacerbations sévères de BPCO. Folia. 2024.](https://www.cbip.be/fr/articles/4425?folia=4409)
