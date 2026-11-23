@@ -96,7 +96,7 @@ export default async (request, context) => {
     return context.next();
   }
 
-  const forbiddenBots = ['ChatGPT', 'ChatGPT-User', 'Claude-User', 'ClaudeBot', 'Claude-SearchBot', 'Claude-Web', 'DoubaoBot', 'ERNIEBot', 'Google-NotebookLM', 'GPTBot', 'Grok', 'GrokBot', 'HatchFeed', 'KimiBot', 'Kimi-SearchBot', 'Meta-ExternalAgent', 'Meta-ExternalFetcher', 'Meta-WebIndexer', 'MistralAI-Index', 'muse-', 'OAI-AdsBot', 'OAI-SearchBot', 'PerplexityBot', 'QwenBot'];
+  const forbiddenBots = ['Applebot-Extended', 'Bytespider', 'CCBot', 'ChatGPT', 'ChatGPT-User', 'Claude-User', 'ClaudeBot', 'Claude-SearchBot', 'Claude-Web', ' DeepSeekBot', 'DoubaoBot', 'ERNIEBot', 'Google-NotebookLM', 'GPTBot', 'Grok', 'GrokBot', 'HatchFeed', 'KimiBot', 'Kimi-SearchBot', 'Meta-ExternalAgent', 'Meta-ExternalFetcher', 'Meta-WebIndexer', 'MistralAI-Index', 'MistralBot', 'muse-', 'OAI-AdsBot', 'OAI-SearchBot', 'PerplexityBot', 'QwenBot'];
   const isForbiddenBot = forbiddenBots.some(u =>
     ua.toLowerCase().includes(u.toLowerCase())
   );
