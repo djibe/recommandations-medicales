@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2025-02-26T19:30:00+01:00"
 publishdate = "2025-01-01"
-lastmod = "2025-02-26"
+lastmod = "2026-11-23"
 specialites = ["dermatologie", "pédiatrie"]
 annees = "2014"
 sources = ["Bibliographie"]
@@ -25,6 +25,8 @@ todo = "fiche > photo > newsletter > flow > Kanban"
 {{%article-summary%}}
 
 Voir [Dermatoclic: verrues](https://www.dermatoclic.com/verrues)
+
+Pour le traitement des verrues du pied, les podologues formés peuvent désormais utiliser la cryothérapie ([Décret n° 2026-601 du 6 juillet 2026 relatif au traitement des verrues par les pédicures-podologues](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054395444)).
 
 Traitements disponibles en pharmacie avec AMM (non remboursés): [Coricide Le diable®](https://base-donnees-publique.medicaments.gouv.fr/medicament/61675902/extrait#tab-rcp), [Duofilm®](https://base-donnees-publique.medicaments.gouv.fr/medicament/66684969/extrait#tab-rcp), [Pommade cochon®](https://base-donnees-publique.medicaments.gouv.fr/medicament/63985038/extrait#tab-rcp), Verrufilm®
 
