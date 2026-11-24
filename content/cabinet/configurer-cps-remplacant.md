@@ -5,7 +5,7 @@ description = "Guide pour configurer la carte CPS du médecin remplaçant: dél�
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-10-11T19:28:00+02:00"
 publishdate = "2026-10-13"
-lastmod = "2026-10-13"
+lastmod = "2026-11-24"
 annees = "2026"
 sources = ["Amelipro"]
 tags = []
@@ -28,6 +28,9 @@ Dans le logiciel de gestion du cabinet (LGC), vérifier que le médecin remplaç
 
 ## Configuration de la délégation Amelipro {.mt-5}
 
+> [!WARNING]
+> Le remplaçant ne peut avoir un compte Amelipro que lorsqu'une délégation lui est accordée. Il crée une fois ce compte. En cas de remplacements multiples, il utilisera ce même compte. Attention: à l'échéance des délégations, son compte est automatique supprimé et il devra le recréer lors d'une future délégation.
+
 Aller sur [Amelipro](https://espacepro.ameli.fr) et se connecter avec la carte (e)-CPS du médecin installé.
 
 - En haut à droite, cliquer sur l'**icône** de profil du médecin > **Mon compte**.
@@ -38,7 +41,7 @@ Aller sur [Amelipro](https://espacepro.ameli.fr) et se connecter avec la carte (
 - Renseigner le numéro **RPPS** du remplaçant
 - Puis sélectionner la/les **structures** dans lesquelles il peut utiliser cette délégation
 - Enfin, confirmer la délégation
-
-Le médecin remplaçant doit ensuite valider la délégation avec un compte Amelipro existant ou en créer un.
+- Le médecin remplaçant doit ensuite valider la délégation avec un compte Amelipro existant ou en créer un
+- Ensuite, retourner dans l'espace de délégation pour **Valider** la délégation
 
 Vérifier ensuite que le remplaçant est en mesure d'utiliser le logiciel et les services Amelipro (arrêts de travail, bons de transport ...) avec sa carte CPS.
