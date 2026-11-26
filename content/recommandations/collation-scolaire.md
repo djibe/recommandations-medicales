@@ -26,7 +26,7 @@ todo = "photo > Kanban"
 {{%article-summary%}}
 
 - Chez l'enfant, le rythme recommandé pour les repas est de 3 repas (petit-déjeuner, déjeuner et dîner) et 1 goûter
-- Le grignotage, dont la collation matinale, n'est pas recommandée. Le travail doit être porté sur l'éducation pour un petit déjeuner sain
+- Le grignotage, auquel s'apparente la collation matinale, n'est pas recommandé. Le travail doit être porté sur l'éducation pour un petit déjeuner sain
 - Pour tous les repas les produits privilégiés sont les aliments sains, naturels et la boisson est l'eau
 
 {{%/article-summary%}}

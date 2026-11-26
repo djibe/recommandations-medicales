@@ -6,7 +6,7 @@ noSearchContent = true
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-10-05T11:56:00+02:00"
 publishdate = "2026-10-05"
-lastmod = "2026-10-05"
+lastmod = "2026-11-26"
 specialites = ["cardiologie"]
 tags = ["risque cardiovasculaire"]
 sctid = ""
@@ -14,10 +14,10 @@ slider = true
 todo = ""
 +++
 
-Le SCORE2-HF (Systematic Coronary Risk Estimation version 2 - Heart Failure) est le score de référence de la Société européenne de cardiologie (*ESC 2026*) pour l'estimation du risque d'insuffisance cardiaque à 10 et 30 ans, en l'absence de maladie cardiovasculaire.
+Le SCORE2-HF (Systematic Coronary Risk Estimation version 2 - Heart Failure) est le score de référence de la Société européenne de cardiologie (*ESC 2026*) pour l'estimation du risque d'insuffisance cardiaque à 10 et 30 ans, en l'absence d'insuffisance cardiaque.
 {.lead .line-height .mb-5}
 
-L'utilisation du SCORE2-HF est recommandée **de 40 à 84 ans** en cas de **maladie rénale chronique** (*ESC 2026 CKD*).
+L'utilisation du SCORE2-HF est recommandée **de 40 à 84 ans** en cas de **maladie rénale chronique** (*ESC 2026 CKD*). Le SCORE2-HF peut aussi être utilisé en cas de facteur de risque d'insuffisance cardiaque: diabète, HTA, obésité, tabagisme (*ESC 2026 HF*).
 
 {{< scores/score2hf >}}
 

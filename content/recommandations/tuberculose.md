@@ -73,9 +73,28 @@ Le BCG est réalisé à partir d'un mois, idéalement à ==**2 mois**== et rattr
 Une **BCGite** survient dans sous 2-3 semaines avec souvent une ulcération de 5 mm (en moyenne), guérissant sous 3 mois ou plus (aucune application locale, pansement sec simple si écoulement). Elle peut laisser une cicatrice de 3 à 7 mm. Une adénopathie axillaire indolore locale est fréquente. ([guide info Ameli](https://www.ameli.fr/assure/sante/themes/tuberculose/vaccination))
 {.alert .alert-info}
 
-### Indications au BCG en 2026
+### Indications au BCG en 2026 en situation de pénurie permanente
 
-Le BCG est indiqué en cas de risque élevé de tuberculose:
+Le BCG est indiqué en cas de risque élevé de tuberculose, dans l'ordre de priorité suivant.
+
+**Enfants prioritaires:**
+
+- Guyane et Mayotte: avant la sortie de la maternité
+- Enfants de moins de 5 ans avec ≥ 1 parmi:
+  - Né dans un pays de forte endémie (voir plus bas)
+  - Dont ≥ 1 parent est originaire d'un pays de forte endémie
+  - Devant séjourner ≥ 1 mois d'affilée en pays de forte endémie
+  - Cas de tuberculose récente (< 5 ans) dans son entourage
+  - Enfant dans toute situation jugée par le médecin à risque d'exposition au bacille tuberculeux  
+    Logement (habitat précaire ou surpeuplé), socio-économiques (AME, CMU/CSS) ou en contact régulier avec des adultes originaires d'un pays de forte endémie.
+
+- **2^e^ niveau:**
+  - Enfants < 5 ans résidant en Ile-de-France
+- **3^e^ niveau:**
+  - France entière: vaccination de tous les enfants de 5 à 15 ans révolus présentant un facteur de risque de tuberculose identifié et après test tuberculinique.
+
+<details>
+  <summary>Indications utopiques</summary>
 
 - Avant la sortie de la maternité: en Guyane ou à Mayotte ou cas récent (< 5 ans) de tuberculose dans son entourage
 - Enfant né dans un pays de forte endémie (voir plus bas)
@@ -87,6 +106,10 @@ Le BCG est indiqué en cas de risque élevé de tuberculose:
   Logement (habitat précaire ou surpeuplé), socio-économiques (AME, CMU/CSS) ou en contact régulier avec des adultes originaires d'un pays de forte endémie.
 
 Pour les professionnels de santé: évaluation de l'exposition au cas par cas par la *médecine du travail*.
+
+> -- *Calendrier vaccinal 2026*
+
+</details>
 
 > [!WARNING]
 > **Contre-indications au BCG:** [VIH]({{% relref "vih-sida.md" %}}), chimiothérapie, corticoïdes.

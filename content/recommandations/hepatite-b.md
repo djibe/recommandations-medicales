@@ -207,16 +207,14 @@ Vaccins hépatite B à partir de 16 ans:
 
 ### Vaccins hépatite B pour les enfants
 
-Vaccins hépatite B chez l'enfant avant 16 ans:
+Le rattrapage de l'hépatite B est recommandé jusqu'à 15 ans révolus:
 
 - [Engerix B10®](https://base-donnees-publique.medicaments.gouv.fr/medicament/65782652/extrait#tab-rcp)
 - [HBVaxPro 5®](https://base-donnees-publique.medicaments.gouv.fr/medicament/69352630/extrait#tab-rcp-et-notice)
 
-#### Rattrapage de la vaccination hépatite B de 11 à 15 ans
-
-- 2 doses à M0-M6 par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62279329/extrait#tab-rcp)  
-  Sauf risque élevé entre les 2 doses.
 - 3 doses à M0-M1-M6
+- Alternative possible de 11 à 15 ans:  
+  2 doses à M0-M6 par [Engerix B20®](https://base-donnees-publique.medicaments.gouv.fr/medicament/62279329/extrait#tab-rcp). Sauf risque élevé entre les 2 doses.
 
 ### Vaccins hépatite B pour les nourrissons
 

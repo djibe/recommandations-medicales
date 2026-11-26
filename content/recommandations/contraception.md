@@ -36,6 +36,7 @@ flowchart = true
   ou démarrage à tout moment du cycle: vérifier l'absence de grossesse, préservatif 7 jours, risque de métrorragies pendant la 1^re^ plaquette.
 - Informer sur la [contraception d'urgence]({{% relref "contraception-urgence.md" %}}), savoir [gérer un oubli de pilule](https://www.oubli.formagyn.fr), et informer sur la surveillance des troubles de l'humeur (dépression)
 - Pas d'interaction DIU et anti-inflammatoires AINS
+- [Information CNGOF sur le désogestrel](https://cngof.fr/app/uploads/2026/09/2026-09-15-CP-CNGOF-Desogestrel-et-Meningiomes-1.pdf?x92631)
 
 Les contraceptions définitives ne sont pas encore traitées.
 

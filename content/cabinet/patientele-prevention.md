@@ -5,7 +5,7 @@ description = "Patientèle prévention: tableau de bord de l'Assurance Maladie p
 auteurs = ["Jean-Baptiste FRON"]
 date = "2026-09-20T18:59:00+02:00"
 publishdate = "2026-09-20"
-lastmod = "2026-09-20"
+lastmod = "2026-11-26"
 annees = "2026"
 sources = ["Ameli"]
 tags = []
@@ -15,7 +15,7 @@ todo = "liens"
 +++
 
 L'Assurance Maladie propose un tableau de bord pour visualiser les indicateurs de prévention au niveau de sa patientèle, appelé **Patientèle prévention**.  
-Les indicateurs disponibles sont les **statuts de dépistage** de la maladie rénale chronique, du diabète, du cancer colorectal et du sein et le suivi du diabète, pour l'ensemble des patients de la patientèle concernés.
+Les indicateurs disponibles sont les **statuts de dépistage** de la maladie rénale chronique, du diabète, du cancer colorectal et du sein, le suivi du diabète, les vaccination grippes, covid et pneumocoque des +65 ans pour l'ensemble des patients de la patientèle concernés.
 {.lead}
 
 > [!INFO]
@@ -23,7 +23,7 @@ Les indicateurs disponibles sont les **statuts de dépistage** de la maladie ré
 
 ## Consulter le tableau de bord **Patientèle prévention** sur Amelipro {.mt-5}
 
-Lancer ***Amelipro*** depuis un navigateur internet. Dans **Activités**, cliquer sur **Patientèle prévention**.
+Ouvrir ***Amelipro*** dans un navigateur internet. Dans **Activités**, cliquer sur **Patientèle prévention**.
 
 ![Accéder à Amelipro Patientèle prévention](/images/cabinet/patientele-prevention-1.avif "600px")
 

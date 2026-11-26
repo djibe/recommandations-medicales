@@ -361,8 +361,9 @@ Bilan à la découverte d'une insuffisance rénale ou d'une maladie rénale chro
 
 ### Prise en charge de la maladie rénale chez le diabétique
 
-Mesures précédentes avec les particularités suivantes chez la personne vivant avec un diabète (*SFD*, *HAS*, *KDIGO*, *ADA*, *ESC 2023*):
+Mesures précédentes avec les particularités suivantes chez la personne vivant avec un diabète (*SFD*, *HAS*, *KDIGO*, *ADA*, *ESC*):
 
+- Finérénone (*ESC 2026 HF*)
 - Albuminurie cible < 3 mg/mmol
   - Contrôle par {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}} + anti-aldostérone finérénone (Kerendia® en [AAC](https://ansm.sante.fr/tableau-acces-derogatoire/kerendia)) si non contrôlée (si DFG ≥ 25 et kaliémie normale)
   - Albuminurie et normotension: considérer {{< modal-btn modal-iec >}}IEC{{< /modal-btn >}}/{{< modal-btn modal-ara2 >}}ARA2{{< /modal-btn >}}
@@ -528,6 +529,7 @@ style fdr stroke:#4150f5, stroke-width:1px
 {{% /collapse %}}
 {{%sources%}}
 
+- [Køber L, et al. 2026 ESC Guidelines for the management of heart failure. Eur Heart J. 2026.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag100/8766302) (ESC/HFA/EACTS)
 - [Damman K, et al. 2026 ESC Guidelines for the management of cardiovascular disease and chronic kidney disease, in collaboration with the European Renal Association (ERA). Eur Heart J. 2026.](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag098/8766283)
 - [HAS. Actualisation des indications des tests de détection de l'infection tuberculeuse latente par mesure de la production d'interféron gamma (tests IGRA) - Patients immunodéprimés ou avant instauration d'un traitement immunosuppresseur. Évaluation des technologies de santé. 2026.](https://www.has-sante.fr/jcms/p_4015118/fr/actualisation-des-indications-des-tests-de-detection-de-l-infection-tuberculeuse-latente-par-mesure-de-la-production-d-interferon-gamma-tests-igra-patients-immunodeprimes-ou-avant-instauration-d-un-traitement-immunosuppresseur)
 - [Ameli Médecin. Maladie rénale chronique. 06/03/2026.](https://www.ameli.fr/medecin/sante-prevention/pathologies/maladie-renale-chronique)

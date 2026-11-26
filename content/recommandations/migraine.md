@@ -321,7 +321,7 @@ Consigner les prises dans l'*agenda migraineux*. {{< modal-btn modal-mtoq >}}Rec
 
 {{%/info%}}
 
-Prescrire anti-inflammatoires AINS et triptan selon les traitements déjà essayés et préférences du patient:
+Prescrire anti-inflammatoires ==**AINS**== et ==**triptan**== (prescription spécialisée avant 18 ans) selon les traitements déjà essayés et préférences du patient:
 
 - **Crise légère:** AINS, triptan si persistance à H1
 - **Crise modérée à sévère:** triptan et AINS si persistance à H1
