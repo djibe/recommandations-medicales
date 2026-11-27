@@ -8,7 +8,7 @@ synonyms = []
 auteurs = ["Jean-Baptiste FRON"]
 date = "2020-10-14T15:52:41+02:00"
 publishdate = "2020-10-14"
-lastmod = "2026-09-04"
+lastmod = "2026-11-23"
 specialites = ["infectiologie", "pédiatrie", "thérapeutique"]
 annees = "2026"
 sources = ["MinSanté", "HAS", "HCSP"]
@@ -71,7 +71,7 @@ VVA
 | :--------: | ---------------------------------------------------- | ------------------------------------------------------------------------- |
 | Né après<br>la campagne précédente<br>(remb. du 14/9 au 28/2) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus/Enflonsia (au mieux avant la sortie de maternité) |
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 20<br>Rotavirus<br>± {{< modal-btn modal-bcg-indications >}}Tuberculose{{< /modal-btn >}} | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 20<br>RotaTeq 1/3, Rotarix 1/2<br>± BCG en PMI |
-|   3 mois   | Méningo B<br>Rotavirus<br>—<br>Prématuré:<br>+ Pneumo 20<br>+ hexavalent (*GPIP*) | Bexsero 1/3<br>RotaTeq 2/3, Rotarix 2/2<br>—<br><br>Prevenar 20<br><br> |
+|   3 mois   | Méningo B<br>Rotavirus<br>—<br>Prématuré:<br>+ hexavalent (*GPIP*) | Bexsero 1/3<br>RotaTeq 2/3, Rotarix 2/2<br>—<br><br><br>    |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 20<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 20<br>RotaTeq 3/3              |
 |   5 mois   | Méningo B                                            | Bexsero 2/3                                                               |
 |   6 mois   | Méningo ACWY<br>Pneumo 20                            | Nimenrix<br>Prevenar 20 ([Nouveau](https://www.has-sante.fr/jcms/p_3601959/fr/revision-de-la-strategie-de-vaccination-contre-les-infections-invasives-a-pneumocoques-place-des-vaccins-a-haute-valence-prevenar-20-chez-les-nourrissons-les-enfants-et-les-adultes-et-capvaxive-chez-les-adultes#:~:text=Sch%C3%A9ma%203%2B1%C2%A0%3A%203%20doses%20de%20primovaccination%20%282%2C%204%20et%206%20mois%29)) |
@@ -316,6 +316,7 @@ Documents pour informer sur la vaccination:
 {{% /collapse %}}
 {{%sources%}}
 
+- [HAS. Vaccination contre les infections invasives à pneumocoques : place du vaccin CAPVAXIVE - Recommandation. 2026.](https://has-sante.fr/jcms/p_4606429/fr/vaccination-contre-les-infections-invasives-a-pneumocoques-place-du-vaccin-capvaxive-recommandation)
 - [HAS. Révision de la stratégie de vaccination contre les infections invasives à pneumocoques - Place des vaccins à haute valence PREVENAR 20 chez les nourrissons, les enfants et les adultes, et CAPVAXIVE chez les adultes. 2026.](https://www.has-sante.fr/jcms/p_3601959/fr/revision-de-la-strategie-de-vaccination-contre-les-infections-invasives-a-pneumocoques-place-des-vaccins-a-haute-valence-prevenar-20-chez-les-nourrissons-les-enfants-et-les-adultes-et-capvaxive-chez-les-adultes)
 - [Davies S. Effectiveness of interventions to increase vaccine uptake: component network meta-analysis. BMJ. 2026.](https://www.bmj.com/content/393/bmj-2025-087578)
 - {{< references/calendrier-vaccinal >}}
@@ -342,6 +343,10 @@ Documents pour informer sur la vaccination:
 - [HCSP. Vaccination des personnes immunodéprimées ou aspléniques. Recommandations actualisées. 2014.](https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=504)
 - [Infovac](https://www.infovac.fr)
 - [Vaccination Info Service](https://professionnels.vaccination-info-service.fr/Aspects-pratiques/Acte-vaccinal/Administration-des-vaccins)
+
+### Bibliographie en attente
+
+- [Vie Le Sage F, et al. Rattrapage des vaccinations chez l'enfant et l'adulte. Journal de pédiatrie et de puériculture. 2019. (PDF)](https://www.infovac.fr/~documents/route:/download/1630/)
 
 {{%/sources%}}
 {{% modal title="Indications au vaccin BCG" id="modal-bcg-indications"%}}

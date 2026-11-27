@@ -9,7 +9,7 @@ synonyms = []
 auteurs = ["Martin FLOCH", "Jean-Baptiste FRON"]
 date = "2020-06-02T11:57:29+02:00"
 publishdate = "2020-06-02"
-lastmod = "2026-09-04"
+lastmod = "2026-11-23"
 specialites = ["pédiatrie"]
 annees = "2026"
 sources = ["MinSanté", "Service-Public"]
@@ -101,7 +101,7 @@ Pour plus d'informations sur les vaccinations, dont les obligations vaccinales, 
 | :-------------------: | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | Né après<br>la campagne précédente<br>(remb. du 14/9 au 28/2) | [Ig anti-VRS]({{% relref "bronchiolite.md" %}}) | Sauf Abrysvo en fin de grossesse (> 14j avant accouchement):<br>Beyfortus/Enflonsia (au mieux avant la sortie de maternité) |
 |   2 mois   | DTCaP-Hib-HB<br>Pneumo 20<br>Rotavirus<br>± {{< modal-btn modal-bcg-indications >}}Tuberculose{{< /modal-btn >}} | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 20<br>RotaTeq 1/3, Rotarix 1/2<br>± BCG en PMI |
-|   3 mois   | Méningo B<br>Rotavirus<br>—<br>Prématuré:<br>+ Pneumo 20<br>+ hexavalent (*GPIP*) | Bexsero 1/3<br>RotaTeq 2/3, Rotarix 2/2<br>—<br><br>Prevenar 20<br><br> |
+|   3 mois   | Méningo B<br>Rotavirus<br>—<br>Prématuré:<br>+ hexavalent (*GPIP*) | Bexsero 1/3<br>RotaTeq 2/3, Rotarix 2/2<br>—<br><br><br>    |
 |   4 mois   | DTCaP-Hib-HB<br>Pneumo 20<br>Rotavirus               | Hexyon, Infanrix Hexa, Vaxelis<br>Prevenar 20<br>RotaTeq 3/3              |
 |   5 mois   | Méningo B                                            | Bexsero 2/3                                                               |
 |   6 mois   | Méningo ACWY<br>Pneumo 20                            | Nimenrix<br>Prevenar 20 ([Nouveau](https://www.has-sante.fr/jcms/p_3601959/fr/revision-de-la-strategie-de-vaccination-contre-les-infections-invasives-a-pneumocoques-place-des-vaccins-a-haute-valence-prevenar-20-chez-les-nourrissons-les-enfants-et-les-adultes-et-capvaxive-chez-les-adultes#:~:text=Sch%C3%A9ma%203%2B1%C2%A0%3A%203%20doses%20de%20primovaccination%20%282%2C%204%20et%206%20mois%29)) |
@@ -150,6 +150,7 @@ Pour plus d'informations sur les vaccinations, dont les obligations vaccinales, 
 
 Sources citées en regard des sections et:
 
+- [HAS. Vaccination contre les infections invasives à pneumocoques : place du vaccin CAPVAXIVE - Recommandation. 2026.](https://has-sante.fr/jcms/p_4606429/fr/vaccination-contre-les-infections-invasives-a-pneumocoques-place-du-vaccin-capvaxive-recommandation)
 - [HAS. Révision de la stratégie de vaccination contre les infections invasives à pneumocoques - Place des vaccins à haute valence PREVENAR 20 chez les nourrissons, les enfants et les adultes, et CAPVAXIVE chez les adultes. 2026.](https://www.has-sante.fr/jcms/p_3601959/fr/revision-de-la-strategie-de-vaccination-contre-les-infections-invasives-a-pneumocoques-place-des-vaccins-a-haute-valence-prevenar-20-chez-les-nourrissons-les-enfants-et-les-adultes-et-capvaxive-chez-les-adultes)
 - {{< references/calendrier-vaccinal >}}
 - [HAS. Avis n° 2025.0040/AC/SESPEV du 17 juillet 2025 du collège de la Haute Autorité de santé relatif à l'ajout des vaccins contre les maladies méningococciques invasives des sérogroupes A, C, W, Y, et B à l'arrêté fixant la liste des vaccins mentionnée à l'article L. 5122-6 du code de la santé publique. 17/07/2025. (PDF)](https://www.has-sante.fr/upload/docs/application/pdf/2025-07/avis_n2025.0040_ac_sespev_17_juillet_2025_college_has_a_lajout_des_vaccins_contre_les_maladies_meningococciques_a_c_w_y_b_la.pdf)
